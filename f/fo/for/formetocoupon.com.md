@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the formetocoupon.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223094359id_/http%3A//www.formetocoupon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the formetocoupon.com privacy policy that was archived on 2014-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140523201337id_/http%3A//www.formetocoupon.com/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - For Me To Coupon Premier Affiliate Coupon Datafeed and Tools - For Me To Coupon Premier Affiliate Coupon Datafeed and Tools
-
-* * *
+# Privacy Policy - For Me To Coupon
 
 ### Overview
 
 For Me To Coupon (“FMTC”) is committed to clearly informing users about the collection and use of their information when using our services. As a result, we have put together this Privacy Policy to explain how we collect, use and disclose certain information. This Privacy Policy only applies to our website and service located at ForMeToCoupon.com (the “Web site”).
-
-* * *
 
 ### Collection of Personal Information
 
@@ -16,15 +12,11 @@ When using the Web site and/or registering for our service, you may be asked to 
 
 We will never collect Personal Information directly from you unless you have voluntarily provided it to us.
 
-* * *
-
 ### Collection of Non-Personal Information
 
 In addition, we may also collect non-personally identifiable information which does not specifically identify you (“Non-Personal Information”). Non-Personal Information may include information regarding your use of the Web site, such as IP host address, pages viewed and other click-stream data. Non-Personal Information may be automatically collected by us from you without any separate notice other than this Privacy Policy.
 
 FMTC and its third party advertisers or content providers may use cookies, web beacons, clear gifs and similar technology to customize your visit to the Web site and to collect Non-Personal Information. “Cookies” are pieces of information that may be placed on your computer by a web site for the purpose of facilitating and enhancing your communication and interaction with that web site. You may stop or restrict the placement of cookies on your computer or flush them from your browser by adjusting your web browser preferences, in which case you may still use the Web site, but it may interfere with some of its functionality. We do not use cookies to automatically retrieve Personal Information from your computer without your knowledge.
-
-* * *
 
 ### Use of Personal Information
 
@@ -39,25 +31,17 @@ Except as described below, we do not share your Personal Information with any th
 
 
 
-* * *
-
 ### Use of Non-Personal Information
 
 We may use and share Non-Personal Information to improve and enhance your experience on the Web site and for any other business activities. For example, we may share Non-Personal Information with unaffiliated third parties, such as business partners.
-
-* * *
 
 ### Security Practices
 
 We have put in place reasonable physical, electronic, and managerial procedures to safeguard the information we collect. However, due to the inherent open nature of the Internet, we cannot guarantee that communications between you and us or information stored on the Web site or our servers, will be completely free from unauthorized access by third parties such as hackers and your use of the Web site demonstrates your assumption of this risk.
 
-* * *
-
 ### No Children under age 13
 
 We have no intention of collecting Personal Information from children under the age of 13. When we become aware that Personal Information from a child under 13 has been collected without such child’s parent or guardian’s consent, we will use all reasonable efforts to delete such information from our database.
-
-* * *
 
 ### Changes to policy; Opt-Out Process
 
@@ -65,19 +49,13 @@ We reserve the right, at our discretion, to change, modify, add, or remove porti
 
 We give you the option to remove your Personal Information from our list of users who receive newsletters or other information not related to an account held with us. All unsubscribe or opt-out requests should be sent to us at support[at]formetocoupon.com and we will process your request within a reasonable time after receipt. We are not responsible for removing your Personal Information from the lists of any third party who has previously been provided your information in accordance with this policy.
 
-* * *
-
 ### Our Terms of Service
 
 Use of the Web site is governed by, and subject to, the Terms of Service. Your use, or access, of the Web site constitutes your agreement to be bound by these provisions.
 
-* * *
-
 ### Contact
 
-For questions or concerns relating to privacy, we can be reached though the [Contact form](http://www.formetocoupon.com/contact/) on our site.
-
-* * *
+For questions or concerns relating to privacy, we can be reached through the [Contact form ](http://www.formetocoupon.com/about-us/contact-us/ "Contact Us")on our site.
 
 ### Effective Date
 
