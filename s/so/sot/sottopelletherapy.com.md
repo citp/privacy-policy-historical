@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the sottopelletherapy.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112131306id_/http%3A//www.sottopelletherapy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sottopelletherapy.com privacy policy that was archived on 2014-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140523233703id_/http%3A//www.sottopelletherapy.com/privacy-policy) for the most accurate reproduction.*
 
-# SottoPelle Therapy - Hormone Replacement Therapy | Privacy Policy - SottoPelle Therapy - Hormone Replacement Therapy
-
-**[](http://www.sottopelletherapy.com/)**
-
-You are here: [Home](http://www.sottopelletherapy.com/ "SottoPelle Therapy - Hormone Replacement Therapy") / Privacy Policy
+# Privacy Policy - SottoPelle Therapy - Hormone Replacement Therapy
 
 Thank you for visiting our website (the “Site”). We provide this Privacy Statement to highlight our policies with regard to the privacy of information we may gather through your use of this Site.
 
@@ -35,11 +31,3 @@ During your visit to the Site, we may use your Internet Protocol (“IP”) addr
 This Privacy Statement may change from time to time. This Site reserves the right to change it without notice to you, so you should review and print it periodically.
 
 If you believe that this Site has in some way not complied with the policies outlined in this Privacy Statement, or if you have any other questions relating to privacy, please let us know by sending a message detailing your concern via our contact us page.
-
-© Copyright 2013 - SottoPelle - Hormone Replacement Therapy
-
-## Patient Site
-
-Find Hormonal Bliss
-
-
