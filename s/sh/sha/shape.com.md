@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shape.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511062547id_/http%3A//www.shape.com/newsletters/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shape.com privacy policy that was archived on 2014-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140523223221id_/http%3A//www.shape.com/newsletters/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Shape Magazine
 
@@ -6,7 +6,7 @@ PLEASE NOTE THAT OUR PRIVACY POLICY has changed effective November, 2010.
 
 If you submitted personally identifiable information to us prior to the above effective date, and desire to opt out of having that previously submitted personally identifiable information from being treated under the new policy, please contact us at [privacy@amilink.com](mailto:privacy@amilink.com).
 
-_(Effective November, 2010)_
+ _(Effective November, 2010)_
 
 Welcome to [www.shape.com](http://www.shape.com/),  Internet news and media websites offered by connection with American Media, Inc., Weider Publications LLC, and Radar Online LLC  (collectively, the "Website", "we", "us" or "our"). The singular term "Website" includes all websites listed above and web pages within the Website as well as any equivalent, mirror, replacement, substitute or backup websites and web pages that are associated with the Website.
 
