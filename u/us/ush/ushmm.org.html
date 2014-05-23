@@ -1,7 +1,83 @@
-<!--The following is the downloaded HTML source of the ushmm.org privacy policy that was archived on 2013-11-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131118065012id_/http%3A//www.ushmm.org/copyright-and-legal-information/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ushmm.org privacy policy that was archived on 2014-05-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140523062151id_/http%3A//www.ushmm.org/copyright-and-legal-information/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
+        <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WFXT2L"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" id="janrainWidgets" src="https://rpxnow.com/js/lib/login.ushmm.org/widget.js"></script><script>
+        function fetchStatus(address) {
+            var client = new XMLHttpRequest();
+            client.onreadystatechange = function() {
+                // in case of network errors this might not give reliable results
+                if (this.readyState == 4) {
+                    returnStatus(this, this.status);
+                    // We have what we need, break out of any possible loop
+                    // (Windows Phone Fix)
+                    client.onreadystatechange = null;
+                    return;
+                }
+            };
+            client.open("HEAD", address);
+            client.send();
+        }
+
+        function returnStatus(req, status) {
+            if(status == 200) {
+                // mobile page exists
+                // alert for redirect
+                if (confirm('View Mobile Version?')) {
+                    // they want to go, so let's set a cookie and go!
+                    document.cookie = 'siteVersion=mobile; expires=; path=/';
+                    window.location = expectedMobileURL;
+                } else {
+                    // they want to stay so let's remember that and reload!
+                    document.cookie = 'siteVersion=full; expires=; path=/';
+                    location.reload();
+                }
+            } else {
+                // stay here, there is no mobile version
+            }
+        }
+
+        function getCookie(name) {
+            var cookie;
+            var parts = document.cookie.split(name + "=");
+            if (parts.length == 2) {
+                cookie = parts.pop().split(";").shift();
+            }
+            if (cookie !== undefined) {
+                return cookie;
+            } else {
+                return '';
+            }
+        }
+
+        function goMobile(a) {
+            if (/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|mobile.+firefox|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows (ce|phone)|xda|xiino/i.test(a)||/1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(a.substr(0,4))) {
+                document.cookie = 'isMobile=true; expires=; path=/';
+                if (expectedMobileURL.indexOf('/mobile') !== -1) {
+                    if (getCookie('siteVersion') == '') {fetchStatus(expectedMobileURL);} else if (getCookie('siteVersion') == 'mobile') {
+                        window.location = expectedMobileURL;
+                    }
+                } else {
+                    if (getCookie('siteVersion') == 'mobile' && expectedMobileURL == '' && document.location.indexOf('.ushmm.org/mobile/') === -1) {
+                        // We want a mobile page, there is no redirect url and we are not on a mobile page
+                        alert('There is no mobile version of this page. The mobile layout will begin at the next matching page.');
+                    }
+                }
+            } else {
+                document.cookie = 'isMobile=false; expires=; path=/';
+            }
+        }
+
+        // THE ONLY THING WE HAVE TO SET
+        // this is the destination page for the mobile redirect
+        var expectedMobileURL = '';
+
+        // the expectedURL is for the mobile site
+        if (window.addEventListener) window.addEventListener("load", goMobile(navigator.userAgent||navigator.vendor||window.opera), true);
+        else window.onload = goMobile(navigator.userAgent||navigator.vendor||window.opera);
+
+        // if we made it this far we're staying here, please continue
+        </script>
 		<meta charset="utf-8">
 	<title>Privacy Policy — United States Holocaust Memorial Museum</title>
 
@@ -19,7 +95,7 @@
 	<link href="/a/c/print.css" rel="stylesheet" media="print" type="text/css">
 	<!--[if IE 8]><link href="/a/c/ie8.css" rel="stylesheet" media="screen, projection" type="text/css" /><![endif]-->
 	<!--[if lt IE 8]><link href="/a/c/ie.css" rel="stylesheet" media="screen, projection" type="text/css" /><![endif]-->
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" id="janrainWidgets" src="https://rpxnow.com/js/lib/login.ushmm.org/widget.js"></script><script type="text/javascript"><!--
+	<script type="text/javascript"><!--
 	document.write('<link href="/a/c/enhanced.css" rel="stylesheet" media="screen, projection" type="text/css" />');
 	//-->
 	</script><link href="/a/c/enhanced.css" rel="stylesheet" media="screen, projection" type="text/css">
@@ -28,7 +104,8 @@
     <script type="text/javascript">jwplayer.key="iE4DX1FvqagyymuKRD+RHWzV5OVPIjQx13H8Mg==";</script>
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
 	<meta name="google-site-verification" content="GNkxHPjfQA7o6nZ4hQ0bSjUqOMbPtX2ZBllxMuPlVyk">
-
+    
+    
     
     
 
@@ -80,11 +157,11 @@
 
 
 </head>
-<body class="full-text">
+<body class="full-text content-tmplt">
 
 
 
-<p class="move"><a href="#skip">Skip to main content</a></p>
+<p class="move"><a href="#skip" tabindex="0">Skip to main content</a></p>
 
 <div class="header" role="banner">
 	<div class="wrap">
@@ -131,8 +208,7 @@
 				</div>
 			</li>
 			<li><a href="http://www.ushmm.org/online/calendar/">Events</a></li>
-			<li><a href="http://www.ushmm.org/information/plan-a-visit/museum-hours">Hours</a></li>
-			<li><a href="http://www.ushmm.org/information/plan-a-visit/location-and-parking">Directions</a></li>
+			<li><a href="http://www.ushmm.org/information/plan-a-visit">Plan Your Visit</a></li>
 			<li><a href="http://www.ushmm.org/support">Support the Museum</a></li>
 			<li><a href="http://www.ushmm.org/information/connect-with-the-museum">Connect</a></li>
 			<li><a href="https://donate.ushmm.org/support" class="btn">Donate</a></li>
@@ -187,9 +263,9 @@
                     
                     <li><a href="http://www.ushmm.org/copyright-and-legal-information">Copyright and Legal Information</a></li>
                 
-            
-        </ul>
-        <h1>Privacy Policy </h1>
+                    </ul>
+
+        <h1>Privacy Policy        </h1>
     </div>
     
 
@@ -212,7 +288,7 @@
     janrain.settings.share.attributionDisplay = true;
     janrain.settings.share.message = "";
     janrain.settings.share.title = "Privacy Policy";
-    janrain.settings.share.url = "/copyright-and-legal-information/privacy-policy";
+    janrain.settings.share.url = "http://www.ushmm.org/copyright-and-legal-information/privacy-policy";
     janrain.settings.share.image = "http://www.ushmm.org/a/screen/sharing-logo.jpg";
     // janrain.settings.share.description = "[[description]]";
 
@@ -305,7 +381,7 @@
         </div>
         
         
-<div class="main text" id="skip" role="main">
+<div class="main text" id="skip" tabindex="0" role="main">
 
     
 
@@ -467,7 +543,7 @@
 <p>
 	You can opt out of the Museum’s SMS correspondence or Premium SMS Services by texting STOP to the short code 20222. Text HELP for help or visit <a href="http://www.hmgf.org/t">hmgf.org/t</a> (external link). Messaging and data rates may apply.</p>
 </div>
-    
+
     
 </div>
 
@@ -558,8 +634,8 @@
 <div class="footer" role="contentinfo">
 	<div class="wrap">
 		<a class="logo-foot" href="/">United States Holocaust Memorial Museum</a>
-		<strong>United States Holocaust Memorial Museum</strong>
-		
+		<a href="https://plus.google.com/100561664959124518865?rel=author" style="text-decoration: none; color: inherit; cursor: text;"><strong>United States Holocaust Memorial Museum</strong></a>
+
 		<div>
 			<p>
 				100 Raoul Wallenberg Place, SW<br>
@@ -568,7 +644,7 @@
 				TTY: 202.488.0406
 			</p>
 		</div>
-		
+
 		<ul>
 			<li><a href="http://www.ushmm.org/information/about-the-museum">About the Museum</a></li>
 			<li><a href="http://www.ushmm.org/information/contact-the-museum">Contact the Museum</a></li>
@@ -576,6 +652,11 @@
 			<li><a href="http://www.ushmm.org/copyright-and-legal-information/privacy-policy">Privacy</a></li>
 			<li><a href="http://www.ushmm.org/information/access">Accessibility</a></li>
 			<li><a href="http://www.ushmm.org/copyright-and-legal-information/legal-and-tax-status-information">Legal</a></li>
+                        <script>
+                            if (getCookie('isMobile') == "true" && getCookie('siteVersion') == "full") {
+                                document.write("<li><a onclick=\"document.cookie='siteVersion=mobile; expires=; path=/';location.reload();\">Switch to Mobile Website</a></li>");
+                            }
+                        </script>
 		</ul>
 
 	</div>
@@ -593,21 +674,34 @@
 <script type="text/javascript" src="/a/j/functions.js"></script>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
-<!-- START Google Analytics -->
-<script>
-var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-457019-1']);
-  _gaq.push(['_setDomainName', 'ushmm.org']);
-  _gaq.push(['_trackPageview']);
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+<!-- START Google Analytics -->
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-457019-1']);
+    _gaq.push(['_setDomainName', 'ushmm.org']);
+    _gaq.push(['_setAllowAnchor', true]);
+    _gaq.push(['_setAllowLinker', true]);
+</script>
+<script src="//s.bsd.net/bsdaction/default/page/-/js/analytics/ga_integration-min.js"></script>
+<script>
+    _gaq.push(['_trackPageview']);
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
 </script>
 <!-- END Google Analytics -->
-
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WFXT2L"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WFXT2L');</script>
+<!-- End Google Tag Manager -->
 
 
 	
