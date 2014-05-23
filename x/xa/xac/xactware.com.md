@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the xactware.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121002626id_/http%3A//www.xactware.com/en-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xactware.com privacy policy that was archived on 2014-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140523211352id_/http%3A//www.xactware.com/en-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Xactware
 
-**Effective Date: 1 November 2013**
+**Effective Date: 24 March 2014**
 
 Xactware Solutions, Inc. (“Xactware”) respects your concerns about privacy. This Online Privacy Notice applies to personal information we collect on [www.xactware.com](https://web.archive.org/en-us/) (the “Site”). The Online Privacy Notice describes the types of personal information we obtain, how we use the information, with whom we share it, and the choices you can make about our use of the information. We also describe the measures we take to protect the security of the information and how you can contact us about our privacy practices.
 
@@ -21,7 +21,7 @@ Xactware Solutions, Inc. (“Xactware”) respects your concerns about privacy. 
 
 ### Information We Obtain and How We Use It
 
-You may choose to provide personal information (such as your name and contact details) through the Site. Here are ways you may provide the information and the types of information you may submit. We also describe how we may use the information you provide to us.
+You may choose to provide personal information including, but not limited to your first and last name, physical address, -e-mail address, or telephone number through the Site. Here are ways you may provide the information and the types of information you may submit. We also describe how we may use the information you provide to us.
 
 **_Information We Obtain_**
 
@@ -39,9 +39,13 @@ When you visit our Site, we may collect certain information by automated means, 
 
 Our web servers may log information such as your crash reports, operating system type, browser type, domain, and other system settings, as well as the language your system uses and the country and time zone where your device is located. The web server logs also may record information such as the address of the web page that referred you to our Site and the IP address of the device you use to connect to the Internet. They may also log information about your interaction with this Site, such as which pages you visit, app screens visited, visitor trends, and session length. To control which web servers collect information by automated means, we may place tags called “web beacons,” — small files that link web pages to particular web servers and their cookies. We may also collect information from your browser, such as your browsing history.
 
-On our Site, we use third-party web analytics services, such as those of Adobe and Google Analytics.  The service providers that administer those services may use cookies and web beacons to help us analyze how users use the Site.  The information collected by the cookies and web beacons (including your IP address) are disclosed to these service providers, who use the information to evaluate your use of the Site.  To learn how to opt out of Google Analytics, visit [https://tools.google.com/dlpage/gaoptout.](https://tools.google.com/dlpage/gaoptout) **** To learn how to opt out of Adobe Analytics, visit: <http://www.adobe.com/privacy/opt-out.html>.   ** **
+On our Site, we use third-party web analytics services, such as those of Adobe and Google Analytics.  The service providers that administer those services may use cookies and web beacons to help us analyze how users use the Site.  The information collected by the cookies and web beacons (including your IP address) are disclosed to these service providers, who use the information to evaluate your use of the Site.  To learn how to opt out of Google Analytics, visit [https://tools.google.com/dlpage/gaoptout.](https://tools.google.com/dlpage/gaoptout) **** To learn how to opt out of Adobe Analytics, visit: <http://www.adobe.com/privacy/opt-out.html>.
 
-We use information collected online through cookies, web beacons, and other automated means **** for purposes such as **** customizing our visitors’ visits to the Site, learn how our users use our apps, which of our products most interest our customers, what pages are attractive to our visitors, and understanding the manner in which our visitors browse the Site. We also use the information to help diagnose technical and service problems, administer the Site, identify visitors to the Site, and gather demographic information about our visitors. We use clickstream data to determine how much time visitors spend on web pages of the Site, how visitors navigate through the Site, and how we may tailor the Site to meet the needs of our visitors. **  **
+We use information collected online through cookies, web beacons, and other automated means **** for purposes such as **** customizing our visitors’ visits to the Site, learn how our users use our apps, which of our products most interest our customers, what pages are attractive to our visitors, and understanding the manner in which our visitors browse the Site. We also use the information to help diagnose technical and service problems, administer the Site, identify visitors to the Site, and gather demographic information about our visitors. We use clickstream data to determine how much time visitors spend on web pages of the Site, how visitors navigate through the Site, and how we may tailor the Site to meet the needs of our visitors.
+
+**_"Do Not Track" Signals_**
+
+Your browser settings may allow you to transmit a “Do Not Track” signal to websites and online services you visit. Like many other websites and online services, we do not currently process or respond to “Do Not Track” signals from your browser or other mechanisms that enable choice. Please note that while we may not process or respond to “Do Not Track” signals, we do not permit third parties to collect your personally identifiable information (PII) over time and across third-party websites or online services.
 
 We do not sell or otherwise disclose personal information we collect on our Site, except as described here. We may share personal information we collect on this Site with affiliates and service providers that perform services on our behalf. We do not authorize those service providers to use or disclose the information except as necessary to perform services on our behalf or comply with legal requirements. We may share personal information we collect on this Site with our affiliates and with other reputable companies, which may use the information for marketing purposes. ** **
 
@@ -92,8 +96,8 @@ London EC3R7LP
 
 Xactware  
 Attn: Safe Harbor Coordinator  
-One Xactware Plaza  
-Orem, UT 84097  
+1100 West Traverse Parkway  
+Lehi, UT 84043  
 USA
 
 
