@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pehub.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222153825id_/http%3A//www.thomsonreuters.com/business_units/financial/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pehub.com privacy policy that was archived on 2014-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140523121403id_/http%3A//thomsonreuters.com/site/financial-risk-privacy-statement) for the most accurate reproduction.*
 
 # Thomson Reuters Financial & Risk Privacy Statement | Thomson Reuters
 
