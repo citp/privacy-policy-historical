@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woolrich.eu privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116115051id_/http%3A//www.woolrich.eu/on/demandware.store/Sites-WPBAWO-EU-Site/en/Page-Show%3Fcid%3Dwo-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woolrich.eu privacy policy that was archived on 2014-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140523043111id_/http%3A//www.woolrich.eu/on/demandware.store/Sites-WPBAWO-EU-Site/en/Page-Show%3Fcid%3Dwo-privacy-policy) for the most accurate reproduction.*
 
 # Customer Service | Privacy Policy | Woolrich
 
@@ -25,7 +25,7 @@ The above mentioned processors have been chosen by TLG and WP because of their e
 
 Aside from the companies appointed for personal data processing, your information will be made available also to third parties, autonomous controllers, for purposes related to supplying services requested by user (for example, for purchase transactions). For more information on the matter, see section 5 (To Whom Your Personal Data Will Be Disclosed).
 
-Please contact our [Customer Service](http://www.woolrich.eu/on/demandware.store/Sites-WPBAWO-EU-Site/en/CustomerService-Show) or send us an e-mail at [support@mail.woolrich.eu](mailto:support@mail.woolrich.eu), in order to receive a full list of data processors.
+Please contact our [Customer Service](http://www.woolrich.eu/on/demandware.store/Sites-WPBAWO-EU-Site/default/CustomerService-Show) or send us an e-mail at [support@mail.woolrich.eu](mailto:support@mail.woolrich.eu), in order to receive a full list of data processors.
 
   
 
