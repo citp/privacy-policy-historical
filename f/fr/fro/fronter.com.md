@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fronter.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116191354id_/http%3A//com.fronter.info/virtual-learning-environment-lms/privacy-and-legal-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fronter.com privacy policy that was archived on 2014-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140523210212id_/http%3A//com.fronter.info/virtual-learning-environment-lms/privacy-and-legal-statement) for the most accurate reproduction.*
 
 # privacy and legal statement - Fronter Global
 
@@ -10,7 +10,7 @@ GENERAL INFORMATION ABOUT THE POLICY OF THIS WEBSITE AND COLLECTION, PROTECTION,
 
 This website, fronter.com, com.fronter.info or frontersupport.com (the "Site"), is owned and operated by Fronter AS ("Fronter"). Fronter is a Pearson company and has aligned its privacy statement with that of Pearson. Fronter recognises the importance of explaining our privacy policies to users of our Site and protecting the privacy of Personally Identifiable Information we obtain through the site. Please note that this Privacy Statement may be revised from time to time, particularly to address changes in our business, the law or technology. If that happens, we will post the revised policy here. Revisions are effective upon posting and your continued use of this Site after the posting will be subject to the changed terms of the revisions.
 
-Fronter is the data controller, and you can contact Fronter by writing to Fronter AS, Postboks 232 Sentrum, 0103 OSLO, Norway. You have a right to access data we store about you and a right to request that incorrect data is rectified.
+Fronter is the data controller, and you can contact Fronter by writing to Fronter AS, Postboks 232 Sentrum, 0150 OSLO, Norway. You have a right to access data we store about you and a right to request that incorrect data is rectified.
 
 LINKS TO OTHER SITES
 
