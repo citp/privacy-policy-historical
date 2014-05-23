@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackhawk.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121151717id_/http%3A//www.blackhawk.com/downloads/staticpages/flash/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackhawk.com privacy policy that was archived on 2014-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140523203647id_/http%3A//www.blackhawk.com/downloads/staticpages/flash/privacypolicy.html) for the most accurate reproduction.*
 
 # BLACKHAWK!s Privacy Policy
 
@@ -29,13 +29,13 @@ BLACKHAWK! does not sell merchandise for purchase by children. If you are under 
 You can access all your personally identifiable information that we collect online and maintain by:  
 1\. You may send an email to [cs@blackhawk.com](mailto:cs@blackhawk.com)  
 2\. You may send mail to the following address: Customer Service Department- 6160 Commander Parkway, Norfolk, VA 23502  
-3\. You may call the following telephone number: 1-800-694-5263   
+3\. You may call the following telephone number: 1-800-379-1732   
 You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error.   
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.  
 
 
 **How To Contact Us**  
-Should you have other questions or concerns about these privacy policies, please call us at [cs@blackhawk.com](mailto:cs@blackhawk.com) or 1-800-694-5263. 
+Should you have other questions or concerns about these privacy policies, please call us at [cs@blackhawk.com](mailto:cs@blackhawk.com) or 1-800-379-1732. 
 
 BLACKHAWK! reserves the right to modify our privacy policy as business needs require. We will post such changes on our website. 
 
