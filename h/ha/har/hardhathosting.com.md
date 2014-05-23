@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the hardhathosting.com privacy policy that was archived on 2013-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130810094707id_/http%3A//www.hardhathosting.com/about/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardhathosting.com privacy policy that was archived on 2014-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140523105331id_/http%3A//www.hardhathosting.com/about/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement : Hard Hat Hosting – Managed VPS Hosting | Managed Dedicated Servers
 
-**HardHat, Inc. complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union. We will respond to your request for access to modify or delete your information within thirty (30) days.**
+**U.S.-EU Safe Harbor Framework Compliance  
+**
+
+Hardhat, Inc. complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries.  Hardhat, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  We will respond to your request for access to modify or delete your information within thirty (30) days. To learn more about the Safe Harbor program, and to view Hardhat, Inc.’s certification, please visit [http://www.export.gov/safeharbor](http://www.export.gov/safeharbor/ "U.S.-EU Safe Harbor")
 
 **Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
@@ -89,8 +92,8 @@ Phone: 816-471-7688
 Email: Contact Us  
 Postal Address:  
 Hardhat, Inc.  
-1627 Main Street, Suite 300  
+1627 Main Street, Suite 602  
 Kansas City, MO 64108  
 Web site URL: [http://www.hardhathosting.com](http://www.hardhathosting.com/)
 
-Last updated: 06/10/05
+Last updated: 04/18/14
