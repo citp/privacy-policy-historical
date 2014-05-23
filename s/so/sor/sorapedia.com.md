@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the sorapedia.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126014014id_/http%3A//sorapedia.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sorapedia.com privacy policy that was archived on 2014-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140523020839id_/http%3A//sorapedia.com/privacy-policy.html) for the most accurate reproduction.*
 
 # 
 
 [Subscribe RSS](http://feeds.feedburner.com/sorapedia)» |  | [**GET UPDATES ON SMS FREE**](http://labs.google.co.in/smschannels/subscribe/sorapedia) » |  | [Subscribe By EMAIL](http://feedburner.google.com/fb/a/mailverify?uri=Sorapedia&loc=en_US)» |  | [READ in HINDI](http://translate.google.com/translate?hl=en&langpair=en|hi&sl=en&tl=hi&u=http://sorapedia.com/)» |  | [Guest Writer](http://sorapedia.com/contact)» | [Sitemap](http://sorapedia.com/index-php/sitemap)» | [Login](http://sorapedia.com/wp-login.php?)» |   
 ---|---|---|---|---|---|---|---|---|---|---|---  
   
-[sorapedia.com](https://web.archive.org/web/20131126014014id_/http%3A//sorapedia.com/sorapedia.com) provide information about Career , Jobs , Education and Other Related information. In general sorapedia.com does not collect Personal Information about any visitors when they visit the site. 
+[sorapedia.com](https://web.archive.org/web/20140523020839id_/http%3A//sorapedia.com/sorapedia.com) provide information about Career , Jobs , Education and Other Related information. In general sorapedia.com does not collect Personal Information about any visitors when they visit the site. 
 
 All viewers are visiting the site without revealing Personal Information except comment section. Sorapedia.com treat visitors privacy at most important. 
 
