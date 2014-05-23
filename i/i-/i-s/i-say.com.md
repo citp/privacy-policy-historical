@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the i-say.com privacy policy that was archived on 2013-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131009165653id_/http%3A//www.i-say.com/Privacy/PRIVACYPOLICY/tabid/167/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i-say.com privacy policy that was archived on 2014-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140524015303id_/http%3A//www.i-say.com/Privacy/PRIVACYPOLICY/tabid/167/Default.aspx) for the most accurate reproduction.*
 
 # Ipsos i-Say > Privacy Policy
 
-Revised on August 6, 2013
+Revised on January 2, 2014
 
-The purpose of this Privacy Policy is to inform you about the practices and procedures of Ipsos Interactive Services, commonly known as "Ipsos" (as follows, "we" or "us"), in handling Personal Information and to inform you about the Personal Information we collect about you when you participate in one of our surveys or that is provided to us through our web site(s). The Privacy Policy applies to any information we collect or receive about you, from any source, and explains how we use and disclose that information, the choices you have regarding such use and disclosure, and how you may correct that information. 
+The purpose of this Privacy Policy is to inform you about the practices and procedures of Ipsos Interactive Services, commonly known as "Ipsos" (as follows, "we" or "us"), in handling Personal Information and to inform you about the Personal Information we collect about you when you participate in one of our surveys or that is provided to us through our web site(s). The Privacy Policy applies to any information we collect or receive about you, from any source, and explains how we use and disclose that information, the choices you have regarding such use and disclosure, and how you may correct that information.
 
 [](https://privacy.truste.com/privacy-seal/Ipsos-Interactive-Services-U-S-,-Inc-/validation?rid=ede7910e-e1b0-4e78-ac1b-38de3f04ca0e "TRUSTe online privacy certification")
 
-Ipsos Interactive Services U.S., Inc. has been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy has been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html), including transparency, accountability and choice regarding the collection and use of your Personal Information. The TRUSTe certification covers the sites [www.i-say.com](http://www.i-say.com/) and [www.i-say.ca](http://www.i-say.ca/), but does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.
+Ipsos Interactive Services U.S., Inc. has been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy has been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/), including transparency, accountability and choice regarding the collection and use of your Personal Information. The TRUSTe certification covers the sites [www.i-say.com](http://www.i-say.com/) and [www.i-say.ca](http://www.i-say.ca/), but does not cover information that may be collected through downloadable software and information collected through our social networking applications. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.
 
 If you are a resident of the United States of America and have any questions or comments regarding this statement, please contact Ipsos i-Say Member Services by:
 
@@ -26,9 +26,9 @@ Phone: 1.888.618.2056
 
 Email: [panel@i-say.com](mailto:panel@i-say.com).
 
-If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint).
+If you are not satisfied with our response you can contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request).
 
-We are proud to demonstrate our commitment to your privacy. As part of this commitment we review our privacy policies regularly and may update this Privacy Policy at any time. Therefore please check the the website periodically for the most up to date version of our Privacy Policy. Continued participation in our panels or use of our applications after we publish an updated Privacy Policy is considered acceptance of the modified or changed Privacy Policy. 
+We are proud to demonstrate our commitment to your privacy. As part of this commitment we review our privacy policies regularly and may update this Privacy Policy at any time. Therefore please check the the website periodically for the most up to date version of our Privacy Policy. Continued participation in our panels or use of our applications after we publish an updated Privacy Policy is considered acceptance of the modified or changed Privacy Policy.
 
 1\. What is Personal Information?  
 2\. How do we collect your Personal Information?  
@@ -67,15 +67,15 @@ We may also use a third party agent to host surveys that collect your Personal I
 
 We may receive your email address from a third party through a co-registrations process. If you indicate that you would like to join our survey panel through one of our co-registration partners, your email address may be provided to us for the purpose of us sending you a link to our registration page. Our co-registration partners may direct you to a registration page on one of our websites, in which case your email address will not be given to us until you provide it at the appropriate point in our registration process. Contractual agreements between us and our co-registration partners ensure that your Personal Information will not be shared with anyone and will not be used for any other purpose without your consent.
 
-If you have been chosen as a winner in one of our contests you will be given the option to provide a testimonial and, should you wish to provide one, an electronic picture of yourself to be posted in the Winners section of our website. Providing this additional information is optional, and your testimonial, together with you first name and last initial, and photo if you provided one, will only be posted on the website if you provide your consent. 
+If you have been chosen as a winner in one of our contests you will be given the option to provide a testimonial and, should you wish to provide one, an electronic picture of yourself to be posted in the Winners section of our website. Providing this additional information is optional, and your testimonial, together with you first name and last initial, and photo if you provided one, will only be posted on the website if you provide your consent.
 
-Panel+ Application – If you join our Panel+ program and install the Ipsos Panel+ Application, we will also collect information from you via the Ipsos Panel+ Application. Please see Section 17 (What apps do we use and what information do they collect?) below for details of what information we collect using the Ipsos Panel+ Application. 
+Panel+ Application – If you join our Panel+ program and install the Ipsos Panel+ Application, we will also collect information from you via the Ipsos Panel+ Application. Please see Section 17 (What apps do we use and what information do they collect?) below for details of what information we collect using the Ipsos Panel+ Application.
 
 Facebook Application – We collect your Facebook basic profile information (meaning your name, e-mail address, gender, birthday and location) that you have consented to our using when you connect to, and use the Ipsos Facebook Applications within your Facebook account. Please see Section 17 (What apps do we use and what information do they collect?) below for details of what information we collect using the Facebook Application.
 
 ## 3\. How do we use your Personal Information?
 
-We identify the purposes for which we use your Personal Information at the time we collect such information from you and obtain your consent, in any case, prior to such use. One of the primary purposes for which we collect your Personal Information, including email address, is to conduct social and market research through surveys. We may also use your Personal Information as otherwise permitted by law. 
+We identify the purposes for which we use your Personal Information at the time we collect such information from you and obtain your consent, in any case, prior to such use. One of the primary purposes for which we collect your Personal Information, including email address, is to conduct social and market research through surveys. We may also use your Personal Information as otherwise permitted by law.
 
 If you provide us with sensitive Personal Information such as health or financial information, such as household income and the types of banking products you use, we will provide you with details in advance and obtain your express consent for the collection, use and disclosure of this sensitive Personal Information.
 
@@ -127,21 +127,21 @@ If you were chosen as a winner in one of our contests, and consented to and prov
 Ipsos  
 Member Services  
 1600 Stewart Ave, Suite 500  
-Westbury, NY, 11590, USA 
+Westbury, NY, 11590, USA
 
 (Canada Residents)  
 Ipsos  
 Member Services  
 160 Bloor Street East, Suite 300  
-Toronto, ON, M4W 1B9, CANADA 
+Toronto, ON, M4W 1B9, CANADA
 
 ## 11\. How do you know that the Personal Information we have on you is accurate?
 
 We will ensure that your Personal Information, including your email address, is kept as accurate, complete and up-to-date as possible. When we collect Personal Information from you, we rely on you for its accuracy.
 
-If you are a resident of the USA, you may submit changes to your Name, e-mail Address, Telephone Number online at [www.i-say.com](http://www.i-say.com/), by e-mail at [questions@i-say.com](mailto:questions@i-say.com), by telephone 1-866.893.1188 or by writing to us at Ipsos, Member Services, 1600 Stewart Ave, Suite 500, Westbury, NY, 11590, USA 
+If you are a resident of the USA, you may submit changes to your Name, e-mail Address, Telephone Number online at [www.i-say.com](http://www.i-say.com/), by e-mail at [questions@i-say.com](mailto:questions@i-say.com), by telephone 1-866.893.1188 or by writing to us at Ipsos, Member Services, 1600 Stewart Ave, Suite 500, Westbury, NY, 11590, USA
 
-If you are a resident of Canada, you may submit changes to your Name, e-mail Address, Telephone Number online at [www.i-say.com](http://www.i-say.com/), by e-mail at [panel@i-say.com](mailto:panel@i-say.com), by telephone 1.866.893.1188, or by writing to us at Ipsos, Member Services, 160 Bloor Street East, Suite 300, Toronto, ON, M4W 1B9, Canada. 
+If you are a resident of Canada, you may submit changes to your Name, e-mail Address, Telephone Number online at [www.i-say.com](http://www.i-say.com/), by e-mail at [panel@i-say.com](mailto:panel@i-say.com), by telephone 1.866.893.1188, or by writing to us at Ipsos, Member Services, 160 Bloor Street East, Suite 300, Toronto, ON, M4W 1B9, Canada.
 
 ## 12\. What if the Personal Information we have on you is inaccurate?
 
@@ -169,26 +169,26 @@ We currently make available two Applications to our members.
 
 **The Facebook i-Say App:**
 
-We have created an "i-Say App" that we make available to any Facebook user aged 16 or older (the "App" or the "i-Say App"). You do not have to be a member of the i-Say panel to use it. The i-Say App allows you to create your own polls on your Facebook Page, vote in Quick Polls generated by other users of the App, invite your friends to connect to the App and access information and reports posted within the App. It also provides access to the i-Say blog website where you can find out more information about our panels and how to join our panel if you are not already one of our panelists. If you are a panel member you can also login to the i-Say website using your panel username and password via the App which will allow you to open your surveys list and access your panel point's account via the App while in Facebook. 
+We have created an "i-Say App" that we make available to any Facebook user aged 16 or older (the "App" or the "i-Say App"). You do not have to be a member of the i-Say panel to use it. The i-Say App allows you to create your own polls on your Facebook Page, vote in Quick Polls generated by other users of the App, invite your friends to connect to the App and access information and reports posted within the App. It also provides access to the i-Say blog website where you can find out more information about our panels and how to join our panel if you are not already one of our panelists. If you are a panel member you can also login to the i-Say website using your panel username and password via the App which will allow you to open your surveys list and access your panel point's account via the App while in Facebook.
 
-The i-Say App collects your basic Personal Information from your Facebook profile, including your name, e-mail address, gender, birthday and current city. We also collect any information you may provide when you voluntarily complete any of the surveys you are invited to participate in through the App, or you provide feedback, comments or other information on the App. 
+The i-Say App collects your basic Personal Information from your Facebook profile, including your name, e-mail address, gender, birthday and current city. We also collect any information you may provide when you voluntarily complete any of the surveys you are invited to participate in through the App, or you provide feedback, comments or other information on the App.
 
 We will use the information collected using the App to
 
-  * Send you invitations to participate in surveys within the App; 
+  * Send you invitations to participate in surveys within the App;
   * Keep a record of all Facebook users who use the App
-  * Create anonymous, statistical profiles of individuals based on the information provided in your Facebook account information that we will use for our research; and 
+  * Create anonymous, statistical profiles of individuals based on the information provided in your Facebook account information that we will use for our research; and
   * If you have given your prior explicit consent, to post on your behalf on your Facebook Wall under the App's name: App status updates, upload photos, comments, notes, questions, posting content to events or groups and similar activities related to the App and/or your participation, usage and connection to the App.
 
 
 
-You can remove the App from your Facebook account any time you wish. 
+You can remove the App from your Facebook account any time you wish.
 
-Please note that we reserve the right to disable the App or remove it completely from the i-Say Facebook Page without notice at any time. If we do remove the i-Say App or disable it, we will delete all of your Facebook contact details, together with any other information that could be used to identify you, leaving only anonymous responses to surveys that you may have participated in. 
+Please note that we reserve the right to disable the App or remove it completely from the i-Say Facebook Page without notice at any time. If we do remove the i-Say App or disable it, we will delete all of your Facebook contact details, together with any other information that could be used to identify you, leaving only anonymous responses to surveys that you may have participated in.
 
 **The Panel+ Application**
 
-The Panel+ Application ("Panel+") is only made available to panel members who join our Panel+ program. The Panel+ program enables panelists to take part in additional research studies not open to other panelists. If you join the Panel+ program and install Panel+, it will collect information relating to advertising material, including any audio or video advertising material that we presented to you in place of, or in addition to the actual advertising material contained on the website visited. 
+The Panel+ Application ("Panel+") is only made available to panel members who join our Panel+ program. The Panel+ program enables panelists to take part in additional research studies not open to other panelists. If you join the Panel+ program and install Panel+, it will collect information relating to advertising material, including any audio or video advertising material that we presented to you in place of, or in addition to the actual advertising material contained on the website visited.
 
 In order to be able to provide help or support when installing, using or uninstalling Panel+, Panel+ logs the following events:
 
@@ -204,14 +204,14 @@ With your prior consent, we also use Panel+ to automatically collect information
   * Details of any Internet search engine queries and the results presented to you from those queries.
   * How you navigate pages using the mouse. For example, details of any links or advertising you may click on.
   * Details of any advertisements displayed to you online, including any audio or video advertising.
-  * Information about the websites you may have visited. This information includes:
-    * All visited website addresses (URLs); 
+  * Information about the websites you may have visited. This information includes: 
+    * All visited website addresses (URLs);
     * website addresses accessed by individual webpage's as they load (also known as "Background Requests"); and
     * Details of any audio or video content accessed via the website (for example "YouTube" video content that has been viewed).
 
 
 
-With the exception of checking for key words included in any comment or other online post you may make, Panel+ does not collect keystrokes or information that is entered into a web-form, such as website user-ids, passwords, credit card numbers, other financial account numbers or other private data or any other data on a page in secure session. As a result, Panel+ will normally not have access to any information regarding items in a website shopping basket or your interactions with financial or health-related websites that you may log into as these are normally secure sites. 
+With the exception of checking for key words included in any comment or other online post you may make, Panel+ does not collect keystrokes or information that is entered into a web-form, such as website user-ids, passwords, credit card numbers, other financial account numbers or other private data or any other data on a page in secure session. As a result, Panel+ will normally not have access to any information regarding items in a website shopping basket or your interactions with financial or health-related websites that you may log into as these are normally secure sites.
 
 However, in the event that any such private data is displayed in a URL, it is possible that such data will be collected. In addition, on certain "social networking" sites, posts, updates and pictures are unsecured and typically included as part of the page's source code. As a result, it is possible that we may gain access to your Personal Information, including sensitive health or financial information based on the way that certain websites display information. Please be assured that collecting such Personal Information is not the purpose of Panel+, and any such data will be securely deleted from our systems if found to have been collected.
 
@@ -228,7 +228,7 @@ Ipsos
 Member Services  
 1600 Stewart Avenue  
 Suite 500  
-Westbury, NY, 11590,USA 
+Westbury, NY, 11590,USA
 
 (Canada Residents)  
 Ipsos  
@@ -252,7 +252,7 @@ If, however, we are going to use users' Personal Information, including email ad
 
 This Privacy Policy will always be available on our website at [www.i-say.com/Privacy/](http://i-say.com/Privacy/PRIVACYPOLICY/tabid/167/Default.aspx), and becomes effective upon posting. So please do check the website periodically for details of our most up to date version of our Privacy Policy. Continued participation after posting is considered acceptance of the modified or changed Privacy Policy. The Privacy Policy's "last revised" date will appear at the top of this page.
 
-## 20\. How do we use and incorporate log files, cookies, digital fingerprinting and other related third party information and applications? 
+## 20\. How do we use and incorporate log files, cookies, digital fingerprinting and other related third party information and applications?
 
 ## Log Files
 
@@ -262,9 +262,9 @@ As is true of most Web sites, we gather certain information automatically and st
 
 A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any Personal Information, including email address, you submit while on our site. We sometimes use other technologies to store similar information.
 
-We use session cookies to make it easier for you to navigate our site. Ipsos may set and access Ipsos cookies on your computer to let you access our surveys. Ipsos may read third-party cookies or other objects that may have been set outside of our domain by trusted vendors. Reading these third-party cookies helps our research by allowing us to determine whether you have visited the website or have been exposed to the advertising of one of our clients. 
+We use session cookies to make it easier for you to navigate our site. Ipsos may set and access Ipsos cookies on your computer to let you access our surveys. Ipsos may read third-party cookies or other objects that may have been set outside of our domain by trusted vendors. Reading these third-party cookies helps our research by allowing us to determine whether you have visited the website or have been exposed to the advertising of one of our clients.
 
-You can have your web browser disable "cookies" but if you turn off "cookies," you will not be able to access our surveys. Cookies are used for security purposes so we can recognize your computer and prevent malicious users from taking surveys multiple times and affect the statistical validity of our results. 
+You can have your web browser disable "cookies" but if you turn off "cookies," you will not be able to access our surveys. Cookies are used for security purposes so we can recognize your computer and prevent malicious users from taking surveys multiple times and affect the statistical validity of our results.
 
 A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file. This privacy statement covers the use of cookies by www.i-say.com and i-say.ca only and does not cover the use of cookies by any third parties.
 
@@ -296,4 +296,4 @@ Our Web site includes links to other Web sites whose privacy practices may diffe
 
 ## Social Media Features
 
-Our Web site includes Social Media Features, such as the Facebook Like button. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the Privacy Policy of the company providing it. 
+Our Web site includes Social Media Features, such as the Facebook Like button. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the Privacy Policy of the company providing it.
