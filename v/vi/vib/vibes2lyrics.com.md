@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vibes2lyrics.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228100950id_/http%3A//vibes2lyrics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vibes2lyrics.com privacy policy that was archived on 2014-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140524043310id_/http%3A//vibes2lyrics.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | VIBES2LYRICS NIGERIA
+# Privacy Policy - VIBES2LYRICS NIGERIA
 
-[ ](http://www.anrdoezrs.net/click-7244492-11254148)
+[](http://wp.me/P3I14h-SV)
 
 ## Personal Information
 
