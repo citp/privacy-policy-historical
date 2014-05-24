@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redflava.com privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123093929id_/http%3A//www.redflava.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redflava.com privacy policy that was archived on 2014-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140524075639id_/http%3A//www.redflava.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Red Flava
 
