@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buzzya.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122153636id_/http%3A//buzzya.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzya.com privacy policy that was archived on 2014-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140524090210id_/http%3A//buzzya.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BUZZYA
 
@@ -17,6 +17,8 @@ When you do provide us with personal information, we may use that information in
 
 **Other Information Collected Automatically  
 **In some cases, we may collect information about you that is not personally-identifiable. Examples of this type of information include the type of Internet Browser you are using, the type of computer operating system you are using, and the domain name of the website from which you linked to our website.
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here http://www.networkadvertising.org/managing/opt_out.asp.
 
 **Information We May Place Automatically On Your Computer’s Hard Drive  
 **When you view our website, we may store some information on your computer. This information will be in the form of a “Cookie” or similar file and will help us in many ways. For example, Cookies allow us to tailor our website to better match your interests and preferences. With most Internet Browsers, you can erase Cookies from your computer hard drive, block all Cookies, or receive a warning before a Cookie is stored. Please refer to your Browser instructions or help screen to learn more about these functions.
