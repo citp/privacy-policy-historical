@@ -1,63 +1,68 @@
-> *The following text is extracted and transformed from the yourshoutbox.com privacy policy that was archived on 2008-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080331184525id_/http%3A//yourshoutbox.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourshoutbox.com privacy policy that was archived on 2014-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140525010526id_/http%3A//www.yourshoutbox.com/privacy) for the most accurate reproduction.*
 
-# Your Shoutbox :: Shoutboxes
+# Privacy policy | YourShoutbox.com
 
----  
-| [Home](http://yourshoutbox.com/index.php)| [Sign Up](http://yourshoutbox.com/join.php)| [Login](http://yourshoutbox.com/members/)| [Resources](http://yourshoutbox.com/resources.php)| [Contact Us](http://yourshoutbox.com/contact)  
----|---|---|---|---  
-  
-  
+This Privacy Policy governs the manner in which www2.yourshoutbox.com collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://www2.yourshoutbox.com](http://www2.yourshoutbox.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by www2.yourshoutbox.com.
 
+**Personal identification information**
 
-**Privacy Policy**
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-**General**
+**Non-personal identification information**
 
-  1. At Your Shoutbox, we take the privacy of our users, members and customers seriously. This policy covers how we deal with email addresses and other personal information collected. 
-  2. This privacy policy ONLY applies to Your Shoutbox, the Your Shoutbox website, and the information we collect on registration or use of a shoutbox. 
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
+**Web browser cookies**
 
+Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-**Children**
+**How we use collected information**
 
-  1. Due to strict laws on collecting personal information from children, nobody under the age of 13 may register for a shoutbox or use a shoutbox on a site they own or run, whether in part or in whole. 
-  2. Young people between the age of 13 and 18 may own a shoutbox provided they have parental permission to do so. We take this on trust: by signing up for a shoutbox you agree that you do have parental permission if neccessary as determined by your age. 
+www2.yourshoutbox.com may collect and use Users personal information for the following purposes:
 
-
-
-**Personal Details**
-
-  1. Registration for a shoutbox requires a few details about yourself, including (but not limited to) a valid email address. We promise these will never knowingly be released, given, traded or sold to anyone outside of Your Shoutbox staff. 
-  2. The Your Shoutbox staff will never use the information you provide for anything other than shoutbox business unless you request or allow us to do so. 
-  3. Should we find you, your shoutbox, or your website to be breaking the law in a serious manner, we reserve the right to pass information on to legal authorities as requested. 
-  4. Information will also be released on receipt of a subpoena, court order, or other legal action. 
-
-
-
-**Cookies**
-
-  1. Your Shoutbox may set one or more cookies on your computer or on the computer of anyone using a shoutbox. We guarantee these cookies will not be for anything more than remembering sign-in details, usernames, or tracking hits. You may block or remove these cookies from your computer if you wish, but please be aware that non-acceptance of the Your Shoutbox login cookie will deny you access to your admin panel. 
+  * _\- To improve customer service_  
+Information you provide helps us respond to your customer service requests and support needs more efficiently.
+  * _\- To personalize user experience_  
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+  * _\- To improve our Site_  
+We may use feedback you provide to improve our products and services.
+  * _\- To process payments_  
+We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
+  * _\- To send order related emails_  
+We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. 
 
 
 
-**Account Changes**
+**How we protect your information**
 
-  1. You may change your account details at any time through the admin area of your shoutbox. The privacy policy is applicable for both past and present information entered. 
-  2. If you request removal of your account or deletion of your shoutbox, your details will be removed from the server. 
-  3. If a shoutbox is removed by any of the Your Shoutbox staff for violation of our Terms of Service, we may keep details on record in case of future legal action. 
-  4. Any changes to your personal details (such as new email address) should be changed by you through the admin area of your shoutbox to allow us to update our records. 
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site. However, we do not take any responsibility for illegal attempts to get data from our system.
 
+**Sharing your personal information**
 
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
 
-**Emails and Global Contact**
+**Third party websites**
 
-  1. Your Shoutbox may occasionally contact all users regarding updates, any planned downtime, or any other shoutbox related information. 
-  2. Your Shoutbox may occasionally contact all users via a global shout posted across all shouotbox accounts. These are not optional, but may be deleted on individual accounts at any time after posting by the admin of that shoutbox. 
-  3. Your Shoutbox may occasionally contact all users with commercial solicitations, third party solicitations, or any other information we deem appropriate. All such emails will include a link allowing you to remove yourself from our servers if you no longer wish to get our emails. 
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
 
+**Advertising**
 
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
-**Terms of Service**   
-Please also ensure you read our [Terms of Service](https://web.archive.org/web/20080331184525id_/http%3A//yourshoutbox.com/terms.php). 
+**Compliance with children's online privacy protection act**
 
-© 2008 [Your Shoutbox](http://yourshoutbox.com/) \- Powered By [Shout Master Pro](http://yourshoutbox.com/recommended) \- All Rights Reserved Worldwide
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
+
+**Changes to this privacy policy**
+
+www2.yourshoutbox.com has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+**Your acceptance of these terms**
+
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+**Contacting us**
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us](https://web.archive.org/contact).
+
+This document was last updated on March 02, 2014
