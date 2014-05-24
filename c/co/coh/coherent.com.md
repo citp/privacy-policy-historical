@@ -1,15 +1,6 @@
-> *The following text is extracted and transformed from the coherent.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115145604id_/http%3A//www.coherent.com/Home/index.cfm%3Ffuseaction%3Dforms.page%26PageID%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coherent.com privacy policy that was archived on 2014-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140524121400id_/http%3A//www.coherent.com/Home/index.cfm%3Ffuseaction%3Dpopups.page_v3%26PageID%3D4) for the most accurate reproduction.*
 
-# Coherent Inc. Coherent Privacy Statement
-
-Superior Reliability & Performance
-
-  * Lasers and Laser-based Systems
-  * Laser Measurement and Control
-  * Precision Optics
-  * Related Accessories
-
-
+# 
 
 ### Privacy Policy
 
