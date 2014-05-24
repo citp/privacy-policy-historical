@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allegiancemusical.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122153655id_/http%3A//www.allegiancemusical.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allegiancemusical.com privacy policy that was archived on 2014-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140525011754id_/http%3A//www.allegiancemusical.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Allegiance
 
@@ -18,7 +18,11 @@ In addition, we may employ outside agents, meaning other companies or individual
 
 ### Contests
 
-We may run contests on this website in which we ask visitors for contact information (such as their name, address and/or email address) and demographic information (such as their zip code, age, and/or income level). The user’s contact information is used to contact the visitor when necessary, such as if they win a contest or to notify users of upcoming contests. We generally would host our own contest and, in such instance, all information that is collected by us would be used only by us subject to the terms of this Privacy Policy and Legal Notice. In certain instances, a third party may host the contest and all information would then be shared with us and that third party. In connection with the contests, we may also share contact information with third parties for shipping and prize fulfillment purposes. In our contest registration, we give visitors the opportunity to sign up for this website’s newsletter. However, visitors may opt-out of receiving future mailings by selecting the “unsubscribe” link at the bottom of the newsletter.
+We may run contests on this website in which we ask visitors for contact information (such as their name, address and/or email address) and demographic information (such as their zip code, age, and/or income level). The user’s contact information is used to contact the visitor when necessary, such as if they win a contest or to notify users of upcoming contests.
+
+We generally would host our own contest or sweepstakes and, in such instance, all information that is collected by us would be used only by us subject to the terms of this Privacy Policy and Legal Notice or as otherwise provided in any applicable contest or sweepstakes rules.  In certain instances, a third party may host the contest or sweepstakes and all collected information would then be shared with us and that third party and otherwise used by us subject to the terms of this Privacy Policy and Legal Notice or as otherwise provided in any applicable contest or sweepstakes rules.
+
+In connection with the contests, we may also share contact information with third parties for shipping and prize fulfillment purposes. In our contest registration, we give visitors the opportunity to sign up for this website’s newsletter. However, visitors may opt-out of receiving future mailings by selecting the “unsubscribe” link at the bottom of the newsletter.
 
 ### Interactive Programs
 
