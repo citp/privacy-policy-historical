@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the linksmart.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222211324id_/http%3A//www.linksmart.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linksmart.com privacy policy that was archived on 2014-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140524181521id_/http%3A//www.linksmart.com/privacy) for the most accurate reproduction.*
 
-# Legal & Privacy Policy | LinkSmart
+# Linksmart's Legal and Privacy Policy
 
 LinkSmart, Inc. (“LinkSmart”) is a technology company offering software products and services to the web publishing industry. We help publishers of web content analyze and optimize reader traffic and engagement through contextual hyperlinking. We provide this privacy policy so we may inform you about how our technology (“Technology”) processes information on behalf of the website owners that use our services (our “Clients”). This policy also outlines our privacy practices on our corporate Website (“Website”), www.linksmart.com. If you have any questions regarding our privacy practices, please feel free to contact us at [privacy@linksmart.com](mailto:privacy@linksmart.com).
 
