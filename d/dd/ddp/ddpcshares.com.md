@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the ddpcshares.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119035352id_/http%3A//www.ddpcshares.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ddpcshares.com privacy policy that was archived on 2014-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140525001102id_/http%3A//www.ddpcshares.com/privacy_policy) for the most accurate reproduction.*
 
 # DDPCshares.com :: Privacy Policy
-
-**  
-***ATTENTION COMMUNITY***  
-We had to change our website name and facebook page name for Double Down Promotion Codes. Please review and click [THIS POST](http://www.ddpcshares.com/forum/viewtopic.php?f=5&t=780)   
-Our new Facebook page for double down promotion codes is located here: <https://www.facebook.com/DDPCShares>**
 
 Privacy Policy for **[DDPCshares](http://www.ddpcshares.com/)**
 
