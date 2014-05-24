@@ -1,425 +1,355 @@
-<!--The following is the downloaded HTML source of the webpt.com privacy policy that was archived on 2013-11-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131122110009id_/http%3A//www.webpt.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the webpt.com privacy policy that was archived on 2014-05-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140524031555id_/http%3A//www.webpt.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!DOCTYPE html><html class="skrollr skrollr-desktop"><head>
+  <meta charset="utf-8"><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KT3TD7"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UA8FVVNACgMJXFda"};window.NREUM||(NREUM={}),__nr_require=function t(e,n,r){function o(i){if(!n[i]){var a=n[i]={exports:{}};e[i][0].call(a.exports,function(t){var n=e[i][1][t];return o(n?n:t)},a,a.exports,t,e,n,r)}return n[i].exports}for(var i=0;i<r.length;i++)o(r[i]);return o}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=i[t],o=r&&r.length||0,s=n[a]||(n[a]={}),d=0;o>d;d++)try{r[d].apply(s,e)}catch(u){}return s}function r(t,e){var n=i[t]||(i[t]=[]);n.push(e)}function o(t){return delete t[a]}var i={},a="nr@context";e.exports={on:r,emit:n,clear:o}},{}],2:[function(t){function e(t,e,o,a,d){return s?s-=1:n("err",[d||new UncaughtException(t,e,o)]),"function"==typeof i?i.apply(this,r(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}var n=t("handle"),r=t(6),o=t(5),i=window.onerror,a=!1,s=0;t("loader").features.push("err"),window.onerror=e;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),a=!0)}o.on("fn-start",function(){a&&(s+=1)}),o.on("fn-err",function(t,e,r){a&&(this.thrown=!0,n("err",[r,(new Date).getTime()]))}),o.on("fn-end",function(){a&&!this.thrown&&s>0&&(s-=1)})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){n.inPlace(this,i,"fn-")}var n=t(1),r=t(2),o=window.XMLHttpRequest,i=["onload","onerror","onabort","onloadstart","onloadend","onprogress","onreadystatechange","ontimeout"];window.XMLHttpRequest=function(t){var i=new o(t);return r.emit("new-xhr",[],i),n.inPlace(i,["addEventListener","removeEventListener"],"-",function(t,e){return e}),i.addEventListener("readystatechange",e,!1),i},window.XMLHttpRequest.prototype=o.prototype},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var o=0;p>o;o++)t.removeEventListener(u[o],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,s="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,d=e(s);if(d&&(r.rxSize=d),this.sameOrigin){var f=t.getResponseHeader("X-NewRelic-App-Data");f&&(n.cat=f.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,i("xhr",[n,r])}}}function r(t,e){var n=a(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}function o(t,e){return e}t("loader").features.push("xhr");var i=t("handle"),a=t(1),s=t(5),d=t(6),u=["load","error","abort","timeout"],p=u.length,f=t(2);t(3),t(4),d.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),s.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),d.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),d.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),d.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var a=e(o);a&&(r.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){}};for(var s=0;p>s;s++)n.addEventListener(u[s],this.listener,!1)}),d.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),d.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),d.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),d.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&d.emit("xhr-load-added",[t[1],t[2]],e)}),d.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&d.emit("xhr-load-removed",[t[1],t[2]],e)}),d.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),d.on("fn-end",function(t,e){this.xhrCbStart&&d.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:15,6:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=c.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID){c.proto="https"===f.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=d.createElement("script");e.src=c.proto+t.agent,d.body.appendChild(e)}}function r(){"complete"===d.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,d=s.document,u="addEventListener",p="attachEvent",f=(""+location).split("?")[0],c=e.exports={offset:i(),origin:f,features:[]};d[u]?(d[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(d[p]("onreadystatechange",r),s[p]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,n,r){function nrWrapper(){var a,s=i(arguments),d=this,u=n&&n(s,d)||{};try{return o.emit(e+"start",[s,d,r],u),a=t.apply(d,s)}catch(p){throw o.emit(e+"err",[s,d,p],u),p}finally{o.emit(e+"end",[s,d,a],u)}}return t&&"function"==typeof t&&t.apply&&!t._wrapped?(e||(e=""),nrWrapper._wrapped=!0,nrWrapper):t}function r(t,e,r,o){r||(r="");var i,a,s,d="-"===r.charAt(0);for(s=0;s<e.length;s++)a=e[s],i=t[a],i&&"function"==typeof i&&i.apply&&!i._wrapped&&(t[a]=n(i,d?a+r:r,o,a,t))}var o=t(1),i=t(2);e.exports=n,n.inPlace=r},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<link rel="shortcut icon" href="http://www.webpt.com/sites/all/themes/webpt/favicon.ico" type="image/vnd.microsoft.icon">
+<meta name="twitter:site:id" content="155608291">
+<link rel="apple-touch-icon" href="/sites/all/themes/webpt/touch-icon-iphone.png">
+<meta name="twitter:url" content="http://www.webpt.com/privacy">
+<link rel="apple-touch-icon" sizes="76x76" href="/sites/all/themes/webpt/touch-icon-ipad.png">
+<meta property="article:modified_time" content="2014-04-15T12:33:55-07:00">
+<meta property="article:published_time" content="2013-12-19T12:45:20-07:00">
+<link rel="apple-touch-icon" sizes="152x152" href="/sites/all/themes/webpt/touch-icon-ipad-retina.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/sites/all/themes/webpt/touch-icon-iphone-retina.png">
+<meta name="twitter:card" content="summary">
+<meta property="og:url" content="http://www.webpt.com/privacy">
+<meta name="twitter:title" content="Privacy Policy">
+<meta property="og:image" content="/sites/all/themes/webpt/images/og-default.png">
+<meta property="og:title" content="Privacy Policy">
+<link rel="author" href="https://plus.google.com/100361022484427294671">
+<meta name="generator" content="Drupal 7 (http://drupal.org)">
+<link rel="canonical" href="http://www.webpt.com/privacy">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="WebPT">
+<meta property="fb:app_id" content="166087830076297">
+<link rel="publisher" href="https://plus.google.com/+WebptEMR/posts">
+<meta property="og:locale" content="en_US">
   <title>Privacy Policy | WebPT</title>
-  
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<link rel="shortcut icon" href="/sites/default/files/webpt_favicon.ico" type="image/x-icon">
-  <meta http-equiv="X-UA-Compatible" content="chrome=1">
-  <meta name="alexaVerifyID" content="F2Z12WJFZFJ822tYAJV3Mn_aOs8">
-  <link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/css/css_ecbec51bdad62cdd20d3b1244b5cc019.css">
-<link type="text/css" rel="stylesheet" media="print" href="/sites/default/files/css/css_9a1b14b303a3dd6484980caf775d659f.css">
 
+	<!-- Enable HTML5 support for IE -->
+  <!--[if lt IE 9]>
+  <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
 
-<!--[if IE]>
-<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/webpt/css/ie.css?1" />
+  <!-- LOAD TYPEKIT FONTS -->
+  <script type="text/javascript" src="//use.typekit.net/aos0eda.js"></script>
+  <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+
+  <link type="text/css" rel="stylesheet" href="http://www.webpt.com/sites/default/files/css/css_pbm0lsQQJ7A7WCCIMgxLho6mI_kBNgznNUWmTWcnfoE.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://www.webpt.com/sites/default/files/css/css_WnWHVoPvRESJOptOo2rcuVD0sksGVsB4lhOXhXm10co.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://www.webpt.com/sites/default/files/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="screen">
+<link type="text/css" rel="stylesheet" href="http://www.webpt.com/sites/default/files/css/css_4w9XTcokm04bHZleyr_wcA0SxUWk2mWnA28dPXzgPhE.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://www.webpt.com/sites/default/files/css/css_MnXiytJtb186Ydycnpwpw34cuUsHaKc80ey5LiQXhSY.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://www.webpt.com/sites/default/files/css/css_69HwXDJoBn66Xh14dwLlwH9yuuBJdUQX5H6Sxyoid2s.css" media="all">
+
+<!--[if lt IE 9]>
+<link type="text/css" rel="stylesheet" href="http://www.webpt.com/sites/default/files/css/css_ZXsbU3d_jyyXCsZ3XS6a7imBm7JTZTpQp9DIwHqrx80.css" media="all" />
 <![endif]-->
-<!--[if IE 8]>
-<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/webpt/css/ie8.css?1" />
+
+<!--[if lt IE 8]>
+<link type="text/css" rel="stylesheet" href="http://www.webpt.com/sites/default/files/css/css_fOimgmXBhtZARsQBLoPQ059V5RI8GGM8kpQC2qlXPXY.css" media="all" />
 <![endif]-->
-<!--[if lte IE 7]>
-<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/webpt/css/ie7.css?1" />
-<![endif]-->
-<!--[if lte IE 6]>
-<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/webpt/css/ie6.css?1" />
-<![endif]-->
-  <script type="text/javascript" src="https://pi.pardot.com/pd.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-ZJW3"></script><script type="text/javascript" src="/sites/all/modules/jquery_update/replace/jquery.min.js?1"></script>
-<script type="text/javascript" src="/misc/drupal.js?1"></script>
-<script type="text/javascript" src="/sites/all/libraries/colorbox/colorbox/jquery.colorbox-min.js?1"></script>
-<script type="text/javascript" src="/sites/all/modules/colorbox/js/colorbox.js?1"></script>
-<script type="text/javascript" src="/sites/all/modules/colorbox/styles/default/colorbox_default_style.js?1"></script>
-<script type="text/javascript" src="/sites/all/modules/colorbox/js/colorbox_load.js?1"></script>
-<script type="text/javascript" src="/sites/all/modules/firehost_seo/js/firehost_seo.js?1"></script>
-<script type="text/javascript" src="/sites/all/libraries/superfish/jquery.hoverIntent.minified.js?1"></script>
-<script type="text/javascript" src="/sites/all/libraries/superfish/jquery.bgiframe.min.js?1"></script>
-<script type="text/javascript" src="/sites/all/libraries/superfish/superfish.js?1"></script>
-<script type="text/javascript" src="/sites/all/libraries/superfish/supersubs.js?1"></script>
-<script type="text/javascript" src="/sites/all/libraries/superfish/supposition.js?1"></script>
-<script type="text/javascript" src="/sites/all/libraries/superfish/sftouchscreen.js?1"></script>
-<script type="text/javascript" src="/sites/all/modules/swftools/flowplayer3/swftools_flowplayer3.js?1"></script>
-<script type="text/javascript" src="/sites/all/modules/swftools/swftools.js?1"></script>
-<script type="text/javascript" src="/sites/all/modules/video/js/video.js?1"></script>
-<script type="text/javascript" src="/sites/all/modules/jquery_plugin/jquery.cycle.min.js?1"></script>
-<script type="text/javascript" src="/sites/all/modules/views_slideshow/contrib/views_slideshow_singleframe/views_slideshow.js?1"></script>
-<script type="text/javascript" src="/sites/all/modules/views_slideshow/contrib/views_slideshow_thumbnailhover/views_slideshow.js?1"></script>
-<script type="text/javascript" src="/sites/all/modules/views_slideshow_jcarouselthumbs/jcarousel/lib/jquery.jcarousel.js?1"></script>
-<script type="text/javascript" src="/sites/all/modules/views_slideshow_jcarouselthumbs/views_slideshow.js?1"></script>
-<script type="text/javascript" src="/sites/all/modules/z_custom/z_custom.js?1"></script>
-<script type="text/javascript" src="/sites/all/modules/z_custom/js/jquery.defaultvalue.js?1"></script>
-<script type="text/javascript" src="/sites/all/modules/extlink/extlink.js?1"></script>
-<script type="text/javascript" src="/sites/all/modules/wpt_welcomebar/js/wpt_welcomebar.js?1"></script>
-<script type="text/javascript" src="/sites/all/modules/wpt_welcomebar/js/jquery.cookie.js?1"></script>
-<script type="text/javascript" src="/sites/all/modules/mollom/mollom.js?1"></script>
-<script type="text/javascript" src="/sites/all/modules/webform/js/webform.js?1"></script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, { "basePath": "/", "colorbox": { "transition": "elastic", "speed": 350, "opacity": "0.85", "slideshow": false, "slideshowAuto": false, "slideshowSpeed": 2500, "slideshowStart": "", "slideshowStop": "", "current": "{current} of {total}", "previous": "« Prev", "next": "Next »", "close": "Close", "overlayClose": true, "maxWidth": "100%", "maxHeight": "100%" }, "extlink": { "extTarget": "_blank", "extClass": 0, "extSubdomains": 1, "extExclude": "", "extInclude": "", "extAlert": 0, "extAlertText": "This link will take you to an external web site. We are not responsible for their content.", "mailtoClass": 0 }, "firehostSEO": { "offset": "10" } });
-//--><!]]>
-</script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-jQuery(function(){
-jQuery('#superfish-1').supersubs({minWidth: 12, maxWidth: 27, extraWidth: 1}).superfish({
-delay: 1000,
-animation: {opacity:'show',},
-speed: 'normal',
-autoArrows: false,
-dropShadows: false});
-});
-//--><!]]>
-</script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-wpt = window.wpt || {}; wpt.welcomebar = wpt.welcomebar || {}; wpt.welcomebar.style = 'light'; wpt.welcomebar.inner = 'Want to stay Medicare-compliant in 2014? We\'ll break down all the rules on November 26.&nbsp;&nbsp;<a class="wptBtn olive" target="_blank" title="REGISTER FOR THE WEBINAR" href="http://www2.webpt.com/wb/pqrs-and-all-things-medicare-compliance-webinar"><span>REGISTER FOR THE WEBINAR</span></a>';
-//--><!]]>
-</script>
 </head>
-<body class="not-front not-logged-in node-type-page no-sidebars page-privacy section-privacy with-navigation"><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" style="padding-bottom: 0px; padding-right: 0px; display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear:left"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" style="width: 0px; height: 0px; overflow: hidden;" class=""></div><div id="cboxLoadingOverlay" class=""></div><div id="cboxLoadingGraphic" class=""></div><div id="cboxTitle" class=""></div><div id="cboxCurrent" class=""></div><div id="cboxNext" class=""></div><div id="cboxPrevious" class=""></div><div id="cboxSlideshow" class=""></div><div id="cboxClose" class=""></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear:left"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position:absolute; width:9999px; visibility:hidden; display:none"></div></div>
-	<script>
-		// Prepare for KISSmetrics setup before loading Google Tag Manager
-		var _kmq = _kmq || [];
-	</script>
-	<!-- Google Tag Manager - ADDED 20130125 BY JDC -->
-	<noscript>
-		<iframe src="//www.googletagmanager.com/ns.html?id=GTM-ZJW3" height="0" width="0" style="display: none; visibility: hidden"></iframe>
-	</noscript>
-	<script>
-		(function(w,d,s,l,i){
-			w[l]=w[l]||[];
-			w[l].push({'gtm.start': new Date().getTime(), event: 'gtm.js'});
-			var f=d.getElementsByTagName(s)[0],
-			j=d.createElement(s),
-			dl=l!='dataLayer'?'&l='+l:'';
-			j.async=true;
-			j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-		})(window,document,'script','dataLayer','GTM-ZJW3');
-	</script>
-	<!-- End Google Tag Manager -->
+<body itemscope="" itemtype="http://schema.org/Corporation" class="html not-front not-logged-in no-sidebars page-node page-node- page-node-46 node-type-page">
+  <!-- Google Tag Manager -->
+  <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KT3TD7"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-KT3TD7');</script>
+  <!-- End Google Tag Manager -->
+        <div id="nav-outer">
+    <nav id="nav">
+      <div class="container">
+        <a id="logo" href="/" title="WebPT">
+          <img itemprop="image" src="http://www.webpt.com/sites/all/themes/webpt/logo.png" alt="WebPT Logo">
+        </a>
+        <div id="nav-dropdown">
+            <div class="region region-navigation-main">
+    <section id="block-system-main-menu" class="block block-system block-menu odd">
+  <div class="container">
 
-  <div id="page-exterior-wrapper"><div id="page-wrapper"><div id="page">
-
-    <div id="header"><div class="section clearfix">
-          </div></div> <!-- /.section, /#header -->
-
-    <div id="main-wrapper"><div id="main" class="clearfix">
-
-      <div id="content" class="column"><div class="section">
-
-        
-        <div class="region region-highlight">
-  <div id="block-nodeblock-44" class="block nodetype-block block-nodeblock region-odd even region-count-1 count-4">
-  
-  <div class="content">
-    <div id="node-44" class="node clear-block">
-
-
-
-  <div class="meta">
-  
-    </div>
-
-  <div class="content">
-    <p><a href="/request-demo">Schedule a Demo</a></p>
-  </div>
-
-  </div>  </div>
-
-  </div> <!-- /.block -->
-</div> <!-- /.region -->
-
-        <div class="breadcrumb"><a href="/">Home</a></div>                  <h3 class="title">Privacy Policy</h3>
-                                
-        
-        <div id="content-area">
-          <div id="node-53" class="node node-type-page clearfix">
-  
-  
-  
-  
-  <div class="content">
-    <div style="margin: 10px; padding: 5px; float: right;"><a title="Validate TRUSTe privacy certification" href="http://clicktoverify.truste.com/pvr.php?page=validate&amp;url=www.webpt.com&amp;sealid=101" target="_blank"><br><img style="border: initial none initial;" src="//privacy-policy.truste.com/certified-seal/ctv/en/www.webpt.com/seal_m.png" alt="Validate TRUSTe privacy certification"></a></div>
-<p>Effective May 12, 2011</p>
-<h4>Our Commitment to Privacy</h4>
-<p>Your privacy and the privacy of your clients are very important to us. To better protect your privacy WebPT provides this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.</p>
-<p>WebPT has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with <a href="http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html">TRUSTe's program requirements</a> including transparency, accountability and choice regarding the collection and use of your personal information.&nbsp; TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at:</p>
-<p><strong>WebPT</strong><br>ATTN: Website Security<br>605 E Grant Street, Suite 200<br>Phoenix, AZ 850004</p>
-<p>If you are not satisfied with our response you can contact <a href="http://watchdog.truste.com/pvr.php?page=complaint">TRUSTe here</a>. The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through our applications.</p>
-<p>&nbsp;</p>
-<h4>The Information We Collect</h4>
-<p>This notice applies to all information collected or submitted on the WebPT.com website. On some pages, you can make requests to schedule a demo. The types of personal information collected at these pages are: Name, Address, Email Address, Phone Number.</p>
-<p>&nbsp;</p>
-<h4>The Way We Use Information</h4>
-<p>We use the information you provide about yourself only to learn about your needs for EMR solutions. We do not share this information with outside parties except to the extent necessary to complete the setup of your account.</p>
-<p>We use return email addresses to answer the email we receive and communicate with you about WebPT’s products and services. Such addresses are not shared with outside parties.</p>
-<p>Finally, we never use, share, sell or rent the personally identifiable information provided to us online in ways unrelated to the ones described in this privacy policy without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.</p>
-<p>&nbsp;</p>
-<h4>Cookies</h4>
-<p>A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.</p>
-<p>We use both session ID cookies and persistent cookies.&nbsp; We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file.</p>
-<p>We set a persistent cookie to store your passwords, so you don’t have to enter it more than once.&nbsp; Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site, and identify certain functionality of your web browsing software.&nbsp;</p>
-<p>If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as contests or surveys, will be limited.</p>
-<p>&nbsp;</p>
-<h4>Log Files</h4>
-<p>As is true of most Web sites, we and the third party tracking services we use gather certain information automatically and store it in log files.&nbsp; This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.&nbsp;</p>
-<p>We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole.&nbsp;</p>
-<p>&nbsp;</p>
-<h4>Newsletters</h4>
-<p>If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you.&nbsp; If you wish to Opt-out of receiving these newsletters you may do so at any time by following the unsubscribe instructions within the emails you receive.</p>
-<p>&nbsp;</p>
-<h4>Service Related Announcements</h4>
-<p>We will send you strictly service-related announcements on rare occasions when it is necessary to do so.&nbsp; For instance, if our service is temporarily suspended for maintenance, we might send you an email.&nbsp;</p>
-<p>Generally, you may not opt-out of these communications, which are not promotional in nature. &nbsp;</p>
-<p>&nbsp;</p>
-<h4>Referrals</h4>
-<p>When you register for a demo you have the opportunity to let us know if you heard about us from somebody you know. If you do, we will give you the opportunity to provide us with your friend’s name so we can credit them with a referral bonus. WebPT stores this information for the sole purpose of providing the referral bonus and tracking the success of our referral program.</p>
-<p>If your name has been provided as a referral you may contact us at <a href="mailto:info@webpt.com">privacy@webpt.com</a> to request we no longer store your name.</p>
-<p>&nbsp;</p>
-<h4>Links to Other Sites</h4>
-<p>This Web site contains links to other sites that are not owned or controlled by WebPT. Please be aware that we, WebPT, are not responsible for the privacy practices of such other sites.&nbsp;</p>
-<p>We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information.&nbsp;</p>
-<p>This privacy statement applies only to information collected by this Web site.</p>
-<p>&nbsp;</p>
-<h4>Public Forums</h4>
-<p>Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at <a href="mailto:info@webpt.com">privacy@webpt.com</a>. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.</p>
-<p>&nbsp;</p>
-<h4>Testimonials</h4>
-<p>We post customer testimonials/comments/reviews on our web site which may contain personally identifiable information.&nbsp; We obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial. If you wish to request that your testimonial be removed you may do so by contacting us at <a href="mailto:privacy@webpt.com">privacy@webpt.com</a>.</p>
-<p>&nbsp;</p>
-<h4>Service Providers</h4>
-<p>We use other third parties such as an email service provider to send out emails on our behalf. &nbsp;When you sign up for our services, we will share your personal information only as necessary for the third party to provide that service.&nbsp;</p>
-<p>&nbsp;</p>
-<h4>Legal Disclosure</h4>
-<p>We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site.</p>
-<p><strong>Business Transitions</strong></p>
-<p>In the event WebPT goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred.&nbsp; You will be notified via email or prominent notice on our Web site for 30 days of any such change in ownership or control of your personal information.</p>
-<p>&nbsp;</p>
-<h4>Our Commitment to Data Security</h4>
-<p>The security of your personal information is important to us.&nbsp; We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it.&nbsp; No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.&nbsp; Therefore, we cannot guarantee its absolute security.</p>
-<p>&nbsp;</p>
-<h4>Our Commitment to Children's Privacy</h4>
-<p>Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13 for sales purposes, and no part of our website is structured to attract anyone under 13. &nbsp;However, some of our clients may have patients who are under 13 and their information would be safely secured in our encrypted database.</p>
-<p>&nbsp;</p>
-<h4>Changes to This Policy</h4>
-<p>We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.</p>
-<p>&nbsp;</p>
-<h4>How You Can Access or Correct Your Information</h4>
-<p>You can access all your personally identifiable information that we collect online and maintain by contacting us at <a href="mailto:privacy@webpt.com">privacy@webpt.com</a> or by submitting a written request to:</p>
-<p><strong>WebPT</strong><br> ATTN: Website Security<br> 605 E Grant Street, Suite 200<br> Phoenix, AZ 850004</p>
-<p>We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at <a href="mailto:privacy@webpt.com">privacy@webpt.com</a>. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.</p>
-<p>We use this procedure to better safeguard your information. You can correct factual errors in your personally identifiable information by sending us a request that credibly shows errors. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.</p>
-<p>&nbsp;</p>
-<h4>How to Contact Us</h4>
-<p>Should you have other questions or concerns about these privacy policies, please send us an email at <a href="mailto:privacy@webpt.com">privacy@webpt.com</a>.</p>
-  </div>
-
-  </div> <!-- /.node -->
-        </div>
-
-        
-        
-      </div></div> <!-- /.section, /#content -->
-
-              <div id="navigation"><div class="section clearfix">
-
-          
-          <div class="region region-navigation">
-  <div id="block-nodeblock-5" class="block nodetype-block block-nodeblock region-odd odd region-count-1 count-1">
-  
-  <div class="content">
-    <div id="node-5" class="node clear-block">
-
-
-
-  <div class="meta">
-  
-    </div>
-
-  <div class="content">
-    <div id="utility_wrapper"><a href="/call-us"><img style="border: none;" src="/sites/default/files/images/iconutilcall.png" alt="Contact Sales for a Demo" width="22" height="15"></a>&nbsp;&nbsp;Sales:&nbsp;     <strong><a href="/call-us">866­-221<span style="display: none;">_</span>-1870</a></strong> <img src="/sites/default/files/images/iconutilbargray.png" alt="" width="26" height="11"> <a href="/send-email"><img style="border: none;" src="/sites/default/files//images/iconutilemail.png" alt="Email WebPT with a Question" width="17" height="15"></a>&nbsp;&nbsp;     <strong><a href="/send-email">Send an Email</a></strong> <img src="/sites/default/files/images/iconutilbargray.png" alt="" width="26" height="11"> <a href="https://io.webpt.com"><img style="border: none;" src="/sites/default/files/images/iconutillogin.png" alt="Login securely to WebPT" width="13" height="15"></a> &nbsp;&nbsp;<strong><a href="https://app.webpt.com">Login</a></strong></div>
-  </div>
-
-  </div>  </div>
-
-  </div> <!-- /.block -->
-<div id="block-superfish-1" class="block block-superfish region-even even region-count-2 count-2">
-  
-  <div class="content">
-    <ul id="superfish-1" class="sf-menu primary-links sf-horizontal sf-style-default sf-total-items-6 sf-parent-items-0 sf-single-items-6"><li id="menu-1001-1" class="first odd sf-item-1 sf-depth-1 sf-no-children"><a href="/features" title="Features" class="sf-depth-1">Features</a></li><li id="menu-1002-1" class="middle even sf-item-2 sf-depth-1 sf-no-children"><a href="/why-webpt" title="Why WebPT?" class="sf-depth-1">Why WebPT</a></li><li id="menu-4287-1" class="middle odd sf-item-3 sf-depth-1 sf-no-children"><a href="/customers" title="" class="sf-depth-1">Customers</a></li><li id="menu-1003-1" class="middle even sf-item-4 sf-depth-1 sf-no-children"><a href="/resources" title="Resource Center" class="sf-depth-1">Resource Center</a></li><li id="menu-1004-1" class="middle odd sf-item-5 sf-depth-1 sf-no-children"><a href="/support" title="Support" class="sf-depth-1">Support</a></li><li id="menu-1005-1" class="last even sf-item-6 sf-depth-1 sf-no-children"><a href="/about" title="About Us" class="sf-depth-1">About Us</a></li></ul>  </div>
-
-  </div> <!-- /.block -->
-<div id="block-firehost_seo-1" class="block block-firehost_seo region-odd odd region-count-3 count-3">
-  
-  <div class="content">
-    <a href="/"><img src="/sites/default/files/webpt_logo.jpg" alt="" title="" width="169" height="38"></a>  </div>
-
-  </div> <!-- /.block -->
-</div> <!-- /.region -->
-
-        </div></div> <!-- /.section, /#navigation -->
       
-      
-      
-    </div></div> <!-- /#main, /#main-wrapper -->
+  <ul class="menu"><li class="first collapsed"><a href="/features">Features</a></li>
+<li class="leaf"><a href="/why-webpt">Why WebPT</a></li>
+<li class="leaf"><a href="/pricing">Pricing</a></li>
+<li class="collapsed"><a href="/about">About</a></li>
+<li class="last leaf"><a href="/blog">Blog</a></li>
+</ul>
+  </div> <!-- end /.container -->
+</section> <!-- end /#block-system-main-menu -->
+  </div>
+          <a id="demo" href="/demo" title="Free Demo">Free Demo</a>
+        </div><!-- end /#nav-dropdown -->
+      </div> <!-- end /.container -->
+          </nav> <!-- end /#nav -->
+  </div><!-- end /#nav-outer -->
 
-          <div id="footer"><div class="section">
-
-        
-        
-        <div class="region region-footer">
-  <div id="block-wpt_welcomebar-0" class="block block-wpt_welcomebar region-odd odd region-count-1 count-5">
-  
-  <div class="content">
-    <div id="wpt_welcomebar"><div class="content">Hello World!!!</div></div>  </div>
-
-  </div> <!-- /.block -->
-</div> <!-- /.region -->
-
-      </div></div> <!-- /.section, /#footer -->
+      <header id="header">
     
-  </div></div></div> <!-- /#page, /#page-wrapper -->
+      <div class="container">
+        
+        <div class="tabs"></div>                        <h1 class="title" id="page-title">Privacy Policy</h1>
+              </div> <!-- end /.container -->
+  </header> <!-- end /#header -->
+  
+  <section id="content">
+            <div class="container container-main">
+        <div class="region region-header">
+    <section id="block-system-main" class="block block-system odd">
+  <div class="container">
 
-  <div class="closure-wrapper"><div class="section"><div class="region region-page-closure">
-  <div id="block-webform-client-block-1622" class="block block-webform region-odd even region-count-1 count-6">
-      <h4 class="title">Newsletter Signup</h4>
+      
+  <div id="node-46" class="node node-page clearfix">
+
+  
+      
   
   <div class="content">
-    <form action="/privacy?nocache=1" accept-charset="UTF-8" method="post" id="webform-client-form-1622" class="webform-client-form" enctype="multipart/form-data">
-<div><div class="webform-component webform-component-email" id="webform-component-email"><div class="form-item" id="edit-submitted-email-wrapper">
- <input class="form-text form-email required email" placeholder="Enter email to sign up for our newsletter" type="email" id="edit-submitted-email" name="submitted[email]" size="60">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><div id="08c76d73-b550-41b8-bf37-7fb038d3e0ba" class="image-right">
+<script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/WebPT/asc?rid=08c76d73-b550-41b8-bf37-7fb038d3e0ba"></script><p><a title="TRUSTe online privacy certification" href="//privacy.truste.com/privacy-seal/WebPT/validation?rid=47e651e4-54c4-4151-a2eb-be7bc161b310" target="_blank"><img style="border: none;" src="//privacy-policy.truste.com/privacy-seal/WebPT/seal?rid=47e651e4-54c4-4151-a2eb-be7bc161b310" alt="TRUSTe online privacy certification"></a></p></div>
+<p dir="ltr">Effective April 15, 2014</p>
+<h4 dir="ltr">Our Commitment to Privacy</h4>
+<p dir="ltr">This privacy policy applies to <a href="http://www.webpt.com">www.webpt.com</a> owned and operated by WebPT. Your privacy and the privacy of your clients are very important to us. To better protect your privacy WebPT provides this notice explaining our online information practices and the choices you can make about the way your information is collected and used. It also describes how you can access and update this information. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.</p>
+<p dir="ltr">WebPT has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with <a href="http://www.truste.com/privacy-program-requirements/" target="_blank">TRUSTe's program requirements </a>including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at:</p>
+<p dir="ltr"><strong>WebPT</strong><br>ATTN: Website Security<br>605 E Grant Street, Suite 200<br>Phoenix, AZ 850004</p>
+<p dir="ltr">If you are not satisfied with our response you can contact <a href="http://watchdog.truste.com/pvr.php?page=complaint" target="_blank">TRUSTe here</a>. The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through our applications.</p>
+<h4 dir="ltr">The Information We Collect</h4>
+<p dir="ltr">This notice applies to all information collected or submitted on the WebPT.com website. On some pages, you can make requests to schedule a demo. The types of personal information collected at these pages are: Name, Address, Email Address, Phone Number.</p>
+<h4 dir="ltr">The Way We Use Information</h4>
+<p dir="ltr">We use the information you provide about yourself only to learn about your needs for EMR solutions. We do not share this information with outside parties except to the extent necessary to complete the setup of your account.</p>
+<p dir="ltr">We use return email addresses to answer the email we receive and communicate with you about WebPT’s products and services. Such addresses are not shared with outside parties.</p>
+<p dir="ltr">Finally, we never use, share, sell or rent the personally identifiable information provided to us online in ways unrelated to the ones described in this privacy policy without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.</p>
+<h4 dir="ltr">Cookies</h4>
+<p dir="ltr">A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.</p>
+<p dir="ltr">We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file.</p>
+<p dir="ltr">We set a persistent cookie to store your passwords, so you don’t have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site, and identify certain functionality of your web browsing software.</p>
+<p dir="ltr">If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as contests or surveys, will be limited.</p>
+<p dir="ltr">The use of cookies by our tracking utility company is covered by our privacy policy. We do have access or control over these cookies. Our partners use session ID cookies to make it easier to navigate to our site.</p>
+<p dir="ltr">Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do not tie the information gathered to our Customers’ or Users’ personally identifiable information.</p>
+<h4 dir="ltr">Log Files</h4>
+<p dir="ltr">As is true of most Web sites, we and the third party tracking services we use gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.</p>
+<p dir="ltr">We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole.</p>
+<h4 dir="ltr">Behavioral Targeting / Re-Targeting</h4>
+<p dir="ltr">We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking <a href="http://preferences.truste.com/" target="_blank">Here</a>. Please note this does not opt you out of being served advertising. You will continue to receive generic ads.</p>
+<p dir="ltr">NOTE: Participant may also link to the NAI opt-out mechanism <a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank">http://www.networkadvertising.org/managing/opt_out.asp</a></p>
+<h4 dir="ltr">Newsletters</h4>
+<p dir="ltr">If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. If you wish to Opt-out of receiving these newsletters you may do so at any time by following the unsubscribe instructions within the emails you receive.</p>
+<h4 dir="ltr">Service Related Announcements</h4>
+<p dir="ltr">We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email.</p>
+<p dir="ltr">Generally, you may not opt-out of these communications, which are not promotional in nature.</p>
+<h4 dir="ltr">Referrals</h4>
+<p dir="ltr">When you register for a demo you have the opportunity to let us know if you heard about us from somebody you know. If you do, we will give you the opportunity to provide us with your friend’s name so we can credit them with a referral bonus. WebPT stores this information for the sole purpose of providing the referral bonus and tracking the success of our referral program.</p>
+<p dir="ltr">If your name has been provided as a referral you may contact us at <a href="mailto:info@webpt.com">privacy@webpt.com</a> to request we no longer store your name.</p>
+<h4 dir="ltr">Links to Other Sites</h4>
+<p dir="ltr">This Web site contains links to other sites that are not owned or controlled by WebPT. Please be aware that we, WebPT, are not responsible for the privacy practices of such other sites.</p>
+<p dir="ltr">We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information.</p>
+<h4 dir="ltr">Public Forums</h4>
+<p dir="ltr">Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at <a href="mailto:info@webpt.com">privacy@webpt.com</a>. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.</p>
+<h4 dir="ltr">Testimonials</h4>
+<p dir="ltr">We post customer testimonials/comments/reviews on our web site which may contain personally identifiable information. We obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial. If you wish to request that your testimonial be removed you may do so by contacting us at <a href="mailto:privacy@webpt.com">privacy@webpt.com</a>.</p>
+<h4 dir="ltr">Service Providers</h4>
+<p dir="ltr">We use other third parties such as an email service provider to send out emails on our behalf. When you sign up for our services, we will share your personal information only as necessary for the third party to provide that service.</p>
+<h4 dir="ltr">Social Media Feature and Widgets</h4>
+<p dir="ltr">Our Web site includes Social Media Features, such as the Facebook and Twitter buttons. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.</p>
+<h4 dir="ltr">Legal Disclosure</h4>
+<p dir="ltr">We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site.</p>
+<h5 dir="ltr">Business Transitions</h5>
+<p dir="ltr">In the event WebPT goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via email or prominent notice on our Web site for 30 days of any such change in ownership or control of your personal information, as well as any choices you may have regarding your personal information.</p>
+<h4 dir="ltr">Our Commitment to Data Security</h4>
+<p dir="ltr">The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.</p>
+<h4 dir="ltr">Our Commitment to Children's Privacy</h4>
+<p dir="ltr">Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13 for sales purposes, and no part of our website is structured to attract anyone under 13. However, some of our clients may have patients who are under 13 and their information would be safely secured in our encrypted database.</p>
+<h4 dir="ltr">Changes to This Policy</h4>
+<p dir="ltr">We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.</p>
+<h4 dir="ltr">How You Can Access, Correct and Deactivate Your Information</h4>
+<p dir="ltr">You can access and correct all your personally identifiable information that we collect online and maintain by contacting us at <a href="mailto:privacy@webpt.com">privacy@webpt.com</a> or by submitting a written request to:</p>
+<p dir="ltr"><strong>WebPT</strong><br>ATTN: Website Security<br>605 E Grant Street, Suite 200<br>Phoenix, AZ 850004</p>
+<p dir="ltr">We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at <a href="mailto:privacy@webpt.com">privacy@webpt.com</a>. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.</p>
+<p dir="ltr">We use this procedure to better safeguard your information. You can correct factual errors in your personally identifiable information by sending us a request that credibly shows errors. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.</p>
+<h4 dir="ltr">How to Contact Us</h4>
+<p>Should you have other questions or concerns about these privacy policies, please send us an email at <a href="mailto:privacy@webpt.com">privacy@webpt.com</a>.</p>
+</div></div></div>  </div>
+
+  
+  
 </div>
-</div><input type="hidden" name="details[sid]" id="edit-details-sid" value="">
-<input type="hidden" name="details[page_num]" id="edit-details-page-num" value="1">
-<input type="hidden" name="details[page_count]" id="edit-details-page-count" value="1">
-<input type="hidden" name="details[finished]" id="edit-details-finished" value="0">
-<input type="hidden" name="form_build_id" id="form-4c38ab9074e9443041ae3c852e3ab360" value="form-4c38ab9074e9443041ae3c852e3ab360">
-<input type="hidden" name="form_id" id="edit-webform-client-form-1622" value="webform_client_form_1622">
-<input type="hidden" name="honeypot_time" id="edit-honeypot-time" value="1385118009">
-<div class="honeypot-textfield"><div class="form-item" id="edit-homepage-wrapper">
- <label for="edit-homepage">Leave this field blank: </label>
- <input type="text" maxlength="128" name="homepage" id="edit-homepage" size="20" value="" class="form-text">
-</div>
-</div><input type="hidden" name="mollom[contentId]" id="edit-mollom-contentId" value="" class="mollom-content-id">
-<input type="hidden" name="mollom[captchaId]" id="edit-mollom-captchaId" value="" class="mollom-captcha-id">
-<div style="display: none;"><div class="form-item" id="edit-mollom-homepage-wrapper">
- <input type="text" maxlength="128" name="mollom[homepage]" id="edit-mollom-homepage" size="60" value="" autocomplete="off" class="form-text">
-</div>
-</div><div class="description mollom-privacy">By submitting this form, you accept the <a href="//mollom.com/web-service-privacy-policy" class="mollom-target" rel="nofollow">Mollom privacy policy</a>.</div><div id="edit-actions" class="form-actions form-wrapper"><input type="submit" name="op" id="edit-submit" value="Submit" class="form-submit">
-</div>
-</div></form>
+
+  </div> <!-- end /.container -->
+</section> <!-- end /#block-system-main -->
+  </div>
+          </div>
+      <div class="region region-content">
+    <section id="block-block-14" class="block block-block odd">
+  <div class="container">
+
+      
+  <h4><strong>Get exclusive content</strong> delivered right to your inbox.</h4>
+<iframe src="http://www2.webpt.com/l/8532/2013-12-11/dykff" type="text/html" frameborder="0" allowtransparency="true" style="border: 0"></iframe>
+  </div> <!-- end /.container -->
+</section> <!-- end /#block-block-14 -->
+  </div>
+  </section> <!-- /#section -->
+
+    <div id="footer">
+        <div class="container columns">
+        <div class="region region-footer-col1">
+    <section id="menu-contact" class="block block-menu">
+  <div class="container">
+        <h4>Contact</h4>    <ul class="menu"><li class="first leaf"><a href="/demo" title="">Request A Free Demo</a></li>
+<li class="last leaf"><a href="/contact-us" title="">Contact WebPT</a></li>
+</ul>  </div><!-- end /.container -->
+</section>
+<section id="block-block-2" class="block block-block even">
+  <div class="container">
+
+      
+  <div id="footerContact" class="block-menu">
+  <div>
+    <div><span class="type">Phone</span>: <span class="unbreakable" itemprop="telephone">866-221-1870</span></div>
+    <div><span class="type">Fax</span>: <span class="unbreakable" itemprop="faxNumber">866-225-0057</span></div>
   </div>
 
-  </div> <!-- /.block -->
-<div id="block-menu_block-3" class="block block-menu_block region-even odd region-count-2 count-7">
-  
-  <div class="content">
-    <div class="menu-block-3 menu-name-menu-social-links parent-mlid-0 menu-level-1">
-  <ul class="menu"><li class="leaf first menu-mlid-3045"><a href="/resources/blog" title="">Blog</a></li>
-<li class="leaf menu-mlid-3046"><a href="http://www.facebook.com/WebPT" title="">Facebook</a></li>
-<li class="leaf menu-mlid-3047"><a href="http://twitter.com/#!/webpt" title="">Twitter</a></li>
-<li class="leaf menu-mlid-3048"><a href="http://www.linkedin.com/company/web-pt" title="">LinkedIn</a></li>
-<li class="leaf menu-mlid-3049"><a href="http://www.youtube.com/user/WebPTEMR" title="">Youtube</a></li>
-<li class="leaf last menu-mlid-4210"><a href="/about/linkouts" title="">Link To Us</a></li>
-</ul></div>
+ <address>
+    <a itemprop="url" href="http://www.webpt.com/"><span itemprop="name">WebPT</span></a>
+    <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
+      <div itemprop="streetAddress">625 S 5th St</div>
+      <div itemprop="streetAddress">Building A</div>
+      <span itemprop="addressLocality">Phoenix, AZ</span> <span itemprop="postalCode">85004</span>
+    </div>
+  </address>
+</div><!-- end /#footerContact -->
+  </div> <!-- end /.container -->
+</section> <!-- end /#block-block-2 -->
   </div>
-
-  </div> <!-- /.block -->
-<div id="block-menu-menu-footer-links" class="block block-menu region-odd even region-count-3 count-8">
-  
-  <div class="content">
-    <ul class="menu"><li class="leaf first"><a href="/" title="">Home</a></li>
-<li class="leaf"><a href="/faq" title="">FAQ</a></li>
-<li class="leaf"><a href="/resources/blog" title="">Blog</a></li>
-<li class="leaf"><a href="/resources/webinars/upcoming" title="">Webinars</a></li>
+        <div class="region region-footer-col2">
+    <section id="menu-company" class="block block-menu">
+  <div class="container">
+        <h4>Company</h4>    <ul class="menu"><li class="first leaf"><a href="/about" title="">About WebPT</a></li>
 <li class="leaf"><a href="/about/careers" title="">Careers</a></li>
-<li class="leaf"><a href="/contact-us" title="">Contact us</a></li>
-<li class="leaf last"><a href="http://www.webpt.com/referral/" title="WebPT Referral Program">Referral Program</a></li>
-</ul>  </div>
-
-  </div> <!-- /.block -->
-<div id="block-nodeblock-651" class="block nodetype-block block-nodeblock region-even odd region-count-4 count-9">
-  
-  <div class="content">
-    <div id="node-651" class="node clear-block">
-
-
-
-  <div class="meta">
-  
-    </div>
-
-  <div class="content">
-    <table class="closure-info">
-<tbody>
-<tr>
-<td>
-<p><strong>Contact Sales</strong><br> Toll Free: 866-221-<span style="display: none;">_</span>1870 <strong>press 1</strong><br> Fax: 866-225-<span style="display: none;">_</span>0057</p>
-<p><strong>Contact Support</strong><br> Toll Free: 866-221-<span style="display: none;">_</span>1870 <strong>press 2</strong></p>
-</td>
-<td>
-<p><strong>Address</strong><br> WebPT, Inc.<br>625 South 5th Street<br> Building A<br> Phoenix, AZ 85004</p>
-</td>
-<td>
-<p><strong>Privacy and Security</strong><br> <a href="/privacy">Privacy Policy</a><br> <a href="/terms">Terms and Conditions</a><br> <a href="/sitemap">Sitemap</a></p>
-</td>
-</tr>
-</tbody>
-</table>
+<li class="last leaf"><a href="http://www.webpt.com/referral/" title="">Referral Program</a></li>
+</ul>  </div><!-- end /.container -->
+</section>
+<section id="menu-features" class="block block-menu">
+  <div class="container">
+        <h4>Features</h4>    <ul class="menu"><li class="first leaf"><a href="/features/documentation" title="">Documentation</a></li>
+<li class="leaf"><a href="/features/scheduling" title="">Scheduling</a></li>
+<li class="leaf"><a href="/features/practice-management" title="">Practice Management</a></li>
+<li class="leaf"><a href="/features/billing" title="">Billing</a></li>
+<li class="last leaf"><a href="/compliance" title="">Compliance</a></li>
+</ul>  </div><!-- end /.container -->
+</section>
   </div>
-
-  </div>  </div>
-
-  </div> <!-- /.block -->
-<div id="block-nodeblock-46" class="block nodetype-block block-nodeblock region-odd even region-count-5 count-10">
-  
-  <div class="content">
-    <div id="node-46" class="node clear-block">
-
-
-
-  <div class="meta">
-  
-    </div>
-
-  <div class="content">
-    <div><a title="TRUSTe online privacy certification" href="//privacy-policy.truste.com/click-with-confidence/wps/en/www.webpt.com/seal_s" target="_blank"><img style="border: none;" src="//privacy-policy.truste.com/certified-seal/wps/en/www.webpt.com/seal_m.png" alt="TRUSTe online privacy certification"></a>&nbsp;&nbsp;&nbsp;         <a href="http://www.bbb.org/central-northern-western-arizona/business-reviews/medical-record-service/webpt-inc-in-phoenix-az-1000014200/" target="_blank"><img src="/sites/default/files/bbb_0.png" alt="" width="143" height="45"></a>&nbsp;&nbsp;&nbsp;<a href="http://www.physio-pedia.com/index.php5?title=Main_Page" target="_blank"><img src="/sites/default/files/images/seal-physiopedia.png" alt="" width="143" height="45"></a></div>
-<div><span style="font-size: 10px; color: #999999;">© Copyright 2013 WebPT, Inc.</span> <span style="font-size: 10px; color: #999999;">All rights reserved.</span><br> <span style="font-size: 10px; color: #999999;">Web-based physical therapy EMR and documentation software.</span></div>
+        <div class="region region-footer-col3">
+    <section id="menu-guides" class="block block-menu">
+  <div class="container">
+        <h4>Guides</h4>    <ul class="menu"><li class="first leaf"><a href="/hipaa" title="">HIPAA</a></li>
+<li class="leaf"><a href="/medicare" title="">Medicare</a></li>
+<li class="leaf"><a href="/pqrs" title="">PQRS</a></li>
+<li class="leaf"><a href="/g-codes" title="">G-Codes</a></li>
+<li class="leaf"><a href="/therapy-cap" title="">Therapy Cap</a></li>
+<li class="leaf"><a href="/icd-10" title="">ICD-10</a></li>
+<li class="leaf"><a href="/cpt-codes" title="">CPT Codes</a></li>
+<li class="leaf"><a href="/8-minute-rule" title="">8-Minute Rule</a></li>
+<li class="leaf"><a href="/functional-limitation-reporting" title="">Functional Limitation Reporting</a></li>
+<li class="leaf"><a href="/how-to-start-a-physical-therapy-clinic" title="">How to Start a PT Clinic</a></li>
+<li class="last leaf"><a href="/physical-therapy-apps" title="">Physical Therapy Apps</a></li>
+</ul>  </div><!-- end /.container -->
+</section>
   </div>
+        <div class="region region-footer-col4">
+    <section id="menu-resources" class="block block-menu">
+  <div class="container">
+        <h4>Resources</h4>    <ul class="menu"><li class="first leaf"><a href="/blog" title="">Blog</a></li>
+<li class="leaf"><a href="/blog/articles" title="">Articles</a></li>
+<li class="leaf"><a href="/blog/webinars" title="">Webinars</a></li>
+<li class="leaf"><a href="/blog/events" title="">Events</a></li>
+<li class="last leaf"><a href="/blog/downloads" title="">Downloads</a></li>
+</ul>  </div><!-- end /.container -->
+</section>
+<section id="menu-members" class="block block-menu">
+  <div class="container">
+        <h4>Members</h4>    <ul class="menu"><li class="first leaf"><a href="https://auth.webpt.com/" title="">WebPT Login</a></li>
+<li class="last leaf"><a href="/contact-us" title="">Contact Support</a></li>
+</ul>  </div><!-- end /.container -->
+</section>
+  </div>
+    </div>
+          <div class="region region-footer-closure">
+    <section id="block-block-1" class="block block-block odd">
+  <div class="container">
 
-  </div>  </div>
-
-  </div> <!-- /.block -->
-</div> <!-- /.region -->
-</div></div>
-
-  <script type="text/javascript">
-<!--//--><![CDATA[//><!--
-piAId = "9532";
-piCId = "1471";
-
-(function() {
-	function async_load(){
-		var s = document.createElement('script'); s.type = 'text/javascript';
-		s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js';
-		var c = document.getElementsByTagName('script')[0]; c.parentNode.insertBefore(s, c);
-	}
-	if(window.attachEvent) { window.attachEvent('onload', async_load); }
-	else { window.addEventListener('load', async_load, false); }
-})();
-//--><!]]>
-</script>
+      
+  <ul class="disclaimers"><li>©WebPT 2014</li><li><a title="Terms and Conditions" href="http://www.webpt.com/terms">Terms and Conditions</a></li><li><a title="Privacy Policy" href="http://www.webpt.com/privacy">Privacy Policy</a></li></ul><ul class="social"><li><a class="facebook" title="" href="http://www.facebook.com/WebPT" target="_blank">Facebook</a></li><li><a class="twitter" title="" href="http://twitter.com/webpt" target="_blank">Twitter</a></li><li><a class="linkedin" title="" href="http://www.linkedin.com/company/webpt" target="_blank">LinkedIn</a></li></ul>
+  </div> <!-- end /.container -->
+</section> <!-- end /#block-block-1 -->
+  </div>
+  </div> <!-- /.section, /#footer -->
+  <script>
+    // Create wpt object if one doesn't already exist.
+    var wpt = window.wpt || {};
+    wpt.ie7 = navigator.appVersion.indexOf("MSIE 7.") != -1;
+    wpt.mobile = (/Android|iPhone|iPad|iPod|BlackBerry|Windows Phone/i).test(navigator.userAgent || navigator.vendor || window.opera);
+  </script>
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-if (typeof pageTracker != "undefined") {addthis_config.data_ga_tracker = pageTracker;}
+window.jQuery || document.write("<script src='/sites/all/modules/jquery_update/replace/jquery/1.7/jquery.js'>\x3C/script>")
 //--><!]]>
-</script>
+</script><script src="/sites/all/modules/jquery_update/replace/jquery/1.7/jquery.js"></script>
+<script type="text/javascript" src="http://www.webpt.com/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://www.webpt.com/misc/drupal.js?n61rq7"></script>
+<script type="text/javascript" src="http://www.webpt.com/sites/all/modules/admin_menu/admin_devel/admin_devel.js?n61rq7"></script>
+<script type="text/javascript" src="http://www.webpt.com/sites/all/themes/webpt/js/sticky-nav.js?n61rq7"></script>
+<script type="text/javascript" src="http://www.webpt.com/sites/all/themes/webpt/js/fixed-header.js?n61rq7"></script>
+<script type="text/javascript" src="http://www.webpt.com/sites/all/themes/webpt/js/scrollTop.min.js?n61rq7"></script>
+<script type="text/javascript" src="http://www.webpt.com/sites/all/themes/webpt/js/dist/jquery.easing.1.3.js?n61rq7"></script>
+<script type="text/javascript" src="http://www.webpt.com/sites/all/themes/webpt/js/dist/jquery.ba-resize.min.js?n61rq7"></script>
+<script type="text/javascript" src="http://www.webpt.com/sites/all/themes/webpt/js/menuToggle.min.js?n61rq7"></script>
+<script type="text/javascript" src="http://www.webpt.com/sites/all/themes/webpt/js/scrollControl.js?n61rq7"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-if (typeof addthis != "undefined") {addthis.init();}
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"webpt","theme_token":"3m1-33Mi5nm5KxJWTlsOGr2JJqjkRf44xjvmnLfGqbo","js":{"https:\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.7.1\/jquery.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/themes\/webpt\/js\/sticky-nav.js":1,"sites\/all\/themes\/webpt\/js\/fixed-header.js":1,"sites\/all\/themes\/webpt\/js\/scrollTop.min.js":1,"sites\/all\/themes\/webpt\/js\/dist\/jquery.easing.1.3.js":1,"sites\/all\/themes\/webpt\/js\/dist\/jquery.ba-resize.min.js":1,"sites\/all\/themes\/webpt\/js\/menuToggle.min.js":1,"sites\/all\/themes\/webpt\/js\/scrollControl.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/find_content\/find_content.css":1,"sites\/all\/modules\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/themes\/webpt\/css\/style.css":1,"sites\/all\/themes\/webpt\/css\/webpt-font.css":1,"sites\/all\/themes\/webpt\/css\/wysiwyg-style.css":1,"sites\/all\/themes\/webpt\/css\/ie.css":1,"sites\/all\/themes\/webpt\/css\/ie-webpt-font.css":1}}});
 //--><!]]>
 </script>
+  <script src="/sites/all/themes/webpt/js/dist/skrollr.min.js"></script>
+  <!--[if lt IE 9]>
+  <script src="/sites/all/themes/webpt/js/dist/skrollr.ie.min.js"></script>
+  <![endif]-->
+	<script>
+    (function($) {
+      $(document).ready(function(){
+        // skrollr does not use jQuery, but is placed in a jQuery function
+        // to allow all previous jQuery functions to execute prior to enabling
+        // the skrollr functionality.
+        if(!wpt.mobile){
+          skrollr.init({
+            forceHeight: false
+          });
+        };
 
+        $btnTxt = ($('#nav-blog').length > 0) ? 'Categories' : 'Menu';
+        $slit = $('<span>').html('&nbsp;');
+        wpt.toggle = jQuery('<a>').attr({'id':'nav-dropdown-toggle', 'href':'#'})
+        .html('<div class="label">' + $btnTxt + '</div>').append($slit.clone()).append($slit.clone()).append($slit.clone())
+        .menuToggle({
+          target: '#nav-dropdown'
+        }).insertAfter('#nav-dropdown');
 
+        $(window).on('resize.skrollr', function() {
+          if(skrollr.get()) {
+            skrollr.get().refresh();
+          };
+        });
+      });
+    })(jQuery);
+	</script>
+  <script src="/sites/all/themes/webpt/js/retina.min.js"></script>
+  <script src="/sites/all/themes/webpt/js/mobile.js"></script>
 
-</body></html>
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-1.newrelic.com","licenseKey":"950b0488ce","applicationID":"209868","transactionName":"YFAGYRQEVkFUAEJdDlkaJVYSDFdcGg1ZUARoRQVSAzpOW1AU","queueTime":0,"applicationTime":203,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"jserror.newrelic.com","agent":"js-agent.newrelic.com\/nr-372.min.js"}</script>
+<script src="https://js-agent.newrelic.com/nr-372.min.js"></script></body></html>
