@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegrocerygame.com privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123130930id_/http%3A//www.thegrocerygame.com/security-information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegrocerygame.com privacy policy that was archived on 2014-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140524200601id_/http%3A//www.thegrocerygame.com/security-information/privacy) for the most accurate reproduction.*
 
 # Security Information - Privacy Statement - The Grocery Game
 
@@ -60,13 +60,13 @@ The Grocery Game  may update this Privacy Policy from time to time, and so you 
 
 ##  Questions and Concerns
 
-If you have questions or concerns about this Privacy Policy, please email us at [marketing@thegrocerygame.com](mailto:marketing@thegrocerygame.com) or send us a letter at The Grocery Game, Inc., Attention: 124 Lasky Dr., 2nd Floor, Beverly Hills, CA  90212
+If you have questions or concerns about this Privacy Policy, please email us at [marketing@thegrocerygame.com](mailto:marketing@thegrocerygame.com) or send us a letter at The Grocery Game, Inc., Attention: 9720 Wilshire Blvd, 6th Floor, Beverly Hills, CA  90212
 
 ##  California Privacy Notice
 
 California's Shine the Light law provides California residents with the right to receive disclosures about any sharing of their personal information with other companies.
 
-If you are a California resident and you provided your personal information to The Grocery Game, then, once each calendar year, you may submit a written request for information about the information we shared, if any, with other companies for their use in direct marketing. To submit your written request, please email us at [marketing@thegrocerygame.com](mailto:marketing@thegrocerygame.com) or send us a letter at The Grocery Game, Attention: Privacy, 124 Lasky Dr., 2nd Floor, Beverly Hills, CA 90212 with "Request for California Privacy" in the letter subject line.
+If you are a California resident and you provided your personal information to The Grocery Game, then, once each calendar year, you may submit a written request for information about the information we shared, if any, with other companies for their use in direct marketing. To submit your written request, please email us at [marketing@thegrocerygame.com](mailto:marketing@thegrocerygame.com) or send us a letter at The Grocery Game, Attention: Privacy, 9720 Wilshire Blvd, 6th Floor, Beverly Hills, CA 90212 with "Request for California Privacy" in the letter subject line.
 
 Within 30 days of receiving your request, we will send you a list of the categories of personal information disclosed to third parties for third-party direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of these third parties.
 
@@ -81,32 +81,34 @@ The Privacy Notice posted on this site was updated on or about June 18, 2013
 Enter your zip to find out which stores are available.  
 ZIP CODE[NEXT ](https://web.archive.org/sign-up/try-teris-list-free-for-4-weeks/index.cfm)
 
-  * 17,740
+  * 14,955
 
 ###### Deals Valid Today in the US
 
-  * 10,644
+  * 8,973
 
 ###### Unadvertised Sales this week
 
-  * 145,218
+  * 86,884
 
 ###### Deals Members Shopped For This Week
 
-  * $443,264
+  * $288,136
 
 ###### Amount Members Saved this week
 
-  * 109
+  * 105
 
 ###### Local lists in the US
 
-  * $1,526,559
+  * $996,442
 
 ###### Amount Members Saved this month
 
 
 
+
+[](https://web.archive.org/app/teris-coupon-center/coupons-inc/)
 
 ## FOLLOW US
 
@@ -122,4 +124,4 @@ RULES [INVITE](https://web.archive.org/share/refer-friends/?friendEmail=)
 
 [ ](https://web.archive.org/app/teris-coupon-tracker/) [ ](https://web.archive.org/app/teris-coupon-center/) [ ](http://teritoday.thegrocerygame.com/)
 
-© 2013 The Grocery Game, Inc. All rights reserved.
+© 2014 The Grocery Game, Inc. All rights reserved.
