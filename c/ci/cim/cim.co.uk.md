@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cim.co.uk privacy policy that was archived on 2013-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130827144154id_/http%3A//www.cim.co.uk/LegalGeneral/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cim.co.uk privacy policy that was archived on 2014-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140524084135id_/http%3A//www.cim.co.uk/LegalGeneral/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy statement
 
@@ -93,7 +93,7 @@ Any personal information provided by you to CIM Training or CIM Academy is used 
 
 CIM Training and CIM Academy will not make this information available to organisations outside of The Chartered Institute of Marketing, unless you opt-in to this service.
 
-By proceeding to register with CIM Training or CIM Academy you are consenting to the processing of your personal data as required and stated above. To opt-out of receiving information about The Chartered Institute of Marketing's products and services please contact our [training team](https://web.archive.org/web/20130827144154id_/http%3A//www.cim.co.uk/ContactUs.aspx?formid=course "Contact training link") stating "Mail list1" in your enquiry.
+By proceeding to register with CIM Training or CIM Academy you are consenting to the processing of your personal data as required and stated above. To opt-out of receiving information about The Chartered Institute of Marketing's products and services please contact our [training team](https://web.archive.org/web/20140524084135id_/http%3A//www.cim.co.uk/ContactUs.aspx?formid=course "Contact training link") stating "Mail list1" in your enquiry.
 
 Back to top
 
@@ -101,7 +101,7 @@ Back to top
 
 CIM will use details submitted by you to enable us to contact you regarding CIM products or services that may be of interest to you. You will have the opportunity to opt out of these communications at any time if you wish. Your details will not be disclosed to third parties unless you specifically opt-in to these communications.
 
-You may choose not to receive The Chartered Institute of Marketing's communications by contacting our [ membership services](https://web.archive.org/web/20130827144154id_/http%3A//www.cim.co.uk/ContactUs.aspx "Membership training link") team.
+You may choose not to receive The Chartered Institute of Marketing's communications by contacting our [ membership services](https://web.archive.org/web/20140524084135id_/http%3A//www.cim.co.uk/ContactUs.aspx "Membership training link") team.
 
 Back to top
 
@@ -127,7 +127,7 @@ Back to top
 
 The Chartered Institute of Marketing has a formal process to manage requests for access to the data we hold about you. However, in the first instance we encourage you to contact a member of staff to discuss and resolve any concerns you may have relating to the use/acquisition of your data.
 
-In some circumstances we may be unable to provide you with your personal data, for example, if it compromises the confidentiality of a third party e.g. we are unable to provide candidates with copies of their marked examination scripts. However, The Chartered Institute of Marketing offers a comprehensive examination feedback service (for details please contact our [membership services](https://web.archive.org/web/20130827144154id_/http%3A//www.cim.co.uk/ContactUs.aspx "Membership training link") team).
+In some circumstances we may be unable to provide you with your personal data, for example, if it compromises the confidentiality of a third party e.g. we are unable to provide candidates with copies of their marked examination scripts. However, The Chartered Institute of Marketing offers a comprehensive examination feedback service (for details please contact our [membership services](https://web.archive.org/web/20140524084135id_/http%3A//www.cim.co.uk/ContactUs.aspx "Membership training link") team).
 
 Back to top
 
@@ -141,7 +141,7 @@ Back to top
 
 To ensure we provide our members with a local, personalised service, membership data may be passed from The Chartered Institute of Marketing to regional branches/interest groups and vice versa. If you advise us of a new mailing address, The Chartered Institute of Marketing Moor Hall will share your membership data with the relevant branch.
 
-This information will be used by The Chartered Institute of Marketing to provide additional membership benefits either via mail, phone, e-mail or fax. Any concerns regarding your data and The Chartered Institute of Marketing branches should be addressed to our [membership services](https://web.archive.org/web/20130827144154id_/http%3A//www.cim.co.uk/ContactUs.aspx "Membership training link") team.
+This information will be used by The Chartered Institute of Marketing to provide additional membership benefits either via mail, phone, e-mail or fax. Any concerns regarding your data and The Chartered Institute of Marketing branches should be addressed to our [membership services](https://web.archive.org/web/20140524084135id_/http%3A//www.cim.co.uk/ContactUs.aspx "Membership training link") team.
 
 Back to top
 
