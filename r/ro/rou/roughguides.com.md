@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roughguides.com privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123063552id_/http%3A//www.roughguides.com/privacy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roughguides.com privacy policy that was archived on 2014-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140524073253id_/http%3A//www.roughguides.com/privacy-cookies) for the most accurate reproduction.*
 
 # Privacy & Cookies | Rough Guides
 
@@ -78,7 +78,7 @@ Some features used on this website may involve a cookie being sent to your compu
 
 To make full use of this site, your device must be set to accept cookies otherwise some of its (for example online shopping) may not work.
 
-If you nevertheless want to restrict, block or disable cookies, you can do so by changing your browser settings. If you would like more specific information about how to change your browser settings, please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/) which has detailed information for each browser as well as more information about cookies in general.
+If you nevertheless want to restrict, block or disable cookies, you can do so by changing your browser settings. If you would like more specific information about how to change your browser settings, please visit [http://www.allaboutcookies.org](http://www.allaboutcookies.org/) which has detailed information for each browser as well as more information about cookies in general.
 
 ## How to contact us
 
