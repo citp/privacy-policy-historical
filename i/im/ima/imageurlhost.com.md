@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imageurlhost.com privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118053619id_/http%3A//www.imageurlhost.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imageurlhost.com privacy policy that was archived on 2014-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140525001115id_/http%3A//www.imageurlhost.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Free Image URL Hosting » More Information » donate
 
