@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ucpress.edu privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123085513id_/http%3A//www.ucpress.edu/about.php%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucpress.edu privacy policy that was archived on 2014-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140524190547id_/http%3A//www.ucpress.edu/about.php%3Fp%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy - University of California Press
 
@@ -36,6 +36,6 @@ Email addresses to which we send Tell-a-Friend messages are NOT saved for our fu
 
 **Revisions to this Privacy Policy:**  This Privacy Policy has been created and approved by UC Press. UC Press reserves the right to revise this Privacy Policy at any time, so please review this Privacy Policy frequently.  Each version of this Privacy Policy will have a date, as noted below.
 
-**Feedback:**  If you have any questions or comments about UC Press’s Privacy Policy, please contact us via our [contact form](https://web.archive.org/web/20131123085513id_/http%3A/about.php?p=contact "contact form").
+**Feedback:**  If you have any questions or comments about UC Press’s Privacy Policy, please contact us via our [contact form](https://web.archive.org/web/20140524190547id_/http%3A/about.php?p=contact "contact form").
 
 University of California Press Privacy Policy (September 2012)
