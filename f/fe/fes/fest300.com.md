@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fest300.com privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120064119id_/http%3A//www.fest300.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fest300.com privacy policy that was archived on 2014-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140524113350id_/http%3A//www.fest300.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Fest300 - World's Best Festivals
+# Fest300 - Privacy - FEST 300
 
 You do not have to register to enjoy Fest300, but if you choose to [subscribe](https://web.archive.org/forms/newsletter), please know we will never provide personal information of any kind (name, email address, or other contact information) to any third party...ever. We do collect demographic information to help us create a better experience for you, and we do run surveys occasionally for this express purpose.
 
