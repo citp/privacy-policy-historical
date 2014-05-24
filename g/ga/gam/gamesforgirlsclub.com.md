@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gamesforgirlsclub.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117221245id_/http%3A//www.gamesforgirlsclub.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesforgirlsclub.com privacy policy that was archived on 2014-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140525005416id_/http%3A//www.girlgamz.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-The Privacy Policy of Games for Girls Club web site.
+The Privacy Policy of **Girl Gamz** web site.
 
- **Games for Girls Club** is firmly committed to the privacy of our users' personal information. Our staff, contractors and others who help us operate our web sites follow this policy on privacy and fair information practices for online activities of gamesforgirlsclub.com. We outline here the information-collection procedure and usage practices for our website, [www.gamesforgirlsclub.com](http://www.gamesforgirlsclub.com/). By using this website, you agree to accept this Privacy Policy and are aware that our policy may change over time as discussed below.
+**Girl Gamz** is firmly committed to the privacy of our users' personal information. Our staff, contractors and others who help us operate our web sites follow this policy on privacy and fair information practices for online activities of girlgamz.com. We outline here the information-collection procedure and usage practices for our website, [www.girlgamz.com](http://www.girlgamz.com/). By using this website, you agree to accept this Privacy Policy and are aware that our policy may change over time as discussed below.
 
  **Your Information**
 
@@ -20,8 +20,8 @@ In the course of serving advertisements to this site, our third-party advertiser
 
  **Links**
 
-Games for Girls Club also links to a wide variety of other web sites. We are not responsible for their privacy policies or how they treat information about their users.
+ **Girl Gamz** also links to a wide variety of other web sites. We are not responsible for their privacy policies or how they treat information about their users.
 
  **Questions or Suggestions**
 
-If you have any questions concerning the privacy policies of Games for Girls Club, please visit our Contact page.
+If you have any questions concerning the privacy policies of **Girl Gamz** , please visit our Contact page.
