@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the addictinggames.com privacy policy that was archived on 2013-09-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130920074615id_/http%3A//www.addictinggames.com/legal/privacy-policy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the addictinggames.com privacy policy that was archived on 2014-05-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140524162511id_/http%3A//www.addictinggames.com/legal/privacy-policy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/" xml:lang="en-US" lang="en-US"><head prefix="og: http://ogp.me/ns# addictinggames:
-	http://ogp.me/ns/apps/addictinggames#">
+	http://ogp.me/ns/apps/addictinggames#"><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0017/3506.js?438994" async="" type="text/javascript"></script><script src="//btg.mtvnservices.com/aria/projectX/projectX.html"></script>
 		<link rel="shortcut icon" href="/a/img/favicon.ico">
 		<title>Privacy Policy at Addictinggames.com</title>
 		
@@ -12,6 +12,113 @@
 
 <meta property="fb:admins" content="611128152,29900452,506148408,546255427,671820682">
 
+
+
+
+
+
+        
+	
+			
+			
+			
+			
+			
+					
+
+   
+      
+      
+      
+      
+      
+            
+   
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+   
+         
+      
+      
+            
+            
+                  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+               
+            
+            
+                  
+                  
+                  
+                  
+                  
+                        	
+		
+	
+                     
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+               
+         
+   
+				
+		
+    
 
 
 <link rel="stylesheet" type="text/css" href="/a/css/common/fonts.css">
@@ -24,7 +131,7 @@
 	
 
 
-<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0017/3506.js?438994" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
 
 	
 	var ag;if (!ag) {ag = {};} else if (typeof ag != 'object') {throw new Error('ag namespace not available and is not an object');}if (!ag.gameServices) {ag.gameServices = {};} else if (typeof ag.gameServices != 'object') {throw new Error('ag.gameServices namespace not available and is not an object');}
@@ -55,6 +162,16 @@
 	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 	})();
 </script>
+
+<script language="JavaScript">
+    //Global Js Head
+</script>
+
+
+	</head>
+	<body>
+	<div id="headerWrapper">
+        
 
 
 
@@ -162,8 +279,8 @@ KIDS.ads.config = {
 
 "keyValues":"site=addictingames;!category=pop;type=viewable;",
 "dartPercent":"0.0",
-"refreshable":"false",
-"refreshRate":"0.0",
+"refreshable":"true",
+"refreshRate":"5.0",
 "yahooAds":"false"
 }
 
@@ -171,10 +288,67 @@ KIDS.ads.config = {
 
 };
 
+var nickInc = {
+// Nick site entry:
+nick : function(live) {
+this.doProjX(live);
+},
+nickjr : function(live) {
+this.doProjX(live);
+},
+addictinggames : function(live) {
+this.doProjX(live);
+},
+spongebob : function(live) {
+this.doProjX(live);
+},
+nickmom : function(live) {
+this.doProjX(live);
+},
+/* // Other site, uncomment as needed
+nicktoons : function(live) {},
+nickatnite : function(live) {},
+teennick : function(live) {},
+*/
+/* include optimizely
+doOptimizely : function(live) {
+this.insertScript("//cdn.optimizely.com/js/"+( live ? '97743889' : '90362606' )+".js");
+}, */
+doProjX : function(live) {
+this.insertScript("//btg.mtvnservices.com/aria/projectX/projectX.html");
+},
+insertScript : function(scriptSrc) {
+var opt_script = document.createElement('script');
+opt_script.src = scriptSrc;
+opt_script.language = "javascript";
+
+var headTag = document.getElementsByTagName('head')[0];
+headTag.insertBefore(opt_script, headTag.firstChild);	
+}
+};
+
+var nickHost = (function(sites) {
+var host = null;
+var live = location.hostname.search(/[d|q]\.mtvi\.com/i) == -1;
+var hosts = location.hostname.match(
+/www\.(nickmom)|relaunch\.(nickmom)|(nicktoons)\.nick|www\.(teennick)|www\.(nickatnite)|(spongebob)\.nick|www\.(nickjr)|relaunch\.(nickjr)|www\.(nick)|www\.(addictinggames)|dev\.(addictinggames)/i
+);
+hosts = hosts == null ? [] : hosts;
+hosts.shift();
+
+for(var i = 0; i < hosts.length; i++) {
+if(host != null || hosts[i] == null || hosts[i] == "") continue;
+host = hosts[i];
+}
+
+if(host == null) host = "nick";
+if(sites != null && sites[host] != null) sites[host](live);
+return { host:host, live:live};
+})(nickInc);
 
 		</script>
 	
-		<script type="text/javascript" src="http://cdn3.addictinggames.com/a/min/js/globalJsHead.min.js"></script>
+		<script type="text/javascript" src="http://cdn2.addictinggames.com/a/min/js/globalJsBody.min.js"></script>
 	
 
 <!-- BEGIN Hi-Media Media Settings - v1.0 -->
@@ -185,15 +359,19 @@ var adlKv='';
 var adlHasDcopt = false;
 var adlPro=window.location.protocol=='https:'?'https:':'http:';
 document.write('<'+'sc'+'ript type="text/javascript" src="'+adlPro+'//js.himediads.com/js?lang=fr&s='+adlSite+'&z='+adlZone+'&d='+Math.floor(Math.random()*10000000000)+'"><\/'+'sc'+'ript>');
-</script><script type="text/javascript" src="https://js.himediads.com/js?lang=fr&amp;s=autres-sites-mtv.com&amp;z=ros&amp;d=8446089093"></script>
+</script><script type="text/javascript" src="https://js.himediads.com/js?lang=fr&amp;s=autres-sites-mtv.com&amp;z=ros&amp;d=9074427513"></script>
 <!-- END Hi-Media Media Settings - v1.0 -->
 
 
 
-	</head>
-	<body>
-	<div id="headerWrapper">
-		
+<!-- WWDOP START-->
+<script type="text/javascript" src="http://www.nick.com/static/js/wwdop-overlay-loader.js"></script>
+<!-- WWDOP END -->
+
+
+
+
+
 
 <script type="text/javascript">
 	
@@ -246,16 +424,8 @@ document.write('<'+'sc'+'ript type="text/javascript" src="'+adlPro+'//js.himedia
 	  <ul id="mamabarMoreList">
 		<li><a href="http://www.nickjr.com/" target="_top">nick jr.</a></li>
 		<li><a href="http://www.nickatnite.com/" target="_top">nick at nite</a></li>
-		<li><a href="http://www.neopets.com/" target="_top">neopets</a></li>
-		<li><a href="http://www.petpetpark.com/" target="_top">petpet park</a></li>
-		<li><a href="http://www.upickdaily.com/" target="_top">upick daily</a></li>
-		<li><a href="http://www.parentsconnect.com/" target="_top">parents connect</a></li>
 		<li><a href="http://www.spongebob.com/" target="_top">spongebob</a></li>
 		<li><a href="http://www.icarly.com/" target="_top">icarly.com</a></li>
-		<li><a href="http://www.troopgrid.com/" target="_top">troopgrid</a></li>
-		<li><a href="http://www.nickarcade.com/" target="_top">nick arcade</a></li>
-		<li><a href="http://www.nickjrarcade.com/" target="_top">nick jr. arcade</a></li>
-		<li><a href="http://www.nickjrboost.com/" target="_top">nick jr. boost</a></li>
 	  </ul>
 	</div>
 </li>
@@ -532,29 +702,29 @@ document.write('<'+'sc'+'ript type="text/javascript" src="'+adlPro+'//js.himedia
   <!-- hCalendar, Microdata, RDFa -->
   <span class="vevent">
     <span class="summary" style="display:none">Nickelodeon Universal Privacy Policy - Last Updated Date</span>
-    <span id="lastModified" class="dtstart">06/28/2013</span>
+    <span id="lastModified" class="dtstart">5/22/2014</span>
   </span>
   </p>
   <p class="justify">Welcome! This Privacy
-  Policy governs the websites and online services within the Nickelodeon Group, which includes the websites and online services
+  Policy governs the websites, online services, and software made available  by the Nickelodeon Group for use on mobile devices, tablets, personal computers  and other devices, which includes the websites and online services
   listed <a href="http://www.nick.com/nick-assets/copy/nickelodeon-sites.html" target="_blank">here</a>, including those operated by
-  NeoPets, Inc. and Atom Entertainment, Inc. (collectively, the “Nickelodeon
-  Sites” and, individually, “Site”). By accessing any of the
+  Atom Entertainment, Inc. (collectively, the “Nickelodeon
+  Sites” and, individually, “Site”). The Nickelodeon Group is a  business unit of Viacom Media Networks, a division of Viacom International,  Inc. By accessing any of the
   Nickelodeon Sites, you are consenting to this Privacy Policy. This Privacy Policy
   describes what information the Nickelodeon Sites collect from users, including
   children, when they visit the Nickelodeon Sites; how such information is used and
   stored; when such information may be disclosed to third parties; how users, parents,
   and guardians can control the use and disclosure of collected information; and how
-  information is protected.</p>
+information is protected.</p>
   <p class="justify">Our visitors’
   privacy is important to us, and we recognize the need to provide additional privacy
   protection for children on the Nickelodeon Sites permitting such visitors.&nbsp; Our
   privacy practices are guided by the United States' Children's Online Privacy Protection
   Act of 1998, as well as data privacy laws in the United States and other applicable
   countries.&nbsp; Younger visitors should always check with their parents or guardians
-  before entering information on any website and we encourage families to discuss their
-  household guidelines regarding the online sharing of personal information.</p>
-  <p class="justify"><strong>SUMMARY.</strong></p>
+  before entering information on any website or mobile application and we encourage families to discuss their household guidelines regarding the online sharing of personal  information.
+</p>
+<p class="justify"><strong>SUMMARY.</strong></p>
   <p class="justify">For your convenience, the following is a quick summary of our Privacy Policy. <em>Please read the entire Privacy Policy for more detailed information</em>.</p>
   <table id="privacy-table">
     <colgroup><col class="left-column">
@@ -674,6 +844,22 @@ document.write('<'+'sc'+'ript type="text/javascript" src="'+adlPro+'//js.himedia
         information, please go <a href="#I_C">here</a> and <a href="#V">here</a></p>
       </td>
     </tr>
+    <tr class="row">
+      <td class="left-column">
+        <p class="justify">WHO WE ARE</p>
+      </td>
+      <td class="right-column">
+        <p class="justify">The  Nickelodeon Sites are made available by the Nickelodeon Group. If you have any  questions about our information handling practices, including our practices  with respect to childrenâs personal information, please contact us at:</p>
+        <p class="justify">Nick.com  CA Privacy Coordinator, c/o Nickelodeon Online, 1515 Broadway, New York, New  York 10036. Or email us at: <a href="mailto:nickprivacy@nickonline.com">nickprivacy@nickonline.com</a>. Or call this number: +1  212-846-2543.</p>
+        <p>Other  corporate affiliates may collect or maintain information through the Nickelodeon  Sites, including: </p>
+        <ul>
+          <li>
+            <p class="justify">Atom Entertainment, Inc. San Francisco, California</p>
+          </li>
+        </ul>
+        <p class="justify">For more detailed information regarding who we are, please go <a href="#IX">here</a></p>
+      </td>
+    </tr>
   </tbody></table>
 	<br>
   <p class="justify"><strong>QUICK LINKS.</strong></p>
@@ -723,7 +909,7 @@ document.write('<'+'sc'+'ript type="text/javascript" src="'+adlPro+'//js.himedia
   (i) other profile information such as avatar preferences, communications preferences,
   and interests. If the Site either is directed to children under 13 or has actual
   knowledge that a user is under 13 years old, the child may be asked to provide his or her
-  parent's or guardian's email address. For certain countries, visitors or their parents
+  parent's or guardian's email address. For certain countries, visitors or their parents/guardians
   will receive an activation email and must follow the procedures or otherwise agree to
   the terms within the activation email within a certain time period to activate the
   account; accounts not activated within that time period will be deleted.&nbsp;</p>
@@ -733,8 +919,8 @@ document.write('<'+'sc'+'ript type="text/javascript" src="'+adlPro+'//js.himedia
   appropriate material; customize the content you see when you visit the Nickelodeon
   Sites; and offer visitors special offers and promotions from Nickelodeon Sites and the
   “Viacom family of companies” (which comprises Viacom International Inc. and
-  its subsidiaries and affiliates, including but not limited to NeoPets, Inc. and Atom Entertainment, Inc.), as well as on behalf of selected third parties
-  offering products, programs or services, that we believe may be of interest to you.</p>
+  its subsidiaries and affiliates, including but not limited to Atom Entertainment, Inc.), as well as on behalf of selected third parties
+offering products, programs or services, that we believe may be of interest to you.</p>
 
   <p class="justify" style="text-indent:4em"><a class="no-hover" id="I_B"><strong>B. Social Platform
   Registrations and Social Media Plugins</strong></a>: Some of the Nickelodeon Sites permit or
@@ -761,7 +947,7 @@ document.write('<'+'sc'+'ript type="text/javascript" src="'+adlPro+'//js.himedia
   Information Collected by Us</strong></a>:&nbsp; When visitors come to a Site, we may automatically
   collect certain information from their computers or mobile devices, such as the type of
   computer operating system (e.g., Windows XP or Mac OS), the visitor's IP address, the
-  web browser (e.g., Internet Explorer, Safari, Chrome and Firefox), UDID (for mobile
+  web browser (e.g., Internet Explorer, Safari, Chrome and Firefox), UDID (for certain mobile
   devices), information about the websites visited before and after visiting the Site,
   the web pages and advertisements viewed and links clicked on within the Nickelodeon
   Sites, interactions with e-mail messages sent by a Site or the Viacom family of
@@ -806,14 +992,14 @@ document.write('<'+'sc'+'ript type="text/javascript" src="'+adlPro+'//js.himedia
   episodes in the future without having to re-authenticate his cable service subscription.</p>
   <p class="justify">By visiting a Site,
   whether as a registered user or otherwise, you acknowledge, understand and hereby agree
-  that you are giving us your consent to track your activities and your use of a Site
+  that you are giving us your consent to set and access Cookies on  your device and track your activities and your use of a Site
   through these Tracking Technologies and Identifiers and that we may use Tracking
   Technologies in the emails we send to you.</p>
   <p class="justify">The Nickelodeon Sites
   adhere to the Self-Regulatory Principles for Online Behavioral Advertising. <a href="http://srp.mtvn.com/sitefaq.html" target="_blank">Click here</a> for more information about the
   Nickelodeon Sites and online behavioral advertising. Nickelodeon does not behaviorally target 
   advertising to children under 13 on sites that are directed to children or where Nickelodeon 
-  has actual knowledge that a user is under 13.</p>
+has actual knowledge that a user is under 13.</p>
   <p class="justify">Our Third Party
   Advertising Service Providers (as defined in Section D) do not have access to Tracking
   Technologies set by the Nickelodeon Sites except to the extent necessary to provide
@@ -907,7 +1093,7 @@ document.write('<'+'sc'+'ript type="text/javascript" src="'+adlPro+'//js.himedia
   from accessing such content.</p>
 
   <p class="justify" style="text-indent:4em"><a class="no-hover" id="I_D"><strong> D. Computer
-  Information Collected By Others</strong></a>: The Nickelodeon Group uses the services of third parties who may collect, use or disclose cookie information, IP addresses or other identifiers from devices and/or browsers of users who visit Nickelodeon Sites that are directed to children. For a list of these third parties on Nickelodeon Sites that are directed to children or where Nickelodeon has actual knowledge that a user is under 13, please go <a href="http://www.nick.com/nick-assets/copy/third-parties.html" target="_blank">here</a>. Nickelodeon Sites use a variety of third-party
+  Information Collected By Others</strong></a>: The Nickelodeon Group uses the services of third parties who may collect, use or disclose cookie information, IP addresses or other identifiers from devices and/or browsers of users who visit Nickelodeon Sites. For a list of these third parties on Nickelodeon Sites that are directed to children or where Nickelodeon has actual knowledge that a user is under 13, please go <a href="http://www.nick.com/nick-assets/copy/third-parties.html" target="_blank">here</a>. Nickelodeon Sites use a variety of third-party
   advertising networks, data exchanges, traffic measurement service providers, marketing
   analytics service providers, and other third-party service providers (collectively,
   “Third Party Advertising Service Providers”) to, for example, serve
@@ -1055,6 +1241,11 @@ document.write('<'+'sc'+'ript type="text/javascript" src="'+adlPro+'//js.himedia
       please visit <a href="http://kb2.adobe.com/cps/526/52697ee8.html" target="_blank">here</a></p>
     </li>
   </ul>
+  
+<p>Do-Not-Track Signals and Similar Mechanisms.  Some web browsers may transmit "do-not-track" signals to the websites with which the browser communicates.  Because of differences in how web browsers incorporate and activate this feature, it is not always clear whether users intend for these signals to be transmitted, or whether they even are aware of them.  There currently is disagreement, including among participants in the leading Internet standards-setting organization, concerning what, if anything, websites should do when they receive such signals.</p>  
+
+<p>We currently do not take action in response to these signals, but, if and when a final standard is established and accepted, we may reassess how to respond to these signals.  Instead, as set forth above, please see the link to the Self-Regulatory Principles for Online Behavioral Advertising program that we follow that offers you choice regarding Information collected for online behavioral advertising purposes and the browser cookie controls and other mechanisms described above in Section I(C).
+</p>
   <p class="justify" style="text-indent:4em"><a class="no-hover" id="I_E"><strong>E.&nbsp;Contests and
   Sweepstakes</strong></a>:&nbsp; The Nickelodeon Sites may offer online contests and sweepstakes.
   To enter these contests and sweepstakes, you may be required to provide your first name
@@ -1073,14 +1264,14 @@ document.write('<'+'sc'+'ript type="text/javascript" src="'+adlPro+'//js.himedia
   opportunity to send electronic postcards and “wish lists” of items they
   want to family or friends, which means we will send, on the visitor’s behalf,
   email messages to family and/or friends. To do so, visitors must provide the email
-  address of the recipient of such electronic postcards or email messages. Email
+  address of the recipient of such electronic postcards or email messages. Visitors must only provide  email addresses of people who they know would be happy to receive such  electronic postcards or email messages. Email
   addresses provided to us for this purpose are used solely to send the requested
   postcard or email message and are deleted from our system once the postcard or message
   is sent.&nbsp; In some cases, we may offer visitors an incentive (<em>e.g.</em>, points
   to be used in an online game) for referring information about products to the visitor's
   family or friends.&nbsp;&nbsp;In such cases, we will comply with all applicable legal
   requirements. Please note that this feature may not be available to visitors in certain
-  regions.</p>
+  regions or countries.</p>
 
   <p class="justify" style="text-indent:4em">
   <a class="no-hover" id="I_G"><strong>G.&nbsp;Electronic Newsletters</strong></a>: Visitors can provide their email addresses to
@@ -1088,7 +1279,7 @@ document.write('<'+'sc'+'ript type="text/javascript" src="'+adlPro+'//js.himedia
   of companies, and our business partners.&nbsp; Visitors may change their preferences
   regarding emails at any time through the unsubscribe link in the newsletters or, for
   certain Nickelodeon Sites, by logging into and changing the preferences for their
-  account.&nbsp;</p>
+account.&nbsp;</p>
   <p class="justify">When visitors to
   Nickelodeon Sites that either are directed to children under 13 or have actual
   knowledge that a user is a child under 13 years old ask to receive our email
@@ -1113,7 +1304,7 @@ document.write('<'+'sc'+'ript type="text/javascript" src="'+adlPro+'//js.himedia
   messaging services, and member profile pages. For certain countries, on Nickelodeon
   Sites that either are directed to children under 13 or have actual knowledge that a
   user is a child under 13 years old, we either will obtain the consent of the
-  child’s parent before allowing the child to use these interactive features and
+  child’s parent/guardian before allowing the child to use these interactive features and
   services or will use reasonable technical measures to delete all or virtually all
   personal information from a child’s postings before they are made public and also
   delete such information from our records. We use the information collected through
@@ -1156,11 +1347,13 @@ document.write('<'+'sc'+'ript type="text/javascript" src="'+adlPro+'//js.himedia
   customize the content visitors see when visiting the Nickelodeon Sites; and to offer
   visitors special offers and promotions from Nickelodeon Sites and the Viacom family of
   companies, as well as on behalf of selected third parties offering products, programs
-  or services that we believe may be of interest to our visitors.</p>
-
-  <p class="justify" style="text-indent:4em"><a class="no-hover" id="I_K"><strong>K. Financial Information:</strong></a> We collect and use
+  or services that we believe may be of interest to our visitors. By accepting this Privacy Policy and using the applicable Site, you  hereby consent to the collection and storage of such geolocation information as  described above.    </p>
+  <div>
+    <div> </div>
+  </div>
+<p class="justify" style="text-indent:4em"><a class="no-hover" id="I_K"><strong>K. Financial Information:</strong></a> We collect and use
   financial information, such as credit card numbers and security codes, for the limited
-  purposes described below.</p>
+purposes described below.</p>
 
   <p class="justify" style="text-indent: 7em;">
   i.&nbsp; <u>Arcades</u>:&nbsp; Users who are of legal age to form a binding contract
@@ -1228,7 +1421,7 @@ document.write('<'+'sc'+'ript type="text/javascript" src="'+adlPro+'//js.himedia
   <p class="justify" style="text-indent:4em">
   <a class="no-hover" id="II_A"><strong> A.&nbsp; Law Enforcement and Safety.</strong></a></p>
   <p class="justify">You acknowledge,
-  consent, and agree to the extent legally permissible in this jurisdiction to allow us
+  consent, and agree to the extent legally permissible in your jurisdiction to allow us
   to access, preserve, and/or disclose the information we collect and/or content you
   provide to us (including information you may have posted on bulletin boards or internal
   site communication systems) to a law enforcement agency or other third parties if
@@ -1256,7 +1449,7 @@ document.write('<'+'sc'+'ript type="text/javascript" src="'+adlPro+'//js.himedia
   technology services.&nbsp; We may provide these third parties information collected as
   needed to perform their functions, but they are prohibited from using it for other
   purposes and specifically agree to maintain the confidentiality of such
-  information.&nbsp; Some of these agents, such a payment processors, may request
+  information.&nbsp; Some of these agents, such as payment processors, may request
   additional information during the course of offering their services.&nbsp; Before you
   provide additional information to third party agents, we encourage visitors to review
   their privacy policies and information collection practices.</p>
@@ -1265,23 +1458,22 @@ document.write('<'+'sc'+'ript type="text/javascript" src="'+adlPro+'//js.himedia
 
   <p class="justify">The Nickelodeon Group uses the services of third parties who may 
     collect, use or disclose cookie information, IP addresses or other identifiers from 
-    devices and/or browsers of users who visit Nickelodeon Sites that are directed to 
-    children. For a list of these third parties on Nickelodeon Sites 
+    devices and/or browsers of users who visit Nickelodeon Sites. For a list of these third parties on Nickelodeon Sites 
     that are directed to children or where Nickelodeon has actual knowledge that a user is 
     under 13, please go <a href="http://www.nick.com/nick-assets/copy/third-parties.html" target="_blank">here</a>. 
     Some Nickelodeon Sites
   partner with outside third parties to provide you with additional content, products, or
   services that we believe may be of interest. For example, we may partner with a
-  greeting card company, software manufacturer, social media plugin provider, or mobile
-  phone provider to offer you electronic cards, games, social networking, or text
-  messaging services. These partners operate websites and services that are separate and
+  greeting card company, software manufacturer, social media plugin provider, mobile
+  phone provider or cable television service provider to offer you electronic cards, games, social networking, text
+  messaging services or customized video content. These partners operate websites and services that are separate and
   independent from the Nickelodeon Sites and, accordingly, may have their own privacy
   policies.&nbsp; If you consent or register with one of our partners, that means you
   grant the Nickelodeon Sites permission to give your registration and other information,
   including e-mail address, to that third party.&nbsp;&nbsp;If you have identified
   yourself as residing in the EU, we will not share your email address or other
-  personally identifiable information with third parties for advertising purposes unless
-  you have "opted-in."</p>
+  personally identifiable information with third parties for advertising purposes unless you have
+"opted-in."</p>
 
   <p class="justify">In addition, Third Party
   Advertising Service Providers may use their own Tracking Technologies to gather
@@ -1327,7 +1519,7 @@ document.write('<'+'sc'+'ript type="text/javascript" src="'+adlPro+'//js.himedia
   <p class="justify"><a class="no-hover" id="III"><strong>III.&nbsp; INTERNATIONAL TRANSFER.</strong></a></p>
   <p class="justify">The
   Nickelodeon Sites are designed for and targeted to U.S. audiences and are governed by
-  and operated in accordance with the laws of the U.S. We make no representation that the
+  and operated in accordance with the laws of the U.S. While users from countries  other than the U.S. may access certain of the Nickelodeon Sites, we  make no representation that the
   Nickelodeon Sites are operated in accordance with the laws or regulations of, or
   governed by, other nations. By participating in activities on the Nickelodeon Sites,
   you certify that you meet the age and other eligibility requirements for the
@@ -1348,7 +1540,7 @@ document.write('<'+'sc'+'ript type="text/javascript" src="'+adlPro+'//js.himedia
   accordance with the laws of the United States, without giving effect to any principles
   of conflicts of law. Our affiliates comply with the U.S.-EU Safe Harbor. Please see the
   <a href="http://www.viacom.com/privacypolicy/Documents/VIACOM-610657-v1-Safe_Harbor_Policy.pdf" target="_blank">Safe Harbor Privacy Policy</a>
-  for detailed information on these affiliates' privacy practices.</p>
+for detailed information on these affiliates' privacy practices.</p>
   <p class="justify">If you do not consent to
   the terms of this Privacy Policy, please do not use the Nickelodeon Sites because your
   use of the Nickelodeon Sites represents your consent. If you have already provided
@@ -1415,18 +1607,15 @@ document.write('<'+'sc'+'ript type="text/javascript" src="'+adlPro+'//js.himedia
   Sites offer you and your child an online safety guide which we encourage you to use as
   starting point for discussing safety and privacy concerns with your child. Of course,
   involvement in your family’s online lives is the most important safety tool
-  available. Some of the various guides are available here:</p>
+  available. Some of the various guides are available here: </p>
   <ul>
-    <li>
-      <p class="justify"><a href="http://www.neopets.com/safetytips.phtml" target="_blank">http://www.neopets.com/safetytips.phtml</a></p>
-    </li>
     <li>
       <p class="justify"><a href="http://www.nick.com/club/parents-online-safety-guide.html" target="_blank">http://www.nick.com/club/parents-online-safety-guide.html</a></p>
     </li>
   </ul>
 
   <p class="justify"><a class="no-hover" id="lttp"></a>
-  <a class="no-hover" id="VII"><strong>VII.&nbsp; LINKS TO THIRD PARTIES.</strong></a></p>
+<a class="no-hover" id="VII"><strong>VII.&nbsp; LINKS TO THIRD PARTIES.</strong></a></p>
   <p class="justify">The websites
   that comprise the Nickelodeon Sites may contain links to other sites, including those
   of sponsors, advertisers, social networking platforms, and survey companies. These
@@ -1464,10 +1653,9 @@ document.write('<'+'sc'+'ript type="text/javascript" src="'+adlPro+'//js.himedia
   <p class="justify">New York, New York 10036</p>
   <p class="justify">Or email us at: <br><a href="mailto:nickprivacy@nickonline.com">nickprivacy@nickonline.com</a></p>
   <p class="justify">Or call this number: <br>+1 212-846-2543</p>
-  <p class="justify">Other operators who may collect or maintain information through the Sites include:</p>
-  <p class="justify">NeoPets, Inc., Glendale,  California</p>
+  <p class="justify">Other corporate affiliates may collect or maintain information through the Nickelodeon Sites including:  </p>
   <p class="justify">Atom Entertainment, Inc. San
-  Francisco, California</p>
+Francisco, California</p>
   <hr>
   <div id="footer">
     <a id="nickelodeon-sites"></a>
@@ -1681,7 +1869,7 @@ setTimeout('resizeIframe()',1000); //resize iFrame on page load
 
 	<div id="agFooterNickCasualGamesBadge">Nickelodeon Casual Games</div>
 	<div id="footerCopyright">
-		<p>© Copyright 1999-2013 Atom Entertainment, Inc., a subsidiary of Viacom International Inc.  All rights reserved.</p>
+		<p>© Copyright 1999-2014 Atom Entertainment, Inc., a subsidiary of Viacom International Inc.  All rights reserved.</p>
 		<p>Third-party trademarks are used solely for distributing the games indexed herein and no license or other affiliation is implied.</p>
 	</div>
 	<div id="footerStripeTape"></div>
@@ -1693,11 +1881,13 @@ setTimeout('resizeIframe()',1000); //resize iFrame on page load
 <iframe src="http://images.webads.nl/stir/addictinggames_stir.htm" width="0" height="0" frameborder="no"></iframe>
 
 
-<div id="fb-root"></div><div id="modalOverlay">
+<div id="fb-root"></div><div class="modalWrapper">
+<div id="modalOverlay">
 	<span id="modalTitle"></span>
 	<span id="alternateAction"></span>
 	<span id="modalCloseButton"></span>
 	<div id="modalContent" class="clearfix"></div>
+</div>
 </div>
 <div id="modalOverlayFogger"></div>
 
