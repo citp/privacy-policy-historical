@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extron.com privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111211953id_/http%3A//www.extron.com/company/article.aspx%3Fid%3Dprivacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extron.com privacy policy that was archived on 2014-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140524133742id_/http%3A//www.extron.com/company/article.aspx%3Fid%3Dprivacystatement) for the most accurate reproduction.*
 
 # Extron Electronics - Extron Electronics Privacy Policy
 
@@ -56,6 +56,6 @@ If you have any questions about our privacy policy, contact your Extron Customer
 >  **Asia** +800.S3.EXTRON (+800.7339.8766) or +65.6383.4400  
 >  **Japan** +81.3.3511.7655
 
-We reserve the right to change this policy at any time. While we do not intend to change this policy often, please check back occasionally to be sure that you have read and agree with the type of information we collect, how we use it, and under what circumstances we disclose it. For more information on using Extron's Web sites, see [Terms of Use](https://web.archive.org/company/archive.asp?id=termsprivacy).
+We reserve the right to change this policy at any time. While we do not intend to change this policy often, please check back occasionally to be sure that you have read and agree with the type of information we collect, how we use it, and under what circumstances we disclose it. For more information on using Extron's Web sites, see [Terms of Use](https://web.archive.org/company/article.aspx?id=termsprivacy).
 
 Policy last revised on October 31, 2008.
