@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the monosnap.com privacy policy that was archived on 2013-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130918080059id_/http%3A//www.monosnap.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monosnap.com privacy policy that was archived on 2014-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140525003356id_/http%3A//monosnap.com/page/privacy) for the most accurate reproduction.*
 
-# Monosnap - Privacy Policy
-
-**Privacy policy of the «Monosnap» project («PROJECT»).**
+# Privacy policy of the «Monosnap» project
 
 **(Version № 1 of 19th February 2013)**
 
@@ -38,7 +36,7 @@ We will retain your information for as long as is necessary to: fulfill any of t
 
 If we do decide to change our Privacy policy, we will post any changes to this privacy statement so that you are all aware of what information we collect, how we use that information, and under what circumstances, if any, we may disclose it. We reserve the right to modify this Privacy policy statement at any time, so please review it relatively frequently. 
 
-If we make any changes to this Privacy policy, we will notify you [here](https://monosnap.com/privacy). 
+If we make any changes to this Privacy policy, we will notify you [here](https://monosnap.com/page/privacy). 
 
 If you have any questions or suggestions regarding our Privacy policy, please contact us at: support@monosnap.com. 
 
