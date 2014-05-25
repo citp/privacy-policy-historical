@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kiacerritos.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125054035id_/http%3A//www.kiacerritos.com/PrivacyPolicy%23privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiacerritos.com privacy policy that was archived on 2014-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140525091444id_/http%3A//www.kiacerritos.com/PrivacyPolicy%23privacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy of Kia of Cerritos
 
