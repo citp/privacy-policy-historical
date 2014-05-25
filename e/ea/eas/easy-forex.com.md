@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easy-forex.com privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118075555id_/http%3A//www.easy-forex.com/int/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easy-forex.com privacy policy that was archived on 2014-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140525142255id_/http%3A//www.easy-forex.com/int/en/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | easy-forex
 
