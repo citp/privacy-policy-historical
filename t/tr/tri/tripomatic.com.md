@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripomatic.com privacy policy that was archived on 2013-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131009215103id_/http%3A//www.tripomatic.com/article/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripomatic.com privacy policy that was archived on 2014-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140525041906id_/http%3A//www.tripomatic.com/article/privacy-policy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -8,7 +8,7 @@ We value your privacy and only collect personal information that is essential to
 
 ## Scope
 
-This privacy policy governs your use of the software applications Tripomatic Trip Planner app, Tripomatic website and Tripomatic Destination Guides apps. These are further referred to as "Tripomatic". For a complete list of applications governed by this privacy policy, consult <https://itunes.apple.com/us/artist/two-bits-s.r.o./id519058036>, [https://play.google.com/store/apps/developer?id=Tripomatic&hl=en](https://play.google.com/store/apps/developer?id=Tripomatic&hl=en) and [http://www.tripomatic.com](http://www.tripomatic.com/). 
+This privacy policy governs your use of the software applications Tripomatic Trip Planner app, Tripomatic website and Tripomatic Destination Guides apps. These are further referred to as "Tripomatic". For a complete list of applications governed by this privacy policy, consult <https://itunes.apple.com/us/artist/two-bits-s.r.o./id519058036>, [https://play.google.com/store/apps/developer?id=Tripomatic&hl=en](https://play.google.com/store/apps/developer?id=Tripomatic&hl=en), <http://appworld.blackberry.com/webstore/vendor/84286/> and [http://www.tripomatic.com](http://www.tripomatic.com/). 
 
 ## User Provided Information
 
@@ -57,7 +57,9 @@ Google Analytics in particular is used to help us understand how the apps are us
 
 Google AdSense is used to serve ads on Tripomatic website. Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Privacy Policy for Google Ads and Advertising Services](http://www.google.com/privacy/ads/privacy-policy.html). 
 
-Tripomatic may use data and code from other vendors that may collect information governed by their own privacy policy. These vendors include, but are not limited to [booking.com](http://www.booking.com/), [rentalcars.com](http://www.rentalcars.com/), [city-discovery.com](http://www.city-discovery.com/), [whichairline.com](http://www.whichairline.com/). 
+Tripomatic may use data and code from other vendors that may collect information governed by their own privacy policy. These vendors include, but are not limited to [booking.com](http://www.booking.com/), [rentalcars.com](http://www.rentalcars.com/), [city-discovery.com](http://www.city-discovery.com/), [viator.com](http://www.viator.com/), [whichairline.com](http://www.whichairline.com/). 
+
+The Facebook custom audiences feature is used solely for ads targeting on Facebook. Facebook will not share the targeting data with any third parties or other advertisers. To learn more visit <https://www.facebook.com/legal/terms>
 
 ## Disclosure of Information
 
@@ -119,4 +121,4 @@ Czech Republic / EU
 
 This privacy policy is based on an awesome template provided by docracy.com <https://www.docracy.com/6016/mobile-privacy-policy>
 
-Last updated: September 27, 2013
+Last updated: March 27, 2014
