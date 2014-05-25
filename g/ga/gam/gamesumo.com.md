@@ -1,43 +1,35 @@
-> *The following text is extracted and transformed from the gamesumo.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805234410id_/http%3A//www.gamesumo.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesumo.com privacy policy that was archived on 2014-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140525054827id_/http%3A//www.gamesumo.com/privacy-policy.php) for the most accurate reproduction.*
 
-# GameSumo - Free online flash games
+# Play Cartoon Games for Boys and Girls at GameSumo
 
-Gamesumo.com is committed to providing an entertaining, fun and educational service. gamesumo.com is a property of gamesumo.com Limited "gamesumo.com". gamesumo.com respects the privacy concerns of visitors to gamesumo.com. gamesumo.com does not target its website or services to under 13 year olds, but does take measures to help protect those that happen to be under 13. We take measures to help children protect their privacy while online. For example, we do not ask children to disclose more personal information than is necessary for them to participate in a particular activity.
+## Privacy Policy
 
-## Information we collect
+gamesumo.com is committed to protecting your privacy online. To further this commitment,we have adopted an Online Privacy Policy that shows you how we collect, store, and use the information collectedabout you online.
 
-We may log IP addresses and/or drop cookies to prevent abuse of our website and/or to enhance services. Email addresses of under 13 year olds are not stored. They are encrypted into an unrecoverable format using a one way hash.
+  
 
-## How we use the information
 
-We have an internal notification system to communicate with under 13 players and do not send them emails. We do not retain any personal information beyond the time it is needed. We may use information to ensure that users are compliance with our terms. Over 13's may authorize and receive email notifications related to gamesumo.com services. gamesumo.com Limited may disclose information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with gamesumo.com's property, visitors, or anyone else that could be harmed by such activities.
+### E-mail and personal information
 
-We may sometimes use non-personally identifiable information that we collect to improve the design and content of our site, to personalize our visitors' experience or to offer products, programs, and services. We may also use this information in the aggregate to analyze site usage, as well as to offer products, programs, or services.
+gamesumo.com does not collect personal information such as name and e-mail address.
 
-## Collection of Information and Third-Party Sites and Sponsors
+  
 
-Our site may place a small file, called a cookie, on your hard drive to provide you with a better website. A cookie does not, in any way, give us access to your computer or to any personally identifiable information about you, other than the data you choose to share with us. It only helps us analyze web traffic or lets web applications respond to you as an individual.
 
-Our authorized third-party advertisers in the course of serving ads to you, may also place cookies on your browser or use tracking technology to collect information. You can choose not to accept cookies by modifying your browser settings. At any time, you may remove any cookie stored on your hard drive by deleting them in your browser's settings section.
+### Cookies
 
-Google, one of our third-party advertisers, may add a DART cookie to determine targeted advertisements based on your preferences and your visit to our site and other sites on the internet. You can choose to opt out of Google's use of cookies by visiting the Google ad and content network privacy policy.
+gamesumo.com may use cookies to improve the use of our websites. A 'cookie' is a small file that websites often store on a user's computer. Storage of cookies on your system provides an easy and convenient method for us to personalize yourexperience on our websites. For example, cookies allow us to remember your screen name, tell us that you have visited ourwebsite before, and may contain information that will make your next visit to our website more enjoyable. However, we do not use cookies to store personal information such as your name. In addition, gamesumo.com does not use cookies to retrieve information from your computer that was not originally sent in a cookie. You can always disable cookies or set your browser to alert you when cookies are being sent to your computer.
 
-## Information that is reasonably necessary
+  
 
-Gamesumo.com does not require under 13's to disclose more information than is reasonably necessary to participate in the activity as a condition of participation.
 
-## Security
+### Questions and Complaints
 
-We have implemented appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online.
+If you have any questions, complaints or comments regarding our Privacy Policy Statement,please contact us via our contact form. We will always try our best to get back to you within the next 48 hoursof you writing to us.
 
-## Parental Review
+  
 
-To protect your child's privacy and security, we will take reasonable steps to help verify your identity before granting you access to the personal information that we collect and maintain about your child.
 
-## Changes to this Privacy Policy
+### Linking to third party sites
 
-This Privacy Policy is part of the gamesumo.com main Terms and Conditions which you agree to by accessing the gamesumo.com website and/or services. You agree that gamesumo.com may change this Privacy Policy and the main gamesumo.com Terms and Conditions at any time. Our current Privacy Policy will be posted here: <http://www.gamesumo.com/page/privacy-policy> which is part of our Terms and Conditions posted here: <http://www.gamesumo.com/page/terms>
-
-## Internet Safety
-
-Gamesumo.com recommends that Parents take time to communicate and educate their children about Internet Safety. 
+gamesumo.com may provide links from our Web sites to third party Web sites and we encourage our users to read third party sites'privacy policies before submitting personal information. All the downloads and Exe files provided on this site are from a 3rd party and gamesumo.com is not responsible for any files or adware that gets installed by their games and screensavers. They contain several adware products so download and install @ your own risk. gamesumo.com resumes NO responsibility. gamesumo.com is not responsible for the privacy practices of the content of third party sites'. gamesumo.com hereby disclaimsany representations or warranties expressed on any site other than its own site.
