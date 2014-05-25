@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the smitefire.com privacy policy that was archived on 2013-11-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131103075922id_/http%3A//www.smitefire.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the smitefire.com privacy policy that was archived on 2014-05-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140526015519id_/http%3A//www.smitefire.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" style="background-color:#000000;"><head>
 <title>Smite Builds &amp; Guides for Gods and General Strategy. Find Smite Guides on SMITEFire!</title>
@@ -8,8 +8,8 @@
 <meta name="keyword" content="Smite, Smite Guides, Smite Builds, MOBA, SmiteFire, Strategy Guides, Smite Database, Gods, MOBAFire Network">
 <meta name="description" content="Smite Build Guides for every Smite God. Create and share strategy guide &amp; build ideas with Smite fans :: SmiteFire">
 <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="/js/merged.402.js" type="text/javascript"></script>
-<link href="/css/merged.402.css" rel="stylesheet" type="text/css" media="all">
+<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="/js/merged.499.js" type="text/javascript"></script>
+<link href="/css/merged.499.css" rel="stylesheet" type="text/css" media="all">
 <script type="text/javascript">
 		var googletag = googletag || {};
 		googletag.cmd = googletag.cmd || [];
@@ -59,6 +59,7 @@
 <li class="mm-item mm-home" style="margin: 0px 0px 0px 1px; float: left;"><a href="http://www.mobafire.com/" target="_blank" class="net-btn mm-item-link"><img src="/images/ico-lol.png" class="net-icon">LoL</a></li>
 <li class="mm-item mm-home" style="margin: 0px 0px 0px 1px; float: left;"><a href="http://www.dotafire.com/" target="_blank" class="net-btn mm-item-link"><img src="/images/ico-dota2.png" class="net-icon">Dota 2</a></li>
 <li class="mm-item mm-home" style="margin: 0px 0px 0px 1px; float: left;"><a href="http://www.smitefire.com/" target="_blank" class="net-btn mm-item-link"><img src="/images/ico-smite.png" class="net-icon">Smite</a></li>
+<li class="mm-item mm-home" style="margin: 0px 0px 0px 1px; float: left;"><a href="http://www.heroesfire.com/" target="_blank" class="net-btn mm-item-link"><img src="/images/heroes-mini.png" class="net-icon">Heroes</a></li>
 <li class="clear-fix"></li>
 </ul>
 </div>
@@ -87,7 +88,7 @@
 </div>
 <div class="self-clear">
 <div class="float-right" style="margin:8px 8px 0 0;">
-<a href="http://www.facebook.com/pages/SMITEFire/235451356589937" target="_blank"><img src="/images/ico-facebook.png"></a>
+<a href="https://www.facebook.com/smitefire" target="_blank"><img src="/images/ico-facebook.png"></a>
 <a href="http://www.twitter.com/smitefiretv" target="_blank"><img src="/images/ico-twitter.png"></a>
 </div>
 <div class="menu-container self-clear" id="menu-target">
@@ -119,10 +120,23 @@
                     'show_method': 'simple',
                     'hide_method': 'simple'
                 });
+
+							for( var x = 0; x < data.broadcast_messages.length; x++ )
+							{
+								var haveSeenMessage = store.get('has_seen_broadcast_message-' + data.broadcast_messages[x].broadcast_message_id );
+								if( !haveSeenMessage ){
+									var messageElement = $(data.broadcast_messages[x].html);
+									messageElement.hide();
+									$('._broadcast-message-container').prepend( messageElement );
+									messageElement.slideDown('fast');
+								}
+							}
             });
         </script>
 </div>
 <div id="site-content" class="self-clear">
+<div class="wrap-row-d self-clear">
+<div class="_broadcast-message-container"></div>
 <div id="legal" class="col-r-side">
 <div class="col-l">
 <h1>Privacy Policy</h1>
@@ -167,14 +181,14 @@ better understanding our site visitors. These service providers are not permitte
 <div class="col-r">
 <div class="box-hdr">Newest Smite Gods</div>
 <div class="box-pb c side-box self-clear">
-<a href="/smite/god/sun-wukong-16" class="god ajax-tooltip {t:'God',i:'16'}"><img src="/images/god/icon/sun-wukong.png" alt="New God Sun Wukong"></a>
-<a href="/smite/god/mercury-44" class="god ajax-tooltip {t:'God',i:'44'}"><img src="/images/god/icon/mercury.png" alt="New God Mercury"></a>
-<a href="/smite/god/thanatos-43" class="god ajax-tooltip {t:'God',i:'43'}"><img src="/images/god/icon/thanatos.png" alt="New God Thanatos"></a>
-<a href="/smite/god/zhong-kui-42" class="god ajax-tooltip {t:'God',i:'42'}"><img src="/images/god/icon/zhong-kui.png" alt="New God Zhong Kui"></a>
-<a href="/smite/god/tyr-41" class="god ajax-tooltip {t:'God',i:'41'}"><img src="/images/god/icon/tyr.png" alt="New God Tyr"></a>
-<a href="/smite/god/change-40" class="god ajax-tooltip {t:'God',i:'40'}"><img src="/images/god/icon/change.png" alt="New God Chang'e"></a>
-<a href="/smite/god/chronos-39" class="god ajax-tooltip {t:'God',i:'39'}"><img src="/images/god/icon/chronos.png" alt="New God Chronos"></a>
-<a href="/smite/god/hun-batz-38" class="god ajax-tooltip {t:'God',i:'38'}"><img src="/images/god/icon/hun-batz.png" alt="New God Hun Batz"></a>
+<a href="/smite/god/osiris-53" class="god ajax-tooltip {t:'God',i:'53'}"><img src="/images/god/icon/osiris.png" alt="New God Osiris"></a>
+<a href="/smite/god/kumbhakarna-52" class="god ajax-tooltip {t:'God',i:'52'}"><img src="/images/god/icon/kumbhakarna.png" alt="New God Kumbhakarna"></a>
+<a href="/smite/god/ullr-51" class="god ajax-tooltip {t:'God',i:'51'}"><img src="/images/god/icon/ullr.png" alt="New God Ullr"></a>
+<a href="/smite/god/scylla-50" class="god ajax-tooltip {t:'God',i:'50'}"><img src="/images/god/icon/scylla.png" alt="New God Scylla"></a>
+<a href="/smite/god/nemesis-49" class="god ajax-tooltip {t:'God',i:'49'}"><img src="/images/god/icon/nemesis.png" alt="New God Nemesis"></a>
+<a href="/smite/god/geb-48" class="god ajax-tooltip {t:'God',i:'48'}"><img src="/images/god/icon/geb.png" alt="New God Geb"></a>
+<a href="/smite/god/chaac-47" class="god ajax-tooltip {t:'God',i:'47'}"><img src="/images/god/icon/chaac.png" alt="New God Chaac"></a>
+<a href="/smite/god/nu-wa-46" class="god ajax-tooltip {t:'God',i:'46'}"><img src="/images/god/icon/nu-wa.png" alt="New God Nu Wa"></a>
 <a href="/smite/gods" class="f-btn f-btn-r">More Gods</a>
 </div>
 <div class="spacer"></div>
@@ -184,6 +198,7 @@ better understanding our site visitors. These service providers are not permitte
 <script type="text/javascript">
 		googletag.cmd.push(function() { googletag.display('div-gpt-ad-1336376685195-5'); });
 		</script>
+</div>
 </div>
 </div>
 </div>
@@ -208,6 +223,8 @@ Smite is an online battleground between mythical gods. Players choose from a sel
 <div class="foot-links self-clear">
 <div class="link-block float-left">
 <a href="/smite/god/agni-18" class="ajax-tooltip {t:'God',i:'18'}">Agni</a>
+<br>
+<a href="/smite/god/ah-muzen-cab-45" class="ajax-tooltip {t:'God',i:'45'}">Ah Muzen Cab</a>
 <br>
 <a href="/smite/god/anhur-5" class="ajax-tooltip {t:'God',i:'5'}">Anhur</a>
 <br>
@@ -234,6 +251,8 @@ Smite is an online battleground between mythical gods. Players choose from a sel
 <br>
 <a href="/smite/god/bastet-7" class="ajax-tooltip {t:'God',i:'7'}">Bastet</a>
 <br>
+<a href="/smite/god/chaac-47" class="ajax-tooltip {t:'God',i:'47'}">Chaac</a>
+<br>
 <a href="/smite/god/change-40" class="ajax-tooltip {t:'God',i:'40'}">Chang'e</a>
 <br>
 <a href="/smite/god/chronos-39" class="ajax-tooltip {t:'God',i:'39'}">Chronos</a>
@@ -244,6 +263,8 @@ Smite is an online battleground between mythical gods. Players choose from a sel
 <a href="/smite/god/fenrir-35" class="ajax-tooltip {t:'God',i:'35'}">Fenrir</a>
 <br>
 <a href="/smite/god/freya-24" class="ajax-tooltip {t:'God',i:'24'}">Freya</a>
+<br>
+<a href="/smite/god/geb-48" class="ajax-tooltip {t:'God',i:'48'}">Geb</a>
 <br>
 <a href="/smite/god/guan-yu-14" class="ajax-tooltip {t:'God',i:'14'}">Guan Yu</a>
 <br>
@@ -262,6 +283,8 @@ Smite is an online battleground between mythical gods. Players choose from a sel
 <br>
 <a href="/smite/god/kali-20" class="ajax-tooltip {t:'God',i:'20'}">Kali</a>
 <br>
+<a href="/smite/god/kumbhakarna-52" class="ajax-tooltip {t:'God',i:'52'}">Kumbhakarna</a>
+<br>
 <a href="/smite/god/loki-25" class="ajax-tooltip {t:'God',i:'25'}">Loki</a>
 <br>
 <a href="/smite/god/mercury-44" class="ajax-tooltip {t:'God',i:'44'}">Mercury</a>
@@ -270,12 +293,20 @@ Smite is an online battleground between mythical gods. Players choose from a sel
 <br>
 <a href="/smite/god/neith-30" class="ajax-tooltip {t:'God',i:'30'}">Neith</a>
 <br>
-<a href="/smite/god/odin-11" class="ajax-tooltip {t:'God',i:'11'}">Odin</a>
+<a href="/smite/god/nemesis-49" class="ajax-tooltip {t:'God',i:'49'}">Nemesis</a>
 <br>
-<a href="/smite/god/poseidon-31" class="ajax-tooltip {t:'God',i:'31'}">Poseidon</a>
+<a href="/smite/god/nu-wa-46" class="ajax-tooltip {t:'God',i:'46'}">Nu Wa</a>
 </div>
 <div class="link-block float-left">
+<a href="/smite/god/odin-11" class="ajax-tooltip {t:'God',i:'11'}">Odin</a>
+<br>
+<a href="/smite/god/osiris-53" class="ajax-tooltip {t:'God',i:'53'}">Osiris</a>
+<br>
+<a href="/smite/god/poseidon-31" class="ajax-tooltip {t:'God',i:'31'}">Poseidon</a>
+<br>
 <a href="/smite/god/ra-8" class="ajax-tooltip {t:'God',i:'8'}">Ra</a>
+<br>
+<a href="/smite/god/scylla-50" class="ajax-tooltip {t:'God',i:'50'}">Scylla</a>
 <br>
 <a href="/smite/god/sobek-9" class="ajax-tooltip {t:'God',i:'9'}">Sobek</a>
 <br>
@@ -284,14 +315,16 @@ Smite is an online battleground between mythical gods. Players choose from a sel
 <a href="/smite/god/thanatos-43" class="ajax-tooltip {t:'God',i:'43'}">Thanatos</a>
 <br>
 <a href="/smite/god/thor-22" class="ajax-tooltip {t:'God',i:'22'}">Thor</a>
-<br>
+</div>
+<div class="link-block float-left">
 <a href="/smite/god/tyr-41" class="ajax-tooltip {t:'God',i:'41'}">Tyr</a>
+<br>
+<a href="/smite/god/ullr-51" class="ajax-tooltip {t:'God',i:'51'}">Ullr</a>
 <br>
 <a href="/smite/god/vamana-21" class="ajax-tooltip {t:'God',i:'21'}">Vamana</a>
 <br>
 <a href="/smite/god/vulcan-29" class="ajax-tooltip {t:'God',i:'29'}">Vulcan</a>
-</div>
-<div class="link-block float-left">
+<br>
 <a href="/smite/god/xbalanque-27" class="ajax-tooltip {t:'God',i:'27'}">Xbalanque</a>
 <br>
 <a href="/smite/god/ymir-12" class="ajax-tooltip {t:'God',i:'12'}">Ymir</a>
@@ -311,7 +344,8 @@ Smite is an online battleground between mythical gods. Players choose from a sel
 <br>
 <h4 class="hiliteW">THE MOBAFIRE NETWORK</h4>
 SmiteFire and www.smitefire.com are part of the MOBAFire Network. Strategy tools for MOBA and MMORPG Fans!<br><br>
-<a href="http://www.smitefire.com">www.smitefire.com</a> &nbsp;|&nbsp; <a href="http://www.mobafire.com">www.mobafire.com</a> &nbsp;|&nbsp; <a href="http://www.dotafire.com">www.dotafire.com</a>
+<a href="http://www.mobafire.com">www.mobafire.com</a> &nbsp;|&nbsp; <a href="http://www.dotafire.com">www.dotafire.com</a>
+&nbsp;|&nbsp; <a href="http://www.heroesfire.com">www.heroesfire.com</a>
 </div>
 <div class="fn2 float-left">
 <a href="http://www.smitegame.com/" target="_blank">Official Smite Site</a><br>
@@ -331,7 +365,7 @@ Copyright © 2012 SmiteFire. All Rights Reserved.<br> <br>
  
 <script type="text/javascript">
 var _qevents = _qevents || [];
- 
+
 (function() {
 var elem = document.createElement('script');
 elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
@@ -340,16 +374,44 @@ elem.type = "text/javascript";
 var scpt = document.getElementsByTagName('script')[0];
 scpt.parentNode.insertBefore(elem, scpt);
 })();
- 
+
 _qevents.push({
-qacct:"p-2c9Xi7EeE3Hx2"
+qacct:"p-bksEyPk2TA-w5"
 });
 </script>
 <noscript>
 <div style="display:none;">
-<img src="//pixel.quantserve.com/pixel/p-2c9Xi7EeE3Hx2.gif" border="0" height="1" width="1" alt="Quantcast"/>
+<img src="//pixel.quantserve.com/pixel/p-bksEyPk2TA-w5.gif" border="0" height="1" width="1" alt="Quantcast"/>
 </div>
 </noscript>
  
+<script type="text/javascript" name="ignore">
+	$(document).ready(function(){
+		var scriptCount = $('script:contains("GA_googleFillSlot"):not([name=ignore])').length;
+		var outputCount = $('div[id*="google_ads_div_"][id*="_ad_wrapper"]').length;
+		var blocked = 'Unknown';
+		if( scriptCount == 0 ) blocked = 'No tags found';
+		else if( outputCount < scriptCount ) blocked = 'Blocked';
+		else blocked = 'Unblocked';
+		_gaq.push(['_setCustomVar',5,'Adblock',blocked]);
+
+		if( scriptCount == 0 ) _gaq.push(['_trackEvent','Adblock','No tags found','',0]);
+		else
+		{
+			$('script:contains("GA_googleFillSlot"):not([name=ignore])').each(function(){
+				slotName = $(this).text();
+				slotName = slotName.split('GA_googleFillSlot(',2);
+				slotName = slotName[1];
+				slotName = slotName.split(');',2);
+				slotName = slotName[0];
+				slotName = slotName.replace(new RegExp('"','g'),'');
+				slotName = slotName.replace(new RegExp("'",'g'),'');
+				exists = $('div[id*="google_ads_div_' + slotName + '_ad_wrapper"]').length;
+				if( !exists ) _gaq.push(['_trackEvent','Adblock','Blocked',slotName,0]);
+				else _gaq.push(['_trackEvent','Adblock','Unblocked',slotName,0]);
+			});
+		}
+	});
+</script>
 
 </body></html>
