@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the educationquizzes.com privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123234128id_/http%3A//www.educationquizzes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the educationquizzes.com privacy policy that was archived on 2014-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140525022828id_/http%3A//www.educationquizzes.com/privacy-policy) for the most accurate reproduction.*
 
 # KS3 (Key Stage 3) Education Quizzes - Privacy Policy
 
-This document outlines the Privacy Policy of Education Quizzes and forms an integral part of our Terms and Conditions. 
+This document outlines the Privacy Policy of Education Quizzes and forms an integral part of our Terms and Conditions.   
+
 
 In order for us to maintain a record for you of the KS3 quizzes you have played (dates and scores) we need to retain the information that you give us at the time you register or subscribe. We acknowledge that you need to trust us when you share personal information with us and we take our responsibilities in this regard very seriously. We have documented below the ways in which we use the information that you give us.
 
@@ -10,7 +11,7 @@ In order for us to maintain a record for you of the KS3 quizzes you have played 
 We will never share your information and therefore you will never be contacted by any third party as a result of information that you supply to us.
 
 **2\. E-mails**  
-We thoroughly disapprove of spam and we have no intention of subjecting you to unwanted and unsolicited e-mails. We want to provide you with enough information to keep you informed but not so much as to become annoying. We will send you a welcome e-mail when you subscribe. Other than that we will send e-mails only when we have something worthwhile to say that we genuinely think you might want to know about.  We will not contact you more than twice each year.
+We thoroughly disapprove of spam and we have no intention of subjecting you to unwanted and unsolicited e-mails. We want to provide you with enough information to keep you informed but not so much as to become annoying. We will send you a welcome e-mail when you subscribe. Other than that we will send e-mails only when we have something worthwhile to say that we genuinely think you might want to know about.  After the initial welcome email, every time we email you we will give you the opportunity to be deleted from our email list.
 
 **3\. Information That We Hold About You**  
 All of the information we hold about you can be found by logging into “Your Account” at the Education Quizzes website. You can change some of these details if you would like to do so. We do not store financial details about you such as your credit card or debit card details.  Our merchant provider (PayPal) need to store some information that enables them to collect the monthly subscription. 
@@ -22,7 +23,7 @@ Cookies are small computer files that assist both you and us. Without cookies it
 All personal information is held on and processed by computers situated in the UK.
 
 **6\. Security**  
-We have security procedures in place to protect our customer database and access to this database is restricted internally. It is the customer’s responsibility to protect their Username and Password to prevent unauthorised access to their account.
+We have security procedures in place to protect our customer database and access to this database is restricted internally. It is the customer’s responsibility to protect their Username and Password to prevent unauthorized access to their account.
 
 **7\. Removal From Our Database**  
 You may e-mail us to request that your details be removed from our database at any time and we will immediately comply with your wishes.
