@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the odosta.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206115702id_/http%3A//odosta.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the odosta.com privacy policy that was archived on 2014-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140525144745id_/http%3A//odosta.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | -::Create Your Own Tech World::-
+# Privacy Policy |
 
 This privacy statement discloses the privacy practices for all pages and services offered by ODosta.com
 
@@ -49,7 +49,7 @@ Note: This Page can get updated any time, without an prior noitce, So Check back
 
 Last updated: June 25, 2012
 
-© 2012 **ODosta** , All rights reserved. 
+© 2012 **ODosta** , All rights reserved.
 
 Unauthorized duplication or publication of any materials  
 from this Site is expressly prohibited.
