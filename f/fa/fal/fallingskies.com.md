@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fallingskies.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221010150id_/http%3A//www.tntdrama.com/title/display/%3Foid%3D6620) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fallingskies.com privacy policy that was archived on 2014-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140525045138id_/http%3A//www.tntdrama.com/title/display/%3Foid%3D6620) for the most accurate reproduction.*
 
 # Privacy Policy
 
