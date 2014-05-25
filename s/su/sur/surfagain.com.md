@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surfagain.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504203558id_/http%3A//www.thirdrailholdings.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surfagain.com privacy policy that was archived on 2014-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140525231115id_/http%3A//www.thirdrailholdings.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
