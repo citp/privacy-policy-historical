@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the cultofandroid.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514113248id_/http%3A//www.cultofandroid.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cultofandroid.com privacy policy that was archived on 2014-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140525063929id_/http%3A//www.cultofandroid.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Cult of Android
+# Cult of Android - Privacy Policy | Cult of Android
 
-## [Privacy Policy](http://www.cultofandroid.com/privacy-policy/ "Read "Privacy Policy"")
-
- **Privacy Policy for www.cultofandroid.com**
+**Privacy Policy for www.cultofandroid.com**
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [info@cultofandroid.com](mailto:info@cultofandroid.com).
 
