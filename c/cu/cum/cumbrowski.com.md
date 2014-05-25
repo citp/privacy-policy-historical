@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cumbrowski.com privacy policy that was archived on 2012-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120406053841id_/http%3A//www.cumbrowski.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cumbrowski.com privacy policy that was archived on 2014-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140526002551id_/http%3A//www.cumbrowski.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # Cumbrowski.com Privacy Policy - Your Privacy is Important
 
