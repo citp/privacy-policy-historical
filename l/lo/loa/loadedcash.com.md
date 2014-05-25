@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loadedcash.com privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110003312id_/http%3A//www.loadedcash.com/%3Fa%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loadedcash.com privacy policy that was archived on 2014-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140525065636id_/http%3A//www.loadedcash.com/%3Fa%3Dprivacy) for the most accurate reproduction.*
 
 # Adult Affiliate Programs and Adult Affiliate Marketing
 
