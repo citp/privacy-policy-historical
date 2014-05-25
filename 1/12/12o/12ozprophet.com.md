@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 12ozprophet.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205191252id_/http%3A//www.12ozprophet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 12ozprophet.com privacy policy that was archived on 2014-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140525070838id_/http%3A//www.12ozprophet.com/privacy) for the most accurate reproduction.*
 
 # 12ozProphet.com - The Source for Graffiti, Streetart, Style and Culture - Privacy Policy
 
