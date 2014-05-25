@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realtyminister.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124064603id_/http%3A//www.realtyminister.com/cms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtyminister.com privacy policy that was archived on 2014-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140525152410id_/http%3A//www.realtyminister.com/cms/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Realty Minister
 
