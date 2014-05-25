@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colapublib.org privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114182509id_/http%3A//www.colapublib.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colapublib.org privacy policy that was archived on 2014-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140525135809id_/http%3A//www.colapublib.org/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | County of Los Angeles Public Library
 
@@ -56,7 +56,7 @@ In certain instances you may be assigned a personal identification number (PIN) 
 
 ## Getting Access to Information; Changing Information
 
-For information on reviewing and/or making changes to the information about you that may be in our records, please send us an [e-mail](https://web.archive.org/contactus/askalibrarian.html) by selecting this option on our [Contact Us](https://web.archive.org/web/20131114182509id_/http%3A//www.colapublib.org/contactus/) page or call us using the information available at our [Contact Us](https://web.archive.org/web/20131114182509id_/http%3A//www.colapublib.org/contactus/) page.  
+For information on reviewing and/or making changes to the information about you that may be in our records, please send us an [e-mail](https://web.archive.org/contactus/askalibrarian.html) by selecting this option on our [Contact Us](https://web.archive.org/web/20140525135809id_/http%3A//www.colapublib.org/contactus/) page or call us using the information available at our [Contact Us](https://web.archive.org/web/20140525135809id_/http%3A//www.colapublib.org/contactus/) page.  
 
 
 ## Other County Departmental or Agency Websites; Non-Los Angeles County Websites (Third Party)
