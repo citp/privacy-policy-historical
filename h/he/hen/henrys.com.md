@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the henrys.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223063123id_/http%3A//www.henrys.com/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the henrys.com privacy policy that was archived on 2014-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140525145752id_/http%3A//www.henrys.com/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Henry's best camera store in Canada
 
