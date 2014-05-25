@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the screenstepslive.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203220517id_/http%3A//www.screenstepslive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screenstepslive.com privacy policy that was archived on 2014-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140525044404id_/http%3A//www.screensteps.com/privacy) for the most accurate reproduction.*
 
-# ScreenSteps Live
+# ScreenSteps Privacy Policy
 
-## PRIVACY POLICY
+### What This Privacy Policy Covers 
 
-What This Privacy Policy Covers   
 This policy covers how Blue Mango Multimedia, LLC ("Blue Mango," "we," "us," or "our") treats personal information that it collects and receives on ScreenSteps Live and www.screenstepslive.com] (“ScreenSteps Live”). Information you share with us is used for ScreenSteps Live’s business purposes. Blue Mango is not in the business of selling information about you. This notice tells you what information we collect, steps we take to protect and secure it, how we use and share information, and finally, how you can contact us with questions or concerns.
 
 ### Information We Gather
@@ -21,54 +20,28 @@ The Blue Mango Sites, Products and Services use information for the following ge
 
 ### IP Address
 
-ScreenSteps Live may occasionally obtain IP addresses from users depending upon how you access our web sites. IP addresses, browser and session information may be used for various purposes, including to:   
-Diagnose and prevent service or technology problems reported by our users or engineers that are associated with the IP addresses controlled by a specific web company or ISP.   
-
-
-  
+ScreenSteps Live may occasionally obtain IP addresses from users depending upon how you access our web sites. IP addresses, browser and session information may be used for various purposes, including to:   
+Diagnose and prevent service or technology problems reported by our users or engineers that are associated with the IP addresses controlled by a specific web company or ISP. 
 
   * Estimate the total number of users visiting Blue Mango's web sites from specific geographical regions.
-  
-
   * Help determine which users have access privileges to certain content, services or resources that we offer.
-  
-
   * Monitor and prevent fraud and abuse.
-  
-
-  * Provide more relevant advertisements to you.
 
 
 
 ### Cookies
 
-A cookie is a small amount of data, which often includes an anonymous unique identifier that is sent to your browser from a web site's computers and stored on your computer's hard drive.   
-If you reject all cookies, you may not be able to use ScreenSteps Live services or products that require you to "sign in" and you may not be able to take full advantage of all offerings.   
-You can configure your browser to accept all cookies, reject all cookies or notify you when a cookie is set.   
-ScreenSteps Live uses its own cookies for a number of purposes, including to:   
-
-
-  
+A cookie is a small amount of data, which often includes an anonymous unique identifier that is sent to your browser from a web site's computers and stored on your computer's hard drive.   
+If you reject all cookies, you may not be able to use ScreenSteps Live services or products that require you to "sign in" and you may not be able to take full advantage of all offerings.   
+You can configure your browser to accept all cookies, reject all cookies or notify you when a cookie is set.   
+ScreenSteps Live uses its own cookies for a number of purposes, including to: 
 
   * Require you to re-enter your password after a certain period of time has elapsed to protect you against others accidentally accessing your account contents.
-  
-
   * Keep track of preferences you specify while you are using the Blue Mango Sites, Products and Services.
-  
-
   * Estimate and report our total audience size and traffic.
-  
-
   * Conduct research to improve the content and services provided on the Blue Mango Sites, Products and Services.
-  
-
-  * Ensure that visitors are not repeatedly offered the same advertisements and to customize advertising based on browser type and user profile information.
-  
-
   * Blue Mango lets other entities that show advertisements or provide services on some of our web pages set and access their cookies on your computer. Other entities' use of their cookies is subject to their own privacy policies, and not this policy. Advertisers or other entities do not have access to Blue Mango's cookies.
-  
 
-  
 
 
 ### Information Relating to Children
@@ -91,7 +64,7 @@ Where you are contacted with an offer or service based on information you have s
 
 When you register for ScreenSteps Live, Blue Mango collects user-submitted account information such as name, email address and age to identify users and send notifications related to the use of the service. Blue Mango also collects user-submitted profile information, including additional contact information, location, biographical information and photos. This additional profile information will assist other users in finding and communicating with you.
 
-ScreenSteps Live will display your “First and Last Name” on your ScreenSteps Live Site. 
+ScreenSteps Live will display your “First and Last Name” on your ScreenSteps Live Site.
 
 ScreenSteps Live will display your name and email address on your ScreenSteps Live Site according to the preferences you set in your account. Additionally, Blue Mango will display any user-submitted profile information on your ScreenSteps Live Site.
 
@@ -102,27 +75,12 @@ If you post personal information online that is accessible to the public, you ma
 Blue Mango may share personally identifiable information about you under the following circumstances:
 
   * In the course of operating our business it may be necessary or appropriate for us to provide access to your personal information to others such as our service providers, contractors and select vendors so that we can operate ScreenSteps Live and our business. Where practical, we seek to obtain confidentiality agreements that are consistent with this policy and that limit others' use or disclosure of the information you have shared.
-  
-
   * We may share your personal information to respond to subpoenas, court orders, or legal process, to establish or exercise our legal rights or, defend against legal claims and if in our judgment in such circumstances disclosure is required or appropriate.
-  
-
   * We may share your personal information if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our various terms of use, or as otherwise required by law.
-  
 
 
 
 As we continue to develop our business, we may also buy or sell all or part of our business. In such transactions, personally identifiable information you have shared with us is generally one of the business assets that will be transferred. The transferred personally identifiable information will remain subject to the promises made in this privacy policy or subsequent policies to which you have consented.
-
-### Third Party Advertising
-
-Advertisements appearing on the ScreenSteps Live Site, Product or Services may be delivered to users by Blue Mango or one of our Web advertising partners. Our Web advertising partners may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement. In this way, ad servers may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. This privacy policy covers the use of cookies by Blue Mango and does not cover the use of cookies by any advertisers.
-
-Blue Mango does not share any personally identifiable information with advertisers. 
-
-Blue Mango may share general demographic information (such as aggregated statistics about members’ interests and occupations) and non-personally identifiable information (such as browser type and IP addresses) with advertisers and partners. Blue Mango does not give advertisers access to your individual personal account information. However, by selecting, interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad.
-
-From time to time, Blue Mango or a partner, may sponsor a promotion, sweepstake or contest on ScreenSteps Live. You may be asked to provide personal information including name, email address or home address or to answer questions in order to participate. Blue Mango may transfer personal information to certain advertising partners that you have explicitly requested to receive information from. It will be clear at the point of collection who is collecting the personal information and whose privacy statement will apply.
 
 ### Changes to this Privacy Policy
 
@@ -130,7 +88,7 @@ Blue Mango may revise, modify or update this policy. We will notify you about si
 
 ### Confidentiality and Security
 
-No data transmissions over the Internet can be guaranteed to be 100% secure. 
+No data transmissions over the Internet can be guaranteed to be 100% secure.
 
 Consequently, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. Once we receive your transmission, we make efforts to ensure security on our systems.
 
@@ -154,10 +112,12 @@ If you have a privacy concern regarding ScreenSteps Live, or this policy, and if
 
 Blue Mango Learning Systems
 
-PO Box 801   
-McLean, VA 22101   
+PO Box 801   
+McLean, VA 22101   
 Attn: Privacy Officer
 
 If you object to any sharing of your personal information that may be permitted under this policy, you may do so by writing us at the above address. We will take reasonable steps to accommodate your requests as they relate to our advertising practices. In some instances, honoring your requests may interfere with or preclude your ability to use ScreenSteps Live or may require us to terminate our relationship with you.
 
 Effective Date: Jan 1, 2008
+
+Last updated: Jan 27, 2014
