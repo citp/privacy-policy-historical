@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the jokes-post.com privacy policy that was archived on 2013-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130926171446id_/http%3A//jokes-post.com/Privacy/1_186_object%3D2734.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jokes-post.com privacy policy that was archived on 2014-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140525173000id_/http%3A//jokes-post.com/Privacy/1_186_object%3D2734.aspx) for the most accurate reproduction.*
 
 # Privacy | Jokes-Post.com - the jokes that make you laugh
 
 ## Privacy
 
-Update 1th January 2012 
+Update 3rd February 2014
 
 Thank you for visiting the jokes-post.com website located at http://jokes-post.com (the "Website", "we", "us"). We provide this notice in an effort to explain our online information practices and the choices available to you concerning the way that we use the information collected online at this Website.
 
