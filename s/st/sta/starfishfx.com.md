@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the starfishfx.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209002240id_/http%3A//starfishfx.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starfishfx.com privacy policy that was archived on 2014-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140525233536id_/http%3A//starfishfx.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Starfishfx
 
-We are committed to protecting our customers’ personal and financial information. In the course of providing you with financial products and services, we need to collect and maintain certain nonpublic personal information about you. This Privacy Statement answers some questions about what nonpublic personal information we collect, what we do with it, and how we protect it. We do not sell your personal information to anyone. We collect nonpublic information about you from the following sources:
+We are committed to protecting our customers' personal and financial information. In the course of providing you with financial products and services, we need to collect and maintain certain nonpublic personal information about you. This Privacy Statement answers some questions about what nonpublic personal information we collect, what we do with it, and how we protect it. We do not sell your personal information to anyone. We collect nonpublic information about you from the following sources: 
 
-  * Information we receive from you on applications or other forms.
-  * Information about your transactions with Starfish Finance Ltd, “Starfish FX”.
+  * Information we receive from you on applications or other forms. 
+  * Information about your transactions with Starfish Finance Ltd, "Starfish FX”. 
 
 
 
