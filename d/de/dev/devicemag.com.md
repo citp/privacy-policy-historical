@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the devicemag.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216233043id_/http%3A//www.devicemag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devicemag.com privacy policy that was archived on 2014-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140525145358id_/http%3A//www.devicemag.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DeviceMAG
 
