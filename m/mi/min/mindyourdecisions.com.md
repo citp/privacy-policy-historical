@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mindyourdecisions.com privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123212536id_/http%3A//mindyourdecisions.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindyourdecisions.com privacy policy that was archived on 2014-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140525074843id_/http%3A//mindyourdecisions.com/blog/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Mind Your Decisions
 
@@ -15,3 +15,5 @@ Your online privacy is important. This document describes how Mind Your Decision
 **Third party advertising** : We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
 
 **Related Products / Affiliate marketing** : Some links direct to a product or service for which this site is compensated a small portion of a resulting sale. The affiliated website tracks the link referral.
+
+MindYourDecisions is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.
