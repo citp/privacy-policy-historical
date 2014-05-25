@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-west.net privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123061435id_/http%3A//legal.innogames.de/%3Ftype%3Dprivacy%26game%3Dwest%26lang%3Den_US%26market_id%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-west.net privacy policy that was archived on 2014-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140525044556id_/http%3A//legal.innogames.de/%3Ftype%3Dprivacy%26game%3Dwest%26lang%3Den_US%26market_id%3Den) for the most accurate reproduction.*
 
 # Data Protection Provisions
 
@@ -56,6 +56,23 @@ We will share some of the information we collect from you upon install of the mo
 
 You may "opt out" of the collection of your information for third party analytics purposes by following the directions provided by our third party analytics vendor located at <http://www.mobileapptracking.com/privacy-policy/>. If you “opt out” with our third party analytics provider, that action is specific to the information we collect specifically for that provider, and does not limit our ability to collect information from you, under the terms of this privacy policy, for other vendors.
 
+**3.4 Usage via a third-party platform; MobileTracking**
+
+By using a website or downloading an InnoGames mobile app from or through a third-party platform, you consent to the access and / or storage of
+
+  * specific account and/or profile information with this third-party provider or
+  * specific information through cookies placed on your device by third-party platforms. 
+
+
+
+We share this data with the third-party platform for the purpose of use by them according to the terms of use and your privacy settings at this third-party platform. 
+
+If you use a mobile app, InnoGames, in accordance with the privacy settings you have agreed with your mobile operator, can collect your IP address, i.e. the unique identification number automatically assigned to your device; the device type; and any information you voluntarily provide or publish (such as your email address).
+
+We pass on some of this information during the installation of the mobile app to contracted suppliers as well as to other service providers with whom we work who require the duplication or disclosure of this data for the purpose of providing you with the provided services and / or for analysis purposes.
+
+You can, at any time, revoke permission to the access and / or storage of your data for the purpose of analysis by third-party platforms or prevent such access and / or storage of this by following the instructions of our analysis service provider. You can find these here: <http://www.mobileapptracking.com/privacy-policy/>.
+
 ## 4\. Use of the Scalable Central Measurement Method
 
 The website uses the "Scalable Central Measurement Method / Skalierbares Zentrales Messverfahren" [SZM] of INFOnline (https://www.infoline.de) to determine statistical characteristic values in the use of InnoGames`s offer. Anonymous measured values are collected in this process. For the recognition of computer systems, the SZM audience measurement uses alternatively either a cookie with the identifier "ivwbox.de" or a signature which is created from various information automatically transferred by your computer. IP addresses are not stored via this method and only processed in anonymised form.
@@ -90,7 +107,7 @@ InnoGames can change these data protection provisions or change the content of t
 
 ## 8\. Option of revocation and data deletion
 
-**8.1** If you wish to revoke your approval to send information about the game or the newsletter, please send an email to: privacy@innogames.de by stating your user name and the email address to which the information and/or the newsletter is being sent. Each of our newsletters contains a link which gives you the oppportunity to revoke your approval and to cancel the newsletter. 
+**8.1** If you wish to revoke your approval to send information about the game or the newsletter, please send an email to: privacy@innogames.com by stating your user name and the email address to which the information and/or the newsletter is being sent. Each of our newsletters contains a link which gives you the oppportunity to revoke your approval and to cancel the newsletter. 
 
 **8.2** At your request, InnoGames will immediately delete personal data, that is data which include the user`s information about personal and factual circumstances, unless mandatory obligations to preserve records or other obligations contradict such a deletion. 
 
@@ -99,12 +116,12 @@ InnoGames can change these data protection provisions or change the content of t
 You are always entitled to request information about any of your data that InnoGames has stored, as well as their origin and recipient and the purpose it was stored for. If you have any questions about data protection or if you wish to correct, block or delete your profile or any of qur personal data, or if you would like to revoke a granted authorization regarding the use of your customer data or e-mail adress, please contact the following and also provide user name end your e-mail address: 
 
 InnoGames GmbH  
-Harburger Schloßstraße 28  
-21079 Hamburg  
+Friesenstraße 13  
+20097 Hamburg  
 Germany 
 
-Fax: 0049 (0) 40 7889335 21  
-[privacy@innogames.de](mailto:privacy@innogames.de)
+Fax: +49 40 7889335-200  
+[privacy@innogames.com](mailto:privacy@innogames.com)
 
 Status: February 2013  
-Copyright InnoGames 2009 – 2013. All rights reserved. 
+Copyright InnoGames 2009 – 2014. All rights reserved. 
