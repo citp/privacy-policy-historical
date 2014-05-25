@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youngwomenshealth.org privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123193252id_/http%3A//www.youngwomenshealth.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youngwomenshealth.org privacy policy that was archived on 2014-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140525145410id_/http%3A//www.youngwomenshealth.org/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,11 +10,11 @@ Our Online Forms
 
 youngwomenshealth.org has forms for:
 
-  * [Contacting us with feedback about the site](https://web.archive.org/web/20131123193252id_/http%3A//www.youngwomenshealth.org/contact_form.html)
-  * [Joining our email mailing lists](https://web.archive.org/web/20131123193252id_/http%3A//www.youngwomenshealth.org/join_email.html)
-  * [Participating in our chats](https://web.archive.org/web/20131123193252id_/http%3A//www.youngwomenshealth.org/c_join.html)
-  * [Taking online quizzes](https://web.archive.org/web/20131123193252id_/http%3A//www.youngwomenshealth.org/quiz_menu.html)
-  * [Requesting permission to use our online materials](https://web.archive.org/web/20131123193252id_/http%3A//www.youngwomenshealth.org/permissions_request_form.html)  
+  * [Contacting us with feedback about the site](https://web.archive.org/web/20140525145410id_/http%3A//www.youngwomenshealth.org/contact_form.html)
+  * [Joining our email mailing lists](https://web.archive.org/web/20140525145410id_/http%3A//www.youngwomenshealth.org/join_email.html)
+  * [Participating in our chats](https://web.archive.org/web/20140525145410id_/http%3A//www.youngwomenshealth.org/c_join.html)
+  * [Taking online quizzes](https://web.archive.org/web/20140525145410id_/http%3A//www.youngwomenshealth.org/quiz_menu.html)
+  * [Requesting permission to use our online materials](https://web.archive.org/web/20140525145410id_/http%3A//www.youngwomenshealth.org/permissions_request_form.html)  
 
 
 
@@ -23,13 +23,13 @@ On these forms, we request that you submit personal information, such as: your n
 
 Contacting Us
 
-Our readers can [contact us by phone, mail, or with our online contact form](https://web.archive.org/web/20131123193252id_/http%3A//www.youngwomenshealth.org/contact.html) to provide us with feedback about the web site. When possible, the staff of the Center for Young Women's Health responds to these questions, and, once the correspondence is complete, we delete or archive the exchange, to preserve our readers' privacy. We do, however, save these questions and answers, to use them in aggregate articles, such as "Frequently Asked Questions" pages, where we provide answers to our readers’ commonly asked questions.
+Our readers can [contact us by phone, mail, or with our online contact form](https://web.archive.org/web/20140525145410id_/http%3A//www.youngwomenshealth.org/contact.html) to provide us with feedback about the web site. When possible, the staff of the Center for Young Women's Health responds to these questions, and, once the correspondence is complete, we delete or archive the exchange, to preserve our readers' privacy. We do, however, save these questions and answers, to use them in aggregate articles, such as "Frequently Asked Questions" pages, where we provide answers to our readers’ commonly asked questions.
 
 Our web and email servers have typical privacy safeguards to insure that your online forms and emails will not be viewed inappropriately. However, these servers, like most, are not 100% secure. If you wish to avoid even a remote chance of a breach of your online privacy, please do not send us correspondence via online form, or by email.
 
 Mailing List Members
 
-Our readers who are age 13 or older can [join one or more of our email mailing lists](https://web.archive.org/web/20131123193252id_/http%3A//www.youngwomenshealth.org/join_email.html). We use our mailing lists to:
+Our readers who are age 13 or older can [join one or more of our email mailing lists](https://web.archive.org/web/20140525145410id_/http%3A//www.youngwomenshealth.org/join_email.html). We use our mailing lists to:
 
   * Send an e-mail to when a new issue of our quarterly newsletter, Teen Talk, has been posted
   * Send a chat reminder to eligible chat participants  
@@ -41,11 +41,11 @@ We do not use our mailing lists for any other purpose, nor do we share the lists
 
 Our Online Health Chats
 
-The Center for Young Women’s Health sponsors monthly health chats for teens and young women who have specific medical conditions, such as endometriosis, PCOS, and MRKH. The chats are moderated by medical health professionals with expertise in those conditions. Chat participants must first register by [filling out an online form](https://web.archive.org/web/20131123193252id_/http%3A//www.youngwomenshealth.org/c_join.html) providing us with their name, age, gender, and medical condition. We collect this information to verify that an individual is eligible to participate in a particular chat. Individuals who are ineligible will not be allowed to join the chat. Eligible chatters who violate the [rules of the chat room](https://web.archive.org/web/20131123193252id_/http%3A//www.youngwomenshealth.org/c_rules.html) will be required to leave the chat room immediately.
+The Center for Young Women’s Health sponsors monthly health chats for teens and young women who have specific medical conditions, such as endometriosis, PCOS, and MRKH. The chats are moderated by medical health professionals with expertise in those conditions. Chat participants must first register by [filling out an online form](https://web.archive.org/web/20140525145410id_/http%3A//www.youngwomenshealth.org/c_join.html) providing us with their name, age, gender, and medical condition. We collect this information to verify that an individual is eligible to participate in a particular chat. Individuals who are ineligible will not be allowed to join the chat. Eligible chatters who violate the [rules of the chat room](https://web.archive.org/web/20140525145410id_/http%3A//www.youngwomenshealth.org/c_rules.html) will be required to leave the chat room immediately.
 
 Our Quizzes
 
-Youngwomenshealth.org offers many [quizzes to our readers, on a range of topics, including nutrition, fitness, and safety](https://web.archive.org/web/20131123193252id_/http%3A//www.youngwomenshealth.org/quiz_menu.html). When you take a quiz, your privacy is insured. The answers you provide in the quizzes are used only to determine the outcome of the quiz, and are not saved or used in any other way.
+Youngwomenshealth.org offers many [quizzes to our readers, on a range of topics, including nutrition, fitness, and safety](https://web.archive.org/web/20140525145410id_/http%3A//www.youngwomenshealth.org/quiz_menu.html). When you take a quiz, your privacy is insured. The answers you provide in the quizzes are used only to determine the outcome of the quiz, and are not saved or used in any other way.
 
 Our Surveys
 
@@ -53,7 +53,7 @@ From time to time the Center for Young Women’s Health offers online surveys on
 
 Permission Requests
 
-Visitors to our site interested in using our online materials may contact us and request permission to do so. In the [online permission request form](https://web.archive.org/web/20131123193252id_/http%3A//www.youngwomenshealth.org/permissions_request_form.html) you will be asked to provide specific information about your organization, your audience, and how you plan to use the materials. We collect this information to determine if we can grant you permission to use our materials. We do not share your information with any other party.
+Visitors to our site interested in using our online materials may contact us and request permission to do so. In the [online permission request form](https://web.archive.org/web/20140525145410id_/http%3A//www.youngwomenshealth.org/permissions_request_form.html) you will be asked to provide specific information about your organization, your audience, and how you plan to use the materials. We collect this information to determine if we can grant you permission to use our materials. We do not share your information with any other party.
 
 Children’s Online Safety
 
@@ -77,7 +77,7 @@ The Center for Young Women’s Health does not share any of your personal inform
 
 Terms of Use
 
-Please read our [Terms of Use](https://web.archive.org/web/20131123193252id_/http%3A//www.youngwomenshealth.org/terms.html) to learn how you may and may not use the information and services provided at youngwomenshealth.org. 
+Please read our [Terms of Use](https://web.archive.org/web/20140525145410id_/http%3A//www.youngwomenshealth.org/terms.html) to learn how you may and may not use the information and services provided at youngwomenshealth.org. 
 
 Privacy Policy Updates
 
