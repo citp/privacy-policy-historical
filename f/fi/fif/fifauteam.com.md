@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fifauteam.com privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123061356id_/http%3A//www.fifauteam.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fifauteam.com privacy policy that was archived on 2014-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140525044448id_/http%3A//www.fifauteam.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy of FIFA U Team Website
 
 Your privacy on this site is very important to us. The information collected is for the sole purpose of the proper functioning of the site, and will never be sold or transferred to third parties, whether individuals or companies.
 
@@ -27,6 +27,6 @@ Google is one of the providers of advertising content. This company uses the DAR
 
 
 
-This website has a forum that requires registration to allow users to access to certain types of features. The publicity of such data depends exclusively on you. You can select which ones you want to remain private and which ones you want to make public.
+This website has a comment section that requires the introduction of a name and email address. Only the name is shared with everyone. The email address is not published.
 
 If you believe that your privacy is not protected by our privacy policy, please [contact us](http://www.fifauteam.com/contacts/ "Contact Us").
