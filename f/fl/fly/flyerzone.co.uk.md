@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the flyerzone.co.uk privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218235812id_/http%3A//www.flyerzone.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flyerzone.co.uk privacy policy that was archived on 2014-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140525154922id_/http%3A//www.flyerzone.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy. Printing of flyers, leaflets, business cards and more | Flyerzone
 
-This policy governs the use by Printing.com Europe Limited t/a Flyerzone or one of its subsidiaries or Affiliates (" **we/us/our** ") of your (" **you/your/yourself** ") data which is available to us in connection with your use of the website (the " **Site** ").
+This policy governs the use by Grafenia Operations Limited t/a Flyerzone or one of its subsidiaries or Affiliates (" **we/us/our** ") of your (" **you/your/yourself** ") data which is available to us in connection with your use of the website (the " **Site** ").
 
 By using the Site, you are deemed to have full knowledge of and accept this Privacy Policy. If you do not agree to be bound by the terms of this Privacy Policy, please do not use the Site.
 
