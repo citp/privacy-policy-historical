@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joerogan.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207035847id_/http%3A//www.joerogan.com/EditModule.aspx%3F%26def%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joerogan.com privacy policy that was archived on 2014-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140525172734id_/http%3A//www.joerogan.com/EditModule.aspx%3F%26def%3DPrivacy) for the most accurate reproduction.*
 
 # Joe Rogan | ReMax West Reality | Privacy
 
@@ -44,4 +44,4 @@ Joe Rogan | ReMax West Reality will occasionally update this Statement of Privac
 
 #### Contact Information
 
-Joe Rogan | ReMax West Reality welcomes your comments regarding this Statement of Privacy. If you believe that Joe Rogan | ReMax West Reality has not adhered to this Statement, please contact Joe Rogan | ReMax West Reality at [joerogan@aol.com](mailto:joerogan@aol.com). We will use commercially reasonable efforts to promptly determine and remedy the problem.
+Joe Rogan | ReMax West Reality welcomes your comments regarding this Statement of Privacy. If you believe that Joe Rogan | ReMax West Reality has not adhered to this Statement, please contact Joe Rogan | ReMax West Reality at [joe@joerogan.com](mailto:joe@joerogan.com). We will use commercially reasonable efforts to promptly determine and remedy the problem.
