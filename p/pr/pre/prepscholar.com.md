@@ -1,100 +1,81 @@
-> *The following text is extracted and transformed from the prepscholar.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prepscholar.com privacy policy that was archived on 2014-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140525121626id_/http%3A//prepscholar.com/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy · PrepScholar
 
-**Go Daddy Respects Your Privacy**
+PrepScholar and our affiliated companies ("PrepScholar" or "we") are committed to protecting the privacy of all individuals who utilize our site or services. Please read the following to understand how we collect, use and safeguard the information we may obtain via this website (the "Site"). This statement may be revised from time to time, so please revisit this page often to remain fully informed of our statement.
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+## What information does PrepScholar collect from you?
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+Via the Site, PrepScholar collects: (i) personally identifiable information, and (ii) technical and other information.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+### Personally Identifiable Information
 
-**Information Collection and Use**
+**_Children_** — In compliance with the Children’s Online Privacy Protection Act, 15 U.S.C. §§501-06 and 16 C.F.R. §§ 312.1-312.12, PrepScholar does not permit children under 13 years of age to become users without their parent or guardian’s express consent and approval. By using our Site, you represent (i) you are not under 13 years of age or (ii) your parent or guardian has registered with PrepScholar on your behalf via our Precocious Program and has provided us his or her personal information in lieu of yours. As used herein, “you” refers to all Site users over the age of 13, and the parent/guardian of users under 13 years of age who have registered with PrepScholar via our Precocious Program, as applicable.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+**_General Site Visitors_** — When you browse the general, non-password protected portions of the Site, you do so anonymously; no personally identifiable information is collected.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+**_General Subscribers_** — At the time you become a general subscriber of the Site, we request that you provide us your name, country of citizenship, e-mail address, phone number, grade level, graduation year, grades, parent e-mail address, parent mailing address, user name and password. In addition, by registering as a general subscriber, you have automatically opted-in to receive further information regarding our partners.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+**_Paying Subscribers_** — In addition, if you register as a paying subscriber of the Site to obtain access to our specialized services, we require you to provide your name, mailing address, e-mail address, phone number, date of birth, gender, educational background, school name, grade level, graduation year, grades, extracurricular activities, parent e-mail address, parent mailing address, user name, password and credit card information. You may also choose to provide to us other personal information, such as your intended college major, career objectives, hobbies and interests. Further, if you are applying for financial assistance, we will collect certain other information regarding your family's financial status. Finally, you may let other individuals know about us through our referral feature, or allow other individuals to monitor your account, in which case we will ask you to provide us such individual's name and email address.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+**_Newsletter_** — When you register as a general subscriber or paying subscriber of PrepScholar, you are automatically subscribed (at no charge) to our newsletter, which we may periodically send to you along with other information regarding the Site and our services. If you are not a subscriber of PrepScholar, but wish to receive our newsletter, you may sign up to receive the newsletter by providing us your name, e-mail address, ZIP code and other optional information.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+**_Contacting Us_** — The Site permits you to contact us via our Contact Us Form. Whenever you send an e-mail through the Contact Us Form on the Site, you will be providing us with your name, e-mail address and phone number, and any information you choose to include in the text of your message. For example, you may choose to provide your mailing address or other information necessary or helpful for us to address your query or other concern.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+### Technical and Other Information
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+While you are browsing the Site, we automatically log your IP address (a number assigned to your computer when you use the Internet) and your activity while using the Site. Additionally, in order to personalize and enhance your experience on the Site, we may also collect information through ‘cookies’. Cookies are small strings of text that are sent by the Site to your browser and then stored by your browser on your computer's hard drive. We use cookies to help diagnose problems with our servers and to administer the Site. We also use cookies to gather broad demographic information and to help identify you in respect to visits to the Site so that we may improve your user experience, and to determine whether you visited the Site from a particular Internet link or advertisement. While a code in the cookie file enables the Site to label you as a particular user, including identifying you by name, address, or other personally identifiable information, such cookie files are encrypted in order to protect your information. Most web browsers automatically accept cookies, but it is possible to change your browser setup so that it does not accept cookies. However, rejecting cookies may prevent you from taking advantage of certain portions of the Site.
 
-**Security**
+## How do we collect information from you?
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+We collect, retain and use personally identifiable information from you on the Site by expressly requesting it from you (i) when you request information from us via our online Contact Us Form and (ii) at the time you become a general subscriber or paying subscriber of PrepScholar.
 
-**Updating Your Information**
+## How is your information used?
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+### Our Use of Information
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+We collect, retain, and use the personally identifiable information we collect via the Site for legitimate business purposes only, including without limitation the following: to qualify you as a subscriber of PrepScholar with access to the password protected portions of the Site; to provide the Site’s services to subscribers and to otherwise operate and improve the Site; responding to an inquiry from you or addressing a request submitted by you (including contacting you directly to request additional information to process your inquiry or request); contacting you to provide information regarding PrepScholar and/or our affiliates; providing you information regarding offers from third parties with respect to their products or services we believe may be of interest to you; to correspond with you regarding the Site or our services; to inform you of developments in our company or with our services that we believe may be of interest; to monitor Site visitor traffic patterns and Site usage; to comply with applicable laws, regulations and rules, and requests of relevant regulatory and law enforcement and/or other governmental agencies; to enforce our Terms of Use; and/or to protect the rights, property, or safety of PrepScholar, our users, and/or others.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+### Sharing Information
 
-      iii.      You may call us at: (480) 505-8800
+**_We do not sell or rent your personally identifiable information to third parties._** We may share offers from our affiliates, partners, advertisers and service providers with you. If you express to us your interest in any products and/or services of any of our third party advertisers and partners, we may provide your personally identifiable information to such third party advertisers and partners. We may also share with our partners, affiliates, advertisers or service providers, in aggregate, statistical form, non-personal information regarding the visitors to the Site, traffic patterns, and Site usage. In addition, if you are a paying subscriber and are delinquent in paying any fees owed to PrepScholar, we may disclose your personally identifiable information to collection agencies to assist in the collection of such unpaid invoices. Similarly, we will disclose information we maintain, including personally identifiable information, when required to do so by law, or may disclose such information in response to a request from a law enforcement agency or authority.
 
-       iv.      You may fax us at: (480) 505-8844
+## Use of third party personal information
 
-**Sending Emails**
+### Referrals
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+You may choose to let other individuals know about PrepScholar through our referral feature. If you choose to use this feature, we will ask you to provide us with that person’s name and e-mail address. We will send him or her one or more e-mails inviting him or her to visit PrepScholar to learn more about our services. PrepScholar will store such individual’s contact information for the sole purpose of sending such e-mails.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+### Access to Your Account
 
-**Compliance with Laws and Law Enforcement**
+You may also choose to allow other individuals to monitor your account, such as parents, guardians and high school counselors. If you choose to use this feature, we will ask you to provide us with that person's name and e-mail address. We will send him or her one or more e-mails inviting him or her to visit PrepScholar to register and monitor your progress. By inviting such individuals to monitor your progress, you are granting permission to PrepScholar to share the details of your profile with them. This information includes personally identifiable information, including your name, address, phone number, e-mail address, grades, schools that are interested in you and other information you have provided to us.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+## Modifications
 
-**Third Party Service Providers**
+We strive to maintain the accuracy of any personally identifiable information that may be collected from you, and will use our commercially reasonable efforts to respond promptly to update our database when you tell us the information in our database is not accurate. It is your responsibility to ensure that such information is accurate, complete and up-to-date. You may view the information in your user profile by logging onto your profile page. If you wish to make any changes to any personally identifiable information you have provided to us, you may do so by making such changes in your profile page.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+## Opt out
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+If you are a general subscriber or paying subscriber of PrepScholar, you may opt out of receiving communications from us and our affiliates by logging onto your profile page and un-checking the opt-in box in your account information. In addition, if you no longer wish to receive our newsletter, you can opt-out of receiving any future newsletters by using the opt-out functionality provided in each newsletter.
 
-**Supplementation of Information**
+## Consequences of not providing information
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+You may choose not to provide us with your personally identifiable information. However, choosing not to provide certain requested personally identifiable information may prevent you from accessing and taking advantage of certain services offered by PrepScholar.
 
-**Contests/Surveys**
+## Protecting your personally identifiable information
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+Students enrolled via a school program who did not directly pay for PrepScholar’s products should be aware that we retain the right to share any information regarding their account with their school or district. If you are a general subscriber or paying subscriber of PrepScholar, you should not share your password with anyone. In addition, if you suspect unauthorized access to your information, it is your responsibility to contact PrepScholar immediately. PrepScholar personnel will never ask you to divulge your password in written or electronic communications or over the phone. Please be aware that Internet data transmission is not always secure, and we cannot warrant or guarantee that information you transmit utilizing the Site is secure. Because security is important to both PrepScholar and you, we will make reasonable efforts to ensure the security of our systems.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+## Business transfer
 
-**Tell-A-Friend**
+PrepScholar may, in the future, sell or otherwise transfer some or all of its assets to a third party. Your personally identifiable information and/or technical information we obtain from you via the Site may be disclosed to any potential or actual third party purchasers of such assets and/or may be among those assets transferred.
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+## Acceptance of these terms
 
-**What Happens to my Personal Information if I Opt Out?**
+This Privacy Statement is incorporated into and subject to the terms of the PrepScholar Agreement and Terms of Use. If you do not agree to the terms of this Privacy Statement, please do not provide us with any information and do not use the Site. By using the Site and voluntarily providing your personally identifiable information to us, you consent to the collection and use of such personally identifiable information as set forth in this Privacy Statement.
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+In addition, by using this Site and providing us your personally identifiable information you explicitly acknowledge and agree to (i) the transfer of your personally identifiable information to the United States and to other jurisdictions worldwide and (ii) the collection and use of your personally identifiable information in accordance with this Privacy Statement.
 
-**Transfer of Data Abroad**
+## Effectiveness
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+This Privacy Statement is effective as of June 17, 2013. We reserve the right, at any time, to modify, alter, or update this policy, and any such modifications, alterations, or updates will be effective upon posting. In the event we modify this Privacy Statement, your continued use of the Site will signify your acceptance of the modified Privacy Statement.
