@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thenbs.com privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031003807id_/http%3A//www.thenbs.com/corporate/privacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenbs.com privacy policy that was archived on 2014-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140525043341id_/http%3A//www.thenbs.com/corporate/privacyPolicy.asp) for the most accurate reproduction.*
 
 # NBS | National Building Specification | Privacy Policy
 
@@ -45,8 +45,6 @@ Cookies are small amounts of information which we store on your computer. Our sy
 We employ security measures to protect your information from access by unauthorised persons and against unlawful processing, accidental loss, destruction and damage. We will retain your information for a reasonable period or as long as the law requires.
 
 BackToTop
-
-[ ](http://surveys.ribaenterprises.com/wh/s.asp?k=137847786486 "Tell us what you think about theNBS.com")|
 
 **Receive regular email  
 updates from NBS**
