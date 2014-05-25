@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the officemax.com privacy policy that was archived on 2013-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130923125550id_/http%3A//about.officemax.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the officemax.com privacy policy that was archived on 2014-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140525080839id_/http%3A//about.officemax.com/privacy) for the most accurate reproduction.*
 
 # OfficeMax - Privacy Policy
 
@@ -92,7 +92,7 @@ The information OfficeMax collects is used by us to:
   * provide you with content, information or services you have requested, including newsletters, catalogs and other communications for which you have registered;
   * improve the content of the Web Sites;
   * customize the Web Sites' advertising and content for individual visitors;
-  * notify you about updates to our Web Sites and in our discretion, changes to this Privacy Policy, our [Terms of Use](https://web.archive.org/web/20130923125550id_/http://about.officemax.com/legal/index.shtml) and other policies that affect your use of the Web Sites; 
+  * notify you about updates to our Web Sites and in our discretion, changes to this Privacy Policy, our [Terms of Use](https://web.archive.org/web/20140525080839id_/http://about.officemax.com/legal/index.shtml) and other policies that affect your use of the Web Sites; 
   * contact customers for marketing purposes;
   * administer and provide you with information and updates regarding customer loyalty and rewards programs;
   * provide you with investment-related information;
@@ -103,7 +103,7 @@ The information OfficeMax collects is used by us to:
   * prepare governmental and internal statistics reports;
   * administer the Web Sites' systems and for other internal business purposes; 
   * analyze customer purchasing habits;
-  * comply with and monitor compliance with our [Terms of Use](https://web.archive.org/web/20130923125550id_/http://about.officemax.com/legal/index.shtml) and other applicable agreements and policies; and
+  * comply with and monitor compliance with our [Terms of Use](https://web.archive.org/web/20140525080839id_/http://about.officemax.com/legal/index.shtml) and other applicable agreements and policies; and
   * for other purposes disclosed when you provide your information.
 
 
@@ -118,7 +118,7 @@ We may on occasion seek information on our customer base via electronic or print
 
 ### Content you submit:
 
-OfficeMax may publish your name, voice and likeness and other Personally Identifiable Information in connection with any submissions you may make to our Web Sites as set forth in our [Terms of Use](https://web.archive.org/web/20130923125550id_/http://about.officemax.com/legal/index.shtml).
+OfficeMax may publish your name, voice and likeness and other Personally Identifiable Information in connection with any submissions you may make to our Web Sites as set forth in our [Terms of Use](https://web.archive.org/web/20140525080839id_/http://about.officemax.com/legal/index.shtml).
 
 ### Affiliate information: 
 
