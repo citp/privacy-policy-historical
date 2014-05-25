@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the threethriftyguys.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124084726id_/http%3A//www.threethriftyguys.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the threethriftyguys.com privacy policy that was archived on 2014-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140525145308id_/http%3A//www.threethriftyguys.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Three Thrifty Guys
 
@@ -16,11 +16,11 @@ You can chose to disable or selectively turn off our cookies or third-party cook
 As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
 
 **Links to third party Websites**  
-We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own. Most advertisements are marked with a “*” when in the body of a post.
+We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own.
 
 **Changes to this Privacy Statement**  
 The contents of this statement may be altered at any time, at our discretion.
 
 If you have any questions regarding the privacy policy of Three Thrifty Guys then you may contact us at info@threethriftyguys.com
 
-Last updated Fri, 2 Dec 2011 12:26
+Last updated 13 May 2014
