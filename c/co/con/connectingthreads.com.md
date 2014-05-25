@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the connectingthreads.com privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123172248id_/http%3A//www.connectingthreads.com/cfhelp/Index.cfm%3Ftype%3Dct%26CSCatID%3D85%26CSItemID%3D205) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connectingthreads.com privacy policy that was archived on 2014-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140525063907id_/http%3A//www.connectingthreads.com/cfhelp/Index.cfm%3Ftype%3Dct%26CSCatID%3D85%26CSItemID%3D205) for the most accurate reproduction.*
 
 # Connecting Threads Customer Service Help Index
 
