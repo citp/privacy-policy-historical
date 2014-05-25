@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the fallingskies.com privacy policy that was archived on 2013-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131221010150id_/http%3A//www.tntdrama.com/title/display/%3Foid%3D6620) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fallingskies.com privacy policy that was archived on 2014-05-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140525045138id_/http%3A//www.tntdrama.com/title/display/%3Foid%3D6620) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js ie10plus" itemscope="" itemtype="http://schema.org/WebPage" "=""><!--<![endif]--><head>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <style>
 div#mainBodyContainer {top:-1px;}
-div#footer{margin-top:73px;}
+div#footer{margin-top:0px;}
 #coBranding{position:absolute;width: 260px;height: 38px;top: 55px;display:none;}
 </style>
 <meta http-equiv="pics-label" content="(PICS-1.1 &quot;http://www.icra.org/ratingsv02.html&quot; l gen true for &quot;http://www.tntdrama.com&quot; r (ng 1 ni 1 nr 1 ve 1 vg 1 vr 1 lc 1 oz 1 ca 1) gen true for &quot;http://alt.tntdrama.com&quot; r (ng 1 ni 1 nr 1 ve 1 vg 1 vr 1 lc 1 oz 1 ca 1) gen true for &quot;http://tntcgi.com&quot; r (ng 1 ni 1 nr 1 ve 1 vg 1 vr 1 lc 1 oz 1 ca 1) gen true for &quot;http://phptnttv.com&quot; r (ng 1 ni 1 nr 1 ve 1 vg 1 vr 1 lc 1 oz 1 ca 1) gen true for &quot;http://i.tntdrama.com&quot; r (ng 1 ni 1 nr 1 ve 1 vg 1 vr 1 lc 1 oz 1 ca 1) &quot;http://www.rsac.org/ratingsv01.html&quot; labels for &quot;http://www.tntdrama.com&quot; generic true ratings (n 0 s 4 v 4 l 2) &quot;http://www.classify.org/safesurf/&quot; L gen true for &quot;http://www.tntdrama.com/&quot; r (SS~~000 3 SS~~001 3 SS~~005 3)) &quot;http://www.weburbia.com/safe/ratings.htm&quot; labels for &quot;http://www.tntdrama.com&quot; generic true ratings (s 2) )">
@@ -27,7 +27,7 @@ div#footer{margin-top:73px;}
 <link rel="stylesheet" type="text/css" href="">
 <!-- The URL for favicon should point to on PROD http://i.cdn.turner.com/tegwebapps/tnt/tnt-www/favicon.ico All OTHER environments /favicon.ico -->
 <link rel="shortcut icon" href="/favicon.ico">
-<script type="text/javascript" src="https://web.archive.org/web/20150128205132/http://cdn.krxd.net/user_data/segments/3?pubid=e9eaedd3-c1da-4334-82f0-d7e3ff883c87&amp;technographics=1&amp;callback=Krux.ns._default.kxjsonp_userData"></script><script type="text/javascript" src="https://web.archive.org/web/20150128205132/http://beacon.krxd.net/optout_check?callback=Krux.ns._default.kxjsonp_optOutCheck"></script><script type="text/javascript" async="" src="//web.archive.org/web/20150128205132/http://ml314.com/tag.aspx?2412020"></script><script async="" src="//web.archive.org/web/20150128205132/http://cdn.krxd.net/ctjs/controltag.js.c111f5d96e086aec31fbe122eea0e995"></script><script type="text/javascript" async="" src="https://web.archive.org/web/20131007220752/http://cdn.krxd.net/controltag?confid=ITcAwecV"></script><script src="http://i.cdn.turner.com/tegwebapps/tnt/tnt-www/js/jquery.1.7.1.min.js" type="text/javascript"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20150128205132/http://cdn.krxd.net/user_data/segments/3?pubid=e9eaedd3-c1da-4334-82f0-d7e3ff883c87&amp;technographics=1&amp;callback=Krux.ns._default.kxjsonp_userData"></script><script type="text/javascript" src="https://web.archive.org/web/20150128205132/http://beacon.krxd.net/optout_check?callback=Krux.ns._default.kxjsonp_optOutCheck"></script><script type="text/javascript" async="" src="//web.archive.org/web/20150128205132/http://ml314.com/tag.aspx?2412020"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=380399088769181"></script><script async="" src="//web.archive.org/web/20150128205132/http://cdn.krxd.net/ctjs/controltag.js.c111f5d96e086aec31fbe122eea0e995"></script><script type="text/javascript" async="" src="https://web.archive.org/web/20131007220752/http://cdn.krxd.net/controltag?confid=ITcAwecV"></script><script src="http://i.cdn.turner.com/tegwebapps/tnt/tnt-www/js/jquery.1.7.1.min.js" type="text/javascript"></script>
 <script type="text/javascript" src="/js/flashobject.js"></script>
 <script type="text/javascript" src="/js/ais.js"></script><script src="https://web.archive.org/web/20131007220752/http://www.ugdturner.com/xd.sjs"></script>
 <script type="text/javascript" src="/js/cnn_adspaces.js"></script>
@@ -112,7 +112,21 @@ body { background:url() top center no-repeat #000; }
 $(document).ready(function(){
 $('#topLogo').animate({opacity: 0},2500, function(){$('#topLogo').removeClass();});
 $('#topLogo').animate({opacity: 1}, 500);
+$("#searchForm").submit(function(event){
+event.preventDefault();
+submitForm();
 });
+});
+function submitForm(){
+var searchString = $("#theSearchInput input").val();
+if(searchString == "" || searchString == 'Search the site' || searchString == "Invalid Search" || searchString == "Search TNTDrama.com" || searchString == "Search TNTDrama.com video"){
+$('#theSearchInput input').val('Invalid Search');
+return false;
+}else{
+var windowLoc = "/search/searchresults.jsp?query=" + searchString + "&searchType=all";
+window.location = windowLoc;
+}
+}
 </script>
 </head>
 <body onload="checkLoginState();" bgcolor="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
@@ -195,20 +209,18 @@ $('#topnavShop').hover(function(){$(this).show();},function(){$(this).hide();});
 <div id="topnavSeries" class="topNavSubmenu">
 <ul class="navBlock-top" itemscope="" itemtype="http://schema.org/WPHeader">
 <li>
-<a itemprop="url" href="/series/templates/splashTemplate/?oid=651815" target="">APB with Troy Dunn</a></li>
+<a itemprop="url" href="/series/apb-with-troy-dunn/" target="">APB with Troy Dunn</a></li>
 <li>
 <a itemprop="url" href="/series/bostons-finest/" target="">Boston's Finest</a></li>
-<li>
-<a itemprop="url" href="/christmasinwashington/" target="">Christmas in Washington</a></li>
 <li>
 <a itemprop="url" href="/series/cold-justice" target="">Cold Justice</a></li>
 <li>
 <a itemprop="url" href="http://www.dallastnt.com" target="">Dallas</a></li>
 <li>
 <a itemprop="url" href="http://fallingskies.com" target="">Falling Skies</a></li>
-</ul><ul class="navBlock-top">
 <li>
 <a itemprop="url" href="/series/franklinandbash/" target="">Franklin &amp; Bash</a></li>
+</ul><ul class="navBlock-top">
 <li>
 <a itemprop="url" href="/series/inside-job/" target="">Inside Job</a></li>
 <li>
@@ -216,23 +228,33 @@ $('#topnavShop').hover(function(){$(this).show();},function(){$(this).hide();});
 <li>
 <a itemprop="url" href="/series/legends/" target="">Legends</a></li>
 <li>
+<a itemprop="url" href="/series/the-librarians/" target="">The Librarians</a></li>
+<li>
 <a itemprop="url" href="/series/majorcrimes/" target="">Major Crimes</a></li>
 <li>
 <a itemprop="url" href="/series/marshal-law-texas/" target="">Marshal Law: Texas</a></li>
 </ul><ul class="navBlock-top">
 <li>
-<a itemprop="url" href="http://mobcity.com" target="">Mob City</a></li>
+<a itemprop="url" href="/series/murder-in-the-first/" target="">Murder in the First</a></li>
+<li>
+<a itemprop="url" href="/series/on-the-menu/" target="">On the Menu</a></li>
 <li>
 <a itemprop="url" href="/series/perception/" target="">Perception</a></li>
 <li>
 <a itemprop="url" href="/series/private-lives-of-nashville-wives/" target="">Private Lives of Nashville Wives</a></li>
 <li>
+<a itemprop="url" href="/series/proof/" target="">Proof</a></li>
+<li>
+<a itemprop="url" href="/series/public-morals/" target="">Public Morals</a></li>
+</ul><ul class="navBlock-top">
+<li>
 <a itemprop="url" href="/series/rizzoli-and-isles/" target="">Rizzoli &amp; Isles</a></li>
 <li>
 <a itemprop="url" href="/series/save-our-business/" target="">Save Our Business</a></li>
 <li>
-<a itemprop="url" href="http://sagawards.tntdrama.com" target="">Screen Actors Guild Awards</a></li>
-</ul><ul class="navBlock-top">
+<a itemprop="url" href="/series/transporter-the-series/" target="">Transporter: The Series</a></li>
+<li>
+<a itemprop="url" href="/series/wake-up-call/" target="">Wake Up Call</a></li>
 <li>
 <a itemprop="url" href="/series" target="">All Series</a></li>
 </ul>
@@ -252,7 +274,7 @@ $('#topnavShop').hover(function(){$(this).show();},function(){$(this).hide();});
 <li>
 <a itemprop="url" href="/title/display/?oid=544464" target="_blank">NASCAR</a></li>
 <li>
-<a itemprop="url" href="/sports/nba" target="_blank">NBA</a></li>
+<a itemprop="url" href="http://www.nba.com/playoffs/" target="_blank">NBA</a></li>
 </ul>
 <div class="clear"></div>
 </div>
@@ -307,16 +329,9 @@ $('#topnavShop').hover(function(){$(this).show();},function(){$(this).hide();});
 <li>
 <a itemprop="url" href="http://shop.tntdrama.com/?v=tnt_dvds-and-bluray-disc&amp;ecid=PRF-TV1-400002&amp;pa=PRF-TV1-400002" target="">DVD &amp; Blu Ray</a></li>
 <li>
-<a itemprop="url" href="http://shop.tntdrama.com/?v=tnt_books-and-music&amp;ecid=PRF-TV1-400003&amp;pa=PRF-TV1-400003" target="">Books &amp; Music</a></li>
-<li>
-<a itemprop="url" href="http://shop.tntdrama.com/?v=tnt_today-on-tnt&amp;ecid=PRF-TV1-400004&amp;pa=PRF-TV1-400004" target="">Today on TNT</a></li>
-<li>
 <a itemprop="url" href="http://shop.tntdrama.com/?v=tnt_gear&amp;ecid=PRF-TV1-400005&amp;pa=PRF-TV1-400005" target="">TNT Gear</a></li>
 <li>
 <a itemprop="url" href="http://shop.tntdrama.com/?v=All&amp;fsal&amp;ecid=PRF-TV1-400006&amp;pa=PRF-TV1-400006" target="">Sale </a></li>
-</ul><ul class="navBlock-top">
-<li>
-<a itemprop="url" href="http://www.hsn.com/content/Dallas_Landing_Page/62?cm_mmc=partner-_-TNT-_-Dallas-_-TNTDrama-dropdown" target="">HSN Get the Look</a></li>
 </ul>
 <div class="clear"></div>
 </div>
@@ -324,19 +339,22 @@ $('#topnavShop').hover(function(){$(this).show();},function(){$(this).hide();});
 <div id="topnavFullEpisodes" class="topNavSubmenu">
 <ul class="navBlock-top" itemscope="" itemtype="http://schema.org/WPHeader">
 <li><a itemprop="url" href="/video/?cid=107908">Movies</a></li>
+<li><a itemprop="url" href="/video/?cid=703214">APB with Troy Dunn</a></li>
 <li><a itemprop="url" href="/video/?cid=123771">Bones</a></li>
-<li><a itemprop="url" href="/video/?cid=467336">Boston's Finest</a></li>
 <li><a itemprop="url" href="/video/?cid=364458">Castle</a></li>
 <li><a itemprop="url" href="/video/?cid=60730">Charmed</a></li>
-<li><a itemprop="url" href="/video/?cid=597536">Hawaii Five-0</a></li>
+<li><a itemprop="url" href="/series/cold-justice/full-episodes/">Cold Justice</a></li>
 </ul><ul class="navBlock-top">
+<li><a itemprop="url" href="http://www.dallastnt.com/series/dallas/video/">Dallas</a></li>
+<li><a itemprop="url" href="/video/?cid=597536">Hawaii Five-0</a></li>
 <li><a itemprop="url" href="/video/?cid=348919">Major Crimes</a></li>
-<li><a itemprop="url" href="/video/?cid=667370">Marshal Law: Texas</a></li>
 <li><a itemprop="url" href="/video/?cid=101144">The Mentalist</a></li>
-<li><a itemprop="url" href="/series/mob-city/">Mob City</a></li>
+<li><a itemprop="url" href="/video/?cid=345064">Perception</a></li>
+<li><a itemprop="url" href="/series/private-lives-of-nashville-wives/video/">Private Lives of Nashville Wives</a></li>
+</ul><ul class="navBlock-top">
+<li><a itemprop="url" href="/video/?cid=61778">Rizzoli &amp; Isles</a></li>
 <li><a itemprop="url" href="/video/?cid=174654">Smallville</a></li>
 <li><a itemprop="url" href="/video/?cid=59900">Supernatural</a></li>
-</ul><ul class="navBlock-top">
 </ul>
 <div class="clear"></div>
 </div>
@@ -356,11 +374,11 @@ $('#topnavShop').hover(function(){$(this).show();},function(){$(this).hide();});
 <div id="socialHeader">
 <!-- site search -->
 <div id="searchContainer">
-<form id="searchForm" method="get" action="javascript: runSearch(document.getElementById('searchForm').query.value, 'all');">
-<div id="theSearchButton" onclick="document.getElementById('searchForm').submit();">
+<form id="searchForm">
+<div id="theSearchButton" onclick="submitForm()">
 </div>
 <div id="theSearchInput">
-<input id="searchHeaderInput" type="text" maxlength="50" name="query" class="search" value="Search TNTDrama.com" onfocus="if(this.value == 'Search TNTDrama.com') {this.value='';}" onblur="if(this.value=='') {this.value='Search TNTDrama.com';}"> 
+<input id="searchHeaderInput" type="text" maxlength="50" name="query" class="search" value="Search TNTDrama.com" onfocus="if(this.value == 'Search TNTDrama.com' || this.value == 'Invalid Search') {this.value='';}" onblur="if(this.value=='') {this.value='Search TNTDrama.com';}"> 
 </div>
 </form>
 </div>
@@ -454,7 +472,14 @@ email: <a href="mailto:privacy.tnt@turner.com">privacy.tnt@turner.com</a><br>
 <!-- begin /includes/display_bottomm2012.jsp -->
 <div id="featureAdSection">
 <div class="third">
-<script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=380399088769181";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
 <script src="/js/largeSocialMedia.js" type="text/javascript"></script>
 <link rel="stylesheet" type="text/css" href="/css/largeSocialMedia.css?clear">
 <div id="socialMediaWidgetContainer"><div class="pTitle" id="title-connected"></div>
@@ -467,40 +492,11 @@ email: <a href="mailto:privacy.tnt@turner.com">privacy.tnt@turner.com</a><br>
 </div>
 <div id="socialMediaWidget">
 <div id="socialMediaWidgetFB">
-<fb:like-box href="http://www.facebook.com/TNTweknowdrama" width="293" height="257" colorscheme="dark" show_faces="true" stream="false" header="false"></fb:like-box>
+<fb:like-box href="http://www.facebook.com/TNTweknowdrama" width="288" height="257" colorscheme="dark" show_faces="true" stream="false" header="false"></fb:like-box>
 </div>
 <div id="socialMediaWidgetTW">
-<script src="http://widgets.twimg.com/j/2/widget.js" type="text/javascript"></script>
-<script>
-new TWTR.Widget({
-version: 2,
-type: 'profile',
-rpp: 10,
-interval: 6000,
-width: 285,
-height: 170,
-theme: {
-shell: {
-background: '#333333',
-color: '#ebebeb'
-},
-tweets: {
-background: '#111111',
-color: '#ffffff',
-links: '#79c9fe'
-}
-},
-features: {
-scrollbar: true,
-loop: false,
-live: false,
-hashtags: true,
-timestamp: true,
-avatars: true,
-behavior: 'all'
-}
-}).render().setUser('tntweknowdrama').start();
-</script>
+<a class="twitter-timeline" href="https://twitter.com/tntweknowdrama" width="288" height="257" data-widget-id="428643967823929344">Tweets by @tntweknowdrama</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 </div>
 <div id="socialMediaWidgetGG">
 <a href="http://getglue.com" class="glue-checkin-widget" data-type="feed" data-title=" Check-ins" data-objectid="" data-width="285" data-height="265" data-headerbgcolor="#333" data-headertextcolor="#EEE" data-bodybgcolor="#111" data-bordercolor="#333" data-bodytextcolor="#A8A8A8" data-subtextcolor="#999" data-linkcolor="#79c9fe" data-checkincolor="#a9a9a9">Check-in on GetGlue</a>
@@ -517,8 +513,8 @@ behavior: 'all'
 </div>
 </div>
 <!-- /Main content -->
-<!-- begin footer_2010.jsp -->
- <!-- /mainBody -->
+<!-- begin footer_2012.jsp -->
+<footer>
 <script src="http://content.dl-rms.com/rms/mother/18197/nodetag.js"></script>
 <script src="http://js.revsci.net/gateway/gw.js?csid=A09801"></script>
 <script>
@@ -539,7 +535,7 @@ cnnad_ugsync();
 <a class="ftrlnk" href="http://www.tntdrama.com/title/display/?oid=391810" itemprop="url">closed captioning</a> || 
 <a class="ftrlnk" href="http://tsed.turner.com/tnt" itemprop="url">advertise with us</a> || 
 <a class="ftrlnk" href="http://support.tntdrama.com" itemprop="url">ask tnt</a> || 
-<a class="ftrlnk" href="/sitemap/" itemprop="url">sitemap</a> || 
+<a class="ftrlnk" href="/sitemap.xml" itemprop="url">sitemap</a> || 
 <a class="ftrlnk" href="http://www.tbs.com" target="_blank" itemprop="url">tbs.com</a> || 
 <a class="ftrlnk" href="http://www.tcm.com" target="_blank" itemprop="url">tcm.com</a> || 
 <a class="ftrlnk" href="http://www.trutv.com" target="_blank" itemprop="url">truTV</a><br>
@@ -571,6 +567,7 @@ var google_remarketing_only = true;
 </div>
 </noscript>
 </div>
+</footer>
  <!-- /mainBodyContainer -->
 <img src="/cookie.crumb" width="1" height="1">
 <script language="JavaScript">
@@ -585,7 +582,7 @@ var tnt_contentType = "";
 var tnt_templateType = "";
 </script>
 <script language="JavaScript" type="text/javascript" src="http://i.cdn.turner.com/tegwebapps/tnt/tnt-static/jsmd/www-set-metadata.js"></script>
-<script language="JavaScript" type="text/javascript" src="http://i.cdn.turner.com/tegwebapps/tnt/tnt-static/jsmd/jsmd.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://i.cdn.turner.com/analytics/tnt/jsmd-prod.js"></script>
 <script language="JavaScript">
 var pageURL = window.location.pathname;
 if(pageURL.indexOf("/.element/ssi/ads.iframes/") == -1 && pageURL.indexOf("/doubleclick/dartiframe.html") == -1) {
@@ -603,6 +600,31 @@ s.events='event7';
 s.tl(this,'o','MyTNT:Bookmark Page');
 }
 </script>
+ <!-- /mainBody -->
+<!-- smartbanner -->
+<link rel="stylesheet" href="/css/jquery.smartbanner.css" type="text/css" media="screen">
+<link rel="apple-touch-icon" href="/images/tnt_app.jpg">
+<script src="/js/jquery.smartbanner.js"></script>
+<script type="text/javascript">
+var deviceAgent = navigator.userAgent.toLowerCase(),
+isIPad = deviceAgent.match(/(ipad)/),
+isIPhone = deviceAgent.match(/(iphone|ipod)/);
+isAndroid = deviceAgent.match(/Android/i);
+if(isIPad) {
+$('head').append('<meta name="apple-itunes-app" content="app-id=460494135">');
+}else if(isIPhone) {
+$('head').append('<meta name="apple-itunes-app" content="app-id=385621762">');
+}else if(isAndroid){
+isAndroidPhone = deviceAgent.match(/(Mobile)/i);
+if(isAndroidPhone){
+$('head').append('<meta name="google-play-app" content="app-id=com.turner.tnt.android.networkapp">');
+}else{
+$('head').append('<meta name="google-play-app" content="app-id=com.turner.tnt">');
+}
+}
+$(function() { $.smartbanner() } )
+</script>
+<!-- /smartbanner -->
 
 
 <div class="kxhead" data-id="ITcAwecV" style="display:none !important;"><span class="kxtag kxinvisible" data-id="28180" data-alias="Rubicon User Matching"><script>
