@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zurich.com.my privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113024000id_/http%3A//www.zurich.com.my/Main/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zurich.com.my privacy policy that was archived on 2014-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140525052849id_/http%3A//www.zurich.com.my/Main/Privacy.aspx) for the most accurate reproduction.*
 
 # Zurich Insurance Malaysia - Privacy Policy
 
@@ -47,4 +47,4 @@ Zurich Insurance Malaysia Berhad may update this Privacy Policy from time to tim
 If you have any questions about this Privacy Policy, please contact us.  
 
 
-Click [here](https://web.archive.org/web/20131113024000id_/http%3A//www.zurich.com.my/Customer/EnquiryForm.aspx) to send your enquiry.
+Click [here](https://web.archive.org/web/20140525052849id_/http%3A//www.zurich.com.my/Customer/EnquiryForm.aspx) to send your enquiry.
