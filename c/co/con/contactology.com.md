@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contactology.com privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123195701id_/https%3A//www.contactology.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contactology.com privacy policy that was archived on 2014-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140525073256id_/https%3A//www.contactology.com/privacy.php) for the most accurate reproduction.*
 
 # Contactology - Privacy Policy
 
@@ -107,5 +107,6 @@ By Phone: 866-363-0670
 By Email: [support@contactology.com](mailto:support@contactology.com)
 
 By Mail:  
-316 Holland Street Mall  
+501 Washington St.  
+Suite C  
 Durham, North Carolina 27701
