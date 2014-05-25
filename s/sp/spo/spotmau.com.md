@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the spotmau.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425081116id_/http%3A//www.spotmau.com/site/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spotmau.com privacy policy that was archived on 2014-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140525165719id_/http%3A//www.spotmau.com/site/privacy.aspx) for the most accurate reproduction.*
 
 # Spotmau.com - Computer Service
 
-The following privacy policy describes the information and privacy practices for Spotmau, services provided at your home or office, **Spotmau.com** and other retail locations. This privacy policy describes how Spotmau will collect and use your information. 
-
+The following privacy policy describes the information and privacy practices for Spotmau, services provided at your home or office, **Spotmau.com** and other retail locations. This privacy policy describes how Spotmau will collect and use your information.  
 We recognize that when you choose to provide us with information about yourself, you trust us to act in a responsible manner. Spotmau has created this policy to inform you how your Personal Information will be treated if you use the Site or order our Services. In general, you can visit the Site without telling us who you are or revealing any information about yourself. It is our intent to let you know before we collect personally identifiable information from you.
 
 This privacy policy may not apply to Web sites that are accessible through the **Spotmau.com** may contain links to other sites operated by third parties including. We encourage you to read the privacy policies of those our sites to learn how we collect, use, share and secure your information.
@@ -46,9 +45,8 @@ Our Services help diagnose and resolve technology problems that you may have. Sp
 
  **Monitoring of the Services**
 
-Spotmau has the right, but no obligation, to monitor and record the performance of the Services, including telephone calls and online sessions with the Spotmau Software and you hereby acknowledge and agree to such activities. Spotmau may use the data collected during such recordings for purposes of improving customer service, internal training, and internal market research and will handle such data as described in the previous paragraph with respect to Personal Information that may be contained in such data. Spotmau will delete such data after a reasonable amount of time. 
-
-**Cookies**
+Spotmau has the right, but no obligation, to monitor and record the performance of the Services, including telephone calls and online sessions with the Spotmau Software and you hereby acknowledge and agree to such activities. Spotmau may use the data collected during such recordings for purposes of improving customer service, internal training, and internal market research and will handle such data as described in the previous paragraph with respect to Personal Information that may be contained in such data. Spotmau will delete such data after a reasonable amount of time.  
+ **Cookies**
 
 Our website sends cookies to your browser, for example to help the login/logout process work smoothly. You are free to set your web browser to accept or reject these cookies.
 
