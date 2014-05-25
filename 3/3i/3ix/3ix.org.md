@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3ix.org privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220112821id_/http%3A//www.3ix.org/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3ix.org privacy policy that was archived on 2014-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140525215621id_/http%3A//www.3ix.org/privacy_policy.php) for the most accurate reproduction.*
 
 # www.3ix.org - 3iX Networks - Privacy Policy - Our commitment to protect your privacy
 
