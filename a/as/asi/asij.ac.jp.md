@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asij.ac.jp privacy policy that was archived on 2013-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131115022529id_/http%3A//www.asij.ac.jp/page.aspx%3Fpid%3D246) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asij.ac.jp privacy policy that was archived on 2014-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140525024513id_/http%3A//www.asij.ac.jp/page.aspx%3Fpid%3D246) for the most accurate reproduction.*
 
 # ASIJ Privacy Policy - The American School in Japan
 
@@ -6,7 +6,7 @@
 
 Throughout our web pages, we provide links to other servers that may contain information of interest to our readers. We take no responsibility for, and exercise no control over, the organizations, views, or accuracy of the information contained on other servers.
 
-Creating a text link from your website to our site does not require permission. If you have a link you'd like us to consider adding to our website, please send an email to [webmaster@asij.ac.jp](mailto:webmaster@asij.ac.jp) with the subject "Link request."
+Creating a text link from your website to our site does not require permission.
 
 **Use of Text and Images**
 
@@ -31,7 +31,7 @@ We collect and store only the following information about you: the name of the d
  
 
   * **Directories**  
-Information provided by you that you opt to be included in any directories on our website, such as the alumni directory or mentoring/careers site, will be accessible to other members of our online community. This information is not accessible to the general public and you may opt in or out of these directories at any point. We may provide contact information to class agents, reunion organizers and other groups directly affiliated to ASIJ in order that they can contact you about events.  
+Information provided by you that you opt to be included in any directories on our website, such as the alumni directory or mentoring/careers site, will be accessible to other members of our online community. This information is not accessible to the general public and you may opt in or out of these directories at any point. We may provide contact information to class agents, reunion organizers and other groups directly affiliated to ASIJ in order that they can contact you about events. Directories are provided for the personal and private use of ASIJ community members and information in school directories is not to be used for any type of marketing, direct mailing, commercial solicitations, promotions, chain mail, spamming, or the promotion of political agendas. Information contained in directories should not be posted to external sites or shared without the permission of the relevant individual.  
  
 
   * **Class Letters and Alumni News**  
@@ -39,7 +39,7 @@ You are invited to submit personal news items for publication on the website, cl
  
 
   * **Opt-Out or Change Your Contact Information**  
-Our site provides users the opportunity to opt-out of receiving communications from us through a special [online form](http://www.asij.ac.jp/page.aspx?pid=188). You cannot remove yourself from our database, but you can prevent unwanted communication should you desire. You can also change your contact information using the alumni profile or through MOL for current parents. ****
+Our site provides users the opportunity to opt-out of receiving communications from us through a special [online form](http://www.asij.ac.jp/page.aspx?pid=188). You cannot remove yourself from our database, but you can prevent unwanted communication should you desire. You can also change your contact information using the alumni profile or through MOL for current parents.
 
 
 
