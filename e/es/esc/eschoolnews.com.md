@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eschoolnews.com privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123201041id_/http%3A//www.eschoolnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eschoolnews.com privacy policy that was archived on 2014-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140525151857id_/http%3A//www.eschoolnews.com/privacy-policy) for the most accurate reproduction.*
 
 # eSchool News | Privacy Policy | eSchool News
 
@@ -114,5 +114,3 @@ Online Director
 7920 Norfolk Ave., Suite 900  
 Bethesda, MD 20814  
 Top of Page
-
-[](http://twitter.com/home/?status=Privacy+Policy+http%3A%2F%2Fwww.eschoolnews.com%2F%3Fp%3D24161+via+%40eschoolnews "Post to Twitter")
