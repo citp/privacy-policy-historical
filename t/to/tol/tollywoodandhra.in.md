@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tollywoodandhra.in privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125001251id_/http%3A//www.tollywoodandhra.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tollywoodandhra.in privacy policy that was archived on 2014-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140526161438id_/http%3A//www.tollywoodandhra.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - TollywoodAndhra.in
+# Privacy Policy » TollywoodAndhra.in
 
 As per law act Privacy Policy is not required if you don’t want it:  
 However, a privacy policy lets your website users know exactly what you do  
@@ -94,5 +94,5 @@ Please also visit our Terms and Conditions section establishing the use, disclai
 and limitations of liability governing the use of our website .
 
 Contact us if you have any question regarding our privacy policy: contact us  
-at [admin@tollywoodandhra.in](https://web.archive.org/web/20131125001251id_/http://www.tollywoodandhra.in/privacy-policy/admin@tollywoodandhra.in "admin@tollywoodandhra.in") if you have any question regarding any issues of our  
+at [admin@tollywoodandhra.in](https://web.archive.org/web/20140526161438id_/http://www.tollywoodandhra.in/privacy-policy/admin@tollywoodandhra.in "admin@tollywoodandhra.in") if you have any question regarding any issues of our  
 privacy policy.
