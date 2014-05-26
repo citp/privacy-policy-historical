@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the stallion-theme.com privacy policy that was archived on 2013-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131007012320id_/http%3A//www.stallion-theme.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stallion-theme.com privacy policy that was archived on 2014-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140526070529id_/http%3A//www.stallion-theme.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Privacy Policy for the Website **http://www.stallion-theme.com/stallion-child-themes**
+Privacy Policy for the Website ****
 
 The privacy of our visitors is important to us.
 
@@ -22,8 +22,8 @@ We may use DART cookies for ad serving through Google’s DoubleClick, which pla
 
 **Third Party Advertisements**
 
-We may also use third party advertisements to support our website such as Google AdSense, Chitika, Clickbank, Kontera, Infolinks, LinkWords… Some of these advertisers may use cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes, for example showing London Restaurant ads to someone in London or showing relevant ads based on sites you have recently visited for example showing car ads to someone who visits car relevant websites.
+We may also use third party advertisements to support our website such as Google AdSense, Chitika, Clickbank, Kontera, Infolinks Some of these advertisers may use cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes, for example showing London Restaurant ads to someone in London or showing relevant ads based on sites you have recently visited for example showing car ads to someone who visits car relevant websites.
 
 You can disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as commenting.
 
-End of Privacy Policy for the Website **http://www.stallion-theme.com/stallion-child-themes**
+End of Privacy Policy for the Website ****
