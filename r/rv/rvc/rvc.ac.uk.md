@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rvc.ac.uk privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126014413id_/http%3A//www.rvc.ac.uk/About/Policy/Website/PrivacyPolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rvc.ac.uk privacy policy that was archived on 2014-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140526111752id_/http%3A//www.rvc.ac.uk/About/Policy/Website/PrivacyPolicy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -82,7 +82,7 @@ The following lists provide guidance for first point of contact and should be us
 
 
 
-To find contact details for individual members of staff see the [People](https://web.archive.org/About/People/Index.cfm) page or for information about specific members of academic staff see [Staff Pages](https://web.archive.org/Staff/Index.cfm).
+To find contact details for individual people see the [People Finder](https://web.archive.org/About/People/Index.cfm) page or for information about specific members of staff, clinical training scholars and PhD students see [RVC People](https://web.archive.org/Staff/Index.cfm).
 
 ## Travel Directions
 
