@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motoraty.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105011630id_/http%3A//motoraty.com/cars/%3Fpage_id%3D1973) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motoraty.com privacy policy that was archived on 2014-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140526155903id_/http%3A//www.motoraty.com/cars/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Motoraty
 
@@ -125,7 +125,7 @@ We may distribute mobile text messages to mobile devices of customers who have r
 The help function of your browser should contain instructions to set your computer to accept all cookies, to notify you when a cookie is issued, or to not receive cookies at any time. If you set your computer to not receive cookies at any time, certain personalized services cannot be provided to you, and accordingly, you may not be able to take full advantage of all of the motoraty.com features.
   * **Third Party Cookies  
 **  
-To opt-out of third-party vendor’s cookies on other websites, please [contact us](http://www.motoraty.com/motoraty/moto/?page_id=1946 "motorty.com contact us page")
+To opt-out of third-party vendor’s cookies on other websites, please [contact us](http://www.motoraty.com/cars/contact-us "motorty.com contact us page")
 
 
   * In order to keep your information accurate and complete, you can access or update some of your information in the following ways: 
