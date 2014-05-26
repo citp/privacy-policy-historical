@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the binarynote.com privacy policy that was archived on 2013-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131107221728id_/http%3A//binarynote.com/rakesh-kumar) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the binarynote.com privacy policy that was archived on 2014-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140526112603id_/http%3A//www.binarynote.com/rakesh-kumar) for the most accurate reproduction.*
 
-# Privacy Policy of RSA Technologies.in
+# Privacy Policy for binarynote.com users
 
 At www.binarynote.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.binarynote.com and how it is used.
 
