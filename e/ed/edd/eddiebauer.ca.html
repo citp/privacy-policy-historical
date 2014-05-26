@@ -1,0 +1,1642 @@
+<!--The following is the downloaded HTML source of the eddiebauer.ca privacy policy that was archived on 2014-05-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140526203941id_/http%3A//www.eddiebauer.com/company-info/company-info-privacy-and-security.jsp) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html class="no-js deprecated"><!--<![endif]--><head>
+<script src="//tags.tiqcdn.com/utag/eddiebauer/desktopeb/prod/utag.js" type="text/javascript" async=""></script><script type="text/javascript" async="" src="https://sb.monetate.net/js/1/a-0ade99f8/p/eddiebauer.com/439597/g"></script><script src="/static/js/monetate/monetate.js"></script>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE9,IE=edge,chrome=1">
+<title>Privacy And Security | Company Information | Eddie Bauer</title>
+<meta name="description" content="Find information about Eddie Bauer Privacy And Security in Company Information">
+<meta name="robots" content="index,follow">
+<!-- Place favicon.ico and apple-touch-icon.png in the img/ico directory -->
+<link rel="shortcut icon" href="/static/img/favicon.ico">
+<link rel="stylesheet" href="/static/css/normalize.css">
+<link rel="stylesheet" href="/static/css/smoothness/jquery-ui-1.9.2.custom.min.css">
+<link rel="stylesheet" href="/static/css/storelocator.css">
+<link rel="stylesheet" href="/static/css/main.css">
+<link rel="stylesheet" href="/static/css/content.css">
+<link rel="stylesheet" href="/static/css/floatbox.css" type="text/css">
+<link rel="stylesheet" href="/static/css/print.css" type="text/css" media="print">
+<link rel="stylesheet" href="/static/css/custserv.css">
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="/static/js/jquery/jquery-1.7.2.min.js"><\/script>')</script><script src="/static/js/jquery/jquery-1.7.2.min.js"></script>
+<script>
+loginLoaded = false;
+loginData = '';
+//search scope asynchronous call
+var url = '/xhr/login-status-header.jsp';
+var loc = location.href;
+if(loc.indexOf('DPSLogout') >= 0 && loc.indexOf('logout.jsp') < 0) {
+url += '?DPSLogout=true';
+}
+$.ajax({
+type:'get',
+url:url,
+cache: false,
+dataType: 'html',
+success: function(data) {
+loginData = data;
+if($('#headShoppingHolder').length) {
+if(!loginLoaded) {
+$('.login-bag-links').remove();
+$('#header-login-cart').append(data);
+$('.welcome-name-header').text($('#welcome-name-hidden').text());
+}
+loginLoaded = true;
+} else {
+$(document).ready(function() {
+if(!loginLoaded) {
+$('.login-bag-links').remove();
+$('#header-login-cart').append(data);
+$('.welcome-name-header').text($('#welcome-name-hidden').text());
+}
+loginLoaded = true;
+});
+}
+}
+});
+</script>
+<script>
+//search scope asynchronous call
+var url = '/gadgets/search-scope.jsp';
+var loc = location.href;
+if(loc.indexOf('DPSLogout') >= 0 && loc.indexOf('logout.jsp') < 0) {
+url += '?DPSLogout=true';
+}
+$.ajax({
+type:'get',
+url:url,
+cache:true,
+async:true,
+dataType:'json',
+success:function(responseData) {
+$(document).ready(function() {
+var	responseObject = responseData,
+searchScopeList = $('<ul />').addClass("nav-list"),
+searchScope;
+try {
+searchScope = responseObject.contents[0].searchScope;
+for (var scopeFacet in searchScope) {
+var	searchScopeListItem = $('<li />'),
+searchScopeItem = $('<a href="#" class="addScope" />').data('scope', searchScope[scopeFacet].facetValue).text(searchScope[scopeFacet].name).attr('id','srchDrpDwn'+searchScope[scopeFacet].name);
+searchScopeListItem.append(searchScopeItem);
+searchScopeList.append(searchScopeListItem);
+}
+$('#headSearchCats').append(searchScopeList);
+$('.addScope').on('click', function() {
+var	context = $(this);
+$('#triggerTitle').text(context.text())
+$('#searchScopeValue').val(context.data('scope'));
+openUtNavWidget(context.parents('.ut-trigger'));
+return false;
+});
+}
+catch (exception) {
+// errors
+}
+});
+}
+});
+</script>
+<!--[if lt IE 9]>
+<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<script src="/static/js/global.js"></script>
+</head>
+<body class="custserv-page customer-service company-info company-info-privacy-and-security"><!--[if lt IE 7]>
+<p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="//browsehappy.com/">upgrade your browser</a>.</p>
+<![endif]-->
+<script type="text/javascript">
+(function(a,b,c,d){
+a='//tags.tiqcdn.com/utag/eddiebauer/desktopeb/prod/utag.js';
+b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
+a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+})();
+</script>
+<div id="headerBg"></div>
+<div id="siteContainer"><!-- <header> -->
+<div id="header">
+<a id="pageTop"></a>
+<div id="headerTop" class="clearfix">
+<div id="userHolder" class="left">
+<span id="headSlogan" class="left ir">LIVE YOUR ADVENTURE(TM)</span>
+<p class="left">Welcome
+<span class="welcome-name-header">
+</span>
+</p>
+</div>
+<div id="utilityNav" class="right">
+<ul id="header-login-cart" class="clearfix nav-list">
+<li>1-800-426-8020</li>
+<li id="headLocator">
+<a class="ut-trigger" href="#">Store Locator <span class="downArrow">&nbsp;▼</span></a>
+<div id="utLocator" class="ut-flyout clearfix">
+<div class="clearfix">
+<a class="ut-close-btn" href="#"><span></span>CLOSE</a>
+</div>
+<form action="#" id="headLocatorZipcodeForm" class="clearfix" method="GET">
+<div class="form-item clearfix">
+<label for="headLocatorZip">Zip/Postal Code</label><br>
+<input type="text" placeholder="Enter Zip Code" id="headLocatorZip" value="" data-error="Please enter a zip code or postal code." maxlength="10" class="left text-input">
+<input type="image" alt="GO" src="/static/img/btn-go.png" id="headLocatorZipSubmit" class="left button" data-type="zipcode" data-error="Please enter a zip code or postal code.">
+</div>
+</form>
+<p class="bold">OR</p>
+<form action="#" id="headLocatorCityForm">
+<div class="form-item">
+<label for="headLocatorCity">City:</label><br>
+<input type="text" class="text-input" name="headLocatorCity" id="headLocatorCity" value="" data-type="city" data-error="Please enter a City and select a State or Province.">
+</div>
+<div class="form-item clearfix">
+<label for="headlocatorState">State/Province:</label><br>
+<select name="headlocatorState" id="headlocatorState" class="left" data-type="state" data-error="Please enter a City and select a State or Province.">
+<option selected="selected" value="Select One">Select One</option>
+<option value="AL">Alabama</option>
+<option value="AK">Alaska</option>
+<option value="AB">Alberta</option>
+<option value="AZ">Arizona</option>
+<option value="AR">Arkansas</option>
+<option value="BC">British Columbia</option>
+<option value="CA">California</option>
+<option value="CO">Colorado</option>
+<option value="CT">Connecticut</option>
+<option value="DE">Delaware</option>
+<option value="DC">District of Columbia</option>
+<option value="FL">Florida</option>
+<option value="GA">Georgia</option>
+<option value="HI">Hawaii</option>
+<option value="ID">Idaho</option>
+<option value="IL">Illinois</option>
+<option value="IN">Indiana</option>
+<option value="IA">Iowa</option>
+<option value="KS">Kansas</option>
+<option value="KY">Kentucky</option>
+<option value="LA">Louisiana</option>
+<option value="ME">Maine</option>
+<option value="MB">Manitoba</option>
+<option value="MD">Maryland</option>
+<option value="MA">Massachusetts</option>
+<option value="MI">Michigan</option>
+<option value="MN">Minnesota</option>
+<option value="MS">Mississippi</option>
+<option value="MO">Missouri</option>
+<option value="MT">Montana</option>
+<option value="NE">Nebraska</option>
+<option value="NV">Nevada</option>
+<option value="NB">New Brunswick</option>
+<option value="NH">New Hampshire</option>
+<option value="NJ">New Jersey</option>
+<option value="NM">New Mexico</option>
+<option value="NY">New York</option>
+<option value="NF">Newfoundland</option>
+<option value="NC">North Carolina</option>
+<option value="ND">North Dakota</option>
+<option value="NS">Nova Scotia</option>
+<option value="OH">Ohio</option>
+<option value="OK">Oklahoma</option>
+<option value="ON">Ontario</option>
+<option value="OR">Oregon</option>
+<option value="PA">Pennsylvania</option>
+<option value="RI">Rhode Island</option>
+<option value="SK">Saskatchewan</option>
+<option value="SC">South Carolina</option>
+<option value="SD">South Dakota</option>
+<option value="TN">Tennessee</option>
+<option value="TX">Texas</option>
+<option value="UT">Utah</option>
+<option value="VT">Vermont</option>
+<option value="VA">Virginia</option>
+<option value="WA">Washington</option>
+<option value="WV">West Virginia</option>
+<option value="WI">Wisconsin</option>
+<option value="WY">Wyoming</option>
+</select>
+<input type="image" alt="GO" src="/static/img/btn-go.png" id="headLocatorCitySubmit" class="left button">
+</div>
+</form>
+</div>
+</li>
+<li id="headSupport">
+<a class="ut-trigger" href="#">Help &amp; Support <span class="downArrow">&nbsp;▼</span></a>
+<div id="utSupport" class="ut-flyout clearfix">
+<div class="clearfix">
+<a class="ut-close-btn" href="#"><span></span>CLOSE</a>
+</div>
+<ul class="nav-list">
+<li><a href="/custserv/customer-service-landing.jsp">Customer Service</a></li>
+<li><a href="/user/order-history.jsp">Order Status</a></li>
+<li><a href="/custserv/ask-eddie-email.jsp">Email Us</a></li>
+<li><a href="/custserv/customer-service-returns-and-exchanges.jsp">Return Policy</a></li>
+<li><a href="/custserv/customer-service-shipping.jsp">Shipping</a></li>
+</ul>
+</div>
+</li>
+<li class="login-bag-links"><a href="/user/login.jsp"></a>
+<span id="welcome-name-hidden" class="no-display">
+to Eddie Bauer</span>
+</li>
+<li id="headShoppingHolder" class="clearfix login-bag-links">
+<img id="headBagIcon" class="left" src="/static/img/head-bag-icon.png" alt="">
+<p id="shoppingBagLink" class="left"><a id="shoppingChangeColor" title="Go To My Shopping Bag" href="/checkout/bag.jsp">SHOPPING BAG</a></p>
+</li>
+</ul>
+<script>
+if($('#headShoppingHolder').length) {
+if(!loginLoaded && loginData != '') {
+$('.login-bag-links').remove();
+$('#header-login-cart').append(loginData);
+$('.welcome-name-header').text($('#welcome-name-hidden').text());
+loginLoaded = true;
+}
+}
+</script>
+</div>
+</div>
+<div id="headerMid">
+<a href="/" id="ebLogo">
+<img src="/static/img/head-logo.png" alt="Eddie Bauer(R). EST.1920">
+</a>
+<div id="headSearchHolder" class="clearfix">
+<div id="headSearchMenu" class="left">
+</div>
+<form id="headSearchForm" class="clearfix" action="/search" method="get" autocomplete="off">
+<div class="form-item right clearfix">
+<input type="hidden" name="Dy" value="1">
+<input type="hidden" name="Nty" value="1">
+<input id="searchScopeValue" type="hidden" name="N" value="0">
+<input id="searchScopeValue" type="hidden" name="previousPage" value="SRC">
+<input class="left text-input" id="searchText" type="text" name="Ntt" placeholder="Search by ITEM # or KEYWORD">
+<input id="headSearchSubmit" class="button left" type="image" src="/static/img/btn-head-search.png" alt="GO">
+</div>
+<div id="headSearchCategoryHolder" class="left">
+<a class="ut-trigger" href="#"><span id="triggerTitle">All</span><span class="downArrow">&nbsp;▼</span></a>
+<div id="headSearchCats" class="ut-flyout"><ul class="nav-list"><li><a href="#" class="addScope" id="srchDrpDwnALL">ALL</a></li><li><a href="#" class="addScope" id="srchDrpDwnMEN">MEN</a></li><li><a href="#" class="addScope" id="srchDrpDwnWOMEN">WOMEN</a></li><li><a href="#" class="addScope" id="srchDrpDwnKIDS">KIDS</a></li><li><a href="#" class="addScope" id="srchDrpDwnGEAR">GEAR</a></li><li><a href="#" class="addScope" id="srchDrpDwnHOME">HOME</a></li><li><a href="#" class="addScope" id="srchDrpDwnFIRST ASCENT">FIRST ASCENT</a></li><li><a href="#" class="addScope" id="srchDrpDwnTRAVEX">TRAVEX</a></li><li><a href="#" class="addScope" id="srchDrpDwnSPORT SHOP">SPORT SHOP</a></li></ul></div>
+</div>
+<div id="headSearchTypeAheadHolder" class="dimSearchSuggestContainer"></div></form>
+<script type="text/javascript">
+var	searchSuggestObject = {
+minAutoSuggestInputLength:"3",
+autoSuggestServiceUrl:"/autosuggestjson.jsp",
+collection:"/content/Shared/Auto-Suggest Panels",
+searchUrl:"",
+containerClass:"dimSearchSuggestContainer",
+defaultImage:""
+};
+</script>
+</div>
+<div style="position:absolute;top:44px;right:0px;"><a href="#" class="tip-trigger-bottom">Try our improved search</a></div>
+</div>
+<div id="mainNav">
+<ul class="nav-list"><li><a id="navHomePage" href="/">HOME PAGE</a></li>
+<li><a id="nav-men" href="/browse/men/_/N-26y3?tab=men&amp;cm_sp=topnav-_-Men-_-main&amp;previousPage=GNAV">Men</a>
+</li><li><a id="nav-women" href="/browse/women/_/N-278f?tab=women&amp;cm_sp=topnav-_-Women-_-main&amp;previousPage=GNAV">Women</a>
+</li><li><a id="nav-kids" href="/browse/kids/_/N-275n?tab=kids&amp;cm_sp=topnav-_-Kids-_-main&amp;previousPage=GNAV">Kids</a>
+</li><li><a id="nav-outerwear" href="/outerwear/?tab=outerwear&amp;cm_sp=topnav-_-Outerwear-_-main&amp;previousPage=GNAV">Outerwear</a>
+</li><li><a id="nav-shoes" href="/shoes/?tab=shoes&amp;cm_sp=topnav-_-Shoes-_-main&amp;previousPage=GNAV">Shoes</a>
+</li><li><a id="nav-home" href="/browse/home/_/N-275E?tab=home&amp;cm_sp=topnav-_-Home-_-main&amp;previousPage=GNAV">Home</a>
+</li><li><a id="nav-gear" href="/browse/gear/_/N-2752?tab=gear&amp;cm_sp=topnav-_-Gear-_-main&amp;previousPage=GNAV">Gear</a>
+</li><li><a id="nav-firstascent" href="/browse/first-ascent/_/N-274k?tab=first-ascent&amp;cm_sp=topnav-_-FirstAscent-_-main&amp;previousPage=GNAV">First Ascent</a>
+</li><li><a id="nav-travex" href="/browse/travex/_/N-277Y?tab=travex&amp;cm_sp=topnav-_-Travex-_-main&amp;previousPage=GNAV">Travex</a>
+</li><li><a id="nav-sportshop" href="/browse/sport-shop/_/N-277n?tab=sport-shop&amp;cm_sp=topnav-_-SportShop-_-main&amp;previousPage=GNAV">Sport Shop</a>
+</li><li><a id="nav-sale" href="/browse/sale/_/N-1z13XM6?tab=sale&amp;cm_sp=topnav-_-Sale-_-main&amp;previousPage=GNAV">Sale</a>
+</li><li><a id="nav-clearance" href="/browse/clearance/_/N-y?isClearCat=true&amp;tab=clearance&amp;cm_sp=topnav-_-Clearance-_-main&amp;previousPage=GNAV">Clearance</a>
+</li></ul></div>
+<div id="navFlyouts"><div id="flyout-men" class="nav-flyout clearfix"><div class="f-arrow-holder"><img class="f-arrow" src="/static/img/flyout-arrow.png" alt=""></div><div class="f-col left f-sep-dark"><ul class="nav-list f-sep-light"><li><p>Shop by category</p></li><li><a href="/browse/accessories/men/_/N-26y4?cm_sp=sub-_-Men-_-Accessories&amp;currentNode=accessories&amp;tab=men&amp;previousPage=GNAV">Accessories</a></li><li><a href="/browse/fleece/men/_/N-27ap?cm_sp=sub-_-Men-_-Fleece&amp;currentNode=fleece&amp;tab=men&amp;previousPage=GNAV">Fleece</a></li><li><a href="/browse/jeans/men/_/N-276a?cm_sp=sub-_-Men-_-Jeans&amp;currentNode=jeans&amp;tab=men&amp;previousPage=GNAV">Jeans</a></li><li><a href="/browse/outerwear/men/_/N-276b?cm_sp=sub-_-Men-_-Outerwear&amp;currentNode=outerwear&amp;tab=men&amp;previousPage=GNAV">Outerwear</a></li><li><a href="/browse/pants/men/_/N-276h?cm_sp=sub-_-Men-_-Pants&amp;currentNode=pants&amp;tab=men&amp;previousPage=GNAV">Pants</a></li><li><a href="/browse/shirts/men/_/N-277c?cm_sp=sub-_-Men-_-Shirts&amp;currentNode=shirts&amp;tab=men&amp;previousPage=GNAV">Shirts</a></li><li><a href="/browse/shoes/men/_/N-276q?cm_sp=sub-_-Men-_-Shoes&amp;currentNode=shoes&amp;tab=men&amp;previousPage=GNAV">Shoes</a></li><li><a href="/browse/shorts/men/_/N-276z?cm_sp=sub-_-Men-_-Shorts&amp;currentNode=shorts&amp;tab=men&amp;previousPage=GNAV">Shorts</a></li><li><a href="/browse/sweaters/men/_/N-2774?cm_sp=sub-_-Men-_-Sweaters&amp;currentNode=sweaters&amp;tab=men&amp;previousPage=GNAV">Sweaters</a></li><li><a href="/browse/sweatshirts---hoodies/men/_/N-2778?cm_sp=sub-_-Men-_-SweatshirtsHoodies&amp;currentNode=sweatshirts---hoodies&amp;tab=men&amp;previousPage=GNAV">Sweatshirts &amp; Hoodies</a></li><li><a href="/browse/underwear/men/_/N-277k?cm_sp=sub-_-Men-_-Underwear&amp;currentNode=underwear&amp;tab=men&amp;previousPage=GNAV">Underwear</a></li><style type="text/css">
+.nav_list li a {white-space:nowrap;}</style></ul></div><div class="f-col left"><ul class="nav-list"><div class="f-col left">
+	<ul class="nav-list">
+		<li>
+			<p>
+				Featured Collections</p>
+		</li>
+		<li>
+			<a href="/browse/men/_/N-1z13xeyZ26y3?tab=men&amp;cm_sp=topnav-_-Men-_-main&amp;previousPage=GNAV">New Arrivals</a></li>
+		<li>
+			<a href="/browse/tall/men/_/N-1z13yphZ26y3?isLeftNav=true&amp;tab=men&amp;previousPage=FNAV&amp;currentNode=Tall">Big &amp; Tall Sizes</a></li>
+		<li>
+			&nbsp;</li>
+		<li>
+			<p>
+				Specials</p>
+		</li>
+		<li>
+			<a href="/browse/men/_/N-1z13xm6Z26y3?Endeca_user_segments=men&amp;currentNode=Men&amp;tab=sale&amp;previousPage=GNAV">Sale</a></li>
+		<li>
+			<a href="/browse/men/_/N-yZ26y3?currentNode=Men&amp;tab=men&amp;isClearCat=true&amp;previousPage=GNAV">Clearance</a></li>
+	</ul>
+</div></ul></div></div><div id="flyout-women" class="nav-flyout clearfix"><div class="f-arrow-holder"><img class="f-arrow" src="/static/img/flyout-arrow.png" alt=""></div><div class="f-col left f-sep-dark"><ul class="nav-list f-sep-light"><li><p>Shop by Category</p></li><li><a href="/browse/accessories/women/_/N-278g?cm_sp=sub-_-Women-_-Accessories&amp;currentNode=accessories&amp;tab=women&amp;previousPage=GNAV">Accessories</a></li><li><a href="/browse/baselayers/women/_/N-278q?cm_sp=sub-_-Women-_-Baselayers&amp;currentNode=baselayers&amp;tab=women&amp;previousPage=GNAV">Baselayers</a></li><li><a href="/browse/blazers/women/_/N-278t?cm_sp=sub-_-Women-_-Blazers&amp;currentNode=blazers&amp;tab=women&amp;previousPage=GNAV">Blazers</a></li><li><a href="/browse/dresses---skirts/women/_/N-278y?cm_sp=sub-_-Women-_-DressesSkirts&amp;currentNode=dresses---skirts&amp;tab=women&amp;previousPage=GNAV">Dresses &amp; Skirts</a></li><li><a href="/browse/fleece/women/_/N-27as?cm_sp=sub-_-Women-_-Fleece&amp;currentNode=fleece&amp;tab=women&amp;previousPage=GNAV">Fleece</a></li><li><a href="/browse/jeans/women/_/N-2791?cm_sp=sub-_-Women-_-Jeans&amp;currentNode=jeans&amp;tab=women&amp;previousPage=GNAV">Jeans</a></li><li><a href="/browse/outerwear/women/_/N-2792?cm_sp=sub-_-Women-_-Outerwear&amp;currentNode=outerwear&amp;tab=women&amp;previousPage=GNAV">Outerwear</a></li><li><a href="/browse/pants---capris/women/_/N-2798?cm_sp=sub-_-Women-_-PantsCapris&amp;currentNode=pants---capris&amp;tab=women&amp;previousPage=GNAV">Pants &amp; Capris</a></li><li><a href="/browse/shoes/women/_/N-279f?cm_sp=sub-_-Women-_-Shoes&amp;currentNode=shoes&amp;tab=women&amp;previousPage=GNAV">Shoes</a></li><li><a href="/browse/shorts/women/_/N-278u?cm_sp=sub-_-Women-_-Shorts&amp;currentNode=shorts&amp;tab=women&amp;previousPage=GNAV">Shorts</a></li><li><a href="/browse/tops/women/_/N-279z?cm_sp=sub-_-Women-_-Tops&amp;currentNode=tops&amp;tab=women&amp;previousPage=GNAV">Tops</a></li></ul></div><div class="f-col left"><ul class="nav-list"><div class="f-col left">
+	<ul class="nav-list">
+		<li>
+			<p>
+				FEATURED COLLECTIONS</p>
+		</li>
+		<li>
+			<a href="/browse/women/_/N-1z13xeyZ278f?tab=women&amp;cm_sp=topnav-_-Women-_-main&amp;previousPage=GNAV">New Arrivals</a></li>
+		<li style="line-height:0px;">
+			<hr style="margin-top:7px;margin-bottom:6px;">
+		</li>
+		<li>
+			<a href="/browse/petite/women/_/N-1z13ypcZ278f?isLeftNav=true&amp;currentNode=Petite&amp;tab=women&amp;previousPage=GNAV">Petite Shop</a></li>
+		<li>
+			<a href="/browse/tall/women/_/N-1z13yphZ278f?isLeftNav=true&amp;currentNode=Tall&amp;tab=women&amp;previousPage=GNAV">Tall Shop</a></li>
+		<li>
+			<a href="/browse/plus/women/_/N-1z13xdjZ278f?isLeftNav=true&amp;currentNode=Plus&amp;tab=women&amp;previousPage=GNAV">Plus Shop</a></li>
+		<li>
+			&nbsp;</li>
+		<li>
+			<p>
+				SPECIALS</p>
+		</li>
+		<li>
+			<a href="/browse/women/_/N-1z13xm6Z278f?Endeca_user_segments=women&amp;currentNode=Women&amp;tab=Sale&amp;previousPage=GNAV">Sale</a></li>
+		<li>
+			<a href="/browse/women/_/N-yZ278f?currentNode=Women&amp;tab=women&amp;isClearCat=true&amp;previousPage=GNAV">Clearance</a></li>
+	</ul>
+</div></ul></div></div><div id="flyout-kids" class="nav-flyout clearfix"><div class="f-arrow-holder"><img class="f-arrow" src="/static/img/flyout-arrow.png" alt=""></div><div class="f-col left"><ul class="nav-list"><li><p>Shop By Category</p></li><li><a href="/browse/boys/kids/_/N-275o?cm_sp=sub-_-Kids-_-Boys&amp;currentNode=boys&amp;tab=kids&amp;previousPage=GNAV">Boys</a></li><li><a href="/browse/girls/kids/_/N-275t?cm_sp=sub-_-Kids-_-Girls&amp;currentNode=girls&amp;tab=kids&amp;previousPage=GNAV">Girls</a></li><li><a href="/browse/baby---toddler/kids/_/N-275y?cm_sp=sub-_-Kids-_-BabyToddler&amp;currentNode=baby---toddler&amp;tab=kids&amp;previousPage=GNAV">Baby &amp; Toddler</a></li><style type="text/css">
+#flyout-kids div.f-col:nth-child(4) ul.nav-list li:nth-child(2) {
+    display:none;
+}</style></ul></div></div><div id="flyout-outerwear" class="nav-flyout clearfix"><div class="f-arrow-holder"><img class="f-arrow" src="/static/img/flyout-arrow.png" alt=""></div><div class="f-col left f-sep-dark"><ul class="nav-list f-sep-light"><li><p><a href="/browse/outerwear/men/_/N-276b?cm_sp=sub-_-men-_-outerwear&amp;currentNode=outerwear&amp;tab=men&amp;previousPage=GNAV">Men</a></p></li><li><a href="/browse/jackets/outerwear/men/_/N-276d?cm_sp=sub-_-Men-_-OuterwearJackets&amp;currentNode=jackets&amp;tab=men&amp;previousPage=GNAV">Jackets</a></li><li><a href="/browse/pants--rain--snow--ski/outerwear/men/_/N-276e?cm_sp=sub-_-Men-_-OuterwearPantsRainSnowSki&amp;currentNode=pants--rain--snow--ski&amp;tab=men&amp;previousPage=GNAV">Pants: Rain, Snow, Ski</a></li><li><a href="/browse/parkas/outerwear/men/_/N-27ag?cm_sp=sub-_-Men-_-OuterwearParkas&amp;currentNode=parkas&amp;tab=men&amp;previousPage=GNAV">Parkas</a></li><li><a href="/browse/performance-fleece/outerwear/men/_/N-276f?cm_sp=sub-_-Men-_-OuterwearPerformanceFleece&amp;currentNode=performance-fleece&amp;tab=men&amp;previousPage=GNAV">Performance Fleece</a></li><li><a href="/browse/trenches---coats/outerwear/men/_/N-27ah?cm_sp=sub-_-Men-_-OuterwearTrenchesCoats&amp;currentNode=trenches---coats&amp;tab=men&amp;previousPage=GNAV">Trenches &amp; Coats</a></li><li><a href="/browse/vests/outerwear/men/_/N-276g?cm_sp=sub-_-Men-_-OuterwearVests&amp;currentNode=vests&amp;tab=men&amp;previousPage=GNAV">Vests</a></li></ul></div><div class="f-col left f-sep-dark"><ul class="nav-list f-sep-light"><li><p><a href="/browse/outerwear/women/_/N-2792?cm_sp=sub-_-women-_-outerwear&amp;currentNode=outerwear&amp;tab=women&amp;previousPage=GNAV">Women</a></p></li><li><a href="/browse/jackets/outerwear/women/_/N-2794?cm_sp=sub-_-Women-_-OuterwearJackets&amp;currentNode=jackets&amp;tab=women&amp;previousPage=GNAV">Jackets</a></li><li><a href="/browse/pants--rain--snow--ski/outerwear/women/_/N-2795?cm_sp=sub-_-Women-_-OuterwearPantsRainSnowSki&amp;currentNode=pants--rain--snow--ski&amp;tab=women&amp;previousPage=GNAV">Pants: Rain, Snow, Ski</a></li><li><a href="/browse/parkas/outerwear/women/_/N-27ak?cm_sp=sub-_-Women-_-OuterwearParkas&amp;currentNode=parkas&amp;tab=women&amp;previousPage=GNAV">Parkas</a></li><li><a href="/browse/performance-fleece/outerwear/women/_/N-2796?cm_sp=sub-_-Women-_-OuterwearPerformanceFleece&amp;currentNode=performance-fleece&amp;tab=women&amp;previousPage=GNAV">Performance Fleece</a></li><li><a href="/browse/trenches---coats/outerwear/women/_/N-27al?cm_sp=sub-_-Women-_-OuterwearTrenchesCoats&amp;currentNode=trenches---coats&amp;tab=women&amp;previousPage=GNAV">Trenches &amp; Coats</a></li><li><a href="/browse/vests/outerwear/women/_/N-2797?cm_sp=sub-_-Women-_-OuterwearVests&amp;currentNode=vests&amp;tab=women&amp;previousPage=GNAV">Vests</a></li></ul></div><div class="f-col left"><ul class="nav-list"><li><p><a href="/browse/outerwear/kids/_/N-275n?cm_sp=sub-_-kids-_-outerwear&amp;currentNode=outerwear&amp;tab=kids&amp;previousPage=GNAV">Kids</a></p></li><li><a href="/browse/boys/kids/_/N-275o?cm_sp=sub-_-Kids-_-Boys&amp;currentNode=boys&amp;tab=kids&amp;previousPage=GNAV">Boys</a></li><li><a href="/browse/girls/kids/_/N-275t?cm_sp=sub-_-Kids-_-Girls&amp;currentNode=girls&amp;tab=kids&amp;previousPage=GNAV">Girls</a></li><li><a href="/browse/baby---toddler/kids/_/N-275y?cm_sp=sub-_-Kids-_-BabyToddler&amp;currentNode=baby---toddler&amp;tab=kids&amp;previousPage=GNAV">Baby &amp; Toddler</a></li></ul></div></div><div id="flyout-shoes" class="nav-flyout clearfix"><div class="f-arrow-holder"><img class="f-arrow" src="/static/img/flyout-arrow.png" alt=""></div><div class="f-col left f-sep-dark"><ul class="nav-list f-sep-light"><li><p><a href="/browse/shoes/men/_/N-276q?cm_sp=sub-_-men-_-shoes&amp;currentNode=shoes&amp;tab=men&amp;previousPage=GNAV">Men</a></p></li><li><a href="/browse/boots/shoes/men/_/N-276r?cm_sp=sub-_-Men-_-ShoesBoots&amp;currentNode=boots&amp;tab=men&amp;previousPage=GNAV">Boots</a></li><li><a href="/browse/casual-comfort-shoes/shoes/men/_/N-276s?cm_sp=sub-_-Men-_-ShoesCasualComfortShoes&amp;currentNode=casual-comfort-shoes&amp;tab=men&amp;previousPage=GNAV">Casual Comfort Shoes</a></li><li><a href="/browse/hiking---trail-shoes/shoes/men/_/N-276u?cm_sp=sub-_-Men-_-ShoesHikingTrailShoes&amp;currentNode=hiking---trail-shoes&amp;tab=men&amp;previousPage=GNAV">Hiking &amp; Trail Shoes</a></li><li><a href="/browse/loafers---slip-on-shoes/shoes/men/_/N-276v?cm_sp=sub-_-Men-_-ShoesLoafersSliponShoes&amp;currentNode=loafers---slip-on-shoes&amp;tab=men&amp;previousPage=GNAV">Loafers &amp; Slip-on Shoes</a></li><li><a href="/browse/oxford-shoes/shoes/men/_/N-276w?cm_sp=sub-_-Men-_-ShoesOxfordShoes&amp;currentNode=oxford-shoes&amp;tab=men&amp;previousPage=GNAV">Oxford Shoes</a></li><li><a href="/browse/sandals/shoes/men/_/N-276x?cm_sp=sub-_-Men-_-ShoesSandals&amp;currentNode=sandals&amp;tab=men&amp;previousPage=GNAV">Sandals</a></li><li><a href="/browse/slippers/shoes/men/_/N-276y?cm_sp=sub-_-Men-_-ShoesSlippers&amp;currentNode=slippers&amp;tab=men&amp;previousPage=GNAV">Slippers</a></li></ul></div><div class="f-col left"><ul class="nav-list"><li><p><a href="/browse/shoes/women/_/N-279f?cm_sp=sub-_-women-_-shoes&amp;currentNode=shoes&amp;tab=women&amp;previousPage=GNAV">Women</a></p></li><li><a href="/browse/ballet-flats/shoes/women/_/N-279h?cm_sp=sub-_-Women-_-ShoesBalletFlats&amp;currentNode=ballet-flats&amp;tab=women&amp;previousPage=GNAV">Ballet Flats</a></li><li><a href="/browse/boots/shoes/women/_/N-279i?cm_sp=sub-_-Women-_-ShoesBoots&amp;currentNode=boots&amp;tab=women&amp;previousPage=GNAV">Boots</a></li><li><a href="/browse/hiking---trail-shoes/shoes/women/_/N-279g?cm_sp=sub-_-Women-_-ShoesHikingTrailShoes&amp;currentNode=hiking---trail-shoes&amp;tab=women&amp;previousPage=GNAV">Hiking &amp; Trail Shoes</a></li><li><a href="/browse/loafers---slip-on-shoes/shoes/women/_/N-279k?cm_sp=sub-_-Women-_-ShoesLoafersSliponShoes&amp;currentNode=loafers---slip-on-shoes&amp;tab=women&amp;previousPage=GNAV">Loafers &amp; Slip-on Shoes</a></li><li><a href="/browse/oxfords---lace-up-shoes/shoes/women/_/N-279l?cm_sp=sub-_-Women-_-ShoesOxfordsLaceupShoes&amp;currentNode=oxfords---lace-up-shoes&amp;tab=women&amp;previousPage=GNAV">Oxfords &amp; Lace-up Shoes</a></li><li><a href="/browse/sandals/shoes/women/_/N-279m?cm_sp=sub-_-Women-_-ShoesSandals&amp;currentNode=sandals&amp;tab=women&amp;previousPage=GNAV">Sandals</a></li><li><a href="/browse/slippers/shoes/women/_/N-279n?cm_sp=sub-_-Women-_-ShoesSlippers&amp;currentNode=slippers&amp;tab=women&amp;previousPage=GNAV">Slippers</a></li></ul></div></div><div id="flyout-home" class="nav-flyout clearfix"><div class="f-arrow-holder"><img class="f-arrow" src="/static/img/flyout-arrow.png" alt=""></div><div class="f-col left"><ul class="nav-list"><li><p>Shop by Category</p></li><li><a href="/browse/blankets---throws/home/_/N-275f?cm_sp=sub-_-Home-_-BlanketsThrows&amp;currentNode=blankets---throws&amp;tab=home&amp;previousPage=GNAV">Blankets &amp; Throws</a></li><li><a href="/browse/comforters/home/_/N-275g?cm_sp=sub-_-Home-_-Comforters&amp;currentNode=comforters&amp;tab=home&amp;previousPage=GNAV">Comforters</a></li><li><a href="/browse/duvet-covers---shams/home/_/N-275h?cm_sp=sub-_-Home-_-DuvetCoversShams&amp;currentNode=duvet-covers---shams&amp;tab=home&amp;previousPage=GNAV">Duvet Covers &amp; Shams</a></li><li><a href="/browse/mattress-pads/home/_/N-275i?cm_sp=sub-_-Home-_-MattressPads&amp;currentNode=mattress-pads&amp;tab=home&amp;previousPage=GNAV">Mattress Pads</a></li><li><a href="/browse/pillows/home/_/N-275j?cm_sp=sub-_-Home-_-Pillows&amp;currentNode=pillows&amp;tab=home&amp;previousPage=GNAV">Pillows</a></li><li><a href="/browse/sheets---pillowcases/home/_/N-275l?cm_sp=sub-_-Home-_-SheetsPillowcases&amp;currentNode=sheets---pillowcases&amp;tab=home&amp;previousPage=GNAV">Sheets &amp; Pillowcases</a></li></ul></div></div><div id="flyout-gear" class="nav-flyout clearfix"><div class="f-arrow-holder"><img class="f-arrow" src="/static/img/flyout-arrow.png" alt=""></div><div class="f-col left"><ul class="nav-list"><li><p>Shop By Category</p></li><li><a href="/browse/air-mattresses---pads/gear/_/N-2753?cm_sp=sub-_-Gear-_-AirMattressesPads&amp;currentNode=air-mattresses---pads&amp;tab=gear&amp;previousPage=GNAV">Air Mattresses &amp; Pads</a></li><li><a href="/browse/backpacks/gear/_/N-2754?cm_sp=sub-_-Gear-_-Backpacks&amp;currentNode=backpacks&amp;tab=gear&amp;previousPage=GNAV">Backpacks</a></li><li><a href="/browse/duffels---luggage/gear/_/N-2755?cm_sp=sub-_-Gear-_-DuffelsLuggage&amp;currentNode=duffels---luggage&amp;tab=gear&amp;previousPage=GNAV">Duffels &amp; Luggage</a></li><li><a href="/browse/hydration/gear/_/N-2756?cm_sp=sub-_-Gear-_-Hydration&amp;currentNode=hydration&amp;tab=gear&amp;previousPage=GNAV">Hydration</a></li><li><a href="/browse/knives---tools/gear/_/N-2757?cm_sp=sub-_-Gear-_-KnivesTools&amp;currentNode=knives---tools&amp;tab=gear&amp;previousPage=GNAV">Knives &amp; Tools</a></li><li><a href="/browse/lighting/gear/_/N-2758?cm_sp=sub-_-Gear-_-Lighting&amp;currentNode=lighting&amp;tab=gear&amp;previousPage=GNAV">Lighting</a></li><li><a href="/browse/messenger---laptop-bags/gear/_/N-2759?cm_sp=sub-_-Gear-_-MessengerLaptopBags&amp;currentNode=messenger---laptop-bags&amp;tab=gear&amp;previousPage=GNAV">Messenger &amp; Laptop Bags</a></li><li><a href="/browse/sleeping-bags/gear/_/N-275a?cm_sp=sub-_-Gear-_-SleepingBags&amp;currentNode=sleeping-bags&amp;tab=gear&amp;previousPage=GNAV">Sleeping Bags</a></li><li><a href="/browse/tents/gear/_/N-275c?cm_sp=sub-_-Gear-_-Tents&amp;currentNode=tents&amp;tab=gear&amp;previousPage=GNAV">Tents</a></li><li><a href="/browse/travel-accessories/gear/_/N-275d?cm_sp=sub-_-Gear-_-TravelAccessories&amp;currentNode=travel-accessories&amp;tab=gear&amp;previousPage=GNAV">Travel Accessories</a></li></ul></div></div><div id="flyout-firstascent" class="nav-flyout clearfix"><div class="f-arrow-holder"><img class="f-arrow" src="/static/img/flyout-arrow.png" alt=""></div><div class="f-col left f-sep-dark"><ul class="nav-list f-sep-light"><li><p><a href="/browse/men/first-ascent/_/N-274l?tab=first-ascent&amp;isLeftNav=true&amp;cm_sp=globalnav-_-firstascent-_-men&amp;previousPage=GNAV">Men</a></p></li><li><a href="/browse/hats--gloves---socks/men/first-ascent/_/N-274n?cm_sp=sub-_-FirstAscent-_-MenHatsGlovesSocks&amp;currentNode=hats--gloves---socks&amp;tab=first-ascent&amp;previousPage=GNAV">Hats, Gloves &amp; Socks</a></li><li><a href="/browse/jackets---vests/men/first-ascent/_/N-274m?cm_sp=sub-_-FirstAscent-_-MenJacketsVests&amp;currentNode=jackets---vests&amp;tab=first-ascent&amp;previousPage=GNAV">Jackets &amp; Vests</a></li><li><a href="/browse/pants---shorts/men/first-ascent/_/N-274o?cm_sp=sub-_-FirstAscent-_-MenPantsShorts&amp;currentNode=pants---shorts&amp;tab=first-ascent&amp;previousPage=GNAV">Pants &amp; Shorts</a></li><li><a href="/browse/shirts/men/first-ascent/_/N-274p?cm_sp=sub-_-FirstAscent-_-MenShirts&amp;currentNode=shirts&amp;tab=first-ascent&amp;previousPage=GNAV">Shirts</a></li></ul></div><div class="f-col left f-sep-dark"><ul class="nav-list f-sep-light"><li><p><a href="/browse/women/first-ascent/_/N-274q?tab=first-ascent&amp;isLeftNav=true&amp;cm_sp=globalnav-_-firstascent-_-women&amp;previousPage=GNAV">Women</a></p></li><li><a href="/browse/baselayers/women/first-ascent/_/N-27ae?cm_sp=sub-_-FirstAscent-_-WomenBaselayers&amp;currentNode=baselayers&amp;tab=first-ascent&amp;previousPage=GNAV">Baselayers</a></li><li><a href="/browse/hats--gloves---socks/women/first-ascent/_/N-274s?cm_sp=sub-_-FirstAscent-_-WomenHatsGlovesSocks&amp;currentNode=hats--gloves---socks&amp;tab=first-ascent&amp;previousPage=GNAV">Hats, Gloves &amp; Socks</a></li><li><a href="/browse/jackets---vests/women/first-ascent/_/N-274r?cm_sp=sub-_-FirstAscent-_-WomenJacketsVests&amp;currentNode=jackets---vests&amp;tab=first-ascent&amp;previousPage=GNAV">Jackets &amp; Vests</a></li><li><a href="/browse/pants---shorts/women/first-ascent/_/N-274t?cm_sp=sub-_-FirstAscent-_-WomenPantsShorts&amp;currentNode=pants---shorts&amp;tab=first-ascent&amp;previousPage=GNAV">Pants &amp; Shorts</a></li><li><a href="/browse/tops/women/first-ascent/_/N-274u?cm_sp=sub-_-FirstAscent-_-WomenTops&amp;currentNode=tops&amp;tab=first-ascent&amp;previousPage=GNAV">Tops</a></li></ul></div><div class="f-col left f-sep-dark"><ul class="nav-list f-sep-light"><li><p><a href="/browse/kids/first-ascent/_/N-274v?tab=first-ascent&amp;isLeftNav=true&amp;cm_sp=globalnav-_-firstascent-_-kids&amp;previousPage=GNAV">Kids</a></p></li><li><a href="/browse/boys/kids/first-ascent/_/N-274w?cm_sp=sub-_-FirstAscent-_-KidsBoys&amp;currentNode=boys&amp;tab=first-ascent&amp;previousPage=GNAV">Boys</a></li><li><a href="/browse/girls/kids/first-ascent/_/N-274x?cm_sp=sub-_-FirstAscent-_-KidsGirls&amp;currentNode=girls&amp;tab=first-ascent&amp;previousPage=GNAV">Girls</a></li><style>
+.honeybooboo {width:100px !important;}
+</style>
+<hr class="honeybooboo"><li><p class="f-cat-break"><a href="/browse/gear/first-ascent/_/N-274y?tab=first-ascent&amp;isLeftNav=true&amp;cm_sp=globalnav-_-firstascent-_-gear&amp;previousPage=GNAV">Gear</a></p></li><li><a href="/browse/backpacks---duffels/gear/first-ascent/_/N-2751?cm_sp=sub-_-FirstAscent-_-GearBackpacksDuffels&amp;currentNode=backpacks---duffels&amp;tab=first-ascent&amp;previousPage=GNAV">Backpacks &amp; Duffels</a></li><li><a href="/browse/sleeping-bags/gear/first-ascent/_/N-2750?cm_sp=sub-_-FirstAscent-_-GearSleepingBags&amp;currentNode=sleeping-bags&amp;tab=first-ascent&amp;previousPage=GNAV">Sleeping Bags</a></li><li><a href="/browse/tents/gear/first-ascent/_/N-274z?cm_sp=sub-_-FirstAscent-_-GearTents&amp;currentNode=tents&amp;tab=first-ascent&amp;previousPage=GNAV">Tents</a></li></ul></div><div class="f-col left"><ul class="nav-list"><style type="text/css">
+#flyout-firstascent a.guideLinks {
+    font-family: verdana;
+    letter-spacing: 0.05em;
+    margin-top: 5px;
+    padding-bottom: 5px;
+}
+
+    .guideBuiltLogo {
+        background: url("/static/img/guide_built/Guide_Built_new.gif") no-repeat scroll 1px 0 transparent;
+        height: 29px;
+        position: relative;
+        width: 130px;
+    }
+
+    .flyoutNav .content .col_4 {
+        margin-right: 20px;
+    }
+
+        .flyoutNav .content .col_4 .flyoutWrapContent {
+            padding-left: 0px;
+        }
+
+        .flyoutNav .content .col_4 .col2 {
+            padding-top: 5px;
+        }
+
+    .flyoutNav table {
+        border-collapse: collapse;
+    }
+
+    .flyoutNav th, .flyoutNav tr, .flyoutNav td {
+        padding: 0;
+        vertical-align: top;
+    }
+
+    .flyoutNav .seperator {
+        border-right: 1px dotted #636363;
+        display: block;
+        padding-right: 20px;
+    }
+
+    .flyoutNav td.divider {
+        height: 20px;
+    }
+
+    .flyoutNav.FA td a:hover {
+        text-decoration: underline;
+        color: #0098ff;
+    }
+
+    .flyoutNav .headerFlyout, .flyoutNav .headerFlyout a {
+        font-size: 12px;
+        font-weight: bold;
+        text-transform: uppercase;
+    }
+
+    .flyoutNav td.col1 {
+        width: 130px;
+        padding-top: 5px;
+        padding-right: 20px;
+    }
+
+        .flyoutNav td.col1 div.headerFlyout {
+            font-size: 16px;
+            letter-spacing: -.05px;
+        }
+
+    .flyoutNav td a.guideLinks {
+        margin-top: 5px;
+    }
+
+    .flyoutNav table.links {
+        margin-top: 10px;
+        position: relative;
+    }
+
+    .flyoutNav table hr {
+        border-bottom: 1px solid #ccc;
+        margin-top: 5px;
+        width: 260px;
+    }
+
+    .headerLink {
+        font-family: Arial, Lucida Sans Unicode, Lucida Grande, Verdana, Helvetica, sans-serif !important;
+        font-size: 12px !important;
+        line-height: 15px !important;
+        font-weight: bold !important;
+        color: #fff !important;
+        text-transform: none !important;
+    }
+
+    .copytextLink {
+        font-family: Arial, Lucida Sans Unicode, Lucida Grande, Verdana, Helvetica, sans-serif !important;
+        font-size: 10px !important;
+        line-height: 13px !important;
+        font-weight: normal !important;
+        color: #fff !important;
+        text-transform: none !important;
+    }
+
+    .flyoutNav td.col1 {
+        width: 130px;
+        padding-top: 5px;
+        padding-right: 20px;
+    }
+
+        .flyoutNav td.col1 div.headerFlyout {
+            font-size: 16px;
+            letter-spacing: -.05px;
+        }
+
+    .flyoutNav td a.guideLinks {
+        margin-top: 5px;
+        padding-bottom: 0 !important;
+    }
+
+    .flyoutNav table.links {
+        margin-top: 10px;
+        position: relative;
+    }
+
+    .flyoutNav table hr {
+        border-bottom: 1px solid #636363;
+        margin-top: 5px;
+        width: 260px;
+    }
+
+    .flyoutNav .copytext {
+        margin-top: 5px;
+        font-family: Lucida Sans Unicode, Lucida Grande, Verdana, Arial, Helvetica, sans-serif;
+        font-size: 10px;
+        line-height: 13px;
+        font-weight: normal;
+        color: #fff;
+        text-transform: none;
+    }
+
+    .flyoutNav .headerLink {
+        font-family: Arial, Lucida Sans Unicode, Lucida Grande, Verdana, Helvetica, sans-serif !important;
+        font-size: 12px;
+        line-height: 15px;
+        font-weight: bold !important;
+        color: #fff;
+        text-transform: none;
+    }
+
+    .flyoutNav .copytextLink {
+        font-family: Arial, Lucida Sans Unicode, Lucida Grande, Verdana, Helvetica, sans-serif !important;
+        font-size: 10px;
+        line-height: 15px;
+        font-weight: normal;
+        color: #fff;
+        text-transform: none;
+    }
+
+    .flyoutNav.FA td.hot a,
+    .flyoutNav.FA .headerLink a:hover,
+    .flyoutNav.FA .copytextLink a:hover {
+        color: #0098ff !important;
+    }
+
+    .flyoutNav.FA td.hot a,
+    .flyoutNav.FA a:hover .headerLink,
+    .flyoutNav.FA a:hover .copytextLink {
+        color: #0098ff !important;
+    }
+
+    @media screen and (-webkit-min-device-pixel-ratio:0) {
+        #flyout-firstascent .f-arrow {
+            left: 410px !important;
+        }
+    }
+
+    #flyout-firstascent {
+        width: 843px !important;
+        left: 57px !important;
+    }
+
+        #flyout-firstascent .f-arrow {
+            left: 470px !important;
+        }
+
+        #flyout-firstascent .headerLink {
+            font-family: Arial, Lucida Sans Unicode, Lucida Grande, Verdana, Helvetica, sans-serif !important;
+            font-size: 12px;
+            font-weight: bold;
+            line-height: 15px;
+            text-transform: none;
+            letter-spacing: 0.1em;
+        }
+
+        #flyout-firstascent .copytextLink {
+            font-family: Arial, Lucida Sans Unicode, Lucida Grande, Verdana, Helvetica, sans-serif !important;
+            font-size: 10px;
+            font-weight: normal;
+            line-height: 15px;
+            text-transform: none;
+        }
+
+        #flyout-firstascent a:hover {
+            color: #FAF9F9;
+        }
+
+    #header .nav-flyout li {
+        font-size: 12px;
+        line-height: 20px;
+        padding-right: 10px;
+    }
+
+    #header .nav-flyout div.col_4 {
+        display: inline;
+        float: right;
+    }
+
+    hr.honeybooboo {
+        border-bottom: 1px solid #636363 !important;
+        margin-top: 5px;
+        width: 125px !important;
+    }
+
+    #flyout-firstascent .f-sep-light {
+        border-right: 1px solid #787777;
+        height: 288px;
+        padding-right: 25px;
+    }
+
+    hr.sixteen {
+        margin-top: 16px !important;
+    }
+
+    .flyoutNav .headerLink {
+        font-weight: bold !important;
+    }</style>
+<table>
+	<tbody>
+		<tr>
+			<td class="col1">
+				<div class="guideBuiltLogo">
+					&nbsp;</div>
+				<div class="copytext">
+					First Ascents is a line of world-class expedition and ski wear created by Eddie Bauer with some of the best mountain and ski guides in the world.</div>
+			</td>
+			<td class="col2 image">
+				<img src="/static/img/menu/flyoutFirstAscent.jpg"></td>
+		</tr>
+	</tbody>
+</table>
+<table class="links">
+	<tbody>
+		<tr>
+			<td>
+				<div class="headerLink">
+					<a class="guideLinks" href="/first_ascent/guide_built/guide_built.jsp?previousPage=GNAV" name="Fly Out: First Ascent: Category: Guide Built">Guide Built</a></div>
+				<div class="copytextLink">
+					Our design philosophy</div>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<hr class="sixteen">
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<div class="headerLink">
+					<a class="guideLinks" href="/first_ascent/first_ascent_team/team.jsp?previousPage=GNAV" name="Fly Out: First Ascent: Category: Meet the Team">Meet the Team</a></div>
+				<div class="copytextLink">
+					World-class guides and athletes</div>
+			</td>
+		</tr>
+		<tr>
+			<td class="copytextLink">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td>
+				<hr>
+			</td>
+		</tr>
+		<tr>
+			<td class="last">
+				<div class="headerLink">
+					<a class="guideLinks" href="http://blog.firstascent.com" name="Fly Out: First Ascent: Category: Born Out There" target="_blank">Live Your Adventure</a></div>
+				<div class="copytextLink">
+					The Official Eddie Bauer Blog</div>
+				<form action="" id="videoForm" method="post">
+					<input data-param="" id="videoId" name="videoId" type="hidden" value=""></form>
+			</td>
+		</tr>
+	</tbody>
+</table></ul></div></div><div id="flyout-travex" class="nav-flyout clearfix"><div class="f-arrow-holder"><img class="f-arrow" src="/static/img/flyout-arrow.png" alt=""></div><div class="f-col left f-sep-dark"><ul class="nav-list f-sep-light"><li><p><a href="/browse/men/travex/_/N-277z?tab=travex&amp;isLeftNav=true&amp;cm_sp=globalnav-_-travex-_-men&amp;previousPage=GNAV">Men</a></p></li><li><a href="/browse/accessories/men/travex/_/N-27af?cm_sp=sub-_-Travex-_-MenAccessories&amp;currentNode=accessories&amp;tab=travex&amp;previousPage=GNAV">Accessories</a></li><li><a href="/browse/jackets---vests/men/travex/_/N-2783?cm_sp=sub-_-Travex-_-MenJacketsVests&amp;currentNode=jackets---vests&amp;tab=travex&amp;previousPage=GNAV">Jackets &amp; Vests</a></li><li><a href="/browse/pants---shorts/men/travex/_/N-2782?cm_sp=sub-_-Travex-_-MenPantsShorts&amp;currentNode=pants---shorts&amp;tab=travex&amp;previousPage=GNAV">Pants &amp; Shorts</a></li><li><a href="/browse/shirts/men/travex/_/N-2780?cm_sp=sub-_-Travex-_-MenShirts&amp;currentNode=shirts&amp;tab=travex&amp;previousPage=GNAV">Shirts</a></li></ul></div><div class="f-col left f-sep-dark"><ul class="nav-list f-sep-light"><li><p><a href="/browse/women/travex/_/N-2785?tab=travex&amp;isLeftNav=true&amp;cm_sp=globalnav-_-travex-_-women&amp;previousPage=GNAV">Women</a></p></li><li><a href="/browse/accessories/women/travex/_/N-27aj?cm_sp=sub-_-Travex-_-WomenAccessories&amp;currentNode=accessories&amp;tab=travex&amp;previousPage=GNAV">Accessories</a></li><li><a href="/browse/shorts/women/travex/_/N-2788?cm_sp=sub-_-Travex-_-WomenShorts&amp;currentNode=shorts&amp;tab=travex&amp;previousPage=GNAV">Shorts</a></li><li><a href="/browse/dresses/women/travex/_/N-2789?cm_sp=sub-_-Travex-_-WomenDresses&amp;currentNode=dresses&amp;tab=travex&amp;previousPage=GNAV">Dresses</a></li><li><a href="/browse/jackets---vests/women/travex/_/N-278b?cm_sp=sub-_-Travex-_-WomenJacketsVests&amp;currentNode=jackets---vests&amp;tab=travex&amp;previousPage=GNAV">Jackets &amp; Vests</a></li><li><a href="/browse/pants---capris/women/travex/_/N-2787?cm_sp=sub-_-Travex-_-WomenPantsCapris&amp;currentNode=pants---capris&amp;tab=travex&amp;previousPage=GNAV">Pants &amp; Capris</a></li><li><a href="/browse/skirts---skorts/women/travex/_/N-278a?cm_sp=sub-_-Travex-_-WomenSkirtsSkorts&amp;currentNode=skirts---skorts&amp;tab=travex&amp;previousPage=GNAV">Skirts &amp; Skorts</a></li><li><a href="/browse/tops/women/travex/_/N-2786?cm_sp=sub-_-Travex-_-WomenTops&amp;currentNode=tops&amp;tab=travex&amp;previousPage=GNAV">Tops</a></li></ul></div><div class="f-col left"><ul class="nav-list"><li><p><a href="/browse/gear/travex/_/N-278D?tab=travex&amp;isLeftNav=true&amp;cm_sp=globalnav-_-travex-_-gear&amp;previousPage=GNAV">Gear</a></p></li><li><a href="/browse/gear/gear/travex/_/N-2752?cm_sp=sub-_-Travex-_-GearGear&amp;currentNode=gear&amp;tab=travex&amp;previousPage=GNAV">Gear</a></li><style type="text/css">
+#flyout-travex {
+	left: 457px !important;
+}
+#flyout-travex .f-arrow {
+	left: 170px !important;
+}
+#header #flyout-travex .f-col:nth-child(4) .nav-list li:nth-child(2) {
+	display: none;
+}</style></ul></div></div><div id="flyout-sportshop" class="nav-flyout clearfix" style="right: 200px;"><div class="f-arrow-holder"><img class="f-arrow" src="/static/img/flyout-arrow.png" alt=""></div><div class="f-col left f-sep-dark"><ul class="nav-list f-sep-light"><li><p><a href="/browse/men/sport-shop/_/N-277o?&amp;isLeftNav=true&amp;currentNode=men&amp;tab=sport-shop&amp;cm_sp=globalnav-_-sportshop-_-men&amp;previousPage=GNAV">Men</a></p></li><li><a href="/browse/fishing-clothing/men/sport-shop/_/N-277q?cm_sp=sub-_-SportShop-_-MenFishingClothing&amp;currentNode=fishing-clothing&amp;tab=sport-shop&amp;previousPage=GNAV">Fishing Clothing</a></li><li><a href="/browse/hunting---shooting-clothing/men/sport-shop/_/N-277p?cm_sp=sub-_-SportShop-_-MenHuntingShootingClothing&amp;currentNode=hunting---shooting-clothing&amp;tab=sport-shop&amp;previousPage=GNAV">Hunting &amp; Shooting Clothing</a></li><li><p class="f-cat-break"><a href="/browse/women/sport-shop/_/N-277r?&amp;isLeftNav=true&amp;currentNode=women&amp;tab=sport-shop&amp;cm_sp=globalnav-_-sportshop-_-women&amp;previousPage=GNAV">Women</a></p></li><li><a href="/browse/fishing-clothing/women/sport-shop/_/N-277t?cm_sp=sub-_-SportShop-_-WomenFishingClothing&amp;currentNode=fishing-clothing&amp;tab=sport-shop&amp;previousPage=GNAV">Fishing Clothing</a></li><li><a href="/browse/hunting---shooting-clothing/women/sport-shop/_/N-277s?cm_sp=sub-_-SportShop-_-WomenHuntingShootingClothing&amp;currentNode=hunting---shooting-clothing&amp;tab=sport-shop&amp;previousPage=GNAV">Hunting &amp; Shooting Clothing</a></li></ul></div><div class="f-col left f-sep-dark"><ul class="nav-list f-sep-light"><li><p><a href="/browse/gear/sport-shop/_/N-277u?tab=sport-shop&amp;isLeftNav=true&amp;cm_sp=globalnav-_-sportshop-_-gear&amp;previousPage=GNAV">Gear</a></p></li><li><a href="/browse/accessories/gear/sport-shop/_/N-277x?cm_sp=sub-_-SportShop-_-GearAccessories&amp;currentNode=accessories&amp;tab=sport-shop&amp;previousPage=GNAV">Accessories</a></li><li><a href="/browse/fishing/gear/sport-shop/_/N-277w?cm_sp=sub-_-SportShop-_-GearFishing&amp;currentNode=fishing&amp;tab=sport-shop&amp;previousPage=GNAV">Fishing</a></li><li><a href="/browse/hunting/gear/sport-shop/_/N-277v?cm_sp=sub-_-SportShop-_-GearHunting&amp;currentNode=hunting&amp;tab=sport-shop&amp;previousPage=GNAV">Hunting</a></li><style type="text/css">
+.flyoutHeader {
+    font-family:Lucida Sans Unicode;
+    font-size:12px;
+    font-weight:bold;
+    text-transform:uppercase;
+    color:#ffffff;
+}
+.explore-sportshop {margin-right:10px;}</style>
+<table class="explore-sportshop">
+	<tbody>
+		<tr>
+			<td class="divider">
+				&nbsp;</td>
+		</tr>
+		<tr>
+			<td height="12">
+				<hr>
+			</td>
+		</tr>
+		<tr style="line-height:20px;">
+			<td class="flyoutHeader submessage">
+				Explore Sport Shop</td>
+		</tr>
+		<tr style="line-height:20px;">
+			<td>
+				<a alt="" href="/sportshop/about/about.jsp?previousPage=SCAT" name="Fly Out: Sport Shop: Header: About Sport Shop" title="">About Sport Shop</a></td>
+		</tr>
+		<tr style="line-height:20px;">
+			<td>
+				<a alt="" href="/sportshop/guides/guides.jsp?previousPage=SCAT" name="Fly Out: Sport Shop: Header: Built with Guides" title="">Built with Guides</a></td>
+		</tr>
+		<tr style="line-height:20px;">
+			<td>
+				<a alt="" href="/sportshop/bestfriend/bestfriend.jsp?previousPage=SCAT" name="Fly Out: Sport Shop: Header: Guide's Best Friend" title="">Guide's Best Friend</a></td>
+		</tr>
+	</tbody>
+</table></ul></div><div class="f-col left"><ul class="nav-list"><style type="text/css">
+#flyout-sportshop {
+	right: 80px !important;
+}
+.sportshop { background-color:#eae9e7 !important; }
+.fbVideoPlay { display:none !important; }
+.flyoutNav .content .col_3 .flyoutWrapContent {
+	padding-left: 0;
+}
+.flyoutNav .flyoutWrapContent {
+	margin: 0;
+	overflow: hidden;
+	width: auto !important;
+}
+
+.flyoutNav .content .last {
+	margin-right: 0 !important;
+}
+.flyoutNav .content .col_3 {
+	margin-right: 0;
+}
+.flyoutNav .content .column {
+	float: left;
+	margin: 0;
+	padding: 0;
+}
+.sportShopLogo {
+	background: url("/static/img/guide_built/Flyout_Tagline_new.gif") no-repeat scroll 1px 0 transparent;
+	height: 57px;
+	position: relative;
+	width: 154px;
+}
+
+
+.flyoutNav td.col1 {
+	padding-right: 20px;
+	padding-top: 5px;
+	width: 130px;
+}
+.flyoutNav th, .flyoutNav tr, .flyoutNav td {
+	padding: 0;
+	vertical-align: top;
+}
+caption, th, td {
+	font-weight: normal;
+	text-align: left;
+}
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+	#flyout-sportshop {width:520px !important; left:663px !important;}
+	#flyout-sportshop .f-arrow {
+	left: 710px !important;
+	}
+	/* Safari only override
+	::i-block-chrome,    */
+}
+#flyout-sportshop {width:730px !important; left:160px !important;}
+#flyout-sportshop .f-arrow {
+	left: 554px !important;
+}
+.flyoutNav .copytext {
+	color: #ccc;
+	font-family: Lucida Sans Unicode, Lucida Grande, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: normal;
+	line-height: 13px;
+	margin-top: 5px;
+	text-transform: none;
+}
+#flyout-sportshop .copytext {
+	color: #dedede;
+	font-family: Arial, Lucida Sans Unicode, Lucida Grande, Verdana, Helvetica, sans-serif !important;
+	font-size: 10px;
+	font-weight: normal;
+	line-height: 13px;
+	margin-top: 5px;
+	text-transform: none;
+}
+
+#header #flyout-sportshop .f-col:nth-child(2) .nav-list li:nth-child(5) {
+    display: block !important;
+}</style>
+<div class="column col_3 last flyoutNav">
+	<div class="flyoutWrapContent">
+		<table style="float:right;">
+			<tbody>
+				<tr>
+					<td class="col1">
+						<div class="sportShopLogo">
+							&nbsp;</div>
+						<div class="copytext">
+							Eddie Bauer Sport Shop is premium hunting and shooting gear. Each item is built, tested, and perfected by our team of renowned guides.</div>
+					</td>
+					<td class="col2 image">
+						<img src="/static/img/menu/flyout_SportShop.jpg"></td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+</div></ul></div></div><div id="flyout-sale" class="nav-flyout clearfix"><div class="f-arrow-holder"><img class="f-arrow" src="/static/img/flyout-arrow.png" alt=""></div><div class="f-col left f-sep-dark"><ul class="nav-list f-sep-light"><li><p><a href="/browse/men/_/N-1z13xm6Z26y3?Endeca_user_segments=sale&amp;currentNode=men&amp;tab=sale&amp;previousPage=GNAV">Men</a></p></li><li><a href="/browse/accessories/men/_/N-26y4Z1z13xm6?cm_sp=sub-_-Sale-_-Accessories&amp;currentNode=accessories&amp;tab=sale&amp;previousPage=GNAV">Accessories</a></li><li><a href="/browse/fleece/men/_/N-27apZ1z13xm6?cm_sp=sub-_-Sale-_-Fleece&amp;currentNode=fleece&amp;tab=sale&amp;previousPage=GNAV">Fleece</a></li><li><a href="/browse/jeans/men/_/N-276aZ1z13xm6?cm_sp=sub-_-Sale-_-Jeans&amp;currentNode=jeans&amp;tab=sale&amp;previousPage=GNAV">Jeans</a></li><li><a href="/browse/outerwear/men/_/N-276bZ1z13xm6?cm_sp=sub-_-Sale-_-Outerwear&amp;currentNode=outerwear&amp;tab=sale&amp;previousPage=GNAV">Outerwear</a></li><li><a href="/browse/pants/men/_/N-276hZ1z13xm6?cm_sp=sub-_-Sale-_-Pants&amp;currentNode=pants&amp;tab=sale&amp;previousPage=GNAV">Pants</a></li><li><a href="/browse/shirts/men/_/N-277cZ1z13xm6?cm_sp=sub-_-Sale-_-Shirts&amp;currentNode=shirts&amp;tab=sale&amp;previousPage=GNAV">Shirts</a></li><li><a href="/browse/shoes/men/_/N-276qZ1z13xm6?cm_sp=sub-_-Sale-_-Shoes&amp;currentNode=shoes&amp;tab=sale&amp;previousPage=GNAV">Shoes</a></li><li><a href="/browse/shorts/men/_/N-276zZ1z13xm6?cm_sp=sub-_-Sale-_-Shorts&amp;currentNode=shorts&amp;tab=sale&amp;previousPage=GNAV">Shorts</a></li><li><a href="/browse/sweaters/men/_/N-2774Z1z13xm6?cm_sp=sub-_-Sale-_-Sweaters&amp;currentNode=sweaters&amp;tab=sale&amp;previousPage=GNAV">Sweaters</a></li><li><a href="/browse/sweatshirts---hoodies/men/_/N-2778Z1z13xm6?cm_sp=sub-_-Sale-_-SweatshirtsHoodies&amp;currentNode=sweatshirts---hoodies&amp;tab=sale&amp;previousPage=GNAV">Sweatshirts &amp; Hoodies</a></li><li><a href="/browse/underwear/men/_/N-277kZ1z13xm6?cm_sp=sub-_-Sale-_-Underwear&amp;currentNode=underwear&amp;tab=sale&amp;previousPage=GNAV">Underwear</a></li></ul></div><div class="f-col left f-sep-dark"><ul class="nav-list f-sep-light"><li><p><a href="/browse/women/_/N-1z13xm6Z278f?Endeca_user_segments=sale&amp;currentNode=women&amp;tab=sale&amp;previousPage=GNAV">Women</a></p></li><li><a href="/browse/accessories/women/_/N-278gZ1z13xm6?cm_sp=sub-_-Sale-_-Accessories&amp;currentNode=accessories&amp;tab=sale&amp;previousPage=GNAV">Accessories</a></li><li><a href="/browse/baselayers/women/_/N-278qZ1z13xm6?cm_sp=sub-_-Sale-_-Baselayers&amp;currentNode=baselayers&amp;tab=sale&amp;previousPage=GNAV">Baselayers</a></li><li><a href="/browse/blazers/women/_/N-278tZ1z13xm6?cm_sp=sub-_-Sale-_-Blazers&amp;currentNode=blazers&amp;tab=sale&amp;previousPage=GNAV">Blazers</a></li><li><a href="/browse/dresses---skirts/women/_/N-278yZ1z13xm6?cm_sp=sub-_-Sale-_-DressesSkirts&amp;currentNode=dresses---skirts&amp;tab=sale&amp;previousPage=GNAV">Dresses &amp; Skirts</a></li><li><a href="/browse/fleece/women/_/N-27asZ1z13xm6?cm_sp=sub-_-Sale-_-Fleece&amp;currentNode=fleece&amp;tab=sale&amp;previousPage=GNAV">Fleece</a></li><li><a href="/browse/jeans/women/_/N-2791Z1z13xm6?cm_sp=sub-_-Sale-_-Jeans&amp;currentNode=jeans&amp;tab=sale&amp;previousPage=GNAV">Jeans</a></li><li><a href="/browse/outerwear/women/_/N-2792Z1z13xm6?cm_sp=sub-_-Sale-_-Outerwear&amp;currentNode=outerwear&amp;tab=sale&amp;previousPage=GNAV">Outerwear</a></li><li><a href="/browse/pants---capris/women/_/N-2798Z1z13xm6?cm_sp=sub-_-Sale-_-PantsCapris&amp;currentNode=pants---capris&amp;tab=sale&amp;previousPage=GNAV">Pants &amp; Capris</a></li><li><a href="/browse/shoes/women/_/N-279fZ1z13xm6?cm_sp=sub-_-Sale-_-Shoes&amp;currentNode=shoes&amp;tab=sale&amp;previousPage=GNAV">Shoes</a></li><li><a href="/browse/shorts/women/_/N-278uZ1z13xm6?cm_sp=sub-_-Sale-_-Shorts&amp;currentNode=shorts&amp;tab=sale&amp;previousPage=GNAV">Shorts</a></li><li><a href="/browse/tops/women/_/N-279zZ1z13xm6?cm_sp=sub-_-Sale-_-Tops&amp;currentNode=tops&amp;tab=sale&amp;previousPage=GNAV">Tops</a></li><style type="text/css">
+#flyout-sale {
+    width:958px !important;
+    left:5px !important;
+}
+#flyout-sale .f-arrow {
+    left: 784px !important;
+}</style>
+<style type="text/css">
+hr {
+    border-bottom: 1px solid #636363;
+    margin-top: 5px;
+    width: auto;
+}
+.f-cat-break {margin-top:6px !important;}</style></ul></div><div class="f-col left f-sep-dark"><ul class="nav-list f-sep-light"><li><p><a href="/browse/kids/_/N-1z13xm6Z275n?Endeca_user_segments=sale&amp;currentNode=kids&amp;tab=sale&amp;previousPage=GNAV">Kids</a></p></li><li><a href="/browse/boys/kids/_/N-275oZ1z13xm6?cm_sp=sub-_-Sale-_-Boys&amp;currentNode=boys&amp;tab=sale&amp;previousPage=GNAV">Boys</a></li><li><a href="/browse/girls/kids/_/N-275tZ1z13xm6?cm_sp=sub-_-Sale-_-Girls&amp;currentNode=girls&amp;tab=sale&amp;previousPage=GNAV">Girls</a></li><li><a href="/browse/baby---toddler/kids/_/N-275yZ1z13xm6?cm_sp=sub-_-Sale-_-BabyToddler&amp;currentNode=baby---toddler&amp;tab=sale&amp;previousPage=GNAV">Baby &amp; Toddler</a></li><li><p class="f-cat-break"><a href="/browse/gear/_/N-1z13xm6Z2752?Endeca_user_segments=sale&amp;currentNode=gear&amp;tab=sale&amp;previousPage=GNAV">Gear</a></p></li><li><a href="/browse/backpacks/gear/_/N-2754Z1z13xm6?cm_sp=sub-_-Sale-_-Backpacks&amp;currentNode=backpacks&amp;tab=sale&amp;previousPage=GNAV">Backpacks</a></li><li><a href="/browse/duffels---luggage/gear/_/N-2755Z1z13xm6?cm_sp=sub-_-Sale-_-DuffelsLuggage&amp;currentNode=duffels---luggage&amp;tab=sale&amp;previousPage=GNAV">Duffels &amp; Luggage</a></li><li><a href="/browse/hydration/gear/_/N-2756Z1z13xm6?cm_sp=sub-_-Sale-_-Hydration&amp;currentNode=hydration&amp;tab=sale&amp;previousPage=GNAV">Hydration</a></li><li><a href="/browse/lighting/gear/_/N-2758Z1z13xm6?cm_sp=sub-_-Sale-_-Lighting&amp;currentNode=lighting&amp;tab=sale&amp;previousPage=GNAV">Lighting</a></li><li><a href="/browse/messenger---laptop-bags/gear/_/N-2759Z1z13xm6?cm_sp=sub-_-Sale-_-MessengerLaptopBags&amp;currentNode=messenger---laptop-bags&amp;tab=sale&amp;previousPage=GNAV">Messenger &amp; Laptop Bags</a></li><li><a href="/browse/sleeping-bags/gear/_/N-275aZ1z13xm6?cm_sp=sub-_-Sale-_-SleepingBags&amp;currentNode=sleeping-bags&amp;tab=sale&amp;previousPage=GNAV">Sleeping Bags</a></li><li><a href="/browse/tents/gear/_/N-275cZ1z13xm6?cm_sp=sub-_-Sale-_-Tents&amp;currentNode=tents&amp;tab=sale&amp;previousPage=GNAV">Tents</a></li><li><a href="/browse/travel-accessories/gear/_/N-275dZ1z13xm6?cm_sp=sub-_-Sale-_-TravelAccessories&amp;currentNode=travel-accessories&amp;tab=sale&amp;previousPage=GNAV">Travel Accessories</a></li></ul></div><div class="f-col left f-sep-dark"><ul class="nav-list f-sep-light"><li><p><a href="/browse/first-ascent/_/N-1z13xm6Z274k?Endeca_user_segments=sale&amp;currentNode=first-ascent&amp;tab=sale&amp;previousPage=GNAV">First Ascent</a></p></li><li><a href="/browse/men/first-ascent/_/N-274lZ1z13xm6?cm_sp=sub-_-Sale-_-Men&amp;currentNode=men&amp;tab=sale&amp;previousPage=GNAV">Men</a></li><li><a href="/browse/women/first-ascent/_/N-274qZ1z13xm6?cm_sp=sub-_-Sale-_-Women&amp;currentNode=women&amp;tab=sale&amp;previousPage=GNAV">Women</a></li><li><a href="/browse/kids/first-ascent/_/N-274vZ1z13xm6?cm_sp=sub-_-Sale-_-Kids&amp;currentNode=kids&amp;tab=sale&amp;previousPage=GNAV">Kids</a></li><li><a href="/browse/gear/first-ascent/_/N-274yZ1z13xm6?cm_sp=sub-_-Sale-_-Gear&amp;currentNode=gear&amp;tab=sale&amp;previousPage=GNAV">Gear</a></li><li><p class="f-cat-break"><a href="/browse/home/_/N-1z13xm6Z275e?Endeca_user_segments=sale&amp;currentNode=home&amp;tab=sale&amp;previousPage=GNAV">Home</a></p></li><li><a href="/browse/blankets---throws/home/_/N-275fZ1z13xm6?cm_sp=sub-_-Sale-_-BlanketsThrows&amp;currentNode=blankets---throws&amp;tab=sale&amp;previousPage=GNAV">Blankets &amp; Throws</a></li><li><a href="/browse/comforters/home/_/N-275gZ1z13xm6?cm_sp=sub-_-Sale-_-Comforters&amp;currentNode=comforters&amp;tab=sale&amp;previousPage=GNAV">Comforters</a></li><li><a href="/browse/duvet-covers---shams/home/_/N-275hZ1z13xm6?cm_sp=sub-_-Sale-_-DuvetCoversShams&amp;currentNode=duvet-covers---shams&amp;tab=sale&amp;previousPage=GNAV">Duvet Covers &amp; Shams</a></li><li><a href="/browse/mattress-pads/home/_/N-275iZ1z13xm6?cm_sp=sub-_-Sale-_-MattressPads&amp;currentNode=mattress-pads&amp;tab=sale&amp;previousPage=GNAV">Mattress Pads</a></li><li><a href="/browse/pillows/home/_/N-275jZ1z13xm6?cm_sp=sub-_-Sale-_-Pillows&amp;currentNode=pillows&amp;tab=sale&amp;previousPage=GNAV">Pillows</a></li><li><a href="/browse/sheets---pillowcases/home/_/N-275lZ1z13xm6?cm_sp=sub-_-Sale-_-SheetsPillowcases&amp;currentNode=sheets---pillowcases&amp;tab=sale&amp;previousPage=GNAV">Sheets &amp; Pillowcases</a></li></ul></div><div class="f-col left"><ul class="nav-list"><li><p><a href="/browse/sportshop/_/N-1z13xm6Z277n?Endeca_user_segments=sale&amp;currentNode=sportshop&amp;tab=sale&amp;previousPage=GNAV">Sport Shop</a></p></li><li><a href="/browse/men/sport-shop/_/N-277oZ1z13xm6?cm_sp=sub-_-Sale-_-Men&amp;currentNode=men&amp;tab=sale&amp;previousPage=GNAV">Men</a></li><li><a href="/browse/women/sport-shop/_/N-277rZ1z13xm6?cm_sp=sub-_-Sale-_-Women&amp;currentNode=women&amp;tab=sale&amp;previousPage=GNAV">Women</a></li><li><a href="/browse/gear/sport-shop/_/N-277uZ1z13xm6?cm_sp=sub-_-Sale-_-Gear&amp;currentNode=gear&amp;tab=sale&amp;previousPage=GNAV">Gear</a></li><li><p class="f-cat-break"><a href="/browse/travex/_/N-1z13xm6Z277y?Endeca_user_segments=sale&amp;currentNode=travex&amp;tab=sale&amp;previousPage=GNAV">Travex</a></p></li><li><a href="/browse/men/travex/_/N-277zZ1z13xm6?cm_sp=sub-_-Sale-_-Men&amp;currentNode=men&amp;tab=sale&amp;previousPage=GNAV">Men</a></li><li><a href="/browse/women/travex/_/N-2785Z1z13xm6?cm_sp=sub-_-Sale-_-Women&amp;currentNode=women&amp;tab=sale&amp;previousPage=GNAV">Women</a></li><li><a href="/browse/gear/travex/_/N-278dZ1z13xm6?cm_sp=sub-_-Sale-_-Gear&amp;currentNode=gear&amp;tab=sale&amp;previousPage=GNAV">Gear</a></li></ul></div></div><div id="flyout-clearance" class="nav-flyout clearfix"><div class="f-arrow-holder"><img class="f-arrow" src="/static/img/flyout-arrow.png" alt=""></div><div class="f-col left f-sep-dark"><ul class="nav-list f-sep-light"><li><p><a href="/browse/men/_/N-yZ26y3?currentNode=men&amp;tab=clearance&amp;isClearCat=true&amp;previousPage=GNAV">Men</a></p></li><li><a href="/browse/fleece/men/_/N-27apZy?isClearCat=true&amp;cm_sp=sub-_-Clearance-_-Fleece&amp;currentNode=fleece&amp;tab=clearance&amp;previousPage=GNAV">Fleece</a></li><li><a href="/browse/jeans/men/_/N-276aZy?isClearCat=true&amp;cm_sp=sub-_-Clearance-_-Jeans&amp;currentNode=jeans&amp;tab=clearance&amp;previousPage=GNAV">Jeans</a></li><li><a href="/browse/outerwear/men/_/N-276bZy?isClearCat=true&amp;cm_sp=sub-_-Clearance-_-Outerwear&amp;currentNode=outerwear&amp;tab=clearance&amp;previousPage=GNAV">Outerwear</a></li><li><a href="/browse/pants/men/_/N-276hZy?isClearCat=true&amp;cm_sp=sub-_-Clearance-_-Pants&amp;currentNode=pants&amp;tab=clearance&amp;previousPage=GNAV">Pants</a></li><li><a href="/browse/shirts/men/_/N-277cZy?isClearCat=true&amp;cm_sp=sub-_-Clearance-_-Shirts&amp;currentNode=shirts&amp;tab=clearance&amp;previousPage=GNAV">Shirts</a></li><li><a href="/browse/shoes/men/_/N-276qZy?isClearCat=true&amp;cm_sp=sub-_-Clearance-_-Shoes&amp;currentNode=shoes&amp;tab=clearance&amp;previousPage=GNAV">Shoes</a></li><li><a href="/browse/sweaters/men/_/N-2774Zy?isClearCat=true&amp;cm_sp=sub-_-Clearance-_-Sweaters&amp;currentNode=sweaters&amp;tab=clearance&amp;previousPage=GNAV">Sweaters</a></li><li><a href="/browse/sweatshirts---hoodies/men/_/N-2778Zy?isClearCat=true&amp;cm_sp=sub-_-Clearance-_-SweatshirtsHoodies&amp;currentNode=sweatshirts---hoodies&amp;tab=clearance&amp;previousPage=GNAV">Sweatshirts &amp; Hoodies</a></li><li><a href="/browse/underwear/men/_/N-277kZy?isClearCat=true&amp;cm_sp=sub-_-Clearance-_-Underwear&amp;currentNode=underwear&amp;tab=clearance&amp;previousPage=GNAV">Underwear</a></li></ul></div><div class="f-col left f-sep-dark"><ul class="nav-list f-sep-light"><li><p><a href="/browse/women/_/N-yZ278f?currentNode=women&amp;tab=clearance&amp;isClearCat=true&amp;previousPage=GNAV">Women</a></p></li><li><a href="/browse/accessories/women/_/N-278gZy?isClearCat=true&amp;cm_sp=sub-_-Clearance-_-Accessories&amp;currentNode=accessories&amp;tab=clearance&amp;previousPage=GNAV">Accessories</a></li><li><a href="/browse/blazers/women/_/N-278tZy?isClearCat=true&amp;cm_sp=sub-_-Clearance-_-Blazers&amp;currentNode=blazers&amp;tab=clearance&amp;previousPage=GNAV">Blazers</a></li><li><a href="/browse/dresses---skirts/women/_/N-278yZy?isClearCat=true&amp;cm_sp=sub-_-Clearance-_-DressesSkirts&amp;currentNode=dresses---skirts&amp;tab=clearance&amp;previousPage=GNAV">Dresses &amp; Skirts</a></li><li><a href="/browse/fleece/women/_/N-27asZy?isClearCat=true&amp;cm_sp=sub-_-Clearance-_-Fleece&amp;currentNode=fleece&amp;tab=clearance&amp;previousPage=GNAV">Fleece</a></li><li><a href="/browse/jeans/women/_/N-2791Zy?isClearCat=true&amp;cm_sp=sub-_-Clearance-_-Jeans&amp;currentNode=jeans&amp;tab=clearance&amp;previousPage=GNAV">Jeans</a></li><li><a href="/browse/outerwear/women/_/N-2792Zy?isClearCat=true&amp;cm_sp=sub-_-Clearance-_-Outerwear&amp;currentNode=outerwear&amp;tab=clearance&amp;previousPage=GNAV">Outerwear</a></li><li><a href="/browse/pants---capris/women/_/N-2798Zy?isClearCat=true&amp;cm_sp=sub-_-Clearance-_-PantsCapris&amp;currentNode=pants---capris&amp;tab=clearance&amp;previousPage=GNAV">Pants &amp; Capris</a></li><li><a href="/browse/shoes/women/_/N-279fZy?isClearCat=true&amp;cm_sp=sub-_-Clearance-_-Shoes&amp;currentNode=shoes&amp;tab=clearance&amp;previousPage=GNAV">Shoes</a></li><li><a href="/browse/shorts/women/_/N-278uZy?isClearCat=true&amp;cm_sp=sub-_-Clearance-_-Shorts&amp;currentNode=shorts&amp;tab=clearance&amp;previousPage=GNAV">Shorts</a></li><li><a href="/browse/sleepwear/women/_/N-279oZy?isClearCat=true&amp;cm_sp=sub-_-Clearance-_-Sleepwear&amp;currentNode=sleepwear&amp;tab=clearance&amp;previousPage=GNAV">Sleepwear</a></li><li><a href="/browse/tops/women/_/N-279zZy?isClearCat=true&amp;cm_sp=sub-_-Clearance-_-Tops&amp;currentNode=tops&amp;tab=clearance&amp;previousPage=GNAV">Tops</a></li><style type="text/css">
+#flyout-clearance{width:909px !important; left:30px !important}
+#flyout-clearance .f-arrow {
+    left: 837px !important;
+}
+#pdpTabHolder .tabs a:focus {
+    outline: 0;
+}
+#pdpTabHolder .tab-content li {
+    background: none !important;
+    line-height: 0px !important;
+    padding-left: 0px !important;
+}
+#pdpTabHolder .tab-content ul.details {
+	padding-left: 15px !important;
+}
+#pdpTabHolder .tab-content ul.details li {
+	list-style-type: square;
+	list-style-position: outside;
+	clear: both;
+	color: #333333;
+	line-height: 17px !important;
+	font-weight:normal !important;
+}
+
+#pdpTabHolder .tab-content ul.details li span.title {
+    font-family: Arial,sans-serif !important;
+}
+#pdpTabHolder .tab-content p.overview span.alchemistTitle {
+    font-family: Arial, Sans-Serif !important;
+}
+#pdpTabHolder .tab-content div.subheading {
+	clear:both;
+	color:#333333;
+	display:block;
+	float:none;
+	font-family:Lucida Sans Unicode;
+	font-size:12px;
+	font-weight:bold;
+	line-height:14px;
+	padding:10px 0 4px;
+	text-transform:uppercase;
+}
+#pdpTabHolder .tab-content p.overview.title {
+	margin-bottom: 0 !important;
+	margin-top: 5px !important;
+	padding-bottom: 0 !important;
+}
+#pdpTabHolder .tab-content p.overview {
+        padding-bottom:0 !important;
+}
+#pdpTabHolder .tab-content ul.fit {
+	list-style-type: none;
+	padding-left: 15px;
+	margin: 1em 0 1em 0 !important;
+}
+#pdpTabHolder .tab-content ul.fit li {
+	list-style-type: square;
+	list-style-position: outside;
+	clear: both;
+	color: #333333;
+	line-height: 17px !important;
+	font-weight:normal !important;
+}
+#pdpTabHolder .tab-content .video_package {
+	margin-top:5px;
+}
+#pdpTabHolder .tab-content div.guideImage {
+	margin-top:4px;
+}
+
+#column_2 ul.bulletedList li {
+    color: #777777;
+    font-family: Arial;
+    font-size: 12px;
+    line-height: 17px;
+    margin-bottom: 4px;
+}
+#column_2 ul.bulletedList li.note {
+    font-size: 85%;
+    line-height: 15px;
+}
+#closeButton input.button {
+    background-color: #E07D09;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block !important;
+    font-size: 11px !important;
+    padding: 0.25em 0.35em;
+    text-transform: uppercase;
+    width: 160px !important;
+}</style></ul></div><div class="f-col left f-sep-dark"><ul class="nav-list f-sep-light"><li><p><a href="/browse/gear/_/N-yZ2752?currentNode=gear&amp;tab=clearance&amp;isClearCat=true&amp;previousPage=GNAV">Gear</a></p></li><li><a href="/browse/sleeping-bags/gear/_/N-275aZy?isClearCat=true&amp;cm_sp=sub-_-Clearance-_-SleepingBags&amp;currentNode=sleeping-bags&amp;tab=clearance&amp;previousPage=GNAV">Sleeping Bags</a></li><li><a href="/browse/travel-accessories/gear/_/N-275dZy?isClearCat=true&amp;cm_sp=sub-_-Clearance-_-TravelAccessories&amp;currentNode=travel-accessories&amp;tab=clearance&amp;previousPage=GNAV">Travel Accessories</a></li></ul></div><div class="f-col left f-sep-dark"><ul class="nav-list f-sep-light"><li><p><a href="/browse/sportshop/_/N-yZ277N?currentNode=sportshop&amp;tab=clearance&amp;isClearCat=true&amp;previousPage=GNAV">Sport Shop</a></p></li><li><a href="/browse/men/sport-shop/_/N-277oZy?isClearCat=true&amp;cm_sp=sub-_-Clearance-_-Men&amp;currentNode=men&amp;tab=clearance&amp;previousPage=GNAV">Men</a></li><li><a href="/browse/women/sport-shop/_/N-277rZy?isClearCat=true&amp;cm_sp=sub-_-Clearance-_-Women&amp;currentNode=women&amp;tab=clearance&amp;previousPage=GNAV">Women</a></li><li><a href="/browse/gear/sport-shop/_/N-277uZy?isClearCat=true&amp;cm_sp=sub-_-Clearance-_-Gear&amp;currentNode=gear&amp;tab=clearance&amp;previousPage=GNAV">Gear</a></li><li><p class="f-cat-break"><a href="/browse/first-ascent/_/N-yZ277Y?currentNode=first-ascent&amp;tab=clearance&amp;isClearCat=true&amp;previousPage=GNAV">Travex</a></p></li><li><a href="/browse/men/travex/_/N-277zZy?isClearCat=true&amp;cm_sp=sub-_-Clearance-_-Men&amp;currentNode=men&amp;tab=clearance&amp;previousPage=GNAV">Men</a></li><li><a href="/browse/women/travex/_/N-2785Zy?isClearCat=true&amp;cm_sp=sub-_-Clearance-_-Women&amp;currentNode=women&amp;tab=clearance&amp;previousPage=GNAV">Women</a></li></ul></div><div class="f-col left"><ul class="nav-list"><li><p><a href="/browse/first-ascent/_/N-yZ274K?currentNode=first-ascent&amp;tab=clearance&amp;isClearCat=true&amp;previousPage=GNAV">First Ascent</a></p></li><li><a href="/browse/men/first-ascent/_/N-274lZy?isClearCat=true&amp;cm_sp=sub-_-Clearance-_-Men&amp;currentNode=men&amp;tab=clearance&amp;previousPage=GNAV">Men</a></li><li><a href="/browse/women/first-ascent/_/N-274qZy?isClearCat=true&amp;cm_sp=sub-_-Clearance-_-Women&amp;currentNode=women&amp;tab=clearance&amp;previousPage=GNAV">Women</a></li><li><a href="/browse/gear/first-ascent/_/N-274yZy?isClearCat=true&amp;cm_sp=sub-_-Clearance-_-Gear&amp;currentNode=gear&amp;tab=clearance&amp;previousPage=GNAV">Gear</a></li><li><p class="f-cat-break"><a href="/browse/home/_/N-yZ275e?currentNode=home&amp;tab=clearance&amp;isClearCat=true&amp;previousPage=GNAV">Home</a></p></li><li><a href="/browse/duvet-covers---shams/home/_/N-275hZy?isClearCat=true&amp;cm_sp=sub-_-Clearance-_-DuvetCoversShams&amp;currentNode=duvet-covers---shams&amp;tab=clearance&amp;previousPage=GNAV">Duvet Covers &amp; Shams</a></li><li><a href="/browse/sheets---pillowcases/home/_/N-275lZy?isClearCat=true&amp;cm_sp=sub-_-Clearance-_-SheetsPillowcases&amp;currentNode=sheets---pillowcases&amp;tab=clearance&amp;previousPage=GNAV">Sheets &amp; Pillowcases</a></li></ul></div></div></div></div>
+<div class="headerRailContainer">
+<div id="headerRail">
+<style> 
+.headerRailContainer, #headerRail, #new_rail { 
+height: 76px !important; 
+} 
+</style> 
+<div id="#new_rail"> 
+<img src="//eddiebauer.scene7.com/is/image/EBContent/140520%5Fsite%5Fwide%5Frail?scl=1" usemap="#swr_double"> 
+<map id="swr_double" name="swr_double"> 
+<area alt="Welcome To The New Eddiebauer.com" class="floatbox naked" coords="0,0,995,36" data-fb-options="type:ajax width:450 height:425 autoEndVideo:false contentScroll:false doAnimations:false autoFit:true showOuterClose=false contentClickCloses=true" href="#swr_new_eb" shape="rect" title="See Details" id="fb_1"> 
+<area alt="See Details" class="floatbox naked" coords="0,36,995,76" data-fb-options="type:ajax width:450 height:415 autoEndVideo:false contentScroll:false doAnimations:false autoFit:true" href="#swr_disclaimer" shape="rect" title="See Details" id="fb_3"> 
+</map> 
+<div id="swr_container" style="display: none;"> 
+	<div class="fbWrapper" id="fb_4" style="display: block; visibility: visible;"><div id="swr_disclaimer"> 
+		<img src="//eddiebauer.scene7.com/is/image/EBContent/140520%5Ffreeshipping%5Fdetails?$png$&amp;scl=1"> 
+	</div></div> 
+</div>
+<div id="swr_new_eb_container" style="display:none;">
+	<div class="fbWrapper" id="fb_2" style="display: block; visibility: visible;"><div id="swr_new_eb">
+		<a href="#" onclick="return false; event.preventDefault();"><img src="//eddiebauer.scene7.com/is/image/EBContent/140501_popup?$png$&amp;scl=1"></a>
+	</div></div>
+</div>
+</div></div>
+</div>
+<div id="end-kiosk-session"></div>
+<script type="text/javascript">
+$(document).ready(function() {
+try {
+$.ajax({
+type: 'get',
+url: '/xhr/end-kiosk-session.jsp',
+cache: false,
+dataType: 'html',
+success: function(data) {$('#end-kiosk-session').html(data);}
+});
+} catch(err) {
+console.log('error');
+}
+});
+</script>
+<!-- </header> -->
+<noscript>
+<div class="enabled-error">
+<div class="enabled-error-wrapper response-bg clearfix">
+<div class="enabled-error-icon"><img class="response-icon" src="/static/img/error-icon.png" alt="" /></div>
+<div class="script-errors">
+<div class="enabled-error-title"><strong>JavaScript is not enabled in your browser.</strong></div>
+<p class="enabled-error-message">You must have JavaScript enabled for the best experience on our site and to make a purchase.</p>
+<p class="enabled-error-message"><a title="Learn how to enable JavaScript" alt="Learn how to enable JavaScript" href="/custserv/customer-service-technical-information.jsp#javascript">Learn how to enable JavaScript in your browser</a> or call 1-800-426-8020 for assistance.</p>
+</div>
+</div>
+</div>
+</noscript>
+<div id="noCookie" class="enabled-error hide">
+<div class="enabled-error-wrapper response-bg clearfix">
+<div class="enabled-error-icon"><img class="response-icon" src="/static/img/error-icon.png" alt=""></div>
+<div class="script-errors">
+<div class="enabled-error-title"><strong>Cookies are not enabled in your browser.</strong></div>
+<p class="enabled-error-message">You must have Cookies enabled for the best experience on our site and to make a purchase.</p>
+<p class="enabled-error-message"><a title="Learn how to enable Cookies" alt="Learn how to enable Cookies" href="/custserv/customer-service-technical-information.jsp#cookies">Learn how to enable Cookies in your browser</a> or call 1-800-426-8020 for assistance.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+var cookieEnabled = (navigator.cookieEnabled) ? true : false;
+if (typeof navigator.cookieEnabled == "undefined" && !cookieEnabled) {
+document.cookie = "isCookie";
+cookieEnabled = (document.cookie.indexOf("isCookie") > -1) ? true : false;
+}
+if (!cookieEnabled) {
+document.getElementById("noCookie").style.display = "block";
+}
+</script>
+<div id="mainContentHolder">
+<ul class="breadcrumbs">
+<li><a href="/">Eddie Bauer</a> |</li>
+<li><a href="/company-info/company-info-about-us.jsp">Company Info</a> |</li>
+<li>Privacy &amp; Security</li>
+</ul>
+<div id="baseTitle">
+<h1>Privacy &amp; Security</h1>
+</div>
+<div class="customerService">
+<div class="wrapper">
+<div class="leftColumn open">
+<script>
+jQuery(document).ready(function () {
+var pageClasses = jQuery('body').attr('class');
+var pageClassArray = pageClasses.split(" ");
+var pageSelector = "company-info-";
+var pageName = "";
+var leftNavLi = jQuery('#leftNav li');
+for (var i=0;i<pageClassArray.length;i++){
+if(pageClassArray[i].indexOf(pageSelector) != -1){
+pageName = "/company-info/" + pageClassArray[i] + ".jsp";
+}
+}
+if (leftNavLi.length >0){
+leftNavLi.each(function(index){
+var ahref = jQuery(this).find('a').attr('href');
+if (ahref.toLowerCase() == pageName.toLowerCase()){
+jQuery(this).removeClass('not').addClass('hot');
+// check to see if second level if so open first level
+jQuery(this).parent().parent().removeClass('not').addClass('open');
+}
+});
+//show left nav after updates have been made
+$('ul.first').css({'visibility':'visible'});
+}
+});
+</script>
+<h5 class="header">Company Info</h5>
+<ul id="leftNav" class="first" style="visibility: visible;">
+<li class="not"><a href="/company-info/company-info-about-us.jsp">About Us</a></li>
+<li class="not"><a href="/company-info/company-info-our-founder.jsp">Our Founder</a></li>
+<li class="not"><a href="/company-info/company-info-heritage.jsp">Heritage</a></li>
+<li class="not"><a href="/company-info/company-info-affiliate-program.jsp">Affiliate Program</a></li>
+<li class="not"><a href="/company-info/company-info-partners.jsp">Partners</a></li>
+<li class="not"><a href="/custserv/pro-deals-application.jsp">Pro Deals</a></li>
+<li class="not"><a href="/company-info/company-info-global-releaf.jsp">Global ReLeaf</a></li>
+<li class="hot"><a href="/company-info/company-info-privacy-and-security.jsp">Privacy &amp; Security</a>
+<ul class="second">
+<li class="not"><a href="/company-info/company-info-terms-of-use.jsp">Terms of Use</a></li>
+</ul>
+</li>
+<li class="not"><a href="/company-info/company-info-global-labor-practice.jsp">Global Labor Practice</a></li>
+</ul>
+</div>
+<div class="centerColumn">
+<div class="container">
+<h3 class="first">Overview</h3>
+<p class="first">
+In 1920, Eddie Bauer wrote his business creed, a statement explaining the services
+he'd provide for his customers. We still follow this same creed today: "To give you
+such outstanding quality, value, service and guarantee that we may be worthy of your
+high esteem." Here at Eddie Bauer, we take this promise seriously and we firmly believe
+in your privacy and the security of your personal information. We are committed to using
+any information you give us in a responsible manner. You're very important to us and we
+want to provide you with a safe and secure online experience.
+</p>
+<h3>Complete Privacy Policy</h3>
+<p class="aboveSubheader">
+This Privacy Statement describes how we collect and use your information and gives you
+choices as to how we use it. We suggest that you review this Privacy Statement periodically
+as we may update it from time to time. This policy was last updated on October 18, 2013.
+</p>
+<div class="container">
+<ul class="bulletedList">
+<li><a href="#first">What information does Eddie Bauer collect about me?</a></li>
+<li><a href="#second">How do you use my information?</a></li>
+<li><a href="#third">Companies other than Eddie Bauer"</a></li>
+<li><a href="#fourth">What are "cookies" and how does Eddie Bauer use them?</a></li>
+<li><a href="#fifth">How can I update my information?</a></li>
+<li><a href="#sixth">How do I know my information is secure?</a></li>
+<li><a href="#HowtoReportFraud"> How to Report Fraud</a></li>
+<li><a href="#seventh">Children's Policy</a></li>
+<li><a href="#contaciInformation">Contact Information</a></li>
+<li><a href="#unsubscribefromebemail"> Unsubscribe From Eddie Bauer</a></li>
+</ul>
+</div>
+<div class="returnLink">
+^<a href="#" class="anchor">Return to top</a>
+</div>
+<h4 id="first">	What information does Eddie Bauer collect about me?</h4>
+<p class="last">
+Every time you visit our website, we automatically collect your Internet service provider's
+address, the Web page from which you came, and a record of your activity on our site.
+</p>
+<p class="last">
+When you purchase from Eddie Bauer or request a catalog, we collect information that you
+volunteer such as your name, email address, postal address, phone number and other information
+necessary to process your order or send you the catalog.
+</p>
+<p class="last">
+We also collect the information you provide to us when you register for "My Account",
+participate in a contest or sweepstakes promotion, fill out a survey or questionnaire,
+or contact us (for example via email, "Ask Eddie" or "Live Chat".)
+</p>
+<div class="returnLink">
+^<a href="#" class="anchor">Return to top</a>
+</div>
+<h4 id="second">How do you use my information?</h4>
+<p class="last">
+The information we receive allows us to tailor our product offer and improve your shopping
+experience, making shopping easier and more enjoyable. It also enables us to process your
+purchases, confirm your orders, customize the content and layout of our pages, notify you
+about updates to our websites and products, and provide you with marketing information.
+</p>
+<p class="last">
+The information you supply to us is added to our customer database. You may receive periodic
+mailings or telephone calls from us about new products and services, discounts, special promotions
+or upcoming events. If you do not want to receive such mailings or telephone calls from us,
+please <a class="links" href="#unsubscribefromebemail">click here</a> for contact information.
+</p>
+<p class="last">
+We occasionally provide your personally-identifiable information, including your name, address,
+email address, as well as a record of any transactions you conduct on our website or offline
+with us with a third-party advertising partner and its service providers in order to deliver
+to you banner advertisements and other advertising tailored to your interests when you are online.
+Our advertising partners will make the data we provide it anonymous before using it to deliver
+ads online. We may partner with other service providers that collect non-identifiable information
+about your visits to our website, your interaction with our products and services, and your visits
+to other websites to serve ads targeted to your interests on other websites. The information is
+collected through the use of cookies, web beacons, and similar technologies, and does not include
+your name, address, e-mail address or other personal information. To learn more about these
+practices or to opt out of having this information used by our third-party advertising partners
+to serve ads targeted to your interests, please visit the Digital Advertising Alliance by
+<a class="links" href="http://www.aboutads.info/" target="_blank">clicking here</a>.
+To opt out of the online advertisements provided directly by Eddie Bauer,
+<a class="links" href="javascript:void window.open('http://dtmc.eddiebauer.com/adinfo/adchoices_fpc.html?cid=2418&amp;cname=Eddie%20Bauer&amp;cmagic=db60b9&amp;clogo=eddie_bauer.png&amp;purl=http%3A%2F%2Fwww.eddiebauer.com%2Fcustserv%2Fcustserv.jsp%3FsectionId%3D310','_blank','status=0,toolbar=0,location=0,menubar=0,directories=0,scrollbars=1,width=921,height=758');">click here</a>.
+If you delete your cookies, use a different browser, or buy a new computer, you will need to
+renew your opt-out choice.
+</p>
+<p class="last">
+In some cases we may provide your name and address to a select group of companies whose
+products you may find of interest. If you do not want us to share this information with
+these companies, we can add your name to our "do-not-share" list. Please
+<a class="links" href="#unsubscribefromebemail">click here</a> for contact information.
+</p>
+<p class="last">
+We periodically send you email about new products and services, discounts, special promotions
+or upcoming events. If you do not wish to receive such emails in the future, please
+<a class="links" href="#contaciInformation">click here</a>
+for contact information, or click the "unsubscribe" link on any promotional email you
+receive from us. Please note: In order to process your purchases we may send you a confirmation
+email or we may contact you by mail or telephone if we have questions about your order.
+</p>
+<p class="last">
+In some instances, we use third party companies to help us provide our products and
+services to you, to assist us in managing customer information, to fulfill promotions
+and to communicate with you. Some of these companies are given access to some or all
+of the information you provide to us, and some may use cookies on our behalf. These
+companies are contractually-restricted from using your information in any manner other
+than in helping us to provide you with the products and services available from Eddie Bauer.
+</p>
+<p class="last">
+We may share information with governmental agencies or other companies assisting us in
+fraud prevention or investigation. We may do so when: (1) permitted or required by law;
+or, (2) trying to protect against or prevent actual or potential fraud or unauthorized
+transactions; or, (3) investigating fraud which has already taken place. The information
+is not provided to these agencies or companies for marketing purposes.
+</p>
+<div class="returnLink">
+^<a href="#" class="anchor">Return to top</a>
+</div>
+<h4 id="third">Companies other than Eddie Bauer</h4>
+<p class="last">
+Our privacy policy does not apply to companies other than Eddie Bauer. Companies other
+than Eddie Bauer are sometimes identified on our website, catalog or marketing materials.
+If you make a purchase from another company's catalog or website, the information you provide
+to that company, such as your credit card number and contact information, is provided to that
+company and not to Eddie Bauer. Providing this information to the company enables your transaction
+with the other company to take place. However, you should know that the company may, if you do not
+advise them to the contrary, share your name and postal and email addresses with third parties,
+including Eddie Bauer. You should also know that these companies have their own privacy and data
+collection practices and are not covered by the Eddie Bauer privacy statement.
+</p>
+<p class="last">
+For more information, including privacy policies, regarding such companies please see that
+company's home page and click on their Information link; or review the customer service section
+of any catalog you may receive from that company.
+</p>
+<div class="returnLink">
+^<a href="#" class="anchor">Return to top</a>
+</div>
+<h3>For Our Customers Using the Internet</h3>
+<h4 id="fourth">What are "cookies" and how does Eddie Bauer use them?</h4>
+<p class="last">
+A "cookie" is a small data file stored on your computer. At Eddie Bauer,
+we place a unique identifier in the cookie and use the cookie to connect
+your computer with the information we store for you in our database. Some
+examples of the data we store in our database includes your account preferences,
+items added to your shopping bag, user-specific information on pages accessed,
+and previous visits to our site. Through cookies we may: alert you to new areas
+that we think might be of interest to you when you return to our site; record past
+activity at our site; provide advertisements that are tailored to your interests; or,
+customize Web page content. Your information is stored in a safe and secure database.
+</p>
+<p class="last">
+We do not use cookies to store any of your personal or financial information on
+your computer.
+</p>
+<p class="last">
+We recognize that you have a choice to refuse cookies. However, by choosing to accept
+an Eddie Bauer cookie you allow us to maintain the preferences stored in your Eddie Bauer
+"My Account" and process your order. If you choose not to accept the cookie, purchasing
+is not possible on the Eddie Bauer site.
+</p>
+<p class="last">
+If you are shopping Eddie Bauer and are having difficulty adding product to your shopping
+bag or completing your order, please check your privacy settings in your browser. If you
+do not wish to change your privacy settings to "Medium" and you are currently using the
+"Medium High" or "High" settings, you may choose to override your current cookie handling
+practices for individual sites that you specify, including eddiebauer.com and eddiebaueroutlet.com.
+Please <a class="links" href="#fourth">click here</a> for instructions on how
+to override your normal cookie handling practices. If you prefer not to change your
+privacy settings or override your cookie handling practices, you can, as always,
+place your order by phone at 1-800-426-8020.
+</p>
+<div class="returnLink">
+^<a href="#" class="anchor">Return to top</a>
+</div>
+<h4 id="fifth">How can I update my information?</h4>
+<p class="last">
+We provide you access to the following information if you send us an email, call
+us or write to us:
+</p>
+<ul class="bulletedList">
+<li>Financial information (such as credit card account information)</li>
+<li>Eddie Bauer customer identifier information (customer number or password)</li>
+<li>Transaction information (dates on which you made purchases, amounts and types of
+purchases)</li>
+<li>Contact information (name, address, phone number)</li>
+</ul>
+<p class="last">
+We evaluate each request and will reply in an appropriate manner and in a form of
+communication that ensures the security of the information you have requested. Any questions, please
+<a class="links" target="_blank" href="/custserv/ask-eddie-email.jsp?sectionId=24448">contact us</a>.
+</p>
+<div class="returnLink">
+^<a href="#" class="anchor">Return to top</a>
+</div><div class="howIknow">
+<h4 id="sixth">How do I know my information is secure?</h4>
+<p class="last">
+We have appropriate security measures in place to protect against the loss, misuse or alteration of
+information that we have collected from you so you can feel comfortable and secure when shopping.
+We use industry-standard encryption technologies when transferring and receiving your personal
+information. On the Internet, when you see either a solid key icon or a locked padlock icon at the
+lower portion of your browser window, this indicates that the site is secured through Secure Sockets
+Layer (SSL). Pages requesting personal information should always have one of these icons. If you do
+not see one of these icons, please contact us to complete your transaction over the phone by calling
+1-800-426-8020. When you apply on-line for an Eddie Bauer Charge Card, we will direct you to the
+Comenity Bank website. See the <a href="http://www.comenity.net">Comenity.net</a> website for
+information on its privacy statement.
+</p>
+<div id="veriSignLogoModule">
+<a href="#" class="verisign-modal-link"><span class="veriSignLogoSmall floatRight"></span></a>
+</div></div>
+<div class="returnLink">
+^<a href="#" class="anchor">Return to top</a>
+</div>
+<a name="HowtoReportFraud"></a>
+<h3>How to Report Fraud</h3>
+<p>You can help us identify attempts at fraud.</p>
+<p>Eddie Bauer will never ask you for sensitive personal information in an email.</p>
+<p>If you receive a suspicious email appearing to come from Eddie Bauer, such as one requesting that you confirm personal information like your credit card number, or if you have received an email implying that it has been sent by Eddie Bauer after you have Opted Out of receipt of Eddie Bauer emails, you may forward the suspicious email to <a class="links" href="mailto:abuse@eddiebauer.com">abuse@eddiebauer.com.</a></p>
+<p>You should not respond directly to suspicious email. And do not click on or open any hyperlink embedded in the suspicious email.</p>
+<p>There are a few common features of fraudulent emails that can help you identify them as spam. The two most frequent are:<br>
+a) receiving an email that contains mistakes such as misspelled words or grammatical errors, and<br>
+b) receiving an email that asks for your confidential information or asks you to take immediate action on your account.<br></p>
+<p>We encourage all of our customers to protect themselves and their information:<br>
+a) do not share your credentials or account information with any third party, and<br>
+b) make sure that your system is properly patched, running anti-virus and a personal firewall.<br></p>
+<p>If you have already provided information in response to a suspicious email that appeared to have been sent by Eddie Bauer, you may report the suspicious email by forwarding it to <a class="links" href="mailto:abuse@eddiebauer.com">abuse@eddiebauer.com</a>.<br></p>
+<p>For more information on how to protect yourself and your personal information, you can visit the antiphishing Working Group's website at <a class="links" href="http://www.antiphishing.org/resources/overview/" target="_blank">http://www.antiphishing.org/consumer_recs.html</a>.<br>
+</p><p class="last">Thank you for helping us monitor and prevent fraud.</p>
+<div class="returnLink">
+^<a href="#" class="anchor">Return to top</a>
+</div>
+<h4 id="seventh">Children's Policy</h4>
+<p class="last">
+Eddie Bauer does not seek to solicit information from anyone under the age of thirteen
+(a "Child"). If a Child submits information to us and we know that the person submitting
+the information is a Child, we will not use it for any purpose. We will delete the
+information as soon as we discover it and we will not disclose it to third parties.
+</p>
+</div>
+<div class="container">
+<a name="contaciInformation"></a>
+<h3 id="thirteenth">
+Contact Information</h3>
+<p class="last">
+Feel free to contact us for any reason, including a request to be added to or taken
+off a list, or if you have any questions or concerns. Please note: When you contact
+us, please provide your name and address exactly as it appears on correspondence
+you have received from us.
+</p>
+<h4 id="eigth">
+By Postal Mail</h4>
+<p class="aboveSubheader">
+Eddie Bauer Customer Service<br>
+P.O. Box 7001<br>
+Groveport, OH 43125
+</p>
+<h4 id="ninth">
+By Phone</h4>
+<p class="aboveSubheader">
+Call 24-hours a day at 1-800-426-8020
+</p>
+<h4 id="tenth">By Email</h4>
+<p class="aboveSubheader">
+<a class="links" href="mailto:CustomerCare@csc.eddiebauer.com" title="CustomerCare@csc.eddiebauer.com">
+CustomerCare@csc.eddiebauer.com</a>
+</p>
+</div>
+<a name="unsubscribefromebemail"></a>
+<h3>Communications from Eddie Bauer</h3>
+<h4 id="eleventh">To Unsubscribe from Eddie Bauer Email</h4>
+<p class="last">
+If for any reason you would like to unsubscribe from either or both of our email programs, please follow
+the instructions below:
+</p>
+<p class="last">
+</p><p class="bold timeToProcess">Eddie Bauer Email</p>
+<ol class="numberedList olWrapper">
+<li>Simply click the Unsubscribe link provided at the bottom of<br> every email you receive.</li>
+<li>Send us an email via our <a class="links" href="/custserv/ask-eddie-email.jsp?unsubscribe=true" target="_blank">Contact Us</a> form.</li>
+</ol>
+<p></p>
+<p class="last">
+</p><p class="bold timeToProcess">Eddie Bauer Friends Email</p>
+<ol class="numberedList olWrapper">
+<li>Simply click the Unsubscribe link provided at the bottom of<br> every Friends email you receive.</li>
+<li>Send us an email via our <a class="links" href="/custserv/ask-eddie-email.jsp?unsubscribe=true" target="_blank">Contact Us</a> form.</li>
+</ol>
+<p></p>
+<h4 id="twelveth">EDDIE BAUER MAIL AND TELEMARKETING PREFERENCES</h4>
+<p class="last">
+If you prefer not to receive Eddie Bauer catalogs from us, please <a class="links" href="mailto:CustomerCare@csc.eddiebauer.com?subject=Unsubscribe Catalogs">contact us</a>
+or call 1-800-426-8020. Please include your full name and mailing address as it appears on your catalog. We will remove your
+name from our mailing list as soon as possible. Please recognize that you may receive another catalog before we are able to remove you. If you wish to be placed
+on our "Do Not Call" list, please let us know during the call, <a class="links" href="mailto:CustomerCare@csc.eddiebauer.com?subject=Please Add To Do Not Call List">
+contact us</a> or call 1-800-426-8020.
+</p>
+<p class="last">
+We also, on occasion, share a portion of our catalog mailing list with other reputable organizations. If you wish to have
+your name and address not shared with other organizations, please
+<a class="links" href="mailto:CustomerCare@csc.eddiebauer.com?subject=Do Not Share Name and Address">contact us</a> or call 1-800-426-8020.
+</p>
+<div class="returnLink">
+^<a href="#" class="anchor">Return to top</a>
+</div>
+</div>
+<div class="rightColumn">
+<div class="contactUs">
+<div class="container first">
+<div class="section first contactUs">
+<div class="header"></div>
+</div>
+<div class="section liveChat">
+<div id="liveChat"></div>
+</div>
+<div class="section byPhone">
+<table>
+<tbody><tr>
+<td><span class="icon"></span></td>
+<td>
+<div class="label">By Phone</div>
+<div class="content phone">Call 1-800-426-8020</div>
+<div class="content text">24 hours a day 7 days a week</div>
+<div class="content text tty">For Hearing Impaired</div>
+<div class="content text">TTY 1-800-462-6757</div>
+<div class="content text">M-F 7:00am-3:30pm EST</div>
+</td>
+</tr>
+</tbody></table>
+</div>
+<div class="section byEmail">
+<table>
+<tbody><tr>
+<td><span class="icon"></span></td>
+<td>
+<div class="label">By Email</div>
+<div class="content text"><a class="links underline" href="/custserv/ask-eddie-email.jsp">Send us an email</a> with your questions.</div>
+</td>
+</tr>
+</tbody></table>
+</div>
+<div class="section byMail">
+<table>
+<tbody><tr>
+<td><span class="icon"></span></td>
+<td>
+<div class="label">By Mail</div>
+<div class="content address1">Eddie Bauer Customer Service</div>
+<div class="content address2">P.O. Box 7001</div>
+<div class="content address3">Groveport, OH 43125</div>
+</td>
+</tr>
+</tbody></table>
+</div>
+</div>
+</div>
+<div class="safeSecureShopping">
+<div class="container">
+<div class="section first">
+<div class="label">Safe &amp; Secure Shopping</div>
+<div class="content text">Shop with confidence. Your order is safe and secure.</div>
+<span class="safeSecureShopping-faqs">
+<a href="javascript:openFBModal('/includes/faqs/privacy.jsp','type:ajax; scrolling:no; contentScroll:false width:400; height:450;')" class="links first">Privacy</a>				|
+<a href="javascript:openFBModal('/includes/faqs/security.jsp','type:ajax; scrolling:no; contentScroll:false width:400; height:250;')" class="links last">Security</a>
+</span>
+<a href="#" class="verisign-modal-link"><span class="icon"></span></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- footer rail -->
+<!--  footer rail completed here -->
+<!-- <footer> -->
+<script type="text/javascript">
+jQuery(document).ready(function() {
+jQuery("#footerCopyrightYear").text( (new Date).getFullYear() );
+});
+</script>
+<div id="mainFooter">
+<div class="clearfix">
+<div class="foot-col-1 left">
+<div id="foot-email-signup" class="foot-callout-bg">
+<h5>Sign up for email</h5>
+<p>Get our latest news and exclusive offers.</p>
+<form id="emailSignupForm" action="#" method="GET">
+<div class="formItem clearfix">
+<input type="text" id="signupEmail" name="signupEmail" data-error="" class="placeholder left text-input" placeholder="Enter email address">
+<input id="emailSignupSubmit" class="button left" type="image" src="/static/img/btn-go.png" alt="GO">
+</div>
+</form>
+</div>
+<div id="foot-friends" class="foot-callout-bg clearfix">
+<h5>Earn Rewards</h5>
+<img id="footFriendsLogo" src="/static/img/foot-eb-friends-logo.png" alt="Eddie Bauer(R) FRIENDS">
+<p>Join Eddie Bauer Friends and you'll start earning Rewards for every dollar you spend, no matter where you shop. </p>
+<p class="left learn-more"><a href="/custserv/customer-service-friends.jsp"><img src="/static/img/btn-foot-learn-more.png" alt="LEARN MORE"></a></p>
+<p class="left foot-friends-login"><a href="//www.eddiebauerfriends.com/">SIGN IN TO YOUR ACCOUNT</a></p>
+</div>
+<div id="foot-connect" class="foot-callout-bg">
+<h5>Connect With Us</h5>
+<div class="connect-list">
+<ul class="nav-list clearfix">
+<li>
+<a href="//www.facebook.com/eddiebauer" target="_blank">
+<div class="footer_facebook"></div>
+</a>
+</li>
+<li>
+<a href="//www.twitter.com/eddiebauer" target="_blank">
+<div class="footer_twitter"></div>
+</a>
+</li>
+<li>
+<a href="//www.pinterest.com/eddiebauer" target="_blank">
+<div class="footer_pinterest"></div>
+</a>
+</li>
+<li>
+<a href="//www.youtube.com/eddiebauer" target="_blank">
+<div class="footer_youtube"></div>
+</a>
+</li>
+<li>
+<a href="//www.instagram.com/eddiebauer" target="_blank">
+<div class="footer_instagram"></div>
+</a>
+</li>
+<li>
+<a href="//www.linkedin.com/company/157346" target="_blank">
+<div class="footer_linkedin"></div>
+</a>
+</li>
+</ul>
+<p>Get your daily shot of adventure</p>
+<a class="footer-blog" target="_blank" href="http://blog.eddiebauer.com"><div class="footer_blog_button"></div></a>
+<p class="footer-blog-message">We Outfit Life's Adventures™</p>
+</div>
+</div>
+</div>
+<div class="foot-col-2 left">
+<div id="sub-col-1" class="clearfix">
+<div id="footLocatorHolder" class="separator-right left">
+<a href="/storelocator/store_locator.jsp" title="Store Locator"><h5>Store Locator</h5></a>
+<p>Find an Eddie Bauer store near you.</p>
+<form id="storeLocatorForm" action="/storelocator/store_locator.jsp" method="GET">
+<div class="formItem clearfix">
+<input type="text" maxlength="10" id="locatorZip" class="text-input left" name="locatorZip" data-type="zipcode" data-error="Please enter a zip code or postal code." placeholder="Enter zip code">
+<input id="locatorSubmit" class="button left" type="image" src="/static/img/btn-go.png" alt="GO">
+</div>
+</form>
+</div>
+<div id="footQuickOrder" class="separator-right left blk-c">
+<h5>Catalog Quick Order</h5>
+<p>Enter a three-part item number.</p>
+<form id="CatalogQuickOrder" name="CatalogQuickOrder" action="/xhr/submit.jsp?_DARGS=/includes/eob-form.jsp.CatalogQuickOrder" method="post"><input name="_dyncharset" value="UTF-8" type="hidden"><input value="-619730659469424574" type="hidden"><div class="formItem clearfix">
+<input id="deptMFT" maxlength="3" placeholder="A00" data-error="" name="department" value="" class="left text-input" type="text" autocomplete="off"><input name="_D:department" value=" " type="hidden"><input id="effortMFT" maxlength="3" placeholder="000" data-error="" name="effort" value="" class="left text-input" type="text" autocomplete="off"><input name="_D:effort" value=" " type="hidden"><input id="itemMFT" maxlength="4" placeholder="0000" data-error="" name="itemNumber" value="" class="left text-input" type="text" autocomplete="off"><input name="_D:itemNumber" value=" " type="hidden"><input name="/com/eb/endeca/eob/CatalogQuickOrderFormHandler.catalogQuickOrderErrorURL" value="/catalog/catalog-quick-order.jsp?error=true" type="hidden"><input name="_D:/com/eb/endeca/eob/CatalogQuickOrderFormHandler.catalogQuickOrderErrorURL" value=" " type="hidden"><input id="footQuickSubmit" alt="GO" name="login" class="button left" src="/static/img/btn-go.png" type="image"><input name="_D:login" value=" " type="hidden"></div>
+<input name="_DARGS" value="/includes/eob-form.jsp.CatalogQuickOrder" type="hidden"></form></div>
+<a href="/custserv/customer-service-gift-cards.jsp" style="text-decoration:none;" title="Gift Cards">
+</a><div id="footGiftCards" class="left"><a href="/custserv/customer-service-gift-cards.jsp" style="text-decoration:none;" title="Gift Cards">
+<h5>Gift Cards</h5>
+<img class="left" src="/static/img/foot-eb-card.png" alt="Eddie Bauer Gift Card">
+</a><div class="left"><a href="/custserv/customer-service-gift-cards.jsp" style="text-decoration:none;" title="Gift Cards">
+<p>Cards ship for FREE, or can be sent quickly via email.</p>
+</a><p><a href="/custserv/customer-service-gift-cards.jsp" style="text-decoration:none;" title="Gift Cards"></a><a href="/custserv/customer-service-gift-cards.jsp">SHOP NOW</a></p>
+</div>
+</div>
+
+</div>
+<div id="sub-col-2" class="foot-top-separator clearfix">
+<div class="left">
+<h5>Help &amp; Support</h5>
+<ul class="nav-list">
+<li><a href="/custserv/customer-service-landing.jsp">Customer Service</a></li>
+<li><a href="/user/login.jsp?successUrl=/user/order-history.jsp">Order Status</a></li>
+<li><a href="/custserv/ask-eddie-email.jsp">Contact Us</a></li>
+<li><a href="/custserv/customer-service-returns-and-exchanges.jsp">Returns</a></li>
+<li><a href="/custserv/customer-service-shipping.jsp">Shipping</a></li>
+<li><a href="/custserv/customer-service-size-charts.jsp">Size Charts</a></li>
+<li><a href="/user/login.jsp?successUrl=/user/wishlist.jsp">Wish List</a></li>
+<li><a href="/custserv/ask-eddie-email.jsp?subject=catalog">Request a Catalog</a></li>
+<li><a href="/templates/site-map.jsp?qsLineName=all">Site Map</a></li>
+</ul>
+</div>
+<div class="left alt-width">
+<h5>Company Info</h5>
+<ul class="nav-list foot-alt-list">
+<li><a href="/company-info/company-info-about-us.jsp">About Us</a></li>
+<li><a href="/career/career-overview.jsp">Careers</a></li>
+<li><a href="/company-info/company-info-partners.jsp">Partners</a></li>
+<li><a href="/static/pdf/California_Transparency_Supply_Chain.pdf" target="_blank">Supply Chain Disclosure</a></li>
+</ul>
+<h5>Programs &amp; Services</h5>
+<ul class="nav-list">
+<li><a href="/company-info/company-info-affiliate-program.jsp">Affiliate Program</a></li>
+<li><a href="/custserv/customer-service-eddie-bauer-credit-cards.jsp">Eddie Bauer Credit Card</a></li>
+<li><a href="/custserv/pro-deals-application.jsp">Pro Deals</a></li>
+<li><a href="/company-info/company-info-global-releaf.jsp">Global ReLeaf</a></li>
+</ul>
+</div>
+<div class="left">
+<h5>Shopping</h5>
+<ul class="nav-list shopping">
+<li><a href="/browse/cargo-pants/pants/men/_/N-276j?tab=men&amp;previousPage=FOOT">Men's Cargo Pants</a></li>
+<li><a href="/browse/chinos-khaki-pants/pants/men/_/N-276k?tab=men&amp;previousPage=FOOT">Men's Chinos &amp; Khaki Pants</a></li>
+<li><a href="/browse/t-shirts/shirts/men/_/N-277j?tab=men&amp;previousPage=FOOT">Men's T-Shirts</a></li>
+<li><a href="/browse/cargo-shorts/shorts/men/_/N-2770?tab=men&amp;previousPage=FOOT">Men's Cargo Shorts</a></li>
+<li><a href="/browse/dress-casual-shirts/shirts/men/_/N-277f?tab=men&amp;previousPage=FOOT">Men's Dress Shirts</a></li>
+<li><a href="/browse/polo-shirts/shirts/men/_/N-277g?tab=men&amp;previousPage=FOOT">Men's Polo Shirts</a></li>
+</ul>
+</div>
+<div class="left list-space">
+<ul class="nav-list shopping">
+<li><a href="/browse/sweatshirts---hoodies/tops/women/_/N-27aw?tab=women&amp;previousPage=FOOT">Women's Sweatshirts &amp; Hoodies</a></li>
+<li><a href="/browse/t-shirts/tops/women/_/N-27a3?tab=women&amp;previousPage=FOOT">Women's Tees</a></li>
+<li><a href="/browse/sweaters/tops/women/_/N-27av?tab=women&amp;previousPage=FOOT">Women's Sweaters &amp; Cardigans</a></li>
+<li><a href="/browse/trousers/pants---capris/women/_/N-279e?tab=women&amp;previousPage=FOOT">Women's Dress Pants</a></li>
+<li><a href="/browse/active-pants/pants---capris/women/_/N-2799?tab=women&amp;previousPage=FOOT">Women's Hiking &amp; Workout Pants</a></li>
+<li><a href="/browse/capris/pants---capris/women/_/N-27au?tab=women&amp;previousPage=FOOT">Women's Capris</a></li>
+</ul>
+</div>
+</div>
+<div id="sub-col-3" class="foot-top-separator clearfix">
+<div class="left first">
+<h5>Our Creed</h5>
+<p>To give you such outstanding quality, value, service and guarantee that we may be worthy of your high esteem.™</p>
+</div>
+<div class="left separator-left">
+<h5>Our Guarantee</h5>
+<p>Every item we sell will give you complete satisfaction or you may return it for a full refund.™</p>
+</div>
+<div class="left separator-left last">
+<h5>About Eddie Bauer</h5>
+<p>Eddie Bauer offers signature outerwear, apparel, outdoor gear, and accessories. All built to one standard: to be the best.</p>
+</div>
+</div>
+<p id="footTopLink"><a href="#pageTop">Back to top <span>▲</span></a></p>
+</div>
+</div>
+<div id="sub-footer-info" class="clearfix">
+<div class="clearfix">
+<span class="left">©<span id="footerCopyrightYear">2020</span> Eddie Bauer LLC. All rights reserved. eddiebauer.com® is a registered trademark of Eddie Bauer Licensing Services LLC. </span>
+<span class="right">1-800-426-8020 — 24 hours a day 7 days a week</span>
+</div>
+<div class="clearfix">
+<span><a href="/company-info/company-info-terms-of-use.jsp">Terms of Use</a><a href="/company-info/company-info-privacy-and-security.jsp">Privacy Policy</a></span>
+</div>
+</div>
+<!--
+---------DO NOT REMOVE THIS []------
+Server Name: 482295-rsatgprd03.eddiebauer.com:8852
+Profile: u25139289
+Order: A25189732
+mode: 
+Server is alive... />
+--->
+</div>
+<div id="footerBg"></div>
+<!-- </footer> -->
+</div><script src="/static/js/vendor/jquery-ui-1.9.2.custom.min.js"></script>
+<script src="/static/js/jquery/floatbox.js"></script>
+<script src="/static/js/jquery/core_601_modified.js"></script>
+<script src="/static/js/jquery/options.js"></script>
+<script src="/static/js/eb-plugins.js"></script>
+<script src="/static/js/endeca-auto-suggest.js"></script>
+<script type="text/javascript">
+$(document).ready(function() {
+EBGLOBAL.sessionTimeout.durationInMinutes = 30;
+EBGLOBAL.sessionTimeout.durationInMilliSeconds = EBGLOBAL.sessionTimeout.durationInMinutes * 60000;
+EBGLOBAL.sessionTimeout.pages = "/checkout/bag.jsp,/checkout/login.jsp,/checkout/billing.jsp,/checkout/delivery.jsp,/checkout/payment.jsp,/checkout/review.jsp";
+EBGLOBAL.sessionTimeout.resetTimeout();
+});
+</script>
+<!-- @TODO: [jquery.validate.additional-methods.min.js] this may not be necessary
+<script src="/static/js/vendor/jquery.validate.additional-methods.min.js"></script>
+-->
+<script src="/static/js/main.js"></script>
+<script src="/static/js/vendor/date.js"></script>
+<script src="/static/js/plugins.js"></script>
+<script src="/static/js/jquery/slideshow1.js"></script>
+<script type="text/javascript" src="/static/js/custserv/customer-service-scripts.js"></script>
+<script type="text/javascript" src="/static/js/storelocator-lib/storelocator.js"></script>
+<script>
+
+function GetQueryStringParams( name ){
+name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
+var regexS = "[\\?&]"+name+"=([^&#]*)",
+regex = new RegExp( regexS ),
+results = regex.exec( window.location.href );
+if( results == null ){
+return "";
+} else{
+return decodeURIComponent(results[1].replace(/\+/g, " "));
+}
+};
+var pSrch = GetQueryStringParams('pSrch') || "";
+if(pSrch !=""){
+var	pScrhWord = pSrch;
+var pScrhPredictiveSearch = ["Yes"];
+}else{
+var	pScrhWord = "";
+var pScrhPredictiveSearch = [""];
+};
+//alert("Getting to utag_data");
+var utag_data = {
+
+page_name : "Privacy And Security | Company Information",
+category_id : "C22376"
+
+}
+</script>
+<fbtrash id="fbTrash" style="display: none;"></fbtrash></body></html>
