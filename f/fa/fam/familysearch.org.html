@@ -1,10 +1,144 @@
-<!--The following is the downloaded HTML source of the familysearch.org privacy policy that was archived on 2013-09-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130923062829id_/https%3A//familysearch.org/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the familysearch.org privacy policy that was archived on 2014-05-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140527005013id_/https%3A//familysearch.org/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><!--<![endif]--><head>
+  
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>window["adrum-app-key"] = "AD-AAB-AAA-BTZ"</script>
+    <script>window["adrum-start-time"] = new Date().getTime();</script>
+  
+
+  
+    
+
+<script>
+  //polyfill window.performance.
+  ;(function () {
+    var w = typeof window != 'undefined' ? window : exports,
+        marks = [];
+    w.performance || (w.performance = {});
+    w.performance.now || (
+      w.performance.now = performance.now || performance.webkitNow ||
+                               performance.msNow || performance.mozNow);
+    if (!w.performance.now){
+      var s = Date.now ? Date.now() : +(new Date());
+      if (performance.timing && performance.timing)
+        s = performance.timing.navigationStart
+      w.performance.now = (function(){
+        var n = Date.now ? Date.now() : +(new Date());
+        return n-s;
+      });
+    }
+    w.performance.mark || (
+    w.performance.mark =
+      w.performance.webkitMark ? w.performance.webkitMark :
+      (function (l) {
+        marks.push({'name':l,'entryType':'mark','startTime':w.performance.now(),'duration':0});
+      }));
+    w.performance.getEntriesByType || (
+    w.performance.getEntriesByType =
+      w.performance.webkitGetEntriesByType ? w.performance.webkitGetEntriesByType :
+      (function (t) {
+        return t == 'mark' ? marks : undefined;
+      }));
+  }());
+
+  //attach it to FS.rum.markUserTime();
+  //if FS and FS.rum aren't isn't set, set it...
+  if (!window.FS) FS = {};
+  if (!FS.rum) FS.rum = {};
+
+  FS.rum.markUserTime = function(l) {
+    var raf = window['requestAnimationFrame'] ||
+      (function(callback){setTimeout(callback, 0);});
+    raf(function(){
+      window.performance.mark(l);
+      if (window['console'] && console['timeStamp'])
+        console.timeStamp(l);
+    });
+  };
+
+  //used especially for single page transactions, since we can't use the normal start timer mechanisms
+  //fire this method, when you are starting a single-page transition.
+  FS.rum.startPageTimer = function() {
+    //can this init a new boomr obj?
+    window.FS.rum.timers = window.FS.rum.timers || {};
+    //this isn't really page start. It's more of a transition start. or action start.
+    window.FS.rum.timers.page_start = new Date().getTime();
+  }
+
+  //for single-page apps. measure when the page is actually ready...
+  //call this when the user experience is ready (both for transition & page load)
+  FS.rum.pageReady = function () {
+    try { //FIXME: I don't like try/catch. Is this the best / safest way to ensure safety?
+      window.FS.rum.timers = window.FS.rum.timers || {}; //make object if it doesn't exist
+      window.FS.rum.timers.page_ready = new Date().getTime();
+
+      //if BOOMR isn't loaded, abort
+      if (!window.BOOMR) return;
+
+      BOOMR.init({
+        beacon_url: "https://familysearch.org/beacon/boomr",
+        autorun: false
+      });
+
+      //custom vars to add
+      BOOMR.addVar("app", "landing");
+      BOOMR.addVar("pri", "false");
+      //add pageName for easy url tagging. Reuse omniture pageName...
+      if (window.s && s.pageName) BOOMR.addVar("pName", s.pageName);
+
+
+      //IF window.FS.rum.timers.page_start is NOT set, it's  being called from a page refresh / navigation
+      if (FS.rum.timers.page_start) {
+        //if there's a start timer, it's  single page transition, else it's a normal page load
+        BOOMR.addVar('fs_timer_type', 'single_page_transition'); //for our benefit, so we can track transitions vs full page load
+        fireSinglePageTransitionBeacon();
+      } else {
+        BOOMR.addVar('fs_timer_type', 'single_page_initial_load');
+        BOOMR.page_ready(); //tell BOOMR the page is ready, and fire the beacon. Needed if auto_run = false
+      }
+
+    } catch (e) {
+      if (window.console && console.log) console.log("Error caught in FS.rum.pageReady", e);
+    }
+
+    //fire a brand new beacon for a single page transition
+    function fireSinglePageTransitionBeacon(){
+      // console.log('transition load TIME for:' + s.pageName, FS.rum.timers.page_ready - FS.rum.timers.page_start);
+      //remove beacon data we don't care about that remains from inital page load
+      BOOMR.subscribe('before_beacon', removeBeaconParams);
+      //wipe out the NT plugin if it exists, because we've wiped out its variables, and we don't want it previnting the beacon from sending.
+      if (BOOMR.plugins.NavigationTiming) delete BOOMR.plugins.NavigationTiming;
+      //time for a single_page transition
+      BOOMR.plugins.RT.setTimer("t_done", window.FS.rum.timers.page_ready - FS.rum.timers.page_start).done();
+    } //fireSinglePageTransitionBeacon
+
+    //http://lognormal.github.io/boomerang/doc/howtos/howto-5.html
+    //loop through the beacon vars and remove nt_beacons
+    function removeBeaconParams(o) {
+      var p_names = [], k;
+
+      for(k in o) {
+        if (k.match(/^nt_/) && o.hasOwnProperty(k) ) { //if it starts with nt_, then strip it off.
+          p_names.push(k);
+        }
+      }
+
+      BOOMR.removeVar(p_names); // removeVar accepts either a list or an array
+    } //removeBeaconParams
+
+  } //FS.rum.pageReady
+
+</script>
+
+  
+
   <link href="https://edge.fscdn.org/assets/docs/fs_logo_favicon.ico" rel="icon" type="image/x-icon">
+
   
     <title data-ng-bind="page.title+' — FamilySearch.org'">Privacy Policy — FamilySearch.org</title>
+
+      
 
     
 
@@ -17,7 +151,8 @@
 <meta name="description" content="Discover your family history. Explore the world’s largest collection of free family trees, genealogy records and resources.">
 
 
-<meta name="keywords" content="Ancestor, Ancestry, Ancestral File, Archive, Baptism, Birth, Burial, Census, Census Record, Christening, Church, Church Record, Civil Registration, Court Record, Death, Descendant, Family, FamilySearch, Family History, Family Name, Family History Library, Family History Center, Family Tree, Genealogy, IGI, International Genealogical Index, LDS, Latter-Day Saint, Library, Marriage, Military Record, Mormon, Passenger List, Personal History, PAF, Personal Ancestral File, Probate Record, Record Custodian, Roots, Surname, The Church of Jesus Christ of Latter-day Saints, Vital Record">
+
+
 
 
 
@@ -29,7 +164,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+<script type="text/javascript">
   window.appName = 'landing';
   window.targetEnv = 'prod';
   window.debugOn = false;
@@ -38,18 +173,23 @@
 
 
   
+  
     
-      <link href="https://edge.fscdn.org/assets/css/bootstrap-4e2b1b162d1b0258fe9438059b650cb5.css" rel="stylesheet" media="screen">
-      <link href="https://edge.fscdn.org/assets/css/responsive-166fbb8fd4a3f5207a500bdf6c2d9186.css" rel="stylesheet" media="screen">
+      <link href="https://edge.fscdn.org/assets/css/bootstrap-4e2b1b162d1b0258fe9438059b650cb5.css" rel="stylesheet" media="all">
+      
+        <link href="https://edge.fscdn.org/assets/css/responsive-166fbb8fd4a3f5207a500bdf6c2d9186.css" rel="stylesheet" media="screen">
+      
     
+    <link href="https://edge.fscdn.org/assets/css/layout/theme-engage-e818d135404924ad71e0c6f4aaa8949a.css" rel="stylesheet" media="all">
+    
+      <link href="https://edge.fscdn.org/assets/css/layout/theme-engage-responsive-e1b37a92420f334bafd7a9585e4c8d22.css" rel="stylesheet" media="all">
+    
+    <link href="https://edge.fscdn.org/assets/css/pure-min-7ec44ab6044cc03335589fae3895a8a4.css" rel="stylesheet" media="screen">
   
 
   
-    <link href="https://edge.fscdn.org/assets/css/layout/theme-engage-160f99a837ef95902c6f4f3adee1ce41.css" rel="stylesheet" media="screen">
     
-      
-        <link href="https://edge.fscdn.org/assets/css/terms_privacy-339b5216c2c2bb40fb0882166cca3778.css" rel="stylesheet" media="screen">
-      
+      <link href="https://edge.fscdn.org/assets/css/terms_privacy-339b5216c2c2bb40fb0882166cca3778.css" rel="stylesheet" media="screen">
     
   
 
@@ -61,42 +201,80 @@
   
 
     
-	    <script src="https://edge.fscdn.org/assets/js/jquery-1.8.2.min-cfa9051cc0b05eb519f1e16b2a6645d7.js"></script>
-	  
-
     
-      <script src="https://edge.fscdn.org/assets/js/sso-lds-account-8ed42d7b4adfb27e3c76d134961e31b0.js"></script>
-      <script>require("sso-lds-account")();</script>
+      <script src="https://edge.fscdn.org/assets/js/jquery-1.8.2.min-cfa9051cc0b05eb519f1e16b2a6645d7.js"></script>
     
 
-    <script src="https://edge.fscdn.org/assets/js/inject_0.4.0_a-7bb078127924826d44b15d3c0c4f097b.js"></script>
+    <!-- Load Optimizely after jQuery so we don't have to load Optimizely with jQuery -->
+    
+      <script src="//cdn.optimizely.com/js/552200450.js"></script>
+    
+
+    
+  <!--[if !IE 8]><!-->
+      <script src="https://edge.fscdn.org/assets/js/inject_0.5.2-34a5e9dae81403fd2abd05358f239360.js"></script>
+  <!--[endif]---->
+  <!--[if lte IE 8]>
+      <script src='https://edge.fscdn.org/assets/js/inject_0.4.0_a-7bb078127924826d44b15d3c0c4f097b.js'></script>
+  <![endif]-->
+    
 
     
 
-    <script src="https://edge.fscdn.org/assets/js/base-6bc6fb28ee1804b275e17d5add289cb5.js"></script>
+    <script src="https://edge.fscdn.org/assets/js/base-429b5b7a8282779129fec3c6dd281122.js"></script>
 
     
+    
+      
+        <script src="//assets.adobedtm.com/05c94072b1046aef0dc9b195809b4d2429a0d30a/satelliteLib-5883022ebeed9721e2c5a69de5972e51e91b0938.js"></script>
+      
+        
+    
+    
+
+    
+      <script src="https://edge.fscdn.org/assets/js/mbox-0.2-3c1d88db82dcb6400af5d7295b8080e6.js"></script>
+    
+
   
 </head>
 
+
+
 <body id="pagekey__landing__privacy_policy" class="env-production ">
-  <script src="https://edge.fscdn.org/assets/js/familysearch-s_code-19679656fa65786a5730ff00a58d5d84.js"></script>
+
   
 
-  <!--[if lte IE 7]>
+  <!--[if lte IE 8]>
     <div class="browser-upgrade alert alert-error">
       <p><strong>Attention</strong>: This site does not support the current version of your web browser. To get the best possible experience using our website we recommend that you upgrade to a newer version or <a href="/browser-upgrade" class="btn btn-water btn-small">install another browser</a>.</p>
     </div>
   <![endif]-->
 
+  <!-- EU Cookie Consent -->
+  <div class="cookie-consent hide" data-control="CookieConsent">
+    We use cookies and third parties to provide you with the best experience on our website and show custom content based on your interests, as described in our <a href="/privacy">Privacy Policy</a>. You can change your cookie settings at any time. By continuing to use the site you agree to our use of cookies. <a id="_bapw-link" href="http://info.evidon.com/pub_info/2742?v=1" target="_blank">More Information About Cookies.</a>
+    <a href="#" class="close"><i class="icon-remove icon-white"></i></a>
+  </div>
 
   <div id="wrapper" class="container">
 
-
     
+      
 
-<header class="clearfix" id="global-engage-header" data-control="ddPopover" data-config="{&quot;trigger&quot;:&quot;.mobile-actions-trigger&quot;, &quot;target&quot;: &quot;.mobile-actions-dd&quot;}">
- 
+
+
+
+
+
+<div id="global-mbox"></div>
+<script type="text/javascript">
+  mboxCreate('fs_engage_global_mbox', 'pageName=home', 'pageType=home', 'language=en');
+</script>
+
+
+<header class="clearfix" id="global-engage-header">
+  
     <div class="mboxDefault"></div>
     <script type="text/javascript">
       mboxCreate('fs-header-footer');
@@ -105,98 +283,92 @@
       <ul class="unstyled utilities">
 
         
-          <li class="volunteer visible-desktop hide-zh hide-ko">
-            <a href="/volunteer" class="header-icon nav-item" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;lo_hdr_vlntr&quot;}" data-i18n-bind="'Volunteer'">Volunteer</a>
-          </li>
+        <li class="volunteer visible-desktop hide-zh hide-ko">
+          <a href="/volunteer" class="header-icon nav-item" data-test="header-nav-volunteer" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;lo_hdr_vlntr&quot;}" data-i18n-bind="'Volunteer'">Volunteer</a>
+        </li>
         
 
         
-          <li class="help visible-desktop" data-control="ddPopover" data-config="{&quot;trigger&quot;: &quot;.utility-trigger&quot;, &quot;target&quot;: &quot;.utility-menu&quot;, &quot;closeTrigger&quot;: &quot;.close-menu&quot;, &quot;openEvent&quot;: &quot;openHelpMenuEvent&quot;, &quot;closeEvent&quot;: &quot;closeHelpMenuEvent&quot;, &quot;unique_id&quot;: &quot;get-help-dd&quot; }">
-            <a href="javascript:;" class="utility-trigger header-icon nav-item" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;lo_hdr_ghelp&quot;}" data-i18n-bind="'Help'">Get Help</a>
-            <ul class="utility-menu double-wide unstyled" data-open-event="" data-close-event="">
-              <li>
-                <a href="http://remote.familysearch.org/rc_en.html" class="remoteAssistance" target="blank"></a>
-                <a href="javascript:;" class="close-menu"><i class="icon-remove-sign icon-white"></i></a>
 
-                <div class="row-fluid">
-                  <div class="span4">
-                    <h4>Options</h4>
-                    <ul class="unstyled" data-control="Tabs">
+        
 
-                    
-                      <li><a href="javascript:;" id="helpAndLearnContainer-link" class="menu-icon help-center active" data-i18n-bind="'HelpAndLearn'">Help and Learn</a></li>
-                    
+        <li class="help visible-desktop" data-control="ddPopover" data-config="{&quot;trigger&quot;: &quot;.utility-trigger&quot;, &quot;target&quot;: &quot;.utility-menu&quot;, &quot;closeTrigger&quot;: &quot;.close-menu&quot;, &quot;openEvent&quot;: &quot;openHelpMenuEvent&quot;, &quot;closeEvent&quot;: &quot;closeHelpMenuEvent&quot;, &quot;unique_id&quot;: &quot;get-help-dd&quot; }">
+          <a href="javascript:;" class="utility-trigger header-icon nav-item" data-test="header-nav-help" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;lo_hdr_ghelp&quot;}" data-i18n-bind="'Help'">Get Help</a>
+          <ul class="utility-menu double-wide unstyled" data-open-event="" data-close-event="">
+            <li>
+              <a href="http://remote.familysearch.org/rc_en.html" data-test="header-help-remote" class="remoteAssistance" target="blank"></a>
+              <a href="javascript:;" data-test="header-help-close" class="close-menu"><i class="icon-remove-sign icon-white"></i></a>
 
-                      <li><a href="javascript:;" id="callSupportContainer-link" class="menu-icon phone" data-i18n-bind="'CallUs'">Call Us</a></li>
+              <div class="row-fluid">
+                <div class="span4">
+                  <h4>Options</h4>
+                  <ul class="unstyled" data-control="Tabs">
 
                     
-                      <li class="show-en show-es"><a href="javascript:;" id="liveChatMenuContainer-link" class="menu-icon live-chat" data-i18n-bind="'LiveChat'">Live Chat</a></li>
+                    <li><a href="javascript:;" id="helpAndLearnContainer-link" class="menu-icon help-center active" data-test="header-help-helpandlearn" data-i18n-bind="'HelpAndLearn'">Help and Learn</a></li>
                     
 
-                      <li><a href="javascript:;" id="inPersonHelpContainer-link" class="menu-icon building" data-i18n-bind="'InPerson'">In-Person Help</a></li>
-                      <li><a href="javascript:;" id="sendAMessageContainer-link" class="menu-icon envelope" data-i18n-bind="'sendAMessage'">Send a Message</a></li>
-                    
-                    </ul>
-                  </div>
+                    <li><a href="javascript:;" id="callSupportContainer-link" class="menu-icon phone" data-test="header-help-callus" data-i18n-bind="'CallUs'">Call Us</a></li>
 
-                  <div class="span8">
                     
-                      <div id="helpAndLearnContainer" class="helpMenuContainer">
-                        <h4 data-i18n-bind="'HelpAndLearn'">Help and Learn</h4>
-                        <div class="helpMenuContent">
-                          <p data-i18n-bind="'helpDescription'">Check out our product support and research tools, all available online!</p>
-                          <ul class="unstyled">
-                            <li><a href="/ask" data-i18n-bind="'helpAndLearnHome'">Help and Learn Home</a></li>
-                            <li><a href="/ask/productSupport" data-i18n-bind="'ProductSupport'">Product Support</a></li>
-                            <li class="hide show-en show-es"><a href="/ask/researchAssistance" data-i18n-bind="'ResearchAssistance'">Research Assistance</a></li>
-                            <li><a href="/ask/gettingStarted" data-i18n-bind="'GettingStarted'">Getting Started Guide</a></li>
-                            <li class="hide-ja hide-de hide-ru hide-zh hide-ko"><a href="/learningcenter/home.html" data-i18n-bind="'LearningCenter'">Learning Center Video Courses</a></li>
-                            <li class="hide show-en show-es"><a href="/ask/researchWiki" data-i18n-bind="'ResearchWiki'">Research Wiki</a></li>
-                            <li class="hide caseLink"><a href="/ask/mycases" data-i18n-bind="'MyCases'">My Cases</a></li>
-                          </ul>
-                        </div>
-                      </div>
+                    <li class="show-en show-es"><a href="/ask/help/inContactUrlPage" target="_blank" data-test="header-help-livechat" class="menu-icon live-chat">Live Chat</a></li>
                     
-                    <div id="callSupportContainer" class="helpMenuContainer">
-                      <h4 data-i18n-bind="'CALLSUPPORT'">Call Support</h4>
-                      <div class="helpMenuContent" data-control="ProductSupportPhoneNumbers" data-config="{&quot;startEvent&quot;:&quot;openHelpMenuEvent&quot;}"></div>
-                    </div>
+
+                    <li><a href="javascript:;" id="inPersonHelpContainer-link" class="menu-icon building" data-test="header-help-visitus" data-i18n-bind="'InPerson'">Visit Us</a></li>
+                    <li><a href="javascript:;" id="sendAMessageContainer-link" class="menu-icon envelope" data-test="header-help-sendmessage" data-i18n-bind="'sendAMessage'">Send a Message</a></li>
                     
-                      <div id="liveChatMenuContainer" class="helpMenuContainer">
-                        <h4 id="helpMenuTitle" data-i18n-bind="'LIVECHAT'">Live Chat</h4>
-                        <div class="helpMenuContent" data-control="LiveHelp" data-config="{&quot;chatOnly&quot;:true, &quot;helpType&quot;: &quot;ALL&quot;, &quot;startEvent&quot;:&quot;openHelpMenuEvent&quot;, &quot;stopEvent&quot;:&quot;closeHelpMenuEvent&quot;}"></div>
-                      </div>
-                    
-                    <div id="inPersonHelpContainer" class="helpMenuContainer">
-                      <h4 id="helpMenuTitle" data-i18n-bind="'inPerson'">In-Person Help</h4>
-                      <div class="helpMenuContent" data-control="InPersonHelp" data-config="{&quot;startEvent&quot;:&quot;openHelpMenuEvent&quot;}"></div>
-                    </div>
-                    <div id="sendAMessageContainer" class="helpMenuContainer">
-                      <h4 id="helpMenuTitle" data-i18n-bind="'sendAMessage'">Send a Message</h4>
-                      <div class="helpMenuContent" data-control="SendAMessage" data-config="{&quot;startEvent&quot;:&quot;openHelpMenuEvent&quot;}"></div>
+                  </ul>
+                </div>
+
+                <div class="span8">
+                  
+                  <div id="helpAndLearnContainer" class="helpMenuContainer">
+                    <h4 data-i18n-bind="'HelpAndLearn'">Help and Learn</h4>
+                    <div class="helpMenuContent">
+                      <p data-i18n-bind="'helpDescription'">Check out our product support and research tools, all available online!</p>
+                      <ul class="unstyled">
+                        <li><a target="_blank" href="/ask" data-test="header-help-helpandlearnhome" data-i18n-bind="'helpAndLearnHome'">Help and Learn Home</a></li>
+                        <li><a target="_blank" href="/ask/productSupport" data-i18n-bind="'ProductSupport'">Product Support</a></li>
+                        <li class="hide show-en"><a target="_blank" href="/ask/researchAssistance" data-test="header-help-researchassistance" data-i18n-bind="'ResearchAssistance'">Research Assistance</a></li>
+                        <li><a target="_blank" href="/ask/gettingStarted" data-test="header-help-gettingstarted" data-i18n-bind="'GettingStarted'">Getting Started Guide</a></li>
+                        <li class="hide-ja hide-de hide-ru hide-zh hide-ko"><a target="_blank" href="/learningcenter/home.html" data-test="header-help-learningcenter" data-i18n-bind="'LearningCenter'">Learning Center Video Courses</a></li>
+                        <li class="hide show-en show-es"><a target="_blank" href="/ask/researchWiki" data-test="header-help-researchwiki" data-i18n-bind="'ResearchWiki'">Research Wiki</a></li>
+                        <li class="caseLink"><a target="_blank" href="/ask/mycases" data-test="header-help-mycases" data-i18n-bind="'MyCases'">My Cases</a></li>
+                      </ul>
                     </div>
                   </div>
-                </div><!-- row-fluid -->
-              </li>
-            </ul>
-          </li>
+                  
+                  <div id="callSupportContainer" class="helpMenuContainer">
+                    <h4 data-i18n-bind="'CALLSUPPORT'">Call Support</h4>
+                    <div class="helpMenuContent" data-control="ProductSupportPhoneNumbers" data-config="{&quot;startEvent&quot;:&quot;openHelpMenuEvent&quot;}"></div>
+                  </div>
+                  
+                  <div id="liveChatMenuContainer" class="helpMenuContainer">
+                    <h4 data-i18n-bind="'LIVECHAT'">Live Chat</h4>
+                    <div class="helpMenuContent" data-control="LiveHelp" data-config="{&quot;chatOnly&quot;:true, &quot;helpType&quot;: &quot;PRODUCT&quot;, &quot;startEvent&quot;:&quot;openHelpMenuEvent&quot;, &quot;stopEvent&quot;:&quot;closeHelpMenuEvent&quot;}"></div>
+                  </div>
+                  
+                  <div id="inPersonHelpContainer" class="helpMenuContainer">
+                    <h4 data-i18n-bind="'inPerson'">In-Person Help</h4>
+                    <div class="helpMenuContent" data-control="InPersonHelp" data-config="{&quot;startEvent&quot;:&quot;openHelpMenuEvent&quot;}"></div>
+                  </div>
+                  <div id="sendAMessageContainer" class="helpMenuContainer">
+                    <h4 data-i18n-bind="'sendAMessage'">Send a Message</h4>
+                    <div class="helpMenuContent" data-control="SendAMessage" data-config="{&quot;startEvent&quot;:&quot;openHelpMenuEvent&quot;}"></div>
+                  </div>
+                </div>
+              </div><!-- row-fluid -->
+            </li>
+          </ul>
+        </li>
         
-
-        <!-- TODO: Add working Church websites menu -->
-
         
-          <li class="hide" data-control="ChurchWebsites" data-config="{
-                &quot;effective-locale&quot; : &quot;en&quot;
-              }">
-            <a href="#" class="hide nav-item" id="church-sites"></a>
-          </li>
-        
-        <li class="menu hidden-desktop mobile-menu-button">
-          <a href="javascript:;" class="header-icon utility-trigger mobile-actions-trigger" id="main-nav-trigger">
 
           
+        
 
-          </a>
+        <li class="menu hidden-desktop mobile-menu-button">
+          <a href="javascript:;" class="header-icon utility-trigger" id="main-nav-trigger"></a>
         </li>
       </ul>
 
@@ -205,191 +377,339 @@
     <div class="global-pri-nav-container clearfix">
 
       <h1 class="serif logo-container">
-        <a class="logo" href="/" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;lo_hdr_logo&quot;}"><!-- FamilySearch --></a>
+        <a class="logo" href="/" data-test="header-logo" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;lo_hdr_logo&quot;}"><!-- FamilySearch --></a>
       </h1>
 
       
-        
+      
 
-        <!-- iPhone view converts this to dd -->
-        <nav class="mobile-actions-dd">
+          <!-- iPhone view converts this to dd -->
+          <nav class="mobile-actions-dd">
             
+            <div class="mobile-nav hidden-desktop">
+              
+
+<section class="account">
+  <header>Account</header>
+
+  <div class="account">
+    
+      
 
 
+<a data-test="NavigationSignIn-mobile" href="/auth/familysearch/login?fhf=true" id="sign-in" class="if-signed-out account-name sign-in header-icon btn" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;lo_hdr_login&quot;}" data-i18n-bind="'SignIn'">
+  Sign In
+</a>
+
+
+
+    
+  </div>
+
+</section>
+
+<section class="activities">
+  <header>Activities</header>
+  <ul class="main-nav unstyled clearfix">
+    
+      <li class="">
+        <a href="javascript:void(0);" class="nav-item">Family Tree</a>
+        
+          <div class="sub-menu">
+            <ul>
+              
+                <li class="sub-menu-item"><a href="/tree/#view=tree">Tree</a></li>
+              
+                <li class="sub-menu-item"><a href="/tree/#view=ancestor">Person</a></li>
+              
+                <li class="sub-menu-item"><a href="/tree/#view=search">Find</a></li>
+              
+                <li class="sub-menu-item"><a href="/tree/#view=favorites">Lists</a></li>
+              
+            </ul>
+          </div>
+        
+      </li>
+    
+      <li class="">
+        <a href="javascript:void(0);" class="nav-item">Memories</a>
+        
+          <div class="sub-menu">
+            <ul>
+              
+                <li class="sub-menu-item"><a href="/photos/images">Photos</a></li>
+              
+                <li class="sub-menu-item"><a href="/photos/stories">Stories</a></li>
+              
+                <li class="sub-menu-item"><a href="/photos/documents">Documents</a></li>
+              
+                <li class="sub-menu-item"><a href="/photos/people">People</a></li>
+              
+                <li class="sub-menu-item"><a href="/photos/albums">Albums</a></li>
+              
+                <li class="sub-menu-item"><a href="/photos/find">Find</a></li>
+              
+            </ul>
+          </div>
+        
+      </li>
+    
+      <li class="">
+        <a href="javascript:void(0);" class="nav-item">Search</a>
+        
+          <div class="sub-menu">
+            <ul>
+              
+                <li class="sub-menu-item"><a href="/search">Records</a></li>
+              
+                <li class="sub-menu-item"><a href="/family-trees">Genealogies</a></li>
+              
+                <li class="sub-menu-item"><a href="/catalog-search">Catalog</a></li>
+              
+                <li class="sub-menu-item"><a href="http://books.familysearch.org">Books</a></li>
+              
+                <li class="sub-menu-item"><a href="/learn/wiki/en/Main_Page">Wiki</a></li>
+              
+            </ul>
+          </div>
+        
+      </li>
+    
+      <li class="">
+        <a href="/volunteer" class="nav-item">Volunteer</a>
+        
+      </li>
+    
+  </ul>
+</section>
+<section>
+  <header>Get Help</header>
+  <ul class="main-nav help-list unstyled clearfix">
+    <li><a class="nav-item" href="/ask/"><span>Contact Us</span></a></li>
+    <li><a class="nav-item" href="/ask/">Help Center</a></li>
+  </ul>
+</section>
+<section class="family-search">
+  <header>Family Search</header>
+  <ul class="main-nav unstyled clearfix">
+  
+    <li>
+      <a class="nav-item" href="/about" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;lo_ftr_about&quot;}" data-i18n-bind="'aboutLong'">About FamilySearch</a>
+     </li>
+   
+    <li>
+      <a class="nav-item" href="/blog" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;lo_ftr_blog&quot;}" data-i18n-bind="'blogLong'">Blog</a>
+     </li>
+   
+    <li>
+      <a class="nav-item" href="/feedback" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;lo_ftr_feedback&quot;}" data-i18n-bind="'feedbackLong'">General Feedback</a>
+     </li>
+   
+    <li>
+      <a class="nav-item" href="/site-map" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;lo_ftr_site-map&quot;}" data-i18n-bind="'SiteMap'">Site Map</a>
+     </li>
+   
+  </ul>
+</section>
+<section class="languages ignore-cjk">
+  <header data-control="LangPicker" data-config="{&quot;pickerItems&quot;: &quot;.lang-list a&quot;, &quot;changeText&quot;: false}" data-i18n-bind="'languages'">Languages</header>
+  <div class="language-picker-menu clearfix">
+
+<ul class="lang-list main-nav">
+  
+    
+    <li>
+      <a data-test="LanguagePickerde" data-locale="de" class="nav-item " href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_de&quot;}">Deutsch</a>
+    </li>
+  
+    
+    <li>
+      <a data-test="LanguagePickerpt" data-locale="pt" class="nav-item " href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_pt&quot;}">Português</a>
+    </li>
+  
+    
+    <li>
+      <a data-test="LanguagePickeren" data-locale="en" class="nav-item " href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_en&quot;}">English</a>
+    </li>
+  
+    
+    <li>
+      <a data-test="LanguagePickerru" data-locale="ru" class="nav-item " href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_ru&quot;}">Русский</a>
+    </li>
+  
+    
+    <li>
+      <a data-test="LanguagePickeres" data-locale="es" class="nav-item " href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_es&quot;}">Español</a>
+    </li>
+  
+    
+    <li>
+      <a data-test="LanguagePickerja" data-locale="ja" class="nav-item locale-ja" href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_ja&quot;}">日本語</a>
+    </li>
+  
+    
+    <li>
+      <a data-test="LanguagePickerfr" data-locale="fr" class="nav-item " href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_fr&quot;}">Français</a>
+    </li>
+  
+    
+    <li>
+      <a data-test="LanguagePickerko" data-locale="ko" class="nav-item locale-ko" href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_ko&quot;}">한국어</a>
+    </li>
+  
+    
+    <li class="last">
+      <a data-test="LanguagePickerit" data-locale="it" class="nav-item " href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_it&quot;}">Italiano</a>
+    </li>
+  
+    
+    <li class="last">
+      <a data-test="LanguagePickerzh" data-locale="zh" class="nav-item locale-zh" href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_zh&quot;}">中文</a>
+    </li>
+  
+</ul>
+
+
+
+
+</div>
+
+
+
+</section>
+<section class="rights-use">
+  <span class="privacy_usage"><a href="/terms" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;ftr_rights&quot;}">FamilySearch Rights and Use Information</a> <br> <a href="/privacy" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;ftr_privacy&quot;}">Privacy Policy</a></span>
+  <br>
+  © 2014 by Intellectual Reserve, Inc.<br> All rights reserved.
+  <span class="service-by-link">
+    A service provided by <br><a href="http://mormon.org" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;e&quot;, &quot;name&quot;: &quot;ftr_srvcby&quot;}">The Church of Jesus Christ of Latter-day Saints</a></span>
+</section>
+
+            </div>
+            
+            <div class="desktop-nav visible-desktop">
             
             
             <div class="account" data-control="ddPopover" data-config="{&quot;trigger&quot;: &quot;.utility-trigger&quot;, &quot;target&quot;: &quot;.utility-menu&quot; }">
               
-                
-                  
-
-
-<a href="/auth/familysearch/login?fhf=true" id="sign-in" class="if-signed-out account-name sign-in header-icon" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;lo_hdr_login&quot;}" data-i18n-bind="'SignIn'">Sign In</a>
-
-                
               
-              </div>
+
+
+
+
+
+
+	<div class="mboxDefault">
+
+
+		<a data-test="NavigationSignIn" href="/auth/familysearch/login?fhf=true" id="sign-in" class="if-signed-out account-name sign-in header-icon" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;lo_hdr_login&quot;}" data-i18n-bind="'SignIn'">
+			Sign In
+		</a>
+
+		
+
+
+	</div>
+
+	<script>
+		mboxCreate('fs_signin_link', 'pageName=home', 'pageType=home', 'language=en');
+	</script>
+
+              
+            </div>
             
 
-          <div class="main-nav-wrapper">
-            
-
-            <div class="tnt-accelleratorDropDownTnTExperiment-on">
+            <div class="main-nav-wrapper">
               <ul class="main-nav unstyled clearfix notification-badges">
-
+              <li class="">
+                <a class="nav-item" href="/tree/" data-test="header-mainnav-tree" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;lo_hdr_tree&quot;}" data-i18n-bind="'FamilyTree'">Family Tree</a>
                 
-
-  <li class="">
-    <div class="dropdown hoverIntent no-hover-intent" data-control="DropDown" data-config="{&quot;remove-class&quot;: &quot;no-hover-intent&quot;}">
-      <a class="nav-item dropdown-toggle" data-toggle="dropdown" data-target="#" href="/tree/" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;lo_hdr_tree&quot;}" data-i18n-bind="'FamilyTree'">Family Tree</a>
-      
-         
-
-<div class="mover-shim"></div>
-<ul class="dropdown-menu">
- 
-        <li>
-          <a href="/tree/" data-control="testAndTarget" data-config="{&quot;mBoxName&quot;: &quot;fs-hf-dropdown_onClick&quot;}" data-i18n-bind="'tree'">
-            Tree
-          </a>
-        </li> 
-        <li>
-          <a href="/tree/#view=ancestor" data-control="testAndTarget" data-config="{&quot;mBoxName&quot;: &quot;fs-hf-dropdown_onClick&quot;}" data-i18n-bind="'person'">
-            Person
-          </a>
-        </li> 
-        <li>
-          <a href="/tree/#view=search" data-control="testAndTarget" data-config="{&quot;mBoxName&quot;: &quot;fs-hf-dropdown_onClick&quot;}" data-i18n-bind="'findinTree'">
-            Find in Tree
-          </a>
-        </li> 
-        <li>
-          <a href="/tree/#view=favorites" data-control="testAndTarget" data-config="{&quot;mBoxName&quot;: &quot;fs-hf-dropdown_onClick&quot;}" data-i18n-bind="'watchList'">
-            Watch List
-          </a>
-        </li> 
-</ul>
-
-      
-    </div>
-  </li>
-
-
-  <li class="">
-    <div class="dropdown hoverIntent no-hover-intent" data-control="DropDown" data-config="{&quot;remove-class&quot;: &quot;no-hover-intent&quot;}">
-      <a class="nav-item dropdown-toggle" data-toggle="dropdown" data-target="#" href="/photos/" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;lo_hdr_photos&quot;}" data-i18n-bind="'Photos'">Photos</a>
-      
-         
-
-<div class="mover-shim"></div>
-<ul class="dropdown-menu">
- 
-        <li>
-          <a href="/photos/images" data-control="testAndTarget" data-config="{&quot;mBoxName&quot;: &quot;fs-hf-dropdown_onClick&quot;}" data-i18n-bind="'myPhotos'">
-            My Photos
-          </a>
-        </li> 
-        <li>
-          <a href="/photos/people" data-control="testAndTarget" data-config="{&quot;mBoxName&quot;: &quot;fs-hf-dropdown_onClick&quot;}" data-i18n-bind="'people'">
-            People
-          </a>
-        </li> 
-        <li>
-          <a href="/photos/albums" data-control="testAndTarget" data-config="{&quot;mBoxName&quot;: &quot;fs-hf-dropdown_onClick&quot;}" data-i18n-bind="'albums'">
-            Albums
-          </a>
-        </li> 
-        <li>
-          <a href="/photos/stories" data-control="testAndTarget" data-config="{&quot;mBoxName&quot;: &quot;fs-hf-dropdown_onClick&quot;}" data-i18n-bind="'stories'">
-            Stories
-          </a>
-        </li> 
-</ul>
-
-      
-    </div>
-  </li>
-
-
-  <li class="">
-    <div class="dropdown hoverIntent no-hover-intent" data-control="DropDown" data-config="{&quot;remove-class&quot;: &quot;no-hover-intent&quot;}">
-      <a class="nav-item dropdown-toggle" data-toggle="dropdown" data-target="#" href="/search/" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;lo_hdr_search&quot;}" data-i18n-bind="'Search'">Search</a>
-      
-         
-
-<div class="mover-shim"></div>
-<ul class="dropdown-menu">
- 
-        <li>
-          <a href="/search" data-control="testAndTarget" data-config="{&quot;mBoxName&quot;: &quot;fs-hf-dropdown_onClick&quot;}" data-i18n-bind="'records'">
-            Records
-          </a>
-        </li> 
-        <li>
-          <a href="/tree/#view=search" data-control="testAndTarget" data-config="{&quot;mBoxName&quot;: &quot;fs-hf-dropdown_onClick&quot;}" data-i18n-bind="'findInFamilyTree'">
-            Family Tree
-          </a>
-        </li> 
-        <li>
-          <a href="/family-trees" data-control="testAndTarget" data-config="{&quot;mBoxName&quot;: &quot;fs-hf-dropdown_onClick&quot;}" data-i18n-bind="'genealogies'">
-            Genealogies
-          </a>
-        </li> 
-        <li>
-          <a href="/catalog-search" data-control="testAndTarget" data-config="{&quot;mBoxName&quot;: &quot;fs-hf-dropdown_onClick&quot;}" data-i18n-bind="'catalog'">
-            Catalog
-          </a>
-        </li> 
-        <li>
-          <a href="http://books.familysearch.org/primo_library/libweb/action/search.do" data-control="testAndTarget" data-config="{&quot;mBoxName&quot;: &quot;fs-hf-dropdown_onClick&quot;}" data-i18n-bind="'books'">
-            Books
-          </a>
-        </li> 
-        <li>
-          <a href="/learn/wiki/en/Main_Page" data-control="testAndTarget" data-config="{&quot;mBoxName&quot;: &quot;fs-hf-dropdown_onClick&quot;}" data-i18n-bind="'wiki'">
-            Wiki
-          </a>
-        </li> 
-</ul>
-
-      
-    </div>
-  </li>
-
-
-
-
-              </ul>
-            </div>
-
-            <div class="tnt-accelleratorDropDownTnTExperiment-off">
-              <ul class="main-nav unstyled clearfix notification-badges">
-
-                  <li class=""><a class="nav-item" href="/tree/" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;lo_hdr_tree&quot;}" data-i18n-bind="'FamilyTree'">Family Tree</a></li>
-                  <li class=""><a class="nav-item" href="/photos/" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;lo_hdr_photos&quot;}" data-i18n-bind="'Photos'">Photos</a></li>
-                  <li class=""><a class="nav-item" href="/search" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;lo_hdr_srch&quot;}" data-i18n-bind="'Search'">Search</a></li>
-
-                 
-               </ul>
-            </div>
-
-            
-            </div>
-            
-
-        </nav>
+                <div class="sub-menu">
+                  <ul>
+                    <div class="fs-arrow"><div class="fs-arrow-up"></div></div>
+                    
+                    <li class="sub-menu-item"><a href="/tree/#view=tree" data-test="Tree">Tree</a></li>
+                    
+                    <li class="sub-menu-item"><a href="/tree/#view=ancestor" data-test="Person">Person</a></li>
+                    
+                    <li class="sub-menu-item"><a href="/tree/#view=search" data-test="Find">Find</a></li>
+                    
+                    <li class="sub-menu-item"><a href="/tree/#view=favorites" data-test="Lists">Lists</a></li>
+                    
+                  </ul>
+                </div>
+                
+              </li>
+              
+              <li class="">
+                <a class="nav-item" href="/photos/" data-test="header-mainnav-photos" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;lo_hdr_photos&quot;}" data-i18n-bind="'Photos'">Memories</a>
+                
+                <div class="sub-menu">
+                  <ul>
+                    <div class="fs-arrow"><div class="fs-arrow-up"></div></div>
+                    
+                    <li class="sub-menu-item"><a href="/photos/images" data-test="Photos">Photos</a></li>
+                    
+                    <li class="sub-menu-item"><a href="/photos/stories" data-test="Stories">Stories</a></li>
+                    
+                    <li class="sub-menu-item"><a href="/photos/documents" data-test="Documents">Documents</a></li>
+                    
+                    <li class="sub-menu-item"><a href="/photos/people" data-test="People">People</a></li>
+                    
+                    <li class="sub-menu-item"><a href="/photos/albums" data-test="Albums">Albums</a></li>
+                    
+                    <li class="sub-menu-item"><a href="/photos/find" data-test="Find">Find</a></li>
+                    
+                  </ul>
+                </div>
+                
+              </li>
+              <li class="">
+                <a class="nav-item" href="/search" data-test="header-mainnav-search" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;lo_hdr_srch&quot;}" data-i18n-bind="'Search'">Search</a>
+                
+                <div class="sub-menu">
+                  <ul>
+                    <div class="fs-arrow"><div class="fs-arrow-up"></div></div>
+                    
+                    <li class="sub-menu-item"><a href="/search" data-test="Records">Records</a></li>
+                    
+                    <li class="sub-menu-item"><a href="/family-trees" data-test="Genealogies">Genealogies</a></li>
+                    
+                    <li class="sub-menu-item"><a href="/catalog-search" data-test="Catalog">Catalog</a></li>
+                    
+                    <li class="sub-menu-item"><a href="http://books.familysearch.org" data-test="Books">Books</a></li>
+                    
+                    <li class="sub-menu-item"><a href="/learn/wiki/en/Main_Page" data-test="Wiki">Wiki</a></li>
+                    
+                  </ul>
+                </div>
+                
+              </li>
+              
+              
+            </ul>
+          </div>
+          
+        </div>
+        
+      </nav>
       
     </div><!-- /.global-pri-nav-container -->
-  
+    
 </header>
 
 
 
+    
+
+    
+      <script>FS.rum.markUserTime("global.nav_end");</script>
+    
 
     <div data-ng-view="" class="app-landing">
       
+      
         
-          
 
 
 <div id="main" class="pt privacy">
@@ -442,13 +762,13 @@
 					<p>Protection of Information. We use technical and organizational measures to protect the personal information we receive against loss, misuse, and unauthorized alteration and to protect its confidentiality. We regularly review our security procedures and consider appropriate new security technology and methods. We also use current encryption technology to encrypt the transmission of data on our log-in pages. However, because we cannot guarantee the complete security of these encryption technologies, please use caution when submitting personal information online.</p>
 				</li>
 				<li>
-					<p>Third-Party Data. Where local law permits, you may submit personal information, including contact information about someone other than yourself (in other words, a third party) to allow us to make contact with that person, make a delivery, or otherwise meet your request. The information collected will be used solely to facilitate your request. When providing personal information about anyone other than yourself, you must first obtain the other person’s informed consent if his or her consent is legally required.</p>
+					<p>Third-Party Data. Where local law permits, you may submit personal information, including contact information about someone other than yourself (in other words, a third party) to allow us to make contact with that person, make a delivery, or otherwise meet your request. The information collected will be used solely to facilitate your request. When providing personal information about anyone other than yourself, you must first obtain the other person’s informed consent if his or her consent is legally required. If you or someone else has provided us with your personal contact information and you would like to request that we do not contact you further, please follow the unsubscribe or opt-out procedures provided on the specific site, newsletter, e-mail notification, or the like.</p>
 				</li>
 				<li>
 					<p>Passive Data Collection: Tracking Technologies, Cookies, and Clear GIFs. When you visit any of our sites, our servers or filtering systems may collect information that your web browser sends any time you visit a website. This information may include but is not limited to your browser type, your operating system, your language preference, any referring web page you were visiting before you came to our site, the date and time of each visitor request, and information you search for on our sites.</p>
 					<p>We also use cookies and clear GIFs to collect information. A cookie is a small bit of data used to transfer information to either your computer’s hard drive or your web browser for record-keeping purposes. A cookie serves as a sort of label that allows our sites to recognize your web browser when you return to our sites.  A clear GIF (also known as a web beacon) is used in combination with cookies to help us understand how visitors interact with our sites. A clear GIF is typically a transparent graphic image placed on a website. The use of clear GIFs allows us to monitor your actions when you open a web page and makes it easier for us to follow and record the activities of recognized browsers. For example, using clear GIFs, we can track the path of page visits on a website and monitor aggregate usage and web traffic routing on our sites.</p>
 					<p>We collect this information to better understand how you use and interact with our sites in order to improve your experience. We may also share this information with our employees, contractors, service providers, and affiliated entities as defined in section 7.</p>
-					<p>You can change your web browser settings to stop accepting cookies or to prompt you before accepting a cookie from the sites you visit. If you do not accept cookies, however, you may not be able to use some sections or functions of our sites.</p>
+					<p>You can change your web browser settings to stop accepting cookies or to prompt you before accepting a cookie from the sites you visit. If you do not accept cookies, however, you may not be able to use some sections or functions of our sites. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit http://www.allaboutcookies.org. To opt out of being tracked by Google Analytics across all websites visit https://tools.google.com/dlpage/gaoptout.</p>
 				</li>
 				<li>
 					<p>Policy Compliance and Questions Regarding the Privacy of Personal Information. We have a data privacy officer who helps ensure compliance with this Privacy Policy and answers questions about data privacy or security issues. This officer also helps educate Church employees concerning compliance. Inquiries concerning this Privacy Policy or the security of personal information that we process may be sent through e-mail, fax, or mail to the following:</p>
@@ -464,7 +784,7 @@
 				<li><p>Third-Party Links. We are not responsible for the privacy practices or content of any third-party sites. For your own protection, you should review the policies of other sites to ensure they meet your personal privacy expectations.</p></li>
 				<li><p>Future Changes to Privacy Policy. We regularly review this Privacy Policy and may change, modify, add, or remove portions as needed. If we change this Privacy Policy in ways that affect how we use your personal information, we will notify you here or in a notice on our home page. We will also update the revision date at the bottom of the Privacy Policy. We encourage you to check this Privacy Policy from time to time to remain informed of any changes.</p></li>
 			</ol>
-				<p>Effective Date. This version of the Privacy Policy became effective on February 01, 2012.</p>
+				<p>Effective Date. This version of the Privacy Policy became effective on March 18, 2014.</p>
 		</div>
 
 		<div class="span4">
@@ -488,8 +808,9 @@
 		</div>
 	</div>
 </div>
-        
-      </div>
+      
+        </div>
+
       
 
     <div id="push"></div>
@@ -503,100 +824,190 @@
 
       <nav>
         
-          <a href="/about" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;lo_ftr_about&quot;}" data-i18n-bind="'About'">About</a> 
-          <a href="/blog" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;lo_ftr_blog&quot;}" data-i18n-bind="'Blog'">Blog</a> 
-          <a href="/feedback" data-control="SendAMessage" data-config="{&quot;standAlone&quot;: true}" data-i18n-bind="'Feedback'">Feedback</a>
+          <a href="/about" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;lo_ftr_about&quot;}" data-test="footer-About" data-i18n-bind="'About'">About</a> 
+          <a href="/blog" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;lo_ftr_blog&quot;}" data-test="footer-Blog" data-i18n-bind="'Blog'">Blog</a> 
+          <a href="/feedback" data-control="SendAMessage" data-config="{&quot;standAlone&quot;: true}" data-test="footer-Feedback" data-i18n-bind="'Feedback'">Feedback</a>
           
+          <a href="/site-map" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;lo_ftr_site-map&quot;}" data-test="footer-SiteMap" data-i18n-bind="'SiteMap'">Site Map</a> 
 
         <div class="language-picker-container ignore-cjk" data-control="ddPopover" data-config="{&quot;trigger&quot;:&quot;.language-picker-trigger&quot;, &quot;target&quot;: &quot;.language-picker-menu&quot;}">
-          <a href="javascript:;" class="last language-picker-trigger" data-control="LangPicker" data-config="{&quot;pickerItems&quot;: &quot;.language-picker-menu .lang-list a&quot;}" data-i18n-bind="'langPickerDefault'">Language</a>
+          <a data-test="LanguagePicker" href="javascript:;" class="last language-picker-trigger" data-control="LangPicker" data-config="{&quot;pickerItems&quot;: &quot;.language-picker-menu .lang-list a&quot;}" data-i18n-bind="'langPickerDefault'">Language</a>
           <div class="language-picker-menu clearfix">
-            
-
 
 <ul class="lang-list main-nav">
   
-    <li><a data-locale="de" class="nav-item " href="javascript:;">Deutsch</a></li>
+    
+    <li>
+      <a data-test="LanguagePickerde" data-locale="de" class="nav-item " href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_de&quot;}">Deutsch</a>
+    </li>
   
-    <li><a data-locale="pt" class="nav-item " href="javascript:;">Português</a></li>
+    
+    <li>
+      <a data-test="LanguagePickerpt" data-locale="pt" class="nav-item " href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_pt&quot;}">Português</a>
+    </li>
   
-    <li><a data-locale="en" class="nav-item " href="javascript:;">English</a></li>
+    
+    <li>
+      <a data-test="LanguagePickeren" data-locale="en" class="nav-item " href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_en&quot;}">English</a>
+    </li>
   
-    <li><a data-locale="ru" class="nav-item " href="javascript:;">Русский</a></li>
+    
+    <li>
+      <a data-test="LanguagePickerru" data-locale="ru" class="nav-item " href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_ru&quot;}">Русский</a>
+    </li>
   
-    <li><a data-locale="es" class="nav-item " href="javascript:;">Español</a></li>
+    
+    <li>
+      <a data-test="LanguagePickeres" data-locale="es" class="nav-item " href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_es&quot;}">Español</a>
+    </li>
   
-    <li><a data-locale="ja" class="nav-item " href="javascript:;">日本語</a></li>
+    
+    <li>
+      <a data-test="LanguagePickerja" data-locale="ja" class="nav-item locale-ja" href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_ja&quot;}">日本語</a>
+    </li>
   
-    <li><a data-locale="fr" class="nav-item " href="javascript:;">Français</a></li>
+    
+    <li>
+      <a data-test="LanguagePickerfr" data-locale="fr" class="nav-item " href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_fr&quot;}">Français</a>
+    </li>
   
-    <li><a data-locale="ko" class="nav-item " href="javascript:;">한국어</a></li>
+    
+    <li>
+      <a data-test="LanguagePickerko" data-locale="ko" class="nav-item locale-ko" href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_ko&quot;}">한국어</a>
+    </li>
   
-    <li class="last"><a data-locale="it" class="nav-item " href="javascript:;">Italiano</a></li>
+    
+    <li class="last">
+      <a data-test="LanguagePickerit" data-locale="it" class="nav-item " href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_it&quot;}">Italiano</a>
+    </li>
   
-    <li class="last"><a data-locale="zh" class="nav-item " href="javascript:;">中文</a></li>
+    
+    <li class="last">
+      <a data-test="LanguagePickerzh" data-locale="zh" class="nav-item locale-zh" href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_zh&quot;}">中文</a>
+    </li>
   
 </ul>
 
-          </div>
+
+
+
+</div>
+
+
+
         </div><!-- /.language-picker-container -->
       </nav>
 
       <div class="copyright_notice">
         <p>
-          <span class="privacy_usage"><a href="/terms" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;ftr_rights&quot;}">FamilySearch Rights and Use Information</a> (Updated 6/4/2012) | <a href="/privacy" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;ftr_privacy&quot;}">Privacy Policy</a> (Updated 2/1/2012)</span> © 2013 by Intellectual Reserve, Inc. All rights reserved. <span class="service-by-link">A service provided by <a href="http://mormon.org" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;e&quot;, &quot;name&quot;: &quot;ftr_srvcby&quot;}">The Church of Jesus Christ of Latter-day Saints</a></span>
+          <span class="privacy_usage"><a href="/terms" data-test="footer-rights-of-use" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;ftr_rights&quot;}">FamilySearch Rights and Use Information</a> (Updated 6/4/2012) | <a href="/privacy" data-test="footer-privacy_policy" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;ftr_privacy&quot;}">Privacy Policy</a> (Updated 3/18/2014)</span> © 2014 by Intellectual Reserve, Inc. All rights reserved. <span class="service-by-link">A service provided by <a href="http://mormon.org" data-control="SCCustomLinkTracker" data-test="footer-service-by-link" data-config="{&quot;type&quot;: &quot;e&quot;, &quot;name&quot;: &quot;ftr_srvcby&quot;}">The Church of Jesus Christ of Latter-day Saints</a></span>
+
         </p>
       </div>
-    </div>
-    <span class="church-logo-container visible-desktop">
-      <a class="church-logo locale-en" href="http://mormon.org" title="A service provided by..."></a>
+      <span class="church-logo-container visible-desktop">
+      <a class="church-logo locale-en" href="http://mormon.org" data-test="footer-church-logo" title="A service provided by..."></a>
     </span>
+    </div>
+    
     <div class="minimalFooter">
-      <span class="privacy_usage"><a href="/terms" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;ftr_rights&quot;}">FamilySearch Rights and Use Information</a> (Updated 6/4/2012) | <a href="/privacy" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;ftr_privacy&quot;}">Privacy Policy</a> (Updated 2/1/2012)</span> © 2013 by Intellectual Reserve, Inc. All rights reserved. <span class="service-by-link">A service provided by <a href="http://mormon.org" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;e&quot;, &quot;name&quot;: &quot;ftr_srvcby&quot;}">The Church of Jesus Christ of Latter-day Saints</a></span>
+      <span class="privacy_usage"><a href="/terms" data-test="footer-rights-of-use" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;ftr_rights&quot;}">FamilySearch Rights and Use Information</a> (Updated 6/4/2012) | <a href="/privacy" data-test="footer-privacy_policy" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;ftr_privacy&quot;}">Privacy Policy</a> (Updated 3/18/2014)</span> © 2014 by Intellectual Reserve, Inc. All rights reserved. <span class="service-by-link">A service provided by <a href="http://mormon.org" data-control="SCCustomLinkTracker" data-test="footer-service-by-link" data-config="{&quot;type&quot;: &quot;e&quot;, &quot;name&quot;: &quot;ftr_srvcby&quot;}">The Church of Jesus Christ of Latter-day Saints</a></span>
+
         
       <a href="/feedback" data-config="{&quot;standAlone&quot;: true}" data-control-init="SendAMessage" class="sendAMessage" data-i18n-bind="'Feedback'">Feedback</a>
         
       <div class="language-picker-container ignore-cjk" data-control="ddPopover" data-config="{&quot;trigger&quot;:&quot;.language-picker-trigger&quot;, &quot;target&quot;: &quot;.language-picker-menu&quot;}">
         <a href="javascript:;" class="last language-picker-trigger" data-control="LangPicker" data-config="{&quot;pickerItems&quot;: &quot;.language-picker-menu .lang-list a&quot;}" data-i18n-bind="'langPickerDefault'">Language</a>
         <div class="language-picker-menu clearfix">
-          
-
+          <div class="language-picker-menu clearfix">
 
 <ul class="lang-list main-nav">
   
-    <li><a data-locale="de" class="nav-item " href="javascript:;">Deutsch</a></li>
+    
+    <li>
+      <a data-test="LanguagePickerde" data-locale="de" class="nav-item " href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_de&quot;}">Deutsch</a>
+    </li>
   
-    <li><a data-locale="pt" class="nav-item " href="javascript:;">Português</a></li>
+    
+    <li>
+      <a data-test="LanguagePickerpt" data-locale="pt" class="nav-item " href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_pt&quot;}">Português</a>
+    </li>
   
-    <li><a data-locale="en" class="nav-item " href="javascript:;">English</a></li>
+    
+    <li>
+      <a data-test="LanguagePickeren" data-locale="en" class="nav-item " href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_en&quot;}">English</a>
+    </li>
   
-    <li><a data-locale="ru" class="nav-item " href="javascript:;">Русский</a></li>
+    
+    <li>
+      <a data-test="LanguagePickerru" data-locale="ru" class="nav-item " href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_ru&quot;}">Русский</a>
+    </li>
   
-    <li><a data-locale="es" class="nav-item " href="javascript:;">Español</a></li>
+    
+    <li>
+      <a data-test="LanguagePickeres" data-locale="es" class="nav-item " href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_es&quot;}">Español</a>
+    </li>
   
-    <li><a data-locale="ja" class="nav-item " href="javascript:;">日本語</a></li>
+    
+    <li>
+      <a data-test="LanguagePickerja" data-locale="ja" class="nav-item locale-ja" href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_ja&quot;}">日本語</a>
+    </li>
   
-    <li><a data-locale="fr" class="nav-item " href="javascript:;">Français</a></li>
+    
+    <li>
+      <a data-test="LanguagePickerfr" data-locale="fr" class="nav-item " href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_fr&quot;}">Français</a>
+    </li>
   
-    <li><a data-locale="ko" class="nav-item " href="javascript:;">한국어</a></li>
+    
+    <li>
+      <a data-test="LanguagePickerko" data-locale="ko" class="nav-item locale-ko" href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_ko&quot;}">한국어</a>
+    </li>
   
-    <li class="last"><a data-locale="it" class="nav-item " href="javascript:;">Italiano</a></li>
+    
+    <li class="last">
+      <a data-test="LanguagePickerit" data-locale="it" class="nav-item " href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_it&quot;}">Italiano</a>
+    </li>
   
-    <li class="last"><a data-locale="zh" class="nav-item " href="javascript:;">中文</a></li>
+    
+    <li class="last">
+      <a data-test="LanguagePickerzh" data-locale="zh" class="nav-item locale-zh" href="javascript:;" data-control="SCCustomLinkTracker" data-config="{&quot;type&quot;: &quot;o&quot;, &quot;name&quot;: &quot;langpicker_zh&quot;}">中文</a>
+    </li>
   
 </ul>
+
+
+
+
+</div>
+
+
 
         </div>
       </div><!-- /.language-picker-container -->
     </div>
   
+
+  
+    <script src="https://edge.fscdn.org/assets/js/components/qwery-f47a239aada0ac990af30f00a8a9d43f.js"></script>
+    <script src="https://edge.fscdn.org/assets/js/components/superagent-2b6424a042256aa846ac2e69f5e1be50.js"></script>
+
+    
+
+    
+      <script src="https://edge.fscdn.org/assets/js/components/dropDownNavigation-fc6942ffaa2e9ea0d6f80d174af636bd.js"></script>
+      <script src="https://edge.fscdn.org/assets/js/components/responsiveNavigation-cf90dbcac14d68d9ef726f979826bef0.js"></script>
+      <link href="https://edge.fscdn.org/assets/css/header-footer/mobileDrawer-84cddf5b9d0030678e7cd0635aa8f3b9.css" rel="stylesheet" media="screen">
+    
+  
+
+  <script src="https://edge.fscdn.org/assets/js/theme-engage-d41d8cd98f00b204e9800998ecf8427e.js"></script>
+
+
 </footer>
 
 
   
-
     
-  <script src="https://edge.fscdn.org/assets/js/clientManifest-abb359223082d03fbc61ca0499776c17.js"></script>
+  <script src="https://edge.fscdn.org/assets/js/clientManifest-f7a4708ee669c99b4a80de2972027447.js"></script>
 
 
 <script type="text/javascript">
@@ -614,16 +1025,18 @@
 
   
     Inject.setModuleRoot("https://edge.fscdn.org/assets/js/modules");
-    
+
     function loadCSS(path) {
       return FS.File.loadCSS(path);
     }
+
     
-    
-      Inject.setCrossDomain({
-        relayFile: "https://edge.fscdn.org/assets/inject_relay_0.4.0a.20130130.html",
-        relaySwf: "https://edge.fscdn.org/assets/inject_relay_0.4.0a.20130130.swf"
-      });
+      
+        Inject.setCrossDomain({
+          relayFile: "https://edge.fscdn.org/assets/inject_relay_0.5.2.2013_11_26.html",
+          relaySwf: "https://edge.fscdn.org/assets/inject_relay_0.5.2.2013_11_26.swf"
+        });
+      
     
     Inject.setExpires(0);//Don't store files in localStorage
     Inject.clearCache();//Have to clear because inject will cache no matter what the time is set to.  Since we name our files based on a hash, the expire time will only apply if the file hasn't changed names.
@@ -631,15 +1044,24 @@
   
 
   
-  if(window.manifest) {
-    if(window.debugOn) {
-      console.log("Need to change manifest over to debug versions");
-      for(var k in manifest.js){
-        manifest.js[k] = manifest.js[k].replace(".js", "_raw.js");
-      }
-    }
-    Inject.manifest(manifest.js);
-  }
+  
+      if(window.manifest) {
+
+        if(window.debugOn) console.log("Need to change manifest over to debug versions");
+
+        //add all the rules for the cdn files with hash suffixes
+        for(var key in manifest.js){
+          if(window.debugOn) { //for debug, use _raw (unminified)
+            manifest.js[key] = manifest.js[key].replace(".js", "_raw.js");
+          }
+          //replace fileName with absolute url ref to CDN url
+          Inject.addFileRule(key, manifest.js[key]); //tell inject to use hashed filename from client manifest
+        } //for()
+      } //if window(manifest)
+  
+
+
+
   console.log("Controls have been configured");
 
   $(document).ready(function() {
@@ -647,6 +1069,7 @@
     FS.Controls.init(document);
   });
 </script>
+
 
     
       
@@ -658,30 +1081,150 @@
 
 
 
+
 <script type="text/javascript"><!--
 s.pageName = "FamilySearch: Site Pages: Privacy Policy";
 s.channel = "FamilySearch: Site Pages:";
 s.prop35 = s.eVar35 = ""; 
 
 s.prop36 = ""; // Any search term
-var s_code=s.t();if(s_code) document.write(s_code)//--></script>
 
-
-<script type="text/javascript">
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-26436202-1']);
-  _gaq.push(['_setDomainName', '.familysearch.org']); 
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+//-->
 </script>
 
 
+
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-26436202-1']);
+    _gaq.push(['_setDomainName', '.familysearch.org']); 
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
   
+
+
+  
+  
+    <!--BEGIN QUALTRICS POPUP-->
+<script type="text/javascript">
+
+if (typeof window.FS !== "undefined" && FS.Cookie.getCookie("netPromoter") === null) {
+  var q_viewrate= 0.02;
+  if (Math.random() < q_viewrate / 100){FS.Cookie.setCookie("netPromoter", 1); var q_popup_f = function(){var q_script = document.createElement("script");var q_popup_g = function(){new QualtricsEmbeddedPopup({
+    id: "SV_3ag5zVhsWqzo3e5",
+    imagePath: "https://qdistribution.qualtrics.com/WRQualtricsShared/Graphics/",
+    surveyBase: "https://lds.qualtrics.com/SE/",
+    delay:500,
+    preventDisplay:0,
+    animate:true,
+    width:400,
+    height:300,
+    surveyPopupWidth:900,
+    surveyPopupHeight:600,
+    startPos:"ML",
+    popupText: "Please take a moment to participate in a survey.",
+    linkText:"Click Here"
+    });};q_script.onreadystatechange= function () {if (this.readyState == "loaded") q_popup_g();};q_script.onload= q_popup_g;q_script.src="https://qdistribution.qualtrics.com/WRQualtricsShared/JavaScript/Distribution/popup.js";document.getElementsByTagName("head")[0].appendChild(q_script);};if (window.addEventListener){window.addEventListener("load",q_popup_f,false);}else if (window.attachEvent){r=window.attachEvent("onload",q_popup_f);}else {};};
+}
+
+
+</script>
+<noscript><a target="_blank" href="https://lds.qualtrics.com/WRQualtricsSurveyEngine/?SID=SV_3kleTqT2KFPerit">Click Here</a><br/></noscript>
+<!--END QUALTRICS POPUP-->
+
+  
+
+  
+  
+    <script src="https://edge.fscdn.org/assets/js/adrum-60e34be6cd10fc72ff9d1de57e08279d.js"></script>
+  
+
+  
+  
+
+
+  
+  
+    <script src="https://edge.fscdn.org/assets/js/boomerang-rt-nt-0.9.1391719912-cfd7a00b8dce040d1c3d61aab841371a.js"></script>
+
+    
+      <script>
+        //fire up BOOMR. Won't send until onload is fired.
+        ;(function () {
+          //this is only called on NON-singlePageApp pages
+          function sendBoomr() {
+            BOOMR.init({
+              beacon_url: "https://familysearch.org/beacon/boomr"
+            });
+
+            //custom vars to add
+            BOOMR.addVar("app", "landing");
+            BOOMR.addVar("pri", "false");
+            BOOMR.addVar('fs_timer_type', 'normal_page_load'); //so we can tell what type of ptimer it is
+            //add pageName for easy url tagging. Reuse omnitoure pageName...
+            if (window.s && s.pageName) BOOMR.addVar("pName", s.pageName);
+
+
+            //collect user timing metrics and pass along to BOOMR
+             //abort if no window.perf
+            if (!window.performance || !window.performance.getEntriesByType) return;
+
+            var ut_marks = performance.getEntriesByType('mark');
+
+            //extract the data we care about from the perf metrics
+            for(var i=0; i<ut_marks.length; i++) {
+              var n = "ut." + ut_marks[i].name; //prefix everything with ut.
+              var t = Math.round(ut_marks[i].startTime);
+
+              //filter out values that are too low or too high (mainly IE9 problem)
+              if (t >= 0 && t < 3600000) {
+                BOOMR.plugins.RT.setTimer(n, t); //attach user timing metric to RT
+                BOOMR.addVar("featTime", t); //record the time the last feature fires
+              }
+            }
+
+            //count the custom timing marks. How many features on page?
+            //FIXME: this should be correlated with how many RT timers we set above...
+            BOOMR.addVar("featCount", ut_marks.length);
+
+          } //sendBoomr
+
+
+          //on load, fire the boomr package, so controls can send metric data as well...
+          if (window['addEventListener']) {
+            window.addEventListener('load', sendBoomr, false);
+          } else if (window['attachEvent']) {
+            window.attachEvent('onload', sendBoomr);
+          }
+
+        }()); //self executing anon function, so namespace won't be polluted
+
+
+      </script>
+    
+  
+
+
+  
+  
+    <script>
+      _satellite.pageBottom();
+    </script>
+  
+
+  <!-- defaultExperiments -->
+  <script type="text/javascript">
+    FS.defaultEx({"apps":{"shared-ui":{"features":{"wwwRedirect":0,"templeLink":1,"showVolunteerExperiment":0,"accelleratorDropDownExperiment":0,"helpMenuExperiment":1,"myCasesExperiment":1,"chromeFrameExperiment":0,"mobileDrawerExperiment":0,"accelleratorDropDownTnTExperiment":1,"feedbackExperiment":1,"feedbackInHeaderExperiment":0,"salesForceExperiment":1,"bootstrap232":0,"bootstrap3":0,"jQuery191":0,"jQueryMigrate":0,"jQueryMigrateDebug":0,"appDynamicsEx":1,"parterProductsEx":0,"newHeaderFooterEx":1,"adminRoleEx":0,"dropdownNavEx":1,"mBoxAlwaysOnEx":1,"registerLinkEx":0,"injectFiveTwo":1,"newRelCalEndpointEx":1,"frMemoriesEx":1,"netPromoterEx":1,"boomrRum":1,"adobeDTMStageEx":0,"globalAlertEx":0,"ThirdPartyPerfEx":1,"indexingNav":0,"showCookieConsent":0,"contextHelpMenu":0},"stamp":"3b6a20efaa4286f8983c3652b875a465","bucket":6,"dirtyFeatures":["boomrRum"]},"landing":{"features":{"showHelperLinksEx":1,"showHelperVideoLinksEx":1,"showMoreItalianVideosEx":0,"StoreLink":0,"show04328Ex":1,"italianImgFix":1,"testingVideoLinksEx":0,"photosCampaignVideoLink":1,"showConferenceInABoxEx":1,"showConferenceInABoxMoreEx":1,"showCMSItalianStatisticsEx":1},"stamp":"32188fad8e184f3a4d0d429f5c3c74b2","bucket":6,"dirtyFeatures":[]}},"userId":"-anon-","bucket":6});
+  </script>
+
 
 
 </body></html>
