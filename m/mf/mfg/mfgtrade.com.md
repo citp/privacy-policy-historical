@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mfgtrade.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124071141id_/http%3A//www.mfgtrade.com/trade/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mfgtrade.com privacy policy that was archived on 2014-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140526125059id_/http%3A//mfgtrade.com/trade/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
