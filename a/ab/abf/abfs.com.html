@@ -1,22 +1,28 @@
-<!--The following is the downloaded HTML source of the abfs.com privacy policy that was archived on 2013-11-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131122080619id_/http%3A//www.abfs.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the abfs.com privacy policy that was archived on 2014-05-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140527005436id_/http%3A//www.abfs.com/privacy.asp) for the most accurate reproduction.-->
 
-<html><head>
-<title>ABF Freight System, Inc. - Privacy Policy</title>
+<!DOCTYPE html><html><head>
+<title>Privacy Policy | abf.com</title>
 <meta name="description" content="ABF is committed to protecting your privacy. We use the information we collect to provide you the most robust Internet applications in the transportation industry.">
 <meta name="keywords" content="privacy policy, transportation privacy, shipment information privacy, security, cookies">
 
-      <script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/Include/jQuery/jquery-1.8.2.min.js?V=1.0"></script>
+      <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/Include/jQuery/jquery-1.8.2.min.js?V=1.0"></script>
       <script type="text/javascript" src="/Include/jQuery/jquery-ui-1.9.0.custom.min.js?V=1.0"></script>
    
    <script type="text/javascript" src="/Include/AllInclude-STC.js?V=3.3"></script>
-   <script type="text/javascript" src="/include/DynamicDivTool.js?V=1.3"></script>
-   <script type="text/javascript" src="/include/overlib_new/overlib.js?V=2.5"><!-- overLIB (c) Erik Bosrup --></script><script type="text/javascript">
+   <script type="text/javascript" src="/include/overlib_new/overlib.js?v=2.51"><!-- overLIB (c) Erik Bosrup --></script><script type="text/javascript">
 
 </script>
 
-   <script type="text/javascript" src="/Include/PrintEmail-STC.js?V=1.43"></script>
-   <script type="text/javascript" src="/tools/js/accountinfo/login.js?V=1.5"></script><script language="Javascript" src="/ABFGlobal/Include/ajax-STC.js?V=1.4"></script>
+   <script src="/include/jQuery/Plugins/qTip2/jquery.qtip.min.js"></script>
+   <link href="/include/jQuery/Plugins/qTip2/jquery.qtip.min.css" rel="stylesheet" type="text/css">
+   <link rel="shortcut icon" href="/favicon.ico?v=1.7">
+   <link rel="icon" href="/favicon.ico?v=1.7" type="image/x-icon">
+
+   <script type="text/javascript" src="/Include/PrintEmail-STC.js?V=1.44"></script>
+   
+      <script type="text/javascript" src="/tools/js/accountinfo/login.js?V=1.7"></script>
+   <script language="Javascript" src="/ABFGlobal/Include/ajax-STC.js?V=1.4"></script>
 <script language="javascript">
 <!--
 var strToolCode = '';
@@ -26,22 +32,22 @@ var strToolCode = '';
 var _et = new jsEventTracking();
 var tuView=""; //Set in ABFGlobal/Class/TrackUsage.asp
 var strOverDiv;
-var arrTrackingTags = new Array("a",":button",".PseudoLink","td[data-track]","img[data-track]"); // This array is referenced in /Include/quicktools-STC.js to .die() when Customize My Reports is clicked
+var arrTrackingTags = new Array("a",":button",".PseudoLink","td[data-track]","img[data-track]","div[data-track]"); // This array is referenced in /Include/quicktools-STC.js to .die() when Customize My Reports is clicked
 
 $(document).ready(function()
 {
    _et.Init();
-  
-   if (("Privacy Policy" == "") || (tuView != "-1")) // If on CMS or first time on nonCMS, track
+
+   if (("Privacy Policy &#124; abf.com" == "") || (tuView != "-1")) // If on CMS or first time on nonCMS, track
    {  _et.Track(_et.Page, _et.VISIT); }
-   
+
    $("#header-tab-online-tools,#leftOnlineTools").live('mouseover', function () {
       var thatid = $(this).attr('id');
       $('#overDiv a').each(function () {
          $(this).attr('data-track', ((thatid === 'header-tab-online-tools') ? 'Top' : 'Left')+' Menu-'+$(this).html());
       });
    });
-   
+
    for (i = 0 ; i < arrTrackingTags.length ; i++)
    {  $(arrTrackingTags[i]).live('mousedown', function(event)
       {  if ($(this).attr("data-track") != "no")
@@ -55,20 +61,27 @@ $(document).ready(function()
    }
 });
 
-function jsEventTracking()
-{  this.Init = function()
-   {  this.Label = document.title.replace(/ABF Freight System, Inc\..-./g,"") // "Privacy Policy";
+function jsEventTracking() {
+   this.Init = function() {
+      this.Label = document.title;
+      this.Label = this.Label.replace(/ABF Freight System, Inc\..-./g,"");
+      this.Label = this.Label.replace(/ \| abf.com/g,"");
+      this.Label = this.Label.replace(/ \| ABF Freight./g,"");
+      this.Label = this.Label.replace(/ \| ABF Logistics./g, "");
       this.InitActions();
       this.InitCategories();
    };
 
    this.Track = function(category, event)
-   {  _et.Display("["+category+", "+event+", "+this.Label+"]"); // For debugging only
+   {  _et.Display(category, event, this.Label); // For debugging only
       _gaq.push(['_trackEvent', category, event, this.Label]);  // Sends to Google Analytics
    }
 
-   this.Display = function(sText)
-   {  if ($("#divEventTracking")) { $("#divEventTracking").append(sText + "<br />") }
+   this.Display = function(category, event, label) {
+      var trackingPanel = $("#divEventTracking");
+      if (trackingPanel) {
+         trackingPanel.append("<div class='track-event'><span title='" + category + "'><strong>Category</strong>: " + category + "</span><br><span title='" + event + "'><strong>Event</strong>: " + event + "</span><br><span title='" + label + "'><strong>Label</strong>: " + label + "</span></div>");
+      }
    }
 
    this.InitActions = function()
@@ -225,14 +238,13 @@ function createElement(index,ver)
 
 // -->
 </script>
-<script type="text/javascript" src="/include/Menu.js?V=1.28"></script>
-<script type="text/javascript" src="/include/pop_msgs.js?V=1.76"></script>
+<script type="text/javascript" src="/include/Menu.js?V=1.31"></script>
+<script type="text/javascript" src="/include/pop_msgs.js?V=1.77"></script>
 
-<link href="/style/main_style_new.css?V=1.22" rel="stylesheet" type="text/css">
-<link href="/style/ajax.css" rel="stylesheet" type="text/css">
+<link href="/style/main_style_new.css?V=1.25" rel="stylesheet" type="text/css">
+<link href="/style/ajax.css?v=0.02" rel="stylesheet" type="text/css">
 
 <script type="text/javascript">
-<!--
    var bFreightForwarder = false;
    var _gaq = _gaq || [];
    _gaq.push(['_setAccount', 'UA-2086962-2']);
@@ -246,344 +258,379 @@ function createElement(index,ver)
    })();
 
    $(function () {
-      var logisticsPage = (document.URL.indexOf("services/multimodal") > 0 || document.URL.indexOf("services/supplychain") > 0);
-      if (logisticsPage) {
-         var pageTitle = $('title').html().replace(/&nbsp;/g, " ").split(" - ")[1];
-         document.title = "ABF - " + pageTitle;
-      }
+      // hide the error/warning/success message
+      $('.message-close').on('click', function () {
+         $(this).closest('p').hide();
+      });
 
-      $('body').keydown(function (e) {
-         if (ie4 && e.ctrlKey && e.shiftKey && hotkeys[e.keyCode]) {
-            _et.Track(hotkeys[e.keyCode].name, _et.HOTKEY);
-            window.location = hotkeys[e.keyCode].loc;
-         }
+      $('.old-browser-in-header .message-close').on('click', function () {
+         var date = new Date();
+         date.setTime(date.getTime() + (5 * 24 * 60 * 60 * 1000));
+         document.cookie = 'modernbrowserwarn=Y; expires=' + date.toGMTString() + '; path=/'
       });
    });
-   var hotkeys = {
-      66 : { name : 'Bill of Lading',     loc : '/tools/bolfmt/'},          //B
-      67 : { name : 'Shipment Director',  loc : '/tools/director/'},        //C
-      68 : { name : 'Document Retrieval', loc : '/tools/docret/'},          //D
-      70 : { name : 'Invoice Review',     loc : '/tools/billreview/'},      //F
-      72 : { name : 'Historical Reports', loc : '/tools/reports/history/'}, //H
-      73 : { name : 'Transit Times',      loc : '/tools/transit/'},         //I
-      80 : { name : 'Shipment Planner',   loc : '/tools/planner/'},         //P
-      81 : { name : 'LTL Quote',          loc : '/tools/ltlquotes/'},       //Q
-      82 : { name : 'Routing',            loc : '/tools/rsearch/'},         //R
-      83 : { name : 'Status Reports',     loc : '/tools/reports/'},         //S
-      84 : { name : 'Tracking',           loc : '/tools/trace/'},           //T
-      85 : { name : 'Pickup Request',     loc : '/tools/pickup/'},          //U
-      88 : { name : 'Reports Inbox',      loc : '/tools/reports/inbox/'}    //X
-   };
 
    function DisplayWait(strMessage)
    {  
    }
 
-//Textbox Placeholder/Watermark logic - Add a placeholder attribute to a textbox and the text will be shown in the textbox if the textbox is not focused and user has not entered any text
-$(document).ready(function() {
-   if (!('placeholder' in document.createElement('input'))) {
-      $.each($("[placeholder]"),function (index, value){ ShowPlaceholder(value)});
-   }
-});
-if (!('placeholder' in document.createElement('input'))) {
-   $("[placeholder]").live('blur',function() {ShowPlaceholder(this)});
-   $("[placeholder]").live('focus',function() {HidePlaceholder(this)});
-}
-
-function ShowPlaceholder(control, ignoreValues)
-{  if((typeof ignoreValues != "undefined" && ignoreValues) || $(control).val().length == 0) {
-   $(control).val($(control).attr("placeholder"));
-   $(control).css("color","#369");
-   }
-}
-
-function HidePlaceholder(control)
-{  if($(control).val() == $(control).attr("placeholder")) {
-      $(control).val("");
-      $(control).css("color","");
-   }
-}
-
-function HideAllPlaceholders()
-{  $.each($("[placeholder]"),function (index, value){ HidePlaceholder(value)}); }
-
-//PlaceholderFormID is the ID of your form that contains the fields
-//validationFunction is a reference to the function - must return true or false  example BindPlaceholderFormSubmitEvent("myFormID",validationFunctionName)
-function BindPlaceholderFormSubmitEvent(PlaceholderFormID, validationFunction)
-{  $("#" + PlaceholderFormID).submit(function(){
-      HideAllPlaceholders();
-      var returnValue = validationFunction();
-      if(!returnValue) { $.each($("[placeholder]"),function (index, value){ ShowPlaceholder(value)}); }
-      return returnValue;
+   //Textbox Placeholder/Watermark logic - Add a placeholder attribute to a textbox and the text will be shown in the textbox if the textbox is not focused and user has not entered any text
+   $(document).ready(function() {
+      if (!('placeholder' in document.createElement('input'))) {
+         $.each($("[placeholder]"),function (index, value){ ShowPlaceholder(value)});
+      }
    });
-}
-// -->
+
+   if (!('placeholder' in document.createElement('input'))) {
+      $("[placeholder]").live('blur',function() {ShowPlaceholder(this)});
+      $("[placeholder]").live('focus',function() {HidePlaceholder(this)});
+   }
+
+   function ShowPlaceholder(control, ignoreValues)
+   {  if((typeof ignoreValues != "undefined" && ignoreValues) || $(control).val().length == 0) {
+      $(control).val($(control).attr("placeholder"));
+      $(control).css("color","#369");
+      }
+   }
+
+   function HidePlaceholder(control)
+   {  if($(control).val() == $(control).attr("placeholder")) {
+         $(control).val("");
+         $(control).css("color","");
+      }
+   }
+
+   function HideAllPlaceholders()
+   {  $.each($("[placeholder]"),function (index, value){ HidePlaceholder(value)}); }
+
+   //PlaceholderFormID is the ID of your form that contains the fields
+   //validationFunction is a reference to the function - must return true or false  example BindPlaceholderFormSubmitEvent("myFormID",validationFunctionName)
+   function BindPlaceholderFormSubmitEvent(PlaceholderFormID, validationFunction)
+   {  $("#" + PlaceholderFormID).submit(function(){
+         HideAllPlaceholders();
+         var returnValue = validationFunction();
+         if(!returnValue) { $.each($("[placeholder]"),function (index, value){ ShowPlaceholder(value)}); }
+         return returnValue;
+      });
+   }
 </script>
 <script language="JavaScript">
 function hideElementsIE() {}
 function showElementsIE() {}
 </script></head>
-<body topmargin="0" leftmargin="3" bgcolor="#FFFFFF" text="#000000">
+<body bgcolor="#FFFFFF" text="#000000">
+
+   <div class="ice-cube">
 <iframe id="overIFrame" src="/blank.htm" style="display:none; position:absolute; z-index:6;border:0;"></iframe>
 <iframe height="0" width="0" id="saveIFrame" src="/blank.htm" style="display:inline; position:absolute; z-index:6;border:0;"></iframe>
 <iframe height="0" width="0" name="saveIFrame2" src="/blank.htm" style="display:inline; position:absolute; z-index:6;border:0;"></iframe>
 <div id="overDiv" style="position:absolute; visibility:hide; z-index:6; filter:revealTrans(transition=5, duration=.3) alpha(opacity=100);"></div>
 <div id="overDiv2" style="position:absolute; visibility:hide; z-index:6; -moz-opacity: 1.0; filter:alpha(opacity=89) revealTrans(transition=7, duration=.2);"></div>
-<script language="JavaScript">
-<!--
-function GetToolsList() {
-   var txt = '';
-   txt = txt + "<TABLE WIDTH=\"595\" HEIGHT=\"380\" BORDER=\"0\" CELLPADDING=\"0\" CELLSPACING=\"0\" CLASS=\"allToolsBG\">"
-txt = txt + "<TR><TD VALIGN=\"TOP\" style='background-color:#E4E3E2'>"
-txt = txt + "<TABLE BORDER=\"0\" CELLPADDING=\"1\" CELLSPACING=\"0\">"
-txt = txt + "<tr><td height=3></td></tr>"
-txt = txt + "<tr><td width=5></td><td colspan=2 class=\"NavMenu1\"><a class=\"NavMenu1\" href=\"/tools/ltlquotes/?NCHK=ATP\">Rate Quote</a></td></tr>"
-txt = txt + "<tr><td width=5></td><td width=10></td><td class=\"NavMenu2\"><a class=\"NavMenu2\" href=\"/tools/ltlquotes/?NCHK=ATP\">LTL Rate Quote</a></td></tr>"
-txt = txt + "<tr><td width=5></td><td width=10></td><td class=\"NavMenu2\"><a class=\"NavMenu2\" href=\"/tools/timekeeper/?NCHK=ATP\">TimeKeeper (time sensitive)</a></td></tr>"
-txt = txt + "<tr><td width=5></td><td width=10></td><td><span class=\"small\"><a class=\"NavMenu2\" href=\"javascript:void(window.open('http://www.upack.com?refnum=ABFSHIP'));\">U-Pack Residential Moving</a>&nbsp;<img src=\"/images/popup1.gif\" width=\"9\" height=\"9\"></span><span class=\"small2\"></span></td></tr>"
-txt = txt + "<tr><td width=5></td><td width=10></td><td><span class=\"small\"><a class=\"NavMenu2\" href=\"javascript:void(window.open('http://www.abfmultimodal.com/tools/quote/default.asp?refnum=ABFTOOL'));\">Multimodal</a>&nbsp;<img src=\"/images/popup1.gif\" width=\"9\" height=\"9\"></span><span class=\"small2\"></span></td></tr>"
-txt = txt + "<tr><td width=5></td><td width=10></td><td class=\"NavMenu2\"><a class=\"NavMenu2\" href=\"/services/tradeshow.asp?NCHK=ATP\">Trade Show Shipping</a></td></tr>"
-txt = txt + "<tr><td height=5></td></tr>"
-txt = txt + "<tr><td width=5></td><td colspan=2 class=\"NavMenu3\">Document Preparation</td></tr>"
-txt = txt + "<tr><td width=5></td><td width=10></td><td class=\"NavMenu2\"><a class=\"NavMenu2\" href=\"/tools/bolfmt/?NCHK=ATP\">Bill of Lading</a></td></tr>"
-txt = txt + "<tr><td width=5></td><td width=10></td><td class=\"NavMenu2\"><a class=\"NavMenu2\" href=\"/tools/labels/?NCHK=ATP\">Shipping Labels</a></td></tr>"
-txt = txt + "<tr><td width=5></td><td width=10></td><td class=\"NavMenu2\"><a class=\"NavMenu2\" href=\"/tools/slip/?NCHK=ATP\">Packing Slip</a></td></tr>"
-txt = txt + "<tr><td width=5></td><td width=10></td><td class=\"NavMenu2\"><a class=\"NavMenu2\" href=\"/tools/abfforms/?NCHK=ATP\">Other Forms &amp; ABF Docs</a></td></tr>"
-txt = txt + "<tr><td height=5></td></tr>"
-txt = txt + "<tr><td width=5></td><td colspan=2 class=\"NavMenu1\"><a class=\"NavMenu1\" href=\"/tools/pickup/?NCHK=ATP\">Pickup Request</a></td></tr>"
-txt = txt + "<tr><td height=5></td></tr>"
-txt = txt + "<tr><td width=5></td><td colspan=2 class=\"NavMenu3\">Payment</td></tr>"
-txt = txt + "<tr><td width=5></td><td width=10></td><td class=\"NavMenu2\"><a class=\"NavMenu2\" href=\"/tools/billreview/?NCHK=ATP\">Invoice Review</a> <img SRC='/images/lock2.gif'></td></tr>"
-txt = txt + "<tr><td width=5></td><td width=10></td><td class=\"NavMenu2\"><a class=\"NavMenu2\" href=\"/tools/PaidHistory/?NCHK=ATP\">Payment History</a> <img SRC='/images/lock2.gif'></td></tr>"
-txt = txt + "<tr><td height=5></td></tr>"
-txt = txt + "<tr><td width=5></td><td colspan=2 class=\"NavMenu1\"><a class=\"NavMenu1\" href=\"/tools/rsearch/?NCHK=ATP\">Routing &amp; Service<br>Center Search</a></td></tr>"
-txt = txt + "<tr><td height=5></td></tr>"
-txt = txt + "<tr><td width=5></td><td colspan=2 class=\"NavMenu1\"><a class=\"NavMenu1\" href=\"/tools/transit/?NCHK=ATP\">Transit Times</a></td></tr>"
-txt = txt + "<tr><td width=5></td><td width=10></td><td class=\"NavMenu2\"><a class=\"NavMenu2\" href=\"/tools/transit/?NCHK=ATP\">Transit Times</a></td></tr>"
-txt = txt + "<tr><td width=5></td><td width=10></td><td class=\"NavMenu2\"><a class=\"NavMenu2\" href=\"/tools/delplanner/?NCHK=ATP\">Delivery Compliance Planner</a></td></tr>"
-txt = txt + "<tr><td height=5></td></tr>"
-txt = txt + "<tr><td height=5></td></tr>"
-txt = txt + "<tr><td width=5></td><td colspan=2 class=\"NavMenu1\"><a class=\"NavMenu1\" href=\"/tools/accountinfo/password.asp?NCHK=ATP\">Request a Password</a></td></tr>"
-txt = txt + "</TABLE></TD>"
-txt = txt + "<TD VALIGN=\"TOP\"  style='background-color:#F3F3F3'>"
-txt = txt + "<TABLE BORDER=\"0\" CELLPADDING=\"1\" CELLSPACING=\"0\">"
-txt = txt + "<tr><td height=3></td></tr>"
-txt = txt + "<tr><td width=5></td><td colspan=2 class=\"NavMenu3\">Shipment Status</td></tr>"
-txt = txt + "<tr><td width=5></td><td width=10></td><td class=\"NavMenu2\"><a class=\"NavMenu2\" href=\"/tools/trace/?NCHK=ATP\">Tracking</a></td></tr>"
-txt = txt + "<tr><td width=5></td><td width=10></td><td class=\"NavMenu2\"><a class=\"NavMenu2\" href=\"/tools/AutoTrack/?NCHK=ATP\">AutoTrack</a> <img SRC='/images/lock2.gif'></td></tr>"
-txt = txt + "<tr><td width=5></td><td width=10></td><td class=\"NavMenu2\"><a class=\"NavMenu2\" href=\"/tools/planner/?NCHK=ATP\">Shipment Planner<br>(calendar)</a> <img SRC='/images/lock2.gif'></td></tr>"
-txt = txt + "<tr><td height=5></td></tr>"
-txt = txt + "<tr><td width=5></td><td colspan=2 class=\"NavMenu1\"><a class=\"NavMenu1\" href=\"/tools/docret/?NCHK=ATP\">Document Retrieval</a> <img SRC='/images/lock2.gif'></td></tr>"
-txt = txt + "<tr><td height=5></td></tr>"
-txt = txt + "<tr><td width=5></td><td colspan=2 class=\"NavMenu1\"><a class=\"NavMenu1\" href=\"/tools/reports/?NCHK=ATP\">Reports</a> <img SRC='/images/lock2.gif'></td></tr>"
-txt = txt + "<tr><td width=5></td><td width=10></td><td class=\"NavMenu2\"><a class=\"NavMenu2\" href=\"/tools/reports/history/?NCHK=ATP\">Historical Reports</a> <img SRC='/images/lock2.gif'></td></tr>"
-txt = txt + "<tr><td width=5></td><td width=10></td><td class=\"NavMenu2\"><a class=\"NavMenu2\" href=\"/tools/reports/charting/?NCHK=ATP\">Charts &amp; Graphs</a> <img SRC='/images/lock2.gif'></td></tr>"
-txt = txt + "<tr><td width=5></td><td width=10></td><td class=\"NavMenu2\"><a class=\"NavMenu2\" href=\"/tools/reports/center.asp?NCHK=ATP\">Reports Center</a> <img SRC='/images/lock2.gif'></td></tr>"
-txt = txt + "<tr><td width=5></td><td width=10></td><td class=\"NavMenu2\"><a class=\"NavMenu2\" href=\"/tools/reports/inbox/?NCHK=ATP\">Reports Inbox</a> <img SRC='/images/lock2.gif'></td></tr>"
-txt = txt + "<tr><td width=5></td><td width=10></td><td class=\"NavMenu2\"><a class=\"NavMenu2\" href=\"/tools/reports/?NCHK=ATP\">More / Custom Reports</a> <img SRC='/images/lock2.gif'></td></tr>"
-txt = txt + "<tr><td height=5></td></tr>"
-txt = txt + "<tr><td width=5></td><td colspan=2 class=\"NavMenu3\">Claims</td></tr>"
-txt = txt + "<tr><td width=5></td><td width=10></td><td class=\"NavMenu2\"><a class=\"NavMenu2\" href=\"/tools/overchargeclaims/?NCHK=ATP\">Overcharge Claims</a> <img SRC='/images/lock2.gif'></td></tr>"
-txt = txt + "<tr><td width=5></td><td width=10></td><td class=\"NavMenu2\"><a class=\"NavMenu2\" href=\"/tools/claimfile/?NCHK=ATP\">Loss &amp; Damage, Online Filing</a></td></tr>"
-txt = txt + "<tr><td width=5></td><td width=10></td><td class=\"NavMenu2\"><a class=\"NavMenu2\" href=\"/tools/claims/?NCHK=ATP\">Loss &amp; Damage, Status</a></td></tr>"
-txt = txt + "<tr><td height=5></td></tr>"
-txt = txt + "<tr><td width=5></td><td width=10></td><td class=\"NavMenu3\">Printable Forms:</td></tr>"
-txt = txt + "<tr><td width=5></td><td width=10></td><td class=\"NavMenu2\" style=\"padding-left:10px;\"><a class=\"NavMenu2\" href=\"/docs/forms/LossDamageClaimForm.pdf?NCHK=ATP\">Loss &amp; Damage</a></td></tr>"
-txt = txt + "<tr><td width=5></td><td width=10></td><td class=\"NavMenu2\" style=\"padding-left:10px;\"><a class=\"NavMenu2\" href=\"/docs/forms/UPackLossDamageClaimForm.pdf?NCHK=ATP\">Loss &amp; Damage - U-Pack</a></td></tr>"
-txt = txt + "<tr><td height=5></td></tr>"
-txt = txt + "</TABLE></TD>"
-txt = txt + "<TD VALIGN=\"TOP\"  style='background-color:#E4E3E2'>"
-txt = txt + "<TABLE BORDER=\"0\" CELLPADDING=\"1\" CELLSPACING=\"0\">"
-txt = txt + "<tr><td height=3></td></tr>"
-txt = txt + "<tr><td width=5></td><td colspan=2 class=\"NavMenu3\">Logistics Planning</td></tr>"
-txt = txt + "<tr><td width=5></td><td width=10></td><td class=\"NavMenu2\"><a class=\"NavMenu2\" href=\"/tools/multiship/?NCHK=ATP\">MultiShipment Tender</a> <img SRC='/images/lock2.gif'></td></tr>"
-txt = txt + "<tr><td width=5></td><td width=10></td><td class=\"NavMenu2\"><a class=\"NavMenu2\" href=\"/services/global?NCHK=ATP\">Global</a></td></tr>"
-txt = txt + "<tr><td width=5></td><td width=10></td><td class=\"NavMenu2\"><a class=\"NavMenu2\" href=\"/tools/timekeeper/resourcecenter/?NCHK=ATP\">TimeKeeper Resource Center</a></td></tr>"
-txt = txt + "<tr><td width=5></td><td width=10></td><td class=\"NavMenu2\"><a class=\"NavMenu2\" href=\"/tools/returns/?NCHK=ATP\">Returns Center</a> <img SRC='/images/lock2.gif'></td></tr>"
-txt = txt + "<tr><td width=5></td><td width=10></td><td class=\"NavMenu2\"><a class=\"NavMenu2\" href=\"/tools/director/?NCHK=ATP\">Shipment Director</a> <img SRC='/images/lock2.gif'></td></tr>"
-txt = txt + "<tr><td width=5></td><td width=10></td><td class=\"NavMenu2\"><a class=\"NavMenu2\" href=\"/tools/merge/?NCHK=ATP\">Merge-in-Transit</a> <img SRC='/images/lock2.gif'></td></tr>"
-txt = txt + "<tr><td height=5></td></tr>"
-txt = txt + "<tr><td width=5></td><td colspan=2 class=\"NavMenu1\"><a class=\"NavMenu1\" href=\"/tools/preferences/?NCHK=ATP\">Account Settings</a> <img SRC='/images/lock2.gif'></td></tr>"
-txt = txt + "<tr><td width=5></td><td width=10></td><td class=\"NavMenu2\"><a class=\"NavMenu2\" href=\"/tools/accountinfo/changepassword.asp?NCHK=ATP\">Change User ID / Password</a> <img SRC='/images/lock2.gif'></td></tr>"
-txt = txt + "<tr><td width=5></td><td width=10></td><td class=\"NavMenu2\"><a class=\"NavMenu2\" href=\"/tools/preferences/userinfo/?NCHK=ATP\">Profile</a> <img SRC='/images/lock2.gif'></td></tr>"
-txt = txt + "<tr><td width=5></td><td width=10></td><td class=\"NavMenu2\"><a class=\"NavMenu2\" href=\"/tools/contacts/view/?NCHK=ATP\">My Contacts</a> <img SRC='/images/lock2.gif'></td></tr>"
-txt = txt + "<tr><td width=5></td><td width=10></td><td class=\"NavMenu2\"><a class=\"NavMenu2\" href=\"/tools/commodities/view/?NCHK=ATP\">My Commodities</a> <img SRC='/images/lock2.gif'></td></tr>"
-txt = txt + "<tr><td height=5></td></tr>"
-txt = txt + "<tr><td width=5></td><td colspan=2 class=\"NavMenu3\">Other Tools</td></tr>"
-txt = txt + "<tr><td width=5></td><td width=10></td><td class=\"NavMenu2\"><a class=\"NavMenu2\" href=\"/tools/reroute/?NCHK=ATP\">Dynamic Rerouting</a> <img SRC='/images/lock2.gif'></td></tr>"
-txt = txt + "<tr><td width=5></td><td width=10></td><td class=\"NavMenu2\"><a class=\"NavMenu2\" href=\"/tools/exchange/?NCHK=ATP\">Exchange Rates</a></td></tr>"
-txt = txt + "<tr><td width=5></td><td width=10></td><td><span class=\"small\"><a class=\"NavMenu2\" href=\"javascript:toolPopup('xWin','/tools/shared/CubeWizard.asp?inWin=Y',675,420,true,false,true,false,'', (screen.height-(420))/2, (screen.width-675)/2);\">Cube/Density Calculator</a>&nbsp;<img src=\"/images/popup1.gif\" width=\"9\" height=\"9\"></span><span class=\"small2\"></span></td></tr>"
-txt = txt + "<tr><td width=5></td><td width=10></td><td class=\"NavMenu2\"><a class=\"NavMenu2\" href=\"/tools/nmfc/?NCHK=ATP\">NMFC Request</a></td></tr>"
-txt = txt + "<tr><td width=5></td><td width=10></td><td class=\"NavMenu2\"><a class=\"NavMenu2\" href=\"/tools/ziploadguide/?NCHK=ATP\">Zip Loading Guide</a> <img SRC='/images/lock2.gif'></td></tr>"
-txt = txt + "<tr><td width=5></td><td width=10></td><td class=\"NavMenu2\"><a class=\"NavMenu2\" href=\"/tools/chargecalc/?NCHK=ATP\">Quote Plugin Generator</a> <img SRC='/images/lock2.gif'></td></tr>"
-txt = txt + "<tr><td height=5></td></tr>"
-txt = txt + "</TABLE></TD></TR></TABLE>"
+<script language="JavaScript" src="/Include/OverLib-STC.js?V=1.64"></script>
+<script src="/include/qtipper.js?v=0.01"></script>
+<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td valign="top">
+   <div class="header">
+      <div class="header-brand"><a href="/" alt="Home" data-track="Abf.com Logo"><img src="/images/redesign2014/abf-dot-com-logo-sm.png" border="0"></a></div>
+      <!--[if lt IE 8]>
+         
+      <p class="warning old-browser-in-header">
+         <span class="message-close">&times;</span>
+         You are using an unsupported browser. Some features may not work correctly. Please upgrade to a <a target="_blank" data-track="Unsupported Browser Link" href="http://whatbrowser.org/">modern browser</a>.
+      </p>
+   
+      <![endif]-->
 
-   return(txt);
-}
-// -->
-</script>
-<script language="JavaScript" src="/Include/OverLib-STC.js?V=1.63"></script><table border="0" cellpadding="0" cellspacing="0" width="100%">
-<tbody><tr>
-<td valign="top">
-<div id="header">
-<div id="header-logo"><a data-track="ABF Logo" href="/" alt="Home"><img id="abflogo-hi-res" style="position:absolute;top:3px;left:7px;" src="/images/new/logo.png" border="0"></a></div>
-<div id="service-banner">
-<img src="/images/header_90years.png" border="0" style="position:absolute;left:136px;">
-</div>
-<div id="header-top-bar">
-<div id="header-top-bar-main"><div>To use advanced features → <a href="javascript:void(null);" id="lnkLogin" title="Logon and use the advanced features of abf.com...">Logon</a> | <a href="/tools/accountinfo/password.asp" title="Register to get a User ID and Password...">Register</a> | <a href="/tools/" title="Learn about the benefits of registering... ">Benefits</a></div>
-</div>
-</div>
+   <div class="profile-panel">
 
-   <div id="header-logon-panel">
-      <div id="logon-error-panel"></div>
-      <div id="logon-input-panel">
-         <div id="logon-userid-panel">
-            <div class="logon-label">User ID</div>
-            <div class="logon-input"><input type="text" id="logonUserID" maxlength="50" size="10" value="" class="frm" tabindex="1"></div>
-         </div>
-         <div id="logon-password-panel">
-            <div class="logon-label">Password</div>
-            <div class="logon-input"><input type="password" id="logonPassword" maxlength="20" size="10" value="" class="frm" tabindex="2"></div>
-         </div>
-         <div id="status-indicator"></div>
-         <a href="#logon" id="logon-button" tabindex="3">Logon</a>
+      <div class="profile-input-panel">
+         <form name="frmLogon" action="">
+            <input type="text" name="txtUserID" id="userid" maxlength="50" value="" tabindex="1" placeholder="User Id">
+            <input type="password" name="txtPassword" id="password" maxlength="20" value="" tabindex="2" placeholder="Password">
+            <button type="button" id="sign-in-button" class="profile-sign-in button-small" data-track="Sign In" tabindex="3">Sign In</button>
+         </form>
       </div>
-      <div style="clear:both;"></div>
-      <div id="logon-forgot"><a href="/tools/accountinfo/forgotpassword.asp" id="forgot-password">Forgot User ID/Password?</a></div>
-   </div>
-<ul id="header-links">
-<li><a title="Get help..." data-track="Help" href="javascript:upWinXY('helpWin','/help/helphow.asp?page=/help/helpmain.asp',725,500,true);">help</a></li>
-<li><a title="Contact ABF..." data-track="Contacts" href="/about/contact/">contacts</a></li>
-<li><a title="Send us a suggestion..." data-track="Suggestions" href="javascript:upWinXY('helpWin','/help/helphow.asp?page=/help/helpform.asp',725,500,true);">suggestions</a></li>
-<li><a title="Print this page..." data-track="Print" href="javascript:PrintPage();">print</a></li>
-<li><a title="E-mail this page..." data-track="Email" href="javascript:EmailPage();">e-mail</a></li>
-<li><a title="Save this page..." data-track="Save" href="javascript:SavePage();">save</a></li>
-</ul>
-<ul id="header-tabs">
-<li id="header-tab-online-tools"><a data-track="Top Menu-Header Tab" href="/tools/" onmouseover="menuUp(0, false);">Online Tools <img src="/images/new/tab_arrow.png" border="0"></a></li>
-<li class="HandCursor"><a onmouseover="menuUp(7, false);">Services <img src="/images/new/tab_arrow.png" border="0"></a></li>
-<li><a href="/rteguide/">Coverage</a></li>
-<li><a href="/ecommerce/">eCommerce</a></li>
-<li><a href="/resource/">Resource Center</a></li>
-<li><a href="/about/">About ABF</a></li>
-</ul>
-<div id="header-search">
-<input type="text" name="txtGSearch" id="txtGSearch" onkeypress="searchWinUp(event);" maxlength="100" size="15">
-<div class="search-button" onclick="searchWinUp(0);"></div>
-</div>
-</div>
-</td>
-</tr>
-   <tr>
-      <td valign="TOP">
-         <table border="0" cellpadding="0" cellspacing="0">
-            <tbody><tr><td colspan="5" height="6"></td></tr>
-            <tr>
-<td width="145" valign="TOP" nowrap="" class="leftBar">
-<table border="0" cellpadding="0" cellspacing="0" width="145">
-<tbody><tr><td>
+      <ul class="profile-links">
+         <li><a title="Register for an abf.com User Id and Password" href="/tools/accountinfo/password.asp">Need to register?</a></li>
+         <li><a title="Recover your password" href="/tools/accountinfo/forgotpassword.asp">Forgot password?</a></li>
+      </ul>
 
-   <table width="100%" border="0" cellpadding="4" cellspacing="1" class="sectionTable2" bgcolor="#838383">
+   </div> <!-- end profile-panel -->
+
+         <ul class="header-utilities">
+            <li><a title="Get help" class="header-panel-quicknav" data-track="Help - Header" href="javascript:upWinXY('helpWin','/help/helphow.asp?page=/help/helpmain.asp',725,500,true);">help</a></li>
+            <li><a title="Contact ABF" data-track="Contacts" href="/about/contact/">contacts</a></li>
+            <li><a title="Send us a suggestion" data-track="Suggestions" href="javascript:upWinXY('helpWin','/help/helphow.asp?page=/help/helpform.asp',725,500,true);">suggestions</a></li>
+            <li><a title="Print this page" data-track="Print" href="javascript:PrintPage();">print</a></li>
+            <li><a title="E-mail this page" data-track="Email" href="javascript:EmailPage();">e-mail</a></li>
+            <li><a title="Save this page" data-track="Save" href="javascript:SavePage();">save</a></li>
+         </ul>
+
+   <div class="navbar-container">
+      <ul class="navbar">
+
+   <li class="dropdown navbar-button-md">
+      <a href="#toolkit" class="dropdown-toggle" data-track="no">Tool Kit ▼</a>
+      <div class="dropdown-menu-wrapper-for-ie8">
+         <div class="dropdown-menu toolkit toolkit-sm">
+            <div class="menu-content">
+<div class="menu-content-section">
+<h4><span class="badge">1</span> Get a quote</h4>
+<ul class="menu-items shipping-steps">
+<li><a href="/tools/ltlquotes" data-track="Signed Out Toolkit Standard LTL">Standard LTL</a></li>
+<li><a href="/tools/timekeeper/" data-track="Signed Out Toolkit Timekeeper">Timekeeper</a></li>
+<li><a href="http://www.abfmultimodal.com/tools/quote/default.asp?refnum=ABFTOOL&amp;NLOView=1" target="_blank" data-track="Signed Out Toolkit Multimodal">Multimodal <span class="new-window"></span></a></li>
+<li><a href="http://www.upack.com/moving-quotes/quote.asp?refnum=ABFTOOL&amp;NLOView=1" target="_blank" data-track="Signed Out Toolkit U-Pack">U-Pack<sup>®</sup> <span class="new-window"></span></a></li>
+</ul>
+<h4><span class="badge">2</span> Schedule your shipment</h4>
+<ul class="menu-items shipping-steps">
+<li><a href="/tools/pickup" data-track="Signed Out Toolkit Pickup Request">Pickup Request</a></li>
+</ul>
+<h4><span class="badge">3</span> Shipping documents</h4>
+<ul class="menu-items shipping-steps">
+<li><a href="/tools/bolfmt" data-track="Signed Out Toolkit Bill of Lading">Bill of Lading</a></li>
+<li><a href="/tools/labels" data-track="Signed Out Toolkit Shipping Labels">Shipping Labels</a></li>
+<li><a href="/tools/slip" data-track="Signed Out Toolkit Packing Slip">Packing Slip</a></li>
+</ul>
+<h4><span class="badge">4</span> Check the status</h4>
+<ul class="menu-items shipping-steps">
+<li><a href="/tools/trace" data-track="Signed Out Toolkit Tracking">Track your shipment</a></li>
+</ul>
+</div>
+<div class="menu-content-section">
+<h4 class="menu-list-lg">Other common tools</h4>
+<ul class="menu-items">
+<li><a href="/tools/transit" data-track="Signed Out Toolkit Transit Times">Transit Times</a></li>
+<li><a href="/tools/rsearch" data-track="Signed Out Toolkit Routing and Service Centers">Routing &amp; ABF Service Centers</a></li>
+</ul>
+<ul class="menu-items">
+<li><a href="/tools/abfforms" data-track="Signed Out Toolkit Other Forms and Documents">Other forms &amp; ABF documents</a></li>
+<li><a href="javascript:toolPopup('xWin','/tools/shared/cubewizard.asp?inWin=Y',675,420,true,false,true,false,'', (screen.height-420)/2, (screen.width-675)/2);" data-track="Signed Out Toolkit Cube Density Calculator">Cube/Density Calculator <span class="new-window"></span></a></li>
+</ul>
+<h4 class="menu-list-lg separated">Sign In to access the full tool kit</h4>
+<ul class="menu-items">
+<li><a href="/tools/docret/" data-track="Signed Out Toolkit Document Retrieval">Document Retrieval</a></li>
+<li><a href="/tools/billreview" data-track="Signed Out Toolkit Invoice Review">Invoice Review</a></li>
+<li><a href="/tools/paidhistory" data-track="Signed Out Toolkit Payment History">Payment History</a></li>
+<li><a href="/tools/reports" data-track="Signed Out Toolkit Status Reports">Status Reports</a></li>
+<li><a href="/tools/reports/history" data-track="Signed Out Toolkit Historical Reports">Historical Reports</a></li>
+<li><a href="/tools/planner" data-track="Signed Out Toolkit Shipment Planner">Shipment Planner</a></li>
+</ul>
+<ul class="menu-items">
+<li><a href="/tools/multiship" data-track="Signed Out Toolkit Multishipment Tender">Multishipment Tender</a></li>
+<li><a href="/tools/returns" data-track="Signed Out Toolkit Returns">Returns Center</a></li>
+<li><a href="/tools/director" data-track="Signed Out Toolkit Director">Shipment Director</a></li>
+<li><a href="/tools/merge" data-track="Signed Out Toolkit Merge In Transit">Merge-In-Transit</a></li>
+<li><a href="/tools/reroute" data-track="Signed Out Toolkit Dynamic Rerouting">Dynamic Rerouting</a></li>
+<li><a href="/tools/preferences" data-track="Signed Out Toolkit myABF">myABF</a></li>
+</ul>
+
+   <button class="primary" onclick="window.location.href='/tools/accountinfo/acctpswd.asp'" data-track="Signed Out Toolkit Sign Inh"><a>Sign In</a></button>
+   <a href="/tools/accountinfo/password.asp" data-track="Signed Out Toolkit Need To Register">Need to register?</a>
+</div>
+
+            </div>
+         </div>
+      </div>
+   </li>
+
+   <li class="dropdown navbar-button-md">
+      <a href="#" class="dropdown-toggle" data-track="no">Services ▼</a>
+      <div class="dropdown-menu-wrapper-for-ie8">
+         <div class="dropdown-menu services">
+            <div class="menu-content">
+               <div class="menu-content-section">
+                  <h4>ABF Freight<span class="service-mark">SM</span></h4>
+                  <ul class="menu-items primary">
+                     <li><a href="/services/ltlfreight/">LTL Freight</a></li>
+                     <li><a href="/services/retailshipping/">Retail Shipping</a></li>
+                     <li><a href="/services/timecritical/">Time Critical</a></li>
+                     <li><a href="/services/tradeshow/">Trade Show Shipping</a></li>
+                     <li><a href="/services/whiteglove/">White Glove Delivery</a></li>
+                     
+                  </ul>
+                  <ul class="menu-items secondary">
+                     <li><strong>Additional Services</strong></li>
+                     <li><a href="/additionalservices/flatbed/">Flatbed Delivery</a></li>
+                     <li><a href="/additionalservices/relocube/">ReloCube</a></li>
+                     <li><a href="/additionalservices/shipmentdivider/">Secure Shipment Divider</a></li>
+                     <li><a href="/additionalservices/truckpack/">TruckPack</a></li>
+                  </ul>
+               </div>
+               <div class="menu-content-section">
+                  <h4>ABF Logistics<span class="service-mark">SM</span></h4>
+                  <ul class="menu-items primary">
+                     <li><a href="http://www.upack.com/moving-quotes/quote.asp?refnum=ABFSERV&amp;NLOView=2" target="_blank">ABF Moving<span class="service-mark">SM</span> <span class="new-window"></span></a></li>
+                     <li><a href="http://www.abfglobal.com?refnum=ABFSERV" target="_blank">ABF Global<span class="service-mark">SM</span> <span class="new-window"></span></a></li>
+                     <li><a href="/services/multimodal/">ABF Multimodal<span class="service-mark">SM</span></a></li>
+                     <li><a href="/services/supplychain">ABF Supply Chain Solutions<span class="service-mark">SM</span></a></li>
+                  </ul>
+               </div>
+            </div>
+         </div>
+      </div>
+   </li>
+<li class="navbar-button-sm"><a href="/coverage" data-track="Navbar Coverage">Coverage</a></li>
+<li class="navbar-button-md"><a href="/ecommerce" data-track="Navbar eCommerce">eCommerce</a></li>
+<li class="navbar-button-lg"><a href="/resource" data-track="Navbar Resource Center">Resource Center</a></li>
+
+   <li class="dropdown navbar-button-lg">
+      <a href="#" class="dropdown-toggle" data-track="no">Our Companies ▼</a>
+      <div class="dropdown-menu-wrapper-for-ie8">
+         <div class="dropdown-menu companies">
+            <div class="menu-content">
+               <div class="menu-content-section">
+                  <h4>ABF Freight<span class="service-mark">SM</span></h4>
+                  <ul class="menu-items primary">
+                     <li><a href="/ourcompanies/abffreight">About ABF Freight</a></li>
+                     <li><a href="http://www.abf.jobs" target="_blank">ABF Freight Careers <span class="new-window"></span></a></li>
+                  </ul>
+               </div>
+               <div class="menu-content-section">
+                  <h4>ABF Logistics<span class="service-mark">SM</span></h4>
+                  <ul class="menu-items primary">
+                     <li><a href="/ourcompanies/abflogistics">About ABF Logistics</a></li>
+                     <li><a href="https://www.arkbest.jobs/AppSelectSpecificCompany.asp?companyNum=54" target="_blank">ABF Logistics Careers <span class="new-window"></span></a></li>
+                  </ul>
+               </div>
+               <div class="menu-content-section">
+                  <h4>Other Helpful Links</h4>
+                  <ul class="menu-items primary">
+                     <li><a href="/store/">Company Store</a></li>
+                     <li><a href="http://www.abfusedequipment.com" target="_blank">ABF Freight Used Equipment <span class="new-window"></span></a></li>
+                  </ul>
+               </div>
+               <div class="menu-content-section newsfeed">
+                  <h4>News</h4>
+                  
+<ul class="newsfeed">
+<li class="newsfeed-article"><a href="/about/news/2014/p051214.asp" class="nav" title="ABF Freight service centers recognized with President’s Quality Awards.">ABF Freight service centers recognized with President’s Quality Awards.</a></li>
+<li class="newsfeed-article"><a href="/about/news/2014/p050114.asp" class="nav" title="ArcBest Corporation announces first quarter 2014 results.">ArcBest Corporation announces first quarter 2014 results.</a></li>
+<li class="newsfeed-article"><a href="/about/news/2014/p043014.asp" class="nav" title="Arkansas Best Corporation to become ArcBest Corporation.">Arkansas Best Corporation to become ArcBest Corporation.</a></li>
+</ul>
+
+               </div>
+            </div>
+         </div>
+      </div>
+   </li>
+
+      </ul>
+   </div>
+
+         <div class="search-panel">
+            <input type="textbox" name="txtGSearch" id="txtGSearch" onkeypress="searchWinUp(event);" size="20" maxlength="100" placeholder="Search">
+            <button class="button-small" data-track="Search" onclick="searchWinUp(0);">Search</button>
+         </div>
+   </div>
+</td></tr><tr><td valign="top"><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="145" valign="top"><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td height="6"></td></tr><tr><td>
+   <table width="100%" border="0" cellpadding="4" cellspacing="1" class="sectionTable2">
       <tbody><tr>
          <td class="sectionCell">
             <table cellpadding="4" cellspacing="0" border="0">
 <tbody><tr>
-<td class="sectionCell" style="padding-left:0px;padding-right:0px;"><span class="sideNavigation"><strong>Privacy Policy</strong></span></td>
+<td style="padding-left:0px;padding-right:0px;"><span class="sideNavigation"><strong>Privacy Policy</strong></span></td>
 </tr>
 <tr>
-<td class="sectionCell" style="padding-left:0px;padding-right:0px;"><span class="sideNavigation"><a class="nav" href="/termsofuse.asp">Terms of Use</a></span></td>
+<td style="padding-left:0px;padding-right:0px;"><span class="sideNavigation"><a class="nav" href="/termsofuse.asp">Terms of Use</a></span></td>
 </tr>
 <tr>
-<td class="sectionCell" style="padding-left:0px;padding-right:0px;"><span class="sideNavigation"><a class="nav" href="/copyright.asp">Copyright</a></span></td>
+<td style="padding-left:0px;padding-right:0px;"><span class="sideNavigation"><a class="nav" href="/copyright.asp">Copyright</a></span></td>
 </tr>
 
             </tbody></table>
          </td>
       </tr>
    </tbody></table>
+</td></tr></tbody></table>
 </td>
-</tr>
-<tr><td height="6"></td></tr>
-<tr>
-<td id="tblTool99" class="sectionCell2" data-track="" onmouseover="menuUp(6, false);toolCellMore(this, 'toolLink99', true, '', null, true);" onmouseout="toolCellMore(this, 'toolLink99', false, '', null, true);"><a href="#" class="HandCursor" data-track="no">
-<table id="leftOnlineTools" border="0" cellpadding="5" cellspacing="0">
-<tbody><tr>
-<td id="td299" class="sectionIconTextCell"><span class="small"><a class="nav4" data-track="no" id="toolLink99">More Online Tools...</a></span></td>
-<td class="sectionIconTextCell"><img src="/images/greenArrow_right.gif" vspace="0" border="0"></td></tr>
-</tbody></table>
-</a>
-</td>
-</tr>
-
-
-<tr><td height="6"></td></tr>
-<tr><td height="6"></td></tr>
-<tr>
-<td valign="top">
-<table width="100%" border="0" cellpadding="4" cellspacing="0" class="sectionTable" bgcolor="#838383">
-<tbody><tr><td class="sectionHeader" nowrap="nowrap">Connect With ABF</td></tr>
-<tr>
-<td class="sectionCell sideNavigation" align="center">
-<ul id="header-social">
-<li><a href="http://www.facebook.com/ABFtoday" data-track="Facebook"><img src="/images/new/fb.png" border="0" height="20" width="20"></a></li>
-<li><a href="https://twitter.com/ABFtoday" data-track="Twitter"><img src="/images/new/twitter.png" border="0" height="20" width="20"></a></li>
-<li><g:plusone annotation="none" href="http://www.abfs.com" size="medium"></g:plusone></li>
-</ul>
-</td>
-</tr>
-</tbody></table>
-</td>
-</tr>
-
-   <script type="text/javascript">
-      (function() {
-       var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-       po.src = 'https://apis.google.com/js/plusone.js';
-       var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-      })();
-   </script>
-<tr><td>
-</td></tr>
-</tbody></table>
-</td>
-<td width="6"><img src="/images/d1x1t.gif" width="6" height="1" border="0"></td>
-<td valign="TOP">
+<td width="20"><img src="/images/d1x1t.gif" width="6" height="1" border="0"></td>
+<td valign="TOP" style="padding:0;margin:0;">
 <div id="PageBody">
 
-<p><font class="pgTxt">ABF<sup>®</sup> is committed to protecting your privacy. We use the information we collect to provide you the most robust Internet applications in the transportation industry. Please read on for more information on ABF's commitment to your privacy.</font></p>
+<p>ArcBest Corporation ("ArcBest") is committed to protecting your privacy. We use the information we collect to provide you the most robust Internet applications in the transportation industry. Please read on for more information on our commitment to your privacy.</p>
 <dl>
-<dt><font class="pgParaTtl">What information does ABF collect?</font> 
-</dt><dd><font class="pgTxt">We collect and store information about every shipment we handle so that we can efficiently provide the delivery services demanded by our customers. We use information about our customers, their shipments, and their shipping activity to provide or enhance the services we make available to our customers, to enhance our ability to communicate with our customers about additional services they may find of value, to set prices, establish credit, accomplish the billing function, and to comply with government regulations.<br><br>Some of the information collected by ABF is personal data or data which relates to an identifiable person. Examples of personal data are names, addresses, e-mail addresses and telephone numbers. We never sell information to third parties that could be used to specifically identify an individual customer or group of customers.<br><br>Information, including personal information (name, address and phone number), provided as part of a shipping transaction represents a record of that business transaction and cannot be altered after the transaction is complete.<br><br>Furthermore, the ABF Web site collects IP addresses, usage statistics, and browser information for system administration, security, and statistical analysis purposes. We log this information so that we can provide the most efficient service, enhance security, ensure appropriate usage and produce traffic volume statistics. </font>
+<dt>
+<h4>What information does ArcBest collect?</h4>
+</dt><dd>
+<p>We collect and store information about every shipment handled by Our subsidiaries, ABF Freight System, Inc. and ABF Logistics, Inc., so that we can efficiently provide the delivery services demanded by our customers. We use information about our customers, their shipments, and their shipping activity to provide or enhance the services we make available to our customers, to enhance our ability to communicate with our customers about additional services they may find of value, to set prices, establish credit, accomplish the billing function, and to comply with government regulations.<br><br>Some of the information collected by us is personal data or data which relates to an identifiable person. Examples of personal data are names, addresses, e-mail addresses and telephone numbers. We never sell information to third parties that could be used to specifically identify an individual customer or group of customers.<br><br>Information, including personal information (name, address and phone number), provided as part of a shipping transaction represents a record of that business transaction and cannot be altered after the transaction is complete.<br><br>Furthermore, the abf.com Web site collects IP addresses, usage statistics, and browser information for system administration, security, and statistical analysis purposes. We log this information so that we can provide the most efficient service, enhance security, ensure appropriate usage and produce traffic volume statistics. </p>
 <p></p>
-</dd><dt><font class="pgParaTtl">How is my information saved and protected?</font> 
-</dt><dd><font class="pgTxt">We treat our data as assets that must be protected against loss and unauthorized access. We employ information security techniques to appropriately protect confidential information from unauthorized access by users inside and outside the company. Access to customer information is limited to those individuals who have a legitimate business need for that information.<br><br>ABF Internet sites are currently located in the United States. ABF Internet sites, and their supporting systems, employ generally accepted information security techniques such as firewalls, access control procedures and cryptography to appropriately protect confidential information from unauthorized access.<br><br>Your account and shipment information is stored in a central, secure source in our mainframe system. All calls from the Internet to access this information must pass through our secure site.<br><br>Although we make substantial efforts to limit access to our facilities and vehicles to authorized personnel, we are not responsible for maintaining the confidentiality of information that is printed and placed in plain view on a shipment or package.</font> 
+</dd><dt>
+<h4>How is my information saved and protected?</h4>
+</dt><dd>We treat our data as assets that must be protected against loss and unauthorized access. We employ information security techniques to appropriately protect confidential information from unauthorized access by users inside and outside the company. Access to customer information is limited to those individuals who have a legitimate business need for that information.<br><br>The abf.com Web site is currently located in the United States. This Web site, and its supporting systems, employ generally accepted information security techniques such as firewalls, access control procedures and cryptography to appropriately protect confidential information from unauthorized access.<br><br>Your account and shipment information is stored in a central, secure source in our mainframe system. All calls from the Internet to access this information must pass through our secure site.<br><br>Although we make substantial efforts to limit access to our facilities and vehicles to authorized personnel, we are not responsible for maintaining the confidentiality of information that is printed and placed in plain view on a shipment or package. 
 <p></p>
-</dd><dt><font class="pgParaTtl">How do I change my personal or company information?</font> 
-</dt><dd><font class="pgTxt">Registered users of myABF and/or the eCenter of Online Tools may contact their local&nbsp;account manager&nbsp;or e-mail <a href="mailto:passwords@abfs.com">passwords@abfs.com</a> to request a change to registration information. You are entirely responsible for any and all activities that occur under your account.<br><br>Personal information provided at the time of the ABF Web site registration will be deleted if the user does not access abf.com within 6 months as a logged-on user.</font> 
+</dd><dt>
+<h4>How do I change my personal or company information?</h4>
+</dt><dd>Registered users of myABF® and/or the eCenter® of Online Tools may contact their local account manager or e-mail passwords@abfs.com to request a change to registration information. You are entirely responsible for any and all activities that occur under your account.<br><br>Personal information provided at the time of the abf.com Web site registration will be deleted if the user does not access abf.com within 6 months as a logged-on user. 
 <p></p>
-</dd><dt><font class="pgParaTtl">Does the ABF site use cookies?</font> 
-</dt><dd><font class="pgTxt">Certain saved options are stored as an encrypted entry in your cookie file, enabling you to access the advanced features of this site without having to logon each time you enter the site. We believe cookies provide a safe and secure way to improve the usability of the site. Please note that we will never use cookies to find demographic information. </font>
+</dd><dt>
+<h4>Does the abf.com Web site use cookies?</h4>
+</dt><dd>Certain saved options are stored as an encrypted entry in your cookie file, enabling you to access the advanced features of this site without having to logon each time you enter the site. We believe cookies provide a safe and secure way to improve the usability of the site. Please note that we will never use cookies to find demographic information. 
 <p></p>
-</dd><dt><font class="pgParaTtl">Will ABF disclose the information it collects to third parties?</font> 
-</dt><dd><font class="pgTxt">Unless approved by you, ABF will not sell, rent or trade your information to others. In other words, all information about you stored on our site will never be released to anyone without your consent except to comply with valid legal processes, such as a search warrant, subpoena or court order, to protect the company's rights and property, or during emergencies when ABF believes physical safety is at risk.</font> 
+</dd><dt>
+<h4>Will ArcBest disclose the information it collects to third parties?</h4>
+</dt><dd>Unless approved by you, we will not sell, rent or trade your information to others. In other words, all information about you stored on our site will never be released to anyone without your consent except to comply with valid legal processes, such as a search warrant, subpoena or court order, to protect the company's rights and property, or during emergencies when we believe physical safety is at risk. 
 <p></p>
-</dd><dt><font class="pgParaTtl">Will ABF use this information to send me promotional materials?</font> 
-</dt><dd><font class="pgTxt">Registered users and ABF customers at times will receive newsletters and other promotional materials via e-mail. Clear instructions are always provided to opt-out of future e-mails. Furthermore, print materials are sent to ABF customers on a regular basis. You may also opt-out of these print&nbsp;mailings by contacting your local ABF account manager.</font> 
+</dd><dt>
+<h4>Will ArcBest use this information to send me promotional materials?</h4>
+</dt><dd>Registered users and existing customers at times will receive newsletters and other promotional materials via e-mail. Clear instructions are always provided to opt-out of future e-mails. Furthermore, print materials are sent to existing customers on a regular basis. You may also opt-out of these print mailings by contacting your local account manager. 
 <p></p></dd></dl>
-<p><font class="pgTxt">Please note that by using the ABF Web site, you consent to the collection and use of this information by ABF. If we decide to change this privacy policy, alterations will be posted to this page. ABF is committed to protecting your privacy.</font></p>
-<p><font class="pgTxt">Comments, suggestions or materials sent or transmitted to ABF shall be deemed to be non-confidential. ABF shall have no obligation of any kind with respect to such comments, suggestions or materials and shall be free to use and distribute them to others without limitation, including, but not limited to developing and marketing products incorporating them.</font></p>
-<p><font class="pgTxt">Questions regarding this Privacy Policy should be directed to the <a href="mailto:webmaster@abfs.com">ABF Webmaster</a>.</font></p>
+<p>Please note that by using the abf.com Web site, you consent to the collection and use of this information by us. If we decide to change this privacy policy, alterations will be posted to this page. We are committed to protecting your privacy.</p>
+<p>Comments, suggestions or materials sent or transmitted to us shall be deemed to be non-confidential. We shall have no obligation of any kind with respect to such comments, suggestions or materials and shall be free to use and distribute them to others without limitation, including, but not limited to developing and marketing products incorporating them.</p>
+<p>Questions regarding this Privacy Policy should be directed to the <a href="mailto:webmaster@abfs.com">abf.com Webmaster</a>.</p>
 </div></td>
 </tr>
 </tbody></table>
 </td>
 </tr>
 </tbody></table>
-<div id="footer">
-<div id="footer-image"></div>
-<div id="footer-links"><a href="/copyright.asp">Copyright© 1995-2013 ABF Freight System, Inc. All Rights Reserved</a> | <a href="/termsofuse.asp">Terms of Use</a> | <a href="/privacy.asp">Privacy Policy</a></div></div>
+</div>
+
+<div class="footer">
+
+   <div class="sitemap-panel">
+      <ul>
+         <li class="heading">Tool Kit</li>
+         <li><a href="/tools/ltlquotes">Quote</a></li>
+         <li><a href="/tools/trace">Track</a></li>
+         <li><a href="/tools/transit">Transit Times</a></li>
+         <li><a href="/tools/pickup">Schedule Shipment</a></li>
+         <li><a href="/tools/bolfmt">Bill of Lading</a></li>
+      </ul>
+      <ul>
+         <li class="heading">Resources</li>
+         <li><a href="https://m.abf.com" class="" nav""="">ABF Mobile</a></li>
+         <li><a href="/coverage">Coverage</a></li>
+         <li><a href="/tools/rsearch">Service Centers</a></li>
+         <li><a href="/ecommerce">eCommerce</a></li>
+         <li><a href="/resource/abf111">Rules &amp; Services</a></li>
+      </ul>
+      <ul>
+         <li class="heading">Our Companies</li>
+         <li><a href="/about/news">News &amp; Press</a></li>
+         <li><a href="http://www.abfusedequipment.com" target="_blank">Used Equipment</a></li>
+         <li><a href="/store">Company Store</a></li>
+         <li><a href="/about/contact">Contact Us</a></li>
+      </ul>
+      
+   <div class="social-media-panel">
+      <p>CONNECT WITH US</p>
+      <ul>
+         <li><a href="http://www.facebook.com/ABFtoday" data-track="Facebook" target="_blank"><img src="/images/redesign2014/32-facebook.png" border="0"></a></li>
+         <li><a href="https://twitter.com/ABFtoday" data-track="Twitter" target="_blank"><img src="/images/redesign2014/32-twitter.png" border="0"></a></li>
+         <li><a href="https://plus.google.com/101283254107679283521" data-track="Google Plus" target="_blank" rel="publisher"><img src="/images/redesign2014/32-googleplus.png" border="0"></a></li>
+         <li><a href="https://www.linkedin.com/company/abf-freight-system" target="_blank"><img src="/images/redesign2014/32-linkedin.png" border="0"></a></li>
+      </ul>
+      
+   <p class="copyright-panel">
+      <a href="/copyright.asp">© 2014 - All rights reserved</a><br>
+      <a href="/termsofuse.asp">Terms and Conditions</a> |
+      <a href="/privacy.asp">Privacy Policy</a>
+   </p>
+
+   </div>
+
+   </div>
+</div>
 
 
 </body></html>
