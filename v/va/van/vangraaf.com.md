@@ -1,16 +1,6 @@
-> *The following text is extracted and transformed from the vangraaf.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211141723id_/http%3A//www.vangraaf.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vangraaf.com privacy policy that was archived on 2014-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140526063623id_/http%3A//www.vangraaf.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
-
-  * [News](http://www.vangraaf.com/en/news/)
-  * [Trends](http://www.vangraaf.com/en/trend-magazine/)
-  * [Brands](http://www.vangraaf.com/en/brands/)
-  * [Magazine](http://www.vangraaf.com/en/magazin/trends-news/2013/)
-  * [Locations](http://www.vangraaf.com/en/locations/stores/)
-  * [Service](http://www.vangraaf.com/en/service/)
-  * [Career](http://company.vangraaf.com/en/career/)
-
-
 
   * [VAN GRAAF](http://www.vangraaf.com/en/)
   * [Information](http://www.vangraaf.com/en/imprint/)
