@@ -1,372 +1,548 @@
-<!--The following is the downloaded HTML source of the isnetworld.com privacy policy that was archived on 2013-09-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130924180443id_/http%3A//www.isnetworld.com/Homepage/privacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the isnetworld.com privacy policy that was archived on 2014-05-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140526234411id_/https%3A//www.isnetworld.com/PrivacyPolicy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="head"><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><meta id="metaDesc" name="description" content="ISNetworld discloses the information management practices for ISNetworld."><title>
-	Privacy Policy | ISNetworld
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" class=""><head><title>
+	ISN | Privacy Policy
 </title>
-        <link rel="icon" type="image/x-icon" href="/Images/favicon.ico">
-        <link rel="shortcut icon" type="image/x-icon" href="/Images/favicon.ico">
-        <link rel="stylesheet" type="text/css" href="/Css/main-styles.css">
-        <link rel="Stylesheet" type="text/css" href="/Css/TopNavMenu.css">
-        <link rel="stylesheet" type="text/css" href="/Css/jquery.css">
-        <link rel="stylesheet" type="text/css" href="/Scripts/Shadowbox/shadowbox.css">
-        <script type="text/javascript" language="javascript" src="/Scripts/jquery.js"></script>
-        <script type="text/javascript" language="javascript" src="/Scripts/jqueryui.js"></script>
-        <script type="text/javascript" language="javascript" src="/Scripts/ISN.js"></script>
-        <script type="text/javascript" language="javascript" src="/Scripts/easing.js"></script>
-        <script type="text/javascript" language="javascript" src="/Scripts/Shadowbox/shadowbox.js"></script>
-        <script type="text/javascript" language="javascript">
-            Shadowbox.init({
-                players: ["swf"]
-            });
+    <script type="text/javascript" src="/Scripts/jquery-latest.min.js"></script>
+    <script src="/Scripts/jquery-ui.js"></script>
+    <script type="text/javascript" src="/Scripts/jquery.hoverIntent.minified.js"></script>
+    <script src="/Scripts/Scripts.js"></script>
+    <!-- Add fancyBox -->
+    <link rel="stylesheet" href="/Scripts/fancybox/jquery.fancybox.css?v=2.1.5" type="text/css" media="screen">
+    <script type="text/javascript" src="/Scripts/fancybox/jquery.fancybox.pack.js?v=2.1.5"></script>
 
-            function TermsCheck(chkTermsId) {
-                var chkTerms = $('#' + chkTermsId)
+    <script src="/Scripts/dropDown.js"></script>
 
-                if (chkTerms.checked) {
-                    return true;
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" type="text/css"><link href="Css/MainStyle.css" rel="stylesheet"><link href="Css/dropDown.css" rel="stylesheet">
+    <script>
+        var full = window.location.host;
+        var parts = full.split('.');
+        var sub = parts[0];
+
+        if (sub == "www") {
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-17191488-1']);
+            _gaq.push(['_setDomainName', 'none']);
+            _gaq.push(['_setAllowLinker', true]);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script');
+                ga.onload = function () { var nothing = 'nothing to do here'; };
+                ga.type = 'text/javascript';
+                ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(ga, s);
+            })();
+        }
+
+        function Watermarks() {
+            $('#divUsernameWM').css('left', $('#txtUsernameLogin').offset().left + 'px');
+            $('#divPasswordWM').css('left', $('#txtPasswordLogin').offset().left + 'px');
+        }
+
+        $(window).resize(function () {
+            Watermarks()
+        });
+
+        $(document).ready(function () {
+
+            Watermarks();
+
+            if (location.pathname.toLowerCase().indexOf("/default") >= 0 || location.pathname == '/') {
+
+                $('#txtUsernameLogin').focus();
+                window.scrollTo(0, 0);
+            }
+
+            var fullPath = location.protocol + '//' + location.host + "/";
+
+            $('#txtUsernameLogin').keyup(function () {
+                var watermark = $(this).val();
+                if (watermark == '') {
+                    $('#divUsernameWM').show();
                 }
                 else {
-                    Alert('In order to submit your information you need to accept ISNetworld terms and condition.');
-                    return false;
+                    $('#divUsernameWM').hide();
                 }
-            }
+            })
 
-            $(document).ready(function () {
+            $('#txtUsernameLogin').keydown(function () {
+                var watermark = $(this).val();
+                if (watermark == '') {
+                    $('#divUsernameWM').show();
+                }
+                else {
+                    $('#divUsernameWM').hide();
+                }
+            })
 
-                $('#navIndustries').hover(
-                    function () {
-                        var Position = $("#navIndustriesImg").position();
-                        $("#navIndustriesSub").css({ 'top': Position.top + 27, 'left': Position.left, 'z-index': 9999 });
-                        $("#navIndustriesSub").show();
-                        $("#navIndustriesImg").attr('src', '/Images/navOurIndustriesHover.gif');
+            $('#divUsernameWM').click(function () {
+                $('#txtUsernameLogin').focus();
+            })
 
-                    },
-                    function () {
-                        $("#navIndustriesSub").stop().hide(null, null,
-                            function () {
-                                $("#navIndustriesSub").attr("style", "display: none");
-                            });
-                        $("#navIndustriesImg").attr("src", '/Images/navOurIndustries.gif');
-                    }
-                );
 
-                $('#navNews').hover(
-                    function () {
-                        var Position = $("#navNewsImg").position();
-                        $("#navNewsSub").css({ 'top': Position.top + 27, 'left': Position.left, 'z-index': 9999 });
-                        $("#navNewsSub").show();
-                        $("#navNewsImg").attr('src', '/Images/navNewsEventsHover.gif');
-                    },
-                    function () {
-                        $("#navNewsSub").stop().hide(null, null,
-                            function () {
-                                $("#navNewsSub").attr("style", "display: none");
-                            });
+            $('#divPasswordWM').click(function () {
+                $('#txtPasswordLogin').focus();
+            })
 
-                        $("#navNewsImg").attr("src", '/Images/navNewsEvents.gif');
-                    }
-                );
+            $('#txtPasswordLogin').keyup(function (event) {
 
-                $('#navAbout').hover(
-                    function () {
-                        var Position = $("#navAboutImg").position();
-                        $("#navAboutSub").css({ 'top': Position.top + 27, 'left': Position.left, 'z-index': 9999 });
-                        $("#navAboutSub").show();
-                        $("#navAboutImg").attr('src', '/Images/navAboutISNHover.gif');
-                    },
-                    function () {
-                        $("#navAboutSub").stop().hide(null, null,
-                            function () {
-                                $("#navAboutSub").attr("style", "display: none");
-                            });
-
-                        $("#navAboutImg").attr("src", '/Images/navAboutISN.gif');
-                    }
-                );
-
-                $("#navContact").hover(
-                    function () {
-                        $("#navContactImg").attr('src', '/Images/navContactISNHover.gif');
-                    },
-                    function () {
-                        $("#navContactImg").attr('src', '/Images/navContactISN.gif');
-                    }
-                );
-
-                $('#txtUsername').focus().select();
-
-                $('#chkRememberMe').css('border', 'none');
-
-                $(window).resize(function () {
-                    setMenuText();
-                });
-
-                setMenuText();
+                var watermark = $(this).val();
+                if (watermark == '') {
+                    $('#divPasswordWM').show();
+                }
+                else {
+                    $('#divPasswordWM').hide();
+                }
 
             });
 
-            function setMenuText() {
+            $('#txtPasswordLogin').keypress(function (event) {
 
-                var NavIndPos = $("#navIndustriesImg").position();
-                $("#navIndustiresTxt").css({ 'position': 'absolute', 'top': NavIndPos.top + 7, 'left': NavIndPos.left + 15, 'z-index': 99 });
+                if (event.which == 13) {
+                    event.preventDefault();
+                    $('#btnLoginLogic').click();
+                }
+            });
 
-                var NavNewPos = $("#navNewsImg").position();
-                $("#navNewsTxt").css({ 'position': 'absolute', 'top': NavNewPos.top + 7, 'left': NavNewPos.left + 15, 'z-index': 99 });
 
-                var NavAboutPos = $("#navAboutImg").position();
-                $("#navAboutTxt").css({ 'position': 'absolute', 'top': NavAboutPos.top + 7, 'left': NavAboutPos.left + 15, 'z-index': 99 });
 
-                var NavContactPos = $("#navContactImg").position();
-                $("#navContactTxt").css({ 'position': 'absolute', 'top': NavContactPos.top + 7, 'left': NavContactPos.left + 15, 'z-index': 99 });
+            $('#btnLoginFake').click(function () {
+                //console.log('test');
+                $('#btnLoginLogic').click();
+            })
 
+            $('#ISNLogo').click(function () {
+                window.location = fullPath + 'default.aspx';
+            })
+
+            $('#ISNLogo2').click(function () {
+                window.location = fullPath + 'default.aspx';
+            })
+
+
+
+
+
+            //bolding the sub menus
+            
+
+            $(".ihavealetter").fancybox({
+                'border': 0
+            });
+
+            $(".ihavealetter").fancybox({
+                width: 592,
+                autoScale: false,
+                autoDimensions: true,
+                scrolling: 'no',
+                transitionIn: 'none',
+                transitionOut: 'none',
+                padding: 0,
+                closeBtn: false
+            });
+
+           
+            $("#contactUSSpan").hover(function () {
+                $('.OrangeIcon').each(function () {
+                    $(this).attr("src", $(this).attr("src").replace("666666", "ff6d42")
+)
+                })
+                $('.contactUSTopHeader').css('color', '#ff6d42')
+            },
+            function () {
+                $('.OrangeIcon').each(function () {
+                    $(this).attr("src", $(this).attr("src").replace("ff6d42", "666666")
+)
+                })
+                $('.contactUSTopHeader').css('color', '#666666')
+            });
+
+
+            if ($('#txtUsernameLogin').val() == '') {
+                $('#divUsernameWM').show();
+            }
+            else {
+                $('#divUsernameWM').hide();
             }
 
-            function trackVideoClick(videoName) {
-                var full = window.location.host;
-                var parts = full.split('.');
-                var sub = parts[0];
+            if ($('#txtPasswordLogin').val() == '') {
+                $('#divPasswordWM').show();
+            }
+            else {
+                $('#divPasswordWM').hide();
+            }
+
+        })
+
+        $(window).load(function () {
+            MenuHovers()
+        });
+        var isIE = /*@cc_on!@*/false;
+        var showCloseBtn = false;
+        var top = "32px";
+        var right = "60px";
+
+        //if (isIE) {
+        //    showCloseBtn = true;
+        //    top = "0px";
+        //    right = "-40px";
+        //}
+
+        function blah() {
+            $(".divAlert").fancybox({
+                parent: "form:first",
+                width: 550,
+                autoScale: false,
+                autoDimensions: true,
+                scrolling: 'no',
+                transitionIn: 'elastic',
+                transitionOut: 'none',
+                padding: 0,
+                closeBtn: true,
+                afterShow: function () {
+                    $(".fancybox-close").css({ "top": "28px", "right": right });
+                }
+            }).click();
+        }
+
+        function HoverUnderline(div, color) {
+
+            if (color == '') {
+                color = "#ffffff";
+            }
+            $('#divHoverUnderline').hide();
+            var position = $(div).position();
+
+            var positionParent = $(div).parent().position();
+
+            //$('#divHoverUnderline').css({ "border-top-color": color, "margin-left": (position.left - positionParent.left) + (($(div).width() - $('#divHoverUnderline').width()) / 2), "width": $(div).width() });
+            $('#divHoverUnderline').css({ "border-top-color": color, "margin-left": (position.left - positionParent.left), "width": $(div).width() });
+            $('#divHoverUnderline').show();
+        }
+
+        function MenuUnderLine(div, color) {
+            if (color == '') {
+                color = "#ffffff";
+            }
+            $('#divPermUnderline').hide();
+            var position = $(div).position();
+
+            var positionParent = $(div).parent().position();
+
+            //$('#divPermUnderline').css({ "border-top-color": color, "margin-left": (position.left - positionParent.left) + (($(div).width() - $('#divPermUnderline').width()) / 2), "width": $(div).width() });
+            $('#divPermUnderline').css({ "border-top-color": color, "margin-left": (position.left - positionParent.left), "width": $(div).width() });
+            $('#divPermUnderline').show();
+        }
+
+        function MenuHovers() {
+            
+            $('#aWhatWeDo').hover(function () {
+                HoverUnderline('#aWhatWeDo', '#ff6d42');
+            }, function () {
+                HoverUnderline('#aWhatWeDo', '');
+            });
+            
+            $('#aBenefits').hover(function () {
+                HoverUnderline('#aBenefits', '#ffb070');
+            }, function () {
+                HoverUnderline('#aBenefits', '');
+            });
+            
+            $('#aEvents').hover(function () {
+                HoverUnderline('#aEvents', '#92d400');
+            }, function () {
+                HoverUnderline('#aEvents', '');
+            });
+            
+            $('#aResources').hover(function () {
+                HoverUnderline('#aResources', '#7bbbb2');
+            }, function () {
+                HoverUnderline('#aResources', '');
+            });
+            
+            $('#aAboutUs').hover(function () {
+                HoverUnderline('#aAboutUs', '#c4afb9');
+            }, function () {
+                HoverUnderline('#aAboutUs', '');
+            });
+
+            
 
 
-                if (sub == "www") {
+            var pos = $("#aResources").offset();
+            $("#resourcesCaret").css("left", pos.left + 25);
 
-                    _gaq.push(['_trackEvent', 'Videos', 'Play', videoName]);
+            var position = $("#aAboutUs").offset();
+            $("#aboutUsCaret").css("left", position.left + 25);
+
+        }
+
+
+
+
+        function ExpandResources(ShowAnimation) {
+            $("#aboutUsCaret").hide();
+            $("#SubMenuAboutUs").hide();
+            if (ShowAnimation) {
+                if ($("#SubMenuResources").is(":hidden")) {
+                    $("#resourcesCaret").show();
+                    $("#SubMenuResources").slideDown();
+                    $("#SubMenuResources").show();
+                    //$("#stickyFake").animate({ height: "90px" });
+                }
+                else {
+                    $("#SubMenuResources").slideUp(function () { $("#resourcesCaret").hide(); });
+                    //$("#stickyFake").animate({ height: "70px" });
                 }
             }
-        </script> 
-        
-        </head>
-    <body onload="window.status='Welcome to ISN 10.0!';">
-        <form method="post" action="/Homepage/privacypolicy.aspx" id="FrmMainContent" autocomplete="off">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE5OTcwNDI2OTAPZBYCZg9kFgQCAQ9kFgICAQ8WAh4HY29udGVudAVJSVNOZXR3b3JsZCBkaXNjbG9zZXMgdGhlIGluZm9ybWF0aW9uIG1hbmFnZW1lbnQgcHJhY3RpY2VzIGZvciBJU05ldHdvcmxkLmQCAw9kFgICAg8PZBYCHgxhdXRvY29tcGxldGUFA29mZmQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgIFDWN0bDAwJGliTG9naW4FE2N0bDAwJGNoa1JlbWVtYmVyTWUNGAglAmmU/FWHMCzEWUllFmIc9g==" style="border-style: solid; border-color: rgb(230, 230, 230); background-color: rgb(255, 255, 229);">
+            else {
+                //$("#stickyFake").css({ height: "90px" });
+                $("#SubMenuResources").toggle();
+                $("#resourcesCaret").toggle();
+            }
+        }
 
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBQKzkPU1Avfb85MMAoHty7UFAoeHuNMCApuo1K4PYsrw/ZBKtKWYrW83xdL/YZQjOYk=" style="border-style: solid; border-color: rgb(230, 230, 230); background-color: rgb(255, 255, 229);">
-            <div id="wrapper" style="width: 853px">
-                <div id="header" style="padding-bottom: 10px; margin-top: 25px;">
-                    <div id="logo" style="margin-top:10px;"><a href="/"><img alt="" src="/Images/ISN-Logo-cities.gif" width="335" height="69" border="0"></a></div>
-                    <div id="login" style="width:500px; margin: 0; text-align: right;">
-                        <span class="label">Username:</span>
-                        <input name="ctl00$txtUsername" type="text" size="20" id="txtUsername" class="fieldBoxWidth hasFocus" style="font-family: Arial, Helvetica, Verdana, sans-serif; border-style: solid; border-color: black; background-color: rgb(230, 230, 230);">
-                        
-                        <br>
-                        <div style="margin: 6px 0;">
-                            <span class="label">Password:</span>
-                            <input name="ctl00$txtPassword" type="password" size="20" id="txtPassword" class="fieldBoxWidth" autocomplete="off" style="font-family: Arial, Helvetica, Verdana, sans-serif; border-style: solid; border-color: rgb(230, 230, 230); background-color: rgb(255, 255, 229);">
-                            
-                        </div>
-                        <div style="margin-bottom: 4px;">                       
-                            <a href="/HomePage/asContractorSignUpStep1.aspx"><img alt="" src="/Images/hdrSubscribeBtn2.gif" width="109" height="18" border="0"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                            <input type="image" name="ctl00$ibLogin" id="ibLogin" src="../Images/hdrLoginBtn2.gif" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ibLogin&quot;, &quot;&quot;, true, &quot;Login&quot;, &quot;&quot;, false, false))" border="0">
-                        </div>                  
-                        Forgot Your <a href="/HomePage/ForgotUsername.aspx">Username</a> or <a href="/HomePage/ForgotPassword.aspx">Password</a>?&nbsp;&nbsp;<span style="border: none;"><input id="chkRememberMe" type="checkbox" name="ctl00$chkRememberMe" style="border: none;"><label for="chkRememberMe">Keep Me Logged In</label></span>&nbsp;&nbsp;          
-                    </div>
-                </div><!-- header end -->
-                <div class="spacer"></div>
-                <div style="line-height: 11px; height: 11px;">&nbsp;</div>
-                <div style="width: 100%;">
-                    <ul id="nav">
-                        <li id="navIndustries">
-                            <a id="navIndustriesA" href="/TeamPages/OurIndustries.aspx" title="Compliance Record Management and Reporting Needs | ISNetworld">
-                                <img id="navIndustriesImg" src="/Images/navOurIndustries.gif" alt="Our Industries" name="Our_Industries" width="213" height="27" border="0">
-                            </a>
-                            <div id="navIndustiresTxt" style="position: absolute; top: 125px; left: 271.5px; z-index: 99;"><a href="/TeamPages/OurIndustries.aspx" style="color:White;font-weight:bold;word-spacing:3px; text-decoration:none;">
-                            <h2 style="color:White;font-weight:bold;word-spacing:3px; text-decoration:none; font-size: 12px; margin:0px;"> O<span style="font-size:10px">UR</span> I<span style="font-size:10px">NDUSTRIES</span> </h2>
-                           </a></div>
-                            <div id="navIndustriesSub">
-                                <table style="width: 100%;">
-                                    <tbody><tr class="tblInd"><td></td><td><a href="/TeamPages/OperatorList.aspx" title="Featured Owner Clients | ISNetworld"><span class="navText">Featured Owner Clients</span></a></td><td class="tblEdge"></td></tr>        
-                                    <tr class="tblInd"><td colspan="3"><hr style="width:95%"></td></tr>    
-                                    <tr class="tblInd"><td></td><td><a href="/TeamPages/Upstream.aspx" title="Upstream Energy Operators, Contractor Management | ISNetworld"><span class="navText">Energy Upstream</span></a></td><td></td></tr>    
-                                    <tr class="tblInd"><td></td><td><a href="/TeamPages/Midstream.aspx" title="Midstream Energy Operators, Contractor Management | ISNetworld"><span class="navText">Energy Midstream</span></a></td><td></td></tr>    
-                                    <tr class="tblInd"><td></td><td><a href="/TeamPages/Downstream.aspx" title="Downstream Energy Operators, Contractor Management | ISNetworld"><span class="navText">Energy Downstream</span></a></td><td></td></tr>    
-                                    <tr class="tblInd"><td></td><td><a href="/TeamPages/Utilities_Distribution_PowerGeneration.aspx" title="Utilities, Distribution and Power Generation Contractor Management | ISNetworld"><span class="navText">Utilities, Distribution and Power Generation</span></a></td><td></td></tr>    
-                                    <tr class="tblInd"><td></td><td><a href="/TeamPages/BioPharmaFacility.aspx" title="Health Care &amp; Pharma | ISNetworld"><span class="navText">Health Care &amp; Pharma</span></a></td><td></td></tr>    
-                                    <tr class="tblInd"><td></td><td><a href="/TeamPages/Facilities.aspx" title="Facilities Management"><span class="navText">Facilities Management</span></a></td><td></td></tr>    
-                                    <tr class="tblInd"><td></td><td><a href="/TeamPages/Manufacturing.aspx" title="Manufacturing, Contractor Management | ISNetworld"><span class="navText">Manufacturing</span></a></td><td></td></tr>    
-                                    
-                                    <tr class="tblInd"><td></td><td><a href="/TeamPages/FoodAgriculture.aspx" title="Food &amp; Agriculture"><span class="navText">Food &amp; Agriculture</span></a></td><td></td></tr>
-                                    <tr class="tblInd"><td></td><td><a href="/TeamPages/WoodPaper.aspx" title="Wood, Paper &amp; Consumer Products"><span class="navText">Wood, Paper &amp; Consumer Products</span></a></td><td></td></tr>    
-                                    <tr class="tblInd"><td></td><td><a href="/TeamPages/Mining.aspx" title="Mining Operators Contractor Management | ISNetworld"><span class="navText">Mining &amp; Fertilizer Products</span></a></td><td></td></tr>    
-                                    
-                                    <tr class="tblInd"><td></td><td><a href="/TeamPages/CollegesUniversities.aspx" title="Colleges &amp; Universities | ISNetworld"><span class="navText">Colleges &amp; Universities</span></a></td><td></td></tr>    
-                                    
-                                    <tr class="tblInd"><td></td><td><a href="/TeamPages/PublicSector.aspx" title="Public Sector | ISNetworld"><span class="navText">Public Sector</span></a></td><td></td></tr>
-                                    
-                                    <tr class="tblInd"><td></td><td><a href="/TeamPages/Australia_NewZealand.aspx" title="Australia &amp; New Zealand"><span class="navText">Australia &amp; New Zealand</span></a></td><td></td></tr>    
-                                    <tr class="tblInd"><td style="width:5px;"></td><td><a href="/TeamPages/UK.aspx" title="United Kingdom"><span class="navText">United Kingdom</span></a></td><td></td></tr>
-                                    <tr class="tblInd"><td></td><td><a href="/TeamPages/MiddleEast.aspx" title="Middle East"><span class="navText">Middle East</span></a></td><td></td></tr>
-                                    <tr class="tblInd"><td></td><td><a href="/TeamPages/Netherlands.aspx" title="Netherlands"><span class="navText">Netherlands</span></a></td><td></td></tr>     
-                                    <tr class="tblInd"><td colspan="3"><hr style="width:95%"></td></tr> 
-                                    <tr class="tblInd"><td></td><td><a href="/TeamPages/SubContractorManagement.aspx" title="Contractor Operator, Subcontractor Management | ISNetworld"><span class="navText">Subcontractor Management</span></a></td><td></td></tr>   
-                                    <tr style="border-collapse: collapse; border: 0px; padding: 0px; color: transparent;"><td colspan="3" style="border-collapse:collapse;border:0px;padding:0px;color:transparent;"><img id="navIndustriesBottom" src="/Images/menu-bottom-industries.png" width="270" style="color:transparent;"></td></tr>    
-                                </tbody></table>
-                            </div>
-                        </li>
-                        <li id="navNews">
-                            <a id="navNewsA" href="/Homepage/NewsAndEvents.aspx" title="The latest news, press, and events | ISNetworld">
-                                <img id="navNewsImg" src="/Images/navNewsEvents.gif" alt="News Events" name="News_Events" width="213" height="27" border="0">
-                            </a>
-                            <div id="navNewsTxt" style="position: absolute; top: 125px; left: 362.875px; z-index: 99;"><a href="/Homepage/NewsAndEvents.aspx" style="color:White;font-weight:bold;word-spacing:3px; text-decoration:none;">
-                            <h2 style="color:White;font-weight:bold;word-spacing:3px; text-decoration:none; font-size: 12px; margin:0px;">N<span style="font-size:10px">EWS</span> A<span style="font-size:10px">ND</span> E<span style="font-size:10px">VENTS</span></h2></a></div>
-                            <div id="navNewsSub"> 
-                                <table style="width:100%">                             
-                                    <tbody><tr class="tblNews"><td style="width:5px;"></td><td><a href="/Homepage/newClients.aspx" title=""><span class="navText">New ISN Clients</span></a></td><td></td></tr>
-                                    <tr class="tblNews"><td></td><td><a href="/Events/asEvents.aspx" title="Meetings Map | ISNetworld"><span class="navText">ISN Meetings</span></a></td><td></td></tr>
-                                    <tr class="tblNews"><td></td><td><a href="http://www.isnetworld.com/blog" target="_blank"><span class="navText">ISN Blog</span></a></td><td></td></tr>
-                                    <tr class="tblNews"><td></td><td><a href="/Homepage/pressReleases.aspx" title="Press Releases | ISNetworld"><span class="navText">ISN Press Releases</span></a></td><td></td></tr>
-                                    <tr class="tblNews"><td></td><td><a href="/Homepage/newsletters.aspx" title="Industry Events | ISNetworld"><span class="navText">ISN Newsletters</span></a></td><td></td></tr>
-                                    
-                                    <tr class="tblNews"><td></td><td><a href="/Homepage/industryEvents.aspx" title="Industry Events | ISNetworld"><span class="navText">Upcoming Industry Events</span></a></td><td></td></tr>
-                                    <tr><td colspan="3" style="border-collapse:collapse;border:0px;padding:0px;color:transparent;"><img id="navNewsBottom" src="/Images/menu-bottom-about.png"></td></tr>
-                                </tbody></table>
-                            </div>
-                        </li>
-                        <li id="navAbout">
-                            <a id="navAboutA" href="/Homepage/aboutISN.aspx" title="About ISNetworld | ISNetworld">
-                                <img id="navAboutImg" src="/Images/navAboutISN.gif" alt="About ISN" name="AboutISN" width="213" height="27" border="0">
-                            </a>
-                            <div id="navAboutTxt" style="position: absolute; top: 125px; left: 448.906px; z-index: 99;"><a href="/Homepage/aboutISN.aspx" style="color:White;font-weight:bold;word-spacing:3px; text-decoration:none;">
-                            
-                            <h2 style="color:White;font-weight:bold;word-spacing:3px; text-decoration:none; font-size: 12px; margin:0px;">A<span style="font-size:10px">BOUT</span> ISN</h2>
-                            </a></div>
-                            <div id="navAboutSub"> 
-                                <table style="width:100%">
-                                    <tbody><tr class="tblAbout"><td style="width:5px;"></td><td><a href="/Homepage/ISNProductsServices.aspx" title="ISN Products/Services | ISNetworld"><span class="navText">ISN Products/Services</span></a></td><td></td></tr>    
-                                    <tr class="tblAbout"><td></td><td><a href="/Homepage/faq.aspx" title="ISNetworld FAQs | ISNetworld"><span class="navText">ISN FAQs</span></a></td><td></td></tr>    
-                                    <tr class="tblAbout"><td></td><td><a href="/Homepage/videosLanding.aspx" title="ISN Videos | ISNetworld"><span class="navText">ISN Videos</span></a></td><td></td></tr>    
-                                    <tr class="tblAbout"><td></td><td><a href="/Homepage/ravs.aspx" title="Review and Verification Services (RAVS) | ISNetworld"><span class="navText">RAVS</span></a></td><td></td></tr>    
-                                    <tr class="tblAbout"><td></td><td><a href="/Homepage/DP_OQ.aspx" title="Data Providers | ISNetworld"><span class="navText">Data Providers</span></a></td><td></td></tr>    
-                                    <tr class="tblAbout"><td></td><td><a href="/Homepage/subscriptionPricing.aspx" title="Subscription Pricing | ISNetworld"><span class="navText">Subscription Pricing</span></a></td><td></td></tr>    
-                                    <tr class="tblAbout"><td></td><td><a href="/Homepage/testimonials.aspx" title="Written Testimonials | ISNetworld"><span class="navText">Written Testimonials</span></a></td><td></td></tr>    
-                                    <tr class="tblAbout"><td></td><td><a href="/Homepage/quickStart.aspx" title="Subscription Quick Start Guide | ISNetworld"><span class="navText">Quick Start Guide</span></a></td><td></td></tr>    
-                                    <tr class="tblAbout"><td></td><td><a href="/Homepage/Management.aspx" title="ISN Management Team | ISNetworld"><span class="navText">Management Team</span></a></td><td></td></tr>    
-                                    <tr class="tblAbout"><td></td><td><a href="/HomePage/Careers.aspx" title="ISNetworld - Global Contractor and Supplier Management"><span class="navText">Careers at ISN</span></a></td><td></td></tr>    
-                                    <tr class="tblAbout"><td></td><td><a href="/HomePage/BrowserTest.aspx" title="Browser Test | ISNetworld"><span class="navText">Browser Test</span></a></td><td></td></tr>
-                                    <tr><td colspan="3" style="border-collapse:collapse;border:0px;padding:0px;color:transparent;"><img id="navAboutBottom" src="/Images/menu-bottom-news.png"></td></tr>    
-                                </tbody></table>
-                            </div>
-                        </li>
-                        <li id="navContact">
-                            <a href="/Homepage/contact.aspx" title="Contact Us | ISNetworld">
-                                <img id="navContactImg" src="/Images/navContactISN.gif" alt="Contact ISN" name="ContactISN" width="213" height="27" border="0">
-                            </a>
-                            <div id="navContactTxt" style="position: absolute; top: 125px; left: 519.609px; z-index: 99;"><a href="/Homepage/contact.aspx" style="color:White;font-weight:bold;word-spacing:3px; text-decoration:none;">
-                            <h2 style="color:White;font-weight:bold;word-spacing:3px; text-decoration:none; font-size: 12px; margin:0px;">C<span style="font-size:10px">ONTACT</span> U<span style="font-size:10px">S</span></h2>
-                            </a></div>
-                        </li>
-                    </ul>
-                </div><!-- Top Menu end -->
-                <div class="spacer"></div>
-                
+        function ExpandAboutUs(ShowAnimation) {
+            $("#SubMenuResources").hide();
+            $("#resourcesCaret").hide();
+            if (ShowAnimation) {
 
-<div id="breadcrumbs"><a href="/default.aspx">Home</a> &gt; <a href="/Homepage/aboutISN.aspx">About ISN</a> &gt; <span>What is ISN</span> </div>
-  <!-- breadcrumbs end -->
-  
-  
-  
-  
-  <div id="drilldown">
-  
-  
-  
-  
-<div id="menu-side">
-    <ul class="primary">  
-        <li><a href="/HomePage/ISNProductsServices.aspx"><h3 style="font-size: 14px; margin: 0px; padding: 0; font-weight: normal;">ISN Products/Services</h3></a></li>
-        <li><a href="/HomePage/faq.aspx"><h3 style="font-size: 14px; margin: 0px; padding: 0; font-weight: normal;">ISN FAQs</h3></a></li>
-        <li><a href="/HomePage/videosLanding.aspx"><h3 style="font-size: 14px; margin: 0px; padding: 0; font-weight: normal;">ISN Videos</h3></a></li>
-        <li><a href="/HomePage/ravs.aspx"><h3 style="font-size: 14px; margin: 0px; padding: 0; font-weight: normal;">RAVS</h3></a></li>
-        <li><a href="/HomePage/DP_OQ.aspx">Data Providers</a></li>
-        <li><a href="/HomePage/subscriptionPricing.aspx">Subscription Pricing</a></li>
-        <li><a href="/HomePage/testimonials.aspx">Written Testimonials</a></li>
-        <li><a href="/HomePage/quickStart.aspx">Quick Start Guide</a></li>
-        <li><a href="/HomePage/Management.aspx">Management Team</a></li>
-        <li><a href="/HomePage/Careers.aspx"><h3 style="font-size: 14px; margin: 0px; padding: 0; font-weight: normal;">Careers at ISN </h3></a></li>
-        <li><a href="/HomePage/BrowserTest.aspx">Browser Test</a></li>
-    </ul>
-</div>
-
-&nbsp;<div id="column-main">
-    <div id="page-header">
-<h1>	Privacy Policy </h1>
-	</div>
-	
-	
-	  <p><strong>The following discloses the information management practices for ISNetworld. </strong></p>
-	  <p><strong>Information Automatically Logged&nbsp;</strong><br>
-	    We use your IP address to help diagnose problems with our servers and to administer our website.<br>
-	    Your IP address is also used to help verify who you are.  <br>
-  &nbsp;<br>
-  <strong>Cookies &nbsp;</strong><br>
-	    Our site uses long-term and short-term cookies. Long-term cookies are used to store user preferences. For example, a long-term cookie might store the user's preference regarding how data is displayed. Short-term cookies contain more information and are deleted as soon as you log off. Sensitive information is stored long-term only on ISNetworld's secure servers.  <br>
-  &nbsp;<br>
-  <strong>Advertisers &nbsp;</strong><br>
-	    We may display ads on our site. These ads may contain cookies.  &nbsp;<br>
-  &nbsp;<br>
-  <strong>User   Information &nbsp;</strong><br>
-	    Our site gives users the ability to provide information, or have information provided on their behalf, including personal or confidential information, about the user, its employees and vendors (“User Information”).  Examples of User Information may include contact information (such as name, email, or postal address), unique identifiers (such as username, password, identification number or social security number), demographic information (such as zip code), compliance information (such as safety manuals or accident reports) and other personal or confidential information. Such User Information is collected within ISNetworld to verify the user's identity, allow for database linkage, provide reporting capability (including aggregated data or benchmarking reports that do not identify the User Information provided by or on behalf of a particular user), allow for record keeping and tracking of data (such as internal training and injury and illness records), for use as account information in our system, and for other similar purposes appropriate to the operation of ISNetworld, including its review and verification services. User Information is supplied at the user’s discretion and will be used only as specified above.  &nbsp;<br>
-  &nbsp;<br>
-  <strong>External Links &nbsp;</strong><br>
-	    The site contains links to other sites. ISN Software Corporation (“ISN”) is not responsible for the privacy practices or the contact of such web sites that are not created and maintained by ISN. <br>
-  &nbsp;<br>
-  <strong>Security &nbsp;</strong><br>
-	    This site has security measures in place to protect the loss, misuse, and alteration of User Information under our control. ISNetworld is password protected allowing only users who have been authorized by ISN or authorized by previously authorized users access to this site. Unless specified by the user otherwise, Owner Client User Information is isolated from other Owner Clients and Contractor User Information is isolated from other Contractors. In addition, Contractors that have supplied certain information have the ability to restrict the access of Owner Clients to such information. While no site can guaranty 100% online security, ISNetworld has industry standard or better measures in place to protect against the unintended disclosure or use of User Information.<br>
-  &nbsp;<br>
-  <strong>Data   Quality/Access&nbsp;</strong><br>
-      This site gives users the option to change and modify User Information previously provided by logging into the ISNetworld website and modifying the User Information online. </p>
-	  <p>Contact us if you have any questions about this privacy statement, the practices of this site, or your dealings with ISN by sending an email to <a href="mailto:customerservice@isn.com">customerservice@isn.com</a>. </p>
-	  <p>All terms of this Privacy Policy, as revised, shall automatically be effective 30 days after they are initially posted on our site. This Privacy Policy may not be otherwise amended except in a writing signed by you and ISN. This Privacy Policy is effective on February 17, 2010 for new registering users, and is otherwise effective on March 19, 2010 for all users registered prior to February 17, 2010.<br>
-	  </p>
-	  <!-- Copyright (c) 2006 Microsoft Corporation.  All rights reserved. -->
-      <!-- OwaPage = ASP.webreadyviewbody_aspx -->
-      <!--Copyright (c) 2006 Microsoft Corporation. All rights reserved.-->
-
-
-
-  </div><!-- column-main end -->
-  
-  
-  
-  
-<div class="spacer">&nbsp;</div>
-  </div>
-
-                <div id="divPopup" title="ISN Alert"></div>
-                <div id="divConfirm" title="Please Confirm"></div>
-                <div id="footer">
-                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                        <tbody><tr>
-                            <td width="39%">© 2013 ISN Software Corp.</td>
-                            <td width="46%"><a href="/Homepage/userAgreement.aspx">User Agreement</a> | <a href="/Homepage/privacyPolicy.aspx">Privacy Policy</a> | <a href="/Homepage/Trademark_LogoPolicy.aspx">Trademark/Logo Policy</a> | <a href="/Homepage/sitemap.aspx">Site Map</a></td>
-                            <td width="15%"><a href="https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=WWW.ISNETWORLD.COM&amp;lang=en" target="_blank"><img src="/Images/ftrVerisign.gif" width="57" height="34" border="0"></a> <a href="http://isnetworld.webex.com" target="_blank"><img src="/Images/ftrWebex.gif" width="44" height="34" border="0"></a> </td>
-                        </tr>
-                    </tbody></table>
-                </div><!-- footer end -->
-            </div><!-- wrapper end -->
-            <script src="/Scripts/gatag.js" type="text/javascript"></script>
-            <script type="text/javascript" language="javascript">
-                var full = window.location.host;
-                var parts = full.split('.');
-                var sub = parts[0];
-
-                if (sub == "www") {
-                    var _gaq = _gaq || [];
-                    _gaq.push(['_setAccount', 'UA-17191488-1']);
-                    _gaq.push(['_setDomainName', 'none']);
-                    _gaq.push(['_setAllowLinker', true]);
-                    _gaq.push(['_trackPageview']);
-
-                    (function () {
-                        var ga = document.createElement('script');
-                        ga.type = 'text/javascript';
-                        ga.async = true;
-                        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-                        var s = document.getElementsByTagName('script')[0];
-                        s.parentNode.insertBefore(ga, s);
-                        
-                    })();
+                if ($("#SubMenuAboutUs").is(":hidden")) {
+                    $("#aboutUsCaret").show();
+                    $("#SubMenuAboutUs").slideDown();
+                    $("#SubMenuAboutUs").show();
+                    //$("#stickyFake").animate({ height: "90px" });
                 }
-            </script>
-        </form>
+                else {
+                    $("#SubMenuAboutUs").slideUp(function () { $("#aboutUsCaret").hide(); });
+                    //$("#stickyFake").animate({ height: "70px" });
+                }
+
+            }
+            else {
+                //$("#stickyFake").css({ height: "90px" });
+                $("#SubMenuAboutUs").toggle();
+                $("#aboutUsCaret").toggle();
+            }
+        }
+
+    </script>
+
     
-<div id="sb-container"><div id="sb-overlay"></div><div id="sb-wrapper"><div id="sb-title"><div id="sb-title-inner"></div></div><div id="sb-wrapper-inner"><div id="sb-body"><div id="sb-body-inner"></div><div id="sb-loading"><div id="sb-loading-inner"><span>loading</span></div></div></div></div><div id="sb-info"><div id="sb-info-inner"><div id="sb-counter"></div><div id="sb-nav"><a id="sb-nav-close" title="Close" onclick="Shadowbox.close()"></a><a id="sb-nav-next" title="Next" onclick="Shadowbox.next()"></a><a id="sb-nav-play" title="Play" onclick="Shadowbox.play()"></a><a id="sb-nav-pause" title="Pause" onclick="Shadowbox.pause()"></a><a id="sb-nav-previous" title="Previous" onclick="Shadowbox.previous()"></a></div></div></div></div></div></body></html>
+    <meta name="description" content="The following discloses the information management practices for ISNetworld.">
+    <link href="Css/FooterPages.css" rel="stylesheet">
+<style type="text/css">.fancybox-margin{margin-right:0px;}</style></head>
+<body style="">
+    <form method="post" action="PrivacyPolicy.aspx" id="form1MP">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1Mg9kFgJmD2QWAgIDD2QWAgIDDw9kFgIeDGF1dG9jb21wbGV0ZQUDb2ZmZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUTY3RsMDAkY2hrUmVtZW1iZXJNZVK/06a/I4RP2C9VnZs636eGdlzq">
+
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBQK/gcGDDgKbqNSuDwKZzf2nDwK5t5O4AwKYhKu7BzxoOePVgBNBFiWZS59mmL0JRixv">
+
+        <a id="divAlertFB" class="divAlert fancybox.iframe decOff" href="/asAlertbox.aspx" style="display: none"></a>
+        <div class="TopHeaderWrap" style="display: block;">
+            <table id="tblTopHeader">
+                <tbody><tr>
+                    <td style="text-align: left;">
+                        <span id="contactUSSpan">
+                            <a href="/ContactUs.aspx">
+                                <span class="contactUSTopHeader">Contact Us
+                                </span>
+                                <img src="/Images/icon_mail_666666.png" style="float: left; height: 18px; padding-left: 10px; border: none; margin-top: 2px; cursor: pointer;" class="OrangeIcon">
+                                <img src="/Images/icon_phone_666666.png" style="float: left; height: 18px; padding-left: 10px; border: none; margin-top: 2px; cursor: pointer;" class="OrangeIcon">
+                            </a>
+                        </span>
+
+                    </td>
+                    <td style="text-align: right; width: 200px;">
+                        <h2>
+                            <a class="ihavealetter fancybox.iframe decOff" href="/BecomeAMember.aspx">
+                                <span class="TopHeaderButton">
+                                    <span style="float: left; margin-top: -2px;">Become a Member&nbsp;&nbsp;</span>
+                                    <img src="/Images/icon_arrow_right_small_light_ffffff.png" style="float: left; margin-top: 10px;">
+                                </span>
+                            </a>
+                        </h2>
+                    </td>
+                    <td style="text-align: right; width: 200px; vertical-align: top;">
+                        <div style="min-height: 16px"></div>
+                        <span style="color: #666666; text-align: right; width: 50px !important;">
+                            <span style="font-size: 10px; color: #666666;">
+                                <span style="color: #666666; height: 20px;"><input id="chkRememberMe" type="checkbox" name="ctl00$chkRememberMe"></span>
+                                <span style="position: relative; top: -3px;">Remember Me</span><br>
+                                <a id="HyperLink1" class="loginAssistColors" href="LoginAssistance.aspx">Login Help</a>
+                            </span>
+                        </span>
+
+
+
+                    </td>
+                    <td style="text-align: right; width: 370px;">
+
+                        <span id="btnLoginFake" class="loginBtn">
+
+                            <img src="/Images/icon_arrow_right_small_light_ffffff.png" style="top: 12px; position: relative">
+                        </span>
+                        <div style="float: right;">
+
+                            <input name="ctl00$txtUsernameLogin" type="text" id="txtUsernameLogin" tabindex="1" class="fieldBoxWidth">&nbsp;&nbsp;
+                            
+                            <input name="ctl00$txtPasswordLogin" type="password" id="txtPasswordLogin" tabindex="2" class="fieldBoxWidth" autocomplete="off">
+                            &nbsp;&nbsp;
+                        </div>
+                        <div id="divUsernameWM" class="fieldBoxWidth" style="position: absolute; opacity: 0.7; left: 832.016px;"><span style="position: relative; top: 6px; left: -66px; line-height: 25px">Username</span></div>
+                        <div id="divPasswordWM" class="fieldBoxWidth" style="position: absolute; opacity: 0.7; left: 992.016px;"><span style="position: relative; top: 6px; left: -70px; line-height: 25px">Password</span></div>
+                        <input type="submit" name="ctl00$btnLoginLogic" value="test" id="btnLoginLogic" style="display: none">
+                    </td>
+
+                </tr>
+
+            </tbody></table>
+        </div>
+
+
+        <!-- Sticky -->
+        <div class="StickyHeader" style="display: block;">
+            <div class="stickycontant" style="height: 120px;">
+                <table style="width: 100%; height: 100%; border-collapse: collapse; border-spacing: 0px;">
+                    <tbody><tr>
+                        <td style="text-align: left; vertical-align: top; width: 235px;">
+                            <img id="ISNLogo" src="/images/ISN_Logo_big.png" style="z-index: 9; float: left; position: absolute; margin-top: 25px; cursor: pointer; display: none;">
+                            <img id="ISNLogo2" src="/images/ISN_Logo_Fullsize.png" style="z-index: 10; float: left; position: absolute; margin-top: 25px; cursor: pointer;">
+                        </td>
+                        <td style="text-align: right; padding-top: 35px;" id="tdNav">
+                            <div style="padding: 0px; border-spacing: 0px">
+
+
+
+                                <a id="aWhatWeDo" class="aStickyNav" href="/WhatWeDo.aspx">WHAT WE DO</a>
+
+
+                                <a id="aBenefits" class="aStickyNav" href="/Benefits.aspx">BENEFITS</a>
+
+
+                                <a id="aEvents" class="aStickyNav" href="/Events.aspx" style="text-decoration: none;">EVENTS</a>
+
+
+                                <a id="aResources" class="aStickyNav" href="javascript:" onclick="ExpandResources(true)">RESOURCES</a>
+
+                                <a id="aAboutUs" class="aStickyNav" href="javascript:" onclick="ExpandAboutUs(true)" style="margin-right: 20px">ABOUT US</a>
+
+                            </div>
+
+                            <div style="padding: 0px; border-spacing: 0px; max-height: 3px; margin-top: 5px;">
+                                <span id="divHoverUnderline" style="border-top-style: solid; border-top-width: 1px; display: block; float: left; border-top-color: #ffffff;"></span>
+                                <div class="spacer"></div>
+                                <span id="divPermUnderline" style="border-top-style: solid; border-top-width: 1px; display: block; float: left; border-top-color: #ffffff;"></span>
+                            </div>
+                        </td>
+                    </tr>
+                </tbody></table>
+
+
+            </div>
+            <div class="SubMenu" id="SubMenuResources" style="display: none;">
+                <div style="width: 1000px; margin: auto; height: 28px;">
+                    <ul id="navlist" style="float: right;">
+                        <li><a id="aVideo" href="/VideoLibrary.aspx">Video Library</a></li>
+                        <li><a id="aPublication" href="/Publications.aspx">Publications</a></li>
+                        <li><a id="aNewRooms" href="/Newsroom.aspx">Newsroom</a></li>
+                    </ul>
+
+                </div>
+            </div>
+            <div class="SubMenu" id="SubMenuAboutUs" style="display: none;">
+                <div style="width: 1000px; margin: auto; height: 28px;">
+                    <ul id="Ul1" style="float: right;">
+                        <li><a id="aContact" href="/ContactUs.aspx">Contact Us</a></li>
+                        <li><a id="aDataProvider" href="/DataProviders.aspx">Data Providers</a></li>
+                        <li><a id="aCustomers" href="/Customers.aspx">Customers</a></li>
+                        <li><a id="aCompany" href="/Company.aspx">Company</a></li>
+                        <li><a id="aCareers" href="/Careers.aspx">Careers</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="caret" id="resourcesCaret" style="left: 967.438px;">
+            </div>
+            <div class="caret" id="aboutUsCaret" style="left: 1115.44px;">
+            </div>
+
+
+        </div>
+        <div id="stickyFake" style="display: none; position: fixed;"></div>
+        
+
+
+        
+    
+    <div class="headerFill" style="clear: left;">
+        <div class="TopHeader">
+            <h1 class="headerText">Privacy Policy</h1>
+        </div>
+    </div>
+    <div class="TopHeader" style="height: auto">
+        <div style="clear: left; width: 696px; padding-top: 30px; padding-bottom: 12px;">
+            <p style="font-size: 25px; color: #666666;font-weight:300">
+                The following discloses the information management practices for ISNetworld.
+            </p>
+        </div>
+        <div style="width: 696px;">
+            <div><h5 class="dcHeader">Information Automatically Logged</h5></div>
+            <div class="contents">
+                <p>
+                    We use your IP address to help diagnose problems with our servers and to administer our website. Your IP address is also used to help verify who you are.
+                </p>
+            </div>
+            <div><h6 class="dcHeader">Cookies</h6></div>
+            <div class="contents">
+                <p>Our site uses long-term and short-term cookies. Long-term cookies are used to store user preferences. For example, a long-term cookie might store the user's preference regarding how data is displayed. Short-term cookies contain more information and are deleted as soon as you log off. Sensitive information is stored long-term only on ISNetworld's secure servers.</p>
+            </div>
+            <div class="dcHeader">Advertisers</div>
+            <div class="contents">
+                <p>We may display ads on our site. These ads may contain cookies.</p>
+            </div>
+            <div><h3 class="dcHeader">User Information</h3></div>
+            <div class="contents">
+                <p>Our site gives users the ability to provide information, or have information provided on their behalf, including personal or confidential information, about the user, its employees and vendors (“User Information”). Examples of User Information may include contact information (such as name, email, or postal address), unique identifiers (such as username, password, identification number or social security number), demographic information (such as zip code), compliance information (such as safety manuals or accident reports) and other personal or confidential information. Such User Information is collected within ISNetworld to verify the user's identity, allow for database linkage, provide reporting capability (including aggregated data or benchmarking reports that do not identify the User Information provided by or on behalf of a particular user), allow for record keeping and tracking of data (such as internal training and injury and illness records), for use as account information in our system, and for other similar purposes appropriate to the operation of ISNetworld, including its review and verification services. User Information is supplied at the user’s discretion and will be used only as specified above.</p>
+            </div>
+            <div><h4 class="dcHeader">External Links</h4></div>
+            <div class="contents">
+                <p>The site contains links to other sites. ISN Software Corporation (“ISN”) is not responsible for the privacy practices or the contact of such web sites that are not created and maintained by ISN.</p>
+            </div>
+            <div><h2 class="dcHeader">Security</h2></div>
+            <div class="contents">
+                <p>This site has security measures in place to protect the loss, misuse, and alteration of User Information under our control. ISNetworld is password protected allowing only users who have been authorized by ISN or authorized by previously authorized users access to this site. Unless specified by the user otherwise, Owner Client User Information is isolated from other Owner Clients and Contractor User Information is isolated from other Contractors. In addition, Contractors that have supplied certain information have the ability to restrict the access of Owner Clients to such information. While no site can guaranty 100% online security, ISNetworld has industry standard or better measures in place to protect against the unintended disclosure or use of User Information.</p>
+            </div>
+            <div class="dcHeader">Data Quality/Access</div>
+            <div class="contents">
+                <p>
+                    This site gives users the option to change and modify User Information previously provided by logging into the ISNetworld website and modifying the User Information online. 
+                    <br>
+                    <br>
+                    Contact us if you have any questions about this privacy statement, the practices of this site, or your dealings with ISN by sending an email to <a href="mailto:customerservice@isn.com">customerservice@isn.com.</a> 
+                    <br>
+                    <br>
+                    All terms of this Privacy Policy, as revised, shall automatically be effective 30 days after they are initially posted on our site. This Privacy Policy may not be otherwise amended except in a writing signed by you and ISN. This Privacy Policy is effective on February 17, 2010 for new registering users, and is otherwise effective on March 19, 2010 for all users registered prior to February 17, 2010.
+                </p>
+            </div>
+        </div>
+    </div>
+
+        <div class="headerFill" style="clear: left;">
+            <div class="TopHeader" style="line-height: 90px;">
+                <div style="font-size: 12px; float: left">© 2014 ISN Software Corp.</div>
+                <div style="font-size: 12px; float: right; padding-right: 20px;"><a href="/ContactUs.aspx" class="footerLink">Contact Us</a> |<a href="/UserAgreement.aspx" class="footerLink">User Agreement</a> | <a href="/PrivacyPolicy.aspx" class="footerLink">Privacy Policy</a> | <a href="/SafeHarborPolicy.aspx" class="footerLink">Safe Harbor Policy</a> | <a href="/TrademarkLogoPolicy.aspx" class="footerLink">Trademark/Logo Policy</a> | <a href="/FAQ.aspx" class="footerLink">FAQ</a><a href="https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=WWW.ISNETWORLD.COM&amp;lang=en" target="_blank" class="footerLink" style="position: relative; top: 13px; left: 15px;"><img src="/Images/Verisign.png"></a><a target="_blank" href="http://isnetworld.webex.com/" class="footerLink" style="position: relative; top: 13px; left: 15px;"><img src="/Images/WebexNB.png"></a></div>
+            </div>
+        </div>
+
+        <div id="divDropdown"></div>
+        <input id="hdnDropDownID" type="hidden">
+
+
+    </form>
+
+
+</body></html>
