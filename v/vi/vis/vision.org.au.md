@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the vision.org.au privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525154340id_/http%3A//www.ucb.com.au/index.php%3Fview%3Darticle%26id%3D94%253Aprivacy-policy%26tmpl%3Dcomponent%26print%3D1%26layout%3Ddefault%26page%3D%26option%3Dcom_content%26Itemid%3D97) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vision.org.au privacy policy that was archived on 2014-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140526034232id_/http%3A//www.ucb.com.au/index.php%3Fview%3Darticle%26id%3D94%253Aprivacy-policy%26tmpl%3Dcomponent%26print%3D1%26layout%3Ddefault%26page%3D%26option%3Dcom_content%26Itemid%3D97) for the most accurate reproduction.*
 
 # UCB Australia - Privacy Policy
 
 ### INTRODUCTION
 
-This website is owned and operated by United Christian Broadcasters Australia Ltd (hereafter referred to as UCB Australia). This Privacy policy protects you as a user of websites administered by UCB Australia. If you have any questions that are not answered in this document please email or contact us as per details below.
+This website is owned and operated by United Christian Broadcasters Australia Ltd (hereafter referred to as UCB Australia). This Privacy policy protects you as a user of websites administered by UCB Australia. If you have any questions that are not answered in this document please email or contact us as per our details below.
 
 ### OUR COMMITMENT TO YOU
 
@@ -54,7 +54,7 @@ Opting out or modifying your information
 If you want to change any information that you have previously given us, or if you want to opt out of future communications:
 
    1\. you can e-mail a request to our Partnership Services department ( [admin@ucb.com.au](mailto:admin@ucb.com.au))  
-   2\. you can call our Partnership Services department on 1800 007 770  
+   2\. you can call our Partnership Services department on 1800 007 770 (+61 7 3387 7300)  
    3\. you can mail a request to the following postal address:
 
     Attention: Privacy Officer  
@@ -81,7 +81,7 @@ UCB Australia is committed to protecting your privacy. We use the information we
 If you have any questions or comments about this privacy statement, you can contact our Privacy Officer by:
 
    1\. sending an e-mail to our Partnership Services department ( [admin@ucb.com.au](mailto:admin@ucb.com.au)), attention Privacy Officer; or  
-   2\. calling our Partnership Services department on 1800 007 770; or  
+   2\. calling our Partnership Services department on 1800 007 770 (+61 7 3387 7300); or  
    3\. post a letter to the following address:
 
     Attention: Privacy Officer  
