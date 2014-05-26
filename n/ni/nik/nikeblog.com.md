@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nikeblog.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124235318id_/http%3A//www.nikeblog.com/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nikeblog.com privacy policy that was archived on 2014-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140526084540id_/http%3A//www.nikeblog.com/legal) for the most accurate reproduction.*
 
 # Legal - NikeBlog.com
 
