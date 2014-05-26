@@ -1,63 +1,66 @@
-> *The following text is extracted and transformed from the findquickdeals.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805113643id_/http%3A//findquickdeals.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findquickdeals.com privacy policy that was archived on 2014-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140526143856id_/http%3A//findquickdeals.com/privacy-policy) for the most accurate reproduction.*
 
-# Find Quick Deals | Privacy Policy
+# Privacy Policy | Find Quick Deals
 
-### What information do we collect?
+## Privacy Policy
 
-We collect information from you when you fill out a form on our site. This information may include your name, email address, phone number, home address, gender, and age. You may, however, visit our site anonymously.
+This Privacy Policy governs the manner in which Company collects, uses, maintains and discloses information collected from users of the website. This privacy policy applies to the Site and all products and services offered by Company.
 
-### What do we use your information for?
+## Personal identification information
 
-Any of the information we collect from you may be used in one of the following ways:
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-  * To improve our website  
-_(we continually strive to improve our website offerings based on the information and feedback we receive from you)_
-  * To improve customer service  
-_(your information helps us to more effectively respond to your customer service requests and support needs)_
-  * To introduce you to local vendors to service your needs  
-_(If you elect to provide us with personal information by completing a contact request form, you may receive follow-up communications from us and/or our partners)_
-  * To send periodic emails
+## Non-personal identification information
+
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+
+## Web browser cookies
+
+Our Site may use "cookies" to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+
+## How we use collected information
+
+Company collects and uses Users personal information for the following purposes:
+
+  * _To personalize user experience_  
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site. 
+  * _To improve our Site_  
+We continually strive to improve our website offerings based on the information and feedback we receive from you. 
+  * _To improve customer service_  
+Your information helps us to more effectively respond to your customer service requests and support needs. 
+  * _To send periodic emails_  
+The email address Users provide will only be used to respond to their inquiries, and/or other requests or questions. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
 
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+## How we protect your information
 
-### Do we use cookies?
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-We do not use cookies.
+## Sharing your personal information
 
-### Do we disclose any information to outside parties?
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+## Third party websites
 
-### Third party links
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+## Advertising
 
-### Children’s Online Privacy Protection Act Compliance
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
-We are in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+## Compliance with children’s online privacy protection act
 
-### Online Privacy Policy Only
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
 
-This online privacy policy applies only to information collected through our website and not to information collected offline.
+## Changes to this privacy policy
 
-### Your Consent
+Company has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site, revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
-By using our site, you consent to our privacy policy.
+## Your acceptance of these terms
 
-### Changes to our Privacy Policy
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
-If we decide to change our privacy policy, we will post those changes on this page.
+## Contacting us
 
-### Vacation Deals
-
-Build memories with your loved ones.
-
-### Entertainment Packages
-
-Grab a group of friends and have fun!
-
-### Electronic Specials
-
-Computers, Phones, Tablets, Toys & More!
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us using the contact page.
