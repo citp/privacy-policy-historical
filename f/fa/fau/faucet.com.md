@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faucet.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124070531id_/http%3A//www.faucet.com/index.cfm%3Fpage%3Dhelp%3Asecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faucet.com privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527000606id_/http%3A//www.faucet.com/index.cfm%3Fpage%3Dhelp%3Asecurity) for the most accurate reproduction.*
 
 # Security & Privacy
 
@@ -29,6 +29,12 @@ We receive and store certain types of information whenever you interact with us.
 ## Cookies
 
 Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and to provide features such as the storage of items in your Shopping Cart. The "help" portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, if you disable cookies, you will not be able to purchase from the web site. We recommend that you leave them turned on or please contact our Customer Service to have your order placed.
+
+## Do Not Track Information
+
+Build.com automatically collects key information from your browser session to provide a customized shopping experience. Without certain tracking code enabled, much of the functionality of the site, including but not limited to product recommendations, would cease to function. As such, we do not currently honor the do not track feature of your browser, as this would adversely affect the shopping experience.
+
+For more details on this feature including how to turn on Do Not Track, visit donottrack.us.
 
 ## Emails and Newsletters
 
