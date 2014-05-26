@@ -1,123 +1,88 @@
-> *The following text is extracted and transformed from the mycleanpc.com privacy policy that was archived on 2013-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130926172448id_/http%3A//www.mycleanpc.com/Privacy-Policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycleanpc.com privacy policy that was archived on 2014-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140526064015id_/http%3A//www.mycleanpc.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Personal Identifying Information (PII) - Privacy Policy | MyCleanPC.com
 
-USTechSupport Corporation ("USTechSupport") has adopted this Privacy Policy (the "Policy") to address customers' concerns about privacy and personal information. It applies both to personal identifying information and to other information. Personal identifying information ("PII") is information that is recorded in any form, is about you or pertains to you, and can be connected to you. It includes your name, telephone number, email address, billing address, driver's license number, credit card account information, and social security number. USTechSupport maintains the confidentiality of your PII and only USTechSupport and certain persons and entities working for and with USTechSupport to conduct business with you have access to it. Other information, which is described in more detail below, is information that cannot reasonably be used to identify you, and may be provided by USTechSupport to others for limited purposes.
+This Privacy Policy is effective as of January 28, 2014.
 
-You may find it helpful to compare our Policy with guidelines issued by organizations such as TRUSTe. TRUSTe is an independent, non-profit organization whose stated mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. USTechSupport is not a licensee of TRUSTe's privacy program, but we are committed to complying with TRUSTe's guidelines.
+You linked to this Privacy Policy ("Privacy Policy") via a product website owned by USTech Support Corporation ("USTechSupport” or the “Company"). The Company's network includes various product marketing and servicing Websites (the "Websites"). The Privacy Policy is in effect for all websites owned and operated by the Company. By using any of the Websites and purchasing our products, licenses and services, you signify that you have read, understand and agree to be bound by this Privacy Policy.
 
-  
-If you have questions or concerns regarding the Policy, please contact the USTechSupport.com Privacy Information Department by emailing[ privacy@ustechsupport.com](mailto:privacy@USTechSupport.com), by calling (888) 427-9359, or by sending a letter to the USTechSupport.com Privacy Information Department at 3340 Ocean Park Blvd. Suite 1060 , Santa Monica, CA 90405.
+This policy applies to all online communication with Websites owned by the Company. When you provide us with online information through any of the Websites, we respect your privacy. It is important for you to understand what information we collect about you during your visit and what we do with that information. Please note that your visit to any of our Websites is subject to this Privacy Policy and our Terms of Service.
 
-USTechSupport voluntarily complies with the requirements of the Safe Harbor framework in connection with the transfer to the United States of PII from countries which are members of the European Union ("EU"). As a result, PII provided by residents of countries which are members of the EU will be subject to the Safe Harbor Principles published by the United States Department of Commerce ("the Safe Harbor Principles"). The Principles can be found at <http://www.export.gov/safeharbor>.
+**Information Collection**   
+We only collect personally identifiable information about you via our Websites when you provide it in order to open an account with us and to purchase software licenses and technical support services from us. If, for example, you decide to place an order, we will ask you for your name, email address, the password to your computer in the event you purchase certain technical support services, billing address, phone number(s), email address, credit card or debit card number and its expiration date. The Company does not collect your driver’s license number and collects your social security number only if you elect to provide it in connection with a purchase of the USTechSupport Identity Protection Service. If you choose to complete a user registration form, survey or sweepstakes entry form, we may ask you for information such as your contact information (e.g., name, e-mail address and mailing address), age group or birth date. Occasionally, we may also ask you for other information such as gender, income level, and information about your prior experiences with the Company's products. When you submit your personally identifiable information on one of the Websites, you are giving your consent to the collection, use and disclosure of your personal information as set forth in this Privacy Policy.
 
-The Policy describes the following:
+We may also collect, store or accumulate certain non-personally identifiable information concerning your use of this Website, such as information regarding which of our pages are most popular, your IP address, browser, city, time zone, referring URL, and operating system. Information gathered may be used in aggregate form for internal business purposes, such as generating statistics, developing marketing plans, customizing content, and improving the Website. We may share or transfer such aggregate, non-personally identifiable information with or to our affiliates, licensees and partners.
 
-  * The PII you provide in connection with your purchase of USTechSupport licenses, products and services
-  * Other information we collect as the result of your use of the USTechSupport websites, including [www.ustechsupport.com](http://www.ustechsupport.com/), [www.cyberdefender.com](http://www.cyberdefender.com/), [www.spywarefordummies.com](http://www.spywarefordummies.com/), [www.maxmyspeed.com](http://www.maxmyspeed.com/), [www.doublemyspeed.com](http://www.doublemyspeed.com/), and [www.mycleanpc.com](http://www.mycleanpc.com/) (collectively, "the Websites")
-  * How we use the information we collect
-  * How and with whom we share the information
-  * How you can opt in or opt out of information collection
-  * Your ability to access, correct, update and delete your PII
-
-
-
-**The Information We Collect**
-
-**PII**  
-In order to open an account with us and to purchase software licenses and technical support services, USTechSupport will collect information including your name, email address, the password to your computer in the event you purchase certain technical support services, telephone number, billing address, and credit or debit card account or electronic funds transfer information. USTechSupport does not collect your driver's license number and collects your social security number only if you elect to provide it in connection with a purchase of the USTechSupport Identity Protection Service.
+All of our Websites are intended for adults. We do not knowingly collect personal information from children under the age of 13. However, if the parent or guardian of a child under 13 believes that the child has provided us with personally identifiable information, the parent or guardian of that child should contact us at [privacy@ustechsupport.com](mailto:privacy@ustechsupport.com) if they want this information deleted from our files so that it is not in retrievable form. If we otherwise obtain knowledge that we have personally identifiable information about a child under 13 in retrievable form in our files, we will delete that information from our existing files so that it is not retrievable.
 
 **Other Information**  
 We also collect other information from you when you communicate with us electronically. Like many websites, we use "cookies" to obtain certain information when your Web browser accesses our Websites. Our Websites also automatically receive and record on our server logs information from your browser. More information about our use of cookies and log files appears below.
 
 The information gathered by means of cookies and log files consists of your Internet address (Internet Protocol Address), a referring URL (the web site that you to visit our Websites), your browser type, and information about the length of time you devoted to visiting our Websites. It does not include PII.
 
-  
 We also may collect (with your authorization) the following information about your computer:
-
-  * Technical information about the basic configuration and operation of your computer, including operating system version, processor type, disk space, memory space, and number of drivers
-  * Information about USTechSupport Software on your computer, including the version and when it was installed and upgraded
-  * Certain events that occur on your computer, including when USTechSupport Software is installed, when USTechSupport software receives threat updates, and when errors occur in USTechSupport Software
-
-
 
 This information is sent only to USTechSupport with your approval, and it is stored in an anonymous form that cannot be used to identify you. By way of explanation, although USTechSupport knows, based on the information, that there is a customer with a certain kind of computer that is performing certain functions, USTechSupport does not know the customer's identity. In the event that it is necessary for USTechSupport to learn your identity in order to diagnose certain kinds of problems or to monitor your computer for certain events, you will be asked to authorize USTechSupport to collect the additional information. You can make your selection as to whether USTechSupport may collect this additional information before the software is installed or buy using a control panel included in the software. You can change your selection concerning this feature by using the control panel.
 
-  
-We do not sell or otherwise provide any of this information to third parties and use it only to improve our products and offer better service to our customers.
+For a complete list of the information we may collect, [click here](https://web.archive.org/client-info-list.html).
 
-For a complete list of the information we may collect, click [here](http://www.mycleanpc.com/client/client-info-list,default,pg.html).
+**Use/Disclosure of Personal Information**  
+The Company and its affiliates and subsidiaries may use the information that you provide to fulfill your request for a product, information, or other service, manage your account, renew your subscription(s), respond to an email or other request, as well as to create and deliver to you our newsletters or surveys, communications containing product information, services, usage tips or promotions, help improve our website(s) or services, or customize visitors' experience at our Website(s). The Company may also make your name, email address, mailing address and/or telephone number available to carefully selected business partners, vendors and other third party organizations to provide you with information about products, services and special offers we think may interest you or to improve our products, services and advertising. Many of our users find this a valuable and time-saving service.
 
-In order to personalize our communications with you and to improve our products and services, we also may ask you to provide consumer satisfaction information and other information regarding your personal and professional interests, your experience with our products and services, and additional contact information. You have the option of choosing not to provide the information.
+We want to communicate with you via email correspondence only if you want to hear from us. If for any reason you would no longer like to receive email messages from the Company, simply follow the “unsubscribe” instructions that accompany all communcations. Please allow up to 10 days for us to process your request.
 
-**Our Use of the Information We Collect**  
-USTechSupport uses the information we collect from you to conduct business with you and to understand your interests and requirements so that we can provide the products and services you want. Specifically, we use your PII in connection with fulfillment of orders, to complete payments made by you with your credit or debit card; to manage your account, to renew your subscription(s), to make offers and promotions, to provide information about our products and services that we believe will be important to you, and to help us address any concerns you may have about our products and services. We use your credit or debit card account or electronic funds transfer information only for payment processing and fraud protection, and not for any other purpose.
+Please note, if you opt not to receive marketing emails from the Company, you may still receive "Transactional" email messages regarding your order (i.e. order confirmation, shipping information, customer service notifications, etc.). In addition, some communications are required by law, such as communications regarding the automatic renewal of licenses and services you have purchased. Other communications are essential to the management of your account and the continuing functionality of our products and services, and therefore an opt-out option is not available and the communications cannot be blocked.
 
-We employ contractors in our business, including persons who work from time to time in our call centers. The contractors may collect PII from you in the same manner and to the same extent that USTechSupport collects PII from you. The contractors are required, pursuant to agreements they enter into with us, to maintain the security and confidentiality of your PII.
+We may contract with companies or individuals to provide certain services including email and hosting services, credit card processing, data management, surveys and marketing, promotional services, to assist in preventing or deterring fraud, etc. We call them our Service Providers. We may share personally identifiable information with Service Providers solely as appropriate for them to perform their functions, but they may not use such information for any other purpose.
 
-We have business relationships with certain entities that provide services in connection with our business, such as credit and debit card payment processing, and that require access to your PII. Your PII will be provided to them in accordance with the provisions of this Privacy Policy unless we, or they, inform you otherwise and obtain your consent. It is possible that they may provide to USTechSupport certain PII relating to you. In that event, we will handle the PII in accordance with the terms of this Privacy Policy.
+We do not share your credit card information with unaffiliated third parties unless you authorize us to do so, or if it is necessary to fulfill our responsibilities including, but not limited to, delivering a product or service that you order.
 
-We also provide certain information to advertisers and marketers. The information we provide is aggregated before we provide it to advertisers and marketers, and it does not include PII.
+Finally, the Company may in its sole discretion disclose personal information in special cases: (1) when we have reason to believe that disclosing this information is necessary to identify, contact, or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) the rights of the Company or to anyone that could be harmed by such activities; (2) when we believe in good faith that the law requires it; (3) to any third party who may acquire the Company; and (4) in situations involving threats to the physical safety of any person.
 
-If you provide us with your email address when you register as a customer or make a purchase from us, and you do not opt out, we occasionally may send you email with information, recommendations and promotional information about our products and services. At the time you register or make a purchase, you will be given the opportunity to opt into or opt out of this service. If you do not initially choose to opt out, you may still block certain emails from us simply by following the "unsubscribe" instructions that accompany all communications. In addition, we send service and notifications by email to keep you informed about the status of your service orders and account, and to provide updates and technical notices. Some of these communications are required by law, such as communications regarding the automatic renewal of licenses and services you have purchased. Other communications are essential to the management of your account and the continuing functionality of our products and services, and therefore an opt-out option is not available and the communications cannot be blocked.
+**Ensuring Your Security**  
+We use Secure Sockets Layer (SSL), an advanced security protocol that protects your credit card information and ensures secure online ordering. SSL Internet connections are encrypted, and thus protect all credit card ordering information, including your name, address and credit card number, so it cannot be read in transit. We use secure technology, privacy protection controls, and restrictions on employee access, to safeguard your personal information. Please note, however, that although we employ industry-standard security measures to safeguard the security of your personal information, no transmissions made on or through the Internet are guaranteed to be secure. 
 
-**Your Consent**  
-By purchasing our licenses and services, and by visiting our Websites, you consent to the collection, use and disclosure of your PII and other information by USTechSupport, its officers, directors, and employees, and USTechSupport's agents and contractors, as set forth in this Policy.
+**Safe Shopping Policy**  
+Our policy is that you pay nothing if unauthorized charges are made to your card as a result of shopping on one of our Websites. It is determined that under the Fair Credit Billing Act, your bank cannot hold you liable for more than $50.00 of fraudulent charges. If your bank does hold you liable for any of this $50.00, we will cover the entire liability for you, up to the full $50.00. We will only cover this liability if the unauthorized use of your credit card resulted through no fault of your own from purchases made while using the secure server. In the event of unauthorized use of your credit card, you must notify your credit card provider in accordance with its reporting rules and procedures.
 
-The following applies to residents of countries which are members of the European Union ("EU") and other countries. Your PII will be transferred outside the EU and outside the country of your residence, and will be examined, processed and stored in the United States. As a result, third parties, including governments, courts and law enforcement and regulatory agencies, may be able to gain access to your PII under applicable United States laws. By purchasing our licenses, products and services, and by visiting our Websites, you consent to the transfer of your PII outside the EU and your country of residence.
+**Technology Utilized**  
+Like many e-commerce websites, we employ several commonly used technologies on this Website: cookies, log files, clear gifs, networking traffic monitoring and active scripting. We use these to monitor the performance of the Website, measure its effectiveness, tailor our products, services and advertising to suit the personal interests of you and others, estimate our audience size, assist our online merchants to track visits to and sales at our Websites and to process your order, track your status in our promotions, contests and sweepstakes, and/or analyze your visiting patterns.
 
-**Links**  
-USTechSupport's Websites contain links to other websites that are not owned, operated or controlled by USTechSupport. The links are provided solely for your convenience, and USTechSupport does not endorse the websites or their content. As a result, USTechSupport is not responsible for the manner in which the websites are operated or for the information they provide. It is important to read carefully the privacy policies of the websites, because they may differ materially from ours.
+"Cookies" are small pieces of information stored by your browser on your computer's hard drive. Most web browsers automatically accept cookies, but you can usually change your browser to prevent this. If you disable cookies, you may be unable to order or use other features of our Website. If you experience any problems, please email us at [cs@guthy-renker.com](mailto:cs@guthy-renker.com "email cs@guthy-renker.com").
 
-Cookies are unique text files that websites can send to browser software. USTechSupport uses cookies to identify customers and personalize web pages when customers visit our Websites, to record customers' preferences, and to allow us to consider customers' interests and requirements in connection with developing and offering our products and services. USTechSupport also may use cookies to monitor your visits to our Websites in order to collect aggregate information which is not PII. In addition, cookies enable returning visitors to visit our Websites without providing their email addresses and passwords in connection with every visit.
-
-**_The information we collect with cookies is not sold, rented, or shared with any third parties, and is used solely for analytical purposes. Because of the manner in which we conduct our business, we cannot provide subscription services to potential customers who do not consent our use of cookies or whose browsers are set to reject cookies._**
+**_Because of the manner in which we conduct our business, we cannot provide subscription services to potential customers who do not consent to our use of cookies or whose browsers are set to reject cookies._**
 
 USTechSupport also maintains log files of visitors to our Websites. Log files allow us to manage traffic to our Websites in order that we may provide reliable service to customers and visitors.
 
-The information gathered by means of cookies and log files – your Internet address, the Internet address from which you visited our Websites, your browser type, and information about the length of time you devoted to visiting our Websites – is aggregate information and does not include PII.
+"Clear gifs" (also known as "web beacons" or “pixel tags”) are tiny graphics with a unique identifier, similar in function to cookies, and are used to help us better optimize our advertising.
 
-**Your Comments and Suggestions**  
-We solicit customers' comments and suggestions about our products and services and, on occasion, we use that information to develop customer's testimonials that we use in connection with our advertising and marketing. Testimonials are developed only after we have obtained permission of the person providing the information.
+"Network traffic monitoring" is programming that monitors and analyzes network traffic, and can be used to capture data being transmitted on a network, including plain-text data and computer IP addresses.
+
+"Active scripting" is programming code that is designed to collect information about your interactions with the Website, such as which links you click on. The code is temporarily downloaded onto your computer or mobile device from our server or a third party service provider, is active only while you are connected to the Website, and is deactivated or deleted thereafter.
+
+We may combine automatically collected Website usage information with your Personal Information. In those cases, we will apply this Privacy Policy to the combined information.
+
+**DO NOT TRACK SIGNALS** ****  
+Some web browsers offer a"Do Not Track" ("DNT") signal.  A DNT signal is a HTTP header field indicating your preference regarding tracking or cross-site user tracking. Although we are currently unable to honor DNT signals, we do not collect personal information when you visit our Websites unless you provide such information to us. We also work with third parties that use tracking technologies on our Websites in order to provide tailored advertisements on our behalf and/or on behalf of other advertisers across the Internet. These companies may collect information about your activity on our sites and your interaction with our advertising and other communications, and use this information to determine which ads you see on third party websites and applications.  For more information about this practice and to understand your options, you can visit [http://www.aboutads.info](http://www.aboutads.info/). ****
+
+****  
+**External Links**  
+Our Websites may offer links to and from other third party sites. Other sites have their own policies regarding privacy. If you visit one of these sites, you may want to review the privacy policy on that site. For example, you may have linked to the Guthy-Renker LLC brand site through a banner advertisement on another site. In such cases the site you have linked from may collect information from people who click on the banner or link. You may want to refer to the privacy policies on those sites to see how they collect and use this information.
+
+**International Users**  
+Like almost every website, our Websites may be accessed by an international audience. By visiting our Websites and providing us with data, you acknowledge and agree that your personal information may be processed for the purposes identified in this policy. In addition, such data may be stored on servers located outside your resident jurisdiction and in jurisdictions which may have less stringent privacy practices than your own. By providing us with your data, you consent to the transfer of such data.
+
+**Your California Privacy Rights**  
+California Civil Code Section 1798.83 permits customers of Company who are California residents to request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding twelve calendar months. If you are a California resident and would like to make such a request, please submit your request in writing to
+
+Guthy-Renker, LLC  
+General Counsel  
+3340 Ocean Park Boulevard  
+Santa Monica, California 90405  
+Attn: California Privacy Rights
 
 **Accessing, Correcting and Updating Your Information**  
-You can access, update or correct your information by contacting USTechSupport Privacy Information Department at [privacy@ustechsupport.com](mailto:privacy@ustechsupport.com)
-
-**Information Security**  
-All information gathered on our Websites is stored and maintained in secure facilities and access is limited to authorized personnel. Our Websites regularly are subjected to security tests, and we make our best efforts to attempt to ensure that all information collected is secure. PII is protected during communication by HTTPS and SSL security. Credit and debit card account information has multiple layers of security, including encryption in storage and SSL during communication. It is not possible to eliminate fully security risks associated with electronic communications. In the event that USTechSupport learns of a breach of security that involves your PII, USTechSupport will notify you as required pursuant to applicable law.
-
-**Retention of Information**  
-USTechSupport retains your PII for as long as you are a registered subscriber or user of our products and services, and for a reasonable time thereafter.
-
-**Confidentiality**  
-USTechSupport maintains the confidentiality of your PII and other information and will not disclose it to third parties except as set forth in this Policy. However, confidentiality does not apply to information: (1) that is publicly available; (2) as to which you consent to disclosure; (3) when disclosure is in connection with the sale of all or part of our business; or (4) when disclosure is necessary for USTechSupport or its officers, directors, employees, agents and contractors to enforce their legal rights pursuant to   
-applicable law.
-
-**_In addition, USTechSupport reserves the right, in its sole and absolute discretion, at any time, and without notice, to you to disclose to third parties, including law enforcement authorities, any of your information, including PII, that USTechSupport deems appropriate to: (a) comply with any applicable law or regulation, legal process, or governmental request; or (b) prevent possible harm or injury to any person or damage to any property._**
+You can access, update or correct your information by contacting USTechSupport Privacy Information Department at [privacy@ustechsupport.com](mailto:privacy@ustechsupport.com)
 
 **Notification of Changes**  
-If we make material (non-editorial) changes to the Policy, we will post information about the changes on our Websites.
-
-**The Better Business Bureau Code of Business Conduct**  
-As a Better Business Bureau ("BBB") Accredited Business, USTechSupport is committed to complying with the BBB's Code of Business Conduct, including the requirement to protect your privacy. Detailed information is available at <http://www.bbb.org/us/Business-Accredidation/>. Complaints may be addressed to the BBB at <http://www.bbb.org/us/Business-Complaints/>.
-
-**Privacy Complaints**  
-In the United States, privacy complaints should be addressed in the first instance to USTechSupport at [privacy@ustechsupport.com](mailto:privacy@ustechsupport.com). Complaints then should be addressed to the BBB at <http://www.bbb.org/us/Business-Complaints/>.
-
-Pursuant to the Safe Harbor Principles, USTechSupport will attempt to resolve privacy complaints made by residents of the EU. Complaints should be addressed in the first instance to USTechSupport at:
-
-**USTechSupport Corporation**  
-3340 Ocean Park Blvd. Suite 1060  
-Santa Monica, CA 90405  
-Attention: Privacy  
-Email: [privacy@ustechsupport.com](mailto:privacy@ustechsupport.com)
-
-Pursuant to the Safe Harbor Principles, USTechSupport will refer unresolved complaints to the BBB EU Safe Harbor, an independent dispute resolution entity. The BBB EU Safe Harbor may be contacted at:
-
-Council of Better Business Bureaus, Inc.  
-4200 Wilson Boulevard  
-Suite 800  
-Arlington, VA 22203  
-Phone: 703-276-0100  
-Web: [www.us.bbb.org](http://www.us.bbb.org/)  
-Email: [safeharbor@council.bbb.org](mailto:safeharbor@council.bbb.org)
+We may revise this Privacy Policy from time to time. If we decide to change our Privacy Policy, we will post the revised policy here. As we may make changes at any time without notifying you, we suggest that you periodically consult this Privacy Policy. Your continued use of the Website after the changes are posted constitutes your agreement to the changes, both with regard to information we have previously collected from you and with regard to information we collect from you in the future. If you do not agree to the changes, please discontinue your use of our Website.
