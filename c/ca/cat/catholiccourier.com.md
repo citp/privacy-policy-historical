@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the catholiccourier.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226235457id_/http%3A//www.catholiccourier.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catholiccourier.com privacy policy that was archived on 2014-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140526214859id_/http%3A//www.catholiccourier.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Catholic Courier
-
-## Privacy Policy
 
   
 The _Catholic Courier_ is committed to safeguarding your personally identifiable information.
@@ -36,8 +34,3 @@ We may change this Privacy Policy at any time by posting the change on our Web s
 Your use of CatholicCourier.com constitutes acceptance of the terms of this Privacy Policy in the form published on the Web site at the time of use and further constitutes your consent to the collection and use of this information by the _Catholic Courier_ in accordance with this policy.
 
 _This Privacy Policy was last modified on January 4, 2010._
-
-  * [Back]()
-  * [Home](https://web.archive.org/)
-
-
