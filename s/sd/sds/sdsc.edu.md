@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sdsc.edu privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121060348id_/http%3A//www.sdsc.edu/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sdsc.edu privacy policy that was archived on 2014-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140526034426id_/http%3A//www.sdsc.edu/Privacy.html) for the most accurate reproduction.*
 
 # San Diego Supercomputer Center: Privacy
 
