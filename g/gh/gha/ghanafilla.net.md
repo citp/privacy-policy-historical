@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ghanafilla.net privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124085657id_/http%3A//www.ghanafilla.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ghanafilla.net privacy policy that was archived on 2014-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140526125727id_/http%3A//www.ghanafilla.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Ghana Filla.Net
+# Privacy Policy | GhanaFilla.Net
 
-## (updated on 13 November 2013)
+## (updated on 18 May 2014)
 
   1. All User information supplied by Users of GhanaFilla.net as defined under the Terms & Conditions is covered by the Data Protection Act 1998.
   2. Users can amend information provided at any time by contacting info@ghanafilla.net
@@ -14,7 +14,7 @@
   8. GhanaFilla.net cannot guarantee that third party services accessible through GhanaFilla.net services operate the same Privacy Policy.
   9. GhanaFilla.net reserves the right to update and change this Privacy Policy at any time. However, GhanaFilla.net will not use information submitted by a User under this current notice in a way not currently described herein without also notifying the User of such change, and giving the User an opportunity to opt-out, or otherwise prevent that new use of your information.
   10. If you have any questions concerning this Privacy Policy or would like us to amend or destroy your details please contact us at info@ghanafilla.net.
-  11.  **Cookies**
+  11. **Cookies**
 
 
 
