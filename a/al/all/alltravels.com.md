@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alltravels.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124232936id_/http%3A//www.alltravels.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alltravels.com privacy policy that was archived on 2014-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140526082546id_/http%3A//www.alltravels.com/privacy) for the most accurate reproduction.*
 
 # Our Privacy Policy :: AllTravels :: Anywhere You Want To Go & Anything You Want To Do ::.
 
@@ -57,10 +57,14 @@ Nonetheless, we seek to protect your user experience and the integrity of our si
 
 * * *
 
-[](https://www.google.com/adplanner/planning/site_profile?nh=true#siteDetails?uid=alltravels.com&geo=001&lp=false "Check out this site on DoubleClick Ad Planner by Google") **You can target this site on the Google Advertising Network,[click here to see our current traffic and demographics](https://www.google.com/adplanner/planning/site_profile?nh=true#siteDetails?uid=alltravels.com&geo=001&lp=false "Click here to see our current traffic and demographics at DoubleClick Ad Planner by Google - this link opens in a new browser window or tab").**
+### Advertising Information
+
+**If you have an Adwords account you can target this site on the Google Advertising Network, or talk to us about placing ads on this site.[Click here for more about advertising on this site](http://www.alltravels.com/advertising/ "Click here for more information about advertising on this site")**.
 
 * * *
 
-**Travel Industry Business Owners & Managers We invite and encourage you to add your travel business to this web site for free.** [Click here for more information](http://www.alltravels.com/listings/ "Click here to add your travel business to this site, absolutely free!")
+## Travel Industry Business Owners & Managers
+
+**We invite and encourage you to add your travel business to this web site for free,** [click here for more information](http://www.alltravels.com/listings/ "Click here to add your travel business to this site, absolutely free!")
 
 * * *
