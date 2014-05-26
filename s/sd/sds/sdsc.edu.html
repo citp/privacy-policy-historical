@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sdsc.edu privacy policy that was archived on 2013-11-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131121060348id_/http%3A//www.sdsc.edu/Privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sdsc.edu privacy policy that was archived on 2014-05-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140526034426id_/http%3A//www.sdsc.edu/Privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <link href="assets/css/common.css" media="screen" rel="stylesheet" type="text/css">
@@ -17,24 +17,68 @@ var pageTracker = _gat._getTracker("UA-941716-1");
 pageTracker._trackPageview();
 } catch(err) {}
 </script>
+<style type="text/css">
+.gsc-branding {
+  visibility: hidden;
+  display: none;
+}
+.new-search {
+  margin-top: -6px;
+  margin-left: 22%;
+  width: 80%;
+}
+</style>
+<script>
+
+$( document ).ready(function() {
+  var props = {};
+  props.background = "url(../assets/images/btn_go.gif)";
+  props.value = "";
+  /* $( ".gsc-search-button" ).css(props);
+/* $( ".gsc-search-button" ).css( "background", "url(../assets/images/btn_go.gif)" ); */
+});
+
+</script>
 </head>
 <body>
 <div id="s_wrap">
 <div id="container"><a class="anchorglyph" id="top" name="top"></a> 
 <p id="skip"><a href="#content">Skip to content</a></p>
-<div id="header"><a href="index.html"><img alt="SDSC - San Diego Super Computer Center" height="75" src="assets/images/main_logo.gif" width="171"></a> 
+<div id="header"><div><a href="index.html"><img alt="SDSC - San Diego Super Computer Center" height="75" src="assets/images/main_logo.gif" width="171"></a> 
 <div id="search_box">
 <p><a class="contact" href="contact/contact.html">Contact Us</a> <a class="sitemap" href="sitemap/Sitemap.html">Site Map</a> <a class="maindirectory" href="http://www.sdsc.edu/about/staff_dir.cgi">Staff Directory</a></p>
-<form action="http://www.google.com/u/supercomp" class="formborder" method="get">
-<table border="0" cellpadding="0" cellspacing="0" class="tableborderzero">
-<tbody>
-<tr>
-<td class="tableborderzero"><input class="search_text" maxlength="2033" name="q" onclick="clickclear(this, 'Search SDSC')" type="text" value="Search SDSC"></td>
-<td class="tableborderzero"><input alt="Go" height="18" src="assets/images/btn_go.gif" type="image" width="29"></td>
-</tr>
-</tbody>
-</table>
-</form>
+<div class="new-search">
+<div class="gcse-searchbox-only">
+<div id="cse">Loading</div>
+<script src="//www.google.com/jsapi" type="text/javascript">
+// <![CDATA[
+
+// ]]>
+</script>
+ <script type="text/javascript">
+// <![CDATA[
+google.load('search', '1', {language: 'en', style: google.loader.themes.DEFAULT});
+google.setOnLoadCallback(function() {
+  var customSearchOptions = {};
+  var orderByOptions = {};
+  orderByOptions['keys'] = [{label: 'Relevance', key: ''} , {label: 'Date', key: 'date'}];
+  customSearchOptions['enableOrderBy'] = true;
+  customSearchOptions['orderByOptions'] = orderByOptions;
+  var imageSearchOptions = {};
+  imageSearchOptions['layout'] = 'google.search.ImageSearch.LAYOUT_POPUP';
+  customSearchOptions['enableImageSearch'] = true;
+  customSearchOptions['overlayResults'] = true;
+  var customSearchControl =   new google.search.CustomSearchControl('004525422354172179820:4mhelr6k6cm', customSearchOptions);
+  customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
+  var options = new google.search.DrawOptions();
+  options.setAutoComplete(true);
+  customSearchControl.draw('cse', options);
+}, true);
+// ]]>
+</script>
+ <link href="www.google.com/cse/style/look/default.css" rel="stylesheet" type="text/css"> <!-- gcse-searchbox-only --></div>
+<!-- new-search --></div>
+<!-- search_box --></div>
 </div>
 <!-- START OF MENU BAR ========================================== -->
 <ul id="nav">
@@ -100,8 +144,7 @@ pageTracker._trackPageview();
 <li><a href="about/Visitorinfo.html">Visitor Info</a></li>
 </ul>
 </li>
-<!--// END OF MENU BAR ================================================ -->
-</ul></div>
+<!--// END OF MENU BAR ================================================ --></ul></div>
 <!-- START OF MENU BAR ========================================== -->
 <!--// END OF MENU BAR ================================================ -->
 <!--// ENDS HEADER -->
