@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the factsmgt.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122040610id_/http%3A//www.factsmgt.com/page.cfm%3Fp%3D398) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the factsmgt.com privacy policy that was archived on 2014-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140526233251id_/http%3A//www.factsmgt.com/page.cfm%3Fp%3D398) for the most accurate reproduction.*
 
 # FACTS: Security & Privacy
 
