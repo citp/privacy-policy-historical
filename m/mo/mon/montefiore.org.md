@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the montefiore.org privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103114245id_/http%3A//www.montefiore.org/body.cfm%3Fid%3D1557) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the montefiore.org privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527004941id_/http%3A//www.montefiore.org/body.cfm%3Fid%3D1557) for the most accurate reproduction.*
 
 # Montefiore Medical Center - Terms of Service and User Privacy Policy
 
@@ -8,9 +8,11 @@ THIS NOTICE DESCRIBES HOW MEDICAL INFORMATION ABOUT YOU MAY BE USED AND DISCLOSE
 
 Your privacy is very important to us, and we are committed to protecting health information that identifies you ("Health Information"). This Notice will tell you about the ways we may use and disclose Health Information. We also describe your rights and certain obligations we have regarding the use and disclosure of Health Information.  We are required by law to maintain the privacy of Health Information that identifies you, give you this Notice of our legal duties and privacy practices with respect to your Health Information, and follow the terms of our Notice that are currently in effect.
 
-This Notice applies to care and treatment you receive at Montefiore Medical Center and by Montefiore's Medical Staff at Montefiore Medical Center (collectively referred to as "We" or "Montefiore" in this Notice).  This Notice will be followed by any healthcare professional who treats you at any Montefiore location.  "Health Information" includes any individually identifiable information that we obtain from you or others that relates to your past, present or future physical or mental health, the health care you have received, or payment for your health care.
+This Notice applies to care and treatment you receive at the institutions that are part of Montefiore Health System, including Montefiore Medical Center, Montefiore Mount Vernon Hospital, Montefiore New Rochelle Hospital, and Schaffer Extended Care Center, and by the Medical Staff at these institutions (collectively referred to as "We" or "Montefiore" in this Notice).  This Notice will be followed by any healthcare professional who treats you at any Montefiore hospital, clinic or office location. "Health Information" includes any individually identifiable information that we obtain from you or others that relates to your past, present or future physical or mental health, the health care you have received, or payment for your health care.
 
-## How we may use and disclose health information about you
+The institutions that are part of Montefiore Health System participate in joint activities, such as payment activities and quality improvement activities, and may share your Health Information among themselves for purposes of treatment, payment and operations. All of the Montefiore Health System institutions will abide by the privacy requirements of this Notice.
+
+## How we may use and disclose health information  about you
 
 ### For Treatment
 
@@ -102,7 +104,7 @@ While we take reasonable steps to safeguard the privacy of your Health Informati
 
 ## Other Uses of Health Information
 
-Other uses and disclosures of Health Information not covered by this Notice or the laws that apply to us will be made only with your written permission.  This includes most uses and disclosures of psychotherapy notes, unless the disclosure is required by law and for other limited purposes. It also includes disclosure of your Health Information that would constitute a "sale" of the information, and includes use and disclosure of your Health Information for marketing purposes when Montefiore is being paid by a third party to make the marketing communication, except for refill reminders where the payment received by Montefiore is reasonably related to Montefiore's cost of making the reminder communications, face-to-face communications, and gifts of nominal value. You may revoke your permission at any time by submitting a written request to our Privacy Officer, except to the extent that we acted in reliance on your permission.
+Other uses and disclosures of Health Information not covered by this Notice or the laws that apply to us will be made only with your written permission.  This includes most uses and disclosures of psychotherapy notes, unless the disclosure is required by law and for other limited purposes. It also includes disclosure of your Health Information that would constitute a "sale" of the information, and includes use and disclosure of your Health Information for marketing purposes when Montefiore is being paid by a third party to make the marketing communication, except for refill reminders where the payment received by Montefiore is reasonably related to Montefiore's cost of making the reminder communications, face-to-face communications, and gifts of nominal value.  You may revoke your permission at any time by submitting a written request to our Privacy Officer, except to the extent that we acted in reliance on your permission.
 
 ## Your Rights Regarding Health Information About You
 
@@ -116,7 +118,7 @@ You have the right to inspect and copy Health Information that may be used to ma
 
 If you believe that Health Information we have is incorrect or that important information is missing, you may ask us to correct the records. This request, along with your reason, must be submitted in writing, to the Privacy Officer at the address provided at the end of this notice. You have the right to request an amendment for as long as the information is kept by or for Montefiore. We may deny your request if we determine that the record is accurate.
 
-### Right to an Accounting of Disclosures
+### Right to an Accounting  of Disclosures
 
 You have the right to request a list of other persons or organizations to whom we have disclosed your Health Information. The list does not include information about certain disclosures, including disclosures made to you or authorized by you, or disclosures for treatment, payment or operations. The first list you request within a 12 month period will be free. For additional lists, we may charge you for the costs of providing the list.
 
@@ -128,7 +130,7 @@ You have the right to request a restriction or limitation on the Health Informat
 
 If you have paid out-of-pocket in full for any services provided at Montefiore, and you ask us not to disclose that Health Information to your health plan, we will honor the request, except where we are required by law to make a disclosure.
 
-### Right to Request Confidential Communications
+### Right to Request Confidential  Communications
 
 You have the right to request that we communicate with you about medical matters in a more confidential way or at a certain location. For example, you can ask that we only contact you by mail or at work. Your request must specify how or where you wish to be contacted. We will accommodate reasonable requests.
 
@@ -140,31 +142,14 @@ If there is improper access, use or disclosure of your Health Information that m
 
 You have the right to a paper copy of this Notice, even if you have agreed to receive this Notice electronically. You may request a copy of this Notice at any time. You may obtain a[ copy of this Notice at our web site, www.montefiore.org.](http://www.montefiore.org/)
 
-### How to Exercise Your Rights
+## How to Exercise Your Rights
 
 To exercise your rights described in this Notice, send your request, in writing, to our Privacy Officer at the address listed at the end of this Notice. Alternatively, to exercise your right to inspect and copy Health Information, you may contact your physician's office directly. To obtain a paper copy of our Notice, contact our Privacy Officer by phone or mail.
 
-### Changes To This Notice
+## Changes To This Notice
 
 We reserve the right to change this Notice. We reserve the right to make the revised or changed Notice effective for Health Information we already have as well as any Health Information we receive in the future. We will post a copy of the current Notice at each Montefiore inpatient unit, physician office or outpatient location and on our website. The end of our Notice will contain the Notice's effective date.
 
-### Complaints
+## Complaints
 
 If you believe your privacy rights have been violated, you may file a complaint with Montefiore or with the Secretary of the Department of Health and Human Services. To file a complaint with Montefiore, contact our Privacy Officer at the address listed at the end of this notice.  You will not be penalized for filing a complaint.
-
-### Questions
-
-If you have a question about this Privacy Notice, please contact:
-
-**Privacy Officer**
-
-Department of Compliance Montefiore Medical Center   
-111 East 210th Street   
-Bronx, NY 10467
-
-**Phone:** 718-920-8239   
-**E-mail:**[privacyofficer@montefiore.org](mailto:privacyofficer@montefiore.org)   
-**Website:**[www.montefiore.org](http://www.montefiore.org/)
-
-**Effective date:** April 14, 2003   
-**Revised date:** Sept. 23, 2013
