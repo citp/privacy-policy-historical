@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the badtushy.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212114805id_/http%3A//badtushy.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the badtushy.com privacy policy that was archived on 2014-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140526210259id_/http%3A//badtushy.com/privacy.html) for the most accurate reproduction.*
 
 # BadTushy.com Unique Tushy Action, Ass Play, Hot Asses, Nice Butts, Ass Thermometers, Rectal Thermometers, Spanking
 
