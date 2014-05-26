@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tourneytime.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206202941id_/http%3A//www.tourneytime.com/privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tourneytime.com privacy policy that was archived on 2014-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140526133654id_/http%3A//www.tourneytime.com/privacy/privacy.html) for the most accurate reproduction.*
 
 # TourneyTime.com, LLC Privacy Statement
 
@@ -26,17 +26,17 @@ This site has security measures in place to protect the loss, mis-use, and alter
 **Opt-In/Opt-Out**  
 Our site provides users the opportunity to opt-in and opt-out of receiving communications from us and/or our partners at the point where we request information about the visitor. This site gives users the following options for removing their information from our database to prevent future communications or to no longer receive our service. The users may select what information they would like to receive and what information they no longer wish to receive.  
 \- Opt-in/Opt-Out of email communications  
-   1\. Opt-out: Users can visit the following URL: [http://www.tourneytime.com/privacy/optout.cfm](https://web.archive.org/web/20131206202941id_/http%3A//www.tourneytime.com/privacy/OptOut.cfm)  
+   1\. Opt-out: Users can visit the following URL: [http://www.tourneytime.com/privacy/optout.cfm](https://web.archive.org/web/20140526133654id_/http%3A//www.tourneytime.com/privacy/OptOut.cfm)  
    2\. Opt-in/Opt-out: Login to member account and update the member profile and related email communication options  
 \- Cancel Account  
-   1\. Send email to [support@tourneytime.com](mailto:support@tourneytime.com) or contact [TourneyTime Support](https://web.archive.org/web/20131206202941id_/http%3A//www.tourneytime.com/contact/contactHlp.cfm) to request your account and all related information be permenately removed from the database. For security, users will be asked several confirmation questions before deletion occurrs. 
+   1\. Send email to [support@tourneytime.com](mailto:support@tourneytime.com) or contact [TourneyTime Support](https://web.archive.org/web/20140526133654id_/http%3A//www.tourneytime.com/contact/contactHlp.cfm) to request your account and all related information be permenately removed from the database. For security, users will be asked several confirmation questions before deletion occurrs. 
 
 **General**  
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and we will use for these new purposes only data collected from the time of the policy change forward. If you are concerned about how your information is used, you should check back at our Web site and specifically this privacy policy periodically. 
 
 **Contacting TourneyTime.com, LLC**  
 If you have any questions about this privacy statement, the practices or dealings with this web site, please contact:  
-[mike@tourneytime.com](mailto:mike@tourneytime.com) or [TourneyTime Support](https://web.archive.org/web/20131206202941id_/http%3A//www.tourneytime.com/contact/contactHlp.cfm). 
+[mike@tourneytime.com](mailto:mike@tourneytime.com) or [TourneyTime Support](https://web.archive.org/web/20140526133654id_/http%3A//www.tourneytime.com/contact/contactHlp.cfm). 
 
   
 TourneyTime.com, LLC  
