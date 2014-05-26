@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the gloveo.com privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123054456id_/http%3A//gloveo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gloveo.com privacy policy that was archived on 2014-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140526082826id_/http%3A//gloveo.com/privacy) for the most accurate reproduction.*
 
-# Gloveo » Live, Laugh & Share » Privacy Policy
+# Privacy Policy | Gloveo
+
+[](http://gloveo.com/wp-content/uploads/2012/07/Privacy1.jpeg)
 
 Gloveo does not share personal information with third parties nor do we store any information about your visit to this site other than to analyze and optimize your content and reading experience through the use of cookies. By visiting gloveo.com, you agreed to this Privacy Policy and to the [Terms of Service](http://gloveo.com/terms).
 
