@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the familysearch.org privacy policy that was archived on 2013-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130923062829id_/https%3A//familysearch.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familysearch.org privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527005013id_/https%3A//familysearch.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — FamilySearch.org
 
@@ -54,7 +54,7 @@ If you are a Church member, some of your personal information may be updated onl
 
 * Protection of Information. We use technical and organizational measures to protect the personal information we receive against loss, misuse, and unauthorized alteration and to protect its confidentiality. We regularly review our security procedures and consider appropriate new security technology and methods. We also use current encryption technology to encrypt the transmission of data on our log-in pages. However, because we cannot guarantee the complete security of these encryption technologies, please use caution when submitting personal information online.
 
-* Third-Party Data. Where local law permits, you may submit personal information, including contact information about someone other than yourself (in other words, a third party) to allow us to make contact with that person, make a delivery, or otherwise meet your request. The information collected will be used solely to facilitate your request. When providing personal information about anyone other than yourself, you must first obtain the other person’s informed consent if his or her consent is legally required.
+* Third-Party Data. Where local law permits, you may submit personal information, including contact information about someone other than yourself (in other words, a third party) to allow us to make contact with that person, make a delivery, or otherwise meet your request. The information collected will be used solely to facilitate your request. When providing personal information about anyone other than yourself, you must first obtain the other person’s informed consent if his or her consent is legally required. If you or someone else has provided us with your personal contact information and you would like to request that we do not contact you further, please follow the unsubscribe or opt-out procedures provided on the specific site, newsletter, e-mail notification, or the like.
 
 * Passive Data Collection: Tracking Technologies, Cookies, and Clear GIFs. When you visit any of our sites, our servers or filtering systems may collect information that your web browser sends any time you visit a website. This information may include but is not limited to your browser type, your operating system, your language preference, any referring web page you were visiting before you came to our site, the date and time of each visitor request, and information you search for on our sites.
 
@@ -62,7 +62,7 @@ We also use cookies and clear GIFs to collect information. A cookie is a small b
 
 We collect this information to better understand how you use and interact with our sites in order to improve your experience. We may also share this information with our employees, contractors, service providers, and affiliated entities as defined in section 7.
 
-You can change your web browser settings to stop accepting cookies or to prompt you before accepting a cookie from the sites you visit. If you do not accept cookies, however, you may not be able to use some sections or functions of our sites.
+You can change your web browser settings to stop accepting cookies or to prompt you before accepting a cookie from the sites you visit. If you do not accept cookies, however, you may not be able to use some sections or functions of our sites. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit http://www.allaboutcookies.org. To opt out of being tracked by Google Analytics across all websites visit https://tools.google.com/dlpage/gaoptout.
 
 * Policy Compliance and Questions Regarding the Privacy of Personal Information. We have a data privacy officer who helps ensure compliance with this Privacy Policy and answers questions about data privacy or security issues. This officer also helps educate Church employees concerning compliance. Inquiries concerning this Privacy Policy or the security of personal information that we process may be sent through e-mail, fax, or mail to the following:
 
@@ -77,4 +77,4 @@ Salt Lake City, UT 84150-0018
 
 * Future Changes to Privacy Policy. We regularly review this Privacy Policy and may change, modify, add, or remove portions as needed. If we change this Privacy Policy in ways that affect how we use your personal information, we will notify you here or in a notice on our home page. We will also update the revision date at the bottom of the Privacy Policy. We encourage you to check this Privacy Policy from time to time to remain informed of any changes.
 
-Effective Date. This version of the Privacy Policy became effective on February 01, 2012.
+Effective Date. This version of the Privacy Policy became effective on March 18, 2014.
