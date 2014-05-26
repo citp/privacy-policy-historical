@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the htcampus.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125095432id_/http%3A//www.htcampus.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the htcampus.com privacy policy that was archived on 2014-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140526212717id_/http%3A//www.htcampus.com/policy) for the most accurate reproduction.*
 
-# None
+# Privacy Policy HTCampus
 
 The Privacy Policy provided below is with respect to our use and protection of any personal information you provide to us through the www.htcampus.com website. Firefly e-Ventures Limited (hereinafter referred to as FEVL) is the sole owner of the website www.htcampus.com . The Policy is applicable to the website. It may also be applicable generally to our other related websites provided it appears at the footer of the page therein. You may be required to provide personally identifiable information at several different points on our website. By accepting the policy at the time of registration, you expressly approve and consent to our collection, storage, use and disclosure of your personal information as described in this Policy.
 
- **Information Collection**  
+**Information Collection**  
 You can visit/surf our website without providing any personal information. However, if you choose to avail of certain services on our website, you shall be required to provide certain information for the registration and/or access to such services/web pages. Such information may include, without limitation, your name, email address, contact address, mobile/telephone number(s), sex, age, occupation, interests, financial information, content, IP address, standard web log information and such other information as may be required for your interaction with the services. 
 
 **Use**  
@@ -37,7 +37,7 @@ If you choose to use our referral service to tell a friend about our website, we
 We use cookies on the website but do not link the information we store in cookies to any personally identifiable information you submit while on our website. We do not set cookies to store your passwords. If you reject cookies, you will still use our website.   
 We have no access to or control over third party cookies and we don't store any cookies and just use the facility of .net framework for page output cache. This privacy statement does not cover the use of cookies by any advertisers.
 
- **Changing Your Personal Information**  
+**Changing Your Personal Information**  
 You can access and modify your personal information by signing on to the website. We will not modify the information provided by you. However, you must update your personal information as soon as such changes are necessitated. 
 
 Where you make a public posting, you may not be able to change or remove it nor shall you be able to close your account. Upon your request, we will close your account and remove your personal information from view as soon as reasonably possible, based on your account activity and in accordance with applicable law(s). However, we will retain your personal information from closed accounts to comply with law, Avoid/check illegal and/or potentially prohibited activities and to enforce User Agreements; Comply with any court judgment / decree / order / directive / legal & government authority /applicable law; Investigate potential violations or applicable national & international laws; Investigate deliberate damage to the website/services or its legitimate operation; Detect, prevent, or otherwise address security and/or technical issues; Protect the rights, property or safety of FEVL and/or its Directors, employees and the general public at large; Respond to Claims of third parties; and take such other actions as may be permitted by law. 
@@ -54,5 +54,5 @@ The security of your personal information is important to us. When you enter you
 **Links to Other Sites**  
 The website contains links to other sites that are not owned or controlled by FEVL. Please be aware that we, FEVL and/or the website, are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies only to information collected by the website or to our other related websites provided it appears at the footer of the page therein. It does not apply to third party advertisements which appear on our websites and we suggest you read the privacy statements of such advertisers.
 
- **Changes in this Privacy Statement**  
+**Changes in this Privacy Statement**  
 If we decide to change our privacy policy, we will post those changes to this privacy statement and such other places we deem appropriate so that you are updated about the manner we collect information, what information we collect, how we use it and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently at our website. 
