@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stimul-cash.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221060548id_/https%3A//stimul-cash.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stimul-cash.com privacy policy that was archived on 2014-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140526164130id_/http%3A//www.stimul-cash.com/privacy.html) for the most accurate reproduction.*
 
 # Stimul-Cash.com Affiliate Program
 
@@ -28,7 +28,7 @@ We also allow third party companies that are presenting advertisements on some o
 
 We will not disclose your personal information to any third parties who work on our behalf to provide products and services requested by you. We will not share your personal information for any purposes even if a third parties privacy policies are consistent with ours.
 
-We may otherwise disclose your personal information when: (a) We have your express consent to share the information for a specified purpose; (b) We need to respond to subpoenas, court orders or other such legal process; (c) We find that your actions on our websites violate our [Terms and Conditions](https://web.archive.org/web/20131221060548id_/https%3A//stimul-cash.com/terms.html) document or any of our usage guidelines pertaining to corresponding products or services.
+We may otherwise disclose your personal information when: (a) We have your express consent to share the information for a specified purpose; (b) We need to respond to subpoenas, court orders or other such legal process; (c) We find that your actions on our websites violate our [Terms and Conditions](https://web.archive.org/web/20140526164130id_/http%3A//www.stimul-cash.com/terms.html) document or any of our usage guidelines pertaining to corresponding products or services.
 
 We may also disclose your personal information, with your consent, to a third party payment gateway when it is absolutely required to allow us to make financial settlements. However, only information that you provide in the Payment Method section of the Affiliate Account settings will be shared. It is your responsibility to provide the minimum but sufficient information needed to permit us to make a timely settlement.
 
