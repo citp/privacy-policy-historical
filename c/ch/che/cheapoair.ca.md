@@ -1,13 +1,25 @@
-> *The following text is extracted and transformed from the cheapoair.ca privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124233620id_/http%3A//www.cheapoair.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapoair.ca privacy policy that was archived on 2014-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140526231504id_/http%3A//www.cheapoair.ca/privacy) for the most accurate reproduction.*
 
 # CheapOair.ca - Privacy Policy
 
 |   
+---  
+| 
+
+| 
+
+Get discounted, email-only deals and coupons right to your inbox. 
+
+PLUS, get C$20 instantly±  
   
+---  
+  
+|  | 
+
 Stay Connected: 
 
-|    Privacy Policy  
----  
+|    Privacy Policy | [](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.cheapoair.ca&sealid=101)  
+---|---  
 CheapOair.ca is strongly committed to protecting your privacy.  
   
 This privacy policy (“Privacy Policy”) discloses our information collection and dissemination practices in connection with the CheapOair.ca website (collectively, the “Site”). By using the Site you signify your acceptance of the terms in this Privacy Policy. If you do not agree to this Privacy Policy, you should not use the Site. 
@@ -80,19 +92,10 @@ You will be notified when your personal information is collected by any third pa
 
 **Customer Service,  
 CheapOair.ca,  
-213 West 35th Street  
-Suite 1301  
-New York, NY 10001  
+135 W 50th Street, Suite 500   
+New York, NY 10020   
 [cservice@CheapOair.ca](mailto:cservice@cheapoair.ca)**  
   
    
   
 | 
-
-Get discounted, email-only deals and coupons right to your inbox. 
-
-PLUS, get C$20 instantly±  
-  
----  
-  
-[](http://www.bbb.org/kitchener/business-reviews/travel-agencies-and-bureaus/cheapoairca-in-markham-on-1227946#sealclick "Click for the Business Review of CheapOair.ca, a Travel Agencies & Bureaus in Markham ON")
