@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awsm.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124064846id_/http%3A//www.awsm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awsm.com privacy policy that was archived on 2014-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140526134137id_/http%3A//www.awsm.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AWSM.com
 
