@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planner5d.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218021932id_/https%3A//planner5d.com/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planner5d.com privacy policy that was archived on 2014-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140526081336id_/https%3A//planner5d.com/pp) for the most accurate reproduction.*
 
 # Planner 5D - Privacy policy
 
