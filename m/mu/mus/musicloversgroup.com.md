@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musicloversgroup.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124065343id_/http%3A//www.musicloversgroup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicloversgroup.com privacy policy that was archived on 2014-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140526235512id_/http%3A//www.musicloversgroup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
