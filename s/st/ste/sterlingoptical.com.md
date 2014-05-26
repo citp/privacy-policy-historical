@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sterlingoptical.com privacy policy that was archived on 2012-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120729080400id_/http%3A//www.sterlingoptical.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sterlingoptical.com privacy policy that was archived on 2014-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140526094937id_/http%3A//www.sterlingoptical.com/privacy.php) for the most accurate reproduction.*
 
 # Sterling -- Privacy Policy
 
