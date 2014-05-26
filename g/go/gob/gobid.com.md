@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gobid.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209010330id_/http%3A//unseat.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gobid.com privacy policy that was archived on 2014-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140526025544id_/http%3A//unseat.me/privacy-policy) for the most accurate reproduction.*
 
 # Share Tickets | unseat.me
 
