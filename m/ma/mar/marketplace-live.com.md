@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketplace-live.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125074151id_/http%3A//www.marketplace-live.com/privacy-statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketplace-live.com privacy policy that was archived on 2014-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140526123203id_/http%3A//marketplace-live.com/privacy-statement.php) for the most accurate reproduction.*
 
 # Marketplace Live - Privacy Statement
 
@@ -54,7 +54,7 @@ Knoxville
 TN 37901-1671  
 USA 
 
-or [contact us by email](https://web.archive.org/web/20131125074151id_/http%3A//www.marketplace-live.com/contact/contact.php).
+or [contact us by email](https://web.archive.org/web/20140526123203id_/http%3A//marketplace-live.com/contact/contact.php).
 
 We will then use reasonable efforts to remove your personal information from our files and/or database. You may also contact us through either of the above methods to request information about knowledge we have about you in our database. We expect to be able to supply that information and will be anxious to correct any factual inaccuracies in this information.
 
