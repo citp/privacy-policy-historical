@@ -1,15 +1,14 @@
-> *The following text is extracted and transformed from the rankandstyle.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127021405id_/http%3A//www.rankandstyle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rankandstyle.com privacy policy that was archived on 2014-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140526181856id_/http%3A//www.rankandstyle.com/privacy-policy) for the most accurate reproduction.*
 
 # Rank & Style | Privacy Policy
 
 Rank & Style takes your privacy seriously. This Privacy Policy sets forth the privacy policies that apply to your use of RankandStyle.com and the type of information we collect and receive from you when you use RankandStyle.com or sign up for our newsletters. Please review this Privacy Policy carefully. By visiting or using this website in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways.
 
   1. Personal Information  
-In order to deliver our newsletters to you, and for other purposes deemed necessary for use by Rank & Style, we need your email address. We don't collect any information except that expressly provided by you. We will not disclose your personal information to any third party without your consent, except as set forth in this Privacy Policy and as required to provide you with Rank & Style material. Rank & Style will never sell, rent, or share your personal information, including your email address, to any third parties for marketing purposes without your explicit consent.   
-
+In order to deliver our newsletters to you, and for other purposes deemed necessary for use by Rank & Style, we need your email address. We don't collect any information except that expressly provided by you. We will not disclose your personal information to any third party without your consent, except as set forth in this Privacy Policy and as required to provide you with Rank & Style material. Rank & Style will never sell, rent, or share your personal information, including your email address, to any third parties for marketing purposes without your explicit consent. From time to time, we may contact you about products, services or events that are relevant to your interests. 
 
   2. Other Information  
-We may request additional information such as age, buying preferences, or other demographic or profile information. We use this information to customize our content and improve your experience on our site. We may also share this information with third parties, such as advertisers, but only in aggregate, anonymous form. We will not share information with third parties that personally identifies you or anyone else in any way.
+We may request additional information such as age, buying preferences, or other demographic or profile information. We use this information to customize our content and improve your experience on our site. We may also share this information with third parties, such as advertisers, but only in aggregate, anonymous form. We will not share information with third parties that personally identifies you or anyone else in any way. In addition, Rank & Style has implemented Google Analytics Demographics and Interest Reporting.
 
   3. Usage Information  
 Rank & Style may also gather information on how our site is used. This information is not personally identifiable and will be used to determine how our website is being used. Examples of such information is: how much time  users spend on our site, what pages they view, what sites brought them to our site, what keywords were they searching. We use this information to help us create a more useful, efficient website and provide you with better content.
@@ -24,6 +23,8 @@ You can unsubscribe from receiving Rank & Style emails at any time by clicking o
 
   7. Cookies  
 Like most other websites, Rank & Style might place or recognize cookies (small text files) on your browser in order to help us retrieve information vital to providing the best possible service. These cookies allow us to recognize you and simplify your user experience. Rank & Style will never use cookies to obtain any information from your computer not related to our site.
+
+In addition, third-party vendors also use first-party cookies (such as the Google Analytics cookie) or other first-party identifiers, and third-party cookies or other third-party identifiers together. This Privacy Policy does not cover the use of cookies by any third parties. 
 
   8. Links to Third Party Sites; Affiliate Relationships  
 Purchases made through third party retailers’ sites linked to our website are subject to the policies and procedures of those sites. Order fulfillment and customer service relating to orders placed at any of those third party sites, including the collection of applicable sales taxes, are the sole responsibility of such sites. Any concerns regarding order fulfillment, customer service, privacy policies or other issues relating to these third party retail sites should be directed to the administrator of the site.
