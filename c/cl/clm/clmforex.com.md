@@ -1,65 +1,243 @@
-> *The following text is extracted and transformed from the clmforex.com privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123043835id_/http%3A//www.clmforex.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clmforex.com privacy policy that was archived on 2014-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140526183714id_/http%3A//www.clmforex.com/privacy-policy) for the most accurate reproduction.*
 
-# Core Liquidity Markets » Privacy Policy
+# Privacy Policy - Core Liquidity Markets
 
-##  Core Liquidity Markets Pty Ltd (CLM)
+**Our Commitment**
 
-**Protecting the privacy and safeguarding the personal and financial information of our clients and website visitors is one of our highest priorities. The following privacy statement explains how CLM collects and protects your information.**
+ **Core Liquidity Markets** is committed to providing you with the highest levels of client service. We recognise that your privacy is very important to you and we respect the confidentiality of information and the privacy of individuals. Your personal information will be treated strictly in accordance with the Australian Privacy Principles in the Privacy Act 1988 (Cth) and the ‘private sector amendments’ contained in The Privacy Amendment (Enhancing Privacy Protection) Act 2012 (Cth). Further information on privacy in Australia may be obtained by visiting the website of the Office of the Federal Privacy Commissioner at [http://www.privacy.gov.au](http://www.privacy.gov.au/). ****
 
-By opening a CLM account or by using CLM sites, you give your consent to the collection and use of personal information by CLM as explained in this Privacy Statement.
+ **Core Liquidity Markets** believes that this **Privacy Policy** discloses how the personal information you provide to us and our representatives, is collected, used, held, disclosed and disseminated. We are committed to being open and transparent about how we use your personal information. __
 
-## Collection of Personal Information
+We encourage you to check our website regularly for any updates to our **Privacy Policy.**
 
-We collect information required to open an account, to transact business effectively, and to safeguard your privacy. To do this, we gather information to help us assess your needs and preferences.
+ **Why do we collect personal information?**
 
-The information we collect directly from you includes information required to communicate with you, including your name, mailing address, telephone number, e-mail address. And, as required by law to identify who you are, we also collect your Passport/Tax ID number, address, etc. We also collect demographic information when you open an account, including gender, birth date, education, occupation, etc. Our regulatory bodies also require us to assess your trading experience, your approximate annual income, approximate net worth, and available risk capital to assess your financial position.
+ **Core Liquidity Markets** is required to meet particular legislative and regulatory requirements which require us to collect certain personal information from you for the purposes of:
 
-You directly provide to us the majority of information we collect. You do this by completing the account application and related documentation, placing a trade, sending us an e-mail or submitting information in response to a promotion or special offer. Other ways we obtain information are by (1) observing your usage of the website, and (2) providing products and services to you. This information enables us to offer you products and services that should be of interest to you. The information we collect indirectly from you includes your Internet Protocol (IP) address, browser type, operating system, Internet Service Provider (ISP), time stamps, transactions placed, and banner ads you click. We do this through the use of cookies, which are small text files sent from the web server to your computer. Cookies help us to know you better by providing operational data we can use to aid your interaction with our website and improve its navigation and usability.
+  * Providing you with the relevant product or service
+  * Managing and administering the product or service
+  * Protecting against fraud
 
-## Usage of Personal Information
 
-We use personal information only as appropriate to provide you quality service and security. For example, CLM may use the information collected from you to verify your identity and contact information. W e may also use this information to establish and set up your trading account, issue an account number and a secure password, maintain your account activity, and contact you with account information. This information helps us improve our services to you, customize your browsing experience and inform you about additional products, services or promotions that may be of interest to you.
 
-Should you close your account with us, CLM will retain your information, but only use it to comply with regulatory requirements and to periodically contact you to offer you the opportunity to reactivate your account or participate in other valuable offers.
+ **Your Personal Information**
 
-CLM may share information with affiliates if the information is required to provide the product or service you have requested or to provide you the opportunity to participate in the products or services our affiliates offer. CLM also forges partnerships and alliances, which may include joint marketing agreements, with other companies who offer high-quality products and services that might be of value to our clients. In order to ensure that these products and services meet your needs and are delivered in a manner that is useful and relevant, CLM may share some information with partners, affiliates and alliances. This allows them to better understand the offers that are most relevant and useful. In our strategic relationships, we will require that it be identified that an offer is being extended because of the relationship with us. The use of your personal information is limited to the purposes identified in our relationship with the partner or affiliate.
+ ****Due to government regulations and the nature of the products we provide, we are required to collect personal information from customers which can include, but is not limited to, the below:
 
-## Non-Affiliated Third Parties
+  * Name, address, telephone number(s)
+  * Date of birth
+  * Email address
+  * Occupation and job title
+  * Transaction details associated with your trading through us
+  * Additional information provided to us and recorded by telephone
+  * Information you provided to us on client agreement forms
+  * Nominated bank account details
+  * Statement of assets and liabilities
+  * Information regarding guarantees of company accounts
+  * Tax file number
+  * Employer
+  * Voluntary information
 
-CLM does not sell, license, lease or otherwise disclose your personal information to any third party for any reason, except as described below.
 
-CLM reserves the right to disclose your personal information to third parties where required by law to regulatory, law enforcement or other government authorities. W e may also disclose your information as necessary to credit reporting or collection agencies, or when necessary to protect our rights or property.
 
-To help us improve our services to you, we may engage another business to help us to carry out certain internal functions such as account processing, fulfillment, client service, client satisfaction surveys or other data collection activities relevant to our business. We may also provide a party with client information from our database to help us to analyse and identify client needs and notify clients of product and service offerings. Use of the information shared is strictly limited to the performance of the task we request and for no other purpose. All third parties with which we share personal information are required to protect personal information in a manner similar to the way we protect personal information. Examples of information shared are identifying information such as name, mailing address, e-mail address, telephone number, and information on account activity.
+You are not required by law to provide us with any of the personal information requested; however without the information required Core Liquidity Markets will not be able to provide you with any of the services or assistance you have sought.
 
-If at any time you choose to purchase a product or service offered by another company, any personal information you share with that company will no longer be controlled under our Privacy Statement. We are not responsible for the privacy policies or the content of sites we link to and have no control of the use or protection of information provided by you or collected b y those sites. Whenever you elect to link to a co-branded Web site or to a linked website, you may be asked to provide registration or other information. Please note that the information you are providing is going to a third party, and you should familiarise yourself with the privacy policy provided by that third party.
+ **How We Collect Personal Information**
 
-## Opting Out of Disclosures of Non-Public Personal Information
+ **Core Liquidity Markets** collects personal information in a number of ways, including:
 
-You may direct us not to disclose non-public personal information to certain non-affiliated third parties. To opt out of sharing non-public personal information with non-affiliated third parties, please contact a client service representative. An opt-out election made by one account owner of a Joint account is applicable to all account owners of the Joint account. An opt-out election must be made for each separate account you hold at CLM.
+  * directly from you, when you attend a face-to face interview;
+  * directly from you, when you provide information through a data collection form;
+  * directly from you, when you provide information by phone; and
+  * directly from you via an email or the internet.
 
-If we propose to share information in a manner not covered in this Privacy Statement, we will notify you of this change by posting an addendum on the website, a notice in the “About Us” section of the website, and if appropriate, provide you an opportunity to opt out of such use.
 
-## The Security of Your Personal Information
 
-We employ leading-edge security software, systems, and procedures to offer you a safe and secure trading environment and protect your personal, financial and trading information.
+Primarily, your personal information is used in order to:
 
-When you open an account with us, you are issued a unique account number, User ID and a password. Only a limited number of CLM employees who have a need to know this information will have access to your account number, User ID, and password. Remember that you are ultimately responsible for maintaining the secrecy of your account number, User ID, and password. We strongly recommend that you do not disclose this information.
+  * Meet particular legislative and regulatory requirements;
+  * To assist in providing services to you;
+  * To assist with any calls you make to us;
+  * To communicate relevant information to you;
+  * For our product development, marketing, planning, administration and credit control procedures.
 
-## Use of “Cookies”
 
-We use cookies to assist us in securing your trading activities and to enhance the performance of our website. Cookies are small text files sent from the web server to your computer. Cookies used by CLM do not contain any personal information nor do they contain account or password information. They merely allow the site to recognise that a page request comes from someone who has already logged on.
 
-CLM may share website usage information about visitors to the website with reputable advertising companies for targeting our Internet banner advertisements on this site and other sites. For this purpose, pixel tags (also called clear gifs or web beacons) may be used to note the pages you’ve visited. The information collected by the advertising company through the use of these pixel tags is not personally identifiable.
+From time to time, we may provide you with direct marketing material. This will include emails, articles and newsletters that may be of interest to you. If, at any time, you do not wish to receive this information any further, you may contact us with this request. We will endeavour to meet your request within 1 week. We maintain a Register for those individuals not wanting direct marketing material. For marketing that you receive as a result of our use of cookies, please see the section dealing with cookies below. In particular please note the information about how to manage your preferences both personally and with any social media websites.
 
-To administer and improve the CLM website, we may use a third party to track and analyse usage and volume statistical information, including page requests, form requests, and click paths. The third party may use cookies to track behavior and may set cookies on behalf of CLM. These cookies do not contain any personally identifiable information.
+ **When We Disclose Your Personal Information and Who May We Disclose it to, Including Cross Border Disclosures.**
 
-## Changes to this Privacy Statement
+In line with modern business practices common to many financial institutions and to meet your specific needs we may disclose your personal information to the organisations described below.
 
-In the event CLM materially changes this Privacy Statement, the revised Privacy Statement will promptly be posted to the websites and we will post a notice on our websites informing you of such changes. You agree to accept posting of a revised Privacy Statement electronically on the website as actual notice to you. Any dispute over our Privacy Statement is subject to this notice and the CLM Customer Agreement.
+The Corporations Act has provided the Australian Securities and Investments Commission with the authority to inspect certain personal information that is kept on our files about you.
 
-If you have any questions that this statement does not address, please contact a Client Services representative.
+We collect information about you for the purpose of reporting to AUSTRAC under the Anti-Money Laundering and Counter-Terrorism Financing Act 2006.
 
-## Disclaimer
+For the purposes set out above, we may disclose your personal information to organisations outside **Core Liquidity Markets**. The organisations to which we disclose information may include:
 
-Core Liquidity Markets (CLM) refers to Core Liquidity Markets Pty Ltd. Core Liquidity Markets is an Australian financial service firm. As a financial service provider we are regulated by Australian Securities and Investments Commission (ASIC) under Australian law (ACN 164 994 049). Core Liquidity Markets is an authorized representative of Direct FX Trading Pty Ltd (AFSL) number 305539, which is the authorizing licensee and principal.
+  * other product providers in order to manage or administer your account, product or service;
+  * compliance consultants to ensure that our representatives are meeting our compliance standards;
+      * mailing houses;
+      * your professional advisers, including your solicitor or accountant as authorised by you;
+      * information technology service providers to maintain, review and develop our business systems, procedures and infrastructure including testing or upgrading our computer systems;
+
+
+  * government and regulatory authorities and other organisations, as required or authorised by law, for example, to government or regulatory bodies for the purposes related to public health or safety, the prevention or detection of unlawful activities or to protect public revenue.
+  * another authorised representative of **Core Liquidity Markets** if necessary;
+  * a potential purchaser/organisation involved in the proposed sale of our business for the purpose of due diligence, corporate re-organisation and transfer or all or part of the assets of our business.
+  * where you have given your consent including your legal advisers;
+  * a new owner of our business that will require the transfer of your personal information.
+
+
+
+In addition, our employees and the outsourcing companies/contractors are obliged to respect the confidentiality of any personal information held by **Core Liquidity Markets.**
+
+ **Core Liquidity Markets** takes its obligations to protect your information seriously, this includes when we operate throughout Australia and overseas, as part of our operations some uses and disclosures of your information may occur outside your State or Territory and/or outside of Australia. In some circumstances we may need to obtain your consent before this occurs.
+
+We may take reasonable steps to require that organisations both within and outside the Core Liquidity Markets group of companies who handle or obtain personal information as service providers to us acknowledge the confidentiality of this information, undertake to respect any individual’s right to privacy and comply with either the Australian Privacy Principles or their local privacy regime and this policy.
+
+Our ability to enforce the Australian Privacy Principles or any other contractual privacy obligation against overseas recipients and to take action in relation to any breach may be very limited and/or far less effective than it would be if such recipients were Australian based. As Australian Privacy Principles may not be enforceable against or apply to overseas regulation we understand that you may choose not to disclose your personal information to us. However, if you choose not to provide the information we need to fulfill your request for a specific product or service, we may not be able to provide you with the requested product or service. **  ** ****
+
+In the event of that we propose to sell the business, we may disclose your personal information to potential purchasers for the purpose of them conducting due diligence investigations. Disclosure will be made in confidence and it will be a condition of that disclosure that no personal information will be used or disclosed by them.
+
+ **Solicited personal information**
+
+Without your consent we will not collect information about you that reveals your racial or ethnic origin, political opinions, religious or philosophical beliefs or afflations, membership of professional or trade association, membership of a trade union, details of health, disability, sexual orientation, or criminal record.
+
+It is our policy that sensitive information will be used and disclosed only for the purposes for which it was provided, unless the customer agrees otherwise or the use or disclosure of this information is allowed by law, or when the information is necessary for the establishment, exercise or defence of a legal claim.
+
+ **How We Store and Secure Your Personal Information**
+
+We keep your personal information in your client file. These files are accessible to authorised personnel only and are appropriately secured out of hours.
+
+Your personal information may also be held on our computer database. All computer-based information is protected through the use of access passwords. Data is backed up regularly and stored securely off site. Other measures taken are:
+
+  * Confidentiality requirements for our employees
+  * Security measures for systems access
+  * Providing a discreet environment for confidential discussions
+
+
+
+Personal information will be treated as confidential information and sensitive information will be treated highly confidential.
+
+It is a legislative requirement that we keep all personal information and records for a period of 7 years. Should you cease to be a client of ours, we will maintain your personal information on or off site in a secure manner for 7 years. After this, the information will be destroyed.
+
+ **Ensure Your Personal Information Is Correct and Up – To Date.**
+
+ **Core Liquidity Markets** takes all reasonable precautions to ensure that the personal information we collect, use and disclose is accurate, complete and up-to-date. To ensure we can maintain this level of accuracy and completeness, we recommend that you:
+
+  * inform us of any errors in your personal information as soon as possible; and
+  * update us with any changes to your personal information as soon as possible.
+
+
+
+We can generally update your customer information over the telephone, by email from your registered email address. You may be asked to verify your personal details for security purposes before an amendment can be made.
+
+If you provide inaccurate or incomplete information we may not be able to provide you with the products or services you are seeking.
+
+ **Access to Your Personal Information**
+
+You have a right to access your personal information, subject to certain exceptions allowed by law. We ask that you provide your request for access in writing (for security reasons) and we will provide you with access to that personal information. Access to the requested personal information may include:
+
+  * providing you with copies;
+  * providing you with the opportunity for inspection; or
+  * providing you with a summary.
+
+
+
+If charges are applicable in providing access to you, we will disclose these charges to you prior to providing you with the information.
+
+Some exceptions exist where we will not provide you with access to your personal information if:
+
+  * providing access would pose a serious threat to the life or health of a person;
+  * providing access would have an unreasonable impact on the privacy of others;
+  * the request for access is frivolous or vexatious;
+  * the information is related to existing or anticipated legal proceedings between us and would not be discoverable in those proceedings;
+  * providing access would reveal our intentions in relation to negotiations with you in such a way as to prejudice those negotiations;
+  * providing access would be unlawful;
+  * denying access is required or authorised by or under law;
+  * providing access would be likely to prejudice certain operations by or on behalf of an enforcement body or an enforcement body requests that access not be provided on the grounds of national security.
+
+
+
+Should we refuse you access to your personal information, we will provide you with a written explanation for that refusal.
+
+ **Using Government Identifiers**
+
+Although in certain circumstances we are required to collect government identifiers such as your tax file number, Medicare number or pension card number, we  do not use or disclose this information other than when required or authorised by law or unless you have voluntarily consented to disclose this information to any third party.
+
+ **Dealing with Us Anonymously**
+
+You can deal with us anonymously where it is lawful and practicable to do so. For example, if you telephone requesting our postal address. However, please be advised, due to the nature of the services we provide and regulatory requirements associated we cannot offer an option allowing you to transact as client of ours on an anonymous basis.
+
+ **Complaints Resolutions**
+
+Please contact our Privacy Officer if you wish to complain about any breach or potential breach of your privacy rights. Your complaint will be responded to within 7 days. If you are not satisfied with the outcome of your complaint, you are entitled to contact the Office of the Privacy Commissioner.
+
+ **Core Liquidity Markets** may record telephone conversations between you and persons working for Core Liquidity Markets. Such recordings, or transcripts from such recordings, may be used for training purposes and to assist with the resolve of any dispute between you and Core Liquidity Markets.
+
+ **Our Website**
+
+ **Core Liquidity Markets** website provides links to third party websites. The use of your information by these third party sites is not within the control of **Core Liquidity Markets** and we cannot accept responsibility for the conduct of these organisations. Other websites are not subject to our privacy standards, policies and procedures. You will need to contact or review those websites directly to ascertain their privacy stands, policies and procedures.  **Please Note * Core Liquidity Markets**  does not collect and store credit card information.
+
+You may register with us to receive newsletters and other information. By doing so, your name and email address will be collected and stored on our database. We take care to ensure that the personal information you give us on our website is protected. For example, our website has electronic security systems in place, including the use of firewalls and data encryption.
+
+If you do not wish to receive any further information from us, or you wish to update your registration details, please email your request to us. We will endeavour to meet your request within 5 working days.
+
+We may use cookie technology as part of our websites statistical reporting. A cookie is a small piece of information sent by a website that is saved on your hard disk by your computer’s browser. It holds information a site may need to personalize your experience and to gather web site statistical data, such as which pages are visited, what is downloaded, the internet provider’s domain name and country that our visitors come from and the addresses of sites visited immediately before, and after, coming to our site. However, none of this is associated with you as an individual. It is measured only in aggregate. The information in the cookies lets us trace your “click stream” activity (i.e., the paths taken by visitors to our site as they move from page to page.) Cookies do not capture your individual email address or any private information about you.
+
+We also use standard web server log files to help us count visitors and evaluate our site’s technical capacity. We use this information to find out how many people visit our site, help us arrange the pages in the most user-friendly way, keep the site browser-friendly, and to make our pages more useful to our visitors. We record information on site traffic but not information on individual visitors to our site, so no information about you in particular will be kept or used.
+
+To browse without cookies, you can configure your browser to reject all cookies, or to notify you when a cookie is set. (Each browser is different, so check the “Help” menu of your browser to learn how to change your cookie preferences.)
+
+ **Spam Act**
+
+Spam is a generic term used to describe electronic ‘junk mail’- unwanted messages sent to a person’s email account or mobile phone. In Australia, spam is defined as ‘unsolicited commercial electronic messages’.
+
+‘Electronic messaging’ covers emails, instant messaging, SMS and other mobile phone messaging, but not cover normal voice-to-voice communication by telephone.
+
+ **Core Liquidity Markets** complies with the provisions of the Spam Act when sending commercial electronic messages.
+
+Equally importantly, **Core Liquidity Markets** makes sure that our practices are in accordance with the National Privacy Principles in all activities where they deal with personal information. Personal information includes our clients contact details.
+
+ **‘Do not call’ register**
+
+Unless you ask us by calling **+61 02 8015 5431** not to contact you about products or services and not to disclose your information to others for that purpose, by accessing this website you consent to us contacting you by telephone while you hold any product or receive any services from us notwithstanding registration at any time of your telephone number on the ‘do not call’ register. ****
+
+**Internal Procedure for dealing with communications**
+
+The three key steps **Core Liquidity Markets** follows:
+
+  * Consent – Only commercial electronic messages are sent with the addressee’s consent – either express or inferred consent.
+  * Identify – Electronic messages will include clear and accurate information about the person and the company that is responsible for sending the commercial electronic message.
+  * Unsubscribe – We ensure that a functional unsubscribe facility is included in all our commercial electronic messages and deal with unsubscribe requests promptly.
+
+
+
+ **Consented to such communications**
+
+Commercial messages will only be sent to you when you have given consent. This may be express consent – a direct indication that it is okay to send the message, or messages of that nature or inferred consent based on our business or other relationship with you and your conduct.
+
+ **Comply with the law regarding viral messages**
+
+ **Core Liquidity Markets** ensures that Commercial Communications that include a Forwarding Facility contain a clear recommendation that the Recipient should only forward the Commercial Communication to persons with whom they have a relationship, where that relationship means that person could be said to have consented to receiving Commercial Communications.
+
+ **Comply with the age sensitive content of commercial communication**
+
+Where the content of a Commercial Communication seeks to promote or inspire interaction with a product, service or event that is age sensitive, the **Core Liquidity Markets** takes reasonable steps to ensure that such content is sent to Recipients who are legally entitled to use or participate in the product service or event.
+
+ **Disclaimer**
+
+ **Core Liquidity Markets refers to Core Liquidity Markets Pty Ltd. Core Liquidity Markets** is an Australian Financial Service Firm. As a financial service provider we are regulated by the Australian Securities and Investments Commission (ASIC) under Australian law (ACN 164 994 049). **Core Liquidity Markets** is a Corporate Authorized Representative No. 443832 of **GO Markets Pty Ltd** (AFSL) number 254963, the Authorizing Licensee and Principal.
+
+Privacy Policy – March 2014
+
+ **Contact Details**
+
+Contact:  _ _ Core Liquidity Markets Pty Ltd
+
+Address: Level 50, 120 Collins Street, Melbourne, VIC, 3000
+
+Telephone: +61 2 8015 5431
+
+E-mail: support@clmforex.com
