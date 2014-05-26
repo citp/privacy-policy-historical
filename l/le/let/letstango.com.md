@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the letstango.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231012244id_/http%3A//www.letstango.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letstango.com privacy policy that was archived on 2014-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140526215454id_/http%3A//www.letstango.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -15,6 +15,8 @@ We may collect non-personal identification information about Users whenever they
 Web browser cookies
 
 Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+
+Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
 How we use collected information
 
