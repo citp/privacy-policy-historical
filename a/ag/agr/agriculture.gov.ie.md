@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agriculture.gov.ie privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123060507id_/http%3A//www.agriculture.gov.ie/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agriculture.gov.ie privacy policy that was archived on 2014-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140526091951id_/http%3A//www.agriculture.gov.ie/privacy) for the most accurate reproduction.*
 
 # Privacy - Department of Agriculture, Food & the Marine
 
@@ -36,4 +36,4 @@ It is possible to disable the use of cookies in your browser. However, this can 
 [Microsoft Internet Explorer Browser](http://windows.microsoft.com/en-IE/windows-vista/Block-or-allow-cookies)   
 [Mozilla Firefox Browser](http://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences)   
 [Apple Safari Browser](http://support.apple.com/kb/HT1677)   
-[Opera Web Browser](http://www.opera.com/browser/tutorials/security/privacy/)
+[Opera Web Browser](http://www.opera.com/help/tutorials/security/cookies/)
