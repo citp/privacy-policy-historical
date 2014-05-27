@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the co-operativetravel.co.uk privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125095442id_/http%3A//www.co-operativetravel.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the co-operativetravel.co.uk privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527022925id_/http%3A//www.co-operativetravel.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Co-operative Travel Privacy Policy
 
 ### **COOKIES**
 
-This site uses cookies to distinguish you from other users. Some of these cookies are essential to make this site work properly, to allow you to make your travel booking or other purchases, and to enable Thomas Cook Retail Limited to fulfil your purchase requests. Other types of cookie help us to provide you with a good experience when you browse our site, allow us to improve our site or the way we provide our service to customers, or are used to provide you with information or offers from Thomas Cook companies or third parties that may be of interest to you. 
+This site uses cookies to distinguish you from other users. Some of these cookies are essential to make this site work properly, to allow you to make your travel booking or other purchases, and to enable TCCT Retail Ltd to fulfil your purchase requests. Other types of cookie help us to provide you with a good experience when you browse our site, allow us to improve our site or the way we provide our service to customers, or are used to provide you with information or offers from Thomas Cook companies or third parties that may be of interest to you. 
 
 You can view more information on cookies and a list of cookies that are used on this website by visiting our Cookie Page You can accept or decline cookies at any time by accessing the preference panels from your browser's main menu (usually found under 'Edit', 'Tools' or 'Options'). However, if you choose to remove cookies parts of the site may not work properly or your use of the site may be impaired.
 
@@ -13,7 +13,7 @@ In order to help us maintain and improve our service to you we also use 'cookies
 **PLEASE NOTE:** if you choose to use this site without declining any non-essential cookies, then your use will constitute implied consent to the non-essential cookies that are set.
 
 **PRIVACY POLICY**  
-Thomas Cook Retail Limited understands and respects the importance of your privacy. The following information explains what personal data we may collect from you when you use this site, and how we will hold and use that data.
+TCCT Retail Ltd understands and respects the importance of your privacy. The following information explains what personal data we may collect from you when you use this site, and how we will hold and use that data.
 
 **INFORMATION WE MAY COLLECT FROM YOU**  
 We may collect and process the following data about you:
@@ -57,7 +57,7 @@ You have the right to ask us not to process your personal data for marketing pur
 Our site contains links to and from the websites of our principals, suppliers, advertisers and other third parties. If you follow a link to any of these other websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies or for these 3rd party websites. Please check these policies before you submit any personal data to these websites.
 
 **ACCESS TO YOUR PERSONAL DATA**  
-The Data Protection Act 1998 gives you the right to check that your personal data is being processed lawfully ("subject access right"). Your subject access right can be exercised in accordance with the Act. Any subject access request must be made in writing to: The Company Secretary, Legal & Compliance Dept., Thomas Cook Retail Limited, The Thomas Cook Business Park, Unit 17 Coningsby Road, Peterborough, PE3 8SB, and may be subject to a fee of £10 to meet our costs in providing you with details of any personal data we hold about you. 
+The Data Protection Act 1998 gives you the right to check that your personal data is being processed lawfully ("subject access right"). Your subject access right can be exercised in accordance with the Act. Any subject access request must be made in writing to: The Company Secretary, Legal & Compliance Dept., TCCT Retail Ltd, The Thomas Cook Business Park, Unit 17 Coningsby Road, Peterborough, PE3 8SB, and may be subject to a fee of £10 to meet our costs in providing you with details of any personal data we hold about you. 
 
 **CHANGES TO OUR PRIVACY POLICY**  
 We reserve the right to update or alter this Privacy Policy from time to time without notice to you. 
