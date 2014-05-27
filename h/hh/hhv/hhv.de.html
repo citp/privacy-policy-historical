@@ -1,30 +1,94 @@
-<!--The following is the downloaded HTML source of the hhv.de privacy policy that was archived on 2013-11-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131117134503id_/http%3A//www.hhv.de/shop/en/customerservice/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hhv.de privacy policy that was archived on 2014-05-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140527163349id_/http%3A//www.hhv.de/shop/en/help/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><!--<![endif]--><head><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
+<!DOCTYPE html><html lang="en"><!--<![endif]--><head>
 	<meta charset="utf-8">
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-5.newrelic.com","errorBeacon":"jserror.newrelic.com","licenseKey":"20a46eb852","applicationID":"1120066","transactionName":"dVpWFUZZWFlQQEtVDxldXQ1EGVBaVkcJVQ9CaksJW0RA","queueTime":0,"applicationTime":404,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-411.min.js"}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgQFVVdVGwIBVlFSAQc="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
 	<meta name="author" content="www.hhv.de">
-	<meta name="description" content="hhv.de (hiphopvinyl.de) - europe's finest online store for hip hop soul funk music, clothing &amp; streetwear with more than 80.000 items in stock ...">
+	<meta name="description" content="Customer service help page that offers you all the information about &quot;Privacy&quot;.">
 	<meta name="keywords" content="hhv, hhv.de, hhvde, hiphopvinyl, records, vinyl, music, clothing, merchandise, underground, hip hop, rap, soul, funk, jazz, rare, second hand, used vinyl">
 	<meta name="p:domain_verify" content="97c14db48d439c50d845df4aef6c7e81">
 	<meta name="robots" content="index,follow">
 	
 	<title>Privacy | hhv.de | shop</title>
 	
-	<link rel="alternate" hreflang="de" href="http://www.hhv.de/shop/de/kundenservice/datenschutz">
+	<link rel="alternate" hreflang="de" href="http://www.hhv.de/shop/de/hilfe/privacy">
 
-	<link rel="alternate" hreflang="en" href="http://www.hhv.de/shop/en/customerservice/privacy">
+	<link rel="alternate" hreflang="en" href="http://www.hhv.de/shop/en/help/privacy">
 
 
 	<link rel="alternate" type="application/rss+xml" title="hhv.de news" href="http://www.hhv.de/shop/en/rss">
 	<link rel="apple-touch-icon" href="http://www.hhv.de/apple-touch-icon.png">
 	<link rel="apple-touch-icon-precomposed" href="http://www.hhv.de/apple-touch-icon-precomposed.png">
 	
-	<link href="/assets/default-269bbc9cc921ccdeab63a64d48f603d7.css" media="screen" rel="stylesheet" type="text/css">
+	<link href="/assets/default-e2e2b2b3d15e71fb88ce7e880e31f49e.css" media="screen" rel="stylesheet" type="text/css">
 	<meta content="authenticity_token" name="csrf-param">
-<meta content="GoUcGiPq/VNcgUKxTOmgpYQyfpCPnDZtYLW4NwAsCB8=" name="csrf-token">
+<meta content="coE/MSUdgQiudL2SMftRqyaq46V84pyX5bo2Hv2jVQs=" name="csrf-token">
+
+	<script type="text/javascript">
+
+	var _gaq = _gaq || [];
+	_gaq.push(['_require', 'inpage_linkid', '//www.google-analytics.com/plugins/ga/inpage_linkid.js']);
+	_gaq.push(['_setAccount', 'UA-87226-1']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+
+		<script type="text/javascript">
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		ga('create', 'UA-87226-2', 'hhv.de');
+		ga('require', 'ecommerce', 'ecommerce.js');
+		ga('require', 'displayfeatures');
+		ga('require', 'linkid', 'linkid.js');
+		ga('send', 'pageview');
+	</script>
 
 	
+
+		<script type="text/javascript">
+		window.emosTrackVersion = 2;
+	</script>
+
+	<script type="text/javascript" src="http://www.hhv.de/emos2_cm49.3.js"></script>
+
+	<script type="text/javascript">
+		window.emosPropertiesEvent({
+langid: 'en',
+siteid: 'hhv.de',
+pageId: '13e4ae6abdba5fb871005ab33bdda725',
+content: '/shop/en/help/privacy'
+});
+	</script>
+
+
+	
+	<script>(function() {
+		var _fbq = window._fbq || (window._fbq = []);
+		if (!_fbq.loaded) {
+			var fbds = document.createElement('script');
+			fbds.async = true;
+			fbds.src = '//connect.facebook.net/en_US/fbds.js';
+			var s = document.getElementsByTagName('script')[0];
+			s.parentNode.insertBefore(fbds, s);
+			_fbq.loaded = true;
+		}
+		_fbq.push(['addPixelId', '1493577127521018']);
+	})();
+	window._fbq = window._fbq || [];
+	window._fbq.push(['track', 'PixelInitialized', {}]);
+	</script>
+	<noscript><img height="1" width="1" border="0" alt="" style="display:none" src="https://www.facebook.com/tr?id=1493577127521018&ev=NoScript" /></noscript>
+
 </head>
 
 <body class="en">
@@ -35,7 +99,7 @@
 		
 		<div class="segment language_switch_search">
 			<div class="search">
-				<form accept-charset="UTF-8" action="https://www.hhv.de/shop/en/search" class="formtastic search" id="search_new" method="post" novalidate="novalidate"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="GoUcGiPq/VNcgUKxTOmgpYQyfpCPnDZtYLW4NwAsCB8="></div>
+				<form accept-charset="UTF-8" action="https://www.hhv.de/shop/en/search" class="formtastic search" id="new_search" method="post" novalidate="novalidate"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="coE/MSUdgQiudL2SMftRqyaq46V84pyX5bo2Hv2jVQs="></div>
 					<fieldset class="inputs"><ol>
 						<li class="string input optional stringish" id="search_term_input"><input id="search_term" name="search[term]" placeholder="Search ..." type="text">
 
@@ -48,8 +112,8 @@
 			<div class="language_switch clearfix">
 				<div class="text">Language:</div>
 				
-				<a href="http://www.hhv.de/shop/de/kundenservice/datenschutz" class="flag de" title="Deutsch"></a>
-				<a href="http://www.hhv.de/shop/en/customerservice/privacy" class="flag en" title="English"></a>
+				<a href="http://www.hhv.de/shop/de/hilfe/privacy" class="flag de" title="Deutsch"></a>
+				<a href="http://www.hhv.de/shop/en/help/privacy" class="flag en" title="English"></a>
 			</div>
 		</div>
 		
@@ -286,6 +350,32 @@
 				</div>
 			</div>
 		</div>
+
+		<div class="col wide">
+			<div class="segment">
+				<div class="title">
+					hhv.de Music Topseller
+				</div>
+
+				<div class="list">
+					<a href="http://www.hhv.de/shop/en/top100/music-2013" class="entry">Top 100 of 2013</a>
+					<a href="http://www.hhv.de/shop/en/top100/music-2012" class="entry">Top 100 of 2012</a>
+					<span class="entry no_hover">&nbsp;</span>
+				</div>
+			</div>
+
+			<div class="segment mag">
+				<div class="title">
+					hhv.de mag Charts
+				</div>
+
+				<div class="list">
+					<a href="http://www.hhv.de/shop/en/top100/hhv-de-mag-users-rating-vinyl-charts" class="entry">User's Rating Vinyl Charts</a>
+					<a href="http://www.hhv.de/shop/en/top100/hhv-de-mag-editors-rating-vinyl-charts" class="entry">Editors's Rating Vinyl Charts</a>
+					<a href="http://www.hhv.de/shop/en/top100/hhv-de-mag-artist-vinyl-charts" class="entry">Artist &amp; Partner Vinyl Charts</a>
+				</div>
+			</div>
+		</div>
 	</div>
 	
 	<div class="arrow"></div>
@@ -300,13 +390,13 @@
 				
 				<div class="list">
 					<a href="http://www.hhv.de/shop/en/music/all/sale" class="entry">Music</a>
-					<a href="http://www.hhv.de/shop/en/clothing/all/sale" class="entry">Clothing</a>
-					<a href="http://www.hhv.de/shop/en/clothing/men/sale/c:431" class="entry">Clothing Men</a>
-					<a href="http://www.hhv.de/shop/en/clothing/women/sale/c:432" class="entry">Clothing Women</a>
-					<a href="http://www.hhv.de/shop/en/shoes/all/sale" class="entry">Shoes</a>
-					<a href="http://www.hhv.de/shop/en/shoes/men/sale/c:416" class="entry">Shoes Men</a>
-					<a href="http://www.hhv.de/shop/en/shoes/women/sale/c:417" class="entry">Shoes Women</a>
-					<a href="http://www.hhv.de/shop/en/print-and-design/all/sale" class="entry">Print &amp; Design</a>
+					<a href="http://www.hhv.de/shop/en/clothing/all/sale/sort:S" class="entry">Clothing</a>
+					<a href="http://www.hhv.de/shop/en/clothing/men/sale/c:431/sort:S" class="entry">Clothing Men</a>
+					<a href="http://www.hhv.de/shop/en/clothing/women/sale/c:432/sort:S" class="entry">Clothing Women</a>
+					<a href="http://www.hhv.de/shop/en/shoes/all/sale/sort:S" class="entry">Shoes</a>
+					<a href="http://www.hhv.de/shop/en/shoes/men/sale/c:416/sort:S" class="entry">Shoes Men</a>
+					<a href="http://www.hhv.de/shop/en/shoes/women/sale/c:417/sort:S" class="entry">Shoes Women</a>
+					<a href="http://www.hhv.de/shop/en/print-and-design/all/sale/sort:S" class="entry">Print &amp; Design</a>
 					<a href="http://www.hhv.de/shop/en/merchandise/all/sale" class="entry">Merchandise</a>
 					<a href="http://www.hhv.de/shop/en/equipment/all/sale" class="entry">Equipment</a>
 				</div>
@@ -504,7 +594,7 @@
 					<span class="entry no_hover">&nbsp;</span>
 					<a href="http://www.hhv.de/shop/en/clothing/men/c:431" class="entry">News</a>
 					<a href="http://www.hhv.de/shop/en/clothing/men/c:431/sort:S" class="entry">Topseller</a>
-					<a href="http://www.hhv.de/shop/en/clothing/men/sale/c:431" class="entry">Sale</a>
+					<a href="http://www.hhv.de/shop/en/clothing/men/sale/c:431/sort:S" class="entry">Sale</a>
 				</div>
 			</div>
 		</div>
@@ -545,47 +635,57 @@
 					<span class="entry no_hover">&nbsp;</span>
 					<a href="http://www.hhv.de/shop/en/clothing/women/c:432" class="entry">News</a>
 					<a href="http://www.hhv.de/shop/en/clothing/women/c:432/sort:S" class="entry">Topseller</a>
-					<a href="http://www.hhv.de/shop/en/clothing/women/sale/c:432" class="entry">Sale</a>
+					<a href="http://www.hhv.de/shop/en/clothing/women/sale/c:432/sort:S" class="entry">Sale</a>
 				</div>
 			</div>
 		</div>
 		
-		<div class="col">
+		<div class="col wide">
 			<div class="segment">
 				<div class="title">
 					<a href="http://www.hhv.de/shop/en/clothing#clothingpage_brands_box">Top Brands</a>
 				</div>
 				
 				<div class="list">
+					<a href="http://www.hhv.de/shop/en/clothing/all/brand:10-deep" class="entry">10 Deep</a>
 					<a href="http://www.hhv.de/shop/en/clothing/all/brand:adidas" class="entry">adidas</a>
+					<a href="http://www.hhv.de/shop/en/clothing/all/brand:akomplice" class="entry">Akomplice</a>
+					<a href="http://www.hhv.de/shop/en/clothing/all/brand:alife" class="entry">Alife</a>
+					<a href="http://www.hhv.de/shop/en/clothing/all/brand:barbour" class="entry">Barbour</a>
+					<a href="http://www.hhv.de/shop/en/clothing/all/brand:brixton" class="entry">Brixton</a>
 					<a href="http://www.hhv.de/shop/en/clothing/all/brand:carhartt" class="entry">Carhartt</a>
-					<a href="http://www.hhv.de/shop/en/clothing/all/brand:casio" class="entry">Casio</a>
+					<a href="http://www.hhv.de/shop/en/clothing/all/brand:cazal" class="entry">Cazal</a>
+					<a href="http://www.hhv.de/shop/en/clothing/all/brand:cheap-monday" class="entry">Cheap Monday</a>
 					<a href="http://www.hhv.de/shop/en/clothing/all/brand:cleptomanicx" class="entry">Cleptomanicx</a>
+					<a href="http://www.hhv.de/shop/en/clothing/all/brand:diamond-supply-co" class="entry">Diamond Supply Co.</a>
+					<a href="http://www.hhv.de/shop/en/clothing/all/brand:edwin" class="entry">Edwin</a>
 					<a href="http://www.hhv.de/shop/en/clothing/all/brand:fjallraven" class="entry">Fjällräven</a>
-					<a href="http://www.hhv.de/shop/en/clothing/all/brand:fred-perry" class="entry">Fred Perry</a>
+					<a href="http://www.hhv.de/shop/en/clothing/all/brand:g-shock" class="entry">G-Shock</a>
 					<a href="http://www.hhv.de/shop/en/clothing/all/brand:herschel" class="entry">Herschel</a>
-					<a href="http://www.hhv.de/shop/en/clothing/all/brand:huf" class="entry">HUF</a>
-					<a href="http://www.hhv.de/shop/en/clothing/all/brand:iriedaily" class="entry">Iriedaily</a>
-					<a href="http://www.hhv.de/shop/en/clothing/all/brand:lrg" class="entry">LRG</a>
-					<a href="http://www.hhv.de/shop/en/clothing/all/brand:mishka" class="entry">Mishka</a>
 				</div>
 			</div>
 		</div>
 
-		<div class="col joint wide">
+		<div class="col joint">
 			<div class="segment">
 				<div class="title">
 					&nbsp;
 				</div>
 
 				<div class="list">
-						<a href="http://www.hhv.de/shop/en/clothing/all/brand:new-era" class="entry">New Era</a>
+						<a href="http://www.hhv.de/shop/en/clothing/all/brand:huf" class="entry">HUF</a>
+						<a href="http://www.hhv.de/shop/en/clothing/all/brand:komono" class="entry">Komono</a>
+						<a href="http://www.hhv.de/shop/en/clothing/all/brand:mishka" class="entry">Mishka</a>
 						<a href="http://www.hhv.de/shop/en/clothing/all/brand:nike" class="entry">Nike</a>
 						<a href="http://www.hhv.de/shop/en/clothing/all/brand:obey" class="entry">Obey</a>
 						<a href="http://www.hhv.de/shop/en/clothing/all/brand:odd-future-ofwgkta" class="entry">Odd Future (OFWGKTA)</a>
+						<a href="http://www.hhv.de/shop/en/clothing/all/brand:only-ny" class="entry">Only NY</a>
+						<a href="http://www.hhv.de/shop/en/clothing/all/brand:penfield" class="entry">Penfield</a>
+						<a href="http://www.hhv.de/shop/en/clothing/all/brand:staple" class="entry">Staple</a>
 						<a href="http://www.hhv.de/shop/en/clothing/all/brand:stussy" class="entry">Stüssy</a>
-						<a href="http://www.hhv.de/shop/en/clothing/all/brand:the-hundreds" class="entry">The Hundreds</a>
+						<a href="http://www.hhv.de/shop/en/clothing/all/brand:the-north-face" class="entry">The North Face</a>
 						<a href="http://www.hhv.de/shop/en/clothing/all/brand:ucon-acrobatics" class="entry">Ucon Acrobatics</a>
+						<a href="http://www.hhv.de/shop/en/clothing/all/brand:undefeated" class="entry">Undefeated</a>
 						<a href="http://www.hhv.de/shop/en/clothing/all/brand:wemoto" class="entry">Wemoto</a>
 					<a href="http://www.hhv.de/shop/en/clothing#clothingpage_brands_box" class="entry">... all Brands</a>
 				</div>
@@ -595,14 +695,14 @@
 		<div class="col narrow">
 			<div class="segment sale">
 				<div class="title">
-					<a href="http://www.hhv.de/shop/en/clothing/all/sale">Sale</a>
+					<a href="http://www.hhv.de/shop/en/clothing/all/sale/sort:S">Sale</a>
 				</div>
 				
 				<div class="list clearfix">
-					<a href="http://www.hhv.de/shop/en/clothing/all/sale" class="entry">All</a>
-					<a href="http://www.hhv.de/shop/en/clothing/all/sale/ss:0-30" class="entry">0 - 30 %</a>
-					<a href="http://www.hhv.de/shop/en/clothing/all/sale/ss:30-50" class="entry">30 - 50 %</a>
-					<a href="http://www.hhv.de/shop/en/clothing/all/sale/ss:50-*" class="entry">More than 50 %</a>
+					<a href="http://www.hhv.de/shop/en/clothing/all/sale/sort:S" class="entry">All</a>
+					<a href="http://www.hhv.de/shop/en/clothing/all/sale/ss:0-30/sort:S" class="entry">0 - 30 %</a>
+					<a href="http://www.hhv.de/shop/en/clothing/all/sale/ss:30-50/sort:S" class="entry">30 - 50 %</a>
+					<a href="http://www.hhv.de/shop/en/clothing/all/sale/ss:50-*/sort:S" class="entry">More than 50 %</a>
 				</div>
 			</div>
 
@@ -638,7 +738,7 @@
 					<span class="entry no_hover">&nbsp;</span>
 					<a href="http://www.hhv.de/shop/en/shoes/men/c:416" class="entry">News</a>
 					<a href="http://www.hhv.de/shop/en/shoes/men/c:416/sort:S" class="entry">Topseller</a>
-					<a href="http://www.hhv.de/shop/en/shoes/men/sale/c:416" class="entry">Sale</a>
+					<a href="http://www.hhv.de/shop/en/shoes/men/sale/c:416/sort:S" class="entry">Sale</a>
 				</div>
 			</div>
 		</div>
@@ -659,7 +759,7 @@
 					<span class="entry no_hover">&nbsp;</span>
 					<a href="http://www.hhv.de/shop/en/shoes/women/c:417" class="entry">News</a>
 					<a href="http://www.hhv.de/shop/en/shoes/women/c:417/sort:S" class="entry">Topseller</a>
-					<a href="http://www.hhv.de/shop/en/shoes/women/sale/c:417" class="entry">Sale</a>
+					<a href="http://www.hhv.de/shop/en/shoes/women/sale/c:417/sort:S" class="entry">Sale</a>
 				</div>
 			</div>
 		</div>
@@ -689,14 +789,14 @@
 		<div class="col">
 			<div class="segment sale">
 				<div class="title">
-					<a href="http://www.hhv.de/shop/en/shoes/all/sale">Sale</a>
+					<a href="http://www.hhv.de/shop/en/shoes/all/sale/sort:S">Sale</a>
 				</div>
 				
 				<div class="list clearfix">
-					<a href="http://www.hhv.de/shop/en/shoes/all/sale" class="entry">All</a>
-					<a href="http://www.hhv.de/shop/en/shoes/all/sale/ss:0-30" class="entry">0 - 30 %</a>
-					<a href="http://www.hhv.de/shop/en/shoes/all/sale/ss:30-50" class="entry">30 - 50 %</a>
-					<a href="http://www.hhv.de/shop/en/shoes/all/sale/ss:50-*" class="entry">More than 50 %</a>
+					<a href="http://www.hhv.de/shop/en/shoes/all/sale/sort:S" class="entry">All</a>
+					<a href="http://www.hhv.de/shop/en/shoes/all/sale/ss:0-30/sort:S" class="entry">0 - 30 %</a>
+					<a href="http://www.hhv.de/shop/en/shoes/all/sale/ss:30-50/sort:S" class="entry">30 - 50 %</a>
+					<a href="http://www.hhv.de/shop/en/shoes/all/sale/ss:50-*/sort:S" class="entry">More than 50 %</a>
 				</div>
 			</div>
 			
@@ -791,14 +891,14 @@
 		<div class="col">
 			<div class="segment sale">
 				<div class="title">
-					<a href="http://www.hhv.de/shop/en/print-and-design/all/sale">Sale</a>
+					<a href="http://www.hhv.de/shop/en/print-and-design/all/sale/sort:S">Sale</a>
 				</div>
 				
 				<div class="list clearfix">
-					<a href="http://www.hhv.de/shop/en/print-and-design/all/sale" class="entry">All</a>
-					<a href="http://www.hhv.de/shop/en/print-and-design/all/sale/ss:0-30" class="entry">0 - 30 %</a>
-					<a href="http://www.hhv.de/shop/en/print-and-design/all/sale/ss:30-50" class="entry">30 - 50 %</a>
-					<a href="http://www.hhv.de/shop/en/print-and-design/all/sale/ss:50-*" class="entry">More than 50 %</a>
+					<a href="http://www.hhv.de/shop/en/print-and-design/all/sale/sort:S" class="entry">All</a>
+					<a href="http://www.hhv.de/shop/en/print-and-design/all/sale/ss:0-30/sort:S" class="entry">0 - 30 %</a>
+					<a href="http://www.hhv.de/shop/en/print-and-design/all/sale/ss:30-50/sort:S" class="entry">30 - 50 %</a>
+					<a href="http://www.hhv.de/shop/en/print-and-design/all/sale/ss:50-*/sort:S" class="entry">More than 50 %</a>
 				</div>
 			</div>
 			
@@ -1055,112 +1155,369 @@
 		
 		
 		
-		<div id="breadcrumb" class="en customer_service privacy">
+		<div id="breadcrumb" class="en help document_short">
 			<div class="crumb" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
-				<a href="http://www.hhv.de/shop/en" itemprop="url">
-					<span itemprop="title">Home</span>
+					<a href="http://www.hhv.de/shop/en">
+						<span>Home</span>
 </a>			</div>
 
 				<div class="separator">
 					&gt;
 				</div>
 			<div class="crumb" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
-				<a href="" itemprop="url">
-					<span itemprop="title">Customer Service</span>
+					<a href="http://www.hhv.de/shop/en/help" itemprop="url">
+						<span itemprop="title">Help</span>
 </a>			</div>
 
 				<div class="separator">
 					&gt;
 				</div>
 			<div class="crumb" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
-				<a href="http://www.hhv.de/shop/en/customerservice/privacy" itemprop="url">
-					<span itemprop="title">Privacy</span>
+					<a href="http://www.hhv.de/shop/en/help/privacy" itemprop="url">
+						<span itemprop="title">Privacy</span>
 </a>			</div>
 
 </div>
 		
-		<div id="content" class="en customer_service privacy">
-			<div class="first_column">
-	<div class="side_navigation service">
-	<div class="title">
-		Customer Service
+		<div id="content" class="en help document_short document privacy">
+			<div class="header">
+	<a href="http://www.hhv.de/shop/en/help" class="title">Help</a>
+
+	<div class="search">
+		<div class="results hidden" data-not-found="Sorry, but no help document have been found."></div>
+
+		<div class="bar">
+			<input name="help_search" placeholder="Search in Help...">
+
+			<div class="cross hidden"></div>
+
+			<div class="magnifier"></div>
+
+			<div class="button hidden">
+				<span class="icon"></span>
+				<span class="text">Search</span>
+			</div>
+		</div>
 	</div>
-	
-	<ul class="lev1">
-		<li><a href="http://www.hhv.de/shop/en/customerservice/faq" class="">FAQ</a></li>
-		<li><a href="http://www.hhv.de/shop/en/customerservice/shipping" class="">Shipping</a></li>
-		<li><a href="http://www.hhv.de/shop/en/customerservice/imprint" class="">Imprint</a></li>
-		<li><a href="http://www.hhv.de/shop/en/customerservice/contact" class="">Contact</a></li>
-		<li><a href="http://www.hhv.de/shop/en/customerservice/terms" class="">Terms</a></li>
-		<li><a href="http://www.hhv.de/shop/en/customerservice/privacy" class="active">Privacy</a></li>
-		<li><a href="http://www.hhv.de/shop/en/customerservice/purchase" class="">Purchase</a></li>
-		<li><a href="http://www.hhv.de/shop/en/customerservice/jobs" class="">Jobs</a></li>
-		<li><a href="http://www.hhv.de/shop/en/customerservice/newsletter" class="">Newsletter</a></li>
-		<li><a href="http://www.hhv.de/shop/en/customerservice/rss-feed" class="">RSS Feed</a></li>
-		<li><a href="http://www.hhv.de/shop/en/customerservice/advice-for-batteries" class="">Advice for Batteries</a></li>
-		<li><a href="http://www.hhv.de/shop/en/customerservice/free-shipping-worldwide" class="">Free Shipping Worldwide</a></li>
-	</ul>
 
-	
+	<div class="smooth_spacer transparent down">
+	<div></div>
 </div>
 
+	<div class="navigation">
+
+		<div class="node  " data-flyout-anchor="help_navigation_0">
+			<div class="text">
+				Order &amp; Payment
+			</div>
+
+		</div>
+		<div class="node  " data-flyout-anchor="help_navigation_1">
+			<div class="text">
+				Shipping &amp; Delivery
+			</div>
+
+		</div>
+		<div class="node  " data-flyout-anchor="help_navigation_2">
+			<div class="text">
+				Returns &amp; Exchanges
+			</div>
+
+		</div>
+		<div class="node  " data-flyout-anchor="help_navigation_3">
+			<div class="text">
+				My Account
+			</div>
+
+		</div>
+		<div class="node  " data-flyout-anchor="help_navigation_4">
+			<div class="text">
+				Products &amp; Sizes
+			</div>
+
+		</div>
+		<div class="node  " data-flyout-anchor="help_navigation_5">
+			<div class="text">
+				Gift Certificates, Codes, etc.
+			</div>
+
+		</div>
+		<div class="node active last" data-flyout-anchor="help_navigation_6">
+			<div class="text">
+				More Topics
+			</div>
+
+			<div class="arrow">
+				<div class="cut"></div>
+			</div>
+		</div>
+	</div>
+
+	<div class="flyouts">
+		<div class="flyout hidden" data-flyout="help_navigation_0" data-flyout-close-callback="help_navigation_close_flyout" data-flyout-open-callback="help_navigation_open_flyout">
+			<div class="categories clearfix">
+				<div class="category">
+					<div class="title">
+						Order &amp; Payment
+					</div>
+
+					<div class="topics">
+							<a href="http://www.hhv.de/shop/en/help/how-to-order-31" class="topic">How to order</a>
+							<a href="http://www.hhv.de/shop/en/help/how-to-change-your-order-71" class="topic">How to change your order</a>
+							<a href="http://www.hhv.de/shop/en/help/payment-36" class="topic">Payment</a>
+							<a href="http://www.hhv.de/shop/en/help/payment-receipt-54" class="topic">Payment receipt</a>
+							<a href="http://www.hhv.de/shop/en/help/credit-card-payment-55" class="topic">Credit card payment</a>
+							<a href="http://www.hhv.de/shop/en/help/sales-tax-70" class="topic">Sales tax</a>
+					</div>
+				</div>
+
+			</div>
+
+			<div class="arrow"></div>
+		</div>
+		<div class="flyout hidden" data-flyout="help_navigation_1" data-flyout-close-callback="help_navigation_close_flyout" data-flyout-open-callback="help_navigation_open_flyout">
+			<div class="categories clearfix">
+				<div class="category">
+					<div class="title">
+						Shipping &amp; Delivery
+					</div>
+
+					<div class="topics">
+							<a href="http://www.hhv.de/shop/en/help/shipping" class="topic">Shipping</a>
+							<a href="http://www.hhv.de/shop/en/help/delivery-times-express-shipping-29" class="topic">Delivery times &amp; Express shipping</a>
+							<a href="http://www.hhv.de/shop/en/help/store-pick-up-in-berlin-38" class="topic">Store pick-up in Berlin</a>
+							<a href="http://www.hhv.de/shop/en/help/split-shipment-37" class="topic">Split shipment</a>
+							<a href="http://www.hhv.de/shop/en/help/packstation-64" class="topic">Packstation</a>
+					</div>
+				</div>
+
+			</div>
+
+			<div class="arrow"></div>
+		</div>
+		<div class="flyout hidden" data-flyout="help_navigation_2" data-flyout-close-callback="help_navigation_close_flyout" data-flyout-open-callback="help_navigation_open_flyout">
+			<div class="categories clearfix">
+				<div class="category">
+					<div class="title">
+						Returns &amp; Exchanges
+					</div>
+
+					<div class="topics">
+							<a href="http://www.hhv.de/shop/en/help/disclaimer-27" class="topic">Disclaimer</a>
+							<a href="http://www.hhv.de/shop/en/help/returns-28" class="topic">Returns</a>
+							<a href="http://www.hhv.de/shop/en/help/return-costs-30" class="topic">Return costs</a>
+							<a href="http://www.hhv.de/shop/en/help/reimbursement-33" class="topic">Reimbursement</a>
+							<a href="http://www.hhv.de/shop/en/help/exchange-57" class="topic">Exchange</a>
+							<a href="http://www.hhv.de/shop/en/help/no-delivery-58" class="topic">No delivery</a>
+					</div>
+				</div>
+
+			</div>
+
+			<div class="arrow"></div>
+		</div>
+		<div class="flyout hidden" data-flyout="help_navigation_3" data-flyout-close-callback="help_navigation_close_flyout" data-flyout-open-callback="help_navigation_open_flyout">
+			<div class="categories clearfix">
+				<div class="category">
+					<div class="title">
+						My Account
+					</div>
+
+					<div class="topics">
+							<a href="http://www.hhv.de/shop/en/help/orders-69" class="topic">Orders</a>
+							<a href="http://www.hhv.de/shop/en/help/wishlist-8" class="topic">Wishlist</a>
+							<a href="http://www.hhv.de/shop/en/help/newsletter" class="topic">Subscribe to or unsubscribe from our newsletter</a>
+							<a href="http://www.hhv.de/shop/en/help/forgot-your-password-9" class="topic">Forgot your password?</a>
+					</div>
+				</div>
+
+			</div>
+
+			<div class="arrow"></div>
+		</div>
+		<div class="flyout hidden" data-flyout="help_navigation_4" data-flyout-close-callback="help_navigation_close_flyout" data-flyout-open-callback="help_navigation_open_flyout">
+			<div class="categories clearfix">
+				<div class="category">
+					<div class="title">
+						Products &amp; Sizes
+					</div>
+
+					<div class="topics">
+							<a href="http://www.hhv.de/shop/en/help/sizes-for-men-24" class="topic">Sizes for men</a>
+							<a href="http://www.hhv.de/shop/en/help/sizes-for-women-72" class="topic">Sizes for women</a>
+							<a href="http://www.hhv.de/shop/en/help/size-of-shoes-26" class="topic">Size of shoes</a>
+							<a href="http://www.hhv.de/shop/en/help/you-don-t-have-what-i-want-67" class="topic">You don’t have what I want!</a>
+					</div>
+				</div>
+
+			</div>
+
+			<div class="arrow"></div>
+		</div>
+		<div class="flyout hidden" data-flyout="help_navigation_5" data-flyout-close-callback="help_navigation_close_flyout" data-flyout-open-callback="help_navigation_open_flyout">
+			<div class="categories clearfix">
+				<div class="category">
+					<div class="title">
+						Gift Certificates, Codes, etc.
+					</div>
+
+					<div class="topics">
+							<a href="http://www.hhv.de/shop/en/help/how-to-redeem-68" class="topic">How to redeem</a>
+							<a href="http://www.hhv.de/shop/en/help/bonus-items-51" class="topic">Bonus items</a>
+							<a href="http://www.hhv.de/shop/en/help/credits-50" class="topic">Credits</a>
+					</div>
+				</div>
+
+			</div>
+
+			<div class="arrow"></div>
+		</div>
+		<div class="flyout hidden" data-flyout="help_navigation_6" data-flyout-close-callback="help_navigation_close_flyout" data-flyout-open-callback="help_navigation_open_flyout">
+			<div class="categories clearfix">
+				<div class="category">
+					<div class="title">
+						Used Vinyl
+					</div>
+
+					<div class="topics">
+							<a href="http://www.hhv.de/shop/en/help/condition-23" class="topic">Condition</a>
+							<a href="http://www.hhv.de/shop/en/help/exchanging-records-21" class="topic">Exchanging records</a>
+							<a href="http://www.hhv.de/shop/en/help/purchase" class="topic">We purchase from you</a>
+					</div>
+				</div>
+
+				<div class="spacer"></div>
+				<div class="category">
+					<div class="title">
+						Legals &amp; Imprint
+					</div>
+
+					<div class="topics">
+							<a href="http://www.hhv.de/shop/en/help/terms" class="topic">General terms and conditions (GTC) of hhv.de</a>
+							<a href="http://www.hhv.de/shop/en/help/cancellation-notice-5" class="topic">Cancellation notice</a>
+							<a href="http://www.hhv.de/shop/en/help/privacy" class="topic">Privacy</a>
+							<a href="http://www.hhv.de/shop/en/help/imprint" class="topic">Imprint</a>
+							<a href="http://www.hhv.de/shop/en/help/advice-for-batteries-20" class="topic">Advice for Batteries</a>
+					</div>
+				</div>
+
+			</div>
+
+			<div class="arrow"></div>
+		</div>
+	</div>
 </div>
 
-<div class="second_column"></div>
+<h1>Privacy</h1>
 
-<div class="third_column">
-	<h1>Privacy Policy</h1>
-<p>We appreciate your interest in our website. Protecting your privacy is very important to us. Below we provide detailed information on how to deal with your data.</p>
+<div class="columns">
+	<div class="column w20px"></div>
+
+	<div class="column w595px content">
+		<p>We appreciate your interest in our website. Protecting your privacy is very important to us. Below we provide detailed information on how to deal with your data.</p>
 <h2>Collection, processing and use of personal data</h2>
-<p>You can visit our site, without disclosing your person. We only store access data without personal reference, such as the page from which you visit us or the name of the requested file. This data is used solely to improve our offer and do not allow the conclusion on your person. Detailed information on standard server logs, see <a rel="external" href="http://en.wikipedia.org/wiki/Server_log">http://en.wikipedia.org/wiki/Server_log</a>. Personal data are only collected when you ask us in your order for goods or open a customer account or register for our newsletter voluntary. We use the data without your prior consent solely for the purpose of processing the order. With full implementation of the contract and full payment your data will be closed for further use and after the tax and commercial storage periods deleted, unless you have given express consent to the further use of your data. If you registered for the newsletter your email-address will be used for advertising purposes until you unsubscribe from the newsletter. You can unsubscribe at any time.</p>
+<p>You can visit our site, without disclosing your person. We only store access data without personal reference, such as the page from which you visit us or the name of the requested file. This data is used solely to improve our offer and does not allow the conclusion on your person. For detailed information on standard server logs, see <a href="http://en.wikipedia.org/wiki/Server_log" class="resource link resource_23">http://en.wikipedia.org/wiki/Server_log</a>. Personal data are only collected when you voluntarily place an order or open a customer account or register for our newsletter. We use the data without your prior consent solely for the purpose of processing the order. With full implementation of the contract and full payment your data will be closed for further use and deleted after the tax and commercial storage periods, unless you have given explicit consent to the further use of your data. If you registered for the newsletter your email-address will be used for advertising purposes until you unsubscribe from the newsletter. You can unsubscribe at any time.</p>
 <h2>Use of Cookies</h2>
-<p>On several sites we use cookies to make visiting our website attractive and to allow the use of certain functions. Cookies are small text files that are stored on your computer. Most of the cookies used on our webserver will be deleted from your hard drive after the browser session (so-called session cookies).      <span id="result_box" lang="en"><span class="hps">Other cookies</span> <span class="hps">remain on your</span> <span class="hps">computer and allow</span> <span class="hps">us</span> <span class="hps">to recognize your</span> <span class="hps">computer during your</span> <span class="hps atn">next visit (</span><span>so-called persistent</span> <span class="hps">cookies).</span></span>    Our partners are not allowed to collect, to process or use personal information using cookies.</p>
+<p>On several sites we use cookies to make visiting our website attractive and to allow the use of certain functions. Cookies are small text files that are stored on your computer. Most of the cookies used on our webserver will be deleted from your hard drive after the browser session (so-called session cookies). Other cookies remain on your computer and allow us to recognize your computer during your next visit (so-called persistent cookies). Our partners are not allowed to collect, to process or use personal information using cookies.</p>
 <h3>Web analytics by econda GmbH</h3>
-<p>To ensure the tailored design and optimum performance of this website, solutions and technologies by econda GmbH (<a href="http://www.econda.de">www.econda.de</a>) not only collect and store anonymized data, but also utilize this data to compile usage profiles by means of pseudonyms. Cookies can be used for this purpose which make it possible for an Internet browser to be recognized. Without the express consent of a visitor, however, usage profiles will not be stored together with data pertaining to the pseudonymous visitor. IP addresses, in particular, are rendered indecipherable immediately after receipt, which makes it impossible to match a usage profile with an IP address. Visitors to this website can opt out here—at any time—of the collecting and storing of their data: <a href="http://www.econda.de/econda/datenschutz/widerruf-datenspeicherung.html">http://www.econda.de/econda/datenschutz/widerruf-datenspeicherung.html</a></p>
-<h3>Web analytics by AddThis</h3>
-<p>To allow sharing and recommending content, this website employs Clearspring Technologies Inc.’s AddThis service (<a href="http://www.addthis.com">http://www.addthis.com</a>). In the course of using this service, anonymized data are collected and stored to later be utilized to compile pseudonymous usage profiles. Said profiles are being used for analyzing visitor behavior, in order to ensure the optimization and adequate design of this website, and also for online ad targeting. Cookies, which allow for the recognition of users upon revisiting the website, can be utilized for these purposes. Without the concerned visitor’s express consent, the above-mentioned usage profiles will not be joined with data pertaining to the pseudonymous visitor. Visitors to this website can – at any time – opt out of the collection and storage of their data for online ad targeting purposes by clicking on the “opt-out” button here: <a href="http://www.addthis.com/advertising-choices">http://www.addthis.com/advertising-choices</a></p>
-
+<p>To ensure the tailored design and optimum performance of this website, solutions and technologies by econda GmbH (<a href="http://www.econda.de/" class="resource link resource_24">http://www.econda.de</a>) not only collect and store anonymized data, but also use this data to compile usage profiles by means of pseudonyms. Cookies can be used for this purpose which make it possible for an Internet browser to be recognized. Without the express consent of a visitor, however, usage profiles will not be stored together with data pertaining to the pseudonymous visitor. IP addresses, in particular, are rendered indecipherable immediately after receipt, which makes it impossible to match a usage profile with an IP address. Visitors of our website can disagree the collecting and storing of their data here: <a href="http://www.econda.com/econda/company/data-protection/revocation-of-data-storage/" class="resource link resource_25">http://www.econda.com/econda/company/data-protection/revocation-of-data-storage/</a></p>
 <h3>Web analytics by Google Inc.</h3>
-<p>This website uses Google Analytics, a web analytics service provided by Google Inc. ("Google"). Google Analytics uses "cookies", text files that are stored on your computer, to analyze the use of the website. The information generated by the cookie about your use of this site are usually transmitted to a Google server in the USA and stored there. In the case of activation of IP anonymization on this website, your IP address from Google will be truncated within Member States of the European Union or other parties to the Agreement on the European Economic Area before. Only in exceptional cases the full IP address is sent to a Google server in the USA where it shortened. On behalf of the site owner Google will use this information to evaluate your use of the website, compiling reports on website activity together and to provide other use of the website and internet related services with respect to the website owner. As part of Google Analytics provided by your browser IP address will not be merged with other data from Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, we would point out, however, that in this case you may not be able to use all features of this site will be fully.<br>
-<br>
-They may also prevent the detection of the cookie generated by and related to your use of the website (including your IP address) to Google and the processing of these data by Google by downloading the available at the following link browser plugin and install <a href="http://tools.google.com/dlpage/gaoptout?hl=de">http://tools.google.com/dlpage/gaoptout?hl=de</a></p>
-
+<p>This website uses Google Analytics, a web analytics service provided by Google Inc. (“Google”). Google Analytics uses “cookies”, text files that are stored on your computer, to analyze the use of the website. The information generated by the cookie about your use of this site are usually transmitted to a Google server in the <span class="caps">USA</span> and stored there. In the case of activation of IP anonymization on this website, your IP address from Google will be truncated within Member States of the European Union or other parties to the Agreement on the European Economic Area before. Only in exceptional cases the full IP address is sent to a Google server in the <span class="caps">USA</span> where it shortened. On behalf of the site owner Google will use this information to evaluate your use of the website, compiling reports on website activity together and to provide other use of the website and internet related services with respect to the website owner. The IP address provided from your browser within the framework of Google Analytics will not be merged with other data from Google. You may refuse the use of cookies by selecting the appropriate settings on your browser. We would like point out, however, that in this case you may not be able to fully use all features of this site.</p>
+<p>You may also prevent the detection of the cookie generated by and related to your use of the website (including your IP address) to Google and the processing of these data by Google by downloading and installing the available browser pluginat the following link <a href="https://tools.google.com/dlpage/gaoptout?hl=en" class="resource link resource_26">http://tools.google.com/dlpage/gaoptout?hl=en</a></p>
 <h2>Disclosure of personal data</h2>
-<p>A transfer of data takes place only to the shipping company that we outsource the delivery of your order, as they are required to deliver the goods. For the settlement of payments your payment information will be transferred only to the credit institute responsible for your payment.</p>
+<p>A transmission of personal data takes place only to the shipping company that we outsource the delivery of your order, as they are required to deliver the goods. For the processing of payments your payment information will be transferred only to the credit institute responsible for your payment.</p>
 <h2>Right to information</h2>
 <p>According to the Federal Data Protection Act you have a right to free information about your stored data, and to the right to correct, block or delete this data.</p>
 <h2>Data Security</h2>
-<p>Your personal data is encrypted in the ordering process via SSL standard transmitted over the Internet. Credit card information is not stored, but directly collected and processed from our payment services provider "ipayment" by 1&amp; 1 Internet AG. We secure our website and other systems through technical and organizational measures against loss, destruction, access, modification or distribution of your data by unauthorized persons. The access to your account is only possible by entering your personal password. You should keep your access information confidential and close the browser window when you have finished your communications with us, especially if you share the computer with others.</p>
+<p>Your personal data is encrypted in the ordering process via <span class="caps">SSL</span> standard transmitted over the Internet. Credit card information is not stored, but directly collected and processed from our payment services provider “ipayment” by 1&amp; 1 Internet AG. We secure our website and other systems through technical and organizational measures against loss, destruction, access, modification or distribution of your data by unauthorized persons. The access to your account is only possible by entering your personal password. You should keep your access information confidential and close the browser window when you have finished your communications with us, especially if you share the computer with others.</p>
 <h2>Withdrawal of consent</h2>
-<p>The following consents you have given back during the ordering process explicitly. Please note that your consent at any time may revoke for the future.</p>
+<p>During the ordering process you have explicitly accepted the agreements given below. Please note that your consent can be revoked at any time.</p>
 <h3>Permission to email advertising</h3>
-<p style="text-align: center;"><img alt="newsletter" style="border: 1px solid #000000;" src="http://assets.hhv.de/images/newsletter_new_register_en.png"><br>
-<br>
-<a href="http://www.hhv.de/shop/en/customerservice/newsletter">Newsletter</a></p>
-<p style="text-align: left">&nbsp;</p>
-<h2>Use of Facebook social Plugins<br>
-&nbsp;</h2>
-<p style="margin-bottom: 0cm">&nbsp;</p>
-<p style="margin-bottom: 0cm">This website uses so-called social      plugins ("Plugins") of the social network Facebook, which      is operated from the Facebook Inc., 1601 S. California Ave, Palo      Alto, CA 94304, USA ("Facebook"). The plugins are a      Facebook logo or the words "social plug-in from Facebook"      or marked as "Facebook social Plugin". An overview of the      Facebook plugins and their appearance can be found here:      <a href="http://developers.facebook.com/plugins">http://developers.facebook.com/plugins</a><br>
-&nbsp;</p>
-<p style="margin-bottom: 0cm">If you request a page of our website,      which contains such a plugin your browser builds a direct connection      to the servers of Facebook. The content of the plugin will be sent      directly to your browser and from there it will be incorporated in      the website.<br>
-&nbsp;</p>
-<p style="margin-bottom: 0cm">By integrating the plugin Facebook      receives the information that your browser has accessed the certain      page of our website, even if you don't have a Facebook account or are      not currently logged into Facebook. This information (including your      IP address) will be sent directly from your browser to a server of      Facebook in the U.S. and stored there.<br>
-&nbsp;</p>
-<p style="margin-bottom: 0cm">If you are logged into Facebook,      Facebook can assign your visit of our website to your Facebook      account directly. If you interact with the plugins, for example, by      pressing the "Like" button or by using the comment      function, the corresponding information is also transmitted directly      to a server of Facebook and stored there. The information is also      posted on Facebook and can be seen by your Facebook friends.<br>
-&nbsp;</p>
-<p style="margin-bottom: 0cm">Facebook may use this information for      purposes of advertising, market research and personalized design of      Facebook pages. For this purpose, Facebook creates user-, interest-      and relationship profiles, such as your use of our website can be      evaluated in order to present you individualised onscreen      advertisements, to inform other Facebook users about your activities      on our website and to  provide further Facebook related services.<br>
-&nbsp;</p>
-<p style="margin-bottom: 0cm">If you do not want Facebook to      allocates the collected data via our website to your Facebook      account, you must log out before you visit our site on Facebook.<br>
-&nbsp;</p>
-<p style="margin-bottom: 0cm">Purpose and scope of this data      collection and the further processing and use of this data by      Facebook, and your rights and settings taken to protect your privacy      can be found in the privacy notices of Facebook:      <a href="http://www.facebook.com/policy.php">http://www.facebook.com/policy.php</a></p>
-<p>&nbsp;</p>
-<p style="text-align: center;">&nbsp;</p>
-	
-	<div class="smooth_spacer up">
-	<div></div>
+<div class="resource image resource_22"><div class="inline"><img src="http://assets.hhv.de/images/shop_help_images/en/inline/screenshot_export__newsletter_en_6742a251e6009da5214992b2d0303a19.png" alt="Newsletter Subscribe and Unsubscribe" title="Newsletter Subscribe and Unsubscribe"><div class="zoom" data-flyout-anchor="help_resource_22" data-flyout-anchor-mode="click"></div><p></p></div><div class="popup hidden" data-flyout="help_resource_22" data-flyout-close-mode="click" data-flyout-open-callback="help_resource_flyout_open" data-flyout-close-callback="help_resource_flyout_close"><img src="http://assets.hhv.de/images/shop_help_images/en/popup/screenshot_export__newsletter_en_6742a251e6009da5214992b2d0303a19.png" alt="Newsletter Subscribe and Unsubscribe" title="Newsletter Subscribe and Unsubscribe"><div class="close"></div></div></div><p></p>
+<p><a href="http://www.hhv.de/shop/en/help/newsletter" class="document reference document_15">Goto Newsletter-Page</a></p>
+<h2>Use of Facebook social Plugins</h2>
+<p>This website uses so-called social plugins (“Plugins”) of the social network Facebook, which is operated from the Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, <span class="caps">USA</span> (“Facebook”). The plugins are a Facebook logo or the words “social plug-in from Facebook” or marked as “Facebook social Plugin”. An overview of the Facebook plugins and their appearance can be found here: <a href="http://developers.facebook.com/docs/plugins/" class="resource link resource_28">http://developers.facebook.com/plugins</a></p>
+<p>If you visit a page of our website which contains such a plugin, your browser builds a direct connection to the servers of Facebook. The content of the plugin will be sent directly to your browser and from there it will be incorporated in the website.</p>
+<p>By integrating the plugin Facebook receives the information that your browser has accessed the corresponding page of our website, even if you don’t have a Facebook account or are not currently logged into Facebook. This information (including your IP address) will be sent directly from your browser to a server of Facebook in the U.S. and stored there.</p>
+<p>If you are logged into Facebook, Facebook can assign your visit of our website to your Facebook account directly. If you interact with the plugins, for example, by pressing the “Like” button or by using the comment function, the corresponding information is also transmitted directly to a server of Facebook and stored there. The information is also posted on Facebook and can be seen by your Facebook friends.</p>
+<p>Facebook may use this information for purposes of advertising, market research and personalized design of Facebook pages. For this purpose, Facebook creates user-, interest- and relationship profiles, such as your use of our website can be evaluated in order to present you individualised onscreen advertisements, to inform other Facebook users about your activities on our website and to provide further Facebook related services.</p>
+<p>If you do not want Facebook to allocates the collected data via our website to your Facebook account, you must log out before you visit our site.</p>
+<p>Purpose and scope of this data collection and the further processing and use of this data by Facebook, and your rights and settings taken to protect your privacy can be found in the privacy notices of Facebook: <a href="https://www.facebook.com/about/privacy/" class="resource link resource_27">http://www.facebook.com/about/privacy/</a></p>
+	</div>
+
+	<div class="column w40px"></div>
+
+	<div class="column w295px side">
+		<div class="related_information">
+	<div class="title">
+		More Information
+	</div>
+
+	<div class="entries">
+
+		<a href="http://www.hhv.de/shop/en/help/terms" class="entry">General terms and conditions (GTC) of hhv.de</a>
+		<a href="http://www.hhv.de/shop/en/help/cancellation-notice-5" class="entry">Cancellation notice</a>
+		<a href="http://www.hhv.de/shop/en/help/imprint" class="entry">Imprint</a>
+		<a href="http://www.hhv.de/shop/en/help/advice-for-batteries-20" class="entry">Advice for Batteries</a>
+
+	</div>
 </div>
-	
+
+	</div>
+
+	<div class="column w20px"></div>
+</div>
+
+<div class="rating">
+	<div class="title">
+		How helpful was this document to you?
+	</div>
+
+	<div class="login">
+		<div class="text">
+			Please log in <a href="https://www.hhv.de/shop/en/profile/login">here</a> to rate this document.
+		</div>
+
+		<a href="https://www.hhv.de/shop/en/profile/login" class="button">Login</a>
+	</div>
+</div>
+
+<div class="footer">
+	<div class="box">
+		<div class="contact">
+			<a href="http://www.hhv.de/shop/en/help/contact#9-16" class="form">Contact Customer Service</a>
+
+			<div class="hotline">
+				Service-Hotline: +49(0)30 29 38 12 40 – Monday - Friday 9am - 7pm
+			</div>
+		</div>
+
+		<div class="service">
+			<div class="feature shipping_free_in_germany">
+				No Shipping Costs in Germany above 80 €
+			</div>
+
+			<div class="feature shipping_ready_in">
+				Ready for Shipment 24h
+			</div>
+
+			<div class="feature free_retour">
+				Free Returns<span class="annotation_anchor">
+	*
+	<span class="annotation hidden">Free returns are available for shipments inside of Germany for returns with a value of goods above 40,- €.</span>
+</span>
+			</div>
+
+			<div class="feature retour_for_x_days">
+				30 Days Return<span class="annotation_anchor">
+	*
+	<span class="annotation hidden">You can return all items without any reason within 30 days after you have received the shipment. Details about your rights of cancellation can be found on the following site under the point <a href="http://www.hhv.de/shop/en/help/terms" rel="external">cancellation notice</a>.</span>
+</span>
+			</div>
+		</div>
+	</div>
+
+
 	<a href="javascript:scroll(0,0)" class="back_to_top">Back To Top</a>
 </div>
 		</div>
@@ -1169,9 +1526,9 @@ They may also prevent the detection of the cookie generated by and related to yo
 	<div class="upper">
 		<div class="service_links">
 			<ul>
-				<li><a href="http://www.hhv.de/shop/en/customerservice/faq">FAQ</a></li>
-				<li><a href="http://www.hhv.de/shop/en/customerservice/shipping">Shipping</a></li>
-				<li class="last"><a href="http://www.hhv.de/shop/en/customerservice/contact">Contact</a></li>
+				<li><a href="http://www.hhv.de/shop/en/help">Help</a></li>
+				<li><a href="http://www.hhv.de/shop/en/help/shipping">Shipping</a></li>
+				<li class="last"><a href="http://www.hhv.de/shop/en/help/contact">Contact</a></li>
 			</ul>
 			
 			<hr>
@@ -1184,19 +1541,19 @@ They may also prevent the detection of the cookie generated by and related to yo
 		
 		<div class="internal_links">
 			<ul>
-				<li><a href="http://www.hhv.de/shop/en/customerservice/imprint">Imprint</a></li>
-				<li><a href="http://www.hhv.de/shop/en/customerservice/terms">Terms</a></li>
-				<li><a href="http://www.hhv.de/shop/en/customerservice/privacy">Privacy</a></li>
-				<li><a href="http://www.hhv.de/shop/en/customerservice/purchase">Purchase</a></li>
-				<li class="last"><a href="http://www.hhv.de/shop/en/customerservice/jobs">Jobs</a></li>
+				<li><a href="http://www.hhv.de/shop/en/help/imprint">Imprint</a></li>
+				<li><a href="http://www.hhv.de/shop/en/help/terms">Terms</a></li>
+				<li><a href="http://www.hhv.de/shop/en/help/privacy">Privacy</a></li>
+				<li><a href="http://www.hhv.de/shop/en/help/purchase">Purchase</a></li>
+				<li class="last"><a href="http://www.hhv.de/shop/en/help/jobs">Jobs</a></li>
 			</ul>
 		</div>
 		
 		<div class="external_links">
 			<ul>
 				<li><a href="http://www.hhv-mag.com/" rel="external">hhv.de mag</a></li>
-				<li><a href="http://selectedstore.hhv.de/blog/store" rel="external">HHV.DE selected STORE</a></li>
-				<li><a href="http://selectedstore.hhv.de/blog/" rel="external">Blog</a></li>
+				<li><a href="http://www.hhv.de/shop/en/store">hhv.de Store</a></li>
+				<li><a href="https://www.facebook.com/hhvdestore" rel="external">hhv.de Store Blog</a></li>
 				<li><a href="http://www.hhv.de/shop/en/releases">Label/Releases</a></li>
 				<li class="last"><a href="http://www.projectmooncircle.com/" rel="external">Project: Mooncircle</a></li>
 			</ul>
@@ -1206,7 +1563,7 @@ They may also prevent the detection of the cookie generated by and related to yo
 			<ul>
 				<li><a href="http://www.facebook.com/HHV.DE?ref=ts" class="icon big facebook" rel="external">Facebook</a></li>
 				<li><a href="http://twitter.com/hhvde" class="icon big twitter" rel="external">Twitter</a></li>
-				<li class="last"><a href="http://www.hhv.de/shop/en/customerservice/rss-feed" class="icon big rss">RSS Feed</a></li>
+				<li class="last"><a href="http://www.hhv.de/shop/en/help/rss-feed" class="icon big rss">RSS Feed</a></li>
 			</ul>
 		</div>
 		
@@ -1214,7 +1571,7 @@ They may also prevent the detection of the cookie generated by and related to yo
 			<div class="newsletter">
 				<span class="strong">Newsletter</span> <span class="bright">subscribe</span><br>
 				
-				<form accept-charset="UTF-8" action="http://www.hhv.de/shop/en/customerservice/newsletter" class="clearfix formtastic newsletter_recipient" id="newsletter_recipient_new" method="post" novalidate="novalidate"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="GoUcGiPq/VNcgUKxTOmgpYQyfpCPnDZtYLW4NwAsCB8="></div>
+				<form accept-charset="UTF-8" action="http://www.hhv.de/shop/en/help/newsletter" class="clearfix formtastic newsletter_recipient" id="new_newsletter_recipient" method="get" novalidate="novalidate"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div>
 					<fieldset class="inputs"><ol>
 						<li class="hidden input required" id="newsletter_recipient_mode_input"><input id="newsletter_recipient_mode" name="newsletter_recipient[mode]" type="hidden" value="in">
 
@@ -1227,9 +1584,9 @@ They may also prevent the detection of the cookie generated by and related to yo
 						<li class="action button_action " id="newsletter_recipient_submit_action"><button data-disable-with="Subscribe..." name="button" type="submit">Subscribe</button></li>
 </ol></fieldset></form>				
 				<div class="links">
-					<a href="http://www.hhv.de/shop/en/customerservice/privacy" class="light">Privacy</a>
+					<a href="http://www.hhv.de/shop/en/help/privacy" class="light">Privacy</a>
 				 	<span class="separator">|</span>
-					<a href="http://www.hhv.de/shop/en/customerservice/newsletter" class="light">Unsubscribe</a>
+					<a href="http://www.hhv.de/shop/en/help/newsletter" class="light">Unsubscribe</a>
 				</div>
 			</div>
 
@@ -1244,8 +1601,8 @@ They may also prevent the detection of the cookie generated by and related to yo
 					Shipping:
 				</div>
 
-				<a href="http://www.hhv.de/shop/en/customerservice/terms#payment_terms" class="payment"></a>
-				<a href="http://www.hhv.de/shop/en/customerservice/shipping" class="shipping"></a>
+				<a href="http://www.hhv.de/shop/en/help/terms" class="payment"></a>
+				<a href="http://www.hhv.de/shop/en/help/shipping" class="shipping"></a>
 			</div>
 		</div>
 	</div>
@@ -1255,6 +1612,8 @@ They may also prevent the detection of the cookie generated by and related to yo
 	<div class="lower">
 		
 		<div class="brands">
+			<a href="http://www.hhv.de/shop/en/brands/10-deep" class="light">10 Deep</a>
+			<span class="separator">|</span>
 			<a href="http://www.hhv.de/shop/en/brands/acapulco-gold" class="light">Acapulco Gold</a>
 			<span class="separator">|</span>
 			<a href="http://www.hhv.de/shop/en/brands/acrylick" class="light">Acrylick</a>
@@ -1263,7 +1622,7 @@ They may also prevent the detection of the cookie generated by and related to yo
 			<span class="separator">|</span>
 			<a href="http://www.hhv.de/shop/en/brands/akomplice" class="light">Akomplice</a>
 			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/anything" class="light">aNYthing</a>
+			<a href="http://www.hhv.de/shop/en/brands/alife" class="light">Alife</a>
 			<span class="separator">|</span>
 			<a href="http://www.hhv.de/shop/en/brands/asics" class="light">Asics</a>
 			<span class="separator">|</span>
@@ -1279,6 +1638,12 @@ They may also prevent the detection of the cookie generated by and related to yo
 			<span class="separator">|</span>
 			<a href="http://www.hhv.de/shop/en/brands/carhartt" class="light">Carhartt</a>
 			<span class="separator">|</span>
+			<a href="http://www.hhv.de/shop/en/brands/casio" class="light">Casio</a>
+			<span class="separator">|</span>
+			<a href="http://www.hhv.de/shop/en/brands/cayler-sons" class="light">Cayler &amp; Sons</a>
+			<span class="separator">|</span>
+			<a href="http://www.hhv.de/shop/en/brands/cazal" class="light">Cazal</a>
+			<span class="separator">|</span>
 			<a href="http://www.hhv.de/shop/en/brands/cheap-monday" class="light">Cheap Monday</a>
 			<span class="separator">|</span>
 			<a href="http://www.hhv.de/shop/en/brands/clae" class="light">Clae</a>
@@ -1288,8 +1653,6 @@ They may also prevent the detection of the cookie generated by and related to yo
 			<a href="http://www.hhv.de/shop/en/brands/cleptomanicx" class="light">Cleptomanicx</a>
 			<span class="separator">|</span>
 			<a href="http://www.hhv.de/shop/en/brands/diamond-supply-co" class="light">Diamond Supply Co.</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/diemme" class="light">Diemme</a>
 			<span class="separator">|</span>
 			<a href="http://www.hhv.de/shop/en/brands/drmtm" class="light">DRMTM</a>
 			<span class="separator">|</span>
@@ -1311,15 +1674,19 @@ They may also prevent the detection of the cookie generated by and related to yo
 			<span class="separator">|</span>
 			<a href="http://www.hhv.de/shop/en/brands/huf" class="light">HUF</a>
 			<span class="separator">|</span>
+			<a href="http://www.hhv.de/shop/en/brands/i-love-ugly" class="light">I Love Ugly</a>
+			<span class="separator">|</span>
 			<a href="http://www.hhv.de/shop/en/brands/iriedaily" class="light">Iriedaily</a>
 			<span class="separator">|</span>
 			<a href="http://www.hhv.de/shop/en/brands/jordan-brand" class="light">Jordan Brand</a>
 			<span class="separator">|</span>
+			<a href="http://www.hhv.de/shop/en/brands/komono" class="light">Komono</a>
+			<span class="separator">|</span>
+			<a href="http://www.hhv.de/shop/en/brands/le-coq-sportif" class="light">Le Coq Sportif</a>
+			<span class="separator">|</span>
 			<a href="http://www.hhv.de/shop/en/brands/lee" class="light">Lee</a>
 			<span class="separator">|</span>
 			<a href="http://www.hhv.de/shop/en/brands/levi-s" class="light">Levi's</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/lrg" class="light">LRG</a>
 			<span class="separator">|</span>
 			<a href="http://www.hhv.de/shop/en/brands/melting-pot-music" class="light">Melting Pot Music</a>
 			<span class="separator">|</span>
@@ -1335,11 +1702,19 @@ They may also prevent the detection of the cookie generated by and related to yo
 			<span class="separator">|</span>
 			<a href="http://www.hhv.de/shop/en/brands/nike" class="light">Nike</a>
 			<span class="separator">|</span>
+			<a href="http://www.hhv.de/shop/en/brands/nike-sb" class="light">Nike SB</a>
+			<span class="separator">|</span>
 			<a href="http://www.hhv.de/shop/en/brands/ninja-tune" class="light">Ninja Tune</a>
+			<span class="separator">|</span>
+			<a href="http://www.hhv.de/shop/en/brands/nixon" class="light">Nixon</a>
 			<span class="separator">|</span>
 			<a href="http://www.hhv.de/shop/en/brands/obey" class="light">Obey</a>
 			<span class="separator">|</span>
 			<a href="http://www.hhv.de/shop/en/brands/odd-future-ofwgkta" class="light">Odd Future (OFWGKTA)</a>
+			<span class="separator">|</span>
+			<a href="http://www.hhv.de/shop/en/brands/only-ny" class="light">Only NY</a>
+			<span class="separator">|</span>
+			<a href="http://www.hhv.de/shop/en/brands/penfield" class="light">Penfield</a>
 			<span class="separator">|</span>
 			<a href="http://www.hhv.de/shop/en/brands/pointer" class="light">Pointer</a>
 			<span class="separator">|</span>
@@ -1347,19 +1722,23 @@ They may also prevent the detection of the cookie generated by and related to yo
 			<span class="separator">|</span>
 			<a href="http://www.hhv.de/shop/en/brands/puma" class="light">Puma</a>
 			<span class="separator">|</span>
+			<a href="http://www.hhv.de/shop/en/brands/reebok" class="light">Reebok</a>
+			<span class="separator">|</span>
 			<a href="http://www.hhv.de/shop/en/brands/rhymesayers" class="light">Rhymesayers</a>
 			<span class="separator">|</span>
 			<a href="http://www.hhv.de/shop/en/brands/rockwell" class="light">Rockwell</a>
 			<span class="separator">|</span>
 			<a href="http://www.hhv.de/shop/en/brands/saucony" class="light">Saucony</a>
 			<span class="separator">|</span>
+			<a href="http://www.hhv.de/shop/en/brands/stance" class="light">Stance</a>
+			<span class="separator">|</span>
 			<a href="http://www.hhv.de/shop/en/brands/staple" class="light">Staple</a>
+			<span class="separator">|</span>
+			<a href="http://www.hhv.de/shop/en/brands/starter" class="light">Starter</a>
 			<span class="separator">|</span>
 			<a href="http://www.hhv.de/shop/en/brands/stones-throw" class="light">Stones Throw</a>
 			<span class="separator">|</span>
 			<a href="http://www.hhv.de/shop/en/brands/stussy" class="light">Stüssy</a>
-			<span class="separator">|</span>
-			<a href="http://www.hhv.de/shop/en/brands/supra" class="light">Supra</a>
 			<span class="separator">|</span>
 			<a href="http://www.hhv.de/shop/en/brands/technics" class="light">Technics</a>
 			<span class="separator">|</span>
@@ -1391,7 +1770,7 @@ They may also prevent the detection of the cookie generated by and related to yo
 		</div>
 		
 		<div class="copyright">
-			© 2004-2013 hhv.de
+			© 2004-2014 hhv.de
 		</div>
 	</div>
 </div>
@@ -1425,56 +1804,17 @@ They may also prevent the detection of the cookie generated by and related to yo
 	<div class="base hidden">http://www.hhv.de/</div>
 	<div class="ajax_base hidden">http://www.hhv.de/shop/ajax/</div>
 	
-	<script src="/assets/default-aca60aaad088161b333bebe8bfebfa29.js" type="text/javascript"></script>
-
-	<!-- Econda -->
-<script type="text/javascript">
-    window.emosTrackVersion = 2;
-</script>
-<script type="text/javascript" src="/emos2_cm48.1.js"></script>
-<script type="text/javascript">
-    var emospro = {};
-    emospro.content = '/shop/en/customerservice/privacy';
-    emospro.siteid = 'hhv.de';
-    emospro.langid = 'en';
-    emospro.pageId = '235f12b2000668d19e9007b1197b9174';
-    if(typeof(window.emosPropertiesEvent) == 'function') {
-        window.emosPropertiesEvent(emospro);
-    }
-</script>
-
-
-	
-	<script type="text/javascript">
-	var _gaq = _gaq || [];
-	_gaq.push(['_setAccount', 'UA-87226-1']);
-	_gaq.push(['_trackPageview']);
-
-	(function() {
-		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-	})();
-</script>
+	<script src="/assets/default-4413e1a64b7aa8e0e8816732b857359f.js" type="text/javascript"></script>
 
 	<div id="fb-root"></div>
-<script>(function(d, s, id) {
-	var js, fjs = d.getElementsByTagName(s)[0];
-	if (d.getElementById(id)) return;
-	js = d.createElement(s); js.id = id;
-	js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
-	fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-<script type="text/javascript">if (typeof NREUMQ !== "undefined") { if (!NREUMQ.f) { NREUMQ.f=function() {
-NREUMQ.push(["load",new Date().getTime()]);
-var e=document.createElement("script");
-e.type="text/javascript";
-e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" +
-  "js-agent.newrelic.com/nr-100.js";
-document.body.appendChild(e);
-if(NREUMQ.a)NREUMQ.a();
-};
-NREUMQ.a=window.onload;window.onload=NREUMQ.f;
-};
-NREUMQ.push(["nrfj","beacon-5.newrelic.com","20a46eb852","1120066","dVpWFUZZWFlQQEtVDxlWTRJAWVlQR20XVRNAXFsEG0ZGXENTB0k=",0,155,new Date().getTime(),"","","","",""]);}</script>
-<script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
+<script>
+	(function(d, s, id) {
+		var js, fjs = d.getElementsByTagName(s)[0];
+		if (d.getElementById(id)) return;
+		js = d.createElement(s); js.id = id;
+		js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+		fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));
+</script>
+
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
