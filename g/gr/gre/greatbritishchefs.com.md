@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greatbritishchefs.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125130514id_/http%3A//www.greatbritishchefs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatbritishchefs.com privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527051158id_/http%3A//www.greatbritishchefs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Great British Chefs - Great British Chefs
 
@@ -53,7 +53,13 @@ We want to make sure that your personal information is accurate and up to date. 
 
 Our website contains links to other websites. This Privacy Policy only applies to this website, so when you access other websites via our links you should read their own privacy policies.
 
-**6 Our details**
+**6 Site Usage**
+
+Images uploaded by individuals using the Great British Chefs website or any of its channels must not contain, promote, have links to sexually explicit materials, hate material, promotion of violence, discrimination based on race, sex, religion, nationality, disability, sexual orientation, age, or family status, or any other materials deemed unsuitable or harmful by Great British Chefs.
+
+Images must not promote illegal activities or violate the intellectual property rights of others.
+
+**7 Our details**
 
 www.greatbritishchefs.com is a website owned and operated by Great British Chefs Limited.
 
