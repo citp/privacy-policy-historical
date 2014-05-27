@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the plus-model-mag.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126003346id_/http%3A//www.plus-model-mag.com/about-2/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plus-model-mag.com privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527152819id_/http%3A//www.plus-model-mag.com/about-2/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | PLUS Model Magazine
+# Privacy Policy - PLUS Model Mag
 
 This Privacy Policy governs the manner in which PLUS Model Magazine collects, uses, maintains and discloses information collected from users (each, a “User”) of the [plus-model-mag.com](http://www.plus-model-mag.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by PLUS Model Magazine.
 
