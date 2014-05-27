@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the safeschools.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209005319id_/http%3A//www.safeschools.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safeschools.com privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527210047id_/http%3A//www.safeschools.com/privacy.php) for the most accurate reproduction.*
 
 # School Safety Training, K-12 Safety Training, SafeSchools.com – SafeSchools
 
