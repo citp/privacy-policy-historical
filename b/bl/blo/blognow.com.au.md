@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blognow.com.au privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231164806id_/http%3A//www.blognow.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blognow.com.au privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527190934id_/http%3A//www.blognow.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy | BlogNow
 
