@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pknic.net.pk privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818011825id_/http%3A//pk6.pknic.net.pk/pk5/pgPrivacy.PK) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pknic.net.pk privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527133706id_/http%3A//pk6.pknic.net.pk/pk5/pgPrivacy.PK) for the most accurate reproduction.*
 
 # PKNIC
 
