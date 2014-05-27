@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the helpingwithmath.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126130935id_/http%3A//www.helpingwithmath.com/about_us/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helpingwithmath.com privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527140720id_/http%3A//www.helpingwithmath.com/about_us/privacy.htm) for the most accurate reproduction.*
 
 # helpingwithmath.com - Privacy Policy
-
-Custom Search 
 
 Your privacy is important to HelpingWithMath.com. We have created this privacy statement to show our commitment to privacy. 
 
@@ -19,4 +17,4 @@ We use third-party advertising companies to serve ads when you visit our website
 
 If we keep your email address we will not use it for any purpose other than that which we specifically tell you. We will not pass your email address to any other person or company without your permission.
 
-If you have any questions about this Privacy Policy please [contact the HelpingWithMath.com team](https://web.archive.org/web/20131126130935id_/http%3A//www.helpingwithmath.com/about_us/where.htm)
+If you have any questions about this Privacy Policy please [contact the HelpingWithMath.com team](https://web.archive.org/web/20140527140720id_/http%3A//www.helpingwithmath.com/about_us/where.htm)
