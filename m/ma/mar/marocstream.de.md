@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the marocstream.de privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820105829id_/http%3A//www.marocstream.de/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marocstream.de privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527034618id_/http%3A//www.marocstream.de/privacypolicy) for the most accurate reproduction.*
 
 # MarocStream Privacy Policy | MarocStream
 
-Privacy Policy MarocStream privacy policy.
-
-[](http://www.ebates.com/rf.do?referrerid=wE49kxdZrMuZR1YphI4oxw%3D%3D)
+Privacy Policy and term of use MarocStream privacy policy and term of use.
 
 The privacy of our visitors to MarocStream.de is important to us. 
 
@@ -22,19 +20,11 @@ We also use third party advertisements on MarocStream.de to support our site. So
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
+MarocStream does not own the copyrights and other intellectual property rights in any broadcast Free to Air television programming that you choose to view using the application and enabling technology. All references to third party companies, television stations, networks, and programs are for informational purposes only and are not a representation that MarocStream is in any way affiliated with any of these third parties. All third party trademarks displayed in the application are the property of their respective owners. MarocStream disclaims any and all rights in these marks.
+
 MarocStream™© an ITWebTek LLC Devision
 
 Chantilly, VA20151  
 USA  
 +1 202-670-6441  
-
-
-  
-
-
-### Login to MarocStream Forum
-
-Salam Alikom welcome to MarocStream
-
-  
 
