@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rpgwebsolutions.com privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113122830id_/http%3A//rpgwebsolutions.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rpgwebsolutions.com privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527195140id_/http%3A//rpgwebsolutions.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Web Design Company Delhi India, Web Development Company Delhi India, Web Solutions Company Delhi India, SEO Services Delhi India, Business Website Development Company Delhi India, Website Development Company Delhi India, Website Designing Company Delhi India
+# Privacy Policy – Privacy & Terms – RPGIS
 
-[](https://web.archive.org/web/20131113122830id_/http%3A//rpgwebsolutions.com/default.html)
+[](https://web.archive.org/web/20140527195140id_/http%3A//rpgwebsolutions.com/default.html)
 
 +91-0-98102-36266  
 011-26138669
