@@ -1,0 +1,1279 @@
+<!--The following is the downloaded HTML source of the skyeurope.com privacy policy that was archived on 2014-05-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140527154201id_/http%3A//www.skyeurope.com/privacy-policy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html class="no-js notie" lang="en"><head>
+	<title>Skyeurope - Privacy Policy</title>
+	<meta charset="UTF-8">
+	<meta name="robots" content="noindex, nofollow">
+    <link rel="shortcut icon" href="http://www.skyeurope.com/favicon.ico">
+    <link rel="canonical" href="http://www.skyeurope.com/privacy-policy.html">
+  	<!-- TV con scan dell’immagine progressiva -->
+	<!--<link rel="stylesheet" href="css/progressive.css" media="tv and (scan: progressive)">-->
+	<!-- Stampanti con almeno 1000dpi -->
+	<!--<link rel="stylesheet" href="css/printer.css" media="print and (min-resolution: 1000dpi)">-->
+	<!-- Retina display -->
+	<!--<link rel="stylesheet" href="css/retina.css" media="screen and (-webkit-min-device-pixel- ratio: 2)">-->
+	<!-- Device monocromatici (Kindle, etc..) -->
+	<!--<link rel="stylesheet" href="css/mono.css" media="screen and (monochrome)">-->
+	<link rel="stylesheet" href="http://www.skyeurope.com/css/style.css" media="screen">
+	<link rel="stylesheet" href="http://www.skyeurope.com/css/jquery-ui.css">
+	<!--<script src="http://www.skyeurope.com/js/jquery-1.8.2.min.js"></script>
+	<script src="http://code.jquery.com/ui/1.9.1/jquery-ui.js"></script>-->
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://code.jquery.com/jquery-1.8.3.js"></script>
+    <script src="http://code.jquery.com/ui/1.9.2/jquery-ui.js"></script>
+	<script src="http://www.skyeurope.com/js/jquery.i18now.1.0.0.js"></script>
+	<script src="http://www.skyeurope.com/js/jquery.qtip-1.0.min.js"></script>
+	<!--<script src="http://www.skyeurope.com/js/function.js"></script>-->
+	<script src="http://www.skyeurope.com/js/jquery.datepick-en-gb.js"></script>
+	<script src="http://www.skyeurope.com/js/jquery.datepick-es.js"></script>
+	<script src="http://www.skyeurope.com/js/jquery.datepick-fr.js"></script>
+	<script src="http://www.skyeurope.com/js/jquery.datepick-it.js"></script>
+	<script>
+		$(document).ready(function() {
+
+	$.datepicker.setDefaults($.datepicker.regional['en']);
+
+	$("#andata").datepicker({
+		showOn : "both",
+		buttonImage : "http://www.skyeurope.com/images/calendaricon.png",
+		buttonImageOnly : true,
+		dateFormat : 'dd/mm/yy',
+		minDate : 0
+	});
+	
+	
+
+	$("#andata").change(function() {
+		testm = new Date($(this).datepicker('getDate').getTime());
+		testm.setDate(testm.getDate() + 1);
+		$("#ritorno").datepicker("option", "minDate", testm);
+	});
+
+	$("#ritorno").datepicker({
+		showOn : "both",
+		buttonImage : "http://www.skyeurope.com/images/calendaricon.png",
+		buttonImageOnly : true,
+		dateFormat : 'dd/mm/yy',
+		minDate : 0
+	});
+	
+	/*$('#fakeArrive').bind('keyup',function() {
+		$('#arrive').attr('value','');
+	});
+	
+	$('#fakeStart').bind('keyup',function() {
+		$('#start').attr('value','');
+	});*/
+
+	$('#fakeStart').focus(function() {
+		$(this).select();
+	});
+
+	$('#fakeArrive').focus(function() {
+		$(this).select();
+	});
+	
+	$("#fakeStart").autocomplete({
+		source : function(request, response) {
+			$('.startCodice').empty();
+			$.ajax({
+				type : "POST",
+				url : "http://www.skyeurope.com/functions/ajax.php",
+				data : {
+					task : "liveSearch",
+					str : request.term,
+					lang : 'en'
+				},
+				success : function(data) {
+					response($.map(jQuery.parseJSON(data), function(item) {
+						return {
+							label : item.citta + (item.nome ? ", " + item.nome : "") + " (" + item.iata + ") " + item.nazione,
+							value : item.citta + " (" + item.iata + ")",
+							hidden : item.iata,
+							nazione : item.codice
+						}
+					}));
+				}
+			});
+		},
+		minLength : 3,
+		select : function(event, ui) {
+			//console.log(ui);
+			$('#start').attr('value', ui.item.hidden);
+			$('.startCodice').html(ui.item.nazione);
+		},
+		open : function() {
+			$(this).removeClass("ui-corner-all").addClass("ui-corner-top");
+		},
+		close : function() {
+			$(this).removeClass("ui-corner-top").addClass("ui-corner-all");
+		}
+	});
+
+	$("#fakeArrive").autocomplete({
+		source : function(request, response) {
+			$('.arriveCodice').empty();
+			$.ajax({
+				type : "POST",
+				url : "http://www.skyeurope.com/functions/ajax.php",
+				data : {
+					task : "liveSearch",
+					str : request.term,
+					lang : 'en'
+				},
+				success : function(data) {
+					response($.map(jQuery.parseJSON(data), function(item) {
+						return {
+							label : item.citta + (item.nome ? ", " + item.nome : "") + " (" + item.iata + ") " + item.nazione,
+							value : item.citta + " (" + item.iata + ")",
+							hidden : item.iata,
+							nazione : item.codice
+						}
+					}));
+				}
+			});
+		},
+		minLength : 3,
+		select : function(event, ui) {
+			//console.log(ui);
+			$('#arrive').attr('value', ui.item.hidden);
+			$('.arriveCodice').html(ui.item.nazione);
+		},
+		open : function() {
+			$(this).removeClass("ui-corner-all").addClass("ui-corner-top");
+		},
+		close : function() {
+			$(this).removeClass("ui-corner-top").addClass("ui-corner-all");
+		}
+	});
+
+	function replaceAll(Source, stringToFind, stringToReplace) {
+		var temp = Source;
+		var index = temp.indexOf(stringToFind);
+		while(index != -1) {
+			temp = temp.replace(stringToFind, stringToReplace);
+			index = temp.indexOf(stringToFind);
+		}
+		return temp;
+	}
+	
+	var processo = 0;
+
+	function processResult(result,partner,processo) {
+		if(processo%3==0) {
+			$('.loadingResult').hide();
+			$('.finishedResult').show();
+		}
+		$('#risultati').show();
+		var i = z = c = f = p = 0;
+		var o = ex = ed = l = 0;
+		var compagnie = new Array();
+		var iata = Array();
+		var nscali = Array();
+		var prezzi = Array();
+		
+		var d_names = new Array("Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat");
+		var m_names = new Array("Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec");
+		
+		$.each(jQuery.parseJSON(result), function(index, value) {
+			if(i < 10) {
+				if(value['ritorno']) {
+					var id = value['andata']['flightNumber'] + value['ritorno']['flightNumber'];
+				} else {
+					var id = value['andata']['flightNumber'];
+				}
+				if(partner == 'edreams') {
+					var prezzoPersona = Math.round(parseFloat(value['andata']['prezzo']) / people * 100) / 100;
+					var prezzo = Math.round(parseFloat(value['andata']['prezzo']) * 100) / 100;
+					prezzo = prezzo.toFixed(2);
+					prezzoPersona = prezzoPersona.toFixed(2);
+				} else {
+					var prezzo = Math.round(parseFloat(value['andata']['prezzo']) * people * 100) / 100;
+					var prezzoPersona = Math.round(parseFloat(value['andata']['prezzo']) * 100) / 100;
+					prezzo = prezzo.toFixed(2);
+					prezzoPersona = prezzoPersona.toFixed(2);
+				}
+
+				if(value['ritorno']) {
+					
+					iata[z] = value['ritorno']['depNameCode'] + ' (' + value['ritorno']['depIataCode'] + ')*'+value['ritorno']['arrivo']+'*arrivo';
+					z++;
+					iata[z] = value['ritorno']['arrNameCode'] + ' (' + value['ritorno']['arrIataCode'] + ')*'+value['ritorno']['partenza']+'*partenza';
+					z++;
+					compagnie[c] = value['ritorno']['carrierIataNome'];
+					c++;
+
+					if(value['ritorno']['scali'] == 0) {
+						nscali[f] = "Direct";
+						var scaliRit = "Direct";
+						var metaScaloRit = nscali[f];
+						f++;
+					} else if(value['ritorno']['scali'] == 1) {
+						nscali[f] = value['ritorno']['scali'] + "_Stop";
+						var scaliRit = value['ritorno']['scali'] + " Stop";
+						var metaScaloRit = nscali[f];
+						f++;
+					} else {
+						nscali[f] = value['ritorno']['scali'] + "_Stops";
+						var scaliRit = value['ritorno']['scali'] + " Stops";
+						var metaScaloRit = nscali[f];
+						f++;
+					}
+
+					
+					d = new Date(value['ritorno']['outboundDate'] * 1000);
+					var nday = d.getDay();
+					var day = d.getDate();
+					var month = d.getMonth();
+					var year = d.getFullYear();
+					var nameDay = d_names[nday];
+					var nameMonth = m_names[month];
+					var dhour = d.getHours();
+					var dmin = d.getMinutes();
+					
+
+					var outboundDateR = nameDay + ' ' + day + '<br />' + nameMonth + ' ' + year;
+					d = new Date(value['ritorno']['inboundDate'] * 1000);
+					var aday = d.getDay();
+					var ahour = d.getHours();
+					var amin = d.getMinutes();
+					
+					var diffDay = aday-nday;
+					if(diffDay<0 && value['ritorno']['outboundDate']<value['ritorno']['inboundDate']) {
+						//nday=nday+7;
+						//diffDay=aday-nday;
+						diffDay=diffDay+7;
+					}
+				
+					if(diffDay!=0) {
+						var plusr = " (+"+diffDay+")";
+					} else {
+						var plusr = "";
+					}
+					
+					if(dhour < 10)
+						dhour = '0' + dhour;
+					if(dmin < 10)
+						dmin = '0' + dmin;
+					
+					if(ahour < 10)
+						ahour = '0' + ahour;
+					if(amin < 10)
+						amin = '0' + amin;
+						
+					var inboundDateR = '<img src="http://www.skyeurope.com/images/ico-partenza.png" /><span style="font-weight:bold">' + dhour + '.' + dmin + '</span><img src="http://www.skyeurope.com/images/ico-arrivo.png" /><span style="font-weight:bold">' + ahour + '.' + amin + plusr + '</span>';
+
+				}
+				iata[z] = value['andata']['depNameCode'] + ' (' + value['andata']['depIataCode'] + ')*'+value['andata']['partenza']+'*partenza';
+				z++;
+				iata[z] = value['andata']['arrNameCode'] + ' (' + value['andata']['arrIataCode'] + ')*'+value['andata']['arrivo']+'*arrivo';
+				z++;
+				compagnie[c] = value['andata']['carrierIataNome'];
+				c++;
+				prezzi[p] = prezzo;
+				p++;
+
+				if(value['andata']['scali'] == 0) {
+					nscali[f] = "Direct";
+					var scaliAnd = "Direct";
+					var metaScaloAnd = nscali[f];
+					f++;
+				} else if(value['andata']['scali'] == 1) {
+					nscali[f] = value['andata']['scali'] + "_Stop";
+					var scaliAnd = value['andata']['scali'] + " Stop";
+					var metaScaloAnd = nscali[f];
+					f++;
+				} else {
+					nscali[f] = value['andata']['scali'] + "_Stops";
+					var scaliAnd = value['andata']['scali'] + " Stops";
+					var metaScaloAnd = nscali[f];
+					f++;
+				}
+
+				
+				d = new Date(value['andata']['outboundDate'] * 1000);
+				var nday = d.getDay();
+				var day = d.getDate();
+				var month = d.getMonth();
+				var year = d.getFullYear();
+				var nameDay = d_names[nday];
+				var nameMonth = m_names[month];
+				var dhour = d.getHours();
+				var dmin = d.getMinutes();
+
+				var outboundDateA = nameDay + ' ' + day + '<br />' + nameMonth + ' ' + year;
+				d = new Date(value['andata']['inboundDate'] * 1000);
+				var aday = d.getDay();
+				var ahour = d.getHours();
+				var amin = d.getMinutes();
+				
+				var diffDay = aday-nday;
+				if(diffDay<0 && value['andata']['outboundDate']<value['andata']['inboundDate']) {
+					//nday=nday+7;
+					//diffDay=aday-nday;
+					diffDay=diffDay+7;
+				}
+				
+				if(diffDay!=0) {
+					var plusa = " (+"+diffDay+")";
+				} else {
+					var plusa = "";
+				}
+				
+				if(dhour < 10)
+					dhour = '0' + dhour;
+				if(dmin < 10)
+					dmin = '0' + dmin;
+				
+				if(ahour < 10)
+					ahour = '0' + ahour;
+				if(amin < 10)
+					amin = '0' + amin;
+				var inboundDateA = '<img src="http://www.skyeurope.com/images/ico-partenza.png" /><span style="font-weight:bold">' + dhour + '.' + dmin + '</span><img src="http://www.skyeurope.com/images/ico-arrivo.png" /><span style="font-weight:bold">' + ahour + '.' + amin + plusa + '</span>';
+			
+				if(value['ritorno']) {
+					var html = "<table class='risultati tableArEn' id='T" + id + "' meta-partner='"+partner+"' meta-prezzo='" + prezzo + "' meta-scalo-andata='" + metaScaloAnd + "' meta-scalo-ritorno='" + metaScaloRit + "' meta-iata-ritorno-partenza='" + value['ritorno']['depIataCode'] + "' meta-iata-ritorno-arrivo='" + value['ritorno']['arrIataCode'] + "' meta-iata-andata-partenza='" + value['andata']['depIataCode'] + "' meta-iata-andata-arrivo='" + value['andata']['arrIataCode'] + "' meta-compagnia-andata='" + value['andata']['carrierIataNome'] + "' meta-compagnia-ritorno='" + value['ritorno']['carrierIataNome'] + "'><tr class='resultAndata' id='A" + id + "'>";
+				} else {
+					var html = "<table class='risultati tableSaEn' id='T" + id + "' meta-partner='"+partner+"' meta-prezzo='" + prezzo + "' meta-scalo-andata='" + metaScaloAnd + "' meta-iata-andata-partenza='" + value['andata']['depIataCode'] + "' meta-iata-andata-arrivo='" + value['andata']['arrIataCode'] + "' meta-compagnia-andata='" + value['andata']['carrierIataNome'] + "'><tr class='resultAndata' id='A" + id + "'>";
+				}
+				
+									var currency = '&pound;';
+								
+				html += "<td colspan='2' class='tdDest'>" + value['andata']['partenza'] + " (" + value['andata']['depIataCode'] + ") - " + value['andata']['arrivo'] + " (" + value['andata']['arrIataCode'] + ")</td>";
+				html += "<td class='tdData'><span style='font-weight:bold'>" + outboundDateA + "</span></td>";
+				html += "<td class='tdOra'>" + inboundDateA + "</td>";
+				html += "<td class='tdVolo'>" + value['andata']['carrierIataNome'] + " " + value['andata']['flightNumber'] + "<br />" + scaliAnd + " - " + value['andata']['durata'] + "</td></tr>";
+				if(value['ritorno']) {
+					html += "<tr class='resultRitorno' id='R" + id + "'>";
+					html += "<td colspan='2' class='tdDest'>" + value['ritorno']['arrivo'] + " (" + value['ritorno']['depIataCode'] + ") - " + value['ritorno']['partenza'] + " (" + value['ritorno']['arrIataCode'] + ")</td>";
+					html += "<td class='tdData'><span style='font-weight:bold'>" + outboundDateR + "</span></td>";
+					html += "<td class='tdOra'>" + inboundDateR + "</td>";
+					html += "<td class='tdVolo'>" + value['ritorno']['carrierIataNome'] + " " + value['ritorno']['flightNumber'] + "<br />" + scaliRit + " - " + value['ritorno']['durata'] + "</td></tr>";
+				}
+				html += "<tr class='resultPrezzo' id='P" + id + "'>";
+				html += "<td class='tdPrezzo'>" + prezzo + " <span class='small'>"+currency+"</span></td>";
+				html += "<td class='tdPrezzoPersona'>(" + prezzoPersona + " " + currency + "/ Person)</td>";
+				html += "<td colspan='3' class='tdDett'><a rel='nofollow' href='http://www.skyeurope.com/trackurl.php?url="+encodeURIComponent(value['andata']['deep_link'])+"' onclick='window.open(this.href);return false'>View details</a></td></tr></table>";
+
+				if($('table[id="T' + id + '"]').size() == 0) {
+					var append = 0;
+					$('table.risultati').each(function() {
+						var oldPrezzo = $(this).attr('meta-prezzo');
+						if(parseFloat(prezzo) < parseFloat(oldPrezzo) && append == 0) {
+							//console.log(prezzo + ' è inferiore a ' + oldPrezzo);
+							$(this).before(html);
+							i++;
+							append = 1;
+						}
+					});
+					if(append == 0) {
+						//console.log(prezzo + ' è superiore a tutti quindi metto in fondo');
+						$('#risultati').append(html);
+						i++;
+					}
+				} else {
+					var oldPrezzo = $('table[id="T' + id + '"]').attr('meta-prezzo');
+					if(parseFloat(prezzo) < parseFloat(oldPrezzo)) {
+						var subst = 0;
+						//console.log('ho sostituito un prezzo: v:' + oldPrezzo + ' n:' + prezzo);
+						$('table[id="T' + id + '"]').attr('meta-prezzo', prezzo);
+						$('table[id="T' + id + '"] tr td.tdPrezzo').html(prezzo + " <span class='small'>"+currency+"</span>");
+						$('table[id="T' + id + '"] tr td.tdPrezzoPersona').html("(" + prezzoPersona + " "+currency+" / Person)");
+						$('table[id="T' + id + '"] tr td.tdDett a').attr('href','http://www.skyeurope.com/trackurl.php?url='+encodeURIComponent(value['andata']['deep_link']));
+					
+
+						$('table.risultati').each(function() {
+							if($(this).attr('id') != "T" + id) {
+								if(parseFloat(prezzo) < parseFloat($(this).attr('meta-prezzo')) && subst == 0) {
+									//console.log('ho spostato un div');
+									var myDiv = $('table[id="T' + id + '"]').detach();
+									$(this).before(myDiv);
+									subst = 1;
+								}
+							}
+						});
+					}
+				}
+			}
+		});
+
+		$('span[tooltip]').each(function() {
+			//if(!$(this).hasClass('qtip')) {
+			if('object' != typeof $(this).data('qtip')) {
+				$(this).qtip({
+					content : $(this).attr('tooltip'), // Use the tooltip attribute of the element for the content
+					show : {
+						delay : 0
+					},
+					position : {
+						corner : {
+							target : "topRight",
+							tooltip : 'bottomLeft',
+						}
+					},
+					style : {
+						width : 150,
+						padding : 5,
+						background : '#FBFC00',
+						color : '#1D4571',
+						textAlign : 'center',
+						border : {
+							width : 7,
+							radius : 5,
+							color : '#1D4571'
+						},
+						name : 'dark' // Inherit the rest of the attributes from the preset dark style
+					}
+				});
+			}
+		});
+
+		compagnie.sort();
+		$.each(compagnie, function(index, value) {
+			var value2 = value.toLowerCase();
+			value2 = replaceAll(value2, " ", "_")
+			if($('#' + value2).size() == 0 && value) {
+				//$("<div class='filtri'><input value='" + value + "' id='" + value2 + "' type='checkbox' checked /><label>" + value + "</label> <span meta-num='1' id='n" + value + "'>(1)</span><div class='clear'></div></div>").appendTo('#filtri #compagnie');
+				$("<div class='filtri'><input value='" + value + "' id='" + value2 + "' type='checkbox' checked /><label>" + value + "</label><div class='clear'></div></div>").appendTo('#filtri #compagnie');
+			} /*else {
+				var n = $('#n' + value).attr('meta-num');
+				n = parseInt(n) + 1;
+				$("#n" + value).replaceWith("<span meta-num='" + n + "' id='n" + value + "'>(" + n + ")</span>");
+			}*/
+		});
+		$.each(nscali, function(index, value) {
+			//console.log(value);
+			var value2 = value.replace("_", " ");
+			if($('#' + value).size() == 0) {
+				//$("<div class='filtri'><input value='" + value + "' id='" + value + "' type='checkbox' checked /><label>" + value2 + "</label> <span meta-num='1' id='n" + value + "'>(1)</span><div class='clear'></div></div>").appendTo('#filtri #scali');
+				$("<div class='filtri'><input value='" + value + "' id='" + value + "' type='checkbox' checked /><label>" + value2 + "</label> <div class='clear'></div></div>").appendTo('#filtri #scali');
+			} /*else {
+				var n = $('#n' + value).attr('meta-num');
+				n = parseInt(n) + 1;
+				$("#n" + value).replaceWith("<span meta-num='" + n + "' id='n" + value + "'>(" + n + ")</span>");
+			}*/
+		});
+		var aer = 0;
+		iata.sort();
+		$.each(iata, function(index, value2) {
+			var search = value2.match(/\(.*?\)/g);
+			//value = splittato[1];
+			value = search[0].substr(1, 3);
+			
+			var split = value2.split("*");
+			
+			if($('#' + split[2]).size() == 0) {
+				$("<div class='preiata' id='"+split[2]+"'><span>"+split[1]+"</span></div>").appendTo('#filtri #iata');
+			}
+
+			if($('#' + value).size() == 0) {
+				$("<div class='filtri iata' style='display:none'><input value='" + value + "' id='" + value + "' type='checkbox' checked /><label>" + split[0] + "</label><div class='clear'></div></div>").appendTo('#'+split[2]);
+				aer++;
+			} else {
+				//var n = $('#n'+value).attr('meta-num');
+				//var n = $('#'+value).size();
+				//n = parseInt(n)+1;
+				//$("#n"+value).replaceWith("<span meta-num='"+n+"' id='n"+value+"'>("+n+")</span>");
+			}
+
+		});
+		if(aer > 1)
+			$('#iata').show();
+		$('.iata').show();
+		//var filtriPrezzi = new Array(50, 100, 150, 200, 250, 300, 350, 400);
+		prezzi.sort();
+		$.each(prezzi, function(index, value) {
+			var minPrezzo = round50(parseInt(value));
+			var maxPrezzo = minPrezzo + 49;
+			if($('#p' + minPrezzo).size() == 0) {
+				var appended = 0;
+				$('#prezzi .filtri input').each(function() {
+					if(minPrezzo < parseInt($(this).val()) && appended == 0) {
+						$(this).parent('.filtri').before("<div class='filtri'><input value='" + minPrezzo + "' id='p" + minPrezzo + "' type='checkbox' checked /><label>from " + minPrezzo + " to " + maxPrezzo + "</label><div class='clear'></div></div>");
+						appended = 1;
+						//console.log(minPrezzo + " e' maggiore di " + parseInt($(this).val()) + " e lo metto dopo");
+					}
+				});
+				if(appended==0) {
+					$("<div class='filtri'><input value='" + minPrezzo + "' id='p" + minPrezzo + "' type='checkbox' checked /><label>from " + minPrezzo + " to " + maxPrezzo + "</label><div class='clear'></div></div>").appendTo('#filtri #prezzi');
+					//console.log(minPrezzo + " e' maggiore di tutti e lo metto alla fine");
+				}
+			
+			}
+		});
+	}
+
+	function round50(x) {
+    	var y = x%50;
+    	var z = x-y;
+    	return z;
+	}
+
+	$('#linkRicercaaa').click(function() {
+		
+		
+		andata = $("input[name='andata']").val();
+		ritorno = $("input[name='ritorno']").val();
+		start = $("input[name='start']").val();
+		arrive = $("input[name='arrive']").val();
+		if($("input[name='soloandata']").attr('checked'))
+			sa = 1;
+		else
+			sa = 0;
+		
+		if(!andata || !arrive || !start || (!sa && !ritorno)) {
+			alert("Please, fill or check Airports and Dates.");
+			return false;
+		} 
+		var processo = 0;
+		$('#risultati table,.filtri').remove();
+		
+		$('.finishedResult').hide();
+		$('.loadingResult,.wfiltri,.wrisultati,#filtri').show();
+		$('.finishedResult,.toHide').hide();
+		
+		//var m_names = new Array("Gen.", "Feb.", "Mar.", "Apr.", "Mag.", "Giu.", "Lug.", "Ago.", "Set.", "Ott.", "Nov.", "Dic.");
+		var m_names = new Array("Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec");
+		
+		var timeDep = andata.substr(0,2) + " " + m_names[parseInt(andata.substr(3,2)) - 1] + " " + andata.substr(6,4);
+		var timeArr = ritorno.substr(0,2) + " " + m_names[parseInt(ritorno.substr(3,2)) - 1] + " " + ritorno.substr(6,4);
+		
+		var people = $("select[name='persone']").val();
+		
+		if(people == 1)
+			persona = "PAX";
+		else
+			persona = "PAX";
+		if(sa) {
+			$('#riepRisultati').html($("input[name='fakeStart']").val() + ' >> ' + $("input[name='fakeArrive']").val() + ' | ' + $("select[name='persone']").val() + ' ' + persona + ' | ' + timeDep);
+		} else {
+			$('#riepRisultati').html($("input[name='fakeStart']").val() + ' >> ' + $("input[name='fakeArrive']").val() + ' | ' + $("select[name='persone']").val() + ' ' + persona + ' | ' + timeDep + ' >> ' + timeArr);	
+		}
+	});
+	
+	if($("input[name='soloandata']").attr('checked')) {
+		$('.ritorno').css('visibility','hidden');
+	} else {
+		$('.ritorno').css('visibility','visible');
+	}
+	
+	$("input[name='soloandata']").click(function() {
+		if($(this).attr('checked')) {
+			$('.ritorno').css('visibility','hidden');
+		} else {
+			$('.ritorno').css('visibility','visible');
+		}		
+	});
+
+	$('#linkRicerca').click(function() {
+		start = $("input[name='start']").val();
+		arrive = $("input[name='arrive']").val();
+		andata = $("input[name='andata']").val();
+		ritorno = $("input[name='ritorno']").val();
+		people = $("select[name='persone']").val();
+		
+		if($("input[name='soloandata']").attr('checked'))
+			sa = 1;
+		else
+			sa = 0;
+			
+		if(!andata || !arrive || !start || (!sa && !ritorno)) {
+			return false;
+		}
+		
+		
+		var day = andata.substr(0, 2);
+		var month = andata.substr(3, 2);
+		var year = andata.substr(6, 4);
+		var nday = ritorno.substr(0, 2);
+		var nmonth = ritorno.substr(3, 2);
+		var nyear = ritorno.substr(6, 4);
+		var partner = "lastminute";
+		
+		if(sa) {
+			url = "http://www.skyeurope.com/results/"+start.toLowerCase()+"-"+arrive.toLowerCase()+"-"+day+month+year+"-"+people+".html";
+		} else {
+			url = "http://www.skyeurope.com/results/"+start.toLowerCase()+"-"+arrive.toLowerCase()+"-"+day+month+year+nday+nmonth+nyear+"-"+people+".html";
+		}
+		
+		window.location = url;
+		return false;
+		
+		$.ajax({
+			type : "POST",
+			url : "http://www.skyeurope.com/functions/ajax.php",
+			data : {
+				task : "lastminute",
+				start : start,
+				arrive : arrive,
+				day : day,
+				month : month,
+				year : year,
+				nday : nday,
+				nmonth : nmonth,
+				nyear : nyear,
+				people : people,
+				sa : sa,
+				lang : 'en'
+			},
+			success : function(result) {
+				processo++;
+				processResult(result, partner,processo);
+			},
+			error: function() {
+				processo++;	
+			}
+		});
+		return false;
+	});
+
+	$('#linkRicercaaa').click(function() {
+		start = $("input[name='start']").val();
+		arrive = $("input[name='arrive']").val();
+		andata = $("input[name='andata']").val();
+		ritorno = $("input[name='ritorno']").val();
+		people = $("select[name='persone']").val();
+		
+		if($("input[name='soloandata']").attr('checked'))
+			sa = 1;
+		else
+			sa = 0;
+		
+		if(!andata || !arrive || !start || (!sa && !ritorno)) {
+			return false;
+		}
+		
+		var day = andata.substr(0, 2);
+		var month = andata.substr(3, 2);
+		var year = andata.substr(6, 4);
+		var nday = ritorno.substr(0, 2);
+		var nmonth = ritorno.substr(3, 2);
+		var nyear = ritorno.substr(6, 4);
+		var partner = "edreams";
+		$.ajax({
+			type : "POST",
+			url : "http://www.skyeurope.com/functions/ajax.php",
+			data : {
+				task : "edreams",
+				start : start,
+				arrive : arrive,
+				day : day,
+				month : month,
+				year : year,
+				nday : nday,
+				nmonth : nmonth,
+				nyear : nyear,
+				people : people,
+				sa : sa,
+				lang : 'en'
+			},
+			success : function(result) {
+				processo++;
+				processResult(result, partner,processo);
+			},
+			error: function() {
+				processo++;	
+			}
+		});
+		return false;
+	});
+
+	$('#linkRicercaaa').click(function() {
+		
+		start = $("input[name='start']").val();
+		arrive = $("input[name='arrive']").val();
+		andata = $("input[name='andata']").val();
+		ritorno = $("input[name='ritorno']").val();
+		people = $("select[name='persone']").val();
+		var day = andata.substr(0, 2);
+		var month = andata.substr(3, 2);
+		var year = andata.substr(6, 4);
+		var nday = ritorno.substr(0, 2);
+		var nmonth = ritorno.substr(3, 2);
+		var nyear = ritorno.substr(6, 4);
+		var partner = "expedia";
+		if($("input[name='soloandata']").attr('checked'))
+			sa = 1;
+		else
+			sa = 0;
+		
+		if(!andata || !arrive || !start || (!sa && !ritorno)) {
+			return false;
+		}	
+			
+		$.ajax({
+			type : "POST",
+			url : "http://www.skyeurope.com/functions/ajax.php",
+			data : {
+				task : "expedia",
+				start : start,
+				arrive : arrive,
+				day : day,
+				month : month,
+				year : year,
+				nday : nday,
+				nmonth : nmonth,
+				nyear : nyear,
+				people : people,
+				sa : sa,
+				lang : 'en'
+			},
+			success : function(result) {
+				processo++;
+				processResult(result, partner,processo);
+			},
+			error: function() {
+				processo++;	
+			}
+		});
+		return false;
+	});
+	
+	$('#ebookersRicerca').click(function() {
+			start = $("input[name='start']").val();
+			arrive = $("input[name='arrive']").val();
+			andata = $("input[name='andata']").val();
+			ritorno = $("input[name='ritorno']").val();
+			people = $("select[name='persone']").val();
+			
+			andatasplit = andata.split("/");
+			ritornosplit = ritorno.split("/");
+			andataeng = andatasplit[2]+'-'+andatasplit[1]+'-'+andatasplit[0];
+			ritornoeng = ritornosplit[2]+'-'+ritornosplit[1]+'-'+ritornosplit[0];
+			
+			if($("input[name='soloandata']").attr('checked')) {
+				sa = "oneway";
+				ssa = 1;
+			} else {
+				sa = "roundtrip&returndate="+ritornoeng+"&returnspan=Anytime";
+				ssa = 0;
+			}
+			
+			url = "http://www.ebookers.com/partner/offsitesearch?origin="+start+"&adults="+people+"&dest="+arrive+"&departdate="+andataeng+"&triptype="+sa+"&children=0&departspan=Anytime&locale=en_UK&type=air&cabin=C";
+			
+			url = encodeURIComponent("http://clkuk.tradedoubler.com/click?p=288&a=2144272&g=75973&url="+url);
+			window.open("http://www.skyeurope.com/trackurl.php?url="+url);
+		
+			return false;
+			
+		});
+		
+	$('#budgetairRicerca').click(function() {
+			start = $("input[name='start']").val();
+			arrive = $("input[name='arrive']").val();
+			andata = $("input[name='andata']").val();
+			ritorno = $("input[name='ritorno']").val();
+			people = $("select[name='persone']").val();
+			
+			andatasplit = andata.split("/");
+			ritornosplit = ritorno.split("/");
+			andataeng = andatasplit[2]+andatasplit[1]+andatasplit[0];
+			ritornoeng = ritornosplit[2]+ritornosplit[1]+ritornosplit[0];
+			
+			if($("input[name='soloandata']").attr('checked')) {
+				sa = "";
+				ssa = 1;
+			} else {
+				sa = "in_date="+ritornoeng+"&in_dep_c="+arrive+"&in_arr_c="+start+"&in_time=&";
+				ssa = 0;
+			}
+			
+			url = "http://booking.budgetair.co.uk/FlightReserve/flightsearch/flightportal.aspx?COUNTRY=uk&"+sa+"out_date="+andataeng+"&inf=0&out_arr_c="+arrive+"&out_time=&adt="+people+"&chd=0&LANGUAGE=1000&out_dep_c="+start+"&AIRLINEOPTION=&cls=Y";
+			
+			url = encodeURIComponent("http://clkuk.tradedoubler.com/click?p=209835&a=2144272&g=19852266&url="+url);
+			window.open("http://www.skyeurope.com/trackurl.php?url="+url);
+		
+			return false;
+			
+		});
+	
+	$('#edreamsRicerca').click(function() {
+		start = $("input[name='start']").val();
+		arrive = $("input[name='arrive']").val();
+		andata = $("input[name='andata']").val();
+		ritorno = $("input[name='ritorno']").val();
+		people = $("select[name='persone']").val();
+		
+		andatasplit = andata.split("/");
+		ritornosplit = ritorno.split("/");
+		andataeng = andatasplit[0]+andatasplit[1]+andatasplit[2];
+		ritornoeng = ritornosplit[0]+ritornosplit[1]+ritornosplit[2];
+				
+		if($("input[name='soloandata']").attr('checked')) {
+			sa = "ONE_WAY";
+			saeng = "ONE_WAY";
+			ssa = 1;
+		} else {
+			sa = "ROUND_TRIP&returnDate="+ritorno+"&returnTime=0000";
+			saeng = "ROUND_TRIP&returnDate="+ritornoeng+"&returnTime=0000&";
+			ssa = 0;
+		}
+		
+		if(!andata || !arrive || !start || (!ssa && !ritorno)) {
+			alert("Please, fill or check Airports and Dates.");
+			return false;
+		}
+		
+					url = "http://www.edreams.co.uk/engine/waitPage/waitingPage.jsp&";
+			url += "action=engine/ItinerarySearch/search&method=post";
+			url += "&";
+			url += "departureLocation="+start;
+			url += "&";
+			url += "arrivalLocation="+arrive;
+			url += "&";
+			url += "departureDate="+andataeng;
+			url += "&";
+			url += "departureTime=0000";
+			url += "&";
+			url += "tripTypeName="+saeng;
+			url += "&";
+			url += "cabinClassName=TOURIST";
+			url += "&";
+			url += "filterDirectFlights=false";
+			url += "&";
+			url += "mktportal=tradedoubler-UK";
+			url += "&";
+			url += "numAdults="+people;
+			url += "&";
+			url += "numChilds=0";
+			url += "&";
+			url += "numInfants=0";
+			url += "&";
+			url += "searchMainProductTypeName=FLIGHT";
+			url += "&";
+			url += "toLocale=en_GB";
+			url += "&";
+			url += "utm_campaign=skyeurope-metasearch-"+start+"-"+arrive;
+			url += "&";
+			//url += "utm_content=FLIGHT";
+			//url += "&";
+			url += "utm_medium=metasearch";
+			url += "&";
+			url += "utm_source=tradedoubler-UK";
+			url = "http://clkuk.tradedoubler.com/click?p=62284&a=2144272&g=17084158&url=" + url;
+				url = encodeURIComponent(url);
+		window.open("http://www.skyeurope.com/trackurl.php?url="+url);
+		
+		return false;
+	});
+	
+	$('#expediaRicerca').click(function() {
+		start = $("input[name='start']").val();
+		arrive = $("input[name='arrive']").val();
+		andata = $("input[name='andata']").val();
+		ritorno = $("input[name='ritorno']").val();
+		people = $("select[name='persone']").val();
+		
+		var day = andata.substr(0, 2);
+		var month = andata.substr(3, 2);
+		var year = andata.substr(6, 4);
+		var nday = ritorno.substr(0, 2);
+		var nmonth = ritorno.substr(3, 2);
+		var nyear = ritorno.substr(6, 4);
+		
+		if($("input[name='soloandata']").attr('checked'))
+			sa = "OneWay";
+		else
+			sa = "RoundTrip";
+			
+		if(!andata || !arrive || !start || (sa=='RoundTrip' && !ritorno)) {
+			alert("Please, fill or check Airports and Dates.");
+			return false;
+		}
+		
+		andata = day+"/"+month+"/"+year;
+		ritorno = nday+"/"+nmonth+"/"+nyear;
+		
+					var url = encodeURIComponent("http://clkuk.tradedoubler.com/click?p=21874&a=2144272&g=912911&url=http://www.expedia.co.uk/pubspec/scripts/eap.asp?GOTO=EXPFLTWIZ&NumAdult="+people+"&TripType="+sa+"&FrAirport="+start+"&ToAirport="+arrive+"&FromDate="+andata+"&toDate="+ritorno);
+				
+		
+		window.open("http://www.skyeurope.com/trackurl.php?url="+url);
+		return false;
+	});
+	
+	$('#govoloRicerca').click(function() {
+		start = $("input[name='start']").val();
+		arrive = $("input[name='arrive']").val();
+		andata = $("input[name='andata']").val();
+		ritorno = $("input[name='ritorno']").val();
+		people = $("select[name='persone']").val();
+		
+		var day = andata.substr(0, 2);
+		var month = andata.substr(3, 2);
+		var year = andata.substr(8, 2);
+		var nday = ritorno.substr(0, 2);
+		var nmonth = ritorno.substr(3, 2);
+		var nyear = ritorno.substr(8, 2);
+		
+		andata = month+"/"+day+"/"+year;
+		ritorno = nmonth+"/"+nday+"/"+nyear;
+		
+		if($("input[name='soloandata']").attr('checked'))
+			sa = "non";
+		else
+			sa = "oui";
+		
+		if(!andata || !arrive || !start || (sa=='oui' && !ritorno)) {
+			alert("Please, fill or check Airports and Dates.");
+			return false;
+		}
+
+		
+					var url = encodeURIComponent("http://tracking.publicidees.com/clic.php?promoid=17395&progid=855&partid=34284&url=http://eulerian.govoyages.com/dynclick/govolo-com/?eaf-publisher=publicidees&eaf-name=Flux-vol&eaf-creative=Flux-vol&eaf-creativetype=Texte&etf-prdref="+start+"_"+arrive+"&eseg-name=identifiant-affilie&eseg-item=IDAFFILIE&eurl=http://travelagency.travel/Search.aspx&bb=0&adt="+people+"&cls=eco&enf=0&lng=uk&typ=flight&dte_dep="+day+month+year+"&dte_ret="+nday+nmonth+nyear+"&all_ret="+sa+"&vil_arr="+arrive+"&vil_dep="+start+"&vil_dep_oj=&vil_arr_oj=&idpart=943087");
+					
+		window.open("http://www.skyeurope.com/trackurl.php?url="+url);
+		return false;
+	});
+	
+	
+	
+	$('#tuiRicerca').click(function() {
+		start = $("input[name='start']").val();
+		arrive = $("input[name='arrive']").val();
+		andata = $("input[name='andata']").val();
+		ritorno = $("input[name='ritorno']").val();
+		people = $("select[name='persone']").val();
+				
+		if($("input[name='soloandata']").attr('checked'))
+			sa = "oneway";
+		else
+			sa = "round";
+		
+		if(!andata || !arrive || !start || (sa=='round' && !ritorno)) {
+			alert("Please, fill or check Airports and Dates.");
+			return false;
+		}
+		
+		var url = encodeURIComponent("http://clk.tradedoubler.com/click?p=60410&a=2144277&g=16615148&url=http://voli.tui.it/results.htm?tripType="+sa+"&outboundDate="+andata+"&inboundDate="+ritorno+"&nrAdults="+people+"&nrChildren=0&nrInfants=0&flightAirline=&flightClass=ECONOMY&CommandName=doSearching&departureAirportCode="+start+"&arrivalAirportCode="+arrive+"&utm_source=tradedoubler&utm_medium=affiliate&TrackingCode=Tradedoubler");
+		
+		window.open("http://www.skyeurope.com/trackurl.php?url="+url);
+		return false;
+	});
+	
+	$('#lastminuteRicerca').click(function() {
+		start = $("input[name='start']").val();
+		arrive = $("input[name='arrive']").val();
+		andata = $("input[name='andata']").val();
+		ritorno = $("input[name='ritorno']").val();
+		people = $("select[name='persone']").val();
+		
+		var day = andata.substr(0, 2);
+		var month = andata.substr(3, 2);
+		var year = andata.substr(8, 2);
+		var nday = ritorno.substr(0, 2);
+		var nmonth = ritorno.substr(3, 2);
+		var nyear = ritorno.substr(8, 2);	
+			
+		if($("input[name='soloandata']").attr('checked')) {
+			sa = "O&DPIDT=&DP1WF=1";
+			ssa = 1;
+		} else {
+			sa = "R&date_in_day="+nday+"&date_in_month="+nmonth+"&DPIDT=0001&DP1WF=0";
+			ssa = 0;
+		}
+		
+		if(!andata || !arrive || !start || (!ssa && !ritorno)) {
+			alert("Please, fill or check Airports and Dates.");
+			return false;
+		}
+		
+		var url = encodeURIComponent("http://www.awin1.com/cread.php?awinmid=4329&awinaffid=160000&clickref=&p=http://www.lastminute.com/site/travel/flights/interstitial_page.html?DPCID=0&DPFIT=&DPSRT=FA&DPHSI=0&DPHEI=2&DPFSI=0&DPFEI=9&DPSFT=&DPNOS=0&DPTRT=&DPDES=&DPXIN=T&DPXCH=T&DPXTR=F&DPXCP=T&DPXAL=F&DPXMG=F&mondial_auto=true&failureURL=http%3A%2F%2Fwww.lastminute.com%2Fsite%2Ftravel%2Fflights%2Fflights-search-error.html&successURL=%2Ftravel%2Fflights%2Ftransport-results.html&TRANS=ViewTransportationSearchBox%2CdoSearchForTransportation&skin=engb.lastminute.com&DPPID=0&DPLOC=en_GB&DPDCC=GBP&DPRID=2012121916001355939391-12345-6919583137991-e&&DPSAC=GMS&DPCLS=X&DPTTT="+sa+"&DPDAP="+start+"&DPAAP="+arrive+"&DPODT=0001&date_out_day="+day+"&date_out_month="+month+"&DPAIR=NONE&DPNOA="+people+"&DPNOC=0&DPNOI=0&DPDIR=0");
+		"http://www.awin1.com/cread.php?awinmid=4329&awinaffid=160000&clickref=&p=http://www.lastminute.com/site/travel/flights/interstitial_page.html?DPCID=0&DPFIT=&DPSRT=FA&DPHSI=0&DPHEI=2&DPFSI=0&DPFEI=9&DPSFT=&DPNOS=0&DPTRT=&DPDES=&DPXIN=T&DPXCH=T&DPXTR=F&DPXCP=T&DPXAL=F&DPXMG=F&mondial_auto=true&failureURL=http%3A%2F%2Fwww.lastminute.com%2Fsite%2Ftravel%2Fflights%2Fflights-search-error.html&successURL=%2Ftravel%2Fflights%2Ftransport-results.html&TRANS=ViewTransportationSearchBox%2CdoSearchForTransportation&skin=engb.lastminute.com&DPPID=0&DPLOC=en_GB&DPDCC=GBP&DPRID=2012122008001355992739-12345-141608729331911-e&&DPSAC=GMS&DPCLS=X&DPTTT=O&DP1WF=1&DPDAP=MAD&DPAAP=ROM&DPODT=0001&DPIDT=&date_out_day=23&date_out_month=12&DPAIR=NONE&DPNOA=1&DPNOC=0&DPNOI=0&DPDIR=0";
+		window.open("http://www.skyeurope.com/trackurl.php?url="+url);
+		return false;
+	});
+
+	$('#linkRicercaaa').click(function() {
+		start = $("input[name='start']").val();
+		arrive = $("input[name='arrive']").val();
+		andata = $("input[name='andata']").val();
+		ritorno = $("input[name='ritorno']").val();
+		people = $("select[name='persone']").val();
+		
+		var day = andata.substr(0, 2);
+		var month = andata.substr(3, 2);
+		var year = andata.substr(6, 4);
+		var nday = ritorno.substr(0, 2);
+		var nmonth = ritorno.substr(3, 2);
+		var nyear = ritorno.substr(6, 4);
+		var partner = "opodo";
+		if($("input[name='soloandata']").attr('checked'))
+			sa = 1;
+		else
+			sa = 0;
+			
+		if(!andata || !arrive || !start || (!sa && !ritorno)) {
+			return false;
+		}
+			
+		$.ajax({
+			type : "POST",
+			url : "http://www.skyeurope.com/functions/ajax.php",
+			data : {
+				task : "opodo",
+				start : start,
+				arrive : arrive,
+				day : day,
+				month : month,
+				year : year,
+				nday : nday,
+				nmonth : nmonth,
+				nyear : nyear,
+				people : people,
+				sa : sa,
+				lang : 'en'
+			},
+			success : function(result) {
+				processo++;
+				processResult(result, partner,processo);
+			},
+			error: function() {
+				processo++;	
+			}
+		});
+		return false;
+	});
+
+	$("#filtri #prezzi .filtri input").live("click", function() {
+		var start = parseInt($(this).val());
+		var end = start + 49;
+		if($(this).attr('checked'))
+			var checked = 1;
+		else
+			var checked = 0;
+
+		$("#risultati table").each(function() {
+			var prezzo = $(this).attr('meta-prezzo');
+			if(prezzo >= start && prezzo <= end) {
+				if(checked) {
+					$(this).show();
+				} else {
+					$(this).hide();
+				}
+			}
+		});
+	});
+
+	$("#filtri #iata .filtri input, #filtri #scali .filtri input, #filtri #compagnie .filtri input").live("click", function() {
+		var iata = $(this).val();
+		if($(this).attr('checked'))
+			var checked = 1;
+		else
+			var checked = 0;
+
+		$("#risultati table").each(function() {
+			var iataap = $(this).attr('meta-iata-andata-partenza');
+			var iataaa = $(this).attr('meta-iata-andata-arrivo');
+			var iatarp = $(this).attr('meta-iata-ritorno-partenza');
+			var iatara = $(this).attr('meta-iata-andata-arrivo');
+			var compa = $(this).attr('meta-compagnia-andata');
+			var compr = $(this).attr('meta-compagnia-ritorno');
+			var scand = $(this).attr('meta-scalo-andata');
+			var scrit = $(this).attr('meta-scalo-ritorno');
+			if(iata == iataap || iata == iataaa || iata == iatarp || iata == iatara || iata == compa || iata == compr || iata == scand || iata == scrit) {
+				if(checked) {
+					$(this).show();
+				} else {
+					$(this).hide();
+				}
+			}
+		});
+	});
+	
+	$('.selector').click(function(){
+		$('.languageHidden').toggle("slow",function(){});
+		return false;
+	});
+	
+	$('.faq').click(function(){
+		$(this).next('.faqcontainer').toggle("slow",function(){});
+		return false;
+	});
+	
+	
+	/*$(':not(.selector,.languageHidden)').click(function(){
+		$('.languageHidden').hide("slow",function(){});
+		return false;
+	});*/
+	
+	$('.languageHidden').click(function(){
+		var lang = $(this).attr('meta-language'); 
+		if(lang=='en') {
+			window.location = "http://www.skyeurope.com/";
+		} else if(lang=='it') {
+			window.location = "http://www.skyeurope.com/it";
+		}
+		return false;
+	});
+	
+	});
+	</script>
+</head>
+<body>
+<div class="bgHeader"></div>
+<div class="header">
+<div class="leftHeader"><a href="http://www.skyeurope.com"><img alt="skyeurope" src="http://www.skyeurope.com/images/logo.png"></a></div>
+<div class="rightHeader">
+	<div class="origin"><div class="startLetters">
+			<img class="iataLetters" src="http://www.skyeurope.com/images/lettere/o.png"><img class="iataLetters" src="http://www.skyeurope.com/images/lettere/r.png"><img class="iataLetters" src="http://www.skyeurope.com/images/lettere/i.png"><img class="iataLetters" src="http://www.skyeurope.com/images/lettere/g.png"><img class="iataLetters" src="http://www.skyeurope.com/images/lettere/i.png"><img class="iataLetters" src="http://www.skyeurope.com/images/lettere/n.png"><img class="iataLetters" src="http://www.skyeurope.com/images/lettere/space.png"><img class="iataLetters" src="http://www.skyeurope.com/images/lettere/space.png"><img class="iataLetters" src="http://www.skyeurope.com/images/lettere/space.png"><img class="iataLetters" src="http://www.skyeurope.com/images/lettere/space.png"><img class="iataLetters" src="http://www.skyeurope.com/images/lettere/space.png"><img class="iataLetters" src="http://www.skyeurope.com/images/lettere/space.png"><img class="iataLetters" src="http://www.skyeurope.com/images/lettere/space.png"><img class="iataLetters" src="http://www.skyeurope.com/images/lettere/space.png"><img class="iataLetters" src="http://www.skyeurope.com/images/lettere/space.png"><img class="iataLetters" src="http://www.skyeurope.com/images/lettere/space.png"><img class="iataLetters" src="http://www.skyeurope.com/images/lettere/space.png">			<div class="clear"></div>
+		</div>
+		<div class="startLetters">
+			<img class="iataLetters" src="http://www.skyeurope.com/images/lettere/d.png"><img class="iataLetters" src="http://www.skyeurope.com/images/lettere/e.png"><img class="iataLetters" src="http://www.skyeurope.com/images/lettere/s.png"><img class="iataLetters" src="http://www.skyeurope.com/images/lettere/t.png"><img class="iataLetters" src="http://www.skyeurope.com/images/lettere/i.png"><img class="iataLetters" src="http://www.skyeurope.com/images/lettere/n.png"><img class="iataLetters" src="http://www.skyeurope.com/images/lettere/a.png"><img class="iataLetters" src="http://www.skyeurope.com/images/lettere/t.png"><img class="iataLetters" src="http://www.skyeurope.com/images/lettere/i.png"><img class="iataLetters" src="http://www.skyeurope.com/images/lettere/o.png"><img class="iataLetters" src="http://www.skyeurope.com/images/lettere/n.png"><img class="iataLetters" src="http://www.skyeurope.com/images/lettere/space.png"><img class="iataLetters" src="http://www.skyeurope.com/images/lettere/space.png"><img class="iataLetters" src="http://www.skyeurope.com/images/lettere/space.png"><img class="iataLetters" src="http://www.skyeurope.com/images/lettere/space.png"><img class="iataLetters" src="http://www.skyeurope.com/images/lettere/space.png"><img class="iataLetters" src="http://www.skyeurope.com/images/lettere/space.png">			<div class="clear"></div>
+		</div>
+	</div>
+													
+									
+								<div class="language" meta-language="en"><img alt="en" src="http://www.skyeurope.com/images/en.png"> EN/English - Gbp (£) <a href="#" class="selector"><img alt="Select" src="http://www.skyeurope.com/images/blankTriangle.png"></a></div>			<div class="language languageHidden" meta-language="it"><img alt="it" src="http://www.skyeurope.com/images/it.png"> IT/Italiano - Eur (€)</div>	</div>
+<div class="clear"></div> 
+<form>
+<div class="search">
+	<div class="start">
+		<label>Search flight from: </label>
+		<input class="startInput" id="fakeStart" type="text" name="fakeStart">
+		<div class="startCodice"></div>
+		<div class="startResult" id="startResult"></div>
+		<div class="clear"></div>
+	</div>
+	<div class="arrive">
+		<label>to: </label>
+		<input class="arriveInput" id="fakeArrive" type="text" name="fakeArrive">
+		<div class="arriveCodice"></div>
+		<div class="arriveResult" id="arriveResult"></div>
+		<div class="clear"></div>
+	</div>
+	<div class="clear"></div>
+	<div class="andata">
+		<label>Departure date</label>
+		<input type="text" id="andata" name="andata">
+	</div>
+	<div class="soloAndata">
+		<label>One way</label>
+		<input type="checkbox" name="soloandata" value="1">
+	</div>
+	<div class="ritorno">
+		<label>Return date</label><input type="text" id="ritorno" name="ritorno">
+	</div>
+	<div class="persone">
+		<label>Passengers</label>
+		<select name="persone">
+			<option value="1">1</option>
+			<option value="2">2</option>
+			<option value="3">3</option>
+			<option value="4">4</option>
+			<option value="5">5</option>
+			<option value="6">6</option>
+			<option value="7">7</option>
+			<option value="8">8</option>
+		</select>
+	</div>
+	<div class="clear"></div>
+	<div class="confronta">
+		<div class="confrontaTxt">
+			Compare prices<br>from other sites		</div>
+	</div>
+	<div class="loghi">
+		<div class="logo"><a rel="nofollow" href="#" id="edreamsRicerca"><img alt="Edreams" src="http://www.skyeurope.com/images/searchbtnedreams.png"></a></div>
+		<div class="logo"><a rel="nofollow" href="#" id="expediaRicerca"><img alt="Expedia" src="http://www.skyeurope.com/images/searchbtnexpediaEn.png"></a></div>
+				<div class="logo"><a rel="nofollow" href="#" id="budgetairRicerca"><img alt="Budgetair" src="http://www.skyeurope.com/images/searchbtnbuden.png"></a></div>	
+						<div class="logo"><a rel="nofollow" href="#" id="ebookersRicerca"><img alt="Ebookers" src="http://www.skyeurope.com/images/searchbtneboken.png"></a></div>	
+				<div class="logoSky"><a rel="nofollow" href="#" id="linkRicerca"><img alt="Ricerca" src="http://www.skyeurope.com/images/searchbtnskyeuropeen.png"></a></div>
+		<div class="clear"></div>
+	</div>
+	<div class="clear"></div>
+
+<input type="hidden" value="en" name="lang" id="lang">
+<input type="hidden" value="" id="start" name="start">
+<input type="hidden" value="" id="arrive" name="arrive">
+</div>
+</form>
+</div>
+
+<div class="wrapper">
+	<div class="oleft">
+		<div class="widget">
+			
+			<div class="headerWidget">
+				<h3>Privacy Policy</h3></div>
+			
+			<div class="terms">Our server automatically and indirectly collects information in relation to the activities of users during their visit to the web site. The information gathered relates to the pages viewed, the date and time of access, the IP address, and the internet browser and operating system used. This data is used with the sole aim of acquiring anonymous statistical information regarding the use of the site and/or for purposes strictly related to the functioning of the site itself.<br> 
+<br>
+Viewing of the site and use of its services do not require any form of personal identification.<br> 
+The user can voluntarily provide his email address and other personal details to indicate an error on the site, to send feedback of various kinds, or to receive information from our staff.<br>  
+<br>
+The data collected will be processed by Azulsen s.r.l., the proprietor of the skyeurope.com website, with full respect for the current law. All necessary security measures will be adopted to prohibit access to non-authorised parties.<br>  
+<br>
+SkyEurope makes no direct use of cookies.<br>
+The following third-party services found on our site make use of cookies:<br>
+<br>
+Google Analytics<br>
+For more information:<br><a rel="nofollow" onclick="window.open(this.href);return false" href="https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage">https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage</a><br>
+<br>
+Google AdSense<br>
+For more information:<br><a rel="nofollow" onclick="window.open(this.href);return false" href="http://www.google.com/policies/technologies/ads/">http://www.google.com/policies/technologies/ads/</a><br>
+<br>
+<br>
+References :<br>
+AZULSEN S.R.L.<br>
+Via Carlo Fea, 6 – 00161 Roma, Italia.<br>
+C.F./P.IVA: 11819111003<br>
+</div> 
+
+		</div>
+	</div>
+	<div class="oright">
+				<div class="adsense" style="box-shadow:0 2px 4px #333333">
+									<script type="text/javascript"><!--
+						google_ad_client = "ca-pub-3014730396179812";
+						/* skyit-336 */
+						google_ad_slot = "1499313205";
+						google_ad_width = 336;
+						google_ad_height = 280;
+						//-->
+						</script>
+						<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+						</script>
+							</div>
+			</div>
+	<div class="clear"></div>
+</div>
+<div class="bgFooter">
+	<div class="footer">
+		<div class="logoFooter">
+			<img alt="Skyeurope" src="http://www.skyeurope.com/images/logoFooter.png">
+		</div>
+		<div class="flagFooter">
+			<ul class="flagsFooter">
+				<li><a href="http://www.skyeurope.com"><img alt="EN" src="http://www.skyeurope.com/images/en-24.png"></a> <a href="http://www.skyeurope.com">Flights</a></li>
+				<li><a href="http://www.skyeurope.com/it/"><img alt="IT" src="http://www.skyeurope.com/images/it-24.png"></a> <a href="http://www.skyeurope.com/it">Voli</a></li>
+			</ul>
+		</div>
+		<div class="menuFooter">
+			<ul>
+									<li><a href="http://www.skyeurope.com/faq.html">FAQ</a></li>
+					<li><a href="http://www.skyeurope.com/suggestions.html">SUGGESTIONS</a></li>
+					<li><a href="http://www.skyeurope.com/contacts.html">CONTACT US</a></li>
+					<li><a href="http://www.skyeurope.com/conditions-of-use.html">CONDITIONS</a></li>
+					<li><a href="http://www.skyeurope.com/privacy-policy.html">PRIVACY</a></li>
+							</ul>
+		</div>
+		<div class="copyFooter">
+			<img src="http://www.skyeurope.com/images/copyright.png">
+		</div>
+		<div class="clear"></div>
+	</div>
+</div>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-41335620-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+</body></html>
