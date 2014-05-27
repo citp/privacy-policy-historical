@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wikiprocedure.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127020902id_/http%3A//www.wikiprocedure.com/index.php/Wikiprocedure%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wikiprocedure.com privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527094142id_/http%3A//www.wikiprocedure.com/index.php/Wikiprocedure%3APrivacy_policy) for the most accurate reproduction.*
 
 # Wikiprocedure:Privacy policy - Wikiprocedure
 
