@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homedepotrebates.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126141247id_/http%3A//www.homedepot.com/webapp/wcs/stores/servlet/ContentView%3Fpn%3DPrivacy_Security%26langId%3D-1%26storeId%3D10051%26catalogId%3D10053) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homedepotrebates.com privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527140750id_/http%3A//www.homedepot.com/webapp/wcs/stores/servlet/ContentView%3Fpn%3DPrivacy_Security%26langId%3D-1%26storeId%3D10051%26catalogId%3D10053) for the most accurate reproduction.*
 
 # Customer Support: Privacy Security at The Home Depot
 
@@ -13,7 +13,7 @@ This Privacy and Security Statement describes the privacy practices of The Home 
 •  Social media interactions on our websites and other third party websites like Facebook, YouTube and Twitter  
 •  Viewing our online advertisements or emails
 
-This Privacy and Security Statement does not apply to the practices of The Home Depot Canada, The Home Depot Mexico, Home Decorators Collection, or Red Beacon. The privacy policy for Canada is [www.homedepot.ca/privacy](http://www.homedepot.ca/privacy). The privacy policy for Mexico is [www.homedepot.com.mx/privacy](http://www.homedepot.com.mx/privacy). The privacy policy for Home Decorators Collection is [www.homedecorators.com/privacy](http://www.homedecorators.com/privacy). The privacy policy for Red Beacon is [www.redbeacon.com/about/privacy](http://www.redbeacon.com/about/privacy).  Also, this policy does not apply to third-party websites accessible through our websites.
+This Privacy and Security Statement does not apply to the practices of The Home Depot Canada, The Home Depot Mexico, Home Decorators Collection, or Red Beacon. The privacy policy for Canada is [www.homedepot.ca/privacy](http://www.homedepot.ca/privacy). The privacy policy for Mexico is <http://www.homedepot.com.mx/comprar/es/torres/AvisodePrivacidad>. The privacy policy for Home Decorators Collection is [www.homedecorators.com/privacy](http://www.homedecorators.com/privacy). The privacy policy for Red Beacon is [www.redbeacon.com/about/privacy](http://www.redbeacon.com/about/privacy).  Also, this policy does not apply to third-party websites accessible through our websites.
 
 ### Information We Collect
 
@@ -24,7 +24,7 @@ We may collect the names and user names of our customers and other visitors.  A
 When you make a purchase we collect your payment information, including information from your credit or debit card, check, PayPal account or gift card. If you apply for a The Home Depot credit card or a home improvement loan, we might collect information related to your application.
 
  **Returns information**  
-When you return a product to our stores or request a refund or exchange, we may collect information from you and ask you to provide your government issued ID. We use the information we collect from you and capture off of your government issued ID to help prevent fraud.  To learn more about our Returns Policy, click [here](http://www.homedepot.com/c/Return_Policy).
+When you return a product to our stores or request a refund or exchange, we may collect information from you and ask you to provide your government issued ID. We use the information we collect from you and capture off of your government issued ID to help prevent fraud.  To learn more about our Returns Policy, click here.
 
  **Demographic information**  
 We may collect information about products or services you like, reviews you submit, or where you shop.  We might also collect information like your age or gender.
@@ -33,7 +33,7 @@ We may collect information about products or services you like, reviews you subm
 If you use our mobile websites or applications, we may collect location data obtained from your mobile device's GPS.  If you use our websites, we may collect location data obtained from your IP address.  We use this location data to find our nearest store to you, product availability at our stores near you and driving directions to our stores.
 
  **Other information**  
-If you use our websites, we may collect information about the browser you are using.  We might track the pages you visit, look at what website you came from, or what website you visit when you leave us.  We collect this information using the tracking tools described [here](https://web.archive.org/webapp/catalog/servlet/BuildLinkToHomeDepot?id=Privacy_Security&linktype=commerce#OTT). To control those tools, please read the Your Privacy Preferences section.
+If you use our websites, we may collect information about the browser you are using.  We might track the pages you visit, look at what website you came from, or what website you visit when you leave us.  We collect this information using the tracking tools described here. To control those tools, please read the Your Privacy Preferences section.
 
 ### How Information is Collected
 
@@ -51,7 +51,7 @@ If you use our websites, we may collect information about the browser you are us
 •  In connection with your interactions with us as a registered user of our websites.  For example, when you use the features of our My Account tool like Express Checkout, Address Book, My Lists, My Project Guides, etc.
 
  **We collect information from you passively.  
-**We may use tracking tools like browser cookies, flash cookies, and web beacons. To learn more about these tools and how you can control them, [click here](https://web.archive.org/webapp/catalog/servlet/BuildLinkToHomeDepot?id=Privacy_Security&linktype=commerce#OTT).
+**We may use tracking tools like browser cookies, flash cookies, and web beacons. To learn more about these tools and how you can control them, click here.
 
  **We collect information from other sources.**  
 We may get information about you from third party business partners, like an updated address from a shipping vendor.  We may collect information about you from a friend. For example, if your friend purchases something for us to send to you.
@@ -126,11 +126,11 @@ For example, if all or part of our business is sold we may sell our customer lis
 
 ### Your Privacy Preferences
 
-You can register or change your preferences to receive or not receive marketing communications from us by clicking [www.homedepot.com/privacypreferences](http://www.homedepot.com/c/Manage_Privacy_Preferences) or [emailing us]().  Please allow sufficient time for your preferences to be processed.  Even if you opt out of receiving marketing messages, we may still contact you for transactional purposes like confirming or following up on an order or service request, asking you to review a product or service you have ordered, or notifying you of product recalls.   If you later opt back into getting marketing communications from us, we will remove your information from our opt-out databases.  
+You can register or change your preferences to receive or not receive marketing communications from us by visiting our [Manage Privacy Preferences page](http://www.homedepot.com/c/Manage_Privacy_Preferences) or [emailing us]().  Please allow sufficient time for your preferences to be processed.  Even if you opt out of receiving marketing messages, we may still contact you for transactional purposes like confirming or following up on an order or service request, asking you to review a product or service you have ordered, or notifying you of product recalls.   If you later opt back into getting marketing communications from us, we will remove your information from our opt-out databases.  
 
 Registered website users can update their information at the Your Account section of our website. If you are not a registered website user, you can contact us by email.
 
-To manage how we use cookies and other tracking tools, please [click here](https://web.archive.org/webapp/catalog/servlet/BuildLinkToHomeDepot?id=Privacy_Security&linktype=commerce#OTT).  
+To manage how we use cookies and other tracking tools, please click here.  
 
 ### Our Sites and Children
 
@@ -164,14 +164,14 @@ Atlanta, GA 30339-4024
 ### Changes to this Privacy and Security Statement
 
  **Effective Date:** January 1, 2004  
-**Last Revision Date:** March 20, 2013  
+**Last Revision Date:** January 3, 2014  
 From time to time we may change our privacy policies. We will notify you of any material changes to our Privacy and Security Statement by posting an updated copy on our website. Please check our website periodically for updates.
 
 ### Our Tracking Techniques
 
  **Tracking Tools We Use**
 
-We or our vendors use several common online tracking tools.  These may include browser and flash cookies. We may also use web beacons and similar technologies.  We use these tools:  
+We collect personal and other information about users over time and across different websites when you use this website or service.  We also have third parties that collect personal information this way. We or our vendors use several common online tracking tools to collect this information.  These may include browser and flash cookies. We may also use web beacons and similar technologies.  We use these tools:  
 •  To track new visitors to our websites.  
 •  To recognize returning customers.  
 •  To store your password if you are registered on our website.  
@@ -182,7 +182,7 @@ We or our vendors use several common online tracking tools.  These may include 
 
 Your browser may give you the ability to control cookies.  How you do so depends on the type of cookie.  Certain browsers can be set to reject browser cookies.  To control flash cookies, [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/). Why? Because flash cookies cannot be controlled through your browser settings.
 
-If you configure your computer to block cookies, you will limit the functionality we can provide when you visit our websites.
+If you configure your computer to block cookies, you will limit the functionality we can provide when you visit our websites. If you block or delete cookies, not all of the tracking that we have described in this policy will stop. Some browsers have a “Do Not Track” feature that lets you tell websites that you do not want to have your online activities tracked.  These browser features are not uniform, so we are not currently set up to respond to those signals.
 
  **Controlling Online Interest-Based Ads**
 
