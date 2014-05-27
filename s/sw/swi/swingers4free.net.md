@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swingers4free.net privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127133324id_/http%3A//www.wifeadventures.com/info.php%23privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swingers4free.net privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527140605id_/http%3A//wifeadventures.com/info.php%23privacypolicy) for the most accurate reproduction.*
 
 # Wifeadventures.com
 
