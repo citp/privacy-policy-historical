@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the volvoce.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221011533id_/http%3A//www.volvogroup.com/group/global/en-gb/Applications/CopyrightPrivacy/pages/privacy_english.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the volvoce.com privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527220252id_/http%3A//www.volvogroup.com/group/global/en-gb/Applications/CopyrightPrivacy/pages/privacy_english.aspx) for the most accurate reproduction.*
 
 # Privacy English - copyright and privacy : Volvo Group Global
 
