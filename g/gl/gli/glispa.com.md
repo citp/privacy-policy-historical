@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glispa.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220203902id_/http%3A//www.glispa.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glispa.com privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527152905id_/http%3A//www.glispa.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | ‘The Global leader in Performance Marketing for the Digital Entertainment industry
 
