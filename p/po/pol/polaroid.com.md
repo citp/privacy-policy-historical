@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the polaroid.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206160424id_/http%3A//www.polaroid.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the polaroid.com privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527182304id_/http%3A//polaroid.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy | polaroid.com
 
@@ -68,12 +68,12 @@ If you visit, become a member, post content or shop at Polaroid.com, you accept 
 
 
   * Q: What about updates?
-  * A: Please note that this Privacy Policy may change from time to time. We will post any changes to this Privacy Policy on this page and we may email updates and reminders of our policies from time to time, unless you have asked us not to send them to you. If you have elected not to receive such reminders or updates, please check Polaroid.com frequently to see recent updates. Unless provided above, the current Privacy Policy shall apply to all information that we have about you and your account. We keep prior archives of the Privacy Policy [here](https://web.archive.org/web/20131206160424id_/http%3A//www.polaroid.com/privacy-policy) for your review.
+  * A: Please note that this Privacy Policy may change from time to time. We will post any changes to this Privacy Policy on this page and we may email updates and reminders of our policies from time to time, unless you have asked us not to send them to you. If you have elected not to receive such reminders or updates, please check Polaroid.com frequently to see recent updates. Unless provided above, the current Privacy Policy shall apply to all information that we have about you and your account. We keep prior archives of the Privacy Policy [here](https://web.archive.org/web/20140527182304id_/http%3A//polaroid.com/privacy-policy) for your review.
   * Back
 
 
   * Q: Other Terms
-  * A: When you choose to visit Polaroid.com, your use of Polaroid.com and any disputes related thereto, including disputes related to this Privacy Policy are subject to this [Privacy Policy](https://web.archive.org/web/20131206160424id_/http%3A//www.polaroid.com/privacy-policy) and [Terms and Conditions](https://web.archive.org/web/20131206160424id_/http%3A//www.polaroid.com/terms). You understand and agree to our limitation of damages and the application of Minnesota law and venue in courts located in Minnesota. If you have any concern about privacy at Polaroid.com, please contact us with a thorough description, and we do our best to try to resolve it. Polaroid.com changes constantly as does our [Privacy Policy](https://web.archive.org/web/20131206160424id_/http%3A//www.polaroid.com/privacy-policy) and [Terms and Conditions](https://web.archive.org/web/20131206160424id_/http%3A//www.polaroid.com/terms)
+  * A: When you choose to visit Polaroid.com, your use of Polaroid.com and any disputes related thereto, including disputes related to this Privacy Policy are subject to this [Privacy Policy](https://web.archive.org/web/20140527182304id_/http%3A//polaroid.com/privacy-policy) and [Terms and Conditions](https://web.archive.org/web/20140527182304id_/http%3A//polaroid.com/terms). You understand and agree to our limitation of damages and the application of Minnesota law and venue in courts located in Minnesota. If you have any concern about privacy at Polaroid.com, please contact us with a thorough description, and we do our best to try to resolve it. Polaroid.com changes constantly as does our [Privacy Policy](https://web.archive.org/web/20140527182304id_/http%3A//polaroid.com/privacy-policy) and [Terms and Conditions](https://web.archive.org/web/20140527182304id_/http%3A//polaroid.com/terms)
   * Back
 
 
