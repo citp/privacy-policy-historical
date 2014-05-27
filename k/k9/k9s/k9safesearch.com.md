@@ -1,85 +1,85 @@
-> *The following text is extracted and transformed from the k9safesearch.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125151636id_/http%3A//www1.k9webprotection.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the k9safesearch.com privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527154116id_/http%3A//www1.k9webprotection.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy | K9 Web Protection - Free Internet Filter and Parental Control Software
+# Privacy Statement | K9 Web Protection - Free Internet Filter and Parental Control Software
 
-**LAST UPDATED: 1.30.04**
+BLUE COAT SYSTEMS, INC.
 
-Blue Coat Systems, Inc. (“Blue Coat”) knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting Blue Coat's Web site, or using any of our services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy. 
+K9™ PRIVACY STATEMENT  
+FOR K9 WEB PROTECTION PERSONAL LICENSES  
+AND SAFE SEARCH
 
-## WHAT DOES THIS PRIVACY POLICY COVER? 
+**Effective Date of this Privacy Statement:** January 9, 2014
 
-This Privacy Policy covers Blue Coat’s treatment of personally identifiable information ("Personal Information") that Blue Coat gathers when you are accessing Blue Coat's Web site and when you use Blue Coat services. This policy does not apply to the practices of Blue Coat that Blue Coat does not own or control, or to individuals that Blue Coat does not employ or manage. 
+This statement describes how Blue Coat Systems, Inc. ( **“Blue Coat”** or **“we”** ) collects and uses your personal information, and how you can control our use of that information.
 
-## WHAT PERSONAL INFORMATION DOES BLUE COAT COLLECT? 
+Scope of This Statement
 
-The information we gather from customers enables us to personalize and improve our services. We collect the following types of information from our customers. 
+This statement covers the personal information Blue Coat gathers when you access Blue Coat’s K9 Web Protection software and service ( **“K9”** ) and Safe Search ( **“Safe Search”** , and collectively with K9, the **“Services”** ). For information about the personal information collected on the Blue Coat website or other specific programs, please see the [Blue Coat Website Privacy Statement](http://www.bluecoat.com/privacy-statement). This statement does not cover K9 licensed under a commercial license; in that case, our corporate customer acts as data controller and has the obligation to provide notices to users. If you are using our Services under a corporate services arrangement, please check with your organization regarding its privacy practices and note that this statement does not apply to you. The Safe Search results are created with one or more third party search services (e.g. Yahoo!™ Search), which is controlled by and subject to corresponding third party privacy statement(s).
 
-**Personal Information You Provide to Us**
+Safe Harbor Program
 
-We receive and store any information you enter on our Web site or provide to us in any other way. The types of Personal Information collected includes: company name, company contact name and title, company address, company contact email address, company telephone and facsimile number, company website URL, service contract number, service level, product model number, product part number, product serial number, MAC address, software license key number, purchase order number or sales order number, total Web users at main location, company current proxy solutions, and special dietary requirements for training program meals Blue Coat has highlighted the fields within the forms located throughout the Web site that are minimally required for you to complete in order for Blue Coat to provide you with the most complete service. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features. The Personal Information you provide is used for such purposes as responding to your requests for certain products and services, identifying you, and communicating with you about specials and new products. Personal Information you provide us may also include other information when needed to provide a service you requested. For example, if you choose to make a purchase in the Online Store area of the Web site, we will request personal information such as: name, address, telephone number, credit card number and shipping information. When you buy a new product, we may ask you to register your purchase electronically. When you do, we keep this registration information on file with any information you’ve already given us on previous visits to our Web site. This is considered your personal profile. 
+Blue Coat is a participant in the Safe Harbor program developed by the U.S. Department of Commerce, Switzerland and the European Union. We adhere to the Safe Harbor Privacy Principles agreed upon by the U.S. Department of Commerce and the E.U. For more information about the Safe Harbor and our certification, please see our [General EEA/CH Safe Harbor Notice](http://www.bluecoat.com/privacy-safe-harbor-statement) and visit the U.S. Department of Commerce’s Safe Harbor website. If you would like to contact Blue Coat directly about the Safe Harbor program, please send an email to [privacy@bluecoat.com](mailto:privacy@bluecoat.com).
 
-**Personal Information Collected Automatically**
+Collection of Personal Information Generally
 
-We receive and store certain types of information whenever you interact with our Web site or services. Blue Coat automatically receives and records information on our server logs from your browser including your IP address, Blue Coat cookie information, and the page you requested. • Generally, our service automatically collects usage information, such as the numbers and frequency of visitors to our site and its components, similar to TV ratings that indicate how many people watched a particular show. Blue Coat only uses this data in aggregate form, that is, as a statistical measure, and not in a manner that would identify you personally. This type of aggregate data enables us to figure out how often customers use parts of the Web site or services so that we can make the Web site appealing to as many customers as possible, and improve those services. 1 • Many companies offer programs that help you to visit Web sites anonymously. While Blue Coat will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available. 
+As used in this statement, personal information includes information that may be used to identify you or another individual, such as a name and email address. We collect this information in order to provide you with a better web experience, more customized emails, better products and services and to increase our responsiveness to customers and potential customers, as well as for the specific purposes and programs described below. This information may be gathered when you register for K9, use the Services or otherwise interact with us with regard to the Services.
 
-**E-mail Communications**
+Collection of Information through K9
 
-We may send email communications to you to inform you about specials, product updates, new products, or provide you with field alerts notices and newsletters. If you do not want to receive e-mail or other mail from us, you may i) access “Subscriber Preferences” currently located at <https://services.bluecoat.com/eservice_enu/start.swe> and click the “Suppress” option for any method of Blue Coat’s product or service-related communications you wish to suppress; or ii) click the “Unsubscribe” option located at the end of any newsletter received by you from Blue Coat or select the option marked “I do not require further information at this time” currently located at <http://www.bluecoat.com/downloads/whitepapers/internet_policy.html> for news-related announcements you wish to discontinue, or iii) simply contact Blue Coat and we will update our records accordingly. 
+Blue Coat collects personal information from you when you register to create a K9 account and through the K9 client. Information includes, for example, name, email address, installation date, uninstall date, last date seen, IP address for certain K9 requests (such as changing email address or requesting a password reset), K9 Version and Operating System, K9-generated license associated with your email address, the URL for which categorization is being requested, other meta-data about the request (such as referrer URL and user-agent (e.g., the browser type)), and the IP address of the resolved URL. In addition, Blue Coat may collect other personal information (such as your phone number) through support requests. Blue Coat will use such information to activate your K9 account and service and to provide you with new features and updates, in addition to the uses described below.
 
-**Personal Information From Other Sources**
+Collection of Information through Safe Search
 
-For purposes such as improving personalization of our service, we may receive information about you from other sources and add it to our account information. We also sometimes receive updated delivery and address information from our shippers or other sources so that we can correct our records and deliver your next purchase or communication more easily. 
+No contact information is collected by Safe Search. Through Safe Search, Blue Coat collects information that your browser makes available. This information includes, for example, your Internet Protocol address, browser type, browser language, referral data and the date and time of your query.
 
-**What About Cookies?**
+Use of Information Collected Through the Services
 
-Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your browser to enable our systems to recognize your browser and tell us how and when pages in our site are visited and by how many people. Blue Coat cookies do not collect Personal Information, and we do not combine the general information collected through cookies with other Personal Information to tell us who you are or what your screen name or email address is. • Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. We strongly recommend that you leave the cookies activated, however, because cookies enable you to take advantage of some of our Web site’s most attractive features. 
+In addition to activating your K9 account and providing you products and services, Blue Coat may use the information collected by the Services for the following purposes: to improve Blue Coat’s products and services, to inform you about products, seminars and services Blue Coat believes may be of interest to you; to contact you if Blue Coat needs to obtain or provide additional information; to comply with applicable laws and protect our and others’ legal rights; and to verify the accuracy of Blue Coat’s records. Blue Coat may also use your information to send you, or to have our business partners send you, direct marketing information or to contact you for market research.
 
-**K9 Web Protection**
+We use standard technologies, such as cookies and other HTML tools as described in the [Blue Coat Cookie Statement](http://www.bluecoat.com/privacy-cookie-statement), which Blue Coat may amend from time to time. We do not allow third parties to collect personally identifiable information directly from users of the Services and currently we do not respond to ‘do not track’ signals or similar mechanisms.
 
-Blue Coat collects personal information from you when you request or register a license to use K9 Web Protection Software (“K9 Software”). As part of the registration process, you are required to provide certain personal information which may include, if applicable: name, address, email address, company name, company contact name and title, company telephone and fax number, and payment details. Blue Coat will primarily use this information to provide the licensee access to service and product functionality (such as using licensee’s email address to send passwords required to access and use the product). Blue Coat may also occasionally use this information to send you other communications, important product information and updates. In order to function, the K9 Software sends the following information from licensee’s computer to Blue Coat’s Web rating service: (i) information identifying licensee’s software license, (ii) information that relates licensee’s software license to licensee’s authorized computer, and (iii) the URLs of the web sites licensee needs rated. The Web rating service logs the number of web site rating requests made under licensee’s software license in order to monitor and track fraudulent use of the Blue Coat rating service. However, Blue Coat’s Web rating service does not track which web sites a licensee requests to have rated under his or her software license, and does not develop any history of a licensee’s web browsing activities.
+Disclosure of Personal Information
 
-**K9 Safe Search**
+Disclosure to Third Parties
 
-No personally identifiable information is ever required by K9 Safe Search, meaning the search engine never seeks any information related to your name, telephone number, address or email address. We do collect limited non-personally identifying information that your browser makes available. This log information includes your Internet Protocol address, browser type, browser language, referral data and the date and time of your query. 
+Blue Coat may hire affiliated or unaffiliated service providers to provide limited services on its behalf, including packaging and delivery, sending postal and electronic mail, providing technical support, and processing event registrations. Blue Coat may disclose customer and prospect information to such third parties solely for the purposes of fulfillment, support or audit by such third parties on behalf of Blue Coat and under contracts that protect your data as required by law.
 
-## WILL BLUE COAT SHARE ANY OF THE PERSONAL INFORMATION IT RECEIVES? 
+Blue Coat may rely on its channel partners, such as distributors and resellers, to fulfill product and information requests, and to provide customers and prospective customers with information about Blue Coat and its products and services. It may provide your personal information to those channel partners to enable them to contact you.
 
-Personal Information about our customers is an integral part of our business. We neither rent nor sell your Personal Information to anyone. We share your Personal Information only with the subsidiaries that are under control of Blue Coat and as described below. 
+Blue Coat may engage in joint marketing activities and events with other manufacturers and solution providers, and may provide your information to such parties for the purpose of promoting or performing the activity or event.
 
-Agents: We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Examples include fulfilling orders/delivering packages/sending postal mail/sending email/removing repetitive information from customer lists/analyzing data/providing marketing assistance/processing credit card payments/and providing customer service. Unless we tell you differently, Blue Coat’s agents do not have any right to use Personal Information we share with them beyond what is necessary to assist us. You hereby consent to our sharing of Personal Information for the above purposes. 
+Blue Coat may license, sell or otherwise transfer its technology or business, or a portion thereof, to third parties and, in connection with any such transfer, or other reorganization, it may transfer customer and prospect data related to the transfer, or potential transfer, to the transferee.
 
-Promotional Offers: We may send offers to certain customers on behalf of other businesses. However, when we do so, we do not give the other business your name and address. If you do not wish to receive these offers, please follow the guidelines listed above in “E-mail Communications.” 2 
+Except as expressly noted, Blue Coat does not rent, sell or lease personal information to other companies or individuals.
 
-Business Transfers: In some cases, we may choose to buy or sell assets. In these types of transactions, customer information is typically one of the business assets that is transferred. Moreover, if Blue Coat, or substantially all of its assets were acquired, or in the unlikely event that Blue Coat goes out of business or enters bankruptcy, customer information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquiror of Blue Coat may continue to use your Personal Information as set forth in this policy. 
+Because Blue Coat is a global company, your personal information may be shared with other Blue Coat offices or subsidiaries in the U.S., Canada, Europe, Asia and elsewhere. The data protection laws in these countries may be more or less restrictive than laws in the country in which you are located. However, Blue Coat and each of its offices and subsidiaries are governed by this statement and will use your personal information that is subject to this statement only as set forth in this statement, unless, under requirements of applicable law, you: (1) are given notice of the fact that your personal information may be used in a materially different manner than disclosed in this statement; (2) are given the opportunity to opt-out of such use(s), or (3) affirmatively consent to your personal information being used in a materially different manner than set forth in this statement.
 
-Protection of Blue Coat and Others: We may release Personal Information when we believe in good faith that release is necessary to comply with that law; enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of Blue Coat, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. 
+Disclosure for Compliance
 
-With Your Consent: Except as set forth above, you will be notified when your Personal Information may be shared with third parties, and will be able to prevent the sharing of this information. 
+Blue Coat may disclose your personal information if it has a good faith belief that such disclosure is required by law or necessary in order to conform to legal requirements or comply with legal process served on Blue Coat or the Services; protect and defend the rights or property of Blue Coat and the Services; enforce its agreements with you; or act in urgent circumstances to protect personal safety or the public.
 
-## IS PERSONAL INFORMATION ABOUT ME SECURE? 
+Opting out of Marketing Communications
 
-Your Blue Coat account Personal Information is protected by a password for your privacy and security. You need to ensure authorized access to your account and Personal Information by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your account. We use industry-standard Secure Socket Layer (SSL) software to protect the security of your Personal Information during transmission. This software encrypts all of the information you input. 
+If you do not wish to receive marketing communications, you can unsubscribe from future marketing communications by following the opt-out instructions contained in any such marketing communications or sending an e-mail to [K9support@bluecoat.com](mailto:K9support@bluecoat.com). Should you for any reason continue to receive unsolicited and undesired communication from Blue Coat, please forward the communication and your concerns to [privacy@bluecoat.com](mailto:privacy@bluecoat.com).
 
-## WHAT PERSONAL INFORMATION CAN I ACCESS? 
+Security and Accuracy of Personal Information
 
-Blue Coat allows you to access the following information about you for the purpose of viewing, and in certain situations, updating that information. This list will change as our Web site changes. You may access “My Settings” through the WebPower service feature currently located at <https://services.bluecoat.com/eservice_enu/start.swe> to view and update your information. 
+Blue Coat has implemented industry-standard security mechanisms and procedures to protect your personal data from loss, misuse and unauthorized access, disclosure, alteration and destruction, but transmissions over the Internet are never 100% secure.
 
-## WHAT CHOICES DO I HAVE? 
+You are responsible for the accuracy of the data that you provide to Blue Coat. Blue Coat will use reasonable efforts to maintain the accuracy and integrity of any personal information it receives.
 
-• As stated previously, you can always opt not to disclose information to use, even though it may be needed to make a purchase or take advantage of certain Blue Coat features. 
+Updating Your Personal Information
 
-• You are able to add or update certain information on pages, such as those listed in the “What Personal Information Can I Access” section above. When you update information, however, we often maintain a copy of the unrevised information in our records. 
+You can update your email address through the K9 user interface. Should you need to update any other information used by the Services, please forward the details to [K9support@bluecoat.com](mailto:K9support@bluecoat.com).
 
-• You may request termination of your Blue Coat account by accessing “Terminate WebPower Access” and completing its form currently located at <http://www.bluecoat.com/support/supportservices/terminate_account.html>. Please note that some information may remain in our records after termination of your account. Such information may include, but not be limited to, company name, company contact name and title, company address, company contact email address, company telephone and facsimile number. 
+Accessing Your Personal Information
 
-• If you do not wish to receive e-mail or other mail from us, please follow the guidelines listed above in “E-mail Communications” . Please note that if you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Blue Coat Web site, and you are responsible for reviewing such legal notices for changes. 3 
+To access the personal information that Blue Coat holds relating to you, email your request to [privacy@bluecoat.com](mailto:privacy@bluecoat.com). To the extent permitted by applicable law, Blue Coat reserves the right to assess an administrative fee for such access. If there are inaccuracies in the information collected by Blue Coat, you may request that Blue Coat amend, correct, or delete such inaccurate information.
 
-• As explained earlier, the majority of browsers allow you to monitor and restrict our use of cookies. Please note, however, that if you do not allow cookies, you will not be able to take advantage of some of our attractive features. 
+Additional Questions
 
-## CHANGES TO THIS PRIVACY POLICY 
+If you have further questions or concerns about Blue Coat’s collection, use or disclosure of your personal information, please email Blue Coat at [privacy@bluecoat.com](mailto:privacy@bluecoat.com). For more information about the Services, please email us at [K9support@bluecoat.com](mailto:K9support@bluecoat.com).
 
-Blue Coat may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used/collected. If we make changes in the way we use Personal Information, we will notify you by posting an announcement on our Web site. 
+Changes to this Statement
 
-## QUESTIONS OR CONCERNS
-
-If you have any questions or concerns regarding privacy at Blue Coat site, please send us a detailed message to [privacy@bluecoat.com](mailto:privacy@bluecoat.com). We will make every effort to resolve your concerns. 
+If Blue Coat changes this statement, it will publish those changes with the effective date of the new statement. If those changes are material, we will use reasonable efforts to notify you and give you the chance to opt out of those changes with respect to information previously collected under this statement.
