@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cleversurfer.com privacy policy that was archived on 2013-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130829065917id_/http%3A//cleversurfer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cleversurfer.com privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528004749id_/http%3A//cleversurfer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | For the Clever Surfer in you….
 
