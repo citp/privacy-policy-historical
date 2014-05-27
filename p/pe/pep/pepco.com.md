@@ -1,32 +1,20 @@
-> *The following text is extracted and transformed from the pepco.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225055616id_/http%3A//www.pepco.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pepco.com privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527160351id_/http%3A//www.pepco.com/Privacy) for the most accurate reproduction.*
 
-# Pepco - Privacy Policy
+# Privacy - Pepco
 
-### Table of Contents
+Pepco Holdings, Inc. is firmly committed to ensuring online user privacy. We provide this notice to explain our online information-gathering practices and the choices you can make about the way information about you is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. This privacy policy applies to Pepco Holdings Inc., its affiliates and subsidiaries including but not limited to Potomac Electric Power Company, Delmarva Power & Light Company, and Atlantic City Electric Company (hereinafter "PHI").
 
-  * Our Commitment To Privacy
-  * The Information We Collect
-  * The Way We Use Information
-  * Our Commitment To Data Security
-  * About Cookies
-  * How To Contact Us
-  * Modification
-
-
-
-Pepco Holdings, Inc. is firmly committed to ensuring online user privacy. We provide this notice to explain our online information-gathering practices and the choices you can make about the way information about you is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. This privacy policy applies to Pepco Holdings Inc., its affiliates and subsidiaries including but not limited to Potomac Electric Power Company, Delmarva Power & Light Company, and Atlantic City Electric Company (hereinafter "PHI"). 
-
-### Please read the following PHI Privacy Notice: 
+## Please read the following PHI Privacy Notice:
 
 ### Our Commitment to Privacy
 
-Because protecting the privacy of site visitors, including our customers, shareholders, employees, and potential employees, is important to us, PHI does not sell, trade, rent, give or distribute information about you or your account to any third party, without your permission. 
+Because protecting the privacy of site visitors, including our customers, shareholders, employees, and potential employees, is important to us, PHI does not sell, trade, rent, give or distribute information about you or your account to any third party, without your permission.
 
 ### The Information We Collect
 
-This notice applies to all information collected or submitted on pepcoholdings.com; pepco.com; delmarva.com; and atlanticcityelectric.com. PHI does not collect personally identifiable information about you unless you voluntarily provide it. At any time, before you submit, you may opt-out of providing such information by closing the PHI Web site. 
+This notice applies to all information collected or submitted on pepcoholdings.com; pepco.com; delmarva.com; and atlanticcityelectric.com. PHI does not collect personally identifiable information about you unless you voluntarily provide it. At any time, before you submit, you may opt-out of providing such information by closing the PHI Web site.
 
-Examples of personally identifiable information which you may provide to us while using our site include: 
+Examples of personally identifiable information which you may provide to us while using our site include:
 
   * E-mail address
   * Name
@@ -61,28 +49,28 @@ We use the personally identifiable information you provide to:
 
 
 
-We do not share this information with outside parties without your permission. 
+We do not share this information with outside parties without your permission.
 
-We use non-identifying and aggregate information about site visitors to measure the number of visitors to the different sections of our site, and to help us make our site more useful to visitors. 
+We use non-identifying and aggregate information about site visitors to measure the number of visitors to the different sections of our site, and to help us make our site more useful to visitors.
 
-We use return email addresses to answer the email we receive. Such addresses are not shared with outside parties without your permission. 
+We use return email addresses to answer the email we receive. Such addresses are not shared with outside parties without your permission.
 
-Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
+Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
 
 ### Our Commitment to Data Security
 
-While no security system is absolutely safe, PHI takes reasonable precautions to protect your personally identifiable information from loss, misuse, alteration and destruction. To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. In some areas of our Web site, we require a user ID and password for you to access certain information. PHI will not disclose passwords to third parties. However, you are responsible for maintaining the privacy and security of your password. 
+While no security system is absolutely safe, PHI takes reasonable precautions to protect your personally identifiable information from loss, misuse, alteration and destruction. To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. In some areas of our Web site, we require a user ID and password for you to access certain information. PHI will not disclose passwords to third parties. However, you are responsible for maintaining the privacy and security of your password.
 
 ### About Cookies
 
-A cookie is a piece of data stored on your hard drive or in your computer's memory containing information about your visit. This makes it more convenient for users by allowing them to visit pages within a site without having to input personal information every time they click a link within the website. On pepcoholdings.com; pepco.com; delmarva.com; and atlanticcityelectric.com, cookies are not used to invade the privacy of Internet users. 
+A cookie is a piece of data stored on your hard drive or in your computer's memory containing information about your visit. This makes it more convenient for users by allowing them to visit pages within a site without having to input personal information every time they click a link within the website. On pepcoholdings.com; pepco.com; delmarva.com; and atlanticcityelectric.com, cookies are not used to invade the privacy of Internet users.
 
-When you link to other sites from pepcoholdings.com; pepco.com; delmarva.com; and atlanticcityelectric.com, our privacy policy no longer applies. Since those websites may use cookies, you should review the other sites' privacy policy. 
+When you link to other sites from pepcoholdings.com; pepco.com; delmarva.com; and atlanticcityelectric.com, our privacy policy no longer applies. Since those websites may use cookies, you should review the other sites' privacy policy.
 
 ### How to Contact Us
 
-Should you have other questions or concerns about this privacy policy, please call us at (202) 833-7500 or [click here](https://www.pepco.com/contact/online/default.aspx) to contact us online. 
+Should you have other questions or concerns about this privacy policy, please call us at (202) 833-7500 or [click here](https://web.archive.org/Forms/Pepco/Other/ContactUs.aspx "click here") to contact us online.
 
 ### Modification
 
-We reserve the right to change this privacy policy from time to time and without notice. Changes to this privacy policy will be posted to this site accordingly. You may want to visit this page periodically to review the current policy. Our Privacy Notice applies to personal information only and not to aggregate and/or generic information that does not identify the individual. This statement and the policies outlined herein are not intended to and do not create any contractual or legal rights on behalf of any party. 
+We reserve the right to change this privacy policy from time to time and without notice. Changes to this privacy policy will be posted to this site accordingly. You may want to visit this page periodically to review the current policy. Our Privacy Notice applies to personal information only and not to aggregate and/or generic information that does not identify the individual. This statement and the policies outlined herein are not intended to and do not create any contractual or legal rights on behalf of any party.
