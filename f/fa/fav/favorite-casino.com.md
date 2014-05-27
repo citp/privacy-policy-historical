@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the favorite-casino.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817092605id_/http%3A//www.favorite-casino.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the favorite-casino.com privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527025458id_/http%3A//www.favorite-casino.com/privacy.html) for the most accurate reproduction.*
 
 # Favorite Casino - LR - PM - Visa/Master - Privacy Policy
 
@@ -60,6 +60,6 @@ You may choose to restrict the collection or use of your personal information in
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. 
 
-[](http://serve.eurogrand.com/promoRedirect?member=edelweis&campaign=DEFAULT&channel=favoritecasino&zone=1472407207&lp=1471990545)
+[](http://online.europacasino.com/promoRedirect?key=ej0yMTkwMzk3MzIxJmw9MCZwPTEwMTE0NzA%3D==)
 
-[](http://www.hotforex.com/landing-pages/50percent-bonus/?refid=11163&bid=cc7c4a34)
+[](http://instaforex.com/?x=favorite)
