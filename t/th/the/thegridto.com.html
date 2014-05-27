@@ -1,20 +1,23 @@
-<!--The following is the downloaded HTML source of the thegridto.com privacy policy that was archived on 2013-10-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131016121709id_/http%3A//www.thegridto.com/connect/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thegridto.com privacy policy that was archived on 2014-05-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140527113851id_/http%3A//www.thegridto.com/connect/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en" dir="ltr" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
-		<meta charset="utf-8">
-								<script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
-<title>Privacy Policy | The Grid TO</title>
+		<meta charset="utf-8"><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgYDVVRXGwIDUFlaAAI="};window.NREUM||(NREUM={}),__nr_require=function a(b,c,d){function e(f){if(!c[f]){var g=c[f]={exports:{}};b[f][0].call(g.exports,function(a){var c=b[f][1][a];return e(c?c:a)},g,g.exports,a,b,c,d)}return c[f].exports}for(var f=0;f<d.length;f++)e(d[f]);return e}({1:[function(a,b){function c(a,b,c){c||(c={});for(var d=f[a],e=d&&d.length||0,h=c[g]||(c[g]={}),i=0;e>i;i++)d[i].apply(h,b);return h}function d(a,b){var c=f[a]||(f[a]=[]);c.push(b)}function e(a){return delete a[g]}var f={},g="nr@context";b.exports={on:d,emit:c,clear:e}},{}],2:[function(a){function b(a,b,e,g,i){return h?h-=1:c("err",[i||new UncaughtException(a,b,e)]),"function"==typeof f?f.apply(this,d(arguments)):!1}function UncaughtException(a,b,c){this.message=a||"Uncaught error with no additional information",this.sourceURL=b,this.line=c}var c=a("handle"),d=a("lodash._slice"),e=a("../../../contextual-ee"),f=window.onerror,g=!1,h=0;a("loader").features.push("err"),window.onerror=b;try{throw new Error}catch(i){"stack"in i&&(a("../../wrap-timer"),a("../../wrap-raf"),"addEventListener"in window&&a("../../wrap-events"),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&a("../../wrap-xhr"),g=!0)}e.on("fn-start",function(){g&&(h+=1)}),e.on("fn-err",function(a,b,d){g&&(this.thrown=!0,c("err",[d,(new Date).getTime()]))}),e.on("fn-end",function(){g&&!this.thrown&&h>0&&(h-=1)})},{"../../../contextual-ee":1,"../../wrap-events":3,"../../wrap-raf":4,"../../wrap-timer":5,"../../wrap-xhr":6,handle:"4O2Y62",loader:"YLUGVp","lodash._slice":14}],3:[function(a){function b(a){d.inPlace(a,["addEventListener","removeEventListener"],"-",c)}function c(a){return a[1]}var d=a("../wrap-function"),e=(a("lodash._slice"),a("../contextual-ee"));if(b(window),"getPrototypeOf"in Object){for(var f=document;f&&!f.hasOwnProperty("addEventListener");)f=Object.getPrototypeOf(f);f&&b(f);for(var g=XMLHttpRequest.prototype;g&&!g.hasOwnProperty("addEventListener");)g=Object.getPrototypeOf(g);g&&b(g)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&b(XMLHttpRequest.prototype);e.on("addEventListener-start",function(a){if(a[1]){var b=a[1];"function"==typeof b?this.wrapped=b["nr@wrapped"]?a[1]=b["nr@wrapped"]:b["nr@wrapped"]=a[1]=d(b,"fn-"):"function"==typeof b.handleEvent&&d.inPlace(b,["handleEvent"],"fn-")}}),e.on("removeEventListener-start",function(a){var b=this.wrapped;b&&(a[1]=b)})},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],4:[function(a){var b=(a("lodash._slice"),a("../wrap-function")),c=a("../contextual-ee");b.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),c.on("raf-start",function(a){a[0]=b(a[0],"fn-")})},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],5:[function(a){function b(a){var b=a[0];"string"==typeof b&&(b=new Function(b)),a[0]=c(b,"fn-")}var c=(a("lodash._slice"),a("../wrap-function")),d=a("../contextual-ee");c.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),d.on("setTimer-start",b)},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],6:[function(a){function b(){c.inPlace(this,f,"fn-")}var c=a("../wrap-function"),d=a("../contextual-ee"),e=window.XMLHttpRequest,f=["onload","onerror","onabort","onloadstart","onloadend","onprogress","onreadystatechange","ontimeout"];window.XMLHttpRequest=function(a){var f=new e(a);return d.emit("new-xhr",[],f),c.inPlace(f,["addEventListener","removeEventListener"],"-",function(a,b){return b}),f.addEventListener("readystatechange",b,!1),f},window.XMLHttpRequest.prototype=e.prototype},{"../contextual-ee":1,"../wrap-function":15}],7:[function(a){function b(a){if("string"==typeof a&&a.length)return a.length;if("object"!=typeof a)return void 0;if("undefined"!=typeof ArrayBuffer&&a instanceof ArrayBuffer&&a.byteLength)return a.byteLength;if("undefined"!=typeof Blob&&a instanceof Blob&&a.size)return a.size;if("undefined"!=typeof FormData&&a instanceof FormData)return void 0;try{return JSON.stringify(a).length}catch(b){return void 0}}function c(a){var c=this.params,d=this.metrics;if(!this.ended){this.ended=!0;for(var e=0;k>e;e++)a.removeEventListener(j[e],this.listener,!1);if(!c.aborted){if(d.duration=(new Date).getTime()-this.startTime,4===a.readyState){c.status=a.status;var g=a.responseType,h="arraybuffer"===g||"blob"===g||"json"===g?a.response:a.responseText,i=b(h);if(i&&(d.rxSize=i),this.sameOrigin){var l=a.getResponseHeader("X-NewRelic-App-Data");l&&(c.cat=l.split(", ").pop())}}else c.status=0;d.cbTime=this.cbTime,f("xhr",[c,d])}}}function d(a,b){var c=g(b),d=a.params;d.host=c.hostname+":"+c.port,d.pathname=c.pathname,a.sameOrigin=c.sameOrigin}function e(a,b){return b}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){a("loader").features.push("xhr");var f=a("handle"),g=a("./parse-url.js"),h=a("../../../wrap-function"),i=a("../../../contextual-ee"),j=["load","error","abort","timeout"],k=j.length,l=a("../../../loader/id");a("../../wrap-events"),a("../../wrap-xhr"),i.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=c,this.ended=!1,this.xhrGuids={}}),h.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",e),i.on("open-xhr-start",function(a){this.params={method:a[0]},d(this,a[1]),this.metrics={}}),i.on("open-xhr-end",function(a,b){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&b.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),i.on("send-xhr-start",function(a,c){var d=this.metrics,e=a[0],f=this;if(d&&e){var g=b(e);g&&(d.txSize=g)}this.startTime=(new Date).getTime(),this.listener=function(a){try{"abort"===a.type&&(f.params.aborted=!0),("load"!==a.type||f.called===f.totalCbs&&(f.onloadCalled||"function"!=typeof c.onload))&&f.end(c)}catch(b){}};for(var h=0;k>h;h++)c.addEventListener(j[h],this.listener,!1)}),i.on("xhr-cb-time",function(a,b,c){this.cbTime+=a,b?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof c.onload||this.end(c)}),i.on("xhr-load-added",function(a,b){var c=""+l(a)+!!b;this.xhrGuids&&!this.xhrGuids[c]&&(this.xhrGuids[c]=!0,this.totalCbs+=1)}),i.on("xhr-load-removed",function(a,b){var c=""+l(a)+!!b;this.xhrGuids&&this.xhrGuids[c]&&(delete this.xhrGuids[c],this.totalCbs-=1)}),i.on("addEventListener-end",function(a,b){b instanceof XMLHttpRequest&&"load"===a[0]&&i.emit("xhr-load-added",[a[1],a[2]],b)}),i.on("removeEventListener-end",function(a,b){b instanceof XMLHttpRequest&&"load"===a[0]&&i.emit("xhr-load-removed",[a[1],a[2]],b)}),i.on("fn-start",function(a,b,c){b instanceof XMLHttpRequest&&("onload"===c&&(this.onload=!0),("load"===(a[0]&&a[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),i.on("fn-end",function(a,b){this.xhrCbStart&&i.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,b],b)})}},{"../../../contextual-ee":1,"../../../loader/id":11,"../../../wrap-function":15,"../../wrap-events":3,"../../wrap-xhr":6,"./parse-url.js":8,handle:"4O2Y62",loader:"YLUGVp"}],8:[function(a,b){b.exports=function(a){var b=document.createElement("a"),c=window.location,d={};b.href=a,d.port=b.port;var e=b.href.split("://");return!d.port&&e[1]&&(d.port=e[1].split("/")[0].split(":")[1]),d.port&&"0"!==d.port||(d.port="https"===e[0]?"443":"80"),d.hostname=b.hostname||c.hostname,d.pathname=b.pathname,"/"!==d.pathname.charAt(0)&&(d.pathname="/"+d.pathname),d.sameOrigin=!b.hostname||b.hostname===document.domain&&b.port===c.port&&b.protocol===c.protocol,d}},{}],handle:[function(a,b){b.exports=a("4O2Y62")},{}],"4O2Y62":[function(a,b){function c(a,b){var c=d[a];return c?c.apply(this,b):(e[a]||(e[a]=[]),void e[a].push(b))}var d={},e={};b.exports=c,c.queues=e,c.handlers=d},{}],11:[function(a,b){function c(a){if(!a||"object"!=typeof a&&"function"!=typeof a)return-1;if(a===window)return 0;if(e.call(a,"__nr"))return a.__nr;try{return Object.defineProperty(a,"__nr",{value:d,writable:!0,enumerable:!1}),d}catch(b){return a.__nr=d,d}finally{d+=1}}var d=1,e=Object.prototype.hasOwnProperty;b.exports=c},{}],loader:[function(a,b){b.exports=a("YLUGVp")},{}],YLUGVp:[function(a,b){function c(){var a=m.info=NREUM.info;if(a&&a.agent&&a.licenseKey&&a.applicationID){m.proto="https"===l.split(":")[0]||a.sslForHttp?"https://":"http://",g("mark",["onload",f()]);var b=i.createElement("script");b.src=m.proto+a.agent,i.body.appendChild(b)}}function d(){"complete"===i.readyState&&e()}function e(){g("mark",["domContent",f()])}function f(){return(new Date).getTime()}var g=a("handle"),h=window,i=h.document,j="addEventListener",k="attachEvent",l=(""+location).split("?")[0],m=b.exports={offset:f(),origin:l,features:[]};i[j]?(i[j]("DOMContentLoaded",e,!1),h[j]("load",c,!1)):(i[k]("onreadystatechange",d),h[k]("onload",c)),g("mark",["firstbyte",f()])},{handle:"4O2Y62"}],14:[function(a,b){function c(a,b,c){b||(b=0),"undefined"==typeof c&&(c=a?a.length:0);for(var d=-1,e=c-b||0,f=Array(0>e?0:e);++d<e;)f[d]=a[b+d];return f}b.exports=c},{}],15:[function(a,b){function c(a,b,c,d){function nrWrapper(){var g,h=f(arguments),i=this,j=c&&c(h,i)||{};try{e.emit(b+"start",[h,i,d],j)}catch(k){}try{return g=a.apply(i,h)}catch(l){throw e.emit(b+"err",[h,i,l],j),l}finally{try{e.emit(b+"end",[h,i,g],j)}catch(k){}}}return a&&"function"==typeof a&&a.apply&&!a._wrapped?(b||(b=""),nrWrapper._wrapped=!0,nrWrapper):a}function d(a,b,d,e){d||(d="");var f,g,h,i="-"===d.charAt(0);for(h=0;h<b.length;h++)g=b[h],f=a[g],f&&"function"==typeof f&&f.apply&&!f._wrapped&&(a[g]=c(f,i?g+d:d,e,g,a))}var e=a("../contextual-ee"),f=a("lodash._slice");b.exports=c,c.inPlace=d},{"../contextual-ee":1,"lodash._slice":14}]},{},["YLUGVp",7,2]);</script>
+								<title>Privacy Policy | The Grid TO</title>
 
 
                               <meta property="pressly:uid" content="http://www.thegridto.com/?page_id=324">
          
         <meta name="description" content="The Grid is a weekly city magazine and daily website providing a fresh, accessible voice for Toronto. Our goal is to capture the vibe and energy of a city in ascendance, largely by rejecting the glossy, doggedly aspirational vision of it you see in so many other publications.">
-        <meta property="fb:app_id" content="170800862977645">
+        <!-- <meta property="fb:app_id" content="170800862977645" /> -->
         <meta property="og:title" content="Privacy Policy">
         <meta property="og:type" content="website">
-        	<meta property="og:image" content="/core/images/logo-the-grid.gif?v=39"> 
+        <meta property="og:url" content="http://www.thegridto.com/connect/privacy-policy/">
+         <!-- google web master for schoeffman -->
+        <meta name="google-site-verification" content="KDyuiHIH9VH0ZDJ9U4pkNgP8brJ2THbbisK7qBD7CCY">
+        <meta property="og:image" content="/core/images/logo-the-grid.gif?v=41"> 
 	    <script type="text/javascript" src="http://api.pressly.com/510ac20b3d3d9dda1000013f/510ac20c3d3d9dda10000142/redirect.js"></script>
+	    <!-- <script type="text/javascript" src="http://www.thegridto.com/core/js/facebooksdk.js"></script> -->
  			
       	
 	<!-- This site is optimized with the Yoast WordPress SEO plugin v0.3.5 - http://yoast.com/wordpress/seo/ -->
@@ -191,6 +194,7 @@ var _wpcf7 = { cached: 1 };
 	<script type="text/javascript"> jQuery(document).ready( function() { jQuery("a.confirm").click( function() { if ( confirm( 'Are you sure?' ) ) return true; else return false; }); });</script>
 
         	<link rel="stylesheet" type="text/css" href="http://www.thegridto.com/core/css/uncompressed/gallery.css">
+        	<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
 	</head>
 		<body>
 				
@@ -214,22 +218,19 @@ var _wpcf7 = { cached: 1 };
                         <div id="hdr-advertisment" class="fw">
 
 
-         					<div class="pull-left"><script language="javascript"><!--
+         				<div class="pull-left"><script language="javascript"><!--
 document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtechus.com/addyn/3.0/5214/2044258/0/225/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=142016481;misc='+new Date().getTime()+';rdclick="></scri'+'pt>');
 //-->
-</script><script language="javascript1.1" src="http://adserver.adtechus.com/addyn/3.0/5214/2044258/0/225/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=142016481;misc=1580391008408;rdclick="></script><noscript><a href="http://adserver.adtechus.com/adlink/3.0/5214/2044258/0/225/ADTECH;loc=300;key=key1+key2+key3+key4;grp=142016481;rdclick=" target="_blank"><img src="http://adserver.adtechus.com/adserv/3.0/5214/2044258/0/225/ADTECH;loc=300;key=key1+key2+key3+key4;grp=142016481" border="0" width="728" height="90"></a></noscript>
+</script><script language="javascript1.1" src="http://adserver.adtechus.com/addyn/3.0/5214/2044258/0/225/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=142016481;misc=1580391013394;rdclick="></script><noscript><a href="http://adserver.adtechus.com/adlink/3.0/5214/2044258/0/225/ADTECH;loc=300;key=key1+key2+key3+key4;grp=142016481;rdclick=" target="_blank"><img src="http://adserver.adtechus.com/adserv/3.0/5214/2044258/0/225/ADTECH;loc=300;key=key1+key2+key3+key4;grp=142016481" border="0" width="728" height="90"></a></noscript>
 <!-- End of JavaScript Tag --></div>
             
-
-
-
 				<div class="social-links pull-right">
 					<ul class="horizontal">
 						<li><a onclick="_gaq.push(['_trackEvent', 'Header', 'Interaction', 'RSS Feed']);" class="btn icn-rss" href="/feed/" target="_blank">The Grid - RSS Feed</a></li>
 						<li><a onclick="_gaq.push(['_trackEvent', 'Header', 'Interaction', 'Facebook']);" class="btn icn-facebook" href="http://www.facebook.com/thegridto/" target="_blank">The Grid - Facebook</a></li>
 						<li><a onclick="_gaq.push(['_trackEvent', 'Header', 'Interaction', 'Twitter']);" class="btn icn-twitter" href="http://twitter.com/#!/TheGridTo/" target="_blank">The Grid - Twitter</a></li>
-						<li><a onclick="_gaq.push(['_trackEvent', 'Header', 'Interaction', 'Youtube']);" class="btn icn-youtube" href="http://www.youtube.com/user/TheGridTO" target="_blank">The Grid - Youtube</a></li>
-						<li><a onclick="_gaq.push(['_trackEvent', 'Header', 'Interaction', 'Flickr']);" class="btn icn-flickr" href="http://www.flickr.com/groups/thegrid/" target="_blank">The Grid - Youtube</a></li>
+						<li><a onclick="_gaq.push(['_trackEvent', 'Header', 'Interaction', 'Instagram']);" class="btn icn-instagram" href="http://instagram.com/thegridto" target="_blank">The Grid - Instagram</a></li>
+						<li><a onclick="_gaq.push(['_trackEvent', 'Header', 'Interaction', 'Tumblr']);" class="btn icn-tumblr" href="http://thegridartdept.tumblr.com/" target="_blank">The Grid - Tumblr</a></li>
 					</ul>
 				</div>
 			</div>
@@ -532,8 +533,6 @@ $(document).ready( function() {
                     	<li><a href="http://www.thegridto.com/city">All</a></li>
                         	<li class="cat-item cat-item-4"><a href="http://www.thegridto.com/city/local-news/" title="View all posts filed under Local News">Local News</a>
 </li>
-	<li class="cat-item cat-item-263"><a href="http://www.thegridto.com/city/opinion/" title="View all posts filed under Opinion">Opinion</a>
-</li>
 	<li class="cat-item cat-item-87"><a href="http://www.thegridto.com/city/people/" title="View all posts filed under People">People</a>
 </li>
 	<li class="cat-item cat-item-394"><a href="http://www.thegridto.com/city/places/" title="View all posts filed under Places">Places</a>
@@ -554,13 +553,13 @@ $(document).ready( function() {
 		                    <div class="nav-headline">
 		                          Featured in City		                    </div>
                             <div class="article-preview main">
-		                        <a onclick="_gaq.push(['_trackEvent', 'Navigation city', 'Interaction', 'Featured Article']);" href="http://www.thegridto.com/city/sports/a-league-of-their-own/">
-		                        						            	<img width="275" height="185" src="http://www.thegridto.com/wp-content/uploads/5253066070e5a-gh5qplz3-506x340.jpg" class="attachment-300x185 wp-post-image" alt="PHOTOS: STEVE RUSSELL/TORONTO STAR" title="Toronto Phantoms">		                        </a>
+		                        <a onclick="_gaq.push(['_trackEvent', 'Navigation city', 'Interaction', 'Featured Article']);" href="http://www.thegridto.com/city/politics/bring-the-paign-tough-talk-from-tory/">
+		                        						            	<img width="277" height="185" src="http://www.thegridto.com/wp-content/uploads/537f5fe285753-CO-ToryAnnouncement03-510x340.jpg" class="attachment-300x185 wp-post-image" alt="Photo: Carlos Osorio/Toronto Star" title="John Tory">		                        </a>
                                 <div class="clear"></div>
-		                        <div class="article-time sprite"><div class="pull-left">3:00</div><span>pm</span></div>
-		                        <div class="article-date"><span><a href="http://www.thegridto.com/city/sports/" title="View all posts in Sports" rel="category tag">Sports</a></span><br>Tue Oct 15, 2013</div>
-		                        <div class="article-title"><a onclick="_gaq.push(['_trackEvent', 'Navigation city', 'Interaction', 'Featured Article']);" href="http://www.thegridto.com/city/sports/a-league-of-their-own/">A league of their own</a></div>
-		                        <p>Even in a sporting city as forgiving and loyal as ours, there were teams that just didn’t make...</p>
+		                        <div class="article-time sprite"><div class="pull-left">11:00</div><span>am</span></div>
+		                        <div class="article-date"><span><a href="http://www.thegridto.com/city/politics/" title="View all posts in Politics" rel="category tag">Politics</a></span><br>Fri May 23, 2014</div>
+		                        <div class="article-title"><a onclick="_gaq.push(['_trackEvent', 'Navigation city', 'Interaction', 'Featured Article']);" href="http://www.thegridto.com/city/politics/bring-the-paign-tough-talk-from-tory/">Bring the ’Paign: Tough talk from Tory</a></div>
+		                        <p>This week in our election-news digest: John Tory says the city didn't properly coordinate Lake...</p>
 		                    </div>
 		                </div>
 		                <div class="column">
@@ -568,26 +567,26 @@ $(document).ready( function() {
 		                          More headlines 		                    </div>
 		             						                    <div class="article-preview">
 		                        <div class="article-content">
-		                            <div class="article-date"><span><a href="http://www.thegridto.com/city/local-news/" title="View all posts in Local News" rel="category tag">Local News</a></span><br>Tue Oct 15, 2013_8:30 am</div>
-		                            <div class="article-title"><a onclick="_gaq.push(['_trackEvent', 'Navigation city', 'Interaction', 'More Headlines']);" href="http://www.thegridto.com/city/local-news/whats-the-deal-with-squirrels/">What’s the deal with squirrels...</a></div>
+		                            <div class="article-date"><span><a href="http://www.thegridto.com/city/podcasts/" title="View all posts in Podcasts" rel="category tag">Podcasts</a></span><br>Thu May 22, 2014_3:00 pm</div>
+		                            <div class="article-title"><a onclick="_gaq.push(['_trackEvent', 'Navigation city', 'Interaction', 'More Headlines']);" href="http://www.thegridto.com/city/podcasts/the-keenan-wire-radio-program-may-21-2014-broadcast/">The Keenan Wire Radio Program:...</a></div>
 		                        </div>
 		                    </div>
 											                    <div class="article-preview">
 		                        <div class="article-content">
-		                            <div class="article-date"><span><a href="http://www.thegridto.com/city/people/" title="View all posts in People" rel="category tag">People</a></span><br>Thu Oct 10, 2013_12:00 pm</div>
-		                            <div class="article-title"><a onclick="_gaq.push(['_trackEvent', 'Navigation city', 'Interaction', 'More Headlines']);" href="http://www.thegridto.com/city/people/rachel-parent-junior-anti-gmo-crusader/">Rachel Parent: Junior anti-GMO...</a></div>
+		                            <div class="article-date"><span><a href="http://www.thegridto.com/city/places/" title="View all posts in Places" rel="category tag">Places</a></span><br>Thu May 22, 2014_8:00 am</div>
+		                            <div class="article-title"><a onclick="_gaq.push(['_trackEvent', 'Navigation city', 'Interaction', 'More Headlines']);" href="http://www.thegridto.com/city/places/get-spooked-at-doors-open/">Get spooked at Doors Open</a></div>
 		                        </div>
 		                    </div>
 											                    <div class="article-preview">
 		                        <div class="article-content">
-		                            <div class="article-date"><span><a href="http://www.thegridto.com/city/people/" title="View all posts in People" rel="category tag">People</a></span><br>Thu Oct 10, 2013_9:00 am</div>
-		                            <div class="article-title"><a onclick="_gaq.push(['_trackEvent', 'Navigation city', 'Interaction', 'More Headlines']);" href="http://www.thegridto.com/city/people/who-patches-up-the-busted-streetcars/">Who patches up the busted streetcars...</a></div>
+		                            <div class="article-date"><span><a href="http://www.thegridto.com/city/people/" title="View all posts in People" rel="category tag">People</a></span><br>Wed May 21, 2014_3:20 pm</div>
+		                            <div class="article-title"><a onclick="_gaq.push(['_trackEvent', 'Navigation city', 'Interaction', 'More Headlines']);" href="http://www.thegridto.com/city/people/kathleen-wynne-ontario-premier/">Kathleen Wynne: Ontario Premier...</a></div>
 		                        </div>
 		                    </div>
 											                    <div class="article-preview">
 		                        <div class="article-content">
-		                            <div class="article-date"><span><a href="http://www.thegridto.com/city/places/" title="View all posts in Places" rel="category tag">Places</a></span><br>Wed Oct 9, 2013_3:00 pm</div>
-		                            <div class="article-title"><a onclick="_gaq.push(['_trackEvent', 'Navigation city', 'Interaction', 'More Headlines']);" href="http://www.thegridto.com/city/places/whats-hiding-inside-616-richmond-st-w/">What’s hiding inside 616 Richmond...</a></div>
+		                            <div class="article-date"><span><a href="http://www.thegridto.com/city/places/" title="View all posts in Places" rel="category tag">Places</a></span><br>Wed May 21, 2014_12:00 pm</div>
+		                            <div class="article-title"><a onclick="_gaq.push(['_trackEvent', 'Navigation city', 'Interaction', 'More Headlines']);" href="http://www.thegridto.com/city/places/whos-killing-the-leslie-spits-trees/">Who’s killing the Leslie Spit...</a></div>
 		                        </div>
 		                    </div>
 													 
@@ -633,13 +632,13 @@ $(document).ready( function() {
 		                    <div class="nav-headline">
 		                          Featured in Life		                    </div>
                             <div class="article-preview main">
-		                        <a onclick="_gaq.push(['_trackEvent', 'Navigation life', 'Interaction', 'Featured Article']);" href="http://www.thegridto.com/life/food-drink/age-of-majority/">
-		                        						            	<img width="284" height="185" src="http://www.thegridto.com/wp-content/uploads/52557a3b6be1e-Drinks-522x340.jpg" class="attachment-300x185 wp-post-image" alt="Age of majority" title="Age of majority">		                        </a>
+		                        <a onclick="_gaq.push(['_trackEvent', 'Navigation life', 'Interaction', 'Featured Article']);" href="http://www.thegridto.com/blog-post/shop-talk-author-david-sax-on-how-your-food-trend-sausage-is-made/">
+		                        						            	<img width="278" height="185" src="http://www.thegridto.com/wp-content/uploads/53839ef4c08fe-537e5207f0d61-DavidSax-511x340.jpg" class="attachment-300x185 wp-post-image" alt="David Sax" title="David Sax">		                        </a>
                                 <div class="clear"></div>
-		                        <div class="article-time sprite"><div class="pull-left">3:00</div><span>pm</span></div>
-		                        <div class="article-date"><span><a href="http://www.thegridto.com/life/food-drink/" title="View all posts in Food and Drink" rel="category tag">Food and Drink</a></span><br>Fri Oct 11, 2013</div>
-		                        <div class="article-title"><a onclick="_gaq.push(['_trackEvent', 'Navigation life', 'Interaction', 'Featured Article']);" href="http://www.thegridto.com/life/food-drink/age-of-majority/">Age of majority</a></div>
-		                        <p>With stellar drinks popping up at snack bars and neighbourhood joints, Toronto has grown into a...</p>
+		                        <div class="article-time sprite"><div class="pull-left">4:00</div><span>pm</span></div>
+		                        <div class="article-date"><span><a href="http://www.thegridto.com/life/food-drink/" title="View all posts in Food and Drink" rel="category tag">Food and Drink</a></span><br>Mon May 26, 2014</div>
+		                        <div class="article-title"><a onclick="_gaq.push(['_trackEvent', 'Navigation life', 'Interaction', 'Featured Article']);" href="http://www.thegridto.com/blog-post/shop-talk-author-david-sax-on-how-your-food-trend-sausage-is-made/">How do food trends happen?</a></div>
+		                        <p>In his new book, The Grid's David Sax explains why every restaurant is serving tacos (and pork...</p>
 		                    </div>
 		                </div>
 		                <div class="column">
@@ -647,26 +646,26 @@ $(document).ready( function() {
 		                          More headlines 		                    </div>
 		             						                    <div class="article-preview">
 		                        <div class="article-content">
-		                            <div class="article-date"><span><a href="http://www.thegridto.com/life/design/" title="View all posts in Design" rel="category tag">Design</a></span><br>Fri Oct 11, 2013_12:00 pm</div>
-		                            <div class="article-title"><a onclick="_gaq.push(['_trackEvent', 'Navigation life', 'Interaction', 'More Headlines']);" href="http://www.thegridto.com/life/design/odds-and-ends/">Odds and ends</a></div>
+		                            <div class="article-date"><span><a href="http://www.thegridto.com/life/food-drink/" title="View all posts in Food and Drink" rel="category tag">Food and Drink</a></span><br>Mon May 26, 2014_9:30 am</div>
+		                            <div class="article-title"><a onclick="_gaq.push(['_trackEvent', 'Navigation life', 'Interaction', 'More Headlines']);" href="http://www.thegridto.com/life/food-drink/crumbs/">Crumbs</a></div>
 		                        </div>
 		                    </div>
 											                    <div class="article-preview">
 		                        <div class="article-content">
-		                            <div class="article-date"><span><a href="http://www.thegridto.com/life/food-drink/" title="View all posts in Food and Drink" rel="category tag">Food and Drink</a></span><br>Fri Oct 11, 2013_10:00 am</div>
-		                            <div class="article-title"><a onclick="_gaq.push(['_trackEvent', 'Navigation life', 'Interaction', 'More Headlines']);" href="http://www.thegridto.com/life/food-drink/the-wine-ponce-wines-to-go-with-turkey/">The Wine Ponce: Wines to go with...</a></div>
+		                            <div class="article-date"><span><a href="http://www.thegridto.com/life/food-drink/" title="View all posts in Food and Drink" rel="category tag">Food and Drink</a></span><br>Mon May 26, 2014_9:00 am</div>
+		                            <div class="article-title"><a onclick="_gaq.push(['_trackEvent', 'Navigation life', 'Interaction', 'More Headlines']);" href="http://www.thegridto.com/life/food-drink/burger-week-2014-preview-the-east-end/">Burger Week 2014 preview: The...</a></div>
 		                        </div>
 		                    </div>
 											                    <div class="article-preview">
 		                        <div class="article-content">
-		                            <div class="article-date"><span><a href="http://www.thegridto.com/life/food-drink/" title="View all posts in Food and Drink" rel="category tag">Food and Drink</a></span><br>Fri Oct 11, 2013_9:00 am</div>
-		                            <div class="article-title"><a onclick="_gaq.push(['_trackEvent', 'Navigation life', 'Interaction', 'More Headlines']);" href="http://www.thegridto.com/life/food-drink/pocket-science/">Pocket science</a></div>
+		                            <div class="article-date"><span><a href="http://www.thegridto.com/life/food-drink/" title="View all posts in Food and Drink" rel="category tag">Food and Drink</a></span><br>Fri May 23, 2014_3:00 pm</div>
+		                            <div class="article-title"><a onclick="_gaq.push(['_trackEvent', 'Navigation life', 'Interaction', 'More Headlines']);" href="http://www.thegridto.com/life/food-drink/pink-sip/">Pink sip</a></div>
 		                        </div>
 		                    </div>
 											                    <div class="article-preview">
 		                        <div class="article-content">
-		                            <div class="article-date"><span><a href="http://www.thegridto.com/life/food-drink/" title="View all posts in Food and Drink" rel="category tag">Food and Drink</a></span><br>Thu Oct 10, 2013_3:00 pm</div>
-		                            <div class="article-title"><a onclick="_gaq.push(['_trackEvent', 'Navigation life', 'Interaction', 'More Headlines']);" href="http://www.thegridto.com/life/food-drink/persian-immersion/">Persian immersion</a></div>
+		                            <div class="article-date"><span><a href="http://www.thegridto.com/life/food-drink/" title="View all posts in Food and Drink" rel="category tag">Food and Drink</a></span><br>Fri May 23, 2014_2:30 pm</div>
+		                            <div class="article-title"><a onclick="_gaq.push(['_trackEvent', 'Navigation life', 'Interaction', 'More Headlines']);" href="http://www.thegridto.com/life/food-drink/burger-week-2014-preview-downtown/">Burger Week 2014 preview: Downtown...</a></div>
 		                        </div>
 		                    </div>
 													 
@@ -710,13 +709,13 @@ $(document).ready( function() {
 		                    <div class="nav-headline">
 		                          Featured in Culture		                    </div>
                             <div class="article-preview main">
-		                        <a onclick="_gaq.push(['_trackEvent', 'Navigation culture', 'Interaction', 'Featured Article']);" href="http://www.thegridto.com/culture/film/picture-claire/">
-		                        						            	<img width="274" height="185" src="http://www.thegridto.com/wp-content/uploads/52558757b2f02-k6siauz2-504x340.jpg" class="attachment-300x185 wp-post-image" alt="Photo: Lucas Oleniuk/Toronto Star" title="Claire Denis">		                        </a>
+		                        <a onclick="_gaq.push(['_trackEvent', 'Navigation culture', 'Interaction', 'Featured Article']);" href="http://www.thegridto.com/culture/arts/grid-picks-may-22-28/">
+		                        						            	<img width="276" height="185" src="http://www.thegridto.com/wp-content/uploads/537ba802c5175-TAYLOR-KITSCH-061113-PG-24-509x340.jpg" class="attachment-300x185 wp-post-image" alt="PHOTOGRAPH: RODRIGO &amp; LUIS JR. GUERRA/© 2013 RAMEY PHOTO" title="Taylor Kitsch">		                        </a>
                                 <div class="clear"></div>
-		                        <div class="article-time sprite"><div class="pull-left">4:00</div><span>pm</span></div>
-		                        <div class="article-date"><span><a href="http://www.thegridto.com/culture/film/" title="View all posts in Film" rel="category tag">Film</a></span><br>Fri Oct 11, 2013</div>
-		                        <div class="article-title"><a onclick="_gaq.push(['_trackEvent', 'Navigation culture', 'Interaction', 'Featured Article']);" href="http://www.thegridto.com/culture/film/picture-claire/">Picture Claire</a></div>
-		                        <p>We talked to 65-year-old Parisienne Claire Denis—in town for a Lightbox retrospective—about...</p>
+		                        <div class="article-time sprite"><div class="pull-left">9:00</div><span>am</span></div>
+		                        <div class="article-date"><span><a href="http://www.thegridto.com/culture/arts/" title="View all posts in Arts" rel="category tag">Arts</a></span><br>Thu May 22, 2014</div>
+		                        <div class="article-title"><a onclick="_gaq.push(['_trackEvent', 'Navigation culture', 'Interaction', 'Featured Article']);" href="http://www.thegridto.com/culture/arts/grid-picks-may-22-28/">Grid picks: May 22-28</a></div>
+		                        <p>The Top 25 cultural activities of the week, including Taylor Kitsch's star turn in The Normal Heart...</p>
 		                    </div>
 		                </div>
 		                <div class="column">
@@ -724,26 +723,26 @@ $(document).ready( function() {
 		                          More headlines 		                    </div>
 		             						                    <div class="article-preview">
 		                        <div class="article-content">
-		                            <div class="article-date"><span><a href="http://www.thegridto.com/culture/arts/" title="View all posts in Arts" rel="category tag">Arts</a></span><br>Fri Oct 11, 2013_1:00 pm</div>
-		                            <div class="article-title"><a onclick="_gaq.push(['_trackEvent', 'Navigation culture', 'Interaction', 'More Headlines']);" href="http://www.thegridto.com/culture/arts/its-the-end-of-the-world-as-we-know-it-and-he-solves-crimes/">It’s the end of the world as...</a></div>
+		                            <div class="article-date"><span><a href="http://www.thegridto.com/culture/music/" title="View all posts in Music" rel="category tag">Music</a></span><br>Thu May 22, 2014_8:45 am</div>
+		                            <div class="article-title"><a onclick="_gaq.push(['_trackEvent', 'Navigation culture', 'Interaction', 'More Headlines']);" href="http://www.thegridto.com/culture/music/chilly-gonzales-piano-class-pitch/">Chilly Gonzales’ piano-class...</a></div>
 		                        </div>
 		                    </div>
 											                    <div class="article-preview">
 		                        <div class="article-content">
-		                            <div class="article-date"><span><a href="http://www.thegridto.com/culture/music/" title="View all posts in Music" rel="category tag">Music</a></span><br>Thu Oct 10, 2013_2:00 pm</div>
-		                            <div class="article-title"><a onclick="_gaq.push(['_trackEvent', 'Navigation culture', 'Interaction', 'More Headlines']);" href="http://www.thegridto.com/culture/music/started-from-the-bottom-now-were-somewhere-in-the-middle/">Started from the bottom, now we...</a></div>
+		                            <div class="article-date"><span><a href="http://www.thegridto.com/culture/film/" title="View all posts in Film" rel="category tag">Film</a></span><br>Thu May 22, 2014_8:30 am</div>
+		                            <div class="article-title"><a onclick="_gaq.push(['_trackEvent', 'Navigation culture', 'Interaction', 'More Headlines']);" href="http://www.thegridto.com/culture/film/inside-out-2014-preview/">Inside Out 2014 preview</a></div>
 		                        </div>
 		                    </div>
 											                    <div class="article-preview">
 		                        <div class="article-content">
-		                            <div class="article-date"><span><a href="http://www.thegridto.com/culture/music/" title="View all posts in Music" rel="category tag">Music</a></span><br>Thu Oct 10, 2013_11:00 am</div>
-		                            <div class="article-title"><a onclick="_gaq.push(['_trackEvent', 'Navigation culture', 'Interaction', 'More Headlines']);" href="http://www.thegridto.com/culture/music/what-do-you-say-basia-bulat/">What do you say, Basia Bulat?</a></div>
+		                            <div class="article-date"><span><a href="http://www.thegridto.com/culture/film/" title="View all posts in Film" rel="category tag">Film</a></span><br>Thu May 22, 2014_8:15 am</div>
+		                            <div class="article-title"><a onclick="_gaq.push(['_trackEvent', 'Navigation culture', 'Interaction', 'More Headlines']);" href="http://www.thegridto.com/culture/film/adam-sandler/">Is Adam Sandler really the most...</a></div>
 		                        </div>
 		                    </div>
 											                    <div class="article-preview">
 		                        <div class="article-content">
-		                            <div class="article-date"><span><a href="http://www.thegridto.com/culture/film/" title="View all posts in Film" rel="category tag">Film</a></span><br>Thu Oct 10, 2013_8:00 am</div>
-		                            <div class="article-title"><a onclick="_gaq.push(['_trackEvent', 'Navigation culture', 'Interaction', 'More Headlines']);" href="http://www.thegridto.com/culture/film/captain-phillips/">Captain Phillips</a></div>
+		                            <div class="article-date"><span><a href="http://www.thegridto.com/culture/theatre/" title="View all posts in Theatre" rel="category tag">Theatre</a></span><br>Thu May 22, 2014_7:45 am</div>
+		                            <div class="article-title"><a onclick="_gaq.push(['_trackEvent', 'Navigation culture', 'Interaction', 'More Headlines']);" href="http://www.thegridto.com/culture/theatre/watch-mike-daisey-deconstruct-rob-ford/">Watch Mike Daisey deconstruct...</a></div>
 		                        </div>
 		                    </div>
 													 
@@ -754,256 +753,12 @@ $(document).ready( function() {
 	</div>
             </ul>
         </li>
-        <li class="trigger guides-nav"><a class="bdr" href="http://www.thegriddoes.com/food-booze/our-grid-picks/" target="_blank">grid picks</a></li>
-        <li class="trigger neighbourhoods-nav"><a class="bdr" href="/neighbourhoods">neighbourhoods</a>
-            <ul class="dropdown">
-		                <div id="neighbourhoods" class="subnav">
-	<section>
-		<div class="by-map">
-			<div class="nav-title">By map</div>
-			<a href="/neighbourhoods/" rel="Neighbourhood Category" title="Search By Map"><img src="/core/images/img-map.gif" title="Toronto Neighbourhoods" alt="Toronto Neighbourhoods"></a>
-		</div>
-		<div class="by-name" id="neighbourhood-list">
-			<div class="nav-title" style="margin-left:5px">By name</div>
-			<ul class="pull-left" style="width:171px;">
-				                          	<li>
-                	<a title="Annex" rel="category" href="/neighbourhoods/the-annex">
-					Annex</a>
-                </li>
-		                               	<li>
-                	<a title="Beach" rel="category" href="/neighbourhoods/the-beach">
-					Beach</a>
-                </li>
-		                               	<li>
-                	<a title="Bloorcourt" rel="category" href="/neighbourhoods/bloorcourt">
-					Bloorcourt</a>
-                </li>
-		                               	<li>
-                	<a title="Cabbagetown" rel="category" href="/neighbourhoods/cabbagetown">
-					Cabbagetown</a>
-                </li>
-		                               	<li>
-                	<a title="Chinatown" rel="category" href="/neighbourhoods/chinatown">
-					Chinatown</a>
-                </li>
-		                               	<li>
-                	<a title="Christie Pits" rel="category" href="/neighbourhoods/christie-pits">
-					Christie Pits</a>
-                </li>
-		                               	<li>
-                	<a title="Church Street" rel="category" href="/neighbourhoods/church-street">
-					Church Street</a>
-                </li>
-		                               	<li>
-                	<a title="College" rel="category" href="/neighbourhoods/college">
-					College</a>
-                </li>
-		                               	<li>
-                	<a title="Corso Italia" rel="category" href="/neighbourhoods/corso-italia">
-					Corso Italia</a>
-                </li>
-		                               	<li>
-                	<a title="Danforth" rel="category" href="/neighbourhoods/danforth">
-					Danforth</a>
-                </li>
-		                               	<li>
-                	<a title="Downsview" rel="category" href="/neighbourhoods/downsview">
-					Downsview</a>
-                </li>
-		     	
-			</ul>
-			<ul class="pull-left" style="width:171px;">
-				                          	<li>
-                	<a title="Downtown" rel="category" href="/neighbourhoods/downtown">
-					Downtown</a>
-                </li>
-		                               	<li>
-                	<a title="Dundas West" rel="category" href="/neighbourhoods/dundas-west">
-					Dundas West</a>
-                </li>
-		                               	<li>
-                	<a title="East York" rel="category" href="/neighbourhoods/east-york">
-					East York</a>
-                </li>
-		                               	<li>
-                	<a title="Entertainment District" rel="category" href="/neighbourhoods/entertainment-district">
-					Entertainment District</a>
-                </li>
-		                               	<li>
-                	<a title="Etobicoke" rel="category" href="/neighbourhoods/etobicoke">
-					Etobicoke</a>
-                </li>
-		                               	<li>
-                	<a title="Forest Hill" rel="category" href="/neighbourhoods/forest-hill">
-					Forest Hill</a>
-                </li>
-		                               	<li>
-                	<a title="Harbourfront" rel="category" href="/neighbourhoods/harbourfront">
-					Harbourfront</a>
-                </li>
-		                               	<li>
-                	<a title="High Park" rel="category" href="/neighbourhoods/high-park">
-					High Park</a>
-                </li>
-		                               	<li>
-                	<a title="Junction" rel="category" href="/neighbourhoods/the-junction">
-					Junction</a>
-                </li>
-		                               	<li>
-                	<a title="Junction Triangle" rel="category" href="/neighbourhoods/junction-triangle">
-					Junction Triangle</a>
-                </li>
-		                               	<li>
-                	<a title="Kensington Market" rel="category" href="/neighbourhoods/kensington-market">
-					Kensington Market</a>
-                </li>
-		     	
-			</ul>
-			<ul class="pull-left" style="width:171px;">
-				                          	<li>
-                	<a title="King West" rel="category" href="/neighbourhoods/king-west">
-					King West</a>
-                </li>
-		                               	<li>
-                	<a title="Leaside" rel="category" href="/neighbourhoods/leaside">
-					Leaside</a>
-                </li>
-		                               	<li>
-                	<a title="Leslieville" rel="category" href="/neighbourhoods/leslieville">
-					Leslieville</a>
-                </li>
-		                               	<li>
-                	<a title="Liberty Village" rel="category" href="/neighbourhoods/liberty-village">
-					Liberty Village</a>
-                </li>
-		                               	<li>
-                	<a title="Little India" rel="category" href="/neighbourhoods/little-india">
-					Little India</a>
-                </li>
-		                               	<li>
-                	<a title="Midtown" rel="category" href="/neighbourhoods/midtown">
-					Midtown</a>
-                </li>
-		                               	<li>
-                	<a title="North York" rel="category" href="/neighbourhoods/north-york">
-					North York</a>
-                </li>
-		                               	<li>
-                	<a title="Ossington" rel="category" href="/neighbourhoods/ossington">
-					Ossington</a>
-                </li>
-		                               	<li>
-                	<a title="Parkdale" rel="category" href="/neighbourhoods/parkdale">
-					Parkdale</a>
-                </li>
-		                               	<li>
-                	<a title="Queen West" rel="category" href="/neighbourhoods/queen-west">
-					Queen West</a>
-                </li>
-		     	
-			</ul>
-			<ul class="pull-left" style="width:171px;">
-				                          	<li>
-                	<a title="Riverdale" rel="category" href="/neighbourhoods/riverdale">
-					Riverdale</a>
-                </li>
-		                               	<li>
-                	<a title="Riverside" rel="category" href="/neighbourhoods/riverside">
-					Riverside</a>
-                </li>
-		                               	<li>
-                	<a title="Roncesvalles" rel="category" href="/neighbourhoods/roncesvalles">
-					Roncesvalles</a>
-                </li>
-		                               	<li>
-                	<a title="Rosedale" rel="category" href="/neighbourhoods/rosedale">
-					Rosedale</a>
-                </li>
-		                               	<li>
-                	<a title="Scarborough" rel="category" href="/neighbourhoods/scarborough">
-					Scarborough</a>
-                </li>
-		                               	<li>
-                	<a title="St. Clair West" rel="category" href="/neighbourhoods/st-clair-west">
-					St. Clair West</a>
-                </li>
-		                               	<li>
-                	<a title="St. Lawrence / Distillery" rel="category" href="/neighbourhoods/st-lawrence-market">
-					St. Lawrence / Distillery</a>
-                </li>
-		                               	<li>
-                	<a title="West Queen West" rel="category" href="/neighbourhoods/west-queen-west">
-					West Queen West</a>
-                </li>
-		                               	<li>
-                	<a title="York" rel="category" href="/neighbourhoods/york">
-					York</a>
-                </li>
-		                               	<li>
-                	<a title="Yorkville" rel="category" href="/neighbourhoods/yorkville">
-					Yorkville</a>
-                </li>
-		     				
-			</ul>
-		</div>
-	</section>
-	<div class="clear"></div>
-</div>            </ul>
-        </li>
-        <li class="trigger timewasters-nav"><a class="bdr" href="/timewasters">timewasters</a>
-            <ul class="dropdown">
-            	                	<div id="timewasters" class="subnav">
-		<section>
-	    	<div class="article-wrapper col-2 timewasters">
-	            <div class="column nav-sections">
-	            	<div class="nav-headline">
-	                	In this section
-					</div>
-										<ul>
-	                    <li><a href="http://www.thegridto.com/timewasters">All</a></li>
-	                		<li class="cat-item cat-item-18"><a href="http://www.thegridto.com/timewasters/contests/" title="Horoscopes, Dating Diaries and Games. The back pages of ipsum dolor sit amet.">Contests</a>
-</li>
-	<li class="cat-item cat-item-90"><a href="http://www.thegridto.com/timewasters/dating-diaries/" title="View all posts filed under Dating Diaries">Dating Diaries</a>
-</li>
- 
-	                </ul>
-				</div>    
-	        	<div class="column">
-	            	<div class="nav-headline">
-	                	Featured in Timewasters
-	                </div>
-		            			            <div class="article-preview main">
-		                        <img width="277" height="185" src="http://www.thegridto.com/wp-content/uploads/525d65429bf84-_85C2967-510x340.jpg" class="attachment-300x185 wp-post-image" alt="PHOTOS: DAN EPSTEIN/THE GRID" title="Heather and Gage">	                            <div class="clear"></div>
-		                        <div class="article-time sprite"><div class="pull-left">12:00</div><span>pm</span></div>
-		                        <div class="article-date"><span><a href="http://www.thegridto.com/timewasters/dating-diaries/" title="View all posts in Dating Diaries" rel="category tag">Dating Diaries</a></span><br>Tue Oct 15, 2013</div>
-		                        <div class="article-title"><a href="http://www.thegridto.com/timewasters/dating-diaries/the-hook-up-heather-and-gage/">The Hook-Up: Heather and Gage</a></div>
-								<p></p>
-		                    </div>
-	            		            	 
-			        
-				</div>
-	            <div class="column">
-	                <div class="nav-headline">
-	                	In this week's issue
-	                </div>
-																		            								            										            <div class="article-preview contests">
-				            	<div class="article-content">
-				                	<div class="article-date"><span><a href="http://www.thegridto.com/timewasters/contests/" title="View all posts in Contests" rel="category tag">Contests</a></span><br>Wed Oct 9, 2013</div>
-									<div class="article-title"><a href="http://www.thegridto.com/timewasters/contests/enter-for-your-chance-to-win-2-splatter-zone-tickets-to-evil-dead-the-musical/">Enter for your chance to win 2...</a></div>
-				                </div>
-				            </div>
-		            			            		             
-		        </div>   
-			</div>   
-	
-	    </section>
-	    <div class="clear"></div>
-	</div>
-            </ul>
-        </li>
+        <li class="trigger timewasters-nav"><a class="bdr" href="/timewasters/dating-diaries">Dating Diaries</a></li>
+        <li class="trigger guides-nav"><a class="bdr" href="http://www.thegriddoes.com/food-booze/" target="_blank">grid picks</a></li>
+        <li class="trigger neighbourhoods-nav"><a class="bdr" href="/timewasters/contests/">Contests</a></li>
         <li class="trigger about-nav"><a class="bdr" href="/issues/99">about</a>
             <ul class="dropdown">
-			                        	<div id="about" class="subnav">
+                        	<div id="about" class="subnav">
 		<section>
 	    	<div class="article-wrapper col-2 city">
 	            <div class="column nav-sections" style="width:245px !important;">
@@ -1018,7 +773,7 @@ $(document).ready( function() {
 					<ul>
 		            	<li><a href="/contributors">Grid Contributors</a></li>
 		                <li><a href="/issues">Past Issues</a></li>
-		                <li><a href="/issues/125">Current Issue</a></li>
+		                <li><a href="/issues/156">Current Issue</a></li>
 		                <li><a href="mailto:displaysales@thegridto.com">Advertising</a></li>
 					</ul>
 					
@@ -1028,11 +783,11 @@ $(document).ready( function() {
 	                	Current issue
 	                </div>
 		            <div class="article-preview main">
-		            	<a href="/issues/125">
-		        			<img class="pull-left" src="http://www.thegridto.com/wp-content/uploads/5255a85e6cf1f-cover-small.jpg" height="280">
+		            	<a href="/issues/156">
+		        			<img class="pull-left" src="http://www.thegridto.com/wp-content/uploads/537d075533bf3-01_v1_GRID_0522.jpg" height="280">
 		        		</a>
 		        		<ul class="pull-right">
-		            		<li><a href="/issues/125">See all issue content</a></li>
+		            		<li><a href="/issues/156">See all issue content</a></li>
 		                </ul>
 					</div>
 				</div>
@@ -1040,27 +795,9 @@ $(document).ready( function() {
 	                <div class="nav-headline">
 	                	In this week's issue
 	                </div>
-																				            <div class="article-preview city">
-				            	<div class="article-content">
-				                	<div class="article-date"><span><a href="http://www.thegridto.com/city/people/" title="View all posts in People" rel="category tag">People</a></span><br>Thu Oct 10, 2013</div>
-				                    <div class="article-title"><a href="http://www.thegridto.com/city/people/rachel-parent-junior-anti-gmo-crusader/">Rachel Parent: Junior anti-GMO...</a></div>
-				                </div>
-				            </div>
-		            			            	 
-		            										            <div class="article-preview life">
-				            	<div class="article-content">
-				                	<div class="article-date"><span><a href="http://www.thegridto.com/life/food-drink/" title="View all posts in Food and Drink" rel="category tag">Food and Drink</a></span><br>Fri Oct 11, 2013</div>
-				                    <div class="article-title"><a href="http://www.thegridto.com/life/food-drink/age-of-majority/">Age of majority</a></div>
-				                </div>
-				            </div>
-		            			            	 
-		            										            <div class="article-preview culture">
-				            	<div class="article-content">
-				                	<div class="article-date"><span><a href="http://www.thegridto.com/culture/film/" title="View all posts in Film" rel="category tag">Film</a></span><br>Fri Oct 11, 2013</div>
-				                    <div class="article-title"><a href="http://www.thegridto.com/culture/film/picture-claire/">Picture Claire</a></div>
-				                </div>
-				            </div>
-		            			            	 
+																		            	 
+		            								            	 
+		            								            	 
 		            								            	 
 		            		        </div>   
 			</div>   
@@ -1186,6 +923,9 @@ $(document).ready( function() {
 });
 </script>
 
+
+
+
 <div class="right-content pull-right">
 	<div id="featured-articles">
 		<div class="tabbed_tabs">
@@ -1207,47 +947,47 @@ $(document).ready( function() {
 				</div>
 							<div id="most-discussed" class="recent-pulls" style="display:none;">
 					<ul class="image-title-description">
-	        <li class="block timewasters ">
-              <a onclick="_gaq.push(['_trackEvent', 'Most Discussed', 'Interaction', 'Article-1']);" href="http://www.thegridto.com/timewasters/dating-diaries/patricia-and-malcolm/" class="thumb">
-            	            	<img width="106" height="71" src="http://www.thegridto.com/wp-content/uploads/52546ef0ddb47-DatingDiaries-150x100.jpg" class="attachment-121x71 wp-post-image" alt="Illustration: Matthew Billington/The Grid" title="Dating Diaries"></a>
+	        <li class="block city ">
+              <a onclick="_gaq.push(['_trackEvent', 'Most Discussed', 'Interaction', 'Article-1']);" href="http://www.thegridto.com/city/politics/show-us-the-money/" class="thumb">
+            	            	<img width="106" height="71" src="http://www.thegridto.com/wp-content/uploads/537b9c925fead-CMC-pd-ford01-c-seqn1881-150x100.jpg" class="attachment-121x71 wp-post-image" alt="Photograph: Colin McConnell/Toronto Star" title="Joe Pennachetti"></a>
               <div class="article-details">
-                  <h3><a href="http://www.thegridto.com/timewasters/dating-diaries/" title="View all posts in Dating Diaries" rel="category tag">Dating Diaries</a></h3>
-                  <div class="article-date">Wed Oct 9, 2013_9:00 am</div>
-		          <p class="article-excerpt"><a onclick="_gaq.push(['_trackEvent', 'Most Discussed', 'Interaction', 'Article-1']);" href="http://www.thegridto.com/timewasters/dating-diaries/patricia-and-malcolm/">Patricia and Malcolm</a></p>
-                  <div class="article-comment"><a href="http://www.thegridto.com/timewasters/dating-diaries/patricia-and-malcolm/#comments">29 COMMENTS</a></div>
+                  <h3><a href="http://www.thegridto.com/city/politics/" title="View all posts in Politics" rel="category tag">Politics</a></h3>
+                  <div class="article-date">Tue May 20, 2014_2:30 pm</div>
+		          <p class="article-excerpt"><a onclick="_gaq.push(['_trackEvent', 'Most Discussed', 'Interaction', 'Article-1']);" href="http://www.thegridto.com/city/politics/show-us-the-money/">Show us the money!</a></p>
+                  <div class="article-comment"><a href="http://www.thegridto.com/city/politics/show-us-the-money/#comments">22 COMMENTS</a></div>
 
               </div>
           </li>
 	        <li class="block timewasters ">
-              <a onclick="_gaq.push(['_trackEvent', 'Most Discussed', 'Interaction', 'Article-2']);" href="http://www.thegridto.com/timewasters/dating-diaries/the-hook-up-heather-and-gage/" class="thumb">
-            	            	<img width="106" height="71" src="http://www.thegridto.com/wp-content/uploads/525d65429bf84-_85C2967-150x100.jpg" class="attachment-121x71 wp-post-image" alt="PHOTOS: DAN EPSTEIN/THE GRID" title="Heather and Gage"></a>
+              <a onclick="_gaq.push(['_trackEvent', 'Most Discussed', 'Interaction', 'Article-2']);" href="http://www.thegridto.com/timewasters/dating-diaries/matthew-and-elizabeth/" class="thumb">
+            	            	<img width="105" height="71" src="http://www.thegridto.com/wp-content/uploads/537b868d7c1d5-54-148x100.jpg" class="attachment-121x71 wp-post-image" alt="ILLUSTRATION: LEEANDRA CIANCI/THE GRID" title="Dating Diaries"></a>
               <div class="article-details">
                   <h3><a href="http://www.thegridto.com/timewasters/dating-diaries/" title="View all posts in Dating Diaries" rel="category tag">Dating Diaries</a></h3>
-                  <div class="article-date">Tue Oct 15, 2013_12:00 pm</div>
-		          <p class="article-excerpt"><a onclick="_gaq.push(['_trackEvent', 'Most Discussed', 'Interaction', 'Article-2']);" href="http://www.thegridto.com/timewasters/dating-diaries/the-hook-up-heather-and-gage/">The Hook-Up: Heather and Gage</a></p>
-                  <div class="article-comment"><a href="http://www.thegridto.com/timewasters/dating-diaries/the-hook-up-heather-and-gage/#comments">15 COMMENTS</a></div>
+                  <div class="article-date">Wed May 21, 2014_9:00 am</div>
+		          <p class="article-excerpt"><a onclick="_gaq.push(['_trackEvent', 'Most Discussed', 'Interaction', 'Article-2']);" href="http://www.thegridto.com/timewasters/dating-diaries/matthew-and-elizabeth/">Matthew and Elizabeth</a></p>
+                  <div class="article-comment"><a href="http://www.thegridto.com/timewasters/dating-diaries/matthew-and-elizabeth/#comments">20 COMMENTS</a></div>
 
               </div>
           </li>
 	        <li class="block city ">
-              <a onclick="_gaq.push(['_trackEvent', 'Most Discussed', 'Interaction', 'Article-3']);" href="http://www.thegridto.com/city/politics/from-the-comfort-of-toronto-a-prayer-of-thanksgiving/" class="thumb">
-            	            	<img width="105" height="71" src="http://www.thegridto.com/wp-content/uploads/525566201466f-Toronto-Skyline-149x100.jpg" class="attachment-121x71 wp-post-image" alt="Toronto Skyline" title="Toronto Skyline"></a>
+              <a onclick="_gaq.push(['_trackEvent', 'Most Discussed', 'Interaction', 'Article-3']);" href="http://www.thegridto.com/city/places/whos-killing-the-leslie-spits-trees/" class="thumb">
+            	            	<img width="106" height="71" src="http://www.thegridto.com/wp-content/uploads/537ba3b834858-IMG_5401-150x100.jpg" class="attachment-121x71 wp-post-image" alt="Photographs: Christie Vuong/The Grid" title="Who’s killing the Leslie Spit’s trees?"></a>
               <div class="article-details">
-                  <h3><a href="http://www.thegridto.com/city/politics/" title="View all posts in Politics" rel="category tag">Politics</a></h3>
-                  <div class="article-date">Wed Oct 9, 2013_11:00 am</div>
-		          <p class="article-excerpt"><a onclick="_gaq.push(['_trackEvent', 'Most Discussed', 'Interaction', 'Article-3']);" href="http://www.thegridto.com/city/politics/from-the-comfort-of-toronto-a-prayer-of-thanksgiving/">A prayer of Thanksgiving</a></p>
-                  <div class="article-comment"><a href="http://www.thegridto.com/city/politics/from-the-comfort-of-toronto-a-prayer-of-thanksgiving/#comments">13 COMMENTS</a></div>
+                  <h3><a href="http://www.thegridto.com/city/places/" title="View all posts in Places" rel="category tag">Places</a></h3>
+                  <div class="article-date">Wed May 21, 2014_12:00 pm</div>
+		          <p class="article-excerpt"><a onclick="_gaq.push(['_trackEvent', 'Most Discussed', 'Interaction', 'Article-3']);" href="http://www.thegridto.com/city/places/whos-killing-the-leslie-spits-trees/">Who’s killing Leslie Spit trees?</a></p>
+                  <div class="article-comment"><a href="http://www.thegridto.com/city/places/whos-killing-the-leslie-spits-trees/#comments">19 COMMENTS</a></div>
 
               </div>
           </li>
-	        <li class="block city last">
-              <a onclick="_gaq.push(['_trackEvent', 'Most Discussed', 'Interaction', 'Article-4']);" href="http://www.thegridto.com/city/people/rachel-parent-junior-anti-gmo-crusader/" class="thumb">
-            	            	<img width="106" height="71" src="http://www.thegridto.com/wp-content/uploads/52556e43e5480-WEB-rachel_parent_-_I6A0575-150x100.jpg" class="attachment-121x71 wp-post-image" alt="PHOTOS: JAIME HOGGE/THE GRID" title="Rachel Parent"></a>
+	        <li class="block timewasters last">
+              <a onclick="_gaq.push(['_trackEvent', 'Most Discussed', 'Interaction', 'Article-4']);" href="http://www.thegridto.com/timewasters/dating-diaries/the-hook-up-davina-and-oliver/" class="thumb">
+            	            	<img width="106" height="71" src="http://www.thegridto.com/wp-content/uploads/537a3506a2f01-IMG_6968-150x100.jpg" class="attachment-121x71 wp-post-image" alt="PHOTOS: CHRISTIE VUONG/THE GRID" title="Oliver and Davina"></a>
               <div class="article-details">
-                  <h3><a href="http://www.thegridto.com/city/people/" title="View all posts in People" rel="category tag">People</a></h3>
-                  <div class="article-date">Thu Oct 10, 2013_12:00 pm</div>
-		          <p class="article-excerpt"><a onclick="_gaq.push(['_trackEvent', 'Most Discussed', 'Interaction', 'Article-4']);" href="http://www.thegridto.com/city/people/rachel-parent-junior-anti-gmo-crusader/">Rachel Parent: Anti-GMO crusader</a></p>
-                  <div class="article-comment"><a href="http://www.thegridto.com/city/people/rachel-parent-junior-anti-gmo-crusader/#comments">12 COMMENTS</a></div>
+                  <h3><a href="http://www.thegridto.com/timewasters/dating-diaries/" title="View all posts in Dating Diaries" rel="category tag">Dating Diaries</a></h3>
+                  <div class="article-date">Tue May 20, 2014_9:00 am</div>
+		          <p class="article-excerpt"><a onclick="_gaq.push(['_trackEvent', 'Most Discussed', 'Interaction', 'Article-4']);" href="http://www.thegridto.com/timewasters/dating-diaries/the-hook-up-davina-and-oliver/">The Hook-Up: Davina and Oliver</a></p>
+                  <div class="article-comment"><a href="http://www.thegridto.com/timewasters/dating-diaries/the-hook-up-davina-and-oliver/#comments">13 COMMENTS</a></div>
 
               </div>
           </li>
@@ -1255,43 +995,43 @@ $(document).ready( function() {
 				</div>
 							<div id="most-recent" class="recent-pulls" style="display:none;">
 					<ul class="image-title-description">
-			<li class="block city ">
-            <a onclick="_gaq.push(['_trackEvent', 'This Just In', 'Interaction', 'Related-1']);" href="http://www.thegridto.com/city/sports/a-league-of-their-own/" class="thumb">
-            	            	<img width="105" height="71" src="http://www.thegridto.com/wp-content/uploads/5253066070e5a-gh5qplz3-148x100.jpg" class="attachment-121x71 wp-post-image" alt="PHOTOS: STEVE RUSSELL/TORONTO STAR" title="Toronto Phantoms">            </a>
-            <div class="article-details city">
-                <h3><a href="http://www.thegridto.com/city/sports/" title="View all posts in Sports" rel="category tag">Sports</a></h3>
-            	<div class="article-date">Tue Oct 15, 2013_3:00 pm</div>
-		          <p class="article-excerpt"><a onclick="_gaq.push(['_trackEvent', 'This Just In', 'Interaction', 'Related-1']);" href="http://www.thegridto.com/city/sports/a-league-of-their-own/">A brief history of defunct Toronto teams</a></p>
+			<li class="block life ">
+            <a onclick="_gaq.push(['_trackEvent', 'This Just In', 'Interaction', 'Related-1']);" href="http://www.thegridto.com/blog-post/shop-talk-author-david-sax-on-how-your-food-trend-sausage-is-made/" class="thumb">
+            	            	<img width="106" height="71" src="http://www.thegridto.com/wp-content/uploads/53839ef4c08fe-537e5207f0d61-DavidSax-150x100.jpg" class="attachment-121x71 wp-post-image" alt="David Sax" title="David Sax">            </a>
+            <div class="article-details life">
+                <h3><a href="http://www.thegridto.com/life/food-drink/" title="View all posts in Food and Drink" rel="category tag">Food and Drink</a></h3>
+            	<div class="article-date">Mon May 26, 2014_4:00 pm</div>
+		          <p class="article-excerpt"><a onclick="_gaq.push(['_trackEvent', 'This Just In', 'Interaction', 'Related-1']);" href="http://www.thegridto.com/blog-post/shop-talk-author-david-sax-on-how-your-food-trend-sausage-is-made/">How do food trends happen?</a></p>
           
         	</div>
         </li>
-		<li class="block city ">
-            <a onclick="_gaq.push(['_trackEvent', 'This Just In', 'Interaction', 'Related-2']);" href="http://www.thegridto.com/city/local-news/whats-the-deal-with-squirrels/" class="thumb">
-            	            	<img width="105" height="71" src="http://www.thegridto.com/wp-content/uploads/5258259f0d356-young-eastern-grey-squirrel-149x100.jpg" class="attachment-121x71 wp-post-image" alt="Photo: Margaret Bream/Toronto Star" title="Squirrel">            </a>
-            <div class="article-details city">
-                <h3><a href="http://www.thegridto.com/city/local-news/" title="View all posts in Local News" rel="category tag">Local News</a></h3>
-            	<div class="article-date">Tue Oct 15, 2013_8:30 am</div>
-		          <p class="article-excerpt"><a onclick="_gaq.push(['_trackEvent', 'This Just In', 'Interaction', 'Related-2']);" href="http://www.thegridto.com/city/local-news/whats-the-deal-with-squirrels/">What’s the deal with squirrels?</a></p>
+		<li class="block life ">
+            <a onclick="_gaq.push(['_trackEvent', 'This Just In', 'Interaction', 'Related-2']);" href="http://www.thegridto.com/life/food-drink/crumbs/" class="thumb">
+            	            	<img width="108" height="71" src="http://www.thegridto.com/wp-content/uploads/52a0e80a60c58-CrumbsCarousel-153x100.jpg" class="attachment-121x71 wp-post-image" alt="CrumbsCarousel" title="CrumbsCarousel">            </a>
+            <div class="article-details life">
+                <h3><a href="http://www.thegridto.com/life/food-drink/" title="View all posts in Food and Drink" rel="category tag">Food and Drink</a></h3>
+            	<div class="article-date">Mon May 26, 2014_9:30 am</div>
+		          <p class="article-excerpt"><a onclick="_gaq.push(['_trackEvent', 'This Just In', 'Interaction', 'Related-2']);" href="http://www.thegridto.com/life/food-drink/crumbs/">Crumbs</a></p>
           
         	</div>
         </li>
-		<li class="block culture ">
-            <a onclick="_gaq.push(['_trackEvent', 'This Just In', 'Interaction', 'Related-3']);" href="http://www.thegridto.com/culture/film/picture-claire/" class="thumb">
-            	            	<img width="105" height="71" src="http://www.thegridto.com/wp-content/uploads/52558757b2f02-k6siauz2-148x100.jpg" class="attachment-121x71 wp-post-image" alt="Photo: Lucas Oleniuk/Toronto Star" title="Claire Denis">            </a>
-            <div class="article-details culture">
-                <h3><a href="http://www.thegridto.com/culture/film/" title="View all posts in Film" rel="category tag">Film</a></h3>
-            	<div class="article-date">Fri Oct 11, 2013_4:00 pm</div>
-		          <p class="article-excerpt"><a onclick="_gaq.push(['_trackEvent', 'This Just In', 'Interaction', 'Related-3']);" href="http://www.thegridto.com/culture/film/picture-claire/">Picture Claire</a></p>
+		<li class="block life ">
+            <a onclick="_gaq.push(['_trackEvent', 'This Just In', 'Interaction', 'Related-3']);" href="http://www.thegridto.com/life/food-drink/burger-week-2014-preview-the-east-end/" class="thumb">
+            	            	<img width="106" height="71" src="http://www.thegridto.com/wp-content/uploads/537cf69aa1a5e-photo-150x100.jpg" class="attachment-121x71 wp-post-image" alt="Photo: Brilynn Ferguson Kim Nursall/Toronto Star" title="photo.JPG">            </a>
+            <div class="article-details life">
+                <h3><a href="http://www.thegridto.com/life/food-drink/" title="View all posts in Food and Drink" rel="category tag">Food and Drink</a></h3>
+            	<div class="article-date">Mon May 26, 2014_9:00 am</div>
+		          <p class="article-excerpt"><a onclick="_gaq.push(['_trackEvent', 'This Just In', 'Interaction', 'Related-3']);" href="http://www.thegridto.com/life/food-drink/burger-week-2014-preview-the-east-end/">Burger Week preview: The east end</a></p>
           
         	</div>
         </li>
 		<li class="block life last">
-            <a onclick="_gaq.push(['_trackEvent', 'This Just In', 'Interaction', 'Related-4']);" href="http://www.thegridto.com/life/food-drink/age-of-majority/" class="thumb">
-            	            	<img width="108" height="71" src="http://www.thegridto.com/wp-content/uploads/52557a3b6be1e-Drinks-153x100.jpg" class="attachment-121x71 wp-post-image" alt="Age of majority" title="Age of majority">            </a>
+            <a onclick="_gaq.push(['_trackEvent', 'This Just In', 'Interaction', 'Related-4']);" href="http://www.thegridto.com/life/food-drink/pink-sip/" class="thumb">
+            	            	<img width="105" height="71" src="http://www.thegridto.com/wp-content/uploads/537b89fd54329-20_v1_GRID_0508-149x100.jpg" class="attachment-121x71 wp-post-image" alt="PHOTOGRAPH: LIAM MOGAN/THE GRID" title="Pink sip">            </a>
             <div class="article-details life">
                 <h3><a href="http://www.thegridto.com/life/food-drink/" title="View all posts in Food and Drink" rel="category tag">Food and Drink</a></h3>
-            	<div class="article-date">Fri Oct 11, 2013_3:00 pm</div>
-		          <p class="article-excerpt"><a onclick="_gaq.push(['_trackEvent', 'This Just In', 'Interaction', 'Related-4']);" href="http://www.thegridto.com/life/food-drink/age-of-majority/">Age of majority</a></p>
+            	<div class="article-date">Fri May 23, 2014_3:00 pm</div>
+		          <p class="article-excerpt"><a onclick="_gaq.push(['_trackEvent', 'This Just In', 'Interaction', 'Related-4']);" href="http://www.thegridto.com/life/food-drink/pink-sip/">Pink sip</a></p>
           
         	</div>
         </li>
@@ -1305,7 +1045,7 @@ $(document).ready( function() {
 	<div class="advertisment pull-left"><script language="javascript"><!--
 document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtechus.com/addyn/3.0/5214/2044261/0/170/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=142016481;misc='+new Date().getTime()+';rdclick="></scri'+'pt>');
 //-->
-</script><script language="javascript1.1" src="http://adserver.adtechus.com/addyn/3.0/5214/2044261/0/170/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=142016481;misc=1580391008619;rdclick="></script><noscript><a href="http://adserver.adtechus.com/adlink/3.0/5214/2044261/0/170/ADTECH;loc=300;key=key1+key2+key3+key4;grp=142016481;rdclick=" target="_blank"><img src="http://adserver.adtechus.com/adserv/3.0/5214/2044261/0/225/ADTECH;loc=300;key=key1+key2+key3+key4;grp=142016481" border="0" width="300" height="250"></a></noscript>
+</script><script language="javascript1.1" src="http://adserver.adtechus.com/addyn/3.0/5214/2044261/0/170/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=142016481;misc=1580391013481;rdclick="></script><noscript><a href="http://adserver.adtechus.com/adlink/3.0/5214/2044261/0/170/ADTECH;loc=300;key=key1+key2+key3+key4;grp=142016481;rdclick=" target="_blank"><img src="http://adserver.adtechus.com/adserv/3.0/5214/2044261/0/225/ADTECH;loc=300;key=key1+key2+key3+key4;grp=142016481" border="0" width="300" height="250"></a></noscript>
 <!-- End of JavaScript Tag --></div>
 
 
@@ -1314,7 +1054,11 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtechu
 
 
      
+  	
+
    <div class="advertisment pull-left">
+
+
    
    
         </div>
@@ -1324,17 +1068,24 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtechu
 				<div class="advertisment pull-left"><script language="javascript"><!--
 document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtechus.com/addyn/3.0/5214/2044260/0/170/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=142016481;misc='+new Date().getTime()+';rdclick="></scri'+'pt>');
 //-->
-</script><script language="javascript1.1" src="http://adserver.adtechus.com/addyn/3.0/5214/2044260/0/170/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=142016481;misc=1580391008624;rdclick="></script><noscript><a href="http://adserver.adtechus.com/adlink/3.0/5214/2044260/0/170/ADTECH;loc=300;key=key1+key2+key3+key4;grp=142016481;rdclick=" target="_blank"><img src="http://adserver.adtechus.com/adserv/3.0/5214/2044260/0/225/ADTECH;loc=300;key=key1+key2+key3+key4;grp=142016481" border="0" width="300" height="250"></a></noscript>
+</script><script language="javascript1.1" src="http://adserver.adtechus.com/addyn/3.0/5214/2044260/0/170/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=142016481;misc=1580391013483;rdclick="></script><noscript><a href="http://adserver.adtechus.com/adlink/3.0/5214/2044260/0/170/ADTECH;loc=300;key=key1+key2+key3+key4;grp=142016481;rdclick=" target="_blank"><img src="http://adserver.adtechus.com/adserv/3.0/5214/2044260/0/225/ADTECH;loc=300;key=key1+key2+key3+key4;grp=142016481" border="0" width="300" height="250"></a></noscript>
 <!-- End of JavaScript Tag --></div>
+
+                         
+
+      
+
 				<div class="advertisment pull-left"><a href="#join-the-grid" class="registration_link"><img src="/core/images/join-the-grid.gif"></a></div>
 
-                                               
+                
 
 				<div class="advertisment pull-left"><script language="javascript"><!--
 document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtechus.com/addyn/3.0/5214/2044260/0/170/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=142016481;misc='+new Date().getTime()+';rdclick="></scri'+'pt>');
 //-->
-</script><script language="javascript1.1" src="http://adserver.adtechus.com/addyn/3.0/5214/2044260/0/170/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=142016481;misc=1580391008645;rdclick="></script><noscript><a href="http://adserver.adtechus.com/adlink/3.0/5214/2044260/0/170/ADTECH;loc=300;key=key1+key2+key3+key4;grp=142016481;rdclick=" target="_blank"><img src="http://adserver.adtechus.com/adserv/3.0/5214/2044260/0/225/ADTECH;loc=300;key=key1+key2+key3+key4;grp=142016481" border="0" width="300" height="250"></a></noscript>
+</script><script language="javascript1.1" src="http://adserver.adtechus.com/addyn/3.0/5214/2044260/0/170/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=142016481;misc=1580391013485;rdclick="></script><noscript><a href="http://adserver.adtechus.com/adlink/3.0/5214/2044260/0/170/ADTECH;loc=300;key=key1+key2+key3+key4;grp=142016481;rdclick=" target="_blank"><img src="http://adserver.adtechus.com/adserv/3.0/5214/2044260/0/225/ADTECH;loc=300;key=key1+key2+key3+key4;grp=142016481" border="0" width="300" height="250"></a></noscript>
 <!-- End of JavaScript Tag --></div>
+
+      
 			</div>  
 		</div>
     	<div class="clear"></div>
@@ -1343,21 +1094,20 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtechu
 <style text="text/css">.grid-post p a:hover{border:none !important;}</style>
             <footer class="fw" style="padding-bottom:10px; overflow:hidden; position:relative;">
 				<div id="ftr-block">
-										  					                  			                                            				        <div class="advertisment pull-left">
-                    						    <script language="javascript"><!--
+										  					                  			                                            				    <div class="advertisment pull-left">
+                                            <script language="javascript"><!--
 document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtechus.com/addyn/3.0/5214/2044259/0/225/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=142016481;misc='+new Date().getTime()+';rdclick="></scri'+'pt>');
 //-->
-</script><script language="javascript1.1" src="http://adserver.adtechus.com/addyn/3.0/5214/2044259/0/225/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=142016481;misc=1580391008647;rdclick="></script><noscript><a href="http://adserver.adtechus.com/adlink/3.0/5214/2044259/0/225/ADTECH;loc=300;key=key1+key2+key3+key4;grp=142016481;rdclick=" target="_blank"><img src="http://adserver.adtechus.com/adserv/3.0/5214/2044259/0/225/ADTECH;loc=300;key=key1+key2+key3+key4;grp=142016481" border="0" width="728" height="90"></a></noscript>
-<!-- End of JavaScript Tag -->				                      </div>
+</script><script language="javascript1.1" src="http://adserver.adtechus.com/addyn/3.0/5214/2044259/0/225/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=142016481;misc=1580391013487;rdclick="></script><noscript><a href="http://adserver.adtechus.com/adlink/3.0/5214/2044259/0/225/ADTECH;loc=300;key=key1+key2+key3+key4;grp=142016481;rdclick=" target="_blank"><img src="http://adserver.adtechus.com/adserv/3.0/5214/2044259/0/225/ADTECH;loc=300;key=key1+key2+key3+key4;grp=142016481" border="0" width="728" height="90"></a></noscript>
+<!-- End of JavaScript Tag -->				                        </div>
 
-
-                                        					<div class="social-links">
+                    					<div class="social-links">
 						<ul class="horizontal">
 							<li><a onclick="_gaq.push(['_trackEvent', 'Header', 'Interaction', 'RSS Feed']);" class="btn icn-rss" href="/feed/" target="_blank">The Grid - RSS Feed</a></li>
-							<li><a onclick="_gaq.push(['_trackEvent', 'Header', 'Interaction', 'Facebook']);" class="btn icn-facebook" href="http://www.facebook.com/thegridto/" target="_blank">The Grid - Facebook</a></li>
-							<li><a onclick="_gaq.push(['_trackEvent', 'Header', 'Interaction', 'Twitter']);" class="btn icn-twitter" href="http://twitter.com/#!/TheGridTo/" target="_blank">The Grid - Twitter</a></li>
-							<li><a onclick="_gaq.push(['_trackEvent', 'Header', 'Interaction', 'Youtube']);" class="btn icn-youtube" href="http://www.youtube.com/user/TheGridTO" target="_blank">The Grid - Youtube</a></li>
-							<li><a onclick="_gaq.push(['_trackEvent', 'Header', 'Interaction', 'Flickr']);" class="btn icn-flickr" href="http://www.flickr.com/groups/thegrid/" target="_blank">The Grid - Youtube</a></li>
+                            <li><a onclick="_gaq.push(['_trackEvent', 'Header', 'Interaction', 'Facebook']);" class="btn icn-facebook" href="http://www.facebook.com/thegridto/" target="_blank">The Grid - Facebook</a></li>
+                            <li><a onclick="_gaq.push(['_trackEvent', 'Header', 'Interaction', 'Twitter']);" class="btn icn-twitter" href="http://twitter.com/#!/TheGridTo/" target="_blank">The Grid - Twitter</a></li>
+                            <li><a onclick="_gaq.push(['_trackEvent', 'Header', 'Interaction', 'Instagram']);" class="btn icn-instagram" href="http://instagram.com/thegridto" target="_blank">The Grid - Instagram</a></li>
+                            <li><a onclick="_gaq.push(['_trackEvent', 'Header', 'Interaction', 'Tumblr']);" class="btn icn-tumblr" href="http://thegridartdept.tumblr.com/" target="_blank">The Grid - Tumblr</a></li>
 						</ul>
 					</div>
 				</div>
@@ -1365,11 +1115,11 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtechu
 				<div class="clear"></div>
 <div class="full-content stuff-ftr">
     <div class="icn icn-stuff"><img src="/core/images/icn-stuff.gif"></div>
-            <a href="http://www.thegridto.com/timewasters/contests/enter-for-your-chance-to-win-2-splatter-zone-tickets-to-evil-dead-the-musical/">
+            <a href="http://www.thegridto.com/timewasters/contests/belvederecontest/">
         	<div class="column_1">
         		<img class="pull-left" src="/core/images/grid_contests.gif">
             	<h3>_CONTEST</h3>
-            	<p>Enter for your chance to win 2 Splatter Zone tickets to Evil Dead – The Musical!</p>
+            	<p>Enter For Your Chance To Win A Belvedere Music Lounge Experience at Cabana Pool Bar!</p>
              	<div class="visit-article"><span></span></div>
         	</div>	
         </a>
@@ -1381,11 +1131,11 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtechu
                    <div class="visit-article"><span></span></div>
             	</div>
 			</a>
-		    		    <a href="/issues/125">
+		    		    <a href="/issues/156">
         	<div class="column_1 last">
-        		<img class="pull-left" src="http://www.thegridto.com/wp-content/uploads/5255a85e6cf1f-cover-small.jpg" width="79" height="100">
+        		<img class="pull-left" src="http://www.thegridto.com/wp-content/uploads/537d075533bf3-01_v1_GRID_0522.jpg" width="79" height="100">
             	<h3>_THIS ISSUE</h3>
-            	<p>Guess what's coming for dinner</p>
+            	<p>Fourth annual Chefs Guide to Toronto</p>
             	<div class="visit-article"><span></span></div>
         	</div>
 			</a>
@@ -1403,7 +1153,6 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtechu
                         <li class="list-title">  </li>
                         <li><a href="http://www.thegridto.com/issues">Past Issues</a></li>
                     	<li><a href="http://www.thegridto.com/contributors">Contributors</a></li>
-                    	<li><a href="http://www.thegridto.com/contributors">Become a Contributor</a></li>
                     	<li><a href="http://www.thegridto.com/classifieds">Classifieds</a></li>
                     </ul>
                     <ul>
@@ -1417,11 +1166,6 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtechu
                     	<li><a href="mailto:letters@thegridto.com">Write a Letter to the Editor</a></li>
                     	
                     </ul>
-                    <ul>
-                        <li class="list-title">Internships</li>
-                        <li><a href="http://www.thegridto.com/connect/internships/">Internship Programs</a></li>
-                    	<li><a href="http://www.thegridto.com/connect/internships-faqs/">Internship FAQ</a></li>
-                     </ul>
                      <ul>
                         <li class="list-title">Star Links</li>
                         <li><a href="http://canadianimmigrant.ca" target="_blank" onclick="javascript:_gaq.push(['_trackEvent','outbound-blogroll','http://canadianimmigrant.ca']);">Canadianimmigrant.ca</a></li>
@@ -1439,7 +1183,7 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtechu
 					<p>Copyright 2011 The Grid, a division of Toronto Star Newspapers Limited. All rights reserved.</p>
 				</div>
 			</footer>
-               <div class="clear"></div>
+            <div class="clear"></div>
                
         </div>
         
@@ -1513,7 +1257,7 @@ var ratings_mouseover_image=new Image();ratings_mouseover_image.src=ratingsL10n.
 </script>
 <script type="text/javascript" src="http://www.thegridto.com/wp-content/plugins/wp-postratings/postratings-js.js?ver=1.50"></script>
 
-<!-- Generated in 0.707 seconds. -->
+<!-- Generated in 1.295 seconds. -->
 
 	
 <!-- WP-FB AutoConnect Init v2.2.0 (NEW API) -->
@@ -1539,7 +1283,7 @@ var ratings_mouseover_image=new Image();ratings_mouseover_image.src=ratingsL10n.
   
   <form id="wp-fb-ac-fm" name="jfb_js_login_callback_form" method="post" action="http://www.thegridto.com/wp-content/plugins/wp-fb-autoconnect/_process_login.php">
       <input type="hidden" name="redirectTo" value="/connect/privacy-policy/">
-      <input type="hidden" id="autoconnect_nonce" name="autoconnect_nonce" value="2c9e90ae21"><input type="hidden" name="_wp_http_referer" value="/connect/privacy-policy/">   
+      <input type="hidden" id="autoconnect_nonce" name="autoconnect_nonce" value="63fe68ffbc"><input type="hidden" name="_wp_http_referer" value="/connect/privacy-policy/">   
     </form>
 <script type="text/javascript">//<!--
     function jfb_js_login_callback()
@@ -1561,14 +1305,15 @@ var ratings_mouseover_image=new Image();ratings_mouseover_image.src=ratingsL10n.
           
         <div class="clear"></div>
         
-        
+        <!-- social -->
+        <script type="text/javascript" src="http://www.thegridto.com/core/js/googleplus.js"></script>
+        <script type="text/javascript" async="" src="//assets.pinterest.com/js/pinit.js"></script>
 		
-	<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-6.newrelic.com","9faa45284b","1348873","ZlNVbEcHC0AHBUcMW18ZdltBDwpdSRZSAlE=",0,720,new Date().getTime(),"","","","",""]);</script>
-
+	<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","licenseKey":"9faa45284b","applicationID":"1348873","transactionName":"ZlNVbEcHC0AHBUcMW18ZdltBDwpdSRZSAlE=","queueTime":0,"applicationTime":1308,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"jserror.newrelic.com","agent":"js-agent.newrelic.com\/nr-361.min.js"}</script>
 
 
 <!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
 
 Content Delivery Network via Amazon Web Services: CloudFront: cdn.thegridto.com
 
-Served from: localhost @ 2013-10-16 08:16:43 --><script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
+Served from: localhost @ 2014-05-27 07:34:07 --><script src="https://js-agent.newrelic.com/nr-361.min.js"></script></body></html>
