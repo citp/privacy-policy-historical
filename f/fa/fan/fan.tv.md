@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fan.tv privacy policy that was archived on 2013-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131021003044id_/http%3A//www.fan.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fan.tv privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527133907id_/https%3A//www.fan.tv/privacy-policy) for the most accurate reproduction.*
 
 # Fan TV | Privacy Policy
 
@@ -8,13 +8,13 @@ Last revised: May 30, 2013 **
 
 ## 1\. General.
 
-This privacy policy (this “ **Privacy Policy** ”) is designed to inform you about the type of information that Fanhattan, LLC (“ **we** ,” “ **us** ,” or “ **our** ”) may gather or collect from you in connection with your use of this website located at www.fan.tv, our mobile applications (collectively, the “ **Site** ”) and our online service (the “ **Service** ”). It also explains the conditions under which we use and disclose that information, and your rights in relation to that information.
+This privacy policy (this “ **Privacy Policy** ”) is designed to inform you about the type of information that Fanhattan, Inc. (“ **we** ,” “ **us** ,” or “ **our** ”) may gather or collect from you in connection with your use of this website located at www.fan.tv, our mobile applications (collectively, the “ **Site** ”) and our online service (the “ **Service** ”). It also explains the conditions under which we use and disclose that information, and your rights in relation to that information.
 
 The procedures for modifying or changing this Privacy Policy in the future are discussed in Section 6 of this document. We will alert you by email if this Privacy Policy is revised (if you have given us your email address), so it is important that you register with this Site and notify us if you change your email address.
 
 ## 2\. Questions; Contacting Company; Reporting Violations.
 
-If you have any questions or concerns or complaints about our Privacy Policy or our data collection or processing practices, or if you want to report any security violations to us, please contact us at privacy@fanhattan.com.
+If you have any questions or concerns or complaints about our Privacy Policy or our data collection or processing practices, or if you want to report any security violations to us, please contact us at privacy@fan.tv.
 
 ## 3\. User Consent.
 
@@ -22,7 +22,7 @@ By submitting Personal Data through our Site or Services, you agree to the terms
 
 ## 4\. A Note About Children.
 
-This Site is not intended for children under 13. We do not intentionally gather personal data from visitors who are under the age of 13. If a child under 13 submits personal data to Company and we learn that the personal data is the information of a child under 13, we will attempt to delete the information as soon as possible. If you believe that we might have any personal data from a child under 13, please contact us at privacy@fanhattan.com.
+This Site is not intended for children under 13. We do not intentionally gather personal data from visitors who are under the age of 13. If a child under 13 submits personal data to Company and we learn that the personal data is the information of a child under 13, we will attempt to delete the information as soon as possible. If you believe that we might have any personal data from a child under 13, please contact us at privacy@fan.tv.
 
 ## 5\. Gathering, Use and Disclosure of Non-Personally-Identifying Information.
 
