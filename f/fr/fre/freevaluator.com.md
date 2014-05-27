@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the freevaluator.com privacy policy that was archived on 2013-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131107031147id_/http%3A//freevaluator.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freevaluator.com privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528003919id_/http%3A//www.freevaluator.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
-##  [ Privacy policy](http://freevaluator.com/privacy)
+##  [ Privacy policy](http://www.freevaluator.com/privacy)
 
 Details
      Last Updated: Tuesday, 08 October 2013 10:16 
