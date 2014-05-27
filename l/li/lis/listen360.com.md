@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the listen360.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124234931id_/http%3A//www.listen360.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listen360.com privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527050903id_/http%3A//www.listen360.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Listen360
 
@@ -107,5 +107,5 @@ If you have any questions regarding this policy you can contact us via email at 
 
 Listen360, Inc.  
 Attn: Chief Technology Officer  
-3655 Brookside Parkway, Suite 550  
-Alpharetta, GA 30022
+11605 Haynes Bridge Road, Suite 150  
+Alpharetta, GA 30009
