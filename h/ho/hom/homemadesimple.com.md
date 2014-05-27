@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homemadesimple.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625115936id_/http%3A//www.pg.com/privacy/english/privacy_notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homemadesimple.com privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527125633id_/http%3A//www.pg.com/privacy/english/privacy_notice.shtml) for the most accurate reproduction.*
 
 # P&G Privacy Notice
 
@@ -21,6 +21,7 @@ This Privacy Notice applies to information, including personal information, coll
   * If a P&G brand is sold to another company.
   * To protect and defend the right and property of P&G (including enforcing our Terms and Conditions).
   * When required by law, and / or public authorities.
+  * If you do not wish to provide your personal information to us, we may not be able to provide the products and services you request, or to tell you about other products and services offered by P&G. 
 
 
 
