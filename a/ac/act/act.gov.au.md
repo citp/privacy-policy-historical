@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the act.gov.au privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502174731id_/http%3A//www.act.gov.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the act.gov.au privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527094223id_/http%3A//www.act.gov.au/privacy) for the most accurate reproduction.*
 
 # Privacy - ACT Government Information Portal
 
@@ -48,13 +48,13 @@ Canberra Connect uses [Google Analytics](http://www.google.com/analytics/ "Googl
 
 ## Your choices
 
-You can review any personal information collected about you by submitting a written request to [Canberra Connect](http://www.canberraconnect.act.gov.au/contact-us "Contact us"). You may recommend changes to your personal information that you believe to be incorrect. The obligation to correct information is subject to any applicable limitation in a law that provides a right to require the collection or amendment of documents.
+You can review any personal information collected about you by submitting a written request to [Canberra Connect](https://www.canberraconnect.act.gov.au/app/answers/detail/a_id/23). You may recommend changes to your personal information that you believe to be incorrect. The obligation to correct information is subject to any applicable limitation in a law that provides a right to require the collection or amendment of documents.
 
-If you believe that your personal information is being used for a purpose other than what was intended when submitted, you may contact [Canberra Connect](http://www.canberraconnect.act.gov.au/contact-us "Contact us"). In all cases, Canberra Connect will take reasonable steps to verify your identity prior to granting access to your personal information or making corrections to the information collected.
+If you believe that your personal information is being used for a purpose other than what was intended when submitted, you may contact [Canberra Connect](https://www.canberraconnect.act.gov.au/app/answers/detail/a_id/23). In all cases, Canberra Connect will take reasonable steps to verify your identity prior to granting access to your personal information or making corrections to the information collected.
 
 ## Personal Information Digest (PID)
 
-In the ACT, the public has a right to access information held by the government, subject to exceptions such as information affecting personal privacy. The nature of personal information maintained by Canberra Connect is identified in the [ACT Personal Information Digest](http://www.jcs.act.gov.au/eLibrary/contents.html).
+In the ACT, the public has a right to access information held by the government, subject to exceptions such as information affecting personal privacy. The nature of personal information maintained by Canberra Connect is identified in the [ACT Personal Information Digest](http://www.justice.act.gov.au/?/page/view/92).
 
 ## Security
 
@@ -68,7 +68,7 @@ Canberra Connect follows the [Guidelines for Federal and ACT Government Websites
 
 ## Disclaimer
 
-The <http://www.act.gov.au/>, <http://www.canberraconnect.act.gov.au/> and <http://www.search.act.gov.au/> websites contain links to third party websites. These include links to websites operated by other government agencies, non-profit organisations and private businesses.When you select a link to another web site, you are subject to the privacy policy of the new site. Canberra Connect is not responsible for the privacy practices or the content of such websites.
+The <http://www.act.gov.au/> website contains links to third party websites. These include links to websites operated by other government agencies, non-profit organisations and private businesses.When you select a link to another web site, you are subject to the privacy policy of the new site. Canberra Connect is not responsible for the privacy practices or the content of such websites.
 
 Neither the ACT Government, nor any agency, officer nor employee of the ACT Government warrants the accuracy, reliability or timeliness of any information published by this system, nor endorses any content, viewpoints, products or services linked from this system and shall not be held liable for any losses caused by reliance on the accuracy, reliability or timeliness of such information.
 
@@ -78,21 +78,18 @@ For more information, refer to our [full disclaimer statement](http://www.act.go
 
 ## How to contact us
 
-If you have any comment in relation to any aspect of the collection, use, security of or access to your personal information please contact [Canberra Connect](http://www.canberraconnect.act.gov.au/contact-us "Contact us").
+If you have any comment in relation to any aspect of the collection, use, security of or access to your personal information please contact [Canberra Connect](https://www.canberraconnect.act.gov.au/app/answers/detail/a_id/23).
 
-Alternatively, you can write to Canberra Connect at:
+Alternatively, you can write to:
 
-Manager, Payment Services Integration  
-Canberra Connect  
+Canberra Connect, Payment Services Integration  
 Territory and Municipal Services Directorate  
 GPO Box 158,  
 CANBERRA ACT 2601  
 AUSTRALIA
 
-If the issue is not resolved to your satisfaction you may wish to contact the [Office of the Australian Information Commissioner](http://www.privacy.gov.au/ "Office of the Australian Information Commissioner").
+If the issue is not resolved to your satisfaction you may wish to contact the [Office of the Australian Information Commissioner](http://www.oaic.gov.au/ "Office of the Australian Information Commissioner").
 
 For more information about our privacy practices, see our [full privacy statement](http://www.act.gov.au/privacy/full_privacy "Full Privacy Statement").
 
 The ACT Government is committed to improving the accessibility of web content. To provide feedback or request an accessible version of a document please [contact us](http://www.act.gov.au/contact-us) or phone [13 22 81](tel:132281).
-
-[](http://www.addthis.com/bookmark.php?v=250&pubid=xa-5019d0fa5ca5f00c)
