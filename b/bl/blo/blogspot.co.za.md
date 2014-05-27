@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogspot.co.za privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605143150id_/http%3A//www.markmonitor.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogspot.co.za privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527231201id_/http%3A//www.markmonitor.com/legal/privacy.php) for the most accurate reproduction.*
 
 # MarkMonitor | Legal - Privacy Policy
 
@@ -14,7 +14,7 @@ Our IP address log is used to gather broad demographic information. Our site rec
 
 #### Use of Cookies.
 
-As part of its personalized services, MarkMonitor may use cookies to store and sometimes track information about you. A cookie is a small amount of data that is sent to your browser from a Web server and stored on your computer's hard drive. All sites on MarkMonitor that are customizable require that you accept cookies. Any information obtained from the cookies will be used solely to improve our services to you. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. Rejecting all cookies may limit your ability to access all areas of the MarkMonitor service.
+Similar to other commercial Web sites, MarkMonitor utilizes standard technology called "cookies" and Web server logs to collect information about how our Web site is used and to personalize our services. A cookie is a small amount of data that is sent to your browser from a Web server and stored on your computer's hard drive. All sites on MarkMonitor that are customizable require that you accept cookies. Information obtained from the cookies will be used to improve our services to you. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. Rejecting all cookies may limit your ability to access some areas of the MarkMonitor Web site or service.
 
 #### Security of Service.
 
@@ -28,11 +28,24 @@ Our site gives you the option of changing your personal information. You may mod
 
 We make every effort to maximize your privacy rights while you use this service. If you have any questions, concerns or comments, regarding our privacy policy or any other aspect of our service, please e-mail us at Email: [support@markmonitor.com.](mailto:support@markmonitor.com.)
 
+#### US
+
+1-800-745-9229  
++1-415-278-8400 
+
+#### Europe
+
++44 (0) 203 206 2220
+
+  * [Request Contact](https://web.archive.org/cta/request/)
+
+
+
 #### MarkMonitor   
 Shopping Report
 
-New report challenges assumptions about consumers and counterfeits. [More](https://web.archive.org/cta/2012-shoppingreport/?Lead_Source_Mktg=WEBPRO)
+New report challenges assumptions about consumers and counterfeits. [More](https://web.archive.org/download/report/MarkMonitor_Shopping_Report-2012.pdf)
 
 #### Featured Case Study
 
-How Links of London improved e-commerce and marketing performance by fighting counterfeiters. [More](https://web.archive.org/cta/cs-linksoflondon/?Lead_Source_Mktg=WEBPRO)
+How The Cambridge Satchel Company protects their brand and customers from counterfeiters. [More](https://web.archive.org/download/cs/MarkMonitor_CaseStudy_Cambridge.pdf)
