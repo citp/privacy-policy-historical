@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the mightydeals.co.uk privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126010115id_/http%3A//www.mightydeals.co.uk/information/privacyPolicy.aspx%3Fft%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mightydeals.co.uk privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527152819id_/http%3A//www.mightydeals.co.uk/information/privacyPolicy.aspx%3Fft%3D1) for the most accurate reproduction.*
 
 # Mighty Deals
+
+Student Beans daily deals is run by a third party, Mighty Deals and by using this site, you agree to the terms of the Mighty Deals privacy policy, as found below.
 
 ## Our Commitment to Privacy
 
@@ -21,8 +23,7 @@ If you have any queries about this Privacy Policy or any requests concerning you
 Data Protection Officer  
 Mighty Deals  
 Craven House  
-Station Approach  
-Godalming   
+Station Approach < br >Godalming()  
 GU7 1EX  
 
 
