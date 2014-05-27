@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the visionexpress.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127035843id_/http%3A//www.visionexpress.com/customer-services/legal-notices/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visionexpress.com privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527214521id_/http%3A//www.visionexpress.com/customer-services/legal-notices/privacy-statement) for the most accurate reproduction.*
 
 # Vision Express are registered with the Data Protection Registry - Visionexpress
 
 ﻿ 
-
-## Privacy and Cookie Policy
 
 Please read our Privacy and Cookie Policy carefully as this sets out how and why we collect personal information. By providing us with personal information you consent to the processing and transferring of personal information as set out in this Privacy and Cookie Policy.
 
@@ -119,7 +117,7 @@ You expressly consent to Vision Express (UK) Limited:
 
 
 
-If you do not register as a customer but wish to email Vision Express (UK) Limited through the website ([customer.care@visionexpress.com](mailto:customer.care@visionexpress.com "Email customer care") ) you will be providing us with personal information about yourself, including your email address, name and contact details. This may include medical information. We will only use such information for the purposes of providing a reply, reviewing any feedback or improving the Website.
+If you do not register as a customer but wish to email Vision Express (UK) Limited through the website () you will be providing us with personal information about yourself, including your email address, name and contact details. This may include medical information. We will only use such information for the purposes of providing a reply, reviewing any feedback or improving the Website.
 
 If you are simply browsing our Website we will not collect any personal information which will identify you, however, we will collect information using cookies and/or traffic data which uses IP addresses or other numeric identifiers which analyse navigation and use of the Website.
 
@@ -141,7 +139,7 @@ We will not pass your personal information to anyone outside of the Vision Expre
 
 The Data Protection Act requires that information held about a Customer/User must be accurate and up to date. In the event that your details change (for example, in the event of marriage) or you move address it would be helpful if you could advise us of such a change so that your records can be updated.
 
-You can amend or remove your personal details either by signing in to Your Account (if you are a registered online customer) or by notifying [customer.care@visionexpress.com](mailto:customer.care@visionexpress.com "Email customer care") .
+You can amend or remove your personal details either by signing in to Your Account (if you are a registered online customer) or by notifying .
 
 You are entitled by law to request from us whether we hold any of your personal information and, if so, to request a copy of it. If you wish to exercise your data subject access rights, please contact us in writing with sufficient information to verify your identity and the personal information you require to: the Data Compliance Officer, Vision Express (UK) Limited, Abbeyfield Road, Lenton, Nottingham NG7 2SP. A £10 administration fee may be charged for complying with a subject access request and we shall provide such information within 40 days of your request.
 
@@ -151,7 +149,7 @@ In addition to requiring information to be up to date, the Act also provides tha
 
 We may use your personal information to contact you in relation to healthcare related products and services offered by Vision Express. To ensure that you continue to receive excellent healthcare, Vision Express (UK) Limited will send you non-marketing material such as appointment reminders and notices to remind you of the expiration of your current prescription.
 
-You can opt out of receiving marketing communications from Vision Express (UK) Limited at anytime by notifying the Data Compliance Officer in writing (or by e-mail at [e-business@visionexpress.com](mailto:e-business@visionexpress.com "Email Vision Express e-business") ) and we will action your request.
+You can opt out of receiving marketing communications from Vision Express (UK) Limited at anytime by notifying the Data Compliance Officer in writing (or by e-mail at ) and we will action your request.
 
 Having opted in to receive email marketing material you will always be provided with an opportunity to opt out on every communication, in accordance with The Privacy and Electronic Communications (EC Directive) Regulations 2003.
 
@@ -159,7 +157,7 @@ Having opted in to receive email marketing material you will always be provided 
 
 If you are not a past or present customer of Vision Express, you will have been sent an acquisition mailing. The data company Equifax provide information to companies such as ourselves for direct marketing purposes, so we can contact potential customers with details of the products and services we provide. The data we have acquired from them has been collated from sources such as the Royal Mail data files and the Electoral Roll register.
 
-If you do not wish to receive acquisition mailings from us, please contact our Data Compliance Offer in writing, at the address below, or by email to [e-business@visionexpress.com](mailto:e-business@visionexpress.com "Email Vision Express e-business") . We will require your first name, surname, postcode, and ideally date of birth to ensure we can correctly identify your record and cease mailing activity.
+If you do not wish to receive acquisition mailings from us, please contact our Data Compliance Offer in writing, at the address below, or by email to . We will require your first name, surname, postcode, and ideally date of birth to ensure we can correctly identify your record and cease mailing activity.
 
 We will then contact Equifax on your behalf to stop any future mailings being sent to you by Vision Express in this way.
 
