@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the danosongs.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124034005id_/http%3A//www.danosongs.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the danosongs.com privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527213857id_/http%3A//www.danosongs.com/blog/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Hi, I'm Dan-O and this is my free royalty free production music library for videos, films, on hold, games, slideshows, podcasts, and websites. This is my blog, if you want to download royalty free music in a variety of styles [click here](http://www.danosongs.com/#music). For information about using the music check the [license FAQ](http://community.danosongs.com/page/5102969:Page:1790). 
 
-_Just for listening:_ also on iTunes, Amazon, Spotify, Last.fm and every other major music service. Search danosongs or your favorite song name. 
+I accept paypal, credit card, check, money order and monthly donations.
+
+For options [click here](http://community.danosongs.com/page/music-license-faq#options).
 
 **Privacy Policy for www.danosongs.com**
 
@@ -36,4 +38,4 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-Can't find the instrumental music you need here on DanoSongs? Check out these low-cost and high quality royalty free music options: 
+_**Just for listening:**_ also on iTunes, Amazon, Spotify, Last.fm and every other major music service. Search danosongs or your favorite song name. 
