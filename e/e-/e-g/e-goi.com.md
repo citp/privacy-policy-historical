@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the e-goi.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121022508id_/http%3A//www.e-goi.com/en/introducao/pol-tica-anti-spam) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-goi.com privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527170656id_/http%3A//www.e-goi.com/en/introducao/pol-tica-anti-spam) for the most accurate reproduction.*
 
 # E-goi :: Privacy and Anti-Spam Policy
 
