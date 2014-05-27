@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drugfreeworld.org privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112025531id_/http%3A//www.drugfreeworld.org/privacy-notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drugfreeworld.org privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527060131id_/http%3A//www.drugfreeworld.org/privacy-notice.html) for the most accurate reproduction.*
 
 # Foundation for a Drug-Free World Privacy Notice
 
@@ -8,7 +8,7 @@ The present website, including all information and materials contained on it, ar
 
 This Privacy Notice applies to this website, and to all other websites managed and controlled by the Foundation for a Drug-Free World and all their US-based affiliated organizations. There will be a link to this same Privacy Notice on all those sites.
 
- **The contact details of DFW are provided on our[Legal Notice](https://web.archive.org/web/20131112025531id_/http%3A//www.drugfreeworld.org/legal-notice.html).**
+ **The contact details of DFW are provided on our[Legal Notice](https://web.archive.org/web/20140527060131id_/http%3A//www.drugfreeworld.org/legal-notice.html).**
 
 This Privacy Notice does not apply to pages hosted by other organisations, including the websites of Foundation for a Drug-Free World chapters or groups outside the USA, even if there are links on the present website to such other Foundation for a Drug-Free World non-USA entities. These non-USA Drug-Free World entities will have their own Privacy Notices and Policies, with links to those provided on their websites.
 
@@ -96,4 +96,4 @@ You have a right to correct the information we hold on you, or to have it delete
 
 When we ask for your contact information in various forms, we will explain to you what we want to use those details for, and we will offer you options in regard of their use. Specifically, we will explain if we want to use certain information, such as your phone number or mobile phone number or email address, to contact you. You can also, at any time, let us know by simple email if you do not want to be contacted any more, either in general or by certain special means (e.g., by text or phone call). We will then, within a short period, ensure that such follow-up contacts are stopped.
 
-IF YOU HAVE ANY QUESTIONS ABOUT THIS PRIVACY NOTICE OR OUR PRIVACY POLICES; OR IF YOU WANT TO EXERCISE ANY OF THE ABOVE-MENTIONED RIGHTS; PLEASE [CONTACT US HERE.](https://web.archive.org/web/20131112025531id_/http%3A//www.drugfreeworld.org/legal-notice.html)
+IF YOU HAVE ANY QUESTIONS ABOUT THIS PRIVACY NOTICE OR OUR PRIVACY POLICES; OR IF YOU WANT TO EXERCISE ANY OF THE ABOVE-MENTIONED RIGHTS; PLEASE [CONTACT US HERE.](https://web.archive.org/web/20140527060131id_/http%3A//www.drugfreeworld.org/legal-notice.html)
