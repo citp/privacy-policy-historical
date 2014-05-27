@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the brisbanefestival.com.au privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205125835id_/http%3A//www.brisbanefestival.com.au/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brisbanefestival.com.au privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527182732id_/http%3A//www.brisbanefestival.com.au/content/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Brisbane Festival 2013
+# Privacy Policy | Brisbane Festival 2014
 
 1.  Our commitment to your privacy
 
