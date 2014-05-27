@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getoscommercetemplates.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030101907id_/http%3A//verio.com/about/legal/privacy%3Futm_source%3DParkedpages%26utm_medium%3Dveriosites%26utm_campaign%3DParked1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getoscommercetemplates.com privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527095156id_/http%3A//verio.com/about/legal/privacy%3Futm_source%3DParkedpages%26utm_medium%3Dveriosites%26utm_campaign%3DParked1) for the most accurate reproduction.*
 
 # Verio Privacy Policy
 
@@ -7,7 +7,7 @@
 * * *
 
 Verio Inc.  
-Effective: April 21, 2011
+Effective: December 30, 2013 
 
 We, Verio Inc. (“Verio”), value the business of our customers and are committed to protecting any data that we collect regarding our customers. By using Verio’s websites and/or purchasing Verio’s products and services (the “Services”), you (either a visitor to a Verio corporate website or a Customer) agree to the use of the data that we collect in accordance with this Privacy Policy. This Privacy Policy may be updated from time to time, at Verio’s sole discretion. Verio will provide you a notice of material changes to this Privacy Policy (e.g., material changes to the way Verio uses or discloses your Personal Information) by disclosing this amendment on its homepage and providing electronic notice of such changes on your Control Panel or BackRoom or to the email address we have on file. Your continued use of this website or the Services following your receipt of notice of material changes constitutes your agreement with any changes or modifications that Verio may make. 
 
@@ -25,6 +25,10 @@ In order to provide you with Services, Verio may collect a variety of Personal I
 
     1. **Use and Protection of Personal Information:**  
 Generally, Personal Information is used for billing purposes and in order to provision and provide the Services. Verio may also use this information in order to assess our customers’ needs and provide support. Verio collects this information in accordance with its Information Security Policy, which includes physical, electronic, and managerial safeguards to protect your Personal Information. In addition, Verio may contact our customers with voluntary materials, such as system usage information, newsletters, and other mailings or contacts containing promotions or other marketing materials for Verio or its Channel Partners ([www.viaverio.com](http://www.viaverio.com/)), selected vendors, and Affiliates. Any customer who receives these mailings or calls may Opt-Out from these voluntary communications at any time. Verio does not sell or otherwise transfer any Personal Information to third parties for the purposes of marketing communications, but may occasionally contact you on behalf of its Channel Partners, selected vendors, and Affiliates.
+
+Verio’s Corporate Websites, defined as websites owned or under the control of Verio Inc. (either by itself or with another entity), use cookies to collect information about website visitors’ activities, and our servers use a mechanism to collect certain information from your browser during the ordering process. Verio uses this information to (1) recognize returning customers when they sign in, (2) understand how customers arrived at the websites, so Verio can provide relevant content and information, (3) remember customers’ preferences, (4) protect against fraud, (5) provision any services ordered, and (6) provide information for analytics about the websites, such as total number of visitors and page views. You can choose to reject cookies at any time by changing your browser settings, but you should be aware that by blocking cookies, you will limit Verio’s ability to provide you with services you request. If you choose to order services from Verio, Verio’s Corporate Websites do not allow customers to block the collection of information that is necessary to provide you services and protect against fraud.
+
+Verio does not allow third parties to collect personal information directly from users of its Corporate Websites. Verio provides customer support through a website owned by a third party. This website uses session cookies in order to determine whether visitors to the website are returning customers, but these cookies disappear from visitors’ browsers when the browser is closed. Verio does share de-identified information with third parties for purposes of conducting analytics for Verio. Please review the onward transfer section for more information about how Customer information is shared with third parties. Verio retains ownership of the data it shares and does not permit the third parties to use the data for other purposes.
 
     2. **Onward Transfer of Personal Information:**  
 During the provision of Services, Verio may release Personal Information to third parties as necessary to the purposes described above. Third party recipients of Personal Information may include Verio’s Third-Party Providers, vendors, credit card processing companies, and your financial institution, as applicable. Verio only provides this information to third parties to the extent required to fulfill our obligations to you. More information about Verio’s Third-Party Providers can be found in the Terms and Conditions for your Services, which can be found by logging into your Control Panel or BackRoom. Verio provides this information in accordance with Verio’s Information Security Policy and all recipients are required to agree in writing to comply with Verio’s Information Security Policy with regards to their own treatment of the Personal Information. 
@@ -72,8 +76,8 @@ Questions, comments, or complaints regarding Privacy Policy and data collection 
 
 > VERIO INC.  
 >  Attention: Legal Department  
->  8300 E. Maplewood Avenue, Suite 400  
->  Greenwood Village, CO 80111  
+>  5050 Conference Way North  
+>  Boca Raton, FL 33431  
 >  [customer.privacy@verio.net](mailto:customer.privacy@verio.net)  
 >  [Opt-Out](https://web.archive.org/about/legal/privacy/solicitation/)
 
