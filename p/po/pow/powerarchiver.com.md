@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powerarchiver.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216052512id_/http%3A//www.powerarchiver.com/powerarchiver-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerarchiver.com privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527050551id_/http%3A//www.powerarchiver.com/powerarchiver-privacy) for the most accurate reproduction.*
 
 # PowerArchiver – Privacy Policy | PowerArchiver – ZIP for Windows
 
