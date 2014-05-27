@@ -1,18 +1,17 @@
-> *The following text is extracted and transformed from the game321.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218005945id_/http%3A//passport.game321.com/%3Fmod%3Dpassport%26file%3Dabout%26method%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the game321.com privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528012621id_/http%3A//passport.game321.com/%3Fmod%3Dpassport%26file%3Dabout%26method%3Dprivacy_policy) for the most accurate reproduction.*
 
 # The latest and funniest webgames---All in Game321.com
 
 ## Privacy Policy
 
-  * NGames Co., Ltd. is committed to protecting your privacy and creating a strong relationship with our users. This privacy policy explains the use of information collected via our website www.game321.com or affiliated site owned and operated by NGames (collectively, the "Site"), customer service operations and game service. As used in this Privacy Policy, "personal information" means information about you that is personally identifiable like your name, address, e-mail address, or phone number, and other information that is not otherwise publicly available. This policy does not apply to (i) the practices of companies that NGames does not own or control, (ii) people that NGames does not employ or manage, (iii) third-party sites, whether linked to or from the Site, or (iv) information collected by NGames offline.   
+  * This privacy policy explains the use of personally identifiable information collected via our website www.game321.com or affiliated sites owned and operated by NGames (collectively, the "Site"), customer service operations and game service. As used in this Privacy Policy, "personal information" means  information that can be used on its own or with other information to identify, contact, or locate a single person. This policy does not apply to (i) the practices of companies that NGames does not own or control, (ii) people that NGames does not employ or manage, (iii) third-party sites, whether linked to or from the Site, or (iv) information collected by NGames offline.   
 Important: If you do not agree with any terms or conditions described in this Privacy Policy or the Terms of Use, please exit from the Site.
 
 
 
 ### Information Collection and Use Show
 
-  * Our primary goal in collecting personal is to provide you, the user, with a customized experience on our Site and to deliver better services, products, and more relevant contents to our customers, prospective customers, and visitors. We may collect personal information by any of the following methods.
-  * Anonymous Site Visitor: If you visit our Site we may record information related to your IP address, cookie information, and aggregate information on what content you access or visit. This information is collected in the background while you move around our Site.
+  * Our primary goal in collecting personal is to provide you, the user, with a customized experience on our Site and to deliver better services, products, and more relevant content to our customers, prospective customers, and visitors. We may collect personal information by any of the following methods.
   * Mailing List Member: If you choose to provide us personal information in order to subscribe to our mailing list or newsletter, we may collect information to aid delivery and preferences such as e-mail address and message performance statistics.
   * Registered Site Member: If you choose to register on our Site, we may track broad site usage information as well as aggregate usage of website community features such as downloads and forums. This is in addition to the personal data collected during the registration process.
   * Promotions: We may collect information to aid in any promotions or prizes offered by our Site.
@@ -23,19 +22,8 @@ Important: If you do not agree with any terms or conditions described in this Pr
 
 ### Special Circumstances Show
 
-  * Service Beta User: If you volunteer to serve as a beta user for pre-commercial content, we may track bug reports and potentially individual system performance in an effort to rigorously test pre-deployed technology.
   * Former Customer: If you cease being a registered user with our Site, we will keep a copy of your registration file in our database for use in the event you wish to rejoin our service.
   * Response to Job Postings or Unsolicited Communications: Please note that information we receive in reference to a job posting or via unsolicited communications do not fall under the scope of this Privacy Policy. However, information from your resume will be used solely for the purpose of evaluating your candidacy for employment.
-
-
-
-### Information Collected Through Technology Show
-
-  * We collect information through technology to make our sites more interesting and useful to you.
-  * We may use cookies to track general, non-personal information about our users (e.g., user name, pages viewed, time spent our Site, and the websites visited just before and just after our Site) for statistical and market research purposes. The information is collected on an aggregated and anonymous basis. We use cookies to gather information about our Site users' browser activities in order to constantly improve our Site and better serve our customers. This information assists us to design and arrange our web pages in a most user-friendly manner and to continually improve our Site to better meet the needs of our customers, prospective customers, and visitors.
-  * Like most Internet services, we may also use log files on the server side. The data held in log files includes your IP (Internet Protocol) address, browser type, e-mail application, Internet service provider, referring/exit Web pages, computer platform type, date/time stamp, and user activity (e.g., feature usage, user rankings, game statistics). NGames may use server log data to analyze trends, administer the services offered through the Site. IP addresses are not tied to any personally identifiable information.
-  * In addition, the software enabling the Site may have associated log and temporary files that are stored on NGames's servers. These files store your account information, preference settings, system notifications as well as other data necessary to enable you to participate on the Site. Your information may also exist within regularly performed server backups. The foregoing information is collected on an aggregated and anonymous basis.
-  * When any game is updated or "patched," our patch routine may check your computer to see that you have the most recent version of game-specific files.
 
 
 
@@ -68,6 +56,6 @@ Important: If you do not agree with any terms or conditions described in this Pr
 
 ### Modification of Privacy Policy Show
 
-  * We may periodically update and modify our privacy policy to reflect changes in the types of information we collect, the means we use to collect information, and/or our usage of collected information. We will attempt to notify you of any such update or modification. However, you are responsible for periodically reviewing our Privacy Policy. Your use of the Site and/or any products or services offered by Site signifies your assent to the updated or modified Privacy Policy.
+  * We may periodically update and modify our privacy policy to reflect changes in the types of information we collect, the means we use to collect information, and/or our usage of collected information. If we update the policy, we will publish the updated policy here You are responsible for periodically checking back here to review our Privacy Policy.
 
 
