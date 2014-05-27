@@ -1,18 +1,12 @@
-> *The following text is extracted and transformed from the microdirect.co.uk privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226071627id_/http%3A//www.microdirect.co.uk/Articles/Index/Help/281) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the microdirect.co.uk privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527223248id_/http%3A//www.microdirect.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Security & Privacy Policy - microdirect.co.uk
+# Privacy Policy
 
-### Website security
+Microdirect is committed to respecting your privacy. In general, you can visit our website without giving any personal information. Some information is required in order to process orders or send latest offers through our newsletter. All of this information is collected in secure mode. A padlock sign shown at bottom right of your screen help you identify secure mode. 
 
-Microdirect is committed to respecting your privacy. In general, you can visit our website without giving any personal information. Some information is required in order to process orders or send latest offers through our newsletter. All of this information is collected in secure mode. A padlock sign shown at bottom right of your screen help you identify secure mode.   
-
-
-In secure mode all your information is transferred to our secure server using industry standard "secure socket layer". We also use McAfee secure to keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams. We do these checks on daily basis to make sure there is no compromise to security.   
-
+In secure mode all your information is transferred to our secure server using industry standard "secure socket layer". We also use McAfee secure to keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams. We do these checks on daily basis to make sure there is no compromise to security. 
 
 As stated in our privacy policy, we've taken the appropriate measures to ensure that your personal information is not unlawfully processed. We tread data as an asset which must be protected against loss and unauthorized access. Microdirect.co.uk uses industry standard practices to safeguard the confidentiality of your personal identifiable information, including "firewalls" and Secure Socket Layers.
-
-## Privacy Policy
 
 Micro Direct is committed to respecting your privacy. In general, you can visit Micro Direct without revealing any information about yourself. We do collect information regarding visitors to our website. Some information is required in order to process orders, for example, we analyze this data for trends and statistics to help us provide you with a better service.
 
