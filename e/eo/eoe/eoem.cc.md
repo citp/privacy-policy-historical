@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eoem.cc privacy policy that was archived on 2013-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130926201343id_/http%3A//www.eoem.cc/article.php%3Fid%3D22) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eoem.cc privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527212608id_/http%3A//www.eoem.cc/article.php%3Fid%3D22) for the most accurate reproduction.*
 
-# Privacy Policy_Detail Info_Information_Apple iPhone Accessories,wholesale power bank,Samsung Accessories from China wholesalers!
+# Privacy Policy_Detail Info_Information_Apple iPhone Accessories, Samsung Accessories, Powerbank, Headphones and Earphones Wholesale from China!
 
   **Last modified: August 8, 2008**
 
