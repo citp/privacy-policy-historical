@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techfocus.co.uk privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818014605id_/http%3A//www.techfocus.co.uk/cm/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techfocus.co.uk privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527085746id_/http%3A//www.techfocus.co.uk/cm/privacy.htm) for the most accurate reproduction.*
 
 # Nintendo Wii Fit, Nintendo DS, Wii Fit Accessories In Stock Now!
 
