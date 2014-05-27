@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the instamed.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202091712id_/http%3A//www.instamed.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instamed.com privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527054611id_/http%3A//www.instamed.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | InstaMed
 
 InstaMed Communications, LLC, and its respective divisions, subsidiaries and affiliates (“InstaMed”) recognizes the importance of protecting your privacy. This Privacy Statement (“Statement”) discloses our information-gathering and dissemination practices for this website at [www.instamed.com](http://www.instamed.com/) (“Website”).
 
-By using this Website, you agree to be bound by the terms and conditions of this Statement and the Terms of Use: <http://www.instamed.com/terms-of-use>. You may also be subject to another privacy statement or other terms and conditions that are posted on InstaMed’s website specific to a particular InstaMed program or service (“Other Agreement”). Based upon your specific relationship(s) with InstaMed, we may collect, use or disclose Personal Information (defined below) in ways described in more detail in one or more Other Agreements. To the extent the Other Agreement includes additional terms that are not covered by or are inconsistent with this Statement, the terms and conditions of the Other Agreement will supersede this Statement.
+By using this Website, you agree to be bound by the terms and conditions of this Statement and the Terms of Use: [http://www.instamed.com/terms-of-use](https://web.archive.org/terms-of-use). You may also be subject to another privacy statement or other terms and conditions that are posted on InstaMed’s website specific to a particular InstaMed program or service (“Other Agreement”). Based upon your specific relationship(s) with InstaMed, we may collect, use or disclose Personal Information (defined below) in ways described in more detail in one or more Other Agreements. To the extent the Other Agreement includes additional terms that are not covered by or are inconsistent with this Statement, the terms and conditions of the Other Agreement will supersede this Statement.
 
 Within this Statement you will find covered matters related to the following:
 
   * Minors
-  * Information We Collect 
-    * Personal Information
-    * Non-Personal Information
-    * Cookies
-    * Third-Party Advertisers
+  * Information We Collect
+  * Personal Information
+  * Non-Personal Information
+  * Cookies
+  * Third-Party Advertisers
   * How We Use Your Personal Information
   * Disclosure of Your Personal Information
   * Choice to Opt Out
@@ -23,6 +23,9 @@ Within this Statement you will find covered matters related to the following:
   * Governing Law and Jurisdiction
   * Contact Information
   * Special Notice to California Residents
+  * Do Not Track
+  * Third Parties
+  * Class Action Waiver
 
 
 
@@ -92,7 +95,7 @@ If you are receiving communications from us, including voicemail or email, but l
 
 **7\. Links to Third-Party Sites**
 
-This Website may contain links to other third party websites. InstaMed does not control the privacy statements or practices of these third-party sites. You should review those statements before providing any information. InstaMed is not responsible for the content or practices of any linked third-party sites, and we provide these links solely for the convenience and information of our visitors. Specifically, if you use a credit card, debit card or bank account information to pay for any products or services, InstaMed is not responsible for any information you provide regarding the credit card, debit card or bank account information on this Website.
+This Website may contain links to other third-party websites. InstaMed does not control the privacy statements or practices of these third-party sites. You should review those statements before providing any information. InstaMed is not responsible for the content or practices of any linked third-party sites, and we provide these links solely for the convenience and information of our visitors. Specifically, if you use a credit card, debit card or bank account information to pay for any products or services, InstaMed is not responsible for any information you provide regarding the credit card, debit card or bank account information on this Website.
 
 **8\. Security**
 
@@ -118,10 +121,22 @@ If you have any questions or concerns about this Website or Privacy Statement, y
 
 Under California Law SB 27, California residents have the right to receive, once a year, information about third parties with whom we have shared Personal Information about you or your family for their marketing purposes during the previous calendar year, and a description of the categories of Personal Information shared. If you are a California resident and wish to make such a request, please send an email to [support@instamed.com](mailto:support@instamed.com) and include the phrase “California Privacy Request” in the subject line, and provide us with your name, address and email address. We will respond to you within thirty (30) days of receiving such a request.
 
+**13\. Do Not Track**
+
+InstaMed supports Do Not Track across all of the pages on its website.  Regardless of whether you activate Do Not Track in your web browser, InstaMed does not track user actions across multiple websites.  InstaMed does use cookies and/or create log entries for access to individual sites that you visit, consistent with this privacy policy.  Do Not Track (DNT) is a privacy preference that you can set in your web browser to indicate that you do not want certain information about your webpage visits collected across websites when you have not interacted with that service on the page. For additional information in regard to Do Not Track, please visit donottrack.us.
+
+**14\. Third Parties**
+
+When you use our website/service, third parties cannot collect personally identifiable information about your online activities.
+
+**15\. Class Action Waiver**
+
+THERE WILL BE NO RIGHT OR AUTHORITY FOR ANY DISPUTE TO BE BROUGHT, HEARD, OR ARBITRATED AS A CLASS ACTION (INCLUDING WITHOUT LIMITATION OPT OUT CLASS ACTIONS OR OPT IN COLLECTIVE CLASS ACTIONS), OR IN A REPRESENTATIVE OR PRIVATE ATTORNEY GENERAL CAPACITY ON BEHALF OF A CLASS OF PERSONS OR THE GENERAL PUBLIC.  ALL DISPUTES SHALL BE RESOLVED ON AN INDIVIDUAL BASIS ONLY.
+
 **See also:**
 
   * [Site Terms of Use](http://www.instamed.com/terms-of-use)
 
 
 
-**_This Privacy Statement_** **_is effective as of: June 1, 2013_**
+**_This Privacy Statement_** **_is effective as of: December 18, 2013_**
