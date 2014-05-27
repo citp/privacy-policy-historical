@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the investmentyogi.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124121833id_/https%3A//www.investmentyogi.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investmentyogi.com privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527040817id_/http%3A//www.investmentyogi.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy policy - InvestmentYogi.com
+
+Effective Date: January 1, 2009
 
 At InvestmentYogi, we respect your privacy and are committed to protecting your personal information. Our privacy policy detailed below explains what information we may gather from your visit to our web sites and how such information may be used.
 
