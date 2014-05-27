@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bmc-switzerland.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203215219id_/http%3A//www.bmc-racing.com/fr-fr/contact/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmc-switzerland.com privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527074952id_/http%3A//www.bmc-racing.com/ch-fr/contact/privacy) for the most accurate reproduction.*
 
 # Privacy – BMC swiss cycling technology – Privacy, privacy policy
 
@@ -36,4 +36,4 @@ If you have any questions or concerns about our privacy policy or privacy practi
 
 #### Policy changes.
 
-We may revise our privacy policy from time to time. If so we will post the revised policy on our website: [www.bmc-switzerland.com](http://www.bmc-racing.com/fr-fr/ "Home \(fr-CH\)").
+We may revise our privacy policy from time to time. If so we will post the revised policy on our website: [www.bmc-switzerland.com](http://www.bmc-racing.com/ch-fr/ "Home \(fr-CH\)").
