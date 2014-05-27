@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the standup2cancer.org privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124142001id_/http%3A//www.standup2cancer.org/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the standup2cancer.org privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527184517id_/http%3A//www.standup2cancer.org/privacypolicy) for the most accurate reproduction.*
 
 # Stand Up To Cancer — Privacy Policy
 
@@ -72,7 +72,7 @@ If you are a parent or guardian who has discovered that your child under the age
 
 SU2C encourages parents and guardians to spend time online with their children to become familiar with the types of content available on the Sites, the Services and the Internet generally.
 
-_**No Spam, Spyware or Spoofing** _
+_**No Spam, Spyware or Spoofing**_
 
 We do not tolerate spam. You are not licensed or otherwise permitted to add other users on the Site and the Services to your mailing list (email or physical mail, or any other medium) without their explicit consent. To report spam or spoof emails to SU2C, please forward the email to [su2cprivacy@standup2cancer.org](mailto:su2cprivacy@standup2cancer.org). You may not use our communication tools to send spam or otherwise send content that would violate the TOS.
 
@@ -108,7 +108,7 @@ While SU2C takes reasonable and appropriate precautions to protect your personal
 
 Whenever you give SU2C sensitive or confidential information (for example, credit card numbers for Purchases), SU2C will take commercially reasonable steps to protect the information by establishing a secure connection with your Web browser. SU2C employs a security technology known as a secure-socket-layer (“SSL”) to protect the transmission of payment information to the site. Unless otherwise specified herein or on the site where you make a Purchase, credit card numbers are used only for payment processing and are not retained for marketing purposes.
 
-_**Hyperlinks To and From Other Sites** _
+_**Hyperlinks To and From Other Sites**_
 
 SU2C sites may frame, and/or contain links to, or advertisements about, non-SU2C Web sites. Other sites may also reference, advertise, or link to SU2C sites. SU2C does not endorse or sponsor other Web sites, is not responsible for the privacy practices or the content of non-SU2C sites, expressly disclaims any statements or assertions made on such Web sites, and denies all liability associated with your use of, and the content on, such other sites and advertisements.
 
@@ -125,5 +125,3 @@ _**Notification of Changes**_
 SU2C reserves the right to change this Privacy Policy and its Terms of Service at any time. In case of any material change to the Privacy Policy, we will replace the “Privacy Policy” link on the home page of our sites with a link entitled “Updated Privacy Policy” for no less than 30 days. All changes to the Privacy Policy and/or Terms of Service will be effective when posted, and your continued use of any SU2C site or Service after the posting will constitute acceptance of, and agreement to be bound by, those changes.
 
 **Effective Date: March 17, 2008**
-
-__
