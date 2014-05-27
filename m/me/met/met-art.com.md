@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the met-art.com privacy policy that was archived on 2013-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130729150456id_/http%3A//guests.met-art.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the met-art.com privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527103510id_/http%3A//guests.met-art.com/privacy) for the most accurate reproduction.*
 
 # MetArt Privacy Policy
 
@@ -16,7 +16,7 @@ If you have any questions about this Privacy Policy or don't see your concerns a
 
 **Controllers of Personal Information**
 
-Any personal information provided to or to be gathered by Company is controlled primarily by [Add Address].
+Any personal information provided to or to be gathered by Company is controlled primarily by 18034 Ventura Blvd, Suite 181, Encino, CA, 91316.
 
 What Information About Me Is Collected and Stored?
 
