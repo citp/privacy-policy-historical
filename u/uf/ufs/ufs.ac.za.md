@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ufs.ac.za privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203050811id_/http%3A//www.ufs.ac.za/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ufs.ac.za privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527185353id_/http%3A//www.ufs.ac.za/privacy.aspx) for the most accurate reproduction.*
 
 # University of the Free State Privacy Policy
 
