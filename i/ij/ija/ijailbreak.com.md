@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ijailbreak.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126123033id_/http%3A//www.ijailbreak.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ijailbreak.com privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527114944id_/http%3A//www.ijailbreak.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -47,7 +47,7 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 
 **Google Adsense**
 
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at http://www.google.com/privacy_ads.html.
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at http://www.google.com/policies/technologies/ads/.
 
 **Changes to this privacy policy**
 
@@ -64,5 +64,3 @@ If you have any questions about this Privacy Policy, the practices of this site,
 Dusty@iJailbreak.com or Jaden@iJailbreak.com
 
 This document was last updated on July 24th, 2012
-
-Don't forget to follow iJailbreak.com on [Facebook](https://www.facebook.com/iJailbreakFans), [Twitter](https://twitter.com/iJailbreak) and [Google+](https://plus.google.com/+iJailbreak). And if you would be interested in becoming an **iOS 7** guru [click here](https://deals.ijailbreak.com/sales/lifetime-subscription-to-ios-centric).
