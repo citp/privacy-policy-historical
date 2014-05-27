@@ -1,55 +1,48 @@
-> *The following text is extracted and transformed from the artisangilt.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230235958id_/http%3A//artisangilt.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artisangilt.com privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527220151id_/http%3A//www.artisangilt.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - ArtisanGilt.com
+# Privacy Policy | ArtisanGilt.com
 
 Privacy Policy
 
 This Privacy Policy governs the manner in which www.artisangilt.com collects, uses, maintains and discloses information collected from users of the Website (www.artisangilt.com). This privacy policy applies to the Website and all the products and services offered by www.artisangilt.com.
 
-**Data we collect**
+Data we collect
 
 We may collect personal identification information from users in a variety of ways, including, but not limited to, when users visit our site, register on the site, place an order, subscribe to the newsletter, fill out a form, and in connection with other activities, services, features or resources we make available on our site. Users may be asked for details such as their name, email address, mailing address, phone number, etc. as considered appropriate. Users may, however, also visit our Website anonymously. We will collect personal identification information from users only if they voluntarily submit such information to us. Users can always refuse to reveal personal identification information, except that it may prevent them from engaging in certain Website related activities.
 
 We may also collect non-personal identification information about users whenever they interact with our Website. Non-personal identification information may include the browser name, the type of computer and technical information about user's means used to connect to our Website, such as the operating system, the internet service providers and other similar information.
 
-**Web browser cookies**
+Web browser cookies
 
 Our Website may use "cookies" to enhance user experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. Users may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Website may not function properly.
 
-**Use of collected information**
+Use of collected information
 
-Artisangilt.com may collect and use user's personal information for the following purposes:
+Artisangilt.com may collect and use user's personal information for the following purposes:  
+1) To improve customer service: Information you provide helps us respond to your customer service requests and support needs more efficiently.  
+2) To personalize user experience: We may use information in the aggregate to understand how our users as a group use the services and resources provided on our Website.  
+3) To improve our Website: We may use feedback you provide to improve our products and services.  
+4) To process payments: We may use the information users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.  
+5) To send periodic emails: We may use the email address to send user, information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If user decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-  1. To improve customer service: Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  2. To personalize user experience: We may use information in the aggregate to understand how our users as a group use the services and resources provided on our Website.
-  3. To improve our Website: We may use feedback you provide to improve our products and services.
-  4. To process payments: We may use the information users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
-  5. To send periodic emails: We may use the email address to send user, information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If user decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
-
-
-
-**Protection of information**
+Protection of information
 
 We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Website.
 
 Sensitive and private data exchange between the Website and its users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.
 
-**Sharing your personal information**
+Sharing your personal information
 
 We DO NOT sell, trade, or rent users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
 
-**Third party websites**
+Third party websites
 
 Users may find advertising or other content on our Website that links to the websites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Website. In addition, these websites or services, including their content and links, may be constantly changing. These websites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Website, is subject to that website's own terms and policies.
 
-**Changes to this privacy policy**
+Changes to this privacy policy
 
 Artisangilt.com at its sole discretion can change/update this privacy policy at any time. When we do so, we will revise the updated date at the bottom of this page. We encourage users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. By using the website, you acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
-**Your acceptance of these terms**
+Your acceptance of these terms
 
 By using this Website, you acknowledge your acceptance of this policy and other terms and conditions. If you do not agree to this policy, please do not use our Website. Your continued use of the Website following the posting of changes to this policy will be deemed your acceptance of those changes.
-
-**Contacting us**
-
-If you have any questions about this Privacy Policy, the practices of this Website, or your dealings with this site, please contact us through our [Contact page](http://www.artisangilt.com/contact-us/).
