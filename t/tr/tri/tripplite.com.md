@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the tripplite.com privacy policy that was archived on 2013-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130911094527id_/http%3A//www.tripplite.com/en/company/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripplite.com privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527152943id_/http%3A//www.tripplite.com/company/privacy) for the most accurate reproduction.*
 
-# Tripp Lite : Privacy Policy
-
-[ ](https://web.archive.org/en/index.cfm "Tripp Lite Home")
+# Privacy Policy | Tripp Lite
 
 Tripp Lite values your privacy. Your name and information will never be rented, sold or shared. The information you provide is for Tripp Lite's internal use only. Protecting your privacy is important to Tripp Lite. The following privacy policy will aid you in understanding how Tripp Lite collects, uses and safeguards the personal information you provide while visiting our website.
 
-### Information Collection
+#### Information Collection
 
-As you browse Tripp Lite's Web site, you and your identity remain anonymous. We don't collect personal information—including your email address—without your approval. We do log the number of total visits to our site and subsequent pages and may record which pages you visit and how long you spend there. However, we do not link your email address or computer's IP address to anything personally identifiable.
+As you browse Tripp Lite's Web site, you and your identity remain anonymous. We don't collect personal information - including your email address - without your approval. We do log the number of total visits to our site and subsequent pages and may record which pages you visit and how long you spend there. However, we do not link your email address or computer's IP address to anything personally identifiable.
 
 At times we may request that you voluntarily supply us with personal information, such as your email address and postal address for purposes such as corresponding with us, registering at a site, participating in promotions, registering a new product or helping us respond more quickly to your support question. This information is never given to outside sources and is for our company's use only.
 
-### Information Use
+#### Information Use
 
 If you provide us with your email or postal address we will ask you if we can use it to send you updates on the latest Tripp Lite products and promotions before doing so. It is Tripp Lite's explicit policy not to share your personal information with other companies.
 
@@ -22,6 +20,10 @@ Tripp Lite may employ third-party email marketers to manage our email mailing li
 
 Because Tripp Lite operates on a global scale, we make company information available to our worldwide business units. As part of this process, the personal information that you have provided to us may be sent to other Tripp Lite business units around the world. However, we do not share your profile with anyone else outside of Tripp Lite and no one else can access your information.
 
-### Declining Email Offers
+#### Use of Non-Identifiable Information
+
+If you visit our site and view a product, we use non-identifiable information to make Tripp Lite ads you see on other sites more relevant to you. For example, if you recently viewed a UPS system, you may be more likely to see an ad for a Tripp Lite UPS system. To learn more about online advertising and how to opt out of a third party's use of cookies, please visit the Network Advertising Initiative website (http://www.networkadvertising.org/choices/). You can learn more about cookies by visiting www.allaboutcookies.org.
+
+#### Declining Email Offers
 
 Tripp Lite provides you with the option to decline to receive email offers. Although most customers tell us they appreciate receiving notice of these opportunities, we recognize the importance of providing you with choices. All email offers that you receive from Tripp Lite will contain information on how to decline future emails.
