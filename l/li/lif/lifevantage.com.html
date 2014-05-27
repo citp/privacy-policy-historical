@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the lifevantage.com privacy policy that was archived on 2013-12-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131224080650id_/http%3A//www.lifevantage.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lifevantage.com privacy policy that was archived on 2014-05-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140527025237id_/http%3A//www.lifevantage.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js"><!--<![endif]--><head>
 		<meta charset="utf-8">
-		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwIPUVFUGwECVlZVBQQ="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
 		<meta name="google-site-verification" content="mhbqj8XIy7EkWX0eqgNkvEzbKianPMiItcYQ2E4Hntk">
-		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script><title>Privacy Policy | LifeVantage</title>
+		<title>Privacy Policy | LifeVantage</title>
 		<meta name="description" content="">
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no, maximum-scale=1">
 
@@ -13,21 +13,19 @@
 		<link rel="alternate" type="application/rss+xml" title="LifeVantage » Feed" href="http://www.lifevantage.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="LifeVantage » Comments Feed" href="http://www.lifevantage.com/comments/feed/">
 <link rel="alternate" type="application/rss+xml" title="LifeVantage » Privacy Policy Comments Feed" href="http://www.lifevantage.com/privacy-policy/feed/">
-<link rel="stylesheet" id="lifevantage-jquery-mobile-css" href="http://www.lifevantage.com/wp-content/themes/lifevantage/css/jquery.mobile-1.3.1.css?ver=27ef960" type="text/css" media="only screen">
-<link rel="stylesheet" id="lifevantage-jquery-ui-css" href="http://www.lifevantage.com/wp-content/themes/lifevantage/css/smoothness/jquery-ui.min.css?ver=27ef960" type="text/css" media="only screen">
-<link rel="stylesheet" id="lifevantage-combined-css" href="http://www.lifevantage.com/wp-content/themes/lifevantage/css/combined.css?ver=20131121" type="text/css" media="all">
-<link rel="stylesheet" id="lifevantage-style-css" href="http://www.lifevantage.com/wp-content/themes/lifevantage/style.css?ver=20130628" type="text/css" media="all">
+<link rel="stylesheet" id="lifevantage-jquery-ui-css" href="http://www.lifevantage.com/wp-content/themes/lifevantage/css/smoothness/jquery-ui.min.css?ver=1375636024" type="text/css" media="only screen">
+<link rel="stylesheet" id="lifevantage-combined-css" href="http://www.lifevantage.com/wp-content/themes/lifevantage/css/combined.css?ver=1400699220" type="text/css" media="all">
+<link rel="stylesheet" id="lifevantage-style-css" href="http://www.lifevantage.com/wp-content/themes/lifevantage/style.css?ver=1397694723" type="text/css" media="all">
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 <script type="text/javascript" src="http://www.lifevantage.com/wp-content/plugins/adrotate-pro/library/jquery.jshowoff.min.js?ver=0.1.2"></script>
-<script type="text/javascript" src="http://www.lifevantage.com/wp-content/themes/lifevantage/js/vendor/modernizr-2.6.2.min.js?ver=3.8"></script>
-<script type="text/javascript" src="http://www.lifevantage.com/wp-content/themes/lifevantage/js/vendor/jquery-ui.min.js?ver=3.8"></script>
-<script type="text/javascript" src="http://www.lifevantage.com/wp-content/themes/lifevantage/js/plugins.js?ver=3.8"></script>
-<script type="text/javascript" src="http://www.lifevantage.com/wp-includes/js/comment-reply.min.js?ver=3.8"></script>
+<script type="text/javascript" src="http://www.lifevantage.com/wp-content/themes/lifevantage/js/vendor/modernizr-2.6.2.min.js?ver=2.6.2"></script>
+<script type="text/javascript" src="http://www.lifevantage.com/wp-content/themes/lifevantage/js/vendor/jquery-ui.min.js?ver=1373927393"></script>
+<script type="text/javascript" src="http://www.lifevantage.com/wp-content/themes/lifevantage/js/plugins.js?ver=1392254367"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.lifevantage.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.lifevantage.com/wp-includes/wlwmanifest.xml"> 
 <link rel="prev" title="Terms of Use" href="http://www.lifevantage.com/terms-of-use/">
 <link rel="next" title="Supplier Information" href="http://www.lifevantage.com/suppliers/">
-<meta name="generator" content="WordPress 3.8">
+<meta name="generator" content="WordPress 3.9.1">
 <link rel="canonical" href="http://www.lifevantage.com/privacy-policy/">
 <link rel="shortlink" href="http://www.lifevantage.com/?p=30">
 
@@ -53,29 +51,20 @@ jQuery(document).ready(function(){
 </style>
 <!-- /AdRotate CSS -->
 
-<!-- <meta name="vfbPro" version="2.4.1" /> -->
+<!-- <meta name="vfbPro" version="2.4.3" /> -->
 
 		<!--<script>window.jQuery || document.write('<script src="http://www.lifevantage.com/wp-content/themes/lifevantage/js/vendor/jquery-1.7.1.min.js"><\/script>')</script>-->
-		<script type="text/javascript" charset="utf-8">
-			$(document).bind("mobileinit", function(){
-			    $.extend(  $.mobile , {
-					ajaxEnabled : false,
-					pushStateEnabled : false
-				});
-			});
-		</script>
-		<script src="http://www.lifevantage.com/wp-content/themes/lifevantage/js/vendor/jquery.mobile.custom.min.js"></script>
-		<script src="http://www.lifevantage.com/wp-content/themes/lifevantage/js/main.js"></script>
+		<script src="http://www.lifevantage.com/wp-content/themes/lifevantage/js/main.js?ver=20140507"></script>
 	</head>
-	<body id="lfvn" class="page page-id-30 page-template-default custom-background-empty">
-		<div data-role="page">
+	<body id="lfvn" ontouchstart="" class="page page-id-30 page-template-default custom-background-empty">
+		<div class="container">
 			
 			<!--[if lt IE 7]>
 				<p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
 			<![endif]-->
 			
-			<nav data-role="panel" id="navigation">
-    <ul class="first">
+			<nav id="navigation" class="mobile slide">
+    <ul class="first scroll">
     	<li><a href="http://www.lifevantage.com">Home</a></li>
     	<li><a href="/opportunity/">Opportunity</a></li>    	<li>
 			<a href="/products/">Products</a>
@@ -85,11 +74,11 @@ jQuery(document).ready(function(){
     	<li><a href="/science/">Science</a></li>    	<li>
 			<a href="/company/">Company</a>
 			<ul class="second">
-				<li><a href="/upcoming-events/">Upcoming Events</a></li>				<li><a href="/company/management-team/">Management Team</a></li>				<li><a href="/company/lifevantage-lifestories/">LifeVantage LifeStories</a></li>				<li><a href="//investor.lifevantage.com">Investor Relations</a></li>								<li><a href="/company/lifevantage-legacy/">LifeVantage Legacy</a></li>				<li><a href="/company/careers/">Careers</a></li>				<li><a href="http://events.lifevantage.com">Event Feed</a></li>				<li><a href="/company/contact-us/">Contact Us</a></li>			</ul>
+				<li><a href="/upcoming-events/">Upcoming Events</a></li>				<li><a href="/company/management-team/">Management Team</a></li>				<li><a href="/company/lifevantage-lifestories/">LifeVantage LifeStories</a></li>				<li><a href="//investor.lifevantage.com">Investor Relations</a></li>				<li><a href="/company/lifevantage-legacy/">LifeVantage Legacy</a></li>				<li><a href="/company/careers/">Careers</a></li>									<li><a href="http://events.lifevantage.com">Event Feed</a></li>								<li><a href="/company/contact-us/">Contact Us</a></li>			</ul>
 		</li>		<li>
 			<a>Resources</a><!-- resources -->
 			<ul class="second">
-				<li><a href="http://www.lifevantage.com/wp-content/uploads/2013/06/US-Distributor-Application_2013.12.pdf">Distributor Enrollment Form</a></li>				<li><a href="http://www.lifevantage.com/wp-content/uploads/2013/06/US-Preferred-Customer-Application-2013.11.pdf">Preferred Customer Enrollment Form</a></li>				<li><a href="http://www.lifevantage.com/wp-content/uploads/2013/06/US-Comp-Plan-Highlight-Flyer-V.05.pdf">Compensation Plan</a></li>				<li><a href="http://www.lifevantage.com/wp-content/uploads/2013/06/USA-policies-and-procedures-2013.11.pdf">  Policies &amp; Procedures</a></li>				<!-- repeater field is here if needed -->
+				<li><a href="http://www.lifevantage.com/wp-content/uploads/2013/06/US_Distributor_Application_4_30_14.pdf">Distributor Enrollment Form</a></li>				<li><a href="http://www.lifevantage.com/wp-content/uploads/2013/06/US_Preferred-_Customer_-Application_-4_30_14.pdf">Preferred Customer Enrollment Form</a></li>				<li><a href="http://www.lifevantage.com/wp-content/uploads/2013/06/US-Comp-Plan-Highlight-Flyer-V.05.pdf">Compensation Plan</a></li>				<li><a href="http://www.lifevantage.com/wp-content/uploads/2013/06/USA-policies-and-procedures-2013.11.pdf">  Policies &amp; Procedures</a></li>				<!-- repeater field is here if needed -->
 								<li><a href="http://www.lifevantage.com/wp-content/uploads/2013/06/LifeVantage-Earnings-Claim-Statement-V.04.pdf">Earnings Claim Statement</a></li>
 												<li><a href="/suppliers/">Supplier Information</a></li>			</ul>
 		</li>
@@ -98,100 +87,101 @@ jQuery(document).ready(function(){
 			<a href="http://info.lifevantage.com/index.cfm">Distributor Portal</a>
 			<ul class="second">
 				<li><a href="http://info.lifevantage.com/index.cfm">Virtual Office</a></li>
-				<li><a href="/activation-rewards/">Activation Rewards Program</a></li>				<li><a href="/upcoming-events/">Upcoming Events</a></li>				<li><a href="https://registration.lifevantage.com/Registration/Events?lang=en-US">Event Registration</a></li>								<li><a href="http://www.lvnmedia.com/faqs">FAQs</a></li>				<li><a href="/news-center/">News Center</a></li>				<li><a href="http://www.lvnmedia.com/join-lifevantage/meet-our-top-achievers/master-pro-10/">Recognition</a></li>				<li><a href="http://bigbluecalendar.mhsoftware.com">Big Blue Calendar</a></li>				<li><a href="http://www.lvnmedia.com">LVN Media</a></li>				<li><a href="http://www.lifevantageuniversity.com">LifeVantage University</a></li>				<li><a href="/live-webinars/">Live Webinar</a></li>			</ul>
+				<li><a href="/activation-rewards/">Activation Rewards Program</a></li>				<li><a href="/upcoming-events/">Upcoming Events</a></li>				<li><a href="https://registration.lifevantage.com/Registration/Events?lang=en-US">Event Registration</a></li>								<li><a href="http://www.lvnmedia.com/faqs">FAQs</a></li>				<li><a href="/news-center/">News Center</a></li>									<li><a href="http://www.lvnmedia.com/join-lifevantage/meet-our-top-achievers/master-pro-10/">Recognition</a></li>								<li><a href="http://bigbluecalendar.mhsoftware.com">Big Blue Calendar</a></li>				<li><a href="http://www.lvnmedia.com">LVN Media</a></li>				<li><a href="LifeVantage University">LifeVantage University</a></li>				<li><a href="/live-webinars/">Live Webinar</a></li>			</ul>
 		</li>
     	<li class="parent country">
 			<a>Country</a>
 			<ul class="second">
-				<li class="aus"><a href="http://au.lifevantage.com/privacy-policy/">Australia</a></li>
-				<li class="can"><a href="http://ca-en.lifevantage.com/privacy-policy/">Canada (English)</a></li>
-								<li class="hon"><a href="http://hk-ch.lifevantage.com/privacy-policy/">香港</a></li>
-				<li class="hon"><a href="http://hk-en.lifevantage.com/privacy-policy/">Hong Kong (English)</a></li>
-				<li class="jap"><a href="http://jp.lifevantage.com/privacy-policy/">日本</a></li>
-				<li class="mex"><a href="http://mx.lifevantage.com/privacy-policy/">México</a></li>
-				<li class="usa"><a href="http://www.lifevantage.com/privacy-policy/">United States</a></li>
-				<li class="usa"><a href="http://us-es.lifevantage.com/privacy-policy/">Estados Unidos (Español)</a></li>
+				<li class="aus"><a href="http://au.lifevantage.com">Australia</a></li>
+				<li class="can"><a href="http://ca-en.lifevantage.com">Canada (English)</a></li>
+								<li class="hon"><a href="http://hk-ch.lifevantage.com">香港</a></li>
+				<li class="hon"><a href="http://hk-en.lifevantage.com">Hong Kong (English)</a></li>
+				<li class="jap"><a href="http://jp.lifevantage.com">日本</a></li>
+				<li class="mex"><a href="http://mx.lifevantage.com">México</a></li>
+				<li class="usa"><a href="http://www.lifevantage.com">United States</a></li>
+				<li class="usa"><a href="http://us-es.lifevantage.com">Estados Unidos (Español)</a></li>
 			</ul>
 		</li>
     </ul>
 </nav><!-- /mobile panel -->
 
-<header class="clearfix" data-role="header">
-	<div class="site_width clearfix">
-		<a class="f_l logo" href="http://www.lifevantage.com"><img src="http://www.lifevantage.com/wp-content/themes/lifevantage/img/lifevantage-logo-header.png" width="202" height="33" alt="Lifevantage Logo Header"></a>
+<div class="panel slide">
+	<header class="clearfix">
+		<div class="desktop site_width clearfix">
+			<a class="f_l logo" href="http://www.lifevantage.com"><img src="//www.lifevantage.com/wp-content/themes/lifevantage/img/lifevantage-logo-header.png" width="202" height="33" alt="Lifevantage Logo Header"></a>
 
-		<a href="#navigation" id="nav_toggle" class="" title="Navigation"><span>Navigation</span></a>
+			<a href="#navigation" id="navToggle" title="Navigation"><span>Navigation</span></a>
 
-		<nav class="primary f_r">
-			<ul class="nav_wrap clearfix text_uppercase">
-				<li class="first">
-					<a class="font_title" href="/opportunity/">Opportunity</a>
-				</li>				<li class="parent products">
-					<a class="relative font_title" href="/products/">Products</a>
-					<div class="menu radius_2_b">
-						<ul class="clearfix">
-							<li class="col_1_3 f_l protan clearfix">
-								<a href="/products/protandim/">
-									<span class="large">Protandim<sup>®</sup></span>
-									<p>Reduce oxidative stress and deliver a biochemical wake-up call to your genes.</p>
-								</a>
-							</li>							<li class="col_1_3 f_l truesc clearfix">
-								<a href="/products/truescience/">
-									<span class="large">TrueScience</span>
-									<p>Get outside protection by pampering your skin with TrueScience.</p>
-								</a>
-							</li>							<li class="col_1_3 f_l canine clearfix">
-								<a href="/products/canine-health/">
-									<span class="large">Canine Health</span>
-									<p>Specifically formulated to reduce oxidative stress in the dogs you love.</p>
-								</a>
-							</li>						</ul>
-					</div>
-				</li>
-				<li>
-					<a class="font_title" href="/science/">Science</a>
-				</li>				<li class="parent relative company">
-					<a class="font_title" href="/company/">Company</a>
-					<div class="menu radius_2_b">
-						<ul class="subnav clearfix">
-							<li><a href="/company/">Our Story</a></li>
-							<li><a href="/upcoming-events/">Upcoming Events</a></li>							<li><a href="/company/management-team/">Management Team</a></li>							<li><a href="/company/lifevantage-lifestories/">LifeVantage LifeStories</a></li>							<li><a href="//investor.lifevantage.com">Investor Relations</a></li>														<li><a href="/company/lifevantage-legacy/">LifeVantage Legacy</a></li>							<li><a href="/company/careers/">Careers</a></li>							<li><a href="http://events.lifevantage.com">Event Feed</a></li>							<li><a href="/company/contact-us/">Contact Us</a></li>						</ul>
-					</div>
-				</li>				<li>
-					<a class="font_title" href="http://cart.lifevantage.com/product">Shop</a>
-				</li>				<li>
-					<a class="font_title join" href="https://www.iact1.com/lifevantage/Application/Apply.cfm?EnrollerID=2&amp;Theme=DefaultTheme&amp;ReturnURL=www.lifevantage.com/2&amp;LNG=en_lvg&amp;COUNTRY=USA&amp;iact=1">Join Us</a>
-				</li>
-				<li class="parent relative country">
-					<a class="font_title">Country</a>
-					<div class="menu radius_2_b">
-						<ul class="subnav">
-							<li class="aus"><a href="http://au.lifevantage.com/privacy-policy/">Australia</a></li>
-							<li class="can"><a href="http://ca-en.lifevantage.com/privacy-policy/">Canada (English)</a></li>
-														<li class="hon"><a href="http://hk-ch.lifevantage.com/privacy-policy/">香港</a></li>
-							<li class="hon"><a href="http://hk-en.lifevantage.com/privacy-policy/">Hong Kong (English)</a></li>
-							<li class="jap"><a href="http://jp.lifevantage.com/privacy-policy/">日本</a></li>
-							<li class="mex"><a href="http://mx.lifevantage.com/privacy-policy/">México</a></li>
-							<li class="usa"><a href="http://www.lifevantage.com/privacy-policy/">United States</a></li>
-							<li class="usa"><a href="http://us-es.lifevantage.com/privacy-policy/">Estados Unidos (Español)</a></li>
-						</ul>
-					</div>
-				</li>
-				<li class="last parent relative">
-					<a class="login font_title" href="http://info.lifevantage.com/index.cfm">Distributor Portal</a>
-					<div class="menu radius_2_b">
-						<ul class="subnav">
-							<li><a href="http://info.lifevantage.com/index.cfm">Virtual Office</a></li>
-							<li><a href="/activation-rewards/">Activation Rewards Program</a></li>							<li><a href="/upcoming-events/">Upcoming Events</a></li>							<li><a href="https://registration.lifevantage.com/Registration/Events?lang=en-US">Event Registration</a></li>														<li><a href="http://www.lvnmedia.com/faqs">FAQs</a></li>							<li><a href="/news-center/">News Center</a></li>							<li><a href="http://www.lvnmedia.com/join-lifevantage/meet-our-top-achievers/master-pro-10/">Recognition</a></li>							<li><a href="http://bigbluecalendar.mhsoftware.com">Big Blue Calendar</a></li>							<li><a href="http://www.lvnmedia.com">LVN Media</a></li>							<li><a href="http://www.lifevantageuniversity.com">LifeVantage University</a></li>							<li><a href="/live-webinars/">Live Webinar</a></li>						</ul>
-					</div>
-				</li>
-			</ul>
-		</nav>
+			<nav class="primary f_r">
+				<ul class="nav_wrap clearfix text_uppercase">
+					<li class="first">
+						<a class="font_title" href="/opportunity/">Opportunity</a>
+					</li>					<li class="parent products">
+						<a class="relative font_title" href="/products/">Products</a>
+						<div class="menu radius_2_b">
+							<ul class="clearfix">
+								<li class="col_1_3 f_l protan clearfix">
+									<a href="/products/protandim/">
+										<span class="large">Protandim<sup>®</sup></span>
+										<p>Reduce oxidative stress and deliver a biochemical wake-up call to your genes.</p>
+									</a>
+								</li>								<li class="col_1_3 f_l truesc clearfix">
+									<a href="/products/truescience/">
+										<span class="large">TrueScience</span>
+										<p>Get outside protection by pampering your skin with TrueScience.</p>
+									</a>
+								</li>								<li class="col_1_3 f_l canine clearfix">
+									<a href="/products/canine-health/">
+										<span class="large">Canine Health</span>
+										<p>Specifically formulated to reduce oxidative stress in the dogs you love.</p>
+									</a>
+								</li>							</ul>
+						</div>
+					</li>
+					<li>
+						<a class="font_title" href="/science/">Science</a>
+					</li>					<li class="parent relative company">
+						<a class="font_title" href="/company/">Company</a>
+						<div class="menu radius_2_b">
+							<ul class="subnav clearfix">
+								<li><a href="/company/">Our Story</a></li>
+								<li><a href="/upcoming-events/">Upcoming Events</a></li>								<li><a href="/company/management-team/">Management Team</a></li>								<li><a href="/company/lifevantage-lifestories/">LifeVantage LifeStories</a></li>								<li><a href="//investor.lifevantage.com">Investor Relations</a></li>								<li><a href="/company/lifevantage-legacy/">LifeVantage Legacy</a></li>								<li><a href="/company/careers/">Careers</a></li>																	<li><a href="http://events.lifevantage.com">Event Feed</a></li>																<li><a href="/company/contact-us/">Contact Us</a></li>							</ul>
+						</div>
+					</li>					<li>
+						<a class="font_title" href="http://cart.lifevantage.com/product">Shop</a>
+					</li>					<li>
+						<a class="font_title join" href="https://www.iact1.com/lifevantage/Application/Apply.cfm?EnrollerID=2&amp;Theme=DefaultTheme&amp;ReturnURL=www.lifevantage.com/2&amp;LNG=en_lvg&amp;COUNTRY=USA&amp;iact=1">Join Us</a>
+					</li>
+					<li class="parent relative country">
+						<a class="font_title">Country</a>
+						<div class="menu radius_2_b">
+							<ul class="subnav">
+								<li class="aus"><a href="http://au.lifevantage.com">Australia</a></li>
+								<li class="can"><a href="http://ca-en.lifevantage.com">Canada (English)</a></li>
+																<li class="hon"><a href="http://hk-ch.lifevantage.com">香港</a></li>
+								<li class="hon"><a href="http://hk-en.lifevantage.com">Hong Kong (English)</a></li>
+								<li class="jap"><a href="http://jp.lifevantage.com">日本</a></li>
+								<li class="mex"><a href="http://mx.lifevantage.com">México</a></li>
+								<li class="usa"><a href="http://www.lifevantage.com">United States</a></li>
+								<li class="usa"><a href="http://us-es.lifevantage.com">Estados Unidos (Español)</a></li>
+							</ul>
+						</div>
+					</li>
+					<li class="last parent relative">
+						<a class="login font_title" href="http://info.lifevantage.com/index.cfm">Distributor Portal</a>
+						<div class="menu radius_2_b">
+							<ul class="subnav">
+								<li><a href="http://info.lifevantage.com/index.cfm">Virtual Office</a></li>
+								<li><a href="/activation-rewards/">Activation Rewards Program</a></li>								<li><a href="/upcoming-events/">Upcoming Events</a></li>								<li><a href="https://registration.lifevantage.com/Registration/Events?lang=en-US">Event Registration</a></li>																<li><a href="http://www.lvnmedia.com/faqs">FAQs</a></li>								<li><a href="/news-center/">News Center</a></li>																	<li><a href="http://www.lvnmedia.com/join-lifevantage/meet-our-top-achievers/master-pro-10/">Recognition</a></li>																<li><a href="http://bigbluecalendar.mhsoftware.com">Big Blue Calendar</a></li>								<li><a href="http://www.lvnmedia.com">LVN Media</a></li>								<li><a href="http://www.lifevantageuniversity.com">LifeVantage University</a></li>								<li><a href="/live-webinars/">Live Webinar</a></li>							</ul>
+						</div>
+					</li>
+				</ul>
+			</nav>
 
-		<a id="rsl" class="radius_1" href="/rsl-jersey-sponsor/"><span>Real Salt Lake<br>Latest News</span></a>	</div>
-</header>
+		</div>
+	</header>
 		
-			<div class="content" data-role="content">
+			<div class="content">
 		
 		
 <section class="clearfix" id="invest">
@@ -231,12 +221,12 @@ If LifeVantage decides to change the Privacy Policy, it will post those changes 
 If you have any concerns about the use of your information or about this Privacy Policy, please send us an e-mail or call us at the below number: </p>
 <p><strong>Distributor Support:</strong><br>
 1-866-460-7241<br>
-Fax: (801) 206-3800</p>
+Fax: (855) 836-4925</p>
 <p><strong>Email:</strong><br>
 <a href="mailto:distributorsupport@lifevantage.com">distributorsupport@lifevantage.com</a></p>
 <p><strong>Corporate Offices:</strong><br>
 LifeVantage Corporation<br>
-9815 S. Monroe Street, Suite 100<br>
+9785 S. Monroe Street, Suite 300<br>
 Sandy, UT 84070<br>
 801-432-9000</p>
 <p></p>
@@ -250,44 +240,31 @@ Sandy, UT 84070<br>
 	<div class="site_width">
 		<ul class="group_1 m_all_0 p_all_0 clearfix">
 			<li class="col_1_4 left f_l relative quotes">
-				<a href="/upcoming-events/elite-academy-dallas/" class="square relative text_c radius_1">
-	<div class="image_top relative radius_1">
-		<img class="radius_1" src="http://www.lifevantage.com/wp-content/uploads/2013/12/elite-academy-dallas-2014.jpg" width="220" height="220">
-	</div>
-	<div class="info_bottom">
-		<h3 class="font_title text_white text_uppercase">Elite Academy</h3>
-		<p>Dallas 2014</p>
-	</div>
-</a>			</li>
+				<blockquote class="font_title text_white_80">
+	"Take a look at LifeVantage. This works. It's real, and there's a system."
+	<strong class="m_t_1 text_white">- Carrie Dickie</strong>
+</blockquote>
+<div class="q_btn col_1_4 left clearfix">
+	<a class="btn blue_1" href="http://www.youtube.com/embed/FIV5cMV7tmM?autoplay=1&amp;wmode=transparent&amp;rel=0" rel="shadowbox;height=540;width=960">See Carrie's story</a>
+</div>			</li>
 			<li class="col_1_4 middle_l f_l misc">
 				<a href="http://www.mylifeventure.com" class="lifeventure square relative text_c radius_1">
 	<div class="info_top">
 		<img src="/wp-content/themes/lifevantage/img/my-lifeventure-logo-188.png" width="188" height="32">
 	</div>
 	<div class="image_bottom relative radius_1">
-		<img class="radius_1" src="http://www.lifevantage.com/wp-content/uploads/2013/09/my-lifeventure-jeep-01.jpg" width="188" height="160">
+		<img class="radius_1" src="//www.lifevantage.com/wp-content/uploads/2013/09/my-lifeventure-jeep-02.jpg" width="188" height="160">
 	</div>
 </a>			</li>
 			<li class="col_1_4 middle_r f_l webinar">
-				<a href="/live-webinars/" class="square relative text_c radius_1">
-	<div class="image_top relative radius_1">
-		<img class="radius_1" src="http://www.lifevantage.com/wp-content/uploads/2013/09/bill-delaney-sm.jpg" width="220" height="220">
-	</div>
-	<div class="info_bottom">
-		<h3 class="font_title text_white text_uppercase">Live Webinar</h3>
-		<p class="">Bill Delaney</p>
-	</div>
-</a>			</li>
+				<!-- Error, Ad is not available at this time due to schedule/geolocation restrictions! -->			</li>
 			<li class="col_1_4 right f_l products">
-				<div id="g-1" class="g g-1"><div id="a-3" class="a-1"><a class="square canine text_white radius_2" href="http://cart.lifevantage.com/product">
-	<img class="f_l m_r_2 m_t_7 retina" src="/wp-content/themes/lifevantage/img/products/canine-health.png">
-	<h3 class="font_title">Buy <br>Canine Health</h3>
-</a></div><div id="a-2" class="a-1"><a class="square truescience text_white radius_2" href="http://cart.lifevantage.com/product">
-	<img class="f_l m_r_2 m_t_4 retina" src="/wp-content/themes/lifevantage/img/products/truescience.png">
-	<h3 class="font_title">Buy <br>TrueScience</h3>
-</a></div><div id="a-1" class="a-1"><a class="square protandim text_white radius_2" href="http://cart.lifevantage.com/product">
+				<div id="g-1" class="g g-1"><div id="a-1" class="a-1"><a class="square protandim text_white radius_2" href="http://cart.lifevantage.com/product">
 	<img class="f_l m_r_2 m_t_7 retina" src="/wp-content/themes/lifevantage/img/products/protandim.png">
 	<h3 class="font_title">Buy <br>Protandim</h3>
+</a></div><div id="a-3" class="a-1"><a class="square canine text_white radius_2" href="http://cart.lifevantage.com/product">
+	<img class="f_l m_r_2 m_t_7 retina" src="/wp-content/themes/lifevantage/img/products/canine-health.png">
+	<h3 class="font_title">Buy <br>Canine Health</h3>
 </a></div></div><div class="clear"></div>			</li>
 		</ul>
 	</div>
@@ -310,12 +287,12 @@ Sandy, UT 84070<br>
 			<li class="col_1_4 middle_r f_l">
 				<ul class="sub">
 					<li><h4><a href="/company/">Company</a></h4></li><!-- company -->
-					<li><a href="/company/management-team/">Management Team</a></li>					<li><a href="/news-center/">News Center</a></li>										<li><a href="/company/lifevantage-legacy/">LifeVantage Legacy</a></li>					<li><a href="/company/careers/">Careers</a></li>					<li><a href="http://events.lifevantage.com">Events</a></li>									</ul>
+					<li><a href="/company/management-team/">Management Team</a></li>					<li><a href="/news-center/">News Center</a></li>										<li><a href="/company/lifevantage-legacy/">LifeVantage Legacy</a></li>					<li><a href="/company/careers/">Careers</a></li>											<li><a href="http://events.lifevantage.com">Event Feed</a></li>														</ul>
 			</li>
 			<li class="col_1_4 right f_l">
 				<ul class="sub">
 					<li><h4>Resources</h4></li><!-- resources -->
-					<li><a href="http://www.lifevantage.com/wp-content/uploads/2013/06/US-Distributor-Application_2013.12.pdf">Distributor Enrollment Form</a></li>					<li><a href="http://www.lifevantage.com/wp-content/uploads/2013/06/US-Preferred-Customer-Application-2013.11.pdf">Preferred Customer Enrollment Form</a></li>					<li><a href="http://www.lifevantage.com/wp-content/uploads/2013/06/US-Comp-Plan-Highlight-Flyer-V.05.pdf">Compensation Plan</a></li>					<li><a href="http://www.lifevantage.com/wp-content/uploads/2013/06/USA-policies-and-procedures-2013.11.pdf">  Policies &amp; Procedures</a></li>					<!-- repeater field is here if needed -->
+					<li><a href="http://www.lifevantage.com/wp-content/uploads/2013/06/US_Distributor_Application_4_30_14.pdf">Distributor Enrollment Form</a></li>					<li><a href="http://www.lifevantage.com/wp-content/uploads/2013/06/US_Preferred-_Customer_-Application_-4_30_14.pdf">Preferred Customer Enrollment Form</a></li>					<li><a href="http://www.lifevantage.com/wp-content/uploads/2013/06/US-Comp-Plan-Highlight-Flyer-V.05.pdf">Compensation Plan</a></li>					<li><a href="http://www.lifevantage.com/wp-content/uploads/2013/06/USA-policies-and-procedures-2013.11.pdf">  Policies &amp; Procedures</a></li>					<!-- repeater field is here if needed -->
 										<li><a href="http://www.lifevantage.com/wp-content/uploads/2013/06/LifeVantage-Earnings-Claim-Statement-V.04.pdf">Earnings Claim Statement</a></li>
 															<li><a href="/suppliers/">Supplier Information</a></li>				</ul>
 			</li>
@@ -323,40 +300,54 @@ Sandy, UT 84070<br>
 	</div>
 </section>
 
-			</div><!-- end content -->
+				</div><!-- end content -->
 		
-			<footer data-role="footer">
-				<div class="foot site_width clearfix">
-					<small class="copyright f_r tooltip" data-tooltip="The Direct Selling Association (DSA) is the national trade association of the leading firms that manufacture and distribute goods and services sold directly to consumers.<br><br>The Association's mission is <em>'To protect, serve and promote the effectiveness of member companies and the independent business people they represent. To ensure that the marketing by member companies of products and/or the direct sales opportunity is conducted with the highest level of business ethics and service to consumers.'</em>">© 2013 LifeVantage Corporation. All rights reserved.<span class="res_hide"><br>LifeVantage is a proud member of the Direct Selling Association.</span></small>
-					<ul class="clearfix f_l text_uppercase font_title footer_nav">
-						<li class="first"><a href="//investor.lifevantage.com">Investor Info</a></li>												<li><a href="/privacy-policy/">Privacy Policy</a></li>						<li><a href="/terms-of-use/">Terms of Use</a></li>						<li class="last"><a href="/company/contact-us/">Contact Us</a></li>
-					</ul>
-					<ul class="social f_l m_l_4">
-						<li class="fb"><a href="https://www.facebook.com/LifeVantage" target="_blank">Facebook</a></li>
-						<li class="tw"><a href="https://twitter.com/lifevantage" target="_blank">Twitter</a></li>
-						<li class="yt"><a href="http://www.youtube.com/lvnmedia" target="_blank">YouTube</a></li>
-					</ul>
-				</div>
-			</footer>
-			
-			<!-- Google Analytics -->
-			<script type="text/javascript">
+				<footer>
+					<div class="foot site_width clearfix">
+						<small class="copyright f_r tooltip" data-tooltip="The Direct Selling Association (DSA) is the national trade association of the leading firms that manufacture and distribute goods and services sold directly to consumers.<br><br>The Association's mission is <em>'To protect, serve and promote the effectiveness of member companies and the independent business people they represent. To ensure that the marketing by member companies of products and/or the direct sales opportunity is conducted with the highest level of business ethics and service to consumers.'</em>
+<div class='text_c m_t_2'><a href='http://www.dsa.org' target='_blank'>www.dsa.org</a></div>
+<div class='text_c m_t_2'><a href='http://www.directselling411.com' target='_blank'>www.directselling411.com</a></div>
+<div class='text_c m_t_2'><a href='http://www.dsef.org/what-we-do/ethics-initiative/?fa=dsef-cbbb-partnership' target='_blank'>www.dsef.org</a></div>">© 2014 LifeVantage Corporation. All rights reserved.<span class="res_hide"><br>LifeVantage is a proud member of the Direct Selling Association.</span></small>
+						<ul class="clearfix f_l text_uppercase font_title footer_nav">
+							<li class="first"><a href="//investor.lifevantage.com">Investor Info</a></li>														<li><a href="/privacy-policy/">Privacy Policy</a></li>							<li><a href="/terms-of-use/">Terms of Use</a></li>							<li class="last"><a href="/company/contact-us/">Contact Us</a></li>
+						</ul>
+						<ul class="social f_l m_l_4">
+							<li class="fb"><a href="https://www.facebook.com/LifeVantage" target="_blank">Facebook</a></li>
+							<li class="tw"><a href="https://twitter.com/lifevantage" target="_blank">Twitter</a></li>
+							<li class="yt"><a href="http://www.youtube.com/lvnmedia" target="_blank">YouTube</a></li>
+						</ul>
+					</div>
+				</footer>
 
-				var _gaq = _gaq || [];
-				_gaq.push(['_setAccount', 'UA-8177000-1']);
-				_gaq.push(['_setDomainName', 'lifevantage.com']);
-				_gaq.push(['_trackPageview']);
+				<div id="panel_shim"></div>
+			</div><!-- /.panel -->
+		</div><!-- /.container -->
+	
+		<!-- Google Analytics -->
+		<script type="text/javascript">
 			
-				(function() {
+			// variable used to set high dpi screen tracking
+			var pixelRatio = (window.devicePixelRatio >= 1.5) ? "high dpi" : "normal";
+			
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-8177000-1']);
+			_gaq.push(['_setDomainName', 'lifevantage.com']);
+			
+			// set custom variables
+			_gaq.push(['_setCustomVar', 1, 'Pixel Ratio', pixelRatio, 2 ]);
+			
+			// track page view
+			_gaq.push(['_trackPageview']);
+			
+			(function() {
 			    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
 			    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
 			    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-				})();
+			})();
 			
-			</script>
-			<!-- End Google Analytics -->
+		</script>
+		<!-- End Google Analytics -->
+		<script type="text/javascript" src="http://www.lifevantage.com/wp-includes/js/comment-reply.min.js?ver=3.9.1"></script>
+	<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-4.newrelic.com","licenseKey":"17226b5896","applicationID":"2227725,2227726","transactionName":"NQNRMkpYDUVUWhYNVwxJcgVMUAxYGkkDA11PFkEPTlgATxhJDQhRAR8=","queueTime":0,"applicationTime":613,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"jserror.newrelic.com","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
 
-		</div>
-			<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-2.newrelic.com","17226b5896","2227725,2227726","NQNRMkpYDUVUWhYNVwxJcgVMUAxYGkkDA11PFkEPTlgATxhJDQhRAR8=",0,470,new Date().getTime(),"","","","",""]);</script>
-
-<script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
