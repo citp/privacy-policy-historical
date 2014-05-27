@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the i3investor.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124121820id_/http%3A//www.i3investor.com/jsp/general/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i3investor.com privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527140524id_/http%3A//www.i3investor.com/jsp/general/privacy.jsp) for the most accurate reproduction.*
 
-# Privacy Policy | i3investor.com
+# Privacy Policy | I3investor
 
 Welcome to I3investor. Our Privacy Policy explains how we collect, use, disclose, and protect information that applies to our Service, and your choices about the collection and use of your information.
 
