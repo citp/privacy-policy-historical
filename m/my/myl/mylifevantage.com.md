@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mylifevantage.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224080650id_/http%3A//www.lifevantage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mylifevantage.com privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527025237id_/http%3A//www.lifevantage.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | LifeVantage
 
@@ -54,13 +54,13 @@ If you have any concerns about the use of your information or about this Privacy
 
 **Distributor Support:**  
 1-866-460-7241  
-Fax: (801) 206-3800
+Fax: (855) 836-4925
 
 **Email:**  
 [distributorsupport@lifevantage.com](mailto:distributorsupport@lifevantage.com)
 
 **Corporate Offices:**  
 LifeVantage Corporation  
-9815 S. Monroe Street, Suite 100  
+9785 S. Monroe Street, Suite 300  
 Sandy, UT 84070  
 801-432-9000
