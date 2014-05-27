@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the oregonpatchworks.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817055724id_/http%3A//www.oregonpatchworks.com/OPW/PRIVY.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oregonpatchworks.com privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527184536id_/http%3A//www.oregonpatchworks.com/OPW/PRIVY.php) for the most accurate reproduction.*
 
-# OregonPatchWorks.com Premium Emroidery Mall
+# OregonPatchWorks | Privacy Statement
 
 **_Information Collection, Use, and Sharing_**
 
@@ -10,7 +10,7 @@ Unless you ask us not to, we may contact you via email in the future to tell you
 
 **_Your Access to and Control Over Information_**
 
-**You may opt out of any future contacts from us or express any concern you have about our use of your data at any time by contacting us via the email address or phone number given on our website [HERE](https://web.archive.org/web/20130817055724id_/http%3A//www.oregonpatchworks.com/OPW/CONTACT.shtml)**
+**You may opt out of any future contacts from us or express any concern you have about our use of your data at any time by contacting us via the email address or phone number given on our website [HERE](https://web.archive.org/web/20140527184536id_/http%3A//www.oregonpatchworks.com/OPW/CONTACT.shtml)**
 
 **_Security Procedures_**
 
