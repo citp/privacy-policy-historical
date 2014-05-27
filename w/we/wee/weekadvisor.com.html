@@ -1,0 +1,414 @@
+<!--The following is the downloaded HTML source of the weekadvisor.com privacy policy that was archived on 2014-05-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140528004601id_/http%3A//www.weekadvisor.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><head>
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/headjs/0.99/head.min.js"></script>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XAQBV1dACwQAVVhaAQ=="};window.NREUM||(NREUM={}),__nr_require=function a(b,c,d){function e(f){if(!c[f]){var g=c[f]={exports:{}};b[f][0].call(g.exports,function(a){var c=b[f][1][a];return e(c?c:a)},g,g.exports,a,b,c,d)}return c[f].exports}for(var f=0;f<d.length;f++)e(d[f]);return e}({1:[function(a,b){function c(a,b,c){c||(c={});for(var d=f[a],e=d&&d.length||0,h=c[g]||(c[g]={}),i=0;e>i;i++)d[i].apply(h,b);return h}function d(a,b){var c=f[a]||(f[a]=[]);c.push(b)}function e(a){return delete a[g]}var f={},g="nr@context";b.exports={on:d,emit:c,clear:e}},{}],2:[function(a){function b(a,b,e,g,i){return h?h-=1:c("err",[i||new UncaughtException(a,b,e)]),"function"==typeof f?f.apply(this,d(arguments)):!1}function UncaughtException(a,b,c){this.message=a||"Uncaught error with no additional information",this.sourceURL=b,this.line=c}var c=a("handle"),d=a("lodash._slice"),e=a("../../../contextual-ee"),f=window.onerror,g=!1,h=0;a("loader").features.push("err"),window.onerror=b;try{throw new Error}catch(i){"stack"in i&&(a("../../wrap-timer"),a("../../wrap-raf"),"addEventListener"in window&&a("../../wrap-events"),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&a("../../wrap-xhr"),g=!0)}e.on("fn-start",function(){g&&(h+=1)}),e.on("fn-err",function(a,b,d){g&&(this.thrown=!0,c("err",[d,(new Date).getTime()]))}),e.on("fn-end",function(){g&&!this.thrown&&h>0&&(h-=1)})},{"../../../contextual-ee":1,"../../wrap-events":3,"../../wrap-raf":4,"../../wrap-timer":5,"../../wrap-xhr":6,handle:"4O2Y62",loader:"YLUGVp","lodash._slice":14}],3:[function(a){function b(a){d.inPlace(a,["addEventListener","removeEventListener"],"-",c)}function c(a){return a[1]}var d=a("../wrap-function"),e=(a("lodash._slice"),a("../contextual-ee"));if(b(window),"getPrototypeOf"in Object){for(var f=document;f&&!f.hasOwnProperty("addEventListener");)f=Object.getPrototypeOf(f);f&&b(f);for(var g=XMLHttpRequest.prototype;g&&!g.hasOwnProperty("addEventListener");)g=Object.getPrototypeOf(g);g&&b(g)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&b(XMLHttpRequest.prototype);e.on("addEventListener-start",function(a){if(a[1]){var b=a[1];"function"==typeof b?this.wrapped=b["nr@wrapped"]?a[1]=b["nr@wrapped"]:b["nr@wrapped"]=a[1]=d(b,"fn-"):"function"==typeof b.handleEvent&&d.inPlace(b,["handleEvent"],"fn-")}}),e.on("removeEventListener-start",function(a){var b=this.wrapped;b&&(a[1]=b)})},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],4:[function(a){var b=(a("lodash._slice"),a("../wrap-function")),c=a("../contextual-ee");b.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),c.on("raf-start",function(a){a[0]=b(a[0],"fn-")})},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],5:[function(a){function b(a){var b=a[0];"string"==typeof b&&(b=new Function(b)),a[0]=c(b,"fn-")}var c=(a("lodash._slice"),a("../wrap-function")),d=a("../contextual-ee");c.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),d.on("setTimer-start",b)},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],6:[function(a){function b(){c.inPlace(this,f,"fn-")}var c=a("../wrap-function"),d=a("../contextual-ee"),e=window.XMLHttpRequest,f=["onload","onerror","onabort","onloadstart","onloadend","onprogress","onreadystatechange","ontimeout"];window.XMLHttpRequest=function(a){var f=new e(a);return d.emit("new-xhr",[],f),c.inPlace(f,["addEventListener","removeEventListener"],"-",function(a,b){return b}),f.addEventListener("readystatechange",b,!1),f},window.XMLHttpRequest.prototype=e.prototype},{"../contextual-ee":1,"../wrap-function":15}],7:[function(a){function b(a){if("string"==typeof a&&a.length)return a.length;if("object"!=typeof a)return void 0;if("undefined"!=typeof ArrayBuffer&&a instanceof ArrayBuffer&&a.byteLength)return a.byteLength;if("undefined"!=typeof Blob&&a instanceof Blob&&a.size)return a.size;if("undefined"!=typeof FormData&&a instanceof FormData)return void 0;try{return JSON.stringify(a).length}catch(b){return void 0}}function c(a){var c=this.params,d=this.metrics;if(!this.ended){this.ended=!0;for(var e=0;k>e;e++)a.removeEventListener(j[e],this.listener,!1);if(!c.aborted){if(d.duration=(new Date).getTime()-this.startTime,4===a.readyState){c.status=a.status;var g=a.responseType,h="arraybuffer"===g||"blob"===g||"json"===g?a.response:a.responseText,i=b(h);if(i&&(d.rxSize=i),this.sameOrigin){var l=a.getResponseHeader("X-NewRelic-App-Data");l&&(c.cat=l.split(", ").pop())}}else c.status=0;d.cbTime=this.cbTime,f("xhr",[c,d])}}}function d(a,b){var c=g(b),d=a.params;d.host=c.hostname+":"+c.port,d.pathname=c.pathname,a.sameOrigin=c.sameOrigin}function e(a,b){return b}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){a("loader").features.push("xhr");var f=a("handle"),g=a("./parse-url.js"),h=a("../../../wrap-function"),i=a("../../../contextual-ee"),j=["load","error","abort","timeout"],k=j.length,l=a("../../../loader/id");a("../../wrap-events"),a("../../wrap-xhr"),i.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=c,this.ended=!1,this.xhrGuids={}}),h.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",e),i.on("open-xhr-start",function(a){this.params={method:a[0]},d(this,a[1]),this.metrics={}}),i.on("open-xhr-end",function(a,b){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&b.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),i.on("send-xhr-start",function(a,c){var d=this.metrics,e=a[0],f=this;if(d&&e){var g=b(e);g&&(d.txSize=g)}this.startTime=(new Date).getTime(),this.listener=function(a){try{"abort"===a.type&&(f.params.aborted=!0),("load"!==a.type||f.called===f.totalCbs&&(f.onloadCalled||"function"!=typeof c.onload))&&f.end(c)}catch(b){}};for(var h=0;k>h;h++)c.addEventListener(j[h],this.listener,!1)}),i.on("xhr-cb-time",function(a,b,c){this.cbTime+=a,b?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof c.onload||this.end(c)}),i.on("xhr-load-added",function(a,b){var c=""+l(a)+!!b;this.xhrGuids&&!this.xhrGuids[c]&&(this.xhrGuids[c]=!0,this.totalCbs+=1)}),i.on("xhr-load-removed",function(a,b){var c=""+l(a)+!!b;this.xhrGuids&&this.xhrGuids[c]&&(delete this.xhrGuids[c],this.totalCbs-=1)}),i.on("addEventListener-end",function(a,b){b instanceof XMLHttpRequest&&"load"===a[0]&&i.emit("xhr-load-added",[a[1],a[2]],b)}),i.on("removeEventListener-end",function(a,b){b instanceof XMLHttpRequest&&"load"===a[0]&&i.emit("xhr-load-removed",[a[1],a[2]],b)}),i.on("fn-start",function(a,b,c){b instanceof XMLHttpRequest&&("onload"===c&&(this.onload=!0),("load"===(a[0]&&a[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),i.on("fn-end",function(a,b){this.xhrCbStart&&i.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,b],b)})}},{"../../../contextual-ee":1,"../../../loader/id":11,"../../../wrap-function":15,"../../wrap-events":3,"../../wrap-xhr":6,"./parse-url.js":8,handle:"4O2Y62",loader:"YLUGVp"}],8:[function(a,b){b.exports=function(a){var b=document.createElement("a"),c=window.location,d={};b.href=a,d.port=b.port;var e=b.href.split("://");return!d.port&&e[1]&&(d.port=e[1].split("/")[0].split(":")[1]),d.port&&"0"!==d.port||(d.port="https"===e[0]?"443":"80"),d.hostname=b.hostname||c.hostname,d.pathname=b.pathname,"/"!==d.pathname.charAt(0)&&(d.pathname="/"+d.pathname),d.sameOrigin=!b.hostname||b.hostname===document.domain&&b.port===c.port&&b.protocol===c.protocol,d}},{}],handle:[function(a,b){b.exports=a("4O2Y62")},{}],"4O2Y62":[function(a,b){function c(a,b){var c=d[a];return c?c.apply(this,b):(e[a]||(e[a]=[]),void e[a].push(b))}var d={},e={};b.exports=c,c.queues=e,c.handlers=d},{}],11:[function(a,b){function c(a){if(!a||"object"!=typeof a&&"function"!=typeof a)return-1;if(a===window)return 0;if(e.call(a,"__nr"))return a.__nr;try{return Object.defineProperty(a,"__nr",{value:d,writable:!0,enumerable:!1}),d}catch(b){return a.__nr=d,d}finally{d+=1}}var d=1,e=Object.prototype.hasOwnProperty;b.exports=c},{}],loader:[function(a,b){b.exports=a("YLUGVp")},{}],YLUGVp:[function(a,b){function c(){var a=m.info=NREUM.info;if(a&&a.agent&&a.licenseKey&&a.applicationID){m.proto="https"===l.split(":")[0]||a.sslForHttp?"https://":"http://",g("mark",["onload",f()]);var b=i.createElement("script");b.src=m.proto+a.agent,i.body.appendChild(b)}}function d(){"complete"===i.readyState&&e()}function e(){g("mark",["domContent",f()])}function f(){return(new Date).getTime()}var g=a("handle"),h=window,i=h.document,j="addEventListener",k="attachEvent",l=(""+location).split("?")[0],m=b.exports={offset:f(),origin:l,features:[]};i[j]?(i[j]("DOMContentLoaded",e,!1),h[j]("load",c,!1)):(i[k]("onreadystatechange",d),h[k]("onload",c)),g("mark",["firstbyte",f()])},{handle:"4O2Y62"}],14:[function(a,b){function c(a,b,c){b||(b=0),"undefined"==typeof c&&(c=a?a.length:0);for(var d=-1,e=c-b||0,f=Array(0>e?0:e);++d<e;)f[d]=a[b+d];return f}b.exports=c},{}],15:[function(a,b){function c(a,b,c,d){function nrWrapper(){var g,h=f(arguments),i=this,j=c&&c(h,i)||{};try{e.emit(b+"start",[h,i,d],j)}catch(k){}try{return g=a.apply(i,h)}catch(l){throw e.emit(b+"err",[h,i,l],j),l}finally{try{e.emit(b+"end",[h,i,g],j)}catch(k){}}}return a&&"function"==typeof a&&a.apply&&!a._wrapped?(b||(b=""),nrWrapper._wrapped=!0,nrWrapper):a}function d(a,b,d,e){d||(d="");var f,g,h,i="-"===d.charAt(0);for(h=0;h<b.length;h++)g=b[h],f=a[g],f&&"function"==typeof f&&f.apply&&!f._wrapped&&(a[g]=c(f,i?g+d:d,e,g,a))}var e=a("../contextual-ee"),f=a("lodash._slice");b.exports=c,c.inPlace=d},{"../contextual-ee":1,"lodash._slice":14}]},{},["YLUGVp",7,2]);</script>
+    
+<!-- Mobile viewport optimized -->
+<meta name="viewport" content="width=device-width,initial-scale=1">
+
+
+<!-- Title -->
+<title>Privacy Policy : weekAdvisor.com</title>
+
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="http://www.weekadvisor.com/xmlrpc.php">
+
+<!-- WP Head -->
+<meta property="og:title" content="Privacy Policy">
+<meta property="og:type" content="article">
+<meta property="og:description" content="Privacy Policy of WeekAdvisor.com This Application collects some Personal Data from its Users. Data Controller and Owner WeekAdvisor Organization Milano Via Romana 21 20100 -...">
+<meta property="og:url" content="http://www.weekadvisor.com/privacy-policy/">
+<meta property="og:image" content="http://www.weekadvisor.com/wp-content/plugins/the-open-graph-protocol/default.png">
+<meta property="og:published_time" content="Tuesday, September 24th, 2013, 1:00 pm">
+<meta property="og:modified_time" content="Tuesday, March 11th, 2014, 11:37 am">
+<meta property="og:author" content="weekAdvisor.com">
+<meta name="generator" content="WordPress 3.8.1">
+<meta name="template" content="Origin 0.5.8">
+
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.5.2.5 - http://yoast.com/wordpress/seo/ -->
+<link rel="canonical" href="http://www.weekadvisor.com/privacy-policy/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy - weekAdvisor.com">
+<meta property="og:description" content="Privacy Policy of WeekAdvisor.com This Application collects some Personal Data from its Users. Data Controller and Owner WeekAdvisor Organization Milano Via Romana 21 20100 – Italy, privacy@weekadvisor.com Types of Data collected Among the types of Personal Data that this Application...">
+<meta property="og:url" content="http://www.weekadvisor.com/privacy-policy/">
+<meta property="og:site_name" content="weekAdvisor.com">
+<meta property="article:published_time" content="2013-09-24T13:00:20+00:00">
+<meta property="article:modified_time" content="2014-03-11T11:37:33+00:00">
+<meta property="og:updated_time" content="2014-03-11T11:37:33+00:00">
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="weekAdvisor.com » Feed" href="http://www.weekadvisor.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="weekAdvisor.com » Comments Feed" href="http://www.weekadvisor.com/comments/feed/">
+<link rel="alternate" type="application/rss+xml" title="weekAdvisor.com » Privacy Policy Comments Feed" href="http://www.weekadvisor.com/privacy-policy/feed/">
+<link rel="stylesheet" id="style-css" href="http://www.weekadvisor.com/wp-content/themes/origin/style.min.css?ver=0.5.8" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="http://www.weekadvisor.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.7.2" type="text/css" media="all">
+<link rel="stylesheet" id="nextend_fb_connect_stylesheet-css" href="http://www.weekadvisor.com/wp-content/plugins/nextend-facebook-connect/buttons/facebook-btn.css?ver=3.8.1" type="text/css" media="all">
+<link rel="stylesheet" id="origin_fancybox-stylesheet-css" href="http://www.weekadvisor.com/wp-content/themes/origin/js/fancybox/jquery.fancybox-1.3.4.css?ver=1" type="text/css" media="screen">
+<link rel="stylesheet" id="font-droid-sans-css" href="http://fonts.googleapis.com/css?family=Droid+Sans&amp;ver=1" type="text/css" media="screen">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.weekadvisor.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.weekadvisor.com/wp-includes/wlwmanifest.xml"> 
+<link rel="shortlink" href="http://www.weekadvisor.com/?p=113">
+
+	<style type="text/css">
+
+		/* Font size. */
+					html { font-size: 16px; }
+		
+		/* Font family. */
+					body { font-family: 'Droid Sans', serif; }
+		
+		/* Link color. */
+					a, a:visited, #footer a:hover, .entry-title a:hover { color: #2782f9; }
+			#respond #submit, .button, a.button, .wpcf7-submit, #loginform .button-primary { background-color: #2782f9; }
+				a:hover, a:focus { color: #000; }
+
+		/* Custom CSS. */
+		@import url(http://fonts.googleapis.com/css?family=Roboto+Slab|Roboto); body { 	margin: 0; 	font: 0.8125em/1.692307em  \'Roboto\', sans-serif !important;	/* 13 / 16 = 0.8125;  22 / 13 = 1.692307 */ 	color: #555; 	background: #fff; 	padding: 0; 	font-family: \'Roboto\', sans-serif !important; }h1, h2, h3, h4, h5, h6 { 	font-style: normal; 	font-weight: normal; 	margin: 0 0 15px 0; 	color: #333; 	line-height: 1.3em; 	font-family: \'Roboto Slab\', serif !important; }
+	
+	</style>	
+
+
+
+<script type="text/javascript">
+head.js(
+    "/wp-includes/js/jquery/jquery.js",
+    "/wp-includes/js/jquery/jquery-migrate.min.js",
+    "",
+    "http://www.weekadvisor.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js",
+    "http://www.weekadvisor.com/wp-content/plugins/contact-form-7/includes/js/scripts.js",
+    "http://www.weekadvisor.com/wp-content/themes/origin/js/fancybox/jquery.fancybox-1.3.4.pack.js",
+    "http://www.weekadvisor.com/wp-content/themes/origin/js/fitvids/jquery.fitvids.js",
+    "http://www.weekadvisor.com/wp-content/themes/origin/js/footer-scripts.js",
+    "http://www.weekadvisor.com/wp-content/themes/origin/js/navigation.js",
+    "/wp-includes/js/comment-reply.min.js",
+    "http://www.weekadvisor.com/wp-content/themes/origin/library/js/drop-downs.min.js",
+    " type="text/javascript" "
+);
+</script>
+</head>
+
+<body class="wordpress ltr en_US parent-theme y2014 m05 d27 h23 tuesday logged-out singular singular-page singular-page-113">
+
+	
+	<div id="container">
+		<div id="header"> 
+			<div class="grid-head">
+		
+							
+					<div id="branding">
+						<a href="/index.php">
+							<img src="http://www.weekadvisor.com/wp-content/uploads/weekadvisor.png" title="weekadvisor" alt="Weekadvisor">
+						</a>
+					</div><!-- #branding -->
+
+					<div class="leader-ban">			<div class="textwidget"><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
+head.ready(function (){
+
+head.ready(function (){
+
+head.ready(function (){
+
+}); // end head.ready
+
+}); // end head.ready
+
+}); // end head.ready
+</script>
+<!-- week-leader -->
+<ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-6439031918601130" data-ad-slot="5186084403"></ins>
+<script>
+head.ready(function (){
+
+head.ready(function (){
+
+head.ready(function (){
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+}); // end head.ready
+
+}); // end head.ready
+
+}); // end head.ready
+</script></div>
+		</div>					
+	
+	<div id="menu-primary" class="site-navigation menu-container" role="navigation">
+
+		<span class="menu-toggle">Menu</span>
+
+		
+		<div class="menu"><ul id="menu-primary-items" class="nav-menu"><li id="menu-item-685" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-685"><a href="http://www.weekadvisor.com/">Home</a></li>
+<li id="menu-item-680" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-680"><a href="http://www.weekadvisor.com/category/weeklytrips/">Weekly Trips</a>
+<ul class="sub-menu">
+	<li id="menu-item-339" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-339"><a href="http://www.weekadvisor.com/category/weeklytrips/africa/">Africa</a></li>
+	<li id="menu-item-340" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-340"><a href="http://www.weekadvisor.com/category/weeklytrips/america/">America</a></li>
+	<li id="menu-item-341" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-341"><a href="http://www.weekadvisor.com/category/weeklytrips/asia/">Asia</a></li>
+	<li id="menu-item-342" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-342"><a href="http://www.weekadvisor.com/category/weeklytrips/europe/">Europe</a></li>
+	<li id="menu-item-343" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-343"><a href="http://www.weekadvisor.com/category/weeklytrips/oceania/">Oceania</a></li>
+</ul>
+</li>
+<li id="menu-item-681" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-681"><a href="http://www.weekadvisor.com/category/gameandgreen/">Game and Green</a></li>
+<li id="menu-item-682" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-682"><a href="http://www.weekadvisor.com/category/zeroimpact/">Zero Impact Certificate</a></li>
+<li id="menu-item-335" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-335"><a href="http://www.weekadvisor.com/tell-us/">Tell us</a></li>
+</ul></div>
+		
+	</div><!-- #menu-primary .menu-container -->
+
+	
+			
+								
+			
+			</div>
+		</div><!-- #header -->
+		
+		<div class="wrap">
+
+			
+		<div class="breadcrumb-trail breadcrumbs" itemprop="breadcrumb">
+			<span class="trail-browse">Browse:</span> <span class="trail-begin"><a href="http://www.weekadvisor.com" title="weekAdvisor.com">Home</a></span>
+			 <span class="sep">»</span> <span class="trail-end">Privacy Policy</span>
+		</div>			
+			<div id="site-description"><span>Developing Ecotourism – Your weekly Green Trip</span></div>
+				
+	
+			
+			
+	
+	<div id="sidebar-primary" class="sidebar">
+
+		
+		<section id="text-13" class="widget widget_text widget-widget_text">			<div class="textwidget"><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
+head.ready(function (){
+
+head.ready(function (){
+
+head.ready(function (){
+
+}); // end head.ready
+
+}); // end head.ready
+
+}); // end head.ready
+</script>
+<!-- week-square2 -->
+<ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-6439031918601130" data-ad-slot="3569750406"></ins>
+<script>
+head.ready(function (){
+
+head.ready(function (){
+
+head.ready(function (){
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+}); // end head.ready
+
+}); // end head.ready
+
+}); // end head.ready
+</script></div>
+		</section><section id="text-3" class="widget widget_text widget-widget_text">			<div class="textwidget"><h3 class="widget-title">Plan your next trip with updates on all the latest travel news, information and holiday suggestions</h3></div>
+		</section><div><h3 class="widget-title"> Subscribe to receive our news </h3>
+
+You can subscribe to Weekadvisor.com to receive our weekly travel ideas and stay in touch with the community of travelers that choose consciously their destinations.<br><br>
+<a href="http://www.weekadvisor.com/wp-login.php?loginFacebook=1&amp;redirect=http://www.weekadvisor.com" onclick="window.location = 'http://www.weekadvisor.com/wp-login.php?loginFacebook=1&amp;redirect='+window.location.href; return false;"><div class="new-fb-btn new-fb-4 new-fb-default-anim" style="width:185px; margin:0 auto 20px"><div class="new-fb-4-1"><div class="new-fb-4-1-1">Facebook Connect</div></div></div></a><div><form method="post"><input type="hidden" name="ip" value="10.177.17.104"><span style="display:none !important"><label for="name">Leave Blank:</label><input type="text" id="name" name="name"><label for="uri">Do Not Change:</label><input type="text" id="uri" name="uri" value="http://"></span><p><label for="s2email">Your email:</label><br><input type="text" name="email" id="s2email" value="Enter email address..." size="20" onfocus="if (this.value == 'Enter email address...') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Enter email address...';}"></p><p><input type="submit" name="subscribe" value="Subscribe">&nbsp;<input type="submit" name="unsubscribe" value="Unsubscribe"></p></form>
+</div></div><section id="text-10" class="widget widget_text widget-widget_text"><h3 class="widget-title">Tell us your Green trip story</h3>			<div class="textwidget"><p>Have you ever taken a trip that you would like to share with the world?</p>
+<p>This is your chance to let us know about a special journey that has as its basic premise, the sustainability of the environment and of the known populations.</p>
+<p><a href="http://www.weekadvisor.com/tell-us/"><button>Tell Now ! </button></a></p>
+</div>
+		</section><section id="text-15" class="widget widget_text widget-widget_text">			<div class="textwidget"><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
+head.ready(function (){
+
+head.ready(function (){
+
+head.ready(function (){
+
+}); // end head.ready
+
+}); // end head.ready
+
+}); // end head.ready
+</script>
+<!-- week-square2 -->
+<ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-6439031918601130" data-ad-slot="3569750406"></ins>
+<script>
+head.ready(function (){
+
+head.ready(function (){
+
+head.ready(function (){
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+}); // end head.ready
+
+}); // end head.ready
+
+}); // end head.ready
+</script></div>
+		</section><section id="text-7" class="widget widget_text widget-widget_text"><h3 class="widget-title">Find your Flights with our Partner</h3>			<div class="textwidget"><script type="text/javascript" src="//api.skyscanner.net/api.ashx?key=90d70d97-1530-409e-a2b4-ce8a464b2f21">
+head.ready(function (){
+
+head.ready(function (){
+
+head.ready(function (){
+
+}); // end head.ready
+
+}); // end head.ready
+
+}); // end head.ready
+</script>
+<script type="text/javascript">
+head.ready(function (){
+
+head.ready(function (){
+
+head.ready(function (){
+
+   skyscanner.load("snippets","2");
+   function main(){
+       var snippet = new skyscanner.snippets.SearchPanelControl();
+       snippet.setMarket("US")
+       snippet.setCulture("en-GB");
+       snippet.setCurrency("USD");
+       snippet.setShape("box300x250");
+       snippet.setColourScheme("classicbluedark");
+       snippet.setProduct("flights","1");
+       snippet.setProduct("hotels","2");
+       snippet.setProduct("carhire","3");
+
+       snippet.draw(document.getElementById("snippet_searchpanel"));
+   }
+   skyscanner.setOnLoadCallback(main);
+
+}); // end head.ready
+
+}); // end head.ready
+
+}); // end head.ready
+</script>
+<div id="snippet_searchpanel" style="width: auto; height:auto;"></div></div>
+		</section><section id="text-11" class="widget widget_text widget-widget_text">			<div class="textwidget"><iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fweekadvisor%3Ffref%3Dts&amp;width&amp;height=290&amp;colorscheme=light&amp;show_faces=true&amp;header=true&amp;stream=false&amp;show_border=false&amp;appId=1394488897462645" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:290px;" allowtransparency="true"></iframe></div>
+		</section>
+		
+	</div><!-- #sidebar-primary .aside -->
+
+	
+	
+			
+	
+			<div id="main">
+	
+				
+	
+	<div id="content">
+
+		
+		<div class="hfeed">
+
+			
+				
+					
+					<div id="post-113" class="hentry page publish post-1 odd author-admin">
+
+						
+						<h1 class="page-title entry-title">Privacy Policy</h1>
+						<div class="entry-content">
+							
+							<p><b>Privacy Policy of WeekAdvisor.com</b> This Application collects some Personal Data from its Users. <b>Data Controller and Owner</b> WeekAdvisor Organization Milano Via Romana 21 20100 – Italy, privacy@weekadvisor.com <b>Types of Data collected</b> Among the types of Personal Data that this Application collects, by itself or through third parties, there are: Cookie, Usage Data and Email. Other Personal Data collected may be described in other sections of this privacy policy or by dedicated explanation text contextually with the Data collection. The Personal Data may be freely provided by the User, or collected automatically when using this Application. Any use of Cookies – or of other tracking tools – by this Application or by the owners of third party services used by this Application, unless stated otherwise, serves to identify Users and remember their preferences, for the sole purpose of providing the service required by the User. Failure to provide certain Personal Data may make it impossible for this Application to provide its services. The User assumes responsibility for the Personal Data of third parties published or shared through this Application and declares to have the right to communicate or broadcast them, thus relieving the Data Controller of all responsibility. <b>Mode and place of processing the Data</b> <b>Method of processing</b> The Data Controller processes the Data of Users in proper manner and shall take appropriate security measures to prevent unauthorized access, disclosure, modification or unauthorized destruction of the Data. Access to the Data may be available to Data Processors, if appointed, as well as employees involved with the processing. Access to Data may be also available to external parties providing services to the Data Controller such as third party technical service providers, mail carriers, hosting providers, IT companies, communication agencies. The updated list of these parties may be requested from the Data Controller at any time. <b>Place</b> The Data is processed at the Data Controller headquarters, unless stated otherwise in the rest of this document. <b>Conservation Time</b> The Data is kept for the time necessary to provide the service requested by the User, or stated by the purposes outlined in this document, and the User can always request the Data Controller for their suspension or removal. <b>The use of the collected Data</b> The Data concerning the User is collected to allow the Application to provide its services, as well as for the following purposes: Advertising, Access to third party services’ accounts, Remarketing and Behavioral Targeting, Registration and authentication, Analytics, Contacting the User, Interaction with external social networks and platforms and Displaying content from external platforms. The Personal Data used for each purpose is outlined in the specific sections of this document. <b>Facebook permissions asked by this Application</b> This Application may ask some Facebook permissions allowing it to perform actions with the User’s Facebook account and to retrieve information, including Personal Data, from it. For more information about the following permissions, refer to the Facebook permissions documentation and to the Facebook privacy policy. The permissions asked are the following: <b>Basic information</b> By default, this includes certain User’s Data such as id, name, picture, gender, and their locale. Certain connections of the User, such as the Friends, are also available. If the user has made more of their data public, more information will be available. <b>Access Friend Lists</b> Provides access to any friend lists the user created <b>Activities</b> Provides access to the user’s list of activities <b>Email</b> Provides access to the user’s primary email address <b>Website</b> Provides access to the user’s web site URL. <b>Detailed information on the processing of Personal Data</b> Personal Data is collected for the following purposes and using the following services:</p>
+<ul>
+<li><b>Access to third party services’ accounts</b></li>
+<li><b>Advertising</b></li>
+<li><b>Analytics</b></li>
+<li><b>Contacting the User</b></li>
+<li><b>Displaying content from external platforms</b></li>
+<li><b>Interaction with external social networks and platforms</b></li>
+<li><b>Registration and authentication</b></li>
+<li><b>Remarketing and Behavioral Targeting</b></li>
+</ul>
+<p><b>Additional information about Data collection and processing</b> <b>Legal Action</b> The User’s Personal Data may be used for legal purposes by the Data Controller, in Court or in the stages leading to possible legal action arising from improper use of this Application or the related services. <b>Additional Information about User’s Personal Data</b> In addition to the information in this privacy policy, this Application may provide the User with contextual information concerning particular services or the collection and processing of Personal Data. <b>System Logs and Maintenance</b> For operation and maintenance purposes, this Application and any third party services may collect files that record interaction with this Application (System Logs) or use for this purpose other Personal Data (such as IP Address). <b>Information not contained in this policy</b> More details concerning the collection or processing of Personal Data may be requested from the Data Controller at any time at its contact information. <b>The rights of Users</b> Users have the right, at any time, to know whether their Personal Data has been stored and can consult the Data Controller to learn about their contents and origin, to verify their accuracy or to ask for them to be supplemented, cancelled, updated or corrected, or for their transformation into anonymous format or to block any data held in violation of the law, as well as to oppose their treatment for any and all legitimate reasons. Requests should be sent to the Data Controller at the contact information set out above. <b>Changes to this privacy policy</b> The Data Controller reserves the right to make changes to this privacy policy at any time by giving notice to its Users on this page. It is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom. If a User objects to any of the changes to the Policy, the User must cease using this Application and can request the Data Controller to erase the Personal Data. Unless stated otherwise, the then-current privacy policy applies to all Personal Data the Data Controller has about Users. <b>Information about this privacy policy</b> The Data Controller is responsible for this privacy policy. <b>Definitions and legal references&nbsp;</b> Latest update: November 7, 2013</p>
+							
+														
+						</div><!-- .entry-content -->
+
+						<div class="entry-meta"></div>
+						
+					</div><!-- .hentry -->
+
+					
+										
+					
+<div id="comments-template">
+
+	<div class="comments-wrap">
+
+		<div id="comments">
+
+			
+			
+		</div><!-- #comments -->
+
+										<div id="respond" class="comment-respond">
+				<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/privacy-policy/#respond" style="display:none;">Click here to cancel reply.</a></small></h3>
+									<form action="http://www.weekadvisor.com/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+																										<p class="form-author req"><input type="text" class="text-input" name="author" id="author" value="" size="40"><label for="author">Name <span class="required">*</span> </label></p>
+<p class="form-email req"><input type="text" class="text-input" name="email" id="email" value="" size="40"><label for="email">Email <span class="required">*</span> </label></p>
+<p class="form-url"><input type="text" class="text-input" name="url" id="url" value="" size="40"><label for="url">Website</label></p>
+												<p class="form-textarea req"><!--<label for="comment">Comment</label>--><textarea name="comment" id="comment" cols="60" rows="10"></textarea></p>												<p class="form-submit">
+							<input name="submit" type="submit" id="submit" value="Post Comment →">
+							<input type="hidden" name="comment_post_ID" value="113" id="comment_post_ID">
+<input type="hidden" name="comment_parent" id="comment_parent" value="0">
+						</p>
+						<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="0a90fe2e94"></p>					</form>
+							</div><!-- #respond -->
+			
+	</div><!-- .comments-wrap -->
+
+</div><!-- #comments-template -->
+				
+			
+		</div><!-- .hfeed -->
+
+		
+	</div><!-- #content -->
+
+	
+				
+
+				
+		</div><!-- #main -->
+
+		
+				
+
+		
+		<div id="footer">
+
+			
+			<div class="footer-content">
+				
+				WeekAdvisor.com Organization is a project developed by Graphic Users Interface Srl Cap. rid. 5.000€ REA 617637 - <a href="http://www.weekadvisor.com/organization/"> Our Organization</a> - <a href="http://www.weekadvisor.com/tell-us/"> Tell Us </a> -  <a href="http://www.weekadvisor.com/advertising/"> Advertising </a> - <a href="http://www.weekadvisor.com/terms-and-conditions/"> Terms and Conditions </a> - <a href="http://www.weekadvisor.com/privacy-policy/ "> Privacy Policy</a> 
+				
+			</div>
+
+			
+		</div><!-- #footer -->
+
+				
+		</div><!-- .wrap -->
+
+	</div><!-- #container -->
+
+	
+	<!-- Powered by WPtouch: 3.1.5 -->
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-1.newrelic.com","licenseKey":"9c3e631b72","applicationID":"3701986","transactionName":"ZF1RZ0BYXBJWWxJQDl0XclBGUF0PGEgHXgQ=","queueTime":0,"applicationTime":1586,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"jserror.newrelic.com","agent":"js-agent.newrelic.com\/nr-361.min.js"}</script>
+
+<script src="https://js-agent.newrelic.com/nr-361.min.js"></script></body></html>
