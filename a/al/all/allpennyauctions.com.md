@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allpennyauctions.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122153245id_/http%3A//www.allpennyauctions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allpennyauctions.com privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528014043id_/http%3A//www.allpennyauctions.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - All Penny Auctions.com
 
