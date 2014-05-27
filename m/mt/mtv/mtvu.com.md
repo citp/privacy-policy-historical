@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the mtvu.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126134512id_/http%3A//www.mtvu.com/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtvu.com privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528013114id_/http%3A//www.mtvu.com/about/privacy_policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY AND YOUR CALIFORNIA PRIVACY RIGHTS | mtvu.com
 
-02.01.2007  by mtvU. 
-
-Last Modified: March 11, 2011
+Last Modified: December 20, 2013
 
 Go to [Terms of Use Agreement](http://www.mtvu.com/about/terms_of_use/)
 
@@ -70,7 +68,7 @@ We use Tracking Technologies to help tailor our content, allow users to move bet
 
 This Site may additionally use a variety of third party advertising networks, data exchanges, traffic measurement service providers, marketing analytics service providers and other third parties (collectively, “ _Third Party Advertising Service Providers_ ”) to, for example, serve advertisements on the Site, facilitate targeting of advertisements and/or measure and analyze advertising effectiveness and/or traffic on the Site (“ _Targeting Services_ ”). These Third Party Advertising Service Providers may enable us to display advertisements based on your visits to the Site and other websites you have visited. Targeting Services enable us to, among other things, help deliver advertisements or other content to you for products and services that you might be interested in, to prevent you from seeing the same advertisements too many times and to conduct research regarding the usefulness of certain advertisements to you. 
 
-Although these Third Party Advertising Service Providers do not have access to Tracking Technologies set by the Site, the Third Party Advertising Service Providers, as well as Advertisers, may themselves set and access their own Tracking Technologies on your Device if you choose to have Tracking Technologies enabled in your browser (or, for Flash cookies, if you have not removed them) and/or they may otherwise have access to Other Information about you.
+The Third Party Advertising Service Providers, as well as Advertisers and other third parties, may themselves set and access their own Tracking Technologies on your Device if you choose to have Tracking Technologies enabled in your browser (or, for Flash cookies, if you have not removed them) and/or they may otherwise collect or have access to Information about you and your online activities over time and across different websites when you use the Site.
 
 **c. Use of Information.**
 
@@ -100,9 +98,9 @@ As set forth in this Privacy Policy, we may share Information with our Parent Co
 
 ·         For other purposes disclosed at the time you provide the Personal Information.
 
-**ii. **Other Information Collected by Us**. We, and/or our Parent Companies and Affiliates, use the Other Information we collect from you in a variety of ways, including: **
+**ii.Other Information Collected by Us. We, and/or our Parent Companies and Affiliates, use the Other Information we collect from you in a variety of ways, including: **
 
-**
+****
 
 ·         Keeping count of your return visits to the Site or our Parent Companies’, Affiliates’, Advertisers’ or partners’ sites; 
 
@@ -146,7 +144,7 @@ In the event that we, or our Affiliates, unknowingly sends an email or text mess
 
 **i. Tracking Technologies Set By Third Party Advertising Service Providers and Advertisers.** With respect to the Tracking Technologies set by Third Party Advertising Service Providers and Advertisers, you have a number of options:
 
-·         With respect to the serving of ads by DoubleClick to you, please visit [**www.google.com/privacy_ads.html**](https://web.archive.org/web/20131126134512id_/http://www.mtvu.com/about/privacy_policy/www.google.com/privacy_ads.html)for your options (other than for Flash cookies) and for further information on renewing your opt-outs or opting-out again if you subsequently delete the Tracking Technologies. 
+·         With respect to the serving of ads by DoubleClick to you, please visit [**www.google.com/privacy_ads.html**](https://web.archive.org/web/20140528013114id_/http://www.mtvu.com/about/privacy_policy/www.google.com/privacy_ads.html)for your options (other than for Flash cookies) and for further information on renewing your opt-outs or opting-out again if you subsequently delete the Tracking Technologies. 
 
 See below for more information on removing Flash cookies.
 
@@ -171,6 +169,10 @@ This Site adheres to the Self-Regulatory Principles for Online Behavioral Advert
 Some Device manufacturers may preset their browsers to block Tracking Technologies from websites other than those you visit directly and, if so, certain services or advertisements may not work for such Devices. Further, if you delete, reject, disable or turn off Tracking Technologies, you may not have access to certain features of the Site and some of our other services may not function properly.
 
 ** ** **iii. Flash Cookies.** Please note that deleting, rejecting, disabling or turning off Tracking Technologies set by Third Party Advertising Service Providers and Advertisers and set by this Site through the above options will not remove Flash cookies.  For more information about Flash cookies and how to remove them from your computer, please visit <http://www.adobe.com/products/flashplayer/articles/lso/> or **_<http://epic.org/privacy/cookies/flash.html>_ **
+
+  **iv. Do-Not-Track Signals and Similar Mechanisms.** Some web browsers may transmit “do-not-track” signals to the websites with which the browser communicates. Because of differences in how web browsers incorporate and activate this feature, it is not always clear whether users intend for these signals to be transmitted, or whether they even are aware of them. There currently is disagreement, including among participants in the leading Internet standards-setting organization, concerning what, if anything, websites should do when they receive such signals. 
+
+We currently do not take action in response to these signals, but, if and when a final standard is established and accepted, we may reassess how to respond to these signals. Instead, as described above, please see the link to the Self-Regulatory Principles for Online Behavioral Advertising program that we follow that offers you choice regarding Information collected for online behavioral advertising purposes and the browser cookie controls and other mechanisms described in Sections 4(b)(i), (ii) and (iii). 
 
 **5\. Wireless Marketing Services and Associated Promotional Opportunities.**
 
@@ -274,6 +276,4 @@ Further, if you use any of the Communities features and functions made available
 
 This Privacy Policy was last modified on the date indicated above and is effective immediately.
 
-Copyright © 2011 MTV Networks On Campus Inc., a subsidiary of Viacom International Inc. – All Rights Reserved.
-
-**** **
+Copyright © 2013 MTV Networks On Campus Inc., a subsidiary of Viacom International Inc. – All Rights Reserved.
