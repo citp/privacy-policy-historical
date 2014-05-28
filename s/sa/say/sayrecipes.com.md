@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sayrecipes.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224215345id_/http%3A//www.sayrecipes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sayrecipes.com privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528143327id_/http%3A//www.sayrecipes.com/privacy-policy) for the most accurate reproduction.*
 
 # www.Sayrecipes.com - Food Recipe Ideas, Dinner Recipes, Lunch Recipes, and Meal Ideas.
 
