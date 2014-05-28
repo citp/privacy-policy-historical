@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the furnituretoday.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220061050id_/http%3A//www.furnituretoday.com/info/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the furnituretoday.com privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528131028id_/http%3A//www.furnituretoday.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Furniture Today
 
@@ -106,7 +106,7 @@ Email: [privacy@progressivebusinessmedia.com](mailto:privacy@progressivebusiness
 
 **L. NOTICE TO CALIFORNIA RESIDENTS**
 
-If you are a California resident, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your personal information by Progressive Business Media to third parties for the third parties' direct marketing purposes. With respect to these [entities](https://web.archive.org/common/jumplink.php?target=http%3A//corporate.disney.go.com/corporate/pp_california.html), this privacy policy applies only to their activities within the State of California. To make such a request, please send an email to [privacy@progressivebusinessmedia.com](mailto:privacy@progressivebusinessmedia.com) or write us: 
+If you are a California resident, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your personal information by Progressive Business Media to third parties for the third parties' direct marketing purposes. With respect to these [entities](http://corporate.disney.go.com/corporate/pp_california.html), this privacy policy applies only to their activities within the State of California. To make such a request, please send an email to [privacy@progressivebusinessmedia.com](mailto:privacy@progressivebusinessmedia.com) or write us: 
 
 Progressive Business Media  
 7025 Albert Pick Road, Suite 200  
