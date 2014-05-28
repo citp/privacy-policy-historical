@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chick-fil-a.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102162218id_/http%3A//www.chick-fil-a.com/Legal/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chick-fil-a.com privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528192807id_/http%3A//www.chick-fil-a.com/Legal/Privacy) for the most accurate reproduction.*
 
 # Chick-fil-A: Privacy
 
@@ -222,4 +222,4 @@ Phone: 1-866-CFA-2040 or 1-866-232-2040
 
 Privacy Policy last updated on March 28, 2013
 
-Copyright © 2013 Chick-fil-A, Inc. All rights reserved
+Copyright © 2014 Chick-fil-A, Inc. All rights reserved
