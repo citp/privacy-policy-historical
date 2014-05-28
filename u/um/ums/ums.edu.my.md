@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ums.edu.my privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127090431id_/http%3A//www.ums.edu.my/v5/index.php/en/pri-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ums.edu.my privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528130439id_/http%3A//www.ums.edu.my/v5/index.php/en/pri-policy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
