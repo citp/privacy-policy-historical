@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the onlinemoneyclub.co.uk privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126234928id_/http%3A//onlinemoneyclub.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinemoneyclub.co.uk privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528123409id_/http%3A//onlinemoneyclub.co.uk/privacy-policy-3) for the most accurate reproduction.*
 
-# Privacy Policy | David Henry's Marketing Blog | David Henry's Marketing Blog
+# Privacy Policy | David Henry's Marketing Blog
 
-This privacy policy sets out how [David Henry](http://onlinemoneyclub.co.uk/about/ "David Henry") uses and protects any information that you give David Henry when you use this website.
+This privacy policy sets out how David Henry uses and protects any information that you give David Henry when you use this website.
 
 David Henry is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-David Henry may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from February 26, 2011.
+David Henry may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from February 28, 2014.
 
 **What we collect**
 
@@ -53,7 +53,7 @@ Our website may contain links to other websites of interest. However, once you h
 You may choose to restrict the collection or use of your personal information in the following ways:
 
   * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [supersignup20@gmail.com](mailto:$pt_business_email)
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [support@onlinemoneyclub.co.uk](mailto:support@onlinemoneyclub.co.uk)
 
 
 
