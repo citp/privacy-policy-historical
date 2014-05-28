@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the solidsolutions.co.uk privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124102237id_/http%3A//www.solidsolutions.co.uk/Information/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solidsolutions.co.uk privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529011125id_/http%3A//www.solidsolutions.co.uk/Information/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-English Law governs the access and use of this site and you hereby agree to be bound by the exclusive jurisdiction of the English courts. Solid Solutions Management Ltd may vary the Privacy Policy at its sole discretion at any time. 
+[](https://web.archive.org/Terms-And-Conditions.aspx) [](https://web.archive.org/default.aspx) English Law governs the access and use of this site and you hereby agree to be bound by the exclusive jurisdiction of the English courts. Solid Solutions Management Ltd may vary the Privacy Policy at its sole discretion at any time. 
 
 It is entirely your responsibility to ensure that you check this page each time you access this site to ensure that you are aware of any changes to this privacy policy. 
 
