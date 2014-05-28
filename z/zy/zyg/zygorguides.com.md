@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zygorguides.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208033938id_/http%3A//www.zygorguides.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zygorguides.com privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528145537id_/http%3A//www.zygorguides.com/about/privacy.php) for the most accurate reproduction.*
 
 # Zygor Guides
 
@@ -45,3 +45,6 @@ We provide mechanisms for updating and correcting your personally identifying in
 ## Changes to this Policy
 
 Please note this Privacy Policy will change from time to time. We expect most such changes to be minor, but there may be changes that are more significant. Regardless, we will post those changes on this page and, if the changes are significant, we will also provide a more prominent notice. The latest revision date will be noted at the top of the page.
+
+  
+
