@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acoollink.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127012619id_/http%3A//www.acoollink.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acoollink.com privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528145704id_/http%3A//www.acoollink.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy PolicyA Cool Link
 
@@ -51,5 +51,3 @@ A Cool Link LLC reserves the right to make changes in this policy. If there is a
 If you do not agree to A Cool Link LLC’s Privacy Policy as posted here on this website, please do not use this site or any services offered by this site.
 
 **Your use of this site indicates acceptance of this privacy policy.**
-
-[](http://www.linkwithin.com/)
