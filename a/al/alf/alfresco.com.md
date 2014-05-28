@@ -1,53 +1,8 @@
-> *The following text is extracted and transformed from the alfresco.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126132851id_/http%3A//www.alfresco.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alfresco.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529005824id_/http%3A//www.alfresco.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Alfresco
 
-  * [
-
-## Products
-
-Deploy on-premise, in the cloud, or both
-
-](https://web.archive.org/products "Deploy on-premise, in the cloud, or both")
-  * [
-
-## Solutions
-
-Solve your content management challenges
-
-](https://web.archive.org/products/solutions "Solve your content management challenges")
-  * [
-
-## Partners
-
-Find a partner to help with your project
-
-](https://web.archive.org/partners "Find a partner to help with your project")
-  * [
-
-## Developers
-
-Build on our open source platform
-
-](https://web.archive.org/develop "Build on our open source platform")
-  * [
-
-## Company
-
-Learn why customer success is at our core
-
-](https://web.archive.org/company "Learn why customer success is at our core")
-  * [
-
-## Support
-
-Get training, consulting and our official docs
-
-](https://web.archive.org/support "Get training, consulting and our official docs")
-
-
-
-Last updated: 24 May 2012
+Last updated: 19 Dec 2013
 
 ## Scope of This Notice
 
@@ -129,30 +84,8 @@ _utmb
 _utmc  
 _utmz | These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in anonymous form, including the number of visitors to the site, where visitors have come to the site from, and the pages they visited. | Click here for an overview of privacy at Google: <http://www.google.co.uk/intl/en/analytics> | All Alfresco websites | Category 2: Performance  
 Prospect management and lead management, by Pardot | Pardot | This cookie is used to store user-entered data submitted via forms on alfresco.com, including software trials, contacting Alfresco sales, requesting white papers, and registering for webinars. | The Pardot privacy policy can be viewed at: <http://www.pardot.com/company/legal.html> | alfresco.com, blogs.alfresco.com, wiki.alfresco.com, forums.alfresco.com | Category 2: Performance  
-Alfresco Cloud | __site | This cookie is used to store information for users signing up for Alfresco's Cloud service to help us better understand where users who sign up for the Cloud service come from. |   | cloud.alfresco.com | Category 2: Performance  
-MediaWiki | Visitor_id1234 | This cookie remembers your MediaWiki username. |   | wiki.alfresco.com | Category 3: Functionality  
-phpBB | 
-
-phpbb3_8zvsx_k
-
-phpbb3_8zvsx_sid
-
-phpbb3_8zvsx_u
-
-style_cookie
-
-visitor_id1234
-
-| This cookie remembers your Forums username. |   | forums.alfresco.com | Category 3: Functionality  
-Parature | 
-
-IsMyCookieEnabled
-
-ParaturePortalDeptID
-
-ParaturePortalSessionID
-
-| This cookie remembers your Parature username | [www.parature.com/privacy/legal/](http://www.parature.com/privacy/legal/) | support.alfresco.com | Category 3: Functionality  
+Alfresco Cloud | __site | This cookie is used to store information for users signing up for Alfresco's Cloud service to help us better understand where users who sign up for the Cloud service come from. |  | cloud.alfresco.com | Category 2: Performance  
+MediaWiki | Visitor_id1234 | This cookie remembers your MediaWiki username. |  | wiki.alfresco.com | Category 3: Functionality  
 TrainingRocket | 
 
 JSESSIONID
@@ -161,7 +94,7 @@ SE
 
 _atuvc
 
-| This cookie remembers your training portal username. | [www.customware.net/legal/privacy_policy.html](http://www.customware.net/legal/privacy_policy.html) | University.alfresco.com | Category 3: Functionality  
+| This cookie remembers your training portal username. | [www.servicerocket.com/legal/privacy-policy/](http://www.servicerocket.com/legal/privacy-policy/) | university.alfresco.com | Category 3: Functionality  
 DoubleClick | Id | This cookie is used in conjunction with Google's AdWords service to deliver ads that are relevant to your interests, control the number of times you see a given ad, and measure the effectiveness of ad campaigns. | Google's privacy policy for advertising can be viewed at: [www.google.com/policies/privacy/ads/](http://www.google.com/policies/privacy/ads/) | [www.alfresco.com](https://web.archive.org/) | Category 4: Targeting or Advertising  
   
 Most web browsers allow some control of most cookies through the browser settings. However, if you select this setting, this may adversely affect your user experience of our site.
