@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dudeiwantthat.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602002046id_/http%3A//www.dudeiwantthat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dudeiwantthat.com privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528103922id_/http%3A//www.dudeiwantthat.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | DudeIWantThat.com
 
@@ -14,7 +14,7 @@ You can delete your account whenever your little heart desires by [contacting us
 
 ### Mailing List
 
-DudeIWantThat.com may launch a mailing list for some or all of the DudeIWantThat.com websites. In order to sign up to receive regular emails from our mailing list, users must submit information including a valid email address and demographic information such as location and interests. This information will be used in aggregate form only in order to assess general user interest in various internal and third party products and services, and your personal and contact information will not be passed to any other organization. Users who choose to sign up for a mailing list will receive regular emails from the site, including new products added to the site. Users will NOT receive emails from third party site sponsors.
+DudeIWantThat.com may launch a mailing list for some or all of the DudeIWantThat.com websites. In order to sign up to receive regular emails from our mailing list, users must submit information including a valid email address and demographic information. This information will be used in aggregate form only in order to assess general user interest in various internal and third party products and services, and your personal and contact information will not be passed to any other organization. Users who choose to sign up for a mailing list will receive regular emails from the site, including new products added to the site. Users will NOT receive emails from third party site sponsors.
 
 ### Third Party Cookies
 
