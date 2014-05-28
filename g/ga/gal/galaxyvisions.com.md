@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the galaxyvisions.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202120839id_/http%3A//www.galaxyvisions.com/index.php/about-us/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the galaxyvisions.com privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528024423id_/http%3A//www.galaxyvisions.com/about-us/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Galaxyvisions
+# GalaxyVisions Privacy Policy
 
-##  Privacy Policy
+##  GalaxyVisions Privacy Policy
 
 ##  What information do we collect?
 
