@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the engvid.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212051755id_/http%3A//www.engvid.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the engvid.com privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528194045id_/http%3A//www.engvid.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy · engVid
 
@@ -20,3 +20,6 @@ We also may use DART cookies for ad serving through Google's DoubleClick, which 
 You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added. engVid.com has no access to or control over these cookies that are used by third-party advertisers. You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. engVid.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+
+You can opt-out completely of tracking by not visiting this website. You may request removal from our logs by emailing us with your IP address and the date(s) of your visit to our website.>  
+
