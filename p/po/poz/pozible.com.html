@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pozible.com privacy policy that was archived on 2013-04-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130423131910id_/http%3A//www.pozible.com/help/i/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pozible.com privacy policy that was archived on 2014-05-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140528073052id_/http%3A//www.pozible.com/help/i/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -7,22 +7,119 @@
 <meta name="keywords" content="Crowdfunding Creativity Pozible Possible Possibilities Australia Fundraising artists musicians filmmakers journalists designers entrepreneurs inventors event organisers software developers creative individuals creativity funding sponsorship">
 <meta name="description" content="Pozible is a crowdfunding platform and community for creative projects and ideas. Developed for artists, musicians, filmmakers, journalists, designers, entrepreneurs, inventors, event organisers, software developers and all other creative minded people to raise funds and make awesome things possible.">
 <meta http-equiv="imagetoolbar" content="no">
-
 <link href="http://www.pozible.com/v3/css/reset-min.css" rel="stylesheet" type="text/css">
-<link href="http://www.pozible.com/v3/css/common.css" rel="stylesheet" type="text/css">
+<link href="http://www.pozible.com/v4/css/common.css?v=20140416" rel="stylesheet" type="text/css">
 
-<script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" src="http://www.pozible.com/v3/js/jquery-1.8.2.min.js"></script>
-<script type="text/javascript" src="http://www.pozible.com/v3/js/common01.js"></script>
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KNJSZ3"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://www.pozible.com/v4/js/common01.js?v=20140416"></script>
 
-<script type="text/javascript" src="http://www.pozible.com/v3/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
-<link rel="stylesheet" type="text/css" href="http://www.pozible.com/v3/fancybox/jquery.fancybox-1.3.4.css" media="screen"></head>
+<script type="text/javascript" src="http://www.pozible.com/v4/fancybox/jquery.fancybox-1.3.6.min.js"></script>
+<link rel="stylesheet" type="text/css" href="http://www.pozible.com/v4/fancybox/jquery.fancybox-1.3.6.css" media="screen">
+<script type="text/javascript">
+function pz_signup(after_login, pars) {
+	if( typeof(after_login) == 'undefined' ) {
+		after_login  = '';
+	}
+	if( typeof(pars) == 'undefined' ) {
+		pars = '';
+	} else {
+		pars = '?' + pars;
+	}
+	pop_iframe('http://www.pozible.com/passpop/zhuce/'+after_login+pars, 520, 550);
+}
+function pz_login(after_login) {
+	if( typeof(after_login) == 'undefined' ) {
+		after_login  = '';
+	}
+	pop_iframe('http://www.pozible.com/passpop/in/'+after_login, 520, 550);
+}
+function pz_login_after(info, afterdo, isclose) {
+	if( info != '' ) {
+		alert(info);
+	}
+	if( afterdo != '' ) {
+		eval(afterdo+'();');
+	} else {
+		location.reload();
+	}
+	if( isclose == 1 ) {
+		$.fancybox.close();
+	}
+}
+</script>
+
+<!--<script type="text/javascript" src="http://www.pozible.com/v3/nprogress/nprogress.js"></script>
+<link rel="stylesheet" type="text/css" href="http://www.pozible.com/v3/nprogress/nprogress.css" />-->
+<script type="text/javascript">
+	NProgress.configure({ ease: 'linear', speed: 100 });
+	NProgress.configure({ trickle: false });
+	$(document).ready(function() { NProgress.start(); });
+	var intervalprogress = setInterval(function() { NProgress.inc(0.10); }, 100);
+	setTimeout(function() {NProgress.configure({ ease: 'linear', speed: 400 }); NProgress.done();clearInterval(intervalprogress); }, 1600);
+</script><style type="text/css">
+.faq_tcs b{font-weight: normal;
+font-size: 22px;
+text-shadow: 0.5px 1px 0 #FFFFFF;
+color: #333;
+margin-bottom: 10px;
+display: block;
+}
+</style>
+</head>
 <body>
-	<div><script type="text/javascript">
+	<div><script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	ga('create', 'UA-15928575-3', 'pozible.com');
+	ga('require', 'displayfeatures');
+	ga('send', 'pageview');
+</script>
+<div id="fb-root"></div>
+<script type="text/javascript">
+	window.fbAsyncInit = function() {
+		FB.init({
+			appId : '191611794189318',
+
+			status : true, // check login status
+			cookie : true, // enable cookies to allow the server to access the session
+			xfbml : true, // parse XFBML
+			oauth : true
+		});
+		$(document).trigger('fbloadok');
+		FB.getLoginStatus(function (response) {
+			try_auto_login=1;			if (try_auto_login==1){
+				$.get('http://www.pozible.com/passpop/fb_autolg_check', function (autologin) {
+					if (autologin == '1') {
+						if (response.status === 'connected') {
+							$.get('http://www.pozible.com/passpop/facebook', function(){
+								window.location.reload();
+							});
+							};
+						}
+					});
+				}
+		});
+
+	};
+
+	(function(d, s, id){
+		var js, fjs = d.getElementsByTagName(s)[0];
+		if (d.getElementById(id)) {return;}
+		js = d.createElement(s); js.id = id;
+		js.src = "//connect.facebook.net/en_US/all.js";
+		fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));
+</script>
+<script type="text/javascript">
 $(document).ready(function(){
 	var nav_top = $("#navtop_help");
 	if( nav_top.size() > 0 ) {
 		nav_top.addClass('li_active_init');
 	}
+	
 	$('.js_head_li').hover(function(){$(this).addClass('li_active');},function(){$(this).removeClass('li_active');});
 	//$('body').click(function(){head_li_click(this, 1);});
 	$('.js_head_li_click').click(function(){head_li_click(this);})
@@ -57,7 +154,7 @@ $(document).ready(function(){
 				}
 			});
 
-			$('#keywords').focus();
+//			$('#keywords').focus();
 		}
 	}
 });
@@ -69,72 +166,38 @@ $(document).ready(function(){
 .new_warning .new_warncon .newwarn_btn{line-height:24px;background:#b2f9ff;border-radius:4px;display:inline-block;text-align:center;width:auto;height:24px;padding:0 12px;margin:9px 0 0 0;color:#000;}
 .new_warning .new_warncon .new_warnclose{ background:url(http://www.pozible.com/v3/images/close.png) no-repeat;display:inline-block;height:10px;width:10px;float:right;margin-top:16px;}
 </style>
-<div id="fb-root"></div>
+
 
 <div class="header">
-<div class="header_bg"></div>
-<div class="new_nav">
-	<a href="http://www.pozible.com/" class="newlogo" title="Pozible | Crowdfunding platform for your projects &amp; ideas">Pozible</a>
-	<ul class="newnav js_newnav">
-	<li class="js_head_li" id="navtop_list"><a href="http://www.pozible.com/list/pop">Explore</a></li>
-	<li class="js_head_li" id="navtop_cp2"><a href="http://www.pozible.com/user/cp2/create">Create</a></li>
-	<li class="li_sear js_head_li" id="navtop_search">
-		<a class="sear js_head_li_click" href="javascript:;"></a>
-		<form action="http://www.pozible.com/list/search" id="search_frm" method="post" class="newnav_sear js_head_li_click_s">
-			<input type="text" id="keywords" name="keywords" value="search project" onfocus="javascript:$(this).val( $(this).val() == 'search project' ? '' : $(this).val() ); $(this).removeClass('nokey');" onblur="javascript:if( $(this).val() == '' ) {$(this).addClass('nokey');$(this).val( $(this).val() == '' ? 'search project' : $(this).val() ); }">
-			<p class="sear_p">Press Enter to Search</p>
-		</form>
-	</li>
-	<li class="js_head_li" id="navtop_blog"><a class="new" href="http://www.pozible.com/blog/home">News</a></li>
-	<li><a href="https://www.pozible.com/passport/inref">Login/Sign up</a></li>
-	<li class="js_head_li li_adr" id="">
-		<a class="adr js_head_li_click" href="javascript:;">U.S.A.</a>
-		<ul class="adr_down js_head_li_click_s">
-			<li><a class="a1" href="javascript:;" onclick="javascript:goc(this);" data-url="http://www.pozible.com/home/country/globla">Global</a></li>
-			<li><a href="javascript:;" onclick="javascript:goc(this);" data-url="http://www.pozible.com/home/country/au">Australia<span class="ar">A$</span></a></li>
-			<li><a href="javascript:;" onclick="javascript:goc(this);" data-url="http://www.pozible.com/home/country/us">U.S.A.<span class="ar">US$</span></a></li>
-			<li><a href="javascript:;" onclick="javascript:goc(this);" data-url="http://www.pozible.com/home/country/gb">UK<span class="ar">£</span></a></li>
-			<li><a href="javascript:;" onclick="javascript:goc(this);" data-url="http://www.pozible.com/home/country/nz">New Zealand<span class="ar">NZ$</span></a></li>
-			<li><a href="javascript:;" onclick="javascript:goc(this);" data-url="http://www.pozible.com/home/country/sg">Singapore<span class="ar">S$</span></a></li>
-			<li><a href="javascript:;" onclick="javascript:goc(this);" data-url="http://www.pozible.com/home/country/de">Germany<span class="ar">€</span></a></li>
-			<li><a href="javascript:;" onclick="javascript:goc(this);" data-url="http://www.pozible.com/home/country/ca">Canada<span class="ar">C$</span></a></li>
-			<li><a href="javascript:;" onclick="javascript:goc(this);" data-url="http://www.pozible.com/home/country/at">Austria<span class="ar">€</span></a></li>
-			<li><a href="javascript:;" onclick="javascript:goc(this);" data-url="http://www.pozible.com/home/country/br">Brazil<span class="ar">R$</span></a></li>
-			<li><a href="javascript:;" onclick="javascript:goc(this);" data-url="http://www.pozible.com/home/country/ch">Switzerland<span class="ar">CHF</span></a></li>
-			<li><a href="javascript:;" onclick="javascript:goc(this);" data-url="http://www.pozible.com/home/country/dk">Denmark<span class="ar">kr DKK</span></a></li>
-			<li><a href="javascript:;" onclick="javascript:goc(this);" data-url="http://www.pozible.com/home/country/es">Spain<span class="ar">€</span></a></li>
-			<li><a href="javascript:;" onclick="javascript:goc(this);" data-url="http://www.pozible.com/home/country/eu">Europe<span class="ar">€</span></a></li>
-			<li><a href="javascript:;" onclick="javascript:goc(this);" data-url="http://www.pozible.com/home/country/fi">Finland<span class="ar">€</span></a></li>
-			<li><a href="javascript:;" onclick="javascript:goc(this);" data-url="http://www.pozible.com/home/country/fr">France<span class="ar">€</span></a></li>
-			<li><a href="javascript:;" onclick="javascript:goc(this);" data-url="http://www.pozible.com/home/country/hu">Hungary<span class="ar">Ft</span></a></li>
-			<li><a href="javascript:;" onclick="javascript:goc(this);" data-url="http://www.pozible.com/home/country/ie">Ireland<span class="ar">€</span></a></li>
-			<li><a href="javascript:;" onclick="javascript:goc(this);" data-url="http://www.pozible.com/home/country/il">Israel<span class="ar">₪</span></a></li>
-			<li><a href="javascript:;" onclick="javascript:goc(this);" data-url="http://www.pozible.com/home/country/it">Italy<span class="ar">€</span></a></li>
-			<li><a href="javascript:;" onclick="javascript:goc(this);" data-url="http://www.pozible.com/home/country/jp">Japan<span class="ar">¥</span></a></li>
-			<li><a href="javascript:;" onclick="javascript:goc(this);" data-url="http://www.pozible.com/home/country/mt">Malta<span class="ar">€</span></a></li>
-			<li><a href="javascript:;" onclick="javascript:goc(this);" data-url="http://www.pozible.com/home/country/mx">Mexico<span class="ar">$MXN</span></a></li>
-			<li><a href="javascript:;" onclick="javascript:goc(this);" data-url="http://www.pozible.com/home/country/my">Malaysia<span class="ar">RM</span></a></li>
-			<li><a href="javascript:;" onclick="javascript:goc(this);" data-url="http://www.pozible.com/home/country/nl">The Netherlands<span class="ar">€</span></a></li>
-			<li><a href="javascript:;" onclick="javascript:goc(this);" data-url="http://www.pozible.com/home/country/no">Norway<span class="ar">kr NOK</span></a></li>
-			<li><a href="javascript:;" onclick="javascript:goc(this);" data-url="http://www.pozible.com/home/country/ph">Philippines<span class="ar">Php</span></a></li>
-			<li><a href="javascript:;" onclick="javascript:goc(this);" data-url="http://www.pozible.com/home/country/pl">Poland<span class="ar">zł</span></a></li>
-			<li><a href="javascript:;" onclick="javascript:goc(this);" data-url="http://www.pozible.com/home/country/pt">Portugal<span class="ar">€</span></a></li>
-			<li><a href="javascript:;" onclick="javascript:goc(this);" data-url="http://www.pozible.com/home/country/se">Sweden<span class="ar">kr SEK</span></a></li>
-			<li><a href="javascript:;" onclick="javascript:goc(this);" data-url="http://www.pozible.com/home/country/sk">Slovakia<span class="ar">€</span></a></li>
-			<li><a href="javascript:;" onclick="javascript:goc(this);" data-url="http://www.pozible.com/home/country/si">Slovenia<span class="ar">€</span></a></li>
-			<li><a href="javascript:;" onclick="javascript:goc(this);" data-url="http://www.pozible.com/home/country/th">Thai<span class="ar">฿</span></a></li>
-		</ul>
-<script language="javascript">
-function goc(o) {
-	$.get($(o).attr('data-url'), function(){window.location.reload();});
-}
+	<div class="header_bg"></div>
+	<div class="new_nav">
+<script type="text/javascript">
+	$(document).ready(function(){
+		$('.js_new_clicksear').on('click',function(){
+			$(this).next().show().animate({width:'167px'},300).focus();
+			$(this).fadeOut();
+		});
+	});
 </script>
-	</li>
-	</ul>
+<form action="http://www.pozible.com/list/search/td_cn_st" id="search_frm" method="post" class="newnav_sear">
+	<a href="javascript:;" class="newnav_searclick js_new_clicksear">&nbsp;</a>
+	<input type="text" class="newnav_seartxt js_new_txt" id="keywords" name="keywords" value="Search Projects" onfocus="javascript:$(this).val( $(this).val() == 'Search Projects' ? '' : $(this).val() ); $(this).removeClass('nokey');" onblur="javascript:if( $(this).val() == '' ) {$(this).addClass('nokey');$(this).animate({width:'0px'},300, '', function(){$('.js_new_clicksear').fadeIn();}).fadeOut();$(this).val( $(this).val() == '' ? 'Search Projects' : $(this).val() ); };">
+</form>
+<p class="newlogop">
+	<a href="http://www.pozible.com/" class="newlogo" title="Pozible | Crowdfunding platform for your projects &amp; ideas">Pozible</a>
+</p>
+<ul class="newnav js_newnav">
+	<li class="js_head_li" id="navtop_list"><a href="http://www.pozible.com/list/pop">Explore</a></li>
+	<li class="js_head_li" style="" id="navtop_cp2"><a href="http://www.pozible.com/create">Create</a></li>
+</ul>
+<ul class="new_login">
+	<li class="new_signup"><a href="javascript:;" onclick="javascript:pz_signup();">Sign Up</a></li>
+	<li class="li_login"><a href="javascript:;" onclick="javascript:pz_login();">Log In</a></li>
+
+</ul>
+	</div>
 </div>
-</div>
-<div class="preload"></div>
-</div>
+<div class="preload"></div></div>
 	<div class="v3_content">
 		<div class="faq_tcs shadow_fff">
 <h1>Privacy Policy</h1>
@@ -165,15 +228,13 @@ Policy, you click on such links to obtain further important details about the Pr
 as they may contain further terms and conditions which apply to you as a Pozible account
 holder. 
 <br><br>
-<b>1. An Important Note About Children.</b> 
-<br><br>
+<b>1. An Important Note About Children.</b>
 Children (persons under the age of 18 years) are not eligible to use our services
 unsupervised and we ask that children do not submit any personal information to us. If you
 are under the age of 18 years, you can use this service only in conjunction with and under
 the supervision of your parents or guardians. 
 <br><br>
-<b>2. Information We Collect</b> 
-<br><br>
+<b>2. Information We Collect</b>
 Our primary purpose in collecting personal information is to provide you with a smooth,
 efficient, safe and customised trading experience. This allows us to provide services and
 features that most likely meet your needs, and to customise our services to make your
@@ -235,9 +296,15 @@ technology and processed through a secure third party payment gateway (PCI DSS
 Compliant). Pozible does not store your payment information (such as credit card or debit
 card information) on Pozible servers or databases.<br><br>
 
+<b>This website uses the Google AdWords remarketing service</b>
+AdWords Remarketing is a Remarketing and Behavioral Targeting service provided by Google. It connects the activity of
+www.pozible.com with the Adwords advertising network and the Doubleclick Cookie. You can opt out of the cookie tracking
+here:
+<a href="http://google.com/settings/ads/onweb/optout?hl=en" target="_blank">http://google.com/settings/ads/onweb/optout?hl=en</a><br><br>
+Personal Data collected: Cookie and Usage Data. Place of processing: USA. – Find the <a href="http://www.google.com/intl/en/policies/privacy/" target="_blank">Privacy Policy</a>.<br><br>
+
 <br><br>
-<b>3. Our Use of Your Information</b> 
-<br><br>
+<b>3. Our Use of Your Information</b>
 We use personal information about you (including but not limited to the information in the
 file we maintain about you, and other information we obtain from your current and past
 activities on the Site) to resolve disputes, troubleshoot problems, help ensure safe trading
@@ -259,8 +326,7 @@ that, in some cases, is targeted to your interests, such as administrative notic
 offerings, and communications relevant to your use of the Site. By accepting the User
 Agreement and Privacy Policy you expressly agree to receive this information. 
 <br><br>
-<b>4. Our Disclosure of Your Information</b> 
-<br><br>
+<b>4. Our Disclosure of Your Information</b>
 Although Pozible uses industry standard practices to protect your personal information,
 due to technical limitations, we cannot ensure that all of your private communications and
 other personal information will never be disclosed in ways not otherwise described in this
@@ -346,7 +412,6 @@ of fraud, intellectual property infringements, piracy or other activity that is 
 expose us to legal liability. 
 <br><br>
 <b>5. Your Use of Other Users' Information</b>
-<br><br>
 In order to facilitate interaction among all Pozible community members, our service allows
 you limited access other users' contact information. As a project creator you have access
 to the full names, email address and other contact information of the project supporter and
@@ -376,13 +441,11 @@ your mail list (email or physical mail) without their express consent after adeq
 disclosure. To report spam from other Pozible users, please send an email to <a href="mailto:admin@pozible.com">admin@pozible.com</a>. 
 <br><br>
 <b>6. Use of Email Tools</b>
-<br><br>
 You may not use the send a message service or other email forwarding services that we
 offer to send spam or otherwise send content that would violate our User Agreement or
 Privacy Policy. 
 <br><br>
 <b>7. Control of Your Password</b>
-<br><br>
 You are responsible for all actions taken with your password, including fees. Therefore we
 do not recommend that you disclose your Pozible password to any third parties. If you
 choose to share your password or your information with third parties to provide you
@@ -394,7 +457,6 @@ password has been compromised for any reason, you should immediately change your
 password as detailed in Section 8. 
 <br><br>
 <b>8. Accessing, Reviewing and Changing Your Personal Information</b>
-<br><br>
 Following registration, you can review and change the information you submitted during
 registration including: 
 <br><br>
@@ -423,7 +485,6 @@ be deactivated from public viewing and usage by other members of Pozible and wil
 be available to select Pozible personnel. 
 <br><br>
 <b>9. Other Information Collectors</b>
-<br><br>
 Except as otherwise expressly discussed in this Privacy Policy, this document only
 addresses the use and disclosure of information we collect from you. To the extent that
 you disclose your information to other parties, whether they are project creators or project
@@ -435,14 +496,12 @@ privacy policies of that third party. We encourage you to ask questions before y
 your personal information to others. 
 <br><br>
 <b>10. Security</b>
-<br><br>
 Your Information is stored on Pozible's servers currently located in the United States. We
 use industry standard efforts to safeguard the confidentiality of your personal information,
 such as firewalls and Secure Socket Layers. However, "perfect security" does not exist on
 the Internet. 
 <br><br>
 <b>11. Notice</b>
-<br><br>
 We may change this Privacy Policy from time to time based on your comments and our
 need to accurately reflect our data collection and disclosure practices. All changes to this
 policy are effective after we provide you with at least thirty (30) days' notice of the changes
@@ -456,92 +515,137 @@ If you have any questions, please contact <a href="mailto:admin@pozible.com">adm
 
 		</div>
 	</div>
-	<div class="footer"><div style="background:url(http://www.pozible.com/assets/images_201201/footer_bg1.png) repeat;">
-<div class="wraper">
-	<h3 style="color:#9a9999;font-size:32px;letter-spacing:-1px;line-height:32px;font-family:LobsterRegular; text-align:center;">Pozible
-	</h3>
-	<dl>
-		<dd><a href="http://www.pozible.com/">Home</a></dd>
-		<dd><a href="http://www.pozible.com/help/i/aboutus">About</a></dd>
-		<dd><a href="http://www.pozible.com/list">Projects</a></dd>
-		<dd><a href="http://www.pozible.com/collection">Collections</a></dd>
-		<dd><a href="http://www.pozible.com/help/profiles/partners">Partners</a></dd>
-		<dd><a href="http://www.pozible.com/blog">News</a></dd>
-		<dd><a target="_blank" href="http://pozible.tumblr.com/" title="Pozible Tumblr">Pozible Tumblr</a></dd>
-		<dd><a href="http://www.pozible.com/faq/index/1">FAQ</a></dd>
-		<dd><a href="https://www.pozible.com/passport/in">Login|Sign Up</a></dd>
-		<dd><a href="mailto:feedback@pozible.com">Feedback</a></dd>
-		<dd><a href="http://www.pozible.com/help/contact" title="contact us">Contact</a></dd>
-		<dd><a href="http://www.pozible.com/help/i/media" title="Media">Media</a></dd>
-	</dl>
-	<dl>
-		<dd><a href="http://www.pozible.com/help/handbook" title="Pozible handbook">Pozible Handbook</a></dd>
-		<dd><a href="http://www.pozible.com/help/i/project_guide" title="Project Guide">Project Guidelines</a></dd>
-		<dd><a href="http://www.pozible.com/help/ambassador" title="Ambassador Network">Ambassador Network</a></dd>
-		<dd><a href="http://www.pozible.com/help/tell_us_more" title="get an invitation">Check My Idea</a></dd>
-		<dd><a href="http://www.pozible.com/list/pzs/0/0" title="Project Shop">Pozible Shop</a></dd>
-		<dd><a href="http://www.pozible.com/user/cp2/create" title="create a project">Create a  Project</a></dd>
-		<dd><a href="http://www.pozible.com/help/i/privacy_policy">Privacy Policy</a></dd>
-		<dd><a href="http://www.pozible.com/help/i/terms_and_conditions">T&amp;Cs</a></dd>	  
-	</dl>
-	<div class="footer_div">
-		<p class="footer_p"><span>All rights reserved Pozible Pty Ltd&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;Handmade with ♥ in Australia. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-		</p>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>	
-		<div class="footer_facebook">
-<!--			<iframe src="https://www.facebook.com/plugins/like.php?app_id=214699788569813&amp;href=facebook.com%2Fpozible&amp;send=false&amp;layout=button_count&amp;width=200&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:90px; height:21px;margin-right:10px;" allowTransparency="true"></iframe>-->
-			<div style="display:inline-block; padding:40px 0 0 0; vertical-align:top;">
-				<span style="float:left;"><a href="https://twitter.com/pozible" class="twitter-follow-button" data-show-count="true" data-size="large">Follow @pozible</a></span>
-				<span style="float:left;margin:3px 0 0 120px;"><iframe class="btn" border="0" allowtransparency="true" src="http://platform.tumblr.com/v1/follow_button.html?button_type=1&amp;tumblelog=Pozible&amp;color_scheme=light" frameborder="0" height="25" scrolling="no" width="144"></iframe></span>
+	<div class="footer"><div class="pz_footermain">
+	<div class="pz_footer">
+		<div class="pz_footer_top">
+			<div class="pz_footer_240">
+				<script language="javascript" type="text/javascript">
+					$(document).ready(function(){
+						$('.js_footer_cou').hover(function(){$(this).find('.js_footer_coudown').addClass('show_state').removeClass('hidden_state');},
+							function(){$(this).find('.js_footer_coudown').addClass('hidden_state').removeClass('show_state');});
+					});
+					function goc(o) {
+						$.get($(o).attr('data-url'), function(){window.location.reload();});
+					}
+					function footer_subscribe() {
+						$.post(
+							'http://www.pozible.com/help/subscribe',
+							{ email: $('#footer_subscribe_email').val() },
+							function(d) {
+								if ( d.status ) {
+									$('#footer_subscribe_email').val('');
+									$('.js_newsletter_error').html('You have successfully subscribed to our Newsletter.').css('color','#1facbb').show();
+								} else {
+									$('.js_newsletter_error').html(d.info).css('color','#f35b5b').show();
+									$('#footer_subscribe_email').focus();
+								}
+							},
+							'json'
+						);
+						return false;
+					}
+				</script>
+								<p class="footer_country js_footer_cou">
+
+			<span class="footer_countrydown js_footer_coudown" style="-webkit-transform-origin: 80px 124px;-moz-transform-origin: 80px 124px;
+			-o-transform-origin: 80px 124px;-ms-transform-origin: 80px 124px;transform-origin: 80px 124px;">
+		<a onclick="javascript:goc(this);" data-url="http://www.pozible.com/home/country/au" href="javascript:;">
+			<img src="http://www.pozible.com/v4/images/footer_cou_au.jpg"><em>Australia</em></a>
+			<a onclick="javascript:goc(this);" data-url="http://www.pozible.com/home/country/cn" href="javascript:;">
+			<img src="http://www.pozible.com/v4/images/footer_cou_cn.jpg"><em>China</em></a>
+			<a onclick="javascript:goc(this);" data-url="http://www.pozible.com/home/country/sg" href="javascript:;">
+			<img src="http://www.pozible.com/v4/images/footer_cou_sg.jpg"><em>Singapore</em></a>
+			<a onclick="javascript:goc(this);" data-url="http://www.pozible.com/home/country/my" href="javascript:;">
+			<img src="http://www.pozible.com/v4/images/footer_cou_my.jpg"><em>Malaysia</em></a>
+				</span>
+					<a href="javascript:;" class="pz_footer_ema">
+						<img style="display:inline-block; margin-right:7px;" src="http://www.pozible.com/v4/images/footer_cou_us.jpg">
+						<em>U.S.A.</em>
+					</a>
+				</p>
 			</div>
-			<form class="footer_form" action="" method="post" onsubmit="return footer_subscribe();">
-				<p class="footer_p1">Keep up to date with what’s happening at Pozible</p>
-				<input id="footer_subscribe_email" class="foot_ftxt js_foot_txt" type="text" data-default="Email" data-active-class="foot_txtactive" value="">
-				<input class="foot_fbtn fade_eff" type="button" value="Subscribe" onclick="javascript:footer_subscribe();">
-			</form>
+			<div class="pz_footer_240 pz_footer_au">
+							</div>
+			<div class="pz_footer_480">
+				<form class="pz_footer_form" action="" method="post" onsubmit="return footer_subscribe();">
+					<input id="footer_subscribe_email" class="pz_foot_ftxt" placeholder="Join Pozible’s Newsletter" type="text" value="">
+					<input class="pz_foot_fbtn fade_eff" type="button" value="Subscribe" onclick="javascript:footer_subscribe();">
+				</form>
+				<p class="js_newsletter_error" style="display:none;margin-top:4px;"></p>
+			</div>
 		</div>
-<script type="text/javascript">
-$(document).ready(function(){
-	at_init('.js_foot_txt');
-});
-function footer_subscribe() {
-	$.post(
-		'http://www.pozible.com/help/subscribe',
-		{ email: $('#footer_subscribe_email').val() },
-		function(d) {
-			if ( d.status ) {
-				$('#footer_subscribe_email').val('');
-				alert('You have successfully subscribed to our Newsletter.');
-			} else {
-				alert(d.info);
-				$('#footer_subscribe_email').focus();
-			}
-		},
-		'json'
-	);
-	return false;
-}
-</script>
-		<div class="footer_facebook">
-			<iframe src="https://www.facebook.com/plugins/like.php?href=facebook.com%2Fpozible&amp;layout=standard&amp;show_faces=true&amp;width=980&amp;action=like&amp;font=lucida+grande&amp;colorscheme=dark&amp;height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; padding:7px 0px 0 10px; width:980px; height:80px!important;" allowtransparency="true"></iframe>
+
+		<div class="pz_footer_con">
+			<dl class="pz_footer_240">
+				<dt>Crowdfunding</dt>
+				<dd><a href="http://www.pozible.com/create" title="create a project">Create</a></dd>
+				<dd><a href="https://www.pozible.com/signup">Sign Up</a></dd>
+				<dd><a href="https://www.pozible.com/passport/in">Log In</a></dd>
+				<dd><img src="http://www.pozible.com/v4/images/pz_footer_line.png"></dd>
+				<dd><a href="http://www.pozible.com/list">Projects</a></dd>
+				<dd><a href="http://www.pozible.com/collection">Collections</a></dd>
+				<dd><a href="http://www.pozible.com/list/pzs/0/us" title="Project Shop">Shops</a></dd>
+				<dd><a href="http://www.pozible.com/self-hosted">Self-Hosted</a></dd>
+			</dl>
+			<dl class="pz_footer_240">
+				<dt>Pozible</dt>
+				<dd><a href="http://www.pozible.com/help/i/aboutus">About</a></dd>
+				<dd><a href="http://www.pozible.com/help/why_pozible">Why</a></dd>
+				<dd><a href="http://www.pozible.com/help/i/terms_and_conditions#fees_a">Fees</a></dd>
+				<dd><a href="http://www.pozible.com/help/i/advisory_board" title="Advisory Board">Advisory Board</a></dd>
+				<dd><img src="http://www.pozible.com/v4/images/pz_footer_line.png"></dd>
+				<dd><a href="http://www.pozible.com/blog">Blog</a></dd>
+				<dd><a href="http://www.pozible.com/help/i/media">Media</a></dd>
+				<dd><a href="http://www.pozible.com/help/jobs">Jobs</a></dd>
+			</dl>
+			<dl class="pz_footer_240">
+				<dt>Community</dt>
+				<dd><a target="_blank" href="http://www.eventbrite.com.au/o/pozible-1694627936">Workshops</a></dd>
+				<dd><a href="http://www.pozible.com/help/ambassador" title="Ambassador Network">Ambassadors</a></dd>
+				<dd><a href="http://www.pozible.com/help/profiles/partners">Partners</a></dd>
+				<dd><a href="http://www.pozible.com/refer">Refer a Friend</a></dd>
+				<dd><a target="_blank" href="https://www.facebook.com/pozible">Facebook</a></dd>
+				<dd><a target="_blank" href="https://twitter.com/pozible">Twitter</a></dd>
+				<dd><a target="_blank" href="https://plus.google.com/u/0/112041247911744053744">Google+</a></dd>
+				<dd><a target="_blank" href="http://pozible.tumblr.com/">Tumblr</a></dd>
+			</dl>
+			<dl class="pz_footer_240">
+				<dt>Help</dt>
+				<dd><a href="http://www.pozible.com/help/i/project_guide" title="Project Guide">Guidelines</a></dd>
+				<dd><a href="http://www.pozible.com/help/handbook" title="Pozible handbook">The Handbook</a></dd>
+				<dd><a href="http://www.pozible.com/faq/index/1">FAQ</a></dd>
+				<dd><a href="http://www.pozible.com/help/tell_us_more" title="get an invitation">Check Idea</a></dd>
+				<dd><a href="http://www.pozible.com/help/contact" title="contact us">Contact</a></dd>
+				<dd><img src="http://www.pozible.com/v4/images/pz_footer_line.png"></dd>
+				<dd><a href="http://www.pozible.com/help/i/terms_and_conditions">Terms</a></dd>
+				<dd><a href="http://www.pozible.com/help/i/privacy_policy">Privacy</a></dd>
+			</dl>
 		</div>
-		<div style="padding:0;margin:25px 0 30px 0;height:10px;"><img src="http://www.pozible.com/v3/images/footer_line.png"></div>
-		<p class="footer_p2">Media Partners</p>
-		<img src="http://www.pozible.com/v3/images/footer_partners_media.png">
-		<p class="footer_p2">Industry Partners</p>
-		<img src="http://www.pozible.com/v3/images/footer_partners_industry.png">
+
+		
 	</div>
 </div>
+
+
+	<script type="text/javascript">
+		//$(window).load(function(){fbal();});
+		function fbal() {
+			FB.getLoginStatus(function(response) {
+				if (response.status === 'connected') {
+					$.get('http://www.pozible.com/passpop/facebook', function(){window.location.reload();});
+				}
+			});
+		}
+	</script>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KNJSZ3"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-KNJSZ3');</script>
+<!-- End Google Tag Manager -->
 </div>
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-15928575-1");
-pageTracker._trackPageview();
-} catch(err) {}
-</script></div>
 
 </body></html>
