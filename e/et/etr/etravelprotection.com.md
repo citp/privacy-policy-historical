@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etravelprotection.com privacy policy that was archived on 2013-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130916022359id_/http%3A//www.etravelprotection.com/AccessAmerica/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etravelprotection.com privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528125218id_/http%3A//etravelprotection.com/cheaptickets/PrivacyPolicy) for the most accurate reproduction.*
 
 # Allianz Global Assistance
 
