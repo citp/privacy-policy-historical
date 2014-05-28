@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the cfo.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109072702id_/http%3A//www3.cfo.com/about/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cfo.com privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528234823id_/http%3A//ww2.cfo.com/about/privacy) for the most accurate reproduction.*
 
-# CFO: Privacy Policy
+# Privacy Policy | CFO
 
 CFO Publishing is committed to protecting the privacy of its users. CFO.com is part of CFO Publishing.
 
 **Collection and Use of User Details**  
 Personal details of users of CFO.com are collected and processed when users visit our website.
 
-All personal information is collected with the knowledge of CFO.com users via the website's order and registration forms.
+All personal information is collected with the knowledge of CFO.com users via the website’s order and registration forms.
 
 User information is collected and retained to fulfill orders and notify users of relevant products, services and promotional activities within CFO.com and its affiliate and selected partner companies to improve our understanding of user needs and product and service development
 
@@ -23,13 +23,13 @@ CFO Publishing (CFO magazine, CFO.com, CFO Conferences, and CFO Research Service
 CFO also rents a portion of its postal mailing address lists to reputable firms.
 
 **Cookies**  
-A cookie is a small file that is placed on a user's hard drive or linked to a user's email address when a user visits CFO.com. This file allows the user to move quickly and easily around our website by keeping a record of the user's previous visits. CFO.com uses cookies for identification purposes.
+A cookie is a small file that is placed on a user’s hard drive or linked to a user’s email address when a user visits CFO.com. This file allows the user to move quickly and easily around our website by keeping a record of the user’s previous visits. CFO.com uses cookies for identification purposes.
 
 **Web Beacons**  
 CFO.com uses web beacons to access our cookies within our websites and in connection with CFO.com products, services, and partners.
 
 **Security Policy**  
-CFO.com maintains appropriate measures to ensure that users' personal details are not misused, accidentally destroyed, lost, or altered within the CFO Publishing server environment.
+CFO.com maintains appropriate measures to ensure that users’ personal details are not misused, accidentally destroyed, lost, or altered within the CFO Publishing server environment.
 
 **Transfer of Personal Data Overseas**  
 Given that the Internet is a global environment, using the Internet to collect and process personal data necessarily involves the transmission of data on an international basis.
