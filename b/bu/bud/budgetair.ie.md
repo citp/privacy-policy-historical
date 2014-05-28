@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the budgetair.ie privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229171307id_/http%3A//www.budgetair.ie/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the budgetair.ie privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528184106id_/http%3A//www.budgetair.ie/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | BudgetAir.ie
 
@@ -35,14 +35,14 @@ In order to guarantee the correct execution of the trip you have booked, we ask 
 
 We may collect the following data:
 
-  * * your full name as per your passport, including gender, initials, full first name, middle name and surname;
-  * * your address, postcode, city, country. You may provide a different invoice or shipping address for travel documents;
-  * * your phone number, fax number, mobile phone number, phone number for the people at home in case of emergency just before or during your trip;
-  * * your email address;
-  * * additional personal health information insofar as provided voluntarily and necessary for correct proceeding of your trip;
-  * * additional personal preferences insofar as provided voluntarily and necessary for a correct proceeding of your trip;
-  * * customer account numbers of third parties (such as a frequent flyer number) or of suppliers, allowing you to qualify for privileges or other benefits attached to this;
-  * * your computer's IP address, to prevent misuse and fraud.
+  * your full name as per your passport, including gender, initials, full first name, middle name and surname;
+  * your address, postcode, city, country. You may provide a different invoice or shipping address for travel documents;
+  * your phone number, fax number, mobile phone number, phone number for the people at home in case of emergency just before or during your trip;
+  * your email address;
+  * additional personal health information insofar as provided voluntarily and necessary for correct proceeding of your trip;
+  * additional personal preferences insofar as provided voluntarily and necessary for a correct proceeding of your trip;
+  * customer account numbers of third parties (such as a frequent flyer number) or of suppliers, allowing you to qualify for privileges or other benefits attached to this;
+  * your computer's IP address, to prevent misuse and fraud.
 
 
 
