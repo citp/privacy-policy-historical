@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ri.gov privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128014037id_/http%3A//www.ri.gov/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ri.gov privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529005210id_/http%3A//www.ri.gov/policies/privacy) for the most accurate reproduction.*
 
 # RI.gov: Privacy Policy
 
