@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the corkin.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122170027id_/http%3A//www.corkin.com/includes/PrivacyPage.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corkin.com privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528081351id_/http%3A//www.corkin.com/includes/PrivacyPage.cfm) for the most accurate reproduction.*
 
-# Post an Ad - Corkin - Corkin - Free Classifieds Free Ads - Free Local Classifieds local and Nationwide. Jobs Search, Used car, Golf clubs, NBA or WWE tickets, auto insurance, dwi, dui, Pet Classifieds, Sell a Car, Sell a Timeshare, sell textbooks, Buy Laptops, IT Jobs, sell my car, Buy DVD, buy a dog, Sell Used car, Sell my House. Find Friends. Car listings, Motorcycles For Sale, Real Estate listings, apartmanets for rent, Job Listings, Post Resume, Find People, Online Jobs, vacation rentals, and personals sales
-
-Privacy Policy - Corkin - Corkin - Free Classifieds Free Ads - Free Local Classifieds local and Nationwide. Jobs Search, Used car, Golf clubs, NBA or WWE tickets, auto insurance, dwi, dui, Pet Classifieds, Sell a Car, Sell a Timeshare, sell textbooks, Buy Laptops, IT Jobs, sell my car, Buy DVD, buy a dog, Sell Used car, Sell my House. Find Friends. Car listings, Motorcycles For Sale, Real Estate listings, apartmanets for rent, Job Listings, Post Resume, Find People, Online Jobs, vacation rentals, and personals sales
+# Corkin - For Sale | Jobs | Rent | Free Listings
 
 ## Welcome to  Corkin.com
 
