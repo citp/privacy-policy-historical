@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bvp.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527021902id_/http%3A//www.bvp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bvp.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529005706id_/http%3A//www.bvp.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bessemer Venture Partners
 
@@ -40,4 +40,4 @@ Our Site and this Privacy Policy are intended to comply with U.S. law.  By prov
 
 **Contact Us**
 
-We welcome your questions and comments about privacy.  Please feel free to contact us by sending an e-mail to [privacy@bvp.com](mailto:privacy@bvp.com).
+We welcome your questions and comments about privacy.  Please feel free to contact us by sending an e-mail to _privacy@bvp.com_.
