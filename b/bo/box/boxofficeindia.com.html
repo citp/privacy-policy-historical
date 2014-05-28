@@ -1,307 +1,197 @@
-<!--The following is the downloaded HTML source of the boxofficeindia.com privacy policy that was archived on 2013-12-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131222184204id_/http%3A//boxofficeindia.com/cpages.php%3FpageName%3Dpolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the boxofficeindia.com privacy policy that was archived on 2014-05-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140528104249id_/http%3A//www.boxofficeindia.com/Details/pages/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Boxoffice</title>
+ <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript" src="/js/jquery-ui-1.10.3.custom.min.js"></script>
+<link rel="stylesheet" type="text/css" href="/assets/css/jquery.autocomplete.css">
+<link rel="stylesheet" type="text/css" href="/assets/css/layout.css">
+<link rel="stylesheet" type="text/css" href="/assets/css/common.css">
+<link rel="stylesheet" type="text/css" href="/assets/css/style.css">
 
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-
-<title>Boxofficeindia.com</title>
-
-<link href="style/style.css" rel="stylesheet" type="text/css">
-
-
-
-
-
-<style type="text/css">
-
-<!--
-
-.style12 {font-style: italic}
-
-.style16 {font-style: italic}
-
--->
-
-</style>
-
-<!-- ValueClick Media POP-UNDER CODE v1.8 for boxofficeindia.com (4 hour) -->
-
-
-
-<!-- Casale Media: Pop Under -->
-<script type="text/javascript"><!--
-var casaleD=new Date();var casaleR=(casaleD.getTime()%8673806982)+Math.random();
-var casaleU=escape(window.location.href);
-var casaleHost=' type="text/javascript" src="http://as.casalemedia.com/s?s=';
-document.write('<scr'+'ipt'+casaleHost+'82903&u=');
-document.write(casaleU+'&f=1&id='+casaleR+'"></scr'+'ipt>');
-//--></script><script type="text/javascript" src="http://as.casalemedia.com/s?s=82903&amp;u=https%3A//web.archive.org/web/20131222184204id_/http%253A//boxofficeindia.com/cpages.php%253FpageName%253Dpolicy&amp;f=1&amp;id=3500801961.576032"></script>
-<!-- DO NOT MODIFY -->
-
-<!-- ValueClick Media POP-UNDER CODE v1.8 for boxofficeindia.com -->
-
-
+	<script type="text/javascript">
+    $(document).ready(function($)
+    {
+        $('#search').autocomplete({
+            source: function(request, response) 
+            {
+                $.ajax({
+                         url: "/search.php",
+                         data: 
+                         {
+                            term: request.term,
+                            search_type: $("#search_type").val()
+                         },
+                          dataType: "json",                    
+                          success: function(data)
+                          {
+                              response(data);
+                          }
+                    });
+            },
+            minLength: 3,
+            select: function( event, ui )
+            {
+                window.location.href = ui.item.link;
+            }
+        }) .data("ui-autocomplete")._renderItem = function( ul, item ) 
+        {
+            if(item.banners !='')
+            {
+            return $( "<li class='ui-menu-item' role='presentation'>" )		
+            .append( "<a href='"+item.link+"'><div style='float:left; width:30px;vertical-align:top;'><img src='" + item.banners + "' width='30' height='40'></div><div style='vertical-align:top;float:left;padding-left:5px;'>" + item.value+" <br><span style='font-size:10px; font-color:#000; font-weight:normal'>"+ item.actor_name+"</p></div></a>").appendTo( ul );
+            
+            }else
+            {
+                return $( "<li class='ui-menu-item' role='presentation'>" )
+            .append( "<a href='"+item.link+"'><div style='vertical-align:top;float:left;padding-left:35px;'>" + item.value+" <br><span style='font-size:10px; font-color:#000; font-weight:normal'>"+ item.actor_name+"</p></div></a>").appendTo( ul );
+            }
+            
+        };
+    });
+    </script>
 
 </head>
-
-<body style="background-image:">
-
-<table style="background-color:#FFFFFF" width="1000" border="0" cellpadding="0" cellspacing="0">
-
- <tbody><tr>
-
-    <td style="width:272px"><table width="272" border="0" cellspacing="0" cellpadding="0">
-
-      <tbody><tr>
-
-        <td><a href="index.php"><img src="images/boxofficeindia-logo.jpg" alt="Boxofficeindia.com" border="0"></a></td>
-
-      </tr>
-
-      <tr>
-
-        <td align="center" class="text-black" style="height:20px"><span id="clock">Wednesday, February 19,&nbsp;2020&nbsp;&nbsp;&nbsp;5:34:33 PM </span>
-
-</td>
-
-      </tr>
-
-    </tbody></table></td>
-
-   
-
-  </tr>
-
-  <tr>
-
-    <td style="background-image:url(images/linksbg.jpg); background-position:center; background-repeat:repeat-x" colspan="2"><table width="1000" border="0" cellspacing="0" cellpadding="0">
-
-      <tbody><tr>
-
-         <td style="width:136px;"><img src="images/territories.jpg" alt="Boxofficeindia" width="136" height="41"></td>
-
-         <td class="territories" style="height:41px;">
-			<a href="showProd.php?itemCat=108&amp;catName=QUxMIElORElB" class=""> ALL INDIA</a>&nbsp;|
-
-			 
-
-			 
-			<a href="showProd.php?itemCat=109&amp;catName=TVVNQkFJ" class=""> MUMBAI</a>&nbsp;|
-
-			 
-
-			 
-			<a href="showProd.php?itemCat=111&amp;catName=REVMSEkvVVA=" class=""> DELHI/UP</a>&nbsp;|
-
-			 
-
-			 
-			<a href="showProd.php?itemCat=112&amp;catName=RUFTVCBQVU5KQUI=" class=""> EAST PUNJAB</a>&nbsp;|
-
-			 
-
-			 
-			<a href="showProd.php?itemCat=113&amp;catName=V0VTVCBCRU5HQUw=" class=""> WEST BENGAL</a>&nbsp;|
-
-			 
-
-			 
-			<a href="showProd.php?itemCat=114&amp;catName=QklIQVI=" class=""> BIHAR</a>&nbsp;|
-
-			 
-
-			 
-			<a href="showProd.php?itemCat=115&amp;catName=Q1AgQkVSQVI=" class=""> CP BERAR</a>&nbsp;|
-
-			 
-
-			 
-			<a href="showProd.php?itemCat=116&amp;catName=Q0k=" class=""> CI</a>&nbsp;|
-
-			 
-
-			 
-			<a href="showProd.php?itemCat=117&amp;catName=UkFKQVNUSEFO" class=""> RAJASTHAN</a>&nbsp;|
-
-			 
-
-			 
-			<a href="showProd.php?itemCat=118&amp;catName=TklaQU0=" class=""> NIZAM</a>&nbsp;|
-
-			 
-
-			 
-			<a href="showProd.php?itemCat=119&amp;catName=TVlTT1JF" class=""> MYSORE</a>&nbsp;|
-
-			 
-
-			 
-			<a href="showProd.php?itemCat=120&amp;catName=T1RIRVI=" class=""> OTHER</a>&nbsp;|
-
-			 
-
-			 </td>
-
-      </tr>
-
-    </tbody></table></td>
-
-  </tr>
-
-  <tr>
-
-    <td style="height:4px" colspan="2"></td>
-
-  </tr>
-
-  <tr>
-
-    <td colspan="2"></td>
-
-  </tr>
-
-  <tr>
-
-    <td colspan="2"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-
-      <tbody><tr>
-
-       
-
-        <td align="center" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-
-		<tbody><tr>
-
-			<td><table width="100%" border="0" cellspacing="0" cellpadding="0">
- 
- 			<tbody><tr>
-					<td height="32" class="headings" align="left" bgcolor="#009D92">&nbsp;</td>
-				</tr>
- 			 <tr>
-              <td bgcolor="#FFFFFF" class="text-black">&nbsp;</td>
-            </tr>
- 			
-            <tr>
-              <td width="100%" bgcolor="#FFFFFF" class="text-black"><div align="center"><center>
-<table id="AutoNumber1" style="BORDER-COLLAPSE: collapse" bordercolor="#111111" cellspacing="0" cellpadding="0" width="95%" border="0">
-    <tbody>
-        <tr>
-            <td style="BORDER-RIGHT: 0px solid; BORDER-TOP: 0px solid; BORDER-LEFT: 0px solid; BORDER-BOTTOM: 0px solid" align="left" width="100%" height="32"><strong><font face="Arial Black" color="#0000ff" size="4">PRIVACY POLICY</font></strong></td>
-        </tr>
-        <tr>
-            <td style="BORDER-RIGHT: 0px solid; BORDER-TOP: 0px solid; BORDER-LEFT: 0px solid; BORDER-BOTTOM: 0px solid" valign="top" align="left" width="100%" height="800">
-            <p style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px">&nbsp;</p>
-            <font face="Arial">
-            <p style="MARGIN-TOP: 1px; MARGIN-BOTTOM: 1px"><font face="Verdana" color="#000000" size="2"><strong style="FONT-WEIGHT: 400">BoxOfficeIndia.Com</strong> has created a privacy policy as it respects your privacy. We would like you to feel secure and comfortable using the website.</font></p>
-            <p style="MARGIN-TOP: 1px; MARGIN-BOTTOM: 1px"><font face="Verdana" color="#000000" size="2">&nbsp;</font></p>
-            <p style="MARGIN-TOP: 1px; MARGIN-BOTTOM: 1px"><strong><font face="Verdana" color="#000000" size="2">Information Automatically Logged</font></strong></p>
-            <p style="MARGIN-TOP: 1px; MARGIN-BOTTOM: 1px"><font face="Verdana" color="#000000" size="2">We use your&nbsp; IP address to help diagnose problems with our server and to administer our Web site. It is used to collect demographic information and the amount of traffic we are receiving.</font></p>
-            <p style="MARGIN-TOP: 1px; MARGIN-BOTTOM: 1px"><font face="Verdana" color="#000000" size="2">&nbsp;</font></p>
-            <p style="MARGIN-TOP: 1px; MARGIN-BOTTOM: 1px"><strong><font face="Verdana" color="#000000" size="2">Cookies</font></strong></p>
-            <p style="MARGIN-TOP: 1px; MARGIN-BOTTOM: 1px"><font face="Verdana" color="#000000" size="2">Our Site uses cookies to keep track of traffic for web site analysis.</font></p>
-            <p style="MARGIN-TOP: 1px; MARGIN-BOTTOM: 1px"><font face="Verdana" color="#000000" size="2">&nbsp;</font></p>
-            <p style="MARGIN-TOP: 1px; MARGIN-BOTTOM: 1px"><strong><font face="Verdana" color="#000000" size="2">Advertisers</font></strong></p>
-            <p style="MARGIN-TOP: 1px; MARGIN-BOTTOM: 1px"><font face="Verdana" color="#000000" size="2">We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies,&nbsp;you can visit&nbsp;<font face="Times New Roman,serif" size="3"><span style="FONT-SIZE: 12pt"><a target="_blank" href="http://www.networkadvertising.org/"><font face="Calibri,sans-serif" color="#0000ff" size="2"><span style="FONT-SIZE: 11pt">www.networkadvertising.org</span></font></a></span></font></font></p>
-            <p style="MARGIN-TOP: 1px; MARGIN-BOTTOM: 1px"><font face="Verdana" color="#000000" size="2">&nbsp;</font></p>
-            <p style="MARGIN-TOP: 1px; MARGIN-BOTTOM: 1px"><strong><font face="Verdana" color="#000000" size="2">External links</font></strong></p>
-            <p style="MARGIN-TOP: 1px; MARGIN-BOTTOM: 1px"><font face="Verdana" color="#000000" size="2">This site contains links to other sites. <strong>BoxOfficeIndia.Com </strong>is not responsible for the privacy practices or the content of such web sites.</font></p>
-            <p style="MARGIN-TOP: 1px; MARGIN-BOTTOM: 1px"><font face="Verdana" color="#000000" size="2">&nbsp;</font></p>
-            <p style="MARGIN-TOP: 1px; MARGIN-BOTTOM: 1px"><strong><font face="Verdana" color="#000000" size="2">Contacting the Web Site</font></strong></p>
-            <p style="MARGIN-TOP: 1px; MARGIN-BOTTOM: 1px"><font face="Verdana" color="#000000" size="2">If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us at feedback@boxofficeindia.com</font></p>
-            </font>
-            <p>&nbsp;</p>
-            </td>
-        </tr>
-    </tbody>
-</table>
-</center></div></td>
-            </tr>
-            <tr>
-              <td bgcolor="#FFFFFF" class="text-black">&nbsp;</td>
-            </tr>
-            <tr>
-              <td bgcolor="#FFFFFF" class="text-black" align="left">&nbsp;</td>
-            </tr>
-            <tr>
-              <td bgcolor="#FFFFFF" class="text-black" align="left"></td>
-            </tr>
-            <tr>
-              <td bgcolor="#FFFFFF" class="text-black">&nbsp;</td>
-            </tr>
-            <tr>
-              <td bgcolor="#FFFFFF" class="text-black">&nbsp;</td>
-            </tr>
-        
-			
-			<tr><td class="text-black"></td></tr>
-  </tbody></table>
-
-
-			</td>
-
-		</tr>
-
-		
-
-		</tbody></table></td>
-
-      
-
-      </tr>
-
-    </tbody></table></td>
-
-  </tr>
-
-  <tr>
-
-    <td colspan="2"><table cellpadding="0" cellspacing="0" width="100%">
-
-	<tbody><tr>
-
-	  <td height="26" align="center">&nbsp;</td>
-
-  </tr>
-
-	<tr bgcolor="#4DC6D9">
-
-		<td height="26" align="center" class="text-black"><a href="cpages.php?pageName=about">About Us</a> | <a href="cpages.php?pageName=policy">Privacy Policy</a> | <a href="cpages.php?pageName=disc">Disclaimer</a> | <a href="feedback.php">Feedback</a> | <a href="cpages.php?pageName=contact">Contact Us</a> | <span style="cursor:hand;" onclick="window.external.AddFavorite(location.href,document.title);" class="text-black">
-
-	Add to Favourites</span></td>
-
-	  </tr>
-
-	  
-
- <tr>
-
-		<td align="center" class="text-black"><p>Copyright 2011 © BoxOfficeIndia.Com. All Rights Reserved. All data and articles on this website <br>
-may not be published, rewritten or redistributed without prior consent.</p></td>
-
-	  </tr>
-
-	  
-
-	  <tr>
-
-		<td align="center" class="text-black"></td>
-
-	  </tr>
-
-	  <tr>
-
-		<td align="center" class="text-black">&nbsp;</td>
-
-	  </tr>
-
-</tbody></table>
-
-</td>
-
-  </tr>
-
-</tbody></table>
+<body>
+<div id="page">
+	<div class="wrapper">
+    	<div id="wrap_content">
+			<div id="head">
+            	<a href="/Boxoffice/homepage">
+            	<div class="logo">
+			<div class="date" style="margin:103px 0 0 0px; font-weight:bold; font-size:11px; color:#fff; font-weight:bold; font-family:Verdana, Geneva, sans-serif; text-align:center; text-transform:capitalize;">Wednesday May 28 2014</div>        </div>
+                </a>
+               <div class="sstrip_news"><marquee><p><span style="color: rgb(255, 255, 255);"> Box Office Collections Section Update: Dedh Ishqiya Second Week Territorial Breakdown</span></p></marquee> </div>
+               <div class="ad"><script type="text/javascript"><!--
+
+google_ad_client = "pub-3758174372099805";
+
+/* 728x90, created 3/2/10 */
+
+google_ad_slot = "3073281750";
+
+google_ad_width = 728;
+
+google_ad_height = 90;
+
+//-->
+
+</script>
+
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+				<div class="follow_us">
+                    <a href="https://twitter.com/Box_Off_India" target="_blank">
+                    	<img src="/assets/img/twitter.png" class="twitter">
+                    </a>
+                                       	<a href="/Subdetails/sign_up"><img src="/assets/img/register.jpg" class="header_register"></a>
+                    	<a href="/Subdetails/sign_up"><img src="/assets/img/suscribe.jpg" class="header_subscribe"></a>
+                           			</div>
+        		<!-- AddThis Button BEGIN -->
+        		<div class="search-bar">
+              		<div class="search">
+                  		<form action="/Boxoffice/search_result" method="post" name="search">
+                            <div class="search-wrap">
+                                <input name="r" id="search" type="text" class="search_input" placeholder="Click Here to Enter Search">
+               					<input type="hidden" name="type_val" id="type_val" value="All">                           
+                            </div>
+							<div class="search_bar1">
+                                <select name="s" id="search_type">
+                                     <option value="all">All</option>
+                                      <option value="actors">Actors</option>
+                                      <option value="movies">Movies</option>
+                                       <option value="banners">Banners</option>
+                                </select>
+							</div>
+              				<input name="icon" type="image" src="/assets/img/submit.png" style="margin-left: 10px; ">
+                        </form>
+                    </div>
+                                             <div class="login">
+                            <form action="/Subdetails/dologin" method="post" name="frmAddUser1">
+                                <input name="loginUname" type="text" value="Username" onblur="if(this.value == '') this.value='Username';" onfocus="if (this.value == 'Username') this.value=''">
+                                <input name="loginUpass" type="password" value="Password" onblur="if(this.value == '') this.value='Password';" onfocus="if (this.value == 'Password') this.value=''">
+                                <input type="hidden" value="loginCheck" name="process">
+                                <input type="image" name="submit" value="submit" src="/assets/img/login.png">
+                           </form>                       
+                        </div>
+                                  </div>
+                
+</div>
+
+        	<div class="inner_wrap news_page">
+                <div class="pageCnt">
+                    <div class="mainCnt">
+                    	<!-- Snippet===================================-->
+                        <!-- Right ad 160x600===================================-->
+                        <div class="ad rightAd">
+                           <script type="text/javascript"><!--
+google_ad_client = "pub-3758174372099805";
+/* 160x600, created 2/27/10 */
+google_ad_slot = "4520137730";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+                        </div>
+                        <!-- Left Column===================================-->
+                        <div id="leftColumn">
+                          <div class="ad leftAd"><script src="http://tag.contextweb.com/TagPublish/getjs.aspx?action=VIEWAD&amp;cwrun=200&amp;cwadformat=160X600&amp;cwpid=513822&amp;cwwidth=160&amp;cwheight=600&amp;cwpnet=1&amp;cwtagid=52511"></script></div>
+                        </div>
+                        <!-- Middle Column===================================-->
+                        <div id="middleColumn" class="border news">
+                                <div class="title4">Privacy Policy </div>
+                            	<div class="block reports text">                            
+                            		<div style="width:100%"><right>
+<div class="text" style="width:99%;font-size:13px;">
+<p>Box Office India has created a privacy policy as it respects your privacy. We would like you to feel secure and comfortable using the website.</p>
+<p>&nbsp;</p>
+<p><b>Information Automatically Logged </b></p>
+<p>We use your IP address to help diagnose problems with our server and to  administer our Web site. It is used to collect demographic information and the  amount of traffic we are receiving.</p>
+<p>&nbsp;</p>
+<p><b>Cookies </b></p>
+<p>Our Site uses cookies to keep track of traffic for web site analysis.</p>
+<p>&nbsp;</p>
+<p><b>Advertisers </b></p>
+<p>We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, you can visit <a href="http://www.networkadvertising.org">www.networkadvertising.org</a></p>
+<p>&nbsp;</p>
+<p><b>External links </b></p>
+<p>This site contains links to other sites. BoxOfficeIndia.Com is not responsible for the privacy practices or the content of such web sites.</p>
+<p>&nbsp;</p>
+<p><b>Contacting the Web Site </b></p>
+<p>If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us at admin@boxofficeindia.com</p>
+<p>&nbsp;</p>
+<div style="width:100%">&nbsp;</div>
+</div>
+</right></div>
+								</div>
+                            	<div class="clearfix"></div>
+                            	<div class="divider"></div>
+                        </div>
+                    <!-- Earning Records==================================-->
+                    <div class="clearfix">&nbsp;</div>
+        	</div>            
+			<!------------------------------- footer area start here ----------------------------------------->  
+    	</div>
+        <div class="clearfix">&nbsp;</div>       
+    </div>
+     <div id="footer" style="margin-top:40px;">
+     <div class="footerCnt">
+           <div class="nav">
+                <a href="/Details/pages/about_us">About Us</a> | 
+                <a href="/Details/pages/privacy_policy">Privacy Policy</a> | 
+                <a href="/Details/pages/disclaimer">Disclaimer</a> | 
+                <a href="/Details/pages/contact_us">Contact Us</a> |
+                <a href="/Details/pages/faq">FAQ</a> |
+                <a href="/Details/pages/glossary">Glossary</a>
+            </div>
+           <p>Copyright 2013 © BoxOfficeIndia.Com. All Rights Reserved. All data and articles on this website <br>
+           may not be published, rewritten or redistributed without prior consent.</p>
+     </div>
+</div>
 
 <script type="text/javascript">
 
@@ -322,10 +212,7 @@ pageTracker._trackPageview();
 </script>
 
 
+</div>
 
 
-
-
-
-
-</body></html>
+</div></div></body></html>
