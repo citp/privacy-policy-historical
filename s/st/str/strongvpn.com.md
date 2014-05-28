@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the strongvpn.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104080143id_/http%3A//privacy-policy.truste.com/verified-policy/www.strongvpn.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strongvpn.com privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528211954id_/http%3A//privacy-policy.truste.com/verified-policy/www.strongvpn.com) for the most accurate reproduction.*
 
 # Privacy Policy for www.strongvpn.com
 
 Effective on December 30, 2010 
 
-This privacy statement describes how Reliablehosting.com / Strongvpn.com collects and uses the personal information you provide on our Web site: [www.strongvpn.com ](http://www.strongvpn.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy statement describes how Reliablehosting.com / Strongvpn.com collects and uses the personal information you provide on our Web site: [www.strongvpn.com ](https://www.strongvpn.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 **TRUSTe**
 
@@ -93,6 +93,8 @@ Our Site includes links to other Web sites whose privacy practices may differ fr
 When we collect personal information directly from you, we follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [webmaster@reliablehosting.com ](mailto:webmaster@reliablehosting.com)
 
 In order to make a purchase from us, you must use our shopping cart provider to finalize and pay for your order. Its privacy statement and security practices will also apply to your information. We encourage you to read that privacy statement before providing your information.
+
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [webmaster@reliablehosting.com](mailto:webmaster@reliablehosting.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
 ## Additional Policy Information
 
