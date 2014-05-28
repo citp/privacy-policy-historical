@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edcite.com privacy policy that was archived on 2013-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130825074854id_/http%3A//www.edcite.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edcite.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529002107id_/http%3A//edcite.com/help/privacy.html) for the most accurate reproduction.*
 
 # Edcite Privacy Policy
 
