@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lssproducts.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030174148id_/http%3A//www.lssproducts.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lssproducts.com privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528135212id_/http%3A//www.lssproducts.com/privacy) for the most accurate reproduction.*
 
 # Low Vision Aids | Hard of Hearing | Magnifiers | Assistive Technology - LS&S Products
 
