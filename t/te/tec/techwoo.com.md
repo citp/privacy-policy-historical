@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techwoo.com privacy policy that was archived on 2013-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130731112800id_/http%3A//www.buxup.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techwoo.com privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528064550id_/http%3A//buxup.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | BuxUp | Web Design | Online Marketing & Advertising | Systems & Software Development
+# BuxUp | Privacy Policy
 
 **Privacy Policy**
 
@@ -14,15 +14,15 @@ For the purpose of the Data Protection Act 1998 ( **“the 1998 Act”** ), the 
 
 We can collect and process the following data about you:
 
--          Information that you provide by filling in forms on our website www.buxup.com ( **“Our Website”** ). This includes information provided at the time of registering to use Our Website, subscribing to our service, our newsletter, posting material or requesting further services. We may also ask you for information when you report a problem with Our Website;
+\- Information that you provide by filling in forms on our website www.buxup.com ( **“Our Website”** ). This includes information provided at the time of registering to use Our Website, subscribing to our service, our newsletter, posting material or requesting further services. We may also ask you for information when you report a problem with Our Website;
 
--          Information the you provide to us when you contact us. We may make and keep a record of the information you share with us;
+\- Information the you provide to us when you contact us. We may make and keep a record of the information you share with us;
 
--          Information that you provide to us by completing surveys or participating in competitions. We may ask you to complete surveys that we use for research purposes, although you do not have to respond to them;
+\- Information that you provide to us by completing surveys or participating in competitions. We may ask you to complete surveys that we use for research purposes, although you do not have to respond to them;
 
--          Details of transactions you carry out through Our Website or otherwise with us and of the fulfilment of your orders with third parties concluded through Our Website or otherwise; and
+\- Details of transactions you carry out through Our Website or otherwise with us and of the fulfilment of your orders with third parties concluded through Our Website or otherwise; and
 
--          Details of your visits to Our Website including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.
+\- Details of your visits to Our Website including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.
 
 **COOKIES** **AND IP ADDRESSES**
 
@@ -48,17 +48,17 @@ Unfortunately, the transmission of information via the internet is not completel
 
 We use information held about you in the following ways:
 
--          To ensure that content from Our Website is presented in the most effective manner for you and for your computer;
+\- To ensure that content from Our Website is presented in the most effective manner for you and for your computer;
 
--          To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes;
+\- To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes;
 
--          To carry out our obligations and enforce our rights arising from any contracts entered into between you and us;
+\- To carry out our obligations and enforce our rights arising from any contracts entered into between you and us;
 
--          To allow you to participate in interactive features of our service, when you choose to do so;
+\- To allow you to participate in interactive features of our service, when you choose to do so;
 
--          To notify you about changes to Our Website, goods and/or services; and
+\- To notify you about changes to Our Website, goods and/or services; and
 
--          We may also use your data, or permit selected third parties to use your data, to provide you with information about goods and services which may be of interest to you and we or they may contact you about these. If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale to you via Our Website. We will not otherwise contact you by electronic means to provide you with information about goods and services which may be of interest to you, unless you have consented to this. If you are a new customer, and where we permit selected third parties to use your data, we (or they) will only contact you by electronic means to provide you with information about goods and services which may be of interest to you if you have consented to this.
+\- We may also use your data, or permit selected third parties to use your data, to provide you with information about goods and services which may be of interest to you and we or they may contact you about these. If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale to you via Our Website. We will not otherwise contact you by electronic means to provide you with information about goods and services which may be of interest to you, unless you have consented to this. If you are a new customer, and where we permit selected third parties to use your data, we (or they) will only contact you by electronic means to provide you with information about goods and services which may be of interest to you if you have consented to this.
 
 If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data;
 
@@ -72,15 +72,15 @@ We may also use your data, or permit selected third parties to use your data, to
 
 We may disclose your personal information to third parties:
 
--          In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
+\- In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
 
--          If we or substantially all of our assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
+\- If we or substantially all of our assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
 
--          If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our Website Terms of Use and/or other agreements; or to protect the rights, property, or safety of us, our customers, or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and prevention, credit risk reduction and to pursue debtors.
+\- If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our Website Terms of Use and/or other agreements; or to protect the rights, property, or safety of us, our customers, or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and prevention, credit risk reduction and to pursue debtors.
 
--          If we use a third party to host the servers on which your personal information is stored.
+\- If we use a third party to host the servers on which your personal information is stored.
 
--          In any other manner mentioned elsewhere in this policy.
+\- In any other manner mentioned elsewhere in this policy.
 
 **YOUR RIGHTS**
 
