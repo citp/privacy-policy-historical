@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hasbrotoyshop.com privacy policy that was archived on 2013-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131016082234id_/http%3A//www.hasbro.com/home/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hasbrotoyshop.com privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528091700id_/http%3A//www.hasbro.com/home/privacy.html) for the most accurate reproduction.*
 
 # HASBRO WEB SITE PRIVACY POLICY
 
@@ -10,7 +10,7 @@
 
 This Privacy Policy ("Policy") explains how Hasbro, Inc. and its subsidiaries and affiliated companies that operate within the United States ("Hasbro") collect, use and disclose your personal information. This Policy applies to information we collect when you use our websites, mobile applications and other online products and services where this Policy is posted (collectively, the "Services").
 
-Hasbro has been awarded TRUSTe's Web Privacy and Children's Privacy Seal signifying that this Privacy Policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's certification covers all Hasbro websites that link to this privacy policy. At this time, the TRUSTe program does not cover information that may be collected through our mobile websites, but does cover information collected through our mobile applications listed [here](https://web.archive.org/web/20131016082234id_/http%3A//www.hasbro.com/home/MobileAppsList.html). TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our Policy or privacy practices, please contact us at hasbroregistration@hasbro.com. If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
+Hasbro has been awarded TRUSTe's Web Privacy and Children's Privacy Seal signifying that this Privacy Policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's certification covers all Hasbro websites that link to this privacy policy. At this time, the TRUSTe program does not cover information that may be collected through our mobile websites, but does cover information collected through our mobile applications listed [here](https://web.archive.org/web/20140528091700id_/http%3A//www.hasbro.com/home/MobileAppsList.html). TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our Policy or privacy practices, please contact us at hasbroregistration@hasbro.com. If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
 
 If you are a parent or guardian and are interested in knowing more about Hasbro's policy regarding the collection of information from children, we recommend reviewing the Note To Parents below.
 
@@ -42,7 +42,7 @@ We may associate the information we collect from these technologies with other p
 
 We may also obtain information from other sources and combine that with information we collect through our Services. For example, if you create or log into your account through a third-party social networking site, we will have access to certain information from that site, such as your name, account info and friends, in accordance with the authorization procedures determined by such third-party social networking site.
 
-For a list of third party partners we have integrated on our site please click [HERE](https://web.archive.org/web/20131016082234id_/http%3A//www.hasbro.com/home/ThirdPartiesList.html). If you have any inquiries regarding our partner's privacy practices or how they use your child's personal information, please contact us directly at hasbroregistration@hasbro.com.
+For a list of third party partners we have integrated on our site please click [HERE](https://web.archive.org/web/20140528091700id_/http%3A//www.hasbro.com/home/ThirdPartiesList.html). If you have any inquiries regarding our partner's privacy practices or how they use your child's personal information, please contact us directly at hasbroregistration@hasbro.com.
 
 ### Website Analytics
 
@@ -95,7 +95,7 @@ We do not share your personal information with third parties other than as descr
 
   * With third party vendors, consultants and other service providers who are working on our behalf and need access to your information to carry out their work for us. These entities have agreed to maintain the confidentiality, security, and integrity of the personal information they obtain from us, and, unless we notify you otherwise and provide you with an opportunity to opt-out, will not use your personal information for any purpose other than as described in this Policy.
 
-  * When we believe it is necessary or appropriate to (i) comply with applicable law or legal process or to respond to lawful requests or legal authorities; (ii) protect the rights and property of Hasbro and our employees, agents, users and other third parties, including to enforce our agreements, policies and [Terms and Conditions of Use ](https://web.archive.org/web/20131016082234id_/http%3A//www.hasbro.com/home/terms.html) and protect against fraudulent, abusive, inappropriate, or unlawful use of our Services; and (iii) protect the safety of Hasbro our users or any third party; and
+  * When we believe it is necessary or appropriate to (i) comply with applicable law or legal process or to respond to lawful requests or legal authorities; (ii) protect the rights and property of Hasbro and our employees, agents, users and other third parties, including to enforce our agreements, policies and [Terms and Conditions of Use ](https://web.archive.org/web/20140528091700id_/http%3A//www.hasbro.com/home/terms.html) and protect against fraudulent, abusive, inappropriate, or unlawful use of our Services; and (iii) protect the safety of Hasbro our users or any third party; and
 
   * In connection with, or during negotiations of, any merger, sale of company assets, bankruptcy or reorganization, financing or acquisition of all or a portion of our business to another company.
 
@@ -150,7 +150,7 @@ Pawtucket, RI 02861
 
 hasbroregistration@hasbro.com 
 
-For additional information about our Services, please see our [ Terms and Conditions of Use](https://web.archive.org/web/20131016082234id_/http%3A//www.hasbro.com/home/terms.html).
+For additional information about our Services, please see our [ Terms and Conditions of Use](https://web.archive.org/web/20140528091700id_/http%3A//www.hasbro.com/home/terms.html).
 
 ### NOTE TO PARENTS
 
