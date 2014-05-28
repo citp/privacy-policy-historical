@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dollar2host.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119135823id_/http%3A//dollar2host.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dollar2host.com privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528222152id_/http%3A//dollar2host.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Welcome to Dollar2Host.com | Unlimited Domain Hosting | Unlimited Web Space Hosting | Unlimited Bandwidth Hosting | Cheap WebHosting | Reliable Hosting | Affordable Hosting | Cpanel Hosting | Linux Hosting | Unlimited Reseller Hosting | Dedicated Server Hosting
 
