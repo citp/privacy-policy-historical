@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the telmar.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209141253id_/http%3A//www.telmar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telmar.com privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528092455id_/http%3A//www.telmar.com/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY |
+# PRIVACY POLICY | Data Integration and Media Planning Services
 
 **Telmar.com Privacy Policy**  
 Effective September 1, 2009
