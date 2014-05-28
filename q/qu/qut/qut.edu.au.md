@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qut.edu.au privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231001015id_/http%3A//www.qut.edu.au/additional/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qut.edu.au privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528174116id_/http%3A//www.qut.edu.au/additional/privacy) for the most accurate reproduction.*
 
 # QUT - Privacy
 
@@ -26,7 +26,7 @@ How we manage the privacy of personal information - [Information Privacy](http:/
 
 ## Privacy enquiries
 
-If you have any questions about our privacy and information security practices, you can contact the [QUT Privacy Officer](http://www.qut.edu.au/about/contact/q/qut-privacy-officer).
+If you have any questions about our privacy and information security practices, you can contact the [QUT Privacy Officer](https://www.qut.edu.au/about/contact/q/qut-privacy-officer).
 
 ## Cookies and site usage
 
@@ -66,7 +66,7 @@ When you visit QUT's website, we make a record of your visit using "single pixel
 
 We have particular practices regarding the information we collect from our students.
 
-[Student privacy at QUT](http://www.qut.edu.au/additional/privacy/student-privacy-at-qut)
+[Student privacy at QUT](https://www.qut.edu.au/additional/privacy/student-privacy-at-qut)
 
 ## International enquiries privacy
 
@@ -74,4 +74,4 @@ QUT is commited to protecting the privacy of personal information in accordance 
 
 Please be aware that QUT uses a third party agent, based in Australia, to host this online enquiry web form and respond to international student enquiries. This agent is contractually bound to treat any personal information with the same level of privacy protection as QUT. In using this site you acknowledge that it may be necessary for the agent to have access to personal information in order to perform its contract with QUT. Staff of the agent or QUT will not otherwise disclose your personal information to third parties without your consent, except in response to legal requirements.
 
-[International enquiries form](http://www.qut.edu.au/international/enquire)
+[International enquiries form](https://www.qut.edu.au/international/enquire)
