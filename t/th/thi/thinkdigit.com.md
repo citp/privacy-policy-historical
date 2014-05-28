@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thinkdigit.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231021631id_/http%3A//www.thinkdigit.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkdigit.com privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528193713id_/http%3A//www.thinkdigit.com/privacy-policy.php) for the most accurate reproduction.*
 
 # PrivacyPolicy - Thinkdigit.com
 
@@ -32,6 +32,7 @@ You consent to the use of your personal information by Thinkdigit.com and/or its
   
 
   10. Thinkdigit is not responsible for third party content accessible through the Site, including opinions, advice, statements and advertisements, and user shall bear all risks associated with the use of such content. Thinkdigit is not responsible for any loss or damage of any sort user may incur from dealing with any third party. 
+  11. Content Need to added: We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies,[please see](http://www.networkadvertising.org/managing/opt_out.asp)
 
 
 
