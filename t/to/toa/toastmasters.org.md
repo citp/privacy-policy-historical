@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toastmasters.org privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022012421id_/http%3A//www.toastmasters.org/FooterMenuCategories/PrivacyPolicy_1.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toastmasters.org privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528134450id_/http%3A//www.toastmasters.org/FooterMenuCategories/PrivacyPolicy_1.aspx) for the most accurate reproduction.*
 
 # Toastmasters International - Privacy Policy
 
