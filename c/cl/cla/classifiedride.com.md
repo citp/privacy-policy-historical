@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classifiedride.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226134710id_/http%3A//www.classifiedride.com/content/load/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classifiedride.com privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528180714id_/http%3A//www.classifiedride.com/content/load/privacy) for the most accurate reproduction.*
 
 # Classified Ride - AUTOMOTIVE CLASSIFIEDS -ClassifiedRide.Com
 
