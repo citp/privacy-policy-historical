@@ -1,57 +1,52 @@
-> *The following text is extracted and transformed from the musichostnetwork.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230193545id_/http%3A//www.musichostnetwork.com/%3Ft%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musichostnetwork.com privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528094705id_/http%3A//musichostnetwork.com/privacy-policy) for the most accurate reproduction.*
 
-# Music Host Network Digital music distribution for independent artist. | Privacy Policy
+# Privacy Policy » Music Host Network
 
-## Privacy Policy
+What information do we collect?
 
-We want you to know that we value your privacy, accordingly we have set out this policy that states clearly how we use and store personal information.
+Google, as a third party vendor, uses cookies to serve ads on your site.  
+Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
+Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
 
-IMPORTANT: BY USING THIS WEBSITE YOU GIVE YOUR CONSENT THAT ALL PERSONAL DATA SUBMITTED BY YOU MAY BE PROCESSED BY US FOR THE PURPOSES SET OUT BELOW
+What do we use your information for?
 
-**1\. COMPLIANCE**  
-We comply with the United Kingdom Data Protection Act 1998. To access current Data Protection legislation materials, click [here](http://www.informationcommissioner.gov.uk/).
+Any of the information we collect from you may be used in one of the following ways:
 
-**2\. PRIVACY**  
-We take care to protect the privacy of our customers. This policy explains how we process information about website visitors and those registered with us.
+; To process transactions
 
-**3\. WEBSITE DATA COLLECTION**  
-Personal information is collated and stored primarily during the registration process, but is also monitored when there is activity on your account and when you use the website. As with many other websites, we may use software known as 'cookies' to store information relating to your preferences to enable us to improve our service to you.
+> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested. 
 
-**4\. YOUR PERSONAL DATA**  
-Personal data submitted by you to this website will be used for the following purposes only. We will only collect and retain personal data to the extent that it is strictly necessary for our purposes. These purposes are; To assist us in setting up and managing your account. To build up an accurate customer profile of you, in order to make available to you promotional or relevant information from us;
+Do we use cookies?
 
-If you have registered with this website and do not wish to receive promotional or relevant information then please "Login", and "Update your details" to opt out.
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
 
-**5\. DISCLOSURE OF YOUR PERSONAL DATA**  
-Personal data which we collect about you when you visit this site will be disclosed only to the following types of persons:
+Do we disclose any information to outside parties?
 
-a). Any company or other entity to whom we may sell all or part of our business;
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-b). Any competent legal, regulatory or law enforcement authority. In the latter case, you will not be informed of any disclosure nor of any reasons for such disclosure and you hereby waive any and all rights that you may have, whether at law or otherwise, of any nature and in any jurisdiction, in connection with such disclosure;
+Childrens Online Privacy Protection Act Compliance
 
-c). Our professional advisers or other appropriate third parties, if your use of our service or this website is in breach of these terms and conditions.
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
+Terms and Conditions
 
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://musichostnetwork.com](http://web.archive.org/web/20131221115433/http://musichostnetwork.com/)
 
+Your Consent
 
-**6\. DATA ACCESS & CORRECTIONS**  
-Upon receipt of your written request which should be addressed to The Data Protection Officer, we will disclose to you your personal data held by us, we shall correct or delete inaccurate details. Changes to certain parts of your account information can also be made by accessing "Login" and checking "Update your details". We regularly delete data which is no longer required.
+By using our site, you consent to our [web site privacy policy](http://web.archive.org/web/20131221115433/http://www.freeprivacypolicy.com/).
 
-**7\. TRANS-BORDER DATA TRANSFERS**  
-No transfers of your personal data are currently made outside of the European Economic Area. However, we reserve the right to relocate our web servers to a secure location outside the EEA in the future. If we do this, we will enter into agreements requiring the guardians of your personal data to adhere to standards of data protection substantially similar to those prevailing in the European Economic Area. However, the Internet is made up of a large variety of international connections and if you are visiting this website the various communications may well result in the temporary transfer of information outside the European Economic Area other than pursuant to contractual arrangements made by us. By visiting the website and communicating electronically with us you consent to these transfers.
+Contacting Us
 
-**8\. GOOGLE ADVERTISING COOKIE**  
+If there are any questions regarding this privacy policy you may contact us using the information below.
 
+http://musichostnetwork.com
 
-  * Google, as a third-party vendor, uses cookies to serve ads on your site. 
-  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. 
-  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.co.uk/privacy_ads.html). 
+Detroit, Michigan 48174  
+U.S.A  
+admin@musichostnetwork.com
 
+This policy is powered by Free Privacy Policy and Rhino Support. Compare Rhino Support to [Zen desk](http://web.archive.org/web/20131221115433/http://www.rhinosupport.com/zendesk.htm) and save!
 
+  
 
-**9\. GOVERNING LAW AND DISPUTES**  
-This policy and consent forms part of our website terms of use and as such it shall be governed by and construed in accordance with the laws of England and Wales. You irrevocably agree that the courts of England and Wales shall have exclusive jurisdiction to resolve any dispute or claim of whatever nature arising out of or relating to this policy and consent or otherwise to the use of your personal data, and that the laws of England and Wales shall govern such dispute or claim. However, we retain the right to bring legal proceedings in any jurisdiction where we believe that infringement of our intellectual property rights or breach of those terms is taking place or originating. You are responsible for compliance with any applicable laws and regulations of the jurisdiction from which you are accessing this website. We operate this website from England and make no representation or warranty that the information contained herein is appropriate or available for use in other locations outside England and Wales.
-
-If you have any questions or comments about our privacy policy, please send your feedback using the contact system in the main window.
-
-Close Window | Print this page
