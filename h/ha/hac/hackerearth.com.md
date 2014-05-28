@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hackerearth.com privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111163831id_/http%3A//www.hackerearth.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hackerearth.com privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528030113id_/http%3A//www.hackerearth.com/privacy) for the most accurate reproduction.*
 
 # HackerEarth | Privacy
 
@@ -32,6 +32,8 @@ The User assumes responsibility for the Personal Data of third parties published
 The Data Controller processes the Data of the Interested Parties and Users in a lawful and proper manner and shall take appropriate security measures to prevent unauthorized access, disclosure, modification or unauthorized destruction of the Data. Processing is carried out using computers and / or telematic means, with organizational methods and logics strictly related to the stated purposes.
 
 In addition to the owner, in some cases, access to the Data may be available to external parties (such as third party technical service providers, mail carriers, hosting providers, IT companies, communications agencies). The updated list of Managers may be requested from the Owner at any time.
+
+The data controller can process the data collected on any of the properties of Hackerearth on any other properties. The three properties of HackerEarth are [hackerearth.com](http://www.hackerearth.com/), [learn.hackerearth.com](http://learn.hackerearth.com/) and [code.hackerearth.com](https://web.archive.org/web/20140528030113id_/http://www.hackerearth.com/privacy/code.hackerearth.com).
 
 ### Place
 
