@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the applevacations.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523093806id_/http%3A//www.book.applevacations.com/aboutus.do%3Fcommand%3DshowPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the applevacations.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529012953id_/http%3A//www.book.applevacations.com/aboutus.do%3Fcommand%3DshowPrivacyPolicy) for the most accurate reproduction.*
 
 # Apple Vacations - About Us / Careers
 
