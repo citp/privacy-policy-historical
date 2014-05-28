@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the allthetopbananas.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126130913id_/http%3A//www.allthetopbananas.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allthetopbananas.com privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528140555id_/http%3A//www.allthetopbananas.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - AllTheTopBananas.com
-
-And here is the legal privacy stuff...
 
 **PROTECTION NOTICE & COOKIE POLICY**
 
