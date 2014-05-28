@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pozible.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423131910id_/http%3A//www.pozible.com/help/i/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pozible.com privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528073052id_/http%3A//www.pozible.com/help/i/privacy_policy) for the most accurate reproduction.*
 
 # Pozible | Crowdfunding Creativity
 
@@ -10,13 +10,9 @@ Questions regarding this statement should be directed to Pozible by sending emai
 
 This Privacy Policy contains a number of references to other information pages on our Site and other websites. Please note: underlined words and phrases are click-through links to these pages and websites. Pozible strongly recommends that as you read this Privacy Policy, you click on such links to obtain further important details about the Privacy Policy, as they may contain further terms and conditions which apply to you as a Pozible account holder. 
 
-**1\. An Important Note About Children.**
+**1\. An Important Note About Children.** Children (persons under the age of 18 years) are not eligible to use our services unsupervised and we ask that children do not submit any personal information to us. If you are under the age of 18 years, you can use this service only in conjunction with and under the supervision of your parents or guardians. 
 
-Children (persons under the age of 18 years) are not eligible to use our services unsupervised and we ask that children do not submit any personal information to us. If you are under the age of 18 years, you can use this service only in conjunction with and under the supervision of your parents or guardians. 
-
-**2\. Information We Collect**
-
-Our primary purpose in collecting personal information is to provide you with a smooth, efficient, safe and customised trading experience. This allows us to provide services and features that most likely meet your needs, and to customise our services to make your experience safer and easier. We only collect personal information about you that we consider necessary for this purpose and to achieve this goal. 
+**2\. Information We Collect** Our primary purpose in collecting personal information is to provide you with a smooth, efficient, safe and customised trading experience. This allows us to provide services and features that most likely meet your needs, and to customise our services to make your experience safer and easier. We only collect personal information about you that we consider necessary for this purpose and to achieve this goal. 
 
 To fully use our services, you will need to register using our online registration form, where you will be required to provide us with your contact information and other personal information. You are required to provide us with your full name. Under some circumstances we may require some additional necessary financial information, such as, but not limited to: if you are registering using an email account at a free email service, or posting a project on our site. We use your financial information, including credit card information to verify your name, address, and other contact information. 
 
@@ -38,9 +34,11 @@ If you register for Pozible on another web site or use a web site providing a se
 
 Payment Information is transmitted securely using Secure Sockets Layer (SSL) encryption technology and processed through a secure third party payment gateway (PCI DSS Compliant). Pozible does not store your payment information (such as credit card or debit card information) on Pozible servers or databases.
 
-**3\. Our Use of Your Information**
+**This website uses the Google AdWords remarketing service** AdWords Remarketing is a Remarketing and Behavioral Targeting service provided by Google. It connects the activity of www.pozible.com with the Adwords advertising network and the Doubleclick Cookie. You can opt out of the cookie tracking here: <http://google.com/settings/ads/onweb/optout?hl=en>
 
-We use personal information about you (including but not limited to the information in the file we maintain about you, and other information we obtain from your current and past activities on the Site) to resolve disputes, troubleshoot problems, help ensure safe trading on our Site, and enforce our User Agreement. At times, we may look across multiple users to identify problems or resolve disputes, and in particular we may examine your information to identify users using multiple Usernames or aliases. 
+Personal Data collected: Cookie and Usage Data. Place of processing: USA. – Find the [Privacy Policy](http://www.google.com/intl/en/policies/privacy/).
+
+**3\. Our Use of Your Information** We use personal information about you (including but not limited to the information in the file we maintain about you, and other information we obtain from your current and past activities on the Site) to resolve disputes, troubleshoot problems, help ensure safe trading on our Site, and enforce our User Agreement. At times, we may look across multiple users to identify problems or resolve disputes, and in particular we may examine your information to identify users using multiple Usernames or aliases. 
 
 If you choose to post a project on our Site, we use your address and billing information to bill you and provide associated support. 
 
@@ -48,9 +46,7 @@ You agree that we may use personal information about you to improve our marketin
 
 You agree that we may use your information to contact you and deliver information to you that, in some cases, is targeted to your interests, such as administrative notices, product offerings, and communications relevant to your use of the Site. By accepting the User Agreement and Privacy Policy you expressly agree to receive this information. 
 
-**4\. Our Disclosure of Your Information**
-
-Although Pozible uses industry standard practices to protect your personal information, due to technical limitations, we cannot ensure that all of your private communications and other personal information will never be disclosed in ways not otherwise described in this Privacy Policy. By way of example (without limiting the foregoing), we may be forced to disclose information to the government or third parties under certain circumstances (further details of which are set out below in the "Legal Requests" section), or third parties may unlawfully intercept or access transmissions or private communications. Therefore, although we use industry standard practices to protect your privacy, we cannot and do not guarantee, and you should not expect, that your personal information or private communications will always remain private. 
+**4\. Our Disclosure of Your Information** Although Pozible uses industry standard practices to protect your personal information, due to technical limitations, we cannot ensure that all of your private communications and other personal information will never be disclosed in ways not otherwise described in this Privacy Policy. By way of example (without limiting the foregoing), we may be forced to disclose information to the government or third parties under certain circumstances (further details of which are set out below in the "Legal Requests" section), or third parties may unlawfully intercept or access transmissions or private communications. Therefore, although we use industry standard practices to protect your privacy, we cannot and do not guarantee, and you should not expect, that your personal information or private communications will always remain private. 
 
 As a matter of policy, we do not sell or rent any personal information about you to any third party. However, the following describes some of the ways that your personal information may be disclosed, and by agreeing to the User Agreement and Privacy Policy you expressly agree that your personal information may be disclosed by Pozible in the following ways: 
 
@@ -66,9 +62,7 @@ Other Corporate Entities. We share much of our data, including personal informat
 
 Legal Requests. Pozible may lawfully disclose your personal information for law enforcement or regulatory purposes. Pozible cooperates with law enforcement inquires and other third parties to enforce laws, intellectual property and other rights. We can (and you authorise us to) disclose any information about you to law enforcement or other governmental officials as we, in our sole discretion, believe necessary, appropriate or as otherwise permitted under the Privacy Act 1988 (Cth), in connection with an investigation of fraud, intellectual property infringements, piracy or other activity that is illegal or may expose us to legal liability. 
 
-**5\. Your Use of Other Users' Information**
-
-In order to facilitate interaction among all Pozible community members, our service allows you limited access other users' contact information. As a project creator you have access to the full names, email address and other contact information of the project supporter and as a supporter you have access to the full name, email address and other contact information of the creator. 
+**5\. Your Use of Other Users' Information** In order to facilitate interaction among all Pozible community members, our service allows you limited access other users' contact information. As a project creator you have access to the full names, email address and other contact information of the project supporter and as a supporter you have access to the full name, email address and other contact information of the creator. 
 
 By entering into our User Agreement, you agree that, with respect to other users' personal information that you obtain through the Site or through a Pozible-related communication or Pozible-facilitated transaction, Pozible hereby grants to you a license to use such information only for: 
 
@@ -78,17 +72,11 @@ In all cases, you must give users an opportunity to remove themselves from your 
 
 We and our users do not tolerate spam. Therefore, without limiting the foregoing, you are not licensed to add a Pozible user, even a user who has purchased an item from you, to your mail list (email or physical mail) without their express consent after adequate disclosure. To report spam from other Pozible users, please send an email to [admin@pozible.com](mailto:admin@pozible.com). 
 
-**6\. Use of Email Tools**
+**6\. Use of Email Tools** You may not use the send a message service or other email forwarding services that we offer to send spam or otherwise send content that would violate our User Agreement or Privacy Policy. 
 
-You may not use the send a message service or other email forwarding services that we offer to send spam or otherwise send content that would violate our User Agreement or Privacy Policy. 
+**7\. Control of Your Password** You are responsible for all actions taken with your password, including fees. Therefore we do not recommend that you disclose your Pozible password to any third parties. If you choose to share your password or your information with third parties to provide you additional services, you agree that you are responsible for all actions taken with your password and therefore you should review that third party's privacy policy. If you lose control of your password, you may lose substantial control over your personal information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately change your password as detailed in Section 8. 
 
-**7\. Control of Your Password**
-
-You are responsible for all actions taken with your password, including fees. Therefore we do not recommend that you disclose your Pozible password to any third parties. If you choose to share your password or your information with third parties to provide you additional services, you agree that you are responsible for all actions taken with your password and therefore you should review that third party's privacy policy. If you lose control of your password, you may lose substantial control over your personal information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately change your password as detailed in Section 8. 
-
-**8\. Accessing, Reviewing and Changing Your Personal Information**
-
-Following registration, you can review and change the information you submitted during registration including: 
+**8\. Accessing, Reviewing and Changing Your Personal Information** Following registration, you can review and change the information you submitted during registration including: 
 
 Your registration information such as: name, company, address, city, state, post code, country, primary phone number, secondary phone number, fax number and gender. 
 
@@ -100,16 +88,10 @@ Upon your request, we will deactivate your account, contact information, and fin
 
 We will retain in our files information you have requested to remove in some circumstances, such as to prevent fraud, resolve disputes, troubleshoot problems, assist with any investigations, and enforce our User Agreement, and to comply with legal requirements. Further, such prior information is never completely removed from our databases due to technical constraints and the fact that we back up our systems. Therefore, you should not expect that all of your personal information will be completely removed from our databases in response to your requests. However, such information will be deactivated from public viewing and usage by other members of Pozible and will only be available to select Pozible personnel. 
 
-**9\. Other Information Collectors**
+**9\. Other Information Collectors** Except as otherwise expressly discussed in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you. To the extent that you disclose your information to other parties, whether they are project creators or project supporters on our Site or other sites throughout the Internet, different rules may apply to their use or disclosure of the personal information you disclose to them. To the extent that we use third party advertisers, they adhere to their own privacy customs and policies. Since Pozible does not control the privacy policies of third parties, you are subject to the privacy policies of that third party. We encourage you to ask questions before you disclose your personal information to others. 
 
-Except as otherwise expressly discussed in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you. To the extent that you disclose your information to other parties, whether they are project creators or project supporters on our Site or other sites throughout the Internet, different rules may apply to their use or disclosure of the personal information you disclose to them. To the extent that we use third party advertisers, they adhere to their own privacy customs and policies. Since Pozible does not control the privacy policies of third parties, you are subject to the privacy policies of that third party. We encourage you to ask questions before you disclose your personal information to others. 
+**10\. Security** Your Information is stored on Pozible's servers currently located in the United States. We use industry standard efforts to safeguard the confidentiality of your personal information, such as firewalls and Secure Socket Layers. However, "perfect security" does not exist on the Internet. 
 
-**10\. Security**
-
-Your Information is stored on Pozible's servers currently located in the United States. We use industry standard efforts to safeguard the confidentiality of your personal information, such as firewalls and Secure Socket Layers. However, "perfect security" does not exist on the Internet. 
-
-**11\. Notice**
-
-We may change this Privacy Policy from time to time based on your comments and our need to accurately reflect our data collection and disclosure practices. All changes to this policy are effective after we provide you with at least thirty (30) days' notice of the changes by posting the changes on the announcements board and sending email to users who select such notification preference We provide you with thirty (30) days notice to allow you the opportunity to notify Pozible if you do not agree to such changes as described in Section 8. 
+**11\. Notice** We may change this Privacy Policy from time to time based on your comments and our need to accurately reflect our data collection and disclosure practices. All changes to this policy are effective after we provide you with at least thirty (30) days' notice of the changes by posting the changes on the announcements board and sending email to users who select such notification preference We provide you with thirty (30) days notice to allow you the opportunity to notify Pozible if you do not agree to such changes as described in Section 8. 
 
 If you have any questions, please contact [admin@pozible.com](mailto:admin@pozible.com). 
