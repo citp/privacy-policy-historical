@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wctravel.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208205344id_/http%3A//www.travelocitypartnernetwork.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wctravel.com privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528042148id_/http%3A//www.travelocitypartnernetwork.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Travelocity Partner Network
 
-ONLINE PRIVACY STATEMENT 
+ONLINE PRIVACY STATEMENT
 
 The Travelocity Partner Network is committed to respecting your privacy. We have designed our websites and booking engines so that you may visit them without identifying yourself or revealing any personal information, unless you opt to do so. Once you opt to provide personally identifiable information (any information by which you can be identified such as name, address, telephone number, e-mail address and credit card number), it will only be used to support your customer relationship with us and for our own internal purposes, including marketing and research, customization of our websites and improving the content of our websites.
 
