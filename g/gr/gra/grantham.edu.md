@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grantham.edu privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113214545id_/http%3A//www.grantham.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grantham.edu privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529002429id_/http%3A//www.grantham.edu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
