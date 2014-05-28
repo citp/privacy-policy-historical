@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ngmoco.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219193102id_/http%3A//app.mobage.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ngmoco.com privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528214329id_/http%3A//app.mobage.com/privacy) for the most accurate reproduction.*
 
 # Mobage
 
 ## Privacy Policy
 
-Last Updated: March 20, 2013 
+Last Updated: January 13, 2014 
 
 ngmoco:) Privacy Policy
 
@@ -177,6 +177,8 @@ Individuals who wish to file a complaint or who take issue with our Safe Harbor 
 California Civil Code Section 1798.83 permits customers of ngmoco who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. If you are a California resident and have provided ngmoco with personal information within the last year, you may make such a request by emailing us at the following email address with the email’s subject titled as "California Privacy Rights": **privacy@ngmoco.com**.
 
 Within thirty (30) calendar days of receiving such a request, we will provide a list of the categories of personal information disclosed to third parties for such third parties’ direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of these third parties. A request may be made no more than once per calendar year and we are not required to respond to requests made by means other than through the email address above.
+
+To the extent that any of our mobile applications of the Services collects personally identifiable information, that is done only as strictly necessary to enable us to provide those Services (see "When We Collect Information" and "Cookies & Other Technologies", above), and this cannot be disabled by "do not track" or other mechanisms available on your mobile Device’s browser. 
 
 **Language**
 
