@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doctorsrepublic.com privacy policy that was archived on 2013-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131003061427id_/http%3A//www.doctorsrepublic.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doctorsrepublic.com privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528121905id_/http%3A//www.doctorsrepublic.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Online Doctors Community, Doctors Professional Network | Doctors Republic
 
