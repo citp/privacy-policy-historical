@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the preloved.co.uk privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205123526id_/http%3A//www.preloved.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the preloved.co.uk privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528223445id_/http%3A//www.preloved.co.uk/privacy) for the most accurate reproduction.*
 
-# Preloved | Sell Used for Free Online in UK and Ireland
+# Preloved | Sell Stuff for Free Online in UK and Ireland
 
 [Home](http://www.preloved.co.uk/) > Privacy And Cookies Policy 
 
@@ -20,7 +20,7 @@ Moo Limited trading as "Preloved" and "Preloved Classifieds" ("we" "our" "us") a
 
 This policy together with our terms of use (<http://www.preloved.co.uk/terms>) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-For the purpose of the Data Protection Act 1998 (the Act), the data controller is Moo Limited of 483 Green Lanes, London N13 4BS, registration number PZ8708167.
+For the purpose of the Data Protection Act 1998 (the Act), the data controller is Moo Limited of Meridian House, Gadbrook Park, Gadbrook Way, Rudheath, Northwich, CW9 7RA, registration number PZ8708167.
 
 ## Information We May Collect From You
 
