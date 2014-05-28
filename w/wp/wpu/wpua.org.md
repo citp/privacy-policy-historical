@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpua.org privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208181935id_/http%3A//wpua.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpua.org privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528152256id_/http%3A//wpua.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WordPress Users Association
 
