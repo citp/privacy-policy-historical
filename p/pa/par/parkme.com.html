@@ -1,12 +1,20 @@
-<!--The following is the downloaded HTML source of the parkme.com privacy policy that was archived on 2013-11-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131110213017id_/http%3A//www.parkme.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the parkme.com privacy policy that was archived on 2014-05-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140529002058id_/http%3A//www.parkme.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
+    <!--OPTIMIZELY-->
+    <!--Snippet must be after the opening <head> tag per Optimizely's instructions-->
+    <script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script src="//cdn.optimizely.com/js/974774350.js"></script>
+    
     <!-- Attempt to block compatibility mode -->
     <!-- See stackoverflow.com/questions/6348959/how-to-disable-compatibility-view-in-ie for details -->
     <meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=EDGE">
+    <meta name="msvalidate.01" content="628F6F6525D2E25E79EF73EDBD3F09DA">
+    
+    <!--VIEWPORT META-->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <link rel="apple-touch-icon" href="/realtimeparking_media/homepage/img/apple-touch-icon.jpg">
+    <link rel="apple-touch-icon" href="https://d13esfgglb25od.cloudfront.net/realtimeparking_media/homepage/img/apple-touch-icon.jpg">
 
         
     <title>ParkMe - Privacy Policy</title>
@@ -29,12 +37,31 @@
 
         
             <!-- Jquery -->
-            <script type="text/javascript" async="" src="https://cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+            <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
             <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js"></script>
 
             <!-- Should not be compressed -->
-            <link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.0.4/css/bootstrap.min.css" rel="stylesheet">
             <link href="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/themes/smoothness/jquery-ui.css" rel="stylesheet">
+
+            <!-- Google Maps -->
+            <script type="text/javascript" src="//maps.google.com/maps/api/js?key=&amp;libraries=geometry,places,drawing&amp;sensor=false&amp;v=3.15">
+            </script>
+            
+            <!-- Used for Analytics tracking of the donwload iPhone/Android buttons -->
+            <script src="https://d13esfgglb25od.cloudfront.net/realtimeparking_media/homepage/js/mobileTrack.js"></script>
+            
+            <!--Tweet Button-->
+            <script>
+                !function(d,s,id){
+                    var js,fjs=d.getElementsByTagName(s)[0];
+                    if(!d.getElementById(id)){
+                        js=d.createElement(s);
+                        js.id=id;
+                        js.src="https://platform.twitter.com/widgets.js";
+                        fjs.parentNode.insertBefore(js,fjs);
+                    }
+                }(document,"script","twitter-wjs");
+            </script>
 
             <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
             <!--[if lt IE 9]>
@@ -47,6 +74,14 @@
     _gaq.push(['_setAccount', 'UA-16484287-4']);
     _gaq.push(['_setDomainName', '.parkme.com']);
     _gaq.push(['_trackPageview']);
+
+    
+    // Send an event 15 seconds after page load
+    // Relates to issue #2028
+    // TODO: Figure out if equivalent tracking is needed for Universal GA and MixPanel
+    setTimeout("_gaq.push(['_trackEvent', '15_seconds', 'read'])",15000);
+    
+
     (function() {
         var ga = document.createElement('script');
         ga.type = 'text/javascript';
@@ -57,48 +92,32 @@
   })();
 </script>
 
-<!-- Google Universal Analytics -->
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-16484287-6', 'parkme.com'
-    
-    );
-  ga('send', 'pageview');
-
+<!-- Facebook Advertising Pixel -->
+<script>(function() {
+  var _fbq = window._fbq || (window._fbq = []);
+  if (!_fbq.loaded) {
+    var fbds = document.createElement('script');
+    fbds.async = true;
+    fbds.src = '//connect.facebook.net/en_US/fbds.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(fbds, s);
+    _fbq.loaded = true;
+  }
+  _fbq.push(['addPixelId', "774754735868806"]);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(["track", "PixelInitialized", {}]);
 </script>
+<noscript><img height="1" width="1" border="0" alt="" style="display:none" src="https://www.facebook.com/tr?id=774754735868806&amp;ev=NoScript" /></noscript>
 
-<!-- MixPanel -->
-<!-- start Mixpanel --><script type="text/javascript">(function(e,b){if(!b.__SV){var a,f,i,g;window.mixpanel=b;a=e.createElement("script");a.type="text/javascript";a.async=!0;a.src=("https:"===e.location.protocol?"https:":"http:")+'//cdn.mxpnl.com/libs/mixpanel-2.2.min.js';f=e.getElementsByTagName("script")[0];f.parentNode.insertBefore(a,f);b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==
-typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");for(g=0;g<i.length;g++)f(c,i[g]);
-b._i.push([a,e,d])};b.__SV=1.2}})(document,window.mixpanel||[]);
-mixpanel.init("8a1fe2fea951d0a4d852ad8ecf0fe228");
-
-
-
-
-</script><!-- end Mixpanel -->
-
-
-<!-- Sentry (Raven-JS)- Using 1.0.7 b/c 1.0.8 seems to have issues in IE8 -->
-<script src="//d3nslu0hdya83q.cloudfront.net/dist/1.0.7/raven.min.js"></script>
-<script type="text/javascript">
-//made only once
-Raven.config('https://3ca79c5c28064da5b631197d6b95ef92@app.getsentry.com/8434').install();
-
-
-</script>
 
 <!-- Twitter App Store Deep Links -->
 <!-- Validate via https://dev.twitter.com/docs/cards/validation/validator -->
 <meta name="twitter:card" content="summary">
-<meta name="twitter:site" content="@TheParkMeApp">
+<meta name="twitter:site" content="@ParkMe">
 <meta name="twitter:title" content="We make parking easy.">
 <meta name="twitter:description" content="ParkMe: The award-winning free app that helps you find the cheapest and closest parking around! Save money and get to your destination faster with ParkMe. We make parking easy.">
-<meta name="twitter:creator" content="@TheParkMeApp">
+<meta name="twitter:creator" content="@ParkMe">
 <meta name="twitter:image:src" content="http://a3.mzstatic.com/us/r1000/103/Purple/v4/e6/1a/ad/e61aad45-1c0e-bbaa-77cc-14fbbe0dab2e/mzl.dagyywre.175x175-75.jpg">
 <meta name="twitter:domain" content="parkme.com">
 <meta name="twitter:app:name:iphone" content="ParkMe">
@@ -108,12 +127,37 @@ Raven.config('https://3ca79c5c28064da5b631197d6b95ef92@app.getsentry.com/8434').
 <meta name="twitter:app:id:ipad" content="417605484">
 <meta name="twitter:app:id:googleplay" content="com.parkme.consumer">
 
+<!-- SmartPixel -->
+<script type="text/javascript">
+adroll_adv_id = "NP532YSHAFDYHPWU45CNOW";
+adroll_pix_id = "XLFBFTXJPFFF7C3FAPTHLE";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
+</script>
 
+
+        
+        
+        
+            <!--GRID/MODULES-->
+            <link rel="stylesheet" type="text/css" href="https://d13esfgglb25od.cloudfront.net/realtimeparking_media/core/css/modules.css">
+            <link rel="stylesheet" type="text/css" href="https://d13esfgglb25od.cloudfront.net/realtimeparking_media/lib/css/grid/grid.css">
         
 
         
     
-            <link rel="stylesheet" href="/realtimeparking_media/CACHE/css/8b48fbc4c1a6.css" type="text/css">
+            <link rel="stylesheet" href="https://d13esfgglb25od.cloudfront.net/realtimeparking_media/compressed/css/55f0c666643e.css" type="text/css">
         
     <style rel="stylesheet">
         ol li {
@@ -124,74 +168,116 @@ Raven.config('https://3ca79c5c28064da5b631197d6b95ef92@app.getsentry.com/8434').
 
         
 
-            <script type="text/javascript" src="/realtimeparking_media/CACHE/js/48af68e2b78a.js"></script>
+            <script type="text/javascript" src="https://d13esfgglb25od.cloudfront.net/realtimeparking_media/compressed/js/f1132064fe2c.js"></script>
 
 
         
 
-</head>
+<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 
 <body>
+    <!--Facebook Button-->
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+    
     <div class="preload">
         <img src="/realtimeparking_media/homepage/img/parkme-search-hover.png">
         <img src="/realtimeparking_media/homepage/img/btn-parkme-small-hover.png">
     </div>
     
     
-        <img src="/realtimeparking_media/homepage/img/photo-santaMonicaParking.jpg" id="bg" alt="">
-<div class="navbar navbar-fixed-top">
-  <div class="navbar-inner">
-    <div class="container">
-    	<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-        	<span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-        </a>
-        <a class="brand" href="/"><img id="logo" src="/realtimeparking_media/homepage/img/parkme-logo.png" alt="ParkMe"></a>
-        <div class="nav-collapse">
-            <ul class="nav">
-               <li>
-                    <a href="/parkingapp">The App</a>
-                </li>
-               <li>
-                    <a href="/the-data">The Data</a>
-                </li>
-                <li>
-                    <a href="/operators-cities">Operators &amp; Cities</a>
-                </li>
-                <li><a href="/developers">Developers</a>
-                </li>
-                <li class="active">
-                    <a href="/about">About</a>
-                </li>
-            </ul>
+        
+    <div id="header_fullsize" class="header_fullsize">
+        <div class="row header-row ninesixty_fixed">
+            
+            <span class="left header-left">
+                <a href="/" class="left">
+                    <div class="logo" alt="ParkMe Logo"></div>
+                </a>
+                
+
+                <div class="user-actions browse-menu">
+                    <div class="header-dropdown browse-dropdown">
+                        <div class="header-toggle header-browse-toggle" data-toggle="dropdown">Browse&nbsp;▼</div>
+                        <ul class="dropdown-menu browse-dropdown-menu" role="menu" aria-labelledby="dropdownMenu2">
+                            <li role="presentation">
+                                <ul class="browse-dropdown-submenu">
+                                    <li class="pgColumnHeader">Cities</li>
+                                    <li><a href="/new-york-city-parking">New York</a></li>
+                                    <li><a href="/los-angeles-parking">Los Angeles</a></li>
+                                    <li><a href="/washington-dc-parking">Washington DC</a></li>
+                                    <li><a href="/austin-parking">Austin</a></li>
+                                </ul>
+                            </li>
+                            <li role="presentation">
+                                <ul class="browse-dropdown-submenu">
+                                    <li class="pgColumnHeader">Neighborhoods</li>
+                                    <li><a href="/san-francisco-parking/financial-district">SF Financial District</a></li>
+                                    <li><a href="/seattle-parking/belltown">Belltown</a></li>
+                                    <li><a href="/new-york-city-parking/west-village">NY West Village</a></li>
+                                    <li><a href="/chicago-parking/loop">Chicago Loop</a></li>
+                                </ul>
+                            </li>
+                            <li role="presentation">
+                                <ul class="browse-dropdown-submenu">
+                                    <li class="pgColumnHeader">Airports</li>
+                                    <li><a href="/los-angeles-parking/lax">Los Angeles Int'l Airport</a></li>
+                                    <li><a href="/atlanta-parking/atlanta-airport">Atlanta Int'l Airport</a></li>
+                                    <li><a href="/dallas-parking/dfw-airport-parking">Dallas-Fort Worth Int'l Airport</a></li>
+                                    <li><a href="/denver-parking/den-denver-international-airport">Denver Worth Int'l Airport</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="header-input-container">
+                    <form action="/map" id="search-form">
+                        <img class="header-search-icon" src="https://d13esfgglb25od.cloudfront.net/realtimeparking_media/lib/img/header_input_search.png">
+                        <input type="radio" name="filter" value="daily" id="daily_monthly1" class="hidden" checked="checked">
+                        <input id="searchLoc" name="s" value="" type="text" class="header-input searchLoc input-destination" required="true" placeholder="Where are you going?">
+                        <div class="clear-search">X</div>
+                    </form>
+                </div>
+
+                
+            </span>
+            
+
+            
+            <span class="right header-right">
+                <!-- Login/Logout -->
+                
+                    <div class="user-actions">
+                        <div class="header-dropdown">
+                            <div class="header-toggle header-dropdown-toggle" data-toggle="dropdown"></div>
+                            <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
+                                <li role="presentation"><a class="header-sign-up" href="/accounts/register/?next=/">Sign Up</a></li>
+                                <li role="presentation"><a class="header-log-in" href="/accounts/login/?next=/">Log In</a></li>
+                            </ul>
+                        </div>
+                        <ul class="header-links">
+                            <li class="signup-link"><a class="header-sign-up" href="/accounts/register/?next=/">Sign Up</a></li>
+                            <li class="header-mid-link login-link"><a class="header-log-in" href="/accounts/login/?next=/">Log In</a></li>
+                        </ul>
+                        <ul class="header-links mid-links mid-links-logged-in">
+                           <li class="header-mid-link login-link"><a href="/operators-cities">Promote Parking</a></li>
+                           <li class="header-mid-link login-link"><a href="/the-data">How It Works</a></li>
+                       </ul>
+                    </div>
+                
+                <div class="clear"></div>
+            </span>
+            
+            <div class="clear"></div>
         </div>
-        <div class="social_container">
-            <ul class="clearfix">
-                <li>
-                    <a href="http://www.linkedin.com/company/1286316" target="_blank">
-                        <img src="/realtimeparking_media/homepage/img/social/linkedin.png">
-                    </a>
-                </li>
-                <li>
-                    <a href="http://twitter.com/TheParkMeApp" target="_blank">
-                        <img src="/realtimeparking_media/homepage/img/social/twitter.png">
-                    </a>
-                </li>
-                <li>
-                    <a href="http://www.facebook.com/theparkmeapp" target="_blank">
-                        <img src="/realtimeparking_media/homepage/img/social/facebook.png">
-                    </a>
-                </li>
-                <li style="padding-right:8px; opacity: 1;">
-                    <img src="/realtimeparking_media/homepage/img/social/follow.png">
-                </li>
-            </ul>
-        </div>
-      <!--/.nav-collapse -->
     </div>
-  </div>
-</div>
+
 
         <div id="below_fold" class="subpages">
             <div class="container">
@@ -571,31 +657,6 @@ Raven.config('https://3ca79c5c28064da5b631197d6b95ef92@app.getsentry.com/8434').
     </div>
 
 
-    
-
-        <hr>
-        <div class="footer row-fluid">
-            <div class="centered-pills">
-                <ul class="nav nav-pills">
-                    <li><a href="/accounts/login/">Sign In</a></li>
-                    <li><a href="http://blog.parkme.com">Our Blog</a></li>
-                    <li><a href="about">About Us</a></li>
-                    <li><a href="press">Press</a></li>
-                    <li><a href="contact">Contact Us</a></li>
-                    <li class="active"> <a href="jobs">We're Hiring!</a> </li>
-                </ul>
-            </div>
-            <div class="copyright">
-                <p class="disclaimer" style="float:none; width:auto; margin-left:auto; margin-right:auto; text-align:center;">
-                    © 2013 ParkMe Inc.
-                    — All rights reserved —
-                    <a href="/privacy">Privacy</a> /
-                    <a href="/terms-of-use">Terms</a>
-                </p>
-            </div>
-        </div>
-
-    
 
 
 
