@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the soccersouls.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222153456id_/http%3A//www.soccersouls.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soccersouls.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529210248id_/http%3A//www.soccersouls.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - SoccerSouls - SoccerSouls
+# Privacy Policy - SoccerSouls
 
 Your privacy is important to us and we have prepared this Privacy Policy to explain to you how we collect, use, and share information we obtain through your use of the Internet sites, applications and services (“Services”) that are operated by, controlled by or are affiliate with SoccerSouls. This Privacy Policy does not govern our use of any information you provide to us when you call us, write to us, or communicate with us in any manner other than through the Services. Because the Internet is global, information about you that we collect or that you submit may be transferred to, processed in, and held in countries (including the United States) other than the one in which you reside. **By using the Services, you explicitly consent to such use of your information and agree to the terms of this Privacy Policy.**
 
@@ -70,9 +70,10 @@ We are committed to protecting the privacy needs of children and we encourage pa
 
 We may update this Privacy Policy from time to time. If under any such update we make any material change to the way in which we treat your User Information, we will inform you of such change via email or by posting a notice on relevant areas of the Services. Any updated version of this Privacy Policy will be effective as of the date set forth therein.
 
-* **Controlling interest based advertising and other third party cookies  
-**  
-Showing advertising that is relevant to your interests on other sites. Sometimes, to improve the effectiveness of online advertising campaigns, we may extend the number of times that you see same ad by purchasing advertising space on other sites that are deemed relevant by the advertiser. There are several ways to opt out of the process. This can be achieved by clicking on the following icon on the ad itself. 
+* ### **Controlling interest based advertising and other third party cookies  
+**
+
+Showing advertising that is relevant to your interests on other sites. Sometimes, to improve the effectiveness of online advertising campaigns, we may extend the number of times that you see same ad by purchasing advertising space on other sites that are deemed relevant by the advertiser. There are several ways to opt out of the process. This can be achieved by clicking on the following icon on the ad itself.
 
  In addition to the controls available on your computer there are also other ways of controlling interest based advertising and other tracking cookies and the links to each are provided below.
 
