@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xtremez.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211164427id_/http%3A//www.paintball-online.com/pages/Help-Center-About-Us.aspx%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtremez.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529075813id_/http%3A//www.paintball-online.com/pages/Help-Center-About-Us.aspx%23privacy) for the most accurate reproduction.*
 
 # | VIPs Save 10% & Free Shipping - Paintball-Online.com
 
