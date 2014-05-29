@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kamcord.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127011457id_/http%3A//www.kamcord.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kamcord.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529023120id_/http%3A//www.kamcord.com/privacy) for the most accurate reproduction.*
 
-# Kamcord | Privacy
+# 
 
 This Privacy Policy was last updated on January 22, 2013. 
 
@@ -66,7 +66,7 @@ This Privacy Policy does not apply to any Personal Data collected by Kamcord oth
 
 **Children:**
 
-Kamcord does not knowingly collect Personal Data from children under the age of 13. If you are under the age of 13, please do not submit any Personal Data through the Services. We encourage parents and legal guardians to monitor their children's Internet usage and to help enforce our Privacy Policy by instructing their children never to provide Personal Data on the Services without their permission. If you have reason to believe that a child under the age of 13 has provided Personal Data to Kamcord through the Services, please contact us, and we will endeavor to delete that information from our databases. 
+Kamcord does not knowingly collect, use, or disclose personal information from children without prior parental consent, except as permitted by the Children’s Online Privacy Protection Act. If you have questions concerning our information practices with respect to children, or if you would like to review, have deleted, or stop the further collection of your child’s personal information, you may email us at hello@kamcord.com. In addition, if you are under the age of 13, please do not submit any Personal Data through the Services. We encourage parents and legal guardians to monitor their children's Internet usage and to help enforce our Privacy Policy by instructing their children never to provide Personal Data on the Services without their permission. If you have reason to believe that a child under the age of 13 has provided Personal Data to Kamcord through the Services, please contact us, and we will endeavor to delete that information from our databases. 
 
 **Links to Other Web Sites:**
 
@@ -84,7 +84,7 @@ Kamcord takes reasonable steps to protect the Personal Data provided via the Ser
 
 **Other Terms and Conditions:**
 
-Your access to and use of the Services is subject to the Terms of Use at: [kamcord.com/tos](https://web.archive.org/developers/tos/)
+Your access to and use of the Services is subject to the Terms of Use at: [kamcord.com/tos](https://web.archive.org/tos/)
 
 **Changes to Kamcord's Privacy Policy:**
 
