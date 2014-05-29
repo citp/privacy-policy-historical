@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hibernatingrhinos.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103004619id_/http%3A//hibernatingrhinos.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hibernatingrhinos.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529093348id_/http%3A//www.hibernatingrhinos.com/privacy) for the most accurate reproduction.*
 
 # Hibernating Rhinos
 
