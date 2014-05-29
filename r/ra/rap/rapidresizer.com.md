@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the rapidresizer.com privacy policy that was archived on 2013-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130829074023id_/http%3A//rapidresizer.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidresizer.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529234507id_/http%3A//rapidresizer.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
 [](https://web.archive.org/)
-
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.rapidresizer.com%2F&media=http%3A%2F%2Fwww.rapidresizer.com%2Frricon.png&description=Rapid+Resizer+software.+Enlarge+patterns+to+any+size+on+your+home+printer.+Automatically+tiles+across+pages.+Try+it+FREE.)
 
 [Resize Patterns](https://web.archive.org/index.php) | [Design Patterns](https://web.archive.org/designer.php) | [Try Free](https://web.archive.org/#download) | [Buy Now](https://web.archive.org/buy.php) | [Help](https://web.archive.org/contact.php)  
 ---|---|---|---|---  
