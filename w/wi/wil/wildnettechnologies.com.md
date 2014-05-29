@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wildnettechnologies.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208071255id_/http%3A//www.wildnettechnologies.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wildnettechnologies.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529130001id_/http%3A//www.wildnettechnologies.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Wildnet Privacy Policy: SEO Privacy Policy, Web Design and Development Privacy Policy
 
