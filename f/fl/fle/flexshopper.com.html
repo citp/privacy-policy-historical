@@ -1,0 +1,1514 @@
+<!--The following is the downloaded HTML source of the flexshopper.com privacy policy that was archived on 2014-05-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140529153354id_/http%3A//www.flexshopper.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript" async="" src="https://vmss.boldchat.com/aid/301671876298128307/bc.vms4/vms.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js" type="text/javascript" async=""></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAMDWVFbGwAHVVVbDwc="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+<title>Privacy Policy</title>
+<meta name="description" content="Get the lowest prices with our lease to own options on the latest computers, electronics, appliances and furniture. No credit required and instant approval!">
+<meta name="keywords" content="FlexShopper, lease to own, no credit required, rent to own, lease to own TV's, lease to own laptops, lease to own electronics, lease to own furniture, TVs, laptop, tablet, furniture">
+<meta name="robots" content="INDEX,FOLLOW">
+<link rel="icon" href="http://www.flexshopper.com/media/favicon/default/favicon.png" type="image/x-icon">
+<link rel="shortcut icon" href="http://www.flexshopper.com/media/favicon/default/favicon.png" type="image/x-icon">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--[if lt IE 7]>
+<script type="text/javascript">
+//<![CDATA[
+    var BLANK_URL = 'http://www.flexshopper.com/js/blank.html';
+    var BLANK_IMG = 'http://www.flexshopper.com/js/spacer.gif';
+//]]>
+</script>
+<![endif]-->
+<script type="text/javascript">
+var ADAPT_CONFIG = {
+  path: "http://www.flexshopper.com/skin/frontend/default/galaelectronues/css/",
+  dynamic: true,
+  range: [
+    '0px    to 760px  = mobile.css',
+    '760px  to 980px  = 720.css',
+    '980px  to 1200px = 960.css',
+    '1200px = 1200.css'
+    // '1600px to 1920px = 1560.css',
+    // '1940px to 2540px = 1920.css',
+    // '2540px           = 2520.css'
+  ]
+};
+</script>
+
+<link rel="stylesheet" type="text/css" href="//lto.flexshopper.com/css/fs.bootstrap.min.css" media="screen">
+<link rel="stylesheet" type="text/css" href="http://www.flexshopper.com/skin/frontend/default/galaelectronues/css/styles.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.flexshopper.com/skin/frontend/default/galaelectronues/css/js-video.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.flexshopper.com/skin/frontend/base/default/css/widgets.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.flexshopper.com/skin/frontend/base/default/css/em_cloudzoom.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.flexshopper.com/skin/frontend/default/galaelectronues/css/em_variation.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.flexshopper.com/skin/frontend/default/galaelectronues/css/selectUl.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.flexshopper.com/skin/frontend/base/default/css/em_quickshop.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.flexshopper.com/skin/frontend/default/galaelectronues/sliderwidget/jcarousel.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.flexshopper.com/skin/frontend/base/default/slideshowwidget/css/nivo.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.flexshopper.com/skin/frontend/base/default/css/font-awesome.min.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.flexshopper.com/skin/frontend/default/galaelectronues/css/lightbox.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.flexshopper.com/skin/frontend/base/default/css/em_ajaxcart/em_ajaxcart.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.flexshopper.com/skin/frontend/default/galaelectronues/em_megamenupro/css/menu.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.flexshopper.com/skin/frontend/base/default/css/em_productlabels.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.flexshopper.com/skin/frontend/base/default/css/fancybox/jquery.fancybox.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.flexshopper.com/skin/frontend/base/default/emtabs/css/emtabs.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.flexshopper.com/skin/frontend/default/galaelectronues/css/print.css" media="print">
+<script type="text/javascript" src="http://www.flexshopper.com/js/prototype/prototype.js"></script>
+<script type="text/javascript" src="http://www.flexshopper.com/js/lib/ccard.js"></script>
+<script type="text/javascript" src="http://www.flexshopper.com/js/prototype/validation.js"></script>
+<script type="text/javascript" src="http://www.flexshopper.com/js/scriptaculous/builder.js"></script>
+<script type="text/javascript" src="http://www.flexshopper.com/js/scriptaculous/effects.js"></script>
+<script type="text/javascript" src="http://www.flexshopper.com/js/scriptaculous/dragdrop.js"></script>
+<script type="text/javascript" src="http://www.flexshopper.com/js/scriptaculous/controls.js"></script>
+<script type="text/javascript" src="http://www.flexshopper.com/js/scriptaculous/slider.js"></script>
+<script type="text/javascript" src="http://www.flexshopper.com/js/varien/js.js"></script>
+<script type="text/javascript" src="http://www.flexshopper.com/js/varien/form.js"></script>
+<script type="text/javascript" src="http://www.flexshopper.com/js/varien/menu.js"></script>
+<script type="text/javascript" src="http://www.flexshopper.com/js/mage/translate.js"></script>
+<script type="text/javascript" src="http://www.flexshopper.com/js/mage/cookies.js"></script>
+<script type="text/javascript" src="http://www.flexshopper.com/js/em/jquery-1.8.3.min.js"></script>
+<script type="text/javascript" src="http://www.flexshopper.com/js/em/jquery.hoverIntent.js"></script>
+<script type="text/javascript" src="http://www.flexshopper.com/js/em/cloud-zoom.1.0.2.js"></script>
+<script type="text/javascript" src="http://www.flexshopper.com/js/em/jquery.ba-hashchange.min.js"></script>
+<script type="text/javascript" src="http://www.flexshopper.com/skin/frontend/default/galaelectronues/js/colorpicker.js"></script>
+<script type="text/javascript" src="http://www.flexshopper.com/skin/frontend/default/galaelectronues/js/ios-orientationchange-fix.js"></script>
+<script type="text/javascript" src="http://www.flexshopper.com/skin/frontend/default/galaelectronues/js/variation.js"></script>
+<script type="text/javascript" src="http://www.flexshopper.com/skin/frontend/default/galaelectronues/js/selectUl.js"></script>
+<script type="text/javascript" src="http://www.flexshopper.com/skin/frontend/default/galaelectronues/js/galaelectronues.js"></script>
+<script type="text/javascript" src="http://www.flexshopper.com/skin/frontend/default/galaelectronues/js/adapt.js"></script>
+<script type="text/javascript" src="http://www.flexshopper.com/skin/frontend/default/galaelectronues/js/fs.bootstrap.min.js"></script>
+<script type="text/javascript" src="http://www.flexshopper.com/skin/frontend/default/galaelectronues/js/lightbox.js"></script>
+<script type="text/javascript" src="http://www.flexshopper.com/skin/frontend/base/default/js/em_ajaxcart/jquery.form.js"></script>
+<script type="text/javascript" src="http://www.flexshopper.com/skin/frontend/default/galaelectronues/js/em_ajaxcart/lightbox.js"></script>
+<script type="text/javascript" src="http://www.flexshopper.com/skin/frontend/default/galaelectronues/js/em_ajaxcart/em_ajaxcart.js"></script>
+<script type="text/javascript" src="http://www.flexshopper.com/skin/frontend/default/galaelectronues/em_megamenupro/js/menu.js"></script>
+<script type="text/javascript" src="http://www.flexshopper.com/skin/frontend/default/galaelectronues/js/fancybox/jquery.fancybox.js"></script>
+<script type="text/javascript" src="http://www.flexshopper.com/skin/frontend/default/galaelectronues/js/fancybox/jquery.mousewheel-3.0.6.pack.js"></script>
+<script type="text/javascript" src="http://www.flexshopper.com/skin/frontend/default/galaelectronues/js/em_quickshop.js"></script>
+<script type="text/javascript" src="http://www.flexshopper.com/skin/frontend/base/default/js/jquery.jcarousel.js"></script>
+<script type="text/javascript" src="http://www.flexshopper.com/skin/frontend/base/default/js/jquery.touchwipe.1.1.1.js"></script>
+<script type="text/javascript" src="http://www.flexshopper.com/skin/frontend/base/default/slideshowwidget/js/jquery.nivo.slider.js"></script>
+<script type="text/javascript" src="http://www.flexshopper.com/skin/frontend/base/default/emtabs/js/emtabs.js"></script>
+<link rel="canonical" href="http://www.flexshopper.com/privacy">
+<!--[if lt IE 8]>
+<link rel="stylesheet" type="text/css" href="http://www.flexshopper.com/skin/frontend/default/galaelectronues/css/styles-ie.css" media="all" />
+<script type="text/javascript" src="http://www.flexshopper.com/skin/frontend/base/default/em_megamenupro/js/ie7.js"></script>
+<![endif]-->
+<!--[if lt IE 7]>
+<script type="text/javascript" src="http://www.flexshopper.com/js/lib/ds-sleight.js"></script>
+<script type="text/javascript" src="http://www.flexshopper.com/skin/frontend/base/default/js/ie6.js"></script>
+<![endif]-->
+
+<script type="text/javascript">
+//<![CDATA[
+Mage.Cookies.path     = '/';
+Mage.Cookies.domain   = '.www.flexshopper.com';
+//]]>
+</script>
+<link rel="stylesheet" id="emcssvariation" type="text/css" href="http://www.flexshopper.com/skin/frontend/default/galaelectronues/css/theme.css.php?general_color=&amp;primary_color=&amp;secondary_color=&amp;secondary2_color=&amp;secondary3_color=&amp;negative_color=&amp;line_color=&amp;secondary_line_color=&amp;primary_bgcolor=&amp;secondary_bgcolor=&amp;page_bg_image=&amp;general_font=&amp;h1_font=&amp;h2_font=&amp;h3_font=&amp;h4_font=&amp;h5_font=&amp;h6_font=&amp;box_shadow=&amp;rounded_corner=&amp;additional_css_file=&amp;button1=&amp;button2=&amp;button3=&amp;button4=">
+<!--[if lt IE 9]>
+<script type="text/javascript">
+(function() {
+	var el = document.getElementById('emcssvariation');
+	el.parentNode.removeChild(el);
+})();
+</script>
+<link rel="stylesheet" id="emcssvariation" type="text/css" href="http://www.flexshopper.com/skin/frontend/default/galaelectronues/css/theme.css.php?ie=1&general_color=&amp;primary_color=&amp;secondary_color=&amp;secondary2_color=&amp;secondary3_color=&amp;negative_color=&amp;line_color=&amp;secondary_line_color=&amp;primary_bgcolor=&amp;secondary_bgcolor=&amp;page_bg_image=&amp;general_font=&amp;h1_font=&amp;h2_font=&amp;h3_font=&amp;h4_font=&amp;h5_font=&amp;h6_font=&amp;box_shadow=&amp;rounded_corner=&amp;additional_css_file=&amp;button1=&amp;button2=&amp;button3=&amp;button4="></link>
+<![endif]-->
+
+<script type="text/javascript">
+  WebFontConfig = {
+    google: { families: ["Droid Sans"] }
+  };
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+        '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+  })();
+</script>
+
+
+<script type="text/javascript">
+EM_Theme.PRODUCTSGRID_ITEM_WIDTH = 235; 
+EM_Theme.PRODUCTSGRID_ITEM_SPACING = 40;
+EM_Theme.CROSSSELL_ITEM_WIDTH = 250;
+EM_Theme.CROSSSELL_ITEM_SPACING = 90;
+EM_Theme.UPSELL_ITEM_WIDTH = 250;
+EM_Theme.UPSELL_ITEM_SPACING = 90;
+EM_Theme.AJAXCART_AUTOCLOSE = 3;
+</script>
+
+<style type="text/css">
+</style>
+
+<script type="text/javascript">
+//<![CDATA[
+var urlSkinsite = 'http://www.flexshopper.com/skin/frontend/default/galaelectronues/';
+LightboxOptions = Object.extend({
+    fileLoadingImage:        urlSkinsite+'images/loading.gif',     
+    fileBottomNavCloseImage: urlSkinsite+'images/closelabel.png',
+
+    overlayOpacity: 0.8,   // controls transparency of shadow overlay
+
+    animate: true,         // toggles resizing animations
+    resizeSpeed: 7,        // controls the speed of the image resizing animations (1=slowest and 10=fastest)
+
+    borderSize: 10,         //if you adjust the padding in the CSS, you will need to update this variable
+
+	// When grouping images this is used to write: Image # of #.
+	// Change it for non-english localization
+	labelImage: "Image",
+	labelOf: "of"
+}, window.LightboxOptions || {});
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+optionalZipCountries = ["HK","IE","MO","PA"];
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+		window.EM_QUICKSHOP_DISABLED = true;
+		
+	if (typeof EM == 'undefined') EM = {};
+	EM.QuickShop = {
+		BASE_URL : 'http://www.flexshopper.com/',
+		QS_FRM_TYPE : 1,
+		QS_FRM_WIDTH : 960,
+		QS_FRM_HEIGHT : 650,
+		QS_TEXT: 'QUICK SHOP',
+		QS_BTN_WIDTH : 96,
+		QS_BTN_HEIGHT : 25
+	};
+	if(EM.QuickShop.QS_FRM_TYPE == 0 ){
+		EM.QuickShop.QS_FRM_WIDTH = EM.QuickShop.QS_FRM_WIDTH + "%";
+		EM.QuickShop.QS_FRM_HEIGHT = EM.QuickShop.QS_FRM_HEIGHT + "%";
+	}
+
+//]]	
+</script> 
+<script type="text/javascript">//<![CDATA[
+        var Translator = new Translate([]);
+        //]]></script>
+<script type="text/javascript">
+
+if(typeof(jQuery) != 'undefined'){
+    jQuery(function($) {         
+      // Link Cart
+       
+       $('#topcartlink')
+       .bind('mouseover', showCart)
+       .bind('click', showCart)
+       .bind('mouseout', hideCart);
+      
+      // Cart Content
+       $('#top_cart')
+       .bind('mouseover', showCart)
+       .bind('click', showCart)
+       .bind('mouseout', hideCart);     
+      
+      // Hide Cart
+      var timeout = null;
+    function hideCart() {
+      if (timeout)
+      clearTimeout(timeout);
+      timeout = setTimeout(function() {
+      timeout = null;
+      $('#top_cart').slideUp();
+      $('#topcartlink').removeClass('over');
+      }, 200);
+    }
+      
+      // Show Cart
+    function showCart() {    
+      if (timeout)
+      clearTimeout(timeout);
+      timeout = setTimeout(function() {
+      timeout = null;
+      $('#top_cart').slideDown();
+      $('#topcartlink').addClass('over');
+      }, 200);
+    }
+      
+      var timeoutremove = null;
+    function hideCartRemove() {
+      if (timeoutremove)
+      clearTimeout(timeoutremove);
+      timeoutremove = setTimeout(function() {
+      timeoutremove = null;
+      $('#top_cart').slideUp();
+      $('#topcartlink').removeClass('over');
+      }, 200);
+    }
+      
+      // Link Login   
+       $('#login-link')
+       .bind('mouseover', showAccount)
+       .bind('click', showAccount)
+       .bind('mouseout', hideAccount);
+      
+      // form login
+       $('#login-form-header')
+       .bind('mouseover', showAccount)
+       .bind('click', showAccount)
+       .bind('mouseout', hideAccount);
+      
+      // Hide Login link
+      var timeoutaccount = null;
+    function hideAccount() {
+      if (timeoutaccount)
+      clearTimeout(timeoutaccount);
+      timeoutaccount = setTimeout(function() {
+      timeoutaccount = null;
+      $('#login-form-header').slideUp();
+      $('#login-link').removeClass('over');
+      }, 200);
+    }
+      
+      // Show login form
+    function showAccount() {        
+      if (timeoutaccount)
+      clearTimeout(timeoutaccount);
+      timeoutaccount = setTimeout(function() {
+      timeoutaccount = null;
+      $('#login-form-header').slideDown();
+      $('#login-link').addClass('over');
+      }, 200);
+    } 
+     
+	//popover & tooltip init
+	$( ".jsPopover").popover();
+	$( ".jsTooltip").tooltip();
+	//on modal close
+	$('body').on('hidden.bs.modal', '.modal', function () {
+		//destroy modal on close to clear cache
+		$(this).removeData('bs.modal');
+	});
+  });
+}
+
+//Google analytics 
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-44376140-1', {'cookieDomain': 'flexshopper.com'});
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+
+</script></head>
+<body class=" cms-page-view cms-privacy">
+<div class="wrapper">
+        <noscript>
+        <div class="global-site-notice noscript">
+            <div class="notice-inner">
+                <p>
+                    <strong>JavaScript seems to be disabled in your browser.</strong><br />
+                    You must have JavaScript enabled in your browser to utilize the functionality of this website.                </p>
+            </div>
+        </div>
+    </noscript>
+    <div class="page">
+        <div class="header-wrapper"><div class="container_24 "><div class="grid_24"><div class="header-container">
+    <div class="header row">
+        <div class="dynamic_header_content">
+            <div class="quick-access col-md-4 col-md-push-8">
+                
+<div class="dropdown-cart no_quickshop">
+	<div class="dropdown-cart-content">
+		<div class="dropdown-cart-content-top">
+			<a href="http://www.flexshopper.com/checkout/cart/"><span class="icon cart">icon</span></a>
+			<div class="block block-cart-top">
+								<div class="block-content">
+				
+					<div class="summary">
+                    	<span class="summary-label"><a href="http://www.flexshopper.com/checkout/cart/">Cart</a></span>
+													<span class="cart-qty qty-empty">0</span>
+											</div>
+				
+
+					<div class="cart-popup" style="display:none">
+						<div class="cart-popup-content">
+						<p class="block-subtitle">
+															You have no items in your shopping cart.													</p>
+												<script type="text/javascript">//<![CDATA[
+							jQuery(function($) {
+								// hide dropdown cart when click on icon cart (mobile only)
+								if( /Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent) ) {
+									$('.dropdown-cart').unbind('click');
+									$('.dropdown-cart').click(function () {
+										$('.cart-popup').slideToggle();
+									});
+								} else {
+									var tm;
+									function show(el) {
+										clearTimeout(tm);
+										tm = setTimeout(function() {
+											el.slideDown();
+										}, 200);
+									}
+									function hide(el) {
+										clearTimeout(tm);
+										tm = setTimeout(function() {
+											el.slideUp();
+										}, 200);
+									}
+									$('.dropdown-cart')
+										.bind('mouseenter', show.curry($('.cart-popup', this)))
+										.bind('mouseleave', hide.curry($('.cart-popup', this)))
+										.find('.cart-popup').slideUp();
+								}
+							});
+						//]]>
+						</script>
+						</div>
+					</div>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</div>                <div class="header-linksaction">
+                                <p class="welcome-msg hide-lte0 hide-lte1">
+                Hello.                </p>
+                <ul class="links">
+                    <li class="first">
+                        <a href="https://my.flexshopper.com/account/login?redirect=/dashboard/" title="Log in">Log in</a> or
+                    </li>
+                    <li class=" last">
+                        <a href="http://lto.flexshopper.com/apply/user-info" title="Apply now">Apply now</a>
+                    </li>
+                </ul>
+                                </div>
+                <div class="top-container"><div class="widget widget-static-block ">
+    	    	<div class="text_top hide-lte0 hide-lte1 hide-lte2 hidden-xs hidden-sm hidden-md"><a title="FREE DELIVERY on Select Items" href="#abottom" data-container="body" data-toggle="popover" data-trigger="bottom" data-placement="right" data-content="Free delivery offer applies to scheduled delivery on major appliances. Major appliances include standard size or larger refrigerators, washers &amp; dryers, ranges &amp; ovens, microwaves and dishwashers. Limited metro delivery areas. Additional parts, extensive labor and installation charges are extra. The transit time will vary by delivery address." data-original-title="Free Delivery on Select Items">FREE DELIVERY on Select Items<sup>1</sup></a></div>    </div></div>            </div>
+        </div>
+    <div class="logo_search_header">
+            <div class="col-md-8 col-md-pull-4">
+                <div class="row">
+                    <div class="col-md-5">
+                                        <a href="http://www.flexshopper.com/" title="FlexShopper" class="logo"><strong>FlexShopper</strong><img src="http://www.flexshopper.com/skin/frontend/base/default/images/FlexShopper-logo.png" alt="FlexShopper"></a>
+                                        </div>
+                    <div class="col-md-7">
+                    <form id="search_mini_form" action="http://www.flexshopper.com/catalogsearch/result/" method="get">
+    <div class="form-search">
+        <div class="input_search">
+            <input id="search" type="text" name="q" value="" class="input-text" maxlength="128"><button type="submit" title="Search" class="button"><span><span>Search</span></span></button>
+            <div id="search_autocomplete" class="search-autocomplete"></div>
+            <script type="text/javascript">
+            //<![CDATA[
+                var searchForm = new Varien.searchForm('search_mini_form', 'search', 'Search by Keyword or Item #');
+                searchForm.initAutocomplete('http://www.flexshopper.com/catalogsearch/ajax/suggest/', 'search_autocomplete');
+            //]]>
+            </script>
+</div>
+    </div>
+</form>
+                    </div>
+                </div>
+            </div>
+        </div>        
+    </div>    
+</div>
+        <div class="main_navigation_menu">
+            <div class="container-menu" role="navigation">
+<script type="text/javascript">
+    jQuery(function( $ ){
+        var container = $("#toggleTextMenu");
+        $("#displayTextMenu").click(
+        function( event ){
+            event.preventDefault();
+            if (container.is( ":visible" )){
+                container.slideUp(1000);
+                $("#displayTextMenu").removeClass('hidden-arrow');
+                
+                
+            } else {
+                container.slideDown(1000);
+                $("#displayTextMenu").toggleClass('hidden-arrow');
+            }
+        }
+        );         
+    });              
+</script><div id="hidden-menu" class="menu-hidden-desktop" style="display: none;">
+    <a class="option" id="displayTextMenu" href="#" style=""><span>Navigation</span></a>
+    <div id="toggleTextMenu" style="display: none;">
+        <div class="menu-resize-inner">
+            <div class="menu-resize-inner-content">
+                            </div>
+        </div>
+    </div>
+</div>
+<div class="menu-wrapper">
+        <script type="text/javascript">
+            jQuery(function( $ ){
+                var container = $("#menu-default");
+                var isMobile = /iPhone|iPod|iPad|Phone|Mobile|Android|hpwos/i.test(navigator.userAgent);
+            
+            if(!isMobile){
+                    $(".menu-wrapper").hover(
+                    /*function( event ){
+                        event.preventDefault();
+                        if (container.is( ":visible" )){
+                            container.slideUp(200);
+                            $("#menuleftText").removeClass('hidden-arrow');
+                        } else {
+                            container.slideDown(200);
+                            $("#menuleftText").toggleClass('hidden-arrow');
+                        }
+                    }*/
+                        function(){
+                            container.fadeIn(500);
+                            $("#menuleftText").toggleClass('hidden-arrow');
+                        },
+                        function(){
+                            container.fadeOut(100);
+                            $("#menuleftText").removeClass('hidden-arrow');
+                        }
+                    );
+            }else{
+                $("#menuleftText").click(
+                function( event ){
+                    event.preventDefault();
+                    if (container.is( ":visible" )){
+                        container.hide();
+                        $("#menuleftText").removeClass('hidden-arrow');
+                        
+                        
+                    } else {
+                        container.show();
+                        $("#menuleftText").toggleClass('hidden-arrow');
+                    }
+                }
+                );
+            }              
+            });         
+        </script><div class="all_categories" id="menuleftText" title="Shop all products">
+        <div class="menuleftText-title"><div class="menuleftText"><span>Shop all products</span></div></div>
+    </div>
+    <div class="menuleft">
+                <div id="menu-default" class="mega-menu" style="display: none;">
+            
+                <div class="em_nav">
+	<ul class="vnav ">
+<li class="menu-item-link menu-item-depth-0  menu-item-parent">
+				<a href="http://www.flexshopper.com/tv-home-theater" title="TV &amp; Home Theater">
+					<span>TV &amp; Home Theater</span>
+									</a>
+						
+		
+
+					
+
+					
+	
+				
+							<ul class="menu-container">
+<li class="menu-item-hbox menu-item-depth-1 grid_10 omega alpha menu-item-parent" style="">
+						
+	
+				
+							<ul class="menu-container">
+<li class="menu-item-vbox menu-item-depth-2 grid_5 alpha menu-item-parent" style="">
+					
+							<ul class="menu-container">
+<li class="menu-item-text menu-item-depth-3  ">
+				<h5>TV &amp; Home Theater</h5>
+<ul>
+<li><a href="http://www.flexshopper.com/tv-home-theater/televisions">TVs</a></li>
+<li><a href="http://www.flexshopper.com/tv-home-theater/blu-ray-dvd-players">Blu-ray &amp; DVD Players</a></li>
+<li><a href="http://www.flexshopper.com/audio/home-theater-systems">Home Theater Systems</a></li>
+<li><a href="http://www.flexshopper.com/audio/home-theater-systems/sound-bars">Sound Bars</a></li>
+</ul>
+</li>
+<!-- 3 -->
+</ul>
+<!-- 3 -->
+</li>
+<!-- 2 -->
+
+				
+
+					
+
+					
+	
+							<li class="menu-item-vbox menu-item-depth-2  menu-item-parent" style="width:210px;">
+					
+							<ul class="menu-container">
+<li class="menu-item-text menu-item-depth-3 topnav-hero ">
+				<a href="http://www.flexshopper.com/tv-home-theater/televisions"><img src="http://www.flexshopper.com/media/wysiwyg/menu-hero/nav-hero-tv_1.jpg" alt="Discover the TVs you love"></a>						
+
+					
+	
+				
+							
+		</li>
+<!-- 3 -->
+</ul>
+<!-- 3 -->
+</li>
+<!-- 2 -->
+</ul>
+<!-- 2 -->
+</li>
+<!-- 1 -->
+</ul>
+<!-- 1 -->
+</li>
+<!-- 0 -->
+
+							<li class="menu-item-link menu-item-depth-0  menu-item-parent">
+				<a href="http://www.flexshopper.com/computers-tablets" title="Computers &amp;  Tablets">
+					<span>Computers &amp;  Tablets</span>
+									</a>
+						
+		
+
+					
+
+					
+	
+				
+							<ul class="menu-container">
+<li class="menu-item-hbox menu-item-depth-1 grid_10 omega alpha menu-item-parent" style="">
+						
+	
+				
+							<ul class="menu-container">
+<li class="menu-item-vbox menu-item-depth-2 grid_5 alpha menu-item-parent" style="">
+					
+							<ul class="menu-container">
+<li class="menu-item-text menu-item-depth-3  ">
+				<h5>Computers &amp; Tablets</h5>
+<ul>
+<li><a href="http://www.flexshopper.com/computers-tablets/laptops">Laptops</a></li>
+<li><a href="http://www.flexshopper.com/computers-tablets/desktops-all-in-one-computers">Desktops &amp; All-in-One Computers</a></li>
+<li><a href="http://www.flexshopper.com/computers-tablets/tablets-ebooks">Tablets &amp; eBooks</a></li>
+<li><a href="http://www.flexshopper.com/computers-tablets/monitors">Monitors</a></li>
+<li><a href="http://www.flexshopper.com/computers-tablets/keyboards-mice">Keyboards &amp; Mice</a></li>
+<li><a href="http://www.flexshopper.com/computers-tablets/printers-scanners">Printers &amp; Scanners</a></li>
+</ul>
+</li>
+<!-- 3 -->
+</ul>
+<!-- 3 -->
+</li>
+<!-- 2 -->
+
+				
+
+					
+
+					
+	
+							<li class="menu-item-vbox menu-item-depth-2 grid_5 omega menu-item-parent" style="">
+					
+							<ul class="menu-container">
+<li class="menu-item-text menu-item-depth-3 topnav-hero ">
+				<a href="http://www.flexshopper.com/computers-tablets/laptops"><img src="http://www.flexshopper.com/media/wysiwyg/menu-hero/nav-hero-laptop.jpg" alt="Huge selection of laptops"></a>						
+
+					
+	
+				
+							
+		</li>
+<!-- 3 -->
+</ul>
+<!-- 3 -->
+</li>
+<!-- 2 -->
+</ul>
+<!-- 2 -->
+</li>
+<!-- 1 -->
+</ul>
+<!-- 1 -->
+</li>
+<!-- 0 -->
+
+							<li class="menu-item-link menu-item-depth-0  menu-item-parent">
+				<a href="http://www.flexshopper.com/cameras-camcorders" title="Cameras &amp; Camcorders">
+					<span>Cameras &amp; Camcorders</span>
+									</a>
+						
+		
+
+					
+
+					
+	
+				
+							<ul class="menu-container">
+<li class="menu-item-hbox menu-item-depth-1 grid_10 omega alpha menu-item-parent" style="">
+						
+	
+				
+							<ul class="menu-container">
+<li class="menu-item-vbox menu-item-depth-2 grid_5 alpha menu-item-parent" style="">
+					
+							<ul class="menu-container">
+<li class="menu-item-text menu-item-depth-3  ">
+				<h5>Cameras</h5>
+<ul>
+<li><a href="http://www.flexshopper.com/cameras-camcorders/digital-cameras/slr-digital-cameras">Digital SLR Cameras</a></li>
+<li><a href="http://www.flexshopper.com/cameras-camcorders/digital-cameras/compact-digital-cameras">Compact Digital Cameras</a></li>
+<li><a href="http://www.flexshopper.com/cameras-camcorders/digital-cameras">All Digital Cameras</a></li>
+</ul>
+</li>
+<!-- 3 -->
+</ul>
+<!-- 3 -->
+</li>
+<!-- 2 -->
+
+				
+
+					
+
+					
+	
+							<li class="menu-item-vbox menu-item-depth-2 grid_5 alpha menu-item-parent" style="">
+					
+							<ul class="menu-container">
+<li class="menu-item-text menu-item-depth-3  ">
+				<h5>Camcorders</h5>
+<ul>
+<li><a href="http://www.flexshopper.com/cameras-camcorders/camcorders/flash-memory-camcorders">Flash Memory Camcorders</a></li>
+<li><a href="http://www.flexshopper.com/cameras-camcorders/camcorders/hdd-camcorders">HD Camcorders</a></li>
+
+<li><a href="http://www.flexshopper.com/cameras-camcorders/camcorders">All Camcorders</a></li>
+</ul>
+</li>
+<!-- 3 -->
+</ul>
+<!-- 3 -->
+</li>
+<!-- 2 -->
+</ul>
+<!-- 2 -->
+</li>
+<!-- 1 -->
+</ul>
+<!-- 1 -->
+</li>
+<!-- 0 -->
+
+							<li class="menu-item-link menu-item-depth-0  menu-item-parent">
+				<a href="http://www.flexshopper.com/audio" title="Audio">
+					<span>Audio</span>
+									</a>
+						
+		
+
+					
+
+					
+	
+				
+							<ul class="menu-container">
+<li class="menu-item-hbox menu-item-depth-1 grid_10 omega alpha menu-item-parent" style="">
+						
+	
+				
+							<ul class="menu-container">
+<li class="menu-item-vbox menu-item-depth-2 grid_5 alpha menu-item-parent" style="">
+					
+							<ul class="menu-container">
+<li class="menu-item-text menu-item-depth-3  ">
+				<h5>Portable Audio</h5>
+<ul>
+<li><a href="http://www.flexshopper.com/audio/ipods-mp3-players">iPods &amp; MP3 Players</a></li>
+<li><a href="http://www.flexshopper.com/audio/headphones">Headphones</a></li>
+<li><a href="http://www.flexshopper.com/audio/portable-audio-video">Portable Speakers &amp; Radios</a></li>
+</ul>
+</li>
+<!-- 3 -->
+</ul>
+<!-- 3 -->
+</li>
+<!-- 2 -->
+
+				
+
+					
+
+					
+	
+							<li class="menu-item-vbox menu-item-depth-2 grid_5 omega menu-item-parent" style="">
+					
+							<ul class="menu-container">
+<li class="menu-item-text menu-item-depth-3  ">
+				<h5>Home Audio</h5>
+<ul>
+<li><a href="http://www.flexshopper.com/audio/home-theater-systems">Home Theater Systems</a></li>
+<li><a href="http://www.flexshopper.com/audio/receivers-amplifiers">Receivers &amp; Amplifiers</a></li>
+<li><a href="http://www.flexshopper.com/audio/speakers">Speakers</a></li>
+<li><a href="http://www.flexshopper.com/audio/players-turntables">Players &amp; Turntables</a></li>
+<li><a href="http://www.flexshopper.com/audio/musical-instruments">Musical Instruments</a></li>
+<li><a href="http://www.flexshopper.com/audio/radios">Radios</a></li>
+</ul>
+</li>
+<!-- 3 -->
+</ul>
+<!-- 3 -->
+</li>
+<!-- 2 -->
+</ul>
+<!-- 2 -->
+</li>
+<!-- 1 -->
+
+				
+
+					
+
+							<li class="menu-item-hbox menu-item-depth-1 grid_10 omega alpha menu-item-parent" style="">
+						
+	
+				
+							<ul class="menu-container">
+<li class="menu-item-vbox menu-item-depth-2 grid_10 omega menu-item-parent" style="">
+					
+							<ul class="menu-container">
+<li class="menu-item-text menu-item-depth-3 topnav-hero ">
+				<a href="http://www.flexshopper.com/audio/headphones/brand/beats-electronics"><img src="http://www.flexshopper.com/media/wysiwyg/menu-hero/nav-hero-audio.jpg" alt="Beats by Dre"></a>						
+
+					
+	
+				
+							
+		</li>
+<!-- 3 -->
+</ul>
+<!-- 3 -->
+</li>
+<!-- 2 -->
+</ul>
+<!-- 2 -->
+</li>
+<!-- 1 -->
+</ul>
+<!-- 1 -->
+</li>
+<!-- 0 -->
+
+							<li class="menu-item-link menu-item-depth-0  menu-item-parent">
+				<a href="http://www.flexshopper.com/musical-instruments" title="Musical Instruments">
+					<span>Musical Instruments</span>
+									</a>
+						
+		
+
+					
+
+					
+	
+				
+							<ul class="menu-container">
+<li class="menu-item-hbox menu-item-depth-1 grid_10 omega alpha menu-item-parent" style="">
+						
+	
+				
+							<ul class="menu-container">
+<li class="menu-item-vbox menu-item-depth-2 grid_5 alpha menu-item-parent" style="">
+					
+							<ul class="menu-container">
+<li class="menu-item-text menu-item-depth-3  ">
+				<h5>Musical Instruments</h5>
+<ul>
+<li><a href="http://www.flexshopper.com/musical-instruments/guitars">Guitars</a></li>
+<li><a href="http://www.flexshopper.com/musical-instruments/keyboards">Keyboards</a></li>
+<li><a href="http://www.flexshopper.com/musical-instruments/drums">Drums</a></li>
+<li><a href="http://www.flexshopper.com/musical-instruments/amps-effects">Amps &amp; Effects</a></li>
+
+</ul>
+</li>
+<!-- 3 -->
+</ul>
+<!-- 3 -->
+</li>
+<!-- 2 -->
+
+				
+
+					
+
+					
+	
+							<li class="menu-item-vbox menu-item-depth-2 grid_5 alpha menu-item-parent" style="">
+					
+							<ul class="menu-container">
+<li class="menu-item-text menu-item-depth-3  ">
+				<h5>Band &amp; Orchestra</h5>
+<ul>
+<li><a href="http://www.flexshopper.com/musical-instruments/band-orchestra/brass-horns/trumpets">Trumpets</a></li>
+<li><a href="http://www.flexshopper.com/musical-instruments/band-orchestra/brass-horns/tubas">Tubas</a></li>
+<li><a href="http://www.flexshopper.com/musical-instruments/band-orchestra/brass-horns/baritone-horns">Baritone Horns</a></li>
+<li><a href="http://www.flexshopper.com/musical-instruments/band-orchestra/brass-horns/trombones">Trombones</a></li>
+<li><a href="http://www.flexshopper.com/musical-instruments/band-orchestra/brass-horns/french-horns">French Horns</a></li>
+<li><a href="http://www.flexshopper.com/musical-instruments/band-orchestra/percussion">Percussion</a></li>
+</ul>
+</li>
+<!-- 3 -->
+</ul>
+<!-- 3 -->
+</li>
+<!-- 2 -->
+</ul>
+<!-- 2 -->
+</li>
+<!-- 1 -->
+</ul>
+<!-- 1 -->
+</li>
+<!-- 0 -->
+
+							<li class="menu-item-link menu-item-depth-0  menu-item-parent">
+				<a href="http://www.flexshopper.com/health-fitness-sports" title="Health, Fitness &amp; Sports">
+					<span>Health, Fitness &amp; Sports</span>
+									</a>
+						
+		
+
+					
+
+					
+	
+				
+							<ul class="menu-container">
+<li class="menu-item-hbox menu-item-depth-1 grid_10 omega alpha menu-item-parent" style="">
+						
+	
+				
+							<ul class="menu-container">
+<li class="menu-item-vbox menu-item-depth-2 grid_5 omega menu-item-parent" style="">
+					
+							<ul class="menu-container">
+<li class="menu-item-text menu-item-depth-3  ">
+				<h5>Fitness &amp;  Exercise</h5>
+<ul>
+<li><a href="http://www.flexshopper.com/health-fitness-sports/fitness/treadmills">Treadmills</a></li>
+<li><a href="http://www.flexshopper.com/health-fitness-sports/fitness/ellipticals">Ellipticals</a></li>
+<li><a href="http://www.flexshopper.com/health-fitness-sports/fitness/exercise-cycles">Exercise Cycles</a></li>
+
+</ul>
+</li>
+<!-- 3 -->
+</ul>
+<!-- 3 -->
+</li>
+<!-- 2 -->
+</ul>
+<!-- 2 -->
+</li>
+<!-- 1 -->
+
+				
+
+					
+
+							<li class="menu-item-hbox menu-item-depth-1 grid_10 omega alpha menu-item-parent" style="">
+						
+	
+				
+							<ul class="menu-container">
+<li class="menu-item-vbox menu-item-depth-2 grid_5 omega menu-item-parent" style="">
+					
+							<ul class="menu-container">
+<li class="menu-item-text menu-item-depth-3 topnav-hero ">
+										
+
+					
+	
+				
+							
+		</li>
+<!-- 3 -->
+</ul>
+<!-- 3 -->
+</li>
+<!-- 2 -->
+</ul>
+<!-- 2 -->
+</li>
+<!-- 1 -->
+</ul>
+<!-- 1 -->
+</li>
+<!-- 0 -->
+
+							<li class="menu-item-link menu-item-depth-0  ">
+				<a href="http://www.flexshopper.com/car-electronics-gps/car-audio-video" title="Car Audio">
+					<span>Car Audio</span>
+									</a>
+						
+		
+
+					
+
+					
+	
+				
+							
+		</li>
+<!-- 0 -->
+
+							<li class="menu-item-link menu-item-depth-0  menu-item-parent">
+				<a href="http://www.flexshopper.com/video-games" title="Video Games">
+					<span>Video Games</span>
+									</a>
+						
+		
+
+					
+
+					
+	
+				
+							<ul class="menu-container">
+<li class="menu-item-hbox menu-item-depth-1 grid_10 omega alpha menu-item-parent" style="">
+						
+	
+				
+							<ul class="menu-container">
+<li class="menu-item-vbox menu-item-depth-2 grid_5 alpha menu-item-parent" style="">
+					
+							<ul class="menu-container">
+<li class="menu-item-text menu-item-depth-3  ">
+				<h5>Video Games</h5>
+<ul>
+<li><a href="http://www.flexshopper.com/video-games/xbox-one">Xbox One</a></li>
+<li><a href="http://www.flexshopper.com/video-games/playstation-4">Playstation 4</a></li>
+<li><a href="http://www.flexshopper.com/video-games/xbox-360">Xbox 360</a></li>
+<li><a href="http://www.flexshopper.com/video-games/legacy-game-consoles">Legacy Game Consoles</a></li>
+</ul>
+</li>
+<!-- 3 -->
+</ul>
+<!-- 3 -->
+</li>
+<!-- 2 -->
+
+				
+
+					
+
+					
+	
+							<li class="menu-item-vbox menu-item-depth-2 grid_5 omega menu-item-parent" style="">
+					
+							<ul class="menu-container">
+<li class="menu-item-text menu-item-depth-3 topnav-hero ">
+				<a href="http://www.flexshopper.com/video-games/xbox-one"><img src="http://www.flexshopper.com/media/wysiwyg/menu-hero/nav-hero-videogaming_1.jpg" alt="Xbox One"></a>
+						
+
+					
+	
+				
+							
+		</li>
+<!-- 3 -->
+</ul>
+<!-- 3 -->
+</li>
+<!-- 2 -->
+</ul>
+<!-- 2 -->
+</li>
+<!-- 1 -->
+</ul>
+<!-- 1 -->
+</li>
+<!-- 0 -->
+
+							<li class="menu-item-link menu-item-depth-0  menu-item-parent">
+				<a href="http://www.flexshopper.com/outdoor-living" title="Outdoor Living">
+					<span>Outdoor Living</span>
+									</a>
+						
+		
+
+					
+
+					
+	
+				
+							<ul class="menu-container">
+<li class="menu-item-hbox menu-item-depth-1 grid_10 omega alpha menu-item-parent" style="">
+						
+	
+				
+							<ul class="menu-container">
+<li class="menu-item-vbox menu-item-depth-2 grid_5 alpha menu-item-parent" style="">
+					
+							<ul class="menu-container">
+<li class="menu-item-text menu-item-depth-3  ">
+				<h5>Grills</h5>
+<ul>
+<li><a href="http://www.flexshopper.com/outdoor-living/grills/gas-grills">Gas Grills</a></li>
+<li><a href="http://www.flexshopper.com/outdoor-living/grills/charcoal-grills">Charcoal Grills</a></li>
+<li><a href="http://www.flexshopper.com/outdoor-living/grills/electric-grills">Electric Grills</a></li>
+</ul>
+</li>
+<!-- 3 -->
+</ul>
+<!-- 3 -->
+</li>
+<!-- 2 -->
+
+				
+
+					
+
+					
+	
+							<li class="menu-item-vbox menu-item-depth-2 grid_5 alpha menu-item-parent" style="">
+					
+							<ul class="menu-container">
+<li class="menu-item-text menu-item-depth-3  ">
+				<h5>Patio Furniture</h5>
+<ul>
+<li><a href="http://www.flexshopper.com/outdoor-living/patio-furniture/outdoor-dining-sets">Outdoor Dining Sets</a></li>
+<li><a href="http://www.flexshopper.com/outdoor-living/patio-furniture/outdoor-seating-sets">Outdoor Seating Sets</a></li>
+<li><a href="http://www.flexshopper.com/outdoor-living/patio-furniture/outdoor-sofas">Sofas &amp; Loveseats</a></li>
+<li><a href="http://www.flexshopper.com/outdoor-living/patio-furniture/small-space-furniture">Small Space Furniture</a></li>
+<li><a href="http://www.flexshopper.com/outdoor-living/patio-furniture/fire-pit-sets">Fire Pit Sets</a></li>
+</ul>
+</li>
+<!-- 3 -->
+</ul>
+<!-- 3 -->
+</li>
+<!-- 2 -->
+</ul>
+<!-- 2 -->
+</li>
+<!-- 1 -->
+</ul>
+<!-- 1 -->
+</li>
+<!-- 0 -->
+
+							<li class="menu-item-link menu-item-depth-0  menu-item-parent">
+				<a href="http://www.flexshopper.com/appliances" title="Appliances &amp; Vacuums">
+					<span>Appliances &amp; Vacuums</span>
+									</a>
+						
+		
+
+					
+
+					
+	
+				
+							<ul class="menu-container">
+<li class="menu-item-hbox menu-item-depth-1 grid_10 omega alpha menu-item-parent" style="">
+						
+	
+				
+							<ul class="menu-container">
+<li class="menu-item-vbox menu-item-depth-2 grid_5 alpha menu-item-parent" style="">
+					
+							<ul class="menu-container">
+<li class="menu-item-text menu-item-depth-3  ">
+				<h5>Major Appliances</h5>
+<ul>
+<li><a href="http://www.flexshopper.com/appliances/washers-dryers">Washers &amp; Dryers</a></li>
+<li><a href="http://www.flexshopper.com/appliances/refrigerators-freezers">Refrigerators &amp; Freezers</a></li>
+<li><a href="http://www.flexshopper.com/appliances/ranges-ovens">Ranges &amp; Ovens</a></li>
+<li><a href="http://www.flexshopper.com/appliances/microwave-ovens">Microwave Ovens</a></li>
+<li><a href="http://www.flexshopper.com/appliances/dishwashers">Dishwashers</a></li>
+</ul>
+</li>
+<!-- 3 -->
+</ul>
+<!-- 3 -->
+</li>
+<!-- 2 -->
+
+				
+
+					
+
+					
+	
+							<li class="menu-item-vbox menu-item-depth-2 grid_5 omega menu-item-parent" style="">
+					
+							<ul class="menu-container">
+<li class="menu-item-text menu-item-depth-3  ">
+				<h5>Small Appliances</h5>
+<ul>
+<li><a href="http://www.flexshopper.com/appliances/small-kitchen-appliances/toasters-grills">Toasters &amp; Grills</a></li>
+<li><a href="http://www.flexshopper.com/appliances/small-kitchen-appliances/mixers-blenders-grinders">Mixers, Blenders &amp; Grinders</a></li>
+<li><a href="http://www.flexshopper.com/appliances/small-kitchen-appliances/coffee-makers">Coffee Makers</a></li>
+<li><a href="http://www.flexshopper.com/appliances/vacuums-floor-care">Vacuums &amp; Floor Care</a></li>
+<li><a href="http://www.flexshopper.com/appliances/small-kitchen-appliances">All Kitchen Appliances</a></li>
+</ul>
+</li>
+<!-- 3 -->
+</ul>
+<!-- 3 -->
+</li>
+<!-- 2 -->
+</ul>
+<!-- 2 -->
+</li>
+<!-- 1 -->
+</ul>
+<!-- 1 -->
+</li>
+<!-- 0 -->
+	</ul>
+</div>
+
+        </div>
+    </div>
+</div>
+<div class="cms-toplinks">
+    <div id="hzmenu">
+<div class="em_nav">
+	<ul class="hnav ">
+<li class="menu-item-text menu-item-depth-0  ">
+				<span class="widget widget-cms-link-inline"><a href="http://www.flexshopper.com/personal-shopping-assistant" title="Personal Shopping Assistant"><span>Personal Shopper</span></a></span>
+						
+
+					
+	
+				
+							
+		</li>
+<!-- 0 -->
+
+				
+
+							<li class="menu-item-text menu-item-depth-0  ">
+				<span class="widget widget-cms-link"><a href="http://www.flexshopper.com/faq" title="FAQs"><span>FAQs</span></a></span>
+						
+
+					
+	
+				
+							
+		</li>
+<!-- 0 -->
+
+							<li class="menu-item-link menu-item-depth-0  ">
+				<a href="http://merchants.flexshopper.com/" title="Merchants">
+					<span>Merchants</span>
+									</a>
+						
+		
+
+					
+
+					
+	
+				
+							
+		</li>
+<!-- 0 -->
+
+				
+
+							<li class="menu-item-text menu-item-depth-0  ">
+				<span class="widget widget-cms-link"><a href="http://www.flexshopper.com/contact-us" title="Contact us"><span>Contact us</span></a></span>
+						
+
+					
+	
+				
+							
+		</li>
+<!-- 0 -->
+
+							<li class="menu-item-link menu-item-depth-0  ">
+				<a href="https://my.flexshopper.com/dashboard" title="My Account">
+					<span>My Account</span>
+									</a>
+						
+		
+
+					
+
+					
+	
+				
+			
+	</li>
+<!-- 0 -->
+	</ul>
+</div>
+</div>
+</div>
+</div>        </div>  
+<p id="back-top"><a href="#top">Back to Top</a></p></div><div class="clear"></div></div></div><div class=""><div class="widget widget-static-block"><div class="global-promo-mesg">Hurry, Limited time only! <strong>Get your first weekly payment FREE**</strong> with an approved FlexShopper spending limit - <a style="text-decoration: underline;" title="Apply Now" href="https://lto.flexshopper.com/apply/">Apply Now</a></div></div></div><div class="container_24 "><div class="box-panel box-main-content"><div class="grid_24 grid_content"><div class="breadcrumbs">
+    <ul>
+                    <li class="home">
+                            <a href="http://www.flexshopper.com/" title="Go to Home Page">Home</a>
+                                        <span>/ </span>
+                        </li>
+                    <li class="cms_page">
+                            <strong>Privacy Policy</strong>
+                                    </li>
+            </ul>
+</div><div class="page-title">
+        <h1>Privacy Policy</h1>
+    </div>
+<div class="std"><p><strong>Privacy Policy Statement </strong>effective 11/27/2013<strong></strong></p>
+<p>This privacy policy describes how FlexShopper LLC. (“we” or “us”) collects, uses and shares information about that is captured while you use this website.</p>
+<p>NOTE: We do not sell our products to anyone under the age of 18. If you are under the age of 18, <strong>do not</strong> register on our site.</p>
+<p><strong>Your Consent</strong><br> By accessing or using Flexshopper.com (the “site”) or by leasing or applying to lease a product through FlexShopper, you consent to the privacy practices</p>
+<p><strong>How Do We Collect Information And What Information Do We Collect?</strong><br> We may collect information from you including, but not limited to, when you: lease or rent any products; order, return or exchange products; contact us through our site or using a social media platform such as Facebook; sign up for emails, mobile messages or social media notifications from us; enter a contest or sweepstakes on our site; or provide comments, suggestions or other input. We may collect personal information such as your name, social security number, email address, home or work address, or telephone number(s). We may also collect demographic information such as your ZIP code, gender, preferences, interests, and favorites for business purposes including, but not limited to, developing a better understanding of our customers and improving our offerings.<br> We also collect certain non-personal, anonymous information about your use of our sites as well about your computer, including your IP address, the type of browser you are using, domain names, access times, and referring website addresses. We use this information for our general business operations, to maintain the quality of our services, and to provide general statistics regarding our customers’ use of the site. Except as otherwise explained in this policy, we may combine the non-personal information we collect from you with your personal information.</p>
+<p><strong>Cookies and Other Tracking Technology</strong> <br> Our website also uses "cookies" (small data files stored on your computer) and other tracking technologies to collect information about your visit to our sites. The cookies and tracking technologies we use do not capture personally-identifiable information. The information that is captured about your visit may be used in a variety of ways, such as to monitor and maintain information about your visits to our website, to help us identify and address problems with and to improve our website, to analyze web traffic trends, and to help protect the security and integrity of our website. You may set your browser not to accept cookies or to notify you when you receive cookies, giving you the opportunity to decide whether to accept cookies. If you do not accept cookies however, you will not experience a personalized visit nor will you be able to subscribe to the service offerings on the site.</p>
+<p>We may also use pixel tags (also known as “clear gifs,” “Web beacons” or “1-by-1gifs”). These may be used in connection with certain pages of our sites or with email messages to measure the effectiveness of our communications, to compile statistics about usage and response rates, and to assist us in resolving issues that may arise on this website.</p>
+<p><strong>How We Use Collected Personally-Identifiable Information</strong></p>
+<p>We may use the personally-identifiable information we collect for the following purposes:</p>
+<ul type="disc">
+<li>to respond to your inquiries, fulfill your requests, process transactions, and facilitate collecting payments;</li>
+<li>to communicate to you important information regarding this website, changes to our Terms and Conditions, and/or other administrative information;</li>
+<li>for our business purposes, such as data analysis, audits, developing new products, enhancing our sites, improving our services, identifying usage trends and determining the effectiveness of our promotional campaigns;</li>
+<li>for risk control, to comply with laws and regulations and to comply with other legal process and law enforcement requirements;</li>
+<li><em>if you register a profile with us</em>, to contact you, via the phone or email:</li>
+<ul type="circle">
+<li>to update you on the status of your order and for related product or service information; and</li>
+<li>for marketing purposes, such as notifying you of product discounts, website changes, company news, and promotions;</li>
+<li>to conduct surveys and research regarding your opinion of our current services or potential new services that we may offer; and</li>
+</ul>
+<li>to personalize your experience or to improve our website and website offerings by allowing us to customize the content and/or layout of our page based on feedback and information we receive from you.</li>
+</ul>
+<p>We may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your personal information is not transferred to a third party.</p>
+<p><strong> How Do We Protect Your Personal Information?</strong><br> We implement a variety of industry standard security measures to maintain the safety of your personal information, including encryption technologies.&nbsp;When you provide us with certain types of sensitive information such as financial information, we redirect you to a secure server. At our actual facilities we implement security measures to protect against the loss, misuse or alteration of information that we have collected from you at this website. Unfortunately, no security technology is completely secure, and you should remember that email is not a secure means of communication.</p>
+<p><strong>Do We Disclose Your Personal Information To Outside Parties?</strong><br> We do not sell, trade, or otherwise transfer your personally identifiable information to outside parties without your consent. We may disclose your personally identifiable information to trusted third parties who assist us in operating our website, processing transactions, conducting our business, or servicing you, so long as these parties agree to keep this information confidential, consistent with this privacy policy. We also may disclose this information to third parties: (1) when we have reason to believe that such disclosure is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property, customers or other users of this website, or anyone else who could be harmed by such activities; or (2) to respond to judicial process and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law, such as to comply with a subpoena or similar legal process. We may report information about your account to credit bureaus. Late payments, missed payments, or other defaults on your account may be reflected in your credit report. Non-personal information collected at this website may be provided to third-parties for marketing, advertising, or other uses.<br> Vermont residents: We will not disclose information about you with affiliates or non-affiliated, third party companies or financial institutions, other than as required or permitted by law, without your express permission.<br> California residents: We will not share information we collect about you with affiliated or non-affiliated third parties, except in the limited circumstances permitted under state law, or if you give us your permission.<br> Nevada residents: If you would like more information regarding this notice or Nevada’s law regarding corporate do-not-call registries, you can contact us at the toll-free number or address included in this notice or the Bureau of Consumer Protection, Office of the Nevada Attorney General at 555 E. Washington Street, Suite 3900, Las Vegas, Nevada 89101; Phone: (702)486-3132/Email: BCPINFO@ag.state.nv.us.<br> North Dakota residents: We will not disclose information about you with non-affiliated, third party companies or financial institutions, other than as required or permitted by law, without your express permission.</p>
+<p><strong>How Do You Stop Receiving Marketing And Other Communications?</strong><br> As mentioned, most browsers can be configured to reject cookies or other tracking technologies or alert you when cookies are being placed on your computer. If you would like to stop receiving communications from us or to cancel your profile, log into your account, go to the Change Account Preferences page and select your information sharing and contact preferences. If you would like to cease receiving marketing emails from us, just click the unsubscribe link at the bottom of the email and you will shortly cease receiving emails from us. By electing to opt-out of information sharing, you will not receive updates on new products, services, or special offers.</p>
+<p><strong>Third Party Links</strong><br> This website may contain links to other websites so that you may learn more about the products available through us and other matters that we feel may be of interest to you. We are providing these links to you only as a convenience, and the inclusion of any link does not imply endorsement by us of the site or any association with its operators. We have no control over the nature, content and availability of those websites, and are in no manner responsible or liable for the availability and content of the websites to which this website is linked. We make no representations whatsoever about any other site you may access through this website. The inclusion of any links does not necessarily imply a recommendation or endorse the views expressed within them. Any concerns regarding any product or service offered by a website to which this website is linked or the link itself should be directed to the operator of that specific website and not to us.</p>
+<p><strong>Google Analytics Remarketing</strong><br>This website uses Remarketing with Google Analytics to advertise online. Third-party vendors, including Google, may show our ads on sites across the internet. We and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the Double Click cookie) together to inform, optimize, and serve ads based on your past visits to our website.</p>
+<p><strong>Children’s Online Privacy Protection Act</strong><br> We respect the privacy of your children, and we comply with the Children’s Online Privacy Protection Act (“COPPA”). We do not knowingly collect or retain personally identifiable information from consumers under the age of thirteen (13). You must be at least eighteen (18) years of age to obtain services from us.</p>
+<p><strong>Limited to Online Privacy Policy</strong><br> This online privacy policy applies to information collected through our website only, and not to information collected offline.</p>
+<p><strong>Changes to Our Privacy Policy</strong><br> We reserve the right to modify our privacy policy at any time in the future. Any changes to our privacy policy will be posted on this web page with the date of revision. We encourage you to review our privacy policy periodically.</p>
+<p><strong>Contact Information</strong><br> We welcome your comments regarding this Privacy Policy Statement. If you have questions about this Privacy Policy Statement, please contact us at <span style="text-decoration: underline;">legal@FlexShopper.com</span>.</p></div></div><div class="clear"></div></div></div><div class="container_24 footer-panel"><div class="box-panel"><div class="grid_24"><div class="widget widget-static-block newsletter">
+    	    	<div class="row">
+<div class="col-md-9">
+    <form action="https://www.flexshopper.com/newsletter/subscriber/new/" method="post" id="newsletter-validate-detail">
+        <div class="form-subscribe-header col-sm-5">
+            <label for="newsletter">FlexShopper Newsletter</label>
+            <p>Get info about new products, exclusive promotions and company news.</p>
+        </div>
+        <div class="form-subscribe-content col-sm-7 form-group">
+            <span id="newsletterConfirmation" class="hidden text-success">Thank you for subscribing!</span>
+            <div class="input-group" id="newsletter_container">
+               <input type="text" name="email" id="newsletter" title="Sign up for our newsletter" class="required-entry validate-email form-control">
+                <span id="newsletter_error" name="newsletter_error" class="form-validate hidden">Invalid email address</span>
+            
+            <div class="actions input-group-btn">
+                <button id="newsletter-subscribe" type="submit" title="Subscribe" class="btn btn-primary">Subscribe</button>
+            </div>
+            </div>
+        </div>
+    </form>
+    <script type="text/javascript">
+    //<![CDATA[
+        var searchForm = new Varien.searchForm('newsletter-validate-detail', 'newsletter', 'Enter your email address'); 
+        var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail');
+        function validateEmail(email) {
+            var re = /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+            return re.test(email);
+        }
+
+    var $newsLetterError = jQuery('#newsletter_error');
+    var $newsletterContainer = jQuery('#newsletter_container');
+
+    jQuery('#newsletter').keyup(function() {
+        $newsLetterError.addClass('hidden');
+        $newsletterContainer.removeClass('has-error');
+    });
+
+    jQuery('#newsletter-subscribe').click(function(e) {
+            e.preventDefault();
+            var newsletterEmail = jQuery('#newsletter').val();
+            if (!validateEmail(newsletterEmail)) {
+                $newsletterContainer.addClass('has-error');
+                $newsLetterError.removeClass('hidden');
+                return;
+            }
+
+            jQuery.post('/newsletter-subscribe.php', {"email": newsletterEmail}, function() {
+                $newsLetterError.addClass('hidden');
+                $newsletterContainer.removeClass('has-error');
+                jQuery('#newsletterConfirmation').removeClass('hidden');
+            });
+        });
+    //]]>
+    </script>
+</div>
+<div class="col-md-3 col-xs-12">
+    <div class="secure-seals">
+    <p><strong class="text-dark">Safe &amp; Secure</strong></p>
+    <table width="135" border="0" cellpadding="2" cellspacing="0" title="Click to Verify - This site chose Symantec SSL for secure e-commerce and confidential communications." align="center">
+    <tbody><tr>
+        <td width="135" align="center" valign="top"><script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.flexshopper.com&amp;size=S&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en"></script></td>
+    </tr>
+</tbody></table>
+    </div>
+</div>
+</div>
+    </div></div><div class="clear"></div></div></div><div class="footer-wrapper" id="abottom"> <div class="container_24 "><div class="grid_24"><div class="row">
+    <div class="col-md-5">
+        <div class="footer-logo">
+        <a href="http://www.flexshopper.com/"><img src="//lto.flexshopper.com/img/FlexShopper-logo-white.png" alt="FlexShopper"></a>
+        <span class="footer-copyright">© 2014 FlexShopper LLC. All Rights Reserved. </span>
+        </div>
+    </div>
+    <div class="col-md-7 footer-links">
+    <ul class="row">
+<li class="col-sm-4"></li>
+<li class="col-sm-4">
+<h3>Overview</h3>
+<ul class="list-unstyled">
+<li><a title="Apply today" href="https://lto.flexshopper.com/apply">Apply today</a></li>
+<li><a title="My account" href="https://my.flexshopper.com/dashboard">My account</a></li>
+<li><span class="widget widget-cms-link"><a href="http://www.flexshopper.com/faq" title="FAQs"><span>FAQs</span></a></span>
+</li>
+</ul>
+</li>
+<li class="col-sm-4">
+<h3>FlexShopper</h3>
+<ul>
+<li><a title="About us" href="http://www.flexshopper.com/#scrollAbout">About us</a></li>
+<li><span class="widget widget-cms-link"><a href="http://www.flexshopper.com/privacy" title="Privacy Policy"><span>Privacy Policy</span></a></span>
+</li>
+<li><span class="widget widget-cms-link"><a href="http://www.flexshopper.com/service-agreement" title="Website Services Agreement"><span>Website Services Agreement</span></a></span>
+</li>
+<li><span class="widget widget-cms-link"><a href="http://www.flexshopper.com/service-agreement-mobile" title="Mobile App Services Agreement "><span>Mobile App Services Agreement </span></a></span>
+</li>
+<li><span class="widget widget-cms-link"><a href="http://www.flexshopper.com/contact-us" title="Contact us"><span>Contact us</span></a></span>
+</li>
+<li><a title="Merchants" href="https://merchants.flexshopper.com/">Merchants</a></li>
+</ul>
+</li>
+</ul>    </div>
+</div>
+<div class="footer-copy">
+<hr>
+<p>* This is an estimated weekly payment, rounded to the nearest dollar for the merchandise shown if you were to acquire ownership after making 52 weekly payments. The actual weekly payment may vary depending on your spending limit and how much you spend; the actual weekly payment will be in your lease. Ownership is optional and you may purchase or return the merchandise at any time after the initial payment has been paid, the minimum lease period has been met and provided proper notice is given to FlexShopper per your lease. See your lease for more information regarding ownership and minimum term.</p>
+<p><sup>†</sup> The cash price is the amount you would have paid online or at a store to buy the item(s). If you pay the cash price plus $50 within ninety days of the Lease’s effective date you will own the item(s).</p>
+<p><sup>1</sup> Free delivery offer applies to scheduled delivery on major appliances, treadmills, ellipticals, exercise cycles and outdoor grills. Major appliances include standard size or larger refrigerators, washers &amp; dryers, ranges &amp; ovens, microwaves and dishwashers. Limited metro delivery areas. Additional parts, extensive labor and installation charges are extra. The transit time will vary by delivery address.</p>
+<p>** You will be given a credit for your first weekly payment as described in your Lease Agreement. All other terms and conditions of your Agreement remain in effect. This credit is only valid for online orders and for a single lease per individual.</p></div>
+<script>
+    jQuery(function($) {
+        var pageviews = [];
+        var extraparms = '';
+        if (typeof _faq !== "undefined")
+        {
+            metric = null;
+            for (var i = 0; i < _faq.length; i++) {
+                if (_faq[i][0] == '_setEvent')
+                { event = _faq[i][1]; }
+
+                if (_faq[i][0] == '_setMetric')
+                { metric = [_faq[i][1], _faq[i][2]]; }
+
+                if (_faq[i] == '_trackPageview') {
+                    pageviews.push(
+                        { event : event, metric : metric}
+
+                    );
+                }
+            }
+
+            extraparms = '&' + $.param(
+                {pageviews:pageviews}
+
+            );
+        }
+//check for bucket
+        if (typeof bucket !== "undefined")
+        { extraparms += '&bucket=' + bucket; }
+
+//check for bucket
+        if (typeof agreementId !== "undefined")
+        { extraparms += '&agreementId=' + agreementId; }
+
+        var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+        host = (("https:" == document.location.protocol) ? "https://TRACKING_CODE_URL/" : "http://TRACKING_CODE_URL/");
+        po.src = host + "trk?url=" + document.URL + "&referrer=" + encodeURIComponent(document.referrer) + extraparms;
+        po.rel = "nofollow";
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+    });
+</script></div></div></div><div class=""><div id="containerDiv" style="display:none">	
+	<a href="javascript:void(0);" id="close">close</a>
+	<div class="ajaxcart">
+		<img class="ajax_loading" id="ajax_loading" src="http://www.flexshopper.com/skin/frontend/base/default/images/em_ajaxcart/loading.gif" alt="">
+		<div id="ajax_content" style="display:none">
+			<div class="ajaxcart_row1 row1">					
+				<div id="ajax_image"></div>
+			</div>
+			<div class="row2">
+				<a href="javascript:void(0);" id="closeLink" class="back btn btn-sm btn-default"><span>Continue Shopping</span></a> &nbsp; 
+				<a id="viewcart_button" href="http://www.flexshopper.com/checkout/cart/" class="next btn btn-sm btn-success"><span>View cart &amp; checkout</span></a>
+			</div>	
+		</div>
+	</div>
+</div>
+<input type="hidden" id="enable_module" value="1">
+<input type="hidden" id="ajax_base_url" value="http://www.flexshopper.com/">
+<input type="hidden" id="ajax_package_name" value="default">	
+<input type="hidden" id="ajax_layout" value="galaelectronues">	
+<input type="hidden" id="ajax_template" value="galaelectronues">	
+<input type="hidden" id="ajax_skin" value="galaelectronues"></div>    </div>
+</div>
+<!-- Modal -->
+<div class="modal" id="myModal" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+    </div>
+  </div>
+</div>
+<!-- begin bold chat code -->
+<!-- Visitor Monitor HTML v4.00 (Website=- None ,Ruleset=My Invite Ruleset,Floating Chat= None - -->
+<script type="text/javascript">
+    var _bcvma = _bcvma || [];
+    _bcvma.push(["setAccountID", "301671876298128307"]);
+    _bcvma.push(["setParameter", "InvitationDefID", "299293377930424847"]);
+
+    _bcvma.push(["setParameter", "VisitName", ""]);
+    _bcvma.push(["setParameter", "VisitPhone", ""]);
+    _bcvma.push(["setParameter", "VisitEmail", ""]);
+    _bcvma.push(["setParameter", "VisitRef", ""]);
+    _bcvma.push(["setParameter", "VisitInfo", ""]);
+    _bcvma.push("setParameter", "CustomUrl", "");
+    _bcvma.push("setParameter", "WindowParameters", "");
+    _bcvma.push(["pageViewed"]);
+
+    
+    (function()
+    { var vms = document.createElement("script"); vms.type = "text/javascript"; vms.async = true; vms.src = ('https:'==document.location.protocol?'https://':'http://') + "vmss.boldchat.com/aid/301671876298128307/bc.vms4/vms.js"; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(vms, s); }
+
+        )();
+</script>
+<noscript>
+    <a href="http://www.boldchat.com" title="Visitor Monitoring" target="_blank"><img alt="Visitor Monitoring" src="https://vms.boldchat.com/aid/301671876298128307/bc.vmi?" border="0" width="1" height="1" /></a>
+</noscript>
+<!-- / Visitor Monitor HTML v4.00 -->
+<!-- end bold chat code --><!-- Google Code for Remarketing Tag -->
+<script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 977149041;
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    /* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+    <div style="display:inline;">
+        <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/977149041/?value=0&guid=ON&script=0"/>
+    </div>
+</noscript><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","licenseKey":"2a5c8897a4","applicationID":"3714986","transactionName":"YAZWZRZTDERTBhBfDllMdVIQWw1ZHQYJRU5HAlNUS0QLUkU=","queueTime":0,"applicationTime":467,"ttGuid":"","agentToken":"","atts":"TEFVE15JH0o=","errorBeacon":"jserror.newrelic.com","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
+
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
