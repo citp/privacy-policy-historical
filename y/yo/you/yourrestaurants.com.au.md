@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourrestaurants.com.au privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230211557id_/http%3A//yourrestaurants.com.au/legal/index.cfm%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourrestaurants.com.au privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529234951id_/http%3A//www.yourrestaurants.com.au/legal/index.cfm%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy - yourRestaurants.com.au
 
@@ -12,9 +12,28 @@ HWW Pty Limited is not responsible for the content or the privacy policies of we
 
 ## Collection 
 
-HWW Pty Limited collects data in order to provide content, products and services to our website users and to execute statistical analysis for development purposes. 
+HWW Pty Ltd collects and may use your personal information for a variety of purposes in connection with providing you with its content, products and services. 
 
-Any personal information collected by HWW Pty Limited is done so with your consent, directly from you. We do not buy or rent personal information from third parties, nor do we sell or rent any personal information to third parties. We do not release personal information about you as an individual to third parties, except when we have your permission. 
+In general, HWW Pty Ltd uses your personal information for one or more of the following purposes: 
+
+  * providing you with news and information about our products and services (including newsletters, product surveys and special offers);
+  * verifying your identity;
+  * providing you with more effective customer service;
+  * operating and improving our websites, products and services;
+  * communicating with you via phone, email or letter;
+  * correcting any errors in your personal information;
+  * displaying content and advertising that are personalised and customised to your interests, preferences and experiences;
+  * sending marketing and promotional material about our products and/or services (or the products and/or services of our Related Bodies Corporate) that we believe you may be interested in;
+  * investigating any complaints about or made by you, or if we have reason to suspect that you are in breach of any of our Terms of Use or that you are or have been otherwise engaged in any unlawful activity; and
+  * using personal information as otherwise required or permitted by any law (including the Privacy Act).
+
+
+
+HWW Pty Ltd may state a more specific purpose at the point we collect your personal information. 
+
+Any personal information collected by HWW Pty Limited is done so with your consent, directly from you. We do not buy or rent personal information from third parties, nor do we sell or rent any personal information to third parties. 
+
+Please contact the HWW Privacy Officer via email at [info@hww.com.au](mailto:info@hww.com.au) if you wish to request that HWW Pty Ltd (or any of its Related Bodies Corporate) cease using your personal information for any or all of the purposes described under this Privacy Policy. 
 
 ## Server log 
 
@@ -38,9 +57,20 @@ Voluntary registration on applicable HWW websites requires you to supply your em
 
 Email enquiry requires you to supply your email address. This information is not stored with, nor is there any attempt made to link this information with any other personal information. We use this information to provide you with an accurate and prompt response. 
 
-## Use and Disclosure 
+## Third Party Disclosure 
 
 HWW Pty Limited does not use or disclose personal information in any manner inconsistent to that stated in this document without prior consent. 
+
+HWW may disclose your personal information to third parties including: 
+
+  1. service providers performing services on its behalf;
+  2. Related Bodies Corporate of HWW Pty Ltd;
+  3. clients of HWW Pty Ltd (where you have consented to such disclosure); and
+  4. as otherwise required or permitted by law.
+
+
+
+HWW Pty Ltd may decide to buy or sell assets which form part of or relate to its business. In any such transaction, personal information will usually be one of the transferred assets and will be disclosed to the purchaser. 
 
 ## Onward Transfers of Personal Information 
 
@@ -76,4 +106,4 @@ HWW Pty Limited uses third party ad servers that may collect anonymous data such
 
 ## Accessing your Personal Details 
 
-If you would like to make a request to access the personal information held by HWW about you, please email us at [info@hww.com.au](mailto:info@hww.com.au). or write to us - [HWW Pty Limited](http://www.hww.com.au/), **PO Box 996, Darlinghurst, NSW, 2010**. 
+If you would like to make a request to access the personal information held by HWW about you, please email us at [info@hww.com.au](mailto:info@hww.com.au). or write to us - [HWW Pty Limited](http://www.hww.com.au/), **Level 7, Tower Building, 264 George St, Sydney NSW 2000**. 
