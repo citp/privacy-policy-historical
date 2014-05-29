@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vredvoice.com privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014014648id_/http%3A//www.vredvoice.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vredvoice.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529085556id_/http%3A//www.vredvoice.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
