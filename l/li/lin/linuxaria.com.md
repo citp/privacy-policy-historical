@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linuxaria.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231010210id_/http%3A//linuxaria.com/privacy-policy%3Flang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linuxaria.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529220735id_/http%3A//linuxaria.com/privacy-policy%3Flang%3Den) for the most accurate reproduction.*
 
 # » Linuxaria – Everything about GNU/Linux and Open source Privacy Policy
 
