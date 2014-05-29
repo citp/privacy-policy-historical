@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rentalsystems.com privacy policy that was archived on 2013-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130811065344id_/https%3A//www.rentalsystems.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentalsystems.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529193104id_/https%3A//www.rentalsystems.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Rentalsystems
 
@@ -46,10 +46,6 @@ By using this Site, you agree that we may collect, hold, process and use your in
 Sharing Your Information
 
 We may share information about you with suppliers that we engage to help us provide certain services and/or functionality e.g online payment processing. We will use reasonable endeavours to control and be responsible for the use of your information by such suppliers. Furthermore, by using the Site, you consent to the transfer of your personal information outside of the European Economic Area (which may not provide the same protection for such information as the European Economic Area provides) in the event that the processing of your information involves such a transfer.
-
-We may disclose your information (including personal information) to other companies within the Daily Mail and General Trust plc group of companies (the “DMGT Group”, see [www.dmgt.co.uk](http://www.dmgt.co.uk/) for further information) and may use and share within the DMGT Group information that we learn from your interactions with us and other companies within the DMGT Group.
-
-Subject to your consent, your personal information may be used by us and/or other companies within the DMGT Group to contact you by email, fax, telephone, SMS and/or post with information and offers on products/services provided by us and/or other companies within the DMGT Group. 
 
 Subject to your consent, we may supply personal information about you to selected third parties so that they may contact you with information and offers which may be of interest to you.
 
