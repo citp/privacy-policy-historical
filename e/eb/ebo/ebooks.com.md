@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ebooks.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228142958id_/http%3A//www.ebooks.com/information/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebooks.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529212355id_/http%3A//www.ebooks.com/information/privacy.asp) for the most accurate reproduction.*
 
 # Help - Privacy
 
-(Last Updated: Sept 27, 2007)
+(Last Updated: April 9, 2014)
 
 [](https://privacy.truste.com/privacy-seal/ebooks-com/validation?rid=da23d787-f1d9-42a3-8e55-7c83ca6e0245 "TRUSTe online privacy certification")
 
@@ -112,6 +112,10 @@ By default, credit card details are encrypted and stored for use with future pur
 ## TELL-A-FRIEND
 
 If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Ebooks.com does not store this information. 
+
+## eBooks.com acts as agent
+
+In addition to operating as an online retailer of ebooks in its own right, eBooks.com also provides sales, fulfillment, payment processing and help-desk services to other companies on an agency basis. This service is most commonly provided to book publishers. We will make it clear to you whenever we are so acting as an agent, by showing the brand of the other company at the top of our web pages. The other company's brand will be followed by the words "Powered by eBooks.com" or similar. When we sell you an ebook in our capacity as agent, the vendor of record for that purchase will be the other company. When so acting as an agent, we may provide to the other company your personal information, so that they may continue to service your needs in the event that the partnership between eBooks.com and the other company ceases. If you opt-in to receive marketing information we may pass your information onto our partners, whom we act as agents, so they may continue that service. We will not supply your personal information to any third party whose own privacy policy is less stringent than our own. 
 
 ## Links to Other Sites
 
