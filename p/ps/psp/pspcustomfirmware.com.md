@@ -1,117 +1,41 @@
-> *The following text is extracted and transformed from the pspcustomfirmware.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509012426id_/http%3A//pspcustomfirmware.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pspcustomfirmware.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529032401id_/http%3A//1pvscpu.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | PSP Custom Firmware - PSP CFW - PS Vita CFW
+# 1PvsCPU Homebrew Gaming News | Privacy Policy
 
-**Privacy Policy Statement  
-This is the web site of Pspcustomfirmware **
+This Privacy Policy was last modified on December 12, 2013.
 
-For each visitor to our Web page, our Web server automatically recognizes the  
-consumer’s domain name and e-mail address (where possible).
+Miko Ulloa operates http://1pvscpu.com . This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.
 
-We collect only the domain name, but not the e-mail address of visitors to our  
-Web page, the e-mail addresses of those who post messages to our bulletin board,  
-the e-mail addresses of those who communicate with us via e-mail, the e-mail  
-addresses of those who make postings to our chat areas, aggregate information on  
-what pages consumers access or visit, user-specific information on what pages  
-consumers access or visit.
+We use your Personal Information only for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at http://1pvscpu.com.
 
-The information we collect is used for internal review and is then discarded,  
-used to improve the content of our Web page, , disclosed when legally required  
-to do so, at the request of governmental authorities conducting an  
-investigation, to verify or enforce compliance with the policies governing our  
-Website and applicable laws or to protect against misuse or unauthorized use of  
-our Website.
+**Information Collection And Use**  
+While using our Site, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your name, email address, postal address and phone number (“Personal Information”).
 
-With respect to cookies: We use cookies to store visitors preferences, record  
-user-specific information on what pages users access or visit, record past  
-activity at a site in order to provide better service when visitors return to  
-our site , customize Web page content based on visitors’ browser type or other  
-information that the visitor sends.
+**Log Data**  
+Like many site operators, we collect information that your browser sends whenever you visit our Site (“Log Data”). This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type, browser version, the pages of our Site that you visit, the time and date of your visit, the time spent on those pages and other statistics.
 
-If you do not want to receive e-mail from us in the future, please let us know  
-by sending us e-mail at the above address.
+**Cookies**  
+Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer’s hard drive.
 
-If you supply us with your postal address on-line you will only receive the  
-information for which you provided us your address.
+Like many sites, we use “cookies” to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Site.
 
-**With respect to Ad Servers: To try and bring you offers that are of interest to  
-you, we have relationships with other companies that we allow to place ads on  
-our Web pages. As a result of your visit to our site, ad server companies may  
-collect information such as your domain type, your IP address and clickstream  
-information. For further information, consult the privacy policies of:  
-Google Adsense  
-Adbrite  
-Adsdaq**
+**Security**  
+The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
 
-From time to time, we may use customer information for new, unanticipated uses  
-not previously disclosed in our privacy notice. If our information practices  
-change at some time in the future we will contact you before we use your data  
-for these new purposes to notify you of the policy change and to provide you  
-with the ability to opt out of these new uses, we will post the policy changes  
-to our Web site to notify you of these changes and provide you with the ability  
-to opt out of these new uses. If you are concerned about how your information  
-is used, you should check back at our Web site periodically, we will post the  
-policy changes to our Web site to notify you of these changes and we will use  
-for these new purposes only data collected from the time of the policy change  
-forward. If you are concerned about how your information is used, you should  
-check back at our Web site periodically.
+**Links To Other Sites**  
+Our Site may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.
 
-Customers may prevent their information from being used for purposes other than  
-those for which it was originally collected by e-mailing us at the above  
-address.
+Miko Ulloa has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party sites or services.
 
-Upon request we provide site visitors with access to all information [including  
-proprietary information] that we maintain about them.
+**Changes To This Privacy Policy**  
+Miko Ulloa may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on the Site. You are advised to review this Privacy Policy periodically for any changes.
 
-Consumers can access this information by e-mail us at the above address.
+**Contact Us**  
+If you have any questions about this Privacy Policy, please contact us.
 
-Upon request we offer visitors the ability to have inaccuracies corrected in  
-contact information, financial information, unique identifiers, transaction  
-information, communications that the consumer/visitor has directed to the site.
-
-Consumers can have this information corrected by sending us e-mail at the above  
-address.
-
-**With respect to Security , All Financial information is handle by PayPal. This website also has a Valid SSL Certificate in place to ensure Customer Financial information is Secure and encrypted via our site .**
-
-If you feel that this site is not following its stated information policy, you  
-may contact us at the above addresses or email address .
-
-**PHOTO-SENSITIVITY NOTICE**
-
-A small percentage of individuals may experience epileptic seizures or blackouts when exposed to sure light patterns or flashing lights. Exposure to sure patterns or backgrounds on a screen or when playing content such as video games may trigger epileptic seizures or blackouts in these individuals. These conditions may trigger historically in the past undetected epileptic symptoms or seizures in persons who have no history of prior seizures or epilepsy. If you, or someone in your relatives has an epileptic condition or has had seizures of any kind, consult your physician before playing. IMMEDIATELY DISCONTINUE use and consult your physician before resuming play.
-
-RESUME PLAY ONLY ON APPROVAL OF YOUR PHYSICIAN.
-
-If you or your child experience any of the following health problems or symptoms:  
-(i) dizziness;  
-(ii) altered vision;  
-(iii) eye or muscle twitches;  
-(iv) loss of awareness;  
-(v) disorientation; or  
-(vi) seizures or any involuntary movement or convulsion.
-
-Use and handling of content, including video games, to reduce the likelihood of a seizure:  
-(i) use in a well-lit area and keep as far away as possible from the TV screen;  
-(ii) avoid massive screen televisions;  
-(iii) use the smallest TV screen available;  
-(iv) avoid prolonged use of the PlayStation system;  
-(v) take a 15-minute break during each hour of play; or  
-(vi) avoid playing when you are tired or require sleep.
-
-President  
-Roger Escobar
-
-Vice President  
-Yahaira Velez
-
-Our postal address is
-
-**PSP Custom Firmware  
-Admin: Yahaira Velez  
+**Mail Address**  
+ATT: Miko Ulloa  
+1PvsCPU  
 35 Fort Washington Ave  
-New York , New York , 10032**
-
-We can be reached via e-mail at info@pspcustomfirmware.com
-
-Or Via Telephone : 917-508-6047
+Apt 3C  
+New York , NY , 10032
