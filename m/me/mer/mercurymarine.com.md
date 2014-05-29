@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mercurymarine.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229115712id_/http%3A//www.mercurymarine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercurymarine.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529032734id_/http%3A//www.mercurymarine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mercury Marine
 
-**Effective Date: April 19, 2010**
+**Effective Date: January 5, 2011**
 
 Brunswick Corporation and its divisions value its relationship with you and respect your concerns about privacy. This Privacy Policy applies to the online practices of Brunswick ([http://www.brunswick.com](http://www.brunswick.com/)) and the websites of its divisions and subsidiaries, a list of which is included at the end of this Policy, as posted.
 
