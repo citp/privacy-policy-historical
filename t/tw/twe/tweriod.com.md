@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tweriod.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226114716id_/http%3A//www.tweriod.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tweriod.com privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530013335id_/http%3A//www.tweriod.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Tweriod - Get to know when your Twitter followers are online the most.
 
