@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timesjobs.com privacy policy that was archived on 2012-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120307114629id_/http%3A//www.timesjobs.com/popuphtml/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timesjobs.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529222748id_/http%3A//www.timesjobs.com/popuphtml/privacy.html) for the most accurate reproduction.*
 
 # Jobs in India, Search for Jobs Online
 
@@ -15,7 +15,6 @@ All required information is service dependent and TBSL may use the above said Us
 
 Such information will not be considered as sensitive if it is freely available and accessible in the public domain or is furnished under the Right to Information Act, 2005 or any other law for the time being in force.
 
-**COOKIES**   
 To improve the responsiveness of the sites for our users, we may use "cookies", or similar electronic tools to collect information to assign each visitor a unique, random number as a User Identification (User ID) to understand the user's individual interests using the Identified Computer. Unless you voluntarily identify yourself (through registration, for example), we will have no way of knowing who you are, even if we assign a cookie to your computer. The only personal information a cookie can contain is information you supply (an example of this is when you ask for our Personalised Horoscope). A cookie cannot read data off your hard drive. Our advertisers may also assign their own cookies to your browser (if you click on their ads), a process that we do not control. 
 
 Our web servers automatically collect limited information about your computer's connection to the Internet, including your IP address, when you visit our site. (Your IP address is a number that lets computers attached to the Internet know where to send you data -- such as the web pages you view.) Your IP address does not identify you personally. We use this information to deliver our web pages to you upon request, to tailor our site to the interests of our users, to measure traffic within our site and let advertisers know the geographic locations from where our visitors come. 
@@ -44,22 +43,35 @@ All information gathered on TBSL is securely stored within the TBSL controlled d
 
 However the internet is an ever evolving medium. We may change our privacy policy from time to time to incorporate necessary future changes. Of course, our use of any information we gather will always be consistent with the policy under which the information was collected, regardless of what the new policy may be. 
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. In the event you have any grievance relating to the processing of information provided by you, you may contact our Grievance Officer, at [tbsl-legal@indiatimes.co.in](mailto:tbsl-legal@indiatimes.co.in) ; or write at the following address:
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. 
 
-**Times Business Solutions Limited**   
-(A Times Group Company)  
-Times Center  
-6 FC, Film City  
-Sector 16 A ,  
-Noida - 201301  
-INDIA   
-Ph: 0120-330 2768  
-[legal.tbsl@timesgroup.com](mailto:legal.tbsl@timesgroup.com)
+  * **Grievance Redressal Officer**  
+**Redressal Mechanism:** Redressal Mechanism: Any complaints, abuse or concerns with regards to content and or comment or breach of these terms shall be immediately informed to the designated Grievance Officer as mentioned below via in writing or through email signed with the electronic signature to [grievance@timesjobs.com](mailto:grievance@timesjobs.com) or Mr. Amitabh Mukherjee ("Grievance Redressal Officer")
 
-**We request you to please provide the following information in your complaint:-**
+**Mr. Amitabh Mukherjee**  
+Grievance Officer  
+www.timesjobs.com  
+Times Business Solutions Limited   
+(A Times Group Company)   
+Times Centre   
+FC-6, Film City   
+Sector 16-A, Noida - 201301, India   
+Email: grievance@timesjobs.com   
+Phone No. 0120-6636324 
 
-(a) Identification of the information provided by you   
-(b) Clear statement as to whether the information is personal information or sensitive personal information   
-(c) Your address, telephone number or e-mail address.   
-(e) A statement that you have a good-faith belief that the information has been processed incorrectly or disclosed without authorization, as the case may be.   
-(f) A statement, under penalty of perjury, that the information in the notice is accurate, and that the information being complained about belongs to you.
+
+
+
+We request you to please provide the following information in your complaint:-
+
+(a) A physical or electronic signature of a person authorized to act on behalf of the copyright owner for the purposes of the complaint
+
+(b) Identification of the copyrighted work claimed to have been infringed.
+
+(c) Identification of the material on our website that is claimed to be infringing or to be the subject of infringing activity. 
+
+(d) The address, telephone number or e-mail address of the complaining party
+
+(e) A statement that the complaining party has a good-faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent or the law.
+
+(f) A statement, under penalty of perjury, that the information in the notice of copyright infringement is accurate, and that the complaining party is authorized to act on behalf of the owner of the right that is allegedly infringed.
