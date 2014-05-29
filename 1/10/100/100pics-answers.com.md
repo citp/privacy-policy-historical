@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 100pics-answers.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217115338id_/http%3A//www.100pics-answers.com/sample-page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 100pics-answers.com privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530004100id_/http%3A//www.100pics-answers.com/sample-page) for the most accurate reproduction.*
 
 # Privacy Policy | 100 Pics Answers
 
