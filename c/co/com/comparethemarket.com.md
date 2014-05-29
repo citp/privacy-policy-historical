@@ -1,18 +1,19 @@
-> *The following text is extracted and transformed from the comparethemarket.com privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110183729id_/http%3A//www.comparethemarket.com/information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comparethemarket.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529233005id_/http%3A//www.comparethemarket.com/information/privacy-policy) for the most accurate reproduction.*
 
 # Compare the Market - Privacy and cookie policy
 
 1\. Data Controller  
 2\. Your rights  
 3\. Providing Data About Other People  
-4\. Use of Your Data  
-5\. Credit and Data Checks  
-6\. Crime and Fraud Prevention  
-7\. Sensitive Personal Data  
-8\. Overseas Transfer of Data  
-9\. Product / service Providers Website  
-10\. Use of Cookies  
-11\. Law
+4\. Provision of services and disclosure of data   
+5\. Communicating with you  
+6\. Credit and Data Checks  
+7\. Crime and Fraud Prevention  
+8\. Sensitive Personal Data  
+9\. Overseas Transfer of Data  
+10\. Product / service Providers Website  
+11\. Use of Cookies  
+12\. Law
 
 **1. Data Controller**
 
@@ -32,35 +33,33 @@ If you want to view the data that you have input when you obtained a quote you c
 
 We reserve the right to amend or modify this privacy policy at any time and any changes will be published on this website
 
-You are also entitled to ask us to remove personal information from our records and if you wish to do this then please write to the Data Protection Officer at BISL Limited, Pegasus House, Bakewell Road, Orton Southgate, Peterborough or email [insert email address]. Please provide your full name, email address, date of birth and quote number when contacting us.
+You are also entitled to ask us to remove personal information from our records and if you wish to do this then please write to the Data Protection Officer at BISL Limited, Pegasus House, Bakewell Road, Orton Southgate, Peterborough, or email enquiries@contact-comparethemarket.com. Please provide your full name, email address, date of birth and quote number when contacting us.
 
 Back to top
 
 **3\. Providing data about other people**
 
-The following paragraphs set out in detail how your data will be used by us. If you are providing us with another person’s data you should ask them to also read this Privacy Policy. By giving us information about another person you are confirming that they have given you consent to provide the information to us.
+This privacy policy sets out in detail how your data will be used by us. If you are providing us with another person’s data you should ask them to also read this Privacy Policy. By giving us information about another person you are confirming that they have given you consent to provide the information to us.
 
 Back to top
 
-**4. Use of your data**
+**4. Provision of services and disclosure of data**
 
-We will use your data for the following purposes:-
-
-4.1       To provide you with a quote.
-
-We will use the information provided to us by you to search the websites of our partners in order to obtain the best quotes available to you..
+We will use the information provided to us by you to search the websites of our partners in order to obtain the best quotes available to you.
 
 We may use your data to send you a confirmation email of your quote.
 
 To help improve our services we may also use your data for the purposes of marketing research and data analysis.
 
-Data will also be used to track sales and to administer our reward scheme.  Please read the Privacy & Cookie Policy for [www.comparethemeeerkat.com](http://www.comparethemeeerkat.com/) which contains further details regarding the reward scheme.   
+Data will also be used to track sales and to administer our reward scheme.  Please read the Privacy & Cookie Policy for [www.comparethemeerkat.com](http://www.comparethemeeerkat.com/) which contains further details regarding the reward scheme.   
 
 We may use third parties to process personal information on our behalf. Where third parties process your personal information on our behalf, we will ensure that they have the necessary high standards of security in place so that your data is kept secure and only used in accordance with this Privacy Policy.   
 
-We will release Your personal information when We are required to do so for legal or regulatory purposes or as part of legal proceedings.
+We will release your personal information when we are required to do so for legal or regulatory purposes or as part of legal proceedings.
 
-4.2       To provide you with information about our services.
+Back to top
+
+**5.   Communicating with you**
 
 It is very important to us that we provide a service that meets the expectations of our customers. In order to assist us in doing this, where you have given us consent, we may use the information you supply to contact you by phone, e-mail, SMS or otherwise to tell you about products and services which may be of interest to you. For example, these services could include the following:
 
@@ -78,9 +77,11 @@ However, please remember that by opting out, we will not be able to contact you 
 
 For car and home insurance quotes, where you have provided your telephone number, the two providers who offer you the best price may contact you to discuss your quote further.
 
+We may also contact you around 11 months after you have completed your quote in order to provide you with an indication of what your quotes could be for your next renewal. We will use the data that we hold on you in order to search the websites of our partners in order to do this. Some of our partners will carry out credit and data checks as part of this process (see paragraph 6 below for further information on the types of checks that may be undertaken).
+
 Back to top
 
-**5\. Credit and data checks**
+**6\. Credit and data checks**
 
 Some of our product and service providers will carry out checks with credit reference and fraud prevention agencies in order to verify your identity, assess your application for a quotation or credit and offer you the best terms.  The checks may be against both public data (such as information from the electoral roll) and private data (such as your credit history) The providers do not make these checks purely because you are using our service, and may make them if you request a quote via any other source.   
 
@@ -88,31 +89,31 @@ A record of the search will appear on your credit report.  Some product provide
 
 Back to top
 
-**6. Crime and fraud prevention**
+**7. Crime and fraud prevention**
 
 We may share data with third parties including our product and service providers or the police and fraud prevention agencies if we believe that it is reasonably required for the prevention or detection of crime or fraud or to protect our customers. Data may also be released to third parties if we are required to do so under the terms of a court order.
 
 Back to top
 
-**7. Sensitive personal data**
+**8. Sensitive personal data**
 
 In order to provide you with a quote we may need to collect personal data which the Data Protection Act 1998 defines as sensitive, such as medical history or criminal convictions. By proceeding with obtaining a quote you will signify your explicit consent to such information being processed by ourselves and our product or service providers for the purposes stated above. ** **
 
 Back to top
 
-**8\. Overseas transfer of data**
+**9\. Overseas transfer of data**
 
-From time to time it may be necessary for us to undertake some of the processing of your personal data in other countries outside of the European Economic Area where data protection safeguards are not as high as they are in the UK.   However, where this is the necessary we will ensure that your data is kept securely and only processed in accordance with the Data Protection Act.   It is also possible that some of our product and service providers will process your data in other countries, however we require all our partners to ensure that your data is kept securely at all times.
+From time to time it may be necessary for us to undertake some of the processing of your personal data in other countries outside of the European Economic Area where data protection safeguards are not as high as they are in the UK. However, where this is necessary we will ensure that your data is kept securely and only processed in accordance with the Data Protection Act.   It is also possible that some of our product and service providers will process your data in other countries, however we require all our partners to ensure that your data is kept securely at all times.
 
 Back to top
 
-**9. Product / service providers websites**
+**10. Product / service providers websites**
 
 We are not responsible for the privacy policies and practices of other websites. Whenever possible we will only partner with other websites which maintain the same standards as are present on our own website but we cannot guarantee this. If you click through to any of our product or service providers to their own website, you will be subject to that product or service provider’s website terms and conditions and privacy policy which we would recommend you read carefully.
 
 Back to top
 
-**10. Use of cookies**
+**11. Use of cookies**
 
 This website uses cookies. View our [cookies policy](http://www.comparethemarket.com/information/privacy-policy/privacy-policy-use-of-cookies/) for a full list of the cookies that we use, third party cookies and how to disable them.
 
@@ -148,7 +149,7 @@ Please be aware that deleting certain cookies can result in difficulties when na
 
 Back to top
 
-**11. Law**
+**12. Law**
 
 This Privacy Policy is subject to English Law and to the exclusive jurisdiction of the English Courts.
 
