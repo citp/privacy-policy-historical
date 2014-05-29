@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the esoftload.info privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222234150id_/http%3A//www.esoftload.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esoftload.info privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529192440id_/http%3A//www.esoftload.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Cyber World Privacy Policy**
+**eSoftload  Privacy Policy **
 
-The privacy of visitors to Cyber World is extremely important to us. In Cyber World, we recognize the importance of privacy. Then let him kind of personal information we receive and collect when you visit the blog, and how we safeguard your information. Your information is used for statistical means and are not sold under any circumstances to third parties, whether individuals or firms.
+The privacy of visitors to eSoftload is extremely important to us. In eSoftload, we recognize the importance of privacy. Then let him kind of personal information we receive and collect when you visit the blog, and how we safeguard your information. Your information is used for statistical means and are not sold under any circumstances to third parties, whether individuals or firms.
 
 **The records**
 
