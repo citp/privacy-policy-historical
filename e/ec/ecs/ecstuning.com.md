@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecstuning.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127040630id_/http%3A//www.ecstuning.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecstuning.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529234119id_/http%3A//www.ecstuning.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # ECStuning.com
 
@@ -22,11 +22,19 @@ Note: If at any time you would like to unsubscribe from receiving future emails,
 
 ## How do we protect your information?
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential. After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days.
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our payment gateway providers database only to be accessible by those authorized with special access rights to such systems.
 
 ## Do we use cookies?
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information We use cookies to help us remember and process the items in your shopping cart.
+Yes. Cookies are small files that a site or its service provider transfers to your computers hard drive through your web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information. We use cookies to help us remember and process the items in your shopping cart.
+
+**Cookies must be enabled within your web browser settings to place an order.**
+
+## Do I need JavaScript enabled?
+
+Yes. JavaScript is a standard coding language that is often used to add interactive effects in a web browser. A large majority of our order submission process including but not limited to adding to cart, removing from cart and order checkout require JavaScript in order to function.
+
+**JavaScript must be enabled in order to use our web site.**
 
 ## Do we disclose any information to outside parties?
 
@@ -44,9 +52,9 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 This online privacy policy applies only to information collected through our website and not to information collected offline.
 
-## Terms and Conditions
+## Terms of Use
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [Terms Of Use/](http://www.ecstuning.com/TermsOfUse/)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [Terms of Use](http://www.ecstuning.com/TermsOfUse/)
 
 ## Your Consent
 
@@ -54,8 +62,8 @@ By using our site, you consent to our websites privacy policy.
 
 ## Changes to our Privacy Policy
 
-If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. This policy was last modified on 11/15/2010 
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. This policy was last modified on 01/13/2014 
 
-## Contacting Us
+## Contact Us
 
-If there are any questions regarding this privacy policy you may contact us using the information on our [Contat Us](https://web.archive.org/ContactUs/) page.
+If there are any questions regarding this privacy policy you may contact us using the information on our [Contact Us](https://web.archive.org/ContactUs/) page.
