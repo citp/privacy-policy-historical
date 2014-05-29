@@ -1,116 +1,143 @@
-> *The following text is extracted and transformed from the fullhouse.com.my privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206054423id_/http%3A//www.propertyguru.com.my/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fullhouse.com.my privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529111110id_/http%3A//www.propertyguru.com.my/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-PROPERTYGURU.COM.MY is committed to protecting your privacy. This Statement of Privacy covers our treatment of personally identifiable information that we collect when you are on the PROPERTYGURU.COM.MY group of websites, and when you use our services.
+Last Modified: 1 February 2014
 
-This policy does not apply to the practices of companies that we do not own or control, or to people that we do not employ or manage. At PROPERTYGURU.COM.MY, we take your privacy seriously! Please read this Statement of Privacy to be more aware about our policy on collecting, using and disclosing personal information.
+PropertyGuru International (Malaysia) Sdn. Bhd (" **we** " or " **us** ") is the operator of [http://www.propertyguru.com.my](http://www.propertyguru.com.my/) (the " **Website** "), and we are committed to safeguarding your personal data.
 
- _ **Scope of Coverage  
-**  
-Collection of your Personal Information_
+This Privacy Policy (together with our Terms of Service <http://www.propertyguru.com.my/terms-of-service> and any other documents referred to in it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-We may collect, store and use the following kinds of personal data:
+Unless restricted by applicable law, you agree that any and all personal data relating to you collected by us from time to time may be used and disclosed for such purposes and to such persons as set out in this Privacy Policy. 
 
-(a) Information about your computer and about your visits to and use of this website, such as your IP address, geographical location, browser type, referral source, length of visit and number of page views.
+We may amend this Privacy Policy at any time by posting a revised version on the Website. However, an individual notice will not be sent to you. You will be deemed to have acknowledged and agreed to the amended Privacy Policy if you continue to use the Website after the changes have taken effect. You are reminded to check for updates to this Privacy Policy prior to using the Website.
 
-(b) Information relating to any transactions carried out between you and us on or in relation to this website, including information relating to any purchases you make of our goods or services.
+1.  **COLLECTION OF PERSONAL DATA**
 
-(c) Information that you provide to us for the purpose of registering with us.
+1.1 You can use and browse the Website without disclosing your personal data. You are not required to provide personal data as a condition of using the Website, except as may be necessary to respond to your requests or in cases where you contact us directly.
 
-(d) Information that you provide to us for the purpose of subscribing to our website services, email notifications and/or newsletters.
+1.2 We collect personal data only when you provide it to us, through registration, completion of forms, emails, inquiries and requests and similar situations in which you have chosen to provide the information to us. Thus we may collect and process the following data about you:
 
-(e) Any other information that you choose to send to us. ****
+   • information that you provide when carrying out transactions with us on or in relation to the Website, including information relating to any purchases that you make on the Website;
 
- _Cookies_
+   • information that you provide when you register an account with us on the Website; 
 
-PROPERTYGURU.COM.MY uses cookies to provide a better user experience for our visitors. A cookie is a text file sent by a web server to a web browser, and stored by the browser. The text file is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser.
+   • information that you provide when contacting us to resolve any issues that you may be facing;
 
-We may send a cookie which may be stored on by your browser on your computer's hard drive. We may use the information we obtain from the cookie in the administration of this website, to improve the website's usability and for marketing purposes. We may also use that information to recognise your computer when you visit our website, and to personalise our website for you. Our advertisers may also send you cookies.
+   • information that you provide for the purpose of subscribing to the services that we are providing on the Website, email notifications, and/or newsletters; and
 
-Most browsers allow you to refuse to accept cookies. This will, however, have a negative impact upon the usability of many websites, including this one. ****
+   • details of your visits to the Website including, but not limited to traffic data, location data, and the resources that you access.
 
- _Using Your Personal Data_
+2.  **PURPOSES OF USE**
 
-Personal data submitted on this website will be used for the purposes specified in this Statement of Privacy or in relevant parts of the website.
+2.1 All information collected, including personal information, may be used by us in the aggregate or individually and may be combined with other information for purposes including but not limited to the following:
 
-We may use your personal information to:
+   • administering the Website;
 
-(a) administer the website
+   • improving your browsing experience by personalising the Website;
 
-(b) improve your browsing experience by personalising the website
+   • enabling your use of the services available on the Website;
 
-(c) enable your use of the services available on the website
+   • providing to you services that you have specifically requested;
 
-(d) send you general (non-marketing) commercial communications
+   • responding to your enquiries or requests pursuant to your emails and/or submission of form(s) on the Website;
 
-(e) send you email notifications which you have specifically requested
+   • responding to and taking follow-up action on complaints;
 
-(f) provide third parties with statistical information about our users - but this information will not be used to identify any individual user
+   • sending you general (non-marketing) commercial communications;
 
-(g) deal with enquiries and complaints made by or about you relating to the website We will not without your express consent provide your personal information to any third parties for the purpose of direct marketing. If you do not wish to change your preference on receiving 3rd party communications, you may by changing your account communications preferences at any time. ****
+   • performing office and operational administrative matters; and
 
- _Other Disclosures_
+   • providing third parties with statistical information about our users – but such information will not be used to identify any individual user.
 
-In addition to the disclosures reasonably necessary for the purposes identified elsewhere in this Statement of Privacy, we may disclose information about you:
+2.2 We will not, without your express consent, provide your personal data to third parties for the purposes of direct marketing.
 
-(a) to the extent that we are required to do so by law
+3.  **SECURITY**
 
-(b) in connection with any legal proceedings or prospective legal proceedings
+3.1 We will take reasonable technical and organizational precautions to prevent the loss, misuse or alteration of your personal information.
 
-(c) in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk)
+3.2 We will store all the personal information you provide on our secure servers. All electronic transactions you make to or receive from us will be encrypted using SSL technology.
 
-(d) to the purchaser (or prospective purchaser) of any business or asset which we are (or are contemplating) selling.
+3.3 You however understand that the transmission of information via the Internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to the Website; any transmission is at your own risk.
 
-Except as provided in this privacy policy, we will not provide your information to third parties. ****
+3.4 Where we have given you (or where you have chosen) a password which enables you to access certain parts of the Website, you are responsible for keeping this password confidential. We ask you not to share a password with anyone. We will NEVER ask you for your password other than when you log in to the Website.
 
- _International Data Transfers_
+4.  **DISCLOSURE OF PERSONAL DATA**
 
-Information that we collect may be temporarily stored and processed in and transferred between any of the countries in which we operate in order to enable us to use the information in accordance with this privacy policy. However, we are committed to store your data in a secured environment in Malaysia & Singapore where our servers at located. ****
+4.1 We may disclose your personal data to any member of our group, which means our affiliates and subsidiaries. We may also disclose your personal data to third parties such as our service providers and professional advisors.
 
- _Security of Your Personal Data_
+4.2 If we are under a duty to disclose or share your personal data in order to:
 
-PROPERTYGURU.COM.MY will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information. We will store all the personal information you provide on our secure servers. All electronic transactions you make to or receive from us will be encrypted using SSL technology.
+   • comply with any legal obligation;
 
-Of course, data transmission over the internet is inherently insecure, and we cannot guarantee the security of data sent over the internet. You are responsible for keeping your password and user details confidential.
+   • to enforce or apply our Terms of Service <http://www.propertyguru.com.my/terms-of-service> and other agreements;
 
-We will **NEVER** ask for your password other than when you log in to the website. ****
+   • protect the rights, property, or safety of us and our affiliates and subsidiaries, other users of the Website, or others;
 
- _Updating Personal Information_
+   • in connection with any legal proceedings or prospective legal proceedings; and
 
-Please let us know if the personal information which we hold about you needs to be corrected or updated. All changes could be made via your PROPERTYGURU.COM.MY dashboard, simply click here to login. Alternatively, you could contact one of our customer service officers at (+603) 2279 7555 **.**
+   • to the purchaser, or prospective purchaser of any business or asset which we are, or are contemplating, selling.
 
- _Ad Networks and "Re-Marketing"  
-_
+5.  **IP ADDRESSES**
 
-PROPERTYGURU.COM.MY utilises third party vendors, including Google, to show ads for PROPERTYGURU.COM.MY on sites on the internet. Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to www.propertyguru.com.my. Users may opt out of Google's use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/privacy_ads.html). (Alternatively you can opt out of a third party vendor's use of cookies by [visiting the Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp).)
+5.1 When you use the Website, we may collect and store information about your computer, including where available your IP address, operating system and browser type, for system administration. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
 
-We're not currently using DoubleClick's re-marketing pixels, but it's possible we will in the future in which case you can opt out of DoubleClick's use of cookies by visiting the [DoubleClick opt-out page](http://www.doubleclick.com/privacy/dart_adserving.aspx) or the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp). ****
+6.  **COOKIES**
 
- _Changes to this Statement_
+6.1 The Website uses cookies to distinguish you from other users of the Website. This helps us to provide you with a good experience when you browse the Website and also allows us to improve the Website.
 
-PROPERTYGURU.COM.MY will occasionally update this Statement of Privacy to reflect company and user feedback. When we post changes to this Statement, you will see the word "updated" next to the Privacy Statement link on the front page of PROPERTYGURU.COM.MY. If there are material changes to this Statement or in the manner PROPERTYGURU.COM.MY will use your personal information, we shall notify you of changes to our privacy policy by email.
+7.  **INTERNATIONAL DATA TRANSFERS**
 
-PROPERTYGURU.COM.MY encourages you to review this Statement periodically to be informed of how we are protecting your personal information. ****
+7.1 You acknowledge and consent to the fact that we may temporarily store, process or transfer your personal data between any of the countries in which we operate in order to enable us to use your personal data in accordance with this Privacy Policy and our Terms of Service at <http://www.propertyguru.com.my/terms-of-service>
 
- _Contact Information_
+7.2 We will take all steps reasonably necessary to ensure that your personal data is treated securely and in accordance with this Privacy Policy.
 
-PROPERTYGURU.COM.MY welcomes your comments regarding this Statement of Privacy. If you believe that we have not adhered to this Statement, please contact us by telephone, email or post:
+8.  **THIRD PARTY WEBSITES**
 
-Attn: PROPERTYGURU.COM.MY Privacy **
+8.1 The Website may, from time to time, contain links to and from the websites of our partner networks and vendors. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies.  Please check these policies before you submit any personal data to these websites.
 
-Mailing Address :
+9.  **ACCESS AND CORRECTION**
 
-**  
-PropertyGuru International (Malaysia) Sdn. Bhd.  
-Level 3, Tower 3A, Avenue 3,  
+9.1 Our privacy officer is responsible for ensuring that requests for access to information and amendment of information are properly dealt with in accordance with the procedures specified herein.
+
+9.2 All requests for information or requests for the amendment of information held by us shall be made by completing our standard Request for Information/Amendment of Information form (PDF available here at [http://www.propertyguru.com.my/privacy-request-form](http://media.propertyguru.com.my/pdf/Personal_Data_Request_Form_MY.pdf)), and sending a copy of the duly completed form to us via post or fax at:
+
+ **PropertyGuru International (Malaysia) Sdn. Bhd.  
+** Level 3, Tower 3A, Avenue 3,  
 The Horizon, Bangsar South,  
 No. 8, Jalan Kerinchi,  
 59200 Kuala Lumpur  
-Malaysia 
+Malaysia
 
-**Tel:** (+603) 2279 7555
+Attention: Privacy Officer  
+Phone Number:   (+603) 2279 7555  
+Fax Number:  (+603) 2279 7575
 
- **Email:** enquiries@propertyguru.com.my
+9.3 Please note that we will only accept and act on requests in the English language that comply with this Privacy Policy, and with the applicable charge(s) paid. Any request that does not comply with the above will be rejected, and we will not take any action in relation to such rejected requests. We reserve the right to require you to translate any request or any part of the request which is not in the English language before we act on the same OR proceed at our own discretion to translate the same into the English language and charge you for the translation costs, and act upon your request only upon the payment of the translation fees.
 
- _This document was updated on August 30, 2013._
+9.4 We may refuse to disclose or amend any information for the reasons set out in the Personal Data Protection Act 2010.
+
+9.5 As far as reasonably possible, we will respond to your request within twenty one (21) days from the date of receipt of the request ("Initial Period"). If that is not possible, you will be so notified in writing before the expiry of the Initial Period, together with the reasons why we are unable to do so and what requests we can comply with. In any event, the request will (unless permitted otherwise under the law) be complied with no later than fourteen (14) days after the expiration of the Initial Period.
+
+9.6 The following charges will be imposed on each submission of the request for information and request for amendment:
+
+   • Request for information
+
+Item| Description| Fee  
+---|---|---  
+1| Data access request for a data subject’s personal data with a copy of the personal data in an intelligible form| RM10  
+2| Data access request for a data subject’s personal data without a copy of the personal data in an intelligible form| RM2  
+  
+   • Request for amendment of personal information: RM 20 (including Malaysia's prevailing taxes)
+
+9.7 The above charges may be subject to revision by us from time to time (subject to the maximum fees permitted under the law).
+
+9.8 The applicable charge shall be paid by way of cheque made out to PropertyGuru International (Malaysia) Sdn. Bhd, at the time of submission of the request. Please note that we will not accept and act on requests that are not accompanied with payment of the applicable charge(s).
+
+10.  **DISCLAIMER**
+
+10.1 We shall not be liable for any voluntary disclosure of personal information by you to other users of the Website.
+
+11.  **CONTACT US**
+
+11.1 Should you require further information about the treatment of your personal information by us, please do not hesitate to contact our privacy officer at:.
