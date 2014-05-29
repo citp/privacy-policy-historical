@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freddiemac.com privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128074152id_/http%3A//www.freddiemac.com/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freddiemac.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529230233id_/http%3A//www.freddiemac.com/terms/privacy.html%3Fintcmp%3DFPP) for the most accurate reproduction.*
 
 # Terms and Conditions: Privacy Policy - Freddie Mac
 
@@ -67,7 +67,3 @@ We do not store, use or distribute the Social Security number collected via the 
 If you have a question about the way your information is used or about our information practices, please contact us by sending an email to [privacy_mailbox@freddiemac.com](mailto:privacy_mailbox@freddiemac.com).
 
 Last updated: July 3, 2013
-
- 
-
-Print This Page
