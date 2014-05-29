@@ -1,0 +1,981 @@
+<!--The following is the downloaded HTML source of the capitalone.co.uk privacy policy that was archived on 2014-05-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140529022549id_/http%3A//www.capitalone.co.uk/web/privacy-statement.jsf) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en-GB"><!-- InstanceBeginEditable name="java" --><!-- InstanceEndEditable --><head><script async="" src="https://nexus.ensighten.com/capitaloneuk/Bootstrap.js?_=1580350892827"></script>
+<!-- Page You Are On = -->
+
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+
+<title>Privacy Policy | Legal Information | Capital One</title>
+
+
+<meta name="description" content="Capital One's privacy policy applies to anyone who visits our websites. It explains how we may collect information from you online when you visit a Capital One website and how we may protect and use that information.">
+<meta name="keywords" content="Privacy Policy">
+
+
+<meta name="format-detection" content="telephone=no">
+<link href="/css/reset.css" rel="stylesheet" type="text/css">
+<link href="/css/master.css" rel="stylesheet" type="text/css">
+
+<link href="/images/mvt/131121/css/f1l1.css" rel="stylesheet" type="text/css">
+
+
+
+
+
+<script type="text/javascript" src="/js/jquery-1.7.1.min.js"></script>
+<script type="text/javascript" src="/js/cookie_jquery.js"></script>
+<script type="text/javascript" src="/js/global.js"></script>
+<script type="text/javascript" src="/js/mobile/sniffer.js"></script>
+<script type="text/javascript" src="/js/preference_cookie.js"></script>
+<script type="text/javascript" src="/js/navs.js"></script>
+<script type="text/javascript" src="/js/btn-hover.js"></script>
+<script type="text/javascript" src="/js/vs/vsevents.js"></script>
+<script type="text/javascript" src="/js/vs-links.js"></script>
+<script type="text/javascript" src="/js/jquery.pngFix.js"></script>
+<script type="text/javascript" src="/js/popup.js"></script>
+
+<script type="text/javascript" src="/js/mtagconfig.js "></script>
+<script type="text/javascript">
+// LOAD ENSIGHTEN BOOTSTRAP
+
+// check performance cookies
+var CookiePref = null;
+
+if($.cookie('preferences') != null ) { 
+	var CookiePref = $.cookie('preferences').substring(0,1); // set the first value for performance cookies
+}
+if(CookiePref == "N") { 
+	// do not load bootstrap
+} else {
+	// load bootstrap
+	$.getScript('//nexus.ensighten.com/capitaloneuk/Bootstrap.js');
+}
+</script>
+<script type="text/javascript">
+	$(document).ready(function(){
+	     $(document).pngFix();     
+	}); 
+</script>
+
+
+<script type="text/javascript">	
+//========================================= EPRIVACY CHECK & VISITOR ID=========================================
+
+	var sc_cookieDomain = document.domain;
+	sc_cookieDomain = sc_cookieDomain.replace('ukwwwqa','').replace(/\d{1,2}\./g,'.').replace('uk.','').replace('ukwwwite','').replace(/\d{1,2}\./g,'.').replace('www.','.').replace('m.','.'); // remove qa or www subdomain	// Obtain preferences cookie content
+
+	// Create visitor ID cookie
+	if( CookiePref == null || CookiePref == "Y") {
+		var jSess = '4vdtTGhT0sZVWHHYsJj0GbqwSLGgZLrQscyfzLxljB1jkQNlmf1R!606018566!1401330355321';
+		var alphaSess = jSess.replace(/\W/g, '').substring(0,99);
+		if ($.cookie('sc_vi')== null) {
+			$.cookie('sc_vi', alphaSess, { expires: 365, path: '/', domain: sc_cookieDomain});
+		}
+	}
+	
+	//Set Cookie Domain
+	if( CookiePref === "N") {
+		// Expire Site Catalyst Cookies
+		$.cookie("s_cc", null, { expires: 365, path: '/', domain: sc_cookieDomain});
+		$.cookie("s_fid", null, { expires: 365, path: '/', domain: sc_cookieDomain});
+		$.cookie("s_nr", null, { expires: 365, path: '/', domain: sc_cookieDomain});
+		$.cookie("s_sq", null, { expires: 365, path: '/', domain: sc_cookieDomain});
+		$.cookie("s_pers", null, { expires: 365, path: '/', domain: sc_cookieDomain});
+		$.cookie("gpv_pn", null, { expires: 365, path: '/', domain: sc_cookieDomain});
+		$.cookie("ttc", null, { expires: 365, path: '/', domain: sc_cookieDomain});
+		$.cookie("sc_vi", null, { expires: 365, path: '/', domain: sc_cookieDomain});
+		$.cookie("sc_clickData", null, { expires: 365, path: '/', domain: sc_cookieDomain});
+
+	}
+
+//========================================= SURFACE DATA FOR SITE CATALYST / ENSIGHTEN =========================================
+	
+	// Set Global Variables
+	var sc_typeContentUpdate;
+	var sc_typePrivacyUpdate;
+	var sc_element;
+	var sc_events = "";
+	var sc_absolutePath = window.location.href;
+	var sc_absolutePathComponents = sc_absolutePath.split("/"); 
+	var sc_productView = 0;
+	var sc_server, sc_brandID, sc_section, sc_subSection, sc_subSubSection, sc_channel, sc_pageVersion, sc_pageName, sc_constructor, sc_primaryNav, sc_secondaryNav, sc_tertiaryNav;	
+	var sc_testCell = '';
+	var sc_appField;
+	var sc_totalErrorCount;
+// PARTNER //////////////////////////////////////////////////////////////////////////
+	
+	// Get Brand ID
+	if (sc_absolutePathComponents[2] !== sc_absolutePathComponents[2].indexOf('www') || sc_absolutePathComponents[2].indexOf('ukwwwqa') || sc_absolutePathComponents[2].indexOf('ukwwwite') || sc_absolutePathComponents[2].indexOf('m')) {
+		if (sc_absolutePathComponents[3] == 'partners') {
+			sc_brandID = 'LUM';
+		} else {
+			sc_brandID = 'CAP';
+		}
+		switch(sc_brandID)
+			{
+			case 'CAP':
+			  sc_partner = 'capital one'
+			  break;
+			case 'LUM':
+			  sc_partner = 'luma'
+			  break;
+			default:
+			  sc_partner = ''
+			}
+		}
+							
+// PLATFORM //////////////////////////////////////////////////////////////////////////
+	this.userAgentString = navigator.userAgent.toLowerCase();
+	
+	var sc_mobTrue = this.userAgentString.search(/mobile/)
+	var sc_BB9700True = this.userAgentString.search(/Blackberry 9700/)
+	var sc_IpadTrue = this.userAgentString.search(/ipad/) //is iPad
+
+	var sc_tabletTrue = "N";		
+	var showMob = "N";
+	
+	if (sc_mobTrue > -1) {sc_mobTrue = "Y";}
+	if (sc_BB9700True > -1) {sc_BB9700True = "Y";}
+	if (sc_IpadTrue > -1) {sc_IpadTrue = "Y";}  // is tablet		
+
+
+	if (sc_mobTrue !== 'Y') {
+	sc_mobTrue = 'desktop';
+	} else {
+		sc_mobTrue = 'mobile';
+	}
+
+	var sc_pageType = "desktop";
+	if (sc_absolutePathComponents[2].indexOf('m') == 0) {
+		sc_pageType = "mobile";
+	}
+		
+// PAGE TAXONOMY //////////////////////////////////////////////////////////////////////////
+
+		function taxonomy(sc_server, sc_section, sc_subSection, sc_subSubSection, sc_channel, sc_pageVersion, sc_pageName) {
+
+			if (!window.primary) {
+				var sc_section = sc_absolutePathComponents[3]; 				// use the 4th value as the section
+			} else {
+				var sc_section = window.primary.toLowerCase(); 				// check the section via navigation e.g. ceditcards
+			};
+			
+			if (!window.secondary) {
+				if (!sc_absolutePathComponents[4]) {					
+					var sc_SubSection = ""; 								// don't display anything
+				} else {
+				var sc_subSection = sc_absolutePathComponents[4]; 			// use the 5th value as the section
+				}
+				sc_subSection = sc_subSection.split("."); 					// split the absolute path at every .
+				sc_subSection = sc_subSection[0];							// remove the file extension
+			} else {
+				var sc_subSection = window.secondary.toLowerCase(); 		// check the sub section via the secondary navigation e.g. social responsibility
+			};
+			
+			if (!window.tertiary) {
+				if (!sc_absolutePathComponents[5]) {					
+					var sc_subSubSection = ""; 								// don't display anything
+				} else {
+				var sc_subSubSection = sc_absolutePathComponents[5];		// use the 6th value as the section
+				}												
+				sc_subSubSection = sc_subSubSection.split("."); 			// split the absolute path at every .
+				sc_subSubSection = sc_subSubSection[0];						// remove the file extension
+			} else {
+				var sc_subSubSection = window.tertiary.toLowerCase(); 		// check the sub section via the tertiary navigation e.g. social responsibility
+			};
+						
+			sc_server = sc_mobTrue;
+			sc_channel = sc_partner;
+			sc_pageVersion = sc_pageType;
+
+			sc_pageName = sc_channel + (sc_pageVersion ? ':' + sc_pageVersion : '') + (sc_section ? ':' + sc_section : '') + ((sc_subSection && sc_subSection !== 'null') ? ':' + sc_subSection : '') + ((sc_subSubSection && sc_subSubSection !== 'null') ? ':' + sc_subSubSection : '');
+
+			var sc_hierarchy = {"channel": sc_channel,"server": sc_server,"section": sc_section,"subSection": sc_subSection,"subSubSection": sc_subSubSection, "pageName": sc_pageName};
+			return sc_hierarchy;
+		}
+		
+		taxonomy(sc_mobTrue, window.primary, window.secondary, window.tertiary, sc_partner, sc_pageType);
+		
+		var sc_hier = taxonomy();
+
+		
+		// was inside the following document.ready
+		function checkInteractionType(sc_target, sc_type, sc_element, sc_events, sc_typeInternalCTA, sc_typeContentUpdate, sc_typePrivacyUpdate) {
+			if (sc_target && sc_type == "cta") {
+				sc_typeInternalCTA = sc_type + ":" + sc_element + ":" + sc_target;
+				sc_typeInternalCTA.replace(":", "-"); 
+				$.cookie("sc_clickData", sc_typeInternalCTA, { expires: 365, path: '/', domain: sc_cookieDomain});
+				sc_events = "event49";
+				gblData.successEvents.events = sc_events;
+				gblData.contentInteractions.toolType = sc_element;
+			} else if (sc_target && sc_type == "cu") {
+				sc_typeContentUpdate = sc_type + ":" + sc_element + ":" + sc_target;
+				sc_events = "event50";
+				gblData.successEvents.events = sc_events;
+				gblData.contentInteractions.cuType = sc_typeContentUpdate;
+				gblData.contentInteractions.toolType = sc_element;
+			} else if (sc_target && sc_type == "pc") {
+				sc_typePrivacyUpdate = sc_type + ":" + sc_element + ":" + sc_target;
+				sc_events = "event51";
+				gblData.successEvents.events = sc_events;
+				gblData.contentInteractions.privacy = sc_typePrivacyUpdate;
+				gblData.contentInteractions.toolType = sc_element;
+			} else {
+			}
+			return sc_target;
+		}
+	
+// CONTENT INTERACTION ///////////////////////////////////////////////////////////////////
+	$(document).ready(function()
+	{
+		var sc_typeInternalCTA;		
+						
+		// Apply Links	
+		$('a').click(function() {
+			if($(this).is('[id]')) {
+				var sc_clicked = $(this).attr("id");
+			} else {
+				var sc_clicked = "";
+			};
+			var sc_clickID = sc_clicked.split("-");
+			sc_clickID = sc_clickID[sc_clickID.length-1];
+			if (sc_clicked == "apply-button-" + sc_clickID || sc_clicked == "apply-text-" + sc_clickID || sc_clicked == "apply-card-image-" + sc_clickID || sc_clicked == "apply-title-" + sc_clickID || sc_clicked == "home-slide-1" || sc_clicked == "home-slide-2" || sc_clicked == "home-slide-3" || sc_clicked == "home-slide-4" || sc_clicked == "home-slide-5" || sc_clicked == "footer-credit-card-range" || sc_clicked == "footer-compare-credit-cards" || sc_clicked == "footer-aspire-credit-card-range" || sc_clicked == "footer-aspire-business-credit-card") {
+				var sc_contentType = "cta";
+				var sc_interactionType = "link";
+				checkInteractionType(sc_clicked, sc_contentType, sc_interactionType);
+			}
+		});
+
+		// Accordions
+		//$('dt.closed .accordion-title').live("click", function() {
+		$(document).on('click', 'dt.closed .accordion-title', function() {  // changed .live() to .on() as .live() is depreciated -- http://stackoverflow.com/a/18859713/633056
+			//console.info('accordion clicked');
+			var sc_clicked = $(this).html();
+			var sc_contentType = "cu";
+			var sc_interactionType = "accordion";
+			checkInteractionType(sc_clicked, sc_contentType, sc_interactionType);
+		});
+		
+		// Tabs
+		$('.tab').click(function() {
+			var sc_clicked = $(this).find('a').attr('href');
+			var sc_contentType = "cu";
+			var sc_interactionType = "tabs"
+			//remove # from vlaue of clicked
+			sc_clicked = sc_clicked.replace("#","");
+			checkInteractionType(sc_clicked, sc_contentType, sc_interactionType);
+		});
+
+		// Privacy Save Settings
+		$('#saveSettings').click(function() {
+			window.setTimeout(function(){
+				var sc_clicked = $.cookie('preferences');
+				var sc_contentType = "pc";
+				var sc_interactionType = "privacy"
+				checkInteractionType(sc_clicked, sc_contentType, sc_interactionType);
+			},1500);
+		});
+		
+		// OAS links
+		$('.header-account .cta-primary').click(function() {
+			sc_events = "event1";
+		});
+		
+		$('.header-account .cta-secondary').click(function() {
+			sc_events = "event1";
+		});
+		
+		
+		if (sc_hier.section == "youraccount" || sc_hier.section == "account" ) {
+			$('.cta-primary').click(function() {
+				sc_events = "event1";
+			});
+			$('a.attr("href") == /web/register.jsf').click(function() {
+				sc_events = "event1";
+			});
+			$('.navLinks .linkPrimary').click(function() {
+				sc_events = "event1";
+			});
+		};
+		
+		
+		// Apply Later (Mobile only)
+		$('.js-applyLater').click(function() {
+			sc_events = "event39";
+			gblData.successEvents.events = sc_events;		
+		});
+
+		
+	});
+	
+	// grab the values from the url query string and put them in the data layer
+	function gup(name)
+	{
+	  name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
+	  var regexS = "[\\?&]"+name+"=([^&#]*)";
+	  var regex = new RegExp( regexS );
+	  var results = regex.exec( window.location.href );
+	  if( results == null )
+		return "";
+	  else
+		return results[1];
+	}
+		
+	if (window.location.href.indexOf("cta") !== -1 || window.location.href.indexOf("cta") !== "") {
+			var sc_typeInternalCTA = gup('linktype');
+			var sc_events = gup('event');
+	}
+
+	// Read click data cookie contents into variable
+	if ($.cookie("sc_clickData") && $.cookie("sc_clickData") !== null) {
+		var sc_linkTrack = $.cookie("sc_clickData");
+		sc_linkTrack.replace("-",":");
+		
+		var sc_typeInternalCTA = sc_linkTrack;
+	}
+	
+		
+// PRODUCTS ///////////////////////////////////////////////////////////////////	
+	// Test for product view
+	if (sc_hier.section == "cards" || sc_hier.section == "creditcards") {
+		if (sc_hier.subSection == "cards-range-aspire" || sc_hier.subSection == "cards-compare" || sc_hier.subSection == "credit-card-range" || sc_hier.subSection == "cards-range" || sc_hier.subSubSection == "application" || sc_hier.subSubSection == "application-mobile" || sc_hier.subSubSection == "session" || sc_hier.subSubSection == "session-mobile" || sc_hier.subSubSection == "error" || sc_hier.subSubSection == "error-mobile" || sc_hier.subSubSection == "decision" || sc_hier.subSubSection == "decision-mobile" || sc_hier.subSubSection == "iaccept-confirm" || sc_hier.subSubSection == "iaccept-i-want" || sc_hier.subSubSection == "iaccept-i-want#" || sc_hier.subSubSection == "summary-box" || sc_hier.subSubSection == "terms-and-conditions" || sc_hier.subSubSection == "oasterms-and-conditions" || sc_hier.subSubSection == "ae-mobile") {
+			sc_productView = 0;
+		} else {
+			sc_productView = 1;
+			sc_events = "event2";
+		}
+	}
+
+// CAMPAIGNS ///////////////////////////////////////////////////////////////////
+	var sc_cid;
+	if (!sc_cid || sc_cid == "") {
+		sc_cid = "";
+	}
+	var sc_chanType;
+	var sc_camStack;
+	var sc_chanStack; 
+
+	var sc_sol;
+	sc_sol = ""
+	sc_sol = (sc_sol.substr(0,5));
+	
+	
+	var sc_tc;
+	sc_tc = ""
+	sc_tc = (sc_tc.substr(5,3));
+	
+
+	var sc_site;
+	sc_site = ""
+	sc_site = (sc_site.substr(11,5));
+
+	
+	var sc_cretv;
+	sc_cretv = ""
+	sc_cretv = (sc_cretv.substr(16,3));
+			
+	
+	var sc_prod;
+	sc_prod = ""
+	sc_prod = (sc_prod.substr(19,2));
+							
+	
+	var sc_cap;
+	sc_cap = ""
+	sc_cap = (sc_cap.substr(21,2));
+											
+	
+	var sc_zong;
+	sc_zong = ""
+	sc_zong = (sc_zong.substr(23,2));
+															
+	
+	var sc_dest;
+	sc_dest = ""
+	sc_dest = (sc_dest.substr(25,3));
+	
+
+	
+// APP FORM ///////////////////////////////////////////////////////////////////
+	var sc_productSol;
+	if (sc_hier.subSubSection == "application" || sc_hier.subSubSection == "application-mobile" || sc_hier.subSubSection == "application-bt-nopl" || sc_hier.subSubSection == "application-bt-pick-nopl" || sc_hier.subSubSection == "application-bt-info-nopl") {
+		sc_productSol = window.ProductType;
+	}
+	
+$(document).ready(function() {
+	// App Start
+	if (sc_hier.subSubSection == "application" || sc_hier.subSubSection == "application-bt-nopl" || sc_hier.subSubSection == "application-bt-pick-nopl" || sc_hier.subSubSection == "application-bt-info-nopl") {
+		$('#XclosePopup').click(function() {
+			sc_events = "event3";
+			gblData.successEvents.events = sc_events;
+		});
+		$('#closePopup').click(function() {
+			sc_events = "event3";
+			gblData.successEvents.events = sc_events;
+		});
+		$("#backgroundPopup").click(function(){   
+			sc_events = "event3";
+			gblData.successEvents.events = sc_events;
+		});
+	};
+		
+	if (sc_hier.subSubSection == "application-mobile" && document.referrer.indexOf('application-mobile.jsf') <= -1) {
+		sc_events = "event3";
+		gblData.successEvents.events = sc_events;
+	};
+
+	// Errors
+	if (window.purl == "/creditcards/secure/application-under-age.jsf" || window.purl == "/creditcards/secure/application-under-age-mobile.jsf" || window.purl == "/partners/secure/application-under-age.jsf") {
+		sc_events = "event7";
+		gblData.successEvents.events = sc_events;
+	};
+	if (window.purl == "/creditcards/secure/application-out-of-area.jsf" || window.purl == "/creditcards/secure/application-out-of-area-mobile.jsf" || window.purl == "/partners/secure/application-out-of-area.jsf") {
+		sc_events = "event8";
+		gblData.successEvents.events = sc_events;
+	};
+	
+	// Get the error count stored in the session to fire event10 via Ensighten
+	sc_totalErrorCount = ""
+
+
+	// If any content is missing
+	if (sc_hier.subSubSection == "application" || sc_hier.subSubSection == "application-mobile" || sc_hier.subSubSection == "application-bt-nopl" || sc_hier.subSubSection == "application-bt-pick-nopl" || sc_hier.subSubSection == "application-bt-info-nopl") {
+		//If NOT on await decision page
+		if (window.purl == "/creditcards/secure/await-decision.jsf" || window.purl == "/creditcards/secure/await-decision-mobile.jsf" || window.purl == "/partners/secure/await-decision.jsf") {
+			// Do nothing
+		} else if (sc_totalErrorCount >= 1) {
+			sc_events = "event9";
+			gblData.successEvents.events = sc_events;
+		};
+	};
+	
+	// Await Decision
+	if (window.purl == "/creditcards/secure/await-decision.jsf" || window.purl == "/creditcards/secure/await-decision-mobile.jsf" || window.purl == "/partners/secure/await-decision.jsf") {
+		sc_purnApp = "";
+		gblData.applicationForm.purn = sc_purnApp;
+		sc_events = "event11, event31:UA" + sc_purnApp;
+		gblData.successEvents.events = sc_events;
+	};
+
+	// First time submission
+	if (sc_hier.subSubSection == "application" || sc_hier.subSubSection == "application-mobile" || sc_hier.subSubSection == "application-bt-nopl" || sc_hier.subSubSection == "application-bt-pick-nopl" || sc_hier.subSubSection == "application-bt-info-nopl") {
+		$('.cta-primary.submit').click(function() {
+			sc_events = "event6";
+			gblData.successEvents.events = sc_events;
+			});
+	};		 
+ 
+});
+// DECISION ////////////////////////////////////////////////////////////////////
+	var sc_purnApp;
+	var sc_decision = "";
+	sc_decision = "offline"; 
+	
+$(document).ready(function() {
+	
+	sc_purnApp = "";
+	gblData.applicationForm.purn = sc_purnApp;
+	
+	// Call the check decision function
+	checkDecision(sc_decision);
+
+	// Decision function
+	function checkDecision (decision) {
+		switch(decision)
+			{
+			 case "IAaccept":
+			 	if (window.purl == "/creditcards/secure/iaccept-confirm.jsf" || window.purl == "/creditcards/secure/iaccept-confirm-mobile.jsf" || window.purl == "/partners/secure/iaccept-confirm.jsf") { 
+				 	sc_events = "event13:DC" + sc_purnApp;	// Straight Active Accept
+					gblData.successEvents.events = sc_events;
+			} else if (window.purl == "/creditcards/secure/decision.jsf" && sc_totalErrorCount < 1 || window.purl == "/creditcards/secure/decision-mobile.jsf" && sc_totalErrorCount < 1 || window.purl == "/partners/secure/decision.jsf" && sc_totalErrorCount < 1) {
+			  		sc_events = "event12:DC" + sc_purnApp;	// Straight Accept
+					gblData.successEvents.events = sc_events;
+				} else if (window.purl == "/creditcards/secure/decision.jsf" && sc_totalErrorCount >= 1 || window.purl == "/creditcards/secure/decision-mobile.jsf" && sc_totalErrorCount >= 1 || window.purl == "/partners/secure/decision.jsf" && sc_totalErrorCount >= 1) {
+					var sc_eventArray = new Array(sc_totalErrorCount);
+					for(i = 0; i < sc_totalErrorCount; i++){
+						sc_eventArray[i] = "event10"; 
+					}
+					sc_events = "event12:DC" + sc_purnApp + "," + sc_eventArray.join();
+					gblData.successEvents.events = sc_events;
+				}
+			  break;
+			 case "offline":
+				if (sc_hier.subSubSection == "decision" && sc_totalErrorCount < 1) {				
+					$('.cta-primary' || '.linkPrimary' || '.luma-cta-primary').click(function() {
+						$.cookie("sc_clickData", sc_events, { expires: 365, path: '/', domain: sc_cookieDomain});
+						var sc_href = $(this).attr("href");
+						var qs_symbol = "?";
+						if (sc_href.indexOf('?') !== -1) {
+							qs_symbol = "&";
+						}
+						sc_events = "event28:DC" + sc_purnApp;
+						$(this).attr("href", sc_href + qs_symbol + "event=" + sc_events);
+					});
+				};
+				if (window.purl == "/creditcards/secure/decision.jsf" && sc_totalErrorCount < 1 || window.purl == "/creditcards/secure/decision-mobile.jsf" && sc_totalErrorCount < 1 || window.purl == "/partners/secure/decision.jsf" && sc_totalErrorCount < 1) {
+			  		sc_events = "event27:DC" + sc_purnApp;
+					gblData.successEvents.events = sc_events;
+				} else if (window.purl == "/creditcards/secure/decision.jsf" && sc_totalErrorCount >= 1 || window.purl == "/creditcards/secure/decision-mobile.jsf" && sc_totalErrorCount >= 1 || window.purl == "/partners/secure/decision.jsf" && sc_totalErrorCount >= 1) {
+					var sc_eventArray = new Array(sc_totalErrorCount);
+					for(i = 0; i < sc_totalErrorCount; i++){
+						sc_eventArray[i] = "event10"; 
+					}
+					sc_events = "event27:DC" + sc_purnApp + "," + sc_eventArray.join();
+					gblData.successEvents.events = sc_events;
+				}
+			  break;
+			case "IArefer":
+			 	if (window.purl == "/creditcards/secure/iaccept-confirm.jsf" || window.purl == "/creditcards/secure/iaccept-confirm-mobile.jsf" || window.purl == "/partners/secure/iaccept-confirm.jsf") { 
+			  		sc_events = "event21:DC" + sc_purnApp;
+					gblData.successEvents.events = sc_events;
+				} else if (window.purl == "/creditcards/secure/decision.jsf" && sc_totalErrorCount < 1 || window.purl == "/creditcards/secure/decision-mobile.jsf" && sc_totalErrorCount < 1 || window.purl == "/partners/secure/decision.jsf" && sc_totalErrorCount < 1) {
+					sc_events = "event20:DC" + sc_purnApp;
+					gblData.successEvents.events = sc_events;
+				} else if (window.purl == "/creditcards/secure/decision.jsf" && sc_totalErrorCount >= 1 || window.purl == "/creditcards/secure/decision-mobile.jsf" && sc_totalErrorCount >= 1 || window.purl == "/partners/secure/decision.jsf" && sc_totalErrorCount >= 1) {
+					var sc_eventArray = new Array(sc_totalErrorCount);
+					for(i = 0; i < sc_totalErrorCount; i++){
+						sc_eventArray[i] = "event10"; 
+					}
+					sc_events = "event20:DC" + sc_purnApp + "," + sc_eventArray.join();
+					gblData.successEvents.events = sc_events;
+				}
+			  break;
+			case "IAdownsellAccept":
+				$('.no-thanks-buttons .cta-secondary' || '.lnkSecondaryAction' || '.luma-cta-secondary').click(function() {
+					var sc_href = $(this).attr("href");
+					var qs_symbol = "?";
+					if (sc_href.indexOf('?') !== -1) {
+						qs_symbol = "&";
+					}
+					sc_events = "event18:DC" + sc_purnApp;
+					$(this).attr("href", sc_href + qs_symbol + "event=" + sc_events);
+				});
+				if (sc_hier.subSubSection == "iaccept-i-want") {
+			 	 	$('#XclosePopup').click(function() {
+					sc_events = "event17:DC" + sc_purnApp;
+					gblData.successEvents.events = sc_events;
+					});
+					$('#closePopup').click(function() {
+						sc_events = "event17:DC" + sc_purnApp;
+						gblData.successEvents.events = sc_events;
+					});
+					$("#backgroundPopup").click(function(){   
+						sc_events = "event17:DC" + sc_purnApp;
+						gblData.successEvents.events = sc_events;
+					});
+				} else if (window.purl == "/creditcards/secure/decision.jsf" && sc_totalErrorCount < 1 || window.purl == "/creditcards/secure/decision-mobile.jsf" && sc_totalErrorCount < 1 || window.purl == "/partners/secure/decision.jsf" && sc_totalErrorCount < 1) {
+			 	 	sc_events = "event16:DC" + sc_purnApp;
+					gblData.successEvents.events = sc_events;
+				} else if (window.purl == "/creditcards/secure/decision.jsf" && sc_totalErrorCount >= 1 || window.purl == "/creditcards/secure/decision-mobile.jsf" && sc_totalErrorCount >= 1 || window.purl == "/partners/secure/decision.jsf" && sc_totalErrorCount >= 1) {
+					var sc_eventArray = new Array(sc_totalErrorCount);
+					for(i = 0; i < sc_totalErrorCount; i++){
+						sc_eventArray[i] = "event10"; 
+					}
+					sc_events = "event16:DC" + sc_purnApp + "," + sc_eventArray.join();
+					gblData.successEvents.events = sc_events;
+				}
+			  break;
+			case "IAdownsellRefer":
+				$('.no-thanks-buttons .cta-secondary' || '.lnkSecondaryAction' || '.luma-cta-secondary').click(function() {
+					var sc_href = $(this).attr("href");
+					var qs_symbol = "?";
+					if (sc_href.indexOf('?') !== -1) {
+						qs_symbol = "&";
+					}
+					sc_events = "event26:DC" + sc_purnApp;
+					$(this).attr("href", sc_href + qs_symbol + "event=" + sc_events);
+				});
+
+				if (sc_hier.subSubSection == "iaccept-i-want") {
+			 	 	$('#XclosePopup').click(function() {
+					sc_events = "event25:DC" + sc_purnApp;
+					gblData.successEvents.events = sc_events;
+					});
+					$('#closePopup').click(function() {
+						sc_events = "event25:DC" + sc_purnApp;
+						gblData.successEvents.events = sc_events;
+					});
+					$("#backgroundPopup").click(function(){   
+						sc_events = "event25:DC" + sc_purnApp;
+						gblData.successEvents.events = sc_events;
+					});
+				}
+				if (sc_hier.subSubSection == "iaccept-i-want-mobile") {
+					sc_events = "event25:DC" + sc_purnApp;
+					gblData.successEvents.events = sc_events;
+				} else if (window.purl == "/creditcards/secure/decision.jsf" && sc_totalErrorCount < 1 || window.purl == "/creditcards/secure/decision-mobile.jsf" && sc_totalErrorCount < 1 || window.purl == "/partners/secure/decision.jsf" && sc_totalErrorCount < 1) {
+			  		sc_events = "event24:DC" + sc_purnApp;
+					gblData.successEvents.events = sc_events;
+				} else if (window.purl == "/creditcards/secure/decision.jsf" && sc_totalErrorCount >= 1 || window.purl == "/creditcards/secure/decision-mobile.jsf" && sc_totalErrorCount >= 1 || window.purl == "/partners/secure/decision.jsf" && sc_totalErrorCount >= 1) {
+					var sc_eventArray = new Array(sc_totalErrorCount);
+					for(i = 0; i < sc_totalErrorCount; i++){
+						sc_eventArray[i] = "event10"; 
+					}
+					sc_events = "event24:DC" + sc_purnApp + "," + sc_eventArray.join();
+					gblData.successEvents.events = sc_events;
+				}
+			  break;
+			case "decline":
+				if (window.purl == "/creditcards/secure/decision.jsf" && sc_totalErrorCount < 1 || window.purl == "/creditcards/secure/decision-mobile.jsf" && sc_totalErrorCount < 1 || window.purl == "/partners/secure/decision.jsf" && sc_totalErrorCount < 1) {
+				  sc_events = "event19:DC" + sc_purnApp;
+				  gblData.successEvents.events = sc_events;
+				} else if (window.purl == "/creditcards/secure/decision.jsf" && sc_totalErrorCount >= 1 || window.purl == "/creditcards/secure/decision-mobile.jsf" && sc_totalErrorCount >= 1 || window.purl == "/partners/secure/decision.jsf" && sc_totalErrorCount >= 1) {
+					var sc_eventArray = new Array(sc_totalErrorCount);
+					for(i = 0; i < sc_totalErrorCount; i++){
+						sc_eventArray[i] = "event10"; 
+					}
+					sc_events = "event19:DC" + sc_purnApp + "," + sc_eventArray.join();
+					gblData.successEvents.events = sc_events;
+				}
+				break;
+			default:
+			  decision = "";
+			}
+		}
+		
+});
+	
+	
+// BROWSER DETECTION ////////////////////////////////////////////////////////////////////
+	(function (window) {
+		var browser,
+			os,
+			version,
+			ua = window.navigator.userAgent,
+			platform = window.navigator.platform;
+	
+		if ( /MSIE/.test(ua) ) {
+			browser = 'Internet Explorer';
+			if ( /IEMobile/.test(ua) ) {
+				browser += ' Mobile';
+			}
+			version = /MSIE \d+[.]\d+/.exec(ua)[0].split(' ')[1];
+		} else if ( /Chrome/.test(ua) ) {       
+			browser = 'Chrome';
+			version = /Chrome\/[\d\.]+/.exec(ua)[0].split('/')[1];       
+		} else if ( /Opera/.test(ua) ) {      
+			browser = 'Opera';    
+			if ( /mini/.test(ua) ) {
+				browser += ' Mini';
+			} else if ( /Mobile/.test(ua) ) {
+				browser += ' Mobile';
+			}      
+		} else if ( /Android/.test(ua) ) {     
+			browser = 'Android Webkit Browser';
+			mobile = true;
+			os = /Android\s[\.\d]+/.exec(ua);     
+		} else if ( /Firefox/.test(ua) ) {    
+			browser = 'Firefox';    
+			if ( /Fennec/.test(ua) ) {
+				browser += ' Mobile';
+			}
+			version = /Firefox\/[\.\d]+/.exec(ua)[0].split('/')[1];     
+		} else if ( /Safari/.test(ua) ) {      
+			browser = 'Safari';      
+			if ( (/iPhone/.test(ua)) || (/iPad/.test(ua)) || (/iPod/.test(ua)) ) {
+				os = 'iOS';
+			}   
+		}
+		if ( !version ) {        
+			 version = /Version\/[\.\d]+/.exec(ua);         
+			 if (version) {
+				 version = version[0].split('/')[1];
+			 } else {
+				 version = /Opera\/[\.\d]+/.exec(ua)[0].split('/')[1]
+			 }         
+		}  
+		if ( platform === 'MacIntel' || platform === 'MacPPC' ) {      
+			os = 'Mac OS X ' + /10[\.\_\d]+/.exec(ua)[0];
+			if ( /[\_]/.test(os) ) {
+				os = os.split('_').join('.');
+			}      
+		} else if ( platform === 'Win32' ) {
+			os = 'Windows 32 bit';
+		} else if ( platform == 'Win64' ) {
+			os = 'Windows 64 bit';
+		} else if ( !os && /Linux/.test(platform) ) {
+			os = 'Linux';
+		} else if ( !os && /Windows/.test(ua) ) {
+			os = 'Windows';
+		}
+		window.ui = {
+			browser : browser,
+			version : version,
+			os : os
+		};
+	}(this));
+
+	var sc_mobOS = window.ui.browser+"-"+window.ui.version+"-"+window.ui.os;
+	
+// INSIGHT ////////////////////////////////////////////////////////////////////
+	var sc_insightVisitorID;
+	if (window.VisitorID) {
+		sc_insightVisitorID = window.VisitorID;
+	}
+</script>
+<script type="text/javascript" src="/js/gblData.Layer.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" charset="iso-8859-1" src="https://sr2.liveperson.net/visitor/addons/deploy2.asp?site=41844492&amp;d_id=general-sales&amp;default=simpleDeploy"></script></head>
+<body>
+
+<form id="web-privacy:j_id_id2" name="web-privacy:j_id_id2" method="post" action="/web/privacy-statement.jsf;jsessionid=4vdtTGhT0sZVWHHYsJj0GbqwSLGgZLrQscyfzLxljB1jkQNlmf1R!606018566">
+<input type="hidden" name="web-privacy:j_id_id2" value="web-privacy:j_id_id2">
+
+<div id="body-wrapper">
+	<div id="main">
+					<div id="prefBanner" style="display: block;"><div class="icon fl"></div>
+				<p>To help us improve our websites, provide you with relevant advertising and useful functionality, our websites use cookies. By using our websites, you consent to cookies being used. See our <a href="/web/cookie-policy.jsf" id="pB">Cookie policy</a> to learn more about cookies or change your cookie preferences.</p>
+			</div>
+
+		
+		<div id="header-o">
+	<div id="header-i">
+		<div class="header-logo"> <a href="/web/index.jsf"><img src="/images/common/logos/img-logo-capitalone.gif" alt="Capital One" title="Capital One" width="172" height="60"></a> </div>
+		<div class="header-account" id="header-account">
+			<h2>Your Card Account</h2>
+			<a href="/web/sign-in.jsf" class="cta-primary fl mr10">Sign in<span class="icon"></span></a> <a href="/web/register.jsf" class="cta-secondary fl">Register</a>
+			<ul class="header-account-links fl unlist">
+				<script type="text/javascript">
+					var desktopChosen = readCookie('showDesktop');
+						if (desktopChosen == "Y") {	
+							$('<li class="mobile-return-link"><a href=\"javascript:mobileLink()\;\">Back to Mobile</a></li>').appendTo('.header-account-links ');
+							$('<li><a href=\"/support/contact-us.jsf\">Contact us</a></li>').appendTo('.header-account-links ');
+							$('<li><a href=\"/web/cookie-policy.jsf\">Cookie Policy</a></li>').appendTo('.header-account-links ');
+							$('.header-account-links').addClass('mobile-return');
+						}
+						else
+						{
+							$('<li><a href=\"/support/contact-us.jsf\">Contact us</a></li>').appendTo('.header-account-links ');
+							$('<li><a href=\"/web/cookie-policy.jsf\">Cookie Policy</a></li>').appendTo('.header-account-links ');
+						}
+				</script>
+				<noscript>
+					<li><a href="/support/contact-us.jsf">Contact us</a></li>
+					<li><a href="/web/cookie-policy.jsf">Cookie Policy</a></li>
+				</noscript>
+
+			</ul>
+		</div>
+	</div>
+</div>
+
+		
+		<div id="primary-navigation">
+	<ul class="unlist">
+		<li><a href="/web/index.jsf" id="primary-home">Home</a></li>
+		<li><a href="/creditcards/credit-card-range.jsf" id="primary-creditcards">Credit Cards</a></li>
+		<li><a href="/creditmadeclearer/index.jsf" id="primary-cmc">Credit Made Clearer</a></li>
+		<li><a href="/benefits/index.jsf" id="primary-benefits">Benefits</a> </li>
+		<li><a href="/support/index.jsf" id="primary-support">Support</a> </li>
+		<li><a href="/aboutus/who-are-capital-one.jsf" id="primary-about" class="active">About Us</a></li>
+		<li><a href="/youraccount/index.jsf" id="primary-account">Your Account</a> </li>
+	</ul>
+</div>
+
+		 
+		
+		<div id="secondary-navigation">
+	<ul class="unlist">
+		<li> <a href="/aboutus/who-are-capital-one.jsf" id="secondary-who-are-capital-one">Who Are Capital One</a> </li>
+		<li> <a href="/aboutus/our-team.jsf" id="secondary-our-team">Meet the Team</a> </li>
+		<li> <a href="/aboutus/corporate-social-responsibility.jsf" id="secondary-csr">Social Responsibility</a> </li>
+		<li> <a href="/aboutus/careers.jsf" id="secondary-about-careers">Careers</a> </li>
+		<li> <a href="/aboutus/capital-one-cup.jsf" id="secondary-capital-one-cup">Capital One Cup</a> </li>
+		<li> <a href="/media/media-centre.jsf" id="secondary-media">Media Centre</a> </li>
+		<li> <a href="/web/legal-information.jsf" id="secondary-legal" class="active">Legal Information</a><span class="nav-secondary-arrow"></span> </li>
+	</ul>
+</div>
+
+		
+		<div class="container_12"> 
+			<div class="container_12 clearfix">
+				<div class="grid_12 main-body-h1">
+					<h1>Privacy Policy</h1>
+				</div>
+			</div>
+			<div class="container_12 clearfix">
+			<div class="main-body-o">
+				<div class="main-body-i">
+					<div class="grid_4 alpha">
+													<div id="tertiary-navigation">
+								<ul class="unlist">
+								  <li id="tertiary-bullet-legal-information"> <a href="/web/legal-information.jsf" id="tertiary-information">Legal Information</a> </li>
+								  <li id="tertiary-bullet-legal-privacy"> <a href="/web/privacy-statement.jsf" id="tertiary-privacy-statement" class="active">Privacy Policy</a> </li>
+								  <li id="tertiary-bullet-legal-cookie"> <a href="/web/cookie-policy.jsf" id="tertiary-cookie-policy">Cookie Policy</a> </li>
+								  <li id="tertiary-bullet-legal-term-of-use"> <a href="/web/terms-of-use.jsf" id="tertiary-term-of-use">Terms of use</a> </li>
+								  <li id="tertiary-bullet-legal-regulators"> <a href="/web/regulators.jsf" id="tertiary-regulators">Regulators and Codes of Conduct</a> </li>  
+								</ul>
+							</div>
+					</div>
+					<div class="grid_8 omega">
+						<div class="main-body-content">
+							<h2>Capital One Privacy Policy</h2>
+        <p>Capital One's privacy policy applies to anyone who visits our websites. It explains how we may collect information from you online when you visit a Capital One website and how we may protect and use that information. Therefore, please read this privacy policy carefully before using the websites.</p>
+        <p>In this privacy policy, "we", "us", "our" and "Capital One" means Capital One (Europe) plc and "you" and "your" means the individual who is using the websites. Information that you provide to Capital One when you apply for or obtain a credit card from us is also governed by the "Use of your information" section at clause 1 of your credit card agreement, which is also set out in our online application form. If you are an applicant or customer, please refer to the application form or credit card agreement for additional information. In the event of a conflict between the terms of this Privacy Policy and your credit card agreement, your credit card agreement shall take precedence.</p>
+        <h3>Collecting Information</h3>
+        <p><strong>Information you provide</strong><br>
+          Capital One may collect information that you provide when completing forms on its websites, for example an application for a credit card, a survey or a competition.<br>
+          <br>
+          <strong>Information gathered from your use of our websites</strong><br>
+          Capital One may collect the following information about you when you browse our websites or use our online services:<br>
+          We may collect technical information about your browser and the pages that you visit. For example we may collect your internet protocol (IP) address, which is a numerical identifier assigned to a computer or device that connects to the internet.</p>
+        <p>We may use cookies and other online tracking devices to maintain your user session and track browsing activities conducted with your computer. For further information, please read the <a href="/web/cookie-policy.jsf">Capital One Cookie Policy</a>.</p>
+        <h3>How We Use Information</h3>
+        <p><strong>On Our Websites</strong><br>
+          We may use cookies, web beacons or similar devices to help us understand which parts of our site you find most useful and to optimise your browsing experience. For full details, check our <a href="/web/cookie-policy.jsf">cookie policy</a>.</p>
+        <p>If you choose, you can set your browser to inform you when cookies are sent or you may choose not to accept cookies. If you haven't done this, our system will issue cookies when you visit the site.<br>
+          <br>
+          <strong>Sharing Information</strong><br>
+          We may share information that we collect online or as part of any application with companies within the Capital One Group which means us, our ultimate holding company and any company which is a subsidiary of our ultimate holding company; and with companies that provide services to us, including sub-contractors, agents or other companies including those based outside the European Economic Area (EEA).</p>
+        <p>We may partner with third parties to deliver advertisements and surveys and to monitor activities on our own websites and other websites. You'll find full details in our <a href="/web/cookie-policy.jsf">cookie policy</a>.</p>
+        <h3>Capital One Online Services</h3>
+        <p>Capital One offers its customers online account services. When you register for those services, we will provide you with specific terms and conditions that may supplement the information in this notice. If you set your browser to reject cookies, you may not be able to use Capital One's online account services.</p>
+        <h3>Links</h3>
+        <p>Our websites may include links to third-party websites. These third parties are not subject to this Privacy Policy. Whenever you visit a third-party website, you should review its privacy notice. We do not accept any responsibility for any such third party websites, including without limitation for their accuracy, security, the products or services which they offer or any information which is collected through them.</p>
+        <h3>Data Security</h3>
+        <p>At Capital One, we make your safety and security a top priority and are committed to protecting your personal and financial information. If we collect personal information from you, we will protect that information with controls based upon internationally recognised security standards, regulations, and industry-based best practices.</p>
+        <p>Capital One maintains customer authentication procedures to protect your personal information and account from identity theft. These procedures are for your protection. If you suspect a website is "spoofing" or pretending to be a Capital One website do not enter personal information but instead <a href="/support/contact-us.jsf">contact us</a> through the details set out in the contact us page or by emailing <a href="mailto:abuse@capitalone.com">abuse@capitalone.com</a>.</p>
+        <p>If you receive an email that claims to be from us but you are not sure, or if you think it is suspicious, do not click on any of the links in the e-mail. Instead forward it to us at <a href="mailto:abuse@capitalone.com">abuse@capitalone.com</a> then delete it.</p>
+        <p>For more information about our commitment to security and for tips about what you can do to help guard against fraud and identity theft, visit our Security Centre.</p>
+        <h3>Your Rights</h3>
+        <p><strong>Accessing your personal information</strong><br>
+          You have a right under the Data Protection Act 1998 upon written request and payment of a fee, to have a copy of the personal data we hold about you. If you would like to receive a copy of the personal data we hold about you please write to us at the address shown in <a href="/support/contact-us.jsf">contact us</a>.<br>
+          <br>
+          <strong>Opting out of receiving Marketing Material</strong><br>
+          You have a right under the Data Protection Act 1988 to ask us not to process your personal data or pass it to third parties for marketing purposes. If you do not want to receive marketing material from us or third parties please write to us at the address shown in <a href="/support/contact-us.jsf">contact us</a>.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+			</div>
+			 </div>
+		 
+		
+		<div class="container_12 clearfix">
+	<div id="sitemap-o">
+		<div id="sitemap-i">
+			<div class="grid_12">
+				<div class="sitemap-column-o short">
+					<div class="sitemap-column-i">
+						<h4><a href="/creditcards/credit-card-range.jsf">Credit Cards</a></h4>
+						<ul class="unlist">
+							<li><a id="footer-credit-card-range" href="/creditcards/credit-card-range.jsf">Credit Card Range</a></li>
+							<li><a id="footer-compare-credit-cards" href="/creditcards/compare-credit-cards.jsf">Compare Credit Cards</a></li>
+							<li><a id="footer-aspire-credit-card-range" href="/creditcards/aspire-credit-card-range.jsf">Aspire® Credit Cards</a></li>
+							<li><a id="footer-aspire-business-credit-card" href="/creditcards/aspire-business-credit-card.jsf">Aspire® Business Card</a></li>
+						</ul>
+					</div>
+				</div>
+				<div class="sitemap-column-o">
+					<div class="sitemap-column-i">
+						<h4><a href="/creditmadeclearer/index.jsf">Credit Made Clearer</a></h4>
+						<ul class="unlist">
+							<li><a href="/creditmadeclearer/credit-knowledge.jsf">Credit Knowledge</a></li>
+							<li><a href="/creditmadeclearer/using-credit-cards.jsf">Using Credit Cards</a></li>
+							<li><a href="/creditmadeclearer/credit-card-safety-and-security.jsf">Credit Card Security</a></li>
+							<li><a href="/creditmadeclearer/credit-problems.jsf">A Helping Hand</a></li>
+						</ul>
+					</div>
+				</div>
+				<div class="sitemap-column-o">
+					<div class="sitemap-column-i">
+						<h4><a href="/benefits/index.jsf">Benefits</a></h4>
+						<ul class="unlist">
+							<li><a href="/benefits/mobile-app.jsf">Mobile App</a></li>
+							<li><a href="/benefits/online-servicing.jsf">Online Account Servicing</a></li>
+							<li><a href="/benefits/aspire-elite.jsf">Aspire® Card Benefits</a></li>
+							<li><a href="/benefits/contactless-payments.jsf">Contactless Payments</a></li>
+						</ul>
+					</div>
+				</div>
+				<div class="sitemap-column-o">
+					<div class="sitemap-column-i">
+						<h4><a href="/support/index.jsf">Support</a></h4>
+						<ul class="unlist">
+							<li><a href="/support/faqs-about-credit.jsf">FAQs</a></li>
+							<li><a href="/support/contact-us.jsf">Contact Us</a></li>
+							
+							<li><a href="/support/ppi-complaints.jsf">PPI Complaints</a></li>
+							
+							<li><a href="/support/safety-and-security.jsf">Safety and Security</a></li>
+							<li><a href="/support/card-fraud.jsf#tabs1-sso">Shopping safely online</a></li>
+							<li><a href="/web/sitemap.jsf">Sitemap</a></li>
+						</ul>
+					</div>
+				</div>
+				<div class="sitemap-column-o">
+					<div class="sitemap-column-i">
+						<h4><a href="/aboutus/who-are-capital-one.jsf">About Us</a></h4>
+						<ul class="unlist">
+							<li><a href="/aboutus/who-are-capital-one.jsf">About Capital One</a></li>
+							<li><a href="/aboutus/careers.jsf">Careers</a></li>
+							<li><a href="/aboutus/corporate-social-responsibility.jsf">Social Responsibility</a></li>
+							<li><a href="/media/media-centre.jsf">Media Centre</a></li>
+							<li><a href="https://www.capitalone.com/" rel="external" target="_blank">USA</a></li>
+							<li><a href="https://www.capitalone.ca/" rel="external" target="_blank">Canada</a></li>
+						</ul>
+					</div>
+				</div>
+				<div class="sitemap-column-o short">
+					<div class="sitemap-column-i last">
+						<h4><a href="/youraccount/index.jsf">Your Account</a></h4>
+						<ul class="unlist">
+							<li><a href="/web/sign-in.jsf">Sign In</a></li>
+							<li><a href="/web/register.jsf">Register</a></li>
+							<li><a href="/payments/secure/log-in.jsf">Secured Card Payment</a></li>
+						</ul>
+					</div>
+				</div>
+				<div class="sponsorship"> <a href="/aboutus/capital-one-cup.jsf" id="capitalonecup-logo">Capital One Cup</a>
+					<p class="designation"><a href="/aboutus/capital-one-cup.jsf">Official Credit Card of The Football League</a></p>
+				</div>
+              <div class="socialmedia"> <p><a href="http://www.facebook.com/capitaloneuk" target="_blank" id="facebook-logo">Facebook</a>
+              <a href="http://www.twitter.com/CapitalOneUK" target="_blank" id="twitter-logo">Twitter</a>
+              <a href="https://plus.google.com/116748370513869488131" rel="publisher"></a>
+              </p>
+				</div>
+			</div>
+			 
+		</div>
+	</div>
+	 
+</div>
+ 
+
+
+		 
+		
+	</div>
+	 
+	
+	<div id="footer" class="footer-whitelinks">
+
+<a href="/web/legal-information.jsf" target="_blank">Legal Information</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/web/privacy-statement.jsf" target="_blank">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/web/terms-of-use.jsf" target="_blank">Terms of Use</a><br>
+ © <span id="copyright-date">2014</span> Capital One (Europe) plc, Trent House, Station Street, Nottingham NG2 3FB. Capital One Aspire® Elite and the Vauxhall Rewards Capital One Card are World™ MasterCards®.<br>
+MasterCard® and World MasterCard® are registered trademarks of MasterCard International Incorporated.</div>
+
+	 
+	
+	<img src="/images/vs/zag.gif" width="5" height="5" alt="">
+
+	  </div>
+<input type="hidden" name="javax.faces.ViewState" id="javax.faces.ViewState" value="j_id1:j_id2">
+</form>
+<!-- InstanceEndEditable -->
+
+
+<!-- InstanceEnd -->
+</body></html>
