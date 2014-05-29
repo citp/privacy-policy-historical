@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perpetuumsoft.com privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118132856id_/http%3A//www.perpetuumsoft.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perpetuumsoft.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529222903id_/http%3A//www.perpetuumsoft.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Perpetuum Software LLC - We are Committed to protect your Privacy & Ensuring You a Positive Experience
 
