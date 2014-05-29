@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickastro.com privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809210914id_/http%3A//www.clickastro.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickastro.com privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530002838id_/http%3A//www.clickastro.com/privacy.php) for the most accurate reproduction.*
 
 # clickastro :::: Privacy Policy
 
@@ -11,6 +11,14 @@ Any PII (personally identifiable information) that we collect is stored and proc
 Use of Cookies and Server Logs
 
 A cookie is a small text file that is stored on a user's computer for record–keeping purposes. We occasionally use cookies on the Website. We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate the Website. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file. We set a persistent cookie to store your toolbar or app name and/or user name so you don't have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on the Website. If you reject cookies, you will still be able to use the Website, but your ability to use some areas of the Website may be limited. Some of our business partners may use cookies on the Website. Such cookies may be used to analyze the Website traffic in the Website and monitor operational performance of the Website. We have no access to or control over these cookies. This Privacy Policy covers the use of cookies by Astro-Vision Futuretech Pvt. Ltd. only and does not cover the use of cookies by any other third party. Server logs capture certain non–Personally Identifying data, such as the time and date of a web visit, the browser and operating system being used, the IP address or domain name of the user's ISP, and the web URL a user linked from. This information is generally used to help us plan system enhancements when necessary and to provide content which is compatible with our visitors' web browsing systems. We do not use server logs in any way that may disclose your PII. 
+
+We and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) together to report how our ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to our site.
+
+We use Remarketing with Google Analytics to advertise online.
+
+Third-party vendors, including Google, may show our ads on sites across the Internet.
+
+We and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone's past visits to our website. 
 
 Clear Gifs
 
@@ -42,4 +50,4 @@ Changes to this Privacy Policy
 
 We may amend this policy from time to time. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages. 
 
-If you have questions about this privacy policy or the practices of this site, please [**contact us** .](https://web.archive.org/web/20130809210914id_/http%3A//www.clickastro.com/contactus.php)
+If you have questions about this privacy policy or the practices of this site, please [**contact us** .](https://web.archive.org/web/20140530002838id_/http%3A//www.clickastro.com/contactus.php)
