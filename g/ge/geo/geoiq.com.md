@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geoiq.com privacy policy that was archived on 2013-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130825013926id_/http%3A//www.geoiq.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geoiq.com privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530015554id_/http%3A//www.geoiq.com/privacy) for the most accurate reproduction.*
 
 # Privacy | GeoIQ
 
