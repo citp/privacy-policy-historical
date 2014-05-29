@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raptitude.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126125407id_/http%3A//www.raptitude.com/privacy-policy-and-disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raptitude.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529020649id_/http%3A//www.raptitude.com/privacy-policy-and-disclaimer) for the most accurate reproduction.*
 
 # Privacy policy and disclaimer
 
