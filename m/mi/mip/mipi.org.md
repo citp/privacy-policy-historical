@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mipi.org privacy policy that was archived on 2013-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131020063002id_/http%3A//www.mipi.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mipi.org privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529185106id_/http%3A//www.mipi.org/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | MIPI Alliance
 
@@ -38,4 +38,4 @@ If you are not a member of MIPI, and do not wish to receive any further communic
 
 Attachment| Size  
 ---|---  
-[Download MIPIs Privacy Policy](http://www.mipi.org/sites/default/files/MIPI_Privacy_Policy_v1.0.pdf)| 221.18 KB
+[Download MIPIs Privacy Policy](http://mipi.org/sites/default/files/MIPI_Privacy_Policy_v1.0.pdf)| 221.18 KB
