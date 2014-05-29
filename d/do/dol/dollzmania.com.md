@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dollzmania.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224101842id_/http%3A//www.dollzmania.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dollzmania.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529082526id_/http%3A//www.dollzmania.com/privacy.htm) for the most accurate reproduction.*
 
 # Dollz Mania Dolls - Doll makers and Dress up games - Make Cartoon Dolls @ Dollz Mania
 
@@ -40,7 +40,7 @@ To opt-out from such information collection and use, please visit the  opt-out 
 * * *
 
 Summation:  
-If you have any questions about this privacy statement or the practices of this site, please [contact us.](https://web.archive.org/web/20121224101842id_/http%3A//www.dollzmania.com/contact.htm)  
+If you have any questions about this privacy statement or the practices of this site, please [contact us.](https://web.archive.org/web/20140529082526id_/http%3A//www.dollzmania.com/contact.htm)  
 
 
 * * *
@@ -50,6 +50,6 @@ If you have any questions about this privacy statement or the practices of this 
 \  
 
 
-[](http://top.addfreestats.com/cgi-bin/main.cgi?usr=00045716P064) |    
+|    
 |    
 
