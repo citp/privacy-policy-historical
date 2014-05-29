@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aferry.to privacy policy that was archived on 2013-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130927101517id_/http%3A//www.aferry.co.uk/PrivacyPolicyUK.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aferry.to privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529073336id_/http%3A//www.aferry.co.uk/PrivacyPolicyUK.htm) for the most accurate reproduction.*
 
-# AFerry.co.uk - Privacy Policy
+# Privacy Policy
 
 [](http://itunes.apple.com/gb/app/find-a-ferry/id373066509?mt=8 "Available on the App Store")
 
