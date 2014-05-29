@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the fastreact.co.uk privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127081734id_/http%3A//www.fastreact.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastreact.co.uk privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530014254id_/http%3A//www.fastreact.com/privacy.php) for the most accurate reproduction.*
 
 # Fast React > Privacy Policy
 
 ## Latest News
 
-### Madison88 select Fast React's Vision
+### FitFlop selects Fast React's Vision solution for New Product Development
 
-The New York based company Madison88 Ltd, have selected Fast React Systems as their sourcing solutions provider by implementing Vision.
+Internationally renowned footwear retailer, Fit Flop steps up to improve on time delivery and reduce costs.
 
-[](http://www.fastreact.com/news/madison88_select_fast_react_s_vision "Madison88 select Fast React's Vision")
+[](http://www.fastreact.com/news/vision_fitflop "FitFlop selects Fast React's Vision solution for New Product Development")
 
 ## Case Studies
 
