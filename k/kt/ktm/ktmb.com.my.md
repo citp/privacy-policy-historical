@@ -1,77 +1,75 @@
-> *The following text is extracted and transformed from the ktmb.com.my privacy policy that was archived on 2008-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080418062257id_/http%3A//www.ktmb.com.my/page.cfm%3Fname%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ktmb.com.my privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529045630id_/http%3A//www.ktmb.com.my/index.php/terms/business-privacy-policy) for the most accurate reproduction.*
 
-# KERETAPI TANAH MELAYU
+# Business Privacy Policy
 
-**Effect of Policy**
+__Category:[Information](http://www.ktmb.com.my/index.php/terms/business-privacy-policy/15-information) __Published: Monday, 10 February 2014 __Written by Super User
 
-This policy does not form a contract between KTMB and an individual. The policy may also be subject to change. Whenever a user needs to refer to this policy the user should contact KTMB for the most up to date version.
+This privacy policy sets out how KTMB uses and protects any information that you give KTMB when you use this website. 
 
-**
+KTMB is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. 
 
-Concerns, Correction and Access
+KTMB may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 20 March 2011. 
 
-**
+**What we collect**  
 
-If a user has concerns about how KTMB is handling the user’s personal information or if a user believes that information KTMB holds about the user is incorrect, then KTMB requests that the user contact KTMB and KTMB will try to resolve those concerns. In some cases, KTMB may not be able to give the user access to personal information it holds on the user if making such a disclosure would breach KTMB’s legal obligations to its customer.
+We may collect the following information:
 
-Concerns, access requests or questions should be directed in writing to the Information Technology Department, Keretapi Tanah Melayu Berhad, KTMB Corporate Headquarters, Jalan Sultan Hishamuddin, 50621 Kuala Lumpur, Malaysia or by email at [webmaster@ktmb.com.my](mailto:webmaster@ktmb.com.my)
+1. name and job title  
+2. contact information including email address  
+3. demographic information such as postcode, preferences and interests  
+4. other information relevant to customer surveys and/or offers
 
-In some cases, KTMB may request an administrative fee to cover the cost of access.  
+** ** **What we do with the information we gather**   
 
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
- **
+1. | 
 
-Security of Personal Information
-
-**
-
-KTMB aims to achieve best industry practice in maintaining the security of personal information it holds. Where possible, documents or work product retained are de-identified. Otherwise, it is KTMB’s policy to destroy personal information once there is no longer a business or legal need for KTMB to retain it.
-
-**
-
-Overseas Transfers
-
-**
-
-KTMB will only transfer the user’s personal information overseas where:
-
-  * the user would be likely to give consent if KTMB were able to contact the user, the transfer is for the user’s benefit and it is impracticable for KTMB to obtain the user’s consent; or
-  * the user has requested the transfer or consented for KTMB to do so; or
-  * KTMB is satisfied that the recipient is subject to effective data protection standards. 
-
-**
-
-Disclosure and Use
-
-**
-
-KTMB will only disclose or use the user’s personal information for the purpose it was collected unless:
-
-  * KTMB is compelled by law or otherwise required to disclose such information; 
-  * the disclosure/use is related to the purpose of collection and the user would reasonably expect KTMB to disclose or use it in such a way; or
-  * the user has impliedly or expressly consented to its disclosure or use. 
-
-
-
+Internal record keeping.  
   
-KTMB has procedures and controls to ensure that personal information provided to KTMB remains confidential. KTMB’s staff has professional duties of confidentiality to the customers and the company. KTMB is also subject to professional standards of fairness and honesty as to the way KTMB conducts its business. KTMB does not allow third parties to use personal information for their own purposes, or trade or sell that personal information. 
+---|---  
+2. | We may use the information to improve our products and services  
+3. | 
 
-**
+We may periodically send promotional emailsabout new products, special offers or other information which we think you may find interesting using the email address which you have provided.   
+  
+4.   | 
 
-Collection of Personal Information
+From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.  
+  
+electronic and managerial procedures to safeguard and secure the information we collect online.
 
-**
+  **How we use cookies**
 
-KTMB only collects personal information where there is a legal requirement for it to do so or if it is necessary for KTMB’s business purposes. 
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.  
 
-KTMB will take reasonable steps to ensure that the user knows how the user can access the user’s personal information to ensure it is up to date and accurate, to whom KTMB may disclose it, what KTMB uses it for and why KTMB is collecting the user’s personal information. 
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
 
-There are some circumstances where it is not practicable or reasonable for KTMB to let the user know this information. For example, it is KTMB’s practice not to disclose such information to an individual if doing so would:
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
 
-  * undermine the purpose for which the information is being collected (where collection is for a legitimate business practice); or
-  * breach KTMB’s legal and professional obligation to KTMB’s customers; or
-  * where KTMB collects information from public records. 
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
-****
+**Links to other websites** **       **
 
-KTMB believes that privacy is important to the businesses of KTMB’s customers and its own business and is an important individual right. This policy sets out KTMB’s commitment to maintain information handling standards. If the user would like to find out more about KTMB’s information-handling practices please contact Information Technology Department by calling 603-22631150.
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+**Controlling your personal information**
+
+You may choose to restrict the collection or use of your personal information in the following ways:
+
+1\.  | 
+
+whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes  
+  
+---|---  
+2.   | 
+
+if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at  [callcenter@ktmb.com.my](mailto:callcenter@ktmb.com.my)  
+  
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+
+You may request details of personal information which we hold about you under the Personal Data Protection Act 2010. A small fee will be payable. If you would like a copy of the information held on you please write to KTMB Corporate Headquarters, Jalan Sultan Hishamuddin, 50621 Kuala Lumpur, Malaysia.
+
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+
+__Hits: 2291
