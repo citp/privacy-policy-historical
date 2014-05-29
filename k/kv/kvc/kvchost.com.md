@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kvchost.com privacy policy that was archived on 2013-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130810051900id_/http%3A//www.kvchost.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kvchost.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529030011id_/http%3A//www.kvcwebhost.com/privacy-policy.html) for the most accurate reproduction.*
 
 # KVCHOSTING Privacy Policy
 
