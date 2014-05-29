@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the banfflakelouise.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530165810id_/http%3A//www.banfflakelouise.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the banfflakelouise.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529093705id_/http%3A//www.banfflakelouise.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy / Home - Banff Lake Louise Tourism
 
@@ -15,8 +15,7 @@ Banff/Lake Louise Tourism Bureau (“Banff Lake Louise Tourism”) is a not-for-
   * Registration for electronic newsletter
   * Identifying visitor preferences
   * To respond to information requests
-  * Visitor submit
-  * +ted comments and/or suggestions
+  * Visitor submitted comments and/or suggestions
   * Send free visitor guides, meeting planners and other paper-based or electronic travel information
   * Compile mailing and/or survey lists
   * To determine user habits and interests for the purpose of providing enhanced service in the future
