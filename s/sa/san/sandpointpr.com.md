@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the sandpointpr.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211133031id_/http%3A//www.sandpointpr.com/sandpoint-pr-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sandpointpr.com privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530004255id_/http%3A//www.sandpointpr.com/sandpoint-pr-privacy-policy) for the most accurate reproduction.*
 
 # Sandpoint PR Privacy Policy
-
-27\. December 2012
 
 Sandpoint Public Relations LLC respects and holds in confidence all private, personal and contact information it acquires in the natural course of business, through its services, during networking and from its website(s).
 
