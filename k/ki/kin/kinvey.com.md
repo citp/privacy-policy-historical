@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kinvey.com privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812181406id_/http%3A//www.kinvey.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kinvey.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529101643id_/http%3A//www.kinvey.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Kinvey
 
@@ -70,7 +70,7 @@ We will use Personal Information, including End User Information to:
 
 · Showcase the Personal Information you include in your Profile, if you elect to create one, to other Users. 
 
-We also use Personal Information to contact you and provide you with information that may be useful or interesting to you, including newsletters regarding changes and upgrades to the Services as well as promotional e-mails, and to allow certain other entities to do the same. By using the Site, you agree to receive this information from us and certain other entities. If you do not want to receive these communications, you can always opt out of communications by following the instructions provides in the email or by emailing us at [support@kinvey.com](mailto:support@kinvey.com). We may, however, send certain administrative emails which pertain to the Site and Services on a regular basis that you may not opt-out of. 
+We also use Personal Information to contact you and provide you with information that may be useful or interesting to you, including newsletters regarding changes and upgrades to the Services as well as promotional e-mails, and to allow certain other entities to do the same. By using the Site, you agree to receive this information from us and certain other entities. If you do not want to receive these communications, you can always opt out of communications by following the instructions provides in the email or by emailing us at [sales@kinvey.com](mailto:sales@kinvey.com). We may, however, send certain administrative emails which pertain to the Site and Services on a regular basis that you may not opt-out of. 
 
 We may also use Personal Information to create Anonymous Information records by excluding information that makes the information personally identifiable. 
 
@@ -106,7 +106,7 @@ In addition, the use and disclosure restrictions contained in this Privacy Polic
 
 **UPDATING AND CONTROLLING YOUR INFORMATION**
 
-If you have an Account with us, you may update certain of your Personal Information on our Site. You may also email us at [support@kinvey.com](mailto:support@kinvey.com). Please note that even though you may request the deletion of your Personal Information by us, we may be required (by law or otherwise, such as to prevent fraud, resolve disputes, troubleshoot problems, or enforce our Services Agreement) to keep this information and not delete it (or to keep this information for a certain time) in which case we will comply with your deletion request only after we have fulfilled such requirements). When we delete Personal Information, it will be deleted from the active database, but may remain in our archives and we may also retain Anonymous Information about your use of our Services. Once we disclose some of your Personal Information to third parties, we cannot access that Personal Information any longer and cannot force the deletion or modification of any such information by the parties to whom we have made those disclosures. 
+If you have an Account with us, you may update certain of your Personal Information on our Site. You may also email us at [sales@kinvey.com](mailto:sales@kinvey.com). Please note that even though you may request the deletion of your Personal Information by us, we may be required (by law or otherwise, such as to prevent fraud, resolve disputes, troubleshoot problems, or enforce our Services Agreement) to keep this information and not delete it (or to keep this information for a certain time) in which case we will comply with your deletion request only after we have fulfilled such requirements). When we delete Personal Information, it will be deleted from the active database, but may remain in our archives and we may also retain Anonymous Information about your use of our Services. Once we disclose some of your Personal Information to third parties, we cannot access that Personal Information any longer and cannot force the deletion or modification of any such information by the parties to whom we have made those disclosures. 
 
 **USER FEEDBACK**
 
@@ -122,6 +122,6 @@ This Privacy Policy is subject to revision from time to time on a going-forward 
 
 **CONTACT**
 
-If you have questions or concerns about our Privacy Policy, please contact us at: [support@kinvey.com](mailto:support@kinvey.com)
+If you have questions or concerns about our Privacy Policy, please contact us at: [sales@kinvey.com](mailto:sales@kinvey.com)
 
 **LAST UPDATED: July 9, 2012**
