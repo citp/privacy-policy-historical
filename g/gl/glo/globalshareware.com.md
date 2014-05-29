@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalshareware.com privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117085518id_/http%3A//www.globalshareware.com/privacyPolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalshareware.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529084336id_/http%3A//globalshareware.com/privacyPolicy.cfm) for the most accurate reproduction.*
 
 # GlobalShareware.com - Reseller Program
 
