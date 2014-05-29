@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woodworkersjournal.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125050609id_/http%3A//www.woodworkersjournal.com/Main/Public/PrivacyPolicy1.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woodworkersjournal.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529140512id_/http%3A//www.woodworkersjournal.com/Main/Public/PrivacyPolicy1.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Woodworkers Journal
 
@@ -91,13 +91,16 @@
   
 |  | 
 
-[](https://web.archive.org/Click.aspx?url=http%3a%2f%2fwoodworkersjournal.com%2fMain%2fStore%2fThe_Way_to_Woodwork_Three_Volume_Set_544.aspx&did=937120fa-055b-4700-b3da-a26d4f21693b&mid=525c4135-b40a-4dfa-8980-9e0180e0b31a&iid=64c6cdd8-f8d1-4b31-815b-5a98dd4bb1ed)  
+  
+
+
+Sign up to receive the premier online woodworking newsletter. Get FREE plans, interviews, Q&As, techniques, and MORE! Best of all: IT'S FREE!!!
+
+[Click Here](https://web.archive.org/Main/Public/ezineReadMore.aspx) to learn more,  
+or view our [Privacy Policy](https://web.archive.org/Main/Public/PrivacyPolicy1.aspx)  
   
 ---  
   
-Sign up to receive the premier online woodworking newsletter. Get FREE plans, interviews, Q&As, techniques, and MORE! Best of all: IT'S FREE!!!
-
-[Click Here](https://web.archive.org/Main/Public/ezineReadMore.aspx) to learn more  |  View our [Privacy Policy](https://web.archive.org/Main/Public/PrivacyPolicy1.aspx)  
   
 | Follow Us On  
 ---  
@@ -113,34 +116,8 @@ Sign up to receive the premier online woodworking newsletter. Get FREE plans, in
 [](https://pinterest.com/woodworkersjrnl/)  
   
   
+  
+  
 ADVERTISEMENT
 
-[](https://web.archive.org/Click.aspx?url=http%3a%2f%2fwww.rockler.com%2fproduct.cfm%3fpage%3d32801%26sid%3dWC367%26utm_source%3dwwj%26utm_medium%3ddigad%26utm_campaign%3dWC367&did=e757cb78-9fa8-439d-9a36-c88489ac5ea7&mid=525c4135-b40a-4dfa-8980-9e0180e0b31a&iid=2ab2db54-02ca-425b-9a94-fbb211522649)  
-  
-[](https://web.archive.org/Click.aspx?url=http%3a%2f%2fwww.harborfreight.com%2fwoodworker.html%3futm_medium%3dlander%26utm_campaign%3d%2520woodworker%26utm_source%3dapril2013&did=3c8f2185-5fa7-425c-998c-dbb5bd5e2630&mid=525c4135-b40a-4dfa-8980-9e0180e0b31a&iid=4f34f58b-6071-4748-8452-6d9c2105b120)  
----  
-| 
-
-[](http://woodworkersjournal.com/)
-
-| 
-
-[](http://www.woodworking.com/)
-
-| 
-
-[](http://www.resourcedigest.com/)
-
-| 
-
-[](http://www.womeninwoodworking.com/)
-
-| 
-
-[](http://www.rockler.com/?sid=V9320&utm_source=wwj&utm_medium=ad&utm_campaign=FS)  
-  
----|---|---|---|---  
-  
-[Subscribe](https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=WWJ&cds_page_id=101164) | [Change of Address](https://w1.buysub.com/servlet/CSGateway?cds_mag_code=WWJ) | [Gift Subscription](https://w1.buysub.com/servlet/GiftsGateway?cds_mag_code=WWJ&cds_page_id=62973)  |  [Contact Us](https://web.archive.org/Main/Public/ContactUs1.aspx)  |  [Advertising Info](http://ads.wwj.info/)  |  [Privacy](https://web.archive.org/Main/PrivacyPolicy1.aspx)  |  [Follow @WoodworkersJrnl](http://twitter.com/WoodworkersJrnl)  
-  
-[Copyright](https://web.archive.org/Main/Public/Copyright.aspx) © 2013 Woodworker's Journal
+[](https://web.archive.org/Click.aspx?url=http%3a%2f%2fwww.woodworking.com%2ffreeplan&did=5d9caffe-cec6-4a88-87cb-144e7ff1c1fe&mid=525c4135-b40a-4dfa-8980-9e0180e0b31a&iid=74b9f547-a068-433b-bcb1-a23f68154cd4)
