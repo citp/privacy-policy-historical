@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the biblemoneymatters.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119102252id_/http%3A//www.biblemoneymatters.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biblemoneymatters.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529152517id_/http%3A//www.biblemoneymatters.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Privacy Policy, Disclaimer And Disclosure For BibleMoneyMatters.com**
 
-## **Privacy Policy  
+##  **Privacy Policy  
 **
 
 The privacy of our visitors to BibleMoneyMatters.com is important to us.
@@ -28,7 +28,7 @@ We also use third party advertisements on Bible Money Matters to support our sit
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
-**Information collected by third-parties.**
+ **Information collected by third-parties.**
 
 We may allow third-party companies that use tracking technologies, such as cookies or pixels, to record IP information about users who visit or interact with our website. Our website does not provide any personal information to these third parties. This information allows them to deliver targeted advertisements and gauge their effectiveness. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative which offers a single location to opt out of ad targeting from member companies.
 
@@ -51,6 +51,3 @@ This blog does not contain any content which might present a conflict of interes
 If you are a copyright owner or agent thereof and believe that user content infringes upon your copyright, please submit notice, pursuant to the Digital Millennium Copyright Act (17 U.S.C. § 512(c)) to our Copyright Agent with the following information: (i) an electronic or physical signature of the person authorized to act on behalf of the owner of the copyright; (ii) a description of the copyrighted work that you claim has been infringed; (iii) the URL of the location containing the material that you claim is infringing; (iv) your address, telephone number, and email address; (v) a statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law; (vi) a statement by you, made under penalty of perjury, that the above information in your Notice is accurate and that you are the copyright owner or authorized to act on the copyright owner’s behalf.
 
 By email: peter at this domain name
-
-  
-
