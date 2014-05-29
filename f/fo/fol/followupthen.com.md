@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the followupthen.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210064631id_/http%3A//www.followupthen.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the followupthen.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529020701id_/https%3A//www.followupthen.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | FollowUpThen
 
@@ -8,7 +8,7 @@ Welcome to the website (the " **Site** ") of FollowUpThen, Inc. (" **FollowUpThe
 
 #### A Note About Email Content:
 
-Our Service allows users to forward emails to our Service for the purpose of setting automated reminders associated with those emails. We recognize that your emails may be very private, and we take special care with them. For example, we encrypt the message body of these emails using industry-standard methodologies while they are stored on our servers. We store the content of these emails for the period of time required in order to send you the requested reminder. After the requested reminder period has expired and the Service has sent the reminder, we delete the message body, message text and attachments from our servers within one (1) week. For example, if you forward an email to 5months@followupthen.com, we retain the complete email information for five (5) months plus one (1) week (providing the followup was not postponed). With respect to other email-related information, we retain the subject heading of these emails for the sole purpose of performing internal quality assurance and de-bugging and providing records of followups sent and received on users’ account pages. We also retain certain non-personally identifiable information related to these emails (for example, date sent, email configuration, name of the email provider), for the purpose of improving our Services and as described below in the "Non-Identifiable Data" section. 
+Our Service allows users to forward emails to our Service for the purpose of setting automated reminders associated with those emails. We recognize that your emails may be very private, and we take special care with them. For example, we encrypt the message body of these emails using industry-standard methodologies while they are stored on our servers. We store the content of these emails for the period of time required in order to send you the requested reminder. After the requested reminder period has expired and the Service has sent the reminder, we delete the message body, message text and attachments from our servers within six (6) weeks. For example, if you forward an email to 5months@followupthen.com, we retain the complete email information for five (5) months plus six (6) weeks (providing the followup was not postponed). With respect to other email-related information, we retain the subject heading of these emails for the sole purpose of performing internal quality assurance and de-bugging and providing records of followups sent and received on users’ account pages. We also retain certain non-personally identifiable information related to these emails (for example, date sent, email configuration, name of the email provider), for the purpose of improving our Services and as described below in the "Non-Identifiable Data" section. 
 
 #### Information We Collect:
 
@@ -52,6 +52,7 @@ In an ongoing effort to better understand and serve the users of the FollowUpThe
 #### Our Use of Your Personal Data and Other Information:
 
 FollowUpThen uses the Personal Data you provide in a manner that is consistent with this Privacy Policy. If you provide Personal Data for a certain reason, we may use the Personal Data in connection with the reason for which it was provided. For instance, if you contact us by e-mail, we will use the Personal Data you provide to send you a reminder, answer your question or resolve your problem. Also, if you provide Personal Data in order to obtain access to (for example, by accessing your account settings) or use (for example, by setting or modifying reminders) the FollowUpThen Services, we will use your Personal Data to provide you with access to such services and to monitor your use of such services. FollowUpThen and its subsidiaries and affiliates (the “FollowUpThen Related Companies”) may also use your Personal Data and other personally non-identifiable information collected through the Services to help us improve the content and functionality of the Services, to better understand our users and to improve the FollowUpThen Services. FollowUpThen and its affiliates may use this information to contact you in the future to tell you about services we believe will be of interest to you, as well as communications (such as newsletters) about FollowUpThen and the Service. If we do so, each marketing communication we send you will contain instructions permitting you to "opt-out" of receiving future marketing communications. In addition, if at any time you wish not to receive any future marketing communications or you wish to have your name deleted from our mailing lists, please contact us as indicated below.   
+As previously mentioned, email content is encrypted in our database, however, in the course of providing system administration, debugging and suppport, it may be necessary for a FollowUpThen staff member to view unencrypted content or login under a user's account to provide this support. Such interactions are limited to only technical support and system administration instances.   
 If your Personal Data is provided by others using the Service, your Personal Data is used only in connection with the Services (for example, to provide you with the reminders others schedule for you).   
 If FollowUpThen intends on using any Personal Data in any manner that is not consistent with this Privacy Policy, you will be informed of such anticipated use prior to or at the time at which the Personal Data is collected. 
 
@@ -77,6 +78,14 @@ FollowUpThen may disclose your Personal Data if required to do so by law or in t
 
 
 
+
+#### Company and Employee Accounts:
+
+All information submitted to FollowUpThen as an employee account is owned by the company account administrator who has permission to view, change or delete information within in the account. 
+
+#### Company and Employee Accounts:
+
+All information submitted to FollowUpThen as an employee account is owned by the company account administrator who has permission to view, change or delete information within the account. 
 
 #### Your Choices:
 
