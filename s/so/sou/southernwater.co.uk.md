@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the southernwater.co.uk privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217233030id_/http%3A//www.southernwater.co.uk/about-us/about-southern-water/our-customer-promise/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southernwater.co.uk privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529062007id_/http%3A//www.southernwater.co.uk/about-us/about-southern-water/our-customer-promise/privacy) for the most accurate reproduction.*
 
 # Privacy statement
 
@@ -67,18 +67,24 @@ The date of the last amendment is displayed on the right hand side of this page.
   11. **What information is collected from visitors to our websites?**  
     * Southern Water does not use cookie-based tools to track visitor activity. We do analyse some information about visits to our websites to help us understand user preferences so that we can make regular improvements to site content and navigation. The sort of information captured includes; how many people visit our site and which pages are the most popular. This activity **does not** use cookies and **does not** record personally identifiable information.
   12. **What are cookies?**  
-    * Cookies are small text files that can be added to your computer by websites with the aim of making the site work, improve a user's experience and/or make their activity more efficient. Often cookies are used to provide useful information to the owners of the site – such as how many people visit or the most popular pages and, occasionally, to track activity across the Internet.
+    * Cookies are small text files that can be added to your computer by websites with the aim of making the site work, improve a user's experience and/or make their activity more efficient. 
+
+Often cookies are used to provide useful information to the owners of the site – such as how many people visit or the most popular pages and, occasionally, to track activity across the Internet.
 
 New legislation came into force in the UK on 26th May 2011 that affects most web sites. If cookies are used on a site, the Privacy and Electronic Communications (EC Directive) (Amendment) Regulations 2011 requires that certain information must be given to visitors and they must give their consent to the placing of any non-essential cookies.
 
-Most web browsers allow some control of cookies through browser settings. More information about cookies, including how to block and/or delete them, via a range of common browsers, can be found at these third-party websites: [www.aboutcookies.org](http://www.aboutcookies.org/default.aspx?page=1) or [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+Most web browsers allow some control of cookies through browser settings. 
+
+More information about cookies, including how to block and/or delete them, via a range of common browsers, can be found at these third-party websites: [www.aboutcookies.org](http://www.aboutcookies.org/default.aspx?page=1) or [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
   13. **Does Southern Water use cookies?**  
     * Our use of cookies varies depending upon which of our websites, and which functions you access. 
 
-Southern Water has taken steps to remove and limit the need for cookies on its websites to comply with legislation that came into effect in May 2011.
+We've taken steps to remove and limit the need for cookies on its websites to comply with legislation that came into effect in May 2011.
 
-One cookie is essential for our websites to operate and is created on arrival, however this file is automatically removed when you end your browser session. You may configure your computer to refuse cookies from this, or any other website, but certain areas of our site require the use of cookies to operate and will not function properly without them.
+One cookie is essential for our websites to operate and is created on arrival, however this file is automatically removed when you end your browser session. 
+
+You may configure your computer to refuse cookies from this, or any other website, but certain areas of our site require the use of cookies to operate and will not function properly without them.
 
 **Cookie use  
 **  
@@ -93,29 +99,44 @@ To comply with legislation, which came into effect on May 26, 2011, visitors t
 
 Your browser may copy other files, such as images, from this and other sites and store them on your computer so that pages load quicker after your first visit.
 
-Please note that other websites linked on this site might make use of their own cookies. Southern Water encourages visitors to ascertain the privacy practices of the website they access.
+Please note that other websites linked on this site might make use of their own cookies. We encourage visitors to ascertain the privacy practices of the website they access.
 
   14. **Should I accept cookies from Southern Water?**  
-    * Southern Water only uses cookies to enhance your use of our websites. **We do not use cookies to monitor or analyse your browsing activity**.
+    * We only use cookies to enhance your use of our websites. **We do not use cookies to monitor or analyse your browsing activity**.
 
 Where non-essential cookies are required, you will be informed and given the choice as to whether to accept them, but certain features or our site may not function without acceptance.
 
-Once cookies are accepted from Southern Water, a file is added to your computer and you will not need to give permission again if you revisit our site within 12 months – unless;
+Once cookies are accepted from Southern Water, a file is added to your computer and you will not need to give permission again if you revisit our site within 12 months – unless:
 
-• you change computer,  
-• you delete the acceptance cookie manually, or   
-• it is removed along with other cookies by your Internet security software.
+• You change computer  
+• You delete the acceptance cookie manually  
+• It's removed along with other cookies by your Internet security software.
 
-Please note that other websites linked on this site might make use of their own cookies. Southern Water encourages visitors to ascertain the privacy practices of the website they access.
+Please note that other websites linked on this site might make use of their own cookies. We encourage visitors to ascertain the privacy practices of the website they access.
 
   15. **YouTube cookies**  
-    * We embed videos from YouTube using YouTube’s privacy-enhanced mode. This mode may set cookies on your computer once you click on the YouTube video player, but YouTube will not store personally-identifiable cookie information for playbacks of embedded videos using the privacy-enhanced mode.
-    *  
-    * For more information visit YouTube's [embedding videos information page](https://support.google.com/youtube/answer/171780?hl=en).
+    * We embed videos from YouTube using YouTube’s privacy-enhanced mode. 
+
+This mode may set cookies on your computer once you click on the YouTube video player, but YouTube will not store personally-identifiable cookie information for playbacks of embedded videos using the privacy-enhanced mode.
+
+For more information visit YouTube's [embedding videos information page](https://support.google.com/youtube/answer/171780?hl=en).
+
   16. **Careers online recruitment section**  
-    * We will only use the information you provide in connection with your job application and will not disclose your information or use it for any other purpose. All the information we collect is stored securely on a centralised recruitment database. The processing and administration of any job application may be undertaken in a country outside the European Economic Area. The information will be stored securely for up to 12 months after your last visit.
+    * We will only use the information you provide in connection with your job application and will not disclose your information or use it for any other purpose. 
+
+All the information we collect is stored securely on a centralised recruitment database. 
+
+The processing and administration of any job application may be undertaken in a country outside the European Economic Area. 
+
+The information will be stored securely for up to 12 months after your last visit.
+
   17. **Online payments**  
-    * We use third party specialists to process payments made via our websites. These include Santander Bill Pay and WorldPay. Using these online services will necessitate transfer or interaction through their website via content provided by them.
+    * We use third party specialists to process payments made via our websites. 
+
+These include Santander Bill Pay and WorldPay. 
+
+Using these online services will necessitate transfer or interaction through their website via content provided by them.
+
   18. **Does Southern Water share personal data with anyone else?**  
     * The information you provide us, or that we hold about you, may be used by our staff and other agents, such as or specialist-contracted data processors, to help manage our service to you.
 
@@ -143,9 +164,13 @@ We will only transfer personal information outside the European Economic Area wh
   24. **Enhanced security of data transmission**  
     * We recognise the concerns that some people have about sending personal information using the Internet and operate enhanced security measures.
 
-When you visit certain areas of our web site you may be notified, by a ‘security alert notification’, that you are about to view pages over a secure connection. Any information you exchange within these areas cannot be viewed by anyone else on the Internet.
+When you visit certain areas of our web site you may be notified, by a ‘security alert notification’, that you are about to view pages over a secure connection. 
 
-The transfer of personal information is completed using secure servers. These servers use high level 128 bit SSL (Secure Socket Layer) encryption - which is a leading security standard in the e-commerce industry. For your peace of mind, your Web browser may display a padlock, or other, symbol to indicate the site is secure. Clicking the symbol will confirm the security provided.
+Any information you exchange within these areas cannot be viewed by anyone else on the Internet.
+
+The transfer of personal information is completed using secure servers. These servers use high level 128 bit SSL (Secure Socket Layer) encryption - which is a leading security standard in the e-commerce industry. 
+
+For your peace of mind, your Web browser may display a padlock, or other, symbol to indicate the site is secure. Clicking the symbol will confirm the security provided.
 
   25. **Debt recovery**  
     * The Water Industry Act 1991 provides water companies the power to charge for services provided and to demand and recover monies owed.
