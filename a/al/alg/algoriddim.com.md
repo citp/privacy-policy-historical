@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the algoriddim.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820214829id_/http%3A//www.algoriddim.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the algoriddim.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529234212id_/http%3A//www.algoriddim.com/privacy) for the most accurate reproduction.*
 
 # Algoriddim » Privacy Policy
 
@@ -50,6 +50,11 @@ Analytics companies may access anonymous data (such as your IP address or device
 
 Google Analytics is a web analytics tool that helps website owners understand how visitors engage with their website. Google Analytics customers can view a variety of reports about how visitors interact with their website so they can improve it. Google Analytics collects information anonymously. It reports website trends without identifying individual visitors.   
 [Privacy Policy and Choices](http://www.google.com/analytics/learn/privacy.html)
+
+##### Flurry Analytics
+
+We may use Flurry analytics tool in order to develop and analyze use of our services. If you wish to opt-out from Flurry analytics, please follow this link:   
+[End-User Opt-Out](http://www.flurry.com/user-opt-out.html)
 
 #### We take steps to protect personal information
 
