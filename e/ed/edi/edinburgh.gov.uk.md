@@ -1,45 +1,51 @@
-> *The following text is extracted and transformed from the edinburgh.gov.uk privacy policy that was archived on 2013-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131015014654id_/http%3A//www.edinburgh.gov.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edinburgh.gov.uk privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529063644id_/http%3A//www.edinburgh.gov.uk/privacy) for the most accurate reproduction.*
 
-# Your privacy - City of Edinburgh Council
+# Privacy Notice | Privacy | City of Edinburgh Council
 
-## Our aims 
+## Privacy Notice
 
-The Council takes your privacy seriously. We always aim to follow the guidance provided by the [Information Commissioner](http://www.ico.gov.uk/ "The Information Commissioner"), and to comply with the [Data Protection Act](http://www.edinburgh.gov.uk/info/706/data_protection/389/data_protection_act_1998 "The Data Protection Act 1998 as it applies to the Council"). 
+We gather and process information about you so that the services you request can be delivered effectively and efficiently.  This Privacy Notice informs you what to expect when we collect information about you.
 
-## Your data and this web site 
+The Data Protection Act, 1998, and other legislation, regulates how we use the personal information you provide.  Personal information is details about you such as your name and address, your bank details and any information about your circumstances that are necessary for the Council to deliver services to you.
 
-You can submit (potentially) personal or sensitive data to us in the following pages of the web site: 
+When you provide your personal information you are giving your consent to us to use your information for the provision of services.  This Privacy Notice also describes situations when we will use your personal information when your consent is not required.
 
-  * **Report it** , **Request it** and **Pay it** online forms 
-  * other online forms ( **Register** for an account) 
-  * when **Signing in** to Your Account.
+### Sharing your information with other organisations
 
+We will provide information about you to organisations such as the Department of Work and Pensions and other regulatory organisations if the services we provide to you require the Council to do this. 
 
+We may also pass information about you to the police or other crime detection agencies if the personal information requested meets the criteria set out in the Data Protection Act, 1998, or other legislation.
 
+To allow the Council to provide a high quality of service to you we may also ask your consent to share personal information with organisations such as NHS Lothian or agencies from the voluntary and charity sectors.  If you do not give your consent we will not pass personal information to these organisations unless there is a statutory duty to do so or if there is a duty of care placed on the Council to disclose information.
 
-When you use our online **Pay it** forms, at no time are your card details stored or accessible to the Council. We use a secure web site called [WorldPay](http://www.rbsworldpay.com/ "Worldpays web site") to take your payment details. WorldPay is a leading internet payment provider and is part of the Royal Bank of Scotland group. 
+### Data matching
 
-Read [how we use personal information](http://www.edinburgh.gov.uk/downloads/download/1764/social_care_and_social_work_privacy_notice "Health and social care privacy notice") to provide social work and social care services.
+We are required to ensure that we protect the money available for the provision of Council services.  The Council will use the personal information about you to help us to do this.  Data Matching involves cross checking the personal information you provide to various Council service departments for accuracy.  
 
-### Cookies
+Examples of this are the payment of benefits and application for school enrolment.
 
-The web site does store cookies on your computer, but these do not contain personal data or anything that could identify you to others. Find out more about [cookies we use](http://www.edinburgh.gov.uk/cookies "Cookies we use"). 
+We are required to provide personal information about service users to Audit Scotland for data matching purposes to assist in scrutiny of the provision of public services and for the prevention and detection of fraud.
 
-## How your data gets to us 
+### Your information rights
 
-The pages listed above have **[SSL encryption](http://en.wikipedia.org/wiki/Transport_Layer_Security "The Wikipedia definition for SSL")**. Your browser will confirm this by showing a closed padlock icon (or similar) in its toolbar or status bar. Encryption effectively prevents your data being intercepted when you submit it to this web site's servers. Authorised Council staff will also retrieve the data using SSL encryption. 
+You have the right to make a request to obtain a copy of the personal information that we hold about you.  You can also ask us to correct factual inaccuracies in your personal information. You can contact us for details about how to do this. 
 
-## What we do with your data 
+**0131 200 2340  **
 
-When you're filling in our online forms, we'll use blue text alongside questions to tell you how we intend to use the data we're asking for (this is called a **[Privacy Notice](http://www.ico.gov.uk/for_organisations/topic_specific_guides/privacy_notices.aspx "Guidance on Privacy Notices from the Information Commissioner")** ). This guidance is provided wherever the data: 
+[data.protection@edinburgh.gov.uk](mailto:data.protection@edinburgh.gov.uk)
 
-  * may be used to identify you 
-  * is of a particularly sensitive nature. 
+Read further information about [Subject Access Requests](https://web.archive.org/info/20032/access_to_information/903/ask_to_see_information_about_you "Subject Access Requests"). 
 
+### Use of cookies
 
+Read further information on [use of cookies](https://web.archive.org/cookies "Use of cookies"). 
 
-We may not provide this guidance where you would reasonably expect us to need the data in order to deliver the service you're requesting. 
+### Links to other websites
 
-Your data will be stored securely within various enterprise systems, most of them hosted on the Council's corporate network. 
+This Privacy Notice only covers the City of Edinburgh Council website.  Links to other websites are not covered by this Privacy Notice.  If you visit other websites you should read the Privacy Notice covering the use of personal information published by the external organisation.  
 
-In line with our [Records policy](http://www.edinburgh.gov.uk/info/704/access_to_information/390/records_policy "The Councils Records policy"), we aim to archive or delete data from our systems when it's no longer actively useful for providing the relevant service to you. 
+We do not give any guarantees about the accuracy of the content or the security of any other website that you may access through a link contained on the Council website.  
+
+### Visitors to our website
+
+Access to our website is either anonymous or as a registered user.  Visitors to the site that choose to remain anonymous will only have access to information and requests of a generic nature. Their personal details will not be recorded unless they choose to submit their data on an online form to make a service request. Visitors can choose to become registered users and, if signed in, submitted online forms will be recorded against their account.
