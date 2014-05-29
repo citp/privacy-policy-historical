@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jacksonsart.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127051659id_/http%3A//www.jacksonsart.com/information.php%3Finfo_id%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jacksonsart.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529093459id_/http%3A//www.jacksonsart.com/information.php%3Finfo_id%3D3) for the most accurate reproduction.*
 
 # Art Supplies from Jackson's | Site Security / Privacy Statement
 
