@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplyaroma.com privacy policy that was archived on 2013-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131018020044id_/http%3A//simplyaroma.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplyaroma.com privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530063146id_/http%3A//www.simplyaroma.com/privacy-policy/index.aspx) for the most accurate reproduction.*
 
 # Privacy Policy @ Simply Aroma – Certified 100% Pure Therapeutic Grade Oils
 
@@ -34,7 +34,7 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
 SimplyAroma.com  
-3775 Professional Parkway Suite A  
-Mobile, AL 36609  
+3766  Halls Mill Rd  
+Mobile, AL 36693  
 USA  
 support @ simplyaroma.com
