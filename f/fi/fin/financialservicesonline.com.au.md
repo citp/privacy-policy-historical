@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the financialservicesonline.com.au privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127010112id_/http%3A//www.financialservicesonline.com.au/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financialservicesonline.com.au privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530123939id_/http%3A//www.financialservicesonline.com.au/privacy.htm) for the most accurate reproduction.*
 
 # Our Privacy Policy Statement | Public Liability | FinancialServicesOnline.com.au
 
