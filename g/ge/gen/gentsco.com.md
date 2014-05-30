@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gentsco.com privacy policy that was archived on 2013-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131025171020id_/http%3A//gentsco.com/pages/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gentsco.com privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530041815id_/http%3A//gentsco.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# About | Privacy Policy
 
 ## This website is provided and managed by Gents, Inc.
 
