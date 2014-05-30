@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the swin.edu.au privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125083649id_/http%3A//www.swinburne.edu.au/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swin.edu.au privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530075800id_/http%3A//www.swinburne.edu.au/disclaimer/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy - Swinburne University of Technology
+
+**March 2014: The University has drafted new Privacy Guidelines to replace the former Privacy Policy. These Guidelines are currently under consultation and will be uploaded shortly.**
+
+If you have any questions, issues or concerns (or wish to lodge a complaint in respect of a Privacy matter) please contact Kornel Koffsovitz, Privacy Officer – Manager, Legal & Governance, on +61 3 9214 5515.
 
 **We value your privacy**
 
@@ -8,7 +12,7 @@ Swinburne University of Technology acknowledges and respects the privacy of indi
 
 **Why do we collect your information**
 
-This information is normally collected for the purposes of processing your application, registration or inquiry for a Swinburne University of Technology course, activity or interest group. Information that we collect will be used for keeping you informed of upcoming events, improving the student experience and assisting us in improving and marketing our services to you. For more information refer to the [Privacy Collection Notice](https://web.archive.org/web/20131125083649id_/http%3A//www.swinburne.edu.au/privacy_collection.htm).
+This information is normally collected for the purposes of processing your application, registration or inquiry for a Swinburne University of Technology course, activity or interest group. Information that we collect will be used for keeping you informed of upcoming events, improving the student experience and assisting us in improving and marketing our services to you. For more information refer to the [Privacy Collection Notice](https://web.archive.org/web/20140530075800id_/http://www.swinburne.edu.au/disclaimer/privacy/collection.html).
 
 **Security**
 
@@ -16,12 +20,8 @@ Swinburne University uses and implements industry standards for the security and
 
 **Access to your information**
 
-You have a right of access to, and alteration of personal information concerning yourself held by the University, in accordance with Government Legislation. 
-
-**Privacy policy**
-
-Swinburne University has a [Privacy Policy](http://policies.swinburne.edu.au/ppdonline/showdoc.aspx?recnum=POL/2008/166) that can be found on its Policies and Procedures Database, which outlines the ways in which we intends to meet our privacy commitments and details the procedures for making complaints under the Act. 
+You have a right of access to, and alteration of personal information concerning yourself held by the University, in accordance with Government Legislation.
 
 **Contact**
 
-If staff have any queries in relation to privacy at Swinburne University of Technology, please contact Swinburne Legal.
+If staff have any queries in relation to privacy at Swinburne University of Technology, please contact [Legal and Governance](http://www.swinburne.edu.au/corporate/legal/).
