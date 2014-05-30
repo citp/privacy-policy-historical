@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extravaganzi.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223024441id_/http%3A//www.extravaganzi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extravaganzi.com privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530100112id_/http%3A//www.extravaganzi.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — eXtravaganzi
 
@@ -65,3 +65,5 @@ If you have any questions about this Privacy Policy, the practices of this site,
 a.arsenovic.sg@gmail.com
 
 This document was last updated on February 15, 2013
+
+(Visited 33 times, 1 visits today)
