@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the customwritinghelp.co.uk privacy policy that was archived on 2013-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130731003117id_/http%3A//customwritinghelp.co.uk/cwh/privacy-statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the customwritinghelp.co.uk privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530134153id_/http%3A//customwritinghelp.co.uk/cwh/privacy-statement.php) for the most accurate reproduction.*
 
 # Privacy Statement - Assures Privacy Concerns of Students
 
@@ -39,6 +39,5 @@ In order to provide clienteles and visitors with specific information, Custom Wr
 
 The privacy statement at Custom Writing Help UK is maintained regularly. Updates are made on this page so as to serve clienteles and visitors with modified services. Custom Writing Help UK does not notify customers and users about the change in the policy, therefore, customers and users should visit and go through the privacy statement available on the official website of Custom Writing Help UK. Moreover, Custom Writing Help UK is not liable for any loss or injury made due to change in the privacy statement.
 
-  
   
 
