@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afp.gov.au privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129124749id_/http%3A//www.afp.gov.au/Global/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afp.gov.au privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530133130id_/http%3A//www.afp.gov.au/Global/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy - Australian Federal Police
 
@@ -13,7 +13,7 @@ We are concerned about protecting your privacy. This statement describes how we 
 
 ##  Personal details
 
-Some forms on this site can be used to send us personal information necessary for the processing of certain applications, such as criminal history checks and should show a yellow lock towards the bottom of the page. When you submit such forms, the data is generally encrypted in a format which is virtually impossible for unauthorised parties to read. These secure forms will always have an address beginning **/,** and should show a yellow lock towards the bottom of the page.
+Some forms on this site can be used to send us personal information necessary for the submitting of reports and processing of certain applications. Your browser should show a lock in the address bar. When you submit such forms, the data is generally encrypted in a format which is virtually impossible for unauthorised parties to read. These secure forms will always have an address beginning https://forms.afp.gov.au/
 
 We will keep information which you send in a secure environment and will use it only for the purpose for which it was submitted.
 
@@ -25,11 +25,9 @@ The Australian Federal Police will only record your email address if you send us
 
 You are reminded that, with the exception of encrypted forms as described above, messages sent from this site over the Internet are not secure. For further information on the Internet and security, you should read the [Disclaimer](https://web.archive.org/Global/Disclaimer.aspx).
 
-To help reduce spam, we do not publish our email addresses on this site. Email addresses which were published on earlier versions of the site are now inactive. Please use an online form if you wish to send us a message. 
-
 ##  Clickstream data
 
-When you go to a page or document on one of our Web sites, the following information may be logged for statistical purposes:
+When you go to a page or document on one of our websites, the following information may be logged for statistical purposes:
 
   * the date and time at which you accessed each page or document; 
   * the Internet (IP) address of your computer; 
@@ -56,11 +54,9 @@ We do not use cookies to collect personal information, nor do we associate anony
 
 ## Further enquiries
 
-If you have enquiries regarding the privacy of this site, please contact the AFP Web Management team.
+If you have enquiries regarding the privacy of this site, please contact the AFP Online Services team.
 
-Website problems, feedback, copyright authorisation, privacy | Coordinator, Web Management  
-AFP Information Services  
+Website problems, feedback, copyright authorisation, privacy | Coordinator Online Services  
 PO Box 401  
-Canberra City ACT 2601 | Phone: (02) 6223 3000  
-[Email AFP Web administration](https://forms.afp.gov.au/email_forms/web_admin)  
+Canberra City ACT 2601 | [Email AFP Online Services](https://forms.afp.gov.au/email_forms/web_admin)  
 ---|---|---
