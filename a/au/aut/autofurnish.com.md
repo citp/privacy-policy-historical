@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the autofurnish.com privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128212858id_/http%3A//www.autofurnish.com/t/PrivacyInfo) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autofurnish.com privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530132904id_/http%3A//www.autofurnish.com/t/PrivacyInfo) for the most accurate reproduction.*
 
-# Car accessories, ambipur, car accessory, car perfume, car air freshener, seat covers, car covers, car seat covers, accessories for cars, auto accessories, accessories for cars, online car accessories, car care, car polish, car cleaning, car cleaning service, car accessories in delhi. Privacy Policy
+# Autofurnish.com – Buy Auto Accessories, Audio Systems, Car Perfumes, Bike Gears & Car Care Products | Autofurnish. Privacy Policy
 
 Auto Furnish is committed to safeguarding your privacy and we understand the importance you place on the privacy and security of your Identifiable Information. "Identifiable Information" means, as the term suggests, information that identifies you, including name, address, telephone number or e-mail address and financial information that is collected by Auto Furnish through this website.
 
