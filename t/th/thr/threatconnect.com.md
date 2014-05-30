@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the threatconnect.com privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128114324id_/http%3A//www.cybersquared.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the threatconnect.com privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530072431id_/http%3A//www.cybersquared.com/privacy) for the most accurate reproduction.*
 
 # Cyber Squared Inc. Privacy Policy | Cyber Squared
 
