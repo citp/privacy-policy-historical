@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the leadid.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219191326id_/http%3A//leadid.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadid.com privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530211654id_/http%3A//leadid.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # View LeadiD's Privacy Policy | LeadiD
 
+  
 Last Updated: January 2, 2013
 
-We provide this privacy policy to let you know what information we collect, how we use it, share it, and protect it, including when you access or use our Site or Services, as defined in our [Terms of Use](http://leadid.com/about-us/terms-of-use/). UNLESS OTHERWISE DEFINED IN THIS PRIVACY POLICY, TERMS USED IN THIS PRIVACY POLICY HAVE THE SAME MEANINGS AS IN THE TERMS OF USE. IN THE EVENT OF ANY CONFLICT BETWEEN THIS PRIVACY POLICY AND THE TERMS OF USE, THE TERMS OF USE SHALL CONTROL.
+We provide this privacy policy to let you know what information we collect, how we use it, share it, and protect it, including when you access or use our Site or Services, as defined in our [Terms of Use](https://web.archive.org/about-us/terms-of-use/). UNLESS OTHERWISE DEFINED IN THIS PRIVACY POLICY, TERMS USED IN THIS PRIVACY POLICY HAVE THE SAME MEANINGS AS IN THE TERMS OF USE. IN THE EVENT OF ANY CONFLICT BETWEEN THIS PRIVACY POLICY AND THE TERMS OF USE, THE TERMS OF USE SHALL CONTROL.
 
 As used in this Privacy Policy, the terms “use,” ”using,” “process,” and “processing” information include using cookies on a computer, subjecting the information to statistical or other analysis, and using or handling information in any way, including, but not limited to, collecting, storing, evaluating, modifying, deleting, using, combining, disclosing and transferring information within the Lead Intel enterprise or among its affiliates within the United States or internationally.
 
@@ -14,10 +15,7 @@ This Privacy Policy applies only to the Site and Services. This Privacy Policy d
 
 By submitting your information to us and by using the Site and Services, Lead Intel will assume that you have read, understood, and consent to this Privacy Policy, our Terms of Use, all amendments, addenda, and licenses to the Privacy Policy and Terms of Use, and all applicable Lead Intel rules and policies (collectively, the “Agreement”). We also assume that you consent to Lead Intel’s use of your information and data as described in the Agreement. If you do not consent, you should not access or use the Site or Services.
 
-  
-
-
-## Scope
+##### Scope
 
 As a general rule, there are three categories of people using, or interacting with, the Site and Services:
 
@@ -29,12 +27,9 @@ As a general rule, there are three categories of people using, or interacting wi
 
 This Privacy Policy applies to End Users of Publisher Sites, Publishers and LeadiD Auditors within the two sections that follow. By visiting the Site or utilizing the Services, if you are a Publisher and/or LeadiD Auditor, you are accepting the policies and practices described in this Privacy Policy. If you are an End User of Publisher Sites using LeadiD Services, this Privacy Policy is provided to let you know what information we collect on Publisher Sites and how we use it, share it, and protect it.
 
-  
+##### Privacy Practices for Publishers and LeadiD Auditors
 
-
-## Privacy Practices for Publishers and LeadiD Auditors
-
-_**For clarity, this section applies only to Publishers and LeadiD Auditors utilizing the LeadiD Services, not to End Users of Publisher Sites**_. For more information on privacy practices regarding End Users of Publisher Sites, please see the next section (“Privacy Practices for End Users Who Visit Publisher Sites”).
+**For clarity, this section applies only to Publishers and LeadiD Auditors utilizing the LeadiD Services, not to End Users of Publisher Sites**. For more information on privacy practices regarding End Users of Publisher Sites, please see the next section (“Privacy Practices for End Users Who Visit Publisher Sites”).
 
   1. The information we gather and how we use it: When you access the Site, there are several sections where you may voluntarily enter information that may be used to identify or locate you, such as your full name, postal address, e-mail address, phone number, Facebook ID, Twitter ID, or billing information, as well as other non-public information that is associated with this information (“LeadiD Member Personally Identifiable Information” or “LeadiD Member PII”). We will not collect LeadiD Member PII except when you knowingly provide it, including when you register for the Site, provide feedback, or request information. We use your LeadiD Member PII to administer your account and provide you services, to send communications and administrative emails, to respond to your inquiries, and to send marketing and product update messages to those who ask for such messages. Typically, individuals acting on behalf of a Publisher and/or LeadiD Auditor would be the only individuals to provide this type of information on the LeadiD Site in order to access and register for the Services. For example, Publishers may provide their email address when they register on the Site and create a user name and password.
   2. Controlling our use of your LeadiD Member PII: If you have provided LeadiD Member PII, such as your email address when registering for our Site, you may modify that information at any time by visiting your account settings (http://app.leadid.com/users/edit). While we would be sorry to see you go, you can delete your account at any time. You can opt out of receiving certain email communications from the Site by clicking the "Unsubscribe" link at the bottom of each email, or through a similar opt out link that may be provided.
@@ -45,7 +40,7 @@ _**For clarity, this section applies only to Publishers and LeadiD Auditors util
 
 
 
-## Privacy Practices for End Users Who Visit Publisher Sites
+##### Privacy Practices for End Users Who Visit Publisher Sites
 
 This section applies to End Users visiting Publisher Sites who are utilizing LeadiD Services.
 
@@ -64,54 +59,42 @@ The information we gather and how we use it:
 
 
 
-## Information Security and Retention
+##### Information Security and Retention
 
 We take security measures to protect against unauthorized access to or unauthorized alteration, disclosure, or destruction of data. These include firewalls and encryption, internal reviews of our data collection, storage and processing practices, and security measures, as well as physical security measures to guard against unauthorized access to systems.
 
-We restrict access to LeadiD Member PII to Lead Intel employees, contractors, and agents who need to know that information in order to operate, develop, or improve our Services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination, if they fail to meet these obligations. However, we are unable to guarantee that the security measures we take will not be penetrated or compromised or that your information will remain secure under all circumstances. We retain individual records of LeadiD Member PII and all Non-PII indefinitely. 
+We restrict access to LeadiD Member PII to Lead Intel employees, contractors, and agents who need to know that information in order to operate, develop, or improve our Services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination, if they fail to meet these obligations. However, we are unable to guarantee that the security measures we take will not be penetrated or compromised or that your information will remain secure under all circumstances. We retain individual records of LeadiD Member PII and all Non-PII indefinitely.
 
-  
-
-
-## Children
+##### Children
 
 We do not knowingly collect or maintain LeadiD Member PII from individuals who are under 13 years of age, and no part of our Site or Services is designed to attract people under the age of 13. Protecting the privacy of children is very important to us. If we obtain knowledge that a LeadiD Member or other user of our Site is under the age of 13, we will take steps to remove that user's PII from our databases.
 
-  
+##### Children
 
+We do not knowingly collect or maintain LeadiD Member PII from individuals who are under 13 years of age, and no part of our Site or Services is designed to attract people under the age of 13. Protecting the privacy of children is very important to us. If we obtain knowledge that a LeadiD Member or other user of our Site is under the age of 13, we will take steps to remove that user's PII from our databases.
 
-## Links to Other Sites
+##### Links to Other Sites
 
 Our Site and Services provide services to third-party websites and services. The fact that we provide services to these entities is not an endorsement, authorization, or representation that we are affiliated with that third party, nor is it an endorsement of their privacy or information security policies or practices. This Privacy Policy applies only as provided in the "Scope" section above. Other websites and services follow different rules regarding the use or disclosure of personal information. We encourage you to read the privacy policies or statements of the other websites you visit and especially those where you provide your PII to them.
 
-  
-
-
-## International Users
+##### International Users
 
 The Site and Services are hosted in the United States. If you access the Site or Services from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure that differ from United States laws, please be advised that through your continued use of the Site or Services, you are transferring your PII to the United States and you consent to that transfer. Additionally, you understand that your PII may be processed in countries (including the United States) where laws regarding processing PII may be less stringent than in your country.
 
-  
-
-
-## Questions or Comments?
+##### Questions or Comments?
 
 Please feel free to direct any questions or concerns regarding this Privacy Policy by contacting us through this Site, by emailing us at [support@leadid.com](mailto:support@leadid.com?Subject=Support:%20Privacy%20Policy), or writing to us at:
 
-  
 USPS  
 Lead Intelligence, Inc.  
-524 Plymouth Road #618  
-Gwynedd Valley, PA 19437-0618
+201 S. Maple Ave, Suite 150  
+Ambler, PA 19002
 
 Other (FedEx/UPS)  
 Lead Intelligence, Inc.  
-524 Plymouth Road  
-Gwynedd Valley, PA 19437
+201 S. Maple Ave, Suite 150  
+Ambler, PA 19002
 
-## Changes to this Privacy Policy
+##### Changes to this Privacy Policy
 
-Please note that this Privacy Policy may change from time to time. If you have any additional questions or concerns about this Privacy Policy, please feel free to contact us any time through this Site or by writing to us at the address set forth above. 
-
-  
-
+Please note that this Privacy Policy may change from time to time. If you have any additional questions or concerns about this Privacy Policy, please feel free to contact us any time through this Site or by writing to us at the address set forth above.
