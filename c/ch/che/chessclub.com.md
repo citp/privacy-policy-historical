@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chessclub.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501073445id_/http%3A//www.chessclub.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chessclub.com privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530065709id_/http%3A//www.chessclub.com/help/privacy) for the most accurate reproduction.*
 
 # ICC Help: privacy
 
@@ -62,13 +62,13 @@ While you're connected to an ICC server using a "timestamped" client (such as Bl
 
 Viewing Removing or Changing Your Personal Information
 
-You can see your personal information by issuing the "personal-info" command while on an ICC server. You can modify this information by using the "set" command. (Read [help set](https://web.archive.org/help/set) for more details.) For example, "set telephone 412-521-5553", will set your telephone number.
+You can see your personal information by issuing the "personal-info" command while on an ICC server. You can modify this information by using the "set" command. (Read [help set](https://web.archive.org/help/set) for more details.) For example, "set telephone 412-436-5558", will set your telephone number.
 
 You can also contact the ICC business office to request that this information be changed or removed. Here is the contact information: 
     
     
           Email: icc@chessclub.com   
-          Phone: 412-521-5553
+          Phone: 412-436-5558
           Fax: 412-521-5575
           Postal:  Internet Chess Club
                    5820 Forbes Avenue, Suite 1
