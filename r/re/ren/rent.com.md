@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the rent.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230100756id_/http%3A//www.rent.com/company/privacy-full) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rent.com privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530234231id_/http%3A//www.rent.com/company/privacy-full) for the most accurate reproduction.*
 
 # Privacy Policy - Rent.com®
 
-Rent.com is a technology platform owned and operated by Viva Group, Inc., a subsidiary of RentPath, Inc. The rental advertisements and related services accessed on Rent.com or through its tools, applications or services ("Rent.com") are procured and provided by Viva Group, Inc. and its subsidiaries and affiliates.
+[Click here to learn more about how we handle do-not-track signals and user tracking](https://web.archive.org/company/privacy-do-not-track/)
+
+Rent.com is a technology platform owned and operated by Viva Group, LLC, a subsidiary of RentPath, Inc. The rental advertisements and related services accessed on Rent.com or through its tools, applications or services ("Rent.com") are procured and provided by Viva Group, LLC and its subsidiaries and affiliates.
 
   1. ### Scope.
 
-This Privacy Policy describes how we handle your personal information for our services available on Rent.com and on other related sites, tools, applications, or services. By accepting the Privacy Policy and the Terms of Use in registration, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy, including its transfer to and storage on our servers in the United States or elsewhere in the world where Viva Group, Inc. has facilities.
+This Privacy Policy describes how we handle your personal information for our services available on Rent.com and on other related sites, tools, applications, or services. By accepting the Privacy Policy and the Terms of Use in registration, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy, including its transfer to and storage on our servers in the United States or elsewhere in the world where Viva Group, LLC has facilities.
   2. ### Collection.
 
 While you can use some functions of Rent.com without being a registered user, certain activities (such as viewing property contact information and advertising a property) do require registration. Once you give us your personal information, you are not anonymous to us. In most cases, the information we hold about you is collected through Rent.com, but we may also collect information from private-label, co-branded and affiliate websites or their tools, applications or services ("Other Sites"). Depending on the services used, we may collect and store the following personal information:
@@ -30,6 +32,7 @@ Our primary purpose in collecting personal information is to provide you with a 
     * Resolve disputes, collect fees and troubleshoot problems.
     * Customize your experience and otherwise measure and improve Rent.com's services.
     * Deliver targeted marketing, service updates, and promotional offers based on your communication preferences. (If we use your personal information to market to you, you will be able to opt-out of such uses; see Email Preferences and About Cookies below.)
+    * Request your review of a property.
     * Compare information for accuracy and verify it with third parties.
     * Measure consumer interest in our products and services.
     * Help promote a safe service and detect and prevent error, fraud and other potentially prohibited or illegal activity.
@@ -90,7 +93,7 @@ Suite 400E
 Santa Monica, CA 90404  
 or [Contact Us](https://web.archive.org/company/contact/renter/?subject=renter_other)
 
-Last updated October 16, 2013.
+Last updated March 13, 2014.
 
 
 
@@ -121,7 +124,7 @@ Get more with a free account
 
 x
 
-A Rent.com account allows you to save favorites, organize searches, contact property managers, and claim your [Rent.com $100 Visa® Reward Card](https://web.archive.org/service/reward). 
+A Rent.com account allows you to save favorites, organize searches, contact property managers, and claim your [Rent.com $100 Visa® Reward Card](https://web.archive.org/service/reward/). 
 
 Email addresses are not shared with third-parties. We will give you a heads up on apartment listings via email. [Privacy Policy](https://web.archive.org/company/privacy-full/)
 
