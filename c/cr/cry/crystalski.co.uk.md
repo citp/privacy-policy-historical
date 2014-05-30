@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crystalski.co.uk privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128064250id_/http%3A//www.crystalski.co.uk/our-policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crystalski.co.uk privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530054538id_/http%3A//www.crystalski.co.uk/our-policies/privacy-policy) for the most accurate reproduction.*
 
 # Data Protection | Crystal Ski
 
@@ -88,7 +88,7 @@ Analytics | Adobe SiteCatalyst, comScore/Sitestat | These cookies enable us to c
 Analytics | Tealeaf | These cookies contain data to analyse a user's actions across our website. The data stored in these cookies is only used internally.  
 Analytics | ResponseTap (formerly Adinsight) | This cookie enables us to track the interaction between our website and sales centre to help us improve customer experience. The data collected is anonymous and only used internally.  
 Analytics | Yahoo | These cookies enable us to collect anonymous, aggregated visitor information including the number of visits and page views that arise from marketing activity. The data stored in these cookies is only used internally.  
-Analytics | Tagman, Convertro, Tealium | We use Tagman, Tealium and Convertro for tracking our marketing activity. The data collected is anonymous and only used internally.  
+Analytics | Tagman, Tealium | We use Tagman and Tealium for tracking our marketing activity. The data collected is anonymous and only used internally.  
 Analytics | Visual Website Optimizer | Visual Website Optimizer uses cookies to monitor performance of website design and function changes. The cookies are used to keep track of the Variation that a user has seen, the goals a user has completed and even the fact the user has become a part of the test or not. The data collected is anonymous and only used internally. More info: <http://visualwebsiteoptimizer.com/split-testing-blog/eu-cookie-law-implications/>  
 Marketing | Search Engines: Google, Bing, Yahoo etc | The cookies used for search engines allow us to monitor and enhance the performance of marketing activity. The data collected is anonymous and only used internally.  
 Marketing | Affiliates: Commission Junction, Affiliate Future | These cookies provide us with information to monitor the performance of specially selected marketers, advertisers and publishers and help better serve and manage offers and ads across the web. [www.cj.com/privacy_web_user.html](http://www.cj.com/privacy_web_user.html).  
