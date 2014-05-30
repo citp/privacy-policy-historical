@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the blueprintlsat.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522172631id_/http%3A//blueprintprep.com/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blueprintlsat.com privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530065255id_/http%3A//blueprintlsat.com/privacy-policy) for the most accurate reproduction.*
 
-# About Blueprint LSAT - Privacy Policy
-
-### Privacy Policy
+# Privacy Policy
 
 Blueprint Test Preparation (hereafter referred to as "Blueprint") will make every effort to balance our legitimate business interests in collecting and using information with your reasonable expectations of privacy.
 
-www.blueprintprep.com does not collect personally identifying information about individuals, except when specifically and knowingly provided by such individuals. 
+[www.blueprintlsat.com](http://blueprintlsat.com/) does not collect personally identifying information about individuals, except when specifically and knowingly provided by such individuals.
 
-For each visitor to www.bluepintprep.com, our Web servers automatically collect information about which pages are visited and the domain name (e.g., earthlink.com) of visitors.
+For each visitor to [www.blueprintlsat.com](http://blueprintlsat.com/), our Web servers automatically collect information about which pages are visited and the domain name (e.g., earthlink.com) of visitors.
 
 This information is used for internal review, to tailor information to individual visitors and for traffic audits. This information (as well as information from third-party market researchers) might be used on an aggregated, anonymous basis to our advertisers.
 
@@ -18,4 +16,4 @@ We do not control the privacy policies of our advertisers, sponsors or other sit
 
 Technology on the Internet is developing at a rapid pace, and we need to maintain our flexibility in the online arena. If we need to change our policy in the future, we will post these changes as soon as they go into effect.
 
-Please direct questions and/or concerns about this policy to Blueprint at [ info@blueprintprep.com ](mailto:info@blueprintprep.com).
+Please direct questions and/or concerns about this policy to Blueprint at [info@blueprintlsat.com](mailto:info@blueprintlsat.com).
