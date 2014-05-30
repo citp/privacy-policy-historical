@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onepakistan.com privacy policy that was archived on 2013-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130120040006id_/http%3A//www.onepakistan.com.pk/data/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onepakistan.com privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530072003id_/http%3A//www.onepakistan.com.pk/data/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
