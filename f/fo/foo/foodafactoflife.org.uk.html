@@ -1,85 +1,327 @@
-<!--The following is the downloaded HTML source of the foodafactoflife.org.uk privacy policy that was archived on 2008-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081231152847id_/http%3A//www.foodafactoflife.org.uk//Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the foodafactoflife.org.uk privacy policy that was archived on 2014-05-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140530174043id_/http%3A//www.foodafactoflife.org.uk/Privacy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
-	Food a fact of life - Food a fact of life
-</title><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-	<style type="text/css" media="screen">
-        @import url( 'Style/main.css');
-        @import url( 'Style/temp.css');
-    </style>
-	<!--[if lt IE 7]><link rel="stylesheet" type="text/css" href="style/ie6.css" /><![endif]-->
-	<!--[if IE 7]><link rel="stylesheet" type="text/css" href="style/IE7.css" /><![endif]-->
-</head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
+	Privacy Statement - Food a fact of life
+</title><meta property="og:title" content="Privacy Statement - Food a fact of life">
+    <link href="/css/styles.css" rel="stylesheet" type="text/css">
+    <link href="/css/jquery.selectBox.css" rel="stylesheet" type="text/css">
+    <link href="/css/cookie.css" rel="stylesheet" type="text/css">
+    <link rel="alternate" type="application/rss+xml" title="Rss" href="/Rss.ashx">
+
+    <script type="text/javascript" src="/script/jquery-1.5.1.min.js"></script>
+    <script type="text/javascript" src="/script/jquery.selectBox.min.js"></script>
+    <script type="text/javascript" src="/script/jquery.watermark.min.js"></script>
+    <script type="text/javascript" src="/script/jquery.equalheights.js"></script>
+    <script type="text/javascript" src="/script/jquery.easing.1.3.js"></script>
+    <!--[if !(IE 9)]><!-->
+    <script type="text/javascript" src="/script/curvycorners.src.js"></script>
+    <!--<![endif]-->
+    <script type="text/javascript" src="/script/slides.min.jquery.js"></script>
+    <script type="text/javascript" src="/script/cookie.js"></script>
+    <script type="text/javascript" src="/script/scripts.js"></script>
+
+    <script type="text/javascript">
+
+        var timeout = 10;
+        var closetimer = 0;
+        var ddmenuitem = 0;
+
+        function nav_open() {
+            nav_canceltimer();
+            nav_close();
+            ddmenuitem = jQuery(this).find('ul.submenu_level1').css('visibility', 'visible');
+        }
+
+        function nav_close()
+        { if (ddmenuitem) ddmenuitem.css('visibility', 'hidden'); }
+
+        function nav_timer()
+        { closetimer = window.setTimeout(nav_close, timeout); }
+
+        function nav_canceltimer() {
+            if (closetimer) {
+                window.clearTimeout(closetimer);
+                closetimer = null;
+            }
+        }
+
+        jQuery(document).ready(function () {
+
+            jQuery(".selectbox").selectBox();
+            jQuery(".eq_height").equalHeights();
+            jQuery(".eq_height").css("overflow", "");
+
+            jQuery('ul.nav > li').bind('mouseover', nav_open)
+            jQuery('ul.nav > li').bind('mouseout', nav_timer)
+
+            jQuery("#ctl00_ucSearchForm_SearchInput").watermark('SEARCH THE SITE');
+            jQuery("#YMLP0").watermark('EMAIL ADDRESS');
+
+        });
+
+        document.onclick = nav_close;
+    </script>
+
+    <script type="text/javascript">
+        $(function () {
+            $('#slides').slides({
+                preload: true,
+                preloadImage: 'images/loading.gif',
+                play: 5000,
+                pause: 2500,
+                hoverPause: true
+            });
+        });
+    </script>
+    <!--[if IE]>
+        <link rel="stylesheet" type="text/css" href="/script/css/ie7.css" />
+    <![endif]-->
+    </head>
 <body>
-	<!-- Page -->
-	<div id="page">
-		<form name="aspnetForm" method="post" action="Privacy.aspx" id="aspnetForm">
+    <form name="aspnetForm" method="post" action="Privacy.aspx" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'ctl00_ucSearchForm_ButtonSearch')" id="aspnetForm">
 <div>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTM0NTQzNzQ5Ng9kFgJmD2QWAgIDD2QWBgIDD2QWAmYPZBYEAgMPEA8WBh4ORGF0YVZhbHVlRmllbGQFAklkHg1EYXRhVGV4dEZpZWxkBQVUaXRsZR4LXyFEYXRhQm91bmRnZBAVBQNBbGwJMy01IFllYXJzCTUtOCBZZWFycwo4LTExIFllYXJzCzExLTE2IFllYXJzFQUCLTECMTcCMTQCMTUCMTYUKwMFZ2dnZ2cWAWZkAgkPEA8WBh8ABQJJZB8BBQVUaXRsZR8CZ2QQFQEDQWxsFQECLTEUKwMBZ2RkAgUPZBYEAgEPFgIeC18hSXRlbUNvdW50AgQWCAIBD2QWAmYPFgIeBWNsYXNzBQZvcmFuZ2UWBGYPDxYIHgtOYXZpZ2F0ZVVybAUZfi9zaXRlLmFzcHg/c2l0ZUlkPTE3JnQ9MB4EVGV4dAUJMy01IFllYXJzHghDc3NDbGFzcwUKb3JhbmdlLXRhYh4EXyFTQgICZGQCAQ9kFgJmDxYCHwMC/////w9kAgIPZBYCZg8WAh8EBQZwdXJwbGUWBGYPDxYIHwUFGX4vc2l0ZS5hc3B4P3NpdGVJZD0xNCZ0PTEfBgUJNS04IFllYXJzHwcFCnB1cnBsZS10YWIfCAICZGQCAQ9kFgJmDxYCHwMC/////w9kAgMPZBYCZg8WAh8EBQRibHVlFgRmDw8WCB8FBRl+L3NpdGUuYXNweD9zaXRlSWQ9MTUmdD0yHwYFCjgtMTEgWWVhcnMfBwUIYmx1ZS10YWIfCAICZGQCAQ9kFgJmDxYCHwMC/////w9kAgQPZBYCZg8WAh8EBQZ5ZWxsb3cWBGYPDxYIHwUFGX4vc2l0ZS5hc3B4P3NpdGVJZD0xNiZ0PTMfBgULMTEtMTYgWWVhcnMfBwUKeWVsbG93LXRhYh8IAgJkZAIBD2QWAmYPFgIfAwL/////D2QCAg8WAh4HVmlzaWJsZWdkAgcPFgIfBAUSY29udGVudCBsaWdodC1ibHVlFgICBw8PFgIfBgUVVXBkYXRlZCBvbiAwMy8xMi8yMDA4ZGRk9vYE0lrDZBep2I5PPNaUEyz9EbY=">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__LASTFOCUS" id="__LASTFOCUS" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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">
 </div>
 
-			<!-- Header -->
-			<div class="header">
-				<a id="ctl00_HyperLinkLogo" class="logo" href="Index.aspx"><img src="images/logotype/logotype.jpg" id="ctl00_ImgLogo" alt="Food a fact of life"></a>
-				<div class="right-header">
-					<div id="ctl00_ucSearchForm_PanelSearchForm">
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=dNogMvukGm5UHUH4pek9WA22kHrmyaWYtdydJ8ol3ncJxoL3PRoPx9fi_FFowhg736LuZgVQdB7SycRe4mlM1AlJp-Y1&amp;t=635358926888008750" type="text/javascript"></script>
+    
+    
+    <div class="text_wraper">
+        <div class="main">
+            <a class="logo_image" href="/index.aspx"></a>
+        </div>
+
+        
+        <div id="ctl00_ucSearchForm_PanelSearchForm">
 	
-	<div class="left-search">
-		<div class="right-search">
-			<span class="main-search">
-				<label for="ctl00_ucSearchForm_DropDownListSite" id="ctl00_ucSearchForm_LabelListSiteDescription" class="hidden">Select site from drop down</label>
-				<select name="ctl00$ucSearchForm$DropDownListSite" id="ctl00_ucSearchForm_DropDownListSite">
+     <div class="search_box">
+            <div id="header">
+                <div class="logo">                    
+                </div>
+                <div class="topNav">
+
+                    
+                    <div class="topNavList">
+                        <select name="ctl00$ucSearchForm$DropDownListSite" onchange="javascript:setTimeout('__doPostBack(\'ctl00$ucSearchForm$DropDownListSite\',\'\')', 0)" id="ctl00_ucSearchForm_DropDownListSite" class="selectbox selectBox" style="display: none;">
 		<option selected="selected" value="-1">All</option>
 		<option value="17">3-5 Years</option>
 		<option value="14">5-8 Years</option>
 		<option value="15">8-11 Years</option>
-		<option value="16">11-16 Years</option>
+		<option value="19">11-16 Years</option>
+		<option value="22">16-18 Years</option>
+		<option value="20">Resources</option>
 
-	</select>
-				<input type="submit" name="ctl00$ucSearchForm$ButtonRefreshSections" value="Update" id="ctl00_ucSearchForm_ButtonRefreshSections" class="styled" style="display: none;"><script type="text/javascript">document.getElementById('ctl00_ucSearchForm_ButtonRefreshSections').style.display='none';</script>
-				<label for="ctl00_ucSearchForm_DropDownListSection" id="ctl00_ucSearchForm_LabelListSectionDescription" class="hidden">Select section from drop down</label>
-				<select name="ctl00$ucSearchForm$DropDownListSection" id="ctl00_ucSearchForm_DropDownListSection" class="big-select">
+	</select><a class="selectBox selectbox selectBox-dropdown" style="display: inline-block;" title="" tabindex="0"><span class="selectBox-label">All</span><span class="selectBox-arrow"></span></a>
+				        <input type="submit" name="ctl00$ucSearchForm$ButtonRefreshSections" value="Update" id="ctl00_ucSearchForm_ButtonRefreshSections" class="styled" style="display: none;"><script type="text/javascript">document.getElementById('ctl00_ucSearchForm_ButtonRefreshSections').style.display='none';</script>
+                    </div>
+                    
+                    
+                    <div class="topNavList">
+                        
+        				<select name="ctl00$ucSearchForm$DropDownListSection" id="ctl00_ucSearchForm_DropDownListSection" class="selectbox selectBox" style="display: none;">
 		<option selected="selected" value="-1">All</option>
 
-	</select>
-				<input name="ctl00$ucSearchForm$TextBoxSearch" type="text" id="ctl00_ucSearchForm_TextBoxSearch" class="in-text">
-				<input type="submit" name="ctl00$ucSearchForm$ButtonSearch" value="Search" id="ctl00_ucSearchForm_ButtonSearch" class="styled">
-			</span>
-		</div>
-	</div>
+	</select><a class="selectBox selectbox selectBox-dropdown" style="display: inline-block;" title="" tabindex="0"><span class="selectBox-label">All</span><span class="selectBox-arrow"></span></a>
+                    </div>
+                    
+                    <div class="search">
+                        <input name="ctl00$ucSearchForm$SearchInput" type="text" id="ctl00_ucSearchForm_SearchInput" class="search-input" placeholder="SEARCH THE SITE">
+                    </div>
+                   
+                    <input type="submit" name="ctl00$ucSearchForm$ButtonSearch" value="SEARCH" id="ctl00_ucSearchForm_ButtonSearch" class="search-btn">
+                </div>
+            </div>
+        </div>
 
 </div>
 
-				</div>
-					<div class="right-menu">
-						
-<!-- note layout this control and sections control on one line to avoid unwanted space in rendered code which result in spaces on the front end display!-->
-<ul class="menu"><li class="green"><a href="./index.aspx" class="green-tab">Home</a></li><li id="ctl00_ucSites_repSites_ctl01_listItemSite" class="orange"><a id="ctl00_ucSites_repSites_ctl01_anchorSite" class="orange-tab" href="site.aspx?siteId=17&amp;t=0">3-5 Years</a></li><li id="ctl00_ucSites_repSites_ctl02_listItemSite" class="purple"><a id="ctl00_ucSites_repSites_ctl02_anchorSite" class="purple-tab" href="site.aspx?siteId=14&amp;t=1">5-8 Years</a></li><li id="ctl00_ucSites_repSites_ctl03_listItemSite" class="blue"><a id="ctl00_ucSites_repSites_ctl03_anchorSite" class="blue-tab" href="site.aspx?siteId=15&amp;t=2">8-11 Years</a></li><li id="ctl00_ucSites_repSites_ctl04_listItemSite" class="yellow"><a id="ctl00_ucSites_repSites_ctl04_anchorSite" class="yellow-tab" href="site.aspx?siteId=16&amp;t=3">11-16 Years</a></li></ul><div id="ctl00_ucSites_divempty" class="submenu"><div class="subsubmenu">&nbsp;</div></div>
-					</div>
-			</div>
-			<!-- Content -->
-			<div id="ctl00_divContent" class="content light-blue">
-				<div class="center-block">
-					<div class="lb-blue">
-						<div class="rb-blue">
-							<div class="left-col new-left-c">
-								
-	<div class="mainTitle">
-		<div class="mainTitleTop">
-			&nbsp;</div>
-		<h1>
-			Privacy Statement
-		</h1>
-		<div class="mainTitleBottom">
-			&nbsp;</div>
-	</div>
-	<div class="lt-white new-white">
-		<div class="rt-white">
-			<div class="rb-white">
-				<div class="lb-white">
-					<div class="plain-content">
-						<p>
+       
+        
+        
+
+<ul class="nav">
+
+        <li id="ctl00_ucSites_repSites_ctl00_home_tab" class="green_tab selected"><a href="./index.aspx"><span>HOME</span></a></li>
+    
+        <li id="ctl00_ucSites_repSites_ctl01_listItemSite" class="orange_tab"><a href="site.aspx?siteId=17&amp;t=0" id="ctl00_ucSites_repSites_ctl01_anchorSite"><span>3-5 YEARS</span></a>
+            
+        <ul class="submenu_level1 ">
+    
+        <li><a href="section.aspx?t=0&amp;siteId=17&amp;sectionId=67">
+            12 Food-based sessions</a></li>
+        <li><a href="section.aspx?t=0&amp;siteId=17&amp;sectionId=93">
+            Healthy eating</a></li>
+        <li><a href="section.aspx?t=0&amp;siteId=17&amp;sectionId=94">
+            Cooking</a></li>
+        <li><a href="section.aspx?t=0&amp;siteId=17&amp;sectionId=95">
+            Where food comes from</a></li>
+        <li><a href="section.aspx?t=0&amp;siteId=17&amp;sectionId=74">
+            Recipes</a></li>
+        </ul>
+    
+        </li>
+    
+        <li id="ctl00_ucSites_repSites_ctl02_listItemSite" class="purple_tab"><a href="site.aspx?siteId=14&amp;t=1" id="ctl00_ucSites_repSites_ctl02_anchorSite"><span>5-8 YEARS</span></a>
+            
+        <ul class="submenu_level1 ">
+    
+        <li><a href="section.aspx?t=0&amp;siteId=14&amp;sectionId=61">
+            Healthy Eating</a></li>
+        <li><a href="section.aspx?t=0&amp;siteId=14&amp;sectionId=62">
+            Cooking</a></li>
+        <li><a href="section.aspx?t=0&amp;siteId=14&amp;sectionId=63">
+            Food and Farming</a></li>
+        <li><a href="section.aspx?t=0&amp;siteId=14&amp;sectionId=100">
+            Learn with stories</a></li>
+        </ul>
+    
+        </li>
+    
+        <li id="ctl00_ucSites_repSites_ctl03_listItemSite" class="blue_tab"><a href="site.aspx?siteId=15&amp;t=2" id="ctl00_ucSites_repSites_ctl03_anchorSite"><span>8-11 YEARS</span></a>
+            
+        <ul class="submenu_level1 ">
+    
+        <li><a href="section.aspx?t=0&amp;siteId=15&amp;sectionId=64">
+            Healthy Eating</a></li>
+        <li><a href="section.aspx?t=0&amp;siteId=15&amp;sectionId=65">
+            Cooking</a></li>
+        <li><a href="section.aspx?t=0&amp;siteId=15&amp;sectionId=66">
+            Food and Farming</a></li>
+        <li><a href="section.aspx?t=0&amp;siteId=15&amp;sectionId=101">
+            Learn with stories</a></li>
+        </ul>
+    
+        </li>
+    
+        <li id="ctl00_ucSites_repSites_ctl04_listItemSite" class="yellow_tab orientation_right"><a href="site.aspx?siteId=19&amp;t=3" id="ctl00_ucSites_repSites_ctl04_anchorSite"><span>11-16 YEARS</span></a>
+            
+        <ul class="submenu_level1 ">
+    
+        <li><a href="section.aspx?t=0&amp;siteId=19&amp;sectionId=75">
+            Energy and Nutrients</a></li>
+        <li><a href="section.aspx?t=0&amp;siteId=19&amp;sectionId=81">
+            Diet and Health</a></li>
+        <li><a href="section.aspx?t=0&amp;siteId=19&amp;sectionId=83">
+            Ingredients and Food Science</a></li>
+        <li><a href="section.aspx?t=0&amp;siteId=19&amp;sectionId=92">
+            Food and farming</a></li>
+        <li><a href="section.aspx?t=0&amp;siteId=19&amp;sectionId=96">
+            eSeminars</a></li>
+        <li><a href="section.aspx?t=0&amp;siteId=19&amp;sectionId=97">
+            Ask a Nutritionist</a></li>
+        <li><a href="section.aspx?t=0&amp;siteId=19&amp;sectionId=102">
+            mywellbeing</a></li>
+        <li><a href="section.aspx?t=0&amp;siteId=19&amp;sectionId=108">
+            Cooking</a></li>
+        <li><a href="section.aspx?t=0&amp;siteId=19&amp;sectionId=109">
+            Food processing</a></li>
+        </ul>
+    
+        </li>
+    
+        <li id="ctl00_ucSites_repSites_ctl05_listItemSite" class="pink_tab orientation_right"><a href="site.aspx?siteId=22&amp;t=4" id="ctl00_ucSites_repSites_ctl05_anchorSite"><span>16-18 YEARS</span></a>
+            
+        <ul class="submenu_level1 ">
+    
+        <li><a href="section.aspx?t=0&amp;siteId=22&amp;sectionId=119">
+            Food and farming</a></li>
+        </ul>
+    
+        </li>
+    
+        <li id="ctl00_ucSites_repSites_ctl06_listItemSite" class="light_green_tab orientation_right"><a href="site.aspx?siteId=20&amp;t=5" id="ctl00_ucSites_repSites_ctl06_anchorSite"><span>RESOURCES</span></a>
+            
+        <ul class="submenu_level1 ">
+    
+        <li><a href="section.aspx?t=0&amp;siteId=20&amp;sectionId=80">
+            Food life skills</a></li>
+        <li><a href="section.aspx?t=0&amp;siteId=20&amp;sectionId=82">
+            Cook club</a></li>
+        <li><a href="section.aspx?t=0&amp;siteId=20&amp;sectionId=84">
+            Video podcasts</a></li>
+        <li><a href="section.aspx?t=0&amp;siteId=20&amp;sectionId=85">
+            General resources</a></li>
+        <li><a href="section.aspx?t=0&amp;siteId=20&amp;sectionId=98">
+            Events</a></li>
+        <li><a href="section.aspx?t=0&amp;siteId=20&amp;sectionId=99">
+            Cook Coach</a></li>
+        <li><a href="section.aspx?t=0&amp;siteId=20&amp;sectionId=114">
+            BNF Healthy Eating Week</a></li>
+        <li><a href="section.aspx?t=0&amp;siteId=20&amp;sectionId=115">
+            Nutritional analysis for schools</a></li>
+        <li><a href="section.aspx?t=0&amp;siteId=20&amp;sectionId=116">
+            eSeminars</a></li>
+        <li><a href="section.aspx?t=0&amp;siteId=20&amp;sectionId=117">
+            mywellbeing</a></li>
+        <li><a href="section.aspx?t=0&amp;siteId=20&amp;sectionId=118">
+            National Curriculum Support</a></li>
+        <li><a href="section.aspx?t=0&amp;siteId=20&amp;sectionId=120">
+            CommNet</a></li>
+        </ul>
+    
+        </li>
+    
+</ul>
+    </div>
+    
+
+
+    
+    <div id="ctl00_divTextBody" class="text_body content_wide">
+
+        
+        
+<div class="prev-links">
+	
+			<ul>
+		
+			    <li>
+                    <a href="/Index.aspx">Home</a> 
+                    <span class="prev-links-arrow">&gt;</span> 
+                </li>
+		
+                <li>
+                    <span class="text_black">Privacy Statement</span>
+                </li>
+            </ul>
+		
+</div>
+        
+        
+        <h1 id="ctl00_headingBox" class="heading_box green_heading">
+            Privacy Statement
+        </h1>
+
+        <div class="heigh_wrapper"> 
+            
+
+    <!-- Main column -->
+    <div class="main_text_wrap">
+        <div class="content_wrper_top">
+            <div class="content_wrper_bottom ">
+                <div class="content_wrper_content heading_content">
+                    <p>
 	The Food - a fact of life website has been developed by the British Nutrition Foundation (BNF). BNF has created this privacy statement to demonstrate our firm commitment to users' privacy.</p>
 <h2>
 	Information we collect and how it is used</h2>
@@ -118,164 +360,77 @@
 	Hosting UK<br>
 	Internet Engineering Limited, Richard House, Winckley Square, Preston, PR1 3HP<br>
 	<a href="http://www.hostinguk.com">www.hostinguk.com</a></p>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
+                </div>
+            </div>
+        </div>
+    </div>
 
-							</div>
-							<div class="right-col">
-								
-									
-<div class="orange-block">
-	<div class="lt-orange">
-		<div class="rt-orange">
-			<div class="rb-orange">
-				<div class="lb-orange">
-					<h2>
-						Newsletter
-					</h2>
-					<div id="ctl00_ContentPlaceHolderRight_ucNewsletterForm_pnlNewsletter" class="hidden" style="display: block;">
-	
-						<p>If you would like to receive our free newsletter, please enter your email address below and click Submit.</p>
-						<div class="form-block">
-							<label for="YMLP0" class="hidden">
-								Email:</label>
-							<input type="text" name="YMLP0" id="YMLP0" class="i-text">
-							<input type="submit" name="ctl00$ContentPlaceHolderRight$ucNewsletterForm$btnNewsletter" value="Submit" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ContentPlaceHolderRight$ucNewsletterForm$btnNewsletter&quot;, &quot;&quot;, false, &quot;&quot;, &quot;http://www.ymlp.com/subscribe.php?foodafactoflife&quot;, false, false))" id="ctl00_ContentPlaceHolderRight_ucNewsletterForm_btnNewsletter" class="styled">
-						</div>
-					
-</div>
-						<div id="divSubscribe" style="display: none;">
-							<p>You do not appear to have javascript enabled. If you would like to receive our free newsletter, please <a href="./subscribe.aspx">click here to subscribe</a>.</p>
-						</div>
-				</div>
-			</div>
-		</div>
-	</div>
-</div> 
-									
-<div class="temp">
-		<div class="small-block">
-			<div class="t-small">
-			</div>
-			<div class="bg-sm-block">
-			
-				<div class="block">
-					<a href="QuickLinks.aspx?contentType=3" class="with-img">
-						<img src="./images/pictures/img-1.jpg" alt=""></a>
-					<div class="r-bl">
-						<a href="QuickLinks.aspx?contentType=3" class="blue-link">Watch</a>
-						<p>
-							Cooking videos</p>
-					</div>
-				</div>
-				
-			</div>
-			<div class="b-small">
-			</div>
-		</div>
-		<div class="small-block">
-			<div class="t-small">
-			</div>
-			<div class="bg-sm-block">
-			
-				<div class="block">
-					<a href="QuickLinks.aspx?contentType=1" class="with-img">
-						<img src="./images/pictures/img-2.jpg" alt=""></a>
-					<div class="r-bl">
-						<a href="QuickLinks.aspx?contentType=1" class="blue-link">Try</a>
-						<p>
-							New recipes</p>
-					</div>
-				</div>
-				
-			</div>
-			<div class="b-small">
-			</div>
-		</div>
-		<div class="small-block">
-			<div class="t-small">
-			</div>
-			<div class="bg-sm-block">
-			
-				<div class="block">
-					<a href="QuickLinks.aspx?contentType=2" class="with-img">
-						<img src="./images/pictures/img-3.jpg" alt=""></a>
-					<div class="r-bl">
-						<a href="QuickLinks.aspx?contentType=2" class="blue-link">Play</a>
-						<p>
-							Interactive games</p>
-					</div>
-				</div>
-				
-			</div>
-			<div class="b-small">
-			</div>
-		</div>
 
-</div>
+        </div> 
 
-			
-								
-							</div>
-						</div>
-					</div>
-					
-					
-					
-					
-					<!-- Footer -->
-					<div class="footer">
-						<div class="left-footer">
-							<p>
-								© British Nutrition Foundation 2008</p>
-							<p>
-								<span id="ctl00_LabelUpdatedDate" class="updateddate">Updated on 03/12/2008</span>
-							</p>
-						</div>
-						<div class="right-footer">
-							<ul>
-								<li>
-									<a id="ctl00_HyperLinkPartners" href="KeyPartners.aspx">key partners</a></li>
-								<li>
-									<a id="ctl00_HyperLinkPrivacy" href="Privacy.aspx">privacy disclaimer</a></li>
-								<li>
-									<a id="ctl00_HyperLinkLegal" href="Legal.aspx">legal disclaimer</a></li>
-							</ul>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="relax">
-				&nbsp;</div>
-		
+    </div>
+
+    
+    <div class="footer">
+        <div class="copyright">
+            <span>© British Nutrition Foundation
+            2014</span>
+            <div class="social_bookmark">
+                <span>Follow us</span>
+                <ul>
+                    <li><a href="https://twitter.com/foodafactoflife" class="twitter" title="Follow us on Twitter" target="_blank">Twitter</a></li>
+                    <li><a href="/Rss.ashx" class="rss" title="Subscribe to our RSS feed" target="_blank">RSS</a></li>
+                    <li><a href="https://www.facebook.com/pages/Food-a-fact-of-life/146111858786958" class="fb" title="Like us on Facebook" target="_blank">Facebook</a></li>
+                    <li><a href="http://www.youtube.com/user/BritishNutrition " class="you_tube" title="Subscribe to our YouTube channel" target="_blank">YouTube</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="update_date">
+            <span id="ctl00_LabelUpdatedDate" class="updateddate">Updated on 30/05/2014</span></div>
+        <div class="bottom_links">
+            <a id="ctl00_HyperLinkPartners" class="links" href="KeyPartners.aspx">key partners</a>
+            <a id="ctl00_HyperLinkPrivacy" class="links" href="Privacy.aspx">privacy disclaimer</a>
+            <a id="ctl00_HyperLinkLegal" class="links" href="Legal.aspx">legal disclaimer</a>
+        </div>
+        
+    </div>
+    
+
+    
 <div>
 
-	<input type="hidden" name="__PREVIOUSPAGE" id="__PREVIOUSPAGE" value="91AM25jKtVcY6PLSmFcrxw2">
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWCwL4gYamCwLq//hcAub/0FwC5v/EXALm/8hcAub/zFwCw5LshAcCj8qyjwkCjpGUkQcCxMH9NQLLrKSRBeUs/kK3TzudtEgF131k+goTFqUn">
-</div>
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWDQKSiMeYBgLpkJ6xDALq//hcAub/0FwC5v/EXALm/8hcAub/mF8C5//8XALn//RcAsOS7IQHAo/Kso8JAoaGpZ0LAsTB/TVFgxPfCqKG3idpEEJ2p/hO7MthUQ==">
+</div></form>
 
-<script type="text/javascript">
-//<![CDATA[
-document.getElementById('ctl00_ContentPlaceHolderRight_ucNewsletterForm_pnlNewsletter').style.display = 'Block';document.getElementById('divSubscribe').style.display = 'None';//]]>
-</script>
-</form>
-	</div>
-	
-
-		<script type="text/javascript">
-    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+         <script type="text/javascript">
+		 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 		</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-
 		<script type="text/javascript">
-    var pageTracker = _gat._getTracker("UA-5506257-1");
-    pageTracker._trackPageview();
-		</script>
+        if(readCookie('cookiesAccept')=='1') {
+		    var pageTracker = _gat._getTracker("UA-5506257-1");
+		    pageTracker._trackPageview();
+		    }
+		    else {
+			document.write("");
+			}
+	</script>
 
-	
 
 
-</body></html>
+    
+    
+    
+    
+		<script type="text/javascript">
+            function cookiesDirectiveScriptWrapper(){
+                    }
+        </script>
+        
+        <script type="text/javascript">            cookiesDirective('Privacy.aspx');</script>
+     
+
+
+
+
+<ul class="selectBox-dropdown-menu selectBox-options" style="display: none;"><li class="selectBox-selected"><a rel="-1">All</a></li><li><a rel="17">3-5 Years</a></li><li><a rel="14">5-8 Years</a></li><li><a rel="15">8-11 Years</a></li><li><a rel="19">11-16 Years</a></li><li><a rel="22">16-18 Years</a></li><li><a rel="20">Resources</a></li></ul><ul class="selectBox-dropdown-menu selectBox-options" style="display: none;"><li class="selectBox-selected"><a rel="-1">All</a></li></ul></body></html>
