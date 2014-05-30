@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lookatwhatimade.net privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129100634id_/http%3A//www.lookatwhatimade.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lookatwhatimade.net privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530141517id_/http%3A//www.lookatwhatimade.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Look At What I Made
+# Disclosure and Privacy Policy - Look At What I Made
 
 **0** Flares Twitter 0 Facebook 0 Google+ 0 StumbleUpon 0 LinkedIn 0 Pin It Share 0 Filament.io **0** Flares ×
 
@@ -31,6 +31,10 @@ www.lookatwhatimade.net has no access to or control over these cookies that are 
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.lookatwhatimade.net’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+
+### Amazon Affiliate
+
+Lookatwhatimade is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com.
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at **dedri@lookatwhatimade.net**.
 
