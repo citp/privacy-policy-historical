@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the war4movies.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225075519id_/http%3A//www.war4movies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the war4movies.com privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530112911id_/http%3A//www.war4movies.com/more/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - War4Movies.Com : War4Movies.Com
+# Privacy Policy | War4Movies.Com
 
 This Privacy Policy governs the manner in which War4Movies collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.War4Movies.com/ website (“Site”). This privacy policy applies to the Site and all products and services offered by War4Movies.
 
@@ -49,5 +49,3 @@ War4Movies Team
 http://www.War4movies.com/
 
 War4movies@gmail.com
-
-[](http://www.hupso.com/share/)
