@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the infousa.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215142137id_/http%3A//www.infousa.com/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infousa.com privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530020527id_/http%3A//www.infousa.com/privacy-and-security) for the most accurate reproduction.*
 
 # Privacy and Security | Consumer List | Business Lists | InfoUSA
 
-### PRIVACY & SECURITY
+### InfoUSA Inc. Online and Offline Privacy and Security Policy
 
 InfoUSA is the leading provider of business and consumer information products, database marketing services, data processing services and sales and marketing solutions. Content is the essential ingredient in every marketing program, and InfoUSA has the most comprehensive data in the industry, and is the only company to own a proprietary database of 210 million U.S. consumers and 14 million U.S. businesses. The InfoUSA database powers the directory services of the top Internet traffic-generating sites. Nearly 4 million customers use InfoUSA's products and services to find new customers, grow their sales, and for other direct telemarketing, customer analysis and credit reference purposes.
 
