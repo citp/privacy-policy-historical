@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gleemax.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209083740id_/http%3A//company.wizards.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gleemax.com privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530171200id_/http%3A//company.wizards.com/privacy) for the most accurate reproduction.*
 
 # Privacy | company.wizards.com
 
@@ -284,7 +284,7 @@ Other countries: (425) 204-8069
 
 **Submit a help request** (requires creating an account or signing in to your account): <http://wizards.custhelp.com/>
 
-We reserve the right to change this statement at any time, so visit this page from time to time to check for changes. For additional information about our web sites, please see our [Terms and Conditions of Use.](https://web.archive.org/web/20131209083740id_/http%3A//company.wizards.com/tou)
+We reserve the right to change this statement at any time, so visit this page from time to time to check for changes. For additional information about our web sites, please see our [Terms and Conditions of Use.](https://web.archive.org/web/20140530171200id_/http%3A//company.wizards.com/tou)
 
 Back to top
 
