@@ -1,416 +1,530 @@
-<!--The following is the downloaded HTML source of the fxboost.com privacy policy that was archived on 2011-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fxboost.com privacy policy that was archived on 2014-05-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140530170550id_/http%3A//www.fxboost.com/privacyy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><link rel="Stylesheet" type="text/css" href="http://img2.wsimg.com/fos/css/1/sales_http_20110504ak.css"><title>
-	Legal Agreement
-</title>
-    
-	<script type="text/javascript">
-		function pageLoad(sender, args) {
-			if(typeof Content_pageLoad == 'function')
-				Content_pageLoad(sender, args);
-		}
-	</script>
+<!DOCTYPE html><html lang="en"><head>
+	<meta charset="utf-8">
+    <title>FxBoost - Forex Trading Social Network, Forex Trading tool, Automated Trading analytical tool</title>
+
+
+	<meta name="Keywords" content="forex trading social network, forex introducing brokers , forex, trading systems, forex signal, forex dealing, online currency trading, forex online trading systems, forex trading, autotrade, forex forum, forex community,economic calendar, forex news, metatrader, automated trading, fxgame, fxtrade,forex calendar, forex analytics">
+
+	<link href="favicon.ico" type="image/x-icon" rel="shortcut icon">
+
+	<!-- Styles -->
+	<link href="css/bootstrap.min.css" rel="stylesheet">
+	<link rel="stylesheet" href="css/nivo-light/light.css">
+	<link href="css/nivo-slider.css" rel="stylesheet">
+	<link href="css/custom.css" rel="stylesheet">
+
+    <style>
+    .clock td
+    {
+       font-size:xx-small;
+    }
+
+    </style>
+
+	<!--[if lt IE 9]>
+		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+       <script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="js/jquery-1.8.1.min.js" type="text/javascript"></script>
+        
+        <link href="css/reveal.css" rel="stylesheet" type="text/css">
+    <script src="js/jquery.reveal.js" type="text/javascript"></script>
+    <script>
+        var my_clientID = '';
+        var chineseflag = '';
+
+
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+        (function () {
+            var gads = document.createElement('script');
+            gads.async = true;
+            gads.type = 'text/javascript';
+            var useSSL = 'https:' == document.location.protocol;
+            gads.src = (useSSL ? 'https:' : 'http:') +
+        '//www.googletagservices.com/tag/js/gpt.js';
+            var node = document.getElementsByTagName('script')[0];
+            node.parentNode.insertBefore(gads, node);
+        })();
+
+        googletag.cmd.push(function () {
+            googletag.defineSlot('/53795733/Affi_Left01_230x250', [230, 250], 'div-gpt-ad-1399480336209-0').addService(googletag.pubads());
+            googletag.defineSlot('/53795733/Affi_Left02_230x600', [230, 600], 'div-gpt-ad-1399480336209-1').addService(googletag.pubads());
+            googletag.defineSlot('/53795733/Affi_Text_230x200', [230, 200], 'div-gpt-ad-1399480336209-2').addService(googletag.pubads());
+            googletag.defineSlot('/53795733/Affi_Top_728x90', [728, 90], 'div-gpt-ad-1399480336209-3').addService(googletag.pubads());
+            googletag.pubads().enableSingleRequest();
+            googletag.enableServices();
+        });
+
+
+
+        function signinclick() {
+
+            window.location = "signin.aspx";
+        }
+
+        function registerclick() {
+
+            window.location = "register.aspx";
+        }
+
+
+        function registerclick() {
+
+            window.location = "register.aspx";
+        }
+
+        function loadTranslation(type) {
+            // var sessionvalue = '';
+            console.log("type" + type);
+            $.ajax({
+                async: false,
+                url: '../SiteMasterService.asmx/loadchineseTranslation',
+                type: 'POST',
+                contentType: 'application/json',
+                data: JSON.stringify({ language: type }),
+                success: function (result) {
+                    // alert("result.d = " + result.d);
+                    //conso chineseflag
+                    if (type == 'cn')
+                        window.location.href = 'http://cn.fxboost.com/default.aspx';
+                    else
+                        window.location.href = 'http://www.fxboost.com/default.aspx';
+                },
+                error: function (result) {
+
+                }
+            });
+        }
+
+
+        function commaSeparateNumber(val) {
+            if (val != null) {
+                while (/(\d+)(\d{3})/.test(val.toString())) {
+                    val = val.toString().replace(/(\d+)(\d{3})/, '$1' + ',' + '$2');
+                }
+            }
+            return val;
+        }
+
+
+        function get_notification() {
+            var type = document.getElementById("notificationDropDown");
+            var selectedType = type.options[type.selectedIndex].value;
+
+            $.ajax({
+                url: '../SiteMasterService.asmx/Get_Notification',
+                type: 'POST',
+                contentType: 'application/json',
+                data: JSON.stringify({ ClientID: my_clientID, TypeSelected: selectedType }),
+                success: function (result) {
+                    if (result != null) {
+                        var res = result.d;
+                        $("#notificationTable").empty();
+                        if (res.length > 0) {
+                            document.getElementById("notificationTableHeader").innerHTML = "Notifications";
+                            // alert(res +"\n"+res.length/11);
+                            for (var i = 0; i < res.length; i++) {
+
+                                var NotificationID = res[i++];
+                                var MyClientID = res[i++];
+                                var ClientID = res[i++];
+                                var Action = res[i++];
+                                var PostID = res[i++];
+                                var IsRead = res[i++];
+                                var ImageURL = res[i++];
+                                var UserName = res[i++];
+                                var Comment = res[i++];
+                                var IsComment = res[i++];
+                                var CreationDate = res[i++];
+                                var username = res[i];
+
+                                var usernameActionOn = "your";
+                                var usernamefc = "you";
+                                if (my_clientID != MyClientID) {
+                                    usernameActionOn = username;
+                                    usernamefc = username;
+                                }
+
+                                if (Action == 44) {
+                                    if (IsRead == 0)
+                                        $("#notificationTable").append("<div onMouseOver='highlightBG(this,\"" + NotificationID + "\")' class='notify-item active'><div class='notify-avatar'><img src='Image/" + ImageURL + "' class='user-icon busy' border='0'  style='width:60px;height:60px;'/></div><div class='notify-content'><div class='notify-text'><span class='notify-bold'>" + UserName + " you don't have enough funds in your social account to autocopy. please fund your account to autocopy.</span></div><div class='notify-extra'><span class='notify-time'>" + CreationDate + "</span></div></div></div>");
+                                    else if (IsRead == 1)
+                                        $("#notificationTable").append("<div onMouseOver='highlightBG(this,\"" + NotificationID + "\")' class='notify-item'><div class='notify-avatar'><img src='Image/" + ImageURL + "' class='user-icon busy' border='0'  style='width:60px;height:60px;'/></div><div class='notify-content'><div class='notify-text'><span class='notify-bold'>" + UserName + " you don't have enough funds in your social account to autocopy. please fund your account to autocopy.</span></div><div class='notify-extra'><span class='notify-time'>" + CreationDate + "</span></div></div></div>");
+
+                                } else if (Action == 55) {
+                                    if (IsRead == 0)
+                                        $("#notificationTable").append("<div onMouseOver='highlightBG(this,\"" + NotificationID + "\")' class='notify-item active'><div class='notify-avatar'><img src='Image/" + ImageURL + "' class='user-icon busy' border='0'  style='width:60px;height:60px;'/></div><div class='notify-content'><div class='notify-text'><span class='notify-bold'>" + Comment + "</span></div><div class='notify-extra'><span class='notify-time'>" + CreationDate + "</span></div></div></div>");
+                                    else if (IsRead == 1)
+                                        $("#notificationTable").append("<div onMouseOver='highlightBG(this,\"" + NotificationID + "\")' class='notify-item'><div class='notify-avatar'><img src='Image/" + ImageURL + "' class='user-icon busy' border='0'  style='width:60px;height:60px;'/></div><div class='notify-content'><div class='notify-text'><span class='notify-bold'>" + Comment + "</span></div><div class='notify-extra'><span class='notify-time'>" + CreationDate + "</span></div></div></div>");
+
+                                } else if (Action == 0) {
+                                    if (IsRead == 0)
+                                        $("#notificationTable").append("<div onMouseOver='highlightBG(this,\"" + NotificationID + "\")' class='notify-item active'><div class='notify-avatar'><img src='Image/" + ImageURL + "' class='user-icon busy' border='0'  style='width:60px;height:60px;'/></div><div class='notify-content'><div class='notify-text'><span class='notify-bold'>" + UserName + " send you an offline message.</span></div><div class='notify-extra'><span class='notify-time'>" + CreationDate + "</span></div></div></div>");
+                                    else if (IsRead == 1)
+                                        $("#notificationTable").append("<div onMouseOver='highlightBG(this,\"" + NotificationID + "\")' class='notify-item'><div class='notify-avatar'><img src='Image/" + ImageURL + "' class='user-icon busy' border='0'  style='width:60px;height:60px;'/></div><div class='notify-content'><div class='notify-text'><span class='notify-bold'>" + UserName + " send you an offline message.</span></div><div class='notify-extra'><span class='notify-time'>" + CreationDate + "</span></div></div></div>");
+
+                                }
+                                else if (Action == 1) {
+                                    if (IsRead == 0)
+                                        $("#notificationTable").append("<div onMouseOver='highlightBG(this,\"" + NotificationID + "\")' onclick='goNotification(this,\"" + NotificationID + "\")' class='notify-item active'><div class='notify-avatar'><img src='Image/" + ImageURL + "' class='user-icon busy' border='0'  style='width:60px;height:60px;'/></div><div class='notify-content'><div class='notify-text'><span class='notify-bold'>" + UserName + "</span> following " + usernamefc + "</div><div class='notify-extra'><span class='notify-time'>" + CreationDate + "</span></div></div></div>");
+                                    else if (IsRead == 1)
+                                        $("#notificationTable").append("<div onMouseOver='highlightBG(this,\"" + NotificationID + "\")' onclick='goNotification(this,\"" + NotificationID + "\")' class='notify-item'><div class='notify-avatar'><img src='Image/" + ImageURL + "' class='user-icon busy' border='0'  style='width:60px;height:60px;'/></div><div class='notify-content'><div class='notify-text'><span class='notify-bold'>" + UserName + "</span> following " + usernamefc + "</div><div class='notify-extra'><span class='notify-time'>" + CreationDate + "</span></div></div></div>");
+
+                                } else if (Action == 2) {
+                                    if (IsRead == 0) {
+                                        $("#notificationTable").append("<div onMouseOver='highlightBG(this,\"" + NotificationID + "\")' onclick='goNotification(this,\"" + NotificationID + "\")' class='notify-item active'><div class='notify-avatar'><img src='Image/" + ImageURL + "' class='user-icon busy' border='0'  style='width:60px;height:60px;'/></div><div class='notify-content'><div class='notify-text'><span class='notify-bold'>" + UserName + "</span> autocopy " + usernameActionOn + " acccount " + Comment + "</div><div class='notify-extra'><span class='notify-time'>" + CreationDate + "</span></div></div></div>");
+                                    }
+                                    else if (IsRead == 1) {
+                                        $("#notificationTable").append("<div onMouseOver='highlightBG(this,\"" + NotificationID + "\")' onclick='goNotification(this,\"" + NotificationID + "\")' class='notify-item'><div class='notify-avatar'><img src='Image/" + ImageURL + "' class='user-icon busy' border='0'  style='width:60px;height:60px;'/></div><div class='notify-content'><div class='notify-text'><span class='notify-bold'>" + UserName + "</span> autocopy " + usernameActionOn + " acccount " + Comment + "</div><div class='notify-extra'><span class='notify-time'>" + CreationDate + "</span></div></div></div>");
+                                    }
+                                } else if (Action == 3) {
+                                    if (IsRead == 0)
+                                        if (IsComment == 1)
+                                            $("#notificationTable").append("<div onMouseOver='highlightBG(this,\"" + NotificationID + "\")' onclick='goNotification(this,\"" + NotificationID + "\")' class='notify-item active'><div class='notify-avatar'><img src='Image/" + ImageURL + "' class='user-icon busy' border='0'  style='width:60px;height:60px;'/></div><div class='notify-content'><div class='notify-text'><span class='notify-bold'>" + UserName + "</span> add a post " + Comment + "</div><div class='notify-extra'><img src='img/ico/fx_comment.png' border='0' /> <span class='notify-time'>" + CreationDate + "</span></div></div></div>");
+                                        else
+                                            $("#notificationTable").append("<div onMouseOver='highlightBG(this,\"" + NotificationID + "\")' onclick='goNotification(this,\"" + NotificationID + "\")' class='notify-item active'><div class='notify-avatar'><img src='Image/" + ImageURL + "'  class='user-icon busy' border='0' style='width:60px;height:60px;'/></div><div class='notify-content'><div class='notify-text'><span class='notify-bold'>" + UserName + "</span> add a post " + Comment + "</div><div class='notify-extra'><img src='img/ico/fx_comment.png' border='0' /> <span class='notify-time'>" + CreationDate + "</span></div></div><div class='notify-image'><img src='Image/" + Comment + "' border='0'style=' width:60px;height:60px;' /></div></div>");
+
+                                    else if (IsRead == 1)
+                                        if (IsComment == 1)
+                                            $("#notificationTable").append("<div onMouseOver='highlightBG(this,\"" + NotificationID + "\")' onclick='goNotification(this,\"" + NotificationID + "\")' class='notify-item'><div class='notify-avatar'><img src='Image/" + ImageURL + "' class='user-icon busy' border='0'  style='width:60px;height:60px;'/></div><div class='notify-content'><div class='notify-text'><span class='notify-bold'>" + UserName + "</span> add a post " + Comment + "</div><div class='notify-extra'><img src='img/ico/fx_comment.png' border='0' /> <span class='notify-time'>" + CreationDate + "</span></div></div></div>");
+                                        else
+                                            $("#notificationTable").append("<div onMouseOver='highlightBG(this,\"" + NotificationID + "\")' onclick='goNotification(this,\"" + NotificationID + "\")' class='notify-item'><div class='notify-avatar'><img src='Image/" + ImageURL + "'  class='user-icon busy' border='0' style='width:60px;height:60px;'/></div><div class='notify-content'><div class='notify-text'><span class='notify-bold'>" + UserName + "</span> add a post " + Comment + "</div><div class='notify-extra'><img src='img/ico/fx_comment.png' border='0' /> <span class='notify-time'>" + CreationDate + "</span></div></div><div class='notify-image'><img src='Image/" + Comment + "' border='0'style=' width:60px;height:60px;' /></div></div>");
+                                } else if (Action == 4) {
+                                    if (IsRead == 0)
+                                        if (IsComment == 1)
+                                            $("#notificationTable").append("<div onMouseOver='highlightBG(this,\"" + NotificationID + "\")' onclick='goNotification(this,\"" + NotificationID + "\")' class='notify-item active'><div class='notify-avatar'><img src='Image/" + ImageURL + "' class='user-icon busy' border='0'  style='width:60px;height:60px;'/></div><div class='notify-content'><div class='notify-text'><span class='notify-bold'>" + UserName + "</span> commented on " + usernameActionOn + " post; " + Comment + "</div><div class='notify-extra'><img src='img/ico/fx_comment.png' border='0' /> <span class='notify-time'>" + CreationDate + "</span></div></div></div>");
+                                        else
+                                            $("#notificationTable").append("<div onMouseOver='highlightBG(this,\"" + NotificationID + "\")' onclick='goNotification(this,\"" + NotificationID + "\")' class='notify-item active'><div class='notify-avatar'><img src='Image/" + ImageURL + "'  class='user-icon busy' border='0' style='width:60px;height:60px;'/></div><div class='notify-content'><div class='notify-text'><span class='notify-bold'>" + UserName + "</span> commented on " + usernameActionOn + " post; </div><div class='notify-extra'><img src='img/ico/fx_comment.png' border='0' /> <span class='notify-time'>" + CreationDate + "</span></div></div><div class='notify-image'><img src='Image/" + Comment + "' border='0'style=' width:60px;height:60px;' /></div></div>");
+                                    else if (IsRead == 1)
+                                        if (IsComment == 1)
+                                            $("#notificationTable").append("<div onMouseOver='highlightBG(this,\"" + NotificationID + "\")' onclick='goNotification(this,\"" + NotificationID + "\")' class='notify-item'><div class='notify-avatar'><img src='Image/" + ImageURL + "' class='user-icon busy' border='0'  style='width:60px;height:60px;'/></div><div class='notify-content'><div class='notify-text'><span class='notify-bold'>" + UserName + "</span> commented on " + usernameActionOn + " post; " + Comment + "</div><div class='notify-extra'><img src='img/ico/fx_comment.png' border='0' /> <span class='notify-time'>" + CreationDate + "</span></div></div></div>");
+                                        else
+                                            $("#notificationTable").append("<div onMouseOver='highlightBG(this,\"" + NotificationID + "\")' onclick='goNotification(this,\"" + NotificationID + "\")' class='notify-item'><div class='notify-avatar'><img src='Image/" + ImageURL + "'  class='user-icon busy' border='0' style='width:60px;height:60px;'/></div><div class='notify-content'><div class='notify-text'><span class='notify-bold'>" + UserName + "</span> commented on " + usernameActionOn + " post;</div><div class='notify-extra'><img src='img/ico/fx_comment.png' border='0' /> <span class='notify-time'>" + CreationDate + "</span></div></div><div class='notify-image'><img src='Image/" + Comment + "' border='0' style='width:60px;height:60px;'/></div></div>");
+                                }
+                                else if (Action == 5) {
+                                    if (IsRead == 0)
+                                        $("#notificationTable").append("<div onMouseOver='highlightBG(this,\"" + NotificationID + "\")' onclick='goNotification(this,\"" + NotificationID + "\")' class='notify-item active'><div class='notify-avatar'><img src='Image/" + ImageURL + "' class='user-icon busy' border='0'  style='width:60px;height:60px;'/></div><div class='notify-content'><div class='notify-text'><span class='notify-bold'>" + UserName + "</span> commented on " + usernameActionOn + " trade; " + Comment + "</div><div class='notify-extra'><img src='img/ico/fx_comment.png' border='0' /><span class='notify-time'>" + CreationDate + "</span></div></div></div>");
+                                    else if (IsRead == 1)
+                                        $("#notificationTable").append("<div onMouseOver='highlightBG(this,\"" + NotificationID + "\")' onclick='goNotification(this,\"" + NotificationID + "\")' class='notify-item'><div class='notify-avatar'><img src='Image/" + ImageURL + "' class='user-icon busy' border='0'  style='width:60px;height:60px;'/></div><div class='notify-content'><div class='notify-text'><span class='notify-bold'>" + UserName + "</span> commented on " + usernameActionOn + " trade; " + Comment + "</div><div class='notify-extra'><img src='img/ico/fx_comment.png' border='0' /> <span class='notify-time'>" + CreationDate + "</span></div></div></div>");
+
+                                }
+                                else if (Action == 6) {
+                                    if (IsRead == 0)
+                                        if (IsComment == 1)
+                                            $("#notificationTable").append("<div onMouseOver='highlightBG(this,\"" + NotificationID + "\")' onclick='goNotification(this,\"" + NotificationID + "\")' class='notify-item active'><div class='notify-avatar'><img src='Image/" + ImageURL + "' class='user-icon busy' border='0'  style='width:60px;height:60px;'/></div><div class='notify-content'><div class='notify-text'><span class='notify-bold'>" + UserName + "</span> liked " + usernameActionOn + " post; " + Comment + "</div><div class='notify-extra'><img src='img/ico/fx_like.png' border='0' /> <span class='notify-time'>" + CreationDate + "</span></div></div></div>");
+                                        else
+                                            $("#notificationTable").append("<div onMouseOver='highlightBG(this,\"" + NotificationID + "\")' onclick='goNotification(this,\"" + NotificationID + "\")' class='notify-item active'><div class='notify-avatar'><img src='Image/" + ImageURL + "'  class='user-icon busy' border='0' style='width:60px;height:60px;'/></div><div class='notify-content'><div class='notify-text'><span class='notify-bold'>" + UserName + "</span> liked " + usernameActionOn + " post;</div><div class='notify-extra'><img src='img/ico/fx_like.png' border='0' /> <span class='notify-time'>" + CreationDate + "</span></div></div><div class='notify-image'><img src='Image/" + Comment + "' border='0'style=' width:60px;height:60px;' /></div></div>");
+                                    else if (IsRead == 1)
+                                        if (IsComment == 1)
+                                            $("#notificationTable").append("<div onMouseOver='highlightBG(this,\"" + NotificationID + "\")' onclick='goNotification(this,\"" + NotificationID + "\")' class='notify-item'><div class='notify-avatar'><img src='Image/" + ImageURL + "' class='user-icon busy' border='0'  style='width:60px;height:60px;'/></div><div class='notify-content'><div class='notify-text'><span class='notify-bold'>" + UserName + "</span> liked " + usernameActionOn + " post; " + Comment + "</div><div class='notify-extra'><img src='img/ico/fx_like.png' border='0' /> <span class='notify-time'>" + CreationDate + "</span></div></div></div>");
+                                        else
+                                            $("#notificationTable").append("<div onMouseOver='highlightBG(this,\"" + NotificationID + "\")' onclick='goNotification(this,\"" + NotificationID + "\")' class='notify-item'><div class='notify-avatar'><img src='Image/" + ImageURL + "'  class='user-icon busy' border='0' style='width:60px;height:60px;'/></div><div class='notify-content'><div class='notify-text'><span class='notify-bold'>" + UserName + "</span> liked " + usernameActionOn + " post;</div><div class='notify-extra'><img src='img/ico/fx_like.png' border='0' /> <span class='notify-time'>" + CreationDate + "</span></div></div><div class='notify-image'><img src='Image/" + Comment + "' border='0' style='width:60px;height:60px;'/></div></div>");
+                                }
+                                else if (Action == 7) {
+                                    if (IsRead == 0)
+                                        $("#notificationTable").append("<div onMouseOver='highlightBG(this,\"" + NotificationID + "\")' onclick='goNotification(this,\"" + NotificationID + "\")' class='notify-item active'><div class='notify-avatar'><img src='Image/" + ImageURL + "' class='user-icon busy' border='0'  style='width:60px;height:60px;'/></div><div class='notify-content'><div class='notify-text'><span class='notify-bold'>" + UserName + "</span> liked " + usernameActionOn + " trade; " + Comment + "</div><div class='notify-extra'><img src='img/ico/fx_like.png' border='0' /> <span class='notify-time'>" + CreationDate + "</span></div></div></div>");
+                                    else if (IsRead == 1)
+                                        $("#notificationTable").append("<div onMouseOver='highlightBG(this,\"" + NotificationID + "\")' onclick='goNotification(this,\"" + NotificationID + "\")' class='notify-item '><div class='notify-avatar'><img src='Image/" + ImageURL + "' class='user-icon busy' border='0'  style='width:60px;height:60px;'/></div><div class='notify-content'><div class='notify-text'><span class='notify-bold'>" + UserName + "</span> liked " + usernameActionOn + " trade; " + Comment + "</div><div class='notify-extra'><img src='img/ico/fx_like.png' border='0' /> <span class='notify-time'>" + CreationDate + "</span></div></div></div>");
+                                }
+                                else if (Action == 8 || Action == 14) {
+                                    if (IsRead == 0)
+                                        $("#notificationTable").append("<div onMouseOver='highlightBG(this,\"" + NotificationID + "\")' onclick='goNotification(this,\"" + NotificationID + "\")' class='notify-item active'><div class='notify-avatar'><img src='Image/" + ImageURL + "' class='user-icon busy' border='0'  style='width:60px;height:60px;'/></div><div class='notify-content'><div class='notify-text'><span class='notify-bold'>" + UserName + "</span> liked " + usernameActionOn + " comment; " + Comment + "</div><div class='notify-extra'><img src='img/ico/fx_like.png' border='0' /> <span class='notify-time'>" + CreationDate + "</span></div></div></div>");
+                                    else if (IsRead == 1)
+                                        $("#notificationTable").append("<div onMouseOver='highlightBG(this,\"" + NotificationID + "\")' onclick='goNotification(this,\"" + NotificationID + "\")' class='notify-item'><div class='notify-avatar'><img src='Image/" + ImageURL + "' class='user-icon busy' border='0'  style='width:60px;height:60px;'/></div><div class='notify-content'><div class='notify-text'><span class='notify-bold'>" + UserName + "</span> liked " + usernameActionOn + " comment; " + Comment + "</div><div class='notify-extra'><img src='img/ico/fx_like.png' border='0' /> <span class='notify-time'>" + CreationDate + "</span></div></div></div>");
+                                }
+                                else if (Action == 9) {
+                                    if (IsRead == 0)
+                                        $("#notificationTable").append("<div onMouseOver='highlightBG(this,\"" + NotificationID + "\")' onclick='goNotification(this,\"" + NotificationID + "\")' class='notify-item active'><div class='notify-avatar'><img src='Image/" + ImageURL + "' class='user-icon busy' border='0'  style='width:60px;height:60px;'/></div><div class='notify-content'><div class='notify-text'><span class='notify-bold'>" + UserName + "</span> add a trade " + Comment + "</div><div class='notify-extra'><img src='img/ico/fx_comment.png' border='0' /> <span class='notify-time'>" + CreationDate + "</span></div></div></div>");
+                                    else if (IsRead == 1)
+                                        $("#notificationTable").append("<div onMouseOver='highlightBG(this,\"" + NotificationID + "\")' onclick='goNotification(this,\"" + NotificationID + "\")' class='notify-item'><div class='notify-avatar'><img src='Image/" + ImageURL + "' class='user-icon busy' border='0'  style='width:60px;height:60px;'/></div><div class='notify-content'><div class='notify-text'><span class='notify-bold'>" + UserName + "</span> add a trade " + Comment + "</div><div class='notify-extra'><img src='img/ico/fx_comment.png' border='0' /> <span class='notify-time'>" + CreationDate + "</span></div></div></div>");
+                                    //onMouseOver='highlightBG(this,\"" + NotificationID + "\")'
+                                }
+                                else if (Action == 11) {
+                                    if (IsRead == 0)
+                                        if (IsComment == 1)
+                                            $("#notificationTable").append("<div onMouseOver='highlightBG(this,\"" + NotificationID + "\")' onclick='goNotification(this,\"" + NotificationID + "\")' class='notify-item active'><div class='notify-avatar'><img src='Image/" + ImageURL + "' class='user-icon busy' border='0'  style='width:60px;height:60px;'/></div><div class='notify-content'><div class='notify-text'><span class='notify-bold'>" + UserName + "</span> quote on " + usernameActionOn + " post; " + Comment + "</div><div class='notify-extra'><img src='img/ico/fx_comment.png' border='0' /> <span class='notify-time'>" + CreationDate + "</span></div></div></div>");
+                                        else
+                                            $("#notificationTable").append("<div onMouseOver='highlightBG(this,\"" + NotificationID + "\")' onclick='goNotification(this,\"" + NotificationID + "\")' class='notify-item active'><div class='notify-avatar'><img src='Image/" + ImageURL + "'  class='user-icon busy' border='0' style='width:60px;height:60px;'/></div><div class='notify-content'><div class='notify-text'><span class='notify-bold'>" + UserName + "</span> quote on " + usernameActionOn + " post; </div><div class='notify-extra'><img src='img/ico/fx_comment.png' border='0' /> <span class='notify-time'>" + CreationDate + "</span></div></div><div class='notify-image'><img src='Image/" + Comment + "' border='0'style=' width:60px;height:60px;' /></div></div>");
+                                    else if (IsRead == 1)
+                                        if (IsComment == 1)
+                                            $("#notificationTable").append("<div onMouseOver='highlightBG(this,\"" + NotificationID + "\")' onclick='goNotification(this,\"" + NotificationID + "\")' class='notify-item'><div class='notify-avatar'><img src='Image/" + ImageURL + "' class='user-icon busy' border='0'  style='width:60px;height:60px;'/></div><div class='notify-content'><div class='notify-text'><span class='notify-bold'>" + UserName + "</span> quote on " + usernameActionOn + " post; " + Comment + "</div><div class='notify-extra'><img src='img/ico/fx_comment.png' border='0' /> <span class='notify-time'>" + CreationDate + "</span></div></div></div>");
+                                        else
+                                            $("#notificationTable").append("<div onMouseOver='highlightBG(this,\"" + NotificationID + "\")' onclick='goNotification(this,\"" + NotificationID + "\")' class='notify-item'><div class='notify-avatar'><img src='Image/" + ImageURL + "'  class='user-icon busy' border='0' style='width:60px;height:60px;'/></div><div class='notify-content'><div class='notify-text'><span class='notify-bold'>" + UserName + "</span> quote on " + usernameActionOn + " post;</div><div class='notify-extra'><img src='img/ico/fx_comment.png' border='0' /> <span class='notify-time'>" + CreationDate + "</span></div></div><div class='notify-image'><img src='Image/" + Comment + "' border='0' style='width:60px;height:60px;'/></div></div>");
+                                }
+
+                            }
+                        } else {
+                            //$("#notificationType").remove();
+                            document.getElementById("notificationTableHeader").innerHTML = "No Notification To Load...";
+                        }
+                        //   showNotification();
+                    }
+                },
+                error: function (result) {
+                    //  alert("error orphan/lost notification");
+                }
+            });
+        }
+
+        function highlightBG(element, notificationID) {
+            readedNotificationID.push(notificationID);
+            setTimeout(function () { element.style.backgroundColor = 'white'; }, 2000);
+        }
+
+        function goNotification(element, notificationID) {
+            window.location = "notification.aspx?NID=" + notificationID;
+        }
+
+
+        function accountonline() {
+            var cid = '';
+            $.ajax({
+                url: '../SiteMasterService.asmx/numberOfNotification',
+                type: 'POST',
+                contentType: 'application/json',
+                data: JSON.stringify({ ClientID: cid }),
+                success: function (result) {
+                    var notificationNumber = result.d;
+
+                    if ($("#notificationNumber") != null) {
+                        if (notificationNumber == "0") {
+                            $("#notificationNumber").text(notificationNumber);
+                            $("#notificationNumber").css('display', 'none');
+                            //$("#notificationNumber").fadeOut().empty();
+                        }
+                        else {
+                            //$("#notificationNumber").fadein().empty();
+                            $("#notificationNumber").css('display', '');
+                            $("#notificationNumber").text(notificationNumber);
+                        }
+                    }
+
+                },
+                error: function (result) {
+                }
+            });
+        }
+        var accountonlineinterval = setInterval(function () {
+            if ('' != null && '' != "")
+                accountonline();
+        }, 15000);
+
+        </script>
+
+        <script type="text/javascript">
+            function googleTranslateElementInit() {
+                new google.translate.TranslateElement({ pageLanguage: 'en', includedLanguages: 'ar,de,es,fa,fi,fr,hu,id,it,iw,ja,ko,ms,no,pl,pt,ro,ru,sv,th,tr,uk,vi,yi', multilanguagePage: true }, 'google_translate_element');
+            }
+    </script>
+    <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+    <meta name="google-translate-customization" content="729450a5349ebb5e-5d78266e8f7061f3-gbbcd3f0547105361-f">
+
 </head>
-<body id="ctl00_PageBody" style="width: 100%; margin: 0px;">
-  
-<script src="http://img3.wsimg.com/AtlantisScripts/jquery/jquery-1.3.1.min.js" type="text/javascript"></script>
-  
-	
-	
-<script type="text/javascript" language="javascript" src="http://img.godaddy.com/JS_Lib/traffic.js"></script>
 
-<img src="http://img.godaddy.com/image.aspx?sitename=www.godaddy.com&amp;server=M1PWCORPWEB152&amp;privatelabelid=1&amp;status=200&amp;rand=0.812901643017727&amp;page=%2fagreements%2fShowDoc.aspx&amp;split=81&amp;querystring=pageid%3dprivacy_parkedpage" alt="" class="traffic">
+<body class="current-trader profile contact">
+<form method="post" action="privacyy.aspx" id="Form2">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTExMjAyMTcwMzYPZBYGZg8WAh4EVGV4dAVdRnhCb29zdCAtIEZvcmV4IFRyYWRpbmcgU29jaWFsIE5ldHdvcmssIEZvcmV4IFRyYWRpbmcgdG9vbCwgQXV0b21hdGVkIFRyYWRpbmcgYW5hbHl0aWNhbCB0b29sZAIBDxYCHwAF7AI8bWV0YSBuYW1lPSdLZXl3b3JkcycgY29udGVudD0nZm9yZXggdHJhZGluZyBzb2NpYWwgbmV0d29yaywgZm9yZXggaW50cm9kdWNpbmcgYnJva2VycyAsIGZvcmV4LCB0cmFkaW5nIHN5c3RlbXMsIGZvcmV4IHNpZ25hbCwgZm9yZXggZGVhbGluZywgb25saW5lIGN1cnJlbmN5IHRyYWRpbmcsIGZvcmV4IG9ubGluZSB0cmFkaW5nIHN5c3RlbXMsIGZvcmV4IHRyYWRpbmcsIGF1dG90cmFkZSwgZm9yZXggZm9ydW0sIGZvcmV4IGNvbW11bml0eSxlY29ub21pYyBjYWxlbmRhciwgZm9yZXggbmV3cywgbWV0YXRyYWRlciwgYXV0b21hdGVkIHRyYWRpbmcsIGZ4Z2FtZSwgZnh0cmFkZSxmb3JleCBjYWxlbmRhciwgZm9yZXggYW5hbHl0aWNzJy8+ZAICD2QWBgIDDxYCHwAF9wY8bGk+PGEgaHJlZj0namF2YXNjcmlwdDp2b2lkKDApJyBpZD0nZngtbWVudS1hY2MnPk15IGZ4Qk9PU1QgQWNjb3VudDwvYT4gPHVsIGlkPSdkZC1zdWItYWNjb3VudCc+PGxpPjxhIGhyZWY9J3JlcG9ydHMuYXNweCc+UmVwb3J0czwvYT48L2xpPiA8bGk+PGEgaHJlZj0ndHJhZGluZy1hY3Rpdml0eS5hc3B4Jz5UcmFkaW5nIEFjdGl2aXR5IGFuZCBTdGF0czwvYT48L2xpPiAgPGxpPjxhIGhyZWY9J2RlcG9zaXQuYXNweCc+RGVwb3NpdDwvYT48L2xpPiAgPGxpPjxhIGhyZWY9J3dpdGgtZHJhd2FsLmFzcHgnPldpdGhkcmF3YWw8L2E+PC9saT4gIDwvdWw+IDwvbGk+IDxsaT48YSBocmVmPSdqYXZhc2NyaXB0OnZvaWQoMCknIGlkPSdmeC1tZW51LXNldHQnPk15IFNldHRpbmdzPC9hPjx1bCBpZD0nZGQtc3ViLXNldHRpbmdzJz4gIDxsaT48YSBocmVmPSdwZXJzb25hbC1kZXRhaWxzLmFzcHgnPlBlcnNvbmFsIERldGFpbHM8L2E+PC9saT4gPGxpPjxhIGhyZWY9J2FjY291bnQtbGluay5hc3B4Jz5BY2NvdW50IExpbms8L2E+PC9saT48bGk+PGEgaHJlZj0ncHJpdmFjeS5hc3B4Jz5Qcml2YWN5L05vdGlmaWNhdGlvbnM8L2E+PC9saT4gIDxsaT48YSBocmVmPSdzb2NpYWwtY29ubmVjdGlvbnMuYXNweCc+U29jaWFsIENvbm5lY3Rpb25zPC9hPjwvbGk+IDxsaT48YSBocmVmPSdwcm9maWxlLWFmZmlsaWF0ZXMuYXNweCc+QWZmaWxpYXRlczwvYT48L2xpPiA8L3VsPiAgIDwvbGk+ICA8bGk+PGEgdGFyZ2V0PSdfYmxhbmsnIGhyZWY9J1BERi91c2VyIGd1aWRlLWVuZ2xpc2ggdmVyc2lvbi5wZGYnPkhlbHA8L2E+PC9saT4gPGxpIGNsYXNzPSdkaXZpZGVyJz48L2xpPiAgPGxpPjxhIGhyZWY9J2RlbGV0ZV9zZXNzaW9ucy5hc3B4Jz5TaWduIG91dDwvYT48L2xpPmQCBA8WAh8ABeowUFJJVkFDWSBQT0xJQ1k8YnI+PGJyPkZ4Qm9vc3QgaXMgY29tbWl0dGVkIHRvIHByb3RlY3RpbmcgeW91ciBwcml2YWN5IGFuZCBkZXZlbG9waW5nIHRlY2hub2xvZ3kgdGhhdCBnaXZlcyB5b3UgdGhlIG1vc3QgcG93ZXJmdWwgYW5kIHNhZmUgb25saW5lIGV4cGVyaWVuY2UuIFRoaXMgU3RhdGVtZW50IG9mIFByaXZhY3kgYXBwbGllcyB0byB0aGUgRnhCb29zdCBXZWIgc2l0ZSBhbmQgZ292ZXJucyBkYXRhIGNvbGxlY3Rpb24gYW5kIHVzYWdlLiBCeSB1c2luZyB0aGUgRnhCb29zdCB3ZWJzaXRlLCB5b3UgY29uc2VudCB0byB0aGUgZGF0YSBwcmFjdGljZXMgZGVzY3JpYmVkIGluIHRoaXMgc3RhdGVtZW50Ljxicj48YnI+Q29sbGVjdGlvbiBvZiB5b3VyIFBlcnNvbmFsIEluZm9ybWF0aW9uPGJyPjxicj5GeEJvb3N0IGNvbGxlY3RzIHBlcnNvbmFsbHkgaWRlbnRpZmlhYmxlIGluZm9ybWF0aW9uLCBzdWNoIGFzIHlvdXIgZS1tYWlsIGFkZHJlc3MsIG5hbWUsIGhvbWUgb3Igd29yayBhZGRyZXNzIG9yIHRlbGVwaG9uZSBudW1iZXIuIEZ4Qm9vc3QgYWxzbyBjb2xsZWN0cyBhbm9ueW1vdXMgZGVtb2dyYXBoaWMgaW5mb3JtYXRpb24sIHdoaWNoIGlzIG5vdCB1bmlxdWUgdG8geW91LCBzdWNoIGFzIHlvdXIgWklQIGNvZGUsIGFnZSwgZ2VuZGVyLCBwcmVmZXJlbmNlcywgaW50ZXJlc3RzIGFuZCBmYXZvcml0ZXMuPGJyPjxicj5UaGVyZSBpcyBhbHNvIGluZm9ybWF0aW9uIGFib3V0IHlvdXIgY29tcHV0ZXIgaGFyZHdhcmUgYW5kIHNvZnR3YXJlIHRoYXQgaXMgYXV0b21hdGljYWxseSBjb2xsZWN0ZWQgYnkgRnhCb29zdC4gVGhpcyBpbmZvcm1hdGlvbiBjYW4gaW5jbHVkZTogeW91ciBJUCBhZGRyZXNzLCBicm93c2VyIHR5cGUsIGRvbWFpbiBuYW1lcywgYWNjZXNzIHRpbWVzIGFuZCByZWZlcnJpbmcgV2ViIHNpdGUgYWRkcmVzc2VzLiBUaGlzIGluZm9ybWF0aW9uIGlzIHVzZWQgYnkgRnhCb29zdCBmb3IgdGhlIG9wZXJhdGlvbiBvZiB0aGUgc2VydmljZSwgdG8gbWFpbnRhaW4gcXVhbGl0eSBvZiB0aGUgc2VydmljZSwgYW5kIHRvIHByb3ZpZGUgZ2VuZXJhbCBzdGF0aXN0aWNzIHJlZ2FyZGluZyB1c2Ugb2YgdGhlIEZ4Qm9vc3QgV2ViIHNpdGUuPGJyPjxicj5QbGVhc2Uga2VlcCBpbiBtaW5kIHRoYXQgaWYgeW91IGRpcmVjdGx5IGRpc2Nsb3NlIHBlcnNvbmFsbHkgaWRlbnRpZmlhYmxlIGluZm9ybWF0aW9uIG9yIHBlcnNvbmFsbHkgc2Vuc2l0aXZlIGRhdGEgdGhyb3VnaCBGeEJvb3N0IHB1YmxpYyBtZXNzYWdlIGJvYXJkcywgdGhpcyBpbmZvcm1hdGlvbiBtYXkgYmUgY29sbGVjdGVkIGFuZCB1c2VkIGJ5IG90aGVycy4gPGJyPjxicj5GeEJvb3N0IGVuY291cmFnZXMgeW91IHRvIHJldmlldyB0aGUgcHJpdmFjeSBzdGF0ZW1lbnRzIG9mIFdlYiBzaXRlcyB5b3UgY2hvb3NlIHRvIGxpbmsgdG8gZnJvbSBGeEJvb3N0IHNvIHRoYXQgeW91IGNhbiB1bmRlcnN0YW5kIGhvdyB0aG9zZSBXZWIgc2l0ZXMgY29sbGVjdCwgdXNlIGFuZCBzaGFyZSB5b3VyIGluZm9ybWF0aW9uLiBGeEJvb3N0IGlzIG5vdCByZXNwb25zaWJsZSBmb3IgdGhlIHByaXZhY3kgc3RhdGVtZW50cyBvciBvdGhlciBjb250ZW50IG9uIFdlYiBzaXRlcyBvdXRzaWRlIG9mIHRoZSBGeEJvb3N0IGZhbWlseSBvZiBXZWIgc2l0ZXMuPGJyPjxicj5Vc2Ugb2YgeW91ciBQZXJzb25hbCBJbmZvcm1hdGlvbjxicj48YnI+RnhCb29zdCBjb2xsZWN0cyBhbmQgdXNlcyB5b3VyIHBlcnNvbmFsIGluZm9ybWF0aW9uIHRvIG9wZXJhdGUgdGhlIEZ4Qm9vc3QgV2ViIHNpdGUgYW5kIGRlbGl2ZXIgdGhlIHNlcnZpY2VzIHlvdSBoYXZlIHJlcXVlc3RlZC4gRnhCb29zdCBhbHNvIHVzZXMgeW91ciBwZXJzb25hbGx5IGlkZW50aWZpYWJsZSBpbmZvcm1hdGlvbiB0byBpbmZvcm0geW91IG9mIG90aGVyIHByb2R1Y3RzIG9yIHNlcnZpY2VzIGF2YWlsYWJsZSBmcm9tIEZ4Qm9vc3QgYW5kIGl0cyBhZmZpbGlhdGVzLiBGeEJvb3N0IG1heSBhbHNvIGNvbnRhY3QgeW91IHZpYSBzdXJ2ZXlzIHRvIGNvbmR1Y3QgcmVzZWFyY2ggYWJvdXQgeW91ciBvcGluaW9uIG9mIGN1cnJlbnQgc2VydmljZXMgb3Igb2YgcG90ZW50aWFsIG5ldyBzZXJ2aWNlcyB0aGF0IG1heSBiZSBvZmZlcmVkLjxicj48YnI+RnhCb29zdCBkb2VzIG5vdCBzZWxsLCByZW50IG9yIGxlYXNlIGl0cyBjdXN0b21lciBsaXN0cyB0byB0aGlyZCBwYXJ0aWVzLiBGeEJvb3N0IG1heSwgZnJvbSB0aW1lIHRvIHRpbWUsIGNvbnRhY3QgeW91IG9uIGJlaGFsZiBvZiBleHRlcm5hbCBidXNpbmVzcyBwYXJ0bmVycyBhYm91dCBhIHBhcnRpY3VsYXIgb2ZmZXJpbmcgdGhhdCBtYXkgYmUgb2YgaW50ZXJlc3QgdG8geW91LiBJbiB0aG9zZSBjYXNlcywgeW91ciB1bmlxdWUgcGVyc29uYWxseSBpZGVudGlmaWFibGUgaW5mb3JtYXRpb24gKGUtbWFpbCwgbmFtZSwgYWRkcmVzcywgdGVsZXBob25lIG51bWJlcikgaXMgbm90IHRyYW5zZmVycmVkIHRvIHRoZSB0aGlyZCBwYXJ0eS4gSW4gYWRkaXRpb24sIEZ4Qm9vc3QgbWF5IHNoYXJlIGRhdGEgd2l0aCB0cnVzdGVkIHBhcnRuZXJzIHRvIGhlbHAgdXMgcGVyZm9ybSBzdGF0aXN0aWNhbCBhbmFseXNpcywgc2VuZCB5b3UgZW1haWwgb3IgcG9zdGFsIG1haWwsIHByb3ZpZGUgY3VzdG9tZXIgc3VwcG9ydCwgb3IgYXJyYW5nZSBmb3IgZGVsaXZlcmllcy4gQWxsIHN1Y2ggdGhpcmQgcGFydGllcyBhcmUgcHJvaGliaXRlZCBmcm9tIHVzaW5nIHlvdXIgcGVyc29uYWwgaW5mb3JtYXRpb24gZXhjZXB0IHRvIHByb3ZpZGUgdGhlc2Ugc2VydmljZXMgdG8gRnhCb29zdCBhbmQgdGhleSBhcmUgcmVxdWlyZWQgdG8gbWFpbnRhaW4gdGhlIGNvbmZpZGVudGlhbGl0eSBvZiB5b3VyIGluZm9ybWF0aW9uLjxicj48YnI+RnhCb29zdCBkb2VzIG5vdCB1c2Ugb3IgZGlzY2xvc2Ugc2Vuc2l0aXZlIHBlcnNvbmFsIGluZm9ybWF0aW9uLCBzdWNoIGFzIHJhY2UsIHJlbGlnaW9uLCBvciBwb2xpdGljYWwgYWZmaWxpYXRpb25zLCB3aXRob3V0IHlvdXIgZXhwbGljaXQgY29uc2VudC48YnI+PGJyPkZ4Qm9vc3Qga2VlcHMgdHJhY2sgb2YgdGhlIFdlYiBzaXRlcyBhbmQgcGFnZXMgb3VyIGN1c3RvbWVycyB2aXNpdCB3aXRoaW4gRnhCb29zdCBpbiBvcmRlciB0byBkZXRlcm1pbmUgd2hhdCBGeEJvb3N0IHNlcnZpY2VzIGFyZSB0aGUgbW9zdCBwb3B1bGFyLiBUaGlzIGRhdGEgaXMgdXNlZCB0byBkZWxpdmVyIGN1c3RvbWl6ZWQgY29udGVudCBhbmQgYWR2ZXJ0aXNpbmcgd2l0aGluIEZ4Qm9vc3QgdG8gY3VzdG9tZXJzIHdob3NlIGJlaGF2aW9yIGluZGljYXRlcyB0aGF0IHRoZXkgYXJlIGludGVyZXN0ZWQgaW4gYSBwYXJ0aWN1bGFyIHN1YmplY3QgYXJlYS48YnI+PGJyPkZ4Qm9vc3QgV2ViIHNpdGVzIHdpbGwgZGlzY2xvc2UgeW91ciBwZXJzb25hbCBpbmZvcm1hdGlvbiwgd2l0aG91dCBub3RpY2UsIG9ubHkgaWYgcmVxdWlyZWQgdG8gZG8gc28gYnkgbGF3IG9yIGluIHRoZSBnb29kIGZhaXRoIGJlbGllZiB0aGF0IHN1Y2ggYWN0aW9uIGlzIG5lY2Vzc2FyeSB0bzogKGEpIGNvbmZvcm0gdG8gdGhlIGVkaWN0cyBvZiB0aGUgbGF3IG9yIGNvbXBseSB3aXRoIGxlZ2FsIHByb2Nlc3Mgc2VydmVkIG9uIEZ4Qm9vc3Qgb3IgdGhlIHNpdGU7IChiKSBwcm90ZWN0IGFuZCBkZWZlbmQgdGhlIHJpZ2h0cyBvciBwcm9wZXJ0eSBvZiBGeEJvb3N0IGFuZCwgKGMpIGFjdCB1bmRlciBleGlnZW50IGNpcmN1bXN0YW5jZXMgdG8gcHJvdGVjdCB0aGUgcGVyc29uYWwgc2FmZXR5IG9mIHVzZXJzIG9mIEZ4Qm9vc3Qgb3IgdGhlIHB1YmxpYy48YnI+PGJyPlVzZSBvZiBDb29raWVzPGJyPjxicj5UaGUgRnhCb29zdCBXZWIgc2l0ZSB1c2UgImNvb2tpZXMiIHRvIGhlbHAgeW91IHBlcnNvbmFsaXplIHlvdXIgb25saW5lIGV4cGVyaWVuY2UuIEEgY29va2llIGlzIGEgdGV4dCBmaWxlIHRoYXQgaXMgcGxhY2VkIG9uIHlvdXIgaGFyZCBkaXNrIGJ5IGEgV2ViIHBhZ2Ugc2VydmVyLiBDb29raWVzIGNhbm5vdCBiZSB1c2VkIHRvIHJ1biBwcm9ncmFtcyBvciBkZWxpdmVyIHZpcnVzZXMgdG8geW91ciBjb21wdXRlci4gQ29va2llcyBhcmUgdW5pcXVlbHkgYXNzaWduZWQgdG8geW91LCBhbmQgY2FuIG9ubHkgYmUgcmVhZCBieSBhIHdlYiBzZXJ2ZXIgaW4gdGhlIGRvbWFpbiB0aGF0IGlzc3VlZCB0aGUgY29va2llIHRvIHlvdS48YnI+PGJyPk9uZSBvZiB0aGUgcHJpbWFyeSBwdXJwb3NlcyBvZiBjb29raWVzIGlzIHRvIHByb3ZpZGUgYSBjb252ZW5pZW5jZSBmZWF0dXJlIHRvIHNhdmUgeW91IHRpbWUuIFRoZSBwdXJwb3NlIG9mIGEgY29va2llIGlzIHRvIHRlbGwgdGhlIFdlYiBzZXJ2ZXIgdGhhdCB5b3UgaGF2ZSByZXR1cm5lZCB0byBhIHNwZWNpZmljIHBhZ2UuIEZvciBleGFtcGxlLCBpZiB5b3UgcGVyc29uYWxpemUgRnhCb29zdCBwYWdlcywgb3IgcmVnaXN0ZXIgd2l0aCBGeEJvb3N0IHNpdGUgb3Igc2VydmljZXMsIGEgY29va2llIGhlbHBzIEZ4Qm9vc3QgdG8gcmVjYWxsIHlvdXIgc3BlY2lmaWMgaW5mb3JtYXRpb24gb24gc3Vic2VxdWVudCB2aXNpdHMuIFRoaXMgc2ltcGxpZmllcyB0aGUgcHJvY2VzcyBvZiByZWNvcmRpbmcgeW91ciBwZXJzb25hbCBpbmZvcm1hdGlvbiwgc3VjaCBhcyBiaWxsaW5nIGFkZHJlc3Nlcywgc2hpcHBpbmcgYWRkcmVzc2VzLCBhbmQgc28gb24uIFdoZW4geW91IHJldHVybiB0byB0aGUgc2FtZSBGeEJvb3N0IFdlYiBwYWdlLCB0aGUgaW5mb3JtYXRpb24geW91IHByZXZpb3VzbHkgcHJvdmlkZWQgY2FuIGJlIHJldHJpZXZlZCwgc28geW91IGNhbiBlYXNpbHkgdXNlIHRoZSBGeEJvb3N0IGZlYXR1cmVzIHRoYXQgeW91IGN1c3RvbWl6ZWQuPGJyPjxicj5Zb3UgaGF2ZSB0aGUgYWJpbGl0eSB0byBhY2NlcHQgb3IgZGVjbGluZSBjb29raWVzLiBNb3N0IFdlYiBicm93c2VycyBhdXRvbWF0aWNhbGx5IGFjY2VwdCBjb29raWVzLCBidXQgeW91IGNhbiB1c3VhbGx5IG1vZGlmeSB5b3VyIGJyb3dzZXIgc2V0dGluZyB0byBkZWNsaW5lIGNvb2tpZXMgaWYgeW91IHByZWZlci4gSWYgeW91IGNob29zZSB0byBkZWNsaW5lIGNvb2tpZXMsIHlvdSBtYXkgbm90IGJlIGFibGUgdG8gZnVsbHkgZXhwZXJpZW5jZSB0aGUgaW50ZXJhY3RpdmUgZmVhdHVyZXMgb2YgdGhlIEZ4Qm9vc3Qgc2VydmljZXMgb3IgV2ViIHNpdGVzIHlvdSB2aXNpdC48YnI+PGJyPlNlY3VyaXR5IG9mIHlvdXIgUGVyc29uYWwgSW5mb3JtYXRpb248YnI+PGJyPkZ4Qm9vc3Qgc2VjdXJlcyB5b3VyIHBlcnNvbmFsIGluZm9ybWF0aW9uIGZyb20gdW5hdXRob3JpemVkIGFjY2VzcywgdXNlIG9yIGRpc2Nsb3N1cmUuIEZ4Qm9vc3Qgc2VjdXJlcyB0aGUgcGVyc29uYWxseSBpZGVudGlmaWFibGUgaW5mb3JtYXRpb24geW91IHByb3ZpZGUgb24gY29tcHV0ZXIgc2VydmVycyBpbiBhIGNvbnRyb2xsZWQsIHNlY3VyZSBlbnZpcm9ubWVudCwgcHJvdGVjdGVkIGZyb20gdW5hdXRob3JpemVkIGFjY2VzcywgdXNlIG9yIGRpc2Nsb3N1cmUuIFdoZW4gcGVyc29uYWwgaW5mb3JtYXRpb24gKHN1Y2ggYXMgYSBjcmVkaXQgY2FyZCBudW1iZXIpIGlzIHRyYW5zbWl0dGVkIHRvIG90aGVyIFdlYiBzaXRlcywgaXQgaXMgcHJvdGVjdGVkIHRocm91Z2ggdGhlIHVzZSBvZiBlbmNyeXB0aW9uLCBzdWNoIGFzIHRoZSBTZWN1cmUgU29ja2V0IExheWVyIChTU0wpIHByb3RvY29sLjxicj48YnI+Q2hhbmdlcyB0byB0aGlzIFN0YXRlbWVudDxicj48YnI+RnhCb29zdCB3aWxsIG9jY2FzaW9uYWxseSB1cGRhdGUgdGhpcyBTdGF0ZW1lbnQgb2YgUHJpdmFjeSB0byByZWZsZWN0IGNvbXBhbnkgYW5kIGN1c3RvbWVyIGZlZWRiYWNrLiBGeEJvb3N0IGVuY291cmFnZXMgeW91IHRvIHBlcmlvZGljYWxseSByZXZpZXcgdGhpcyBTdGF0ZW1lbnQgdG8gYmUgaW5mb3JtZWQgb2YgaG93IEZ4Qm9vc3QgaXMgcHJvdGVjdGluZyB5b3VyIGluZm9ybWF0aW9uLjxicj48YnI+RnhCb29zdCBJbmZvcm1hdGlvbjxicj48YnI+RnhCb29zdCB3ZWxjb21lcyB5b3VyIGNvbW1lbnRzIHJlZ2FyZGluZyB0aGlzIFN0YXRlbWVudCBvZiBQcml2YWN5LiBJZiB5b3UgYmVsaWV2ZSB0aGF0IEZ4Qm9vc3QgaGFzIG5vdCBhZGhlcmVkIHRvIHRoaXMgU3RhdGVtZW50LCBwbGVhc2UgY29udGFjdCBGeEJvb3N0IGJ5IHVzaW5nIHRoZSBjb250YWN0IGZvcm0uIFdlIHdpbGwgdXNlIGNvbW1lcmNpYWxseSByZWFzb25hYmxlIGVmZm9ydHMgdG8gcHJvbXB0bHkgZGV0ZXJtaW5lIGFuZCByZW1lZHkgdGhlIHByb2JsZW0uPGJyPmQCBQ8WAh8ABckCPGgxIGlkPSdub3RpZmljYXRpb25UYWJsZUhlYWRlcic+Tm90aWZpY2F0aW9uczwvaDE+PGRpdiBpZD0nbm90aWZpY2F0aW9uVHlwZSc+VHlwZSBvZiBub3RpZmljYXRpb25zOjxzZWxlY3QgaWQ9J25vdGlmaWNhdGlvbkRyb3BEb3duJyBvbmNoYW5nZT0iZ2V0X25vdGlmaWNhdGlvbigpIj48b3B0aW9uIHZhbHVlPScwJz5SZWFkICZhbXA7IFVuUmVhZCBOb3RpZmljYXRpb25zPC9vcHRpb24+PG9wdGlvbiB2YWx1ZT0nMic+UmVhZCBOb3RpZmljYXRpb25zPC9vcHRpb24+PG9wdGlvbiB2YWx1ZT0nMSc+VW5yZWFkIE5vdGlmaWNhdGlvbnM8L29wdGlvbj48L3NlbGVjdD48L2Rpdj5kZMCH2m6G1U/zPKSMVyIdZFcgN32awAO6iLOohG05C4AZ">
 
-    
+	<div class="container" data-original-title="">
+		
+        <!-- Google Translate -->
+        <div style="float:right" data-original-title="">
+            <div id="google_translate_element" data-original-title=""></div>
+        </div>
 
-    <form name="aspnetForm" method="post" action="ShowDoc.aspx?pageid=privacy_parkedpage" id="aspnetForm">
-<input type="hidden" name="ctl00_ScriptManager1_HiddenField" id="ctl00_ScriptManager1_HiddenField" value="">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNzMxNTAyOTQ1D2QWAmYPZBYCAgMPZBYCAhMPDxYCHgdWaXNpYmxlaGRkZGk0a56o4pyrY7+H3hhxuEuvTcpI">
-
-
-<script src="/ScriptResource.axd?d=07PJCVFyCyUq301XvnZa1A1dhohl3iEi0ZrL4DpsO6fyHoRLkOFrNUL8IQWRL3P7qzX3I54gowvQdrQXAqjcbAMSsmSMfoLa0dRWNZ1XNU-L20j3HfpFYJYZmrBy1BExj1oA-3kW82X-EH8w4f-U2rvi7NxqUvbUYAoer38JjDQaCpyL0&amp;t=fffffffff9d85fa6" type="text/javascript"></script>
-        
-		<div>
+		<!-- Ad -->
+		<div class="fb-ad-top" data-original-title="">
 			
+            <!-- Affi_Top_728x90 -->           
+            <div id="div-gpt-ad-1399480336209-3" style="width:728px; height:90px;" data-original-title="">
+            <script type="text/javascript">
+                googletag.cmd.push(function () { googletag.display('div-gpt-ad-1399480336209-3'); });
+            </script>
+            </div>
 
-
-
-    <style type="text/css">
-        .closeButton
-        {
-            font-variant: small-caps;
-            color: #003366;
-            text-decoration: none;
-            font-size: 12pt;
-            letter-spacing: 4px;
-            font-family: Arial-Narrow, Helvetica, Veranda, Sans;
-        }
-        .main
-        {
-            font-family: Arial, Verdana;
-        }
-        .bodyText
-        {
-            font-family: Arial, Verdana;
-            font-size: 10pt;
-            margin-right: 25pt;
-            margin-bottom: 5pt;
-            line-height: 12pt;
-            text-align: justify;
-        }
-        .bodyTextBold
-        {
-            font-family: Arial, Verdana;
-            font-size: 10pt;
-            margin-right: 5pt;
-            margin-bottom: 5pt;
-            font-weight: bolder;
-        }
-        .footerText
-        {
-            font-family: Arial, Verdana;
-            font-size: 7pt;
-            margin-right: 5pt;
-            margin-bottom: 5pt;
-            color: #FFFFFF;
-        }
-        .bodyTextCaps
-        {
-            font-family: Arial, Verdana;
-            font-size: 10pt;
-            margin-right: 25pt;
-            margin-bottom: 5pt;
-            text-transform: uppercase;
-            text-align: justify;
-        }
-        .finePrint
-        {
-            font-family: Arial, Verdana;
-            font-size: 8pt;
-            margin-right: 25pt;
-            margin-bottom: 10pt;
-            line-height: 10pt;
-            text-align: justify;
-        }
-        A:ACTIVE, A:LINK, A:VISITED
-        {
-            font-family: Arial, Verdana;
-            font-size: 10pt;
-            margin-right: 0pt;
-            margin-bottom: 5pt;
-            text-decoration: none;
-            color: #FF6600;
-        }
-        A:HOVER
-        {
-            font-family: Arial, Verdana;
-            font-size: 10pt;
-            margin-right: 0pt;
-            margin-bottom: 5pt;
-            text-decoration: underline;
-            color: #CC6600;
-        }
-        .EULATitle
-        {
-            font-family: Arial, Verdana;
-            font-size: 14pt;
-            margin-right: 5pt;
-            text-transform: uppercase;
-            font-style: italic;
-            font-weight: bold;
-            color: #003366;
-        }
-        .heading1
-        {
-            font-family: Arial, Verdana;
-            font-size: 11pt;
-            font-weight: bold;
-            text-transform: uppercase;
-            color: #666666;
-        }
-        .smallTable p, .smallTable ul, .smallTable ol {
-         margin : 1px;
-        }
-
-        .heading2
-        {
-            font-family: Arial, Verdana;
-            font-size: 10pt;
-            margin-right: 5pt;
-            margin-bottom: 5pt;
-            font-weight: bolder;
-        }
-        LI
-        {
-            font-family: Arial, Verdana;
-            font-size: 10pt;
-            margin-right: 25pt;
-            margin-top: 5pt;
-            margin-bottom: 5pt;
-            line-height: 12pt;
-            text-align: justify;
-        }
-        OL
-        {
-            font-family: Arial, Verdana;
-            font-size: 10pt;
-            list-style-type: lower-roman;
-            list-style-position: outside;
-        }
-        OL OL
-        {
-            font-family: Arial, Verdana;
-            font-size: 10pt;
-            list-style-type: upper-alpha;
-            list-style-position: outside;
-        }
-        OL OL OL
-        {
-            font-family: Arial, Verdana;
-            font-size: 10pt;
-            list-style-type: disc;
-            list-style-position: outside;
-        }
-        UL
-        {
-            font-family: Arial, Verdana;
-            font-size: 10pt;
-            list-style-type: disc;
-            list-style-position: outside;
-        }
-        UL UL
-        {
-            font-family: Arial, Verdana;
-            font-size: 10pt;
-            list-style-type: circle;
-            list-style-position: outside;
-        }
-        UL UL UL
-        {
-            font-family: Arial, Verdana;
-            font-size: 10pt;
-            list-style-type: square;
-            list-style-position: outside;
-        }
-        P
-        {
-            font-family: Arial, Verdana;
-            font-size: 10pt;
-        }
-        .nav
-        {
-            font-family: Arial, Verdana;
-            font-size: 8pt;
-            line-height: 0pt;
-        }
-        A.nav:ACTIVE, A.nav:LINK, A.nav:VISITED
-        {
-            font-family: Arial, Verdana;
-            font-size: 8pt;
-            color: #003366;
-        }
-        A.nav:HOVER
-        {
-            font-family: Arial, Verdana;
-            font-size: 8pt;
-            text-decoration: underline;
-            color: #FF6600;
-        }
-        .top
-        {
-            font-family: Arial, Verdana;
-            font-size: 8pt;
-            text-decoration: underline;
-        }
-        A.top:ACTIVE, A.top:LINK, A.top:VISITED
-        {
-            font-family: Arial, Verdana;
-            font-size: 8pt;
-            text-decoration: underline;
-            color: #FF6600;
-        }
-        A.top:HOVER
-        {
-            font-family: Arial, Verdana;
-            font-size: 8pt;
-            text-decoration: underline;
-            color: #CC6600;
-        }
-        #TableMenu
-        {
-            background-color: #FFFFFF;
-            border: 1px dashed #FFFFFF;
-            padding-bottom: 15pt;
-            padding-left: 10pt;
-            padding-right: 10pt;
-            padding-top: 15pt;
-            width: 125px;
-        }
-        HR
-        {
-            color: Silver;
-            margin-right: 25pt;
-        }
-        body
-        {
-            font-family: Arial,Verdana;
-        }
-         
-         a:active,a:link,a:visited{color:#FF6600;font-family:Arial,Verdana;font-size:10pt;margin-bottom:5pt;margin-right:0;text-decoration:none;}
-        .EULATitle
-        {
-            color: #003366;
-            font-family: Arial,Verdana;
-            font-size: 14pt;
-            font-style: italic;
-            font-weight: bold;
-            margin-right: 5pt;
-            text-transform: uppercase;
-        }
-        
- </style>
-
-<div class="main">
-    <table border="0" cellspacing="0" cellpadding="0" width="100%">
-        <tbody><tr>
-            <td>
-                <a href="Javascript:window.close();" class="closeButton">Close Window</a>
-            </td>
-            <td align="right">
-                <a href="Javascript:window.print();" class="closeButton">Print</a>
-            </td>
-        </tr>
-    </tbody></table>
-    <br>
-    <table>
-        <tbody><tr>
-            <td width="100px">
-            </td>
-            <td>
-                &nbsp;
-            </td>
-            </tr>
-            <tr>
-            <td>
-            </td>
-            <td>
-                
-                <table width="100%">
-<tbody>
-<tr><td width="0"></td><td></td></tr>
-<tr><td></td><td>
-<table>
-<tbody>
-<tr><th align="left" class="EULATitle">
-Go Daddy<br>
-Privacy, Security, Your Information
-</th></tr>
-<tr><td class="bodyText">
-<div style="font-size: 9pt; color: #000000; direction: ltr; font-family: MS Shell Dlg 2;">
-<p><strong>Go Daddy Respects Your Privacy</strong></p>
-<p><strong>This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.</strong></p>
-<p><strong>Please take the time to review the terms of this Policy.&nbsp; By using this Site, you agree to accept the terms provided.</strong></p>
-<p><strong>Other than as described in this Policy, we will not give any information about you to others without your express permission. </strong></p>
-<p><strong>Information Collection and Use </strong></p>
-<p>Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.&nbsp; For example, we may collect this information in the event that you register as a member of&nbsp;this Site, post a comment, sign-up&nbsp;to receive email communications, or submit demographic information as part of a survey.</p>
-<p>We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.</p>
-<p>We may use your information&nbsp;to contact you regarding the information and services available on our Site, functionality changes to our Site,&nbsp;and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.</p>
-<p>We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.</p>
-<p>We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.</p>
-<p>Our Site uses cookies to enhance your experience with our Site.&nbsp; Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.&nbsp; We use cookies to identify you so you don't need to log in each time you visit our Site.&nbsp; You may opt-out of the use of cookies by altering settings on your browser.&nbsp; Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..</p>
-<p>This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.</p>
-<p><strong>Security </strong></p>
-<p>This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.</p>
-<p><strong>Updating Your Information </strong></p>
-<p>You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.</p>
-<p></p>
-<p></p>
-<p></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You may send an email to <a href="mailto:support@godaddy.com">support@godaddy.com </a></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;You may send mail to Go Daddy at the following postal address:&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; iii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You may call us at: (480) 505-8800</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; iv.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You may fax us at: (480) 505-8844</p>
-<p></p>
-<p></p>
-<p><strong>Sending Emails </strong></p>
-<p>We use emails to communicate with you&nbsp;and to send information that you have requested.&nbsp; We also provide email links&nbsp;to allow you to contact us directly. We strive to promptly reply to your messages.</p>
-<p>The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.</p>
-<p><strong>Compliance with Laws and Law Enforcement </strong></p>
-<p>We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.</p>
-<p><strong>Third Party Service Providers </strong></p>
-<p>We may at times provide information about you to third parties to provide various services on our behalf, such as&nbsp;serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.</p>
-<p>In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click <a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank">here. </a></p>
-<p><strong>Supplementation of Information </strong></p>
-<p>In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources (<em>e.g., </em>information from our strategic partners, service providers, or the United States Postal Service).&nbsp; We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.</p>
-<p><strong>Contests/Surveys </strong></p>
-<p>From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.</p>
-<p>We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.</p>
-<p></p>
-<p><strong>Tell-A-Friend </strong></p>
-<p>If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at <a href="mailto:support@godaddy.com">support@godaddy.com </a>to request the removal of this information from our database.</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p><strong>What Happens to my Personal Information if I Opt Out? </strong></p>
-<p>If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information&nbsp;in "deactivated" status on our relevant&nbsp;databases. However,&nbsp;you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.</p>
-<p></p>
-<p><strong>Transfer of Data Abroad</strong></p>
-<p>If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information&nbsp;across international boundaries. &nbsp;By visiting this Site and communicating electronically with us, you consent to such transfers.</p>
-<p></p>
-<p><strong>Changes in Our Practices</strong></p>
-<p>We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and&nbsp;any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.</p>
-<p>If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.</p>
-<p><strong>Contacting Our Site </strong></p>
-<p>If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:</p>
-<hr size="2" noshade="">
-<p>Go Daddy <br>ATTN: Web Team <br>14455 North Hayden Rd. <br>Suite 219 <br>Scottsdale, AZ, 85260, U.S.A.</p>
-</div>
-
-</td></tr>
-<tr><td>
-<br>
-<span class="finePrint">
-Revised: 2/23/2011<br>
-Copyright © 2010-2011 GoDaddy.com, Inc. All Rights Reserved.
-</span>
-</td></tr>
-</tbody>
-</table>
-</td></tr>
-</tbody>
-</table>
-
-            </td>
-        </tr>
-    </tbody></table>
-</div>
+           <div style="float:right" data-original-title="">
+             <table class="clock">
+                 <tbody><tr> <td> <img src="img/flags/us.png"> NewYork</td> <td>  <img src="img/flags/gb.png"> London</td> <td>  <img src="img/flags/cn.png"> Beijing</td>  <td>  <img src="img/flags/au.png"> Sydney</td></tr>
+                 <tr>
+                     <td>
+                        <iframe src="http://free.timeanddate.com/clock/i43o70oo/n179/fn6/fs12/fcfff/tc000/ftb/pd3/th1" frameborder="0" width="50" height="18" allowtransparency="true"></iframe>
+                     </td>
+                     <td>
+                        <iframe src="http://free.timeanddate.com/clock/i43o70oo/n136/fn6/fs12/fcfff/tc000/ftb/pd3/th1" frameborder="0" width="50" height="18" allowtransparency="true"></iframe>
+                     </td>
+                     <td>
+                        <iframe src="http://free.timeanddate.com/clock/i43o70oo/n33/fn6/fs12/fcfff/tc000/ftb/pd3/th1" frameborder="0" width="50" height="18" allowtransparency="true"></iframe>
+                     </td>
+                     <td>
+                     <iframe src="http://free.timeanddate.com/clock/i43o765x/n240/fn6/fs12/fcfff/tc000/ftb/bo3/pa0/th1" frameborder="0" width="50" height="18" allowtransparency="true"></iframe>
+                     </td>
+                  </tr>
+              </tbody></table>
+            </div>
 
 		</div>
-    
-
-<script type="text/javascript">
-//<![CDATA[
-Sys.Application.initialize();
-//]]>
-</script>
-</form>
-
-    
-<script src="http://img3.wsimg.com/fastball/js_lib/FastballLibrary0006.js?version=1" type="text/javascript"></script>
-
-    
-<script src="http://img3.wsimg.com/fos/script/sales16.min.js" type="text/javascript"></script>
+		<div class="clear" data-original-title=""></div>
 	
-	
+		<!-- Navbar -->
+		<div class="sticky-wrapper" style="height: 82px;" data-original-title=""><div class="navbar" data-original-title="">
+			<div class="navbar-inner" data-original-title="">
+			
+			<a class="brand" href="home.aspx" data-original-title=""></a>
+				
+				<!-- Signin / Register -->
+				<div class="nav-signin pull-right" data-original-title="">
+                    
+                            <button class="btn btn-small btn-success" onclick="signinclick()" type="button" data-original-title="">Sign in</button>
+					        <button class="btn btn-small btn-primary" onclick="registerclick()" type="button" data-original-title="">Register</button>
+                            
+				</div>
+					 
+			</div>
+			<div class="menu-bar" data-original-title="">
+				<!-- Menu -->
+				<ul class="nav">
+                
 
-<script type="text/javascript" language="javascript">
-  var internal_clicked=true;
-	if(typeof Content_appLoad == 'function')
-	{
-		Content_appLoad();
-	}
-</script>
+                     <li><a href="home.aspx" data-original-title="">Dashboard</a></li>
+					<li><a href="traders.aspx" data-original-title="">Traders</a></li>
+					               
+                    <li><a href="brokers.aspx" data-original-title="">Brokers</a></li>
+                    
+					<li><a href="traders.aspx" data-original-title="">Copying</a></li>
+					<li><a href="reports.aspx" data-original-title="">Reports</a></li>
+					<li><a href="affiliates.aspx" data-original-title="">Affiliates</a></li>
+					<li><a href="forums.aspx" data-original-title="">Forums</a></li>
+					<li><a href="news.aspx" data-original-title="">News</a></li>
+					<li><a href="calendar.aspx" data-original-title="">Calendar</a></li>
+					<li><a href="coming_soon.aspx" data-original-title="Coming Soon">Competitions</a></li>
+					<li><a href="markets.aspx" data-original-title="">Market</a></li>
+					<li><a href="account-link.aspx" data-original-title="">Account Link</a></li>
+                    
+				</ul>
+				
+				<!-- Language -->
+                <div id="lang" class="language pull-right" data-original-title="">
+                  
+                    
+                   Language:
+                
+                     &nbsp; <a href="javascript:void(0)" onclick="loadTranslation('en')" data-original-title="">
+                        <img class="flag-icon" border="0" src="img/flags/gb.png"></a> &nbsp; <a href="javascript:void(0)" onclick="loadTranslation('cn')" data-original-title="">
+                            <img class="flag-icon" border="0" src="img/flags/cn.png"></a>
+                </div>
+				
+				
+			</div>
+			
+		</div></div>
+		<div class="spacer" data-original-title=""></div>
+		
+		<div class="container" data-original-title="">
+			<div class="row" data-original-title="">
+				
+				<!-- Sidebar left -->
+				<div class="sidebar-main span3" data-original-title="">
+					
+					<!-- Ad -->
+				    <div class="fb-ad" data-original-title="">
+   		                
+                         <!-- Affi_Left01_230x250 -->
+                        <div id="div-gpt-ad-1399480336209-0" style="width:230px; height:250px;" data-original-title="">
+                        <script type="text/javascript">
+                            googletag.cmd.push(function () { googletag.display('div-gpt-ad-1399480336209-0'); });
+                        </script>
+                        </div>
+
+                        <!-- Affi_Text_230x200 -->
+                        <div id="div-gpt-ad-1399480336209-2" style="width:230px; height:200px;" data-original-title="">
+                        <script type="text/javascript">
+                            googletag.cmd.push(function () { googletag.display('div-gpt-ad-1399480336209-2'); });
+                        </script>
+                        </div>
+
+
+                        <!-- Affi_Left02_230x600 -->
+                        <div id="div-gpt-ad-1399480336209-1" style="width:230px; height:600px;" data-original-title="">
+                        <script type="text/javascript">
+                            googletag.cmd.push(function () { googletag.display('div-gpt-ad-1399480336209-1'); });
+                        </script>
+                        </div>
+
+                    </div>
+					
+					
+				</div>
+				
+				<!-- Content -->
+				<div class="content span9" data-original-title="">
+
+                    PRIVACY POLICY<br><br>FxBoost is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the FxBoost Web site and governs data collection and usage. By using the FxBoost website, you consent to the data practices described in this statement.<br><br>Collection of your Personal Information<br><br>FxBoost collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. FxBoost also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.<br><br>There is also information about your computer hardware and software that is automatically collected by FxBoost. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by FxBoost for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the FxBoost Web site.<br><br>Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through FxBoost public message boards, this information may be collected and used by others. <br><br>FxBoost encourages you to review the privacy statements of Web sites you choose to link to from FxBoost so that you can understand how those Web sites collect, use and share your information. FxBoost is not responsible for the privacy statements or other content on Web sites outside of the FxBoost family of Web sites.<br><br>Use of your Personal Information<br><br>FxBoost collects and uses your personal information to operate the FxBoost Web site and deliver the services you have requested. FxBoost also uses your personally identifiable information to inform you of other products or services available from FxBoost and its affiliates. FxBoost may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.<br><br>FxBoost does not sell, rent or lease its customer lists to third parties. FxBoost may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, FxBoost may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to FxBoost and they are required to maintain the confidentiality of your information.<br><br>FxBoost does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.<br><br>FxBoost keeps track of the Web sites and pages our customers visit within FxBoost in order to determine what FxBoost services are the most popular. This data is used to deliver customized content and advertising within FxBoost to customers whose behavior indicates that they are interested in a particular subject area.<br><br>FxBoost Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on FxBoost or the site; (b) protect and defend the rights or property of FxBoost and, (c) act under exigent circumstances to protect the personal safety of users of FxBoost or the public.<br><br>Use of Cookies<br><br>The FxBoost Web site use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.<br><br>One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize FxBoost pages, or register with FxBoost site or services, a cookie helps FxBoost to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same FxBoost Web page, the information you previously provided can be retrieved, so you can easily use the FxBoost features that you customized.<br><br>You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the FxBoost services or Web sites you visit.<br><br>Security of your Personal Information<br><br>FxBoost secures your personal information from unauthorized access, use or disclosure. FxBoost secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.<br><br>Changes to this Statement<br><br>FxBoost will occasionally update this Statement of Privacy to reflect company and customer feedback. FxBoost encourages you to periodically review this Statement to be informed of how FxBoost is protecting your information.<br><br>FxBoost Information<br><br>FxBoost welcomes your comments regarding this Statement of Privacy. If you believe that FxBoost has not adhered to this Statement, please contact FxBoost by using the contact form. We will use commercially reasonable efforts to promptly determine and remedy the problem.<br>
+           
+				</div>
+			</div>
+
+		</div>
+	</div>
+	
+	<!-- Footer -->
+	<div class="container" data-original-title="">	
+		
+		<footer>
+			<div class="pull-left" data-original-title="">Copyright ©2013 FxBoost ltd. All Rights Reserved </div>
+            
+                                <div class="pull-right" data-original-title="">
+				                <a href="profile-affiliates.aspx" data-original-title="">Affiliates</a>
+				                <a href="aboutus.aspx" data-original-title="">About</a>
+				                <a href="TermsandConditions.aspx" data-original-title="">Terms &amp; Conditions</a>
+				                <a href="privacyy.aspx" data-original-title="">Privacy</a>
+				                <a href="faq.aspx" data-original-title="">FAQ</a>
+				                <a href="contactus.aspx" data-original-title="">Contact us</a></div>
+                        
+		</footer>
+	
+	</div>
+    
+        <!-- Global Notifications -->
+    <div id="global-notify" class="reveal-modal" data-original-title="">
+        <h1 id="notificationTableHeader">Notifications</h1><div id="notificationType" data-original-title="">Type of notifications:<select id="notificationDropDown" onchange="get_notification()"><option value="0">Read &amp; UnRead Notifications</option><option value="2">Read Notifications</option><option value="1">Unread Notifications</option></select></div>
+        <br>
+        <br>
+        <div class="reveal-content" id="notificationTable" style="overflow: auto;" data-original-title="">
+
+        </div>
+        <a class="close-reveal-modal" data-original-title="">×</a>
+    </div> </form>
+<!-- Javascripts
+================================================== -->
+<script src="js/jquery-1.8.1.min.js"></script>
+<script src="js/jquery-ui-1.10.0.custom.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/waypoints.min.js"></script>
+<script src="js/waypoints-sticky.min.js"></script>
+<script src="js/jquery.nivo.slider.pack.js"></script>
+<script src="js/banners.js"></script>
+<script src="js/custom.js"></script>
+
+    
+
+
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+     m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-47137651-1', 'fxboost.com');
+        ga('send', 'pageview');
+
+    </script>
+
+    
 
 </body></html>
