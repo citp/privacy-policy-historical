@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teksystems.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206141300id_/http%3A//www.allegisgroup.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teksystems.com privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530161203id_/http%3A//www.allegisgroup.com/Privacy) for the most accurate reproduction.*
 
 # Allegis Group Online Privacy Statement
 
