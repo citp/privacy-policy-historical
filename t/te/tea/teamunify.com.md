@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teamunify.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231003133id_/http%3A//www.teamunify.com/__corp__/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamunify.com privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530144758id_/http%3A//www.teamunify.com/__corp__/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -80,7 +80,7 @@ From time-to-time, TeamUnify engages third parties to track and analyze usage an
 
 ### Public Forums, Refer a Friend, and Customer Testimonials
 
-TeamUnify may provide bulletin boards, blogs, chat rooms, or other areas where users can post information or content for public viewing, on the Company's Website and/or Swim Team Websites. Any Personal Information or other content you choose to submit in such a forum may be read, collected, or used by others who visit these forums, and may be used to send you unsolicited messages. Such information and content is not subject to this Privacy Statement; rather, such information and content is subject to Company's Website Terms and Conditions, [located here](https://web.archive.org/web/20131231003133id_/http%3A//www.teamunify.com/__corp__/termsandconditions.php). TeamUnify is not responsible for the Personal Information you choose to submit in these forums. You should be aware that such content and information may be made broadly available to the public.
+TeamUnify may provide bulletin boards, blogs, chat rooms, or other areas where users can post information or content for public viewing, on the Company's Website and/or Swim Team Websites. Any Personal Information or other content you choose to submit in such a forum may be read, collected, or used by others who visit these forums, and may be used to send you unsolicited messages. Such information and content is not subject to this Privacy Statement; rather, such information and content is subject to Company's Website Terms and Conditions, [located here](https://web.archive.org/web/20140530144758id_/http%3A//www.teamunify.com/__corp__/termsandconditions.php). TeamUnify is not responsible for the Personal Information you choose to submit in these forums. You should be aware that such content and information may be made broadly available to the public.
 
 Customers and Visitors may elect to use the Company's referral service to inform friends about the Company's Website. When using the referral service, the Company requests the friend's name and email address. TeamUnify will automatically send the friend a one-time email inviting him or her to visit the Company's Website. TeamUnify does not store this information.
 
