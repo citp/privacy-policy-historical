@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the adelaide.edu.au privacy policy that was archived on 2013-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131216084016id_/https%3A//www.adelaide.edu.au/legals/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the adelaide.edu.au privacy policy that was archived on 2014-05-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140531010106id_/https%3A//www.adelaide.edu.au/legals/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html class="left-column-present"><head>
 <script type="text/javascript">
@@ -152,7 +152,7 @@ site_root: "/legals"
 	
 </div>
 
-							<div id="page-content" class="grid_18 suffix_1 three-col-col-2">
+							<div id="page-content" class="grid_18 suffix_1 three-col-col-2 page-content">
 								<h1>Privacy</h1>
 <p>This website is administered by the University of Adelaide. When you access the University of Adelaide's website, our server may log the following information:</p>
 <ul class="content-list">
@@ -204,7 +204,7 @@ site_root: "/legals"
 					<li><a href="//www.adelaide.edu.au/legals/copyright.html" title="Copyright Information">Copyright</a></li>
 					<li><a href="//www.adelaide.edu.au/legals/privacy.html" title="Privacy Policy">Privacy Policy</a></li>
 					<li><a href="//www.adelaide.edu.au/legals/disclaim.html" title="Website Disclaimer">Disclaimer</a></li>
-					<li><a href="//www.adelaide.edu.au/front/feedback.html" title="Website Feedback">Feedback</a></li>
+					<li><a href="//www.adelaide.edu.au/feedback/" title="Website Feedback">Feedback</a></li>
 				</ul>
 				<p class="address">
 					<a class="fn org summary" href="//www.adelaide.edu.au/">The University of Adelaide</a>
@@ -219,12 +219,20 @@ site_root: "/legals"
 		</div>
 	</div>
 </div>
-<script>
-$(function(){
-  $.get($.uoaGlobalise("/global/includes/common/footer.html"), function (text) {
-    $("#page-footer .footer-contents").slice(0, 1).replaceWith(text);
-  });
-});
+<script type="text/javascript">
+	if (jQuery)
+		(function($) {
+			var url;
+			var path = 'includes/common/footer.html';
+			if ($.uoaGlobalise) {
+				url = $.uoaGlobalise('/global/' + path);
+			} else {
+				url = location.protocol + '//global.adelaide.edu.au/v/redesign1/' + path;
+			}
+			$.get(url, function (content) {
+				$('#page-footer .footer-contents').eq(0).replaceWith(content);
+			});
+		})(jQuery);
 </script>
 
 
