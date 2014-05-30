@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the aiche.org privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220164537id_/http%3A//www.aiche.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aiche.org privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530140251id_/http%3A//www.aiche.org/about/privacy) for the most accurate reproduction.*
 
 # Privacy | AIChE
-
-**Notice:** The AIChE website is undergoing an ecommerce system upgrade to better serve you... [Learn more](http://www.aiche.org/contact)
 
 ## Privacy & Security Policy
 
