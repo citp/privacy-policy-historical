@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sexinyourcity.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116225703id_/http%3A//www.sexinyourcity.com%3Faction%3Dterms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexinyourcity.com privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530023739id_/http%3A//www.sexinyourcity.com%3Faction%3Dterms) for the most accurate reproduction.*
 
 # Adult Dating for Everyone - Sex, Personals, Women, Men, Couples - Sexinyourcity.com
 
