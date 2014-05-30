@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bladeandsouldojo.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119175150id_/http%3A//www.curse.com/content/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bladeandsouldojo.com privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530231447id_/http%3A//www.curse.com/content/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Curse Network Privacy Policy - Curse
 
