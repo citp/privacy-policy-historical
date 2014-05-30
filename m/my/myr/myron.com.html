@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the myron.com privacy policy that was archived on 2013-11-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131128015429id_/http%3A//www.myron.com/eng/customerservice/privacy-policy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the myron.com privacy policy that was archived on 2014-05-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140531005126id_/http%3A//www.myron.com/eng/customerservice/privacy-policy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	
@@ -48,23 +48,18 @@
 	<link href="http://www.myron.com/sharedPages/css/styles.css" rel="stylesheet" type="text/css">
 	<link href="http://www.myron.com/sharedPages/css/products.css" rel="stylesheet" type="text/css">
 	<link href="http://www.myron.com/sharedPages/css/jquery-ui-1.7.2.smoothness.css" rel="stylesheet" type="text/css">
-	
+
 
 	
 	<link href="http://www.myron.com/css/styles.css" rel="stylesheet" type="text/css">
 	<link href="http://www.myron.com/css/products.css" rel="stylesheet" type="text/css">
-	
-	
-
-
 	<link rel="shortcut icon" href="http://www.myron.com/favicon.ico" type="image/ico">
-
+	<link href="http://www.myron.com/sharedPages/css/messi.css" rel="stylesheet" type="text/css">
+	
+	
 	<script type="text/javascript">
 		siteUrl = 'http://www.myron.com/sharedPages/';
 	</script>
-
-
-	
 
 	<script src="http://www.myron.com/sharedpages/javascript/global_scripts.js" language="javascript" type="text/javascript"></script>
 
@@ -89,6 +84,23 @@
 	<script type="text/javascript" src="http://www.myron.com/sharedpages/javascript/typeahead.js"></script>
 	<script type="text/javascript" src="http://www.myron.com/sharedpages/javascript/stepcarousel.js"></script>
 	<script type="text/javascript" src="http://www.myron.com/sharedpages/javascript/jquery-custom-myron.js"></script>
+	<script type="text/javascript" src="http://www.myron.com/sharedpages/javascript/messi.js"></script>
+
+
+    <script type="text/javascript">
+        j$(document).ready( function () {
+             if ( ! j$.browser.msie ) return ;
+             var ieVersion = j$.browser.version.split(".");
+             if ( ieVersion[0] > 6 ) return ;
+             var IE6Alert = "<span id=\"bphId_355\" class=\"bannerPlaceHolder\" style=\"display:none;\" ></span>";
+             //IE6Alert = IE6Alert.replace(/&gt;/g, ">");
+             //IE6Alert = IE6Alert.replace(/&lt;/g, "<");
+             //IE6Alert = IE6Alert.replace(/&quot;/g, '"');
+             var vDialog = j$("<div></div>").html(IE6Alert).appendTo("body");
+             if ( j$("[id^=bphId_]:visible" ,vDialog ).length == 0 ) return ;
+             vDialog.dialog({ autoOpen: true, modal: true, width:"auto", height:"auto"});
+        });
+    </script>
 
 	
 
@@ -101,7 +113,7 @@
 
 
 	
-			<script src="/cfajax/banners/bannersV9.js?vk=9B305E58" type="text/javascript"></script>
+			<script src="/cfajax/banners/bannersV9.js?vk=4F7C8469" type="text/javascript"></script>
 		
 		<script language="JavaScript" type="text/javascript">
 			document.write(unescape('%3Cscript language="JavaScript" type="text/javascript" src="' + (('https:' == document.location.protocol) ? 'https:' : 'http:') + '//cbi.boldchat.com/aid/5612771087362107054/bc.cbhs"%3E%3C/script%3E'));
@@ -378,6 +390,10 @@ Back To Top
 
 	function validateFormSavingsEmail_result(res , emailValue )
 	{
+		if (res.STATUS == null) {
+			showAlert({message:'<div>Please Enter A Valid Email.</div>',cssClass:'alertboxSmall'});
+		}
+		
 		if(res.STATUS == 'newsletterExist')
 		{
 			var vRedirectUrl;
@@ -448,9 +464,7 @@ Back To Top
 </div>
 
 <div id="topBanner" class="bannerPlaceHolder">
-	<span id="bphId_287" class="bannerPlaceHolder"><a href="/eng/categories/discount_pricing?discountcode=PLUS10" class="bannerLink" rel="{trackingLinkId:0,bannerId:6651,track:'Y'}">
-	<img src="/static/webupload/MyronArtifacts/images/2013-blackFriday-headBnr.jpg" alt="Black Friday Savings up to 76% OFF! Click to Learn More!" title="Black Friday Savings up to 76% OFF! Click to Learn More!">
-</a></span>
+	<span id="bphId_287" class="bannerPlaceHolder"><img src="/_static/webupload/33/1478_1.gif" alt="Promotional Products &amp; Personalized Gifts" title="Promotional Products &amp; Personalized Gifts"></span>
 </div>
 
 
@@ -901,61 +915,35 @@ Back To Top
 					<select name="section" id="searchSection">
 						<option selected="selected" value="EntireSite">Entire site</option>
 						
-								<option id="9474" value="promotional_bags">Bags &amp; Totes</option>
-							
-								<option id="9513" value="promotional_desk">Desk &amp; Office</option>
-							
-								<option id="9523" value="earth_friendly_gifts">Earth Friendly</option>
-							
-								<option id="9527" value="corporate_food_gifts">Food &amp; Drinkware</option>
-							
-								<option id="9534" value="gift_boxes">Gift Boxes</option>
-							
-								<option id="9545" value="promotional_health_safety">Health &amp; Safety</option>
-							
-								<option id="11616" value="holiday_cards_and_collectibles">Holiday Cards &amp; Collectibles</option>
-							
-								<option id="9563" value="promotional_key_rings">Key Rings</option>
-							
-								<option id="9121" value="lighted_promotional_products">Lighted Products</option>
-							
-								<option id="6157" value="Personalized_Pads">Notepads &amp; Portfolios</option>
-							
 								<option id="6147" value="promotional_pens">Pens &amp; Refills</option>
-							
-								<option id="9616" value="tech_media_accessories">Tech &amp; Mobile Accessories</option>
-							
-								<option id="7614" value="The_Colors_of_Caring">The Color of Caring®</option>
-							
-								<option id="6173" value="Promotional_Keyrings">Tools</option>
-							
-								<option id="9613" value="promotional_umbrellas">Umbrellas</option>
-							
-								<option id="8086" value="National_Wedding_Month">Wedding &amp; Anniversary Gifts</option>
 							
 								<option id="6153" value="Custom_Planners">Calendars &amp; Planners</option>
 							
-								<option id="9500" value="Corporate_gifts">Company Events &amp; Motivation</option>
-							
-								<option id="6187" value="Personalized_Business_Gifts">Adler Collection</option>
-							
 								<option id="11344" value="bestselling_promotional_products">Best Sellers</option>
 							
-								<option id="6168" value="Holiday_Cards_Gifts">Holiday Headquarters</option>
+								<option id="6168" value="Holiday_Cards_Gifts">Events &amp; Occasions</option>
 							
 								<option id="6539" value="New">New</option>
 							
 								<option id="11611" value="discount_pricing">Sale!</option>
 							
+								<option id="6187" value="Personalized_Business_Gifts">Adler Collection</option>
+							
 								<option id="11771" value="adler_collection_try_us">Adler Collection Try Us Offer</option>
 							
 								<option id="7733" value="Amazing_Giveaways">Amazing Giveaways ®</option>
+							
+								<option id="9474" value="promotional_bags">Bags &amp; Totes</option>
 							
 								<option id="6463" value="Banner_Categories">Banner Categories</option>
 							
 								<option id="11363" value="Banner_Categories_2">Banner Categories 2</option>
 							
 								<option id="9460" value="home_decor">Barware &amp; Home Décor</option>
+							
+								<option id="13934" value="black_white_collection">Black &amp; White Collection</option>
+							
+								<option id="13867" value="Business_Greeting_Cards">Business Greeting Cards</option>
 							
 								<option id="6809" value="Catalog">Catalog</option>
 							
@@ -967,11 +955,17 @@ Back To Top
 							
 								<option id="6458" value="Closeout_Pricing">Closeout Pricing</option>
 							
+								<option id="9500" value="Corporate_gifts">Company Events &amp; Motivation</option>
+							
+								<option id="9513" value="promotional_desk">Desk &amp; Office</option>
+							
 								<option id="6486" value="DIF_Promos">DIF Promos</option>
 							
 								<option id="6163" value="Promotional_Electronics">Electronics</option>
 							
 								<option id="11946" value="free_samples">Free Product Samples</option>
+							
+								<option id="9534" value="gift_boxes">Gift Boxes</option>
 							
 								<option id="7728" value="holiday_gifts_all_occasions">Gifts for All Occasions</option>
 							
@@ -979,19 +973,25 @@ Back To Top
 							
 								<option id="9541" value="personalized_golf">Golf</option>
 							
-								<option id="9032" value="promotional_golf_products">Golf (New)</option>
+								<option id="11616" value="holiday_cards_and_collectibles">Holiday Cards &amp; Collectibles</option>
 							
 								<option id="11497" value="holiday_promotions">Holiday Promotions</option>
 							
+								<option id="9563" value="promotional_key_rings">Key Rings</option>
+							
 								<option id="11605" value="2012_calendar_sale">Last Chance Sale</option>
 							
-								<option id="8808" value="lighted_tool_pen">Lighted Tool Pen</option>
+								<option id="9121" value="lighted_promotional_products">Lighted Products</option>
 							
 								<option id="11788" value="mantova_offer">Mantova Trial Offer</option>
 							
-								<option id="8986" value="promotional_wall_calendars">Promotional Wall Calendars</option>
+								<option id="9527" value="corporate_food_gifts">Mugs &amp; Drinkware</option>
 							
-								<option id="13512" value="qr_code_card">QR Code Business Card</option>
+								<option id="6157" value="Personalized_Pads">Notepads &amp; Portfolios</option>
+							
+								<option id="13882" value="myron_promo_magnets">Promotional Magnets</option>
+							
+								<option id="8986" value="promotional_wall_calendars">Promotional Wall Calendars</option>
 							
 								<option id="11404" value="quick_ship_products">Quick Ship</option>
 							
@@ -1003,15 +1003,23 @@ Back To Top
 							
 								<option id="6474" value="Specialty">Specialty</option>
 							
-								<option id="9600" value="personalized_travel_gifts">Travel</option>
+								<option id="9616" value="tech_media_accessories">Tech &amp; Mobile Accessories</option>
 							
-								<option id="11079" value="promotional_pocket_calendars">Trilogy Pocket Calendars</option>
+								<option id="7614" value="The_Colors_of_Caring">The Color of Caring®</option>
+							
+								<option id="6173" value="Promotional_Keyrings">Tools</option>
+							
+								<option id="9600" value="personalized_travel_gifts">Travel</option>
 							
 								<option id="11768" value="prospect_try_us_10">Try Us $10 Offer</option>
 							
 								<option id="11695" value="dif_samples">Try Us Items</option>
 							
 								<option id="11750" value="dif_products_25_off">Try Us Program</option>
+							
+								<option id="9613" value="promotional_umbrellas">Umbrellas</option>
+							
+								<option id="8086" value="National_Wedding_Month">Wedding &amp; Anniversary Gifts</option>
 							
 					</select>
 
@@ -1058,11 +1066,7 @@ Back To Top
 															</li>
 														
 															<li>
-																<a href="http://www.myron.com/eng/categories/promotional_bags/promotional_laptop_bags">Laptop &amp; Tablet Bags</a>
-															</li>
-														
-															<li>
-																<a href="http://www.myron.com/eng/categories/promotional_bags/promotional_lunch_bags">Insulated Bags</a>
+																<a href="http://www.myron.com/eng/categories/promotional_bags/promotional_lunch_bags">Lunch Bags &amp; Coolers</a>
 															</li>
 														
 															<li>
@@ -1073,16 +1077,10 @@ Back To Top
 																<a href="http://www.myron.com/eng/categories/promotional_bags/promotional_duffel">Travel Bags</a>
 															</li>
 														
-															</ul>
-															
-															
-															<ul class="level3">
-															
-															</ul>
-															
-															
-															<ul class="level3">
-															
+															<li>
+																<a href="http://www.myron.com/eng/categories/promotional_bags/work_bags_briefcases">Work Bags &amp; Briefcases</a>
+															</li>
+														
 															</ul>
 															
 															
@@ -1095,42 +1093,44 @@ Back To Top
 									</li>
 								
 
-									<li class="level2" id="lev2opt2"><a class="level2" href="http://www.myron.com/eng/categories/bestselling_promotional_products">Best Sellers</a>
+									<li class="level2" id="lev2opt2"><a class="level2" href="http://www.myron.com/eng/categories/business_greeting_cards">Business Greeting Cards</a>
 
 										
 										
-											<div id="storeNavSlidebestselling_promotional_products" class="level3">
+											<div id="storeNavSlidebusiness_greeting_cards" class="level3">
 												<div class="level3innerwrapper">
-													<div class="shopAllBanner1"><span id="bphId_357" class="bannerPlaceHolder"><!-- Start of Flyout --><a class="flyoutLink" href="/eng/product/regatta_horizons_pocket_pal_calendar_with_notepad/horizonsduo" rel="{trackingLinkId:0,bannerId:5217,track:'Y'}"><img title="Advertise your business 365 days a year with the Regatta Horizons Pocket Calendar &amp; Notepad" alt="Advertise your business 365 days a year with the Regatta Horizons Pocket Calendar &amp; Notepad" width="160" src="/_static/webUpload/731/30_HORIZONSDUO_BLACKX0001_5.jpg">
-<h5>Stay on Track!</h5>
-<p>Advertise your business 365 days a year with high-quality pocket calendars you'll only find at Myron.</p>
+													<div class="shopAllBanner1"><span id="bphId_357" class="bannerPlaceHolder"><!-- Start of Flyout -->
+<a class="flyoutLink" href="/eng/categories/Business_Greeting_Cards" rel="{trackingLinkId:0,bannerId:5217,track:'Y'}">
+<img title="Our versatile line of customizable greeting cards are a perfect way for your business to engage your employees or deepen relationships with your customers and partners." alt="Our versatile line of customizable greeting cards are a perfect way for your business to engage your employees or deepen relationships with your customers and partners." width="160" src="/_static/webUpload/730/30_CELEBRATEGRTCRD_5.jpg">
+<h5>New Greeting Cards!</h5>
+<p>Our versatile line of customizable greeting cards are a perfect way for your business to engage your employees or deepen relationships with your customers and partners.</p>
 <p class="shopNowLink">&gt; Shop Now</p>
 </a></span></div>
 													
 													<ul class="level3">
 													
 															<li>
-																<a href="http://www.myron.com/eng/categories/bestselling_promotional_products/bestselling_personalized_pens">Promotional Pens</a>
+																<a href="http://www.myron.com/eng/categories/business_greeting_cards/birthdays__celebrations">Birthdays &amp; Celebrations</a>
 															</li>
 														
 															<li>
-																<a href="http://www.myron.com/eng/categories/bestselling_promotional_products/desk_planners__pocket_calendars">Desk Planners &amp; Pocket Calendars</a>
+																<a href="http://www.myron.com/eng/categories/business_greeting_cards/thank_you_cards">Thank You Cards</a>
 															</li>
 														
 															<li>
-																<a href="http://www.myron.com/eng/categories/bestselling_promotional_products/custom_wall_calendars">Custom Wall Calendars</a>
+																<a href="http://www.myron.com/eng/categories/business_greeting_cards/postcards">Postcards</a>
 															</li>
 														
 															<li>
-																<a href="http://www.myron.com/eng/categories/bestselling_promotional_products/personalized_drinkware">Personalized Drinkware</a>
+																<a href="http://www.myron.com/eng/categories/business_greeting_cards/holiday_greetings">Holiday Greeting Cards</a>
 															</li>
 														
 															<li>
-																<a href="http://www.myron.com/eng/categories/bestselling_promotional_products/tote_bags__personal_accessories">Promotional Tote Bags</a>
+																<a href="http://www.myron.com/eng/categories/business_greeting_cards/welcome">Welcome</a>
 															</li>
 														
 															<li>
-																<a href="http://www.myron.com/eng/categories/bestselling_promotional_products/best_seling_electronics">Tech &amp; Mobile Gadgets</a>
+																<a href="http://www.myron.com/eng/categories/business_greeting_cards/miscellaneous">Miscellaneous</a>
 															</li>
 														
 															</ul>
@@ -1138,14 +1138,6 @@ Back To Top
 															
 															<ul class="level3">
 															
-															<li>
-																<a href="http://www.myron.com/eng/categories/bestselling_promotional_products/best_selling_notepads">Notepads</a>
-															</li>
-														
-															<li>
-																<a href="http://www.myron.com/eng/categories/bestselling_promotional_products/bestselling_tools__flashlights">Pocket Tools</a>
-															</li>
-														
 													</ul>
 												</div>
 											</div>
@@ -1159,9 +1151,9 @@ Back To Top
 										
 											<div id="storeNavSlidecustom_planners" class="level3">
 												<div class="level3innerwrapper">
-													<div class="shopAllBanner1"><span id="bphId_358" class="bannerPlaceHolder"><!-- Start of Flyout --><a class="flyoutLink" href="/eng/product/2014_journey_through_america_desk_calendar_red/journeythruamericadc1?color=GOLD0002" rel="{trackingLinkId:0,bannerId:5218,track:'Y'}"><img title="Journey Through America Desk Calendar" alt="Journey Through America Desk Calendar" width="160" src="/_static/webUpload/731/30_JOURNEYTHRUAMERICADC1_GOLD0002_5.jpg">
-<h5>Myron Exclusive</h5>
-<p>Treat your customers and associates to a journey across America with the breathtaking images on this custom desk calendar.</p>
+													<div class="shopAllBanner1"><span id="bphId_358" class="bannerPlaceHolder"><!-- Start of Flyout --><a class="flyoutLink" href="/eng/product/regatta_horizons_pocket_pal_calendar_w_notepad_full_color_logo/horizonsduofc" rel="{trackingLinkId:0,bannerId:5218,track:'Y'}"><img title="Full Color Regatta Horizons" alt="Full Color Imprinting Now Available!" width="160" src="/_static/webUpload/731/30_HORIZONSDUOFC_TAN7602_5.jpg">
+<h5>Liven up your Logo</h5>
+<p>Showcase your logo in vivid full color! Available on select calendar items.</p>
 <p class="shopNowLink">&gt; Shop Now</p>
 </a></span></div>
 													
@@ -1208,7 +1200,7 @@ Back To Top
 													<ul class="level3">
 													
 															<li>
-																<a href="http://www.myron.com/eng/categories/corporate_gifts/small_business_saturday_promotional_giveaways">Small Business Saturday® Promotional Giveaways</a>
+																<a href="http://www.myron.com/eng/categories/corporate_gifts/promo_products">Summer Giveaways</a>
 															</li>
 														
 															<li>
@@ -1284,7 +1276,7 @@ Back To Top
 															</li>
 														
 															<li>
-																<a href="http://www.myron.com/eng/categories/promotional_desk/stress_relievers">Stress Relievers</a>
+																<a href="http://www.myron.com/eng/categories/promotional_desk/stress_relievers">Stress Balls &amp; More</a>
 															</li>
 														
 															<li>
@@ -1308,40 +1300,8 @@ Back To Top
 																<a href="http://www.myron.com/eng/categories/promotional_desk/engraved_business_card_holders">Business Card Holder</a>
 															</li>
 														
-													</ul>
-												</div>
-											</div>
-										
-									</li>
-								
-
-									<li class="level2" id="lev2opt6"><a class="level2" href="http://www.myron.com/eng/categories/earth_friendly_gifts">Earth Friendly</a>
-
-										
-										
-											<div id="storeNavSlideearth_friendly_gifts" class="level3">
-												<div class="level3innerwrapper">
-													<div class="shopAllBanner1"><span id="bphId_361" class="bannerPlaceHolder"><!-- Start of Flyout -->
-<a class="flyoutLink" href="/eng/categories/earth_friendly_gifts" rel="{trackingLinkId:0,bannerId:5223,track:'Y'}">
-<img title="Reduce your businesses’ impact on the environment by gifting reusable shopping totes to your customers instead of using plastic or paper bags." alt="Reduce your businesses’ impact on the environment by gifting reusable shopping totes to your customers instead of using plastic or paper bags." width="160" src="/_static/webUpload/731/30_ENVIROSHOPPER_NAVY0001_5.jpg">
-<h5>“Eco-Logical” Giveaways</h5>
-<p>Reduce your businesses’ impact on the environment by gifting reusable shopping totes to your customers instead of using plastic or paper bags.</p><p>
-</p><p class="shopNowLink">&gt; SHOP NOW</p>
-</a>
-</span></div>
-													
-													<ul class="level3">
-													
 															<li>
-																<a href="http://www.myron.com/eng/categories/earth_friendly_gifts/earth_friendly_gift">Eco-Friendly Products</a>
-															</li>
-														
-															<li>
-																<a href="http://www.myron.com/eng/categories/earth_friendly_gifts/solar_gifts">Solar Products</a>
-															</li>
-														
-															<li>
-																<a href="http://www.myron.com/eng/categories/earth_friendly_gifts/natural_gifts">Naturalist Gifts</a>
+																<a href="http://www.myron.com/eng/categories/promotional_desk/promotional_rulers">Rulers</a>
 															</li>
 														
 													</ul>
@@ -1351,58 +1311,18 @@ Back To Top
 									</li>
 								
 
-									<li class="level2" id="lev2opt7"><a class="level2" href="http://www.myron.com/eng/categories/corporate_food_gifts">Food &amp; Drinkware</a>
-
-										
-										
-											<div id="storeNavSlidecorporate_food_gifts" class="level3">
-												<div class="level3innerwrapper">
-													<div class="shopAllBanner1"><span id="bphId_362" class="bannerPlaceHolder"><!-- Start of Flyout --><a class="flyoutLink" href="/eng/categories/corporate_food_gifts" rel="{trackingLinkId:0,bannerId:5224,track:'Y'}"><img title="26 Oz. Kona Sports Bottle" alt="26 Oz. Kona Sports Bottle" width="160" src="/_static/webUpload/731/30_KONABOTTLE_BLUE0001_2.jpg">
-<h5>Empower Your Brand</h5>
-<p>Your brand will be unstopabble when you use promotional drinkware, like our Kona Sports Bottle, to promote your business.</p>
-<p class="shopNowLink">&gt; SHOP NOW</p>
-</a></span></div>
-													
-													<ul class="level3">
-													
-															<li>
-																<a href="http://www.myron.com/eng/categories/corporate_food_gifts/promotional_coffee_mugs">Coffee Mugs &amp; Drinkware</a>
-															</li>
-														
-															<li>
-																<a href="http://www.myron.com/eng/categories/corporate_food_gifts/promotional_sports_bottles">Sports Bottles</a>
-															</li>
-														
-															<li>
-																<a href="http://www.myron.com/eng/categories/corporate_food_gifts/cooler_bags">Lunch Bags &amp; Food Containers</a>
-															</li>
-														
-															<li>
-																<a href="http://www.myron.com/eng/categories/corporate_food_gifts/corporate_food_gifts">Chocolate &amp; Edibles</a>
-															</li>
-														
-															<li>
-																<a href="http://www.myron.com/eng/categories/corporate_food_gifts/personalized_drinking_glasses">Glassware</a>
-															</li>
-														
-													</ul>
-												</div>
-											</div>
-										
-									</li>
-								
-
-									<li class="level2" id="lev2opt8"><a class="level2" href="http://www.myron.com/eng/categories/gift_boxes">Gift Boxes</a>
+									<li class="level2" id="lev2opt6"><a class="level2" href="http://www.myron.com/eng/categories/gift_boxes">Gift Boxes</a>
 
 										
 										
 											<div id="storeNavSlidegift_boxes" class="level3">
 												<div class="level3innerwrapper">
-													<div class="shopAllBanner1"><span id="bphId_363" class="bannerPlaceHolder"><!-- Start of Flyout --><a class="flyoutLink" href="/eng/product/pen_sleeve_with_red_bow/whitepensleeve" rel="{trackingLinkId:0,bannerId:5236,track:'Y'}"><img title="Complete your gifting experience with picture perfect pen gift boxes." alt="Complete your gifting experience with picture perfect pen gift boxes." width="160" src="/_static/webUpload/731/30_WHITEPENSLEEVE_WHITE0001_5.jpg">
+													<div class="shopAllBanner1"><span id="bphId_361" class="bannerPlaceHolder"><!-- Start of Flyout --><a class="flyoutLink" href="/eng/product/pen_sleeve_with_red_bow/whitepensleeve" rel="{trackingLinkId:0,bannerId:5223,track:'Y'}"><img title="Complete your gifting experience with picture perfect pen gift boxes." alt="Complete your gifting experience with picture perfect pen gift boxes." width="160" src="/_static/webUpload/731/30_WHITEPENSLEEVE_WHITE0001_5.jpg">
 <h5>The Finishing Touch</h5>
 <p>Complete your gifting experience with picture perfect pen gift boxes.</p>
 <p class="shopNowLink">&gt; SHOP NOW</p>
-</a></span></div>
+</a>
+</span></div>
 													
 													<ul class="level3">
 													
@@ -1425,29 +1345,109 @@ Back To Top
 									</li>
 								
 
-									<li class="level2" id="lev2opt9"><a class="level2" href="http://www.myron.com/eng/categories/promotional_health_safety">Health &amp; Safety</a>
+									<li class="level2" id="lev2opt7"><a class="level2" href="http://www.myron.com/eng/categories/promotional_giveaways">Giveaways</a>
 
 										
 										
-											<div id="storeNavSlidepromotional_health_safety" class="level3">
+											<div id="storeNavSlidepromotional_giveaways" class="level3">
 												<div class="level3innerwrapper">
-													<div class="shopAllBanner1"><span id="bphId_364" class="bannerPlaceHolder"><!-- Start of Flyout -->
-<a class="flyoutLink" href="/eng/categories/promotional_health_safety" rel="{trackingLinkId:0,bannerId:5237,track:'Y'}"><img title="Brand-Aid" alt="Brand-Aid" width="160" src="/_static/webUpload/731/30_BANDAGECASE_RED0001_5.jpg">
+													<div class="shopAllBanner1"><span id="bphId_362" class="bannerPlaceHolder"><!-- Start of Flyout -->
+<a class="flyoutLink" href="/eng/categories/promotional_health_safety" rel="{trackingLinkId:0,bannerId:5224,track:'Y'}"><img title="Brand-Aid" alt="Brand-Aid" width="160" src="/_static/webUpload/731/30_BANDAGECASE_RED0001_5.jpg">
 <h5>Brand-Aid	</h5>
 <p>Let customers, prospects and associates know you care about their wellbeing with Health &amp; Safety promotional items like our Printed Bandage Dispenser.</p>
 <p class="shopNowLink">&gt; SHOP NOW</p>
-</a></span></div>
+</a>
+</span></div>
 													
 													<ul class="level3">
 													
 															<li>
-																<a href="http://www.myron.com/eng/categories/promotional_health_safety/promotional_personal_care">Personal Health &amp; Grooming</a>
+																<a href="http://www.myron.com/eng/categories/promotional_giveaways/outdoor_promotional_products">Outdoor &amp; Leisure</a>
 															</li>
 														
 															<li>
-																<a href="http://www.myron.com/eng/categories/promotional_health_safety/roadside_auto_safety_kits">Auto Safety Kits &amp; Accessories</a>
+																<a href="http://www.myron.com/eng/categories/promotional_giveaways/personalized_golf_balls_golf_accessories">Golf Balls &amp; Accessories</a>
 															</li>
 														
+															<li>
+																<a href="http://www.myron.com/eng/categories/promotional_giveaways/office_desk_accessories">Office</a>
+															</li>
+														
+															<li>
+																<a href="http://www.myron.com/eng/categories/promotional_giveaways/promotional_health_and_safetly_items">Health and Safety</a>
+															</li>
+														
+															<li>
+																<a href="http://www.myron.com/eng/categories/promotional_giveaways/auto_accessories">Automotive Gifts</a>
+															</li>
+														
+															<li>
+																<a href="http://www.myron.com/eng/categories/promotional_giveaways/promotional_pocket_tools_and_key_rings">Keyrings &amp; Pocket Tools</a>
+															</li>
+														
+															</ul>
+															
+															
+															<ul class="level3">
+															
+															<li>
+																<a href="http://www.myron.com/eng/categories/promotional_giveaways/promotional_flash_drives">Tech Giveaways</a>
+															</li>
+														
+															<li>
+																<a href="http://www.myron.com/eng/categories/promotional_giveaways/promotional_sports_bottles">Sports Bottle</a>
+															</li>
+														
+															<li>
+																<a href="http://www.myron.com/eng/categories/promotional_giveaways/custom_coolers_lunchbags">Coolers &amp; Lunch Bags</a>
+															</li>
+														
+															<li>
+																<a href="http://www.myron.com/eng/categories/promotional_giveaways/promotional_business_bags">Business Bags</a>
+															</li>
+														
+															<li>
+																<a href="http://www.myron.com/eng/categories/promotional_giveaways/logo_totes__bags">Logo Totes &amp; Bags</a>
+															</li>
+														
+															<li>
+																<a href="http://www.myron.com/eng/categories/promotional_giveaways/promotional_mugs">Coffee Mugs &amp; Tumblers</a>
+															</li>
+														
+															</ul>
+															
+															
+															<ul class="level3">
+															
+															<li>
+																<a href="http://www.myron.com/eng/categories/promotional_giveaways/umbrellas">Promotional Umbrellas</a>
+															</li>
+														
+															<li>
+																<a href="http://www.myron.com/eng/categories/promotional_giveaways/personalized_gourmet_chocolates">Chocolate and Edible Gifts</a>
+															</li>
+														
+															<li>
+																<a href="http://www.myron.com/eng/categories/promotional_giveaways/promotional_stress_balls">Stress Relievers</a>
+															</li>
+														
+															<li>
+																<a href="http://www.myron.com/eng/categories/promotional_giveaways/custom_magnets">Magnet</a>
+															</li>
+														
+															<li>
+																<a href="http://www.myron.com/eng/categories/promotional_giveaways/microfiber_cloths">Microfiber Cloths</a>
+															</li>
+														
+															<li>
+																<a href="http://www.myron.com/eng/categories/promotional_giveaways/kitchen_promotional_products">Home &amp; Kitchen</a>
+															</li>
+														
+															</ul>
+															
+															
+															<ul class="level3">
+															
 													</ul>
 												</div>
 											</div>
@@ -1455,15 +1455,15 @@ Back To Top
 									</li>
 								
 
-									<li class="level2" id="lev2opt10"><a class="level2" href="http://www.myron.com/eng/categories/holiday_cards_and_collectibles">Holiday Cards &amp; Collectibles</a>
+									<li class="level2" id="lev2opt8"><a class="level2" href="http://www.myron.com/eng/categories/holiday_cards_and_collectibles">Holiday Cards &amp; Collectibles</a>
 
 										
 										
 											<div id="storeNavSlideholiday_cards_and_collectibles" class="level3">
 												<div class="level3innerwrapper">
-													<div class="shopAllBanner1"><span id="bphId_365" class="bannerPlaceHolder"><!-- Start of Flyout --><a class="flyoutLink" href="/eng/categories/holiday_cards_and_collectibles/classic_holiday_cards" rel="{trackingLinkId:0,bannerId:5211,track:'Y'}"><img title="Tis the season to be jolly" alt="Tis the season to be jolly" width="160" src="/_static/webUpload/730/30_SEASONALCOMFORT_5.jpg">
-<h5>'Tis The Season To Be Jolly</h5>
-<p>It's the perfect time to show your appreciation! Express your gratitude and good wishes with our extensive collection of holiday cards.</p>
+													<div class="shopAllBanner1"><span id="bphId_363" class="bannerPlaceHolder"><!-- Start of Flyout --><a class="flyoutLink" href="/eng/categories/holiday_cards_and_collectibles/classic_holiday_cards" rel="{trackingLinkId:0,bannerId:5236,track:'Y'}"><img title="Tis the season to be jolly" alt="Warm Holiday Greetings" width="160" src="/_static/webUpload/730/30_SEASONALCOMFORT_5.jpg">
+<h5>Warm Wishes</h5>
+<p>Express your gratitude and good wishes with our extensive collection of holiday cards.</p>
 <p class="shopNowLink">&gt; Shop Now</p>
 </a></span></div>
 													
@@ -1484,14 +1484,14 @@ Back To Top
 									</li>
 								
 
-									<li class="level2" id="lev2opt11"><a class="level2" href="http://www.myron.com/eng/categories/promotional_key_rings">Key Rings</a>
+									<li class="level2" id="lev2opt9"><a class="level2" href="http://www.myron.com/eng/categories/promotional_key_rings">Key Rings</a>
 
 										
 										
 											<div id="storeNavSlidepromotional_key_rings" class="level3">
 												<div class="level3innerwrapper">
-													<div class="shopAllBanner1"><span id="bphId_366" class="bannerPlaceHolder"><!-- Start of Flyout -->
-<a class="flyoutLink" href="/eng/product/calvin_3led_flashlight_key_ring/calvinkr" rel="{trackingLinkId:0,bannerId:5238,track:'Y'}">
+													<div class="shopAllBanner1"><span id="bphId_364" class="bannerPlaceHolder"><!-- Start of Flyout -->
+<a class="flyoutLink" href="/eng/product/calvin_3led_flashlight_key_ring/calvinkr" rel="{trackingLinkId:0,bannerId:5237,track:'Y'}">
 <img title="Promotional Calvin 3 LED Flashlight Keyring" alt="Promotional Calvin 3 LED Flashlight Keyring" width="160" src="/_static/webUpload/731/30_CALVINKR_BLUE0001_5.jpg">
 <h5>Light the Way</h5>
 <p>Dazzle customers with unique promotional items like our new Calvin 3 LED Flashlight Keyring.</p>
@@ -1523,13 +1523,13 @@ Back To Top
 									</li>
 								
 
-									<li class="level2" id="lev2opt12"><a class="level2" href="http://www.myron.com/eng/categories/lighted_promotional_products">Lighted Products</a>
+									<li class="level2" id="lev2opt10"><a class="level2" href="http://www.myron.com/eng/categories/lighted_promotional_products">Lighted Products</a>
 
 										
 										
 											<div id="storeNavSlidelighted_promotional_products" class="level3">
 												<div class="level3innerwrapper">
-													<div class="shopAllBanner1"><span id="bphId_367" class="bannerPlaceHolder"><!-- Start of Flyout --><a class="flyoutLink" href="/eng/product/custom_stylus_flashlight/stylusflashlight?color=BLACK0003" rel="{trackingLinkId:0,bannerId:5240,track:'Y'}"><img title="In The Spotlight" alt="In The Spotlight" width="160" src="/_static/webUpload/731/30_STYLUSFLASHLIGHT_BLACK0003_5.jpg">
+													<div class="shopAllBanner1"><span id="bphId_365" class="bannerPlaceHolder"><!-- Start of Flyout --><a class="flyoutLink" href="/eng/product/custom_stylus_flashlight/stylusflashlight?color=BLACK0003" rel="{trackingLinkId:0,bannerId:5211,track:'Y'}"><img title="In The Spotlight" alt="In The Spotlight" width="160" src="/_static/webUpload/731/30_STYLUSFLASHLIGHT_BLACK0003_5.jpg">
 <h5>In The Spotlight</h5>
 <p>Custom Stylus Flashlight - Combining a precision tip capacitive stylus that won't leave smudges with a powerful pocket light is brilliant!</p>
 <p class="shopNowLink">&gt; SHOP NOW</p>
@@ -1556,14 +1556,55 @@ Back To Top
 									</li>
 								
 
-									<li class="level2" id="lev2opt13"><a class="level2" href="http://www.myron.com/eng/categories/personalized_pads">Notepads &amp; Portfolios</a>
+									<li class="level2" id="lev2opt11"><a class="level2" href="http://www.myron.com/eng/categories/corporate_food_gifts">Mugs &amp; Drinkware</a>
+
+										
+										
+											<div id="storeNavSlidecorporate_food_gifts" class="level3">
+												<div class="level3innerwrapper">
+													<div class="shopAllBanner1"><span id="bphId_366" class="bannerPlaceHolder"><!-- Start of Flyout --><a class="flyoutLink" href="/eng/categories/corporate_food_gifts" rel="{trackingLinkId:0,bannerId:5238,track:'Y'}"><img title="26 Oz. Kona Sports Bottle" alt="26 Oz. Kona Sports Bottle" width="160" src="/_static/webUpload/731/30_KONABOTTLE_BLUE0001_2.jpg">
+<h5>Empower Your Brand</h5>
+<p>Your brand will be unstopabble when you use promotional drinkware, like our Kona Sports Bottle, to promote your business.</p>
+<p class="shopNowLink">&gt; SHOP NOW</p>
+</a></span></div>
+													
+													<ul class="level3">
+													
+															<li>
+																<a href="http://www.myron.com/eng/categories/corporate_food_gifts/promotional_coffee_mugs">Coffee Mugs</a>
+															</li>
+														
+															<li>
+																<a href="http://www.myron.com/eng/categories/corporate_food_gifts/promotional_travel_mugs">Travel Mugs &amp; Tumblers</a>
+															</li>
+														
+															<li>
+																<a href="http://www.myron.com/eng/categories/corporate_food_gifts/promotional_sports_bottles">Sports Bottles</a>
+															</li>
+														
+															<li>
+																<a href="http://www.myron.com/eng/categories/corporate_food_gifts/promotional_coasters">Holders, Coasters &amp; Accesories</a>
+															</li>
+														
+															<li>
+																<a href="http://www.myron.com/eng/categories/corporate_food_gifts/personalized_drinking_glasses">Glassware</a>
+															</li>
+														
+													</ul>
+												</div>
+											</div>
+										
+									</li>
+								
+
+									<li class="level2" id="lev2opt12"><a class="level2" href="http://www.myron.com/eng/categories/personalized_pads">Notepads &amp; Portfolios</a>
 
 										
 										
 											<div id="storeNavSlidepersonalized_pads" class="level3">
 												<div class="level3innerwrapper">
-													<div class="shopAllBanner1"><span id="bphId_368" class="bannerPlaceHolder"><!-- Start of Flyout -->
-<a class="flyoutLink" href="/eng/product/custom_sticky_note_book/stickybook" rel="{trackingLinkId:0,bannerId:5241,track:'Y'}">
+													<div class="shopAllBanner1"><span id="bphId_367" class="bannerPlaceHolder"><!-- Start of Flyout -->
+<a class="flyoutLink" href="/eng/product/custom_sticky_note_book/stickybook" rel="{trackingLinkId:0,bannerId:5240,track:'Y'}">
 <img title="Custom Sticky Note Book" alt="Make a first impression that sticks with our Custom Sticky Notebook." width="160" src="/_static/webUpload/731/30_STICKYBOOK_WHITE0001_5.jpg">
 <h5>Stick to Your Goals</h5>
 <p>Make a first impression that sticks with our Custom Sticky Notebook.</p>
@@ -1577,7 +1618,7 @@ Back To Top
 															</li>
 														
 															<li>
-																<a href="http://www.myron.com/eng/categories/personalized_pads/personalized_portfolios">Executive Portfolios</a>
+																<a href="http://www.myron.com/eng/categories/personalized_pads/personalized_portfolios">Portfolios, Padfolios &amp; Folders</a>
 															</li>
 														
 															<li>
@@ -1595,14 +1636,14 @@ Back To Top
 									</li>
 								
 
-									<li class="level2" id="lev2opt14"><a class="level2" href="http://www.myron.com/eng/categories/promotional_pens">Pens &amp; Refills</a>
+									<li class="level2" id="lev2opt13"><a class="level2" href="http://www.myron.com/eng/categories/promotional_pens">Pens &amp; Refills</a>
 
 										
 										
 											<div id="storeNavSlidepromotional_pens" class="level3">
 												<div class="level3innerwrapper">
-													<div class="shopAllBanner1"><span id="bphId_369" class="bannerPlaceHolder"><!-- Start of Flyout -->
-<a class="flyoutLink" href="/eng/categories/promotional_pens/personalized_pens" rel="{trackingLinkId:0,bannerId:5307,track:'Y'}">
+													<div class="shopAllBanner1"><span id="bphId_368" class="bannerPlaceHolder"><!-- Start of Flyout -->
+<a class="flyoutLink" href="/eng/categories/promotional_pens/personalized_pens" rel="{trackingLinkId:0,bannerId:5241,track:'Y'}">
 <img title="Bel Arte Pen" alt="Simply the Best!" width="160" src="/_static/webUpload/731/30_BELARTE_HUNTER0002_2.jpg">
 
 <h5>Simply the Best!</h5>
@@ -1668,24 +1709,60 @@ Back To Top
 									</li>
 								
 
+									<li class="level2" id="lev2opt14"><a class="level2" href="http://www.myron.com/eng/categories/myron_promo_magnets">Promotional Magnets</a>
+
+										
+										
+											<div id="storeNavSlidemyron_promo_magnets" class="level3">
+												<div class="level3innerwrapper">
+													<div class="shopAllBanner1"><span id="bphId_369" class="bannerPlaceHolder"><!-- Start of Flyout -->
+<a class="flyoutLink" href="/eng/product/patriotic_promo_magnet/magnetflag" rel="{trackingLinkId:0,bannerId:5307,track:'Y'}">
+<img title="Patriotic Promo Magnet" alt="Patriotic Promo Magnet" width="160" src="/_static/webUpload/730/30_MAGNETFLAG_5.jpg">
+
+<h5>Attract New Business</h5>
+<p>Attract new customers and keep them coming back with our new line of advertising magnets.  Our Patriotic Promo Magnet is perfect for any industry and will serve as a constant reminder of your company and contact information.</p>
+<p class="shopNowLink">&gt; Shop Now</p>
+</a></span></div>
+													
+													<ul class="level3">
+													
+															<li>
+																<a href="http://www.myron.com/eng/categories/myron_promo_magnets/promo_magnet">Promo Magnets</a>
+															</li>
+														
+													</ul>
+												</div>
+											</div>
+										
+									</li>
+								
+
 									<li class="level2" id="lev2opt15"><a class="level2" href="http://www.myron.com/eng/categories/gift_ideas_by_industry">Shop by Industry</a>
 
 										
 										
 											<div id="storeNavSlidegift_ideas_by_industry" class="level3">
 												<div class="level3innerwrapper">
-													<div class="shopAllBanner1"><span id="bphId_370" class="bannerPlaceHolder"><!-- Start of Flyout -->
-<a class="flyoutLink" href="/eng/product/regatta_quadrant_pocket_pal_calendar_with_notepad/regquadrantduo" rel="{trackingLinkId:0,bannerId:5242,track:'Y'}">
-<img title="Inspired Design" alt="Inspired Design" width="160" src="/_static/webUpload/731/30_REGQUADRANTDUO_BLACK0001_5.jpg">
-
-<h5>Inspired Design</h5>
-<p>The all black, debossed design of the Regatta Quadrant Pocket Calendar will give your brand the high-style look you've been searching for.</p>
+													<div class="shopAllBanner1"><span id="bphId_370" class="bannerPlaceHolder"><!-- Start of Flyout --><a class="flyoutLink" href="/eng/categories/gift_ideas_by_industry/construction_marketing" rel="{trackingLinkId:0,bannerId:5242,track:'Y'}"><img title="Business Builders" alt="Business Builders" width="160" src="/_static/webUpload/731/30_MINHRDHATKEYCH_YELLOW0001_5.jpg">
+<h5>Business Builders</h5>
+<p>Find the perfect giveaways for your industry! Our Hard Hat Promotional Keychain is great for construction companies, contractors &amp; more.</p>
 <p class="shopNowLink">&gt; SHOP NOW</p>
-</a>
-</span></div>
+</a></span></div>
 													
 													<ul class="level3">
 													
+															<li>
+																<a href="http://www.myron.com/eng/categories/gift_ideas_by_industry/church_and_religious">Religious Organizations</a>
+															</li>
+														
+															<li>
+																<a href="http://www.myron.com/eng/categories/gift_ideas_by_industry/promotional_items_healthcare">Healthcare</a>
+															</li>
+														
+															<li>
+																<a href="http://www.myron.com/eng/categories/gift_ideas_by_industry/real_estate_promotional_products">Real Estate</a>
+															</li>
+														
 															<li>
 																<a href="http://www.myron.com/eng/categories/gift_ideas_by_industry/transportation_industry">Transportation &amp; Logistics</a>
 															</li>
@@ -1698,6 +1775,11 @@ Back To Top
 																<a href="http://www.myron.com/eng/categories/gift_ideas_by_industry/manufacturing_advertising">Manufacturing</a>
 															</li>
 														
+															</ul>
+															
+															
+															<ul class="level3">
+															
 															<li>
 																<a href="http://www.myron.com/eng/categories/gift_ideas_by_industry/automotive_gifts">Automotive</a>
 															</li>
@@ -1710,17 +1792,8 @@ Back To Top
 																<a href="http://www.myron.com/eng/categories/gift_ideas_by_industry/construction_marketing">Construction</a>
 															</li>
 														
-															</ul>
-															
-															
-															<ul class="level3">
-															
 															<li>
 																<a href="http://www.myron.com/eng/categories/gift_ideas_by_industry/promotional_products_for_schools">Education</a>
-															</li>
-														
-															<li>
-																<a href="http://www.myron.com/eng/categories/gift_ideas_by_industry/promotional_items_healthcare">Health &amp; Beauty</a>
 															</li>
 														
 															<li>
@@ -1731,25 +1804,25 @@ Back To Top
 																<a href="http://www.myron.com/eng/categories/gift_ideas_by_industry/law_firms_marketing">Legal &amp; Accounting Firms</a>
 															</li>
 														
-															<li>
-																<a href="http://www.myron.com/eng/categories/gift_ideas_by_industry/nonprofit_promotional_items">Non-profit Organizations</a>
-															</li>
-														
-															<li>
-																<a href="http://www.myron.com/eng/categories/gift_ideas_by_industry/real_estate_promotional_products">Real Estate</a>
-															</li>
-														
 															</ul>
 															
 															
 															<ul class="level3">
 															
 															<li>
+																<a href="http://www.myron.com/eng/categories/gift_ideas_by_industry/nonprofit_promotional_items">Non-profit Organizations</a>
+															</li>
+														
+															<li>
 																<a href="http://www.myron.com/eng/categories/gift_ideas_by_industry/government_promotional_gifts">Government</a>
 															</li>
 														
 															<li>
 																<a href="http://www.myron.com/eng/categories/gift_ideas_by_industry/technology_industry_gifts">Technology</a>
+															</li>
+														
+															<li>
+																<a href="http://www.myron.com/eng/categories/gift_ideas_by_industry/personal_care_promotional_items">Beauty Salons &amp; Spas</a>
 															</li>
 														
 													</ul>
@@ -1785,15 +1858,15 @@ Back To Top
 															</li>
 														
 															<li>
-																<a href="http://www.myron.com/eng/categories/tech_media_accessories/custom_laptop_bags">Computer Bags</a>
-															</li>
-														
-															<li>
-																<a href="http://www.myron.com/eng/categories/tech_media_accessories/promotional_usbs">USB Flash Drives</a>
+																<a href="http://www.myron.com/eng/categories/tech_media_accessories/custom_laptop_bags">Bags &amp; Cases</a>
 															</li>
 														
 															<li>
 																<a href="http://www.myron.com/eng/categories/tech_media_accessories/customized_phone_cases">Phone Cases/Holder</a>
+															</li>
+														
+															<li>
+																<a href="http://www.myron.com/eng/categories/tech_media_accessories/promotional_usbs">USB Flash Drives</a>
 															</li>
 														
 													</ul>
@@ -2016,12 +2089,9 @@ Back To Top
                         
                             <ul class="level2">
 								<li class="mainNavBanner"><span id="bphId_377" class="bannerPlaceHolder"><!-- Load In Stylesheet -->
-<link rel="stylesheet" type="text/css" href="/static/webupload/MyronArtifacts/css/flyouts-live.css">
-<!-- Start of Flyout -->
-<a class="flyoutLink" href="/eng/categories/custom_planners/wall_calendars" rel="{trackingLinkId:0,bannerId:5205,track:'Y'}">
-<img title="New-Exclusive-Unique" alt="Journey Thru America Wall Calendar with Jot-n-Erase &amp; Pen" width="160" src="/_static/webUpload/731/30_JOURNEYWCFULDRYERASEPEN_PRIME002_5.jpg">
+<link rel="stylesheet" type="text/css" href="/static/webupload/MyronArtifacts/css/flyouts-live.css"><!-- Start of Flyout --><a class="flyoutLink" href="/eng/categories/custom_planners/wall_calendars" rel="{trackingLinkId:0,bannerId:5205,track:'Y'}"><img title="New-Exclusive-Unique" alt="2015 Journey Through America Wall Calendar" width="160" src="/_static/webUpload/731/30_JOURNEYWC_PRIME001_5.jpg">
 <h5>New-Exclusive-Unique</h5>
-<p>Our new 2014 Exclusive wall calendars are packed with special features that make them unique gifts that dont just hang on the wall.</p>
+<p>Our Exclusive 2015 wall calendars are here and they're packed with special features that make them unique gifts that dont just hang on the wall.</p>
 <p class="shopNowLink">&gt; Shop Now</p>
 </a></span></li>
    								
@@ -2055,18 +2125,18 @@ Back To Top
                         
                         </li>
 					
-                        <li class="level1" id="lev1opt4"><a class="level1" href="http://www.myron.com/eng/categories/holiday_cards_gifts">Holiday Headquarters</a>
+                        <li class="level1" id="lev1opt4"><a class="level1" href="http://www.myron.com/eng/categories/holiday_cards_gifts">Events &amp; Occasions</a>
                         
                             <ul class="level2">
-								<li class="mainNavBanner"><span id="bphId_379" class="bannerPlaceHolder"><link rel="stylesheet" type="text/css" href="/static/webupload/MyronArtifacts/css/flyouts-live.css"><!-- Start of Flyout --><a class="flyoutLink" href="/eng/product/personalized_wine_accessory_set/waitersfriend?color=MAHOGANY0001" rel="{trackingLinkId:0,bannerId:5210,track:'Y'}"><img title="Autumn Inspiration " alt="Autumn Inspiration " width="160" src="/_static/webUpload/731/30_WAITERSFRIEND_MAHOGANY0001_5.jpg">
-<h5>Holiday Cheer</h5>
-<p>Find the perfect Host or Hostess gift for this Holiday Season! Our Personalized Wine Accessory Set makes a beautiful addition to any wine lover’s collection.</p>
+								<li class="mainNavBanner"><span id="bphId_379" class="bannerPlaceHolder"><link rel="stylesheet" type="text/css" href="/static/webupload/MyronArtifacts/css/flyouts-live.css"><!-- Start of Flyout --><a class="flyoutLink" href="/eng/product/personalized_wine_accessory_set/waitersfriend?color=MAHOGANY0001" rel="{trackingLinkId:0,bannerId:5210,track:'Y'}"><img title="Gifts for Any Occasion" alt="Autumn Inspiration " width="160" src="/_static/webUpload/731/30_WAITERSFRIEND_MAHOGANY0001_5.jpg">
+<h5>Make a Big Impression</h5>
+<p>Find the perfect gift for your next event! Our Personalized Wine Accessory Set makes a beautiful addition to any wine lover’s collection.</p>
 <p class="shopNowLink">&gt; SHOP NOW</p>
 </a></span></li>
    								
     								<li>
     		                            <ul id="storeNavSlide1holiday_cards_gifts">
-    		                                <li><a href="http://www.myron.com/eng/categories/holiday_cards_gifts/holiday_gift_guide">Top 10 Holiday Gifts</a></li><li><a href="http://www.myron.com/eng/categories/holiday_cards_gifts/personal_gifts_friends_family">Appreciation Gifts</a></li><li><a href="http://www.myron.com/eng/categories/holiday_cards_gifts/gifts_for_her">Top Gifts for Her</a></li><li><a href="http://www.myron.com/eng/categories/holiday_cards_gifts/gifts_for_him">Top Gifts for Him</a></li><li><a href="http://www.myron.com/eng/categories/holiday_cards_gifts/all_holiday_cards">Holiday Cards</a></li><li><a href="http://www.myron.com/eng/categories/holiday_cards_gifts/musicboxes_figurines_collectibles">Holiday Collectibles &amp; Decorations</a></li><li><a href="http://www.myron.com/eng/categories/holiday_cards_gifts/chocolates__edibles">Chocolates &amp; Edibles</a></li><li><a href="http://www.myron.com/eng/categories/holiday_cards_gifts/barware_wine">Barware &amp; Wine Accessories</a></li>
+    		                                <li><a href="http://www.myron.com/eng/categories/holiday_cards_gifts/personal_gifts_friends_family">Thank You</a></li><li><a href="http://www.myron.com/eng/categories/holiday_cards_gifts/new_job_gift">New Job/Promotion Gift Ideas</a></li><li><a href="http://www.myron.com/eng/categories/holiday_cards_gifts/chocolates__edibles">Chocolates &amp; Edibles</a></li><li><a href="http://www.myron.com/eng/categories/holiday_cards_gifts/barware_wine">Barware &amp; Wine Accessories</a></li><li><a href="http://www.myron.com/eng/categories/holiday_cards_gifts/earth_day_promotional_items">Earth Day-Every Day</a></li><li><a href="http://www.myron.com/eng/categories/holiday_cards_gifts/weddings">Weddings</a></li>
     									</ul>
     		                   		</li>
    		                        
@@ -2103,13 +2173,13 @@ div#topMenuSectionsContainer ul#topMenuSections li#lev1opt5:hover > ul {
    								
     								<li>
     		                            <ul id="storeNavSlide1new">
-    		                                <li><a href="http://www.myron.com/eng/categories/new/mugs_drinkware">Drinkware</a></li><li><a href="http://www.myron.com/eng/categories/new/coolers_bags_totes">Coolers/Bags/Totes</a></li><li><a href="http://www.myron.com/eng/categories/new/unique_gifts">Unique Gifts</a></li><li><a href="http://www.myron.com/eng/categories/new/usb_drives_electronics">Tech Gadgets &amp; Electronics</a></li><li><a href="http://www.myron.com/eng/categories/new/exclusive_wall_calendars">Exclusive Wall Calendars</a></li><li><a href="http://www.myron.com/eng/categories/new/calendars_planners">Calendars and Planners</a></li><li><a href="http://www.myron.com/eng/categories/new/capacitive_stylus_pen">Capacitive Stylus</a></li><li><a href="http://www.myron.com/eng/categories/new/pens_highlighters">Pens &amp; Highlighters</a></li><li><a href="http://www.myron.com/eng/categories/new/promotional_umbrellas_new">Umbrella</a></li><li><a href="http://www.myron.com/eng/categories/new/tools__key_rings">Tools &amp; Key Rings</a></li>
+    		                                <li><a href="http://www.myron.com/eng/categories/new/new_promotional_golf_products">Sports &amp; Outdoor</a></li><li><a href="http://www.myron.com/eng/categories/new/calendars_planners">Calendars and Planners</a></li><li><a href="http://www.myron.com/eng/categories/new/greeting_cards">Greeting Cards &amp; Postcards</a></li><li><a href="http://www.myron.com/eng/categories/new/tools__key_rings">Tools/Automotive</a></li><li><a href="http://www.myron.com/eng/categories/new/custom_office_supplies">Office Products</a></li><li><a href="http://www.myron.com/eng/categories/new/usb_drives_electronics">Tech Gadgets &amp; Electronics</a></li><li><a href="http://www.myron.com/eng/categories/new/promotional_health_beauty_items">Personal/Healthcare</a></li><li><a href="http://www.myron.com/eng/categories/new/business_cards_magnets">Business Cards Magnets</a></li><li><a href="http://www.myron.com/eng/categories/new/coolers_bags_totes">Coolers/Bags/Totes</a></li><li><a href="http://www.myron.com/eng/categories/new/mugs_drinkware">Drinkware</a></li>
     									</ul>
     		                   		</li>
    		                        
     								<li>
     		                            <ul id="storeNavSlide2new">
-    		                                <li><a href="http://www.myron.com/eng/categories/new/executive_gifts">Adler Collection Executive Gifts</a></li>
+    		                                <li><a href="http://www.myron.com/eng/categories/new/unique_gifts">Unique Giveaways</a></li><li><a href="http://www.myron.com/eng/categories/new/exclusive_wall_calendars">Exclusive Wall Calendars</a></li><li><a href="http://www.myron.com/eng/categories/new/capacitive_stylus_pen">Capacitive Stylus</a></li><li><a href="http://www.myron.com/eng/categories/new/pens_highlighters">Pens &amp; Highlighters</a></li><li><a href="http://www.myron.com/eng/categories/new/promotional_umbrellas_new">Umbrella</a></li><li><a href="http://www.myron.com/eng/categories/new/notepads">Note pads</a></li><li><a href="http://www.myron.com/eng/categories/new/microfiber_cloths">Microfiber Cloths</a></li><li><a href="http://www.myron.com/eng/categories/new/promotional_houseware_items">Houseware</a></li>
     									</ul>
     		                   		</li>
    		                        
@@ -2121,15 +2191,21 @@ div#topMenuSectionsContainer ul#topMenuSections li#lev1opt5:hover > ul {
                         
                             <ul class="level2">
 								<li class="mainNavBanner"><span id="bphId_381" class="bannerPlaceHolder"><!-- Load In Stylesheet -->
-<link rel="stylesheet" type="text/css" href="/static/webupload/MyronArtifacts/css/flyouts-live.css"><!-- Start of Flyout --><a class="flyoutLink" href="/eng/categories/discount_pricing/new_sale" rel="{trackingLinkId:0,bannerId:6309,track:'Y'}"><img title="Merida Ladies' Gloves" alt="Merida Ladies' Gloves" width="160" src="/_static/webUpload/731/30_MERIDABRNWOMEN_BROWN0001_5.jpg">
-<h5>Holiday Sale!</h5>
-<p>Save up to 76% off on gifts for any occasion! Shop extraordinary markdowns on a wide selection of promotional products &amp; stylish gifts.</p>
+<link rel="stylesheet" type="text/css" href="/static/webupload/MyronArtifacts/css/flyouts-live.css"><!-- Start of Flyout --><a class="flyoutLink" href="/eng/categories/discount_pricing/new_sale" rel="{trackingLinkId:0,bannerId:6309,track:'Y'}"><img title="Blue Flexivase" alt="Flexivase" width="160" src="/_static/webUpload/731/30_FLEXIVASE_ROYAL0001_5.jpg">
+<h5>Spring Sale!</h5>
+<p>Save up to 72% off on gifts for any occasion! Shop extraordinary markdowns on a wide selection of promotional products &amp; stylish gifts.</p>
 <p class="shopNowLink">&gt; Shop Now</p>
 </a></span></li>
    								
     								<li>
     		                            <ul id="storeNavSlide1discount_pricing">
-    		                                <li><a href="http://www.myron.com/eng/categories/discount_pricing/notepads_and_portfolios_sale">Notepads &amp; Portfolios</a></li><li><a href="http://www.myron.com/eng/categories/discount_pricing/discount_pens">Personalized Gift Pens</a></li><li><a href="http://www.myron.com/eng/categories/discount_pricing/travel_and_entertainment_sale">Travel Bags &amp; Essentials</a></li><li><a href="http://www.myron.com/eng/categories/discount_pricing/personalized_accessories">Accessories for Him &amp; Her</a></li><li><a href="http://www.myron.com/eng/categories/discount_pricing/winter_apparel_sale">Gloves &amp; Winter Warmth</a></li><li><a href="http://www.myron.com/eng/categories/discount_pricing/designer_homeware">Barware &amp; Home Decor</a></li><li><a href="http://www.myron.com/eng/categories/discount_pricing/usb_sale">Tech Accessories</a></li><li><a href="http://www.myron.com/eng/categories/discount_pricing/discount_holiday_items">Holiday Collectibles &amp; Gifts</a></li><li><a href="http://www.myron.com/eng/categories/discount_pricing/reduced_holiday_cards">Holiday Card Closeouts</a></li>
+    		                                <li><a href="http://www.myron.com/eng/categories/discount_pricing/new_sale">Just Reduced</a></li><li><a href="http://www.myron.com/eng/categories/discount_pricing/notepads_and_portfolios_sale">Notepads &amp; Portfolios</a></li><li><a href="http://www.myron.com/eng/categories/discount_pricing/travel_and_entertainment_sale">Travel Bags &amp; Essentials</a></li><li><a href="http://www.myron.com/eng/categories/discount_pricing/tradeshow_giveaway_sale">Tradeshow Giveaways</a></li><li><a href="http://www.myron.com/eng/categories/discount_pricing/personalized_accessories">Accessories for Him &amp; Her</a></li><li><a href="http://www.myron.com/eng/categories/discount_pricing/designer_homeware">Barware &amp; Home Decor</a></li><li><a href="http://www.myron.com/eng/categories/discount_pricing/discount_promos">Pocket Tools &amp; More</a></li><li><a href="http://www.myron.com/eng/categories/discount_pricing/usb_sale">Tech Accessories</a></li><li><a href="http://www.myron.com/eng/categories/discount_pricing/discount_holiday_items">Holiday Collectibles &amp; Gifts</a></li><li><a href="http://www.myron.com/eng/categories/discount_pricing/discount_pens">Personalized Gift Pens</a></li>
+    									</ul>
+    		                   		</li>
+   		                        
+    								<li>
+    		                            <ul id="storeNavSlide2discount_pricing">
+    		                                <li><a href="http://www.myron.com/eng/categories/discount_pricing/winter_apparel_sale">Gloves &amp; Winter Warmth</a></li>
     									</ul>
     		                   		</li>
    		                        
@@ -2207,13 +2283,13 @@ div#topMenuSectionsContainer ul#topMenuSections li#lev1opt5:hover > ul {
 			
 				<li><a href="http://www.myron.com/eng/storeSection/redirect.cfm?sectionID=contact/contact.cfm">Contact us</a></li>
 			
+				<li><a href="http://www.myron.com/eng/customerservice/home.cfm">Customer Service Support</a></li>
+			
 				<li><a href="http://www.myron.com/eng/customerservice/samples2.cfm">Free Product Samples</a></li>
 			
 				<li><a href="http://www.myron.com/eng/customerservice/shipping.cfm">Shipping and Delivery</a></li>
 			
 				<li><a href="http://www.myron.com/eng/customerservice/payment.cfm">Payment Options</a></li>
-			
-				<li><a href="http://www.myron.com/eng/customerservice/home.cfm">Customer Service Support</a></li>
 			
 				<li><a href="http://www.myron.com/eng/customerservice/guarantee.cfm">100% Satisfaction Guarantee</a></li>
 			
@@ -2266,7 +2342,8 @@ We also use third-party advertising companies to serve ads and/or collect certai
 <p>Myron Corp. complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.&nbsp; Myron Corp. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.&nbsp; To learn more about the Safe Harbor program, and to view Myron Corp.'s certification, please visit <a target="_blank" href="http://www.export.gov/safeharbor/">http://www.export.gov/safeharbor/</a>.<br>
 <br>
 In compliance with the US-EU and US-Swiss Safe Harbor Principles, Myron commits to resolve complaints about your privacy and our collection or use of your personal information.&nbsp; European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Myron as described below in the How To Contact Us section.</p>
-<div>Myron has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Myron, please visit the BBB EU SAFE HARBOR web site at <a target="_blank" href="http://www.bbb.org/us/safe-harbor-complaints ">www.bbb.org/us/safe-harbor-complaints</a> for more information and to file a complaint.</div><br>
+<div>Myron has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Myron, please visit the BBB EU SAFE HARBOR web site at <a target="_blank" href="http://www.bbb.org/us/safe-harbor-complaints ">www.bbb.org/us/safe-harbor-complaints</a> for more information and to file a complaint.</div>
+<br>
 <h2>Links to other web sites</h2>
 <p>This Privacy Policy applies only to this Site and not to any Third-Party Sites or any Other Myron Sites. We suggest contacting those sites directly for information on their privacy, security, and data collection and distribution policies.</p>
 <h2>Unsolicited information</h2>
@@ -2368,6 +2445,13 @@ In compliance with the US-EU and US-Swiss Safe Harbor Principles, Myron commits 
 <!-- emptyTemplate -->
 <div class="title"></div><br>
 <script type="text/javascript">
+
+j$('li#topCustSupportLiveChat').css('background-image', 'none');
+j$('#topCustSupportClickToCall').css('display', 'none');
+try{
+    j$('#callButton').css('display', 'none');
+}catch(err){}
+
 j$(document).ready(function(){
     var w = j$('#paymentOptsDialog').outerWidth(true) + 25;
     j$('#paymentOptsDialog').dialog({
