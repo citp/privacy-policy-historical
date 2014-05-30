@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the bijlibachao.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209012620id_/http%3A//www.bijlibachao.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bijlibachao.com privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530135111id_/http%3A//www.bijlibachao.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
-
-##  [ Privacy Policy](http://www.bijlibachao.com/privacy-policy.html)
-
-     Last Updated on Wednesday, 14 March 2012 08:14 
-     By: 
+# Privacy Policy | Bijli Bachao
 
 **What information do we collect?**  
 
@@ -13,7 +8,7 @@ We collect information from you when you register on our site, subscribe to our 
 
 When registering on our site, you may be asked to enter your Facebook Login. You may, however, visit our site anonymously.
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
+Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
 
  **What do we use your information for?**  
 
@@ -33,7 +28,7 @@ We implement a variety of security measures to maintain the safety of your perso
 
  **Do we use cookies?**  
 
-Yes (Cookies are small files that a site or its service provider transfers to your [computers](http://www.bijlibachao.com/Appliances/computers-and-its-peripherals-can-bump-up-your-electricity-bills.html) hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+Yes (Cookies are small files that a site or its service provider transfers to your [computers](http://www.bijlibachao.com/Appliances/laptop-and-desktop-energy-comparison.html "computers") hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
 We use cookies to understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
@@ -49,9 +44,9 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 This online privacy policy applies only to information collected through our website and not to information collected offline.
 
- **Terms and Conditions**  
+ **[Terms and Conditions](http://www.bijlibachao.com/terms-and-conditions "Terms and Conditions")**  
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [](http://www.bijlibachao.com/terms.html)<http://www.bijlibachao.com/terms.html>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.bijlibachao.com/terms-and-conditions>
 
  **Your Consent**  
 
@@ -61,7 +56,7 @@ By using our site, you consent to our [online privacy policy](http://www.freepr
 
 If we decide to change our privacy policy, we will post those changes on this page. 
 
-This policy was last modified on 9th March 2012
+This policy was last modified on 22nd January 2014
 
  **Contacting Us**  
 
@@ -71,4 +66,4 @@ If there are any questions regarding this privacy policy you may contact us usin
 204 Frangipani, Nahar Amrit Shakti, Chandivali  
 Mumbai, Maharashtra 400072  
 India  
-[ ](mailto:%3Ca%20href=)[feedback@bijlibachao.in](mailto:feedback@bijlibachao.in)
+[feedback@bijlibachao.com](mailto:%3Ca%20href=)
