@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the mymoneydesign.com privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129074119id_/http%3A//www.mymoneydesign.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymoneydesign.com privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530024526id_/http%3A//www.mymoneydesign.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for MyMoneyDesign.com
 
-#### ****
-
 #### **Legal Disclaimer:**
 
-MyMoneyDesign is for entertainment and reference purposes only. The information presented is the opinion of the author only and should not be interpreted as specific advice or recommendations towards your financial situation. Don’t believe everything you read on the Internet. Always consult with a true professional before making any financial decisions.
+MyMoneyDesign is for entertainment and reference purposes only. The information presented is the opinion of the author only and should not be interpreted as specific advice or recommendations towards your financial situation. Always consult with a true professional before making any financial decisions.
 
 Per FTC guidelines, MyMoneyDesign would like to disclose that we may be compensated for our personal opinions, views, and affiliate relationships with some of the featured products and services. Google Adsense and Amazon Associates are examples of such relationships. Such content, advertising space or posts may not always be identified as paid or sponsored content. All offers or claims are subject to change without notice and should be verified with the manufacturer, provider or party in question.
 
