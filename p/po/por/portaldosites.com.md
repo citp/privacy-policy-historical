@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the portaldosites.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203070243id_/http%3A//www.portaldosites.com/common/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portaldosites.com privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530214756id_/http%3A//www.portaldosites.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Portaldosites.com
+# Privacy Policy
 
 ### Privacy Policy
 
@@ -24,5 +24,5 @@ Portaldosites.com may update this Privacy Policy from time to time. We may notif
 
 If you have questions regarding this Privacy Policy,please contact us and we will endeavor to respond to your request within a reasonable period of time. You may also submit questions or comments using the postal address listed below:  
 Polypower Technology Co. Limited.  
-UNIT 04,7/F,BRIGHT WAY TOWER,NO. 33 MONG KOK ROAD,KOWLOON,HONG KONG  
+UNIT 17,9/F.,TOWER A,NEW MANDARIN PLAZA,NO.14 SCIENCE MUSEUM ROAD,TSIMSHATSUI,KOWLOON.  
 Email:[sales@portaldosites.com](mailto:sales@portaldosites.com)
