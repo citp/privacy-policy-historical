@@ -1,53 +1,50 @@
-<!--The following is the downloaded HTML source of the abeka.com privacy policy that was archived on 2013-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131216094114id_/http%3A//www.abeka.com/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the abeka.com privacy policy that was archived on 2014-05-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140531013139id_/https%3A//www.abeka.com/PrivacyPolicy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html slick-uniqueid="3"><head><link href="aspnet_client/system_web/4_0_30319/Themes/ABBTheme/dotNet.css" type="text/css" rel="stylesheet"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><title>
+<!DOCTYPE html><html><head><link href="aspnet_client/system_web/4_0_30319/Themes/ABBTheme/dotNet.css" type="text/css" rel="stylesheet"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta name="msapplication-TileImage" content="/images/logoicon-144.png"><meta name="msapplication-TileColor" content="#48040d"><title>
 	A Beka Book :: Privacy Policy
 </title><link rel="image_src" href="http://www.abeka.com/images/ABBLogo.jpg">
-    <script type="text/javascript" async="" src="https://web.archive.org/web/20110929154326/https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/includes/javascript/mootools-core-1.4.5-full-compat-yc.js"></script>
-    <script type="text/javascript" src="/includes/javascript/mootools-more-1.4.0.1-compat-yc.js"></script>
+    <script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="/includes/javascript/jquery-1.10.2.min.js"></script>
+    <script type="text/javascript" src="/includes/javascript/jquery-ui-1.10.3.custom.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="/Includes/css/jquery-ui-1.10.3.custom.min.css">
+    <script>
+        $.noConflict();
+    </script>
+    
+        
     <script type="text/javascript" src="/includes/javascript/ABBScripts.js"></script>
-    <script type="text/javascript" src="/Includes/javascript/stopIE6.js"></script>
+    <!--[if lt IE 7]>
+    <script type="text/javascript" src="/includes/javascript/jquery.unsupported-browser.js"></script>
+    <![endif]-->
     <script type="text/javascript">
         //<![CDATA[
         function OpenChat() {
             window.open('/Chat/Default.aspx', 'WebChat', 'width=580, height=450, resizable=0');
         }
-        window.addEvent('domready',function(){
-            if (Browser.Engine.trident && Browser.Engine.version <= 4) {
-                $(document.body).stopIE6();
-            }
-            CreateWatermarkedTextBox($('txtSiteSearch'), 'Site Search', 'watermarked');
-
-            var doSiteSearch = function()
-            {
-                var searchFor = $('txtSiteSearch').get('value');
-                if (searchFor == 'Site Search')
-                {
-                    searchFor = '';
-                }
-                window.location = '/AbekaOnline/Search.aspx?for=' + searchFor;
-            };
-            $('lbnSiteSearch').addEvent('click', function(e)
-            {
-                doSiteSearch();
+        jQuery(document).ready(function () {
+            CreateWatermarkedTextBox(jQuery('#txtSiteSearch'), 'Site Search', 'watermarked');
+            jQuery('#lbnSiteSearch').click(function (e) {
+                window.location = '/AbekaOnline/Search.aspx?for=' + jQuery('#txtSiteSearch').val().replace('Site Search', '');
                 e.preventDefault();
             });
-            $('txtSiteSearch').addEvent('keydown', function(e)
-            {
-                if (e.key == 'enter')
-                {
-                    doSiteSearch();
+            jQuery('#txtSiteSearch').keydown(function (e) {
+                if (e.keyCode == 13) {
+                    window.location = '/AbekaOnline/Search.aspx?for=' + jQuery('#txtSiteSearch').val().replace('Site Search', '');
                     e.preventDefault();
                     e.stopPropagation();
                 }
             });
+            jQuery("#txtProductSearch").keyup(function (e) {
+                if (e.keyCode == 13) {
+                    eval(jQuery("#lbnProductSearch").prop('href'));
+                }
+            });
         });
-//]]>
+        //]]>
     </script>
-    <link rel="stylesheet" type="text/css" href="/Includes/css/ABBStyles.css"><link rel="stylesheet" type="text/css" href="/Includes/css/ABBPrintStyles.css" media="print"><link rel="stylesheet" type="text/css" href="/Includes/css/BookTicker.css"><link rel="stylesheet" type="text/css" href="/Includes/css/menu.css">
+
+    <link rel="stylesheet" type="text/css" href="/Includes/css/ABBStyles.css?v=20140410"><link rel="stylesheet" type="text/css" href="/webfont/font-awesome-4.0.3/css/font-awesome.min.css"><link rel="stylesheet" type="text/css" href="/Includes/css/ABBPrintStyles.css?v=20140317" media="print"><link rel="stylesheet" type="text/css" href="/Includes/css/BookTicker.css"><link rel="stylesheet" type="text/css" href="/Includes/css/menu.css">
     <style type="text/css">
-/*<![CDATA[*/
         #SpecialOffers:hover a, #SpecialOffers a:hover {
             background: none;
         }
@@ -78,21 +75,22 @@
             margin: 20px 50px 0 0;
         }
         
-#RightContent.Interior {
-    margin: 20px 10px 40px;
-    background-image: url('/Images/Background/PageContentBackground.png');
-}
-#RightContent {
-     width: 763px;
-}
-/*]]>*/
+        
+        #RightContent.Interior {
+            margin: 20px 10px 40px;
+            background-image: url('/Images/Background/PageContentBackground.png');
+        }
+        #RightContent {
+            width: 763px;
+        }
+        
     </style>
     <!--[if IE 9]><link rel="stylesheet" href="/includes/css/ie9.css" type="text/css" /><![endif]-->
     <!--[if IE 8]><link rel="stylesheet" href="/includes/css/ie8.css" type="text/css" /><![endif]-->
     <!--[if IE 7]><link rel="stylesheet" href="/includes/css/ie7.css" type="text/css" /><![endif]-->
     <!--[if lt IE 7]><link rel="stylesheet" href="/includes/css/ie6.css" type="text/css" /><![endif]-->
     
-  <script type="text/javascript" src="/Includes/javascript/multislide.js"></script>
+  <script type="text/javascript" src="/Includes/javascript/jquery.multislide.js"></script>
   <script type="text/javascript">
 //<![CDATA[
     Enable_Multislide();
@@ -101,473 +99,546 @@
 
     <style type="text/css">
         .closed {
-            left:-519px;
+            left:-991px;
         }
         #coupon {
-            width: 501px;
+            width: 973px;
         }
     </style></head>
-<body onload="MM_preloadImages('/Images/HeaderButtons/HeaderButtonLogInHover.png','/Images/HeaderButtons/HeaderButtonLogOutHover.png','/Images/HeaderButtons/HeaderButtonMyAccountHover.png','/Images/HeaderButtons/HeaderButtonCheckOutHover.png');">
-
-<div id="FooterBkg">
-    <div id="HeaderBkg">
-        <div id="PageWrapper" class="ie6PNG">
-            <div id="Logo" class="ie6PNG"><a href="/Default.aspx" id="HomeLink"></a>
-                <div id="Header">
-                    <div id="AccountButtons">
-                        <div id="AccountButtonsTopRow">
-                            <div class="ButtonWrapper">
-                                <a id="LogButton" class="ie6PNG Login" href="/ABekaOnline/CustomerService/CustomerLogin.aspx"></a>
-                            </div>
-                            <div class="ButtonWrapper">
-                                <a id="AccountButton" class="ie6PNG" href="/ABekaOnline/CustomerService/AccountInfo.aspx"></a>
-                            </div>
-                            
+<body onload="MM_preloadImages('/Images/HeaderButtons/HeaderButtonLogInHover.png','/Images/HeaderButtons/HeaderButtonLogOutHover.png','/Images/HeaderButtons/HeaderButtonMyAccountHover.png','/Images/HeaderButtons/HeaderButtonCheckOutHover.png');" style="">
+    
+    <div id="FooterBkg">
+        <div id="HeaderBkg">
+            <div id="PageWrapper" class="ie6PNG">
+                <div id="Logo" class="ie6PNG">
+                    <a href="/Default.aspx" id="HomeLink"></a>
+                    <div id="Header">
+                        <div id="AccountButtons">
+                            <div id="AccountButtonsTopRow">
                                 <div class="ButtonWrapper">
-                                    <a id="CheckOutButton" class="FlushRight ie6PNG" href="/ABekaOnline/Checkout.aspx"></a>
+                                    <a id="LogButton" class="ie6PNG Login" href="/ABekaOnline/CustomerService/CustomerLogin.aspx"><i style="display: none"></i><span style="display: none"></span></a>
                                 </div>
-                            
+                                <div class="ButtonWrapper">
+                                    <a id="AccountButton" class="ie6PNG" href="/ABekaOnline/CustomerService/AccountInfo.aspx"><i style="display: none"></i><span style="display: none"></span></a>
+                                </div>
+                                
+                                
                                 <div class="HeaderPhone">1-877-223-5226</div>
+                                
+                            </div>
+                            <div id="CartWrapper">
+                                <i></i>
+                                <span class="cart">
+                                    <span class="cartTextWrap">
+                                        
+                                        <span class="TotalPrice">$0.00</span> ● 
+                                        <span class="NumItems">0 items</span> in
+                                        <span class="cartText"><a class="cart" href="/ABekaOnline/ViewCart.aspx">CART</a></span>
+                                        
+                                        ●
+
+                                        <a href="/ABekaOnline/Checkout.aspx">CHECK OUT</a>
+                                    </span>
+                                    <strong>&nbsp;</strong>
+                                </span>
+                            </div>
                             
                         </div>
-                        <div id="CartWrapper">
-                            <a class="cart" href="/ABekaOnline/ViewCart.aspx">
-                                <span class="cartTextWrap">
-                                    
-                                        <span class="cartText">Cart</span>
-                                        <span class="NumItems">0 items</span>
-                                        <span class="TotalPrice">$0.00</span>
-                                    
-                                </span>
-                                <strong>&nbsp;</strong>
-                            </a>
-                        </div>
-                        
                     </div>
                 </div>
-            </div>
-            <div id="ContentWrap" class="ie6PNG">
-                <div id="InnerWrap" class="ie6PNG">
-                    <div class="menu">
-                        <!--If you add ie6PNG class to this, the menus no longer work-->
-                        <ul>
-                          <li class="FirstItemRow" id="HomeSchoolMenu"><a href="/HomeSchool/Default.aspx">Homeschool
-                            <!--[if gt IE 6]><!--></a><!--<![endif]-->
-                            <!--[if lt IE 7]><table border="0" cellpadding="0" cellspacing="0"><tr><td><![endif]-->
-                            <ul class="leftbutton">
-                              <li><a href="/MaterialsDisplay/">&nbsp;Materials Display/Online Events</a></li>
-                              <!--<li><a href="/HomeSchool/OurHomeSchoolOptions.aspx">&nbsp;Options</a></li>-->
-                              <li><a href="/FAQ/">&nbsp;Ordering FAQ</a></li>
-                              <li><a href="/FAQ/Curriculum.aspx">&nbsp;Curriculum FAQ</a></li>
-                            </ul>
-                            <!--[if lte IE 6]></td></tr></table></a><![endif]-->
-                          </li>
-                        </ul>
-                        <ul id="HomeSchoolMenuItem">
-                          <li><a href="/HomeSchool/Default.aspx">Homeschool
-                            <!--[if gt IE 6]><!--></a><!--<![endif]-->
-                            <!--[if lt IE 7]><table border="0" cellpadding="0" cellspacing="0"><tr><td><![endif]-->
-                            <!--[if lte IE 6]></td></tr></table></a><![endif]-->
-                          </li>
-                        </ul>
-                        <ul>
-                          <li id="ChristianSchoolMenu"><a href="/ChristianSchool/Default.aspx">Christian School
-                            <!--[if gt IE 6]><!--></a><!--<![endif]-->
-                            <!--[if lt IE 7]><table border="0" cellpadding="0" cellspacing="0"><tr><td><![endif]-->
-                            <ul>
-                              <li><a href="/ChristianSchool/OurMinToChristianSchools.aspx">&nbsp;Our Ministry</a></li>
-                              <li><a href="/FAQ/">&nbsp;Ordering FAQ</a></li>
-                              <li><a href="/FAQ/Curriculum.aspx">&nbsp;Curriculum FAQ</a></li>
-                            </ul>
-                            <!--[if lte IE 6]></td></tr></table></a><![endif]-->
-                          </li>
-                        </ul>
-                        <ul id="ChristianSchoolMenuItem">
-                          <li><a href="/ChristianSchool/Default.aspx">Christian School
-                            <!--[if gt IE 6]><!--></a><!--<![endif]-->
-                            <!--[if lt IE 7]><table border="0" cellpadding="0" cellspacing="0"><tr><td><![endif]-->
-                            <!--[if lte IE 6]></td></tr></table></a><![endif]-->
-                          </li>
-                        </ul>
-                        <ul class="OrderingMenu">
-                          <li><a href="/ABekaOnline/ProductSearch.aspx">Order
-                            <!--[if gt IE 6]><!--></a><!--<![endif]-->
-                            <!--[if lt IE 7]><table border="0" cellpadding="0" cellspacing="0"><tr><td><![endif]-->
-                            <ul>
-                              <li><a href="/ABekaOnline/ProductSearch.aspx">&nbsp;Shop Our Products</a></li>
-                              <li><a href="/ABekaOnline/ViewCart.aspx">&nbsp;Shopping Cart</a></li>
-                              <li><a href="/ABekaOnline/QuickEntry.aspx">&nbsp;Quick Entry Order</a></li>
-                              <li><a href="/ABekaOnline/OrderingInformation.aspx">&nbsp;Ordering Information</a></li>
-                            </ul>
-                            <!--[if lte IE 6]></td></tr></table></a><![endif]-->
-                          </li>
-                        </ul>
-                        <ul id="HsResources">
-                          <li><a href="/Resources/Articles/">Resources
-                            <!--[if gt IE 6]><!--></a><!--<![endif]-->
-                            <!--[if lt IE 7]><table border="0" cellpadding="0" cellspacing="0"><tr><td><![endif]-->
-                            <ul>
-							<li><a href="/ABekaOnline/DownloadCatalogs/?user=guest">&nbsp;Catalog</a></li>
-							  <li><a href="/Resources/CommonCore.aspx">&nbsp;<em>A Beka Book</em> &amp; Common Core</a></li>
-							  <li><a href="/Resources/Articles/">&nbsp;Educational Articles</a></li>
-							  <li><a href="/HomeSchool/ScopeAndSequence.aspx">&nbsp;Scope and Sequence</a></li>
-                              <li><a href="/HomeSchool/SubjectInfo/"><span class="drop"><span>Subject Highlights</span>»</span>
-                                <!--[if gt IE 6]><!--></a><!--<![endif]-->
-                                <!--[if lt IE 7]><table border="0" cellpadding="0" cellspacing="0"><tr><td><![endif]-->
-                                <ul>
-                                  <li><a href="/HomeSchool/SubjectInfo/Math.aspx">&nbsp;Arithmetic/Mathematics</a></li>
-                                   <li><a href="/HomeSchool/SubjectInfo/Bible.aspx">&nbsp;Bible (7–12)</a></li>
-                                    <li><a href="/HomeSchool/Resources/WhyCursiveInKindergarten.aspx">&nbsp;Cursive Writing</a></li>
-                                     <li><a href="/HomeSchool/SubjectInfo/History.aspx">&nbsp;History and Geography</a></li>
-                                    <li><a href="/HomeSchool/SubjectInfo/Kindergarten.aspx">&nbsp;Kindergarten</a></li>
-                                     <li><a href="/HomeSchool/SubjectInfo/Language.aspx">&nbsp;Language Arts (1–6)</a></li>
-                                  <li><a href="/HomeSchool/Resources/ParentGuideCurriculum.aspx">&nbsp;Parent Guide</a></li>
-                                    <li><a href="/HomeSchool/Resources/PhonicsSixSteps.aspx">&nbsp;Phonics</a></li>
-                                  <li><a href="/HomeSchool/SubjectInfo/Reading.aspx">&nbsp;Reading (K–6)</a></li>
-                                  <li><a href="/HomeSchool/SubjectInfo/Science.aspx">&nbsp;Science &amp; Health</a></li>
-                                </ul>
-                            <!--[if lte IE 6]></td></tr></table></a><![endif]-->
-                              </li>
-                              
-							  <li><a href="/Resources/Downloads/Default.aspx">&nbsp;Curriculum Song Downloads</a></li>
-                            </ul>
-                            <!--[if lte IE 6]></td></tr></table></a><![endif]-->
-                          </li>
-                        </ul>
-                        <ul id="CsResources">
-                          <li><a href="/Resources/Articles/">Resources
-                            <!--[if gt IE 6]><!--></a><!--<![endif]-->
-                            <!--[if lt IE 7]><table border="0" cellpadding="0" cellspacing="0"><tr><td><![endif]-->
-                            <ul>
-							  <li><a href="/ABekaOnline/DownloadCatalogs/">&nbsp;Catalog</a></li>
-							  <li><a href="/Resources/CommonCore.aspx">&nbsp;<em>A Beka Book</em> &amp; Common Core</a></li>
-							  <li><a href="/Resources/Articles/">&nbsp;Educational Articles</a></li>
-							  <li><a href="/ChristianSchool/Resources/FinancialPlanner.aspx">&nbsp;Financial Planner</a></li>
-							  <li><a href="/ChristianSchool/InServiceTraining.aspx"><span class="drop"><span>In-Service Training</span>»</span>
-							  <!--[if gt IE 6]><!--></a><!--<![endif]-->
-                                <!--[if lt IE 7]><table border="0" cellpadding="0" cellspacing="0"><tr><td><![endif]-->
-							  <ul>
-                                  <li><a href="/ABekaOnline/Video/InServiceTraining.aspx">&nbsp;English/Spanish</a></li>
-                                  <li><a href="/ABekaOnline/InServiceTraining/seminars.aspx">&nbsp;Seminars</a></li>
-								  <!--[if lte IE 6]></td></tr></table></a><![endif]-->
-                               </ul>
-							   </li>
-								<li><a href="/ChristianSchool/ProfessionalDevelopment/">&nbsp;Professional Development</a></li>
-							  <li><a href="/ChristianSchool/ScopeandSequence.aspx">&nbsp;Scope and Sequence</a></li>
-                              <li><a href="/ChristianSchool/StartChristianSchool.aspx">&nbsp;Starting a Christian School</a></li>
-                              <li><a href="/ChristianSchool/SubjectInfo/"><span class="drop"><span>Subject Highlights</span>»</span>
-                                <!--[if gt IE 6]><!--></a><!--<![endif]-->
-                                <!--[if lt IE 7]><table border="0" cellpadding="0" cellspacing="0"><tr><td><![endif]-->
-                                <ul>
-                                  <li><a href="/ChristianSchool/SubjectInfo/Math.aspx">&nbsp;Arithmetic/Mathematics</a></li>
-                                  <li><a href="/ChristianSchool/SubjectInfo/Bible.aspx">&nbsp;Bible (7–12)</a></li>
-                                  <li><a href="/ChristianSchool/Resources/WhyCursiveInKindergarten.aspx">&nbsp;Cursive Writing</a></li>
-                                  <li><a href="/ChristianSchool/SubjectInfo/History.aspx">&nbsp;History and Geography</a></li>
-                                  <li><a href="/ChristianSchool/SubjectInfo/Kindergarten.aspx">&nbsp;Kindergarten</a></li>
-                                  <li><a href="/ChristianSchool/SubjectInfo/Language.aspx">&nbsp;Language Arts (1–6)</a></li>
-                                  <li><a href="/ChristianSchool/Resources/PhonicsSixSteps.aspx">&nbsp;Phonics</a></li>
-                                 <li><a href="/ChristianSchool/SubjectInfo/Reading.aspx">&nbsp;Reading (K–6)</a></li>
-                                 <li><a href="/ChristianSchool/SubjectInfo/Science.aspx">&nbsp;Science &amp; Health</a></li>
-                                </ul>
-                            <!--[if lte IE 6]></td></tr></table></a><![endif]-->
-                              </li>
-							  
-                                        
-							  
-                                
-							  <li><a href="/Resources/Downloads/Default.aspx">&nbsp;Curriculum Song Downloads</a></li>
-                                
+                <div id="ContentWrap" class="ie6PNG">
+                    <div id="InnerWrap" class="ie6PNG">
+                        <div class="menu">
+                            <!--If you add ie6PNG class to this, the menus no longer work-->
 
-                             </ul>
-                            <!--[if lte IE 6]></td></tr></table></a><![endif]-->
-                          </li>
-                        </ul>
-                        <ul>
-                          <li><a href="/OurFoundation.aspx">About Us
-                            <!--[if gt IE 6]><!--></a><!--<![endif]-->
-                            <!--[if lt IE 7]><table border="0" cellpadding="0" cellspacing="0"><tr><td><![endif]-->
-                            <ul>
-                              <li><a href="/OurFoundation.aspx">&nbsp;Our Foundation</a></li>
-                              <li><a href="/ResearchAndDevelopment.aspx">&nbsp;Research and Development</a></li>
-                              <li><a href="/Distinctives.aspx">&nbsp;Distinctives</a></li>
+                            <ul class="FirstItemRow OrderingMenu">
+                                <li><a href="/ABekaOnline/ProductSearch.aspx">Orders
+
+                                    <!--[if gt IE 6]><!-->
+                                </a>
+                                    <!--<![endif]-->
+                                    <!--[if lt IE 7]><table border="0" cellpadding="0" cellspacing="0"><tr><td><![endif]-->
+                                    <ul>
+                                        <li><a href="/ABekaOnline/ProductSearch.aspx">&nbsp;Shop Our Products</a></li>
+                                        <li><a href="/ABekaOnline/ViewCart.aspx">&nbsp;Shopping Cart</a></li>
+                                        <li><a href="/ABekaOnline/QuickEntry.aspx">&nbsp;Quick Entry Order</a></li>
+                                        <li><a href="/ABekaOnline/OrderingInformation.aspx">&nbsp;Ordering Information</a></li>
+                                        <li><a href="/ABekaOnline/Downloads.aspx">&nbsp;Digital Products Downloads</a></li>
+                                        <li><a href="/ABekaOnline/CustomerService/GetPendingOrders.aspx">&nbsp;Pending Orders</a></li>
+                                        <li><a href="/ABekaOnline/CustomerService/GetBackOrders.aspx">&nbsp;Back Orders</a></li>
+                                    </ul>
+                                    <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+                                </li>
                             </ul>
-                            <!--[if lte IE 6]></td></tr></table></a><![endif]-->
-                          </li>
-                        </ul>
-                        <ul>
-                          <li><a href="/ContactInfo.aspx">Contact Us
-                            <!--[if gt IE 6]><!--></a><!--<![endif]-->
-                            <!--[if lt IE 7]><table border="0" cellpadding="0" cellspacing="0"><tr><td><![endif]-->
-                            <ul>
-                              <li><a href="/ContactInfo.aspx">&nbsp;Contact Info</a></li>
-                              <li><a href="/freeinformation.aspx">&nbsp;Request Materials Form</a></li>
+                            <ul id="HsResources">
+                                <li><a href="/Resources/Articles/">Resources
+
+                                    <!--[if gt IE 6]><!-->
+                                </a>
+                                    <!--<![endif]-->
+                                    <!--[if lt IE 7]><table border="0" cellpadding="0" cellspacing="0"><tr><td><![endif]-->
+                                    <ul>
+                                        <li><a href="/ABekaOnline/DownloadCatalogs/?user=guest">&nbsp;Catalog &amp; Order Form</a></li>
+                                        <li><a href="/Resources/CommonCore.aspx">&nbsp;<em>A Beka Book</em> &amp; Common Core</a></li>
+                                        <li><a href="/Resources/Articles/">&nbsp;Educational Articles</a></li>
+                                        <li><a href="/HomeSchool/ScopeAndSequence.aspx">&nbsp;Scope and Sequence</a></li>
+                                        <li><a href="/HomeSchool/SubjectInfo/"><span class="drop"><span>Subject Highlights</span>»</span>
+                                            <!--[if gt IE 6]><!-->
+                                        </a>
+                                            <!--<![endif]-->
+                                            <!--[if lt IE 7]><table border="0" cellpadding="0" cellspacing="0"><tr><td><![endif]-->
+                                            <ul>
+                                                <li><a href="/HomeSchool/SubjectInfo/Math.aspx">&nbsp;Arithmetic/Mathematics</a></li>
+                                                <li><a href="/HomeSchool/SubjectInfo/Bible.aspx">&nbsp;Bible (7–12)</a></li>
+                                                <li><a href="/HomeSchool/Resources/WhyCursiveInKindergarten.aspx">&nbsp;Cursive Writing</a></li>
+                                                <li><a href="/HomeSchool/SubjectInfo/History.aspx">&nbsp;History and Geography</a></li>
+                                                <li><a href="/HomeSchool/SubjectInfo/Kindergarten.aspx">&nbsp;Kindergarten</a></li>
+                                                <li><a href="/HomeSchool/SubjectInfo/Language.aspx">&nbsp;Language Arts (1–6)</a></li>
+                                                <li><a href="/HomeSchool/Resources/ParentGuideCurriculum.aspx">&nbsp;Parent Guide</a></li>
+                                                <li><a href="/HomeSchool/Resources/PhonicsSixSteps.aspx">&nbsp;Phonics</a></li>
+                                                <li><a href="/HomeSchool/SubjectInfo/Reading.aspx">&nbsp;Reading (K–6)</a></li>
+                                                <li><a href="/HomeSchool/SubjectInfo/Science.aspx">&nbsp;Science &amp; Health</a></li>
+                                            </ul>
+                                            <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+                                        </li>
+
+                                        <li><a href="/Resources/Downloads/Default.aspx">&nbsp;Curriculum Song Downloads</a></li>
+                                    </ul>
+                                    <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+                                </li>
                             </ul>
-                            <!--[if lte IE 6]></td></tr></table></a><![endif]-->
-                          </li>
-                        </ul>
-                        <ul class="CustomerServiceMenu">
-                          <li><a href="/ABekaOnline/CustomerService/Default.aspx">Customer Service
-                            <!--[if gt IE 6]><!--></a><!--<![endif]-->
-                            <!--[if lt IE 7]><table border="0" cellpadding="0" cellspacing="0"><tr><td><![endif]-->
+                            <ul id="CsResources">
+                                <li><a href="/Resources/Articles/">Resources
+
+                                    <!--[if gt IE 6]><!-->
+                                </a>
+                                    <!--<![endif]-->
+                                    <!--[if lt IE 7]><table border="0" cellpadding="0" cellspacing="0"><tr><td><![endif]-->
+                                    <ul>
+                                        <li><a href="/ABekaOnline/DownloadCatalogs/">&nbsp;Catalog &amp; Order Form</a></li>
+                                        <li><a href="/Resources/CommonCore.aspx">&nbsp;<em>A Beka Book</em> &amp; Common Core</a></li>
+                                        <li><a href="/Resources/Articles/">&nbsp;Educational Articles</a></li>
+                                        <li><a href="/ChristianSchool/InServiceTraining.aspx"><span class="drop"><span>In-Service Training</span>»</span>
+                                            <!--[if gt IE 6]><!-->
+                                        </a>
+                                            <!--<![endif]-->
+                                            <!--[if lt IE 7]><table border="0" cellpadding="0" cellspacing="0"><tr><td><![endif]-->
+                                            <ul>
+                                                <li><a href="/ABekaOnline/Video/InServiceTraining.aspx">&nbsp;English/Spanish</a></li>
+                                                <li><a href="/ABekaOnline/InServiceTraining/seminars.aspx">&nbsp;Seminars</a></li>
+                                                <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+                                            </ul>
+                                        </li>
+                                        <li><a href="#"><span class="drop"><span>Clinics</span>»</span>
+                                            <!--[if gt IE 6]><!-->
+                                        </a>
+                                            <!--<![endif]-->
+                                            <!--[if lt IE 7]><table border="0" cellpadding="0" cellspacing="0"><tr><td><![endif]-->
+                                            <ul>
+                                                <li><a href="http://www.pcci.edu/ClinicsCamps/PrincipalsClinic/">&nbsp;Principals Clinic</a></li>
+                                                <li><a href="http://www.pcci.edu/ClinicsCamps/TeachersClinic/">&nbsp;Teachers Clinic</a></li>
+                                                <li><a href="http://www.pcci.edu/ClinicsCamps/SummerSeminar/">&nbsp;Summer Seminar</a></li>
+                                                <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+                                            </ul>
+                                        </li>
+                                        <li><a href="/ChristianSchool/ProfessionalDevelopment/">&nbsp;Professional Development</a></li>
+                                        <li><a href="/ChristianSchool/ScopeandSequence.aspx">&nbsp;Scope and Sequence</a></li>
+                                        <li><a href="/ChristianSchool/StartChristianSchool.aspx">&nbsp;Starting a Christian School</a></li>
+                                        <li><a href="/ChristianSchool/SubjectInfo/"><span class="drop"><span>Subject Highlights</span>»</span>
+                                            <!--[if gt IE 6]><!-->
+                                        </a>
+                                            <!--<![endif]-->
+                                            <!--[if lt IE 7]><table border="0" cellpadding="0" cellspacing="0"><tr><td><![endif]-->
+                                            <ul>
+                                                <li><a href="/ChristianSchool/SubjectInfo/Math.aspx">&nbsp;Arithmetic/Mathematics</a></li>
+                                                <li><a href="/ChristianSchool/SubjectInfo/Bible.aspx">&nbsp;Bible (7–12)</a></li>
+                                                <li><a href="/ChristianSchool/Resources/WhyCursiveInKindergarten.aspx">&nbsp;Cursive Writing</a></li>
+                                                <li><a href="/ChristianSchool/SubjectInfo/History.aspx">&nbsp;History and Geography</a></li>
+                                                <li><a href="/ChristianSchool/SubjectInfo/Kindergarten.aspx">&nbsp;Kindergarten</a></li>
+                                                <li><a href="/ChristianSchool/SubjectInfo/Language.aspx">&nbsp;Language Arts (1–6)</a></li>
+                                                <li><a href="/ChristianSchool/Resources/PhonicsSixSteps.aspx">&nbsp;Phonics</a></li>
+                                                <li><a href="/ChristianSchool/SubjectInfo/Reading.aspx">&nbsp;Reading (K–6)</a></li>
+                                                <li><a href="/ChristianSchool/SubjectInfo/Science.aspx">&nbsp;Science &amp; Health</a></li>
+                                            </ul>
+                                            <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+                                        </li>
+
+                                        
+
+                                        
+                                        <li><a href="/Resources/Downloads/Default.aspx">&nbsp;Curriculum Song Downloads</a></li>
+                                        
+                                    </ul>
+                                    <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+                                </li>
+                            </ul>
                             <ul>
-                              <!--[if lt IE 7]>
+                                <li><a href="/OurFoundation.aspx">About Us
+
+                                    <!--[if gt IE 6]><!-->
+                                </a>
+                                    <!--<![endif]-->
+                                    <!--[if lt IE 7]><table border="0" cellpadding="0" cellspacing="0"><tr><td><![endif]-->
+                                    <ul>
+                                        <li><a href="/OurFoundation.aspx">&nbsp;Our Foundation</a></li>
+                                        <li><a href="/ResearchAndDevelopment.aspx">&nbsp;Research and Development</a></li>
+                                        <li><a href="/Distinctives.aspx">&nbsp;Distinctives</a></li>
+                                        
+                                    </ul>
+                                    <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+                                </li>
+                            </ul>
+                            <ul>
+                                <li><a href="/ContactInfo.aspx">Contact Us
+
+                                    <!--[if gt IE 6]><!-->
+                                </a>
+                                    <!--<![endif]-->
+                                    <!--[if lt IE 7]><table border="0" cellpadding="0" cellspacing="0"><tr><td><![endif]-->
+                                    <ul>
+                                        <li><a href="/ContactInfo.aspx">&nbsp;Contact Info</a></li>
+                                        <li><a href="/freeinformation.aspx">&nbsp;Request Materials Form</a></li>
+                                    </ul>
+                                    <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+                                </li>
+                            </ul>
+                            <ul class="CustomerServiceMenu">
+                                <li><a href="/ABekaOnline/CustomerService/Default.aspx">Customer Service
+
+                                    <!--[if gt IE 6]><!-->
+                                </a>
+                                    <!--<![endif]-->
+                                    <!--[if lt IE 7]><table border="0" cellpadding="0" cellspacing="0"><tr><td><![endif]-->
+                                    <ul>
+                                        <!--[if lt IE 7]>
                               <li><a href="/ABekaOnline/Checkout/FinishOrder.aspx">&nbsp;Check Out</a></li>
                               <li><a href="/ABekaOnline/CustomerService/AccountInfo.aspx">&nbsp;My Account</a></li>
                             <![endif]-->
-                              <li><a href="/ABekaOnline/CustomerService/GetPendingOrders.aspx">&nbsp;Pending Orders</a></li>
-                              <li><a href="/ABekaOnline/CustomerService/GetBackOrders.aspx">&nbsp;Back Orders</a></li>
-                              <li><a href="/ABekaOnline/CustomerService/GetInvoices.aspx">&nbsp;Invoices</a></li>
-                              <li><a href="/ABekaOnline/CustomerService/GetShipments.aspx">&nbsp;Order Tracking</a></li>
-                              <li><a href="/ABekaOnline/CustomerService/GetStatements.aspx">&nbsp;Statements</a></li>
-                              <li><a href="/ABekaOnline/CustomerService/GetReturns.aspx">&nbsp;Returns</a></li>
-                              <li><a href="/ABekaOnline/CustomerService/AccountInfo.aspx">&nbsp;Account Info</a></li>
-                              <li><a href="/ABekaOnline/CustomerService/ShippingErrors.aspx">&nbsp;Report Shipping Errors</a></li>
-                              <li><a href="/ABekaOnline/CustomerService/damagedMaterials.aspx">&nbsp;Damaged Materials Form</a></li>
-                              <li><a href="/ABekaOnline/CustomerService/ReturnRequest.aspx">&nbsp;Return Request Form</a></li>
-                              <li><a href="/ABekaOnline/CustomerService/LogoPermissions.aspx">&nbsp;Logo Permissions</a></li>
-                              <!--[if lt IE 7]>
+                                        <li><a href="/ABekaOnline/Downloads.aspx">&nbsp;Digital Products Downloads</a></li>
+                                        <li><a href="/ABekaOnline/CustomerService/GetInvoices.aspx">&nbsp;Invoices</a></li>
+                                        <li><a href="/ABekaOnline/CustomerService/GetShipments.aspx">&nbsp;Order Tracking</a></li>
+                                        <li><a href="/ABekaOnline/CustomerService/GetStatements.aspx">&nbsp;Statements</a></li>
+                                        <li><a href="/ABekaOnline/CustomerService/GetReturns.aspx">&nbsp;Returns</a></li>
+                                        <li><a href="/ABekaOnline/CustomerService/AccountInfo.aspx">&nbsp;Account Info</a></li>
+                                        <li><a href="/ABekaOnline/CustomerService/GetSignature.aspx">&nbsp;Agreement Signatures</a></li>
+                                        <li><a href="/ABekaOnline/CustomerService/ShippingErrors.aspx">&nbsp;Report Shipping Errors</a></li>
+                                        <li><a href="/ABekaOnline/CustomerService/damagedMaterials.aspx">&nbsp;Damaged Materials Form</a></li>
+                                        <li><a href="/ABekaOnline/CustomerService/ReturnRequest.aspx">&nbsp;Return Request Form</a></li>
+                                        <li><a href="/ABekaOnline/CustomerService/LogoPermissions.aspx">&nbsp;Logo Permissions</a></li>
+                                        <!--[if lt IE 7]>
                               <li><a href="/ABekaOnline/CustomerService/CustomerLogout.aspx">&nbsp;Log Out</a></li>
                             <![endif]-->
+                                    </ul>
+                                    <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+                                </li>
                             </ul>
-                            <!--[if lte IE 6]></td></tr></table></a><![endif]-->
-                          </li>
-                        </ul>
-                        
-                        <!--[if lt IE 8]>
+                            
+                            <!--[if lt IE 8]>
                                         <ul>
                                         <li><a href="/Default.aspx">Home<table border="0" cellpadding="0" cellspacing="0"><tr><td></td></tr></table></a><![endif]-->
-                        <!--[if lt IE 8]>  </li>
+                            <!--[if lt IE 8]>  </li>
                                         </ul>
                                         <![endif]-->
-                                  <!--<ul>
+                            <!--<ul>
                                   <li id="SpecialOffers">
                                       <a href="/MaterialsDisplay/">Materials Displays <br />&amp; Online Events</a>
                                       </li>
                                   </ul>-->
-                        <ul>
-                        <li id="HsLiveMeetings">
-                            <a href="/MaterialsDisplay/">Live Meetings</a>
-                            </li>
-                        </ul>
                             <ul>
-                          <li id="Search">
-                            <input type="text" id="txtSiteSearch" maxlength="50" class="ie6PNG watermarked">
-                            <a id="lbnSiteSearch" class="squarebutton" href="javascript:void(0);" style="margin-right: 0;"></a>
-                          </li>
-                        </ul>
-                    </div> <!-- close "menu" div -->
-                    <form method="post" action="PrivacyPolicy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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SXRlbVR5cGUsIFBDQywgVmVyc2lvbj00LjEuNTA2NC4yNDI1MCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj01MTgwMmJlNDlmZmZhZmU1XSxbU3lzdGVtLlN0cmluZywgbXNjb3JsaWIsIFZlcnNpb249NC4wLjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1iNzdhNWM1NjE5MzRlMDg5XV0sIFBDQywgVmVyc2lvbj00LjEuNTA2NC4yNDI1MCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj01MTgwMmJlNDlmZmZhZmU1XV0DAAAABl9pdGVtcwVfc2l6ZQhfdmVyc2lvbgQAAPQBUENDLldlYkNvbnRyb2xzLlBhaXJgMltbUENDLldlYkNvbnRyb2xzLkNvbnRyb2xCcmVha1JlcGVhdGVySXRlbVR5cGUsIFBDQywgVmVyc2lvbj00LjEuNTA2NC4yNDI1MCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj01MTgwMmJlNDlmZmZhZmU1XSxbU3lzdGVtLlN0cmluZywgbXNjb3JsaWIsIFZlcnNpb249NC4wLjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1iNzdhNWM1NjE5MzRlMDg5XV1bXQIAAAAICAkDAAAAGQAAABoAAAAHAwAAAAABAAAAIAAAAATyAVBDQy5XZWJDb250cm9scy5QYWlyYDJbW1BDQy5XZWJDb250cm9scy5Db250cm9sQnJlYWtSZXBlYXRlckl0ZW1UeXBlLCBQQ0MsIFZlcnNpb249NC4xLjUwNjQuMjQyNTAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49NTE4MDJiZTQ5ZmZmYWZlNV0sW1N5c3RlbS5TdHJpbmcsIG1zY29ybGliLCBWZXJzaW9uPTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OV1dAgAAAAkEAAAACQUAAAAJBgAAAAkHAAAACQgAAAAJCQAAAAkKAAAACQsAAAAJDAAAAAkNAAAACQ4AAAAJDwAAAAkQAAAACREAAAAJEgAAAAkTAAAACRQAAAAJFQAAAAkWAAAACRcAAAAJGAAAAAkZAAAACRoAAAAJGwAAAAkcAAAADQcFBAAAAPIBUENDLldlYkNvbnRyb2xzLlBhaXJgMltbUENDLldlYkNvbnRyb2xzLkNvbnRyb2xCcmVha1JlcGVhdGVySXRlbVR5cGUsIFBDQywgVmVyc2lvbj00LjEuNTA2NC4yNDI1MCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj01MTgwMmJlNDlmZmZhZmU1XSxbU3lzdGVtLlN0cmluZywgbXNjb3JsaWIsIFZlcnNpb249NC4wLjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1iNzdhNWM1NjE5MzRlMDg5XV0CAAAABUZpcnN0BlNlY29uZAQBLFBDQy5XZWJDb250cm9scy5Db250cm9sQnJlYWtSZXBlYXRlckl0ZW1UeXBlAgAAAAIAAAAF4////yxQQ0MuV2ViQ29udHJvbHMuQ29udHJvbEJyZWFrUmVwZWF0ZXJJdGVtVHlwZQEAAAAHdmFsdWVfXwAIAgAAAAUAAAAGHgAAAAItMQEFAAAABAAAAAHh////4////wQAAAAGIAAAAAdEZWZhdWx0AQYAAAAEAAAAAd/////j////BAAAAAkgAAAAAQcAAAAEAAAAAd7////j////BQAAAAYjAAAAATEBCAAAAAQAAAAB3P///+P///8FAAAABiUAAAACLTEBCQAAAAQAAAAB2v///+P///8EAAAACSAAAAABCgAAAAQAAAAB2P///+P///8EAAAACSAAAAABCwAAAAQAAAAB1////+P///8FAAAABioAAAABMQEMAAAABAAAAAHV////4////wUAAAAGLAAAAAItMQENAAAABAAAAAHT////4////wQAAAAJIAAAAAEOAAAABAAAAAHR////4////wQAAAAJIAAAAAEPAAAABAAAAAHQ////4////wQAAAAJIAAAAAEQAAAABAAAAAHP////4////wQAAAAJIAAAAAERAAAABAAAAAHO////4////wQAAAAJIAAAAAESAAAABAAAAAHN////4////wQAAAAJIAAAAAETAAAABAAAAAHM////4////wUAAAAGNQAAAAExARQAAAAEAAAAAcr////j////BQAAAAY3AAAAAi0xARUAAAAEAAAAAcj////j////BAAAAAkgAAAAARYAAAAEAAAAAcb////j////BAAAAAkgAAAAARcAAAAEAAAAAcX////j////BAAAAAkgAAAAARgAAAAEAAAAAcT////j////BAAAAAkgAAAAARkAAAAEAAAAAcP////j////BAAAAAkgAAAAARoAAAAEAAAAAcL////j////BAAAAAkgAAAAARsAAAAEAAAAAcH////j////BAAAAAkgAAAAARwAAAAEAAAAAcD////j////BQAAAAZBAAAAATELZAUgY3RsMDAkY3BoU2lkZUJhciRjYnJTZWFyY2hUaXRsZXMPMv8HAAEAAAD/////AQAAAAAAAAAMAgAAAE1QQ0MsIFZlcnNpb249NC4xLjUwNjQuMjQyNTAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49NTE4MDJiZTQ5ZmZmYWZlNQQBAAAA5gJTeXN0ZW0uQ29sbGVjdGlvbnMuR2VuZXJpYy5MaXN0YDFbW1BDQy5XZWJDb250cm9scy5QYWlyYDJbW1BDQy5XZWJDb250cm9scy5Db250cm9sQnJlYWtSZXBlYXRlckl0ZW1UeXBlLCBQQ0MsIFZlcnNpb249NC4xLjUwNjQuMjQyNTAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49NTE4MDJiZTQ5ZmZmYWZlNV0sW1N5c3RlbS5TdHJpbmcsIG1zY29ybGliLCBWZXJzaW9uPTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OV1dLCBQQ0MsIFZlcnNpb249NC4xLjUwNjQuMjQyNTAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49NTE4MDJiZTQ5ZmZmYWZlNV1dAwAAAAZfaXRlbXMFX3NpemUIX3ZlcnNpb24EAAD0AVBDQy5XZWJDb250cm9scy5QYWlyYDJbW1BDQy5XZWJDb250cm9scy5Db250cm9sQnJlYWtSZXBlYXRlckl0ZW1UeXBlLCBQQ0MsIFZlcnNpb249NC4xLjUwNjQuMjQyNTAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49NTE4MDJiZTQ5ZmZmYWZlNV0sW1N5c3RlbS5TdHJpbmcsIG1zY29ybGliLCBWZXJzaW9uPTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OV1dW10CAAAACAgJAwAAAAAAAAABAAAABwMAAAAAAQAAAAAAAAAE8gFQQ0MuV2ViQ29udHJvbHMuUGFpcmAyW1tQQ0MuV2ViQ29udHJvbHMuQ29udHJvbEJyZWFrUmVwZWF0ZXJJdGVtVHlwZSwgUENDLCBWZXJzaW9uPTQuMS41MDY0LjI0MjUwLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTUxODAyYmU0OWZmZmFmZTVdLFtTeXN0ZW0uU3RyaW5nLCBtc2NvcmxpYiwgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI3N2E1YzU2MTkzNGUwODldXQIAAAALZAUeY3RsMDAkY3BoU2lkZUJhciRjYnJTZWFyY2hTYm5zDzL/BwABAAAA/////wEAAAAAAAAADAIAAABNUENDLCBWZXJzaW9uPTQuMS41MDY0LjI0MjUwLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTUxODAyYmU0OWZmZmFmZTUEAQAAAOYCU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWMuTGlzdGAxW1tQQ0MuV2ViQ29udHJvbHMuUGFpcmAyW1tQQ0MuV2ViQ29udHJvbHMuQ29udHJvbEJyZWFrUmVwZWF0ZXJJdGVtVHlwZSwgUENDLCBWZXJzaW9uPTQuMS41MDY0LjI0MjUwLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTUxODAyYmU0OWZmZmFmZTVdLFtTeXN0ZW0uU3RyaW5nLCBtc2NvcmxpYiwgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI3N2E1YzU2MTkzNGUwODldXSwgUENDLCBWZXJzaW9uPTQuMS41MDY0LjI0MjUwLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTUxODAyYmU0OWZmZmFmZTVdXQMAAAAGX2l0ZW1zBV9zaXplCF92ZXJzaW9uBAAA9AFQQ0MuV2ViQ29udHJvbHMuUGFpcmAyW1tQQ0MuV2ViQ29udHJvbHMuQ29udHJvbEJyZWFrUmVwZWF0ZXJJdGVtVHlwZSwgUENDLCBWZXJzaW9uPTQuMS41MDY0LjI0MjUwLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTUxODAyYmU0OWZmZmFmZTVdLFtTeXN0ZW0uU3RyaW5nLCBtc2NvcmxpYiwgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI3N2E1YzU2MTkzNGUwODldXVtdAgAAAAgICQMAAAAAAAAAAQAAAAcDAAAAAAEAAAAAAAAABPIBUENDLldlYkNvbnRyb2xzLlBhaXJgMltbUENDLldlYkNvbnRyb2xzLkNvbnRyb2xCcmVha1JlcGVhdGVySXRlbVR5cGUsIFBDQywgVmVyc2lvbj00LjEuNTA2NC4yNDI1MCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj01MTgwMmJlNDlmZmZhZmU1XSxbU3lzdGVtLlN0cmluZywgbXNjb3JsaWIsIFZlcnNpb249NC4wLjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1iNzdhNWM1NjE5MzRlMDg5XV0CAAAAC2QFHmN0bDAwJGNwaFNpZGVCYXIkY2JyUHJvbW9Db2Rlcw8y/wcAAQAAAP////8BAAAAAAAAAAwCAAAATVBDQywgVmVyc2lvbj00LjEuNTA2NC4yNDI1MCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj01MTgwMmJlNDlmZmZhZmU1BAEAAADmAlN5c3RlbS5Db2xsZWN0aW9ucy5HZW5lcmljLkxpc3RgMVtbUENDLldlYkNvbnRyb2xzLlBhaXJgMltbUENDLldlYkNvbnRyb2xzLkNvbnRyb2xCcmVha1JlcGVhdGVySXRlbVR5cGUsIFBDQywgVmVyc2lvbj00LjEuNTA2NC4yNDI1MCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj01MTgwMmJlNDlmZmZhZmU1XSxbU3lzdGVtLlN0cmluZywgbXNjb3JsaWIsIFZlcnNpb249NC4wLjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1iNzdhNWM1NjE5MzRlMDg5XV0sIFBDQywgVmVyc2lvbj00LjEuNTA2NC4yNDI1MCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj01MTgwMmJlNDlmZmZhZmU1XV0DAAAABl9pdGVtcwVfc2l6ZQhfdmVyc2lvbgQAAPQBUENDLldlYkNvbnRyb2xzLlBhaXJgMltbUENDLldlYkNvbnRyb2xzLkNvbnRyb2xCcmVha1JlcGVhdGVySXRlbVR5cGUsIFBDQywgVmVyc2lvbj00LjEuNTA2NC4yNDI1MCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj01MTgwMmJlNDlmZmZhZmU1XSxbU3lzdGVtLlN0cmluZywgbXNjb3JsaWIsIFZlcnNpb249NC4wLjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1iNzdhNWM1NjE5MzRlMDg5XV1bXQIAAAAICAkDAAAAAAAAAAEAAAAHAwAAAAABAAAAAAAAAATyAVBDQy5XZWJDb250cm9scy5QYWlyYDJbW1BDQy5XZWJDb250cm9scy5Db250cm9sQnJlYWtSZXBlYXRlckl0ZW1UeXBlLCBQQ0MsIFZlcnNpb249NC4xLjUwNjQuMjQyNTAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49NTE4MDJiZTQ5ZmZmYWZlNV0sW1N5c3RlbS5TdHJpbmcsIG1zY29ybGliLCBWZXJzaW9uPTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OV1dAgAAAAtkfg0xNGEvsPADtZSbmv6uN9Q5BPcGYd1O3AtX2oUtbe8=">
+                                <li id="HsLiveMeetings">
+                                    <a href="/MaterialsDisplay/">Live Meetings</a>
+                                </li>
+                            </ul>
+                            <ul>
+                                <li><a href="/ABekaDigital/">A BEKA DIGITAL
+
+                                    <!--[if gt IE 6]><!-->
+                                </a>
+                                    <!--<![endif]-->
+                                    <!--[if lt IE 7]><table border="0" cellpadding="0" cellspacing="0"><tr><td><![endif]-->
+                                    <ul>
+                                        <li><a href="/ABekaDigital/Textbooks.aspx">&nbsp;Digital Textbooks</a>
+                                        </li>
+                                        <li><a href="/ABekaDigital/TeachingAids.aspx">&nbsp;Digital Teaching Aids</a>
+                                            <ul>
+                                                <li><a href="/ABekaDigital/TeachingAids.aspx">&nbsp;Information</a></li>
+                                                <li><a href="/ABekaOnline/ProductSearch.aspx?title=Digital%20Teaching%20Aids">&nbsp;Order</a></li>
+                                                
+                                            </ul>
+                                        </li>
+                                        <li><a href="/ABekaDigital/Assessments.aspx">&nbsp;Digital Assessments</a>
+                                            <ul>
+                                                <li><a href="/ABekaDigital/Assessments.aspx">&nbsp;Information</a></li>
+                                                <li class="menuNoHomeschool"><a href="/ABekaDigital/Assessments/SchoolAssessmentsTrial.aspx">&nbsp;School Trial Subscription</a></li>
+                                                <li class="menuNoHomeschool"><a href="/ABekaOnline/ProductSearch.aspx?ods=6">&nbsp;Pre-Order</a></li>
+                                            </ul>
+                                        </li>
+                                        <li><a href="/ABekaDigital/Art.aspx">&nbsp;Digital Art</a>
+                                            <ul>
+                                                <li><a href="/ABekaDigital/Art.aspx">&nbsp;Information</a></li>
+                                                <li><a href="/ABekaOnline/MediaSearch.aspx">&nbsp;Order</a></li>
+                                            </ul>
+                                        </li>
+                                        <li><a href="/ABekaDigital/FAQ.aspx">&nbsp;FAQs</a>
+                                        </li>
+                                    </ul>
+                                    <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+                                </li>
+                            </ul>
+                            <ul>
+                                <li id="Search">
+                                    <input type="text" id="txtSiteSearch" maxlength="50" class="ie6PNG">
+                                    <a id="lbnSiteSearch" class="squarebutton" href="javascript:void(0);" style="margin-right: 0;"></a>
+                                </li>
+                            </ul>
+                        </div>
+                        <!-- close "menu" div -->
+                        <form method="post" action="PrivacyPolicy.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMjEwNDQyMTMxMw9kFgJmDw8WBB4RU2hvd0FkZFRoaXNCdXR0b25oHg9EaXNhYmxlTW9vVG9vbHNnZBYEAgIPZBYCZg9kFgICAQ9kFg4CBA8PFgIeB1Zpc2libGVoZGQCBg8PFgQeC18hRGF0YUJvdW5kZx4LXyFJdGVtQ291bnRmZGQCBw8PFgQfA2cfBGZkZAIIDw8WBB8DZx8EZmRkAgoPFgIfBAIGFgwCAQ9kFgICAQ9kFgJmDw8WAh4PQ29tbWFuZEFyZ3VtZW50BQEwZBYEZg8WAh4FY2xhc3MFGXNlYXJjaGljb24gZmEgZmEtY2lyY2xlLW9kAgEPFQEOUHJpbnQgUHJvZHVjdHNkAgIPZBYCAgEPZBYCZg8PFgIfBQUBOGQWBGYPFgIfBgUZc2VhcmNoaWNvbiBmYSBmYS1jaXJjbGUtb2QCAQ8VAQ1QREYgRG93bmxvYWRzZAIDD2QWAgIBD2QWAmYPDxYCHwUFATZkFgRmDxYCHwYFGXNlYXJjaGljb24gZmEgZmEtY2lyY2xlLW9kAgEPFQETRGlnaXRhbCBBc3Nlc3NtZW50c2QCBA9kFgICAQ9kFgJmDw8WAh8FBQEyZBYEZg8WAh8GBRlzZWFyY2hpY29uIGZhIGZhLWNpcmNsZS1vZAIBDxUBFURpZ2l0YWwgVGVhY2hpbmcgQWlkc2QCBQ9kFgICAQ9kFgJmDw8WAh8FBQIxMGQWBGYPFgIfBgUZc2VhcmNoaWNvbiBmYSBmYS1jaXJjbGUtb2QCAQ8VARFEaWdpdGFsIFRleHRib29rc2QCBg9kFgICAQ9kFgJmDw8WAh8FBQE0ZBYEZg8WAh8GBRVzZWFyY2hpY29uIGZhIGZhLWxpbmtkAgEPFQELRGlnaXRhbCBBcnRkAgwPDxYEHwNnHwQCGWQWKmYPZBYCZg8VAQlQcmVzY2hvb2xkAgEPZBYCAgEPZBYCZg8PFgIfBQUCTk5kFgRmDxYCHwYFGXNlYXJjaGljb24gZmEgZmEtY2lyY2xlLW9kAgEPFQEHTnVyc2VyeWQCAg9kFgICAQ9kFgJmDw8WAh8FBQJOMmQWBGYPFgIfBgUZc2VhcmNoaWNvbiBmYSBmYS1jaXJjbGUtb2QCAQ8VAQkycyBhbmQgM3NkAgQPZBYCZg8VAQxLaW5kZXJnYXJ0ZW5kAgUPZBYCAgEPZBYCZg8PFgIfBQUCSzRkFgRmDxYCHwYFGXNlYXJjaGljb24gZmEgZmEtY2lyY2xlLW9kAgEPFQENRm91ci1ZZWFyLU9sZGQCBg9kFgICAQ9kFgJmDw8WAh8FBQJLNWQWBGYPFgIfBgUZc2VhcmNoaWNvbiBmYSBmYS1jaXJjbGUtb2QCAQ8VAQ1GaXZlLVllYXItT2xkZAIID2QWAmYPFQEKRWxlbWVudGFyeWQCCQ9kFgICAQ9kFgJmDw8WAh8FBQJHMWQWBGYPFgIfBgUZc2VhcmNoaWNvbiBmYSBmYS1jaXJjbGUtb2QCAQ8VAQtGaXJzdCBHcmFkZWQCCg9kFgICAQ9kFgJmDw8WAh8FBQJHMmQWBGYPFgIfBgUZc2VhcmNoaWNvbiBmYSBmYS1jaXJjbGUtb2QCAQ8VAQxTZWNvbmQgR3JhZGVkAgsPZBYCAgEPZBYCZg8PFgIfBQUCRzNkFgRmDxYCHwYFGXNlYXJjaGljb24gZmEgZmEtY2lyY2xlLW9kAgEPFQELVGhpcmQgR3JhZGVkAgwPZBYCAgEPZBYCZg8PFgIfBQUCRzRkFgRmDxYCHwYFGXNlYXJjaGljb24gZmEgZmEtY2lyY2xlLW9kAgEPFQEMRm91cnRoIEdyYWRlZAIND2QWAgIBD2QWAmYPDxYCHwUFAkc1ZBYEZg8WAh8GBRlzZWFyY2hpY29uIGZhIGZhLWNpcmNsZS1vZAIBDxUBC0ZpZnRoIEdyYWRlZAIOD2QWAgIBD2QWAmYPDxYCHwUFAkc2ZBYEZg8WAh8GBRlzZWFyY2hpY29uIGZhIGZhLWNpcmNsZS1vZAIBDxUBC1NpeHRoIEdyYWRlZAIQD2QWAmYPFQEJU2Vjb25kYXJ5ZAIRD2QWAgIBD2QWAmYPDxYCHwUFAkc3ZBYEZg8WAh8GBRlzZWFyY2hpY29uIGZhIGZhLWNpcmNsZS1vZAIBDxUBDVNldmVudGggR3JhZGVkAhIPZBYCAgEPZBYCZg8PFgIfBQUCRzhkFgRmDxYCHwYFGXNlYXJjaGljb24gZmEgZmEtY2lyY2xlLW9kAgEPFQEMRWlnaHRoIEdyYWRlZAITD2QWAgIBD2QWAmYPDxYCHwUFAkgxZBYEZg8WAh8GBRlzZWFyY2hpY29uIGZhIGZhLWNpcmNsZS1vZAIBDxUBC05pbnRoIEdyYWRlZAIUD2QWAgIBD2QWAmYPDxYCHwUFAkgyZBYEZg8WAh8GBRlzZWFyY2hpY29uIGZhIGZhLWNpcmNsZS1vZAIBDxUBC1RlbnRoIEdyYWRlZAIVD2QWAgIBD2QWAmYPDxYCHwUFAkgzZBYEZg8WAh8GBRlzZWFyY2hpY29uIGZhIGZhLWNpcmNsZS1vZAIBDxUBDkVsZXZlbnRoIEdyYWRlZAIWD2QWAgIBD2QWAmYPDxYCHwUFAkg0ZBYEZg8WAh8GBRlzZWFyY2hpY29uIGZhIGZhLWNpcmNsZS1vZAIBDxUBDVR3ZWxmdGggR3JhZGVkAhcPZBYCAgEPZBYCZg8PFgIfBQUCWFhkFgRmDxYCHwYFGXNlYXJjaGljb24gZmEgZmEtY2lyY2xlLW9kAgEPFQENTWlzY2VsbGFuZW91c2QCDg8WAh8EAhoWNAIBD2QWAgIBD2QWAmYPDxYCHwUFA0FSVGQWBGYPFgIfBgUZc2VhcmNoaWNvbiBmYSBmYS1jaXJjbGUtb2QCAQ8VAQNBcnRkAgIPZBYCAgEPZBYCZg8PFgIfBQUEQklCTGQWBGYPFgIfBgUZc2VhcmNoaWNvbiBmYSBmYS1jaXJjbGUtb2QCAQ8VAQVCaWJsZWQCAw9kFgICAQ9kFgJmDw8WAh8FBQRDVVJSZBYEZg8WAh8GBRlzZWFyY2hpY29uIGZhIGZhLWNpcmNsZS1vZAIBDxUBCkN1cnJpY3VsdW1kAgQPZBYCAgEPZBYCZg8PFgIfBQUDREVWZBYEZg8WAh8GBRlzZWFyY2hpY29uIGZhIGZhLWNpcmNsZS1vZAIBDxUBFERldmVsb3BtZW50YWwgU2tpbGxzZAIFD2QWAgIBD2QWAmYPDxYCHwUFB0RJR0lUQUxkFgRmDxYCHwYFGXNlYXJjaGljb24gZmEgZmEtY2lyY2xlLW9kAgEPFQEHRGlnaXRhbGQCBg9kFgICAQ9kFgJmDw8WAh8FBQNEVkRkFgRmDxYCHwYFGXNlYXJjaGljb24gZmEgZmEtY2lyY2xlLW9kAgEPFQEERFZEc2QCBw9kFgICAQ9kFgJmDw8WAh8FBQRFTEVDZBYEZg8WAh8GBRlzZWFyY2hpY29uIGZhIGZhLWNpcmNsZS1vZAIBDxUBCUVsZWN0aXZlc2QCCA9kFgICAQ9kFgJmDw8WAh8FBQRGTEFOZBYEZg8WAh8GBRlzZWFyY2hpY29uIGZhIGZhLWNpcmNsZS1vZAIBDxUBEEZvcmVpZ24gTGFuZ3VhZ2VkAgkPFgIfAmgWBAIBD2QWAmYPDxYCHwUFBEdSQURkFgRmDxYCHwYFGXNlYXJjaGljb24gZmEgZmEtY2lyY2xlLW9kAgEPFQEKR3JhZHVhdGlvbmQCAw8WAh4FVmFsdWUFBEdSQURkAgoPZBYCAgEPZBYCZg8PFgIfBQUESEVBTGQWBGYPFgIfBgUZc2VhcmNoaWNvbiBmYSBmYS1jaXJjbGUtb2QCAQ8VAQZIZWFsdGhkAgsPZBYCAgEPZBYCZg8PFgIfBQUESElTVGQWBGYPFgIfBgUZc2VhcmNoaWNvbiBmYSBmYS1jaXJjbGUtb2QCAQ8VAQdIaXN0b3J5ZAIMD2QWAgIBD2QWAmYPDxYCHwUFA0tJVGQWBGYPFgIfBgUZc2VhcmNoaWNvbiBmYSBmYS1jaXJjbGUtb2QCAQ8VAQRLaXRzZAIND2QWAgIBD2QWAmYPDxYCHwUFBExBTkdkFgRmDxYCHwYFGXNlYXJjaGljb24gZmEgZmEtY2lyY2xlLW9kAgEPFQEQTGFuZ3VhZ2UvRW5nbGlzaGQCDg9kFgICAQ9kFgJmDw8WAh8FBQNMSVRkFgRmDxYCHwYFGXNlYXJjaGljb24gZmEgZmEtY2lyY2xlLW9kAgEPFQEKTGl0ZXJhdHVyZWQCDw9kFgICAQ9kFgJmDw8WAh8FBQRNQVRIZBYEZg8WAh8GBRlzZWFyY2hpY29uIGZhIGZhLWNpcmNsZS1vZAIBDxUBC01hdGhlbWF0aWNzZAIQD2QWAgIBD2QWAmYPDxYCHwUFBE1JU0NkFgRmDxYCHwYFGXNlYXJjaGljb24gZmEgZmEtY2lyY2xlLW9kAgEPFQEWTWlzY2VsbGFuZW91cy9TdXBwbGllc2QCEQ9kFgICAQ9kFgJmDw8WAh8FBQRNVVNJZBYEZg8WAh8GBRlzZWFyY2hpY29uIGZhIGZhLWNpcmNsZS1vZAIBDxUBBU11c2ljZAISD2QWAgIBD2QWAmYPDxYCHwUFBFBIT05kFgRmDxYCHwYFGXNlYXJjaGljb24gZmEgZmEtY2lyY2xlLW9kAgEPFQEHUGhvbmljc2QCEw8WAh8CaBYEAgEPZBYCZg8PFgIfBQUEUFJPR2QWBGYPFgIfBgUZc2VhcmNoaWNvbiBmYSBmYS1jaXJjbGUtb2QCAQ8VAQ5Qcm9ncmFtcy9QbGF5c2QCAw8WAh8HBQRQUk9HZAIUD2QWAgIBD2QWAmYPDxYCHwUFD1BST0dSRVNTIFJFUE9SVGQWBGYPFgIfBgUZc2VhcmNoaWNvbiBmYSBmYS1jaXJjbGUtb2QCAQ8VARlQcm9ncmVzcyBSZXBvcnQgRG93bmxvYWRzZAIVD2QWAgIBD2QWAmYPDxYCHwUFBFJFQURkFgRmDxYCHwYFGXNlYXJjaGljb24gZmEgZmEtY2lyY2xlLW9kAgEPFQEZUmVhZGluZy9Cb29rIFJlcG9ydCBCb29rc2QCFg9kFgICAQ9kFgJmDw8WAh8FBQRTQ0lFZBYEZg8WAh8GBRlzZWFyY2hpY29uIGZhIGZhLWNpcmNsZS1vZAIBDxUBB1NjaWVuY2VkAhcPZBYCAgEPZBYCZg8PFgIfBQUEU1BFTGQWBGYPFgIfBgUZc2VhcmNoaWNvbiBmYSBmYS1jaXJjbGUtb2QCAQ8VAQ9TcGVsbGluZy9Qb2V0cnlkAhgPZBYCAgEPZBYCZg8PFgIfBQUGVENIQUlEZBYEZg8WAh8GBRlzZWFyY2hpY29uIGZhIGZhLWNpcmNsZS1vZAIBDxUBDVRlYWNoaW5nIEFpZHNkAhkPZBYCAgEPZBYCZg8PFgIfBQUEVk1BTmQWBGYPFgIfBgUZc2VhcmNoaWNvbiBmYSBmYS1jaXJjbGUtb2QCAQ8VAQ1WaWRlbyBNYW51YWxzZAIaD2QWAgIBD2QWAmYPDxYCHwUFBFdSSVRkFgRmDxYCHwYFGXNlYXJjaGljb24gZmEgZmEtY2lyY2xlLW9kAgEPFQESV3JpdGluZy9QZW5tYW5zaGlwZAIED2QWAmYPD2QWAh4Fc3R5bGUFDWRpc3BsYXk6bm9uZTsWGgIBDw8WAh8CaGRkAgIPDxYCHwJoZGQCAw8PFgIfAmhkZAIEDw8WAh8CaGRkAgYPDxYCHwJoZGQCBw8PFgIfAmhkZAIIDw8WAh8CaGRkAgkPDxYCHwJoZGQCCg8PFgIfAmhkZAILDw8WAh8CaGRkAgwPDxYCHwJoZGQCDQ8PFgIfAmhkZAIQDw8WAh8CaGRkGAQFIGN0bDAwJGNwaFNpZGVCYXIkY2JyU2VhcmNoR3JhZGVzDzKwEQABAAAA/////wEAAAAAAAAADAIAAABNUENDLCBWZXJzaW9uPTQuMS41MTk3LjE4NTMxLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTUxODAyYmU0OWZmZmFmZTUEAQAAAOYCU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWMuTGlzdGAxW1tQQ0MuV2ViQ29udHJvbHMuUGFpcmAyW1tQQ0MuV2ViQ29udHJvbHMuQ29udHJvbEJyZWFrUmVwZWF0ZXJJdGVtVHlwZSwgUENDLCBWZXJzaW9uPTQuMS41MTk3LjE4NTMxLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTUxODAyYmU0OWZmZmFmZTVdLFtTeXN0ZW0uU3RyaW5nLCBtc2NvcmxpYiwgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI3N2E1YzU2MTkzNGUwODldXSwgUENDLCBWZXJzaW9uPTQuMS41MTk3LjE4NTMxLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTUxODAyYmU0OWZmZmFmZTVdXQMAAAAGX2l0ZW1zBV9zaXplCF92ZXJzaW9uBAAA9AFQQ0MuV2ViQ29udHJvbHMuUGFpcmAyW1tQQ0MuV2ViQ29udHJvbHMuQ29udHJvbEJyZWFrUmVwZWF0ZXJJdGVtVHlwZSwgUENDLCBWZXJzaW9uPTQuMS41MTk3LjE4NTMxLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTUxODAyYmU0OWZmZmFmZTVdLFtTeXN0ZW0uU3RyaW5nLCBtc2NvcmxpYiwgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI3N2E1YzU2MTkzNGUwODldXVtdAgAAAAgICQMAAAAZAAAAGgAAAAcDAAAAAAEAAAAgAAAABPIBUENDLldlYkNvbnRyb2xzLlBhaXJgMltbUENDLldlYkNvbnRyb2xzLkNvbnRyb2xCcmVha1JlcGVhdGVySXRlbVR5cGUsIFBDQywgVmVyc2lvbj00LjEuNTE5Ny4xODUzMSwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj01MTgwMmJlNDlmZmZhZmU1XSxbU3lzdGVtLlN0cmluZywgbXNjb3JsaWIsIFZlcnNpb249NC4wLjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1iNzdhNWM1NjE5MzRlMDg5XV0CAAAACQQAAAAJBQAAAAkGAAAACQcAAAAJCAAAAAkJAAAACQoAAAAJCwAAAAkMAAAACQ0AAAAJDgAAAAkPAAAACRAAAAAJEQAAAAkSAAAACRMAAAAJFAAAAAkVAAAACRYAAAAJFwAAAAkYAAAACRkAAAAJGgAAAAkbAAAACRwAAAANBwUEAAAA8gFQQ0MuV2ViQ29udHJvbHMuUGFpcmAyW1tQQ0MuV2ViQ29udHJvbHMuQ29udHJvbEJyZWFrUmVwZWF0ZXJJdGVtVHlwZSwgUENDLCBWZXJzaW9uPTQuMS41MTk3LjE4NTMxLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTUxODAyYmU0OWZmZmFmZTVdLFtTeXN0ZW0uU3RyaW5nLCBtc2NvcmxpYiwgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI3N2E1YzU2MTkzNGUwODldXQIAAAAFRmlyc3QGU2Vjb25kBAEsUENDLldlYkNvbnRyb2xzLkNvbnRyb2xCcmVha1JlcGVhdGVySXRlbVR5cGUCAAAAAgAAAAXj////LFBDQy5XZWJDb250cm9scy5Db250cm9sQnJlYWtSZXBlYXRlckl0ZW1UeXBlAQAAAAd2YWx1ZV9fAAgCAAAABQAAAAYeAAAAAi0xAQUAAAAEAAAAAeH////j////BAAAAAYgAAAAB0RlZmF1bHQBBgAAAAQAAAAB3////+P///8EAAAACSAAAAABBwAAAAQAAAAB3v///+P///8FAAAABiMAAAABMQEIAAAABAAAAAHc////4////wUAAAAGJQAAAAItMQEJAAAABAAAAAHa////4////wQAAAAJIAAAAAEKAAAABAAAAAHY////4////wQAAAAJIAAAAAELAAAABAAAAAHX////4////wUAAAAGKgAAAAExAQwAAAAEAAAAAdX////j////BQAAAAYsAAAAAi0xAQ0AAAAEAAAAAdP////j////BAAAAAkgAAAAAQ4AAAAEAAAAAdH////j////BAAAAAkgAAAAAQ8AAAAEAAAAAdD////j////BAAAAAkgAAAAARAAAAAEAAAAAc/////j////BAAAAAkgAAAAAREAAAAEAAAAAc7////j////BAAAAAkgAAAAARIAAAAEAAAAAc3////j////BAAAAAkgAAAAARMAAAAEAAAAAcz////j////BQAAAAY1AAAAATEBFAAAAAQAAAAByv///+P///8FAAAABjcAAAACLTEBFQAAAAQAAAAByP///+P///8EAAAACSAAAAABFgAAAAQAAAABxv///+P///8EAAAACSAAAAABFwAAAAQAAAABxf///+P///8EAAAACSAAAAABGAAAAAQAAAABxP///+P///8EAAAACSAAAAABGQAAAAQAAAABw////+P///8EAAAACSAAAAABGgAAAAQAAAABwv///+P///8EAAAACSAAAAABGwAAAAQAAAABwf///+P///8EAAAACSAAAAABHAAAAAQAAAABwP///+P///8FAAAABkEAAAABMQtkBSBjdGwwMCRjcGhTaWRlQmFyJGNiclNlYXJjaFRpdGxlcw8y/wcAAQAAAP////8BAAAAAAAAAAwCAAAATVBDQywgVmVyc2lvbj00LjEuNTE5Ny4xODUzMSwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj01MTgwMmJlNDlmZmZhZmU1BAEAAADmAlN5c3RlbS5Db2xsZWN0aW9ucy5HZW5lcmljLkxpc3RgMVtbUENDLldlYkNvbnRyb2xzLlBhaXJgMltbUENDLldlYkNvbnRyb2xzLkNvbnRyb2xCcmVha1JlcGVhdGVySXRlbVR5cGUsIFBDQywgVmVyc2lvbj00LjEuNTE5Ny4xODUzMSwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj01MTgwMmJlNDlmZmZhZmU1XSxbU3lzdGVtLlN0cmluZywgbXNjb3JsaWIsIFZlcnNpb249NC4wLjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1iNzdhNWM1NjE5MzRlMDg5XV0sIFBDQywgVmVyc2lvbj00LjEuNTE5Ny4xODUzMSwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj01MTgwMmJlNDlmZmZhZmU1XV0DAAAABl9pdGVtcwVfc2l6ZQhfdmVyc2lvbgQAAPQBUENDLldlYkNvbnRyb2xzLlBhaXJgMltbUENDLldlYkNvbnRyb2xzLkNvbnRyb2xCcmVha1JlcGVhdGVySXRlbVR5cGUsIFBDQywgVmVyc2lvbj00LjEuNTE5Ny4xODUzMSwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj01MTgwMmJlNDlmZmZhZmU1XSxbU3lzdGVtLlN0cmluZywgbXNjb3JsaWIsIFZlcnNpb249NC4wLjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1iNzdhNWM1NjE5MzRlMDg5XV1bXQIAAAAICAkDAAAAAAAAAAEAAAAHAwAAAAABAAAAAAAAAATyAVBDQy5XZWJDb250cm9scy5QYWlyYDJbW1BDQy5XZWJDb250cm9scy5Db250cm9sQnJlYWtSZXBlYXRlckl0ZW1UeXBlLCBQQ0MsIFZlcnNpb249NC4xLjUxOTcuMTg1MzEsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49NTE4MDJiZTQ5ZmZmYWZlNV0sW1N5c3RlbS5TdHJpbmcsIG1zY29ybGliLCBWZXJzaW9uPTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OV1dAgAAAAtkBR5jdGwwMCRjcGhTaWRlQmFyJGNiclNlYXJjaFNibnMPMv8HAAEAAAD/////AQAAAAAAAAAMAgAAAE1QQ0MsIFZlcnNpb249NC4xLjUxOTcuMTg1MzEsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49NTE4MDJiZTQ5ZmZmYWZlNQQBAAAA5gJTeXN0ZW0uQ29sbGVjdGlvbnMuR2VuZXJpYy5MaXN0YDFbW1BDQy5XZWJDb250cm9scy5QYWlyYDJbW1BDQy5XZWJDb250cm9scy5Db250cm9sQnJlYWtSZXBlYXRlckl0ZW1UeXBlLCBQQ0MsIFZlcnNpb249NC4xLjUxOTcuMTg1MzEsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49NTE4MDJiZTQ5ZmZmYWZlNV0sW1N5c3RlbS5TdHJpbmcsIG1zY29ybGliLCBWZXJzaW9uPTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OV1dLCBQQ0MsIFZlcnNpb249NC4xLjUxOTcuMTg1MzEsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49NTE4MDJiZTQ5ZmZmYWZlNV1dAwAAAAZfaXRlbXMFX3NpemUIX3ZlcnNpb24EAAD0AVBDQy5XZWJDb250cm9scy5QYWlyYDJbW1BDQy5XZWJDb250cm9scy5Db250cm9sQnJlYWtSZXBlYXRlckl0ZW1UeXBlLCBQQ0MsIFZlcnNpb249NC4xLjUxOTcuMTg1MzEsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49NTE4MDJiZTQ5ZmZmYWZlNV0sW1N5c3RlbS5TdHJpbmcsIG1zY29ybGliLCBWZXJzaW9uPTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OV1dW10CAAAACAgJAwAAAAAAAAABAAAABwMAAAAAAQAAAAAAAAAE8gFQQ0MuV2ViQ29udHJvbHMuUGFpcmAyW1tQQ0MuV2ViQ29udHJvbHMuQ29udHJvbEJyZWFrUmVwZWF0ZXJJdGVtVHlwZSwgUENDLCBWZXJzaW9uPTQuMS41MTk3LjE4NTMxLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTUxODAyYmU0OWZmZmFmZTVdLFtTeXN0ZW0uU3RyaW5nLCBtc2NvcmxpYiwgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI3N2E1YzU2MTkzNGUwODldXQIAAAALZAUeY3RsMDAkY3BoU2lkZUJhciRjYnJQcm9tb0NvZGVzDzL/BwABAAAA/////wEAAAAAAAAADAIAAABNUENDLCBWZXJzaW9uPTQuMS41MTk3LjE4NTMxLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTUxODAyYmU0OWZmZmFmZTUEAQAAAOYCU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWMuTGlzdGAxW1tQQ0MuV2ViQ29udHJvbHMuUGFpcmAyW1tQQ0MuV2ViQ29udHJvbHMuQ29udHJvbEJyZWFrUmVwZWF0ZXJJdGVtVHlwZSwgUENDLCBWZXJzaW9uPTQuMS41MTk3LjE4NTMxLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTUxODAyYmU0OWZmZmFmZTVdLFtTeXN0ZW0uU3RyaW5nLCBtc2NvcmxpYiwgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI3N2E1YzU2MTkzNGUwODldXSwgUENDLCBWZXJzaW9uPTQuMS41MTk3LjE4NTMxLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTUxODAyYmU0OWZmZmFmZTVdXQMAAAAGX2l0ZW1zBV9zaXplCF92ZXJzaW9uBAAA9AFQQ0MuV2ViQ29udHJvbHMuUGFpcmAyW1tQQ0MuV2ViQ29udHJvbHMuQ29udHJvbEJyZWFrUmVwZWF0ZXJJdGVtVHlwZSwgUENDLCBWZXJzaW9uPTQuMS41MTk3LjE4NTMxLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTUxODAyYmU0OWZmZmFmZTVdLFtTeXN0ZW0uU3RyaW5nLCBtc2NvcmxpYiwgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI3N2E1YzU2MTkzNGUwODldXVtdAgAAAAgICQMAAAAAAAAAAQAAAAcDAAAAAAEAAAAAAAAABPIBUENDLldlYkNvbnRyb2xzLlBhaXJgMltbUENDLldlYkNvbnRyb2xzLkNvbnRyb2xCcmVha1JlcGVhdGVySXRlbVR5cGUsIFBDQywgVmVyc2lvbj00LjEuNTE5Ny4xODUzMSwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj01MTgwMmJlNDlmZmZhZmU1XSxbU3lzdGVtLlN0cmluZywgbXNjb3JsaWIsIFZlcnNpb249NC4wLjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1iNzdhNWM1NjE5MzRlMDg5XV0CAAAAC2QJ+4Rgm1nlKIjvFuPviR/wZa+W5RcWDVNNJIs2wu9KQA==">
 
 
-<script src="/WebResource.axd?d=d__ha4S8u835qPWSuu7GMJrLPQh_mxeSqYEBGxGo5w792hgsPBXWi0BGt1yRlA0x6TkXeVZkFLR7J6TUVMXfdK6JYD4l9ttDE-inKaBa5OfxJ7NlM98XXDvyB_st1XcLYUl8Zj2yVA0TA11-iOIHAuIBG4yzM93rfrctvAdSB3w1&amp;t=635198601022912764" type="text/javascript"></script>
-<script src="/WebResource.axd?d=YIBvR3w1nEOApLBmw2Zz9eP2E9xqQBdUDF8dFkO2IzY2G6ixazPp0FJg0C2wy9u59QwEn9k-5Y2RSIDAIeORrVn0UDu3CUKt-TwqQajSXLhCoIf8K32oiMHtKaFkiu8xWjDWXALuFkR0FheeFXaraUdhy8duCiGyS4ti8w_7SbE1&amp;t=635198601022912764" type="text/javascript"></script>
-<script src="/includes/javascript/fx.shake.js" type="text/javascript"></script>
+<script src="/WebResource.axd?d=-sou3RkHto6bXeJKXDx-l_OeO7AxetdzSrQAD1cizM1WcOv1zJt-uvrthZiL6JupB6cQF8LtdUETaJDKdfcFXz6p9MwFdo_J_3euUDtOEfMaC1FRKQ2REsiJuTy96u4qn0bNjx3sF4PgHNLxqFteB1x7f2rimTgHwJequI8VriY1&amp;t=635313487939692854" type="text/javascript"></script>
+<script src="/WebResource.axd?d=PVglAiA82V3SpfZKGAexDch6BYJgxKH1zPK3e2yKZDXXTo1rezfztsVwEFi3_7yNAoAQQgfjnYmmLyFI8feq4RUwyxA-q5nUt1lKXY_aWh3aFhZKbWJZYGOvQaKESLkbBAsGkQsan01h29MJifgZWYbgC5KodgHkP0gOerXG_8g1&amp;t=635313487939692854" type="text/javascript"></script>
 <script type="text/javascript">
 //<![CDATA[
 
-window.addEvent('domready', function()
-{
-    $$('#offerWrap a[target=_blank]').addEvent('click', function(e) {
+jQuery(document).ready(function () {
+    jQuery('#offerWrap a[target=_blank]').click(function(e) {
         window.open(this.href, 'Special_Offers', 'resizable=yes,scrollbars=yes,width=535,height=600').focus();
         e.preventDefault();
     });
-    var offerInclude = $('OfferInclude');
+    var offerInclude = jQuery('#OfferInclude');
 
-    if (offerInclude.getChildren().length > 0)
+    if (offerInclude.children().length > 0)
     {
         //inject div
-        var el = new Element('div', {
-            'id': 'coupon',
-            'class': 'closed',
-            'text': ' '
-        }).inject(document.body);
+        var el = jQuery('<div />')
+            .attr('id', 'coupon')
+            .attr('class', 'closed')
+            .attr('text', ' ');
+        jQuery(document.body).append(el);
 
         //settings
         var state = 'closed';
 
         var toggle = function() {
             //change the state
+            var old = state;
             state = (state == 'closed' ? 'open' : 'closed');
-            el.morph('.' + state);
+            el.switchClass(old, state, 500, 'easeInOutQuad');
         };
         //add the click toggle
-        el.addEvent('click', function() {
+        el.click(function() {
             toggle();
         });
 
-        el.grab($('offerWrap'));
+        el.append(jQuery('#offerWrap'));
     }
 });
 //]]>
 </script>
 
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAEKUwi4HvPDREPijXKcU2W9j6wAv5jcrCvKNWr9GK/VZ+EqjIgeds9vLHflWDSjhM6KwViXoVBQcahGA7NjjgMgKUO5L5ZdFXch51KqUd25YlvbF2J6BwbrzYLsezcIWP3jJcEpw27hLbVRZ7NYVX2q+jguF3Mrv2V9Bj0L+phQUdN7J078DlWajcPp2MDQsfgroVGXPj9ooHpsqet19SBQ+3VLvAxB6lvU+uw4s2DXv5Mk31ZzZE79/Rg3MMCOsBoSe9hTvXhBwrEC11G/VAO+yuBqmHZx6h2BG1S0xFBSfp+JBCoM6t757mUeUfMy9eNgrI2xT8SgMI2ocRYBvvINAC0BTnSwqVmN+zq/b9al6iLILhiLoyYWHcxphvbIjCd02CP6TyXOSwfJXacEtVM5xXNFxCtNXYVaw/wA6welWh2SQkzAA3k/FdzCOvB/8zPOjdyvvMCvEJQOGLfY0Na6DPuZciWrU8e2GvgiJVK32w1CHx0ylPYAkbIwYj2x2+i3gIF/eW0JgSVUneyQAs881OlftqBdYZWhBLUY/Ns3zw7tVhVKELITT6RjF3sSg4/S+WmIY1dmuF3ocFYluhO7hAFln1rjR1gf3GjJ3Zk4ZusTdFFg4pkcf7k0ajCtp+VBcmUoOwErN0qN8ujRLx47M3fRpqZn2cwHFR9K57WLTGU/wv1hPPVwjUBF8c10aG785kGw0N5cAok1Hjkrb7ht6W0Nm/OYTEJYPOgYA5WreENX9SkCIegz3aI/xkX/c+L5lKroqpDb+K+btOsFUjPE8GVZyXsZnHyCQ4a/oKLW3AOg0GOvKruO4qFqAU7dtyEoRaHri7MB9KmQTAh9p1HdyFDIav4VfBIfCEs5kbfvF7gCsLtEVErhFGDzhLeBpiTl1elzPVBfnsi1BInWy+UsfwvwDMzaBt4BbIB6x8u3HM3r9sz/64E3VHiCEe/aWd2lPPa6WUGxFn21d66cH5qno9r+6547pnP3b5bdjzvOERc7E7Des6o36oGwitWsX6u390sKwP+QgIBs50qEXz892MRvyR6FDk8d5/gqb5Eq3hne8m7EF/fPm0lQoLyoYJE1l62h6kGpleMqb1oVzLzfinEd9gK1mJ7lxSeQgrS63xXYR2Yg5QxmD4J71/MkNRQzAMo3rbovjMKNKJeBeD3l5JdpcUd4qLe9RQmvURtiuUap9Qy0zmpYorfSWlVq3/2WT1Sh7eyj2JBcmy0siCnXiLfMsZmHKsOKjkDsi67hX60iUzK9tRFbosXpfm2KjHQoe0ihlvXf5KFIGp0rzPVeyXVQ6Tb5GLt21gmxkT4HE11BS/FCNW0cgJA9adX8n7skGhM1e8Pr2fKW+/RuQfFykEfmh6MxdaoGiNGUJ+g7eDmGoE1ewk2MKrl3hfVZYnYKcSgiutE6/ZG+R4qQLdmv0qG8GsweJGAW3QmPNGfVFPg==">
-                        
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAFDB+c5608BZUppIeuBNehTU6wAv5jcrCvKNWr9GK/VZ+EqjIgeds9vLHflWDSjhM6LWUKAIBKPFR4bIlaVJeWGr/mjU+wPfuzSKR3FgvxH3bDipY0ugStOLi6p/7SHifzklMEEbhO8od48vmGxSY1O+YFO4vBEsEzHCxJlDn4Grr/QjFUB9r/J95epTW9CLWTb0ZJS6jvUfVSRtFfQw+QN95yw295Y9fRJl4B2RyWBeSMtU0RJb0+qYn1CifQRDrpgbdtNr26hPLvLyyt81CihYCVqF2mC/C6Lk/XAUWNsZiTlWiQ5wQaQD4lxl5XD/vYGwViXoVBQcahGA7NjjgMgKUO5L5ZdFXch51KqUd25YlvbF2J6BwbrzYLsezcIWP3jJcEpw27hLbVRZ7NYVX2q+jguF3Mrv2V9Bj0L+phQUdN7J078DlWajcPp2MDQsfgroVGXPj9ooHpsqet19SBQ+3VLvAxB6lvU+uw4s2DXv5Mk31ZzZE79/Rg3MMCOsBoSe9hTvXhBwrEC11G/VAO+yuBqmHZx6h2BG1S0xFBSfp+JBCoM6t757mUeUfMy9eNgrI2xT8SgMI2ocRYBvvINAC0BTnSwqVmN+zq/b9al6iLILhiLoyYWHcxphvbIjCd02CP6TyXOSwfJXacEtVM5xXNFxCtNXYVaw/wA6welWh2SQkzAA3k/FdzCOvB/8zPOjdyvvMCvEJQOGLfY0Na6DPuZciWrU8e2GvgiJVK32w1CHx0ylPYAkbIwYj2x2+i3gIF/eW0JgSVUneyQAs881OlftqBdYZWhBLUY/Ns3zw7tVhVKELITT6RjF3sSg4/S+WmIY1dmuF3ocFYluhO7hAFln1rjR1gf3GjJ3Zk4ZusTdFFg4pkcf7k0ajCtp+VBcmUoOwErN0qN8ujRLx47M3fRpqZn2cwHFR9K57WLTGU/wv1hPPVwjUBF8c10aG785kGw0N5cAok1Hjkrb7ht690fTjo+kCNQYP8+H/GkzjHq4jer8dnknaaPJI39DAlNlKroqpDb+K+btOsFUjPE8GVZyXsZnHyCQ4a/oKLW3AOg0GOvKruO4qFqAU7dtyEoRaHri7MB9KmQTAh9p1HdyFDIav4VfBIfCEs5kbfvF7gCsLtEVErhFGDzhLeBpiTl1elzPVBfnsi1BInWy+UsfwvwDMzaBt4BbIB6x8u3HM3r9sz/64E3VHiCEe/aWd2lPPa6WUGxFn21d66cH5qno9r+6547pnP3b5bdjzvOERc7E7Des6o36oGwitWsX6u390sKwP+QgIBs50qEXz892MRvyR6FDk8d5/gqb5Eq3hne8m7EF/fPm0lQoLyoYJE1l62h6kGpleMqb1oVzLzfi6NXQxT+5PoKPhokiGDKDXdAfrkcEDe9jTv1iORSw2RXAMo3rbovjMKNKJeBeD3l5JdpcUd4qLe9RQmvURtiuUap9Qy0zmpYorfSWlVq3/2WT1Sh7eyj2JBcmy0siCnXiLfMsZmHKsOKjkDsi67hX60iUzK9tRFbosXpfm2KjHQoe0ihlvXf5KFIGp0rzPVeyXVQ6Tb5GLt21gmxkT4HE11BS/FCNW0cgJA9adX8n7skGhM1e8Pr2fKW+/RuQfFykEfmh6MxdaoGiNGUJ+g7eDmGoE1ewk2MKrl3hfVZYnYIMkO5MdL17OnIcIRyNJu/3WWJ7kk/6ZxIkhwKJ+Ow66QvXIVUFHsg6R0zueq8ObLl+9sjomK9yp7lR1u08mcnT">
                             
-                                <div id="SearchBar">
-                                    <div id="SearchHeading" class="ie6PNG"></div>
-                                    <div class="Enter ie6PNG">
-                                        <div>
-                                            <input name="ctl00$cphSideBar$txtProductSearch" type="text" maxlength="50" id="txtProductSearch" class="ie6PNG watermarked"><a id="lbnProductSearch" class="squarebutton" href="javascript:__doPostBack('ctl00$cphSideBar$lbnProductSearch','')" style="margin-right: 0;"></a>
+                                
+                                    <div id="newsearchbar">
+                <div id="newsearchbartitle">
+                    
+                    <i class="fa fa-search" id="iShopProduct"></i> SHOP OUR PRODUCTS
+                </div>                
+                <div id="newsearchbarinner">
+                                        
+                                        <div class="newenter ie6PNG">
+                                            <div>
+                                                <input name="ctl00$cphSideBar$txtProductSearch" type="text" maxlength="50" id="txtProductSearch" class="ie6PNG watermarked"><a id="lbnProductSearch" href="javascript:__doPostBack('ctl00$cphSideBar$lbnProductSearch','')" style="margin-right: 0;">GO</a>
+                                            </div>
                                         </div>
-                                    </div>
-                                    <div class="Shop ie6PNG">
-                                        
-                                        <a href="/ABekaOnline/CustomerService/CustomerLogin.aspx">&nbsp;</a>
-                                        
-                                    </div>
-                                    <div id="clearList" class="Division ie6PNG">
-                                        &nbsp;
-                                        
-                                    </div>
 
-                                    
-                                                    <div class="Division ie6PNG">
-                                                        <div class="SearchDivisions">Preschool</div>
-                                                        <div class="list">
+                                        <div id="clearList" class="newdivision ie6PNG">
+                                            &nbsp;
+
+                                            
+                                        </div>
+
+                                        
+                                        <div class="newdivision ie6PNG">
+                                            
+                                                    <div class="NewSearchDivisions">Product Types</div>
+                                                    <div class="newlist">
                                                 
-                                            <span id="ctl00_cphSideBar_cbrSearchGrades_ctl01_lblGradeSearch"><a id="ctl00_cphSideBar_cbrSearchGrades_ctl01_lbnGradeSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$cbrSearchGrades$ctl01$lbnGradeSearch','')">Nursery</a></span>
-                                        
-                                            <span id="ctl00_cphSideBar_cbrSearchGrades_ctl02_lblGradeSearch"><a id="ctl00_cphSideBar_cbrSearchGrades_ctl02_lbnGradeSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$cbrSearchGrades$ctl02$lbnGradeSearch','')">2s and 3s</a></span>
-                                        
-                                                        </div>
+                                                    <span id="ctl00_cphSideBar_rptProductTypes_ctl01_lblProductTypes"><a id="ctl00_cphSideBar_rptProductTypes_ctl01_lbnProductTypes" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$rptProductTypes$ctl01$lbnProductTypes','')"><i id="ctl00_cphSideBar_rptProductTypes_ctl01_iIcon" class="searchicon fa fa-circle-o"></i>Print Products</a></span>
+                                                    <input type="hidden" name="ctl00$cphSideBar$rptProductTypes$ctl01$ctl00" value="0">
+                                                
+                                                    <span id="ctl00_cphSideBar_rptProductTypes_ctl02_lblProductTypes"><a id="ctl00_cphSideBar_rptProductTypes_ctl02_lbnProductTypes" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$rptProductTypes$ctl02$lbnProductTypes','')"><i id="ctl00_cphSideBar_rptProductTypes_ctl02_iIcon" class="searchicon fa fa-circle-o"></i>PDF Downloads</a></span>
+                                                    <input type="hidden" name="ctl00$cphSideBar$rptProductTypes$ctl02$ctl00" value="8">
+                                                
+                                                    <span id="ctl00_cphSideBar_rptProductTypes_ctl03_lblProductTypes"><a id="ctl00_cphSideBar_rptProductTypes_ctl03_lbnProductTypes" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$rptProductTypes$ctl03$lbnProductTypes','')"><i id="ctl00_cphSideBar_rptProductTypes_ctl03_iIcon" class="searchicon fa fa-circle-o"></i>Digital Assessments</a></span>
+                                                    <input type="hidden" name="ctl00$cphSideBar$rptProductTypes$ctl03$ctl00" value="6">
+                                                
+                                                    <span id="ctl00_cphSideBar_rptProductTypes_ctl04_lblProductTypes"><a id="ctl00_cphSideBar_rptProductTypes_ctl04_lbnProductTypes" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$rptProductTypes$ctl04$lbnProductTypes','')"><i id="ctl00_cphSideBar_rptProductTypes_ctl04_iIcon" class="searchicon fa fa-circle-o"></i>Digital Teaching Aids</a></span>
+                                                    <input type="hidden" name="ctl00$cphSideBar$rptProductTypes$ctl04$ctl00" value="2">
+                                                
+                                                    <span id="ctl00_cphSideBar_rptProductTypes_ctl05_lblProductTypes"><a id="ctl00_cphSideBar_rptProductTypes_ctl05_lbnProductTypes" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$rptProductTypes$ctl05$lbnProductTypes','')"><i id="ctl00_cphSideBar_rptProductTypes_ctl05_iIcon" class="searchicon fa fa-circle-o"></i>Digital Textbooks</a></span>
+                                                    <input type="hidden" name="ctl00$cphSideBar$rptProductTypes$ctl05$ctl00" value="10">
+                                                
+                                                    <span id="ctl00_cphSideBar_rptProductTypes_ctl06_lblProductTypes"><a id="ctl00_cphSideBar_rptProductTypes_ctl06_lbnProductTypes" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$rptProductTypes$ctl06$lbnProductTypes','')"><i id="ctl00_cphSideBar_rptProductTypes_ctl06_iIcon" class="searchicon fa fa-link"></i>Digital Art</a></span>
+                                                    <input type="hidden" name="ctl00$cphSideBar$rptProductTypes$ctl06$ctl00" value="4">
+                                                
                                                     </div>
                                                 
-                                                    <div class="Division ie6PNG">
-                                                        <div class="SearchDivisions">Kindergarten</div>
-                                                        <div class="list">
-                                                
-                                            <span id="ctl00_cphSideBar_cbrSearchGrades_ctl05_lblGradeSearch"><a id="ctl00_cphSideBar_cbrSearchGrades_ctl05_lbnGradeSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$cbrSearchGrades$ctl05$lbnGradeSearch','')">Four-Year-Old</a></span>
+                                        </div>
                                         
-                                            <span id="ctl00_cphSideBar_cbrSearchGrades_ctl06_lblGradeSearch"><a id="ctl00_cphSideBar_cbrSearchGrades_ctl06_lbnGradeSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$cbrSearchGrades$ctl06$lbnGradeSearch','')">Five-Year-Old</a></span>
-                                        
+                                                        <div class="newdivision ie6PNG">
+                                                            <div class="NewSearchDivisions">Preschool</div>
+                                                            <div class="newlist">
+                                                    
+                                                <span id="ctl00_cphSideBar_cbrSearchGrades_ctl01_lblGradeSearch"><a id="ctl00_cphSideBar_cbrSearchGrades_ctl01_lbnGradeSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$cbrSearchGrades$ctl01$lbnGradeSearch','')"><i id="ctl00_cphSideBar_cbrSearchGrades_ctl01_iIcon" class="searchicon fa fa-circle-o"></i>Nursery</a></span>
+                                            
+                                                <span id="ctl00_cphSideBar_cbrSearchGrades_ctl02_lblGradeSearch"><a id="ctl00_cphSideBar_cbrSearchGrades_ctl02_lbnGradeSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$cbrSearchGrades$ctl02$lbnGradeSearch','')"><i id="ctl00_cphSideBar_cbrSearchGrades_ctl02_iIcon" class="searchicon fa fa-circle-o"></i>2s and 3s</a></span>
+                                            
                                                         </div>
                                                     </div>
-                                                
-                                                    <div class="Division ie6PNG">
-                                                        <div class="SearchDivisions">Elementary</div>
-                                                        <div class="list">
-                                                
-                                            <span id="ctl00_cphSideBar_cbrSearchGrades_ctl09_lblGradeSearch"><a id="ctl00_cphSideBar_cbrSearchGrades_ctl09_lbnGradeSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$cbrSearchGrades$ctl09$lbnGradeSearch','')">First Grade</a></span>
-                                        
-                                            <span id="ctl00_cphSideBar_cbrSearchGrades_ctl10_lblGradeSearch"><a id="ctl00_cphSideBar_cbrSearchGrades_ctl10_lbnGradeSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$cbrSearchGrades$ctl10$lbnGradeSearch','')">Second Grade</a></span>
-                                        
-                                            <span id="ctl00_cphSideBar_cbrSearchGrades_ctl11_lblGradeSearch"><a id="ctl00_cphSideBar_cbrSearchGrades_ctl11_lbnGradeSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$cbrSearchGrades$ctl11$lbnGradeSearch','')">Third Grade</a></span>
-                                        
-                                            <span id="ctl00_cphSideBar_cbrSearchGrades_ctl12_lblGradeSearch"><a id="ctl00_cphSideBar_cbrSearchGrades_ctl12_lbnGradeSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$cbrSearchGrades$ctl12$lbnGradeSearch','')">Fourth Grade</a></span>
-                                        
-                                            <span id="ctl00_cphSideBar_cbrSearchGrades_ctl13_lblGradeSearch"><a id="ctl00_cphSideBar_cbrSearchGrades_ctl13_lbnGradeSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$cbrSearchGrades$ctl13$lbnGradeSearch','')">Fifth Grade</a></span>
-                                        
-                                            <span id="ctl00_cphSideBar_cbrSearchGrades_ctl14_lblGradeSearch"><a id="ctl00_cphSideBar_cbrSearchGrades_ctl14_lbnGradeSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$cbrSearchGrades$ctl14$lbnGradeSearch','')">Sixth Grade</a></span>
-                                        
+                                                    
+                                                        <div class="newdivision ie6PNG">
+                                                            <div class="NewSearchDivisions">Kindergarten</div>
+                                                            <div class="newlist">
+                                                    
+                                                <span id="ctl00_cphSideBar_cbrSearchGrades_ctl05_lblGradeSearch"><a id="ctl00_cphSideBar_cbrSearchGrades_ctl05_lbnGradeSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$cbrSearchGrades$ctl05$lbnGradeSearch','')"><i id="ctl00_cphSideBar_cbrSearchGrades_ctl05_iIcon" class="searchicon fa fa-circle-o"></i>Four-Year-Old</a></span>
+                                            
+                                                <span id="ctl00_cphSideBar_cbrSearchGrades_ctl06_lblGradeSearch"><a id="ctl00_cphSideBar_cbrSearchGrades_ctl06_lbnGradeSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$cbrSearchGrades$ctl06$lbnGradeSearch','')"><i id="ctl00_cphSideBar_cbrSearchGrades_ctl06_iIcon" class="searchicon fa fa-circle-o"></i>Five-Year-Old</a></span>
+                                            
                                                         </div>
                                                     </div>
-                                                
-                                                    <div class="Division ie6PNG">
-                                                        <div class="SearchDivisions">Secondary</div>
-                                                        <div class="list">
-                                                
-                                            <span id="ctl00_cphSideBar_cbrSearchGrades_ctl17_lblGradeSearch"><a id="ctl00_cphSideBar_cbrSearchGrades_ctl17_lbnGradeSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$cbrSearchGrades$ctl17$lbnGradeSearch','')">Seventh Grade</a></span>
-                                        
-                                            <span id="ctl00_cphSideBar_cbrSearchGrades_ctl18_lblGradeSearch"><a id="ctl00_cphSideBar_cbrSearchGrades_ctl18_lbnGradeSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$cbrSearchGrades$ctl18$lbnGradeSearch','')">Eighth Grade</a></span>
-                                        
-                                            <span id="ctl00_cphSideBar_cbrSearchGrades_ctl19_lblGradeSearch"><a id="ctl00_cphSideBar_cbrSearchGrades_ctl19_lbnGradeSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$cbrSearchGrades$ctl19$lbnGradeSearch','')">Ninth Grade</a></span>
-                                        
-                                            <span id="ctl00_cphSideBar_cbrSearchGrades_ctl20_lblGradeSearch"><a id="ctl00_cphSideBar_cbrSearchGrades_ctl20_lbnGradeSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$cbrSearchGrades$ctl20$lbnGradeSearch','')">Tenth Grade</a></span>
-                                        
-                                            <span id="ctl00_cphSideBar_cbrSearchGrades_ctl21_lblGradeSearch"><a id="ctl00_cphSideBar_cbrSearchGrades_ctl21_lbnGradeSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$cbrSearchGrades$ctl21$lbnGradeSearch','')">Eleventh Grade</a></span>
-                                        
-                                            <span id="ctl00_cphSideBar_cbrSearchGrades_ctl22_lblGradeSearch"><a id="ctl00_cphSideBar_cbrSearchGrades_ctl22_lbnGradeSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$cbrSearchGrades$ctl22$lbnGradeSearch','')">Twelfth Grade</a></span>
-                                        
-                                            <span id="ctl00_cphSideBar_cbrSearchGrades_ctl23_lblGradeSearch"><a id="ctl00_cphSideBar_cbrSearchGrades_ctl23_lbnGradeSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$cbrSearchGrades$ctl23$lbnGradeSearch','')">Miscellaneous</a></span>
-                                        
+                                                    
+                                                        <div class="newdivision ie6PNG">
+                                                            <div class="NewSearchDivisions">Elementary</div>
+                                                            <div class="newlist">
+                                                    
+                                                <span id="ctl00_cphSideBar_cbrSearchGrades_ctl09_lblGradeSearch"><a id="ctl00_cphSideBar_cbrSearchGrades_ctl09_lbnGradeSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$cbrSearchGrades$ctl09$lbnGradeSearch','')"><i id="ctl00_cphSideBar_cbrSearchGrades_ctl09_iIcon" class="searchicon fa fa-circle-o"></i>First Grade</a></span>
+                                            
+                                                <span id="ctl00_cphSideBar_cbrSearchGrades_ctl10_lblGradeSearch"><a id="ctl00_cphSideBar_cbrSearchGrades_ctl10_lbnGradeSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$cbrSearchGrades$ctl10$lbnGradeSearch','')"><i id="ctl00_cphSideBar_cbrSearchGrades_ctl10_iIcon" class="searchicon fa fa-circle-o"></i>Second Grade</a></span>
+                                            
+                                                <span id="ctl00_cphSideBar_cbrSearchGrades_ctl11_lblGradeSearch"><a id="ctl00_cphSideBar_cbrSearchGrades_ctl11_lbnGradeSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$cbrSearchGrades$ctl11$lbnGradeSearch','')"><i id="ctl00_cphSideBar_cbrSearchGrades_ctl11_iIcon" class="searchicon fa fa-circle-o"></i>Third Grade</a></span>
+                                            
+                                                <span id="ctl00_cphSideBar_cbrSearchGrades_ctl12_lblGradeSearch"><a id="ctl00_cphSideBar_cbrSearchGrades_ctl12_lbnGradeSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$cbrSearchGrades$ctl12$lbnGradeSearch','')"><i id="ctl00_cphSideBar_cbrSearchGrades_ctl12_iIcon" class="searchicon fa fa-circle-o"></i>Fourth Grade</a></span>
+                                            
+                                                <span id="ctl00_cphSideBar_cbrSearchGrades_ctl13_lblGradeSearch"><a id="ctl00_cphSideBar_cbrSearchGrades_ctl13_lbnGradeSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$cbrSearchGrades$ctl13$lbnGradeSearch','')"><i id="ctl00_cphSideBar_cbrSearchGrades_ctl13_iIcon" class="searchicon fa fa-circle-o"></i>Fifth Grade</a></span>
+                                            
+                                                <span id="ctl00_cphSideBar_cbrSearchGrades_ctl14_lblGradeSearch"><a id="ctl00_cphSideBar_cbrSearchGrades_ctl14_lbnGradeSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$cbrSearchGrades$ctl14$lbnGradeSearch','')"><i id="ctl00_cphSideBar_cbrSearchGrades_ctl14_iIcon" class="searchicon fa fa-circle-o"></i>Sixth Grade</a></span>
+                                            
                                                         </div>
                                                     </div>
+                                                    
+                                                        <div class="newdivision ie6PNG">
+                                                            <div class="NewSearchDivisions">Secondary</div>
+                                                            <div class="newlist">
+                                                    
+                                                <span id="ctl00_cphSideBar_cbrSearchGrades_ctl17_lblGradeSearch"><a id="ctl00_cphSideBar_cbrSearchGrades_ctl17_lbnGradeSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$cbrSearchGrades$ctl17$lbnGradeSearch','')"><i id="ctl00_cphSideBar_cbrSearchGrades_ctl17_iIcon" class="searchicon fa fa-circle-o"></i>Seventh Grade</a></span>
+                                            
+                                                <span id="ctl00_cphSideBar_cbrSearchGrades_ctl18_lblGradeSearch"><a id="ctl00_cphSideBar_cbrSearchGrades_ctl18_lbnGradeSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$cbrSearchGrades$ctl18$lbnGradeSearch','')"><i id="ctl00_cphSideBar_cbrSearchGrades_ctl18_iIcon" class="searchicon fa fa-circle-o"></i>Eighth Grade</a></span>
+                                            
+                                                <span id="ctl00_cphSideBar_cbrSearchGrades_ctl19_lblGradeSearch"><a id="ctl00_cphSideBar_cbrSearchGrades_ctl19_lbnGradeSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$cbrSearchGrades$ctl19$lbnGradeSearch','')"><i id="ctl00_cphSideBar_cbrSearchGrades_ctl19_iIcon" class="searchicon fa fa-circle-o"></i>Ninth Grade</a></span>
+                                            
+                                                <span id="ctl00_cphSideBar_cbrSearchGrades_ctl20_lblGradeSearch"><a id="ctl00_cphSideBar_cbrSearchGrades_ctl20_lbnGradeSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$cbrSearchGrades$ctl20$lbnGradeSearch','')"><i id="ctl00_cphSideBar_cbrSearchGrades_ctl20_iIcon" class="searchicon fa fa-circle-o"></i>Tenth Grade</a></span>
+                                            
+                                                <span id="ctl00_cphSideBar_cbrSearchGrades_ctl21_lblGradeSearch"><a id="ctl00_cphSideBar_cbrSearchGrades_ctl21_lbnGradeSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$cbrSearchGrades$ctl21$lbnGradeSearch','')"><i id="ctl00_cphSideBar_cbrSearchGrades_ctl21_iIcon" class="searchicon fa fa-circle-o"></i>Eleventh Grade</a></span>
+                                            
+                                                <span id="ctl00_cphSideBar_cbrSearchGrades_ctl22_lblGradeSearch"><a id="ctl00_cphSideBar_cbrSearchGrades_ctl22_lbnGradeSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$cbrSearchGrades$ctl22$lbnGradeSearch','')"><i id="ctl00_cphSideBar_cbrSearchGrades_ctl22_iIcon" class="searchicon fa fa-circle-o"></i>Twelfth Grade</a></span>
+                                            
+                                                <span id="ctl00_cphSideBar_cbrSearchGrades_ctl23_lblGradeSearch"><a id="ctl00_cphSideBar_cbrSearchGrades_ctl23_lbnGradeSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$cbrSearchGrades$ctl23$lbnGradeSearch','')"><i id="ctl00_cphSideBar_cbrSearchGrades_ctl23_iIcon" class="searchicon fa fa-circle-o"></i>Miscellaneous</a></span>
+                                            
+                                                        </div>
+                                                    </div>
+                                                    
+                                        <div class="newdivision ie6PNG">
+                                            
+                                                    <div class="NewSearchDivisions">Subjects</div>
+                                                    <div class="newlist">
                                                 
-                                    <div class="Division ie6PNG">
+                                                    <span id="ctl00_cphSideBar_rptSearchSubjects_ctl01_lblSubjectSearch"><a id="ctl00_cphSideBar_rptSearchSubjects_ctl01_lbnSubjectSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$rptSearchSubjects$ctl01$lbnSubjectSearch','')"><i id="ctl00_cphSideBar_rptSearchSubjects_ctl01_iIcon" class="searchicon fa fa-circle-o"></i>Art</a></span>
+                                                    <input type="hidden" name="ctl00$cphSideBar$rptSearchSubjects$ctl01$ctl00" value="ART">
+                                                
+                                                    <span id="ctl00_cphSideBar_rptSearchSubjects_ctl02_lblSubjectSearch"><a id="ctl00_cphSideBar_rptSearchSubjects_ctl02_lbnSubjectSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$rptSearchSubjects$ctl02$lbnSubjectSearch','')"><i id="ctl00_cphSideBar_rptSearchSubjects_ctl02_iIcon" class="searchicon fa fa-circle-o"></i>Bible</a></span>
+                                                    <input type="hidden" name="ctl00$cphSideBar$rptSearchSubjects$ctl02$ctl00" value="BIBL">
+                                                
+                                                    <span id="ctl00_cphSideBar_rptSearchSubjects_ctl03_lblSubjectSearch"><a id="ctl00_cphSideBar_rptSearchSubjects_ctl03_lbnSubjectSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$rptSearchSubjects$ctl03$lbnSubjectSearch','')"><i id="ctl00_cphSideBar_rptSearchSubjects_ctl03_iIcon" class="searchicon fa fa-circle-o"></i>Curriculum</a></span>
+                                                    <input type="hidden" name="ctl00$cphSideBar$rptSearchSubjects$ctl03$ctl00" value="CURR">
+                                                
+                                                    <span id="ctl00_cphSideBar_rptSearchSubjects_ctl04_lblSubjectSearch"><a id="ctl00_cphSideBar_rptSearchSubjects_ctl04_lbnSubjectSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$rptSearchSubjects$ctl04$lbnSubjectSearch','')"><i id="ctl00_cphSideBar_rptSearchSubjects_ctl04_iIcon" class="searchicon fa fa-circle-o"></i>Developmental Skills</a></span>
+                                                    <input type="hidden" name="ctl00$cphSideBar$rptSearchSubjects$ctl04$ctl00" value="DEV">
+                                                
+                                                    <span id="ctl00_cphSideBar_rptSearchSubjects_ctl05_lblSubjectSearch"><a id="ctl00_cphSideBar_rptSearchSubjects_ctl05_lbnSubjectSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$rptSearchSubjects$ctl05$lbnSubjectSearch','')"><i id="ctl00_cphSideBar_rptSearchSubjects_ctl05_iIcon" class="searchicon fa fa-circle-o"></i>Digital</a></span>
+                                                    <input type="hidden" name="ctl00$cphSideBar$rptSearchSubjects$ctl05$ctl00" value="DIGITAL">
+                                                
+                                                    <span id="ctl00_cphSideBar_rptSearchSubjects_ctl06_lblSubjectSearch"><a id="ctl00_cphSideBar_rptSearchSubjects_ctl06_lbnSubjectSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$rptSearchSubjects$ctl06$lbnSubjectSearch','')"><i id="ctl00_cphSideBar_rptSearchSubjects_ctl06_iIcon" class="searchicon fa fa-circle-o"></i>DVDs</a></span>
+                                                    <input type="hidden" name="ctl00$cphSideBar$rptSearchSubjects$ctl06$ctl00" value="DVD">
+                                                
+                                                    <span id="ctl00_cphSideBar_rptSearchSubjects_ctl07_lblSubjectSearch"><a id="ctl00_cphSideBar_rptSearchSubjects_ctl07_lbnSubjectSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$rptSearchSubjects$ctl07$lbnSubjectSearch','')"><i id="ctl00_cphSideBar_rptSearchSubjects_ctl07_iIcon" class="searchicon fa fa-circle-o"></i>Electives</a></span>
+                                                    <input type="hidden" name="ctl00$cphSideBar$rptSearchSubjects$ctl07$ctl00" value="ELEC">
+                                                
+                                                    <span id="ctl00_cphSideBar_rptSearchSubjects_ctl08_lblSubjectSearch"><a id="ctl00_cphSideBar_rptSearchSubjects_ctl08_lbnSubjectSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$rptSearchSubjects$ctl08$lbnSubjectSearch','')"><i id="ctl00_cphSideBar_rptSearchSubjects_ctl08_iIcon" class="searchicon fa fa-circle-o"></i>Foreign Language</a></span>
+                                                    <input type="hidden" name="ctl00$cphSideBar$rptSearchSubjects$ctl08$ctl00" value="FLAN">
+                                                
+                                                    <span id="ctl00_cphSideBar_rptSearchSubjects_ctl10_lblSubjectSearch"><a id="ctl00_cphSideBar_rptSearchSubjects_ctl10_lbnSubjectSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$rptSearchSubjects$ctl10$lbnSubjectSearch','')"><i id="ctl00_cphSideBar_rptSearchSubjects_ctl10_iIcon" class="searchicon fa fa-circle-o"></i>Health</a></span>
+                                                    <input type="hidden" name="ctl00$cphSideBar$rptSearchSubjects$ctl10$ctl00" value="HEAL">
+                                                
+                                                    <span id="ctl00_cphSideBar_rptSearchSubjects_ctl11_lblSubjectSearch"><a id="ctl00_cphSideBar_rptSearchSubjects_ctl11_lbnSubjectSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$rptSearchSubjects$ctl11$lbnSubjectSearch','')"><i id="ctl00_cphSideBar_rptSearchSubjects_ctl11_iIcon" class="searchicon fa fa-circle-o"></i>History</a></span>
+                                                    <input type="hidden" name="ctl00$cphSideBar$rptSearchSubjects$ctl11$ctl00" value="HIST">
+                                                
+                                                    <span id="ctl00_cphSideBar_rptSearchSubjects_ctl12_lblSubjectSearch"><a id="ctl00_cphSideBar_rptSearchSubjects_ctl12_lbnSubjectSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$rptSearchSubjects$ctl12$lbnSubjectSearch','')"><i id="ctl00_cphSideBar_rptSearchSubjects_ctl12_iIcon" class="searchicon fa fa-circle-o"></i>Kits</a></span>
+                                                    <input type="hidden" name="ctl00$cphSideBar$rptSearchSubjects$ctl12$ctl00" value="KIT">
+                                                
+                                                    <span id="ctl00_cphSideBar_rptSearchSubjects_ctl13_lblSubjectSearch"><a id="ctl00_cphSideBar_rptSearchSubjects_ctl13_lbnSubjectSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$rptSearchSubjects$ctl13$lbnSubjectSearch','')"><i id="ctl00_cphSideBar_rptSearchSubjects_ctl13_iIcon" class="searchicon fa fa-circle-o"></i>Language/English</a></span>
+                                                    <input type="hidden" name="ctl00$cphSideBar$rptSearchSubjects$ctl13$ctl00" value="LANG">
+                                                
+                                                    <span id="ctl00_cphSideBar_rptSearchSubjects_ctl14_lblSubjectSearch"><a id="ctl00_cphSideBar_rptSearchSubjects_ctl14_lbnSubjectSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$rptSearchSubjects$ctl14$lbnSubjectSearch','')"><i id="ctl00_cphSideBar_rptSearchSubjects_ctl14_iIcon" class="searchicon fa fa-circle-o"></i>Literature</a></span>
+                                                    <input type="hidden" name="ctl00$cphSideBar$rptSearchSubjects$ctl14$ctl00" value="LIT">
+                                                
+                                                    <span id="ctl00_cphSideBar_rptSearchSubjects_ctl15_lblSubjectSearch"><a id="ctl00_cphSideBar_rptSearchSubjects_ctl15_lbnSubjectSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$rptSearchSubjects$ctl15$lbnSubjectSearch','')"><i id="ctl00_cphSideBar_rptSearchSubjects_ctl15_iIcon" class="searchicon fa fa-circle-o"></i>Mathematics</a></span>
+                                                    <input type="hidden" name="ctl00$cphSideBar$rptSearchSubjects$ctl15$ctl00" value="MATH">
+                                                
+                                                    <span id="ctl00_cphSideBar_rptSearchSubjects_ctl16_lblSubjectSearch"><a id="ctl00_cphSideBar_rptSearchSubjects_ctl16_lbnSubjectSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$rptSearchSubjects$ctl16$lbnSubjectSearch','')"><i id="ctl00_cphSideBar_rptSearchSubjects_ctl16_iIcon" class="searchicon fa fa-circle-o"></i>Miscellaneous/Supplies</a></span>
+                                                    <input type="hidden" name="ctl00$cphSideBar$rptSearchSubjects$ctl16$ctl00" value="MISC">
+                                                
+                                                    <span id="ctl00_cphSideBar_rptSearchSubjects_ctl17_lblSubjectSearch"><a id="ctl00_cphSideBar_rptSearchSubjects_ctl17_lbnSubjectSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$rptSearchSubjects$ctl17$lbnSubjectSearch','')"><i id="ctl00_cphSideBar_rptSearchSubjects_ctl17_iIcon" class="searchicon fa fa-circle-o"></i>Music</a></span>
+                                                    <input type="hidden" name="ctl00$cphSideBar$rptSearchSubjects$ctl17$ctl00" value="MUSI">
+                                                
+                                                    <span id="ctl00_cphSideBar_rptSearchSubjects_ctl18_lblSubjectSearch"><a id="ctl00_cphSideBar_rptSearchSubjects_ctl18_lbnSubjectSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$rptSearchSubjects$ctl18$lbnSubjectSearch','')"><i id="ctl00_cphSideBar_rptSearchSubjects_ctl18_iIcon" class="searchicon fa fa-circle-o"></i>Phonics</a></span>
+                                                    <input type="hidden" name="ctl00$cphSideBar$rptSearchSubjects$ctl18$ctl00" value="PHON">
+                                                
+                                                    <span id="ctl00_cphSideBar_rptSearchSubjects_ctl20_lblSubjectSearch"><a id="ctl00_cphSideBar_rptSearchSubjects_ctl20_lbnSubjectSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$rptSearchSubjects$ctl20$lbnSubjectSearch','')"><i id="ctl00_cphSideBar_rptSearchSubjects_ctl20_iIcon" class="searchicon fa fa-circle-o"></i>Progress Report Downloads</a></span>
+                                                    <input type="hidden" name="ctl00$cphSideBar$rptSearchSubjects$ctl20$ctl00" value="PROGRESS REPORT">
+                                                
+                                                    <span id="ctl00_cphSideBar_rptSearchSubjects_ctl21_lblSubjectSearch"><a id="ctl00_cphSideBar_rptSearchSubjects_ctl21_lbnSubjectSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$rptSearchSubjects$ctl21$lbnSubjectSearch','')"><i id="ctl00_cphSideBar_rptSearchSubjects_ctl21_iIcon" class="searchicon fa fa-circle-o"></i>Reading/Book Report Books</a></span>
+                                                    <input type="hidden" name="ctl00$cphSideBar$rptSearchSubjects$ctl21$ctl00" value="READ">
+                                                
+                                                    <span id="ctl00_cphSideBar_rptSearchSubjects_ctl22_lblSubjectSearch"><a id="ctl00_cphSideBar_rptSearchSubjects_ctl22_lbnSubjectSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$rptSearchSubjects$ctl22$lbnSubjectSearch','')"><i id="ctl00_cphSideBar_rptSearchSubjects_ctl22_iIcon" class="searchicon fa fa-circle-o"></i>Science</a></span>
+                                                    <input type="hidden" name="ctl00$cphSideBar$rptSearchSubjects$ctl22$ctl00" value="SCIE">
+                                                
+                                                    <span id="ctl00_cphSideBar_rptSearchSubjects_ctl23_lblSubjectSearch"><a id="ctl00_cphSideBar_rptSearchSubjects_ctl23_lbnSubjectSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$rptSearchSubjects$ctl23$lbnSubjectSearch','')"><i id="ctl00_cphSideBar_rptSearchSubjects_ctl23_iIcon" class="searchicon fa fa-circle-o"></i>Spelling/Poetry</a></span>
+                                                    <input type="hidden" name="ctl00$cphSideBar$rptSearchSubjects$ctl23$ctl00" value="SPEL">
+                                                
+                                                    <span id="ctl00_cphSideBar_rptSearchSubjects_ctl24_lblSubjectSearch"><a id="ctl00_cphSideBar_rptSearchSubjects_ctl24_lbnSubjectSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$rptSearchSubjects$ctl24$lbnSubjectSearch','')"><i id="ctl00_cphSideBar_rptSearchSubjects_ctl24_iIcon" class="searchicon fa fa-circle-o"></i>Teaching Aids</a></span>
+                                                    <input type="hidden" name="ctl00$cphSideBar$rptSearchSubjects$ctl24$ctl00" value="TCHAID">
+                                                
+                                                    <span id="ctl00_cphSideBar_rptSearchSubjects_ctl25_lblSubjectSearch"><a id="ctl00_cphSideBar_rptSearchSubjects_ctl25_lbnSubjectSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$rptSearchSubjects$ctl25$lbnSubjectSearch','')"><i id="ctl00_cphSideBar_rptSearchSubjects_ctl25_iIcon" class="searchicon fa fa-circle-o"></i>Video Manuals</a></span>
+                                                    <input type="hidden" name="ctl00$cphSideBar$rptSearchSubjects$ctl25$ctl00" value="VMAN">
+                                                
+                                                    <span id="ctl00_cphSideBar_rptSearchSubjects_ctl26_lblSubjectSearch"><a id="ctl00_cphSideBar_rptSearchSubjects_ctl26_lbnSubjectSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$rptSearchSubjects$ctl26$lbnSubjectSearch','')"><i id="ctl00_cphSideBar_rptSearchSubjects_ctl26_iIcon" class="searchicon fa fa-circle-o"></i>Writing/Penmanship</a></span>
+                                                    <input type="hidden" name="ctl00$cphSideBar$rptSearchSubjects$ctl26$ctl00" value="WRIT">
+                                                
+                                                    </div>
+                                                
+                                        </div>
+                    
+                </div>
                                         
-                                                <div class="SearchDivisions">Subjects</div>
-                                                <div class="list">
-                                            
-                                                <span id="ctl00_cphSideBar_rptSearchSubjects_ctl01_lblSubjectSearch"><a id="ctl00_cphSideBar_rptSearchSubjects_ctl01_lbnSubjectSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$rptSearchSubjects$ctl01$lbnSubjectSearch','')">Art</a></span>
-                                                <input type="hidden" name="ctl00$cphSideBar$rptSearchSubjects$ctl01$ctl00" value="ART">
-                                            
-                                                <span id="ctl00_cphSideBar_rptSearchSubjects_ctl02_lblSubjectSearch"><a id="ctl00_cphSideBar_rptSearchSubjects_ctl02_lbnSubjectSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$rptSearchSubjects$ctl02$lbnSubjectSearch','')">Bible</a></span>
-                                                <input type="hidden" name="ctl00$cphSideBar$rptSearchSubjects$ctl02$ctl00" value="BIBL">
-                                            
-                                                <span id="ctl00_cphSideBar_rptSearchSubjects_ctl03_lblSubjectSearch"><a id="ctl00_cphSideBar_rptSearchSubjects_ctl03_lbnSubjectSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$rptSearchSubjects$ctl03$lbnSubjectSearch','')">Curriculum</a></span>
-                                                <input type="hidden" name="ctl00$cphSideBar$rptSearchSubjects$ctl03$ctl00" value="CURR">
-                                            
-                                                <span id="ctl00_cphSideBar_rptSearchSubjects_ctl04_lblSubjectSearch"><a id="ctl00_cphSideBar_rptSearchSubjects_ctl04_lbnSubjectSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$rptSearchSubjects$ctl04$lbnSubjectSearch','')">Developmental Skills</a></span>
-                                                <input type="hidden" name="ctl00$cphSideBar$rptSearchSubjects$ctl04$ctl00" value="DEV">
-                                            
-                                                <span id="ctl00_cphSideBar_rptSearchSubjects_ctl05_lblSubjectSearch"><a id="ctl00_cphSideBar_rptSearchSubjects_ctl05_lbnSubjectSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$rptSearchSubjects$ctl05$lbnSubjectSearch','')">DVDs</a></span>
-                                                <input type="hidden" name="ctl00$cphSideBar$rptSearchSubjects$ctl05$ctl00" value="DVD">
-                                            
-                                                <span id="ctl00_cphSideBar_rptSearchSubjects_ctl06_lblSubjectSearch"><a id="ctl00_cphSideBar_rptSearchSubjects_ctl06_lbnSubjectSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$rptSearchSubjects$ctl06$lbnSubjectSearch','')">Electives</a></span>
-                                                <input type="hidden" name="ctl00$cphSideBar$rptSearchSubjects$ctl06$ctl00" value="ELEC">
-                                            
-                                                <span id="ctl00_cphSideBar_rptSearchSubjects_ctl07_lblSubjectSearch"><a id="ctl00_cphSideBar_rptSearchSubjects_ctl07_lbnSubjectSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$rptSearchSubjects$ctl07$lbnSubjectSearch','')">Foreign Language</a></span>
-                                                <input type="hidden" name="ctl00$cphSideBar$rptSearchSubjects$ctl07$ctl00" value="FLAN">
-                                            
-                                                <span id="ctl00_cphSideBar_rptSearchSubjects_ctl09_lblSubjectSearch"><a id="ctl00_cphSideBar_rptSearchSubjects_ctl09_lbnSubjectSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$rptSearchSubjects$ctl09$lbnSubjectSearch','')">Health</a></span>
-                                                <input type="hidden" name="ctl00$cphSideBar$rptSearchSubjects$ctl09$ctl00" value="HEAL">
-                                            
-                                                <span id="ctl00_cphSideBar_rptSearchSubjects_ctl10_lblSubjectSearch"><a id="ctl00_cphSideBar_rptSearchSubjects_ctl10_lbnSubjectSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$rptSearchSubjects$ctl10$lbnSubjectSearch','')">History</a></span>
-                                                <input type="hidden" name="ctl00$cphSideBar$rptSearchSubjects$ctl10$ctl00" value="HIST">
-                                            
-                                                <span id="ctl00_cphSideBar_rptSearchSubjects_ctl11_lblSubjectSearch"><a id="ctl00_cphSideBar_rptSearchSubjects_ctl11_lbnSubjectSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$rptSearchSubjects$ctl11$lbnSubjectSearch','')">Kits</a></span>
-                                                <input type="hidden" name="ctl00$cphSideBar$rptSearchSubjects$ctl11$ctl00" value="KIT">
-                                            
-                                                <span id="ctl00_cphSideBar_rptSearchSubjects_ctl12_lblSubjectSearch"><a id="ctl00_cphSideBar_rptSearchSubjects_ctl12_lbnSubjectSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$rptSearchSubjects$ctl12$lbnSubjectSearch','')">Language/English</a></span>
-                                                <input type="hidden" name="ctl00$cphSideBar$rptSearchSubjects$ctl12$ctl00" value="LANG">
-                                            
-                                                <span id="ctl00_cphSideBar_rptSearchSubjects_ctl13_lblSubjectSearch"><a id="ctl00_cphSideBar_rptSearchSubjects_ctl13_lbnSubjectSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$rptSearchSubjects$ctl13$lbnSubjectSearch','')">Literature</a></span>
-                                                <input type="hidden" name="ctl00$cphSideBar$rptSearchSubjects$ctl13$ctl00" value="LIT">
-                                            
-                                                <span id="ctl00_cphSideBar_rptSearchSubjects_ctl14_lblSubjectSearch"><a id="ctl00_cphSideBar_rptSearchSubjects_ctl14_lbnSubjectSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$rptSearchSubjects$ctl14$lbnSubjectSearch','')">Mathematics</a></span>
-                                                <input type="hidden" name="ctl00$cphSideBar$rptSearchSubjects$ctl14$ctl00" value="MATH">
-                                            
-                                                <span id="ctl00_cphSideBar_rptSearchSubjects_ctl15_lblSubjectSearch"><a id="ctl00_cphSideBar_rptSearchSubjects_ctl15_lbnSubjectSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$rptSearchSubjects$ctl15$lbnSubjectSearch','')">Miscellaneous/Supplies</a></span>
-                                                <input type="hidden" name="ctl00$cphSideBar$rptSearchSubjects$ctl15$ctl00" value="MISC">
-                                            
-                                                <span id="ctl00_cphSideBar_rptSearchSubjects_ctl16_lblSubjectSearch"><a id="ctl00_cphSideBar_rptSearchSubjects_ctl16_lbnSubjectSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$rptSearchSubjects$ctl16$lbnSubjectSearch','')">Music</a></span>
-                                                <input type="hidden" name="ctl00$cphSideBar$rptSearchSubjects$ctl16$ctl00" value="MUSI">
-                                            
-                                                <span id="ctl00_cphSideBar_rptSearchSubjects_ctl17_lblSubjectSearch"><a id="ctl00_cphSideBar_rptSearchSubjects_ctl17_lbnSubjectSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$rptSearchSubjects$ctl17$lbnSubjectSearch','')">Phonics</a></span>
-                                                <input type="hidden" name="ctl00$cphSideBar$rptSearchSubjects$ctl17$ctl00" value="PHON">
-                                            
-                                                <span id="ctl00_cphSideBar_rptSearchSubjects_ctl19_lblSubjectSearch"><a id="ctl00_cphSideBar_rptSearchSubjects_ctl19_lbnSubjectSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$rptSearchSubjects$ctl19$lbnSubjectSearch','')">Progress Report Downloads</a></span>
-                                                <input type="hidden" name="ctl00$cphSideBar$rptSearchSubjects$ctl19$ctl00" value="PROGRESS REPORT">
-                                            
-                                                <span id="ctl00_cphSideBar_rptSearchSubjects_ctl20_lblSubjectSearch"><a id="ctl00_cphSideBar_rptSearchSubjects_ctl20_lbnSubjectSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$rptSearchSubjects$ctl20$lbnSubjectSearch','')">Reading/Book Report Books</a></span>
-                                                <input type="hidden" name="ctl00$cphSideBar$rptSearchSubjects$ctl20$ctl00" value="READ">
-                                            
-                                                <span id="ctl00_cphSideBar_rptSearchSubjects_ctl21_lblSubjectSearch"><a id="ctl00_cphSideBar_rptSearchSubjects_ctl21_lbnSubjectSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$rptSearchSubjects$ctl21$lbnSubjectSearch','')">Science</a></span>
-                                                <input type="hidden" name="ctl00$cphSideBar$rptSearchSubjects$ctl21$ctl00" value="SCIE">
-                                            
-                                                <span id="ctl00_cphSideBar_rptSearchSubjects_ctl22_lblSubjectSearch"><a id="ctl00_cphSideBar_rptSearchSubjects_ctl22_lbnSubjectSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$rptSearchSubjects$ctl22$lbnSubjectSearch','')">Spelling/Poetry</a></span>
-                                                <input type="hidden" name="ctl00$cphSideBar$rptSearchSubjects$ctl22$ctl00" value="SPEL">
-                                            
-                                                <span id="ctl00_cphSideBar_rptSearchSubjects_ctl23_lblSubjectSearch"><a id="ctl00_cphSideBar_rptSearchSubjects_ctl23_lbnSubjectSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$rptSearchSubjects$ctl23$lbnSubjectSearch','')">Teaching Aids</a></span>
-                                                <input type="hidden" name="ctl00$cphSideBar$rptSearchSubjects$ctl23$ctl00" value="TCHAID">
-                                            
-                                                <span id="ctl00_cphSideBar_rptSearchSubjects_ctl24_lblSubjectSearch"><a id="ctl00_cphSideBar_rptSearchSubjects_ctl24_lbnSubjectSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$rptSearchSubjects$ctl24$lbnSubjectSearch','')">Video Manuals</a></span>
-                                                <input type="hidden" name="ctl00$cphSideBar$rptSearchSubjects$ctl24$ctl00" value="VMAN">
-                                            
-                                                <span id="ctl00_cphSideBar_rptSearchSubjects_ctl25_lblSubjectSearch"><a id="ctl00_cphSideBar_rptSearchSubjects_ctl25_lbnSubjectSearch" class="SearchParameter" href="javascript:__doPostBack('ctl00$cphSideBar$rptSearchSubjects$ctl25$lbnSubjectSearch','')">Writing/Penmanship</a></span>
-                                                <input type="hidden" name="ctl00$cphSideBar$rptSearchSubjects$ctl25$ctl00" value="WRIT">
-                                            
-                                                </div>
-                                            
                                     </div>
-                                    <div id="SearchFooter" class="ie6PNG"> </div>
-                                </div>
+                                
                             
-                        
-                        <div id="RightContent" class="Interior">
-                            
+                            <div id="RightContent" class="Interior">
+                                
+                                
 <h1>Privacy Policy</h1>
 <p>ABeka.com is operated by <em>A Beka Book, Inc.</em> (“<em>A Beka Book</em>”),
 an affiliate of <a href="http://www.pcci.edu/">Pensacola Christian College</a> (“PCC”).</p>
@@ -668,84 +739,83 @@ below. We may share personal information with:
   your personal information, changes will be posted in this Privacy Policy. Please
 revisit this site periodically to view the current version of our Privacy Policy.</p></div></div>
 
-                        </div>
-                        <div style="clear: both;"></div>
-                    
+                            </div>
+                            <div style="clear: both;"></div>
+                        
 
 <script type="text/javascript">
 //<![CDATA[
-
-CreateWatermarkedTextBox($('txtProductSearch'), 'Enter SBN or Title', 'watermarked');
-//]]>
+CreateWatermarkedTextBox(jQuery('#txtProductSearch'), 'Enter SBN or Title', 'watermarked');//]]>
 </script>
 </form>
+                    </div>
                 </div>
-            </div>
-            <div id="footerResources" class="ie6PNG">
-                <div id="footerBlockA" class="footerBlock">
-                    <h4 class="bold">HELP</h4>
-                    <ul class="linksUnit">
-                        <li><a href="/ContactInfo.aspx">Contact Us</a></li>
-                        <li><a href="/FAQ/">FAQs</a></li>
-                        <li><a href="/OurFoundation.aspx">About Us</a></li>
-                    </ul>
-                </div>
-                <div class="footerDivider"></div>
-                <div id="footerBlockB" class="footerBlock">
-                    <h4 class="bold">CONTACT US</h4>
-                    <ul class="linksUnit">
-                        <li><strong>Call Toll Free</strong>
-                        <br>
-                        <span style="padding-left:5px;">1-877-A Beka Book</span>
-                        <br>
-                        <span style="padding-left:5px;">(1-877-223-5226)</span>
-                        <br>
-                        <strong>International</strong>
-                        <br>
-                        <span style="padding-left:5px;">850-478-8933</span>
-                        <br>
-                        <strong>Fax</strong> U.S. and Canada
-                        <br>
-                        <span style="padding-left:5px;">1-800-874-3590</span>
-                        <br>
-                        <a href="mailto:Information*abeka|com">Information*abeka|com</a>
-                        </li></ul>
-                </div>
-                <div class="footerDivider"></div>
-                <div id="footerBlockD" class="footerBlock">
-                    <h4 class="bold">RELATED MINISTRIES</h4>
-                    <ul class="linksUnit">
-                        <li><a href="http://www.joyfullifesundayschool.com/"><em>Joyful Life</em></a></li>
-                        <li style="margin-bottom: 4px;"><a href="http://www.rejoicemusic.com/"><em>Rejoice Music</em></a></li>
-                    </ul>
-                    <h4 class="bold">AFFILIATED MINISTRIES</h4>
-                    <ul class="linksUnit">
-                        <li><a href="http://www.abekaacademy.org/"><em>A Beka Academy</em></a></li>
-                        <li><a href="http://www.abekaesl.org/"><em>A Beka</em> English Second Language</a></li>
-                        <li><a href="http://www.abekatesting.org/"><em>A Beka</em> Testing</a></li>
-                        <li><a href="http://www.pcci.edu/">Pensacola Christian College</a></li>
-                        <li><a href="http://pts.pcci.edu/">Pensacola Theological Seminary</a></li>
-                        <li><a href="http://www.rejoice.org/"><em>Rejoice Radio</em></a></li>
-                        <li><a href="http://www.rejoicetv.org/"><em>Rejoice in the Lord</em></a></li>
-                    </ul>
-                </div>
-                <div class="footerDivider"></div>
-                <div id="footerBlockC" class="footerBlock">
-                    <h4 class="bold">LEGAL</h4>
-                    <ul class="linksUnit">
-                        <li>Copyright © 2013</li>
-                        <li><a href="/PrivacyPolicy.aspx">Privacy Policy</a></li>
-                        <li><a href="/TermsOfUse.aspx">Terms of Use</a></li>
-                        <li><a href="/ABekaOnline/Safety.aspx">Product Safety</a></li>
-                    </ul>
-                </div>
+                <div id="footerResources" class="ie6PNG">
+                    <div id="footerBlockA" class="footerBlock">
+                        <h4 class="bold">HELP</h4>
+                        <ul class="linksUnit">
+                            <li><a href="/ContactInfo.aspx">Contact Us</a></li>
+                            <li><a href="/FAQ/">FAQs</a></li>
+                            <li><a href="/OurFoundation.aspx">About Us</a></li>
+                        </ul>
+                    </div>
+                    <div class="footerDivider"></div>
+                    <div id="footerBlockB" class="footerBlock">
+                        <h4 class="bold">CONTACT US</h4>
+                        <ul class="linksUnit">
+                            <li><strong>Call Toll Free</strong>
+                                <br>
+                                <span style="padding-left: 5px;">1-877-A Beka Book</span>
+                                <br>
+                                <span style="padding-left: 5px;">(1-877-223-5226)</span>
+                                <br>
+                                <strong>International</strong>
+                                <br>
+                                <span style="padding-left: 5px;">850-478-8933</span>
+                                <br>
+                                <strong>Fax</strong> U.S. and Canada
 
+                                <br>
+                                <span style="padding-left: 5px;">1-800-874-3590</span>
+                                <br>
+                                <a href="mailto:Information*abeka|com">Information*abeka|com</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="footerDivider"></div>
+                    <div id="footerBlockD" class="footerBlock">
+                        <h4 class="bold">RELATED MINISTRIES</h4>
+                        <ul class="linksUnit">
+                            <li><a href="http://www.joyfullifesundayschool.com/"><em>Joyful Life</em></a></li>
+                            <li style="margin-bottom: 4px;"><a href="http://www.rejoicemusic.com/"><em>Rejoice Music</em></a></li>
+                        </ul>
+                        <h4 class="bold">AFFILIATED MINISTRIES</h4>
+                        <ul class="linksUnit">
+                            <li><a href="http://www.abekaacademy.org/"><em>A Beka Academy</em></a></li>
+                            <li><a href="http://www.abekaesl.org/"><em>A Beka</em> English Second Language</a></li>
+                            <li><a href="http://www.abekatesting.org/"><em>A Beka</em> Testing</a></li>
+                            <li><a href="http://www.pcci.edu/">Pensacola Christian College</a></li>
+                            <li><a href="http://pts.pcci.edu/">Pensacola Theological Seminary</a></li>
+                            <li><a href="http://www.rejoice.org/"><em>Rejoice Radio</em></a></li>
+                            <li><a href="http://www.rejoicetv.org/"><em>Rejoice in the Lord</em></a></li>
+                        </ul>
+                    </div>
+                    <div class="footerDivider"></div>
+                    <div id="footerBlockC" class="footerBlock">
+                        <h4 class="bold">LEGAL</h4>
+                        <ul class="linksUnit">
+                            <li>Copyright © 2014</li>
+                            <li><a href="/PrivacyPolicy.aspx">Privacy Policy</a></li>
+                            <li><a href="/TermsOfUse.aspx">Terms of Use</a></li>
+                            <li><a href="/ABekaOnline/Safety.aspx">Product Safety</a></li>
+                        </ul>
+                    </div>
+                </div>
+                
             </div>
-            
         </div>
     </div>
-</div>
-<div id="ctl00_abbOffersTab_pnlOffersTab" style="display:none;">
+    <div id="ctl00_abbOffersTab_pnlOffersTab" style="display:none;">
 	
     <div id="offerWrap" class="ieneedshelp">
         <div id="OfferInclude">
@@ -763,17 +833,19 @@ CreateWatermarkedTextBox($('txtProductSearch'), 'Enter SBN or Title', 'watermark
             
             
             
-            <div id="ctl00_abbOffersTab_pnlFreeShipping" class="OfferTab">
+            
+            <div id="ctl00_abbOffersTab_pnlFlexPay" class="OfferTab">
 		
-                <h1>Free Shipping</h1>
+                <a href="/Examples/FlexPay.html" target="_blank">
+                    <img src="/Images/PromoImages/ABekaFlexPayLogo.png" width="193" height="48" alt="A Beka Flex Pay"></a>
                 <p>
-                    Visit a materials display meeting, where you can preview <i>A Beka</i> products and receive free
-                    shipping on orders placed at the meeting.
-                    <!--This discount can be combined with
-                    <a href="/Examples/FlexPay.html" target="_blank">Flex Pay</a> and the 10% Off Discount. -->
-                    Regular shipping charges are 12% with $6 minimum.  Come to a nearby
+                    Introducing Flex Pay, a convenient way to pay for <i>A Beka Book</i> orders.  Submit your Flex Pay
+                    order at a <a href="/MaterialsDisplay/">materials display</a> with a minimum down payment, and pay
+                    the remaining balance in two equal, monthly payments.  When full payment is received, the order is
+                    shipped to you.  There is no finance charge. This offer can be combined with Free Shipping ($150 order minimum).
 
-                    <a href="/MaterialsDisplay/">meeting</a> to take advantage of these savings.
+                    <br>
+                    <a href="/Examples/FlexPay.html" target="_blank">More about Flex Pay &gt;&gt;</a>
                 </p>
             
 	</div>
@@ -785,7 +857,27 @@ CreateWatermarkedTextBox($('txtProductSearch'), 'Enter SBN or Title', 'watermark
             
             
             
+            <div id="ctl00_abbOffersTab_pnlMaterialsDisplayDiscount" class="OfferTab">
+		
+                <h1>Materials Display</h1>
+                <ul style="padding-left: 14px">
+                    <li><strong>20%</strong> off All Textbook Orders<br>(no minimum and for a limited time)</li>
+                    <li><strong>25%</strong> off Textbook Orders of $350 or More</li>
+                    <li>Always Free Shipping</li>
+                </ul>
+                <p><a href="/MaterialsDisplay/">Find a Material Display near You</a></p>
             
+	</div>
+            <div id="ctl00_abbOffersTab_pnlOnlineEventsDiscount" class="OfferTab">
+		
+                <h1>Online Events</h1>
+                <ul style="padding-left: 14px">
+                    <li>10% off All Textbook Orders – No Minimum</li>
+                    <li>Always Free Shipping</li>
+                </ul>
+                <p><a href="/MaterialsDisplay/">Sign Up for an Online Event Today</a></p>
+            
+	</div>
         </div>
         
     </div>
