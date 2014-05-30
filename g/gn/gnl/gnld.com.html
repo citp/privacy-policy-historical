@@ -1,374 +1,256 @@
-<!--The following is the downloaded HTML source of the gnld.com privacy policy that was archived on 2012-01-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120117042325id_/http%3A//www.gnld.com/privacypolicy.aspx%3FSTORE_ID%3D1%26NAV_CATEGORY_ID%3D3222%26CATEGORY_ID%3D3252) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gnld.com privacy policy that was archived on 2014-05-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140530153741id_/http%3A//us.gnld.com/en-us/page/Privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_head"><title>
-	GNLD: A Better Way of Life
-</title><meta name="viewport" content="width=device-width, initial-scale=1.0,user-scalable=1.5;"><meta http-equiv="Content-Type" content="application/vnd.wap.xhtml+xml; charset=utf-8"><meta name="HandheldFriendly" content="true"><meta name="apple-mobile-web-app-capable" content="yes">
-    
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
-	<!--
-			var intSessionTime = 20 * 60;
-					
-			function SessionTimer()
-			{
-			 intSessionTime--;
-			 if (intSessionTime == 0)
-			 {
-			    window.status = "Your session has expired."
-			    alert('Your session has expired.');
-			 }
-		     else {
-		        var h, m, s
-		        h= parseInt(intSessionTime / 60.0 / 60 % 24 )
-		        h= (h>9) ? h : '0' + h;
-		        m= parseInt(intSessionTime / 60.0 % 60)
-		        m = (m>9) ? m : '0' + m;
-		        s= (intSessionTime % 60) 
-		        s = (s>9) ? s : '0' + s;
-		        
-		        window.status = "Your session will expire in " + h + ":" + m + ":" + s + ".";
-			    setTimeout('SessionTimer();',1000);
-			 }
-			}
-			//-->
-    </script>
-    
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd"><html lang="en" xmlns="http://www.w3.org/1999/xhtml" prefix="og: http://ogp.me/ns#"><head>
+        <title>GNLD: A Better Way of Life</title>
+        <link rel="stylesheet" href="/style/ver-2134/960.css" type="text/css" media="screen, projection">
+        <link rel="stylesheet" href="/style/ver-2134/gnld_ver1.css" type="text/css" media="screen, projection">
+        <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+        <script src="/scripts/ver-2134/gnld.js" type="text/javascript"></script>
+		<!--[if IE]>
+		<style type="text/css">
+			.timer { display: none !important; }
+		</style>
+		<![endif]-->
+        
+    <link rel="stylesheet" type="text/css" href="//s3.amazonaws.com/static.gnld.com/common/css/page.css">
+
+        <script type="text/javascript">
+            
+            $(document).ready(function() {
+                var locale = 'en-us';
+                var styles = document.createElement('link');
+                styles.rel = 'stylesheet';
+                styles.type = 'text/css';
+                styles.media = 'screen';
+                if (locale == 'en-us' || locale == 'es-us') {
+//                    styles.href = '/style/ver-2134/gnld_ver1.css'; //'http://static.gnld.com/us/page/home/gnld_test1.css';
+//                    document.getElementsByTagName('head')[0].appendChild(styles);
+                    $('#companyLogo').attr('src', 'http://static.gnld.com/us/page/home/logo_grey.png');
+                    $('#imgsearch').attr('src', '/images/action_search_green.gif');
 
 
-<script type="text/javascript">
-	var _gaq = _gaq || [];
-	_gaq.push(['_setAccount', 'UA-18067211-1']);
-	_gaq.push(['_setDomainName', 'www.gnld.com']);
-	_gaq.push(['_trackPageview']);
+                }
+                else {
+//                    styles.href = '/style/ver-2134/gnld.css';
+//                    document.getElementsByTagName('head')[0].appendChild(styles);
+                    $('#companyLogo').attr('src', '/images/ver-2134/logo.gif');
+                    $('#imgsearch').attr('src', '/images/action_search.gif');
+                    $('#CoreProducts').hide();
+                    $('#AllSkinTypes').hide();
+                    $('#HomeCareProducts').hide();
 
-(function() {
-	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-})();
+                }
 
-</script>
-<meta name="description" content="GNLD: A global leader in nutrition, making a positive difference in the lives of people who seek optimal health and financial well-being."><meta name="keywords" content="vitamins, weight loss, opportunity, people empowering people, success, living better"><link rel="SHORTCUT ICON" href="/favicon.ico" type="image/x-icon"><link rel="icon" href="/favicon.ico" type="image/x-icon"><link href="http://www.gnld.biz/gnld/css/main.css" rel="stylesheet" type="text/css"><link href="/css/Menu.css" rel="stylesheet" type="text/css"><link href="/assets/1/css/body.css" rel="stylesheet" type="text/css"></head>
-<body id="ctl00_body">
-    <form name="aspnetForm" method="post" action="/default.aspx?STORE_ID=1&amp;NAV_CATEGORY_ID=3222&amp;CATEGORY_ID=3252" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUIMjc0NDM2ODhkZA==">
+            });
+            var gOverride = {
+                    gColor: '#EEE',
+                    gColumns: 15,
+                    gOpacity: 0.45,
+                    gWidth: 8,
+                    pHeight: 15,
+                    size: 960
+                },
+                _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-18067211-6']);
+            _gaq.push(['_trackPageview']);
+            (function() {
+              var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+              ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+              var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
 
+            $(function() {
+                $("#StoreSelector").change(function(e) {
+                    var redirect = "#",
+                      value = $(this).val(),
+                      swap = function(locale) {
+                          var query = window.location.search,
+                            path = window.location.pathname.split('/');
+                          if (path[1].indexOf('-') > 0) {
+                              path[1] = locale;
+                          } else {
+                              path[2] = locale;
+                          }
+                          return path.join('/') + (query !== null ? query : '');
+                      };
+                    switch (value) {
+                        case '1': /*US*/redirect = swap('en-us'); break;
+                        case '2': /*US Spanish*/redirect = swap('es-us'); break;
+                        case '19': /*Canada*/redirect = swap('en-ca'); break;
+                        case '30': /*South Africa*/redirect = swap('en-za'); break;
+                        case '31': /*Nigeria*/redirect = swap('en-ng'); break;
+                        case '8': /*Australia*/redirect = swap('en-au'); break;
+                        case '9': /*New Zealand*/redirect = swap('en-nz'); break;
 
-<script src="http://www.gnld.biz/gnld/client/common.js" type="text/javascript"></script>
-        <!-- BEGIN BODY TABLE -->
-        <table width="750" cellpadding="0" cellspacing="0" style="background: #FFFFFF; padding: 0px;
-            text-align: center; margin-left: auto; margin-right: auto; border-collapse: collapse;
-            border-right: #999999 1px solid; border-top: #999999 1px solid; border-left: #999999 1px solid;
-            border-bottom: #999999 1px solid;">
-            <tbody><tr>
-                <td style="text-align: left; border-bottom: #003300 1px solid;">
-                    <!-- BEGIN HEADER PLACEHOLDER-->
-                    
-                        
-<!--BEGIN HEADER TABLE-->
-<table width="749" cellpadding="0" cellspacing="0" border="0" style="background: #ffffff;
-	padding: 0px; margin: 0px; border-top-style: none; border-bottom-style: none;
-	border-right-style: none; border-left-style: none;">
-	<tbody><tr>
-		<td rowspan="3">
-			<div style="height: 69px; width: 156px;">
-				<a id="ctl00_MasterHeader_ctl00_hlLOGO" href="/"><img id="ctl00_MasterHeader_ctl00_Image1" src="/images/Header/logo_nav.jpg" alt="GNLD" border="0"></a>
+                        case '5': /*Italy*/redirect = redirect = swap('it-it'); break; //'http://www.gnld.it/?STORE_ID=5'
+                        case '10': /*Japan*/redirect = 'http://www.gnld.co.jp'; break;
+                        case '12': /*Finland*/redirect = swap('fi-fi'); break; //'http://www.gnld.fi/?STORE_ID=12'
+                        case '18': /*Philippines*/redirect = swap('en-ph'); break;
+                        case '32': /*Kenya*/redirect = swap('en-ke'); break;
+                        case '33': /*Tanzania*/redirect = swap('en-tz'); break;
+                        case '34': /*Uganda*/redirect = swap('en-ug'); break;
+                        case '35': /*Ghana*/redirect = swap('en-gh'); break;
+                        case '16': /*Slovenia*/redirect = swap('sl-si'); break;
+                        case '17': /*Hungary*/redirect = swap('hu-hu'); break;
+                        case '27': /*Lithuania*/redirect = swap('lt-lt'); break;
+                        case '36': /*Botswana*/redirect = swap('en-BW'); break;
+                        case '37': /*Swaziland */redirect = swap('en-sz'); break;
+                        case '38': /*Lesotho*/redirect = swap('en-ls'); break;
+                        case '39': /*Namibia */redirect = swap('en-NA'); break;
+                        case '3': /*Mercado Latino*/redirect = swap('es-cr'); break;
+                        case '13': /*Estonia*/redirect = swap('et-ee'); break;
+                        case '4': /*Sweden*/redirect = swap('sv-se'); break;
+                        // case '3': /*Mexico*/redirect = swap('es-mx'); break;                         
+                        case '7': /*Africa*/
+                        case '11': /*UK*/                            
+                        case '14': /*Bosnia*/
+                        case '15': /*Croatia*/
+                        case '20': /*Germany*/
+                        case '21': /*Romania*/
+                        case '22': /*Carrib*/
+                        case '23': /*Estonia Russian*/
+                        case '25': /*Serbia*/
+                        case '28': /*Poland*/
+                        case '29': /*Singapore*/
+                            redirect = 'http://www.gnld.com/?STORE_ID=' + value;
+                            break;
+                    }
+                    if (redirect.indexOf('http://') == 0) {
+                        window.location.href = redirect;
+                    } else {
+                        window.location.href = window.location.protocol + "//" + window.location.host + redirect;
+                    }
+                });
+            });
+        </script>
+    </head>
+    <body>
+		<div class="container container_15">
+			<div class="grid_15 alpha omega" id="TopBar">
+				<div class="grid_4 alpha" id="TopLogo">
+					<a href="/en-us/home/"><img id="companyLogo"></a>
+				</div>
+				<div class="grid_10">
+					<span>
+						<form id="formSearch" action="/en-us/search" method="get">
+		                    <fieldset>
+		                        <select id="StoreSelector"><option value="-1">Select Store</option><optgroup label="United States"><option selected="selected" value="1">United States English</option><option value="2">Estados Unidos Español</option></optgroup><optgroup label="Canada"><option value="19">Canada</option></optgroup><optgroup label="Caribbean"><option value="22">Caribbean</option></optgroup><optgroup label="Mercado"><option value="3">Latino Americano</option></optgroup><optgroup label="South-East Asia"><option value="18">Philippines</option><option value="29">Singapore</option></optgroup><optgroup label="Northern Europe"><option value="13">Estonia</option><option value="23">Estonia Russian</option><option value="12">Finland</option><option value="27">Lithuania</option><option value="28">Poland</option><option value="4">Sweden</option><option value="11">United Kingdom</option></optgroup><optgroup label="Southern Europe"><option value="20">Germany</option><option value="17">Hungary</option><option value="5">Italia</option><option value="21">Romania</option></optgroup><optgroup label="South-Eastern Europe"><option value="14">Bosnia-Herzegovina</option><option value="15">Croatia</option><option value="25">Serbia</option><option value="16">Slovenia</option></optgroup><optgroup label="South Pacific"><option value="8">Australia</option><option value="9">New Zealand</option></optgroup><optgroup label="North-East Asia"><option value="10">Japan (ジャパン)</option></optgroup><optgroup label="Africa"><option value="30">South Africa</option><option value="31">Nigeria</option><option value="32">Kenya</option><option value="33">Tanzania</option><option value="34">Uganda</option><option value="35">Ghana</option><option value="36">Botswana</option><option value="37">Swaziland</option><option value="38">Lesotho</option><option value="39">Namibia</option><option value="7">Africa</option></optgroup></select>
+		                        
+		                        <a href="http://www.gnld.com/distributor2/login/new_login/distr_login.aspx?countryCode=32">Distributor Login</a>
+			                    <input name="q" type="text">
+			                    
+		                        <img id="imgsearch" onclick="document.forms['formSearch'].submit();" alt="Search">
+                            </fieldset>
+		                </form>
+					</span>
+				</div>
+				<div class="grid_1 omega" id="TopAccent"><img src="/style/ver-2134/images/logo-accent-space.gif"></div>
 			</div>
-		</td>
-		<td rowspan="2" style="background: #ffffff; width: 593px; vertical-align:top; text-align: right;">
-			<table style="width: 100%;">
-				<tbody><tr>
-					<td style="text-align: left; white-space:nowrap;">
-						
-					</td>
-					<td style="text-align: right;">
-						
-                        <a href="http://memberusa.gnld.net/DistrLogin.aspx?STORE_ID=1"><img src="/Assets/1/common/btn_quickOrder.gif" alt="Shop Now" style="border:0px;"></a>&nbsp;
-                        
-						<span id="ctl00_MasterHeader_ctl00_lblSearch" class="NavOptions">SEARCH</span>
-						<input class="small" onkeypress="if(window.event) {if (window.event.keyCode == 13) Search();} else {if (event.which==13) Search();}" type="text" name="QUERY">
-						<span id="ctl00_MasterHeader_ctl00_lblSearchButton" class="NavOptions"><a href="javascript:Search()"><img src="/assets/1/common/go.gif" border="0" alt=""></a></span>&nbsp;
-						&nbsp;&nbsp;
-						
-						<br><br><a href="http://www.gnld.com/distributor2/login/new_login/distr_login.aspx?countryCode=32" target="_blank"><img src="/Assets/1/common/btn_distributoronly.gif" alt="<b>DISTRIBUTOR ONLY</B>" style="border:0px;"></a>&nbsp;
-						&nbsp;
-					</td>
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-	<tr>
-	</tr>
-	<tr>
-		<td style="background: #ffffff; height: 10px; text-align: center">
-			<table style="width: 593px; border-style: none; padding: 0px; margin: 0px;">
-				<tbody><tr align="center">
-					<td style="text-align: center">
-						<table id="ctl00_MasterHeader_ctl00_tblHeaderButtons" class="centertable" border="0">
-	<tbody><tr>
-		<td class="Nav" onmouseover="navBar(this,1,1)" onclick="navBarClick(this,1,'/vitality.aspx?NAV_CATEGORY_ID=3230&amp;CATEGORY_ID=3230')" onmouseout="navBar(this,0,1)"><a href="/">HOME</a></td><td class="Nav" style="text-align:center;vertical-align:middle;"><img src="/images/header/bullet_gold.gif" height="4" width="12" border="0" style="vertical-align:middle;"></td><td class="Nav" onmouseover="navBar(this,1,1)" onclick="navBarClick(this,1,'/partner.aspx?NAV_CATEGORY_ID=3222&amp;CATEGORY_ID=3222')" onmouseout="navBar(this,0,1)"><a href="/partner.aspx?NAV_CATEGORY_ID=3222&amp;CATEGORY_ID=3222">ABOUT GNLD</a></td><td class="Nav" style="text-align:center;vertical-align:middle;"><img src="/images/header/bullet_gold.gif" height="4" width="12" border="0" style="vertical-align:middle;"></td><td class="Nav" onmouseover="navBar(this,1,1)" onclick="navBarClick(this,1,'/vitality.aspx?NAV_CATEGORY_ID=3230&amp;CATEGORY_ID=3230')" onmouseout="navBar(this,0,1)"><a href="/vitality.aspx?NAV_CATEGORY_ID=3230&amp;CATEGORY_ID=3230">PRODUCTS</a></td><td class="Nav" style="text-align:center;vertical-align:middle;"><img src="/images/header/bullet_gold.gif" height="4" width="12" border="0" style="vertical-align:middle;"></td><td class="Nav" onmouseover="navBar(this,1,1)" onclick="navBarClick(this,1,'/lifestyle_home.aspx')" onmouseout="navBar(this,0,1)"><a href="/lifestyle_home.aspx">OPPORTUNITY</a></td>
-	</tr>
-</tbody></table></td>
-					<td style="width: 156px;">
-					</td>
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-</tbody></table>
-<!--END HEADER TABLE-->
-<span id="ctl00_MasterHeader_ctl00_lblNavSubText" class="navoptions"></span>
-
-                    
-                    <!-- END HEADER PLACEHOLDER-->
-                </td>
-            </tr>
-            <tr>
-                <td style="text-align: left">
-                    <!-- BEGIN BODY PLACEHOLDER-->
-                    
-	
-	
-	<div id="ctl00_MasterBody_pnlNav">
-	
-		<!-- BEGIN BODY TABLE CONTENT -->
-		<table cellpadding="0" cellspacing="0" style="padding: 0px; margin: 0px; border-top-style: none;
-			border-right-style: none; border-left-style: none; border-collapse: collapse;
-			border-bottom-style: none;">
-			<!-- BEGIN BODY TR (ONE ROW) -->
-			<tbody><tr>
-				<!-- BEGIN BODY NAVIGATION TD -->
-				<td style="vertical-align: top;" class="LeftNav">
-					
-<!--BEGIN NAVIGATION WRAPPER TABLE-->
-<table cellpadding="0" cellspacing="0" style="border: none;">
-	<tbody><tr>
-		<td>
-			<table style="width: 155px; height:100%; padding:0px; border-collapse: collapse; ">
-<tbody><tr><td style="width:155px; height:25px;"></td></tr>
-<tr><td class="leftnavtableitem" style="text-align:left;"><table style=" margin-left:10px;"><tbody><tr><td><a href="/partner.aspx?STORE_ID=1&amp;NAV_CATEGORY_ID=3222&amp;CATEGORY_ID=3222">
-ABOUT GNLD</a></td></tr></tbody></table></td></tr>
-<tr><td style="height:1px; text-align:center;"><img src="/images/clear.gif" style="height:1px; width:130px;  background-color:#999933;" alt="img"></td></tr><tr><td class="leftnavtableitem" style="text-align:left;"><table style=" margin-left:20px;"><tbody><tr><td><a href="/story.aspx?STORE_ID=1&amp;NAV_CATEGORY_ID=3222&amp;CATEGORY_ID=3223">
-History</a></td></tr></tbody></table></td></tr>
-<tr><td style="height:1px; text-align:center;"><img src="/images/clear.gif" style="height:1px; width:130px;  background-color:#999933;" alt="img"></td></tr><tr><td class="leftnavtableitem" style="text-align:left;"><table style=" margin-left:20px;"><tbody><tr><td><a href="/purpose.aspx?STORE_ID=1&amp;NAV_CATEGORY_ID=3222&amp;CATEGORY_ID=3224">
-Purpose</a></td></tr></tbody></table></td></tr>
-<tr><td style="height:1px; text-align:center;"><img src="/images/clear.gif" style="height:1px; width:130px;  background-color:#999933;" alt="img"></td></tr><tr><td class="leftnavtableitem" style="text-align:left;"><table style=" margin-left:20px;"><tbody><tr><td><a href="/philosophy.aspx?STORE_ID=1&amp;NAV_CATEGORY_ID=3222&amp;CATEGORY_ID=3225">
-Philosophy</a></td></tr></tbody></table></td></tr>
-<tr><td style="height:1px; text-align:center;"><img src="/images/clear.gif" style="height:1px; width:130px;  background-color:#999933;" alt="img"></td></tr><tr><td class="leftnavtableitem" style="text-align:left;"><table style=" margin-left:20px;"><tbody><tr><td><a href="/values.aspx?STORE_ID=1&amp;NAV_CATEGORY_ID=3222&amp;CATEGORY_ID=3246">
-Values</a></td></tr></tbody></table></td></tr>
-<tr><td style="height:1px; text-align:center;"><img src="/images/clear.gif" style="height:1px; width:130px;  background-color:#999933;" alt="img"></td></tr><tr><td class="leftnavtableitem" style="text-align:left;"><table style=" margin-left:20px;"><tbody><tr><td><a href="/science.aspx?STORE_ID=1&amp;NAV_CATEGORY_ID=3222&amp;CATEGORY_ID=3226">
-Science</a></td></tr></tbody></table></td></tr>
-<tr><td style="height:1px; text-align:center;"><img src="/images/clear.gif" style="height:1px; width:130px;  background-color:#999933;" alt="img"></td></tr><tr><td class="leftnavtableitem" style="text-align:left;"><table style=" margin-left:20px;"><tbody><tr><td><a href="/management.aspx?STORE_ID=1&amp;NAV_CATEGORY_ID=3222&amp;CATEGORY_ID=3227">
-Management</a></td></tr></tbody></table></td></tr>
-<tr><td style="height:1px; text-align:center;"><img src="/images/clear.gif" style="height:1px; width:130px;  background-color:#999933;" alt="img"></td></tr><tr><td class="leftnavtableitem" style="text-align:left;"><table style=" margin-left:20px;"><tbody><tr><td><a href="/business.aspx?STORE_ID=1&amp;NAV_CATEGORY_ID=3222&amp;CATEGORY_ID=3228">
-Business</a></td></tr></tbody></table></td></tr>
-</tbody></table>
-
-			<br><br>
-		</td>
-	</tr>
-	
-	<tr>
-		<td style="text-align:center;">
-			<a id="ctl00_MasterBody_Navigation1_hlJOIN" href="/join.aspx"><img src="/assets/1/common/getstartedbtn.gif" border="0"></a>
-			<br><br>
-		</td>
-	</tr>
-	<tr>
-		<td style="text-align:center; margin:0px; border:none;">
-			
-			<br><br>
-		</td>
-	</tr>
-	<tr>
-		<td style="text-align:center;">
-			
-		</td>
-	</tr>
-</tbody></table>
-<!--END NAVIGATION WRAPPER TABLE-->
-				</td>
-				<!-- END BODY NAVIGATION TD -->
-				<!-- BEGIN BODY SPACER TD -->
-				<td style="background-color: #999999; width: 1px;">
-				</td>
-				<!-- END BODY SPACER TD -->
-				<!-- BEGIN BODY CONTENT TD -->
-				<td style="vertical-align: top;">
-					
-					<table width="593" border="0" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td width="593" valign="top"><img src="/assets/1/asset/privacypolicy/mainsub_partner.jpg" width="593" height="109"> 
-      <table width="100%" border="0" cellspacing="0" cellpadding="15">
-        <tbody><tr>
-          <td width="563"> 
-            <p><font size="3"><strong>PRIVACY POLICY</strong> </font></p>
-            <table width="550" border="0" cellpadding="0" cellspacing="0">
-              <tbody><tr> 
-                
-                <td width="550"> 
-                  <!--START MAIN CONTENT-->
-                  <p><font size="2">GNLD recognizes the importance of protecting 
-                    the privacy and security of information we may collect from 
-                    you. The purpose of this policy is to inform you of how we 
-                    handle information we may learn about you from your visit 
-                    to our website.</font></p>
-                  <p><font size="2"><b>Use and Collection of Information</b><br>
-                    When visiting the GNLD website you may be asked for certain 
-                    types of personally identifiable information. We receive and 
-                    store information you give us through the website or in any 
-                    other manner. We use such information including name, electronic 
-                    or physical mailing address, telephone numbers, Tax Identification 
-                    Numbers (TINs) and credit card numbers for a variety of purposes 
-                    including: </font></p>
-                  <ul>
-                    <li><font size="2">Processing Distributor Applications</font></li>
-                    <li><font size="2">Confirmation and fulfillment of orders</font></li>
-                    <li><font size="2"> Communication of corporate events or policies</font></li>
-                    <li><font size="2"> Compliance with applicable laws and requirements</font></li>
-                    <li><font size="2"> User feed-back and survey responses to 
-                      improve GNLD Service</font></li>
-                  </ul>
-                  <p><font size="2"><b>Financial and Tax Information:</b><br>
-                    Financial information, including account numbers and credit 
-                    card numbers are EXCLUSIVELY used for billing purposes, while 
-                    TINs and Social Security Numbers are EXCLUSIVELY used for 
-                    state and federal tax purposes. GNLD utilizes security measures 
-                    to safeguard this private information.</font></p>
-                  <p><font size="2"><b>Third Parties</b><br>
-                    We do not sell your personal information to third parties. 
-                    We may share such information as necessary with the following 
-                    third parties:</font></p>
-                  <ul>
-                    <li><font size="2">Any consultant/agent appointed by GNLD 
-                      to plan, provide and/or administer distributor benefits.</font></li>
-                    <li><font size="2"> Any employee of GNLD and its local and 
-                      foreign affiliated/associated companies who have a need 
-                      to access your personal information in order to carry out 
-                      their responsibilities.</font></li>
-                    <li><font size="2"> Any government agency or governmental, 
-                      police or regulatory authority in order to meet legal security 
-                      and regulatory requirements </font></li>
-                    <li><font size="2"> Up-line sponsoring Distributors with a 
-                      need to know your status, progress and involvement.<br>
-                      </font></li>
-                  </ul>
-                  <p><font size="2"><b>Transfer<br>
-                    </b>The consent you have provided to GNLD or its affiliates 
-                    to use your personal information shall also extend to any 
-                    person or corporation to which GNLD may transfer its business, 
-                    provided that such information is used for the same purposes.</font></p>
-                  <p><font size="2"><b>Online Surveys</b><br>
-                    In the event that GNLD conducts online surveys, we may ask 
-                    you to voluntarily provide demographic information. All responses 
-                    are used exclusively for internal marketing and statistical 
-                    purposes and are kept confidential.</font></p>
-                  <p><font size="2"><b>Website Links</b><br>
-                    GNLD may provide links to other websites that we believe are 
-                    useful. Though we believe these sites meet our high standards, 
-                    GNLD is not responsible for the content, actions or policies 
-                    of third party websites. Additionally, GNLD is not responsible 
-                    for the privacy notices or practices of such websites. <br>
-                    <br>
-                    <b>Cookies</b><br>
-                    Cookies are small pieces of information that are stored on 
-                    computer hard drives. We may use cookies to recognize you 
-                    when you return to the GNLD website in order to provide you 
-                    with a better user experience. Our cookies do not contain 
-                    any personal information such as social security or credit 
-                    card numbers. GNLD’s use of Cookies allows you to use 
-                    password-protected services in a single session without having 
-                    to re-enter your password and to track your shopping cart 
-                    status. GNLD’s use of Cookies also includes determination 
-                    of which areas of our site are popular and to determine which 
-                    region, content and language are appropriate.<br>
-                    <br>
-                    <b>Security</b><br>
-                    GNLD has security measures in place to protect against the 
-                    loss, misuse and alteration of the information you provide. 
-                    When you place an order or give GNLD personal information 
-                    you are automatically on our secure server. </font></p>
-                  <p><font size="2"><b>Access to Personal Information</b><br>
-                    You have the right to request and obtain the personal information 
-                    GNLD has on file about you. You may request a correction of 
-                    any data that is inaccurate. You may also request GNLD to 
-                    inform you of the type of personal information maintained 
-                    by GNLD Corporation. All requests must be in writing and should 
-                    be addressed to:</font></p>
-                  <p><font size="2">GNLD Headquarters<br>
-                    P.O. Box 5012<br>
-                    Fremont, CA 94537-5012</font></p>
-                  <p></p>
-                  <!--END MAIN CONTENT-->
-                </td>
-              </tr>
-            </tbody></table>
-            
-          </td>
-			
-        </tr>
-    </tbody></table>
-	</td>
-  </tr>
-</tbody></table>
-					
-				</td>
-				 <!-- END BODY CONTENT TD -->
-			</tr>
-			<!-- END BODY TR (ONE ROW) -->
-		</tbody></table>
-		<!-- END BODY TABLE CONTENT -->
-	
+			<div class="grid_15 alpha omega" id="TopNavBackground">
+			    <div class="grid_14" id="TopNav"><ul><li id="TopNavHome"><a href="/en-us/home/"><span>Home</span></a></li><li id="TopNavNutritionals"><a href="/en-us/product/NeoLifeNutritionals"><span>Nutritionals</span></a></li><li id="TopNavPersonalCare"><a href="/en-us/product/PersonalCare"><span>Personal Care</span></a></li><li id="TopNavHomeCare"><a href="/en-us/product/HomeCare"><span>Home Care</span></a></li><li id="TopNavGNLDOpportunity"><a href="/en-us/page/opportunity"><span>Opportunity</span></a></li><li id="TopNavAboutGNLD"><a href="/en-us/about/GNLD"><span>About GNLD</span></a></li></ul></div>
+			</div>
+			<div class="grid_15 alpha omega">
+			    <div id="TopNavSub"><div id="TopNavNutritionals_Sub"><a id="CoreProducts"></a><a href="/en-us/product/CoreProducts">Core Products</a><a href="/en-us/product/WeightManagement">Weight Management</a><a href="/en-us/product/TargetedSolutions">Targeted Solutions</a><a href="/en-us/product/Energy">Energy &amp; Fitness</a><a href="/en-us/product/NeoLifeNutritionals">Product Catalog</a><a href="/en-us/page/opportunity">The GNLD Opportunity</a><a href="/en-us/page/tools/Opportunity">Get Started Now!</a></div><div id="TopNavPersonalCare_Sub"><a id="AllSkinTypes"></a><a href="/en-us/product/PersonalCare/Nutriance/AllSkinTypes">All Skin Types</a><a href="/en-us/product/PersonalCare/Nutriance/NormalToDry">Normal to Dry</a><a href="/en-us/product/PersonalCare/Nutriance/CombinationToOily">Combination to Oily</a><a href="/en-us/product/PersonalCare/Nutriance/HairCare">Hair Care</a><a href="/en-us/product/PersonalCare/Nutriance/BodyCare">Body Care</a><a href="/en-us/product/PersonalCare">Product Catalog</a><a href="/en-us/page/opportunity">The GNLD Opportunity</a><a href="/en-us/page/tools/Opportunity">Get Started Now!</a></div><div id="TopNavHomeCare_Sub"><a id="HomeCareProducts"></a><a href="/en-us/product/HomeCare">Home Care Products</a><a href="/en-us/product/HomeCare/Products">Product Catalog</a><a href="/en-us/page/opportunity">The GNLD Opportunity</a><a href="/en-us/page/tools/Opportunity">Get Started Now!</a></div><div id="TopNavGNLDOpportunity_Sub"><a id="Opportunity"></a><a href="/en-us/page/opportunity">Business Opportunity</a><a href="/en-us/page/tools/Opportunity">Get Started Now!</a></div><div id="TopNavAboutGNLD_Sub"><a id="AboutGnld"></a><a href="/en-us/about/GNLD">About GNLD</a><a href="/en-us/about/History">Our History</a><a href="/en-us/about/Science">The Science Behind GNLD</a><a href="/en-us/about/Executive">Executive Team</a><a href="/en-us/about/AroundTheWorld">GNLD Around The World</a></div></div>
+                <div class="grid_15 alpha omega" id="Content">
+                    <!-- page(en-us:Privacy)[ --><div>
+            	<div class="centercontent">
+                	<div class="row">
+                    <div class="push_1 grid_13">
+	<h1>
+		PRIVACY POLICY</h1>
+	<p>
+		GNLD recognizes the importance of protecting the privacy and security of information we may collect from you. The purpose of this policy is to inform you of how we handle information we may learn about you from your visit to our website.</p>
+	<h2>
+		Use and Collection of Information</h2>
+	<p>
+		When visiting the GNLD website you may be asked for certain types of personally identifiable information. We receive and store information you give us through the website or in any other manner. We use such information including name, electronic or physical mailing address, telephone numbers, Tax Identification Numbers (TINs) and credit card numbers for a variety of purposes including:</p>
+	<ul>
+		<li>
+			Processing Distributor Applications</li>
+		<li>
+			Confirmation and fulfillment of orders</li>
+		<li>
+			Communication of corporate events or policies</li>
+		<li>
+			Compliance with applicable laws and requirements</li>
+		<li>
+			User feed-back and survey responses to improve GNLD Service</li>
+	</ul>
+	<h2>
+		Financial and Tax Information:</h2>
+	<p>
+		Financial information, including account numbers and credit card numbers are EXCLUSIVELY used for billing purposes, while TINs and Social Security Numbers are EXCLUSIVELY used for state and federal tax purposes. GNLD utilizes security measures to safeguard this private information.</p>
+	<h2>
+		Third Parties</h2>
+	<p>
+		We do not sell your personal information to third parties. We may share such information as necessary with the following third parties:</p>
+	<ul>
+		<li>
+			Any consultant/agent appointed by GNLD to plan, provide and/or administer distributor benefits.</li>
+		<li>
+			Any employee of GNLD and its local and foreign affiliated/associated companies who have a need to access your personal information in order to carry out their responsibilities.</li>
+		<li>
+			Any government agency or governmental, police or regulatory authority in order to meet legal security and regulatory requirements</li>
+		<li>
+			Up-line sponsoring Distributors with a need to know your status, progress and involvement.</li>
+	</ul>
+	<h2>
+		Transfer</h2>
+	<p>
+		The consent you have provided to GNLD or its affiliates to use your personal information shall also extend to any person or corporation to which GNLD may transfer its business, provided that such information is used for the same purposes.</p>
+	<h2>
+		Online Surveys</h2>
+	<p>
+		In the event that GNLD conducts online surveys, we may ask you to voluntarily provide demographic information. All responses are used exclusively for internal marketing and statistical purposes and are kept confidential.</p>
+	<h2>
+		Website Links</h2>
+	<p>
+		GNLD may provide links to other websites that we believe are useful. Though we believe these sites meet our high standards, GNLD is not responsible for the content, actions or policies of third party websites. Additionally, GNLD is not responsible for the privacy notices or practices of such websites.</p>
+	<h2>
+		Cookies</h2>
+	<p>
+		Cookies are small pieces of information that are stored on computer hard drives. We may use cookies to recognize you when you return to the GNLD website in order to provide you with a better user experience. Our cookies do not contain any personal information such as social security or credit card numbers. GNLD’s use of Cookies allows you to use password-protected services in a single session without having to re-enter your password and to track your shopping cart status. GNLD’s use of Cookies also includes determination of which areas of our site are popular and to determine which region, content and language are appropriate.</p>
+	<h2>
+		Security</h2>
+	<p>
+		GNLD has security measures in place to protect against the loss, misuse and alteration of the information you provide. When you place an order or give GNLD personal information you are automatically on our secure server.</p>
+	<h2>
+		Access to Personal Information</h2>
+	<p>
+		You have the right to request and obtain the personal information GNLD has on file about you. You may request a correction of any data that is inaccurate. You may also request GNLD to inform you of the type of personal information maintained by GNLD Corporation. All requests must be in writing and should be addressed to:</p>
+	<p>
+		GNLD Headquarters<br>
+		P.O. Box 5012<br>
+		Fremont, CA 94537-5012</p>
 </div>
-		<!-- BEGIN BODY LOWER DIV LITERAL -->
-		<!-- END BODY LOWER DIV LITERAL -->
-	<!-- BEGIN BSL -->
-	
-	<!-- END BSL -->
-	
-                    <!-- END BODY PLACEHOLDER-->
-                </td>
-            </tr>
-        </tbody></table>
-        <div style="width: 750px; text-align: center; margin-left: auto; margin-right: auto;
-            background-color: transparent;">
-            <!-- BEGIN FOOTER PLACEHOLDER-->
-            
-                
-<br>
-<br>
-<!-- START FOOTER -->
-<table style="width:750px; border:none; background-color: transparent;" border="0">
-	<tbody><tr>
-	<td rowspan="2">
-            &nbsp;            
-        </td>
-		<td style="text-align:center; height: 135px; background-color: transparent;">
-			
-            <a class="footer" href="/">Home</a><span id="ctl00_MasterFooter_ctl00_0">&nbsp;&nbsp;|&nbsp;&nbsp;</span><a class="footer" href="/join.aspx">Get Started Now!</a><span id="ctl00_MasterFooter_ctl00_1">&nbsp;&nbsp;|&nbsp;&nbsp;</span><a class="footer" href="/affiliate/setup.aspx">Get Online with a Distributor Website!</a><span id="ctl00_MasterFooter_ctl00_2">&nbsp;&nbsp;|&nbsp;&nbsp;</span><a class="footer" href="/contactgnld.aspx?STORE_ID=1&amp;NAV_CATEGORY_ID=3222&amp;CATEGORY_ID=3250">Contact GNLD</a><span id="ctl00_MasterFooter_ctl00_3">&nbsp;&nbsp;|&nbsp;&nbsp;</span><a class="footer" href="http://www.gnld.com/distributor2/login/new_login/distr_login.aspx?countryCode=32" target="_blank">Distributor Login</a><br><a class="footer" href="/wwl.aspx?STORE_ID=1&amp;NAV_CATEGORY_ID=3222&amp;CATEGORY_ID=3251">Worldwide Locations</a><span id="ctl00_MasterFooter_ctl00_5">&nbsp;&nbsp;|&nbsp;&nbsp;</span><a class="footer" href="/privacypolicy.aspx?STORE_ID=1&amp;NAV_CATEGORY_ID=3222&amp;CATEGORY_ID=3252">Privacy Policy</a><span id="ctl00_MasterFooter_ctl00_6">&nbsp;&nbsp;|&nbsp;&nbsp;</span><a class="footer" href="/sitemap.aspx">Site Map</a>
-		</td>
-		<td rowspan="2">
-            &nbsp;
-        </td>    	
-	</tr>
-	<tr>
-		<td>
-		    <div class="copyright" style="text-align:center; ">
-				©2012, GNLD International, LLC. All rights reserved.</div>
-		   <br>
-		   <!--<a id="ctl00_MasterFooter_ctl00_hlFlash" class="footer" href="http://www.macromedia.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash">Download Macromedia Flash</a>-->
-	        <!--<a href="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" target="_blank" class="footer">Download Adobe Flash Player</a> -->
-	     <a href="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" target="_blank" class="footer">Download Adobe Flash Player</a>   
-		</td>
-	</tr>
-</tbody></table>
-	
-<!-- END FOOTER -->
+</div>
 
-            
-            <!-- END FOOTER PLACEHOLDER-->
-        </div>
-    </form>
+</div>
 
+</div>
+<!-- ](en-us:Privacy) -->
+                </div>
+            </div>
+			<div class="grid_15 alpha omega" id="BottomBar">
+			    <div class="grid_14 alpha" id="BottomNav"><ul><li class="first"><a href="/en-us/home/">Home</a></li><li><a href="/en-us/site/join">JOIN US NOW!</a></li><li><a href="https://www.gnld.com/affiliate/setup.aspx?STORE_ID=1">Get Online with a Distributor Website!</a></li><li><a href="http://www.gnld.com/distributor2/login/new_login/distr_login.aspx?countryCode=32">Distributor Only</a></li><li><a href="/en-us/about/AroundTheWorld">Worldwide Locations</a></li><li><a href="/en-us/page/Privacy">Privacy Policy</a></li></ul></div>
+				<div class="grid_1 omega" id="BottomAccent">&nbsp;</div>
+			</div>
+			<div class="grid_15 alpha omega" id="BottomNotice">
+				<div class="grid_1">				
+				
+				   <a href="http://www.dsa.org/ethics/code/" title="Code of Ethics"><img src="/images/footer_dsa.jpg" alt="DSA"></a>
+				</div>
+				<div class="grid_3" id="DSANotice">
+				
+				 GNLD is a Proud Member of the Direct Selling Association and a Signatory to the DSA <a href="http://www.dsa.org/ethics/code/" title="Code of Ethics">Code of Ethics</a>
+				</div>
+				<div class="grid_10" id="Copyright">
+				Copyright @ 2014  GNLD International, LLC. No reproduction in whole or in part without written permission. All Rights Reserved. All trademarks and product images exhibited on this site, unless otherwise indicated, are the property of GNLD International, LLC.
+				   
+				</div>
+			</div>
+		</div>
+    
 
 </body></html>
