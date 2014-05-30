@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the foodafactoflife.org.uk privacy policy that was archived on 2008-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081231152847id_/http%3A//www.foodafactoflife.org.uk//Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodafactoflife.org.uk privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530174043id_/http%3A//www.foodafactoflife.org.uk/Privacy.aspx) for the most accurate reproduction.*
 
-# Food a fact of life - Food a fact of life
+# Privacy Statement - Food a fact of life
 
 The Food - a fact of life website has been developed by the British Nutrition Foundation (BNF). BNF has created this privacy statement to demonstrate our firm commitment to users' privacy.
 
