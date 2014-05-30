@@ -1,25 +1,27 @@
-> *The following text is extracted and transformed from the mnscu.edu privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102041402id_/http%3A//www.mnscu.edu/aboutus/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mnscu.edu privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530235611id_/http%3A//www.mnscu.edu/system/privacy.html) for the most accurate reproduction.*
 
-# Minnesota State Colleges and Universities - MnSCU privacy statement
+# Minnesota State Colleges and Universities - MnSCU Online Privacy Statement
 
-Minnesota State Colleges and Universities is firmly committed to maintaining appropriate data privacy; our data gathering and dissemination are governed by state and federal laws, including the [Minnesota Government Data Practices Act, Minnesota Statutes, Chapter 13](http://www.revisor.leg.state.mn.us/stats/13/). The following discloses our data practices policy for all Minnesota State Colleges and Universities System Office websites.
+[Home](https://web.archive.org/index.html) > [System Information](https://web.archive.org/web/20140530235611id_/http%3A//www.mnscu.edu/system/index.html)
 
-For security purposes and to ensure that system office websites remain available to all users, we use software to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
+Minnesota State Colleges and Universities is firmly committed to maintaining appropriate data privacy; our data gathering and dissemination are governed by state and federal laws, including the [Minnesota Government Data Practices Act, Minnesota Statutes, Chapter 13](http://www.revisor.leg.state.mn.us/stats/13/). The following discloses our data practices policy for all Minnesota State Colleges and Universities, Office of the Chancellor Web sites.
+
+For security purposes and to ensure that the web site remains available to all users, we use software to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
 
 ### Online forms
 
-The information that you provide may be classified as private by law. You are not legally required to provide this information, but if you do not supply this information on a contact, help or registration form, we will be unable to contact you. Contact information missing from a registration form may mean that your registration will be incomplete and may not be able to be processed. 
+The information that you provide may be classified as private by law. You are not legally required to provide this information, but if you do not supply this information on a contact, help or registration form, we will be unable to contact you. Contact information missing from a registration form may mean that your registration will be incomplete and may not be able to be processed.
 
 The information you provide will be available to Minnesota State Colleges and Universities staff to allow them to perform their work-related duties.
 
 ### Server logs
 
-We store only the following information: 
+We store only the following information:
 
-  * the IP address from which you access the Internet 
-  * the date and time you visit our site 
-  * the Internet address of the web site from which you direct-linked to our site 
-  * the web pages on our site that you visit 
+  * the IP address from which you access the Internet
+  * the date and time you visit our site
+  * the Internet address of the web site from which you direct-linked to our site
+  * the web pages on our site that you visit
   * the browser you use to access our site
 
 
