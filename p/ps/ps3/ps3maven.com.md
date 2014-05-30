@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ps3maven.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210040306id_/http%3A//ps3maven.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ps3maven.com privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530020913id_/http%3A//ps3maven.com/privacy-policy) for the most accurate reproduction.*
 
 # PS3Maven Privacy Policy | Ps3 Maven
 
@@ -40,4 +40,4 @@ For further information or to reach us, we may be contacted at [contact@ps3maven
 
 This policy may be updated at anytime, and may be found within the site. We encourage your feedback, opinions, and suggestions, these may be forwarded to contact@walyou.com
 
-**Updated September 16, 2010**
+**Updated September 1, 2013**
