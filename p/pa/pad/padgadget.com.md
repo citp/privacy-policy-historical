@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the padgadget.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529101011id_/http%3A//www.padgadget.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the padgadget.com privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530154130id_/http%3A//www.padgadget.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PadGadget
 
