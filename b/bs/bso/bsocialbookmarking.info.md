@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bsocialbookmarking.info privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203162752id_/http%3A//www.bsocialbookmarking.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bsocialbookmarking.info privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530231009id_/http%3A//www.bsocialbookmarking.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy › BSocialbookmarking.info : Submit your site to SEO friendly directories | Most popular social bookmarking in the web | Get more links by increasing traffic, visibility & branding
 
