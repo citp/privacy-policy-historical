@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contacthelp.com privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815144427id_/http%3A//www.contacthelp.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contacthelp.com privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530153024id_/http%3A//www.contacthelp.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -25,18 +25,3 @@ You should consult the respective privacy policies of these third-party ad serve
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
 
 Although it is our hope that you find the display of advertising to you based on your anonymous interests valuable, if you would prefer not to participate in the services offered through these solutions, you can always opt-out of this activity by visiting the Network Advertising Initiative (NAI) website by [clicking here](http://www.networkadvertising.org/managing/opt_out.asp). 
-
-| 
-
-  * Add new companies
-  * Update listing information
-  * Rate a company
-  * Leave your comments
-  * Upload your phone call experience
-  * Add listings to your favorite bookmark sites
-  * Page your cell phone with listing details
-  * Forward a listing to a friend
-
-  
-  
----|---
