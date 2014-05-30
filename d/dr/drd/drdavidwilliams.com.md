@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the drdavidwilliams.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630085713id_/http%3A//www.drdavidwilliams.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drdavidwilliams.com privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530183726id_/http%3A//www.drdavidwilliams.com/privacy-policy) for the most accurate reproduction.*
 
-# Home Home Privacy Policy at DrDavidWilliams.com
+# Privacy Policy
 
 At drdavidwilliams.com it is quite important to us that we protect your privacy. When you place an online order with us, or register for our email communications, we collect your email address, land address, and sometimes telephone number. This information will be used by Healthy Directions, LLC for service, editorial, and marketing purposes. We will sometimes share your information with third party vendors who assist us with the preparation and mailing of our editorial and marketing communications, and with order fulfillment facilities. We will also occasionally provide your address to carefully-screened partners or third-party companies for the purpose of contacting you with news about relevant products or publications. We will never rent or sell your telephone or fax number to any third party.
 
