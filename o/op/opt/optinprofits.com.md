@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optinprofits.com privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113065451id_/http%3A//www.autopilotinternetincome.com/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optinprofits.com privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530212139id_/http%3A//www.autopilotinternetincome.com/privacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
