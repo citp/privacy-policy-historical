@@ -1,26 +1,24 @@
-> *The following text is extracted and transformed from the find.ly privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124065532id_/http%3A//www.findly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the find.ly privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530102935id_/http%3A//www.findly.com/privacy) for the most accurate reproduction.*
 
 # Findly - Our Privacy Policy - Verified by TRUSTe
 
 ### Privacy Policy
 
-Effective on May 24th 2012 
+Effective on May 27th 2014 
 
 [](https://privacy.truste.com/privacy-seal/Findly,-Inc-/validation?rid=b82ff140-daa5-4ad5-bca8-f52af3efffff "TRUSTe European Safe Harbor certification")
 
-This privacy statement describes how Findly, Inc. collects and uses the personal information you provide on our Web site: [find.ly](http://www.find.ly/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy statement describes how Findly Talent, LLC. collects and uses the personal information you provide on our Web site: [find.ly, findly.com and TheHive.com](http://www.findly.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 **TRUSTe**
 
-Find.ly, Inc has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy-program-requirements/ "TRUSTe Program Requirements") including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this Web site, [www.find.ly](http://www.find.ly/ "find.ly website") and does not cover information that may be collected through 3rd parties or offline.
+Find.ly, Inc has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy-program-requirements/ "TRUSTe Program Requirements") including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this Web site, [www.findly.com, www.find.ly and TheHive.com](http://www.findly.com/ "findly website") and does not cover information that may be collected through 3rd parties or offline.
 
-TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. _If you have questions or complaints regarding our privacy policy or practices, please contact us at[support@find.ly](mailto:support@find.ly)._ If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request)
+TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. _If you have questions or complaints regarding our privacy policy or practices, please contact us at[support@findly.com](mailto:support@findly.com)._ If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request)
 
-  * _U.S.—E.U. or Swiss Safe Harbor_
+**US-EU and Swiss Safe Harbor**
 
-
-
-Find.ly, Inc. complies with the U.S. – E.U. or Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the from European Union member countries. Find.ly, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Find.ly, Inc.’s certification, please visit <http://www.export.gov/safeharbor/>
+Findly, Inc. complies with the U.S. – E.U. Safe Harbor framework and the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Findly, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Findly, Inc.’s certification, please visit http://www.export.gov/safeharbor/
 
 Collection and Use | Information Sharing | Access | Tracking Technologies | Security | Additional Info | Contact Info  
   
@@ -73,7 +71,7 @@ We may also disclose your personal information
   
 **Access and Choice Options**
 
-If your personally information changes, or if you no longer desire our service, you may correct, update, amend your personal data by making the change in your profile page, and/or for deletion requests, by emailing our Customer Support at [support@find.ly](mailto:support@find.ly) or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request to access within 30 days.
+If your personally information changes, or if you no longer desire our service, you may correct, update, amend your personal data by making the change in your profile page, and/or for deletion requests, by emailing our Customer Support at [support@findly.com](mailto:support@findly.com) or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request to access within 30 days.
 
 We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
@@ -81,7 +79,7 @@ We will retain your information for as long as your account is active or as need
 
 
 
-If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page or you can contact us at [support@find.ly](mailto:support@find.ly)  
+If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page or you can contact us at [support@findly.com](mailto:support@findly.com)  
   
 **Cookies and Other Tracking Technologies**
 
@@ -89,7 +87,7 @@ A cookie is a small text file that is stored on a user’s computer for record-k
 
 We use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. We use a session ID cookie to temporarily save the data you may enter on one form, so that you do not need to enter it again on a similar form you may encounter during this same visit/session. A persistent cookie remains on your hard drive for an extended period of time. We use a persistent cookie so that the next time you come back to this a website that uses find.ly, you do not need to fill out the form again. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file. 
 
-If you reject cookies, you may still use our site fully, but the next time you come back to this site or any site using find.ly services, you will have to repeat the form completion process each time.
+If you reject cookies, you may still use our site fully, but the next time you come back to this site or any site using findly services, you will have to repeat the form completion process each time.
 
   * _Web beacons_
 
@@ -97,11 +95,15 @@ If you reject cookies, you may still use our site fully, but the next time you c
 
 Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to make our site better to use, and to gauge the effectiveness of our customer communications and marketing campaigns we use to help get people jobs.
 
-We use a third party to gather information about how you and others use our Web site. For example, we will know how many users access a specific page and which links they clicked on. We use this aggregated information to understand and optimize how our site is used.  
+We use a third party to gather information about how you and others use our Web site. These third parties uses cookies and web beacons to gather such information. We [do/do not] have access or control over these third party trackers. For example, we will know how many users access a specific page and which links they clicked on. We use this aggregated information to understand and optimize how our site is used.  
+  
+**Behavioral Targeting/ Re-Targeting**
+
+We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [Here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.  
   
 **Security**
 
-The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [support@find.ly](mailto:support@find.ly)  
+The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [support@findly.com](mailto:support@findly.com)  
   
 **Additional Policy Information**
 
@@ -128,7 +130,7 @@ You can contact us about this privacy statement by writing or email us at the ad
 Findly, Inc.  
 720 Market Street #300  
 San Francisco, CA, United States 94108  
-Email: [support@find.ly](mailto:support@find.ly)  
+Email: [support@findly.com](mailto:support@findly.com)  
 Phone: 650-403-4819
 
 [](https://privacy.truste.com/privacy-seal/Findly,-Inc-/validation?rid=b82ff140-daa5-4ad5-bca8-f52af3efffff "TRUSTe European Safe Harbor certification")
