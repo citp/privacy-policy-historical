@@ -1,55 +1,72 @@
-> *The following text is extracted and transformed from the ruckuswireless.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424135105id_/http%3A//www.ruckuswireless.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ruckuswireless.com privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530193846id_/http%3A//www.ruckuswireless.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Ruckus Wireless
+# Ruckus Wireless Privacy Policy | Ruckus Wireless, Inc.
 
-Last revised December 13, 2010.
+Revised September 20, 2013
 
-Ruckus Wireless, Inc. ( **“Ruckus,” “we,”** or **“us”** ) is committed to protecting your privacy. We have prepared this Privacy Policy to describe to you our practices regarding the Personal Data (as defined below) we collect from visitors to our websites at www.ruckuswireless.com and www.theruckusroom.net (collectively, the **“Site”** ). This Privacy Policy is made part of the Ruckus Wireless Terms of Use at [www.ruckuswireless.com/terms-of-use](https://web.archive.org/terms-of-use) ( **“Agreement”** ). Capitalized terms not defined in this Privacy Policy will have the meanings set forth in the Agreement.
+When you visit websites, you may be providing owners of those websites with information about yourself. At Ruckus, we want to help you understand how we use the information we collect from your visit to our websites. In general, we use the information we collect to improve those websites and our products and services, let you take advantage of programs and features presented on our websites and for our internal analysis.
 
-By submitting Personal Data through the Site, you agree to the terms of this Privacy Policy and you expressly consent to the processing of your Personal Data in accordance with this Privacy Policy. Your Personal Data may be processed in the country where it was collected and in other countries, including the United States, where laws regarding processing of Personal Data may be less stringent than the laws in your country.
+## Information We Collect
 
-  1. **Types of Data We Collect**
+When you visit our websites, our server logs capture non personal information such as your IP address, browser, and operating system. We may also capture additional information such as the paths taken as you move from page to page, video statistics, downloads, browser usage, actions you perform and devices used.
 
-We collect Personal Data and/or Anonymous Data from you when you visit our Site, send us information or communications, and/or when you submit content to our Site. **“Personal Data”** means data that allows someone to identify or contact you, including, for example, your name, address, telephone number, e-mail address, as well as any other non-public information about you that is associated with or linked to any of the foregoing data. **“Anonymous Data”** means data that is not associated with or linked to your Personal Data; Anonymous Data, by itself, does not permit the identification of individual persons.
+## Email
 
-    1. **Data You Provide to Us.** We receive and store any information you enter on our Site or otherwise provide to us. 
-      * We collect Personal Data from you, such as your user name, first and last name, company name, mailing address, e-mail address, and phone number, when you create a customer support or partner Account on the Site.
-      * If you post to our blog or forum, we collect your name, e-mail address, and any URL you provide.
-      * If you provide us feedback or contact us via e-mail or an online form, we may collect your name and e-mail address, as well as any other content included in the e-mail or that you submit to us, in order to send you a reply.
-    2. **Data Collected Through Technology**
-      * Our servers (which may be hosted by a third party service provider) collect information from you when you visit or use the Site, such as browser type and version, operating system, platform, Internet Protocol (IP) address (a number that is automatically assigned to your computer when you use the Internet, which may vary from session to session), domain name, and a date/time stamp for your visit. If you create an Account, we may link your IP address with your Account and collect information about your activities on our Site.
-      * We may use cookies, Flash cookies, and navigational data like Uniform Resource Locators (URLs) on the Site to gather information about your online activities, such as the date and time of your visit, the information for which you searched and which you viewed, and the sites you visited before and after visiting the Site. We may also use a cookie or Flash cookie to save your settings and to provide customizable and personalized services (such as to hold your Account information). A “cookie” is a small data file placed on your hard drive when you visit certain websites. A “Flash cookie” is a small data file placed on your hard drive when you visit certain websites that use Adobe Flash. You may disable cookies by adjusting the preferences settings of your browser. Consult the “Help” feature of your browser for specific instructions. To adjust Flash cookie settings, access your Flash management tools from Adobe’s web site http://www.adobe.com/products/ directly. If you choose to disable cookies or Flash cookies, some areas of our Site may not work properly. Our advertisers and partners may also use their own cookies. We do not control use of these cookies used by advertisers and partners and expressly disclaim responsibility for information collected through them.
-      * We may use software tools such as Flash or JavaScript to collect page interaction information such as clicks, drags, and hover-overs, response times, errors, and length of visits to certain pages.
-      * We may use clear gifs (otherwise known as web bugs or web beacons) to gather information about your visit to the Site, such as what you click on and pages and information you viewed. Additionally, be aware that advertisers and partners may also use their own clear gifs and we do not control use of these by advertisers and partners and expressly disclaim responsibility for information collected through them. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies. In contrast to cookies, which are placed on a user’s hard drive, clear gifs are embedded invisibly on web pages.
-  2. **Public Areas.** We display your name and public profile information (collectively, your **“Public Profile”** ) when you post content to or use forums, blogs, and other community features of the Site (collectively, **“Public Areas”** ). Your Public Profile is available on the Public Areas to other users, and they will be able to personally identify your activities on the Public Areas that are associated with your Public Profile. If you post content to or use Public Areas or send emails or other messages to other users of the Public Areas, you should be aware that any Personal Data you provide can be read, collected or used by other users of the Public Areas and could be used to send you unsolicited messages. We are not responsible for the Personal Data you choose to submit in the Public Areas or send to other users. We may allow you to log into forums or blogs using a third party service. Your account with that service is provided by a third party, not us, and is subject to that third party’s terms and conditions and privacy policy.
-  3. **Use of Your Data**
-    1. **Generally.** In general, Personal Data you submit to us is used to provide you the services you request, aid us in serving you better, and to respond to your requests. We use your Personal Data to: 
-      * Facilitate the creation of and secure your Account on our network;
-      * Identify you as a user in our system;
-      * Provide the services and customer support you request;
-      * Improve the quality of experience and provide you a personalized experience when you use the Site.
-      * Send you administrative e-mail notifications, such as security or support and maintenance advisories (the e-mails we send may contain code that enables our database to track your usage of the e-mail, such as whether the e-mail was opened and/or what links (if any) were clicked);
-      * Respond to your inquiries related to employment opportunities or other requests; and
-      * Contact you, including by e-mail, postal mail, or telephone, to market our products and services and also third party products and services we believe may be of interest to you.
-  4. **Disclosure of Your Data**
+When you send us an email, we may use your email address to contact you regarding your comment or to reply to your question. We store your email and our reply in case we need to continue corresponding. When you request information, we use your email address and any other information you give us to provide you with the information related to your request. Recurring communications contain the ability to unsubscribe by using the “unsubscribe” instructions provided within each email. Certain onetime responses may not contain the “unsubscribe” instructions because of their onetime nature.
 
-Except as described below, we do not share your Personal Data with third parties:
+## Community Areas
 
-    * We may share your Personal Data with third party service providers under contract to perform functions on our behalf. Examples include sending postal mail or e-mail, storing data, analyzing data, performing quality assurance, providing technical support, providing marketing assistance, verifying identity, and providing customer service. These third parties may have access to your Personal Data only as needed to perform their functions.
-    * Although we do not anticipate being acquired by another company, in the event of an acquisition, we may share your Personal Data with any companies that acquire our company or our assets. That company will possess the Personal Data collected by us and will assume the rights and obligations regarding your Personal Data as described in this Privacy Policy.
-    * We may share some or all of your Personal Data with subsidiaries, joint ventures, or other companies under common control (collectively, “Affiliates”), in which case we will require our Affiliates to honor this Privacy Policy.
-    * We may disclose your Personal Data if we have a good faith belief that disclosure is necessary to: (1) comply with the law or with legal process served on us; (2) protect and defend the rights or property of us or our users; (3) act in an emergency to protect someone’s safety; or (4) investigate any violation or potential violation of the law, this Privacy Policy, the Agreement, or any other agreements between you and Ruckus.
-  5. **Use and Disclosure of Anonymous Data.** We will have the right to use, and share with third parties, Anonymous Data for any purpose and in any manner. Anonymous Data includes non-personally identifiable data we create from Personal Data by excluding information that makes such data personally identifiable.
-  6. **Use and Disclosure of IP Addresses and Host Names.** We may record the IP address of a visitor to our Site and look up the host name or domain name associated with that IP address. We may pass that host name or domain name to third party partners for use in marketing products and services to the organization or entity associated with that host name or domain name.
-  7. **Your Choices Regarding Your Personal Data**
-    1. **Your Control of the Use of Your Personal Data.** We offer you choices regarding the collection, use, and sharing of your Personal Data. We may periodically send you free newsletters and emails about new services, products, or other noteworthy news. When you receive newsletters or promotional communications from us, you may indicate a preference to stop receiving further communications from us and you will have the opportunity to “opt-out” by following the unsubscribe instructions provided in the email you receive, by changing your Account settings, or by contacting us at partners@ruckuswireless.com. Should you opt-out of receiving future mailings, we may share your email address with third parties to ensure that you do not receive further communications from third parties. Despite your indicated email preferences, we may send you notices of any updates to this Privacy Policy, the Agreement, or other terms for the Site.
-    2. **Changes to Personal Data.** You may change any of your Personal Data or request deletion of your Personal Data by us by contacting us at partners@ruckuswireless.com, but please note that we may be required (by law or otherwise) to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements). When we delete any information, it will be deleted from the active database, but may remain in our archives.
-  8. **Security.** We have commercially reasonable security measures in place to help protect against loss, misuse and alteration of your Personal Data in our possession. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while Ruckus uses reasonable efforts to protect your Personal Data, Ruckus cannot guarantee its absolute security.
-  9. **Contacting Ruckus.** We welcome your comments or questions regarding this Privacy Policy. Please e-mail us at copyright@ruckuswireless.com or contact us at the following address:
+When you post content or use forums, blogs, and our other community features, your name and profile information is available to others. If you post this information, we want you to be aware that other users of these areas or the general public may be able to capture, modify, transmit and generally use this information. We are not responsible for the information you choose to submit to these areas.
 
+## Personal Information
 
+Ruckus only collects personal information that you choose to provide voluntarily. While you can browse our websites without providing personal information, you will need to input certain personal information as indicated on specific pages of our websites in order to take advantage of certain features, such as requesting updates, blogging, requesting assistance or participating in special programs.
+
+“Personal information” includes information that can identify you, such as your name, address, phone number, email address, log-in information and credit/debit card information.
+
+## Cookies
+
+Like many sites, we use “cookies” to help us collect information related to usage data and improve our websites. A cookie is a small data file that is sent to your computer when you visit a website. When you visit the website again, the cookie allows that website to recognize your browser. Cookies may store user preferences and other information. You can reset your browser to block all cookies or to indicate when a cookie is being sent, but this may impact your ability to use some functionality on our websites. If you do not block cookies, you can delete them through standard browser functionality.
+
+## Third Parties
+
+We use a variety of third-party services, such as Google Analytics, Jobvite and Spiceworks, to help improve our websites, host our blogs/forums, process and store data, and to help us understand the use of our websites. These third-party service providers may collect information sent by your browser as part of a website request. We work closely with vendors and partners, many of which have links within the Ruckus website. Please remember that when you use a link to go from the Ruckus website to another website, your interactions with those websites are governed by the privacy policy of the third-party, not this privacy policy.
+
+## Transferring, Processing and Storing Personal Information
+
+Ruckus is a global organization with offices in many countries and our headquarters in the United States. As a result, we may transfer your personal information to the United States, to any Ruckus subsidiary worldwide for the purposes of processing or storage. Your personal information may be transferred and stored outside of your country of residence where data protection standards may be different.
+
+## Business transfers
+
+If Ruckus is involved in a merger, acquisition or asset sale, your personal information, anonymous or aggregated information we collected from or about you, and any other information that we have collected on our websites may be transferred to an acquiring third party as part of our business assets. Also, if any bankruptcy or reorganization proceeding is brought by or against us, all such information may be considered one of our assets and may be sold or transferred to third parties.
+
+## Legal Obligations to Disclose Personal Information
+
+While we do not anticipate such requests, we may be required to share your personal information with third parties if required to do so by law.
+
+## Security
+
+Because the security of your personal information is important to us, we take reasonable steps to protect the information we collect. While we cannot guarantee absolute security of your personal information, we use firewalls and employ many different security techniques to protect against data loss, misuse, alteration and unauthorized access.
+
+## Children
+
+Our websites are not intended for children under the age of 13 and we do not knowingly collect personal information from those children.
+
+## Changes to the Privacy Policy
+
+This privacy policy was posted September 20, 2013. We may change our privacy policy from time to time. We will post any changes on this page.
+
+## Update, Correct, or Delete Your Personal Information
+
+You can access and modify certain personal information stored on our websites, such as your name, phone number, email address, and mailing address, by contacting us via email at [privacypolicy@ruckuswireless.com](mailto:privacypolicy@ruckuswireless.com) or via mail at the address set forth below.
+
+Please note that we may be required (by law or otherwise) to keep this information and not delete it, or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements.
+
+## Contacting Ruckus
+
+We welcome your comments or questions regarding this privacy policy. Please feel free to email us at [privacypolicy@ruckuswireless.com](mailto:privacypolicy@ruckuswireless.com) or write to us at:
 
 Ruckus Wireless, Inc.  
-Attn: Privacy Policy  
 350 West Java Dr.  
-Sunnyvale, CA 94089
+Sunnyvale, CA 94089  
+Attn: Privacy Policy
