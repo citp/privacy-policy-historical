@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the activeactivities.com.au privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221134521id_/http%3A//www.activeactivities.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activeactivities.com.au privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530035057id_/http%3A//www.activeactivities.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Kids Activities - Sports, Games and Activities for Kids | ActiveActivities
 
@@ -66,7 +66,3 @@ While ActiveActivities.com.au takes these actions to protect your privacy, given
 Please help us by notifying us should there be any unauthorised use or access to your account.
 
  **The ActiveActivities Team**
-
-[ ](http://www.activeactivities.com.au/packages)
-
-[](http://www.activeactivities.com.au/directory/members/user_events.php)
