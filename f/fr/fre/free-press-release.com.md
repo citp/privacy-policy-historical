@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-press-release.com privacy policy that was archived on 2013-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131029231022id_/http%3A//www.free-press-release.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-press-release.com privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531020553id_/http%3A//www.free-press-release.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Free-Press-Release.com - Privacy Policy
 
