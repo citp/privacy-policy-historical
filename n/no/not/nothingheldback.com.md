@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nothingheldback.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127005841id_/http%3A//www.nothingheldback.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nothingheldback.com privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531170114id_/http%3A//www.nothingheldback.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Nothing Held BackNothing Held Back
+# Privacy Policy |
 
-Welcome to http://www.nothingheldback.com (the “Site”).We understand that privacy online is important to users of our Site, especially when conducting business.This statement governs our privacy policies with respect to those users of the Site (“Visitors”) who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by Gibble LLC (collectively, “Services”) (“Authorized Customers”).
+Welcome to http://www.nothingheldback.com (the “Site”). We understand that privacy online is important to users of our Site, especially when conducting business.This statement governs our privacy policies with respect to those users of the Site (“Visitors”) who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by Gibble LLC (collectively, “Services”) (“Authorized Customers”).
 
 “Personally Identifiable Information” 
 
