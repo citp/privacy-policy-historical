@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rohde-schwarz.com privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118064904id_/http%3A//www.rohde-schwarz.com/en/general_information/statement-of-privacy_101515.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rohde-schwarz.com privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531020620id_/http%3A//www.rohde-schwarz.com/en/general_information/statement-of-privacy_101515.html) for the most accurate reproduction.*
 
 # Statement of Privacy - Rohde & Schwarz
 
