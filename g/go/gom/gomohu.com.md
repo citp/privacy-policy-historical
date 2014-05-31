@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gomohu.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229050942id_/http%3A//gomohu.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gomohu.com privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531051912id_/http%3A//gomohu.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Mohu
 
