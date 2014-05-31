@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earnspree.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223124832id_/http%3A//www.earnspree.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earnspree.com privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531022437id_/http%3A//www.earnspree.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - EarnSpree.com
 
