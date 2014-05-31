@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluebottlecoffee.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231010812id_/http%3A//www.bluebottlecoffee.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluebottlecoffee.com privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531054837id_/http%3A//www.bluebottlecoffee.com/privacy) for the most accurate reproduction.*
 
 # Blue Bottle Coffee
 
