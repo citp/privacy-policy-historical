@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the globalgoodgroup.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216155353id_/http%3A//globalgoodgroup.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalgoodgroup.com privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531225006id_/http%3A//globalgoodgroup.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy - - GLOBAL GOOD GROUP
+# Privacy Policy - GLOBAL GOOD GROUP - GLOBAL GOOD GROUP
 
 **What information do we collect?** We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey, fill out a form, or other similar items.When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number, credit card information. You may, however, visit our site anonymously.
 
