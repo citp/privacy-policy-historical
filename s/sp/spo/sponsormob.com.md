@@ -1,15 +1,25 @@
-> *The following text is extracted and transformed from the sponsormob.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227183823id_/http%3A//www.sponsormob.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sponsormob.com privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531071544id_/http%3A//www.sponsormob.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Sponsormob
 
-### Cookies
+We are committed to protecting the privacy of internet users. This Privacy Policy explains the underlying purpose and applied procedures of our data collection and processing. We adhere to industry guidelines and applicable laws and will continue to review and improve our procedures to ensure the protection of consumer privacy. We may change our Privacy Policy at any time and recommend you to visit our website on a regular basis in order to have the most recent version.
 
-Sponsormob uses its own proprietary but also third-party technology to serve and measure ads. We and the third party may place or read so-called “cookies” on the user’s client device to recognize users and provide them relevant advertisements about goods and services. If you do not want the benefits of cookies, you may delete and/or block your cookies at any time.
+Personal information is all data that can be referred to a natural person who is alive, including the name, mailing address, email address, phone number, date of birth etc.
 
-### Personal Information
+For security purposes our web servers temporarily record the connection details of incoming requests, the page that you visited and that may have referred you to us, the duration of your visit as well as the characteristics of your internet browser and operating system.
 
-We collect and store non-personal information such as user agents and IP addresses of users in order to optimize advertisements. However, we do not collect or store personally identifiable information such as names, email addresses, or phone numbers of users.
+Our websites may include anonymous analytics software to identify usage patterns. These tools do not collect any personal information. They collect data in an anonymized and aggregated format for statistical purposes and the improvement of our services.
 
-### Information Sharing
+We use our own proprietary technology to serve and measure the delivery of our ads. For that we may place and/or read so-called "cookies” on the device's of internet users under any subdomain of "sponsormob.com”. Both our temporary and persistent cookies do not store any personal information. Anyone may delete and/or block our cookies in their browser at any time.
 
-In the event that we contract with a third party Sponsormob may provide non-personal user information to such third party, or such third party may collect information from users on our behalf. Other than these entities who act on our behalf information user information will not be transferred to unrelated third parties unless we have your permission to do so. However, please note that personal information provided to this site may be subject to disclosure pursuant to judicial or other government subpoenas, warrants or orders.
+Advertisers and publishers having a contractual agreement with Sponsormob have agreed to the collection and processing of certain personal information upon registration. Their personal information is used to provide access to the requested products and services, respond to incoming enquiries, process payments, and any other purpose that they have consented to or which is allowed under applicable law. They are entitled to withdraw their consent to process personal information that they have provided to us at any time. We do not sell any personal information of our business partners.
+
+Mobile Space Limited is the controller of personal information collected through any subdomain of "sponsormob.com”. All privacy-related enquiries should be directed to our external data protection officer:
+
+Rechtsanwalt Andreas Böhm  
+Waldenserstr. 2-4  
+10551 Berlin  
+Germany  
+phone: +49 30 39885386-0  
+fax: +49 30 39885386-1  
+email: info@boehmkanz.de 
