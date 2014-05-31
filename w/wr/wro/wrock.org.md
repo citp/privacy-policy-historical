@@ -1,34 +1,58 @@
-> *The following text is extracted and transformed from the wrock.org privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515081911id_/http%3A//www.wrock.org/privacy-dmca-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrock.org privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531171724id_/http%3A//www.wrock.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy-DMCA Policy | Sharing Latest Tips Tricks and Tutorials
+# Privacy Policy T&C
 
-Privacy Policy for **wRock.org**
+This Privacy Policy governs the manner in which wRock collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.wrock.org website (“Site”). This privacy policy applies to the Site and all products and services offered by wRock.
 
-[](http://www.wrock.org/wp-content/uploads/2011/06/privacy_policy_photo1.jpg)
+### Personal identification information
 
-If you require any more information or have any questions about our privacy policy, delight feel free to contact us by email at **admin@wrock.org**
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, subscribe to the newsletter, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-At **wRock.org** , the privacy of our visitors is of extreme substance to us. This privacy policy document outlines the types of personal information is expected and composed by **wRock.org** and how it is used.
+### Non-personal identification information
 
-Log Files  
-Like many other Web sites, **wRock.org** makes use of log files. The information surrounded by the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and digit of clicks to analyze trends, administer the site, track user’s passage nearly the site, and draw together demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-Cookies and Web Beacons  
-**wRock.org** does use cookies to pile information about visitors preferences, record user-specific information on which pages the user door or visit, make to order Web page make fortunate based on visitors browser type or other information that the visitor sends via their browser.
+### Web browser cookies
 
-These third-have fun ad servers or ad networks use equipment to the advertisements and associations that grow on **wRock.org** send frankly to your browsers. They involuntarily receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-have fun ad networks to rate the effectiveness of their advertisements and / or to personalize the advertising make fortunate that you see.
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
- **wRock.org** has no door to or potential over these cookies that are used by third-have fun advertisers.
+### How we use collected information
 
-You must consult the respective privacy policies of these third-have fun ad servers for more detailed information on their practices as well as for instructions about how to opt-out of fastidious practices. **wRock.org‘s** privacy policy does not apply to, and we cannot potential the actions of, such other advertisers or web sites.
+wRock may collect and use Users personal information for the following purposes:
 
-If you wish to disable cookies, you may do so through your have fun browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+  * **To improve customer service:** _  _Information you provide helps us respond to your customer service requests and support needs more efficiently.
+  * **To personalize user experience:  **We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+  * **To improve our Site:  **We may use feedback you provide to improve our products and services.
+  * **To process payments:  **We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
+  * **To run a promotion, contest, survey or other Site feature:  **To send Users information they agreed to receive about topics we think will be of interest to them.
+  * **To send periodic** _ ** **_ **emails:  **We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
-[](https://web.archive.org/web/20120515081911id_/http%3A//wp-content/uploads/2011/06/dmca.gif)
 
- **This site does not store any files on its server. All contents are provided by non-affiliated third parties.**  
-**If your copyrighted material has been posted on wRock.Org or if hyperlinks to your copyrighted material are returned through our search engine and you want this material removed, you must Contact Us.We will remove that As soon as possible**
 
- **Send the infringement notice via email to** **admin@wrock.org**
+### How we protect your information
 
- **Please allow up to a week for an email response. Note that emailing your complaint to other parties such as our Internet Service Provider will not expedite your request and may result in a delayed response due to the complaint not being filed properly.**
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+
+### Sharing your personal information
+
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
+
+### Google Adsense
+
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+
+### Compliance with children’s online privacy protection act
+
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
+
+### Changes to this privacy policy
+
+wRock has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+### Your acceptance of these terms
+
+By using this Site, you signify your acceptance of this policy and [terms of service](http://www.wrock.org/terms-and-conditions/). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+### Refund Policy
+
+We provide virtual downloadable product as well as free version to test that why we does not have refund policy. Also not if you have any problem or need help then contact us or post on support forum.
