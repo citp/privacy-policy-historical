@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the getholistichealth.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116220754id_/http%3A//www.getholistichealth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getholistichealth.com privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531031614id_/http%3A//www.getholistichealth.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Health and Fitness | Get Holistic Health
-
-### Privacy Policy
 
 **Privacy Policy**
 
@@ -64,6 +62,6 @@ If you have any questions regarding this Policy, or your dealings with our web s
 
 FAIR USE NOTICE:
 
-Many of the articles and posts on this site contain copyrighted material, in which we may not have specifically been authorized to use by the copyright owner.  We believe this constitutes a ‘fair use’ of the copyrighted material as provided for in Section 107 of the US Copyright Law which contains a list of the various purposes for which the reproduction of a particular work may be considered fair, such as criticism, comment, news reporting, teaching, scholarship, and research. If you wish to use such copyrighted material for purposes of your own that go beyond ‘fair use’…you must obtain permission from the copyright owner.
+This site contains copyrighted material the use of which has not always been specifically authorized by the copyright owner. We are making such material available in our efforts to advance understanding of criminal justice, political, human rights, economic, democracy, scientific, and social justice issues, etc. We believe this constitutes a ‘fair use’ of any such copyrighted material as provided for in section 107 of the US Copyright Law. In accordance with Title 17 U.S.C. Section 107, the material on this site is distributed without profit to those who have expressed a prior interest in receiving the included information for research and educational purposes. For more information go to: <http://www.law.cornell.edu/uscode/17/107.shtml>. If you wish to use copyrighted material from this site for purposes of your own that go beyond ‘fair use’, you must obtain permission from the copyright owner.
 
 Paid advertising on Get Holistic Health may not represent the views and opinions of this website and its contributors. No endorsement of products and services advertised is either expressed or implied.
