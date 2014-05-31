@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zooprinting.com privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808211446id_/http%3A//www.zooprinting.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zooprinting.com privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531043640id_/http%3A//www.zooprinting.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Zoo Printing
 
