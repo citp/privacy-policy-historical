@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the efile.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231004506id_/http%3A//www.efile.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efile.com privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531193146id_/http%3A//www.efile.com/privacy-policy) for the most accurate reproduction.*
 
 # efile.com Privacy Policy, Tax Information Security, Tax Law
 
@@ -8,13 +8,13 @@ We provide our Privacy Policy (hereinafter "Policy") to explain our online infor
 
 eFile adheres to applicable law to ensure the security and confidentiality of personal information you share with us. 
 
-##  Covered Web Sites
+## Covered Web Sites
 
 This Policy is applicable to this entire web site, including all areas where financial information is gathered and income tax data is input, printed, and/or transmitted. It does not apply to any other online services, or to any other web sites published and/or maintained by eFile.
 
 This Privacy Policy covers all the online information practices of www.efile.com. Other sites maintained by eFile may operate under their own Privacy and security policies. Third party web sites operate under their own Privacy and security policies.
 
-##  Spam Policy
+## Spam Policy
 
 We at efile.com respect the privacy of your email inbox. We don't like spam and we don't want you to get email from efile.com that you have not anticipated. If you wish to stop receiving email from efile.com, just [tell us directly](https://web.archive.org/tax-service/contact/efile-contact/) and we will stop emailing you. It's that simple.
 
@@ -22,7 +22,7 @@ There's no need to mark the unwanted email as spam, set up a blacklist, or infor
 
 Please [contact us](https://web.archive.org/tax-service/contact/efile-contact/) if you have any questions regarding our spam policy, or about any email you received from us.
 
-##  Internal Controls
+## Internal Controls
 
 When collecting, storing, and retrieving your personal data, extensive internal controls are maintained throughout the process to ensure security and confidentiality.
 
@@ -36,21 +36,21 @@ Tracking technologies may record information such as Internet domain and host na
 
 Our employees are subject to strict guidelines regarding confidentiality, and internal access to customer data is restricted to highly trained personnel on an "as-needed" basis.
 
-##  Transmitting Information
+## Transmitting Information
 
 When transmitting information between you and our server, as well as when communicating with the Internal Revenue Service (IRS) for electronic filing, data security is handled through a protocol called Secure Sockets Layer (SSL). SSL is an established and mature Internet security standard with two dominant features: data encryption and web server authentication.
 
-##  Data Encryption
+## Data Encryption
 
 Data encryption is the process of transforming legible information into a complex arrangement of illegible information. SSL uses a private/public key combination to encrypt data when it is sent and to decrypt data when it is received. SSL encrypts data using a mathematical formula, also referred to as a “key.”
 
 Encryption strength is measured by the length of the key used to encrypt the data; the longer the key, the more effective the encryption. Using the SSL protocol, data transmission between you and our web server is performed at a standard level of encryption strength.
 
-##  Web Server Authentication
+## Web Server Authentication
 
 An SSL certificate is issued to ensure authentic and accurate identification of a secured web server. This translates into a digital ID, an electronic fingerprint, which is included in the key used to encrypt the data. Only our web server, in this case, is able to decrypt the data that you transmit because it is the intended (and digitally certified) secured web server for the applicable data transmission.
 
-##  The Information We Collect
+## The Information We Collect
 
 This Policy applies to all information collected or submitted on our web site. If a credit card is used to pay for the Service, in addition to tax return information, we collect the following credit card and personal information:
 
@@ -79,7 +79,7 @@ We also collect the following information for use in answering your inquiries fo
 
 
 
-##  The Way We Use Information
+## The Way We Use Information
 
 In the normal course of business, and subject to the limitations explained below, your tax return information is used solely for the purpose of allowing you to complete and file your tax return.  The tax return information that we collect is not generally shared with federal, state, or other taxing authorities without your consent. The foregoing notwithstanding, if you choose to electronically file your return, we will transmit your tax return to the appropriate federal and state taxing authorities. The IRS requires us to provide the Internet Protocol (IP) address of the computer from which the return originated, as well as the e-mail address of the person who electronically filed the return. This information is sent to the IRS at the time you choose to submit your return to the IRS for electronic filing.
 
@@ -91,7 +91,7 @@ Our Basic Service entitles you to notification via e-mail of filing deadlines, e
 
 In addition to our Basic Service, we may send to you, via your e-mail address, information and promotional messages about other products and services that we think may be of interest to you. Any sharing of such information is subject to the opt-out option as discussed in the paragraph below.
 
-##  Consent to Use Information
+## Consent to Use Information
 
 By using this web site, you consent to the terms of this Policy.
 
@@ -101,7 +101,7 @@ Your use of this service means that you consent to our limited access and review
 
 In addition, we may provide you with promotional messages. You will have the option to opt-out of receiving such promotional messages. Declining to receive e-mail promotional messages will not affect our ability to deliver our Basic Service to you.
 
-##  Third Party Services 
+## Third Party Services 
 
 For the purpose of providing you with additional information or services, our web site also provides links or references to our other web sites or to third party web sites of online information providers, advertisers, and other business partners. When offering partner services, the partner who will be receiving your information will be clearly identified.
 
@@ -113,19 +113,19 @@ Through a third party partnership with Official Payments Corporation®, you may 
 
 Information entered into the [Tax Calculators](http://www.efile.com/tax-service/tax-calculator/) is used solely to provide you with estimates of various tax situations. The information used in these calculations is not saved.
 
-##  Children Under Thirteen Years of Age
+## Children Under Thirteen Years of Age
 
 Pursuant to the Children's Online Privacy Protection Act of 1998 (COPPA), eFile generally does not knowingly collect personally identifiable information from children under thirteen (13) years of age. eFile only collects information from children under thirteen years of age after receiving verified parental consent prior to collection. Upon notice that eFile has inadvertently collected personally identifiable information from a child under thirteen, we will take all reasonable steps to remove such information from its records as quickly as reasonably possible.
 
-##  Transition of Ownership
+## Transition of Ownership
 
 Were eFile to engage in a business transition, such as a merger, acquisition, or sale, your personally identifiable information may be among the assets transferred. Users will be notified of any ownership transition via prominent notice on the Site at least thirty (30) days before any such change in ownership or control of your personal information is undertaken.
 
-##  Disclosure by Legal Mandate
+## Disclosure by Legal Mandate
 
 eFile reserves the right to disclose your personally identifiable information as required by law and when we believe such disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served through our web site.
 
-##  How to Contact Us
+## How to Contact Us
 
 Should you have other questions or concerns about this Privacy Policy, please submit your questions using our Customer Support Page or one of the methods below.
 
@@ -134,5 +134,3 @@ eFile LLC
 Email: support@efile.com 
 
 Web site: [http://www.efile.com/contact/](http://www.efile.com/tax-service/contact/efile-contact/)
-
-[ ](https://web.archive.org/try-free/)
