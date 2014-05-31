@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exeter.ac.uk privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128000647id_/http%3A//www.exeter.ac.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exeter.ac.uk privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531164533id_/http%3A//www.exeter.ac.uk/privacy) for the most accurate reproduction.*
 
 # Privacy & Cookies - University of Exeter
 
@@ -18,14 +18,12 @@ In common with most websites we automatically log certain information about ever
 
 ### How we use cookies
 
-Cookies are small text files which are placed on your computer’s hard drive to help us monitor the use of our website and provide access to certain features. A cookie does not identify the individual only the computer used, it does not gives us access to your computer. ****
+Cookies are small text files which are placed on your computer’s hard drive to help us monitor the use of our website and provide access to certain features. A cookie does not identify the individual only the computer used, it does not gives us access to your computer.
 
 Cookies enable us to provide you with a better experience of our website. The University uses cookies to track user behaviour, improve and personalise the services we offer (e.g. MyExeter) and remember previous actions (e.g. which items have been placed in an online shopping basket). We do not use cookies which have a high impact on your privacy and will regularly review the use of cookies on our site to protect your privacy. **  
 **
 
 In common with many organisations the University uses [‘Google Analytics’](http://www.google.com/intl/en_uk/analytics/index.html) a web analytics service provided by GoogleInc to enable us to analyse how our website is used. This means that information about use of our website may be transmitted to Google Inc. This information does not enable you to be identified and is not considered privacy intrusive. Users of the most popular web browsers can install a browser add-on which prevents information being transferred to Google, see: <http://tools.google.com/dlpage/gaoptout>.
-
-The University uses a number of hosted web services. These include a service provided by Hobsons Plc (Hobsons) to collect and process applications to our Postgraduate programmes via our ‘[Apply online](https://app.hobsons.co.uk/AYApplicantLogin/ApplicantConnectLogin.asp?id=Exeter)’ pages. A list of the Cookies used by Hobsons for the processing of information on these pages can be found here [http://www.hobsons.com/europe/cookies.php](http://apps.go.hobsons.com/e/er?utm_campaign=EU%20MKTG%20050812%20EU%20Cookies%20Compliance%20Notification&utm_medium=email&utm_source=Eloqua&s=2203&lid=830&elq=f4d0cc9b32934923b13d4fd0b27793e1)
 
 You can change the settings in your browser to refuse cookies. However in doing so you may be unable to access certain feature of our website. You can also delete cookies using the tools in your browser. For more information about cookies please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/)
 
