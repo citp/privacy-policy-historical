@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appsumo.com privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129105058id_/http%3A//www.appsumo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appsumo.com privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531235559id_/http%3A//www.appsumo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -83,8 +83,8 @@ Notice of Privacy Rights to California Residents. California law requires that w
 
 Corporate Address  
 Sumo Group Inc. (d/b/a "AppSumo")  
-522 East 6th Street  
-Austin, TX 78701  
+1305 E. 6th St #3  
+Austin, TX 78702  
 415 886 7886
 
 For Customers  
