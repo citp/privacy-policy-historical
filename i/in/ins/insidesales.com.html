@@ -1,16 +1,36 @@
-<!--The following is the downloaded HTML source of the insidesales.com privacy policy that was archived on 2013-11-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131106180313id_/http%3A//www.insidesales.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the insidesales.com privacy policy that was archived on 2014-05-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140531222238id_/http%3A//www.insidesales.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+
+<!--=============================================
+===========  CSS  ===========
+==============================================-->
+
+<!--[if IE 8]>
+	<link rel="stylesheet" type="text/css" href="http://insidesales.com/ie.css">
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="/staticindexcss.css">
+
+<!--=============================================
+===================  END CSS  ===================
+==============================================-->
+
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="google-site-verification" content="zMk2n2tO6DJtxXbWk7_q91QHgfUcV6jd8C3y5dMjfBw">
 <meta name="google-site-verification" content="ETayHrCj8SQxezB7GYne-WjIRlMjYPJ-ZJl8nNJZOjU">
 <meta name="google-site-verification" content="HRw0pR8vp8_xa2Cj3jyoOYoCNcvMRmDj1jGGpohVKTw">
 <meta name="google-site-verification" content="YpJCBLLcBXQfMlvke35OcBvwYgIGzaFMLfdN1gSLjmg">
 <meta property="twitter:account_id" content="393792249">
+
+<meta property="og:title" content="InsideSales.com Sales Acceleration Technology">
+<meta property="og:description" content="InsideSales.com provides the leading sales acceleration platform with phone dialer software. Contact, qualify and close faster than ever.">
+<meta property="og:image" content="http://static.insidesales.com/assets/images/insidesales-com-og-logo.jpg">
+
 <!--=============================================
 =============  INSERT JAVASCRIPT  ===============
 ==============================================-->
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css">
 
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="JavaScript" type="text/javascript" src="/javascript/validate.js"></script>
 <script language="JavaScript" type="text/javascript" src="/js/track.js"></script>
@@ -24,9 +44,10 @@
 
 <!--script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script-->
 
-<script language="JavaScript" type="text/javascript" src="/1.7.1.jquery.min.js"></script>
+<!--<script language="JavaScript" type="text/javascript" src="/1.7.1.jquery.min.js"></script>-->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 <!--<script language="JavaScript" type="text/javascript" src="/jquery-1.9.0.min.js"></script>-->
-<script language="JavaScript" type="text/javascript" src="/search-center.js"></script>
+<!--<script language="JavaScript" type="text/javascript" src="/search-center.js"></script>-->
 <script language="JavaScript" type="text/javascript" src="/javascript/is-analytics.js"></script>
 <script language="JavaScript" type="text/javascript" src="/javascript/is-analytics-settings.js"></script>
 
@@ -469,7 +490,7 @@ $("#popupGray").css({"opacity":"0.5","filter":"alpha(opacity=50)","z-index":"499
                         
 		}
 	}
-
+/*
 	function updateQuoteAndBanner(quoteText, quoteAuthor, quoteImage, quoteImageAlt, bannerImage, bannerText)
 	{
 		if(quoteText != '' && quoteAuthor != '')
@@ -504,7 +525,7 @@ $("#popupGray").css({"opacity":"0.5","filter":"alpha(opacity=50)","z-index":"499
 			document.getElementById('bannerContainer').innerHTML = "<img src=\"" + bannerImage + "\" alt=\"" + bannerText + "\" width=\"765px\" />" ;
 		}
 	}
-
+*/
 function getInboundNumberText()
 {
   number = readCookie('sta800number');
@@ -922,7 +943,11 @@ $(document).ready(function(){
         var form1 = document.getElementsByTagName('form')[0];
   
             if (form1.name == "offer" || "trialPage" || "editPage") {
-                var formSubmitVal = $(form1).attr("onsubmit");
+                if ($(form1).attr("onsubmit")!=null) {
+                    var formSubmitVal = $(form1).attr("onsubmit");
+                } else {
+                    var formSubmitVal = "";
+                }
                 $(form1).removeAttr("onsubmit");
                 $(form1).attr("onsubmit", "formtocookies();" + " " + formSubmitVal);            
              }
@@ -981,50 +1006,12 @@ document.getElementById("email").value = emailemail;
 }
 </script>
 
-<!--=============================================
-===========  NO EXTERNAL STYLESHEETS  ===========
-==============================================-->
-
 <title>InsideSales.com Website Privacy Policy</title>
 <meta name="Description" content="InsideSales.com Website Privacy Policy">
 <meta name="keywords" content="InsideSales.com Page Not Found">
-
-
-<!--[if IE 8]>
-	<link rel="stylesheet" type="text/css" href="http://insidesales.com/ie.css">
-<![endif]-->
-<link rel="stylesheet" type="text/css" href="/staticindexcss.css">
 <style>
-
-    div#socialFollow {
-        /* left: -122px; */
-        /*left: -297px;*/
-        left: 60px;
-        /*margin: 0 auto 0 50%;*/
-        margin: 0 auto;
-        overflow: hidden;
-        /* padding: 20px 0; */
-        padding: 40px 0 10px 0;
-        position: relative;
-        text-align: center;
-        width: 500px;
-    }
-
-    div.socialFollowButton {
-        margin-bottom:8px;
-        float: left;
-        margin-right: 8px;
-    
-    }
-
+.copyrightPatentsContainer {width:32%;}
 </style>
-
-<!--=============================================
-===================  END CSS  ===================
-==============================================-->
-
-
-
 <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 <body class="is" onload="EmailPrePop();">
 <!-- Facebook remarketing code -->
@@ -1077,401 +1064,270 @@ window.onload = function(){
 
 <div id="dropShadow">
 	<div id="mainContent">
-		<div id="headerContainer">
-			<div id="isLogo">
-				<a style="" href="http://www.insidesales.com/">
-					<img src="/images/insidesales.com-logo-mark-2013.png" alt="InsideSales.com">
-				</a>
-
-				<div id="contactUsContainer">
-				</div>
-
-
-			</div>
-			<div id="number_container_1">877.798.9662
-			</div>
-			<div id="blogLoginContainer">
-
-
-				<a href="/pricing.php" class="link_header">pricing</a>&nbsp;|&nbsp;<a href="/insider" class="link_header">blog</a>&nbsp;|&nbsp;<a href="/login.php" class="link_header">login</a>
-
-
-			</div>
-		</div>  <!--End headerContainer-->
-		<div id="navBarContainer">
-			<span style="text-transform:none;">
-				
-				<script>
-
-					if('Products' == 'Homepage')
-					{
-						document.write('<a href=\'/lead_response\' class="homepage">Products</a> &nbsp;|&nbsp;');
-					}
-					else
-					{
-						if('Products' == 'Products')
-						{
-							document.write('<a href=\'/lead_response\' class="selected">Products</a> &nbsp;|&nbsp;');
-						}
-						else
-						{
-							document.write('<a href=\'/lead_response\' class=\'navigation\'>Products</a> &nbsp;|&nbsp;');
-						}
-					}
-isSplitTest = 0;
-
-if(isSplitTest == 1)
-{
-
-if('Products' == 'About Us')
-{
-  if('Products' == 'Homepage')
-  {
-    document.write('&nbsp;|&nbsp;&nbsp;<a href=\'/free_trial.php\' class="homepage">Free Trial</a>');
-  }
-  else
-  {
-    if('Products' == 'Free Trial')
-    {
-      document.write('&nbsp;|&nbsp;&nbsp;<a href=\'/free_trial.php\' class="selected">Free Trial</a>');
-    }
-    else
-    {
-      document.write('&nbsp;|&nbsp;&nbsp;<a href=\'/free_trial.php\' class=\'navigation\'>Free Trial</a>');
-    }
-  }
+		
+		<style>
+body, h1, h2, h3, h4, h5, h6, p, li, div, input, a {
+    font-family: "Open Sans", Arial, sans-serif;
+    font-weight: 300;
+    color: #3e4546;
+    line-height: normal;
 }
+#middleColumnContent {
+    font-size: 15px;
+    font-weight: 300;
+}
+#middleColumnContent .featureText, #middleColumnContent p {
+    font-size: 15px;
+    line-height: normal;
+    font-weight: 300;
+    color: #3e4546;
+}
+#middleColumnContent .featureTitle {
+    font-size: 15px;
+    line-height: normal;
+    color: #3e4546;
+}
+#ProductTextContainer .productTitle, .productTitle a, .featureTitle a {
+    font-size: 15px;
+    line-height: normal;
+    font-weight: bold;
+    color: #3e4546;
+}
+#ProductTextContainer .productText {
+    font-size: 15px;
+    line-height: normal;
+    color: #3e4546;
+    font-weight: 300;
 }
 
-
-				</script><a href="/lead_response" class="selected">Products</a> &nbsp;|&nbsp;
-
-			
-				<script>
-
-					if('Products' == 'Homepage')
-					{
-						document.write('<a href=\'/services\' class="homepage">Services</a> &nbsp;|&nbsp;');
-					}
-					else
-					{
-						if('Products' == 'Services')
-						{
-							document.write('<a href=\'/services\' class="selected">Services</a> &nbsp;|&nbsp;');
-						}
-						else
-						{
-							document.write('<a href=\'/services\' class=\'navigation\'>Services</a> &nbsp;|&nbsp;');
-						}
-					}
-isSplitTest = 0;
-
-if(isSplitTest == 1)
-{
-
-if('Services' == 'About Us')
-{
-  if('Products' == 'Homepage')
-  {
-    document.write('&nbsp;|&nbsp;&nbsp;<a href=\'/free_trial.php\' class="homepage">Free Trial</a>');
-  }
-  else
-  {
-    if('Products' == 'Free Trial')
-    {
-      document.write('&nbsp;|&nbsp;&nbsp;<a href=\'/free_trial.php\' class="selected">Free Trial</a>');
-    }
-    else
-    {
-      document.write('&nbsp;|&nbsp;&nbsp;<a href=\'/free_trial.php\' class=\'navigation\'>Free Trial</a>');
-    }
-  }
+h1, #middleColumnContent h1 {
+    font-size: 40px; 
+    line-height: 46.8px;
+    color: #3e4546;
+    margin-bottom: 0;
 }
+h2, #middleColumnContent h2 {
+    font-size: 30px; 
+    line-height: normal;
 }
-
-
-				</script><a href="/services" class="navigation">Services</a> &nbsp;|&nbsp;
-
-			
-				<script>
-
-					if('Products' == 'Homepage')
-					{
-						document.write('<a href=\'/resources\' class="homepage">Resources</a> &nbsp;|&nbsp;');
-					}
-					else
-					{
-						if('Products' == 'Resources')
-						{
-							document.write('<a href=\'/resources\' class="selected">Resources</a> &nbsp;|&nbsp;');
-						}
-						else
-						{
-							document.write('<a href=\'/resources\' class=\'navigation\'>Resources</a> &nbsp;|&nbsp;');
-						}
-					}
-isSplitTest = 0;
-
-if(isSplitTest == 1)
-{
-
-if('Resources' == 'About Us')
-{
-  if('Products' == 'Homepage')
-  {
-    document.write('&nbsp;|&nbsp;&nbsp;<a href=\'/free_trial.php\' class="homepage">Free Trial</a>');
-  }
-  else
-  {
-    if('Products' == 'Free Trial')
-    {
-      document.write('&nbsp;|&nbsp;&nbsp;<a href=\'/free_trial.php\' class="selected">Free Trial</a>');
-    }
-    else
-    {
-      document.write('&nbsp;|&nbsp;&nbsp;<a href=\'/free_trial.php\' class=\'navigation\'>Free Trial</a>');
-    }
-  }
+h3 {
+    font-size: 20px;   
+    line-height: normal;
 }
+h4 {
+    font-size: 15px; 
+    line-height: normal;
+}
+h5 {
+
+}
+h6 {
+    font-size: 16px;
+    line-height: normal;
+}
+a, #middleColumnContent a {
+    color: #07a2bd;
+    text-decoration: none;
+}
+a:hover, #middleColumnContent a:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+.new-button {
+letter-spacing: normal;
+word-spacing: normal;
+display: inline-block;
+zoom: 1;
+line-height: normal;
+white-space: nowrap;
+vertical-align: baseline;
+text-align: center;
+cursor: pointer;
+-webkit-user-drag: none;
+-webkit-user-select: none;
+transition: .1s linear box-shadow;
+text-decoration: none;
+border: 0 rgba(0,0,0,0);
+box-shadow: 0em 3.75px 1.875px rgba(0, 0, 0, 0.2);
+border-radius: 3.75px;
+font-weight: 400;
+padding: 3.3px 0 6px 0;
+font-size: 15px;
+/*width: 160.5px;*/
+width: 174px;
+margin-bottom: 15px;
+}
+.new-button:hover {
+    box-shadow: 0 2.7px 1.875px rgba(0, 0, 0, 0.2);
+    text-decoration: none;
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00000000', endColorstr='#1a000000', GradientType=0);
+background-image: -webkit-gradient(linear,0 0,0 100%,from(transparent),color-stop(40%,rgba(0,0,0,.05)),to(rgba(0,0,0,.1)));
+background-image: -webkit-linear-gradient(transparent,rgba(0,0,0,.05) 40%,rgba(0,0,0,.1));
+background-image: -moz-linear-gradient(top,rgba(0,0,0,.05) 0,rgba(0,0,0,.1));
+background-image: -ms-linear-gradient(transparent,rgba(0,0,0,.05) 40%,rgba(0,0,0,.1));
+background-image: -o-linear-gradient(transparent,rgba(0,0,0,.05) 40%,rgba(0,0,0,.1));
+background-image: linear-gradient(transparent,rgba(0,0,0,.05) 40%,rgba(0,0,0,.1));
+}
+.new-red-button {
+    background-color: #e8310e;
+    color: #ffffff;
+}
+.new-blue-button {
+    color: #ffffff;
+    background: #06b5d3;
 }
 
-
-				</script><a href="/resources" class="navigation">Resources</a> &nbsp;|&nbsp;
-
-			
-				<script>
-
-					if('Products' == 'Homepage')
-					{
-						document.write('<a href=\'/customers\' class="homepage">Customers</a> &nbsp;|&nbsp;');
-					}
-					else
-					{
-						if('Products' == 'Customers')
-						{
-							document.write('<a href=\'/customers\' class="selected">Customers</a> &nbsp;|&nbsp;');
-						}
-						else
-						{
-							document.write('<a href=\'/customers\' class=\'navigation\'>Customers</a> &nbsp;|&nbsp;');
-						}
-					}
-isSplitTest = 0;
-
-if(isSplitTest == 1)
-{
-
-if('Customers' == 'About Us')
-{
-  if('Products' == 'Homepage')
-  {
-    document.write('&nbsp;|&nbsp;&nbsp;<a href=\'/free_trial.php\' class="homepage">Free Trial</a>');
-  }
-  else
-  {
-    if('Products' == 'Free Trial')
-    {
-      document.write('&nbsp;|&nbsp;&nbsp;<a href=\'/free_trial.php\' class="selected">Free Trial</a>');
-    }
-    else
-    {
-      document.write('&nbsp;|&nbsp;&nbsp;<a href=\'/free_trial.php\' class=\'navigation\'>Free Trial</a>');
-    }
-  }
+body {background-color: #ededed;}
+#dropShadow{
+    background-image:none!important;
+/*    box-shadow: .125em 0em .5em 0em rgba(0, 0, 0, 0.2), -.125em 0em .5em 0em rgba(0, 0, 0, 0.2);*/
+    box-shadow: 1.875px 0em 7.5px 0em rgba(0, 0, 0, 0.2), -1.875px 0em 7.5px 0em rgba(0, 0, 0, 0.2);
+    width: 940px;
 }
+.is #bottomDropShadow{
+    background:none!important;
+    /*border-bottom:3px solid #ddd!important;*/
+    border-bottom: 0;
 }
-
-
-				</script><a href="/customers" class="navigation">Customers</a> &nbsp;|&nbsp;
-
-			
-				<script>
-
-					if('Products' == 'Homepage')
-					{
-						document.write('<a href=\'/events\' class="homepage">Events</a> &nbsp;|&nbsp;');
-					}
-					else
-					{
-						if('Products' == 'Events')
-						{
-							document.write('<a href=\'/events\' class="selected">Events</a> &nbsp;|&nbsp;');
-						}
-						else
-						{
-							document.write('<a href=\'/events\' class=\'navigation\'>Events</a> &nbsp;|&nbsp;');
-						}
-					}
-isSplitTest = 0;
-
-if(isSplitTest == 1)
-{
-
-if('Events' == 'About Us')
-{
-  if('Products' == 'Homepage')
-  {
-    document.write('&nbsp;|&nbsp;&nbsp;<a href=\'/free_trial.php\' class="homepage">Free Trial</a>');
-  }
-  else
-  {
-    if('Products' == 'Free Trial')
-    {
-      document.write('&nbsp;|&nbsp;&nbsp;<a href=\'/free_trial.php\' class="selected">Free Trial</a>');
-    }
-    else
-    {
-      document.write('&nbsp;|&nbsp;&nbsp;<a href=\'/free_trial.php\' class=\'navigation\'>Free Trial</a>');
-    }
-  }
+#b-d2 {display:none;}
+/*
+#navBarContainer-new{
+padding:0px;
+text-align:left;
+background-color:#EFEEED;
+color:#636466;
+line-height:26px;
+font-size:14px;
+position: absolute;
+top: 87px;
+width: 100%;
+-webkit-box-shadow: 0px 4px 2px 0px rgba(0, 0, 0, 0.2);
+-moz-box-shadow: 0px 4px 2px 0px rgba(0,0,0,0.2);
+box-shadow: 0px 4px 2px 0px rgba(0, 0, 0, 0.2);
 }
+#navBarContainer-new .new-menu-list {width: 938px;margin: 0 auto;}
+#navBarContainer-new a {
+font-family: Open Sans, Arial, sans-serif;
+font-size: 11px;
+letter-spacing: .05em;
+text-decoration: none;
+color:#636466!important;
+}
+a {color: #0089D7;}
+.is #navBarContainer-new .selected, .is #navBarContainer a {color:#636466!important;}
+.is #isLogo {left:-22px!important;}
+#navBarContainer{display:none;}
+#headerContainer {margin-bottom: 33px;}
+#navboxColor{display:none;}
+#number_container_1 {
+left: 772px!important;
+color: #008ddb!important;
+font-family: Open Sans, Arial, sans-serif;
+font-weight:300!important;
+text-align: right!important;
+display:block!important;
+}
+*/
+
+/* END Site-wide Backwards Compatible Styles */
+
+.phone-number {display:inline-block; color:white}
+.phone-number a {display:inline-block; color:white}
+.home-logo-img {float:left;}
+.new-gray-nav {background-color:#434b4d;}
+a.navigation-link {color: white; margin: 0 12px; font-size: 14px;}
+.desktop-nav-links{float: right; margin: 10px 11px; font-size: 16px;}
+#desktop-main-nav, #desktop-floated-main-nav, #mobile-main-nav {height: 47px;}
+#desktop-main-nav img, #desktop-floated-main-nav img, #mobile-main-nav img {margin: 10px 11px;}
+#number_container_1, #number_container_3 {margin-left: 23px;}
+#number_container_1 {
+    display: inline-block;
+    position: static;
+    font-size: 15px;
+    width: auto;
+    left: auto;
+    top: auto;
+    color: #ffffff;
+    font-weight: 300;
+    font-family: 'Open Sans', Arial, sans-serif;
+}
+#navMobileIcon.mobile-nav-x {font-size: 2em; margin-top: 0px; margin-bottom:0; font-weight:700;}
+
+#desktop-floated-main-nav {
+opacity: 0;
+position: fixed;
+display: block;
+width: 100%;
+max-width: inherit;
+z-index: 1;
+-webkit-box-shadow: 0px 2px 10px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 2px 10px 0px rgba(0,0,0,0.75);
+box-shadow: 0px 2px 10px 0px rgba(0,0,0,0.75);
+}
+#collapseContent1 {
+display:none;
+-webkit-box-shadow: inset 0px 2px 10px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: inset 0px 2px 10px 0px rgba(0,0,0,0.75);
+box-shadow: inset 0px 2px 10px 0px rgba(0,0,0,0.75);
+}
+#collapseContent1 ul {
+text-align: center;
+font-size: 1.2em;
+padding-bottom: 1em;
+padding-top: .8em;
+}
+#collapseContent1 li {
+padding: .45em;
+}
+.copyrightPatentsContainer {display:none;}
+#navMobileIcon {float: right; margin: 7px 11px; color: white; font-size:1.35em; cursor:pointer;}
+
+#collapseContent1 li.secondary-nav-link {padding:0em;}
+
+#desktop-floated-main-nav.desktop-floated-nav {position: fixed;
+position: fixed;
+z-index: 5;
+width: 100%;
+top: 0;
+transition: top 0.5s ease;
+opacity: 1;
+visibility: visible;
+top: 0;
+}
+#desktop-floated-main-nav.hidden-floated-nav {
+top: -47px;
+transition: top 0.5s ease, opacity .5s ease;
+opacity: 0;
 }
 
 
-				</script><a href="/events" class="navigation">Events</a> &nbsp;|&nbsp;
-
-			
-				<script>
-
-					if('Products' == 'Homepage')
-					{
-						document.write('<a href=\'/partners\' class="homepage">Partners</a> &nbsp;|&nbsp;');
-					}
-					else
-					{
-						if('Products' == 'Partners')
-						{
-							document.write('<a href=\'/partners\' class="selected">Partners</a> &nbsp;|&nbsp;');
-						}
-						else
-						{
-							document.write('<a href=\'/partners\' class=\'navigation\'>Partners</a> &nbsp;|&nbsp;');
-						}
-					}
-isSplitTest = 0;
-
-if(isSplitTest == 1)
-{
-
-if('Partners' == 'About Us')
-{
-  if('Products' == 'Homepage')
-  {
-    document.write('&nbsp;|&nbsp;&nbsp;<a href=\'/free_trial.php\' class="homepage">Free Trial</a>');
-  }
-  else
-  {
-    if('Products' == 'Free Trial')
-    {
-      document.write('&nbsp;|&nbsp;&nbsp;<a href=\'/free_trial.php\' class="selected">Free Trial</a>');
+@media only screen and (max-width:50.99em) {
+    #desktop-main-nav {display:none;}
+    #mobile-main-nav {position:fixed; z-index:5; width: 100%;-webkit-box-shadow: 0px 8px 20px -10px rgba(0,0,0,0.75);
+-moz-box-shadow: inset 0px 8px 20px -10px rgba(0,0,0,0.75);
+box-shadow: 0px 8px 20px -10px rgba(0,0,0,0.75);
     }
-    else
-    {
-      document.write('&nbsp;|&nbsp;&nbsp;<a href=\'/free_trial.php\' class=\'navigation\'>Free Trial</a>');
-    }
-  }
+    .desktop-nav-links {display:none;}
 }
+@media only screen and (min-width:51em) {
+    #mobile-main-nav {display:none;}
+    #desktop-floated-main-nav.desktop-floated-nav {max-width: inherit;}
 }
 
-
-				</script><a href="/partners" class="navigation">Partners</a> &nbsp;|&nbsp;
-
-			
-				<script>
-
-					if('Products' == 'Homepage')
-					{
-						document.write('<a href=\'/careers\' class="homepage">Careers</a> &nbsp;|&nbsp;');
-					}
-					else
-					{
-						if('Products' == 'Careers')
-						{
-							document.write('<a href=\'/careers\' class="selected">Careers</a> &nbsp;|&nbsp;');
-						}
-						else
-						{
-							document.write('<a href=\'/careers\' class=\'navigation\'>Careers</a> &nbsp;|&nbsp;');
-						}
-					}
-isSplitTest = 0;
-
-if(isSplitTest == 1)
-{
-
-if('Careers' == 'About Us')
-{
-  if('Products' == 'Homepage')
-  {
-    document.write('&nbsp;|&nbsp;&nbsp;<a href=\'/free_trial.php\' class="homepage">Free Trial</a>');
-  }
-  else
-  {
-    if('Products' == 'Free Trial')
-    {
-      document.write('&nbsp;|&nbsp;&nbsp;<a href=\'/free_trial.php\' class="selected">Free Trial</a>');
-    }
-    else
-    {
-      document.write('&nbsp;|&nbsp;&nbsp;<a href=\'/free_trial.php\' class=\'navigation\'>Free Trial</a>');
-    }
-  }
-}
-}
-
-
-				</script><a href="/careers" class="navigation">Careers</a> &nbsp;|&nbsp;
-
-			
-				<script>
-
-					if('Products' == 'Homepage')
-					{
-						document.write('<a href=\'/about_us.php\' class="homepage">About Us</a> ');
-					}
-					else
-					{
-						if('Products' == 'About Us')
-						{
-							document.write('<a href=\'/about_us.php\' class="selected">About Us</a> ');
-						}
-						else
-						{
-							document.write('<a href=\'/about_us.php\' class=\'navigation\'>About Us</a> ');
-						}
-					}
-isSplitTest = 0;
-
-if(isSplitTest == 1)
-{
-
-if('About Us' == 'About Us')
-{
-  if('Products' == 'Homepage')
-  {
-    document.write('&nbsp;|&nbsp;&nbsp;<a href=\'/free_trial.php\' class="homepage">Free Trial</a>');
-  }
-  else
-  {
-    if('Products' == 'Free Trial')
-    {
-      document.write('&nbsp;|&nbsp;&nbsp;<a href=\'/free_trial.php\' class="selected">Free Trial</a>');
-    }
-    else
-    {
-      document.write('&nbsp;|&nbsp;&nbsp;<a href=\'/free_trial.php\' class=\'navigation\'>Free Trial</a>');
-    }
-  }
-}
-}
-
-
-				</script><a href="/about_us.php" class="navigation">About Us</a> 
-
-			
-
-			</span>
-		</div>
+</style>
+<div id="desktop-main-nav" class="new-gray-nav">
+    <a class="home-logo-img" href="http://www.insidesales.com/">
+        <img src="http://static.insidesales.com/assets/images/home-logo-2014.png" alt="InsideSales.com">
+    </a>
+    <div class="desktop-nav-links">
+        <a href="/products" class="navigation-link">Products</a>
+        <a href="/services" class="navigation-link">Services</a>
+        <a href="/resources" class="navigation-link">Resources</a>
+        <a href="/about_us.php" class="navigation-link">About Us</a>
+        <a href="/login.php" class="navigation-link">Log In</a>
+        <div id="number_container_1" class="phone-number numberContainer">(866) 342-5370</div>
+    </div>
+</div>
 		<!--
 		<div id="breadCrumbContainer">
 
@@ -2254,23 +2110,7 @@ personal data we process on behalf of our customers for as long as needed to
 provide services and as necessary to comply with our legal obligations, resolve
 disputes, and enforce our agreements.<o:p></o:p></span></p>
 
-<p class="MsoNormal"><b><u><o:p><span style="text-decoration:none">&nbsp;</span></o:p></u></b></p>
 
-<p class="MsoNormal"><b><u><o:p><span style="text-decoration:none">&nbsp;</span></o:p></u></b></p>
-
-<p class="MsoNormal"><b><u><o:p><span style="text-decoration:none">&nbsp;</span></o:p></u></b></p>
-
-<p class="MsoNormal"><b><u><o:p><span style="text-decoration:none">&nbsp;</span></o:p></u></b></p>
-
-<p class="MsoNormal"><b><u><o:p><span style="text-decoration:none">&nbsp;</span></o:p></u></b></p>
-
-<p class="MsoNormal"><b><u><o:p><span style="text-decoration:none">&nbsp;</span></o:p></u></b></p>
-
-<p class="MsoNormal"><b><u><o:p><span style="text-decoration:none">&nbsp;</span></o:p></u></b></p>
-
-<p class="MsoNormal"><b><u><o:p><span style="text-decoration:none">&nbsp;</span></o:p></u></b></p>
-
-<p class="MsoNormal"><a name="terms"></a><o:p>&nbsp;</o:p></p>
 
 </div>
 
@@ -2296,40 +2136,97 @@ disputes, and enforce our agreements.<o:p></o:p></span></p>
 <!--End rightColumnContent-->
 </div>
     </div>
-</div><style type="text/css">
-
-#homeTrustSymbols {
-	width:900px;
-	margin:20px auto;
+</div><style>.copyrightPatentsContainer{width: 436px;}
+div#socialFollow {
+margin: 0;
+overflow: hidden;
+padding: 30px 0;
+text-align: center;
+float: right;
+left: -319px;
+top: -1px;
+position: relative;
 }
-
-#homeTrustSymbols ul {
-	margin:0;
-	padding:0;
+.copyrightPatentsContainer {
+float: left;
+clear: left;
+position: relative;
+left: 320px;
 }
-
+#copyrightPatents {
+text-align: left;
+clear: both;
+font-family: Open Sans, Arial, sans-serif;
+font-weight: normal;
+font-size: 10px;
+line-height: 18px;
+margin-right: 40px;
+margin-top: 0px;
+}
+div.socialFollowButton {
+margin-bottom: 8px;
+float: left;
+margin-right: 8px;
+}
 #homeTrustSymbols li {
-	list-style:none;
-	float:left;
-	width: 100px;
-	height: 72px;
-	background: url("images/homepage-trust-symbols.png");
-	background-position-y: top;
+list-style: none;
+float: left;
+width: 100px;
+height: 72px;
+background: url("/images/homepage-trust-symbols.png");
+background-position-y: top;
 }
-<!--LOWER FOOTER-->
-
-#footercontainer2 ul
-{	
-	list-style-type:none;
+#homeTrustSymbols ul {
+margin: 0;
+padding: 0;
 }
-
-
-#footercontainer2 li
-{
-	list-style-type:none;
-	font-family:Helvetica, Arial, sans-serif;
-	font-weight:bold;
-	text-decoration:none;
+#homeTrustSymbols {
+width: 900px;
+margin: 20px auto;
+}
+.home-icons-2 {
+width: 100%;
+position: static;
+float: left;
+clear: left;
+margin-top: 30px;
+margin-left: -20px;
+}
+.isv-partner-logo {
+clear: left;
+float: left;
+}
+.trust-symbol-container {
+margin-top: -2px;
+position: relative;
+float: right;
+width: 191px;
+margin-right: -40px;
+}
+.salesforcePartnerIcon {
+height: 44px;
+width: 140px;
+background-image: url('/images/AppExchange-Program-Partner2.png');
+background-repeat: no-repeat;
+background-position: center;
+padding: 8px;
+background-color: #ededed;
+}
+#b-d2 {
+width: 940px;
+margin-left: auto;
+margin-right: auto;
+}
+#b-d2 {
+width: 940px;
+margin-left: auto;
+margin-right: auto;
+}
+.bevel-divider {
+border-top: 1px solid #999;
+border-bottom: 1px solid #DADADA;
+margin: 20px 0;
+width: 100%;
 }
 </style>
     <div id="footercontainer">
@@ -2339,7 +2236,7 @@ disputes, and enforce our agreements.<o:p></o:p></span></p>
             <div id="footernav" style="text-align:left;">
               <left style="text-transform:uppercase;">
                 
-                  <a rel="nofollow" href="/lead_response">Products</a>
+                  <a rel="nofollow" href="/products">Products</a>
                   &nbsp;|&nbsp;
                 
                   <a rel="nofollow" href="/services">Services</a>
@@ -2354,13 +2251,13 @@ disputes, and enforce our agreements.<o:p></o:p></span></p>
                   <a rel="nofollow" href="/events">Events</a>
                   &nbsp;|&nbsp;
                 
-                  <a rel="nofollow" href="/partners">Partners</a>
-                  &nbsp;|&nbsp;
-                
                   <a rel="nofollow" href="/careers">Careers</a>
                   &nbsp;|&nbsp;
                 
                   <a rel="nofollow" href="/about_us.php">About Us</a>
+                  &nbsp;|&nbsp;
+                
+                  <a rel="nofollow" href="/partners">Partners</a>
                   
                 
               </left>
@@ -2432,59 +2329,176 @@ disputes, and enforce our agreements.<o:p></o:p></span></p>
      </div>
     
     <div id="bottomDropShadow"></div>
-    <div id="socialFollow">
-
-<div class="socialFollowButton">
-<!-- Google Plus Follow -->
-    <a target="_blank" href="https://plus.google.com/100054686029847901744/posts">
-        <img src="/images/social-gplus-22.png" alt="">
-    </a>
-</div><!--socialFollowButton-->
-
-<div class="socialFollowButton">
-<!-- LinkedIn Follow -->
-    <a target="_blank" href="http://www.linkedin.com/company/insidesales.com">
-        <img src="/images/social-li-22.png" alt="">
-    </a>
-</div><!--socialFollowButton-->
-
-<div class="socialFollowButton">
-<!-- Facebook Follow -->
-    <a target="_blank" href="https://www.facebook.com/InsideSalesdotcom">
-        <img src="/images/social-fb-22.png" alt="">
-    </a>
-</div><!--socialFollowButton-->
-
-<div class="socialFollowButton">
-<!-- Twitter Follow -->
-    <a target="_blank" href="https://twitter.com/insidesales">
-        <img src="/images/social-t-22.png" alt="">
-    </a>
-</div><!--socialFollowButton-->
-
-
-    <div class="socialFollowButton truste" style="width: 143px; height: 45px; padding: 10px; margin: -22px 0 0 100px;">
-    <div id="9561d897-867e-4736-a8a0-fd416eedaac6"> <script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/InsideSales-com,-Inc-/asc?rid=9561d897-867e-4736-a8a0-fd416eedaac6"></script><a href="//privacy.truste.com/privacy-seal/InsideSales-com,-Inc-/validation?rid=b9af001c-f925-463c-a61b-d27757b16de8" title="Validate TRUSTe privacy certification" target="_blank"><img style="border: none" src="//privacy-policy.truste.com/privacy-seal/InsideSales-com,-Inc-/seal?rid=b9af001c-f925-463c-a61b-d27757b16de8" alt="Validate TRUSTe privacy certification"></a></div>
-    </div>
-
-
-</div><!--socialFollow-->
-
     <!--<div><img src="/images/trust-symbols.png"/></div>-->
     <div class="section clearfix" id="homeTrustSymbols">
-			<a href="/awards.php">
-			<ul class="spriteList clearfix" id="homeTrustSymbols">
-				<li style="background-position:0 0;"></li>
-				<li style="background-position:-100px 0"></li>
-				<li style="background-position:-200px 0"></li>
-				<li style="background-position:-300px 0"></li>
-				<li style="background-position:-400px 0"></li>
-				<li style="background-position:-500px 0"></li>
-				<li style="background-position:-600px 0"></li>
-				<li style="background-position:-700px 0"></li>
-				<li style="background-position:-800px 0"></li>
-			</ul> </a>
+			<a href="/awards.php" style="height:72px">
+			<img src="/images/trust-symbols2.png" alt="InsideSales.com awards">
+                        </a>
+
+
+<div class="home-icons-2">
+  <div class="isv-partner-logo">
+        <div id="salesforcePartnerIcon" class="salesforcePartnerIcon"></div>
+  </div>
+     <div class="trust-symbol-container">
+		<div id="9561d897-867e-4736-a8a0-fd416eedaac6" class="truste" style="
+			width: 143px;
+			height: 45px;
+			float: left;
+			margin-right: 8px;
+		">
+			<script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/InsideSales-com,-Inc-/asc?rid=9561d897-867e-4736-a8a0-fd416eedaac6"></script>
+			<a href="//privacy.truste.com/privacy-seal/InsideSales-com,-Inc-/validation?rid=b9af001c-f925-463c-a61b-d27757b16de8" title="Validate TRUSTe privacy certification" target="_blank"><img style="border: none" src="//privacy-policy.truste.com/privacy-seal/InsideSales-com,-Inc-/seal?rid=b9af001c-f925-463c-a61b-d27757b16de8" alt="Validate TRUSTe privacy certification"></a>
 		</div>
+		<a href="http://www.bbb.org/utah/business-reviews/computer-software-services/insidesalescom-in-provo-ut-22013416#bbblogo" target="_blank" style="border:0;/* width: 150px; */">
+			<div id="bbbIcon">	</div>
+		</a>
+	</div>
+  </div><!-- home-icons-2 -->
+
+
+		</div>
+
+
+<div id="b-d2" class="bevel-divider"></div>
+<div id="socialFollow">
+
+	<div class="socialFollowButton">
+	<!-- Google Plus Follow -->
+		<a target="_blank" href="https://plus.google.com/100054686029847901744/posts">
+			<img src="/images/social-gplus-22.png" alt="">
+		</a>
+	</div>
+
+<!--socialFollowButton-->
+
+	<div class="socialFollowButton">
+	<!-- LinkedIn Follow -->
+		<a target="_blank" href="http://www.linkedin.com/company/insidesales.com">
+			<img src="/images/social-li-22.png" alt="">
+		</a>
+	</div><!--socialFollowButton-->
+
+	<div class="socialFollowButton">
+	<!-- Facebook Follow -->
+		<a target="_blank" href="https://www.facebook.com/InsideSalesdotcom">
+			<img src="/images/social-fb-22.png" alt="">
+		</a>
+	</div><!--socialFollowButton-->
+
+	<div class="socialFollowButton">
+	<!-- Twitter Follow -->
+		<a target="_blank" href="https://twitter.com/insidesales">
+			<img src="/images/social-t-22.png" alt="">
+		</a>
+	</div><!--socialFollowButton-->
+  
+<div class="socialFollowButton">
+	<!-- youtube Follow -->
+		<a target="_blank" href="http://www.youtube.com/channel/UCZMEVlLm5XdRHl11rvO_GjQ">
+			<img src="/images/social-yt-22.png" alt="">
+		</a>
+	</div><div class="socialFollowButton">
+	<!-- vimeo Follow -->
+		<a target="_blank" href="https://vimeo.com/insidesales">
+			<img src="/images/social-vimeo-22.jpg" alt="">
+		</a>
+	</div>
+</div>
+<div class="copyrightPatentsContainer">
+<p id="copyrightPatents" class="copyrightPatents">
+© 2004–2014 InsideSales.com, Inc. all rights reserved. Use of the InsideSales.com service and this Web site constitutes acceptance of our <a href="/terms.php">Terms of Use</a> and <a href="/privacy_policy.php">Privacy Policy</a>. InsideSales.com technology is protected by the following United States Patents:  8078605, 8325738, 8352389, 8510382, 8566419.
+</p>
+</div>
+
+<!--  ACCORDIAN JAVASCRIPT  -->
+<script type="text/javascript">
+    // accordion
+    $(".accordion > li > ul").hide();
+    var openSection;
+    $(".accordion > li").prepend("<img src='http://insidesales.com/images/carrot-right.png' class='carrot' />").click(function() {
+    if(!($(this).hasClass("openSection"))) {
+    $(".openSection > ul").slideUp(500);
+    $(".openSection > img.carrot").attr("src", "http://insidesales.com/images/carrot-right.png");
+    $(".openSection").removeClass("openSection");
+    $("> ul", this).slideDown(500);
+    $(this).addClass("openSection");
+    $("> img.carrot", this).attr("src", "http://insidesales.com/images/carrot-down.png");
+} else {
+    $("> ul", this).slideUp(500);
+    $("> img.carrot", this).attr("src", "http://insidesales.com/images/carrot-right.png");
+    $(".openSection").removeClass("openSection");
+}
+}); 
+</script>
+<!-- END ACCORDIAN JAVASCRIPT -->
+<!-- TRACKING JAVASCRIPT -->
+<script type="text/javascript">
+  IS.init();
+  // trackCustomVars();
+
+  var lead_source = getCookie("Analytics_Source_name");
+    if(lead_source.search(" - ") == -1)
+      var lead_source_category = lead_source;
+    else
+      var lead_source_category = lead_source.substring(0, lead_source.search(" - "));
+</script>  
+
+<!-- tracking for iHance --> 
+ <script type="text/javascript" defer="defer" src="http://www7.insidesales.com/insidesales/tag.js"></script> 
+<!-- end tracking for iHance -->
+
+<!-- Start Lead Generation Reporting -->
+<script type="text/javascript">
+//JBC.trackPageClick('21','','Inside Sales');
+track('/', ['number_container_1','number_container_2','number_container_3','number_container_4','number_container_5'], '4', 'session_id');
+</script>
+<!-- End Lead Generation Reporting -->
+<!-- Start Google Analytics Asynchronous Tracking Code -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-404290-1']);
+  _gaq.push(['_setCustomVar', 4, 'Lead Source', lead_source, 2]);
+  _gaq.push(['_setCustomVar', 5, 'Lead Source Category', lead_source_category, 2]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<!-- End Google Analytics Asynchronous Tracking Code -->
+<!--  GOOGLE CODE FOR REMARKETING TAG setup info: http://google.com/ads/remarketingsetup -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1007341658;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+
+<script>
+var gaciframe = $('iframe[name=google_conversion_frame]');
+gaciframe.attr('height', '0');
+</script>
+
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1007341658/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+<!-- END GOOGLE CODE FOR REMARKETING TAG -->
+<!-- MARKETO TRACKING -->
+<script type="text/javascript">
+document.write(unescape("%3Cscript src='" + document.location.protocol +
+  "//munchkin.marketo.net/munchkin.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://munchkin.marketo.net/munchkin.js" type="text/javascript"></script>
+<script>Munchkin.init('038-GLO-864');</script>
 
 
 <script type="text/javascript">
@@ -2506,163 +2520,6 @@ $("div.close-x").click(function() {
 });
 
 </script>
-
-<div class="copyrightPatentsContainer">
-<p id="copyrightPatents" class="copyrightPatents" style="text-align: center;">
-© 2004   –   2013 InsideSales.com, Inc. all rights reserved. Use of the InsideSales.com service and this Web site constitutes acceptance of our <a href="/terms.php">Terms of Use</a> and <a href="/privacy_policy.php">Privacy Policy</a>. InsideSales.com technology is protected by the following United States Patents:  8078605, 8325738, 8352389, 8510382, 8566419.
-</p>
-</div>
-
-<!--=============================================
-=============  ACCORDIAN JAVASCRIPT  =============
-==============================================-->
-
-<script type="text/javascript">
-    // accordion
-    $(".accordion > li > ul").hide();
-    var openSection;
-    $(".accordion > li").prepend("<img src='http://insidesales.com/images/carrot-right.png' class='carrot' />").click(function() {
-    if(!($(this).hasClass("openSection"))) {
-    $(".openSection > ul").slideUp(500);
-    $(".openSection > img.carrot").attr("src", "http://insidesales.com/images/carrot-right.png");
-    $(".openSection").removeClass("openSection");
-    $("> ul", this).slideDown(500);
-    $(this).addClass("openSection");
-    $("> img.carrot", this).attr("src", "http://insidesales.com/images/carrot-down.png");
-} else {
-    $("> ul", this).slideUp(500);
-    $("> img.carrot", this).attr("src", "http://insidesales.com/images/carrot-right.png");
-    $(".openSection").removeClass("openSection");
-}
-}); 
-</script>
-
-<!--===================END=======================
-=============  ACCORDIAN JAVASCRIPT  =============
-==============================================-->
-
-<!--=============================================
-=============  TRACKING JAVASCRIPT  =============
-==============================================-->
-
-<script type="text/javascript">
-
-  IS.init();
-  // trackCustomVars();
-
-  var lead_source = getCookie("Analytics_Source_name");
-    if(lead_source.search(" - ") == -1)
-      var lead_source_category = lead_source;
-    else
-      var lead_source_category = lead_source.substring(0, lead_source.search(" - "));
-
-</script>   
- 
-<!-- Start Lead Generation Reporting -->
-<script type="text/javascript">
-
-//JBC.trackPageClick('21','','Inside Sales');
-track('/', ['number_container_1','number_container_2'], '1', 'session_id');
-
-</script>
-<!-- End Lead Generation Reporting -->
-
-<!-- Start Google Analytics Asynchronous Tracking Code -->
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-404290-1']);
-  _gaq.push(['_setCustomVar', 4, 'Lead Source', lead_source, 2]);
-  _gaq.push(['_setCustomVar', 5, 'Lead Source Category', lead_source_category, 2]);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
-<!-- End Google Analytics Asynchronous Tracking Code -->
-
-<!--===================END=======================
-=============  TRACKING JAVASCRIPT  =============
-==============================================-->
-
-
-
-<!--=============================================
-=============  MARKETO TRACKING =============
-==============================================-->
-
-<script type="text/javascript">
-document.write(unescape("%3Cscript src='" + document.location.protocol +
-  "//munchkin.marketo.net/munchkin.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://munchkin.marketo.net/munchkin.js" type="text/javascript"></script>
-<script>Munchkin.init('038-GLO-864');</script>
-
-<!--===================END=======================
-=============  MARKETO TRACKING =============
-==============================================-->
-
-<!-- ============================== PHONE NUMBER WEBSITE TEST =================== -->
-<script type="text/javascript">
-var phoneNum;
-var areaCode;
-
-function phoneNumTest() 
-{
-    phoneNum = document.getElementById('number_container_1').innerHTML;
-    areaCode = phoneNum.slice(1,4);
-    
-    if (areaCode == '77.') {
-        setTimeout(phoneNumTest, 0);
-        
-    }
-    
-    if (areaCode == "866") {
-        //if areaCode is 866 make phone number text gray
-        document.getElementById('number_container_1').style.cssText = "display: block; width: 153px; position: absolute; top: 31px; left: 778px; font-size: 16pt; color: #a7a7a7; font-family: helvetica, Arial, sans-serif; font-weight: normal;"; 
-/*
-        document.getElementById('blogLoginContainer').style.cssText = "width: 153px; position: absolute; top: 60px; text-align: right; left: 771px; font-size: 9pt; color: #a7a7a7; font-family: helvetica, Arial, sans-serif; font-weight: normal;";
-*/
-    }
-    
-    else if (areaCode == "877") {
-/*
-         //if areaCode is 877, make phone number text blue
-         document.getElementById('number_container_1').style.cssText = "display: block; width: 153px; position: absolute; top: 31px; left: 778px; font-size: 16pt; color: #589CEB; font-family: helvetica, Arial, sans-serif; font-weight: normal;"; 
-
-        document.getElementById('blogLoginContainer').style.cssText = "width: 153px; position: absolute; top: 60px; text-align: right; left: 771px; font-size: 9pt; color: #a7a7a7; font-family: helvetica, Arial, sans-serif; font-weight: normal;";
-        
-   
-*/
-
-         //if areaCode is 877, make phone number text white with a black background
-         document.getElementById('number_container_1').style.cssText = "display: block; width: 153px; position: absolute; top: 0px; left: 733px; font-size: 16pt; color: #ffffff; font-family: helvetica, Arial, sans-serif; font-weight: normal; background-color: #242424; padding: 10px 27px 11px 27px; border-bottom-left-radius: 13px;"; 
-/*
-        document.getElementById('blogLoginContainer').style.cssText = "width: 153px; position: absolute; top: 60px; text-align: right; left: 771px; font-size: 9pt; color: #a7a7a7; font-family: helvetica, Arial, sans-serif; font-weight: normal;";
-*/        
-    }  
-
-    else {
-         //if areaCode is 888 or any other number, make phone number text black
-         document.getElementById('number_container_1').style.cssText = "display: block; width: 153px; position: absolute; top: 31px; left: 778px; font-size: 16pt; color: #000000; font-family: helvetica, Arial, sans-serif; font-weight: normal;"; 
-/*
-        document.getElementById('blogLoginContainer').style.cssText = "width: 153px; position: absolute; top: 60px; text-align: right; left: 771px; font-size: 9pt; color: #a7a7a7; font-family: helvetica, Arial, sans-serif; font-weight: normal;";
-*/
-    }
-
-}
-
-/*
-$(document).ready(function() {
-    phoneNumTest();
-});
-*/
-
-</script>
-
 
 
 </body></html>
