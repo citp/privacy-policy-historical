@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ticksy.com privacy policy that was archived on 2013-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130903160322id_/https%3A//www.ticksy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticksy.com privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531054634id_/https%3A//www.ticksy.com/privacy-policy) for the most accurate reproduction.*
 
 # Ticksy — Customer Support. Simply.
 
