@@ -1,23 +1,23 @@
-> *The following text is extracted and transformed from the whiteflowerfarm.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223221834id_/http%3A//www.whiteflowerfarm.com/security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whiteflowerfarm.com privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531224950id_/http%3A//www.whiteflowerfarm.com/security.html) for the most accurate reproduction.*
 
 # Online Privacy & Security - White Flower Farm
 
   
 **Your Privacy**
 
-White Flower Farm respects the privacy of every individual who shops via our print or online gardening catalogue. Our privacy policy was updated on April 25, 2012. 
+White Flower Farm respects the privacy of every individual who shops via our print or online gardening catalogue. Our privacy policy was updated on March 24, 2014. 
 
-For our gardening friends who choose to receive our E-mails, rest assured we do not share, rent, or sell your E-mail address to outside companies or agencies. Period. If you would like to opt-out of receiving our E-mails, please [**click here**](http://www.whiteflowerfarm.com/emailunsubscribe.html).
+For our gardening friends who choose to receive our E-mails, rest assured we do not share, rent, or sell your E-mail address to outside companies or agencies. Period.
 
 We are members of the Direct Marketing Association. If you'd rather not receive mailings from other companies we exchange lists with, please E-mail our customer service team at [**custserv@whiteflowerfarm.com**](mailto:custserv@whiteflowerfarm.com). When you request our catalogue online, you are given the opportunity to opt-out of having your postal address shared. 
 
 **Your Personal Information**
 
-We save personally identifiable information only when visitors place an order (when we must save name, address, and credit card information in order to process the order) or request a catalogue (when we use the name and address in order to deliver the catalogue). In order to improve our Web site and identify navigation problems, we save information about how visitors click-through our site, but that information is aggregate and not linked to personally identifiable information.
+We save personally identifiable information when a visitor shares a page (when we seek opt in approval to access social data) or places an order (when we must save name, address, and credit card information in order to process the order) or request a catalog (when we use the name and address in order to deliver the catalog). In order to improve our website and identify navigation problems, we save information about how visitors click-through our site, but that information is aggregate and not linked to personally identifiable information.
 
 **Your Security**
 
-Orders placed through our Web site utilize SSL (secure socket layers) to protect credit card information so it cannot be read in transit. If you do not have a browser that supports SSL or you are not comfortable sending your credit card information online, then you may call (1-800-503-9624), fax (1-860-496-1418), or mail (White Flower Farm, PO Box 50, Litchfield, CT 06759-0050) your order to us.
+Orders placed through our website utilize SSL (secure socket layers) to protect credit card information so it cannot be read in transit. If you do not have a browser that supports SSL or you are not comfortable sending your credit card information online, then you may call (1-800-503-9624), fax (1-860-496-1418), or mail (White Flower Farm, PO Box 50, Litchfield, CT 06759-0050) your order to us.
 
 **Our Use of Web Technologies:**
 
