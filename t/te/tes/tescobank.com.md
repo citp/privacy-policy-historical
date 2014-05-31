@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the tescobank.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207022031id_/http%3A//www.tescobank.com/security/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tescobank.com privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531052901id_/http%3A//www.tescobank.com/security/privacy.html) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy - Tesco Bank
 
-### Privacy
+## Privacy
 
-We are dedicated to protecting your privacy when you visit our website, tescobank.com. The website is owned and operated by Tesco Personal Finance plc, trading as Tesco Bank, part of Tesco plc. This policy, together with our [Site Terms of Use](https://web.archive.org/security/site-terms.html), explains how Tesco Bank may use personal information we collect and hold about you, and your rights over its use. Please read this policy and our [Terms of Use](https://web.archive.org/security/site-terms.html) carefully.
+We are dedicated to protecting your privacy when you visit our website, tescobank.com. The website is owned and operated by Tesco Personal Finance plc, trading as Tesco Bank, part of Tesco plc. This policy, together with our [Site Terms of Use](https://web.archive.org/security/site-terms.html), explains how Tesco Bank may use personal information we collect and hold about you, and your rights over its use. Please read this policy and our [Terms of Use](https://web.archive.org/security/site-terms.html) carefully. If you are a customer of Tesco Bank, notices explaining how we use your information which are tailored to the individual products are included in your customer documentation.
 
 **We may collect information from you when you:**
 
@@ -17,7 +17,7 @@ We are dedicated to protecting your privacy when you visit our website, tescoban
 
 We may supplement the information we collect about you with information we receive from other sources e.g. public registers such as the electoral roll. This allows us to assess the accuracy of the information we hold about you in order to send you relevant offers and information.
 
-#### Using your information
+### Using your information
 
 Collecting your personal information helps Tesco Bank to better understand what you need from us so we can:
 
@@ -28,7 +28,7 @@ Collecting your personal information helps Tesco Bank to better understand what 
   * Tell you about important changes to the website and our services.
   * Understand your shopping behaviour to develop and improve our products and services.
   * Manage promotions, competitions, customer surveys and questionnaires.
-  * Check and verify your identity, and prevent or detect crime. In performing checks your information may be disclosed to credit reference agencies, which may be kept on record. This is not a credit check and your credit rating will be unaffected.
+  * Check and verify your identity, and prevent or detect crime. In performing checks your information may be disclosed to credit reference agencies, which may be kept on record.
 
 
 
@@ -38,11 +38,11 @@ Your personal information is safe with us and will never be released to external
 
 We may use and share anonymous information about you outside the Tesco Group. However, we would like to reassure you that this never includes your personal information.
 
-#### Clubcard information
+### Clubcard information
 
 We access the information recorded through the use of your Clubcard to help us improve our service to you and to make our communications more relevant.
 
-#### Marketing and research
+### Marketing and research
 
 If you agree, we may contact you:
 
@@ -105,24 +105,24 @@ The help function on the menu bar of most browsers will inform you how to stop a
 
 However, because cookies allow you to take advantage of some of the website's essential features they can be left enabled. For example, if you block or otherwise reject cookies you may not be able to use our products, services and other facilities. If you leave cookies turned on, remember to sign off when you finish using a shared computer.
 
-#### Disclosing your information
+### Disclosing your information
 
 Your information will never be disclosed to anyone outside the Tesco Group except where your consent is granted; where we are required or permitted to do so by law; to other companies who provide a service to us; or any successors in title to our business.
 
 Whenever we transfer personal information to countries outside the European Economic Area we will ensure that appropriate security measures are taken.
 
-#### Other websites
+### Other websites
 
 The website may contain links to other sites which are outside our control and not covered by this policy. Operators of these sites may collect information from you that will be used by them in accordance with their policy, which may differ from ours.
 
-#### Accessing your information
+### Accessing your information
 
-Want to obtain a copy of the information held about you? If so, please write to: The Data Protection Officer, Tesco Bank, Broadway One, 199 Renfield Street, Glasgow G2 3AX. We charge £10 to do this. Please confirm your account/policy number and any details to help us identify and locate your information. If any of the details are incorrect, let us know and we'll amend them.
+Want to obtain a copy of the information held about you? If so, please write to: The Data Protection Officer, Tesco Bank, Broadway One, 199 Renfield Street, Glasgow G2 3AX. We charge £10 to do this. Please include a cheque for £10 payable to Tesco Bank. To enable us to quickly process your request and locate your information, please complete our [subject access request application form](https://web.archive.org/assets/sections/security/pdf/tesco-subject-access-request-form.pdf?_=cachebuster2702.pdf) [PDF, 92KB]. Please note that information relating to insurance claims is held by third party insurers or underwriters and you should contact them directly if you wish to request the data they hold. We will respond to your request within 40 days of receiving the request, fee and any details required to locate your information or verify your identity. Please contact us on **0845 071 6152** if you have any questions. If any of the details are incorrect, let us know and we'll amend them.
 
-#### Changes to our policy
+### Changes to our policy
 
-This policy replaces all previous versions and is correct as of May 2012. We reserve the right to change the policy at any time.
+This policy replaces all previous versions and is correct as of February 2014. We reserve the right to change the policy at any time.
 
-#### Contacting us
+### Contacting us
 
 If you have any queries, please [contact us](https://web.archive.org/security/contact.html).
