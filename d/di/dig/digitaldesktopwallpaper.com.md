@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the digitaldesktopwallpaper.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221033418id_/http%3A//www.digitaldesktopwallpaper.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitaldesktopwallpaper.com privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531201723id_/http%3A//www.digitaldesktopwallpaper.com/privacy-policy) for the most accurate reproduction.*
 
-# Digital Desktop Wallpaper - Privacy Policy
-
-## Privacy Policy
+# Privacy Policy - Digital Desktop Wallpaper
 
 We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
 
@@ -24,10 +22,11 @@ We may collect, store and use the following kinds of personal data:
 
 A cookie consists of information sent by a web server to a web browser, and stored by the browser. The information is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser. 
 
-We may use both “session” cookies and “persistent” cookies on this website.    
+We may use both “session” cookies and “persistent” cookies on this website. 
+
 Session cookies will be deleted from your computer when you close your browser.  Persistent cookies will remain stored on your computer until deleted, or until they reach a specified expiry date.
 
-We use Google Analytics to analyse the use of this website.  Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users' computers.  The information generated relating to our website is used to create reports about the use of the website. Google will store this information.  Google's privacy policy is available at: <http://www.google.com/privacypolicy.html>.
+We use Google Analytics to analyse the use of this website.  Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users’ computers.  The information generated relating to our website is used to create reports about the use of the website. Google will store this information.  Google’s privacy policy is available at: <http://www.google.com/privacypolicy.html>.
 
 We use third-party advertising companies to serve ads when you visit this website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
 
@@ -36,7 +35,7 @@ If you would like more information about this practice and to know your choices 
 **Google and the DoubleClick DART cookie**
 
   * Google, as a third party vendor, uses cookies to serve ads on this site. 
-  * Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. 
+  * Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. 
   * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
 
