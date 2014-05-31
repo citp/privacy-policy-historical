@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hellofood.com.ng privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113085300id_/http%3A//www.hellofood.com.ng/contents/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellofood.com.ng privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531061730id_/http%3A//www.hellofood.com.ng/contents/privacy.htm) for the most accurate reproduction.*
 
 # Hellofood - Privacy policy
 
