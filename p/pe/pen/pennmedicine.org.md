@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pennmedicine.org privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221054137id_/http%3A//www.pennmedicine.org/health-system/about/organization/policies/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pennmedicine.org privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531075909id_/http%3A//www.pennmedicine.org/health-system/about/organization/policies/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Statement | About Us | University of Pennsylvania Health System | Penn Medicine
 
