@@ -1,91 +1,77 @@
-> *The following text is extracted and transformed from the gramophone.co.uk privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102203554id_/http%3A//www.gramophone.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gramophone.co.uk privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531181619id_/http%3A//www.gramophone.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Haymarket Media Group Privacy Notice | gramophone.co.uk
+# Privacy Policy | gramophone.co.uk
 
-**_1\. Introduction_**
+## Privacy and Data Protection
 
-Your personal information is being processed by Haymarket Media Group ('Haymarket'). For a full list of our brands and business divisions please visit our [web site](http://www.haymarket.com/brands.aspx). Haymarket respects your privacy and is committed to protecting your personal information. We comply with the principles of the Data Protection Act 1998 and aim to maintain consistently high levels of best practice in our processing of your personal information. This Privacy Notice relates to our use of any personal information you provide to us through the Haymarket network of websites and/or other services provided by Haymarket.
+MA Business & Leisure is committed to protecting and respecting your privacy. 
 
-In order to provide you with the full range of services, we may request and/or record information about you. This privacy notice explains the following:
+This privacy policy sets out the basis on which your personal data will be processed by us as the data controller of your personal data for the purposes of the Data Protection Act 1998 ("the Act"). Please read the following carefully to understand our views and practices regarding your personal data and how they will be treated by us. Information we may collect from you We may collect and process the following data about you:
 
-  * the type of information we collect;
-  * how the information is used;
-  * when we may contact you;
-  * whether we will disclose your details to anyone else; and
-  * the use of cookies.
+•    Information that you provide by filling in forms on the site. This includes information provided at the time of registration or at the time of posting material or requesting further services. We may also ask you for information when you enter a competition or promotion sponsored by MA Business & Leisure or when you report a problem with the site. 
 
+•    If you contact us, we may keep a record of that correspondence. 
 
+•    MA Business & Leisure may also ask you to complete surveys that we use for research purposes although you do not have to respond to them. 
 
-Many Haymarket websites contain hyperlinks to websites owned and operated by third parties. These third party websites have their own privacy notices and we encourage you to review them. We do not accept any responsibility or liability for the privacy practices of such third party websites and your use of such websites is at your own risk.
+•    Details of your visits to the site and the resources that you access. 
 
-**_2\. What type of personal information is collected?_**
+**IP Addresses and Cookies**
 
-When you sign up to participate in or receive a service from any Haymarket website, such as a newsletter, competition, forum we will ask for limited personal information. We will also collect personal information from you when you subscribe to one of our magazines and when you communicate with us over the telephone or via written correspondence. This can include information such as your name, postal address, telephone or mobile number, fax number, email address, gender or date of birth. Different Haymarket websites may ask for different pieces of personal information. By entering your details in the fields requested, you enable Haymarket and its service providers to provide you with the services you select.
+We may collect information about your computer including where available your general location (based on IP address), operating system and browser type for system administration and to report aggregate information to our advertisers. These are anonymised data about our users' browsing actions and patterns and do not identify any individual. 
 
-**_3\. How will the information be used?_**
+For the same reason we may obtain information about your general Internet usage by using cookie files which are stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve our site and to deliver a better and more personalised service. Cookies and the information contained in your IP address enable us: 
 
-Haymarket will use your personal information for a number of non-marketing purposes including the following:
+•    to estimate our audience size and demographic characteristics; 
 
-  1. we may contact you for service related reasons that you have subscribed to, signed up for, or participate in (e.g. to make you aware of any delays in your subscription arriving on time, reminding you of a password or username, or about a comment you have made on a website.);
-  2. to invite you to share your opinions and comments through a research study about the level of service you receive from us;
-  3. to track traffic flows and to make our websites easier for you to use;
-  4. to fulfil subscription orders;
-  5. to provide a user online community; and for
-  6. planning and managing our business activities by understanding aggregated analysis on behaviour and habits;
+•    to monitor usage patterns; 
 
+•    to store information about your preferences and so allow us to customise the Site according to your individual interests; 
 
+•    to speed up your searches; 
 
-We may disclose your personal information to any member of our group which includes our subsidiaries as defined in section 1159 of the Companies Act 2006
+•    to recognise you when you return to the Site. 
 
-**_4\. Will I be contacted for marketing purposes?_**
+You may refuse to accept cookies by activating the setting on your browser, which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of the Site. If you want to find out more about how to disable cookies please see this external third party website: [www.allaboutcookies.org/manage-cookies/ ](http://www.allaboutcookies.org/manage-cookies/%C2%A0)
 
-Yes. Haymarket may use the information you have provided to promote the products and services of Haymarket or others.
+Please note that our advertisers may also use cookies over which we have no control. 
 
-However, be assured that we understand the irritations of unsolicited communications and are fully committed to ensuring the rights and obligations set out in the Data Protection Act 1998 and the Privacy and Electronic Communications Regulations 2003 are respected.
+**Transfer of Personal Data Outside of the EU  **
 
-**If you don’t want it, you won’t get it**.  Any marketing communication you receive will always include a clear, simple option to refuse, or ‘opt-out’ of such future communications. You may also opt-out at ANY time by contacting us (see below).
+The data that we collect from you may be transferred to and stored at a destination outside the European Economic Area where the laws on data protection are not necessarily as strong as they are within the EU. By submitting your personal data you agree to this transfer. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy. 
 
-The Telephone Preference Service (TPS) and the Mailing Preference Service (MPS) offer consumers important statutory and non-statutory protection against unsolicited marketing contact. If you are registered on either service, Haymarket will assume that your _subsequent_ submission of personal data via a Haymarket website or data capture form indicates, for the time being, your consent to receive marketing by us. **You may opt-out at ANY time by contacting us (see below).**
+**Risks Involved in Transmitting Personal Data Over the Internet  **
 
-**_5\. Will Haymarket share my information with anyone else?_**
+Unfortunately, the transmission of information via the Internet is not completely secure. So, while MA Business & Leisure will do its best to protect your personal data, we cannot ensure the security of data transmitted by you to the Site. Any transmission is at your own risk. Once we have received your information we will use security procedures and features to prevent unauthorised access to it. 
 
-Haymarket may disclose your personal data where it believes it is compelled to do so by law; in particular for the prevention or detection of crime, the capture or prosecution of offenders; and the assessment or collection of tax or duty.
+**Uses Made of the Information  **
 
-Occasionally, we may share your contact information with carefully selected third party companies whose products and services we feel may be of interest to you. We will keep these offers relevant to your interests. It's easy to unsubscribe from any email or mobile messages you no longer want. (see below).
+We may use information held about you in the following ways: 
 
-We use a number of third party organisations to help provide a professional service to our customers (i.e. fulfilment bureaus, call centres, and website designers). These organizations act as data processors and are strictly controlled in how they may/may not use your personal data. We remain responsible for the protection of your data.  
-Please note that some of our partners may be located outside the European Economic Area (EEA). Countries outside the EEA may not be required to protect personal information as stringently as countries inside.
+•    to ensure that the Site's content is presented in the most effective manner for you and for your computer; 
 
-**_6\. Can I find out what personal information Haymarket holds on me?_**
+•    to provide you with information, products or services that you request from us or which we feel may interest you; 
 
-Under the Data Protection Act 1998 you have the right to request a copy of the personal information that Haymarket holds about you. There will be an administration fee of £10 associated with this request and will require two pieces of identification to prove your identity. Please make a written application to the Data Protection Officer, Haymarket Media Group, Teddington, Middlesex, TW11 9BE.
+•    to allow you to participate in interactive features of our service where you choose to do so; 
 
-If any of the personal information that we hold about you is incorrect, you can click on the contact us link on each website. If the incorrect information relates to your magazine subscription, then you can contact the customers services team on 08456 777 800 who will update your details as soon as practically possible.
+•    to notify you about changes to our service. 
 
-**_7\. Changes to the Haymarket Privacy Policy?_**
+We may disclose your personal information to any member of our group which means our subsidiaries, our ultimate holding company and its subsidiaries as defined in section 736 of the Company Act 1985. 
 
-This privacy policy may be updated at any time with or without notice in order to comply with new practices or regulations. You may wish to visit this page every time you submit personal information to one of Haymarket’s websites.
+**We may disclose your personal information to third parties:  **
 
-**_8\. Cookies and your privacy_**
+•    in the event that we offer to sell any assets in which case we may disclose your personal data to the potential purchaser of such assets; 
 
-In order to enable us to provide you with a personalised browsing experience, this website uses 'cookie' information collection technology. "Cookies" are small pieces of information that are issued to your computer when you enter a website. Cookies are stored by your browser on your computer's hard drive, and they can be used for a wide range of purposes, such as identifying your computer's previous visits to a website, and to ascertain the most popular features of a website.
+•    if substantially all of MA Business & Leisure’s assets are acquired by a third party, in which case personal data held by us about our customers will be transferred to such third party; 
 
-This website uses cookies as they enable us to identify your computer when you visit the website. For example, cookies can make it possible for us to identify and automatically log in registered users of certain services on the website without the need for us to ask users for their registration details and password each time they visit. We also use cookies to develop a clearer picture of which parts of the website are the most popular to its visitors, and your preferences. Cookies are also used in behavioural advertising to identify users who share a particular interest so that they can be served more relevant adverts.
+•    if we are required to disclose or share your personal data in order to comply with any legal obligation or in order to enforce or apply our Terms and Conditions or any other agreement; or protect the rights, property, or safety of MA Business & Leisure, our customers, or others. This includes exchanging information with other companies and organisations for protection against credit risk and fraud. 
 
-If you wish to know more about cookies and how companies like Haymarket use them, please visit [www.youronlinechoices.com](http://www.youronlinechoices.com/) or [www.allaboutcookies.org](http://www.allaboutcookies.org/). Information on these websites will assist you in exercising your privacy rights providing guidance on how to opt-out of future access or continued storage of information via cookies.
+We may also use your data or permit selected third parties to use your data to provide you with information about goods and services which may be of interest to you unless you have notified us that you do not wish to receive such information. 
 
-Following recent revisions of the Privacy and Electronic Communications (EC Directive) Regulations 2003 relating to the notification and use of cookies Haymarket is currently working towards implementing the new requirements in line with guidance provided by The Information Commissioner’s Office.
+We do not disclose individual information to our advertisers, but we may provide them with aggregate information about our users. We may also use such aggregate information to help advertisers reach the kind of audience they want to target. We would comply with our advertisers' wishes by displaying their advertisement to that target audience using the personal data we have collected from you and from others. 
 
-**_9\. Contacting Haymarket about this Privacy Policy_**
+**Your Rights  **
 
-If you have any further questions or comments concerning your privacy, please contact;
+You have the right to request us not to disclose any of your personal data or information or to pass information to third parties. We will usually inform you before collecting your data, if we intend to disclose your information to any third party and you can exercise that right by checking certain boxes on the forms we use to collect your data. You can also notify us by contacting us at [unsubscribe@markallengroup.com](mailto:unsubscribe@markallengroup.com) 
 
-MAIL:  
-Data Protection Officer  
-Haymarket Media Group  
-Teddington Studios  
-Teddington  
-Middlesex  
-TW11 9BE
-
-If you don’t want to receive any more direct marketing messages then please [click here](http://www.pages05.net/haymarketmediagroupuk/optout/contact_details/).
+The site may from time to time contain links to and from partner and/or affiliate websites. If you follow a link to their sites, please note that these sites have their own privacy policy and that MA Business & Leisure does not accept any responsibility or liability for protection of personal data which you may submit to a third party's site. You are recommended to check the wording of the relevant privacy policies before you submit any personal data to those sites.
