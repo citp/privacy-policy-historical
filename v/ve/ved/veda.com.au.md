@@ -1,19 +1,60 @@
-> *The following text is extracted and transformed from the veda.com.au privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218232537id_/http%3A//www.veda.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veda.com.au privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531063152id_/http%3A//www.veda.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy (Australia) | Veda
 
 ## 1\. Our Commitment to Privacy
 
-Veda Group, comprising of a number of separate entities and businesses (as listed in section 2 below), is an information services and aggregation business.  We recognise that to run our business successfully we must maintain high standards when it comes to how we collect, hold, use and disclose personal information. 
+The Veda Group of companies (Veda) is an information services and aggregation business.  We recognise that to run our businesses successfully we must maintain high standards when it comes to how we collect, hold, use and disclose personal information.  
 
-We recognise your right to privacy and have established a number of protocols to help us keep the information we hold accurate, up-to-date and not misleading.
+We recognise your right to privacy and have established a number of protocols to help us keep the information we hold accurate, up-to-date and complete.
 
-Much of the personal information collected and held by our business in Australia is covered by the National Privacy Principals (NPPs) under the Privacy Act 1988 (Cth). This policy documents how we manage personal information and reflects our obligations under NPP 5.1 to have a policy on this aspect of our business.
+Much of the personal information collected and held by our business in Australia is covered by the Australian Privacy Principles (APPs) under the Privacy Act 1988 (Cth) (the Act). This policy documents how we manage personal information and reflects our obligations under APP 1.3 to have a policy on this aspect of our business. 
 
-Our credit reporting business is regulated under Part IIIA of the Privacy Act.  It is noted in this policy for completeness.   
+In addition Veda Advantage Information Services & Solutions Ltd (VISS) operates a credit reporting business in Australia.  This policy document also reflects VISS’ obligation under S20B(3) to have a policy relating to credit reporting information.
 
 ## 2\. Who is Veda
 
+**Consumer Risk and Identity**
+
+| Commercial Risk & Information Services | B2C and Marketing Services | International  
+---|---|---|---  
+  
+• Consumer Credit Risk (B2B) For further information refer to our [Credit Policy](http://www.veda.com.au/credit-reporting-policy).
+
+• Fraud and Identity Solutions helps validate identities and detect fraud.
+
+• Decisioning and Scoring assists customers in making credit decisions based on an applicant’s risk profile.
+
+• Collection Services assists customers to segment and optimise debtors to improve receivables management.
+
+• Verify provides an employee verification service for employers.
+
+| 
+
+• Commercial Credit Risk provides credit reports, payment behaviour and ongoing credit monitoring to help businesses make informed decisions about counterparty exposure including lending, finance, insurance, procurement and trade credit.
+
+• Commercial and Property Solutions  -provides a portal for business to access third party data and value added products derived from that data
+
+| 
+
+• VedaScore provides consumer access to their personal credit information and credit score as well as the ability to receive updates to their credit profile when changes are made.  Cyber monitoring to assist individuals protect against identity theft is also available.
+
+• Secure Sentinel offers individuals solutions for identity theft and fraud prevention.
+
+• Carhistory.com.au provides information on cars for consumers and car dealers.
+
+• National Tenancy Database (NTD) is a tenancy verification and identification service.
+
+• Inivio uses data to assist businesses in analysing and formulating direct marketing strategies.
+
+| 
+
+Whilst not covered by this Privacy Policy, in New Zealand Veda offers similar products to Consumer Risk & Identity and Commercial Risk & Information Services based on New Zealand information.
+
+For information about Veda NZ’s privacy policy go to [www.veda.co.nz](http://www.veda.co.nz/).
+
+Veda also has equity interests in Malaysia, Singapore and Cambodia based consumer and commercial risk bureaus.  
+  
 The Veda Group comprises of a number of separate businesses:
 
   * Veda Group Limited is the listed entity.
@@ -29,60 +70,63 @@ The Veda Group comprises of a number of separate businesses:
 
 
 
-## 3\. How we collect personal information
+## 3\. How Veda collects your personal information
 
-Collectively, Veda group of companies collects personal information from the following third parties:
+Generally speaking Veda collects personal information from third parties.  The sources of that personal information depend upon the purpose for which it is being collected and includes:
 
-  * Credit providers, mortgage insurers and trade insurers and other customers of our credit reporting services
-  * Real estate agents
-  * Collection companies
-  * Utility Providers
-  * Insurers, Loss Assessors, Investigators and other members of IRS.
-  * Law courts
-  * Various government departments and regulators including the Australian Securities and Investments Commission, Australian Communications and Media Authority, Australian Financial Security Authority and the Australian Electoral Commission
-  * Telstra
-  * Australia Post
+  * Real estate agents;
+  * Utility Providers;
+  * Insurers, Loss assessors, Loss adjustors and investigators;
+  * Law courts;
+  * Australian Securities and Investments Commission;
+  * Australian Financial Security Authority
+  * Telstra;
+  * Australia Post;
+  * Australian Electoral Commission
+  * Australian Communications and Media Authority
   * Corporate partners of our Secure Sentinel service
   * Market research organisations
-  * Other data providers who have the individuals’ consent
-  * Veda’s partners and Veda’s Share Registry service provider, Link Market Services.
+  * Direct marketing companies
+  * From our customers
 
 
 
-In addition, there are a number of other circumstances in which we will collect personal information from you:
+In addition, there are a number of limited circumstances in which we will collect personal information from you:
 
-  * When you apply for membership or whilst you are a member of Secure Sentinel
-  * When you contact our Australian credit bureau to obtain a copy of your credit file or your insurance file
-  * When you contact our Australian credit bureau to request an amendment to your credit file or dispute information on your credit file or your insurance file
+  * When you apply for membership or whilst you are a member of Secure Sentinel.
+  * When you contact our Australian commercial credit bureau to obtain a copy of your commercial credit file or your insurance file.
+  * When you contact our Australian commercial credit bureau to request an amendment to your commercial credit file or insurance file or dispute information on your commercial credit file or your insurance file.
   * When you contact Inivio, regarding material you have received from an Inivio client.
-  * When you contact ntd for a copy of your tenancy database file or to request an amendment to that file
-  * When you contact Verify in relation to background checks for employment purposes
-  * When you obtain information from us over the internet such as a Veda Auto Report
-  * When you opt-in to receiving offers and products information from Veda or one of Veda’s clients.
-  * When you make an application for shares and provide your information either to Veda or Veda’s Share Registry provider.
+  * When you contact NTD for a copy of your tenancy database file or to request an amendment to that file.
+  * When you contact Verify in order to provide information for background checks for employment purposes.
+  * When you obtain information from us over the internet such as carhistory.com.au.
+  * When you opt-in to receiving offers and product information from Veda.
 
 
 
-## 4\. Collection, Use and Disclosure of your personal information
+## 4\. The kinds of personal information Veda collects, uses and discloses
 
 We collect personal information for a variety of different purposes.
 
-We use and/or disclose your personal information for the purposes of carrying on our various businesses and for conducting the Veda Group’s affairs.
+Veda collects a range of personal information, depending upon the purpose for which it is collected.  This includes publicly available information for use in our Commercial Risk & Information Services and in some of our B2C & Marketing services, including VedaScore, NTD and Inivio.  The publicly available information we collect includes:
 
-Where other personal information is used for a secondary purpose there is, generally, no disclosure of personal information.  For example, we use the information collected to manage the accuracy of our data sets. 
-
-Generally personal information is used and disclosed for the purposes for which it was collected, a directly related secondary purpose or were you have consented to the use or disclosure.  Disclosures of your personal information to any third party outside the Veda Group are, generally speaking, only to customers of one of our businesses, or to regulators as required by law in the circumstances.
-
-There may be circumstances where we are required or authorised by law to disclose your personal information to someone who is not a subscriber e.g. to an Ombudsman, tribunal, court, law enforcement agency or government department.
-
-In addition, in the case of managing applications for shares your personal information may be disclosed to:
-
-  * The Share Registry for ongoing administration of the register of members;
-  * Printers and other companies for the purpose of preparation and distribution of statements and for handling mail;
-  * Market research companies for the purpose of analysing the Shareholder base and for product development and planning; and
-  * Legal and accounting firms, auditors, contractors, consultants, and other advisers for the purpose of administering , and advising on, the Shares and for the associated actions.
+  * Court judgements
+  * Court writs
+  * Bankruptcy, debt agreement and personal insolvency information
+  * Directorship & Proprietorship information
+  * Office holder details, shareholdings and other extracts and documents from ASIC
+  * Telephone directory information
+  * Pre-2004 Electoral Roll information
 
 
+
+We use and/or disclose your personal information for the purposes of carrying on our various businesses and for conducting Veda’s affairs.
+
+Generally personal information is used and disclosed for the purposes for which it was collected or a directly related secondary purpose or were you have consented to the use or disclosure.
+
+Where other personal information is used for a secondary purpose there is, generally, no disclosure of personal information.  For example, we use the information collected to manage the accuracy of our data sets or for identity verification.  
+
+Generally, before any Veda entity discloses your personal information to any third party outside Veda, the third party to whom the information is disclosed must be a customer of one of our businesses.  However, there may be circumstances where we are required or authorised by law to disclose your personal information to someone who is not a subscriber e.g. to an Ombudsman, tribunal, court, law enforcement agency or government department.
 
 **Service**
 
@@ -92,128 +136,37 @@ In addition, in the case of managing applications for shares your personal infor
 
 | 
 
-**Purpose**  
+**Purpose we collect, use and disclose**  
   
 ---|---|---  
   
-**Commecial credit Reporting**
+**Consumer Risk & Identity**
 
 | 
 
-  * full name
-  * date of birth
-  * driver’s licence number
-  * gender
-  * employer
-  * occupation
-  * latest and previous address
-  * applications for credit, when, with whom and for what type of credit
-  * payment default records
-  * details of commercial credit providers who currently provide credit to you.
+For details about our Consumer Credit Risk business, please refer to our Credit Policy.
 
-| 
+For Identity Solutions purposes we collect:
 
-We collect information for the purposes of carrying on a commercial credit reporting business and for identity verification.  
-  
-## Insurance Reporting
+  * Publicly available identity information
+  * Ntd identity information
+  * IRS identity information
+  * Electoral Roll information
 
-| 
 
-  * full name
-  * date of birth
-  * driver’s licence number
-  * gender
-  * latest and previous address
-  * insurance claims
-  * enquiries by insurers
-  * enquiries by loss assessors
 
-| 
+For Fraud detection purposes we collect a range of information including identity information to help detect identity theft and other fraud.
 
-We collect  information in accordance with the NPPs for the purpose of managing, on behalf of Insurance Reference Services,
+For Collection Services purposes we collect: 
 
-  * an insurance enquiries and claims database for insurance companies loss assessors, investigators and other members of IRS; and
-  * for identity verification.
+  * Name and address information
+  * Publicly available information 
 
-  
-  
-**Tenancy Database**
 
-| 
 
-  * full name
-  * date of birth
-  * driver’s licence number
-  * gender
-  * current and previous rental addresses
-  * occupation
-  * contact details (phone, fax and email)
-  * details of rental history
+We also collect commercial credit reporting information, as detailed below, which is used in our collection services for the collection of commercial credit defaults.
 
-| 
-
-We collect information in accordance with the NPPs for the purpose of
-
-  * operating tenancy database for real estate agents;  and
-  * collections and identity verification.
-
-  
-  
-**Publicly Available Personal Information**
-
-| 
-
-  * full name
-  * address
-  * date of birth
-  * driver’s licence
-  * court judgements, court writs and bankruptcies
-  * current, previous and disqualified directorships
-  * proprietorships
-  * officeholders’ details
-  * telephone numbers
-
-| 
-
-We also collect personal information from publicly available sources which may be used in one or more of our businesses for various purposes including:
-
-  * identity verification
-  * credit reporting
-  * collections
-  * risk assessment purposes.
-
-  
-  
-**Secure Sentinel services**
-
-| 
-
-  * full name
-  * address
-  * date of birth
-  * contact details
-  * mother’s maiden name
-  * gender
-  * information about your mobile phone(s), financial cards and passport(s) and other registered goods.
-
-| 
-
-We collect information in accordance with the NPPs for the purpose of
-
-  * operating a loss assistance and retrieval service and
-  * for identity verification
-
-  
-  
-**Verify services**
-
-| 
-
-We collect information in accordance with the APPs for the purposes of providing background screening service to organisations and in assisting them in verifying the background of candidates or existing staff or in other circumstances where a candidate or existing staff member's background is relevant.
-
-| 
-
-Verify collects information from you and then seeks to verify that information from a variety of sources, e.g. interviewing referees, contacting universities to validate university transcripts, health care professionals and law enforcement agencies.  Depending upon the position being applied for, we collect some or all of the following information:
+Verify collects information from you and then seeks to verify that information from a variety of sources, e.g. interviewing referees, contacting universities to validate university transcripts, health care professionals and law enforcement agencies.  Depending upon the position being applied for, we collect some or all of the following information:
 
   * Name and previous names
   * Date of birth
@@ -231,114 +184,163 @@ Verify collects information from you and then seeks to verify that information f
   * Criminal history
   * Financial history
   * Medical history
-  * Workers compensation history
-
-  
-  
-**Inivio**
+  * Publicly available information such as directorship, proprietorship information and company officer information as well as court judgements, court writs and personal insolvency information.
 
 | 
 
-Inivio provides campaign management, verification and other services to its customers.
+We use a range of information for our Identity Solutions.  Where identity verification is for AML/CTF for reporting entities, Veda will use the current Electoral Roll in accordance with the Electoral Act 1918.
 
-Inivio provides access to a data set, Veda eTrace, to its customers enabling these customers to search (in some cases, subject to relevant legal requirements, to conduct reverse searches on types of publically available data).  Typically Veda eTrace collects this information data from a large number of publicly available sources and data wholesalers under various licence arrangements.  Clients collect this information to find debtors or to market.  Clients must agree to comply with the relevant provisions of the Privacy Act before they can collect this type of data.
+For this and other Verification purposes disclosure is limited to indicating whether there is a match between the information provided and the information on Veda’s databases.
 
-For further information on Inivio’s privacy policy
+The use and disclosure of personal information for Fraud detection is subject to controls and is for investigative related purposes.
+
+The use and disclosure of personal information for collection services will vary according to the type of organisation requesting the information.
+
+Commercial credit providers will be disclosed commercial credit information as well as publicly available information for collection purposes.
+
+Other users of our collection services, such as mercantile agents, have access to publicly available information to assist them in collecting debts owed to their clients.
+
+Verify collects personal information for the purposes of providing background screening service to organisations and in assisting them in verifying the background of candidates or existing staff or in other circumstances where a candidate or existing staff member's background is relevant.  In order to do this we ask you to provide your consent to the use and disclosure of your personal information for verification purposes.
+
+As such organisations we may disclose your personal information to include:
+
+  * Your current, previous or prospective employer
+  * To educational institutions to check your qualifications
+  * To nominated referees
+  * To law enforcement authorities
+  * State or Federal government agencies or departments
+  * As required or authorised by law
+  * Organisations that conduct medical testing and alcohol and drug testing
+  * Various regulatory bodies including ASIC, AFSA, APRA and AFS
+  * Psychological assessment providers
+
+  
+  
+**Commercial Risk & Information Services**
 
 | 
 
-Publicly available information including:
+We collect a range of personal information for the purposes of operating a commercial credit bureau including:
 
   * Name
-  * Address
+  * Latest and previous addresses
+  * Date of Birth
+  * Driver’s Licence
   * Gender
-  * court judgements, court writs, bankruptcies and debt agreements
-  * current, previous and disqualified directorships
-  * proprietorships
-  * officeholders’ details
-  * telephone number
-
-
-
-Other personal information such as:
-
-  * Email address
-  * Mobile phone numbers
-
-
-
-This is collected from third parties who have your consent to use and disclose your personal information  or from you directly  
-  
-**Corporate Scorecard**
+  * Current and Previous Employment information
+  * Enquiries made in relation to commercial credit or for risk assessment purposes
+  * Information relating to accounts you have defaulted on including those where you have gone guarantor
+  * Information about commercial credit providers with whom you have a credit relationship
 
 | 
 
-The personal information we collect from customers is collected and used in order to provide our services to those customers.
+We collect this information in order to provide Commercial Risk and Information services to our customers.  As such we may provide this information to:
 
-In order to provide our services to our customers, we collect, use and disclose personal information about directors, other company officers and proprietors for the purposes providing credit ratings, risk assessment, benchmarking and analytical services.
-
-| 
-
-Publicly available information including:
-
-  * Name,
-  * Address
-  * Date of birth
-  * Address
-  * Directorship, proprietorship, share holdings and other information obtained from ASIC.
-  * Bankruptcy Act information from AFSA (formerly ITSA)
-
-
-
-We also collect other information as part of providing services to our customers.
-
-Information from our customers including:
-
-  * Name
-  * Business address
-  * Email address
-  * Telephone and Fax number.
+  * Commercial credit providers
+  * Trade credit providers
+  * Consumer credit providers
+  * General insurers
+  * Factors
+  * Organisations conducting a risk assessment on an organisation of which you are a director, owner, partner, shareholder or employee.
+  * Organisations conducting property checks
 
   
   
-**Services to consumers**
-
-| 
-
-We collect this information for the purposes of providing you with either one of Veda’s Your Credit & Identity services or a car history report.
-
-If as part of signing up to Your Credit & Identity or Car History you provide consent to receive marketing offers from the Veda group of companies or from customers your identity information may be used for marketing purposes.
+**B2C Marketing Services**
 
 | 
 
 Veda provides a number of services to consumers, most notably:
 
-  * Your credit & Identity; and
-  * Car History reports
+  * VedaScore
+  * Secure Sentinel
+  * Carhistory.com.au
+  * NTD
 
 
 
-In order to provide these services to you we need to collect personal information from you which, depending upon the service you have chosen could include:
+In order to provide these services to you we need to collect personal information from you  which, depending upon the service you have chosen could include:
 
   * Name
   * Date of Birth
   * Driver’s Licence
+  * Gender
   * Latest Address
-  * Previous Address
+  * Previous Addresses
+  * Occupation
   * Credit Card details
   * Email address
   * Home phone number
   * Mobile phone number
+  * Fax number
+  * Information about your mobile phone(s), financial cards and passport.
 
-  
-  
-**As a public company listed on the Australian Stock Exchange**
+
+
+In the case of Inivio we collect publicly available information as well as other personal information such as email address and mobile phone number.
+
+Information that is not publicly available is collected by Inivio from third parties who have your consent to use and disclose your personal information or from you directly with your consent to the subsequent use and disclosure of that information.
 
 | 
 
-When you fill an application form the personal information you provide is being collected by Veda through Veda’s Share Registry.
+In the case of VedaScore and carhistory.com.au we do not disclose your personal information to third parties unless you have given us your express or implied consent or where required or authorised by law.
 
-If you do not provide all the information requested in the application form, Veda and the Share Registry may not be able to process or accept your application.
+In the case of Secure Sentinel, we may be disclose your personal information to:
+
+  * your third party providers, such as your financial institutions, mobile phone provider.
+  * research organisations
+  * government, law enforcement or statutory bodies
+  * with the Secure Sentinel corporate partner through whom you obtained this service.
+  * to third parties acting on our behalf.
+
+
+
+For the purposes of NTD we collect information in accordance with the APPs for the purpose of 
+
+  * provision of services to property managers and real estate agents and for risk assessment and risk management purposes
+  * provision of services to your landlord, your landlord’s lawyer, mortgagee or insurer
+  * organisations or trades people required to carry out maintenance to the premises you lease
+  * rental bond authorities or rental bond insurance providers
+  * residential tenancy tribunals and other relevant bodies as required
+  * mercantile agents
+  * provision of information to credit providers to assist utilities collection
+  * Other entities within the Veda group of companies
+  * In the case of commercial leases, to a credit reporting agency for risk assessment purposes.
+
+
+
+If as part of signing up VedaScore, Secure Sentinel, carhistory.com.au or NTD and you provide consent to receive marketing offers from the Veda group of companies or from customers your identity information may be used for marketing purposes.
+
+For information about the purposes for which Inivio uses and discloses personal information refer to the [Inivio Privacy Policy](http://www.inivio.com.au/doc/Privacy%20policy%20for%20publication%2010122013.pdf)  
+  
+Veda also manage an insurance database on behalf of Insurance Reference Services, for that purpose we collect: 
+
+  * full name
+  * date of birth
+  * driver’s licence number
+  * gender
+  * latest and previous address
+  * insurance claims
+  * enquiries by insurers
+  * enquiries by loss assessors, loss adjusters and investigators
+
+
+
+This information is used to provide insurance services to general insurers, loss assessors, loss adjusters and investigator who are members of IRS and for internal and external identity management and verification.
+
+In addition, **as a public company** listed on the Australian Stock Exchange, we collect, use and disclose your personal information as follows:
+
+**Type of personal information we collect**
+
+| 
+
+**Purpose we collect, use and disclose**  
+  
+---|---  
+  
+When you fill out an application form the personal information you provide is being collected by Veda through Veda’s Share Registry.
+
+If you do not provide all the information requested in the application form, Veda and the Share Registry may not be able to process or accept your application
 
 | 
 
@@ -346,43 +348,21 @@ The personal information we collect may be used by Veda or its Share Registry fo
 
 In addition, your personal information may also be provided to Veda’s agents and service providers on the basis that they deal with such information in accordance with Veda’s privacy policy.
 
-These agents and service providers may be located outside Australia in accordance with NPP 9, nevertheless, your personal information may not receive the same level of protection as it does in Australia under Australian law.
+ These agents and service providers may be located outside Australia in accordance with NPP 9, nevertheless, your personal information may not receive the same level of protection as it does in Australia under Australian law.
 
 Your personal information may also be used to inform you about other products and services offered by Veda, which it considers may be of interest to you.
 
-Please note that information in Veda’s register is retained in accordance with the Corporation Act 2001.  The information will remain there for 7 years after you cease to be a shareholder.  
+Please note that information in Veda’s register is retained in accordance with the Corporation Act 2001.  The information will remain there for 7 years after you cease to be a shareholder.  
   
-## 5\. Government Identifiers and Sensitive Information
+**Disclosures Overseas**
 
-We do not use or adopt as our own identifier any identifier assigned by an agency or a contracted service provider for a Commonwealth contract. We do not use or retain tax file numbers, Medicare card numbers, pensioner card numbers or other similar identifiers If you are a member of Secure Sentinel, we may retain details of your passport, including your passport number, as part of the services we provide you.  In certain circumstances we make seek evidence of your identity such as passport details, driver’s licence in order to verify your identity.
+In limited circumstances Veda may disclose your personal information to an entity overseas.  Generally speaking this is in circumstances where we have engaged a third party to carry out certain call centre operations on behalf of one of the Veda entities.  In such cases, personal information including name, address and telephone numbers is disclosed to organisations in South Africa and the Philippines.  In addition, as part of Inivio’s marketing services personal information may be disclosed to Singapore and the United States of America.  Where Verify is conducting verification in Australia and you have lived overseas, personal information about you may be disclosed to the country(ies) in which you have resided as part of the verification process.  This can include verification of your employment history; educational qualifications obtained overseas as well a criminal history check.
 
-We do not collect, hold or disclose sensitive information about you such as:
-
-  * Political, social, religious or ethical beliefs or affiliations
-  * Colour, race, ethnic or national origins
-  * Sexual preferences or practices
-
-
-
-## 6\. How we keep your Personal Information Secure
-
-Access to your personal information held on Veda’s credit related databases is available by subscription only and is subject to contractual terms and conditions.  Access to other personal information is subject to your consent, or is publicly available, or is subject to contractual terms and conditions.  These include compliance with the Privacy Act and other relevant legislation.
-
-For the purposes of consumer credit reporting access to personal information is in accordance with Part IIIA of the Privacy Act.
-
-Access to our consumer, commercial and insurance databases is tracked and recorded.
-
-We use industry standard security and encryption to protect the personal information we hold on you.
-
-## 7\. Your Right of Access and Correction
+## 5\. Your Right of Access
 
 You have the right to access personal information Veda holds on you and to have incorrect information amended.
 
-  1. **_How can I obtain a copy of the personal information Veda holds on me_**
-
-
-
-If you would like to obtain a copy of your files including the personal information Veda holds on you, please contact us in writing:
+If you would like to obtain a copy of your files including the personal information Veda holds on you or to request a correction to personal information held by Veda, please contact us in writing:
 
 **How to obtain copy of**
 
@@ -392,37 +372,30 @@ If you would like to obtain a copy of your files including the personal informat
   
 ---|---  
   
-**Your credit and/or insurance file**
+**Your Commercial Risk and /or insurance information  **
 
 | 
 
-**Veda – Public Access**
-
+**Veda – Public Access**  
+Veda Advantage Information Services & Solutions  
 PO Box 964  
 NORTH SYDNEY  NSW  2059  
 <http://www.veda.com.au/understanding-your-credit-file>  
   
-**Tenancy File**
+**Your tenancy information held by NTD**
 
 | 
 
-**The Manager**
-
-National Tenancy Database  
-Level 10  
-231 North Quay  
-BRISBANE  QLD  4000
-
-[www.ntd.net.au](http://www.ntd.net.au/)  
+[info@ntd.net.au](mailto:info@ntd.net.au)  
   
-**Personal Information held about you by Secure Sentinel**
+**Your personal Information held by Secure Sentinel**
 
 | 
 
 On 1800 022 043  
 Email: [customerservice@securesentinel.com.au](mailto:customerservice@securesentinel.com.au)  
   
-**Personal information held about you by Verify**
+**Your personal information held by Verify**
 
 | 
 
@@ -432,6 +405,8 @@ Locked Bag 965
 NORTH SYDNEY  NSW  2059
 
 Email:  [info@verifycv.com.au](mailto:info@verifycv.com.au).  
+  
+**Your personal information held by Corporate Scorecard** | [admin@corporatescorecard.com.au](mailto:admin@corporatescorecard.com.au)  
   
 **Share related personal information**
 
@@ -449,39 +424,67 @@ Telephone:  1300 554 474
   
 Veda may charge you a fee for providing you with a copy of your files and for providing you with the information that Veda hold on you.
 
-  1. **_What do I do if personal information about me is incorrect_**
+## 6\. Your right to request a correction or make a compliant
+
+If you have a dispute about personal information on your commercial credit, tenancy or insurance data we will investigate and provide you with a formal written response, generally, within 30 days. Where we determine that no amendment to your personal information is required you have the right to add a statement to your file.
+
+We will investigate and deal with your correction request or complaint in a fair, efficient and timely manner. 
+
+You can contact us at:
+
+  
 
 
+**Type of information**
 
-If you believe that
+| 
 
-  * information held on your credit file or your insurance file is incorrect, please contact us by email .
-  * personal information held about you by Secure Sentinel is incorrect, please contact us on by email at [customerservice@securesentinel.com.au](mailto:customerservice@securesentinel.com.au)
-  * personal information held about you by Verify is incorrect, please contact us on (02) 9278-7990 or by email at [info@verifycv.com.au](mailto:info@verifycv.com.au).
+**Contact Details**  
+  
+---|---  
+  
+**Your Commercial Risk and /or insurance information  **
 
+| 
 
+**Veda – Public Access**  
+Veda Advantage Information Services & Solutions  
+PO Box 964  
+NORTH SYDNEY  NSW  2059
 
-If you have a dispute about personal information on your commercial credit or insurance file we will investigate and provide you with a formal written response within 30 days. Where we determine that no amendment to your personal information is required you have the right to add a statement to your file.
+Email: [corrections@veda.com.au](mailto:corrections@veda.com.au)  
+  
+**Your tenancy information held by NTD**
 
-  1. **_What to do if you want information or want to complain about marketing material you received where your details were provided by Inivio._**
+| 
 
+[info@ntd.net.au](mailto:info@ntd.net.au)  
+  
+**Your personal Information held by Secure Sentinel**
 
+| 
 
-If you want information about where Inivio obtained your contact details or if you wish to make a complaint about marketing material you received where your details were provided by Inivio, you can contact Inivio at:
+On 1800 022 043  
+Email: [customerservice@securesentinel.com.au](mailto:customerservice@securesentinel.com.au)  
+  
+**Your personal information held by Verify**
 
-## 8\. Inivio - Veda eTrace
+| 
 
-Inivio provides access to a data set, Veda eTrace, to its customers enabling these customers to search (in some cases, subject to relevant legal requirements, to conduct reverse searches on types of publically available data).  Typically Veda eTrace collects this information data from a large number of publicly available sources and data wholesalers under various licence arrangements.  Clients collect this information to find debtors or to market.  Clients must agree to comply with the relevant provisions of the Privacy Act before they can collect this type of data.
+**Verify Holdings Australia Ltd**
 
-## 9\. Credit Reporting
+Locked Bag 965  
+NORTH SYDNEY  NSW  2059
 
-We also collect information for the purposes of carrying on a credit reporting business which is covered by Part III A of the Privacy Act rather than the National Privacy Principles.  Part IIIA of the Privacy Act relates to loans sought or obtained primarily for domestic, family or household purposes.
+Email:  [info@verifycv.com.au](mailto:info@verifycv.com.au).  
+  
+If you are unhappy with the outcome of our investigation you have a right to complain to Financial Ombudsman Service or the Office of the Australian Information Commissioner. The contact details of each are set out below:
 
-You have the right to obtain a copy of the consumer credit file that Veda holds on you and to have consumer credit information amended if it is incorrect.  If your request for access to your consumer credit file relates to the refusal of an application for credit or is otherwise related to the management of your credit arrangements then you are able to request a free copy. We will despatch a free copy of your credit file within 10 working days of receipt of your request. For further information refer to “7.  Your Right of Access and Correction” above.
+**Financial Ombudsman Service**
 
-If you have a dispute about personal information on your consumer credit file we will investigate and provide you with a formal written response within 30 days. Where we determine that no amendment to your personal information is required you have the right to add a statement to your file.
+GPO Box 3
 
-If you are unhappy with the resolution of your dispute you can refer the matter to:
+MELBOURNE  VIC  3001
 
 **Office of the Australian Information Commissioner**
 
@@ -489,10 +492,114 @@ GPO Box 5218
 
 SYDNEY NSW 2001
 
+## 7.Use of Personal Information for Marketing Purposes
+
+Veda collects information to provide its customers and individuals with a large variety of services.  Sometimes different entities within Veda will contact individuals to market Veda services.  All marketing by Veda to individuals is based on the consent of the individual to that marketing.
+
+This may, depending on the consent provided, include promotional material including but not limited to communications of the following kind:
+
+a) Newsletters
+
+b) Competitions
+
+c) Surveys
+
+d) Promotions on existing or new products
+
+e) Other, if any
+
+Veda may do so by using a variety of means including:
+
+a) electronic means such as emails, SMS, MMS or similar devices
+
+b) hardcopy to your nominated address; and
+
+c) subject to Do Not Call Register, call you.
+
+Veda may, at any time, disclose your information to its clients, where you have provided consent, for marketing purposes so they can send you marketing information similar to the above.
+
+At all times you are free to choose not to receive some or all of the marketing communications sent by Veda or on Veda's behalf.  In order to exercise that choice you need to communicate to:
+
+**Veda Entity**
+
+| Source of Consent | 
+
+**Contact Details**  
+  
+---|---|---  
+  
+**VedaScore**
+
+| If you provided consent via the Your Credit & Identity or MyCreditFile services | 
+
+Veda 
+
+PO Box 964
+
+NORTH SYDNEY  NSW  2059  
+  
+**Inivio**
+
+| If you received marketing material from a customer of Inivio or via VedaConnect Inivio | 
+
+PO Box 964
+
+NORTH SYDNEY  NSW  2059
+
+Email:  [info@inivio.com.au](mailto:info@inivio.com.au)  
+  
+**Secure Sentinel**
+
+| If you were or are a customer of Secure Sentinel. | 
+
+Attention:  National Manager
+
+Secure Sentinel Pty Ltd
+
+Locked Bag 4845
+
+CHATSWOOD  NSW  2057
+
+Email:  [customerservice@securesentinel.com.au](mailto:customerservice@securesentinel.com.au)  
+  
+**CarHistory**
+
+| If you were or are a customer of Car History and provided your consent. | 
+
+Car History
+
+PO Box 966
+
+NORTH SYDNEY  NSW  2059
+
+[support@carhistory.com.au](mailto:support@carhistory.com.au)  
+  
+Corporate Scorecard | If you have consented to receiving emails from Corporate Scorecard about its products and services. | [admin@corporatescorecard.com.au](mailto:admin@corporatescorecard.com.au)  
+  
+## 8\. Government Identifiers and Sensitive Information
+
+We do not use or adopt as our own identifier any identifier assigned by a Commonwealth or State Government agency. 
+
+If you are a member of Secure Sentinel, we retain details of your passport, including your passport number, as part of the services we provide you.  
+
+In certain circumstances we may seek evidence of your identity such as passport details, driver’s licence or similar in order to help verify your identity.
+
+We do not collect, hold or disclose sensitive information about you such as:
+
+  * Political, social, religious or ethical beliefs or affiliations
+  * Colour, race, ethnic or national origins
+  * Sexual preferences or practices
+
+
+
+## 9\. How we keep your Personal Information Secure
+
+Access to your personal information held by Veda for Consumer Risk & Identity, Commercial Risk & Information Services is available by subscription only and is tracked and recorded.  Access is subject to contractual terms and conditions.  Access to other personal information is subject to your consent, or is publicly available, or is subject to contractual terms and conditions.  These include compliance with the Privacy Act and other relevant legislation.
+
+We use industry standard security and encryption to protect the personal information we hold on you.
+
 ## 10\. Further information about your Privacy rights
 
-For further information about the Australian Privacy Act please visit the Office of the Australian Information Commissioner website at [www.oaic.gov.au](http://www.oaic.gov.au/).
+For further information about the APPs of the Act please visit the Office of the Australian Information Commissioner website at [www.oaic.gov.au](https://web.archive.org/www.oaic.gov.au).
 
-This policy documents how we manage personal information and reflects our obligations under NPP 5.1 to have a policy on this aspect of our business.  This document does not create any additional rights under contract, statute or equity law. 
-
-If you have any questions about this policy generally please contact the Veda Group’s legal and compliance team at [compliance@veda.com.au](mailto:compliance@veda.com.au?subject=Web%20enquiry)
+This policy documents how we manage personal information and reflects our obligations under the APPs of the Act.  If you would like information about how we manage personal information under Part IIIA of the Act go to our Credit Reporting Policy. This document does not create any additional rights under contract, statute or equity law.  
