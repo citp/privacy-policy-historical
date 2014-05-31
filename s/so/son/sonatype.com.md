@@ -1,17 +1,16 @@
-> *The following text is extracted and transformed from the sonatype.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102222504id_/http%3A//www.sonatype.com/usage/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonatype.com privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531162318id_/http%3A//www.sonatype.com/usage/privacy-policy) for the most accurate reproduction.*
 
 # Usage - Privacy Policy - Sonatype.com
 
+[ ](https://privacy.truste.com/privacy-seal/Sonatype/validation?rid=44584143-8a53-4dec-b3db-244bb831ed55 "TRUSTe European Safe Harbor certification")
+
 ## SONATYPE, INC. PRIVACY POLICY
 
-**Effective 01 January, 2012** , at Sonatype, Inc. ("Sonatype" or "us" or "we"), we respect the privacy rights of our online visitors and recognize the importance of protecting the information we collect about you. Our Privacy Policy is designed to help you understand how we collect and use the personal information you decide to share. This Privacy Policy applies to our website located at [www.Sonatype.com](http://www.sonatype.com/), [www.maven.org](http://www.maven.org/) and its related subdomains (collectively, the "Site") and all products and services we offer on the Site (together with the Site, the "Service").
+**Effective 24 December, 2013** , at Sonatype, Inc. ("Sonatype" or "us" or "we"), we respect the privacy rights of our online visitors and recognize the importance of protecting the information we collect about you. Our Privacy Policy is designed to help you understand how we collect and use the personal information you decide to share. This Privacy Policy applies to our website located at [www.Sonatype.com](http://www.sonatype.com/), [www.maven.org](http://www.maven.org/) and its related subdomains (collectively, the "Site") and all products and services we offer on the Site (together with the Site, the "Service").
 
 Sonatype, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@Sonatype.com](mailto:privacy@Sonatype.com). If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint).
 
 The TRUSTe program covers the following Web site: [www.Sonatype.com](http://www.sonatype.com/) and [www.maven.org](http://www.maven.org/). 
-
-[We self-certify compliance with:](https://safeharbor.export.gov/list.aspx)   
-[](http://export.gov/safeharbor/)
 
 Sonatype, Inc. complies with the U.S. – E.U. Safe Harbor Framework and the U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Sonatype, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Sonatype, Inc.’s certification, please visit <http://www.export.gov/safeharbor/>.
 
@@ -25,11 +24,11 @@ In general, you can use our Service without providing us with any personal infor
 
 
   * Registration Information - When you register with Sonatype, you provide us with certain personal information, such as first and last name, e-mail address, username, and an account password. We may use this information to contact you regarding notifications about the Service or new products and services we make available. We may also contact you, including by e-mail, with respect to any transaction you enter into with us, such as purchasing a product or service, making a support or sales inquiry, and the like.
-  * Log Information - When you access the Service, our servers automatically record information that your browser sends whenever you visit a website and our analytics platform may capture additional information about use of our Site. This information may include information such as your Internet Protocol address, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information to analyze trends, to administer the Service, to track users' movements around the Site and to gather demographic information about our user base as a whole. We do not link this automatically-collected data to personally identifiable information.
+  * Log Information - When you access the Service, our servers automatically record information that your browser sends whenever you visit a website and our analytics platform may capture additional information about use of our Site. This information may include information such as your Internet Protocol address, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information to analyze trends, to administer the Service, to track users' movements around the Site and to gather demographic information about our user base as a whole. We do not link this automatically-collected data to personal information.
   * Cookies - We store certain information from your browser using "cookies". A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We may use cookies to improve our Service including by storing user preferences and tracking user trends. We also use cookies in our advertising services to help advertisers and publishers serve and manage ads across the web. We or our third party advertisers may set a cookie in your browser when you visit a website or click on an ad supported by our advertising services.
-  * We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by [clicking here](http://preferences.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads. 
-  * Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, scripts, and frames that help them better manage content on our site. We do not tie the information gathered to our Customers’ or Users’ personally identifiable information.
-  * Order Information - If you purchase a product or service from us, we request certain personally identifiable information from you on our order form. You must provide contact information (such as name, email and shipping address) and financial information (such as credit card number and expiration date). We use this information for billing purposes and to fill your orders. If we have trouble processing an order, need to return an item, or otherwise have customer service or support issues, we will use this information to contact and assist you.
+  * We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personal information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by [clicking here](http://preferences.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads. 
+  * Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, scripts, and frames that help them better manage content on our site. We do not tie the information gathered to our Customers’ or Users’ personal information.
+  * Order Information - If you purchase a product or service from us, we request certain personal information from you on our order form. You must provide contact information (such as name, email and shipping address) and financial information (such as credit card number and expiration date). We use this information for billing purposes and to fill your orders. If we have trouble processing an order, need to return an item, or otherwise have customer service or support issues, we will use this information to contact and assist you.
   * User Communications - When you send email or other communications to us, we may retain those communications in order to process your inquiries, respond to your requests and improve the Service.
   * We purchase lead data about our potential customers from third parties and combine it with information we already have about you, to create more tailored business leads. 
 
@@ -57,7 +56,7 @@ We may share with third parties aggregate, non-personal information. Such inform
 
 ### Choice/Opt-out
 
-We provide you with the opportunity to "opt-out" of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference at the time the information is collected.
+We provide you with the opportunity to "opt-out" of having your personal information used for certain purposes, when we ask for this information. For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference at the time the information is collected.
 
 If you no longer wish to receive our promotional communications, you may opt-out of receiving them by following the instructions included in the applicable message, by setting preferences as may be otherwise indicated on the Site or by contacting Sonatype at the address set forth at the bottom of this Privacy Policy.
 
@@ -65,13 +64,17 @@ We share your personal information with other companies so that they can market 
 
 ### Links
 
-This Privacy Policy applies solely to information collected by Sonatype. The Site may contain links to other third party websites. Even if the third party is affiliated with Sonatype through a business partnership or otherwise, we are not responsible for the privacy practices of other websites. We encourage our users to be aware when they leave the Site to read the privacy statements of each and every website that collects personally identifiable information.
+This Privacy Policy applies solely to information collected by Sonatype. The Site may contain links to other third party websites. Even if the third party is affiliated with Sonatype through a business partnership or otherwise, we are not responsible for the privacy practices of other websites. We encourage our users to be aware when they leave the Site to read the privacy statements of each and every website that collects personal information.
+
+### Social Media Widgets
+
+Our Web site includes Social Media Features, such as the Facebook Like button [and Widgets, such as the Share this button or interactive mini-programs that run on our site]. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
 ### Surveys or Contests
 
-From time-to-time we may provide you the opportunity to participate in contests or surveys on our site. If you participate, we will request certain personally identifiable information from you. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code). We use this information to notify contest winners and award prizes.
+From time-to-time we may provide you the opportunity to participate in contests or surveys on our site. If you participate, we will request certain personal information from you. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code). We use this information to notify contest winners and award prizes.
 
-We use a third party service provider to conduct these surveys or contests; that company is prohibited from using our users’ personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+We use a third party service provider to conduct these surveys or contests; that company is prohibited from using our users’ personal information for any other purpose. We will not share the personal information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
 ### Customer Testimonials
 
@@ -99,8 +102,8 @@ Sonatype regularly reviews its compliance with this Privacy Policy. Please feel 
 
 **Privacy Matters**   
 Sonatype, Inc.  
-12501 Prosperity Drive, Suite 350  
-Silver Spring, MD 20904  
+8161 Maple Lawn Blvd, Suite 250  
+Fulton, MD 20759  
 
 
 We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer or personal data that cannot be resolved between Sonatype and an individual.
