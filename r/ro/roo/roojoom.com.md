@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the roojoom.com privacy policy that was archived on 2013-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131130080213id_/http%3A//info.roojoom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roojoom.com privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531170335id_/http%3A//info.roojoom.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Roojoom Blog & About
+# Privacy Policy | Roojoom Blog
 
 Roojoom (in this policy: “ **Us** “, “ **We** ” and “ **Our** “) respects your privacy. This policy explains the accepted privacy practices for our services through [www.roojoom.com](http://www.roojoom.com/) and through our mobile application (collectively – the “ **Service** “). It describes the ways your information is collected and used and the rights and options available to you with respect to such information. This policy is an integral part of the Service’s [Terms of Use](http://info.roojoom.com/term-of-use) .
 
