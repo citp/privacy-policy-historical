@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the envisionexperience.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127070406id_/http%3A//www.envisionexperience.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the envisionexperience.com privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531182847id_/http%3A//www.envisionexperience.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Envision Experience
+# Privacy Policy
 
 This privacy policy is provided by Leadership Platform Acquisition Corporation, a Delaware corporation, doing business as Envision EMI (“Envision,” “Envision EMI,” or “we”) and is applicable to this Site and any other website operated by Envision.
 
@@ -9,6 +9,8 @@ This privacy policy is provided by Leadership Platform Acquisition Corporation, 
 This Envision Site is not intended to target children under the age of 13. However, it is possible that from time to time children below the age of 13 will register at our Site. Therefore, we are providing notices and information required by the Children’s Online Privacy Protection Act (“COPPA”).
 
 COPPA requires that we inform parents and legal guardians about how Envision collects, uses, and discloses Personally Identifiable Information from children less than 13 years of age. The statute also requires that Envision generally obtain the consent of parents or guardians before children under 13 years of age to access our Web site. This Privacy Policy is designed to fully comply with COPPA.
+
+We encourage teachers to check with their schools for their specific rules and regulations regarding disclosure of student information. 
 
 As we continue to offer different types of content and services, we may modify our practices from time to time. However, we will treat all Personally Identifiable Information we collect in accordance with the privacy notice in effect at the time the information is collected.
 
