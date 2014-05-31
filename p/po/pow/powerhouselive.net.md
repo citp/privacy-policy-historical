@@ -1,58 +1,68 @@
-> *The following text is extracted and transformed from the powerhouselive.net privacy policy that was archived on 2009-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090209002907id_/http%3A//www.powerhouselive.net/Page-Privacy_13.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerhouselive.net privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531081824id_/http%3A//www.powerhouselive.net/Page-PrivacyPolicy_13.aspx) for the most accurate reproduction.*
 
 # Powerhouse :: Privacy Policy
 
-  
  
 
-**Policy Statement**
+Safeguarding your privacy and the security of your personal information is important to us.  Please take a few minutes to read the following policy so that you understand how we treat your personal information. As we continuously improve and expand our services, this policy might change without notice, so please check it periodically.  If you have questions about our privacy policy, please contact us via [host@powerhoselive.net](mailto:host@powerhoselive.net) at your convenience.
 
-This Privacy Policy pertains to the Powerhouse's official website, [www.powerhouselive.net](http://www.powerhouselive.net/).  As you use this site, you automatically consent of our use of your personal information in the means stated by this privacy policy. Our main purpose is not to gain personal information, but to provide information about the Powerhouse. The information gathered from this website will be utilized to improve the content of our web site, to notify consumers about updates to our web site, to process consumer purchase transactions and to contact consumers for marketing purposes.
+▶  **Purpose**
 
-**Information Gathered**
+Powerhouse has adopted this Privacy Policy in order to inform you of its policies with respect to information collected from the website.  Your use of the Powerhouse website constitutes your acceptance of this Privacy Policy and your consent to the practices it describes.
 
-As you enter this web site, we collect the domain name of visitors to our web site, the e-mail addresses of those who register as members or contact us via e-mail, cumulative information on what pages consumers’ access or visit, and information registered by the visitor, such as contact information and survey information. At any time, you may volunteer to provide us information when you choose to register on our site, purchase items or order tickets through a site, join an e-mail group, make a donation, participate in a survey, or contact us with your questions or comments.
+▶  **Personally Identifiable Information**
+
+Personally Identifiable Information is any information that concerns you individually and would permit someone to contact you, for example, your name, address, telephone/fax number, email address or any information you submit to powerhouselive.net that identifies you individually. The website will not collect any personally identifiable information about you unless you provide it. Therefore, if you do not want us to obtain any personally identifiable information about you, please do not submit it to us.
+
+You can visit and browse powerhouselive.net without revealing personally identifiable information about yourself, but not all functions will be available to you.  You would have to choose to disclose personally identifiable information about yourself, which may be maintained as described below. The Web Sites and the Applications may collect personally identifiable information about you by methods such as the following:
+
+_  
+Registration Forms_
+
+   If you are offered the opportunity to enter a promotion, to become a registered user of powerhouselive.net, or to opt-in to receive Powerhouse’s concert information through various email applications, you must apply by filling out the registration form available on powerhouselive.net.  This form requires certain personally identifiable information that may include, without limitation, your name, email address, postal address, telephone number, areas of interest, product usage, credit/debit card number(s) with associated expiration date(s), CVV and billing zip code(s), and/or a unique individual password.
+
+_  
+Transactions and Activity_
+
+    If you become a registered user or if you conduct transactions through the website, we will collect information about the transactions you engage in while on the Web Sites or Application and your other activity on the website.  This information may include, without limitation, areas of the website that you visit, transaction type, content that you view, download or submit, transaction amount, payment, and billing information as well as the nature, quantity and price of the goods or services you exchange and the individuals or entities with whom you communicate or transact business.
+
+_  
+Email and other voluntary communications_
+
+     You may also choose to communicate with us through email, by telephone, in writing, or through other means.  We also collect the information in these communications, and such information may be personally identifiable.
+
+▶  **Information Use**
+
+Powerhouse may use the personally identifiable information collected through its website primarily for such purposes as:
+
+·         helping to establish and verify the identity of users
+
+·         opening, maintaining, administering and servicing users' accounts or memberships
+
+·         processing, servicing or enforcing transactions and sending related communications
+
+·         providing services and support to users
+
+·         providing users with product or service updates, promotional notices and offers, and other information about Powerhouse concerts
+
+·         responding to your questions inquiries, comments and instructions
+
+·         protecting our systems from fraud and unlawful access;
+
+·         maintaining the security and integrity of its systems.
+
+▶  **Disclosure of Information**
+
+Powerhouse does not provide personally identifiable information to unaffiliated third parties for their use in marketing directly to you.  Powerhouse may use unaffiliated companies to help it maintain and operate its Web Sites, payment processing, or for other reasons related to the operation of its business, and those companies may receive your personally identifiable information for that purpose.  These companies may only use such personally identifiable information for the purpose or performing those functions and may not use it for any other purpose.  Powerhouse may also disclose personally identifiable information about you in connection with legal requirements, such as in response to an authorized subpoena, governmental request or investigation, or as otherwise permitted by law.
+
+▶  **Security**
+
+Powerhouse maintains physical, electronic, and procedural safeguards to help guard personally identifiable information.  If transactions are being offered on the website, all pertaining data and information are transmitted from your computer to Powerhouse's server in encrypted form using industry-standard Secure Sockets Layer (SSL) connections to help protect such information from interception.  Powerhouse restricts any and all authorized access to your personal information to those persons who have a legitimate purpose to know that information to provide products or services to you and those persons you have authorized to have access to such information. credit/debit card number(s) you elect to provide on file as part of your online profile for use when placing an order through Powerhouse website will be tokenized and maintained in an encrypted format by a third party provider to further lower any risk.   It is your responsibility to protect the integrity of your own account by keeping your account name and password safe.  Please be aware, however, that any email or other transmission you send through the internet cannot be completely protected against unauthorized interception.  
+
 
   
-**  
-IP Addresses**
+While we use SSL encryption to protect personally identifiable information online, we also take measures to protect your information off-line.  All of our users' information is restricted in our offices. Only employees who need the information to perform a specific task are granted access to identifiable information. Furthermore, all employees are fully informed about our security and privacy practices and updated as new policies are added or revised. 
 
-An Internet Protocol (IP) address is a number that is automatically assigned to every computer connected to the internet. After each visit to our web page, our web server automatically recognizes the visitor’s domain name or IP address. Our servers log the visitors’ IP address, but the visitor remains anonymous to us. IP addresses are gathered for the purposes of system administration and to audit the use of our site. Also, IP addresses are collected for statistical information for marketing and promotional purposes. At times, we may use IP addresses to identify a user when it is necessary to enforce compliance with the regulations administered in this site or to protect our services, site, customers, or etc. 
+▶  **Revision Date**
 
-  
-**  
-Cookies**
-
-A cookie is a small text file that is created in the computer’s hard drive, which gives the user a unique and random ID. This ID allows the web site to recognize each visitor the next time the site is referenced. Cookies are used to store visitor preferences (this makes it easier for the user), to record session information, and to record user-specific information on what page users access or visit. If a cookie were to be rejected, you may still visit our site, but will not be able to utilize all the functions, which some may require you to log in.
-
-**
-
-Use of Information
-
-**
-
-The information given to us will be utilized to operate our web site and to deliver services that are available for our members and visitors. We may use the information to perform market research and reports. We may also share your information anonymously to a third party. In addition, if you provide us with your postal address online or your e-mail address, you may receive mail or e-mails from us with information on new services and upcoming events. At times, we may provide postal addresses and e-mail addresses to other reputable organizations that we think would be of interest to our members and visitors. However, we will not share your telephone number with any other organizations. When you purchase items or tickets on our web site, we will have to share the information you disclose at the time you make the purchase with: 1) the shipper for purposes of delivering products and 2) the credit card processor for purposes of collecting money for purchases. We also reserve the right to disclose any information as necessary to satisfy any applicable law, regulation, legal process, or government request or to cooperate with law enforcement and other authorities in investigating a claim of illegal activity. All information will be monitored by the Powerhouse. 
-
-**Option to Restrict Use of Information**
-
-If you do not wish to receive mail, e-mails, or telephone calls from us in the future, please inform us by sending us an e-mail at [host@powerhouselive.net](mailto:host@powerhouselive.net) with your exact name and address. Also, inform us if you do not wish to share your postal address or e-mail address with other companies or organizations. We will be sure your name and personal contact information is removed from the list we share with other organizations. 
-
-**Changes to the Use of Information**
-
-At times, we may use customer information for new and unforeseen uses not disclosed in this privacy policy. If this may occur, we will notify our members either through e-mail or through our web site before we practice these uses. You will have the ability to opt out if you please. Customers may prevent their information from being used for purposes other than those for which it was originally collected by sending us an e-mail at [host@powerhouselive.net](mailto:host@powerhouselive.net).  
-
-**Customer Review**
-
-Upon request, we provide our members with access to their information, which they can access and have it corrected. To do so, please send an e-mail to [host@powerhouselive.net](mailto:host@powerhouselive.net). 
-
-  
-**  
-Security**
-
-When sensitive information is transferred and received, that page is redirected to a secure server for the transfer to take place. We have made precautions for security measures to protect against the loss, misuse or alteration of information that we have collected from you at our site. Unfortunately, no data transmission over the internet can be guaranteed to be 100% secure. As we try and protect our members and visitors as well as we can, we cannot ensure or guarantee the security of any information you transmit to us or any information provided by our on-line products or services, and you do so at your own risk. We are not liable for disclosures of your personal information due to errors in transmission or unauthorized acts of third parties. However, we will make our best efforts to ensure security on our systems. 
-
-  
-**  
-Contact**
-
-If there are any questions, comments, or concerns, feel free to contact us via email at [host@powerhouselive.net](mailto:host@powerhouselive.net). We value our visitors and members of this site and will put into careful consideration on all inquiries.
+This policy was last updated December 10, 2013.
