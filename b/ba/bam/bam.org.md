@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bam.org privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118071955id_/http%3A//www.bam.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bam.org privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531151705id_/http%3A//www.bam.org/about/privacy-policy) for the most accurate reproduction.*
 
 # BAM | Privacy Policy
 
@@ -17,6 +17,8 @@ When you visit BAM's websites, we automatically collect website usage informatio
 We use cookie technology to gain information that helps us improve the user experience and enhances the functionality of our websites. A cookie is a small amount of data sent by our websites and stored on your computer's hard drive that our site can read, and which helps us keep track of how you use our websites. Many web browsers automatically accept cookies by default but contain an option for you to disable the cookie acceptance if you prefer. If you disable cookie acceptance, bear in mind that you will not be able to purchase tickets to BAM online. We do not allow unrelated third parties to set cookies via BAM's family of websites.
 
 BAM uses electronic images known as web beacons to monitor the activity of our email messages. These web beacons allow BAM's email service provider to obtain information such as the IP address of the computer that opened the email and what links were clicked within the email. With both cookies and web beacon technology, the information that we collect and share is anonymous and not personally identifiable. 
+
+BAM uses remarketing with Google Analytics to advertise online. This means that BAM allows third party vendors to show BAM’s ads on sites across the Internet. BAM and these third party vendors use first party cookies and third party cookies together to inform, optimize, and serve ads based on a visitor’s past visits to BAM.org.
 
 We employ third parties to perform functions like sending postal mail and email, removing repetitive information from customer lists, and processing credit card payments. These parties have access to personal information that is necessary to perform their functions, but they are contractually obligated not to use it for other purposes. 
 
