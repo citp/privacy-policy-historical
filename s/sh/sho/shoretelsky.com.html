@@ -1,21 +1,21 @@
-<!--The following is the downloaded HTML source of the shoretelsky.com privacy policy that was archived on 2013-11-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131130092222id_/http%3A//www.shoretelsky.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shoretelsky.com privacy policy that was archived on 2014-05-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140531064623id_/http%3A//www.shoretelsky.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" id="shoretelsky-com" lang="en" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" style=""><head>
-  <meta charset="utf-8">
+  <meta charset="utf-8"><div class="fit-vids-style" id="fit-vids-style" style="display: none;">­<style>.fluid-width-video-wrapper{width:100%;position:relative;padding:0;}.fluid-width-video-wrapper iframe,.fluid-width-video-wrapper object,.fluid-width-video-wrapper embed {position:absolute;top:0;left:0;width:100%;height:100%;}</style></div><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-4LHV"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgMCU15WGwEJVVJXAQc="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
   <title>Privacy Policy | ShoreTel Sky</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <link rel="stylesheet" href="/assets/css/17ed2c3b.main.min.css">
+    <link rel="stylesheet" href="/assets/css/81eb20de.main.min.css">
   
-  <div class="fit-vids-style" id="fit-vids-style" style="display: none;">­<style>.fluid-width-video-wrapper{width:100%;position:relative;padding:0;}.fluid-width-video-wrapper iframe,.fluid-width-video-wrapper object,.fluid-width-video-wrapper embed {position:absolute;top:0;left:0;width:100%;height:100%;}</style></div><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-4LHV"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
   <script>window.jQuery || document.write('<script src="/assets/js/vendor/jquery-1.10.2.min.js"><\/script>')</script><script src="/assets/js/vendor/jquery-1.10.2.min.js"></script>
   <script src="/assets/js/vendor/jquery-migrate-1.2.1.min.js"></script>
 
   <script src="//cdn.optimizely.com/js/309246673.js"></script>
 
   
-<!-- This site is optimized with the Yoast WordPress SEO plugin v1.4.19 - http://yoast.com/wordpress/seo/ -->
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.4.24 - http://yoast.com/wordpress/seo/ -->
 <meta name="description" content="ShoreTel is committed to protecting the privacy of the personally-identifiable information that we collect from you as you use this Web site.">
 <link rel="canonical" href="http://www.shoretelsky.com/privacy/">
 <meta property="og:locale" content="en_US">
@@ -60,7 +60,70 @@
         postAuthor;
     postType = 'Page';
         postAuthor = 'Amber Bigler Newman';
-      </script>
+        var demoLink = '<a data-toggle="modal" href="#demos" data-target="#demos" class="btn btn-large btn-primary" data-demo-video-id="">View Demo Videos</a>';
+    var tourLink = '<a data-toggle="modal" href="/app/themes/shoretelsky/templates/modals/modal-quick-tour.php" data-target="#quick-tour" class="" data-tour-video-id="">view our quick tour video</a>';
+  </script>
+
+  <!-- One Tag Conditional Container: Shoretel (4986) | Shoretel oneTag (3498) -->
+  <script>
+  var ft_onetag_3498 = {
+    ft_vars:{
+      "ftXRef":"",
+      "ftXValue":"",
+      "ftXType":"",
+      "ftXName":"",
+      "ftXNumItems":"",
+      "ftXCurrency":"",
+      "U1":"",
+      "U2":"",
+      "U3":"",
+      "U4":"",
+      "U5":"",
+      "U6":"",
+      "U7":"",
+      "U8":"",
+      "U9":"",
+      "U10":"",
+      "U11":"",
+      "U12":"",
+      "U13":"",
+      "U14":"",
+      "U15":"",
+      "U16":"",
+      "U17":"",
+      "U18":"",
+      "U19":"",
+      "U20":""
+      },
+    ot_dom:document.location.protocol+'//servedby.flashtalking.com',
+    ot_path:'/container/4986;29745;3498;iframe/?',
+    ot_href:'ft_referrer='+escape(document.location.href),
+    ot_rand:Math.random()*1000000,
+    ot_ref:document.referrer,
+    ot_init:function(){
+      var o=this,qs='',count=0,ns='';
+      for(var key in o.ft_vars){
+        qs+=(o.ft_vars[key]==''?'':key+'='+o.ft_vars[key]+'&');
+      }
+      count=o.ot_path.length+qs.length+o.ot_href+escape(o.ot_ref).length;
+      ns=o.ot_ns(count-2000);
+      document.write('<iframe style="position:absolute; visibility:hidden; width:1px; height:1px;" src="'+o.ot_dom+o.ot_path+qs+o.ot_href+'&ns='+ns+'&cb='+o.ot_rand+'"></iframe>');
+    },
+    ot_ns:function(diff){
+      if(diff>0){
+        var o=this,qo={},
+          sp=/(?:^|&)([^&=]*)=?([^&]*)/g,
+          fp=/^(http[s]?):\/\/?([^:\/\s]+)\/([\w\.]+[^#?\s]+)(.*)?/.exec(o.ot_ref),
+          ro={h:fp[2],p:fp[3],qs:fp[4].replace(sp,function(p1,p2,p3){if(p2)qo[p2]=[p3]})};
+        return escape(ro.h+ro.p.substring(0,10)+(qo.q?'?q='+unescape(qo.q):'?p='+unescape(qo.p)));
+      }else{
+        var o=this;
+        return escape(unescape(o.ot_ref));
+      }
+        }
+    }
+  ft_onetag_3498.ot_init();
+  </script><iframe style="position:absolute; visibility:hidden; width:1px; height:1px;" src="https://servedby.flashtalking.com/container/4986;29745;3498;iframe/?ft_referrer=https%3A//web.archive.org/web/20140531064623id_/http%3A//www.shoretelsky.com/privacy/&amp;ns=&amp;cb=112030.7191342207"></iframe>
 
   <!--[if lt IE 8]><div class="alert alert-warning">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</div><![endif]-->
 
@@ -211,30 +274,30 @@
   <li><a data-toggle="modal" href="#contact" class="btn btn-primary"><i class="icon-group"></i> Contact Sales</a></li>
 </ul></div>
 		</div></section><section class="widget text-2 widget_text"><div class="widget-inner"><h3>Client Testimonials</h3>			<div class="textwidget">        <blockquote>
-      <p>Our <a href="/replace-an-old-phone-system/">old phone system</a> literally caught on fire.  We switched to ShoreTel Sky and within a couple of days they were able to get us up and running.</p>
+      <p>We want to provide our employees with a good working environment and quality of life. The ShoreTel Sky phones enable them to be more efficient which gives them more opportunity to succeed.</p>
             <small>
-        Eric Ottaway, General Manager                <cite>Brooklyn Brewery</cite>
+        Tim Patnode, IT Director                <cite>Stark Automotive</cite>
               </small>
           </blockquote>
 
           <blockquote>
-      <p>ShoreTel has helped keep our NYC Office up and running during the darkest days we have experienced.</p>
+      <p>The ShoreTel Sky system was the most robust, extensible, affordable and customizable solution we found.</p>
             <small>
-        William Silliman, VP of IT &amp; Development                <cite>National Holdings Corp</cite>
+        Tony Hakes, Help Desk Supervisor                <cite>Sotera Defense Solutions</cite>
               </small>
           </blockquote>
 
           <blockquote>
-      <p>Because we have a <a href="/why-shoretelsky/phone-systems/">managed phone system</a>, all I have to do is call ShoreTel to order the new phones and use the online portal to send them programming requests that they complete offsite. That’s a huge time and cost saver for our IT staff and ensures phones are customized and working quickly.</p>
+      <p>Our goal is to provide excellent customer service. The ShoreTel Sky phone system assists in achieving that goal.</p>
             <small>
-        Vida Shaver, IT Manager                <cite>Cargo Airport Services</cite>
+        Kim Warrick, Client Services Manager                <cite>New Jersey SHARES</cite>
               </small>
           </blockquote>
 
           <blockquote>
-      <p>ShoreTel Sky allows us to be <a href="/products/unified-communications/">mobile without missing communication</a>, to save costs in terms of long distance calls and hours spent reconciling billing, and ultimately to be more productive.</p>
+      <p>With ShoreTel Sky, you get the latest technology without investing more dollars.</p>
             <small>
-        Lesley Edinboro, Managing Director of Information Technology                <cite>Amnesty International USA</cite>
+        Samuel A. Litt, Director of Information Technology                <cite>John Carris Investments</cite>
               </small>
           </blockquote>
 
@@ -307,28 +370,36 @@
   </div>
   <div class="content-info-bottom">
     <div class="container">
-      <section class="widget text-6 widget_text"><div class="widget-inner">			<div class="textwidget"><p>© 2013 ShoreTel, Inc. · <a href="/privacy/">Privacy Policy</a></p></div>
+      <section class="widget text-6 widget_text"><div class="widget-inner">			<div class="textwidget"><p>© 2014 ShoreTel, Inc. · <a href="/privacy/">Privacy Policy</a></p></div>
 		</div></section><section class="widget text-7 widget_text"><div class="widget-inner">			<div class="textwidget"><ul class="social">
-<li><a href="https://www.facebook.com/ShoreTelSky"><i class="icon-facebook"></i></a></li>
-<li><a href="http://twitter.com/ShoreTelSky"><i class="icon-twitter"></i></a></li>
+<li><a href="https://www.facebook.com/shoretel"><i class="icon-facebook"></i></a></li>
+<li><a href="http://twitter.com/shoretel"><i class="icon-twitter"></i></a></li>
 <li><a href="https://vimeo.com/shoretelsky"><i class="icon-vimeo"></i></a></li>
-<li><a href="http://instagram.com/shoretelsky"><i class="icon-instagram"></i></a></li>
-<li><a href="http://pinterest.com/shoretelsky"><i class="icon-pinterest"></i></a></li>
 <li><a href="http://www.linkedin.com/company/10132"><i class="icon-linkedin"></i></a></li>
-<li><a href="https://plus.google.com/113522194841971370282"><i class="icon-google-plus"></i></a></li>
-<li><a href="http://www.slideshare.net/ShoreTelSky"><i class="icon-slideshare"></i></a></li>
+<li><a href="https://plus.google.com/+shoretel"><i class="icon-google-plus"></i></a></li>
+<li><a href="http://www.slideshare.net/shoretel"><i class="icon-slideshare"></i></a></li>
 </ul></div>
 		</div></section>    </div>
   </div>
 </footer>
 
-<script src="/assets/js/ae74c04d.scripts.min.js"></script>
+<script src="/assets/js/4df1c1bc.scripts.min.js"></script>
 
 <!--[if (lt IE 9) & (!IEMobile)]>
 <script src="/assets/js/vendor/rem.min.js"></script>
 <![endif]-->
 
+<script>
+  var google_conversion_id = 1071317547;
+  var google_custom_params = window.google_tag_params;
+  var google_remarketing_only = true;
+  var google_conversion_format = 3;
+</script>
+<script src="//www.googleadservices.com/pagead/conversion.js"></script>
+<noscript><div style="display:inline;"><img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1071317547/?value=0&amp;guid=ON&amp;script=0"/></div></noscript>
+
 <script type="text/javascript" src="//js.hubspot.com/forms/current.js"></script>
+<script type="text/javascript" src="http://a.vimeocdn.com/js/froogaloop2.min.js"></script>
 
   <div id="quick-tour" class="modal modal-wide modal-videos fade" tabindex="-1" role="dialog" aria-hidden="true"></div>
 
@@ -354,28 +425,19 @@
   <div class="modal-dialog">
     <div class="modal-content">
       <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-      <div class="modal-body">
-        <div class="row">
-          <div id="asset" class="col-md-8"></div>
-          <div class="col-md-4">
-            <h2>Take the next step.</h2>
-            <p>That big button is there for a reason. Click it to see our products in action and get instant access to our library of product demo videos. Or, if you're not ready for that level of commitment, <a data-toggle="modal" href="/app/themes/shoretelsky/templates/modals/modal-quick-tour.php" data-target="#quick-tour" class="" data-tour-video-id="">view our quick tour video</a>.</p>
-            <p><a data-toggle="modal" href="#demos" data-target="#demos" class="btn btn-large btn-primary" data-demo-video-id="">View Demo Videos</a></p>
-          </div>
-        </div>
-      </div>
+      <div class="modal-body"></div>
     </div>
   </div>
 </div>
 
   
-
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-4.newrelic.com","licenseKey":"0cb4d45c62","applicationID":"2913566","transactionName":"YF1UMBQCVkRVAUwKXFkXYxYPTFFZUAdATUNfSA==","queueTime":0,"applicationTime":1701,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
 
 
 <!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
 
 Page Caching using apc
-Database Caching 9/22 queries in 0.177 seconds using apc
-Object Caching 2860/2872 objects using apc
+Database Caching using apc
+Object Caching 2768/3206 objects using apc
 
- Served from: www.shoretelsky.com @ 2013-11-30 03:30:09 by W3 Total Cache --></body></html>
+ Served from: www.shoretelsky.com @ 2014-05-31 02:46:22 by W3 Total Cache --><script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
