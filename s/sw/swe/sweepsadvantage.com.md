@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sweepsadvantage.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226115645id_/http%3A//www.sweepsadvantage.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweepsadvantage.com privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531234039id_/http%3A//www.sweepsadvantage.com/privacy.htm) for the most accurate reproduction.*
 
 # Sweepstakes Advantage is committed to respecting and protecting your personal privacy
 
@@ -8,7 +8,7 @@
 **What Does the Sweepstakes Advantage   Privacy Policy Cover?**  
   
   * This Privacy Policy applies to sites that have URLs (for example, www. _____.com) ending in Sweepstakes Advantage .com or sweeps.ws.. 
-  * Inclusion of the Sweepstakes Advantage  logo at the top of a web page does not necessarily mean that this Privacy Policy applies. Be sure to check the URL that you link to from Sweepstakes Advantage  web pages to determine whether this Privacy Policy applies. If you have any questions about this, contact us at [webmaster@sweepsadvantage.com](mailto:webmaster@sweepsadvantage.com).
+  * Inclusion of the Sweepstakes Advantage  logo at the top of a web page does not necessarily mean that this Privacy Policy applies. Be sure to check the URL that you link to from Sweepstakes Advantage  web pages to determine whether this Privacy Policy applies. If you have any questions about this, contact us at [info@sweepsadvantage.com](mailto:info@sweepsadvantage.com).
 
   
 **What Information Does Sweepstakes Advantage   Collect From You?**  
@@ -44,8 +44,8 @@
 Sweepstakes Advantage  updates this policy from time to time so please review it periodically. Bear in mind that the only way to ensure your personal privacy whenever you are on the Internet is to make sure your browser is configured so that you are alerted to the placement of all cookies.  
 **Your Questions or Suggestions Regarding This Privacy Policy**  
   
-  * If you have any questions or concerns about this privacy policy or the practices of this site, please email us at [webmaster@sweepsadvantage.com](mailto:webmaster@sweepsadvantage.com) .
+  * If you have any questions or concerns about this privacy policy or the practices of this site, please email us at [info@sweepsadvantage.com](mailto:webmaster@sweepsadvantage.com) .
 
-Last updated February 26, 2010  
+Last updated January 28, 2014  
   
  
