@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the stacymakescents.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225112904id_/http%3A//www.stacymakescents.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stacymakescents.com privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531073822id_/http%3A//www.stacymakescents.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — Stacy Makes Cents
+# Privacy Policy - Stacy Makes Cents
+
+Disclosure: Some content includes links to sponsors or affiliates, which give me a small percentage of the sale. You are not obligated to use these links when you make a purchase, but when you do so it helps to support this site, so thank you!
 
 ### Summary
 
@@ -29,8 +31,6 @@ Stacy Makes Cents has links to numerous third party websites.  We cannot contro
 ### Changes/Updates
 
 This privacy policy was last updated on July 16, 2013.  The contents of this statement may be altered at any time, for any reason.  [Contact us](http://www.stacymakescents.com/contact) if you have questions about any of the ways your privacy may be impacted by visiting Stacy Makes Cents.
-
-Disclosure: Some content includes links to sponsors or affiliates, which give me a small percentage of the sale. You are not obligated to use these links when you make a purchase, but when you do so it helps to support this site, so thank you!
 
   
 
