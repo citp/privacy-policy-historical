@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hkmarathon.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202020711id_/http%3A//www.hkmarathon.com/Privacy_Policy_and_Disclaimer.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hkmarathon.com privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531043946id_/http%3A//www.hkmarathon.com/Privacy_Policy_and_Disclaimer.htm) for the most accurate reproduction.*
 
 # Privacy Policy and Disclaimer
 
