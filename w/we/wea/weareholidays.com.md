@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weareholidays.com privacy policy that was archived on 2013-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130904183559id_/http%3A//www.weareholidays.co.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weareholidays.com privacy policy that was archived on 2014-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140601003244id_/http%3A//www.weareholidays.co.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Holiday Packages Online Booking, Weekend Getaways, Honeymoon Packages, Activities - WeAreHolidays.com
 
@@ -26,7 +26,7 @@ If you choose to become a registered member of WeAreHolidays.co.in site, you mus
   * To complete holiday, air, hotel, car, and other reservations
   * To allow us to contact you for customer service purposes, if necessary
   * To customize the content of our site to strive to meet your specific needs; and/or
-  * To make product or other improvements to our site. In addition, we need your e-mail address to confirm your new member registration and each reservation you transact on our site. As a WeAreHolidays.co.in site member you will also occasionally receive updates from us about fare sales in your area, special offers, new WeAreHolidays services, and other noteworthy items. However, you may choose at any time to no longer receive these types of e-mail messages. Please see our Opt-out Policy described below for details.
+  * To make product or other improvements to our site. In addition, we need your e-mail address to confirm your new member registration and each reservation you transact on our site. As a WeAreHolidays.co.in site member you will also occasionally receive updates from us about fare sales in your area, special offers, new WeAreHolidays services, and other noteworthy items. However, you may choose at any time to no longer receive these types of e-mail messages. Please see our Opt-out Policy described below for details
 
 
 
