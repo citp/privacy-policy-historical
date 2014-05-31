@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the teepublic.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509133914id_/https%3A//www.teepublic.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teepublic.com privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531113041id_/https%3A//www.teepublic.com/privacy_policy) for the most accurate reproduction.*
 
-# TeePublic
+# Privacy Policy | TeePublic
 
 Brain Buster Enterprises, LLC, the owner and operator of TeePublic.com respects the privacy of our users and has developed this Privacy Policy to demonstrate its commitment to protecting your privacy. This Privacy Policy is intended to describe for you, as an individual who is a user of any of our websites or our services, the information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures.
 
