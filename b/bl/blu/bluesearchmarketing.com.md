@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the bluesearchmarketing.com privacy policy that was archived on 2013-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131023171308id_/http%3A//bluesearchmarketing.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluesearchmarketing.com privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531233237id_/http%3A//bluesearchmarketing.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+**
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and make use of personal information. The following outlines our Privacy Policy. 
 
@@ -62,3 +64,5 @@ Blue Search Marketing
 6778 Westridge CT N, Keizer, OR 97303  
 503.385.8774  
 Please Use Our Contact Us Page
+
+**
