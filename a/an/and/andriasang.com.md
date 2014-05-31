@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the andriasang.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513224813id_/http%3A//andriasang.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the andriasang.com privacy policy that was archived on 2014-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140601015531id_/http%3A//andriasang.com/about/privacy) for the most accurate reproduction.*
 
 # About Andriasang
 
