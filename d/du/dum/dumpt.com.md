@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dumpt.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119211636id_/http%3A//www.dumpt.com/img/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dumpt.com privacy policy that was archived on 2014-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140601022917id_/http%3A//www.dumpt.com/img/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Dumpt - Image Host
 
