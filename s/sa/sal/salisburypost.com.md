@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salisburypost.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203115102id_/http%3A//www.salisburypost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salisburypost.com privacy policy that was archived on 2014-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140601164351id_/http%3A//www.salisburypost.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy - Salisbury Post
 
@@ -10,7 +10,7 @@
 
 
 
-Welcome to the website for the Salisbury Post, [www.salisburypost.com](http://www.salisburypost.com/) (the "Site"). This Site is an online service owned by Post Publishing Company, Inc. (the "Company" or "us"), and powered by Mediaspan Online Services ("Mediaspan"). We recognize that many visitors to our website are concerned about the information that they provide to us or that may be collected, and how we treat that information. In order to address those concerns we have developed this Website Privacy Statement.  
+Welcome to the website for the Salisbury Post, [www.salisburypost.com](http://www.salisburypost.com/) (the "Site"). The Site is an online service owned by the Salisbury Post. ("the Company" or "us"), and powered by Newscycle Solutions ("Newscycle"). We recognize that many visitors to our website are concerned about the information that they provide to us or that may be collected, and how we treat that information. In order to address those concerns we have developed this Website Privacy Statement.  
  **A. TYPES OF INFORMATION COLLECTED**  
 At this website, we may collect both personally identifiable information and non-personal information from you.  
 1\. **Personally identifiable information**. You don't have to provide us with your personally identifiable information (such as your name, address, telephone number, email address, etc.) in order to read most of what's posted on this Site. We may, however, collect personally identifiable information about you when you submit comments in response to one of our stories, sign up to receive information from us, open an account with us, submit a letter to the editor through the Site, enter a contest, respond to a survey, make a forum submission, email us, purchase something through the Site, or at times in which we alert you that you must submit personally identifiable information. Without this information, we would not be able to respond to your inquiries, entries and requests. Please also note that several features of the Site, such as classified ads and blogs, may be operated by third parties. These third parties may also obtain personally identifiable information from you in order to use their services. Please check their privacy policies for information about their privacy practices. In some cases these third parties may provide your personally identifiable information to the Company.  
@@ -33,18 +33,18 @@ You may change your online account information with the Company by accessing you
  **G. PARENTAL OPTIONS AND REVIEW**  
 Parents of children under the age of 13 have the option to agree to the collection and use of their child's personal information without consenting to the disclosure of the information to third parties (subject to the Company's protection of itself and others, disclosures for legal reasons, and the Company's current technological capabilities). In addition, parents can review the personal information provided by their child under the age of 13, ask to have it deleted and refuse to allow any further collection or use of the child's information (subject to the same items as above). In order to make these requests, parents should follow the "Opt Out" procedures set forth in the "Access to Your Personal Information and 'Opt Out' Procedures" section of this Privacy Statement. Please note that, while this Site will not require more information from children under 13 than is reasonably necessary to participate in any activity or event, deletion of required information (such as information that would permit the Company to contact the winner of a contest) may result in termination of the child's participation in an event or activity. Parents should also note that the official rules for contests and promotions on this website may contain additional information related to their children's privacy and the parents' rights and responsibilities.  
  **H. CHANGES TO THIS PRIVACY STATEMENT**  
-This Privacy Statement may be changed from time to time, so we encourage you to check back with every visit to the Site. If you do not agree to one or more of the changes, you may choose to "opt out," using the procedures set forth above. Once the change has been made, all information collected by the Site before or after the change will be subject to the new terms of the Privacy Statement. The current version of this Privacy Statement is effective January 8, 2007.  
+This Privacy Statement may be changed from time to time, so we encourage you to check back with every visit to the Site. If you do not agree to one or more of the changes, you may choose to "opt out," using the procedures set forth above. Once the change has been made, all information collected by the Site before or after the change will be subject to the new terms of the Privacy Statement. The current version of this Privacy Statement is effective March 11, 2014.  
  **I. TO CONTACT US**  
 1\. For general privacy inquiries, please contact us at [webmaster@salisburypost.com](mailto:webmaster@salisburypost.com).  
 2\. Parents of children under 13 seeking to access or change personally identifiable information that has been collected about their children through this Site, or to submit parental consent forms, please contact us at:  
- **Post Publishing Company, Inc.**  
+ **Salisbury Post**  
 Website Privacy Issues  
-c/o **Andy Morrissey**   
+c/o **Webmaster**   
 **PO BOX 4639**  
 **Salisbury, NC 28145**  
-Phone: (704) 797-4280  
+Phone: (704) 797-4212  
 Fax: (704) 639-0003  
-Email: [amorrissey@salisburypost.com](mailto:amorrissey@salisburypost.com)  
-The Company may have several operators collecting or maintaining personal information. The operator that is responsible for responding to privacy inquiries is Andy Morrissey, 131 W. Innes St. Salisbury, NC 28144. Third parties accessible through this Site may have their own such operators.  
-Copyright © 2007, **Post Publishing Company, Inc..** All rights reserved.  
+Email: [webmaster@salisburypost.com](mailto:webmaster@salisburypost.com)
 
+The Company may have several operators collecting or maintaining personal information. The operator that is responsible for responding to privacy inquiries is Chris Crowell, 131 W. Innes St. Salisbury, NC 28144. Third parties accessible through this Site may have their own such operators.  
+Copyright © 2014, Salisbury Post. All rights reserved.
