@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iuptu.in privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117205104id_/http%3A//www.iuptu.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iuptu.in privacy policy that was archived on 2014-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140601063933id_/http%3A//www.iuptu.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | iuptu.in
+# Privacy Policy | www.iuptu.in
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [Privacy](mailto:gaurav@iuptu.in).
 
