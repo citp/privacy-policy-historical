@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stmarys-ca.edu privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817050114id_/http%3A//www.stmarys-ca.edu/college-communications/web-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stmarys-ca.edu privacy policy that was archived on 2014-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140601062401id_/http%3A//www.stmarys-ca.edu/college-communications/guidelines-resources/web-privacy) for the most accurate reproduction.*
 
 # Web Privacy | Saint Mary's College
 
@@ -19,7 +19,7 @@ We are committed to maintaining your confidence and trust, and accordingly maint
 
   * Saint Mary’s may use personal information collected online for the purpose of future communication, in order to keep you informed of such activities as programs and/or special events, but only if you are provided the opportunity to opt out of such communications.
   * Saint Mary’s may use browser-IP-address information to report information about site access. This information is used to improve the user experience of our site, but may also used for troubleshooting purposes.
-  * Some Saint Mary’s  sites that require login may use "cookies" in order to deliver web content specific to individual users’. Personally indentifying information is not stored within cookies.
+  * Some Saint Mary’s sites may use "cookies" in order to deliver web content specific to individual users’. Personally indentifying information is not stored within cookies.
 
 
 
