@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the citethisforme.com privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129084518id_/http%3A//www.citethisforme.com/extras/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citethisforme.com privacy policy that was archived on 2014-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140602015226id_/http%3A//www.citethisforme.com/extras/privacy) for the most accurate reproduction.*
 
-# Privacy policy - Cite This For Me
+# Privacy policy
 
 We take your privacy seriously. This policy describes what personal information we collect and how we use it. (This privacy policy is applicable to websites falling under the primary holder - CiteThisForMe.com)
 
