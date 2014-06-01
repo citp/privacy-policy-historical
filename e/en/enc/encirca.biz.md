@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the encirca.biz privacy policy that was archived on 2013-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130723040340id_/http%3A//www.encirca.com/html/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the encirca.biz privacy policy that was archived on 2014-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140601065108id_/http%3A//encirca.com/html/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy - EnCirca
-
-|| Privacy Policy 
 
 **Privacy Promise**
 
@@ -17,6 +15,8 @@ We promise you that:
 
 **
   * **You can unsubscribe from our marketing communications at any time.**
+
+
 
 Because we want to demonstrate our commitment to your privacy, we have agreed to disclose our information practices for public review. 
 
@@ -45,6 +45,8 @@ EnCirca's policies and procedures are based on the eight internationally recogni
   * Data Quality   
 
   * Accountability 
+
+
 
 **Use Limitation**
 
@@ -93,7 +95,7 @@ We conduct internal and external audits to determine the effectiveness of our co
 EnCirca  
 Attention: Privacy  
 400 W. Cummings Park  
-Suite 1725-307  
+Suite 1725  
 Woburn, MA 01801 
 
 Fax: 781-823-8911  
@@ -116,6 +118,8 @@ EnCirca's Web server may log key information about any visitor to the EnCirca we
   * The "Referrer" (the URL where you clicked on a link to get to EnCirca's site);   
 
   * The IP address where a copy of the page you requested is to be sent for display by your browser. 
+
+
 
 EnCirca "anonymizes" its server logs periodically. EnCirca summarizes each element it tracks, such as browser make and Referrer, the number of visits from higher-level domains, and so on. The individual records are destroyed, thus cutting the link between a particular IP address and the other server elements listed above. Although an IP address does not usually identify the visitor personally, it does suggest an individual association in some cases, which is one reason why we "anonymize" the logs. 
 
@@ -204,7 +208,7 @@ If you have any questions regarding our privacy policy, please contact us at:
 EnCirca  
 Attention: Privacy  
 400 W. Cummings Park  
-Suite 1725-307  
+Suite 1725  
 Woburn, MA 01801>BR>
 
 Fax: 781-823-8911  
