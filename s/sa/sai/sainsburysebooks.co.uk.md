@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sainsburysebooks.co.uk privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202035725id_/http%3A//www.sainsburysebooks.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sainsburysebooks.co.uk privacy policy that was archived on 2014-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140601185559id_/http%3A//www.sainsburysebooks.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy at eBooks by Sainsbury's
 
 This Privacy Policy relates to the website, [www.sainsburysebooks.co.uk ](http://www.sainsburysebooks.co.uk/)(the “Website”) as well as other pages, information, software, apps, services, products and content which may be operated, hosted or managed by Anobii Limited (together the “Services”) and forms part of the Terms and Conditions. The Services may also be governed by additional terms and conditions, therefore please read this Privacy Policy in conjunction with the terms & conditions of any particular Service or Services you are using.
 
-The Services are operated by Anobii Limited, a company registered in England (company registration no. 07282115) whose registered office is at 5-9 Hatton Wall, EC1N 8HX, United Kingdom (“we”, “us”). Anobii Limited is a subsidiary of Sainsbury’s Supermarkets Ltd whose registered office is 33 Holborn, London, EC1N 2HT.
+The Services are operated by Anobii Limited, a company registered in England (company registration no. 07282115) whose registered office is at 5 St John's Lane, London, EC1M 4BH, United Kingdom (“we”, “us”). Anobii Limited is a subsidiary of Sainsbury’s Supermarkets Ltd whose registered office is 33 Holborn, London, EC1N 2HT.
 
 For the purposes of data protection law, Anobii Limited is the data controller of any information received from or in connection with the Services. We are registered with the Information Commissioner’s Office with number Z2651471.
 
@@ -94,4 +94,4 @@ If you wish to exercise any of these rights, please write to us at [contact.us@s
 
 From time to time we may update this Privacy Policy. When we do we will publish the revised Privacy Policy on the Website. If you do not agree to these changes, please do not continue to use the Website and/or the Services. If material changes are made to this Privacy Policy, we will notify registered users by e-mail and by placing a prominent notice on the Website.
 
-This Privacy Policy was last updated October 2013
+This Privacy Policy was last updated January 2014.
