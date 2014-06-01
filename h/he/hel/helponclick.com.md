@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the helponclick.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204220856id_/http%3A//www.helponclick.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helponclick.com privacy policy that was archived on 2014-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140601102408id_/http%3A//www.helponclick.com/privacy.php) for the most accurate reproduction.*
 
 # Live Chat Software privacy statement
 
@@ -9,13 +9,13 @@
 
 
   * [Live Chat Software](https://web.archive.org/) _(6)_
-  * [Virtual Agent ](https://web.archive.org/virtual-agent/) _(6)_
+  * [Virtual Agent](https://web.archive.org/virtual-agent/) _(6)_
 
 
   * [About](https://web.archive.org/about.html) _(9)_
   * [Contact](https://web.archive.org/contact.html) _(0)_
   * [Blog](https://web.archive.org/blog/)
-  * [Help](http://support.helponclick.com/desk/helponclick/kb/category/helponclick/live-chat-software_1)
+  * [Help](https://web.archive.org/live-chat-software/help.php)
   * [Login](https://web.archive.org/login.php)
 
 
