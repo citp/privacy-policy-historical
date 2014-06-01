@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the red.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227070658id_/http%3A//www.red.com/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the red.com privacy policy that was archived on 2014-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140601032341id_/http%3A//www.red.com/legal) for the most accurate reproduction.*
 
 # RED Digital Cinema - Privacy Policy
 
