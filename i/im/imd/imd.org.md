@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imd.org privacy policy that was archived on 2013-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131019085853id_/http%3A//www.imd.org/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imd.org privacy policy that was archived on 2014-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140601035216id_/http%3A//www.imd.org/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy
 
@@ -59,7 +59,7 @@ You can change all of the personal profile information that you have provided un
 * * *
 
 **Data Retention  
-**We will keep the information about you for as long as you remain registered in the IMD community. To delete your personal information, please contact the [IMD webmaster](mailto:webmaster@imd.ch). 
+**We will keep the information about you for as long as you remain registered in the IMD community. To delete your personal information, please contact the IMD Customer services - [info@imd.org](mailto:info@imd.org). 
 
 * * *
 
@@ -81,7 +81,7 @@ Chemin de Bellerive 23
 P.O. Box 915  
 CH-1001 Lausanne,  
 Switzerland  
-Email: [click here](mailto:imd03privacyp0licy@imd.ch)
+Email: [click here](mailto:info@imd.org) 
 
 IMD is governed with respect to privacy in accordance with Swiss law, including provisions and remedies contained therein. You may wish to refer to this page from time to time since this document is subject to change.
 
