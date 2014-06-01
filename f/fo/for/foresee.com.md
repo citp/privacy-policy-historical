@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foresee.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205223039id_/http%3A//www.foresee.com/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foresee.com privacy policy that was archived on 2014-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140601064504id_/http%3A//foresee.com/privacy-policy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy | ForeSee
 
