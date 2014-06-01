@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the topdeck.travel privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212154027id_/https%3A//www.topdeck.travel/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topdeck.travel privacy policy that was archived on 2014-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140601052500id_/https%3A//www.topdeck.travel/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy & Cookies Policy | Topdeck Travel
 
 Topdeck Tours Ltd is committed to the privacy of both existing and prospective clients, and our company respects and shares concerns of our clients over the protection of their personal information. It is for this reason Topdeck adheres to the privacy sector provisions of the Privacy Act 1998.
 
