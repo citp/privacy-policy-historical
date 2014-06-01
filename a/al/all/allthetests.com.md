@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allthetests.com privacy policy that was archived on 2013-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130906020132id_/http%3A//www.allthetests.com/privacy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allthetests.com privacy policy that was archived on 2014-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140601074014id_/http%3A//www.allthetests.com/privacy.php3) for the most accurate reproduction.*
 
 # AllTheTests.com -» Privacy Policy Statement
 
