@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iseeme.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207072942id_/http%3A//www.iseeme.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iseeme.com privacy policy that was archived on 2014-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140601051655id_/http%3A//www.iseeme.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
