@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sescoops.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112160001id_/http%3A//www.sescoops.com/site-info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sescoops.com privacy policy that was archived on 2014-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140601201359id_/http%3A//www.sescoops.com/site-info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SEScoops
 
