@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unitab.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210044930id_/http%3A//www.tattsgroup.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unitab.com privacy policy that was archived on 2014-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140602014955id_/http%3A//www.tattsgroup.com/legal/privacy) for the most accurate reproduction.*
 
 # 
 
@@ -16,13 +16,13 @@ This privacy policy is applicable to Tatts Group Limited and all of its subsidia
 
 ## 3\. Compliance with Privacy Legislation
 
-Tatts Group is bound by, and will comply with, the National Privacy Principles (NPPs) set out in the Privacy Act 1988 (Act).
+Tatts Group is bound by, and will comply with, the Australian Privacy Principles (APPs) set out in the Privacy Act 1988 (Act).
 
 ## 4\. Collection of Personal Information
 
 ### 4.1 Definition of personal information
 
-Personal information is generally defined as information or an opinion that can identify a person. This usually includes information such as your name, date of birth, address, telephone number and possibly your email address. The type of personal information that Tatts Group may collect about you will depend upon the nature of your relationship with Tatts Group. For example, we may need more information about you to become a Tatts Card and Winners Circle card member or a Telebet account holder than we would if you wished only to enter a promotion conducted by Tatts Group. Where reasonable, we will collect information directly from you and also from your use of our various products and services.
+Personal information is generally defined as information or an opinion that can identify or reasonably identify a person. This usually includes information such as your name, date of birth, address, telephone number and possibly your email address. The type of personal information that Tatts Group may collect about you will depend upon the nature of your relationship with Tatts Group. For example, we may need more information about you to become a Tatts Card and Winners Circle card member or an account holder than we would if you wished only to enter a promotion conducted by Tatts Group. Where reasonable and practical to do so, we will collect information directly from you and also from your use of our various products and services.
 
 ### 4.2 Privacy Statement/Notice
 
@@ -47,7 +47,7 @@ Tatts Group does not generally disclose personal information to third parties ex
 
 Specific Tatts Group websites may collect "click stream" information (such as areas of our websites you have accessed and the time and date of access) from your use of our websites. Tatts Group may also collect Doubleclick Adserving information (such as whether a marketing campaign has been effective) from your use of our websites.
 
-We may also store "cookie" information, such as user preferences relating to the use of our websites. A cookie is a small data file that may be placed on the computer of a web user (usually in the browser software folder). The information collected is used to customise and improve websites. If you do not want us to store cookie information on your computer, you can set your browser to disable this feature. This may mean you will not be able to take full advantage of Tatts Group services offered on our websites.
+We may also store "cookie" information, such as user preferences relating to the use of our websites. A cookie is a small data file that may be placed on the computer of a web user (usually in the browser software folder). The information collected may be used to offer our products and services directly to you and customise and improve websites. If you do not want us to store cookie information on your computer, you can set your browser to disable this feature. This may mean you will not be able to take full advantage of Tatts Group services offered on our websites.
 
 ## 7\. Security of Personal Information
 
@@ -55,23 +55,27 @@ Tatts Group will take reasonable steps to (a) protect the personal information i
 
 ## 8\. Seeking Access to Personal Information
 
-You are welcome to request access to personal information Tatts Group holds about you. There are certain situations where Tatts Group may decline to give you access to your personal information, and these are set out in the Act. We will give you reasons if we deny access.
+You are welcome to request access to personal information Tatts Group holds about you. There are certain situations where Tatts Group may decline to give you access to your personal information, and these are set out in the Act. We will give you written reasons if we deny access and advise you of the mechanism available to complain about the refusal.
 
 In specific cases, please write directly to the relevant Tatts Group company and include your name, address, date of birth and signature. We will send you the appropriate access form. In all cases we will inform you if a cost applies to finding and supplying the information before we perform this task.
 
 ## 9\. Changing Information
 
-If you have reason to believe personal information which we hold about you is inaccurate or out of date, please write to the relevant Tatts Group company and include your full name, address, date of birth, membership or account number (if any), signature and specify the information you wish to change.
+If you have reason to believe personal information which we hold about you is inaccurate, out of date, incomplete, irrelevant or misleading please write to the relevant Tatts Group company and include your full name, address, date of birth, membership or account number (if any), signature and specify the information you wish to change.
 
-## 10\. Anonymous Transactions
+## 10\. Anonymous Dealings
 
-Where it is lawful and practicable to do so, you may transact with Tatts Group without providing personal information.
+Where it is lawful and practicable to do so, you may deal with Tatts Group without providing personal information or by using a pseudonym.
+
+If your dealing with us is about an account or membership, you will be requested to provide account information or personal information or verify your identity in order to be provided with a service or to answer an inquiry.
 
 ## 11\. Sending Information Overseas
 
-Tatts Group will only transfer personal information overseas in circumstances where it is permitted by the Act.
+Tatts Group will only disclose personal information to overseas recipients in circumstances where it is permitted by the Act. 
 
-## 12\. Changes in the Future
+If information is disclosed to overseas recipients, you will be advised at or before the time that Tatts Group collects personal information from you (or, if that is not practicable, as soon as practicable after) that information may be disclosed to overseas recipients and, where it is practicable to do so, the countries in which such recipients are likely to be located.
+
+## 12\. Changes to the Privacy Policy
 
 Tatts Group reserves the right to change this Privacy Policy at any time and to notify you by posting an updated version of the policy on our website, [www.tattsgroup.com](https://web.archive.org/sitecore/shell/Controls/home/default.aspx).
 
