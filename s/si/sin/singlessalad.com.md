@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the singlessalad.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225164738id_/http%3A//singlessalad.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singlessalad.com privacy policy that was archived on 2014-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140601081622id_/http%3A//singlessalad.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - SinglesSalad
 
 ## This Privacy Policy is effective for singlessalad.com members  
-Last edition — Novermber 26, 2012
+Last edition — November 26, 2012
 
 The singlessalad.com web-site and the service is the member of Dating Factory network, which is operated by Caerus AG, a company registered under the laws of Switzerland, whose registered office is St-Antons-Gasse 4, CH-6300, Zug, Switzerland. 
 
@@ -16,7 +16,7 @@ singlessalad.com may change some clauses of this Policy from time to time, and m
   3. We will not share your personal information with any third party for marketing purposes without your permission. 
   4. We are required to give information to legal authorities if they have the proper authorization such as a search warrant or court order. Other than a valid request from a legal authority your information is secure on the singlessalad.com website. We do our best to ensure that all information held relating to you is kept up-to-date, accurate and complete, but we also rely on you to notify us if your information requires updating or deleting. 
   5. Your individual use of singlessalad.com website and your interaction with other members through this site will be kept strictly private. 
-  6. We may from time to time send you emails from third parties or promotions that we feel will be of benefit for you to the email you provided us with. You may unsubscribe from singlessalad.com emails at any time by changing your profile settings or by following the unsubscribe link at the bottom of every singlessalad.com email. 
+  6. We may from time to time send you emails containing system and site activity, notifications or promotions that we feel may be of interest to you . You may unsubscribe from singlessalad.com emails at any time by changing your profile settings or by following the unsubscribe link at the bottom of every singlessalad.com email.
   7. In the course of serving ads to this site and you using some part of the web-site, us or our third-party advertiser may place or recognize a unique cookie on your browser. Cookies are a normal part of internet operations and are also used by singlessalad.com to safely identify you each time you logon and use the site and to keep your session active when you don’t use the website for some time. Any information that us or third parties collect via cookies and marketing campaigns tracking software is totally anonymous. 
   8. Our members have the following choices to modify or delete their information from our database: 
     * Send an email to [Customer support](https://web.archive.org/contacts/)
