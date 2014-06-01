@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zeaks.org privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201142343id_/http%3A//zeaks.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeaks.org privacy policy that was archived on 2014-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140601025203id_/http%3A//zeaks.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Zeaks Blog
 
