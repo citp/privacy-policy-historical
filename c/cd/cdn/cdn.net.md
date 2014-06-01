@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cdn.net privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119094232id_/http%3A//www.cdn.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdn.net privacy policy that was archived on 2014-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140601145506id_/http%3A//www.cdn.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CDN.net
 
