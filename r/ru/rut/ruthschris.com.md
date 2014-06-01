@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ruthschris.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226071309id_/http%3A//www.ruthschris.com/about-us/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ruthschris.com privacy policy that was archived on 2014-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140601103350id_/http%3A//www.ruthschris.com/about-us/privacypolicy) for the most accurate reproduction.*
 
 # 
 
@@ -16,4 +16,4 @@ Ruth's Chris Steak House uses information recorded on this Web site to help comp
 Security of Personal Information.  
 The management of Ruth's Chris Steak House limits employee access to information to those with a business reason for knowing such information. We educate our employees on the importance of maintaining guest confidentiality, and we enforce our privacy policies with appropriate disciplinary procedures.  
 Changes to your Personal Information.  
-You may update your information on our Website at any time by using the following link [http://www.ruthschris.com/Registration](http://www.ruthschris.com/Registration/).
+You may update your information on our Website at any time by using the following link [http://www.ruthschris.com/registration](https://web.archive.org/registration/).
