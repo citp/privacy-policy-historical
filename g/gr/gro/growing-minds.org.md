@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the growing-minds.org privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211072131id_/http%3A//growing-minds.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the growing-minds.org privacy policy that was archived on 2014-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140601064530id_/http%3A//growing-minds.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Growing Minds
 
@@ -80,6 +80,6 @@ ASAP – Appalachian Sustainable Agriculture Project
 306 West Haywood Street  
 Asheville, NC 28801  
 USA  
-gro.snoitcennocpasanull@ofni
+info@nullasapconnections.org
 
 This policy is powered by Trust Guard [PCI compliance](http://www.trust-guard.com/PCI-Compliance-s/65.htm).
