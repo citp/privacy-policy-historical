@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the anytimemailbox.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103024510id_/http%3A//www.anytimemailbox.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anytimemailbox.com privacy policy that was archived on 2014-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140601083203id_/http%3A//www.anytimemailbox.com/privacy) for the most accurate reproduction.*
 
-# 
+# Anytime Mailbox Privacy Policy
 
-## AnytimeMailbox Privacy Policy
+Revision March 2014
 
 AnytimeMailbox ("ATMB") values your online privacy. Please read the following policy ("Privacy Policy") to learn what information we collect from you ("You" or "User") when you access or use our website, www.anytimemailbox.com ("Site") and how we use that information. By accessing or using our Site, you acknowledge and agree that you have read, understood, accept and agree to be bound by this Privacy Policy, and you expressly consent to our collection, storage, use and disclosure of your information as set forth herein. 
 
@@ -20,7 +20,8 @@ ATMB may change this Privacy Policy at any time by posting the revised policy on
 
 5\. Sharing of Information Collected. We may share the information that we collect from and about you in a variety of ways, as follows: 
 
-· Partners. We may share Personally Identifiable Information as well as Non-Personally Identifiable Information (e.g., via cookies) with partners who choose to list their goods, services or promotions on the Site, or with whom we affiliate in order to provide you with certain services. The affiliated sites may have different privacy practices and we encourage you to read their privacy policies.   
+· Partners. We may share Personally Identifiable Information as well as Non-Personally Identifiable Information (e.g., via cookies) with partners who choose to list their goods, services or promotions on the Site, or with whom we affiliate in order to provide you with certain services. The affiliated sites may have different privacy practices and we encourage you to read their privacy policies. 
+
 · Third Party Vendors. We employ third party vendors and service providers to assist us in developing, hosting and maintaining our Site and databases, advertising, sending and receiving email and other communications, and analyzing data. These third parties may have access to Personally Identifiable Information as reasonably necessary to perform these services, but they are not allowed to use that information except for the purposes of providing these services for us. 
 
 6\. Compliance with Law. In connection with legal process, such as a court order, subpoena, official investigation or otherwise as required by law, we may be required to disclose certain Personally Identifiable Information to third parties. We may also report to law enforcement authorities any conduct we believe to be illegal, and may release Personally Identifiable Information to law enforcement authorities if we suspect it is related to unlawful conduct, or if necessary to protect our rights or property or to protect the safety of our employees or others. We may also release Personally Identifiable Information as part of a dispute resolution process. 
@@ -35,8 +36,10 @@ ATMB may change this Privacy Policy at any time by posting the revised policy on
 
 11\. Scope of this Privacy Policy. Except as otherwise provided in this Privacy Policy, the Privacy Policy applies only to information collected by us through the Site. It does not include the following: 
 
-· Links. ATMB cannot control and is not responsible for the privacy practices or content of websites that might be linked to our Site, or which show as links on our Site. Please read the privacy statements of each linked site prior to submitting Personally Identifiable Information to that site.   
-· User Forums and Comments. The Site may allow registered users to post information on various forums, including message boards, blogs, bulletin boards, chat rooms and other "public" spaces. By posting information to these spaces, you are choosing to make such information public and it is therefore not covered by this Privacy Policy. Please exercise care in the posting of any Personally Identifiable Information, about yourself or others, in a public space.   
+· Links. ATMB cannot control and is not responsible for the privacy practices or content of websites that might be linked to our Site, or which show as links on our Site. Please read the privacy statements of each linked site prior to submitting Personally Identifiable Information to that site. 
+
+· User Forums and Comments. The Site may allow registered users to post information on various forums, including message boards, blogs, bulletin boards, chat rooms and other "public" spaces. By posting information to these spaces, you are choosing to make such information public and it is therefore not covered by this Privacy Policy. Please exercise care in the posting of any Personally Identifiable Information, about yourself or others, in a public space. 
+
 · Children's Privacy. The Site does not target and it is not intended to be used by children under the age of 13 (or under the age of 18 without consent of a parent or guardian). ATMB complies with the Children's Online Privacy Protection Act (COPPA). We do not accept registrations or intentionally collect information from children under the age of 13. If you believe that your child has submitted personal information in violation of this Privacy Policy, COPPA, or the Terms of Use, please notify us in writing at "privacy at anytimemailbox dot com" and we will immediately remove such information. 
 
 12\. Additional Terms. Please refer to the Terms of Use posted on the Site to see additional terms and conditions that govern your use of the Site. By using the Site, you consent to be bound by those Terms of Use as well as this Privacy Policy. 
