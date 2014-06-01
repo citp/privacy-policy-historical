@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizagi.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116120318id_/http%3A//www.bizagi.com/index.php/buy/eula%3Fid%3D18) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizagi.com privacy policy that was archived on 2014-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140601143811id_/http%3A//www.bizagi.com/buy/eula%3Fid%3D18) for the most accurate reproduction.*
 
 # Privacy Policy
 
