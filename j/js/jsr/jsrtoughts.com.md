@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jsrtoughts.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227004255id_/http%3A//www.jsrtoughts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jsrtoughts.com privacy policy that was archived on 2014-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140602001824id_/http%3A//www.jsrtoughts.com/privacy-policy) for the most accurate reproduction.*
 
 # Just Some Random Thoughts | Privacy Policy
 
