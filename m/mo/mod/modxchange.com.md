@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the modxchange.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104005632id_/http%3A//www.modxchange.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D69%26Itemid%3D664) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modxchange.com privacy policy that was archived on 2014-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140601080632id_/http%3A//www.modxchange.com/index.php/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Company
+# Privacy Policy
 
 This website is owned and operated by AJ Visions, LLC. We are committed to protecting the privacy of our visitors while they interact with the content, products and services on this site (the Website). This Privacy Policy applies to the Site only. It does not apply to other websites to which we link. Because we gather certain types of information about our users, we want you to understand what information we collect about you, how we collect it, how that information is used, and how you can control our disclosure of it. You agree that your use of the Site signifies your assent to this Privacy Policy. If you do not agree with this Privacy Policy, please do not use the Site.
 
@@ -66,7 +66,7 @@ We provide mechanisms for updating and correcting your personal information for 
 
 **6\. Email Choice/Opt-out**
 
-If you no longer wish to receive updates or notifications may opt-out of receiving these communications, you may send an email request to  [customersupport@modxchange.com](mailto:customersupport@modxchange.com)
+If you no longer wish to receive updates or notifications may opt-out of receiving these communications, you may send an email request to [customersupport@modxchange.com](mailto:customersupport@modxchange.com)
 
 **7\. Children's Privacy and Parental Controls**
 
