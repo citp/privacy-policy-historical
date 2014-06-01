@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the kaleidescape.com privacy policy that was archived on 2013-11-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131129222810id_/http%3A//www.kaleidescape.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kaleidescape.com privacy policy that was archived on 2014-06-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140601164655id_/http%3A//www.kaleidescape.com/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Kaleidescape - Privacy Policy</title>
@@ -10,6 +10,16 @@
 <meta http-equiv="Content-Language" content="">
 <meta name="description" content="Manufacturer of a movie server that digitally stores and organizes your Blu-ray and DVD movies, and makes them available from any television in your home.">
 <meta name="keywords" content="Blu-ray server, DVD server, movie server, entertainment server, movies, music, home theater, DVD library, DVD storage, DVD jukebox, Blu-ray changer">
+
+<!--Open Graph meta tags for Facebook-->
+<meta property="og:title" content="Privacy Policy">
+<meta property="og:description" content="Manufacturer of a movie server that digitally stores and organizes your Blu-ray and DVD movies, and makes them available from any television in your home.">
+<meta property="og:image" content="/images/kaleidescape-logo.jpg">
+
+<!--Twitter Cards-->
+<meta name="twitter:title" content="Privacy Policy">
+<meta property="twitter:description" content="Manufacturer of a movie server that digitally stores and organizes your Blu-ray and DVD movies, and makes them available from any television in your home.">
+<meta property="twitter:image" content="/images/kaleidescape-logo.jpg">
 
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
@@ -22,13 +32,43 @@
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" language="javascript" src="/js/jquery-1.10.2.min.js"></script>
 <script type="text/javascript" language="javascript" src="/js/jquery-migrate-1.2.1.min.js"></script>
 <script type="text/javascript" language="javascript" src="/js/default.js"></script>
+<script type="text/javascript" language="javascript" src="/js/jquery.jfeed.js"></script>
 
 
 <script type="text/javascript">
 
 	$(document).ready(function() {
-
 		
+
+				
+		jQuery.getFeed({
+			url: '/feed/proxy.php?url=https://blog.kaleidescape.com/feed/',
+			success: function(feed) {
+									
+				var html = '';
+				
+				for(var i = 0; i < feed.items.length && i < 5; i++) {
+				
+					var item = feed.items[i];
+					
+					html += '<div class="updated">'
+					+ item.updated.substring(0,16)
+					+ '</div>';
+					
+					html += '<p>'
+					+ '<a href="'
+					+ item.link
+					+ '">'
+					+ item.title
+					+ '</a>'
+					+ '</p>';
+					
+				}
+				
+				jQuery('#feed').append(html);
+			}    
+		});
+
 	});
 </script>
 
@@ -59,17 +99,18 @@
 <div id="container">
 
 	<div id="header">
-		<h1 id="logo"><a class="ir" href="/">Kaleidescape</a></h1>
+		<h1 id="logo"><a class="ir" href="/" target="_top">Kaleidescape</a></h1>
 	</div> <!-- end div#header -->
 
 
 	<ul id="menu">
-		<li class="home"><a href="/" target="_top">HOME</a></li>
 		<li class="experience"><a href="/experience/" target="_top">THE EXPERIENCE</a></li>
 		<li class="products"><a href="/products/" target="_top">PRODUCTS</a></li>
-		<li class="support"><a href="/support/" target="_top">SUPPORT</a></li>
+		<li class="showcase"><a href="/showcase/" target="_top">SHOWCASE</a></li>
 		<li class="dealers"><a href="/dealers/" target="_top">FIND A DEALER</a></li>
-		<li class="hideStore store "><a class="hideStore" href="https://store.kaleidescape.com/" target="_blank">STORE</a></li>
+		<li class="support"><a href="/support/" target="_top">SUPPORT</a></li>
+		<li class="dealers"><a href="https://blog.kaleidescape.com/" target="_top">BLOG</a></li>
+		<li class="hideStore store "><a class="hideStore" href="https://store.kaleidescape.com/" target="_top">STORE</a></li>
 	</ul> <!-- end ul#menu -->
                                                
 	<div id="content-container">
@@ -84,18 +125,21 @@
 <p>To provide you with a better, more satisfying experience, Kaleidescape collects and uses certain types of information, as described below. Kaleidescape does not intend to disclose to any third party, except as provided below, any personal information, including what CDs, DVDs, and Blu-ray Discs you - as an individual or household - have purchased, loaded into or viewed with your System.</p>
 
 <h3>Types of Information Collected</h3>
-  <ul>
+  <ul class="bulleted">
     <li>Kaleidescape collects certain personal information when you activate your System, such as your name, address, telephone number, and email address. Kaleidescape collects additional information from time to time, such as the serial numbers of the components of your System and the software versions and options used by them.</li>
     
     <li>Kaleidescape automatically collects and maintains diagnostic and usage information from every System connected to the Internet for the purposes of quality control, technical troubleshooting, and the development of new features, products, and services. Diagnostic and usage information includes a detailed record of the operating history of your System, such as browser interface settings, CD, DVD, and Blu-ray Disc imports, user inputs and response times (including details about CDs, DVDs, and Blu-ray Discs played), disk errors or failures, disk space use, component temperatures, and information entered into the browser interface. Diagnostic and usage information also contains and is identified by the serial numbers of the components of your System and their IP addresses.</li>
     
     <li>Kaleidescape automatically collects IP addresses and website usage information from you when you visit our website. This information helps us evaluate how our visitors use and navigate our website on an aggregate basis, including the number and frequency of visitors to each Web page, and the length of their visits.</li>
-  </ul>
+    
+    <li>Kaleidescape does not alter its data collection based on the presence of a 'do not track' request configured in your browser; however, you may opt-out of data collection performed by Google Analytics.  Kaleidescape collects data using Google Analytics for Display Advertisers, including Google Analytics for Demographics and Interest Reporting. The data collected may be used to perform techniques such as market segmentation, remarketing and A/B testing, in order to provide relevant products and services. You may opt-out from Google Analytics for Display Advertisers by following the instructions here: <a href="https://tools.google.com/dlpage/gaoptout/">https://tools.google.com/dlpage/gaoptout/</a>.</li>
+    
+</ul>
   
-  <h3>How We Use Information Collected</h3>
+  <br><h3>How We Use Information Collected</h3>
   <p>We may use information in the following ways:</p>
   
-  <ul>
+  <ul class="bulleted">
     <li>For the purposes for which you specifically provided the information including, for example, to provide a service that you desire, to troubleshoot your System, or to send emails that you have requested.</li>
     <li>To send you email notifications about new or existing products and services, such as software upgrades. </li>
     <li>To enhance existing features, products and services, or to develop new features, products and services. </li>
@@ -105,7 +149,7 @@
     <li>To fulfill any other reasonable business purpose that Kaleidescape deems to be desirable.</li>
   </ul>
   
-    <p>Except as specifically set forth in this Privacy Policy, we will not share your personally-identifiable information outside of Kaleidescape.</p>
+    <br><p>Except as specifically set forth in this Privacy Policy, we will not share your personally-identifiable information outside of Kaleidescape.</p>
     
     <p>We may disclose and use personally-identifiable information to resolve disputes, troubleshoot problems, enforce our Kaleidescape Service &amp; License Agreement (for example, when necessary to protect our or a third-party's intellectual property or proprietary rights). We may also disclose personally-identifiable information when we, in our sole discretion, believe it is necessary or appropriate, in connection with a sale or transfer of some or all of our assets, or when we, in good faith, believe that the law requires us to do so.</p>
     
@@ -113,20 +157,20 @@
     
     <p>Your information may be stored and processed in the United States or any country in which Kaleidescape or its subsidiaries or agents maintain a presence; you consent to any such transfer of your personal information outside of your country.</p>
 
-  <h3>Security of your Personal Information</h3>
+  <br><h3>Security of your Personal Information</h3>
   <p>Kaleidescape is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use or disclosure. For example, your personal information will be stored on computer servers with limited access that are located in controlled facilities. When we transmit sensitive information (such as a credit card number) over the Internet, we protect it through encryption.</p>
   
-  <h3>Policy Modifications</h3>
+  <br><h3>Policy Modifications</h3>
   <p>We may change this Privacy Policy from time to time. We will post any changes here, so be sure to check back periodically.</p>
   
-  <h3>Technical Problems</h3>
+  <br><h3>Technical Problems</h3>
   <p>Even though Kaleidescape has taken steps to ensure that your personal information will not be collected, used, or disclosed by Kaleidescape except as set forth by this Privacy Policy, technical mistakes are possible. If such a mistake takes place, we will take commercially-reasonable steps to correct it.</p>
   
-  <h3>Contact Kaleidescape</h3>
+  <br><h3>Contact Kaleidescape</h3>
   <p>If you would like to make suggestions or find out more about our privacy practices, please call us at +1 650-625-6100, or send us a letter. Our mailing address is, Kaleidescape, Inc., 440 Potrero Avenue, Sunnyvale, CA 94085-4117.</p>
   
   <p>&nbsp;</p>
-  <p>This Privacy Policy was last updated on January 17, 2011.</p>
+  <p>This Privacy Policy was last updated on February 20, 2014.</p>
 
 
 
@@ -134,21 +178,114 @@
 	</div> <!-- end div#content-container -->
 
 	<div id="footer">
-		<ul id="footer-menu">
-			<li><a href="/company/" target="_top">Company</a></li>
-			<li><a href="/careers/" target="_top">Careers</a></li>
-			<li><a href="/news/" target="_top">News</a></li>
-			<li><a href="/contact/" target="_top">Contact Us</a></li>
-			<li><a href="https://extranet.kaleidescape.com/" target="_blank">Dealer Extranet</a></li>
-		</ul> <!-- end ul#footer-menu -->	
+	<div id="threeColumns">
+    
+        <div id="column1">
+       	  <h3>Latest Reviews</h3>
+            <ul id="press-icons">
+            
+            <li style="margin: 0 20px;"><a href="http://howtospendit.ft.com/audiovisual/47773-kaleidescape-cinema-one" target="_blank"><img src="/images/press-logo-ft.png" alt="How To Spend It, Financial Times" width="63" height="76" border="0"></a></li>
+            <li><a href="http://www.mensjournal.com/expert-advice/how-to-get-rid-of-cable-20140213/kaleidescape-cinema-one" target="_blank"><img src="/images/press-logo-mens-journal.png" alt="Men's Journal" width="119" height="27" border="0"></a></li>
+            <li><a href="http://www.wired.com/gadgetlab/2014/03/luxury-tech-show/#slide-id-374861" target="_blank"><img src="/images/press-logo-wired.png" alt="Wired" width="120" height="25" border="0"></a></li>
+            <li><a href="http://www.electronichouse.com/article/kaleidescape_limited_edition_cinema_one_comes_with_50_movies_preloaded" target="_blank"><img src="/images/press-logo-electronic-house.png" alt="Electronic House" width="115" height="49" border="0"></a></li>
+            </ul>
+        </div><!-- end #column1 -->
+        
+        <div id="column3">
+        <h3>About Kaleidescape</h3>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr>
+            <td>
+            <h4><a href="/experience/" target="_top">The Experience</a></h4>
+            <ul>
+                <li><a href="/files/datasheets/Kaleidescape-Brochure.pdf" target="_blank">Kaleidescape Brochure</a></li>
+                <li><a href="/videos/player.php?video_id=82&amp;group_id=0" class="lightbox-video">Experience Video</a></li>
+                <li><a href="/files/datasheets/Kaleidescape-Cinema-One-At-a-Glance.pdf" target="_blank">Cinema One At a Glance</a></li>
+                <li><a href="/files/datasheets/Kaleidescape-Cinema-One-and-Premiere-Comparison.pdf" target="_blank">Cinema One vs. Premiere Line</a></li>
+                <li class="hideStore"><a href="/files/datasheets/Kaleidescape-and-UltraViolet.pdf" target="_blank">Kaleidescape and UltraViolet</a></li>
+                                <li class="hideStore"><a href="/files/datasheets/Kaleidescape-Store-UV-Offers.pdf" target="_blank">Kaleidescape Store UltraViolet Offers</a></li>
+                            </ul>
+            
+            <h4><a href="/products/" target="_top">Products</a></h4>
+            <ul>
+                <li><a href="/products/cinema-one/" target="_top">Cinema One</a></li>
+                <li><a href="/products/premiere/" target="_top">Premiere Line</a></li>
+                <li><a href="/products/apps/" target="_top">Apps</a></li>
+                <li><a href="/products/accessories/" target="_top">Remotes and Accessories</a></li>
+                <li><a href="/products/collections/" target="_top">Movie Collections</a></li>
+                <li><a href="/products/movie-guide/" target="_top">Movie Guide Services</a></li>
+                <li class="hideStore"><a href="https://store.kaleidescape.com/" target="_top">Movie Store</a></li>
+            </ul>
+            
+            <h4><a href="/dealers/" target="_top">Find a Dealer</a></h4>
+            <ul>
+                <li><a href="/dealers/#find-dealer-container" target="_top">Locate a dealer near you</a></li>
+                <li><a href="/dealers/#request-demo-container" target="_top">Schedule an in-home audition</a></li>
+            </ul>
+            </td>
+            
+            <td>
+            
 
-		<div class="footer-sub-menu"><a href="/legal-notices.php">Legal Notices</a> | <a href="/privacy-policy.php">Privacy Policy</a></div>
-		
-        <div class="footer-social-links"><a href="https://twitter.com/intent/follow?original_referer=http%3A%2F%2Fwww.kaleidescape.com%2Fnews%2F&amp;region=follow_link&amp;screen_name=kaleidescape&amp;source=followbutton&amp;variant=2.0" target="_blank"><img src="/images/icon-twitter.png" width="23" height="23" alt="Follow @kaleidescape on Twitter" border="0"></a> <a href="https://www.facebook.com/pages/Kaleidescape/168308803189144" target="_blank"><img src="/images/icon-facebook.png" width="23" height="23" alt="Connect with us on Facebook" border="0"></a>
+            <h4><a href="/support/" target="_top">Support</a></h4>
+            <ul>
+                <li><a href="/support/knowledgebase.php" target="_top">Knowledgebase</a></li>
+                <li><a href="/support/doc.php" target="_top">Documentation</a></li>
+                <li><a href="/videos/" target="_top">How-to Videos</a></li>
+                <li><a href="/support/release-notes.php" target="_top">Release Notes</a></li>
+                <li><a href="/support/control-systems/" target="_top">Control Systems</a></li>
+                <li><a href="/faq/" target="_top">FAQs</a></li>
+            </ul>
+            
+            <h4><a href="/company/" target="_top">Company</a></h4>
+            <ul>
+                <li><a href="/company/management/" target="_top">Management</a></li>
+                <li><a href="/company/become-a-dealer/" target="_top">Become a Dealer</a></li>
+                <li><a href="/company/legal-update/" target="_top">Legal Update</a></li>
+            </ul>
+            
+            <h4><a href="/news/" target="_top">News</a></h4>
+            <ul>
+                <li><a href="/news/awards.php" target="_top">Awards</a></li>
+                <li><a href="/media/" target="_top">Press Releases</a></li>
+                <li><a href="/media/images.php" target="_top">Images</a></li>            
+            </ul>
+
+
+            </td>
+          </tr>
+        </tbody></table>
+
+        
+        
+
+
+        </div><!-- end #column3 -->
+	
+        <div id="column2">
+       	  <h3>Latest Blog Posts</h3>
+          <div id="feed"><div class="updated">Fri, 14 Mar 2014</div><p><a href="https://blog.kaleidescape.com/pi-lionsgate-1988/">Pi (Lionsgate, 1988)</a></p><div class="updated">Tue, 11 Mar 2014</div><p><a href="https://blog.kaleidescape.com/hunger_games_catching_fire/">The Hunger Games: Catching Fire (Lionsgate, 2013)</a></p><div class="updated">Thu, 06 Mar 2014</div><p><a href="https://blog.kaleidescape.com/cult-fan-favorites/">Cult Fan Favorites</a></p><div class="updated">Tue, 04 Mar 2014</div><p><a href="https://blog.kaleidescape.com/ken-russell-the-director-that-was-bigger-than-life-itself/">Ken Russell—The Director That Was Bigger Than Life Itself</a></p><div class="updated">Fri, 28 Feb 2014</div><p><a href="https://blog.kaleidescape.com/oscar-nominees-in-other-good-movies-by-leonard-maltin/">Oscar Nominees—In Other Good Movies by Leonard Maltin</a></p></div>
+        </div><!-- end #column2 -->
+    
+  		<br class="clear">
+	
+    
+        <hr id="footer-rule">
+    
+        <div class="footer-sub-menu"><a href="/" target="_top">Home</a> &nbsp;|&nbsp; <a href="/contact/" target="_top">Contact Us</a> | <a href="/careers/" target="_top">Careers</a> &nbsp;|&nbsp; <a href="/legal-notices.php" target="_top">Legal Notices</a> &nbsp;|&nbsp; <a href="/privacy-policy.php" target="_top">Privacy Policy</a> &nbsp;|&nbsp; <a href="https://extranet.kaleidescape.com/" target="_blank">Dealer Extranet</a></div>
+        
+        <div class="footer-social-links">
+            <a href="https://twitter.com/kaleidescape" target="_blank"><img src="/images/icon-twitter.png" width="23" height="23" alt="Follow @kaleidescape on Twitter" border="0"></a> 
+            <a href="https://www.facebook.com/kaleidescapeinc" target="_blank"><img src="/images/icon-facebook.png" width="23" height="23" alt="Connect with us on Facebook" border="0"></a>
           <a href="http://www.linkedin.com/company/kaleidescape" target="_blank"><img src="/images/icon-linkedin.png" width="23" height="23" alt="Follow us on LinkedIn" border="0"></a>
+          <a href="https://www.youtube.com/user/kaleidescape" target="_blank"><img src="/images/icon-youtube.png" width="23" height="23" alt="Subscribe to Kaleidescape YouTube Channel" border="0"></a>
         
         </div>
-        
+        <br class="clear">
+    
+    </div><!-- end #threeColumns -->
+    
+    
 	</div> <!-- end div#footer -->
 	
 
