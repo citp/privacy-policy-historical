@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freepatentsonline.com privacy policy that was archived on 2013-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131013172306id_/http%3A//www.freepatentsonline.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freepatentsonline.com privacy policy that was archived on 2014-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140601150934id_/http%3A//www.freepatentsonline.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy and Terms of Use
 
