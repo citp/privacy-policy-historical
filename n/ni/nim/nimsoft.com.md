@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the nimsoft.com privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110195856id_/http%3A//www.ca.com/us/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nimsoft.com privacy policy that was archived on 2014-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140601032706id_/http%3A//www.ca.com/us/privacy.aspx%3Fintcmp%3Dfooternav) for the most accurate reproduction.*
 
 # CA Privacy Notice - CA Technologies
-
-Last updated by CA Legal team on October 24, 2013
 
 ## Q: What is CA’s privacy position?
 
@@ -10,13 +8,12 @@ CA is committed to respecting and protecting your privacy and wants you to feel 
 
 CA may modify or update this privacy notice at any time without prior notice. You can check the “Last Updated” date above to see when the notice was last changed. Your continued use of the website constitutes your consent to the contents of this privacy notice.
 
-We have prepared this Privacy Notice to inform you of the information we gather and how it is used. This Notice applies to all CA websites that display or link to this Privacy Notice. In some cases CA may request additional information in which case you will receive separate notice and will be able to review those terms at that time. You should also note that CA maintains the same privacy practices with respect to data that is collected off-line and this notice may be relied upon with respect to those methods of data collection and use. Please see our [Core Values and Code of Conduct](https://web.archive.org/us/about-us/company-information/core-values.aspx) for more information about CA’s high standard of ethics and our commitment to the protection of your personal information.
+We have prepared this Privacy Notice to inform you of the information we gather and how it is used. This Notice applies to all CA websites that display or link to this Privacy Notice. In some cases CA may request additional information in which case you will receive separate notice and will be able to review those terms at that time. You should also note that CA maintains the same privacy practices with respect to data that is collected off-line and this notice may be relied upon with respect to those methods of data collection and use. Please see our [Core Values and Code of Conduct](http://cacompreview.ca.com/us/about-us/company-information/core-values.aspx) for more information about CA’s high standard of ethics and our commitment to the protection of your personal information.
 
-For personal information of individuals that CA receives from the European Economic Area (EEA), CA has committed to handling such personal information in accordance with the US Department of Commerce Safe Harbor Principles for transfer of personal information outside of the EEA. CA's Safe Harbor certification can be found at <https://safeharbor.export.gov/list.aspx>
+CA Technologies complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  CA Technologies has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  CA's Safe Harbor certification can be found at <https://safeharbor.export.gov/list.aspx>.  To learn more about the Safe Harbor program, and to view our certification, please visit <http://www.export.gov/safeharbor/>
 
 **[We self-certify compliance with](https://safeharbor.export.gov/list.aspx)**  
-[](http://www.export.gov/safeharbor)  
-
+[](http://www.export.gov/safeharbor)
 
 ## Q: What information does CA collect?
 
@@ -99,4 +96,4 @@ Portions of this website make chat rooms, forums, blogs, message boards, and/or 
 
 If you have any questions, concerns, or comments about our privacy notice or practices, please contact us via email at [PrivacyHelpLine@ca.com](mailto:PrivacyHelpLine@ca.com) with the words "PRIVACY POLICY" in the subject line. All emails will be read promptly and an initial response will be provided to the sender within 5-7 business days. All issues raised will be investigated until completion, and all matters will be handled in compliance with local data protection requirements.
 
-Visit the [Canadian Privacy Policy](https://web.archive.org/ca/en/privacy/canadaprivacy.aspx) for additional information about CA Canada.
+Visit the [Canadian Privacy Policy](http://cacompreview.ca.com/ca/en/privacy/canadaprivacy.aspx) for additional information about CA Canada.
