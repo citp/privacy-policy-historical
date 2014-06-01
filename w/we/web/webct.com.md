@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webct.com privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128043653id_/http%3A//www.blackboard.com/Footer/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webct.com privacy policy that was archived on 2014-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140601022635id_/http%3A//www.blackboard.com/Footer/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Blackboard Privacy Policy
 
