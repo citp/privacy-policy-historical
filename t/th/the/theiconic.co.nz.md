@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theiconic.co.nz privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625022443id_/http%3A//www.theiconic.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theiconic.co.nz privacy policy that was archived on 2014-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140601210022id_/http%3A//www.theiconic.co.nz/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -31,6 +31,7 @@ The personal information we collect from you will be used in some or all of the 
   * \- To deliver the products you have purchased from THE ICONIC
   * \- To update you on the delivery of the product and for customer support purposes
   * \- To provide you with relevant product information 
+  * \- To customize future shopping for you and improve our store.
 
 
 
@@ -64,7 +65,7 @@ THE ICONIC is committed to complying with the Privacy Act and the National Priva
 
 ##  About Breaches of Privacy
 
-If you believe that your privacy has been breached by THE ICONIC please contact us at [customer@theiconic.com.au](mailto:%20customer@theiconic.com.au) and we will resolve the issue.
+If you believe that your privacy has been breached by THE ICONIC please contact us at [customer.service@theiconic.com.au](mailto:%20customer.service@theiconic.com.au) and we will resolve the issue.
 
 ## Collection of Computer Data
 
@@ -86,4 +87,4 @@ THE ICONIC reserves the right to modify and change the Privacy Statement at any 
 
 ## Complaints about breaches of privacy
 
-If you are not satisfied with the way in which we handle your enquiry or complaint, please don't hesitate to contact us at customer@theiconic.com.au.
+If you are not satisfied with the way in which we handle your enquiry or complaint, please don't hesitate to contact us at customer.service@theiconic.com.au.
