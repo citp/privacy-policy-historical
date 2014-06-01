@@ -1,17 +1,17 @@
-<!--The following is the downloaded HTML source of the avaloncommunities.com privacy policy that was archived on 2013-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131221202905id_/http%3A//www.avaloncommunities.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the avaloncommunities.com privacy policy that was archived on 2014-06-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140601035425id_/http%3A//www.avaloncommunities.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html401/loose.dtd"><html><head>
-<meta name="googlebot-mobile" content="noindex">
 <link rel="alternate" href="http://www.avaloncommunities.com/Apartments/module/mobile_website_documents/website_document[id]/37482">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title> Privacy Policy </title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>Privacy Policy</title>
 <meta name="description" content="AvalonBay Communities">
 <meta name="keywords" content="AvalonBay Communities">
 <meta name="google-site-verification" content="lvWlFS15gQ4q5kuKdg0o_SZDqBMfmC9tCv_eaJ6hHWs">
 <link href="http://medialibrarycdn.propertysolutions.com/media_library/2285/4d4322306d6e6201.ico" rel="SHORTCUT ICON">
 <link rel="stylesheet" type="text/css" href="/Common/website_templates/_common/css/common.css">
-<link rel="stylesheet" type="text/css" href="/Common/website_templates/avalon_bay_corporate/css/base.css">
+<link rel="stylesheet" type="text/css" href="/Common/website_templates/avalon_bay_corporate/css/base.css?ver=1397042029">
 <link rel="stylesheet" type="text/css" href="/Common/css/social_media_toolbar/ps_social_media.css">
 <script type="text/javascript">
 var boolean_facebook_flag = 0;
@@ -54,12 +54,27 @@ multiple_guest_card : {
 'ga_category' : 'PP2_multiple_guest_card',
 'ga_action' : {'submit_guest_card':'Submit Guest Card'},
 'ga_label' : {}
+},
+corp_contact_page : {
+'ga_category' : 'corp_contact_page',
+'ga_action' :{'submit_contact_form':'Submit Contact Form'},
+'ga_label' : {'submit_label':'Submit Button'}
+},
+apply_now_landing_page : {
+'ga_category' : 'Application',
+'ga_action' :{'apply_now_landing_page':'Apply Now Landing Page'},
+'ga_label' : {}
 }
 };
+</script>
+<script type="text/javascript">
 function trackingEvent(arrstrCustomCategory, arrstrCustomAction, arrstrCustomLabel) {
-_gaq.push(['_trackEvent', arrstrCustomCategory, arrstrCustomAction, arrstrCustomLabel]);// Clients account
-_gaq.push(['b._trackEvent', arrstrCustomCategory, arrstrCustomAction, arrstrCustomLabel]);// Property solutions account
-_gaq.push(['c._trackEvent', arrstrCustomCategory, arrstrCustomAction, arrstrCustomLabel]);// Global account
+_gaq.push(['_trackEvent', arrstrCustomCategory, arrstrCustomAction, arrstrCustomLabel]);// Global/Client account
+_gaq.push(['b._trackEvent', arrstrCustomCategory, arrstrCustomAction, arrstrCustomLabel]);// Property Solution Account
+}
+function allowLinkTrack( url ) {
+_gaq.push(['_link', url]);
+return false;
 }
 </script>
 <script type="text/javascript">
@@ -77,17 +92,19 @@ _gaq.push(
 ['b._setDomainName', 'none'],
 ['b._setAllowLinker', true],
 ['b._setCustomVar', 1, 'Template', 'Avalon_Bay_Corporate', 3],
-['b._setCustomVar', 2, 'Company', 'AvalonBay_Communities', 3],
+['b._setCustomVar', 2, 'Company', 'Avalonbay_Communities_Inc', 3],
 ['b._setCustomVar', 3, 'Property', 'corporate', 3],
 ['b._setCustomVar', 4, 'Module', 'website_documents', 3],
 ['b._trackPageview']
 );
 (function() {
 var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+/*ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';*/
+// This is for demographics Display Adertising Task Id #297172
+ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
 (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
 })();
-</script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script>
+</script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script>
 <script type="text/javascript">
 var userAgent = navigator.userAgent;
 var isMobile = /iPhone/i.test(userAgent) || /Windows CE/i.test(userAgent) || /Android/i.test(userAgent) || /Blackberry/i.test(userAgent) || /webOS/i.test(userAgent) || /Opera Mini/i.test(userAgent) || /Windows Phone/i.test(userAgent);
@@ -116,6 +133,84 @@ jQuery(this).attr( 'href', strReplaceExitTag );
 });
 });
 }
+</script>
+<style type="text/css">
+/****** css for message div of cookies enabled or not ******/
+.cookiesDisableWarning {
+width:100%;
+border:1px solid;
+padding:10px;
+position:fixed;
+text-shadow:0 1px 0 rgba(0, 0, 0, .5);
+background-color:#666;
+border-color:#666;
+z-index: 99999;
+}
+.cookiesDisableWarning p {
+margin:0;
+color:#fff !important;
+font:12px Arial,Helvetica,sans-serif;
+}
+.deleteDiv {
+position:absolute;
+top:1px;
+right:30px;
+cursor: pointer;
+}
+</style>
+<script type="text/javascript">
+function isIE () {
+var myNav = navigator.userAgent.toLowerCase();
+return (myNav.indexOf('msie') != -1) ? parseInt(myNav.split('msie')[1]) : false;
+}
+if ( isIE() == 8 ) {
+document.attachEvent( 'DOMContentLoaded' , function() {
+checkforCookie();
+});
+} else {
+document.addEventListener( 'DOMContentLoaded' , function() {
+checkforCookie();
+});
+}
+function checkforCookie() {
+if( !navigator.cookieEnabled ) {
+var bodyHTML = document.body.innerHTML;
+document.body.innerHTML = bodyHTML + decodeHTMLEntities('&lt;div id=&quot;showMessage&quot; class=&quot;cookiesDisableWarning&quot; style=&quot;display:none;&quot;&gt;&lt;img src=&quot;/Common/images/_common/delete_icon.gif&quot; alt=&quot;delete&quot; class=&quot;deleteDiv&quot; onClick=&quot;animateMessage();&quot; /&gt;&lt;p&gt;Please enable cookies to avoid problems viewing this website.&lt;/p&gt;&lt;/div&gt;');
+// 	To show message div
+var elem = document.getElementById( "showMessage" );
+elem.style.display = "block";
+var	messagesHeights = elem.offsetHeight;
+elem.style.top = -messagesHeights + "px";
+// Move the element 10px towords down every 100ms
+timer = setInterval(function() {
+elem.style.top = ( elem.offsetTop += 10 ) + "px";
+// clear the timer at if element top is greater that zero to stop the animation
+if ( elem.offsetTop > 0 ) {
+elem.style.top = "0px";
+clearInterval( timer );
+}
+}, 100 );
+}
+}
+function decodeHTMLEntities(text) {
+var entities = [['apos', '\''], ['amp', '&'], ['lt', '<'], ['gt', '>'], ['quot', '"']];
+for (var i = 0, max = entities.length; i < max; ++i) {
+text = text.replace(new RegExp('&'+entities[i][0]+';', 'g'), entities[i][1]);
+}
+return text;
+}
+function animateMessage() {
+var elem = document.getElementById( "showMessage" );
+var messagesHeights = elem.offsetHeight;
+timer = setInterval(function() {
+elem.style.top = ( elem.offsetTop -= 10 ) + "px";
+// clear the timer at if element top is less that messagesHeights to stop the animation
+if (  elem.offsetTop < -messagesHeights  ) {
+elem.style.top = -messagesHeights;
+clearInterval( timer );
+}
+}, 100 );
+}	
 </script>
 <meta name="robots" content="noodp,noydir">
 <link rel="stylesheet" type="text/css" href="/Common/website_templates/avalon_bay_corporate/css/side_bar.css">
@@ -193,7 +288,7 @@ font: normal 10px/30px Arial;
 text-align: right;
 color: #FFFFFF;
 text-decoration:underline;
-}		
+}
 </style>
 <link rel="stylesheet" type="text/css" href="/Common/css/form_elements/jqtransform.css">
 <script type="text/javascript" src="/Common/javascript/form_elements/jquery.jqtransform.js"></script>
@@ -201,7 +296,7 @@ text-decoration:underline;
 <div style="padding-left:6px;">
 <div class="logo" style="float:left; width:168px; height:89px;">
 <a href="http://www.avaloncommunities.com/" title="Home">
-<img src="http://commoncdn.propertysolutions.com/website_templates/avalon_bay_corporate/images/slots/landing_logo.jpg" alt="AvalonBay Communities" border="0">
+<img src="http://commoncdn.propertysolutions.com/website_templates/avalon_bay_corporate/images/slots/landing_logo.jpg" alt="Avalonbay Communities, Inc." border="0">
 </a>
 </div>
 <div>
@@ -216,10 +311,10 @@ Browse Communities
 <a href="http://www.avaloncommunities.com/about/">
 <nobr>ABOUT</nobr>
 </a><wbr>
-<a href="http://www.avaloncommunities.com/resident-login/">
+<a href="http://www.avalonaccess.com/">
 <nobr>RESIDENT LOGIN</nobr>
 </a><wbr>
-<a href="http://www.avaloncommunities.com/blog/">
+<a href="http://apartment-living.avaloncommunities.com/">
 <nobr>BLOG</nobr>
 </a><wbr>
 <a href="http://www.avaloncommunities.com/contact-us/">
@@ -250,7 +345,7 @@ jQuery('.secondaryLinks a:first').css({'padding-right':'0','border-right':'none'
 <div>
 <div class="subHeader">
 <div class="mainImage">
-<img src="http://medialibrarycdn.propertysolutions.com/media_library/2285/4ee8bc8abeaf0685.jpg" width="300" height="135" border="0" alt="AvalonBay Communities">
+<img src="http://medialibrarycdn.propertysolutions.com/media_library/2285/4ee8bc8abeaf0685.jpg" width="300" height="135" border="0" alt="Avalonbay Communities, Inc.">
 </div>
 <div style="width:590px; margin-top:3px; float:right;" id="content_1" class="content">
 <div class="searchTitle">Search for your Avalon apartment home:</div>
@@ -264,7 +359,7 @@ jQuery('.secondaryLinks a:first').css({'padding-right':'0','border-right':'none'
 <div style="width:240px; float:left;">
 <label class="quickSearchFormField">State</label><br>
 <label class="quickSearchFormSelect">
-<div class="jqTransformSelectWrapper" style="z-index: 10; width: 200px;"><div><span style="width: 198px;">Connecticut</span><a href="#" class="jqTransformSelectOpen"></a></div><ul style="width: 198px; display: none; visibility: visible;"><li><a href="#" index="0" class="selected">Connecticut</a></li><li><a href="#" index="1">Florida</a></li><li><a href="#" index="2">Georgia</a></li><li><a href="#" index="3">Maryland</a></li><li><a href="#" index="4">Massachusetts</a></li><li><a href="#" index="5">New Jersey</a></li><li><a href="#" index="6">New York</a></li><li><a href="#" index="7">Northern California</a></li><li><a href="#" index="8">Rhode Island</a></li><li><a href="#" index="9">Southern California</a></li><li><a href="#" index="10">Texas</a></li><li><a href="#" index="11">Virginia</a></li><li><a href="#" index="12">Washington</a></li><li><a href="#" index="13">Washington DC</a></li></ul><select id="company_area" class="select propertySearchSelect jqTransformHidden" name="property_search[company_region_id]" onchange="getSubRegion(this); SetAreaValues(); customTrackingEvent(arrstrCustomCategory[0], arrstrCustomAction[0], this.options[this.options.selectedIndex].innerHTML)" style="display: none; margin: 2px; visibility: hidden; width: 200px;">
+<div class="jqTransformSelectWrapper" style="z-index: 10; width: 200px;"><div><span style="width: 198px;">Connecticut</span><a href="#" class="jqTransformSelectOpen"></a></div><ul style="width: 198px; display: none; visibility: visible;"><li><a href="#" index="0" class="selected">Connecticut</a></li><li><a href="#" index="1">Florida</a></li><li><a href="#" index="2">Georgia</a></li><li><a href="#" index="3">Maryland</a></li><li><a href="#" index="4">Massachusetts</a></li><li><a href="#" index="5">New Jersey</a></li><li><a href="#" index="6">New York</a></li><li><a href="#" index="7">Northern California</a></li><li><a href="#" index="8">Rhode Island</a></li><li><a href="#" index="9">Southern California</a></li><li><a href="#" index="10">Texas</a></li><li><a href="#" index="11">Virginia</a></li><li><a href="#" index="12">Washington</a></li><li><a href="#" index="13">Washington DC</a></li><li><a href="#" index="14">Washington DC Metro</a></li></ul><select id="company_area" class="select propertySearchSelect jqTransformHidden" name="property_search[company_region_id]" onchange="getSubRegion(this); SetAreaValues(); customTrackingEvent(arrstrCustomCategory[0], arrstrCustomAction[0], this.options[this.options.selectedIndex].innerHTML)" style="display: none; margin: 2px; visibility: hidden; width: 200px;">
 <option ref="CT" value="1666">Connecticut</option>
 <option ref="FL" value="1840">Florida</option>
 <option ref="GA" value="1848">Georgia</option>
@@ -279,6 +374,7 @@ jQuery('.secondaryLinks a:first').css({'padding-right':'0','border-right':'none'
 <option ref="VA" value="1660">Virginia</option>
 <option ref="WA" value="1690">Washington</option>
 <option ref="DC" value="1640">Washington DC</option>
+<option ref="DC" value="1875">Washington DC Metro</option>
 </select></div>
 </label>
 </div>
@@ -479,6 +575,10 @@ arrAreas[1649] =
 ,"name":"Danvers"
 } 
 ,																	 { 
+"id": "1870"
+,"name":"Dedham"
+} 
+,																	 { 
 "id": "1718"
 ,"name":"Hingham"
 } 
@@ -551,10 +651,6 @@ arrAreas[1649] =
 ,"name":"Waltham"
 } 
 ,																	 { 
-"id": "1723"
-,"name":"Weymouth"
-} 
-,																	 { 
 "id": "1713"
 ,"name":"Wilmington"
 } 
@@ -562,6 +658,10 @@ arrAreas[1649] =
 arrAreas[1681] =
 [
 { 
+"id": "1880"
+,"name":"Bloomfield"
+} 
+,																	 { 
 "id": "1731"
 ,"name":"Bloomingdale"
 } 
@@ -618,6 +718,10 @@ arrAreas[1681] =
 ,"name":"Plainsboro"
 } 
 ,																	 { 
+"id": "1878"
+,"name":"Roseland"
+} 
+,																	 { 
 "id": "1683"
 ,"name":"Somerset"
 } 
@@ -636,6 +740,10 @@ arrAreas[1681] =
 ,																	 { 
 "id": "1724"
 ,"name":"West Windsor"
+} 
+,																	 { 
+"id": "1877"
+,"name":"Wharton"
 } 
 ,																	 { 
 "id": "1685"
@@ -681,6 +789,10 @@ arrAreas[1633] =
 ,"name":"Long Island"
 } 
 ,																	 { 
+"id": "1873"
+,"name":"Long Island City"
+} 
+,																	 { 
 "id": "1748"
 ,"name":"Mamaroneck"
 } 
@@ -703,6 +815,10 @@ arrAreas[1633] =
 ,																	 { 
 "id": "1852"
 ,"name":"Ossining"
+} 
+,																	 { 
+"id": "1874"
+,"name":"Queens"
 } 
 ,																	 { 
 "id": "1742"
@@ -768,6 +884,10 @@ arrAreas[1588] =
 ,"name":"Pleasanton"
 } 
 ,																	 { 
+"id": "1818"
+,"name":"San Bruno"
+} 
+,																	 { 
 "id": "1590"
 ,"name":"San Francisco"
 } 
@@ -802,6 +922,10 @@ arrAreas[1679] =
 arrAreas[1592] =
 [
 { 
+"id": "1820"
+,"name":"Agoura Hills"
+} 
+,																	 { 
 "id": "1773"
 ,"name":"Anaheim"
 } 
@@ -814,8 +938,16 @@ arrAreas[1592] =
 ,"name":"Burbank"
 } 
 ,																	 { 
+"id": "1827"
+,"name":"Calabasas"
+} 
+,																	 { 
 "id": "1764"
 ,"name":"Camarillo"
+} 
+,																	 { 
+"id": "1803"
+,"name":"Canoga Park"
 } 
 ,																	 { 
 "id": "1780"
@@ -906,6 +1038,10 @@ arrAreas[1592] =
 ,"name":"Santa Monica"
 } 
 ,																	 { 
+"id": "1872"
+,"name":"Seal Beach"
+} 
+,																	 { 
 "id": "1828"
 ,"name":"Simi Valley"
 } 
@@ -914,8 +1050,16 @@ arrAreas[1592] =
 ,"name":"Studio City"
 } 
 ,																	 { 
+"id": "1823"
+,"name":"Thousand Oaks"
+} 
+,																	 { 
 "id": "1778"
 ,"name":"Tustin"
+} 
+,																	 { 
+"id": "1826"
+,"name":"Venice"
 } 
 ,																	 { 
 "id": "1829"
@@ -929,12 +1073,20 @@ arrAreas[1592] =
 "id": "1768"
 ,"name":"Woodland Hills"
 } 
+,																	 { 
+"id": "1834"
+,"name":"Yorba Linda"
+} 
 ];
 arrAreas[1843] =
 [
 { 
 "id": "1844"
 ,"name":"Dallas"
+} 
+,																	 { 
+"id": "1871"
+,"name":"Flower Mound"
 } 
 ,																	 { 
 "id": "1847"
@@ -1005,14 +1157,9 @@ arrAreas[1690] =
 ];
 arrAreas[1640] =
 [
-{ 
-"id": "1808"
-,"name":"DC Metro"
-} 
-,																	 { 
-"id": "1809"
-,"name":"Downtown DC"
-} 
+];
+arrAreas[1875] =
+[
 ];
 function getSubRegion(obj) {
 var arrobjSubAreas;
@@ -1088,23 +1235,23 @@ AC_FL_RunContent(
 <div class="titleTags" style="width:494px; height:30px; text-align:right; padding-right:106px;">Featured Community</div>
 <div style="height:225px; width:600px; position:relative;">
 <div class="featuredCommunityImg">
-<a href="http://www.avaloncommunities.com/new-york/new-york-apartments/archstone-midtown-west/">
-<img src="http://medialibrarycdn.propertysolutions.com/websites_media/avaloncommunities.com/cached_thumbs/220x220/5101aaa0d57e1185.jpg" width="220" height="220" alt="Archstone Midtown West" border="0" style="float:left">
+<a href="http://www.avaloncommunities.com/new-jersey/east-rutherford-apartments/avalon-rutherford-station/">
+<img src="http://medialibrarycdn.propertysolutions.com/websites_media/avaloncommunities.com/cached_thumbs/220x220/4f0de3c3519b7576.jpg" width="220" height="220" alt="Avalon Rutherford Station" border="0" style="float:left">
 </a>
 </div>
 <div class="featuredCommunityInfo">
 <div class="featuredCommunityDetails">
-<div class="featuredCommunityName"><a href="http://www.avaloncommunities.com/new-york/new-york-apartments/archstone-midtown-west/">Archstone Midtown West</a></div>
+<div class="featuredCommunityName"><a href="http://www.avaloncommunities.com/new-jersey/east-rutherford-apartments/avalon-rutherford-station/">Avalon Rutherford Station</a></div>
 <p>
 <b>
-866-995-2975<br>
-250 W. 50th St.<br>                                                        New York,&nbsp;NY&nbsp; 10019
+866-766-4348<br>
+201 Railroad Ave<br>                                                        East Rutherford,&nbsp;NJ&nbsp; 07073
 </b>
 </p>
 <div class="featuredCommunityContact">
-<a href="http://www.avaloncommunities.com/new-york/new-york-apartments/archstone-midtown-west/launch-guest-card/1/">Contact Us</a><br>
+<a href="http://www.avaloncommunities.com/new-jersey/east-rutherford-apartments/avalon-rutherford-station/launch-guest-card/1/">Contact Us</a><br>
 </div>
-<p>Archstone Midtown West invites you to live life on your own terms. These fabu...&nbsp;&nbsp;<a href="http://www.avaloncommunities.com/new-york/new-york-apartments/archstone-midtown-west/">more</a></p>
+<p>With the convenient services offered by Avalon Rutherford Station, as well as...&nbsp;&nbsp;<a href="http://www.avaloncommunities.com/new-jersey/east-rutherford-apartments/avalon-rutherford-station/">more</a></p>
 </div>
 </div>
 </div>
@@ -1496,7 +1643,7 @@ width:775px;
 <div style="background:url('/Common/website_templates/avalon_bay_corporate/images/shadow_bottom.png') no-repeat; width:900px; padding:0 6px;">
 <div id="footer-links">
 <div class="footerRegionLinks">
-<a href="http://www.avaloncommunities.com/connecticut/" onclick="customTrackingEvent(arrstrCustomCategory[1],arrstrCustomAction[43],'CONNECTICUT');">CONNECTICUT APARTMENTS</a><span>&nbsp;&nbsp;|</span>	                    																					                 		            	                    <a href="http://www.avaloncommunities.com/florida/" onclick="customTrackingEvent(arrstrCustomCategory[1],arrstrCustomAction[43],'FLORIDA');">FLORIDA APARTMENTS</a><span>&nbsp;&nbsp;|</span>	                    																					                 		            	                    <a href="http://www.avaloncommunities.com/georgia/" onclick="customTrackingEvent(arrstrCustomCategory[1],arrstrCustomAction[43],'GEORGIA');">GEORGIA APARTMENTS</a><span>&nbsp;&nbsp;|</span>	                    																					                 		            	                    <a href="http://www.avaloncommunities.com/maryland/" onclick="customTrackingEvent(arrstrCustomCategory[1],arrstrCustomAction[43],'MARYLAND');">MARYLAND APARTMENTS</a><span>&nbsp;&nbsp;|</span>	                    																					                 		            	                    <a href="http://www.avaloncommunities.com/massachusetts/" onclick="customTrackingEvent(arrstrCustomCategory[1],arrstrCustomAction[43],'MASSACHUSETTS');">MASSACHUSETTS APARTMENTS</a><span>&nbsp;&nbsp;|</span>	                    																					                 		            	                    <a href="http://www.avaloncommunities.com/new-jersey/" onclick="customTrackingEvent(arrstrCustomCategory[1],arrstrCustomAction[43],'NEW JERSEY');">NEW JERSEY APARTMENTS</a><span>&nbsp;&nbsp;|</span>	                    																					                 		            	                    <a href="http://www.avaloncommunities.com/new-york/" onclick="customTrackingEvent(arrstrCustomCategory[1],arrstrCustomAction[43],'NEW YORK');">NEW YORK APARTMENTS</a><span>&nbsp;&nbsp;|</span>	                    																					                 		            	                    <a href="http://www.avaloncommunities.com/northern-california/" onclick="customTrackingEvent(arrstrCustomCategory[1],arrstrCustomAction[43],'NORTHERN CALIFORNIA');">NORTHERN CALIFORNIA APARTMENTS</a><span>&nbsp;&nbsp;|</span>	                    																					                 		            	                    <a href="http://www.avaloncommunities.com/rhode-island/" onclick="customTrackingEvent(arrstrCustomCategory[1],arrstrCustomAction[43],'RHODE ISLAND');">RHODE ISLAND APARTMENTS</a><span>&nbsp;&nbsp;|</span>	                    																					                 		            	                    <a href="http://www.avaloncommunities.com/southern-california/" onclick="customTrackingEvent(arrstrCustomCategory[1],arrstrCustomAction[43],'SOUTHERN CALIFORNIA');">SOUTHERN CALIFORNIA APARTMENTS</a><span>&nbsp;&nbsp;|</span>	                    																					                 		            	                    <a href="http://www.avaloncommunities.com/texas/" onclick="customTrackingEvent(arrstrCustomCategory[1],arrstrCustomAction[43],'TEXAS');">TEXAS APARTMENTS</a><span>&nbsp;&nbsp;|</span>	                    																					                 		            	                    <a href="http://www.avaloncommunities.com/virginia/" onclick="customTrackingEvent(arrstrCustomCategory[1],arrstrCustomAction[43],'VIRGINIA');">VIRGINIA APARTMENTS</a><span>&nbsp;&nbsp;|</span>	                    																					                 		            	                    <a href="http://www.avaloncommunities.com/washington/" onclick="customTrackingEvent(arrstrCustomCategory[1],arrstrCustomAction[43],'WASHINGTON');">WASHINGTON APARTMENTS</a><span>&nbsp;&nbsp;|</span>	                    																					                 		            	                    <a href="http://www.avaloncommunities.com/washington-dc/" onclick="customTrackingEvent(arrstrCustomCategory[1],arrstrCustomAction[43],'WASHINGTON DC');">WASHINGTON DC APARTMENTS</a>	                    							</div>
+<a href="http://www.avaloncommunities.com/connecticut/" onclick="customTrackingEvent(arrstrCustomCategory[1],arrstrCustomAction[43],'CONNECTICUT');">CONNECTICUT APARTMENTS</a><span>&nbsp;&nbsp;|</span>	                    																					                 		            	                    <a href="http://www.avaloncommunities.com/florida/" onclick="customTrackingEvent(arrstrCustomCategory[1],arrstrCustomAction[43],'FLORIDA');">FLORIDA APARTMENTS</a><span>&nbsp;&nbsp;|</span>	                    																					                 		            	                    <a href="http://www.avaloncommunities.com/georgia/" onclick="customTrackingEvent(arrstrCustomCategory[1],arrstrCustomAction[43],'GEORGIA');">GEORGIA APARTMENTS</a><span>&nbsp;&nbsp;|</span>	                    																					                 		            	                    <a href="http://www.avaloncommunities.com/maryland/" onclick="customTrackingEvent(arrstrCustomCategory[1],arrstrCustomAction[43],'MARYLAND');">MARYLAND APARTMENTS</a><span>&nbsp;&nbsp;|</span>	                    																					                 		            	                    <a href="http://www.avaloncommunities.com/massachusetts/" onclick="customTrackingEvent(arrstrCustomCategory[1],arrstrCustomAction[43],'MASSACHUSETTS');">MASSACHUSETTS APARTMENTS</a><span>&nbsp;&nbsp;|</span>	                    																					                 		            	                    <a href="http://www.avaloncommunities.com/new-jersey/" onclick="customTrackingEvent(arrstrCustomCategory[1],arrstrCustomAction[43],'NEW JERSEY');">NEW JERSEY APARTMENTS</a><span>&nbsp;&nbsp;|</span>	                    																					                 		            	                    <a href="http://www.avaloncommunities.com/new-york/" onclick="customTrackingEvent(arrstrCustomCategory[1],arrstrCustomAction[43],'NEW YORK');">NEW YORK APARTMENTS</a><span>&nbsp;&nbsp;|</span>	                    																					                 		            	                    <a href="http://www.avaloncommunities.com/northern-california/" onclick="customTrackingEvent(arrstrCustomCategory[1],arrstrCustomAction[43],'NORTHERN CALIFORNIA');">NORTHERN CALIFORNIA APARTMENTS</a><span>&nbsp;&nbsp;|</span>	                    																					                 		            	                    <a href="http://www.avaloncommunities.com/rhode-island/" onclick="customTrackingEvent(arrstrCustomCategory[1],arrstrCustomAction[43],'RHODE ISLAND');">RHODE ISLAND APARTMENTS</a><span>&nbsp;&nbsp;|</span>	                    																					                 		            	                    <a href="http://www.avaloncommunities.com/southern-california/" onclick="customTrackingEvent(arrstrCustomCategory[1],arrstrCustomAction[43],'SOUTHERN CALIFORNIA');">SOUTHERN CALIFORNIA APARTMENTS</a><span>&nbsp;&nbsp;|</span>	                    																					                 		            	                    <a href="http://www.avaloncommunities.com/texas/" onclick="customTrackingEvent(arrstrCustomCategory[1],arrstrCustomAction[43],'TEXAS');">TEXAS APARTMENTS</a><span>&nbsp;&nbsp;|</span>	                    																					                 		            	                    <a href="http://www.avaloncommunities.com/virginia/" onclick="customTrackingEvent(arrstrCustomCategory[1],arrstrCustomAction[43],'VIRGINIA');">VIRGINIA APARTMENTS</a><span>&nbsp;&nbsp;|</span>	                    																					                 		            	                    <a href="http://www.avaloncommunities.com/washington/" onclick="customTrackingEvent(arrstrCustomCategory[1],arrstrCustomAction[43],'WASHINGTON');">WASHINGTON APARTMENTS</a><span>&nbsp;&nbsp;|</span>	                    																					                 		            	                    <a href="http://www.avaloncommunities.com/washington-dc/" onclick="customTrackingEvent(arrstrCustomCategory[1],arrstrCustomAction[43],'WASHINGTON DC');">WASHINGTON DC APARTMENTS</a><span>&nbsp;&nbsp;|</span>	                    																					                 		            	                    <a href="http://www.avaloncommunities.com/washington-dc-metro/" onclick="customTrackingEvent(arrstrCustomCategory[1],arrstrCustomAction[43],'WASHINGTON DC METRO');">WASHINGTON DC METRO APARTMENTS</a>	                    							</div>
 </div>
 <div style="clear:both;"></div>
 <div style="padding:20px 10px 7px 10px;">
@@ -1527,7 +1674,7 @@ Start of DoubleClick Floodlight Tag: Please do not remove Activity name of this 
 var axel = Math.random() + "";
 var a = axel * 10000000000000;
 document.write('<iframe src="http://3941123.fls.doubleclick.net/activityi;src=3941123;type=retar113;cat=landi217;ord=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
-</script><iframe src="http://3941123.fls.doubleclick.net/activityi;src=3941123;type=retar113;cat=landi217;ord=307031909564.8344?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+</script><iframe src="http://3941123.fls.doubleclick.net/activityi;src=3941123;type=retar113;cat=landi217;ord=220029782500.6281?" width="1" height="1" frameborder="0" style="display:none"></iframe>
 <noscript>
 <iframe src="http://3941123.fls.doubleclick.net/activityi;src=3941123;type=retar113;cat=landi217;ord=1?" width="1" height="1" frameborder="0" style="display:none"></iframe>
 </noscript>
@@ -1594,7 +1741,7 @@ this.m_arrstrSearchLevels 		= new Array();
 this.m_boolHasInnerSearchLevels	= false;
 // Set variables that decide whether to display certain elements of the search form.
 this.m_intLocationStatus		= '';
-this.m_intBasicInfoStatus		= '2';
+this.m_intBasicInfoStatus		= '';
 this.m_intRentRangeStatus		= '';
 this.m_intPropertyTypeStatus	= '1';
 this.m_intCategoriesStatus		= '1';
@@ -1796,7 +1943,7 @@ jQuery(this).val(selectedValue);
 }
 jQuery(document).ready(function(){
 var stateSelected = jQuery("#location_search_level_1").val();
-if( stateSelected.length > 0  ){
+if( null != stateSelected && stateSelected.length > 0  ) {
 sortArea();
 }
 jQuery("#location_search_level_1, #location_search_level_2").live("change",function() {
