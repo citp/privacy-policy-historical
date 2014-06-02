@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the genconnect.com privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129155443id_/http%3A//www.genconnect.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genconnect.com privacy policy that was archived on 2014-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140602052009id_/http%3A//www.genconnect.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | genConnect
 
