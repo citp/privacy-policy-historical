@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the veezi.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127092056id_/http%3A//www.veezi.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veezi.com privacy policy that was archived on 2014-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140602135748id_/http%3A//www.veezi.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Veezi by Vista
+# Privacy Policy Veezi by Vista
 
 **The information we collect**
 
@@ -10,11 +10,11 @@ When ordering or registering on our site, as appropriate, you may be asked to en
 
 **You own Your Data**
 
-Veezi is a cinema ticketing and concession sales system which stores information about a company or individual (Organisation) as provided or entered by that company or individual. Veezi will store information that is entered by you, or automatically imported on your instruction. The data entered, or imported on instruction, by you remains your property and Veezi will not use nor make available for use any of this information without your permission.
+Veezi is a cinema ticketing and concession sales system which stores information about a company or individual (Organisation) as provided or entered by that company or individual. Veezi will store information that is entered by you, or automatically imported on your instruction. The data entered, or imported on instruction, by you remains your property and Veezi will not use nor make available for use any of this information without your permission. However if you download, install or use the Veezi software you will be bound by Veezi's standard terms and conditions. You grant VISTA a licence to access, collect, compile and use your data for VISTA and its customers own purposes provided that such data excludes any personally identifing data, or information that identifies you, your cinema or your business ("Anonymous Data")
 
 **You control who has access to Your Data**
 
-The data entered, or imported on instruction, by you is stored securely in a database and is only accessible to any person you have authorized to use the service. It is your responsibility to keep your password safe. Veezi and Veezi's staff do not have access to your password.  Veezi support staff does have access to your Veezi account and database - solely for the purpose of providing you with customer service related to your account.
+The data entered, or imported on instruction, by you is stored securely in a database and is only accessible to any person you have authorized to use the service. It is your responsibility to keep your password safe. Veezi and Veezi's staff do not have access to your password.  Veezi support staff does have access to your Veezi account and database - solely for the purpose of providing you with customer service related to your account or for the purpose of accessing, collecting, compiling and using anonymous data for Vista and it's customers own purposes in accordance with the licence granted by you under Veezi's standard terms and conditions.
 
 **How we use your information**
 
@@ -76,7 +76,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our [Terms and Conditions](https://web.archive.org/legal/terms-conditions/ "Terms & Conditions") section establishing the use, disclaimers, and limitations of liability governing the use of our website and the Veezi service.
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website and the Veezi service.
 
 **Your Consent**
 
@@ -85,6 +85,8 @@ By using our site, you consent to our online privacy policy.
 **Changes to our Privacy Policy**
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
+
+_Last modified: Jan 10th, 2014_
 
 **Contacting Us**
 
