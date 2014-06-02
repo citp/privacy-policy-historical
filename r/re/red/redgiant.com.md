@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redgiant.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202162545id_/http%3A//www.redgiant.com/support/buyers-guide/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redgiant.com privacy policy that was archived on 2014-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140602144203id_/http%3A//www.redgiant.com/support/buyers-guide/privacy-policy) for the most accurate reproduction.*
 
 # Red Giant - Support - Buyers Guide - Privacy Policy
 
@@ -20,7 +20,7 @@ Collection of personal information
 
 Collection of non-personal information 
 
-The non-personal information that Red Giant collects consists of usage statistics collected anonymously.   For example, with respect to its product BulletProof™, Red Giant gathers anonymous statistics about how BulletProof™ is used through its “Usage Statistics” feature. Our purpose is to understand which parts of BulletProof are used most, and which parts aren’t working as expected. The statistics collection does not collect any personal information, or look at anything that isn’t BulletProof related. 
+The non-personal information that Red Giant collects consists of usage statistics and other analytics collected anonymously through our software applications and products.  For example, with respect to its product BulletProof™, Red Giant gathers anonymous statistics about how BulletProof™ is used through its “Usage Statistics” feature. Our purpose is to understand which parts of BulletProof are used most, and which parts aren’t working as expected. The statistics collection does not collect any personal information, or look at anything that isn’t BulletProof related. 
 
 Usage Statistics collection happens in the background and doesn’t require you to do a thing. Without any extra effort, you are helping us to build BulletProof’s features and define what it will do in future versions — how awesome is that?   _Read full statement describing  BulletProof usage statistics collection._
 
@@ -81,14 +81,16 @@ Last Updated: November 12, 2013
 
 Protection of your personal information
 
- The personal information that you provide in connection with registering yourself as a user of Red Giant Software products or services, testing a demonstration version of Red Giant Software products, or registering a Red Giant product is classified as Registration Information. Registration Information is only available to authorized Red Giant Software employees or contractors and are not publicly distributed.
+ The personal information that you provide in connection with registering yourself as a user of Red Giant software products or services, testing a demonstration version of Red Giant software products, or registering a Red Giant product is classified as Registration Information. Registration Information is only available to authorized Red Giant employees or contractors and are not publicly distributed.
 
- Please note that any information you post to a public bulletin board or chat room, such as the Red Giant Software User Forum, is available to all persons accessing that site. The Red Giant Software User Forum is hosted by Toolfarm.com which has its own privacy policies which you should read before participating on the forums.
+ Please note that any information you post to a public bulletin board or chat room, such as the Red Giant User Forum, is available to all persons accessing that site. The Red Giant User Forum hosted by Toolfarm.com has its own privacy policies which you should read before participating in those forums.
 
  Privacy complaints
 
- Red Giant Software takes its users' privacy concerns seriously. If you believe that Red Giant Software has not complied with this Online Privacy Policy with respect to your personal information, you may write the Red Giant Software Corporate Officers at our company address.
+ Red Giant Software takes its users' privacy concerns seriously. If you believe that Red Giant has not complied with this Online Privacy Policy with respect to your personal information, you may write the Red Giant software Corporate Officers at our [company address](http://www.redgiant.com/company/contact-us/).
 
  In your letter, please describe in as much detail as possible the ways in which you believe that the Red Giant Software Online Privacy Policy has not been complied with. We will investigate your complaint promptly.
 
- Also, please note that Red Giant Software is not responsible for the content or privacy practices of non Red Giant Software websites to which this Site or any other Red Giant Software website may link. You should review the privacy policy of such sites before using the Red Giant Software sites or any of the .Red Giant.
+ Also, please note that Red Giant software is not responsible for the content or privacy practices of non Red Giant Software websites to which this Site or any other Red Giant software website may link. You should review the privacy policy of such sites before using the Red Giant sites or any of the Red Giant software.
+
+Last Updated: March 31, 2014 
