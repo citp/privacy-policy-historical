@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the water.ie privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202145745id_/http%3A//www.water.ie/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the water.ie privacy policy that was archived on 2014-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140602231512id_/http%3A//www.water.ie/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Statement | Irish Water
 
@@ -13,7 +13,8 @@ If you fill out a form on this website requesting information from or providing 
 The following applies to any information you provide to Irish Water:
 
   * You authorise Irish Water to use, store, process and disclose such information to the extent necessary to fulfill the required task;
-  * You will ensure that the information you provide is accurate and complete. Irish Water will not release any of the information you provide to third parties.
+  * You will ensure that the information you provide is accurate and complete. Irish Water may disclose the information you provide under strict obligations of confidentiality to our agents for the purposes of assisting you now and into the future.   
+ 
 
 
 
