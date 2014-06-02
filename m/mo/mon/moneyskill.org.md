@@ -1,21 +1,21 @@
-> *The following text is extracted and transformed from the moneyskill.org privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205043308id_/http%3A//moneyskill.org/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyskill.org privacy policy that was archived on 2014-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140602233328id_/http%3A//www.moneyskill.org/privacy.cfm) for the most accurate reproduction.*
 
 # MoneySKILL®
 
   
-[](https://web.archive.org/web/20131205043308id_/http%3A//moneyskill.org/index.cfm)  
+[](https://web.archive.org/web/20140602233328id_/http%3A//www.moneyskill.org/index.cfm)  
   
-[](https://web.archive.org/web/20131205043308id_/http%3A//moneyskill.org/about.cfm)  
+[](https://web.archive.org/web/20140602233328id_/http%3A//www.moneyskill.org/about.cfm)  
   
-[](https://web.archive.org/web/20131205043308id_/http%3A//moneyskill.org/legis.cfm)  
+[](https://web.archive.org/web/20140602233328id_/http%3A//www.moneyskill.org/legis.cfm)  
   
-[](https://web.archive.org/web/20131205043308id_/http%3A//moneyskill.org/standards.cfm)  
+[](https://web.archive.org/web/20140602233328id_/http%3A//www.moneyskill.org/standards.cfm)  
   
-[](https://web.archive.org/web/20131205043308id_/http%3A//moneyskill.org/news.cfm)  
+[](https://web.archive.org/web/20140602233328id_/http%3A//www.moneyskill.org/news.cfm)  
   
-[](https://web.archive.org/web/20131205043308id_/http%3A//moneyskill.org/resources.cfm)  
+[](https://web.archive.org/web/20140602233328id_/http%3A//www.moneyskill.org/resources.cfm)  
   
-[](https://web.archive.org/web/20131205043308id_/http%3A//moneyskill.org/contact.cfm)  
+[](https://web.archive.org/web/20140602233328id_/http%3A//www.moneyskill.org/contact.cfm)  
   
 
 
