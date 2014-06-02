@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dreamsresorts.com privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818200208id_/http%3A//www.dreamsresorts.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreamsresorts.com privacy policy that was archived on 2014-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140602105703id_/http%3A//www.dreamsresorts.com/privacy) for the most accurate reproduction.*
 
-# Dreams Resorts & Spas: Privacy
+# Privacy
 
-## PRIVACY POLICY
+DREAMS RESORTS & SPAS - PRIVACY POLICY
 
 By using the Website you accept our Policy. We may revise it at any time by updating the Website.
 
@@ -20,7 +20,7 @@ Personal information that we may request from you in order to provide you with o
 
 You may choose to register with us and create a personal account. If you create an account, you will allow us to tailor your search results to your own personal interests and preferences. The personal information we collect from you, if you choose to register includes: name, address, Email address, preferred travel agent, password and password reminder. The travel preference information we collect from you includes: departure state, preferred airport, destination/hobby interests, duration of stay preference, price range and seasonal preference. You must create a password to create an account, so your account is password-protected. This is unique and regarded as confidential; consequently, it should be carefully guarded. Ultimately, you are solely responsible for maintaining the secrecy of your passwords, User IDs, and/or any account information. Our secure server encrypts all personal information so that it cannot be read as it is transmitted over the Internet. You may modify your travel profile and account information at any time by going to My Vacation and updating your travel preferences and or account information.
 
-back to top
+[back to top](http://www.dreamsresorts.com/privacy#top)
 
 ### Email Communications
 
@@ -40,7 +40,7 @@ AMRESORTS' primary goal in collecting personal information is to provide you, th
 
 AMRESORTS does research on our user's demographics, interests, and behaviors based upon the information provided to us through our web site. We do this to better understand and serve our users. This research is compiled and analyzed on an aggregated basis. AMRESORTS may share this aggregated data with advertisers or business partners.
 
-back to top
+[back to top](http://www.dreamsresorts.com/privacy#top)
 
 ### Who is collecting information? 
 
@@ -65,7 +65,7 @@ No one may copy any content appearing in any AMRESORTS website, brochure, or adv
 
 AMRESORTS marks should be used with the ® symbol, and the use should be accompanied by a legend appearing at the bottom of the page where used that the mark is registered; for example, AMRESORTS is a registered trademark.
 
-back to top
+[back to top](http://www.dreamsresorts.com/privacy#top)
 
 ### Internet Web Sites 
 
@@ -85,4 +85,4 @@ Marks must not be used as an agency identifier; i.e., an AMRESORTS mark may not 
 
 Questions regarding this statement should be directed to [webmaster@AMRESORTS.com](mailto:webmaster@amresorts.com). If you do not receive acknowledgment or if your inquiry has not been satisfactorily addressed, please write to AMRESORTS, 7 Campus Blvd, Newtown Square, PA 19073, Attn: Web Department.
 
-back to top
+[back to top](http://www.dreamsresorts.com/privacy#top)
