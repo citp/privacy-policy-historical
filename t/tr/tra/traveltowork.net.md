@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the traveltowork.net privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204041340id_/http%3A//www.traveltowork.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traveltowork.net privacy policy that was archived on 2014-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140602114726id_/http%3A//www.traveltowork.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Travel Blog
+
+Your privacy is of utmost importance to us here at this blog Rest assured that any information you provide will only be used in accordance with this privacy statement.
 
 This policy may be updated or changed anytime and we encourage you to review it whenever you visit the site to make sure you understand how any personal information you provide will be used.
 
@@ -27,3 +29,5 @@ Our site may contain links to other websites of interest. However, once you use 
 ## Privacy Contact Information
 
 Should you have any questions, concerns, or comments about our privacy policy, please contact us by email  directly at **webmaster @ traveltowork.net.**
+
+## I Travel to Work, Do You?
