@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knowyourmoney.co.uk privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128000328id_/http%3A//www.knowyourmoney.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knowyourmoney.co.uk privacy policy that was archived on 2014-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140602052257id_/http%3A//www.knowyourmoney.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy and Cookies Policy
 
@@ -22,7 +22,7 @@ In addition we will also hold anonymous information about your computer and abou
 
 If you choose to sign up to our newsletter we will send you a weekly newsletter via email featuring money [savings](https://web.archive.org/savings-accounts/) deals, financial news and consumer articles. Within all of our emails is the facility to 'un-subscribe' from our newsletter.
 
-The Know Your Money website also offers web forms for certain financial products where we require you to give us information about the product you require. Where you provide us your contact details you consent to us using these to contact you and to pass the information that you have supplied to carefully selected third parties that we may choose including product providers, brokers and others who we believe may have products or service that will be of interest to you. If you prefer that your contact information is not used in this way pleasedo not submit your contact details.
+The Know Your Money website also offers web forms for certain financial products where we require you to give us information about the product you require. Where you provide us your contact details you consent to us using these to contact you and to pass the information that you have supplied to carefully selected third parties that we may choose including product providers, brokers and others who we believe may have products or service that will be of interest to you. If you prefer that your contact information is not used in this way please do not submit your contact details.
 
 If, after providing us your contact details, you wish us to cease further communications with you please follow the instructions in our emails, or email us on advertising@knowyourmoney.co.uk.
 
