@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spywareremove.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206005757id_/http%3A//www.spywareremove.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spywareremove.com privacy policy that was archived on 2014-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140602144056id_/http%3A//www.spywareremove.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – SpywareRemove.com
 
@@ -97,4 +97,4 @@ We reserve the right to change our Privacy Policy at any time. Changes to this P
 
 If, however, we are going to use users’ personally identifiable information in a manner different from that stated at the time of collection we will notify users via email. Users will have a choice as to whether or not we use their information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our Web site notifying users of the change.
 
-If you have any questions about this Privacy Policy, the practices of any of our Web sites, or your dealings with any of our Web sites, please [contact us](https://web.archive.org/contact-us/ "contact us"). 
+If you have any questions about this Privacy Policy, the practices of any of our Web sites, or your dealings with any of our Web sites, please [contact us](https://web.archive.org/contact-us/ "contact us").
