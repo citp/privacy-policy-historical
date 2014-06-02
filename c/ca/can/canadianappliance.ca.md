@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canadianappliance.ca privacy policy that was archived on 2013-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131130215935id_/http%3A//www.canadianappliance.ca/Content/Privacy-Policy-16) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadianappliance.ca privacy policy that was archived on 2014-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140602083450id_/http%3A//www.canadianappliance.ca/Content/Privacy-Policy-16) for the most accurate reproduction.*
 
 # Privacy Policy | Canadian Appliance
 
@@ -16,7 +16,7 @@ Some of the features that should be verified:
 
 
 
-We will not take back any unit(s) that were opened and/or taken out of the box. Please make sure you are ordering the correct item before placing your order. If you need assistance in ordering a product or you need technical help please call our sales staff at 1-877-374-3439 or email us at [cs@canadianappliancesource.ca](mailtocs:@canadianappliancesource.ca). If you need to return an item you must notify us within 7 days after receiving the unit. No returns will be accepted after that time period. There will be a 25% restocking fee on cancelled or unopened returned items, plus the shipping cost to you and back to us. If you need to cancel an order you must call us at 1-877-374-3439 to cancel. Do not email us any cancellations. All special orders or orders that have a postmarked day cannot be cancelled. We do not accept returns on air conditioners. All air conditioners and air conditioner accessories sales are final.
+We will not take back any unit(s) that were opened and/or taken out of the box. Please make sure you are ordering the correct item before placing your order. If you need assistance in ordering a product or you need technical help please call our sales staff at 1-877-374-3439 or email us at [cs@canadianappliancesource.ca](mailto:cs@canadianappliancesource.ca). If you need to return an item you must notify us within 7 days after receiving the unit. No returns will be accepted after that time period. There will be a 25% restocking fee on cancelled or unopened returned items, plus the shipping cost to you and back to us. If you need to cancel an order you must call us at 1-877-374-3439 to cancel. Do not email us any cancellations. All special orders or orders that have a postmarked day cannot be cancelled. We do not accept returns on air conditioners. All air conditioners and air conditioner accessories sales are final.
 
 **Damages**
 
@@ -27,8 +27,6 @@ We do our best packaging our products to minimize damages. There are times that 
 In general, you should know that prices and availability are subject to change without notice. Errors will be corrected where discovered. Canadian Appliance Source reserves the right to revoke any stated offer and to correct any errors, inaccuracies or omissions, including after an order has been submitted, whether or not the order has been confirmed and your credit card charged. If your credit card has already been charged for the purchase and your order is canceled, [www.canadianappliance.ca](http://www.canadianappliance.ca/) will issue a credit to your credit card account in the amount of the charge. Individual bank policies will dictate when this amount is credited to your account.
 
 While Canadian Appliance Source takes steps to ensure the accuracy and completeness of product and third-party services information provided, please refer to the originator of the information (e.g., the manufacturer) for complete product details.
-
- 
 
 Our Privacy Commitment
 
