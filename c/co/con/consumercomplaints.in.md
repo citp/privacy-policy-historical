@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the consumercomplaints.in privacy policy that was archived on 2013-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130928234902id_/http%3A//www.consumercomplaints.in/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumercomplaints.in privacy policy that was archived on 2014-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140602184854id_/http%3A//www.consumercomplaints.in/privacy-policy.html) for the most accurate reproduction.*
 
 # Indian Consumer Complaints Forum
 
-  | 
+  |    
+
 
 Your privacy is important to us, so ConsumerComplaints.in (the "Site") has created this Privacy Policy to explain how your information is protected, collected and used. This Privacy Policy may be updated from time to time. You can always review the most current version here. By using the Site, you consent to the terms and conditions of this Privacy Policy and are aware that our policies may evolve in the future. If there is a conflict between our Terms of Use governing your use of the Site and this Privacy Policy, the Terms of Use control. 
 
@@ -65,12 +66,20 @@ If we merge with or are acquired by another company, the resulting combined comp
 
 | 
 
-### Recently Discussed
+Recently Discussed
 
-(1 hours 35 minutes ago)  
-[Nokia 1650](https://web.archive.org/complaints/nokia-1650-c113415.html)  
-puk code
+(13 minutes ago)  
+[TNSTC](https://web.archive.org/complaints/tnstc-some-79-buses-going-in-wrong-route-c732561.html)  
+Some 79 buses going in wrong route
 
-### Latest Questions
+(13 minutes ago)  
+[MTC Bus Service](https://web.archive.org/complaints/mtc-bus-service-uthukottai-tiruvallur-tamil-nadu-c470988.html)  
+Need more frequent busses to UTHUKOTTAI
+
+(13 minutes ago)  
+[MTC Bus](https://web.archive.org/complaints/mtc-bus-vengal-tiruvallur-tamil-nadu-c469411.html)  
+no direct buses
+
+[](http://www.bdomains.com/)
 
 |  
