@@ -1,23 +1,23 @@
-> *The following text is extracted and transformed from the iphantom.com privacy policy that was archived on 2013-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131006024313id_/http%3A//www.iphantom.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iphantom.com privacy policy that was archived on 2014-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140602042920id_/http%3A//www.iboss.com/company/privacy_policy.html) for the most accurate reproduction.*
 
-# iboss Network Security - Web Filtering, Application Firewall & Reporting Solutions for Medium to Large Networks
+# iboss Network Security – Web Security, Mobile Security, and Advanced Threat and Data Protection for today’s borderless network
 
-Last updated: 03/01/2010
+Last updated: 10/10/2013
 
-Welcome to the online Privacy Statement page for the iPhantom.com website. We take your privacy seriously and are committed to protecting your personal information while using our website.
+Welcome to the online Privacy Statement page for the iboss.com website. We take your privacy seriously and are committed to protecting your personal information while using our website.
 
 We encourage you to review the privacy policies described below in this Privacy Statement. By visiting this website, you are consenting to the personal information practices described in this Privacy Statement.
 
 ### **Contact Information**
 
-This is the web site of **Phantom Technologies Inc.**
+This is the web site of **iboss Network Security**
 
 Our postal address is:   
 **9950 Summers Ridge Road, Suite 160  
 San Diego, CA 92121**
 
-We can be reached via email [here](mailto:sales@iboss.com)   
-or you can reach us by telephone at 1.877.PHANTECH (742.6832)
+We can be reached via email:    
+or you can reach us by telephone at 1-877-742-6832 ext. 1
 
 ### **Providing Users With Anonymous Access**
 
@@ -33,7 +33,7 @@ We do not partner with or have special relationships with any ad server companie
 
 We collect the email addresses of those who communicate with us via email, information volunteered by the consumer, such as survey information, customer support, and/or order processing information. Order processing information that is collected through our website includes mailing and billing addresses, credit card information, and contact information such as email and phone number that are used strictly for order confirmation purposes.
 
-If you choose to use our referral service to tell a friend about our products, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit our site for more information regarding the products. The email will include a purchase code that may be used to receive a discount through the referral program. Phantom Technologies, Inc. does not store the names or email addresses acquired through this referral program. The name and email addresses are used for the sole purpose of sending this one-time email. The email will include a unique code that is used for receiving the referral discount and for tracking the success of our referral program.
+If you choose to use our referral service to tell a friend about our products, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit our site for more information regarding the products. The email will include a purchase code that may be used to receive a discount through the referral program. iboss Network Security does not store the names or email addresses acquired through this referral program. The name and email addresses are used for the sole purpose of sending this one-time email. The email will include a unique code that is used for receiving the referral discount and for tracking the success of our referral program.
 
 ### **Use of Your Personal Information**
 
