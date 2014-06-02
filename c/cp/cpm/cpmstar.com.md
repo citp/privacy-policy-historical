@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the cpmstar.com privacy policy that was archived on 2013-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131007024448id_/http%3A//www.cpmstar.com/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpmstar.com privacy policy that was archived on 2014-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140603012959id_/http%3A//cpmstar.com/privacyPolicy.html) for the most accurate reproduction.*
 
-# 
+# CPMStar - Privacy Policy
 
-_Effective Nov 20th,2009_
+[](https://www.cpmstar.com/ "CPMStar Advertising Network")
+
+The Oldest and Largest Ad Network in the Games and Youth Oriented Entertainment Space
+
+_Privacy Policy: Effective Nov 20th,2009_
 
 GSN Games Network, LLC, and the CPMStar service are committed to protecting customer privacy online. The following privacy policy applies solely to our CPMStar internet advertising services. 
 
