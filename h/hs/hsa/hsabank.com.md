@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hsabank.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805001105id_/http%3A//www.hsabank.com/%7E/Media/Files/privacy_statement.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsabank.com privacy policy that was archived on 2014-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140602070524id_/http%3A//www.hsabank.com/%7E/Media/Files/privacy_statement.pdf) for the most accurate reproduction.*
 
 # FACTS
 
@@ -14,55 +14,55 @@ you do not need to opt-out each year. Your opt-out remains in effect unless you 
 Sincerely,
 Charlotte E. Kienbaum
 SVP, Director of Operations and Contact Center
-                                                Privacy and Opt-Out Notice                                               Rev. 3/13
- FACTS                   WHAT DOES WEBSTER BANK DO WITH YOUR PERSONAL INFORMATION?
-  Why?                  Financial companies choose how they share your personal information. Federal law gives
-                        consumers the right to limit some but not all sharing. Federal law also requires us to tell you
-                        how we collect, share, and protect your personal information. Please read this notice carefully to
-                        understand what we do.
-  What?                 The types of personal information we collect and share depend on the product or service you have
-                        with us. This information can include:
-                        • Social Security number and transaction history
-                        • Account balances and payment history
-                        • Credit history and credit scores
-  How?                  All financial companies need to share customers’ personal information to run their everyday
-                        business. In the section below, we list the reasons financial companies can share their customers’
-                        personal information; the reasons Webster Bank chooses to share; and whether you can limit this
-                        sharing.
-                                                                                  Does Webster Bank           Can you limit
-            Reasons we can share your personal information
-                                                                                         share?               this sharing?
+                                                      Privacy and Opt-Out Notice                                               Rev. 01/14
+ FACTS                         WHAT DOES WEBSTER BANK DO WITH YOUR PERSONAL INFORMATION?
+  Why?                        Financial companies choose how they share your personal information. Federal law gives
+                              consumers the right to limit some but not all sharing. Federal law also requires us to tell you
+                              how we collect, share, and protect your personal information. Please read this notice carefully to
+                              understand what we do.
+  What?                       The types of personal information we collect and share depend on the product or service you have
+                              with us. This information can include:
+                              • Social Security number and transaction history
+                              • Account balances and payment history
+                              • Credit history and credit scores
+  How?                        All financial companies need to share customers’ personal information to run their everyday
+                              business. In the section below, we list the reasons financial companies can share their customers’
+                              personal information; the reasons Webster Bank chooses to share; and whether you can limit this
+                              sharing.
+                                                                                        Does Webster Bank           Can you limit
+                Reasons we can share your personal information
+                                                                                               share?               this sharing?
  For our everyday business purposes — such as to process your
- transactions, maintain your account(s), respond to court orders and legal                 Yes                       No
+ transactions, maintain your account(s), respond to court orders and legal                       Yes                       No
  investigations, or report to credit bureaus
  For our marketing purposes —
-                                                                                           Yes                       No
+                                                                                                 Yes                       No
  to offer our products and services to you
- For joint marketing with other financial companies                                        Yes                       No
+ For joint marketing with other financial companies                                              Yes                       No
  For our affiliates’ everyday business purposes —information about
-                                                                                           Yes                       No
+                                                                                                 Yes                       No
  your transactions and experiences
  For our affiliates’ everyday business purposes —information about
-                                                                                           Yes                       Yes
+                                                                                                 Yes                       Yes
  your creditworthiness
- For our affiliates to market to you                                                       Yes                       Yes
- For nonaffiliates to market to you                                                         No               We don’t share
- To limit our        •   Call toll free 1-800-357-6246
- sharing             Please note:
-                     If you are a new customer, we can begin sharing your information 30 days from the date we sent this
-                     notice. When you are no longer our customer, we continue to share your information as described in
-                     this notice.
-                     However, you can contact us at any time to limit our sharing.
- Questions?          Call toll free 1-800-357-6246
-FN01009A
+ For our affiliates to market to you                                                             Yes                       Yes
+ For nonaffiliates to market to you                                                               No               We don’t share
+ To limit our              •   Call toll free 1-800-357-6246
+ sharing                   Please note:
+                           If you are a new customer, we can begin sharing your information 30 days from the date we sent this
+                           notice. When you are no longer our customer, we continue to share your information as described in
+                           this notice.
+                           However, you can contact us at any time to limit our sharing.
+ Questions?                Call toll free 1-800-357-6246
+FN01009APrivacy&OptOutNoticeSTD-A_AH_SP_R_0114
 
 
 Page 2
 Who we are
 Who is providing this     Webster Financial Corporation and its family of companies: Webster Bank, N.A.
 notice?                   (including its divisions: HSA Bank, Webster Investment Services, Webster Financial
-                          Advisors and its trade name Webster Private Bank, and J. Bush & Co.); Webster
-                          Business Credit Corp.; Webster Capital Finance, Inc.; and Fleming, Perry & Cox, Inc.
+                          Advisors and its trade name Webster Private Bank); Webster Business Credit Corp.;
+                          Webster Capital Finance, Inc.; and Fleming, Perry & Cox, Inc.
 What we do
 How does Webster Bank     To protect your personal information from unauthorized access and use, we use security
 protect my personal       measures that comply with federal law. These measures include computer safeguards
