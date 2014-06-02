@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tacobell.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221175442id_/http%3A//www.tacobell.com/Company/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tacobell.com privacy policy that was archived on 2014-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140602080837id_/http%3A//www.tacobell.com/Company/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Taco Bell
 
@@ -103,6 +103,6 @@ Phone: (949) 863-4000
 
 From time to time we may change our privacy policies. We will notify you of any material changes to our Policy as required by law. We will also post an updated copy on our website. Please check our site periodically for updates.
 
-© 2013 Taco Bell Corp. All rights reserved.
+© 2014 Taco Bell Corp. All rights reserved.
 
 Effective as of 7/11/2006, last updated 11/12/2013
