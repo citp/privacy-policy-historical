@@ -1,11 +1,12 @@
-<!--The following is the downloaded HTML source of the guildlaunch.com privacy policy that was archived on 2013-11-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131128143129id_/http%3A//www.guildlaunch.com/about-us/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the guildlaunch.com privacy policy that was archived on 2014-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140602032255id_/http%3A//www.guildlaunch.com/about-us/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
+<!DOCTYPE html><html><head><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQMHV15TGwABVFFUAgY="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
 <!--  CSS  -->
 <title>Privacy Policy</title>
 <meta name="description" content="">
 <style>html{background-color:#000000;}</style>
+<link href="http://fonts.googleapis.com/css?family=Hammersmith+One&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css">
 <link rel="stylesheet" href="/templates/v3/css/fonts.css">
 <link rel="stylesheet" href="/templates/v3/css/normalize.css">
 <link rel="stylesheet" href="/templates/v3/css/styles.css?v=1288">
@@ -17,17 +18,18 @@
 <!--[if lte IE 7]>
 	<link rel="stylesheet" href="/templates/v3/css/ie7.css">
 <![endif]-->
-<link rel="stylesheet" href="/templates/v3/css/styles..guildlaunch.com.css">
+<!--<link rel="stylesheet" href="/templates/v3/css/styles..guildlaunch.com.css">-->
+
 <!--  Javascript  -->
-<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script src="http://cdn2.guildlaunch.net/templates/v3/js/jquery-1.8.2.min.js"></script>
-<script src="http://cdn2.guildlaunch.net/templates/v3/js/html5shiv.js"></script>
-<script src="http://cdn2.guildlaunch.net/templates/v3/js/prefixfree.min.js"></script>
-<script src="http://cdn2.guildlaunch.net/templates/v3/js/jquery.validate.js"></script>
-<script src="http://cdn2.guildlaunch.net/templates/v3/js/jcarousellite_1.0.1.min.js"></script>
-<script src="http://cdn2.guildlaunch.net/templates/v3/js/jquery.easing.1.1.js"></script>
-<script src="http://cdn2.guildlaunch.net/templates/v3/js/jquery.tweet.js"></script>
-<script src="http://cdn2.guildlaunch.net/templates/v3/js/site-script.js"></script>
-<link rel="shortcut icon" href="http://cdn2.guildlaunch.net/favicon.ico">
+<script src="http://www.guildlaunch.com/templates/v3/js/jquery-1.8.2.min.js"></script>
+<script src="http://www.guildlaunch.com/templates/v3/js/html5shiv.js"></script>
+<script src="http://www.guildlaunch.com/templates/v3/js/prefixfree.min.js"></script>
+<script src="http://www.guildlaunch.com/templates/v3/js/jquery.validate.js"></script>
+<script src="http://www.guildlaunch.com/templates/v3/js/jcarousellite_1.0.1.min.js"></script>
+<script src="http://www.guildlaunch.com/templates/v3/js/jquery.easing.1.1.js"></script>
+<script src="http://www.guildlaunch.com/templates/v3/js/jquery.tweet.js"></script>
+<script src="http://www.guildlaunch.com/templates/v3/js/site-script.js"></script>
+<link rel="shortcut icon" href="http://www.guildlaunch.com/favicon.ico">
 <script>
   var _comscore = _comscore || [];
   _comscore.push({ c1: "2", c2: "16119941" });
@@ -73,14 +75,14 @@ qacct:"p-08C2tN1gz3kHY"
 	});
 </script>
 
-</head>
+<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 
 <body>
 <!--  Sets Active States  -->
 
 <header class="blue-stripe">
 	<section class="center inner-nav">
-			<a class="logo" href="/" title="Guild Launch Home"><img src="http://cdn2.guildlaunch.net/templates/v3/images/logo-innerpage.png" alt="Guild Launch - Slay More Dragons"></a>
+			<a class="logo" href="/" title="Guild Launch Home"><img src="http://www.guildlaunch.com/templates/v3/images/logo-innerpage.png" alt="Guild Launch - Slay More Dragons"></a>
 												<section class="login" id="login">
 					<form action="" id="login-form" method="POST">
 							<div>
@@ -117,7 +119,7 @@ qacct:"p-08C2tN1gz3kHY"
 						</div>
 
 						<a class="login-tab" id="login-tab">
-							<span class="lock">Login / Register</span>
+							<span class="lock">Login</span>
 						</a>
 				</section>
 										<nav class="social">
@@ -125,7 +127,7 @@ qacct:"p-08C2tN1gz3kHY"
 
 						<ul>
 							<li class="facebook">
-									<a href="http://www.facebook.com/FansOfGuildLaunch" target="_blank" title="Like Us On Facebook">Facebook</a>
+									<a href="http://www.facebook.com/GuildLaunch" target="_blank" title="Like Us On Facebook">Facebook</a>
 								</li>
 
 								<li class="twitter">
@@ -141,19 +143,19 @@ qacct:"p-08C2tN1gz3kHY"
 				
 				<nav class="main-nav">
 					<ul>
-							<li class="">
+							<li class="" style="margin-left:20px;">
 									<a href="/" title="Guild Launch Home">Home</a>
 								</li>
 
-								<li class="">
+								<li class="" style="margin-left:20px;">
 									<a href="/product/" title="What is Guild Launch?">Learn More</a>
 								</li>
 
-								<li class="">
+								<li class="" style="margin-left:20px;">
 									<a href="/order/d/new/createv2.php" title="Create Your Website">Create A Site</a>
 								</li>
 
-								<li class="">
+								<li class="" style="margin-left:20px;">
 									<a href="/order/d/comparison/" title="Compare Hosting Plans">Plan Comparison</a>
 								</li>
 						</ul>
@@ -183,13 +185,13 @@ qacct:"p-08C2tN1gz3kHY"
 	<section class="bg-image contact-us">
 			<section class="center">
 						<div class="intro-text">
-								<h1>Privay Policy</h1>
+								<h1>Privacy Policy</h1>
 						</div>
 						<div class="info-box blue-stripe form-box">
 								<h2>In Short</h2>
 						<ul style="margin-left:20px;color:#FFFFFF;">
-								<li>Guild Launch <b>does not</b> sell or share your info under any conditions.</li>
-								<li>Guild Launch <b>does not</b> share your info without your consent.</li>
+								<li>Guild Launch <b>does not</b> sell or share your personally identifying info under any conditions.</li>
+								<li>Guild Launch <b>does not</b> share your personally identifying info without your consent.</li>
 								<li>Your info may be used to contact you regarding billing, service or account info.</li>
 								<li>Certain features of the site, such as forum post subscriptions, will use your email to contact you, but only at your request.</li>
 								<li>Your email will not be shared with your guild members by default.</li>
@@ -201,6 +203,7 @@ qacct:"p-08C2tN1gz3kHY"
 								Guild Launch does not collect Personally Identifying  Information about you, which includes, but is not limited to, your name,  address, telephone number and email address, unless you voluntarily submit that  information to us through our online member or subscription registration forms,  by email, or any other means.</p>
 						<p><u>Information We Gather Electronically</u><br>
 								When you visit the Guild Launch Website, we may  automatically collect certain non-identifying information about you, such as  your movement about the Website, the pages on the Website you visit most  frequently, the type of browser or computer operating system you use, or the  domain name of the website from which you linked to us (“Non-identifying  Information”).&nbsp; In addition, we may store  small files on your computer’s hard drive, such as a “cookie” or similar type  of file to track and target your interests.&nbsp;  We use this Non-identifying Information internally to help us enhance  the efficiency and usefulness of the Website, for advertising purposes, and to  improve customer service.&nbsp; If you object  to this practice, please consult your browser’s documentation for instructions  on erasing or blocking cookies.</p>
+<p>We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here http://www.networkadvertising.org/managing/opt_out.asp.</p>
 						<p><u>Use of Information</u><br>
 								Guild Launch treats the information in our database, and any  Personally Identifying Information you submit through this Website as  confidential.&nbsp; Any Personally Identifying  or Non-identifying Information (hereinafter collectively referred to as  “Information”) we gather, whether voluntarily provided by you or automatically  collected, may be used for our internal business and marketing purposes.&nbsp; We may use the Information to send you  newsletters or information relative to the services accessible through the  Website.&nbsp; We do not sell or otherwise  disclose such Information to third parties except as necessary to achieve the  purpose for which the Information was submitted or collected, to comply with  the law, law enforcement agencies, or legal process served on Guild Launch, or  if we believe, in good faith, that such disclosure is necessary to defend our  rights, property, or to respond to an emergency situation.</p>
 						<p><u>Links to Third Party Websites</u><br>
@@ -214,6 +217,20 @@ qacct:"p-08C2tN1gz3kHY"
 						<p>7204 Glen Forest Dr.,    Suite 206<br>
 								Richmond,   VA 23226</p>
 						<p>Or feel free to contact Guild Launch at the following e-mail  address: <a href="mailto:support@guildlaunch.com">support@guildlaunch.com</a>.</p>
+                        <p><u>Children's Privacy Policy</u></p>  
+                        <p>Because some of the games we support have players under the age of 13, Guild Launch has taken additional steps to help keep younger members safe online. While we have taken appropriate steps to encourage children to use Guild Launch carefully and responsibly, we also encourage parents and legal guardians to spend time online with their children so that they understand the services and sites their children are participating in online. Please remind children to never give out their personal information online without permission.</p>
+                        <p>In compliance with Children's Online Privacy Protection Act ('COPPA'), we have adopted the following policies regarding children under the age of 13 ('Children'):</p>
+                        <p>Type and Use of Information Collected from Children </p>
+                        <p>To create a Free Account, Guild Launch requires an e-mail address as well as a parent or legal guardian's email address for verification. </p>
+                        <p>To upgrade a member's account, Guild Launch requires parent's correct billing information. As stated in our Terms of Service, no user under the age of 18 is permitted to complete transactions on our platform that require a purchase via credit card or other payment method.</p>
+                        <p>For Free Accounts, we use your Parent or Legal Guardian e-mail address for the following purposes: </p>
+                        <p>To send a confirmation notice to the parent of their child's account registration and to request your verification that they have your consent to use an account on Guild Launch.</p>
+                        <p>To prompt you to create a Guild Launch account that is the registered Parent or Legal Guardian account for your child's account, granting access to review activity, revoke and permit access to Guild Launch for your dependent account(s).</p>
+                        <p>We reserve the right to disclose your child's personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web Sites. </p>
+                        <p>Guild Launch may periodically use newsletters to notify our users of all the upcoming changes, upgrades, service downtime etc. We may also alert members to special offers though Launch Media Network partners. </p>
+                        <p>Notification and Verifiable Parental Consent </p>
+                        <p>At this time, whenever Guild Launch is aware that a user is under the age of 13, Guild Launch requires the child submit the parent's email address. We will then provide proper parental notice of the child's use of the site, including access to review their account. When purchasing account upgrades, the receipt of payment is considered actual, verifiable consent from the parents to the child's use of our website and to any information that was divulged as reasonably necessary to process payments, verify and maintain the account.</p>
+                        
 						</div>
 				</section>
 		</section>
@@ -287,10 +304,6 @@ qacct:"p-08C2tN1gz3kHY"
 								</li>
 
                 <li class="">
-                  <a href="http://community.guildlaunch.com/forums/viewforum.php?f=2429&amp;gid=535" title="Guild Launch Blog">Blog</a>
-                </li>
-
-                <li class="">
                   <a href="http://community.guildlaunch.com/" title="Guild Launch Community Site">Community Site</a>
                 </li>
 
@@ -312,7 +325,7 @@ qacct:"p-08C2tN1gz3kHY"
 								<li class="category">About Guild Launch</li>
 
                 <li class="">
-                  <a href="/about-us/advertising/" title="Advertise with Guild Launch">Advertise</a>
+                  <a href="http://www.launchpowered.com/advertising/" title="Advertise with Guild Launch">Advertise</a>
                 </li>
 
 								<li class="">
@@ -343,7 +356,7 @@ qacct:"p-08C2tN1gz3kHY"
 					<div class="social">
 								<ul>
 										<li class="facebook">
-												<a href="http://www.facebook.com/FansOfGuildLaunch" target="_blank" title="Like us on Facebook">Facebook</a>
+												<a href="http://www.facebook.com/GuildLaunch" target="_blank" title="Like us on Facebook">Facebook</a>
 										</li>
 
 										<li class="twitter">
@@ -356,12 +369,29 @@ qacct:"p-08C2tN1gz3kHY"
 								</ul>
 						</div>
 
-					<p class="copyright-info">© Copyright 2006-2013 Guild Launch, LLC</p>
+					<p class="copyright-info">© Copyright 2006-2014 Guild Launch, LLC</p>
 
-						<div class="mcafee">
-							<img src="http://cdn2.guildlaunch.net/templates/v3/images/mcafee.jpg" alt="McAfee Secure - Tested Daily">
-						</div>
+						
 				</section>
 		</section>
 </footer>
-</body></html>
+<script type="text/javascript">
+adroll_adv_id = "IQF7XZBSNVDYTGJFMOWT7K";
+adroll_pix_id = "AGD6IHKSLVHGXBKOCK2IV2";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
+</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-1.newrelic.com","licenseKey":"d7c0da5cbf","applicationID":"3100657","transactionName":"ZFRXZxZWCkpVUkENWl0eYEENGBdLQh5SCBheUFxdSxgFW1tEQUlAQB5FQQ1BBVpNHEULWVpSTBwNWQBcTB9FDEU=","queueTime":0,"applicationTime":29,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
+
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
