@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lacounty.gov privacy policy that was archived on 2013-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131225024020id_/http%3A//www.lacounty.gov/wps/portal/lac/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lacounty.gov privacy policy that was archived on 2014-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140602145937id_/http%3A//lacounty.gov/wps/portal/lac/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head><base href="http://www.lacounty.gov/wps/portal/!ut/p/b0/04_Sj9CPykssy0xPLMnMz0vMAfGjzOItDCDAyMDPw83AyMfY3y_YzcXYINhMvyDbUREAXhp9ZA!!/">
 
@@ -26,7 +26,7 @@
 		
         <link href="/LACTheme/themes/html/LACounty/css/wwcm.css" rel="stylesheet" type="text/css" title="default">
         <link href="/LACTheme/themes/html/LACounty/css/mainStyles.css" rel="stylesheet" type="text/css" title="default">
-        <link href="/LACTheme/themes/html/LACounty/css/textOnlyStyles.css" rel="alternate stylesheet" type="text/css" title="textOnlySheet">
+        <link href="about:blank" rel="alternate stylesheet" type="text/css" title="textOnlySheet">
         <link href="/LACTheme/themes/html/LACounty/css/largerFontStyles.css" rel="alternate stylesheet" type="text/css" title="large">
         <link href="/LACTheme/themes/html/LACounty/css/wwcm.css" rel="alternate stylesheet" type="text/css" title="large">
         <link href="/LACTheme/themes/html/LACounty/css/largestFontStyles.css" rel="alternate stylesheet" type="text/css" title="largest">
@@ -74,9 +74,13 @@
 
 	<!-- We are now going to add in the Jquery Lib-->
 
-	
-	
+	<!-- We add in the jquery cookie pack for language -->
+	<script type="text/javascript" src="about:blank"></script> 
+	<!-- We call the language translation lib -->
+    <script src="about:blank"></script>
 
+	<script src="about:blank"></script>
+	<script type="text/javascript" src="about:blank"></script>
 
 
 
@@ -88,7 +92,9 @@
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script></head>
  
 	<body> 
-         	<div id="FLYParent">    
+         	<div id="skiptocontent">
+<a href="#maincontent">skip to main content</a></div>
+			<div id="FLYParent">    
 			<div id="themeHeader">
 				<div id="banner"> 
 	<img src="/LACTheme/themes/html/LACounty/images/banner_home.jpg" alt="" width="1005px" height="137px" border="0" id="ylac.home.aboutthissite.privacypolicy">
@@ -147,7 +153,8 @@
 								
 				
         				<a onmouseover="ShowNavMenu('onlineServices')" onmouseout="HideNavMenus()" href="http://www.lacounty.gov:80/wps/portal/lac/online/">Online Services</a>
-        				<img onmouseover="ShowNavMenu('onlineServices')" onmouseout="HideNavMenus()" src="/LACTheme/themes/html/LACounty/images/down-arrow.gif" alt="down arrow" title="down arrow" border="0">
+        				<img onmouseover="ShowNavMenu('onlineServices')" onmouseout="HideNavMenus()" title="down arrow" alt="down arrow" src="/LACTheme/themes/html/LACounty/images/down-arrow.gif" border="0">
+
 				
 								 					 
 		</div>
@@ -201,7 +208,7 @@
 <span id="textOnly"><a href="#translation">Language</a></span>&nbsp;|&nbsp;
 	<span id="textOnly"><a href="#" onclick="setActiveStyleSheet('textOnlySheet');return false;">Text-Only</a></span>
     <span id="graphicVersion"><a href="#" onclick="setActiveStyleSheet('default');return false;">Graphic Version</a></span>&nbsp;|&nbsp;<a href="#" onmouseover="ShowNavMenu('fontChange')" onmouseout="HideNavMenus()">Font Size&nbsp;
-	<img onmouseover="ShowNavMenu('fontChange')" onmouseout="HideNavMenus()" src="/LACTheme/themes/html/LACounty/images/down-arrow_sm.gif" border="0"></a>
+	<img onmouseover="ShowNavMenu('fontChange')" onmouseout="HideNavMenus()" title="down arrow" alt="down arrow" src="/LACTheme/themes/html/LACounty/images/down-arrow_sm.gif" border="0"></a>
 
 <div id="fontChange" onmouseover="ShowNavMenu('fontChange')" onmouseout="HideNavMenus()">
 	<a href="#" onclick="setActiveStyleSheet('default');return false;">Normal</a><br>
@@ -248,7 +255,8 @@
 					<tr>
 					<td>
 				<span class="styledInputText">
-					 <input name="querytext" id="queryText" type="text" onfocus="CheckText('queryText')" onblur="blurText('queryText')">
+					 <label for="querytext" class="obscure">Enter a search term</label> 
+					 <input name="querytext" id="queryText" type="text" alt="search lacounty.gov" onfocus="CheckText('queryText')" onblur="blurText('queryText')">
 
 				</span>
 				<span class="styledSubmit">
@@ -814,7 +822,7 @@ window.location.href = geoURL + "?address_string=" + encodeURIComponent(address)
 	</div>
 	<div align="left" id="transText">The lacounty.gov website has made reasonable efforts to provide an accurate translation. However, no automated or computerized translation is perfect and is not intended to replace human or traditional translation methods. The official text is the English version of lacounty.gov website. If any questions arise concerning the accuracy of the information presented by the translated version of the website, please refer to the English edition of the website, which is the official version.
 	</div>
-	<div id="google_translate_element"></div><script type="text/javascript">
+	<div id="google_translate_element" alt="Google Translate"></div><script type="text/javascript">
 function googleTranslateElementInit() {
   new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
 }
@@ -855,6 +863,9 @@ var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "htt
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
+<noscript>Your browser does not support JavaScript!
+Visit the Disclaimer page to read about the County Website Advertising and Hotlink Policy.
+The disclaimer popup requires your browser to support JavaScript.</noscript> 
 try {
 var pageTracker = _gat._getTracker("UA-11310315-1");
 pageTracker._trackPageview();
@@ -922,7 +933,7 @@ NewURL = NewURL.toLowerCase();
 
 //We check to see if anything in our list of URLs is matched if not we run the alert box
 //the list of items
-var data = "http://prtldev4.its.lacounty.gov, http://authoring.lacounty.gov, http://authoring7.lacounty.gov, http://wcmstg1.its.lacounty.gov, http://lacounty.gov, http://prtltst1.its.lacounty.gov, http://prtltst2.its.lacounty.gov, http://dmgrtst1.its.lacounty.gov, http://prtlstg1.its.lacounty.gov, http://prtlstg2.its.lacounty.gov, http://dmgrstg1.its.lacounty.gov, http://wcmprd1.its.lacounty.gov, http://wcmprd2.its.lacounty.gov, http://httpprd1.its.lacounty.gov, http://httpprd2.its.lacounty.gov, http://prtlprd1.its.lacounty.gov, http://prtlprd2.its.lacounty.gov, http://httpprd3.its.lacounty.gov, http://httpprd4.its.lacounty.gov, http://dmgrprd1.its.lacounty.gov, http://dmgrprd2.its.lacounty.gov, http://dmh7.lacounty.gov, http://dmh.lacounty.gov, http://sheriff7.lacounty.gov, http://sheriff.lacounty.gov, http://auditor7.lacounty.gov, http://auditor.lacounty.gov, http://onlineapps.auditor.lacounty.gov, http://cssd7.lacounty.gov, http://cssd.lacounty.gov, http://hr7.lacounty.gov, http://hr.lacounty.gov, http://beaches7.lacounty.gov, http://beaches.lacounty.gov, http://green7.lacounty.gov, http://green.lacounty.gov, http://www7.lacounty.gov, http://file.lacounty.gov, http://www.lacounty.govhttp://ceo.lacounty.gov, http://apd.lacounty.gov, http://animalcare.gov, http://auditor.lacounty.gov, http://acwm.lacounty.gov, http://assessor.lacounty.gov,http://beaches.lacounty.gov, http://bos.lacounty.gov, http://cssd.lacounty.gov, http://lacdcfs.org, http://css.lacounty.gov, http://www.lacdc.org, http://dca.lacounty.gov, http://coroner.lacounty.gov, http://counsel.lacounty.gov, http://da.lacounty.gov, http://fire.lacounty.gov, http://dhs.lacounty.gov, http://lahumanrelations.org, http://hr.lacounty.gov, http://isd.lacounty.gov, http://dmh.lacounty.gov, http://dmva.co.la.ca.us, http://www.lacma.org,http://www.nhm.org, http://laosb.org, http://parks.lacounty.gov, http://probation, lacounty.gov, http://pd.co.la.ca.us, http://ph.lacounty.gov, http://www.colapublib.org,http://dpss.lacounty.gov, http://dpw.lacounty.gov, http://planning.lacounty.gov, http://rrcc.lacounty.gov, http://ttc.lacounty.gov, http://lasd.org, http://laoir.com/Reports.html,http://www.211losangeles.org, http://www.aqmd.gov, http://www.theaceproject.org, http://www.acta.org, http://www.avaqmd.ca.gov, http://www.avmosquito.org, http://www.avta.com, http://www.bchd.org, http://www.contractcities.org, http://www.leginfo.ca.gov, http://www.csac.counties.org, http://www.ca.gov/state/portal/myca_homepage.jsp, http://www.cvwd.com, http://www.lacoe.edu, http://celosangeles.ucdavis.edu, http://filmlainc.com, http://www.foothilltransit.org, http://www.gatewaycog.org, http://grandjury.co.la.ca.us, http://www.glacvd.org,http://www.lahsa.org, http://www.courtinfo.ca.gov/jc, http://lalaw.lib.ca.us, http://www.cacities.org,http://www.lalafco.org, http://www.lacera.com, http://www.fairplex.com, http://openspacedistrict.lacounty.gov, http://www.laedc.org, http://www.lacoliseum.com, http://www.swrcb.ca.gov/~rwqcb4, http://www.watermaster.org, http://www.metrolinktrains.com, http://www.mta.net, http://www.mwd.dst.ca.us, http://www.music-center.com, http://www.csac.counties.org/counties_close_up_menu.html, http://www.palmdalewater.org, http://www.habitatauthority.org, http://relac.org, http://www.rmc.ca.gov, http://www.wqa.com, http://www.sgvcog.org, http://www.sgvmosquito.org, http://www.lacsd.org, http://smmc.ca.gov, http://www.southbaycities.org, http://www.aqmd.gov,http://www.211losangeles.org, http://www.aqmd.gov, http://www.theaceproject.org, http://www.acta.org, http://www.avaqmd.ca.gov, http://www.avmosquito.org, http://www.avta.com, http://www.bchd.org, http://www.contractcities.org, http://www.leginfo.ca.gov, http://www.csac.counties.org, http://www.ca.gov/state/portal/myca_homepage.jsp, http://www.cvwd.com, http://www.lacoe.edu, http://celosangeles.ucdavis.edu, http://filmlainc.com, http://www.foothilltransit.org, http://www.gatewaycog.org, http://grandjury.co.la.ca.us, http://www.glacvd.org,http://www.lahsa.org, http://www.courtinfo.ca.gov/jc, http://lalaw.lib.ca.us, http://www.cacities.org,http://www.lalafco.org, http://www.lacera.com, http://www.fairplex.com, http://openspacedistrict.lacounty.gov, http://www.laedc.org, http://www.lacoliseum.com, http://www.swrcb.ca.gov/~rwqcb4, http://www.watermaster.org, http://www.metrolinktrains.com, http://www.mta.net, http://www.mwd.dst.ca.us, http://www.music-center.com, http://www.csac.counties.org/counties_close_up_menu.html, http://www.palmdalewater.org, http://www.habitatauthority.org, http://relac.org, http://www.rmc.ca.gov, http://www.wqa.com, http://www.sgvcog.org, http://www.sgvmosquito.org, http://www.lacsd.org, http://smmc.ca.gov, http://www.southbaycities.org, http://www.aqmd.gov,http://www.scag.ca.gov, http://www.scppa.org/About.htm, http://www.lasuperiorcourt.gov, http://drugcourt.co.la.ca.us, http://www.usa.gov/index.shtml, http://www.awp.faa.gov/new_feb/index.cfm, http://www.usgvmwd.org, http:..www.wvwd.com, http://www.wrd.org, http://www.westbasin.org, http://www.lawestvector.org, http://www.westsidecities.org, http://worksourcecalifornia.com,http://www.scag.ca.gov, http://www.scppa.org/About.htm, http://www.lasuperiorcourt.gov, http://drugcourt.co.la.ca.us, http://www.usa.gov/index.shtml, http://www.awp.faa.gov/new_feb/index.cfm, http://www.usgvmwd.org, http:..www.wvwd.com, http://www.wrd.org, http://www.westbasin.org, http://www.lawestvector.org, http://www.westsidecities.org, http://worksourcecalifornia.com, http://portal.lacounty.gov, http://countypolicy.co.la.ca.us, http://doingbusiness.lacounty.gov, http://dpssbenefits.lacounty.gov/,http://animalcare.lacounty.gov/,http://www.ladhs.org/,http://ladhs.org"
+var data = "http://prtldev4.its.lacounty.gov, http://authoring.lacounty.gov, http://authoring7.lacounty.gov, http://wcmstg1.its.lacounty.gov, http://lacounty.gov, http://prtltst1.its.lacounty.gov, http://prtltst2.its.lacounty.gov, http://dmgrtst1.its.lacounty.gov, http://prtlstg1.its.lacounty.gov, http://prtlstg2.its.lacounty.gov, http://dmgrstg1.its.lacounty.gov, http://wcmprd1.its.lacounty.gov, http://wcmprd2.its.lacounty.gov, http://httpprd1.its.lacounty.gov, http://httpprd2.its.lacounty.gov, http://prtlprd1.its.lacounty.gov, http://prtlprd2.its.lacounty.gov, http://httpprd3.its.lacounty.gov, http://httpprd4.its.lacounty.gov, http://dmgrprd1.its.lacounty.gov, http://dmgrprd2.its.lacounty.gov, http://dmh7.lacounty.gov, http://dmh.lacounty.gov, http://sheriff7.lacounty.gov, http://sheriff.lacounty.gov, http://auditor7.lacounty.gov, http://auditor.lacounty.gov, http://onlineapps.auditor.lacounty.gov, http://cssd7.lacounty.gov, http://cssd.lacounty.gov, http://hr7.lacounty.gov, http://hr.lacounty.gov, http://beaches7.lacounty.gov, http://beaches.lacounty.gov, http://green7.lacounty.gov, http://green.lacounty.gov, http://www7.lacounty.gov, http://file.lacounty.gov, http://www.lacounty.govhttp://ceo.lacounty.gov, http://apd.lacounty.gov, http://animalcare.gov, http://auditor.lacounty.gov, http://acwm.lacounty.gov, http://assessor.lacounty.gov,http://beaches.lacounty.gov, http://bos.lacounty.gov, http://cssd.lacounty.gov, http://lacdcfs.org, http://css.lacounty.gov, http://www.lacdc.org, http://dca.lacounty.gov, http://coroner.lacounty.gov, http://counsel.lacounty.gov, http://da.lacounty.gov, http://fire.lacounty.gov, http://dhs.lacounty.gov, http://lahumanrelations.org, http://hr.lacounty.gov, http://isd.lacounty.gov, http://dmh.lacounty.gov, http://dmva.co.la.ca.us, http://www.lacma.org,http://www.nhm.org, http://laosb.org, http://parks.lacounty.gov, http://probation, lacounty.gov, http://pd.co.la.ca.us, http://ph.lacounty.gov, http://www.colapublib.org,http://dpss.lacounty.gov, http://dpw.lacounty.gov, http://planning.lacounty.gov, http://rrcc.lacounty.gov, http://ttc.lacounty.gov, http://lasd.org, http://laoir.com/Reports.html,http://www.211losangeles.org, http://www.aqmd.gov, http://www.theaceproject.org, http://www.acta.org, http://www.avaqmd.ca.gov, http://www.avmosquito.org, http://www.avta.com, http://www.bchd.org, http://www.contractcities.org, http://www.leginfo.ca.gov, http://www.csac.counties.org, http://www.ca.gov/state/portal/myca_homepage.jsp, http://www.cvwd.com, http://www.lacoe.edu, http://celosangeles.ucdavis.edu, http://filmlainc.com, http://www.foothilltransit.org, http://www.gatewaycog.org, http://grandjury.co.la.ca.us, http://www.glacvd.org,http://www.lahsa.org, http://www.courtinfo.ca.gov/jc, http://lalaw.lib.ca.us, http://www.cacities.org,http://www.lalafco.org, http://www.lacera.com, http://www.fairplex.com, http://openspacedistrict.lacounty.gov, http://www.laedc.org, http://www.lacoliseum.com, http://www.swrcb.ca.gov/~rwqcb4, http://www.watermaster.org, http://www.metrolinktrains.com, http://www.mta.net, http://www.mwd.dst.ca.us, http://www.music-center.com, http://www.csac.counties.org/counties_close_up_menu.html, http://www.palmdalewater.org, http://www.habitatauthority.org, http://relac.org, http://www.rmc.ca.gov, http://www.wqa.com, http://www.sgvcog.org, http://www.sgvmosquito.org, http://www.lacsd.org, http://smmc.ca.gov, http://www.southbaycities.org, http://www.aqmd.gov,http://www.211losangeles.org, http://www.aqmd.gov, http://www.theaceproject.org, http://www.acta.org, http://www.avaqmd.ca.gov, http://www.avmosquito.org, http://www.avta.com, http://www.bchd.org, http://www.contractcities.org, http://www.leginfo.ca.gov, http://www.csac.counties.org, http://www.ca.gov/state/portal/myca_homepage.jsp, http://www.cvwd.com, http://www.lacoe.edu, http://celosangeles.ucdavis.edu, http://filmlainc.com, http://www.foothilltransit.org, http://www.gatewaycog.org, http://grandjury.co.la.ca.us, http://www.glacvd.org,http://www.lahsa.org, http://www.courtinfo.ca.gov/jc, http://lalaw.lib.ca.us, http://www.cacities.org,http://www.lalafco.org, http://www.lacera.com, http://www.fairplex.com, http://openspacedistrict.lacounty.gov, http://www.laedc.org, http://www.lacoliseum.com, http://www.swrcb.ca.gov/~rwqcb4, http://www.watermaster.org, http://www.metrolinktrains.com, http://www.mta.net, http://www.mwd.dst.ca.us, http://www.music-center.com, http://www.csac.counties.org/counties_close_up_menu.html, http://www.palmdalewater.org, http://www.habitatauthority.org, http://relac.org, http://www.rmc.ca.gov, http://www.wqa.com, http://www.sgvcog.org, http://www.sgvmosquito.org, http://www.lacsd.org, http://smmc.ca.gov, http://www.southbaycities.org, http://www.aqmd.gov,http://www.scag.ca.gov, http://www.scppa.org/About.htm, http://www.lasuperiorcourt.gov, http://drugcourt.co.la.ca.us, http://www.usa.gov/index.shtml, http://www.awp.faa.gov/new_feb/index.cfm, http://www.usgvmwd.org, http:..www.wvwd.com, http://www.wrd.org, http://www.westbasin.org, http://www.lawestvector.org, http://www.westsidecities.org, http://worksourcecalifornia.com,http://www.scag.ca.gov, http://www.scppa.org/About.htm, http://www.lasuperiorcourt.gov, http://drugcourt.co.la.ca.us, http://www.usa.gov/index.shtml, http://www.awp.faa.gov/new_feb/index.cfm, http://www.usgvmwd.org, http:..www.wvwd.com, http://www.wrd.org, http://www.westbasin.org, http://www.lawestvector.org, http://www.westsidecities.org, http://worksourcecalifornia.com, http://portal.lacounty.gov, http://countypolicy.co.la.ca.us, http://doingbusiness.lacounty.gov, http://dpssbenefits.lacounty.gov/,http://animalcare.lacounty.gov/,http://shq.lasdnews.net,http://stage.lacounty.gov,http://stageauthoring.lacounty.gov"
 var isThere = data.indexOf(NewURL);
 var deptTitle = "";
 var disclaimer = "You are about to leave the County of Los Angeles Website. The information provided on this Website and the links to other related Websites are provided as a courtesy to Website visitors only. They are in no manner an endorsement, recommendation, or approval of any person, any product, or any service continued on any other Website. The County Los Angeles does not endorse or support any of the advertising that may be contained on any linked site. For more information, please read our PRIVACY POLICY, TERMS, and CONDITIONS located at the bottom of the page.";
