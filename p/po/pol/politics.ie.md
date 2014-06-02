@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the politics.ie privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230102056id_/http%3A//www.politics.ie/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the politics.ie privacy policy that was archived on 2014-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140602072520id_/http%3A//www.politics.ie/privacy) for the most accurate reproduction.*
 
 # Politics.ie - The Irish Politics & Current Affairs Website - Privacy Policy
 
@@ -6,7 +6,7 @@
 
 **Introduction**
 
-Your privacy is important to us and this privacy statement sets out how Pie Media Ltd. collects, uses and protects any information you give us when you use Politics.ie. If you give us any information by which you can be identified when using Politics.ie then we will use it only in accordance with this privacy statement.
+Your privacy is important to us and this privacy statement sets out how Your Bank Account collects, uses and protects any information you give us when you use Politics.ie. If you give us any information by which you can be identified when using Politics.ie then we will use it only in accordance with this privacy statement.
 
 We may change this privacy statement from time to time. When we do we will notify you of the changes by placing a notification on all pages for 7 days from the date of the change. By continuing to use the site you agree to these changes.
 
