@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techdirt.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522145556id_/http%3A//www.techdirt.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techdirt.com privacy policy that was archived on 2014-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140603014451id_/http%3A//www.techdirt.com/privacy.php) for the most accurate reproduction.*
 
 # Techdirt Privacy Policy.
 
@@ -16,7 +16,7 @@ By using Techdirt, you expressly consent to the information handling practices d
 
 * ### The Way Floor64 Uses Information:
 
-Floor64 uses the information that you provide or that we collect to operate, maintain, enhance, and provide all of the features and services found on Techdirt, as well as to track user-generated content and Users to the extent necessary to comply as a service provider with the [Digital Millennium Copyright Act](https://web.archive.org/web/20130522145556id_/http%3A//www.techdirt.com/dmca.php).
+Floor64 uses the information that you provide or that we collect to operate, maintain, enhance, and provide all of the features and services found on Techdirt, as well as to track user-generated content and Users to the extent necessary to comply as a service provider with the [Digital Millennium Copyright Act](https://web.archive.org/web/20140603014451id_/http%3A//www.techdirt.com/dmca.php).
 
   * We will use your email address, without further consent, for administrative communications such as notifying you of major Techdirt updates, for customer service purposes, to address copyright infringement or defamation issues, or to contact you regarding any content that you have posted to or downloaded from Techdirt.
   * Floor64 uses all of the information that we collect to understand the usage trends and preferences of our Users, to improve the way Techdirt works and looks, and to create new features and functionality.
@@ -35,7 +35,7 @@ Floor64 uses the information that you provide or that we collect to operate, mai
 
 * ### Your Choices:
 
-You may, of course, decline to share your personally-identifiable information with Floor64, in which case Floor64 will not be able to provide to you some of the features and functionality found on Techdirt. You may update, correct, or delete your user information and preferences at any time by following the directions [here](https://web.archive.org/web/20130522145556id_/http%3A//www.techdirt.com/myaccount.php). However, you may not update, correct or delete comments previously posted on the site. To protect your privacy and security, we take reasonable steps to verify your identity before granting you account access or making corrections to your profile information. YOU ARE RESPONSIBLE FOR MAINTAINING THE SECRECY OF YOUR UNIQUE PASSWORD AND ACCOUNT INFORMATION AT ALL TIMES.
+You may, of course, decline to share your personally-identifiable information with Floor64, in which case Floor64 will not be able to provide to you some of the features and functionality found on Techdirt. You may update, correct, or delete your user information and preferences at any time by following the directions [here](https://web.archive.org/web/20140603014451id_/http%3A//www.techdirt.com/myaccount.php). However, you may not update, correct or delete comments previously posted on the site. To protect your privacy and security, we take reasonable steps to verify your identity before granting you account access or making corrections to your profile information. YOU ARE RESPONSIBLE FOR MAINTAINING THE SECRECY OF YOUR UNIQUE PASSWORD AND ACCOUNT INFORMATION AT ALL TIMES.
 
   
 
@@ -81,8 +81,8 @@ Floor64, Inc. complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss
 To access your information, ask questions about our privacy practices, or issue a complaint, contact us at: 
 
 Floor64, Inc.  
-440 N. Wolfe Road - MS 044  
-Sunnyvale, CA 94085, USA (888) 930-9272  
+370 Convention Way  
+Redwood City, CA 94063, USA (888) 930-9272  
 [privacy64@floor64.com](mailto:privacy64@floor64.com)
 
 If your inquiry is not satisfactorily addressed, contact the EU Data Protection Authorities. The EU Data Protection Authorities will serve as a liaison with the website to resolve your concerns. 
