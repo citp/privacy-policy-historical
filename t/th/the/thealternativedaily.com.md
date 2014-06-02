@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thealternativedaily.com privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113195518id_/http%3A//www.thealternativedaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thealternativedaily.com privacy policy that was archived on 2014-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140602034255id_/http%3A//www.thealternativedaily.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Alternative Daily
 
@@ -73,7 +73,8 @@ Splash Campaign, LLC
 
 http://www.thealternativedaily.com
 
-860 US Highway 1  
-Suite 210  
-North Palm Beach, FL 33408, USA  
+The Alternative Daily  
+4300 S US Highway 1  
+Suite 203-196  
+Jupiter, FL 33477  
 info@thealternativedaily.com
