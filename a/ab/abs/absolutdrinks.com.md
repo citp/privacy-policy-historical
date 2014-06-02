@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the absolutdrinks.com privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022034438id_/http%3A//www.absolut.com/legal/privacy/en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the absolutdrinks.com privacy policy that was archived on 2014-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140602041833id_/http%3A//www.absolut.com/en/privacy-policy) for the most accurate reproduction.*
 
-# None
+# ABSOLUT.COM PRIVACY POLICY
 
 This website is operated by The Absolut Company AB of Årstaängsvägen 19a, Stockholm, Sweden (postal address: SE-117 97 Stockholm, Sweden), hereinafter referred to as "TAC".
 
@@ -12,8 +12,7 @@ INFORMATION WE COLLECT
 
 For each visit to our Site, our Web server automatically recognizes only the user's  domain name, but not the e-mail address (where possible).
 
-absolut.com does use "cookies". Cookies are pieces of Information passed by the website to your server. Personal Information is not stored in absolut.com cookies, however we offer many features that are available only with their use. The gathered Information includes the type of browser you are using (such as Netscape Navigator or Microsoft Internet Explorer) and the operating system your computer is using (such as Windows 98). absolut.com's Internet servers also keep track of the number of visitors to the site, the pages they visited and how long they stayed. None of this information includes any personal Information about you.  
-
+absolut.com does use "cookies". Cookies are pieces of Information passed by the website to your server. Personal Information is not stored in absolut.com cookies, however we offer many features that are available only with their use. The gathered Information includes the type of browser you are using (such as Netscape Navigator or Microsoft Internet Explorer) and the operating system your computer is using (such as Windows 98). absolut.com's Internet servers also keep track of the number of visitors to the site, the pages they visited and how long they stayed. None of this information includes any personal Information about you.
 
 TAC will not know personally identifiable Information about you unless you voluntarily submit or e-mail such information to TAC. We also capture any other information volunteered by the user - such as the e-mail address, survey information, and/or site registration.
 
@@ -46,19 +45,18 @@ As TAC continues to develop, we might sell or buy the assets of similar companie
 
 SECURITY
 
-TAC uses a variety of standard protections to maintain the security of your online session.  Although the Site has security measures in place to protect against the loss, misuse and alteration of Information under our control, we cannot guarantee that such security measures will be sufficient, will not be breached, and that your Information may not be disclosed or otherwise accessed in any unauthorized manner.  Certain Information may be transmitted to you by electronic mail.  Although it may be illegal to intercept or disclose these messages, these transmissions are not secured.  
-
+TAC uses a variety of standard protections to maintain the security of your online session.  Although the Site has security measures in place to protect against the loss, misuse and alteration of Information under our control, we cannot guarantee that such security measures will be sufficient, will not be breached, and that your Information may not be disclosed or otherwise accessed in any unauthorized manner.  Certain Information may be transmitted to you by electronic mail.  Although it may be illegal to intercept or disclose these messages, these transmissions are not secured.
 
 CHILDREN'S PRIVACY PROTECTION
 
-The Site does not target children or provide products or services for use by children. TAC does not knowingly collect Information from persons under the legal drinking age.  If you are under the legal drinking age for your locality, you may not use this Site.  
-
+The Site does not target children or provide products or services for use by children. TAC does not knowingly collect Information from persons under the legal drinking age.  If you are under the legal drinking age for your locality, you may not use this Site.
 
 LINKED INTERNET WEB SITES
 
-The Site may provide hypertext links to other web sites that may contain privacy provisions that are different from those provided herein. TAC is not responsible for the collection, use or disclosure of information collected through those web sites, and TAC expressly disclaims any and all liability related to such collection, use or disclosure.  You are encouraged to read the privacy policies of web sites reached through the use of links from the Site.  
-
+The Site may provide hypertext links to other web sites that may contain privacy provisions that are different from those provided herein. TAC is not responsible for the collection, use or disclosure of information collected through those web sites, and TAC expressly disclaims any and all liability related to such collection, use or disclosure.  You are encouraged to read the privacy policies of web sites reached through the use of links from the Site.
 
 HOW TO CONTACT US
 
-If you have any questions or complaints about our Site, our Privacy Policy, or the Information we collect, please contact us at [siteinfo@absolut.se](mailto:siteinfo@absolut.se)
+If you have any questions or complaints about our Site, our Privacy Policy, or the Information we collect, please contact us at [siteinfo@absolut.se](mailto:siteinfo@absolut.se)
+
+_Updated: 06/12/2011_
