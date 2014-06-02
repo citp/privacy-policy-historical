@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mafiawars.com privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111230742id_/https%3A//www.zynga.com/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mafiawars.com privacy policy that was archived on 2014-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140602024116id_/https%3A//www.zynga.com/privacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Zynga
 
@@ -12,7 +12,7 @@ Zynga has been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy
 
 [](https://privacy-policy.truste.com/click-with-confidence/eusafe/en/zynga.org/seal_s "TRUSTe European Safe Harbor certification")
 
-The TRUSTe program only covers information that is collected through Zynga websites and applications (games), and does not cover information that may be collected through any software downloaded from Zynga websites. 
+The TRUSTe program only covers information that is collected through Zynga websites and applications (games), and does not cover information that may be collected through any software downloaded from Zynga websites.
 
 ## Table of Contents
 
@@ -74,7 +74,7 @@ By playing a Zynga game through an SNS, you are authorizing Zynga to collect, st
 
 **Information We Collect from You Directly**
 
-When you interact with the Service (whether or not on an SNS), at www.Zynga.com, or any Zynga-owned website, We may collect and store information from you directly as described below:
+When you interact with the Service (whether or not on an SNS), at [www.Zynga.com](http://www.zynga.com/), or any Zynga-owned website, We may collect and store information from you directly as described below:
 
 **Registration Information**
 
@@ -228,12 +228,12 @@ Once Zynga receives your information from an SNS, that information is stored and
 
 **Other Methods of Accessing and Controlling your Information**
 
-  * If you no longer want Zynga to make active use of your information, you may send an e-mail to privacy@zynga.com. Place "Delete My Account" in the subject line and include your first name, last name, e-mail address and user ID number for the SNS from which you access our games (if applicable) in the body of the e-mail. We will respond to your request within thirty (30) days. Please note that certain records, for example those pertaining to payments or customer service matters, will be retained for legal and accounting purposes. If you have sent or posted content on the Service, We may not be able to delete it.
+  * If you no longer want Zynga to make active use of your information, you may send an e-mail to [privacy@zynga.com](mailto:privacy@zynga.com). Place "Delete My Account" in the subject line and include your first name, last name, e-mail address and user ID number for the SNS from which you access our games (if applicable) in the body of the e-mail. We will respond to your request within thirty (30) days. Please note that certain records, for example those pertaining to payments or customer service matters, will be retained for legal and accounting purposes. If you have sent or posted content on the Service, We may not be able to delete it.
   * If you wish to review or change the information Zynga has about you, e-mail Us at the address provided herein.
   * You may change your e-mail preferences at any time, by visiting your e-mail preference [page](http://accounts.zynga.com/).
   * You can turn off push notifications by visiting the “options” or “settings” page within the relevant game. You can turn off local notifications by visiting the “options” or “settings” page within the relevant game.
   * You can stop further use of your geo-location (for example through “check-ins”) by visiting your device's settings for the relevant application or the “settings” page for the relevant game. You can also stop checking in.
-  * If you have additional questions about this Privacy Policy, contact Us at privacy@zynga.com.
+  * If you have additional questions about this Privacy Policy, contact Us at [privacy@zynga.com](mailto:privacy@zynga.com).
 
 
 
@@ -285,7 +285,7 @@ Zynga implements reasonable security measures to protect the security of your in
 
 For user accounts registered directly with Zynga profile information is protected by the password each member uses to access their online account. It is important that you protect and maintain the security of your account and that you immediately notify Us of any unauthorized use of your account. If you forget the password to your Zynga account, the website allows you to request that instructions be sent to you that explain how to reset your password. When you sign into your account or enter payment information (such as a credit card number when purchasing virtual currency), We encrypt the transmission of that information using secure socket layer technology ("SSL").
 
-While We take reasonable precautions against possible security breaches of our websites and our customer databases and records, no website or Internet transmission is completely secure, and We cannot guarantee that unauthorized access, hacking, data loss, or other breaches will never occur. We urge you to take steps to keep your personal information safe (including your account password), and to log out of your account after use. If your SNS account is hacked, this may lead to unauthorized play of your Zynga games, so be careful to keep your account information secure. If you have questions about the security of our websites, please contact Us at privacy@zynga.com.
+While We take reasonable precautions against possible security breaches of our websites and our customer databases and records, no website or Internet transmission is completely secure, and We cannot guarantee that unauthorized access, hacking, data loss, or other breaches will never occur. We urge you to take steps to keep your personal information safe (including your account password), and to log out of your account after use. If your SNS account is hacked, this may lead to unauthorized play of your Zynga games, so be careful to keep your account information secure. If you have questions about the security of our websites, please contact Us at [privacy@zynga.com](mailto:privacy@zynga.com).
 
 Unfortunately, the transmission of information over the Internet is not completely secure. Although We strive to protect your personal data, We cannot guarantee the security of your data while it is being transmitted to our site; any transmission is at your own risk. Once We have received your information, We have procedures and security features in place to try to prevent unauthorized access.
 
@@ -305,14 +305,16 @@ We do not share personal information with third parties for their direct marketi
 
 **Right to Access**
 
-Users in certain jurisdictions have a right to access personal information held about themselves. Your right of access can be exercised in accordance with applicable law. Please submit any requests for access to your personal data in writing to privacy@zynga.com.
+Users in certain jurisdictions have a right to access personal information held about themselves. Your right of access can be exercised in accordance with applicable law. Please submit any requests for access to your personal data in writing to [privacy@zynga.com](mailto:privacy@zynga.com).
 
 back to top
 
 ## Contact Us
 
-If you have any questions, comments or concerns regarding our Privacy Policy and/or practices, please send an e-mail to privacy@zynga.com. All other inquiries should be directed to [Zynga's Support Page](http://support.zynga.com/).
+If you have any questions, comments or concerns regarding our Privacy Policy and/or practices, please send an e-mail to [privacy@zynga.com](mailto:privacy@zynga.com). All other inquiries should be directed to [Zynga's Support Page](http://support.zynga.com/).
 
-Zynga Inc.  
-699 8th Street  
+Zynga Inc.
+
+699 8th Street
+
 San Francisco, CA 94103 
