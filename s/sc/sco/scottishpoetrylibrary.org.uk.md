@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scottishpoetrylibrary.org.uk privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229111541id_/http%3A//www.scottishpoetrylibrary.org.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scottishpoetrylibrary.org.uk privacy policy that was archived on 2014-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140602144546id_/http%3A//www.scottishpoetrylibrary.org.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Scottish Poetry Library
 
