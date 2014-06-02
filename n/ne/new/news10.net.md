@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the news10.net privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525070022id_/http%3A//www.news10.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the news10.net privacy policy that was archived on 2014-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140602050930id_/http%3A//static.news10.net/privacy-notice) for the most accurate reproduction.*
 
-# news10.net | Sacramento, CA
+# NEWS10 - Privacy Notice | News 10
 
 Last Updated: January 3, 2013
 
@@ -8,7 +8,7 @@ We take seriously your interest in how your information is collected and used. P
 
 This Privacy Notice discloses the privacy practices of our website, mobile site or app (the "Site"). Specifically, it outlines the types of information that we gather about you while you are using the Site, and the ways in which we use and share this information. This Privacy Notice does not apply to any information you may provide to us, or that we may collect, offline and/or through other means (for example, at a live event, via telephone, or through the mail).
 
-Please read this Privacy Notice carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over our online privacy practices, is governed by this Privacy Notice and our [Terms of Service](http://www.news10.net/terms). Because the Web is an evolving medium, we may need to change our Privacy Notice at some point in the future, in which case we'll post the revised Privacy Notice on this website and update the "Last Updated" date to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Notice as modified. Your access of the Site for the limited and exclusive purpose of reviewing this Privacy Notice does not constitute your acceptance of this Notice unless you make any further access or use of our Site.
+Please read this Privacy Notice carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over our online privacy practices, is governed by this Privacy Notice and our [Terms of Service](http://static.news10.net/terms-service/). Because the Web is an evolving medium, we may need to change our Privacy Notice at some point in the future, in which case we'll post the revised Privacy Notice on this website and update the "Last Updated" date to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Notice as modified. Your access of the Site for the limited and exclusive purpose of reviewing this Privacy Notice does not constitute your acceptance of this Notice unless you make any further access or use of our Site.
 
 ### Your California Privacy Rights
 
@@ -59,7 +59,7 @@ Unless you affirmatively provide information within an ad, the data collected in
 
 For information about use of your information by us and by third-party advertising service providers for advertising, see the section "Data Collected in Connection with Ad Serving and Targeting."
 
-Sharing with Third Parties for Other Purposes. Please be aware that we may occasionally release information about our visitors if required to do so by law or if, in our business judgment, such disclosure is reasonably necessary: (a) to comply with legal process; (b) to enforce our [Terms of Service](http://www.news10.net/terms); or (c) to protect the rights, property, or personal safety of our Site, us, our affiliates, our officers, directors, employees, representatives, our licensors, other users, and/or the public.
+Sharing with Third Parties for Other Purposes. Please be aware that we may occasionally release information about our visitors if required to do so by law or if, in our business judgment, such disclosure is reasonably necessary: (a) to comply with legal process; (b) to enforce our [Terms of Service](http://static.news10.net/terms-service/); or (c) to protect the rights, property, or personal safety of our Site, us, our affiliates, our officers, directors, employees, representatives, our licensors, other users, and/or the public.
 
 Please also note that as our business grows, we may buy or sell various assets. In the unlikely event that we sell some or all of our assets, or our Site is acquired by another company, information about our Site users may be among the transferred assets.
 
