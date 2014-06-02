@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fatdrop.co.uk privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117195945id_/http%3A//www.fatdrop.co.uk/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fatdrop.co.uk privacy policy that was archived on 2014-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140602111712id_/http%3A//www.fatdrop.co.uk/privacy_policy) for the most accurate reproduction.*
 
 # FATdrop - digital music services
 
