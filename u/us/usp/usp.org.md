@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usp.org privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202204537id_/http%3A//www.usp.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usp.org privacy policy that was archived on 2014-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140602160238id_/http%3A//www.usp.org/privacy-policy) for the most accurate reproduction.*
 
 # USP Website Privacy Policy | U.S. Pharmacopeial Convention
 
