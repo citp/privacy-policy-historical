@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drizzydrake.org privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129151348id_/http%3A//www.drizzydrake.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drizzydrake.org privacy policy that was archived on 2014-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140602075004id_/http%3A//www.drizzydrake.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
