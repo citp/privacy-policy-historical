@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the puravankara.com privacy policy that was archived on 2013-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130922171715id_/http%3A//www.puravankara.com/pages/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puravankara.com privacy policy that was archived on 2014-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140603225342id_/http%3A//www.puravankara.com/pages/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -15,4 +15,4 @@ As described below, your information may be collected by Puravankara, disclosed 
 
 
 
-We occasionally employ other companies and individuals to perform functions on our behalf. For example, other companies and individuals may fulfill your orders from us, send you postal mail and e-mail, remove repetitive information from our customer lists, analyze our data, provide us with marketing assistance, and process credit card payments. These third party service providers have access to personal information needed to perform their functions, but may not use it for other purposes. We do not sell, rent, share, or otherwise disclose personally identifiable information from customers for commercial purposes. We do not intend to disclose any personal information of yours without your consent to any third party who is not bound to act on our behalf unless such disclosure is required by law.
+We occasionally employ other companies and individuals to perform functions on our behalf. For example, other companies and individuals may fulfill your orders from us, send you postal mail and e-maill, remove repetitive information from our customer lists, analyze our data, provide us with marketing assistance, and process credit card payments. These third party service providers have access to personal information needed to perform their functions, but may not use it for other purposes. We do not sell, rent, share, or otherwise disclose personally identifiable information from customers for commercial purposes. We do not intend to disclose any personal information of yours without your consent to any third party who is not bound to act on our behalf unless such disclosure is required by law.
