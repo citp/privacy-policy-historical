@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ourfamilywizard.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122050751id_/http%3A//www.ourfamilywizard.com/ofw/index.cfm/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourfamilywizard.com privacy policy that was archived on 2014-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140603062309id_/http%3A//www.ourfamilywizard.com/ofw/index.cfm/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Our Family Wizard - child custody, parenting time
 
