@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jonathanadler.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226222907id_/http%3A//www.jonathanadler.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jonathanadler.com privacy policy that was archived on 2014-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140604012900id_/http%3A//www.jonathanadler.com/privacy) for the most accurate reproduction.*
 
-# Jonathan Adler :: Privacy Policy
+# Privacy Policy :: Jonathan Adler
 
 Privacy Policy Effective Date: March 27, 2013
 
@@ -38,9 +38,9 @@ Please be advised that in certain instances, it may be necessary for Jonathan Ad
 
 ##  Opting Out
 
-**How you can access, change, or delete your information and preferences:** We want to communicate with you only if you want to hear from us. If you prefer not to receive information from us please let us know by sending your written request via email to [customerservice@jonathanadler.com](mailto:customerservice@jonathanadler.com), or via postal mail to Jonathan Adler Web Orders 513 Irving Avenue Brooklyn, NY 11237. You may also contact us at (800) 963-0891. Please provide your full name, mailing address, email address, and phone number when making this request.  Include your email address, full name, and specifically what information you do not want to receive. Please note that it may take up to two weeks for your request to become effective.
+**How you can access, change, or delete your information and preferences:** We want to communicate with you only if you want to hear from us. If you prefer not to receive information from us please let us know by sending your written request via email to [customerservice@jonathanadler.com](mailto:customerservice@jonathanadler.com), or via postal mail to Jonathan Adler, 333 Hudson St, 7th Floor, New York, NY 10013. You may also contact us at (800) 963-0891. Please provide your full name, mailing address, email address, and phone number when making this request.  Include your email address, full name, and specifically what information you do not want to receive. Please note that it may take up to two weeks for your request to become effective.
 
-You may, at any time, access and verify, correct, update or remove your personal information and preferences on-line at www.jonathanadler.com and/or by contacting us by email at customerservice@jonathanadler.com or by telephone at (800) 963 0891.
+You may, at any time, access and verify, correct, update or remove your personal information and preferences on-line at www.jonathanadler.com and/or by contacting us by email at [customerservice@jonathanadler.com](mailto:customerservice@jonathanadler.com) or by telephone at (800) 963-0891.
 
 ##  Cookies
 
