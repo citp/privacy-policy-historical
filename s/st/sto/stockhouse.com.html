@@ -1,34 +1,34 @@
-<!--The following is the downloaded HTML source of the stockhouse.com privacy policy that was archived on 2013-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131220081421id_/http%3A//www.stockhouse.com/legal/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the stockhouse.com privacy policy that was archived on 2014-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140603024414id_/http%3A//www.stockhouse.com/legal/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head id="head"><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head id="head"><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"beacon-5.newrelic.com","errorBeacon":"jserror.newrelic.com","licenseKey":"88d46cb767","applicationID":"2269267","transactionName":"MV0DMUIFChAAVhFRDAgXIDZgSwcOEkUEXwYVFxEKQhAFDxVQCEgPB0wES1EXFBs=","queueTime":15,"applicationTime":781,"ttGuid":"F6B6541D84C4EBD0","agent":"js-agent.newrelic.com/nr-411.min.js"}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQMAWFFSGwECUlhQAQY="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
 <title>
 	Stockhouse-Privacy Policy
-</title><link type="text/css" rel="Stylesheet" href="/stockhouse/css/stockhouse.css?version=12202013"><meta charset="UTF-8"> 
+</title><meta charset="UTF-8"> 
 <meta name="alexaVerifyID" content="EPFukdFFccjx7GTpmrwhV4-Admg">
 <meta name="author" content="Stockhouse.com">
 <meta name="copyright" content="Stockhouse.com">
 <meta http-equiv="pragma" content="no-cache">
-<meta http-equiv="X-UA-Compatible" content="IE=9">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta name="rating" content="General"> 
 <!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-
-
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
 <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
 <link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
-<link rel="shortcut icon" href="/media/ui/icons/favicon.ico">
- 
-</head>
+<link rel="shortcut icon" href="/media/ui/icons/favicon.ico"> 
+<link href="/favicon.ico" type="image/x-icon" rel="shortcut icon"> 
+<link href="/favicon.ico" type="image/x-icon" rel="icon"> 
+<link rel="stylesheet" href="/stockhouse/assets/css/sh.min.css?v=1.0.0.28541" type="text/css"></head>
+
 <body class="LTR ENUS ContentBody">
-        
-    <form method="post" action="/legal/privacy-policy" onsubmit="javascript:return WebForm_OnSubmit();" id="form">
+    
+    <form method="post" action="/legal/privacy-policy" id="form">
 <div class="aspNetHidden">
-<input type="hidden" name="manScript_HiddenField" id="manScript_HiddenField" value="">
 <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
 <input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTg3NjEzNDE1Nw9kFgQCAhBkZBYEAgUPZBYCZg9kFgJmD2QWBAIBD2QWAmYPZBYEAgUPZBYCZg9kFgJmD2QWAgIDDw8WBB4LTmF2aWdhdGVVcmwFMWh0dHBzOi8vd3d3LnN0b2NraG91c2UuY29tL2NoZWNrb3V0L3Nob3BwaW5nLWNhcnQeCEltYWdlVXJsBTkvYXBwX3RoZW1lcy9lY29tbWVyY2VzaXRlL2ltYWdlcy9lY29tbWVyY2UvY2FydF93aGl0ZS5wbmdkZAIPD2QWAgIDD2QWAmYPZBYCAgEPZBYCAgEPZBYCAgEPZBYCAgEPD2QWAh4Hb25rZXl1cAVXY2hhckNvdW50ZXIoJ3BfbHRfem9uZU1lbWJlcnNoaXBfU3RvY2tob3VzZV9NZW1iZXJCYXJfdHh0VXNlcm5hbWUnLCAnY2hhckNvdW50ZXInLCAxNSk7ZAIHD2QWAgIBD2QWAgICD2QWAmYPZBYCZg9kFgICAw9kFgJmD2QWAmYPZBYGZg9kFgJmD2QWAmYPFQG2ATxhIGNsYXNzPSJuZXdzbGlua3MiIGhyZWY9Imh0dHA6Ly9iaXQubHkvMWJUZ2JCciIgdGFyZ2V0PSJfYmxhbmsiIHRpdGxlPSJodHRwOi8vYml0Lmx5LzFiVGdiQnIiPkJsb3dvdXQgZWFybmluZ3MgcmVwb3J0IGZvciBiaW90ZWNoIGNvbXBhbnkgYXBwZWFycyB0byBoYXZlIG11bHRpLWJhZ2dlciBwb3RlbnRpYWw8L2E+ZAICD2QWAmYPZBYCZg8VAZIBPGEgY2xhc3M9Im5ld3NsaW5rcyIgaHJlZj0iaHR0cDovL2JpdC5seS8xa1Z4M2dwIiB0YXJnZXQ9Il9ibGFuayIgdGl0bGU9Imh0dHA6Ly9iaXQubHkvMWtWeDNncCI+V2VsbCBmbG93cyBleGNlZWRzIG1hbmFnZW1lbnTigJlzIGV4cGVjdGF0aW9uczwvYT5kAgQPZBYCZg9kFgJmDxUBsAE8YSBjbGFzcz0ibmV3c2xpbmtzIiBocmVmPSJodHRwOi8vYml0Lmx5LzE4VTZsQ3MiIHRhcmdldD0iX2JsYW5rIiB0aXRsZT0iaHR0cDovL2JpdC5seS8xOFU2bENzIj5Bc2hlcuKAmXMgYXNzYXlzIHJldmVhbCBzaWduaWZpY2FudCBHb2xkIE1pbmVyYWxpemF0aW9uIGF0IEtpbmcgTWluZSwgTmV2YWRhPC9hPmQCCQ9kFgICAQ8WAh4EVGV4dAVaPHNjcmlwdCBzcmM9Ii9TdG9ja2hvdXNlL2pzL2NvbmZpZ3VyYXRpb24uanM/dj05MTY0ODUyNzFmZDc0OTkyOWQ2NTM2NDVkZmY2MDVhMCI+PC9zY3JpcHQ+ZAIDD2QWAmYPFgIfAwXOBDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij4gaWYgKCFOUkVVTVEuZikge05SRVVNUS5mPWZ1bmN0aW9uKCkge05SRVVNUS5wdXNoKFsibG9hZCIsbmV3IERhdGUoKS5nZXRUaW1lKCldKTt2YXIgZT1kb2N1bWVudC5jcmVhdGVFbGVtZW50KCJzY3JpcHQiKTsgZS50eXBlPSJ0ZXh0L2phdmFzY3JpcHQiOyBlLnNyYz0oKCJodHRwOiI9PT1kb2N1bWVudC5sb2NhdGlvbi5wcm90b2NvbCk/Imh0dHA6IjoiaHR0cHM6IikgKyAiLy8iICsgImpzLWFnZW50Lm5ld3JlbGljLmNvbS9uci0xMDAuanMiOyBkb2N1bWVudC5ib2R5LmFwcGVuZENoaWxkKGUpO2lmKE5SRVVNUS5hKU5SRVVNUS5hKCk7fTtOUkVVTVEuYT13aW5kb3cub25sb2FkO3dpbmRvdy5vbmxvYWQ9TlJFVU1RLmY7fTtOUkVVTVEucHVzaChbIm5yZmoiLCJiZWFjb24tNS5uZXdyZWxpYy5jb20iLCI4OGQ0NmNiNzY3IiwiMjI2OTI2NyIsIk1WMERNVUlGQ2hBQVZoRlJEQWdYSURaZ1N3Y09Fa1VFWHdZVkZ4RUtRaEFGRHhWUUNFZ1BCMHdFUzFFWEZCcz0iLDAsNjIsbmV3IERhdGUoKS5nZXRUaW1lKCksIjRDQ0I0NEQ2Q0FENEU1MTIiLCIiLCIiLCIiLCIiXSk7PC9zY3JpcHQ+ZBgEBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WBAU4cCRsdCR6b25lTWVtYmVyc2hpcCRTdG9ja2hvdXNlX01lbWJlckJhciRidG5TaWduSW5DYW5jZWwFPXAkbHQkem9uZU1lbWJlcnNoaXAkU3RvY2tob3VzZV9NZW1iZXJCYXIkTG9naW4xJGNoa1JlbWVtYmVyTWUFNnAkbHQkem9uZU1lbWJlcnNoaXAkU3RvY2tob3VzZV9NZW1iZXJCYXIkYnRuSm9pbkNhbmNlbAUpcCRsdCR6b25lVG9wTWVudSRTZWFyY2hCb3gkYnRuSW1hZ2VCdXR0b24FO3AkbHQkem9uZU1lbWJlcnNoaXAkU3RvY2tob3VzZV9NZW1iZXJCYXIkbXZSZWdpc3RyYXRpb25Gb3JtDw9kZmQFNHAkbHQkem9uZU1lbWJlcnNoaXAkU3RvY2tob3VzZV9NZW1iZXJCYXIkbXZMb2dpbkZvcm0PD2RmZAU0cCRsdCR6b25lTWVtYmVyc2hpcCRTdG9ja2hvdXNlX01lbWJlckJhciRtdkxvZ2luVmlldw8PZGZk">
+<input type="hidden" name="manScript_HiddenField" id="manScript_HiddenField" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTczMjg2NTcwNQ9kFgICARBkZBYCAgUPZBYCZg9kFgJmD2QWBAIDD2QWAmYPDxYCHgdWaXNpYmxlaGQWAgIPD2QWAgIDD2QWAmYPZBYCAgEPZBYCAgEPZBYCAgEPZBYCAgEPD2QWAh4Hb25rZXl1cAVXY2hhckNvdW50ZXIoJ3BfbHRfem9uZU1lbWJlcnNoaXBfU3RvY2tob3VzZV9NZW1iZXJCYXJfdHh0VXNlcm5hbWUnLCAnY2hhckNvdW50ZXInLCAxNSk7ZAIJD2QWAgIBD2QWAgICD2QWAmYPZBYCZg9kFgICAw9kFgJmD2QWAmYPZBYQZg9kFgJmD2QWAmYPFQG1ATxhIGNsYXNzPSJuZXdzbGlua3MiIGhyZWY9Imh0dHA6Ly9iaXQubHkvMXd6Nng0WSIgdGFyZ2V0PSJfYmxhbmsiIHRpdGxlPSJodHRwOi8vYml0Lmx5LzF3ejZ4NFkiPlBveWRyYXMgR2FtaW5nIEFubm91bmNlcyBEZXBsb3ltZW50IG9mIEFkZGl0aW9uYWwgU2xvdCBNYWNoaW5lcyBpbiBDb3JlIE1hcmtldHMgIDwvYT5kAgIPZBYCZg9kFgJmDxUBxgE8YSBjbGFzcz0ibmV3c2xpbmtzIiBocmVmPSJodHRwOi8vYml0Lmx5LzFrNEV6dFIiIHRhcmdldD0iX2JsYW5rIiB0aXRsZT0iaHR0cDovL2JpdC5seS8xazRFenRSIj5OZXcgRXhlY3V0aXZlIENoYWlybWFuIEJyaW5ncyAzNCB5ZWFycyBvZiBFeHRlbnNpdmUgR2xvYmFsIE9pbCBhbmQgR2FzIEV4cGVyaWVuY2UgdG8gT3JhY2xlIEVuZXJneTwvYT5kAgQPZBYCZg9kFgJmDxUBoAE8YSBjbGFzcz0ibmV3c2xpbmtzIiBocmVmPSJodHRwOi8vYml0Lmx5L1NReXVHNiIgdGFyZ2V0PSJfYmxhbmsiIHRpdGxlPSJodHRwOi8vYml0Lmx5L1NReXVHNiI+SUFNR09MRCBjb21wbGV0ZXMgNCw1MjggbWV0cmVzIGFzIHBhcnQgb2YgZWFybmluZyA1MCUgaW50ZXJlc3Q8L2E+ZAIGD2QWAmYPZBYCZg8VAbUBPGEgY2xhc3M9Im5ld3NsaW5rcyIgaHJlZj0iaHR0cDovL2JpdC5seS8xaHZFRE5FIiB0YXJnZXQ9Il9ibGFuayIgdGl0bGU9Imh0dHA6Ly9iaXQubHkvMWh2RURORSI+TmFub3N0cnVjayBzaWducyBMT0kgd2l0aCBaaW1iYWJ3ZeKAmXMgUHVycGxlIEdyaWQgVHJhZGluZyBmb3IgTmFub21ldCBUZWNobm9sb2d5PC9hPmQCCA9kFgJmD2QWAmYPFQGYATxhIGNsYXNzPSJuZXdzbGlua3MiIGhyZWY9Imh0dHA6Ly9iaXQubHkvMW82SkdJayIgdGFyZ2V0PSJfYmxhbmsiIHRpdGxlPSJodHRwOi8vYml0Lmx5LzFvNkpHSWsiPk1pbmluZyBFeHBlcnQgSmF5IFRheWxvcuKAmXMgTmV3IEdvbGQgUmVjb21tZW5kYXRpb248L2E+ZAIKD2QWAmYPZBYCZg8VAcMBPGEgY2xhc3M9Im5ld3NsaW5rcyIgaHJlZj0iaHR0cDovL2JpdC5seS8xaDZSWjJkIiB0YXJnZXQ9Il9ibGFuayIgdGl0bGU9Imh0dHA6Ly9iaXQubHkvMWg2UloyZCI+JDEzLDAwMCBpbiBwcml6ZXMgdG8gYmUgd29uISBSZWdpc3RlciBub3cgZm9yIEhvcml6b25zIEVURnMgQmlnZ2VzdCBXaW5uZXIgVHJhZGluZyBDb21wZXRpdGlvbiE8L2E+ZAIMD2QWAmYPZBYCZg8VAZgBPGEgY2xhc3M9Im5ld3NsaW5rcyIgaHJlZj0iaHR0cDovL2JpdC5seS8xbTFXN1V1IiB0YXJnZXQ9Il9ibGFuayIgdGl0bGU9Imh0dHA6Ly9iaXQubHkvMW0xVzdVdSI+VmFpbCBPaWwgUHJvamVjdCBSZXBvcnRzIE9pbCBGbG93IG9uIEJ1cmtldHQgNS0zNEhPUjwvYT5kAg4PZBYCZg9kFgJmDxUBpQE8YSBjbGFzcz0ibmV3c2xpbmtzIiBocmVmPSJodHRwOi8vYml0Lmx5LzFuOE9DTTgiIHRhcmdldD0iX2JsYW5rIiB0aXRsZT0iaHR0cDovL2JpdC5seS8xbjhPQ004Ij5NYW51bGlmZSBGaW5hbmNpYWwgIENvcnBvcmF0aW9uIFNlY3VyaXRpZXMgQ2xhc3MgQWN0aW9uIENlcnRpZmllZDwvYT5kGAQFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBSlwJGx0JHpvbmVUb3BNZW51JFNlYXJjaEJveCRidG5JbWFnZUJ1dHRvbgU7cCRsdCR6b25lTWVtYmVyc2hpcCRTdG9ja2hvdXNlX01lbWJlckJhciRtdlJlZ2lzdHJhdGlvbkZvcm0PD2RmZAU0cCRsdCR6b25lTWVtYmVyc2hpcCRTdG9ja2hvdXNlX01lbWJlckJhciRtdkxvZ2luRm9ybQ8PZGZkBTRwJGx0JHpvbmVNZW1iZXJzaGlwJFN0b2NraG91c2VfTWVtYmVyQmFyJG12TG9naW5WaWV3Dw9kZmQ=">
 </div>
 
 <script type="text/javascript">
@@ -48,10 +48,14 @@ function __doPostBack(eventTarget, eventArgument) {
 </script>
 
 
-<script src="/WebResource.axd?d=eM-5zo3Z31sPnS1MpqPM6pUh2Uuw1FRRvzake36uWJ0awS3RjjMfCNKVoLM2zO4CQIfJN3QXkHMqv49fFMirfDx6MOs1&amp;t=634970779580000000" type="text/javascript"></script>
+<script src="http://ajax.aspnetcdn.com/ajax/4.5/6/WebForms.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+window.WebForm_PostBackOptions||document.write('<script type="text/javascript" src="/WebResource.axd?d=eM-5zo3Z31sPnS1MpqPM6pUh2Uuw1FRRvzake36uWJ0awS3RjjMfCNKVoLM2zO4CQIfJN3QXkHMqv49fFMirfDx6MOs1&amp;t=635086466580000000"><\/script>');//]]>
+</script><script type="text/javascript" src="/WebResource.axd?d=eM-5zo3Z31sPnS1MpqPM6pUh2Uuw1FRRvzake36uWJ0awS3RjjMfCNKVoLM2zO4CQIfJN3QXkHMqv49fFMirfDx6MOs1&amp;t=635086466580000000"></script>
+
 
 <input type="hidden" name="lng" id="lng" value="en-US">
-<script src="/CMSPages/GetResource.ashx?scriptfile=%7e%2fCMSScripts%2fWebServiceCall.js" type="text/javascript"></script>
 <script type="text/javascript">
 	//<![CDATA[
 
@@ -59,218 +63,115 @@ function PM_Postback(param) { if (window.top.HideScreenLockWarningAndSync) { win
 function PM_Callback(param, callback, ctx) { if (window.top.HideScreenLockWarningAndSync) { window.top.HideScreenLockWarningAndSync(1080); }WebForm_DoCallback('m',param,callback,ctx,null,true); }
 //]]>
 </script>
-<script src="/ScriptResource.axd?d=inkF6zRBDfHdu0wX40h6Cbr1StPBNWQi5-lRatgFB-8I_ga5JXyJrPPpTTEjEmLIGL68_2QCsYp_sVWTcvUhUR3IRj7r0MmHROWTCI7VMOnt2-VG8gBKuHKBJGj8BcsXnB4ZFEaPY5Ahk6AVOIiHb6NkV5g1&amp;t=5ad8cd80" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=WWgk9I_oO7L6X9mtE59rRYHs0c7AxJzT93l8KkoWp2fwfRqlHpq-tr8VeE4scY9lJwuY6InrwjfA1MnEWjng9oj0kGZZkCp71FERMt7e4SdRf_BV0&amp;t=3a1336b1" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=YrML1YH6ci-9MQ-Hi0Ywv1BBWX3s7cdtVWh3b_RNWwzxVfG-VcPaQxXYvGh4hjIhWVma2Ije0TGNLBd0R1W8dFIiTw6rMCkXGIgAJ-lbGaBs8t2GjCLQEQYM1E8_Gj_Igr5uNg2&amp;t=3a1336b1" type="text/javascript"></script>
-<script src="/CMSPages/PortalTemplate.aspx?_TSM_HiddenField_=manScript_HiddenField&amp;_TSM_CombinedScripts_=%3b%3bAjaxControlToolkit%2c+Version%3d4.1.51116.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d28f01b0e84b6d53e%3aen-US%3afd384f95-1b49-47cf-9b47-2fa2a921a36a%3a475a4ef5%3a5546a2b%3ad2e10b12%3aeffe2a26%3a37e2e5c9%3a1d3ed089%3a497ef277%3aa43b07eb%3a751cdd15%3adfad98a5%3a3cf12cf1" type="text/javascript"></script>
+<script src="/CMSPages/GetResource.ashx?scriptfile=%7e%2fCMSScripts%2fcms.js" type="text/javascript"></script>
 <script type="text/javascript">
-//<![CDATA[
-function WebForm_OnSubmit() {
-if (typeof(ValidatorOnSubmit) == "function" && ValidatorOnSubmit() == false) return false;
-return true;
-}
+	//<![CDATA[
+if ((window.originalPostback == null) && (window.__doPostBack != null)) { window.originalPostback = __doPostBack; __doPostBack = __doPostBackWithCheck; } 
+
 //]]>
 </script>
+<script src="/CMSPages/GetResource.ashx?scriptfile=%7e%2fCMSScripts%2fjquery%2fjquery-core.js" type="text/javascript"></script>
+<script src="/CMSPages/GetResource.ashx?scriptfile=%7e%2fCMSScripts%2fshortcuts.js" type="text/javascript"></script>
+<script type="text/javascript">
+	//<![CDATA[
+var ctrlPressed = false;
+
+function modalDialog(url, name, width, height, otherParams, noWopener, forceModal, forceNewWindow, setTitle) {
+    // Set default parameter values
+    if (setTitle == undefined) {
+        setTitle = true;
+    }
+    if (forceModal == undefined) {
+        forceModal = true;
+    }
+    if (otherParams == undefined) {
+        otherParams = 'toolbar=no,directories=no,menubar=no,modal=yes,dependent=yes,resizable=yes';
+    }
+
+    var advanced = false;
+    try {
+        advanced = window.top.AdvancedModalDialogs;
+    } catch (err) {
+    }
+
+    if (advanced && !forceNewWindow && !ctrlPressed) {
+        window.top.advancedModal(url, name, width, height, otherParams, noWopener, forceModal, setTitle, this);
+    }
+    else {
+        var win = window;
+        var dHeight = height;
+        var dWidth = width;
+        if (width.toString().indexOf('%') != -1) {
+            dWidth = Math.round(screen.width * parseInt(width, 10) / 100);
+        }
+        if (height.toString().indexOf('%') != -1) {
+            dHeight = Math.round(screen.height * parseInt(height, 10) / 100);
+        }
+
+        var oWindow = win.open(url, name, 'width=' + dWidth + ',height=' + dHeight + ',' + otherParams);
+        if (oWindow) {
+            oWindow.opener = this;
+            oWindow.focus();
+        }
+
+    }
+    ctrlPressed = false;
+}
+
+// Detect CTRL
+/* PROTOTYPE - requires jQuery */
+/*
+$j(window).keydown(function (evt) {
+if (evt.which == 17) {
+ctrlPressed = true;
+}
+}).keyup(function (evt) {
+if (evt.which == 17) {
+ctrlPressed = false;
+}
+});
+*/
+//]]>
+</script>
+<script src="/ScriptResource.axd?d=WWgk9I_oO7L6X9mtE59rRYHs0c7AxJzT93l8KkoWp2fwfRqlHpq-tr8VeE4scY9lJwuY6InrwjfA1MnEWjng9oj0kGZZkCp71FERMt7e4SdRf_BV0&amp;t=3a1336b1" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+(window.Sys && Sys._Application && Sys.Observer)||document.write('<script type="text/javascript" src="/ScriptResource.axd?d=WWgk9I_oO7L6X9mtE59rRYHs0c7AxJzT93l8KkoWp2fwfRqlHpq-tr8VeE4scY9lJwuY6InrwjfA1MnEWjng9oj0kGZZkCp71FERMt7e4SdRf_BV0&t=3a1336b1"><\/script>');//]]>
+</script><script type="text/javascript" src="/ScriptResource.axd?d=WWgk9I_oO7L6X9mtE59rRYHs0c7AxJzT93l8KkoWp2fwfRqlHpq-tr8VeE4scY9lJwuY6InrwjfA1MnEWjng9oj0kGZZkCp71FERMt7e4SdRf_BV0&amp;t=3a1336b1"></script>
+
+<script src="/ScriptResource.axd?d=YrML1YH6ci-9MQ-Hi0Ywv1BBWX3s7cdtVWh3b_RNWwzxVfG-VcPaQxXYvGh4hjIhWVma2Ije0TGNLBd0R1W8dFIiTw6rMCkXGIgAJ-lbGaBs8t2GjCLQEQYM1E8_Gj_Igr5uNg2&amp;t=3a1336b1" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+(window.Sys && Sys.WebForms)||document.write('<script type="text/javascript" src="/ScriptResource.axd?d=YrML1YH6ci-9MQ-Hi0Ywv1BBWX3s7cdtVWh3b_RNWwzxVfG-VcPaQxXYvGh4hjIhWVma2Ije0TGNLBd0R1W8dFIiTw6rMCkXGIgAJ-lbGaBs8t2GjCLQEQYM1E8_Gj_Igr5uNg2&t=3a1336b1"><\/script>');//]]>
+</script><script type="text/javascript" src="/ScriptResource.axd?d=YrML1YH6ci-9MQ-Hi0Ywv1BBWX3s7cdtVWh3b_RNWwzxVfG-VcPaQxXYvGh4hjIhWVma2Ije0TGNLBd0R1W8dFIiTw6rMCkXGIgAJ-lbGaBs8t2GjCLQEQYM1E8_Gj_Igr5uNg2&amp;t=3a1336b1"></script>
 
 <div class="aspNetHidden">
 
 	<input type="hidden" name="__SCROLLPOSITIONX" id="__SCROLLPOSITIONX" value="0">
 	<input type="hidden" name="__SCROLLPOSITIONY" id="__SCROLLPOSITIONY" value="0">
 </div>
-    <script type="text/javascript">
+    
+        <script type="text/javascript">
 //<![CDATA[
-Sys.WebForms.PageRequestManager._initialize('manScript', 'form', ['tp$lt$zoneMembership$Stockhouse_MemberBar$cartitems1$upnlAjax','','tp$lt$zoneMembership$Stockhouse_MemberBar$UpdatePanel1','','tp$lt$zoneMembership$Stockhouse_MemberBar$UpdatePanel2','','tctxM',''], [], [], 90, '');
+Sys.WebForms.PageRequestManager._initialize('manScript', 'form', ['tctxM','','tdm$pM$pMP',''], [], [], 90, '');
 //]]>
 </script>
 <div id="CMSHeaderDiv">
 	<!-- -->
-</div>
-    <div id="ctxM">
+</div><div id="dm_pM_pMP">
+
+</div><input type="hidden" name="dm$hdnArgs" id="dm_hdnArgs"><input type="hidden" name="dm$hdnAnother" id="dm_hdnAnother"><input type="hidden" name="dm$hdnClose" id="dm_hdnClose"><input type="hidden" name="dm$hdnComment" id="dm_hdnComment"><input type="hidden" name="dm$hdnCurrStep" id="dm_hdnCurrStep" value="0">
+
+        <div id="ctxM">
 
 </div>
     
+        
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
 <div class="mwrap">
-    
-<div class="membership clearfix">
-    <ul class="left">
-      <li class="first"><a class="dropdown-trigger" style="margin-left: 0">Quick Links</a>
-            
-                    <ul>
-                
-                    <li class="first"><a href="/">
-                        Home</a></li>
-                
-                    <li class=""><a href="/community">
-                        Community</a></li>
-                
-                    <li class=""><a href="/markets">
-                        Markets</a></li>
-                
-                    <li class=""><a href="/news">
-                        News</a></li>
-                
-                    <li class=""><a href="/opinion">
-                        Opinion</a></li>
-                
-                    <li class=""><a href="/portfolio">
-                        Portfolio</a></li>
-                
-                    <li class="last"><a href="/video">
-                        Video</a></li>
-                
-                    </ul>
-                
-        </li>
-        <li>
-            <a id="p_lt_zoneMembership_Stockhouse_MemberBar_lnkBullboards" title="Bullboards" class="bullboards" href="/community/bullboards"></a>
-        </li>
-         <li style="width: 80px;padding:0 13px;">
-            <div id="p_lt_zoneMembership_Stockhouse_MemberBar_cartitems1_upnlAjax">
-	
-        
-        <a id="p_lt_zoneMembership_Stockhouse_MemberBar_cartitems1_cartlinkURL" href="https://www.stockhouse.com/checkout/shopping-cart" style="padding-right:5px"><img src="/app_themes/ecommercesite/images/ecommerce/cart_white.png" alt=""></a>
-        
-        
-        
-        
-        <span id="p_lt_zoneMembership_Stockhouse_MemberBar_cartitems1_lblTotalPriceTitle" class="SmallTextLabel">&nbsp;</span>
-    
-</div>
-
-       </li>
-    </ul>
-    
-            <ul class="right">
-                <li class="first">
-                    <a id="p_lt_zoneMembership_Stockhouse_MemberBar_lnkJoin" href="javascript:__doPostBack('p$lt$zoneMembership$Stockhouse_MemberBar$lnkJoin','')">Join the Community</a>
-                    |
-                    <a id="p_lt_zoneMembership_Stockhouse_MemberBar_lnkSignIn" href="javascript:__doPostBack('p$lt$zoneMembership$Stockhouse_MemberBar$lnkSignIn','')">Sign In</a>
-                </li>
-            </ul>
-        
-</div>
-
-<div id="p_lt_zoneMembership_Stockhouse_MemberBar_pnlSignIn" class="login-form" style="display: none;">
-	
-    <input type="image" name="p$lt$zoneMembership$Stockhouse_MemberBar$btnSignInCancel" id="p_lt_zoneMembership_Stockhouse_MemberBar_btnSignInCancel" class="close-button" src="/stockhouse/images/closebtn.png" alt="Close Dialog" style="height:33px;width:33px;">
-    <div id="p_lt_zoneMembership_Stockhouse_MemberBar_UpdatePanel1">
-		
-            
-                    <div id="p_lt_zoneMembership_Stockhouse_MemberBar_pnlLoginLeft" class="login-left">
-			
-                        <div class="heading">
-                            <span>
-                                Welcome back to Stockhouse</span>
-                            Member sign in
-                        </div>
-                        <table id="p_lt_zoneMembership_Stockhouse_MemberBar_Login1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;">
-				<tbody><tr>
-					<td>
-                                <div id="p_lt_zoneMembership_Stockhouse_MemberBar_Login1_pnlLogin" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'p_lt_zoneMembership_Stockhouse_MemberBar_Login1_LoginButton')">
-						
-                                    <div class="form-section">
-                                        <input name="p$lt$zoneMembership$Stockhouse_MemberBar$Login1$UserName" type="text" maxlength="100" id="p_lt_zoneMembership_Stockhouse_MemberBar_Login1_UserName" placeholder="Email or Username"><br>
-                                        <span id="p_lt_zoneMembership_Stockhouse_MemberBar_Login1_rfvUserNameRequired" class="form-error" style="display:none;">Please enter your E-mail or username</span>
-                                    </div>
-                                    <div class="form-section">
-                                        <input name="p$lt$zoneMembership$Stockhouse_MemberBar$Login1$Password" type="password" maxlength="100" id="p_lt_zoneMembership_Stockhouse_MemberBar_Login1_Password" placeholder="Password"><br>
-                                    </div>
-                                    <div>
-                                        <span class="remember"><input id="p_lt_zoneMembership_Stockhouse_MemberBar_Login1_chkRememberMe" type="checkbox" name="p$lt$zoneMembership$Stockhouse_MemberBar$Login1$chkRememberMe" checked="checked"><label for="p_lt_zoneMembership_Stockhouse_MemberBar_Login1_chkRememberMe">Remember me</label></span>
-                                        <a id="p_lt_zoneMembership_Stockhouse_MemberBar_Login1_lnkPasswdRetrieval" class="forgot" href="javascript:__doPostBack('p$lt$zoneMembership$Stockhouse_MemberBar$Login1$lnkPasswdRetrieval','')">Forgot password?</a>
-                                        <br class="clear">
-                                    </div>
-                                    <div style="height: 16px; width: 16px; float: left; padding-top: 6px;">
-                                        <div id="p_lt_zoneMembership_Stockhouse_MemberBar_Login1_UpdateProgress2" style="display:none;">
-							<img src="/stockhouse/images/ajax-loader1.gif" alt="">
-						</div>
-                                    </div>
-                                    <div class="failure">
-                                        <span id="p_lt_zoneMembership_Stockhouse_MemberBar_Login1_FailureText"></span>
-                                    </div>
-                                    <div class="clear"></div>
-                                    <br>
-                                    <div>
-                                        <input type="submit" name="p$lt$zoneMembership$Stockhouse_MemberBar$Login1$LoginButton" value="Sign In" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;p$lt$zoneMembership$Stockhouse_MemberBar$Login1$LoginButton&quot;, &quot;&quot;, true, &quot;Logon&quot;, &quot;&quot;, false, false))" id="p_lt_zoneMembership_Stockhouse_MemberBar_Login1_LoginButton" class="orangeButton wideButton">
-                                    </div>
-                                
-					</div>
-                            </td>
-				</tr>
-			</tbody></table>
-                    
-		</div>
-                    <div id="p_lt_zoneMembership_Stockhouse_MemberBar_pnlLoginRight" class="login-right" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'p_lt_zoneMembership_Stockhouse_MemberBar_btnSignInJoin')">
-			
-                        <div class="heading">
-                            <span>
-                                New to Stockhouse?</span>
-                            Create an account
-                        </div>
-                        <div style="min-height: 180px;">
-                           <p>Become a member today. It's free.</p>
-<p>We will not release or resell your information to third-parties without your permission.</p>
-                        </div>
-                        <input type="submit" name="p$lt$zoneMembership$Stockhouse_MemberBar$btnSignInJoin" value="Join the Community" id="p_lt_zoneMembership_Stockhouse_MemberBar_btnSignInJoin" class="orangeButton wideButton">
-                    
-		</div>
-                    <br style="clear: both;">
-                
-        
-	</div>
-
-</div>
-
-<div id="p_lt_zoneMembership_Stockhouse_MemberBar_pnlJoin" class="reg-form" style="display: none">
-	
-    <input type="image" name="p$lt$zoneMembership$Stockhouse_MemberBar$btnJoinCancel" id="p_lt_zoneMembership_Stockhouse_MemberBar_btnJoinCancel" class="close-button" src="/stockhouse/images/closebtn.png" alt="Close Dialog" style="height:33px;width:33px;">
-    <div id="p_lt_zoneMembership_Stockhouse_MemberBar_UpdatePanel2">
-		
-            
-                    <span class="header">New to Stockhouse?</span>
-
-                    <div class="reg-left">
-                        <div class="heading">
-                            <span>Create an account</span>
-                        </div>
-                        <div class="sign-in">
-                            Already a member?
-                            <a id="p_lt_zoneMembership_Stockhouse_MemberBar_lnkJoinSignIn" href="javascript:__doPostBack('p$lt$zoneMembership$Stockhouse_MemberBar$lnkJoinSignIn','')">Sign in</a>
-                        </div>
-                    </div>
-                    <div id="p_lt_zoneMembership_Stockhouse_MemberBar_pnlRegRight" class="reg-right" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'p_lt_zoneMembership_Stockhouse_MemberBar_btnJoin')">
-			
-                        <span id="p_lt_zoneMembership_Stockhouse_MemberBar_lblError" style="color:Red;"></span>
-                        <div class="form-section">
-                            <input name="p$lt$zoneMembership$Stockhouse_MemberBar$txtEmail" type="text" maxlength="100" id="p_lt_zoneMembership_Stockhouse_MemberBar_txtEmail" class="textbox" placeholder="Email"><br>
-                            <span id="p_lt_zoneMembership_Stockhouse_MemberBar_rfvEmail" class="form-error" style="display:none;">Please enter your E-mail address</span>
-                            <span id="p_lt_zoneMembership_Stockhouse_MemberBar_revEmail" class="form-error" style="display:none;">Please enter a valid E-mail address</span>
-                            <span id="p_lt_zoneMembership_Stockhouse_MemberBar_cvEmail" class="form-error" style="display:none;">E-mail already exists</span>
-                        </div>
-                        <div class="form-section">
-                            <input name="p$lt$zoneMembership$Stockhouse_MemberBar$txtPassword" type="password" maxlength="100" id="p_lt_zoneMembership_Stockhouse_MemberBar_txtPassword" placeholder="Password"><br>
-                            <span id="p_lt_zoneMembership_Stockhouse_MemberBar_rfvPassword" class="form-error" style="display:none;">Please enter a password</span>
-                            <span id="p_lt_zoneMembership_Stockhouse_MemberBar_cvPassword" class="form-error" style="display:none;"></span>
-                        </div>
-                        <div style="height: 16px; padding-bottom: 5px;">
-                            <div id="p_lt_zoneMembership_Stockhouse_MemberBar_UpdateProgress3" style="display:none;">
-				<img src="/stockhouse/images/ajax-loader1.gif" alt="" style="vertical-align: middle;">
-			</div>
-                        </div>
-                        <div class="form-section">
-                            <input type="submit" name="p$lt$zoneMembership$Stockhouse_MemberBar$btnJoin" value="Join the Community" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;p$lt$zoneMembership$Stockhouse_MemberBar$btnJoin&quot;, &quot;&quot;, true, &quot;registration&quot;, &quot;&quot;, false, false))" id="p_lt_zoneMembership_Stockhouse_MemberBar_btnJoin" class="orangeButton wideButton">
-                        </div>
-                        <div class="disclaimer">
-                            By clicking above you are indicating that you have read &amp; agree to our <a href="/legal/terms-of-use" target="_parent">Terms</a> and <a href="/legal/privacy-policy" target="_parent">Privacy Policy</a>.
-                        </div>
-                    
-		</div>
-                    <br style="clear: both;">
-                
-        
-	</div>
-
-</div>
+  
+  
 </div>
 
 <div class="hwrap">
@@ -278,9 +179,9 @@ Sys.WebForms.PageRequestManager._initialize('manScript', 'form', ['tp$lt$zoneMem
         <div class="column span-6 banner">
             <div class="leaderboard">
     <script type="text/javascript">
-        document.write('<scr' + 'ipt type="text/javascript" src="http://oasc12035.247realmedia.com/RealMedia/ads/adstream_jx.ads/stockhouse/legal/privacy-policy/9578729@Top,Middle,Right,Right1!Top"></scr' + 'ipt>');
-    </script><script type="text/javascript" src="http://oasc12035.247realmedia.com/RealMedia/ads/adstream_jx.ads/stockhouse/legal/privacy-policy/9578729@Top,Middle,Right,Right1!Top"></script>
-    <noscript><a rel="noindex,nofollow" href="http://oasc12035.247realmedia.com/RealMedia/ads/click_nx.ads/stockhouse/legal/privacy-policy/9578729@Top,Middle,Right,Right1!Top"><img alt="top" src="http://oasc12035.247realmedia.com/RealMedia/ads/adstream_nx.ads/stockhouse/legal/privacy-policy/9578729@Top,Middle,Right,Right1!Top"></a></noscript>
+        document.write('<scr' + 'ipt type="text/javascript" src="http://oasc12035.247realmedia.com/RealMedia/ads/adstream_jx.ads/stockhouse/legal/privacy-policy/1674402@Top,Middle,Right,Right1!Top"></scr' + 'ipt>');
+    </script><script type="text/javascript" src="http://oasc12035.247realmedia.com/RealMedia/ads/adstream_jx.ads/stockhouse/legal/privacy-policy/1674402@Top,Middle,Right,Right1!Top"></script>
+    <noscript><a rel="noindex,nofollow" href="http://oasc12035.247realmedia.com/RealMedia/ads/click_nx.ads/stockhouse/legal/privacy-policy/1674402@Top,Middle,Right,Right1!Top"><img alt="top" src="http://oasc12035.247realmedia.com/RealMedia/ads/adstream_nx.ads/stockhouse/legal/privacy-policy/1674402@Top,Middle,Right,Right1!Top"></a></noscript>
 </div>        
             <a href="/" title="Return to the homepage" class="mainlogo">
               <img src="/Stockhouse/images/stockhouse-logo.png" alt="Stockhouse.com Logo">
@@ -303,7 +204,7 @@ Sys.WebForms.PageRequestManager._initialize('manScript', 'form', ['tp$lt$zoneMem
 			<ul>
 				<li><a href="/markets/stocks/tsx">TSX</a></li>
 				<li><a href="/markets/stocks/tsxv">TSXV</a></li>
-				<li><a href="/markets/stocks/cnsx">CNSX</a></li>
+				<li><a href="/markets/stocks/cse-cnsx">CSE-CNSX</a></li>
 				<li><a href="/markets/stocks/nyse">NYSE</a></li>
 				<li><a href="/markets/stocks/nasdaq">NASDAQ</a></li>
 				<li><a href="/markets/stocks/amex">AMEX</a></li>
@@ -321,7 +222,6 @@ Sys.WebForms.PageRequestManager._initialize('manScript', 'form', ['tp$lt$zoneMem
 		<li style=""><a href="/news" style="">News</a>
 		<ul>
 			<li style=""><a href="/news/natural-resources" style="">Natural Resources</a></li>
-			<li><a href="/news/business-news">Business News</a></li>
 			<li><a href="/news/micro-cap-report">Micro Cap Report</a></li>
 			<li><a href="/news/canadian-press-releases">Canadian Press Releases</a></li>
 			<li><a href="/news/us-press-releases">US Press Releases</a></li>
@@ -351,7 +251,7 @@ Sys.WebForms.PageRequestManager._initialize('manScript', 'form', ['tp$lt$zoneMem
 <div id="p_lt_zoneTopMenu_SearchBox_pnlSearch" class="searchBox" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'p_lt_zoneTopMenu_SearchBox_btnImageButton')">
 	
     <label for="p_lt_zoneTopMenu_SearchBox_txtWord" id="p_lt_zoneTopMenu_SearchBox_lblSearch" style="display:none;">Search for:</label>
-    <input name="p$lt$zoneTopMenu$SearchBox$txtWord" type="text" maxlength="1000" id="p_lt_zoneTopMenu_SearchBox_txtWord" class="searchText">
+    <input name="p$lt$zoneTopMenu$SearchBox$txtWord" type="text" maxlength="1000" id="p_lt_zoneTopMenu_SearchBox_txtWord" class="searchText" placeholder="Search News, Quotes &amp; Companies" data-postbackref="__doPostBack('p$lt$zoneTopMenu$SearchBox$btnSearch','client')">
     
     <input type="image" name="p$lt$zoneTopMenu$SearchBox$btnImageButton" id="p_lt_zoneTopMenu_SearchBox_btnImageButton" class="searchButton" src="/Stockhouse/images/search-button.png" alt="Search">
 
@@ -375,7 +275,7 @@ Sys.WebForms.PageRequestManager._initialize('manScript', 'form', ['tp$lt$zoneMem
         
 </div>
 <div class="editable">
-  <style type="text/css">
+  <style type="&quot;text/css&quot;">
 div.column.span-2.last {
 display: none;
 }
@@ -391,7 +291,7 @@ This Privacy Policy applies to Stockhouse Publishing Ltd., its subsidiaries, and
 <br>
 <h3>
 	Condensed Version</h3>
-This condensed verison is a summary of and subject to the "Complete Privacy Policy" and is provided for your convenience only. We encourage you to read the "Complete Privacy Policy" below.<br>
+This condensed version is a summary of and subject to the "Complete Privacy Policy" and is provided for your convenience only. We encourage you to read the "Complete Privacy Policy" below.<br>
 <h4>
 	Scope</h4>
 This Privacy Policy applies to personal information collected by Stockhouse and sets out how the company will safeguard your privacy.<br>
@@ -403,7 +303,7 @@ This Privacy Policy applies to personal information collected by Stockhouse and 
 	<li>
 		We collect information such as you name, contact information and/or other information when you register with us, subscribe to our newsletters, submit content to our site, participate in a contest or use our recommendation service. We collect financial information when you place an order for a product or service.</li>
 	<li>
-		We do not collect personal information about you if you only browse our website. We use cookies so that it is easier for you to use our website. Cookies store information about your preferences, enabling you to take full advantage of our services. For more information, see the "Complete Privacy Policy", under "How do we use IP addresses and cookies?"</li>
+		We do not collect personal information about you if you only browse our website. We use cookies and other facilities so that it is easier for you to use our website. These mechanisms store information about your preferences, enabling you to take full advantage of our services. For more information, see the "Complete Privacy Policy", under "How do we use IP addresses and cookies, and other tracking facilities?"</li>
 </ul>
 <h4>
 	Use and Disclosure of Personal Information</h4>
@@ -433,7 +333,7 @@ This Privacy Policy applies to personal information collected by Stockhouse and 
 </ul>
 <h4>
 	How to Contact Us:</h4>
-If you have any questions about this policy or wish to make a complaint regarding the treatment of your personal information by us you can write to us using the web form located here: <a href="https://support.stockhouse.com/anonymous_requests/new">https://support.stockhouse.com/anonymous_requests/new</a><br>
+If you have any questions about this policy or wish to make a complaint regarding the treatment of your personal information by us you can write to us using the web form located here: <a href="&quot;https://support.stockhouse.com/anonymous_requests/new&quot;">https://support.stockhouse.com/anonymous_requests/new</a><br>
 <br>
 <br>
 <br>
@@ -443,7 +343,7 @@ If you have any questions about this policy or wish to make a complaint regardin
 <br>
 Stockhouse Publishing Ltd. takes your privacy seriously. Please read the following to learn more about our privacy policy.<br>
 <br>
-NOTICE: Please visit: <a href="http://www.ftc.gov/bcp/menus/consumer/tech/privacy.shtm">http://www.ftc.gov/bcp/menus/consumer/tech/privacy.shtm</a> for important information about safe surfing from the U.S. Federal Trade Commission<br>
+NOTICE: Please visit: <a href="&quot;http://www.ftc.gov/bcp/menus/consumer/tech/privacy.shtm&quot;">http://www.ftc.gov/bcp/menus/consumer/tech/privacy.shtm</a> for important information about safe surfing from the U.S. Federal Trade Commission<br>
 <br>
 This Privacy Policy applies to Stockhouse Publishing Ltd., its subsidiaries, and any of its websites containing the Stockhouse name.<br>
 <br>
@@ -461,7 +361,7 @@ This Privacy Statement answers the following questions:<br>
 	<li>
 		How does Stockhouse Publishing Ltd. use your personal information?</li>
 	<li>
-		How do we use "IP addresses" and "cookies"?</li>
+		How do we use "IP addresses" and "cookies" and other tracking facilities?</li>
 	<li>
 		Will Stockhouse Publishing Ltd. disclose any of your personal information?</li>
 	<li>
@@ -488,13 +388,13 @@ Stockhouse Publishing Ltd. collects personal and non-personal information about 
 <br>
 If you use our recommendation service to e-mail one of our articles to a friend, you will need to provide us with your friend's e-mail address and your e-mail address as a return address. We will automatically send this person a one-time e-mail, with the recommended article attached, as well as an invite for your friend to visit and register with our site. We will not use these e-mail addresses for any other purpose.<br>
 <br>
-We collect IP addresses for site security and to help us understand how people use our sites so that we can improve our sites and our users' respective experiences. For similar quality reasons, we use a feature known as a "cookie" when you visit our site. A notation may be fed to a file known as a "cookie" in your computer for future reference. If you revisit the site, the "cookie" file allows the website to identify you as a return guest, and offer you products tailored to your interests or tastes. You can set your browser preferences to limit "cookies," or to let you know about "cookies" that a website places on your computer.<br>
+We collect IP addresses for site security and to help us understand how people use our sites so that we can improve our sites and our users' respective experiences. For similar quality reasons, we use cookies and other facilities when you visit our site. Notations may be madein your computer for future reference. If you revisit the site, these notations allow the website to identify you as a return guest, and offer you products tailored to your interests or tastes.<br>
 <br>
 When you place an order for a product or service, we need to know the sort of information typically used for credit card transactions, such as your name (as it appears on the card), mailing and billing addresses (and shipping address, if different), telephone number, and credit card number and expiration date. Gathering this information allows us to process and fulfill your order and notify you of your order status. We encrypt all of this information using Secure Socket Layers (SSL) technology.<br>
 <br>
 We may also collect your e-mail address when you submit content to our sites (for example; blogs, bullboards, or group discussion entries). Unless we get your approval, we will not display your e-mail address with your submission.<br>
 <br>
-Besides cookies, we may also use tiny electronic images (called "single-pixel GIFs" or "Web beacons"), which allow us to count users who have visited specific pages or accessed certain cookies. We may use single-pixel GIFs in the following ways:<br>
+We may also use tiny electronic images (called "single-pixel GIFs" or "Web beacons"), which allow us to count users who have visited specific pages or accessed certain features. We may use single-pixel GIFs in the following ways:<br>
 <br>
 <ul>
 	<li>
@@ -521,11 +421,9 @@ In addition to helping us process your order, we use the information we collect 
 <br>
 Sometimes we ask for personal information when providing special features and services. You do not have to give us that information, but without it, you may not be able to take advantage of those products or services. For example, you will be unable to track your personal stock portfolio on our site unless you input the stocks you own or watch and you may not be able to gain access to certain areas of our site unless you register and/or subscribe.<br>
 <br>
-<br>
 <h4>
-	How Do We Use "IP Addresses" and "Cookies"?</h4>
-Cookies are used on our sites in the following ways:<br>
-<br>
+	How Do We Use "IP Addresses" and "Cookies" and other tracking facilities?</h4>
+These mechanisms are used on our sites in the following ways:<br>
 <ul>
 	<li>
 		To access your stored account information automatically when you log on to our site, in order to deliver better and more personalized service</li>
@@ -544,7 +442,6 @@ Most internet browsers are set up to accept cookies, but you can configure yours
 <br>
 For more information about cookies, read the unofficial Cookie FAQ from: <a href="http://www.cookiecentral.com/faq/">http://www.cookiecentral.com/faq/</a><br>
 <br>
-<br>
 <h4>
 	How Does Stockhouse Publishing Ltd. Disclose Your Personal Information?</h4>
 Stockhouse Publishing Ltd. will not disclose any personally identifiable information about individual users, except as described in this Privacy Policy. With the few exceptions that we explain here, we do not give, rent, lend, or sell individual information to our advertisers, although we do provide aggregate information. For example, we might tell an advertiser that there are 120,000 registered users in a given city, but we will not tell them that John Smith is one of them, nor will we give them his e-mail address. We may also use this aggregated information to help the advertisers reach the kind of audience they want. They may give us an advertisement and tell us the type of audience they want to reach (for example, males in a certain area code).<br>
@@ -559,7 +456,7 @@ As for individually identifiable information, we may disclose it only under the 
 	<li>
 		If you sign up for a special offer from an advertiser, we will provide your individual contact information (for example, name, mailing address, e-mail address, and/or telephone number), so that the advertiser or its agent can fulfill the special offer. Once the advertiser receives the information, it will be subject to that firm's own privacy policies; however, if you do not want a particular advertiser to have your personal information, then you should not sign up for that advertiser's offer</li>
 	<li>
-		We may disclose information to selected partners, under nondisclosure agreements, only for the purpose of marketing Stockhouse co-branded offerings (such as a "Stockhouse NewsBlast" published by another company, or a "SHfn@The Bell" announcement); those partners will be able to use the personal information they receive from us only for marketing the co-branded offerings, not for marketing anything else - if you would prefer not to hear such announcements, simply go to our opt-out page and let us know</li>
+		We may disclose information to selected partners, under nondisclosure agreements, only for the purpose of marketing Stockhouse co-branded offerings (such as a "Stockhouse NewsBlast" published by another company, or a "SH@The Bell" announcement); those partners will be able to use the personal information they receive from us only for marketing the co-branded offerings, not for marketing anything else - if you would prefer not to hear such announcements, simply go to our opt-out page and let us know</li>
 	<li>
 		If you buy something from us, we will disclose your personal information to the extent necessary to fulfill your order and if applicable, charge your credit card. We may use a fulfillment company to fill and ship your order (excluding products you download directly from our site) and a credit card processing company to verify your card number and process the transaction. For example, if you order a Stockhouse service with your credit card, we need to give your address to the fulfillment house and your credit card information to the processing company (to confirm payment). We may also give your information to a delivery or postal service so that your order can be delivered to you</li>
 	<li>
@@ -573,7 +470,7 @@ As for individually identifiable information, we may disclose it only under the 
 	<li>
 		We may employ contractors or other third parties to help with our operations. We may give them access to databases of user information, so that they can perform services for us, including performing system maintenance, displaying personalized content (such as portfolios), performing list analysis or management, or sending mailings for us from our advertisers. These parties are all subject to confidentiality agreements that restrict the use and disclosure of information they obtain through their relationship with Stockhouse Publishing Ltd.</li>
 	<li>
-		The ads appearing on this website are delivered to you by DoubleClick and 24/7, our advertisers. Information about your visits to Stockhouse.com and its related web sites, such as the number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you</li>
+		The ads appearing on this website are delivered to you by our advertisers. Information about your visits to Stockhouse.com and its related web sites, such as the number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you</li>
 	<li>
 		We may disclose your personal information to another entity as part of a merger, a sale of assets or all or part of our business, or any other corporate change or re-organization</li>
 </ul>
@@ -584,7 +481,7 @@ Stockhouse Publishing Ltd. is committed to protecting your personal information.
 <br>
 Personalized areas of our sites, such as My Stockhouse, are password-protected. Only you have access to these password-protected areas. Do not share your passwords with anyone. Stockhouse Publishing Ltd. will never ask you for your password in an unsolicited phone call or e-mail. If you are using a computer to which others have access, such as one in a computer lab, Internet cafe, or public library, always remember to log out and close your browser window when leaving our site.<br>
 <br>
-If you have forgotten your passwordyou may recover it by selcting the option "Forgot Password?" on the sign in page.<br>
+If you have forgotten your password you may recover it by selecting the option "Forgot Password?" on the sign in page.<br>
 <br>
 <h4>
 	Will Stockhouse Publishing Ltd. Use Your Information for Direct Mailings?</h4>
@@ -594,25 +491,21 @@ If you do not want to receive such offers and mailings, you can let us know on o
 <br>
 Please note: If you purchase products and/or services from us, or if you register for an account with us, we may contact you to confirm your purchase, subscription, or registration, or to provide you with information about its terms or features. You may wish to keep this transactional or relationship e-mail to help you use our products and services.<br>
 <br>
-<br>
 <h4>
 	How Can You Deactivate Your Account or Edit the Information We Have About You?</h4>
-If you want to correct or change information in your My Profile, or any other information we have about you, please do so by login into your memberhsip account and selecting your member name ont he right side of hte top member bar and selcting "My Profile" formt he drop down list.<br>
+If you want to correct or change information in your My Profile, or any other information we have about you, please do so by login into your membership account and selecting your member name on the right side of the top member bar and selecting "My Profile" from the drop down list.<br>
 <br>
-To cancel any of your free e-mail subscriptions, do so by login into your memberhsip account and "My Profile" and choosing the "Subscriptions" tab.<br>
+To cancel any of your free e-mail subscriptions, do so by login into your membership account and "My Profile" and choosing the "Subscriptions" tab.<br>
 <br>
 To cancel your account, please contact us using the web form located here: <a href="https://support.stockhouse.com/anonymous_requests/new">https://support.stockhouse.com/anonymous_requests/new</a><br>
 <br>
 <h4>
-	<br>
 	How Do We Respect Children's Privacy?</h4>
 Our sites are not directed at children under the age of 13. We operate our sites in compliance with the Children's Online Privacy Protection Act (<a href="http://www.ftc.gov/ogc/coppa1.htm">http://www.ftc.gov/ogc/coppa1.htm</a>) and will not knowingly collect or use personally identifiable information from anyone under 13.<br>
-<br>
 <br>
 <h4>
 	How Long Do We Retain Personal Information We Have About You?</h4>
 We will retain personal information only as long as necessary to fulfill the purposes stated above, as required for legal or business purposes or as required by law. Subsequently, we will destroy, erase, or make anonymous such information.<br>
-<br>
 <br>
 <h4>
 	What Else Should You Know About Your Privacy?</h4>
@@ -626,11 +519,9 @@ While we do our best to protect your personal information, Stockhouse cannot ens
 <br>
 Many of our advertisers or partners, such as brokerages, merchants, or data providers, link from our site to areas on their own sites where they sell their own products and services. If you follow links from our site to others, you should be aware that you are doing business with those other sites, which have their own privacy and data collection practices. Stockhouse has no responsibility or liability for these independent policies. For more information regarding a site and its privacy policies, check that site.<br>
 <br>
-<br>
 <h4>
 	How to Contact Us?</h4>
 If you have any questions about this Privacy Policy or wish to make a complaint regarding the treatment of your personal information by us you can write to us using the web form located here: <a href="https://support.stockhouse.com/anonymous_requests/new">https://support.stockhouse.com/anonymous_requests/new</a><br>
-<br>
 <br>
 <h4>
 	How Will You Know Whether Stockhouse's Privacy Policy Has Changed?</h4>
@@ -638,7 +529,7 @@ We may change this Privacy Statement at any time, but we will give notice of any
 <br>
 <br>
 <br>
-Last Updated: June 22, 2013
+Last Updated: May 2014
 
 
 
@@ -647,26 +538,26 @@ Last Updated: June 22, 2013
 </div>
 <div class="column span-2 last">
     <div class="webpart-container ">
-    <a class="newslinks" href="http://bit.ly/1bTgbBr" target="_blank" title="http://bit.ly/1bTgbBr">Blowout earnings report for biotech company appears to have multi-bagger potential</a><hr class="thin"><a class="newslinks" href="http://bit.ly/1kVx3gp" target="_blank" title="http://bit.ly/1kVx3gp">Well flows exceeds management’s expectations</a><hr class="thin"><a class="newslinks" href="http://bit.ly/18U6lCs" target="_blank" title="http://bit.ly/18U6lCs">Asher’s assays reveal significant Gold Mineralization at King Mine, Nevada</a>      
+    <a class="newslinks" href="http://bit.ly/1wz6x4Y" target="_blank" title="http://bit.ly/1wz6x4Y">Poydras Gaming Announces Deployment of Additional Slot Machines in Core Markets  </a><hr class="thin"><a class="newslinks" href="http://bit.ly/1k4EztR" target="_blank" title="http://bit.ly/1k4EztR">New Executive Chairman Brings 34 years of Extensive Global Oil and Gas Experience to Oracle Energy</a><hr class="thin"><a class="newslinks" href="http://bit.ly/SQyuG6" target="_blank" title="http://bit.ly/SQyuG6">IAMGOLD completes 4,528 metres as part of earning 50% interest</a><hr class="thin"><a class="newslinks" href="http://bit.ly/1hvEDNE" target="_blank" title="http://bit.ly/1hvEDNE">Nanostruck signs LOI with Zimbabwe’s Purple Grid Trading for Nanomet Technology</a><hr class="thin"><a class="newslinks" href="http://bit.ly/1o6JGIk" target="_blank" title="http://bit.ly/1o6JGIk">Mining Expert Jay Taylor’s New Gold Recommendation</a><hr class="thin"><a class="newslinks" href="http://bit.ly/1h6RZ2d" target="_blank" title="http://bit.ly/1h6RZ2d">$13,000 in prizes to be won! Register now for Horizons ETFs Biggest Winner Trading Competition!</a><hr class="thin"><a class="newslinks" href="http://bit.ly/1m1W7Uu" target="_blank" title="http://bit.ly/1m1W7Uu">Vail Oil Project Reports Oil Flow on Burkett 5-34HOR</a><hr class="thin"><a class="newslinks" href="http://bit.ly/1n8OCM8" target="_blank" title="http://bit.ly/1n8OCM8">Manulife Financial  Corporation Securities Class Action Certified</a>      
 </div><div class="webpart-container ">
     <h4>Showcase News Releases</h4>
 <div style="font-size: 14px; line-height: 21px;">
     
-            <a id="p_lt_zoneContent_pageplaceholder_p_lt_zoneRight_SponsoredNewsReleases_r_ctl00_lnkShowcase" href="/companies/showcase?symbol=V.AVT">Avanti Mining Inc</a>
+            <a id="p_lt_zoneContent_pageplaceholder_p_lt_zoneRight_SponsoredNewsReleases_r_ctl00_lnkShowcase" href="/companies/showcase/v.avt">Avanti Mining Inc</a>
             <br>
-            Avanti Shareholders Approve US$50 Million Preconstruction Loan
+            Avanti Mining Reports Results from Annual Meeting
         
             <hr class="thin">
         
-            <a id="p_lt_zoneContent_pageplaceholder_p_lt_zoneRight_SponsoredNewsReleases_r_ctl02_lnkShowcase" href="/companies/showcase?symbol=V.NRT">Big North Graphite Corp</a>
+            <a id="p_lt_zoneContent_pageplaceholder_p_lt_zoneRight_SponsoredNewsReleases_r_ctl02_lnkShowcase" href="/companies/showcase/v.fgh">First Growth Holdings Ltd.</a>
             <br>
-            Big North Signs Letter of Intent for Acquisition of the El Tejon Flake Graphite Mine and Mill
+            First Growth Appoints Norman Huang as General Manager of Chinese Operations
         
             <hr class="thin">
         
-            <a id="p_lt_zoneContent_pageplaceholder_p_lt_zoneRight_SponsoredNewsReleases_r_ctl04_lnkShowcase" href="/companies/showcase?symbol=V.TEM">Tembo Gold Corp</a>
+            <a id="p_lt_zoneContent_pageplaceholder_p_lt_zoneRight_SponsoredNewsReleases_r_ctl04_lnkShowcase" href="/companies/showcase/v.vfx">Virtutone Networks Inc</a>
             <br>
-            Tembo Resumes Drilling On the Tembo Gold Project
+            Virtutone Announces Record Revenues of $14.9 Million for the Month of May
         
 </div>
 <br>
@@ -674,6 +565,7 @@ Last Updated: June 22, 2013
 <a href="/companies/showcase" class="more">More showcase news releases »</a>     
 </div>
 </div>
+      
 </div>
 
 <div class="lwrap">
@@ -780,167 +672,60 @@ NYSE/AMEX/NASDAQ and other data delayed 15 minutes unless otherwise indicated.<b
 
 
     <script type="text/javascript">
-        document.write('<scr' + 'ipt type="text/javascript" src="https://oasc12.247realmedia.com/RealMedia/ads/adstream_jx.ads/stockhouse/legal/privacy-policy/9578729@Bottom1"></scr' + 'ipt>');
-    </script><script type="text/javascript" src="https://oasc12.247realmedia.com/RealMedia/ads/adstream_jx.ads/stockhouse/legal/privacy-policy/9578729@Bottom1"></script>
-
-    
-    
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.23/jquery-ui.min.js"></script>
-&lt;<script src="/Stockhouse/js/configuration.js?v=916485271fd749929d653645dff605a0"></script>
-<script src="/Stockhouse/js/JsHandler.ashx?jsfiles=/Stockhouse/js/jquery.ba-outside-events.js,/Stockhouse/js/jquery.dateFormat-1.0.js,/Stockhouse/js/jquery.placeholder.js,/Stockhouse/js/stockhouse.js,/Stockhouse/js/abuse-report.js&amp;version=12-20-2013"></script>
-    <!-- Quantcast Tag -->
-     <script type="text/javascript">
-         var _qevents = _qevents || [];
-         (function () {
-             var elem = document.createElement('script');
-             elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
-             elem.async = true;
-             elem.type = "text/javascript";
-             var scpt = document.getElementsByTagName('script')[0];
-             scpt.parentNode.insertBefore(elem, scpt);
-         })();
-         _qevents.push({
-             qacct: "p-ZsB88wt2KmZ_X"
-         }); 
-     </script>
-     <noscript> 
-         <div style="display: none;"> 
-             <img src="//pixel.quantserve.com/pixel/p-ZsB88wt2KmZ_X.gif" style="height: 0px; border: 0px; 
-                 height: 1px; width: 1px" alt="Quantcast" /> 
-         </div> 
-     </noscript> 
-     <!-- End Quantcast tag --> 
+        document.write('<scr' + 'ipt type="text/javascript" src="http://oasc12.247realmedia.com/RealMedia/ads/adstream_jx.ads/stockhouse/legal/privacy-policy/1674402@Bottom1"></scr' + 'ipt>');
+    </script><script type="text/javascript" src="http://oasc12.247realmedia.com/RealMedia/ads/adstream_jx.ads/stockhouse/legal/privacy-policy/1674402@Bottom1"></script>
 
 
-    
-  
-<script type="text/javascript">
-//<![CDATA[
-var Page_Validators =  new Array(document.getElementById("p_lt_zoneMembership_Stockhouse_MemberBar_Login1_rfvUserNameRequired"), document.getElementById("p_lt_zoneMembership_Stockhouse_MemberBar_rfvEmail"), document.getElementById("p_lt_zoneMembership_Stockhouse_MemberBar_revEmail"), document.getElementById("p_lt_zoneMembership_Stockhouse_MemberBar_cvEmail"), document.getElementById("p_lt_zoneMembership_Stockhouse_MemberBar_rfvPassword"), document.getElementById("p_lt_zoneMembership_Stockhouse_MemberBar_cvPassword"));
-//]]>
+        
+
+        
+ 
+
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.9.1/jquery-ui.min.js"></script>
+<script>
+    (window.jQuery || document.write('<script src="/stockhouse/js/lib/jquery.min.js"><\/script>')); 
 </script>
 
-<script type="text/javascript">
-//<![CDATA[
-var p_lt_zoneMembership_Stockhouse_MemberBar_Login1_rfvUserNameRequired = document.all ? document.all["p_lt_zoneMembership_Stockhouse_MemberBar_Login1_rfvUserNameRequired"] : document.getElementById("p_lt_zoneMembership_Stockhouse_MemberBar_Login1_rfvUserNameRequired");
-p_lt_zoneMembership_Stockhouse_MemberBar_Login1_rfvUserNameRequired.controltovalidate = "p_lt_zoneMembership_Stockhouse_MemberBar_Login1_UserName";
-p_lt_zoneMembership_Stockhouse_MemberBar_Login1_rfvUserNameRequired.errormessage = "Please enter your E-mail or username";
-p_lt_zoneMembership_Stockhouse_MemberBar_Login1_rfvUserNameRequired.display = "Dynamic";
-p_lt_zoneMembership_Stockhouse_MemberBar_Login1_rfvUserNameRequired.validationGroup = "Logon";
-p_lt_zoneMembership_Stockhouse_MemberBar_Login1_rfvUserNameRequired.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
-p_lt_zoneMembership_Stockhouse_MemberBar_Login1_rfvUserNameRequired.initialvalue = "";
-var p_lt_zoneMembership_Stockhouse_MemberBar_rfvEmail = document.all ? document.all["p_lt_zoneMembership_Stockhouse_MemberBar_rfvEmail"] : document.getElementById("p_lt_zoneMembership_Stockhouse_MemberBar_rfvEmail");
-p_lt_zoneMembership_Stockhouse_MemberBar_rfvEmail.controltovalidate = "p_lt_zoneMembership_Stockhouse_MemberBar_txtEmail";
-p_lt_zoneMembership_Stockhouse_MemberBar_rfvEmail.errormessage = "Please enter your E-mail address";
-p_lt_zoneMembership_Stockhouse_MemberBar_rfvEmail.display = "Dynamic";
-p_lt_zoneMembership_Stockhouse_MemberBar_rfvEmail.validationGroup = "registration";
-p_lt_zoneMembership_Stockhouse_MemberBar_rfvEmail.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
-p_lt_zoneMembership_Stockhouse_MemberBar_rfvEmail.initialvalue = "";
-var p_lt_zoneMembership_Stockhouse_MemberBar_revEmail = document.all ? document.all["p_lt_zoneMembership_Stockhouse_MemberBar_revEmail"] : document.getElementById("p_lt_zoneMembership_Stockhouse_MemberBar_revEmail");
-p_lt_zoneMembership_Stockhouse_MemberBar_revEmail.controltovalidate = "p_lt_zoneMembership_Stockhouse_MemberBar_txtEmail";
-p_lt_zoneMembership_Stockhouse_MemberBar_revEmail.errormessage = "Please enter a valid E-mail address";
-p_lt_zoneMembership_Stockhouse_MemberBar_revEmail.display = "Dynamic";
-p_lt_zoneMembership_Stockhouse_MemberBar_revEmail.validationGroup = "registration";
-p_lt_zoneMembership_Stockhouse_MemberBar_revEmail.evaluationfunction = "RegularExpressionValidatorEvaluateIsValid";
-p_lt_zoneMembership_Stockhouse_MemberBar_revEmail.validationexpression = "^[A-Za-z0-9!#$%&\'*+/=?^_`{|}~-]+(?:\\.[A-Za-z0-9!#$%&\'*+/=?^_`{|}~-]+)*@(?:[A-Za-z0-9](?:[A-Za-z0-9-]*[A-Za-z0-9])?\\.)+[A-Za-z0-9](?:[A-Za-z0-9-]*[A-Za-z0-9])?$";
-var p_lt_zoneMembership_Stockhouse_MemberBar_cvEmail = document.all ? document.all["p_lt_zoneMembership_Stockhouse_MemberBar_cvEmail"] : document.getElementById("p_lt_zoneMembership_Stockhouse_MemberBar_cvEmail");
-p_lt_zoneMembership_Stockhouse_MemberBar_cvEmail.controltovalidate = "p_lt_zoneMembership_Stockhouse_MemberBar_txtEmail";
-p_lt_zoneMembership_Stockhouse_MemberBar_cvEmail.errormessage = "E-mail already exists";
-p_lt_zoneMembership_Stockhouse_MemberBar_cvEmail.display = "Dynamic";
-p_lt_zoneMembership_Stockhouse_MemberBar_cvEmail.validationGroup = "registration";
-p_lt_zoneMembership_Stockhouse_MemberBar_cvEmail.evaluationfunction = "CustomValidatorEvaluateIsValid";
-var p_lt_zoneMembership_Stockhouse_MemberBar_rfvPassword = document.all ? document.all["p_lt_zoneMembership_Stockhouse_MemberBar_rfvPassword"] : document.getElementById("p_lt_zoneMembership_Stockhouse_MemberBar_rfvPassword");
-p_lt_zoneMembership_Stockhouse_MemberBar_rfvPassword.controltovalidate = "p_lt_zoneMembership_Stockhouse_MemberBar_txtPassword";
-p_lt_zoneMembership_Stockhouse_MemberBar_rfvPassword.errormessage = "Please enter a password";
-p_lt_zoneMembership_Stockhouse_MemberBar_rfvPassword.display = "Dynamic";
-p_lt_zoneMembership_Stockhouse_MemberBar_rfvPassword.validationGroup = "registration";
-p_lt_zoneMembership_Stockhouse_MemberBar_rfvPassword.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
-p_lt_zoneMembership_Stockhouse_MemberBar_rfvPassword.initialvalue = "";
-var p_lt_zoneMembership_Stockhouse_MemberBar_cvPassword = document.all ? document.all["p_lt_zoneMembership_Stockhouse_MemberBar_cvPassword"] : document.getElementById("p_lt_zoneMembership_Stockhouse_MemberBar_cvPassword");
-p_lt_zoneMembership_Stockhouse_MemberBar_cvPassword.controltovalidate = "p_lt_zoneMembership_Stockhouse_MemberBar_txtPassword";
-p_lt_zoneMembership_Stockhouse_MemberBar_cvPassword.display = "Dynamic";
-p_lt_zoneMembership_Stockhouse_MemberBar_cvPassword.validationGroup = "registration";
-p_lt_zoneMembership_Stockhouse_MemberBar_cvPassword.evaluationfunction = "CustomValidatorEvaluateIsValid";
-p_lt_zoneMembership_Stockhouse_MemberBar_cvPassword.clientvalidationfunction = "customValidatePassword";
-//]]>
-</script>
+<script src="//ajax.aspnetcdn.com/ajax/knockout/knockout-2.2.1.js"></script>
+<script>
+    (window.ko || document.write("<script src='/stockhouse/js/lib/knockout-2.2.1.js'><\/script>"));
+</script><script src="/stockhouse/js/lib/knockout-2.2.1.js"></script>
 
+<script src="/stockhouse/js/configuration.js?v=d85ee813b6124f55a1624b19a4afe92d"></script>
+
+<script src="/stockhouse/js/stockhouse.js?v=1.0.0.28541"></script>
+
+
+
+    
 
 <script type="text/javascript">
 //<![CDATA[
-(function() {var fn = function() {$get("manScript_HiddenField").value = '';Sys.Application.remove_init(fn);};Sys.Application.add_init(fn);})();//]]>
+(function() {var fn = function() {$get("manScript_HiddenField").value = '';Sys.Application.remove_init(fn);};Sys.Application.add_init(fn);})();
+WebForm_InitCallback();//]]>
 </script>
 
 <script type="text/javascript">
 	//<![CDATA[
-WebServiceCall('http://www.stockhouse.com/CMSPages/WebAnalyticsService.asmx','LogHits', '{"pageGUID":"02babec9-e3f6-4aa0-827b-0b20024462fd", "referrer":"http://www.stockhouse.com/news/press-releases/2013/10/09/diameter-to-map-interworking-ease-migration-to-lte-epc-diameter-signaling-and"}')
+document.pageLoaded = true;
 //]]>
 </script>
 <script type="text/javascript">
 //<![CDATA[
 
-WebForm_InitCallback();
-var Page_ValidationActive = false;
-if (typeof(ValidatorOnLoad) == "function") {
-    ValidatorOnLoad();
-}
-
-function ValidatorOnSubmit() {
-    if (Page_ValidationActive) {
-        return ValidatorCommonOnSubmit();
-    }
-    else {
-        return true;
-    }
-}
-        
 theForm.oldSubmit = theForm.submit;
 theForm.submit = WebForm_SaveScrollPositionSubmit;
 
 theForm.oldOnSubmit = theForm.onsubmit;
 theForm.onsubmit = WebForm_SaveScrollPositionOnSubmit;
-Sys.Application.add_init(function() {
-    $create(Sys.Extended.UI.ModalPopupBehavior, {"BackgroundCssClass":"modal-background","CancelControlID":"p_lt_zoneMembership_Stockhouse_MemberBar_btnSignInCancel","PopupControlID":"p_lt_zoneMembership_Stockhouse_MemberBar_pnlSignIn","dynamicServicePath":"/CMSPages/PortalTemplate.aspx","id":"ModalPopupExtender1"}, null, null, $get("p_lt_zoneMembership_Stockhouse_MemberBar_lnkSignIn"));
-});
-
-document.getElementById('p_lt_zoneMembership_Stockhouse_MemberBar_Login1_rfvUserNameRequired').dispose = function() {
-    Array.remove(Page_Validators, document.getElementById('p_lt_zoneMembership_Stockhouse_MemberBar_Login1_rfvUserNameRequired'));
-}
-Sys.Application.add_init(function() {
-    $create(Sys.UI._UpdateProgress, {"associatedUpdatePanelId":"p_lt_zoneMembership_Stockhouse_MemberBar_UpdatePanel1","displayAfter":500,"dynamicLayout":true}, null, null, $get("p_lt_zoneMembership_Stockhouse_MemberBar_Login1_UpdateProgress2"));
-});
-Sys.Application.add_init(function() {
-    $create(Sys.Extended.UI.ModalPopupBehavior, {"BackgroundCssClass":"modal-background","CancelControlID":"p_lt_zoneMembership_Stockhouse_MemberBar_btnJoinCancel","PopupControlID":"p_lt_zoneMembership_Stockhouse_MemberBar_pnlJoin","dynamicServicePath":"/CMSPages/PortalTemplate.aspx","id":"ModalPopupExtender2"}, null, null, $get("p_lt_zoneMembership_Stockhouse_MemberBar_lnkJoin"));
-});
-
-document.getElementById('p_lt_zoneMembership_Stockhouse_MemberBar_rfvEmail').dispose = function() {
-    Array.remove(Page_Validators, document.getElementById('p_lt_zoneMembership_Stockhouse_MemberBar_rfvEmail'));
-}
-
-document.getElementById('p_lt_zoneMembership_Stockhouse_MemberBar_revEmail').dispose = function() {
-    Array.remove(Page_Validators, document.getElementById('p_lt_zoneMembership_Stockhouse_MemberBar_revEmail'));
-}
-
-document.getElementById('p_lt_zoneMembership_Stockhouse_MemberBar_cvEmail').dispose = function() {
-    Array.remove(Page_Validators, document.getElementById('p_lt_zoneMembership_Stockhouse_MemberBar_cvEmail'));
-}
-
-document.getElementById('p_lt_zoneMembership_Stockhouse_MemberBar_rfvPassword').dispose = function() {
-    Array.remove(Page_Validators, document.getElementById('p_lt_zoneMembership_Stockhouse_MemberBar_rfvPassword'));
-}
-
-document.getElementById('p_lt_zoneMembership_Stockhouse_MemberBar_cvPassword').dispose = function() {
-    Array.remove(Page_Validators, document.getElementById('p_lt_zoneMembership_Stockhouse_MemberBar_cvPassword'));
-}
-Sys.Application.add_init(function() {
-    $create(Sys.UI._UpdateProgress, {"associatedUpdatePanelId":"p_lt_zoneMembership_Stockhouse_MemberBar_UpdatePanel2","displayAfter":500,"dynamicLayout":true}, null, null, $get("p_lt_zoneMembership_Stockhouse_MemberBar_UpdateProgress3"));
-});
 //]]>
 </script>
 </form>
-  <script type="text/javascript"> if (!NREUMQ.f) {NREUMQ.f=function() {NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script"); e.type="text/javascript"; e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" + "js-agent.newrelic.com/nr-100.js"; document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-5.newrelic.com","88d46cb767","2269267","MV0DMUIFChAAVhFRDAgXIDZgSwcOEkUEXwYVFxEKQhAFDxVQCEgPB0wES1EXFBs=",0,62,new Date().getTime(),"4CCB44D6CAD4E512","","","",""]);</script>
+  
+    
+    
 
- 
 
-<script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
+
+
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
