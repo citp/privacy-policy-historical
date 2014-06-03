@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ceo-worldwide.com privacy policy that was archived on 2013-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130917034414id_/http%3A//www.ceo-worldwide.com/privacy.php%3Flang%3DEN) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ceo-worldwide.com privacy policy that was archived on 2014-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140603100008id_/http%3A//www.ceo-worldwide.com/privacy.php) for the most accurate reproduction.*
 
-# Data Protection | Top Executives | Interim Manager | Interim Management | Executive Search | Top Executive Recruitment
+# Data Protection | Top Executive Search | Interim Management | Executive Recruitment
 
 ## Privacy policy and disclaimer
 
-CEO Worldwide is an executive recruitment company with focus on **international executive recruitment, interim management, executive search and Management on Demand™**. In this very data sensitive business we operate a strict privacy policy. If you have any queries regarding our privacy policy, please contact Janet Clark at [ceo@ceo-worldwide.com](mailto:ceo@ceo-europe.com).
+CEO Worldwide is an executive recruitment company with focus on **international executive recruitment, interim management, executive search and Management on Demand™**. In this very data sensitive business we operate a strict privacy policy. If you have any queries regarding our privacy policy, please contact Janet Clark at [ceo@ceo-worldwide.com](mailto:ceo@ceo-worldwide.com).
 
 * * *
 
@@ -37,7 +37,7 @@ Company registration number: 8081967
 
 The submission of all personal or commercial information on the website is purely voluntary. If you supply any personal information (e-mail address, names, postal addresses CV etc.) to the CEO Worldwide international recruitment and _interim management_ service, we ascertain to collect the information fairly; that is, we inform you if we want to pass the information on to a third party, generally within the international recruitment and _interim management_ process. It will never be supplied to anyone outside the company without first obtaining your consent, unless we are obliged by law to disclose it. Access to your personal data is only possible via a password protected portal, whereby it is your responsibility to keep your personal access codes secret. All pages containing sensitive data are secured through an ssl certificate, this means all data will be encrypted before sending.
 
-You have the right to request a copy of the personal information that CEO Worldwide holds on you and to have any inaccuracies corrected. Please address requests to Mr. Oguidi ([karimo@ceo-europe.com](mailto:karimo@ceo-europe.com)). We will provide you with a readable copy of the personal data which we keep on you - please note that we require proof of your identity. The provision of this information is free of charge.
+You have the right to request a copy of the personal information that CEO Worldwide holds on you and to have any inaccuracies corrected. Please address requests to Mr. Oguidi ([karimo@ceo-worldwide.com](mailto:karimo@ceo-worldwide.com)). We will provide you with a readable copy of the personal data which we keep on you - please note that we require proof of your identity. The provision of this information is free of charge.
 
 You can request to have the data erased, rectified, amended and completed.
 
