@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amartsports.com.au privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113193224id_/http%3A//www.amartsports.com.au/helpdesk/the-legal-stuff/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amartsports.com.au privacy policy that was archived on 2014-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140603171319id_/http%3A//www.amartsports.com.au/helpdesk/the-legal-stuff/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Amart Sports
 
@@ -15,6 +15,8 @@ Rebel Group respects your privacy and are committed to handling your personal in
 This privacy policy explains how we manage the personal information we collect about you. Please read this privacy policy before using the site or submitting any personal information. By using this website (the "Site"), you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted on the Site and changes will only apply to activities and information on a going forward, not retroactive, basis. You are encouraged to review the privacy policy whenever you visit the Site to make sure that you understand how any personal information you provide will be used. Your continued use of this Site indicates your acceptance of the privacy policy in place at this time.
 
 Note: the privacy practices set forth in this privacy policy are for the Site only. If you link to other websites, please review the privacy policies posted at those websites.
+
+**To view the full Privacy Policy please click  [SRG_Privacy_Policy.pdf](http://media.supercheapauto.com.au/amart/files/user/SRG_Privacy_Policy.pdf)**
 
 ## Purpose of the Policy
 
