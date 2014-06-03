@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the busuu.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212044541id_/http%3A//www.busuu.com/enc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the busuu.com privacy policy that was archived on 2014-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140604013932id_/http%3A//www.busuu.com/enc/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Online language courses | online language learning with busuu.com
 
@@ -82,4 +82,4 @@ You may obtain a copy of the personal information about you that you provide thr
 
 If you have any questions or suggestions regarding our Privacy Policy, you can contact busuu by email at privacy@busuu.com. 
 
-Last updated: Decmber 2013 
+Last updated: December 2013 
