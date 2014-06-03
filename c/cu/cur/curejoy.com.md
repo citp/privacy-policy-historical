@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the curejoy.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229061245id_/http%3A//www.curejoy.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curejoy.com privacy policy that was archived on 2014-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140603221256id_/http%3A//www.curejoy.com/privacypolicy.htm) for the most accurate reproduction.*
 
-# 
+# CureJoy Privacy Policy
 
 **Privacy Policy**
 
-This Privacy Policy governs the manner in which Blissk Inc collects, uses, maintains and discloses information collected from users (each, a "User") of [www.curejoy.com](http://www.curejoy.com/)  website ("Site"). The website www.curejoy.com is a property of Blissk Inc. This privacy policy applies to the Site and all products and services offered by Blissk Inc.
+This Privacy Policy governs the manner in which Blissk Inc collects, uses, maintains and discloses information collected from users (each, a "User") of [www.curejoy.com](http://www.curejoy.com/)� website ("Site"). The website www.curejoy.com is a property of Blissk Inc. This privacy policy applies to the Site and all products and services offered by Blissk Inc.
 
 **Personal identification information**
 
@@ -22,23 +22,23 @@ Our Site may use "cookies" to enhance User experience. User's web browser places
 
 CureJoy.com may collect and use Users personal information for the following purposes:
 
-·         To improve customer service
+�         To improve customer service
 
 o   Information you provide helps us respond to your customer service requests and support needs more efficiently.
 
-·         To personalize user experience
+�         To personalize user experience
 
 o   We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
 
-·         To improve our Site
+�         To improve our Site
 
 o   We may use feedback you provide to improve our products and services.
 
-·         To process payments
+�         To process payments
 
 o   We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
 
-·         To run a promotion, contest, survey or other Site feature
+�         To run a promotion, contest, survey or other Site feature
 
 o   To send Users information they agreed to receive about topics we think will be of interest to them.
 
@@ -80,7 +80,7 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 **1325 Howard Ave # 419**
 
-**Burlingame, California   94010-4212**
+**Burlingame, California� 94010-4212**
 
 **+91 9945433100**
 
