@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powermatrixgame.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217071739id_/http%3A//www.siemens.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powermatrixgame.com privacy policy that was archived on 2014-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140603181050id_/http%3A//www.siemens.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Siemens Global Website
 
