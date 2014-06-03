@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hellomusic.com privacy policy that was archived on 2013-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131212040332id_/http%3A//www.hellomusic.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hellomusic.com privacy policy that was archived on 2014-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140604014649id_/http%3A//www.hellomusic.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="us_en"><head>
     <meta charset="utf-8">
@@ -19,7 +19,8 @@
     <meta property="og:image" content="">
     <meta property="og:description" content="Hello Music creates daily opportunities for musicians. The best deals anywhere on guitars, home recording gear, microphones, drums, keyboards and studio services. Members only pricing. Join FREE today.">
     <!-- css -->
-    <link href="/css/site1.css?20130731" rel="stylesheet">
+    <link href="/css/site1.css?20140203" rel="stylesheet">
+    <link href="/css/marketplace.css?20140114" rel="stylesheet" type="text/css">
     <link href="/css/info.css" rel="stylesheet" type="text/css">
     <link href="/css/masonarystyle.css" rel="stylesheet" type="text/css">
     <link href="/css/jquery-ui-1.10.1.custom.css" rel="stylesheet">
@@ -34,12 +35,13 @@
     <script type="text/javascript" src="//platform.twitter.com/widgets.js"></script>
     <!--<script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script>-->
     <!-- site -->
-    <script type="text/javascript" src="/js/site.js?20131118"></script>
-    <script type="text/javascript" src="/js/loginjoin.js?20130919"></script>
+    <script type="text/javascript" src="/js/site.js?20140409"></script>
+    <script type="text/javascript" src="/js/loginjoin.js?20140523"></script>
+    <script type="text/javascript" src="/js/marketplace.js?20140523"></script>
     <script src="/js/jquery.masonry.js" type="text/javascript"></script>
     <script src="/js/jquery.nicescroll.js" type="text/javascript"></script>
 </head>
-<body><div id="olark" style="display: none;"><olark><iframe frameborder="0" id="olark-loader"></iframe></olark></div>
+<body>
 
     <!-- facebook javascript sdk -->
     <div id="fb-root"> </div>
@@ -79,8 +81,10 @@
             <!-- <div id="friends-btn">
                 Invite Friends</div> -->
             <!-- <div id="wishlist-btn">Wishlist</div> -->
-            <div id="settings-btn">Settings</div>
+            <div id="list-your-item-btn">List Your Item</div>
+            <div id="manage-listings-btn">Manage Listings</div>
             <div id="order-history-btn">Order History</div>
+            <div id="settings-btn">Settings</div>
             <div id="signout-btn" class="last">Sign Out</div>
         </div>
         <!-- user dropdown menu -->
@@ -103,7 +107,7 @@
     </div>
     <!-- checkout alert -->
     <div id="googleAdTopBanner" style="text-align:center;width:100%;background-color: #fff;">
-        <div class="topAdBanner" style="width:998px;margin: 0px auto;padding-top:5px;">
+        <div class="topAdBanner" style="width:730px;margin: 0px auto;padding-top:5px;display:inline-block">
         <script type="text/javascript"><!--
         google_ad_client = "ca-pub-9574187946304737";
         /* Top Banner */
@@ -115,6 +119,7 @@
         <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
         </script>
         </div>
+        <span id="mpBanner" onclick="goToCreateListing = true; openModal('join');" style="cursor:pointer;width:150px;margin-left:15px;"><img src="/images/mp-banner-top.jpg" height="90"></span>
     </div>
     <!-- header -->
     <div id="header">
@@ -197,6 +202,7 @@
     <li><a href="/support">Support</a></li>
     <li><a href="/terms-of-sale">Terms of Sale</a></li>
     <li><a href="/terms-of-service">Terms of Service</a></li>
+    <li><a href="/marketplace-terms">Marketplace Terms</a></li>
     <li><a href="/warranty">Warranty</a></li>
   </ul>
 </div>
@@ -493,7 +499,7 @@ October 1, 2012.</h2>
     <script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script> 
 
 <!-- begin olark code -->
-<script data-cfasync="false" type="text/javascript">/*<![CDATA[*/window.olark || (function (c) {
+<!--<script data-cfasync="false" type='text/javascript'>/*<![CDATA[*/window.olark || (function (c) {
     var f = window, d = document, l = f.location.protocol == "https:" ? "https:" : "http:", z = c.name, r = "load"; var nt = function () {
         f[z] = function () {
             (a.s = a.s || []).push(arguments)
@@ -537,15 +543,15 @@ October 1, 2012.</h2>
 <!-- end olark code -->
     <script type="text/javascript">
         //display email to chat operator if user is logged in
-        if ($('.topLogoBar-signin-user p').text() != '') {
-            var chatEmail = $.trim($('.topLogoBar-signin-user p').text());
-            olark('api.visitor.updateEmailAddress', { emailAddress: chatEmail });
-        }
+        //if ($('.topLogoBar-signin-user p').text() != '') {
+        //    var chatEmail = $.trim($('.topLogoBar-signin-user p').text());
+        //    olark('api.visitor.updateEmailAddress', { emailAddress: chatEmail });
+        //}
 
 
-        olark('api.chat.onBeginConversation', function () {
-            saveEvent('Chat', 'Chat Started', "");
-        });
+        //olark('api.chat.onBeginConversation', function () {
+        //    saveEvent('Chat', 'Chat Started', "");
+        //});
 
 
         /*olark('api.chat.onOperatorsAway', function () {
@@ -706,5 +712,5 @@ October 1, 2012.</h2>
         }*/
     </script>
 
- <!--Total Time 155.992 milliseconds-->
+ <!--Total Time 140.4081 milliseconds-->
 </body></html>
