@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the midflorida.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202181756id_/https%3A//www.midflorida.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midflorida.com privacy policy that was archived on 2014-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140603094143id_/https%3A//www.midflorida.com/privacy) for the most accurate reproduction.*
 
 # MIDFLORIDA | Privacy Notice
 
@@ -23,10 +23,10 @@ When you are no longer a member, we continue to share your information as descri
 For our everyday business purposes -   
 such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or report to credit bureaus | Yes | No  
 For our marketing purposes -   
-to offer our products and services to you. | No | We don't share  
+to offer our products and services to you. | Yes | No  
 For joint marketing with other financial companies | Yes | No  
 For our affiliates' everyday business purposes -   
-information about your transactions and experiences | No | We don't share  
+information about your transactions and experiences | Yes | No  
 For our affiliates' everyday business purposes -   
 information about your creditworthiness | No | We don't share  
 For nonaffiliates to market to you | No | We don't share  
@@ -63,7 +63,8 @@ State laws and individual companies may give you additional rights to limit shar
 ---|---  
 Affiliates | Companies related by common ownership or control. They can be financial and non-financial companies. 
 
-  * MIDFLORIDA Credit Union does not share with our affiliates.
+  * Our affiliates include: 
+    * Financial companies such as: MIDFLORIDA Insurance Services, LLC.
 
   
 Nonaffiliates | Companies not related by common ownership or control. They can be financial and non-financial companies. 
@@ -73,7 +74,7 @@ Nonaffiliates | Companies not related by common ownership or control. They can b
   
 Joint Marketing | A formal agreement between nonaffiliated financial companies that together market financial products or services to you. 
 
-  * Our joint marketing partners include Securities broker dealers and Insurance companies.
+  * Our joint marketing partners include securities broker dealers and insurance companies.
 
   
   
@@ -81,4 +82,4 @@ Joint Marketing | A formal agreement between nonaffiliated financial companies t
 
 Call toll free (866) 913-3733
 
-##### Revised 03/2010
+##### Revised 02/2014
