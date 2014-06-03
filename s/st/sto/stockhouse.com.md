@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stockhouse.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220081421id_/http%3A//www.stockhouse.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockhouse.com privacy policy that was archived on 2014-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140603024414id_/http%3A//www.stockhouse.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Stockhouse-Privacy Policy
 
@@ -10,7 +10,7 @@ This Privacy Policy applies to Stockhouse Publishing Ltd., its subsidiaries, and
 
 ###  Condensed Version
 
-This condensed verison is a summary of and subject to the "Complete Privacy Policy" and is provided for your convenience only. We encourage you to read the "Complete Privacy Policy" below.
+This condensed version is a summary of and subject to the "Complete Privacy Policy" and is provided for your convenience only. We encourage you to read the "Complete Privacy Policy" below.
 
 ####  Scope
 
@@ -20,7 +20,7 @@ This Privacy Policy applies to personal information collected by Stockhouse and 
 
   * We collect personal information directly from you and will have sought your consent to do this.
   * We collect information such as you name, contact information and/or other information when you register with us, subscribe to our newsletters, submit content to our site, participate in a contest or use our recommendation service. We collect financial information when you place an order for a product or service.
-  * We do not collect personal information about you if you only browse our website. We use cookies so that it is easier for you to use our website. Cookies store information about your preferences, enabling you to take full advantage of our services. For more information, see the "Complete Privacy Policy", under "How do we use IP addresses and cookies?"
+  * We do not collect personal information about you if you only browse our website. We use cookies and other facilities so that it is easier for you to use our website. These mechanisms store information about your preferences, enabling you to take full advantage of our services. For more information, see the "Complete Privacy Policy", under "How do we use IP addresses and cookies, and other tracking facilities?"
 
 
 
@@ -45,13 +45,13 @@ This Privacy Policy applies to personal information collected by Stockhouse and 
 
 ####  How to Contact Us:
 
-If you have any questions about this policy or wish to make a complaint regarding the treatment of your personal information by us you can write to us using the web form located here: <https://support.stockhouse.com/anonymous_requests/new>
+If you have any questions about this policy or wish to make a complaint regarding the treatment of your personal information by us you can write to us using the web form located here: [https://support.stockhouse.com/anonymous_requests/new](https://web.archive.org/web/20140603024414id_/http%3A//www.stockhouse.com/legal/%22https://support.stockhouse.com/anonymous_requests/new%22)
 
 ###  Complete Privacy Policy
 
 Stockhouse Publishing Ltd. takes your privacy seriously. Please read the following to learn more about our privacy policy.
 
-NOTICE: Please visit: <http://www.ftc.gov/bcp/menus/consumer/tech/privacy.shtm> for important information about safe surfing from the U.S. Federal Trade Commission
+NOTICE: Please visit: [http://www.ftc.gov/bcp/menus/consumer/tech/privacy.shtm](https://web.archive.org/web/20140603024414id_/http%3A//www.stockhouse.com/legal/%22http://www.ftc.gov/bcp/menus/consumer/tech/privacy.shtm%22) for important information about safe surfing from the U.S. Federal Trade Commission
 
 This Privacy Policy applies to Stockhouse Publishing Ltd., its subsidiaries, and any of its websites containing the Stockhouse name.
 
@@ -65,7 +65,7 @@ This Privacy Statement answers the following questions:
 
   * What information does Stockhouse Publishing Ltd. gather about you?
   * How does Stockhouse Publishing Ltd. use your personal information?
-  * How do we use "IP addresses" and "cookies"?
+  * How do we use "IP addresses" and "cookies" and other tracking facilities?
   * Will Stockhouse Publishing Ltd. disclose any of your personal information?
   * What kinds of security measures do we take to protect your information from accidental loss or disclosure?
   * Will Stockhouse Publishing Ltd. use your information for direct mailings?
@@ -85,13 +85,13 @@ Stockhouse Publishing Ltd. collects personal and non-personal information about 
 
 If you use our recommendation service to e-mail one of our articles to a friend, you will need to provide us with your friend's e-mail address and your e-mail address as a return address. We will automatically send this person a one-time e-mail, with the recommended article attached, as well as an invite for your friend to visit and register with our site. We will not use these e-mail addresses for any other purpose.
 
-We collect IP addresses for site security and to help us understand how people use our sites so that we can improve our sites and our users' respective experiences. For similar quality reasons, we use a feature known as a "cookie" when you visit our site. A notation may be fed to a file known as a "cookie" in your computer for future reference. If you revisit the site, the "cookie" file allows the website to identify you as a return guest, and offer you products tailored to your interests or tastes. You can set your browser preferences to limit "cookies," or to let you know about "cookies" that a website places on your computer.
+We collect IP addresses for site security and to help us understand how people use our sites so that we can improve our sites and our users' respective experiences. For similar quality reasons, we use cookies and other facilities when you visit our site. Notations may be madein your computer for future reference. If you revisit the site, these notations allow the website to identify you as a return guest, and offer you products tailored to your interests or tastes.
 
 When you place an order for a product or service, we need to know the sort of information typically used for credit card transactions, such as your name (as it appears on the card), mailing and billing addresses (and shipping address, if different), telephone number, and credit card number and expiration date. Gathering this information allows us to process and fulfill your order and notify you of your order status. We encrypt all of this information using Secure Socket Layers (SSL) technology.
 
 We may also collect your e-mail address when you submit content to our sites (for example; blogs, bullboards, or group discussion entries). Unless we get your approval, we will not display your e-mail address with your submission.
 
-Besides cookies, we may also use tiny electronic images (called "single-pixel GIFs" or "Web beacons"), which allow us to count users who have visited specific pages or accessed certain cookies. We may use single-pixel GIFs in the following ways:
+We may also use tiny electronic images (called "single-pixel GIFs" or "Web beacons"), which allow us to count users who have visited specific pages or accessed certain features. We may use single-pixel GIFs in the following ways:
 
   * To count and recognize users
   * To conduct research on behalf of some partners about their websites
@@ -113,9 +113,9 @@ In addition to helping us process your order, we use the information we collect 
 
 Sometimes we ask for personal information when providing special features and services. You do not have to give us that information, but without it, you may not be able to take advantage of those products or services. For example, you will be unable to track your personal stock portfolio on our site unless you input the stocks you own or watch and you may not be able to gain access to certain areas of our site unless you register and/or subscribe.
 
-####  How Do We Use "IP Addresses" and "Cookies"?
+####  How Do We Use "IP Addresses" and "Cookies" and other tracking facilities?
 
-Cookies are used on our sites in the following ways:
+These mechanisms are used on our sites in the following ways:
 
   * To access your stored account information automatically when you log on to our site, in order to deliver better and more personalized service
   * To estimate our audience size and usage patterns. The unique cookie that is given to each browser accessing Stockhouse Publishing Ltd. is then used to determine usage patterns for targeting content and ads based upon user interests
@@ -142,14 +142,14 @@ As for individually identifiable information, we may disclose it only under the 
 
   * We may disclose information to others when we have your consent
   * If you sign up for a special offer from an advertiser, we will provide your individual contact information (for example, name, mailing address, e-mail address, and/or telephone number), so that the advertiser or its agent can fulfill the special offer. Once the advertiser receives the information, it will be subject to that firm's own privacy policies; however, if you do not want a particular advertiser to have your personal information, then you should not sign up for that advertiser's offer
-  * We may disclose information to selected partners, under nondisclosure agreements, only for the purpose of marketing Stockhouse co-branded offerings (such as a "Stockhouse NewsBlast" published by another company, or a "SHfn@The Bell" announcement); those partners will be able to use the personal information they receive from us only for marketing the co-branded offerings, not for marketing anything else - if you would prefer not to hear such announcements, simply go to our opt-out page and let us know
+  * We may disclose information to selected partners, under nondisclosure agreements, only for the purpose of marketing Stockhouse co-branded offerings (such as a "Stockhouse NewsBlast" published by another company, or a "SH@The Bell" announcement); those partners will be able to use the personal information they receive from us only for marketing the co-branded offerings, not for marketing anything else - if you would prefer not to hear such announcements, simply go to our opt-out page and let us know
   * If you buy something from us, we will disclose your personal information to the extent necessary to fulfill your order and if applicable, charge your credit card. We may use a fulfillment company to fill and ship your order (excluding products you download directly from our site) and a credit card processing company to verify your card number and process the transaction. For example, if you order a Stockhouse service with your credit card, we need to give your address to the fulfillment house and your credit card information to the processing company (to confirm payment). We may also give your information to a delivery or postal service so that your order can be delivered to you
   * If you use our recommendation service to e-mail one of our articles to a friend, Stockhouse Publishing Ltd. will automatically send this person a one-time e-mail, with the recommended article attached. The e-mail address you give us will appear on the "from" line of the e-mail, thereby disclosing this information to whoever opens and reads the e-mail. Similarly, if you send e-mail from our site, by using "reply to author" or "e-mail this post," your address may appear as the return address of that e-mail
   * We may disclose your personal information as required by applicable law, or in response to legal process, to protect the rights or property of Stockhouse Publishing Ltd., or to protect the safety of Stockhouse Publishing Ltd., our users, or others
   * We may sometimes conduct mailings to other people's lists. To make it easier for us to comply with the Federal CAN-SPAM Act of 2003 (http://www.ftc.gov/bcp/conline/pubs/buspubs/canspam.shtm), we may share our e-mail list of people who have requested not to receive promotional communications from us with the list providers (or contractors) solely so that we can avoid sending e-mails to people who have asked not to receive them (or, conversely, so that our advertisers can avoid sending e-mail to people who have requested not to hear from them). We provide these lists only to list providers or contractors that we consider to be reputable, and only under strict nondisclosure/nonuse agreements
   * We may disclose personal information in some other limited circumstances, but we will specifically describe them to you when we collect the information, such as in the rules of a contest or a new service. For example, if we are going to give personal information to a contest's sponsor, we will disclose it when you sign up for the contest, so that you can decide if you want to enter
   * We may employ contractors or other third parties to help with our operations. We may give them access to databases of user information, so that they can perform services for us, including performing system maintenance, displaying personalized content (such as portfolios), performing list analysis or management, or sending mailings for us from our advertisers. These parties are all subject to confidentiality agreements that restrict the use and disclosure of information they obtain through their relationship with Stockhouse Publishing Ltd.
-  * The ads appearing on this website are delivered to you by DoubleClick and 24/7, our advertisers. Information about your visits to Stockhouse.com and its related web sites, such as the number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you
+  * The ads appearing on this website are delivered to you by our advertisers. Information about your visits to Stockhouse.com and its related web sites, such as the number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you
   * We may disclose your personal information to another entity as part of a merger, a sale of assets or all or part of our business, or any other corporate change or re-organization
 
   
@@ -161,7 +161,7 @@ Stockhouse Publishing Ltd. is committed to protecting your personal information.
 
 Personalized areas of our sites, such as My Stockhouse, are password-protected. Only you have access to these password-protected areas. Do not share your passwords with anyone. Stockhouse Publishing Ltd. will never ask you for your password in an unsolicited phone call or e-mail. If you are using a computer to which others have access, such as one in a computer lab, Internet cafe, or public library, always remember to log out and close your browser window when leaving our site.
 
-If you have forgotten your passwordyou may recover it by selcting the option "Forgot Password?" on the sign in page.
+If you have forgotten your password you may recover it by selecting the option "Forgot Password?" on the sign in page.
 
 ####  Will Stockhouse Publishing Ltd. Use Your Information for Direct Mailings?
 
@@ -173,14 +173,13 @@ Please note: If you purchase products and/or services from us, or if you registe
 
 ####  How Can You Deactivate Your Account or Edit the Information We Have About You?
 
-If you want to correct or change information in your My Profile, or any other information we have about you, please do so by login into your memberhsip account and selecting your member name ont he right side of hte top member bar and selcting "My Profile" formt he drop down list.
+If you want to correct or change information in your My Profile, or any other information we have about you, please do so by login into your membership account and selecting your member name on the right side of the top member bar and selecting "My Profile" from the drop down list.
 
-To cancel any of your free e-mail subscriptions, do so by login into your memberhsip account and "My Profile" and choosing the "Subscriptions" tab.
+To cancel any of your free e-mail subscriptions, do so by login into your membership account and "My Profile" and choosing the "Subscriptions" tab.
 
 To cancel your account, please contact us using the web form located here: <https://support.stockhouse.com/anonymous_requests/new>
 
-####    
-How Do We Respect Children's Privacy?
+####  How Do We Respect Children's Privacy?
 
 Our sites are not directed at children under the age of 13. We operate our sites in compliance with the Children's Online Privacy Protection Act (<http://www.ftc.gov/ogc/coppa1.htm>) and will not knowingly collect or use personally identifiable information from anyone under 13.
 
@@ -208,4 +207,4 @@ If you have any questions about this Privacy Policy or wish to make a complaint 
 
 We may change this Privacy Statement at any time, but we will give notice of any material change (or any notices that we are required to give you) on our websites and/or in e-mail messages.
 
-Last Updated: June 22, 2013 
+Last Updated: May 2014 
