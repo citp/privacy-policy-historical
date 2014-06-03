@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lindelepalais.com privacy policy that was archived on 2013-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131115012648id_/http%3A//www.lindelepalais.com/en-US/policy%233) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lindelepalais.com privacy policy that was archived on 2014-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140604001543id_/http%3A//www.lindelepalais.com/en-US/policy%233) for the most accurate reproduction.*
 
 # lindelepalais.com :: Policy and more
 
@@ -41,7 +41,10 @@ If you wish to link your web-site to lindelepalais.com, please get in contact wi
 
 **Content advisory**  
 L'INDE is committed in displaying web-site contents devoid of descriptions or representations of violent scenes that might be offensive to civil beliefs, human rights and dignity. L'INDE has also adopted any possible precaution in order to ensure correct and up-to-date information at lindelepalais.com. Yet L'INDE is not responsible for the completeness and accuracy of the information, with the exception of malice and gross negligence. Furthermore, L'INDE cannot guarantee that the web-site can operate with continuity and without errors or bad functioning due to the internet connection. If you need assistance, please write to : customercare@lindelepalais.com . In addition we suggest you to contact you internet services supplier and to make sure that internet is properly connected, browser included.   
-Although L'INDE will try its best to ensure a continuous access to lindelepalais.com, the dynamic nature of the internet and its contents may lead to interruptions useful to update the web-site. L'INDE has adopted technical and organizing measures to safeguard the security of the service provided at lindelepalais.com , the integrity of data related to electronic communication and avoid dispersion, destruction and loss of data and private information, unauthorized or illegal access to such data and information. 
+Although L'INDE will try its best to ensure a continuous access to lindelepalais.com, the dynamic nature of the internet and its contents may lead to interruptions useful to update the web-site. L'INDE has adopted technical and organizing measures to safeguard the security of the service provided at lindelepalais.com , the integrity of data related to electronic communication and avoid dispersion, destruction and loss of data and private information, unauthorized or illegal access to such data and information.
+
+**Promotions  
+** Customers subscribing to the lindelepalais.com newsletter will receive updates on promotions and promo codes which could be used during the check-out process. Every code has a starting and ending date and these time limits cannot be extended, besides discount do not add up if not differently specified.
 
 **Applicable law and disputes**  
 The present General Conditions of Use are regulated by the Italian law.  
