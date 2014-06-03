@@ -1,17 +1,78 @@
-<!--The following is the downloaded HTML source of the healthyhearing.com privacy policy that was archived on 2013-12-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131224073704id_/http%3A//www.healthyhearing.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the healthyhearing.com privacy policy that was archived on 2014-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140603085113id_/http%3A//www.healthyhearing.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 		<meta name="robots" content="NOODP">
 <link href="https://plus.google.com/117022787528839735615" rel="publisher">
-<meta name="p:domain_verify" content="d7d2c0d4f92b89acb324b6f8b44dfafa">
+<meta name="p:domain_verify" content="c6287206e7bc712870e96614ace435f6">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>Healthy Hearing Privacy Policy</title><meta name="description" content="Except as set forth in this Privacy Policy or as specifically agreed to by you, HealthyHearing.com will not disclose any Personally Identifiable Information it gathers from you on our website."><link rel="stylesheet" type="text/css" href="/css/screen-base.css"><link rel="stylesheet" type="text/css" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/themes/base/jquery-ui.css"><link rel="canonical" href="http://www.healthyhearing.com/privacy-policy">			</head>
 
 	<body>
+		<!-- Google Tag Manager -->
+<noscript>
+	<iframe src="//www.googletagmanager.com/ns.html?id=GTM-P2V6GQ" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-P2V6GQ"></script><script type="text/javascript">
+(function(w,d,s,l,i){
+	w[l]=w[l]||[];
+	w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});
+	var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';
+	j.async=true;
+	j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;
+	f.parentNode.insertBefore(j,f);
+})
+(window,document,'script','dataLayer','GTM-P2V6GQ');
+
+function myLog(msg) {
+	try {
+		console.log(msg);
+	}
+	// fail gracefully if it does not exist
+	catch(e){}
+}
+
+//List of data pushes pushed in this request
+dataLayer.dataPushes = [];
+dataLayer.hhDebugging = 0;
+
+//Abstract push of data to push, creates log for us.
+dataLayer.hhPush = function(dataToPush) {
+	if (this.hhDebugging) {
+		myLog(dataToPush);
+	}
+	this.dataPushes.push(dataToPush); //keeps track of pushes
+	this.push(dataToPush); //Actual push
+}
+
+//abstract datafunction to use much easier than the given function
+dataLayer.hhTrackEvent = function(category, action, label, value, nonInt) {
+	//Setting Defaults
+	label = label || document.location.pathname;
+	value = value || null;
+	nonInt = nonInt || null;
+
+	var dataToPush = {
+		"event" : "fire-ga-event",
+		"eventCat" : category,
+		"eventAction" : action,
+		"eventLabel" : label
+	};
+	if (value) {
+		dataToPush.eventValue = value;
+	}
+	if (nonInt) {
+		dataToPush.eventNonInt = 'true';
+	}
+	this.hhPush(dataToPush);
+}
+</script>
+<!-- End Google Tag Manager -->
 		<div id="container">
 	<div id="header" class="container site-header">
 		<div id="logo" class="site-logo" itemscope="" itemtype="http://schema.org/Organization">
 			<a href="/" itemprop="url"><img src="/images/HH_logo.gif" alt="Healthy Hearing: Your Hearing Aid Information Source" itemprop="logo"></a>		</div>
+		<div class="test-badge">
+			<a href="/help/online-hearing-test"><img src="/img/online_hearing_test_badge_sm.png" alt=""></a>		</div>
 		<div id="header_features" class="site-features">
 			<div class="pull-right mb0 ml20 well p5">
 				<small class="mr5">Text Size</small>
@@ -19,7 +80,7 @@
 				<a class="btn btn-small" style="padding:2px;" href="#" id="larger_text"><i class="icon-plus"></i></a>
 			</div>
 			<div class="pull-right mt5">
-				<div class="pull-right icon google mr5"><a href="https://plus.google.com/117022787528839735615?prsrc=3" target="_blank"><img src="/img/icons/google-plus.png" alt=""></a></div>
+				<div class="pull-right icon google mr5"><a href="https://plus.google.com/+HealthyHearing" target="_blank"><img src="/img/icons/google-plus.png" alt=""></a></div>
 				<div class="pull-right icon twitter mr5"><a href="https://twitter.com/hearingaids" target="_blank"><img src="/img/icons/twitter.png" alt=""></a></div>
 				<div class="pull-right icon facebook mr5"><a href="https://www.facebook.com/healthyhearing" target="_blank"><img src="/img/icons/facebook.png" alt=""></a></div>
 				<div class="pull-right mr5">
@@ -85,8 +146,14 @@
 									<li><a href="/help/hearing-aids/repairs">Repairs</a></li>
 									<li><a href="/help/hearing-aids/batteries">Batteries</a></li>
 									<li><a href="/help/hearing-aids/accessories">Accessories</a></li>
-									<li><a href="/hearing-aid-manufacturers">Hearing Aid Manufacturers</a>				</li></ul>
+									<li><a href="/help/hearing-aids/children">Children</a></li>
+									<li><a href="/help/hearing-aids/cochlear-implants">Cochlear Implants</a></li>
+								</ul>
 			</li>
+		</ul>
+		
+		<ul class="dropdown-list">
+			<li><a href="/hearing-aid-manufacturers">Hearing Aid Manufacturers</a></li>
 		</ul>
 		
 		<ul class="dropdown-list">
@@ -104,16 +171,16 @@
 		<blockquote>Visit our Hearing Help pages on <strong>hearing aids</strong> and <strong>assistive listening devices</strong> for individuals with hearing loss and for their loved ones. Select your area of interest on the left or visit the <a href="/help">Healthy Hearing Help Pages</a> to see our entire listing of helpful hearing topics.</blockquote>
 				<h4>Latest Hearing Aid Articles</h4>
 		<div class="well line-height-tight">
-					<h5 class="mt0"><a href="/report/51686-Prevent-falls-due-to-untreated-hearing-loss-this-winter">Prevent falls due to untreated hearing loss this winter</a></h5>
-			<p><small>Snowy winter weather can be both beautiful and burdensome, depending upon your perspective. But for people with hearing loss, icy and snowy conditions can be especially concerning. <a href="/report/51686-Prevent-falls-due-to-untreated-hearing-loss-this-winter">Read More</a></small></p>
-					<h5 class="mt0"><a href="/report/51681-Ken-martin-audiology-hearing-center-interview">Ken Martin Audiology | Hearing Center Interview</a></h5>
-			<p><small>Generations of family members fondly call this full-service audiology practice ‘home’ for their hearing healthcare needs. <a href="/report/51681-Ken-martin-audiology-hearing-center-interview">Read More</a></small></p>
+					<h5 class="mt0"><a href="/report/52124-Summertime-accessories-for-your-hearing-aid">Summertime accessories for your hearing aid</a></h5>
+			<p><small>Summertime presents a boatload of opportunities for outdoor and recreational activities. Fortunately, there are options available to protect your hearing aid while you pursue an active lifestyle. <a href="/report/52124-Summertime-accessories-for-your-hearing-aid">Read More</a></small></p>
+					<h5 class="mt0"><a href="/report/52104-A-pop-quiz-for-your-hearing-aid">A pop quiz for your hearing aid</a></h5>
+			<p><small>You might already have hearing aids, but that doesn't mean you should stop checking your hearing. <a href="/report/52104-A-pop-quiz-for-your-hearing-aid">Read More</a></small></p>
 				</div>
 		
 				<h4>Latest Assistive Listening Devices Article</h4>
 		<div class="well line-height-tight">
-						<h5 class="mt0"><a href="/report/51680-More-holiday-gift-ideas-for-hard-of-hearing-individuals">More holiday gift ideas for hard-of-hearing individuals</a></h5>
-			<p><small>If you have a family member or friend who has hearing loss, treat him or her to something special during the holidays. <a href="/report/51680-More-holiday-gift-ideas-for-hard-of-hearing-individuals">Read More</a></small></p>
+						<h5 class="mt0"><a href="/report/51878-Is-your-loved-one-ready-for-hearing-aids">Is your loved one ready for hearing aids?</a></h5>
+			<p><small>If you've noticed your loved one has hearing loss, it doesn't necessarily mean he or she is ready to get hearing aids. There are important signs to look for when considering hearing aids.  <a href="/report/51878-Is-your-loved-one-ready-for-hearing-aids">Read More</a></small></p>
 		</div>
 	</div>
 </div>
@@ -125,11 +192,14 @@
 	<div class="span20percent">
 		<ul class="dropdown-list">
 			<li><a href="/help/hearing-loss">Hearing Loss</a>				<ul>
+									<li><a href="/help/hearing-loss/types">Types</a></li>
 									<li><a href="/help/hearing-loss/symptoms">Symptoms</a></li>
 									<li><a href="/help/hearing-loss/treatment">Treatment</a></li>
 									<li><a href="/help/hearing-loss/causes">Causes</a></li>
+									<li><a href="/help/hearing-loss/noise">Noise</a></li>
 									<li><a href="/help/hearing-loss/prevention">Prevention</a></li>
 									<li><a href="/help/hearing-loss/tests">Tests</a></li>
+									<li><a href="/help/hearing-loss/children">Children</a></li>
 								</ul>
 			</li>
 		</ul>
@@ -138,9 +208,9 @@
 		<blockquote>Visit our Hearing Help pages on <strong>hearing loss</strong> for individuals with hearing loss and for their loved ones. Select your area of interest on the left or visit the <a href="/help">Healthy Hearing Help Pages</a> to see our entire listing of helpful hearing topics.</blockquote>
 				<h4>Latest Hearing Loss Article</h4>
 		<div class="well line-height-tight">
-			<h5 class="mt0"><a href="/report/51690-Holidays-and-noise-hidden-dangers">Holidays and noise: Hidden dangers</a></h5>
+			<h5 class="mt0"><a href="/report/52126-A-summer-reading-list-for-hard-of-hearing-individuals">A summer reading list for hard-of-hearing individuals</a></h5>
 
-			<p><small>The holidays are a time of wonderful noises, like sleigh bells and laughter. But even some holiday events meant to be fun can expose you to noise-induced hearing loss if you're not careful. <a href="/report/51690-Holidays-and-noise-hidden-dangers">Read More</a></small></p>
+			<p><small>Whether you have normal hearing or are hearing-impaired, there's something to appeal to readers of all ages.  <a href="/report/52126-A-summer-reading-list-for-hard-of-hearing-individuals">Read More</a></small></p>
 		</div>
 	</div>
 </div>
@@ -167,9 +237,9 @@
 		<blockquote>Visit our Hearing Help pages on <strong>tinnitus</strong> for individuals with hearing loss and for their loved ones. Select your area of interest on the left or visit the <a href="/help">Healthy Hearing Help Pages</a> to see our entire listing of helpful hearing topics.</blockquote>
 				<h4>Latest Tinnitus Article</h4>
 		<div class="well line-height-tight">
-			<h5 class="mt0"><a href="/report/51690-Holidays-and-noise-hidden-dangers">Holidays and noise: Hidden dangers</a></h5>
+			<h5 class="mt0"><a href="/report/52029-Tinnitus-the-ringing-in-your-ears">Tinnitus: The ringing in your ears</a></h5>
 
-			<p><small>The holidays are a time of wonderful noises, like sleigh bells and laughter. But even some holiday events meant to be fun can expose you to noise-induced hearing loss if you're not careful. <a href="/report/51690-Holidays-and-noise-hidden-dangers">Read More</a></small></p>
+			<p><small>If you suffer from a constant ringing in your ears, you're not crazy. Tinnitus is a condition that affects millions of Americans and can often be treated. <a href="/report/52029-Tinnitus-the-ringing-in-your-ears">Read More</a></small></p>
 		</div>
 	</div>
 </div>
@@ -178,69 +248,105 @@
 				<li class="dropdown">
 					<a href="/free-guide" class="dropdown-toggle" data-hover="dropdown" data-toggle="dropdown">Consumer Guides <b class="caret"></b></a>
 <div class="dropdown-menu p20">
-	<div class="overflow-hidden"><div class="span1">
-				<div class="thumbnails">
-					<div class="thumbnail">
-						<a href="/free-guide/loved-one"><img src="/img/guide_thumbnails/hearing_and_your_loved_ones.png"></a>
+	<div class="overflow-hidden">
+			<div class="span gray-background-hover guide-block">
+				<a href="/free-guide/loved-one" class="span guide-link">
+					<div class="span1">
+						<div class="thumbnails">
+							<div class="thumbnail">
+								<img src="/img/guide_thumbnails/hearing_and_your_loved_ones.png">
+							</div>
+						</div>
 					</div>
-				</div>
-			</div>
-			<div class="span2">
-				<p class="line-height-tight"><strong>Hearing and Your Loved Ones</strong></p>
-				<p><small><a href="/free-guide/loved-one">Download Free Guide</a></small></p>
-			</div><div class="span1 offset1">
-				<div class="thumbnails">
-					<div class="thumbnail">
-						<a href="/free-guide/advanced-hearing-aids"><img src="/img/guide_thumbnails/types_of_hearing_aids.png"></a>
+					<div class="span2">
+						<p class="line-height-tight"><strong>Hearing and Your Loved Ones</strong></p>
+						<p><small>Download Free Guide</small></p>
 					</div>
-				</div>
+				</a>
 			</div>
-			<div class="span2">
-				<p class="line-height-tight"><strong>Types of Hearing Aids &amp; Advanced Hearing Aid Technology</strong></p>
-				<p><small><a href="/free-guide/advanced-hearing-aids">Download Free Guide</a></small></p>
-			</div><div class="span1 offset1">
-				<div class="thumbnails">
-					<div class="thumbnail">
-						<a href="/free-guide/treatment"><img src="/img/guide_thumbnails/hearing_loss_and_treatment_symptoms_of_hearing_loss.png"></a>
+			
+			<div class="span gray-background-hover guide-block">
+				<a href="/free-guide/advanced-hearing-aids" class="span guide-link">
+					<div class="span1">
+						<div class="thumbnails">
+							<div class="thumbnail">
+								<img src="/img/guide_thumbnails/types_of_hearing_aids.png">
+							</div>
+						</div>
 					</div>
-				</div>
+					<div class="span2">
+						<p class="line-height-tight"><strong>Types of Hearing Aids &amp; Advanced Hearing Aid Technology</strong></p>
+						<p><small>Download Free Guide</small></p>
+					</div>
+				</a>
 			</div>
-			<div class="span2">
-				<p class="line-height-tight"><strong>Hearing Loss and Treatment – Symptoms of Hearing Loss &amp; Treatment Options</strong></p>
-				<p><small><a href="/free-guide/treatment">Download Free Guide</a></small></p>
-			</div></div>
+			
+			<div class="span gray-background-hover guide-block">
+				<a href="/free-guide/treatment" class="span guide-link">
+					<div class="span1">
+						<div class="thumbnails">
+							<div class="thumbnail">
+								<img src="/img/guide_thumbnails/hearing_loss_and_treatment_symptoms_of_hearing_loss.png">
+							</div>
+						</div>
+					</div>
+					<div class="span2">
+						<p class="line-height-tight"><strong>Hearing Loss and Treatment – Symptoms of Hearing Loss &amp; Treatment Options</strong></p>
+						<p><small>Download Free Guide</small></p>
+					</div>
+				</a>
+			</div>
+			</div>
 			<div class="clear"></div>
-			<hr><div class="overflow-hidden"><div class="span1">
-				<div class="thumbnails">
-					<div class="thumbnail">
-						<a href="/free-guide/anatomy"><img src="/img/guide_thumbnails/how_do_we_hear_anatomy_of_the_ear_and_how_we_hear.png"></a>
+			<hr class="m10"><div class="overflow-hidden">
+			<div class="span gray-background-hover guide-block">
+				<a href="/free-guide/anatomy" class="span guide-link">
+					<div class="span1">
+						<div class="thumbnails">
+							<div class="thumbnail">
+								<img src="/img/guide_thumbnails/how_do_we_hear_anatomy_of_the_ear_and_how_we_hear.png">
+							</div>
+						</div>
 					</div>
-				</div>
-			</div>
-			<div class="span2">
-				<p class="line-height-tight"><strong>How Do We Hear – Anatomy of the Ear and How We Hear</strong></p>
-				<p><small><a href="/free-guide/anatomy">Download Free Guide</a></small></p>
-			</div><div class="span1 offset1">
-				<div class="thumbnails">
-					<div class="thumbnail">
-						<a href="/free-guide/hearing-loss"><img src="/img/guide_thumbnails/understanding_your_audiogram_and_the_types_of_hearing_loss.png"></a>
+					<div class="span2">
+						<p class="line-height-tight"><strong>How Do We Hear – Anatomy of the Ear and How We Hear</strong></p>
+						<p><small>Download Free Guide</small></p>
 					</div>
-				</div>
+				</a>
 			</div>
-			<div class="span2">
-				<p class="line-height-tight"><strong>Understanding Your Audiogram and the Types of Hearing Loss</strong></p>
-				<p><small><a href="/free-guide/hearing-loss">Download Free Guide</a></small></p>
-			</div><div class="span1 offset1">
-				<div class="thumbnails">
-					<div class="thumbnail">
-						<a href="/free-guide"><img src="/img/guide_thumbnails/healthyhearing_comprehensive_guide_get_happy_0710.png"></a>
+			
+			<div class="span gray-background-hover guide-block">
+				<a href="/free-guide/hearing-loss" class="span guide-link">
+					<div class="span1">
+						<div class="thumbnails">
+							<div class="thumbnail">
+								<img src="/img/guide_thumbnails/understanding_your_audiogram_and_the_types_of_hearing_loss.png">
+							</div>
+						</div>
 					</div>
-				</div>
+					<div class="span2">
+						<p class="line-height-tight"><strong>Understanding Your Audiogram and the Types of Hearing Loss</strong></p>
+						<p><small>Download Free Guide</small></p>
+					</div>
+				</a>
 			</div>
-			<div class="span2">
-				<p class="line-height-tight"><strong>Healthy Hearing Comprehensive Guide</strong></p>
-				<p><small><a href="/free-guide">Download Free Guide</a></small></p>
-			</div></div>
+			
+			<div class="span gray-background-hover guide-block">
+				<a href="/free-guide" class="span guide-link">
+					<div class="span1">
+						<div class="thumbnails">
+							<div class="thumbnail">
+								<img src="/img/guide_thumbnails/healthyhearing_comprehensive_guide_get_happy_0710.png">
+							</div>
+						</div>
+					</div>
+					<div class="span2">
+						<p class="line-height-tight"><strong>Healthy Hearing Comprehensive Guide</strong></p>
+						<p><small>Download Free Guide</small></p>
+					</div>
+				</a>
+			</div>
+			</div>
 				</div></li>
 
 			</ul>
@@ -250,8 +356,10 @@
 <div class="container">
 	<div id="flash-message">
 			</div>
-</div>
-		<div id="category_content" class="container white-background mt20">
+</div>		
+		<div class="container mt10"><a href="/ads/click/125" rel="nofollow" class="" title="Oticon Alta" target="_blank"><img src="/ad/Alta940x75_ad3a.gif" alt="Oticon Alta" border="0" width="940px" height="75px"></a></div>
+
+		<div id="category_content" class="container white-background mt10">
 			
 			<div id="left_column" class="left-column width-620">
 								<div class="p20">
@@ -333,31 +441,34 @@ Los Angeles, CA 90051-6681<br>
 			</div>
 
 			<div id="right_column" class="right-column width-300">
-							<div class="ribbon310r"><span>Preferred Professionals Near You</span></div>		<div id="preferred" class="pl20 pt10 pb10 brdr-b">
+					
+			<div class="ribbon310r"><span>Preferred Professionals Near You</span></div>		<div id="preferred" class="pl20 pt10 pb10 brdr-b">
 			<img src="/images/preferred.png">
 		</div>
 					<div class="pl20 pr20 pt10 pb10 brdr-b gray-background gray-background-hover">
-				<a href="/hearing-aids/CA-California/Tarzana/91356/16995-Universal-Hearing-Care" class="no-link"><h4 class="m0">Universal Hearing Care</h4><p>5525 Etiwanda Ave Ste 309<br>Tarzana, CA 91356</p><p></p><p class="m0 btn btn-primary btn-mini">Clinic Details</p></a>			</div>
+				<a href="/hearing-aids/CA-California/San-Rafael/94903/514012-Whisper-Hearing-Center-San-Rafael" class="no-link"><h4 class="m0">Whisper Hearing Center - San Rafael</h4><p>750 Las Gallinas Ave Ste 103<br>San Rafael, CA 94903</p><p></p><p class="m0 btn btn-primary btn-mini">Clinic Details</p></a>			</div>
 					<div class="pl20 pr20 pt10 pb10 brdr-b gray-background gray-background-hover">
-				<a href="/hearing-aids/CA-California/Northridge/91330/503041-California-State-University" class="no-link"><h4 class="m0">California State University</h4><p>18111 Nordhoff St Mont Hall<br>Northridge, CA 91330</p><p></p><p class="m0 btn btn-primary btn-mini">Clinic Details</p></a>			</div>
+				<a href="/hearing-aids/CA-California/Greenbrae/94904/8119025582-Whisper-Hearing-Center-Greenbrae" class="no-link"><h4 class="m0">Whisper Hearing Center - Greenbrae</h4><p>350 Bon Air Rd Ste 100<br>Greenbrae, CA 94904</p><p></p><p class="m0 btn btn-primary btn-mini">Clinic Details</p></a>			</div>
 					<div class="pl20 pr20 pt10 pb10 brdr-b gray-background gray-background-hover">
-				<a href="/hearing-aids/CA-California/Santa-Monica/90404/505900130-Ocean-Hearing-Care" class="no-link"><h4 class="m0">Ocean Hearing Care</h4><p>1919 Santa Monica Blvd Ste 385<br>Santa Monica, CA 90404</p><p></p><p class="m0 btn btn-primary btn-mini">Clinic Details</p></a>			</div>
+				<a href="/hearing-aids/CA-California/Daly-City/94015/8119024343-Hearing-Science-Of-Daly-City" class="no-link"><h4 class="m0">Hearing Science Of Daly City</h4><p>333 Gellert Blvd Ste 118<br>Daly City, CA 94015</p><p></p><p class="m0 btn btn-primary btn-mini">Clinic Details</p></a>			</div>
 					<div class="pl20 pr20 pt10 pb10 brdr-b gray-background gray-background-hover">
-				<a href="/hearing-aids/CA-California/Beverly-Hills/90211/501025-Hearing-Help-Providers" class="no-link"><h4 class="m0">Hearing Help Providers</h4><p>437 S Robertson Blvd Attn: Colleen Moryl<br>Beverly Hills, CA 90211</p><p></p><p class="m0 btn btn-primary btn-mini">Clinic Details</p></a>			</div>
+				<a href="/hearing-aids/CA-California/San-Francisco/94115/507019-Audiological-Services-Of-San-Francisco" class="no-link"><h4 class="m0">Audiological Services of San Francisco</h4><p>3150 California St Ste 1<br>San Francisco, CA 94115</p><p></p><p class="m0 btn btn-primary btn-mini">Clinic Details</p></a>			</div>
 					<div class="pl20 pr20 pt10 pb10 brdr-b gray-background gray-background-hover">
-				<a href="/hearing-aids/CA-California/Los-Angeles/90048/513501002-The-Towers-Audiology-Center" class="no-link"><h4 class="m0">The Towers Audiology Center</h4><p>8631 W 3rd St Ste 312<br>Los Angeles, CA 90048</p><p></p><p class="m0 btn btn-primary btn-mini">Clinic Details</p></a>			</div>
+				<a href="/hearing-aids/CA-California/San-Francisco/94115/519088-Hearing-And-Speech-Center-Of-Northern-California" class="no-link"><h4 class="m0">Hearing and Speech Center of Northern California</h4><p>1234 Divisadero St<br>San Francisco, CA 94115</p><p></p><p class="m0 btn btn-primary btn-mini">Clinic Details</p></a>			</div>
 					<div class="pl20 pr20 pt10 pb10 brdr-b gray-background gray-background-hover">
-				<a href="/hearing-aids/CA-California/Beverly-Hills/90211/8119024619-Balance-Disorders-Institute" class="no-link"><h4 class="m0">Balance Disorders Institute</h4><p>50 N La Cienega Blvd Ste 201<br>Beverly Hills, CA 90211</p><p></p><p class="m0 btn btn-primary btn-mini">Clinic Details</p></a>			</div>
+				<a href="/hearing-aids/CA-California/San-Francisco/94118/522024-Hearing-Low-Vision-Solutions" class="no-link"><h4 class="m0">Hearing &amp; Low Vision Solutions</h4><p>5138 Geary Blvd<br>San Francisco, CA 94118</p><p></p><p class="m0 btn btn-primary btn-mini">Clinic Details</p></a>			</div>
 					<div class="pl20 pr20 pt10 pb10 brdr-b gray-background gray-background-hover">
-				<a href="/hearing-aids/CA-California/Los-Angeles/90048/501511-Audio-Rx-Hearing-Services-Wilshire" class="no-link"><h4 class="m0">Audio Rx Hearing Services - Wilshire</h4><p>6333 Wilshire Blvd Ste 309<br>Los Angeles, CA 90048</p><p></p><p class="m0 btn btn-primary btn-mini">Clinic Details</p></a>			</div>
+				<a href="/hearing-aids/CA-California/San-Francisco/94108/521222-San-Francisco-Audiology" class="no-link"><h4 class="m0">San Francisco Audiology</h4><p>450 Sutter St Rm 934<br>San Francisco, CA 94108</p><p></p><p class="m0 btn btn-primary btn-mini">Clinic Details</p></a>			</div>
 				<div class="m20">
-			<a href="/hearing-aids/CA-California/Tarzana" class="btn btn-primary btn-small mb10">See More Preferred Professionals</a><br>
+			<a href="/hearing-aids/CA-California/San-Rafael" class="btn btn-primary btn-small mb10">See More Preferred Professionals</a><br>
 						<p>
 				<strong>Clinics above not close enough?<br>
 				Search with your zipcode below.</strong>
 			</p>
 					</div>
-					<div style="clear:both;"></div>
+		
+		
+				<div style="clear:both;"></div>
 				<div id="map_search">
 					<div class="ribbon310r"><span>Find Hearing Professionals Near You</span></div>
 					<form action="/search" id="FapMegaSearch" class="" method="post" accept-charset="utf-8"><div style="display:none;"><input type="hidden" name="_method" value="POST"></div><input type="hidden" name="data[Location][search_id]" value="" id="LocationSearchId">	<input name="data[Location][search]" class="clear_default no-focus search_input" value="Enter Your City, State or Zip Code" id="LocationSearch" type="text">	<div class="tar">
@@ -377,8 +488,6 @@ Los Angeles, CA 90051-6681<br>
 </div>
 
 				
-				<p><a href="/virtual-seminar"><img src="/images/virtual_small.gif" alt=""></a></p>
-
 			</div>
 			<div style="clear:both;"></div>
 
@@ -402,12 +511,12 @@ Los Angeles, CA 90051-6681<br>
 </div>
 
 		<div class="clear"></div>
+	<div class="container footer">
+		<div class="ribbon960"><span></span></div>	</div>
 	<div id="footer" class="footer overflow-hidden container">
-				<div id="discover">
-			<a href="/ads/click/125" class="" title="Oticon Alta" target="_blank" onclick="pageTracker._trackEvent('OtiBannerClicks','ClickBanner_125',document.location.pathname)"><img src="/ad/Alta940x75_ad3a.gif" alt="Oticon Alta" border="0" width="940px" height="75px"></a>		</div>
-							<div class="mt20 mb20 row pl20">
-				<div class="span2">
-					<div class="pr20 brdr-r" style="height:220px;">
+					<div class="row pl20">
+				<div class="span2-3">
+					<div class="pr20 brdr-r" style="height:175px;">
 						<h6 class="blue-text">Healthy Hearing</h6>
 							<ul class="nav nav-footer">
 							<li><a href="/">Home</a></li>
@@ -419,20 +528,20 @@ Los Angeles, CA 90051-6681<br>
 						</ul>
 					</div>
 				</div>
-				<div class="span2">
-					<div class="pr20 brdr-r" style="height:220px;">
+				<div class="span3">
+					<div class="pr20 brdr-r" style="height:175px;">
 						<h6 class="blue-text">Learn More</h6>
 							<ul class="nav nav-footer">
 							<li><a href="/help">Hearing Help</a></li>
 							<li><a href="/report">The HH Report</a></li>
 							<li><a href="/free-guide">Free Guides</a></li>
 							<li><a href="/feeds">RSS Feeds</a></li>
-							<li><a href="/newsletter">Subscribe to Email <br> Newsletters</a></li>
+							<li><a href="/newsletter">Subscribe to Email Newsletters</a></li>
 						</ul>
 					</div>
 				</div>
-				<div class="span2">
-					<div class="pr20 brdr-r" style="height:220px;">
+				<div class="span2-3">
+					<div class="pr20 brdr-r" style="height:175px;">
 						<h6 class="blue-text">Find A Professional</h6>
 							<ul class="nav nav-footer">
 							<li><a href="/hearing-aids">Browse By State</a></li>
@@ -459,27 +568,27 @@ Los Angeles, CA 90051-6681<br>
 							<ul class="nav nav-footer">
 								<li><a href="/siemens-hearing-aids">Siemens</a></li>
 								<li><a href="/phonak-hearing-aids">Phonak</a></li>
+								<li><a href="/widex-hearing-aids">Widex</a></li>
 								<li><a href="/beltone-hearing-aids">Beltone</a></li>
 								<li><a href="/sonic-innovations-hearing-aids">Sonic Innovations</a></li>
 								<li><a href="/bernafon-hearing-aids">Bernafon</a></li>
-								<li><a href="/vivatone-hearing-aids">Vivatone</a></li>
 								<li><a href="/cochlear-americas-cochlear-implants" style="width: 300px;">Cochlear Americas</a></li>
 							<ul>
 						</ul></ul></div>
 					</div>
 				</div>
 				<div style="clear:both;"></div>
-
-
 			</div>
 			<div class="row">
-				<div class="span4">
-					<div class="pl20">
-						<img src="/images/hh_footer_logo.png" alt="">					</div>
+				<div class="span7">
+					<div class="pl10 pt5">
+						<img src="/img/hh_footer_logo.png" alt="">											</div>
 				</div>
+			</div>
+			<div class="row">
 				<div class="span8">
-					<div class="copyright tar pt30 pr20">
-						<p><small>© Copyright 2013. HealthyHearing.com does not provide medical advice, diagnosis or treatment.</small></p>
+					<div class="pl20">
+						<p><small>© Copyright 2014. HealthyHearing.com does not provide medical advice, diagnosis or treatment.</small></p>
 					</div>
 				</div>
 			</div>			</div>
@@ -496,20 +605,14 @@ google.load('jqueryui','1')
 google.load('swfobject','2.2')
 //]]>
 </script><script type="text/javascript" src="/js/jquery.cookie.js"></script><script type="text/javascript" src="/js/jquery.class.js"></script><script type="text/javascript" src="/js/app.js"></script><script type="text/javascript" src="/js/bootstrap.min.js"></script><script type="text/javascript" src="/js/jqvmap/jquery.vmap.min.js"></script><script type="text/javascript" src="/js/jqvmap/jquery.vmap.usa.js"></script><script type="text/javascript">
-	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-	document.write(unescape("%3Cscript src=\'" + gaJsHost + "google-analytics.com/ga.js\' type=\'text/javascript\'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-
-<script type="text/javascript">
 	try{
-		var pageTracker = _gat._getTracker('UA-19967218-1');
-		pageTracker._setSiteSpeedSampleRate(50);
-		
-		pageTracker._trackPageview();
-	}catch(e){
+		var customVars = {
+			"event" : "set-cvs"
+		};
+			}catch(e){
 		//console.error("GA Track",e);
-	}	
-	try{setTimeout('pageTracker._trackEvent("onPage", "5", document.location.pathname, 5, true);',5500);setTimeout('pageTracker._trackEvent("onPage", "11", document.location.pathname, 6, true);',11500);setTimeout('pageTracker._trackEvent("onPage", "16", document.location.pathname, 5, false);',16500);setTimeout('pageTracker._trackEvent("onPage", "31", document.location.pathname, 15, false);',31500);setTimeout('pageTracker._trackEvent("onPage", "36", document.location.pathname, 5, false);',36500);setTimeout('pageTracker._trackEvent("onPage", "61", document.location.pathname, 25, false);',61500);setTimeout('pageTracker._trackEvent("onPage", "66", document.location.pathname, 5, false);',66500);setTimeout('pageTracker._trackEvent("onPage", "181", document.location.pathname, 115, false);',181500);setTimeout('pageTracker._trackEvent("onPage", "186", document.location.pathname, 5, false);',186500);setTimeout('pageTracker._trackEvent("onPage", "601", document.location.pathname, 415, false);',601500);setTimeout('pageTracker._trackEvent("onPage", "606", document.location.pathname, 5, false);',606500);setTimeout('pageTracker._trackEvent("onPage", "901", document.location.pathname, 295, false);',901500);setTimeout('pageTracker._trackEvent("onPage", "1201", document.location.pathname, 300, false);',1201500);setTimeout('pageTracker._trackEvent("onPage", "1501", document.location.pathname, 300, false);',1501500);setTimeout('pageTracker._trackEvent("onPage", "1801", document.location.pathname, 300, false);',1801500);setTimeout('pageTracker._trackEvent("onPage", "2101", document.location.pathname, 300, false);',2101500);setTimeout('pageTracker._trackEvent("onPage", "2401", document.location.pathname, 300, false);',2401500);setTimeout('pageTracker._trackEvent("onPage", "2701", document.location.pathname, 300, false);',2701500);}catch(e){}		</script>
+	}
+	</script>
 <script type="text/javascript" src="/js/jquery.timer.js"></script><script type="text/javascript">
 //<![CDATA[
 $(document).ready(function () {
@@ -525,6 +628,11 @@ $(document).ready(function () {
 	});
 
 
+		if (typeof dataLayer !== "undefined") {
+			dataLayer.hhTrackEvent("OtiBannerImpression", "ViewBanner_125", document.location.pathname, 0, true);
+		}
+	
+
 	$('#LocationSearch').autocomplete({
 		source: "/fapautocomplete",
 		minLength: "2",
@@ -539,7 +647,7 @@ $(document).ready(function () {
 
 
 var ga_code_additions = true;
-if(typeof pageTracker === 'undefined'){
+if(typeof dataLayer === 'undefined'){
 	ga_code_additions = false;
 }
 if($.cookie('FAP_NOSHOW') != 1){
@@ -557,7 +665,7 @@ if($.cookie('FAP_NOSHOW') != 1){
 			$(this).addClass('active');
 			$(this).find('.close').html('<i class="icon-chevron-down"></i>');
 			if(ga_code_additions){
-				pageTracker._trackEvent('fap_search_pop_up', 'auto_show', document.location.pathname);
+				dataLayer.hhTrackEvent('fap_search_pop_up', 'auto_show');
 			}
 			timer.stop();
 		});
@@ -580,7 +688,7 @@ $('.slide-out .modal-header').click(function(){
 		$(this).addClass('active');
 		$(this).find('.close').html('<i class="icon-chevron-down"></i>');
 		if(ga_code_additions){
-			pageTracker._trackEvent('fap_search_pop_up', 'click_show', document.location.pathname);
+			dataLayer.hhTrackEvent('fap_search_pop_up', 'click_show');
 		}
 	});
 
@@ -591,7 +699,7 @@ $('.slide-out .modal-header').click(function(){
 		$(this).removeClass('active');
 		$(this).addClass('inactive');
 		if(ga_code_additions){
-			pageTracker._trackEvent('fap_search_pop_up','click_hide', document.location.pathname);
+			dataLayer.hhTrackEvent('fap_search_pop_up','click_hide');
 		}
 	});
 	$('.slide-out.active').animate({
@@ -603,11 +711,6 @@ $('.slide-out .modal-header').click(function(){
 		$.cookie('FAP_NOSHOW',1,{expires: 30, path: '/'});
 	});
 });
-
-
-	if (typeof pageTracker !== "undefined") {
-		pageTracker._trackEvent("OtiBannerImpression", "ViewBanner_125", document.location.pathname);
-	}
 
 
 	$(".tip").tooltip({"trigger":"hover","html":true});
