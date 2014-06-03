@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheapyoutube.com privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031022519id_/http%3A//www.cheapyoutube.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapyoutube.com privacy policy that was archived on 2014-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140603213444id_/http%3A//www.cheapyoutube.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | E.M.™ Real People = Real Results!
 
