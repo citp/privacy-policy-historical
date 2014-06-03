@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autnews.us privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225175919id_/http%3A//www.autnews.us/%23policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autnews.us privacy policy that was archived on 2014-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140603184748id_/http%3A//autnews.us/%23policy) for the most accurate reproduction.*
 
 # News| Politics | Logbook Loans | Same Day & Instant Cash Loans
 
@@ -27,17 +27,31 @@ It is Mr Netanyahu's opinion that further negotiations are fruitless and serve o
 
 #### Logbook loans to be banned in the UK
 
-"A form of secured borrowing known as logbook loans, or [bill of sale lending](http://www.elogbookloans.com/), may be outlawed under government proposals. The department for business innovation and skills (BIS) is consulting on plans to ban what it calls the "archaic" and expensive method of borrowing. More than 1,000 people have complained to the Office of Fair Trading about these loans in the past four years. The loans are usually secured against the value of cars and allow the lender to repossess without a court order." Source: BBC News UK
+"A [form of secured borrowing](http://www.kennethshamu.com/) known as logbook loans, or bill of sale lending, may be outlawed under government proposals. The department for business innovation and skills (BIS) is consulting on plans to ban what it calls the "archaic" and expensive method of borrowing. More than 1,000 people have [complained to the Office of Fair Trading](http://www.manyloans.co.uk/cash-loans-to-your-door.html) about these loans in the past four years. The loans are usually secured against the value of cars and allow the lender to repossess without a court order." Source: BBC News UK
 
 #### Payday borrowers 'could complain' about lenders
 
-"A host of payday loan customers have grounds for complaint against lenders over the way repayments were collected, a charity has said. Citizens Advice said it saw 665 cases, of which 76% could have been forwarded to the Financial Ombudsman Service. These included cases of individuals being chased for a loan they had not taken out, it said. A string of payday lenders have signed up to a code of conduct aimed at improving standards."
+"A host of small payday loan customers have [grounds for complaint](http://www.manyloans.co.uk/small-payday-loans.html) against lenders over the way repayments were collected, a charity has said. Citizens Advice said it saw 665 cases, of which 76% could have been forwarded to the Financial Ombudsman Service. These included cases of individuals being chased for a loan they had not taken out, it said. A string of payday lenders have signed up to a code of conduct aimed at improving standards. View payday loans online on [the Many-site](http://www.manyloans.co.uk/payday-loans-online.html)."
 
 ##### 'Pestered with texts'
 
-Citizens Advice analysed a series of payday loan cases, which were reported to its customer helpline in the first half of the year. It found potential cases of fraud, such as being chased for non-existent loans. Others were "pestered" with phone calls and text messages, despite offers of repayments plans from customers. Some in financial difficulty were treated unfairly, according to the charity, and so could have taken a complaint to the ombudsman." Source: BBC News UK"
+Citizens Advice analysed a series of payday loan [cases](http://www.manyloans.co.uk/pounds-till-payday.html), which were reported to its customer helpline in the first half of the year. It found potential cases of fraud, such as being chased for non-existent loans. Others were "pestered" with phone calls and text messages, despite offers of repayments plans from customers. [Articles](http://www.manyloans.co.uk/instant-cash-loans.html) on instant cash loans can be found on www.diamondchoices.co.uk/instant-cash-loans.html. Some in financial difficulty were treated unfairly, according to the charity, and so could have taken a complaint to the ombudsman." Source: BBC News UK"
 
-There are however some reputable firms that do exist. But even then, APRs still remain rather high when compared to mainstream credit. [Diamond Choice](http://www.diamondchoice.co.uk/same-day-loans.html) for more information by clicking the link or using their web address, [www.diamondchoice.co.uk](http://www.diamondchoice.co.uk/instant-cash-loans.html)
+There are however some reputable firms that do exist. But even then, APRs still remain rather high when compared to mainstream credit. Diamond Choice for more information by [clicking the link](http://www.manyloans.co.uk/same-day-loans.html) or using their web address, www.diamondchoices.co.uk/same-day-loans.html.
+
+### Payday Loan Alternatives
+
+Related article: [The many company](http://www.manyloans.co.uk/payday-loans-for-unemployed.html). These types of loans have been at the receiving end of much bad publicity. Ministers and Church leaders have publicly stated their positions against these finance companie and yet even more people funded their christmas with payday loans despite [warnings](http://www.manyloans.co.uk/payday-loans-for-people-on-benefits.html) regarding payday loans for people on benefits. Now more and more communities are setting up credit unions to combat firms offering loans at high APRs such as those shown on http://www.boxpaydayloans.com/compare-payday-loans.html. These schemes are designed to drive expensive forms of credit out of the community, with payday lenders and doorstep lenders in their sights.
+
+Recent news has highlighted the problem of payday brokers posing as payday lenders, although this is nothing new, as shown here http://www.boxpaydayloans.com/payday-loans-direct-lenders.html.
+
+This warning comes from the Citizens Advice Bureau themselves stating that some consumers are being duped by brokers before being charged unexpected fees. These have been reported to be as high as £70 with brokers not making their role clear. This has left many believing they could get a loan, even without an income as demonstrated on http://www.boxpaydayloans.com/payday-loans-for-unemployed.html. 490 calls regarding complaints about brokers have been received by the service between June and July. Get [more information](http://www.manyloans.co.uk/quick-fast-payday-loans.html) on Manyloans.co.uk. This is the same site that is sometimes redirected to www.boxpaydayloans.com.
+
+* * *
+
+Having studied payday loans direct lenders only [blogs](http://www.manyloans.co.uk/payday-loans-direct-lenders-only.html), it has now become apparent how payday loans for people on benefits can have a negative impact on your dream to own your own home. According to a piece by the BBC, taking out a payday loan could endanger your chances of getting a mortgage regardless of whether you had difficulty repaying the loan or not. 66% of brokers contacted by _Mortgage Strategy_ , a trade publication, indicated that they had hda a client turned down for a mortgage application because of a guaranteed payday loans [application](http://www.manyloans.co.uk/guaranteed-payday-loans.html). Now there are plans to warn potential borrowers of the [danger/impact](http://www.manyloans.co.uk/instant-payday-loans.html) of using payday loans. A loan taken out will remain on your credit record for a period of up to 6 years. Some Mortgage applications are instantly declined and credit scores impacted negatively following a payday loan. It has been reported that this is the case even for High Street lenders.
+
+These revelations make these loans even less attractive despite the [convenience](http://www.manyloans.co.uk/payday-loans-no-brokers.html) of payday loans no brokers. It is also speculated that the market will take a hit, seeing its value fall by up to 50%.
 
   
 
