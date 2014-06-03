@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skymilesshopping.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119054638id_/http%3A//www.skymilesshopping.com/privacy____.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skymilesshopping.com privacy policy that was archived on 2014-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140603142558id_/http%3A//www.skymilesshopping.com/privacy____.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Shop Online at SkyMiles Shopping
 
