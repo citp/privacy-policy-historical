@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tamilkings.net privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601082619id_/http%3A//tamilkings.net/topic/184-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamilkings.net privacy policy that was archived on 2014-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140604010751id_/http%3A//tamilkings.net/topic/184-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - News & Announcement - TamilKings.net - Download Latest Tamil Movies & MP3
 
@@ -12,35 +12,32 @@ Buzz™
 
 Mission Impossible
 
-  * [ ](http://tamilkings.net/user/2-buzz%e2%84%a2/ "View Profile: Buzz™")
+  * [ ](http://tamilkings.net/user/2-buzz%E2%84%A2/ "View Profile: Buzz™")
   *   * **Posts: 1,871**
 **Topics: 1654**
-  * 465 thanks 
+  * 478 thanks 
 
+
+
+  * Time Online: 2h 51m 11s 
 
 
 
   
 
 
-  * We are committed to protecting your privacy. We will not sell, trade or rend your personal information to any other parties.  
-
-  * We do not collect any personal information about you except when you specifically and knowingly provide such information.  
-
-  * By using this website, you consent to the collection and use of this information.  
-
-  * If we decide to change our privacy policy we will update this page with the changes so that you are always aware and able to access what information we collect, how we use it and under what circumstances we may disclose it.  
-
+  * We are committed to protecting your privacy. We will not sell, trade or rend your personal information to any other parties.
+  * We do not collect any personal information about you except when you specifically and knowingly provide such information.
+  * By using this website, you consent to the collection and use of this information.
+  * If we decide to change our privacy policy we will update this page with the changes so that you are always aware and able to access what information we collect, how we use it and under what circumstances we may disclose it.
   * Currently, we aggregate statistics about our traffic patterns, and related website information to reputable third party vendors. These statistics will include no personal identifying information about any member of this website.
 
 
 
-**Modification of Privacy Policy:**
+ **Modification of Privacy Policy:**
 
   * TamilKings reserves the right, at any time, to modify, alter or update the privacy policy and you agree to be bound by such modifications, alterations or updates.
 
   
 
-
-**Hit Or  If You Found My Post Is Useful**
   *[25 August 2012 - 02:11 PM]: 2012-08-25T08:41:35+00:00
