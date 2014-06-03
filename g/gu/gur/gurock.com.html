@@ -1,14 +1,14 @@
-<!--The following is the downloaded HTML source of the gurock.com privacy policy that was archived on 2013-11-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131130220334id_/http%3A//www.gurock.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gurock.com privacy policy that was archived on 2014-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140603174038id_/http%3A//www.gurock.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>	
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<title>Gurock Software's Privacy Policy</title>
-			<link rel="stylesheet" href="/styles/all.css?458" type="text/css">
+			<link rel="stylesheet" href="/styles/all.css?{{VERSION}}" type="text/css">
 		<!--[if IE 6]>
 		<link rel="stylesheet" type="text/css" href="/styles/ie6.css" />
 		<![endif]-->
-				<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/javascript/all.js?458"></script>
+				<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/javascript/all.js?{{VERSION}}"></script>
 				
 </head>
 <body>
@@ -78,6 +78,20 @@ access this information by sending us email at the above address.</p>
 <p>This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or 
 material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior 
 to taking effect.</p>
+
+<h1 class="inline">Google AdWords &amp; Remarketing</h1>
+
+<p>This website uses the Google AdWords and its remarketing service to advertise on third party websites
+(including Google) to previous visitors to our site. It could mean that we advertise to previous
+visitors who haven't completed a task on our site, for example using the contact form to make an
+enquiry. This could be in the form of an advertisement on the Google search results page, or a
+site in the Google Display Network.</p>
+
+<p>Third-party vendors, including Google, use cookies to serve
+ads based on someone's past visits to the Gurock Software website. Of course, any data collected
+will be used in accordance with our own privacy policy and Google's privacy policy.
+If you would like to opt out of Google cookie based advertising, please visit Google's
+<a href="http://www.google.com/settings/ads">Ads Settings</a>.</p>
 
 <h1 class="inline">Google Analytics</h1>
 
@@ -172,7 +186,7 @@ beschriebenen Art und Weise und zu dem zuvor benannten Zweck einverstanden.
 				<div class="section right-section">
 					<a href="/"><span class="sprite global-sprite global-sprite-footer-logo"></span></a>
 
-					<div class="small">Copyright © 2003-2012 Gurock Software GmbH. 
+					<div class="small">Copyright © 2003-2014 Gurock Software GmbH. 
 						All rights reserved. SmartInspect® and TestRail™ are
 						trademarks of Gurock Software.</div>
 					<div class="small-links">
@@ -189,6 +203,7 @@ beschriebenen Art und Weise und zu dem zuvor benannten Zweck einverstanden.
 </div>
 </div>
 
+
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
@@ -204,6 +219,21 @@ beschriebenen Art und Weise und zu dem zuvor benannten Zweck einverstanden.
 
 </script>
 
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1069550737;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1069550737/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
 
 <script type="text/javascript">
 $(document).ready(function () {
@@ -214,8 +244,10 @@ $(document).ready(function () {
 		var cookie_domain = 'gurock.com';
 		var time = Math.floor((new Date()).getTime() / 1000);
 
+	var is_campaign = url.indexOf("utm_source") != -1;
+
 	var cookie = $.cookie(cookie_name);
-	if (!cookie)
+	if (!cookie || is_campaign)
 	{
 		var content = {
 			'u': url,
