@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cisionwire.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202145318id_/http%3A//news.cision.com/_editorial/privacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cisionwire.com privacy policy that was archived on 2014-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140603230617id_/http%3A//news.cision.com/_editorial/privacyStatement) for the most accurate reproduction.*
 
 # 
 
