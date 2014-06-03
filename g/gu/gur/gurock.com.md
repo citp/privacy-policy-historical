@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gurock.com privacy policy that was archived on 2013-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131130220334id_/http%3A//www.gurock.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gurock.com privacy policy that was archived on 2014-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140603174038id_/http%3A//www.gurock.com/about/privacy) for the most accurate reproduction.*
 
 # Gurock Software's Privacy Policy
 
@@ -15,6 +15,10 @@ Persons who supply us with their telephone numbers online will only receive tele
 Upon request we provide site visitors with access to all information that we maintain about them. Customers and site visitors can access this information by sending us email at the above address.
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect.
+
+This website uses the Google AdWords and its remarketing service to advertise on third party websites (including Google) to previous visitors to our site. It could mean that we advertise to previous visitors who haven't completed a task on our site, for example using the contact form to make an enquiry. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network.
+
+Third-party vendors, including Google, use cookies to serve ads based on someone's past visits to the Gurock Software website. Of course, any data collected will be used in accordance with our own privacy policy and Google's privacy policy. If you would like to opt out of Google cookie based advertising, please visit Google's [Ads Settings](http://www.google.com/settings/ads).
 
 We use Google Analytics to improve the content of our website. Google Germany requires us to mention the following paragraph, intended for German visitors to learn more about how Google Analytics processes the collected data.
     
