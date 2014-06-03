@@ -1,98 +1,10 @@
-<!--The following is the downloaded HTML source of the baseballsavings.com privacy policy that was archived on 2013-12-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131202174508id_/http%3A//www.baseballsavings.com/about/privacy-policy.jsp%3FCP%3DFOOTER%3APrivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the baseballsavings.com privacy policy that was archived on 2014-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140603233347id_/http%3A//www.baseballsavings.com/about/privacy-policy.jsp%3FCP%3DFOOTER%3APrivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 <title>Privacy Policy - www.baseballsavings.com</title>
 
 <meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE"> 
-
-   <script type="text/javascript" async="" src="https://tracker.marinsm.com/tracker/async/329356527243.js"></script><script src="//tags.tiqcdn.com/utag/thegolfwarehouse/baseballsavings/prod/utag.js" type="text/javascript" async=""></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-<script type="text/javascript">
-var TGW_VEINTERACTIVE = {
-
-   // TGW: CB669FB4-2D7C-4BBD-85D0-9C1E98BC7753
-   //  SS: 62E831F7-06C0-4CDE-9EB0-ED685F5C7D2D
-   // BBS: EE33B8F9-4BC4-406A-A82C-CA3FB0243E8E
-   // SBS: 83B17751-9710-4630-A920-55D4D60633B8
-
-   generateVeScriptElement: function()
-   {
-      var scriptElement=document.createElement("script");
-
-      scriptElement.src="//configusa.veinteractive.com/tags/" + "EE33B8F9-4BC4-406A-A82C-CA3FB0243E8E".replace(/-/g, "/") + "/tag.js";
-      scriptElement.type="type/javascript";
-      scriptElement.async=true;
-
-      $("head").append(scriptElement);
-   },
-   
-   generateVeTrackingPixel: function()
-   {
-      var image=document.createElement("img");
-
-      image.src="//cdsusa.veinteractive.com/DataReceiverService.asmx/Pixel?journeycode=EE33B8F9-4BC4-406A-A82C-CA3FB0243E8E";
-      image.width="1";
-      image.height="1";
-
-      $("head").append(image);
-   },
-
-   addProdIDs: function(tableRows)
-   {
-      // Add an id attribute to each tr that has() a product link but doesn't already have an id attribute
-      $(tableRows).has("a[href*=\"PROD_ID\"").not("[id]").each(
-         function(index)
-         {
-            var tr = $(this);
-            // Get the product ID from the product link and set it as the TR id attribute
-            var prodId = tr.find("a[href*=\"product.jsp\"]").first().attr("href").match(/PROD_ID\=(\d+)/)[1];
-            tr.attr("id", prodId);
-         }
-      );
-   },
-
-   insert: function()
-   {
-      var thiz = this;
-      
-      var path=document.URL.match(/^(?:(?![^:@]+:[^:@\/]*@)([^:\/?#.]+):)?(?:\/\/)?((?:(([^:@]*)(?::([^:@]*))?)?@)?([^:\/?#]*)(?::(\d*))?)(((\/(?:[^?#](?![^?#\/]*\.[^?#\/.]+(?:[?#]|$)))*\/?)?([^?#\/]*))(?:\?([^#]*))?(?:#(.*))?)/)[9];
-      switch(path)
-      {
-         case "/customer/cart.jsp":
-            // Render but don't display the float cart
-            $("#floatCartMainDiv").ready(function(){
-
-               // Override the displayPage() function
-               var tmpOrigDisplayPage = floatCart["displayPage"];
-               floatCart["displayPage"] = function() {
-                  floatCart["displayPage"].origDisplayPage.apply(this, arguments);
-                  thiz.addProdIDs($("#floatCartMainDiv table:nth-child(2) tr"));
-               };
-               floatCart["displayPage"].origDisplayPage = tmpOrigDisplayPage;
-
-               floatCart.displayPage();
-               
-            });
-         case "/customer/newCustomer.jsp?q=Y":
-         case "/login.jsp":
-         case "/customer/newCustomer.jsp":
-         case "/shopping_cart/orderconfirm.jsp":
-         case "/shopping_cart/payment.jsp":
-              this.generateVeScriptElement();
-              break;
-         case "/shopping_cart/thankyou.jsp":
-              this.generateVeScriptElement();
-              this.generateVeTrackingPixel();
-              break;
-         default:
-              break;
-      }
-   }
-};
-TGW_VEINTERACTIVE.insert();
-</script>
-
-
 <link rel="SHORTCUT ICON" href="/bbsFavicon.ico">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta name="Keywords" content="Baseball Savings, Baseball, softball, fastpitch, slowpitch, slow pitch, fast pitch, equipment, gear,  sporting goods, training, shoes, baseballs, softballs, bats, bags, supplies, gloves, womens, gifts, catcher, pitcher, baseballsavings, rawlings, all star, dimarini, wilson, riddell, twin city, mizuno, louisville slugger, new era, bwp bats, mizuno, worth, balls, apparel, miken, major league, team logo">
@@ -106,7 +18,7 @@ TGW_VEINTERACTIVE.insert();
 <meta name="verify-v1" content="a4AG+0xHp+E8D5VLsm6pX0T48KmKxfR9SfHlPX8xPEk=">
 <meta name="google-site-verification" content="CEshzfz6CaaAW-v4DAnmxWj5TtoRybvRMamFj7jbHco">
 <meta name="google-site-verification" content="LB3dUKBHFvMf_CN6c04SwcGEYxey3cjRK3Pg0AOjJGo">
-<script language="JavaScript">
+<script type="text/javascript" async="" src="https://tracker.marinsm.com/tracker/async/329356527243.js"></script><script src="//tags.tiqcdn.com/utag/thegolfwarehouse/baseballsavings/prod/utag.js" type="text/javascript" async=""></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="JavaScript">
 <!--
 // IF AGENTS ARE AVAILABLE:
 function agents_available() {
@@ -118,6 +30,7 @@ return true;
 //-->
 </script>
 
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript"></script>
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
@@ -211,11 +124,27 @@ a:hover.textlinks { color: #175814}
 <script language="JavaScript" src="/script/floatCart.js?v=9"></script>
 <script src="https://connect.facebook.net/en_US/all.js#xfbml=1"></script>
 <script language="JavaScript">
-if(top != self) top.location.href = location.href;
+try
+{
+   /*
+      If domain is not of same origin attempting to access the href
+      property of the parent frame location will throw a security error.
+      If there is no parent frame then execute and move on...
+   */
+   var a = top.location.href;
+}
+catch(e)
+{
+   /*
+      The funny thing is we can set the parent frame's location without a
+      problem to break out of the frame.
+   */
+   top.location.href = self.location.href;
+}
 
 var bnum=2;
 
-var servTime=1386006308504;
+var servTime=1401838426965;
 var locTime=(new Date()).getTime();
 var timeDiff=Math.floor((locTime-servTime)/60000);
 var diff2=Math.abs(timeDiff);
@@ -271,14 +200,23 @@ var screenInfo = screen.width + "x" + screen.height + "." + screen.colorDepth + 
 <meta itemprop="image" content="">
 
 <meta property="fb:admins" content="1162110392">
-<link href="/script/cssstylesBBS.css" type="text/css" rel="stylesheet" id="tgwstyles">
+
+<link href="/script/cssstylesBBS.css?lastUpdate=051914" type="text/css" rel="stylesheet" id="tgwstyles">
+
 
 
 <link href="https://t.p.mybuys.com/css/mbstyles.css" type="text/css" rel="stylesheet" id="mybuysstyles">
 <script type="text/javascript" src="https://t.p.mybuys.com/js/mybuys3.js"></script>
 <script type="text/javascript" src="https://t.p.mybuys.com/clients/BASEBALLSAVINGS/js/setup.js"></script>
 
-<link href="/script/cssstylesBBS.css" type="text/css" rel="stylesheet" id="tgwstyles">
+
+   <script src="/script/tgw-veinteractive.js" type="text/javascript"></script>
+<script type="text/javascript">
+   TGW_VEINTERACTIVE.insert("EE33B8F9-4BC4-406A-A82C-CA3FB0243E8E");
+</script>
+
+
+<script src="/script/tgw-simple-script-insert.js" type="text/javascript"></script>
 </head>
 <body bgcolor="#FFFFFF" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0" text="#000000" link="#000000" vlink="#000000" alink="#000000">
 
@@ -297,6 +235,8 @@ var screenInfo = screen.width + "x" + screen.height + "." + screen.colorDepth + 
 		page_subcategory_name		: "",
 		site_id                         : "B0001"
 	};
+_gaq.push(['_setCustomVar', 1, 'Site ID', utag_data.site_id, 2]);
+
 </script>
 
 <script language="JavaScript" type="text/javascript">
@@ -605,7 +545,7 @@ span.skype_pnh_print_container {display:inline !important;}
           <td rowspan="2" width="263" height="99" style="background-color:#cfcfcf;" valign="top"> 
           
           
-          <a href="/main.jsp" border="0">
+          <a href="/main.jsp" border="0" rel="nofollow">
           
           <img src="/images/header/263x99-bbs-logo.jpg" height="99" width="263" border="0"></a></td>
           <td>
@@ -613,15 +553,18 @@ span.skype_pnh_print_container {display:inline !important;}
 <table width="739" height="74" border="0" align="center" cellpadding="0" cellspacing="0">
 <tbody><tr>
 
-    <td width="236" height="24" align="center" valign="middle" class="headline-guarantee"><div align="center"><a href="/about/freeExchange.jsp?CP=HEADER:FreeExchange" style="font-family:Arial; font-size:10px; color:#175814; line-height:12px;">Fast Exchanges</a></div></td>
+    <td width="236" height="24" align="center" valign="middle" class="headline-guarantee"><div align="center"><a href="/about/freeExchange.jsp?CP=HEADER:FreeExchange" style="font-family:Arial; font-size:10px; color:#175814; line-height:12px;" rel="nofollow">Fast Exchanges</a></div></td>
     
-    <td width="503" height="74" rowspan="4" align="center" valign="middle"><a href="/customer/bats/index.jsp?CP=HEADER:TrplCrwnLdr"><img src="/images/baseball/homepage/StdHdr_TrplCrwnLdr.jpg" style="height:74px; width: 503px;" alt="" border="0"></a></td>
+    <td width="503" height="74" rowspan="4" align="center" valign="middle"><map name="BestPriceBBS">
+  <area shape="rect" coords="167,0,480,74" href="/promo/pmc.jsp?CP=HEADER:BestPriceGuarBBS">
+</map>
+<img border="0" src="/images/baseball/homepage/headerBestPriceGuarantee.jpg" width="503" height="74" usemap="#BestPriceBBS"></td>
 </tr>
 <tr>
-  <td height="24" align="center" valign="top" class="headline-guarantee"><div align="center"><a href="/about/shippinginfo.jsp?CP=HEADER:ShippingInfo" style="font-family:Arial; font-size:10px; color:#175814; line-height:12px;">Free Shipping Over $39</a></div></td>
+  <td height="24" align="center" valign="top" class="headline-guarantee"><div align="center"><a href="/about/shippinginfo.jsp?CP=HEADER:ShippingInfo" style="font-family:Arial; font-size:10px; color:#175814; line-height:12px;" rel="nofollow">$6.99 Shipping (Non-rural)</a></div></td>
 </tr>
 <tr>
-  <td height="24" align="center" valign="top" class="headline-guarantee"><div align="center"><a href="/promo/pmc.jsp?CP=HEADER:PriceMatch" style="font-family:Arial; font-size:10px; color:#175814; line-height:12px;">Price Match Guarantee</a></div></td>
+  <td height="24" align="center" valign="top" class="headline-guarantee"><div align="center"><a href="/promo/pmc.jsp?CP=HEADER:PriceMatch" style="font-family:Arial; font-size:10px; color:#175814; line-height:12px;" rel="nofollow">Price Match Guarantee</a></div></td>
 </tr>
 </tbody></table>
                       
@@ -664,123 +607,55 @@ floatCart.refreshSummary();
            </td>
         </tr>
         <tr>
-          <td width="853" colspan="2" style="padding-top: 6px"><ul id="menuTabMainTable" class="menuTabHeaderText">
+          <td width="853" colspan="2" style="padding-top: 6px">
+          
+<ul id="menuTabMainTable" class="menuTabHeaderText">
 
 <li onmouseout="menuTabMouseOut(0)" onmouseover="menuTabMouseOver(0)" id="menuTabCell0" class="menuTabNotSelected">
-<div class="aDiv"><a href="javascript:changeMenuTab(0)" class="menuTabNotSelectedA" id="menuTabCell0A"><span>Players Equipment</span></a>
+<div class="aDiv"><a href="javascript:changeMenuTab(0)" class="menuTabNotSelectedA" id="menuTabCell0A"><span>Bats</span></a>
 </div>
 
 <div class="menuWrap" id="mWrap0">
 <div class="menuDiv">
 <div class="closeDiv">
-<a onclick="closeMenuTab(0,false);curMenuHeaderIndex=-1;return false" href="#">Close [ X ]</a>
+<a onclick="closeMenuTab(0,false);curMenuHeaderIndex=-1;return false" href="#" style="color:#000000">Close [ X ]</a>
 </div>
 <ul>
-<li class="menuSection0"><a href="/customer/bats/index.jsp?CP=ILC-MENU&amp;nvbar=BatsCategory" class="menuTabSectionText">Baseball / Softball Bats</a>
+<li class="menuSection0"><a href="/customer/bats/index.jsp?CP=ILC-MENU&amp;nvbar=BatsTab-BatsCategory" class="menuTabSectionText"><u>Baseball Bats</u></a>
 <ul>
-<li><a href="/customer/search2.jsp?scid=2498&amp;sortmfr=N&amp;a1000002210=baseball+%28metal%29&amp;CP=ILC-MENU&amp;nvbar=baseballBatsMetal" class="menuTabItemText">Baseball - Metal/Composite</a></li>
+<li><a href="/customer/search2.jsp?scid=2498&amp;sortmfr=N?CP=ILC-MENU&amp;nvbar=BatsTab-ShopAllBats" class="menuTabItemText">Shop All Bats</a></li>
 
-<li><a href="/customer/search2.jsp?scid=2498&amp;search2=BBCOR&amp;a1000001083=baseball+(metal)&amp;sortmfr=N&amp;certification=BBCOR&amp;CP=ILC-MENU&amp;nvbar=baseballBatsBBCOR" class="menuTabItemText">BBCOR Approved</a></li>
+<li><a href="/customer/search2.jsp?scid=2498&amp;sortmfr=N&amp;a1000002210=baseball+%28wood%29&amp;CP=ILC-MENU&amp;nvbar=BatsTab-WoodBats" class="menuTabItemText">Wood Bats</a></li>
 
-<li><a href="/customer/search2.jsp?scid=2498&amp;sortmfr=N&amp;a1000002210=baseball+%28wood%29&amp;CP=ILC-MENU&amp;nvbar=baseballBatsWood" class="menuTabItemText">Baseball - Wood</a></li>
+<li><a href="/customer/search2.jsp?scid=2498&amp;a1000002210=composite&amp;sortmfr=NCP=ILC-MENU&amp;nvbar=BatsTab-CompositeBats" class="menuTabItemText">Composite Bats</a></li>
 
-<li><a href="/customer/search2.jsp?scid=2498&amp;sortmfr=N&amp;a1000002210=fungo&amp;CP=ILC-MENU&amp;nvbar=baseballBatsFungo" class="menuTabItemText">Baseball - Fungo</a></li>
+<li><a href="/customer/search2.jsp?scid=2498&amp;sortmfr=N&amp;a1000002210=baseball+%28metal%29&amp;CP=ILC-MENU&amp;nvbar=BatsTab-MetalBats" class="menuTabItemText">Metal Bats</a></li>
 
-<li><a href="/customer/search2.jsp?scid=2498&amp;sortmfr=N&amp;a1000002210=softball+%28fastpitch%29&amp;CP=ILC-MENU&amp;nvbar=softballBatsFastpitch" class="menuTabItemText">Softball - Fastpitch</a></li>
-
-<li><a href="/customer/search2.jsp?scid=2498&amp;sortmfr=N&amp;a1000002210=softball+%28slowpitch%29&amp;CP=ILC-MENU&amp;nvbar=softballBatsSlowpitch" class="menuTabItemText">Softball - Slowpitch</a></li>
-
-<li><a href="/customer/search2.jsp?scid=2498&amp;sortmfr=N&amp;a1000002210=tee+ball&amp;CP=ILC-MENU&amp;nvbar=teeBallBats" class="menuTabItemText">Tee Ball</a></li>
-
-<li><a href="/customer/search2.jsp?scid=2636&amp;search2=custom&amp;CP=ILC-MENU&amp;nvbar=customWoodBats" class="menuTabItemText">Custom Wood Bats</a></li>
-
-<li><a href="/customer/search2.jsp?scid=6595&amp;CP=ILC-MENU&amp;nvbar=JRBigBarrel" class="menuTabItemText">JR Big Barrel </a></li>
-
-<li><a href="/customer/newProducts.jsp?id=1000&amp;CP=ILC-MENU&amp;nvbar=NewBats" class="menuTabItemText">New Bats</a></li>
-
-<li><a href="/landing/whatisBBCOR/whatisBBCOR.jsp?CP=bottomrow3:whatisbbcor" class="menuTabItemText">What is BBCOR?</a></li>
+<li><a href="/customer/search2.jsp?scid=2636&amp;search2=custom&amp;CP=ILC-MENU&amp;nvbar=BatsTab-CustomWoodBats" class="menuTabItemText">Custom Wood Bats</a></li>
 </ul>
 </li>
 
-<li class="menuSection1"><a href="/customer/search2.jsp?scid=2520&amp;CP=ILC-MENU&amp;nvbar=GlovesAll" class="menuTabSectionText">Baseball / Softball Gloves</a>
+<li class="menuSection1"><font color="#003399" style="font-weight:bold;">Shop By League / Need</font> 
 <ul>
-<li><a href="/customer/search2.jsp?scid=2520&amp;a1000002211=baseball&amp;sortmfr=N&amp;a1000002236=catchers&amp;CP=ILC-MENU&amp;nvbar=catchersGloves" class="menuTabItemText">Baseball - Catchers</a></li>
+<li><a href="/customer/search2.jsp?scid=2498&amp;a1000002210=bbcor&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=BatsTab-BBCORBats" class="menuTabItemText">BBCOR Bats</a></li>
 
-<li><a href="/customer/search2.jsp?scid=2520&amp;a1000002211=baseball&amp;sortmfr=N&amp;a1000002236=pitchers&amp;CP=ILC-MENU&amp;nvbar=pitchersGloves" class="menuTabItemText">Baseball - Pitchers</a></li>
+<li><a href="/customer/search2.jsp?scid=2498&amp;a1000002239=senior&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=BatsTab-SeniorLeague" class="menuTabItemText">Senior League</a></li>
 
-<li><a href="/customer/search2.jsp?scid=2520&amp;a1000002211=baseball&amp;sortmfr=N&amp;a1000002236=1st+base&amp;CP=ILC-MENU&amp;nvbar=firstBaseGloves" class="menuTabItemText">Baseball - 1st Base</a></li>
+<li><a href="/customer/search2.jsp?scid=2498&amp;a1000002210=jr+big+barrel&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=BatsTab-JRBigBarrel" class="menuTabItemText" rel="nofollow">Junior Big Barrel</a></li>
 
-<li><a href="/customer/search2.jsp?scid=2520&amp;a1000002211=baseball&amp;sortmfr=N&amp;a1000002236=infield&amp;CP=ILC-MENU&amp;nvbar=infieldGloves" class="menuTabItemText">Baseball - Infield</a></li>
+<li><a href="/customer/search2.jsp?scid=2498&amp;a1000002239=youth&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=BatsTab-LittleLeague" class="menuTabItemText" rel="nofollow">Little League</a></li>
 
-<li><a href="/customer/search2.jsp?scid=2520&amp;a1000002211=baseball&amp;sortmfr=N&amp;a1000002236=outfield&amp;CP=ILC-MENU&amp;nvbar=outfieldGloves" class="menuTabItemText">Baseball - Outfield</a></li>
+<li><a href="/customer/search2.jsp?scid=2498&amp;a1000002210=tee+ball&amp;nvbar=teeBallBats&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=BatsTab-TeeBallBats" class="menuTabItemText" rel="nofollow">Tee Ball Bats</a></li>
 
-<li><a href="/customer/search2.jsp?scid=2520&amp;a1000002211=baseball&amp;sortmfr=N&amp;a1000002236=utility&amp;CP=ILC-MENU&amp;nvbar=utilityGloves" class="menuTabItemText">Baseball - Utility</a></li>
-
-<li><a href="/customer/search2.jsp?scid=2520&amp;a1000002211=fastpitch&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=fastpitchGloves" class="menuTabItemText">Softball - Fastpitch</a></li>
-
-<li><a href="/customer/search2.jsp?scid=2520&amp;sortmfr=N&amp;a1000002211=slowpitch&amp;CP=ILC-MENU&amp;nvbar=slowpitchGloves" class="menuTabItemText">Softball - Slowpitch</a></li>
-
-<li><a href="/customer/search2.jsp?scid=2520&amp;sortmfr=N&amp;a1000002239=youth&amp;CP=ILC-MENU&amp;nvbar=youthGloves" class="menuTabItemText">Youth</a></li>
-
-<li><a href="/customer/search2.jsp?scid=2635&amp;search2=custom+gloves&amp;CP=ILC-MENU&amp;nvbar=customGloves" class="menuTabItemText">Custom Gloves</a></li>
-
-<li><a href="/customer/newProducts.jsp?id=1001&amp;CP=ILC-MENU&amp;nvbar=NewGloves" class="menuTabItemText">New Gloves</a></li>
+<li><a href="/customer/search2.jsp?scid=2498&amp;a1000002210=fungo&amp;nvbar=baseballBatsFungo&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=BatsTab-FungoBats" class="menuTabItemText">Fungo Bats</a></li>
 </ul>
 </li>
 
-<li class="menuSection2"><a href="/customer/baseballs/index.jsp?CP=ILC-MENU&amp;nvbar=BallsCategory" class="menuTabSectionText">Baseball / Softball Balls</a>
+<li class="menuSection2"><font color="#003399" style="font-weight:bold;">Shop Related</font> 
 <ul>
-<li><a href="/customer/search2.jsp?scid=2504&amp;sortmfr=N&amp;a1000002212=baseballs&amp;CP=ILC-MENU&amp;nvbar=Baseballs" class="menuTabItemText">Baseballs</a></li>
+<li><a href="/customer/search2.jsp?scid=2633&amp;CP=ILC-MENU&amp;nvbar=trainingBats&amp;nvbar=BatsTab-TrainingBats" class="menuTabItemText" rel="nofollow">Training Bats</a></li>
 
-<li><a href="/customer/search2.jsp?scid=2504&amp;sortmfr=N&amp;a1000002212=fastpitch&amp;CP=ILC-MENU&amp;nvbar=fastpitchSoftballs" class="menuTabItemText">Softballs - Fastpitch</a></li>
-
-<li><a href="/customer/search2.jsp?scid=2504&amp;sortmfr=N&amp;a1000002212=slowpitch&amp;CP=ILC-MENU&amp;nvbar=slowpitchSoftballs" class="menuTabItemText">Softballs - Slowpitch</a></li>
-
-<li><a href="/customer/search2.jsp?scid=2504&amp;sortmfr=N&amp;a1000002212=practice%2Fmachine&amp;CP=ILC-MENU&amp;nvbar=practiceBalls" class="menuTabItemText">Practice / Machine Balls</a></li>
-
-<li><a href="/customer/search2.jsp?scid=2504&amp;sortmfr=N&amp;a1000002212=tee+balls&amp;CP=ILC-MENU&amp;nvbar=teeBalls" class="menuTabItemText">Tee Balls</a></li>
-
-<li><a href="/customer/newProducts.jsp?id=1004&amp;CP=ILC-MENU&amp;nvbar=NewBalls" class="menuTabItemText">New Balls</a></li>
-</ul>
-</li>
-
-<li class="menuSection3">Batting
-<ul>
-<li><a href="/customer/search2.jsp?scid=2515&amp;CP=ILC-MENU&amp;nvbar=battingHelmets" class="menuTabItemText">Batting Helmets</a></li>
-
-<li><a href="/customer/search2.jsp?scid=2533&amp;CP=ILC-MENU&amp;nvbar=battingGloves" class="menuTabItemText">Batting Gloves</a></li>
-</ul>
-</li>
-
-<li class="menuSection4">  
-<ul></ul>
-</li>
-
-<li class="menuSection5">  
-<ul></ul>
-</li>
-
-<li class="menuSection6"><a href="/customer/search2.jsp?scid=2514&amp;CP=ILC-MENU&amp;nvbar=CatchersGear" class="menuTabSectionText">Baseball Catchers Gear</a>
-<ul>
-<li><a href="/customer/search2.jsp?scid=2514&amp;sortmfr=N&amp;a1000002239=adult&amp;CP=ILC-MENU&amp;nvbar=adultCatchersGear" class="menuTabItemText">Adult</a></li>
-
-<li><a href="/customer/search2.jsp?scid=2514&amp;sortmfr=N&amp;a1000002239=youth&amp;CP=ILC-MENU&amp;nvbar=youthCatchersGear" class="menuTabItemText">Youth</a></li>
-
-<li><a href="/customer/search2.jsp?scid=2637&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=customCatchersGear" class="menuTabItemText">Custom Catchers Gear</a></li>
-
-<li><a href="/customer/newProducts.jsp?id=1005&amp;CP=ILC-MENU&amp;nvbar=NewCatchersGear" class="menuTabItemText">New Catchers Gear</a></li>
-</ul>
-</li>
-
-<li class="menuSection7">Protective Baseball Gear
-<ul>
-<li><a href="/customer/search2.jsp?scid=2517&amp;CP=ILC-MENU&amp;nvbar=mensProtectiveGear" class="menuTabItemText">Mens Protective Gear </a></li>
-
-<li><a href="/customer/search2.jsp?scid=2518&amp;CP=ILC-MENU&amp;nvbar=womensProtectiveGear" class="menuTabItemText">Womens Protective Gear </a></li>
-
-<li><a href="/customer/search2.jsp?scid=2519&amp;CP=ILC-MENU&amp;nvbar=youthProtectiveGear" class="menuTabItemText">Youth Protective Gear</a></li>
-
-<li><a href="/customer/newProducts.jsp?id=1049&amp;CP=ILC-MENU&amp;nvbar=NewProtectiveGear" class="menuTabItemText">New Protective Gear</a></li>
+<li><a href="/customer/search2.jsp?scid=2543&amp;a1000006017=bat+grips&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=BatsTab-BatGrips" class="menuTabItemText" rel="nofollow">Bat Grips</a></li>
 </ul>
 </li>
 </ul>
@@ -788,120 +663,42 @@ floatCart.refreshSummary();
 </li>
 
 <li onmouseout="menuTabMouseOut(1)" onmouseover="menuTabMouseOver(1)" id="menuTabCell1" class="menuTabNotSelected">
-<div class="aDiv"><a href="javascript:changeMenuTab(1)" class="menuTabNotSelectedA" id="menuTabCell1A"><span>Apparel / Shoes</span></a>
+<div class="aDiv"><a href="javascript:changeMenuTab(1)" class="menuTabNotSelectedA" id="menuTabCell1A"><span>Gloves</span></a>
 </div>
 
 <div class="menuWrap" id="mWrap1">
 <div class="menuDiv">
 <div class="closeDiv">
-<a onclick="closeMenuTab(1,false);curMenuHeaderIndex=-1;return false" href="#">Close [ X ]</a>
+<a onclick="closeMenuTab(1,false);curMenuHeaderIndex=-1;return false" href="#" style="color:#000000">Close [ X ]</a>
 </div>
 <ul>
-<li class="menuSection0">Mens Baseball Apparel
+<li class="menuSection0"><a href="/customer/search2.jsp?scid=2520&amp;nvbar=glovesTab-shopAllGloves&amp;CP=ILC-MENU&amp;nvbar=GlovesTab-BaseballGloves" class="menuTabSectionText"><u>Baseball Gloves</u></a>
 <ul>
-<li><a href="/customer/search2.jsp?scid=2523&amp;sortmfr=N&amp;a1000002231=mens&amp;sortmfr=N&amp;a1000001320=adult&amp;CP=ILC-MENU&amp;nvbar=mensJerseyShirts" class="menuTabItemText">Jerseys / Shirts</a></li>
+<li><a href="/customer/search2.jsp?scid=2520&amp;nvbar=glovesTab-shopAllGloves&amp;CP=ILC-MENU&amp;nvbar=GlovesTab-ShopAllBaseballGloves" class="menuTabItemText">Shop All Baseball Gloves</a></li>
 
-<li><a href="/customer/search2.jsp?scid=2527&amp;sortmfr=N&amp;a1000002231=mens&amp;CP=ILC-MENU&amp;nvbar=mensOuterwear" class="menuTabItemText">Outerwear / Jackets</a></li>
+<li><a href="/customer/search2.jsp?scid=2520&amp;a1000002211=baseball&amp;a1000002236=catchers&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=GlovesTab-CatchersMitt" class="menuTabItemText">Catchers Mitt</a></li>
 
-<li><a href="/customer/search2.jsp?scid=2524&amp;sortmfr=N&amp;a1000002231=mens&amp;CP=ILC-MENU&amp;nvbar=Pants/Shorts" class="menuTabItemText">Pants / Shorts</a></li>
+<li><a href="/customer/search2.jsp?scid=2520&amp;a1000002211=baseball&amp;a1000002236=pitchers&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=GlovesTab-PitchersGloves" class="menuTabItemText">Pitchers Gloves</a></li>
 
-<li><a href="/customer/search2.jsp?scid=2525&amp;a1000002231=mens&amp;sortmfr=N&amp;a1000002239=adult&amp;CP=ILC-MENU&amp;nvbar=mensSocks" class="menuTabItemText">Socks / Belts</a></li>
+<li><a href="/customer/search2.jsp?scid=2520&amp;a1000002211=baseball&amp;a1000002236=1st+base&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=GlovesTab-FirstBaseGloves" class="menuTabItemText">First Base Gloves</a></li>
 
-<li><a href="/customer/search2.jsp?scid=2526&amp;a1000002231=mens&amp;sortmfr=N&amp;a1000002239=adult&amp;CP=ILC-MENU&amp;nvbar=mensUnderGarments" class="menuTabItemText">Under Garments / Layers</a></li>
+<li><a href="/customer/search2.jsp?scid=2520&amp;a1000002211=baseball&amp;a1000002236=infield&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=GlovesTab-InfieldGloves" class="menuTabItemText">Infield Gloves</a></li>
 
-<li><a href="/customer/newProducts.jsp?id=1003&amp;CP=ILC-MENU&amp;nvbar=NewMensApparel" class="menuTabItemText">New Apparel</a></li>
+<li><a href="/customer/search2.jsp?scid=2520&amp;a1000002211=baseball&amp;a1000002236=outfield&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=GlovesTab-OutfieldGloves" class="menuTabItemText">Outfield Gloves</a></li>
 </ul>
 </li>
 
-<li class="menuSection1">Mens Baseball Shoes
+<li class="menuSection1"><font color="#003399" style="font-weight:bold;">Batting Gloves</font>
 <ul>
-<li><a href="/customer/search2.jsp?scid=2529&amp;a1000002231=mens&amp;sortmfr=N&amp;a1000002240=metal&amp;CP=ILC-MENU&amp;nvbar=mensMetalCleats" class="menuTabItemText">Metal Cleats</a></li>
-
-<li><a href="/customer/search2.jsp?scid=2529&amp;a1000002231=mens&amp;sortmfr=N&amp;a1000002240=molded&amp;CP=ILC-MENU&amp;nvbar=mensPlasticCleats" class="menuTabItemText">Molded Plastic Cleats</a></li>
-
-<li><a href="/customer/search2.jsp?scid=2529&amp;a1000002231=mens&amp;sortmfr=N&amp;a1000002240=interchangeable&amp;CP=ILC-MENU&amp;nvbar=mensInterchangeableCleats" class="menuTabItemText">Interchangeable Cleats</a></li>
-
-<li><a href="/customer/search2.jsp?scid=2529&amp;a1000002231=mens&amp;sortmfr=N&amp;a1000002240=turf+shoes&amp;CP=ILC-MENU&amp;nvbar=mensTurfShoes" class="menuTabItemText">Turf Shoes</a></li>
-
-<li><a href="/customer/search2.jsp?scid=2529&amp;a1000002231=mens&amp;sortmfr=N&amp;a1000002240=fitness+training&amp;CP=ILC-MENU&amp;nvbar=mensfitnesstraining" class="menuTabItemText">Fitness Training</a></li>
-
-<li><a href="/customer/search2.jsp?scid=2529&amp;a1000002231=mens&amp;sortmfr=N&amp;a1000002240=slides&amp;CP=ILC-MENU&amp;nvbar=mensSlides" class="menuTabItemText">Slides/Sandals</a></li>
-
-<li><a href="/customer/newProducts.jsp?id=1002&amp;CP=ILC-MENU&amp;nvbar=NewMensShoes" class="menuTabItemText">New Shoes</a></li>
+<li><a href="/customer/search2.jsp?scid=2533&amp;CP=ILC-MENU&amp;nvbar=GlovesTab-ShopAllBattingGloves" class="menuTabItemText">Shop All Batting Gloves</a></li>
 </ul>
 </li>
 
-<li class="menuSection2">Womens Baseball Apparel
+<li class="menuSection2"><font color="#003399" style="font-weight:bold;">Shop Related</font> 
 <ul>
-<li><a href="/customer/search2.jsp?scid=2523&amp;sortmfr=N&amp;a1000002231=womens&amp;sortmfr=N&amp;a1000001320=adult&amp;CP=ILC-MENU&amp;nvbar=womensJerseyShirts" class="menuTabItemText">Jerseys / Shirts</a></li>
+<li><a href="/customer/search2.jsp?scid=2545&amp;a1000006035=glove&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=GlovesTab-RepairMaintenance" class="menuTabItemText">Repair / Maintenance</a></li>
 
-<li><a href="/customer/search2.jsp?scid=2527&amp;sortmfr=N&amp;a1000002231=womens&amp;CP=ILC-MENU&amp;nvbar=womensOuterwear" class="menuTabItemText">Outerwear / Jackets</a></li>
-
-<li><a href="/customer/search2.jsp?scid=2524&amp;sortmfr=N&amp;a1000002231=womens&amp;CP=ILC-MENU&amp;nvbar=Pants/Shorts" class="menuTabItemText">Pants / Shorts</a></li>
-
-<li><a href="/customer/search2.jsp?scid=2525&amp;sortmfr=N&amp;a1000002231=womens&amp;CP=ILC-MENU&amp;nvbar=womensSocks" class="menuTabItemText">Socks / Belts</a></li>
-
-<li><a href="/customer/search2.jsp?scid=2526&amp;sortmfr=N&amp;a1000002231=womens&amp;nvbar=womensUnderGarments" class="menuTabItemText">Under Garments / Layers</a></li>
-
-<li><a href="/customer/newProducts.jsp?id=1045&amp;CP=ILC-MENU&amp;nvbar=NewWomensApparel" class="menuTabItemText">New Apparel</a></li>
-</ul>
-</li>
-
-<li class="menuSection3">Womens Baseball Shoes
-<ul>
-<li><a href="/customer/search2.jsp?scid=2529&amp;a1000002231=womens&amp;sortmfr=N&amp;a1000002240=metal&amp;CP=ILC-MENU&amp;nvbar=womensMetalCleats" class="menuTabItemText">Metal Cleats</a></li>
-
-<li><a href="/customer/search2.jsp?scid=2529&amp;a1000002231=womens&amp;sortmfr=N&amp;a1000002240=molded&amp;CP=ILC-MENU&amp;nvbar=womensPlasticCleats" class="menuTabItemText">Molded Plastic Cleats</a></li>
-
-<li><a href="/customer/search2.jsp?scid=2529&amp;a1000002231=womens&amp;sortmfr=N&amp;a1000002240=fitness+training&amp;CP=ILC-MENU&amp;nvbar=womensfitnesstraining" class="menuTabItemText">Fitness Training </a></li>
-
-<li><a href="/customer/search2.jsp?scid=2529&amp;a1000002231=womens&amp;sortmfr=N&amp;a1000002240=slides&amp;CP=ILC-MENU&amp;nvbar=womensSandals" class="menuTabItemText">Slides/Sandals</a></li>
-
-<li><a href="/customer/newProducts.jsp?id=1046&amp;CP=ILC-MENU&amp;nvbar=NewWomensShoes" class="menuTabItemText">New Shoes</a></li>
-</ul>
-</li>
-
-<li class="menuSection4">Youth Baseball Apparel
-<ul>
-<li><a href="/customer/search2.jsp?scid=2523&amp;sortmfr=N&amp;a1000002239=youth&amp;CP=ILC-MENU&amp;nvbar=youthJerseyShirts" class="menuTabItemText">Jerseys / Shirts</a></li>
-
-<li><a href="/customer/search2.jsp?scid=2527&amp;sortmfr=N&amp;a1000002239=youth&amp;CP=ILC-MENU&amp;nvbar=youthOuterwear" class="menuTabItemText">Outerwear / Jackets</a></li>
-
-<li><a href="/customer/search2.jsp?scid=2524&amp;sortmfr=N&amp;a1000002239=youth&amp;CP=ILC-MENU&amp;nvbar=Pants/Shorts" class="menuTabItemText">Pants / Shorts</a></li>
-
-<li><a href="/customer/search2.jsp?scid=2525&amp;sortmfr=N&amp;a1000002239=youth&amp;CP=ILC-MENU&amp;nvbar=youthSocks" class="menuTabItemText">Socks / Belts</a></li>
-
-<li><a href="/customer/search2.jsp?scid=2526&amp;sortmfr=N&amp;a1000002239=youth&amp;CP=ILC-MENU&amp;nvbar=youthUnderGarments" class="menuTabItemText">Under Garments / Layers</a></li>
-
-<li><a href="/customer/newProducts.jsp?id=1044&amp;CP=ILC-MENU&amp;nvbar=NewYouthApparel" class="menuTabItemText">New Apparel</a></li>
-</ul>
-</li>
-
-<li class="menuSection5">Youth Baseball Shoes
-<ul>
-<li><a href="/customer/search2.jsp?scid=2529&amp;a1000002240=molded&amp;CP=ILCsortmfr=N&amp;a1000002231=youth" class="menuTabItemText">Molded Plastic Cleats</a></li>
-
-<li><a href="/customer/search2.jsp?scid=2529&amp;a1000002240=fitness+training&amp;CP=ILCsortmfr=N&amp;a1000002231=youth" class="menuTabItemText">Fitness Training</a></li>
-
-<li><a href="/customer/newProducts.jsp?id=1047&amp;CP=ILC-MENU&amp;nvbar=NewYouthShoes" class="menuTabItemText">New Youth Shoes</a></li>
-</ul>
-</li>
-
-<li class="menuSection6">Baseball Caps/Hats
-<ul>
-<li><a href="/customer/search2.jsp?scid=2551&amp;CP=ILC-MENU&amp;nvbar=Hats" class="menuTabItemText">Caps / Hats</a></li>
-
-<li><a href="/teamhats/index.jsp?CP=ILC-MENU&amp;nvbar=appcustomHats" class="menuTabItemText">Richardson Custom Hats</a></li>
-
-<li><a href="/customer/newProducts.jsp?id=1060&amp;CP=ILC-MENU&amp;nvbar=NewHats" class="menuTabItemText">New Caps / Hats</a></li>
-</ul>
-</li>
-
-<li class="menuSection7">Cold Weather Baseball Accessories
-<ul>
-<li><a href="/customer/search2.jsp?scid=2578&amp;CP=ILC-MENU&amp;nvbar=coldWeatherAccessories" class="menuTabItemText">Cold Weather Accessories</a></li>
-
-<li><a href="/customer/newProducts.jsp?id=1100&amp;CP=ILC-MENU&amp;nvbar=NewColdWeatherAccessories" class="menuTabItemText">New Cold Weather Accessories</a></li>
+<li><a href="/customer/category/showcategory.jsp?CATEGORY=12512&amp;CATPRE=W4&amp;CP=ILC-MENU&amp;nvbar=GlovesTab-GloveSteaming" class="menuTabItemText">Glove Steaming</a></li>
 </ul>
 </li>
 </ul>
@@ -909,145 +706,95 @@ floatCart.refreshSummary();
 </li>
 
 <li onmouseout="menuTabMouseOut(2)" onmouseover="menuTabMouseOver(2)" id="menuTabCell2" class="menuTabNotSelected">
-<div class="aDiv"><a href="javascript:changeMenuTab(2)" class="menuTabNotSelectedA" id="menuTabCell2A"><span>Field Equipment</span></a>
+<div class="aDiv"><a href="javascript:changeMenuTab(2)" class="menuTabNotSelectedA" id="menuTabCell2A"><span>Apparel</span></a>
 </div>
 
 <div class="menuWrap" id="mWrap2">
 <div class="menuDiv">
 <div class="closeDiv">
-<a onclick="closeMenuTab(2,false);curMenuHeaderIndex=-1;return false" href="#">Close [ X ]</a>
+<a onclick="closeMenuTab(2,false);curMenuHeaderIndex=-1;return false" href="#" style="color:#000000">Close [ X ]</a>
 </div>
 <ul>
-<li class="menuSection0"><a href="/customer/search2.jsp?scid=2542&amp;CP=ILC-MENU&amp;nvbar=fieldMaintenance" class="menuTabSectionText">Baseball Bases / Field Maintenance</a>
+<li class="menuSection0"><a href="/customer/search2.jsp?scid=7388&amp;search2=All+Baseball+Apparel&amp;CP=ILC-MENU&amp;nvbar=ApparelTab-BaseballApparel" class="menuTabSectionText"><u>Baseball Apparel</u></a>
 <ul>
-<li><a href="/customer/search2.jsp?scid=2542&amp;CP=ILC-MENU&amp;nvbar=fieldMaintenance" class="menuTabItemText">Bases / Field Maintenance</a></li>
+<li><a href="/customer/search2.jsp?scid=7388&amp;search2=All+Baseball+Apparel&amp;CP=ILC-MENU&amp;nvbar=ApparelTab-ShopAllApparel" class="menuTabItemText">Shop All Apparel</a></li>
 
-<li><a href="/customer/newProducts.jsp?id=1055&amp;CP=ILC-MENU&amp;nvbar=NewBases" class="menuTabItemText">New Bases / Base Lines</a></li>
+<li><a href="/customer/search2.jsp?scid=7389&amp;search2=Uniforms&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=ApparelTab-Uniforms" class="menuTabItemText">Uniforms</a></li>
+
+<li><a href="/customer/search2.jsp?scid=2527&amp;a1000005891=jackets&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=ApparelTab-Jackets" class="menuTabItemText">Jackets</a></li>
+
+<li><a href="/customer/search2.jsp?scid=2527&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=ApparelTab-Pullovers" class="menuTabItemText">Pullovers</a></li>
+
+<li><a href="/customer/search2.jsp?scid=2523&amp;a1000002273=jerseys&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=ApparelTab-Jerseys" class="menuTabItemText">Jerseys</a></li>
+
+<li><a href="/customer/search2.jsp?scid=2523&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=ApparelTab-Shirts" class="menuTabItemText">Shirts</a></li>
+
+<li><a href="/customer/search2.jsp?scid=2524&amp;a1000002272=pants&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=ApparelTab-Pants" class="menuTabItemText">Pants</a></li>
+
+<li><a href="/customer/search2.jsp?scid=2524&amp;a1000002272=shorts&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=ApparelTab-Shorts" class="menuTabItemText">Shorts</a></li>
+
+<li><a href="/customer/search2.jsp?scid=2525&amp;a5908=belts&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=ApparelTab-Belts" class="menuTabItemText">Belts</a></li>
+
+<li><a href="/customer/search2.jsp?scid=2525&amp;a5908=socks&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=ApparelTab-Socks" class="menuTabItemText">Socks</a></li>
+
+<li><a href="/customer/search2.jsp?scid=2551&amp;CP=ILC-MENU&amp;nvbar=Hats&amp;CP=ILC-MENU&amp;nvbar=ApparelTab-Caps" class="menuTabItemText">Caps</a></li>
 </ul>
 </li>
 
-<li class="menuSection1"><a href="/customer/search2.jsp?scid=2530&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=equipmentBags" class="menuTabSectionText">Baseball Equipment Bags / Bat Packs</a>
+<li class="menuSection1"><font color="#003399" style="font-weight:bold;">Shop Related</font> 
 <ul>
-<li><a href="/customer/search2.jsp?scid=2530&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=equipmentBags" class="menuTabItemText">Equipment Bags / Bat Packs</a></li>
+<li><a href="/customer/search2.jsp?scid=2526&amp;a1000006011=sliding+shorts&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=ApparelTab-SlidingShorts" class="menuTabItemText">Sliding Shorts</a></li>
 
-<li><a href="/customer/newProducts.jsp?id=1056&amp;CP=ILC-MENU&amp;nvbar=NewEquipmentBags" class="menuTabItemText">New Equipment Bags / Buckets</a></li>
+<li><a href="/customer/search2.jsp?scid=2517&amp;a5368=cups&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=ApparelTab-Caps" class="menuTabItemText">Cups</a></li>
+
+<li><a href="/customer/search2.jsp?scid=2526&amp;a1000006011=compression&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=ApparelTab-Compression" class="menuTabItemText">Compression</a></li>
+
+
+<li><a href="/customer/search2.jsp?scid=2534&amp;a1000006033=headbands&amp;search2=wrist&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=ApparelTab-Headbands" class="menuTabItemText">Headbands</a></li>
+
+<li><a href="/customer/search2.jsp?scid=2534&amp;a1000006033=wristbands&amp;search2=wrist&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=ApparelTab-Wristbands" class="menuTabItemText">Wristbands</a></li>
+
+<li><a href="/customer/search2.jsp?scid=2594&amp;a1821=apparel&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=ApparelTab-UmpireClothes" class="menuTabItemText">Umpire Clothes</a></li>
 </ul>
 </li>
 
-<li class="menuSection2"><a href="/customer/search2.jsp?scid=2545&amp;CP=ILC-MENU&amp;nvbar=repairMaintenance" class="menuTabSectionText">Baseball Repair / Maintenance</a>
-<ul>
-<li><a href="/customer/search2.jsp?scid=2545&amp;CP=ILC-MENU&amp;nvbar=repairMaintenance" class="menuTabItemText">Repair / Maintenance</a></li>
-
-<li><a href="/customer/newProducts.jsp?id=1042&amp;CP=ILC-MENU&amp;nvbar=NewRepairMaintenance" class="menuTabItemText">New Repair / Maintenance</a></li>
-</ul>
-</li>
-
-<li class="menuSection3"><a href="/customer/search2.jsp?scid=2544&amp;CP=ILC-MENU&amp;nvbar=sunGlareProtection" class="menuTabSectionText">Baseball Sun / Glare Protection</a>
-<ul>
-<li><a href="/customer/search2.jsp?scid=2544&amp;CP=ILC-MENU&amp;nvbar=sunGlareProtection" class="menuTabItemText">Sun / Glare Protection</a></li>
-</ul>
-</li>
-
-<li class="menuSection4"><a href="/customer/search2.jsp?scid=2543&amp;CP=ILC-MENU&amp;nvbar=gripAids" class="menuTabSectionText">Baseball Grip Aids</a>
-<ul>
-<li><a href="/customer/search2.jsp?scid=2543&amp;CP=ILC-MENU&amp;nvbar=gripAids" class="menuTabItemText">Grip Aids</a></li>
-
-<li><a href="/customer/newProducts.jsp?id=1041&amp;CP=ILC-MENU&amp;nvbar=NewGripAides" class="menuTabItemText">New Grip Aids</a></li>
-</ul>
-</li>
-
-<li class="menuSection5"><a href="/customer/search2.jsp?scid=2594&amp;CP=ILC-MENU&amp;nvbar=umpireGear" class="menuTabSectionText">Baseball Umpire Gear</a>
-<ul>
-<li><a href="/customer/search2.jsp?scid=2594&amp;sortmfr=N&amp;a1340=apparel&amp;CP=ILC-MENU&amp;nvbar=umpireApparel" class="menuTabItemText">Umpire Apparel</a></li>
-
-<li><a href="/customer/search2.jsp?scid=2594&amp;sortmfr=N&amp;a1340=accessories&amp;CP=ILC-MENU&amp;nvbar=umpireAccessories" class="menuTabItemText">Umpire Accessories</a></li>
-
-<li><a href="/customer/search2.jsp?scid=2594&amp;sortmfr=N&amp;a1340=protective+gear&amp;CP=ILC-MENU&amp;nvbar=umpireProtectiveGear" class="menuTabItemText">Umpire Protective Gear</a></li>
-</ul>
-</li>
-
-<li class="menuSection6">Baseball Coaches Corner
-<ul>
-<li><a href="/customer/search2.jsp?scid=2595&amp;CP=ILC-MENU&amp;nvbar=coachesLineup" class="menuTabItemText">Scoring / Lineup</a></li>
-
-<li><a href="/customer/search2.jsp?scid=2595&amp;CP=ILC-MENU&amp;nvbar=coachesAccessories" class="menuTabItemText">Coaches Accessories</a></li>
-
-<li><a href="/customer/newProducts.jsp?id=1161&amp;CP=ILC-MENU&amp;nvbar=NewCoachesAccessories" class="menuTabItemText">New Coaches Accessories</a></li>
-</ul>
+<li class="menuSection2"><a href="/teamsales/index.jsp?&amp;CP=ILC-MENU&amp;nvbar=ApparelTab-TeamSalesVolumeDiscounts" class="menuTabSectionText"><u>Team / Volume Discounts</u></a>
+<ul></ul>
 </li>
 </ul>
 <div class="clearMenu"> </div></div></div>
 </li>
 
 <li onmouseout="menuTabMouseOut(3)" onmouseover="menuTabMouseOver(3)" id="menuTabCell3" class="menuTabNotSelected">
-<div class="aDiv"><a href="javascript:changeMenuTab(3)" class="menuTabNotSelectedA" id="menuTabCell3A"><span>Accessories</span></a>
+<div class="aDiv"><a href="javascript:changeMenuTab(3)" class="menuTabNotSelectedA" id="menuTabCell3A"><span>Shoes</span></a>
 </div>
 
 <div class="menuWrap" id="mWrap3">
 <div class="menuDiv">
 <div class="closeDiv">
-<a onclick="closeMenuTab(3,false);curMenuHeaderIndex=-1;return false" href="#">Close [ X ]</a>
+<a onclick="closeMenuTab(3,false);curMenuHeaderIndex=-1;return false" href="#" style="color:#000000">Close [ X ]</a>
 </div>
 <ul>
-<li class="menuSection0">Baseball Accessories
+<li class="menuSection0"><a href="/customer/search2.jsp?scid=2529&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=ShoesTab-BaseballShoes" class="menuTabSectionText"><u>Baseball Shoe</u></a>
 <ul>
-<li><a href="/customer/search2.jsp?scid=2533&amp;CP=ILC-MENU&amp;nvbar=battingGloves" class="menuTabItemText">Batting Gloves</a></li>
 
-<li><a href="/customer/search2.jsp?scid=2530&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=equipmentBags" class="menuTabItemText">Equipment Bags / Bat Packs</a></li>
+<li><a href="/customer/search2.jsp?scid=2529&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=ShoesTab-ShopAllCleats" class="menuTabItemText">Shop All Baseball Cleats</a></li>
 
-<li><a href="/customer/search2.jsp?scid=7095&amp;sortmfr=N&amp;a1000002249=ball+buckets" class="menuTabItemText">Ball Buckets</a></li>
+<li><a href="/customer/search2.jsp?scid=2529&amp;a1000002240=metal&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=ShoesTab-MetalBaseballCleats" class="menuTabItemText">Metal Baseball Cleats</a></li>
 
-<li><a href="/customer/search2.jsp?scid=2552&amp;CP=ILC-MENU&amp;nvbar=Sunglasses" class="menuTabItemText">Sunglasses</a></li>
+<li><a href="/customer/search2.jsp?scid=2529&amp;a1000002240=molded&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=ShoesTab-MoldedBaseballCleats" class="menuTabItemText">Molded Baseball Cleats</a></li>
 
-<li><a href="/customer/search2.jsp?scid=2591&amp;CP=ILC-MENU&amp;nvbar=spectatorAccessories" class="menuTabItemText">Spectator Accessories</a></li>
-
-<li><a href="/customer/search2.jsp?scid=2557&amp;CP=ILC-MENU&amp;nvbar=sportsHealth" class="menuTabItemText">Sports Health</a></li>
-
-<li><a href="/customer/search2.jsp?scid=6011&amp;CP=ILC-MENU&amp;nvbar=magneticIonicTherapy" class="menuTabItemText">Magnetic/Ionic Therapy</a></li>
-
-<li><a href="/customer/category/product.jsp?SUBCATEGORY_ID=21569&amp;CP=ILC-MENU&amp;nvbar=personalizedTowels" class="menuTabItemText">Personalized Towels</a></li>
-
-<li><a href="/customer/newProducts.jsp?id=1006&amp;CP=ILC-MENU&amp;nvbar=NewAccessories" class="menuTabItemText">New Accessories</a></li>
-
-<li><a href="/customer/newProducts.jsp?id=1080&amp;CP=ILC-MENU&amp;nvbar=NewSportsHealth" class="menuTabItemText">New Sports Health</a></li>
+<li><a href="/customer/search2.jsp?scid=2529&amp;a1000002240=turf+shoes&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=ShoesTab-BaseballTurfShoes" class="menuTabItemText">Baseball Turf Shoes</a></li>
 </ul>
 </li>
 
-<li class="menuSection1">Baseball Training / Practice
+<li class="menuSection1"><font color="#003399" style="font-weight:bold;">Shop Related</font> 
 <ul>
-<li><a href="/customer/search2.jsp?scid=2558&amp;CP=ILC-MENU&amp;nvbar=battingAids" class="menuTabItemText">Batting Aids</a></li>
+<li><a href="/customer/search2.jsp?scid=2529&amp;a1000002240=running+shoes&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=ShoesTab-RunningShoes" class="menuTabItemText">Running Shoes</a></li>
 
-<li><a href="/customer/search2.jsp?scid=2537&amp;CP=ILC-MENU&amp;nvbar=fieldingAids" class="menuTabItemText">Fielding Aids</a></li>
+<li><a href="/customer/search2.jsp?scid=2529&amp;a1000002240=slides&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=ShoesTab-FlipFlops" class="menuTabItemText">Flip Flops</a></li>
 
-<li><a href="/customer/search2.jsp?scid=2540&amp;CP=ILC-MENU&amp;nvbar=hittingPitchingNets" class="menuTabItemText">Hitting / Pitching Nets</a></li>
-
-<li><a href="/customer/search2.jsp?scid=2541&amp;CP=ILC-MENU&amp;nvbar=instructionalDVD" class="menuTabItemText">Instructional DVD-CD-VHS</a></li>
-
-<li><a href="/customer/search2.jsp?scid=2536&amp;CP=ILC-MENU&amp;nvbar=pitchingAids" class="menuTabItemText">Pitching Aids</a></li>
-
-<li><a href="/customer/search2.jsp?scid=2538&amp;CP=ILC-MENU&amp;nvbar=pitchingMachines" class="menuTabItemText">Pitching Machines</a></li>
-
-<li><a href="/customer/search2.jsp?scid=2639&amp;CP=ILC-MENU&amp;nvbar=strengthConditioning" class="menuTabItemText">Strength &amp; Conditioning</a></li>
-
-<li><a href="/customer/search2.jsp?scid=2633&amp;CP=ILC-MENU&amp;nvbar=trainingBats" class="menuTabItemText">Training Bats</a></li>
-
-<li><a href="/customer/newProducts.jsp?id=1007&amp;CP=ILC-MENU&amp;nvbar=NewTraining" class="menuTabItemText">New Training / Practice</a></li>
-</ul>
-</li>
-
-<li class="menuSection2">Baseball Player Accessories
-<ul>
-<li><a href="/customer/search2.jsp?scid=2534&amp;search2=wrist&amp;CP=ILC-MENU&amp;nvbar=wristArmHeadBands" class="menuTabItemText">Wrist/Arm/Head Bands</a></li>
-
-<li><a href="/customer/category/showcategory.jsp?CATEGORY=1504&amp;CP=ILC-MENU&amp;nvbar=fieldAccessories" class="menuTabItemText">Field Accessories</a></li>
-
-<li><a href="/customer/newProducts.jsp?id=1061&amp;CP=ILC-MENU&amp;nvbar=NewPlayerAccessories" class="menuTabItemText">New Player Accessories</a></li>
-</ul>
-</li>
-
-<li class="menuSection3">Gift Wrap
-<ul>
-<li><a href="/customer/search2.jsp?scid=7115&amp;CP=ILC-MENU&amp;nvbar=giftwrap" class="menuTabItemText">Gift Wrap</a></li>
+<li><a href="/customer/search2.jsp?scid=2529&amp;a1000002240=turf+shoes&amp;search2=umpire&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=ShoesTab-UmpireShoes" class="menuTabItemText">Umpire Shoes</a></li>
 </ul>
 </li>
 </ul>
@@ -1055,391 +802,484 @@ floatCart.refreshSummary();
 </li>
 
 <li onmouseout="menuTabMouseOut(4)" onmouseover="menuTabMouseOver(4)" id="menuTabCell4" class="menuTabNotSelected">
-<div class="aDiv"><a href="javascript:changeMenuTab(4)" class="menuTabNotSelectedA" id="menuTabCell4A"><span>Team Logo</span></a>
+<div class="aDiv"><a href="javascript:changeMenuTab(4)" class="menuTabNotSelectedA" id="menuTabCell4A"><span>Baseballs</span></a>
 </div>
 
 <div class="menuWrap" id="mWrap4">
 <div class="menuDiv">
 <div class="closeDiv">
-<a onclick="closeMenuTab(4,false);curMenuHeaderIndex=-1;return false" href="#">Close [ X ]</a>
+<a onclick="closeMenuTab(4,false);curMenuHeaderIndex=-1;return false" href="#" style="color:#000000">Close [ X ]</a>
 </div>
 <ul>
-<li class="menuSection0">Team Pricing
+<li class="menuSection0"><a href="/customer/baseballs/index.jsp?CP=ILC-MENU&amp;nvbar=BaseballsTab-Baseballs" class="menuTabSectionText"><u>Baseballs</u></a>
 <ul>
-<li><a href="/teamsales/index.jsp?CP=ILC-MENU&amp;nvbar=mlbApparel" class="menuTabItemText">Team Pricing &amp; Discounts</a></li>
+<li><a href="/customer/search2.jsp?scid=2504&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=BaseballsTab-ShopAllBaseballs" class="menuTabItemText">Shop All Balls</a></li>
+
+<li><a href="/customer/search2.jsp?scid=2504&amp;a1000002212=baseballs&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=BaseballsTab-GameBalls" class="menuTabItemText">Game Balls</a></li>
+
+<li><a href="/customer/search2.jsp?scid=2504&amp;page=A&amp;search2=practice&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=BaseballsTab-PracticeBaseballs" class="menuTabItemText">Practice Baseballs</a></li>
+
+<li><a href="/customer/search2.jsp?scid=2504&amp;search2=pitching+machine&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=BaseballsTab-PitchingMachineBalls" class="menuTabItemText">Pitching Machine Balls</a></li>
+</ul>
+
+</li>
+
+<li class="menuSection1"><font color="#003399" style="font-weight:bold;">Shop Related</font> 
+<ul>
+<li><a href="/customer/search2.jsp?scid=7095&amp;a1000002249=ball+buckets&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=BaseballsTab-BallBuckets" class="menuTabItemText">Ball Buckets</a></li>
+
+<li><a href="/customer/search2.jsp?scid=2558&amp;a1000006013=batting+tees&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=BaseballsTab-BattingTees" class="menuTabItemText">Batting Tees</a></li>
+
+<li><a href="/customer/search2.jsp?scid=2537&amp;a1000006018=balls&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=BaseballsTab-TrainingBalls" class="menuTabItemText">Training Balls</a></li>
 </ul>
 </li>
 
-<li class="menuSection1"><a href="/customer/search2.jsp?scid=2547&amp;CP=ILC-MENU&amp;nvbar=mlbApparel" class="menuTabSectionText">MLB Apparel</a>
-<ul>
-<li><a href="/customer/search2.jsp?scid=2547&amp;CP=ILC-MENU&amp;nvbar=mlbApparel" class="menuTabItemText">MLB Apparel</a></li>
-
-<li><a href="/customer/newProducts.jsp?id=1052&amp;CP=ILC-MENU&amp;nvbar=NewMLBApparel" class="menuTabItemText">New MLB Apparel</a></li>
-</ul>
-</li>
-
-<li class="menuSection2"><a href="/customer/search2.jsp?scid=2549&amp;CP=ILC-MENU&amp;nvbar=mlbGifts" class="menuTabSectionText">Gifts/Accessories</a>
-<ul>
-<li><a href="/customer/search2.jsp?scid=2549&amp;CP=ILC-MENU&amp;nvbar=mlbGifts" class="menuTabItemText">MLB Gifts/Accessories</a></li>
-
-<li><a href="/customer/search2.jsp?scid=2559&amp;CP=ILC-MENU&amp;nvbar=ncaaGifts" class="menuTabItemText">NCAA Gifts / Accessories</a></li>
-
-<li><a href="/customer/search2.jsp?scid=7076" class="menuTabItemText">Gift Wrap</a></li>
-</ul>
-</li>
-
-<li class="menuSection3"><a href="/customer/search2.jsp?scid=2548&amp;CP=ILC-MENU&amp;nvbar=mlbHeadwear" class="menuTabSectionText">MLB Headwear</a>
-<ul>
-<li><a href="/customer/search2.jsp?scid=2548&amp;CP=ILC-MENU&amp;nvbar=mlbHeadwear" class="menuTabItemText">MLB Headwear</a></li>
-
-<li><a href="/customer/newProducts.jsp?id=1053&amp;CP=ILC-MENU&amp;nvbar=NewMLBHeadwear" class="menuTabItemText">New MLB Headwear</a></li>
-</ul>
-</li>
-
-<li class="menuSection4"><a href="/customer/search2.jsp?scid=2580&amp;CP=ILC-MENU&amp;nvbar=mlbMemorabilia" class="menuTabSectionText">MLB Memorabilia</a>
-<ul>
-<li><a href="/customer/search2.jsp?scid=2580&amp;CP=ILC-MENU&amp;nvbar=mlbMemorabilia" class="menuTabItemText">MLB Memorabilia</a></li>
-</ul>
-</li>
-
-<li class="menuSection5"><a href="/customer/search2.jsp?scid=2550&amp;CP=ILC-MENU&amp;nvbar=ncaaApparel" class="menuTabSectionText">NCAA Apparel</a>
-<ul>
-<li><a href="/customer/search2.jsp?scid=2550&amp;CP=ILC-MENU&amp;nvbar=ncaaApparel" class="menuTabItemText">NCAA Apparel</a></li>
-</ul>
-</li>
-
-<li class="menuSection6">NCAA Sunglasses
-<ul>
-<li><a href="/customer/search2.jsp?scid=6795&amp;CP=ILC-MENU&amp;nvbar=ncaasunglasses" class="menuTabItemText">NCAA Sunglasses</a></li>
-</ul>
-</li>
-
-<li class="menuSection7">MLB Sunglasses
-<ul>
-<li><a href="/customer/search2.jsp?scid=6796&amp;CP=ILC-MENU&amp;nvbar=mlbsunglasses" class="menuTabItemText">MLB Sunglasses</a></li>
-</ul>
+<li class="menuSection2"><a href="/teamsales/index.jsp?CP=ILC-MENU&amp;nvbar=BaseballsTab-TeamVolumeDiscounts" class="menuTabSectionText"><u>Team / Volume Discounts</u></a>
+<ul></ul>
 </li>
 </ul>
 <div class="clearMenu"> </div></div></div>
 </li>
 
 <li onmouseout="menuTabMouseOut(5)" onmouseover="menuTabMouseOver(5)" id="menuTabCell5" class="menuTabNotSelected">
-<div class="aDiv"><a href="javascript:changeMenuTab(5)" class="menuTabNotSelectedA" id="menuTabCell5A"><span>Custom Gear</span></a>
+<div class="aDiv"><a href="javascript:changeMenuTab(5)" class="menuTabNotSelectedA" id="menuTabCell5A"><span>Accessories</span></a>
 </div>
 
 <div class="menuWrap" id="mWrap5">
 <div class="menuDiv">
 <div class="closeDiv">
-<a onclick="closeMenuTab(5,false);curMenuHeaderIndex=-1;return false" href="#">Close [ X ]</a>
+<a onclick="closeMenuTab(5,false);curMenuHeaderIndex=-1;return false" href="#" style="color:#000000">Close [ X ]</a>
 </div>
 <ul>
-<li class="menuSection0"><a href="/customer/search2.jsp?scid=6675&amp;a5487=gloves&amp;CP=ILC-MENU&amp;nvbar=customGloves" class="menuTabSectionText">Custom Baseball Gloves</a>
-<ul>
-<li><a href="/custom/louisvillesluggergloves/index.jsp?CP=ILC-MENU&amp;nvbar=sluggerCustomGloves" class="menuTabItemText">Louisville Slugger Custom Gloves</a></li>
 
-<li><a href="/customer/search2.jsp?scid=6675&amp;a5487=gloves&amp;limitmfr=Rawlings+Sporting+Goods&amp;CP=ILC-MENU&amp;nvbar=rawlingsCustomGloves" class="menuTabItemText">Rawlings Custom Baseball Gloves</a></li>
+<li class="menuSection0"><font color="#003399" style="font-weight:bold;">Baseball Bags</font>
+<ul>
+<li><a href="/customer/search2.jsp?scid=2530&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=AccessoriesTab-ShopAllBaseballBags" class="menuTabItemText">Shop All Baseball Bags</a></li>
+
+<li><a href="/customer/search2.jsp?scid=2530&amp;a1000002249=bat+packs&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=AccessoriesTab-BatPacks" class="menuTabItemText">Bat Packs</a></li>
 </ul>
 </li>
 
-<li class="menuSection1"><a href="/customer/search2.jsp?scid=6675&amp;a5487=bats&amp;CP=ILC-MENU&amp;nvbar=customWoodBats" class="menuTabSectionText">Custom Wood Baseball Bats</a>
+<li class="menuSection1"><font color="#003399" style="font-weight:bold;">Baseball Accessories</font>
 <ul>
-<li><a href="/customer/search2.jsp?scid=6675&amp;a5487=bats&amp;search2=maple&amp;CP=ILC-MENU&amp;nvbar=customBatsMaple" class="menuTabItemText">BWP Custom Maple Baseball Bats</a></li>
+<li><a href="/customer/search2.jsp?scid=7401&amp;search2=Baseball+Accessories&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=AccessoriesTab-ShopAllAccessories" class="menuTabItemText">Shop All Accessories</a></li>
 
-<li><a href="/customer/category/product.jsp?SUBCATEGORY_ID=28331&amp;CP=ILC-MENU&amp;nvbar=customBatsAsh" class="menuTabItemText">BWP Custom Ash Baseball Bats</a></li>
+<li><a href="/customer/search2.jsp?scid=7385&amp;search2=Scoring+%2F+Lineup&amp;CP=ILC-MENU&amp;nvbar=AccessoriesTab-Scorebook" class="menuTabItemText">Scorebook</a></li>
 
-<li><a href="/customer/category/product.jsp?SUBCATEGORY_ID=28332&amp;CP=ILC-MENU&amp;nvbar=customBatsYouth" class="menuTabItemText">BWP Custom Youth Baseball Bats</a></li>
+<li><a href="/customer/search2.jsp?scid=2552&amp;CP=ILC-MENU&amp;nvbar=AccessoriesTab-Sunglasses" class="menuTabItemText">Baseball Sunglasses</a></li>
 
-<li><a href="/customer/category/product.jsp?SUBCATEGORY_ID=28333&amp;CP=ILC-MENU&amp;nvbar=customBatsSlowpitch" class="menuTabItemText">BWP Custom Slow Pitch Softball Bats</a></li>
+<li><a href="/customer/search2.jsp?scid=2595&amp;CP=ILC-MENU&amp;nvbar=AccessoriesTab-coachesAccessories" class="menuTabItemText">Coach Accessories</a></li>
 
-<li><a href="/customer/category/product.jsp?SUBCATEGORY_ID=28334&amp;CP=ILC-MENU&amp;nvbar=customBatsFungo" class="menuTabItemText">BWP Custom Fungo Bats</a></li>
+<li><a href="/customer/search2.jsp?scid=2544&amp;CP=ILC-MENU&amp;nvbar=AccessoriesTab-sunGlareProtection" class="menuTabItemText">Eye Black</a></li>
+
+<li><a href="/customer/search2.jsp?scid=2543&amp;a1000006017=pine+tar&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=AccessoriesTab-PineTar" class="menuTabItemText">Pine Tar</a></li>
+
+<li><a href="/customer/search2.jsp?scid=2591&amp;CP=ILC-MENU&amp;nvbar=AccessoriesTab-spectatorAccessories" class="menuTabItemText">Spectator Accessories</a></li>
+
+<li><a href="/customer/search2.jsp?scid=2545&amp;CP=ILC-MENU&amp;nvbar=AccessoriesTab-repairMaintenance" class="menuTabItemText">Repair / Maintenance</a></li>
 </ul>
 </li>
 
-<li class="menuSection2"><a href="/customer/search2.jsp?scid=6675&amp;sortmfr=N&amp;limitmfr=All+Star&amp;CP=ILC-MENU&amp;nvbar=customCatchersGear" class="menuTabSectionText">Custom Catchers Baseball Equipment</a>
-<ul>
-<li><a href="/customer/category/product.jsp?SUBCATEGORY_ID=29231&amp;CP=ILC-MENU&amp;nvbar=customCatchersMask" class="menuTabItemText">All Star Custom Catchers Mask</a></li>
-
-<li><a href="/customer/category/product.jsp?SUBCATEGORY_ID=29232&amp;CP=ILC-MENU&amp;nvbar=customCatchersChestProtector" class="menuTabItemText">All Star Custom Chest Protectors</a></li>
-
-<li><a href="/customer/category/product.jsp?SUBCATEGORY_ID=29233&amp;CP=ILC-MENU&amp;nvbar=customCatchersLegGuard" class="menuTabItemText">All Star Custom Leg Guards</a></li>
-</ul>
-</li>
-
-<li class="menuSection3"><a href="/teamhats/index.jsp?CP=ILC-MENU&amp;nvbar=customHats" class="menuTabSectionText">Custom Baseball Hats</a>
-<ul>
-<li><a href="/teamhats/index.jsp?CP=ILC-MENU&amp;nvbar=customHats" class="menuTabItemText">Richardson Custom Hats</a></li>
-</ul>
-</li>
-
-<li class="menuSection4">Personalized Baseball Gear
-<ul>
-<li><a href="/customer/category/product.jsp?SUBCATEGORY_ID=31212&amp;CP=ILC-MENU&amp;nvbar=PersonalizedTowels" class="menuTabItemText">Personalized Towels</a></li>
-
-<li><a href="/customer/category/product.jsp?SUBCATEGORY_ID=40079&amp;CP=ILC-MENU&amp;nvbar=PersonalizedWristGuards" class="menuTabItemText">Personalized Wrist Guards</a></li>
-</ul>
-</li>
 </ul>
 <div class="clearMenu"> </div></div></div>
 </li>
 
 <li onmouseout="menuTabMouseOut(6)" onmouseover="menuTabMouseOver(6)" id="menuTabCell6" class="menuTabNotSelected">
-<div class="aDiv"><a href="/giftcert/index.jsp?CP=ILC-MENU&amp;nvbar=giftCards" class="menuTabNotSelectedA" id="menuTabCell6A"><span>Gift Cards</span></a>
+<div class="aDiv"><a href="javascript:changeMenuTab(6)" class="menuTabNotSelectedA" id="menuTabCell6A"><span>Youth</span></a>
 </div>
+
+<div class="menuWrap" id="mWrap6">
+<div class="menuDiv">
+<div class="closeDiv">
+<a onclick="closeMenuTab(6,false);curMenuHeaderIndex=-1;return false" href="#" style="color:#000000">Close [ X ]</a>
+</div>
+
+<ul>
+<li class="menuSection0"><a href="/customer/search2.jsp?scid=2498&amp;a1000002239=youth&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=YouthTab-YouthBaseballBats" class="menuTabSectionText"><u>Youth Baseball Bats</u></a>
+<ul></ul>
+</li>
+
+<li class="menuSection1"><a href="/customer/search2.jsp?scid=2520&amp;a1000002211=baseball&amp;a1000002239=youth&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=YouthTab-YouthBaseballGloves" class="menuTabSectionText"><u>Youth Baseball Gloves</u></a>
+<ul></ul>
+</li>
+
+<li class="menuSection2"><a href="/customer/search2.jsp?scid=2529&amp;a1000002239=youth&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=YouthTab-YouthBaseballCleats" class="menuTabSectionText"><u>Youth Baseball Cleats</u></a>
+<ul></ul>
+</li>
+
+<li class="menuSection3"><a href="/customer/search2.jsp?scid=2533&amp;a1000002231=youth&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=YouthTab-YouthBattingGloves" class="menuTabSectionText"><u>Youth Batting Gloves</u></a>
+<ul></ul>
+</li>
+
+<li class="menuSection4"><a href="/customer/search2.jsp?scid=7388&amp;a5647=youth&amp;search2=All+Baseball+Apparel&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=YouthTab-YouthBaseballApparel" class="menuTabSectionText"><u>Youth Baseball Apparel</u></a>
+<ul>
+<li><a href="/customer/search2.jsp?scid=7389&amp;a5647=youth&amp;search2=Uniforms&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=YouthTab-YouthBaseballUniforms" class="menuTabItemText">Youth Baseball Uniforms</a></li>
+
+<li><a href="/customer/search2.jsp?scid=2523&amp;a1000002239=youth&amp;a1000002273=jerseys&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=YouthTab-YouthBaseballJerseys" class="menuTabItemText">Youth Baseball Jerseys</a></li>
+
+<li><a href="/customer/search2.jsp?scid=2524&amp;a1000002239=youth&amp;a1000002272=pants&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=YouthTab-YouthBaseballPants" class="menuTabItemText">Youth Baseball Pants</a></li>
+
+<li><a href="/customer/search2.jsp?scid=2524&amp;a1000002239=youth&amp;a1000002272=shorts&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=YouthTab-YouthBaseballShorts" class="menuTabItemText">Youth Baseball Shorts</a></li>
+
+<li><a href="/customer/search2.jsp?scid=2525&amp;a1000002239=youth&amp;a5908=socks&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=YouthTab-YouthBaseballSocks" class="menuTabItemText">Youth Baseball Socks</a></li>
+</ul>
+</li>
+
+<li class="menuSection5"><span style="font-weight:bold;">Youth Baseball Equipment</span>
+<ul>
+<li><a href="/customer/search2.jsp?scid=2552&amp;a5868=youth&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=YouthTab-YouthBaseballSunglasses" class="menuTabItemText">Youth Baseball Sunglasses</a></li>
+
+<li><a href="/customer/search2.jsp?scid=2515&amp;a1000002239=youth&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=YouthTab-YouthBattingHelmets" class="menuTabItemText">Youth Batting Helmets</a></li>
+
+<li><a href="/customer/search2.jsp?scid=2514&amp;a1000002239=youth&amp;nvbar=youthCatchersGear&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=YouthTab-YouthCatchingEquipment" class="menuTabItemText">Youth Catching Equipment</a></li>
+</ul>
+</li>
+
+<li class="menuSection6"><a href="/customer/search2.jsp?scid=2514&amp;a1000002239=youth&amp;nvbar=youthCatchersGear&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=YouthTab-YouthSoftballEquipment" class="menuTabSectionText"><u>Youth Softball Equipment</u></a>
+<ul></ul>
+</li>
+
+<li class="menuSection7"><a href="/customer/search2.jsp?scid=7402&amp;page=A&amp;search2=All+Youth&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=YouthTab-ShopAllYouth" class="menuTabSectionText"><u>Shop All Youth</u></a>
+<ul></ul>
+</li>
+
+</ul>
+<div class="clearMenu"> </div></div></div>
 </li>
 
 <li onmouseout="menuTabMouseOut(7)" onmouseover="menuTabMouseOver(7)" id="menuTabCell7" class="menuTabNotSelected">
-<div class="aDiv"><a href="javascript:changeMenuTab(7)" class="menuTabNotSelectedA" id="menuTabCell7A"><span>On Sale</span></a>
+<div class="aDiv"><a href="javascript:changeMenuTab(7)" class="menuTabNotSelectedA" id="menuTabCell7A"><span>Softball</span></a>
 </div>
 
 <div class="menuWrap" id="mWrap7">
 <div class="menuDiv">
 <div class="closeDiv">
-<a onclick="closeMenuTab(7,false);curMenuHeaderIndex=-1;return false" href="#">Close [ X ]</a>
+<a onclick="closeMenuTab(7,false);curMenuHeaderIndex=-1;return false" href="#" style="color:#000000">Close [ X ]</a>
 </div>
 <ul>
-<li class="menuSection0">Men's Baseball Apparel | Shoes
+<li class="menuSection0"><a href="/customer/search2.jsp?scid=2498&amp;search2=softball&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=SoftballTab-SoftballBats" class="menuTabSectionText"><u>Softball Bats</u></a>
 <ul>
-<li><a href="/customer/search2.jsp?scid=2523&amp;onsale=Y&amp;sortmfr=N&amp;a1000002231=mens&amp;CP=ILC-MENU&amp;nvbar=mensJerseyShirtsSale" class="menuTabItemText">Jerseys / Shirts</a></li>
+<li><a href="/customer/search2.jsp?scid=2498&amp;a1000002210=softball+(fastpitch)&amp;nvbar=softballBatsFastpitch&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=SoftballTab-FastpitchSoftballBats" class="menuTabItemText">Fastpitch Softball Bats</a></li>
 
-<li><a href="/customer/search2.jsp?scid=2527&amp;onsale=Y&amp;sortmfr=N&amp;a1000002231=mens&amp;CP=ILC-MENU&amp;nvbar=mensOuterwearSale" class="menuTabItemText">Outerwear / Jackets</a></li>
-
-<li><a href="/customer/search2.jsp?scid=2524&amp;onsale=Y&amp;sortmfr=N&amp;a1817=mens&amp;CP=ILC-MENU&amp;nvbar=mensSale" class="menuTabItemText">Pants / Shorts</a></li>
-
-<li><a href="/customer/search2.jsp?scid=2525&amp;onsale=Y&amp;sortmfr=N&amp;a1000002231=mens&amp;CP=ILC-MENU&amp;nvbar=mensSocksSale" class="menuTabItemText">Socks / Belts</a></li>
-
-<li><a href="/customer/search2.jsp?scid=2526&amp;onsale=Y&amp;sortmfr=N&amp;a1000002231=mens&amp;CP=ILC-MENU&amp;nvbar=mensUnderGarmentsSale" class="menuTabItemText">Under Garments / Layers</a></li>
-
-<li><a href="/customer/search2.jsp?scid=2529&amp;a1000002231=mens&amp;onsale=Y&amp;sortmfr=N&amp;a1000002240=metal&amp;CP=ILC-MENU&amp;nvbar=mensMetalCleatsSale" class="menuTabItemText">Metal Cleats</a></li>
-
-<li><a href="/customer/search2.jsp?scid=2529&amp;a1000002231=mens&amp;onsale=Y&amp;sortmfr=N&amp;a1000002240=molded&amp;CP=ILC-MENU&amp;nvbar=mensPlasticCleatsSale" class="menuTabItemText">Molded Plastic Cleats</a></li>
-
-<li><a href="/customer/search2.jsp?scid=2529&amp;a1000002231=mens&amp;onsale=Y&amp;sortmfr=N&amp;a1000002240=turf+shoes&amp;CP=ILC-MENU&amp;nvbar=mensTurfShoesSale" class="menuTabItemText">Turf Shoes</a></li>
-
-<li><a href="/customer/search2.jsp?scid=2529&amp;a1000002231=mens&amp;onsale=Y&amp;sortmfr=N&amp;a1000002240=athletic+shoes&amp;CP=ILC-MENU&amp;nvbar=mensAthleticShoes" class="menuTabItemText">Athletic Shoes</a></li>
-
-<li><a href="/customer/search2.jsp?scid=2529&amp;a1000002231=mens&amp;onsale=Y&amp;sortmfr=N&amp;a1000002240=slides&amp;CP=ILC-MENU&amp;nvbar=mensSandalsSale" class="menuTabItemText">Slides / Sandals</a></li>
+<li><a href="/customer/search2.jsp?scid=2498&amp;a1000002210=softball+(slowpitch)&amp;nvbar=softballBatsSlowpitch&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=SoftballTab-SlowpitchSoftballBats" class="menuTabItemText">Slowpitch Softball Bats</a></li>
 </ul>
 </li>
 
-<li class="menuSection1">Youth Baseball Apparel | Shoes
+<li class="menuSection1"><a href="/customer/search2.jsp?scid=7390&amp;search2=Softball+GlovesSoftball+Gloves&amp;CP=ILC-MENU&amp;nvbar=SoftballTab-SoftballGloves" class="menuTabSectionText"><u>Softball Gloves</u></a>
 <ul>
-<li><a href="/customer/search2.jsp?scid=2523&amp;onsale=Y&amp;sortmfr=N&amp;a1000002239=youth&amp;CP=ILC-MENU&amp;nvbar=youthJerseyShirtsSale" class="menuTabItemText">Jerseys / Shirts</a></li>
+<li><a href="/customer/search2.jsp?scid=2520&amp;a1000002211=fastpitch&amp;nvbar=fastpitchGloves&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=SoftballTab-FastpitchGloves" class="menuTabItemText">Fastpitch Gloves</a></li>
 
-<li><a href="/customer/search2.jsp?scid=2527&amp;onsale=Y&amp;sortmfr=N&amp;a1000002239=youth&amp;CP=ILC-MENU&amp;nvbar=youthOuterwearSale" class="menuTabItemText">Outerwear / Jackets</a></li>
-
-<li><a href="/customer/search2.jsp?scid=2524&amp;onsale=Y&amp;sortmfr=N&amp;a1816=youth&amp;CP=ILC-MENU&amp;nvbar=youthPantsSale" class="menuTabItemText">Pants / Shorts</a></li>
-
-<li><a href="/customer/search2.jsp?scid=2526&amp;onsale=Y&amp;sortmfr=N&amp;a1000002239=youth&amp;CP=ILC-MENU&amp;nvbar=youthUnderGarmentsSale" class="menuTabItemText">Under Garments / Layers</a></li>
-
-<li><a href="/customer/search2.jsp?scid=2529&amp;onsale=Y&amp;sortmfr=N&amp;a1000002239=youth&amp;CP=ILC-MENU&amp;nvbar=youthShoesSale" class="menuTabItemText">Youth Shoes</a></li>
+<li><a href="/customer/search2.jsp?scid=2520&amp;a1000002211=slowpitch&amp;nvbar=slowpitchGloves&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=SoftballTab-SlowpitchGloves" class="menuTabItemText">Slowpitch Gloves</a></li>
 </ul>
 </li>
 
-<li class="menuSection2">Women's Baseball Apparel | Shoes
+<li class="menuSection2"><a href="/customer/search2.jsp?scid=2504&amp;search2=softballs&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=SoftballTab-Softballs" class="menuTabSectionText"><u>Softballs</u></a>
+<ul></ul>
+</li>
+
+<li class="menuSection3"><a href="http://www.baseballsavings.com/teamsales/index.jsp?CP=ILC-MENU&amp;nvbar=SoftballTab-teamVolumeDiscounts" class="menuTabSectionText" rel="nofollow"><u>Team Volume / Discounts</u></a>
+<ul></ul>
+</li>
+
+<li class="menuSection4"><span style="font-weight:bold;">Womens Softball Apparel</span>
 <ul>
-<li><a href="/customer/search2.jsp?scid=2523&amp;onsale=Y&amp;sortmfr=N&amp;a1000002231=womens&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=womensJerseyShirtSale" class="menuTabItemText">Jerseys / Shirts</a></li>
+<li><a href="/customer/search2.jsp?scid=7388&amp;a5647=womens&amp;search2=All+Baseball+Apparel&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=SoftballTab-ShopAllWomensSoftballApparel" class="menuTabItemText">Shop All Women's Softball Apparel</a></li>
 
-<li><a href="/customer/search2.jsp?scid=2527&amp;onsale=Y&amp;sortmfr=N&amp;a1000002231=womens&amp;CP=ILC-MENU&amp;nvbar=womensOuterwearSale" class="menuTabItemText">Outerwear / Jackets</a></li>
+<li><a href="/customer/search2.jsp?scid=7389&amp;a5647=womens&amp;search2=Uniforms&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=SoftballTab-SoftballUniforms" class="menuTabItemText">Softball Uniforms</a></li>
 
-<li><a href="/customer/search2.jsp?scid=2524&amp;onsale=Y&amp;sortmfr=N&amp;a1817=womens&amp;CP=ILC-MENU&amp;nvbar=womensPantsSale" class="menuTabItemText">Pants / Shorts</a></li>
+<li><a href="/customer/search2.jsp?scid=2523&amp;a1000002231=womens&amp;a1000002273=jerseys&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=SoftballTab-SoftballJerseys" class="menuTabItemText">Softball Jerseys</a></li>
 
-<li><a href="/customer/search2.jsp?scid=2525&amp;onsale=Y&amp;sortmfr=N&amp;a1000002231=womens&amp;CP=ILC-MENU&amp;nvbar=womensSocksSale" class="menuTabItemText">Socks / Belts</a></li>
+<li><a href="/customer/search2.jsp?scid=2524&amp;a1000002231=womens&amp;a1000002272=pants&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=SoftballTab-SoftballPants" class="menuTabItemText">Softball Pants</a></li>
 
-<li><a href="/customer/search2.jsp?scid=2526&amp;onsale=Y&amp;sortmfr=N&amp;a1000002231=womens&amp;CP=ILC-MENU&amp;nvbar=womensUnderGarmentsSale" class="menuTabItemText">Under Garments / Layers</a></li>
+<li><a href="/customer/search2.jsp?scid=2524&amp;a1000002231=womens&amp;a1000002272=shorts&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=SoftballTab-SoftballShorts" class="menuTabItemText">Softball Shorts</a></li>
 
-<li><a href="/customer/search2.jsp?scid=2529&amp;a1000002231=womens&amp;onsale=Y&amp;sortmfr=N&amp;a1000002240=metal&amp;CP=ILC-MENU&amp;nvbar=womensMetalCleatsSale" class="menuTabItemText">Metal Cleats</a></li>
+<li><a href="/customer/search2.jsp?scid=2525&amp;a1000002231=womens&amp;a5908=socks&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=SoftballTab-SoftballSocks" class="menuTabItemText">Softball Socks</a></li>
 
-<li><a href="/customer/search2.jsp?scid=2529&amp;a1000002231=womens&amp;onsale=Y&amp;sortmfr=N&amp;a1000002240=molded&amp;CP=ILC-MENU&amp;nvbar=womensPlasticCleatsSale" class="menuTabItemText">Molded Plastic Cleats</a></li>
+<li><a href="/customer/search2.jsp?scid=2526&amp;a1000002231=womens&amp;a1000006011=sports+bras&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=SoftballTab-SportsBras" class="menuTabItemText">Sports Bras</a></li>
 
-<li><a href="/customer/search2.jsp?scid=2529&amp;a1000002231=womens&amp;onsale=Y&amp;sortmfr=N&amp;a1000002240=athletic+shoes&amp;CP=ILC-MENU&amp;nvbar=womensAthleticShoesSale" class="menuTabItemText">Athletic Shoes</a></li>
+<li><a href="/customer/search2.jsp?scid=2526&amp;a1000002231=womens&amp;a1000006011=sliding+shorts&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=SoftballTab-SlidingShorts" class="menuTabItemText" rel="nofollow">Sliding Shorts</a></li>
 </ul>
 </li>
 
-<li class="menuSection3"><a href="/squeezeplay/index.jsp" class="menuTabSectionText">Squeeze Play Final Clearance</a>
-<ul>
-<li><a href="/customer/search2.jsp?scid=2612&amp;CP=ILC-MENU&amp;nvbar=SqueezePlayBats" class="menuTabItemText">Bats</a></li>
-
-<li><a href="/customer/search2.jsp?scid=2613&amp;CP=ILC-MENU&amp;nvbar=SqueezePlayGloves" class="menuTabItemText">Gloves</a></li>
-
-<li><a href="/customer/search2.jsp?scid=2614&amp;CP=ILC-MENU&amp;nvbar=SqueezePlayFootwear" class="menuTabItemText">Footwear</a></li>
-
-<li><a href="/customer/search2.jsp?scid=2615&amp;CP=ILC-MENU&amp;nvbar=SqueezePlayApparel" class="menuTabItemText">Apparel</a></li>
-
-<li><a href="/customer/search2.jsp?scid=2616&amp;CP=ILC-MENU&amp;nvbar=SqueezePlayCatchersGear" class="menuTabItemText">Catcher's Gear</a></li>
-
-<li><a href="/customer/search2.jsp?scid=2617&amp;CP=ILC-MENU&amp;nvbar=SqueezePlayBattingGloves" class="menuTabItemText">Batting Gloves</a></li>
-
-<li><a href="/customer/search2.jsp?scid=2618&amp;CP=ILC-MENU&amp;nvbar=SqueezePlayBattingHelmets" class="menuTabItemText">Batting Helmets</a></li>
-
-<li><a href="/customer/search2.jsp?scid=2619&amp;CP=ILC-MENU&amp;nvbar=SqueezePlayAccessories" class="menuTabItemText">Accessories</a></li>
-
-<li><a href="/customer/search2.jsp?scid=2620&amp;search2=squeeze+play&amp;CP=ILC-MENU&amp;nvbar=SqueezePlayHats" class="menuTabItemText">Caps &amp; Hats</a></li>
-</ul>
-</li>
-
-<li class="menuSection4">Gloves
-<ul>
-<li><a href="/customer/search2.jsp?scid=2520&amp;a1000002211=baseball&amp;onsale=Y&amp;sortmfr=N&amp;a1000002236=catchers&amp;CP=ILC-MENU&amp;nvbar=catchersGloveSale" class="menuTabItemText">Baseball - Catchers</a></li>
-
-<li><a href="/customer/search2.jsp?scid=2520&amp;a1000002211=baseball&amp;onsale=Y&amp;sortmfr=N&amp;a1000002236=pitchers&amp;CP=ILC-MENU&amp;nvbar=pitcherGloveSale" class="menuTabItemText">Baseball - Pitchers</a></li>
-
-<li><a href="/customer/search2.jsp?scid=2520&amp;a1000002211=baseball&amp;onsale=Y&amp;sortmfr=N&amp;a1000002236=1st+base&amp;CP=ILC-MENU&amp;nvbar=firstBaseGloveSale" class="menuTabItemText">Baseball - 1st Base</a></li>
-
-<li><a href="/customer/search2.jsp?scid=2520&amp;a1000002211=baseball&amp;onsale=Y&amp;sortmfr=N&amp;a1000002236=infield&amp;CP=ILC-MENU&amp;nvbar=infieldGloveSale" class="menuTabItemText">Baseball - Infield</a></li>
-
-<li><a href="/customer/search2.jsp?scid=2520&amp;a1000002211=baseball&amp;onsale=Y&amp;sortmfr=N&amp;a1000002236=outfield&amp;CP=ILC-MENU&amp;nvbar=outfieldGloveSale" class="menuTabItemText">Baseball - Outfield</a></li>
-
-<li><a href="/customer/search2.jsp?scid=2520&amp;a1000002211=baseball&amp;onsale=Y&amp;sortmfr=N&amp;a1000002236=utility&amp;CP=ILC-MENU&amp;nvbar=utilityGloveSale" class="menuTabItemText">Baseball - Utility</a></li>
-
-<li><a href="/customer/search2.jsp?scid=2520&amp;onsale=Y&amp;sortmfr=N&amp;a1000002211=fastpitch&amp;CP=ILC-MENU&amp;nvbar=fastpitchGloveSale" class="menuTabItemText">Softball- Fastpitch</a></li>
-
-<li><a href="/customer/search2.jsp?scid=2520&amp;onsale=Y&amp;sortmfr=N&amp;a1000002211=slowpitch&amp;CP=ILC-MENU&amp;nvbar=slowpitchGloveSale" class="menuTabItemText">Softball - Slowpitch</a></li>
-
-<li><a href="/customer/search2.jsp?scid=2520&amp;onsale=Y&amp;sortmfr=N&amp;a1000002239=youth&amp;CP=ILC-MENU&amp;nvbar=youthGloveSale" class="menuTabItemText">Youth</a></li>
-</ul>
-</li>
-
-<li class="menuSection5">Baseball Accessories
-<ul>
-<li><a href="/customer/search2.jsp?scid=2530&amp;a1000001420=player+bags&amp;sortmfr=N&amp;onsale=Y&amp;CP=ILC-MENU&amp;nvbar=playersBagsSale" class="menuTabItemText">Players Bags / Luggage</a></li>
-
-<li><a href="/customer/search2.jsp?scid=2552&amp;sortmfr=N&amp;onsale=Y&amp;CP=ILC-MENU&amp;nvbar=SunglassesSale" class="menuTabItemText">Sunglasses</a></li>
-
-<li><a href="/customer/search2.jsp?scid=2591&amp;sortmfr=N&amp;onsale=Y&amp;CP=ILC-MENU&amp;nvbar=spectatorAccessoriesSale" class="menuTabItemText">Spectator Accessories</a></li>
-
-<li><a href="/customer/search2.jsp?scid=2557&amp;sortmfr=N&amp;onsale=Y&amp;CP=ILC-MENU&amp;nvbar=sportsHealthSale" class="menuTabItemText">Sports Health</a></li>
-
-<li><a href="/customer/search2.jsp?scid=6011&amp;sortmfr=N&amp;onsale=Y&amp;CP=ILC-MENU&amp;nvbar=magneticIonicTherapySale" class="menuTabItemText">Magnetic / Ionic Therapy</a></li>
-</ul>
-</li>
-
-<li class="menuSection6">Bats
-<ul>
-<li><a href="/customer/search2.jsp?scid=2498&amp;onsale=Y&amp;sortmfr=N&amp;a1000002210=baseball+(metal)&amp;sortmfr=N&amp;onsale=Y&amp;CP=ILC-MENU&amp;nvbar=baseballBatsMetalSale" class="menuTabItemText">Baseball - Metal</a></li>
-</ul>
-</li>
-
-<li class="menuSection7">Baseball Catchers Gear
-<ul>
-<li><a href="/customer/search2.jsp?scid=2514&amp;onsale=Y&amp;sortmfr=N&amp;a1000002239=adult&amp;CP=ILC-MENU&amp;nvbar=adultCatchersGearSale" class="menuTabItemText">Adult</a></li>
-
-<li><a href="/customer/search2.jsp?scid=2514&amp;onsale=Y&amp;sortmfr=N&amp;a1000002239=youth&amp;CP=ILC-MENU&amp;nvbar=youthCatchersGearSale" class="menuTabItemText">Youth</a></li>
-</ul>
-</li>
-
-<li class="menuSection8">Protective Baseball Gear
-<ul>
-<li><a href="/customer/search2.jsp?scid=2517&amp;sortmfr=N&amp;onsale=Y&amp;CP=ILC-MENU&amp;nvbar=mensProtectiveGearSale" class="menuTabItemText">Men's Protective Gear</a></li>
-
-<li><a href="/customer/search2.jsp?scid=2518&amp;sortmfr=N&amp;onsale=Y&amp;CP=ILC-MENU&amp;nvbar=womensProtectiveGearSale" class="menuTabItemText">Women's Protective Gear</a></li>
-
-<li><a href="/customer/search2.jsp?scid=2519&amp;sortmfr=N&amp;onsale=Y&amp;CP=ILC-MENU&amp;nvbar=youthProtectiveGearSale" class="menuTabItemText">Youth Protective Gear</a></li>
-</ul>
-</li>
-
-<li class="menuSection9">Batting
-<ul>
-<li><a href="/customer/search2.jsp?scid=2515&amp;sortmfr=N&amp;onsale=Y&amp;CP=ILC-MENU&amp;nvbar=battingHelmetsSale" class="menuTabItemText">Batting Helmets</a></li>
-
-<li><a href="/customer/search2.jsp?scid=2533&amp;sortmfr=N&amp;onsale=Y&amp;CP=ILC-MENU&amp;nvbar=battingGloveSale" class="menuTabItemText">Batting Gloves</a></li>
-
-<li><a href="/customer/search2.jsp?scid=2558&amp;sortmfr=N&amp;onsale=Y&amp;CP=ILC-MENU&amp;nvbar=battingAidsSale" class="menuTabItemText">Batting Aids</a></li>
-</ul>
-</li>
-
-<li class="menuSection10">Baseball Players Accessories
-<ul>
-<li><a href="/customer/search2.jsp?scid=2534&amp;search2=wrist&amp;onsale=Y&amp;CP=ILC-MENU&amp;nvbar=wristArmHeadBandSale" class="menuTabItemText">Wrist / Arm / Headbands</a></li>
-</ul>
-</li>
-
-<li class="menuSection11">Baseball Training / Practice
-<ul>
-<li><a href="/customer/search2.jsp?scid=2558&amp;sortmfr=N&amp;onsale=Y&amp;CP=ILC-MENU&amp;nvbar=battingAidsSale" class="menuTabItemText">Batting Aids</a></li>
-</ul>
+<li class="menuSection5"><a href="/customer/search2.jsp?scid=2529&amp;a1000002231=womens&amp;search2=cleats&amp;CP=ILC-MENU&amp;nvbar=SoftballTab-WomensSoftballCleats" class="menuTabSectionText"><u>Womens Softball Cleats</u></a>
+<ul></ul>
 </li>
 </ul>
 <div class="clearMenu"> </div></div></div>
 </li>
 
 <li onmouseout="menuTabMouseOut(8)" onmouseover="menuTabMouseOver(8)" id="menuTabCell8" class="menuTabNotSelected">
-<div class="aDiv"><a href="javascript:changeMenuTab(8)" class="menuTabNotSelectedA" id="menuTabCell8A"><span>New</span></a>
+<div class="aDiv"><a href="javascript:changeMenuTab(8)" class="menuTabNotSelectedA" id="menuTabCell8A"><span>On Field  / Maintenance</span></a>
 </div>
 
 <div class="menuWrap" id="mWrap8">
 <div class="menuDiv">
 <div class="closeDiv">
-<a onclick="closeMenuTab(8,false);curMenuHeaderIndex=-1;return false" href="#">Close [ X ]</a>
+<a onclick="closeMenuTab(8,false);curMenuHeaderIndex=-1;return false" href="#" style="color:#000000">Close [ X ]</a>
 </div>
 <ul>
-<li class="menuSection0">New Baseball Players Equipment
+<li class="menuSection0"><span style="font-weight:bold;">On Field/Maintenance</span>
 <ul>
-<li><a href="/customer/newProducts.jsp?id=1004&amp;CP=ILC-MENU&amp;nvbar=NewTabBalls" class="menuTabItemText">Balls</a></li>
+<li><a href="/customer/search2.jsp?scid=7398&amp;search2=On+Field++%2F+Maintenance&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=OnFieldTab-ShopAllOnFieldMaintenance" class="menuTabItemText">Shop All On Field/Maintenance</a></li>
 
-<li><a href="/customer/newProducts.jsp?id=1001&amp;CP=ILC-MENU&amp;nvbar=NewTabGloves" class="menuTabItemText">Gloves</a></li>
+<li><a href="/customer/search2.jsp?scid=2538&amp;CP=ILC-MENU&amp;nvbar=OnFieldTab-PitchingMachines" class="menuTabItemText">Pitching Machines</a></li>
 
-<li><a href="/customer/newProducts.jsp?id=1000&amp;CP=ILC-MENU&amp;nvbar=NewTabBats" class="menuTabItemText">Bats</a></li>
+<li><a href="/customer/search2.jsp?scid=2538&amp;search2=softball&amp;CP=ILC-MENU&amp;nvbar=OnFieldTab-SoftballPitchingMachines" class="menuTabItemText">Softball Pitching Machines</a></li>
 
-<li><a href="/customer/newProducts.jsp?id=1005&amp;CP=ILC-MENU&amp;nvbar=NewTabCatchersGear" class="menuTabItemText">Catchers Gear</a></li>
-
-<li><a href="/customer/newProducts.jsp?id=1049&amp;CP=ILC-MENU&amp;nvbar=NewTabProtectiveGear" class="menuTabItemText">Protective Gear</a></li>
+<li><a href="/customer/search2.jsp?scid=2540&amp;nvbar=hittingPitchingNets&amp;search2=screen&amp;CP=ILC-MENU&amp;nvbar=OnFieldTab-BaseballScreens" class="menuTabItemText">Baseball Screens</a></li>
 </ul>
 </li>
 
-<li class="menuSection1">New Baseball Apparel / Shoes
+<li class="menuSection1"><span style="font-weight:bold;">Baseball Field Equipment</span>
 <ul>
-<li><a href="/customer/newProducts.jsp?id=1003&amp;CP=ILC-MENU&amp;nvbar=NewTabMensApparel" class="menuTabItemText">Mens Apparel</a></li>
+<li><a href="/customer/search2.jsp?scid=7386&amp;a5871=field+equipment&amp;search2=Baseball+Bases%2FField+Equipment&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=OnFieldTab-ShopAllBaseballFieldEquipment" class="menuTabItemText">Shop All Baseball Field Equipment</a></li>
 
-<li><a href="/customer/newProducts.jsp?id=1045&amp;CP=ILC-MENU&amp;nvbar=NewTabWomensApparel" class="menuTabItemText">Womens Apparel</a></li>
+<li><a href="/customer/search2.jsp?scid=7386&amp;a5871=baseball+bases&amp;search2=Baseball+Bases%2FField+Equipment&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=OnFieldTab-BaseballBases" class="menuTabItemText">Baseball Bases</a></li>
 
-<li><a href="/customer/newProducts.jsp?id=1044&amp;CP=ILC-MENU&amp;nvbar=NewTabYouthApparel" class="menuTabItemText">Youth Apparel</a></li>
-
-<li><a href="/customer/newProducts.jsp?id=1002&amp;CP=ILC-MENU&amp;nvbar=NewTabMensShoes" class="menuTabItemText">Mens Shoes</a></li>
-
-<li><a href="/customer/newProducts.jsp?id=1046&amp;CP=ILC-MENU&amp;nvbar=NewTabWomensShoes" class="menuTabItemText">Womens Shoes</a></li>
-
-<li><a href="/customer/newProducts.jsp?id=1047&amp;CP=ILC-MENU&amp;nvbar=NewTabYouthShoes" class="menuTabItemText">Youth Shoes</a></li>
-
-<li><a href="/customer/newProducts.jsp?id=1060&amp;CP=ILC-MENU&amp;nvbar=NewTabHats" class="menuTabItemText">Caps/Hats</a></li>
-
-<li><a href="/customer/newProducts.jsp?id=1100&amp;CP=ILC-MENU&amp;nvbar=NewTabColdWeatherAccessories" class="menuTabItemText">Cold Weather Accessories</a></li>
-</ul>
-</li>
-
-<li class="menuSection2">New Baseball Field Equipment
-<ul>
-<li><a href="/customer/newProducts.jsp?id=1161&amp;CP=ILC-MENU&amp;nvbar=NewTabCoachesAccessories" class="menuTabItemText">Coaches Accessories</a></li>
-
-<li><a href="/customer/newProducts.jsp?id=1056&amp;CP=ILC-MENU&amp;nvbar=NewTabEquipmentBags" class="menuTabItemText">Equipment Bags/Buckets</a></li>
-
-<li><a href="/customer/newProducts.jsp?id=1042&amp;CP=ILC-MENU&amp;nvbar=NewTabRepairMaintenance" class="menuTabItemText">Repair/Maintenance</a></li>
-
-<li><a href="/customer/newProducts.jsp?id=1041&amp;CP=ILC-MENU&amp;nvbar=NewTabGripAides" class="menuTabItemText">Grip Aids</a></li>
-</ul>
-</li>
-
-<li class="menuSection3">New Baseball Accessories
-<ul>
-<li><a href="/customer/newProducts.jsp?id=1006&amp;CP=ILC-MENU&amp;nvbar=NewTabAccessories" class="menuTabItemText">Accessories</a></li>
-
-<li><a href="/customer/newProducts.jsp?id=1061&amp;CP=ILC-MENU&amp;nvbar=NewTabPlayerAccessories" class="menuTabItemText">Player Accessories</a></li>
-
-<li><a href="/customer/newProducts.jsp?id=1080&amp;CP=ILC-MENU&amp;nvbar=NewTabSportsHealth" class="menuTabItemText">Sports Health</a></li>
-
-<li><a href="/customer/newProducts.jsp?id=1007&amp;CP=ILC-MENU&amp;nvbar=NewTabTraining" class="menuTabItemText">Training/Practice</a></li>
-</ul>
-</li>
-
-<li class="menuSection4">New Baseball Team Logo
-<ul>
-<li><a href="/customer/newProducts.jsp?id=1052&amp;CP=ILC-MENU&amp;nvbar=NewTabMLBApparel" class="menuTabItemText">MLB Apparel</a></li>
-
-<li><a href="/customer/newProducts.jsp?id=1053&amp;CP=ILC-MENU&amp;nvbar=NewTabMLBHeadwear" class="menuTabItemText">MLB Headwear</a></li>
+<li><a href="/customer/search2.jsp?scid=7386&amp;a5871=baseball+bases&amp;search2=pitchers&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=OnFieldTab-PitchingRubber" class="menuTabItemText">Pitching Rubber</a></li>
 </ul>
 </li>
 </ul>
 <div class="clearMenu"> </div></div></div>
 </li>
+
+<li onmouseout="menuTabMouseOut(9)" onmouseover="menuTabMouseOver(9)" id="menuTabCell9" class="menuTabNotSelected">
+<div class="aDiv"><a href="javascript:changeMenuTab(9)" class="menuTabNotSelectedA" id="menuTabCell9A"><span>Discount</span></a>
+</div>
+
+<div class="menuWrap" id="mWrap9">
+<div class="menuDiv">
+<div class="closeDiv">
+<a onclick="closeMenuTab(9,false);curMenuHeaderIndex=-1;return false" href="#" style="color:#000000">Close [ X ]</a>
+</div>
+<ul>
+<li class="menuSection0"><span style="font-weight:bold;">Baseball Discounts</span>
+<ul>
+<li><a href="/customer/search2.jsp?scid=2498&amp;a1000002210=baseball+(metal)&amp;nvbar=baseballBatsMetalSale&amp;onsale=Y&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=DiscountTab-DiscountBaseballBats" class="menuTabItemText">Discount Baseball Bats</a></li>
+
+<li><a href="/customer/search2.jsp?scid=2520&amp;onsale=Y&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=DiscountTab-DiscountBaseballGloves" class="menuTabItemText">Discount Baseball Gloves</a></li>
+
+<li><a href="/customer/search2.jsp?scid=7388&amp;onsale=Y&amp;search2=All+Baseball+Apparel&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=DiscountTab-DiscountBaseballApparel" class="menuTabItemText">Discount Baseball Apparel</a></li>
+
+<li><a href="//customer/search2.jsp?scid=2529&amp;onsale=Y&amp;search2=cleats&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=DiscountTab-DiscountBaseballCleats" class="menuTabItemText">Discount Baseball Cleats</a></li>
+
+<li><a href="/customer/search2.jsp?scid=2498&amp;onsale=Y&amp;search2=softball&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=DiscountTab-DiscountSoftballBats" class="menuTabItemText">Discount Softball Bats</a></li>
+</ul>
+</li>
+
+<li class="menuSection1"><span style="font-weight:bold;">Shop All Discount</span>
+<ul>
+<li><a href="/customer/search2.jsp?scid=7401&amp;onsale=Y&amp;search2=Baseball+Accessories&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=DiscountTab-Accessories" class="menuTabItemText">Accessories</a></li>
+
+<li><a href="/customer/search2.jsp?scid=2504&amp;onsale=Y&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=DiscountTab-Balls" class="menuTabItemText">Balls</a></li>
+
+<li><a href="/customer/search2.jsp?scid=2517&amp;onsale=Y&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=DiscountTab-Protection" class="menuTabItemText">Protection</a></li>
+
+<!--<li><a href="/customer/search2.jsp?scid=2529&onsale=Y&search2=cleats&sortmfr=N&CP=ILC-MENU&nvbar=DiscountTab-Shoes" class="menuTabItemText">Shoes</a></li>-->
+
+<li><a href="/customer/search2.jsp?scid=7402&amp;onsale=Y&amp;search2=All+Youth&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=DiscountTab-Youth" class="menuTabItemText">Youth</a></li>
+</ul>
+</li>
+
+<li class="menuSection2"><a href="/teamsales/index.jsp?&amp;CP=ILC-MENU&amp;nvbar=DiscountTab-TeamSalesVolumeDiscounts" class="menuTabSectionText"><u>Team / Volume Discounts</u></a>
+<ul></ul>
+</li>
+
+
+</ul>
+<div class="clearMenu"> </div></div></div>
+</li>
+
+</ul>
+
+</td>
+        </tr>
+        <tr>
+          <td width="1002" colspan="2" style="padding-top: 0px; background-color: #4e4e50; text-align:center;" height="28">
+
+          <ul id="menuTabMainTableB" class="menuTabHeaderTextB" style="text-align:center;">
+
+<li onmouseout="menuTabMouseOut(10)" onmouseover="menuTabMouseOver(10)" id="menuTabCell10" class="menuTabNotSelected">
+<div class="aDiv"><a href="javascript:changeMenuTab(10)" class="menuTabNotSelectedA" id="menuTabCell10A"><span>Protection</span></a>
+</div>
+
+<div class="menuWrap" id="mWrap10">
+<div class="menuDiv">
+<div class="closeDiv">
+
+<a onclick="closeMenuTab(10,false);curMenuHeaderIndex=-1;return false" href="#" style="color:#000000">Close [ X ]</a>
+</div>
+<ul>
+<li class="menuSection0"><a href="/customer/search2.jsp?scid=2514&amp;CP=ILC-MENU&amp;nvbar=ProtectionTab-CatchersGear" class="menuTabSectionText"><u>Catchers Gear</u></a>
+<ul>
+<li><a href="/customer/search2.jsp?scid=2514&amp;CP=ILC-MENU&amp;nvbar=ProtectionTab-ShopAllCatchersGear" class="menuTabItemText">Shop All Catchers Gear</a></li>
+
+<li><a href="/customer/search2.jsp?scid=2514&amp;a1000002237=helmets&amp;page=A&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=ProtectionTab-CatchersMask" class="menuTabItemText">Catchers Mask</a></li>
+
+<li><a href="/customer/search2.jsp?scid=2514&amp;a1000002237=chest+protectors&amp;a1000002239=adult&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=ProtectionTab-ChestProtectors" class="menuTabItemText">Chest Protectors</a></li>
+
+<!--<li><a href="/customer/category/product.jsp?SUBCATEGORY_ID=29231&CP=ILC-MENU&nvbar=ProtectionTab-customCatchersMask" class="menuTabItemText">Custom Catchers Mask</a></li>
+
+<li><a href="/customer/category/product.jsp?SUBCATEGORY_ID=29233&CP=ILC-MENU&nvbar=ProtectionTab-customCatchersLegGuard" class="menuTabItemText">Custom Catchers Leg Guards</a></li>
+
+<li><a href="/customer/category/product.jsp?SUBCATEGORY_ID=29232&CP=ILC-MENU&nvbar=ProtectionTab-customCatchersChestProtector" class="menuTabItemText">Custom Catchers Chest Protectors</a></li>-->
+</ul>
+</li>
+
+<li class="menuSection1"><a href="/customer/search2.jsp?scid=2594&amp;CP=ILC-MENU&amp;nvbar=ProtectionTab-umpireGear" class="menuTabSectionText"><u>Umpire Gear</u></a>
+<ul></ul>
+</li>
+
+<li class="menuSection2"><a href="/customer/search2.jsp?scid=2515&amp;CP=ILC-MENU&amp;nvbar=ProtectionTab-battingHelmets" class="menuTabSectionText"><u>Batting Helmets</u></a>
+<ul></ul>
+</li>
+
+<li class="menuSection3"><font color="#003399" style="font-weight:bold;">Shop Related</font>
+<ul>
+<li><a href="/customer/search2.jsp?scid=2526&amp;a1000006011=sliding+shorts&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=ProtectionTab-SlidingShorts" class="menuTabItemText" rel="nofollow">Sliding Shorts</a></li>
+
+<li><a href="/customer/search2.jsp?scid=2517&amp;a5368=cups&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=ProtectionTab-Cups" class="menuTabItemText" rel="nofollow">Cups</a></li>
+</ul>
+</li>
+
+<li class="menuSection4"><a href="/customer/search2.jsp?scid=2517&amp;a5368=pads%2Fsleeves&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=ProtectionTab-WristGuards" class="menuTabSectionText"><u>Wrist Guards</u></a>
+<ul></ul>
+</li>
+
+<li class="menuSection5"><a href="/customer/search2.jsp?scid=2517&amp;CP=ILC-MENU&amp;nvbar=ProtectionTab-ShopAllProtectiveGear" class="menuTabSectionText"><u>Shop All Protection</u></a>
+<ul></ul>
+</li>
+</ul>
+<div class="clearMenu"> </div></div></div>
+</li>
+
+<li onmouseout="menuTabMouseOut(11)" onmouseover="menuTabMouseOver(11)" id="menuTabCell11" class="menuTabNotSelected">
+<div class="aDiv"><a href="javascript:changeMenuTab(11)" class="menuTabNotSelectedA" id="menuTabCell11A"><span>Custom</span></a>
+</div>
+
+<div class="menuWrap" id="mWrap11">
+<div class="menuDiv">
+<div class="closeDiv">
+<a onclick="closeMenuTab(11,false);curMenuHeaderIndex=-1;return false" href="#" style="color:#000000">Close [ X ]</a>
+</div>
+<ul>
+<li class="menuSection0"><font color="#003399" style="font-weight:bold;">Custom Baseball Gloves</font>
+<ul>
+<li><a href="/customer/search2.jsp?scid=6675&amp;limitmfr=Rawlings+Sporting+Goods&amp;a5487=gloves&amp;CP=ILC-MENU&amp;nvbar=CustomTab-rawlingsCustomGloves" class="menuTabItemText">Rawlings Custom Baseball Gloves</a></li>
+
+<li><a href="/custom/louisvillesluggergloves/index.jsp?CP=ILC-MENU&amp;nvbar=CustomTab-sluggerCustomGloves" class="menuTabItemText">Louisville Custom Baseball Gloves</a></li>
+</ul>
+</li>
+
+<li class="menuSection1"><font color="#003399" style="font-weight:bold;">Custom Baseball Gear</font>
+<ul>
+<li><a href="/customer/search2.jsp?scid=6675&amp;search2=Custom+Gear&amp;CP=ILC-MENU&amp;nvbar=CustomTab-ShopAllCustomBaseballBats" class="menuTabItemText">Shop All Custom Baseball Gear</a></li>
+
+<li><a href="/customer/search2.jsp?scid=6675&amp;a5487=bats&amp;CP=ILC-MENU&amp;nvbar=CustomTab-customWoodBats" class="menuTabItemText">Custom Baseball Bats</a></li>
+
+<li><a href="/teamhats/index.jsp?&amp;CP=ILC-MENU&amp;nvbar=CustomTab-customCaps" class="menuTabItemText">Custom Baseball Caps</a></li>
+
+<!--<li><a href="/customer/category/product.jsp?SUBCATEGORY_ID=40079&CP=ILC-MENU&nvbar=CustomTab-Evoshield" class="menuTabItemText">Evoshield</a></li>-->
+
+<li><a href="/teamsales/index.jsp?&amp;CP=ILC-MENU&amp;nvbar=CustomTab-CustomBaseballUniforms" class="menuTabItemText">Custom Baseball Uniforms</a></li>
+</ul>
+</li>
+
+<!--<li class="menuSection2"><font color="#003399" style="font-weight:bold;">Shop Related</font>
+<ul>
+<li><a href="/customer/category/product.jsp?SUBCATEGORY_ID=31212&CP=ILC-MENU&nvbar=CustomTab-PersonalizedTowels" class="menuTabItemText">Personalized Towels</a></li>
+</ul>
+</li>-->
+</ul>
+<div class="clearMenu"> </div></div></div>
+</li>
+
+<li onmouseout="menuTabMouseOut(12)" onmouseover="menuTabMouseOver(12)" id="menuTabCell12" class="menuTabNotSelected">
+<div class="aDiv"><a href="javascript:changeMenuTab(12)" class="menuTabNotSelectedA" id="menuTabCell12A"><span>MLB Gear</span></a>
+</div>
+
+<div class="menuWrap" id="mWrap12">
+<div class="menuDiv">
+<div class="closeDiv">
+<a onclick="closeMenuTab(12,false);curMenuHeaderIndex=-1;return false" href="#" style="color:#000000">Close [ X ]</a>
+</div>
+<ul>
+<li class="menuSection0"><a href="/customer/search2.jsp?scid=2547&amp;CP=ILC-MENU&amp;nvbar=MLBTab-mlbApparel" class="menuTabSectionText">MLB Apparel</a>
+<ul>
+<li><a href="/customer/search2.jsp?scid=2547&amp;a1000006031=uniforms&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=MLBTab-MLBUniforms" class="menuTabItemText">MLB Uniforms</a></li>
+
+<li><a href="/customer/search2.jsp?scid=2547&amp;page=A&amp;search2=jerseys&amp;CP=ILC-MENU&amp;nvbar=MLBTab-MLBJerseys" class="menuTabItemText">MLB Jerseys</a></li>
+
+<li><a href="/customer/search2.jsp?scid=2547&amp;page=2&amp;search2=jacket&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=MLBTab-MLBJackets" class="menuTabItemText">MLB Jackets</a></li>
+
+<li><a href="/customer/search2.jsp?scid=2548&amp;CP=ILC-MENU&amp;nvbar=mlbHeadwear&amp;CP=ILC-MENU&amp;nvbar=MLBTab-MLBHats" class="menuTabItemText">MLB Hats</a></li>
+
+<li><a href="/customer/search2.jsp?scid=6796&amp;CP=ILC-MENU&amp;nvbar=mlbsunglasses&amp;CP=ILC-MENU&amp;nvbar=MLBTab-MLBSunglasses" class="menuTabItemText">MLB Sunglasses</a></li>
+</ul>
+</li>
+
+<li class="menuSection1"><span style="font-weight:bold;">MLB Equipment/Accessories</span>
+<ul>
+<li><a href="/customer/search2.jsp?scid=2580&amp;CP=ILC-MENU&amp;nvbar=MLBTab-mlbMemorabilia" class="menuTabItemText">MLB Memorabilia</a></li>
+
+<li><a href="/customer/search2.jsp?scid=2549&amp;CP=ILC-MENU&amp;nvbar=MLBTab-mlbGifts" class="menuTabItemText">MLB Gifts / Accessories</a></li>
+</ul>
+</li>
+
+<li class="menuSection2"><a href="/customer/search2.jsp?scid=7421&amp;search2=NCAA&amp;CP=ILC-MENU&amp;nvbar=MLBTab-ncaaApparelAndAccessories" class="menuTabSectionText"><u>NCAA Apparel &amp; Accessories</u></a>
+<ul></ul>
+</li>
+
+</ul>
+<div class="clearMenu"> </div></div></div>
+</li>
+
+<li onmouseout="menuTabMouseOut(13)" onmouseover="menuTabMouseOver(13)" id="menuTabCell13" class="menuTabNotSelected">
+<div class="aDiv"><a href="javascript:changeMenuTab(13)" class="menuTabNotSelectedA" id="menuTabCell13A"><span>Training &amp; Conditioning</span></a>
+</div>
+
+<div class="menuWrap" id="mWrap13">
+<div class="menuDiv">
+<div class="closeDiv">
+<a onclick="closeMenuTab(13,false);curMenuHeaderIndex=-1;return false" href="#" style="color:#000000">Close [ X ]</a>
+</div>
+<ul>
+<li class="menuSection0"><font color="#003399" style="font-weight:bold;">Baseball Training Equipment</font>
+<ul>
+<li><a href="/customer/search2.jsp?scid=2535&amp;CP=ILC-MENU&amp;nvbar=TrainingTab-ShopAllBaseballTrainingEquipment" class="menuTabItemText">Shop All Baseball Training Equipment</a></li>
+
+<li><a href="/customer/search2.jsp?scid=2540&amp;CP=ILC-MENU&amp;nvbar=TrainingTab-hittingPitchingNets" class="menuTabItemText">Baseball Hitting Nets</a></li>
+
+<li><a href="/customer/search2.jsp?scid=2536&amp;CP=ILC-MENU&amp;nvbar=TrainingTab-pitchingAids" class="menuTabItemText">Pitching Aids</a></li>
+
+<li><a href="/customer/search2.jsp?scid=2558&amp;CP=ILC-MENU&amp;nvbar=TrainingTab-battingAids" class="menuTabItemText">Batting Aids</a></li>
+
+<li><a href="/customer/search2.jsp?scid=2537&amp;a1000006018=balls&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=TrainingTab-TrainingBaseballs" class="menuTabItemText">Training Baseballs</a></li>
+
+<li><a href="/customer/search2.jsp?scid=2633&amp;CP=ILC-MENU&amp;nvbar=TrainingTab-trainingBats" class="menuTabItemText">Training Bats</a></li>
+
+<li><a href="/customer/search2.jsp?scid=2537&amp;a1000006018=gloves&amp;sortmfr=N&amp;CP=ILC-MENU&amp;nvbar=TrainingTab-TrainingGloves" class="menuTabItemText">Training Gloves</a></li>
+
+<li><a href="/customer/search2.jsp?scid=2537&amp;CP=ILC-MENU&amp;nvbar=TrainingTab-fieldingAids" class="menuTabItemText">Fielding Aids</a></li>
+</ul>
+</li>
+
+<li class="menuSection1"><font color="#003399" style="font-weight:bold;">Shop Related</font> 
+<ul>
+<li><a href="/customer/search2.jsp?scid=2639&amp;CP=ILC-MENU&amp;nvbar=TrainingTab-strengthConditioning" class="menuTabItemText">Strength &amp; Conditioning</a></li>
+
+<li><a href="/customer/search2.jsp?scid=2557&amp;CP=ILC-MENU&amp;nvbar=TrainingTab-sportsHealth" class="menuTabItemText">Sports Health</a></li>
+</ul>
+</li>
+</ul>
+<div class="clearMenu"> </div></div></div>
+</li>
+
+<li id="menuTabCell54" class="menuTabNotSelected" style="background-color:#004b8d; padding-right:8px;">
+	<div class="aDiv" style="background-color:#004b8d !important;"><a href="/teamsales/index.jsp?CP=ILC-MENU&amp;nvbar=TeamSalesTab" class="menuTabNotSelectedA" id="menuTabCell54A" rel="nofollow"><span style="color:#FFFFFF">Team Sales</span></a></div>
+</li>
+
+
 </ul></td>
         </tr>
         <tr>
@@ -1466,14 +1306,22 @@ function ManSelected(s)
   var si=s.selectedIndex;
   if (si!=0)
   {
-    if ((s.options[si].value.charAt(0)=='/')||(s.options[si].value.indexOf('http')==0))
+    if (s.options[si].value.indexOf('http')==0)
       window.location.href=s.options[si].value;
-    else
+    else if (s.options[si].value.charAt(0)=='/')
+      window.location.href= 'http://' +
+        window.location.hostname + s.options[si].value;
+    else {
+      if(window.location.protocol.indexOf('https') == 0 &&
+          s.form.action.indexOf('http:') != 0)
+         s.form.action = 'http://' + window.location.hostname + s.form.action;
       s.form.submit();
+    }
   }
   return;
 }
 </script>
+
 <table border="0" cellspacing="0" cellpadding="0">
 <form name="manmenu" method="GET" action="/customer/mfrProducts.jsp" target="_self"></form>
 <tbody><tr><td><select name="mfr" size="1" class="dropdown" onchange="ManSelected(this)">
@@ -1485,11 +1333,9 @@ function ManSelected(s)
 <option value="/manufacturer/akadema/akadema.jsp">Akadema</option>
 <option value="/manufacturer/allstar/allstar.jsp">All Star</option>
 <option value="/Alleson">Alleson</option>
-<option value="/ArmStrong">Arm Strong</option>
 <option value="/Asics">Asics</option>
 <option value="/manufacturer/baseball/atec/atec.jsp">ATEC</option>
 <option value="/manufacturer/baseball/baden/baden.jsp">Baden Sports</option>
-<option value="/BatterUp">Batter Up</option>
 <option value="/Bike">Bike</option>
 <option value="/BioSteel">BioSteel</option>
 <option value="/manufacturer/baseball/bownet/index.jsp">Bow Net</option>
@@ -1503,13 +1349,13 @@ function ManSelected(s)
 <option value="/Dawgs">Dawgs</option>
 <option value="/manufacturer/demarini/index.jsp">DeMARINI</option>
 <option value="/manufacturer/diamond/diamond.jsp">Diamond Sports</option>
-<option value="/DrazAthletics">Draz Athletics</option>
 <option value="/manufacturer/baseball/dudley/index.jsp">Dudley</option>
 <option value="/manufacturer/easton/index.jsp">Easton</option>
 <option value="/manufacturer/evoshield/evoshield.jsp">Evoshield</option>
 <option value="/Fathead">Fathead</option>
 <option value="/manufacturer/baseball/franklin/franklin.jsp">Franklin Sports</option>
 <option value="/FroggTogg">Frogg Togg</option>
+<option value="/GTee">G Tee</option>
 <option value="/GCIOutdoor">GCI Outdoor</option>
 <option value="/GearGuardSports">GearGuard Sports</option>
 <option value="/GelDefender">GelDefender</option>
@@ -1517,15 +1363,13 @@ function ManSelected(s)
 <option value="/HitZone">Hit Zone</option>
 <option value="/manufacturer/holloway/Holloway.jsp">Holloway</option>
 <option value="/HotGlove">Hot Glove</option>
-<option value="/HydroFlask">Hydro Flask</option>
-<option value="/IronGlove">Iron Glove</option>
 <option value="/JerryJohnson">Jerry Johnson</option>
 <option value="/JTDEnterprises">JTD Enterprises</option>
-<option value="/manufacturer/jugs/jugs.jsp">JUGS</option>
+<option value="/manufacturer/jugs/index.jsp">JUGS</option>
 <option value="/Kelpro">Kelpro</option>
 <option value="/LaunchLaser">Launch Laser</option>
+<option value="/LizardSkins">Lizard Skins</option>
 <option value="/louisvilleslugger/index.jsp">Louisville Slugger</option>
-<option value="/manufacturer/baseball/mpowered/mpowered.jsp">M-Powered</option>
 <option value="/manufacturer/majestic/majestic.jsp">Majestic Athletic</option>
 <option value="/Markwort">Markwort</option>
 <option value="/manufacturer/baseball/marucci/marucci.jsp">Marucci Sports</option>
@@ -1538,11 +1382,9 @@ function ManSelected(s)
 <option value="/manufacturer/nike/nike.jsp">NIKE</option>
 <option value="/manufacturer/nokona/nokona.jsp">Nokona</option>
 <option value="/NuttyBuddy">Nutty Buddy</option>
-<option value="/NYX">NYX</option>
 <option value="/manufacturer/oakley/oakley.jsp">Oakley</option>
 <option value="/OfficialIssue">Official Issue</option>
 <option value="/manufacturer/outdoorcap/outdoorcap.jsp">Outdoor Cap Co</option>
-<option value="/PerfectGlove">Perfect Glove</option>
 <option value="/PocketRadar">Pocket Radar</option>
 <option value="/manufacturer/baseball/powerbalance/index.jsp">Power Balance</option>
 <option value="/ProHitter">Pro Hitter</option>
@@ -1556,26 +1398,25 @@ function ManSelected(s)
 <option value="/manufacturer/baseball/ripit/ripit.jsp">RIP-IT</option>
 <option value="/Russell">Russell</option>
 <option value="/manufacturer/schutt/schutt.jsp">Schutt</option>
-<option value="/SeaweedSurfWax">Seaweed Surf Wax</option>
 <option value="/ShoelessJoe">Shoeless Joe</option>
-<option value="/Skills%26DrillsProductions">Skills &amp; Drills</option>
+<option value="/customer/mfrProducts.jsp?mfr=Skills+%26+Drills+Productions">Skills &amp; Drills</option>
 <option value="/manufacturer/SKLZ/sklz.jsp">SKLZ</option>
 <option value="/manufacturer/baseball/spalding/index.jsp">Spalding</option>
-<option value="/manufacturer/baseball/sportssensors/sportssensors.jsp">Sports Sensors</option>
 <option value="/StadiumChairCo.">Stadium Chair Co.</option>
 <option value="/Stee-rike3">Stee-rike3</option>
 <option value="/StromgrenSupports">Stromgren</option>
 <option value="/StudioVertu">Studio Vertu</option>
 <option value="/Swingaway">Swingaway</option>
-<option value="/TaterGrip">Tater Grip</option>
 <option value="/TCB">TCB</option>
+<option value="/TeamEffort">Team Effort</option>
 <option value="/TGW">TGW</option>
 <option value="/THREE60">THREE60</option>
-<option value="/ThrowMAX">ThrowMAX</option>
 <option value="/manufacturer/baseball/tifosi/index.jsp">Tifosi</option>
+<option value="/ToolsOfIgnorance">Tools Of Ignorance</option>
 <option value="/TwinCity">Twin City</option>
 <option value="/manufacturer/underarmour/underarmour.jsp">Under Armour</option>
 <option value="/Vinci">Vinci</option>
+<option value="/WebGem">WebGem</option>
 <option value="/manufacturer/wilson/wilson.jsp">Wilson</option>
 <option value="/worth/index.jsp">Worth Sports</option>
 <option value="/manufacturer/baseball/wsi/wsi.jsp">WSI</option>
@@ -1587,7 +1428,7 @@ function ManSelected(s)
 </tbody></table></div>
         </div>
       <div align="center"></div>    </td>
-    <td height="40"><a href="/email/index.jsp?CP:HEADER=EmailSignup" title="Email Offers: Be the first to know"><img src="/images/baseball/header-emailsignup.gif" width="170" height="21" border="0"></a></td>
+    <td height="40"><a href="/email/index.jsp?CP:HEADER=EmailSignup" title="Email Offers: Be the first to know" rel="nofollow"><img src="/images/baseball/header-emailsignup.gif" width="170" height="21" border="0"></a></td>
     <td height="40" align="center" valign="middle"><div align="right"><style type="text/css">
 <!--
 .bbsHours {
@@ -1608,11 +1449,11 @@ function ManSelected(s)
                 <td width="180" align="center" valign="middle" bgcolor="#cdcdcd" class="bbsPhone">Phone: 866-923-5050</td>
   </tr>
 			<tr>
-                <td width="180" bgcolor="#cdcdcd" align="center" valign="middle" class="bbsHours"><a href="/about/golf/customerService/hours.html" onclick="window.open('/about/golf/customerService/hours.html', 'showinfo', 'resizable=yes,width=350,height=200'); return false">Hours</a>
+                <td width="180" bgcolor="#cdcdcd" align="center" valign="middle" class="bbsHours"><a href="/html/about/golf/customerService/hours.html" onclick="window.open('/html/about/golf/customerService/hours.html', 'showinfo', 'resizable=yes,width=350,height=200'); return false">Hours</a>
 </td>
 			</tr>
 </tbody></table></div></td>
-    <td height="40"><div id="smartbutton"></div><script language="JavaScript">document.write('<img src="https://rs.instantservice.com/resources/smartbutton/7632/43831/available.gif?'+Math.floor(Math.random()*10001)+'" style="width:0;height:0;visiblity:hidden;position:absolute;" onLoad="agents_available()" onError="agents_not_available()">');</script><img src="https://rs.instantservice.com/resources/smartbutton/7632/43831/available.gif?7500" style="width:0;height:0;visiblity:hidden;position:absolute;" onload="agents_available()" onerror="agents_not_available()"></td>
+    <td height="40"><div id="smartbutton"></div><script language="JavaScript">document.write('<img src="https://rs.instantservice.com/resources/smartbutton/7632/43831/available.gif?'+Math.floor(Math.random()*10001)+'" style="width:0;height:0;visiblity:hidden;position:absolute;" onLoad="agents_available()" onError="agents_not_available()">');</script><img src="https://rs.instantservice.com/resources/smartbutton/7632/43831/available.gif?7164" style="width:0;height:0;visiblity:hidden;position:absolute;" onload="agents_available()" onerror="agents_not_available()"></td>
                             
   </tr>
 
@@ -1627,6 +1468,7 @@ function ManSelected(s)
       </tbody></table>
     </td>
   </tr>
+
   <tr valign="top">
     <td bgcolor="#FFFFFF" valign="top" align="center">
       <table width="100%" border="0" cellspacing="0" cellpadding="0" height="100%" valign="top">
@@ -1719,13 +1561,13 @@ return false;
         <td width="219" class="alignCenter" valign="top" nowrap="" bgcolor="#E6E6E6" style="padding:4px;">
         <table width="100%" border="0" cellspacing="0" cellpadding="0">
           <tbody><tr>
-            <td width="37%" class="alignCenter valignMiddle" nowrap=""><a href="/giftcert/index.jsp?CP=FOOTER:GiftCards"><img src="/images/footer/footer_bbsgiftcards-giftcert.jpg" alt="Baseball Savings Gift Cards and Gift Certificates" border="0"></a></td>
-            <td width="63%" class="alignCenter valignMiddle" nowrap=""><span class="footer_headline"><a href="/giftcert/index.jsp?CP=FOOTER:GiftCards" class="footer_headline">Gift Cards &amp;<br>
+            <td width="37%" class="alignCenter valignMiddle" nowrap=""><a href="/giftcert/index.jsp?CP=FOOTER:GiftCards" rel="nofollow"><img src="/images/footer/footer_bbsgiftcards-giftcert.jpg" alt="Baseball Savings Gift Cards and Gift Certificates" border="0"></a></td>
+            <td width="63%" class="alignCenter valignMiddle" nowrap=""><span class="footer_headline"><a href="/giftcert/index.jsp?CP=FOOTER:GiftCards" class="footer_headline" rel="nofollow">Gift Cards &amp;<br>
               Gift Certificates</a></span><br>
               <img src="/images/spacer.gif" width="5" height="5" border="0"><br>
               <span class="footer_copy">Great for any occassion</span><br>
             	<img src="/images/spacer.gif" width="5" height="3" border="0"><br>
-        	  <img src="/images/footer/footer_arrow.gif" border="0"> <a href="/giftcert/index.jsp?CP=FOOTER:GiftCards" class="footer_links">Buy Now</a></td>
+        	  <img src="/images/footer/footer_arrow.gif" border="0"> <a href="/giftcert/index.jsp?CP=FOOTER:GiftCards" class="footer_links" rel="nofollow">Buy Now</a></td>
           </tr>
         </tbody></table>        </td>
         <td width="13" class="alignCenter"><img src="/images/spacer.gif" width="13" height="13" border="0"></td>
@@ -1735,7 +1577,7 @@ return false;
             <td class="alignCenter valignMiddle" nowrap="">
         <!--– BEGIN: Bizrate Medal (125×73 pixels) –-->
 <script src="//medals.bizrate.com/medals/js/219901_medal.js" type="text/javascript"></script>
-<a class="br-button">
+<a class="br-button" rel="nofollow">
 <img src="//medals.bizrate.com/medals/dynamic/219901_medal.gif" width="125" height="73" border="0" usemap="#219901_medal" alt="See Baseball Savings Reviews at Bizrate.com">
 <map name="219901_medal">
 <area shape="poly" coords="1,0,1,72,67,72,67,49,124,49,124,0" href="//www.bizrate.com/ratings_guide/merchant_detail__mid–219901.html?rf=sur" title="See Baseball Savings Reviews at Bizrate.com" target="_blank">
@@ -1749,28 +1591,28 @@ return false;
         </td>
         <td width="13" class="alignCenter"><img src="/images/spacer.gif" width="13" height="13" border="0"></td>
         <td width="220" class="alignCenter" valign="top" nowrap="" bgcolor="#E6E6E6" style="padding:4px;">
-        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
           <tbody><tr>
-            <td width="33%" class="alignCenter valignMiddle" nowrap=""><a href="/email/index.jsp?CP=FOOTER:EmailSignup"><img src="/images/footer/footer_emailSignUp.jpg" alt="Sign Up for Baseball Savings Email Specials" border="0"></a></td>
-      <td width="67%" class="alignCenter valignMiddle" nowrap=""><a href="/email/index.jsp?CP=FOOTER:EmailSignup" class="footer_headline">Email Signup</a><br>
+            <td width="33%" class="alignCenter valignMiddle" nowrap=""><a href="/email/index.jsp?CP=FOOTER:EmailSignup" rel="nofollow"><img src="/images/footer/footer_emailSignUp.jpg" alt="Sign Up for TGW Email Specials" border="0"></a></td>
+      <td width="67%" class="alignCenter valignMiddle" nowrap=""><a href="/email/index.jsp?CP=FOOTER:EmailSignup" class="footer_headline" style="color:#FF0000" rel="nofollow">Sign Up &amp; Get 10% Off!</a><br>
             	<img src="/images/spacer.gif" width="5" height="6" border="0"><br>
-       	    <span class="footer_copy">Get special shipping<br>
-            	&amp; sale offers first<br></span>
+       	    <span class="footer_restrictions">Some exclusions apply.<br>
+       	    <a href="/email/index.jsp?CP=FOOTER:EmailSignupExc" class="footer_restrictions" rel="nofollow">See details.</a><br></span>
                 <img src="/images/spacer.gif" width="5" height="6" border="0"><br>
-           	  <img src="/images/footer/footer_arrow.gif" border="0"> <a href="/email/index.jsp?CP=FOOTER:EmailSignup" class="footer_links">Subscribe</a></td>
+           	  <img src="/images/footer/footer_arrow.gif" border="0"> <a href="/email/index.jsp?CP=FOOTER:EmailSignup" class="footer_links" rel="nofollow">Subscribe to E-mails!</a></td>
           </tr>
-        </tbody></table>        </td>
+        </tbody></table>         </td>
         <td width="13" class="alignCenter"><img src="/images/spacer.gif" width="13" height="13" border="0"></td>
         <td width="226" class="alignCenter" valign="top" nowrap="" bgcolor="#E6E6E6" style="padding:4px;">
         <table width="95%" border="0" cellspacing="0" cellpadding="0">
           <tbody><tr>
-            <td width="33%" class="alignCenter valignMiddle" nowrap=""><a href="/requestacatalog/index.jsp?CP=FOOTER:CatalogSignup"><img src="/images/footer/footer_bbsCatalogRequest.jpg" alt="Request a Free Baseball Savings Catalog" border="0"></a></td>
-        <td width="67%" class="alignCenter valignMiddle" nowrap=""><a href="/requestacatalog/index.jsp?CP=FOOTER:CatalogSignup" class="footer_headline">Request A Catalog</a><br>
+            <td width="33%" class="alignCenter valignMiddle" nowrap=""><a href="/requestacatalog/index.jsp?CP=FOOTER:CatalogSignup" rel="nofollow"><img src="/images/footer/footer_bbsCatalogRequest.jpg" alt="Request a Free Baseball Savings Catalog" border="0"></a></td>
+        <td width="67%" class="alignCenter valignMiddle" nowrap=""><a href="/requestacatalog/index.jsp?CP=FOOTER:CatalogSignup" class="footer_headline" rel="nofollow">Request A Catalog</a><br>
             	<img src="/images/spacer.gif" width="5" height="6" border="0"><br>
        	    	<span class="footer_copy">Get the latest offers<br>
             	right at your doorstop<br></span>
                 <img src="/images/spacer.gif" width="5" height="6" border="0"><br>
-           	  	<img src="/images/footer/footer_arrow.gif" border="0"> <a href="/requestacatalog/index.jsp?CP=FOOTER:CatalogSignup" class="footer_links">Sign Up</a></td>
+           	  	<img src="/images/footer/footer_arrow.gif" border="0"> <a href="/requestacatalog/index.jsp?CP=FOOTER:CatalogSignup" class="footer_links" rel="nofollow">Sign Up</a></td>
           </tr>
         </tbody></table>        </td>
       </tr>
@@ -1778,7 +1620,14 @@ return false;
         <td colspan="7"><img src="/images/spacer.gif" width="13" height="13" border="0"></td>
       </tr>
       <tr>
-        <td rowspan="3" align="left" valign="top" nowrap="" bgcolor="#E6E6E6" style="padding:10px;"><p><span class="footer_headline">Company Info</span><br>
+        <td rowspan="3" align="left" valign="top" nowrap="" bgcolor="#E6E6E6" style="padding:10px;">
+
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr>
+            <td colspan="2"><span class="footer_headline">Company Info</span></td>
+            </tr>
+          <tr>
+            <td width="100%" align="left" valign="top">
               <a href="/about/about.jsp?CP=FOOTER:CompanyInfo" class="footer_links" title="About Baseball Savings">About Baseball Savings</a><br>
               <a href="/about/about.jsp?CP=FOOTER:Security#security" class="footer_links" title="Baseball Savings Security">Security</a><br>
               <a href="/about/about.jsp?CP=FOOTER:AboutOurPrices#prices" class="footer_links" title="About Baseball Savings's Prices">About Our Prices</a><br>
@@ -1788,11 +1637,19 @@ return false;
               <a href="/promo/pmc.jsp?CP=FOOTER:PriceMatch" class="footer_links" title="Baseball Savings's Price Match Guarantee">Price Match</a><br>
               <a href="/store/index.jsp?CP=FOOTER:Store" class="footer_links" title="Baseball Savings's Retail Store">Wichita Retail Store</a><br>
               <a href="/store/careers.jsp?CP=FOOTER:Careers" class="footer_links" title="Careers at Baseball Savings">Job Openings</a><br>
-              <a href="/about/affiliate_info.jsp?CP=FOOTER:AffiliateProgram" class="footer_links" title="Become a Baseball Savings Affiliate">Become a Baseball Savings Affiliate</a><br>
-                    <a href="/siteSubcatList.jsp?CP=FOOTER:Map" class="footer_links" title="Baseball Savings Map">Map</a><br>
-		  			<a href="/siteMap.jsp?CP=FOOTER:SiteMap" class="footer_links" title="Baseball Savings Site Map">Site Map</a></p>          </td>
+              <a href="http://baseballsavings.affiliatetechnology.com" class="footer_links" title="Become a Baseball Savings Affiliate" rel="nofollow">Become a Baseball Savings Affiliate</a><br>
+                      </td>
+          </tr>
+        </tbody></table>
+</td>
         <td rowspan="3" align="left" valign="top"><img src="/images/spacer.gif" width="13" height="13" border="0"></td>
-        <td rowspan="3" align="left" valign="top" nowrap="" bgcolor="#E6E6E6" style="padding:10px;"><span class="footer_headline">Customer Care</span><br>
+        <td rowspan="3" align="left" valign="top" nowrap="" bgcolor="#E6E6E6" style="padding:10px;">
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr>
+            <td colspan="2"><span class="footer_headline">Customer Care</span></td>
+            </tr>
+          <tr>
+            <td width="100%" align="left" valign="top">
           <a href="/about/customerService/customerService.jsp?CP=FOOTER:CustomerService" class="footer_links" title="Baseball Savings Customer Service">Customer Service</a><br>
           <a href="/livechat/index.jsp?CP=FOOTER:LiveChat" class="footer_links" title="Baseball Savings Service Live Chat">Live Chat</a><br>
           <a href="/about/about.jsp#contact" class="footer_links" title="Baseball Savings Order by Phone">Order by Phone</a><br>
@@ -1804,7 +1661,10 @@ return false;
           <a href="https://www.baseballsavings.com/shopping_cart/secureorderform.jsp" class="footer_links" title="Baseball Savings Secure Order Form">Secure Order Form</a><br>
           <!---<a href="/promo/baseball/bbipad/bbipad.jsp?CP=FOOTER:BBSiPadApp" class="footer_links" title="Baseball Savings iPad App">Baseball Savings iPad App</a><br>--->
           <a href="/promo/buyersClub/buyersClub.jsp" class="footer_links" title="Buyer's Club">Buyer's Club</a><br>
-          <span class="footer_links"></span></td>
+          <span class="footer_links"></span>
+                      </td>
+          </tr>
+        </tbody></table></td>
         <td rowspan="3" align="left" class="valignMiddle"><img src="/images/spacer.gif" width="13" height="13" border="0"></td>
         <td rowspan="3" align="left" valign="top" nowrap="" bgcolor="#E6E6E6" style="padding:10px;">
           <table width="100%" border="0" cellspacing="0" cellpadding="0">
@@ -1812,38 +1672,14 @@ return false;
             <td colspan="2"><span class="footer_headline">Popular Searches</span></td>
             </tr>
           <tr>
-            <td width="53%" align="left" valign="top">
-              <a href="/customer/search2.jsp?scid=2504&amp;sortmfr=N&amp;a1000001085=baseballs&amp;CP=FOOTER:Baseballs" class="footer_links" title="Baseballs">Baseballs</a><br>
-              <a href="/customer/search2.jsp?scid=2498&amp;sortmfr=N&amp;a1000001083=baseball+%28metal%29&amp;CP=FOOTER:MetalBats" class="footer_links" title="Metal Baseball Bats">Metal Bats</a><br>
-              <a href="/customer/search2.jsp?scid=2498&amp;sortmfr=N&amp;a1000001083=baseball+%28wood%29&amp;CP=FOOTER:WoodBats" class="footer_links" title="Wood Baseball Bats">Wood Bats</a><br>
-              <a href="/customer/search2.jsp?scid=2498&amp;search2=BBCOR&amp;a1000001083=baseball+(metal)&amp;sortmfr=N&amp;certification=BBCOR&amp;CP=FOOTER:BBCORBats" class="footer_links" title="BBCOR Baseball Bats">BBCOR Bats</a><br>
-              <a href="/customer/search2.jsp?scid=2498&amp;sortmfr=N&amp;a1000001083=fungo&amp;CP=FOOTER:FungoBats" class="footer_links" title="Fungo Baseball Bats">Fungo Bats</a><br>
-              <a href="/customer/search2.jsp?scid=2514&amp;sortmfr=N&amp;CP=FOOTER:CatchersGear" class="footer_links" title="Baseball Catchers Gear">Catchers Gear</a><br>
-              <a href="/customer/search2.jsp?scid=2520&amp;a1000001084=baseball&amp;sortmfr=N&amp;a1000001244=catchers&amp;CP=FOOTER:CatchersGloves" class="footer_links" title="Baseball Catchers Gloves">Catchers Gloves</a><br>
-              <a href="/customer/search2.jsp?scid=2520&amp;a1000001084=baseball&amp;sortmfr=N&amp;a1000001244=infield&amp;CP=FOOTER:InfieldGloves" class="footer_links" title="Baseball Infielders Gloves">Infielders Gloves</a><br>
-              <a href="/customer/search2.jsp?scid=2520&amp;a1000001084=baseball&amp;sortmfr=N&amp;a1000001244=outfield&amp;CP=FOOTER:OutfieldGloves" class="footer_links" title="Outfield Baseball Gloves">Outfielders Gloves</a><br>
-              <a href="/customer/search2.jsp?scid=2520&amp;a1000001084=baseball&amp;sortmfr=N&amp;a1000001244=1st+base&amp;CP=FOOTER:1stBaseBaseballGloves" class="footer_links" title="1st Base Baseball Gloves">1st Base Gloves</a><br>
-              <a href="/customer/search2.jsp?scid=2515&amp;CP=FOOTER:BattingHelmets" class="footer_links" title="Baseball Batting Helmets">Batting Helmets</a><br>
-              <a href="/customer/search2.jsp?scid=2533&amp;CP=ILC-MENU&amp;nvbar=battingGloves&amp;CP=FOOTER:BattingGloves" class="footer_links" title="Baseball Batting Gloves">Batting Gloves</a><br>
+            <td width="100%" align="left" valign="top">
               <a href="/specialoffers/index.jsp?CP=FOOTER:bbsCouponsOffers" class="footer_links" title="BaseballSavings Coupons, Promo codes &amp; Special offers" target="_blank">Baseball Special Offers</a><br>
-                <a href="http://products.soccersavings.com/brands.php?CP=FOOTER:Brands" class="footer_links" title="Brands" target="_blank">Soccer Brands</a><br>
-                <a href="http://products.soccersavings.com/products.php?CP=FOOTER:Products" class="footer_links" title="Products" target="_blank">Soccer Products</a><br>
-
-            </td>
-            <td width="47%" align="left" valign="top"><a href="/customer/search2.jsp?scid=2635&amp;CP=FOOTER:CustomGloves" class="footer_links" title="Baseball Custom Fielding Gloves">Custom Gloves</a><br>
-              <a href="/customer/search2.jsp?scid=2636&amp;CP=FOOTER:CustomBats" class="footer_links" title="Baseball Custom Wood Bats">Custom Bats</a><br>
-              <a href="/customer/search2.jsp?scid=2523&amp;sortmfr=N&amp;CP=FOOTER:JerseysAndShirts" class="footer_links" title="Baseball Jerseys &amp; Shirts">Jersey / Shirts</a><br>
-              <a href="/customer/search2.jsp?scid=2527&amp;sortmfr=N&amp;CP=FOOTER:Outerwear" class="footer_links" title="Baseball Outerwear &amp; Jackets">Outerwear</a><br>
-              <a href="/customer/search2.jsp?scid=2524&amp;sortmfr=N&amp;CP=FOOTER:Pants" class="footer_links" title="Baseball Pants &amp; Shorts">Pants / Shorts</a><br>
-              <a href="/customer/search2.jsp?scid=2529&amp;sortmfr=N&amp;CP=FOOTER:Shoes" class="footer_links" title="Baseball Shoes &amp; Cleats">Shoes</a><br>
               <a href="/teamsales/index.jsp?CP=FOOTER:TeamSales" class="footer_links" title="Baseball Team Sales">Team Sales</a><br>
-              <a href="http://reviews.baseballsavings.com" class="footer_links">Product Reviews</a><br>
-              <a href="http://products.baseballsavings.com/products.php" class="footer_links">All Products</a><br>
-              <a href="http://products.baseballsavings.com/categories.php" class="footer_links">All Categories</a><br>
-              <a href="http://products.baseballsavings.com/searches.php" class="footer_links">Top Searches</a><br>
-              <a href="http://products.baseballsavings.com/brands.php" class="footer_links">All Brands</a><br>
-                <a href="http://products.soccersavings.com/categories.php?CP=FOOTER:Categories" class="footer_links" title="Categories" target="_blank">Soccer Categories</a><br>
-                <a href="http://products.soccersavings.com/searches.php?CP=FOOTER:TopSearches" class="footer_links" title="Top Searches" target="_blank">Top Soccer Searches</a><br>
+              <a href="http://reviews.baseballsavings.com" class="footer_links" title="Product Reviews">Product Reviews</a><br>
+              <a href="http://products.baseballsavings.com/products.php" class="footer_links" title="All Products" rel="nofollow">All Products</a><br>
+              <a href="http://products.baseballsavings.com/categories.php" class="footer_links" title="All Categories" rel="nofollow">All Categories</a><br>
+              <a href="http://products.baseballsavings.com/searches.php" class="footer_links" title="Top Searches" rel="nofollow">Top Searches</a><br>
+              <a href="http://products.baseballsavings.com/brands.php" class="footer_links" title="All Brands" rel="nofollow">All Brands</a><br>
             </td>
           </tr>
         </tbody></table></td>
@@ -1853,13 +1689,15 @@ return false;
           <tbody><tr>
             <td height="22" colspan="2" class="alignCenter" valign="top"><span class="footer_headline">Baseball Savings Family</span></td>
           </tr>
+
+
           <tr>
-            <td width="50%" class="alignCenter valignMiddle"><a href="http://www.soccersavings.com" class="footerlink" title="Soccer Savings - Savings, Selection and Service is our Goal!" target="_blank" onclick="return popup(this, 'notes')"><img src="/images/footer/footer_soccerlogo.jpg" width="91" height="49" border="0" alt="Soccer Savings - Savings, Selection and Service is our Goal!" title="Soccer Savings - Savings, Selection and Service is our Goal!"></a></td>
-            <td width="50%" class="alignCenter valignMiddle"><a href="http://www.tgw.com" class="footerlink" title="The Golf Warehouse - The Premier Online Golf Store!" target="_blank" onclick="return popup(this, 'notes')"><img src="/images/footer/footer_tgwlogo.jpg" width="94" height="40" border="0" alt="The Golf Warehouse - TGW.com - The Premier Online Golf Store!" title="The Golf Warehouse - TGW.com - The Premier Online Golf Store!"></a></td>
+            <td width="50%" class="alignCenter valignMiddle"><a href="http://www.soccersavings.com" class="footerlink" title="Soccer Savings - Savings, Selection and Service is our Goal!" target="_blank" onclick="return popup(this, 'notes')" rel="nofollow"><img src="/images/footer/footer_logo_soccer.jpg" width="107" height="55" border="0" alt="Soccer Savings - Savings, Selection and Service is our Goal!" title="Soccer Savings - Savings, Selection and Service is our Goal!"></a></td>
+            <td width="50%" class="alignCenter valignMiddle"><a href="http://www.tgw.com" class="footerlink" title="The Golf Warehouse - The Premier Online Golf Store!" target="_blank" onclick="return popup(this, 'notes')" rel="nofollow"><img src="/images/footer/footer_logo_tgw.jpg" width="107" height="55" border="0" alt="The Golf Warehouse - TGW.com - The Premier Online Golf Store!" title="The Golf Warehouse - TGW.com - The Premier Online Golf Store!"></a></td>
           </tr>
           <tr>
-            <td class="alignCenter valignMiddle"><a href="#" title="Baseball Savings - #1 Online Baseball Retailer Selling Baseball Bats, Baseball Gloves, Baseball Shoes &amp; More!" target="_blank" onclick="return popup(this, 'notes')"><img src="/images/footer/footer_bbslogo.jpg" width="87" height="40" border="0" alt="Baseball Savings - #1 Online Baseball Retailer Selling Baseball Bats, Baseball Gloves, Baseball Shoes &amp; More!" title="Baseball Savings - #1 Online Baseball Retailer Selling Baseball Bats, Baseball Gloves, Baseball Shoes &amp; More!"></a></td>
-            <td class="alignCenter valignMiddle"><a href="http://www.softballsavings.com" title="Softball Savings - #1 Online Softball Retailer Selling Softball Bats, Softball Gloves, Softball Shoes &amp; More!" target="_blank" onclick="return popup(this, 'notes')"><img src="/images/footer/footer_sbslogo.jpg" width="87" height="40" border="0" alt="Softball Savings - #1 Online Softball Retailer Selling Softball Bats, Softball Gloves, Softball Shoes &amp; More!" title="Softball Savings - #1 Online Softball Retailer Selling Softball Bats, Softball Gloves, Softball Shoes &amp; More!"></a></td>
+            <td class="alignCenter valignMiddle"><a href="#" title="Baseball Savings - #1 Online Baseball Retailer Selling Baseball Bats, Baseball Gloves, Baseball Shoes &amp; More!" target="_blank" onclick="return popup(this, 'notes')" rel="nofollow"><img src="/images/footer/footer_logo_bbs.jpg" width="107" height="43" border="0" alt="Baseball Savings - #1 Online Baseball Retailer Selling Baseball Bats, Baseball Gloves, Baseball Shoes &amp; More!" title="Baseball Savings - #1 Online Baseball Retailer Selling Baseball Bats, Baseball Gloves, Baseball Shoes &amp; More!"></a></td>
+            <td class="alignCenter valignMiddle"><a href="http://www.softballsavings.com" title="Softball Savings - #1 Online Softball Retailer Selling Softball Bats, Softball Gloves, Softball Shoes &amp; More!" target="_blank" onclick="return popup(this, 'notes')" rel="nofollow"><img src="/images/footer/footer_logo_sbs.jpg" width="107" height="43" border="0" alt="Softball Savings - #1 Online Softball Retailer Selling Softball Bats, Softball Gloves, Softball Shoes &amp; More!" title="Softball Savings - #1 Online Softball Retailer Selling Softball Bats, Softball Gloves, Softball Shoes &amp; More!"></a></td>
           </tr>
         </tbody></table></td>
       </tr>
@@ -1888,84 +1726,10 @@ var __dcid = __dcid || [];__dcid.push(["DigiCertClickID_Mkze2SwH", "13", "s", "b
       </tr>
     </tbody></table>
     
-<img src="/images/spacer.gif" width="8" height="8" border="0">
-
-    <table width="1002" class="alignCenter" border="0" cellpadding="0" cellspacing="0">
-	    <tbody><tr>
-		  <td width="40" class="alignCenter"><a href="/manufacturer/adidas/adidas.jsp?CP=FOOTER:adidas" class="footer_links" title="adidas Baseball Shoes &amp; Apparel"><img src="/images/baseball/footer/logos/adidas.jpg" alt="adidas Baseball Shoes &amp; Apparel" width="26" height="25" border="0" vspace="0" hspace="0"><br>
-	      adidas</a></td>
-		  <td width="64" class="alignCenter"><a href="/manufacturer/baseball/anderson/anderson.jsp?CP=FOOTER:AndersonBatCo" class="footer_links" title="Anderson Bats"><img src="/images/baseball/footer/logos/anderson.jpg" alt="Anderson Bats" width="62" height="25" border="0" vspace="0" hspace="0"><br>
-	      Anderson</a></td>
-          <td width="85" class="alignCenter"><a href="/manufacturer/brettbros/brettbros.jsp?CP=FOOTER:brettbros" class="footer_links" title="Brett Bros. Bats &amp; Gloves"><img src="/images/baseball/footer/logos/brett_logo.gif" alt="Brett Bros. Bats &amp; Gloves" width="83" height="19" border="0" vspace="3" hspace="0"><br>
-	      Brett Bros.</a></td>
-		  <td width="91" class="alignCenter"><a href="/manufacturer/demarini/demarini.jsp?CP=FOOTER:Demarini" class="footer_links" title="DeMARINI Bats &amp; Gear"><img src="/images/baseball/footer/logos/demarini.jpg" alt="DeMARINI Bats &amp; Gear" width="89" height="17" border="0" vspace="4" hspace="0"><br>
-	      DeMARINI</a></td>
-		  <td width="67" class="alignCenter"><a href="/manufacturer/diamond/diamond.jsp?CP=FOOTER:Diamond" class="footer_links" title="Diamond Baseballs &amp; Umpire Equipment"><img src="/images/baseball/footer/logos/diamond.jpg" alt="Diamond Baseballs &amp; Umpire Equipment" width="65" height="25" border="0" vspace="0" hspace="0"><br>
-
-	      Diamond</a></td>
-		  <td width="45" class="alignCenter"><a href="/manufacturer/easton/easton.jsp?CP=FOOTER:Easton" class="footer_links" title="Easton Bats, Batting Gloves &amp; Equipment"><img src="/images/baseball/footer/logos/easton.jpg" alt="Easton Bats, Batting Gloves &amp; Equipment" width="30" height="25" border="0" vspace="0" hspace="0"><br>
-	      Easton</a></td>
-		  <td width="96" class="alignCenter"><a href="/louisvilleslugger/index.jsp?CP=FOOTER:LouisvilleSlugger" class="footer_links" title="Louisville Slugger Bats, Gloves, Gear &amp; Equipment"><img src="/images/baseball/footer/logos/louisvilleslugger.jpg" alt="Louisville Slugger Bats, Gloves, Gear &amp; Equipment" width="41" height="25" border="0" vspace="0" hspace="0"><br>
-	      Louisville Slugger</a></td>
-		  <td width="54" class="alignCenter"><a href="/manufacturer/majestic/majestic.jsp?CP=FOOTER:Majestic" class="footer_links" title="Majestic Baseball Apparel &amp; Clothing"><img src="/images/baseball/footer/logos/majestic.jpg" alt="Majestic Baseball Apparel &amp; Clothing" width="31" height="25" border="0" vspace="0" hspace="0"><br>
-	      Majestic</a></td>
-		  <td width="71" class="alignCenter"><a href="/manufacturer/mizuno/mizuno.jsp?CP=FOOTER:Mizuno" class="footer_links" title="Mizuno Baseball Gloves, Bats, Shoes &amp; Gear"><img src="/images/baseball/footer/logos/mizuno.jpg" alt="Mizuno Baseball Gloves, Bats, Shoes &amp; Gear" width="69" height="25" border="0" vspace="0" hspace="0"><br>
-	      Mizuno</a></td>
-		  <td width="68" class="alignCenter"><a href="/manufacturer/nike/nike.jsp?CP=FOOTER:Nike" class="footer_links" title="NIKE Baseball Bats, Shoes &amp; Apparel"><img src="/images/baseball/footer/logos/nike.jpg" alt="NIKE Baseball Bats, Shoes &amp; Apparel" width="66" height="25" border="0" vspace="0" hspace="0"><br>
-	      NIKE</a></td>
-		  <td width="55" class="alignCenter"><a href="/rawlings/index.jsp?CP=FOOTER:Rawlings" class="footer_links" title="Rawlings Baseball Gloves, Bats &amp; Equipment"><img src="/images/baseball/footer/logos/rawlings.jpg" alt="Rawlings Baseball Gloves, Bats &amp; Equipment" width="37" height="25" border="0" vspace="0" hspace="0"><br>
-	      Rawlings</a></td>
-		  <td width="75" class="alignCenter"><a href="/manufacturer/underarmour/underarmour.jsp?CP=FOOTER:UnderArmour" class="footer_links" title="Under Armour Baseball Cleats &amp; Apparel"><img src="/images/baseball/footer/logos/underarmour.jpg" alt="Under Armour Baseball Cleats &amp; Apparel" width="36" height="25" border="0" vspace="0" hspace="0"><br>
-	      Under Armour</a></td>
-		  <td width="44" class="alignCenter"><a href="/manufacturer/wilson/wilson.jsp?CP=FOOTER:Wilson" class="footer_links" title="Wilson Baseball Gloves &amp; Equipment"><img src="/images/baseball/footer/logos/wilson.jpg" alt="Wilson Baseball Gloves &amp; Equipment" width="29" height="25" border="0" vspace="0" hspace="0"><br>
-	      Wilson</a></td>
-		  <td width="85" class="alignCenter"><a href="/worth/index.jsp?CP=FOOTER:Worth" class="footer_links" title="Worth Bats, Gloves &amp; Equipment"><img src="/images/baseball/footer/logos/WorthLogo.jpg" alt="Worth Bats, Gloves &amp; Equipment" width="83" height="25" border="0" vspace="0" hspace="0"><br>
-
-
-	      Worth</a></td>
-
-		</tr>
-	  </tbody></table>
-
-<img src="/images/spacer.gif" width="8" height="10" border="0">
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-   <td>
-    <table width="465" border="0" class="alignCenter" cellpadding="0" cellspacing="0">
-  	  <tbody><tr>
-    	<td width="60" class="alignCenter" nowrap=""><img src="/images/spacer.gif" width="60" height="1" border="0"></td>
-    	<td width="19" class="alignCenter" nowrap=""><a href="https://www.facebook.com/Baseballsavings?ref=nf" title="Become A Fan Of Baseball Savings On Facebook" target="_blank" onclick="var ts = s_gi(s_account);ts.linkTrackVars='eVar19,events';ts.linkTrackEvents='event12';ts.events='event12';ts.eVar19='Facebook Fan';ts.tl(this,'e','Facebook Fan'); return popup(this, 'notes')"><img src="/images/footer/footer_facebook.jpg" alt="Like Baseball Savings on Facebook" border="0"></a></td>
-    	<td width="56" class="alignCenter" nowrap=""><img src="/images/footer/footer_arrow.gif" border="0"> <a href="https://www.facebook.com/Baseballsavings?ref=nf" title="Become A Fan Of Baseball Savings On Facebook" target="_blank" class="footer_links" onclick="var ts = s_gi(s_account);ts.linkTrackVars='eVar19,events';ts.linkTrackEvents='event12';ts.events='event12';ts.eVar19='Facebook Fan';ts.tl(this,'e','Facebook Fan'); return popup(this, 'notes')">Facebook</a></td>
-    	<td width="22" class="alignCenter" nowrap=""><img src="/images/spacer.gif" width="22" height="1" border="0"></td>
-    	<td width="16" class="alignCenter" nowrap=""><a href="http://twitter.com/Baseballsavings" title="Follow Baseball Savings On Twitter" target="_blank" onclick="var ts = s_gi(s_account);ts.linkTrackVars='eVar19,events';ts.linkTrackEvents='event12';ts.events='event12';ts.eVar19='Twitter Fan';ts.tl(this,'e','Twitter Fan'); return popup(this, 'notes')"><img src="/images/footer/footer_twitter.jpg" alt="Follow Baseball Savings on Twitter" border="0"></a></td>
-    	<td width="44" class="alignCenter" nowrap=""><img src="/images/footer/footer_arrow.gif" border="0"> <a href="http://twitter.com/Baseballsavings" title="Follow Baseball Savings On Twitter" target="_blank" class="footer_links" onclick="var ts = s_gi(s_account);ts.linkTrackVars='eVar19,events';ts.linkTrackEvents='event12';ts.events='event12';ts.eVar19='Twitter Fan';ts.tl(this,'e','Twitter Fan'); return popup(this, 'notes')">Twitter</a></td>
-    	<td width="22" class="alignCenter" nowrap=""><img src="/images/spacer.gif" width="22" height="1" border="0"></td>
-    	<td width="20" class="alignCenter" nowrap=""><a href="http://www.youtube.com/BaseballSavings" title="Follow Baseball Savings On YouTube" target="_blank" onclick="var ts = s_gi(s_account);ts.linkTrackVars='eVar19,events';ts.linkTrackEvents='event12';ts.events='event12';ts.eVar19='Youtube Fan';ts.tl(this,'e','Youtube Fan'); return popup(this, 'notes')"><img src="/images/footer/footer_youtube.jpg" alt="Subscribe to Baseball Savings on Youtube" border="0"></a></td>
-    	<td width="50" class="alignCenter" nowrap=""><img src="/images/footer/footer_arrow.gif" border="0"> <a href="http://www.youtube.com/BaseballSavings" title="Follow Baseball Savings On YouTube" target="_blank" class="footer_links" onclick="var ts = s_gi(s_account);ts.linkTrackVars='eVar19,events';ts.linkTrackEvents='event12';ts.events='event12';ts.eVar19='Youtube Fan';ts.tl(this,'e','Youtube Fan'); return popup(this, 'notes')">Youtube</a></td>
-    	<td width="26" class="alignCenter" nowrap=""><img src="/images/spacer.gif" width="22" height="1" border="0"></td>
-    	<td width="17" class="alignCenter" nowrap=""><a href="https://plus.google.com/u/0/110373281599237271017/posts" title="Add Baseball Savings to Your Circle" target="_blank" onclick="var ts = s_gi(s_account);ts.linkTrackVars='eVar19,events';ts.linkTrackEvents='event12';ts.events='event12';ts.eVar19='Google Plus';ts.tl(this,'e','Google Plus'); return popup(this, 'notes')"><img src="/images/footer/footer_googleplus.jpg" alt="Add Baseball Savings to Your Circle" border="0"></a></td>
-    	<td width="52" class="alignCenter" nowrap=""><img src="/images/footer/footer_arrow.gif" border="0"> <a href="https://plus.google.com/u/0/110373281599237271017/posts" title="Add Baseball Savings to Your Circle" target="_blank" class="footer_links" onclick="var ts = s_gi(s_account);ts.linkTrackVars='eVar19,events';ts.linkTrackEvents='event12';ts.events='event12';ts.eVar19='Google Plus';ts.tl(this,'e','Google Plus'); return popup(this, 'notes')">Google+</a></td>
-    	<td width="61" class="alignCenter" nowrap=""><img src="/images/spacer.gif" width="60" height="1" border="0"></td>
-    </tr>
-    <tr>
-    	<td colspan="13" class="alignCenter" nowrap=""><img src="/images/spacer.gif" width="1" height="8" border="0"></td>
-    </tr>
-    <tr>
-    	<td colspan="13" class="alignCenter footer_copy" nowrap=""><a href="/about/privacy-policy.jsp?CP=FOOTER:Privacy" class="footer_links2">Privacy Policy</a> | <a href="/CaliforniaSupplyChainTransparency?CP=FOOTER:CASupplyChainTransAct" class="footer_links2">California Supply Chain Transparency Act</a> | Baseball Savings.com: © <script>
-var d = new Date();
-document.write(d.getFullYear());
-</script>2020 Baseball Savings, Inc.</td>
-    </tr>
-  	<tr>
-    	<td colspan="13" class="alignCenter" nowrap=""><img src="/images/spacer.gif" width="1" height="8" border="0"></td>
-  	</tr>
-	</tbody></table>
-    <p></p></td>
-  </tr>
-</tbody></table>
-
-</td>
+<img src="/images/spacer.gif" width="0" height="8" border="0"><br>
+<iframe width="1002" height="60" frameborder="0" src="/html/homepage/baseball/footer-logos.html" border="0"></iframe><br>
+<img src="/images/spacer.gif" width="8" height="10" border="0"><br>
+<iframe width="1002" height="80" frameborder="0" src="/html/homepage/baseball/footer-bottom.html" border="0"></iframe></td>
 </tr>
 </tbody></table>
 
@@ -2013,7 +1777,7 @@ mybuys.initPage();
 </script>
 
 
-<script type="text/javascript" src="https://px.steelhousemedia.com/st?shver=3.3.0&amp;shaid=9621&amp;shcv=0.00&amp;shcq=0&amp;shcp=&amp;shpn=&amp;shpc=&amp;shpp=&amp;shpb=&amp;shpi=&amp;shps=&amp;shpil=&amp;tdr=&amp;plh=https%3A%2F%2Fweb.archive.org%2Fweb%2F20131202174508id_%2Fhttp%253A%2F%2Fwww.baseballsavings.com%2Fabout%2Fprivacy-policy.jsp%253FCP%253DFOOTER%253APrivacy&amp;cb=73082729551941620"></script><script type="text/javascript">
+<script type="text/javascript" src="https://px.steelhousemedia.com/st?shver=3.3.0&amp;shaid=9621&amp;shcv=0.00&amp;shcq=0&amp;shcp=&amp;shpn=&amp;shpc=&amp;shpp=&amp;shpb=&amp;shpi=&amp;shps=&amp;shpil=&amp;tdr=&amp;plh=https%3A%2F%2Fweb.archive.org%2Fweb%2F20140603233347id_%2Fhttp%253A%2F%2Fwww.baseballsavings.com%2Fabout%2Fprivacy-policy.jsp%253FCP%253DFOOTER%253APrivacy&amp;cb=78865720457126880"></script><script type="text/javascript">
 
 function shaddslashes(s){
 s=s.replace(/%/g,'%25%32%35');
