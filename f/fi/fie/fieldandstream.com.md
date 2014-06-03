@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fieldandstream.com privacy policy that was archived on 2013-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131024200230id_/http%3A//www.fieldandstream.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fieldandstream.com privacy policy that was archived on 2014-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140603034355id_/http%3A//www.fieldandstream.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Field & Stream
 
