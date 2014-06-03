@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the musafir.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231234307id_/http%3A//www.musafir.com/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musafir.com privacy policy that was archived on 2014-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140603231609id_/http%3A//www.musafir.com/Privacy/Default.aspx) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy policy - Musafir
 
 We understand that making purchases online involves a great deal of trust on your part. We take this trust very seriously, and make it our highest priority to ensure the security and confidentiality of the personal information you provide to us. Please read the following policy to learn about our privacy practices.
 
@@ -13,7 +13,7 @@ The terms "we", "us", "our" and "Musafir" refer to Universal Travels & Tourism L
   * Information from Other Sources. We also may periodically obtain information about you from our business partners and other independent third-party sources and add it to our account information. Examples of information we may receive include: updated delivery and address information, which we use to correct our records and to facilitate proper delivery of travel information; and demographic information, which we use to better understand your potential purchasing preferences.
   * Automatic Information. We automatically collect some information about your computer when you visit Musafir.com. For example, we will collect your IP address, Web browser software (such as Netscape Navigator or Internet Explorer), and referring Website. We also may collect information about your online activity, such as trips viewed and purchases made. One of our goals in collecting this automatic information is to help customize your user experience.
   * Cookies and Other Web Technologies. When you visit Musafir.com, we may assign your computer a "cookie" (a small, unique identifier text file). You can always choose not to receive a cookie file by enabling your Web browser to refuse cookies or to prompt you before accepting a cookie. Please note that if you refuse to accept cookies from Musafir.com, you may not be able to access many of the travel tools offered by Musafir.com.
-  * Information Collected by Third-Party Advertising Companies. Third-party advertisers, such as those we use to serve ads on our behalf across the Internet, may use cookies and other technologies (such as Web beacons or single-pixel GIFS) for several purposes, including: to measure the effectiveness of their ads; to analyze, modify, and personalize advertising content on Musafir.com and other sites; and to provide ads about goods and services we hope will be of interest to you. We do not have access to or control over cookies or other features they may use, and the information practices of these advertisers are not covered by this Privacy Policy. You can find out more about third-party advertisers and explore the option of not having this information collected by clicking here.
+  * Information Collected by Third-Party Advertising Companies. Third-party advertisers, such as those we use to serve ads on our behalf across the Internet, may use cookies and other technologies for several purposes, including: to measure the effectiveness of their ads; to analyze, modify, and personalize advertising content on Musafir.com and other sites; and to provide ads about goods and services we hope will be of interest to you. We do not have access to or control over cookies or other features they may use, and the information practices of these advertisers are not covered by this Privacy Policy. You may opt not to have this information collected by select third-party advertisers such as on [Google Ads Settings](https://www.google.com/settings/ads).
 
 
 
@@ -88,4 +88,4 @@ Sharjah, United Arab Emirates
 Phone: +971 6 516 6666  
 Fax: +971 6 534 3338
 
-Revised May 22, 2011.
+Revised January 29, 2014.
