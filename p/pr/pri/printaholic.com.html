@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the printaholic.com privacy policy that was archived on 2013-11-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131127020929id_/http%3A//www.printaholic.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the printaholic.com privacy policy that was archived on 2014-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140603063739id_/http%3A//www.printaholic.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><!-- HEAD
-	 ------------------------------------------------------------------------------><head><link rel="stylesheet" type="text/css" href="http://www.printaholic.com/wp-content/cache/minify/000000/156b1/default.include.0e9fc3.css" media="all">
+	 ------------------------------------------------------------------------------><head><link rel="stylesheet" type="text/css" href="http://www.printaholic.com/wp-content/cache/minify/000000/156b1/default.include.a10192.css" media="all">
 <script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" defer="" src="http://rainmk.com/javascripts/rainmaker/rm.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.printaholic.com/wp-content/cache/minify/000000/156b1/default.include.09363b.js"></script>
 
 	<!-- Fonts -->
@@ -42,7 +42,7 @@
 
 <script type="text/javascript" src="http://cdn21.printing-cdn.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
 
-<meta name="generator" content="WordPress 3.7.1">
+<meta name="generator" content="WordPress 3.7.3">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Privacy Policy">
 <meta property="og:url" content="http://www.printaholic.com/privacy-policy/">
@@ -58,14 +58,152 @@ var ajaxurl = 'http://www.printaholic.com/wp-admin/admin-ajax.php';
 	<!-- Google Analytics Code -->
 				<script type="text/javascript">
 				var _gaq = _gaq || [];
-				  _gaq.push(['_setAccount', 'UA-34250328-1']);
-				  _gaq.push(['_trackPageview']);
+				_gaq.push(['_setAccount', 'UA-34250328-1']);
+				_gaq.push(['_trackPageview']);
 
-				  (function() {
+				(function() {
 					var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
 					ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
 					var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-				  })();
+				})();
+
+			</script>
+			<script type="text/javascript">
+				// Copyright 2012 Google Inc. All Rights Reserved.
+				/**
+				 * @fileoverview A simple script to automatically track Facebook and Twitter
+				 * buttons using Google Analytics social tracking feature.
+				 * @author api.nickm@gmail.com (Nick Mihailovski)
+				 * @author api.petef@gmail.com (Pete Frisella)
+				 */
+
+				/**
+				 * Namespace.
+				 * @type {Object}.
+				 */
+				var _ga = _ga || {};
+
+				/**
+				 * Ensure global _gaq Google Analytics queue has been initialized.
+				 * @type {Array}
+				 */
+				var _gaq = _gaq || [];
+
+				/**
+				 * Tracks social interactions by iterating through each tracker object
+				 * of the page, and calling the _trackSocial method. This function
+				 * should be pushed onto the _gaq queue. For details on parameters see
+				 * http://code.google.com/apis/analytics/docs/gaJS/gaJSApiSocialTracking.html
+				 * @param {string} network The network on which the action occurs.
+				 * @param {string} socialAction The type of action that happens.
+				 * @param {string} opt_target Optional text value that indicates the
+				 *     subject of the action.
+				 * @param {string} opt_pagePath Optional page (by path, not full URL)
+				 *     from which the action occurred.
+				 * @return a function that iterates over each tracker object
+				 *    and calls the _trackSocial method.
+				 * @private
+				 */
+				_ga.getSocialActionTrackers_ = function(
+					network, socialAction, opt_target, opt_pagePath) {
+					  return function() {
+						var trackers = _gat._getTrackers();
+						for (var i = 0, tracker; tracker = trackers[i]; i++) {
+						  tracker._trackSocial(network, socialAction, opt_target, opt_pagePath);
+						}
+					  };
+					};
+
+				/**
+				 * Tracks Facebook likes, unlikes and sends by suscribing to the Facebook
+				 * JSAPI event model. Note: This will not track facebook buttons using the
+				 * iframe method.
+				 * @param {string} opt_pagePath An optional URL to associate the social
+				 *     tracking with a particular page.
+				 */
+				_ga.trackFacebook = function(opt_pagePath) {
+				  try {
+					if (FB && FB.Event && FB.Event.subscribe) {
+					  FB.Event.subscribe('edge.create', function(opt_target) {
+						_gaq.push(_ga.getSocialActionTrackers_('facebook', 'like',
+							opt_target, opt_pagePath));
+					  });
+					  FB.Event.subscribe('edge.remove', function(opt_target) {
+						_gaq.push(_ga.getSocialActionTrackers_('facebook', 'unlike',
+							opt_target, opt_pagePath));
+					  });
+					  FB.Event.subscribe('message.send', function(opt_target) {
+						_gaq.push(_ga.getSocialActionTrackers_('facebook', 'send',
+							opt_target, opt_pagePath));
+					  });
+					}
+				  } catch (e) {}
+				};
+
+				/**
+				 * Handles tracking for Twitter click and tweet Intent Events which occur
+				 * everytime a user Tweets using a Tweet Button, clicks a Tweet Button, or
+				 * clicks a Tweet Count. This method should be binded to Twitter click and
+				 * tweet events and used as a callback function.
+				 * Details here: http://dev.twitter.com/docs/intents/events
+				 * @param {object} intent_event An object representing the Twitter Intent Event
+				 *     passed from the Tweet Button.
+				 * @param {string} opt_pagePath An optional URL to associate the social
+				 *     tracking with a particular page.
+				 * @private
+				 */
+				_ga.trackTwitterHandler_ = function(intent_event, opt_pagePath) {
+				  var opt_target; //Default value is undefined
+				  if (intent_event && intent_event.type == 'tweet' ||
+						  intent_event.type == 'click') {
+					if (intent_event.target.nodeName == 'IFRAME') {
+					  opt_target = _ga.extractParamFromUri_(intent_event.target.src, 'url');
+					}
+					var socialAction = intent_event.type + ((intent_event.type == 'click') ?
+						'-' + intent_event.region : ''); //append the type of click to action
+					_gaq.push(_ga.getSocialActionTrackers_('twitter', socialAction, opt_target,
+						opt_pagePath));
+				  }
+				};
+
+				/**
+				 * Binds Twitter Intent Events to a callback function that will handle
+				 * the social tracking for Google Analytics. This function should be called
+				 * once the Twitter widget.js file is loaded and ready.
+				 * @param {string} opt_pagePath An optional URL to associate the social
+				 *     tracking with a particular page.
+				 */
+				_ga.trackTwitter = function(opt_pagePath) {
+				  intent_handler = function(intent_event) {
+					_ga.trackTwitterHandler_(intent_event, opt_pagePath);
+					console.log("Twitter");
+				  };
+
+				  //bind twitter Click and Tweet events to Twitter tracking handler
+				  twttr.events.bind('click', intent_handler);
+				  twttr.events.bind('tweet', intent_handler);
+				};
+
+				/**
+				 * Extracts a query parameter value from a URI.
+				 * @param {string} uri The URI from which to extract the parameter.
+				 * @param {string} paramName The name of the query paramater to extract.
+				 * @return {string} The un-encoded value of the query paramater. undefined
+				 *     if there is no URI parameter.
+				 * @private
+				 */
+				_ga.extractParamFromUri_ = function(uri, paramName) {
+				  if (!uri) {
+					return;
+				  }
+				  var regex = new RegExp('[\\?&#]' + paramName + '=([^&#]*)');
+				  var params = regex.exec(uri);
+				  if (params != null) {
+					return unescape(params[1]);
+				  }
+				  return;
+				};
+
 			</script>
 	<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head>
 
@@ -80,7 +218,8 @@ var ajaxurl = 'http://www.printaholic.com/wp-admin/admin-ajax.php';
 			------------------------------------------------------------------->
 			<div class="navbar navbar-fixed-top">
 				<div class="navbar-inner">
-					<div class="container"><a class="brand" href="http://www.printaholic.com"><img src="http://cdn24.printing-cdn.com/wp-content/themes/tdr-framework-child/images/printaholic-logo.png" alt="Printing Services"></a><ul id="menu-main-top-menu" class="nav pull-right"><li id="menu-item-8421" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-8421"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Our Reviews <b class="caret"></b></a>
+				<div class="container">
+					<a class="brand" href="http://www.printaholic.com"><img src="http://cdn24.printing-cdn.com/wp-content/themes/tdr-framework-child/images/printaholic-logo.png" alt="Printing Services"></a><ul id="menu-main-top-menu" class="nav pull-right"><li id="menu-item-8421" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-8421"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Our Reviews <b class="caret"></b></a>
 <ul class="dropdown-menu">
 	<li id="menu-item-11" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11"><a href="http://www.printaholic.com/our-reviews/business-cards/">Business Card Printing</a></li>
 	<li id="menu-item-180" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-180"><a href="http://www.printaholic.com/our-reviews/t-shirts/">T-Shirt Printing</a></li>
@@ -128,7 +267,13 @@ var ajaxurl = 'http://www.printaholic.com/wp-admin/admin-ajax.php';
 	<li id="menu-item-216" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-216"><a href="http://www.printaholic.com/design-ideas/brochures/">Brochure Design</a></li>
 </ul>
 </li>
-</ul></div><!-- end .container -->
+</ul>					<div class="search-form-container">
+						<form role="search" method="get" class="search-form" action="http://www.printaholic.com/">
+	<i class="search-icon"></i>
+	<input type="search" class="search-field" placeholder="SEARCH" value="" name="s" title="Search">
+</form>
+					</div><!-- end .search-form-container -->
+					</div><!-- end .container -->
 				</div><!-- end .navbar-inner -->
 			</div><!-- end .navbar -->
 		</header>
@@ -168,9 +313,9 @@ var ajaxurl = 'http://www.printaholic.com/wp-admin/admin-ajax.php';
 	<li id="menu-item-247" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.printaholic.com/contact-us/"><i class=""></i>Contact Us</a></li>
 </ul>
 </li>
-<li id="menu-item-903" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a><i class="icon-sidebar-star"></i>Best of 2013</a>
+<li id="menu-item-903" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a><i class="icon-sidebar-star"></i>Best of 2014</a>
 <ul class="sub-menu">
-	<li id="menu-item-7359" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.printaholic.com/best-services/"><i class=""></i>2013′s Best Printing Services</a></li>
+	<li id="menu-item-7359" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.printaholic.com/best-services/"><i class=""></i>2014‘s Best Printing Services</a></li>
 </ul>
 </li>
 <li id="menu-item-73" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a><i class="icon-sidebar-biz-cards"></i>Business Cards</a>
@@ -241,7 +386,42 @@ var ajaxurl = 'http://www.printaholic.com/wp-admin/admin-ajax.php';
 
 			<aside id="social-sharing">
 				<span>YOU KNOW WE'RE AWESOME - FOLLOW US!</span>
-				<div class="social-container social-small span4"><div class="social-twitter-follow social-button"><a href="https://twitter.com/SirPrintsALot" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false" data-lang="en">follow</a></div><div class="fb-like social-fb-like social-button"><div class="fb-like" data-href="https://www.facebook.com/pages/PrintingReviewscom/341315562609898" data-send="false" data-layout="button_count" data-width="450" data-show-faces="false"></div></div><div class="social-g-plus social-button"><div class="g-plusone" data-size="medium" data-href="https://plus.google.com/u/0/111708393412468549156/posts"></div></div></div>			</aside>
+				<div class="social fadein">
+					<div class="social-container social-small span4"><div class="social-twitter-follow social-button"><a href="https://twitter.com/SirPrintsALot" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false" data-lang="en">follow</a></div><div class="fb-like social-fb-like social-button"><div class="fb-like" data-href="https://www.facebook.com/pages/PrintingReviewscom/341315562609898" data-send="false" data-layout="button_count" data-width="450" data-show-faces="false"></div></div><div class="social-g-plus social-button"><div class="g-plusone" data-size="medium" data-href="https://plus.google.com/u/0/111708393412468549156/posts"></div></div></div>				</div><!-- end .social -->
+			</aside>
+
+			<aside class="adsense">
+				<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+				<!-- Printaholic250x250-DisplayOnly -->
+				<ins class="adsbygoogle" style="display:inline-block;width:250px;height:250px" data-ad-client="ca-pub-0966013766411743" data-ad-slot="4092134832"></ins>
+				<script>
+				(adsbygoogle = window.adsbygoogle || []).push({});
+				</script>
+			</aside><!-- .adsense -->
+
+			<aside class="adsense text">
+				<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+				<!-- Printaholic234x60-TextOnly -->
+				<ins class="adsbygoogle" style="display:inline-block;width:234px;height:60px" data-ad-client="ca-pub-0966013766411743" data-ad-slot="6906000436"></ins>
+				<script>
+				(adsbygoogle = window.adsbygoogle || []).push({});
+				</script>
+
+				<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+				<!-- Printaholic234x60-TextOnly-2 -->
+				<ins class="adsbygoogle" style="display:inline-block;width:234px;height:60px" data-ad-client="ca-pub-0966013766411743" data-ad-slot="9859466835"></ins>
+				<script>
+				(adsbygoogle = window.adsbygoogle || []).push({});
+				</script>
+
+				<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+				<!-- Printaholic234x60-TextOnly-3 -->
+				<ins class="adsbygoogle" style="display:inline-block;width:234px;height:60px" data-ad-client="ca-pub-0966013766411743" data-ad-slot="1079792838"></ins>
+				<script>
+				(adsbygoogle = window.adsbygoogle || []).push({});
+				</script>
+			</aside><!-- .adsense -->
+
 		</section><!-- end #main-sidebar -->
 
 
@@ -461,7 +641,10 @@ contact@Printaholic.com</p>
         		<li><a href="http://www.printaholic.com/tag/logos/">Logos </a></li>
         		<li><a href="http://www.printaholic.com/tag/marketing/">Marketing </a></li>
         		<li><a href="http://www.printaholic.com/tag/word/">Microsoft Word </a></li>
+        		<li><a href="http://www.printaholic.com/tag/music/">Music </a></li>
         		<li><a href="http://www.printaholic.com/tag/photo-edits/">Photo Edits </a></li>
+        		<li><a href="http://www.printaholic.com/tag/political/">Political </a></li>
+        		<li><a href="http://www.printaholic.com/tag/shapes/">Shapes </a></li>
         		<li><a href="http://www.printaholic.com/tag/special-occasions/">Special Occasions </a></li>
         		<li><a href="http://www.printaholic.com/tag/stand-out/">Stand Out </a></li>
         		<li><a href="http://www.printaholic.com/tag/taking-photos/">Taking Photos </a></li>
@@ -489,7 +672,7 @@ contact@Printaholic.com</p>
 		<div class="row">
 			<div class="span12">
 				<section id="footer-credits">
-				<span>© 2013 Printaholic.com | Digital Brands Inc. | All Rights Reserved | Powered by <strong>INK</strong></span>
+				<span>© 2014 Printaholic.com | Digital Brands Inc. | All Rights Reserved | Powered by <strong>INK</strong></span>
 				</section><!-- end #footer-credits -->
 			</div><!-- end .span12 -->
 		</div><!-- end .row -->
@@ -525,7 +708,8 @@ contact@Printaholic.com</p>
 	})();
 </script>
 
-<script type="text/javascript" src="http://www.printaholic.com/wp-content/cache/minify/000000/156b1/default.include-footer.c28dfb.js"></script>
+
+<script type="text/javascript" src="http://www.printaholic.com/wp-content/cache/minify/000000/156b1/default.include-footer.978016.js"></script>
 
 
 
@@ -534,7 +718,7 @@ contact@Printaholic.com</p>
 
 Minified using disk
 Database Caching 10/16 queries in 0.010 seconds using disk
-Object Caching 3692/3702 objects using disk
+Object Caching 3718/3728 objects using disk
 Content Delivery Network via cdn24.printing-cdn.com
 
- Served from: www.printaholic.com @ 2013-11-26 06:01:15 by W3 Total Cache --></body></html>
+ Served from: www.printaholic.com @ 2014-06-02 07:01:28 by W3 Total Cache --></body></html>
