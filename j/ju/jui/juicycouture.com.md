@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the juicycouture.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212101144id_/http%3A//www.juicycouture.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juicycouture.com privacy policy that was archived on 2014-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140603213006id_/http%3A//www.juicycouture.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ### **Privacy Policy**
 
-Last updated August 22, 2013 
+Last updated February 24, 2014 
 
-Juicy Couture, Inc. and/or Fifth & Pacific Companies, Inc. and each of their respective subsidiary, parent, and affiliated companies (collectively referred to herein as "Juicy") is deemed to operate this Website (the " **Website** "). Juicy (" **we** " or " **us** ") recognises that you care how information about you is used and shared. We have created this Privacy Policy to inform you what information we collect on the Website, how we use your information, and the choices you have about the way your information is collected and used. Please read this Privacy Policy carefully. Your use of the Website indicates that you have read and accepted our privacy practices, as outlined in this Privacy Policy. In addition, please read our [Terms of Use](http://www.juicycouture.com/privacy?section=termsofuse "Terms of Use"), which also govern your use of this Website. Please be advised that the practices described in this Privacy Policy apply to information gathered by us or our subsidiaries, affiliates or agents: (i) through this Website, (ii) where applicable, through our Customer Service Department in connection with this Website, (iii) through information provided to us in our free-standing retail stores, and (iv) through information provided to us in conjunction with marketing promotions and sweepstakes.
+Juicy Couture, Inc. and Kate Spade & Company and each of their respective subsidiary, parent, and affiliated companies (collectively referred to herein as "Juicy") is deemed to operate this Website (the " **Website** "). Juicy (" **we** " or " **us** ") recognises that you care how information about you is used and shared. We have created this Privacy Policy to inform you what information we collect on the Website, how we use your information, and the choices you have about the way your information is collected and used. Please read this Privacy Policy carefully. Your use of the Website indicates that you have read and accepted our privacy practices, as outlined in this Privacy Policy. In addition, please read our [Terms of Use](http://www.juicycouture.com/privacy?section=termsofuse "Terms of Use"), which also govern your use of this Website. Please be advised that the practices described in this Privacy Policy apply to information gathered by us or our subsidiaries, affiliates or agents: (i) through this Website, (ii) where applicable, through our Customer Service Department in connection with this Website, (iii) through information provided to us in our free-standing retail stores, and (iv) through information provided to us in conjunction with marketing promotions and sweepstakes.
 
 We reserve the right, in our sole discretion, to modify, update, add to, discontinue, remove, or otherwise change any portion of this Privacy Policy, in whole or in part, at any time. When we amend this Privacy Policy, we will revise the "last updated" date located at the top of this Privacy Policy. For changes to this Privacy Policy that we consider to be material, we will place a notice on the Website by revising the link on the home page to read substantially as "Updated Privacy Policy" for a reasonable amount of time which may be up to sixty (60) days. If you provide information to us or access or use the Website in any way after this Privacy Policy has been changed, you will be deemed to have unconditionally consented and agreed to such changes. The most current version of this Privacy Policy will be available on the Website and will supersede all previous versions of this Privacy Policy.
 
@@ -115,7 +115,7 @@ If you are a copyright owner and believe that any Community Content appearing on
 
 
 Copyright Agent   
-Fifth & Pacific Companies, Inc.  
+Kate Spade & Company  
 5901 Westside Ave.   
 North Bergen, New Jersey 07047
 
@@ -127,7 +127,7 @@ You can access, correct and update certain personal information that you have pr
 
 YOUR CHOICES/UNSUBSCRIBE
 
-You will have an opportunity to unsubscribe from receiving promotional material from this Website by clicking on an "unsubscribe" hyperlink contained in promotional emails we send you. Additionally you may email us at [customercare@juicycouture.com](mailto:customercare@juicycouture.com) or call us at 1.888.908.1160 or write to us at Fifth & Pacific Companies, Inc., Privacy Officer, 5901 Westside Ave., North Bergen, NJ 07047. Because customer lists often are prepared well in advance of an offering (sometimes a few months before the offer is made), you may continue to receive some offers after you send us a request not to use your information for specified marketing purposes. Please be aware that we will process your request as quickly as we reasonably can, but it may not be possible to update our systems immediately. We appreciate your patience and understanding in giving us time to carry out your request.
+You will have an opportunity to unsubscribe from receiving promotional material from this Website by clicking on an "unsubscribe" hyperlink contained in promotional emails we send you. Additionally you may email us at [customercare@juicycouture.com](mailto:customercare@juicycouture.com) or call us at 1.888.908.1160 or write to us at Kate Spade & Company, Privacy Officer, 5901 Westside Ave., North Bergen, NJ 07047. Because customer lists often are prepared well in advance of an offering (sometimes a few months before the offer is made), you may continue to receive some offers after you send us a request not to use your information for specified marketing purposes. Please be aware that we will process your request as quickly as we reasonably can, but it may not be possible to update our systems immediately. We appreciate your patience and understanding in giving us time to carry out your request.
 
 Even if you are removed from any such list, if you order online, we will send you an email confirming your order and may need to contact you by phone, email, or regular mail if we have questions about your order. In addition, you should be aware that it is not always possible to completely remove or delete all of your information from our databases without some residual data because of backups and other reasons.
 
@@ -149,7 +149,7 @@ COLLECTION IN AND TRANSFER TO THE UNITED STATES
 
 This Website is operated in the United States. If you are located in the European Union, Canada, or elsewhere outside of the United States, please be aware that any information you provide to us will be collected in or transferred to the United States. By using our Website, participating in any of our services and/or providing us with your information, you consent to this transfer. Juicy Couture, Inc. complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Juicy Couture, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Juicy Couture, Inc.’s certification, please visit <http://www.export.gov/safeharbor/>
 
-© 2013 Fifth & Pacific Companies, Inc. All rights reserved.
+© 2014 Kate Spade & Company. All rights reserved.
 
   
 
