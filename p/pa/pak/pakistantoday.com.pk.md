@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pakistantoday.com.pk privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125003614id_/http%3A//www.pakistantoday.com.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pakistantoday.com.pk privacy policy that was archived on 2014-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140603153246id_/http%3A//www.pakistantoday.com.pk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Pakistan Today | Latest news | Breaking news | Pakistan News | World news | Business | Sport and Multimedia
+# Privacy Policy | Pakistan Today
 
 **PakistanToday.com.pk is a Nawa Media (Pvt.) Ltd. website. Please know that while using this website and/or submitting information at this website you are volunteering the same; you are informed of the way such information may be used and you agree to such use.**
 
