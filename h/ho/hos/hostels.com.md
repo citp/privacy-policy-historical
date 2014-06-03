@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostels.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203131642id_/http%3A//www.hostels.com/d/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostels.com privacy policy that was archived on 2014-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140603212531id_/http%3A//www.hostels.com/d/privacy.php) for the most accurate reproduction.*
 
 # Hostels.com | Privacy Policy & Security Statement
 
@@ -85,11 +85,11 @@ Video guides, travel podcasts, city maps & free city guides. What to eat, where 
 
 [Find a guide »](http://www.hostels.com/d/guides "Find a travel guide")
 
-##### [Latest Blog Post](http://www.hostels.com/d/blog/travel-tips/city-bicycles/)
+##### [Latest Blog Post](http://www.hostels.com/d/blog/guest-bloggers/10-ways-backpackers-can-save-money-with-food/)
 
-After a recent trip to Amsterdam we've been thinking more about how using a bicycle to get around a city, whether as a tourist or local, is a great idea. But in keeping with our budget travelling tips, you'll probably want to know how you can get on your bike in the cheapest possible way in cities worldwide. A lot of cities offer private bicycle rental from shops where you can rent a bike for a few hours for a certain price.
+My personal definition of a backpacker is not someone who carries a backpack, but someone who just wants to save money to travel longer.
 
-[Read more »](http://www.hostels.com/d/blog/travel-tips/city-bicycles/ "Latest blog post")
+[Read more »](http://www.hostels.com/d/blog/guest-bloggers/10-ways-backpackers-can-save-money-with-food/ "Latest blog post")
 
 ##### [Great Value and Choice](http://www.hostels.com/hostel.menu.html)
 
