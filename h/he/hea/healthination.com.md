@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthination.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202002352id_/http%3A//www.healthination.com/privacy-editorial-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthination.com privacy policy that was archived on 2014-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140603203308id_/http%3A//www.healthination.com/privacy-editorial-policy.php) for the most accurate reproduction.*
 
 # HealthiNation - Videos to inspire a healthy and active lifestyle for audiences everywhere
 
