@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the easydriverpro.com privacy policy that was archived on 2013-08-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130823154319id_/http%3A//www.easydriverpro.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the easydriverpro.com privacy policy that was archived on 2014-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140603165303id_/http%3A//www.easydriverpro.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-GB"><head>
 		<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8">
@@ -99,12 +99,45 @@
 	
 	<div id="footer">
 		<p><a href="/" title="Easy Driver Pro">Easy Driver Pro</a> - <a href="./privacy.php" title="Privacy Policy for EasyDriverPro.com" target="_blank">Privacy</a> - <a href="./terms.php" title="Terms" target="_blank">Terms</a> - <a href="./eula.php" title="Eula" target="_blank">EULA</a> - <a href="./uninstall.php" title="Uninstall Easy Driver Pro" target="_blank">Uninstall</a> - <a href="http://support.probitsoftware.com" title="Support" target="_blank">Support</a> - <a href="./about.php" title="About Easy Driver Pro" target="_blank">About</a></p>
-		<p>© 2013 EasyDriverPro.com. All Rights Reserved.</p>
+		<p>© 2014 EasyDriverPro.com. All Rights Reserved.</p>
 	</div>
 
 	</div> <!-- End of "body_wrapper" -->
 
 			
 	
+            <script language="javascript">
+    
+                var el = document.getElementById("anchor_download_button");
+                
+                if(!el)
+                {
+                    el = document.getElementById("download_button");
+                }
+                
+                el.addEventListener("click", function (){avoidNSError()}, false); 
+
+                function avoidNSError()
+                {
+                    var nAgt = navigator.userAgent;
+
+                    if ((nAgt.indexOf("Chrome"))!=-1) 
+                    {  
+                        _gaq.push(['_trackEvent', 'Download', 'Click']);
+                    }
+                    else if((verOffset=nAgt.indexOf("Firefox"))!=-1)
+                    {
+                        ElementInterval = setInterval(function () {
+                        /* Tracking or other request code goes here */
+                        _gaq.push(['_trackEvent', 'Download', 'Click']);
+                        clearInterval(ElementInterval)
+                        },100);
+                    }
+                    else if((verOffset=nAgt.indexOf("MSIE"))!=-1)
+                    {  
+                        _gaq.push(['_trackEvent', 'Download', 'Click']);
+                    }
+                };
+        </script>
         
 	</body></html>
