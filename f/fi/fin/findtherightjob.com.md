@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findtherightjob.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202163800id_/http%3A//www.findtherightjob.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findtherightjob.com privacy policy that was archived on 2014-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140604005730id_/http%3A//www.findtherightjob.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ FindTheRightJob is committed to your privacy. This Privacy Policy describes the 
 
 [ ](https://privacy.truste.com/privacy-seal/CollegeBound-Network-/validation?rid=b9596d5f-e903-4434-a695-95d1ec117c6d "TRUSTe online privacy certification")
 
-Last Updated: 09/25/13
+Last Updated: 01/09/14
 
 This Site has been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. To view a list of sites that are certified by TRUSTe, please click on the seal located at the top of the Privacy Policy.
 
@@ -57,7 +57,7 @@ If you no longer wish to receive our newsletter and promotional communications, 
 
 ### INFORMATION DISCLOSURE
 
-FindTheRightJob may disclose the information we collect from and about you as follows: (1) to the employment or educational organizations from whom you have requested information or the employment or educational organization we have matched based on your interests; (2) to our email and data hosting service providers, if the disclosure will enable them to perform a business, professional or technical support function for us; (3) as necessary if we believe that there has been a violation of the FindTheRightJob Site Terms of Use or of our rights or the rights of any third party; (4) to respond to judicial process and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law; (5) to our select partners and affiliates that we believe may have offers of interest to you; and (6) as described to you at the point of collection.
+FindTheRightJob may disclose the information we collect from and about you as follows: (1) to the employment or educational organizations from whom you have requested information or the employment or educational organization we have matched based on your interests; (2) to our email, data hosting, and Short Message Service (SMS)/text messaging service providers, if the disclosure will enable them to perform a business, professional or technical support function for us; (3) as necessary if we believe that there has been a violation of the FindTheRightJob Site Terms of Use or of our rights or the rights of any third party; (4) to respond to judicial process and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law; (5) to our select partners and affiliates that we believe may have offers of interest to you; and (6) as described to you at the point of collection.
 
 FindTheRightJob may share aggregate or anonymous non-personal information with third parties.
 
