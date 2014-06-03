@@ -1,6 +1,17 @@
-> *The following text is extracted and transformed from the designbyhumans.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202085633id_/http%3A//www.designbyhumans.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designbyhumans.com privacy policy that was archived on 2014-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140603165616id_/http%3A//www.designbyhumans.com/help/policies/privacy) for the most accurate reproduction.*
 
-# Privacy
+# T Shirt Help
+
+  * [Help & FAQ](http://www.designbyhumans.com/help/)
+  * [Size Chart](http://www.designbyhumans.com/help/size-chart/)
+  * [Shipping & Returns](http://www.designbyhumans.com/help/shipping-returns/)
+  * [Terms of Service](http://www.designbyhumans.com/help/policies/terms/)
+  * [Privacy Policy](http://www.designbyhumans.com/help/policies/privacy/)
+  * [Glossary](http://www.designbyhumans.com/help/glossary/)
+  * [Available Colors](http://www.designbyhumans.com/help/available-colors/)
+  * [Redeem a Gift Card](http://www.designbyhumans.com/profile)
+
+
 
 ## WEBSITE PRIVACY POLICY EFFECTIVE DATE: February 21, 2012
 
