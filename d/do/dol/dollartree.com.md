@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dollartree.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205202154id_/http%3A//www.dollartree.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dollartree.com privacy policy that was archived on 2014-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140603090332id_/http%3A//www.dollartree.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
 
 # Dollar Tree, Inc.: Privacy Policy for Dollar Tree Website
 
@@ -42,6 +42,8 @@ If you choose to do so, you can change your browser’s cookie configuration. Ch
 **Notice to California and Vermont Residents**
 
 We do not disclose personal information about you to nonaffiliated third parties unless you authorize online payment or as permitted under applicable law. No further action is required on your part. If our policy should change, we will obtain your consent before any information is shared as provided under your state laws. For California residents we will also provide you with a California Privacy Notice upon request.
+
+For California residence, [view Your California Privacy Rights](https://web.archive.org/custserv/custserv.jsp?pageName=CAPrivacyRights).
 
 **Terms of Usage**
 
