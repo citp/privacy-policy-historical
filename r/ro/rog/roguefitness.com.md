@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roguefitness.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201005222id_/http%3A//www.roguefitness.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roguefitness.com privacy policy that was archived on 2014-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140603103847id_/http%3A//www.roguefitness.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -19,7 +19,8 @@ We collect information from you in several different ways on this Site. One goal
 •    help make the Site easier for you to use by not having to enter information more than once.  
 •    help you quickly find information, products, and services.  
 •    help us create content that is most relevant to you.  
-•    alert you to new information, products, and services that we offer.
+•    alert you to new information, products, and services that we offer.  
+•    tailor ads or other communications to be most relevant to you. 
 
 (a) Registration and Ordering. Before using certain parts of any Site or ordering products, you must complete an online registration form. During registration, you will be prompted to provide to us certain personal information, including but not limited to your name, shipping and billing address(es), phone number, and email address. In addition, we may also ask you for your country of residence and/or your organization’s country of operation, so we can comply with applicable laws and regulations. These kinds of personal information are used for billing purposes, to fulfill your orders, to communicate with you about your order and the Sites, and for internal marketing purposes. If we encounter a problem when processing your order, your personal information may be used to contact you.
 
@@ -75,6 +76,50 @@ Upon your request, we will (a) correct or update your personal information; (b) 
 
 _Please do not email your credit-card number or other sensitive information to Rogue._
 
+If you would prefer to opt out of online RogueFitness.com advertising that may be targeted or tailored to your interests, you can can use the Network Advertising Initiative (NAI) Opt-Out Tool. To opt out of an NAI member’s advertising program, simply follow the steps below:
+
+  1. Go to the NAI (Network Advertising Initiative) consumer opt-out page by clicking [here.](http://www.networkadvertising.org/choices/)
+  2. Check the box that corresponds to the company from which you wish to opt out. Alternatively, you can check the box labeled “Select All” and each member’s opt-out box will be checked for you.
+  3. Next click the “Submit” button. The Tool will automatically replace the specified advertising cookie(s) and verify your opt-out status.
+
+
+
+Opting out of a network does not mean you will no longer receive online advertising. It only means that the network from which you opted out will no longer deliver ads tailored to your Web preferences and usage patterns.
+
+RogueFitness.com supports the DNT (Do Not Track) browser initiative which allows users to make choices about the information collected by their browsers. The DNT browser setting is now supported by recent versions of major browsers, including Firefox 5+, Internet Explorer 9+, Safari 5.1+, and Chrome. Implementations of DNT are evolving. Please visit your browser's help section for the most recent implementation details. 
+
+Examples of how to turn on DNT:
+
+**Firefox 5 and above:**
+
+  1. Open the  **Preferences**  menu and click  **Privacy**.
+  2. Check the box for  **Tell web sites I do not want to be tracked**.
+
+
+
+**Safari:  **
+
+ 
+
+**Internet Explorer 9 and above:**
+
+  1. Visit this [Do Not Track test page](http://ie.microsoft.com/testdrive/Browser/DoNotTrack/Default.html) for information about installing on Internet Explorer 9, and scroll to the bottom to find the link to install.
+  2. When the dialog window shown below pops up, click the  **Add List button**  to add an empty Tracking Protection List.
+  3. For more details see this [help page](http://ie.microsoft.com/testdrive/Browser/DoNotTrack/Default.html) from Microsoft.
+
+
+
+  
+
+
+**Chrome:**
+
+  1. Open Chrome and go to  **Preferences**.
+  2. Go to  **Settings**  and select  **“Show advanced settings...”**  at the bottom.
+  3. Under  **Privacy** , check the box next to  **“Send a ‘Do Not Track’ request with your browsing traffic”**  and click **“OK”**  from the pop-up.
+
+
+
 ## OFFLINE COLLECTION, USE & DISCLOSURE OF INFORMATION
 
 The majority of information that we collect is obtained through the Site, and this Privacy Policy applies only to that online collection of personal information. We also may collect information offline, where we also try to protect the privacy of your personal information. One example involves someone calling us to place an order or to ask questions. When someone calls, we will ask only for the personal information we need in order to place the order or to answer the question. When we need to store information (such as order information), we will enter it into our database through SSL encryption. (See the Data Security section above for more information). There are other ways we could learn of personal information offline, and this Policy doesn’t discuss or try to predict all of those methods or uses. As we mentioned, we will try to treat offline collection, uses, and disclosures consistently with our relevant online practices.
@@ -83,4 +128,4 @@ The majority of information that we collect is obtained through the Site, and th
 
 If we change or update this Privacy Policy, we will post changes and updates on the Site so that you will always be aware of what information we collect, use and disclose. We encourage you to review this Privacy Policy from time to time so you will know if the Privacy Policy has been changed or updated. If you have any questions about the Privacy Policy, please contact us at http://www.roguefitness.com/contact-us/.
 
-Effective January 30, 2012
+_Effective January 3, 2014_
