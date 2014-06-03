@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4life.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606122400id_/http%3A//media.4life.com/us/pdf/flyers/PrivacyPolicy04610Final.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4life.com privacy policy that was archived on 2014-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140603225041id_/http%3A//media.4life.com/us/pdf/flyers/PrivacyPolicy04610Final.pdf) for the most accurate reproduction.*
 
 # Privacy Policy
 
