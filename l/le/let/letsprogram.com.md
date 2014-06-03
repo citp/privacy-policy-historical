@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the letsprogram.com privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123132830id_/http%3A//www.letsprogram.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letsprogram.com privacy policy that was archived on 2014-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140603111017id_/http%3A//www.letsprogram.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Let's program
 
@@ -12,8 +12,6 @@ This site contains links to other sites which is not controlled or owned by us. 
 We use third-party advertising companies to serve ads when you visit this web site. These companies may collect information (not including your name, address, email address or telephone number) about your visits to this and other web sites in order to analyze the effectiveness of their ad campaigns and to provide advertisements for this web site and other web sites about goods and services that may be of interest to you. In order to monitor such statistics, a unique “cookie” is automatically generated and placed into your browser.
 
 We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>
-
-Popularity: 1%
 
   *   *   *   *   * [](http://digg.com/submit?url=http%3A%2F%2Fwww.letsprogram.com%2Fprivacy%2F&related=no)
   * [Delicious](http://delicious.com/save)
