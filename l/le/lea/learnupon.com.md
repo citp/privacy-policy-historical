@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the learnupon.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109231809id_/http%3A//www.learnupon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnupon.com privacy policy that was archived on 2014-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140604002647id_/http%3A//www.learnupon.com/privacy-policy) for the most accurate reproduction.*
 
-# Learning Management System | LMS | Training Companies | Content Developers | Associations | Affordable | Cloud based | SCORM | CPD | CEU | Certification | Testing Engine | Surveys
+# Privacy Policy | LearnUpon
 
 _This Privacy Policy was last updated on 3rd of August 2012_
 
