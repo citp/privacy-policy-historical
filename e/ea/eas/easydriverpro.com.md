@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easydriverpro.com privacy policy that was archived on 2013-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130823154319id_/http%3A//www.easydriverpro.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easydriverpro.com privacy policy that was archived on 2014-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140603165303id_/http%3A//www.easydriverpro.com/privacy.php) for the most accurate reproduction.*
 
 # Easy Driver Pro - Privacy Policy
 
