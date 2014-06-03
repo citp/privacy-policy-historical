@@ -1,0 +1,341 @@
+<!--The following is the downloaded HTML source of the nude-celebrities-network.com privacy policy that was archived on 2014-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140603232930id_/http%3A//www.lotusasiacasino.com/en-US/privacy-policy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><script src="http://api.bosurl.net/V1/Progressive.asmx/GetProgressiveGames?format=json&amp;callback=jsonp1582135296216"></script><script src="http://api.bosurl.net/V1/Progressive.asmx/GetProgressiveWinners?format=json&amp;callback=jsonp1582135296215"></script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Privacy Policy of Lotus Asia Casino Best Online Casino Gaming </title>
+<meta name="description" content="Lotus Asia Casino privacy policy for online casino games and internet gambling players.">
+
+<meta name="keywords" content="privacy policy for online casino games, online casino download, gambling players">
+<meta name="rating" content="general">
+<meta http-equiv="content-language" content="en">
+<meta name="distribution" content="global">
+<meta name="robots" content="index, follow">
+<meta name="Googlebot" content="Index,Follow">
+<meta name="YahooSeeker" content="Index,Follow">
+<meta name="msnbot" content="Index,Follow">
+<meta name="author" content="Lotus Asia Casino">
+<link href="css/style.css" rel="stylesheet" type="text/css">
+<link href="css/reveal.css" rel="stylesheet" type="text/css">
+<link rel="shortcut icon" href="images/favicon.ico">
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://code.jquery.com/jquery-1.6.min.js"></script>
+<script type="text/javascript" src="js/jquery-1.4.4.min.js"></script>
+<script type="text/javascript" src="js/jquery.reveal.js"></script>
+<script language="javascript" type="text/javascript">
+function RetrieveTrackingGuid()
+{var nameEQ="LotusAsia_Tracker=";var ca=document.cookie.split(';');for(var i=0;i<ca.length;i++){var c=ca[i];while(c.charAt(0)==' ')c=c.substring(1,c.length);if(c.indexOf(nameEQ)==0)return c.substring(nameEQ.length,c.length);}}
+
+function WebClientRedirect(){var trackingGuid=RetrieveTrackingGuid();window.location='https://LotusAsiaCasino-webclient.bosurl.net/?tg='+trackingGuid;}</script>
+<!--Start-popup-->
+<script language="javascript" type="text/javascript">
+function RetrieveTrackingGuid()
+{var nameEQ="LotusAsia_Tracker=";var ca=document.cookie.split(';');for(var i=0;i<ca.length;i++){var c=ca[i];while(c.charAt(0)==' ')c=c.substring(1,c.length);if(c.indexOf(nameEQ)==0)return c.substring(nameEQ.length,c.length);}}
+
+function WebClientRedirect(){var trackingGuid=RetrieveTrackingGuid();window.location='https://LotusAsiaCasino-webclient.bosurl.net/?tg='+trackingGuid;}</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-45816964-1', 'lotusasiacasino.com');
+  ga('send', 'pageview');
+
+</script>
+<!--End-Start-popup-->
+<script type="text/javascript">
+
+    /* Update winners */
+    var WINNERS_INTERVAL_SEC = 60;
+    var WINNERSUPDATE_INTERVAL_SEC = 10;
+    
+    var winners;
+    var currentWinner = 0;
+    var winnerFetchInterval = setInterval(fetchWinners, WINNERS_INTERVAL_SEC * 1000);
+    var winnerUpdateInterval = setInterval(updateWinner, WINNERSUPDATE_INTERVAL_SEC * 1000);
+    //var amt;
+	var data;
+    fetchWinners();
+
+    function fetchWinners() {
+        currentWinner = 0;
+
+        $.ajax({
+            url: "http://api.bosurl.net/V1/Progressive.asmx/GetProgressiveWinners?format=json",
+            dataType: 'jsonp',
+            data: {},
+            success: function (data) {
+                winners = data.d.Winners;            
+            }
+        });
+    }        
+        
+    function updateWinner() 
+    {
+        if (winners != null && winners.length > 0)
+        {
+            var winner = winners[currentWinner++];
+        
+            if (winners.length == currentWinner) 
+			{
+                currentWinner = 0;
+            }
+			
+			
+			if (window.XMLHttpRequest)
+			{// code for IE7+, Firefox, Chrome, Opera, Safari
+			  xmlhttp=new XMLHttpRequest();
+			}
+			else
+			{// code for IE6, IE5
+			  xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+			}
+			xmlhttp.onreadystatechange=function()
+			{
+				if (xmlhttp.readyState==4 && xmlhttp.status==200)
+				{				
+					data = xmlhttp.responseText;					
+				}
+			}
+			xmlhttp.open("GET","getwinner.aspx?winnerName="+winner.WinnerName+"&winnerCurrency="+winner.Currency+"&amount="+ addCommas(winner.JackpotWinAmount)+"&gamedisplayname="+winner.GameDisplayName,true);
+			xmlhttp.send();			
+        }
+    }
+
+    /* Update progressive jackpot */
+    var PROGRESSIVE_INTERVAL_SEC = 30;
+    var PROGRESSIVEUPDATE_INTERVAL_SEC = 0.5;
+
+    var progressiveSummary;
+    var progressiveFetchInterval = setInterval(fetchProgressives, PROGRESSIVE_INTERVAL_SEC * (1000 * PROGRESSIVEUPDATE_INTERVAL_SEC));
+    var progressiveUpdateInterval;
+    
+    fetchProgressives();   
+
+    function fetchProgressives() {
+        $.ajax({
+            url: "http://api.bosurl.net/V1/Progressive.asmx/GetProgressiveGames?format=json",
+            dataType: 'jsonp',
+            data: {},
+            success: function (data) {                
+                consolidateProgressives(data.d.Games);
+            }
+        });
+    }
+
+    function consolidateProgressives(games) {
+        if (progressiveUpdateInterval != null) {
+            clearInterval(progressiveUpdateInterval);
+        }
+
+        progressiveSummary = new Object({
+            startValue: 0,
+            currentValue: 0,
+            endValue: 0,
+            incrementPerUpdate: 0
+        });
+        
+        $.each(games, function (index, value) {
+            var interval = PROGRESSIVE_INTERVAL_SEC / value.IncrementInterval;
+            var incrementPerInterval = interval * (value.IncrementValue / PROGRESSIVE_INTERVAL_SEC);
+
+            progressiveSummary.endValue += value.CurrentJackpotValue;
+            progressiveSummary.incrementPerUpdate += incrementPerInterval;
+        });
+
+        progressiveSummary.startValue = progressiveSummary.endValue - (PROGRESSIVE_INTERVAL_SEC * progressiveSummary.incrementPerUpdate);
+        progressiveSummary.currentValue = progressiveSummary.startValue;        
+        progressiveUpdateInterval = setInterval(updateProgressiveSummary, (1000 * PROGRESSIVEUPDATE_INTERVAL_SEC));
+    }
+    function addCommas(nStr)
+    {
+	    nStr += '';
+	    x = nStr.split('.');
+	    x1 = x[0];
+	    x2 = x.length > 1 ? '.' + x[1] : '';
+	    var rgx = /(\d+)(\d{3})/;
+	    while (rgx.test(x1)) 
+	    {
+		x1 = x1.replace(rgx, '$1' + ',' + '$2');
+	    }
+	    return x1 + x2;
+    }
+    function updateProgressiveSummary() 
+	{
+        // Update the figure on screen, or hold it as it is if we've somehow hit the maximum for this refresh...
+        if (progressiveSummary.currentValue <= progressiveSummary.endValue) 
+		{
+            progressiveSummary.currentValue += progressiveSummary.incrementPerUpdate;						
+            $("div.winners_col1").html("$" + addCommas((parseFloat(progressiveSummary.currentValue.toString())).toFixed(2)));
+        }      
+    }
+    </script>
+</head>
+<body>
+<!--Wrapper-->
+<div class="wrapper">
+  <div class="wpr-inner"> 
+    <!--header-->
+    <div class="hdr">
+      <div class="logo"> <a href="index.html"> <img src="images/logo.png" alt=""> </a> </div>
+      
+      <!--Subscribe-->
+      <div class="subscribe">
+        <form action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=LotusPlayersClub',
+'popupwindow', 'scrollbars=yes');return true">
+          <input type="text" class="sub-field" placeholder=" &nbsp;ENTER YOUR EMAIL ID HERE..." size="" name="email">
+          <input type="hidden" value="LotusPlayersClub" name="uri">
+          <input type="hidden" name="loc" value="en_US">
+          <input type="submit" class="sub-img" value="">
+        </form>
+      </div>
+      <!--End-Subscribe-->
+      <div class="live-chat"> <a class="small_menulinks_white" onclick="window.open('https://lotusasiacasino-webapps.bosurl.net/Public/Chat.aspx?Context=Main+Website&amp;SkillGroup=Support@lotusasiacasino.com','LiveChat','width=400,height=400,toolbar=no,location=no,directories=no,statu s=no,menubar=no,scrollbars=yes,copyhistory=no,resizable=yes')" href="#"> <img src="images/live-chat/reponline.png" alt="live-chat"> </a> </div>
+      <div class="nav">
+        <ul>
+          <li><a href="welcome-bonus.html">Welcome Bonus</a> <span><img src="images/nav-line.png" alt=""></span> </li>
+          <li><a href="getting-started.html">Getting Started </a> <span><img src="images/nav-line.png" alt=""></span></li>
+          <li><a href="promotions.html">Hot Promos</a> <span><img src="images/nav-line.png" alt=""></span></li>
+          <li><a href="games.html">Games </a> <span><img src="images/nav-line.png" alt=""></span></li>
+          <li><a href="contact-us.html">Contact us </a> </li>
+        </ul>
+      </div>
+    </div>
+    <!--End-header--> 
+    <div class="clear"></div>
+    <!--START-mdl-part-inner-->
+    <div class="mdl-part-inner"> 
+      <!--SIDEBAR-->
+      <div class="sidebar">
+        <div class="fast"> <a href="http://www.lotusasiacasino.com/download.ashx"> <img src="images/download-banner.png" alt=""></a> </div>
+        <div class="second">
+          <h1>Progressive Jackpot</h1>
+         <div style="margin:-10px 0 0 10px; padding:0px; float:left; width:290px;"><br>
+        <div class="jackpot" style="margin:-9px 0 0 70px; padding:0px; float:right; width:300px;">
+          <div class="winners_col1" id="getcurrency" valign="top" style="margin:30px 65px 0 0px; padding:0px; font-size:29px; float: right; padding-left:2px; color:#FFF;"> </div>
+        </div>
+      </div>
+        </div>
+        <div class="third"> <h1>Recent Winners</h1>
+           <iframe name="inlineframe" src="winner.html" frameborder="0" scrolling="auto" width="290" height="120" marginwidth="5" marginheight="5"></iframe>
+        </div>
+        <div class="need-help"> <a href="contact-us.html"><img src="images/need-help.jpg" alt=""></a> </div>
+      </div>
+      <!--END-SIDEBAR-->
+      <div class="about-us">
+        <div class="contact-r"> <img src="images/privacy-policy.png" alt=""> </div>
+        <p>Lotus Asia Casino is committed to protect your personal information. We have created this Privacy Policy to let you know what information we collect when you use our services at our online sites. We are dedicated to safeguard and protect the privacy of the Players.</p>
+        <h1>PRIVACY &amp; SECURITY</h1>
+        <p>Privacy is fundamental to every being and at Lotus Asia Casino we respect your privacy and security to the utmost. It is our deepest Endeavour to ensure that your privacy is preserved at all times unless we are driven by law to reveal any wrongdoing. We are sticklers for truth and honesty and have no patience for criminals and cheats. Upholding your privacy is our duty and we ensure you are protected at all times.</p>
+        <h1>IMPORTANCE OF COLLECTING INFORMATION</h1>
+        <p>For the purpose of business, we gather essential information such as your name, residential address, contact number, email id, debit/credit card data, date of birth, other vital information and all this is collected at the time of registration. We also save your voice sample but do not hold it in our records as we want no discrepancy creeping in at any time. This information is important so as to notify you as regards the launch of new products, services or software. Being updated with the latest is crucial else you will not be able to keep pace with other players on board. We offer gambling services to you once all data is completed. This information also helps us to respond to your queries and requests. Offering member support is vital and we are able to execute the same only if we have complete knowledge about your personal facts.</p>
+        <h1>DISCLOSURE</h1>
+        <p>Your information may be disclosed to other companies and employees associated with Lotus Asia Casino. Auditors, contractors and advisors of the company may also be privy to your personal information. Investors in the company and purchasers may require your information. Keep in mind that we have rules, security policies as well as practical measures to safeguard your information and our personnel as well as data processors that have access to this information, are obliged to respect the same.</p>
+        <p>This personal information is collected by us at the time you register and commence using our gambling services. At Lotus Asia Casino we believe that it’s urgent to make inquiries concerning members so that we are able to sustain a clean record. We begin collecting information when you respond to our emails and/or generally begin communications with us. All your documentation and information is safe with us and you will receive emails from our registered domain LotusAsiaCasino.com e.g. </p>
+        <p><a href="#">support@lotusasiacasino.com.</a> Please feel free to unsubscribe in case you are not interested in receiving any emails from us.</p>
+        
+        <p>We are grateful that you have chosen to game here. In case you need help, contact <a href="#">support@lotusasiacasino.com,</a> call us via phone, online live help or visit our <a href="about-us.html">About Us.</a> We thank you for choosing and placing your trust in Lotus Asia Casino.</p>
+        
+        
+        
+        
+      </div>
+      
+    </div>
+    <!--mdl-part-inner-->
+    <div class="icon-all"> <img src="images/icon-all.jpg" alt=""> </div>
+    <!--FOOTER-->
+    <div id="footer">
+      <div class="footer">
+        <div class="menu">
+          <h2>Main Menu</h2>
+          <ul>
+            <li><a href="index.html" title="Home">Home</a></li>
+            <li><a href="about-us.html" title="About Us">About Us</a></li>
+            <li><a href="tournaments.html" title="Tournaments"> Tournaments</a></li>
+            <li><a href="banking.html" title="Banking">Banking</a></li>
+            <li><a href="http://www.lotusplayersclub.com/" target="_blank" title="Lotus Player Club">Lotus Player Club</a></li>
+            <li><a href="terms-conditions.html" title="Terms and Conditions">Terms and Conditions</a></li>
+            <li><a href="privacy-policy.html" title="Privacy Policy">Privacy Policy</a></li>
+            <li style="background:none;"><a href="http://www.lotusaffiliates.com/" title="Affiliates" target="_blank">Lotus Affiliates </a></li>
+          </ul>
+        </div>
+        <div class="menu">          <h2>Most Played Games</h2>
+          <ul>
+            <li><a href="#" class="big-link" data-reveal-id="myModal">Rise of Spartans</a></li>
+            <li><a href="#" class="big-link" data-reveal-id="myModal1">Small Soldiers</a></li>
+            <li><a href="#" class="big-link" data-reveal-id="myModal2">Tails of New York</a></li>
+            <li><a href="#" class="big-link" data-reveal-id="myModal3">Moltan Moolah</a></li>
+            <li><a href="#" class="big-link" data-reveal-id="myModal4">Max Cash</a></li>
+            <li><a href="#" class="big-link" data-reveal-id="myModal5">Dollars Down Under</a></li>
+            <li><a href="#" class="big-link" data-reveal-id="myModal6">Arcadia i3D </a></li>
+            <li style="background:none;"><a href="#" class="big-link" data-reveal-id="myModal7">The Last Pharaoh</a></li>
+          </ul>
+        </div>
+        <div id="myModal5" class="reveal-modal">
+        <a href="javascript:WebClientRedirect();"><img src="images/dollar-down-under.jpg"></a>
+        <a class="close-reveal-modal">×</a>
+        </div>
+          <div id="myModal4" class="reveal-modal">
+        <a href="javascript:WebClientRedirect();"><img src="images/max-cash.jpg"></a>
+        <a class="close-reveal-modal">×</a>
+        </div>
+            <div id="myModal" class="reveal-modal">
+        <a href="javascript:WebClientRedirect();"><img src="images/rise-of-spartans.jpg"></a>
+        <a class="close-reveal-modal">×</a>
+        </div>
+            <div id="myModal1" class="reveal-modal">
+        <a href="javascript:WebClientRedirect();"><img src="images/small-soldiers.jpg"></a>
+        <a class="close-reveal-modal">×</a>
+        </div>
+            <div id="myModal2" class="reveal-modal">
+        <a href="javascript:WebClientRedirect();"><img src="images/ny-tails.jpg"></a>
+        <a class="close-reveal-modal">×</a>
+        </div>
+            <div id="myModal3" class="reveal-modal">
+        <a href="javascript:WebClientRedirect();"><img src="images/moltan-moolah.jpg"></a>
+        <a class="close-reveal-modal">×</a>
+        </div>
+            <div id="myModal6" class="reveal-modal">
+        <a href="javascript:WebClientRedirect();"><img src="images/arcadia-i3d.jpg"></a>
+        <a class="close-reveal-modal">×</a>
+        </div>
+            <div id="myModal7" class="reveal-modal">
+        <a href="javascript:WebClientRedirect();"><img src="images/the-last-pharaoh.jpg"></a>
+        <a class="close-reveal-modal">×</a>
+        </div>
+        <div class="menu">
+          <h2>Quick Links</h2>
+          <ul>
+            <li><a href="getting-started.html" title="How to Get Started?">How to Get Started?</a></li>
+            <li><a href="http://www.lotusplayersclub.com/current-month-promotions" target="_blank" title="Current Month Promotions">Current Month Promotions </a></li>
+            <li><a href="http://www.lotusasiacasino.com/download.ashx" title="Download Mac Casino">Download Mac Casino</a></li>
+            <li><a href="http://www.lotusasiacasino.com/download.ashx" title="Download Windows Casino">Download Windows Casino</a></li>
+            <li><a href="javascript:WebClientRedirect();" title="Instant Play Online Casino">Instant Play Online Casino</a></li>
+            <li><a href="javascript:MobileWebClientRedirect();" title="Mobile Online Casino">Mobile Online Casino</a></li>
+            <li><a href="http://www.lotusplayersclub.com/blog" target="_blank" title="Subscribe to Lotus Blog">Subscribe to Lotus Blog</a></li>
+            <li style="background:none;"><a href="http://www.lotusplayersclub.com/" target="_blank" title="Powered by LOTUS">Powered by <img src="images/lotus-logo.png" width="56" height="14" alt=""> </a></li>
+          </ul>
+        </div>
+        <div class="follow">
+          <h2>Follow us on</h2>
+          <ul>
+        <li><a href="http://www.facebook.com/LotusAsiaCasino" target="_blank"><span class="follow-img"><img src="images/fb.png" alt="Facebook " border="0"></span> <span class="text" title="FaceBook">Facebook</span></a></li>
+        <li><a href="http://twitter.com/#!/LotusAsiaCasino" target="_blank"><span class="follow-img"><img src="images/tw.png" alt="Twitter" border="0"></span> <span class="text" title="Twitter">Twitter</span></a></li>
+        <li><a href="https://plus.google.com/110582204887989419138/posts" target="_blank"><span class="follow-img"><img src="images/google-a.png" alt="Google +" border="0"></span> <span class="text" title="Google +">Google +</span></a></li>
+        <li class="c3" style="background:none;"><a href="http://www.youtube.com/LotusAsiaCasino" target="_blank"><span class="follow-img"><img src="images/Youtube.png" alt="youtube" border="0"></span> <span class="text" title="youtube">Youtube</span></a></li>
+      </ul>
+        </div>
+        <!--footer-->
+        
+        <div class="clear"></div>
+        <div class="powered-lotus"> <a href="http://www.lotusplayersclub.com/" target="_blank"><img src="images/powered-by-lotus.png" alt=""></a> </div>
+        <div class="all-right"> All rights reserved © 2014 by Lotus Asia Casino </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!--End-Wrapper-->
+
+
+</body></html>
