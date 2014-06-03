@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carmotogames.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227114702id_/http%3A//www.carmotogames.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carmotogames.com privacy policy that was archived on 2014-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140603101516id_/http%3A//www.carmotogames.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
