@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peoplebyname.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215174116id_/http%3A//www.peoplebyname.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peoplebyname.com privacy policy that was archived on 2014-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140603113526id_/http%3A//www.peoplebyname.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -15,7 +15,12 @@ d) Certain features of Peoplebyname.com permit You to edit Your personal informa
 3\. **Use and Sharing of Personal Information**  
 Peoplebyname.com may use Personal Information You provide to PeopleByName.com to create and maintain Your account, to personalize Your experience, and to send periodic email communications relating to our services, such as purchase receipts, account confirmations, and customer service correspondence. PeopleByName may provide your email address to a third party service solely for the purpose of delivering email communications and preventing fraudulent transactions. PeopleByName.com does not sell, exchange, transfer, or give this type of Personal Information to any other company without Your consent.
 
+4\. **Removing your Personal Information from PeopleByName.com**  
+You may remove your information from the PeopleByName People Directory by visiting the removal page at <http://www.peoplebyname.com/remove.php>.
+
+To Remove your phone number from the PeopleByName reverse phone lookup service visit <http://www.peoplebyname.com/remove_number.php>
+
 5\. **Contacting PeopleByName.com**  
 If You have any questions regarding this Privacy Policy, please contact us by email at support [at] peoplebyname.com
 
-Effective Date: February 1, 2013 
+Effective Date: February 10, 2014 
