@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chinesemenu.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109053345id_/http%3A//www.chinesemenu.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinesemenu.com privacy policy that was archived on 2014-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140603173920id_/http%3A//www.chinesemenu.com/privacypolicy.html) for the most accurate reproduction.*
 
 # About us - ChineseMenu
 
