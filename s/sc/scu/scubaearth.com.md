@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scubaearth.com privacy policy that was archived on 2013-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130921084524id_/https%3A//www.scubaearth.com/about-scubaearth.aspx%3Fpagetype%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scubaearth.com privacy policy that was archived on 2014-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140604112638id_/https%3A//www.scubaearth.com/about-scubaearth.aspx%3Fpagetype%3Dprivacy) for the most accurate reproduction.*
 
 # Research, plan and share your scuba diving experiences in ScubaEarth
 
@@ -38,11 +38,13 @@ Registered ScubaEarth users will have the ability to designate much of their inf
 
 ##### What about third party links on ScubaEarth?
 
-ScubaEarth provides links to other sites as a service to visitors. ScubaEarth is not responsible for the privacy practices, security measures or data collection practices of other web sites, or for their content. The choice to access these sites is at the visitor’s own risk.
+ScubaEarth provides links to other sites as a service to visitors. ScubaEarth is not responsible for the privacy practices, security measures or data collection practices of other web sites, or for their content. The choice to access these sites is at the visitor’s own risk.  
+  
 
 ##### What does ScubaEarth use to track information from visitors?
 
-ScubaEarth uses various standard web measuring tools, such as Omniture and Google Analytics, to trace ScubaEarth’s visitor movements through the site.
+ScubaEarth uses various standard web measuring tools, such as Omniture and Google Analytics, to trace ScubaEarth’s visitor movements through the site.  
+  
 
 ##### Special Considerations Regarding Children under 13 Years of Age
 
@@ -55,9 +57,47 @@ ScubaEarth is compliant with the Children’s Online Privacy Protection Act of 1
 ScubaEarth does not share individual visitor information with advertisers. After an ad runs, ScubaEarth may provide advertisers with reports on how their ads performed; for example, reports telling advertisers how many users saw or clicked on their ads. Some advertisers may place cookies on a visitor’s computer.  
   
 
-  **Cookies**  
- A cookie is a small amount of data that is transferred to your browser by a Web server and can only be read by the server that gave it to you. It functions as your identification card, recording your passwords, purchases, and preferences. It cannot be executed as code or deliver viruses. Most browsers are initially set to accept cookies. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. (For some Web pages that require an authorization, cookies are not optional. Users choosing not to accept cookies will probably not be able to access those pages, and may be precluded from ordering or from maintaining an account on this Site.)   
+##### **Cookies**
 
+##### **Do PADI Companies use cookies?**
+
+****PADI Companies use cookies and similar technologies like pixels and tags to ensure that visitors have the best possible experience on padi.com. A cookie is a small amount of data that is transferred to your browser by a web server and can only be read by the server that gave it to you. It functions as your identification card, recording your passwords, purchases, and preferences. It can’t be executed as code or deliver viruses.
+
+Most browsers are initially set to accept cookies. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. (For some web pages that require an authorization, cookies are not optional. Users choosing not to accept cookies will probably not be able to access those pages, and may be precluded from ordering or from maintaining an account on the site.) If you use padi.com without changing your browser settings, we'll assume that you’re happy to receive all cookies on the padi.com website.
+
+Trusted partners like DoubleClick help us serve advertising on and off the padi.com site. Analytics companies like Google Analytics and Silverpop may also place cookies on your machine. Please read their privacy policies to ensure that you’re comfortable with the manner in which they use cookies. 
+
+[Silverpop](http://www.silverpop.com/About/Trust--Privacy/Privacy-Policy-Legal/Privacy-Policy/ "Silverpop")  
+[Google Analytics and DoubleClick](http://www.google.com/intl/en/policies/privacy/ "Google Analytics and DoubleClick")   
+[Gigya](http://www.gigya.com/privacy-policy/ "Gigya")
+
+##### **What types of cookies do PADI Companies use?**
+
+****PADI Companies use two types of cookies – persistent and session. A persistent cookie is set once you’ve logged in to your PADI account. The next time you visit the padi.com website using the same device, the persistent cookie recognizes you as an existing user, so you may not need to log in before using the services of your PADI account.
+
+A session cookie is used to identify a particular visit to the padi.com website. Session cookies expire after a short time, or when you close your web browser.
+
+##### **When do PADI Companies put cookies on your device?**
+
+****Cookies may be set by PADI Companies when you visit padi.com, or they may be set by other websites or services who run content on the page you’re viewing (known as third-party cookies).
+
+#####  **What are cookies used for on padi.com?**
+
+ **** Cookies can be used to do lots of different things, like recognizing you when you navigate to padi.com, storing your preferences and improving your experience. Cookies also make your interactions with PADI Companies more secure, faster, and help ensure that your experience is personalized to you and in line with your settings. Additionally, cookies allow PADI Companies to bring you advertising both on and off padi.com, and bring customized features to you through PADI plugins such as our share button.
+
+PADI companies use cookies for a number of purposes, including:
+
+**\- Authentication** – ScubaEarth uses cookies to recognize you if you are logged in to ScubaEarth, so that we can show you the right information and personalize your experience.   
+ **\- Security** – PADI Companies use cookies to support or enable security features and to help detect malicious activity and violations of our User Agreement.   
+ **\- Preferences, Features and Services** – PADI Companies use cookies to know which language you prefer, what your communications preferences are, and they help you fill out forms on padi.com. Plus they provide you with features, insights, and customized content through our plugins.   
+ **\- Advertising** – PADI Companies may use cookies to show you relevant advertising both on and off the padi.com site. We may also use a cookie to learn whether visitors who saw an ad on padi.com later visited the advertiser’s site. Similarly, our partners may use a cookie to determine whether we’ve shown an ad and how it performed, or provide us with information about how you interact with them. We may also work with a partner to show you an ad on or off padi.com, such as after you’ve visited a partner’s site or application. Cookies and ad technology such as web beacons, pixels, and anonymous ad network tags help PADI Companies more effectively serve ads to you, as well as to collect aggregated auditing, research, and reporting for advertisers.  
+Note: Because your web browser may request advertisements and web beacons directly from ad network servers, these networks can view, edit, or set their own cookies, just as if you had requested a web page from their site.    
+ **\- Performance, Analytics and Research** – padi.com uses cookies to help us learn how well our site and plugins perform across the globe. We also use cookies to understand, improve, and research products, features, and services, including when you access padi.com from other websites, applications, or devices such as your work computer or your mobile device. 
+
+
+
+
+Most browsers allow you to control cookies through their settings preferences. Limiting the ability of websites to set cookies, however, may worsen your overall user experience.
 
 ##### Disclosure by Law or for Safety
 
