@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the queerty.com privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118070936id_/http%3A//www.queerty.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the queerty.com privacy policy that was archived on 2014-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140604101646id_/http%3A//www.queerty.com/privacy-policy) for the most accurate reproduction.*
 
 # Queerty Privacy Policy / Queerty
 
