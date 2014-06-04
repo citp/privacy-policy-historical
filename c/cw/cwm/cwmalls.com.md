@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cwmalls.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220105412id_/http%3A//www.cwmalls.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cwmalls.com privacy policy that was archived on 2014-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140604044706id_/http%3A//www.cwmalls.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Cwmalls-Privacy Policy
 
@@ -49,3 +49,9 @@ Note: If at any time you would like to unsubscribe from receiving future emails,
 • To administer a contest, promotion, survey or other site feature  
 Choice and Opt-Out   
 If you no longer wish to receive the Company's promotional communications, you may "opt-out" of receiving them by following the instructions included in each communication or by e-mailing the Company at [cwmalls@cwmalls.com](mailto:cwmalls@yahoo.com)
+
+ **Note: If you have any question, please contact us in time( **[service@cwmalls.com](mailto:service@cwmalls.com)** , +86 13957165063), we will solve all your issues the first time! Thanks for your trust and attention!**
+
+ **Cwmalls will be more wonderful with you!**
+
+ ** **[WWW.CWMALLS.COM](http://www.cwmalls.com/ "Global online mall for leather jacket,fur coat,shoes,bag,etc.")****
