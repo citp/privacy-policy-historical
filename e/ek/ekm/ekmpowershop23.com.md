@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ekmpowershop23.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229165504id_/http%3A//www.ekmpowershop.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ekmpowershop23.com privacy policy that was archived on 2014-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140604033240id_/http%3A//www.ekmpowershop.com/privacy.asp) for the most accurate reproduction.*
 
 # Ekm Systems Privacy Policy
 
