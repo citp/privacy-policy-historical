@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eab.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209215356id_/http%3A//www.eab.com/Privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eab.com privacy policy that was archived on 2014-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140604124431id_/http%3A//www.eab.com/privacy-policy) for the most accurate reproduction.*
 
 # Education Advisory Board - Privacy Policy
 
@@ -191,7 +191,7 @@ All individuals having questions or complaints concerning the Advisory Board´s 
 **2\. What types of independent dispute resolution mechanisms are available?**  
 Some jurisdictions have established data protection authorities overseeing the processing of Private Information that are willing to assist in the resolution of complaints. The Advisory Board is committed to working with these authorities to resolve any complaint and to complying with their decisions in such cases.
 
-Alternatively, in jurisdictions where there is no data protection authority available to provide dispute resolution, we identified and will utilize an independent alternative dispute resolution mechanism administered by the CPR Institute for Dispute Resolution ([www.cpradr.org](http://www.cpradr.org/)).
+Alternatively, in jurisdictions where there is no data protection authority available to provide dispute resolution, we identified and will utilize an independent alternative dispute resolution mechanism administered by the American Arbitration Association ([www.adr.org](http://www.adr.org/)).
 
 The Advisory Board Compliance Officer will be able to provide additional information about the use of independent dispute resolution mechanisms.
 
