@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the americaneagle.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201231113id_/http%3A//www.americaneagle.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americaneagle.com privacy policy that was archived on 2014-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140604225818id_/http%3A//www.americaneagle.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Americaneagle.com
 
-#### Effective Date: 1/21/2013
+#### Effective Date: 6/2/2014
 
-This privacy statement describes how Americaneagle.com collects and uses the personal information you provide on our Web site: www.americaneagle.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
-
-[](https://privacy.truste.com/privacy-seal/Americaneagle-com/validation?rid=310e73f8-b0d4-468a-ad9b-dbcb39f0d839 "TRUSTe online privacy certification")
-
-Americaneagle.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [info@americaneagle.com](mailto:info@americaneagle.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). The TRUSTe program covers only information that is collected through this Web site.
+This privacy statement describes how Americaneagle.com collects and uses the personal information you provide on our Web site: www.americaneagle.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. If you have questions or complaints regarding our privacy policy or practices, please contact us at [info@americaneagle.com](mailto:info@americaneagle.com).
 
 #### Information We Collect
 
@@ -76,8 +72,8 @@ As is true of most Web sites, we use third-party tracking services to gather cer
 
 We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole.
 
-Website Analytics  
-This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as any text you type in this website. ClickTale does not collect personally identifiable information (PII) that you do not voluntarily enter in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see Privacy Policy for Information Collected by the ClickTale Web Analytics Service. We are using the information collected by ClickTale service to improve our website, make it more user-friendly and monitor that it is performing correctly. You can choose to disable the Service at <http://www.clicktale.net/disable.html>.
+Google Analytics  
+This Web site uses a tool called "Google Analytics" to collect information about use of the site. Google Analytics collects information such as how often users visit this site, what pages they visit when they do so, and what other sites they used prior to coming to this site. We use the information we get from Google Analytics only to improve this site. Google Analytics collects only the IP address assigned to you on the date you visit this site, rather than your name or other identifying information. We do not combine the information collected through the use of Google Analytics with personally identifiable information. Although Google Analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit this site, the cookie cannot be used by anyone but Google. Google's ability to use and share information collected by Google Analytics about your visits to this site is restricted by the [Google Analytics Terms of Use](http://www.google.com/analytics/tos.html) and the [Google Privacy Policy](http://www.google.com/policies/privacy/). You can prevent Google Analytics from recognizing you on return visits to this site by disabling cookies on your browser.
 
 #### Links To Other Sites
 
