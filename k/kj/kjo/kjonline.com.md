@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kjonline.com privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014002250id_/http%3A//www.pressherald.com/home/privacy_policy_mt.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kjonline.com privacy policy that was archived on 2014-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140604213716id_/http%3A//www.pressherald.com/home/privacy_policy_mt.html) for the most accurate reproduction.*
 
 # Privacy Policy | The Portland Press Herald / Maine Sunday Telegram
 
