@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gocurrency.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226043816id_/http%3A//www.gocurrency.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gocurrency.com privacy policy that was archived on 2014-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140604114135id_/http%3A//www.gocurrency.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GoCurrency.com
 
