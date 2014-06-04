@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pepsicojobs.com privacy policy that was archived on 2013-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131007112016id_/http%3A//www.pepsicojobs.com/Legal/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pepsicojobs.com privacy policy that was archived on 2014-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140604031803id_/http%3A//www.pepsico.com/Legal/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | PepsiCo.com
 
@@ -20,7 +20,7 @@ This policy covers www.PepsiCo.com (PepsiCo's corporate web site). Some of our s
 
 Personal Information - You may choose to provide personal information (such as your name, address, telephone number and email address) on this web site. Here are some of the ways you may provide the information and the types of information you may submit. We also tell you how we may use the information.
 
-  * **Contact Us** \- If you email us through the “Contact Us” link on this site, we ask you for information such as your name and email address so we can respond to your questions and comments. You may choose to provide additional information as well.
+  * **Contact Us** \- If you email us through the "Contact Us" link on this site, we ask you for information such as your name and email address so we can respond to your questions and comments. You may choose to provide additional information as well.
 
   * **Investor Relations Alerts** \- If you would like to receive company financial news from PepsiCo's Investor Relations team, we ask for your name and email address so we can send you the news alerts.
 
@@ -36,10 +36,6 @@ Personal Information - You may choose to provide personal information (such as y
 ##### Internet Protocol Address
 
 We collect an Internet Protocol address from all visitors to our site. We use your IP address to help us administer our site. Your IP address is also used to help identify you when you visit our site.
-
-##### Additional Policies for “Careers” Section of Site
-
-If you submit personal information on the “Careers” or “Job Opportunities” sections of this site, the use and protection of such information is governed by the Jobs2Web Privacy Policy posted on that particular web page. Visit [http://www.jobs2web.com/privacy-policy](http://www.jobs2web.com/privacy-policy/) for more information.
 
 ##### Your Choices
 
