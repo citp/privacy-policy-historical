@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the womenontheirway.com privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118183307id_/http%3A//www.womenontheirway.com/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womenontheirway.com privacy policy that was archived on 2014-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140604093704id_/http%3A//www.womenontheirway.com/privacy-and-security) for the most accurate reproduction.*
 
 # WOMEN ON THEIR WAY | Privacy & Security
 
