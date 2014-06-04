@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the maxbupa.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121113438id_/http%3A//www.maxbupa.com/customer-care/health-services/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxbupa.com privacy policy that was archived on 2014-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140604034401id_/http%3A//www.maxbupa.com/customer-care/health-services/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# 
+# We are Keen in Maintaining our Privacy Policy!
 
 ## Max Bupa is committed to protecting your privacy and information of confidential nature which may become known to it while you visit and/or use this website.
 
