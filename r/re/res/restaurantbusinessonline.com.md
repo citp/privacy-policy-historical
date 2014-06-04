@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the restaurantbusinessonline.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204121513id_/http%3A//www.restaurantbusinessonline.com/general/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the restaurantbusinessonline.com privacy policy that was archived on 2014-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140604062625id_/http%3A//www.restaurantbusinessonline.com/general/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Restaurant Business
 
-## **Your Privacy Rights**
+## Your Privacy Rights
 
- **Last Revised: October 1, 2013**
+Last Revised: October 1, 2013
 
-####  **Introduction**
+#### Introduction
 
 Thank you for being a valuable member of Restaurant Business’online audience. You are important to us, and we respect your privacy. As used herein, "You" and "Your" refers to any individual, company, webcrawler, data aggregator or legal entity that accesses or otherwise uses the Site.
 
@@ -16,11 +16,11 @@ This Site and our other online products contain hyperlinks to other websites th
 
 BY VISITING THE SITE, YOU CONSENT TO OUR USING ANY INFORMATION THAT YOU PROVIDE OR THAT WE COLLECT, IN ACCORDANCE WITH THIS PRIVACY POLICY, THE PHOTO SUBMISSION GUIDELINES AND THE TERMS OF USE.
 
-####  **Modification**
+#### Modification
 
 We may modify this Privacy Policy at any time.  Such changes may be based on changes to the Site, in response to changes in law or for any other reason.  The amended terms shall be effective immediately upon posting on the Site. Your continued use of the Site constitutes Your assent to the current version of the Privacy Policy and Your agreement to be bound thereby. We may, but are under no obligation to, provide You notice of such modifications to our Privacy Policy via email or other communication.  You can tell whether the Privacy Policy has been updated by checking the “last revised” date posted on the top of this page. 
 
-####  **Personally Identifiable Information**
+#### Personally Identifiable Information
 
 You may provide us with personally identifiable information ("Personal Information") when you use this Site or related websites by explicitly providing this information to us (e.g., through filling out registration forms or similar means).
 
@@ -28,7 +28,7 @@ Personal Information includes any information by which you can be personally ide
 
 We collect credit card and related information for e-commerce transactions.
 
-####  **Automatic Data Collection through Cookies and Other Means**
+#### Automatic Data Collection through Cookies and Other Means
 
 We may record information about your computer and/or track your activity while you are using our Site or our other online products (“Usage Data”). For example, we may record how many times you click on a hyperlink, determine whether you visited our Site from a particular Internet link or advertisement, or track your path through the Site. This automatic data collection may include but may not be limited to information collected by cookies, IP addresses, and transparent GIFs. We use this Usage Data to report aggregated website activity and to better understand the needs of our users so we can make informed decisions regarding the content and design of the site. We may also use this Usage Data to personalize your experience on our Site. If you provide us with Personal Information, we may combine and use your Usage Data with your Personal Information.
 
@@ -80,19 +80,19 @@ Opt-out requests will be effective after a reasonable period of processing time.
 
 Your use of our online products and the Site constitutes your acceptance of the terms and conditions in this Privacy Policy as modified from time to time, including our collection and use of Personal Information and Usage Data. If you are using the Site on behalf of your employer, it means you are authorized to accept these terms on your employer's behalf.
 
-####  **Your California Privacy Rights**
+#### Your California Privacy Rights
 
 For purposes of California residents, this Privacy Policy pertains to all information collected online, including through this Site. California law permits customers of Restaurant Business who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please contact us through the information provided below in "How to Contact Us."
 
-####  **Non-U.S. Residents**
+#### Non-U.S. Residents
 
 If you do not reside in the U.S. and are visiting our Site, and you provide Personal Information to us, it may be transferred to and processed on computers in the U.S. and other countries.  Do not provide your Personal Information to us if you do not want this information to be transferred outside of your country, or if the laws in your country restrict these types of transfers.  Instead, please contact us at [cspinquire@cspnet.com](mailto:cspinquire@cspnet.com?subject=Non-US%20Resident%20Privacy%20Policy%20inquiry) to make your inquiry.  Your provision of Personal Information to us will be handled in accordance with this Privacy Policy. Your provision of Personal Information to us through this Site means that you agree to the terms of this Privacy Policy.
 
-####  **Compliance with Laws**
+#### Compliance with Laws
 
 We reserve the right to disclose any Personal Information or Usage Data to comply with any law, regulation, decree, judgment, order, subpoena or any other governmental order (“Order”) without any obligation to contest or verify the accuracy of such Order. 
 
-##  **How to Contact Us**
+## How to Contact Us
 
 Should you have any questions or concerns regarding these privacy policies, please call us at 630-574-5075 or send us an email at [cspinquire@cspnet.com](mailto:cspinquire@cspnet.com). This e-mail address is being protected from spam. You need JavaScript enabled to view it.
 
