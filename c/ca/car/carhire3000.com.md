@@ -1,41 +1,73 @@
-> *The following text is extracted and transformed from the carhire3000.com privacy policy that was archived on 2013-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131007153444id_/http%3A//www.carhire3000.com/PrivacyPolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carhire3000.com privacy policy that was archived on 2014-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140604144137id_/http%3A//www.carhire3000.com/PrivacyPolicy.do) for the most accurate reproduction.*
 
 # Great Prices on Car Hire Worldwide
 
-CARHIRE 3000 takes the privacy of the information you give us very seriously. Any information you give us will be used in accordance with the UK data protection act of 1998 and The Privacy and Electronic Communications (EC Directive) Regulations 2003. This policy explains how your information is used, and how we protect your privacy.
+Your privacy is important to us. We value the trust you have placed in us, and are committed to protecting and safeguarding any personal information you give us. This document, which we update from time to time, describes how we use and process your personal information. It also tells you how you can contact us if you have questions about your personal information.
 
- **Booking Information**  
-When you book with us we need to know your name, address, telephone number, credit or debit card number and expiry date. We also need the drivers" age to enable us to process the booking. As a booking agent CARHIRE 3000 passes on essential booking details to our car rental partners in order to confirm your booking. 
+rentalcars.com offers online rental car services through its own websites and mobile apps and through other online platforms such as partners’ websites. The information that follows applies to all of these platforms.
 
-**Promotional updates**  
-You may choose to subscribe to our Special Offers service in order to receive e-mails notifying you of any promotions or new services we are offering. You can opt out of this service at any time by clicking on the unsubscribe link in any e-mails we send to you . We use the services of a data mailing provider to facilitate the dispatch of promotional e-mails and postal updates to you. We ensure that this provider keeps your personal information confidential and secure at all times. 
+## Privacy
 
-**Competitions and promotions**   
-From time to time we may run competitions and promotions, and ask for your name, address and e-mail address in order to administer them and notify the winners. We will only use the information for these purposes unless you actively opt to receive additional information of a marketing nature. We may also ask you to give us your opinion on a subject, submit recommendations, or give us information to help develop our customer profile. We may publish these results on our site but we will not publish your name or comment without your permission. 
+**What kind of personal information does rentalcars.com use?**
 
-**Site tracking**   
-We use tracking software to monitor the visitors to our site and to help us to improve the design and content of the site. This software captures and measures such information as page views and site usage patterns using a cookie system. Cookies are small text files which are sent to your web browser and are stored on the hard drive in your computer. Your browser settings can be set to inform you before receiving a cookie and/or block them. 
+When you make a rental car booking or request a quote, you will be asked for the relevant pieces of information required to fulfil the rental car services requested; this may include the main driver’s name, age, contact details (email, address and telephone number), date and place of birth, passport information, driving licence information and payment information.
 
-**Phone call tracking**   
-To help us improve our service to you we record phone calls made to us for training and quality purposes. 
+To make it easier to manage your bookings, you can open a user account. This allows you to save your personal settings, review previous bookings and manage future bookings.
 
-**Disclosure to third parties**   
-CARHIRE 3000 never discloses personal information about its customers to third parties without prior consent, except in the case of an emergency or if we are legally obliged to do so. We will not sell or rent any personally identifiable information we receive from you.  
-CARHIRE 3000 may provide statistics about our customers, sales and booking patterns and related information to third parties, but these will not contain any personally identifying information. 
+When you visit our website, even if you do not make a booking, we may collect certain information, such as your IP address, which browser you’re using, and information about your computer’s operating system, application version, language settings and pages that have been shown to you. If you are using a mobile device, we might also collect data that identifies your mobile device, device-specific settings and characteristics and latitude/longitude details. We might also calculate and process data related to the type of apps installed on a mobile device, such as the name of the app, an app description and the category it belongs to. None of this information by itself will be able to tell us who you are, but it can still considered to be ‘personal’ information.
 
-**Your consent**   
-By using this web site you consent to the collection, storage and use of this information by CARHIRE 3000 as set out in our privacy policy. In the event that we change our privacy policy, we will post any changes on this page, so that you are always aware of the information we collect, how we use it and under what circumstances we disclose it.   
-Please note that the information you provide for your booking will be transferred outside the European economic area if your rental takes place outside of this area. By submitting your order, you consent to this transfer. 
+We may also receive information about you when you use certain social media services.
 
-**Secure Transactions  
-** CARHIRE 3000 is committed to ensuring that the information you provide in making a booking is secure. To do so we use SSL (secure socket layer) technology the recognised industry standard. This encrypts all your personal information including your credit card details, so that it cannot be read as it is sent over the internet. Once your transaction has been completed, your personal information is stored on a secure computer, not on the web server, so it cannot be accessed through the internet. To verify that your browser is using the secure server look for a small padlock icon on the lower part of your browser window. If it is shown in the "locked" position, your transaction is secure.
+**Why does rentalcars.com collect, use and share your personal details?**
 
-**Cookies**  
-The CARHIRE 3000 web site does make limited use of cookies to better serve you. However, we do not store any personal or credit card information about you in these cookies. They do contain a session id number and some other basic information about your visit (for instance, which country you chose when you came to the site).
+  * _Bookings_ : First and foremost, we use your personal information to complete and administer your rental car booking and forward required details to the rental car supplier.
+  * _Customer service_ : We provide international customer service 24/7 from our offices in over 40 languages. Sharing your details with our customer service staff allows us to respond when you need us – including helping you find appropriate rentals and responding to queries related to your booking.
+  * _Customer reviews_ : We may use your contact information to invite you to answer a short questionnaire regarding your rental car. The survey results will be used to help us better understand and improve the service our rental car partners provide to all our customers.
+  * _Marketing activities_ : We also use your information for marketing activities, as permitted by law. For example: 
+    * You may choose to subscribe to our Special Offers service in order to receive emails notifying you of any promotions or new services we are offering. You can opt out of this service at any time by clicking on the ‘unsubscribe’ link in any emails we send to you.
+    * Based on the information you share with us, individualised offers may be shown to you on the rentalcars.com website, in mobile apps or on third-party websites, including social media sites.
+    * When we believe that a particular offer may be of interest to you, we may decide to make contact with you by phone.
+  * _Other communications_ : There may be other times when we get in touch by email, by phone or by texting you, depending on the contact information you share with us. There could be a number of reasons for this: 
+    * We may need to respond to and handle requests you have made.
+    * If you have not finalised a booking online, we may email you a reminder to continue with your booking. We believe that this additional service is useful to you because it allows you to carry on with a booking without having to search for the rental car again or fill in all the booking details from scratch.
+    * When you use our services, we may send you a questionnaire or invite you to provide a review about your experience with rentalcars.com.
+    * We may also send you other material related to your booking, such as how to contact rentalcars.com and your rental car supplier if you need assistance, or a summary of previous bookings you made through rentalcars.com.
+  * _Market research_ : We sometimes ask our customers to take part in market research. Any additional personal details that you give us as part of the market research will be used only with your consent.
+  * _Fraud detection and prevention_ : We may use personal information for the detection and prevention of fraud and other illegal or unwanted activities.
+  * _Improving our services_ : Finally, we use personal information for analytical purposes, to improve our services, to enhance the user experience, and to improve the functionality and quality of our online travel services.
 
-**Control over your data**  
-You always have the right to review the personal data you have stored with us. You can request your personal data, to the extent we have retained such data, by emailing us at: **marketing@traveljigsaw.com**. Please state 'request personal data' in the subject line of your email.
 
-If your personal data is incorrect, we will change it upon your request. You can also ask us to remove your personal data from our database by sending us an email to the aforementioned email address.
 
-Should you have any questions, concerns or comments about our practices or this Privacy Policy, please e-mail us at **marketing@traveljigsaw.com**. Please state "Privacy" in the subject line of your e-mail. TravelJigsaw has its offices at St. George’s House, 56 Peter Street, Manchester M2 3NQ United Kingdom.
+**How does rentalcars.com share your data with third parties?**
+
+In certain circumstances, we may share your personal data with third parties.
+
+  * _The rental car you booked_ : In order to complete your booking, we need to transfer relevant booking details to the rental car supplier you have booked with. This may include information such as your name, age, contact details (email, address and telephone number), date and place of birth, passport information, driving licence information, payment information and any preferences you specified when making a booking.
+  * _Other companies within the rentalcars.com corporate family_ : In order to support you during the booking process and throughout your rental, your details may be shared with other members of the rentalcars.com corporate family. To find out more about the rentalcars.com corporate family, visit [**_About rentalcars.com_**](https://web.archive.org/AboutUs.do). Your information may also be shared with our parent company, Priceline.com, and the other members of the Priceline corporate group (Agoda.com, Booking.com and Kayak.com) and analysed to provide you with travel-related offers that may be of interest to you and to offer you a customised service.
+  * _Third-party service suppliers_ : We may use third-party service suppliers to process your personal information on our behalf for the purposes specified above. For example, we may use service suppliers to send the booking information on our behalf to the supplier of the rental car you booked with us, or we may instruct third parties to contact you. When a booking requires it, we may also work with third-party payment service suppliers to facilitate payment or payment guarantees. We also work with third-party advertisement networks to market services on other platforms, or involve third-party suppliers for analytical purposes. The third parties involved in any of these services will be bound by confidentiality agreements and will not be allowed to use your personal information for any purposes other than those specified above.
+  * _Our business partners_ : We work with partner websites around the world to distribute the rental cars listed on our website and mobile apps. When you make a booking on one of these business partners’ websites, certain personal information that you give them may be shared with us. Similarly, we may share information with this business partner, for example, in order to manage your booking, so that they can address queries related to your booking and for marketing purposes. In this context, your information is governed by the privacy policies of these business partners.
+  * _Competent authorities_ : We may share your personal information with government or investigative authorities if we are required by law (or any regulation having the force of law) to do so. Such requirements include court orders, subpoenas and orders arising from legal processes and criminal investigations. We may also disclose your personal data if it is strictly necessary for the prevention, detection or prosecution of criminal acts.
+
+
+
+**How does rentalcars.com make use of mobile devices?**
+
+We have free apps for a variety of mobile devices. These apps collect and process your personal details in much the same way as our website does – and they also allow you to use location services to find local rental car services.
+
+## Security
+
+**What security procedures does rentalcars.com put in place to safeguard your personal information?**
+
+In accordance with UK and European data protection laws, we observe reasonable procedures to prevent unauthorised access and the misuse of personal information.
+
+We use appropriate business systems and procedures to protect and safeguard the personal information you give us. We also use security procedures and technical and physical restrictions for accessing and using the personal information on our servers. Only authorised personnel are permitted to access personal information in the course of their work.
+
+## Contact
+
+**How can you control the personal information you have given to rentalcars.com?**
+
+You always have the right to review the personal data you have stored with us. You can request your personal data, to the extent we have retained such information, by emailing us at marketing@rentalcars.com. Please state ‘Request personal information’ in the subject line of your email.
+
+If your personal information is incorrect, we will change it upon your request. You can also ask us to remove your personal information from our database by sending us an email to the email address set out above.
+
+Should you have any questions, concerns or comments about our practices or this Privacy Policy, please email us at marketing@rentalcars.com. Please state ‘Privacy’ in the subject line of your email. rentalcars.com has its offices at Sunlight House, Quay Street, Manchester, M3 3JZ, United Kingdom.
