@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mangago.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208013651id_/http%3A//www.mangago.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mangago.com privacy policy that was archived on 2014-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140604171327id_/http%3A//www.mangago.com/privacy.php) for the most accurate reproduction.*
 
 # Read Manga Online For Free - Mangago
 
