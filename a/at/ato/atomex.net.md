@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atomex.net privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113075936id_/http%3A//www.komli.com/in/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atomex.net privacy policy that was archived on 2014-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140604022555id_/http%3A//www.komli.com/in/content/privacy-policy) for the most accurate reproduction.*
 
 # Komli Media | Privacy Policy
 
@@ -38,14 +38,18 @@ We collect Non-PII via our Service, including but not limited to your IP host ad
 We use cookies and web beacons for select purposes. We use them in order to track when we deliver an advertising impression so that we can correctly credit it to a Demand Partner and invoice that Demand Partner. We also drop a cookie for counting frequency of exposure to a particular ad to meet a Demand Partner’s campaign objective around frequency capping. As a buyer of RTB inventory available for sale on sell-side platforms and exchanges (Supply Partner), we do map anonymized user identification number (“UID”) against Supply Partner’s anonymized UID so as to gain handle to the underlying impression and be able to serve appropriate ad on that impression.
 
 **You Can Opt Out**  
-Komli does perform behavioral targeting, retargeting or interest-based advertising on its owned and operated ad serving platform hosted on [www.atomex.net](http://www.atomex.net/ "www.atomex.net"). So if you want to opt-out of this behavioral or interest based targeting, you can simply click on the[ opt-out ](http://www.atomex.net/optout?optout_req=true&redirecturl=http://www.komli.com/in/content/opt-out-success/)button available here. Here is some general information about the cookie opt-out <http://www.worldprivacyforum.org/cookieoptout.html>
+Komli does perform behavioral targeting, retargeting or interest-based advertising on its owned and operated ad serving platform hosted on [www.atomex.net](http://www.atomex.net/). Here is some general information about the cookie opt-out <http://www.worldprivacyforum.org/cookieoptout.html>. So if you want to opt-out of this behavioral or interest based targeting, follow the instructions below:
+
+ 1.       For desktop and mobile web browser opt out: Please click on the [opt-out](http://www.atomex.net/optout?optout_req=true&redirecturl=http://www.komli.com/in/content/opt-out-success/) button available here  
+2.       For Mobile App advertising opt out: Please mention your Platform (iOS, Android,etc) and the device identifier (IDFA,  
+          Android ID) and send an email to [remarketing@komli.com](mailto:remarketing@komli.com) with the subject line as “Mobile Opt Out”.
 
 Please note that if you opt-out but later delete, block or otherwise restrict cookies, Komli opt-out may not function as desired. Even if you have opted out once, if you later access the website from a different computer or Internet browser, you would need to opt-out in that environment as well as opt-out is browser and computer-specific. Deleting a cookie or opting-out does not mean you will no longer receive online advertising; it only means that you will not see targeted ads.
 
-Being in the ad network business, Komli also uses various 3rd party ad platforms. Some of these 3rd party platforms do offer behavioral targeting solutions by dropping a cookie on user browsers from their respective ad serving domains. In such cases, Komli defers to the privacy policies of these respective platforms.
+Being in the ad network business, Komli also uses various 3rd party ad platforms. Some of these 3rd party platforms do offer behavioral targeting solutions by dropping a cookie on user browsers from their respective ad serving domains. In such cases, Komli defers to the privacy policies of these respective platforms.
 
 **Opting out implementation at Komli Ad network**  
-As a user privacy choice, you can choose to opt-out of the interest based behavior targeting done by Komli Ad network by clicking [here](http://202.168.211.24/optout?optout_req=true&redirecturl=http://www.komli.com/in/content/opt-out-success/). Once you opt out of online behavioral advertising Komli will honor your choice and stop using the information we collect about you to serve you targeted ads or personalized content.
+Once you opt out of online behavioral advertising Komli will honor your choice and stop using the information we collect about you to serve you targeted ads or personalized content.
 
 However, it is important to understand the following about opt-outs:
 
