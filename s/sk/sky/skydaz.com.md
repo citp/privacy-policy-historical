@@ -1,17 +1,38 @@
-> *The following text is extracted and transformed from the skydaz.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602040342id_/http%3A//www.capital-remarketing.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skydaz.com privacy policy that was archived on 2014-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140604063020id_/http%3A//www.skydaz.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy - Capital Remarketing Services
+# Skydaz – Privacy Policy
 
-**Capital Remarketing Services** respects the privacy of all users of the Website. The goal of this privacy policy is to protect the information of all our users and therefore each time you log on to our Website you agree to be bound by the existing Privacy Policy as contained on the Website. 
+* * *
 
-We reserve the right, at our discretion, to update, amend and/or revise our Privacy Policy without notice. Please check for changes. Since it will be your responsibility to check for changes you agree that changes to the privacy policy at any time will not be a valid defence or ground for action in any litigation between you and us.
+We here at Skydaz greatly respect your privacy and we hope that our users feel that the information they share with us is 100% secure and private. Here are the guidelines we follow at Skydaz to ensure your privacy and our integrity:
 
-Your information will be used to identify you and for billing, marketing (for example to inform you of specials) and information (for example sending you our newsletters) purposes. In the event of you being desirous not to receive such information kindly inform us via e-mail by clicking on the "Contact Us" icon and state which information you wish not to receive.
+## Email
 
-When purchasing Capital Remarketing Services products via this Website you agree that your personal information be transmitted to third parties in order to facilitate the successful conclusion of the sale agreement, for example delivery purposes.
+We will never share your email with third parties. It will only be used for replying to your comments and or suggestions and sometime important news & announcements which you can opt out of.
 
-Your information remains yours and Capital Remarketing Services will not divulge it to any third party, except as described herein. Capital Remarketing Services undertakes not to sell your information to any third parties.
+## Passwords
 
-The following information of all users will be stored: Your name, Identity Number, Contact details and details relating to the products you ordered. For your protection we do not store your financial information (for example bank details).
+Skydaz staff will NEVER ask for your password. If someone does ask for your password or other info, please immediately notify us.
 
-Information and data is automatically collected through the standard operation of the Internet servers and may this Website use "cookies" and "tracking" technology. "Cookies" and "tracking" technology cannot be used to obtain your personal information. "Cookies" can be used to recognize repeat users and facilitate the user’s access to the Website. You can disable the "cookie" function but may you then not be able to purchase Capital Remarketing Services products via the Website.
+## Log Files
+
+We use IP addresses to analyze trends, administer the site, track user’s movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
+
+## Links
+
+This web site contains links to other sites. Please be aware that Skydaz is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this website.
+
+## Advertising
+
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you.
+
+If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/ "Network Advertising"). You can opt out of a third-party vendor’s use of cookies for interest based advertising by visiting [aboutads.info](http://www.aboutads.info/)
+
+## Notification of Changes
+
+If we decide to change our privacy policy, we will post those changes on the news so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an e-mail. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
+
+## Final Notes
+
+Skydaz.com will never, under any circumstances give away or display your IP address to third parties. Additionally, Skydaz will never sell or transmit e-mail addresses or any other personal identifiers to 3rd parties.  
+If you have any questions regarding our privacy policy, please do not hesitate to [Contact Us](http://www.skydaz.com/contact-skydaz/)! Thank you for your cooperation.
