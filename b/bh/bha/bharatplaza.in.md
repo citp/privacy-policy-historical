@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bharatplaza.in privacy policy that was archived on 2013-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130728101708id_/http%3A//www.bharatplaza.in/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bharatplaza.in privacy policy that was archived on 2014-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140604051207id_/http%3A//www.bharatplaza.in/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy at Bharat Plaza
+# Privacy Policy – Secure Information, Safe Payment Server, Customer Privacy
 
 We respect your privacy and are committed to maintaining it. When you shop on our Web store, we will ask you to input your information and will collect Personal Information from you such as your name, e-mail address, billing address, shipping address, telephone/ mobile number, product selections, credit card or other payment information and password.
 
@@ -19,7 +19,3 @@ A cookie is a piece of information that is stored on your computer's hard drive 
 In case if you feel that your personal information should be change then you can change those information by "SIGN IN" and update the profile. There, you will be allowed to change any of your personal information that you might have entered before with us. In case you have trouble changing your information, you may email us via TICKET, our customer care department will help you to do so.
 
 In summary BHARATPLAZA always respect the privacy of our customers completely. We use the information we collect on the Store to enhance your overall shopping experience. We do not sell, trade, or rent your personal information to others.
-
-## About BharatPlaza...
-
-Bharatplaza, Jodhpur, Rajasthan (India) is a leading Manufacturers, Exporters and Suppliers Designer Sarees, Bridal Saris, Jodhpuri Mens Ethnic Wear, Embroidered Sarees, Indian Menswear Manufacturers, Wedding Sarees, Designer Jodhpurs Wear, Lehenga Sarees, Panetar Sarees, Handwork Saris, Partywear Sarees, Printed Sarees, Anarkali Salwar Kameez, Bandhani Salwar Kameez, Bridal Jewelry, Bridal Lehenga, Designer Lehengas, Designer Salwar Suits......
