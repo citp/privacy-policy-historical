@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maxwebsearch.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227143110id_/http%3A//maxwebsearch.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxwebsearch.com privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605001819id_/http%3A//maxwebsearch.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -91,6 +91,6 @@ For more information about protecting your privacy, you may wish to visit http:/
 If you have questions about this Privacy Policy, please contact us through our contact form at <http://maxwebsearch.com/contact> or write to us at:
 
 MaxWebSearch  
-Attn: Legal Department   
-5220 Summerlin Commons Blvd., Suite 501   
-Fort Myers, FL 33907
+Attn: Privacy and Compliance Group  
+21301 S Tamiami Trail, Suite 320 #108  
+Estero, FL 33928
