@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allmusic.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223022417id_/http%3A//www.allmusic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allmusic.com privacy policy that was archived on 2014-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140604233532id_/http%3A//www.allmusic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | All Media Network Property | AllMusic
 
