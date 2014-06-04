@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the careers.org privacy policy that was archived on 2013-10-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131023224157id_/http%3A//www.careers.org/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the careers.org privacy policy that was archived on 2014-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140604081948id_/http%3A//www.careers.org/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<title>Privacy Policy - Careers.org</title>
@@ -56,7 +56,7 @@
 <script src="http://www.careers.org/javascripts/all.js?1308347241" type="text/javascript"></script>
 
 
-<link href="http://www.careers.org/stylesheets/careers.css?1308347241" media="all" rel="stylesheet" type="text/css">
+<link href="http://www.careers.org/stylesheets/careers.css?1383524082" media="all" rel="stylesheet" type="text/css">
 
 <script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
 </script>
@@ -328,458 +328,20 @@
        
                 
       	<div id="right-nav">	
-      		  
+      		
 	<div style="margin-bottom:20px">
 		
-	<script type="text/javascript">
-jQuery(document).ready(function() {
-var homelogged = 1;
-homeloggedres = jQuery.ajax({
-   type: "GET",
-   async: false,
-   url: "/careers-jobs/jobseekers/home_loggedincheck"
- }).responseText;
- if(jQuery.trim(homeloggedres)=="success")
- {
- homelogged = 0;
- }
- 	if(homelogged)
-	{
-	//When page loads...
-	jQuery(".main_tab_container").show(); //Hide main content div
-	jQuery(".tabs").show(); //Show first tab content
-	jQuery(".tab_content").hide(); //Hide all content
-	jQuery("ul.tabs li:first").addClass("active").show(); //Activate first tab
-	jQuery(".tab_content:first").show(); //Show first tab content
+	<script type="text/javascript" src="http://ads.fcmrktplace.com/scripts/clicksnet.js"></script>
+ <script type="text/javascript">    
+  var subid1 = clicksNetGetQueryStringParam('subid1');
+  var subid2 = clicksNetGetQueryStringParam('subid2');
 
-	//On Click Event
-	jQuery("ul.tabs li").click(function() {
+  //This variable sets the landing page where the Clicks.net listing is hosted
+  var listingpath = escape('/school-search/');
+  //This variable sets whether to pop a new pages or not
+  var pop = false; 
 
-		jQuery("ul.tabs li").removeClass("active"); //Remove any "active" class
-		jQuery(this).addClass("active"); //Add "active" class to selected tab
-		jQuery(".tab_content").hide(); //Hide all tab content
-
-		var activeTab = jQuery(this).find("a").attr("href"); //Find the href attribute value to identify the active tab + content
-		jQuery(activeTab).fadeIn(); //Fade in the active ID content
-		return false;
-	});
-	}
-	else
-	{
-	jQuery(".main_tab_container").hide(); //Hide main content div
-	jQuery(".tabs").hide(); //Hide all tabs
-	jQuery(".tab_container").hide(); //Hide all content
-	}
-
-});
-            /* <![CDATA[ */
-            jQuery(function(){
-			jQuery("#RecruiterUserlogin").validate({
-                    expression: "if (VAL) return true; else return false;",
-                    message: "Please enter the username!"
-                });
-			jQuery("#RecruiterPassword").validate({
-                    expression: "if (VAL) return true; else return false;",
-                    message: "Please enter the password!"
-                });				
-				
-            });
-            /* ]]> */
-	    /* <![CDATA[ */
-            jQuery(function(){
-			jQuery("#JobseekerUsername").validate({
-                    expression: "if (VAL) return true; else return false;",
-                    message: "Please enter the username!"
-                });
-			jQuery("#JobseekerPassword").validate({
-                    expression: "if (VAL) return true; else return false;",
-                    message: "Please enter the password!"
-                });				
-				
-            });
-            /* ]]> */
- 
-</script>
-<div id="fb-root"></div>
-<!-- FACEBOOK login URLs and authentication -->
-<script type="text/javascript" src="http://connect.facebook.net/en_US/all.js"></script>
-<script type="text/javascript">
-      FB.init({appId: '135705809816382', status: true,
-               cookie: true, xfbml: true}); 
-function checkFBStatus(){		
-		FB.login(function(response) {
-			  if (response.session) {
-				if (response.perms) {
-				  // user is logged in and granted some permissions.
-				  // perms is a comma separated list of granted permissions				 
-				} else {
-				  // user is logged in, but did not grant any permissions
-				}
-				 window.location.href="http://www.careers.org/careers-jobs/jobseekers/face_login";
-			  } else {
-				// user is not logged in
-			  }
-			}, {perms:'read_stream,user_interests,user_education_history,user_location,user_about_me,user_work_history,email,user_hometown,user_photos'});
-		}
-
-    </script>
-	
-<style type="text/css">
-.main_tab_container {
-display:none;
-height:250px;
-}
-ul.tabs {
-	float:left;
-	display:none;
-width:243px;
-font-family:Verdana, Geneva, sans-serif;	
-font-size:14px;
-color: #ffffff;	
-font-weight:bold;
-text-decoration:none;
-margin:0px;
-padding:0px;
-}
-ul.tabs li {
-	float: left;
-	margin-left:5px;
-	padding: 0;
-	height: 26px; /*--Subtract 1px from the height of the unordered list--*/
-	line-height: 26px; /*--Vertically aligns the text within the tab--*/
-	margin-bottom: 0px; /*--Pull the list item down 1px--*/
-	overflow: hidden;
-	position: relative;
-	background: url(http://www.careers.org/images/tab-grey.png) /* #e0e0e0 */;
-	width: 114px;
-}
-ul.tabs li a {
-	text-decoration: none;
-	color: #FFFFFF;
-	display: block;
-	padding: 0 10px;
-	border: 0px solid #fff; /*--Gives the bevel look with a 1px white border inside the list item--*/
-	outline: none;
-}
-ul.tabs li a:hover {
-	background: #ccc;
-}
-html ul.tabs li.active, html ul.tabs li.active a:hover  { /*--Makes sure that the active tab does not listen to the hover properties--*/
-	background: url(http://www.careers.org/images/tab-red.png) /* #A70405 */;
-	width: 114px;
-	color:#FFFFFF;
-	border-bottom: 0px solid #A70405; /*--Makes the active tab look like it's connected with its content--*/
-}
-.tab_container {
-clear: left;
-width:243px; /*width of 2nd level sub menus*/
-height:1.5em; /*height of 2nd level sub menus. Set to largest's sub menu's height to avoid jittering.*/
-}
-.tab_content {
-display:none;
-background-color:#FFFFFF;
-border:#a70405 1px solid;
-width:290px;
-margin-left:5px;
-}
-.padding-10
-{
-	padding:10px;	
-}
-table.connect
-{
-	background-color:#ffffff;
-	border-left: #808080 1px solid;
-	border-right: #808080 1px solid;
-	border-top: #808080 1px solid;
-	border-bottom: #808080 1px solid;
-	padding-left:5px;
-	padding-right:5px;
-	padding-top:1px;
-}
-.lc-mandatory
-{
-	font-family:Verdana, Geneva, sans-serif;	
-	font-size:11px;
-	color: #727272;	
-	font-weight:normal;	
-}
-.form-lable
-{
-	font-family:Verdana, Geneva, sans-serif;	
-	font-size:12px;
-	color: #000000;	
-	font-weight:normal;
-}
-
-.mandatory-symbol
-{
-	font-family:Verdana, Geneva, sans-serif;	
-	font-size:12px;
-	color: #c71414;	
-	font-weight:bold;
-	padding-right:2px;
-	padding-top:4px;	
-}
-.control-seprator10
-{
-	height:10px;
-	width:10px;
-}
-.control-seprator5
-{
-	height:5px;
-	width:5px;
-}
-
-.control-seprator2
-{
-	height:2px;
-	width:2px;
-}
-
-.lc-formtext-box
-{
-	background-color:#ffffff;
-	border-left: #727272 1px solid;
-	border-right: #727272 1px solid;
-	border-top: #727272 1px solid;
-	border-bottom: #727272 1px solid;
-	font-family:Verdana, Geneva, sans-serif;	
-	font-size:11px;
-	font-weight:normal;
-	color:#000000;
-	padding-left:2px;
-	padding-top:3px;
-	padding-bottom:3px;	
-	font-weight:normal;
-	vertical-align:top;	
-}
-
-.login-square-button
-{ 
-	background:url(http://www.careers.org/images/login-square-btn.png);
-	background-repeat:no-repeat; 
-	cursor:hand; 
-	width: 65px; 
-	height: 58px; 
-	border: none;
-	background-color:transparent;		
-}
-
-.padding-top
-{
-	padding-top:30px;	
-}
-.forgot-pwd
-{
-	font-family:Verdana, Geneva, sans-serif;	
-	font-size:11px;
-	color: #a70405;	
-	font-weight:normal;
-	text-decoration:none;		
-} 
-
-.forgot-pwd:hover
-{
-	font-family:Verdana, Geneva, sans-serif;	
-	font-size:11px;
-	color: #000000;	
-	font-weight:normal;
-	text-decoration:underline;
-	cursor:hand; 	
-} 
-
-.login-panel
-{
-	background-color:#a70405;
-	font-family:Verdana, Geneva, sans-serif;	
-	font-size:11px;
-	color: #ffffff;	
-	font-weight:bold;
-	height:20px;
-	padding-left:5px;
-}
-.handcursor {
-	cursor:pointer;
-}
-</style>
-
-<div class="main_tab_container">
-<ul class="tabs">
-    <li><a href="#tab1">Job Seekers</a></li>
-    <li><a href="#tab2">Recruiters</a></li>
-</ul>
-
-<div class="tab_container">
-    <div id="tab1" class="tab_content">
-        <!--Table for Job Seeker login start here-->
-	<form autocomplete="off" id="JobseekerLoginForm" method="post" action="http://www.careers.org/careers-jobs/jobseekers/login">
-
-            <table border="0" cellpadding="0" cellspacing="0" width="290">
-            	<tbody><tr>
-                     <td colspan="4" valign="middle" align="left" class="login-panel">Job Seekers Login</td>
-                </tr> 
-                <tr>
-                     <td class="control-seprator5" colspan="4"></td>
-                </tr>  
-                <tr>
-                     <td valign="middle" align="right" class="lc-mandatory" colspan="3">* Mandatory Field</td>
-
-                     <td></td>
-                  </tr>
-		  <tr>
-                     <td class="control-seprator10" colspan="4"></td>
-                </tr>
-		<tr>
-                     <td valign="middle" align="center" colspan="4"><!--<img src="http://www.careers.org/images/L-connect.png" border="0">-->
-			<table border="0" cellpadding="0" cellspacing="2">
-			<tbody><tr>
-
-                     <td valign="top" align="center"><a href="javascript:void(0);" onclick="javascript:checkFBStatus();"><img src="http://www.careers.org/images/f-connect.png" border="0"></a></td>
-					 <td id="linkedindivs" valign="top" align="center"><a href="http://www.careers.org/careers-jobs/jobseekers/linkedinslogin"><img src="http://www.careers.org/images/L-connect.png" border="0"></a></td>
-                   
-                  </tr>
-			</tbody></table>
-		     </td>
-		  </tr>
-		
-                <tr>
-                	<td valign="top" align="left">                  
-                        <!--Table for center login section start here-->
-
-			<table border="0" cellpadding="0" cellspacing="0" class="padding-10">
-                         <tbody><tr>
-                             <td valign="middle" align="left" class="form-lable"><span class="mandatory-symbol">*</span>User Name</td>
-                         </tr>
-                         <tr>
-                             <td class="control-seprator2"></td>
-                         </tr>
-                         <tr>
-
-                             <td valign="middle" align="left"><input name="data[Jobseeker][username]" type="text" class="lc-formtext-box" size="22" maxlength="100" id="JobseekerUsername"></td>
-                         </tr>
-                         <tr>
-                             <td class="control-seprator5"></td>
-                         </tr>
-                          <tr>
-                             <td valign="middle" align="left" class="form-lable"><span class="mandatory-symbol">*</span>Password</td>
-                         </tr>
-
-                         <tr>
-                             <td class="control-seprator2"></td>
-                         </tr>
-                         <tr>
-                             <td valign="middle" align="left"><input type="password" name="data[Jobseeker][password]" class="lc-formtext-box" size="22" maxlength="100" id="JobseekerPassword"></td>
-                         </tr>                                               
-                        </tbody></table>
-                        <!--Table for center login section close here-->                       
-                    </td>
-                    <td valign="top" align="left" width="20"></td>
-
-                    <td valign="top" align="left" class="padding-top">
-                    <input type="submit" value="" class="login-square-button handcursor">	
-                    </td>
-                    <td valign="top" align="left" width="20"></td>
-                </tr>
-                <tr>
-                <td colspan="4" valign="middle" align="center">
-                <a href="http://www.careers.org/careers-jobs/jobseekers/forgot" title="Forgot Password" class="forgot-pwd">Forgot Password</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span><a href="http://www.careers.org/careers-jobs/jobseekers/register_user" title="Create Your Account" class="forgot-pwd">Create Your Account</a></span>
-
-                </td>
-                </tr>
-                <tr>
-                     <td class="control-seprator5" colspan="4"></td>
-                </tr>  
-             </tbody></table> 
-	     </form>
-		<!--Table for Job Seeker Login close here-->
-    </div>
-    <div id="tab2" class="tab_content">
-
-       <!--Table for Recruiter login start here-->
-       <form autocomplete="off" id="JobseekerLoginForm" method="post" action="http://www.careers.org/careers-jobs/recruiters/login">
-            <table border="0" cellpadding="0" cellspacing="0" width="290" height="205">
-            	<tbody><tr>
-                     <td colspan="4" valign="middle" align="left" class="login-panel">Recruiters Login</td>
-                </tr> 
-                <tr>
-                     <td class="control-seprator5" colspan="4"></td>
-                </tr>  
-                <tr>
-
-                     <td valign="middle" align="right" class="lc-mandatory" colspan="3">* Mandatory Field</td>
-                     <td></td>
-                  </tr>
-                <tr>
-                	<td valign="top" align="left">                  
-                        <!--Table for center login section start here-->
-                        <table border="0" cellpadding="0" cellspacing="0" class="padding-10">
-                         <tbody><tr>
-                             <td valign="middle" align="left" class="form-lable"><span class="mandatory-symbol">*</span>User Name</td>
-
-                         </tr>
-                         <tr>
-                             <td class="control-seprator2"></td>
-                         </tr>
-                         <tr>
-                             <td valign="middle" align="left"><input name="data[Recruiter][userlogin]" type="text" class="lc-formtext-box" size="22" maxlength="100" id="RecruiterUserlogin"></td>
-                         </tr>
-                         <tr>
-                             <td class="control-seprator5"></td>
-
-                         </tr>
-                          <tr>
-                             <td valign="middle" align="left" class="form-lable"><span class="mandatory-symbol">*</span>Password</td>
-                         </tr>
-                         <tr>
-                             <td class="control-seprator2"></td>
-                         </tr>
-                         <tr>
-
-                             <td valign="middle" align="left"><input type="password" name="data[Recruiter][password]" class="lc-formtext-box" size="22" maxlength="100" id="RecruiterPassword"></td>
-                         </tr>                                               
-                        </tbody></table>
-                        <!--Table for center login section close here-->                       
-                    </td>
-                    <td valign="top" align="left" width="20"></td>
-                    <td valign="top" align="left" class="padding-top">
-                    <input type="submit" value="" class="login-square-button handcursor">	
-                    </td>
-                    <td valign="top" align="left" width="20"></td>
-
-                </tr>
-                <tr>
-                <td colspan="4" valign="middle" align="center">
-                <a href="http://www.careers.org/careers-jobs/recruiters/forgot" title="Forgot Password" class="forgot-pwd">Forgot Password</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span><a href="http://www.careers.org/careers-jobs/recruiters/registration" title="Create Your Account" class="forgot-pwd">Create Your Account</a></span>
-                </td>
-                </tr>
-                <tr>
-                     <td class="control-seprator5" colspan="4"></td>
-
-                </tr>  
-             </tbody></table> 
-	     </form>
-		<!--Table for Recruiter Login close here-->
-    </div>
-</div>
-</div>
-
-
-	</div>
-
-
-	<div style="margin-bottom:20px">
-		
-	<script type="text/javascript"><!--
-google_ad_client = "ca-pub-5851065596826139";
-/* 2010 - 300X250 - right column... */
-google_ad_slot = "9289870876";
-google_ad_width = 300;
-google_ad_height = 250;
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+  document.write("<script type='text/javascript' src='" + clicksNetGetProtocol() + "ads.fcmrktplace.com/listing/education/widget/?listingpath=" + listingpath + "&pop=" + pop + "&subid1=" + subid1 + "&subid2=" + subid2 + "'> <\/script>");
 </script>
 
 
@@ -788,77 +350,20 @@ google_ad_height = 250;
 
 	<div style="margin-bottom:20px">
 		
-	<!-- Ad Tag: Careers.org 300x250 -->
-<script type="text/javascript">
-var _bizo_ad_partner_id = "912";
-var _bizo_ad_section_id = "_default";
-var _bizo_ad_width  = "300";
-var _bizo_ad_height = "250";
-var _bizo_ad_override_domain = "careers.org";
-
-var _bizo_p = (("https:" == document.location.protocol) ? "https://sjs." : "http://js.");
-document.write(unescape("%3Cscript src='" + _bizo_p + "bizographics.com/show_ad.js?partner_id="+_bizo_ad_partner_id+"' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://sjs.bizographics.com/show_ad.js?partner_id=912" type="text/javascript"></script>
-
-
-
-	</div>
-
-
-	<div style="margin-bottom:20px">
-		
-
-<div class="right-column-box">
-	<div class="right-column-box-inner">
-		<div class="right-column-box-title">
-			
-				Job Search
-			
-		</div>
-		
-		
-		
-		<form action="http://jobs.careers.org/i/search" method="get" onsubmit="this.go.disable(); this.q.value = this.q.value.replace('job title', ''); this.l.value = this.l.value.replace('city, state, zip', '')">
-			
-	          	<div class="job_search_field_div"><input class="job_search_textfield" id="q" name="q" onclick="this.select()" type="text" value="job title"></div>
-    		      
-    		
-	          <div class="job_search_field_div"><input class="job_search_textfield" id="l" name="l" onclick="this.select()" type="text" value="city, state, zip"></div>
-    		
-    		<div style="position:relative">
-    		    <input id="s" class="job_search_submit" name="Search Jobs" type="submit" value="">
-			</div>
-
-			<div class="indeed_employers">
-				<a href="http://www.careerbuilder.com/jobposter/products/postjobsinfo.aspx/?lr=cbcareersorg&amp;siteID=careersorg02">Employers - post your job here</a>
-			</div>
-        </form>
-		
-		
-	</div>
-	<div class="right-column-box-bottom">&nbsp;</div>
-</div>
-
-
-
-
-	</div>
-
-
-	<div style="margin-bottom:20px">
-		
-	<!-- Default Insight Tag -->
-<script type="text/javascript">
-  var _bizo_data_partner_id = "912";
+	<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 250x250 -->
+<ins class="adsbygoogle" style="display:inline-block;width:250px;height:250px" data-ad-client="ca-pub-5851065596826139" data-ad-slot="7179106135"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-<script type="text/javascript">
-  var _bizo_p = (("https:" == document.location.protocol) ? "https://sjs." : "http://js.");
-  document.write(unescape("%3Cscript src='" + _bizo_p + "bizographics.com/convert_data.js?partner_id=" + _bizo_data_partner_id + "' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://sjs.bizographics.com/convert_data.js?partner_id=912" type="text/javascript"></script>
-<noscript>
-  <img height="1" width="1" alt="" style="display:none;" src="http://www.bizographics.com/collect/?pid=912&fmt=gif" />
-</noscript>
 
+
+	</div>
+
+
+	<div style="margin-bottom:20px">
+		
+	<a href="http://astoria.ringrevenue.com/c/233/45565--11498454?us=http%3A%2F%2Fwww.highereducationadvisor.com%3FPPCPN%3D8886064129" target="_top"><img src="http://c.5ribs.com/advertiser_creatives/22346_original.jpg" alt="Call Now: 888-606-4129" border="0"></a>
 
 
 	</div>
@@ -966,7 +471,7 @@ google_ad_height = 60;
 	<span class="footer_seperator">|</span>
 	<span class="footer_item"><a href="http://www.careers.org/privacy-policy">Privacy Policy</a></span>
 	<span class="footer_seperator">|</span>
-	<span class="footer_item"><a href="http://www.careers.org/">Find your career  at Careers.org - Copyright © 1995-2013</a></span>
+	<span class="footer_item"><a href="http://www.careers.org/">Find your career  at Careers.org - Copyright © 1995-2014</a></span>
 </div> 
 
 
