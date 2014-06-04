@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the informatica.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602232015id_/http%3A//www.informatica.com/us/privacy-policy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the informatica.com privacy policy that was archived on 2014-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140604055520id_/http%3A//www.informatica.com/us/privacy-policy/default.aspx) for the most accurate reproduction.*
 
 # Informatica Privacy Policy
 
