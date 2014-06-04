@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the templaza.com privacy policy that was archived on 2013-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131015001033id_/http%3A//www.templaza.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the templaza.com privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605011148id_/http%3A//templaza.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+##  Privacy Policy 
 
 #### General information
 
@@ -31,3 +33,7 @@ At any time, you may inform us about not willing to share with us your personal 
 #### Contact information
 
 Should the need arise, you would contact us at: [info@templaza.com](mailto:info@templaza.com)
+
+Share It!
+
+[ ](http://pinterest.com/pin/create/button/?url=http://www.templaza.com/privacy-policy)
