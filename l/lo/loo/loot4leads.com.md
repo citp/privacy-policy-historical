@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loot4leads.com privacy policy that was archived on 2013-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130427004204id_/http%3A//loot4leads.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loot4leads.com privacy policy that was archived on 2014-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140604211004id_/http%3A//loot4leads.com/privacy.html) for the most accurate reproduction.*
 
 # Contact Me
 
