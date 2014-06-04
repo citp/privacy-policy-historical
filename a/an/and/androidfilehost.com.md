@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the androidfilehost.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219144010id_/http%3A//www.androidfilehost.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the androidfilehost.com privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605011736id_/http%3A//www.androidfilehost.com%3Fw%3Dprivacy-policy) for the most accurate reproduction.*
 
-# Android File Host
+# Privacy Policy | Androidfilehost.com | Downloads and free file hosting for Android Developers
 
 _This document was last updated on July 14, 2012_
 
