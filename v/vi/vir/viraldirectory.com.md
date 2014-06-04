@@ -1,10 +1,38 @@
-> *The following text is extracted and transformed from the viraldirectory.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225201056id_/http%3A//viraldirectory.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viraldirectory.com privacy policy that was archived on 2014-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140604135016id_/http%3A//viraldirectory.com/Privacy-Policy.html) for the most accurate reproduction.*
 
-# Privacy Policy :: Best Free Website Directory
+# Privacy Policy
 
-[ ](http://viraldirectory.com/)
+####  Categories Navigation 
 
-Directory and Search Engine
+What category are you looking for?
+
+####  Most searched 
+
+[**alphaSearch**](http://viraldirectory.com/search.php?what=alphaSearch&type=1) \- searched 9446 times
+
+Listings: **3**
+
+Categories: **0**
+
+[**w**](http://viraldirectory.com/search.php?what=w&type=1) \- searched 1328 times
+
+Listings: **1365**
+
+Categories: **355**
+
+####  Last searches 
+
+[**alphaSearch**](http://viraldirectory.com/search.php?what=alphaSearch&type=1) \- searched 9446 times
+
+Listings: **3**
+
+Categories: **0**
+
+[**w**](http://viraldirectory.com/search.php?what=w&type=1) \- searched 1328 times
+
+Listings: **1365**
+
+Categories: **355**
 
 This Privacy Policy governs the manner in which Viral Directory collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://viraldirectory.com](http://viraldirectory.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Viral Directory.
 
@@ -67,7 +95,7 @@ Viral Directory has the discretion to update this privacy policy at any time. Wh
 
 **Your acceptance of these terms**
 
-By using this Site, you signify your acceptance of this policy and [terms of service](http://viraldirectory.com/terms/). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 **Contacting us**
 
@@ -75,12 +103,7 @@ If you have any questions about this Privacy Policy, the practices of this site,
 [Viral Directory](http://viraldirectory.com/)  
 [http://viraldirectory.com](http://viraldirectory.com/)  
 971 Decker Lane Warminster, PA 18974  
+215-964-2387  
 support@viraldirectory.com
 
-This document was last updated on February 18, 2013
-
-####  Tags 
-
-[for](http://viraldirectory.com/mod/tagcloud/for), [Clothing](http://viraldirectory.com/mod/tagcloud/Clothing), [Art](http://viraldirectory.com/mod/tagcloud/Art), [Free](http://viraldirectory.com/mod/tagcloud/Free), [hosting](http://viraldirectory.com/mod/tagcloud/hosting), [Online](http://viraldirectory.com/mod/tagcloud/Online), [Auctions](http://viraldirectory.com/mod/tagcloud/Auctions), [Business](http://viraldirectory.com/mod/tagcloud/Business), [seo](http://viraldirectory.com/mod/tagcloud/seo), [animated](http://viraldirectory.com/mod/tagcloud/animated), [Directory](http://viraldirectory.com/mod/tagcloud/Directory), [antique](http://viraldirectory.com/mod/tagcloud/antique), [seo services](http://viraldirectory.com/mod/tagcloud/seo+services), [the](http://viraldirectory.com/mod/tagcloud/the), [animation](http://viraldirectory.com/mod/tagcloud/animation), [and](http://viraldirectory.com/mod/tagcloud/and), [Web Design](http://viraldirectory.com/mod/tagcloud/Web+Design), [Web](http://viraldirectory.com/mod/tagcloud/Web), [Antiques](http://viraldirectory.com/mod/tagcloud/Antiques), [website design](http://viraldirectory.com/mod/tagcloud/website+design), [web hosting](http://viraldirectory.com/mod/tagcloud/web+hosting), [information](http://viraldirectory.com/mod/tagcloud/information), [Cameras](http://viraldirectory.com/mod/tagcloud/Cameras), [search engine](http://viraldirectory.com/mod/tagcloud/search+engine), [web directory](http://viraldirectory.com/mod/tagcloud/web+directory), [old](http://viraldirectory.com/mod/tagcloud/old), [website hosting](http://viraldirectory.com/mod/tagcloud/website+hosting), [Vintage](http://viraldirectory.com/mod/tagcloud/Vintage), [gallery](http://viraldirectory.com/mod/tagcloud/gallery), [Furniture](http://viraldirectory.com/mod/tagcloud/Furniture)
-
-[All Tags](http://viraldirectory.com/mod/tagcloud/)
+This document was last updated on April 01, 2014
