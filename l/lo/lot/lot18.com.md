@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the lot18.com privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113120701id_/http%3A//www.lot18.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lot18.com privacy policy that was archived on 2014-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140604022425id_/http%3A//www.lot18.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Lot18
 
-This privacy policy ("Privacy Policy") explains how L18 Holdings, Inc., its affiliates and subsidiaries (collectively "Lot18") use the information you provide to us that personally identifies you ("Personal Information") as well as general, non-personal information that is automatically collected from our site ("Non-Personal Information"). Please read this Privacy Policy carefully. If you do not agree to our practices, please do not register, subscribe, create an account, or otherwise interact with Lot18 at www.lot18.com (the "Website"). By visiting the Website, you accept the practices described in this Privacy Policy. 
+This privacy policy ("Privacy Policy") explains our policy regarding the collection, use, disclosure and transfer of your information by L18 Holdings, Inc., its affiliates and subsidiaries (collectively "Lot18"). By “information” we mean information you provide to us that personally identifies you ("Personal Information") as well as general, non-personal information that is automatically collected from our site ("Non-Personal Information"). Please read this Privacy Policy carefully. If you do not agree to our practices, please do not register, subscribe, create an account, or otherwise interact with Lot18 at www.lot18.com (the "Website"). By visiting the Website, you accept the practices described in this Privacy Policy. 
 
 ## Information Collection
 
-Lot18 collects Personal Information to customize the content and/or layout of the Website for each member and to contact members regarding their accounts. If a member chooses to place an order through the Website, we collect additional information including, but not limited to, the member's billing address, shipping address, date of birth, date of order, and product ordered ("Transaction Information"). 
+Lot18 collects Personal Information to customize the content and/or layout of the Website for each member and to contact members regarding their accounts. We collect information you provide to us when you begin the process of placing an order through the Website (even when you abandon the transaction). If a member chooses to place an order through the Website, we collect additional information including, but not limited to, the member's billing address, shipping address, date of birth, date of order, and product ordered ("Transaction Information"). 
 
 Lot18 also collects Non-Personal Information or general statistics about each user that visits the Lot18 Website. Non-Personal Information is collected and recorded to understand statistics and usage of the Lot18 Website. Non-Personal Information includes, but is not limited to, a user’s ISP (Internet Service Provider), IP (Internet Protocol) address, the type of web browser used, which pages a user visits, and other site usage data. This information is completely anonymous and used to analyze Lot18's Website traffic and other statistics relating to the usage of its Website. 
 
@@ -32,7 +32,7 @@ You may manage how your browser handles cookies and related technologies by adju
 
 ## Referring Friends to Lot18
 
-We enable you to refer friends to Lot18. You may be eligible to receive referral credit if someone that you refer to Lot18 makes a purchase (see Terms and Conditions for details). If you wish to refer friends, we provide you a unique referral link that you can share directly with others via message from Lot18, e-mail, social media websites, or other communication methods. If someone clicks your link and takes a qualifying action, we may attribute that referral to you for purposes such as awarding you referral credit. We do not collect any Personal or Non-Personal Information about the persons with whom you share your link until the persons click the link and engage directly with Lot18. If a person clicks the link, the Lot18 website automatically collects Non-Personal Information, which may include the person's IP address, ISP, and other Non-Personal Information. Personal Information is only collected if the person chooses to sign up and become a member of Lot18. 
+We enable you to refer friends to Lot18. You may be eligible to receive referral credit if someone that you refer to Lot18 makes a purchase (see Terms and Conditions for details). If you wish to refer friends, we provide you a unique referral link that you can share directly with others via message from Lot18, e-mail, social media websites, or other communication methods. If someone clicks your link and takes a qualifying action, we may attribute that referral to you for purposes such as awarding you referral credit. We do not collect any Personal or Non-Personal Information about the persons with whom you share your link until the persons click the link and engage directly with Lot18. If a person clicks the link, the Lot18 website automatically collects Non-Personal Information, which may include the person's IP address, ISP, and other Non-Personal Information. Personal Information is only collected if the person chooses to sign up and become a member of Lot18, or otherwise engages directly with Lot18. 
 
 ## Privacy Practices of Third Parties
 
@@ -60,7 +60,7 @@ We do not knowingly collect Personal Information from minors under 21, nor do we
 
 You can access, update and delete your Personal Information by logging into your account and accessing the "My Account" section of the Website. If you want to close your account or have questions, please contact us at [service@lot18.com](mailto:service@lot18.com). While we are ready to assist you in managing your subscriptions, closing your account, and removing your active member profile, we cannot always delete all records. For example, we are required to retain records relating to previous transactions on the Website for financial reporting and compliance reasons. 
 
-We will retain your information for as long as your account is active or as necessary to provide you services and to maintain a record of your transactions for financial reporting and compliance purposes. If you wish to cancel your account, please contact us at [service@lot18.com](mailto:service@lot18.com). We will retain and use your Personal Information, Non-Personal Information, and Transaction Information only as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+We will retain your information for as long as your account is active or as necessary to provide you services and to maintain a record of your transactions for financial reporting and compliance purposes. If you wish to cancel your account, please contact us at [service@lot18.com](mailto:service@lot18.com). We will retain and use your Personal Information, Non-Personal Information, and Transaction Information only as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements, and otherwise as permitted by law. 
 
 ## E-mail Opt Out
 
@@ -68,14 +68,14 @@ Registered members who have elected to receive Lot18's daily e-mail can choose t
 
 ## California Privacy Rights
 
-Pursuant to SS1798.83 of the California Civil Code, residents of California can obtain certain information about the types of Personal Information that companies with whom they have an established business relationship have shared with third parties for direct marketing purposes during the proceeding calendar year. In particular, the law provides that companies must inform consumers about the categories of Personal Information that have been shared with third parties, the names and addresses of those third parties, and examples of the types of services or products marketed by those third parties. To request a copy of the information disclosure provided by Lot18 pursuant to the above references provision, please contact us via email at [service@lot18.com](mailto:service@lot18.com). 
+Pursuant to SS1798.83 of the California Civil Code, residents of California can obtain certain information about the types of Personal Information that companies with whom they have an established business relationship have shared with third parties for direct marketing purposes during the preceding calendar year. In particular, the law provides that companies must inform consumers about the categories of Personal Information that have been shared with third parties, the names and addresses of those third parties, and examples of the types of services or products marketed by those third parties. To request a copy of the information disclosure provided by Lot18 pursuant to the above references provision, please contact us via email at [service@lot18.com](mailto:service@lot18.com). 
 
 ## Changes to Privacy Policy
 
-From time to time, Lot18 will, in its own discretion, update its privacy policy with or without prior notice. If our information practices change at some time in the future, we will post the policy changes to our Web site to notify you of these changes. If you are concerned about how your information is used, you should check our Website periodically. Your continued use of the Lot18 Website amounts to your agreement to comply with and obey the terms of our most recent Privacy Policy. If you object to any of the terms, you can cease to use the Lot18 Website. 
+From time to time, Lot18 will, in its own discretion, update its privacy policy with or without prior notice. If you are concerned about how your information is used, you should check our Website periodically. Your continued use of the Lot18 Website amounts to your agreement to comply with and obey the terms of our most recent Privacy Policy. If you object to any of the terms, you should cease to use the Lot18 Website. 
 
 ## Contact Information
 
 If you, at any point in time, have any questions or concerns with respect to the Lot18 Privacy Policy, you can e-mail us at [privacy@lot18.com](mailto:privacy@lot18.com).   
-6 East 32nd Street, 6th Floor   
-New York, N.Y. 10016 
+2 Clark Place   
+Mahopac, NY 10541 
