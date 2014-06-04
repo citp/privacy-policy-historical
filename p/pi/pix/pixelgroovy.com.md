@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixelgroovy.com privacy policy that was archived on 2013-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130810021435id_/http%3A//www.ientry.com/page/corp/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixelgroovy.com privacy policy that was archived on 2014-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140604223530id_/http%3A//www.ientry.com/page/corp/privacy.html) for the most accurate reproduction.*
 
 # iEntry Network - Privacy Policy
 
