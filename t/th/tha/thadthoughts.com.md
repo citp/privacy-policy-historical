@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thadthoughts.com privacy policy that was archived on 2013-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131115112641id_/http%3A//www.thadthoughts.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thadthoughts.com privacy policy that was archived on 2014-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140604163317id_/http%3A//www.thadthoughts.com/privacy) for the most accurate reproduction.*
 
-# Privacy — Thad Thoughts
+# Privacy | Thad Thoughts
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [Privacy](mailto:privacy@thadthoughts.com).
 
@@ -71,8 +71,3 @@ By using our website, you hereby consent to our privacy policy and agree to its 
 This Privacy Policy was last updated on: Monday, March 12th, 2012.  
 [](http://www.privacypolicyonline.com/ "PrivacyPolicyOnline.com Approved Site")  
 _Should we update, amend or make any changes to our privacy policy, those changes will be posted here._
-
-by on March 12, 2012 · [ 0 comments](http://www.thadthoughts.com/privacy/#comments)
-
-in 
-  *[March 12, 2012]: 2012-03-12
