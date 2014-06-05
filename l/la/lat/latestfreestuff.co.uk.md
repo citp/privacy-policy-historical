@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the latestfreestuff.co.uk privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205221256id_/http%3A//www.latestfreestuff.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latestfreestuff.co.uk privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605192837id_/http%3A//www.latestfreestuff.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | LatestFreeStuff.co.uk
 
@@ -16,7 +16,7 @@ We may collect the following information:
 \- demographic information such as preferences and interests  
 other information relevant to customer surveys and/or offers
 
-What we do with the information we gather
+What we do with the information we gather:
 
 We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
@@ -54,3 +54,9 @@ We will NOT sell, distribute or lease your personal information to third parties
 You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please contact us.
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, through our contact us form. We will promptly correct any information found to be incorrect.
+
+**Contact Details**
+
+Address: Foxton Media Limited, Rainmaking Loft, International House, 1 St Katharines Way, London, E1W 1 UN
+
+Telephone: 0203 701 2210
