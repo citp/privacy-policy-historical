@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the meramlm.com privacy policy that was archived on 2013-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130407191103id_/http%3A//www.meramlm.com/index.php%3FrandomCode%3D8e70ad3c4b7c7770fcf5d7efb4f39966%26page%3Dwebsite_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meramlm.com privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605115455id_/http%3A//www.meramlm.com/privacy) for the most accurate reproduction.*
 
-# MLM CLASSIFIEDS | MLM LEADERS | MLM DIRECTORIES | MLM LEADS | INDIA
+# MLM Classified Privacy Policy
 
 |  |  | Privacy policy  
 ---  
