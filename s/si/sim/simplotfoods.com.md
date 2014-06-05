@@ -1,0 +1,67 @@
+> *The following text is extracted and transformed from the simplotfoods.com privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605134902id_/http%3A//www.simplot.com/privacy_policy) for the most accurate reproduction.*
+
+# Privacy Policy for Website Visitors | J.R. Simplot Company
+
+Last Updated August 6, 2013
+
+The J.R. Simplot Company and its affiliates and subsidiaries (collectively referred to herein as **“Simplot”** , **“our”** , **“us”** or **“we”** ) provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of [www.simplot.com](http://www.simplot.com/index) and any other Simplot sites, mobile apps, or services that link to this Privacy Policy (collectively, the **“Site”** ).  This Privacy Policy applies only to information that you provide to us through the Site.  This Privacy Policy may be updated from time to time.  We will notify you of any material changes by posting the new Privacy Policy on the Site.  You are advised to consult this policy regularly for any changes. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Simplot Website Terms of Use, accessible at <http://www.simplot.com/terms_conditions/>
+
+. 
+
+As used in this policy, the terms “using” and “processing” information include using cookies on a computer, subjecting the information to statistical or other analysis and using or handling information in any way, including, but not limited to collecting, storing, evaluating, modifying, deleting, using, combining, disclosing and transferring information within our organization or among our affiliates within the United States or internationally. 
+
+##  Information Collection and Use
+
+Our primary goals in collecting information are to provide and improve our Site, services, features and content, to administer your use of the Site (together, the **“Service”** ) and to enable users to enjoy and easily navigate the Site. 
+
+_Information You Provide.  _
+
+  * In connection with your use of the Service, we may ask you to provide, or you may otherwise choose to submit, certain information about you.  This may include information about you that can be used to contact or identify you ( **“Personal Information”** ).  Personal Information includes, but is not limited to, your name, phone number, email address and home and business postal addresses.
+  * We also collect the other information that you provide as part of registration to create an account or when contacting Simplot or using certain interactive features of the Site (e.g., without limitation, the content of any request you submit to Simplot via the Site, hint questions and answers to remember your account password (if applicable), zip code (on its own) and individual preferences) ( **“Non-Identifying Information”** ).
+  * We use your Personal Information (in some cases, in conjunction with your Non-Identifying Information) mainly to provide the Service and administer your inquiries. For example, if you choose to access the Careers section of the Site to apply for a position with Simplot, we may use the Personal Information you submit there, such as your resume, in order to evaluate your candidacy for a position at Simplot. 
+  * We also use your Personal Information to contact you with Simplot newsletters, marketing or promotional materials and other information that may be of interest to you.  If you decide at any time that you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications or contact us at [jrs_info@simplot.com](mailto:jrs_info@simplot.com). (See **“Changing or Deleting Information,”** below.)
+  * Certain Non-Identifying Information would be considered a part of your Personal Information if it were combined with other identifiers (for example, combining your zip code with your street address) in a way that enables you to be identified or contacted.  But the same pieces of information are considered Non-Identifying Information when they are taken alone or combined only with other Non-Identifying Information (for example, your viewing preferences).  We may combine your Personal Information with Non-Identifying Information and aggregate it with information collected from other Simplot Users (defined below) to attempt to provide you with a better experience, to improve the quality and value of the Service and to analyze and understand how our Site and Service are used. We may also use the combined information without aggregating it to serve you specifically, for instance to deliver a communication to you according to your preferences or restrictions. We may use Non-Identifying Information for any purpose (including those described above).
+
+
+
+_Log Data._   When you visit the Site, whether as an account holder or a non-registered user just browsing (any of these, a **“Simplot User”** ), our servers automatically record certain information that your browser sends whenever you visit a website and technical information regarding the way our Site is used ( **“Log Data”** ).  This Log Data may include information such as your computer’s Internet Protocol ( **“IP”** ) address, browser type or the webpage you were visiting before you came to our Site, pages of our Site that you visit, the time spent on those pages, information you search for on our Site, access times and dates, and other statistics.  We use third-party services, including Google Analytics, to collect, monitor and analyze this information in order to increase our Site’s functionality and user-friendliness, and to better tailor it to our visitors’ needs.  Accordingly, Log Data is shared with Google, which has its own [privacy policy](http://www.google.com/privacy.html) addressing how it uses such information. We also use this information to verify that visitors to the Site meet the criteria required to process their requests.   We do not treat Log Data as Personal Information or use it in association with other Personal Information, though we may aggregate, analyze and evaluate such information for the same purposes as stated above regarding other Non-Identifying Information.
+
+##  Cookies
+
+Like many websites, the Site uses “cookies” to collect information.  A cookie is a small data file that is transferred to your computer’s hard disk for record-keeping purposes. Cookies may originate from our servers or from those of our service providers. We may use persistent cookies to save your login information or individual preferences for future visits to the Site, as applicable.  We may also utilize session ID cookies to enable certain features of the Site, to better understand how you interact with the Site and to monitor aggregate usage by Simplot Users and web traffic routing on the Site.  Unlike persistent cookies, session cookies are deleted from your computer when you log off from the Site and Service and then close your browser.  You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit.  If you do not accept cookies, however, you may not be able to use all portions of the Site or all functionality of the Service. 
+
+##  Information Sharing and Disclosure
+
+_Aggregate Information and Non-Identifying Information._   We may share aggregated information that does not include Personal Information and we may otherwise disclose Non-Identifying Information and Log Data with third parties for industry analysis, demographic profiling and other purposes. Any aggregated information shared in these contexts will not contain your Personal Information.
+
+_Service Providers._   We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Site-related services (e.g., without limitation, maintenance services, database management, web analytics and improvement of the Site’s features) or to assist us in analyzing how our Site and Service are used.  These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+
+_Compliance with Laws and Law Enforcement._   Simplot cooperates with government and law enforcement officials and private parties to enforce and comply with the law.  We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of Simplot or a third party, to protect the safety of the public or any person, or to prevent or stop activity we may consider to be, or to pose a risk of being, illegal, unethical or legally actionable activity.
+
+_Business Transfers._   Simplot may sell, transfer or otherwise share some or all of its assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy. 
+
+##  Changing or Deleting Your Information
+
+All account holders may review, update, correct or delete the Personal Information in their registration profile by contacting us.  If you completely delete all such information, then your account may become deactivated.  If you would like us to delete your account in our system, please contact us at [jrs_info@simplot.com](mailto:jrs_info@simplot.com) with a request that we delete your Personal Information from our database. We will use commercially reasonable efforts to honor your request.  We may retain an archived copy of your records as required by law or for legitimate business purposes.
+
+##  Security
+
+Simplot is very concerned with safeguarding your information.  We employ reasonable physical, technological, and administrative security measures intended to safeguard and help prevent unauthorized access to sensitive information.   No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+
+We will make any legally required disclosures of any  breach of the security, confidentiality, or integrity of your unencrypted electronically stored “personal data” (as defined in applicable state statutes on security breach notification) to you via email or conspicuous posting on the Site in the most expedient time possible and without unreasonable delay, insofar as consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.
+
+##  International Transfer
+
+Your information may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction.  If you are located outside the United States and choose to provide information to us, Simplot transfers Personal Information to the United States and processes it there.  Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+
+##  Links to Other Sites
+
+Our Site contains links to other websites.  If you choose to access a third party link, you will be directed to that third party’s website.  The fact that we link to a website is not an endorsement, authorization or representation of our affiliation with that third party, nor is it an endorsement of their privacy or information security policies or practices.  We do not exercise control over third party websites.  These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you.  Other websites follow different rules regarding the use or disclosure of the personal information you submit to them.  We encourage you to read the privacy policies or statements of the other websites you visit. 
+
+##  Our Policy Toward Children
+
+The Site is not directed to persons under 18.  It is not within our control who chooses to view the Site to gain knowledge about our company, and we do not knowingly collect personally identifiable information from children under 13.   If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at [jrs_info@simplot.com](mailto:jrs_info@simplot.com).  If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.
+
+##  Contacting Us
+
+If you have any questions about this Privacy Policy, please contact us at [jrs_info@simplot.com](mailto:jrs_info@simplot.com) or at: J.R. Simplot Company, P.O. Box 27, Boise, Idaho 83707.
