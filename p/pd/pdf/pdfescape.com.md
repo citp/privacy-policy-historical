@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pdfescape.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204090210id_/http%3A//www.redsoftware.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdfescape.com privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605190117id_/http%3A//www.redsoftware.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Red Software
 
-Effective September 1 2010
+Effective May 5 2014
 
 ## Red Software Websites
 
@@ -59,6 +59,7 @@ We collect the following identifiable information about our visitors:
   * dynamic.ip
   * dynamic.operatingsystem
   * dynamic.sessionid
+  * dynamic.usage
 
 
 
@@ -115,6 +116,14 @@ How long is this information retained?
   * User data (including uploaded PDF files, etc.) is typically removed from our systems when requested by the data's owner or a period of prolonged inactivity.
 
 
+
+### Google AdSense and Analytics
+
+Google AdSense is a program run by Google that delivers advertisements to Red Software Websites. Google Analytics is a web analysis service provided by Google that is in use on Red Software Websites. Google may utilize the data collected to track and examine the use of Red Software Websites, to prepare reports on its activities, and to share them with other Google services. Google may use the data collected to contextualize and personalize the ads of its own advertising network. Google may collect cookie and usage data. Google may share this information with other parties. Google's privacy policy can be found at <http://www.google.com/intl/en/policies/privacy/>. 
+
+## Do Not Track
+
+Red Software Websites do not currently respond to a Do Not Track ("DNT") or similar signal. 
 
 ## Policy Changes
 
