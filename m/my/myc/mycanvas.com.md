@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mycanvas.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229201842id_/http%3A//www.mycanvas.com/Legal/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycanvas.com privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605185925id_/http%3A//www.mycanvas.com/Legal/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement | MyCanvas.com | Freedom of Expression
 
