@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allrecipes.com.au privacy policy that was archived on 2013-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130722174058id_/http%3A//allrecipes.com.au/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allrecipes.com.au privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605100756id_/http%3A//allrecipes.com.au/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - All recipes Australia NZ
 
