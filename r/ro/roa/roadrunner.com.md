@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roadrunner.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212024601id_/http%3A//www.twcc.com/privacy/web_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roadrunner.com privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605085200id_/http%3A//www.twcc.com/privacy/web_privacy_policy.html) for the most accurate reproduction.*
 
 # Web Privacy Policy
 
@@ -6,7 +6,7 @@
 
 **Welcome to Time Warner Cable's Privacy Policy for the TWC Central Website and the Road Runner Website**
 
-The information Time Warner Cable collects about you at [http://www.twcc.com](http://www.rr.com/) and at http://www.rr.com, and the subdomains thereof (the "Sites" or "Websites") is used to administer the Website and to provide information to Website visitors about TWC’s and the Site's various services and tools, and to provide general news, information and entertainment. Time Warner Cable and Time Warner Cable-affiliated cable operators are collectively referred to in this Privacy Policy as "we," "us," "our" or other similar pronouns, or "Time Warner Cable."
+The information Time Warner Cable collects about you at [http://www.twcc.com](http://www.twcc.com/) and at http://www.rr.com, and the subdomains thereof (the "Sites" or "Websites") is used to administer the Website and to provide information to Website visitors about TWC’s and the Site's various services and tools, and to provide general news, information and entertainment. Time Warner Cable and Time Warner Cable-affiliated cable operators are collectively referred to in this Privacy Policy as "we," "us," "our" or other similar pronouns, or "Time Warner Cable."
 
 **What Does This Privacy Policy Cover?**
 
@@ -65,9 +65,10 @@ You acknowledge and agree that the SMS Service is provided via wireless systems 
 
 We use third-party advertising services companies to serve ads when you visit our Website and other web sites. A list of these ad serving companies as of the date of this Privacy Policy is as follows; we may add to or alter this list, and if we do so we will revise this Privacy Policy accordingly:
 
-  1. AOL Networks (<http://advertising.aol.com/privacy>)
+  1. AOL Networks ([http://privacy.aol.com/advertising-and-privacy ](http://privacy.aol.com/advertising-and-privacy))
   2. DoubleClick (<http://www.google.com/intl/en/policies/technologies/ads/>)
-  3. Tremor Video  (<http://tremorvideo.com/about-us/privacy/#for_tremor>)
+  3. Google  (<http://www.google.com/policies/privacy/partners/>)
+  4. Tremor Video  (<http://tremorvideo.com/about-us/privacy/#for_tremor>)
 
 
 
