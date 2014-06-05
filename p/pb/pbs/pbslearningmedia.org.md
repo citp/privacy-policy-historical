@@ -1,45 +1,113 @@
-> *The following text is extracted and transformed from the pbslearningmedia.org privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203113153id_/http%3A//www.pbslearningmedia.org/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pbslearningmedia.org privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606013213id_/http%3A//www.pbslearningmedia.org/help/privacy-policy) for the most accurate reproduction.*
 
 # Help Page : PBS LearningMedia
 
 ### Privacy Policy
 
-This service is provided by WGBH Educational Foundation (“WGBH”) and the Public Broadcasting Service (“PBS”) and provides educational resources for teachers and their students, for use in educational settings such as schools or libraries, or for educational use by teachers and students from their homes.
+_Effective Date: April 29, 2014_
 
-The privacy policy set forth here refers solely to the website located at [http://www.pbslearningmedia.org](https://web.archive.org/)/ (the "Site"). The policy pertains to how WGBH, PBS and our affiliates (defined as distribution partners that provide access to the Site such as your local public broadcasting station or a regional or national educational content portal (collectively, "PBS LearningMedia", "we", "our", or "us")) gather and use information you provide to us while using this Site. This policy does not pertain to information you provide to us off-line. Please read it carefully, and if you have any questions or concerns, you may contact us at [LearningMediaContact@pbs.org](mailto:LearningMediaContact@pbs.org "Contact PBS LearningMedia").
+Thank you for visiting the PBS LearningMedia website, which is located at http://www.pbslearningmedia.org (the “Site”). This Site is provided by WGBH Educational Foundation (“WGBH”) and the Public Broadcasting Service (“PBS”) and provides educational resources for teachers and their classes, for use in educational settings such as schools or libraries, or for educational use by teachers and their classes from home.
 
-As the Site develops, we may revise this Privacy Policy to reflect changes in the law, our practices, and the features of the Site. Such changes will be effective immediately upon posting. As a result, you should periodically review the Privacy Policy so that you are up to date on our most current policies and practices. By continuing to use the Site, you signify your agreement to the changes to the Privacy Policy. Under certain circumstances, we may also elect to notify you of changes or updates to our Privacy Policy by additional means, such as posting a notice on the front page of the Site or sending you an e-mail.
+This Privacy Policy only applies to the Site. It describes how WGBH, PBS, and our affiliates (defined as distribution partners that provide access to the Site, such as your local public broadcasting station or a regional or national educational content portal (collectively, “PBS LearningMedia”, “we”, “our”, or “us”)) collect and use information you provide to us while using this Site. This Privacy Policy does not pertain to information you provide to us off-line or on any other websites. Please read this Privacy Policy carefully, and if you have any questions or concerns, you may contact us at [LearningMediaContact@pbs.org](mailto:LearningMediaContact@pbs.org).
 
-## Gathering and Use of Information
+As the Site develops, we may revise this Privacy Policy to reflect changes in the law, our practices, or the features of the Site. Such changes will be effective immediately upon posting. As a result, you should periodically review the Privacy Policy so that you are up to date on our most current policies and practices. By using this Site, you signify your agreement to the terms and conditions of this Privacy Policy and, by continuing to use the Site after changes have been made, you signify your agreement to any changes to the Privacy Policy. Under certain circumstances, we may also elect to notify you of changes or updates to our Privacy Policy by additional means, such as posting a notice on the front page of the Site or sending you an e-mail.
 
-We collect two types of information from visitors to the Site: (A) Personally Identifiable Information, which is information that can be used to identify or contact an individual and includes, but is not limited to, name, organizational affiliation, and e-mail address and (B) Non-personally Identifiable Information which tracks your use of and allows for better use of the Site (such as IP Addresses and cookies).
+### Collection of Information
 
-A free registration process is required to access the basic services on the Site. You must supply certain personally identifiable information when you register for the Site in order to gain access to any Site resources or tools. In addition, the information you provide may be used to direct users to Site resources specific to a grade band and content area and to relevant state curriculum standards.
+We may ask visitors to the Site to provide some or all of the following types of information when they register for certain services on the Site, access various content or features, submit community postings (e.g., under the comments tab of a resource page), or directly contact us with feedback or suggestions:
 
-Personally identifiable information also may be requested in connection with community postings (e.g., forums), or when submitting comments and suggestions. If you choose to engage in public activities on the Site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these areas, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums and public areas.
+  * \- Contact information, such as name and e-mail address;
+  * \- User name and password;
+  * \- Date of birth;
+  * \- Other demographic information, such as job information and zip code;
+  * \- Information for a public profile, such as school affiliation;
+  * \- Communications preferences;
+  * \- Search queries;
+  * \- Contact information about others when you provide information about others or refer a friend to a particular site or service (note: such information is used solely to facilitate the communications requested);
+  * \- Information posted in community discussions and other interactive online features; and
+  * \- Correspondence you send to us.
 
-We may use the information you provide us for internal, promotional, and fundraising purposes. In addition, you may choose to receive e-mail alerts from PBS LearningMedia (which includes e-mail from and about our affiliates). You can select this option when you register, or change it in your preferences on the Site. From time to time, we (which includes WGBH, PBS, and our affiliates) may provide you with information and offers about other educational products and services offered by us and/or our content producers (e.g., NOVA). If you choose not to receive these messages in the future, you can select this option when you register, or change it in your preferences on the Site, or you can follow the "unsubscribe" instructions located near the bottom of each e-mail.
 
-In certain cases, we contract with other companies to provide services on our behalf. We may share your personally identifiable information with these companies that provide services to us, including companies that assist with business analytics, data processing, account management and other services. These service providers maintain customer databases with e-mail addresses of Site visitors who have provided them to us by registering at our Site, or signing up for e-mail alerts. We (which includes our service providers) will use these addresses to respond to the general purposes for which we collected the information, to provide services, and to operate the Sites, including to respond to inquiries and for e-mail distribution, list processing and analysis, and promotions management. Our service providers have access to your personally identifiable information as necessary to provide certain services on our behalf. They are required to maintain the privacy of all such information in their possession or control, and can only use the information on our behalf for the purpose that we have contracted them, for example sending you a newsletter. They are not authorized to use your information for any other purpose. We will not share your email address with any other unaffiliated organization.
 
-We, or our service providers, may release personally identifiable information if we believe in good faith that the law or legal process requires it, we have received a valid administrative request from a law enforcement agency, or such release is necessary to protect anyone's rights, property or safety.
+We also may collect certain information automatically when you visit the Site, including:
 
-Please understand that if you choose to not receive promotional correspondence from us, we may still contact you in connection with your relationship, activities, and communications with us. Also, a request to have us stop sharing your personally identifiable information with others for marketing purposes will only apply as of a commercially reasonably time from the date of your request, and we will not be responsible for any communications that you may receive from others that received your personally identifiable information prior to such request. In these cases, please contact that organization directly.
+  * \- Your browser type and operating system;
+  * \- Your Internet Protocol (IP) address, which is the number automatically assigned to your computer whenever you access the Internet and that can sometimes be used to derive your general geographic area;
+  * \- Sites you visited before and after visiting the Site;
+  * \- Web pages you view and links you click on within the Site;
+  * \- Unique identifiers, including mobile device identification numbers that can identify the physical location of such devices in accordance with applicable law;
+  * \- Information collected through cookies, web beacons, and other technologies;
+  * \- Information about your interactions with video content, such as the type of content viewed, and information about your interactions with e-mail messages, such as the links clicked on and whether the messages were opened or forwarded; and
+  * \- Standard server log information.
 
-## Community Postings
 
-In the future, forums and other opportunities to share information may become available. Please be aware that information you convey in these areas becomes public information. You should use caution in disclosing personal information while participating in these areas. We have no responsibility to publish, take down, remove, or edit any of your public activities or any of your submissions that are a result of your activities in these areas.
 
-## Use of Cookies
+If you access third-party services through the Site, such as accessing Facebook, Google, or Twitter through the Site to share information about your experience on the Site with your connections on those services, we may collect information about you from those services. These third-party services may be able to collect information about you, including about your activity on the Site, and they may notify your connections on the third-party services that you are a Site user or about your use of the Site, in accordance with their own privacy policies.
 
-**Aggregated Data.** In order to evaluate use of the Site, we will record traffic records to determine information such as which pages are most popular, which browsers are most used, how long users spend on the Site, and which sites they have come from. This helps us understand our audience, but is not matched in any way to personal data that we may also receive.
+If you choose to engage in public activities on the Site, you should be aware that any information you submit there can be read, collected, or used by other users of these areas, and could be used to send you unsolicited messages. You should use caution in disclosing personal information while participating in these areas. We are not responsible for the information you choose to submit in these forums and public areas.
 
-**Cookies.** We use a small software file called a cookie to keep track of your activity on the site, profile preferences and to provide you with a customized user experience. These cookies are required to use the Site. The user's cookie file lives on the user's machine, and can be deleted at any time by the user.
+### Use of Information
 
-## External Links
+We generally use the information that we collect about you to:
 
-You will find links from the Site to selected sites with content of interest to our users. These external links may be operated by third parties who independently produce, maintain, and monitor these sites. We do not control the content of these sites. When you link to such third party sites, you become subject to their terms of use and privacy policies rather than ours. You should review the privacy policies of these third party sites for their policies and practices regarding the collection and use of personally identifiable information as their policies may differ from ours. We do not accept any responsibility or liability for the privacy practices of third party sites.
+  * \- Fulfill your requests for services and information;
+  * \- Enable you to participate in features such as comment boxes and forums;
+  * \- Engage in internal, promotional, and fundraising activities, including by direct mail, e-mail, and other forms of communication;
+  * \- To send you e-mail alerts from PBS LearningMedia (which includes e-mail from and about our affiliates). From time to time, we may provide you with information and offers about other educational products and services offered by us and our content producers. If you choose not to receive these messages in the future, you can follow the “unsubscribe” instructions located near the bottom of each e-mail. Please understand that if you choose to not receive promotional correspondence from us, we may still contact you in connection with your relationship, activities, and communications with us.
+  * \- Analyze the use of the Site and information about visitors to our Site to understand and improve our service offerings, such as determining which pages are most popular, which browsers are most used, how long users spend on the Site, and which websites they have come from;
+  * \- Customize the content you see when you visit a Site, including to direct users to Site resources specific to a grade band and content area and to relevant state curriculum standards;
+  * \- Prevent potentially prohibited or illegal activities, and otherwise use the collected information in accordance with the [Terms of Use](https://web.archive.org/help/terms-of-use/); and
+  * \- For any other purposes disclosed to you at the time we collect your information or pursuant to your consent.
 
-## Acceptance of this Privacy Policy Terms and Conditions
 
-By using this Site, you signify your agreement to the terms and conditions of this Privacy Policy. We reserve the right, at our sole discretion, to change, modify, add, or remove portions of this policy at any time. Please check this page periodically for any changes. Your continued use of the Site following the posting of any changes to these terms shall mean that you have accepted those changes.
+
+### Disclosure of Information
+
+We may share information that is collected from you in the following circumstances:
+
+  * \- **Authorized third-party service providers.** In certain cases, we contract with other companies to provide services on our behalf. We may share your information with these companies that provide services to us, including companies that assist with business analytics, data processing, account management, and other services. These service providers may maintain customer databases with e-mail addresses of Site visitors who have provided them to us by registering at our Site or signing up for e-mail alerts. We (along with our service providers) will use these addresses to respond to the general purposes for which we collected the information, to provide services, and to operate the Site, including to respond to inquiries and for e-mail distribution, list processing and analysis, and promotions management. Our service providers have access to your information as necessary to provide certain services on our behalf. They are required to maintain the privacy of all such information in their possession or control, and can only use the information on our behalf for the purpose that we have contracted them, for example sending you a newsletter. They are not authorized to use your information for any other purpose. We will not share your e-mail address with any other unaffiliated organization unless otherwise described below.
+  * \- **PBS Member Stations.** We have partnered with certain PBS member stations to offer localized versions of the Site. In such cases, we may share information we collect about you with the PBS member station whose localized version of the Site you visited. You can tell when you are visiting a localized version of the Site because the top banner on the Site will reflect the localization. The member station may use this information to provide you with information about its services that might interest you.
+  * \- **Business transfers.** We may share your information in connection with a substantial business transaction, such as the sale of the Site, a merger, consolidation, asset sale, or in the unlikely event of bankruptcy.
+  * \- **Legal requirements, safety, and security.** We, and our service providers, may disclose your information when we have a good faith belief that it is necessary to: detect, prevent, and address fraud and other illegal activity; to protect ourselves and you from violations of our Terms of Use; to prevent death or imminent bodily harm; and to otherwise protect and defend our or our users’ legal rights, interests, property, and safety.
+  * \- **With your consent.** We otherwise may share your information with your consent.
+
+
+
+We also may share aggregated or anonymized information with third parties, including to help us develop content and services that we hope you will find of interest or to help these third parties develop their own products and service offerings. This sharing of anonymized or aggregated information will not include information that could be used to individually identify you.
+
+### Protection of Information
+
+We are committed to protecting your information. We have adopted commercially reasonable technical, administrative, and physical procedures to help protect your information from loss, misuse, and alteration. Please note that no data transmission or storage can be guaranteed to be 100% secure. We want you to feel confident using the Site but we cannot ensure or warrant the security of any information you transmit to us.
+
+### Children’s Privacy
+
+We are dedicated to handling any information obtained from children with care and respect.
+
+  * \- **Collection.** Users must be at least 13 years old to register for the Site. A state department of education, school district, homeschooler, or school teacher or administrator may create accounts for students under the age of 13. In such circumstances, we may collect personal information from students for the use and benefit of the school. In addition, these educational agencies or institutions may act as agents for parents in providing consent for our online collection, use, and disclosure of students’ personal information within the school context. For example, we may collect personally identifiable information, such as full name and e-mail address, from children to facilitate their use of online lesson plans and other communications posted through interactive features on the Site, such as community forums. As described above in the section on [Collection of Information](https://web.archive.org/help/privacy-policy#collection), we also may automatically collect certain information from children when they visit our Site.
+  * \- **Use and disclosure.** We may use and disclose children’s personally identifiable information for the purposes and in the manners described above in the sections on [Use of Information](https://web.archive.org/help/privacy-policy#use) and [Disclosure of Information](https://web.archive.org/help/privacy-policy#disclosure).
+  * \- **Access.** State departments of education, school districts, homeschoolers, and school teachers or administrators may request to review the personal information of their students who are under the age of 13, to have this information deleted, or to refuse to permit further collection or use of their students’ personal information by e-mailing us at [LearningMediaContact@pbs.org](mailto:LearningMediaContact@pbs.org).
+
+
+
+If you have any questions about how we handle children’s personally identifiable information, please contact us at [LearningMediaContact@pbs.org](mailto:LearningMediaContact@pbs.org). In addition, our contact information is provided below under [Contact Us](https://web.archive.org/help/privacy-policy#contactus).
+
+### Use of Cookies and Other Technologies
+
+Cookies are small amounts of data that are stored in separate files within your computer’s Internet browser. Cookies are accessed and recorded by the websites you visit so they can recognize the same browser navigating online. We use cookies to help us recognize your browser as a previous visitor and save and remember any preferences that may have been set while your browser was visiting the Site; to help us customize the content you are shown while visiting the Site; and to help measure and research the effectiveness of our interactive online content, features, and other communications.
+
+We also may use standard Internet technology, such as web beacons and similar technologies, to track your use of the Site. Web beacons (sometimes called transparent GIFs, clear GIFs, or web bugs) are small strings of code that provide a way for us to deliver a small graphic image (usually invisible) on a web page or in an e-mail. Web beacons can recognize certain types of information on your computer such as cookies, the time and date a page is viewed, and a description of the page where the web beacon is placed. We use these technologies to improve your experience on the Site, including to provide you with content customized to your interests and to understand whether users read e-mail messages and click on links contained within those messages so that we can deliver relevant content and offers.
+
+### External Links and Third-Party Content
+
+We enable you to access third-party content through the Site and to navigate to third-party sites and services from links on the Site. Whether the third-party content appears within our Site (such as in an embedded video player) or you leave our Site to view the content on another website, the third party is in control of and independently produces, maintains, and monitors the content and third-party sites. When you watch third-party content that is made available through the Site or navigate to such third-party sites, you become subject to the third party’s terms of use and privacy policies. You should review the privacy policies of these third-party sites for their policies and practices regarding the collection and use of your information as their policies may differ from ours. We do not accept any responsibility or liability for the privacy practices of third parties.
+
+### Contact Us
+
+WGBH Educational Foundation  
+One Guest Street, Boston, MA 02135
+
+Public Broadcasting Service  
+2100 Crystal Drive, Arlington, VA 22202
+
+Tel: (866) 864-0828  
+[LearningMediaContact@pbs.org](mailto:LearningMediaContact@pbs.org)
