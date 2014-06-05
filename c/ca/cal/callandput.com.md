@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the callandput.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103145518id_/http%3A//www.callandput.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the callandput.com privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605051615id_/http%3A//trading.callandput.com/privacy) for the most accurate reproduction.*
 
 # Trading Binary Options with CallAndPut
 
@@ -6,7 +6,7 @@
 
 ### 1\. Introduction
 
-callandput.com (the "Company" or "we") offers binary options and financial market trading services via the Internet. When you use the Company's services via its online trading platform, you shall be asked to provide personal identifiable information ("Personal Information") to the Company. We are committed to respecting your privacy and to complying with applicable data protection and privacy laws. We have therefore provided this Privacy Policy to help you understand how we collect, use, store and protect your Personal Information for the purpose of offering you trading services. If you do not understand this Privacy Policy or how we handle or use the Personal Information which you provide to us then you are invited to send in your questions to [support@tradecharge.com](mailto:support@tradecharge.com) and we will do our best to answer your questions in full as quickly as possible. You should read this Privacy Policy in conjunction with our End User License Agreement [**"Terms"**](https://web.archive.org/web/20131103145518id_/http%3A//www.callandput.com/terms). 
+callandput.com (the "Company" or "we") offers binary options and financial market trading services via the Internet. When you use the Company's services via its online trading platform, you shall be asked to provide personal identifiable information ("Personal Information") to the Company. We are committed to respecting your privacy and to complying with applicable data protection and privacy laws. We have therefore provided this Privacy Policy to help you understand how we collect, use, store and protect your Personal Information for the purpose of offering you trading services. If you do not understand this Privacy Policy or how we handle or use the Personal Information which you provide to us then you are invited to send in your questions to [support@callandput.com](mailto:support@callandput.com) and we will do our best to answer your questions in full as quickly as possible. You should read this Privacy Policy in conjunction with our End User License Agreement [**"Terms"**](https://web.archive.org/web/20140605051615id_/http%3A//trading.callandput.com/terms). 
 
 ### 2\. Modifications to the Privacy Policy
 
@@ -14,7 +14,7 @@ We reserve the right, in our sole discretion, to modify, alter or otherwise upda
 
 ### 3\. Personal Information Collection
 
-We collect Personal Information when you register on the website and use our trading services, make customer inquiries, enter promotions, register for information or other services from the Company or when you respond to communications from us (such as questionnaires or surveys). The Personal Information we will collect from you may include, your name, email address, postal address, telephone number, debit/credit card data, date of birth and other information collected on registration or through surveys which the Company may undertake.
+We collect Personal Information when you register on the website and use our trading services, make customer inquiries, enter promotions, register for information or other services from the Company or when you respond to communications from us (such as questionnaires or surveys). The Personal Information we will collect from you may include, your name, email address, postal address, telephone number, date of birth and other information collected on registration or through surveys which the Company may undertake.
 
 ### 4\. How Your Personal Information is Processed ("Purposes")
 
@@ -30,7 +30,7 @@ We ensure that your information will not be disclosed to government institutions
 
 ### 6\. Your Choice - Direct Marketing
 
-Out of respect for your right to privacy we are happy to provide you with an easy means to opt-out of receiving email offers from us. At any time, you may request to discontinue receiving these offers by sending a blank message with the word "Remove" in the subject area to [support@tradecharge.com](mailto:support@tradecharge.com). If you would like to stop receiving our mail or telemarketing offers, please call [+357.25.030.415](callto:+35725030415) or write to Gr. Xenopoulou 17, 3106, Limassol, Cyprus.
+Out of respect for your right to privacy we are happy to provide you with an easy means to opt-out of receiving email offers from us. At any time, you may request to discontinue receiving these offers by sending a blank message with the word "Remove" in the subject area to [support@callandput.com](mailto:support@callandput.com). If you would like to stop receiving our mail or telemarketing offers, please call [+357.25.030.415](callto:+35725030415) or write to Gr. Xenopoulou 17, 3106, Limassol, Cyprus.
 
 ### 7\. Your Rights in relation to your Personal Information
 
@@ -42,7 +42,7 @@ Your Personal Information will not be stored for longer than is necessary for th
 
 ### 9\. Security
 
-We have implemented suitable security policies, rules and technical measures to protect and safeguard all the Personal Information under our control from unauthorized access, improper use or disclosure, unauthorized modification, unlawful destruction or accidental loss. All our employees and data processors that have access to, and are associated with the processing of your Personal Information, are obliged to respect your privacy.
+We have implemented suitable security policies, rules and technical measures to protect and safeguard all the Personal Information under our control from unauthorized access, improper use or disclosure, unauthorized modification, unlawful destruction or accidental loss. All our employees and data processors that have access to, and are associated with the processing of your Personal Information, are obliged to respect your privacy. callandput.com does not save or store any Credit Card details.
 
 ### 10\. Cookies
 
