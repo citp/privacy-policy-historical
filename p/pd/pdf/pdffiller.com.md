@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pdffiller.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214110244id_/http%3A//www.pdffiller.com/en/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdffiller.com privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605065151id_/http%3A//www.pdffiller.com/en/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - PDFfiller. On-line PDF form Filler, Editor, Type on PDF ; Fill, Print, Email, Fax and Export
 
