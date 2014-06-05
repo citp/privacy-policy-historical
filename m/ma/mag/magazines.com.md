@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the magazines.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214182449id_/http%3A//www.magazines.com/help/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magazines.com privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605060338id_/http%3A//www.magazines.com/help/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # Privacy Policy | Magazines.com
 
 Your privacy is important to us. To better protect your privacy we provide this privacy policy explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we link to it from our home page and other pages of our web site. 
 
-### The Information We Collect:
+### The Information We Collect
 
 This notice applies to all information collected or submitted on the Magazines.com website. On some pages, you can order products, make requests, and register to qualify for free magazines. The types of personal information collected at these pages are: 
 
@@ -26,15 +26,19 @@ On some pages, you can submit information about other people. For example, if yo
 
 
 
-### Emails from Magazines.com:
+### Emails from Magazines.com
 
 As a Magazines.com customer you will receive special offers, coupons, and exclusive gift cards via email. If you prefer not to receive promotional emails from us you can easily manage your email preferences. In every promotional email we send, there is an unsubscribe link at the bottom of the email. Click the link, and after your request is processed you will no longer receive promotional emails. 
 
 Note: Even if you choose to not receive some marketing emails from us, you will still receive our transactional email, such as messages relating to the status of your order, or information about your account. 
 
-### The Way We Use Information:
+### The Way We Use Information
 
 We use the information you provide about yourself when placing an order to complete the order. It is necessary to furnish this information to our third party fulfillment partners, such as magazine publishers, in order to quickly fulfill your order. For email addresses specifically, Magazines.com does not share this information with other parties, except when you purchase a digital magazine subscription and your email address is required to authenticate that digital subscription with the magazine publisher. Because your information is shared with our third party fulfillment partners, the information is governed by the privacy policies of the recipients of the information. We also use the information to provide you with information about our other products and services and in an effort to provide you with a superior customer experience. 
+
+### Disclosure to Other Third Parties
+
+It may be necessary − by law, legal process, litigation, and/or requests from governmental authorities − for Magazines.com to disclose certain of the information you have provided us to applicable third parties. We may also disclose this information if we determine that for purposes of law enforcement or other issues of public importance, disclosure is necessary or appropriate. We may also disclose this information if we determine that disclosure is reasonably necessary to enforce our terms of service or protect our operations or users. Additionally, in the event of a reorganization, merger, or sale of Magazines.com, we may transfer any and all personal information we collect to the relevant third party. 
 
 ### Cookies
 
