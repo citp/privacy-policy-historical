@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the letssingit.com privacy policy that was archived on 2013-11-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131122001329id_/http%3A//www.letssingit.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the letssingit.com privacy policy that was archived on 2014-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140605135947id_/http%3A//www.letssingit.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <title>Privacy Policy</title>
@@ -13,10 +13,11 @@
 <link rel="apple-touch-icon" sizes="72x72" href="http://cdn.lsistatic.com/apple-touch-icon-72x72.png">
 <link rel="apple-touch-icon" sizes="114x114" href="http://cdn.lsistatic.com/apple-touch-icon-114x114.png">
 <link rel="apple-touch-icon" sizes="144x144" href="http://cdn.lsistatic.com/apple-touch-icon-144x144.png">
-<link rel="stylesheet" href="http://cdn.lsistatic.com/styles.css?2013101601" media="screen,projection" type="text/css" id="base_link">
+<link rel="stylesheet" href="http://cdn.lsistatic.com/styles.css?2013120301" media="screen,projection" type="text/css" id="base_link">
 <meta property="og:site_name" content="LetsSingIt">
 <meta property="og:image" content="http://cdn.lsistatic.com/logo_900.jpg">
 <meta property="fb:admins" content="100000459520819">
+
 
 <!--[if lt IE 7 ]>
 <STYLE type="text/css">
@@ -39,51 +40,57 @@ BODY{text-align:center}
 </STYLE>
 <![endif]-->
 
+
+
 </head>
 
 <body>
+
+<div id="adslot_60_1" class="advertisment"></div>
+
 <div id="container">
 <div id="container-border">
 <div id="header">
-<div id="traybar">
-<span id="lsitime" title="LetsSingIt Time">&nbsp;</span>
-<span id="lsi_ticker"></span>
-<span id="login_status"><a href="http://my.letssingit.com/register_form">register</a> | <a href="http://my.letssingit.com/login_form">login</a>&nbsp;&nbsp;</span>
-</div>
+	<div id="traybar">
+    <span id="lsitime" title="LetsSingIt Time">&nbsp;</span>
+    <span id="lsi_ticker"></span>
+    <span id="login_status"><a href="http://my.letssingit.com/register_form" rel="nofollow">register</a> | <a href="http://my.letssingit.com/login_form" rel="nofollow">login</a>&nbsp;&nbsp;</span>
+  </div>
 <div id="logobar"><a href="http://www.letssingit.com" title="Lyrics, Albums, Songs, Artists and more Music @ LetsSingIt"><span>&nbsp;</span></a>
 <div id="adslot_12_1" class="advertisment"></div>
 </div>
 
 <form method="get" action="http://search.letssingit.com/cgi-exe/am.cgi" name="search" onsubmit="autoComplete.resetTimer();return _search._validate();" id="search">
 <input type="hidden" name="a" value="search">
+<input type="hidden" name="artist_id" value="">
 
 <div id="searchbar">
 
-<a href="http://my.letssingit.com/register_form" title="Join now, become a member of LetsSingIt"><p id="join"></p></a>
+<a href="http://my.letssingit.com/register_form" title="Join now, become a member of LetsSingIt" id="join_button"><p id="join"></p></a>
 
-<p class="search2"><select name="l" id="search_field"><option value="0">[select]</option><option value="0"></option><option value="0" style="font:bold 12px arial;background-color:#FFCC00">MUSIC</option><option value="archive" selected="">all music</option><option value="artist">artist</option><option value="song">song</option><option value="album">album</option><option value="lyrics">lyrics</option><option value="0"></option><option value="0" style="font:bold 12px arial;background-color:#FFCC00">COMMUNITY</option><option value="member">member</option><option value="topic">topic title</option><option value="poster">poster</option></select></p>
+<p class="search2"><select name="l" id="search_field" onchange="_search.buttonToggle('unblock')"><option value="0">[select]</option><option value="0"></option><option value="0" style="font:bold 12px arial;background-color:#FFCC00">MUSIC</option><option value="archive" selected="">all music</option><option value="artist">artist</option><option value="song">song</option><option value="album">album</option><option value="lyrics">lyrics</option><option value="0"></option><option value="0" style="font:bold 12px arial;background-color:#FFCC00">COMMUNITY</option><option value="member">member</option><option value="topic">topic title</option><option value="poster">poster</option></select></p>
 <div class="search3"><input id="search_string" autocomplete="off" type="text" name="s" class="textfield_default" value="" onblur="autoComplete.closeTrigger();" onkeyup="autoComplete._trigger(event,this.value);" placeholder="search...">
 <div id="autocomplete"><ul id="list"></ul></div>
-<input type="image" src="http://cdn.lsistatic.com/search.png" value="Search" alt="Search" class="searchbutton">
+<input id="searchbutton" type="image" src="http://cdn.lsistatic.com/search.png" value="Search" alt="Search" class="searchbutton">
+<input id="searchbutton_block" type="image" src="http://cdn.lsistatic.com/processing.gif" class="searchbutton" style="background-color:white;width:16px;height:16px;padding:2px 4px 2px 4px;display:none;cursor:progress" disabled="true">
 </div>
-<div id="container_feat_song" onclick="XMLRequest_v5({query:'a=ajax_featured',cors:1,lightbox:1});"></div>
 
 </div>
 
 </form>
 
 <ul id="menu" style="display:table">
-<li id="menucontainer_1" class="menu_tab"><div id="menusub_1" style="z-index:500"><ul><li><a href="http://www.letssingit.com/">Home page</a></li><li><a href="http://www.letssingit.com/tellafriend_form" rel="nofollow">Tell a friend</a></li><li><a href="http://www.letssingit.com/sitemap">Sitemap</a></li><li><a href="http://www.letssingit.com/contact" rel="nofollow">Contact</a></li></ul></div><a id="menumainlink_1" href="http://www.letssingit.com" style="color: rgb(83, 186, 230);">HOME</a></li>
-<li id="menucontainer_2" class="menu_tab"><div id="menusub_2" style="z-index:500"><ul><li><a href="http://artists.letssingit.com/">Archive</a></li><li><a href="http://artists.letssingit.com/charts">Charts</a></li><li><a href="http://cmspub.letssingit.com/submit">Submit</a></li><li><a href="http://cmspub.letssingit.com/request">Request</a></li><li><a href="http://cmspub.letssingit.com/review">Public Review</a></li></ul></div><a id="menumainlink_2" href="http://artists.letssingit.com/">MUSIC</a></li>
-<li id="menucontainer_3" class="menu_tab"><div id="menusub_3" style="z-index:500"><ul><li><a href="http://forum.letssingit.com/">Categories</a></li><li><a href="http://forum.letssingit.com/active/1">Active Topics</a></li><li><a href="http://forum.letssingit.com/new/1">New Topics</a></li><li><a href="http://forum.letssingit.com/moderators" rel="nofollow">Moderators</a></li></ul></div><a id="menumainlink_3" href="http://forum.letssingit.com">FORUM</a></li>
-<li id="menucontainer_4" class="menu_tab"><a id="menumainlink_4" href="#" onclick="pop('http://chat.letssingit.com/cgi-exe/am.cgi?a=chat_connect&amp;room_id=1',{w:800,h:600,r:1,s:0});return false;" rel="nofollow">CHAT<span id="chatcount"></span></a></li>
-<li id="menucontainer_5" class="menu_tab"><div id="menusub_5" style="z-index:500"><ul><li style="background-color:#FFCC00;border-right:1px solid #64571f;border-left:1px solid #ffe26e;border-bottom:1px solid #64571f;border-top:1px solid #ffe26e"><span style="font:14px arial;color:black;line-height:19px">community</span></li><li><a href="http://members.letssingit.com">Overview</a></li><li style="background-color:#FFCC00;border-right:1px solid #64571f;border-left:1px solid #ffe26e;border-bottom:1px solid #64571f;border-top:1px solid #ffe26e"><span style="font:14px arial;color:black;line-height:19px">account</span></li><li><a href="http://my.letssingit.com/login_form">Login</a></li><li><a href="http://my.letssingit.com/register_form">Register</a></li><li><a href="http://my.letssingit.com/logindetails_resend_form" rel="nofollow">Lost Login Details</a></li></ul></div><a id="menumainlink_5" href="http://members.letssingit.com">MEMBERS</a></li>
-<li id="menucontainer_6" class="menu_tab"><div id="menusub_6" style="z-index:500"><ul><li><a href="http://poll.letssingit.com/">Today</a></li><li><a href="http://poll.letssingit.com/archive">Archive</a></li><li><a href="http://poll.letssingit.com/suggest_form" rel="nofollow">Suggest</a></li></ul></div><a id="menumainlink_6" href="http://poll.letssingit.com">POLL</a></li>
-<li id="menucontainer_7" class="menu_tab"><a id="menumainlink_7" href="#" onclick="pop('http://www.letssingit.com/help',{w:700,h:550,r:1,s:0});return false;" rel="nofollow">HELP</a></li>
-<li id="menucontainer_8" class="menu_tab"><a id="menumainlink_8" href="#" onclick="pop('http://www.letssingit.com/player',{w:410,h:770,r:0,s:0});return false;" rel="nofollow">LSI PLAYER</a></li>
+<li id="menucontainer_1" class="menu_tab"><div id="menusub_1" style="z-index:500"><ul><li><a href="http://www.letssingit.com/">Home page</a></li><li><a href="http://www.letssingit.com/tellafriend_form" rel="nofollow">Tell a friend</a></li><li><a href="http://poll.letssingit.com/archive">Poll</a></li><li><a href="http://www.letssingit.com/sitemap">Sitemap</a></li><li><a href="http://www.letssingit.com/contact" rel="nofollow">Contact</a></li></ul></div><a id="menumainlink_1" href="http://www.letssingit.com">Home</a></li>
+<li id="menucontainer_2" class="menu_tab"><div id="menusub_2" style="z-index:500"><ul><li><a href="http://artists.letssingit.com/">Archive</a></li><li><a href="http://artists.letssingit.com/charts">Charts</a></li></ul></div><a id="menumainlink_2" href="http://artists.letssingit.com/">Music Archive</a></li>
+<li id="menucontainer_3" class="menu_tab"><div id="menusub_3" style="z-index:500"><ul><li><a href="http://cmspub.letssingit.com/submit">Submit</a></li><li><a href="http://cmspub.letssingit.com/request">Request</a></li><li><a href="http://cmspub.letssingit.com/review">Public Review</a></li></ul></div><a id="menumainlink_3" href="http://cmspub.letssingit.com/submit">Submit &amp; Review</a></li>
+<li id="menucontainer_4" class="menu_tab"><div id="menusub_4" style="z-index:500"><ul><li><a href="http://forum.letssingit.com/">Categories</a></li><li><a href="http://forum.letssingit.com/active/1">Active Topics</a></li><li><a href="http://forum.letssingit.com/new/1">New Topics</a></li><li><a href="http://forum.letssingit.com/moderators" rel="nofollow">Moderators</a></li></ul></div><a id="menumainlink_4" href="http://forum.letssingit.com">Forum</a></li>
+<li id="menucontainer_5" class="menu_tab"><div id="menusub_5" style="z-index:500"><ul><li style="background-color:#FFCC00;border-right:1px solid #64571f;border-left:1px solid #ffe26e;border-bottom:1px solid #64571f;border-top:1px solid #ffe26e"><span style="font:14px arial;color:black;line-height:19px">community</span></li><li><a href="http://members.letssingit.com">Overview</a></li><li style="background-color:#FFCC00;border-right:1px solid #64571f;border-left:1px solid #ffe26e;border-bottom:1px solid #64571f;border-top:1px solid #ffe26e"><span style="font:14px arial;color:black;line-height:19px">account</span></li><li><a href="http://my.letssingit.com/login_form" rel="nofollow">Login</a></li><li><a href="http://my.letssingit.com/register_form" rel="nofollow">Register</a></li><li><a href="http://my.letssingit.com/logindetails_resend_form" rel="nofollow">Lost Login Details</a></li></ul></div><a id="menumainlink_5" href="http://members.letssingit.com">Members</a></li>
+<li id="menucontainer_6" class="menu_tab"><a id="menumainlink_6" href="#" onclick="pop('http://www.letssingit.com/help',{w:700,h:550,r:1,s:0});return false;" rel="nofollow">Help</a></li>
+<li id="menucontainer_7" class="menu_tab"><a id="menumainlink_7" href="#" onclick="pop('http://www.letssingit.com/player',{w:410,h:770,r:0,s:0});return false;" rel="nofollow">LSI Player</a></li>
+
 <li class="menu_tab" style="width:100%">&nbsp;</li>
-<li id="menucontainer_9" class="menu_tab"><a id="menumainlink_9" href="#" onclick="XMLRequest_v5({query:'a=ajax_social',cors:1,lightbox:1});return false;" rel="nofollow">LIKE &amp; SHARE US!</a></li>
-<li class="menu_tab">FOLLOW US:</li>
+<li class="menu_tab"><a href="#" onclick="XMLRequest_v5({query:'a=ajax_social',cors:1,lightbox:1});return false;" rel="nofollow">Like &amp; Share us!</a></li>
+<li class="menu_tab">Follow us:</li>
 <li class="menu_fb"><a href="https://www.facebook.com/pages/LetsSingIt/126702790694758" target="_blank" rel="nofollow"><span>&nbsp;</span></a></li>
 <li class="menu_tw"><a href="https://twitter.com/letssingit" target="_blank" rel="nofollow"><span>&nbsp;</span></a></li>
 </ul>
@@ -174,12 +181,11 @@ site, or your dealings with this website, you can <a href="/contact">contact</a>
 <div class="footer">
 <div class="dark">
 <div id="adslot_20_1" class="advertisment"></div>
-<b>BROWSE:</b><br><a href="http://artists.letssingit.com/browse/a/1">A</a>&nbsp;<a href="http://artists.letssingit.com/browse/b/1">B</a>&nbsp;<a href="http://artists.letssingit.com/browse/c/1">C</a>&nbsp;<a href="http://artists.letssingit.com/browse/d/1">D</a>&nbsp;<a href="http://artists.letssingit.com/browse/e/1">E</a>&nbsp;<a href="http://artists.letssingit.com/browse/f/1">F</a>&nbsp;<a href="http://artists.letssingit.com/browse/g/1">G</a>&nbsp;<a href="http://artists.letssingit.com/browse/h/1">H</a>&nbsp;<a href="http://artists.letssingit.com/browse/i/1">I</a>&nbsp;<a href="http://artists.letssingit.com/browse/j/1">J</a>&nbsp;<a href="http://artists.letssingit.com/browse/k/1">K</a>&nbsp;<a href="http://artists.letssingit.com/browse/l/1">L</a>&nbsp;<a href="http://artists.letssingit.com/browse/m/1">M</a>&nbsp;<a href="http://artists.letssingit.com/browse/n/1">N</a>&nbsp;<a href="http://artists.letssingit.com/browse/o/1">O</a>&nbsp;<a href="http://artists.letssingit.com/browse/p/1">P</a>&nbsp;<a href="http://artists.letssingit.com/browse/q/1">Q</a>&nbsp;<a href="http://artists.letssingit.com/browse/r/1">R</a>&nbsp;<a href="http://artists.letssingit.com/browse/s/1">S</a>&nbsp;<a href="http://artists.letssingit.com/browse/t/1">T</a>&nbsp;<a href="http://artists.letssingit.com/browse/u/1">U</a>&nbsp;<a href="http://artists.letssingit.com/browse/v/1">V</a>&nbsp;<a href="http://artists.letssingit.com/browse/w/1">W</a>&nbsp;<a href="http://artists.letssingit.com/browse/x/1">X</a>&nbsp;<a href="http://artists.letssingit.com/browse/y/1">Y</a>&nbsp;<a href="http://artists.letssingit.com/browse/z/1">Z</a>&nbsp;<a href="http://artists.letssingit.com/browse/other/1">Other</a><br><br>
-<b>TOP ARTISTS:</b><br> <a href="http://artists.letssingit.com/lorde-hsdkg/overview">Lorde</a>, <a href="http://artists.letssingit.com/one-direction-bvx9n/overview">One Direction</a>, <a href="http://artists.letssingit.com/eminem-sngd2/overview">Eminem</a>, <a href="http://artists.letssingit.com/bruno-mars-1jwpw/overview">Bruno Mars</a>, <a href="http://artists.letssingit.com/macklemore-z287l/overview">Macklemore</a>, <a href="http://artists.letssingit.com/passenger-mvf5q/overview">Passenger</a>, <a href="http://artists.letssingit.com/imagine-dragons-kc49t/overview">Imagine Dragons</a>, <a href="http://artists.letssingit.com/avicii-fs2lz/overview">Avicii</a>, <a href="http://artists.letssingit.com/miley-cyrus-ccj26/overview">Miley Cyrus</a>, <a href="http://artists.letssingit.com/pink-xd91m/overview">Pink</a>, <a href="http://artists.letssingit.com/lana-del-rey-6gp96/overview">Lana Del Rey</a>, <a href="http://artists.letssingit.com/ed-sheeran-lktpz/overview">Ed Sheeran</a>, <a href="http://artists.letssingit.com/katy-perry-cbjs8/overview">Katy Perry</a>, <a href="http://artists.letssingit.com/dashboard-confessional-zcm63/overview">Dashboard Confessional</a>, <a href="http://artists.letssingit.com/taylor-swift-vp6xw/overview">Taylor Swift</a>, <a href="http://artists.letssingit.com/rihanna-9z9nx/overview">Rihanna</a>, <a href="http://artists.letssingit.com/julie-anne-san-jose-c765q/overview">Julie Anne San Jose</a>, <a href="http://artists.letssingit.com/jason-mraz-s5t19/overview">Jason Mraz</a>, <a href="http://artists.letssingit.com/jennifer-lopez-4r8dw/overview">Jennifer Lopez</a>, <a href="http://artists.letssingit.com/let-it-shine-ovm9t/overview">Let It Shine [2012]</a> <span class="category_info">movie</span>, <a href="http://artists.letssingit.com/drake-r7j26/overview">Drake</a>, <a href="http://artists.letssingit.com/onerepublic-h2w8c/overview">OneRepublic</a>, <a href="http://artists.letssingit.com/armin-van-buuren-4fflz/overview">Armin Van Buuren</a>, <a href="http://artists.letssingit.com/the-xx-v9ptf/overview">The XX</a>, <a href="http://artists.letssingit.com/the-twilight-saga-breaking-dawn-part-2-oxnh5/overview">The Twilight Saga: Breaking Dawn Part 2 [2012]</a> <span class="category_info">movie</span>, <a href="http://artists.letssingit.com/florence-and-the-machine-cdzkz/overview">Florence And The Machine</a>, <a href="http://artists.letssingit.com/justin-timberlake-b5445/overview">Justin Timberlake</a>, <a href="http://artists.letssingit.com/lady-gaga-q9tv7/overview">Lady Gaga</a>, <a href="http://artists.letssingit.com/robin-thicke-5n6n6/overview">Robin Thicke</a>, <a href="http://artists.letssingit.com/adam-levine-464hj/overview">Adam Levine</a>, <a href="http://artists.letssingit.com/michel-telo-3xv7w/overview">Michel Telo</a>, <a href="http://artists.letssingit.com/justin-bieber-qlswd/overview">Justin Bieber</a>, <a href="http://artists.letssingit.com/ellie-goulding-bmd53/overview">Ellie Goulding</a>, <a href="http://artists.letssingit.com/britney-spears-97267/overview">Britney Spears</a>, <a href="http://artists.letssingit.com/swedish-house-mafia-7hj18/overview">Swedish House Mafia</a>, <a href="http://artists.letssingit.com/avril-lavigne-44fm9/overview">Avril Lavigne</a>, <a href="http://artists.letssingit.com/wiz-khalifa-38h2q/overview">Wiz Khalifa</a>, <a href="http://artists.letssingit.com/mumford-and-sons-nrbfj/overview">Mumford &amp; Sons</a>, <a href="http://artists.letssingit.com/marc-anthony-m8dhp/overview">Marc Anthony</a>, <a href="http://artists.letssingit.com/cher-lloyd-2nvjv/overview">Cher Lloyd</a>, <a href="http://artists.letssingit.com/chris-brown-2vjbf/overview">Chris Brown</a>, <a href="http://artists.letssingit.com/nicki-minaj-5nrdn/overview">Nicki Minaj</a>, <a href="http://artists.letssingit.com/veronica-maggio-k7l99/overview">Veronica Maggio</a>, <a href="http://artists.letssingit.com/beyonce-lt8b5/overview">Beyonce</a>, <a href="http://artists.letssingit.com/adele-x4vk4/overview">Adele</a>, <a href="http://artists.letssingit.com/5-seconds-of-summer-872ms/overview">5 Seconds Of Summer</a>, <a href="http://artists.letssingit.com/linkin-park-14flv/overview">Linkin Park</a>, <a href="http://artists.letssingit.com/david-guetta-92ntj/overview">David Guetta</a>, <a href="http://artists.letssingit.com/celine-dion-kj2mb/overview">Celine Dion</a>, <a href="http://artists.letssingit.com/pitbull-2jqrt/overview">Pitbull</a></div>
+</div>
 <div class="yellow">
 <ul>
 <li class="ls"><a href="http://lyricsseal.org/" itemscope="" itemtype="http://lyricsseal.org/Lyrics" onclick="window.open('http://lyricsseal.com/check/letssingit.com/YzRlZmYyNDBlNDQ2NjM2YjA2ZWRiYTFkOGVlYzNlODk4MzAzZWQwM2U5OGJmN2RjM2EwZWIwMmE0OWZlYzNjYQ%3D%3D','ls','toolbar=0,status=0,scrollbars=1,width=560,height=600');return false;" title="Verify License letssingit.com" rel="nofollow">Verify License<span itemprop="licensedDomain">letssingit.com</span></a></li>
-<li class="copyright">Copyright © 1997-2013 <a href="http://www.letssingit.com" title="LetsSingIt">LetsSingIt</a><sup>®</sup> | <a href="http://www.letssingit.com/terms_of_use" rel="nofollow">terms of use</a> | <a href="http://www.letssingit.com/privacy_policy" rel="nofollow">privacy policy</a> | <a href="http://www.letssingit.com/advertise" rel="nofollow">advertise on this site</a></li>
+<li class="copyright">Copyright © 1997-2014 <a href="http://www.letssingit.com" title="LetsSingIt">LetsSingIt</a><sup>®</sup> | <a href="http://www.letssingit.com/terms_of_use" rel="nofollow">terms of use</a> | <a href="http://www.letssingit.com/privacy_policy" rel="nofollow">privacy policy</a> | <a href="http://www.letssingit.com/advertise" rel="nofollow">advertise on this site</a></li>
 <li class="cf">&nbsp;</li>
 <li class="mtv">&nbsp;</li>
 </ul>
@@ -188,36 +194,18 @@ site, or your dealings with this website, you can <a href="/contact">contact</a>
 </div>
 
 <div id="adslot_41_1" class="advertisment"></div>
-<div id="adslot_60_1" class="advertisment"></div>
+
+<script type="text/javascript" src="http://cdn.lsistatic.com/top.js?2014052601" id="base_script"></script>
 
 <script type="text/javascript">
-var section_ids={'home':1,'artists':2,'forum':3,'chat':4,'members':5,'poll':6};
-if('home'){var sec=document.getElementById('menumainlink_'+section_ids['home']).style.color='#53bae6';}
-if(''=='1'&&document.getElementById('membertools'))document.getElementById('membertools').style.display='block';
-if(''=='1'&&document.getElementById('nonmodtools'))document.getElementById('nonmodtools').style.display='none';
-if(''=='1'&&document.getElementById('moderatortools'))document.getElementById('moderatortools').style.display='block';
-if(''=='1'&&document.getElementById('administratortools'))document.getElementById('administratortools').style.display='block';
-</script>
-
-<script type="text/javascript" src="http://cdn.lsistatic.com/top.js?2013101601" id="base_script"></script>
-
-<script type="text/javascript">
-var feat_song_slides =
-[
-"<P style='font:bold 10px arial;margin:0;text-align:center'>Today's Featured Song</P><P style='font:bold 12px verdana;margin:0;text-align:center'>LISTEN & VOTE!</P>",
-"<P style='font:bold 10px arial;margin:0;text-align:center'>Sophie Ellis Bextor - Young Blood</P>"
-];
-
-feat_song_slide = function(i) { ge('container_feat_song').innerHTML = feat_song_slides[i]; setTimeout(function(){feat_song_slide(i?0:1)},4000); }
-feat_song_slide(0);
-
+if('1'&&ge('menumainlink_1'))ge('menumainlink_1').style.color='#53bae6';
 script_loc='/cgi-exe/am.cgi';
 menu.init();
-clock.init(1385079208);
-setSearchBox("");
+clock.init(1401976787);
+_search.setSearchBox("","1");
 //traySync();
-if('')document.getElementsByTagName('head')[0].appendChild(_ce('style',{type:'text/css',innerHTML:'.members_off{display:none}'}));
-advertising.init({keywords:{artist:'One%20Direction'},a:'www_privacy_policy',sv:'1'});
+if('')ge('join_button').style.visibility='hidden';
+advertising.init({keywords:{artist:'5%20Seconds%20Of%20Summer'},a:'www_privacy_policy',sv:'1'});
 var _gaq=_gaq||[];_gaq.push(['_setAccount','UA-2765041-1']);_gaq.push(['_setDomainName','letssingit.com']);_gaq.push(['_trackPageview']);
 _fw.loadModule({type:'script',url:'http://www.google-analytics.com/ga.js'});
 tooltip_activate.init();
@@ -225,6 +213,55 @@ _fw.run({f:'COMSCORE.beacon',a:[{c1:2,c2:"6772046",c3:"",c4:"www.letssingit.com/
 </script>
 
 
+
+<script>
+advertising.liveStatus = function() {
+  var e = getElementsByTagAndAttribute({tag:'DIV',attr:'className',attr_val:'advertisment',attr_match:'exact'});
+  var rows = new Array();
+  var slot_names_hp = {'12_1':'leaderboard - top','5_1':'rectangle - right column','20_1':'leaderboard - bottom','60_1':'billboard - top','7_1':'skycraper - left','70_1':'tonefuse - top','69_1':'tonefuse - bottom','4_1':'standard banner - in text','41_1':'leaderboard - footer'}
+
+	for(var i in e) {
+    var cells       = new Array();
+    var slot_id     = e[i].id.split("_").slice(1).join("_");
+    var iframe      = function() { var iframes = ge(e[i].id).getElementsByTagName('IFRAME'); return iframes.length?iframes[0]:null; }();
+    if (iframe == null) continue;
+    var doc         = advertising.getIframeDocument(iframe);
+    var html_source = doc.getElementsByTagName('HTML')[0].innerHTML;
+    var cid         = html_source.match(/,"cid":"(\d+)",/)[1];
+    var size        = iframe.offsetWidth+'x'+iframe.offsetHeight;
+
+    advertising.malwareScan(cid,html_source);
+
+    cells.push('<TD>'+slot_id+'</TD>');
+    cells.push('<TD>'+size+'</TD>');
+    cells.push('<TD>'+(slot_names_hp[slot_id]||'?')+'</TD>');
+    cells.push('<TD><A target=_blank href="http://system.letssingit.com/cgi-bin/am.cgi?a=advertising_report&report=campaign&sort=s2&order=d&sel1=advertiser&sel2='+cid+'&sel3=1072&group_by=day&country_code=0&zero=yes&status=online">'+cid+'</A></TD>');
+    cells.push('<TD><A href="http://my.letssingit.com/cgi-exe/am.cgi?a=my_messages_send_form&recipient=Ray&reload=1&subject=Campaign%20report:%20'+cid+'%20('+size+')&messagex=[b]DESCRIPTION%20PROBLEM[/b]%0D%0D...%0D%0D[b]CAMPAIGN ID[/b]%0D%0D'+cid+'%0D%0D[b]IFRAME%20CODE[/b]%0D%0D'+encodeURIComponent(html_source)+'" target=_blank>save</A></TD>');
+    rows.push('<TR>'+cells.join('')+'</TR>');
+  }
+
+  var table = '<STYLE>.aaa TD{padding:3px 6px 3px 6px}</STYLE><TABLE class=aaa style="border-collapse:collapse"><TR><TH>slot id</TH><TH>size</TH><TH>type</TH><TH>campaign id</TH><TH>report</TH></TR>'+rows.join('')+'</TABLE>';
+  
+  lightbox({'body':'<H2>active ads</H2>'+table,maxwidth:600});
+}
+
+advertising.malwareScan = function(cid,code,patterns_ap) {
+  if (typeof patterns_ap == "undefined") patterns_ap = ['r2games.com','lpmxp2.com','location.replace=','location.href='];
+
+  var found = {};
+
+  for (var i in patterns_ap) {
+    if (code.indexOf(patterns_ap[i]) > -1) found[patterns_ap[i]] = code;
+  }
+
+  for (var p in found) {
+	  //console.log('malware scan:'+cid+':'+p);
+	  _log('ad_malwarescan',cid+':'+p);
+  }
+  
+  return;
+}
+</script>
 
 
 </body></html>
