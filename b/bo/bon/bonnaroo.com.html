@@ -1,708 +1,479 @@
-<!--The following is the downloaded HTML source of the bonnaroo.com privacy policy that was archived on 2013-09-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130930014423id_/http%3A//www.bonnaroo.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bonnaroo.com privacy policy that was archived on 2014-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140605190216id_/http%3A//www.bonnaroo.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
-	<meta charset="UTF-8">
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml" lang="en" dir="ltr"><head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script async="" src="https://connect.facebook.net/en_US/fbds.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" async="" src="http://d2j6ndaroqwcar.cloudfront.net/sites/default/files/googleanalytics/ga.js?n6pkaz"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQAGWVFTGwEFUVBaDwQ="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+<meta property="og:url" content="http://www.bonnaroo.com/privacy">
+<meta property="og:site_name" content="Bonnaroo">
+<link rel="shortcut icon" href="http://d2j6ndaroqwcar.cloudfront.net/sites/default/files/favicon.ico" type="image/vnd.microsoft.icon">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+<meta property="og:image" content="http://www.bonnaroo.com/sites/default/files/content-files/images/bonnaroo.png">
+<meta property="og:title" content="Privacy Policy">
+<meta http-equiv="x-dns-prefetch-control" content="on">
+<link rel="dns-prefetch" href="//d2j6ndaroqwcar.cloudfront.net">
+<link rel="canonical" href="/privacy">
+<link rel="shortlink" href="/node/302">
+<meta property="og:description" content="Privacy Policy">
+  <title>Privacy Policy | Bonnaroo</title>  
+  <link type="text/css" rel="stylesheet" href="http://d2j6ndaroqwcar.cloudfront.net/sites/default/files/cdn/css/http/css_rNxJUi6tGNJa_nTi0rk7vkikysdOqrVI4F5XCh6UfVo.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://d2j6ndaroqwcar.cloudfront.net/sites/default/files/cdn/css/http/css_3gkPD_5um9ig7oSRgpKpqVqwcARxdDcmqCgaELdQLLs.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://d2j6ndaroqwcar.cloudfront.net/sites/default/files/cdn/css/http/css_C33ryJ5i3h4KDoA7bKtqB1hbQliNAd769dBssbKeEVE.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://d2j6ndaroqwcar.cloudfront.net/sites/default/files/cdn/css/http/css_1173qRVR06X9sVoniAQdQ1dX-5HLms_djVgvm4T210Q.css" media="all">
 
-	<title>Privacy | Bonnaroo</title>
-	
-	<!-- Mobile viewport optimized: j.mp/bplateviewport -->
-	<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0">
-	
-	
-	<!-- Included Foundation CSS Files -->
-	<link rel="stylesheet" href="http://www.bonnaroo.com/wp-content/themes/bonnaroo2k13/css/foundation.css">
-	<link rel="stylesheet" href="http://www.bonnaroo.com/wp-content/themes/bonnaroo2k13/css/app.css">
-	<link rel="stylesheet" href="http://www.bonnaroo.com/wp-content/themes/bonnaroo2k13/style.css">
-	
-	<!--[if gt IE 8]><!-->
-	<link rel="stylesheet" href="http://www.bonnaroo.com/wp-content/themes/bonnaroo2k13/css/mobile.css">
-	<!--<![endif]-->
-	
-	<!--[if IE]>
-	<link rel="stylesheet" href="http://www.bonnaroo.com/wp-content/themes/bonnaroo2k13/css/ie.css">
-	<![endif]-->
-	
-	<!-- IE Fix for HTML5 Tags -->
-	<!--[if lt IE 9]>
-	<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-	<![endif]-->
-	
-	<!-- Favicon and Feed -->
-	<link rel="shortcut icon" href="http://www.bonnaroo.com/wp-content/themes/bonnaroo2k13/favicon.ico">
-	<link rel="alternate" type="application/rss+xml" title="Bonnaroo Feed" href="http://www.bonnaroo.com/feed/">
-	
-	<!--  iPhone Web App Home Screen Icon -->
-	<link rel="apple-touch-icon-precomposed" href="http://www.bonnaroo.com/wp-content/themes/bonnaroo2k13/images/devices/bonnaroo-touch-icon.png">	
-	
-	<!-- Grab Google CDN's jQuery, with a protocol relative URL; fall back to local if offline -->
-	<!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-	<script>window.jQuery || document.write('<script src="http://www.bonnaroo.com/wp-content/themes/bonnaroo2k13/js/libs/jquery-1.6.4.min.js"><\/script>')</script>-->
-	
-		<!--<script src="http://www.bonnaroo.com/wp-content/themes/bonnaroo2k13/js/libs/jquery-1.7.1.min.js"></script>-->
-	
-	<!-- All JavaScript at the bottom, except for Modernizr / Respond.
-	     Modernizr enables HTML5 elements & feature detects; Respond is a polyfill for min/max-width CSS3 Media Queries
-	     For optimal performance, use a custom Modernizr build: www.modernizr.com/download/ -->
-	<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=132733303561181"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://www.bonnaroo.com/wp-content/themes/bonnaroo2k13/js/libs/modernizr-2.0.6.min.js"></script>
-	
-	<!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-	<script src="http://www.bonnaroo.com/wp-content/themes/bonnaroo2k13/js/libs/fancybox/jquery.easing-1.3.pack.js"></script>
-	<script src="http://www.bonnaroo.com/wp-content/themes/bonnaroo2k13/js/libs/fancybox/jquery.fancybox-1.3.4.pack.js"></script>-->
-	
-	<link rel="stylesheet" id="thickbox-css" href="http://www.bonnaroo.com/wp-content/themes/bonnaroo2k13/js/libs/fancybox/jquery.fancybox.css" type="text/css" media="all">
-	<link rel="stylesheet" href="http://www.bonnaroo.com/wp-content/themes/bonnaroo2k13/css/jquery.tweet.css" type="text/css">
-	<link rel="stylesheet" href="http://www.bonnaroo.com/wp-content/themes/bonnaroo2k13/css/jquery.jscrollpane.css" type="text/css">
-	
-	<!-- Included JS Files of Foundation -->
-	<script src="http://www.bonnaroo.com/wp-content/themes/bonnaroo2k13/js/foundation.js"></script>
-	<script src="http://www.bonnaroo.com/wp-content/themes/bonnaroo2k13/js/app.js"></script>
-	
-	<script src="http://www.bonnaroo.com/wp-content/themes/bonnaroo2k13/js/libs/jquery-ui-1.8.16.custom.min.js"></script>
-	<script src="http://www.bonnaroo.com/wp-content/themes/bonnaroo2k13/js/libs/fancybox/jquery.easing-1.3.pack.js"></script>
-	<script src="http://www.bonnaroo.com/wp-content/themes/bonnaroo2k13/js/libs/fancybox/jquery.fancybox.pack.js"></script>
-	<script src="http://www.bonnaroo.com/wp-content/themes/bonnaroo2k13/js/libs/jquery.masonry.js"></script>
-	<script src="http://www.bonnaroo.com/wp-content/themes/bonnaroo2k13/js/libs/jquery.tweet.js"></script>
-	<script src="http://www.bonnaroo.com/wp-content/themes/bonnaroo2k13/js/libs/jquery.mousewheel.js"></script>
-	<script src="http://www.bonnaroo.com/wp-content/themes/bonnaroo2k13/js/libs/jquery.fitvids.min.js"></script>
-	<!--<script src="http://www.bonnaroo.com/wp-content/themes/bonnaroo2k13/js/libs/jquery.jscrollpane.min.js"></script>-->
-	<script src="http://www.bonnaroo.com/wp-content/themes/bonnaroo2k13/js/libs/jquery.tinyscrollbar.js"></script>
-	<script src="http://www.bonnaroo.com/wp-content/themes/bonnaroo2k13/js/libs/jwplayer/jwplayer.js"></script>
-    <script src="http://www.bonnaroo.com/wp-content/themes/bonnaroo2k13/js/libs/jquery.cookie.js"></script>
-	<!--<script src="http://www.bonnaroo.com/wp-content/themes/bonnaroo2k13/js/proto.js"></script>-->
-		
-		<script type="text/javascript" src="http://www.bonnaroo.com/wp-includes/js/comment-reply.min.js?ver=3.5.2"></script>
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.bonnaroo.com/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.bonnaroo.com/wp-includes/wlwmanifest.xml"> 
-<link rel="prev" title="Partners" href="http://www.bonnaroo.com/partners/">
-<link rel="next" title="Gallery Test" href="http://www.bonnaroo.com/gallery-test/">
-<link rel="canonical" href="http://www.bonnaroo.com/privacy/">
-<script type="text/javascript" src="http://www.bonnaroo.com/wp-content/plugins/prod-media/royalslider/royal-slider-8.1.js"></script><script type="text/javascript" src="http://www.bonnaroo.com/wp-content/plugins/prod-media/js/prod_media.js"></script><link rel="stylesheet" href="http://www.bonnaroo.com/wp-content/plugins/prod-media/css/royalslider.css"><link rel="stylesheet" href="http://www.bonnaroo.com/wp-content/plugins/prod-media/css/default.css"><link rel="stylesheet" href="http://www.bonnaroo.com/wp-content/plugins/prod-media/css/prod-media.css">	
-	<script src="http://www.bonnaroo.com/wp-content/themes/bonnaroo2k13/js/bonnaroo.js"></script>
-	
-	
-	<script type="text/javascript">
+<!--[if (lt IE 9)&(!IEMobile)]>
+<link type="text/css" rel="stylesheet" href="http://d2j6ndaroqwcar.cloudfront.net/sites/default/files/cdn/css/http/css_uHl4VfAK1wzvVLmsfi4dZjSCIQDqXk1w-CpXIeFLJdU.css" media="all" />
+<![endif]-->
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-1158508-4']);
-  _gaq.push(['_setDomainName', 'bonnaroo.com']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-
-</script>
-	
+<!--[if gte IE 9]><!-->
+<link type="text/css" rel="stylesheet" href="http://d2j6ndaroqwcar.cloudfront.net/sites/default/files/cdn/css/http/css_LCFnTy2Z3dNNB3zfXZ6tmguPJFK0e49dggDz2loorII.css" media="all">
+<!--<![endif]-->
+  
+  <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
 </head>
-
-<body class="page page-id-298 page-template page-template-page-full-php">
-
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-    var js, fjs = d.getElementsByTagName(s)[0];
-    if (d.getElementById(id)) return;
-    js = d.createElement(s); js.id = id;
-    js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=132733303561181";
-    fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-
-<div style="display: none;">
-	<div style="width:auto;height:auto;overflow: auto;position:relative;">
-		<div id="media_explorer">media goes here</div>
-	</div>
-</div>
-
-<div id="mobile-sidebar">
-    <dl class="mobile-nav"><dd id="menu-item-9284" class="lineup"><div class="nav-row"><div class="expand-nav"></div><a href="http://lineup.bonnaroo.com">Lineup</a></div>
-<ul class="sub-menu">
-	<dd id="menu-item-15112" class="past-lineups"><div class="nav-row"><div class="expand-nav"></div><a href="http://lineup.bonnaroo.com/past/2013">Past Lineups</a></div>
-</dd></ul>
-
-</dd><dd id="menu-item-7500" class="tickets"><div class="nav-row"><div class="expand-nav"></div><a href="http://www.bonnaroo.com/tickets/">Tickets</a></div>
-<ul class="sub-menu">
-	<dd id="menu-item-7501" class="tickets"><div class="nav-row"><div class="expand-nav"></div><a href="http://www.bonnaroo.com/tickets/">Tickets</a></div>
-	</dd><dd id="menu-item-10070" class="wristband-info"><div class="nav-row"><div class="expand-nav"></div><a href="http://www.bonnaroo.com/tickets/wristband-info/">Wristband Info</a></div>
-	</dd><dd id="menu-item-1966" class="rv-rental"><div class="nav-row"><div class="expand-nav"></div><a href="http://www.bonnaroo.com/tickets/rv-rental/">RV Rental</a></div>
-	</dd><dd id="menu-item-1715" class="tent-rental"><div class="nav-row"><div class="expand-nav"></div><a href="http://www.bonnaroo.com/tickets/tent-city/">Tent Rental</a></div>
-	</dd><dd id="menu-item-7502" class="payment-plan"><div class="nav-row"><div class="expand-nav"></div><a href="http://www.bonnaroo.com/tickets/payment-plan/">Payment Plan</a></div>
-	</dd><dd id="menu-item-2104" class="groop-camping"><div class="nav-row"><div class="expand-nav"></div><a href="http://www.bonnaroo.com/tickets/groop-camping/">Groop Camping</a></div>
-	</dd><dd id="menu-item-91" class="roll-like-a-rockstar"><div class="nav-row"><div class="expand-nav"></div><a href="http://www.bonnaroo.com/tickets/roll-like-a-rockstar/">Roll Like a Rockstar</a></div>
-	</dd><dd id="menu-item-1967" class="travel-packages"><div class="nav-row"><div class="expand-nav"></div><a href="http://www.bonnaroo.com/tickets/travel-packages/">Travel Packages</a></div>
-	</dd><dd id="menu-item-1968" class="hotels"><div class="nav-row"><div class="expand-nav"></div><a href="http://www.bonnaroo.com/tickets/hotels/">Hotels</a></div>
-</dd></ul>
-
-</dd><dd id="menu-item-2087" class="info"><div class="nav-row"><div class="expand-nav"></div><a href="/festival-info/">Info</a></div>
-<ul class="sub-menu">
-	<dd id="menu-item-2074" class="festival-info"><div class="nav-row"><div class="expand-nav"></div><a href="http://www.bonnaroo.com/festival-info/">Festival Info</a></div>
-	</dd><dd id="menu-item-10617" class="festival-map"><div class="nav-row"><div class="expand-nav"></div><a href="http://www.bonnaroo.com/map/">Festival Map</a></div>
-	</dd><dd id="menu-item-2080" class="safety"><div class="nav-row"><div class="expand-nav"></div><a href="http://www.bonnaroo.com/festival-info/safety/">Safety</a></div>
-	</dd><dd id="menu-item-2081" class="camping"><div class="nav-row"><div class="expand-nav"></div><a href="http://www.bonnaroo.com/festival-info/camping/">Camping</a></div>
-	</dd><dd id="menu-item-2082" class="travel"><div class="nav-row"><div class="expand-nav"></div><a href="http://www.bonnaroo.com/festival-info/travel/">Travel</a></div>
-	</dd><dd id="menu-item-2084" class="entry"><div class="nav-row"><div class="expand-nav"></div><a href="http://www.bonnaroo.com/festival-info/entry-2/">Entry</a></div>
-	</dd><dd id="menu-item-2085" class="facilities"><div class="nav-row"><div class="expand-nav"></div><a href="http://www.bonnaroo.com/festival-info/facilities/">Facilities</a></div>
-	</dd><dd id="menu-item-2086" class="food-and-drink"><div class="nav-row"><div class="expand-nav"></div><a href="http://www.bonnaroo.com/festival-info/food-and-drink/">Food and Drink</a></div>
-	</dd><dd id="menu-item-2149" class="access-for-patrons-with-disabilities"><div class="nav-row"><div class="expand-nav"></div><a href="http://www.bonnaroo.com/festival-info/access-for-patrons-with-disabilities/">Access for Patrons with Disabilities</a></div>
-	</dd><dd id="menu-item-13893" class="bonnaroo-census-"><div class="nav-row"><div class="expand-nav"></div><a href="http://www.bonnaroo.com/bonnaroo-census/">Bonnaroo Census</a></div>
-</dd></ul>
-
-</dd><dd id="menu-item-1757" class="activities"><div class="nav-row"><div class="expand-nav"></div><a href="http://www.bonnaroo.com/activities/connect/">Activities</a></div>
-<ul class="sub-menu">
-	<dd id="menu-item-148" class="connect"><div class="nav-row"><div class="expand-nav"></div><a href="http://www.bonnaroo.com/activities/connect/">Connect</a></div>
-	</dd><dd id="menu-item-153" class="arts--entertainment"><div class="nav-row"><div class="expand-nav"></div><a href="http://www.bonnaroo.com/activities/entertainment-fun/">Arts &amp; Entertainment</a></div>
-	</dd><dd id="menu-item-10071" class="cinema"><div class="nav-row"><div class="expand-nav"></div><a href="http://www.bonnaroo.com/cinema/">Cinema</a></div>
-	</dd><dd id="menu-item-149" class="eat--drink"><div class="nav-row"><div class="expand-nav"></div><a href="http://www.bonnaroo.com/activities/eat-drink/">Eat &amp; Drink</a></div>
-	</dd><dd id="menu-item-152" class="goods--trading"><div class="nav-row"><div class="expand-nav"></div><a href="http://www.bonnaroo.com/activities/goods-trading/">Goods &amp; Trading</a></div>
-	</dd><dd id="menu-item-1669" class="environment-health--wellness"><div class="nav-row"><div class="expand-nav"></div><a href="http://www.bonnaroo.com/activities/environment-health-wellness/">Environment, Health &amp; Wellness</a></div>
-	</dd><dd id="menu-item-150" class="relaxation"><div class="nav-row"><div class="expand-nav"></div><a href="http://www.bonnaroo.com/activities/relaxation/">Relaxation</a></div>
-	</dd><dd id="menu-item-10306" class="yogaroo"><div class="nav-row"><div class="expand-nav"></div><a href="http://www.bonnaroo.com/activities/yoga-roo/">Yoga-Roo</a></div>
-	</dd><dd id="menu-item-10307" class="roo-run"><div class="nav-row"><div class="expand-nav"></div><a href="http://www.bonnaroo.com/activities/roo-run/">Roo Run</a></div>
-	</dd><dd id="menu-item-13892" class="bonnaroo-census-"><div class="nav-row"><div class="expand-nav"></div><a href="http://www.bonnaroo.com/bonnaroo-census/">Bonnaroo Census</a></div>
-</dd></ul>
-
-</dd><dd id="menu-item-24" class="news"><div class="nav-row"><div class="expand-nav"></div><a href="http://www.bonnaroo.com/news/">NEws</a></div>
-<ul class="sub-menu">
-	<dd id="menu-item-239" class="news--updates"><div class="nav-row"><div class="expand-nav"></div><a href="http://www.bonnaroo.com/category/news/news-and-updates/">News &amp; Updates</a></div>
-	</dd><dd id="menu-item-238" class="good-stuff"><div class="nav-row"><div class="expand-nav"></div><a href="http://www.bonnaroo.com/category/news/the-good-stuff/">Good Stuff</a></div>
-	</dd><dd id="menu-item-8938" class="radio-bonnaroo"><div class="nav-row"><div class="expand-nav"></div><a href="http://bonnaroo.com/category/news/radio-bonnaroo/">Radio Bonnaroo</a></div>
-</dd></ul>
-
-</dd><dd id="menu-item-9204" class="365"><div class="nav-row"><div class="expand-nav"></div><a href="http://www.bonnaroo.com/program-guide/">365</a></div>
-<ul class="sub-menu">
-	<dd id="menu-item-9206" class="program-guide"><div class="nav-row"><div class="expand-nav"></div><a href="http://www.bonnaroo.com/program-guide/">Program Guide</a></div>
-	</dd><dd id="menu-item-9207" class="videos"><div class="nav-row"><div class="expand-nav"></div><a href="/videos">Videos</a></div>
-	</dd><dd id="menu-item-9429" class="bricabrac"><div class="nav-row"><div class="expand-nav"></div><a href="http://www.bonnaroo.com/bric-a-brac">Bric-a-Brac</a></div>
-</dd></ul>
-
-</dd><dd id="menu-item-23" class="media"><div class="nav-row"><div class="expand-nav"></div><a href="http://www.bonnaroo.com/photos/">MEDIA</a></div>
-<ul class="sub-menu">
-	<dd id="menu-item-4029" class="photos"><div class="nav-row"><div class="expand-nav"></div><a href="http://www.bonnaroo.com/photos/">Photos</a></div>
-	</dd><dd id="menu-item-9208" class="videos"><div class="nav-row"><div class="expand-nav"></div><a href="/videos">Videos</a></div>
-	</dd><dd id="menu-item-5279" class="press"><div class="nav-row"><div class="expand-nav"></div><a href="http://www.bonnaroo.com/press/">Press</a></div>
-	</dd><dd id="menu-item-2305" class="apps"><div class="nav-row"><div class="expand-nav"></div><a href="http://www.bonnaroo.com/apps/">Apps</a></div>
-	</dd><dd id="menu-item-2306" class="backgrounds"><div class="nav-row"><div class="expand-nav"></div><a href="http://www.bonnaroo.com/backgrounds/">Backgrounds</a></div>
-</dd></ul>
-
-</dd><dd id="menu-item-8992" class="get-involved"><div class="nav-row"><div class="expand-nav"></div><a href="http://www.bonnaroo.com/get-involved/bonnaroo-works-fund/">Get InvolveD</a></div>
-<ul class="sub-menu">
-	<dd id="menu-item-13891" class="bonnaroo-census-"><div class="nav-row"><div class="expand-nav"></div><a href="http://www.bonnaroo.com/bonnaroo-census/">Bonnaroo Census</a></div>
-	</dd><dd id="menu-item-210" class="bonnaroo-works-fund"><div class="nav-row"><div class="expand-nav"></div><a href="http://www.bonnaroo.com/get-involved/bonnaroo-works-fund/">Bonnaroo Works Fund</a></div>
-	</dd><dd id="menu-item-211" class="contests"><div class="nav-row"><div class="expand-nav"></div><a href="http://www.bonnaroo.com/get-involved/contests/">Contests</a></div>
-	</dd><dd id="menu-item-212" class="sustainability"><div class="nav-row"><div class="expand-nav"></div><a href="http://www.bonnaroo.com/get-involved/greening/">Sustainability</a></div>
-	</dd><dd id="menu-item-1979" class="partners"><div class="nav-row"><div class="expand-nav"></div><a href="http://www.bonnaroo.com/partners/">Partners</a></div>
-	</dd><dd id="menu-item-15110" class="nonprofit-partners"><div class="nav-row"><div class="expand-nav"></div><a href="http://www.bonnaroo.com/get-involved/non-profit-partners/">Non-Profit Partners</a></div>
-	</dd><dd id="menu-item-213" class="vendors"><div class="nav-row"><div class="expand-nav"></div><a href="http://www.bonnaroo.com/get-involved/vendors/">Vendors</a></div>
-	</dd><dd id="menu-item-214" class="volunteers"><div class="nav-row"><div class="expand-nav"></div><a href="http://www.bonnaroo.com/get-involved/volunteers/">Volunteers</a></div>
-</dd></ul>
-
-</dd><dd id="menu-item-198" class="shop"><div class="nav-row"><div class="expand-nav"></div><a href="http://bonnaroo.shop.musictoday.com/">SHOP</a></div>
-</dd></dl></div>
-
+<body class="html not-front not-logged-in page-node page-node- page-node-302 node-type-basic-page context-privacy">
+    <div id="fb-root"></div>
+	
+    
 <div id="page-wrapper">
-		    <div id="header-top-bar" class="container">
-	        <div class="row">
-	            <div id="social-email">
-	                <div class="header-bar-social">
-	                    <a class="mobile-nav-button"></a>
-	                    <div class="icons-bar-right"></div>
-	                    <div class="icons-bar-left"></div>
-	                    <div class="menu-social-link-container"><ul id="menu-social-link" class="menu"><li id="nav-facebook" class="facebook"><a href="https://www.facebook.com/bonnaroo">Facebook</a></li>
-<li id="nav-twitter" class="twitter"><a href="http://twitter.com/bonnaroo">twitter</a></li>
-<li id="nav-instagram" class="instagram"><a href="http://instagram.com/bonnaroo">instagram</a></li>
-<li id="nav-youtube" class="youtube"><a href="http://www.youtube.com/bonnaroo365">youTube</a></li>
-<li id="nav-spotify" class="spotify"><a href="http://open.spotify.com/user/127594937">spotify</a></li>
-<li id="nav-google" class="google"><a href="https://plus.google.com/u/0/b/114379659339350858190/">Google+</a></li>
-<li id="nav-tumblr" class="tumblr"><a href="http://bonnaroo.tumblr.com/">tumblr</a></li>
-<li id="nav-apps" class="apps"><a href="http://www.bonnaroo.com/apps/">Apps</a></li>
-<li id="nav-radio" class="radio"><a href="http://www.iheart.com/live/Bonnaroo-Radio-6160/?autoplay=true">Radio</a></li>
-</ul></div>	                </div>
-	                <div class="header-bar-newsletter">
-	                    <div class="icons-bar-right"></div>
-	                    <div class="icons-bar-left"></div>
-	                    <div class="newsletter">
-	                        <a class="fake-email opaque-white" data-reveal-id="newsletter-form" href="#">
-	                            <span class="copy">Get Updates!</span>
-	                            <div class="newsletter-input">
-	                                <span class="newsletter-button">»</span>
-	                                <div class="newsletter-email"><span>Enter Email</span></div>
-	                            </div>
-	                        </a>
-	                    </div>
-	                </div>
-	            </div>
-	        </div>
-	    </div>
-	
-	<!-- Start the main container -->
-	<div id="container" class="container head-gradient clearfix" role="document">
-			        <!-- begin logo header -->
-			<div id="header" class="row">
-				<header class="twelve columns" role="banner">
-	                <div id="header-clocktower"></div>
-                    <div id="header-yoyo" class="thankyou"></div>
-	                	                <!-- <div id="header-discoball-on-sale" class="header-discoball ">
-	                    <a href="http://www.bonnaroo.com/tickets/"></a><div class="header-bubble-text"><a href="http://www.bonnaroo.com/tickets/">Click for Ticket Info</a></div>
-	                </div> -->
+    <div id="page">
+         <header id="section-header" class="section section-header">
+  <div id="zone-branding-wrapper" class="zone-wrapper zone-branding-wrapper clearfix">  
+  <div class="branding-cloud-bg"></div>
+  <div class="branding-dots"></div>
+  <div class="branding-mast"></div>
+  <div id="zone-branding" class="zone zone-branding clearfix container-24">      
+    <div class="grid-24 region region-branding" id="region-branding">
+	<a class="connect-button" href="#connect-modal">
+        <span>Connect With Us</span>
+        <span class="ar">&gt;</span>
+    </a>
+	<h1 class="logo">
+		<a href="/" title="2014 Bonnaroo Music Festival">2014 Bonnaroo Music Festival</a>
+	</h1>
+	<div class="region-inner region-branding-inner">
+		<div class="block block-block block-49 block-block-49 odd block-without-title" id="block-block-49">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <p><a class="page-burst" href="tickets"><span style="font-size: 1.99rem;line-height: 2.0rem;margin-top: -6px;border-top: 0;">TICKETS</span> <span style="font-size: 2.1rem;line-height: 2.0rem;border-top: 0;border-bottom: 3px dotted #000;">ON SALE</span> <span class="ln" style="font-size: 1.99rem;line-height: 1.9rem;border-bottom: 0;margin-top: 3px;">NOW</span> </a></p>
+    </div>
+  </div>
+</div>	</div>
+    
+</div>  </div>
+</div><div id="zone-navigation-wrapper" class="zone-wrapper zone-navigation-wrapper clearfix">  
+  <div id="zone-navigation" class="zone zone-navigation clearfix container-24">
+    <div class="grid-24 region region-main-navigation" id="region-main-navigation">
+    <!-- <div class='navigation-bg'></div> -->
+  <div class="region-inner region-main-navigation-inner">
+    <div class="block block-menu-block block-1 block-menu-block-1 odd block-without-title" id="block-menu-block-1">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first expanded menu-mlid-549"><a href="/tickets" id="tickets-li" class="tickets">Tickets &amp; Accommodations</a><ul class="menu"><li class="first leaf has-children menu-mlid-581"><a href="/tickets" title="Tickets &amp; Accommodations">Tickets</a></li>
+<li class="leaf has-children menu-mlid-579"><a href="/on-site-accommodations">On-Site Accommodations</a></li>
+<li class="last leaf has-children menu-mlid-580"><a href="/hotels-shuttles">Hotels + Shuttles</a></li>
+</ul></li>
+<li class="expanded menu-mlid-550"><a href="http://lineup.bonnaroo.com">Lineup</a><ul class="menu"><li class="first leaf menu-mlid-2134"><a href="http://lineup.bonnaroo.com/">2014 Lineup</a></li>
+<li class="leaf menu-mlid-2138"><a href="http://lineup.bonnaroo.com/schedule">2014 Schedule</a></li>
+<li class="leaf menu-mlid-2132"><a href="/activities/cinema">Bonnaroo Cinema</a></li>
+<li class="last leaf menu-mlid-720"><a href="http://lineup.bonnaroo.com/past/2013">Past Lineups</a></li>
+</ul></li>
+<li class="expanded menu-mlid-418"><a href="/activities">Activities</a><ul class="menu"><li class="first leaf menu-mlid-2127"><a href="/activities/cinema">Cinema</a></li>
+<li class="leaf menu-mlid-2139"><a href="/activities/christmas-barn">Christmas Barn</a></li>
+<li class="leaf menu-mlid-2140"><a href="/activities/kalliope">Kalliope</a></li>
+<li class="leaf menu-mlid-582"><a href="/activities/arts-entertainment">Arts + Entertainment</a></li>
+<li class="leaf menu-mlid-584"><a href="/activities/connect">Connect</a></li>
+<li class="leaf menu-mlid-586"><a href="/activities/eat-drink">Eat + Drink</a></li>
+<li class="leaf menu-mlid-585"><a href="/activities/environment-health-wellness">Environment, Health &amp; Wellness</a></li>
+<li class="leaf menu-mlid-587"><a href="/activities/goods-gifts">Goods + Gifts</a></li>
+<li class="last leaf menu-mlid-583"><a href="/activities/work-it-out">Work It Out</a></li>
+</ul></li>
+<li class="expanded menu-mlid-419"><a href="/festival-info">Festival Info</a><ul class="menu"><li class="first leaf menu-mlid-603"><a href="/festival-info#the-code">The Code + Terms</a></li>
+<li class="leaf menu-mlid-589"><a href="/festival-info/safety">Health + Safety</a></li>
+<li class="leaf menu-mlid-590"><a href="/on-site-accommodations#camping-info">Camping</a></li>
+<li class="leaf menu-mlid-591"><a href="/festival-info/travel">Travel</a></li>
+<li class="leaf menu-mlid-592"><a href="/festival-info/entry">Entry</a></li>
+<li class="leaf menu-mlid-593"><a href="/festival-info/facilities">Facilities</a></li>
+<li class="leaf menu-mlid-594"><a href="/festival-info/accessibility">Accessibility</a></li>
+<li class="last leaf menu-mlid-2142"><a href="/census">Bonnaroo Census</a></li>
+</ul></li>
+<li class="expanded menu-mlid-1903"><a href="/media">Media</a><ul class="menu"><li class="first leaf menu-mlid-716"><a href="/media/the-fountain">The Fountain</a></li>
+<li class="leaf menu-mlid-2141"><a href="/xbox">Bonnaroo with Xbox</a></li>
+<li class="leaf menu-mlid-715"><a href="/media/press">Press</a></li>
+<li class="leaf menu-mlid-721"><a href="/media/apps">Apps</a></li>
+<li class="leaf menu-mlid-1269"><a href="/media/backgrounds">Backgrounds</a></li>
+<li class="last leaf menu-mlid-1271"><a href="/media/spotify">Spotify</a></li>
+</ul></li>
+<li class="expanded menu-mlid-421"><a href="/get-involved">Get Involved</a><ul class="menu"><li class="first leaf menu-mlid-596"><a href="/get-involved#bonnaroo-works-fund">Bonnaroo Works Fund</a></li>
+<li class="leaf menu-mlid-597"><a href="/get-involved/sustainability">Sustainability</a></li>
+<li class="leaf menu-mlid-598"><a href="/get-involved/contests">Contests</a></li>
+<li class="leaf menu-mlid-600"><a href="/get-involved/partners">Partners + Non-Profits</a></li>
+<li class="leaf menu-mlid-1270"><a href="http://www.funkiestdancer.com/" target="_blank">Funkiest Dancer</a></li>
+<li class="leaf menu-mlid-599"><a href="/get-involved/volunteers">Volunteers</a></li>
+<li class="last leaf menu-mlid-601"><a href="/get-involved/vendors">Vendors</a></li>
+</ul></li>
+<li class="expanded menu-mlid-551"><a href="/news">News</a><ul class="menu"><li class="first leaf menu-mlid-713"><a href="/news/good-stuff">Good Stuff</a></li>
+<li class="leaf menu-mlid-714"><a href="/news/festival-news">Festival News</a></li>
+<li class="last leaf menu-mlid-2126"><a href="/news/roo-radio">Roo Radio</a></li>
+</ul></li>
+<li class="last leaf menu-mlid-552"><a href="http://bonnaroo.shop.musictoday.com/" target="_blank">Shop</a></li>
+</ul></div>
+    </div>
+  </div>
+</div>  </div>
+</div>
+<a class="search-button" href="#search-modal">open</a>  </div>
+</div></header> 
+        <div id="main-wrapper" class="main-wrapper">
+            <div id="main" class="clearfix">
+                <div id="content" class="column">
+                    <div class="section">
+                        <a id="main-content"></a>
+                        	                        <div class="tabs">
+	                            	                        </div>
+                                                                        <section id="section-content" class="section section-content">
+  <div id="zone-cloud-wrapper" class="zone-wrapper zone-cloud-wrapper clearfix">  <div class="mast-glow"></div>
+  <div class="zone-cloud-background"></div>
+  <div id="zone-cloud" class="zone zone-cloud clearfix container-24">      
+    <div class="grid-24 region region-main-content" id="region-main-content">
+  <div class="region-inner region-main-content-inner">
+    <div class="block block-system block-main block-system-main odd block-without-title" id="block-system-main">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      
+<article class="node node-basic-page node-published node-not-promoted node-not-sticky author-mattmeschede odd clearfix" id="node-basic-page-302">
+            
+  <div class="content-holder container-24">
+	  <div class="content clearfix">
+	    
 
-	                <div id="header-discoball" class="header-discoball active">
-	                    <a href="http://www.bonnaroo.com/tickets/"></a><div class="header-bubble-text"><a href="http://www.bonnaroo.com/tickets/"></a></div>
-	                </div>
+    <div class="grid-24 prefix-3 suffix-3">
+<div class="white-pattern-bg" style="margin-top:20px;">
+<h1 style="color:#000;">PRIVACY POLICY</h1>
 
-	                                    <div id="header-discoball-emoji" class="header-discoball ">
-                        	<div class="header-bubble-text"><a><span class="vibe-label">Vibe on site</span></a>
-                        	 <img src="http://www.bonnaroo.com/wp-content/uploads/2013/06/Broo13_Emojis_MeowLove.png" alt="" class="vibe-emoji">                        	</div>
-                        </div>					<a class="reverie-header" href="/"></a>
-				</header>			
-			</div> 
-			<!-- end logo header -->
+<p>This privacy policy describes Bonnaroo’s current policies and practices with regard to personal data collected by Bonnaroo through its website bonnaroo.com and personal data associated with the purchase of a ticket or RFID wristband. This privacy policy is independent from Bonnaroo’s offline personal data collection practices. The term “personal data” refers to personally identifiable information about you, such as your name, birth date, credit card number, e-mail address or mailing address, and any other information that is identified with you personally, including your individual health information.</p>
 
-			<div id="main-nav" class="row">
-				<div class="twelve columns">
-	                <div class="main-nav-right"></div>
-	                <div class="main-nav-left"></div>
-					<nav role="navigation" class="main-nav-container">
-						<dl class="nav"><dd id="menu-item-9284" class="lineup"><a href="http://lineup.bonnaroo.com">Lineup</a>
-<ul class="sub-menu">
-	<dd id="menu-item-15112" class="past-lineups"><a href="http://lineup.bonnaroo.com/past/2013">Past Lineups</a>
-</dd></ul>
-
-</dd><dd id="menu-item-7500" class="tickets"><a href="http://www.bonnaroo.com/tickets/">Tickets</a>
-<ul class="sub-menu">
-	<dd id="menu-item-7501" class="tickets"><a href="http://www.bonnaroo.com/tickets/">Tickets</a>
-	</dd><dd id="menu-item-10070" class="wristband-info"><a href="http://www.bonnaroo.com/tickets/wristband-info/">Wristband Info</a>
-	</dd><dd id="menu-item-1966" class="rv-rental"><a href="http://www.bonnaroo.com/tickets/rv-rental/">RV Rental</a>
-	</dd><dd id="menu-item-1715" class="tent-rental"><a href="http://www.bonnaroo.com/tickets/tent-city/">Tent Rental</a>
-	</dd><dd id="menu-item-7502" class="payment-plan"><a href="http://www.bonnaroo.com/tickets/payment-plan/">Payment Plan</a>
-	</dd><dd id="menu-item-2104" class="groop-camping"><a href="http://www.bonnaroo.com/tickets/groop-camping/">Groop Camping</a>
-	</dd><dd id="menu-item-91" class="roll-like-a-rockstar"><a href="http://www.bonnaroo.com/tickets/roll-like-a-rockstar/">Roll Like a Rockstar</a>
-	</dd><dd id="menu-item-1967" class="travel-packages"><a href="http://www.bonnaroo.com/tickets/travel-packages/">Travel Packages</a>
-	</dd><dd id="menu-item-1968" class="hotels"><a href="http://www.bonnaroo.com/tickets/hotels/">Hotels</a>
-</dd></ul>
-
-</dd><dd id="menu-item-2087" class="info"><a href="/festival-info/">Info</a>
-<ul class="sub-menu">
-	<dd id="menu-item-2074" class="festival-info"><a href="http://www.bonnaroo.com/festival-info/">Festival Info</a>
-	</dd><dd id="menu-item-10617" class="festival-map"><a href="http://www.bonnaroo.com/map/">Festival Map</a>
-	</dd><dd id="menu-item-2080" class="safety"><a href="http://www.bonnaroo.com/festival-info/safety/">Safety</a>
-	</dd><dd id="menu-item-2081" class="camping"><a href="http://www.bonnaroo.com/festival-info/camping/">Camping</a>
-	</dd><dd id="menu-item-2082" class="travel"><a href="http://www.bonnaroo.com/festival-info/travel/">Travel</a>
-	</dd><dd id="menu-item-2084" class="entry"><a href="http://www.bonnaroo.com/festival-info/entry-2/">Entry</a>
-	</dd><dd id="menu-item-2085" class="facilities"><a href="http://www.bonnaroo.com/festival-info/facilities/">Facilities</a>
-	</dd><dd id="menu-item-2086" class="food-and-drink"><a href="http://www.bonnaroo.com/festival-info/food-and-drink/">Food and Drink</a>
-	</dd><dd id="menu-item-2149" class="access-for-patrons-with-disabilities"><a href="http://www.bonnaroo.com/festival-info/access-for-patrons-with-disabilities/">Access for Patrons with Disabilities</a>
-	</dd><dd id="menu-item-13893" class="bonnaroo-census-"><a href="http://www.bonnaroo.com/bonnaroo-census/">Bonnaroo Census</a>
-</dd></ul>
-
-</dd><dd id="menu-item-1757" class="activities"><a href="http://www.bonnaroo.com/activities/connect/">Activities</a>
-<ul class="sub-menu">
-	<dd id="menu-item-148" class="connect"><a href="http://www.bonnaroo.com/activities/connect/">Connect</a>
-	</dd><dd id="menu-item-153" class="arts--entertainment"><a href="http://www.bonnaroo.com/activities/entertainment-fun/">Arts &amp; Entertainment</a>
-	</dd><dd id="menu-item-10071" class="cinema"><a href="http://www.bonnaroo.com/cinema/">Cinema</a>
-	</dd><dd id="menu-item-149" class="eat--drink"><a href="http://www.bonnaroo.com/activities/eat-drink/">Eat &amp; Drink</a>
-	</dd><dd id="menu-item-152" class="goods--trading"><a href="http://www.bonnaroo.com/activities/goods-trading/">Goods &amp; Trading</a>
-	</dd><dd id="menu-item-1669" class="environment-health--wellness"><a href="http://www.bonnaroo.com/activities/environment-health-wellness/">Environment, Health &amp; Wellness</a>
-	</dd><dd id="menu-item-150" class="relaxation"><a href="http://www.bonnaroo.com/activities/relaxation/">Relaxation</a>
-	</dd><dd id="menu-item-10306" class="yogaroo"><a href="http://www.bonnaroo.com/activities/yoga-roo/">Yoga-Roo</a>
-	</dd><dd id="menu-item-10307" class="roo-run"><a href="http://www.bonnaroo.com/activities/roo-run/">Roo Run</a>
-	</dd><dd id="menu-item-13892" class="bonnaroo-census-"><a href="http://www.bonnaroo.com/bonnaroo-census/">Bonnaroo Census</a>
-</dd></ul>
-
-</dd><dd id="menu-item-24" class="news"><a href="http://www.bonnaroo.com/news/">NEws</a>
-<ul class="sub-menu">
-	<dd id="menu-item-239" class="news--updates"><a href="http://www.bonnaroo.com/category/news/news-and-updates/">News &amp; Updates</a>
-	</dd><dd id="menu-item-238" class="good-stuff"><a href="http://www.bonnaroo.com/category/news/the-good-stuff/">Good Stuff</a>
-	</dd><dd id="menu-item-8938" class="radio-bonnaroo"><a href="http://bonnaroo.com/category/news/radio-bonnaroo/">Radio Bonnaroo</a>
-</dd></ul>
-
-</dd><dd id="menu-item-9204" class="365"><a href="http://www.bonnaroo.com/program-guide/">365</a>
-<ul class="sub-menu">
-	<dd id="menu-item-9206" class="program-guide"><a href="http://www.bonnaroo.com/program-guide/">Program Guide</a>
-	</dd><dd id="menu-item-9207" class="videos"><a href="/videos">Videos</a>
-	</dd><dd id="menu-item-9429" class="bricabrac"><a href="http://www.bonnaroo.com/bric-a-brac">Bric-a-Brac</a>
-</dd></ul>
-
-</dd><dd id="menu-item-23" class="media"><a href="http://www.bonnaroo.com/photos/">MEDIA</a>
-<ul class="sub-menu">
-	<dd id="menu-item-4029" class="photos"><a href="http://www.bonnaroo.com/photos/">Photos</a>
-	</dd><dd id="menu-item-9208" class="videos"><a href="/videos">Videos</a>
-	</dd><dd id="menu-item-5279" class="press"><a href="http://www.bonnaroo.com/press/">Press</a>
-	</dd><dd id="menu-item-2305" class="apps"><a href="http://www.bonnaroo.com/apps/">Apps</a>
-	</dd><dd id="menu-item-2306" class="backgrounds"><a href="http://www.bonnaroo.com/backgrounds/">Backgrounds</a>
-</dd></ul>
-
-</dd><dd id="menu-item-8992" class="get-involved"><a href="http://www.bonnaroo.com/get-involved/bonnaroo-works-fund/">Get InvolveD</a>
-<ul class="sub-menu">
-	<dd id="menu-item-13891" class="bonnaroo-census-"><a href="http://www.bonnaroo.com/bonnaroo-census/">Bonnaroo Census</a>
-	</dd><dd id="menu-item-210" class="bonnaroo-works-fund"><a href="http://www.bonnaroo.com/get-involved/bonnaroo-works-fund/">Bonnaroo Works Fund</a>
-	</dd><dd id="menu-item-211" class="contests"><a href="http://www.bonnaroo.com/get-involved/contests/">Contests</a>
-	</dd><dd id="menu-item-212" class="sustainability"><a href="http://www.bonnaroo.com/get-involved/greening/">Sustainability</a>
-	</dd><dd id="menu-item-1979" class="partners"><a href="http://www.bonnaroo.com/partners/">Partners</a>
-	</dd><dd id="menu-item-15110" class="nonprofit-partners"><a href="http://www.bonnaroo.com/get-involved/non-profit-partners/">Non-Profit Partners</a>
-	</dd><dd id="menu-item-213" class="vendors"><a href="http://www.bonnaroo.com/get-involved/vendors/">Vendors</a>
-	</dd><dd id="menu-item-214" class="volunteers"><a href="http://www.bonnaroo.com/get-involved/volunteers/">Volunteers</a>
-</dd></ul>
-
-</dd><dd id="menu-item-198" class="shop"><a href="http://bonnaroo.shop.musictoday.com/">SHOP</a>
-</dd></dl>					</nav>
-				</div>
-			</div>
-			</div>
-
-	<div id="content-container" class="body-gradient clearfix container">
-
-	<!-- Row for main content area -->
-	<div id="content" class="row">
-
-		<div id="main" class="twelve columns" role="main">
-            <div class="content-block">
-                					<h1 class="skinnylatte">Privacy</h1>
-	<p>This privacy policy describes Bonnaroo’s current policies and practices with regard to personal data collected by Bonnaroo through its website bonnaroo13.wpengine.com and personal data associated with the purchase of a ticket or RFID wristband. This privacy policy is independent from Bonnaroo’s offline personal data collection practices. The term “personal data” refers to personally identifiable information about you, such as your name, birth date, credit card number, e-mail address or mailing address, and any other information that is identified with you personally, including your individual health information.</p>
 <p><strong>Notification of Changes to This Policy.</strong></p>
+
 <p>Bonnaroo is continually improving and adding new functionality and features to its websites and improving and adding to our existing products, services, and programs. Because of these ongoing changes, changes in the law, and the changing nature of technology, Bonnaroo’s data practices will change from time to time. If and when our data practices change, Bonnaroo will post the changes on our websites to notify you of the changes. We encourage you to check this page frequently. This policy was last updated on April 28, 2011.</p>
-<p><strong>Personal Data Collected Through bonnaroo13.wpengine.com.</strong></p>
-<p>Other than cookies, as described below, the only personal data Bonnaroo currently collects through its websites is the information you voluntarily give us when you use our sites. For example, you may use this site to contact Bonnaroo with questions and comments. When you fill out a form on our websites, you may provide your name and other contact information, including your company’s name, your e-mail address, and your mailing address or the mailing address of your company or other personal information. If you do not wish to fill out all of the information on the form you are not required to do so. Most of our registration forms require only your name and e-mail address. When you submit information to us through bonnaroo13.wpengine.com, you will receive a confirmation e-mail if you enter a valid e-mail address. When you use our websites to search for information about our festival, you are not providing us with any personal information. We offer the search features as a service to you. Bonnaroo does not collect or retain any identifying information about you when you use the search features.</p>
+
+<p><strong>Personal Data Collected Through bonnaroo.com.</strong></p>
+
+<p>Other than cookies, as described below, the only personal data Bonnaroo currently collects through its websites is the information you voluntarily give us when you use our sites. For example, you may use this site to contact Bonnaroo with questions and comments. When you fill out a form on our websites, you may provide your name and other contact information, including your company’s name, your e-mail address, and your mailing address or the mailing address of your company or other personal information. If you do not wish to fill out all of the information on the form you are not required to do so. Most of our registration forms require only your name and e-mail address. When you submit information to us through bonnaroo.com, you will receive a confirmation e-mail if you enter a valid e-mail address. When you use our websites to search for information about our festival, you are not providing us with any personal information. We offer the search features as a service to you. Bonnaroo does not collect or retain any identifying information about you when you use the search features.</p>
+
 <p><strong>Personal Data Collected Through RFID Wristband Purchase</strong></p>
+
 <p>When purchasing tickets to Bonnaroo, the purchaser is required to provide us with the information necessary to process their ticket order: name, address, credit card number, and other information required by Musictoday, the official ticket company for Bonnaroo.</p>
+
 <p>Once you receive your wristbands, each individual in your party will be required to register that wristband on line as theirs and theirs alone.</p>
-<p><strong>Use of Personal Data Collected Through bonnaroo13.wpengine.com.</strong></p>
+
+<p><strong>Use of Personal Data Collected Through bonnaroo.com.</strong></p>
+
 <p>Bonnaroo uses the personal data information you provide to answer your question or resolve your problem. Bonnaroo and our affiliates also use this information to help us improve the content and functionality of our websites, to better understand our customers and markets, and to improve our products and services. Bonnaroo and our affiliates may use this information to contact you in the future to tell you about products or services we believe will be of interest to you. If we do so, each communication we send you will contain instructions permitting you to “unsubscribe’ from receiving future communications.</p>
-<p>Similarly, we may provide “subscription” e-mail services, either directly or through affiliates, which enable you to receive current news and updates about the Bonnaroo Music &amp; Arts Festival. For all such services, we will provide an opportunity to “unsubscribe” from, or cancel, the subscription. Please see the Terms and Conditions page, located at <a href="http://www.musictoday.com/about/legal.asp ">http://www.musictoday.com/about/legal.asp </a>for more information about our use of the communications we receive through the Bonnaroo website.</p>
+
+<p>Similarly, we may provide “subscription” e-mail services, either directly or through affiliates, which enable you to receive current news and updates about the Bonnaroo Music &amp; Arts Festival. For all such services, we will provide an opportunity to “unsubscribe” from, or cancel, the subscription. Please see the Terms and Conditions page, located at http://www.musictoday.com/about/legal.asp for more information about our use of the communications we receive through the Bonnaroo website.</p>
+
 <p><strong>Registration of RFID Wristbands and Use of Personal Data Collected Through RFID Wristband Purchase and Registration</strong></p>
+
 <p>When a ticket order is placed with us, we collect certain data during the order process. In addition, when the individual RFID wristbands issued in lieu of tickets are registered, we collect certain data about the person registering the RFID wristband. By registering your RFID wristband with us, your RFID wristband will be associated with you, as opposed to your ticket order, which may have included more than one ticket. In addition, registering your RFID wristband gives you the opportunity to receive communications about the festival from us.</p>
+
 <p>Bonnaroo may use the personal data information you provide when you purchase tickets and, additionally, the information you provide when you register your RFID wristband, to contact you with information about your order or the festival. Bonnaroo and our affiliates also use this information to help us improve the content and functionality of our festival operations, to better understand our customers and markets, and to improve our products and services. Further, Bonnaroo and our affiliates may use the information we collect during the ticket ordering and RFID wristband registration to contact you in the future to tell you about products or services we believe will be of interest to you. If we do so, each email communication we send you will contain instructions permitting you to “unsubscribeâ€ from receiving future email communications.</p>
+
 <p>Additionally, we may use the anonymous data provided by RFID technology for internal purposes, such as data analysis, to continually improve the operation of the festival. This data might include, but is not limited to, how many visitors enter the festival site, the date and time of their visit, the number of times they entered and exited, and which entrances and exits they came through. Your RFID wristband will allow the limited set of employees at the festival who have access to our ticketing systems in order to provide ticketing and RFID wristband related customer service to scan the RFID wristband and retrieve information we collect during the ticket ordering and RFID wristband registration processes. Our employees scanning RFID wristbands at the gates will not have access to our ticketing system, your ticket order information or your RFID registration information. When you scan your RFID wristband at one of our gate scanners, that process provides us information about your entry into the festival or the applicable part of the festival where the scanner is located. .</p>
-<p><strong>Anonymous Data Collected bonnaroo13.wpengine.com.</strong></p>
+
+<p><strong>Anonymous Data Collected bonnaroo.com.</strong></p>
+
 <p>In addition to the information you provide when you use our websites, Bonnaroo uses technology to collect anonymous information about the use of our websites. For example, we use technology to track how many visitors access our websites, the date and time of their visit, the length of their stay, and which pages they viewed. We also use technology to determine which web browsers our visitors use and the address from which they accessed our sites (for example, if they connected to a Bonnaroo website by clicking on one of our banner ads).</p>
+
 <p>This technology does not identify you personally. It simply enables us to compile statistics about our visitors and their use of our sites. Bonnaroo and our affiliates use this anonymous data and share it with third parties to improve the content and functionality of our websites, to better understand our customers and markets, and to improve our products and services.</p>
+
 <p><strong>Cookies.</strong></p>
+
 <p>A cookie is a small piece of information that is sent to your browser and stored on your computer’s hard drive. Cookies do not damage your computer and they cannot be used to discover the identity of a user. You can set your browser to notify you when you receive a cookie. This enables you to decide if you want to accept it or not and whether you are required to accept the cookie to view certain content. Bonnaroo may use cookies to “persist” a user session that is, to maintain connection with a user as he or she moves through an application or series of web pages. The purpose of cookies in this context is to remember user inputs. For example, a “shopping cart” application records purchases up until the user reaches checkout. Personalization features also use cookies to identify groups of users and deliver appropriate content and services.</p>
+
 <p><strong>Disclosure of Your Personal Data.</strong></p>
-<p><strong></strong> Bonnaroo may share some or all of the personal data collected through this website with our affiliates, who use this data in accordance with this Privacy Policy. Both Bonnaroo and our affiliates may share personal data collected through its websites with third-party vendors who act for or on behalf of Bonnaroo or our affiliates (for example, companies that provide support services to us, including data processing services, or that help us market our products and services). These companies may need information about you in order to perform their functions. These companies are not authorized to use the information we share with them for any other purpose. In addition, there may be some other, limited circumstances in which Bonnaroo or our affiliates may share or transfer the personal data in our databases, for example, to comply with a legal requirement, for the administration of justice, to protect your vital interests, or in the event of a corporate sale, merger, reorganization, dissolution, or similar event.</p>
+
+<p>Bonnaroo may share some or all of the personal data collected through this website with our affiliates, who use this data in accordance with this Privacy Policy. Both Bonnaroo and our affiliates may share personal data collected through its websites with third-party vendors who act for or on behalf of Bonnaroo or our affiliates (for example, companies that provide support services to us, including data processing services, or that help us market our products and services). These companies may need information about you in order to perform their functions. These companies are not authorized to use the information we share with them for any other purpose. In addition, there may be some other, limited circumstances in which Bonnaroo or our affiliates may share or transfer the personal data in our databases, for example, to comply with a legal requirement, for the administration of justice, to protect your vital interests, or in the event of a corporate sale, merger, reorganization, dissolution, or similar event.</p>
+
 <p>While no method of data transmission is guaranteed against unlawful third party interception or other misuse, Bonnaroo uses commercially reasonable efforts to ensure protection of your data including industry-standard encryption and offline security methods at our physical facilities. Bonnaroo employees and contractors may have access to personal data. Such access will be limited to a need-to-know basis.</p>
+
 <p><strong>Public Forums.</strong></p>
+
 <p>This site may make chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.</p>
+
 <p><strong>Children.</strong></p>
+
 <p>Bonnaroo does not knowingly collect personal data from children under the age of thirteen. If you are under thirteen, please do not give us any personal data. If you have reason to believe that a child has provided personal data to Bonnaroo, please contact us, and we will try to delete that information from our databases.</p>
+
 <p><strong>Link to Other Sites.</strong></p>
+
 <p>This privacy policy applies only to Bonnaroo’s website. Bonnaroo and our affiliates operate other websites for different purposes and in different countries where different laws may apply. If you visit a Bonnaroo website, please take a moment to review the privacy policy posted on that site to learn what personal data may be collected through that site and how it is processed.</p>
+
 <p>Bonnaroo’s websites contain hyperlinks to websites that are not operated by Bonnaroo or one of our affiliates. These hyperlinks are provided for your reference and convenience only and do not imply any endorsement of the activities of these third-party websites or any association with their operators. Bonnaroo does not control these websites and is not responsible for their data practices. We urge you to review the privacy policy posted on any site you visit before using the site or providing any personal data about yourself.</p>
+
 <p><strong>Governing Law.</strong></p>
+
 <p>This privacy policy forms part of our website Terms and Conditions and as such shall be governed by and construed in accordance with the laws of the Commonwealth of Virginia.</p>
+
 <p><strong>Questions About Our Privacy Policy.</strong></p>
-<p>If you have any questions about this privacy policy or concerns about the way Bonnaroo processes your personal data, please contact us at privacy@bonnaroo.com.</p>
-				</div>
-		</div><!-- /#main -->
-		
-	</div><!-- End content row -->
-	
-			
-		
-</div>
-		<div class="footer-container clearfix">
-							<div id="search">
-					<div class="illustration-pants"></div>
-					<div class="illustration-fountain"></div>
-					<div class="search-form-container">
-						<h2 class="search-heading">SEARCH BONNAROO FOR MUSIC, FESTIVAL INFO &amp; MORE</h2>
-						<form role="search" method="get" id="searchform" class="opaque-white" action="http://www.bonnaroo.com/">
-	<input type="text" value="" name="s" id="s" class="search-input" placeholder="">
-	<input type="submit" id="searchsubmit" value="Search" class="left button small pink radius">
-</form>
-						<div class="presented-by">
-							<a href="http://www.superflypresents.com/" class="icon-superfly" target="_blank">Superfly Presents</a>
-							<a href="http://www.acentertainment.com/" class="icon-ace" target="_blank">Ace Entertainment</a>
-						</div>
-					</div>
-				</div>
 
-				<div class="footer-links">
-					<footer id="content-info" role="contentinfo" class="clearfix">
-						<div class="row"><h6><strong>Menu Footer</strong></h6><div class="menu-footer-container"><ul id="menu-footer" class="menu"><li id="nav-tickets--lineup" class="tickets--lineup"><a>Tickets &amp; Lineup</a>
-<ul class="sub-menu">
-	<li id="nav-lineup" class="lineup"><a href="http://lineup.bonnaroo.com">Lineup</a></li>
-	<li id="nav-tickets" class="tickets"><a href="http://www.bonnaroo.com/tickets/">Tickets</a></li>
-	<li id="nav-payment-plan" class="payment-plan"><a href="http://www.bonnaroo.com/tickets/payment-plan/">Payment Plan</a></li>
-	<li id="nav-rv-rental" class="rv-rental"><a href="http://www.bonnaroo.com/tickets/rv-rental/">RV Rental</a></li>
-	<li id="nav-roll-like-a-rockstar" class="roll-like-a-rockstar"><a href="http://www.bonnaroo.com/tickets/roll-like-a-rockstar/">Roll Like a Rockstar</a></li>
-	<li id="nav-hotels" class="hotels"><a href="http://www.bonnaroo.com/tickets/hotels/">Hotels</a></li>
-	<li id="nav-travel-packages" class="travel-packages"><a href="http://www.bonnaroo.com/tickets/travel-packages/">Travel Packages</a></li>
-	<li id="nav-tent-rental" class="tent-rental"><a href="http://www.bonnaroo.com/tickets/tent-city/">Tent Rental</a></li>
-</ul>
-</li>
-<li id="nav-festival-info" class="festival-info"><a>Festival Info</a>
-<ul class="sub-menu">
-	<li id="nav-activities--attractions" class="activities--attractions"><a href="http://www.bonnaroo.com/activities/connect/">Activities &amp; Attractions</a></li>
-	<li id="nav-festival-info" class="festival-info"><a href="http://www.bonnaroo.com/festival-info/">Festival Info</a></li>
-	<li id="nav-festival-map" class="festival-map"><a href="http://www.bonnaroo.com/map/">Festival Map</a></li>
-	<li id="nav-safety" class="safety"><a href="http://www.bonnaroo.com/festival-info/safety/">Safety</a></li>
-	<li id="nav-camping" class="camping"><a href="http://www.bonnaroo.com/festival-info/camping/">Camping</a></li>
-	<li id="nav-travel" class="travel"><a href="http://www.bonnaroo.com/festival-info/travel/">Travel</a></li>
-	<li id="nav-entry" class="entry"><a href="http://www.bonnaroo.com/festival-info/entry-2/">Entry</a></li>
-	<li id="nav-facilities" class="facilities"><a href="http://www.bonnaroo.com/festival-info/facilities/">Facilities</a></li>
-	<li id="nav-access-for-patrons-with-disabilities" class="access-for-patrons-with-disabilities"><a href="http://www.bonnaroo.com/festival-info/access-for-patrons-with-disabilities/">Access for Patrons with Disabilities</a></li>
-	<li id="nav-food-and-drink" class="food-and-drink"><a href="http://www.bonnaroo.com/festival-info/food-and-drink/">Food and Drink</a></li>
-</ul>
-</li>
-<li id="nav-get-involved" class="get-involved"><a>Get Involved</a>
-<ul class="sub-menu">
-	<li id="nav-greening" class="greening"><a href="http://www.bonnaroo.com/get-involved/greening/">Greening</a></li>
-	<li id="nav-volunteers" class="volunteers"><a href="http://www.bonnaroo.com/get-involved/volunteers/">Volunteers</a></li>
-	<li id="nav-vendors" class="vendors"><a href="http://www.bonnaroo.com/get-involved/vendors/">Vendors</a></li>
-	<li id="nav-contests" class="contests"><a href="http://www.bonnaroo.com/get-involved/contests/">Contests</a></li>
-	<li id="nav-bonnaroo-works-fund" class="bonnaroo-works-fund"><a href="http://www.bonnaroo.com/get-involved/bonnaroo-works-fund/">Bonnaroo Works Fund</a></li>
-</ul>
-</li>
-<li id="nav-about-bonnaroo" class="about-bonnaroo"><a>About Bonnaroo</a>
-<ul class="sub-menu">
-	<li id="nav-about-us" class="about-us"><a href="http://www.bonnaroo.com/about-us/">About Us</a></li>
-	<li id="nav-contact" class="contact"><a href="http://www.bonnaroo.com/contact/">Contact</a></li>
-	<li id="nav-news--updates" class="news--updates"><a href="http://www.bonnaroo.com/news/">News &amp; Updates</a></li>
-	<li id="nav-partners" class="partners"><a href="http://www.bonnaroo.com/partners/">Partners</a></li>
-	<li id="nav-press" class="press"><a href="http://www.bonnaroo.com/press/">Press</a></li>
-	<li id="nav-privacy" class="privacy"><a href="http://www.bonnaroo.com/privacy/">Privacy</a></li>
-	<li id="nav-terms-of-use" class="terms-of-use"><a href="http://www.bonnaroo.com/terms-of-use/">Terms of Use</a></li>
-	<li id="nav-shop" class="shop"><a href="http://bonnaroo.shop.musictoday.com">Shop</a></li>
-</ul>
-</li>
-<li id="nav-connect" class="connect"><a>Connect</a>
-<ul class="sub-menu">
-	<li id="nav-facebook" class="facebook"><a href="https://www.facebook.com/bonnaroo">Facebook</a></li>
-	<li id="nav-twitter" class="twitter"><a href="http://twitter.com/#!/bonnaroo">Twitter</a></li>
-	<li id="nav-youtube" class="youtube"><a href="http://www.youtube.com/bonnaroo365">YouTube</a></li>
-	<li id="nav-spotify" class="spotify"><a href="http://open.spotify.com/user/127594937">Spotify</a></li>
-	<li id="nav-bonnaroo-radio" class="bonnaroo-radio"><a href="http://www.iheart.com/live/Bonnaroo-Radio-6160/?autoplay=true">Bonnaroo Radio</a></li>
-</ul>
-</li>
-</ul></div></div><div class="row">			<div class="textwidget"></div>
-		</div>					</footer>
-					<div id="footer-credits" class="row">
-						<div class="illustration-hotdogmobile"></div>
-						<div class="illustration-datecar"></div>
-						<ul>
-							<li class="copyright">
-								<span>Bonnaroo Music &amp; Arts Festival ©2002-2013</span>
-							</li>
-							<!--<li class="">
-								<span>Site Produced by</span><a title="Site produced by Rocketfuel Studios" alt="Site produced by Rocketfuel Studios" class="rocketfuel" href="http://rocketfuelstudios.com/" target="_blank"></a>
-							</li>-->
-							<li>
-								<a href="http://www.prod4ever.com/" target="_blank">Designed &amp; Built By <span class="icon-prod">PROD</span></a>
-							</li>
-							<li class="wpengine-link">
-								<a href="http://www.wpengine.com" target="_blank">WordPress Hosting by <span class="icon-wpengine">WPEngine</span></a>
-							</li>
-						</ul>
-					</div>
-				</div>
-					<!--</div> -->	<!-- Container End -->
+<p>If you have any questions about this privacy policy or concerns about the way Bonnaroo processes your personal data, please contact us at <a href="mailto:privacy@bonnaroo.com">privacy@bonnaroo.com</a>.</p>
+</div>
+</div>
 
-	
-	<!--<a href="http://info.bonnaroo.com/bonnaroo" class="help-button" target="_blank">Help</a>-->
-	<!-- Prompt IE 6 users to install Chrome Frame. Remove this if you want to support IE 6.
-	     chromium.org/developers/how-tos/chrome-frame-getting-started -->
-	<!--[if lt IE 7]>
-		<script defer src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
-		<script defer>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
-	<![endif]-->
-	
-		<div id="newsletter-form" class="reveal-modal">
-		<h1>Newsletter Signup</h1>
-		<form name="mtmlist" action="http://joinemaillist.musictoday.com/www/processEmailRequest.asp" method="post">
-			<fieldset id="personal">
-			    <div class="field">
-			    	<label class="req">First Name:</label>
-			    	<input type="text" name="demo_36" placeholder="First Name" required="">
-			    </div>
-			    <div class="field">
-			    	<label class="req">Last Name:</label>
-			    	<input type="text" name="demo_37" placeholder="Last Name" required="">
-			    </div>
-			    <div class="field">
-			    	<label class="req">Gender:</label>
-			    	<select name="demo_6" required="">
-			    						<option value="-1">Select</option>
-			    						<option value="M">Male</option>
-			    						<option value="F">Female</option>
-			    	</select>
-			    </div>
-			    <div class="field">
-			    	<label class="req">Birthdate:</label>
-			    	<input type="text" name="demo_39" placeholder="Your Birthday... mm/dd/yyyy" required="">
-			    </div>
-			</fieldset>
-			<fieldset id="contact">
-			    <div class="field">
-			    	<label class="req">Email:</label>
-			    	<input type="email" name="mtemail" placeholder="Email Address" required="">
-			    </div>
-			    <div class="field">
-			    	<label class="req">City:</label>
-			    	<input type="text" name="demo_14" placeholder="City you live in" required="">
-			    </div>
-			    <div class="field">
-			    	<label class="req">State:</label>
-			    	<input type="text" name="demo_15" placeholder="State you live in" required="">
-			    </div>
-			    <div class="field">
-			    	<label>Cellphone:</label>
-			    	<input type="text" name="demo_18" placeholder="Your Cellphone #">
-			    </div>
-			</fieldset>
-			<fieldset id="faves">
-			     <div class="field">
-			     	<label>Favorite Band:</label>
- 				    <input type="text" name="demo_11">
-			     </div>
-			    <div class="field">
-			    	<label>Favorite Style of Band:</label>
-			    	<input type="text" name="demo_10">
-			    </div>
-			</fieldset>
-			<input type="hidden" name="mtaction" value="subscribe">
-		
-			<input type="hidden" name="mtsite" value="27">
-		
-			<button type="submit" class="button radius orange" name="SubmitNewsletter" value="submit">submit</button>
-		</form>
-		<a class="close-reveal-modal">×</a>
-	</div>
-	<div id="rockstar-form" class="reveal-modal drawn-border thick">
-		<div id="formBuilderCSSIDRoll_Like_a_Rock_Star">
-<form class="formBuilderForm " id="formBuilderRoll_Like_a_Rock_Star" action="/privacy/#formBuilderCSSIDRoll_Like_a_Rock_Star?PHPSESSID=c5aa52c1d97d9fe9e426a521078bca2c" method="post" onsubmit="return fb_disableForm(this);"><input type="hidden" name="formBuilderForm[FormBuilderID]" value="1"><div id="formbuilder-1-page-1"><script type="text/javascript">
-
-function toggleVis(boxid)
-{
-	if(document.getElementById(boxid).isVisible == "true")
-	{
-		toggleVisOff(boxid);
-	}
-	else
-	{
-		toggleVisOn(boxid);
-	}
-}
-
-function toggleVisOn(boxid) 
-{
-		document.getElementById(boxid).setAttribute("class", "formBuilderHelpTextVisible");
-		document.getElementById(boxid).isVisible = "true";
-}
-
-function toggleVisOff(boxid) 
-{
-		document.getElementById(boxid).setAttribute("class", "formBuilderHelpTextHidden");
-		document.getElementById(boxid).isVisible = "false";
-}
-
-			</script>
-<div class="formBuilderField single_line_text_box" id="formBuilderFieldName" title="You must enter your name."><a name="formBuilderFieldName"></a>
-<span id="formBuilderErrorSpaceformBuilderFieldName"></span>
-<div class="formBuilderLabelRequired">Name </div>
-<div class="formBuilderInput"><input type="text" name="formBuilderForm[Name]" value="" id="fieldformBuilderFieldName" onblur="fb_ajaxRequest('http://www.bonnaroo.com/wp-content/plugins/formbuilder/php/formbuilder_parser.php', 'formid=1&amp;fieldid=1&amp;val='+document.getElementById('fieldformBuilderFieldName').value, 'formBuilderErrorSpaceformBuilderFieldName')"> </div>
-</div>
-<div class="formBuilderField single_line_text_box" id="formBuilderFieldEmail" title="You must enter your email address."><a name="formBuilderFieldEmail"></a>
-<span id="formBuilderErrorSpaceformBuilderFieldEmail"></span>
-<div class="formBuilderLabelRequired">Email </div>
-<div class="formBuilderInput"><input type="text" name="formBuilderForm[Email]" value="" id="fieldformBuilderFieldEmail" onblur="fb_ajaxRequest('http://www.bonnaroo.com/wp-content/plugins/formbuilder/php/formbuilder_parser.php', 'formid=1&amp;fieldid=2&amp;val='+document.getElementById('fieldformBuilderFieldEmail').value, 'formBuilderErrorSpaceformBuilderFieldEmail')"> </div>
-</div>
-<div class="formBuilderField single_line_text_box" id="formBuilderFieldcompany_organization" title=""><a name="formBuilderFieldcompany_organization"></a>
-<span id="formBuilderErrorSpaceformBuilderFieldcompany_organization"></span>
-<div class="formBuilderLabel">Company/Organization </div>
-<div class="formBuilderInput"><input type="text" name="formBuilderForm[company_organization]" value="" id="fieldformBuilderFieldcompany_organization" onblur="fb_ajaxRequest('http://www.bonnaroo.com/wp-content/plugins/formbuilder/php/formbuilder_parser.php', 'formid=1&amp;fieldid=3&amp;val='+document.getElementById('fieldformBuilderFieldcompany_organization').value, 'formBuilderErrorSpaceformBuilderFieldcompany_organization')"> </div>
-</div>
-<div class="formBuilderField single_line_text_box" id="formBuilderFieldpreferred_phone" title=""><a name="formBuilderFieldpreferred_phone"></a>
-<span id="formBuilderErrorSpaceformBuilderFieldpreferred_phone"></span>
-<div class="formBuilderLabel">Preferred  Phone # </div>
-<div class="formBuilderInput"><input type="text" name="formBuilderForm[preferred_phone]" value="" id="fieldformBuilderFieldpreferred_phone" onblur="fb_ajaxRequest('http://www.bonnaroo.com/wp-content/plugins/formbuilder/php/formbuilder_parser.php', 'formid=1&amp;fieldid=4&amp;val='+document.getElementById('fieldformBuilderFieldpreferred_phone').value, 'formBuilderErrorSpaceformBuilderFieldpreferred_phone')"> </div>
-</div>
-<div class="formBuilderField single_line_text_box" id="formBuilderFieldBest_time_preferred_phone" title=""><a name="formBuilderFieldBest_time_preferred_phone"></a>
-<span id="formBuilderErrorSpaceformBuilderFieldBest_time_preferred_phone"></span>
-<div class="formBuilderLabel">Best time to reach you at your preferred phone # </div>
-<div class="formBuilderInput"><input type="text" name="formBuilderForm[Best_time_preferred_phone]" value="" id="fieldformBuilderFieldBest_time_preferred_phone" onblur="fb_ajaxRequest('http://www.bonnaroo.com/wp-content/plugins/formbuilder/php/formbuilder_parser.php', 'formid=1&amp;fieldid=5&amp;val='+document.getElementById('fieldformBuilderFieldBest_time_preferred_phone').value, 'formBuilderErrorSpaceformBuilderFieldBest_time_preferred_phone')"> </div>
-</div>
-<div class="formBuilderField single_line_text_box" id="formBuilderFieldalternate_phone" title=""><a name="formBuilderFieldalternate_phone"></a>
-<span id="formBuilderErrorSpaceformBuilderFieldalternate_phone"></span>
-<div class="formBuilderLabel">Alternate Phone # </div>
-<div class="formBuilderInput"><input type="text" name="formBuilderForm[alternate_phone]" value="" id="fieldformBuilderFieldalternate_phone" onblur="fb_ajaxRequest('http://www.bonnaroo.com/wp-content/plugins/formbuilder/php/formbuilder_parser.php', 'formid=1&amp;fieldid=6&amp;val='+document.getElementById('fieldformBuilderFieldalternate_phone').value, 'formBuilderErrorSpaceformBuilderFieldalternate_phone')"> </div>
-</div>
-<div class="formBuilderField single_line_text_box" id="formBuilderFieldBest_time_alternate_phone" title=""><a name="formBuilderFieldBest_time_alternate_phone"></a>
-<span id="formBuilderErrorSpaceformBuilderFieldBest_time_alternate_phone"></span>
-<div class="formBuilderLabel">Best time to reach you at your alternate phone # </div>
-<div class="formBuilderInput"><input type="text" name="formBuilderForm[Best_time_alternate_phone]" value="" id="fieldformBuilderFieldBest_time_alternate_phone" onblur="fb_ajaxRequest('http://www.bonnaroo.com/wp-content/plugins/formbuilder/php/formbuilder_parser.php', 'formid=1&amp;fieldid=7&amp;val='+document.getElementById('fieldformBuilderFieldBest_time_alternate_phone').value, 'formBuilderErrorSpaceformBuilderFieldBest_time_alternate_phone')"> </div>
-</div>
-<div class="formBuilderField single_line_text_box" id="formBuilderFieldzip_code" title=""><a name="formBuilderFieldzip_code"></a>
-<span id="formBuilderErrorSpaceformBuilderFieldzip_code"></span>
-<div class="formBuilderLabel">Zip Code </div>
-<div class="formBuilderInput"><input type="text" name="formBuilderForm[zip_code]" value="" id="fieldformBuilderFieldzip_code" onblur="fb_ajaxRequest('http://www.bonnaroo.com/wp-content/plugins/formbuilder/php/formbuilder_parser.php', 'formid=1&amp;fieldid=8&amp;val='+document.getElementById('fieldformBuilderFieldzip_code').value, 'formBuilderErrorSpaceformBuilderFieldzip_code')"> </div>
-</div>
-<div class="formBuilderField radio_buttons" id="formBuilderFieldpreferred_contact_method" title=""><a name="formBuilderFieldpreferred_contact_method"></a>
-<span id="formBuilderErrorSpaceformBuilderFieldpreferred_contact_method"></span>
-<div class="formBuilderLabel">What is the BEST way to reach you? </div>
-<div class="formBuilderInput"><div class="formBuilderRadio"><label><input type="radio" name="formBuilderForm[preferred_contact_method]" value="0"> PHONE</label></div><div class="formBuilderRadio"><label><input type="radio" name="formBuilderForm[preferred_contact_method]" value="1"> EMAIL</label></div></div>
-</div>
-<div class="formBuilderField small_text_area" id="formBuilderFieldquestions" title="please fill in the questions field"><a name="formBuilderFieldquestions"></a>
-<span id="formBuilderErrorSpaceformBuilderFieldquestions"></span>
-<div class="formBuilderLabel">Additional questions / information </div>
-<div class="formBuilderSmallTextarea"><textarea name="formBuilderForm[questions]" rows="4" cols="50" id="fieldformBuilderFieldquestions" onblur="fb_ajaxRequest('http://www.bonnaroo.com/wp-content/plugins/formbuilder/php/formbuilder_parser.php', 'formid=1&amp;fieldid=10&amp;val='+document.getElementById('fieldformBuilderFieldquestions').value, 'formBuilderErrorSpaceformBuilderFieldquestions')"></textarea></div>
-</div>
-<div class="formBuilderCap" id="formBuilderFieldformBuilderCap" title=""><a name="formBuilderFieldformBuilderCap"></a>
-<span id="formBuilderErrorSpaceformBuilderFieldformBuilderCap"></span>
-<div class="formBuilderLabel"> </div>
-<div class="formBuilderInput"><input type="text" name="formBuilderForm[formBuilderCap]" value=""> </div>
-</div><input type="hidden" name="PAGE" value="http://www.bonnaroo.com/privacy/">
-<div class="formBuilderSubmit"><input type="submit" name="Submit" value="Send!"></div>
-</div>
-</form></div>	</div>
-
-</div><!-- Page wrapper end -->
-
-	<!-- Questions Script -->
-	<script type="text/javascript" charset="utf-8">
-		var is_ssl = ("https:" == document.location.protocol);
-		var asset_host = is_ssl ? "https://s3.amazonaws.com/getsatisfaction.com/" : "http://s3.amazonaws.com/getsatisfaction.com/";
-		document.write(unescape("%3Cscript src='" + asset_host + "javascripts/feedback-v2.js' type='text/javascript'%3E%3C/script%3E"));
-	</script><script src="https://s3.amazonaws.com/getsatisfaction.com/javascripts/feedback-v2.js" type="text/javascript"></script>
-	<!--<script type="text/javascript" charset="utf-8">
-		var feedback_widget_options = {};
-		feedback_widget_options.display = "overlay";  
-		feedback_widget_options.company = "bonnaroo2012";
-		feedback_widget_options.placement = "right";
-		feedback_widget_options.color = "#1691D0";
-		feedback_widget_options.style = "question";
-		
-		feedback_widget_options.tag = "Questions";
-		feedback_widget_options.custom_css = "http:\/\/bonnaroo.wpengine.com\/wp-content\/themes\/bonnaroo2k13\/css\/gs.css";
-		
-		
-		feedback_widget_options.limit = "3";
-		
-		var feedback_widget = new GSFN.feedback_widget(feedback_widget_options);
-	</script>-->
-        <!-- Google Code for Homepage Conversion Page -->
-        <script type="text/javascript">
-            /* <![CDATA[ */
-            var google_conversion_id = 1040579092;
-            var google_conversion_language = "en";
-            var google_conversion_format = "3";
-            var google_conversion_color = "666666";
-            var google_conversion_label = "nfdCCOjGzgEQlPSX8AM";
-            var google_conversion_value = 0;
-            /* ]]> */
-        </script>
-        <script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
-        </script>
-        <noscript>
-            <div style="display:inline;">
-                <img height="1" width="1" style="border-style:none;" alt=""
-                     src="http://www.googleadservices.com/pagead/conversion/1040579092/?value=0
-&label=nfdCCOjGzgEQlPSX8AM&guid=ON&script=0"/>
+<div class="spacer-220">&nbsp;</div>
+	  </div>
+  </div>
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>    </div>
+  </div>
+</div>  </div>
+</div>  </div>
+</div></section>                                            </div><!-- /.section, /#content -->
+                </div>
             </div>
-        </noscript>
+        </div><!-- /#main, /#main-wrapper -->
+        
+        <footer id="section-footer" class="section section-footer">
+  <div id="zone-footer-wrapper" class="zone-wrapper zone-footer-wrapper clearfix"> 
+	<div class="clouds">
+        <div class="footer-social-links">
+            <div class="container-24">
+                <div class="contact-links grid-24">
+                	<a href="/media/the-fountain" target="_blank" class="fountain-footer"></a>
+                    <a href="https://www.facebook.com/bonnaroo" target="_blank" class="fb-footer"></a>
+                    <a href="http://instagram.com/bonnaroo" target="_blank" class="ig-footer"></a>
+                    <a href="http://open.spotify.com/user/127594937" target="_blank" class="spotify-footer"></a>
+                    <a href="https://twitter.com/bonnaroo" target="_blank" class="twitter-footer"></a>
+                    <a href="https://www.youtube.com/bonnaroo365" target="_blank" class="yt-footer"></a>
+                </div>
+            </div>
+        </div>
+	</div>
+    <div class="footer-content-container">
+        <div class="container-24">
+            <div class="contact-links grid-24">
+                <a class="button pink grid-5 push-7" href="/contact-us">Contact Us</a>
+                <a class="button pink grid-5 push-7" href="mailto:info@bonnaroo.com">Site Feedback</a>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    	<div class="middle">
+    		<div id="zone-footer" class="zone zone-footer clearfix container-24">      
+    		    <div class="grid-24 region region-footer" id="region-footer">
+  <div class="region-inner region-footer-inner">
+    <div class="block block-menu-block block-2 block-menu-block-2 odd block-without-title" id="block-menu-block-2">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div class="menu-block-wrapper menu-block-2 menu-name-menu-footer-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first expanded menu-mlid-577"><a href="/tickets">Tickets &amp; Accommodations</a><ul class="menu"><li class="first leaf menu-mlid-605"><a href="/tickets" title="">Tickets</a></li>
+<li class="leaf menu-mlid-606"><a href="/on-site-accommodations" title="">On-Site Accommodations</a></li>
+<li class="last leaf menu-mlid-607"><a href="/hotels-shuttles">Hotels + Shuttles</a></li>
+</ul></li>
+<li class="expanded menu-mlid-608"><a href="/activities">Activities</a><ul class="menu"><li class="first leaf menu-mlid-609"><a href="/activities/arts-entertainment">Arts + Entertainment</a></li>
+<li class="leaf menu-mlid-610"><a href="/activities/work-it-out">Work It Out</a></li>
+<li class="leaf menu-mlid-611"><a href="/activities/connect">Connect</a></li>
+<li class="leaf menu-mlid-612"><a href="/activities/environment-health-wellness">Environment, Health &amp; Wellness</a></li>
+<li class="leaf menu-mlid-613"><a href="/activities/eat-drink">Eat + Drink</a></li>
+<li class="leaf menu-mlid-614"><a href="/activities/goods-gifts">Goods + Gifts</a></li>
+<li class="last leaf menu-mlid-2131"><a href="/activities/cinema">Cinema</a></li>
+</ul></li>
+<li class="expanded menu-mlid-615"><a href="/festival-info">Festival Info</a><ul class="menu"><li class="first leaf menu-mlid-616"><a href="/festival-info" title="">The Code</a></li>
+<li class="leaf menu-mlid-618"><a href="/festival-info/safety" title="">Safety</a></li>
+<li class="leaf menu-mlid-619"><a href="/camping" title="">Camping</a></li>
+<li class="leaf menu-mlid-620"><a href="/festival-info/travel" title="">Travel</a></li>
+<li class="leaf menu-mlid-621"><a href="/festival-info/entry" title="">Entry</a></li>
+<li class="leaf menu-mlid-622"><a href="/festival-info/facilities" title="">Facilities</a></li>
+<li class="last leaf menu-mlid-623"><a href="/festival-info/accessibility" title="">Accessibility</a></li>
+</ul></li>
+<li class="expanded menu-mlid-624"><a href="/get-involved">Get Involved</a><ul class="menu"><li class="first leaf menu-mlid-625"><a href="/get-involved">Bonnaroo Works Fund</a></li>
+<li class="leaf menu-mlid-626"><a href="/get-involved/sustainability" title="">Sustainability</a></li>
+<li class="leaf menu-mlid-627"><a href="/get-involved/contests" title="">Contests</a></li>
+<li class="leaf menu-mlid-628"><a href="/get-involved/volunteers" title="">Volunteers</a></li>
+<li class="leaf menu-mlid-629"><a href="/get-involved/partners">Partners + Non-Profits</a></li>
+<li class="last leaf menu-mlid-630"><a href="/get-involved/vendors">Vendors</a></li>
+</ul></li>
+<li class="expanded menu-mlid-1904"><a href="/media">Media</a><ul class="menu"><li class="first leaf menu-mlid-718"><a href="/media/the-fountain">The Fountain</a></li>
+<li class="leaf menu-mlid-717"><a href="/media/press">Press</a></li>
+<li class="leaf menu-mlid-1905"><a href="/media/apps">Apps</a></li>
+<li class="leaf menu-mlid-1906"><a href="/media/backgrounds">Backgrounds</a></li>
+<li class="last leaf menu-mlid-1907"><a href="/media/spotify">Spotify</a></li>
+</ul></li>
+<li class="expanded menu-mlid-633"><a href="/news">News</a><ul class="menu"><li class="first leaf menu-mlid-1908"><a href="/news/good-stuff">Good Stuff</a></li>
+<li class="leaf menu-mlid-1909"><a href="/news/festival-news">Festival News</a></li>
+<li class="last leaf menu-mlid-2125"><a href="/news/roo-radio">Roo Radio</a></li>
+</ul></li>
+<li class="last leaf menu-mlid-634"><a href="http://bonnaroo.shop.musictoday.com/">Shop</a></li>
+</ul></div>
+    </div>
+  </div>
+</div>  </div>
+</div>        	</div>
+            <div class="sponsor">
+                <a href="http://www.superflypresents.com" class="superfly"></a>
+                <a href="http://acentertainment.com/" class="acentertainment"></a>
+            </div>
+    	</div>
+    </div>
+    <div class="bottom">
+        <ul>
+	        <li><a href="privacy" alt="privacy policy">privacy policy</a></li>
+	        <li><a href="terms-of-use" alt="Terms of Service">Terms</a></li>
+	        <li><a href="contact-us" alt="contact us">Contact Us</a></li>
+        </ul>
+    </div>
+</div><div id="zone-modal-wrapper" class="zone-wrapper zone-modal-wrapper clearfix">  
+  <div id="zone-modal" class="zone zone-modal clearfix container-24">
+    <div class="search-modal anim-modal mfp-hide" id="search-modal" tabindex="-1">
+	<div class="grid-24 region region-search" id="region-search">
+	  <div class="region-inner region-search-inner">
+	    <section class="block block-search block-form block-search-form odd" id="block-search-form">
+  <div class="block-inner clearfix">
+              <h2 class="block-title">Search</h2>
+            
+    <div class="content clearfix">
+      <form action="/privacy" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text">
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit"></div><input type="hidden" name="form_build_id" value="form-8Z2VgXSFtL5GAPOQk3ZaliQT_73E1To7lcjohI9OFUQ">
+<input type="hidden" name="form_id" value="search_block_form">
+</div>
+</div></form>    </div>
+  </div>
+</section>	  </div>
+	</div>
+</div><div class="connect-modal anim-modal mfp-hide" id="connect-modal" tabindex="-1">
+    <div class="social-links">
+        <h2>STAY CONNECTED</h2>
+        <div class="items">
+            <a href="https://www.facebook.com/bonnaroo" target="_blank" class="fb-connect"></a>
+            <a href="http://instagram.com/bonnaroo" target="_blank" class="ig-connect"></a>
+            <a href="http://open.spotify.com/user/127594937" target="_blank" class="spotify-connect"></a>
+            <a href="https://twitter.com/bonnaroo" target="_blank" class="twitter-connect"></a>
+            <a href="https://www.youtube.com/bonnaroo365" target="_blank" class="yt-connect"></a>
+            <a href="http://www.customchannels.net/streaming/bonnaroo/radio/" target="_blank" class="roo-connect"></a>
+        </div>
+        <h2>GET UPDATES</h2>
+    </div>
+    <div class="blue-style-bg"></div>
+    <div class="form-item-container">
+        <div class="grid-24 region region-connect" id="region-connect">
+            <div class="region-inner region-connect-inner">
+                <div class="block block-webform block-client-block-146 block-webform-client-block-146 odd block-without-title" id="block-webform-client-block-146">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <form class="webform-client-form webform-hints" enctype="multipart/form-data" action="/form/newsletter-signup-webform" method="post" id="webform-client-form-146" accept-charset="UTF-8"><div><div class="form-item webform-component webform-component-email" id="webform-component-email-address">
+  <label class="element-invisible" for="edit-submitted-email-address">Email Address <span class="form-required" title="This field is required.">*</span></label>
+ <input class="webform-hints-field form-text form-email required" title="Email Address" label="Email Address" placeholder="Email Address" type="email" id="edit-submitted-email-address" name="submitted[email_address]" size="60">
+</div>
+<input type="hidden" name="details[sid]">
+<input type="hidden" name="details[page_num]" value="1">
+<input type="hidden" name="details[page_count]" value="1">
+<input type="hidden" name="details[finished]" value="0">
+<input type="hidden" name="form_build_id" value="form-APOd0YeUy6e8Ipw-4CKd9ECrQtbwlxKel6dxCklovu4">
+<input type="hidden" name="form_id" value="webform_client_form_146">
+<div class="form-actions form-wrapper" id="edit-actions--2"><input type="submit" id="edit-submit--2" name="op" value="Submit" class="form-submit"></div></div></form>    </div>
+  </div>
+</div>            </div>
+        </div>
+    </div>
+</div>  </div>
+</div></footer>    </div>
+</div><!-- /#page, /#page-wrapper -->
 
-            <img src="http://leadback.advertising.com/adcedge/lb?site=695501&amp;betr=ustreamban_cs=[+]1[720],3[8760]" width="1" height="1" border="0">
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-47417601-1"]);_gaq.push(["_gat._anonymizeIp"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = "http://d2j6ndaroqwcar.cloudfront.net/sites/default/files/googleanalytics/ga.js?n6pkaz";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+  <script type="text/javascript" src="http://d2j6ndaroqwcar.cloudfront.net/sites/all/libraries/modernizr/modernizr-2.6.2.js?n6pkaz"></script>
+<script type="text/javascript" src="http://d2j6ndaroqwcar.cloudfront.net/sites/all/libraries/respondjs/respond.min.js?n6pkaz"></script>
+<script type="text/javascript" src="http://d2j6ndaroqwcar.cloudfront.net/sites/all/modules/jquery_update/replace/jquery/1.7/jquery.min.js?v=1.7.1"></script>
+<script type="text/javascript" src="http://d2j6ndaroqwcar.cloudfront.net/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://d2j6ndaroqwcar.cloudfront.net/misc/drupal.js?n6pkaz"></script>
+<script type="text/javascript" src="http://d2j6ndaroqwcar.cloudfront.net/sites/all/libraries/jgrowl/jquery.jgrowl.js?n6pkaz"></script>
+<script type="text/javascript" src="http://d2j6ndaroqwcar.cloudfront.net/sites/all/modules/nicemessages/js/nicemessages.js?n6pkaz"></script>
+<script type="text/javascript" src="http://d2j6ndaroqwcar.cloudfront.net/sites/all/modules/webform/js/webform.js?n6pkaz"></script>
+<script type="text/javascript" src="http://d2j6ndaroqwcar.cloudfront.net/sites/all/modules/google_analytics/googleanalytics.js?n6pkaz"></script>
+<script type="text/javascript" src="http://d2j6ndaroqwcar.cloudfront.net/sites/all/themes/roo/js/jquery.magnific.min.js?n6pkaz"></script>
+<script type="text/javascript" src="http://d2j6ndaroqwcar.cloudfront.net/sites/all/themes/roo/js/jquery.slicknav.min.js?n6pkaz"></script>
+<script type="text/javascript" src="http://d2j6ndaroqwcar.cloudfront.net/sites/all/themes/roo/js/jquery.bxslider.min.js?n6pkaz"></script>
+<script type="text/javascript" src="http://d2j6ndaroqwcar.cloudfront.net/sites/all/themes/roo/js/jquery.unveil.min.js?n6pkaz"></script>
+<script type="text/javascript" src="http://d2j6ndaroqwcar.cloudfront.net/sites/all/themes/roo/js/jquery.easing.min.js?n6pkaz"></script>
+<script type="text/javascript" src="http://d2j6ndaroqwcar.cloudfront.net/sites/all/themes/roo/js/jquery.pagescroll.min.js?n6pkaz"></script>
+<script type="text/javascript" src="http://d2j6ndaroqwcar.cloudfront.net/sites/all/themes/roo/js/jquery.doubletap.min.js?n6pkaz"></script>
+<script type="text/javascript" src="http://d2j6ndaroqwcar.cloudfront.net/sites/all/themes/roo/js/jquery.scrolltofixed.min.js?n6pkaz"></script>
+<script type="text/javascript" src="http://d2j6ndaroqwcar.cloudfront.net/sites/all/themes/roo/js/scripts.js?n6pkaz"></script>
+<script type="text/javascript" src="http://d2j6ndaroqwcar.cloudfront.net/sites/all/themes/omega/omega/js/jquery.formalize.js?n6pkaz"></script>
+<script type="text/javascript" src="http://d2j6ndaroqwcar.cloudfront.net/sites/all/themes/omega/omega/js/omega-mediaqueries.js?n6pkaz"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"roo","theme_token":"UvuK4rPSr1we9WOkRp8nwsBvjN5PEjYtn7DiGNqeFME","js":{"0":1,"sites\/all\/libraries\/modernizr\/modernizr-2.6.2.js":1,"sites\/all\/libraries\/respondjs\/respond.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/jgrowl\/jquery.jgrowl.js":1,"sites\/all\/modules\/nicemessages\/js\/nicemessages.js":1,"sites\/all\/modules\/webform\/js\/webform.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"sites\/all\/themes\/roo\/js\/jquery.magnific.min.js":1,"sites\/all\/themes\/roo\/js\/jquery.slicknav.min.js":1,"sites\/all\/themes\/roo\/js\/jquery.bxslider.min.js":1,"sites\/all\/themes\/roo\/js\/jquery.unveil.min.js":1,"sites\/all\/themes\/roo\/js\/jquery.easing.min.js":1,"sites\/all\/themes\/roo\/js\/jquery.pagescroll.min.js":1,"sites\/all\/themes\/roo\/js\/jquery.doubletap.min.js":1,"sites\/all\/themes\/roo\/js\/jquery.scrolltofixed.min.js":1,"sites\/all\/themes\/roo\/js\/scripts.js":1,"sites\/all\/themes\/omega\/omega\/js\/jquery.formalize.js":1,"sites\/all\/themes\/omega\/omega\/js\/omega-mediaqueries.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/ckeditor\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/libraries\/jgrowl\/jquery.jgrowl.css":1,"sites\/all\/modules\/nicemessages\/css\/nicemessages.css":1,"sites\/all\/modules\/webform\/css\/webform.css":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-reset.css":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-mobile.css":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-alpha.css":1,"sites\/all\/themes\/omega\/omega\/css\/formalize.css":1,"sites\/all\/themes\/roo\/css\/global.css":1,"ie::normal::sites\/all\/themes\/roo\/css\/roo-alpha-default.css":1,"ie::normal::sites\/all\/themes\/roo\/css\/roo-alpha-default-normal.css":1,"ie::normal::sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/normal\/alpha-default-normal-24.css":1,"narrow::sites\/all\/themes\/roo\/css\/roo-alpha-default.css":1,"narrow::sites\/all\/themes\/roo\/css\/roo-alpha-default-narrow.css":1,"sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/narrow\/alpha-default-narrow-24.css":1,"normal::sites\/all\/themes\/roo\/css\/roo-alpha-default.css":1,"normal::sites\/all\/themes\/roo\/css\/roo-alpha-default-normal.css":1,"sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/normal\/alpha-default-normal-24.css":1,"wide::sites\/all\/themes\/roo\/css\/roo-alpha-default.css":1,"wide::sites\/all\/themes\/roo\/css\/roo-alpha-default-wide.css":1,"sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/wide\/alpha-default-wide-24.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"nicemessages":{"position":"center","items":[]},"omega":{"layouts":{"primary":"normal","order":["narrow","normal","wide"],"queries":{"narrow":"all and (min-width: 740px) and (min-device-width: 740px), (max-device-width: 800px) and (min-width: 740px) and (orientation:landscape)","normal":"all and (min-width: 980px) and (min-device-width: 980px), all and (max-device-width: 1024px) and (min-width: 1024px) and (orientation:landscape)","wide":"all and (min-width: 1220px)"}}}});
+//--><!]]>
+</script>
+<div style="display:none">
+	<script type="text/javascript">
+		window.fbAsyncInit = function() {
+        FB.init({
+          appId      : '608869792533905',
+          	cookie: true, 
+          	status: true, 
+          	xfbml: true, 
+          	oauth: true
+        });
+      };
 
-
-</div></body></html>
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/all.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk'));
+	</script>
+	<script type="text/javascript">!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+	<script type="text/javascript">(function(){
+	  window._fbds = window._fbds || {};
+	  _fbds.pixelId = 598487216867521;
+	  var fbds = document.createElement('script');
+	  fbds.async = true;
+	  fbds.src = ('https:' == document.location.protocol ? 'https:' : 'http:') + '//connect.facebook.net/en_US/fbds.js';
+	  var s = document.getElementsByTagName('script')[0];
+	  s.parentNode.insertBefore(fbds, s);
+	})();
+	window._fbq = window._fbq || [];
+	window._fbq.push(["track", "PixelInitialized", {}]);
+	</script>
+	<noscript><img height="1" width="1" border="0" alt="" style="display:none" src="https://www.facebook.com/tr?id=598487216867521&amp;ev=NoScript" /></noscript>
+	<!-- Google Code for Homepage Conversion Page -->
+	<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+	<script type="text/javascript">
+	/* <![CDATA[ */
+	var google_conversion_id = 1040579092;
+	var google_conversion_label = "nfdCCOjGzgEQlPSX8AM";
+	var google_custom_params = window.google_tag_params;
+	var google_remarketing_only = true;
+	/* ]]> */
+	</script>
+	<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+	</script>
+	<noscript>
+	<div style="display:inline;">
+	<img height="1" width="1" style="border-style:none;" alt="" 
+	src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1040579092/?value=0
+	&label=nfdCCOjGzgEQlPSX8AM&guid=ON&script=0"/>
+	</div>
+	</noscript>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","licenseKey":"f3821a41bd","applicationID":"2551885","transactionName":"ZAFWbREHXEQEB0dZVl1LYUsKSVtZAQFLHklbFA==","queueTime":0,"applicationTime":12,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
