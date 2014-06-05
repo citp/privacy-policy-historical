@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motionelements.com privacy policy that was archived on 2013-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130420111835id_/https%3A//privacy.truste.com/privacy-policy/MotionElements-Pte-Ltd/certified/c618a636-cf55-4d51-952b-4c0b4fe0dac9) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motionelements.com privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605204709id_/https%3A//privacy.truste.com/privacy-policy/MotionElements-Pte-Ltd/certified/c618a636-cf55-4d51-952b-4c0b4fe0dac9) for the most accurate reproduction.*
 
 # Welcome to motionelements.com
 
