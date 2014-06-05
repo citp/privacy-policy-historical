@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the polleverywhere.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219212907id_/http%3A//www.polleverywhere.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the polleverywhere.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606003932id_/http%3A//www.polleverywhere.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Poll Everywhere
 
@@ -130,7 +130,8 @@ Please contact us at [questions@polleverywhere.com](mailto:questions@polleverywh
 
 Poll Everywhere, Inc.   
 Attn: Legal Department   
-340 S. Lemon Ave #2202   
-Walnut, CA 91789 
+1550 Bryant St.   
+Suite 700   
+San Francisco, CA 94103 
 
 PLEASE DO NOT SEND ANY SENSITIVE INFORMATION TO US VIA UNENCRYPTED EMAIL. Also, please note that we will need to verify and authenticate any emailed requests for access or changes to your personal or account information.
