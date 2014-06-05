@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the india272.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205001858id_/http%3A//www.india272.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the india272.com privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605044935id_/https%3A//www.india272.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Mission272+ Volunteer Platform | Lok Sabha Elections | Narendra Modi - Towards Majority
+# Privacy Policy - Mission272+ Volunteer Platform | BJP | 2014 Lok Sabha Elections | Narendra Modi
 
 We believe in offering complete confidentiality to those visiting our website. The Privacy Policy of the website respects your privacy and thus precisely puts forth the manner in which your data is collected and used by this website.
 
