@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the seussville.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102092659id_/http%3A//www.randomhouse.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seussville.com privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605094256id_/http%3A//www.randomhouse.com/about/privacy.html) for the most accurate reproduction.*
 
 # Random House - Privacy Policy
 
-_Last Changes to Privacy Policy: July 1, 2013_
+_Last Changes to Privacy Policy: December 20, 2013_
 
 We are strongly committed to protecting the privacy of your personal information. The policies below are applicable to the Random House network of websites including the randomhouse.com website; our divisional and imprint websites (e.g., bantam-dell.atrandom.com, crownpublishing.com, fodors.com, knopfdoubleday.com, livinglanguage.com, primagames.com); genre websites hosted and maintained by us (e.g., suvudu.com, booksforbetterliving.com, wordandfilm.com); Random House author sites hosted and maintained by us; all email newsletters published by Random House, including on behalf of our authors; all apps published by Random House; and all other interactive features, services, and communications provided by Random House (collectively, "Sites"), however accessed and/or used, that are operated by us, made available by us, or produced and maintained by Random House LLC. (collectively, "Random House" or "we", "us", or "our"). We have established this privacy policy ("Privacy Policy") to let you know the kinds of personal information we may gather during your visit to these Sites, why we gather your information, what we use your personal information for, when we might disclose your personal information, and how you can manage your personal information. 
 
@@ -28,6 +28,7 @@ If you have any questions about this Privacy Policy or don't see your concerns a
   * Changes to This Policy
   * How Do I Opt-Out or Correct Information About Me
   * Your California Privacy Rights
+  * Do Not Track Practices
 
 
 
@@ -83,12 +84,12 @@ Like many websites, we use "cookies", which are small text files that are stored
 
 You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but, if you prefer, you can usually modify your browser setting to decline cookies. For more information on cookies and how to disable them, you can consult the information provided by the Interactive Advertising Bureau at [www.allaboutcookies.org](http://www.allaboutcookies.org/ "Information on cookies and how to disable them provided by the Interactive Advertising Bureau"). 
 
-We may also use web beacons or flash cookies. A web beacon or flash cookie (also known as "action tags", "tracer tags", or "single-pixel gifs") is an invisible graphic on a web page that is programmed to collect non-personal information about your use of a given website. We do not share or provide personal information we may collect through such web beacons, such as names, e-mail addresses and phone numbers with our advertisers without your express permission. 
+We may also use web beacons or flash cookies. A web beacon or flash cookie (also known as "action tags", "tracer tags", or "single-pixel gifs") is an invisible graphic on a web page that is programmed only to collect non-personal information about your use of a given website. We do not collect personally identifiable information, such as names, e-mail addresses and phone numbers, through such web beacons without your express permission. 
 
-We work with third-party advertising companies who may utilize flash or enhanced cookies or web beacons to better provide advertisements about goods and services that may be of interest to you. These partners do not have access to or use your name, address, e-mail address, telephone number or other personal information from us. They may, however, anonymously track your Internet usage across other websites in their networks beyond these Sites. To learn more about the use of this information or to choose not to have this information used by our third-party advertising partners by opting out please visit the Network Advertising Initiative by clicking <http://www.networkadvertising.org/managing/opt_out.asp>. 
+We work with third-party advertising companies who also may utilize flash or enhanced cookies or web beacons to better provide advertisements about goods and services that may be of interest to you. These partners do not use this technology to collect personally identifiable information about you or have access to or use your name, address, e-mail address, telephone number or other personal information from us. They may, however, anonymously track your Internet usage across other websites in their networks beyond these Sites. To learn more about the use of this information or to choose not to have this information used by our third-party advertising partners by opting out please visit the Network Advertising Initiative by clicking <http://www.networkadvertising.org/managing/opt_out.asp>. 
 
 **Is Personal Information Collected From Children?**  
-Unless otherwise disclosed during collection and with parent or guardian consent, Random House does not knowingly collect personal identifiable information from children under 13 years of age. If you are under 13 years of age you should not under any circumstance provide personally identifiable information to Random House. If Random House discovers that a child under the age of 13 has provided Random House with personally identifiable information, Random House will immediately delete that child's information from the Sites. 
+Random House respects the privacy of children and we are committed to complying with the Children's Online Privacy Protection Act (COPPA). This Site does not knowingly collect, use, or disclose personal information from children under the age of 13 without prior parental consent, except as permitted by COPPA. By providing your consent, you agree that we may collect, use, and disclose your child's personal information consistent with this Privacy Policy. If you have questions concerning our information practices with respect to children, or if you would like to review, have deleted, or stop the further collection of your child's personal information in connection with the transaction for which it was originally collected, you may email us at ecustomerservice@randomhouse.com. Please note that the Site may link to other websites and online services operated by third parties, including authors whose books we publish that are not Random House author sites hosted and maintained by us. These websites and applications operate independently from us, and we do not control their privacy practices. We encourage you to review the privacy policies of any third-party sites or applications to which your child provides personal information. For tips on protecting your child's privacy online, please see the U.S. Federal Trade Commission's brochure on this topic: [www.onguardonline.gov](http://www.onguardonline.gov/)
 
 **How Do We Use Your Information?**  
 We use the information we learn from you to help us personalize and continually improve your experience on the Sites. We may use your Personal and Non-Personal Information in the following ways: 
@@ -173,3 +174,24 @@ You may always opt-out of receiving future e-mail messages and newsletters from 
 
 **Your California Privacy Rights**  
 California Civil Code Section 1798.83 permits customers of Random House who are California residents to request certain information regarding its disclosure of their personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [ecustomerservice@randomhouse.com](mailto:ecustomerservice@randomhouse.com). 
+
+**Do Not Track Practices**  
+As of the date of this privacy policy listed above, we cannot honor web browser “do-not-track” signals because we use third party vendors who do not honor such signals. While we collect personally identifiable information from you as described earlier in this privacy policy, we do not collect personally identifiable information from you to monitor your online activities across third party websites or online services and over time (also known as behavioral advertising or interest-based advertising). We do not use or allow third parties to collect personally identifiable information from you on the Sites in order to monitor your online activities across third party websites or online services and over time (also known as behavioral advertising or interest-based advertising). For more information about behavioral advertising or interest-based advertising and for further information on how to opt out from such advertising (and what “opting-out” does and doesn’t do), click <http://www.networkadvertising.org/choices/#completed>
+
+**CONTACT US**
+
+If you have any questions about this Privacy Policy, you may contact us as follows:
+
+**By mail:**  
+Online Privacy  
+Attn: Customer Service  
+Random House LLC  
+1745 Broadway  
+New York, NY 10019 
+
+**Phone:**  
+(800) 793-2665  
+
+
+**Email:**   
+ecustomerservice@randomhouse.com 
