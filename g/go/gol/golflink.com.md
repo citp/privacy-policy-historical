@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the golflink.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210170606id_/http%3A//www.golflink.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the golflink.com privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605173345id_/http%3A//www.golflink.com/privacy.aspx) for the most accurate reproduction.*
 
 # GolfLink Privacy and Information Security Policy
 
