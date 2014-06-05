@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the getorganizedforsuccess.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205002027id_/http%3A//www.getorganizedforsuccess.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getorganizedforsuccess.com privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605180528id_/http%3A//getorganizedforsuccess.com/privacy.php) for the most accurate reproduction.*
 
 # Get Organized for Success
-
-Recommended  
-[](http://getorganizedforsuccess.com/bannerclick.php?id=28)
 
 Get Organized for Success Privacy Policy
 
