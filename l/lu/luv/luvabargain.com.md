@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the luvabargain.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201004158id_/http%3A//www.luvabargain.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luvabargain.com privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605110300id_/http%3A//www.luvabargain.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Luv a Bargain
+
+[](https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.luvabargain.com%2Fprivacy-policy&media=&description=Privacy%20Policy)
 
 ## **The Privacy Policy for Luv a Bargain**
 
@@ -15,7 +17,7 @@ Like many other Web sites, www.luvabargain.com makes use of log files. The infor
 www.luvabargain.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
  **DoubleClick DART Cookie**  
-.:: Google, as a third party vendor, uses cookies to serve ads on [www.luvabargain.com](https://web.archive.org/web/20131201004158id_/http%3A//).  
+.:: Google, as a third party vendor, uses cookies to serve ads on [www.luvabargain.com](https://web.archive.org/web/20140605110300id_/http%3A//).  
 .:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.luvabargain.com and other sites on the Internet.  
 .:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
 
