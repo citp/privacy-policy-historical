@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everydayfunnyfunny.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127012849id_/http%3A//everydayfunnyfunny.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everydayfunnyfunny.com privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605200745id_/http%3A//everydayfunnyfunny.com/privacy-policy) for the most accurate reproduction.*
 
 # Everyday Funny Funny | Privacy Policy
 
@@ -41,3 +41,5 @@ These links are part of a pay per click advertising program called Infolinks. In
 What you read here may or may not be true. 
 
 EverydayFunnyFunny.com claims no credit for the videos and images displayed on this site. If you own the rights to these videos and images, and do not wish them to appear here, please contact us:
+
+[contact-form 1 "Contact form 1"]
