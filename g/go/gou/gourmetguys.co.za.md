@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gourmetguys.co.za privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818201053id_/http%3A//gourmetguys.co.za/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gourmetguys.co.za privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605114134id_/http%3A//gourmetguys.co.za/privacy) for the most accurate reproduction.*
 
 # Privacy
 
