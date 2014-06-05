@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the landrover.co.uk privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202145730id_/http%3A//www.landrover.com/gb/en/lr/privacy-policy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landrover.co.uk privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606000816id_/http%3A//www.landrover.com/gb/en/lr/privacy-policy/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Land Rover UK
 
@@ -37,8 +37,17 @@ If you choose to receive information or other communications from us, you can se
 
 If you have allowed us to use your personal information for the purposes above, we may from time to time disclose this information to any company or organisation to which we pass the responsibility to handle email or other direct marketing communications on our behalf. Should this happen, we ensure that any third party companies who handle your information comply with the relevant Data Protection legislation. 
 
+**ONLINE BEHAVIOURAL ADVERTISING**  
+
+
+Online Behavioural Advertising is a form of advertising that recognises trends in an individual’s online experience and displays information/advertising based on these trends. This form of advertising does not access any personal data, but aims to provide the type of information/advertising that is of most interest to the user.
+
+If you do not want to have this type of information being collected, you can opt out by following the link below.  
+[  
+http://www.youronlinechoices.com/uk/](https://web.archive.org/gb/en/lr/external-link?url=http%3a%2f%2fwww.youronlinechoices.com%2fuk%2f "&lt; no link selected &gt;")
+
   
-**OTHER INFORMATION COLLECTED DURING YOUR VISIT TO OUR SITE  
+ **OTHER INFORMATION COLLECTED DURING YOUR VISIT TO OUR SITE  
 **  
 Whenever you browse the [http://www.landrover.co.uk](http://www.landrover.com/gb/en/lr/ "lr - Land Rover") website, read pages, or download information, our computers automatically record certain information about your visit from the computer you use to access our site. 
 
