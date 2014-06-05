@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the digitaldjtips.com privacy policy that was archived on 2013-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131021051721id_/http%3A//www.digitaldjtips.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitaldjtips.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606003805id_/http%3A//www.digitaldjtips.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Digital DJ Tips
+# Privacy Policy - Digital DJ Tips
 
 **What information do we collect?**
 
@@ -68,6 +68,4 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 **Contacting us**
 
-If there are any questions regarding this privacy policy you may contact us via [email](mailto:support@digitaldjtips.com) or using our [online form](http://www.digitaldjtips.com/contact).
-
-[](http://creativecommons.org/licenses/by-nc-sa/3.0/)This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License](http://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US).
+If there are any questions regarding this privacy policy you may contact us via info AT digitaldjtips DOT com.
