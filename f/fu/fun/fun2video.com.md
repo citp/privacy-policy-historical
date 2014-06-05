@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fun2video.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204201950id_/http%3A//www.fun2video.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fun2video.com privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605230356id_/http%3A//www.fun2video.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Funny Pictures, Jokes, Cute & Love Pictures & Indian Pictures, Photos, Images
 
