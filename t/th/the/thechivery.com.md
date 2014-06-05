@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thechivery.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817042117id_/http%3A//www.thechivery.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thechivery.com privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605035732id_/http%3A//www.thechivery.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - The Chivery
+# Privacy Policy – The Chivery
 
 ## Your Email:
 
@@ -24,4 +24,4 @@ We maintain best practices to protect your information, which include appropriat
 
 ## Under 13?:
 
-If you are under the age of 13, you are not permitted to submit any personal information to theCHIVERY.com. TheCHIVERY.com is intended for users who are 13 years of age and older. Get outta here, you pesky kids!
+If you are under the age of 13, you are not permitted to submit any personal information to TheChivery.com. TheChivery.com is intended for users who are 13 years of age and older. Get outta here, you pesky kids!
