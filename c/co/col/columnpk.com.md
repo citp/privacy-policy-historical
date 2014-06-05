@@ -1,38 +1,38 @@
-> *The following text is extracted and transformed from the columnpk.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224190328id_/http%3A//www.columnpk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the columnpk.com privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605121003id_/http%3A//www.columnpk.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Columnpk.com
+# Privacy Policy | Columnpk.Com | Urdu Columns on Latest Current Political & Social Issues
 
-Posted by 8 January, 2013 
+      __March 4, 2014 [Privacy](http://www.columnpk.com/privacy-policy/)2014-03-05T19:10:53+00:00     
 
-Advertisement
-
-The privacy of our visitors to **http://www.columnpk.com** is important to us.
-
-At **http://www.columnpk.com** , we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit **http://www.columnpk.com** , and how we safeguard your information. We never sell your personal information to third parties.
-
-**Log Files** As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
-
-**Cookies and Web Beacons** We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
-
-We also use third party advertisements on **http://www.columnpk.com** to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
-
-**DoubleClick DART cookies** We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests (“interest based targeting”). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses “non personally identifiable information”. It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting [http://www.google.com/privacy/ads/ ](http://www.google.com/privacy/ads/)
-
-You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
-
-Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
-
- Updates in Privacy Policy:  
-We may update or amend this privacy policy from time to time. You are advised to review this policy each time you use this website.
-
-**Contact Us:**
-
-If you want to contact us then please writes us on **webmaster@columnpk.com**
-
-Advertisement
-
-Daily Urdu Columns, News, from Famous Pakistani Urdu Newspapers. Jobs, Admissions, Scholarships, SMS, Past Papers, Wallpapers and Much More.
-
-[](http://dailysmspk.com/online-sim-information-system/)
-
-Categories : [Pakistan](http://www.columnpk.com/category/pakistan/ "View all posts in Pakistan") Tags : 
+The protection of your personal data, information and privacy is our prime concern. We are devoted to provide you the best service and for this purpose we need some of your personal information to use the service. You can also use the service without providing any personal information but if you want to take advantage of some of our special services you need to provide some of your personal information so we may better serve you in every possible way. **www.columnpk.com** is directly controlled by **columnpk.com** owner and team.  
+**Information:**  
+We collect some information about you to use the service. There are two ways to collect the information. Please keep in mind that this collected information is solely to protect you and service from any possible potential threat and for our convenience so that we can serve in a better way. We collect your information directly and indirectly.  
+**Direct information:**  
+Some of the information is directly collected from the users, for example we ask users to provide us their email, phone no, city, country, name, postal code etc to avail some of our special services like weekly, monthly and daily newsletters through email.  
+**Indirect information:**  
+Besides direct information some of the information is also collected by the server or us that is necessary for the safety of our users and network as well. For example server collects certain information from your use of the service that is auto generated whenever you try to connect to internet. In such information your wider Internet Protocol (IP) addresses, location, country and region etc.  
+**Cookies:**  
+We may use some cookies or any other relevant technology to acquire certain information, but keep in mind that such cookies will only collect the information when you register to the account for our special services. If you don’t want to benefit from special services such cookies may not acquire any personal information from your use except some of the general information.  
+Such cookies also collect some portion of information excluding personal information like your IP and location, browser, technology etc but certainly it has nothing to do with your personal information neither it identify you personally. We use this information to measure the traffic on our web site and help us to evaluate the content that how widely it is being admired by the users.  
+**Google Analytics:**  
+Along with cookies we also use Google Analytics which helps us to analyze the traffic and flow of traffic as well. Analytics help us to know about the city, country, region, browser, technology and behavior of the user which help us to analyze the data in a unique way which helps us to provide the better services to our users according to their demands.  
+**Third party ads or content:**  
+Columnpk.com also contains third party links, content or ads on the service like Google AdSense in the forms of ads and other display material or content and every third party has their own privacy policy. **Columnpk.com** is not responsible directly or indirectly for any third party link or content on the service. We strongly recommend you to visit their privacy policy when you visit their links or web sites using the service.  
+**Disclosure of information:**  
+**Columnpk.com** may share your personal information to third party under special or certain circumstances. For example,  
+Where there is requested by law, any government, court, government agencies or any other competent authority for certain purposes, like to verify the identity of the user, investigation related to cyber crimes, cyber crimes in their extreme condition, detection or to punishment for any offenses related to the service or services or any illegal activity being done while using the service/services.  
+We may also share some of the personal information with venders, partners, investors or share holder in order to complete our business goals and to protect our users against any direct or indirect potential threat. Please keep in mind that we are committed to be transparent about the information so that we can provide safe and secure service to the users. If anything may be done that would be for your safety and ours as well.  
+**Limitation:**  
+The content available on our website is as it is as available we do not warranty of the authenticity or correctness of the data or even we do not give any warranty of the security, error free or virus free of the data, although human error will definitely be corrected. And we will not be liable to any of the warrant about the content provided to service or provided by the third party. And we shall not be liable to any direct or indirect claim under any legal theory such as, Tort, Strict Liability, Contract, Personal Injury, Wrongful Death, consequential or incident damage etc. And we will not be responsible for any loss of opportunity and lost of data.  
+**Indemnify:**  
+The user will defend indemnity and will be harmless to columnpk.com network, its partners, vendors, officers and employees etc against any implied or expressed claim, including lawyers, expenses and fee. And columnpk holds all the rights of defense and will control any claim subject to indemnity or claim arising from any account or part.  
+**Choices:**  
+The users may have plenty of choices to use the service like if you don’t want to register for special services or even don’t want to receive any newsletter from the network you may use the service without registration.  
+Besides the users can edit modify or update their personal information any time just logging in to their account, change the flow of the newsletters by choosing daily newsletters to weekly or monthly or even they can delete the account from the service anytime. If you delete your account you may not be able to get advantage of some of our special services.  
+**Security:**  
+Our user’s security, protection and privacy are our prime concern and we are committed to the privacy and security of our users. Due to the expanding network one cannot guarantee for the full security of the personal information. Unfortunately none of the data online is fully secured or safe but we have taken special steps with the support of modern technology that helps us to protect the personal information against any unwanted disclosure or damage.  
+**Disclaimer:**  
+**Columnpk.com** holds and is the sole owner of the content available on the service like design, logo and images etc. Besides, the data that is widely provided by writers, columnists who hold the intellectual property rights and share their data with our network through an email exchange so you will not share, reproduce or sold the data without prior written consent of intellectual property owner.  
+**Contact:**  
+If you have any issue/issues or suggestions regarding this privacy policy please feel free to contact us at our network webmaster@columnpk.com. We will admire and honor your participation.
+  *[March 4, 2014]: 2014-03-04T20:49:31+00:00
