@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ragecomics.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229080947id_/http%3A//ragecomics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ragecomics.com privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605090428id_/http%3A//ragecomics.com/privacy-policy) for the most accurate reproduction.*
 
 # Rage Comics
 
@@ -54,7 +54,7 @@ This Privacy Policy applies to Rage Comics's collection, use, storage and disclo
 
 3.4 Summary Data. Rage Comics may sell or transfer non-individualized information, such as summary or aggregated anonymous information about all persons or sub-groups of persons. 
 
-3.5 Access. Individuals have access to their Individual Information collected to provide an opportunity for an individual to correct, amend, or delete such information. Access can be obtained by contacting [support@ragecomics.com](mailto:support@ragecomics.com). Rage Comics may also grant advertising clients and email services providers' access to an individual's email address to verify the origin of the Individual Information collected. 
+3.5 Access. Individuals have access to their Individual Information collected to provide an opportunity for an individual to correct, amend, or delete such information. Access can be obtained by contacting [support@rageposts.com](mailto:support@rageposts.com). Rage Comics may also grant advertising clients and email services providers' access to an individual's email address to verify the origin of the Individual Information collected. 
 
 4\. Privacy Practices of Third Parties.
 
@@ -65,5 +65,3 @@ This Privacy Policy applies to Rage Comics's collection, use, storage and disclo
 4.3 Affiliated Companies. Rage Comics may disclose, transfer, and sell Individual Information to entities affiliated with Rage Comics in Rage Comics's discretion. Should Rage Comics be subject to an acquisition, merger, sale or other change of control or business entity status, Rage Comics reserves the right to transfer or assign the Information collected from the Website. 
 
 5.Individuals Outside of the United States. Anyone using the Website outside of the United States acknowledges that personal information will be collected and stored by Rage Comics in the United States. By using the Website, you consent to the transfer of information to and/or storage of information outside of your country and in the United States. 
-
-## Like Rage Comics? Download our free app now!
