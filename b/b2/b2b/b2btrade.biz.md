@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the b2btrade.biz privacy policy that was archived on 2013-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130925175258id_/http%3A//www.b2btrade.biz/Privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the b2btrade.biz privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605053846id_/http%3A//www.b2btrade.biz/Privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy of B2btrade.biz - Asia B2B trade Portal for Import Export Business focus on Asia
 
@@ -84,4 +84,4 @@ If you have questions or suggestions complete a feedback form or send an email t
 
 [About us](https://web.archive.org/aboutus.php) :: [Contact us](https://web.archive.org/?mode=feedback) :: [Terms of Use](https://web.archive.org/termsofuse.php) :: [Privacy policy](https://web.archive.org/Privacy.php) :: [Advertise with us](https://web.archive.org/?mode=banner)  
 Book Mark this site ! :: Make us your startpage :: [Tell a Partner](https://web.archive.org/tellpartner.php)  
-**Copyright © 2011 b2btrade.biz.** All rights resevered by
+**Copyright © 2014 b2btrade.biz.** All rights resevered by
