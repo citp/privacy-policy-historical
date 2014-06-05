@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the militaryconnection.com privacy policy that was archived on 2013-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130920072532id_/http%3A//www.militaryconnection.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the militaryconnection.com privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605072421id_/http%3A//www.militaryconnection.com/privacy.asp) for the most accurate reproduction.*
 
 # Military Connection - Privacy Policy
 
   
 
 
-[](https://web.archive.org/click_thru_count.asp?ad_id=1123&page_id=252&page_pos=Top)  
+[](https://web.archive.org/click_thru_count.asp?ad_id=910&page_id=252&page_pos=Top)  
 
 
 Privacy Policy
