@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the falconsafety.com privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129180907id_/http%3A//www.falconsafety.com/%3Fpage_id%3D785) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the falconsafety.com privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605030601id_/http%3A//www.falconsafety.com/%3Fpage_id%3D785) for the most accurate reproduction.*
 
 # Falcon Safety
 
@@ -40,7 +40,7 @@ Falcon Safety shall only make Onward Transfers of personally-identifiable inform
 
 [](http://www.shopfalcon.com/)
 
-[](http://www.falconsafety.com/?page_id=34)
+[](http://www.falconsafety.com/brands/digipals-usa)
 
 [](http://www.falconsafety.com/?page_id=56/)
 
