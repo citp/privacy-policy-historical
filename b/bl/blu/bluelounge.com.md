@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluelounge.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210125949id_/http%3A//www.bluelounge.com/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluelounge.com privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605224651id_/http%3A//www.bluelounge.com/about/privacypolicy) for the most accurate reproduction.*
 
 # Bluelounge - Privacy Policy
 
