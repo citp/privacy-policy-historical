@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the coop.com.au privacy policy that was archived on 2013-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131207024920id_/http%3A//www.coop.com.au/bookshop/html/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the coop.com.au privacy policy that was archived on 2014-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140605121505id_/http%3A//www.coop.com.au/bookshop/html/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html style="" class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><!--<![endif]--><!-- 
 xmlns="http://www.w3.org/1999/xhtml"
@@ -10,27 +10,25 @@ xmlns:fb="http://www.facebook.com/2008/fbml"
     
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <meta name="description" content="Leading Australian retailer of educational and professional books. Specialising in University &amp; TAFE textbooks, medical, nursing &amp; legal textbooks, as well as general books, eBooks, software, stationery and phone deals">
+    <meta name="description" content="Leading Australian retailer of educational and professional books. Specialising in educational and professional textbooks we offer FREE shipping anywhere in Australia.">
     <meta name="keywords" content="Co-op, Coop, University, coop, bookstore, bookshop, books, online bookstore, australian bookshop, shop for books, recommended books, eBooks, free, worldwide, delivery, offers, membership, member prices bestsellers, coming soon, new arrivals, just-in software, educational software, course notes, study guides, text lists, textbooks, textbook, educational, university texts, university textbooks, TAFE, dictionaries, business management, fiction, philosophy, politics books, discount books, medical, nursing, law, legal, art, design, travel, biographies,  travel guides, childrens books, university apparel, fashion design books, bestsellers, gifts, food, drink">
     <meta name="robots" content="NOODP">
     <meta name="msvalidate.01" content="B74FEFFB25EFA003AF5A66969F76F548">
     <meta name="p:domain_verify" content="e454b9249ccb062aa361c04506be98cc"><!--pinterest verification-->
     
         
-	
-<link href="https://plus.google.com/109748194502366975954/" rel="publisher">
-    <link rel="stylesheet" type="text/css" href="/styles/base.css" media="all">
+	<link href="https://plus.google.com/109748194502366975954/" rel="publisher">
+	<link rel="stylesheet" href="/styles/base.css" type="text/css" media="screen">
     <link rel="stylesheet" href="/styles/rateit.css" type="text/css" media="screen">
     <link rel="stylesheet" href="/styles/modal.css" type="text/css" media="screen">
     <link rel="stylesheet" href="/styles/modal_out.css" type="text/css" media="screen">
     <link rel="stylesheet" href="/styles/tooltip.css" type="text/css" media="screen">
     <link rel="stylesheet" href="/styles/styled-tooltip.css" type="text/css">
-
     <link rel="stylesheet" href="/styles/compile-static.css" type="text/css">
     <link rel="stylesheet" href="/styles/static.css" type="text/css">
-    <!-- This has been deployed correctly -->
-    
-    <script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="/javascript/jquery.js"></script>
+  
+    <script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script src="//cdn.optimizely.com/js/759271652.js"></script><!-- optimizly tracking-->
+    <script type="text/javascript" src="/javascript/jquery.js"></script>
     <script type="text/javascript" src="/javascript/plugins.js"></script>
     <script type="text/javascript" src="/javascript/base.js"></script>
     <script type="text/javascript" src="/javascript/base2.js"></script>
@@ -53,16 +51,54 @@ xmlns:fb="http://www.facebook.com/2008/fbml"
    
     <script type="text/javascript" src="/javascript/mobile.js"></script>
     <script type="text/javascript" src="/javascript/modernizr-latest.js"></script>
+    <script type="text/javascript" src="/javascript/jquery-lazyload-min.js"></script>
+    <script type="text/javascript" src="/javascript/jquery-dotdotdot-min.js"></script>
+
+
+    <!-- Temporary position for jquery lazyload plugin -->
+    <script type="text/javascript">
+      jQuery('document').ready(function() {
+        
+        jQuery("img.lazy").show().lazyload({
+          threshold: 200,
+          effect: 'fadeIn',
+          event: 'scroll tab',
+          failure_limit : 100
+        });
+
+        
+        jQuery(".ellipsis").dotdotdot({
+          after: "a.readmore",
+          height: 20
+        });
+
+        jQuery(".subnav").click(function() {
+          jQuery("img.lazy").trigger("tab");
+        });
+      });
+    </script>
+
     
     <!-- Google Analytics Tracking begin-->
-    <script type="text/javascript">
-		var _gaq = _gaq || [];                                 
-		_gaq.push(['_setAccount', 'UA-3123511-1']);
-		_gaq.push(['_trackPageview']);
-    </script>
+   <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3123511-1']);
+  _gaq.push(['_setDomainName', 'coop.com.au']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
     <!-- Google Analytics Tracking end-->
+    
 </head>
-<body>
+<body class="safari">
   
   	<!-- start /common/header.html -->
 	<script src="/javascript/header.js" type="text/javascript"></script>
@@ -126,6 +162,7 @@ xmlns:fb="http://www.facebook.com/2008/fbml"
 							<ul>
 								<li><a href="http://www.coop.com.au/bookshop/about/about-us.html">About the Co-op</a></li>
 								<li><a href="http://www.coop.com.au/bookshop/about/welcome.html">CEO Message</a></li>
+                                <li><a href="http://www.coop.com.au/bookshop/about/executive-profiles.html">Executive Profiles</a></li>
 								<li><a href="http://www.coop.com.au/bookshop/about/we-support.html">We Support</a></li>
 								<li><a href="http://www.coop.com.au/bookshop/about/coop-employment.html">Work at the Co-op</a></li>
 								<li><a href="http://www.coop.com.au/bookshop/about/what-is-coop.html">What is a Co-op</a></li>
@@ -141,15 +178,21 @@ xmlns:fb="http://www.facebook.com/2008/fbml"
 								<li><a href="http://www.coop.com.au/bookshop/html/pricing-policy.html">Pricing Policy</a></li>
 								<li><a href="http://www.coop.com.au/bookshop/html/availability.html">Availability</a></li>
 								<li><a href="http://www.coop.com.au/bookshop/about/lfl.html">Learning for Life</a></li>
-								<li><a href="/page_images/order_form.pdf">Mail Order Form (pdf)</a></li>
+								<!--<li><a href="/page_images/order_form.pdf">Mail Order Form (pdf)</a></li>-->
 							</ul>
 						</li>
 						<li><a href="http://www.coop.com.au/bookshop/about/contact-us.html">Contact Us</a></li>
 						<li><a href="http://www.coop.com.au/bookshop/about/store-information.html">Our Stores</a></li>
 						<li><a>Membership</a>
 							<ul>
-								<li><a href="http://www.coop.com.au/bookshop/action_sn/MembershipDetails">Join</a></li>
-								<li><a href="http://www.coop.com.au/bookshop/membership/membership-information.html">Why you should become a Member</a></li>
+								<!-- Start navigation membership links common/nav-member.html -->
+
+<li><a href="http://www.coop.com.au/bookshop/action_sn/MembershipDetails">Buy Membership</a></li>
+<li><a href="http://www.coop.com.au/bookshop/membership/membership-information.html">Why you should become a Member</a></li>
+
+<!-- End navigation membership links common/nav-member.html -->
+
+                                <li><a href="http://www.coop.com.au/bookshop/membership/membership-switch.html">Switch Membership Card Info</a></li>
 								<li><a href="http://www.coop.com.au/bookshop/action_sn/UpdateMyDetails">Update Your Details</a></li>
 								<li><a href="http://www.coop.com.au/bookshop/action_sn/MembershipCard">Replacement Member Card</a></li>
 								<li><a href="http://www.coop.com.au/bookshop/action_sn/MemberCheckManager">Am I Still A Member?</a></li>
@@ -175,13 +218,12 @@ xmlns:fb="http://www.facebook.com/2008/fbml"
 									</span>
 								</li>
 								<li class="empty">
-									<div class="empty_cart"> Your cart is Empty</div>
+									<div class="empty_cart">Your cart is Empty</div>
 								</li>
 							 	<div class="mycart_bottom">
 									<div class="total_price">TOTAL&nbsp;&nbsp; <span class="mycart_total_amount"></span></div>
 									<div class="notice">
-										<em>* Discounts are applied during
-										checkout</em>
+										<em>* Discounts are applied during checkout</em>
 									</div>
 									<div class="btn-medium btn-secondary" onclick="location.href='/bookshop/mybasket';">Shopping Cart</div>
 									<div class="btn-medium btn-secondary" onclick="location.href='/bookshop/checkout';">Checkout</div>
@@ -195,9 +237,14 @@ xmlns:fb="http://www.facebook.com/2008/fbml"
 	<a href="/bookshop/action_sn/LoginPage?_return_=/home/homepage.html"><i class="icon_nav icon_myaccount"></i>Login</a>
 </li>
 
+<!-- Start common/join-link.html -->
+
 <li class="myaccount join">
-	<a href="/bookshop/action_sn/MembershipDetails">Join</a>
+	<a href="/bookshop/action_sn/MembershipDetails">Buy Membership</a>
 </li>
+
+<!-- End common/join-link.html -->
+
 
 <li class="myaccount join">
 	<a href="/bookshop/action_so/WishListManagementPage">Wishlist</a>
@@ -211,6 +258,7 @@ xmlns:fb="http://www.facebook.com/2008/fbml"
 	<!-- END NAVIGATION BAR -->
 	<div class="grid-container">
 		<div class="grid-row tablet-row">
+			
 			<div class="col-2 col-xs-full top-banner">
 				<a id="hdg-logo" href="http://www.coop.com.au/bookshop" target="_self">The Co-op</a>
 				<div class="hidden-desktop">
@@ -218,9 +266,10 @@ xmlns:fb="http://www.facebook.com/2008/fbml"
 					<a id="icon-cart"></a>
 				</div>
 			</div>
+			
 			<div class="col-7 col-xs-12">
 				<div class="grid-row">
-					<div id="ctn-members" class="col-5"><span>Australia's largest member owned retailer</span> | <span> 1,762,653 Members</span></div>
+					<div id="ctn-members" class="col-5"><span>Australia's largest member owned retailer</span> | <span> 1,817,592 Members</span></div>
 					<div id="ctn-advanced-search" class="col-2 visible-desktop"><a href="/bookshop/search/general">Advanced Search</a></div>
 				</div>
 				<div id="frm-search">
@@ -232,220 +281,351 @@ xmlns:fb="http://www.facebook.com/2008/fbml"
 						<!--<a href="http://www.coop.com.au/bookshop/search/general">Advanced Search</a>-->
 					</form>
 				</div>
+
+				<div id="banner" class="free-shipping">
+					<span></span>
+					<div><span></span>&nbsp;FREE STANDARD SHIPPING&nbsp;&nbsp;<em>*Limited Time Only</em></div>
+				</div>
+
 			</div>
 			<div class="col-3 col-xs-12"> <a href="http://www.coop.com.au/bookshop/action/DataSubjSelect" class="btn-medium btn-primary textbook"><span class="icon-textbook"></span>Textbook Search</a> </div>
 			<!-- (/common/nav-browse.html) -->
 		</div>
-		<ul class="categories_desktop visible-desktop">
-			<li class="category"> <a>Books</a>
+		
+		<!-- Category navigation fragment -->
+		<!-- START CATEGORY NAVIGATION - common/navigation-categories.html /-->
 
-				<ul class="submenu-wrapper hover-left books">
+<ul class="categories_desktop visible-desktop">
+	<li class="category"> <a>Books</a>
 
-					<li class="links-wrapper links-three-col right-line">
-						<h3>Books</h3>
-						<ul>
-							<li><a href="http://www.coop.com.au/bookshop/promotions/anzac-day.html">ANZAC</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/promotions/popular-culture-books.html">Sci-fi, Fantasy &amp; Pop Culture</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/promotions/australian-authors.html">Australian Authors</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/promotions/australias-best.html">Australiana</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/whats_new/bestsellers.html">Bestsellers</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/category/biography.html">Biography</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/category/childrens-books.html">Children's </a></li>
-							<li><a href="http://www.coop.com.au/bookshop/category/computer.html">Computing &amp; Technology</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/category/dictionaries.html">Dictionaries</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/category/esl-books.html">English Language Resources</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/category/fashion.html">Fashion</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/category/fiction.html">Fiction</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/category/non-fiction.html">Non-Fiction </a></li>
-							<li><a href="http://www.coop.com.au/bookshop/category/cooking-books.html">Food &amp; Cooking</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/category/gift-books.html">Gift Ideas</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/promotions/hbr-must-reads.html">HBR Must Reads</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/promotions/jamie-oliver-cookbooks.html">Jamie Oliver</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/promotions/movie-tie-in.html">Movie Tie-Ins</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/promotions/new-releases.html">New Releases</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/promotions/popular-culture-books.html">Pop Culture</a></li>
-							<!--<li><a href="http://www.coop.com.au/bookshop/promotions/back-to-uni-practical-help.html">Self Help</a></li>-->
-							<li><a href="http://www.coop.com.au/bookshop/promotions/back-to-uni-practical-help.html">Self Help</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/category/travel.html">Travel </a></li>
-						</ul>
-					</li>
+		<ul class="submenu-wrapper hover-left nav-ctn-4">
 
-					<li class="links-wrapper">
-						<h3>Study Guides</h3>
-						<ul>
-							<li><a href="http://www.coop.com.au/bookshop/promotions/pocket-study-skills.html">Pocket Study Skills</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/category/study-guides.html">Study Guides</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/promotions/30-second-series.html">30 Second Series</a></li>
-						</ul>
-					</li>
-
+			<li class="links-wrapper nav-col-3 right-line">
+				<h3>Books</h3>
+				<ul>
+					<li><a href="http://www.coop.com.au/bookshop/promotions/anzac-day.html">ANZAC History</a></li>
+                    <li><a href="http://www.coop.com.au/bookshop/category/art-and-design.html">Art &amp; Design</a></li>
+					<li><a href="http://www.coop.com.au/bookshop/promotions/australian-authors.html">Australian Authors</a></li>
+					<li><a href="http://www.coop.com.au/bookshop/promotions/australias-best.html">Australiana</a></li>
+                    <li><a href="http://www.coop.com.au/bookshop/category/australian-field-guides.html">Australian Field Guides</a></li>
+                    <li><a href="http://www.coop.com.au/bookshop/category/bargain-classics.html">Bargain Classics</a></li>
+					<li><a href="http://www.coop.com.au/bookshop/whats_new/bestsellers.html">Bestsellers</a></li>
+					<li><a href="http://www.coop.com.au/bookshop/category/biography.html">Biography</a></li>
+					<li><a href="http://www.coop.com.au/bookshop/category/childrens-books.html">Children's </a></li>
+					<li><a href="http://www.coop.com.au/bookshop/category/computer.html">Computing &amp; Technology</a></li>
+                    <li><a href="http://www.coop.com.au/bookshop/category/crime.html">Crime</a></li>  
+					<li><a href="http://www.coop.com.au/bookshop/category/dictionaries.html">Dictionaries</a></li>
+                    <li><a href="http://www.coop.com.au/bookshop/action_so/WishListDisplayPage?listID=5A5566C8FE4E10C71F23FC5C1DD2AA35">Doctor Who</a></li>
+                    <li><a href="http://www.coop.com.au/bookshop/category/for-dummies-books.html">For Dummies Series</a></li>
+					<li><a href="http://www.coop.com.au/bookshop/category/esl-books.html">English Language Resources</a></li>
+					<li><a href="http://www.coop.com.au/bookshop/category/fashion.html">Fashion</a></li>
+					<li><a href="http://www.coop.com.au/bookshop/category/fiction.html">Fiction</a></li>
+                    <li><a href="http://www.coop.com.au/bookshop/category/health-and-fitness.html">Health, Fitness &amp; Diet</a></li>
+					<li><a href="http://www.coop.com.au/bookshop/category/non-fiction.html">Non-Fiction </a></li>
+					<li><a href="http://www.coop.com.au/bookshop/category/cooking-books.html">Food &amp; Cooking</a></li>
+					<li><a href="http://www.coop.com.au/bookshop/category/gift-books.html">Gift Ideas</a></li>
+                    <li><a href="http://www.coop.com.au/bookshop/category/mind-body-spirit.html">Mind, Body, Spirit</a></li>
+					<li><a href="http://www.coop.com.au/bookshop/promotions/movie-tie-in.html">Movie Tie-Ins</a></li>
+					<li><a href="http://www.coop.com.au/bookshop/promotions/new-books.html">New Releases</a></li>
+                    <li><a href="http://www.coop.com.au/bookshop/category/parenting.html">Parenting</a></li>
+                    <li><a href="http://www.coop.com.au/bookshop/category/personal-finance.html">Personal Finance</a></li>
+                    <li><a href="http://www.coop.com.au/bookshop/promotions/pre-order.html">Pre-order</a></li>
+                    <li><a href="http://www.coop.com.au/bookshop/category/politics.html">Politics</a></li>
+					<li><a href="http://www.coop.com.au/bookshop/promotions/popular-culture-books.html">Pop Culture</a></li>
+                    <li><a href="http://www.coop.com.au/bookshop/category/romance.html">Romance Fiction</a></li>
+                    <li><a href="http://www.coop.com.au/bookshop/category/science.html">Science <span class="nav-new">new</span></a></li>
+					<li><a href="http://www.coop.com.au/bookshop/category/self-help.html">Self Help</a></li>
+                    <li><a href="http://www.coop.com.au/bookshop/promotions/popular-culture-books.html">Sci-fi, Fantasy &amp; Pop Culture</a></li>
+                    <li><a href="http://www.coop.com.au/bookshop/category/sport.html">Sport</a></li>
+					<li><a href="http://www.coop.com.au/bookshop/category/travel.html">Travel </a></li>
+                    <li><a href="http://www.coop.com.au/bookshop/category/lonely-planet-guides.html">Lonley Planet</a></li>
+                    <li><a href="http://www.coop.com.au/bookshop/category/young-adult-fiction.html">Young Adult Fiction</a></li>
 				</ul>
 			</li>
 
-			<li class="category"> <a>By Profession</a>
-
-				<ul class="submenu-wrapper hover-left profession">
-
-					<li class="links-wrapper links-two-col">
-						<h3>Books &amp; Equipment</h3>
-						<ul>
-							<li><a href="http://www.coop.com.au/bookshop/category/accounting.html">Accounting</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/category/anatomy.html">Anatomy</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/category/elsevier-medical-surgical-books.html">Elsevier Medical &amp; Surgical </a></li>
-							<li><a href="http://www.coop.com.au/bookshop/category/elsevier-general-nursing-books.html">Elsevier General Health &amp; Nursing</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/category/architecture.html">Architecture &amp; Interior Design</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/category/art-and-design.html">Art &amp; Design</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/category/business.html">Business &amp; Management</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/category/business-strategy.html">Business Strategy &amp; Leadership</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/category/education.html">Education</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/category/law.html">Legal</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/category/marketing.html">Marketing</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/category/medical.html">Medical</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/category/nursing.html">Nursing &amp; Midwifery</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/category/philosophy.html">Philosophy</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/category/politics.html">Politics</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/category/analysis.html">Quantitative &amp; Qualitative Analysis</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/category/sociology.html">Sociology</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/promotions/australian-tax-books.html">Tax </a></li>
-							<li><a href="http://www.coop.com.au/bookshop/promotions/binoculars-globes-home-weather-station-sale.html">Geography</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/promotions/celestron-telescopes-astonomy-kits.html">Science</a></li>
-						</ul>
-					</li>
+			<li class="links-wrapper nav-col-1">
+				<h3>Study Guides</h3>
+				<ul>
+					<li><a href="http://www.coop.com.au/bookshop/promotions/pocket-study-skills.html">Pocket Study Skills</a></li>
+                    <li><a href="http://www.coop.com.au/bookshop/category/practical-guide-series.html">Practical Guide Series</a></li>
+                    <li><a href="http://www.coop.com.au/bookshop/promotions/back-to-uni-practical-help.html">Starting Uni Guides</a></li>
+					<li><a href="http://www.coop.com.au/bookshop/category/study-guides.html">Study Guides</a></li>
+					<li><a href="http://www.coop.com.au/bookshop/promotions/30-second-series.html">30 Second Series</a></li>
+                    <li><a href="http://www.coop.com.au/bookshop/student/international-students.html">For International Students</a></li>
 				</ul>
 			</li>
 
-			<li class="category">
-				<a>Clothing &amp; Accessories</a>
-				<ul class="submenu-wrapper hover-left">
-					<li class="links-wrapper">
-						<ul>
-							<li><a href="http://www.coop.com.au/bookshop/apparel/university-clothing.html">University apparel</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/category/unity-eyewear.html">Sunglasses</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/promotions/stm-bags.html">STM Bags</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/category/travel-accessories.html">Travel accessories</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/promotions/back-packs.html">Backpacks</a></li>
-						</ul>
-					</li>
-				</ul>
-			</li>
-
-			<li class="category">
-				<a>Health &amp; Beauty</a>
-				<ul class="submenu-wrapper hover-left health">
-
-					<li class="links-wrapper">
-						<h3>Products</h3>
-						<ul>
-							<li><a href="http://www.coop.com.au/bookshop/promotions/bath-body-products.html">Bath &amp; Body</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/category/beauty.html">Beauty </a></li>
-							<li><a href="http://www.coop.com.au/bookshop/category/fitness-accessories-and-activity-tracker.html">Fitness Accessories</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/promotions/skincare.html">Skincare Products</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/promotions/cancer-council.html">Sunscreen</a></li>
-						</ul>
-					</li>
-
-					<li class="links-wrapper hover-left left-line">
-						<h3>Brands</h3>
-						<ul>
-							<li><a href="http://www.coop.com.au/bookshop/category/burts-bees.html">Burts Bees</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/category/butter-london.html">Butter London</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/category/kate-murrell-lipstick.html">Karen Murrell Lipstick</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/category/mememe-cosmetics.html">MeMeMe Cosmetics</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/category/mor-beauty-products.html">MOR Bath and Beauty</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/category/perfect-potion.html">Perfect Potion</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/category/organic-surge-beauty-products.html">Organic Surge Products</a></li>
-						</ul>
-					</li>
-
-				</ul>
-			</li>
-
-			<li class="category">
-				<a>Technology</a>
-				<ul class="submenu-wrapper hover-left">
-					<li class="links-wrapper">
-						<ul>
-							<li><a href="http://www.coop.com.au/bookshop/promotions/boom-box.html">Boombox</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/software/software-features.html">Software &amp; Tech Gear</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/promotions/back-to-uni-tech-gear.html">Back to Uni Essentials</a></li>
-						</ul>
-					</li>
-				</ul>
-			</li>
-
-			<li class="category">
-				<a>Stationery</a>
-				<ul class="submenu-wrapper hover-left">
-					<li class="links-wrapper">
-						<ul>
-							<li><a href="http://www.coop.com.au/bookshop/stationery/new-arrivals.html">Stationery &amp; Gifts</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/stationery/moleskine.html">Moleskins </a></li>
-							<li><a href="http://www.coop.com.au/bookshop/stationery/papaya.html">Papaya </a></li>
-							<li><a href="http://www.coop.com.au/bookshop/promotions/back-to-uni-stationery.html">Back to Uni Essentials</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/promotions/eofy-products.html">End of Financial Year </a></li>
-						</ul>
-					</li>
-				</ul>
-			</li>
-
-			<li class="category">
-				<a>Games &amp; Toys</a>
-				<ul class="submenu-wrapper hover-left">
-					<li class="links-wrapper">
-						<ul>
-							<li><a href="http://www.coop.com.au/bookshop/promotions/popular-culture-products.html">Collectables</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/stationery/games.html">Games</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/promotions/graduation.html">Graduation Toys</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/stationery/toys.html">Quirky Toys</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/stationery/puzzels.html">Puzzles</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/promotions/baby-gifts.html">Gifts - Baby</a></li>
-						</ul>
-					</li>
-				</ul>
-			</li>
-
-			<li class="category">
-				<a>Homewares</a>
-				<ul class="submenu-wrapper hover-right">
-					<li class="links-wrapper">
-						<ul>
-							<li><a href="http://www.coop.com.au/bookshop/promotions/beach-essentials.html">Beach Gear</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/promotions/dutch-design-chair.html">Dutch Design Furniture</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/promotions/outdoor-lifestyle.html">Gifts - Outdoors</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/promotions/lunch-box-water-bottles.html">Lunch Boxes &amp; Water Bottles</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/promotions/back-to-uni-fun-stuff.html">Geek Chic Accessories</a></li>
-						</ul>
-					</li>
-				</ul>
-			</li>
-			<li class="category">
-				<a>Medical</a>
-				<ul class="submenu-wrapper profession hover-right">
-					<li class="links-wrapper links-two-col">
-						<ul>
-							<li><a href="http://www.coop.com.au/bookshop/category/medical-supplies-and-equipment.html">All Medical</a>
-							</li><li><a href="http://www.coop.com.au/bookshop/category/medical-anatomical-charts.html">Anatomical Charts</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/category/medical-anatomical-models.html">Anatomical Models</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/category/medical-supplies-clinic-consumables.html">Clinic Consumables</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/category/medical-reflex-neurological.html">Diagnostic Reflex Neurological</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/category/medical-equipment-diagnostic-sets.html">Diagnostic Sets</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/category/medical-gifts-and-memorabilia.html">Gifts &amp; Memorabilia</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/category/medical-doctors-lab-coats.html">Lab &amp; Doctors Coats</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/category/medical-nurse-fob-watches.html">Nurse - Fob Watches</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/category/medical-nurse-pouches-and-bags.html">Nurse's Pouches &amp; Bags</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/category/medical-nurse-equipment-sphygmomanometer.html">Nurse - Sphygmomanometers</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/category/medical-diagnostic-ophthalmoscopes.html">Otoscope &amp; Ophthalmoscopes</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/category/medical-diagnostic-penlight-torch.html">Penlight Torches</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/category/medical-diagnostic-sphygmomanometer.html">Sphygomanometers</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/category/medical-stethoscopes-accessories.html">Stethoscopes - Accessories</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/category/medical-littmann-cardiology-stethoscopes.html">Stethoscopes - Cardiology</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/category/medical-classic-stethoscope.html">Stethoscopes - Classic</a></li>
-							<li><a href="http://www.coop.com.au/bookshop/category/medical-infant-and-paediatric-stethoscopes.html">Stethoscopes - Infant &amp; Paediatric</a></li>
-						</ul>
-					</li>
+			<li class="links-wrapper nav-col-4 top-line">
+				<h3>Popular Authors</h3>
+				<ul>
+                	<li><a href="http://www.coop.com.au/bookshop/author/michelle-bridges.html">Michelle Bridges</a></li>
+                    <li><a href="http://www.coop.com.au/bookshop/author/dan-brown.html">Dan Brown</a></li>
+                	<li><a href="http://www.coop.com.au/bookshop/author/cassandra-clare.html">Cassandra Clare</a></li>
+                    <li><a href="http://www.coop.com.au/bookshop/author/sylvia-day.html">Sylvia Day</a></li>
+                    <li><a href="http://www.coop.com.au/bookshop/author/roald-dahl.html">Roald Dahl</a></li>
+					<li><a href="http://www.coop.com.au/bookshop/author/janet-evanovich.html">Janet Evanovich</a></li>
+                    <li><a href="http://www.coop.com.au/bookshop/author/neil-gaiman.html">Neil Gaiman</a></li>
+                    <li><a href="http://www.coop.com.au/bookshop/author/andy-griffiths.html">Andy Griffiths</a></li>
+                    <li><a href="http://www.coop.com.au/bookshop/author/donna-hay.html">Donna Hay</a></li>
+                    <li><a href="http://www.coop.com.au/bookshop/author/stephen-king.html">Stephen King</a></li>
+                    <li><a href="http://www.coop.com.au/bookshop/author/jeff-kinney.html">Jeff Kinney</a></li>
+                    <li><a href="http://www.coop.com.au/bookshop/author/george-r-r-martin.html">George R. R. Martin</a></li>
+                    <li><a href="http://www.coop.com.au/bookshop/promotions/jamie-oliver-cookbooks.html">Jamie Oliver</a></li>
+                    <li><a href="http://www.coop.com.au/bookshop/author/james-patterson.html">James Patterson</a></li>
+					<li><a href="http://www.coop.com.au/bookshop/author/rick-riordan.html">Rick Riordan</a></li>
+                    <li><a href="http://www.coop.com.au/bookshop/author/veronica_roth.html">Veronica Roth</a></li>
+                    <li><a href="http://www.coop.com.au/bookshop/author/j-k-rowling.html">J. K. Rowling</a></li>
+                    <li><a href="http://www.coop.com.au/bookshop/action_so/WishListDisplayPage?listID=37289187544C9633EF20E5415F36703B">Tim Winton</a></li>
 				</ul>
 			</li>
 		</ul>
+	</li>
+	<li class="category"> <a>By Profession</a>
+
+		<ul class="submenu-wrapper hover-left nav-ctn-2">
+
+			<li class="links-wrapper">
+				<h3>Books &amp; Equipment</h3>
+				<ul>
+					<li><a href="http://www.coop.com.au/bookshop/category/accounting.html">Accounting</a></li>
+					<li><a href="http://www.coop.com.au/bookshop/category/anatomy.html">Anatomy</a></li>
+					<li><a href="http://www.coop.com.au/bookshop/category/elsevier-medical-surgical-books.html">Elsevier Medical &amp; Surgical </a></li>
+					<li><a href="http://www.coop.com.au/bookshop/category/elsevier-general-nursing-books.html">Elsevier General Health &amp; Nursing</a></li>
+					<li><a href="http://www.coop.com.au/bookshop/category/architecture.html">Architecture &amp; Interior Design</a></li>
+                    <li><a href="http://www.coop.com.au/bookshop/category/business-classics.html">Business Classics</a></li>
+					<li><a href="http://www.coop.com.au/bookshop/category/business.html">Business &amp; Management </a></li>
+					<li><a href="http://www.coop.com.au/bookshop/category/business-strategy.html">Business Strategy &amp; Leadership</a></li>
+					<li><a href="http://www.coop.com.au/bookshop/category/education.html">Education</a></li>
+                    <li><a href="http://www.coop.com.au/bookshop/promotions/hbr-must-reads.html">HBR Must Reads</a></li>
+					<li><a href="http://www.coop.com.au/bookshop/category/law.html">Legal</a></li>
+					<li><a href="http://www.coop.com.au/bookshop/category/marketing.html">Marketing</a></li>
+                    <li><a href="http://www.coop.com.au/bookshop/category/music-accessories.html">Music Accessories</a></li>
+                    <li><a href="http://www.coop.com.au/bookshop/category/percussion-instruments.html">Percussion Instruments</a></li>
+					<li><a href="http://www.coop.com.au/bookshop/category/medical.html">Medical</a></li>
+					<li><a href="http://www.coop.com.au/bookshop/category/nursing.html">Nursing &amp; Midwifery</a></li>
+					<li><a href="http://www.coop.com.au/bookshop/category/philosophy.html">Philosophy</a></li>
+					<li><a href="http://www.coop.com.au/bookshop/category/analysis.html">Quantitative &amp; Qualitative Analysis</a></li> 
+					<li><a href="http://www.coop.com.au/bookshop/category/sociology.html">Sociology</a></li>            
+					<li><a href="http://www.coop.com.au/bookshop/promotions/australian-tax-books.html">Australian Tax Books </a></li>
+				</ul>
+			</li>
+		</ul>
+	</li>
+
+	<li class="category">
+		<a>Clothing &amp; Accessories</a>
+		<ul class="submenu-wrapper hover-left nav-ctn-2">
+			<li class="links-wrapper nav-col-1">
+				<ul>
+                    <li><a href="http://www.coop.com.au/bookshop/apparel/clothing-landing.html">General Clothing</a></li>
+					<li><a href="http://www.coop.com.au/bookshop/category/unity-eyewear.html">Sunglasses</a></li>		
+					<li><a href="http://www.coop.com.au/bookshop/category/travel-accessories.html">Travel Accessories <span class="nav-new">updated</span></a></li>
+					<li><a href="http://www.coop.com.au/bookshop/promotions/back-packs.html">Backpacks</a></li>
+                    <li><a href="http://www.coop.com.au/bookshop/category/tote-bags.html">Tote Bags <span class="nav-new">new</span></a></li>
+				</ul>
+			</li>
+            
+        <li class="links-wrapper hover-left nav-col-1 left-line">
+				<h3>Brands</h3>
+				<ul>
+                <li><a href="http://www.coop.com.au/bookshop/apparel/apple-and-bee.html">Apple &amp; Bee</a></li>
+                 	<li><a href="http://www.coop.com.au/bookshop/action_so/WishListDisplayPage?listID=E29B706BCA5E5136EBCF90E0C38D9DE6">Go Travel</a></li>
+					<li><a href="http://www.coop.com.au/bookshop/category/lonely-planet-travel-accessories.html">Lonely Planet</a></li>
+                    <li><a href="http://www.coop.com.au/bookshop/promotions/stm-bags.html">STM Bags</a></li>
+                    <li><a href="http://www.coop.com.au/bookshop/apparel/womens-accessories.html">Zohara Tights</a></li>		
+				</ul>
+			</li>
+
+			<li class="links-wrapper nav-col-2 top-line">
+				<h3>University Apparel</h3>
+				<ul>
+                	<li><a href="http://www.coop.com.au/bookshop/apparel/university-clothing.html">All Campus Stores</a></li>
+                    <li><a href="http://www.coop.com.au/bookshop/apparel/ecu-campus-clothing.html">Edith Cowan University</a></li>
+                    <li><a href="http://www.coop.com.au/bookshop/apparel/scu-campus-clothing.html">Southern Cross University</a></li>
+                    <li><a href="http://www.coop.com.au/bookshop/apparel/uq-campus-clothing.html">University of Queensland</a></li>
+                    <li><a href="http://www.coop.com.au/bookshop/apparel/uom-campus-clothing.html">University of Melbourne</a></li>
+                    <li><a href="http://www.coop.com.au/bookshop/apparel/unda-clothing.html">University of Notre Dame Australia</a></li>
+                    <li><a href="http://www.coop.com.au/bookshop/apparel/usyd-clothing.html">University of Sydney </a></li>
+                    <li><a href="http://www.coop.com.au/bookshop/apparel/utas-campus-clothing.html">University of Tasmania</a></li>
+                    <li><a href="http://www.coop.com.au/bookshop/apparel/uwa-campus-clothing.html">University of Western Australia</a></li>   
+                    <li><a href="http://www.coop.com.au/bookshop/apparel/vu-campus-clothing.html">Victoria University</a></li>
+				</ul>
+			</li>
+
+		</ul>
+	</li>
+
+	<li class="category">
+		<a>Health &amp; Beauty</a>
+		<ul class="submenu-wrapper hover-left nav-ctn-2">
+
+			<li class="links-wrapper nav-col-1">
+				<h3>Products</h3>
+				<ul>
+              		<li><a href="http://www.coop.com.au/bookshop/category/health-beauty-products.html">All Health &amp; Beauty</a></li>
+					<li><a href="http://www.coop.com.au/bookshop/promotions/bath-body-products.html">Bath &amp; Body</a></li>
+                    <li><a href="http://www.coop.com.au/bookshop/category/bike-accessories.html">Bike Accessories </a></li>           
+					<li><a href="http://www.coop.com.au/bookshop/category/fitness-accessories-and-activity-tracker.html">Fitness Accessories</a></li>
+                    <li><a href="http://www.coop.com.au/bookshop/category/health-and-beauty-gift-sets.html">Gift Sets</a></li>
+                    <li><a href="http://www.coop.com.au/bookshop/category/haircare.html">Haircare Products <span class="nav-new">New</span></a></li>
+                    <li><a href="http://www.coop.com.au/bookshop/category/mens-grooming-and-skin-care.html">Men's Grooming &amp; Skincare</a></li>
+					<li><a href="http://www.coop.com.au/bookshop/promotions/skincare.html">Skincare Products</a></li>
+					<li><a href="http://www.coop.com.au/bookshop/promotions/cancer-council.html">Sunscreen</a></li>
+				</ul>
+			</li>
+
+			<li class="links-wrapper hover-left nav-col-1 left-line">
+				<h3>Brands</h3>
+				<ul>
+					<li><a href="http://www.coop.com.au/bookshop/category/burts-bees.html">Burts Bees</a></li>
+					<li><a href="http://www.coop.com.au/bookshop/category/butter-london.html">Butter London</a></li>
+                    <li><a href="http://www.coop.com.au/bookshop/category/fitbit.html">Fitbit</a></li>
+					<li><a href="http://www.coop.com.au/bookshop/category/karen-murrell-lipstick.html">Karen Murrell Lipstick</a></li>
+					<li><a href="http://www.coop.com.au/bookshop/category/mememe-cosmetics.html">MeMeMe Cosmetics</a></li>
+					<li><a href="http://www.coop.com.au/bookshop/category/mor-beauty-products.html">MOR Bath and Beauty</a></li>
+					<li><a href="http://www.coop.com.au/bookshop/category/perfect-potion.html">Perfect Potion</a></li>
+					<li><a href="http://www.coop.com.au/bookshop/category/organic-surge-beauty-products.html">Organic Surge Products</a></li>
+				</ul>
+			</li>
+		</ul>
+	</li>
+
+	<li class="category">
+		<a>Technology</a>
+		<ul class="submenu-wrapper hover-left nav-ctn-2">
+			<li class="links-wrapper nav-col-1">
+				<ul>
+                <li><a href="http://www.coop.com.au/bookshop/category/all-technology.html">All Technology</a></li>
+                <li><a href="http://www.coop.com.au/bookshop/category/calculators.html">Calculators</a></li>
+                <li><a href="http://www.coop.com.au/bookshop/software/data-storage.html">Data Storage</a></li>
+                <li><a href="http://www.coop.com.au/bookshop/software/audio-technica.html">Headphones</a></li> 
+				<li><a href="http://www.coop.com.au/bookshop/software/software-features.html">Software</a></li>
+                <li><a href="http://www.coop.com.au/bookshop/action_so/WishListDisplayPage?listID=0AB53C29D00FADD75340381B3AAD054A">Speakers</a></li>
+                <li><a href="http://www.coop.com.au/bookshop/action_so/WishListDisplayPage?listID=D568BD69F636BB8DB886E823245D6BB7">Tech Electronics</a></li>
+				</ul>
+			</li>
+            
+            
+            <li class="links-wrapper nav-col-1 left-line">
+				<h3>Brands</h3>
+				<ul>
+                	<li><a href="http://www.coop.com.au/bookshop/software/audio-technica.html">Audio-Technica</a></li>
+                    <li><a href="http://www.coop.com.au/bookshop/action_so/WishListDisplayPage?listID=C5CA975421F73E67E3DBF4B7AD1DD38A">iPad</a></li>
+                    <li><a href="http://www.coop.com.au/bookshop/action_so/WishListDisplayPage?listID=EC16F6434B4F0321262B12FF0FF7789E">iPhone</a></li>
+                    <li><a href="http://www.coop.com.au/bookshop/software/livescribe-smart-pen.html">Livescribe</a></li>
+                    <li><a href="http://www.coop.com.au/bookshop/action_so/WishListDisplayPage?listID=EDA325443B08D6F8122B4F3D23AC07DD">Logitech</a></li>
+					<li><a href="http://www.coop.com.au/bookshop/category/pantone.html">Pantone</a></li>
+                    <li><a href="http://www.coop.com.au/bookshop/software/spss.html">SPSS</a></li>
+                    <li><a href="http://www.coop.com.au/bookshop/action_so/WishListDisplayPage?listID=12CC98E6AE1A41A0025BE692D1D2274A">Samsung Galaxy</a></li>
+				</ul>
+			</li>  
+		</ul>
+	</li>
+
+	<li class="category">
+		<a>Stationery</a>
+		<ul class="submenu-wrapper hover-left nav-ctn-2">
+        <li class="links-wrapper nav-col-1">
+				<ul>
+					<li><a href="http://www.coop.com.au/bookshop/stationery/new-arrivals.html">Stationery &amp; Gifts</a></li>
+					<li><a href="http://www.coop.com.au/bookshop/promotions/back-to-uni-stationery.html">Back to Uni Essentials</a></li>
+                    <li><a href="http://www.coop.com.au/bookshop/stationery/value-packs.html">Value Packs</a></li>
+				</ul>
+			</li>
+		 <li class="links-wrapper nav-col-1 left-line">
+				<h3>Brands</h3>
+				<ul>
+                	 <li><a href="http://www.coop.com.au/bookshop/software/livescribe-smart-pen.html">Livescribe</a></li>
+                     <li><a href="http://www.coop.com.au/bookshop/stationery/moleskine.html">Moleskine </a></li>
+                     <li><a href="http://www.coop.com.au/bookshop/action_so/WishListDisplayPage?listID=6C20038BBFA8B8EA75CB71687FE55741">Ogami Notebooks <span class="nav-new">New</span></a></li>
+                     <li><a href="http://www.coop.com.au/bookshop/stationery/papaya.html">Papaya </a></li>
+                	
+				</ul>
+			</li>  
+		</ul>
+	</li>    
+	<li class="category">
+		<a>Games &amp; Toys</a>
+		<ul class="submenu-wrapper hover-right nav-ctn-2">
+			<li class="links-wrapper nav-col-1">
+				<ul>
+					<li><a href="http://www.coop.com.au/bookshop/promotions/popular-culture-products.html">Collectables</a></li>
+                    <li><a href="http://www.coop.com.au/bookshop/action_so/WishListDisplayPage?listID=839A220D1684138B812098C0B5D7E298">Doctor Who</a></li>
+                    <li><a href="http://www.coop.com.au/bookshop/category/australian-animal-finger-puppets.html">Finger Puppets</a></li>
+					<li><a href="http://www.coop.com.au/bookshop/stationery/games.html">Games</a></li>
+                    <li><a href="http://www.coop.com.au/bookshop/promotions/binoculars-globes-home-weather-station-sale.html">Geography</a></li>
+                    <li><a href="http://www.coop.com.au/bookshop/promotions/graduation.html">Graduation</a></li>
+					<li><a href="http://www.coop.com.au/bookshop/category/graduation-bears.html">Graduation Bears</a></li>
+					<li><a href="http://www.coop.com.au/bookshop/action_so/WishListDisplayPage?listID=D350AF0593404EB68152DF6327125B1E">Puzzles</a></li>
+                    <li><a href="http://www.coop.com.au/bookshop/action_so/WishListDisplayPage?listID=A9B104E8DC43E9B43739BAD27EF10BDE">Pop! Vinyl Figurines</a></li>
+					<li><a href="http://www.coop.com.au/bookshop/promotions/baby-gifts.html">Gifts - Baby</a></li>
+                    <li><a href="http://www.coop.com.au/bookshop/promotions/celestron-telescopes-astonomy-kits.html">Science</a></li>
+                    <li><a href="http://www.coop.com.au/bookshop/category/ukuleles.html">Ukuleles</a></li>
+				</ul>
+			</li>
+	 <li class="links-wrapper hover-right nav-col-1 left-line">
+				<h3>Brands</h3>
+				<ul>
+                  <li><a href="http://www.coop.com.au/bookshop/category/anamalz-wooden-toys.html">Anamalz</a></li>
+                  <li><a href="http://www.coop.com.au/bookshop/category/game-of-thrones-merchandise.html">Game Of Thrones</a></li>
+                	 <li><a href="http://www.coop.com.au/bookshop/promotions/scrabble-games-and-merchandise.html">Scrabble Games &amp; Merchandise</a></li>
+				</ul>
+			</li>  
+		</ul>
+	</li>
+
+	<li class="category">
+	  <a>Homewares</a>
+		<ul class="submenu-wrapper hover-right nav-ctn-2">
+			<li class="links-wrapper nav-col-1">
+				<ul>
+                    <li><a href="http://www.coop.com.au/bookshop/category/scented-and-natural-candles.html">Candles</a></li>
+						<li><a href="http://www.coop.com.au/bookshop/action_so/WishListDisplayPage?listID=DAF04662CAF97B5AC3912CA56C17344F">Mugs</a></li>
+				</ul>
+			</li>    
+    <li class="links-wrapper hover-right nav-col-1 left-line">
+				<h3>Brands</h3>
+				<ul>
+                 <li><a href="http://www.coop.com.au/bookshop/action_so/WishListDisplayPage?listID=67ECEEAC017681122E0136461118F987">ADESSO Coffee Machines</a></li>
+                	 <li><a href="http://www.coop.com.au/bookshop/promotions/dutch-design-chair.html">Dutch Design Furniture</a></li>
+                		<li><a href="http://www.coop.com.au/bookshop/action_so/WishListDisplayPage?listID=D1AEB77160B531125E7B0C9BB1D04454">Glasshouse Candles <span class="nav-new">new</span></a></li>
+                     		<li><a href="http://www.coop.com.au/bookshop/action_so/WishListDisplayPage?listID=869BF311C296C5B16B84C00893ED0CC4">Tielka Tea</a></li>
+				</ul>
+			</li>  
+		</ul>
+	</li> 
+	<li class="category">
+		<a>Medical</a>
+		<ul class="submenu-wrapper hover-right nav-ctn-2">
+			<li class="links-wrapper">
+				<ul>
+					<li><a href="http://www.coop.com.au/bookshop/category/medical-supplies-and-equipment.html">All Medical</a>
+					</li><li><a href="http://www.coop.com.au/bookshop/category/medical-anatomical-charts.html">Anatomical Charts</a></li>
+					<li><a href="http://www.coop.com.au/bookshop/category/medical-anatomical-models.html">Anatomical Models</a></li>
+					<li><a href="http://www.coop.com.au/bookshop/category/medical-supplies-clinic-consumables.html">Clinic Consumables</a></li>
+					<li><a href="http://www.coop.com.au/bookshop/category/medical-reflex-neurological.html">Diagnostic Reflex Neurological</a></li>
+					<li><a href="http://www.coop.com.au/bookshop/category/medical-equipment-diagnostic-sets.html">Diagnostic Sets</a></li>
+					<li><a href="http://www.coop.com.au/bookshop/category/medical-gifts-and-memorabilia.html">Gifts &amp; Memorabilia</a></li>
+					<li><a href="http://www.coop.com.au/bookshop/category/medical-doctors-lab-coats.html">Lab &amp; Doctors Coats</a></li>
+					<li><a href="http://www.coop.com.au/bookshop/category/medical-nurse-fob-watches.html">Nurse - Fob Watches</a></li>
+					<li><a href="http://www.coop.com.au/bookshop/category/medical-nurse-pouches-and-bags.html">Nurse's Pouches &amp; Bags</a></li>
+					<li><a href="http://www.coop.com.au/bookshop/category/medical-nurse-equipment-sphygmomanometer.html">Nurse - Sphygmomanometers</a></li>
+					<li><a href="http://www.coop.com.au/bookshop/category/medical-diagnostic-ophthalmoscopes.html">Otoscope &amp; Ophthalmoscopes</a></li>
+					<li><a href="http://www.coop.com.au/bookshop/category/medical-diagnostic-penlight-torch.html">Penlight Torches</a></li>
+					<li><a href="http://www.coop.com.au/bookshop/category/medical-diagnostic-sphygmomanometer.html">Sphygomanometers</a></li>
+					<li><a href="http://www.coop.com.au/bookshop/category/medical-stethoscopes-accessories.html">Stethoscopes - Accessories</a></li>
+					<li><a href="http://www.coop.com.au/bookshop/category/medical-littmann-cardiology-stethoscopes.html">Stethoscopes - Cardiology</a></li>
+					<li><a href="http://www.coop.com.au/bookshop/category/medical-classic-stethoscope.html">Stethoscopes - Classic</a></li>
+					<li><a href="http://www.coop.com.au/bookshop/category/medical-infant-and-paediatric-stethoscopes.html">Stethoscopes - Infant &amp; Paediatric</a></li>
+				</ul>
+			</li>
+		</ul>
+	</li>
+</ul>
+
+<!-- END CATEGORY NAVIGATION - common/navigation-categories.html /-->
+
+
 	</div>
 	<div id="mainContainer">
 
@@ -456,7 +636,7 @@ xmlns:fb="http://www.facebook.com/2008/fbml"
   <div class="breadCrumbs"><a href="/bookshop">Home</a> &gt; Customer Service &gt; Privacy Policy</div>
   <div class="mainContent">
     <h1>Privacy Policy</h1>
-      <p>This Privacy Policy applies to The University Co-operative Bookshop Limited trading as The Co-op (The Co-op) and each of its related bodies corporate (as defined in the Corporations Act 2001 (Cth)), who are collectively referred to as "the Co-op", "we” or "us". Our contact details are:</p>
+      <p>This Privacy Policy applies to The University Co-operative Bookshop Limited trading as The Co-op (<strong>The Co-op</strong>) and each of its related bodies corporate (as defined in the Corporations Act 2001 (Cth)), who are collectively referred to as "the Co-op", "we" or "us". The contact details of our Privacy Officer are:</p>
       <p><strong>Postal Address:</strong><br>
         PO Box 54<br>
         Broadway NSW 2007<br>
@@ -464,28 +644,36 @@ xmlns:fb="http://www.facebook.com/2008/fbml"
       <p> <strong>E-mail:</strong> <a href="mailto:privacy@coop.com.au ">privacy@coop.com.au </a> </p>
       <p> <strong>Telephone:</strong> +61 (0)2 9325 9600 </p>
       <h3>General</h3>
-      <p>We understand that the details you provide us are private and personal, and we respect your right to privacy under the Privacy Act 1988 (Cth) (Privacy Act). It is important that you feel secure whenever you deal with us. It is also important that you understand how we protect your privacy, as well as how, when and where we may use your details. This Privacy Policy is our commitment to you for the treatment of your privacy. The Co-op is subject to the National Privacy Principles under the Privacy Act and we will protect and treat your personal information in accordance with those principles.</p>      
+      <p>We understand that the details you provide us are private and personal, and we respect your right to privacy under the Privacy Act 1988 (Cth) <strong>(Privacy Act)</strong>. It is important that you feel secure whenever you deal with us. It is also important that you understand how we protect your privacy, as well as how, when and where we may use your details. This Privacy Policy is our commitment to you for the treatment of your privacy. The Co-op is subject to the Australian Privacy Principles under the Privacy Act and we will protect and treat your personal information in accordance with those principles.</p>      
       <h3>Data Collection</h3>
       <h4>What information we collect and why</h4>
-      <p>When you become a registered user of the Co-op website (Site), or when you become a Member of the Co-op or shop online, we ask for your name, your email address, your mailing / shipping address, and in certain circumstances, your telephone number, address, date of birth or credit card details.</p> 
+      <p>When you become a Member of the Co-op or a registered user of the Co-op website <strong>(Site)</strong> to shop online, we ask for your name, your email address, your mailing / shipping address, your telephone number, address, date of birth, details in relation to the course or degree you are studying, your current employment status and, in certain circumstances for online payment, credit card details and for consideration of job vacancies, employment background and qualifications.</p> 
       <p> On the Site we invite you to: </p>
       <ul>
         <li>set up a membership of the Co-op;</li> 
         <li>register and shop with us on the Site;</li>
-        <li>view products from participating vendors;</li>
-        <li>submit your resume to us for consideration of job vacancies or employment purposes (If you submit your resume to us, we will keep it in a database for consideration of particular jobs that arise within the Co-op ); <strong>or</strong></li>
-        <li>tell us about your shopping experiences at the Co-op by completing a customer service survey;</li>
+        <li>view products and services from participating 3rd party vendors;</li>
+        <li>submit your resume to us for consideration of job vacancies or employment purposes (If you submit your resume to us, we will keep it in a database for consideration of particular jobs that arise within the Co-op );</li>
+        <li>tell us about your shopping experiences at the Co-op by completing a customer service survey; <strong>or</strong></li>
         <li>tell us about your current study or employment situation and circumstances</li>
-      </ul>
+        <li>update your membership details including your marketing contact preferences</li>
+        
+    </ul>
 
       <h4>Use of your information</h4>
       <p>
-        The information that we ask for is generally used to provide goods and services to you. While we do not generally disclose personal information to third parties, we may need to disclose personal information to persons who perform services for us to enable us to provide the goods and services to you (e.g. carriers). Those parties are required to comply with the Privacy Act. We will not use or disclose any personal information that we collect about you other than for the purpose for which you have given it to us, as set out in this Privacy Policy, or as disclosed to you at the time we collect the information. If the information will be disclosed or used for other purposes, we will take reasonable steps to obtain your prior consent.
-      </p>
-      <p> We may also contact you about products and services in which we believe you may be interested. When we contact you in this manner, we will provide you with an opportunity to opt out of any further similar communications from us.
-      </p>
+       The information that we ask for is generally used to provide goods and services to you, processing payments for goods and services, notifying you of general meetings of the Co-op, posting products to you, assessing your suitability for a position of employment, providing you with third party offers and keeping you informed of relevant activities and offers from the Co-op. While we do not generally disclose personal information to third parties, we may need to disclose personal information to persons who perform services for us to enable us to provide the goods and services to you (e.g. carriers or data storage providers). Those parties may be located overseas (for instance, our data storage providers are located in China and the United States) and are required under the terms of Co-op's arrangements with those parties to comply with relevant provisions of the Privacy Act. We will not use or disclose any personal information that we collect about you other than for the purpose for which you have given it to us, as set out in this Privacy Policy, or as disclosed to you at the time we collect the information. 
+    </p>
+     
+      <p>If the information will be disclosed or used for other purposes, we will take reasonable steps to obtain your prior consent. </p>
+      
+    <p>If you have applied for an ME Bank <em>EveryDay</em> Transaction Account  as part of your Co-op membership application, we will disclose your name, personal details, membership number and membership join date to Members Equity Bank Pty Ltd ABN 56 070 887 679 for the purpose of starting your ME Bank <em>EveryDay</em> Transaction Account application.</p>
+      
+    <p>We may also contact you about products and services in which we believe you may be interested. When we contact you in this manner, we will provide you with an opportunity to opt out of any further similar communications from us. You may opt out of receiving these communications at any time by logging onto the Site and updating your preferences.</p>
+      
+  
 
-      <h4>Privacy and the Site</h4>
+    <h4>Privacy and the Site</h4>
       <p>
        If you visit the Site, we may also collect the following information during your visit: 
       </p>
@@ -495,8 +683,9 @@ xmlns:fb="http://www.facebook.com/2008/fbml"
         <li>cookies which track your visits to the Site; <strong>and</strong></li>
         <li>the web browser that you are using and the pages you accessed.</li>
       </ul> 
+    <p>We use this information to present offers relevant to you in relation to Co-op and/or third party products and services.</p>
 
-      <h3>Contact with the Co-op</h3>
+    <h3>Contact with the Co-op</h3>
       <p> You will only be contacted by the Co-op Bookshop if: </p>
       <ul>
         <li>you register, purchase or become a member of the Co-op via the Site or in-store;</li>
@@ -507,43 +696,39 @@ xmlns:fb="http://www.facebook.com/2008/fbml"
         <li>you provide your details and request that we contact you when you send us your resume or when you complete our customer service survey.</li>
       </ul>
       <p> 
-       We will also keep you informed of the latest offers, current promotions and specials of the Co-op, and any Media Releases, Annual Reports and Financial Reports of the Co-op (which may be accessed on the Site) via email newsletters, mails, SMSs, SMS vouchers or app notifications. If you no longer wish to receive these communications, you may unsubscribe by logging onto the Site and deselecting your choices.
-      </p> 
+      We will also keep you informed of the latest offers, current promotions and specials of the Co-op, and any Media Releases, Annual Reports and Financial Reports of the Co-op (which may be accessed on the Site) via email newsletters, mails, SMSs, SMS vouchers or app notifications. If you no longer wish to receive these communications, you may unsubscribe by logging onto the Site and updating your preferences.
+    </p> 
 
       <h3>Accessing information</h3>
       <p>
-        You are entitled under the Privacy Act to access the information we hold about you. You may do this by contacting us. If a person makes an access request, we will need to validate their identity to ensure that we do not provide information to anyone who does not have the right to that information. If you believe that the personal information we hold on you is not accurate, complete or up to date, then you may ask us to amend it.
-      </p>
-      <p> 
-       If you wish to correct or update your information, or raise any specific concerns about this Privacy Policy, please contact us at any of the above addresses.
-      </p>
+       You are entitled under the Privacy Act to access the information we hold about you and request that it be corrected. You may do this by contacting us. If a person makes an access request, we will need to validate their identity to ensure that we do not provide information to anyone who does not have the right to that information. If you believe that the personal information we hold on you is not accurate, complete or up to date, then you may ask us to amend it.
+    </p>
+      <p>If you wish to correct or update your information, or raise any specific concerns about this Privacy Policy, please contact us at any of the above addresses. 
+    </p>
 
       <h3>Cookies</h3>
-      <p>
-       Cookies are small data files that are downloaded from our web servers and stored on your hard drive. A cookie is a string of letters and numbers that uniquely identify the computer you are using and the customer number and access code you may have used to register at the Site. We use cookies to store visitor's preferences, record session information such as items that visitors add to their shopping cart, record past activity at the Site in order to provide better service when visitors return to the Site, customise Web page content based on visitors' browser type or other information that the visitor sends. You can delete cookies from your hard drive, but doing so may hinder your access to valuable areas of information within the Site. 
-      </p>
+      <p>Cookies are small data files that are downloaded from our web servers and stored on your hard drive. A cookie is a string of letters and numbers that uniquely identify the computer you are using and the customer number and access code you may have used to register at the Site. We use cookies to store visitor's preferences, record session information such as items that visitors add to their shopping cart, record past activity at the Site in order to provide better service when visitors return to the Site, customise Web page content based on visitors' browser type or other information that the visitor sends. You can delete cookies from your hard drive, but doing so may hinder your access to valuable areas of information within the Site. 
+    </p>
 
       <h3>Security</h3>
-      <p>
-       We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged on the Site. All data is stored on dedicated servers, located in Australia, using EVSSL encryption. The security of our visitors' information is of great importance to us, and we will take all reasonable precautions to ensure that your details are protected.
-      </p>
-      <p>  
-       We take great care with the information we hold about you. Our aim is to ensure that any details are securely protected from misuse, loss, and unauthorised access, modification or disclosure. We will take reasonable care to make sure that we keep your information in an accurate, complete and up to date manner. When that information is no longer needed, it will be permanently destroyed or de-identified.
-      </p>
+      <p>We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged on the Site. All data is stored on dedicated servers, located in Australia, using EVSSL encryption. The security of our visitors' information is of great importance to us, and we will take all reasonable precautions to ensure that your details are protected. 
+    </p>
+      <p>We take great care with the information we hold about you. Our aim is to ensure that any details are securely protected from misuse, interference, loss, and unauthorised access, modification or disclosure. We will take reasonable care to make sure that we keep your information in an accurate, complete and up to date manner. When that information is no longer needed, it will be permanently destroyed or de-identified. 
+    </p>
       <p> 
-       Whilst it is true that no system is ever completely secure, we believe the measures we have implemented provide appropriate protection. 
-      </p>
+      Whilst it is true that no system is ever completely secure, we believe the measures we have implemented provide appropriate protection. 
+    </p>
       <p>
-       You may be able to access external websites by clicking on links we have provided on the Site. However, these websites are not subject to our privacy standards, policies and procedures, and we expressly disclaim any loss or liability arising in relation to your access to, or any information you disclose on, those websites. You will need to contact or review those websites directly to ascertain their privacy standards, policies and procedures.
-      </p>
+      You may be able to access external websites by clicking on links we have provided on the Site. However, these websites are not subject to our privacy standards, policies and procedures, and we expressly disclaim any loss or liability arising in relation to your access to, or any information you disclose on, those websites. You will need to contact or review those websites directly to ascertain their privacy standards, policies and procedures.
+    </p>
 
       <h3>If you have a complaint</h3>
       <p>
-       We value our Members and customers. We will always aim to be fair and responsive. If you have a complaint, you have the right to expect that we will handle it in a friendly and professional way. When we receive a complaint, we look on it as valuable feedback that may help us to improve the services we offer and to ensure your needs are met in a satisfactory and appropriate manner.  
-      </p>
+      We value our Members and customers. We will always aim to be fair and responsive. If you have a complaint, you have the right to expect that we will handle it in a friendly and professional way. When we receive a complaint, we look on it as valuable feedback that may help us to improve the services we offer and to ensure your needs are met in a satisfactory and appropriate manner. 
+    </p>
       <p> 
-       If you believe that we have breached our privacy obligations, or you have any complaint regarding the treatment of your privacy by us, please contact our Privacy Officer on the telephone number or email address above.
-      </p>
+      If you believe that we have breached our privacy obligations, or you have any complaint regarding the treatment of your privacy by us, please contact our Privacy Officer on the telephone number or email address above. If we have not responded to your complaint within 30 days, you can make a complaint to the Office of the Australian Information Commissioner about the handling of your personal information.
+    </p>
     </div>
 </div>
  
@@ -577,7 +762,7 @@ xmlns:fb="http://www.facebook.com/2008/fbml"
 		</div>
 		<div class="navigation institState">
 			<div class="label">
-				<span class="icon gplus"></span><a href="https://plus.google.com/u/0/b/109748194502366975954/109748194502366975954/posts" target="_blank"><span>Google+</span></a>
+				<span class="icon gplus"></span><a href="https://plus.google.com/u/0/+CoopAu/posts" target="_blank"><span>Google+</span></a>
 			</div>
 		</div>
 		<div class="navigation institState">
@@ -600,16 +785,11 @@ xmlns:fb="http://www.facebook.com/2008/fbml"
 			<a href="/bookshop/members_only/member-exclusives.html"><span>Member Exclusives</span></a>			
 	  	</div>
 	</div>
-	<div class="navigation institState">
+	<!--<div class="navigation institState">
 		<div class="label">
 			<a href="/bookshop/members_only/members-coupons.html"><span>Coupon Deals</span></a>
 	  	</div>
-	</div>
-	<div class="navigation institState">
-		<div class="label">
-			<a href="/bookshop/members_only/amaysim-mobile.html"><span>amaysim Mobile Deals</span></a>
-	  	</div>
-	</div>
+	</div>-->
     <div class="navigation institState">
 		<div class="label">
 			<a href="/bookshop/members_only/STA-Travel.html"><span>Travel Deals</span></a>
@@ -622,21 +802,22 @@ xmlns:fb="http://www.facebook.com/2008/fbml"
 
 
    <span class="clear"></span>
+    <a class="mkg-module">
+ 		<img src="/page_images/rhs-tile-free-shipping.jpg" alt="Free Shipping - limited time offer"></a>
 
    
 
    <span class="clear"></span>
-   <a class="mkg-module" href="http://www.coop.com.au/bookshop/action_so/WishListDisplayPage?listID=EFE10FE6279D12A42C3225D942243169" target="_self">
- 		<img src="/page_images/mendela-rhs-tile.jpg" alt="Nelson Mendela, 1918-2013"></a>
+  
 
- 	<a class="mkg-module" href="/bookshop/promotions/books-4-bucks.html" target="_self">
- 		<img src="/page_images/b4B3_RHS_tile.jpg" alt=""></a>
+ 
+
+ 	<a class="mkg-module" href="http://www.coop.com.au/bookshop/membership/membership-switch.html" target="_self">
+ 		<img src="/page_images/1405-switch-side.jpg" alt="Switch Membership Card Info"></a>
+
 
  	<a class="mkg-module" href="/bookshop/action_so/MyVouchers/rq/Initial" target="_self">
  		<img src="/page_images/egift_RHS_tile.jpg" alt=""></a>
-
- 	<a class="mkg-module" href="/bookshop/action_sn/MembershipDetails" target="_self">
- 		<img src="/page_images/membership2_RHS_tile.jpg" alt=""></a>
 
   </div>
   <!-- end /common/sidebar_long.html -->
@@ -647,8 +828,6 @@ xmlns:fb="http://www.facebook.com/2008/fbml"
 <span class="clear"></span>
 <h3 class="offersHeader">Offers &amp; Promotions on Books, Gifts and More...</h3>
 <!-- start /common/offers_list.html -->
-
-
 
 
 
@@ -670,23 +849,19 @@ xmlns:fb="http://www.facebook.com/2008/fbml"
 
 
 
-
-
 <!-- end /common/offers_list.html -->
 
 <div id="offersDiv">
-  <div class="jcarousel-container jcarousel-container-horizontal" style="position: relative; display: block;"><div class="jcarousel-clip jcarousel-clip-horizontal" style="position: relative;"><ul id="offersCarousel_ul" class="carousel_ul jcarousel-list jcarousel-list-horizontal" style="overflow: hidden; position: relative; top: 0px; margin: 0px; padding: 0px; left: 0px; width: 2069px;">
-    <li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-1 jcarousel-item-1-horizontal" jcarouselindex="1" style="float: left; list-style: none;"><a href="/bookshop/promotions/christmas-gift-guide.html" onclick="_gaq.push(['_trackEvent', 'Common Carousel', 'click', 'xmas GiftGuide 1311']);"><img src="/page_images/common-carousel-xmas-1310.png" alt="Christmas Gift Guide"></a></li>
-    <li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-2 jcarousel-item-2-horizontal" jcarouselindex="2" style="float: left; list-style: none;"><a href="/bookshop/promotions/christmas-gift-guide-for-him.html" onclick="_gaq.push(['_trackEvent', 'Common Carousel', 'click', 'xmas HisGuide 1311']);"><img src="/page_images/common-carousel-xmashim-1310.png" alt="Christmas Gift Guide"></a></li>
-    <li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-3 jcarousel-item-3-horizontal" jcarouselindex="3" style="float: left; list-style: none;"><a href="/bookshop/promotions/christmas-gift-guide-for-her.html" onclick="_gaq.push(['_trackEvent', 'Common Carousel', 'click', 'xmas HerGuide 1311']);"><img src="/page_images/common-carousel-xmasher-1310.png" alt="Christmas Gift Guide"></a></li>
-    <li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-4 jcarousel-item-4-horizontal" jcarouselindex="4" style="float: left; list-style: none;"><a href="/bookshop/promotions/christmas-gift-guide.html" onclick="_gaq.push(['_trackEvent', 'Common Carousel', 'click', 'xmas GiftGuide 1311']);"><img src="/page_images/common-carousel-xmasvoucher-1310.png" alt="Christmas Gift Guide"></a></li>   
-    <li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-5 jcarousel-item-5-horizontal" jcarouselindex="5" style="float: left; list-style: none;"><a href="/bookshop/action_so/MyVouchers/rq/Initial" onclick="_gaq.push(['_trackEvent', 'Common Carousel', 'click', 'giftVouchers']);"><img src="/page_images/common-carousel-egift-1310.png" alt="eGift Vouchers"></a></li>
-    <li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-6 jcarousel-item-6-horizontal" jcarouselindex="6" style="float: left; list-style: none;"><a href="/bookshop/whats_new/book-of-the-month.html" onclick="_gaq.push(['_trackEvent', 'Common Carousel', 'click', 'BOM']);"><img src="/page_images/common_carousel_bom1312.png" alt="Book of the Month"></a></li>
-    <li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-7 jcarousel-item-7-horizontal" jcarouselindex="7" style="float: left; list-style: none;"><a href="/bookshop/promotions/books-4-bucks.html" onclick="_gaq.push(['_trackEvent', 'Common Carousel', 'click', 'b4b']);"><img src="/page_images/common_carousel_books4bucks.png" alt="Bucks 4 Books"></a></li>
-    <li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-8 jcarousel-item-8-horizontal" jcarouselindex="8" style="float: left; list-style: none;"><a href="/bookshop/whats_new/national-year-of-reading.html" onclick="_gaq.push(['_trackEvent', 'Common Carousel', 'click', 'NYOR']);"><img src="/page_images/common-carousel-trg-1312.png" alt="National Year of Reading"></a></li>
-    <li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-9 jcarousel-item-9-horizontal" jcarouselindex="9" style="float: left; list-style: none;"><a href="/bookshop/about/get-connected.html" onclick="_gaq.push(['_trackEvent', 'Common Carousel', 'click', 'GetConnected tile']);"><img src="/page_images/common_carousel_getconnected.png" alt="Get Connected"></a></li>
-    <li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-10 jcarousel-item-10-horizontal" jcarouselindex="10" style="float: left; list-style: none;"><a href="http://www.coop.com.au/bookshop/action/DataSubjSelect" onclick="_gaq.push(['_trackEvent', 'Common Carousel', 'click', 'textbooks search']);"><img src="/page_images/common_carousel_textbook1307.png" alt="Textbook Search"></a></li>
-    <li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-11 jcarousel-item-11-horizontal" jcarouselindex="11" style="float: left; list-style: none;"><a href="/bookshop/search/combined?q=Green+Popular+Penguins&#10;" onclick="_gaq.push(['_trackEvent', 'Common Carousel', 'click', 'greenPenguins 1309']);"><img src="/page_images/common_carousel_gcp_1309.png" alt="Green Popular Penguins"></a></li>
+  <div class="jcarousel-container jcarousel-container-horizontal" style="position: relative; display: block;"><div class="jcarousel-clip jcarousel-clip-horizontal" style="position: relative;"><ul id="offersCarousel_ul" class="carousel_ul jcarousel-list jcarousel-list-horizontal" style="overflow: hidden; position: relative; top: 0px; margin: 0px; padding: 0px; left: 0px; width: 1711px;">
+     <li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-1 jcarousel-item-1-horizontal" jcarouselindex="1" style="float: left; list-style: none;"><a href="/bookshop/promotions/books-4-bucks.html" onclick="_gaq.push(['_trackEvent', 'Common Carousel', 'click', 'bucks4books']);"><img src="/page_images/common-carousel-b4b1401.jpg" alt="Bucks 4 Books"></a></li> 
+   		<li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-2 jcarousel-item-2-horizontal" jcarouselindex="2" style="float: left; list-style: none;"><a href="/bookshop/category/personal-finance.html" onclick="_gaq.push(['_trackEvent', 'Common Carousel', 'click', 'mfp tax']);"><img src="/page_images/common-carousel-fin-1406.jpg" alt="Tax Time Help"></a></li>
+  		 <li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-3 jcarousel-item-3-horizontal" jcarouselindex="3" style="float: left; list-style: none;"><a href="/bookshop/stationery/new-arrivals.html" onclick="_gaq.push(['_trackEvent', 'Common Carousel', 'click', 'mrp orgami']);"><img src="/page_images/common-carousel-ogami.jpg" alt="Ogami Notebooks"></a></li>
+   			<li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-4 jcarousel-item-4-horizontal" jcarouselindex="4" style="float: left; list-style: none;"><a href="/bookshop/author/j-k-rowling.html" onclick="_gaq.push(['_trackEvent', 'Common Carousel', 'click', 'mfp silkworm']);"><img src="/page_images/common-carousel-silkworm-1406.jpg" alt="Silkworm"></a></li>
+              <li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-5 jcarousel-item-5-horizontal" jcarouselindex="5" style="float: left; list-style: none;"><a href="http://www.coop.com.au/bookshop/action/DataSubjSelect" onclick="_gaq.push(['_trackEvent', 'Common Carousel', 'click', 'textbooks']);"><img src="/page_images/common-carousel-clickcollect-1402.jpg" alt="Click &amp; Collect Textbooks"></a></li> 
+ 				 <li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-6 jcarousel-item-6-horizontal" jcarouselindex="6" style="float: left; list-style: none;"><a href="/bookshop/author/cassandra-clare.html" onclick="_gaq.push(['_trackEvent', 'Common Carousel', 'click', 'mrp MortalInstruments']);"><img src="/page_images/common-carousel-cclare-1406.jpg" alt="Mortal Instruments"></a></li>
+                  <li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-7 jcarousel-item-7-horizontal" jcarouselindex="7" style="float: left; list-style: none;"><a href="/bookshop/software/data-storage.html" onclick="_gaq.push(['_trackEvent', 'Common Carousel', 'click', 'mrp DataStorage']);"><img src="/page_images/common-carousel-data-1406.jpg" alt="Data Storage"></a></li>
+   					 <li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-8 jcarousel-item-8-horizontal" jcarouselindex="8" style="float: left; list-style: none;"><a href="/bookshop/category/biography.html" onclick="_gaq.push(['_trackEvent', 'Common Carousel', 'click', 'mfp biography']);"><img src="/page_images/common-carousel-bio-1406.jpg" alt="Biography Books"></a></li>
+ 						 <li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-9 jcarousel-item-9-horizontal" jcarouselindex="9" style="float: left; list-style: none;"><a href="/bookshop/whats_new/uom-ten-great-reads.html" onclick="_gaq.push(['_trackEvent', 'Common Carousel', 'click', '10greatreads']);"><img src="/page_images/melb-tile.jpg" alt="10 Great Reads"></a></li>
   </ul></div><div class="jcarousel-prev jcarousel-prev-horizontal jcarousel-prev-disabled jcarousel-prev-disabled-horizontal" disabled="disabled" style="display: block;"></div><div class="jcarousel-next jcarousel-next-horizontal" style="display: block;"></div></div>
 </div>
 <!-- end /common/offers.html -->
@@ -708,6 +883,7 @@ xmlns:fb="http://www.facebook.com/2008/fbml"
                 <h3>Membership</h3>
                 <ul>
                 	<li><a href="/bookshop/membership/membership-information.html" target="_self">Information</a></li>
+                    <li><a href="/bookshop/membership/membership-switch.html">Switch Membership Card Info</a></li>
                     <li><a href="https://www.coop.com.au/bookshop/action_sn/MembershipDetails" target="_self">Become a Member</a></li>
                     <li><a href="/bookshop/members_only/member-exclusives.html" target="_self">Member Exclusives</a></li>
                     <li><a href="https://www.coop.com.au/bookshop/action_sn/UpdateMyDetails">Update Your Membership</a></li>
@@ -719,7 +895,7 @@ xmlns:fb="http://www.facebook.com/2008/fbml"
                 <h3>Textbook Hub</h3>
                 <ul>
                     <li><a href="http://www.coop.com.au/bookshop/action/DataSubjSelect" target="_self">Textbook Search</a></li>
-                    <li><a href="/bookshop/promotions/books-4-bucks.html" target="_self">Textbook Exchange Program</a></li>
+                    <li><a href="/bookshop/about/sell-textbooks.html" target="_self">Textbook Buy-Back Scheme</a></li>
                     <li><a href="/bookshop/about/ordering-information.html" target="_self">Information for Lecturers</a></li>
                     <li><a href="/bookshop/student/student-services.html" target="_self">Student Resources</a></li>
                     <li><a href="/bookshop/category/study-guides.html" target="_self">Study Guides</a></li>
@@ -760,12 +936,12 @@ xmlns:fb="http://www.facebook.com/2008/fbml"
                         <li><a href="/bookshop/membership/membership-information.html" target="_self">Membership</a></li>
                         <li><a href="/bookshop/about/contact-us.html" target="_self">Contact Us</a></li>
                         <li><a href="/bookshop/about/sitemap.html" target="_self">Sitemap</a></li>
-                        <li class="last"><a name="ProblemInfo" style="cursor:pointer;" onclick="alert('Problem Information\nTo assist in problem resolution, copy and email this information when requested by the helpdesk operator.\n\nTime: 07/12/2013 13:49:19 +1100\nIP: 204.236.235.245\nMode: PRODUCTION\nFEServer: 10.99.1.12\nAppServers: webapp02\nProtocol: http://\nURI: /bookshop//\nQuery String: page=/html/privacy-policy.html\nUser Agent: ia_archiver (+http://www.alexa.com/site/help/webmasters; crawler@alexa.com)\nBasket: 112676149');">Problem Info</a>
+                        <li class="last"><a name="ProblemInfo" style="cursor:pointer;" onclick="alert('Problem Information\nTo assist in problem resolution, copy and email this information when requested by the helpdesk operator.\n\nTime: 05/06/2014 22:15:04 +1000\nIP: 204.236.235.245\nMode: PRODUCTION\nFEServer: 10.99.1.13\nAppServers: webapp02\nProtocol: http://\nURI: /bookshop//\nQuery String: page=/html/privacy-policy.html\nUser Agent: ia_archiver (+http://www.alexa.com/site/help/webmasters; crawler@alexa.com)\nBasket: 146237994');">Problem Info</a>
 
 </li>
                     </ul>
                     
-                    Copyright © 2013 University Co-operative Bookshop Limited &nbsp;| &nbsp;ABN: 70 009 937 160
+                    Copyright © 2014 University Co-operative Bookshop Limited &nbsp;| &nbsp;ABN: 70 009 937 160
                     
                     <!-- BEGIN: Unica Page Tag -->
 <!-- Copyright 2004-2010 Unica Corporation.  All rights reserved. -->
@@ -774,6 +950,24 @@ xmlns:fb="http://www.facebook.com/2008/fbml"
 <img src="https://coopprod-collector.digitalalchemy.net.au/images/ntpagetag.gif?js=0" height="1" width="1" border="0" hspace="0" vspace="0" alt="">
 </noscript>
 <!-- END: Unica Page Tag -->
+
+                    <!-- Google Code for Remarketing tag -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 997587984;
+var google_conversion_label = "DMMyCLjQ2wMQkPjX2wM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/997587984/?value=0&amp;label=DMMyCLjQ2wMQkPjX2wM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+<!-- end Google Code for Remarketing tag -->
 
                 </div>
             </div>
@@ -793,6 +987,27 @@ xmlns:fb="http://www.facebook.com/2008/fbml"
   })();
 </script>
 
+
+<!-- Google Analytics Remarketing tag for CoMobile -->
+<!-- Google Code for Remarketing Tag -->
+<!--
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+-->
+
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 976495197;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/976495197/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
 
   
   
