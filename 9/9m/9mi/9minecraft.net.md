@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 9minecraft.net privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204010510id_/http%3A//www.9minecraft.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 9minecraft.net privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605230347id_/http%3A//www.9minecraft.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Minecraft Mods, Resource Packs, Texture Packs, Skins and more
+# Privacy Policy | Minecraft Mods, Resource Packs, Texture Packs, Maps
 
 **Do we use cookies?**
 
