@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the gamelink.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121153401id_/http%3A//www.gamelink.com/privacy_policy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamelink.com privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605154934id_/http%3A//www.gamelink.com/privacy_policy.jhtml) for the most accurate reproduction.*
 
 # GameLink - Privacy Policy
 
-[](https://web.archive.org/content.jhtml?id=watch-on-tv)
+[](http://www.gamelinklive.com/live/girls/?mp_code=6383&tracking_code=2014%20Left%20Nav%20Gamelink%20Only)
 
-ADVERTISEMENT 
-
-| 
+[](https://web.archive.org/content.jhtml?id=watch-on-tv) | 
 
 * * *
 
@@ -23,10 +21,10 @@ Cyprus
 
 For customer service inquiries:
 
-Phone:+1.415.575.9700  
-Order Line: 1.800.944.3933  
+Phone:001 415 335 7750  
+Order Line: (877) 877-0271  
 Fax: 1.208.460.3429  
-Customer Service Department: 1.800.944.3933  
+Customer Service Department: (877) 877-0271  
 Email Order Company and a Distributor of Adult DVDs, Videos, Toys, and Streaming and Downloadable Movies.  
 [gamelink@gamelink.com](mailto:gamelink@gamelink.com)
 
@@ -61,7 +59,7 @@ As an individual, you have the opportunity to limit the personal information you
 
 There are non-mandatory sections of the forms we use that do not need to be filled out unless you want to include the information. Limiting the information you include could limit your access to certain special offers and promotions.
 
-You may select whether or not to receive email from us by subscribing or unsubscribing to our email list at any time. [Click here to subscribe/unsubscribe](https://web.archive.org/subscription/mailing_list.jhtml) to the email list or call Game Link Customer Service at 1.800.944.3933.
+You may select whether or not to receive email from us by subscribing or unsubscribing to our email list at any time. [Click here to subscribe/unsubscribe](https://web.archive.org/subscription/mailing_list.jhtml) to the email list or call Game Link Customer Service at (877) 877-0271.
 
 You may choose not to register as a customer. This may limit your options for performing transactions on our site, and will prevent you from ordering online.
 
