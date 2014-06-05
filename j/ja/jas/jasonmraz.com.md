@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jasonmraz.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210145743id_/http%3A//app.topspin.net/account/privacypolicy_public) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jasonmraz.com privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605092817id_/http%3A//app.topspin.net/account/privacypolicy_public) for the most accurate reproduction.*
 
 # Topspin Media | Privacy Policy
 
