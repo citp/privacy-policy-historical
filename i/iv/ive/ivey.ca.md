@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ivey.ca privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205194227id_/http%3A//www.ivey.uwo.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ivey.ca privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606005806id_/http%3A//www.ivey.uwo.ca/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Richard Ivey School of Business - HBA, MSc, MBA, EMBA, Exec Dev, PhD ... | Ivey Business School
 
@@ -8,4 +8,4 @@ Ivey's intention is to gather information so that it may serve you better and ne
 
 Ivey may use cookies to track usage and provide simplified access to some areas of the Site. Cookies can be disabled or controlled by setting the appropriate preferences within your web browser.
 
-Please visit the University of Western Ontario's Freedom of Information and Privacy Office website for more information: <http://www.uwo.ca/privacy/index.html>
+Please visit the University of Western Ontario's Freedom of Information and Privacy Office website for more information: <http://www.uwo.ca/univsec/privacy>
