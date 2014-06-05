@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oktopost.com privacy policy that was archived on 2013-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130920002227id_/http%3A//www.oktopost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oktopost.com privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605153402id_/http%3A//www.oktopost.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Oktopost
 
@@ -20,18 +20,12 @@ Our Site may use "cookies" to enhance User experience. User's web browser places
 
 Oktopost collects and uses Users personal information for the following purposes: 
 
-  1. **To personalize user experience**  
-We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site. 
-  2. **To improve our Site**  
-We continually strive to improve our website offerings based on the information and feedback we receive from you. 
-  3. **To improve customer service**  
-Your information helps us to more effectively respond to your customer service requests and support needs. 
-  4. **To process transactions**  
-We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service. 
-  5. **To administer a content, promotion, survey or other Site feature**  
-To send Users information they agreed to receive about topics we think will be of interest to them. 
-  6. **To send periodic emails**  
-The email address Users provide for order processing, will only be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site. 
+  1. **To personalize user experience** \- We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site. 
+  2. **To improve our Site** \- We continually strive to improve our website offerings based on the information and feedback we receive from you. 
+  3. **To improve customer service** \- Your information helps us to more effectively respond to your customer service requests and support needs. 
+  4. **To process transactions** \- We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service. 
+  5. **To administer a content, promotion, survey or other Site feature** \- To send Users information they agreed to receive about topics we think will be of interest to them. 
+  6. **To send periodic emails** \- The email address Users provide for order processing, will only be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site. 
 
 
 
@@ -59,11 +53,4 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 ## Contacting us
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[Oktopost](http://www.oktopost.com/)  
-[http://www.oktopost.com](http://www.oktopost.com/)  
-Delaware, US  
-info@Oktopost.com  
-
-
-This document was last updated on November 04, 2011
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us](https://web.archive.org/contact).
