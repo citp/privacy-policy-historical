@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezibuy.com.au privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123040846id_/http%3A//www.ezibuy.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezibuy.com.au privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605135529id_/http%3A//www.ezibuy.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - EziBuy Australia
 
@@ -6,27 +6,27 @@ We have put in place the following policy to protect your personal information. 
 
 In this policy, "personal information" means information about an identifiable individual.
 
-What personal information do we collect?
+**What personal information do we collect?**
 
 You may give us personal information about yourself, such as your name, address, email address, credit card details and telephone numbers, when, for example, you become an EziBuy member, request a catalogue or make a purchase from us. If you do not give this information, we may not be able to provide goods or services to you.
 
 When you visit our website we may collect more personal information, such as the address of your Internet service provider, the name of the web page directing you, and your clicks and activity on our site.
 
-Remarketing with Google Analytics
+**Remarketing with Google Analytics and others**
 
-We use Remarketing through Google Analytics to advertise online by delivering EziBuy ad content to you which is specifically targeted to your interests based on your visits to our website. Third-party vendors, including Google, show EziBuy ads on sites across the Internet. Please see the Cookies section below for further information.
+We use Remarketing through Google Analytics and other third party providers to advertise online by delivering EziBuy ad content to you which is specifically targeted to your interests based on your visits to our website. Third-party vendors, including Google and Bazaarvoice, show EziBuy ads on sites across the Internet. Please see the Cookies section below for further information.
 
-EziBuy website visitors who wish to opt out of Google Analytics for Display Advertisers and/or customized Google Display Network ads can do so by visiting the [Ads Preferences Manager](https://www.google.com/settings/ads/onweb). You can also download the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout/).
+EziBuy website visitors who wish to opt out of Google Analytics or Bazaarvoice for Display Advertisers and/or customized Display Network ads can do so by visiting Google's [Ads Preferences Manager](https://www.google.com/settings/ads/onweb) or Bazaarvoice's opt-out mechanisms (the [NAI opt-out page](http://www.networkadvertising.org/choices/?mkt_tok=3RkMMJWWfF9wsRonu67JcO%252FhmjTEU5z16ewqXqS%252Bgokz2EFye%252BLIHETpodcMTcJlNbnYDBceEJhqyQJxPr3NKNgNytJ5RhDlDA%253D%253D) or the [DAA opt-out page](http://www.aboutads.info/choices/?mkt_tok=3RkMMJWWfF9wsRonu67JcO%252FhmjTEU5z16ewqXqS%252Bgokz2EFye%252BLIHETpodcMTcJlNbnYDBceEJhqyQJxPr3NKNgNytJ5RhDlDA%253D%253D)). You can also download the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout/).
 
-How do we use the personal information?
+**How do we use the personal information?**
 
 We may use your personal information to process your transactions, to administer your account, to conduct credit and other checks, for our own internal purposes (such as risk management, staff training and billing), to facilitate our online services (including to provide the services contemplated by our [Website Acceptable Use Policy](https://web.archive.org/acceptable-use)), to help us to develop our website to be more available and user friendly to our customers, and for any other use associated with such purposes or which you may authorise.
 
 In addition, we may use your personal information to promote and market our products and services, or the products and services of others. However, we will not do this by email or text (except as part of an email which facilitates, completes or confirms a transaction with you) unless we have your express, inferred or deemed consent to do so. These emails and texts will always include an "unsubscribe" facility. (for further details on how to unsubscribe see below).
 
-Some uses of your personal information may involve the transfer of that information outside New Zealand, to be held and used by our related companies and business partners.
+Some uses of your personal information may involve the transfer of that information outside Australia, to be held and used by our related companies and business partners.
 
-Will we disclose your personal information to others?
+**Will we disclose your personal information to others?**
 
 We do not sell, trade or rent your personal information to others without your consent.
 
@@ -38,23 +38,25 @@ In addition, we may provide statistics with personal identifiers removed about o
 
 We may also disclose your personal information where such disclosure is required by law.
 
-Cookies
+**Cookies**
 
 Our website uses a technology called cookies. A cookie is a small element of data that our website may send to your computer. Any such cookie is typically stored on your computer's hard drive and permits our website to recognise you when you return. Our use of cookies helps us to provide you with a better experience during your use of our website by allowing us to understand what areas of the site are of interest to you. You may configure your web browser to not accept cookies, although you may experience a loss of functionality as a result.
 
-Third party vendors, including Google, show advertisements for our products on various sites on the internet. EziBuy and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone's past visits to our website.
+Reputable third party vendors, including Google and Bazaarvoice, show advertisements for our products on various sites on the internet. EziBuy and third-party vendors, including Google and Bazaarvoice, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone's past visits to our website.
 
-If you would like to opt out of Google’s use of cookies for this purpose, please visit the [Ads Preferences Manager](https://www.google.com/settings/ads/onweb), select Opt Out from the left hand menu and follow the prompts.
+If you would like to opt out of the use of cookies for this purpose, please visit Google's [Ads Preferences Manager](https://www.google.com/settings/ads/onweb) (and select Opt Out from the left hand menu and follow the prompts) or [Bazaarvoice's NAI opt-out page](http://www.networkadvertising.org/choices/?mkt_tok=3RkMMJWWfF9wsRonu67JcO%252FhmjTEU5z16ewqXqS%252Bgokz2EFye%252BLIHETpodcMTcJlNbnYDBceEJhqyQJxPr3NKNgNytJ5RhDlDA%253D%253D) or [DAA opt-out page](http://www.aboutads.info/choices/?mkt_tok=3RkMMJWWfF9wsRonu67JcO%252FhmjTEU5z16ewqXqS%252Bgokz2EFye%252BLIHETpodcMTcJlNbnYDBceEJhqyQJxPr3NKNgNytJ5RhDlDA%253D%253D).
 
-Security
+ 
+
+**Security**
 
 We take security seriously, and have taken steps to ensure your personal information is secure. We use secure servers, and industry standard data encryption whenever we are receiving or transferring your personal information online. However, we accept no responsibility for any loss, misuse, unauthorised access or disclosure, alteration or destruction of personal information which you submit to us.
 
-What about links to other websites?
+**What about links to other websites?**
 
-Our website may contain links to other sites that are not under our control. These websites may use cookies. It is the responsibility of those third parties to collect appropriate consents from you in order to permit their own cookies (to the extent this is required by law) and to inform you about the cookies they use. You should check the privacy policy on all third party websites to ensure you are comfortable with third party cookies. We have no responsibility for linked websites, and provide them solely for your information and convenience. We specifically disclaim responsibility for their content, privacy practices and terms of use, and we make no endorsements, representations or warranties about their accuracy, content or thoroughness. Your disclosure of personal information to third party websites is at your own risk.
+Our website may contain links to other sites that are not under our control. These websites may use cookies.  It is the responsibility of those third parties to collect appropriate consents from you in order to permit their own cookies (to the extent this is required by law) and to inform you about the cookies they use.  You should check the privacy policy on all third party websites to ensure you are comfortable with third party cookies (Bazaarvoice's privacy policy can be found here: [Bazaarvoice Privacy Policy](http://go.bazaarvoice.com/848PGD1740001Ct008Iq800 "Bazaarvoice Privacy Policy")). We have no responsibility for linked websites, and provide them solely for your information and convenience.  We specifically disclaim responsibility for their content, privacy practices and terms of use, and we make no endorsements, representations or warranties about their accuracy, content or thoroughness.  Your disclosure of personal information to third party websites is at your own risk.   
 
-Email, text and telephone communications
+**Email, text and telephone communications**
 
 You can subscribe to promotional and marketing email and/or text communications by registering for My EziBuy [here](https://www.ezibuy.com.au/default.aspx?Z=C&rnd=F3104821-57FF-4014-B7DE-D7BE2FB84EBA&action=displayaccount). The box to subscribe for email communications will be pre-ticked. If you are registering for My EziBuy and do not wish to receive email communications please remember to un-check this box. If you wish to subscribe for text communications, tick the "Text" box.
 
@@ -72,15 +74,15 @@ If you have any concerns or complaints regarding emails or texts received from u
 
 Calls may be monitored or recorded for training and quality control purposes.
 
-Updating your personal information
+**Updating your personal information**
 
 You may obtain confirmation from us as to whether or not we hold personal information about you. You may also request access to or a copy of the information and/or request that corrections or changes are made to it. You can make changes to your personal information on our website, by calling us on 1800 148 148 or by emailing us at [mail@ezibuy.com.au](mailto:mail@ezibuy.co.nz).
 
-Policy changes
+**Policy changes**
 
 We may review this policy from time to time and will notify you of any changes by posting an updated version on our website. Your use of our website following any updates constitutes acceptance of this policy as amended. We recommend you regularly review the policy when you visit our website. This document represents our privacy policy as at 1 November 2013.
 
-Feedback
+**Feedback**
 
 We welcome your questions and comments about privacy at EziBuy. Please call us on 1800 148 148 or email us at [mail@ezibuy.com.au](mailto:mail@ezibuy.co.nz).
 
