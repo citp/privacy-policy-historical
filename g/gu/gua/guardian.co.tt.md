@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guardian.co.tt privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205221753id_/http%3A//www.guardian.co.tt/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guardian.co.tt privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605054603id_/http%3A//www.guardian.co.tt/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Trinidad Guardian Newspaper
 
@@ -16,7 +16,6 @@ Aakash Vani 106.5FM,
 Slam 100.5FM,  
 Trinidad Guardian e-Paper  
 Guardian Classifieds  
-<http://50tt.guardian.co.tt/>  
 <http://indepth.guardian.co.tt/>  
 <http://legacy.guardian.co.tt/archives/>  
 <http://www.guardian.co.tt/archives/>  
