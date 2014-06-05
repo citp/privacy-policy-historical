@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studyisland.com privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111085029id_/http%3A//www.edmentum.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studyisland.com privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605091910id_/http%3A//www.edmentum.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Edmentum
 
@@ -54,9 +54,24 @@ Edmentum encourages parental involvement, and requires parental consent before s
 
 This and other Edmentum web sites contain links to other third party web sites. Edmentum is not responsible for the content or privacy policies of these sites. Such third party web sites are independently owned, controlled, and/or managed web sites whose content we believe will be of possible interest and value to our subscribers. These other sites may send you their own cookies, collect data, or solicit personal information. While we let you know when you are visiting a site outside of the Edmentum web site, we do not control the cookies or the content of third-party sites. Once you leave our servers, the use of any information you provide is governed by the privacy policy of the operator of the site you’re visiting. That policy may differ from ours. If you cannot find the privacy policy of any of these sites via a link from that site’s home page, you should contact the site directly for more information before providing that site with any personally identifying information. We specifically recommend that children check with their parents or teachers before clicking links to any new sites.
 
+### **Edmentum Assurances Related to the Family Educational Rights Privacy Act**
+
+Edmentum understands that many of its agency and institutional clients are subject to the Family Educational Rights Privacy Act (“FERPA”) and provides this statement of its data protection practices to provide assurance to those clients.
+
+To the extent Edmentum receives from its clients education records (as that term is defined by FERPA), Edmentum notes that the client chooses what information to provide to Edmentum and also configures who—e.g., employees, students, parents—has access to that information via the Edmentum product/system. In addition, Edmentum offers the following assurances:
+
+  * Edmentum provides reasonable security for the education records (and the personally identifiable information contained therein) and only those Edmentum employees and agents with a “need to know” have access to the education records.
+  * Edmentum does not use education records for any purpose other than the purposes for which the information was provided to Edmentum or in attempting to enhance the usability or efficacy of our products, services and systems.
+  * Edmentum does not disclose education records to third parties, other than its agents and service providers, except at the direction of the client who provided the education records to Edmentum.  Edmentum’s agents and service providers use the education records only to perform services on Edmentum’s behalf.
+  * Edmentum will consider destroying education records upon the written request of the client who provided the education records.  There are various circumstances when Edmentum may deny the request, including (but not limited to) when Edmentum believes that applicable law or court order requires it to retain the education records, when Edmentum believes that retention of the education records is necessary to protect its rights, or when the request extends to backed-up, electronically stored education records, the destruction of which would be unreasonably burdensome.
+
+
+
+If you have additional questions about Edmentum’s data protection practices as they relate to education records received from its clients, please contact Customer Support at [support@edmentum.com](mailto:support@edmentum.com).
+
 ### Changes to This Privacy Policy
 
-If this privacy policy changes, the revised policy will be posted on this site. Since this policy may change from time to time, please periodically refer to it. This privacy policy was last updated on January 2, 2011.
+If this privacy policy changes, the revised policy will be posted on this site. Since this policy may change from time to time, please periodically refer to it. This privacy policy was last updated on April 2, 2014.
 
 ### Contact Information
 
