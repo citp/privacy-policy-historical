@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coventrytelegraph.net privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217034533id_/http%3A//www.coventrytelegraph.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coventrytelegraph.net privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605112503id_/http%3A//www.coventrytelegraph.net/privacy-policy) for the most accurate reproduction.*
 
 # Coventry Telegraph: Coventry news, sport, lifestyle and events
 
