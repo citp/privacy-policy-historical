@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yoybuy.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205102340id_/http%3A//www.yoybuy.com/en/help.html%3Fcateid%3D3237176) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoybuy.com privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605184015id_/http%3A//www.yoybuy.com/en/help.html%3Fcateid%3D3237176) for the most accurate reproduction.*
 
 # Help Center - YoyBuy.com Taobao Agent
 
