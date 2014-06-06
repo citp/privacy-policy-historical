@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the center7.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630204318id_/http%3A//www.c7dc.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the center7.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606085753id_/http%3A//www.c7dc.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | C7 Data Centers
 
@@ -22,6 +22,6 @@ Information security is critical to our business. We work to protect the securit
 
 ### System Access
 
-[](http://216.194.114.22/wp-content/uploads/2011/10/C7-Bluffdale-199.jpg)
+C7 gives customers’ authorized personnel the ability to set system access and user permissions on an individual basis, including system view and administrative settings.
 
 C7 gives customers’ authorized personnel the ability to set system access and user permissions on an individual basis, including system view and administrative settings.
