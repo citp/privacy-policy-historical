@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moe.gov.sg privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129220019id_/http%3A//www.moe.gov.sg/global/legalese/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moe.gov.sg privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606052211id_/http%3A//www.moe.gov.sg/global/legalese/privacy) for the most accurate reproduction.*
 
 # Ministry of Education, Singapore: Privacy Statement
 
