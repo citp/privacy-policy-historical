@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sawdagger.com privacy policy that was archived on 2012-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120319023854id_/http%3A//www.sawdagger.com/privacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sawdagger.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606160033id_/http%3A//www.sawdagger.com/privacystatement.html) for the most accurate reproduction.*
 
-# Sawdagger.com >>> Privacy Statement
+# Sawdagger.com - Privacy Statement
 
 Sawdagger.com is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Sawdagger.com Web site and governs data collection and usage. By using the Sawdagger.com website, you consent to the data practices described in this statement.
 
@@ -59,4 +59,4 @@ Sawdagger.com will occasionally update this Statement of Privacy to reflect comp
 
 ## Contact Information
 
-Sawdagger.com welcomes your comments regarding this Statement of Privacy. If you believe that Sawdagger.com has not adhered to this Statement, please contact Sawdagger.com at sdg-admin@sawdagger.com. We will use commercially reasonable efforts to promptly determine and remedy the problem.
+Sawdagger.com welcomes your comments regarding this Statement of Privacy. If you believe that Sawdagger.com has not adhered to this Statement, please contact Sawdagger.com at sdgadmin@sawdagger.com. We will use commercially reasonable efforts to promptly determine and remedy the problem.
