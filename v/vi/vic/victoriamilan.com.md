@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the victoriamilan.com privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031011955id_/http%3A//www.victoriamilan.com/info_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the victoriamilan.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606183220id_/http%3A//www.victoriamilan.com/info_privacy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-## Victoria Milan, The World's discreet dating for married & attached!
-
-* * *
 
 ## Management of users' personal information
 
@@ -34,7 +30,7 @@ To ensure the quality of our products, we make statistical analysis of profile r
 
 ## Whether to contact you by e-mail
 
-Victoria Milan® reserves the right to use e-mail address for the purposes you through the checkbox on the website have agreed to. Thus, we may use it to answer queries you have sent us, to convey information to you and to confirm the receipt of e-mail you may have sent to us, or if we for some reason you need to contact you regarding your account or the Service. Victoria Milan® will never send out spam or use the database to help others do such activities. SPAM is in this context defined as the mass mailing of unsolicited e-mail messages used for marketing purposes. E-mail marketing of Victoria Milan's activities may be sent out to all members. You may opt out of such marketing by ticking the appropriate box in your user profile or by following the link provided at the bottom of each such marketing e-mail sent you.
+Victoria Milan® reserves the right to use e-mail address for the purposes you through the checkbox on the website have agreed to. Thus, we may use it to answer queries you have sent us, to convey information to you and to confirm the receipt of e-mail you may have sent to us, or if we for some reason need to contact you regarding your account or the Service. Victoria Milan® will never send out spam or use the database to help others do such activities. SPAM is in this context defined as the mass mailing of unsolicited e-mail messages used for marketing purposes. E-mail marketing of Victoria Milan's activities may be sent out to all members. You may opt out of such marketing by ticking the appropriate box in your user profile or by following the link provided at the bottom of each such marketing e-mail sent you.
 
   
 
