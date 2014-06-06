@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the suninternational.com privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612195611id_/http%3A//www.suninternational.com/corporate/Pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suninternational.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606060700id_/http%3A//www.suninternational.com/corporate/Pages/privacy.aspx) for the most accurate reproduction.*
 
-# 
+# Sun International Hotels | Privacy Policy | Sun International
 
 ## Privacy
 
