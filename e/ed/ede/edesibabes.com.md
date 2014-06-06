@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edesibabes.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201103004id_/http%3A//edesibabes.com/privacy-policy-update) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edesibabes.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606132253id_/http%3A//edesibabes.com/privacy-policy-update) for the most accurate reproduction.*
 
 # Privacy Policy Update | Desi Babes, Pakistani Indian Girls Blog
 
@@ -18,9 +18,9 @@ eDesiBabes.com is a community-oriented website that allows commenting on blog po
 
   * Content found on this site which has been produced by users does not necessarily express the views of NIR or its members. Liability for content found on this website is considered to be the with the original author.
   * It is the intention of eDesiBabes.com to allow visitors to speak freely and express their opinions. However, eDesiBabes.com reserves the right to delete or otherwise moderate content at its sole discretion. Specific rules need not be stipulated, but as a courtesy to the audience, the following guidelines may apply: 
-    * Content deemed unnecessarily offensive, derogatory, or hostile may be administered through deletion or other methods at eDesiBabes.com�s sole discretion.
+    * Content deemed unnecessarily offensive, derogatory, or hostile may be administered through deletion or other methods at eDesiBabes.comï¿½s sole discretion.
     * Content intended to sell unapproved products on this website, promote unapproved websites or those that conform to known spam-bot activity will also be moderated at the sole discretion of eDesiBabes.com.
-    * eDesiBabes.com strongly supports the privacy of it�s users. However, users whose submitted content violates the laws of the United States & Pakistan, including but not limited to laws prohibiting harassment, slander, extortion, impersonation or copyright infringement could potentially have their information turned over to authorities for prosecution.
+    * eDesiBabes.com strongly supports the privacy of itï¿½s users. However, users whose submitted content violates the laws of the United States & Pakistan, including but not limited to laws prohibiting harassment, slander, extortion, impersonation or copyright infringement could potentially have their information turned over to authorities for prosecution.
 
 
 
@@ -62,13 +62,13 @@ Google uses the Doubleclick DART cookie to serve ads across it’s Adsense netwo
 
 ### Related Posts :
 
-  * [](http://edesibabes.com/amna-sajjad-from-okara-2/)
-
-The sender of this wonderful GAZAL is Amna Sajjad who lives in Okara city. She has fulfilled her promise and send us he ...
-
   * [](http://edesibabes.com/leaf-fashion-for-desi-girls/)
 
 Now the season of winter has come. The jersey dress is accentual for the girls. Here are some collections of jersey tha ...
+
+  * [](http://edesibabes.com/amna-sajjad-from-okara-2/)
+
+The sender of this wonderful GAZAL is Amna Sajjad who lives in Okara city. She has fulfilled her promise and send us he ...
 
   * [](http://edesibabes.com/sana-punjab-university-lahore/)
 
