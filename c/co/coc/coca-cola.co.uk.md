@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coca-cola.co.uk privacy policy that was archived on 2013-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131029214332id_/http%3A//www.coca-cola.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coca-cola.co.uk privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606172345id_/http%3A//www.coca-cola.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Coca-Cola GB
 
