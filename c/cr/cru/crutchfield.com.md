@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the crutchfield.com privacy policy that was archived on 2013-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131006012345id_/http%3A//www.crutchfield.com/app/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crutchfield.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606182030id_/http%3A//www.crutchfield.com/ISEO-ralscspd/app/privacy.aspx) for the most accurate reproduction.*
 
 # Crutchfield.com - Privacy Policy
 
-For more than 39 years, Crutchfield has developed relationships with our customers based on respect and integrity. We're aware of the trust and confidence you demonstrate when you visit our website and provide us with information. The Privacy Notice below is posted to demonstrate our adherence to the practices you'll find common to the best websites online. We promise that we will treat your information with the same honesty and sensitivity that we have displayed throughout our company's history.
+For more than 40 years, Crutchfield has developed relationships with our customers based on respect and integrity. We're aware of the trust and confidence you demonstrate when you visit our website and provide us with information. The Privacy Notice below is posted to demonstrate our adherence to the practices you'll find common to the best websites online. We promise that we will treat your information with the same honesty and sensitivity that we have displayed throughout our company's history.
 
-If you have any questions or concerns about our Privacy Notice, please call us toll-free at: 1.888.955.6000; e-mail us at [ webmaster@crutchfield.com](mailto:webmaster@crutchfield.com); or send a letter to: Privacy, 1 Crutchfield Park, Charlottesville, Virginia 22911.
+If you have any questions or concerns about our Privacy Notice, please call us toll-free at: 1.888.955.6000; e-mail us at [ webmaster@crutchfield.com](mailto:webmaster@crutchfield.com); or send a letter to:
+
+Privacy, 1 Crutchfield Park, Charlottesville, Virginia 22911.
 
 #####  Crutchfield.com Privacy Notice
 
@@ -12,7 +14,7 @@ By visiting Crutchfield.com you agree to accept the practices described in this 
 
 ###  Changes to this Privacy Notice, Conditions of Use and Notices
 
-This Privacy Notice and our Terms of Use will change over time and the use of information which we gather now is subject to these Notices and Terms as modified. Please check this page periodically as you continue to use our site to see if any changes have been made. This privacy notice was most recently changed on 3/1/2012. If you visit our Web site your visit and any dispute over privacy is subject to this Notice and our Terms of Use, including the application of the laws of the Commonwealth of Virginia.
+This Privacy Notice and our Terms of Use will change over time and the use of information which we gather now is subject to these Notices and Terms as modified. Please check this page periodically as you continue to use our site to see if any changes have been made. This privacy notice was most recently changed on 1/21/2014. If you visit our Web site your visit and any dispute over privacy is subject to this Notice and our Terms of Use, including the application of the laws of the Commonwealth of Virginia.
 
 ###  Personal Information Collected By Crutchfield
 
@@ -22,23 +24,27 @@ Information you give us: Crutchfield collects any information which you enter on
 
 Automatic Information collected by us: Whenever you visit our Web site we collect and store information such as "cookies" which remember information about a visitor from one page to the next and from one visit to the next. We collect and analyze the IP address used to connect your computer to the Internet; login; password; computer and connection information such as your browser type and version; operating system and platform; purchase history; confirmation when you open e-mail that we send you; the URLs which lead you to and around our Web site and other sites on the World Wide Web, including the date and time; the pages and or products you viewed or searched for and the phone number used to call our voice telephone numbers. Your browser allows you to reject cookies and software is available from third parties which will allow you to visit our Web site without providing this information. You are welcomed at our Web site if you use this software but we will not be able to offer you our personalized services.
 
-Orders: If you place an order we use a secure order form which requires you to provide contact, billing, and financial information. This information is transmitted to your credit card company to authorize your purchase. Orders placed from California comply with California collection and use of personally identifiable information laws. At certain times we may offer financing options with or without third party participation. If you use a financing option information provided by you (such as your address, birth date, social security number, and credit card number) may be used to request a credit report from third parties or may be sent to a third party for processing.
+Orders: If you place an order we use a secure order form which requires you to provide contact, billing, and financial information. This information is transmitted to your credit card company to authorize your purchase.
 
-Action Tags: Crutchfield's web pages may contain action tags set by third party firms for the purpose of collecting anonymous information about the usage of our site by customers. These companies may also use this anonymous information to serve ads that may be of interest to you when you visit other sites across the internet. Action tags are also known as web beacons or 1 pixel gifs. Action tags are a technique used to compile aggregated statistics about the effectiveness of our web site. They do not use personally identifiable information, such as names or addresses should you wish to opt-out of providing this anonymous information you may do so by visiting the Network Advertising Initiative's consumer opt-out page located at [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp#)
+**California Privacy:** Orders placed from California comply with California collection and use of personally identifiable information laws.
+
+At certain times we may offer financing options with or without third party participation. If you use a financing option information provided by you (such as your address, birth date, social security number, and credit card number) may be used to request a credit report from third parties or may be sent to a third party for processing.
+
+Action Tags: Crutchfield's web pages may contain action tags set by third party firms for the purpose of collecting anonymous information about the usage of our site by customers. These companies may also use this anonymous information to serve ads that may be of interest to you when you visit other sites across the internet. Action tags are also known as web beacons or 1 pixel gifs. Action tags are a technique used to compile aggregated statistics about the effectiveness of our web site. They do not use personally identifiable information, such as names or addresses should you wish to opt out of providing this anonymous information you may do so by visiting the Network Advertising Initiative's consumer opt out page located at [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp#)
 
 ###  Sharing of Information with third-parties
 
-Google Trusted Stores: When you select Google Trusted Stores services we will send the following information to Google: (a) the item(s) that you purchase, (b) date of purchase and its cost, (c) the method of shipment used to ship the item(s) to you, and (d) your email address. This information will be subject to Google's Privacy Policy which we encourage you to read at <http://www.google.com/policies/privacy/>
-
 Affiliated Businesses and Crutchfield Corporation: We may share any information that you supply to us with any affiliated business that is substantially controlled by Crutchfield and Crutchfield Corporation. Any information that is shared this way will be subject to this Privacy Notice.
 
-Independent Contractors: We employ other companies or individuals to provide certain services to us such as sending e-mail, providing click to call telephone calling services, analyzing customer lists and data, providing marketing assistance, or consulting services. These third parties will have access to the information needed to perform their functions but cannot use that information for any direct marketing purpose.
+Independent Contractors: We employ other companies or individuals to provide certain services to us such as sending e-mail, providing Social Question & Answer functionality, providing click to call telephone calling services, analyzing customer lists and data, providing marketing assistance, or consulting services. These third parties will have access to the information needed to perform their functions but cannot use that information for any direct marketing purpose.
 
 Third party service providers: Some of the products which we sell require us to provide your name, address, phone number and product serial number to the third party service provider(s) (such as Sirius/XM and OnStar) that require this information to activate the service. These third party service providers have their own privacy and data collection policies which are not controlled by Crutchfield. We have no control, responsibility or liability for these policies and urge you to contact the third party provider if you have any questions.
 
-Orders and Catalog Requests: When you place your order and/or when you request that we send you a catalog from time to time we may share your name, mailing address and purchase category information with a few carefully selected marketing partners who may bring you offers of interest. If you wish to opt out of sharing this information with these companies, please call 1.888.955.6000 or e-mail [ service@crutchfield.com](mailto:service@crutchfield.com). We will never share any telephone number(s), or financial information which you have given us with any marketing partner(s).
+Orders and Catalog Requests: When you place your order and/or when you request that we send you a catalog from time to time we may share your name, mailing address and purchase category information with a few carefully selected marketing partners who may bring you offers of interest. If you wish to opt out of sharing this information with these companies, please call 1.888.955.6000 or e-mail [ service@crutchfield.com](mailto:service@crutchfield.com). We will never share any telephone number(s), or financial information which you have given us with any marketing partner(s). 
 
-Aggregate information: We provide aggregate information to some of our business partners. This information does not allow them to identify you individually.
+Crutchfield has contracted with TurnTo Networks to provide Social Question and Answer functionality on Crutchfield.com, which enables shoppers to ask questions of customers who actually bought the items they are considering. When you place an order, we will send TurnTo the purchaser’s first and last name, email address, zip code and information about the items ordered. As a purchaser, you may receive emails asking you to answer questions about the products you purchased. You may opt out of Social Q&A emails by unsubscribing from all Crutchfield email at this [link](https://www.crutchfield.com/scgi-bin/Subscriptions.asp) or by calling 1.800.319.8264 toll-free. 
+
+Aggregate information: We provide aggregate information to some of our business partners. This information does not allow them to identify you individually. 
 
 Vendors: We provide some of our vendors with your contact information so that they may contact you directly with product support information. For example, we may supply your contact information to a Vendor if they request it in order to provide you with recall information about a product you have purchased from us.
 
@@ -70,7 +76,15 @@ Our Web site protects the security of personal information you transmit to us by
 
 ##### Choice/Opt-Out:
 
-Our Web site gives you the opportunity to opt-out of receiving communications from us. If you no longer wish to receive communications from us you may opt-out by calling 1.888.955.6000 or e-mail [ service@crutchfield.com](mailto:service@crutchfield.com).
+We support several options for limiting the amount and type of information you share on our website:
+
+  * You can choose to browse our Web site without accepting cookies. Please know that cookies allow us to recognize you from page to page, and they support your transactions with us. Without cookies enabled, you will still be able to browse our website, but will not be able to take advantage of certain website features. We do not currently monitor or honor any "Do Not Track" browser settings.
+  * You may opt out of Omniture information collection by clicking [here](http://www.omniture.com/privacy/2o7#optout).
+  * You may opt out of select third party action-based advertising by visiting the Network Advertising Initiative's consumer opt out page located at [www.networkadvertising.org/managing/opt_out.asp](https://web.archive.org/web/20140606182030id_/http%3A//www.crutchfield.com/ISEO-ralscspd/app/www.networkadvertising.org/managing/opt_out.asp)
+  * You may opt out of Social Q&A powered by TurnTo by unsubscribing from all Crutchfield emails [here](https://www.crutchfield.com/scgi-bin/Subscriptions.asp) or by calling 1.800.319.8264 toll-free.
+  * You may opt out of email marketing communications by clicking [here](https://www.crutchfield.com/scgi-bin/Subscriptions.asp) or by calling 1.800.319.8264 toll-free.
+
+
 
 ###  Children's Online Policy
 
