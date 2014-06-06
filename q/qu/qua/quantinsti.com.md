@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the quantinsti.com privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812184808id_/http%3A//www.quantinsti.com/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quantinsti.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606191219id_/http%3A//www.quantinsti.com/Privacy_Policy.php) for the most accurate reproduction.*
 
 # Quantitative Analysis,Learn Quantitative Analysis,Mathematics Required in Quantitative Analysis
 
-__**Privacy Policy**__
+## Privacy Policy
 
 A **privacy policy** states how you will respect the privacy of your website users. It says what information you will gather, how you will use it and how you will keep it secure.
 
@@ -16,21 +16,25 @@ QuantInsti Quantitative Learning Pvt.Ltd. may change this policy from time to ti
 
 _**What we collect**_
 
-We may collect the following information: 
+We may collect the following information:
 
-* name and job title
-* contact information including email address
-* demographic information such as postcode, preferences and interests
-* other information relevant to customer surveys and/or offers
+  * name and job title
+  * contact information including email address
+  * demographic information such as postcode, preferences and interests
+  * other information relevant to customer surveys and/or offers
+
+
 
 _**What we do with the information we gather**_
 
 We require this information to understand your needs and provide you with a better service, and in particular for the following reasons: 
 
-* Internal record keeping.
-* We may use the information to improve our products and services.
-* We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
-* From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
+  * Internal record keeping.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
+
+
 
 _**Security**_
 
@@ -52,8 +56,10 @@ _**Controlling your personal information**_
 
 You may choose to restrict the collection or use of your personal information in the following ways: 
 
-* whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-* if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at contact@quantinsti.com
+  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at contact@quantinsti.com
+
+
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
@@ -63,6 +69,6 @@ If you believe that any information we are holding on you is incorrect or incomp
 
 **_Contacting Us_**
 
-If there are any questions regarding this privacy policy you may contact us using the information below: 
+If there are any questions regarding this privacy policy you may contact us using the information below:
 
 **QuantInsti Quantitative Learning Pvt. Ltd 812, Corporate Avenue, Sonawala Cross Lane, Near Udyog Bhavan, Goregaon (East), Mumbai 400 063 09920448877 contact@quantinsti.com**
