@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lumoslearning.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606215506id_/http%3A//lumoslearning.com/llwp/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lumoslearning.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606095321id_/http%3A//lumoslearning.com/llwp/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy | Lumos Learning
 
@@ -80,6 +80,6 @@ Additionally, we periodically review our operations and business practices for c
 
 If you have any questions about this privacy statement, the practices of our websites, or your dealings with this web site, please contact the proper address below:  
 Company: Lumos Information Services  
-Phone: 888-408-1689  
+Phone: 888-309-8227  
 Fax: (866)283-6471  
 Email: support@lumoslearning.com
