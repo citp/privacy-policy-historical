@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adperium.com privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113110042id_/http%3A//www.adperium.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adperium.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606080622id_/http%3A//www.adperium.com/privacy) for the most accurate reproduction.*
 
 # Adperium Privacy Policy
 
@@ -22,7 +22,7 @@ Although we believe that cookies help enhance your experience on the Web (by not
 
 ## Opt Out
 
-If you do not want the benefits of cookies, there is a simple procedure that allows you to deny or accept this feature. In order to "opt out" of the benefits of cookies, you may either manually delete your cookies by following the instructions contained in the Help section of your browser, or you may click [here](http://ads.adperium.com/opt-out).
+If you do not want the benefits of cookies, there is a simple procedure that allows you to deny or accept this feature. In order to "opt out" of the benefits of cookies, you may either manually delete your cookies by following the instructions contained in the Help section of your browser, or you may click [here](https://ads.yahoo.com/opt-out).
 
 ## Industry Efforts to Protect Consumer Privacy
 
