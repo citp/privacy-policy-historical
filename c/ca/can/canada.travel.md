@@ -1,141 +1,233 @@
-> *The following text is extracted and transformed from the canada.travel privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418204010id_/http%3A//www.explore.canada.travel/ctc/ke/privacy.jsp%3Fcat%3D13%26localeId%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canada.travel privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607001832id_/http%3A//en-corporate.canada.travel/privacy-policy-0) for the most accurate reproduction.*
 
-# Privacy Policy - Canada.travel
+# Privacy Policy | Canadian Tourism Commission
 
-The Canadian Tourism Commission is committed to respecting the personal privacy of individuals who visit our Web Sites. This page summarizes the privacy policy and practices of the Canadian Tourism Commission's Web Sites and how we collect, use and disclose the personal information learned about you from your visit to the Web Sites. The Canadian Tourism Commission Web Sites only include those Web Sites belonging to the Canadian Tourism Commission and not the web sites of other companies or organizations to which we may provide links.
+**1\. INTRODUCTION**
 
-1\. PERSONAL INFORMATION  
-Personal information is information that refers to you specifically. With your consent, we gather personal information from you in person, over the telephone, or by corresponding with you via mail, e-mail or the Internet. All personal information created, held or collected by this department is protected under the federal Privacy Act. This means that at any point of collection you will be asked for consent to collect your information, and you will be informed of the purpose for which it is being collected and how to exercise your right of access to that information.
+The Canadian Tourism Commission ("CTC") is a Crown corporation of the Canadian government  which was established to sustain a vibrant and profitable Canadian tourism industry; to market Canada as a desirable tourist destination; to support a cooperative relationship between the private sector and the governments of Canada, the province and the territories with respect to Canadian tourism; and to provide information about Canadian tourism to the private sector and to the governments of Canada, the provinces and territories.
 
-2\. YOUR CONSENT  
-By using the Web Sites, you signify your consent to our collection, use, and disclosure of your personal information in accordance with this Privacy Policy. If you do not agree with this policy, you may not use these Web Sites.
+To meet these goals, the CTC collects, uses, and discloses personal information from individuals such as our business partners, travel agents, and individual travellers. The CTC is committed to respecting the privacy of all individuals who entrust us with their personal information.
 
-3\. PERSONAL INFORMATION YOU SPECIFICALLY PROVIDE  
-At the Canadian Tourism Commission we gather and use personal information to provide you with information that we believe you might be interested in. You are under no obligation to disclose any personal information to us at any time. However, if you would like to take advantage of the Web Sites' features, we will ask you to register to become a registered user. In this process you may be asked to give your name, e-mail address, phone number, country of residence and a portion of your postal code or zip code for purposes such as facilitating communications with you or applying for access to certain features of our Web Sites. You may also be given options to provide additional information about your travel preferences and other demographic information. There is no charge for you to register or to use the Web Sites. The information you choose to give us will allow the Canadian Tourism Commission to assist in tailoring our Web Sites and our tourism marketing initiatives (including promotional offers from our partners) to individuals who use the Web Sites. It is always your choice whether or not to provide personal information. If you choose not to provide requested personal information, you may not be able to use certain features of the Web Sites.
+In Canada, the CTC is regulated by the federal _Privacy Act_ and this Policy either meets or exceeds the requirements of that law. If you have any questions about this Policy or about the personal information handling practices and safeguards of the CTC, please contact our Chief Privacy Officer: 
 
-4\. INFORMATION AUTOMATICALLY COLLECTED  
-Non-Identifiable Information: As it is typical of many web sites, our Web Sites automatically collect certain non-identifiable information regarding Web Sites users, such as the Internet Protocol (IP) address of your computer, the IP address of your Internet Service Provider, the date and time you access the Web Sites, the Internet address of the web site from which you linked directly to the Web Sites, the operating system you are using, the sections of the Web Site you visit, the Web Site pages read and images viewed, and any content you download. The date and time you visited our Web Sites and the page which you visited on our Web Sites, along with the address of the web site you may link to from our Web Sites or the address of the previous web site you were visiting, if you linked to us from another web site. This anonymous/non-personal information which is gathered may be used for research and analytical purposes and we may provide this information to the operators of sites that link to and from our Web Sites to verify the effectiveness of such linkages or consumer travel preferences. We also use this non-identifiable information for Web Site and system administration purposes and to improve the Web Sites. We may disclose the nonidentifiable information to others and permanently archive it for future use. Cookies: Our Web Sites use "cookies", a technology that installs information on a web site user's computer to permit the Web Sites to recognize future visits by that computer. Cookies enhance the convenience and use of the Web Sites. For example, we use the information provided through cookies to recognize you as a previous user of the Web Sites (so you do not have to enter your personal information every time), offer personalized Web page content and information for your use, track your activity at the Web Sites to respond to your needs, and otherwise facilitate your Web Site experience. Cookies do not contain any personally identifying information. They cannot view or retrieve data from other cookies,nor can they capture files and data stored on your computer. Browsers may allow you to disable cookie collection if you wish, but doing so may affect your use of the Web Sites and your ability to access certain features of the Web Sites. Advertisements displayed on our Web Sites may also contain cookies. Those advertisements may be provided by third party advertising companies, and we do not have any control over, or any responsibility or liability for, the cookies used in the advertisements or for the use and disclosure of information collected through advertisement cookies. The Canadian Tourism Commission also employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. This software receives and records the Internet Protocol (IP) address of the computer that has contacted our Web Sites, the date and time of the visit and the pages visited. We make no attempt to link these addresses with the identity of individuals visiting our Web Sites unless an attempt to damage the Web Sites has been detected. Information on individual visitors is used by Canadian Tourism Commission employees who need to know the information in order to respond to your request or to ensure the security of this system.
+> Chantal Péan  
+>  Senior Vice-President Corporate Affairs & Corporate Secretary  
+>  Phone: 604.638.8323  
+>  Email: pean [dot] chantal [at] ctc-cct [dot] ca
 
-5\. USE OF PERSONAL INFORMATION  
-All personal information held or collected by the Canadian Tourism Commission is protected under the Privacy Act. This means that at any point of collection you may be asked for consent to collect your information. We will use the personal information that you provide to us to create consumer profiles. These profiles are maintained to enable our members or providers and potential providers of tourism products and services in the travel and tourism industry participating in our tourism programs to provide you with personalized travel and tourism information. You may also be specifically asked for personally identifiable information when using the Travel Notebook, sending electronic Postcards, registering for Travel Canada Newsletter or affinity programs, entering promotions or sweepstakes or sending feedback to the Canadian Tourism Commission and your consent to provide this information to industry members may be requested and obtained at that time. Any personal information you give us will only be used for the purpose of sending you tourism publications, newsletters and tourism notices and partner promotions; tourism research; for program, publication, advertising and Web Site evaluation and improvement; for questionnaires and responding to your comments or inquiries. You may receive marketing e-mails from the Canadian Tourism Commission if you have provided your e-mail address and agree to these services. From time to time we may use e-mail as a way to keep in touch with our members and other individuals and each e-mail includes a response address. If you decide you do not want to receive marketing or communication by e-mail, simply send a reply e-mail advising us and we will remove your name and e-mail address from our lists. We may use your information to create demographic or statistical information for research purposes. This information may be shared with providers and potential providers of tourism services in Canada. Such providers are given only the information necessary to perform those required services. However, these summaries will not include any personal information that could be used to identify you, unless you have specifically consented to this purpose or unless the information is necessary for them to perform those services. In addition, these providers are bound by strict contractual obligations prohibiting them from storing or using the information for purposes other than to carry out the service that they have been contracted to provide. They are also bound to protect the security of your information in a manner consistent with the privacy policies and practices that we are governed by.
+**2\. DEFINITIONS**
 
-6\. CONSENT TO DISCLOSURE  
-By using our Web Sites, you signify your consent to the disclosure of your personal information in the following circumstances:
+**Personal Information**
 
-(i) Disclosure to Canadian Tourism Product and Service Providers: We may provide your personal information to certain of our members. Before personal information is disclosed, the recipient organization will agree with the Canadian Tourism Commission to protect the privacy of your personal information in a manner that is consistent with this Policy and the Privacy Act and policies. Recipient organizations may use your personal information to provide you with email or other information about their products and services and other matters.
+Personal information is defined as any information, recorded or not, that is about an **identifiable** individual. Anonymous or aggregate information is not considered personal information and does not fall under the scope of this Policy. 
 
-(ii) Disclosure to Service Providers: In order to permit the efficient operation of the Web Sites and to process certain transactions, we may disclose your personal information to certain service providers. The service providers to whom personal information is disclosed have agreed with the Canadian Tourism Commission to protect the privacy of your personal information in a manner that is consistent with this Policy.
+Personal information can be **objective** information such as your e-mail address or your country of residence, or it can be **subjective** information such whether you have plans to fly to Canada in the next six months or whether you enjoy skiing.
 
-(iii) Law Enforcement and Legal Disclosure: We may disclose your personal information to a government institution that has asserted its lawful authority to obtain the information or where we have reasonable grounds to believe the information could be useful in the investigation of unlawful activity, or to comply with a subpoena or warrant or an order made by a court, person or body with jurisdiction to compel the production of information, or to comply with court rules regarding the production of records and information, or to our legal counsel. The collection, use, retention and disclosure of your personal information is governed by laws and policies to ensure that your information is secure and treated with the utmost care and respect. Unless you specifically authorize us, we never sell or rent information about you to other parties.
+The following is a list of the most common types of personal information which the CTC collects, uses and discloses:
 
-7\. SECURING YOUR PERSONAL INFORMATION  
-Once your personal information reaches us, it will be stored off-line on a system not accessible on the Internet. The Canadian Tourism Commission maintains strict current security standards to protect your personal information against authorized access, disclosure and alteration. Electronic client files are kept in a highly secured environment with restricted access. We routinely update on-line security technologies to ensure our Web Sites are secure.
-
-Although the Canadian Tourism Commission takes all reasonable measures to maintain the Security of its Web Sites, the Internet is not a secure medium and security and privacy cannot be ensured. Internet e-mails are especially vulnerable to interception and forging. The Canadian Tourism Commission will not be responsible for any damages you may suffer as a result of transmitting sensitive personal information electronically or explicitly or implicitly authorizing the Canadian Tourism Commission or others to send confidential or personal information to you in this manner. The Web Sites are maintained by Business Interactive, an outside service provider.
-
-Business Interactive is bound by contract with the Canadian Tourism Commission to comply fully with the above-stated policies of the Canadian Tourism Commission. Any message you send to Business Interactive regarding the functioning of the Web Sites, and any personal information that accompanies the message, is included and protected by the Privacy Policy.
-
-8\. UPDATING, ACCESSING AND AMENDING YOUR PERSONAL INFORMATION  
-You may at any time, view and update your personal information or advise us to stop using or retaining it. We will then delete your personal information from our system. We may retain a summary of demographic information for research purposes, but this information will not be capable of identifying you. To help us keep your personal information up-to-date, we encourage you to amend inaccuracies and make corrections as often as necessary. However, sometimes errors do occur. Should you identify any incorrect or out-of-date information, we will make the proper changes immediately upon your notification. Where appropriate, we may communicate these changes to other parties who may have unintentionally received incorrect information for us.
-
-Your access to your information is governed in accordance with applicable laws and the Privacy Act. To access your records on our Web Sites you are required to "sign-on" using an encrypted password to certain secured areas of our Web Sites. Passwords are necessary to identify you and authenticate your permission to access your accounts. If you are unable to provide the correct password, you will not be able to access these sections of the Web Sites.
-
-9\. LINKS TO OTHER WEB SITES AND DISCLAIMERS  
-The Web Sites may contain links to third party web sites or Internet resources, including web sites operated by the Canadian Tourism Commission members and tourism industry providers. When you click on one of those links you are contacting another web site. 
-
-The Canadian Tourism Commission provides these links only as a service and convenience to our visitors. The Canadian Tourism Commission is not responsible for the accuracy or appropriateness of the information contained on such sites. We take no responsibility for the content at third party sites and a link to them in no way implies an endorsement or recommendation of the products, services or information found there.
-
-A link to another site should not be construed to imply that the site is affiliated or associated with or authorized to use any trade mark, trade name, logo or copyrighted item that may be reflected in such other sites. No joint venture, partnership, employment or agency relations is created or implied as the result of reference to product or service providers on our Web Site or linkages to their respective web sites. The Canadian Tourism Commission has no responsibility or liability for or control over those other Web sites or their collection, use and disclosure of your personal information. Those third parties are solely responsible for the information contained within their site and they may impose their own terms and conditions of use in connection with access to and use of their sites. It is your responsibility to inform yourself of those terms. These sites may be subject to a different privacy policy and the policy of that site should be reviewed before navigating the site. The Canadian Tourism Commission disclaims all liability with regard to your access to linked web sites. When you link to sites external to the Canadian Tourism Commission Web Sites, you do so at your own risk.  
+>   * Name
+>   * Mailing and e-mail addresses
+>   * Other contact information such as telephone and fax numbers
+>   * Age
+>   * Gender
+>   * Language preference
+>   * Opinions and suggestions
+>   * Travel preferences, intentions and/or practices
+>   * Travel activity interests
+>   * Future travel plans
+>   * Business title and contact information
+>   * Organizational memberships and certifications (i.e. the Canada Specialist Program or Meeting Planners International)
+>   * Passport numbers and visas (i.e. for contest winners)
+>   * Food allergies, shirt sizes, and special travel requirements (i.e. when planning a trade show).
+> 
 
 
-10\. PRIVACY POLICY CHANGES  
-This Privacy Policy may be changed from time to time in our sole discretion and without any prior notice. Revised Privacy Policies will be posted here. Your continued use of the Web Sites subsequent to any changes to this privacy policy will signify that you consent to our collection, use and disclosure of your personal information in accordance with the changed policy. Accordingly, when you use the Web Sites of the Canadian Tourism Commission, you should check the date of this policy and review any changes since the last version. We suggest that you bookmark this page and periodically review this Privacy Policy to ensure that you are familiar with the most current version.
+**Sensitive Personal Information**
 
-11\. APPLICABLE LAWS  
-The laws of the Province of Ontario and of Canada shall govern as to the interpretation, validity and effect of this Policy despite any conflict of law provisions of your domicile or residence or location. By using any of the Web Sites of the Canadian Tourism Commission, you consent to submit to the exclusive jurisdiction of the courts of the Province of Ontario or Canada in any action or proceeding instituted as the result of use of the Canadian Tourism Web Sites and this Privacy Policy.
+While all personal information that the CTC collects, uses, and discloses under this Policy is  protected as confidential information, it is recognized that certain information is more highly sensitive and the CTC is committed to an even higher level of privacy protection for this category of information.
 
-12\. DISCLAIMERS  
-The information and services provided on our Web Sites are provided as free public services. Although we endeavour to ensure that the content, information and services area as current and accurate as possible, errors may occur. Therefore, we cannot guarantee the quality, accuracy, completeness, timeliness or availability of the information and services provided. Users should verify all information before acting on it. Prior to making any vacation plans, users should verify all information directly with the tourism facilities, destinations and service providers. A reference or listing on the Web Sites shall not be interpreted as any endorsement or guarantee of availability or quality of the events or facilities, or of the accuracy of the information concerning such events or facilities.
+For the purposes of this Policy, "sensitive personal information" is defined as information pertaining to the following:
 
-The Canadian Tourism Commission disclaims all warranties, representations and conditions regarding the use of the Web Sites or the information or services provided, including all implied warranties of merchantability, fitness for a particular purpose, noninfringement, whether express or implied, or arising from a course of dealing usage or industry practice.
-
-The Canadian Tourism Commission may on occasion include promotional contests on its Web Sites. Such promotional contests are subject to their own terms and conditions. The Canadian Tourism Commission assumes no responsibility whatsoever and under no circumstances, including but not limited to negligence, shall it be liable for any damages whatsoever resulting from, arising out of or in connection with its operation of promotional contests. The Canadian Tourism Commission is not responsible for any direct, indirect, special, incidental, consequential or any other damages whatsoever and howsoever caused, arising out of or in connection with the use of the Web Sites or in reliance on the information available on the Web Sites, including any loss of use, lost data, lost business profits, business interruption, personal injury, or any other pecuniary loss whether based on negligence, breach of contract or cause of action, regardless of whether the Canadian Tourism Commission has notice of the possibility thereof.
-
-13\. CONTACTS  
-If you have any concerns or questions about this privacy policy or the protection of your personal information, please write to us at [feedback@ctc-cct.ca](mailto:feedback@ctc-cct.ca) or by postal mail to:
-
-The Canadian Tourism Commission  
-#1400-1055 Dunsmuir Street, Box 49230  
-Vancouver BC
-
-The Canadian Tourism Commission is committed to respecting the personal privacy of individuals who visit our Web Sites. This page summarizes the privacy policy and practices of the Canadian Tourism Commission's Web Sites and how we collect, use and disclose the personal information learned about you from your visit to the Web Sites. The Canadian Tourism Commission Web Sites only include those Web Sites belonging to the Canadian Tourism Commission and not the web sites of other companies or organizations to which we may provide links.
-
-1\. PERSONAL INFORMATION  
-Personal information is information that refers to you specifically. With your consent, we gather personal information from you in person, over the telephone, or by corresponding with you via mail, e-mail or the Internet. All personal information created, held or collected by this department is protected under the federal Privacy Act. This means that at any point of collection you will be asked for consent to collect your information, and you will be informed of the purpose for which it is being collected and how to exercise your right of access to that information.
-
-2\. YOUR CONSENT  
-By using the Web Sites, you signify your consent to our collection, use, and disclosure of your personal information in accordance with this Privacy Policy. If you do not agree with this policy, you may not use these Web Sites.
-
-3\. PERSONAL INFORMATION YOU SPECIFICALLY PROVIDE  
-At the Canadian Tourism Commission we gather and use personal information to provide you with information that we believe you might be interested in. You are under no obligation to disclose any personal information to us at any time. However, if you would like to take advantage of the Web Sites' features, we will ask you to register to become a registered user. In this process you may be asked to give your name, e-mail address, phone number, country of residence and a portion of your postal code or zip code for purposes such as facilitating communications with you or applying for access to certain features of our Web Sites. You may also be given options to provide additional information about your travel preferences and other demographic information. There is no charge for you to register or to use the Web Sites. The information you choose to give us will allow the Canadian Tourism Commission to assist in tailoring our Web Sites and our tourism marketing initiatives (including promotional offers from our partners) to individuals who use the Web Sites. It is always your choice whether or not to provide personal information. If you choose not to provide requested personal information, you may not be able to use certain features of the Web Sites.
-
-4\. INFORMATION AUTOMATICALLY COLLECTED  
-Non-Identifiable Information: As it is typical of many web sites, our Web Sites automatically collect certain non-identifiable information regarding Web Sites users, such as the Internet Protocol (IP) address of your computer, the IP address of your Internet Service Provider, the date and time you access the Web Sites, the Internet address of the web site from which you linked directly to the Web Sites, the operating system you are using, the sections of the Web Site you visit, the Web Site pages read and images viewed, and any content you download. The date and time you visited our Web Sites and the page which you visited on our Web Sites, along with the address of the web site you may link to from our Web Sites or the address of the previous web site you were visiting, if you linked to us from another web site. This anonymous/non-personal information which is gathered may be used for research and analytical purposes and we may provide this information to the operators of sites that link to and from our Web Sites to verify the effectiveness of such linkages or consumer travel preferences. We also use this non-identifiable information for Web Site and system administration purposes and to improve the Web Sites. We may disclose the nonidentifiable information to others and permanently archive it for future use. Cookies: Our Web Sites use "cookies", a technology that installs information on a web site user's computer to permit the Web Sites to recognize future visits by that computer. Cookies enhance the convenience and use of the Web Sites. For example, we use the information provided through cookies to recognize you as a previous user of the Web Sites (so you do not have to enter your personal information every time), offer personalized Web page content and information for your use, track your activity at the Web Sites to respond to your needs, and otherwise facilitate your Web Site experience. Cookies do not contain any personally identifying information. They cannot view or retrieve data from other cookies,nor can they capture files and data stored on your computer. Browsers may allow you to disable cookie collection if you wish, but doing so may affect your use of the Web Sites and your ability to access certain features of the Web Sites. Advertisements displayed on our Web Sites may also contain cookies. Those advertisements may be provided by third party advertising companies, and we do not have any control over, or any responsibility or liability for, the cookies used in the advertisements or for the use and disclosure of information collected through advertisement cookies. The Canadian Tourism Commission also employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. This software receives and records the Internet Protocol (IP) address of the computer that has contacted our Web Sites, the date and time of the visit and the pages visited. We make no attempt to link these addresses with the identity of individuals visiting our Web Sites unless an attempt to damage the Web Sites has been detected. Information on individual visitors is used by Canadian Tourism Commission employees who need to know the information in order to respond to your request or to ensure the security of this system.
-
-5\. USE OF PERSONAL INFORMATION  
-All personal information held or collected by the Canadian Tourism Commission is protected under the Privacy Act. This means that at any point of collection you may be asked for consent to collect your information. We will use the personal information that you provide to us to create consumer profiles. These profiles are maintained to enable our members or providers and potential providers of tourism products and services in the travel and tourism industry participating in our tourism programs to provide you with personalized travel and tourism information. You may also be specifically asked for personally identifiable information when using the Travel Notebook, sending electronic Postcards, registering for Travel Canada Newsletter or affinity programs, entering promotions or sweepstakes or sending feedback to the Canadian Tourism Commission and your consent to provide this information to industry members may be requested and obtained at that time. Any personal information you give us will only be used for the purpose of sending you tourism publications, newsletters and tourism notices and partner promotions; tourism research; for program, publication, advertising and Web Site evaluation and improvement; for questionnaires and responding to your comments or inquiries. You may receive marketing e-mails from the Canadian Tourism Commission if you have provided your e-mail address and agree to these services. From time to time we may use e-mail as a way to keep in touch with our members and other individuals and each e-mail includes a response address. If you decide you do not want to receive marketing or communication by e-mail, simply send a reply e-mail advising us and we will remove your name and e-mail address from our lists. We may use your information to create demographic or statistical information for research purposes. This information may be shared with providers and potential providers of tourism services in Canada. Such providers are given only the information necessary to perform those required services. However, these summaries will not include any personal information that could be used to identify you, unless you have specifically consented to this purpose or unless the information is necessary for them to perform those services. In addition, these providers are bound by strict contractual obligations prohibiting them from storing or using the information for purposes other than to carry out the service that they have been contracted to provide. They are also bound to protect the security of your information in a manner consistent with the privacy policies and practices that we are governed by.
-
-6\. CONSENT TO DISCLOSURE  
-By using our Web Sites, you signify your consent to the disclosure of your personal information in the following circumstances:
-
-(i) Disclosure to Canadian Tourism Product and Service Providers: We may provide your personal information to certain of our members. Before personal information is disclosed, the recipient organization will agree with the Canadian Tourism Commission to protect the privacy of your personal information in a manner that is consistent with this Policy and the Privacy Act and policies. Recipient organizations may use your personal information to provide you with email or other information about their products and services and other matters.
-
-(ii) Disclosure to Service Providers: In order to permit the efficient operation of the Web Sites and to process certain transactions, we may disclose your personal information to certain service providers. The service providers to whom personal information is disclosed have agreed with the Canadian Tourism Commission to protect the privacy of your personal information in a manner that is consistent with this Policy.
-
-(iii) Law Enforcement and Legal Disclosure: We may disclose your personal information to a government institution that has asserted its lawful authority to obtain the information or where we have reasonable grounds to believe the information could be useful in the investigation of unlawful activity, or to comply with a subpoena or warrant or an order made by a court, person or body with jurisdiction to compel the production of information, or to comply with court rules regarding the production of records and information, or to our legal counsel. The collection, use, retention and disclosure of your personal information is governed by laws and policies to ensure that your information is secure and treated with the utmost care and respect. Unless you specifically authorize us, we never sell or rent information about you to other parties.
-
-7\. SECURING YOUR PERSONAL INFORMATION  
-Once your personal information reaches us, it will be stored off-line on a system not accessible on the Internet. The Canadian Tourism Commission maintains strict current security standards to protect your personal information against authorized access, disclosure and alteration. Electronic client files are kept in a highly secured environment with restricted access. We routinely update on-line security technologies to ensure our Web Sites are secure.
-
-Although the Canadian Tourism Commission takes all reasonable measures to maintain the Security of its Web Sites, the Internet is not a secure medium and security and privacy cannot be ensured. Internet e-mails are especially vulnerable to interception and forging. The Canadian Tourism Commission will not be responsible for any damages you may suffer as a result of transmitting sensitive personal information electronically or explicitly or implicitly authorizing the Canadian Tourism Commission or others to send confidential or personal information to you in this manner. The Web Sites are maintained by Business Interactive, an outside service provider.
-
-Business Interactive is bound by contract with the Canadian Tourism Commission to comply fully with the above-stated policies of the Canadian Tourism Commission. Any message you send to Business Interactive regarding the functioning of the Web Sites, and any personal information that accompanies the message, is included and protected by the Privacy Policy.
-
-8\. UPDATING, ACCESSING AND AMENDING YOUR PERSONAL INFORMATION  
-You may at any time, view and update your personal information or advise us to stop using or retaining it. We will then delete your personal information from our system. We may retain a summary of demographic information for research purposes, but this information will not be capable of identifying you. To help us keep your personal information up-to-date, we encourage you to amend inaccuracies and make corrections as often as necessary. However, sometimes errors do occur. Should you identify any incorrect or out-of-date information, we will make the proper changes immediately upon your notification. Where appropriate, we may communicate these changes to other parties who may have unintentionally received incorrect information for us.
-
-Your access to your information is governed in accordance with applicable laws and the Privacy Act. To access your records on our Web Sites you are required to "sign-on" using an encrypted password to certain secured areas of our Web Sites. Passwords are necessary to identify you and authenticate your permission to access your accounts. If you are unable to provide the correct password, you will not be able to access these sections of the Web Sites.
-
-9\. LINKS TO OTHER WEB SITES AND DISCLAIMERS  
-The Web Sites may contain links to third party web sites or Internet resources, including web sites operated by the Canadian Tourism Commission members and tourism industry providers. When you click on one of those links you are contacting another web site. 
-
-The Canadian Tourism Commission provides these links only as a service and convenience to our visitors. The Canadian Tourism Commission is not responsible for the accuracy or appropriateness of the information contained on such sites. We take no responsibility for the content at third party sites and a link to them in no way implies an endorsement or recommendation of the products, services or information found there.
-
-A link to another site should not be construed to imply that the site is affiliated or associated with or authorized to use any trade mark, trade name, logo or copyrighted item that may be reflected in such other sites. No joint venture, partnership, employment or agency relations is created or implied as the result of reference to product or service providers on our Web Site or linkages to their respective web sites. The Canadian Tourism Commission has no responsibility or liability for or control over those other Web sites or their collection, use and disclosure of your personal information. Those third parties are solely responsible for the information contained within their site and they may impose their own terms and conditions of use in connection with access to and use of their sites. It is your responsibility to inform yourself of those terms. These sites may be subject to a different privacy policy and the policy of that site should be reviewed before navigating the site. The Canadian Tourism Commission disclaims all liability with regard to your access to linked web sites. When you link to sites external to the Canadian Tourism Commission Web Sites, you do so at your own risk.  
+>   * Union membership
+>   * Political opinions
+>   * Religious and/or philosophical beliefs
+>   * Racial and ethnic background
+>   * Medical, health and/or disability
+>   * Sexual orientation
+>   * Criminal offences/convictions
+> 
 
 
-10\. PRIVACY POLICY CHANGES  
-This Privacy Policy may be changed from time to time in our sole discretion and without any prior notice. Revised Privacy Policies will be posted here. Your continued use of the Web Sites subsequent to any changes to this privacy policy will signify that you consent to our collection, use and disclosure of your personal information in accordance with the changed policy. Accordingly, when you use the Web Sites of the Canadian Tourism Commission, you should check the date of this policy and review any changes since the last version. We suggest that you bookmark this page and periodically review this Privacy Policy to ensure that you are familiar with the most current version.
+**Disclosure**
 
-11\. APPLICABLE LAWS  
-The laws of the Province of Ontario and of Canada shall govern as to the interpretation, validity and effect of this Policy despite any conflict of law provisions of your domicile or residence or location. By using any of the Web Sites of the Canadian Tourism Commission, you consent to submit to the exclusive jurisdiction of the courts of the Province of Ontario or Canada in any action or proceeding instituted as the result of use of the Canadian Tourism Web Sites and this Privacy Policy.
+A disclosure occurs when the CTC makes your personal information available to others outside of the CTC.  For example, you may consent to have the CTC disclose your personal information to one of our partners so that you can receive information on whale watching from a tour operator.
 
-12\. DISCLAIMERS  
-The information and services provided on our Web Sites are provided as free public services. Although we endeavour to ensure that the content, information and services area as current and accurate as possible, errors may occur. Therefore, we cannot guarantee the quality, accuracy, completeness, timeliness or availability of the information and services provided. Users should verify all information before acting on it. Prior to making any vacation plans, users should verify all information directly with the tourism facilities, destinations and service providers. A reference or listing on the Web Sites shall not be interpreted as any endorsement or guarantee of availability or quality of the events or facilities, or of the accuracy of the information concerning such events or facilities.
+**Transfer**
 
-The Canadian Tourism Commission disclaims all warranties, representations and conditions regarding the use of the Web Sites or the information or services provided, including all implied warranties of merchantability, fitness for a particular purpose, noninfringement, whether express or implied, or arising from a course of dealing usage or industry practice.
+A transfer occurs when the CTC provides your personal information to a third party in order for them to provide the CTC with a service.  For example, if you request a copy of the CTC's _PURECanada_ magazine, your address will be transferred to the printing company we will use for the mailing. 
 
-The Canadian Tourism Commission may on occasion include promotional contests on its Web Sites. Such promotional contests are subject to their own terms and conditions. The Canadian Tourism Commission assumes no responsibility whatsoever and under no circumstances, including but not limited to negligence, shall it be liable for any damages whatsoever resulting from, arising out of or in connection with its operation of promotional contests. The Canadian Tourism Commission is not responsible for any direct, indirect, special, incidental, consequential or any other damages whatsoever and howsoever caused, arising out of or in connection with the use of the Web Sites or in reliance on the information available on the Web Sites, including any loss of use, lost data, lost business profits, business interruption, personal injury, or any other pecuniary loss whether based on negligence, breach of contract or cause of action, regardless of whether the Canadian Tourism Commission has notice of the possibility thereof.
+When the CTC transfers your personal information to its service providers, it remains accountable to you for the protection of that information.  Rest assured that the CTC includes a privacy protection clause in our contracts with these providers in order to guarantee that they will provide the same level of privacy protection to you as we do.
 
-13\. CONTACTS  
-If you have any concerns or questions about this privacy policy or the protection of your personal information, please write to us at [feedback@ctc-cct.ca](mailto:feedback@ctc-cct.ca) or by postal mail to:
+**3\. ACCOUNTABILITY**
 
-The Canadian Tourism Commission  
-#1400-1055 Dunsmuir Street, Box 49230  
-Vancouver BC V7X 1L5
+The CTC's Chief Privacy Officer ("CPO") is the Senior Vice-President, Corporate Affairs and Corporate Secretary.  The CPO is accountable to the Chief Executive Officer and has been delegated the responsibility for ensuring compliance with the _Privacy Act_ and with this Privacy Policy. The CPO may, from time to time, delegate particular responsibilities to other individuals within the CTC in order to implement this Policy. 
 
-If your concerns have not been addressed adequately, you can contact the Office of the Privacy Commissioner at (613) 995-8210 or [info@privcom.gc.ca](mailto:info@privcom.gc.ca) or by postal mail to:
+The CTC has offices in various countries around the world and it has appointed a Data Protection Officer ("DPO") for each office.  These DPOs will be responsible for ensuring compliance with their local privacy statutes, if any, as well as with this Policy within their own offices and jurisdictions.
 
-Office of the Privacy Commissioner  
-112 Kent Street  
-Ottawa, Ontario K1A 1H3
+**4\. PURPOSES**
+
+The CTC will collect, use and disclose personal information for the following purposes: 
+
+>   * To advertise and market Canada around the world
+>   * To empower individuals so they will receive targeted information based on their particularized interests
+>   * To personalize our web sites
+>   * To conduct industry research and studies
+>   * To promote product and industry development
+>   * To validate marketing strategies
+>   * To validate eligibility to enter one of the CTC's contests or sweepstakes
+>   * To contact winners of contests or sweepstakes
+>   * To e-mail newsletters
+>   * To mail magazines and catalogues
+>   * To create a "community of users" amongst potential travellers to Canada
+>   * To authenticate users of CTC's web site
+>   * To announce upcoming events and to send invitations
+>   * To publish directories for tradeshows and other business events
+>   * To ensure the security of the CTC's computer systems
+>   * To meet government reporting requirements 
+> 
+
+
+**5\. CONSENT**
+
+The CTC will always obtain your consent to collect, use or disclose your personal information.  This consent can be **express** such as when you specifically request to be added to a mailing list for one of our electronic newsletters or your consent can be **implied** such as when you complete a registration form on a CTC web site, enter one of our sweepstakes, or answer one of our surveys.  By your actions, you are consenting to the CTC's collection of the information you are providing.
+
+The majority of the personal information that the CTC retains is stored in Canada. The information can be stored in a variety of formats including paper files and electronic databases.  Consent to the transfer of your personal information to Canada will be mandatory in most cases and you will be asked for your express consent at the time of collection.
+
+You are free to withdraw your consent at any time or to **opt-out** of any of the purposes for which the CTC uses or discloses your information.  For example, the CTC always enables you to "unsubscribe" to an electronic newsletter by following the simple instructions it provides when the newsletter is e-mailed to you. 
+
+The majority of the time the CTC collects personal information directly from the individual about whom the information relates.  If the CTC collects your personal information indirectly through a third party, rest assured that it will ensure that you have consented to this indirect collection before it retains your personal information in its files or on its databases. The CTC further commits to contacting you directly to confirm with you that you wish to receive communications from us.
+
+**6\. LIMITING COLLECTION**
+
+The CTC will limit its collection of your personal information to only that which is necessary to meet the purposes identified above. In addition, the CTC will clearly indicate whether the collection is mandatory to meet these purposes, or whether it is optional or voluntary. 
+
+If the CTC intends to use your personal information for a new purpose not included in the list above, it will notify you first to seek your consent.
+
+**COLLECTION OF NON-IDENTIFIABLE INFORMATION**
+
+As it is typical of many web sites, CTC web sites automatically collect certain anonymous and non-identifiable information regarding its users, such as the Internet Protocol (IP) address of your computer, the IP address of your Internet Service Provider, the date and time you access the Web Sites, the Internet address of the web site from which you linked directly to the Web Sites, the operating system you are using, the sections of the Web Site you visit, the Web Site pages read and images viewed, and any content you download.
+
+This anonymous/non-personal information which is gathered may be used for research and analytical purposes and we may provide this information to the operators of sites that link to and from our Web Sites to verify the effectiveness of such linkages or consumer travel preferences. We also use this non-identifiable information for Web Site and system administration purposes and to improve the Web Sites.
+
+We may disclose the non-identifiable information to others and permanently archive it for future use.
+
+The Canadian Tourism Commission also employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. This software receives and records the Internet Protocol (IP) address of the computer that has contacted our Web Sites, the date and time of the visit and the pages visited. The CTC makes no attempts to link these addresses with the identity of individuals visiting our Web Sites unless an attempt to damage the CTC Web Sites has been detected.
+
+**7\. COOKIES**
+
+CTC web sites use "cookies", a technology that installs information on a web site user's computer to permit the Web Sites to recognize future visits by that computer. Cookies enhance the convenience and use of the Web Sites. For example, the CTC uses the information provided through cookies to recognize you as a previous user of the Web Sites (so you do not have to enter your personal information every time), offer personalized Web page content and information for your use, track your activity at the Web Sites to respond to your needs, and otherwise facilitate your Web Site experience.
+
+Cookies do not contain any personally identifying information. They cannot view or retrieve data from other cookies, nor can they capture files and data stored on your computer. Browsers may allow you to disable cookie collection if you wish, but doing so may affect your use of the CTC's Web Sites and/or your ability to access certain features of the CTC's Web Sites.
+
+Advertisements displayed on our Web Sites may also contain cookies. Those advertisements may be provided by third party advertising companies, and we do not have any control over, or any responsibility or liability for, the cookies used in the advertisements or for the use and disclosure of information collected through advertisement cookies.
+
+**8\. LIMITING DISCLOSURE**
+
+The CTC will only disclose your personal information with your consent and only to meet thepurpose for which it was originally collected.  For example, you may want to consent to the disclosure of your personal information to an airline so that you can receive information about their seat sales to Canada over the summer months.  When the CTC fulfills your request and sends your information to this CTC partner, it will ensure that the airline only uses your information for that specific purpose and that it will seek your consent for any new purposes. 
+
+Similarly, if the CTC intends to disclose your personal information for a new purpose, it will notify you first and seek your consent.
+
+In order to meet the purposes outlined above, the CTC discloses personal information to the following categories of recipients. 
+
+>   * Business partners, suppliers, and potential business leads;
+>   * Travel agencies and travel insurance companies;
+>   * Tour Operators
+>   * The Library and Archives Canada;
+>   * Event planners and/or specific venues;
+>   * Provincial, territorial or destination tourism marketing agencies, and
+>   * Conference or training organizers or providers.
+> 
+
+
+**9\. LIMITING RETENTION**
+
+The CTC will only retain your personal information for as long as it has a purpose to do so and/or as is required by all the applicable legislation that governs its operations.   
+If you withdraw your consent for the CTC to use your personal information, it will be required to retain enough of your data in order to continue accommodating that request.
+
+**10\. ACCURACY**
+
+The CTC will make every effort to keep your personal information accurate and up to date. We rely on you to keep us updated of any changes so that the personal information we have is accurate at all times.
+
+You may correct or amend any of your personal information held by the CTC by contacting the CPO at any time to request a correction or amendment.  If you have provided your information via an online sign-up, you may be able to correct or amend your information by amending your ‘profile'. 
+
+With your consent, the CTC will also forward any corrections or amendments of your personal information to the appropriate third parties to whom the original data had been disclosed, if any.
+
+Please be advised that the CTC reserves the right to refuse to amend any information where, in its opinion, the information we have on file is accurate. In such a circumstance, you will have the right to log your disagreement with us and have it recorded.
+
+**11\. SECURITY SAFEGUARDS**
+
+The CTC will protect your personal information against loss or theft, as well as from unauthorized access, disclosure, copying, use or modification. The CTC will protect your personal information regardless of the format in which it is held.
+
+The CTC will use appropriate security safeguards to provide necessary protection such as:
+
+>   * Physical measures (locked filing cabinets, restricting access to offices, alarm systems);
+>   * Technological tools (passwords, encryption, firewalls);
+>   * Organizational controls (security clearances, limiting access on a "need-to-know" basis, staff training, and confidentiality agreements);
+>   * Policy measures (IT policy, security policy).
+> 
+
+> 
+> The CTC will consider the following factors in selecting appropriate safeguards:
+> 
+>   * The sensitivity of the information;
+>   * The amount of information;
+>   * The extent of distribution;
+>   * The format of the information (electronic, paper, etc.); and
+>   * The type of storage.
+> 
+
+
+**12\. OPENNESS**
+
+This Privacy Policy may be changed from time to time. Revised Privacy Policies will be posted on our web site and are also available by contacting the CPO.
+
+When visiting CTC web sites, you are encouraged to check the date of the Privacy Policy and to review any changes since the last version you may have read. You could also bookmark the Policy and periodically review it to ensure that you are familiar with its most current terms.
+
+**13\. RIGHT OF ACCESS**
+
+Subject to some exceptions, you have the right to access your own personal information, wherever it is stored, which is in the possession and control of the CTC. You also have the right to know if your personal information has been disclosed to any third parties and, if so, which ones. The CTC will ensure that the requested information is understandable and will explain any acronyms, abbreviations and/or codes.
+
+Access requests must be in writing and signed.  Please forward all requests to the CPO.
+
+The CTC will acknowledge any request for access within fourteen (14) calendar days from the date upon which it receives the request.  It will provide your access within thirty (30) days of the receipt of the request unless an extension of time is required and you have been notified of the reasons for the extension and the estimated timeframe to meet your request.
+
+Paper copies of the information will be provided to you upon request but the CTC asks that you consider the environment before making such a request.
+
+The CTC does have the right to deny your request under certain circumstances. Those circumstances include but are not limited to:
+
+>   * Information which is protected by solicitor-client privilege;
+>   * Information which reveals personal information about another individual;
+>   * Personal information which was collected for an investigation or legal proceeding that has not yet concluded;
+>   * If providing access to particular personal information could jeopardize an individual's life or security; or
+>   * If access to the personal information could reasonably be expected to threaten the safety or physical or mental health of another individual.
+> 
+
+
+For your own security, acceptable proof of identification may be required before access to personal information will be granted.
+
+**14\. CHALLENGES AND CONCERNS**
+
+Should you have any questions or concerns related to the collection, use or disclosure of your personal information, please put your concerns in writing and send them to the CPO.
+
+All individuals have the right to contact the appropriate Privacy Commissioner or authority in their own jurisdiction. In Canada, the Office of the Privacy Commissioner of Canada can be contacted at:
+
+> 112 Kent Street  
+>  Place de Ville  
+>  Tower B, 3rd Floor  
+>  Ottawa, Ontario  
+>  K1A 1H3
+> 
+> Toll-free: 1-800-282-1376  
+>  Phone: (613) 995-8210  
+>  Fax: (613) 947-6850  
+>  TTY: (613) 992-9190
