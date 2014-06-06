@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cilory.com privacy policy that was archived on 2013-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130921220957id_/http%3A//www.cilory.com/content/3-Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cilory.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606201848id_/http%3A//www.cilory.com/content/3-Privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Cilory
 
@@ -57,10 +57,18 @@ We follow a very strict privacy policy as follows:
 
 
 
+###  **Advertising**
+
+  * We may use re-targetting features of ad platforms like Google AdWords, Facebook, or any other ad platform.  
+ 
+
+
+
 ###  **Legal issues**
 
   * Just in case, a transaction is involved in a legal dispute (usually credit card fraud), information might be requested from us in form of a sub-poena (legal demand for information or appearance). In such cases, we might be required to furnish requisite information. In case this occurs, our policy is to first contact the customer (through preferred medium chosen by the customer) to inform them of our legal obligations.
   * These issues are not common and generally happen in case of credit card frauds. Hence, such information sharing would help in protecting your account and business with us.
+  * Your order details and personal details like address and phone number may be shared if asked by any Government Department eg. Sales Tax Department. 
 
 
 
