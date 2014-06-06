@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uscho.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206180138id_/http%3A//www.uscho.com/faq/uscho-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uscho.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606090315id_/http%3A//www.uscho.com/faq/uscho-privacy-policy) for the most accurate reproduction.*
 
 # USCHO privacy policy :: USCHO.com :: Frequently Asked Questions :: U.S. College Hockey Online
 
@@ -21,8 +21,6 @@ When signing up for the USCHO.com Fan Forum, registrants can indicate that they 
 As a registered member of the USCHO.com Fan Forum, you may receive e-mail from the board administrator. We’ll send messages on occasion to let you know about important changes or new features added to the Fan Forum, or to verify that the e-mail address you provided is still working properly.
 
 And while we at USCHO.com don’t wish to be an intrusion, we may from time to time send e-mail to registered Fan Forum members which may offer products or services that we believe will be of interest to our readers. These messages help provide the financial support needed to keep USCHO.com a free and viable service.
-
-Each year, USCHO.com provides an opportunity for visitors to the site to vote for candidates for the Hobey Baker Award, as well as USCHO.com women’s and men’s Division III players of the year. During this voting period, we may require all voters to register to ensure that everyone is only allowed to vote once.
 
 #### 
 
@@ -68,19 +66,19 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 How you can access or correct your information
 
-The information you provide USCHO.com when registering for the Fan Forum is accessible for you to change at any time. Should you require any help in changing your information, please [contact us](https://web.archive.org/contactus.php?uschomail=fanforum) for assistance.
+The information you provide USCHO.com when registering for the Fan Forum is accessible for you to change at any time. Should you require any help in changing your information, please [contact us](mailto:fan_forum@uscho.com) for assistance.
 
 #### 
 
 How to contact us
 
-Should you have other questions or concerns about these privacy policies, please [send us a message](https://web.archive.org/contactus.php?uschomail=privacy).
+Should you have other questions or concerns about these privacy policies, please [send us a message](mailto:fan_forum@uscho.com).
 
 #### 
 
 Third-party advertising
 
-We use MaxOnline and other third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, e-mail address or telephone number) about your visits to this and other websites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.maxonline.com/privacy_policy/index.php).
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, e-mail address or telephone number) about your visits to this and other websites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
 
 #### 
 
