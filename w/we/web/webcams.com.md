@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the webcams.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222233728id_/http%3A//www.webcams.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcams.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606041123id_/http%3A//www.webcams.com/privacy) for the most accurate reproduction.*
 
-# Free Live Sex, Amateur Web Cam Girls, Adult Sex Chat :: Webcams.com
+# Private Policy :: Webcams.com
 
 We have created this Privacy Policy in order to demonstrate our firm commitment to privacy. This Privacy Policy explains our practices with respect to the collection, use, and disclosure of personal and non-personal information provided by visitors to our web site. By using this site, you signify your assent to these our privacy practices and the terms and conditions of our web site. 
 
@@ -56,4 +56,4 @@ Visitors who wish to access or change the information they provided to our web s
 
 Visitors who have any questions about this Privacy Policy, the practices of this site, or their interactions with this web site, should visit the Support section of this site and contact us via Email. 
 
-© Copyright 2005-2013 Webcams.com, All Rights Reserved.
+© Copyright 2005-2014 Webcams.com, All Rights Reserved.
