@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blendswap.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204223833id_/http%3A//www.blendswap.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blendswap.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606215941id_/http%3A//www.blendswap.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Blend Swap
 
@@ -66,6 +66,6 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[info@blendswap.com](mailto:info@blendswap.com)
+[[@blendswap.com](https://web.archive.org/user/blendswap.com)" target="_blank">info@blendswap.com](mailto:info%3Cspan%20class=)
 
 This document was last updated on December 07, 2011
