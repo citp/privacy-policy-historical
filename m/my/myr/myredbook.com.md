@@ -1,70 +1,68 @@
-> *The following text is extracted and transformed from the myredbook.com privacy policy that was archived on 2013-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130708114400id_/http%3A//www.myredbook.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myredbook.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606023154id_/http%3A//www.myredbook.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement : myredbook
 
-### Privacy Statement
+| 
 
-####  Privacy Policy for myredbook.com
+###  Privacy Policy
 
-Effective Date: 4 April 2007  
-Last Updated: 4 April 2007 
+Effective Date: 1 June 2014   
+Last Updated: 1 June 2014 
 
-**I. General**
+Sites Covered:: myredbook.com mypinkbook.com mybrownbook.com redslist.com
 
-A. The operative parties referred to in this policy are myRedBook S.A. and you, the user of this site. 
+  * 1\. **GENERAL  
+ **
+    * 1.1. The operative parties referred to in this Privacy Policy (“Policy”) are myRedBook S.A. d/b/a myredbook.com (hereinafter “RB” or “Company”) and You, the User of this Site.   
+ 
+      * 1.1.1. myRedBook S.A. is the operator of the following Site: myredbook.com . Hereinafter, when first-person pronouns are used in this Policy, (Us, We, Our, Ours, etc.) these provisions are referring to myRedBook S.A. d/b/a the above Site, or as any other Site(s) that We may choose to publish in the future. Additionally, when the terms “the Site” or “Site” are used, these terms refer to any Site published by Us, unless a Site is specifically exempt from this Policy. 
+      *  
+      * 1.1.2. You, the User – As the User of this Site, this policy will refer to the User as “You” or through any second-person pronouns, such as “Yours,” etc. Hereinafter, the User of the Site shall be referred to in applicable second-person pronouns. 
+      *  
+    * 1.2. This Policy describes how We use information received about You when You visit Our Site or when You subscribe to, or otherwise use Our online services. This Policy does not cover any information that We may receive from or about You through channels other than through the use of the Site. 
+    *  
+  * 2\. **REVISIONS TO THIS POLICY** – We reserve the right to revise, amend, or modify this Policy and Our other policies and agreements at any time and in any manner. You should periodically check for any modifications of this Policy by re-visiting this page and using the “refresh” button on Your browser. You should note the date of last revision to this Policy, which appears at the top of this Policy. If the “Last Modified” date remains unchanged after You have clicked the “refresh” button on Your browser, You may presume that no changes have been made since the last reading of the Policy. A changed “Last Modified” date indicates that this Policy has been updated or edited, and the updated or edited version supersedes any prior versions immediately upon posting. 
+  *  
+  * 3\. **PERSONAL INFORMATION THAT WE COLLECT** – Visitors to Our Site and services will have multiple manners of interactivity with Us. Depending upon Your level of interaction, We will collect different information about You. The type of information collected is as follows: 
+  *  
+    * 3.1. Members - Members are those Users who subscribe to Our services. Should You choose to become a Member We will require a name or alias, a valid email address, in the event of membership upgrade or purchase of premium features, credit card information, and any additional information that We, in Our sole discretion, feel is necessary to create a suitable Member account. 
+    *  
+    * 3.2. Browsers - Browsers are visitors to the Site who typically do not enter into any active data collection pages. Any information gathered from Browsers is also gathered from Members. 
+    *  
+  * 4\. **HOW WE COLLECT INFORMATION FROM YOU**
+  *  
+    * 4.1. Passive Collection – We passively collect information about You and Your online presence, for example Your current IP address, in order to enhance Your experience on the Site. 
+    *  
+    * 4.2. Active Collection – We actively collect information from You when You complete the online membership registration form and during purchase of a membership upgrade or premium feature. Please see above Provision 3.1. 
+    *  
+  * 5\. **HOW WE USE YOUR INFORMATION**
+  *  
+    * 5.1. The primary use for Your information is to provide You with services You have requested and/or paid for. We also use Your information to deliver customized services to You. Non-personal and aggregate information, such as that collected passively is used in order to improve User experience or to customize the use of Our Site for an aggregate group of customers. 
+    *  
+    * 5.2. We generally will use Your information for the purposes for which You specifically provide it, for example, to ensure payment for membership upgrade or other services. 
+    *  
+  * 6\. **SPECIAL CASES** – It is Our policy not to use or share the personal information provided by Browsers or Members in ways unrelated to those described in this Policy without also providing You an opportunity to prohibit such unrelated uses. However, We may disclose personal information about Browsers or Members, or information regarding Your use of the services or websites accessible through Our services, for any reason if, in Our sole discretion, We believe that it is reasonable to do so, including but not limited to the following situations: 
+  *  
+    * 6.1. To satisfy any laws, such as the Electronic Communications Privacy Act, regulations, or governmental or legal requests for such information; 
+    *  
+    * 6.2. To disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating Our Terms and Conditions/User Agreement or other User policies; 
+    *  
+    * 6.3. To operate Our services properly; 
+    *  
+    * 6.4. To protect Ourselves, Our Members, and the general public, We will cooperate with law enforcement authorities, but only when legally required to do so via a valid subpoena or court order. We specifically reserve the right to disclose any and all information to law enforcement in the event that a crime is committed, is suspected, or if We are compelled to do so by lawful criminal, civil, or administrative process, discovery requests, subpoenas, court orders, writs, or reasonable request of authorities or persons with the reasonable power to obtain such process. We will not cooperate with Governmental administrative or regulatory agencies, private-party litigants, and investigative reporters or journalists regarding disclosure of Your personal information, unless upon Our resistance of such disclosure, We are legally advised to oblige the requesting party. 
+    *  
+    * 6.5. If We have reason to believe that the User is not the owner of a credit card, even if the credit card use is authorized, We will provide information about You to the credit card holder. We will absolutely provide Your information to the credit card holder if We believe that fraud is a possibility. However, We do not require that there be fraud, as it is Our policy that the credit card holder always has an absolute right to access any and all of Your personal information. 
+    *  
+    * 6.6. Anyone who violates any of Our designated anti-spam policies may have their personal information made public, at Our discretion. If there is any investigation on any unlawful spamming, or any use of bulk e-mail in order to promote Your User profile, or any use of bulk e-mail in any manner that leads back to Our Site, or any one of Our Sites, We will cooperate with any and all parties completely and freely in order to see that Your bulk e-mail activities stop. 
+    *  
+  * 7\. **TRANSMITTALS FROM US** – We may send You email communications pertaining to Your activity on the Site, for example, a confirmation email upon membership registration. 
+  *  
+  * 8\. **FORUMS & MEMBER COMMUNICATION** – Any information or content, personal or otherwise, provided in a post, profile, discussion forum, message board, chat room, Member directory, instant message, or other related service offered by the Site should be considered to be public information. We do not, cannot, and will not act to maintain the privacy of any information that You provide in any such forum or medium of communication. 
+  *  
+  * 9\. **OUR COMMITMENT TO DATA SECURITY** – We take various measures to protect the transmission of all sensitive User information. We make every effort to ensure the integrity and security of Our network and systems by storing User data on a secured in-house database wholly separated from any User-accessible directories. Please note that We have no access to Your credit card data as such information is collected by a third party billing agent. We cannot guarantee that Our security measures will prevent third-party ‘hackers’ from illegally obtaining this information. We take all reasonable measures to prevent such breaches of security, but given the resourcefulness of cyber-criminals We are unable to guarantee that Our security is one hundred percent (100%) breach-proof. You assume the risk of such breaches to the extent that they occur despite Our reasonable security measures. 
+  *  
+  * 10\. **HOW TO ACCESS OR MODIFY YOUR INFORMATION** – We offer Our Members the opportunity to access or modify information provided during registration via Your Member profile page. 
+  *  
+  * 11\. **WHERE TO DIRECT QUESTIONS ABOUT OUR PRIVACY POLICY** – If You have any questions about this Privacy Policy or the practices described herein, You may contact Us at [ http://www.myredbook.com/support.aspx](https://web.archive.org/web/20140606023154id_/http%3A//www.myredbook.com/Sites%20Covered::%20myredbook.com%20mypinkbook.com%20mybrownbook.com%20redslist.com)
 
-1\. myRedBook (Seychelles) S.A. is the publisher and operator of the web site www.myredbook.com. Hereinafter referred to as “COMPANY”. When first-person pronouns are used in this Policy, (us, we, our, ours, etc.) these provisions are referring to myRedBook (Seychelles) S.A. d/b/a myredbook.com. Additionally, when the terms “The SITE” or “SITE” are used, these terms refer to myredbook.com. 
-
-2\. You, the User – As the user of this site, this policy will refer to the user as “you” or through any second-person pronouns, such as “yours,” etc. Hereinafter, the user of the site shall be referred to in applicable second person pronouns. B. This Privacy Policy describes how we use information received about you when you visit our SITE or when you subscribe to, or otherwise use our online services. This Policy does not cover any information that we may receive from or about you through channels other than through the use of the SITE. 
-
-**II. Revisions to this Policy  
-**We reserve the right to revise, amend, or modify this policy and our other policies and agreements at any time and in any manner. You should periodically check for any modifications of this Policy by re-visiting this web page and using the “refresh” button on your browser. You should note the date of last revision to this Policy, which appears at the top of this Policy. If the “last modified” date remains unchanged after you have clicked the “refresh” button on your browser, you may presume that no changes have been made since the last reading of the policy. A changed “last modified” dates indicates that this Policy has been updated or edited, and the updated or edited version supersedes any prior versions immediately upon posting. 
-
-**III. Personal information that we collect**   
-Visitors to our site and services will have differing of interactivity with us depending on whether visitors simply browse our site, or whether they become members. Depending upon your level of interaction, we will collect different information about you. The type of information collected is as follows: 
-
-A. VIP Members - VIP members who pay by credit card, online checking account, 1-900 telephone are prompted to provide their name and billing information through our billing agent, [www.ccbill.com](http://www.ccbill.com/). ccBill is not affiliated with this site and has its own [ccBill Privacy Policy](http://about.ccbill.com/html_forms/privacy_policy-english.html) with which you should familiarize yourself. VIP members who pay by cash or money order are not prompted for any billing information.
-
-B. Registered Members - Registered members are visitors to our site who choose to register to post information in our public forums. Minimal information is sought, and no actual personally identifying information must be submitted in order to become a registered member. Nevertheless, any information entered voluntarily should be considered to be considered public information or information that is publicly available. If you do not wish for information to be made public, you should not enter it into your user profile when registering. 
-
-C. Browsers - Browsers are visitors to the site who never enter into any active data collection pages. Any information gathered from Browsers is also gathered from Posters and Members. This information is restricted to cookies, IP Addresses and Referral URLs, and other passive information gathering devises (explained below). 
-
-**IV. How we collect information from you**
-
-A. Passive Collection – Cookies are pieces of information that a website transfers to an individual's computer for record-keeping purposes. Most browsers are initially set to accept cookies. 
-
-B. Active Collection – we collect information from you when you complete registration forms to sign up for your membership or to use interactive sections of our Site. We reserve the right to add additional information collection portals from time to time as we see fit. 
-
-**V.  How we use your information**  
-The primary use for your information is to provide you with services you have requested and/or paid for. We also use your information to deliver customized services to you. We additionally will use your information for the purposes for which you specifically provide it, for example, to ensure payment for subscription services.
-
-We use cookies to keep track of your user session. That is, once a person logs on the system, a cookie maintains their credentials so that on subsequent requests for information, we do not have to ask again for the user to log in. We also use cookies to store user preferences, for example: A “collapsed” vs. “expanded” view of the message board listing and a timestamp to use when flagging messages as “new.” 
-
-**VI. Special Cases  
-**It is our policy not to use or share the personal information about Visitors or Members in ways unrelated to those described in this Policy without also providing you an opportunity to opt out or otherwise prohibit such unrelated uses. We may disclose personal information about Visitors or Members when we believe the release is necessary to comply with the law, enforce our User Agreement or Terms and Conditions. or to protect ourselves, our Members, and the general public. We will only provide information to private civil litigants if required to do so by law. We reserve the right to determine how much effort we wish to expend to defend against civil requests for information. 
-
-**VII. Transmittals from Us**  
-We do not send unsolicited emails. 
-
-**VIII. Public Forums, Member Directories, and Internal Messaging  
-**A. Public Forums. Any information posted to our public forums, chat areas, or classifieds should immediately be considered to be public information. 
-
-B. Member Directories.   
-Any information provided in a user profile, member directory, or other related service should be considered to be public information. We do not, cannot, and will not act to maintain the privacy of any information that you provide in any such forum or medium. Your email address is not displayed on any public directory.
-
-C. Internal Messaging.   
-We provide an internal messaging system for use between members of our Site. Any information that you send via this internal messaging system while not publicly displayed, is not guaranteed as secure, and as such, should not considered to be private information. 
-
-**IX. Our Commitment to Data Security**  
-We employ firewalls and other measures such as data encryption, to protect the transmission of all sensitive end-user information. We make every effort to ensure the integrity and security of our network and systems. Nevertheless, we cannot guarantee that our security measures will prevent third-party ‘hackers’ from illegally obtaining this information. We take all reasonable measures to prevent such breaches of security, but given the resourcefulness of cybercriminals we are unable to guarantee that our security is 100% breach-proof. You assume the risk of such breaches to the extent that they occur despite our reasonable security measures. 
-
-**X. How to Access or Modify Your Information**   
-We offer our Members the opportunity to access or modify information provided during registration. To access or modify such information, go to your profile at <http://www.myredbook.com/db/login.aspx>
-
-**XI. Where to Direct Questions About Our Privacy Policy**  
-If you have any questions about this Privacy Policy or the practices described herein, you may contact us at <http://www.myredbook.com/support.aspx> 
-
-myRedBook S.A.  
-Anasuya Est #9  
-Revolution Ave  
-Victoria Mahe, Seychelles 601771
+| 
