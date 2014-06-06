@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jobsite.co.uk privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628140807id_/http%3A//www.jobsite.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsite.co.uk privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606170631id_/http%3A//www.jobsite.co.uk/privacy) for the most accurate reproduction.*
 
-# Jobsite - Terms & Conditions - Privacy policy
+# Jobsite - Terms & Conditions - Privacy Policy
 
-Effective from 25th May 2012
+Effective from 6th February 2014
 
 This privacy policy applies only to this website_ (the “Site”). If you do not accept this privacy policy, you must not use the Site.
 
@@ -16,7 +16,7 @@ In addition to personal information, we may collect information about you automa
 
 The information collected by cookies and web beacons is not personally identifiable, it only includes general information about your computer settings, your connection to the internet e.g. operating system and platform, IP address, your browsing patterns and timings of browsing on the site and geographical location.
 
-For detailed information about cookies and web beacons used on our site and how to opt out - please visit our [Cookies Use](https://web.archive.org/web/20120628140807id_/http%3A//cookies) page.
+For detailed information about cookies and web beacons used on our site and how to opt out - please visit our [Cookies Use](https://web.archive.org/web/20140606170631id_/http%3A//cookies) page.
 
 ## Use of Your Information
 
@@ -50,13 +50,17 @@ We may transfer, sell or assign any of the information described in this policy 
 
 We take the security of your personal information very seriously and have appropriate physical, technical and administrative procedures in place to help protect your personal information from unauthorized access, use or disclosure as required by law in England. 
 
+## Updating Your Preferences
+
+You can opt out of receiving marketing communications by clicking on the ‘unsubscribe’ link in the emails from us. Or you can write to us (including full details of your request) at the address provided at the end of this privacy policy.
+
 ## Accessing Your Personal Information
 
 If you wish to review or receive copies of the personal information we hold about you, change your marketing preferences or have any other privacy queries, please write to us (including full details of your request) at the following address:
 
 **Privacy Team**
 
-Jobsite UK (Worldwide) Limited
+Evenbase Recruitment Ltd
 
 Langstone Technology Park
 
