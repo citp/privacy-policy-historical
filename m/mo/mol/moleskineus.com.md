@@ -1,58 +1,33 @@
-> *The following text is extracted and transformed from the moleskineus.com privacy policy that was archived on 2013-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130701182346id_/http%3A//www.moleskineus.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moleskineus.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606143008id_/http%3A//shop.moleskine.com/en-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy, MoleskineUS
+# Moleskine Privacy Policy - Moleskine United States
 
-## Moleskine US Secure Shopping & Privacy
+## MOLESKINE® Privacy Policy
 
-Welcome to [MoleskineUS.com](http://www.moleskinenotebook.com/)! We're glad you're here and hope you enjoy our site!  Visit us on-line 24 hours a day, 7 days a week. 
+##### General
 
-### Privacy
+We are committed to protecting your privacy and ensuring that all customer information be kept strictly confidential. Moleskine® administers and manages this website.
 
-We will never share, sell, or rent individual customer information with third parties for their promotional use. All customer information is maintained in a secure data environment, using industry-standard secure encryption technologies when transferring and receiving data. 
+##### Collection of Information
 
-We take your privacy seriously, we respect and protect the privacy of our customers and those who use our website and we strictly adhere to fair electronic information practices. We have created this privacy policy to demonstrate our firm commitment to your privacy and the protection of your information. 
+To better serve you, we collect and store information about visitors to this website. We may ask, at certain times (purchase or order of a product, contest/sweepstakes/promotion, registering for a catalog) for you to provide information such as name, shipping/billing address, phone number, email address, credit card information, birth date, gender, age, occupation, etc. We may also maintain/retain a record of your purchases from the website.
 
-Your customer information is used by us to process your order successfully. Your e-mail address is used to send order confirmations and shipment updates allowing you to check the status of your order with us and/or for us to correspond with you about your order. 
+##### Use of Information
 
-If you place an order with us, you may receive a periodic newsletter e-mail directly from us updating you on new Moleskine products, current sales and specials, interesting articles, and events. This is purely optional and you may opt-in or out of our newsletter at any time. In each subscriber email you receive, there will be a link to unsubscribe or change your areas of interest. **Your email address will not be shared, sold, or traded to any other company or third party.**
+We do not intend to use customer information collected through this website in any way not described here without first providing you the opportunity to opt-out of that use. We use customer information collected in conjunction with the purchase of products on this website to complete transactions and fulfill requests for services. We may also use customer information to provide a more effective and efficient customer experience. Additionally, we may use customer information to send you our newsletter and/or e-mail notifications / direct e-mail marketing. We (or third parties engaged by us) may also send you notices about products and services, promotions, contests (which may be related to the services of this website and/or other products or services provided by us), or re-order information to continue to serve you. We require strict contractual obligations from any such third party to ensure safeguards for the privacy and security of the information which are at least as restrictive as this Privacy Policy in handling your information.
 
-As a Yahoo! Store participant, Yahoo! automatically collects order information but may only use this information in the aggregate. Please see the [Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information.
+##### Consent
 
-### Secure Shopping
+By utilizing this website, you are consenting to the use of customer data as herein described, including but not limited to the processing of any personal and sensitive data included in the data you provide.
 
-We take every precaution to protect the confidentiality and security of your personal information by using industry-recognized security safeguards to protect your information. Our web sites uses secure encryption technology to ensure the protection and privacy of the information you provide when placing an order. When you check out you'll see the secure "lock" icon on your browser and see that the web address begins with https:// instead of http://, where the 's' in the 'https' address stands for "secure'. 
+##### Opt-Out
 
-MoleskineUS.com uses secure encryption technology to ensure the protection and privacy of the information you provide when placing an order. When you check out you'll see the secure "lock" icon on your browser and see that the web address begins with https:// instead of http://, where the 's' in the 'https' address stands for "secure". 
+We communicate with users to our services on a regular basis via email. For example, we may use your email address to confirm your request, to send you notice of payments, to send you information about changes to our products and services, and to send notices and other disclosures as required by law. When you make a purchase from us we use your information to process your order, to send an e-mail to confirm your order, and to contact you via phone, mail, or e-mail if we have any questions regarding your order. Generally, users cannot opt-out of these communications, but they will be primarily informational in nature rather than promotional. If you wish to opt-out and prefer not to receive information about additional products and services, promotions, and contests through e-mail, mail, or phone, you may do so by sending us an email at [shop.privacy@moleskine.com](mailto:shop.privacy@moleskine.com%3cmailto:shop.privacy@moleskine.com). Please note: Such requests will be honored within ten (10) business days according to section 5(a)(4)(A)(i) of the Can-Spam Act. While we will process your request as soon as possible, please be aware that in some circumstances you may receive a few more messages until your request is processed. You also may opt-out of receiving such emails by clicking on the "unsubscribe" link within the text of the email.
 
-### Credit Card Protection » Your Credit Card Protects You
+##### Cookies
 
-You may not know that your credit card provides 100% fraud protection for on-line shopping. Here's the latest information: 
+We make limited use of cookies to gather information when you visit the website, make a purchase or when you click through to the website from a targeted email or partner site. We also use cookies to gather information upon your return visit to the website so that we can prepare and customize our services to you. A cookie is a small file sent to your computer that is stored on the hard drive and allows us to identify you and better customize the site for you. We do not capture personal information with our use of cookies.
 
-What your credit card protection provides:  
----  
-**American Express** |   | **Online Fraud Protection Guarantee** \- "Use the American Express Card online, and you  won't be held responsible for any unauthorized charges. Period. No fine print, no deductible - just ironclad protection, so you can shop with confidence anywhere on the Internet."  [ Read more >>](https://web.archive.org/web/20130701182346id_/http%3A//www.moleskineus.com/www.americanexpress.com/cards/online_guarantee/)  
-  |   | 
+_We recognize that we must maintain and use customer information responsibly and are committed to doing so. If you have any questions regarding our privacy statement, please email us._
 
-* * *  
-  
-**Discover** |   | **100% Fraud Protection - "** When you shop online using your Discover Card, you can shop with confidence knowing your Account is protected. 100% Fraud Protection means that any time you use your Discover Card online, you will not be responsible for unauthorized charges."   [Read more >>](http://www.discovercard.com/discover/data/account/stopfraud.shtml)  
-  |   | 
-
-* * *  
-  
-**MasterCard** |   | **Zero Liability** \- "Have peace of mind knowing you class won't be responsible for unauthorized purchases. Receive the benefit of not being liable in the event of the unauthorized use of your U.S.-issued MasterCard. As a MasterCard cardholder, coverage extends to purchases made in a store, over the telephone, or on the Web."  [ Read more >>](http://www.mastercard.com/general/zero_liability.html)  
-  |   | 
-
-* * *  
-  
-**Visa** |   | **Zero Liability** \- It's simple. Shop for anything online or off—with absolutely no risk. Use your Visa card to shop online, in a store, or anywhere, and you're protected from unauthorized use of your card or account information. With Visa's Zero Liability policy*, your liability for unauthorized transactions is $0—you pay nothing! Visa takes online security very seriously so that you can focus on your shopping.  [Read more >>](http://usa.visa.com/personal/security/visa_security_program/zero_liability.html)  
-  |   | 
-
-* * *  
-  
-**Still don't want to use your credit card on the Internet?**  
-If you're uncomfortable ordering on-line, feel free to call us at 1-866-882-8812 to place your order. Our friendly and knowledgeable staff is available to help you shop with us. If you have any questions please contact [ info@moleskineus.com](mailto:info@moleskineus.com).
-
-### Third-Party Web Beacons
-
-We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here](https://reports.web.analytics.yahoo.com/optout,OptOut.vm?domain=a.analytics.yahoo.com). 
+__Users  __ _are entitled to delete their account. To do so, please send an email to[shop.privacy@moleskine.com](mailto:shop.privacy@moleskine.com%3cmailto:shop.privacy@moleskine.com). Please use the subject line "Delete My Account" and we will process your request._
