@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the devitrianto.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202011738id_/http%3A//www.devitrianto.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devitrianto.com privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607011902id_/http%3A//www.devitrianto.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Android APK Download
+# Privacy Policy
 
-[**All Android Apps**](http://www.devitrianto.com/ "Android APK Download") takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://www.devitrianto.com/privacy-policy/?xurl=http%3A%2F%2Fwww.synclastic.com%2Fprivacy%2Fprivacy-policies%2F) to learn more about privacy policies in general.
+[**All Android Apps**](http://www.devitrianto.com/ "Android APK Download") takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://www.synclastic.com/privacy/privacy-policies/) to learn more about privacy policies in general.
 
 ## Routine Information Collection
 
@@ -16,11 +16,11 @@ Advertising partners and other third parties may also use cookies, scripts and/o
 
 ## Controlling Your Privacy
 
-Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms. This list of [web browser privacy management](http://www.devitrianto.com/privacy-policy/?xurl=http%3A%2F%2Fwww.synclastic.com%2Fprivacy%2Fbrowser-configuration%2F) links may also be useful.
+Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms. This list of [web browser privacy management](http://www.synclastic.com/privacy/browser-configuration/) links may also be useful.
 
 ## Special Note About Google Advertising
 
-Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to [opt out of Google’s cookie usage](http://www.devitrianto.com/privacy-policy/?xurl=http%3A%2F%2Fwww.google.com%2Fprivacy_ads.html). As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google’s own privacy policies.
+Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to [opt out of Google’s cookie usage](http://www.google.com/privacy_ads.html). As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google’s own privacy policies.
 
 ## Contact Information
 
