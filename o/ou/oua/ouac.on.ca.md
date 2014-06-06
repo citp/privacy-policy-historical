@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ouac.on.ca privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206112444id_/http%3A//www.ouac.on.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ouac.on.ca privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606075207id_/http%3A//www.ouac.on.ca/privacy) for the most accurate reproduction.*
 
 # Privacy | Ontario Universities' Application Centre
 
@@ -8,12 +8,12 @@ The Ontario Universities’ Application Centre (OUAC) is committed to protecting
 
 ### Division-specific Declaration and Notice of Collection, Use, Disclosure and Treatment of Your Personal Information
 
-  * [OMSAS](https://web.archive.org/web/20131206112444id_/http://www.ouac.on.ca/privacy/omsas-declaration) (Ontario Medical School Application Service)
-  * [OLSAS](https://web.archive.org/web/20131206112444id_/http://www.ouac.on.ca/privacy/olsas-declaration) (Ontario Law School Application Service)
-  * [TEAS](https://web.archive.org/web/20131206112444id_/http://www.ouac.on.ca/privacy/teas-declaration) (Ontario Faculties of Education)
-  * [ORPAS](https://web.archive.org/web/20131206112444id_/http://www.ouac.on.ca/privacy/orpas-declaration) (Ontario Rehabilitation Sciences Programs Application Service)
-  * [OUAC 105](https://web.archive.org/web/20131206112444id_/http://www.ouac.on.ca/privacy/105-declaration) (Ontario University[ies] Undergraduate Program[s] [105])
-  * [OUAC 101](https://web.archive.org/web/20131206112444id_/http://www.ouac.on.ca/privacy/101-declaration) (Ontario University[ies] Undergraduate Program[s] [101])
+  * [OMSAS](https://web.archive.org/web/20140606075207id_/http%3A//www.ouac.on.ca/omsas-declaration) (Ontario Medical School Application Service)
+  * [OLSAS](https://web.archive.org/web/20140606075207id_/http%3A//www.ouac.on.ca/olsas-declaration) (Ontario Law School Application Service)
+  * [TEAS](https://web.archive.org/web/20140606075207id_/http%3A//www.ouac.on.ca/teas-declaration) (Ontario Faculties of Education)
+  * [ORPAS](https://web.archive.org/web/20140606075207id_/http%3A//www.ouac.on.ca/orpas-declaration) (Ontario Rehabilitation Sciences Programs Application Service)
+  * [OUAC 105](https://web.archive.org/web/20140606075207id_/http%3A//www.ouac.on.ca/105-declaration) (Ontario University[ies] Undergraduate Program[s] [105])
+  * [OUAC 101](https://web.archive.org/web/20140606075207id_/http%3A//www.ouac.on.ca/101-declaration) (Ontario University[ies] Undergraduate Program[s] [101])
 
 
 
@@ -132,7 +132,7 @@ Although we take appropriate measures to safeguard the personal information in o
 
 To provide you with an increased level of security online, access to your personal information on our website will be protected with a password you select. We strongly recommend that you do not disclose your password to anyone. We will never ask you for your password in any unsolicited communication.
 
-The OUAC is dedicated to using a high level of security during the transfer of application data. All files transferred to or from the OUAC use a Secure Socket Shell (SSH) protocol which requires a password to transfer the file and encrypts the file as it is being sent through the internet. Files containing personal information have an additional layer of encryption called Pretty Good Protection (PGP). To use PGP, the sender and recipient must use public and private “keys”. These keys are an enhanced form of password protection in which the sender and recipient share public keys with each other but they keep their private keys to themselves. The sender encrypts a file with the sender’s private key and the recipient’s public key. The recipient will decrypt that file with the recipient’s private key and the sender’s public key. Therefore the OUAC has taken steps to ensure that an unauthorized third party cannot decrypt the file.
+The OUAC is dedicated to using a high level of security during the transfer of application data. All files transferred to or from the OUAC use a Secure Socket Shell (SSH) protocol which requires a password to transfer the file and encrypts the file as it is being sent through the internet. Files containing personal information have an additional layer of encryption called Pretty Good Privacy (PGP). To use PGP, the sender and recipient must use public and private “keys”. These keys are an enhanced form of password protection in which the sender and recipient share public keys with each other but they keep their private keys to themselves. The sender encrypts a file with the sender’s private key and the recipient’s public key. The recipient will decrypt that file with the recipient’s private key and the sender’s public key. Therefore the OUAC has taken steps to ensure that an unauthorized third party cannot decrypt the file.
 
 #### Accessing and Correcting Your Personal Information
 
