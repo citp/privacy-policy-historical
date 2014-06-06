@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the breitbart.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529182455id_/http%3A//www.breitbart.com/System/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breitbart.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606164636id_/http%3A//www.breitbart.com/System/About-Us/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -35,19 +35,13 @@ At breitbart.com we are committed to protecting your privacy. Generally, you may
 
 * Our Site is a general audience web site and does not knowingly collect personal information from children under the age of 13. By using our site, you represent that you are not under 13 years of age.  
 
-
 Links to Third Party Web Sites: 
-
 * Our Site may offer links to other web sites, including links embedded in advertisements and links to various news sources. Such links to other websites may have information policies and practices different from ours. In addition, certain companies associated with breitbart.com may have their own privacy policies. We do not own or control such companies and web sites, and are not responsible for the privacy policies or practices or the content of web sites that we do not own or control.   
 
-
 How We Protect Your Information: 
-
 * We use industry-accepted technology to protect your data from disclosure to unauthorized third parties. Our server is also protected by a firewall to prevent unauthorized access to any information we may store. Although these measures are typically effective, use of the Internet and related computer systems is inherently vulnerable to unauthorized access or "hacking." No guarantee can be given that all information you provide to us will not be accessed by unauthorized persons.  
 
-
 How We Use Your Information: 
-
 * We collect, retain, and use internally Site visitor information only for legitimate business purposes, including the following: to correspond with you regarding our site or services, to inform you of developments in our company or with our services that we believe may be of interest to you, to send you breaking news alerts, to monitor Site visitor traffic patterns and Site usage, to comply with applicable laws, to enforce our Terms of Use or other agreements, and to protect the rights, property, or safety of breitbart.com, our users, and others.  
 
   
@@ -61,9 +55,7 @@ How We Use Your Information:
   
 
 * We strive to maintain the accuracy of our customer information. We respond promptly to update our database when you tell us your information is not accurate.
-
 When We May Disclose Your Information: 
-
 * We may share in aggregate, statistical form non-personal information regarding the visitors to our Site, traffic patterns, and Site usage with our partners, affiliates, investors, or other third parties.  
 
   
@@ -82,17 +74,13 @@ When We May Disclose Your Information:
 
 * To maintain a site that is free of charge, Breitbart.com contains advertising. Breitbart.com does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad, you may disclose personal information to their website and are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad.   
 
-
 Consent: 
-
 * By using this Site, you consent to our collection and use of personal information you choose to provide to us. We reserve the right, at any time, to modify, alter, or update this statement, and any such modifications, alterations, or updates will be effective upon posting.
-
 Privacy Questions: 
-
 * If you have any questions regarding this Privacy Policy, please them to us email at webmaster@breitbart.com. Breitbart.com may also be contacted directly at the following address:
 
 Designated Agent: Webmaster   
 Address of Agent: 149 S. Barrington Ave., #401, Los Angeles, CA 90049  
 E-mail for notice: webmaster@breitbart.com
 
-This Privacy Policy is revised as of **February 4, 2008** and may be modified from time to time.
+This Privacy Policy is revised as of **February 4, 2008** and may be modified from time to time. 
