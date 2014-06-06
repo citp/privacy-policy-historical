@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mezimedia.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212055539id_/http%3A//www.valueclickbrands.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mezimedia.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606234015id_/http%3A//valueclickbrands.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Valueclick Brands
 
