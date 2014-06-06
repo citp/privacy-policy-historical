@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the collegehumor.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119071722id_/http%3A//www.collegehumor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegehumor.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606195822id_/http%3A//www.collegehumor.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy Summary | CollegeHumor
+# Previous Privacy Summary - CollegeHumor
+
+### Consumer Privacy at Connected Ventures, LLC, an IAC Company
 
 Connected Ventures, is part of the IAC family of businesses. IAC is an interactive conglomerate with more than 60 brands, including Ask.com, Citysearch, CollegeHumor, Match.com, ServiceMagic, Shoebuy, and many others. For a list of all of IAC's businesses, please visit [www.iac.com.](http://www.iac.com/).
 
 At IAC, we respect the privacy of our users and the importance of the information they entrust to us. We summarize below the basic information policies and practices in place on all IAC websites. To read the entire Privacy Policy of Connected Ventures, LLC, please [click here](https://web.archive.org/privacy/policy).
+
+#### Information we may collect [[Read more]](https://web.archive.org/privacy/policy/#wecollect)
 
 We may collect information that can identify you ("personal information"), such as your name and email address, (i) when you (or other users) provide it to us when using our website or in some other manner, or (ii) from other IAC businesses, from our business partners, and from other third parties. We may combine the personal information that we receive from different sources.
 
@@ -18,6 +22,8 @@ We also may collect other types of information in the following ways when you vi
 
 We do not knowingly collect personal information from children under the age of 13. Should we ever do so, we will comply with the Children's Online Privacy Protection Act.
 
+#### Information others may collect [[Read more]](https://web.archive.org/privacy/policy/#otherscollect)
+
 We may allow third-party advertising companies or ad networks to display advertisements on our websites.
 
   1. We do not provide any personal information to these companies.
@@ -27,6 +33,8 @@ We may allow third-party advertising companies or ad networks to display adverti
 
 
 If you post information about yourself or others, or communicate with others using our website, please note that we cannot control who reads your postings or what they do with the information you provide. We encourage you to use caution in posting personal information.
+
+#### How we may use information we collect [[Read more]](https://web.archive.org/privacy/policy/#useinfo)
 
 We may use information to:
 
@@ -41,6 +49,8 @@ We may use information to:
 
 
 
+#### With whom we may share information we collect [[Read more]](https://web.archive.org/privacy/policy/#shareinfo)
+
 We will not share your personal information with others except as indicated below, or except when we inform you in advance and give you the opportunity to opt out. We may share personal information with:
 
   1. Service providers, such as credit-card payment processors, performing services on our behalf;
@@ -52,6 +62,8 @@ We will not share your personal information with others except as indicated belo
 
 We may share aggregated, non-personal information in any of the above situations and also with advertisers and others.
 
+#### Your choices [[Read more]](https://web.archive.org/privacy/policy/#choices)
+
 You may choose:
 
   1. Not to provide personal information, although that may result in your inability to obtain certain services or use certain features of our website;
@@ -62,9 +74,15 @@ You may choose:
 
 
 
+#### Security [[Read more]](https://web.archive.org/privacy/policy/#security)
+
 We take appropriate physical, electronic, and other security measures to help safeguard personal information from unauthorized access, alteration, or disclosure.
 
+#### Changes to our Privacy Policy
+
 We may occasionally update our Privacy Policy to reflect changes in our practices and services. If we make material changes in the way we collect, use, or share your personal information, we will notify you by sending you an email to the email address you most recently provided to us and/or by prominently posting notice of the changes on our website.
+
+#### How to contact us
 
 If you have any questions about this summary, our [Privacy Policy](https://web.archive.org/privacy/policy), or our information practices, please contact us by email or postal mail below:
 
@@ -76,6 +94,8 @@ New York, New York 10011
 United States of America  
 content@collegehumor.com  
 © 2007 IAC/InterActiveCorp. All rights reserved.
+
+#### Linked Information
 
 Cookies:
 
