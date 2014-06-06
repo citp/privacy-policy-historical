@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the borderlessaccess.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227202919id_/http%3A//borderlessaccess.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the borderlessaccess.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606123728id_/http%3A//www.borderlessaccess.com/privacy) for the most accurate reproduction.*
 
 # Market Research | Online Panels | Survey Panels | Mobile | Business | Services
 
