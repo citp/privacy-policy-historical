@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kingjackpot.co.uk privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231201322id_/http%3A//www.kingjackpot.co.uk/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingjackpot.co.uk privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606070816id_/http%3A//www.kingjackpot.co.uk/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy - King Jackpot UK
 
