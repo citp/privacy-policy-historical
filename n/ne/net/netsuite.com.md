@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netsuite.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518021806id_/http%3A//www.netsuite.com/portal/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netsuite.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606050541id_/http%3A//www.netsuite.com/portal/privacy.shtml) for the most accurate reproduction.*
 
 # NetSuite Privacy Policy - Customer Relationship Management - eCommerce Solution
 
@@ -6,7 +6,7 @@ In this Website Privacy Statement ("statement"), we, NetSuite Inc., provide info
 
 #### Scope
 
-This statement covers only data collected through the site and not any other data collection or processing, including, without limitation, data collection practices of webpages to which the site links, or data that we or our affiliates collect offline or through webpages that do not display a direct link to this statement, for example the NetSuite applications on which we host data for registered customers. The scope of our Safe Harbor Certification is defined by our [General EEA Safe Harbor Notice](https://web.archive.org/portal/safe-harbor.shtml). 
+This statement covers only data collected through the site and not any other data collection or processing, including, without limitation, data collection practices of webpages to which the site links, or data that we or our affiliates collect offline or through webpages that do not display a direct link to this statement, for example the NetSuite applications on which we host data for registered customers. The scope of our Safe Harbor Certification is defined by our [General EEA Safe Harbor Notice](https://web.archive.org/portal/company/safe-harbor.shtml). 
 
 #### Types of Data and Collection Methods
 
