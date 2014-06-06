@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the foundrmag.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201122422id_/http%3A//foundrmag.com/privacy-policy-foundrmag-com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foundrmag.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606101315id_/http%3A//foundrmag.com/privacy-policy-foundrmag-com) for the most accurate reproduction.*
 
-# foundr
+# foundr | Privacy Policy – Foundrmag.com
 
 Foundrmag.com is serious about protecting your online privacy. This Privacy Statement explains our views and practices concerning privacy, and how they may pertain to you as a user of our website.”You” or “Your” means you as a participant in or as a user of the Foundrmag.com website. “We” or “Our” or “Us” means Foundrmag.com “Our site” means Foundrmag.com.
 
