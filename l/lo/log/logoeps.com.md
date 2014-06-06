@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the logoeps.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204084856id_/http%3A//www.logoeps.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logoeps.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606214716id_/http%3A//www.logoeps.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
