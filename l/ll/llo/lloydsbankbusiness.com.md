@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lloydsbankbusiness.com privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111222350id_/http%3A//www.lloydsbank.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lloydsbankbusiness.com privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607005915id_/http%3A//www.lloydsbank.com/privacy.asp) for the most accurate reproduction.*
 
 # Lloyds Bank - Privacy
 
@@ -174,7 +174,7 @@ We have systems that protect our customers and ourselves against fraud and other
     * Checking details on proposals and claims for all types of insurance.
     * Checking details of job applicants and employees.
 
-Please contact us on **0845 604 5606**  if you want to receive details of the relevant fraud prevention agencies. We and other organisations may access and use from other countries the information recorded by fraud prevention agencies.
+Please contact us on **0845 602 7174** if you want to receive details of the relevant fraud prevention agencies. We and other organisations may access and use from other countries the information recorded by fraud prevention agencies.
 
 
 
@@ -193,7 +193,7 @@ When you apply for a mortgage or further borrowing it may be necessary to obtain
 
   * ###  Using your details for service contact
 
-methods of communication may be used when sending you information about your account. Most of the time you will be contacted by letter or telephone, but you may also be sent updates by text message or email when it is believed to be appropriate.  You can ask us to stop sending these messages at any time. Additionally, in extraordinary circumstances (such as natural disaster or civil unrest) we may also send you updates by text message or email. If we decide to use email to contact you, we will only do this if we have ensured that using email will not put your information at risk, or, if you have requested we email you, that we have explained the risks of sending an "insecure" email and that you are happy to accept that risk.
+Making sure we deliver excellent customer service is very important to us and to do this various methods of communication may be used when sending you information about your account. Most of the time you will be contacted by letter or telephone, but you may also be sent updates by text message or email when it is believed to be appropriate. You can ask us to stop sending these messages at any time. Additionally, in extraordinary circumstances (such as natural disaster or civil unrest) we may also send you updates by text message or email. If we decide to use email to contact you, we will only do this if we have ensured that using email will not put your information at risk, or, if you have requested we email you, that we have explained the risks of sending an "insecure" email and that you are happy to accept that risk.
 
 In addition you may wish to choose a channel of communication that suits you when you need to contact us.   If you need to email a Lloyds Banking Group company, we recommend you check their website to see if a secure email facility exists so that your email can be sent securely.  If you send us emails in other ways, such as from your personal account, then remember that the message may not be secure and there is a risk that it could be intercepted.  If you choose to send an "insecure" email, please keep the amount of confidential information you include to a minimum.
 
@@ -210,7 +210,7 @@ As part of our ongoing commitment to understanding our customers better, we may 
 Under the Data Protection Act you have the right of access to your personal data. The Act allows us to charge a fee of £10 for this service. If anything is inaccurate or incorrect, please let us know and we will correct it. For further details on how to request a copy of your information, please write to the:
 
 DSAR Unit  
-Lloyds TSB  
+Lloyds Bank  
 Customer Service Recovery  
 Charlton Place, C57  
 Andover, SP10 1RE
