@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fertilityauthority.com privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812125003id_/http%3A//www.fertilityauthority.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fertilityauthority.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606030840id_/http%3A//www.fertilityauthority.com/privacy-policy) for the most accurate reproduction.*
 
 # Terms of Use/Privacy Policy
 
-**Effective October 2012**
+**Effective February 2014**
 
 PLEASE READ THIS PRIVACY POLICY. YOUR USE OF THIS WEB SITE AS WELL AS ALL OTHER WEB SITES OWNED AND/OR OPERATED BY FERTILITYAUTHORITY (INDIVIDUALLY AND COLLECTIVELY, "SITE" OR "SITES")) AND/OR THE SERVICES PROVIDED BY FERTILITYAUTHORITY THROUGH OR IN CONNECTION WITH THE SITES (INCLUDING FERTILETHOUGHTS IS CONDITIONED UPON YOUR ACCEPTANCE OF THESE TERMS OF USE WITHOUT MODIFICATION. BY ACCESSING OR USING THE SITES, YOU AGREE TO BE BOUND BY THE TERMS OF USE AND ALL TERMS INCORPORATED BY REFERENCE. IF YOU DO NOT AGREE TO THE TERMS OF USE, DO NOT USE THE SITES AND/OR THE SERVICES.
 
@@ -130,9 +130,8 @@ This Privacy Policy does not create rights enforceable by third parties or requi
 If you have any questions about this Privacy Policy or our information-handling practices, or if you would like to request information about our disclosure of personal information to third parties for their direct marketing purposes, please contact us by e-mail or postal mail as follows:  
 info@fertilityauthority.com
 
-150 East 49th Street  
-Suite 5A  
-New York, NY 10017
+575 Lexington Avenue - 4th Floor  
+New York, NY 10022
 
 
 
