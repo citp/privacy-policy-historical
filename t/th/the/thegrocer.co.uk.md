@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the thegrocer.co.uk privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014222119id_/http%3A//www.thegrocer.co.uk/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegrocer.co.uk privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606043220id_/http%3A//www.william-reed.com/terms-conditions/privacy-policy) for the most accurate reproduction.*
 
-# Privacy & Cookie Policy
+# privacy-policy | Privacy & Cookie Policy
 
 Updated as at 1 July 2012
 
 ## 1\. Introduction
 
-This website is made available to you by William Reed Business Media (“William Reed”, “we”, “our” or “us”) (the “Website”). This privacy policy outlines how we may use your personal information and forms part of the Terms of Use of the Websites.
+This website is made available to you by William Reed Business Media ("William Reed", "we", "our" or "us") (the "Website"). This privacy policy outlines how we may use your personal information and forms part of the Terms of Use of the Websites.
 
-“Personal information” refers to any information which refers to you personally such as your name, e-mail address and postal address. Please read this privacy policy to understand how we use your personal information after it has been collected by us.
+"Personal information" refers to any information which refers to you personally such as your name, e-mail address and postal address. Please read this privacy policy to understand how we use your personal information after it has been collected by us.
 
 This Privacy Policy may be updated from to time. The date of the most recent revisions will appear on this page so please visit this Privacy Policy regularly.
 
@@ -25,7 +25,7 @@ We may collect personal information from you when you do the following through o
 
 
 
-We also collect certain information automatically about visitors to our Websites, as described in the section headed “Cookies” below.
+We also collect certain information automatically about visitors to our Websites, as described in the section headed "Cookies" below.
 
 ## 3\. What personal information do we collect from you?
 
@@ -69,9 +69,9 @@ By browsing the Websites and submitting personal information to us, you acknowle
 
 ## 7\. Cookies
 
-When you view our Websites we may store information on the hard drive of your computer or on your mobile device in the form of a “cookie” (essentially a small text file). Cookies are widely used by website owners in order to make their websites work, or to work more efficiently, as well as to provide reporting information.
+When you view our Websites we may store information on the hard drive of your computer or on your mobile device in the form of a "cookie" (essentially a small text file). Cookies are widely used by website owners in order to make their websites work, or to work more efficiently, as well as to provide reporting information.
 
-Cookies set by the website owner (in this case, William Reed) are called “first party cookies”. Cookies set by parties other than the website owner are called “third party cookies”. Third party cookies enable third party features or functionality to be provided on or through the website (e.g. like advertising, videos and website analytics services). The parties that set these third party cookies can recognise your computer both when it visits the website in question and also when it visits certain other websites.
+Cookies set by the website owner (in this case, William Reed) are called "first party cookies". Cookies set by parties other than the website owner are called "third party cookies". Third party cookies enable third party features or functionality to be provided on or through the website (e.g. like advertising, videos and website analytics services). The parties that set these third party cookies can recognise your computer both when it visits the website in question and also when it visits certain other websites.
 
 Cookies can remain on your computer or mobile device for different periods of time. Some cookies are ‘session cookies’, meaning that they exist only while your website browser is open and are deleted automatically once you close your browser. Other cookies are ‘permanent cookies’, meaning that they survive after your browser is closed and can be used by websites to recognise your computer when you later re-open your browser and browse the internet again.
 
@@ -79,9 +79,9 @@ We use cookies for several reasons. For example, cookies enable us to track the 
 
 The specific types of cookies served through the Websites, either by William Reed or third parties and the purposes they perform are described in the table below:
 
-Types of cookie| What they do  
+Types of cookie | What they do  
 ---|---  
-First Party (This website’s primary domain)| ASP.NET_SessionId  
+First Party (This website’s primary domain) | ASP.NET_SessionId  
 __atuvc  
 .ASPXAUTH  
 5e831a0b0bc6a8b74a8e106ba442439a  
@@ -119,21 +119,21 @@ CookieTest
 User_MobileSite  
 Logon_MobileSite  
 cookieNotification  
-Third Party| ASPSESSIONIDQSSABSAR  
+Third Party | ASPSESSIONIDQSSABSAR  
 Expo%2EHomePage  
- **Performance and functionality cookies**|  These cookies are used to enhance the performance and functionality of our Websites but are non-essential to their use. However, without these cookies, certain functionality (like videos) may become unavailable.  
-First Party| flyUpCounter  
+**Performance and functionality cookies** | These cookies are used to enhance the performance and functionality of our Websites but are non-essential to their use. However, without these cookies, certain functionality (like videos) may become unavailable.  
+First Party | flyUpCounter  
 deviceType  
 dnm_isoa2  
 Session_Jobseeker  
 Session_CandidateCVServices  
 RecruiterCVServicesSettings  
 Session_Mobile  
-Third Party| PREF  
+Third Party | PREF  
 VISITOR_INFO1_LIVE  
 Local storage  
- **Analytics and customisation cookies**|  These cookies collect information that is used either in aggregate form to help us understand how the website is being used or how effective are marketing campaigns are, or to help us customise the website for you.  
-First Party| __utma  
+**Analytics and customisation cookies** | These cookies collect information that is used either in aggregate form to help us understand how the website is being used or how effective are marketing campaigns are, or to help us customise the website for you.  
+First Party | __utma  
 __utmb  
 __utmc  
 __utmz  
@@ -161,11 +161,10 @@ WidgetClickThroughDomain
 WidgetClickThroughJobID  
 iPhoneClickThroughJobID  
 Session_RecruiterHub  
-  
-Third Party| IMRID  
+Third Party | IMRID  
 V5  
- **Advertising cookies**|  These cookies are used to make advertising messages more relevant to you. They perform functions like preventing the same ad from continuously reappearing, ensuring that ads are properly displayed for advertisers, and in some cases selecting advertisements that are based on your interests.  
-Third Party| TestIfCookie  
+**Advertising cookies** | These cookies are used to make advertising messages more relevant to you. They perform functions like preventing the same ad from continuously reappearing, ensuring that ads are properly displayed for advertisers, and in some cases selecting advertisements that are based on your interests.  
+Third Party | TestIfCookie  
 TestIfCookieP  
 dyncdn  
 pbw  
@@ -185,8 +184,8 @@ OACCAP
 OAID  
 OASCAP  
 OASCCAP  
- **Social networking cookies**|  These cookies are used to enable you to share pages and content that you find interesting on our website through third party social networking websites.  
-Third Party| psc  
+**Social networking cookies** | These cookies are used to enable you to share pages and content that you find interesting on our website through third party social networking websites.  
+Third Party | psc  
 uid  
 uit  
 uvc  
@@ -218,13 +217,13 @@ You have the right to request a copy of the personal information that we hold on
 
 If you have any questions about this Privacy Policy at any time, please contact us using the following details:
 
- _For visitors from the UK:_
+_For visitors from the UK:_
 
 The data controller of personal information collected about you through this Website is William Reed Business Media Ltd, a limited liability company registered in England and Wales (registered number is 2883992) whose registered office is at Broadfield Park, Crawley, West Sussex RH11 9RT.
 
 You can write to us at the address above (marked for the attention of the Company Secretary or e-mail us at: [robert.proctor@wrbm.com](mailto:robert.proctor@wrbm.com).
 
- _For visitors from France:_
+_For visitors from France:_
 
 The data controller of personal information collected about you through this Website is William Reed Business Media SAS, a limited liability company registered in France (registered number 429 315 971) whose registered office is at 335, rue Vendemiaire, Le Belem – 34400 Montpellier.
 
