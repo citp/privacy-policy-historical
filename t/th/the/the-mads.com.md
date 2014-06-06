@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-mads.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204230254id_/http%3A//www.the-mads.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-mads.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606150828id_/http%3A//www.the-mads.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The MAD Blog Awards
 
@@ -20,7 +20,7 @@ We may use the information that we collect to help improve the service we offer 
 
 
 
-If you would prefer us not to use this information, please let us know by contacting Sally by [**email**](mailto:sally@the-mads.com).
+If you would prefer us not to use this information, please let us know by contacting a member of the MADs team by [**email**](mailto:MADS@fleaenterprises.com).
 
 In operating our website, we will take all reasonable steps to ensure that any personal data is treated with care and stored securely. Unfortunately, the sending of information via the internet is not totally secure, and we cannot guarantee the security of data you choose to send to use electronically. Sending such information is entirely at your own risk.
 
@@ -36,6 +36,6 @@ The MADs website includes links to external websites operated by other individua
 
 In accordance with the Data Protection Act 1998 you have the right to access any information that we hold relating to you. If for any reason you are concerned with the way we are using your personal information, or would like to correct or request that we delete such personal information, please contact us using the details listed below.
 
-By Email: [**sally@the-mads.com**](https://web.archive.org/web/20131204230254id_/http://www.the-mads.com/privacy-policy/getintouch@the-mads.com)  
+By Email: [MADS@fleaenterprises.com](mailto:MADS@fleaenterprises.com)  
 Twitter: [@madblogawards](http://www.twitter.com/madblogawards)  
-Telephone: 07500 095 284
+Telephone: 01253 739408
