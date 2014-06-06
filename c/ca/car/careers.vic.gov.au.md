@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careers.vic.gov.au privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217212313id_/http%3A//careers.vic.gov.au/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careers.vic.gov.au privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607015415id_/http%3A//careers.vic.gov.au/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Careers
 
@@ -40,8 +40,8 @@ For enquiries relating to privacy issues at careers.vic.gov.au please contact
 Privacy Officer
 
   
-State Services Authority  
+Victorian Public Sector Commission  
 3 Treasury Place  
 Melbourne 3000 VIC  
-Email: [privacy@ssa.vic.gov.au](mailto:privacy@ssa.vic.gov.au)  
+Email: [privacy@vpsc.vic.gov.au](mailto:privacy@ssa.vic.gov.au)  
 Telephone: 03 9651- 5309
