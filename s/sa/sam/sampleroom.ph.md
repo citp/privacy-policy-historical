@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sampleroom.ph privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205130131id_/http%3A//www.sampleroom.ph/index.php%3Froute%3Dinformation/information%26information_id%3D10) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sampleroom.ph privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606041907id_/http%3A//www.sampleroom.ph/index.php%3Froute%3Dinformation/information%26information_id%3D10) for the most accurate reproduction.*
 
 # Privacy Policy
 
