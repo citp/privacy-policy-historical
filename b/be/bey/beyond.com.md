@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beyond.com privacy policy that was archived on 2013-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130908160012id_/http%3A//www.beyond.com/mkt/content/js/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beyond.com privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607003044id_/http%3A//www.beyond.com/mkt/content/js/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
 
 # Find Jobs, Post Your Resume - Beyond.com
 
@@ -56,11 +56,11 @@ Back to top
 
 ### Cookies
 
-In general, we have limited use of cookies. As you browse areas of this site, cookies may be placed on your computer's hard drive. (Cookies are small pieces of data that are sent to your browser from a Web server and stored on your hard drive.) Cookies allow us to track your account so you don't need to retype the information each time you visit our site. You may refuse cookies in your browser, but doing so may result in certain services and features not functioning properly.
+In general, we have limited use of cookies. As you browse areas of this site, cookies may be placed on your computer's hard drive and/or your mobile device. (Cookies are small pieces of data that are sent to your browser from a Web server and stored on your hard drive and/or your mobile device.) Cookies allow us to track your account so you don't need to retype the information each time you visit our site. You may refuse cookies in your browser, but doing so may result in certain services and features not functioning properly.
 
 Our advertisers may also serve cookies when users click on the ad banners on this site, or use web beacons to collect information. We do not have access to any personal information gathered by advertisers.
 
-If you want to prevent a third-party advertiser from collecting data, currently you may either visit each ad network's web site individually and opt out. Notwithstanding anything else in this policy, we or a data provider we have engaged may place or recognize a unique cookie on your browser to enable you to receive customized ads or content. These cookies contain no personally identifiable information. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form. To opt-out of these cookies, please go to <http://www.aboutads.info/choices>
+If you want to prevent a third-party advertiser from collecting data, currently you may visit each ad network's web site individually and opt out. Notwithstanding anything else in this policy, we or a data provider we have engaged may place or recognize a unique cookie on your browser (including on your mobile device) to enable you to receive customized ads or content. These cookies contain no personally identifiable information. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form. To opt-out of these cookies, please go to [http://www.beyond.com/content/cookies.asp](https://web.archive.org/content/cookies.asp)
 
 Back to top
 
@@ -128,7 +128,7 @@ Back to top
 
 * * *
 
-Rev. July 2013
+Rev. April 2014
 
 * * *
 
