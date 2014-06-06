@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the lexile.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202014827id_/http%3A//www.lexile.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lexile.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606214748id_/http%3A//www.lexile.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | The Lexile® Framework for Reading
 
 **Overview**
 
 MetaMetrics, Inc. ("MetaMetrics", "we", or "us") are providing this Privacy Notice to inform you of our practices regarding personally identifiable information that may be collected in the course of our providing services to you.  MetaMetrics respects the privacy of our valued customers and subscribers. This Privacy Notice outlines the specific personally identifiable information that is gathered by MetaMetrics when you use one of our websites and how that personally identifiable information is used.
 
-MetaMetrics works to ensure a high degree of protection for consumers and businesses.  We will continue to work to ensure that our websites comply with strict standards for online privacy, security, business practices, transaction integrity and availability.  If you have any specific questions about this Privacy Notice, please contact us via e-mail at [feedback@lexile.com](mailto:feedback@lexile.com).
+MetaMetrics works to ensure a high degree of protection for consumers and businesses.  We will continue to work to ensure that our websites comply with strict standards for online privacy, security, business practices, transaction integrity and availability.  If you have any specific questions about this Privacy Notice, please [contact us](https://lexile.desk.com/) for more information.
 
 **Collection and Use of Information by MetaMetrics**
 
-MetaMetrics requests certain information from you when we need such information ("personally identifiable information") to provide our services or complete an online transaction.  Such personally identifiable is used to create a profile that allows you to access products on our websites, and may be used to contact you in the course of using such products.  We may also request certain financial information in order to verify your identity, and to bill either you (either you personally or your company as applicable) for products and services.  We may also collect certain demographic information that may be used to tailor your access to our websites or for any requested e-mail communications, and to display information that is more relevant to you.
+MetaMetrics requests certain information from you when we need such information ("personally identifiable information") to provide our services or complete an online transaction.  Such personally identifiable information is used to create a profile that allows you to access products on our websites, and may be used to contact you in the course of using such products.  We may also request certain financial information in order to verify your identity, and to bill either you (either you personally or your company as applicable) for products and services.  We may also collect certain demographic information that may be used to tailor your access to our websites or for any requested e-mail communications, and to display information that is more relevant to you.
 
 Your e-mail address is used to only send you information that you have requested.  As part of your use of any MetaMetrics product or service, MetaMetrics allows you to elect to receive, or not receive, certain information from MetaMetrics.  MetaMetrics adheres to a permission-based e-mail policy and complies with the provisions of the Federal CAN-SPAM Act.  MetaMetrics will not sell, rent, loan, or otherwise provide access to any third party to your personally identifiable information without your permission.  This restriction applies to our business partners as well.  All e-mail communications that you have requested from us will include an option to unsubscribe to further communications.  Unsubscribe requests are fulfilled with no further communication sent to users who have stated that they do not wish to receive the specified information.
 
@@ -34,4 +34,4 @@ MetaMetrics allows you to purchase Lexile® -related products and services in a 
 
 **The Bottom Line**
 
-Maintaining the privacy of your information is of paramount importance to us as it helps foster confidence, goodwill and stronger relationships with you, our customers.  If at any time you have questions or concerns about our privacy practices in general or this Privacy Notice in particular, please feel free contact us at [feedback@lexile.com](mailto:feedback@lexile.com).
+Maintaining the privacy of your information is of paramount importance to us as it helps foster confidence, goodwill and stronger relationships with you, our customers.  If at any time you have questions or concerns about our privacy practices in general or this Privacy Notice in particular, please feel free [contact us](https://lexile.desk.com/).
