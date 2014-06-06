@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ideapaint.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130100046id_/http%3A//www.ideapaint.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ideapaint.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606082619id_/http%3A//www.ideapaint.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | IdeaPaint
+# Privacy Policy | IdeaPaint™
 
 IdeaPaint, Inc. is dedicated to the privacy and rights of our customers. We do not sell or distribute any of the information collected from patrons of our products or services for profit or any other reason. For a detailed description of our practices, read our privacy policy below.
 
