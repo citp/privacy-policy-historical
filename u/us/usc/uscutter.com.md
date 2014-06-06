@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uscutter.com privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110025026id_/http%3A//www.uscutter.com/index/page/static/subpage/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uscutter.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606040859id_/http%3A//www.uscutter.com/index/page/static/subpage/privacy_policy) for the most accurate reproduction.*
 
 # USCutter
 
@@ -53,6 +53,6 @@ USCutter, Inc.
 19510 144th Avenue NE   
 Woodinville, WA 98072   
 Tel.: 425-481-3555   
-eMail: generalsupport@support.uscutter.com 
+eMail: generalsupport@uscuttersupport.com 
 
 We promise to investigate and respond to any privacy complaint sent to us as soon as possible. When sending a privacy complaint, be as specific as possible regarding the incident to allow us to properly investigate the issue. 
