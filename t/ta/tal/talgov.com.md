@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talgov.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204182129id_/http%3A//www.talgov.com/Main/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talgov.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606154705id_/http%3A//talgov.com/Main/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Talgov.com
 
