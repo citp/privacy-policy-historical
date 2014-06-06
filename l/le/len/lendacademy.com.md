@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lendacademy.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227234940id_/http%3A//www.lendacademy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lendacademy.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606142739id_/http%3A//www.lendacademy.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
@@ -6,7 +6,7 @@ This web site is owned by Renton Media LLC.
 
 Our postal address is 700 Colorado Blvd #214 Denver CO 80206.
 
-We can be contacted via e-mail by filling out the [contact form at the Social Lending Network](http://www.sociallending.net/contact/).
+We can be contacted via e-mail by filling out the [contact form at the Lend Academy](http://www.lendacademy.com/contact/).
 
 **What information do we collect?**
 
@@ -61,7 +61,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.sociallending.net/terms>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.lendacademy.com/terms>
 
 **Your Consent**
 
