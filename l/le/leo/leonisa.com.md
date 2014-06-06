@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the leonisa.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820074302id_/http%3A//www.leonisa.com/en/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leonisa.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606223625id_/http%3A//www.leonisa.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Leonisa
 
 Leonisa is committed to respect the privacy rights of all the site users and of the clients who register in this website. These policies describe how Leonisa collects, protects and uses the information received.
 
-## Privacy Policy 
+## Privacy Policy
 
-Leonisa will not retain any of its clients’ personal information (name, address, phone, email) unless it is voluntarily released. If you want to register to get an account in our webpage, we will ask for personal information (name, address, email, phone, etc.) This information will be stored in your personal account. Once you are registered, you will be able to purchase in our webpage. When you make a purchase in Leonisa, we will ask for your credit card number, your billing address and your shipping address. We will send you a confirmation email as soon as you get registered or make a payment. 
+Leonisa will not retain any of its clients’ personal information (name, address, phone, email) unless it is voluntarily released. If you want to register to get an account in our webpage, we will ask for personal information (name, address, email, phone, etc.) This information will be stored in your personal account. Once you are registered, you will be able to purchase in our webpage. When you make a purchase in Leonisa, we will ask for your credit card number, your billing address and your shipping address. We will send you a confirmation email as soon as you get registered or make a payment.
 
 We will retain some of your personal information to get to know your needs and likes. This will help us to enhance our products and better serve you. It is also possible that Leonisa saves some information about your previous purchases so we can customize our page according to your specific needs. We will send you information related to our products and special offers via email. If you want to stop receiving our emails, you will be able to do so, by sending an email to infousa@leonisa.com. Please keep in mind that if you make a future purchase we will have to retain your information to verify your billing and shipping addresses.
 
@@ -16,9 +16,9 @@ Leonisa’s webpage does not intend to collect any information from children you
 
 ## Cookies
 
-When you get into Leonisa’s webpage, some information will be downloaded in your computer as “cookies” or similar files. “Cookies” enable, among other things, our webpage and our advertising to be customized according to the needs and wants of our customers. Cookies are not harmful. These files will not damage your computers and your personal information can not be retrieved through “cookies.” 
+When you get into Leonisa’s webpage, some information will be downloaded in your computer as “cookies” or similar files. “Cookies” enable, among other things, our webpage and our advertising to be customized according to the needs and wants of our customers. Cookies are not harmful. These files will not damage your computers and your personal information can not be retrieved through “cookies.”
 
-If you want to disable “cookies”, most web browsers will let you erase them from your computer’s hard drive. You can also prevent “cookies” from being stored and you will receive a signal before “cookies” are downloaded. You should read your web browser’s instructions in order to learn more about these functions. 
+If you want to disable “cookies”, most web browsers will let you erase them from your computer’s hard drive. You can also prevent “cookies” from being stored and you will receive a signal before “cookies” are downloaded. You should read your web browser’s instructions in order to learn more about these functions.
 
 ## Safety
 
