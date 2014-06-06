@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gigya.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203060048id_/http%3A//www.gigya.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gigya.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606193651id_/http%3A//www.gigya.com/privacy-policy) for the most accurate reproduction.*
 
 # Gigya Privacy Policy | Gigya
 
@@ -32,8 +32,9 @@ We have established this Privacy Policy to explain how we collect Personal Infor
   * 16\. International Users
   * 17\. EU and Swiss Safe Harbor
   * 18\. Third-Party Services
-  * 19\. Changes and Updates to This Privacy Policy
-  * 20\. Contacting Us
+  * 19\. California Privacy Rights
+  * 20\. Changes and Updates to This Privacy Policy
+  * 21\. Contacting Us
 
 
 
@@ -131,8 +132,6 @@ We do not sell or rent email addresses and other Personal Information collected 
 _Gigya Service Providers_  
 We may provide Personal Information to third parties for their use in performing internal business functions (e.g., maintenance, security, data analysis, email transmission, CRM, database management services, credit card payment processing or data hosting) on our behalf. We require such third parties to agree to only use your Personal Information in accordance with this Privacy Policy and for no other purpose than to provide us with necessary services. 
 
-Additionally, we use Google Analytics to analyze our users’ use of the Gigya Website. Google Analytics is currently on [www.gigya.com](http://www.gigya.com/) and not on the Gigya Platform. Google Analytics provides us with aggregated data in order to help us make informed business decisions. We have indicated to Google that information collected through our use of Google Analytics on the Gigya Website should not be shared with third parties, even in an anonymous, aggregated fashion. Ultimately, Google, as a third party, controls information collected through Google Analytics and you should check and be comfortable with its privacy practices prior to using the Gigya Website. You may review information about Google’s privacy practices with respect to Google Analytics at <http://www.google.com/analytics/learn/privacy.html>. 
-
 _Gigya Affiliates_  
 We may share some or all of your Personal Information with our affiliates (including a parent company, subsidiaries, joint venture partners or other companies that we control or that are under common control with us), in which case we will seek to require those affiliates to honor this Privacy Policy.
 
@@ -190,7 +189,7 @@ On the Gigya Website, we may use passively-collected data to: (a) remember your 
 
 Our Clients, in implementing Gigya’s Services, utilize the Gigya API within their own websites. When you use the Service, our servers passively collect data through the implementation of the Gigya API including, but not limited to, your IP address, page views, browser type, interactions with Gigya’s Services, the web page you are currently visiting and the web page you were visiting before you came to the Service, and social actions such as sharing and commenting. This information is used to facilitate delivery of the Service and, in some cases, for internal reports. Additionally, some of the information collected is used in the Client Reports. The Client Reports may contain both passively-collected information and End User Personal Information. 
 
-Certain passively-collected information collected by Gigya is also made available directly to the Client (“Gigya Events”). The Client then has the ability to manually pass the Gigya Events to third party analytics tools, like Google Analytics and Omniture Site Catalyst, for additional reporting, or at the Client’s election, to use technology provided by Gigya to automatically send the Gigya Events to these third party analytics tools. If a client elects to use Gigya’s technology, then Gigya, as a service provider, sends such Gigya Events from websites owned by our Clients to their own third party analytics accounts. We do this only at the request and direction of the Client.
+Certain passively-collected information collected by Gigya is also made available directly to the Client (“Gigya Events”). The Client then has the ability to manually pass the Gigya Events to third party analytics tools, like Google Analytics and Omniture Site Catalyst, for additional reporting, or at the Client’s election, to use technology provided by Gigya to automatically send the Gigya Events to these third party analytics tools. If a Client elects to use Gigya’s technology, then Gigya, as a service provider, sends such Gigya Events from websites owned by our Clients to their own third party analytics accounts. We do this only at the request and direction of the Client.
 
 Please note that, as End Users utilizing Gigya’s Service on a Client’s website, that Client may also passively collect data subject to that website’s particular Privacy Policy, including, without limitation, non-Gigya actions such as purchases and videos watched. You should read and be aware of the terms of service, privacy policy, and privacy practices of the website of any Client utilizing our Services.
 
@@ -248,7 +247,7 @@ If you are an End User registered on a Client’s website using Gigya’s techno
 
 If you are an End User registered on a Client’s website using the Gamification component specifically, you have additional privacy settings you may access directly, in the event you do not want your profile and ranking to be displayed to other users on the website via the Leaderboard plugin. These settings are available in the “User Status” Social Plugin.
 
-If you would like to opt out of having your image or name displayed publicly to other users Client’s Website, you should contact that website’s owner directly.
+If you would like to opt out of having your image or name displayed publicly to other users of a Client’s website, you should contact that website’s owner directly.
 
 * * *
 
@@ -280,15 +279,33 @@ Gigya is a participant in the Safe Harbor program developed by the U.S. Departme
 
 The Gigya Website and Services may contain links to websites and services provided by third parties. Any Personal Information you provide on third-party websites or services is provided directly to that third party and is subject to that third party’s policies governing privacy and security. If you choose to visit an advertiser by “clicking on” a banner ad or other type of advertisement, or click on another third party link, you will be directed to that third party’s website. The fact that we link to a website or present a banner ad or other type of advertisement is not an endorsement, authorization or representation that we are affiliated with that third party, nor is it an endorsement of their privacy or information security policies or practices. These other websites may place their own cookies or other files on your computer, collect data or solicit Personal Information from you. We are not responsible for the content or privacy and security practices and policies of third-party websites or services. We encourage you to learn about third parties’ privacy and security policies before providing them with Personal Information.
 
+In addition, we use Google Analytics to analyze our users’ use of the Gigya Website. Google Analytics is currently on www.gigya.com and not on the Gigya Platform. Google Analytics provides us with aggregated data in order to help us make informed business decisions. We have indicated to Google that information collected through our use of Google Analytics on the Gigya Website should not be shared with third parties, even in an anonymous, aggregated fashion. Ultimately, Google, as a third party, controls information collected through Google Analytics and you should check and be comfortable with its privacy practices prior to using the Gigya Website. You may review information about Google’s privacy practices with respect to Google Analytics at <http://www.google.com/analytics/learn/privacy.html>.
+
 * * *
 
-### 19\. Changes and Updates to This Privacy Policy
+### 19\. California Privacy Rights
+
+Under California law, California residents are entitled to ask us for a notice describing what categories of Personal Information we share with third parties for their direct marketing purposes. The notice will identify the categories of Personal Information shared with third parties, as well as the name and address of the third parties that receive such Personal Information. If you want a copy of this notice, please submit a written request to the following address: 
+
+Gigya  
+Attn: gigya.com Privacy  
+2513 E. Charleston Rd  
+Suite #200  
+Mountain View, CA 94043 
+
+
+Gigya does not share Personal Information with third parties for their direct marketing purposes.  
+California residents are also advised that Gigya (and certain third parties authorized by Gigya) tracks users’ behavior on the Gigya Website and through the Gigya Services for the purposes described in “How We Use Passively-Collected Data” above. As of the effective date of this Privacy Policy, the Gigya Website does not respond to “do not track” signals from the web browsers of Gigya Website users, although users of the Gigya Website have the ability to update, correct or delete certain Personal Information provided to us as described above under “Your Choices.” End Users of a Client website should refer to such website’s privacy policy for information regarding the collection of information about an End User’s online activities and how such website responds to “do not track” signals. For more information on “do not track,” please visit [www.allaboutdnt.org](https://web.archive.org/web/20140606193651id_/http://www.gigya.com/privacy-policy/www.allaboutdnt.org).
+
+* * *
+
+### 20\. Changes and Updates to This Privacy Policy
 
 We may occasionally update this Privacy Policy. If we do, we will update the “effective date” at the top of the Privacy Policy. If we make an update to this Privacy Policy that is materially less restrictive in our use or disclosure of Personal Information that we collected prior to the update, we will provide you with prior notice of the pending update and seek your consent by posting notice on the Gigya Website or by contacting you using the email address you provided. We encourage you to periodically review this Privacy Policy to stay informed about our collection, use, and disclosure of Personal Information on the Gigya Website and Services. Your continued use of the Gigya Website constitutes your agreement to this Privacy Policy and any updates.
 
 * * *
 
-### 20\. Contacting Us
+### 21\. Contacting Us
 
 If you have questions about this Privacy Policy, you may contact us at [privacy [at] gigya [dot] com]. You may also write to us at:  
 Gigya  
