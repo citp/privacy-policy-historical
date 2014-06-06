@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 96down.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205235549id_/http%3A//www.96down.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 96down.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606210625id_/http%3A//www.96down.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy » Download Free WordPress Theme, WordPress Plugin and Full Scripts.
+# Privacy Policy - Download Full Nulled Scripts
 
 This privacy policy sets out how ’96down.com’ uses and protects any information that you may give ’96down.com’ when you use this website. ’96down.com’ is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. ’96down.com’ may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
 
