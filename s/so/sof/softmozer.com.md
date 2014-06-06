@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softmozer.com privacy policy that was archived on 2013-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131025015802id_/http%3A//www.softmozer.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softmozer.com privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607003617id_/http%3A//www.softmozer.com/privacy.html) for the most accurate reproduction.*
 
 # Software and Driver Updates - softmozer.com
 
@@ -55,7 +55,7 @@ Contains links and downloads of third party software as well as links to third-p
 
 ## Contact Us
 
-If you have any questions about this privacy statement, the practices of this site or application, or your dealings with them, you can contact us [here](https://web.archive.org/web/20131025015802id_/http%3A//www.softmozer.com/contact.html). 
+If you have any questions about this privacy statement, the practices of this site or application, or your dealings with them, you can contact us [here](https://web.archive.org/web/20140607003617id_/http%3A//www.softmozer.com/contact.html). 
 
   
 
