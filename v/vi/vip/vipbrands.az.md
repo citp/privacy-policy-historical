@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vipbrands.az privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201130826id_/http%3A//vipbrands.az/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vipbrands.az privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606210856id_/http%3A//www.vipbrands.az/privacy) for the most accurate reproduction.*
 
 # Privacy - Vipbrands AZ
 
@@ -12,19 +12,19 @@ This decleration includes privacy policy of ****VipBrands.com**. When you visit 
 
 **VipBrands.com** determines and applies users' IP adresses if needed to determine and solve the system problems in a fastest way. IP adress is also necessary to define the users in general and to collect detailed demographic information. 
 
-VipBrands.com, müşterilerine daha iyi hizmet verebilmek amacıyla bazı kişisel bilgilerinizi (isim, yaş, ilgi alanlarınız, e-posta vb.) sizlerden talep etmektedir. 
+VipBrands is demanding some of your personal information such as your name, age, interests, e-mail address to serve better to you. 
 
-VipBrands.com sunucularında toplanan bu bilgiler, dönemsel kampanya çalışmaları, müşteri profillerine yönelik özel promosyon faaliyetlerinin kurgulanması ve istenmeyen e-postaların iletilmemesine yönelik müşteri ' **sınıflandırma** ' çalışmalarında sadece VipBrands.com bünyesinde kullanılmaktadır. 
+The information collected in VipBrands servers are used for categorize our customers by doing periodic event studies, speculating special event activities intended for customer profiles and not sending the undesirable e-mails to customers only by VipBrands. 
 
-VipBrands.com, üyelik formlarından topladığı bilgileri, söz konusu üyenin haberi ya da aksi bir talimatı olmaksızın, üçüncü şahıslarla kesinlikle paylaşmamakta, faaliyet dışı hiçbir nedenle ticari amaçla kullanmamakta ve de satmamaktadır. VipBrands.com, e-posta adresleri ve üyelik formlarında istediği kişisel bilgilerin haricinde site kullanımı sırasında izlediği, ziyaretçi hareket ve tercihlerini analiz ederek yorumlamaktadır. 
+Our customers' personal information we collected at registration forms will not be definitely shared third parties. Those information will not be used for any trade goal or will not be sold. 
 
-Kişisel bilgiler içermeyen bu istatistiksel veriler, VipBrands.com müşterilerine daha özel ve etkin bir alışveriş deneyimi yaşatmak amacıyla VipBrands.com iş ortakları ile paylaşılabilmektedir. 
+The statistical information which doesn't include our customers' personal information can be shared with our business partners to serve more special and effective shopping experience for our customers. 
 
-Müşteri bilgileri, ancak resmi makamlarca usulü dairesinde bu bilgilerin talep edilmesi halinde ve yürürlükteki emredici mevzuat hükümleri gereğince resmi makamlara açıklama yapmak zorunda olduğu durumlarda resmi makamlara açıklanabilecektir. Müşterinin sisteme girdiği tüm bilgilere sadece Müşteri ulaşabilmekte ve bu bilgileri sadece Müşteri değiştirebilmektedir. Bir başkasının bu bilgilere ulaşması ve bunları değiştirmesi mümkün değildir. 
+Customer data may be disclosed to the authorities at their request, in case you must perform whatever legal obligations. Personal data, specified by a client, are only available to the client and can be change only by the client. Access to these data and changing them by a third party is impossible. 
 
-Herhangi bir zamanda günlük email gönderim listemizden çıkmak isterseniz, gönderdiğimiz emaillerin alt kısmında bulunan ' **E-bulten listemizden çıkmak için lütfen tıklayınız** ' linkine tıklayarak e-bulten üyeliğinden tek tıkla , kolayca çıkabilirsiniz. Ödeme sayfasında istenen kredi kartı bilgileriniz, siteden alışveriş yapan siz değerli müşterilerimizin güvenliğini en üst seviyede tutmak amacıyla hiçbir şekilde VipBrands.com veya ona hizmet veren şirketlerin sunucularında tutulmamaktadır. Bu şekilde ödemeye yönelik tüm işlemlerin VipBrands.com arayüzü üzerinden banka ve bilgisayarınız arasında gerçekleşmesi sağlanmaktadır. 
+If you want to quit from the VipBrands emailing list, you can easily quit by clicking on **please click here to quit E-bulletin**. Your credit card information has not been reserved by neither our servers nor the companies we work with to provide the best sequrity for our customers. 
 
-Ayrıca VipBrands.com’da ‘’Secure Sockets Layer’’ (SSL) teknolojisi kullanılmaktadır.128 bit SSL sertifikamız sayesinde kişisel bilgileriniz şifrelendiğinden 3.şahısların ellerine geçmesi tamamı ile engellenmiştir. 
+With our 128-bit SSL certificate your personal data are fully protected with coding from access of third parties. 
 
 The system demands contact information for instance: name, surname, e-mail address, phone number, address for application forms, order forms, questionnaires and contests. Moreover, system demands credit card information during shopping. These personal information is needed to receive the orders, to offer our products and services, to carry out your payments, to make your orders reach to you, to inform you about your orders, to contact for marketing our products and services, to update your personal information, to magane your membership and maintain, to recommend the products and services may interest you, to make third parties provide technical, logistics functions. 
 
@@ -34,10 +34,10 @@ Our customers' credit card and personal informations are codified by SSL secure 
 
 The process of cancelling **VipBrands.com** membership can be carried out by e-mailing destek@vipbrands.com or you can follow 'Cancelling Membership' under 'My Account' at **VipBrands.com**.
 
-Her türlü sorunuz için;
+You can reach us via 
 
-destek@vipbrands.com veya 
+destek@vipbrands.com or 
 
-012 4803323 no’lu çağrı merkezinden bize ulaşabilirsiniz.
+012 4803323 for any question.
 
 **
