@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joomla51.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618115639id_/http%3A//joomla51.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomla51.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606144906id_/http%3A//www.joomla51.com/privacy-policy/uncategorised/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Joomla Templates - New breed of Professional Template Design
 
@@ -9,12 +9,6 @@ When ordering or registering on our site, as appropriate, you may be asked to en
 **What do we use your information for?**  
 Any of the information we collect from you may be used in one of the following ways:
 
-  * To improve customer service - (your information helps us to more effectively respond to your customer service requests and support needs)
-  * To process transactions - Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
-  * To send periodic emails - The email address you provide for order processing, will only be used to send you information and updates pertaining to your order. Where the NewsLetter checkbox is selected during order processing you will occassionally receive newsletters regarding new products, services, coupons and promotions provided by Joomla51.com.
-
-
-
 **How do we protect your information?**  
 We implement a variety of security measures to maintain the safety of your personal information when you place an order.
 
@@ -22,4 +16,4 @@ We implement a variety of security measures to maintain the safety of your perso
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information.
 
 **Your Consent**  
-By using our site, you consent to our privacy policy.
+By using our site, you consent to our privacy policy. 
