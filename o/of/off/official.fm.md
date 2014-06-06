@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the official.fm privacy policy that was archived on 2013-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131027162424id_/http%3A//official.fm/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the official.fm privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606234110id_/http%3A//www.official.fm/privacy) for the most accurate reproduction.*
 
 # Official.fm – for your ears and eyes
 
@@ -8,7 +8,7 @@ This notice describes Official.fm’s privacy policy (hereinafter referred to as
 
 PLEASE REVIEW THIS PRIVACY STATEMENT BEFORE USING THIS WEBSITE. IF YOU DO NOT AGREE WITH OUR PRIVACY STATEMENT, DO NOT USE THE WEBSITE. BY USING THE WEBSITE OR SUBMITTING ANY PERSONAL INFORMATION TO THE WEBSITE, YOU AGREE TO BE BOUND BY THE TERMS OF THIS PRIVACY STATEMENT.
 
-Your use of this Website is also subject to the Terms of Service. Please review the Terms of Service, located at [http://official.fm/terms](https://web.archive.org/terms), for additional details regarding your use of this Website. All capitalized terms have the same meaning as defined in the Terms of Service unless otherwise stated herein.
+Your use of this Website is also subject to the Terms of Service. Please review the Terms of Service, located at [http://www.official.fm/terms](https://web.archive.org/terms), for additional details regarding your use of this Website. All capitalized terms have the same meaning as defined in the Terms of Service unless otherwise stated herein.
 
 * * *
 
