@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the blendswap.com privacy policy that was archived on 2013-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131204223833id_/http%3A//www.blendswap.com/page/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the blendswap.com privacy policy that was archived on 2014-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140606215941id_/http%3A//www.blendswap.com/page/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js rgba multiplebgs borderradius boxshadow textshadow csstransitions fontface no-macos linux no-windows" lang="en" style=""><!--<![endif]--><head>
 	<meta charset="utf-8">
@@ -13,23 +13,32 @@
 	<meta name="viewport" content="width=device-width">
 	<link href="https://plus.google.com/117489053879813568579" rel="publisher">
 	<link rel="canonical" href="http://www.blendswap.com/page/privacy">
+	<link rel="stylesheet" type="text/css" href="/css/blendswapp.min.css">
+	<script src="//ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" src="/js/lib/modernizr/modernizr.custom.js"></script>
+	<script type="text/javascript" src="/js/blendswapp.init.js"></script>
 	
-	<link rel="stylesheet" type="text/css" href="/css/main.css">
-	<link rel="stylesheet" type="text/css" href="/js/lib/lightbox2/css/lightbox.css">
-
-	<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script src="//ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/lib/modernizr/modernizr.custom.js"></script>
 	<script>
-	var BlendSwap={		};</script>
-		<script>
-		var _gaq = [['_setAccount' , 'UA-583453-12'],['_trackPageview']];
-		( function(d,t) {
-			var g = d.createElement(t),s = d.getElementsByTagName(t)[0];
-			g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
-			s.parentNode.insertBefore(g,s);
-		}(document,'script'));
+	var RecaptchaOptions = {
+		theme:"blackglass"
+	};
+	var BlendSwap = {
+		bswap_is_live: true,
+		currentUser: {
+			id:       0,
+			email:    "d41d8cd98f00b204e9800998ecf8427e",
+			username: "",
+			is_admin: false,
+			is_moderator: false,
+		},
+		current_object: {
+			object_id: 0,
+			object_class: "App",
+		}
+	};
 	</script>
-	<script type="text/javascript" async="" src="http://s3.buysellads.com/ac/bsa.js"></script></head>
-<body class="frontend BlendSwap clearfix locale-">
+	
+<script type="text/javascript" async="" src="http://s3.buysellads.com/ac/bsa.js"></script></head>
+<body class="frontend BlendSwap clearfix locale-eng bswapp-live">
 	<!-- Facebook Like Button -->
 	<div id="fb-root"></div>
 	<script>(function(d, s, id) {
@@ -52,8 +61,7 @@
 	<!-- End BuySellAds Ad Code -->
 	<header class="header">
 	<div class="mainMenu" id="mainMenu">
-		<div class="topMenu">
-			
+		<div class="top-menu" id="top-menu">
 			<div class="topLogo menu-parent" id="topLogo">
 				<a href="/" class="homeLogo" title="Start"><!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
 <svg>
@@ -87,6 +95,10 @@
   </g>
 </svg>
 </a>				<div class="sub-menu">
+
+					<div class="menuChildItem">
+						<a href="/"><span aria-hidden="true" data-icon=")"></span> Dashboard</a>					</div>
+					<hr>
 					<div class="menuChildItem">
 						<a href="/page/about"><span aria-hidden="true" data-icon="'"></span> About</a>					</div>
 					<div class="menuChildItem">
@@ -95,18 +107,22 @@
 						<a href="/contact"><span aria-hidden="true" data-icon="4"></span> Contact us</a>					</div>
 					<hr>
 					<div class="menuChildItem">
-						<a href="/page/terms-of-use"><span aria-hidden="true" data-icon=""></span> Terms of Use</a>					</div>
+						<a href="/page/terms-of-use"><span aria-hidden="true" data-icon="1"></span> Terms of Use</a>					</div>
 					<div class="menuChildItem">
-						<a href="/page/licenses"><span aria-hidden="true" data-icon=""></span> File Licensing</a>					</div>
-				</div>
+						<a href="/page/licenses"><span aria-hidden="true" data-icon="1"></span> File Licensing</a>					</div>
+									</div>
 			</div>
-			
-			
+
+
 			<div class="menu-item menu-parent" data-tour="blendsMenuItem">
 				<a href="/blends" class="level1Link" title="All blends"><span aria-hidden="true" data-icon="c"></span> <span class="menu-item-label">Blends</span></a>				<div class="sub-menu">
 										<div class="menuChildItem">
 						<a href="/blends" title="Main Blend Index"><span aria-hidden="true" data-icon="c"></span> All Blends</a>					</div>
 					<div class="menuChildItem">
+						<a href="/categories" title="All blend categories."><span aria-hidden="true" data-icon="|"></span> Categories</a>					</div>
+					<hr>
+					<div class="menuChildItem">
+						<span><span aria-hidden="true" data-icon="c"></span> Filter Blends</span>
 						<div class="sub-menu">
 							<div class="menuChildItem">
 								<a href="/blends/index/filter:true/license:CC-0" title="Only CC-Zero Blends"><span aria-hidden="true" data-icon="c"></span> Only CC-Zero Blends</a>							</div>
@@ -124,32 +140,37 @@
 							<div class="menuChildItem">
 								<a href="/blends/index/filter:true/blender_version:260" title="Made with Blender 2.6x"><span aria-hidden="true" data-icon="c"></span> Made with Blender 2.6x</a>							</div>
 						</div>
-						<span><span aria-hidden="true" data-icon="c"></span> Filter Blends</span>
 					</div>
 					<div class="menuChildItem">
-						<a href="/categories" title="All blend categories."><span aria-hidden="true" data-icon="|"></span> Categories</a>					</div>
-					<div class="menuChildItem">
-						<a href="/blends/staffpicks" title="Blends selected by the admins."><span aria-hidden="true" data-icon="E"></span> Staff Picks</a>					</div>
-					<div class="menuChildItem">
-						<a href="/collections" title="Publicly visible Blend Collections by our users."><span aria-hidden="true" data-icon="/"></span> Blend Collections</a>					</div>
-					<hr>
-					<div class="menuChildItem">
-						<a href="/category/durian" title="Durian Open Movie Project."><span aria-hidden="true" data-icon="Z"></span> Durian OMP</a>					</div>
-					<div class="menuChildItem">
-						<a href="/tag/hjmsmc" title="HJ Media Military Contest"><span aria-hidden="true" data-icon="3"></span> HJM Contest</a>					</div>
-					<div class="menuChildItem">
-						<a href="/tag/fantasycontest" class="padded" title="Fantasy Character Contest"><span aria-hidden="true" data-icon="3"></span> Fantasy Contest</a>					</div>
+						<span>
+							<span data-icon="c"></span> More Indexes						</span>
+						<div class="sub-menu">
+							<div class="menuChildItem">
+								<a href="/blends/staffpicks" title="Blends selected by the admins."><span aria-hidden="true" data-icon="E"></span> Staff Picks</a>							</div>
+							<div class="menuChildItem">
+								<a href="/collections" title="Publicly visible Blend Collections by our users."><span aria-hidden="true" data-icon="/"></span> Blend Collections</a>							</div>
+							<hr>
+							<div class="menuChildItem">
+								<a href="/category/durian" title="Durian Open Movie Project."><span aria-hidden="true" data-icon="Z"></span> Durian OMP</a>							</div>
+							<div class="menuChildItem">
+								<a href="/tag/hjmsmc" title="HJ Media Military Contest"><span aria-hidden="true" data-icon="3"></span> HJM Contest</a>							</div>
+							<div class="menuChildItem">
+								<a href="/tag/fantasycontest" class="padded" title="Fantasy Character Contest"><span aria-hidden="true" data-icon="3"></span> Fantasy Contest</a>							</div>
+						</div>
+					</div>
 					<hr>
 					<div class="menuChildItem">
 						<a href="/blends.rss" class="padded" title="RSS Feed"><span aria-hidden="true" data-icon="Q"></span> RSS Feed</a>					</div>
 				</div>
 			</div>
-			
-			
+
 			<div class="menu-item menu-parent" data-tour="requestsMenuItem">
 				<a href="/requests" class="level1Link"><span aria-hidden="true" data-icon="j"></span> <span class="menu-item-label">Requests</span></a>				<div class="sub-menu">
 										<div class="menuChildItem">
-						<a href="/requests" title="Requests Main Index"><span aria-hidden="true" data-icon="b"></span> All Requests</a>					</div>
+						<a href="/requests" title="Requests Main Index"><span aria-hidden="true" data-icon="j"></span> All Requests</a>					</div>
+					<div class="menuChildItem">
+						<a href="/requests/challenges" title="See all Weekend Challenges"><span aria-hidden="true" data-icon="B"></span> Weekend Challenges</a>					</div>
+					<hr>
 					<div class="menuChildItem">
 						<a href="/requests/index/status:open" title="Requests still open to responses"><span aria-hidden="true" data-icon="j"></span> Open Requests</a>					</div>
 					<div class="menuChildItem">
@@ -159,20 +180,19 @@
 						<a href="/requests.rss" title="RSS Feed"><span aria-hidden="true" data-icon="Q"></span> RSS Feed</a>					</div>
 				</div>
 			</div>
-			
-			
+
+
 			<div class="menu-item menu-parent" data-tour="questions">
 				<a href="/questions" class="level1Link" title="Questions"><span aria-hidden="true" data-icon=""></span> <span class="menu-item-label">Questions</span></a>				<div class="sub-menu">
 										<div class="menuChildItem">
 						<a href="/questions" title="Questions Main Index"><span aria-hidden="true" data-icon=""></span> All Questions</a>					</div>
 					<hr>
 					<div class="menuChildItem">
-						<a href="/questions.rss" title="RSS Feed"><span aria-hidden="true" data-icon="Q"></span> RSS Feed</a>					</div>	
+						<a href="/questions.rss" title="RSS Feed"><span aria-hidden="true" data-icon="Q"></span> RSS Feed</a>					</div>
 				</div>
 			</div>
-			
-			
-						
+
+
 			
 			<div class="menu-item top-search-toggle clk">
 				<a href="#" class="level1Link" title="Search Blends">
@@ -180,12 +200,16 @@
 					<span class="menu-item-label">Search</span>
 				</a>
 			</div>
-			
-			
+
+
 			<div class="menu-item menu-parent" data-tour="help">
-				<a href="/help" class="level1Link" title="Help and documentation"><span aria-hidden="true" data-icon=""></span> <span class="menu-item-label">Help</span></a>				<div class="sub-menu">
+				<a href="/help" class="level1Link" title="Get help"><span aria-hidden="true" data-icon=""></span> <span class="menu-item-label">Help</span></a>				<div class="sub-menu">
 					<div class="menuChildItem">
-						<a href="/help" title="All site documentation"><span aria-hidden="true" data-icon=""></span> All Documentation</a>					</div>
+						<a href="/help" title="All site documentation"><span aria-hidden="true" data-icon=""></span> Get Help</a>					</div>
+					<hr>
+					<div class="menuChildItem">
+						<a href="/pages" title="Get help"><span aria-hidden="true" data-icon=""></span> All Documentation</a>					</div>
+					<hr>
 					<div class="menuChildItem">
 						<a href="/page/issues" title="Known issues"><span aria-hidden="true" data-icon=""></span> Known Issues</a>					</div>
 					<div class="menuChildItem">
@@ -195,8 +219,7 @@
 						<a href="/contact" title="Contact the Blend Swap admins"><span aria-hidden="true" data-icon="4"></span> Contact Blend Swap</a>					</div>
 									</div>
 			</div>
-			
-			
+
 						<div class="menu-item menu-parent alignRight">
 				<a href="/login" class="level1Link"><span aria-hidden="true" data-icon="7"></span> <span class="menu-item-label">Access</span></a>				<div class="sub-menu fromRight">
 					<div class="menuChildItem">
@@ -205,16 +228,12 @@
 						<a href="/register" title="Register Now"><span aria-hidden="true" data-icon="&amp;"></span> Register</a>					</div>
 				</div>
 			</div>
-						
-			
-						
-			
-		</div>
+								</div>
 	</div>
 </header>
-<!--[if lt IE 9]>
-<div class="container32">
-	<div class="column-base1-fraction1">
+<!--[if lt IE 10]>
+<div class="basic-container">
+	<div class="col-1-1">
 		<p class="error-message">
 			The web has moved on and now it is way more awesome than you know,
 			and so we don't support the version of the browser you're using,
@@ -224,33 +243,38 @@
 	</div>
 </div>
 <![endif]-->
+	
+	
+
+	
 	<div role="main" class="grid-root " id="live">
-		<noscript class="error-message column-base1-fraction1">
+		<noscript class="error-message col-1-1" style="display: none;">
 	<span data-icon="&#xe009;"></span> Your browser's JavaScript engine is disabled, you must <a href="http://enable-javascript.com/" target="_blank">enable</a> JavaScript to use Blend Swap without problems, please do so and try again.
-</noscript>		<div class="grid-root mBottom16" role="content">
+</noscript>
+		<div class="grid-root mBottom16" role="content">
 			<div class="new-grid">
-				<div class="column-base1-fraction1">
+				<div class="col-1-1">
 					<div class="topSearch">
-												<form method="get" action="/blends/search">
+												<form method="GET" action="/blends/search">
 							<div class="searchPart">
-								<input type="text" value="Search Blends" id="s" name="term" onfocus="if ( 'Search Blends' == this.value )this.value=''" onblur="if ( '' == this.value)this.value='Search Blends'"> 
-								<button type="submit" onclick="if ( $(this).siblings('#s').val().match(/^(\s+)?Search Blends(\s+)?$/i)){alert('Change your search criteria!');return false;}"><span aria-hidden="true" data-icon=":"></span></button>
+								<input type="text" value="Search Blends" id="s" name="keywords" onfocus="if ('Search Blends' == this.value)this.value=''" onblur="if ('' == this.value)this.value='Search Blends'">
+								<button type="submit" onclick="if ($(this).siblings('#s').val().match(/^(\s+)?Search Blends(\s+)?$/i)){alert('Change your search criteria!');return false;}"><span aria-hidden="true" data-icon=":"></span></button>
 							</div>
 
 							<!-- FILTER RESULTS BY LICENSE TYPE -->
 							<div class="searchPart">
 								<label>License:</label>
 								<select name="s[blend_license]">
-									<option value=""></option><option value="CC-0">CC-0</option><option value="CC-BY">CC-BY</option><option value="CC-BY-SA">CC-BY-SA</option>								</select>
+									<option value=""></option><option value="CC-0">CC-0</option><option value="CC-BY">CC-BY</option><option value="CC-BY-SA">CC-BY-SA</option><option value="CC-BY-NC">CC-BY-NC</option><option value="CC-BY-NC-SA">CC-BY-NC-SA</option>								</select>
 							</div>
 
 							<!-- FILTER RESULTS BY BLENDER VERSION -->
 							<div class="searchPart">
 								<label>Blender:</label>
 								<select name="s[blender_version]">
-									<option value="0"></option><option value="240">2.4x</option><option value="250">2.5x</option><option value="260">2.6x</option>								</select>
+									<option value="0"></option><option value="240">2.4x</option><option value="250">2.5x</option><option value="260">2.6x</option><option value="270">2.7x</option>								</select>
 							</div>
-							
+
 							<!-- EXCLUDE FAN ART -->
 							<div class="searchPart">
 								<label for="c[fan_art]">No Fan Art: </label>
@@ -258,17 +282,23 @@
 							</div>
 						</form>
 					</div>
+					<div class="col-1-1 error-message" id="refresh-message-5">
+						If this message is visible please force refresh your browser by pressing [CTRL]+[SHIFT]+[R].
+						Or <a href="http://pcsupport.about.com/od/browsers/f/clear-cache.htm#articlebody" target="_blank">empty your browser cache</a> and reload this page.
+					</div>
 				</div>
-				<div class="pageTitle padded-box">
-					<span class="big24 the-page-title">
-						<a href="/help"><span data-icon="1"></span>  Docs</a> / <a href="/page/privacy">Privacy Policy</a>					</span>
-								</div>
 
+									<div class="pageTitle padded-box">
+						<span class="big24 the-page-title">
+																																																			<a href="/pages"><span data-icon="1"></span> Documentation</a> / Privacy Policy						</span>
+									
+				</div>
 			</div>
+
 			<div class="page grid-root ltr">
-		<div class="page_content column-base1-fraction1">
+		<div class="page_content col-1-1">
 		<div class="hasAt hasVideo">
-		<p>This Privacy Policy governs the manner in which Blend Swap, LLC&nbsp;collects, uses, maintains and discloses information collected from users (each, a "User") of the&nbsp;<a href="http://www.generateprivacypolicy.com/account/policies/edit/www.blendswap.com">www.blendswap.com</a>&nbsp;website ("Site"). This privacy policy applies to the Site and all products and services offered by Blend Swap, LLC.</p>
+		<p>This Privacy Policy governs the manner in which Blend Swap, LLC&nbsp;collects, uses, maintains and discloses information collected from users (each, a "User") of the&nbsp;<a href="http://www.generateprivacypolicy.com/account/policies/edit/www.blendswap.com" target="_blank">www.blendswap.com</a>&nbsp;website ("Site"). This privacy policy applies to the Site and all products and services offered by Blend Swap, LLC.</p>
 
 <p><strong>Personal identification information</strong></p>
 
@@ -286,7 +316,7 @@
 
 <p>Blend Swap, LLC&nbsp;collects and uses Users personal information for the following purposes:</p>
 
-<ul style="color: #333333; font-family: Georgia, 'Times New Roman', 'Bitstream Charter', Times, serif; font-size: 13px; line-height: 19px;">
+<ul>
 <li><em>- To personalize user experience</em><br>We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.</li>
 <li><em>- To improve our Site</em><br>We continually strive to improve our website offerings based on the information and feedback we receive from you.</li>
 <li><em>- To improve customer service</em><br>Your information helps us to more effectively respond to your customer service requests and support needs.</li>
@@ -314,7 +344,7 @@
 
 <p><strong>Google Adsense</strong></p>
 
-<p>Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at&nbsp;<a href="http://www.google.com/privacy_ads.html">http://www.google.com/privacy_ads.html</a></p>
+<p>Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at&nbsp;<a href="http://www.google.com/privacy_ads.html" target="_blank">http://www.google.com/privacy_ads.html</a></p>
 
 <p><strong>Changes to this privacy policy</strong></p>
 
@@ -326,11 +356,11 @@
 
 <p><strong>Contacting us</strong></p>
 
-<p>If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:<br><a href="mailto:info@blendswap.com">info@blendswap.com</a></p>
+<p>If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:<br><a href="mailto:info&lt;span class=" atlink"=""><a href="/user/blendswap.com">@blendswap.com</a>" target="_blank"&gt;info@blendswap.com</a></p>
 
 <p>This document was last updated on December 07, 2011</p>
 		</div>
-		<hr>
+		<div class="g-plusone" data-size="medium"></div><div class="fb-like" data-href="http://www.blendswap.com/page/privacy" data-send="false" data-layout="button_count" data-width="60" data-show-faces="false"></div>		<hr>
 		<p class="LightBlue small textCenter">
 			Last updated on December 05, 2012, @ 02:34 pm (America/Chicago)			<br>
 					</p>
@@ -339,19 +369,19 @@
 		</div>
 	</div>
 	<footer id="footer" class="clearfix mainFooter boxDarkBlue">
-	<div class="gridRoot container32">
-		<div class="cage-base2-fraction1 footerMenu">
-			<div class="column-base2-fraction1 textRight footerMenuTabs">
+	<div class="gridRoot basic-container">
+		<div class="cage-1-2 footerMenu">
+			<div class="col-1-2 textRight footerMenuTabs">
 				<ul>
 					<li data-menu="menu1" class="active">Site</li>
 					<li data-menu="menu2">Services</li>
-					<li data-menu="menu3">Accouts</li>
+					<li data-menu="menu3">Accounts</li>
 					<li data-menu="menu4">Blender</li>
 					<li data-menu="menu5">Access</li>
 					<li data-menu="menu6">Legal</li>
 				</ul>
 			</div>
-			<div class="column-base2-fraction1 footerMenu footerMenuItems">
+			<div class="col-1-2 footerMenu footerMenuItems">
 				<ul class="active" data-menu="menu1">
 					<li>
 						<a href="/page/about">About</a>					</li>
@@ -398,7 +428,7 @@
 					<li>
 						<a href="/page/about-blender">About Blender</a>					</li>
 					<li>
-						<a href="http://www.blender.org/download/get-blender">Get Blender</a>					</li>
+						<a href="http://www.blender.org/download/get-blender" target="_blank">Get Blender</a>					</li>
 					<li>
 						<a href="/page/learn">Learn Blender</a>					</li>
 				</ul>
@@ -419,46 +449,65 @@
 						<a href="/page/privacy">Privacy Policy</a>					</li>
 				</ul>
 			</div>
-			<div class="column-base2-fraction2 textCenter big24">
+			<div class="col-2-2 textCenter big24">
 				<span class="strong">
 					<a href="/rss" title="Subscribe via RSS"><span data-icon="Q"></span></a>				</span>
 				<span>
-					<a href="http://twitter.com/blendswap" title="Follow us on Twitter"><span data-icon="P"></span></a>				</span>
+					<a href="http://twitter.com/blendswap" title="Follow us on Twitter" target="_blank"><span data-icon="P"></span></a>				</span>
 				<span>
-					<a href="http://www.facebook.com/blendswap" title="Like us on Facebook"><span data-icon="O"></span></a>				</span>
+					<a href="http://www.facebook.com/blendswap" title="Like us on Facebook" target="_blank"><span data-icon="O"></span></a>				</span>
 				<span>
-					<a href="https://plus.google.com/117489053879813568579" title="Circle us on Google+"><span data-icon="N"></span></a>				</span>
+					<a href="https://plus.google.com/117489053879813568579" title="Circle us on Google+" target="_blank"><span data-icon="N"></span></a>				</span>
 				<!--span>
 									</span-->
 			</div>
 		</div>
-		<div class="cage-base2-fraction1 textCenter ads pTop32">
-					<div>
-				<script type="text/javascript"><!--
-				google_ad_client = "ca-pub-2581895000964028";
-				/* Blendswap V5 Sidebar */
-				google_ad_slot = "5608914336";google_ad_width = 300;google_ad_height = 250;
-				//-->
-				</script>
-				<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
-			</div>
+		<div class="cage-1-2 textCenter ads pTop32">
+					<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+			<!-- Larger footer ad -->
+			<ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-2581895000964028" data-ad-slot="7957659931"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
 				</div>
 		<div class="cage-base4-fraction4">
-			<div class="column-base4-fraction4 textCenter">
+			<div class="col-4-4 textCenter">
 				<hr>
-				<p class="reset small column-base1-fraction1 textCenter">
-					© 2009-2013, <a href="/">Blend Swap, LLC</a>.
+				<p class="reset small col-1-1 textCenter">
+					© 2009-2014, <a href="/">Blend Swap, LLC</a>.
 					All rights reserved.
-					Except where noted, all content is released under					<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.en" title="CC-BY-SA 3.0">CC-BY-SA</a>.
+					Except where noted, all content is released under					<a href="http://creativecommons.org/licenses/by-sa/3.0/deed.en" title="CC-BY-SA 3.0" target="_blank">CC-BY-SA</a>.
 				</p>
 			</div>
 		</div>
 	</div>
 </footer>
-	<div class="loadSpinner fixCenter" id="loadSpinner">
+	<div class="loadSpinner fixCenter" id="loadSpinner" style="display: none;">
 		<img class="spinner" src="/img/bg/spinner.png">
 	</div>
-	<script type="text/x-handlebars-template" id="modal-template">
+	<!-- AUTOEMBED TEMPLATE -->
+<script type="text/x-handlebars-template" id="autoembed-template">
+<div class="auto-embed embed mBottom16 clearfix">
+	<iframe src="{{src}}" allowfullscreen mozallowfullscreen webkitallowfullscreen frameborder=0 width="100%" height="100%"></iframe>
+</div>
+</script>
+
+<!-- LIVE SEARCH LIST TEMPLATE -->
+<script type="text/x-handlebars-template" id="live-search-list">
+	<ul class="srchResults">
+		{{#each users }}
+		<li>
+			<strong class="userName" id={{this.User.id}} data-user_id={{this.User.id}} data-username={{this.User.username}} >{{this.User.username}}</strong>
+			<small class="textRight">
+				<a href="/user/{{this.User.username}}" target="_blank">profile</a>
+			</small>
+		</li>
+		{{/each}}
+	</ul>
+</script>
+
+<!-- MODAL DIALOG TEMPLATE -->
+<script type="text/x-handlebars-template" id="modal-template">
 	<div class="modalWindow fixCenter">
 		<header class="modalHeader">
 			{{{title}}}
@@ -480,40 +529,76 @@
 		</div>
 	</div>
 </script>
+
+<!-- POPUP TEMPLATE -->
 <script type="text/x-handlebars-template" id="popup-template">
-	<div class="popup {{ pclass }}">
-		<span class="content">{{{ message }}}</span>
-		<div class="actionButtons">
+	<div class="popup {{#if pclass }} {{pclass}} {{else}} info-message {{/if}}">
+		<div class="popup-actions">
 			<span data-icon="&#x6b;" class="clk" onclick="$(this).closest('.popup').remove();"></span>
 		</div>
+		<span class="popup-content">
+			{{{ message }}}
+		</span>
 	</div>
 </script>
-<script type="text/x-handlebars-template" id="live-search-list">
-	<ul class="srchResults">
-		{{#each users }}
-		<li>
-			<strong class="userName" id={{this.User.id}} data-user_id={{this.User.id}} data-username={{this.User.username}} >{{this.User.username}}</strong>
-			<small class="textRight">
-				<a href="/user/{{this.User.username}}" target="_blank">profile</a>
-			</small>
-		</li>
-		{{/each}}
-	</ul>
-</script>
-	<script type="text/javascript" src="/js/lib/markdown/markdown.min.js"></script>
-	<script type="text/javascript" src="/js/lib/handlebars/handlebars.js"></script>
-	<script type="text/javascript" src="/js/lib/jquery/jquery-1.10.2.min.js"></script>
 
-	<script type="text/javascript" src="/js/ui_controller.js"></script>
-	<script type="text/javascript" src="/js/likes.js"></script>
-	<script type="text/javascript" src="/js/modal.js"></script>
+<!-- TOUR BUBBLE TEMPLATE -->
+<script type="text/x-handlebars-template" id="tour-bubble-template">
+	<div class="tourBubble {{orientation}} hidden ltr">
+		<span class="bubbleArrow"></span>
+		<header class="tourBubbleHeader">
+			{{{title}}}
+			{{#if index}}
+			<span class="alignRight" title="There are {{of}} steps in this Guided Tour page.">{{index}}/{{of}}</span>
+			{{/if}}
+		</header>
+		<section class="tourBubbleContent">
+			{{#each content}}
+			<p>{{{this}}}</p>
+			{{/each}}
+		</section>
+		{{#if buttons }}
+		<div class="bubbleButtons">
+			<a class="endTour small">End Tour</a>
+			{{#if end}}
+			<a class="button alignRight endTour">End Tour</a>
+			{{/if}}
+			{{#if next }}
+			<button class="nextBubble alignRight">Next</span></button>
+			{{/if}}
+			{{#if prev}}
+			<button class="prevBubble alignRight">Back</button>
+			{{/if}}
+		</div>
+		{{/if}}
+	</div>
+</script>
+
+<!-- AUTHOR BUBBLE -->
+<script type="application/x-handlebars-template" id="author-bubble-template">
+<div class="author-bubble">
+	<div class="gravatar">
+		<img src="//www.gravatar.com/avatar/{{email}}.jpg?d=http%3A%2F%2Fwww.blendswap.com%2Fimg%2Fdefaults%2Fdefault_avatar.png&s=128&r=pg" alt="">
+		<a href="/users/{{username}}" class="strong big22">
+			{{username}}
+		</a>
+	</div>
+</div>
+</script>
+
+	<script type="text/javascript" src="/js/blendswapp.min.js"></script>
 <script type="text/javascript" src="/js/lib/lightbox2/js/lightbox.js"></script>
 	<script type="text/javascript" src="/js/advertisement.js"></script>
 	<script type="text/javascript" src="/js/detect.js"></script>
-	
-		<!-- Place this tag in your head or just before your close body tag. -->
 	<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
-
-
+		<script>
+		var _gaq = [['_setAccount' , 'UA-583453-12'],['_trackPageview']];
+		(function(d,t) {
+			var g = d.createElement(t),s = d.getElementsByTagName(t)[0];
+			g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+			s.parentNode.insertBefore(g,s);
+		}(document,'script'));
+	</script>
+		
 
 </body></html>
