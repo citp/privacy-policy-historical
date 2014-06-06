@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ubuntu.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222002649id_/http%3A//www.ubuntu.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubuntu.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606123058id_/http%3A//www.ubuntu.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Ubuntu
+# Privacy policy | Ubuntu
 
 Canonical collects personal information from you in a number of different ways. For example, when you download one of our products, receive services from us or use one of our websites (including [www.canonical.com](http://www.canonical.com/) and [www.ubuntu.com](http://www.ubuntu.com/)).
 
@@ -105,7 +105,7 @@ Google Analytics |
   * _utmc
   * _utmz
 
-| These cookies are used to collect information about how visitors use our website, which we use to help improve it. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited. | Find out more about Google Analytics privacy please visit [www.google.com/intl/en_uk/analytics/privacyoverview.html](http://www.google.com/intl/en_uk/analytics/privacyoverview.html)  
+| These cookies are used to collect information about how visitors use our website, which we use to help improve it. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited. | Find out more about Google Analytics privacy please visit [www.google.com/intl/en_uk/analytics/privacyoverview.html](https://www.google.com/analytics/learn/privacy.html)  
 Crazyegg | is_returning | Crazyegg tracks javascript on some pages of our site to understand what links our visitors are clicking on. This helps us optimize our content for the best user experience. The Crazyegg script may store a cookie on your computer. This cookie may contain a session ID, a visitor ID and a few other dynamically created parameters that allow Crazyegg to track our site's traffic accurately. No personal information is stored within the cookie. | For Crazy Egg's complete Privacy Policy please visit [www.crazyegg.com/privacy](http://www.crazyegg.com/privacy).  
 Marketo Munchkin| _mkto_trk | Marketo's cookie allows us to track repeated visits to the website, and link each visit to the information voluntarily provided by the visitor. For example, if the visitor is asked to provide us with their name, company name and email address, we will know the identity of the visitor when they visit the site at a later date, or when we send them email.| For Marketo's complete Privacy Policy please visit [uk.marketo.com/trust/privacy.php](http://uk.marketo.com/trust/privacy.php)  
   
@@ -121,12 +121,12 @@ Although most changes are likely to be minor, Canonical may change this Privacy 
 
 ## Legal notice
 
-For further information on Canonical's terms and conditions please see the [legal notice](https://web.archive.org/legal) for our websites and our [terms of service for Ubuntu One](https://one.ubuntu.com/terms).
+For further information on Canonical's terms and conditions please see the [legal notice](https://web.archive.org/legal) for our websites.
 
 For certain products and services we may also provide you with specific terms and conditions. Please refer to those specific legal notices for further information. This Privacy Policy is incorporated by reference into those legal notices.
 
 ## How to contact us
 
-You have a right to access the personal information we hold about you or to obtain a copy of it. If you would like to do so please contact us by postal mail to the address below or, if your query is in relation to Ubuntu One, via the [account assistance form](https://one.ubuntu.com/help/contact/).
+You have a right to access the personal information we hold about you or to obtain a copy of it. If you would like to do so please contact us by postal mail to the address below.
 
 Please submit any questions or comments about this Privacy Policy, or about our use of your personal information by contacting us by postal mail at the following address: Canonical Group Ltd, 5th Floor, Blue Fin Building, 110 Southwark Street, London, England, SE1 0SU or by emailing us at [webmaster@canonical.com](mailto:webmaster@canonical.com).
