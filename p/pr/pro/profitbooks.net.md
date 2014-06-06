@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the profitbooks.net privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206030336id_/http%3A//www.profitbooks.net/home/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the profitbooks.net privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606080129id_/http%3A//www.profitbooks.net/home/privacy_policy) for the most accurate reproduction.*
 
 # ProfitBooks.net - Online Accounting & Payroll Management Software for small business
 
@@ -23,4 +23,4 @@ Application data is transmitted over a secure https connection with 256-bit encr
 If you wish to cancel the service, your data will be retained on our system for 6 months. You will not be charged during this period. If you chose to activate your account during this period, you can work on the same data. After 6 months, data will be completely deleted from our system.
 
 **Refund policy**  
-If you are not satisfied with our services, within 30 days from the purchase date, we will fully refund the cost of your order.
+If you are not satisfied with our services, within 120 days from the purchase date, we will fully refund the cost of your order.
