@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the holmesglen.edu.au privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206114318id_/http%3A//www.holmesglen.edu.au/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holmesglen.edu.au privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606143030id_/http%3A//www.holmesglen.edu.au/privacy_policy) for the most accurate reproduction.*
 
-# Holmesglen | Privacy Policy
+# Privacy Policy | TAFE Courses & Degrees in Melbourne, Victoria
 
 Holmesglen Institute of TAFE respects your right to privacy and any personal information provided by you to the Institute will be held in confidence. This policy outlines how Holmesglen handles personal and health information in accordance with the [Information Privacy Act 2000](http://www.legislation.vic.gov.au/) (Vic.) and the [Health Records Act 2001](http://www.legislation.vic.gov.au/) (Vic.). The Policy applies to all personal and health information provided to Holmesglen Institute of TAFE and information about individuals obtained from other sources. 
 
