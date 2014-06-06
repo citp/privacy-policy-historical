@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the duckbrand.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125004741id_/http%3A//duckbrand.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the duckbrand.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606191304id_/http%3A//www.duckbrand.com/info/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Duck® Brand
+# Duck® Brand - Duct Tape, Packaging Tape, Weatherization, Shelf Liner and DIY products
+
+Last updated 1/24/14
 
 Thank you for visiting the ShurTech Brands, LLC ("ShurTech") web sites, including but not limited to shurtech.com, duckbrand.com, paintersmategreen.com, frogtape.com, and caremail.com. Below you will find information about our commitment to ensuring the privacy of your personally identifiable information. We have done our best to ensure the privacy and security of your transactions with us.
 
@@ -30,6 +32,10 @@ You should be aware that we may disclose specific information about you if neces
 **Use of Cookies**
 
 DuckBrand.com uses a browser feature known as a cookie, which assigns a unique identification to your computer. Cookies also allow DuckBrand.com to make our site more responsive to your needs, by delivering better content and merchandise to you. The cookies are typically stored on your computer's hard drive and are used by DuckBrand.com to help track your clicks as you go through the pages within the web site. In addition, DuckBrand.com uses cookies to help keep track of items you put into your shopping bag and to tell us whether you have previously visited DuckBrand.com. This allows registered users to avoid reentering information upon every new visit to our site. If you register or purchase product through DuckBrand.com, navigational information from previous browsing visits may be associated with the personal information you provide.
+
+**Rate and Review**
+
+From time to time, we may utilize a third party (Bazaarvoice, Inc.) to provide users with the ability to submit reviews, comment on or rate goods, products and services on our website. You should be aware that any information you provide during a “Rate and Review” will be published on a publicly facing website. In addition, cookies are used to access information about users’ browsing patterns in order to help us provide services to you. Information collected during a “Rate and Review” is subject to the Bazaarvoice Privacy Policy. [Click here](http://www.bazaarvoice.com/privacy-policy/) for details. 
 
 **Information We Gather Automatically**
 
