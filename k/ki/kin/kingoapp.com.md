@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kingoapp.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205112009id_/http%3A//www.kingoapp.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingoapp.com privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607223355id_/http%3A//www.kingoapp.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy – Policies & Principles – Kingo
 
