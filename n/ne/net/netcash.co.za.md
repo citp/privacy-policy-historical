@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netcash.co.za privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205184518id_/http%3A//www.netcash.co.za/sagepay/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netcash.co.za privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607234214id_/http%3A//www.netcash.co.za/sagepay/privacy_policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | Sage Pay
 
