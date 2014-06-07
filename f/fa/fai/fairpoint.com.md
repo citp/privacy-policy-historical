@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fairpoint.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220033356id_/http%3A//www.fairpoint.com/global/fp_privacypolicy/index.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fairpoint.com privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607074438id_/http%3A//www.fairpoint.com/global/fp_privacypolicy/index.jsp) for the most accurate reproduction.*
 
 # Privacy Policy | Legal Regulatory | FairPoint Communications
 
@@ -121,9 +121,9 @@ If you have any questions or comments concerning this Customer Privacy Policy, o
 
 FairPoint Communications
 
-521East Morehead Street
+521 East Morehead Street
 
-Suite 250
+Suite 500
 
 Charlotte, North Carolina 28202
 
