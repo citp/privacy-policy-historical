@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the utas.edu.au privacy policy that was archived on 2013-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131207015837id_/http%3A//www.utas.edu.au/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the utas.edu.au privacy policy that was archived on 2014-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140607030418id_/http%3A//www.utas.edu.au/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-AU"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
     <meta charset="utf-8">
@@ -10,7 +10,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
     
     <!--Opengraph: https://developers.facebook.com/docs/opengraph/  -->
-    <meta property="og:image" content="http://www.utas.edu.au/__data/assets/image/0006/390750/header-logo.png?v=0.1.1">
+    <meta property="og:image" content="http://www.utas.edu.au/__data/assets/image/0006/390750/header-logo.png?v=0.1.5">
     <meta property="og:description" content="">
     <meta property="og:url" content="">
     <meta property="og:site_name" content="UTAS">
@@ -33,17 +33,17 @@
     <link rel="shortcut icon" href="http://www.utas.edu.au/__data/assets/file/0005/390749/favicon.ico?v=0.1.1">
     <link rel="apple-touch-icon-precomposed" href="http://www.utas.edu.au/__data/assets/image/0020/392312/apple-touch-icon-precomposed.png?v=0.0.2">
 
-    			<link rel="stylesheet" type="text/css" href="http://www.utas.edu.au/designs/css/template-new-jun-13.css" media="all">
-								<link rel="stylesheet" type="text/css" href="http://www.utas.edu.au/designs/css/utas-custom.css" media="all">
+    			<link rel="stylesheet" type="text/css" href="http://www.utas.edu.au/designs-2014/template-2014.css" media="all">
+								<link rel="stylesheet" type="text/css" href="http://www.utas.edu.au/designs-2014/utas-custom.css" media="all">
 					 
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.min.css">
     <!--[if IE 7]><link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome-ie7.min.css"><![endif]-->
     
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://www.utas.edu.au/__data/assets/js_file/0004/389398/modernizr-2.6.2.min.js"></script> <!-- modernizr.min.js -->
+    <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-P6SBC7"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://www.utas.edu.au/__data/assets/js_file/0004/389398/modernizr-2.6.2.min.js"></script> <!-- modernizr.min.js -->
     <script src="http://www.utas.edu.au/__data/assets/js_file/0005/389399/selectivizr-1.0.2.min.js"></script> <!-- selectivizr.min.js -->
+    <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.js"></script>
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
     <script>window.jQuery || document.write('<script src="http://www.utas.edu.au/__data/assets/js_file/0009/389394/jquery-1.10.2.min.js"><\/script>')</script><script src="http://www.utas.edu.au/__data/assets/js_file/0009/389394/jquery-1.10.2.min.js"></script> <!-- jquery-1.10.2.min.js -->
-
 
     <script type="text/javascript">
       var _gaq = _gaq || [];
@@ -57,16 +57,59 @@
       })();
     </script>
 
+    <script type="text/javascript">
+    if (typeof jQuery != 'undefined') {
+      jQuery(document).ready(function($) {
+        var filetypes = /\.(zip|exe|pdf|doc*|xls*|ppt*|mp3)$/i;
+        var baseHref = '';
+        if (jQuery('base').attr('href') != undefined)
+            baseHref = jQuery('base').attr('href');
+        jQuery('a').each(function() {
+            var href = jQuery(this).attr('href');
+            if (href && (href.match(/^https?\:/i)) && (!href.match(document.domain))) {
+                jQuery(this).click(function() {
+                    var extLink = href.replace(/^https?\:\/\//i, '');
+                    _gaq.push(['_trackEvent', 'External', 'Click', extLink]);
+                    if (jQuery(this).attr('target') != undefined && jQuery(this).attr('target').toLowerCase() != '_blank') {
+                        setTimeout(function() { location.href = href; }, 200);
+                        return false;
+                    }
+                });
+            }
+            else if (href && href.match(/^mailto\:/i)) {
+                jQuery(this).click(function() {
+                    var mailLink = href.replace(/^mailto\:/i, '');
+                    _gaq.push(['_trackEvent', 'Email', 'Click', mailLink]);
+                });
+            }
+            else if (href && href.match(filetypes)) {
+                jQuery(this).click(function() {
+                    var extension = (/[.]/.exec(href)) ? /[^.]+$/.exec(href) : undefined;
+                    var filePath = href;
+                    _gaq.push(['_trackEvent', 'Download', 'Click-' + extension, filePath]);
+                    if (jQuery(this).attr('target') != undefined && jQuery(this).attr('target').toLowerCase() != '_blank') {
+                        setTimeout(function() { location.href = baseHref + href; }, 200);
+                        return false;
+                    }
+                });
+            }
+        });
+      });
+    }
+    </script>
+
     <!-- Template selection -->
     
     
+    
+     
 
 
 <!--
   Running Squiz Matrix
   Developed by Squiz - http://www.squiz.net
   Squiz, Squiz Matrix, MySource, MySource Matrix and Squiz.net are registered Trademarks of Squiz Pty Ltd
-  Page generated: 07 December 2013 12:58:35
+  Page generated: 06 June 2014 11:02:03
 -->
 
 
@@ -74,18 +117,29 @@
 </head>
 <body class="default">
 
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-P6SBC7"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-P6SBC7');</script>
+<!-- End Google Tag Manager -->
+
     <a id="skip" href="#main">Skip to content</a>
 
     <div id="top">
         <div class="container">
         
             <header id="header">
-                <div id="logo"><a href="http://www.utas.edu.au" title="University of Tasmania Home"><img src="http://www.utas.edu.au/__data/assets/image/0006/390750/header-logo.png?v=0.1.1" alt="UTAS" width="94" height="110"></a></div>
+                <div id="logo"><a href="http://www.utas.edu.au" title="University of Tasmania Home"><img src="http://www.utas.edu.au/__data/assets/image/0006/390750/header-logo.png?v=0.1.5"></a></div>
                 <h1>University of Tasmania, Australia</h1>
             </header>
             
             <nav id="topnav">
                 <ul>
+                   <li><a href="http://www.utas.edu.au/library">Library</a></li>
                    <li><a href="http://www.utas.edu.au/students">Students</a></li>
                    <li><a href="https://secure.utas.edu.au/staff/index">Staff</a></li>
                    <li><a href="http://www.utas.edu.au/learning-teaching-online/">MyLO</a></li>
@@ -103,20 +157,20 @@
             <nav id="nav">
                 <span id="nav-toggle">Menu</span>
   <ul>
-    <li> <a href="http://www.utas.edu.au/study">Study<i class="icon-chevron-down"></i></a>
+    <li> <a href="http://www.utas.edu.au/study">Study<i class="caret"></i></a>
       <div class="submenu">
 	<a class="visible-phone" href="http://www.utas.edu.au/study"><h4>Study with UTAS</h4></a>
         <div class="row">
           <div class="span3">
             <h4>I am a:</h4>
             <ul>
-              <li><a href="http://www.futurestudents.utas.edu.au/">Future Student (Domestic)</a></li>
-              <li><a href="http://www.international.utas.edu.au/">Future Student (International)</a></li>
+              <li><a href="http://www.utas.edu.au/future-students">Future Student (Domestic)</a></li>
+              <li><a href="http://www.utas.edu.au/international">Future Student (International)</a></li>
               <li><a href="http://www.utas.edu.au/research/graduate-research/">Higher Degree by Research Candidate</a></li>
-              <li><a href="http://www.postgraduate.utas.edu.au/">Postgraduate Coursework Student</a></li>
+              <li><a href="http://www.utas.edu.au/postgraduate">Postgraduate Coursework Student</a></li>
               <li><a href="http://www.utas.edu.au/students">Current Student</a></li>
               <li><a href="http://www.utas.edu.au/riawunna">Aboriginal and Torres Strait Islander Student </a></li>
-              <li><a href="http://www.futurestudents.utas.edu.au/parent">Parent</a></li>
+              <li><a href="http://www.utas.edu.au/future-students/type-of-student/parent">Parent</a></li>
             </ul>
           </div>
           <div class="span3">
@@ -124,9 +178,9 @@
             <ul>							
               <li><a href="http://www.utas.edu.au/admissions">Applying to Study</a></li>
               <li><a href="http://courses.utas.edu.au/">Courses</a></li>
-              <li><a href="http://www.scholarships.utas.edu.au/">Scholarships</a></li>
+              <li><a href="http://www.utas.edu.au/scholarships">Scholarships</a></li>
               <li><a href="http://www.utas.edu.au/open-day">Open Day</a></li>
-              <li><a href="http://www.futurestudents.utas.edu.au/accommodation">Accommodation</a></li>
+              <li><a href="http://www.utas.edu.au/future-students/accommodation">Accommodation</a></li>
               <li><a href="http://www.utas.edu.au/library">Library</a></li>
               <li><a href="https://webmail.utas.edu.au/">Webmail</a></li>
             </ul>
@@ -142,20 +196,21 @@
         </div>
       </div>
     </li>
-        <li>
-      <a href="http://www.utas.edu.au/research">Research<i class="icon-chevron-down"></i></a>
+
+
+    <li>
+      <a href="http://www.utas.edu.au/research">Research<i class="caret"></i></a>
       <div class="submenu">
 	<a class="visible-phone" href="http://www.utas.edu.au/research"><h4>Research at UTAS</h4></a>
         <div class="row">
           <div class="span3">
             <h4>Research</h4>
             <ul>							
-              <li><a href="http://www.utas.edu.au/research-admin">Office of Research Services</a></li>
               <li><a href="http://www.utas.edu.au/research/our-research">Our Research</a></li>
-              <li><a href="http://www.utas.edu.au/research/partnerships">Industry &amp; Collaboration</a></li>
+              <li><a href="http://www.utas.edu.au/research/partnerships">Partnerships</a></li>
+              <li><a href="http://www.utas.edu.au/research/research-excellence">Research Excellence</a></li>
               <li><a href="http://www.utas.edu.au/research-to-reality">Research to Reality</a></li>
-              <li><a href="https://rmdb.research.utas.edu.au/public/warp/index.htm">WARP</a></li>
-              <li><a href="http://www.utas.edu.au/research/central-science-laboratory">Central Science Laboratory</a></li>
+              <li><a href="http://www.utas.edu.au/research-admin">Office of Research Services</a></li>
               <li><a href="http://www.utas.edu.au/research/contact-us">Contact</a></li>
             </ul>
             </div>
@@ -172,17 +227,16 @@
           <div class="span6 banner-lge">
             <a href="http://www.utas.edu.au/research/graduate-research/" class="cta">
               <div class="banner-2col border-shadow">
-                <span class="text-mid">PhD Scholarships</span>
-                <span class="text-sub">Projects available to start in 2014 </span>
+                <span class="text-mid">2014 PhD Scholarships</span>
+                <span class="text-sub">Mid-year applications close 6 June 2014 </span>
                 <span class="text-btn">Find <br>out<br>more.</span>
               </div>
             </a>
           </div>					
         </div>
       </div>
-    </li>
-    <li>
-      <a href="http://www.utas.edu.au/community">Community<i class="icon-chevron-down"></i></a>
+    </li>    <li>
+      <a href="http://www.utas.edu.au/community">Community<i class="caret"></i></a>
       <div class="submenu">
 	<a class="visible-phone" href="http://www.utas.edu.au/community"><h4>UTAS Community</h4></a>
         <div class="row">
@@ -201,7 +255,6 @@
               <li><a href="http://www.utas.edu.au/cfnp/">Community Friends &amp; Networks Programme</a></li>
               <li><a href="http://www.utas.edu.au/provost/inglis-clark-centre">Inglis Clark Centre for Civil Society</a></li>
               <li><a href="http://www.events.utas.edu.au/">Public Events</a></li>
-              <li><a href="http://www.utas.edu.au/provost/launceston-engagement">Launceston Community Engagement</a></li>
               <li><a href="http://www.utas.edu.au/vc/awards">Vice-Chancellor's Awards</a></li>
             </ul>
           </div>
@@ -215,9 +268,8 @@
           </div>		
         </div>
       </div>
-    </li>
-    <li>
-      <a href="http://www.utas.edu.au/about">About UTAS<i class="icon-chevron-down"></i></a>
+    </li>    <li>
+      <a href="http://www.utas.edu.au/about">About UTAS<i class="caret"></i></a>
       <div class="submenu wide">
 	<a class="visible-phone" href="http://www.utas.edu.au/about"><h4>About UTAS</h4></a>
         <div class="row">
@@ -230,7 +282,7 @@
               <li><a href="http://www.utas.edu.au/results">Our Achievements</a></li>
               <li><a href="http://www.utas.edu.au/contacts/">Contacts</a></li>
               <li><a href="http://www.utas.edu.au/key-dates/">Key Dates</a></li>
-              <li><a href="http://www.utas.edu.au/jobs/">Jobs @ UTAS</a></li>
+              <li><a href="http://www.utas.edu.au/jobs/">Jobs &amp; Careers</a></li>
             </ul>
           </div>		
           <div class="span3">
@@ -248,9 +300,9 @@
               <li><a href="http://www.media.utas.edu.au/general-news">News</a></li>
               <li><a href="http://www.events.utas.edu.au/">Events</a></li>
               <li><a href="http://www.media.utas.edu.au/media-releases">Media Releases</a></li>
-              <li><a href="http://www.media.utas.edu.au/o2t">O2t</a></li>
+              <li><a href="http://www.utas.edu.au/o2t">O2t</a></li>
               <li><a href="http://www.alumni.utas.edu.au/whats-on/alumni-news">Alumni News</a></li>
-              <li><a href="http://www.utas.edu.au/research/research-to-reality">Research to Reality</a></li>
+              <li><a href="http://www.utas.edu.au/research-to-reality">Research to Reality</a></li>
               <li><a href="http://www.media.utas.edu.au/unitas/2013-issues">Unitas</a></li>
             </ul>
           </div>
@@ -274,8 +326,7 @@
     
         <div class="container">
             <div class="row">
-
-                <aside id="sidebar" class="span190">
+                <aside id="sidebar" class="span190 span190 ">
                              		
                 
                                <nav id="sidenav">
@@ -300,16 +351,16 @@
                   
 				<nav id="quicklinks">
 
-<h2 class="nav-header">Quick Links</h2>
 <ul class="nav nav-list">
+<li class="nav-header">Quick Links</li>
       <li>
-      <a href="http://www.utas.edu.au/quick-links/channel-utas">Channel UTAS</a>
+      <a href="http://www.utas.edu.au/quick-links/communications-and-media">Communications &amp; Media</a>
     </li>
     <li>
       <a href="http://www.utas.edu.au/quick-links/events">Events</a>
     </li>
     <li>
-      <a href="http://www.utas.edu.au/quick-links/communications-and-media">Communications &amp; Media</a>
+      <a href="http://www.utas.edu.au/quick-links/channel-utas">Channel UTAS</a>
     </li>
 
 </ul>
@@ -317,7 +368,7 @@
                     
                 </aside><!-- /#sidebar -->
                 
-                <article id="content" class="span723">
+                <article id="content" class="span723 span723">
                 
                     <header id="title">
                       <div class="row-fluid">
@@ -370,7 +421,7 @@
                         <ul>
                             <li><a href="http://www.utas.edu.au/arts">Arts</a></li>
                             <li><a href="http://www.utas.edu.au/education">Education</a></li>
-                            <li><a href="http://www.utas.edu.au/health-science">Health Science</a></li>
+                            <li><a href="http://www.utas.edu.au/health">Health</a></li>
                             <li><a href="http://www.utas.edu.au/law">Law</a></li>
                             <li><a href="http://www.utas.edu.au/science-engineering-technology">Science, Engineering &amp; Technology</a></li>
                             <li><a href="http://www.utas.edu.au/business-and-economics">Tasmanian School of Business &amp; Economics</a></li>
@@ -400,7 +451,7 @@
                             <li class="dropdown" aria-role="tab" aria-selected="false">
                                 <h4 tabindex="0" class="dropdown-toggle" data-toggle="dropdown" data-controls="sitemap-contacts-hobart">Hobart <i class="icon-chevron-right"></i></h4>
                                 <div class="dropdown-menu" aria-hidden="true" id="sitemap-contacts-hobart" role="tabpanel">
-                                    <address>Churchhill Avenue, Sandy Bay, Hobart TAS 7005<br><br>
+                                    <address>Churchill Avenue, Sandy Bay, Hobart TAS 7005<br><br>
                                     Private Bag 51, Hobart TAS 7001</address>
                                     <p>T:  +61 3 6226 2999</p>
                                 </div>                                
@@ -449,7 +500,7 @@ PO Box 184, Rozelle NSW 2040</address> <p>T: +61 2 8572 7995</p><br>
                         <li><a href="http://www.utas.edu.au/copyright-statement/">Copyright</a></li>
                         <li><a href="http://www.utas.edu.au/disclaimers/">Disclaimer</a></li>
                         <li><a href="http://www.utas.edu.au/privacy/">Privacy</a></li>
-                        <li><a href="http://www.utas.edu.au/it/web-accessibility">Accessibility</a></li>
+                        <li><a href="http://www.utas.edu.au/it/web-accessibility">Web Accessibility</a></li>
                         <li><a href="http://www.utas.edu.au/feedback-form">Site Feedback</a></li>
                         <li><a href="tel:1300363864"><b>Info Line 1300 363 864</b></a></li>
                     </ul>
@@ -466,13 +517,13 @@ PO Box 184, Rozelle NSW 2040</address> <p>T: +61 2 8572 7995</p><br>
         </div>
     </footer><!-- /#footer -->    
 
-    <nav id="social" aria-hidden="true">
-        <a data-track="[&quot;UTAS Home&quot;, &quot;Exit&quot;, &quot;Facebook&quot;]" href="https://www.facebook.com/pages/University-of-Tasmania/112413105436826" class="social-facebook" title="UTAS on Facebook">Facebook</a>
-        <a data-track="[&quot;UTAS Home&quot;, &quot;Exit&quot;, &quot;LinkedIn&quot;]" href="http://www.linkedin.com/company/university-of-tasmania" class="social-linkedin" title="UTAS on LinkedIn">LinkedIn</a>
-        <a data-track="[&quot;UTAS Home&quot;, &quot;Exit&quot;, &quot;Twitter&quot;]" href="https://twitter.com/UTAS_" class="social-twitter" title="UTAS on Twitter">Twitter</a>
-        <a data-track="[&quot;UTAS Home&quot;, &quot;Exit&quot;, &quot;YouTube&quot;]" href="http://www.youtube.com/user/UniversityOfTasmania" class="social-youtube" title="UTAS on YouTube">YouTube</a>
-        <a data-track="[&quot;UTAS Home&quot;, &quot;Exit&quot;, &quot;SocialUTAS&quot;]" href="http://www.utas.edu.au/social" class="social-utas" title="Social media at UTAS">UTAS Social</a>
-    </nav><!-- /#social -->
+  <!--  <nav id="social" aria-hidden="true">
+        <a data-track='["UTAS Home", "Exit", "Facebook"]' href="https://www.facebook.com/pages/University-of-Tasmania/112413105436826" class="social-facebook" title="UTAS on Facebook">Facebook</a>
+        <a data-track='["UTAS Home", "Exit", "LinkedIn"]' href="http://www.linkedin.com/company/university-of-tasmania" class="social-linkedin" title="UTAS on LinkedIn">LinkedIn</a>
+        <a data-track='["UTAS Home", "Exit", "Twitter"]' href="https://twitter.com/UTAS_" class="social-twitter" title="UTAS on Twitter">Twitter</a>
+        <a data-track='["UTAS Home", "Exit", "YouTube"]' href="http://www.youtube.com/user/UniversityOfTasmania" class="social-youtube" title="UTAS on YouTube">YouTube</a>
+        <a data-track='["UTAS Home", "Exit", "SocialUTAS"]' href="http://www.utas.edu.au/social" class="social-utas" title="Social media at UTAS">UTAS Social</a>
+    </nav> /#social -->
 
 
 <script src="http://www.utas.edu.au/__data/assets/js_file/0008/389393/bootstrap.min.js"></script> <!-- bootstrap.min.js -->
