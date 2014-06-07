@@ -1,433 +1,327 @@
-<!--The following is the downloaded HTML source of the preplounge.com privacy policy that was archived on 2013-10-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131026062032id_/http%3A//www.preplounge.com/privacypolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the preplounge.com privacy policy that was archived on 2014-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140607230815id_/http%3A//www.preplounge.com/en/privacypolicy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns:fb="http://ogp.me/ns/fb#"><head>
-	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<!-- Webmaster Tool verification -->
-    <meta name="google-site-verification" content="giXwXVhrOmTb9kDIjApRMFsYVAOBmvDtuPOQ2T38v3o">
-<title>Privacy Policy of PrepLounge</title>    <link rel="icon" type="image/png" href="images/square_Logo_no_background.png">
-	<!--themecss -->
-	<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=185012721632113"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-T73J2T"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="js/jquery-1.8.3.js"></script>
-<script type="text/javascript" src="_ui/form/tform.js"></script>
-<link rel="stylesheet" type="text/css" href="_ui/form/tform.css">
-<script type="text/javascript" src="js2/main.js"></script>
-<script type="text/javascript" src="js2/jquery.json-2.4.min.js"></script>
-<link rel="stylesheet" type="text/css" href="css/style.css" media="screen, projection">
-<link rel="stylesheet" type="text/css" href="css2/style.css" media="screen, projection">
-<link rel="stylesheet" type="text/css" href="css2/navi.css" media="screen, projection">
-<link rel="stylesheet" type="text/css" href="css/footer.css" media="screen, projection">
-<link rel="stylesheet" type="text/css" href="css/screen.css" media="screen, projection">
-<link rel="stylesheet" type="text/css" href="css/print.css" media="print">
-<link rel="stylesheet" type="text/css" href="css/main.css">
-<link rel="stylesheet" type="text/css" href="css2/main.css">
-<link rel="stylesheet" type="text/css" href="css2/loginform.css">
-<link rel="stylesheet" type="text/css" href="css/form.css">
-<link rel="stylesheet" type="text/css" href="css/beta-tester-style.css">
-<link rel="stylesheet" type="text/css" href="css2/user.css">
-
-    <!--themecss -->
-<!---newdropdown-->
-<script type="text/javascript" src="js/jquery.validate.js"></script>
-<script type="text/javascript" src="js/ajaxupload.3.5.js"></script>
-<script type="text/javascript" src="js/prepcountdown.js"></script>
-<script type="text/javascript" src="js/console.dummy.js"></script>
-<script type="text/javascript" src="js/intro.js"></script>
-<link rel="stylesheet" type="text/css" href="css/introjs.css">
-
-<script type="text/javascript">
-// This function slides up and down the login popup box on the top right of the header
-function showSlidingDiv()
-{
-    jQuery("#slidingDiv").animate({"height": "toggle"}, { duration: 800 });
-}
-</script>
-
-<script type="text/javascript">
-var currentURL = window.location.href;
-function registerform()
-{
-
-    var currentURL = window.location.href;
-    var $formId = jQuery(this).parents('form');
-    jQuery("#register").attr("action", "http://www.preplounge.com/en/login.php?gotopage="+currentURL);
-	//alert(currentURL);
-}
-function popitup(url)
-{
-	newwindow=window.open(url,'name','height=200,width=150');
-	   if (window.focus)
-	   {
-	        newwindow.focus()
-	   }
-	return false;
-}
-
-// Sets cookie (from http://www.javascripter.net/faq/settinga.htm)
-function SetCookie(cookieName,cookieValue,nDays)
-{
-	var today = new Date();
-	var expire = new Date();
-	if (nDays==null || nDays==0) nDays=1;
-	expire.setTime(today.getTime() + 3600000*24*nDays);
-	document.cookie = cookieName+"="+escape(cookieValue)
-	                + ";expires="+expire.toGMTString();
-}
-
-</script>
-<script type="text/javascript">
-function signupform()
-{
-	document.register.action="";
-    jQuery("#register").attr("action", "/en//signup.php");
-
-}
-
-</script>
-
-
-<script type="text/JavaScript">
-jQuery(document).ready(function()
-{
-	// Send login when user hits enter in password textfield
-	jQuery("#password").keyup(function(event)
-    {
-    	//console.log("keyup");
-	    if(event.keyCode == 13)
-        {
-            // simulates a click on button login
-			jQuery("#login").click();
-	    }
-	});
-	// When user clicks on loginbutton
-	jQuery('.loginbutton').click(function(e)
-    {
-		// Declare the function variables:
-		// Parent form, form URL, email regex and the error HTML
-		var $formId = jQuery(this).parents('form');
-        var buttonclicked = jQuery(this).attr('id');
-        //alert(buttonclicked);
-         var currentURL = window.location.href;
-         currentURL=encodeURIComponent(currentURL);
-        if(buttonclicked=='login'){
-           ($formId).attr('action', "http://www.preplounge.com/en/login.php?gotopage="+currentURL);
-        }
-        else{
-            jQuery($formId).attr('action', "http://www.preplounge.com/en/signup.php");
-        }
-		var formAction = $formId.attr('action');
-        //alert(buttonclicked+','+formAction);
-        //alert(formAction);
-		var emailReg = /^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/;
-		var $error = jQuery('<span class="error"></span>');
-		// Prepare the form for validation - remove previous errors
-		jQuery('li',$formId).removeClass('error');
-		jQuery('span.error').remove();
-		// Validate all inputs with the class "required"
-		jQuery('.required',$formId).each(function()
-        {
-			var inputVal = jQuery(this).val();
-			inputVal=jQuery.trim(inputVal);
-			var $parentTag = jQuery(this).parent();
-			// Run the email validation using the regex for those input items also having class "email"
-			if(jQuery(this).hasClass('email') == true)
-            {
-				if(!emailReg.test(inputVal))
-                {
-					$parentTag.addClass('error').append($error.clone().html('<div style="color:red; position: absolute;">Required Field"</div>'));
-				}
-			}
-		});
-		// All validation complete - Check if any errors exist
-		// If has errors
-		if (jQuery('span.error').length > 0)
-        {
-			jQuery('span.error').each(function()
-            {
-				// Set the distance for the error animation
-				var distance = 5;
-				// Get the error dimensions
-				var width = jQuery(this).outerWidth();
-				// Calculate starting position
-				var start = width + distance;
-				// Set the initial CSS
-				jQuery(this).show().css(
-                {
-					display: 'block',
-					opacity: 0,
-					right: -start+'px'
-				})
-				// Animate the error message
-				.animate(
-                {
-					right: -width+'px',
-					opacity: 1
-				}, 'slow');
-			});
-		}
-        else
-        {
-			$formId.submit();
-		}
-		// Prevent form submission
-			e.preventDefault();
-	});
-	// Fade out error message when input field gains focus
-	jQuery('.required').focus(function()
-    {
-		var $parent = jQuery(this).parent();
-		$parent.removeClass('error');
-		jQuery('span.error',$parent).fadeOut();
-	});
-});
-</script>
-
-
-
+<!DOCTYPE html><html><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-T73J2T"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o?o:n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({D5DuLP:[function(t,n){function e(t,n){var e=r[t];return e?e.apply(this,n):(o[t]||(o[t]=[]),void o[t].push(n))}var r={},o={};n.exports=e,e.queues=o,e.handlers=r},{}],handle:[function(t,n){n.exports=t("D5DuLP")},{}],G9z0Bl:[function(t,n){function e(){var t=l.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&p&&p.body){l.proto="https"===f.split(":")[0]||t.sslForHttp?"https://":"http://",i("mark",["onload",a()]);var n=p.createElement("script");n.src=l.proto+t.agent,p.body.appendChild(n)}}function r(){"complete"===p.readyState&&o()}function o(){i("mark",["domContent",a()])}function a(){return(new Date).getTime()}var i=t("handle"),u=window,p=u.document,s="addEventListener",c="attachEvent",f=(""+location).split("?")[0],l=n.exports={offset:a(),origin:f,features:[]};p[s]?(p[s]("DOMContentLoaded",o,!1),u[s]("load",e,!1)):(p[c]("onreadystatechange",r),u[c]("onload",e)),i("mark",["firstbyte",a()])},{handle:"D5DuLP"}],loader:[function(t,n){n.exports=t("G9z0Bl")},{}]},{},["G9z0Bl"]);</script>
+	<meta name="google-site-verification" content="giXwXVhrOmTb9kDIjApRMFsYVAOBmvDtuPOQ2T38v3o">
+	<base href="http://www.preplounge.com/en">	<link rel="author" href="https://plus.google.com/106582076160880306595">
+	<link rel="icon" type="image/png" href="images/icons/favicon.png">
+	<link rel="apple-touch-icon" href="images/icons/apple-touch-icon-60x60.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="images/icons/apple-touch-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="images/icons/apple-touch-icon-120x120.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="images/icons/apple-touch-icon-152x152.png">
+	<meta name="description" content="Privacy Policy PrepLounge">	<title>
+		Privacy Policy of PrepLounge	</title>
+	<script type="text/javascript">
+		var _loadStartTime = new Date().getTime();
+	</script>
 		<!-- Start of Google analytics tracking code script-->
 		<script type="text/javascript">
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-		  var _gaq = _gaq || [];
-		  _gaq.push(['_setAccount', 'UA-32769793-1']);
-		  _gaq.push(['_setDomainName', 'preplounge.com']);
-		  _gaq.push(['_setAllowLinker', true]);
-		  _gaq.push(['_trackPageview']);
+		  ga('create', 'UA-32769793-1', 'preplounge.com');
 
-		  (function() {
-			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-		  })();
+			<!-- End of Google analytics script-->
 
+						function trackOutboundLink(link, category, action) {
+				try {
+					ga('send', 'event', {
+						eventCategory: category,
+						eventAction: action
+					});
+				} catch(err){}
+
+				setTimeout(function() {
+					document.location.href = link.href;
+				}, 100);
+			}
+
+			
+			if(typeof GoogleAnalyticsCallback == 'undefined') {
+				var GoogleAnalyticsCallback = function() {
+
+				};
+			}
+			ga('send', 'pageview', {
+				hitCallback: GoogleAnalyticsCallback
+			});
 		</script>
 
-		<!-- End of Google analytics script-->
 
 		<!-- Robots indicates that the pages are not indexed by google-->
 		<!--<meta name="robots" content="noindex">-->
 
 		<!-- google site verification-->
 		<meta name="google-site-verification" content="YF_1rJVIdOhyTBOVei5m19tqxTEi79sECBDIOqdmrwk">
-	<meta name="description" content="Privacy Policy PrepLounge">
-<script type="text/javascript">
-function trackOutboundLink(link, category, action) {
+<script type="text/javascript" src="/min/?b=js&amp;f=jquery-1.8.3.min.js,get_user_browser_flash_and_operatingsystem_information.js&amp;1402066365"></script>
+<link rel="stylesheet" type="text/css" href="//ajax.googleapis.com/ajax/libs/jqueryui/1/themes/redmond/jquery-ui.min.css">
+<link rel="stylesheet" type="text/css" href="/min/?f=css2/redesign/flat.css,css2/redesign/bootcamp-progress.css,css2/redesign/bootcamp.css,css2/redesign/gamification.css,_ui/form/tform.css,css/style.css,css2/style.css,css2/navi.css,css/footer.css,css/screen.css,css/main.css,css2/main.css,css2/loginform.css,css/form.css,css/beta-tester-style.css,css2/user.css,css2/jquery.tipsy.css,css/jquery.ui.theme.css&amp;1402066365">
+<link rel="stylesheet" type="text/css" href="/min/?f=css/print.css&amp;1402066365" media="print">
+<script type="text/javascript" src="/min/?f=_ui/form/tform.js,js2/main.js,js2/jquery.json-2.4.min.js,js2/jquery.timeago.js,js2/jquery-scrollto.js&amp;1402066365"></script>
+<script type="text/javascript" src="/min/?b=js&amp;f=jquery.validate.js,ajaxupload.3.5.js,prepcountdown.js,console.dummy.js,intro.js&amp;1402066365"></script>
+<link rel="stylesheet" type="text/css" href="/min/?f=css/introjs.css&amp;1402066365">
+<link rel="stylesheet" type="text/css" href="/min/?b=css2/redesign&amp;f=en.css,fixes.css&amp;1402066365">
+	<script type="text/javascript">
+		var _userId = -1;
+		var _root = '/en/';
 
-try {
-_gaq.push(['_trackEvent', category , action]);
-} catch(err){}
+						$(window).load(function(){
+					var loadEndTime = new Date().getTime();
+					var totalLoadTime = ((loadEndTime - _loadStartTime) / 1000);
 
-setTimeout(function() {
-document.location.href = link.href;
-}, 100);
-}
-</script>
+					var data = {
+						action: 'log',
+						uri: '/en/privacypolicy.php',
+						time: totalLoadTime,
+						type: 'dom',
+						identifier: 'e678e430f0093103fb5e79e1103917e8'
+					};
 
-<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
-<body topmargin="0" leftmargin="0" rightmargin="0" bottommargin="0" marginwidth="0" marginheight="0"><div id="olark" style="display: none;"><olark><iframe frameborder="0" id="olark-loader"></iframe></olark></div>
+					if(_userId != -1) {
+						data.user_id = _userId;
+					}
 
-<!-- Google Tag Manager -->
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-T73J2T"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-T73J2T');</script>
-<!-- End Google Tag Manager -->
-
-<!-- Overlay that is used for all popups -->
-<div id="fade" class="black_overlay" onclick="close_popup();"></div>
-
-<div class="re_mainclass" align="center">
-	<div id="header_contentcenter" class="contentcenter" align="center">
-	
-		<div align="left" class="logo">
-			<a alt="PrepLounge" title="PrepLounge" href="/en/">
-				<img border="0" src="images/preplounge.png">
-			</a>
-		</div>
+					prepAPI.call('load-time', data);
+				});
 		
-			<div id="nav_with_languageflags" style="float:right;" align="left">
+		
+		// Sets cookie (from http://www.javascripter.net/faq/settinga.htm)
+		function SetCookie(cookieName,cookieValue,nDays)
+		{
+			var today = new Date();
+			var expire = new Date();
+			if (nDays==null || nDays==0) nDays=1;
+			expire.setTime(today.getTime() + 3600000*24*nDays);
+			document.cookie = cookieName+"="+escape(cookieValue)
+			                + ";expires="+expire.toGMTString();
+		}
+	</script>
+<script id="facebook-jssdk" async="" src="http://connect.facebook.net/en_US/all.js"></script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+		<body id="_privacypolicy" class="flat privacypolicy intermediate en not-logged-in"><div id="olark" style="display: none;"><olark><iframe frameborder="0" id="olark-loader"></iframe></olark></div>
+					<!-- Google Tag Manager -->
+			<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-T73J2T"
+			height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+			<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+			new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+			j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+			'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+			})(window,document,'script','dataLayer','GTM-T73J2T');</script>
+			<!-- End Google Tag Manager -->
 
-					<div style="width:100%;height:36px;" align="left">
-				<div class="re_login" style="margin-left: 30px; float:right;">
-					<a href="#" class="logina" onclick="showSlidingDiv(); return false;">Log in / Sign up</a>
-				</div>
-				<div style="margin:3px; margin-top:7px;float:right;"><img border="0" src="images/flag_uk.png" alt="English"></div><div style="margin:3px; margin-top:7px;float:right;"><a style="cursor:pointer;" title="Deutsch" href="http://www.preplounge.com/de/datenschutz.php"><img border="0" src="images/flag_de.png" alt="Deutsch"></a></div><div style="clear:both;"></div>
-<div style="float:right;position: relative;">
-	<div id="slidingDiv">
-		<div class="logindown1">
-								
-			<div class="columns col1">  
-				
-				<div id="frm_login" class="tform">
-				<form action="login.php" method="post">
-					<div class="label">Login with your email</div>
+			
+			
+			<!-- Script that detects if user uses IE < 9 and pops up a warning saying that PrepLounge does not support IE < 9
+			see: http://stackoverflow.com/questions/5574842/best-way-to-check-for-ie-less-than-9-in-javascript-without-library-->
+			<script type="text/javascript">
+				$.curCSS = function (element, attrib, val) {
+				    $(element).css(attrib, val);
+				}
 
-					<input validate="1" type="text" name="user_emailid" title="Email" style="color:#888;" value="Email" onfocus="inputFocus(this)" onblur="inputBlur(this)" maxlength="100">
-					<input validate="1" type="password" name="password" title="Password" style="color:#888;" value="Password" onfocus="inputFocus(this)" onblur="inputBlur(this)" maxlength="45" id="password">
+				jQuery('document').ready(function() {
+					var ie = (function(){
+					    var undef,
+					        v = 3,
+					        div = document.createElement('div'),
+					        all = div.getElementsByTagName('i');
 
-					<div class="keep_loggedin">
-						<label>
-							<input type="checkbox" name="loggedIn" value="1">
-							<span>Keep me logged in</span>
-						</label>
-						<div class="clearB"></div>
-					</div>
-					
-					<input class="greenbg loginbutton" type="button" value="Log in" id="login">
-					<a href="forgot-password.php" class="linkanew" style="font-size: 10px;">Forgot Password</a>
-					
-					<div class="frmerror"></div>
-				</form>
-				</div>
-				
-				<div id="frm_forgot_pass" class="tform">
-					<input validate="1" type="text" name="email" title="Enter email" style="color:#888;" value="Enter email" onfocus="inputFocus(this)" onblur="inputBlur(this)" maxlength="45" id="password">
-					<input class="greenbg loginbutton" type="button" value="Send my password">
-				</div>
-				
-			</div>
-			<div class="signup_or">OR</div>
-			<div class="columns col2">  
-				<div class="label">1-Click Login | Signup</div>
-				
-							<form id="linkedin_connect_form" action="/_socialmedia/linkedin/connect.php" method="get">
+					    while (
+					        div.innerHTML = '<!--[if gt IE ' + (++v) + ']><i></i><![endif]-->',
+					        all[0]
+					    );
+
+					    return v > 4 ? v : undef;
+
+					}());
+
+					if(ie < 9) {
+						alert('We are sorry but PrepLounge does not support Internet Explorer versions older than 9.0');
+					}
+				});
+			</script>
+
+			<script type="text/javascript">
+		        facebookApiKey = "352938358115527";
+		        window.fbAsyncInit = function() {
+		          FB.init({
+		            appId      : facebookApiKey,
+		            status     : true,
+		            cookie     : true,
+		            xfbml      : true,
+		            oauth      : true
+		          });
+		        };
+
+		        (function(d){
+		           var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+		           js = d.createElement('script'); js.id = id; js.async = true;
+		           js.src = "http://connect.facebook.net/en_US/all.js";
+		           d.getElementsByTagName('head')[0].appendChild(js);
+
+		         }(document));
+
+				function close_popup() {
+					// Closes any popup that might be open (it just need to have class 'popup_window')
+					jQuery(".popup_window").hide();
+
+					// Closes black overlay
+				   	jQuery(".black_overlay").hide();
+
+					if(typeof popupClosedCallback != 'undefined') {
+						popupClosedCallback();
+					}
+
+				    // In case this is a chat popup, there is more to do than just hiding the popup
+				    // see function after_closing_popup_chat() defined in meeting-now-module.php
+				    // or in URL_CASE_INTERVIEW_PARTNER:
+				    try {
+				    	after_closing_popup_chat();
+				    } catch(e) {
+				    	// Do nothing
+					}
+				}
+
+				function open_popup(showOverlay) {
+					// Opens black overlay
+					if(typeof showOverlay == 'undefined') {
+						showOverlay = true;
+					}
+
+					if(showOverlay) {
+				   		jQuery(".black_overlay").show();
+				   	}
+
+					if(typeof popupOpenedCallback != 'undefined') {
+						popupOpenedCallback();
+					}
+				}
+
+			    $().ready(function(){
+					//Press ESC Mymeetingpage and Expertmeetingpage IFRAME
+					jQuery(document).bind('keydown', function(e) {
+				        if (e.which == 27) {
+				            close_popup();
+				        }
+				    });
+
+					jQuery('.black_overlay').click(close_popup);
+					//Press ESC END
+			    });
+			</script>
+
+			<!-- Overlay that is used for all popups -->
+			<!-- TODO switch to jQueryUI Dialog -->
+			<div id="fade" class="black_overlay"></div>
+
+
+			<!-- header -->
+			<div class="wide header-wrapper">
+				<div class="wide header-top">
+					<div class="inner">
+						<a href="/en/" class="logo-link">
+																<img src="images/preplounge.png" alt="PrepLounge Logo">
+													</a>
+
+														<div class="language-switch">
+									EN | <a title="Deutsch" href="http://www.preplounge.com/de/datenschutz.php?lang=de">DE</a>								</div>
+														<div class="login-signup-wrapper">
+									<a href="#" id="js-login" class="login-link">Login</a>&nbsp;&nbsp;
+									<a class="flat-button flat-button-green" href="signup.php?ref=header">Signup</a>
+
+									<div class="login-signup-box" id="js-login-dropdown">
+										<form action="login.php" method="post" class="login">
+											<h4>Login with your email</h4>
+											<input type="text" name="user_emailid" title="Email" placeholder="Email" maxlength="100" id="user_emailid">
+											<input type="password" name="password" title="Password" placeholder="Password" maxlength="45" id="password">
+											<input type="checkbox" name="loggedIn" value="1" class="checkbox" id="js-keep-logged-in">
+											<label for="js-keep-logged-in">Keep me logged in</label>
+
+											<a class="flat-button flat-button-green" onclick="$(this).closest('form').submit(); return false;">Log in</a>
+											<a href="forgot-password.php" class="forgot-link">Forgot Password</a>
+											<input type="submit" class="fake-hidden">
+										</form>
+
+										<div class="signup_or">OR</div>
+
+										<div class="button-list">
+											<h4>1-Click Login</h4>
+													<form id="linkedin_connect_form" action="/_socialmedia/linkedin/connect.php" method="get">
 		  <input type="hidden" name="lType" id="lType" value="initiate">
-		  <input type="submit" value="" class="linkedin">
+		  <a href="#" onclick="$(this).closest('form').submit(); return false;" class="flat-button flat-button-social flat-button-linkedin">Sign in with LinkedIn</a>
 		</form>
-	<a class="facebook" href="https://www.facebook.com/dialog/oauth?client_id=457503840931891&amp;redirect_uri=http%3A%2F%2Fwww.preplounge.com%2Fen%2F_socialmedia%2Ffacebook%2Fsuccess.php&amp;state=dbff09a2be071a2e38938a995c217142&amp;scope=email" target="_top"></a>					<input class="greenbg signupbuttons loginbutton" onclick="window.location.href='signup.php'" type="button" value="Sign up with email!">
-				
-			</div> 
-			<div class="clearB"></div>
-		</div>
+	<a class="flat-button flat-button-social flat-button-facebook" href="https://www.facebook.com/dialog/oauth?client_id=457503840931891&amp;redirect_uri=http%3A%2F%2Fwww.preplounge.com%2Fen%2F_socialmedia%2Ffacebook%2Fsuccess.php&amp;state=91f8fefcd54458c791da9b43858567c1&amp;scope=email" target="_top">Sign in with Facebook</a>										</div>
+									</div>
+								</div>
 
-	</div>
-</div>				
-			</div>
-		<div id="topNav">
-		<div id="mainNav">
+								<!-- Passing email id if entered by a user to the registration form, when he click on "Sign up with email" button -->
+								<script type="text/javascript">
+									jQuery('document').ready(function() {
+										jQuery("#signupwithemail").click(function() {
+										 	var email_id = jQuery.trim(jQuery("#user_emailid").val());
+										 	if(email_id!='') {
+										 		window.location.href='signup.php?user_emailid='+email_id;
+											} else {
+												window.location.href='signup.php';
+											}
+										});
 
-			<span id="newPage" class="countdown" style="font-size:28px;color:black;"></span>
+										jQuery('#js-login').click(showSlidingDiv);
+									});
 
-			<ul id="yw2">
-				
-				<!-------------->
-				<!-- TAB Case Prep -->
-				<!-------------->
-				<li style="text-align: center;"><a href="http://www.preplounge.com/en/management-consulting-cases.php">
-						Case Prep					</a>
+									function showSlidingDiv() {
+									    jQuery("#js-login-dropdown").animate({"height": "toggle"}, { duration: 800 });
 
-					<!--Shows the sub-menus of "Case Prep"-->
-					<ul id="sub_tabs_case_prep" class="dropdownmenuul">
-						<div class="dropdownmenuul_container">
-							<li style="border-radius: 2px;"><a class="menu_ho header_sub_tab_link" href="http://www.preplounge.com/en/mental-math.php">Mental math</a></li>
-							<li style="border-radius: 2px;"><a class="menu_ho header_sub_tab_link" href="http://www.preplounge.com/en/management-consulting-cases.php">Cases</a></li>
-							<li style="border-radius: 2px;"><a class="menu_ho header_sub_tab_link" href="http://www.preplounge.com/en/case-interview-groups.php">Groups</a></li>
-							<!--<li style="border-radius: 2px;"><a class="menu_ho header_sub_tab_link" href="http://www.preplounge.com/en/case-interview-league.php" >Case League</a></li>-->
-							<li style="border-radius: 2px;"><a class="menu_ho header_sub_tab_link" href="http://www.preplounge.com/en/starters-guide.php">Starter's guide</a></li>
-						</div>
-					</ul>
-					<!--dropdownmenuend-->
-				</li>
+									    return false;
+									}
+								</script>
+											</div>
+				</div>
 
-				<!-------------->
-				<!-- TAB Find candidates -->
-				<!-------------->
-				<li style="text-align: center;"><a href="http://www.preplounge.com/en/case-interview-partner.php#language=0&amp;interest=0&amp;university=0&amp;status=0&amp;sortby=3">
-						Find candidates					</a>
-
-					<!--Shows the sub-menus of "Find candidates"-->
-					<!--dropdownmenustart-->
-					   <ul class="dropdownmenuul">
-							<div class="dropdownmenuul_container">
-							   <li style="border-radius: 2px;"><a class="menu_ho header_sub_tab_link" href="http://www.preplounge.com/en/case-interview-partner.php#language=0&amp;interest=0&amp;university=0&amp;status=0&amp;sortby=3" style="color: black;text-align: left; border-radius: 2px;font-size: 11px;">Propose meeting</a></li>
-							   <li style="border-radius: 2px;"><a class="menu_ho header_sub_tab_link" href="http://www.preplounge.com/en/take-meeting.php" style="color:text-align: left;color: black; border-radius: 2px;font-size: 11px;">Take meeting</a></li>
+										<nav class="wide header-bottom">
+							<ul class="inner">
+								<li class="menu-item">
+									<a rel="gdOdwz6n0Kw" class="youtube-rel" href="#" title="PrepLounge in three steps">Take Tour</a>
+								</li>
+								<li class="menu-item">
+									<a href="/en/index.php#testimonials">Testimonials</a>
+								</li>
+								<li class="menu-item">
+									<a href="/en/index.php#connect">Case Practice</a>
+									<ul class="sub-menu">
+										<li><a href="/en/management-consulting-cases.php?ref=header">Case Library</a></li>
+										<li class="menu-item">
+											<a href="/en/case-interview-partner.php?ref=header" class="force-cursor">Peer Interviews</a>
+											<div class="sub-menu-indicator">&gt;</div>
+											<ul class="sub-menu">
+												<li><a href="/en/take-meeting.php?ref=header">Take Meeting</a></li>
+												<li><a href="/en/case-interview-partner.php?ref=header">Propose Meeting</a></li>
+											</ul>
+										</li>
+										<li><a href="/en/case-interview-experts.php?ref=header">Expert Meeting</a></li>
+										<li><a href="/en/prepcircle.php?ref=header">PrepCircle Webinar</a></li>
+									</ul>
+								</li>
+								<li class="menu-item">
+									<a href="/en/index.php#library">Consulting Skills</a>
+									<ul class="sub-menu">
+										<li><a href="/en/bootcamp.php?ref=header">BootCamp</a></li>
+										<li><a href="/en/consulting-frameworks.php?ref=header">Framework Videos</a></li>
+										<li><a href="/en/mental-math.php?ref=header">Case Math</a></li>
+										<li><a href="/en/daily-brain-teasers.php?ref=header">Brain Teaser</a></li>
+									</ul>
+								</li>
+																<li class="menu-item">
+									<a href="/en/pricing.php?ref=header">Plans</a>
+								</li>
+								<li class="menu-item phone-contact">
+									<a class="phone-contact" href="tel:+49-221-20472344">+49 221 20472344</a>
+								</li>
+							</ul>
+						</nav>
 							</div>
-						</ul>
-					<!--dropdownmenuend-->
-				</li>
-
-				<!-------------->
-				<!-- TAB Find experts  -->
-				<!-------------->
-				<li style="text-align: center;"><a href="http://www.preplounge.com/en/case-interview-experts.php#language=0&amp;experience=0&amp;sortby=1">
-						Find experts					</a>
-				</li>
-
-			</ul>
-		<!--menuend-->
-		</div>
-	</div>   
-	</div>	</div>
-</div>
-
-
-<!-- Script that detects if user uses IE < 9 and pops up a warning saying that PrepLounge does not support IE < 9
-see: http://stackoverflow.com/questions/5574842/best-way-to-check-for-ie-less-than-9-in-javascript-without-library-->
-<script type="text/javascript">	
-jQuery('document').ready(function()
-{
-	var ie = (function(){
-	    var undef,
-	        v = 3,
-	        div = document.createElement('div'),
-	        all = div.getElementsByTagName('i');
-	
-	    while (
-	        div.innerHTML = '<!--[if gt IE ' + (++v) + ']><i></i><![endif]-->',
-	        all[0]
-	    );
-	
-	    return v > 4 ? v : undef;
-	
-	}());
-	
-	if(ie<9)
-	{
-		alert('We are sorry but PrepLounge does not support Internet Explorer versions older than 9.0');
-	}
-});
-</script>
-
-
-<!-- definition of close popup function -->
-<script type="text/javascript">
-function close_popup()
-{
-	// Closes any popup that might be open (it just need to have class 'popup_window')
-	jQuery(".popup_window").css("display", "none");
-	
-	// Closes black overlay
-   	jQuery(".black_overlay").css("display", "none"); 
-    
-    // In case this is a chat popup, there is more to do than just hiding the popup
-    // see function after_closing_popup_chat() defined in meeting-now-module.php
-    // or in URL_CASE_INTERVIEW_PARTNER:
-    try{
-    	after_closing_popup_chat();
-    }
-    catch(e)
-    {
-    	// Do nothing
-	}
-}
-//Press ESC Mymeetingpage and Expertmeetingpage IFRAME
-	jQuery(document).bind('keydown', function(e) { 
-        if (e.which == 27) {
-
-                close_popup();
-        }
-    });
-//Press ESC END 
-</script>
-
-<!--footerslidingmenu-->
-<div class="re_preplonge" align="center" style="text-align: left;">
-<div align="center">
-
-<!-- here come the different pages that call header at the beginning -->
-<div class="bodytittle" align="center"><h1 style="width: 960px;margin:0 auto;border-bottom: 0;padding: 0;" align="left" class="bodytittle">Privacy policy</h1></div>
+			<div class="bodytittle" align="center"><h1 style="width: 960px;margin:0 auto;border-bottom: 0;padding: 0;" align="left" class="bodytittle">Privacy policy</h1></div>
 <div class="contentcenter">
 <div class="left_column">
 	The protection of your privacy is an important objective for us when processing your personal data. The information further below is summarized in the next paragraphs:&nbsp;
@@ -441,20 +335,20 @@ function close_popup()
 	<br>In case you register with PrepLounge, we need some personal data before you can make full use of our services.<br>
 	We expressly ask you for your permission to process these spereately obtained data. Also in this case you may revoke your permission, that we recorded, at any time becoming effective for the future.
 		<ul style="margin: 14px;line-height: 21px;">
-			<li><a href="#selbstverpflichtung">Commitment of PrepLounge</a></li>
-			<li><a href="#anerkennung">Acceptance</a></li>
-			<li><a href="#nutzungder">Use of the personal data</a></li>
-			<li><a href="#zurnutzung">Necessary information for use</a></li>
-			<li><a href="#protokollierungvon">Logging of data by logfile</a></li>
-			<li><a href="#einsatzvon">Use of cookies</a></li>
-			<li><a href="#nutzungvon">Use of third party services, that communicate personal data abroad</a></li>
-			<li><a href="#protokollierung">Logging</a></li>
-			<li><a href="#auskunftsrecht">Right of access</a></li>
-			<li><a href="#zugangzur">Access to the private policy</a></li>
-			<li><a href="#ansprechpartner">Contact for privacy questions</a></li>
-			<li><a href="#datenschutzrechtliche">Data protection supervision</a></li>
+			<li><a href="/en/privacypolicy.php#selbstverpflichtung">Commitment of PrepLounge</a></li>
+			<li><a href="/en/privacypolicy.php#anerkennung">Acceptance</a></li>
+			<li><a href="/en/privacypolicy.php#nutzungder">Use of the personal data</a></li>
+			<li><a href="/en/privacypolicy.php#zurnutzung">Necessary information for use</a></li>
+			<li><a href="/en/privacypolicy.php#protokollierungvon">Logging of data by logfile</a></li>
+			<li><a href="/en/privacypolicy.php#einsatzvon">Use of cookies</a></li>
+			<li><a href="/en/privacypolicy.php#nutzungvon">Use of third party services, that communicate personal data abroad</a></li>
+			<li><a href="/en/privacypolicy.php#protokollierung">Logging</a></li>
+			<li><a href="/en/privacypolicy.php#auskunftsrecht">Right of access</a></li>
+			<li><a href="/en/privacypolicy.php#zugangzur">Access to the private policy</a></li>
+			<li><a href="/en/privacypolicy.php#ansprechpartner">Contact for privacy questions</a></li>
+			<li><a href="/en/privacypolicy.php#datenschutzrechtliche">Data protection supervision</a></li>
 		</ul>
-				
+
 		<h2><a name="selbstverpflichtung" style="text-decoration: none;">§ 1 Commitment of PrepLounge</a> </h2>
 		The protection of your privacy is an important objective for PrepLounge. Therefore we collect, process and use the personal data, to the extent that is legally permissible under German law. In addition, we also consider the data protection rules, that are set by the European Union.
 		<p>The in the existing <a href="conditions.php">terms and conditions</a>&nbsp;contained regulations for the treatment of data are supplemented by this privacy policy by explaining the type, extent and purpose of the data use to the user and informing him about his rights.</p>
@@ -471,24 +365,24 @@ function close_popup()
 		</div>
 		<p>These data are collected and processed by Google. We also use third party services, such as "Facebook Connect", to authenticate users. Please note that you agreed to the use of this service and the use of your personal data by registering at these third-party companies. This use is therefore based on the <a href="conditions.php">terms and conditions</a> and the privacy policy of Facebook. In this respect, these service providers, are the body designated to use your data.</p>
 		<p>We advert to you that our privacy policy does not apply to the processing of your data by third parties, because we are not the body designated to process your data. </p>We ask you to be aware of the consequences of using our services – and to accept the usage, that is necessary for the registration. Other users and third parties will also draw conclusions about your person by your usage patterns and your contributions of any kind.<p></p>
-	
+
 		<h2><a name="anerkennung" style="text-decoration: none;">§ 2 Acceptance</a> </h2>
-		With acceptance of this privacy policy you agree that 
-		<p>PrepLounge GmbH,&nbsp;Moltkestraße 123-131,&nbsp;50674 Köln<br>will use and process your personal data der Nutzung und Verarbeitung Ihrer personenbezogenen Daten according to this statement.</p>
+		With acceptance of this privacy policy you agree that
+		<p>PrepLounge GmbH,&nbsp;Im Klapperhof 7-23,&nbsp;50670 Köln<br>will use and process your personal data der Nutzung und Verarbeitung Ihrer personenbezogenen Daten according to this statement.</p>
 		<p>You are entitled to revoke your consent at any time. Please address your retraction to:&nbsp;</p>
-		<p>PrepLounge GmbH, Moltkestraße 123-131, 50674 Köln, contact@preplounge.com</p>
+		<p>PrepLounge GmbH, Im Klapperhof 7-23,&nbsp;50670 Köln, contact@preplounge.com</p>
 		<p>If you revoke your consent Wenn Sie die Einwilligung widerrufen, we will not be able to provide our services and may have to terminate the contract with you in case of doubt. Your personal data will be definitely deleted after the termination of your membership.</p>
-	
+
 		<h2><a name="nutzungder" style="text-decoration: none;">§ 3 Use of the personal data</a> </h2>
 		PrepLounge uses the personal data of the user profile solely for the justification, execution and processing of the contract on the platform PrepLounge.
-		<p>The use of the website of the service provider is principally possible without giving any personal details by the user. But if you want to actively participate on PrepLounge and want to access further features, a user-registration, and therefore a declaration of several personal data is required. PrepLounge will use and process the personal data for the purpose of providing a effective, safe, user-friendly and user-related service. This results in the storage and use of the data.</p> 
-		<p>In no case will your personal data be forwarded to a third party for the purpose of advertising or marketing. Personal data" are all single entries about personal or factual relations of an identified or identifiable natural person.</p>	
-		
-		<h2><a name="zurnutzung" style="text-decoration: none;">§ 4 Necessary information for use</a> </h2>	
+		<p>The use of the website of the service provider is principally possible without giving any personal details by the user. But if you want to actively participate on PrepLounge and want to access further features, a user-registration, and therefore a declaration of several personal data is required. PrepLounge will use and process the personal data for the purpose of providing a effective, safe, user-friendly and user-related service. This results in the storage and use of the data.</p>
+		<p>In no case will your personal data be forwarded to a third party for the purpose of advertising or marketing. Personal data" are all single entries about personal or factual relations of an identified or identifiable natural person.</p>
+
+		<h2><a name="zurnutzung" style="text-decoration: none;">§ 4 Necessary information for use</a> </h2>
 		Depending on what you use, please provide the following information:
-		<p>4a) &nbsp;Registration and use of the online video platform PrepLounge. Extending the data set with comprehensive life cycle data, that can be shown to companies after approval of the user if applicable. 
+		<p>4a) &nbsp;Registration and use of the online video platform PrepLounge. Extending the data set with comprehensive life cycle data, that can be shown to companies after approval of the user if applicable.
 		&nbsp;</p><p>4b) &nbsp;Use of services provided by third parties
-		</p><p>	ad 4a) The registration as a member requires the storage and processing</p>  
+		</p><p>	ad 4a) The registration as a member requires the storage and processing</p>
 			  <div style="margin: 10px;"> of the following data:<br>Biographical and personal information:
 				<ul>
 				  <li>First and Last name</li>
@@ -503,9 +397,9 @@ function close_popup()
 				  <li>Employer</li>
 				  <li>University studies</li>
 			  </ul>
-		  </div>  
+		  </div>
 		Additional biographical data can be entered optionally, that affects for example your resume or your interests.
-		<p>Use:<br>After registration other members of PrepLounge can see your user profile with the information you provided. The user can not determine which data is visible to other members and which remain private.</p>  
+		<p>Use:<br>After registration other members of PrepLounge can see your user profile with the information you provided. The user can not determine which data is visible to other members and which remain private.</p>
 		  <div style="margin: 10px;"> The following can be accessed:<br>
 			  <ul>
 				  <li>Firstname</li>
@@ -528,127 +422,90 @@ function close_popup()
 	<h2 style="margin-top: 20px;"><a name="einsatzvon" style="text-decoration: none;">§ 6 Use of cookies</a> </h2>
 	Our website uses cookies. Cookies are files deposited on your computer when you visit our website and are memorised by your browser. No personal data will be stored, only a session ID. The user can prevent the installation of the Cookies by means of a respective setting of his browser software. However, some functions of PrepLounge may not be available.
 	<p>Furthermore, PrepLounge uses third party services that may also use cookies on the user's computer. You have the option to block cookies in your browser settings. </p>
-	
+
 	<h2 style="margin-top: 20px;"><a name="nutzungvon" style="text-decoration: none;">§ 7 Use of third party services, that communicate personal data abroad</a> </h2>
 	This site uses also Google Analytics and the services and features of the Internet service Facebook. In this context, special cookies will be stored. Please note that in this respect information may be a further transfered to foreign countries. The separate privacy policy of <a href="facebooksocialplug.php">Facebook</a> and <a href="googleanalytics.php">Google Analytics</a> apply for this transmissions. Please note that we do not transmit the willfully in the contact forms entered data abroad.
 	<br>
-	
+
 	<h2 style="margin-top: 20px;"><a name="protokollierung" style="text-decoration: none;">§ 8 Logging</a> </h2>
 	The content of this consent is logged by PrepLounge.  The consent can be revoked at any time by the user.
 	<br>
-	
+
 	<h2 style="margin-top: 20px;"><a name="auskunftsrecht" style="text-decoration: none;">§ 9 Right of access</a> </h2>
 	You are entitled at any time to demand information about whether and what data has been stored in its systems about your person. Please contact
-	<p>PrepLounge GmbH, Moltkestraße 123-131, 50674 Köln, contact@preplounge.com</p>
-	
+	<p>PrepLounge GmbH, Im Klapperhof 7-23,&nbsp;50670 Köln, contact@preplounge.com</p>
+
 	<h2 style="margin-top: 20px;"><a name="zugangzur" style="text-decoration: none;">§ 10 Access to the private policy</a> </h2>
 	You can access and print out the privacy policy from every page. <br>
-	
+
 	<h2 style="margin-top: 20px;"><a name="ansprechpartner" style="text-decoration: none;">§ 11 Contact for privacy questions</a> </h2>
-	Responsible for questions on data protection is&nbsp;Stefan Menden, whom you can contact us as given below:<br> Stefan Menden,&nbsp;PrepLounge GmbH,&nbsp;Moltkestraße 123-131,&nbsp;50674 Köln<br>
-	
+	Responsible for questions on data protection is&nbsp;Ralf Fuhrmann, whom you can contact us as given below:<br> Ralf Fuhrmann,&nbsp;PrepLounge GmbH,&nbsp;Im Klapperhof 7-23,&nbsp;50670 Köln<br>
+
 	<h2 style="margin-top: 20px;"><a name="datenschutzrechtliche" style="text-decoration: none;">§ 12 Data protection supervision</a> </h2>
 	Responsible for the data protection supervision is prior:
 		The representative from the North Rhine-Westphalia department for data protection, P.O. Box 20 04 44, 40102 Düsseldorf,&nbsp;Tel.: 0211/38424-0,&nbsp;Fax: 0211/38424-10, E-mail: poststelle@ldi.nrw.de
-	
+
 </div>
 <div class="right_column"></div>
-</div> 
- </div>
 </div>
+ 	
 
-			<script>
-			(function(d, s, id) 
-			{
-			  var js, fjs = d.getElementsByTagName(s)[0];
-			  if (d.getElementById(id)) return;
-			  js = d.createElement(s); js.id = id;
-			  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=185012721632113";
-			  fjs.parentNode.insertBefore(js, fjs);
-			}(document, 'script', 'facebook-jssdk'));
-			</script>
-			
-<div class="footer" align="center">
-	<div class="contentcenter content_supo">
-		<div class="google">
-			<div style="padding-right: 0px;">
-				
-							<div class="google_plus">
-			<g:plusone></g:plusone>
-			<script type="text/javascript">
-			 window.___gcfg = {
-			 lang: 'en-US'
-			 };
+<div class="footer" id="js-footer">
+	<div class="footer-content">
+		<div class="footer-social">
+			<span>Social Media</span>
 
-			(function() 
-			{
-			var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-			po.src = 'https://apis.google.com/js/plusone.js';
-			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-			})();
-			</script>
-			</div>
-						<div style="float: left;" class="fb-like" align="center" data-href="http://www.facebook.com/pages/PrepLounge/134315683344042" data-send="true" data-layout="button_count" data-width="450" data-show-faces="true">
-				</div>
-			</div>
+			<!--div class="fb-like" style="top: 3px;" data-href="https://www.facebook.com/pages/Daily-Consulting-Brain-Teaser/476582002458872" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div-->
+						<!-- icons from http://simpleicons.org/ -->
+			<ul>
+				<li><a href="https://www.facebook.com/daily.consulting.brain.teaser" class="fb" target="_blank">Facebook</a></li>
+				<li><a href="http://www.youtube.com/user/PrepLounge" class="youtube" target="_blank">Youtube</a></li>
+				<li><a href="http://www.linkedin.com/company/preplounge" class="linkedin" target="_blank">LinkedIn</a></li>
+				<li><a href="https://twitter.com/PrepLounge" class="twitter" target="_blank">Twitter</a></li>
+				<li><a href="https://plus.google.com/102067418187838639491" class="googleplus" target="_blank">Google+</a></li>
+			</ul>
 		</div>
-	
-	<div class="footer_heading_supo">
-		<div class="footer_headings" style="width: 251px;">
-			Case Interview Preparation		</div>  
- 		 <div>
- 		 	<a href="case-interview-partner.php" class="powered">Find Case Interview Partners</a> <br> <a href="case-interview-experts.php" class="powered">Find Case Interview Experts</a> <br> <a href="http://www.preplounge.com/blog/en/the-case-interviews-at-bcg-mckinsey-booz-and-bain/" class="powered">Case Interviews at Bain, BCG, McKinsey and Booz</a> <br> <a href="http://www.preplounge.com/blog/en/4-erfolgreiche-konzepte-eines-beraterhirns-2/" class="powered">4 Insights into the Mind of a Consultant</a> <br> <a href="http://www.preplounge.com/blog/en/3-golden-rules-of-solving-market-sizing-cases/" class="powered">3 Golden Rules of Solving Market Sizing Cases</a> <br> <a href="http://www.preplounge.com/blog/en/success-story-lots-of-successful-case-interviews/" class="powered">Lots of successful case interviews</a> <br> 			
-		</div>  
-	</div>
-	
-	<div class="footer_heading_help">
-		<div class="footer_headings" style="width: 151px;">
-			General Information		</div>
-			<div>
-			<a href="imprint.php" class="powered">Imprint</a> <br> <a href="conditions.php" class="powered">Conditions</a> <br> <a href="case-interview-faq-en.php" class="powered">FAQ</a><br><a href="privacypolicy.php" class="powered">Privacy policy</a> <br> <a href="imprint.php" class="powered">Contact</a> <br> <a href="aboutus.php" class="powered">About us</a>			</div>
-	</div>
-	
-	<div class="footercopy footercopy_supo" align="center">
-		<div class="footercopy_cp_right">Copyright ©2013 by PrepLounge&nbsp;GmbH			<span style="padding-left: 10px;">
-			Powered by				<a href="http://www.atslsolutions.com/" target="_blank" class="powered" style="padding: 0;">&nbsp;
-				ATSL Software Solutions				</a>
-			</span>
-		</div>	
-		<div class="linu">
-			<a class="linudata" href="http://www.linudata.de" target="_blank">
-			Hosted by linudata			</a>
-		</div>		
-		<div class="linu">
-			<a rel="author" class="linudata" href="https://plus.google.com/106582076160880306595">
-				+ Fernando Martinelli
-			</a>
-		</div>		
+		<div class="footer-bootcamp">
+			<span>Try our Consulting BootCamp</span>
+			<ul>
+				<li><a href="/en/bootcamp.php/case-cracking/the-case-study?ref=footer">Basics about "The Case Study"</a></li>
+				<li><a href="/en/bootcamp.php/case-cracking/market-sizing?ref=footer">How to solve Market Sizing Cases</a></li>
+				<li><a href="/en/bootcamp.php/case-cracking/profitability?ref=footer">Right approach to Profitability Cases</a></li>
+				<li><a href="/en/bootcamp.php/case-cracking/market-entry?ref=footer">Solution of a Market Entry Case</a></li>
+				<li><a href="/en/bootcamp.php/skills-and-concepts?ref=footer">Useful Skills and Concepts</a></li>
+				<li><a href="/en/bootcamp.php/skills-and-concepts/important-facts?ref=footer">Facts you should know for your Case</a></li>
+				<li><a href="/en/bootcamp.php/personal-fit?ref=footer">Personal Fit Framework</a></li>
+			</ul>
+		</div>
+		<div class="footer-tools">
+			<span>Case Interview Tools</span>
+			<ul>
+				<li><a href="/en/case-interview-partner.php?ref=footer">Find Case Partners</a></li>
+				<li><a href="/en/case-interview-experts.php?ref=footer">Meet Experts</a></li>
+				<li><a href="/en/mental-math.php?ref=footer">Train Case Math</a></li>
+				<li><a href="/en/prepcircle.php?ref=footer">PrepCircle Webinar</a></li>
+			</ul>
+		</div>
+		<div class="footer-preplounge">
+			<span>preplounge.com</span>
+			<ul>
+										<li><a href="/en/imprint.php?ref=footer" rel="noindex">Imprint</a></li>
+						<li><a href="/en/conditions.php?ref=footer" rel="noindex">Conditions</a></li>
+						<li><a href="/en/case-interview-faq-en.php?ref=footer" rel="noindex">FAQ</a></li>
+						<li><a href="/en/privacypolicy.php?ref=footer" rel="noindex">Privacy Policy</a></li>
+						<li><a href="/en/aboutus.php?ref=footer" rel="noindex">About Us</a></li>
+						<li><a href="mailto:contact@preplounge.com" rel="noindex" onclick="olark('api.box.expand'); return false;">Contact</a></li>
+				
+				<li>
+					<span class="language-flag"><img src="/images/flag_uk.png" alt="English"></span><span class="language-flag"><a title="Deutsch" href="http://www.preplounge.com/de/datenschutz.php?lang=de"><img src="/images/flag_de.png" alt="Deutsch"></a></span>				</li>
+			</ul>
+		</div>
+		<div class="footer-copyright">
+			Copyright © 2014 by PrepLounge GmbH		</div>
 	</div>
 </div>
 
-	<!-- begin olark code -->
-	<script data-cfasync="false" type="text/javascript">/*<![CDATA[*/window.olark||(function(c){var f=window,d=document,l=f.location.protocol=="https:"?"https:":"http:",z=c.name,r="load";var nt=function(){
-	f[z]=function(){
-	(a.s=a.s||[]).push(arguments)};var a=f[z]._={
-	},q=c.methods.length;while(q--){(function(n){f[z][n]=function(){
-	f[z]("call",n,arguments)}})(c.methods[q])}a.l=c.loader;a.i=nt;a.p={
-	0:+new Date};a.P=function(u){
-	a.p[u]=new Date-a.p[0]};function s(){
-	a.P(r);f[z](r)}f.addEventListener?f.addEventListener(r,s,false):f.attachEvent("on"+r,s);var ld=function(){function p(hd){
-	hd="head";return["<",hd,"></",hd,"><",i,' onl' + 'oad="var d=',g,";d.getElementsByTagName('head')[0].",j,"(d.",h,"('script')).",k,"='",l,"//",a.l,"'",'"',"></",i,">"].join("")}var i="body",m=d[i];if(!m){
-	return setTimeout(ld,100)}a.P(1);var j="appendChild",h="createElement",k="src",n=d[h]("div"),v=n[j](d[h](z)),b=d[h]("iframe"),g="document",e="domain",o;n.style.display="none";m.insertBefore(n,m.firstChild).id=z;b.frameBorder="0";b.id=z+"-loader";if(/MSIE[ ]+6/.test(navigator.userAgent)){
-	b.src="javascript:false"}b.allowTransparency="true";v[j](b);try{
-	b.contentWindow[g].open()}catch(w){
-	c[e]=d[e];o="javascript:var d="+g+".open();d.domain='"+d.domain+"';";b[k]=o+"void(0);"}try{
-	var t=b.contentWindow[g];t.write(p());t.close()}catch(x){
-	b[k]=o+'d.write("'+p().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}a.P(2)};ld()};nt()})({
-	loader: "static.olark.com/jsclient/loader0.js",name:"olark",methods:["configure","extend","declare","identify"]});
-	/* custom configuration goes here (www.olark.com/documentation) */
-	olark.identify('6260-696-10-8873');/*]]>*/</script><noscript><a href="https://www.olark.com/site/6260-696-10-8873/contact" title="Contact us" target="_blank">Questions? Feedback?</a> powered by <a href="http://www.olark.com?welcome" title="Olark live chat software">Olark live chat software</a></noscript>
-	<!-- end olark code -->
-
-	
-
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1/jquery-ui.min.js"></script>
 		<!-- Google Code for Main List -->
 		<!-- Remarketing tags may not be associated with personally identifiable
 		information or placed on pages related to sensitive categories. For
@@ -664,32 +521,101 @@ function close_popup()
 		</script>
 		<!-- Display none div is necessary to avoid a bug. See: http://stackoverflow.com/questions/11939653/google-adwords-remove-iframe-added-by-tracking-conversion-code -->
 		<div style="display:none">
-			<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+			<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion">
 			</script>
 		</div>
 		<noscript>
 		<div style="display:inline;">
 		<img height="1" width="1" style="border-style:none;" alt=""
-		src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1012423450/?value=0&amp;label=su4XCMby0gUQmrbh4gM&amp;guid=ON&amp;script=0"/>
+		src="http://googleads.g.doubleclick.net/pagead/viewthroughconversion/1012423450/?value=0&amp;label=su4XCMby0gUQmrbh4gM&amp;guid=ON&amp;script=0"/>
 		</div>
 		</noscript>
-	 <!-- AdRoll SmartPixel -->
-<script type="text/javascript">
-adroll_adv_id = "HMFOJTJQYFCO7IKP4XFAGD";
-adroll_pix_id = "RTGX3RKS5FGKPFOVKOHXH7";
-(function () {
-var oldonload = window.onload;
-window.onload = function(){
-   __adroll_loaded=true;
-   var scr = document.createElement("script");
-   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-   scr.setAttribute('async', 'true');
-   scr.type = "text/javascript";
-   scr.src = host + "/j/roundtrip.js";
-   ((document.getElementsByTagName('head') || [null])[0] ||
-    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-   if(oldonload){oldonload()}};
-}());
-</script>
+			 <!-- AdRoll SmartPixel -->
+		<script type="text/javascript">
+			adroll_adv_id = "HMFOJTJQYFCO7IKP4XFAGD";
+			adroll_pix_id = "RTGX3RKS5FGKPFOVKOHXH7";
+			(function () {
+			var oldonload = window.onload;
+			window.onload = function(){
+			   __adroll_loaded=true;
+			   var scr = document.createElement("script");
+			   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+			   scr.setAttribute('async', 'true');
+			   scr.type = "text/javascript";
+			   scr.src = host + "/j/roundtrip.js";
+			   ((document.getElementsByTagName('head') || [null])[0] ||
+			    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+			   if(oldonload){oldonload()}};
+			}());
+		</script>
 
-</div></body></html>
+<script type="text/javascript" src="/min/?f=js2/prep-api.js,js2/feedback.js,js2/jquery.tipsy.js,js/jquery.youtubepopup.min.js&amp;1402066365"></script>
+		<script type="text/javascript">
+			$().ready(function(){
+				// SHould be 960 x 540 but empirically we adjusted it to 908 to eliminate the dark stripes on the sides
+				$(".youtube").YouTubePopup({
+					idAttribute: 'id',
+					width: 908,
+					height: 540,
+					hd: true,
+					draggable: true,
+					useYouTubeTitle: true,
+					hideTitleBar: true,
+					autoplay: 0,
+					onOpen: function() {
+						$('.ui-dialog').css({
+							position: 'fixed',
+							top: 100
+						});
+					}
+				});
+
+				$(".youtube-rel").YouTubePopup({
+					width: 908,
+					height: 540,
+					hd: true,
+					draggable: true,
+					useYouTubeTitle: true,
+					hideTitleBar: true,
+					autoplay: 0,
+					onOpen: function() {
+						$('.ui-dialog').css({
+							position: 'fixed',
+							top: 100
+						});
+					}
+				});
+			});
+		</script>
+
+			<!-- begin olark code -->
+			<script data-cfasync="false" type="text/javascript">
+				/*<![CDATA[*/window.olark||(function(c){var f=window,d=document,l=f.location.protocol=="https:"?"https:":"http:",z=c.name,r="load";var nt=function(){
+				f[z]=function(){
+				(a.s=a.s||[]).push(arguments)};var a=f[z]._={
+				},q=c.methods.length;while(q--){(function(n){f[z][n]=function(){
+				f[z]("call",n,arguments)}})(c.methods[q])}a.l=c.loader;a.i=nt;a.p={
+				0:+new Date};a.P=function(u){
+				a.p[u]=new Date-a.p[0]};function s(){
+				a.P(r);f[z](r)}f.addEventListener?f.addEventListener(r,s,false):f.attachEvent("on"+r,s);var ld=function(){function p(hd){
+				hd="head";return["<",hd,"></",hd,"><",i,' onl' + 'oad="var d=',g,";d.getElementsByTagName('head')[0].",j,"(d.",h,"('script')).",k,"='",l,"//",a.l,"'",'"',"></",i,">"].join("")}var i="body",m=d[i];if(!m){
+				return setTimeout(ld,100)}a.P(1);var j="appendChild",h="createElement",k="src",n=d[h]("div"),v=n[j](d[h](z)),b=d[h]("iframe"),g="document",e="domain",o;n.style.display="none";m.insertBefore(n,m.firstChild).id=z;b.frameBorder="0";b.id=z+"-loader";if(/MSIE[ ]+6/.test(navigator.userAgent)){
+				b.src="javascript:false"}b.allowTransparency="true";v[j](b);try{
+				b.contentWindow[g].open()}catch(w){
+				c[e]=d[e];o="javascript:var d="+g+".open();d.domain='"+d.domain+"';";b[k]=o+"void(0);"}try{
+				var t=b.contentWindow[g];t.write(p());t.close()}catch(x){
+				b[k]=o+'d.write("'+p().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}a.P(2)};ld()};nt()})({
+				loader: "static.olark.com/jsclient/loader0.js",name:"olark",methods:["configure","extend","declare","identify"]});
+				/* custom configuration goes here (www.olark.com/documentation) */
+				olark.identify('6260-696-10-8873');/*]]>*/
+				olark('api.box.shrink'); // make sure olark box gets shrunk right away
+			</script>
+			<noscript>
+				<a href="https://www.olark.com/site/6260-696-10-8873/contact" title="Contact us" target="_blank">Questions? Feedback?</a> powered by <a href="http://www.olark.com?welcome" title="Olark live chat software">Olark live chat software</a>
+			</noscript>
+			<!-- end olark code -->
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","licenseKey":"8c0ac1b7df","applicationID":"2236203","transactionName":"MwdVbRNSWUJSW01aCgpNYksIHEdDWk5YUBwUDVtQAkoZQVtI","queueTime":0,"applicationTime":55,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
+
+
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
