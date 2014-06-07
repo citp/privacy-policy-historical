@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3mindia.co.in privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207013836id_/http%3A//solutions.3mindia.co.in/wps/portal/3M/en_IN/World/Wide/3M/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3mindia.co.in privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607081202id_/http%3A//solutions.3mindia.co.in/wps/portal/3M/en_IN/World/Wide/3M/Privacy) for the most accurate reproduction.*
 
 # 3M India: Privacy Policy
 
