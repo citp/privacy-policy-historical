@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the ratedpeople.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819133142id_/http%3A//www.ratedpeople.com/m/legal/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratedpeople.com privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607063954id_/http%3A//www.ratedpeople.com/c/legal-2/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Home
 
-## 
+We absolutely respect your privacy. Rated People Ltd is registered with the Data Protection Agency (number: Z931442X) and we do not sell, trade or share personal information with organisations or individuals not connected with the Service. This section explains what information is stored and how it is used. It should be read in conjunction with our [User Agreements](http://www.ratedpeople.com/c/legal-2) and [Payment Terms](http://www.ratedpeople.com/c/legal-2/payment-terms).
 
-We absolutely respect your privacy. Rated People Ltd is registered with the Data Protection Agency (number: Z931442X) and we do not sell, trade or share personal information with organisations or individuals not connected with the Service. This section explains what information is stored and how it is used. It should be read in conjunction with our [User Agreements](https://web.archive.org/web/20130805041913id_/http://www.ratedpeople.com/legal/user-agreement) and [Payment Terms](https://web.archive.org/web/20130805041913id_/http://www.ratedpeople.com/legal/payment-terms).
-
-This Privacy Policy was last updated on 2nd April 2013.
+This Privacy Policy was last modified on 2 April 2013.
 
   1. Information that we collect and store
   2. How we use this information
@@ -16,6 +14,8 @@ This Privacy Policy was last updated on 2nd April 2013.
   6. Access to information
 
 
+
+* * *
 
 ## 1\. Information that we collect and store
 
@@ -33,21 +33,25 @@ Our mobile apps use Flurry and Google Analytics to gather generic data about usa
 
 back to top
 
+* * *
+
 ## 2\. How we use this information
 
-We check the accuracy of the information that you provide on registration and during your continued use of the Service and remind you of your obligations to provide accurate information to us as set out in clause 4 of our respective [User Agreements](https://web.archive.org/web/20130805041913id_/http://www.ratedpeople.com/legal/user-agreement). 
+We check the accuracy of the information that you provide on registration and during your continued use of the Service and remind you of your obligations to provide accurate information to us as set out in clause 4 of our respective [User Agreements](http://www.ratedpeople.com/c/legal-2). 
 
-As part of the process of verifying information provided by Trade Businesses we may carry out, either directly or via carefully selected and appropriately regulated third party data verification agencies, identity verification checks on you to verify the information you have provided to us. This may include cross-referencing the information you have provided with – by way of example - electoral roll data, passport data, DVLA data, credit file data etc, If you do not consent to such checks being carried out please do not register with us. 
+As part of the process of verifying information provided by Trade Businesses we may carry out, either directly or via carefully selected and appropriately regulated third party data verification agencies, identity verification checks on you to verify the information you have provided to us. This may include cross-referencing the information you have provided with – by way of example – electoral roll data, passport data, DVLA data, credit file data etc, If you do not consent to such checks being carried out please do not register with us. 
 
 We may use the contact information you provide to contact you via email, fax, post or telephone regarding your registration, or any other matter that we consider relevant to your use of our Service. 
 
 We make available anonymous details of a Project request to a limited number of suitable Trade Businesses. In the event that a Trade Business agrees to quote then contact information is forwarded to the Homeowner and Trade Business concerned. In addition any ratings and comments from Homeowners and Trade Businesses in relation to historic Projects are available for all users of the Website to see at any stage in the Project process.
 
-We may use any information we collect about you, including any information we may have obtained from your use of the Service, to resolve disputes, provide customer support, troubleshoot problems and enforce our [User Agreements](https://web.archive.org/web/20130805041913id_/http://www.ratedpeople.com/legal/user-agreement) and policies. We may look across multiple users to identify problems or resolve disputes. In the unlikely event that fees remain unpaid on the account of a Trade Business, we may pass your business information to a credit recovery company. 
+We may use any information we collect about you, including any information we may have obtained from your use of the Service, to resolve disputes, provide customer support, troubleshoot problems and enforce our [User Agreements](http://www.ratedpeople.com/c/legal-2) and policies. We may look across multiple users to identify problems or resolve disputes. In the unlikely event that fees remain unpaid on the account of a Trade Business, we may pass your business information to a credit recovery company. 
 
 We may disclose your personal data if we are compelled to do so by law, or in response to a valid, legally compliant request by a law enforcement or governmental authority. We may also disclose aggregated demographic and profile data (in which neither you nor any other individual is identified) to our commercial and marketing partners.
 
 back to top
+
+* * *
 
 ## 3\. Security measures
 
@@ -57,14 +61,19 @@ We use the latest 256-bit SSL encryption technology to endeavour to ensure that 
 
 back to top
 
+* * *
+
 ## 4\. Cookies
 
 This website uses cookies to identify repeat visitors. We protect your privacy by only storing a simple ID number and token string that is only meaningful to this website. Your personal details, such as your name or phone number, are not stored in a cookie. You may set your computer browser to reject cookies but this may preclude your use of certain parts of the Service.
 
-Third party vendors, including Google, show Rated People ads on sites on the internet and use cookies to serve ads based on a user's prior visits to this website.   
-Users may opt out of Google's use of cookies by visiting the [Google advertising opt-out page.](http://www.google.com/privacy/ads/)
+Third party vendors, including Google, show Rated People ads on sites on the internet and use cookies to serve ads based on a user’s prior visits to this website. 
+
+Users may opt out of Google’s use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/policies/technologies/ads/).
 
 back to top
+
+* * *
 
 ## 5\. Retention of your information
 
@@ -72,12 +81,14 @@ We will retain your personal information only as long as is necessary for the pu
 
 back to top
 
+* * *
+
 ## 6\. Access to information
 
-Please [contact us](https://web.archive.org/contact-us/contact-us-form) if you would like to know what information we are storing about you. We may ask for proof of identity before providing you with any information requested and reserve the right to refuse to provide information if identity is not established.
+Please [contact us](http://www.ratedpeople.com/contact-us) if you would like to know what information we are storing about you. We may ask for proof of identity before providing you with any information requested and reserve the right to refuse to provide information if identity is not established.
 
 Any changes to this policy will be posted on this Website.
 
-If you have any further comments or questions regarding our [User Agreement](https://web.archive.org/web/20130805041913id_/http://www.ratedpeople.com/legal/user-agreement) or [Payment Terms](https://web.archive.org/web/20130805041913id_/http://www.ratedpeople.com/legal/payment-terms) then please [contact us](https://web.archive.org/contact-us/contact-us-form) \- we're ready to help.
+If you have any further comments or questions regarding our [User Agreement](http://www.ratedpeople.com/c/legal-2) or [Payment Terms](http://www.ratedpeople.com/c/legal-2/payment-terms) then please [contact us](http://www.ratedpeople.com/contact-us) – we’re ready to help.
 
 back to top
