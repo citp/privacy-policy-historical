@@ -1,0 +1,136 @@
+> *The following text is extracted and transformed from the madeevent.com privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607022438id_/http%3A//www.madeevent.com/privacy.php) for the most accurate reproduction.*
+
+# Made Event Privacy Notice
+
+Made Event, LLC ("Made Event") is concerned about your privacy and we provide this privacy notice ("Notice") to inform you of our policies and procedures regarding the collection, use and disclosure of personal information and data we receive from users of some of the websites we own and/or operate, namely http://www.madeevent.com , http://www.sundayschoolfestival.com, http://www.electriczoofestival.com, and http://www.electriczoo.mx ("Site") and the other services, features, content and applications offered by us on the Site ("Services"). This Notice applies only to information collected through the Site and Services.
+
+By visiting this Site or using the Services, you are accepting the policies and practices described in this Notice, as such Notice may be amended from time to time. Each time you visit the Site or use the Services, you agree and expressly consent to our collection, use and disclosure of the information that you provide as described in this Notice.
+
+To be clear about the terminology we are using, when we use the phrase "Personal Information" in this Notice, we mean information about you that is personally identifiable, like your name, address, e-mail address, billing information, and phone number, as well as other non-public information that is associated with this personal information. When we use the phrase "Anonymous Information" in this Notice, we mean information that is not personally identifiable, or linked to your Personal Information such as aggregated information, general demographic information and IP addresses. Anonymous Information does not necessarily enable identification of individual persons.
+
+IF YOU ARE A USER ACCESSING THE SITE OR SERVICES FROM THE EUROPEAN UNION, ASIA, OR ANY OTHER REGION WITH LAWS OR REGULATIONS GOVERNING PERSONAL DATA COLLECTION, USE, AND DISCLOSURE THAT DIFFER FROM UNITED STATES LAWS, PLEASE BE ADVISED THAT THROUGH YOUR CONTINUED USE OF THE SITE AND SERVICES, WHICH ARE GOVERNED BY UNITED STATES LAW, THIS PRIVACY NOTICE, AND OUR TERMS OF USE, YOU MAY BE TRANSMITTING YOUR PERSONAL INFORMATION TO THE UNITED STATES AND YOU CONSENT TO THAT TRANSMISSION. ADDITIONALLY, YOU UNDERSTAND THAT YOUR PERSONAL INFORMATION MAY BE TRANSMITTED TO AND PROCESSED IN COUNTRIES (INCLUDING THE UNITED STATES) WHERE LAWS REGARDING PROCESSING PERSONAL INFORMATION MAY BE LESS STRINGENT THAN THE PROCESSING OF PERSONAL INFORMATION IN YOUR COUNTRY.
+
+* The Information We Gather 
+
+We collect information about you in a number of ways: 
+  * We collect and maintain information that you voluntarily submit to us during your use of the Site and Services. For example: 
+    * you may provide us with Personal Information in the course of email, text, use of customer support services or when you submit a post to a Forum; and
+    * if you purchase a product or service through the Site or one of the Services, we or a third party vendor may collect payment and/or credit card information on our behalf.
+
+You may choose not to provide us with certain information, but this may stop you from gaining access to a Service or limit the features that you can use.
+
+You may request data deletion. You may request that any Personal Information we receive from you be deleted from our database or that your wristband account be deleted. Please review the section below on Your Choices for further information.
+
+As you use the Site and Services, certain information may also be passively collected. Through technologies like cookies, pixels, beacons and log files, we may collect information about how you use the Services. Please see the sections below on Cookies and Log Data for more information.
+
+We may receive information from third parties. For example, we may receive Personal Information about you from social networking websites. In such a case, the third party will notify you that we will have access to your information and the governing privacy policy.
+
+
+
+* How We Use Your Information 
+
+We will use your Personal Information in the ways described below or described at the time that the information is collected.
+
+In general, we use your Personal Information as necessary or appropriate to: 
+
+  * provide you with customer support;
+  * register you and provide you with access to the Site or Services;
+  * perform the Services;
+  * respond to your inquiries or requests;
+  * send communications and administrative emails about the Site or Services;
+  * personalize and better tailor the features, performance and support of the Site and Services for your use;
+  * send you promotional/marketing information, newsletters, offers or other information from us or on behalf of our sponsors or partners;
+  * provide you with opportunities and functionality that we think would be of particular interest to you;
+  * improve the quality of the Site and the Services,
+  * contact you regarding your survey responses, or your promotion, sweepstakes or contest entry; and
+  * analyze, benchmark and conduct research on, user data and user interactions with the Services
+
+
+
+Log Data. When you use the Site and Services, our servers automatically record information from your browser ("Log Data"). This Log Data may include information such as your computer's Internet Protocol address (more commonly known as an IP address), browser type, the webpage you were visiting prior to your arrival at the Site, the pages of our Site that you visit, the time spent on those pages, access times and dates, and other statistics as well as the unique identifier for your computer, mobile phone or any other electronic device used to access the Site or Service. We use this information to monitor and analyze use of the Site and Services, for their technical administration, to increase their functionality and user-friendliness, and to better tailor them to the needs of our Users. We also use this information to verify that visitors to the Site and users of the Services meet the criteria required to process their requests. We do not treat Log Data as Personal Information or use it in association with other Personal Information, though we may aggregate, analyze and evaluate such information.
+
+Cookies: Like many websites, we use "cookies" to collect information. A cookie is a small data file that we transfer to your browser for record-keeping purposes. We use cookies for two purposes. First, we may utilize persistent cookies to save your registration information. Second, we utilize session ID cookies to enable certain features of the Services, to better understand how you interact with the Services and to monitor aggregate usage and web traffic routing on the Site and Services. Unlike persistent cookies, session cookies are deleted from your computer when you log off from the Site and then close your browser. Third party advertisers on the Site may also place or read cookies on your browser. You can reset your browser, by changing its options to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions or functionalities of the Site or Services. Any Personal Information gathered through the use of cookies is subject to the same efforts to protect your privacy as outlined above.
+
+* How We Share and Disclose Information 
+
+We know how important it is to keep your information confidential. We will not rent, sell or share your Personal Information with third parties except as specifically approved or under the circumstances described below. If you do not want us to use or disclose Personal Information collected about you in the ways identified in this Notice, you may choose not to provide your Personal Information or you may choose not to use the Site or Services.
+
+Users. Any information you choose to share should reflect how much you want Made Event, other users, and third parties to know about you. We recommend that you guard your anonymity and Personal Information and we encourage you to think carefully about what Personal Information you disclose through these platforms.
+
+Service Providers. We may employ third party companies and individuals to facilitate or enhance our Site or Services, to provide the Services on our behalf, to perform tasks (e.g., without limitation, maintenance services, database management, web analytics and improvement of the Site or Services) or to assist us in analyzing how our Services are used. These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose it or use it for any other purposes.
+
+Sponsors. We may collect Personal Information about you and share it with third parties to the extent that you give us permission at the time of collection. For example, we sometimes gather Personal Information that is then shared with a sponsor of an event. In such a case, we will provide you with notice at the time of collection that the information will be shared with the sponsor and link to the sponsor's privacy policy.
+
+Affiliate Site or Service. When you access a website or communicate with or use an application (mobile or otherwise) operated by any entity other than us (e.g., the iTunes App Store), a social networking site such as Facebook or Twitter, or one of our sponsors, venues or promoters) through our Site, the website or service is known as an Affiliate Site or Service. Unless we clearly indicate otherwise at the time of collection, we do not share Personal Information with Affiliate Sites or Services. Your use of the Affiliate Sites and Services is your choice, and you should be aware that our Affiliate Sites and Services may collect information about you. Accordingly, if you use an Affiliate Site or Service, you should consult that Affiliate's privacy policy before providing Personal Information. Some of our Affiliates, may create "co-branded pages" or "powered by" pages for our Services. These might include pages that share our name and that of another entity. There may be a specific privacy policy on any such co-branded page. Any Personal Information that you provide when you sign up at any co-branded page may be collected by, or shared with, our third party Affiliate. Please see the Affiliate Site's privacy policy to better understand what information is collected, how it is used and shared, and your choices regarding control.
+
+Aggregated, Anonymous Information. Aggregated Anonymous Information is the combination of your Anonymous Information with the Anonymous Information of other users. Aggregated Anonymous Information does not allow you to be identified or contacted. We may share such Aggregated Anonymous Information with third parties, and, depending on the circumstances, we may or may not charge third parties for such information, or limit the third parties' use of the same.
+
+Compliance with Laws and Law Enforcement. We will disclose any information about you to government or law enforcement officials or private parties as we in good faith believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to comply with applicable laws, to protect the property and rights of Made Event, you or a third party, to protect the safety of the public or any person, or to prevent or stop activity we may consider to pose a risk of being, or is illegal, unethical or legally actionable.
+
+Within our Company; Changes to our Company. We may share all or some of your Personal Information with any of our subsidiaries, joint ventures, or other companies under common control, in which case we will require them to honor this Notice. Additionally, in the event we go through a business transition such as a merger, acquisition by another company, or sale of all or a portion of our assets, your Personal Information may be among the assets transferred. You acknowledge that such transfers may occur and are permitted by this Notice, and that any entity that acquires us, is merged with us or that acquires our assets may continue to process your Personal Information as set forth in this Notice.
+
+Online Surveys/Sweepstakes and Contests. From time to time, we conduct online surveys and offer sweepstakes or contests on the Site (each, a "Promotion"), and we may collect Personal Information in connection with the same. We may use your Personal Information to contact you regarding your Promotion entry, or to contact you if you win a Promotion (if applicable). You should carefully review the rules, if any, of each Promotion in which you participate through the Site, as they may contain additional important information about the use of your Personal Information. To the extent that such rules conflict with this Notice, such rules will govern that particular Promotion.
+
+* Forums, Message Boards and Chats 
+
+We may make message boards, chat rooms, and other interactive forums available as Services on the Site. You should be aware that any information which you post to these interactive forums or otherwise choose to make publicly available, including your Personal Information, may be disclosed and available to all users who have access to that portion of the Service, and is no longer private and confidential. You should be aware that any Personal Information you submit in the course of these public activities can be read, collected, or used by other users, and could be used to send you unsolicited messages. We are not responsible for the Personal Information you choose to submit in these forums. If you post a video, image or photo on the Site for public view you should be aware that these may be viewed, collected, copied and/or used by other users without your consent. By using these interactive forums, you agree that we are not responsible for any information that you disclose or communicate in such forums, and any disclosures you make are at your own risk. Please be thoughtful about what you post and make publicly available through the Services. We may maintain copies of any information you post indefinitely, or delete certain information in whole or in part if we determine, in our sole discretion, that such information constitutes an infringing or a prohibited posting as described in our Terms of Use, or for any or no reason. You are solely responsible for your interactions with others you interact with in our Services. You understand and agree that we do not screen our users, nor do we inquire into the backgrounds or attempt to verify the statements of our users, except as provided for herein with respect to children less than 13 years of age. You agree to take reasonable precautions in all interactions with other users of our Services. You should not provide financial information (for example, your credit card information or bank account information) to other users of our Services.
+
+* Children's Information 
+
+The Site is not directed or intended for children under 13 years of age. We do not knowingly collect or solicit Personal Information from individuals under 13 years of age. No one under age 13 may provide any Personal Information to or on the Site. If you are under 13 years of age, you should not register or provide Personal Information through the Site. If we later obtain actual knowledge that a user is under 13 years of age, we will take steps to remove that user's Personal Information from our systems. If you are the parent or guardian of a child whom you believe has disclosed Personal Information to us, please contact us at [privacy@madeevent.com](mailto:privacy@madeevent.com) so that we may delete and remove such child's information from our systems.
+
+We strongly recommend that minors 13 years of age or older ask their parents for permission before sending any information about themselves to anyone over the Internet and we encourage parents to teach their children about safe Internet use practices.
+
+If you believe that we might have any information from a child under age 13, please contact us via email at [privacy@madeevent.com](mailto:privacy@madeevent.com)
+
+* Social Media and Online Engagement 
+
+We use a variety of new technologies and social media options to communicate and interact with our users. These sites and applications include popular social networking and media sites, open source software communities and more. To better engage the public in ongoing dialog, we use several third-party platforms including, but not limited to, Facebook, Twitter, YouTube, Disqus, Wufoo and Olapic . "Third-Party Websites and Applications" are Web-based technologies that are not exclusively operated or controlled by us. When interacting with the Made Event presence on those websites, you may reveal certain Personal Information to us or to third parties.
+
+* Other Third Party Links 
+
+The Site and Services may link to websites operated by third parties that we do not control, including the Third Party Websites and Applications described above. This includes any websites that you linked to from advertisements that appear on the Site. We do not monitor, control, or endorse the information collection or privacy practices of any third parties. We encourage you to become familiar with the privacy practices of each website you visit and to contact them if you have any questions about their respective privacy policies and practices. This Notice applies solely to information collected by us through the Site or Services and does not apply to these third party websites. The ability to access information of third parties from the Site or Services, or links to other websites or locations, is for your convenience only and does not signify our endorsement of such third parties, their products, services, websites, locations or their content.
+
+* Ad Networks and Third Party Cookies 
+
+We may have agreements with companies, sometimes called "Ad Networks" that serve advertising on the Site on behalf of third parties. These Ad Networks may place or recognize a "third party cookie," on your browser. Ad Networks use cookies to understand the Web usage patterns of people who see advertisements, to control the sequence of advertisements you see, to provide you with the most relevant advertising, and to make sure you do not see the same ad too many times. Ad Networks may connect information about pages you visit through our Services with information about pages you visit on other sites and show you advertising based on this combined information. We do not control Ad Networks or what they do with the information they collect. Many Ad Networks participate in the Network Advertising Initiative (NAI) and abide by NAI principles, which prohibit members from connecting Personal Information to information they collect through cookies without your explicit consent. If you wish to opt out of participating in advertising programs conducted by NAI member Ad Networks, please go to the NAI Opt-Out site site and follow the instructions on that site. After you opt-out, you will still see advertisements from NAI member Ad Networks, but the advertising will not be tailored to your web preferences and usage patterns.
+
+Google Analytics. This Site uses Google Analytics, a website analysis service by Google Inc. ("Google"). Google Analytics uses "cookies" to analyze your use of the Site. The information generated by the cookie about your use of the Site is sent to and stored at a Google server in the U.S. Google will use this information to evaluate your use of the Site, to compile reports on Site activities for website operators and to provide other services related to Site and Internet activities. Google will not associate your IP address with any other data held by Google. You can prevent the installation of cookies by adjusting the settings of your browser; however, if you do so, you may be unable to use all features of this Site. Further, you can prevent the collection of data generated by cookies and related to the use of this website by downloading and installing the "plug-in" located at the following link: http://tools.google.com/dlpage/gaoptout.
+
+Google AdSense. This Site uses Google AdSense, a Google service to embed commercial information. Google Adsense uses "cookies" to analyze the use of the Site. Further, Google AdSense also uses web beacons (invisible images). These web beacons help process information, such as visitor traffic, on this Site. The information generated by cookies and web beacons about your use of this Site (including your IP address) is sent to and stored at a Google server in the U.S. Google may also transfer this information to their contractual partners. However, Google will not associate your IP address with any other data stored at Google. You can prevent the installation of cookies by adjusting the settings of your browser; however, if you do so, you may be unable to use all features of this Site. By using this Site you agree to the processing of the collected information by Google, according to the above mentioned purpose.
+
+* Security and Data Retention 
+
+Made Event is very concerned with safeguarding your information. We employ administrative, physical and electronic measures designed to protect your information from unauthorized access. We will make any legally required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored "personal data" (as defined in applicable state statutes on security breach notification) to you via email or conspicuous posting on the Services in the most expedient time possible and without unreasonable delay, insofar as consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system. Although "guaranteed security" does not exist either on or off the Internet, we make commercially reasonable efforts to make the collection and security of such information consistent with this Notice and all applicable laws and regulations.
+
+We will retain your Personal Information only for as long as necessary to fulfill the purpose(s) for which it was collected and to comply with applicable laws and your consent to such purpose remains valid after termination of our relationship with you.
+
+* Your Choices Remember, you have several choices available when it comes to your Personal Information: 
+
+  * Limit the Personal Data You Provide. You can still use the Site without providing any Personal Information or by limiting the Personal Information you provide. If you choose not to provide any Personal Information or limit the Personal Information you provide, you may not be able to use certain Site functionality and/or Services, including all the user benefits of the RFID wristband.
+  * Opt-Out. When you supply us with Personal Information, you may be asked to indicate whether you are interested in receiving information from us about special offers in connection with the Site and Services, and/or our advertisers, sponsors or partners.
+  * In all promotional emails, you will be given the opportunity to opt out of receiving such messages in the future by clicking on the link at the bottom of the email that says "unsubscribe." It may take up to 10 days for us to process an opt-out request.
+
+
+
+Even if you have unsubscribed from receiving promotional emails from us, we may send you other types of important e-mail communications without offering you the opportunity to opt out of receiving them. These may include customer service announcements, administrative notices and surveys.
+
+* Your California Privacy Rights 
+
+Under California's "Shine the Light" law, California residents have the right to request in writing from businesses with whom they have an established business relationship (1) a list of the categories of Personal Information, such as name, address, e-mail address, and the type of services provided to that customer, that a business has disclosed to third parties (including affiliates that are separate legal entities) during the immediately preceding calendar year for the third parties' direct marketing purposes, and (2) the names and addresses of all such third parties. To request the above information, California residents please email us at [privacy@madeevent.com](mailto:privacy@madeevent.com)
+
+* Contacting Us If you have any questions about this Privacy Notice, please contact us at: [privacy@madeevent.com](mailto:privacy@madeevent.com) or at:
+
+Attn: Privacy Matters
+
+Made Event, LLC  
+c/o SFX Entertainment, Inc.  
+430 Park Avenue  
+6th Floor  
+New York, NY 10019
+
+* Privacy Notice Changes 
+
+We reserve the right to change, modify, add or remove portions of this Notice at any time and without prior notice, and any changes will become effective immediately upon being posted unless we advise you otherwise. However, we will not use your Personal Information in a way that is materially different from the uses described in this Notice without giving you an opportunity to opt-out. Your continued use of the Site or Services after this Notice has been amended shall be deemed to be your continued acceptance of the terms and conditions of the Notice, as amended. We encourage you to bookmark this Web page and review this Notice regularly.
+
+Copyright © 2014 Made Event, LLC. All Rights Reserved. 
