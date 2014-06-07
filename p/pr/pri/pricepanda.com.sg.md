@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pricepanda.com.sg privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207055645id_/http%3A//www.pricepanda.com.sg/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pricepanda.com.sg privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607072034id_/http%3A//www.pricepanda.com.sg/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | visit PricePanda Singapore
 
-PRICEPANDA.COM.SG ("SITE") IS CREATED AND REGISTERED UNDER THE JADE 1367. GmbH. WE SUGGEST EVERYONE TO READ THE FOLLOWING PRIVACY POLICY. BY ACCESSING THE SITE AND USING THE WEB AND MOBILE SERVICES PROVIDED BY PRICEPANDA.COM.SG ("SERVICE"), YOU AGREE TO BE BOUND BY THE TERMS AND CONDITIONS DESCRIBED HERE, INCLUDING ANY FUTURE MODIFICATIONS TO THESE TERMS OF SERVICES AND GUIDELINES. IF YOU DO NOT AGREE TO ANY OF THE AGREEMENTS STATED HERE, PLEASE CEASE USING THE SERVICE IMMEDIATELY. 
+PRICEPANDA.COM.SG ("SITE") IS CREATED AND REGISTERED UNDER Pricepanda Group GmbH. WE SUGGEST EVERYONE TO READ THE FOLLOWING PRIVACY POLICY. BY ACCESSING THE SITE AND USING THE WEB AND MOBILE SERVICES PROVIDED BY PRICEPANDA.COM.SG ("SERVICE"), YOU AGREE TO BE BOUND BY THE TERMS AND CONDITIONS DESCRIBED HERE, INCLUDING ANY FUTURE MODIFICATIONS TO THESE TERMS OF SERVICES AND GUIDELINES. IF YOU DO NOT AGREE TO ANY OF THE AGREEMENTS STATED HERE, PLEASE CEASE USING THE SERVICE IMMEDIATELY. 
 
   
 
