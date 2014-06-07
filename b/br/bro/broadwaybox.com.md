@@ -1,61 +1,206 @@
-> *The following text is extracted and transformed from the broadwaybox.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124084708id_/http%3A//www.broadwaybox.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadwaybox.com privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607075725id_/http%3A//www.broadwaybox.com/learn-more/privacy) for the most accurate reproduction.*
 
-# BroadwayBox.com free Broadway discount codes : Privacy
+# Privacy Policy | BroadwayBox - BroadwayBox | Discount Broadway Tickets
 
----  
-  
-#####  Your use of the BroadwayBox.com Web site constitutes your agreement to this privacy policy and consent to the terms herein. Please see the section labeled "Information We Collect and How We Use It" to learn more about our collection and use of user information. Please be aware that this site is not intended for children under the age of 13.  
-  
-**Introduction**  
-  
-#####  BroadwayBox.com is committed to safeguarding the privacy of visitors to our Web site and users of the other services available through our site (the "Service(s)"). We will use our best efforts to ensure that the information you provide us remains private and is used only for the purposes set forth herein.  
-This privacy policy details our commitment to protect your information and the limited manner in which we will use that information to provide and improve our provision of the Services.  
-  
-**Important Terms Used Throughout This Privacy Policy**  
-  
-#####  Throughout this privacy policy we use several specialized terms. "Personally Identifiable Information" is information that tells us specifically who you are, like your name, street address, email address, billing address, credit card number and expiration date. "User Information" means all Personally Identifiable Information and any other forms of information discussed in this privacy policy, including the Internet Protocol (IP) address of a user's computer. We use the term "aggregate" when we combine information from various persons or users. Information is said to be "anonymized" if it does not identify individual persons or entities or associate a particular person or entity with such information.  
-  
-**Information We Collect and How We Use It**  
-  
-#####  If you visit our site to browse. We will only collect and store the domain name and host from which a user accessed the Internet (e.g., aol.com), the IP address of the user's computer, the user's browser software and operating system, the date and time the user accesses the site and the Internet address of any Web site from which the user linked directly to our site or to which the user links after visiting our site. We use this information to measure the number of visitors to sections of our sites, to determine from where our visitors linked and to where our visitors link from the sites and to help us make our sites more useful. For example, we organize and analyze IP addresses so that we can provide efficient service, enhance security, monitor appropriate usage and produce traffic volume statistics. We will also collect other information you volunteer to us through use of our service, such as the information you include in your Reminders. You may always choose not to provide such voluntary information to us; however, this may limit our ability to provide you with a specific service or particular content. This type of information is sometimes shared with third parties, such as when we aggregate and disclose site traffic information for marketing and commercial purposes. When we share such information with third parties we will require them to abide by the standards of this privacy policy.  
-To make full use of our Services you will need to complete our registration process. We collect and store the Personally Identifiable Information you provide through this registration process, including your user ID and password, which we may elect to provide for you. If you engage in a transaction while logged on to our site, then we collect and store information about the transaction. If you send us communications, then we may collect such communications in a file specific to you.  
-When we send messages to you or others, we may provide a URL link to our site that contains an alphanumeric identifier, which allows us to identify the person to whom we sent the message so that we can personalize our content for that individual.  
-We use pixel tags to gather information about the e-mails we send to our users and to recipients of messages. Pixel tags are tiny graphic files, not visible to the human eye, that are included in our html-encoded e-mail messages. When such a message is opened in an html-capable e-mail program, the recipient's computer will access our server to retrieve the pixel tag file, allowing us to record and store, along with your e-mail address, the date and time the recipient viewed the email, that the recipient's e-mail program is capable of receiving html-encoded e-mail, and other standard logging information. The pixel tag also may see or read cookies.  
-We use the information we collect from you as a registered user to build features that we hope will make the Services more attractive and easier for you to use. This may include better customer support and timely notice of new services. We may share User Information with our partners, affiliates and joint ventures that are committed to serving your need for the Services and improving your user experience, but will require such third parties to abide by the standards of this privacy policy. We may also share aggregate anonymized data relating to activity on the site and use of the Services, such as demographical and statistical information, for marketing, research and other purposes. Furthermore, we may need to disclose User Information to law enforcement or other government officials if appropriate for your protection or in connection with an investigation of fraud, intellectual property infringement or other activity that is illegal or may expose us or our users to legal liability.  
-  
-**If You Do Not Wish to Disclose User Information**  
-  
-#####  If you do not want to provide us with certain User Information then you may opt out by not using the Service that provides us with such User Information. For example, if you do not want us to retain your name, then you may choose not to become a registered user. You will not be entitled to the benefits of registration, but you are still free to browse the site and to visit the parts of the site accessible to non-registrants.  
-  
-**Cookies**  
-  
-#####  Cookies are small text files that our site can send to your browser for storage on your hard drive. Cookies can make your use of our site easier by saving your status and preferences upon visits to our site. The cookies are refreshed every time you enter the site. Most browsers are initially set to accept cookies, but you may be able to change the settings to refuse cookies or to be alerted when cookies are being sent. We use cookies for two purposes: (1) to enable BroadwayBox.com to customize information for certain segments of its customer base; and (2) in some instances, to associate you with your User Information. For example, through the use of cookies you may login automatically and thereby save you time. Although rejection of cookies will not interfere with your ability to interact with most of our site, you will need to accept cookies in order to login and use certain interactive Services on the site.  
-  
-**Control of Your Password**  
-  
-#####  Except as specifically permitted by this privacy policy or your User Agreement you may not disclose your BroadwayBox.com password to any third parties nor share it with any third parties. If you lose control of your BroadwayBox.com password you may lose control over your Personally Identifiable Information, and you will be responsible for any legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately change your password or, if we provided your password, notify BroadwayBox.com so that we may issue you a new password.  
-  
-**Removal or Correction of Personally Identifiable Information**  
-  
-#####  Upon your request, we may remove your Personally Identifiable Information from our database and correct any errors you identify in such information. If Personally Identifiable Information is removed you will lose access to the parts of the site for which you must provide such Personally Identifiable Information to gain access. After removal, we will only retain copies of such information as are necessary for us to comply with governmental orders, resolve disputes, troubleshoot problems, enforce any agreement you have entered into through our sites and as otherwise reasonably necessary. Any Personally Identifiable Information provided as a part of a transaction on the site represents a record of that business transaction that cannot be altered after the transaction is complete.  
-  
-**Third Parties**  
-  
-#####  This privacy policy only addresses the use and disclosure of User Information collected by BroadwayBox.com. If you disclose information to other parties, different rules may apply to their use or disclosure of such information regardless of their affiliation or relationship with BroadwayBox.com. Because BroadwayBox.com does not control the privacy practices of third parties you are subject to the privacy customs and policies of those third parties. When you link to another Web site, you are subject to the privacy policy of that Web site. We encourage you to ask questions and review the applicable privacy policy before you disclose your personal information to third parties.  
-We do not try to control, and disclaim responsibility for, information provided by other users or third parties that is made available through our site. Such information may contain errors, intentional or otherwise, or may be offensive, inappropriate or inaccurate, and in some cases will be mislabeled or deceptively labeled.  
-  
-**Security**  
-  
-#####  This site has industry standard security measures in place to protect the loss, misuse and alteration of the information under our control and we make good faith efforts to store the information collected by us in a secure operating environment that is not available to the public, but we cannot guarantee complete security.  
-  
-**Merger, Assets, Sales, etc.**  
-  
-#####  If BroadwayBox.com or any of its lines of business is sold, pledged or disposed of as a going concern whether by merger, sale of assets, bankruptcy or otherwise, then the user database of BroadwayBox.com could be sold as part of that transaction and all User Information accessed by such successor or purchaser.  
-  
-**How do I Contact BroadwayBox.com**  
-  
-#####  If you have any questions regarding this privacy policy you can email BroadwayBox.com at [customerservice@broadwaybox.com](mailto:customerservice@broadwaybox.com).  
-  
-**Miscellaneous**  
-  
-#####  BroadwayBox.com may from time to time change this privacy policy with or without notice, so please check it regularly for any changes or updates. For future reference, BroadwayBox.com will make a link to the current privacy policy available to you on your screen when you are on our Web site. Your use of the site constitutes your agreement to this privacy policy and your assent to any modification thereto.
+BroadwayBox, Inc.
+
+## Privacy Policy
+
+**1\. Why We Have Instituted This Privacy Policy.** BroadwayBox, Inc. and its affiliated companies (“BroadwayBox”, “Us”, “We”, “Our”) have created this Privacy Policy ("Policy") to be as transparent as possible with regard to how we obtain, maintain, and ultimately use information provided to Us by consumers like You ("You", “Your”, "Yours"). The Policy applies to all information provided to Us by You through any means. For purposes of illustration only, this Policy applies to all users of our Sites, our mobile application(s) (e.g. iPad app), Our services available via telephone and those transactions that take place in person, by postal or electronic mail (collectively, "Site", "Sites" or "Our Sites"). 
+
+**2\. Where this Policy Applies.** Transactions that transpire on Our Sites occur within the United States of America ("USA"). This Policy applies to the privacy and other laws and regulations of the USA. BroadwayBox makes no representation or warranty that Our Sites or services operate in accordance with the laws of any other nation, or that they or any part thereof, is appropriate for use in any particular nation or political subdivision (collectively referred to as "Nation"). Those who access and use Our Sites from another Nation does so at his or her own initiative and risk and are responsible for complying with all local laws, rules and regulations of the Nation from which Our Sites are accessed. Your use of Our Sites is Your acknowledgement that Our Sites and the products and services rendered by Us are subject to the laws and regulations of the USA, and You specifically waive any right to pursue claims that may arise under the laws of Your home Nation or the Nation from which You access this Site. 
+
+We reserve the right to change, modify, add, or remove ("Change") provisions of this Policy and We will endeavor to notify You of any such Change by posting a notice conspicuously in one of more of the following places: the home page of all of Our websites or the opening screen of any mobile device to which this Policy applies. Any such Change shall be effective immediately. Please check back from time to time to ensure continuing familiarity with the most current version of Our Policy. You can determine whether this Policy has been revised since your last visit by referring to the "Last Updated" legend at the bottom of this page. 
+
+**3\. Your Consent.** Please read this Policy carefully. Your use of this Site constitutes your acceptance of the terms and conditions of this Policy without limitation, qualification or change. Your continued use of Our Sites or Our non-electronic services (e.g. in-person box office sale) is Your consent to be bound by the terms and conditions of this Policy and Your promise to abide by the practices we describe herein, in our printed materials, and in other places on Our Sites. If you do not agree with this Policy or any other policy on our Sites, or in our printed materials, do not use our services or Sites. 
+
+**4\. What Information We Collect.** BroadwayBox uses SSL or "Secure Sockets Layer", an industry standard protocol, for completing online transactions including when We gather information from You. We collect two (2) types of information from you through the use of our Site: "Personally Identifiable Information" (or "PII") and "Non-Personally Identifiable Information" (or "Non-PII"). 
+
+A. 
+
+_Personally Identifiable Information Includes._
+
+PII is information that identifies or can identify you as an individual, such as your name, residential address, city, state and zip code, birth year, email address and billing information. In some cases, depending upon the technology You employ to gain access to the Internet and ultimately, Our Sites, your Internet Protocol ("IP") address may be deemed by some jurisdictions as PII.   
+B. 
+
+_Non-Personally Identifiable Information._
+
+Non-PII is anonymous and does not identify you personally. Non-PII is generally collected through the Site from four different sources: Internet protocol addresses and web logs; cookies; pixel tags and other similar technologies; and other Non-PII that you voluntarily provide (as explained below). When you visit and interact with the Site, BroadwayBox and third parties with whom BroadwayBox has contracted to provide services to BroadwayBox may collect Non-PII (for example, a catalog of the Site pages you visit).   
+i. 
+
+_IP Protocol Addresses and Web Logs._
+
+This Site's web servers automatically collect the Internet Protocol (IP) addresses and log files of visitors. Your IP address is an identifying number that is automatically assigned to your computer by your Internet Service Provider (ISP). This number is identified and logged automatically in our server log files whenever you visit the Site, along with the time(s) of your visit(s) and the page(s) that you visited. This information is collected in an aggregate form only and does not contain any PII. We use your IP address, and the IP addresses of all users, for purposes such as calculating Site usage levels, helping diagnose problems with the Site's servers, and administering the Site. Collecting IP addresses is standard practice on the Internet and is done automatically by many Sites. In addition to the Non-PII usage of IP Addresses described above we also may link your IP address to personally identifiable information for fraud prevention purposes.   
+ii. 
+
+_Pixel Tags._
+
+We and our service providers may also use so-called "pixel tags," "web beacons," "clear GIFs" or similar means (collectively, "Pixel Tags") in connection with some Site pages and HTML-formatted email messages to track your use of our Site in order to provide you with more useful information and a more personalized experience the next time you visit. A Pixel Tag is an electronic image, often a single pixel (1x1), that is ordinarily not visible to Site visitors and may be associated with cookies on the visitors' hard drives. Pixel Tags do not contain any PII and allow us to count users who have visited certain pages of the Site, to deliver branded services, and to help determine the effectiveness of promotional or advertising campaigns. When used in HTML-formatted email messages, Pixel Tags can tell the sender whether and when an email has been opened.   
+iii. 
+
+_Cookies._
+
+We and our third party service providers may use a standard technology called a "cookie" to collect information about how you use the Site. Cookies reside on your computer and help the Site recognize your computer's browser as a previous visitor. On occasion our Site may also set a "session cookie" which helps us administer the Site. The session cookie expires when you close your browser and does not retain any information about you after it expires. If you do not want information collected through the use of cookies, you should be able to modify your browser preference to provide you with choices relating to cookies. If you choose to reject cookies, you may be unable to use certain Site services (e.g., those services that require you to log on to the Site in order to participate). Understand that technology is ever changing and We move forward and employ the latest forms of technology to assist Us in providing Our customers with better experiences. This may include the future use of behavioral marketing and cookies associated therewith. 
+
+**5\. How Information We Collect Is Used.** We know you want your PII information you share with Us to be protected from unauthorized use. That’s why we take appropriate security measures to help safeguard this information from unauthorized access and disclosure. For example, only employees integral to providing you with the product(s) or service(s) you request from Us are permitted to access your personal information, and they may do so for limited reasons. We encrypt credit card numbers and other sensitive information before it is sent from your computer to ours. We also use firewalls to help prevent unauthorized access to your personal information. 
+
+We want for you to feel confident when using our Site. However, you should know that no system is completely secure. Although We use industry accepted and commercially reasonable efforts to secure your information, there is always a chance that it will not always remain secure. For example, avoid sending personal information through insecure email. We will not ask for you to send Us any financial information via electronic mail. 
+
+A. 
+
+_Non-Personally Identifiable Information._
+
+We may use Non-PII to measure the number of visits to, and, average time spent on, the Site, the pages viewed as well as to diagnose problems with our servers and to administer the Site in general. The resulting information may be used to analyze and improve the features and functionality of the Site. We may use non-PII information about you and other Site visitors to sell and deliver advertising, promotions and content that we believe will be of interest to you. 
+
+We reserve the right to share such Non-PII, with third parties, for example, advertisers, who are not part of the BroadwayBox family on an aggregate or other basis that does not disclose any of your PII. In some instances, we may combine your Non-PII with PII (such as embedding email addresses in cookies). If we do combine any Non-PII with PII, the combined information will be treated as PII. This "combined" PII is not shared with third parties, except as described in this Policy. 
+
+B. 
+
+_Personally Identifiable Information, i. Site._
+
+The PII you provide may be used to tailor your Site experience to your interests, to show you content in which you may be interested and to display the content according to your preferences. We may also share your PII within the BroadwayBox business family in order to enhance your experience on other websites that are part of our business family. To the extent we do so, we make sure that your PII receives the same level of protection as it does on BroadwayBox.com. All companies affiliated with BroadwayBox comply with applicable privacy and security laws within the US and, at a minimum, in any commercial email they send to you, will give you the opportunity to choose not to receive such email messages in the future. Please note that such sharing may involve the collection use, storage, or disclosure of PII outside the US. 
+
+ii. 
+
+_Communications._
+
+If you complete a ticket purchase on our Sites, you may be automatically enrolled to receive future communications from BroadwayBox including our newsletter. Unless you opt out, we may use your PII to send you information about BroadwayBox, its services, as well as promotional material on behalf of companies within our business family and select partners. 
+
+iii. 
+
+_Administrative Matters._
+
+BroadwayBox reserves the right to contact you in the event of a change in the Policy or to notify you of other administrative matters in connection with the Site (e.g., contacting you to facilitate, complete or confirm a transaction). Because this information may be important to your use of the Site, you may not opt-out of receiving such communications. 
+
+iv. 
+
+_Fulfillment of Requests._
+
+BroadwayBox may use your PII to fulfill the purpose for which such PII was provided (e.g., to confirm your registration). Once you have registered with Our Site, forms may sometimes be pre-populated with your PII in order to facilitate a transaction between you and BroadwayBox on subsequent visits. 
+
+v. 
+
+_Internal Business Purposes._
+
+We may also use your PII for our internal business purposes, such as to target advertising, for data analysis, for audits, for fraud prevention and for other internal purposes. 
+
+vi. 
+
+_Purchases._
+
+This Site may offer merchandise and/or other products or services for sale from one of our e-commerce partners. To the extent the merchandise and/or ticket purchase services are offered by one of our e-commerce partners, such e-commerce partner will be collecting and using the PII you provide. For more information regarding your transactions with our e-commerce partners, please refer to Section 7(b) below. 
+
+To the extent that we are offering the purchase services, when you make a purchase through Our Sites, we will collect your credit card number or other payment account number (for example, your PayPal account number), billing address (including zip code) and other information related to such purchase (collectively, "Payment Information") from You. We will use the Payment Information for billing and fulfillment purposes. We may also use your Payment Information to allow us to confirm your purchase, deliver tickets and/or receipts to you, respond to customer service requests, review and enforce limits on the number of tickets purchased per event and to help prevent credit card fraud. By providing your Payment Information, you are authorizing us to share such information with certain third parties (e.g., to process your credit card or payment account number and to send you products you have ordered). 
+
+vii. 
+
+_Online Surveys and Sweepstakes._
+
+On occasion, we may conduct online surveys and/or offer sweepstakes on the Site (each referred to as a "Promotion"), and we may collect PII when doing so. We may use your PII to contact you regarding your Promotion entry, or to contact you if you win a Promotion (if applicable). You should carefully review the Promotions rules (if applicable) in which you participate through the Site, as they may contain additional important information about BroadwayBox's use of your PII. To the extent such rules conflict with this Policy, such rules will govern that particular Promotion. 
+
+**6\. How Personally Identifiable Information We Collect Is Disclosed**
+
+A. 
+
+_Affiliate Communications and Third Party Communications._
+
+Unless you opt out, we may share your PII with our affiliates, including venues, promoters or sponsors of events, artist representatives and fan clubs, teams, leagues and others who are involved in or bring you events. When you buy or sell tickets or bid in an auction on our Site (or try to do these things), you consent to allow us to provide your PII to these event providers and their contractors. We share this information so these event providers may send you announcements and notifications of events, products or services that might be of interest to you. For further information, please see the "Opt-Out Policy" section below. 
+
+B. 
+
+_BroadwayBox Service Providers._
+
+We work with third parties who provide services including but not limited to data analysis, order fulfillment, credit card processing and other services of an administrative nature. We want for you to know that we reserve the right to share your PII with such third parties for the purpose of enabling these third parties to provide such services to us so that we may provide our services and/or merchandise. We take reasonable steps to ensure these third parties treat PII in a manner comparable to how we do so. 
+
+C. 
+
+_Online Surveys/Sweepstakes._
+
+We may share PII collected in connection with Promotions conducted through Our Sites with the third-party sponsor(s) and/or the prize provider(s) of any such Promotions (irrespective of whether such Promotions are hosted by Us), or otherwise in accordance with the rules applicable to such Promotion. You should carefully review the rules, if any, of each Promotion in which you participate through the Site, as they may contain additional important information about a sponsor's or other third parties' use of your PII. To the extent such rules conflict with this Policy, the rules of the particular Promotion shall apply. 
+
+D. 
+
+_Other Purposes._
+
+We also may disclose your information: 
+
+i. In response to a subpoena or similar investigative demand, a court order, or a request for cooperation from law enforcement or another government agency; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases, we may raise or waive any legal objection or right available to us.   
+ii. When we believe disclosure is appropriate in connection with efforts to investigate, prevent, or take other action regarding illegal activity, suspected fraud or other wrongdoing; to protect and defend the rights, property or safety of our company, our users, our employees, or others; to comply with applicable law or cooperate with law enforcement; or to enforce our Site terms and conditions or other agreements or policies.   
+iii. In connection with a substantial corporate transaction, such as the reorganization or sale of our business, a divestiture, merger, consolidation or asset sale, or in the unlikely event of bankruptcy. 
+
+**7\. Collection of Information by Affiliates**
+
+A. 
+
+_Co-Branded Pages._
+
+We may enter into relationships with business partners, sponsors, and affiliates wherein a co-branded site is delivered to you (referred to here as "co-branded pages"). These might include, for example, pages that share our name and that of another entity. An example being "Acme powered by BroadwayBox". There may be a specific privacy policy on any such co-branded page. Any PII that you provide when signing up at any co-branded page may be collected by, or shared with, our, partner, affiliate or sponsor. We have no control over, and are not responsible for, how your PII is used. If you want to learn more about other entities' privacy practices, please review the Sites of those third parties. 
+
+B. 
+
+_Transactions With E-Commerce Partners, Vendors and Advertisers._
+
+When you provide PII to one of our Site's e-commerce partners, vendors or advertisers, this transaction will occur in connection with the site of the e-commerce partner, vendor or advertiser, not on the Site, and, as such, the PII you provide is collected pursuant to and controlled by the privacy policy of such e-commerce partner, vendor or advertiser. BroadwayBox is not responsible for such parties' privacy policies and we encourage you to familiarize yourself with the applicable privacy policy of the e-commerce site with which you transact business or to contact the operator of such site for more information. 
+
+Please be aware that at times, at the request of or on behalf of our e-commerce partners, vendors or advertisers, BroadwayBox may "pre-populate" forms with your PII for your review, and, if you so choose, for submission to such e-commerce partners, vendors or advertisers. Accordingly, we encourage you to review each pre-populated form carefully before agreeing to submit your PII to determine who is seeking to collect your information, and to familiarize yourself with the applicable privacy policy governing use of any PII collected about you. 
+
+The third party collecting your PII will share such PII with BroadwayBox so that BroadwayBox can review your information and, if applicable, respond to your query or job application. Please note that BroadwayBox has no obligation to respond to all queries or job applications submitted. Any PII that BroadwayBox receives from such third party will be treated in accordance with this Privacy Policy. 
+
+C. 
+
+_Third Party Advertising._
+
+The ads appearing on this Site are delivered to you by our third party advertising partners. In the course of serving advertisements to this Site, our third-party advertiser may place or recognize a unique cookie on your browser. Non-PII about your visits to this Site, such as number of times you have viewed an ad, is used to serve ads to you. Some of these third parties may be advertising networks that are members of the Network Advertising Initiative, which offers a Site to opt out of ad targeting from several advertising companies (www.networkadvertising.org). 
+
+D. 
+
+_Third Party Links._
+
+The Site may contain links to third-party Internet Sites, which are not owned or operated by BroadwayBox. We provide such links only as a convenience, and the inclusion of a link on the Site does not imply endorsement of the linked site by BroadwayBox. If you provide any PII through any such third-party Site, your transaction will occur on such third party's Site (not the Site) and the PII you provide will be collected by, and controlled by the privacy policy of, that third party. We are not responsible for the privacy practices or the content of such third-party Sites, including such Sites' use of any PII that you provide to them. We strongly encourage you to become familiar with the privacy practices of those sites. 
+
+**8\. Opt-Out Policy**
+
+A. 
+
+_Communications._
+
+When you supply Us with PII, from time-to-time, in Our discretion, you may be asked to indicate whether you are interested in receiving information from Us, about special offers in connection with the Site, from BroadwayBox affiliates and/or our advertisers and partners. Unless you opt out to receive such communications, we may, from time to time, send you marketing communications. 
+
+If you no longer desire to receive the commercial email we send, you will be given the opportunity to opt out of receiving such messages in the future by clicking on the link at the bottom of the email that says "unsubscribe." It may take up to 10 days for us to process an opt-out request. Even if you have unsubscribed from receiving third party promotional emails from us, we may send you other types of important e-mail communications without offering you the opportunity to opt out of receiving them. These may include customer service announcements, administrative notices and surveys. Please note that opting out of receiving promotional email communications will affect only future communications from us. If we already provided your information to a third party before you changed your preferences or updated your information, you may have to change your preferences directly with that third party as well. 
+
+B. 
+
+_Affiliate and Third Party Communications._
+
+From time-to-time, You may be provided with the opportunity to opt-in to receive offers directly from third parties. Unless you opt out to accept any such offer(s), any PII provided to Us for such purposes may be shared with third-party partner(s), to allow such third parties to provide You with valuable information You may enjoy. If you would prefer that we no longer share your PII with our affiliates and/or with third parties for their marketing purposes, you may opt-out of such future sharing at any time by following the procedure above, provided however, you may not be able to opt out of certain third party offers that are displayed on our Site. 
+
+**9\. Use of This Site by Children Under the Age of 13 Prohibited.** BroadwayBox is a family oriented business. We adhere to the principles set forth in the Children’s Online Privacy and Protection Act ("COPPA"), as amended, and ask You, if a parent or guardian of minor children, to familiarize yourself with the prescribes of COPPA. Our Sites are not developed with the intention of that they will be used by minors and specifically, they are not directed to children age thirteen (13) or younger. We request that any such person under the age of thirteen (13) years old not use Our Sites. If a parent or guardian believes that his or her child may have provided us with PII, for example, by misrepresenting his or her age, that parent or guardian should contact us at customerservice@broadwaybox.com with the particulars of the information we are alleged to have collected. If We determine that Your child under the age of thirteen (13) years old has provided us PII we will immediately delete all such information. For additional information regarding the use of the Internet by minors visit www.OnGuardOnline.gov for tips from the Federal Trade Commission on protecting kids" privacy online http://www.onguardonline.gov/topics/kids-privacy.aspx 
+
+**10\. Accessing, Updating or Deleting Information Collected About You.** You control the PII that you have provided to us by way of the Sites. For example, on broadwaybox.com You may do so by linking to the Manage Your Profile / My Profile page, and following the instructions to modify Your user information. To the extent that such information is stored in our databases, we will respond to Your changes as soon as reasonably possible. Please note that although this information will not be available on Our Sites after you delete it, the information may remain stored indefinitely in our backup and archival records for legal and accounting purposes. 
+
+**11\. Security of Your PII.** We employ reasonable security measures consistent with standard industry practice, for PII collected through Our Sites, including physical, electronic and operational measures to maintain security and prevent unauthorized access. While We take reasonable and appropriate steps to safeguard PII under our control, unfortunately, no data transmission over the Internet or method of storing data can be guaranteed to be one hundred percent secure. As such, we cannot guarantee that PII supplied by You will not be accessed on our servers, or intercepted while being transmitted to Us over the Internet. We assume no liability for any damages you may suffer as a result of interception, alteration or misuse of information during such transfers. If you have reason to believe that there has been any breach of the security of the Site, please contact us at customerservice@broadwaybox.com. 
+
+**12\. Limitation of Liability.** BroadwayBox will not under any circumstances be liable to You for any consequential, incidental or special damages (including but not limited to lost profits) arising out of Your use of Our Sites, even if apprised of the likelihood of such damages occurring. Notwithstanding the foregoing, BroadwayBox’s liability is limited to the actual cost of any product or service purchased by You though Our Sites. 
+
+**13\. Contacting Us Regarding Our Sites.** If you have any questions concerning this Policy, you may send them by email to customerservice@broadwaybox.com. Please note that email communications will not necessarily be secure; accordingly you should not include credit card information or other sensitive information in your email correspondence with us. You must send any official correspondence via US postal mail to: 
+
+BroadwayBox, Inc.   
+1619 Broadway, 9th Floor   
+New York, New York 10019   
+Attention: General Counsel 
+
+**14\. Your California Privacy Rights.** If you are a California resident, you have the right to request information about how we share certain categories of personal information with third parties. California law gives you the right to send us a request at a designated address to receive the following information: 
+
+A. the categories of information we disclosed to third parties for their direct marketing purposes during the preceding calendar year;   
+B. the names and addresses of the third parties that received that information; and   
+C. if the nature of the third party's business cannot be determined from their name, examples of the products or services marketed. 
+
+If you have any questions, please click here for information on how to contact us. 
+
+Any question you may have regarding Your privacy on Our Sites should be made in writing and sent to, customerservice@broadwaybox.com. 
+
+For information regarding protecting your data online, refer to the Federal Trade Commission's website located at www.ftc.gov. 
+
+Last Updated: December 10, 2013 
+
+© 2013 BroadwayBox, Inc. All Rights Reserved. 
