@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the duluthtrading.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231030838id_/http%3A//www.duluthtrading.com/store/dtc-shared/customer-service/privacy-and-security/privacy-security-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the duluthtrading.com privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607074432id_/http%3A//www.duluthtrading.com/store/dtc-shared/customer-service/privacy-and-security/privacy-security-policy.aspx) for the most accurate reproduction.*
 
 # Privacy & Security - Duluth Trading
 
