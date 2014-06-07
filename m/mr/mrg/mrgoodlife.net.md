@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrgoodlife.net privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207031243id_/http%3A//www.mrgoodlife.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrgoodlife.net privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607223059id_/http%3A//www.mrgoodlife.net/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | MR.GOODLIFE. - The Online Magazine for the Goodlife.
 
