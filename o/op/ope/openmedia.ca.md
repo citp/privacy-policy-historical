@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openmedia.ca privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207054412id_/https%3A//openmedia.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openmedia.ca privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607054633id_/https%3A//openmedia.ca/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | OpenMedia.ca
 
@@ -83,4 +83,4 @@ See <http://openmedia.ca/terms-and-conditions>
 
 ## Contact
 
-If you have any questions about this privacy statement, your personal information, or the practices of this Site, you can write to [contact@openmedia.ca](mailto:contact@openmedia.ca)
+If you have any questions about this privacy statement, your personal information, or the practices of this Site, you can write to [privacy@openmedia.ca](mailto:privacy@openmedia.ca)
