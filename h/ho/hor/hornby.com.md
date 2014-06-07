@@ -1,76 +1,99 @@
-> *The following text is extracted and transformed from the hornby.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123210247id_/http%3A//www.hornby.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hornby.com privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608010015id_/http%3A//www.hornby.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy - Hornby
+# Privacy Policy Hornby
 
-This is a privacy statement disclosing our information gathering, use and dissemination practices for the Hornby.com web site.
+Hornby Hobbies Limited is committed to protecting your privacy and to do its upmost to ensure that all personal and transactional information is protected to the highest standards.
 
-## Data Collection
+## Data Protection
 
-### Personal data
+We are registered data user under the Data Protection Act.
 
-All personal data is collected and stored in line with the Data Protection Act 1998 [[More Info](http://www.opsi.gov.uk/ACTS/acts1998/19980029.htm)].
+We will treat all your Personal Information as confidential (although we reserve the right to disclose this information in the circumstances set out below).  We will keep it on a secure server and we will fully comply with all applicable UK Data Protection and consumer legislation from time to time in place.
 
-We collect the following data:
+Information that you supply is held securely and strict security procedures are followed to prevent unauthorised access. We will not sell, trade or rent your personal information to others unless you authorise us to do so.
 
-  * Click-stream data (the type of computer and browsing software you use, the address of the web site from which you linked, etc)
-  * HTTP protocol elements (your server address and top level domain name (eg .com, .gov etc), date and time of visit,
-  * Search terms
+We confirm we will not release your Personal Information to any other company outside Hornby Hobbies Limited for mailing or marketing purposes unless you authorise us to do so.
 
+## Your information
 
+We may collect and process the following data about you: Details of transactions you carry out through our website and of the fulfilment of your orders; information that you provide by filling in forms on our website, including, but not limited to, information provided at the time of requesting or subscribing to any service, uploading material or becoming a registered user or if you enter any competition or promotion sponsored by us; information from surveys that we use for research purposes, if you choose to respond to them; communications you send to us, for example to report a problem with or submit a comment regarding our website ; and details of your visits to our website; including, but not limited to, traffic data, location data and the resources that you access.
 
-This data will be used for the following purposes:
+## Uses made of your information
 
-  * Completion and support of the current activity.
-  * Web site and system administration.
-  * Research and development.
+We (and our representatives) may hold your personal details in order to process your order and/or maintain your account and/or for research purposes.
 
+We may also use your details to send you further information on our products and services, to keep you up-to-date on goods, services, and promotional offers you may be interested in or for research purposes If you prefer not to you have the right to ask us not to process your personal data for marketing purposes.
 
+You can exercise your right to prevent such processing by checking or un-checking (as directed) certain boxes on the forms we use to collect your data or by following the unsubscribe link on any marketing emails we send you. You can also exercise the right at any time by contacting us.
 
-This data is collected from all web users. Web access logs are used for statistical purposes only (eg to measure the use/performance of the site) except in the event of a security breach when they could be used for the purpose of tracing the breach. No information gathered from web logs is given or sold to any third party.
+You should be aware that if we are requested by the Police or any other regulatory or government authority investigating suspected illegal activities to provide your personal information and /or user information, we are entitled do so.
 
-Any personal information that you provide to us will only be used for the purpose stated at the time we request it. This information will not be disclosed to a third party except where authorised by you or as otherwise permitted by the Data Protection Act.
+## Access your information
 
-### Cookies
+The Data Protection Act 1998 gives you the right to access information held about you. Your right of access can be exercised in accordance with that Act. Any access request may be subject to a fee not exceeding £10 to meet our costs in providing you with details of the information we hold about you.
 
-Cookies are a technology which can be used to provide you with tailored information from a web site; they can facilitate communication and interaction with the site. You may stop or restrict the placement of cookies on your computer by adjusting your web browser preferences, but this may interfere with some of the functionality of the site.
+## Use of Cookies
 
-At the user's option, we will collect the following data:
+We use Cookies to keep track of your current shopping session to personalise your experience.
 
-  * HTTP cookies
+### About cookies
 
+Cookies are files stored in your browser and are used by most websites to help personalise your web experience. Some features on this site will not function if you do not allow cookies. Click each category for more information on the cookies this website uses.
 
+### Compliance cookie
 
-Cookies will be used for the following purposes:
+This cookie is set with the assumption that you consent with the use of cookies on this website and will be used to hide this message following your initial visit.
 
-  * Research and development.
-  * User targeting.
+**Cookies used:**  CookieLawCompliance
 
+### Analytics cookies
 
+These cookies allow us to count page visits and traffic sources so we can measure and improve the performance of our site, using a service provided by Google Analytics.
 
-This data will be used by ourselves and our agents.
+**Cookies used:**  __utma, __utmb, __utmc, __utmz
 
-Cookies are used to track visitors to our site.
+### Third party cookies
 
-### E-mail and Electronic Forms
+We use a number of social media tools to enhance visitor interaction on our site. If you already use these platforms their cookies may be set through our website. Data may then be collected by these companies that enables them to serve up adverts on other sites that they think are relevent to your interests. If you do not use such platforms then our site will not place these cookies on your device.
 
-We collect the following information:
+**Twitter cookies:**  __utma, __utmb, __utmc, __utmv, __utmz, _sm_au_d, _twitter_sess, _twitter_sess, ab_sess_activity_ddg_126, ab_sess_activity_up_top_98, ab_sess_promoted_arrows_and_pills_78, ab_sess_Relevance_V1-49, ab_sess_search_relevance_ranked_hits_189, ab_sess_search_relevance_social_167, ab_sess_t1_actions_156, ab_sess_wtf_user_to_user_rec_155, auth_token, auth_token_session, dnt, external_referer, guest_id, k, lang, original_referer, pid, secure_session, t1, twid, twll
 
-  * Physical contact information
-  * Online contact information
-  * Demographic data
-  * Preference data
+**Facebook cookies:**  _e_0ITr_10, _e_bWDI_21, _e_bWDI_22, _e_bWDI_23, _e_bWDI_24, _e_CTMK_0, _e_CTMK_1, _e_CTMK_2, _e_e6Yv_0, _e_e6Yv_1, _e_e6Yv_2, _sm_au_d, act, c_user, c_user, datr, e, L, L, lu, presence, reg_ext_ref, reg_ext_ref, reg_fb_gate, reg_fb_gate, reg_fb_ref, reg_fb_ref, sct, sct, wd, x-referer, xs, xs
 
+**Google cookies:**  _e_0ITr_10, _e_bWDI_21, _e_bWDI_22, _e_bWDI_23, _e_bWDI_24, _e_CTMK_0, _e_CTMK_1, _e_CTMK_2, _e_e6Yv_0, _e_e6Yv_1, _e_e6Yv_2, _sm_au_d, act, c_user, c_user, datr, e, L, L, lu, presence, reg_ext_ref, reg_ext_ref, reg_fb_gate, reg_fb_gate, reg_fb_ref, reg_fb_ref, sct, sct, wd, x-referer, xs, xs
 
+**Microsoft cookies:**  MC1, WT_FPC
 
-This data will be used for the following purposes:
+**Magento cookies:**
 
-  * Completion and support of the current activity.
-  * Contacting visitors for marketing of services or products.
+COOKIE name| COOKIE Description  
+---|---  
+CART | The association with your shopping cart.  
+CATEGORY_INFO | Stores the category info on the page, that allows to display pages more quickly.  
+COMPARE | The items that you have in the Compare Products list.  
+CURRENCY | Your preferred currency  
+CUSTOMER | An encrypted version of your customer id with the store.  
+CUSTOMER_AUTH | An indicator if you are currently logged into the store.  
+CUSTOMER_INFO | An encrypted version of the customer group you belong to.  
+CUSTOMER_SEGMENT_IDS | Stores the Customer Segment ID  
+EXTERNAL_NO_CACHE | A flag, which indicates whether caching is disabled or not.  
+FRONTEND | You sesssion ID on the server.  
+GUEST-VIEW | Allows guests to edit their orders.  
+LAST_CATEGORY | The last category you visited.  
+LAST_PRODUCT | The most recent product you have viewed.  
+NEWMESSAGE | Indicates whether a new message has been received.  
+NO_CACHE | Indicates whether it is allowed to use cache.  
+PERSISTENT_SHOPPING_CART | A link to information about your cart and viewing history if you have asked the site.  
+POLL | The ID of any polls you have recently voted in.  
+POLLN | Information on what polls you have voted on.  
+RECENTLYCOMPARED | The items that you have recently compared.  
+STF | Information on products you have emailed to friends.  
+STORE | The store view or language you have selected.  
+USER_ALLOWED_SAVE_COOKIE | Indicates whether a customer allowed to use cookies.  
+VIEWED_PRODUCT_IDS | The products that you have recently viewed.  
+WISHLIST | An encrypted list of products added to your Wishlist.  
+WISHLIST_CNT | The number of items in your Wishlist.  
+  
+## How to contact us
 
-
-
-In all cases this information will only be used for the stated purpose for which it was provided. A number of online forms are provided on this site. The pages containing these forms should include a statement on how data submitted to them will be processed.
-
-The data is collected so that we can send you news and other information which is relevant to your needs and interests.
-
-If you have any concerns regarding the data held about you by the Hornby Hobbies web site, [please contact us](https://web.archive.org/contact-us/).
+If you have any questions about our online privacy policies or procedures, please [contact us](https://web.archive.org/contact). We are prepared to address any concerns you may have about the privacy, safety and appropriateness of any material you see on our website.
