@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lulzbot.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225065159id_/http%3A//www.lulzbot.com%3Fq%3Dcontent/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lulzbot.com privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607082246id_/https%3A//www.lulzbot.com/content/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | LulzBot
+# Privacy Policy | lulzbot.com
 
 This privacy notice discloses the privacy practices for LulzBot.com. This privacy notice applies solely to information collected by this web site. It will notify you of the following:
 
