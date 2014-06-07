@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessvibes.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219093316id_/http%3A//www.businessvibes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessvibes.com privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607112139id_/http%3A//www.businessvibes.com/privacy-policy) for the most accurate reproduction.*
 
 # Private Policy | BusinessVibes | BusinessVibes
 
@@ -18,8 +18,8 @@ BusinessVibes – Customer Service Department
 
 Businessvibes Network International Inc.
 
-107 Charlotte Street Suite 12A,
+221 Loch Lomond Road,
 
-Saint John NB,
+Saint John, New Brunswick,
 
-Canada, E2L 2J2
+E2J 1Y5
