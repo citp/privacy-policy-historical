@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shelby.tv privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126125626id_/http%3A//shelby.tv/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shelby.tv privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607072546id_/http%3A//shelby.tv/privacy.html) for the most accurate reproduction.*
 
 # Shelby TV Privacy Policy
 
