@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the primagames.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207064539id_/http%3A//www.primagames.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the primagames.com privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607233905id_/http%3A//www.primagames.com/page/privacy-policy%3Fref%3Dhomepage_Prima_bottomnav_privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Page | Primagames.com
 
