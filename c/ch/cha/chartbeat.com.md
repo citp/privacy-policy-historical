@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chartbeat.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502052030id_/http%3A//chartbeat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chartbeat.com privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607021537id_/https%3A//chartbeat.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy | Chartbeat
 
 **Effective Date: March 15, 2013**
 
@@ -83,14 +83,7 @@ We process user information in Our facilities in the United States. All informat
   15. **ENFORCEMENT.**  
 Complaints related to this Privacy Policy and Our compliance with it and the Safe Harbor Principles can initially be referred to [legal@chartbeat.com](mailto:legal@chartbeat.com)or Chartbeat, Inc. at 826 Broadway, 6th Floor, New York, New York 10003. We also follow internal procedures for verifying that Our commitments under this Privacy Policy have been implemented, and will remedy problems arising out of a failure to comply with this Privacy Policy and the Safe Harbor Principles.
 
-We have further committed to refer unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Us, you may contact the BBB EU SAFE HARBOR program at the address below:
-
-Council of Better Business Bureaus, Inc.  
-BBB EU SAFE HARBOR  
-4200 Wilson Boulevard, Suite 800  
-Arlington, VA 22203  
-Phone: 703-276-0100  
-Web: [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints)
+We have further committed to refer unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Us, you may contact the BBB EU SAFE HARBOR program by visiting the page: [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints). 
 
 
 
