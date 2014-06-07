@@ -1,31 +1,35 @@
-> *The following text is extracted and transformed from the careerfaqs.com.au privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221144037id_/http%3A//www.careerfaqs.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerfaqs.com.au privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607020751id_/http%3A//www.careerfaqs.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Page | Career FAQs
 
 The purpose of this statement is to let users of this website know what information is collected about them when they visit this site, how this information is used and the site’s disclosure policies.
 
-Career FAQs conducts its business using the Internet through this website, and through other outlets and distribution channels around Australia. Career FAQs is committed to protecting the personal privacy of our customers, and observes the National Privacy Principles pursuant to the Commonwealth Privacy Act 1988.
+Career FAQs conducts its business using the Internet through this website and through other outlets and distribution channels around Australia. Career FAQs is committed to protecting the personal privacy of our customers and observes the National Privacy Principles pursuant to the Commonwealth Privacy Act 1988 and any later updates and amendments thereof.
 
 Personal information about customers, including name, address, telephone number and other personal details, will be handled appropriately – according to the terms of use as defined in this section of our website and as may be amended, at Career FAQs’ discretion, from time to time. You may contact us at any time to request details about what information we hold, or to request that it be changed or deleted.
 
 ###  Recording your visit
 
-When you look at this website, we make a record of your visit and log the following information for statistical purposes:  
-top-level domain name (for example .com, .gov, .au, .uk etc)  
-date and time of visit to the site  
-pages accessed and documents downloaded  
-previous site visited  
-type of Internet browser used  
-IP address  
-operating system used  
-domain name of your Internet Service Provider  
-banner advertisements you have viewed or clicked on.
+When you look at this website, we make a record of your visit and log the following information for statistical purposes:
 
-This data is always used as aggregated, non-personal information. Career FAQs generally uses this information to report statistics, analyse trends, diagnose problems and target and improve the quality of our products and services. This aggregated information may be shared with our trusted partners to provide them with an overview of how Career FAQs visitors use the site, for the purposes of providing you with the best career resource portal.
+  * top-level domain name (for example .com, .gov, .au, .uk etc)
+  * date and time of visit to the site
+  * pages accessed and documents downloaded
+  * previous site visited
+  * type of Internet browser used
+  * IP address
+  * operating system used
+  * domain name of your Internet Service Provider
+  * banner advertisements you have viewed or clicked on.
+
+
+
+This data is always used as aggregated, non-personal information. Career FAQs generally uses this information to report statistics, analyse trends, diagnose problems and target and improve the quality of our products and services. This aggregated information may be shared with our trusted partners to provide them with an overview of how Career FAQs visitors use the site, for the purposes of providing you with the best Australian careers and online courses website possible.
 
 ###  Collecting personal information
 
-There are some electronic forms on this site that you can use to request more information from Career FAQs, or which you will be required to complete should you elect to become a member of this site. When we require you to enter personal information, we will only do so to allow us to respond to your request or for purposes such that are necessary for us to conduct one or more of our functions or activities.  
+There are some electronic forms on this site that you can use to request more information from Career FAQs, or which you will be required to complete should you elect to become a member of this site. When we require you to enter personal information, we will only do so to allow us to respond to your request or for purposes such that are necessary for us to conduct one or more of our functions or activities, which include matching your educational needs and preferences with our partners’ range of courses.
+
 Where it is practicable and reasonable to do so, Career FAQs will only collect information about an individual from that individual.
 
 We will not collect or solicit personal information via this site which would be unlawful, unrelated to the functions or activities of Career FAQs, or if we believe the information is unreasonably intrusive.
@@ -36,7 +40,7 @@ All Career FAQs members may opt to unsubscribe by email from our site and/or any
 
 We will only publish personal information on this site if it has been collected for this purpose with your knowledge or if you have consented to the disclosure. When giving such consent you should be aware that information published on this site is accessible to users from all over the world, that it will be indexed by search engines and that it may be copied and used by any web user. This means that, once the information is published on this site, we will have no control over its subsequent use and disclosure.
 
-Career FAQs may disclose your information as authorised by law and to its service providers and contractors from time to time. Career FAQs may also disclose your information in order to help us provide and market Career FAQs’ and our partners’ career-related products and services to you. Such partners will be determined by Career FAQs and may include tertiary and other educational providers as well as other careers stakeholders.
+Career FAQs may disclose your information as authorised by law and to its service providers and contractors from time to time. Career FAQs may also disclose your information in order to help us provide and market Career FAQs’ and our partners’ career--and-education-related products and services to you. Such partners will be determined by Career FAQs and may include tertiary and other educational providers as well as other careers stakeholders.
 
 ###  Data quality
 
@@ -49,7 +53,7 @@ This site may from time to time contain links to other websites. Career FAQs is 
 
 ###  Internet-based fulfilment requirements for purchase orders
 
-Once you decide to make an online purchase you will need to cease to be anonymous. We require your details in order to process your purchase order and deliver it to you. Failure to complete this information fully may mean that you will not be able to purchase goods using this site.
+Once you decide to make an online course or other career-and-education related purchase you will need to cease to be anonymous. We require your details in order to process your purchase order and to arrange fulfilment of this order with the appropriate third party providers. Failure to complete this information fully may mean that you will not be able to purchase goods or services using this site.
 
 Personal information is requested or collected when it is required to assist you in efficiently completing your transaction or in handling your inquiry. Generally, there is no obligation to provide us with any of the personal information that we may request, however if you choose not to provide us with the requested information we may not be able to offer the requested service, or we may not be able to handle it as efficiently for you.
 
@@ -67,7 +71,7 @@ Your credit card details are used only to complete any transactions which you ha
 
 ###  Currency
 
-All prices quoted on the Career FAQS website are quoted in Australian Dollars (AUD). This is the only currency used on this website.
+All prices quoted on the Career FAQs website are quoted in Australian Dollars (AUD). This is the only currency used on this website.
 
 ###  For further information
 
@@ -75,4 +79,4 @@ Please contact us to ask for access to your information or if you have a complai
 
 If you require more information about Australia's Privacy Laws and the National Privacy Principles, you can access the Federal Privacy Commissioner's website at [www.privacy.gov.au.](http://www.privacy.gov.au/)
 
-This Privacy Statement is current as at August 2005. Career FAQs may change or update the policy from time to time.
+This Privacy Statement is current as at February 2014. Career FAQs may change or update the policy from time to time.
