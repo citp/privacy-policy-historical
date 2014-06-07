@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the zeebangla.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209074907id_/http%3A//zeebangla.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeebangla.com privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607071945id_/http%3A//www.zeebangla.com/aboutus/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Welcome to Zee Bangla, your favorite Bengali Entertainment Channel
+# Zee Bangla Official Website: Zee Bangla Shows & Serials, Watch Full Episodes and Videos Online at zeebangla.com
 
-Zee Entertainment Enterprises Limited (“zeebangla.com “) respects your privacy. This Privacy Policy provides the manner your data is collected and used by zeebangla.com. You are advised to please read the Privacy Policy carefully. By accessing the services provided by zeebangla.com you agree to the collection and use of your data by zeebangla.com in the manner provided in this Privacy Policy.
+Zee Entertainment Enterprises Limited ("zeebangla.com ") respects your privacy. This Privacy Policy provides the manner your data is collected and used by zeebangla.com. You are advised to please read the Privacy Policy carefully. By accessing the services provided by zeebangla.com you agree to the collection and use of your data by zeebangla.com in the manner provided in this Privacy Policy.
 
 We want you to :  
 # feel comfortable using our web site  
@@ -11,11 +11,11 @@ We want you to :
 # know that by using our site you are consenting to the collection of your data
 
 WHAT INFORMATION IS, OR MAY BE, COLLECTED FROM YOU?  
-We will automatically receive and collect certain anonymous information in standard usage logs through our Web server, including computer-identification information obtained from “cookies”, sent to your browser from:  
+We will automatically receive and collect certain anonymous information in standard usage logs through our Web server, including computer-identification information obtained from "cookies", sent to your browser from:  
 # web server cookie stored on your hard drive  
 # an IP address, assigned to the computer which you use  
-# the type of computer you’re using  
-# the type of web browser you’re using
+# the type of computer you're using  
+# the type of web browser you're using
 
 We may collect the following personally identifiable information about you:  
 # name including first and last name  
@@ -33,12 +33,12 @@ We may also collect the following information:
 
 1\. User provided information: We may collect and store information, personal or otherwise, that you voluntarily supply either while on the Site or in responding via email in connection with a feature provided on the Site. Some examples of this type of information include demographic information that you electronically submit when you sign up for access to certain features on the Site, information (such as your name or email address) that you electronically submit when you register for surveys or contests on the Site, information that you post on message boards on the Site, and information contained in search requests or questions that you submit to the Site. If you decline to supply or provide us with certain information while using the Site, you may not be able to use or participate in some or all of the features offered through the Site.
 
-2\. Cookies information: When you visit the zeebangla Site, we may send one or more cookies – a small text file containing a string of alphanumeric characters – to your computer that uniquely identifies your browser. zeebangla uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the zeebangla Site may not function properly.  
-In addition, third party advertisers or third party ad servers that place and present advertising on the Site also may collect information from you via cookies, web beacons, clear .gifs or similar technologies. These third party advertisers and ad servers may use the information they collect to help present their advertisements, to help measure and research the advertisements’ effectiveness, or for other uses. The use and collection of your information by these third party advertisers and ad servers is governed by the relevant third party’s privacy policy and is not covered by our privacy policy. Indeed, the privacy policy of these third party advertisers and ad servers may be different from our privacy policy.
+2\. Cookies information: When you visit the zeebangla Site, we may send one or more cookies "“ a small text file containing a string of alphanumeric characters "“ to your computer that uniquely identifies your browser. zeebangla uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the zeebangla Site may not function properly.  
+In addition, third party advertisers or third party ad servers that place and present advertising on the Site also may collect information from you via cookies, web beacons, clear .gifs or similar technologies. These third party advertisers and ad servers may use the information they collect to help present their advertisements, to help measure and research the advertisements' effectiveness, or for other uses. The use and collection of your information by these third party advertisers and ad servers is governed by the relevant third party's privacy policy and is not covered by our privacy policy. Indeed, the privacy policy of these third party advertisers and ad servers may be different from our privacy policy.
 
-3\. Log file information: When you use the zeebangla Site, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol (“IP”) address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser.
+3\. Log file information: When you use the zeebangla Site, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser.
 
-4\. Clear / transparent GIFs information: When you use the zeebangla Site, we may employ “clear GIFs” (a.k.a. Web Beacons) which are used to track the online usage patterns of our users / members anonymously. In addition, we may also use clear GIFs in HTML-based emails sent to our users to track which emails are opened by recipients.
+4\. Clear / transparent GIFs information: When you use the zeebangla Site, we may employ "clear GIFs" (a.k.a. Web Beacons) which are used to track the online usage patterns of our users / members anonymously. In addition, we may also use clear GIFs in HTML-based emails sent to our users to track which emails are opened by recipients.
 
 HOW IS THIS INFORMATION USED?
 
@@ -54,7 +54,7 @@ HOW IS THIS INFORMATION USED?
 
 6\. The Site includes links to other websites and provides access to products and services offered by third parties, whose privacy policies we do not control. When you access another website or purchase third party products or services through the Site, use of any information you provide is governed by the privacy policy of the operator of the site you are visiting or the provider of such products or services.
 
-7\. We may also make some content, products and services available through our Site through cooperative relationships with third party providers, where the brands of our provider partner appear on the Site in connection with such content, products and/or services. We may share with our provider partner any information you provide, or that is collected, in the course of visiting any pages that are made available in cooperation with our provider partner. In some cases, the provider partner may collect information from you directly; in which cases the privacy policy of the provider partner may apply to the provider partner’s use of your information. The privacy policy of our provider partners may differ from ours. If you have any questions regarding the privacy policy of one of our provider partners, you should contact the provider partner directly for more information. Be aware that we may occasionally release information about visitors / members when release is appropriate to comply with law, to enforce our Terms of Service agreement, or to protect the rights, property or safety of users of the Site, the public, or the zeebangla Site.
+7\. We may also make some content, products and services available through our Site through cooperative relationships with third party providers, where the brands of our provider partner appear on the Site in connection with such content, products and/or services. We may share with our provider partner any information you provide, or that is collected, in the course of visiting any pages that are made available in cooperation with our provider partner. In some cases, the provider partner may collect information from you directly; in which cases the privacy policy of the provider partner may apply to the provider partner's use of your information. The privacy policy of our provider partners may differ from ours. If you have any questions regarding the privacy policy of one of our provider partners, you should contact the provider partner directly for more information. Be aware that we may occasionally release information about visitors / members when release is appropriate to comply with law, to enforce our Terms of Service agreement, or to protect the rights, property or safety of users of the Site, the public, or the zeebangla Site.
 
 8\. Please also note that as our business grows, we may buy or sell various assets. In the unlikely event that we sell some or all of our assets, or our Site is acquired by another company, information about our visitors may be among the transferred assets.
 
@@ -68,7 +68,7 @@ We may release personally identifiable information and/or non-personally-identif
 
 zeebangla also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that zeebangla believes, in good faith, is appropriate or necessary to enforce our Terms of Use, take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our web site, and to protect the rights, property, or personal safety of zeebangla, our users / members or others.
 
-OUR COMMITMENT TO CHILDRENS’ PRIVACY
+OUR COMMITMENT TO CHILDRENS' PRIVACY
 
 The Site is NOT directed to or intended for people under the age of Sixteen. A User less than 16 (Sixteen) years of age should not register to use the Site. zeebangla does not knowingly collect any personal information from people under the age of sixteen. If you are a parent of a child under the age of sixteen and you have questions about our Site or Privacy Policy, please feel free to contact the zeebangla Privacy Coordinator at privacy@zeebangla.com. Those between the age of Sixteen and Eighteen are to provide either of their parents Email ID and an Email will be send informing that their ward has registered himself/herself to use the zeebangla.com services. The parent will be legally bound by any acts/deeds/Violation of zeebangla.com Terms of Use & Privacy Policy by their wards.
 
@@ -85,7 +85,7 @@ zeebangla is hosted in India and is intended for and directed to users / members
 HOW YOU CAN MAKE CHANGES TO YOUR INFORMATION
 
 NOTIFICATION OF CHANGES  
-We reserve the right at any time to: change the terms of this Agreement; change the Services, including eliminating or modifying any content on or feature of the Site; or change/charge any fees or charges for use of the Services. Any changes we make will be effective immediately on notice, which we may give either by posting the new Agreement on the Site or via electronic mail. Your use of the Services after such notice will be deemed acceptance of such changes. Be sure to review this Agreement periodically to ensure your familiarity with the most current version. You will always be able to tell when the version was last updated by checking the “Last Revised” date in the header of this agreement.
+We reserve the right at any time to: change the terms of this Agreement; change the Services, including eliminating or modifying any content on or feature of the Site; or change/charge any fees or charges for use of the Services. Any changes we make will be effective immediately on notice, which we may give either by posting the new Agreement on the Site or via electronic mail. Your use of the Services after such notice will be deemed acceptance of such changes. Be sure to review this Agreement periodically to ensure your familiarity with the most current version. You will always be able to tell when the version was last updated by checking the "Last Revised" date in the header of this agreement.
 
 CONFLICT RESOLUTION  
 We are committed to resolving disputes as soon as feasible and shall endeavor to resolve all disputes brought to our notice in keeping with the mechanism prescribed, within 15 working days of such receipt.
@@ -96,8 +96,8 @@ E-mail: feedback@zeebangla.com
 Telephone: +91-33-22275458/9  
 Postal Address: Zee Bangla, Zee News Ltd, Park Plaza,  
 71, Park Street, South Block, 5th Floor,  
-Kolkata, Pin – 700016 (WB)
+Kolkata, Pin "“ 700016 (WB)
 
 WEBSITE ADMINISTRATION  
 Business name: zeebangla.com Address: Zee Bangla, Zee News Ltd, Park Plaza,  
-71, Park Street, South Block, 5th Floor, Kolkata, Pin – 700016 (WB)Website URL: http://www.zeebangla.com
+71, Park Street, South Block, 5th Floor, Kolkata, Pin "“ 700016 (WB)Website URL: http://www.zeebangla.com
