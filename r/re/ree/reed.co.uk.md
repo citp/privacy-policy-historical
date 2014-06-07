@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reed.co.uk privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227072813id_/http%3A//www.reed.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reed.co.uk privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607090024id_/http%3A//www.reed.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy policy - reed.co.uk
 
@@ -42,15 +42,15 @@ We use third-party advertising companies to serve ads when you visit our website
 
 reed.co.uk uses Google Adwords conversion tracking to measure advertising performance and improve the quality of the adverts you see. Find out more about [Google Site Stats](https://services.google.com/sitestats/en.html?cid=1070115141).
 
-To find out about all the cookies reed.co.uk uses and how to manage them, visit our [cookies page](https://web.archive.org/web/20131227072813id_/http%3A//www.reed.co.uk/clearcookies).
+To find out about all the cookies reed.co.uk uses and how to manage them, visit our [cookies page](https://web.archive.org/web/20140607090024id_/http%3A//www.reed.co.uk/clearcookies).
 
 ### How do you remove your name from the database?
 
-Reed is obliged to hold your data for 12 months after it was last used. After 12 months of non-usage we will contact you and ask you if you want to keep your details on our database. If you do not indicate by signing in to reed.co.uk that you wish your details to be retained on our database, we will archive your account. You may also request for your account to be closed at any time which will be confirmed by Reed within 48 hours of your request.
+You can [contact us](http://www.reed.co.uk/enquiries) to request for your account to be closed at any time, which will be confirmed by Reed within 48 hours of your request.
 
 ### How do you unsubscribe from future mailings?
 
-If you have a reed.co.uk jobseeker account, you can stop receiving emails by [updating your contact preferences](https://web.archive.org/web/20131227072813id_/http%3A//www.reed.co.uk/account/signin?returnUrl=%2Faccount%2Fedit%2Fpreferences).
+If you have a reed.co.uk jobseeker account, you can stop receiving emails by [updating your contact preferences](https://web.archive.org/web/20140607090024id_/http%3A//www.reed.co.uk/account/signin?returnUrl=%2Faccount%2Fedit%2Fpreferences).
 
 **Registered Office**
 
@@ -66,8 +66,6 @@ Company Number 6317279. Registered in England and Wales.
 ### Terminology
 
 **Aggregate** \- this is when all data is collected and processed as a total to enable us to look at such information as demographic and geographic trends, so that we can try to produce a better service in the future.
-
-**Archiving** \- this is the process where candidate users are asked if they want their personal data to remain on the reed.co.uk database. If a user does not indicate that they wish their details to be retained, their record is deleted from the database. This means that the candidate will not be able to sign in to reed.co.uk and also means that their details will not be accessible by any recruiters using reed.co.uk. Please note this process is carried out in accordance with the Employment Agencies Act and the Data Protection Act.
 
 **Data** \- information which is being processed by equipment operating automatically in response to instructions given for that purpose, is recorded with the intention that it should be processed by means of such equipment, is recorded as part of a relevant filing system or with the intention that it should form part of a relevant filing system or forms part of an accessible record.
 
