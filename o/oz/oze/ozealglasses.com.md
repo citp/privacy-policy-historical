@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ozealglasses.com privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031185414id_/http%3A//www.ozealglasses.com/shop-with-ozeal%3Fbt_from%3Dfooter%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ozealglasses.com privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607111900id_/http%3A//www.ozealglasses.com/shop-with-ozeal%23privacy) for the most accurate reproduction.*
 
 # Privacy Policy, Shopping Security, T and C | Ozeal Glasses
 
@@ -26,6 +26,10 @@ Payment must be made by the Customer at the time of ordering, and we currently a
 We will always endeavor to ship goods in the shortest possible time even the most complex prescriptions.
 
 You should contact us if the goods are not shipped safely within a reasonable number of days; you will get a full refund or re-shipping if the non-shipping is caused by our fault.
+
+### Site Contents
+
+Unless otherwise noted, the Sites, and all materials on the Sites, including text, images, illustrations, designs, icons, photographs, video clips and other materials, and the copyrights, trademarks, trade dress and/or other intellectual property in such materials (collectively, the "Contents"), are owned, controlled or licensed by Ozeal Technology Ltd which is located in Kemp House, 152 -160 City Road, London, England. EC1V 2NX.
 
 ### Return and Refund
 
@@ -129,3 +133,16 @@ We provide a 60-day no fuss return policy for our customers.
 We will try our best to ensure you will be completely happy with your purchase on [ozealglasses.com](http://www.ozealglasses.com/). However, problems may occasionally occur. We strive to achieve 100% satisfaction for our customers.
 
 We aim to make your shopping from ozealglasses.com with a safe and secure environment, and do our best to ensure you have the confident for our brand and website. 
+
+### Gift card terms & conditions
+
+  * Make sure you have correctly entered the recipient's email address so as to avoid the code is used by the wrong person.
+  * Gift cards will be emailed directly to the recipient and the gift card code can only be used with the recipient's Ozeal account.
+  * Not redeemable for cash.
+  * Not transferable.
+  * Not refundable.
+  * If your gift card amount exceeds your order total, the remaining balance will be kept in your account.
+  * If the order total exceeds your gift card amount, the rest will be paid by your PayPal or credit card.
+  * Gift cards can only valid for a maximum of 12 months.
+
+
