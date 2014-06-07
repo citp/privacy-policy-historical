@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the camcard.com privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118040847id_/https%3A//static.intsig.net/r/terms/PP_CamCard_en-us.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camcard.com privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607202043id_/https%3A//static.intsig.net/r/terms/PP_CamCard_en-us.html) for the most accurate reproduction.*
 
 # CamCard Privacy Policy
 
