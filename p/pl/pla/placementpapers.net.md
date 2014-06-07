@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the placementpapers.net privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820082230id_/http%3A//placementpapers.net/helpingroot/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the placementpapers.net privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607072612id_/http%3A//placementpapers.net/helpingroot/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Original Placement Papers Website for Freshers.
+# Privacy Policy | Freshers Placement Papers | Infosys, Wipro, TCS, CTS, HCL Campus Jobs
 
 ##  Privacy Policy
 
@@ -37,4 +37,4 @@ _Acceptance of Terms / Changes to Privacy Policy_ \-- Your use of this site indi
 
 **Contact Us**
 
-If you have any questions about this Privacy Statement, the practices of our site, or your dealings with our site, please [Contact Us](https://web.archive.org/web/20130820082230id_/http%3A//placementpapers.net/helpingroot/contact).
+If you have any questions about this Privacy Statement, the practices of our site, or your dealings with our site, please [Contact Us](https://web.archive.org/web/20140607072612id_/http%3A//placementpapers.net/helpingroot/contact).
