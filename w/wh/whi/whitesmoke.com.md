@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whitesmoke.com privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118133705id_/http%3A//www.whitesmoke.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitesmoke.com privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607181029id_/http%3A//www.whitesmoke.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy | World-Leading Language Solutions by WhiteSmoke
 
