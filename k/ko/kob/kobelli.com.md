@@ -1,24 +1,58 @@
-> *The following text is extracted and transformed from the kobelli.com privacy policy that was archived on 2013-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131005212044id_/http%3A//www.kobelli.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kobelli.com privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607191140id_/http%3A//kobelli.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
-# Privacy Policy at Kobelli
+# Privacy Policy
 
-  
-By using this web site, you indemnify and hold harmless any claims against Kobelli Inc. 
+This Privacy Policy governs the manner in which kobelli collects, uses, maintains and discloses information collected from users (each, a "User") of the http://www.kobelli.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Diamond Me.
 
-**Privacy Policy**
+### Personal Identification Information
 
-Your privacy is our greatest concern at Kobelli. We want your experience to be enjoyable, useful, and safe. The following information outlines our commitment to your privacy. 
+We may collect personally identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, subscribe to the newsletter, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number, credit card information. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-**Sessions and Cookies**
+### Non-Personal Identification Information
 
-Cookies are small text files a web site will use to recognize a repeat visitor to its site. Cookies are not programs that come onto a user's system and damage files. Kobelli does not use cookies to collect information on any of our users. The only reason we use cookies is to identify who you are when you log in, preventing unauthorized access to your account and other sensitive information. 
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-**Confidentiality**
+### Web Browser Cookies
 
-Kobelli will never willfully sell, trade, rent, or otherwise distribute any personally identifiable information about you to any 3rd party without first receiving your permission. Any and all data supplied during the ordering process is strictly confidential and is not shared with any other source. The email address you supplied is only used for notifying customers of actions regarding current and past orders and support issues. 
+Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-Any information that is collected online for marketing reasons, that we use to better understand our users, will never be publicly displayed or sold in such a way as to disclose the identity of any individual participant of the study. 
+### How We Use Collected Information
 
-**Contact Us**
+Diamond Me collects and uses Users personal information for the following purposes:
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with our company, [please contact our customer service department](https://web.archive.org/contact/). 
+  * \- To personalize user experience We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+  * \- To improve our Site We continually strive to improve our website offerings based on the information and feedback we receive from you.
+  * \- To improve customer service Your information helps us to more effectively respond to your customer service requests and support needs.
+  * \- To process transactions We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
+  * \- To administer a content, promotion, survey or other Site feature To send Users information they agreed to receive about topics we think will be of interest to them.
+  * \- To send periodic emails The email address Users provide for order processing, will only be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions. If User decides to opt-in to   our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each         email or User may contact us via our Site.
+
+
+
+### How We Protect Your Information
+
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+
+Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.
+
+### Sharing Your Personal Information
+
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
+
+### Changes to This Privacy Policy
+
+Diamond Me has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+### Your Acceptance of These Terms
+
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+### Contacting Us
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
+[Kobelli](http://www.kobelli.com/)  
+[http://www.kobelli.com](http://www.kobelli.com/)  
+(800) 842-3222   
+[info@kobelli.com](mailto:info@kobelli.com)
+
+This document was last updated on jan 1, 2014
