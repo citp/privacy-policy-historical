@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intralinks.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209151433id_/http%3A//www.intralinks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intralinks.com privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607053446id_/http%3A//www.intralinks.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Intralinks
 
@@ -22,13 +22,15 @@ Please note our website includes hyperlinks to other websites neither owned nor 
 
 
 
+* * *
+
 ## What information does Intralinks collect through its public website, and how is this information used?
 
 Intralinks collects certain personally identifiable information through its website when you choose to submit such information to us through email, an online form, or other method. You may provide Intralinks with information in order to request additional information about the Service, employment opportunities, for press inquiries, or for other purposes. We also collect information about website users through temporary “Cookies” (for further information about Cookies, please see below) used to facilitate completion of online forms and other communications through the website. By providing this information, using the website or any of these communication tools, you consent to Intralinks' use of your information in a manner consistent with this Privacy Policy.
 
 Intralinks also maintains a log of certain information concerning visitors to this website, including but not limited to a visitor's IP address (a computer's numerical Internet address), the websites from which visitors access the website, the type of web browsers used to access the website, and the pages viewed.
 
-We may use information collected through our website to respond to specific requests for information about our services and other inquiries. We may also use your information to inform you about other Intralinks’ services that might be of interest to you and to gather feedback from you on our website and our services. If you decide to purchase our services, we may use your information for purposes of providing such services to you. Top
+We may use information collected through our website to respond to specific requests for information about our services and other inquiries. We may also use your information to inform you about other Intralinks’ services that might be of interest to you and to gather feedback from you on our website and our services. If you decide to purchase our services, we may use your information for purposes of providing such services to you. We may provide your information to trusted partners who work on behalf of or with Intralinks under confidentiality agreements. These companies may use your personal information to help Intralinks communicate with you about the Service and offers from Intralinks and our marketing partners. We may also share your information with our affiliates. Top
 
 ## What information does Intralinks collect about users of its permissioned-based Service and how is this information used?
 
