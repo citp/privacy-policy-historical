@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the anyprotect.com privacy policy that was archived on 2013-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130323120549id_/https%3A//www.anyprotect.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anyprotect.com privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607062959id_/https%3A//www.anyprotect.com/privacy.html) for the most accurate reproduction.*
 
 # Online Backup, Secure & Unlimited for Home Business | AnyProtect
+
+  * [Terms Of Use](https://www.anyprotect.com/eula.html)
+  * [Privacy Policy](https://www.anyprotect.com/privacy.html)
+  * [Refund Policy](https://www.anyprotect.com/refund.html)
+
+
 
 This Privacy Policy provides our policies and procedures for collecting, using, and disclosing your information. Users can access the AnyProtect service (the "Service") through our [website](https://www.anyprotect.com/), applications on Devices, through APIs, and through third-parties. A "Device" is any computer used to access the AnyProtect Service, including without limitation a desktop, laptop, mobile phone, tablet, or other consumer electronic device. This Privacy Policy governs your access to the AnyProtect Service, regardless of how you access it, and by using our Services you consent to the collection, transfer, processing, storage, disclosure and other uses described in this Privacy Policy. All of the different forms of data, content, and information described below are collectively referred to as "information".
 
