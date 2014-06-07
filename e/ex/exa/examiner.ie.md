@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the examiner.ie privacy policy that was archived on 2013-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131012143106id_/http%3A//www.examiner.ie/info/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the examiner.ie privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607223135id_/http%3A//www.irishexaminer.com/info/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Irish Examiner
 
@@ -69,7 +69,7 @@ This site gives users the following options for removing their information from 
 Unsubscribe using the instructions that were sent to you when you first subscribed or select the unsubscribe option that is included on every email communication you receive from IrishExaminer.com 
 
 **2.** You can send mail to the following postal address:  
-Webmaster, Landmark Digital, Irish Examiner, City Quarter, Lapps Quay, Cork, Ireland
+Webmaster, Landmark Digital, Linn Dubh, Assumption Road, Cork, Ireland
 
 **3.** You can call the following telephone number: +353 21 2304000 ********
 
@@ -83,7 +83,7 @@ This site gives users the following options for changing and modifying informati
 **1.** Email [ helpdesk@landmarkdigital.ie](mailto:helpdesk@landmarkdigital.ie)
 
 **2.** Send mail to the following postal address:  
-Webmaster, Landmark Digital, Irish Examiner, City Quarter, Lapps Quay, Cork, Ireland
+Webmaster, Landmark Digital, Linn Dubh, Assumption Road, Cork, Ireland
 
 **3.** Call the following telephone number: +353 21 2304000
 
@@ -93,10 +93,4 @@ Webmaster, Landmark Digital, Irish Examiner, City Quarter, Lapps Quay, Cork, Ire
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
 
-Webmaster,  
-Landmark Digital,  
-Irish Examiner,  
-City Quarter,  
-Lapps Quay,  
-Cork, Ireland.  
-[ webmaster@examiner.ie](mailto:helpdesk@landmarkdigital.ie)
+Webmaster, Landmark Digital, Linn Dubh, Assumption Road, Cork, Ireland or helpdesk@landmarkdigital.ie
