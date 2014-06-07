@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the webucator.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116211419id_/http%3A//www.webucator.com/about-us/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webucator.com privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607042513id_/http%3A//www.webucator.com/about-us/privacy-policy.cfm) for the most accurate reproduction.*
 
-# Customized Instructor-Led Training
+# Webucator Privacy Policy
 
 ## What information do we collect?
 
