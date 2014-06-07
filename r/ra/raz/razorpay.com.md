@@ -1,100 +1,89 @@
-> *The following text is extracted and transformed from the razorpay.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the razorpay.com privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607214422id_/http%3A//razorpay.com/privacy.html) for the most accurate reproduction.*
 
-# Legal Agreement
+# RazorPay - Coming Soon
 
-**Go Daddy Respects Your Privacy**
+##### Last updated on March 05th, 2014
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+This privacy policy applies to your use of the RazorPay website located at www.RazorPay.in (hereafter known as RazorPay), and RazorPay applications on mobile platforms (Android, Blackberry, Windows Phone, Nokia), but not does apply to any third party sites that may be linked to them, or any relationships you may have with the businesses listed on RazorPay. 
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+The terms **"we"** , **"us"** , and **"RazorPay"** refer to RazorPay.in and the terms **"you"** and **"your"** refer to you, as a user of RazorPay.in. The term **"personal information"** means information that you provide to us which personally identifies you to be contacted or identified, such as your name, phone number, email address, and any other data that is tied to such information. 
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+####  By using RazorPay, you agree to be bound by terms of this privacy policy. If you do not agree with these terms, do not use RazorPay. 
 
-**Information Collection and Use**
+#### I. Information we collect and how we use it
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+We use commercially reasonable efforts to ensure that the collection of personal information is limited to that which is necessary to fulfill the purposes identified below. If we use your information in a manner different than the purpose for which it is collected, then we will ask you for your consent prior to such use.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+_Account information._ If you create an account to take advantage of the full range of services offered on RazorPay, we ask for and record personal information such as your name, email address and mobile number. We use your email address to send you updates, news, and newletters (if you willingly subscribe to the newsletter during signup, or anytime after sign up) and contact you on behalf of other users (such as other users who send you friend requests, personal messages, or other social collaboration based events). We use your mobile numbers to send you transaction alerts and sms alerts based on your preferences. RazorPay assures that this information will not be made public or sold to any third party. Only when customer chooses to share the information on the businesses powered with RazorPay applications we share the information to respective businesses. However, RazorPay is not liable for misuse of this information by the business or people related to the businesses to whom the information is shared by the customer. 
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+_Submissions._ We store and may publicly display your submissions in order to provide the services that we offer. When we display your submissions, we do so together with your account name (first name and last initial). The term **"submissions"** refers to the information that you submit or post to RazorPay for public display, such as business ratings, reviews, photos, compliments, and the information that you display as part of your account profile. 
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+_Feedback._ If you contact us to provide feedback, register a complaint, or ask a question, we will record any personal information and other content that you provide in your communication so that we can effectively respond to your communication. 
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+_Activity._ We record information relating to your use of RazorPay, such as the searches you undertake, the pages you view, your browser type, IP address, location, requested URL, referring URL, and timestamp information. We use this type of information to administer RazorPay and provide the highest possible level of security and service to you. We also use this information in the aggregate to perform statistical analyses of user behavior and characteristics in order to measure interest in and use of the various areas of RazorPay. However, You cannot be identified from this aggregate information. 
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+_Cookies._ We send cookies to your computer in order to uniquely indentify your browser and improve the quality of our service. The term **"cookies"** refers to small pieces of information that a website sends to your computer's hard drive while you are viewing the site. We may use both session cookies (which expire once you close your browser) and persistent cookies (which stay on your computer until you delete them). Persistent cookies can be removed by following your browser help file directions. If you choose to disable cookies, some areas of RazorPay may not work properly or at all. RazorPay uses third party tools, who may collect anonymous information about your visits to RazorPay using cookies, and interaction with RazorPay products and services. Such third parties may also use information about your visits to RazorPay products and services and other web sites to target advertisements for RazorPay's products and services. No Personally identifiable information is collected or used in this process. These third parties do not know or have access to the name, phone number, address, email address, or any personally identifying information about RazorPay's users. RazorPay users can opt-out of sharing this information with third parties by deactivating cookies, the process of which varies by browser to browser. Please refer to the help file of your browser to understand the process of deactivating Cookies on your browser. 
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+_Enforcement._ We may use the information we collect in connection with your use of RazorPay (including your personal information) in order to investigate, enforce, and apply our Terms of Use and Privacy Policy. 
 
-**Security**
+#### II. Transfer of information
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+We may distribute your submissions to third parties, as permitted pursuant to our Terms of Use. The third parties may in turn publicly display or publish your submissions in connection with their own websites and media platforms. When we distribute your submissions to third parties, we typically include your RazorPay user id (but not your personal information unless you include your personal information in your submissions). 
 
-**Updating Your Information**
+We may share your personal information with third parties to provide you with services that we offer through RazorPay, conduct quality assurance testing, facilitate creation of accounts, provide technical and customer support, or provide specific services, such as synchronization of your contacts with other software applications, in accordance with your instructions. These third parties are required not to use your personal information other than to provide the services requested by you. 
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+We may share your personal information with our parent company, subsidiaries, joint ventures, or other companies under a common control (collectively, **"Affiliates"** ) that we may have now or in the future, in which case we will require them to honor this Privacy Policy. If another company acquires our company or our assets, that company will possess your personal information, and will assume the rights and obligations with respect to that information as described in this Privacy Policy. 
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+We may disclose your personal information to third parties in a good faith belief that such disclosure is reasonably necessary to (a) take action regarding suspected illegal activities; (b) enforce or apply our Terms of Use and Privacy Policy; (c) comply with legal process, such as a search warrant, subpoena, statute, or court order; or (d) protect our rights, reputation, and property, or that of our users, affiliates, or the public. Please note that we are not required to question or contest the validity of any search warrant, subpoena or other similar governmental request that we receive. 
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+We may disclose information in the aggregate to third parties relating to user behavior in connection with actual or prospective business relationship with those third parties, such as advertisers and content distributors. For example, we may disclose the number of users that have been exposed to, or clicked on, advertising banners. 
 
-      iii.      You may call us at: (480) 505-8800
+#### III. Others' information
 
-       iv.      You may fax us at: (480) 505-8844
+You may choose to provide us with another person's e-mail address so that person may be invited to create an account on this website and become your friend. We use this information to contact and, if necessary, remind that person about the invitation. By providing us with another person's e-mail address, you represent to us that you have obtained the consent of the person concerned as regards such disclosure to us of their personal information. All invitees are provided with the option not to receive further invitations. We may disclose such information if required to do so in order to comply with legal process, as described above. 
 
-**Sending Emails**
+#### IV. Links
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+RazorPay may contain links to third party websites to which we have no affiliation. Except as set forth herein, we do not share your personal information with those third parties, and are not responsible for their privacy practices. We suggest you read the privacy policies on all such third party websites. 
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+#### V. Controlling your personal data
 
-**Compliance with Laws and Law Enforcement**
+To the extent you include personal information in your submissions (such as a photo of yourself), third parties may be able to identify you, associate you with your user account, and contact you. Third parties can also associate you with your user account using the member lookup feature on RazorPay, but only if the third party already knows your full name and you include information in your submission that allows the third party to distinguish you from other users who might share the same full name. Please do not include information in your submissions that you expect to keep private. In addition, you can reduce the risk of being personally identified by choosing a fictitious account name, though doing so could detract from the credibility of your submissions. 
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+As a registered RazorPay user, you can modify some of your personal information and your privacy preferences by accessing the **"Account"** section of this website. For example, you may choose not to receive e-mail solicitations from RazorPay by accessing the **"Account"** tab on RazorPay (after signing in) and updating your newsletter/notification settings. 
 
-**Third Party Service Providers**
+###### VI. Security
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+Your account is password protected. We use industry standard measures to protect the personal information that is stored in our database. We limit the access to your personal information to those employees and contractors who need access to perform their job function, such as our customer service personnel. If you have any questions about the security on RazorPay, please contact us. Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that your personal information will never be disclosed in a manner that is inconsistent with this Privacy Policy. 
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+You hereby acknowledge that RazorPay is not responsible for any intercepted information sent via the internet, and you hereby release us from any and all claims arising out of or related to the use of intercepted information in any unauthorized manner. 
 
-**Supplementation of Information**
+#### VII. E-mails and opt-out
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+You may opt-out of receiving any messages or newsletters from us by changing your notification settings under the **"Account"** tab after you log on to RazorPay. Unregistered users who receive e-mails from us may also opt-out of receiving further e-mails by following the instructions contained in our e-mails. Despite your indicated e-mail preferences, we may send you notices of any updates to our Terms of Use or Privacy Policy. 
 
-**Contests/Surveys**
+###### VIII. Reason for permissions needed on RazorPay mobile applications
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+Reading your address book is required if you need to share the app with your friends (explicit permission will be sought before this) 
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+SMS permissions are required if you need to share the app with your friends (again, explicit permission will be sought before this) 
 
-**Tell-A-Friend**
+Your contact information is sought to enable one click sign-up (with explicit permissions) while inside the app. We have a no spam policy. 
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+#### IX. Terms and modifications to this Privacy Policy
 
-**What Happens to my Personal Information if I Opt Out?**
+We may modify this Privacy Policy at any time, and we will post any new versions on this page. If we make any material changes in the way we use your personal information, we will notify you by sending an e-mail to the last e-mail address you provided to us and/or by prominently posting notice of the changes on our website. Any such changes will be effective upon the earlier of thirty (30) calendar days following our dispatch of an e-mail notice to you or thirty (30) calendar days following our posting of notice of the changes on our website. These changes will be effective immediately for new users of RazorPay. Please note that at all times you are responsible for updating your personal information to provide us with your most current e-mail address. In the event that the last e-mail you have provided us is not valid, or for any reason is not capable of delivering to you the notice described above, our dispatch of the e-mail containing such notice will nonetheless constitute effective notice of the changes described in the notice. In any event, changes to this Privacy Policy may affect our use of personal information that you provided us prior to our notification to you of the changes. If you do not wish to permit changes in our use of your personal information, you must notify us prior to the effective date of the changes that you wish to deactivate your account with us. Continued use of RazorPay following notice of such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes. 
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+#### X. Dispute resolution
 
-**Transfer of Data Abroad**
+If you believe that RazorPay has not adhered to this Privacy Policy you may write to RazorPay at the following address: 
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+e-mail: [admin@RazorPay.in](mailto:admin@RazorPay.in)
 
-**Changes in Our Practices**
+In your email, please describe in as much detail as possible ways in which you believe the Privacy Policy has not been complied with. We will investigate your complaint promptly. 
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+#### XI. Contacting the website and access to your personal information
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+Upon written request, subject to certain exceptions, RazorPay will inform you of the existence, use, and disclosure of your personal information and will give you access to that information. Access requests should be sent to our Privacy Officer, using the contact information above. When requesting access to your personal information, we may request specific information from you to enable us to confirm your identity and right to access, as well as to search for and provide the personal information that we hold about you. We may charge you a fee to access your personal information to cover our costs; however, we will advise you of any fee in advance, which will be no more than any maximum fee prescribed by law. 
 
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+####  If you have any questions about this Privacy Policy, you can contact us using the contact information listed above. 
