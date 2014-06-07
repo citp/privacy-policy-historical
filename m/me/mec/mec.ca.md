@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mec.ca privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120094016id_/http%3A//www.mec.ca/Main/content_text.jsp%3FFOLDER%253C%253Efolder_id%3D2534374302887365) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mec.ca privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607081048id_/http%3A//www.mec.ca/Main/content_text.jsp%3FFOLDER%253C%253Efolder_id%3D2534374302887365) for the most accurate reproduction.*
 
 # Privacy Policy - Mountain Equipment Co-op
 
@@ -63,7 +63,7 @@ As a co-operative, MEC requires your assistance in providing us with your person
 
 
 
-The information contained in the database can only be used for corporate purposes pertaining to Mountain Equipment Co-operative, such as catalogue mailings, Board election information and other correspondence. MEC does not sell, rent, or loan our membership lists to anyone.
+The information contained in the database can only be used for corporate purposes pertaining to Mountain Equipment Co-operative, such as Board election information and other correspondence. MEC does not sell, rent, or loan our membership lists to anyone.
 
 ### Updating Membership Data
 
