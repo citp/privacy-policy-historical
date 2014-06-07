@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the couponsforwisconsin.com privacy policy that was archived on 2013-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130828174617id_/http%3A//www.couponsforwisconsin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponsforwisconsin.com privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607071334id_/http%3A//www.couponsforwisconsin.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Coupons for Wisconsin
-
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.couponsforwisconsin.com%2Fprivacy-policy%2F&media=&description=Privacy+Policy)[](http://www.tumblr.com/share/link?url=http%3A%2F%2Fwww.couponsforwisconsin.com%2Fprivacy-policy%2F&name=Privacy+Policy)
 
 **Customer and Membership Information:**
 
