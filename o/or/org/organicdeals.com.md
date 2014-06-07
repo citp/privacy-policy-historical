@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the organicdeals.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201194129id_/http%3A//www.organicdeals.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the organicdeals.com privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607084604id_/http%3A//www.organicdeals.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Organic Coupons
 
