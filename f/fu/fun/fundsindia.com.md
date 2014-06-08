@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fundsindia.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208082531id_/http%3A//www.fundsindia.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fundsindia.com privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608235726id_/http%3A//www.fundsindia.com/pages/privacy) for the most accurate reproduction.*
 
 # Learn more about FundsIndia's Privacy Policy!
 
@@ -6,37 +6,44 @@
 
 * * *
 
-This privacy policy sets out how Wealth India Financial Services Pvt. Ltd. (WIFS) uses and protects any information that you give WIFS when you use this website
+This privacy policy sets out how FundsIndia.com and Wealth India Financial Services Pvt. Ltd. (WIFS) uses and protects any information that you share when you use this website.
 
-WIFS is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+WIFS is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, you can be assured that it will only be used in accordance with this privacy statement.
 
-WIFS may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from January 1, 2009.
+WIFS may change this policy from time to time by updating this page. This policy is effective from January 1, 2014.
 
-##### What we collect ?
+##### **What we collect?**
 
 We may collect the following information:
 
-1\. Name and job title  
-2\. Contact information including email address  
-3\. Demographic information such as postcode, preferences and interests  
-4\. Other information relevant to customer surveys
+  1. Name  and Contact information, including email address
+  2. Personal information, including date of birth and Permanent Account Number (PAN)
+  3. Demographic information such as gender and income
+  4. Other information that can help us improve our services
 
-##### What we do with the information we gather ?
 
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-1\. Internal record keeping.  
-2\. We may use the information to improve our products and services.  
-3\. We may periodically send email about new products, special offers or other information which we think you may find interesting using the email address which you have provided.  
-4\. From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone or mail. We may use the information to customise the website according to your interests.
+##### **What we do with the information we gather?**
 
-##### Security
+We require this information for the following reasons:
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+  1. To perform compliance checks and internal record keeping
+  2. To use the information to improve our products and services
+  3. To periodically send emails to your registered email address about new products, special offers, or other information which we think you may find interesting.
+  4. You will be free to unsubscribe your email address at any time, if you do not wish to receive such emails from us.
+  5. From time to time, we may also use your information to contact you via phone or email for market research purposes.
 
-##### How we use cookies ?
 
-A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+
+We will not sell, distribute or lease your personal information to third parties unless we are required to share such information under the terms and conditions of the products and services you avail, or we are required to do so by law.
+
+##### **Security**
+
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. [More>>](http://www.fundsindia.com/pages/security/)
+
+##### **How we use cookies?**
+
+A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic, or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
 We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
 
@@ -44,17 +51,10 @@ Overall, cookies help us provide you with a better website, by enabling us to mo
 
 You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
-##### Links to other websites
+##### **Links to other websites**
 
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over such third-party websites. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-##### Controlling your personal information
+##### **Controlling your personal information**
 
-You may choose to restrict the collection or use of your personal information in the following ways:
-
-1\. Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes  
-2\. If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [contact@wealthindia.in](mailto:contact@wealthindia.in)
-
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
-
-If you believe that any information we are holding on you is incorrect or incomplete, please email us as soon as possible, at contact@wealthindia.in. We will promptly correct any information found to be incorrect.
+If you believe that any information we are holding on you is incorrect or incomplete, please email us as soon as possible at [contact@wealthindia.in](mailto:contact@wealthindia.in). We will promptly correct any information found to be incorrect.
