@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the igi-global.com privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113002133id_/http%3A//www.igi-global.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igi-global.com privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608234329id_/http%3A//www.igi-global.com/policies/privacy) for the most accurate reproduction.*
 
-# IGI Global: Privacy Policy
+# Privacy Policy | IGI Global
 
 This is the website of IGI Global. The postal address of the publishing company is 701 E Chocolate Ave Hershey, PA 17033. IGI Global can be reached via e-mail at [cust@igi-global.com](mailto:cust@igi-global.com) or by telephone at (717) 533-8845.
 
