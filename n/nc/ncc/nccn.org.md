@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nccn.org privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207030922id_/http%3A//www.nccn.org/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nccn.org privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608235304id_/http%3A//www.nccn.org/about/privacy.aspx) for the most accurate reproduction.*
 
 # NCCN - Privacy Policy
 
@@ -16,7 +16,7 @@ NCCN is the sole owner of the information collected on [NCCN.org](https://web.ar
 
 **Registration**
 
-NCCN occasionally requests information from users of its NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines®), NCCN Drugs & Biologics Compendium (NCCN Compendium®), NCCN Chemotherapy Order Templates (NCCN Templates®), NCCN Biomarkers Compendium™, NCCN Guidelines for Patients®, and NCCN Continuing Education™. NCCN uses this information to contact the user about safety updates and/or services on our site for which they have expressed interest and to advise users about future updates to this site. Based on the user type, visitors will be asked to provide specific, sometimes required, information (such as areas of interest, clinical specialty, or year of graduation), in order for NCCN to provide a more personalized experience on its site. 
+NCCN occasionally requests information from users of its NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines®), NCCN Drugs & Biologics Compendium (NCCN Compendium®), NCCN Chemotherapy Order Templates (NCCN Templates®), NCCN Biomarkers Compendium®, NCCN Guidelines for Patients®, NCCN Trends™ Surveys & Data, and NCCN Continuing Education. NCCN uses this information to contact the user about safety updates and/or services on our site for which they have expressed interest and to advise users about future updates to this site. Based on the user type, visitors will be asked to provide specific, sometimes required, information (such as areas of interest, clinical specialty, or year of graduation), in order for NCCN to provide a more personalized experience on its site. 
 
 **NCCN Programs, Services and Resources Registration**
 
@@ -28,7 +28,7 @@ Registered users are responsible for taking all reasonable steps to ensure that 
 
 **NCCN Continuing Education Registration**
 
-NCCN requires visitors to register to use NCCN Continuing Education™ content. Required information includes first and last name, degree, title, organization, mailing address, username, password and e-mail address. NCCN uses this information to process CME/CE credit, to contact the user about services on this site for which he or she has expressed interest, and to advise users about future updates to this site. 
+NCCN requires visitors to register to use NCCN Continuing Education content. Required information includes first and last name, degree, title, organization, mailing address, username, password and e-mail address. NCCN uses this information to process CME/CE credit, to contact the user about services on this site for which he or she has expressed interest, and to advise users about future updates to this site. 
 
 **Orders for NCCN Resources**
 
