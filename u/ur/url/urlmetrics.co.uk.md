@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urlmetrics.co.uk privacy policy that was archived on 2013-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130403102641id_/http%3A//urlmetrics.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urlmetrics.co.uk privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608223535id_/http%3A//urlm.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
