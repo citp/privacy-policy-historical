@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netsuccesssystems.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206170932id_/http%3A//netsuccesssystems.com/legal-notices/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netsuccesssystems.com privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608090743id_/http%3A//netsuccesssystems.com/legal-notices/privacy-policies) for the most accurate reproduction.*
 
 # Privacy Policies | Net Success Systems
 
