@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prioritymail.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226091914id_/http%3A//about.usps.com/who-we-are/privacy-policy/welcome.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prioritymail.com privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608124545id_/http%3A//about.usps.com/who-we-are/privacy-policy/welcome.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
