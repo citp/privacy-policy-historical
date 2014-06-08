@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the hsselite.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221084953id_/https%3A//www.hsselite.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsselite.com privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608021147id_/https%3A//www.hsselite.com/privacy) for the most accurate reproduction.*
 
 # Hotspot Shield Elite Privacy Notice & Web Security Commitment - AnchorFree
+
+Last Modified: December 13, 2011
 
 Welcome, and thank you for your interest in AnchorFree, Inc, AnchorFree GmbH and or Affiliates ("AnchorFree"), and its Hotspot Shield software ("Hotspot Shield"). This Privacy Notice describes what information is collected by us from any user of the Hotspot Shield Free Version (collectively or individually "User(s)"), as well as our use and disclosure of that information.
 
