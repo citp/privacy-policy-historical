@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fxdd.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206055439id_/http%3A//www.fxdd.com/us/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxdd.com privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608143159id_/http%3A//www.fxdd.com/us/en/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | FXDD Forex Trading, FX Trade Solutions, Services
+# FXDD Privacy Policy | FXDD Forex Trading, FX Trade Solutions, Services
 
 United States [](http://www.fxdd.com/us/en/)
 
@@ -13,7 +13,7 @@ United States [](http://www.fxdd.com/us/en/)
 
 
   * [Products](http://www.fxdd.com/us/en/products/)
-  * [Software](http://www.fxdd.com/us/en/software/)
+  * [Platforms](http://www.fxdd.com/us/en/platforms/)
   * [Accounts](http://www.fxdd.com/us/en/accounts/)
   * [Services](http://www.fxdd.com/us/en/services/)
   * [Forex Resources](http://www.fxdd.com/us/en/forex-resources/)
@@ -59,7 +59,7 @@ Should have any questions regarding your account, please contact the Compliance 
 
 
 
-© 2013 FXDD
+© 2014 FXDD
 
 NFA #0397435 **MEMBER, NATIONAL FUTURES ASSOCIATION**
 
