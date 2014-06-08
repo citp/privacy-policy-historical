@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the lingoz.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216125037id_/http%3A//translator.babylon.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lingoz.com privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608075010id_/http%3A//translator.babylon.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
-Privacy policy
+## 24/7 Professional Human Service
+
+### Privacy policy
 
 Babylon Ltd. ("Babylon"), as owner of the website acting under the domain name LingoZ.com (the "Website"), under which You can either provide Human Translation Services and/or receive such services from Human Translators affiliated to the Website, respects and protects the privacy of the individuals that use our website. This privacy policy statement ("Privacy Policy") explains which information we collect and how we use it. This Privacy Policy is an integral part of the User Agreement (the "Agreement"). Capitalized terms used in this Privacy Policy shall have the meaning ascribed to them in the Agreement, unless specifically provided otherwise, hereunder. 
 
