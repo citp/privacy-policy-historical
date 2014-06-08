@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sneakerwatch.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209030644id_/http%3A//www.sneakerwatch.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sneakerwatch.com privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608114230id_/http%3A//www.sneakerwatch.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | SneakerWatch.com
 
