@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalsportsjobs.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103074338id_/http%3A//www.globalsportsjobs.com/staticpages/40/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalsportsjobs.com privacy policy that was archived on 2014-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140609004306id_/http%3A//www.globalsportsjobs.com/staticpages/40/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -120,6 +120,6 @@ Additional [ **Terms for Recruiters**](http://www.globalsportsjobs.com/terms)
 7.3 We reserve the right to make changes to this Privacy Policy without prior notice to you.  If you regularly use the Web Site you should continue to check this Privacy Policy for updates and amendments. You will be deemed to have accepted variations to the Privacy Policy if you continue to use the Web Site after any changes have been posted.
 
   
-Global Sports Jobs Limited is a company registered in England under number: 7314821 and whose registered office is at 2nd Floor, 201 Haverstock Hill, London, NW3 4QG, United Kingdom.
+Global Sports Jobs Limited is a company registered in England under number: 7314821 and whose registered office is at Staple House, Suite 1, Eleanor’s Cross, Dunstable, Beds LU6 1SU, United Kingdom.
 
 September 2010
