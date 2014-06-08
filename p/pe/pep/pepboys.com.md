@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pepboys.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208053431id_/http%3A//www.pepboys.com/customer_care/policies/privacy%3FiCID%3DFtrMain_AbtPBPriv_P3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pepboys.com privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608223348id_/http%3A//www.pepboys.com/customer_care/policies/privacy%3FiCID%3DFtrMain_AbtPBPriv_P3) for the most accurate reproduction.*
 
 # Customer Care Policies | Privacy Policy| Pep Boys
 
@@ -13,6 +13,8 @@ Order: We request information from the guest on our order form. A guest must pro
 Cookies and Web Beacons: A cookie is a piece of data that contains information about the guest’s visit to our Web site and is stored in the guest’s Web browser. Usage of cookies is in no way linked to any personally identifiable information on our Web site. Once a guest closes the Web browser, the cookies are stored for up to 30 days. With a cookie from our Web site, the guest may not have to login with a guest name and password more than once per visit, thereby saving time while on our Web site. If a guest rejects cookies from our Web site, the guest may still use our Web site, but would have to re-enter certain information, such as guest name, password, favorite store and/or vehicle information. If a guest rejects the cookies, the guest may not be able to login. Without logging in, the guest will still be able to access our Web site, but will not have access to certain parts of the Web site. Cookies may also enable us to track and target the interests of our guests to enhance their experience each time they visit our Web site.
 
 Certain pages may have "web beacons”, pixels or tags, for our internal use only to obtain information regarding your IP address, state and zip code of your IP address, browser type, URL of the viewed page and the time of viewing when you view a page that contains a beacon, pixel or tag. We also partner with third parties that may view this data or place ‘beacons’, pixels or tags to assist us with tracking the efficacy of our website, marketing efforts and/or other products and services we offer or to determine how guests use our Web site. To opt out of aggregation and analysis of data collected by our third party, Omniture (www.omniture.com), please [[click here](http://omnituremarketing.d1.sc.omtrdc.net/optout.html?popup=1).
+
+Do Not Track Requests: Our website does not currently accept or respond to Do Not Track Requests. Therefore, even if your browser sends pepboys.com such request we may still track your behavior through cookies and web beacons as set forth in this privacy policy.
 
 Log Files: We use IP addresses to analyze trends, administer the Web site, track guestguests’ movements and gather broad demographic information for aggregate use, including operating systems, browser information and referring and subsequent sites. Such information is not linked to personally identifiable information. Cookies and log files may be placed or tracked by our Web-analytics providers.
 
@@ -48,4 +50,4 @@ General Audience Web Site: Our Web site is a general audience Web site that is n
 
 Notification of Changes: Any changes to our Privacy Policy will be posted. We will use information in accordance with the Privacy Policy under which the information was collected.
 
-This Privacy Policy was last updated on 10/1/2012. 
+This Privacy Policy was last updated on February 2014. 
