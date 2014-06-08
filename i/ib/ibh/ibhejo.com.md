@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ibhejo.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210125114id_/http%3A//www.ibhejo.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibhejo.com privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608050627id_/http%3A//www.ibhejo.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | iBhejo.com
 
 We are IBhejo.com, a service provided by Bhejo, LLC.  In this Privacy Policy, references to “you” mean any person submitting any data to us, our agent, affiliates, or the Site www.ibhejo.com.
 
