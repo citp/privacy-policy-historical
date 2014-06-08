@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketingteacher.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220124435id_/http%3A//www.marketingteacher.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingteacher.com privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608080550id_/http%3A//www.marketingteacher.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Marketing Teacher's Privacy Policy
 
