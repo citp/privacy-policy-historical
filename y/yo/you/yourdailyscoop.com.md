@@ -1,97 +1,68 @@
-> *The following text is extracted and transformed from the yourdailyscoop.com privacy policy that was archived on 2013-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131029221528id_/http%3A//www.yourdailyscoop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourdailyscoop.com privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608154330id_/http%3A//www.yourdailyscoop.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy for YourDailyScoop.com
+# Privacy Policy – Your Daily Scoop
 
-Privacy Policy for YourDailyScoop.com
+Last Updated:  May 13th, 2014
 
-This privacy policy (“Policy”) describes how YourDailyScoop.com and its related companies (“Company”) collect, use and share personal information of consumer users of this website, http://www.YourDailyScoop.com (the “Site”). This Policy also applies to any of our other websites that post this Policy. This Policy does not apply to websites that post different statements.
+Welcome to www.YourDailyScoop.com, a Web site (“Site”) of YourDailyScoop.com, LLC (“YourDailyScoop.com,” “we” or “us”) a Delaware Limited Liability Company.
 
- **WHAT WE COLLECT**
+We respect the privacy of those who access and/or use the Site (“you”, “your”, “user” or collectively “users”) and are committed to protecting the personally identifiable information we collect.
 
-We get information about you in a range of ways.
+**1\. CHANGES TO THIS POLICY**
 
- **Information You Give Us.**
+If this Privacy Policy changes, we will post all changes in an amended version with a new “Last Updated” date at the top of this Privacy Policy.
 
-We collect your name, postal address, email address, demographic information (such as your gender and occupation), birthday and other information you directly give us on our Site.
+**2\. INFORMATION THAT WE COLLECT**  
+We collect two types of information from you. The first type is personal information that you actively choose to disclose (“Active Information”) and the second type is anonymous aggregate information collected in a manner not visible to you or others visiting the Site (“Passive Information”).
 
- **Information Automatically Collected.**
+a. Active Information. Examples of personally identifiable information that you provide to us may include your first and last name and email address. Providing Active Information, you consent and agree to being contacted with information related to your inquiry and/or information regarding our or third parties’ products and services. If you provide personally identifiable information to us, you may later elect to have that information deleted from our files, or kept from being used by us for purposes other than for the service requested, by following the opt-out procedures set forth below.
 
-We automatically log information about you and your computer. For example, when visiting our Site, we log your computer operating system type, browser type, browser language, the website you visited before browsing to our Site, pages you viewed, how long you spent on a page, access times, Internet protocol (IP) address and information about your use of and actions on our Site.
+b. Passive Information. We record information relating to your use of the Site, such as the information you click on, your browser type, IP address, referring URL, and timestamp information. We use this type of information to administer the Site and provide the highest possible level of service to you. We may also use this information in the aggregate to perform statistical analyses of user behavior and characteristics in order to measure interest in and use of the various areas of the Site.
 
- **Cookies.**  We may log information using “cookies.” Cookies are small data files stored on your hard drive by a website. Cookies help us make our Site and your visit better. We use cookies to see which parts of our Site people use and like and to count visits to our Site.
+**3\. HOW COLLECTED INFORMATION IS USED**
 
- **Web Beacons.**  We may log information using digital images called Web beacons on our Site or in our emails. We use Web beacons to manage cookies, count visits, and to learn what marketing works and what does not. We also use Web Beacons to tell if you open or act on our emails.
+We may share or sell your Active and/or Passive Information to our marketing partners and affiliates to provide you with commercial products that may be of interest. We also use this information to better target content in an effort to create a more personally relevant experience.
 
- **USE OF PERSONAL INFORMATION**
+**4\. USE OF COOKIES**
 
-We use your personal information as follows:
+We use cookies to store users’ preferences and to record session information, for purposes including ensuring that users are not repeatedly offered the same material and to customize any newsletter, advertising, and Web page content based on browser type and user profile information. We may share, sell, or license cookies collected from your browser and hard drive to third-party advertisers. These authorized third parties may link your name, address, and e-mail address to other information which they collect, such as past online/offline purchase information and Web usage from other sites. To learn more about this practice click here: <http://www.networkadvertising.org/managing/opt_out.asp>. You may disable cookies by adjusting the settings on your Web browser. You may be able to configure your browser to accept or reject all or some cookies, or notify you when a cookie is set. Each browser is different, so you may wish to review the “Help” menu of your browser to learn how to change your cookie preferences. Note, however, that you may be required to enable cookies in order to use certain functions on our Site.
 
-  * We use your personal information to operate, maintain, and improve our sites, products, and services.
-  * We use your personal information to process and deliver contest entries and rewards.
-  * We use your personal information to respond to comments and questions and provide customer service.
-  * We use your personal information to send information including confirmations, invoices, technical notices, updates, security alerts, and support and administrative messages.
-  * We use your personal information to communicate about promotions, upcoming events, and other news about products and services offered by us and our selected partners. We use your personal information to provide and deliver products and services customers request.
+**5\. DO-NOT-TRACK POLICY FOR CALIFORNIA USERS**
 
+We may collect users’ personally identifiable information while their Web browser’s “do-not-track” features – or other mechanisms that provide choice regarding the collection of personally identifiable information about consumers’ online activities – are activated. Further, while using our Site, third parties may collect users’ personally identifiable information relating to their online activities while “do-not-track” technologies and similar mechanisms are activated.
 
+**6\. INFORMATION SHARING AND DISCLOSURE**
 
- **SHARING OF PERSONAL INFORMATION**
+We may share, license, or sell information we collect to third parties for various marketing purposes, including their online marketing programs.  We also reserve the unequivocal right to release all your information, to the maximum extent permitted by law in the event that: (i) we believe that the Site is being or has been used to commit unlawful acts, (ii) the information is subpoenaed or otherwise required in a court proceeding, (iii) you violate or breach an agreement with the Site, (iv) you have submitted fraudulent or otherwise invalid information to this Site, (v) we believe that you may harm, or have harmed, the property or other rights of us, our employees, the Site’s other users or any other third party, (vi) we are sold to or otherwise acquired by any individual, entity or organization (i.e. to a successor entity in the event of sale of the business, including merger, bankruptcy or other ownership change), or (vii) when we otherwise deem it necessary or appropriate. We may disclose any record or communication to any third party when we, in our sole discretion, determine the disclosure to be appropriate including, without limitation, sharing your e-mail address with other third parties for suppression purposes in compliance with the requirements of the CAN-SPAM Act of 2003, as amended from time to time, or any other applicable state or federal law, rule or regulation.
 
-We may share personal information as follows:
+**7\. OPTING-OUT**
 
-  * We may share personal information with your consent. For example, you may let us share personal information with others for their own marketing uses. Those uses will be subject to their privacy policies.
-  * We may share personal information when we do a business deal, or negotiate a business deal, involving sale or transfer of all or a part of our business or assets. These deals can include any merger, financing, acquisition, or bankruptcy transaction or proceeding.
-  * We may share personal information for legal, protection, and safety purposes.
-  * We may share information to comply with laws.
-  * We may share information to respond to lawful requests and legal process.
-  * We may share information to protect the rights and property of YourDailyScoop.com, our agents, customers, and others. This includes enforcing our agreements, policies, and terms of use.
-  * We may share information in an emergency. This includes protecting the safety of our employees and agents, our customers, or any person.
-  * We may share information with those who need it to do work for us.
+If you no longer wish to receive newsletter or promotional communications from us, you may opt-out by following the instructions included in each newsletter or promotional communication or by contacting us as provided in this Privacy Policy. You may continue to receive email communications from us for up to five (5) business days from the time we receive your unsubscribe request. Please note that we can only control our own mailing list and policies. Third party advertisers that maintain their own mailing lists may send communications that advertise our services, and you may need to contact these parties directly in order to stop receiving their communications.
 
+**8\. ACCESS/ACCURACY**
 
+To the extent that you do provide us with certain personally identifiable information, we strive to maintain the accuracy of this information. Our goal is to provide a means to contact us should you need to review, update or correct your information. If for any reason those means are unavailable or inaccessible through the Site, you may send your request to review, update or correct your personally identifiable information to [insert email address] and we will make reasonable efforts to comply as soon as possible.
 
-We may also share aggregated and/or anonymized data with others for their own uses.
+**9\. SECURITY OF INFORMATION**
 
- **THIRD PARTY OFFERS**
+Use of the Site is at your own risk. We do, however, make reasonable efforts to secure your information, including, but not limited to, monitoring our network and data for intrusions. We also use industry-accepted standards to protect your information, including SSL encryption if transmitting sensitive information. Communications you may have with us via email or mail may not be secure unless we advise you that security measures are in place prior to your sending information.
 
-When you register with YourDailyScoop.com, you can elect to sign up with some of our marketing partners so they may to contact you with their special offers. It is solely at your discretion if you choose to provide additional personally identifiable information to a marketer by making a purchase, requesting additional information, or communicating directly with the company or organization after using its website.
+**10\. LINKS TO THIRD PARTY SITES**
 
- **INFORMATION CHOICES AND CHANGES**
+The Site may contain links to third party Web sites including sites with which we have no affiliation. We are not responsible for their privacy practices. It is recommended you read the privacy policies on all such third party Web sites.
 
-Our emails include instructions on how to “opt-out.” By following these instructions you can discontinue receiving emails from YourDailyScoop.com. To do so now, please visit our [unsubscribe page](http://www.yourdailyscoop.com/manage-newsletters).
+**11\. CALIFORNIA PRIVACY RIGHTS**
 
-You may send requests about personal information to our Contact Information below. You can request to change contact choices, opt-out of our sharing with others, and update your personal information.
+Beginning January 1, 2005, under California’s “Shine the Light” law, California residents who provide personal information in obtaining products or services for personal, family, or household use are entitled to either: (i) a list detailing the categories of information shared and the entities to which such information was provided; or (ii) to be notified of a mechanism by which a consumer may opt-out of having their information shared with third parties. We have elected the second option. To opt-out of having your information shared with third parties going forward, simply email us at Team@yourdailyscoop.com with the words “Opt-Out” in the subject header.
 
-You can typically remove and reject cookies from our Site with your browser settings. Many browsers are set to accept cookies until you change your settings. If you remove or reject our cookies, it could affect how our Site works for you.
+**12\. CHILDREN**
 
- **SECURITY OF YOUR PERSONAL INFORMATION**
+If you are under 18, you may not access or use the Site.  BY ACCESSING OR USING THE SITE, YOU REPRESENT THAT YOU ARE AT LEAST 18 YEARS OLD.  In compliance with COPPA, we do not knowingly collect personally identifiable information from users under 13.
 
-We take steps to help protect personal information. No company can fully prevent security risks, however. Mistakes may happen. Bad actors may defeat even the best safeguards.
+**13\. CONTACT INFORMATION**
 
- **CHILDRENS ONLINE PRIVACY PROTECTION ACT COMPLIANCE**
+For more information, or if you have questions or concerns regarding our Privacy Policy or wish to opt-out as provided above, you may email us at Team@yourdailyscoop.com or send us correspondence at the following address:
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
-
- **YOUR CALIFORNIA PRIVACY RIGHTS**
-
-Beginning January 1, 2005, California residents who provide personal information in obtaining products or services for personal, family or household use are entitled to either (1) a list detailing the categories of information shared and the entities to which such information was provided, or (2) be notified of a mechanism by which a consumer may opt-out of having their information shared with third parties.
-
-To opt-out of having your information shared with third parties, send your request, including your full name, email address and postal address to:
-
-YourDailyScoop.com  
-5020 Clark Rd Ste 106  
-Sarasota, FL 34233  
-Team@YourDailyScoop.com
-
- **CONTACT INFORMATION**
-
-We welcome your comments or questions about this Privacy Policy via email at Team@YourDailyScoop.com. You may also contact us at our address:
-
-YourDailyScoop.com  
-5020 Clark Rd Ste 106  
+YourDailyScoop.com, LLC.  
+5020 Clark Rd. Ste. 106  
 Sarasota, FL 34233
-
- **CHANGES TO THIS PRIVACY POLICY**
-
-We may change this Privacy Policy. If we make any changes, we will change the Last Updated date below.
-
-This Privacy Policy was last Updated on 3/7/2013.
