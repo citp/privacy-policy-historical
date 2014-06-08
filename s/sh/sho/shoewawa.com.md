@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoewawa.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224041137id_/http%3A//www.aiguamedia.com/content/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoewawa.com privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608082937id_/http%3A//www.aiguamedia.com/content/privacy_policy) for the most accurate reproduction.*
 
 # AiguaMedia - The fashion and beauty MEGAzine
 
