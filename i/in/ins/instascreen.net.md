@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the instascreen.net privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103045248id_/http%3A//www.tazworks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instascreen.net privacy policy that was archived on 2014-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140609014701id_/http%3A//www.tazworks.com/privacy-policy) for the most accurate reproduction.*
 
-# TazWorks | Privacy Policy | Background Check Software for Tenant and Employment Screening
+# Privacy Policy | TazWorks
 
 TAZWORKS, LLC values your right and your customers’ right to privacy. We have created this privacy statement to demonstrate our commitment to keep personal information safe, secure and confidential. This privacy policy discloses our information-gathering and dissemination practices for websites on the TAZWORKS.NET and INSTASCREEN.NET domains. By accessing and using our websites, you consent to the collection and use of personal information by TAZWORKS, LLC as disclosed in this privacy policy.
 
