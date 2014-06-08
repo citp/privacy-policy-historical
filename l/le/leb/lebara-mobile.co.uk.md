@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lebara-mobile.co.uk privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202164110id_/http%3A//www.lebara.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lebara-mobile.co.uk privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608140857id_/http%3A//www.lebara.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Lebara Mobile - International mobile phone calls & SIM cards
 
@@ -128,8 +128,8 @@ Some web pages and Micro Websites included within Lebara’s websites may be co-
 9.4 Non-EEA Use of Information  
 The information you provide to us may be passed to third parties located outside the European Economic Area. Countries outside the European Economic Area do not always have strong data protection laws. However we will always take steps to ensure that your information is used by third parties in accordance with this policy. Additional terms and conditions may be presented when signing up for specific products and services.   
 9.5 Marketing Information from Third Parties  
-If you choose to receive marketing information from other companies, we will only disclose your personal information to these companies where they have undertaken not to use your personal information for any purpose other than to provide information to you or other uses to which you have agreed. If you decide that you no longer want to receive information from a particular company, you should contact that company directly. You should be aware that if you subsequently give any personal information to another company, the uses to which that information may be put will be determined by that company's privacy policy. 
+If you choose to receive marketing information from other companies, we will only disclose your personal information to these companies where they have undertaken not to use your personal information for any purpose other than to provide information to you or other uses to which you have agreed. If you decide that you no longer want to receive information from a particular company, you should contact that company directly. You should be aware that if you subsequently give any personal information to another company, the uses to which that information may be put will be determined by that company's privacy policy.
 
-**10 Marketing Information from Third Parties**  
+ **10 Marketing Information from Third Parties**  
 10.1 If you choose to receive marketing information from other companies, we will only disclose your personal information to these companies where they have undertaken not to use your personal information for any purpose other than to provide information to you or other uses to which you have agreed. If you decide that you no longer want to receive information from a particular company, you should contact that company directly.   
 10.2 You should be aware that if you subsequently give any personal information to another company, the uses to which that information may be put will be determined by that company's privacy policy.
