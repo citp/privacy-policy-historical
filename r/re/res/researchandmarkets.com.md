@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the researchandmarkets.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126034532id_/http%3A//www.researchandmarkets.com/info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the researchandmarkets.com privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608082635id_/http%3A//www.researchandmarkets.com/info/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Research and Markets
 
