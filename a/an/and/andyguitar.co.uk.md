@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the andyguitar.co.uk privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208075417id_/http%3A//www.andyguitar.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the andyguitar.co.uk privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608094153id_/http%3A//www.andyguitar.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
