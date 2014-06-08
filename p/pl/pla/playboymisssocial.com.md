@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playboymisssocial.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209231810id_/http%3A//www.playboymisssocial.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playboymisssocial.com privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608160711id_/http%3A//www.playboymisssocial.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy « Playboy's Miss Social
 
