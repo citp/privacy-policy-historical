@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the instacashkeywords.com privacy policy that was archived on 2013-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130302085337id_/http%3A//www.instacashkeywords.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instacashkeywords.com privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608023916id_/http%3A//www.instacashkeywords.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | InstaCashKeywords
+# 
 
 We have created this privacy statement in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with this web site. We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website.
 
