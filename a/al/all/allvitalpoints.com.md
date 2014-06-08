@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allvitalpoints.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207213931id_/http%3A//www.allvitalpoints.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allvitalpoints.com privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608235243id_/http%3A//www.allvitalpoints.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -41,3 +41,5 @@ http://www.allvitalpoints.com/terms-conditions/
  **If you need to contact us, please send email to:**
 
  **angela.taylor@allvitalpoints.com**
+
+[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.allvitalpoints.com%2Fabout-us%2Fprivacy-policy%2F&media=)
