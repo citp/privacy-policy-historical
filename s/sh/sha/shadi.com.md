@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shadi.com privacy policy that was archived on 2013-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130918031348id_/http%3A//www.shadi.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shadi.com privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608163409id_/http%3A//www.shadi.com/privacy.htm) for the most accurate reproduction.*
 
 # Matrimonial privacy statement, Marriage Privacy, Wedding Policy
 
