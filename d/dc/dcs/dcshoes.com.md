@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the dcshoes.com privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110192043id_/http%3A//www.dcshoes.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dbotnav_privacy_txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dcshoes.com privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608024528id_/http%3A//www.dcshoes.com/customer-service-safety-security-and-privacy-privacy-policy.html) for the most accurate reproduction.*
 
-# DC Shoes
+# Privacy Policy - DC Shoes
+
+## Safety, Security & Privacy
+
+### Privacy Policy
+
+**DC SHOES PRIVACY POLICY**
 
 We, DC Shoes, Inc. (referred to herein as "DC," "we," "us" and "our"), are strongly committed to protecting your privacy and providing a safe online experience for all of our users and subscribers while offering the highest quality user experience to them. Because we gather certain types of information about and from you, our users and subscribers, in order to fulfill your requests and better serve your needs, we feel you should fully understand the terms and conditions surrounding the collection and use of this information. This Privacy Policy discloses what information we gather, how we use it, how to correct or change it, and what steps we take to safeguard personal information provided to us both online and offline. Please read the complete Privacy Policy below, as well as our Terms of Use, and contact us if you have any questions.
 
@@ -80,7 +86,9 @@ Your web browser offers so-called "cookies" which, if you allow their use, store
 
 **HOW DO WE USE WEB BEACONS?**
 
-Some pages on the Website may contain electronic images known as web beacons, which are also called "single-pixel gifs." These images allow us to count users who have visited those pages and to deliver co-branded services. We also may include web beacons in promotional e-mail messages or newsletters in order to count how many messages have been opened and acted upon. Web beacons are not used to access your personally identifiable information but they are a technique we use to compile aggregated statistics about our Website usage. Web beacons collect only a limited range of information, including the time and date of page view, cookie number and description of the page on which the web beacon resides. Some of our web pages may also contain web beacons placed there by our advertising partners to help us determine the effectiveness of our advertising campaigns.
+Some pages on the Website may contain electronic images known as web beacons, which are also called "single-pixel gifs." These images allow us to count users who have visited those pages and to deliver co-branded services.
+
+We also may include web beacons in promotional e-mail messages or newsletters in order to count how many messages have been opened and acted upon. Web beacons are not used to access your personally identifiable information but they are a technique we use to compile aggregated statistics about our Website usage. Web beacons collect only a limited range of information, including the time and date of page view, cookie number and description of the page on which the web beacon resides. Some of our web pages may also contain web beacons placed there by our advertising partners to help us determine the effectiveness of our advertising campaigns.
 
 **WHAT ABOUT THIRD-PARTY ADVERTISERS?**
 
@@ -90,10 +98,10 @@ Some of the third-party content displayed in our Website is provided by outside 
 
 We believe that choice in how and when you are contacted is key to customer satisfaction. Therefore, we offer several ways for you to update your contact information and/or change your preferences.
 
-  1. If you have a user account at our Website, you may be able to log on and update or change your contact or account information.
-  2. You may unsubscribe to any of our e-mail updates by following the unsubscribe instructions in the body of any e-mail message.
-  3. You may write to us and update your contact information or ask that we not share your personal contact information with third-parties at: DC Shoes, Inc., 15202 Graham Street, Huntington Beach, CA 92649, Attn: Privacy Coordinator. In those instances, we will retain your information in a "do not promote" file in our database. 
-  4. You may also contact us via email at [privacypolicy@dcshoes.com](mailto:privacypolicy@dcshoes.com).
+  * If you have a user account at our Website, you may be able to log on and update or change your contact or account information.
+  * You may unsubscribe to any of our e-mail updates by following the unsubscribe instructions in the body of any e-mail message.
+  * You may write to us and update your contact information or ask that we not share your personal contact information with third-parties at: DC Shoes, Inc., 15202 Graham Street, Huntington Beach, CA 92649, Attn: Privacy Coordinator. In those instances, we will retain your information in a "do not promote" file in our database.
+  * You may also contact us via email at [privacypolicy@dcshoes.com](mailto:privacypolicy@dcshoes.com).
 
 
 
@@ -119,16 +127,20 @@ Our Website and the servers that make the Website available worldwide are locate
 
 **CHANGES TO OUR PRIVACY POLICY**
 
-We will occasionally update this Privacy Policy as necessary to protect our users and to comply with a changing environment. We recommend that you check the Privacy Policy when you visit our Website to be sure that you are aware of and understand our current policy. If we make material changes to this policy, or in how we use or collect your personally identifiable information, we will prominently post such changes. We will not make any retroactive material changes in how we handle previously collected personal information unless you allow us to do so, or unless we are legally required to do so, and in such a case we will e-mail registered Website visitors information on material changes to this Privacy Policy. 
+We will occasionally update this Privacy Policy as necessary to protect our users and to comply with a changing environment. We recommend that you check the Privacy Policy when you visit our Website to be sure that you are aware of and understand our current policy. If we make material changes to this policy, or in how we use or collect your personally identifiable information, we will prominently post such changes. We will not make any retroactive material changes in how we handle previously collected personal information unless you allow us to do so, or unless we are legally required to do so, and in such a case we will e-mail registered Website visitors information on material changes to this Privacy Policy.
 
 **CONTACT INFORMATION**
 
 If you have any questions about this Privacy Policy or our privacy practices, please e-mail us at [privacypolicy@dcshoes.com](mailto:privacypolicy@dcshoes.com). Please include the URL of the Website and/or specific page within the Website involved in your request.
 
-Or you can contact us by mail at:  
-DC Shoes, Inc.  
-15202 Graham Street  
-Huntington Beach, CA 92649  
+Or you can contact us by mail at:
+
+DC Shoes, Inc.
+
 Attn: Privacy Coordinator
 
-Or you can fax us at (714) 889-2325, Attn: Privacy Coordinator 
+15202 Graham Street
+
+Huntington Beach, CA 92649
+
+Or you can fax us at (714) 889-2325, Attn: Privacy Coordinator
