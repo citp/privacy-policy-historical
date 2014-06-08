@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the botb.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211092313id_/http%3A//www.botb.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the botb.com privacy policy that was archived on 2014-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140609004532id_/http%3A//www.botb.com/Privacy.aspx) for the most accurate reproduction.*
 
 # botb.com - privacy policy
 
