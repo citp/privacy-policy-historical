@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the romnation.net privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114105525id_/http%3A//www.romnation.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the romnation.net privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608150427id_/http%3A//www.romnation.net/privacy.html) for the most accurate reproduction.*
 
 # ROMNation.NET - Privacy Statement
 
