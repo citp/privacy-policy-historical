@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the 8051projects.info privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208100556id_/http%3A//www.8051projects.info/pages/Privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 8051projects.info privacy policy that was archived on 2014-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140609014029id_/http%3A//www.8051projects.info/pages/Privacy_policy) for the most accurate reproduction.*
 
 # Privacy policy of 8051projects.info | Free Microcontroller Projects - 8051-AVR-PIC
 
-[](https://web.archive.org/web/20131208100556id_/http://www.8051projects.info/pages/Privacy_policy/misc/quick-navigation-menu?selected=node-48 "Open quick navigation")
+[](https://web.archive.org/web/20140609014029id_/http://www.8051projects.info/pages/Privacy_policy/misc/quick-navigation-menu?selected=node-48 "Open quick navigation")
 
 **Free Microcontroller Projects - 8051-AVR-PIC**
 
-[Home](http://www.8051projects.info/) [Forums](http://www.8051projects.info/) >
+[Home](http://www.8051projects.info/) [Forums](http://www.8051projects.info/forums/) >
 
 ### Privacy policy of 8051projects.info
 
@@ -60,10 +60,10 @@ The search box on this website (Search Box) is powered by Google Inc (Google). Y
 If you do not agree to 8051projects.info Privacy Policy as posted here on this website, please do not use this site or any services offered by this site.  
 Your use of this site indicates acceptance of this privacy policy.
 
-[](https://web.archive.org/web/20131208100556id_/http://www.8051projects.info/pages/Privacy_policy/misc/quick-navigation-menu?selected=node-48 "Open quick navigation")
+[](https://web.archive.org/web/20140609014029id_/http://www.8051projects.info/pages/Privacy_policy/misc/quick-navigation-menu?selected=node-48 "Open quick navigation")
 
 **Free Microcontroller Projects - 8051-AVR-PIC**
 
-[Home](http://www.8051projects.info/) [Forums](http://www.8051projects.info/) >
+[Home](http://www.8051projects.info/) [Forums](http://www.8051projects.info/forums/) >
 
 [ ](http://www.8051projects.info/)
