@@ -1,330 +1,88 @@
-> *The following text is extracted and transformed from the helloworld.com privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110092448id_/http%3A//www.comf5.com/docs/comf5_privacy_policy-v5.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helloworld.com privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608024823id_/http%3A//www.helloworld.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | HelloWorld
 
-Privacy Policy
-   v.6 — 06-01-2011
+## HelloWorld, Inc. Privacy Policy
 
+###### Last Revised: January 17, 2014
 
-	                	  
-At ComF5, LLC. ("comF5®" or "Service Provider"), we respect our Users'
-and Clients' right to privacy with regards to the use of their email and our
-Web sites. We have adopted a privacy policy ("Privacy Policy") that we
-hope provides the greatest possible privacy to our Users and Clients,
-assuming they are not using our services to conduct unlawful activities.
-Our Privacy Policy makes the following commitments:
-WE WILL NOT USE CLIENT OR USER INFORMATION FOR ANY
-PURPOSES OTHER THAN TO PROVIDE THE BEST POSSIBLE
-HOSTED EMAIL, EMAIL MARKETING, ON DEMAND STREAMING
-MEDIA AND RELATED SERVICES. MORE SPECIFICALLY, WE WILL
-NOT SHARE USER OR CLIENT INFORMATION WITH THIRD PARTIES
-IN WAYS OTHER THAN DISCLOSED IN THIS POLICY. ADDITIONALLY,
-WE WILL NOT EMPLOY TECHNOLOGY TO READ EMAIL MESSAGES
-IN ORDER TO TARGET, DISPLAY OR SEND MARKETING ADS BASED
-ON THE CONTENT OF THOSE EMAIL MESSAGES.
-This Privacy Policy discloses the types of personal information collected
-and stored by Service Provider and how that information is used to provide
-the email services and related sales and support services ("Email
-Services"). Client acknowledges and agrees to the collection and use of its
-personal information as set forth in this Privacy Policy.
-Website Information
-Service Provider collects statistical information about how people ("Users")
-locate and navigate its Web sites. This information, sent by normal Web
-browsers, usually includes the browser type, Internet Protocol (IP) address
-and referring URL. This information is used to improve the usefulness of
-the Web sites and to enhance the positioning of Web sites within Internet
-search engines. Users remain anonymous unless they voluntarily contact
-Service Provider by filling out an online form, at which point this data may
-be linked with Users in order to provide the best possible service.
-                                                                                 comF5®
-                                                        7469 W. Lake Mead Blvd. Suite 100
-                                                                    Las Vegas, NV 89128
-                                                                     Phone: 702.938.9300
-                                                                       Fax: 888.566.3314
-                                                                  Email: info@comF5.com
-                                                                   Web: www.comF5.com
+HelloWorld, Inc. (formerly known as ePrize) is a company that helps other businesses operate sweepstakes, contests, promotions, and loyalty programs ("Promotions"). In addition, HelloWorld occasionally runs its own Promotions. Such Promotions gather personally identifiable information from individuals who choose to enter a particular Promotion and anonymous data regarding the Promotion itself. HelloWorld takes its privacy obligations, both to its clients and to people who enter its Promotions, very seriously. HelloWorld complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. HelloWorld has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program and to view HelloWorld’s certification, please visit <http://www.export.gov/safeharbor/>.
+
+This policy outlines our treatment of personally identifiable information we collect on behalf of our clients and for our own use. There are three types of Promotions in which HelloWorld is involved and may collect such information: 1) client Promotions; 2) HelloWorld "opt-in" to client Promotions; and 3) HelloWorld Promotions.
+
+### Client Promotions
+
+As a full service promotions and sweepstakes agency, HelloWorld operates Promotions on behalf of its clients. As part of those services, HelloWorld collects personally identifiable information for its clients by use of HelloWorld's proprietary online technology, HelloWorld mailboxes, and points of entry offline. HelloWorld collects such personally identifiable information solely for the use of its clients and the operation of the Promotions. Such uses may include notification of potential winners, fulfillment of prizes, and marketing analysis. HelloWorld strictly limits access to personally identifiable information within its organization. Data is not shared outside of the company except that HelloWorld provides data to our clients, to third parties if directed by our clients, and in response to appropriate governmental or legal requests. Personally identifiable information collected from a client Promotion is never shared with any client other than the client on whose behalf the information was collected. Personally identifiable information collected by HelloWorld on behalf of a client belongs solely to the client and will be used solely in accordance with that client's privacy policy. An individual's desire to "opt-out" of receiving marketing or other information from a client will be handled in accordance with a particular client's privacy policy. HelloWorld requires its clients, by contract, to use the data which HelloWorld collects on its behalf in accordance with generally accepted privacy standards for both offline and online data, which standards call for an "opt-out" method for individuals who have provided personally identifiable information. Ultimately, however, HelloWorld is not responsible for data collected on behalf of clients when such data is in a client's possession.
+
+### HelloWorld “Opt-in” to Client Promotions
+
+From time to time, HelloWorld and a client will agree to allow HelloWorld to offer Promotion entrants an opportunity to "opt-in" to receiving marketing information from HelloWorld and its partners. In such cases, an HelloWorld "opt-in" question will appear on the Promotion registration page clearly explaining to potential entrants that by checking the box they will be agreeing to share their personally identifiable information with HelloWorld. When individuals "opt-in" to receive information from HelloWorld, they are agreeing to receive email and other notices from HelloWorld, including marketing messages, surveys, special offers and notices about other Promotions. Such notices may come from HelloWorld itself, companies with whom HelloWorld has a business relationship, and/or HelloWorld clients. If you want to "opt-out" of receiving such notices from HelloWorld after you have "opted-in", or you wish to correct the information you have provided to HelloWorld, you may do so in one of two ways:
+
+  1. Send an email to [remove@helloworld.com](mailto:remove@helloworld.com). Please make sure to include the name of the Promotion in the subject line and in the body of the email from which you wish to opt-out. Failure to provide this information may delay the processing of your request.
+  2. Mail the details of your request to:  
+Privacy Policy c/o HelloWorld, Inc.  
+One ePrize Drive  
+Pleasant Ridge, MI 48069
 
 
-	                	  
-Demonstration Email Accounts
-Web site Users may request a fully functional demo account by filling out
-an online form. This form requires a valid email address and phone
-number so that Service Provider can contact User by email or phone to
-confirm potential fit of the email solution and to provide User with the demo
-account password. Service Provider does not use submitted demo request
-form data for any purpose other than to contact Users regarding the demo.
-Contact Information
-When Users fill out an online form to contact Service Provider, Service
-Provider collects some personal information, including but not limited to
-name, company name, phone number, email address, and reason for
-contact. This information is used to respond to the customer's initial
-contact in a timely manner.
-Affiliate Information
-When Users fill out an online form to apply for the Service Provider's
-affiliate program, Service Provider collects some personal information,
-including but not limited to name, company name, title, phone number,
-address, email address and tax ID number. This information is used to
-help Service Provider determine whether or not Users qualify for entry into
-the program.
-Cookies
-A cookie is a small piece of information that a Web server can store
-temporarily with a Web browser. Cookies are useful for having a browser
-remember specific information that the Web server can later retrieve.
-When Users visit Service Provider owned Web sites, a cookie is set on
-their browser for the purpose of gathering statistical data about how the
-Service Provider Web sites are being used. The use of cookies improves
-                                                                                  comF5®
-                                                         7469 W. Lake Mead Blvd. Suite 100
-                                                                     Las Vegas, NV 89128
-                                                                      Phone: 702.938.9300
-                                                                        Fax: 888.566.3314
-                                                                   Email: info@comF5.com
-                                                                    Web: www.comF5.com
+
+### HelloWorld Promotions
+
+HelloWorld also runs Promotions on its own behalf. Such Promotions are to generate interest from other businesses in HelloWorld's products and services. HelloWorld uses the personally identifiable information collected in such Promotions as sales leads and may contact the individual registrants by email, mail or phone. HelloWorld will never sell such information or share it with another business. When individuals "opt-in" to receive information from HelloWorld, they are agreeing to receive email and other notices from HelloWorld, including marketing messages, surveys, special offers and notices about other Promotions. Such notices may come from HelloWorld itself or from HelloWorld on behalf of companies with whom HelloWorld has a business relationship. If you want to "opt-out" of being contacted by HelloWorld after you have participated in one of its Promotions, or you wish to correct the information you have provided to HelloWorld, you may do so in one of two ways:
+
+  1. Send an email to [remove@helloworld.com](mailto:remove@helloworld.com). Please make sure to include the name of the Promotion in the subject line and in the body of the email from which you wish to opt-out. Failure to provide this information may delay the processing of your request.
+  2. Mail the details of your request to:  
+Privacy Policy c/o HelloWorld, Inc.  
+One ePrize Drive  
+Pleasant Ridge, MI 48069
 
 
-	                  	  
-the quality of the Web sites, however if Users prefer, they may configure
-their browser not to accept cookies. Web browsers that do not accept
-cookies will still be able to access some of the Service Provider sites.
-Cookies are tied to Users' personal information only when a purchase is
-made, a demo is requested, or a contact form is filled out.
-Third Party Cookies
-Some of the businesses we advertise with use cookies on our Web site to
-help us determine the effectiveness of our Web site content and
-advertising. We have no control over third party cookies. This Privacy
-Policy covers the use of cookies by comF5, and does not cover the use of
-cookies by any advertisers. The information that these companies collect
-and share through this technology is not personally identifiable. This sub-
-section on Third Party Cookies only applies to the Web Site Information
-section of this Privacy Policy and DOES NOT APPLY TO THE CLIENT
-ACCOUNT INFORMATION section. More specifically, we do not use Third
-Party Cookies when providing Email Services to Clients.
-Clear Gifs (a.k.a. Web Beacons/Web Bugs)
-Some of the businesses we advertise with employ a software technology
-called clear gifs (i.e. Web Beacons/Web Bugs) to help us determine the
-effectiveness of our Web site content and advertising. Clear gifs are tiny
-graphics with a unique identifier, similar in function to cookies, and are
-used to track the online movements of Users. In contrast to cookies, which
-are stored on Users' computer hard drives, clear gifs are embedded
-invisibly on Web pages and are about the size of the period at the end of
-this sentence. We do not tie the information gathered by clear gifs to our
-customers' personally identifiable information. This sub-section on Clear
-Gifs (a.k.a. Web Beacons/Web Bugs) only applies to the Web Site
-Information section of this Privacy Policy and DOES NOT APPLY TO THE
-CLIENT ACCOUNT INFORMATION section. More specifically, we do not
-use Clear Gifs (a.k.a. Web Beacons/Web Bugs) when providing Services
-to Clients.
-                                                                                  comF5®
-                                                         7469 W. Lake Mead Blvd. Suite 100
-                                                                     Las Vegas, NV 89128
-                                                                      Phone: 702.938.9300
-                                                                        Fax: 888.566.3314
-                                                                   Email: info@comF5.com
-                                                                    Web: www.comF5.com
+
+### HelloWorld's Online Promotion Technology
+
+HelloWorld's proprietary Promotion technology has the ability to collect data other than personally identifiable information for any of the Promotions it operates. HelloWorld may collect information about your computer or device configuration such as your browser type, operating system, or ISP domain name. HelloWorld may collect information about the site you last visited prior to the Promotion or about your activity during your visit to the Promotion site. HelloWorld may also offer social sign-on services that allow you to register for a promotion using a third-party social networking site such as Facebook, Google, or Twitter.  By using these services you allow HelloWorld to access the available information from your third-party social network profile such as your name, age, gender, location, email address, and list of friends.  This information may be used by HelloWorld to administer the technical and operational aspects of the site, and may include using your IP address to help diagnose problems with our server. Your IP address may also be used to gather broad demographic information for aggregate use.
+
+### Mobile
+
+As a full service promotions and sweepstakes agency, HelloWorld also operates mobile programs on behalf of its clients and itself. As part of those mobile services, HelloWorld collects personally identifiable information by use of HelloWorld's proprietary mobile technology. HelloWorld will not collect personally identifiable information from you without your permission. We treat any information you send to us as non-confidential and non-proprietary and we cannot guarantee or warrant the security of any data you submit to us, though we will use reasonable efforts to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data under our control, including physical, electronic and procedural safeguards. HelloWorld respects your privacy. We will only use the information you provide, including your mobile number, to send you content pursuant to the program in which you have requested to participate, though we will share the information we collected from you with the client on whose behalf we collected it. We will not use your information for any other purpose.  HelloWorld is not responsible for information collected on behalf of its clients when such information is in its client's possession. However, we reserve the right at all times to disclose any information as necessary to satisfy any law, regulation, or governmental request; to avoid liability; or to protect our rights or property. When you provide us information in connection with a mobile program, you agree to provide accurate, complete and true information. You agree not to use a false or misleading name or a name that you are not authorized to use. If we, in our sole discretion, believe that any such information is untrue, inaccurate or incomplete, we may prohibit you from further participation in the applicable program and pursue any appropriate legal remedies.  
+
+### Cookies
+
+HelloWorld uses browser cookies in order to improve your user experience by enabling our Promotions to ‘remember’ you or your preferences, either for the duration of your single visit to a website (using "session cookies") or during additional visits ("persistent cookies"). A cookie is a small text file that is stored on your computer or device by a website. Only the visited website will be able to read the contents of a particular cookie. Every cookie is unique to your web browser and contains anonymous information such as a unique identifier, the site name, and some digits and numbers. Cookies serve lots of different purposes like letting you navigate between pages efficiently, storing your preferences or settings, and overall improving your experience with our promotions. Cookies make the interaction between you and HelloWorld Promotions faster and easier. If a website doesn’t use cookies, it will think you are a new visitor every time you move to a new page on the site – for example, when you enter your login details and move to another page it won’t recognize you and it won’t be able to keep you logged in.
+
+Some of our websites will also use cookies or web analytics tracking methods to enable them to target advertising or marketing messages based, for example, on your location and/or browsing habits. Cookies may be set by the website domain you are visiting ("first party cookies") or they may be set by other website domains that run content on the page you are viewing ("third party cookies"). The content of third party cookies can sometimes include Facebook "like" buttons or Twitter "tweet" buttons. 
+
+Some people find the idea of a website storing information on their computer or mobile device intrusive, particularly when that information is stored and used by a third party without their consent. If you do not want to see advertising that has been targeted to your interests or activities, it is possible to block some or all cookies, or even to delete cookies that have already been set, but you might lose some or all of that website's functionality. To manage cookies on your browser please see the articles below:
+
+Internet Explorer: <http://support.microsoft.com/kb/278835> 
+
+Mozilla Firefox: <http://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer>
+
+Google Chrome: [http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647](http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647)
+
+Opera: <http://www.opera.com/browser/tutorials/security/privacy/>
+
+### Special Note about Children
+
+Unless otherwise specifically indicated, HelloWorld Promotions are not available to anyone under the age of 13. HelloWorld does, however, operate Promotions on behalf of its clients which collect personally identifiable information from children under the age of 13. In each such instance, HelloWorld and its clients will fully comply with all aspects of the Children's Online Privacy Protection Act ("COPPA") in the operation of the Promotion, in the collection of the information itself, and in the subsequent use and deletion of the data collected.
+
+### Your California Privacy Rights (As provided by California Civil Code Section 1798.83)
+
+A California resident who has provided personal information to a business with whom he/she has established a business relationship for personal, family, or household purposes ("California customer") is entitled to request information about whether the business has disclosed personal information to any third parties for the third parties' direct marketing purposes. In general, if the business has made such a disclosure of personal information, upon receipt of a request by a California customer, the business is required to provide a list of all third parties to whom personal information was disclosed in the preceding calendar year, as well as a list of the categories of personal information that were disclosed. However, under the law, a business is not required to provide the above-described lists if the business adopts and discloses to the public (in its privacy policy) a policy of not disclosing customer's personal information to third parties for their direct marketing purposes unless the customer first affirmatively agrees to the disclosure. Rather, the business may comply with the law by notifying the customer of his or her right to prevent disclosure of personal information and providing a cost free means to exercise that right.
+
+HelloWorld does not support Do Not Track browser settings and does not currently participate in any Do Not Track frameworks that would allow us to respond to signals or other mechanisms from you regarding the collection of your personal information.
+
+### Contact HelloWorld
+
+If you wish to contact HelloWorld to correct, amend, or delete information (if HelloWorld is holding on to your information as explained above), to communicate about privacy related issues, or for any reason at all, you may do so in one of two ways:
+
+  1. Mail to:  
+Privacy Policy c/o HelloWorld, Inc.  
+One ePrize Drive Pleasant Ridge, MI 48069; or
+  2. Email to: [privacy@helloworld.com](mailto:privacy@helloworld.com)
 
 
-	                 	  
-Choice/Opt-Out
-Prior to signing up for our services, we collect personally identifiable
-information when creating a demonstration account, when contacting our
-staff, when requesting customer support and when applying for our affiliate
-program. We only collect personally identifiable information that is
-voluntarily submitted via our online Web site forms. WE WILL ONLY
-CONTACT USERS WHEN A REQUEST FOR CONTACT OR A FULLY
-FUNCTIONAL DEMO ACCOUNT HAS BEEN MADE. Users have the
-option of opting out of future communications by informing the company
-representative that contacts them, by emailing support@comF5.com, or by
-postal mail at the address listed below.
-Client and User Account Information
-When people sign up and pay for Services ("Clients"), Service Provider
-collects some personal information, including but not limited to name,
-phone number, billing address, payment information and password. A
-secret question and answer may also be asked in order to verify the
-identity of Clients if their account password is lost.
-Information Safeguards
-WE WILL NOT USE CLIENT INFORMATION FOR ANY PURPOSES
-OTHER THAN TO PROVIDE THE BEST POSSIBLE HOSTED EMAIL,
-EMAIL MARKETING, ON DEMAND STREAMING MEDIA AND RELATED
-SERVICES. MORE SPECIFICALLY, WE WILL NOT SHARE CLIENT
-INFORMATION WITH THIRD PARTIES IN WAYS OTHER THAN
-DISCLOSED IN THIS POLICY. ADDITIONALLY, WE WILL NOT EMPLOY
-TECHNOLOGY TO READ EMAIL MESSAGES IN ORDER TO TARGET,
-DISPLAY OR SEND MARKETING ADS BASED ON THE CONTENT OF
-THOSE EMAIL MESSAGES.
-                                                                                comF5®
-                                                       7469 W. Lake Mead Blvd. Suite 100
-                                                                   Las Vegas, NV 89128
-                                                                    Phone: 702.938.9300
-                                                                      Fax: 888.566.3314
-                                                                 Email: info@comF5.com
-                                                                  Web: www.comF5.com
 
+### Privacy Policy Changes
 
-	                 	  
-Support Information
-When Clients fill out an online form to make a request for customer
-support, Service Provider collects some personal information, including but
-not limited to name, company name, phone number, email address,
-domain name and description of the inquiry. This information is used to
-open a trouble ticket so that Service Provider can remedy the issue as
-quickly as possible.
-Cookies. When Clients use Service Provider comF5 services, a cookie is
-set on their browser for security authentication purposes. Client sensitive
-information IS NOT stored within these cookies, unless Clients specifically
-select the "Remember my info" check box on the comF5 login page
-located at www.comF5.com. If Clients prefer, they may configure their
-browser not to accept cookies. When browsers are configured not to
-accept cookies, Email Services will still be available via POP3 and IMAP4
-standard protocols, however, for security reasons the comF5 applications
-will not be available.
-Email Contents
-The contents of Clients' email accounts are stored on Service Provider
-servers in order to provide the Email Services. This information is stored
-on secure servers, which process the information in order to provide
-Clients with authenticated access to their mailbox receive and transmit
-email messages and prevent unsolicited bulk email ("Spam"). Email
-contents are backed up to separate storage systems daily for the purpose
-of recovery from errors or system failure. Copies of email messages may
-remain on the backup storage systems for approximately two (2) weeks,
-even after Clients delete the emails from their mailbox or after termination
-of Email Services. Service Provider employees do not access the content
-of any mailboxes unless Clients specifically request them to do so (e.g.,
-when Clients report difficulties using their account), or if required to do so
-by law, or if Service Provider in good faith believes that such action is
-                                                                                 comF5®
-                                                        7469 W. Lake Mead Blvd. Suite 100
-                                                                    Las Vegas, NV 89128
-                                                                     Phone: 702.938.9300
-                                                                       Fax: 888.566.3314
-                                                                  Email: info@comF5.com
-                                                                   Web: www.comF5.com
-
-
-	                  	  
-necessary to protect, maintain and defend the rights and property of
-Service Provider, its Clients or the public.
-Special Email Addresses
-All domains on the Internet are required to have a "postmaster" and
-"abuse" mailbox pursuant to certain industry regulations, specifically RFC
-2821 and RFC 2142. To help Clients comply with this regulation, Service
-Provider automatically accepts mail for the following addresses within all
-domains hosted on the Service Provider Network:
-abuse@example.com - delivers to abuse@comF5.us
-postmaster@example.com - delivers to root@example.com
-root@example.com - delivers to an unmonitored mailbox
-These special email addresses must always exist, however Clients may
-request to have these addresses forward to alternate mailboxes within
-their domain. Service Provider employees monitor the emails that arrive to
-abuse@comF5.com solely for the purpose of following up on abuse related
-complaints from Internet users and ISPs.
-Log Information
-Clients are provided with detailed usage statistics regarding their Email,
-Email Marketing and Streaming Services. To provide this information, and
-to facilitate troubleshooting of problems, Service Provider collects certain
-information relating to the usage of the Services. This information is stored
-in server logs and includes, but is not limited to, usage of SMTP, POP3,
-IMAP, comF5, AttainMail, Spam Filtering and Virus Scanning. This
-information is also aggregated in order to generate system wide usage
-totals, which are used to effectively scale the system infrastructure and
-improve the quality of the Services.
-                                                                                 comF5®
-                                                        7469 W. Lake Mead Blvd. Suite 100
-                                                                    Las Vegas, NV 89128
-                                                                     Phone: 702.938.9300
-                                                                       Fax: 888.566.3314
-                                                                  Email: info@comF5.com
-                                                                   Web: www.comF5.com
-
-
-	                 	  
-Agents
-We use an outside credit card processing company to bill Clients for
-Services. These companies do not retain share, store or use personally
-identifiable information for any other purposes. These third parties are
-prohibited from using your personally identifiable information for any other
-purpose.
-Business Transitions
-In the event that Service Provider goes through a business transition, such
-as a merger, acquisition by another company, or sale of all or a portion of
-its assets, your personally identifiable information will likely be among the
-assets transferred. You will be notified via email as well as through a
-prominent notice on our Web site and control panel of any such change in
-ownership or control of your personal information for at least thirty (30)
-days.
-Access to Personally Identifiable Information
-If your personally identifiable information changes, or if you no longer
-desire our Services, you may correct, update, delete or deactivate your
-account in our control panel, by emailing support@comF5.com, by calling
-or by postal mail at the address listed below.
-Security
-Service Provider has put in place physical, electronic and managerial
-procedures to safeguard the information that is collected. Various security
-technologies have been implemented to ensure that external parties
-cannot access or modify Clients' personal information on the Service
-Provider Network. Specifically, Secure Sockets Layer (SSL) encryption is
-used on specific Web pages to safeguard online purchase transactions.
-SSL technology is the industry standard protocol for secure, Web-based
-                                                                                  comF5®
-                                                         7469 W. Lake Mead Blvd. Suite 100
-                                                                     Las Vegas, NV 89128
-                                                                      Phone: 702.938.9300
-                                                                        Fax: 888.566.3314
-                                                                   Email: info@comF5.com
-                                                                    Web: www.comF5.com
-
-
-	                 	  
-communications. SSL is used by e-commerce Web sites on the Internet to
-enable secure transactions between customers and suppliers. A limited
-number of employees are authorized to access Clients' information when
-the need to do so arises, and those employees undergo thorough
-background checks and are trained on the importance of maintaining
-Clients' privacy.
-Children's Privacy
-comF5 is committed to protecting the privacy needs of children and we
-encourage parents and guardians to take an active role in their children's
-online activities and interests. comF5 does not knowingly collect
-information from children under the age of 13 and does not target its Web
-sites or Services to children under the age of 13.
-Release of Personal Information in Extraordinary
-Circumstances
-Except as provided for in this Privacy Policy, Service Provider will never
-share Clients' personal information with third parties without Clients'
-express permission unless extraordinary circumstances apply. With
-respect to the release of personal information, extraordinary circumstances
-may exist when the disclosure of such information is legally required or
-requested by a governmental entity, or when Service Provider, acting in
-good faith, believes that the disclosure of such information is necessary to
-conform to legal requirements or comply with legal process, protect the
-rights of Service Provider, prevent a crime or protect national security, or
-protect the personal safety of its Clients or the public.
-Privacy Policy Changes
-If we decide to change our Privacy Policy, we will post those changes to
-this Privacy Policy, our Web site, and other places we deem appropriate so
-that you are aware of what information we collect, how we use it, and
-                                                                                  comF5®
-                                                         7469 W. Lake Mead Blvd. Suite 100
-                                                                     Las Vegas, NV 89128
-                                                                      Phone: 702.938.9300
-                                                                        Fax: 888.566.3314
-                                                                   Email: info@comF5.com
-                                                                    Web: www.comF5.com
-
-
-	               	  
-under what circumstances, if any, we disclose it. We reserve the right to
-modify this Privacy Policy at any time, so please review it frequently. If we
-make material changes to this Policy, we will notify you here, by email, or
-by means of a notice on our home page.
-We value your opinions and feedback. If you have comments or questions
-about our Privacy Policy, please email HQ@comF5.com or send them to:
-ComF5, LLC.
-7469 West Lake Mead
-Las Vegas, NV 89128
-                                                                               comF5®
-                                                      7469 W. Lake Mead Blvd. Suite 100
-                                                                  Las Vegas, NV 89128
-                                                                   Phone: 702.938.9300
-                                                                     Fax: 888.566.3314
-                                                                Email: info@comF5.com
-                                                                 Web: www.comF5.com
+_HelloWorld may make material changes to this privacy policy from time to time. Therefore, you should periodically visit this page to view the current privacy policy. In the event of a material change to this privacy policy, HelloWorld will send an email advising of the change to all persons whose email addresses we have collected and retained pursuant to the terms set forth above, or by posting notice of the changes on this site._
