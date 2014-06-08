@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liutilities.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119062101id_/http%3A//liutilities.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liutilities.com privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608132313id_/http%3A//www.liutilities.com/about/privacy) for the most accurate reproduction.*
 
 # Uniblue - Software Made Easy
 
