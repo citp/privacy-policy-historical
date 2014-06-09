@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the a1webdirectory.org privacy policy that was archived on 2013-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131010055525id_/http%3A//www.a1webdirectory.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a1webdirectory.org privacy policy that was archived on 2014-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140609191034id_/http%3A//www.a1webdirectory.org/page/privacy.html) for the most accurate reproduction.*
 
-# A1WebDirectory.org - Privacy Policy
+# Privacy Policy
 
 A1webdirectory.org is the sole owner of the information collected on our directory. We collect information from our users at several different points on our web site. To this end, we have prepared the following privacy policy to ensure all measures are taken to protect the interests of our visitors and provide a more pleasant site experience. ****
 
