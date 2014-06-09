@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oasis-stores.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512123534id_/http%3A//www.oasis-stores.com/fcp/content/SecurityPrivacy/information) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oasis-stores.com privacy policy that was archived on 2014-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140609055033id_/https%3A//www.oasis-stores.com/fcp/content/SecurityPrivacy/information) for the most accurate reproduction.*
 
 # OASIS Privacy and Security - Oasis Womens Fashion Clothing Shop UK - www.Oasis-Stores.com
 
@@ -81,6 +81,8 @@ Cookies are stored in order for us to continually improve our website and provid
 If you want to delete any cookies that are already on your computer, please refer to the instructions for your file management software to locate the file or directory that stores cookies.
 
 Information on deleting or controlling cookies is available at [www.AboutCookies.org](http://www.aboutcookies.org/). However, please note that if you disable the use of cookies on your computer, you will not be able to shop on our website.
+
+Sub2 use cookies to enhance the user experience with this site by delivering both personalised content and offers whilst ensuring you see the products most relevant to you. Any information collected is not shared with any other third parties. To learn more about these cookies, please [click here](http://webservices.sub2tech.com/optout/optout.aspx)
 
 ##   
 And lastly
