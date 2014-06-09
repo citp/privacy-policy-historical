@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the interiorcomplex.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229115916id_/http%3A//interiorcomplex.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interiorcomplex.com privacy policy that was archived on 2014-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140609061803id_/http%3A//interiorcomplex.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Interior Complex
+# Interior Complex | Privacy
 
 Interior Complex recognizes that your privacy and the protection of your personal information is important to you and is committed to protecting your privacy. The privacy policy described below applies to the site and services offered by Interior Complex. 
 
