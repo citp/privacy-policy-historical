@@ -1,0 +1,1029 @@
+<!--The following is the downloaded HTML source of the makinghomeaffordable.gov privacy policy that was archived on 2014-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140609171512id_/http%3A//www.makinghomeaffordable.gov/Pages/privacy_policy.aspx) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" __expr-val-dir="ltr" lang="en-us" dir="ltr"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="Expires" content="0"><meta http-equiv="X-UA-Compatible" content="IE=8"><meta name="description" content="The Making Home Affordable ® Program (MHA) ® is an important part of the Obama Administration's comprehensive plan to stabilize the U.S. housing market by helping homeowners get mortgage relief and avoid foreclosure."><meta name="keywords" content="HAMP, hamp program , mortgage obama, government refinance program, government mortgage relief, government housing assistance, home loan modification, mortgage foreclosure prevention, HARP, foreclosure prevention, affordable home program, hope hotline, hope mortgage assistance, prevent foreclosure, preventing foreclosure, foreclosure counseling, us government foreclosure prevention program, homeowner foreclosure, hud housing counseling, 888-995-hope"><title>
+	
+	Privacy Policy
+
+</title><link rel="shortcut icon" href="/Style%20Library/favicon.ico" type="image/vnd.microsoft.icon"><link rel="stylesheet" type="text/css" href="/Style%20Library/en-US/Themable/Core%20Styles/controls.css">
+<link rel="stylesheet" type="text/css" href="/_layouts/1033/styles/Themable/corev4.css?rev=3TRomkG1g2gMGz4rekMIQg%3D%3D">
+<link rel="stylesheet" type="text/css" href="/Style%20Library/dev/CustomStyles/webEditing.css">
+<link rel="stylesheet" type="text/css" href="/Style%20Library/en-US/Core%20Styles/edit-mode-21.css">
+<link rel="stylesheet" type="text/css" href="/Style%20Library/dev/jquery-ui-1.8.6.custom/css/ui-lightness/jquery-ui-exit.css">
+<link rel="stylesheet" type="text/css" href="/Style%20Library/dev/CustomStyles/styles.css">
+<link rel="stylesheet" type="text/css" href="/Style%20Library/dev/CustomStyles/ui.tabs.css">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://web.archive.org/web/20131005214522/https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+// <![CDATA[
+document.write('<script type="text/javascript" src="/_layouts/1033/init.js?rev=7rurhilS20pNrVcviE3PbA%3D%3D"></' + 'script>');
+document.write('<script type="text/javascript" src="/ScriptResource.axd?d=9xZ2zw0FpzE78nxogu8AsmwBGGZ7PgY-L0DesHksuQPcLTU6S1BcQWXVFoOo8LdxGKsFDyTnERhMKt1_h3-hDzguVWsIBR4dxtvtx_MgYRVHpfpqWNYWiy_2mKv8UYsHR4Ms4E7e1fx_zgHasJwhFFYPggY1&amp;t=ffffffffdd94b7bb"></' + 'script>');
+document.write('<script type="text/javascript" src="/_layouts/blank.js?rev=QGOYAJlouiWgFRlhHVlMKA%3D%3D"></' + 'script>');
+// ]]>
+</script><script type="text/javascript" src="/_layouts/1033/init.js?rev=7rurhilS20pNrVcviE3PbA%3D%3D"></script><script type="text/javascript" src="/ScriptResource.axd?d=9xZ2zw0FpzE78nxogu8AsmwBGGZ7PgY-L0DesHksuQPcLTU6S1BcQWXVFoOo8LdxGKsFDyTnERhMKt1_h3-hDzguVWsIBR4dxtvtx_MgYRVHpfpqWNYWiy_2mKv8UYsHR4Ms4E7e1fx_zgHasJwhFFYPggY1&amp;t=ffffffffdd94b7bb"></script><script type="text/javascript" src="/_layouts/blank.js?rev=QGOYAJlouiWgFRlhHVlMKA%3D%3D"></script>
+
+	<script type="text/javascript" src="/Style Library/jquery-ui-1.8.6.custom/js/jquery-1.4.2.min.js"></script>
+	<script type="text/javascript" src="/Style Library/jquery-ui-1.8.6.custom/js/jquery-ui-1.8.6.custom.min.js"></script>
+	<script type="text/javascript" src="/Style Library/js/swfobject.js"></script>
+	
+	<!-- Light Box -->
+	<script type="text/javascript" src="/Style Library/js/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+	<link rel="stylesheet" type="text/css" href="/Style Library/js/fancybox/jquery.fancybox-1.3.4.css" media="screen">
+	<script type="text/javascript">
+		$(document).ready(function() {
+			$(".lightbox").fancybox({'titleShow': false});
+			$(".lightboxWithCaption").fancybox({'titleShow': true, 'titlePosition' : 'inside'});			
+		});
+	</script>
+
+	<script type="text/javascript">
+	
+	$(document).ready(function(){
+	
+		var thisId;			// Variable to hold the id of the flyout container
+		var thisTabId;		// Variable to hold the id of the associated tab
+		var thisTabLink;	// Variable to hold the link in the associated tab
+		var isIE = false;	// IE doesn't understand backjground-position, so we have to handle it differently
+		var bgp;			// Variable to hold the tab's background positioning
+		var bgpX;			// Variable to hold the tab's background x positioning
+
+		// Bind to the hover event for all of the flyout containers
+		$("div.ms-topNavFlyOutsContainer").hover(
+
+			// On hover
+			function(){
+				// Grab this flyout container's id
+				thisId = $(this).attr("id");
+				// The tab associated with this flyout container has an id which is the same, less the trailing 'Items'
+				thisTabId = thisId.substring(0, thisId.indexOf("Items"));
+				// Get the current background-position of the tab
+				thisTabLink = $("td#" + thisTabId + " a");
+
+				// Get the current background-position-x. IE doesn't understand background-position, so need to handle differently
+				bgp = $(thisTabLink).css('background-position');
+				if(typeof(bgp) === 'undefined') {
+					isIE = true;
+					bgpX = $(thisTabLink).css('background-position-x');
+				} else {
+					bgpX = bgp.substring(0, bgp.indexOf(" "));
+				}
+
+				// Set the tab's background-position-y, leaving background-position-x as is; set text color
+				if(isIE) {
+					$(thisTabLink).css({
+						"background-position-x": bgpX,
+						"background-position-y": "-56px",
+						"color": "#045d9d"
+					});
+				} else {
+					$(thisTabLink).css({
+						"backgroundPosition": bgpX + " -56px",
+						"color": "#045d9d"
+					});
+				}
+			},
+			// On hoverout
+			function(){
+				if(isIE) {
+					$(thisTabLink).css({
+						"background-position-x": "",
+						"background-position-y": "",
+						"color": ""
+					});
+				} else {
+					$(thisTabLink).css({
+						"backgroundPosition": "",
+						"color": ""
+					});
+				}
+			}
+		);
+			
+	});
+	
+	</script>
+  
+	<!-- link to our custom css  -->
+	
+	<!--[if gte IE 8]>
+	<link rel="stylesheet" type="text/css" href="/Style%20Library/CustomStyles/ie8.css" />
+	<![endif]-->
+	<!--[if IE 7]>
+	<link rel="stylesheet" type="text/css" href="/Style%20Library/CustomStyles/ie7.css" />
+	<![endif]-->
+	<!--[if lte IE 6.5]>
+	<link rel="stylesheet" type="text/css" href="/Style%20Library/CustomStyles/ie6.css" />
+	<![endif]-->
+
+	<script type="text/javascript">
+		function ProcessImn(){}
+		function ProcessImnMarkers(){}	
+	</script>
+	
+	
+<style type="text/css">
+	#mha-content-main { width: 970px; }
+	#mha-content-main-content { width: 750px; padding-right: 10px; }
+	#mha-content-main-sub { display: none; }
+</style>
+<!-- Styles for edit mode only-->
+
+
+
+<script type="text/javascript" src="/Style%20Library/js/pagesetup.js"></script>
+<script type="text/javascript" src="/Style%20Library/js/linkcatcher.js"></script>
+<!--loadstorm-25858-->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-19138737-2']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript" src="/Style Library/foresee/foresee-trigger.js"></script>
+<style type="text/css">
+	.s4-skipribbonshortcut { display:none; }
+
+</style><script type="text/javascript" src="/Style Library/foresee/foresee-surveydef.js"></script><script type="text/javascript" src="/_layouts/1033/core.js?rev=thUAOrLfyaU%2Fgyxy0eiMiw%3D%3D"></script><script type="text/javascript" src="/_layouts/sp.core.js?rev=7ByNlH%2BvcgRJg%2BRCctdC0w%3D%3D"></script><script type="text/javascript" src="/_layouts/ScriptResx.ashx?culture=en%2Dus&amp;name=SP%2ERes&amp;rev=b6%2FcRx1a6orhAQ%2FcF%2B0ytQ%3D%3D"></script><script type="text/javascript" src="/_layouts/cui.js?rev=k%2B4HtUzT9%2B3mSycgD7gPaQ%3D%3D"></script></head>
+
+<body onload="javascript:_spBodyOnLoadWrapper();">
+
+<form name="aspnetForm" method="post" action="/web/20140609171512id_/http%3A//www.makinghomeaffordable.gov/Pages/privacy_policy.aspx" id="aspnetForm">
+<input type="hidden" name="MSOWebPartPage_PostbackSource" id="MSOWebPartPage_PostbackSource" value="">
+<input type="hidden" name="MSOTlPn_SelectedWpId" id="MSOTlPn_SelectedWpId" value="">
+<input type="hidden" name="MSOTlPn_View" id="MSOTlPn_View" value="0">
+<input type="hidden" name="MSOTlPn_ShowSettings" id="MSOTlPn_ShowSettings" value="False">
+<input type="hidden" name="MSOGallery_SelectedLibrary" id="MSOGallery_SelectedLibrary" value="">
+<input type="hidden" name="MSOGallery_FilterString" id="MSOGallery_FilterString" value="">
+<input type="hidden" name="MSOTlPn_Button" id="MSOTlPn_Button" value="none">
+<input type="hidden" name="__REQUESTDIGEST" id="__REQUESTDIGEST" value="0xF0F5FF338F0ABEE70327C67174DAB218ABF4B119343475BB6D17D17B084D7FADEBFE32FEBB7D7155C116F100416A5FB3694FB32B229B16458E32CF1ED13BC334,09 Jun 2014 17:15:09 -0000">
+<input type="hidden" name="MSOSPWebPartManager_DisplayModeName" id="MSOSPWebPartManager_DisplayModeName" value="Browse">
+<input type="hidden" name="MSOSPWebPartManager_ExitingDesignMode" id="MSOSPWebPartManager_ExitingDesignMode" value="false">
+<input type="hidden" name="MSOWebPartPage_Shared" id="MSOWebPartPage_Shared" value="">
+<input type="hidden" name="MSOLayout_LayoutChanges" id="MSOLayout_LayoutChanges" value="">
+<input type="hidden" name="MSOLayout_InDesignMode" id="MSOLayout_InDesignMode" value="">
+<input type="hidden" name="_wpSelected" id="_wpSelected" value="">
+<input type="hidden" name="_wzSelected" id="_wzSelected" value="">
+<input type="hidden" name="MSOSPWebPartManager_OldDisplayModeName" id="MSOSPWebPartManager_OldDisplayModeName" value="Browse">
+<input type="hidden" name="MSOSPWebPartManager_StartWebPartEditingName" id="MSOSPWebPartManager_StartWebPartEditingName" value="false">
+<input type="hidden" name="MSOSPWebPartManager_EndWebPartEditing" id="MSOSPWebPartManager_EndWebPartEditing" value="false">
+<input type="hidden" name="_maintainWorkspaceScrollPosition" id="_maintainWorkspaceScrollPosition" value="0">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEzMTk3NzI4NjUPZBYCZg9kFgICAQ9kFgQCAQ9kFgICBg9kFgJmD2QWAgIBDxYCHhNQcmV2aW91c0NvbnRyb2xNb2RlCymIAU1pY3Jvc29mdC5TaGFyZVBvaW50LldlYkNvbnRyb2xzLlNQQ29udHJvbE1vZGUsIE1pY3Jvc29mdC5TaGFyZVBvaW50LCBWZXJzaW9uPTE0LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTcxZTliY2UxMTFlOTQyOWMBZAIDD2QWBAIJD2QWBGYPZBYEAgEPFgIeB1Zpc2libGVoFgJmD2QWBAICD2QWBgIBDxYCHwFoZAIDDxYIHhNDbGllbnRPbkNsaWNrU2NyaXB0BXxqYXZhU2NyaXB0OkNvcmVJbnZva2UoJ1Rha2VPZmZsaW5lVG9DbGllbnRSZWFsJywxLCA1MywgJ2h0dHA6XHUwMDJmXHUwMDJmd3d3Lm1ha2luZ2hvbWVhZmZvcmRhYmxlLmdvdjo4MDgwJywgLTEsIC0xLCAnJywgJycpHhhDbGllbnRPbkNsaWNrTmF2aWdhdGVVcmxkHihDbGllbnRPbkNsaWNrU2NyaXB0Q29udGFpbmluZ1ByZWZpeGVkVXJsZB4MSGlkZGVuU2NyaXB0BSJUYWtlT2ZmbGluZURpc2FibGVkKDEsIDUzLCAtMSwgLTEpZAIFDxYCHwFoZAIDDw8WCh4JQWNjZXNzS2V5BQEvHg9BcnJvd0ltYWdlV2lkdGgCBR4QQXJyb3dJbWFnZUhlaWdodAIDHhFBcnJvd0ltYWdlT2Zmc2V0WGYeEUFycm93SW1hZ2VPZmZzZXRZAusDZGQCAw9kFgICAQ9kFgICAw9kFgICAQ88KwAFAQAPFgIeD1NpdGVNYXBQcm92aWRlcgURU1BTaXRlTWFwUHJvdmlkZXJkZAIBD2QWBgIFD2QWAgIBDxAWAh8BaGQUKwEAZAIHD2QWAmYPZBYCZg8UKwADZGRkZAIJDw8WAh8BaGRkAg8PZBYCAgoPZBYGAgUPFgIfAAsrBAFkAgcPFgIfAAsrBAFkAg0PFgIfAAsrBAFkGAIFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBSdjdGwwMCRQbGFjZUhvbGRlclNlYXJjaEFyZWEkY3RsMDAkYnRuR28FGWN0bDAwJFRvcE5hdmlnYXRpb25NZW51VjQPD2QFBEhvbWVkOCbw5MaMNNUTRgiL1YpmQZeohhc=">
+
+
+<script type="text/javascript">
+//<![CDATA[
+var MSOWebPartPageFormName = 'aspnetForm';
+var g_presenceEnabled = true;
+var g_wsaEnabled = false;
+var g_wsaLCID = 1033;
+var g_wsaSiteTemplateId = 'BLANKINTERNET#0';
+var g_wsaListTemplateId = 850;
+var _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: "\u002f", webLanguage: 1033, currentLanguage: 1033, webUIVersion:4,pageListId:"{ee04c94a-1219-4c9f-a567-bbbfe268d857}",pageItemId:2, alertsEnabled:true, siteServerRelativeUrl: "\u002f", allowSilverlightPrompt:'True'};document.onreadystatechange=fnRemoveAllStatus; function fnRemoveAllStatus(){removeAllStatus(true)};//]]>
+</script>
+
+<script src="/WebResource.axd?d=_nYgzYMCx7iIsIgzSbZQ8TPd4U7l0Gmkch6xUa_iAZUPP36FUGlA1lZwQR-NeX6YvHGrg-ogduBWfxV1mkihqo-SOPM1&amp;t=635295784538743069" type="text/javascript"></script>
+<script src="/_layouts/blank.js?rev=QGOYAJlouiWgFRlhHVlMKA%3D%3D" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(DeferWebFormInitCallback) == 'function') DeferWebFormInitCallback();//]]>
+</script>
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="13A7447B">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwLZv9WJBAKhl6b7DAL629urBKj5jqSjaiP0orcT/haBzut79kM+">
+
+
+		<style type="text/css">    body #s4-ribbonrow {display: none;} </style>
+	 
+
+
+<!-- handles SharePoint scripts -->
+
+
+<!-- controls the web parts and zones -->
+
+
+<!-- this control is more navigation for mysites, otherwise it is empty -->
+
+
+<p class="hiddenStructure">
+	<a href="#mainContent" title="Skip to main content">Skip to content</a>
+	<a href="#sitemap" title="Skip to footer site map">Skip to footer site map</a>
+</p>
+
+
+<!-- =====  Begin Ribbon ============================================================ -->
+<div style="display:none" id="exit_div" title="You are leaving the MakingHomeAffordable.gov website."></div>
+<div id="scrollingDiv">
+
+<div id="s4-ribbonrow" class="s4-pr">
+	<div id="s4-ribboncont">
+	
+		<!-- ribbon starts here -->
+		<div class="ms-cui-ribbonTopBars"><div class="ms-cui-topBar1"></div><div class="ms-cui-topBar2"><div id="RibbonContainer-TabRowLeft" class="ms-cui-TabRowLeft ms-siteactionscontainer s4-notdlg">
+					
+					<!-- site actions -->
+					<span class="ms-siteactionsmenu" id="siteactiontd">
+					</span>
+			
+			  <!-- global navigation dhtml popout menu -->
+			  
+					<span class="s4-breadcrumb-anchor"><span style="height:16px;width:16px;position:relative;display:inline-block;overflow:hidden;" class="s4-clust"><a id="GlobalBreadCrumbNavPopout-anchor" onclick="CoreInvoke('callOpenBreadcrumbMenu', event, 'GlobalBreadCrumbNavPopout-anchor', 'GlobalBreadCrumbNavPopout-menu', 'GlobalBreadCrumbNavPopout-img', 's4-breadcrumb-anchor-open', 'ltr', '', false); return false;" onmouseover="" onmouseout="" title="Navigate Up" href="javascript:;" style="display:inline-block;height:16px;width:16px;"><img src="/_layouts/images/fgimg.png" alt="Navigate Up" style="border:0;position:absolute;left:-0px !important;top:-112px !important;"></a></span></span><div class="ms-popoutMenu s4-breadcrumb-menu" id="GlobalBreadCrumbNavPopout-menu" style="display:none;">
+						<div class="s4-breadcrumb-top">
+							<span class="s4-breadcrumb-header">This page location is:</span>
+						</div>
+						
+							<ul class="s4-breadcrumb">
+	<li class="s4-breadcrumbRootNode"><span class="s4-breadcrumb-arrowcont"><span style="height:16px;width:16px;position:relative;display:inline-block;overflow:hidden;" class="s4-clust s4-breadcrumb"><img src="/_layouts/images/fgimg.png" alt="" style="border-width:0px;position:absolute;left:-0px !important;top:-353px !important;"></span></span><a class="s4-breadcrumbRootNode" href="/">Home</a><ul class="s4-breadcrumbRootNode"><li class="s4-breadcrumbNode"><span class="s4-breadcrumb-arrowcont"><span style="height:16px;width:16px;position:relative;display:inline-block;overflow:hidden;" class="s4-clust s4-breadcrumb"><img src="/_layouts/images/fgimg.png" alt="" style="border-width:0px;position:absolute;left:-0px !important;top:-353px !important;"></span></span><a class="s4-breadcrumbNode external" href="http://www.makinghomeaffordable.gov/_layouts/listform.aspx?ListId=%7BEE04C94A%2D1219%2D4C9F%2DA567%2DBBBFE268D857%7D&amp;PageType=0">Pages</a><ul class="s4-breadcrumbNode"><li class="s4-breadcrumbCurrentNode"><span class="s4-breadcrumb-arrowcont"><span style="height:16px;width:16px;position:relative;display:inline-block;overflow:hidden;" class="s4-clust s4-breadcrumb"><img src="/_layouts/images/fgimg.png" alt="" style="border-width:0px;position:absolute;left:-0px !important;top:-353px !important;"></span></span><span class="s4-breadcrumbCurrentNode">privacy_policy</span></li></ul></li></ul></li>
+</ul>
+						
+					</div>
+				
+				
+			<!-- save button at top of ribbon -->
+			</div><div id="RibbonContainer-TabRowRight" class="ms-cui-TabRowRight s4-trc-container s4-notdlg">
+				
+				<!-- GlobalSiteLink0 delegate default shows nothing -->
+				
+
+				
+				<!-- Welcome / Login control -->
+				<div class="s4-trc-container-menu">
+					 <div>
+						
+<a id="ctl00_IdWelcome_ExplicitLogin" class="s4-signInLink external" href="http://www.makinghomeaffordable.gov/_layouts/Authenticate.aspx?Source=%2FPages%2Fprivacy%5Fpolicy%2Easpx" style="display:inline;">Sign In</a>
+
+						<!-- MultiLingual User Interface menu -->
+						
+<script type="text/javascript">
+// <![CDATA[
+function OnSelectionChange(value)
+{
+	var today = new Date();
+	var oneYear = new Date(today.getTime() + 365 * 24 * 60 * 60 * 1000);
+	var url = window.location.href;
+	document.cookie = "lcid=" + value + ";path=/;expires=" + oneYear.toGMTString();
+	window.location.href = url;
+}
+// ]]>
+</script>
+
+						
+					</div>
+				</div>
+			
+				<!-- GlobalSiteLink2 delegate default shows nothing -->
+				
+				
+				<!-- link to launch developer dashboard if its activated by admin -->
+				<span>
+					<span class="s4-devdashboard">
+					
+					</span>
+				</span>
+			</div></div></div>
+<script type="text/javascript">
+//<![CDATA[
+var g_commandUIHandlers = {"name":"CommandHandlers","attrs":{},"children":[]};
+//]]>
+</script>
+	  
+	  <!-- end main ribbon control -->
+	</div>
+
+    <!-- dynamic notification area -->
+	<div id="notificationArea" class="s4-noti"></div>
+
+    <!-- old navigation delegate? -->
+	
+			
+<span id="ctl00_SPNavigation_ctl00_publishingConsoleV4_publishingRibbon"></span>
+
+
+
+	
+	
+	<!-- top web part panel -->
+	<div id="WebPartAdderUpdatePanelContainer">
+		<div id="ctl00_WebPartAdderUpdatePanel">
+	
+				<span id="ctl00_WebPartAdder"></span>
+			
+</div>
+	</div>
+</div>
+
+<!-- page editing status bar -->
+						<div id="s4-statusbarcontainer" class="s4-notdlg">
+							<div id="pageStatusBar" class="s4-status-s1" style="display: none;"></div>
+						</div>
+</div>
+<!-- =====  End Ribbon and other Top Content ============================================================ -->
+
+
+<!-- =====  Start Scrolling Body Area ============================================================ -->
+
+<!-- these two div id's are used to setup the main scrolling page area, they should stay if you are sticking the ribbon to the top -->
+<div id="s4-workspace-noscroll" class="s4-nosetwidth">  <!-- NOTE: s4-nosetwidth is used when you are setting a fixed page width in css, remove for 100% -->
+  <div id="s4-bodyContainer">
+  <!-- This stays on the outside so the web parts render to the far right -->
+	  <div id="ctl00_MSO_ContentDiv">
+		<div id="mha-container">
+			<div id="mha-outer-wrapper">
+				<div id="mha-wrapper">
+					<div id="mha-inner-wrapper">
+						<div id="s4-titlerow-nohide" class="s4-notdlg">
+							<!-- hide top stuff when editing page -->
+							  
+							<div id="mha-top" class="s4-notdlg">
+								<h1 id="mha-logo">
+								<a title="Back to Making Home Affordable Home" href="/">Making Home Affordable</a>
+									<span>An official program of the Departments of the Treasury &amp; Housing and Urban Development</span>
+								</h1>
+								<div id="mha-language">
+									<ul>
+										<li><a title="In Spanish" href="/spanish">En Español</a> | </li> 
+										<li><a title="In Chinese" href="/chinese">繁體中文翻譯</a> | </li>
+										<li><a title="In Korean" href="/korean">한국어</a> | </li>
+										<li><a title="In Russian" href="/russian">Russian</a> | </li>
+										<li><a title="In Vietnamese" href="/vietnamese">Việt </a> | </li>
+										<li><a title="In Tagalog" href="/tagalog">Tagalog</a> </li>
+ 									</ul>
+								</div>
+								<div id="mha-search">
+									<div id="mha-searchbox">
+										
+											
+<div class="search-input-box">
+            <label for="ctl00_PlaceHolderSearchArea_ctl00_txtSearch" id="ctl00_PlaceHolderSearchArea_ctl00_Label1" class="hiddenStructure">Enter search text here</label>
+            <input name="ctl00$PlaceHolderSearchArea$ctl00$txtSearch" type="text" id="ctl00_PlaceHolderSearchArea_ctl00_txtSearch" class="watermark">
+</div>
+            <div style="display:none;">
+                        <input type="image" name="ctl00$PlaceHolderSearchArea$ctl00$btnGo" id="ctl00_PlaceHolderSearchArea_ctl00_btnGo" src="/style%20library/images/treas/gosearch15.png" alt="Click this button to Search Treasury.gov" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$PlaceHolderSearchArea$ctl00$btnGo&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" border="0">
+            </div>
+<div class="search-input-button">
+            <input type="image" name="mynewbutton2" id="mynewbutton2" src="/style%20library/images/treas/gosearch15.png" alt="Click this button to Search Treasury.gov" onclick="my_btnGoSearch_Click(); return false;" style="border-width:0px;"> 
+</div>
+<br>
+<a href="http://search.treasury.gov/search/advanced?affiliate=treasury" class="external">Advanced Search</a>
+<script> 
+  function my_btnGoSearch_Click() {
+    var strQuery = $("#ctl00_PlaceHolderSearchArea_ctl00_txtSearch").val();
+  var searchHost = window.location;
+  if (/makinghomeaffordable/ig.test(searchHost)) {
+    window.location = "http://search.treasury.gov/search?affiliate=mha&commit=Search&query=" + strQuery;
+  } else {
+    window.location = "http://search.treasury.gov/search?affiliate=treasury&commit=Search&query=" + strQuery;
+  }
+}
+</script>
+
+										
+									</div>
+								</div>
+								<ul id="mha-seals">
+									<li id="mha-seals-t"><a title="US Department of the Treasury" href="http://www.treasury.gov" class="external">US Department of the Treasury</a></li>
+									<li id="mha-seals-h"><a title="US Department of Housing and Urban Development" href="http://www.hud.gov" class="external">US Department of Housing and Urban Development</a></li>
+								</ul>
+								
+							</div>
+							<!-- end mha-top -->
+							<div id="mha-menu" class="s4-notdlg">
+							
+								
+						
+								<table id="zz1_TopNavigationMenuV4" class="ms-topNavContainer" cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr>
+		<td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="Home" id="zz1_TopNavigationMenuV4n0"><table class="ms-topnavselected ms-topnav" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td nowrap="nowrap"><a class="ms-topnavselected ms-topnav" href="/Pages/default.aspx" accesskey="1">Home</a></td><td width="0"><img src="/WebResource.axd?d=yvHZ5Kx6TDdl-AfOoC-_XeGj7JbcrNFA7rrRgDIfu-ouCgTMZv3Hb9kUkRL3kkb8xkPCKYt7n9DqPfGYaBNKpExF0Zs1&amp;t=635295784538743069" alt="Expand Home" valign="middle"></td>
+			</tr>
+		</tbody></table></td><td width="0"></td><td width="0"></td><td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="About MHA" id="zz1_TopNavigationMenuV4n1"><table class="ms-topnav" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td nowrap="nowrap"><a class="ms-topnav" href="/about-mha/Pages/default.aspx">About MHA</a></td><td width="0"><img src="/WebResource.axd?d=yvHZ5Kx6TDdl-AfOoC-_XeGj7JbcrNFA7rrRgDIfu-ouCgTMZv3Hb9kUkRL3kkb8xkPCKYt7n9DqPfGYaBNKpExF0Zs1&amp;t=635295784538743069" alt="Expand About MHA" valign="middle"></td>
+			</tr>
+		</tbody></table></td><td width="0"></td><td width="0"></td><td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="Explore Programs " id="zz1_TopNavigationMenuV4n2"><table class="ms-topnav" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td nowrap="nowrap"><a class="ms-topnav" href="/programs/Pages/default.aspx">Explore Programs</a></td><td width="0"><img src="/WebResource.axd?d=yvHZ5Kx6TDdl-AfOoC-_XeGj7JbcrNFA7rrRgDIfu-ouCgTMZv3Hb9kUkRL3kkb8xkPCKYt7n9DqPfGYaBNKpExF0Zs1&amp;t=635295784538743069" alt="Expand Explore Programs" valign="middle"></td>
+			</tr>
+		</tbody></table></td><td width="0"></td><td width="0"></td><td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="Get Started" id="zz1_TopNavigationMenuV4n3"><table class="ms-topnav" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td nowrap="nowrap"><a class="ms-topnav" href="/get-started/Pages/default.aspx">Get Started</a></td><td width="0"><img src="/WebResource.axd?d=yvHZ5Kx6TDdl-AfOoC-_XeGj7JbcrNFA7rrRgDIfu-ouCgTMZv3Hb9kUkRL3kkb8xkPCKYt7n9DqPfGYaBNKpExF0Zs1&amp;t=635295784538743069" alt="Expand Get Started" valign="middle"></td>
+			</tr>
+		</tbody></table></td><td width="0"></td><td width="0"></td><td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="Tools" id="zz1_TopNavigationMenuV4n4"><table class="ms-topnav" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td nowrap="nowrap"><a class="ms-topnav" href="/tools">Tools</a></td><td width="0"><img src="/WebResource.axd?d=yvHZ5Kx6TDdl-AfOoC-_XeGj7JbcrNFA7rrRgDIfu-ouCgTMZv3Hb9kUkRL3kkb8xkPCKYt7n9DqPfGYaBNKpExF0Zs1&amp;t=635295784538743069" alt="Expand Tools" valign="middle"></td>
+			</tr>
+		</tbody></table></td><td width="0"></td><td width="0"></td><td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="Learning Center" id="zz1_TopNavigationMenuV4n5"><table class="ms-topnav" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td nowrap="nowrap"><a class="ms-topnav" href="/learning-center">Learning Center</a></td><td width="0"><img src="/WebResource.axd?d=yvHZ5Kx6TDdl-AfOoC-_XeGj7JbcrNFA7rrRgDIfu-ouCgTMZv3Hb9kUkRL3kkb8xkPCKYt7n9DqPfGYaBNKpExF0Zs1&amp;t=635295784538743069" alt="Expand Learning Center" valign="middle"></td>
+			</tr>
+		</tbody></table></td><td width="0"></td><td width="0"></td><td onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="For Partners" id="zz1_TopNavigationMenuV4n6"><table class="ms-topnav" cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tbody><tr>
+				<td nowrap="nowrap"><a class="ms-topnav" href="/for-partners/Pages/default.aspx">For Partners</a></td><td width="0"><img src="/WebResource.axd?d=yvHZ5Kx6TDdl-AfOoC-_XeGj7JbcrNFA7rrRgDIfu-ouCgTMZv3Hb9kUkRL3kkb8xkPCKYt7n9DqPfGYaBNKpExF0Zs1&amp;t=635295784538743069" alt="Expand For Partners" valign="middle"></td>
+			</tr>
+		</tbody></table></td><td width="0"></td>
+	</tr>
+</tbody></table><div id="zz1_TopNavigationMenuV4n0Items" class="ms-topNavFlyOutsContainer" style="display:none;">
+	<table border="0" cellpadding="0" cellspacing="0">
+		<tbody><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_TopNavigationMenuV4n7">
+			<td><table class="ms-topNavFlyOuts" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="ms-topNavFlyOuts" href="/learn-more/examples/Pages/default.aspx">Homeowner Examples</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_TopNavigationMenuV4n8">
+			<td><table class="ms-topNavFlyOuts" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="ms-topNavFlyOuts" href="/learn-more/success-stories/Pages/default.aspx">Homeowner Success Stories</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_TopNavigationMenuV4n9">
+			<td><table class="ms-topNavFlyOuts" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="ms-topNavFlyOuts" href="/learn-more/lending-discrimination/Pages/default.aspx">Lending Discrimination</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_TopNavigationMenuV4n10">
+			<td><table class="ms-topNavFlyOuts" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="ms-topNavFlyOuts" href="/learn-more/Pages/CheckMyNPV.aspx">Understanding Net Present Value (NPV) </a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_TopNavigationMenuV4n11">
+			<td><table class="ms-topNavFlyOuts" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="ms-topNavFlyOuts" href="/learn-more/trial-period/Pages/default.aspx">Understanding the Trial Period </a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_TopNavigationMenuV4n12">
+			<td><table class="ms-topNavFlyOuts" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="ms-topNavFlyOuts" href="/learn-more/mortgage-statement/Pages/default.aspx">Understanding Your Mortgage Statement</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_TopNavigationMenuV4n13">
+			<td><table class="ms-topNavFlyOuts" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="ms-topNavFlyOuts" href="/learn-more/videos/Pages/default.aspx">Videos</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr>
+	</tbody></table><div class="ms-topNavFlyOuts" id="zz1_TopNavigationMenuV4n0ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" align="center" style="display:none;">
+		<img src="/WebResource.axd?d=SwjhlUCzrfBrx2rHdAQemUxkXFrvKbPWlXuKB3k5W8mXnqFwV_mYfLYLX3kjVAjISx4XNQr7QeTwSdsP_JXBKyrYVO41&amp;t=635295784538743069" alt="Scroll up">
+	</div><div class="ms-topNavFlyOuts" id="zz1_TopNavigationMenuV4n0ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" align="center" style="display:none;">
+		<img src="/WebResource.axd?d=YMfNjoUpWJuhXTzVCtFy_CwzPDzb8TtbwV_pfM-6jT5vXW2V5tT0JHfU2qJuyYPoCcZH7Oav9oZmuLqGo3HCU8tCITk1&amp;t=635295784538743069" alt="Scroll down">
+	</div>
+</div><div id="zz1_TopNavigationMenuV4n1Items" class="ms-topNavFlyOutsContainer" style="display:none;">
+	<table border="0" cellpadding="0" cellspacing="0">
+		<tbody><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="What is MHA?" id="zz1_TopNavigationMenuV4n14">
+			<td><table class="ms-topNavFlyOuts" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="ms-topNavFlyOuts" href="/about-mha/Pages/what-is-mha.aspx">What is MHA?</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="Frequently Asked Questions" id="zz1_TopNavigationMenuV4n15">
+			<td><table class="ms-topNavFlyOuts" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="ms-topNavFlyOuts" href="/about-mha/faqs">Frequently Asked Questions</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="Latest News" id="zz1_TopNavigationMenuV4n16">
+			<td><table class="ms-topNavFlyOuts" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="ms-topNavFlyOuts" href="/about-mha/latest-news">Latest News</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="PSA Campaigns " id="zz1_TopNavigationMenuV4n17">
+			<td><table class="ms-topNavFlyOuts" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="ms-topNavFlyOuts" href="/about-mha/psa-campaigns">PSA Campaigns </a></td>
+				</tr>
+			</tbody></table></td>
+		</tr>
+	</tbody></table><div class="ms-topNavFlyOuts" id="zz1_TopNavigationMenuV4n1ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" align="center" style="display:none;">
+		<img src="/WebResource.axd?d=SwjhlUCzrfBrx2rHdAQemUxkXFrvKbPWlXuKB3k5W8mXnqFwV_mYfLYLX3kjVAjISx4XNQr7QeTwSdsP_JXBKyrYVO41&amp;t=635295784538743069" alt="Scroll up">
+	</div><div class="ms-topNavFlyOuts" id="zz1_TopNavigationMenuV4n1ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" align="center" style="display:none;">
+		<img src="/WebResource.axd?d=YMfNjoUpWJuhXTzVCtFy_CwzPDzb8TtbwV_pfM-6jT5vXW2V5tT0JHfU2qJuyYPoCcZH7Oav9oZmuLqGo3HCU8tCITk1&amp;t=635295784538743069" alt="Scroll down">
+	</div>
+</div><div id="zz1_TopNavigationMenuV4n2Items" class="ms-topNavFlyOutsContainer" style="display:none;">
+	<table border="0" cellpadding="0" cellspacing="0">
+		<tbody><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="Lower Monthly Payments" id="zz1_TopNavigationMenuV4n18">
+			<td><table class="ms-topNavFlyOuts" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="ms-topNavFlyOuts" href="/programs/lower-payments/Pages/default.aspx">Lower Monthly Payments</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="Lower Interest Rates " id="zz1_TopNavigationMenuV4n19">
+			<td><table class="ms-topNavFlyOuts" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="ms-topNavFlyOuts" href="/programs/lower-rates/Pages/default.aspx">Lower Interest Rates</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="If You Are Unemployed" id="zz1_TopNavigationMenuV4n20">
+			<td><table class="ms-topNavFlyOuts" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="ms-topNavFlyOuts" href="/programs/unemployed-help/Pages/default.aspx">If You Are Unemployed</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="If You Have a Second Mortgage" id="zz1_TopNavigationMenuV4n21">
+			<td><table class="ms-topNavFlyOuts" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="ms-topNavFlyOuts" href="/programs/second-mortgage-help/Pages/default.aspx">If You Have a Second Mortgage</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="If Your Home's Value Has Fallen" id="zz1_TopNavigationMenuV4n22">
+			<td><table class="ms-topNavFlyOuts" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="ms-topNavFlyOuts" href="/programs/fallen-value-help/Pages/default.aspx">If Your Home's Value Has Fallen</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="Leave Your Home &amp; Avoid Foreclosure" id="zz1_TopNavigationMenuV4n23">
+			<td><table class="ms-topNavFlyOuts" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="ms-topNavFlyOuts" href="/programs/exit-gracefully/Pages/default.aspx">Leave Your Home &amp; Avoid Foreclosure</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_TopNavigationMenuV4n24">
+			<td><table class="ms-topNavFlyOuts" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="ms-topNavFlyOuts" href="/programs/military-resources/Pages/default.aspx">Military Resources</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_TopNavigationMenuV4n25">
+			<td><table class="ms-topNavFlyOuts" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="ms-topNavFlyOuts" href="/programs/view-all-programs/Pages/default.aspx">View All Programs</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr>
+	</tbody></table><div class="ms-topNavFlyOuts" id="zz1_TopNavigationMenuV4n2ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" align="center" style="display:none;">
+		<img src="/WebResource.axd?d=SwjhlUCzrfBrx2rHdAQemUxkXFrvKbPWlXuKB3k5W8mXnqFwV_mYfLYLX3kjVAjISx4XNQr7QeTwSdsP_JXBKyrYVO41&amp;t=635295784538743069" alt="Scroll up">
+	</div><div class="ms-topNavFlyOuts" id="zz1_TopNavigationMenuV4n2ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" align="center" style="display:none;">
+		<img src="/WebResource.axd?d=YMfNjoUpWJuhXTzVCtFy_CwzPDzb8TtbwV_pfM-6jT5vXW2V5tT0JHfU2qJuyYPoCcZH7Oav9oZmuLqGo3HCU8tCITk1&amp;t=635295784538743069" alt="Scroll down">
+	</div>
+</div><div id="zz1_TopNavigationMenuV4n3Items" class="ms-topNavFlyOutsContainer" style="display:none;">
+	<table border="0" cellpadding="0" cellspacing="0">
+		<tbody><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="What to Expect" id="zz1_TopNavigationMenuV4n26">
+			<td><table class="ms-topNavFlyOuts" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="ms-topNavFlyOuts" href="/get-started/what-to-expect">What to Expect</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="What You Will Need" id="zz1_TopNavigationMenuV4n27">
+			<td><table class="ms-topNavFlyOuts" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="ms-topNavFlyOuts" href="/get-started/what-you-will-need">What You Will Need</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="Finding the Right Program" id="zz1_TopNavigationMenuV4n28">
+			<td><table class="ms-topNavFlyOuts" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="ms-topNavFlyOuts" href="/get-started/finding-the-right-program">Finding the Right Program</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="Speak with a Housing Expert" id="zz1_TopNavigationMenuV4n29">
+			<td><table class="ms-topNavFlyOuts" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="ms-topNavFlyOuts" href="/get-started/housing-expert/Pages/default.aspx">Speak with a Housing Expert</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="Contact Your Mortgage Company " id="zz1_TopNavigationMenuV4n30">
+			<td><table class="ms-topNavFlyOuts" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="ms-topNavFlyOuts" href="/get-started/contact-mortgage/Pages/default.aspx">Contact Your Mortgage Company</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="Request a Modification" id="zz1_TopNavigationMenuV4n31">
+			<td><table class="ms-topNavFlyOuts" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="ms-topNavFlyOuts" href="/get-started/request-modification/Pages/default.aspx">Request a Modification</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr>
+	</tbody></table><div class="ms-topNavFlyOuts" id="zz1_TopNavigationMenuV4n3ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" align="center" style="display:none;">
+		<img src="/WebResource.axd?d=SwjhlUCzrfBrx2rHdAQemUxkXFrvKbPWlXuKB3k5W8mXnqFwV_mYfLYLX3kjVAjISx4XNQr7QeTwSdsP_JXBKyrYVO41&amp;t=635295784538743069" alt="Scroll up">
+	</div><div class="ms-topNavFlyOuts" id="zz1_TopNavigationMenuV4n3ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" align="center" style="display:none;">
+		<img src="/WebResource.axd?d=YMfNjoUpWJuhXTzVCtFy_CwzPDzb8TtbwV_pfM-6jT5vXW2V5tT0JHfU2qJuyYPoCcZH7Oav9oZmuLqGo3HCU8tCITk1&amp;t=635295784538743069" alt="Scroll down">
+	</div>
+</div><div id="zz1_TopNavigationMenuV4n4Items" class="ms-topNavFlyOutsContainer" style="display:none;">
+	<table border="0" cellpadding="0" cellspacing="0">
+		<tbody><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="Find Local Homeowner Events" id="zz1_TopNavigationMenuV4n32">
+			<td><table class="ms-topNavFlyOuts" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="ms-topNavFlyOuts" href="/tools/homeowner-events/Pages/default.aspx">Find Local Homeowner Events</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="Payment Reduction Estimator" id="zz1_TopNavigationMenuV4n33">
+			<td><table class="ms-topNavFlyOuts" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="ms-topNavFlyOuts" href="/tools/payment-reduction">Payment Reduction Estimator</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="Does Fannie or Freddie Own Your Loan?" id="zz1_TopNavigationMenuV4n34">
+			<td><table class="ms-topNavFlyOuts" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="ms-topNavFlyOuts" href="/tools/does-fannie-or-freddie-own-your-loan/Pages/default.aspx">Does Fannie or Freddie Own Your Loan?</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr>
+	</tbody></table><div class="ms-topNavFlyOuts" id="zz1_TopNavigationMenuV4n4ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" align="center" style="display:none;">
+		<img src="/WebResource.axd?d=SwjhlUCzrfBrx2rHdAQemUxkXFrvKbPWlXuKB3k5W8mXnqFwV_mYfLYLX3kjVAjISx4XNQr7QeTwSdsP_JXBKyrYVO41&amp;t=635295784538743069" alt="Scroll up">
+	</div><div class="ms-topNavFlyOuts" id="zz1_TopNavigationMenuV4n4ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" align="center" style="display:none;">
+		<img src="/WebResource.axd?d=YMfNjoUpWJuhXTzVCtFy_CwzPDzb8TtbwV_pfM-6jT5vXW2V5tT0JHfU2qJuyYPoCcZH7Oav9oZmuLqGo3HCU8tCITk1&amp;t=635295784538743069" alt="Scroll down">
+	</div>
+</div><div id="zz1_TopNavigationMenuV4n5Items" class="ms-topNavFlyOutsContainer" style="display:none;">
+	<table border="0" cellpadding="0" cellspacing="0">
+		<tbody><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="Glossary of Terms" id="zz1_TopNavigationMenuV4n35">
+			<td><table class="ms-topNavFlyOuts" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="ms-topNavFlyOuts" href="/learning-center/glossary">Glossary of Terms</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="Videos" id="zz1_TopNavigationMenuV4n36">
+			<td><table class="ms-topNavFlyOuts" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="ms-topNavFlyOuts" href="/learning-center/videos">Videos</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="Avoiding Scams " id="zz1_TopNavigationMenuV4n37">
+			<td><table class="ms-topNavFlyOuts" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="ms-topNavFlyOuts" href="/learning-center/Pages/beware.aspx">Avoiding Scams</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="Key Concepts You Should Know" id="zz1_TopNavigationMenuV4n38">
+			<td><table class="ms-topNavFlyOuts" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="ms-topNavFlyOuts" href="/learning-center/key-concepts">Key Concepts You Should Know</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr>
+	</tbody></table><div class="ms-topNavFlyOuts" id="zz1_TopNavigationMenuV4n5ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" align="center" style="display:none;">
+		<img src="/WebResource.axd?d=SwjhlUCzrfBrx2rHdAQemUxkXFrvKbPWlXuKB3k5W8mXnqFwV_mYfLYLX3kjVAjISx4XNQr7QeTwSdsP_JXBKyrYVO41&amp;t=635295784538743069" alt="Scroll up">
+	</div><div class="ms-topNavFlyOuts" id="zz1_TopNavigationMenuV4n5ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" align="center" style="display:none;">
+		<img src="/WebResource.axd?d=YMfNjoUpWJuhXTzVCtFy_CwzPDzb8TtbwV_pfM-6jT5vXW2V5tT0JHfU2qJuyYPoCcZH7Oav9oZmuLqGo3HCU8tCITk1&amp;t=635295784538743069" alt="Scroll down">
+	</div>
+</div><div id="zz1_TopNavigationMenuV4n6Items" class="ms-topNavFlyOutsContainer" style="display:none;">
+	<table border="0" cellpadding="0" cellspacing="0">
+		<tbody><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="Working Together" id="zz1_TopNavigationMenuV4n39">
+			<td><table class="ms-topNavFlyOuts" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="ms-topNavFlyOuts" href="/for-partners/working-together/Pages/default.aspx">Working Together</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="Understanding Program Guidelines" id="zz1_TopNavigationMenuV4n40">
+			<td><table class="ms-topNavFlyOuts" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="ms-topNavFlyOuts" href="/for-partners/understanding-guidelines/Pages/default.aspx">Understanding Program Guidelines</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="Informing Homeowners in Your Community" id="zz1_TopNavigationMenuV4n41">
+			<td><table class="ms-topNavFlyOuts" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="ms-topNavFlyOuts" href="/for-partners/informing-homeowners/Pages/default.aspx">Informing Homeowners in Your Community</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" id="zz1_TopNavigationMenuV4n42">
+			<td><table class="ms-topNavFlyOuts" cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td nowrap="nowrap" width="100%"><a class="ms-topNavFlyOuts external" href="https://www.hmpadmin.com/portal/resources/advisors/escalation.jsp">Escalating Difficult-to-Resolve Cases</a></td>
+				</tr>
+			</tbody></table></td>
+		</tr>
+	</tbody></table><div class="ms-topNavFlyOuts" id="zz1_TopNavigationMenuV4n6ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" align="center" style="display:none;">
+		<img src="/WebResource.axd?d=SwjhlUCzrfBrx2rHdAQemUxkXFrvKbPWlXuKB3k5W8mXnqFwV_mYfLYLX3kjVAjISx4XNQr7QeTwSdsP_JXBKyrYVO41&amp;t=635295784538743069" alt="Scroll up">
+	</div><div class="ms-topNavFlyOuts" id="zz1_TopNavigationMenuV4n6ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" align="center" style="display:none;">
+		<img src="/WebResource.axd?d=YMfNjoUpWJuhXTzVCtFy_CwzPDzb8TtbwV_pfM-6jT5vXW2V5tT0JHfU2qJuyYPoCcZH7Oav9oZmuLqGo3HCU8tCITk1&amp;t=635295784538743069" alt="Scroll down">
+	</div>
+</div>	
+							</div>
+							<!-- end mha-menu -->
+						</div>
+						<!-- end s4-titlerow -->
+						
+						<div id="MSO_ContentTable">
+							
+							<div id="mha-content" class="clearfix">
+								<div id="mha-content-main" class="clearfix">
+									<div id="mha-content-main-content">
+									<span style="position:absolute"> <a name="mainContent" class="external">&nbsp;</a></span>
+										
+
+	<div id="breadcrumb">
+		<span sitemapproviders="CurrentNavSiteMapProviderNoEncode,SPXmlContentMapProvider" hideinteriorrootnodes="true"><span><a title="Home" class="breadcrumbNode" href="/Pages/default.aspx">Home</a></span><span>
+			» </span><span><a class="currentNode" href="/Pages/privacy_policy.aspx">Privacy Policy</a></span></span>
+		
+	</div>
+	<h2 class="pagetitle">
+		&nbsp;Privacy Policy
+	</h2>
+<div class="content">	
+	<div id="ctl00_PlaceHolderMain_ctl01_label" style="display:none">Page Content</div><div id="ctl00_PlaceHolderMain_ctl01__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_ctl01_label">​PRIVACY POLICY AND LEGAL NOTICES FOR TREASURY DEPARTMENT PUBLICLY-ACCESSIBLE WEB SITES<div>&nbsp;</div>
+<div><strong>Privacy Policy</strong></div>
+<div>The MakingHomeAffordable.gov web site is administered by the Department of the Treasury. If you visit the MakingHomeAffordable.gov web site to read or download information, we collect and store only the following information about you: the name of the domain from which you access the Internet; the date and time you access our site; and the Internet address of the web site from which you linked directly to our site. We do not collect or use any information subject to the Privacy Act, such as name and address. Raw data logs are used for no other purposes and are scheduled for regular destruction in accordance with National Archives and Records Administration Guidance.</div>
+<div>&nbsp;</div>
+<p>We will not obtain personally identifying information about you when you visit our site unless you voluntarily choose to provide such information to us by E-mail, by completing a comment form, forum registration site, or other on-line form. The Department of the Treasury does not give, sell or transfer personal information to third parties unless required by law, such as the Freedom of Information Act.</p>
+<p>We use <strong>Google Analytics</strong>&nbsp; to generate aggregate summary&nbsp;data about visits to Treasury web sites&nbsp;to assess what information is of most&nbsp; interest, identify system performance or problem areas, and to participate in the <a href="http://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government.html#measure-performance" class="external">National Digital Strategy</a>.&nbsp;&nbsp;<strong>Please&nbsp;visit </strong><a href="/SitePolicies/Pages/Google-Privacy-Information.aspx"><strong>Google Privacy Policy and How to Opt Out of Google Cookies. </strong></a></p>
+<div>Except for authorized law enforcement investigations, no other attempts are made to identify individual users or their usage habits.</div>
+<div>For information specific to any Treasury bureau web site regarding the use of cookies and other privacy information, please review the privacy policy at that bureau's web site.</div>
+<div>&nbsp;</div>
+<div>We strongly discourage you from sending any personal information, such as a social security number, address or any other personal identifiable information. It may be necessary on certain bureau web sites to collect personally identifiable information (name, E-mail address, social security number, or other unique identifier), but only if specifically and knowingly provided by you. Personally identifying information you provide will be used only for such other purposes as are described at the point of collection by the bureau asking for the information. Visit the Privacy Policy pages of bureau web sites for information on controls in place to ensure the security and confidentiality of any personally identifiable information collected by bureaus.</div>
+<div>&nbsp;</div>
+<div>For more information on the Privacy Act visit our <a href="http://www.treasury.gov/FOIA/Pages/privacy_index.aspx" class="external">Privacy Act page</a>. A discussion of rights under the Privacy Act is available at <a href="http://www.publications.usa.gov/" class="external">Publications.usa.gov</a>.</div>
+<div>&nbsp;</div>
+<div><strong>Notice of Monitoring</strong></div>
+<div>You are entering an Official United States Government System which may be used only for authorized purposes. The Government may monitor and audit usage of this system, and all persons are hereby notified that use of this system constitutes consent to such monitoring and auditing.</div>
+<div>&nbsp;</div>
+<div>Unauthorized attempts to upload information and/or change information on these web sites are strictly prohibited and are subject to prosecution under the Computer Fraud and Abuse Act of 1986 and 18 U.S.C. §§1001 and 1030.</div>
+<div>&nbsp;</div>
+<div><strong>Disclaimer of Endorsement</strong></div>
+<div>The Department of the Treasury does not endorse any commercial product, service, process, or enterprise. Links to other web sites and references to any commercial product or enterprise are provided solely for the convenience of the user and do not constitute an endorsement or recommendation. The Department of the Treasury assumes no responsibility for the content or operation of other web sites.</div>
+<div>&nbsp;</div>
+<div><strong>Disclaimer of Liability</strong></div>
+<div>The United States Government (including the Department of the Treasury) makes no warranty, express or implied, including the warranties of merchantability and fitness for a particular purpose and assumes no legal liability or responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product, or process described or depicted on this web site and does not represent that its use would not infringe privately owned rights.</div>
+<div>&nbsp;</div>
+<div><strong>External Links and Social Media/3rd Party Sites</strong></div>
+<div>This web site includes links to federal and non-federal external sites. Non-federal websites do not necessarily operate under the same laws, regulations, and policies as federal websites. If you click a link to an outside website, such as Facebook, Twitter, YouTube, Flickr, or other external site, you will leave the MakingHomeAffordable.gov site and are subject to the privacy and security policies of the owners/sponsors of the outside website.</div>
+<blockquote dir="ltr" style="margin-right:0px"><p>a. <strong>Treasury's Purpose in &nbsp;Using Social Media - </strong>The Department of the Treasury uses 3rd party social media sites such as Facebook, Twitter, and YouTube as additional means&nbsp;of&nbsp;reaching the public and directing people to <a href="/">www.MakingHomeAffordable.gov</a>, which is the official web site of the Making Home Affordable Program.</p>
+<p>b. <strong>Treasury</strong><strong>&nbsp;does not&nbsp;use, maintain, or share&nbsp;Personally Identifiable Information (PII) made available through social media/3rd party sites.</strong> You can access information published to these sites from the top navigation icons or MakingHomeAffordable.gov Social Hub page without having an account with or subscribing to these 3rd party services. If you access&nbsp;one of these sites without an&nbsp;account, no&nbsp;Personally Identifiable Information&nbsp;is exposed to&nbsp;Treasury.&nbsp;&nbsp;If you subscribe to one of these services and your account name, on-line&nbsp;profile,&nbsp;or comments you make happens to reveal personally identifiable information, we will not use, maintain, or share that information outside the agency.</p>
+<p>c.<strong>&nbsp;Please&nbsp;Review the&nbsp;&nbsp;Privacy Policies of these Social Media/3rd Party Sites.</strong>&nbsp;You should familiarize yourself with the privacy policies of&nbsp;any social media site or 3rd party site you use. Some of these sites may use persistent cookies in order to improve the service they provide to their users.<a href="http://www.usa.gov/optout_instructions.shtml" class="external"><font color="#0072bc"> Instructions to opt out of receiving cookies are available at USA.gov</font></a>, the official portal of the U.S. Government.&nbsp;&nbsp;If you actually subscribe to these services, you may be revealing personally identifiable information to&nbsp;a&nbsp;3rd party, non-government entity. Since our social media content is available to the general public, if you make a comment on a social media site, any information in your comment, as well as your profile name and&nbsp;any other&nbsp;public profile information, will be available to the general public to see. </p>
+<p>Privacy Policies: <a href="http://www.facebook.com/privacy/explanation.php" class="external">Facebook</a>, <a href="http://twitter.com/privacy" class="external">Twitter</a>, <a href="http://www.youtube.com/t/privacy_at_youtube" class="external">YouTube</a>,&nbsp; <a href="http://info.yahoo.com/privacy/us/yahoo/flickr/details.html" class="external">Flickr</a>, and <a href="/SitePolicies/Pages/Google-Privacy-Information.aspx">Google</a>.</p>
+<p>d.<strong> Mitigating Other Privacy Risks </strong>- Only authorized Treasury employees&nbsp;tasked with&nbsp;administering&nbsp;Treasury social media accounts&nbsp;will&nbsp;have&nbsp;access to those accounts.</p></blockquote>
+<div><strong>Copyright Status</strong></div>
+<div>No copyright may be claimed for any work on this web site that was created or maintained by Federal employee in the course of their duties. Images and text appearing on this web site may be freely copied. Credit is requested. If copyrighted material appears on the site, or is reached through a link on this site, the copyright holder must be consulted before the material may be reproduced.</div>
+<div>&nbsp;</div>
+<div><strong>Official Seal, Names and Symbols</strong></div>
+<div>Federal law prohibits use of any symbol, emblem, seal, insignia or badge of any entity of the Department of Treasury or any colorable imitation of such words, initials, symbols, emblems, or seals in connection with any advertisement, solicitation, business activity, or product where such use could reasonably be interpreted as conveying the false impression that such advertisement, solicitation, business activity, or product is in any manner approved, endorsed, sponsored, or authorized by, or associated with, the Department of the Treasury or any organization within the Department. See 18 U.S.C. § 701, 31 U.S.C. § 333 and 31 C.F.R. Part 37.</div>
+<div>&nbsp;</div>
+<div>Please see <a href="http://www.treasury.gov/SitePolicies/Pages/site-policy.aspx" class="external">Site Policies and Notices </a>for additional notices related to the MakingHomeAffordable.gov web site.</div>
+</div>	
+	<menu class="ms-SrvMenuUI">
+	<ie:menuitem id="MSOMenu_Help" iconsrc="/_layouts/images/HelpIcon.gif" onmenuclick="MSOWebPartPage_SetNewWindowLocation(MenuWebPart.getAttribute('helpLink'), MenuWebPart.getAttribute('helpMode'))" text="Help" type="option" style="display:none">
+
+	</ie:menuitem>
+</menu>	
+	
+
+
+</div>
+<div class="addthis">
+	<a class="addthis_button external" href="https://www.addthis.com/bookmark.php?v=250&amp;username=xa-4ca2952823c3cdb9"><img src="https://s7.addthis.com/static/btn/v2/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0"></a>
+	<script type="text/javascript" src="https://s7.addthis.com/js/250/addthis_widget.js#username=xa-4ca2952823c3cdb9"></script>
+</div>
+<div class="updated">
+	Last Updated:
+	5/29/2014 9:30 AM
+</div>
+
+
+									</div>
+									<!-- end mha-content-main-content -->
+									<div id="mha-content-main-nav" class="s4-notdlg">
+										<!-- The quick launch bar / left navigation -->
+										
+											
+											
+										
+									</div>
+									<!-- end mha-content-main-nav -->
+									
+								</div>
+								<!-- end mha-content-main -->
+								<div id="mha-content-sub">
+									
+								</div>
+								<!-- end mha-content-sub -->
+							</div>
+							<!-- end mha-content -->
+							
+						</div>
+						<!-- end MSO_ContentTable -->
+						
+					</div><!-- end mha-inner-wrapper -->
+				</div><!-- end mha-wrapper -->
+			</div><!-- end mha-outer-wrapper -->
+			<span style="position:absolute"> <a name="sitemap" class="external">&nbsp;</a></span>
+			<div id="mha-footer" class="clearfix s4-notdlg">
+				<div id="mha-footer-col1">
+					<ul>
+						<li><a href="http://www.treasury.gov" class="external">Treasury.gov</a></li>
+						<li><a href="http://www.hud.gov" class="external">HUD.gov</a></li>
+						<li><a href="http://www.whitehouse.gov" class="external">WhiteHouse.gov</a></li>
+					</ul>
+				</div>
+				<div id="mha-footer-col2" class="mha-footer-links">
+					<h2>Related Sites</h2>
+					<ul>
+						<li><a href="http://www.financialstability.gov" class="external">FinancialStability.gov</a></li>
+						<li><a href="http://www.mymoney.gov" class="external">MyMoney.gov</a></li>
+					</ul>
+				</div>
+				<div id="mha-footer-col3" class="mha-footer-links">
+					<h2>Other Useful Sites</h2>
+					<ul>
+						<li><a href="http://www.usa.gov" class="external">USA.gov</a></li>
+						<li><a href="http://www.usajobs.gov" class="external">USAJOBS.gov</a></li>
+						<li><a href="http://opm.gov" class="external">OPM.gov</a></li>
+					</ul>
+				</div>
+				<div id="mha-footer-col4" class="mha-footer-links">
+					<ul>
+						<li id="mha-opengov"><a href="http://www.whitehouse.gov/open" class="external"><img src="/Style%20Library/images/mha/logo-opengov.png" alt="OpenGov" width="104" height="26"></a></li>
+					</ul>
+				</div>
+			</div><!-- end mha-footer -->
+			<div id="mha-footer2" class="clearfix s4-notdlg">
+				<div id="mha-footer-req" style="display: none;">
+					<h6 title="Some content within this site requires a plug-in to view. The following links provide plug-in download information.">Required Plug-ins</h6>
+					<ul id="plugins">
+						<li name="pluginLink" class="swf" style="display:none;"><a class="newWin external" href="http://get.adobe.com/flashplayer/">Adobe® Flash Player</a></li>
+						<li name="pluginLink" class="pdf" style="display:none;"><a class="newWin external" href="http://get.adobe.com/reader/">Adobe® Reader®</a></li>	
+						<li name="pluginLink" class="xls" style="display:none;"><a class="newWin external" href="http://www.microsoft.com/downloads/en/details.aspx?familyid=1cd6acf9-ce06-4e1c-8dcf-f33f669dbc3a&amp;displaylang=en">MS Excel Viewer</a></li>
+						<li name="pluginLink" class="ppt" style="display:none;"><a class="newWin external" href="http://www.microsoft.com/downloads/en/details.aspx?FamilyID=048dc840-14e1-467d-8dca-19d2a8fd7485&amp;displaylang=en">MS PowerPoint Viewer</a></li>
+						<li name="pluginLink" class="doc" style="display:none;"><a class="newWin external" href="http://support.microsoft.com/kb/891090">MS Word Viewer</a></li>
+						<li name="pluginLink" class="mov" style="display:none;"><a class="newWin external" href="http://www.apple.com/quicktime/download/">QuickTime Player</a></li>
+						<li name="pluginLink" class="wmv" style="display:none;"><a class="newWin external" href="http://windows.microsoft.com/en-US/windows/downloads/windows-media-player">Windows Media Player</a></li>
+					</ul>
+				</div>
+
+				
+				<div id="mha-footer-global">
+					<ul>
+						<li><a href="/Pages/site-map.aspx">Site Index</a> |</li>
+						<li><a href="/SitePolicies/Pages/accessibility.aspx">Accessibility</a> |</li>
+						<li><a href="/Pages/privacy_policy.aspx">Privacy</a> |</li>
+						<li><a href="/faqs/Pages/default.aspx">FAQs</a> |</li>
+						<li><a href="/Pages/contact-us.aspx">Contact Us</a> |</li>
+						<li><a href="/Pages/Google-Privacy-Information.aspx">Google Privacy Information</a></li>
+
+					</ul>
+				</div>
+			</div><!-- end mha-footer2 -->
+		</div><!-- end mha-container -->
+	</div>
+	<!-- end MSO_ContentDiv -->  
+  
+	<!-- the developer dashboard can be turned on by administrators and shows debuging and performance info for the page -->
+	<div id="DeveloperDashboard" class="ms-developerdashboard">
+		
+	</div>
+
+  </div>
+</div>
+
+<!-- =====  End scrolling body area with these two previous div's ============================================================ -->
+
+<!-- The form digest security control used to for security validation on forms -->
+
+	
+
+
+<!-- =====  Hidden Placeholders ============================================================ -->
+
+
+<!-- Handle Search "enter" key and back button -->
+<label class="hiddenStructure" for="__spDummyText1" id="__spDummyLabel1">system text</label> 
+<input type="text" id="__spDummyText1" name="__spDummyText1" style="display:none;" size="1/">
+<label class="hiddenStructure" for="__spDummyText2" id="__spDummyLabel2">system text</label> 
+<input type="text" name="__spDummyText2" id="__spDummyText2" style="display:none;" size="1/">
+
+<div id="ctl00_panelZone">
+	<div style="display:none" id="hidZone"></div>
+</div><input type="hidden" id="_wpcmWpid" name="_wpcmWpid" value=""><input type="hidden" id="wpcmVal" name="wpcmVal" value="">
+
+<script type="text/javascript">
+//<![CDATA[
+var _spFormDigestRefreshInterval = 1440000;window.g_updateFormDigestPageLoaded = new Date(); window.g_updateFormDigestPageLoaded.setDate(window.g_updateFormDigestPageLoaded.getDate() -5);
+function EnsureScripts(scriptInfoList, finalFunction)
+{
+if (scriptInfoList.length == 0)
+{
+finalFunction();
+}
+else
+{
+var scriptInfo = scriptInfoList.shift();
+var rest = function () { EnsureScripts(scriptInfoList, finalFunction); };
+var defd;
+try
+{
+eval('defd = typeof(' + scriptInfo[1] + ');');
+}
+catch (e)
+{
+defd = 'undefined';
+}
+if (scriptInfo[2])
+{
+EnsureScript(scriptInfo[0], defd, null);
+ExecuteOrDelayUntilScriptLoaded(rest, scriptInfo[0]);
+}
+else
+{
+EnsureScript(scriptInfo[0], defd, rest);
+}
+}
+}
+function PublishingRibbonUpdateRibbon()
+{
+var pageManager = SP.Ribbon.PageManager.get_instance();
+if (pageManager)
+{
+pageManager.get_commandDispatcher().executeCommand('appstatechanged', null);
+}
+}var _fV4UI = true;
+function _RegisterWebPartPageCUI()
+{
+    var initInfo = {editable: false,isEditMode: false,allowWebPartAdder: false,listId: "{ee04c94a-1219-4c9f-a567-bbbfe268d857}",itemId: 2,recycleBinEnabled: true,enableMinorVersioning: true,enableModeration: false,forceCheckout: true,rootFolderUrl: "\u002fPages",itemPermissions:{High:16,Low:196673}};
+    SP.Ribbon.WebPartComponent.registerWithPageManager(initInfo);
+    var wpcomp = SP.Ribbon.WebPartComponent.get_instance();
+    var hid;
+    hid = document.getElementById("_wpSelected");
+    if (hid != null)
+    {
+        var wpid = hid.value;
+        if (wpid.length > 0)
+        {
+            var zc = document.getElementById(wpid);
+            if (zc != null)
+                wpcomp.selectWebPart(zc, false);
+        }
+    }
+    hid = document.getElementById("_wzSelected");
+    if (hid != null)
+    {
+        var wzid = hid.value;
+        if (wzid.length > 0)
+        {
+            wpcomp.selectWebPartZone(null, wzid);
+        }
+    }
+}
+ExecuteOrDelayUntilScriptLoaded(_RegisterWebPartPageCUI, "sp.ribbon.js"); var __wpmExportWarning='This Web Part Page has been personalized. As a result, one or more Web Part properties may contain confidential information. Make sure the properties contain information that is safe for others to read. After exporting this Web Part, view properties in the Web Part description file (.WebPart) by using a text editor such as Microsoft Notepad.';var __wpmCloseProviderWarning='You are about to close this Web Part.  It is currently providing data to other Web Parts, and these connections will be deleted if this Web Part is closed.  To close this Web Part, click OK.  To keep this Web Part, click Cancel.';var __wpmDeleteWarning='You are about to permanently delete this Web Part.  Are you sure you want to do this?  To delete this Web Part, click OK.  To keep this Web Part, click Cancel.';
+ExecuteOrDelayUntilScriptLoaded(
+function()
+{
+var initInfo = 
+{
+itemPermMasks: {High:16,Low:196673},
+listPermMasks: {High:16,Low:196673},
+listId: "ee04c94a-1219-4c9f-a567-bbbfe268d857",
+itemId: 2,
+workflowsAssociated: true,
+editable: false,
+doNotShowProperties: false,
+enableVersioning: true
+};
+SP.Ribbon.DocLibAspxPageComponent.registerWithPageManager(initInfo);
+},
+"sp.ribbon.js");
+var g_disableCheckoutInEditMode = false;
+var _spWebPermMasks = {High:16,Low:196673};var zz1_TopNavigationMenuV4_Data = new Object();
+zz1_TopNavigationMenuV4_Data.disappearAfter = 500;
+zz1_TopNavigationMenuV4_Data.horizontalOffset = 0;
+zz1_TopNavigationMenuV4_Data.verticalOffset = 0;
+zz1_TopNavigationMenuV4_Data.hoverClass = 'ms-topNavFlyOutsHover';
+if (typeof(overrideMenu_HoverStatic) == 'function' && typeof(Menu_HoverStatic) == 'function')
+{
+_spBodyOnLoadFunctionNames.push('enableFlyoutsAfterDelay');
+Menu_HoverStatic = overrideMenu_HoverStatic;
+}
+//]]>
+</script>
+<script type="text/javascript">
+// <![CDATA[
+// ]]>
+</script>
+<script type="text/javascript">RegisterSod("sp.core.js", "\u002f_layouts\u002fsp.core.js?rev=7ByNlH\u00252BvcgRJg\u00252BRCctdC0w\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("sp.res.resx", "\u002f_layouts\u002fScriptResx.ashx?culture=en\u00252Dus\u0026name=SP\u00252ERes\u0026rev=b6\u00252FcRx1a6orhAQ\u00252FcF\u00252B0ytQ\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("sp.ui.dialog.js", "\u002f_layouts\u002fsp.ui.dialog.js?rev=IuXtJ2CrScK6oX4zOTTy\u00252BA\u00253D\u00253D");RegisterSodDep("sp.ui.dialog.js", "sp.core.js");RegisterSodDep("sp.ui.dialog.js", "sp.res.resx");</script>
+<script type="text/javascript">RegisterSod("core.js", "\u002f_layouts\u002f1033\u002fcore.js?rev=thUAOrLfyaU\u00252Fgyxy0eiMiw\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("sp.runtime.js", "\u002f_layouts\u002fsp.runtime.js?rev=IGffcZfunndj0247nOxKVg\u00253D\u00253D");RegisterSodDep("sp.runtime.js", "sp.core.js");RegisterSodDep("sp.runtime.js", "sp.res.resx");</script>
+<script type="text/javascript">RegisterSod("sp.js", "\u002f_layouts\u002fsp.js?rev=\u00252B4ZEyA892P3T0504qi0paw\u00253D\u00253D");RegisterSodDep("sp.js", "sp.core.js");RegisterSodDep("sp.js", "sp.runtime.js");RegisterSodDep("sp.js", "sp.ui.dialog.js");RegisterSodDep("sp.js", "sp.res.resx");</script>
+<script type="text/javascript">RegisterSod("cui.js", "\u002f_layouts\u002fcui.js?rev=k\u00252B4HtUzT9\u00252B3mSycgD7gPaQ\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("inplview", "\u002f_layouts\u002finplview.js?rev=WB6Gy8a027aeNCq7koVCUg\u00253D\u00253D");RegisterSodDep("inplview", "core.js");RegisterSodDep("inplview", "sp.js");</script>
+<script type="text/javascript">RegisterSod("ribbon", "\u002f_layouts\u002fsp.ribbon.js?rev=F\u00252BUEJ66rbXzSvpf7nN69wQ\u00253D\u00253D");RegisterSodDep("ribbon", "core.js");RegisterSodDep("ribbon", "sp.core.js");RegisterSodDep("ribbon", "sp.js");RegisterSodDep("ribbon", "cui.js");RegisterSodDep("ribbon", "sp.res.resx");RegisterSodDep("ribbon", "sp.runtime.js");RegisterSodDep("ribbon", "inplview");</script>
+<script type="text/javascript">RegisterSod("sp.publishing.resources.resx", "\u002f_layouts\u002fScriptResx.ashx?culture=en\u00252Dus\u0026name=SP\u00252EPublishing\u00252EResources\u0026rev=q6nxzZIVVXE5X1SPZIMD3A\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("sp.ui.pub.ribbon.js", "\u002f_layouts\u002fsp.ui.pub.ribbon.js?rev=RGQSBI9Dm0E345iq\u00252FxUpHg\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("msstring.js", "\u002f_layouts\u002f1033\u002fmsstring.js?rev=QtiIcPH3HV7LgVSO7vONFg\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("browserScript", "\u002f_layouts\u002f1033\u002fnon_ie.js?rev=EVTj1bu32\u00252FMla6SDN\u00252FsNTA\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("WPAdderClass", "\u002f_layouts\u002fwpadder.js?rev=rmznE9UTHIeAZF\u00252FGRiGNVA\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSodDep("browserScript", "msstring.js");</script>
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.initialize();
+//]]>
+</script>
+</form>
+
+<!-- extra form for some instances -->
+
+
+
+
+<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancybox-bg" id="fancybox-bg-n"></div><div class="fancybox-bg" id="fancybox-bg-ne"></div><div class="fancybox-bg" id="fancybox-bg-e"></div><div class="fancybox-bg" id="fancybox-bg-se"></div><div class="fancybox-bg" id="fancybox-bg-s"></div><div class="fancybox-bg" id="fancybox-bg-sw"></div><div class="fancybox-bg" id="fancybox-bg-w"></div><div class="fancybox-bg" id="fancybox-bg-nw"></div><div id="fancybox-content"></div><a id="fancybox-close" class="external"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>
