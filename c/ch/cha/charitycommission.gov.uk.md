@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charitycommission.gov.uk privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209081149id_/http%3A//www.charitycommission.gov.uk/about-the-commission/freedom-of-information/copyright-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charitycommission.gov.uk privacy policy that was archived on 2014-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140609175426id_/http%3A//www.charitycommission.gov.uk/about-the-commission/freedom-of-information/copyright-statement) for the most accurate reproduction.*
 
 # Copyright statement - Charity Commission
 
