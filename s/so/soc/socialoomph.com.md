@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the socialoomph.com privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818233906id_/https%3A//www.socialoomph.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialoomph.com privacy policy that was archived on 2014-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140610015532id_/https%3A//www.socialoomph.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy » SocialOomph.com
+# Privacy Policy
 
 We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
 
@@ -85,3 +85,5 @@ You may instruct us not to process your personal data for marketing purposes. In
 The website contains links to other websites. We are not responsible for the privacy policies of third party websites.
 
 This privacy policy is based on a template created and distributed by [www.website-law.co.uk](http://www.website-law.co.uk/).
+
+* * *
