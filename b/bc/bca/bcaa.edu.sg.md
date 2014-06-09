@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bcaa.edu.sg privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209074917id_/http%3A//www.bcaa.edu.sg/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bcaa.edu.sg privacy policy that was archived on 2014-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140609181027id_/http%3A//www.bcaa.edu.sg/privacy_policy.aspx) for the most accurate reproduction.*
 
 # 
 
