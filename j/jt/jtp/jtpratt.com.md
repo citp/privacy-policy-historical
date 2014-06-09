@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jtpratt.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207102850id_/http%3A//www.jtpratt.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jtpratt.com privacy policy that was archived on 2014-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140609041250id_/http%3A//www.jtpratt.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | JTPratt: WordPress Developer Blog
 
