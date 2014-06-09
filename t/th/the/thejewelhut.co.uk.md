@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thejewelhut.co.uk privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124045531id_/http%3A//www.thejewelhut.co.uk/privacy-statement-jh.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thejewelhut.co.uk privacy policy that was archived on 2014-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140609201954id_/http%3A//www.thejewelhut.co.uk/privacy-statement-jh.htm) for the most accurate reproduction.*
 
 # Privacy Statement The Jewel Hut
 
