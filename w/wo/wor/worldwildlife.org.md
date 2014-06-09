@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldwildlife.org privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222102525id_/http%3A//worldwildlife.org/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldwildlife.org privacy policy that was archived on 2014-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140609205051id_/http%3A//worldwildlife.org/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pages | WWF
 
@@ -32,13 +32,13 @@ If you subscribe to a WWF e-newsletter, request additional information about WWF
 **Sweepstakes, Contests and Promotions**  
 From time to time, we may request information from you via online polls, surveys, sweepstakes or contests. Participation in these survey, sweepstakes or contests is completely voluntary; you have a choice whether or not to disclose information required to enter. Information requested may include personal contact information such as your name, shipping and email addresses. Contact information will be used to notify winners, award prizes and contact users with further information about WWF products and services, as well as the products and services of WWF partners and third parties. Survey information will be used for the purposes of monitoring or improving use and satisfaction of the WWF web site.
 
-**Conservation Action Network**  
-WWF's Conservation Action Network (CAN) collects and uses personally identifiable information in connection with grassroots outreach and advocacy efforts. In order to use CAN's tools to send emails, faxes, or letters to decision makers, we require a user to provide a name, mailing address, and email address. Participation in CAN is entirely voluntary. Information collected is used for the promotion of WWF and CAN legislative goals, grassroots outreach and policy advocacy.
+**World Wildlife Fund's Action Network**  
+WWF's Action Network collects and uses personally identifiable information in connection with grassroots outreach and advocacy efforts. In order to use the WWF Action Network tools to send emails, faxes, or letters to decision makers, we require a user to provide a name, mailing address, and email address. Participation in World Wildlife Fund's Action Network is entirely voluntary. Information collected is used for the promotion of WWF and the Action Network legislative goals, grassroots outreach and policy advocacy.
 
 **Cookies**  
 A cookie is a piece of data placed on your hard drive when you visit our site. We may use cookies to help us recognize you when you come back to our site. We may also use cookies to help us monitor traffic on our site. This information may be aggregated in an anonymous manner. You can select to have our web site remember your email address and password on your specific computer when you login. This information will be stored in a cookie on your hard drive that will only be used when you return to the site to login again.
 
-We may from time to time link cookie information with personally identifiable information collected from the Conservation Action Network. This will help us better tailor our site and provide you with offers that we think may be of interest to you.
+We may from time to time link cookie information with personally identifiable information collected from the WWF's Action Network. This will help us better tailor our site and provide you with offers that we think may be of interest to you.
 
 B. Non-personally identifiable information
 
@@ -61,14 +61,14 @@ This site uses a web analytics service that may record mouse clicks, mouse movem
 II. HOW INFORMATION MAY BE USED  
 We may share personally and non-personally identifiable information with third parties that help manage our web site and databases and with our partners, affiliates, or other third parties.
 
-We will not, however, share personally identifiable information obtained from activists when they subscribe to CAN or to send a message to a decision maker using CAN, with the following two exceptions: (1) when you take action, you will be identified on the action itself as the sender - for example, in the fax or email sent to the decision-maker; (2) we may share personally identifiable information with third parties that help manage our web site and databases, who are subject to a confidentiality agreement.
+We will not, however, share personally identifiable information obtained from activists when they subscribe to WWF's Action Network or to send a message to a decision maker using WWF's Action Network, with the following two exceptions: (1) when you take action, you will be identified on the action itself as the sender - for example, in the fax or email sent to the decision-maker; (2) we may share personally identifiable information with third parties that help manage our web site and databases, who are subject to a confidentiality agreement.
 
 III. USER CONTROL OVER COLLECTION AND USE OF INFORMATION  
 WWF provides you with the following choices regarding the use of your information:
 
 You may set your browser to: (1) inform you when cookies are being set before a cookie is stored; (2) not accept cookies at all; and (3) erase all cookies from your hard drive. However, if you choose to reject or erase cookies, your ability to navigate our site may be limited.
 
-You may choose not to provide WWF with any contact information. However, if you do so, we will be unable to respond to your request for WWF information, enter you in any sweepstakes or contests, facilitate your action via CAN, or send online postcards. Additionally, your ability to navigate our site may be limited.
+You may choose not to provide WWF with any contact information. However, if you do so, we will be unable to respond to your request for WWF information, enter you in any sweepstakes or contests, facilitate your action via WWF's Action Network, or send online postcards. Additionally, your ability to navigate our site may be limited.
 
 If you would like to opt-out of receiving some or all further information from WWF, either (1) take the opportunity to opt out wherever personally identifiable information is collected, (2) take the opportunity to opt out in links on the bottom of email we send to you, or (3) go to the Profile Editor tool [www.worldwildlife.org/login](http://www.worldwildlife.org/login).
 
