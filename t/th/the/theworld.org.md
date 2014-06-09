@@ -1,61 +1,97 @@
-> *The following text is extracted and transformed from the theworld.org privacy policy that was archived on 2013-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130828102502id_/http%3A//www.theworld.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theworld.org privacy policy that was archived on 2014-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140610003347id_/http%3A//www.pri.org/privacy) for the most accurate reproduction.*
 
-# Privacy policy | @pritheworld
+# PRI.org privacy policy | Public Radio International
 
-## Privacy policy
+**What information do we collect?  **
 
-PRI’s The World appreciates your participation in our community, both online and offline, and assures you that your personal privacy is a priority to us. TheWorld.org web site adheres to a strict policy for ensuring the privacy of your personally identifiable information (such as full name, address, e-mail address, telephone number and/or other identifiable information) and preserving the integrity of your relationship with us online.
+We collect information from you when you register on our site, subscribe to our newsletter, respond to a survey or fill out a form. 
 
-**When does The World collect your personal information?**
+When registering on our site or making a donation, as appropriate, you may be asked to enter your: name, email address, mailing address, social media profiles, phone number, credit card information or other information. You may also visit our site anonymously.
 
-The information we gather falls into two categories: 1) personal information you voluntarily supply when you subscribe, complete a survey, register for an online discussion, enter a contest or provide your e-mail address, and 2) tracking information collected as you navigate through our site.
+Information that you provide to us as of user-submitted content will typically become public once submitted. We'll make clear when we intend to use such information in non-public ways.
 
-When you visit our site, our web server automatically recognizes only your domain name, where you are coming to us from and what browser you are using. We use this information to analyze how traffic flows at theworld.org, but no one can contact or identify you from this information. You may provide personal information to us in several ways: you may share your email address with us when you subscribe to email newsletters or request site updates or when you participate in a campaign or promotion, and you may share personal information when you post comments on our posts or stories. We may ask visitors to provide personal information in other limited circumstances specified at the time the information is gathered.
+**What do we use your information for?  **
 
-**Cookies**
+Any of the information we collect from you may be used in one of the following ways: 
 
-The World places an industry-standard “cookie” file on your computer to more accurately count the number of visitors and track activity on our websites. This cookie is totally anonymous and does not store any personal information about individual users. Cookies can also be used to store certain visitor preferences, like your favorite media player or a bulletin board password. In such cases, users have a choice of storing such information in a cookie or typing it each time they visit the site. If you wish to prevent certain or all cookies from being set to your hard drive you may disable them in your browser’s preferences, although your browser might then be unable to accommodate certain functionalities on theworld.org.
+• To personalize your experience
 
-**How does The World use your personal information?**
+Your information helps us to better respond to your individual needs.
 
-The World will not sell, rent, swap or authorize any third party to use your e-mail address without your permission if you have registered online to one of our sites. This also applies to any information that personally identifies you, except as noted below. We do, however, share information about our audience in aggregate form. For example, we may share with sponsors how long the average reader spends on our site, or which pages or features get the most attention. 
+• To improve our website
 
-TheWorld.org may use your personal information for the purposes you specifically provided the information. In addition, information gathered on theworld.org is used for responding to visitor e-mails; listing name and location (city, state and/or country) information provided by visitors when publishing e-mails or other submissions; editorial purposes such as surveys (optional); sending communications, including marketing and promotional communications; to enhance existing features or develop new website features, products and services, and to provide sponsors and other third parties with aggregate (non-personally identifiable) information about our visitors and their site usage patterns.
+We continually strive to improve our website offerings based on the information and feedback we receive from you.
 
-If you send an e-mail, story idea and/or other submission through theworld.org, we may print that submission, or excerpt from it, on theworld.org, read it on air, or publish it in any other medium, together with your name and location (city, state and/or country) if you provide that information to us. 
+• To improve customer service
 
-The World may disclose personal information if required to do so by law or if it believes that such action is necessary to (a) comply with the law or with legal process, (b) protect against misuse or unauthorized use of theworld.org site, or (c) protect the personal safety or property of theworld.org Web site users, the public or theworld.org and its employees.
+Your information helps us to more effectively respond to your customer service requests and support needs.
 
-**E-mail Communications:**
+• To process transactions
 
-TheWorld.org regularly sends email newsletters to our visitors with bulletins and updates about theworld.org stories and features. If you do not wish to receive any email from theworld.org, please visit the e-mail newsletter sign up page to “opt-out.” 
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-**“E-mail to a friend” feature**
+• To administer a contest, promotion, survey or other site feature
 
-Theworld.org provides an “e-mail a friend about this story” feature, allowing visitors to share an article with a friend that they might be interested in reading. When you use the “e-mail to a friend” feature, we ask for e-mail addresses for the recipient (for delivery) and from the sender (to identify the e-mail sender). Theworld.org does not store or save these addresses and you will not receive e-mail or other communications from us or our partners as a result of having used this feature.
+• To send periodic emails
 
-“E-mail a friend about this story” is a mail service that works on an individual basis only. While this tool cannot be used to send mass “spam” mailings, The World cannot exercise control over how site visitors use it, and any e-mail sent through it originates with, and is the responsibility of, the sender, not of The World. 
+The email address you provide may be used to send you information, respond to your inquiries and/or ask other requests or questions.
 
-The World never sells, exchanges or lends to third parties any email or telephone information you provide when subscribing to our E-mail communications.
+**Donations**
 
-**Comments/Bulletin Board Participation:**
+PRI does not sell, trade, rent or share its contributor information to third parties. PRI secures your personal information from unauthorized access, use or disclosure. PRI secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other websites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol, an industry standard secure technology.
 
-The World reserves the right to collect the e-mail addresses of those who post comments, messages to our bulletin board, information volunteered by the user, such as survey information and/or site registrations. The information we collect is to ensure compliance with bulletin board rules and occasionally to alert visitors to opt-in to our e-mail newsletter but is never shared with other organizations. Email addresses are never displayed, but they are required to confirm your comments. Names are displayed with all comments. The World reserves the right to edit or delete any comments posted on this site. Please read the theworld.org Comment Guidelines before posting.
+**How do we protect your information?  **
 
-**Use of Information**
+We implement a variety of security measures to maintain the safety of your personal information when you enter, submit or access your personal information. 
 
-Children: Under 13:
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Database to be only accessed by those authorized with special access rights to our systems, and who are required to keep the information confidential. 
 
-You must be at least 13 years old in order to register for our Discussion Forums. If you are under 13 years of age, please do not send any information about yourself, including your name, address or e-mail address. If we discover that we have collected any personally-identifying information from a child under the age of 13, we will remove that information from our database as soon as possible.
+After a transaction, your private information (credit cards, etc.) will not be stored on our servers.
 
-**Age 13-18:**
+**Do we use cookies?  **
 
-Visitors between the ages of 13 and 18 must obtain permission from a parent or guardian before registering for discussions or otherwise sending any personally-identifying information.
+Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow this.) Cookies enable a site or service provider system to recognize your browser and capture and retain certain information.
 
-**Links:**
+We use cookies to understand and save your preferences for future visits, keep track of advertisements and to compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are only permitted to use the information collected on our behalf to help us conduct and improve our business.
 
-TheWorld.org contains links to a wide variety of websites, including some which may not follow the same privacy policies as TheWorld.org.TheWorld.org is not responsible for the privacy policies of those other sites or how they treat information about their users. Visitors who choose to follow links from TheWorld.org should make themselves familiar with target sites’ privacy policies.
+We may use cookies to place ads on our site based on your visit to our site and other sites on the Internet.
 
-**Changes to Privacy Policy:**
+**Do we disclose any information to outside parties?  **
 
-TheWorld.org will never use customer information for new, unanticipated uses not previously disclosed in our privacy notice without notifying users. If our information practices change at some time in the future we will post the policy changes to our Web site, attempt to notify you of these changes and provide you with the ability to opt out of these new uses. If you have additional questions about how your personal information may be used or if you have questions or comments about our privacy policy, please contact us via e-mail at [theworld@pri.org](mailto:theworld@pri.org). 
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect our's or others' rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+**Third party links  **
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+**California Online Privacy Protection Act Compliance**
+
+Because we value your privacy, we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'Edit Profile' page.
+
+**Childrens Online Privacy Protection Act Compliance  **
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), so we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+**Online Privacy Policy Only  **
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+**Your Consent  **
+
+By using our site, you consent to our website’s privacy policy.
+
+**Changes to our Privacy Policy  **
+
+If we decide to change our privacy policy, we will post those changes on this page. 
+
+**Contacting Us  **
+
+If there are any questions regarding this privacy policy, you may contact us using the information below. 
+
+PRI.org  
+401 2nd Ave North, Suite 500  
+Minneapolis, MN 55401  
+USA  
+[contact@pri.org](mailto:contact@pri.org?subject=Message%20from%20PRI.org)
