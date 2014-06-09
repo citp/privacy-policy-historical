@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the world-status.com privacy policy that was archived on 2013-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130718162737id_/http%3A//www.world-status.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the world-status.com privacy policy that was archived on 2014-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140609040513id_/http%3A//www.world-status.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Untitled Document
 
