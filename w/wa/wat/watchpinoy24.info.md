@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the watchpinoy24.info privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219084731id_/http%3A//www.webpinoytambayan.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchpinoy24.info privacy policy that was archived on 2014-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140609233504id_/http%3A//www.webpinoytambayan.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy - Pinoy Tambayan — Watch Pinoy Channels and Watch all the best TV Series from ABS-CBN, GMA 7, TV 5, Studio 23 and all the best Pinoy Teleserye Telenovela - Filipino stuff Online for Free!
+# Privacy Policy
 
 **Privacy Policy**
 
