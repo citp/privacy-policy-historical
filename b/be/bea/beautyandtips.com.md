@@ -1,0 +1,31 @@
+> *The following text is extracted and transformed from the beautyandtips.com privacy policy that was archived on 2014-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140609232734id_/http%3A//www.beautyandtips.com/privacy-policy) for the most accurate reproduction.*
+
+# Privacy Policy | Beauty Tips – Best Beauty Tips – Beauty & Tips Magazine | Beauty And Tips – Web-edition of Magazine about beauty tips, dating, fun, weight loss, health, style, hair beauty tips and best ever beauty tips for ladies!
+
+Privacy Policy for www.beautyandtips.com
+
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by using our contact page.
+
+At www.beautyandtips.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.beautyandtips.com and how it is used.
+
+Log Files
+
+Like many other Web sites, www.beautyandtips.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site and gather demographic information. IP addresses and other such information are not linked to any information that is personally identifiable.
+
+DoubleClick DART Cookie
+
+.:: Google, as a third party vendor, uses cookies to serve ads on www.beautyandtips.com.  
+.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.beautyandtips.com and other sites on the Internet.  
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
+
+Google Adsense
+
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.beautyandtips.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript or Web Beacons) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and/or to personalize the advertising content that you see.
+
+www.beautyandtips.com has no access to or control over these cookies that are used by third-party advertisers.
+
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices, as well as for instructions about how to opt-out of certain practices. The [Beauty And TipsOUTFIT OF THE DAY: RED AND PINK TOGETHER. Read more ... »](http://www.beautyandtips.com/style/outfit-of-the-day-red-and-pink-together/) Magazine’s privacy policy does not apply to, and we cannot control the [activities7 VALENTINES DAY IDEAS: HOW TO SURPRISE YOUR PARTNER?. Read more ... »](http://www.beautyandtips.com/dating/7-valentines-day-ideas-how-to-surprise-your-partner/) of, such other advertisers or web sites.
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+
+For any question, request or information, please, contact us through our contact page.
