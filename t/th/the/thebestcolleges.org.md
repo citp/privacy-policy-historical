@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebestcolleges.org privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201035524id_/http%3A//www.thebestcolleges.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebestcolleges.org privacy policy that was archived on 2014-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140609020359id_/http%3A//www.thebestcolleges.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Best Colleges
 
@@ -36,7 +36,7 @@ We have enabled an “unsubscribe” option for you if you’d like to be exclud
 
 The only instances in which we share personal information about you are as described in this privacy policy. We will never sell your personal information for third parties’ irrelevant marketing purposes. 
 
-We retain the right to release your personal information to businesses providing our company with administration services, for example an email service delivery. In submitting personal information, and thus an “inquiry,” to TheBestColleges.org, you are granting permission to us, our affiliated entities, and third party marketing partners/vendors to contact you. In addition, through this action you grant us, our affiliates, and partners/vendors the right to contact you for a period of time and relinquish the rights granted to you by the Do Not Call list; effectively, your submission serves as an omission to Do Not Call requirements established by state and federal governments.ÿ
+We retain the right to release your personal information to businesses providing our company with administration services, for example an email service delivery. In submitting personal information, and thus an “inquiry,” to TheBestColleges.org, you are granting permission to us, our affiliated entities, and third party marketing partners/vendors to contact you. In addition, through this action you grant us, our affiliates, and partners/vendors the right to contact you for a period of time and relinquish the rights granted to you by the Do Not Call list; effectively, your submission serves as an omission to Do Not Call requirements established by state and federal governments.Ã¿
 
 We retain the right to release your personal information in instances required by law, for example to abide by a subpoena or other legal procedure, when, in good faith, we believe it is necessary to preserve our rights, ensure the safety of you or others, explore alleged fraud, or reply to a government or legal request in the instance that TheBestColleges.org is merging, acquisitioning, or selling some or all of its assets to a given third party when we have your prior consent.
 
