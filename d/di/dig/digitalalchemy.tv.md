@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalalchemy.tv privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123112941id_/http%3A//www.digitalalchemy.tv/2007/05/digital-alchemy-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalalchemy.tv privacy policy that was archived on 2014-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140609211501id_/http%3A//www.digitalalchemy.tv/2007/05/digital-alchemy-privacy-policy.html) for the most accurate reproduction.*
 
 # Digital Alchemy Privacy Policy
 
