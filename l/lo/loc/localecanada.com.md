@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the localecanada.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203033414id_/http%3A//www.localecanada.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localecanada.com privacy policy that was archived on 2014-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140609233902id_/http%3A//www.localecanada.com/Privacy) for the most accurate reproduction.*
 
-# Locale Canada - Privacy Policy
-
-Locale Canada - Review Search Engine
-
-[](https://web.archive.org/)
+# Locale Canada
 
 _Last Updated January 8, 2013_
 
