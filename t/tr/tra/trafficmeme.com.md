@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafficmeme.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204022401id_/http%3A//www.trafficmeme.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficmeme.com privacy policy that was archived on 2014-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140610015948id_/http%3A//www.trafficmeme.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Traffic Meme
 
