@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the netsarang.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124020108id_/http%3A//www.netsarang.com/rules/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netsarang.com privacy policy that was archived on 2014-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140609101604id_/http%3A//www.netsarang.com/rules/privacy.html) for the most accurate reproduction.*
 
-# NetSarang - Privacy Policy : NetSarang - Privacy Policy
+# NetSarang - Privacy Policy
 
 NetSarang Computer, Inc. is committed to protecting your privacy. We use the information we collect on our web site to deliver services and to enhance your experience. Please read below for specific details on our policy. 
 
