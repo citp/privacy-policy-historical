@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the uniladmag.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209050054id_/http%3A//uniladmag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uniladmag.com privacy policy that was archived on 2014-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140609062641id_/http%3A//uniladmag.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : Uni Lad
+# Privacy Policy |
 
 UniLad (“We”) are committed to protecting and respecting your privacy.
 
