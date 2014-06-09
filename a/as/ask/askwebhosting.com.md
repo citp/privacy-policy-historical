@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the askwebhosting.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109000835id_/http%3A//www.askwebhosting.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askwebhosting.com privacy policy that was archived on 2014-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140609102852id_/http%3A//www.askwebhosting.com/privacy.php) for the most accurate reproduction.*
 
 # Ask Web Hosting Web Hosting Directory AskWebHosting
 
