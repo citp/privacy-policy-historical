@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the burstmedia.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119011636id_/http%3A//www.burstmedia.com/index.php/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burstmedia.com privacy policy that was archived on 2014-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140610012347id_/http%3A//burstmedia.com/index.php/company/privacy) for the most accurate reproduction.*
 
 # Privacy - Burst Media
 
 Fundamentally, the privacy of web users must be protected and the most effective way to preserve that privacy is to confine their data to the site level. Burst Media as well as adConductor collect no personally identifiable data, and therefore, protect user privacy. Burst's TRUSTe license verifies this privacy stance.
+
+This privacy policy applies to http://www.burstmedia.com, http://ads.addesktop.com, http://www.burstnet.com and http://www.AdConductor.com owned and operated by Burst Media LLC (“Burst Media” or “Burst”). This privacy policy describes how Burst Media collects and uses the personal information you provide on our web sites: http://www.burstmedia.com, http://ads.addesktop.com, http://www.burstnet.com and http://www.AdConductor.com.
 
 Internet user privacy and confidentiality is of the utmost importance to Burst, our web publisher members, and our advertiser clients. Our reputation and integrity are directly related to how we serve our clients and customers. Please find a description below of how Burst strives to protect the privacy of Internet users and maintain the Internet as a highly credible medium.
 
@@ -16,7 +18,7 @@ There are instances where a user may provide specific personal information in re
 
 Burst is a member of the Network Advertising Initiative (NAI) and adheres to its Code on Health-Related Data. Burst Media does not collect or use "sensitive consumer information" (as defined in the NAI's Self-Regulatory Code of Conduct) in its online behavioral advertising activities and does not offer or sell to its clients segments based on sensitive consumer information. "Sensitive consumer information" includes social security numbers or other government-issued identifiers, insurance plan numbers, financial account numbers, information that describes the precise real-time geographic location of an individual derived through location-based services such as through GPS-enabled devices, and precise information about past, present, or potential future health or medical conditions or treatments, including genetic, genomic and family medical history. Burst Media maintains internal policies and procedures designed to safeguard against the collection or use of such information.
 
-Burst may use general health related information with customized advertising campaigns. General health-related information that is not based on a precise medical treatment or conditions is not considered "sensitive consumer information." This information can include, but is not limited to the following examples: retargeting based on previous visit to an advertiser's website, retargeting based upon the visit to a general health/fitness/wellness/nutrition website, or retargeting based on the visit to a website where interest can be inferred from common content e.g., pregnancy can be inferred from a visit to a infant car-seat review page. 
+Burst may use general health related information with customized advertising campaigns. General health-related information that is not based on a precise medical treatment or conditions is not considered "sensitive consumer information." This information can include, but is not limited to the following examples: retargeting based on previous visit to an advertiser's website, retargeting based upon the visit to a general health/fitness/wellness/nutrition website, or retargeting based on the visit to a website where interest can be inferred from common content e.g., pregnancy can be inferred from a visit to a infant car-seat review page.
 
 ### P3P
 
@@ -30,7 +32,7 @@ Burst Media collects this information via our technology and it may be stored fo
 
 We do not link the information we store in cookies to any personally identifiable information you submit while on our site or our member sites. We may obtain anonymous information about you - such as sites you have visited or products you have researched - from third-party sources, and combine it with data that we have collected to better target advertising that match your interests. Most Web browsers automatically accept cookies, but you can usually change your browser to prevent that use if you desire.
 
-In an effort to respect your privacy, Burst Media gives all internet users the choice to opt-out of receiving Burst Media cookies. If you would like to opt out, please visit our Cookie Opt-out Program at [www.burstmedia.com/company/opt-out](http://www.burstmedia.com/index.php/company/opt-out). Alternatively, you may also choose to opt out of receiving Burst Media cookies through the Network Advertising Initiative's [Consumer Opt-Out Program](http://www.networkadvertising.org/managing/opt_out.asp).
+In an effort to respect your privacy, Burst Media gives all internet users the choice to opt-out of receiving Burst Media cookies. If you would like to opt out, please visit our Cookie Opt-out Program at [www.burstmedia.com/company/opt-out](http://burstmedia.com/index.php/company/opt-out). Alternatively, you may also choose to opt out of receiving Burst Media cookies through the Network Advertising Initiative's [Consumer Opt-Out Program](http://www.networkadvertising.org/managing/opt_out.asp).
 
 ### Third-Party Measurement Services
 
@@ -54,7 +56,7 @@ adConductor may use cookies to improve your Web browsing experience. A cookie is
 
 adConductor collects this information via our technology and it may be stored for up to 2 years for the purpose of: 1) analyzing campaign results, 2) ensuring that our technology is functioning properly, and 3) preventing fraud across our sites.
 
-We do not link the information we store in cookies to any personally identifiable information you submit while on our site or our member sites. Most Web browsers automatically accept cookies, but you can usually change your browser to prevent that use if you desire. 
+We do not link the information we store in cookies to any personally identifiable information you submit while on our site or our member sites. Most Web browsers automatically accept cookies, but you can usually change your browser to prevent that use if you desire.
 
 ### FOR PUBLISHERS WHO ARE MEMEBERS OF Burst OR ADCONDUCTOR CLIENTS:
 
@@ -62,9 +64,9 @@ This confirms that Burst Media is a licensee of the TRUSTe Privacy Program. Burs
 
 For Burst Publishers the privacy statement discloses the privacy practices for www.Burstmedia.com and [www.Burstnet.com](http://www.burstnet.com/).
 
-For AdConductor Customers this privacy statement discloses the privacy practices for [www.adConductor.com](http://www.adconductor.com/) and ads.adConductor.com. 
+For AdConductor Customers this privacy statement discloses the privacy practices for [www.adConductor.com](http://www.adconductor.com/) and ads.adConductor.com.
 
-Burst Media has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy@Burstmedia.com. If you are not satisfied with our response you can contact [TRUSTe by clicking here](http://watchdog.truste.com/pvr.php?page=complaint).
+Burst Media has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy@Burstmedia.com. If you are not satisfied with our response you can contact TRUSTe by clicking [here](https://feedback-form.truste.com/watchdog/request).
 
 ### Third-Party Measurement Services
 
@@ -79,6 +81,8 @@ Often, advertisers will employ a third-party service provider other than Burst f
 
 
 This information can also be used for online preference marketing ("profiling") purposes. In these instances, Burst has no control over the information collected by the third-party, and may not be held responsible for the actions of the third-party measurement service where collected information is concerned.
+
+The use of cookies by our partners, affiliates, tracking utility company, service providers is not covered by our privacy policy. We do not have access or control over these cookies. Our partners, affiliates, tracking utility company, service providers use session ID and persistent cookies to make it easier for you to navigate our site.
 
 If you are a **Burst Publisher** and have questions regarding different third-party measurement services and their respective methods of information collection, please contact [privacy@Burstmedia.com](mailto:privacy@Burstmedia.com).
 
@@ -104,6 +108,8 @@ If you have any questions about security on our website, you can email us at [se
 
 ### Disclosure
 
+We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us.
+
 Burst openly volunteers its practices of collecting information, its targeting capabilities, and its use of cookies. If you are a **Burst Publisher** and have any questions pertaining to this privacy policy and its contents, please direct your correspondence to [privacy@Burstmedia.com](mailto:privacy@Burstmedia.com).
 
 If you are an **adConductor Customer** and have any questions pertaining to this privacy policy and its contents, please direct your correspondence to [privacy@adConductor.com](mailto:privacy@adConductor.com).
@@ -115,6 +121,8 @@ If a user's personally identifiable information changes, (such as zip code, phon
 **AdConductor Customers** can direct their request to [privacy@adConductor.com](mailto:privacy@adConductor.com) and we will change the information, as requested within 30 days.
 
 Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with an appropriate law enforcement investigation, current judicial proceeding, a court order or legal process served on our Ad servers or website.
+
+If Burst is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
 ### DATA RETENTION
 
