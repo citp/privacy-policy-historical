@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlineedgeacademy.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116233007id_/http%3A//www.onlineedgeacademy.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlineedgeacademy.com privacy policy that was archived on 2014-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140609110959id_/http%3A//www.onlineedgeacademy.com/privacypolicy) for the most accurate reproduction.*
 
 # 
 
