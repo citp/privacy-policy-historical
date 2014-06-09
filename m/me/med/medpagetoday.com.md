@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the medpagetoday.com privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114073800id_/http%3A//www.medpagetoday.com/About/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medpagetoday.com privacy policy that was archived on 2014-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140609203234id_/http%3A//www.medpagetoday.com/About/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Thursday, November 14, 2013 
+Monday, June 09, 2014 
 
 **MedPage Today Privacy Policy**
 
-This Policy was last changed on August 1, 2013. 
+This Policy was last changed on January 10, 2014. 
 
 MedPage Today, LLC operates this website (the "Site"), and the services related to or offered on the Site (the "Services"). These Services may include, without limitation, tools, applications, email services, bulletin and message boards, chat areas, news groups, forums, communities, calendars and downloadable mobile applications related to the Site or provided through the Site. MedPageToday.com also contains advertisements, promotions and sponsored areas that are sold directly by Everyday Health Media, LLC ("EHM"), a sister company of MedPage Today, LLC. 
 
@@ -75,13 +75,13 @@ An "Internet protocol address" or "IP Address" is a number that is automatically
 
     2. **Targeted Advertising**
 
-EHM and other companies that MedPage works with may use cookies for purposes including understanding Web usage patterns of users who see advertisements on the Site, controlling the sequence of advertisements you see, making sure you don't see the same advertisement too many times, determining your interests and tailoring advertisements and promotions based on those interests. For example, if you read an article about a particular health condition on the Site, cookies from a vendor may be used to later serve you an advertisement for a product related to the viewed article. These third party vendors may connect information about pages you visit on our Site with information about pages you visit on other websites and show you advertising based on this combined information. The advertisement may appear when you are visiting a different section of the Site or any other website on the Internet if the website also has a relationship with our vendor. 
+EHM and other companies that MedPage works with may use cookies for purposes including understanding Web usage patterns of users who see advertisements on the Site, controlling the sequence of advertisements you see, making sure you don't see the same advertisement too many times, determining your interests and tailoring advertisements and promotions based on those interests. For example, if you read an article about a particular health condition on the Site, cookies from a vendor may be used to later serve you an advertisement for a product related to the viewed article. These third party vendors may connect information about pages you visit on our Site with information about pages you visit on other websites and show you advertising based on this combined information. The advertisement may appear when you are visiting a different section of the Site or any other website on the Internet if the website also has a relationship with our vendor.
 
-You can choose not to receive Behavioral Advertising on the Site by clicking [here](http://www.aboutads.info/choices/) and opting-out of cookies placed by those vendors listed. After you opt-out, you will still see advertisements, but the advertising may not be as relevant to your interests. If you change your computer, change your browser or delete your cookies, you will need to renew your opt-out. 
+You can choose to limit Behavioral Advertising on the Sites by clicking [here](http://www.aboutads.info/choices/) and opting-out of cookies placed by those vendors listed. After you opt-out, you will still see advertisements but the advertising may not be as relevant to your interests. If you change your computer, change your browser, or delete your cookies, you will need to renew your opt-out. The Site currently is not setup to process or respond to “Do Not Track” settings or signals from web browsers.
 
-We adhere to the Self-Regulatory Principles for Online Behavioral Advertising of the Digital Advertising Alliance (for more information click [here](http://www.aboutads.info/consumers)). 
+We do adhere to the Self-Regulatory Principles for Online Behavioral Advertising of the Digital Advertising Alliance (for more information click [here](http://www.aboutads.info/consumers)).
 
-    3. **Information Collected by Third Party Advertisers**
+    3.  **Information Collected by Third Party Advertisers**
 
 Advertisers or other third parties on the Site may also engage in Behavioral Advertising and use cookies and web beacons in the manner described above. We do not control these advertisers or other parties' use of cookies or web beacons or what they do with the information they collect. Many third party vendors that engage in Behavioral Advertising participate in the Network Advertising Initiative (NAI) and/or the Digital Advertising Alliance (DAA) and abide by NAI and/or DAA principles. If you wish to opt out of participating in advertising programs conducted by NAI and DAA members or learn more about the NAI and DAA, please go to the [NAI Opt-Out](http://www.networkadvertising.org/managing/opt_out.asp) website and [DAA Choice Page](http://www.aboutads.info/choices/) and follow the instructions. After you opt-out, you will still see advertisements, but the advertising may not be as relevant to your interests. If you change your computer, change your browser or delete your cookies, you will need to renew your opt-out. 
 
