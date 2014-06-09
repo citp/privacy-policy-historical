@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the balenciaga.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208153610id_/http%3A//www.balenciaga.com/cms/legal/privacypolicy.asp%3Ftskay%3DD55EF7F6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the balenciaga.com privacy policy that was archived on 2014-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140609173835id_/http%3A//www.balenciaga.com/cms/legal/privacypolicy.asp%3Ftskay%3DD55EF7F6) for the most accurate reproduction.*
 
 # Balenciaga Online Store - Legal Area
 
@@ -12,7 +12,7 @@ Your personal data are collected and processed by Balenciaga S.A. and the compan
 
 Your Personal Data will be processed to provide the services you subscribed to or reserved for registered users, to facilitate your navigation of and shopping from the website and to keep you informed of Kering Group news and offers. 
 
-Balenciaga S.A. and the companies of Kering Group are jointly controllers of Personal Data collected and processed for purpose of rendering the e-commerce services and the sale of products (herein the " **Commercial Purposes** ") through the Site, together with YOOX S.p.A. with registered offices in Via Nannetti 1, 40069 Zola Predosa (BO), Italy, Bologna Business Register, Tax and VAT number 02050461207, share capital Euro 580,273.72 fully paid up. 
+Balenciaga S.A. and the companies of Kering Group are jointly controllers of Personal Data collected and processed for purpose of rendering the e-commerce services and the sale of products (herein the " **Commercial Purposes** ") through the Site, together with YOOX S.p.A. with registered offices in Via Nannetti 1, 40069 Zola Predosa (BO), Italy, Bologna Business Register, Tax and VAT number 02050461207, share capital Euro 587,815.28 fully paid up. 
 
 The management of the sale of the products and the transactions performed on www.balenciaga.com, within the United States of America are operated, under license, by YOOX S.p.A.’ s subsidiary YOOX Corporation, a Delaware corporation having an address at 148 Lafayette Street, 10th Floor, New York, New York 10013 ("YOOX USA", YOOX S.p.A. and YOOX USA also jointly referred to as YOOX). 
 
