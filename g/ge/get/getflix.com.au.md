@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the getflix.com.au privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122044204id_/http%3A//www.getflix.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getflix.com.au privacy policy that was archived on 2014-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140609201034id_/http%3A//www.getflix.com.au/privacy) for the most accurate reproduction.*
 
-# Getflix: Access Netflix and Hulu Plus from Australia
+# Getflix: Unblock Netflix, Hulu Plus, Amazon, Vudu, BBC iPlayer (and much more)
 
 This Privacy Policy governs the manner in which Getflix collects, uses, maintains and discloses information collected from users (each, a "User") of the http://www.cloud-screens.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Getflix.
 
