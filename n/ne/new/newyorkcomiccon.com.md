@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the newyorkcomiccon.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112223544id_/http%3A//www.newyorkcomiccon.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newyorkcomiccon.com privacy policy that was archived on 2014-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140609173853id_/http%3A//www.newyorkcomiccon.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - New York Comic Con | October 9 – 12, 2014 | Javits Center
-
-The effective date of this policy as posted is March 22, 2004.
 
 Reed Exhibitions and New York Comic Con respect the information provided by our customers. Because we gather certain types of information when our customers communicate with us, we believe you should fully understand the terms and conditions surrounding the information we capture and the use of that information. This privacy statement discloses the type of information we capture about our customers, how we use it to communicate with our customers, and how you can request to no longer receive communications from New York Comic Con.
 
