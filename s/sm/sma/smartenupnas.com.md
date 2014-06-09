@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartenupnas.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230053620id_/http%3A//smartenupnas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartenupnas.com privacy policy that was archived on 2014-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140609223300id_/http%3A//smartenupnas.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,5 +24,3 @@ The contents of this statement may be altered at any time, at our discretion.
 If you have any questions regarding the privacy policy of SMARTENUPNAS.COM then you may contact us at featuredartist@smartenupnas.com 
 
 Last updated Thu, 25 Nov 2010 07:47
-
-Rating: 0.0/ **10** (0 votes cast)
