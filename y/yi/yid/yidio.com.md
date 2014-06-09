@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yidio.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217160231id_/http%3A//www.yidio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yidio.com privacy policy that was archived on 2014-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140610013759id_/http%3A//www.yidio.com/privacy) for the most accurate reproduction.*
 
 # Yidio Privacy Policy
 
@@ -43,6 +43,8 @@ Yidio and its advertisers may use advertising network providers to help present 
 
 Third party vendors, including Google, show your ads on sites on the internet. Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website. Users may opt out of Google’s use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/privacy/ads/). (Alternatively you can opt out of a third party vendor’s use of cookies by visiting the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp).) 
 
+We may use third-party advertising companies to collect data and/or serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, visit http://networkadvertising.org/. 
+
 **Security**
 
 We have established safeguards to help prevent unauthorized access to or misuse of your Yidio information, but cannot guarantee that this information will never be disclosed in a manner inconsistent with this Privacy Policy (for example, as a result of unauthorized acts by third parties that violate applicable law or the policies of the service and its affiliated providers).
@@ -64,4 +66,4 @@ You may opt out of Yidio Emails here:: <http://www.yidio.com/user_alerts.php>.
 
 We may update this Privacy Policy from time to time, and so you should review this Policy periodically. If there are significant changes to Yidio's information practices, you will be provided with appropriate online notice. You may be provided other privacy-related information in connection with your use of offerings from Yidio, as well as for special features and services not described in this Policy that may be introduced in the future.
 
-Last Updated:October 5, 2011 
+Last Updated:April 16, 2014 
