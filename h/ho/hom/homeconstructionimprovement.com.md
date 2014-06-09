@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the homeconstructionimprovement.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608061613id_/http%3A//www.homeconstructionimprovement.com/disclaimer-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeconstructionimprovement.com privacy policy that was archived on 2014-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140609043445id_/http%3A//www.homeconstructionimprovement.com/disclaimer-privacy-policy) for the most accurate reproduction.*
 
 # Discloser, Disclaimer & Privacy Policies
 
+## Disclaimer & Privacy Policy
+
 This disclaimer, privacy policy and disclosure covers [www.homeconstructionimprovement.com](http://www.homeconstructionimprovement.com/) and all subdirectories and content, collectively known as **Home Construction Improvement** , and operated by Front Steps Media, LLC.
 
-###  **Disclaimer**
+### Disclaimer
 
 Information provided on **Home Construction Improvement** does not constitute endorsement of a particular method or reliable instructions for construction, remodeling, proper use of tools, or other home improvements. You should _**always consult a professional**_ and follow product/tool instructions before undertaking a project that you are not qualified to perform. It is possible that information on this site could omit serious safety and health information, or could even be wholly inaccurate. While we never do this intentionally, it is your responsibility to verify information before undertaking a project. If you make use of information on this site, you agree to assume all risks associated with use of that information.
 
-###  **Privacy Policy**
+### Privacy Policy
 
 The privacy of our visitors to www.homeconstructionimprovement.com is important to us.
 
