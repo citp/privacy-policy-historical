@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shorturl.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209195400id_/http%3A//www.shorturl.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shorturl.com privacy policy that was archived on 2014-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140610011201id_/http%3A//shorturl.com/privacy_policy.html) for the most accurate reproduction.*
 
 # shortURL.com - free short URL redirection with no ads!
 
