@@ -1,80 +1,118 @@
-> *The following text is extracted and transformed from the rcsworks.com privacy policy that was archived on 2003-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031212125656id_/http%3A//rcsworks.com/company/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rcsworks.com privacy policy that was archived on 2014-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140609062012id_/http%3A//www.rcsworks.com/en/company/legal/privacy.aspx) for the most accurate reproduction.*
 
-# RCS Privacy Policy
+# RCS Privacy and Cookie Notice | RCS Sound Software
 
-RCS respects the privacy of its web site visitors and customers. This document explains the types of information RCS gathers via the internet and how that information is used. 
+**UPDATED AS OF:** June 17, 2013 
 
-## Web Site Visitors
+This privacy and cookie notice ("Privacy Notice") applies solely to information collected through the website located at www.rcsworks.com, and related web pages, interactive features, applications, widgets, blogs and their respective contents, in addition to Twitter, Facebook or other social networking sites, and their respective contents, whether accessed via computer mobile device or other technology platforms (collectively, the "Platforms"). The Platforms are offered by Clear Channel Management Service, Inc. d/b/a RCS and its platform developers and other promotional partners (collectively, "RCS", or "we", "us", "our"). 
 
-Visitors may view and use the rcsworks.com web site without providing any personal information. 
+##### QUICK GUIDE TO CONTENTS
 
-## RCS Clients
+  1. "INFORMATION WE COLLECT ON OUR PLATFORMS  
+[Cookie Removal](http://services.rcsworks.com/services/nocookies.asp)
+  2. HOW WE USE THE INFORMATION WE COLLECT
+  3. SHARING OF INFORMATION
+  4. INFORMATION WE RECEIVE FROM THIRD PARTIES
+  5. YOUR CHOICE AND ACCESS
+  6. ADVERTISING/BEHAVIORAL TARGETING; HOW TO OPT-OUT
+  7. CHILDREN
+  8. SECURITY OF YOUR INFORMATION
+  9. OTHER SITES
+  10. CONSENT TO PROCESSING AND TRANSFER OF INFORMATION
+  11. CHANGES
+  12. CONTACT US
 
-As part of doing business with its clients, RCS maintains a database of "contact information" such as name, title, address, corporate ownership, telephone numbers and e-mail addresses. Clients may also be asked certain questions about other software or computer systems they use, consulting services they employ and the nature of those services. This information is shared internally among RCS personnel only to the extent necessary to provide RCS products, systems and services. This information is never disclosed or marketed to any third parties. 
 
-## Internet Information
 
-There are two types of information RCS collects via the internet: (1) "user" information such as names and e-mail addresses, and (2) "computer" information such as IP addresses and database names. 
+### 1\. INFORMATION WE COLLECT ON OUR SITES.
 
-### (1) User Information
+#### Information You Provide To Us
 
-The rcsworks.com web site may collect information when a user requests access to restricted areas or when downloading files. It may also be requested by RCS staff during telephone or fax communications. Such disclosure of personal information is solely at the discretion of the customer. Personal information includes name, alias or “on-air” name, personal or cell phone number, e-mail address, the language(s) spoken by the person, their affiliations with various RCS clients and the date and time of their last contact with RCS.
+We may collect Personal Information (information that can be used to identify you as an individual) such as your name, email, telephone number, home address, demographic information (such as zip code, age), or payment information (such as account or credit card number). The types of Personal Information we collect may vary depending on your use of the features of the Platforms. For example, we will collect your credit card number and other payment related information in connection with your purchase of products and/or services through the Platforms. We post customer testimonials/video testimonials on our Platforms which may contain personally identifiable information. If we want to post a customer’s name along with their testimonial, we obtain the customer's consent via email prior to posting the testimonial. 
 
-Visitors to restricted areas of the rcsworks.com web site are identified by their e-mail address. If a visitor does not wish to disclose the e-mail address, an alternative RCS-assigned user name may be provided. RCS agrees to remove from its databases any personal information a user wishes to revoke. Depending on the nature of information removed, RCS may be unable to authorize the user from obtaining software releases or product licenses. 
+#### Information We Collect Automatically
 
-### (2) Computer Information
+_Usage Information._ Whenever you visit or interact with the Platforms, we, as well as any third-party advertisers and/or service providers, may use a variety of technologies that automatically or passively collect information about how the Platforms are accessed and used (“Usage Information”). Usage Information may include browser type, device type, operating system, application version, the page served, the time, the preceding page views, and your use of features or applications on the Platforms, such as song history, interaction with friends and group activities. This information helps us keep our Platforms fresh and interesting to our visitors and allows us to tailor content to a visitor’s interests. 
 
-RCS provides several internet-based customer services: Licensing, Update, Data Exchange and Bug Reporting. 
+_Device Identifier._ We automatically collect your IP address or other unique identifier (“Device Identifier”) for the Device (computer, mobile phone, tablet or other device) you use to access the Platforms. A Device Identifier is a number that is assigned to your Device when you access a website or its servers, and our computers identify your Device by its Device Identifier. We may use a Device Identifier to, among other things, administer the Platforms, help diagnose problems with our servers, analyze trends, track users’ web page movements, help identify you and your shopping cart, and gather broad demographic information for aggregate use. 
 
-#### Internet Licensing
+_Cookies; Pixel Tags._ The technologies used on the Platforms to collect Usage Information, including Device Identifiers, include but are not limited to: cookies (data files placed on a Device when it is used to visit the Platforms), mobile analytics software and pixel tags (transparent graphic image, sometimes called a web beacon or tracking beacon, placed on a web page or in an email, which indicates that a page or email has been viewed). Cookies may also be used to associate you with social networking sites like Facebook and Twitter and, if you so choose, enable interaction between your activities on the Platforms and your activities on such social networking sites We, or our vendors, may place cookies or similar files on your Device for security purposes, to facilitate site navigation and to personalize your experience while visiting our Platforms (such as allowing us to select which ads or offers are most likely to appeal to you, based on your interests, preferences, location, or demographic information). A pixel tag may tell your browser to get content from another server. 
 
-Through its “Internet Licensing” system, RCS collects some technical information about the computers that connect to RCS servers. This information includes IP addresses, RCS-issued User IDs and passwords, operating and file system versions, RCS product version numbers and the names and call letters of all the RCS product databases installed on the machines. This information is only collected when the end user initiates a licensing dialog with RCS and is never initiated by RCS. This information does not include any user-input contents of such databases nor any non-RCS products, files, services or systems installed or connected to the user’s computers. RCS collects only the minimally necessary set of RCS product parameters required to authorize the use of RCS software and systems within the terms of the user’s contract with RCS. All licensing transactions and IP addresses are logged. 
+To learn how you may be able to reduce the number of cookies you receive from us, or delete cookies that have already been installed in your browser’s cookie folder, please refer to your browser’s help menu or other instructions related to your browser. If you do disable or opt out of receiving cookies, please be aware that some features and services on our Platforms may not work properly because we may not be able to recognize and associate you with your Clear Channel account(s). In addition, the offers we provide when you visit us may not be as relevant to you or tailored to your interests. 
 
-#### Internet Update
+You can also learn more about cookies by visiting [www.allaboutcookies.org](http://www.allaboutcookies.org/) which includes additional useful information on cookies and how to block cookies using different types of browser. 
 
-Through its “Internet Update” system, RCS collects some technical information about the software versions of RCS products installed on the user’s computer. This information is used to determine the nature of any new software or modules that should be downloaded by the user and automatically applied to the RCS software installation. This information is only collected when the end user initiates an Internet Update dialog with RCS and is never initiated by RCS. Version information may be used to update RCS records of installed software at the user’s site.
+or more information on advertising using cookies and how to opt out of advertising cookies specifically, please see Advertising; How To Opt-Out below. 
 
-####  Data Exchange
+### 2\. HOW WE USE THE INFORMATION WE COLLECT
 
-Through its Data Exchange service, RCS collects the contents of the user’s product database for transmission to the RCS server. This collection is only done when initiated by the end user. The database name and call letters are collected, as well as the e-mail address of the sender and recipient(s). This information is used only to notify the recipient(s) of the database transmission. RCS does not send unsolicited mail to Data Exchange recipient addresses nor disclose the addresses to third parties including other recipients. The user is encouraged to make use of the Private Password to encrypt the data and prevent access by unauthorized parties. In all cases the contents of the database sent to the RCS server are destroyed after seven days.
+We use the information we collect about and from you for a variety of business purposes such as to respond to your questions and requests; provide you with access to certain areas and features of the Platforms such as your favorite stations, your musical preferences, songs you have listened to, shared playlists and your interaction with other users; verify your identity; communicate with you about your account and activities on the Platforms and, in our discretion, changes to any Clear Channel policy; tailor content, advertisements, and offers we serve you; improve the Platforms; comply with license obligations; and for purposes disclosed at the time you provide your Personal Information or otherwise with your consent. We may collect location based information about you to provide you with radio stations in your area and to tailor advertisements and offers we serve to you. 
 
-####  Internet Bug Reporting
+### 3\. SHARING OF INFORMATION
 
-Through its “Internet Bug Reporting” feature, RCS collects technical information about the operating system, free disk space and software versions of RCS products installed on the user’s computer(s). The user is asked to provide a description of the problem, an e-mail address and business mailing address. At the user’s option, the information sent to RCS may include the full contents of the selected product database and/or so- called “debug” files (which contain a log of specific actions taken by the software and its users). Databases and debug files are never collected without the user’s consent and only when initiated by the user. 
+Except as described here, we will not provide any of your Personal Information to any third parties without your specific consent. We may share non-Personal Information, such as aggregate data and Usage Information with third parties. We may also share your information as disclosed at the time you provide your information, as set forth in this Privacy Notice and in the following circumstances: 
 
-### Aggregated Information
+#### Third Parties Providing Services On Our Behalf.
 
-RCS may collect aggregate information about its web site visitors, such as IP addresses and HTTP Referrers. This information does not contain any personally identifying information. RCS uses this information to monitor and improve the performance of its web sites. 
+We may share your Personal Information with third parties that perform functions on our behalf (or on behalf of our partners) such as service providers that host or operate our Platforms, analyze data, process transactions and payments, fulfill orders or provide customer service; advertisers; sponsors or other third parties that participate in or administer our promotions, contests, sweepstakes, surveys or provide marketing or promotional assistance and “powered by” partners or partners in co-branded sites. Your Personal Information may also be used by us or shared with our subsidiaries, affiliates, sponsors, partners, advertisers or other third parties to provide you with product information and promotional and other offers. 
 
-### Abuse
+#### Your Agreement To Have Your Personal Information Shared
 
-RCS offers its internet services as a courtesy to its customers. Services may be suspended or discontinued for some or all users at any time, for any reason, including as a result of abuse or where security of the systems or customer data is at risk. 
+While on our Platforms, you may have the opportunity to opt-in to receive information and/or marketing offers from someone else or to otherwise consent to the sharing of your information with a third party, including social networking sites such as Facebook or Twitter. If you agree to have your Personal Information shared, your Personal Information will be disclosed to the third party and the Personal Information you disclose will be subject to the privacy policy and business practices of that third party. 
 
-### Use of Personal Information
+#### Business Transfers
 
-RCS uses names and e-mail addresses to control access to certain parts of the rcsworks.com web site. RCS may send mail to the e-mail addresses in the database for the purposes of announcing product news, conducting surveys or providing support, order tracking or licensing information. RCS provides a method for users to set their preferences regarding the types of e-mail sent. RCS stores preferences with the e-mail address and makes diligent efforts to avoid sending unwanted e-mail. RCS may make use of a person’s title or affiliation for the purpose of targeting certain types of messages. RCS reserves the right to utilize e-mail to contact any customer regarding the status of their accounts or service agreements.
+We may share your Personal Information with other entities and our affiliates primarily for business and operational purposes. In the event that Clear Channel is involved in a bankruptcy, merger, acquisition, reorganization or sale of assets, your information may be sold or transferred as part of that transaction. 
 
- _RCS does not disclose personal information to third parties._
+#### Legal Disclosure
 
-RCS makes diligent efforts to ensure that the personal and computer information of its clients remains secure. RCS does not use customer or person names or other identifying details on its web site, or in any file download, product release or internet dialog, for any purposes other than official RCS business with the customer. While RCS exercises all precautions regarding the security of its internal information, the nature of certain internet communications cannot be regarded as absolutely secure.  
-RCS makes use of various mechanisms to ensure the contents of its product databases may only be accessed by authorized users, and internally by RCS personnel. RCS maintains the confidentiality of all customer communications, including database contents, program settings, personnel and facility information.
+We may transfer and disclose your information to third parties to comply with a legal obligation; when we believe in good faith that the law or a governmental authority requires it; to verify or enforce our Terms of Use or other applicable policies; to address fraud, security or technical issues; to respond to an emergency; or otherwise to protect our rights or property or security of third parties, visitors to our Platforms or the public. 
 
-### Cookies
+### 4\. INFORMATION WE RECEIVE FROM THIRD PARTIES
 
-Cookies are small files containing evidence of a previous visit to a web site. The information stored in a cookie from a web site can only be read by the web site that stored it. Cookies cannot access data from parts of the user’s computer other than cookies.
+We may receive information about you from third parties. For example, if you are on another website and you opt-in to receive information from Clear Channel, that website will submit to us your email address and other information about you so that we may contact you as requested. You may also choose to participate in a third party application or feature (such as one of our Facebook or Twitter applications or a similar application or feature on a third party website) through which you allow us to collect (or the third party to share) information about you, including Usage Information and Personal Information such as lists of your friends, “likes”, comments you have shared, groups and location. Services like Facebook Connect give you the option to post information about your activities on our Platform to your profile page to share with others within your network. In addition, we may receive information about you if other users of a third party website give us access to their profiles and you are one of their “connections” or information about you is otherwise accessible through your “connections’” web page, profile page, or similar page on a social networking or other third party website or interactive service. We may supplement the information we collect about you through the Platforms with such information from third parties in order to enhance our ability to serve you, to tailor our content to you and/or to offer you opportunities to purchase products or services that we believe may be of interest to you. 
 
-RCS uses cookies to keep track of logged-in users and offer customized pages and other services based on their identity. These cookies do not contain any personally identifying information. RCS offers the convenience of storing the user’s identity (currently comprised of their e-mail address and RCS password) in a second cookie, which avoids the need of logging into the rcsworks.com web site at each visit. Use of this second cookie is optional and created only with the user’s consent.
+### 5\. YOUR PRIVACY RIGHTS, CHOICE AND ACCESS
 
-Cookies are used to store the user’s Name, E-mail Address and Company name on their computer for use by the E-mail Direct page to display the most recently entered information for these fields.
+You may always direct us not to share your Personal Information with third parties (other than our service providers), not to use your Personal Information to provide you with information or offers, or not to send you newsletters, emails or other communications by: (i) modifying your registered user information on the Platforms; (ii) sending us an email at [privacy@iheartradio.com](mailto:privacy@iheartradio.com); (iii) contacting us by mail at Clear Channel Digital Customer Service, 200 E. Basse Road, San Antonio, TX 78209; or (iv) following the removal instructions in the communication that you receive. Your opt-out request will be processed within 30 days of the date on which we receive it. 
 
-RCS provides a means to remove all cookies it has set by visiting this web page: <http://www.rcsworks.com/services/nocookies.asp> 
+If you wish to modify, verify, correct, or delete any of your Personal Information collected through the Platforms, you may edit your registered user information or contact us at the above address or email. In accordance with our routine record keeping, we may delete certain records that contain Personal Information you have submitted through the Platforms. We are under no obligation to store such Personal Information indefinitely and disclaim any liability arising out of, or related to, the destruction of such Personal Information. It may not always possible to completely remove or delete all of your information from our databases without some residual data because of backups and other reasons. We will retain your information (including geo-location data) for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [privacy@iheartradio.com](mailto:privacy@iheartradio.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. We do not control certain privacy settings and preferences maintained by our social media partners like Facebook and Twitter. If you wish to make changes to those settings and preferences, you may do so by visiting the settings page of the appropriate social media site. 
 
-### IP Addresses
+### 6\. ADVERTISING/BEHAVIORAL TARGETING; HOW TO OPT-OUT
 
-An IP address is assigned to each computer connected to the internet. IP addresses can at times be used to identify ISPs and internet domains. RCS may collect IP addresses for diagnostic and statistical purposes. RCS may choose to block certain IP addresses given any evidence of abuse of its web services or to ensure the integrity and security of its web services.
+We may use third party ad network providers to help present ads on the Platforms, as well as other service providers to evaluate and provide us with information about the use of the Platforms and viewing of our content. We do not share Personal Information with these providers (unless, of course, you give us permission). Such providers may place and access cookies, pixel tags, or similar technologies on your Device to serve you ads or other content personalized to your interests which they infer from your browsing on the Platforms and other sites you have visited. In doing so, the provider collects or has access to non-Personal Information such as your Usage Information. The use of cookies, pixel tags, or similar technologies by these providers is subject to their own privacy policies, not ours. 
 
-## Children
+If you do not want to receive the benefits of targeted advertising, you may opt out of some network advertising programs that use your information the NAI Opt-Out Page at <http://www.networkadvertising.org/managing/opt_out.asp>. Please note that even if you choose to remove your information (opt out), you will still see advertisements while you’re browsing online. However the advertisements you see may be less relevant to you and your interests. Additionally, many network advertising programs allow you to view and manage the interest categories they have compiled from your online browsing activities. These interest categories help determine the types of targeted advertisements you may receive. The NAI Opt-Out Page provides a tool that identifies its member companies that have cookies on your browser and provides links to those companies. 
 
-In accordance with the Children’s Online Privacy Protection Act, RCS does not knowingly solicit information from children on its web site, nor does it market its services to children. Additionally, no part of the public RCS web site shall contain any information that could be regarded as inappropriate for children.
+### 7\. CHILDREN
 
-Last revised 20 September, 2002
+We do not knowingly collect, use or disclose personally identifiable information from anyone under 13 years of age. If we determine upon collection that a user is under this age, we will not use or maintain his/her Personal Information without the parent/guardian’s consent. If we become aware that we have unknowingly collected personally identifiable information from a child under the age of 13, we will make reasonable efforts to delete such information from our records. 
+
+### 8\. SECURITY OF YOUR INFORMATION
+
+We take information security seriously; however, no electronic data transmission or storage of information can be guaranteed to be 100% secure. Please note that we cannot ensure or warrant the security of any information you transmit to us, and you use the Platforms and provide us with your information at your own risk. 
+
+### 9\. OTHER SITES
+
+The Platforms may contain links to other sites that we do not own or operate. This includes links from advertisers, sponsors and/or partners that may use our logo(s) as part of a co-branding or co-marketing agreement. We do not control, recommend or endorse and are not responsible for these sites or their content, products, services or privacy policies or practices. These other sites may send their own cookies to your Device, they may independently collect data or solicit Personal Information and may or may not have their own published privacy policies. You should also independently assess the authenticity of any site which appears or claims that it is one of our Platforms (including those linked to through an email or social networking page). 
+
+The Platforms may make available chat rooms, forums, message boards, and news groups. Remember that any information that you disclose in these areas becomes public information and is not subject to the provisions of this Privacy Notice. 
+
+### 10\. CONSENT TO PROCESSING AND TRANSFER OF INFORMATION
+
+The Platforms are governed by and operated in, and in accordance with the laws of, the United States, and are intended for the enjoyment of residents of the United States. Clear Channel makes no representation that the Platforms are governed by or operated in accordance with the laws of any other nation. Given that we are an international business, our use of your information necessarily involves the transmission of data on an international basis. If you are located in the European Union, Canada or elsewhere outside of the United States, please be aware that information we collect may be transferred to and processed in the United States. By using the Platforms, or providing us with any information, you (a) acknowledge that the Platforms are subject to the laws of the United States, (b) consent to the collection, processing, maintenance and transfer of such information in and to the United States and other applicable territories in which the privacy laws may not be as comprehensive as or equivalent to those in the country where you reside and/or are a citizen, and (c) waive any claims that may arise under those laws. 
+
+### 11\. CHANGES
+
+We may update this Privacy Notice to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on our Platforms prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. 
+
+### 12\. CONTACT US
+
+If you have any questions or concerns about this Privacy Notice, the practices of the Platforms, or your experiences with the Platforms, please contact us at: 
+
+> **Attn: Privacy Questions**  
+>  Clear Channel Radio Digital  
+>  200 E. Basse Road  
+>  San Antonio, TX 78209  
+>  Re: Clear Channel Privacy Notice  
+>  E-Mail: [privacy@iheartradio.com](mailto:privacy@iheartradio.com)
