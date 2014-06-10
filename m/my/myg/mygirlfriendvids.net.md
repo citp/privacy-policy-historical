@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mygirlfriendvids.net privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209192920id_/http%3A//www.mygirlfriendvids.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mygirlfriendvids.net privacy policy that was archived on 2014-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140610131216id_/http%3A//www.mygirlfriendvids.net/privacy.html) for the most accurate reproduction.*
 
 # 
 
@@ -14,7 +14,7 @@ A. The operative parties referred to in this policy are COMPANY and you, the use
 
 1\. COMPANY is the publisher and operator of the websites listed at the beginning of this policy. When first-person pronouns are used in this Policy, (us, we, our, ours, etc.) these provisions are referring to COMPANY. Additionally, when the terms "The SITE" or "SITE" are used, these terms refer to the websites listed at the beginning of this policy. 
 
-2\. You, the User – As the user of this SITE, this policy will refer to the user as "you" or through any second-person pronouns, such as "yours," etc. Hereinafter, the user of the site shall be referred to in applicable second-person pronouns. 
+2\. You, the User â€“ As the user of this SITE, this policy will refer to the user as "you" or through any second-person pronouns, such as "yours," etc. Hereinafter, the user of the site shall be referred to in applicable second-person pronouns. 
 
 B. This Privacy Policy describes how we use information received about you when you visit our SITE or when you subscribe to, or otherwise use our online services. This Policy does not cover any information that we may receive from or about you through channels other than through the use of the SITE. 
 
@@ -32,15 +32,15 @@ B. Browsers - Browsers are visitors to the site who never enter into any active 
 
 IV. How we collect information from you 
 
-A. Passive Collection – We use cookies to collect information about you in order to enhance your experience on the site. The information collected in our cookies includes, but is not limited to, your user IP address, your browser information, your geographic location and other session data. 
+A. Passive Collection â€“ We use cookies to collect information about you in order to enhance your experience on the site. The information collected in our cookies includes, but is not limited to, your user IP address, your browser information, your geographic location and other session data. 
 
-B. Active Collection – we collect information from you, such as your e-mail address, when you complete registration forms to sign up for your membership on our Site. Locations for such collection are registration pages, but we reserve the right to add additional information collection portals. 
+B. Active Collection â€“ we collect information from you, such as your e-mail address, when you complete registration forms to sign up for your membership on our Site. Locations for such collection are registration pages, but we reserve the right to add additional information collection portals. 
 
 V. How we use your information 
 
 The primary use for your information is to provide you with services you have requested and/or paid for. We also use your information to deliver customized services to you, such as automatic log-in capabilities and storage of preferences. Member login information and e-mail addresses may be disclosed to third parties for the purpose of providing certain features or third-party upgrades as requested by the Member. We are not responsible for how third parties use your information, and You should become familiar with such third parties' privacy policies prior to requesting their services. Non-personal and aggregate information, such as that collected passively is used in order to customize our marketing efforts or to customize the use of our site for an aggregate group of customers. We additionally may use the personal information of users whose membership has expired or have been cancelled in order to market our services to these individuals in the future. 
 
-We generally will use your information for the purposes for which you specifically provide it, for example, to ensure payment for subscription services, if applicable. We also use your information for market research purposes – in order to increase your (and other users') experience according to tracked interests, to analyze and target potential new markets, and for other marketing purposes. 
+We generally will use your information for the purposes for which you specifically provide it, for example, to ensure payment for subscription services, if applicable. We also use your information for market research purposes â€“ in order to increase your (and other users') experience according to tracked interests, to analyze and target potential new markets, and for other marketing purposes. 
 
 VI. Special Cases. 
 
@@ -66,7 +66,7 @@ If you provide your information to us, use the SITE, or subscribe to any of our 
 
 VIII. Public Forums and Other Public Areas: 
 
-A. Public Forums – at the time of the instatement of this Policy, we currently offer Users the option to comment in public forums, to send private messages to other Users, and to comment on other User's profiles, and we reserve the right to offer other interactive features in the future. We also provide services that allow Members to post messages or comments to the public. Any and all information posted to the SITE, whether as a comment to a video or any other post, should immediately be considered to be public information. 
+A. Public Forums â€“ at the time of the instatement of this Policy, we currently offer Users the option to comment in public forums, to send private messages to other Users, and to comment on other User's profiles, and we reserve the right to offer other interactive features in the future. We also provide services that allow Members to post messages or comments to the public. Any and all information posted to the SITE, whether as a comment to a video or any other post, should immediately be considered to be public information. 
 
 IX. Our Commitment to Data Security. 
 
