@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobwebkenya.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211011138id_/http%3A//jobwebkenya.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobwebkenya.com privacy policy that was archived on 2014-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140611003148id_/http%3A//jobwebkenya.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Jobwebkenya.com
 
@@ -67,9 +67,3 @@ If you have any questions about this Privacy Policy, the practices of this site,
 info@jobwebkenya.com
 
 This document was last updated on September 03, 2013
-
-Close 
-
-Don't Miss a Job! Sign Up for Free Job Alert!
-
-Sales pitch to optin to your list
