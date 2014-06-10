@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alfreddunhilllinks.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202223504id_/http%3A//www.alfreddunhilllinks.com/information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alfreddunhilllinks.com privacy policy that was archived on 2014-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140610233909id_/http%3A//alfreddunhilllinks.com/information/privacy-policy) for the most accurate reproduction.*
 
 # Alfred Dunhill Links Championship - Privacy Policy
 
