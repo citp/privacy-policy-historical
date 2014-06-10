@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paintyourlife.com privacy policy that was archived on 2013-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131027015250id_/http%3A//www.paintyourlife.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paintyourlife.com privacy policy that was archived on 2014-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140610022335id_/http%3A//www.paintyourlife.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -46,14 +46,5 @@ PaintYourLife Limited has the discretion to update this privacy policy at any ti
 **Your acceptance of these terms**
 
 By using this Site, you signify your acceptance of this policy and [terms of service](http://www.paintyourlife.com/terms.php). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes. 
-
-**Contacting us**
-
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:   
-[PaintYourLife Limited](http://www.paintyourlife.com/)   
-[www.paintyourlife.com](http://www.paintyourlife.com/)   
-PaintYourLife 3479 NE 163rd St. North Miami Beach FL 33160, USA   
-860-865-0265   
-[sales@paintyourlife.com](mailto:sales@paintyourlife.com "mailto:sales@paintyourlife.com")
 
 This document was last updated on January 22, 2013
