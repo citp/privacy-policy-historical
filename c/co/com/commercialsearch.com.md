@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the commercialsearch.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206123316id_/http%3A//www.commercialsearch.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commercialsearch.com privacy policy that was archived on 2014-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140610152658id_/http%3A//www.commercialsearch.com/Privacy) for the most accurate reproduction.*
 
-# CommercialSearch - Privacy Policy
+# Privacy Policy - commercialsearch.com
 
 Xceligent takes your privacy very seriously. This statement discloses the privacy practices for the CommercialSearch website, located at www.commercialsearch.com (the "Site"). By using the Site you agree to the collection, use and disclosure of your personal information as described in this statement.
 
