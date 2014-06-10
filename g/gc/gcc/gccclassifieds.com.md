@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gccclassifieds.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210061045id_/http%3A//gccclassifieds.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gccclassifieds.com privacy policy that was archived on 2014-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140610133613id_/http%3A//gccclassifieds.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy,Buy and Sell Classified Ads,Online Classified Advertising
 
