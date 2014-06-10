@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the exercise4weightloss.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202212743id_/http%3A//www.exercise4weightloss.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exercise4weightloss.com privacy policy that was archived on 2014-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140610084917id_/http%3A//www.exercise4weightloss.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for Exercise 4 Weight Loss
+
+   
 
 Your privacy is important to me.  I am a very private person myself, so I understand the reluctance to share certain information with people you don’t know.  
 
@@ -36,7 +38,7 @@ This site may serve third party advertisements that use cookies and web beacons 
 
 Browsers can be set to accept or reject cookies or notify you when a cookie is being sent. Privacy software can be used to override web beacons. Taking either of these actions shouldn't cause a problem with this site, should you so choose.
 
-## Children's Online Privacy Protection Act
+## Childrens Online Privacy Protection Act
 
 This website is directed to adults; it is not directed to children under the age of 13. I operate this site in compliance with the Children's Online Privacy Protection Act, and will not knowingly collect or use personal information from anyone under 13 years of age.
 
@@ -50,9 +52,9 @@ The information collected is used solely for internal review and not shared with
 
 If exercise4weightloss.com is sold, the information I have obtained from you through your voluntary participation in this site may transfer to the new owner as a part of the sale in order that the service being provided to you may continue. 
 
-In that event, you will receive notice through this website of that change in control and practices, and I will make reasonable efforts to ensure that the purchaser honors any opt-out requests you might make of us.
+In that event, you will receive notice through this website of that change in control and practices, and I will make reasonable efforts to ensure that the purchaser honors any opt-out requests you might make of us. 
 
-## How to Correct/Remove Information
+## How to Correct/ Remove Information
 
 We provide this privacy policy as a statement to you of our commitment to protect your personal information. If you have submitted personal information through our website and would like that information deleted from the records or would like to update or correct that information, please use the [contact me](http://www.exercise4weightloss.com/contact.html) page.
 
@@ -62,8 +64,19 @@ Exercise4weightloss.com reserves the right to make changes in this policy. If th
 
 I encourage you to periodically review this policy so that you will know what information I collect and how I use it.
 
-## Agreeing to Terms
+## Agreeing the Terms
 
 If you do not agree to exercise4weightloss.com Privacy Policy as posted here on this website, please do not use this site or any services offered by this site.
 
 Your use of this site indicates acceptance of this privacy policy.
+
+ 
+
+#### Exercise 4 Weight Loss
+
+#### Monthly ezine
+
+Free tips and recipes monthly. What do you have to lose...except some weight.....Sign up now.
+
+  
+
