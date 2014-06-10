@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awardspace.us privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601143824id_/http%3A//www.awardspace.com/information/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awardspace.us privacy policy that was archived on 2014-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140610222717id_/http%3A//www.awardspace.com/information/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
