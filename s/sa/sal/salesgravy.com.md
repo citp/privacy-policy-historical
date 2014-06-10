@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salesgravy.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209192615id_/http%3A//www.salesgravy.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salesgravy.com privacy policy that was archived on 2014-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140610041225id_/https%3A//www.salesgravy.com/privacy-statement) for the most accurate reproduction.*
 
 # Sales Jobs Community – Advance Your Sales Career
 
