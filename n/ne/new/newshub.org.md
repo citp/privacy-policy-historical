@@ -1,96 +1,61 @@
-> *The following text is extracted and transformed from the newshub.org privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211162612id_/http%3A//www.ereleases.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newshub.org privacy policy that was archived on 2014-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140610214946id_/http%3A//us.newshub.org/content/privacy) for the most accurate reproduction.*
 
-# eReleases :: Privacy Statement
+# News Hub - Privacy Policy
 
-Please watch this page for updates or changes to our privacy statement. 
+## Data
 
-This privacy statement was last updated on November 29, 2004. MEK Enterprises LLC (dba eReleases) has created this privacy statement in order to disclose our information gathering and dissemination practices for this Web site, www.ereleases.com and www.prfuel.com. 
+NewsHub collects personal and activity data, which may be linked.
 
-MEK Enterprises LLC (dba "eReleases") abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union. Upon reading this privacy statement, you will know: 
+NewsHub uses technologies like cookies (small files stored on your browser), web beacons, or unique device identifiers to identify your computer or device so we can deliver a better experience. Our systems also log information like your browser, operating system and IP address.
 
-1\. What personally identifiable information of yours or third party personally identifiable information is collected from you through the Web site. 
+NewsHub also may collect personally identifiable information that you provide to us, such as your name, address, phone number or email address. With your permission, we may also access other personal information on your device, such as your phone book, calendar or messages, in order to provide services to you. If authorized by you, we may also access profile and other information from services like Facebook.
 
-2\. The organization collecting the information. 
+Our systems may associate this personal information with your activities in the course of providing service to you (such as pages you view or things you click on or search for).
 
-3\. How the information is used. 
+NewsHub does not knowingly contact or collect personal information from children under 13. If you believe we have inadvertently collected such information, please contact us so we can promptly obtain parental consent or remove the information.
 
-4\. With whom the information may be shared. 
+## Location
 
-5\. What choices are available to you regarding collection, use and distribution of the information. 
+NewsHub does not use or collect your precise geographic location.
 
-6\. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under MEK Enterprises LLC (dba "eReleases")'s control. 
+## Access
 
-7\. How you can access and correct any inaccuracies in the information collected about you. 
+You can sign into your account to see or delete any personally identifiable information we have stored, such as your name, address, and e-mail or phone number. You can also contact us by email to request to see or delete this information.
 
-Questions regarding this statement should be directed to the MEK Enterprises LLC (dba eReleases) site coordinator by sending an email message to sales@ereleases.com or writing to us at the following address: 
+## Deletion
 
-5022 Campbell Blvd., Suite N   
-Baltimore, MD 21236 
+NewsHub may keep data indefinitely.
 
-To return to the MEK Enterprises LLC (dba eReleases) home page, please click here: [http://www.ereleases.com](http://www.ereleases.com/). 
+## Sharing
 
-MEK Enterprises LLC (dba eReleases) Privacy Statement 
+NewsHub generally does not share personally identifiable information (such as name, address, email or phone) with other companies.
 
-MEK Enterprises LLC (dba eReleases) is the sole owner of the information it gathers on its site. MEK Enterprises LLC (dba eReleases) will only share your information with outside parties in ways that are described in this privacy statement or if we are required to do so by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law, cooperate with Partners or law enforcement agencies, or comply with a legal process served on our Web site. Demographic information collected from visitors to our website includes IP address, ISP, computer system used, browser used, and where the visitor originated (i.e., a search engine, website link, banner advertisement, etc.). 
+## Ad Tracking
 
-What Information is Collected and How it is Used? 
+NewsHub does not allow advertising companies to collect data through our service for ad targeting.
 
-* Free Newsletter Sign Up (PR Fuel newsletter) 
+## Contact
 
-We collect contact information such as first and last name, mailing address, email address, phone number, fax number, and company information such as company name and Web site URL. This information, which is stored on our third-party professional newsletter service, is used to send those who signed up a free newsletter as well as other special offers through email. 
+If you have any questions or concerns about our privacy policies, please contact us at [ http://us.newshub.org/content/contactUs ](https://web.archive.org/content/contactUs) or [newsdesk@newshub.org](mailto:newsdesk@newshub.org). 
 
-* Contact Us 
+## Vendors
 
-We use email links as well as a contact form located on the "contact us" page and other areas of the site to allow you to contact us directly with any questions or comments you may have. We read every message sent in and try to reply promptly to every one. This information is used to respond directly to your questions or comments. We may also file your comments to improve the site and program, or review and discard the information. Your personal information is only shared with third parties with your explicit permission. 
+In order to serve you, NewsHub may share your personal and anonymous information with other companies, including vendors and contractors. Their use of information is limited to these purposes, and subject to agreements that require them to keep the information confidential. Our vendors provide assurance that they take reasonable steps to safeguard the data they hold on our behalf, although data security cannot be guaranteed.
 
-* Placing an Order 
+Analytics companies may access anonymous data (such as your IP address or device ID) to help us understand how our services are used. They use this data solely on our behalf. They do not share it except in aggregate form; no data is shared as to any individual user. Click to see company privacy policies that govern their use of data.
 
-When you place an order on our website, you provide us with information that will be made public to the media and posted to online databases and Web sites. This information includes a press contact, which may include a first and last name, telephone number, fax number, address, email address, company name, and Web site. This information will also appear on each press release. The user also provides billing information, including first and last name, company name, email address, address, fax number, credit card number, expiration date, and acceptance of "Terms of Agreement". This billing information is considered privileged and we strive not to share it with any third party. However, we will share billing information with our newswire partner PR Newswire upon request, including proof that "Terms of Agreement" were accepted. Upon request, we may also share it with our credit card processor and participating banks. If a member of the media is unable to reach the press contact, we may use billing information to assist the media, especially if a reporter or journalist is under deadline. 
+## Security
 
-* Journalist Sign Up (to receive press releases) 
+NewsHub takes reasonable steps to secure your personally identifiable information against unauthorized access or disclosure. We encrypt transmission of data on pages where you provide payment information. However, no security or encryption method can be guaranteed to protect information from hackers or human error.
 
-We collect contact information such as first and last name, mailing address, email address, phone number, fax number, industry preferences, and company information such as company name, organization type, and Web site URL. This information, which is stored on our third-party professional newsletter service, is used to send journalists and those who sign up press releases as well as other special announcements through email. 
+Information we collect may be stored or processed on computers located in any country where we do business.
 
-Some MEK Enterprises LLC (dba eReleases) products are provided by MEK Enterprises LLC (dba eReleases) and a Partner. This Partner may not use your information for any purpose other than to contact you about the product or service. 
+## Special
 
-MEK Enterprises LLC (dba eReleases) will use any demographic data to learn more about the people and organizations that are interested in MEK Enterprises LLC (dba eReleases)'s products and services to better target our marketing efforts. We may share aggregated demographic with outside parties to showcase the level of interest in MEK Enterprises LLC (dba eReleases)'s products. No personal information will be shared. 
+Special situations may require disclosure of your data.
 
-Individuals, including previous customers, may also receive updates regarding the company's products or services. If you opted-in to receive product updates or our free newsletter, MEK Enterprises LLC (dba eReleases) will use your email address and complete name to send the requested emails. To unsubscribe from these emails, see the Unsubscribe section in each email. 
+To operate the service, NewsHub also may make identifiable and anonymous information available to third parties in these limited circumstances: (1) with your express consent, (2) when we have a good faith belief it is required by law, (3) when we have a good faith belief it is necessary to protect our rights or property, or (4) to any successor or purchaser in a merger, acquisition, liquidation, dissolution or sale of assets. Your consent will not be required for disclosure in these cases, but we will attempt to notify you, to the extent permitted by law to do so.
 
-* Customer Satisfaction Survey 
+## More
 
-Customers may provide contact information in order to help MEK Enterprises LLC (dba eReleases) create case studies and testimonials on the company's products and services. MEK Enterprises LLC (dba eReleases) will use this information to post to the company's Web site. 
-
-* Logged Files and Cookies 
-
-The MEK Enterprises LLC (dba eReleases) Web site logs IP addresses, browser types, and computer systems used for systems administration purposes. These logs will be analyzed to improve the value of the materials available on the website. A user's session will be tracked, but the user will be anonymous. We do not link IP addresses to any personally identifiable information unless an order takes place. 
-
-Third Party Service Providers 
-
-MEK Enterprises LLC (dba eReleases) contracts with a third party to assist us in managing certain functions on our Web site, such as sending out our newsletters. MEK Enterprises LLC (dba eReleases) only provides third party service providers with the information necessary to carry out the service. Third party service providers are contractually prevented from using the information received from MEK Enterprises LLC (dba eReleases) for any purpose other than providing the intended service. 
-
-Links 
-
-The MEK Enterprises LLC (dba eReleases) Web site contains links to other Web sites. Please note that these Web sites' privacy policies may differ from those of MEK Enterprises LLC (dba eReleases). We encourage you to read the privacy statement of any Web site you may visit. 
-
-Choices Regarding the Use of Your Information 
-
-How to Unsubscribe from MEK Enterprises LLC (dba eReleases) Email Publications 
-
-All newsletters and press releases emailed to subscribers include unsubscribe details. Any problems should be directed to: <http://www.ereleases.com/contact.html>
-
-How to Access and Update User Information 
-
-If you need to update your email address or any additional information, please contact MEK Enterprises LLC (dba eReleases) at <http://www.ereleases.com/contact.html>. 
-
-Security 
-
-Protecting your privacy and your information is a top priority at MEK Enterprises LLC (dba eReleases). We have taken careful measures to prevent the loss, misuse, and alteration of your information. Once we receive your information that was entered into our web site, it is stored behind a firewall. All MEK Enterprises LLC (dba eReleases) employees are aware of our privacy and security policies. Your information is only accessible to those employees who need it in order to perform their jobs. 
-
-Notification of Changes 
-
-If we are going to use your personally identifiable information in a manner different from that stated at the time of collection through this Web site, we will notify you via email. You will have a choice as to whether or not we use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already collected through our site, we will post a prominent notice on our web site notifying users of the change. 
-
-Privacy Policy Compliance 
-
-If you feel that MEK Enterprises LLC (dba eReleases) has not complied with the policies outlined in this privacy statement please let us know at: <http://www.ereleases.com/contact.html>
+NewsHub privacy policy was last updated on March 12, 2014. Our privacy policy may change from time to time. If we make any material changes to our policies, we will place a prominent notice on our website or application. If the change materially affects registered users, we will send a notice to you by email, push notification or text.
