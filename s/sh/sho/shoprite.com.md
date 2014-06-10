@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoprite.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230105118id_/http%3A//shoprite.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoprite.com privacy policy that was archived on 2014-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140610132203id_/http%3A//www.shoprite.com/privacy-policy) for the most accurate reproduction.*
 
 # ShopRite Privacy Policy » ShopRite
 
