@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the earnmydegree.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124012354id_/http%3A//www.earnmydegree.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earnmydegree.com privacy policy that was archived on 2014-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140610040605id_/http%3A//www.earnmydegree.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - EarnMyDegree.com
+
+[](https://privacy.truste.com/privacy-seal/EducationDynamics,-LLC/validation?rid=bb73c301-e204-47d9-b804-58e6ba2d6d8f "TRUSTe online privacy certification")
 
 EarnMyDegree is committed to protecting your privacy when you visit our websites, so we want you to know what information we collect when you visit one of our sites, how we use that information, and how you can update it. We reserve the right to append or otherwise modify this Privacy Statement at any time, so please re-visit this page occasionally to check for updates.
 
