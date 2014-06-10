@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ooyyo.com privacy policy that was archived on 2013-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130916233911id_/http%3A//www.ooyyo.info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ooyyo.com privacy policy that was archived on 2014-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140610122516id_/http%3A//www.ooyyonetwork.com/privacy) for the most accurate reproduction.*
 
 # Privacy OOYYO Network
 
@@ -54,7 +54,7 @@ This online privacy policy applies only to information collected through our web
 
 ##### Terms and Conditions
 
-Please also visit our Terms and Conditions section which contains terms of use, disclaimers, and limitations of liability governing the use of our website at <http://www.ooyyo.info/terms/>
+Please also visit our Terms and Conditions section which contains terms of use, disclaimers, and limitations of liability governing the use of our website at <http://www.ooyyonetwork.com/terms/>
 
 ##### Your Consent
 
@@ -66,6 +66,6 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 ##### Contacting Us
 
-If you have any questions regarding this privacy policy, you may [contact us here](http://www.ooyyo.info/contact/).
+If you have any questions regarding this privacy policy, you may [contact us here](http://www.ooyyonetwork.com/contact/).
 
 * * *
