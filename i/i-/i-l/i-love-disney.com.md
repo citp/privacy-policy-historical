@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the i-love-disney.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215071655id_/http%3A//i-love-disney.com/info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i-love-disney.com privacy policy that was archived on 2014-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140610073915id_/http%3A//i-love-disney.com/info/privacy.php) for the most accurate reproduction.*
 
 # I-Love-Disney.com Privacy Policy
 
