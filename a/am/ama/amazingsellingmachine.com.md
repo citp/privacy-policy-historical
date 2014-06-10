@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the amazingsellingmachine.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231235036id_/http%3A//amazingsellingmachine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amazingsellingmachine.com privacy policy that was archived on 2014-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140611003344id_/http%3A//amazingsellingmachine.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Amazing Selling Machine
+# Privacy Policy | Amazing Selling Machine — Amazing Selling Machine | Official Site | Ready to Build a REAL Business?
 
-This privacy policy sets out how **AmazingSellingMachine.com **uses and protects any information that you give **AmazingSellingMachine.com** when you use this website.
+This privacy policy sets out how AmazingSellingMachine.com uses and protects any information that you give AmazingSellingMachine.com when you use this website.
 
-**AmazingSellingMachine.com** is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+AmazingSellingMachine.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-**AmazingSellingMachine.com** may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from February 27th, 2013.
+AmazingSellingMachine.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from February 27th, 2013.
 
 **What we collect**
 
@@ -25,14 +25,14 @@ We require this information to understand your needs and provide you with a bett
 
   * Internal record keeping.
   * We may use the information to improve our products and services.
-  * We may periodically send promotional emails **** about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
   * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
 
 
 
 **Security**
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, **** we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
 **How we use cookies**
 
@@ -53,8 +53,7 @@ Our website may contain links to other websites of interest. However, once you h
 You may choose to restrict the collection or use of your personal information in the following ways:
 
   * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by contacting us at  **<https://support.amazingacademy.net/>[  
-](http://support.asmcentral.com/)**
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by contacting us at https://support.amazingacademy.net/
 
 
 
@@ -62,10 +61,8 @@ We will not sell, distribute or lease your personal information to third parties
 
 You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to:
 
-Archon Media Inc.  
-Department: AmazingSellingMachine.com  
-2700 West Loop South, Suite 900  
-Houston, Texas  
-77027
+Amazing Selling Machine LLC  
+100 Congress Ave., Ste. 2000  
+Austin, TX, 78701-2745
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
