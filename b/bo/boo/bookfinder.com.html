@@ -1,9 +1,10 @@
-<!--The following is the downloaded HTML source of the bookfinder.com privacy policy that was archived on 2013-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131226165423id_/http%3A//www.bookfinder.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bookfinder.com privacy policy that was archived on 2014-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140610093248id_/http%3A//www.bookfinder.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en-us"><head>
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/jquery-1.8.3.min.js"></script>
 <script type="text/javascript" src="/js/jquery.cookie.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js">
 <script type="text/javascript">
     function trackOutboundLink(event, link, category, action) {
         try {
@@ -24,8 +25,10 @@
 <title>BookFinder.com: Privacy policy</title>
 <meta http-equiv="Content-Script-Type" content="text/javascript">
 <meta name="y_key" content="c6e31ad0992202fc">
+<meta name="msvalidate.01" content="7A4771BDEBD5D8ACF487F0F26B961C43">
 <meta name="keywords" content="Books, Used Books, Rare Books, Out of print books, textbooks, used textbooks, college textbooks, antiquarian books, cheap books, antique books, hard to find books, online book stores, buy books, antique books, online used books, book store, online book sellers, book search, old books.">
 <link rel="stylesheet" media="all" href="http://i.bookfinder.com/site/style/" type="text/css">
+<!-- Latest compiled and minified CSS -->
 <link rel="home" href="http://www.bookfinder.com/">
 <link rel="help" href="http://www.bookfinder.com/help/">
 <link rel="glossary" href="http://www.bookfinder.com/help/glossary/">
@@ -34,9 +37,8 @@
 <link rel="apple-touch-icon" href="http://i.bookfinder.com/images/icon/apple-touch-icon.bf.png">
 <link rel="search" type="application/opensearchdescription+xml" href="http://www.bookfinder.com/site/opensearch/" title="BookFinder.com">
 <link rel="canonical" href="http://www.bookfinder.com/about/privacy/">
-<link rel="canonical" href="http://www.bookfinder.com/about/privacy/">
-<link rel="canonical" href="http://www.bookfinder.com/about/privacy/">
 <meta name="description" content="Find and price compare new and used books from 60+ stores, including textbooks and international titles.">
+<meta name="robots" value="noodp">
 <script type="text/javascript">
 function allocation(name, cells){
     var cell = $.cookie('ab-test-' + name);
@@ -47,9 +49,39 @@ function allocation(name, cells){
     } else {
         cell = cells[1];
     }
-    $.cookie('ab-test-' + name, cell, {expires: 90, path: '/'});
+    $.cookie('ab-test-' + name, cell, {expires: 30, path: '/'});
     return cell;
 }
+$(document).ready(function(){
+    $("#search_form").submit(function(e) {
+        optinForm = this;
+        if (window._gat) {
+            e.preventDefault();
+            var minYear = $("#min_year").val();
+            var maxYear = $("#max_year").val();
+            var eventLabel = "";
+            if ($("#author").val()) {
+                eventLabel = "|author:" + $("#author").val();
+            }
+            if ($("#title").val()) {
+                eventLabel = eventLabel + "|title:" + $("#title").val();
+            } 
+            if ($("#keywords").val()) {
+                eventLabel = eventLabel + "|keywords:" + $("#keywords").val();
+            } 
+            if (minYear && maxYear) {
+                _gaq.push(['_trackEvent', 'PubDate', 'min-max',minYear + '-' + maxYear + eventLabel,,true]);     
+            } else if (minYear) {
+                _gaq.push(['_trackEvent', 'PubDate', 'min',minYear + eventLabel,,true]);     
+            } else if (maxYear) {
+                _gaq.push(['_trackEvent', 'PubDate', 'max',maxYear + eventLabel,,true]);     
+            }
+            setTimeout(function() { optinForm.submit();}, 25);
+        }
+    });
+    
+    allocation('isbn-results', ['on', 'off']);
+});
 var cell = $.cookie('session_id');
 if (cell === undefined) {
    var seed = Math.floor(Math.random() * 100);
@@ -75,13 +107,13 @@ if (top != self) {
 //-->
 </script>
 </head>
-<!-- SI:/hn=/hp=8/cp=50/mu=15/la=0.7/df=17/bx=2xeoncpue5.2400.17084/up=329/ -->
+<!-- SI:/hn=/hp=7/cp=27/mu=15/la=0.1/df=21/bx=2xeoncpue5.2394.17084/up=3.54/ -->
 <body class="">
 <!-- start yui grids doc, sidebar on right -->
 <div id="doc3" class="yui-t4">
 <div id="hd"> <!-- start yui grids header -->
   <div align="center" id="header">
-    <!-- 10.145.176.35 -->
+    <!-- 10.31.129.136 -->
 <table border="0" width="100%" cellspacing="0" cellpadding="0">
 <tbody><tr id="header-row-1">
   <td align="left" id="header-section-logo">
@@ -103,13 +135,14 @@ if (top != self) {
   <td align="left" id="header-section-context">
 <span class="page-breadcrumb"><a href="http://www.bookfinder.com/" title="">Home</a> &gt; <a href="http://www.bookfinder.com/about/" title="Information about BookFinder.com and the folks who run it">About</a> &gt; Privacy policy</span>
   </td>
-  <td align="left" id="header-section-search" width="90%" colspan="2">
+  <td align="left" id="header-section-search" width="70%" colspan="2">
 <form action="http://www.bookfinder.com/search/" method="GET" accept-charset="iso-8859-1" name="header-search-form" id="header-search-form" class="header-search-form">
 <div style="padding: 2px; font-size: small">
 <label style="display: none">Search Author, Title or ISBN   </label>
 <input style="font-size: small; color: rgb(136, 136, 255);" id="header-search-form-input" name="keywords" type="text" value="" size="45" tabindex="200">
 <input type="hidden" name="st" value="sh">
 <input type="hidden" name="ac" value="qr">
+<input type="hidden" name="new_cache" value="on">
 <button style="background-color: #ececff; font-size: small" type="submit" name="submit" tabindex="201">Go</button>
 </div>
 </form>
@@ -196,7 +229,7 @@ called "ad networks" or "network advertisers"), including information about how 
 <!-- second block of first main row -->
 <div class="yui-b">
   <div id="page-sidebar-table-sidebar-area">
-     <div align="left" class="right-bar">             <h4><a href="http://www.bookfinder.com/about/">About</a></h4>             <ul> <li><a href="http://www.bookfinder.com/about/booksellers/" title="&quot;A" list="" of="" listings="" services="" and="" booksellers="" bookfinder.com="" works="" with&quot;="">Our booksellers</a></li> <li><a href="http://www.bookfinder.com/about/press/">For the press</a></li> <li><a href="http://www.bookfinder.com/about/mentions/" title="&quot;What" the="" media="" has="" been="" saying="" about="" bookfinder.com&quot;="">Media mentions</a></li>             </ul> </div> 
+     <div align="left" class="right-bar">             <h4><a href="http://www.bookfinder.com/about/">About</a></h4>             <ul> <li><a href="http://www.bookfinder.com/about/booksellers/" title="A list of listings services and booksellers BookFinder.com works with">Our booksellers</a></li> <li><a href="http://www.bookfinder.com/about/press/">For the press</a></li> <li><a href="http://www.bookfinder.com/about/mentions/" title="What the media has been saying about BookFinder.com">Media mentions</a></li>             </ul> </div> 
   </div> <!-- end page-sidebar-table-sidebar-area -->
 </div> <!-- end yui-b -->
 
@@ -225,34 +258,34 @@ called "ad networks" or "network advertisers"), including information about how 
 </a><br>
 <a href="http://www.bookfinder.com/isbn_search/">ISBN search</a>
 <br>
-<a href="http://www.bookfinder.com/textbooks/" title="&quot;Find" cheap="" college="" textbooks&quot;="">Textbooks</a>
+<a href="http://www.bookfinder.com/textbooks/" title="Find cheap college textbooks">Textbooks</a>
 <br>
-<a href="http://www.bookfinder.com/signed_books/" title="&quot;Search" for="" signed,="" autographed,="" and="" inscribed="" books&quot;="">Signed books</a>
+<a href="http://www.bookfinder.com/signed_books/" title="Search for signed, autographed, and inscribed books">Signed books</a>
 <br><a href="http://www.bookfinder.com/buyback/">Textbook buyback</a></td>
 <td class="footer-sitemap-link-column">
 <a href="http://www.bookfinder.com/help/?ref=bf_uu_ft_o2" title="How to use the BookFinder.com web site -- FAQs and tips"><strong>Help</strong>
 </a><br>
-<a href="http://www.bookfinder.com/help/faq/" title="&quot;Frequently" asked="" questions="" about="" bookfinder.com&quot;="">FAQ</a>
+<a href="http://www.bookfinder.com/help/faq/" title="Frequently asked questions about BookFinder.com">FAQ</a>
 <br>
-<a href="http://www.bookfinder.com/help/glossary/" title="&quot;Find" out="" what="" booksellers="" means="" when="" they="" write="" things="" like="" &#39;8vo&#39;="" or="" &#39;chipping&#39;&quot;="">Glossary</a>
+<a href="http://www.bookfinder.com/help/glossary/" title="Find out what booksellers means when they write things like '8vo' or 'chipping'">Glossary</a>
 </td>
 <td class="footer-sitemap-link-column">
 <a href="http://www.bookfinder.com/about/?ref=bf_uu_ft_o3" title="Information about BookFinder.com and the folks who run it"><strong>About</strong>
 </a><br>
-<a href="http://www.bookfinder.com/about/booksellers/" title="&quot;A" list="" of="" listings="" services="" and="" booksellers="" bookfinder.com="" works="" with&quot;="">Our booksellers</a>
+<a href="http://www.bookfinder.com/about/booksellers/" title="A list of listings services and booksellers BookFinder.com works with">Our booksellers</a>
 <br>
 <a href="http://www.bookfinder.com/about/press/">For the press</a>
 <br>
-<a href="http://www.bookfinder.com/about/mentions/" title="&quot;What" the="" media="" has="" been="" saying="" about="" bookfinder.com&quot;="">Media mentions</a>
+<a href="http://www.bookfinder.com/about/mentions/" title="What the media has been saying about BookFinder.com">Media mentions</a>
 </td>
 <td class="footer-sitemap-link-column">
 <a href="http://www.bookfinder.com/interact/?ref=bf_uu_ft_o4" title="Find out how to interact with the folks at BookFinder.com"><strong>Interact</strong>
 </a><br>
-<a href="http://www.bookfinder.com/interact/link/" title="&quot;How" to="" link="" bookfinder.com,="" including="" specific="" searches&quot;="">Link to us</a>
+<a href="http://www.bookfinder.com/interact/link/" title="How to link to BookFinder.com, including specific searches">Link to us</a>
 <br>
 <a href="http://www.bookfinder.com/interact/comments/">Send comments</a>
 <br>
-<a href="http://www.bookfinder.com/interact/lists/" title="&quot;Find" out="" about="" bookfinder.com&#39;s="" email="" mailing="" lists&quot;="">Mailing lists</a>
+<a href="http://www.bookfinder.com/interact/lists/" title="Find out about BookFinder.com's email mailing lists">Mailing lists</a>
 </td>
 <td class="footer-sitemap-link-column">
 <strong>Extras</strong>
@@ -283,18 +316,16 @@ Search for books in...&nbsp;
 
 <!-- start legal line -->
 <div id="footer-legal-block">
-© 1997-2013 <a href="http://www.bookfinder.com/about/">BookFinder.com</a>® |
+© 1997-2014 <a href="http://www.bookfinder.com/about/">BookFinder.com</a>® |
 <a href="http://www.bookfinder.com/about/conditions/">Conditions of use</a> |
 <a class="unlinked">Privacy policy</a> <font color="#B40404">
 </font></div><font color="#B40404">
 <!-- end legal line -->
 
-
 </font></div><font color="#B40404"> <!-- end footer -->
 
-<!-- SI:/hn=/hp=8/cp=50/mu=15/la=0.7/df=17/bx=2xeoncpue5.2400.17084/up=329/ -->
+<!-- SI:/hn=/hp=7/cp=27/mu=15/la=0.1/df=21/bx=2xeoncpue5.2394.17084/up=3.54/ -->
 <!-- TM:/ABsh1=0.00/ABsh2=0.00/ -->
-
 
 
 </font></div><font color="#B40404"> <!-- end ft -->
