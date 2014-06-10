@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the pixtastock.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209141235id_/http%3A//www.pixtastock.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixtastock.com privacy policy that was archived on 2014-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140610150641id_/http%3A//www.pixtastock.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Stock Photos PIXTA
 
-We, Pixta Inc. (hereinafter referred to as “Pixta” or “we”) collect from each user (hereinafter referred to as the “User”) of our service “PIXTA” (hereinafter referred to as the “Service”) the User’s personal information for his or her safe and secure use of the Service. We take the utmost attention and strict measures to protect the collected personal information of User in accordance with this Privacy Policy.
+*We have updated our Privacy Policy.
+
+We, Pixta Inc. (hereinafter referred to as “Pixta” or “we”) handle with the utmost attention, and take strict measures to protect, the personal information collected from each user (hereinafter referred to as the “User”) of our services “PIXTA” and “Imasia”(hereinafter referred to as the “Service”) in accordance with the following Privacy Policy (hereinafter referred to as the “Privacy Policy”).
 
 ### Definition of Personal Information
 
-In this Privacy Policy, we refer to as the “Personal Information” any and all the information required for the use of the Service, which can identify the User’s specific individual such as e-mail address, password, name, date of birth, postal address, telephone number, and credit card information.   
-We do not regard Cookies or IP address information as included in the Personal Information because sole Cookies or IP address information cannot identify the specific individual; provided, however, that they are regarded as the Personal Information if they are combined and used together with any of the Personal Information.   
-We do not intend to require or collect the Personal Information from anyone under the age of 18 years, with knowing the age of such person. People who are younger than 18 years old may not use the Service. 
+In this Privacy Policy, the “Personal Information” shall mean information about a living individual which can identify the specific individual by name, date of birth or other description contained in such information (including such information as will allow easy reference to other information and will thereby enable the identification of the specific individual), such as e-mail address, password, name, date of birth, postal address, telephone number, and credit card information collected from the User for the use of the Service.   
+We may also collect information concerning the User’s usage situation on the Service including but not limited to, information of IP address, Cookies, and browser. However, we do not regard that information as included in the Personal Information because it alone cannot identify the specific individual; provided, however, that it shall be regarded as the Personal Information if it is combined and used together with any of the Personal Information.   
+We do not intend to require or collect the Personal Information from anyone under the age of 18 years, with knowing the age of such person. People who are younger than 18 years old may not use the Service.
 
 ### Use of Personal Information
 
@@ -47,7 +49,7 @@ We shall not disclose or entrust the User’s Personal Information to any third 
 
 ### Use of Cookies
 
-Within the Service, Cookies may be used upon actions such as “collecting the access history”,“confirming Login status”, “saving cart information”, and “changing order of results” etc. The use of Cookies is intended to improve conveniences in the User’s use of the Service, and it does not recognize any of the User’s name or telephone number etc. The User who declines the use of Cookies may still be able to continue limited use of the Service such as viewing websites, but unable to use services using Cookies as above mentioned.  
+Within the Service, Cookies may be used upon actions such as “collecting the access history”,“confirming Login status”, “saving cart information”, and “changing order of results” etc. The use of Cookies is intended to improve conveniences in the User’s use of the Service, and it does not recognize any of the User’s name or telephone number etc. Any User who desires invalidation of Cookies may invalidate by changing the configuration of web browser. The User who declines the use of Cookies may still be able to continue limited use of the Service such as viewing websites, but unable to use services using Cookies as above mentioned.  
 Also the Service uses Cookies and Web beacons issued from advertising system which has been contracted or adopted for access analysis or advertising distribution, but they do not identify any individual.  
 Behavioral Targeting Advertisement Services listed on “Behavioral Targeting Advertisement the Services List” may be used in a part of the Service in order to distribute proper advertisements to each User. Behavioral Targeting Advertisement is an advertising method to distribute selected advertisements in accordance with interests or preference of each User who accesses to the Service on the basis of the browsing record information etc. Any User who wants to refuse such Behavioral Targeting Advertisements has to access the opt-out pages of each of the companies listed on Behavioral Targeting Advertisement the Services List, and conduct invalidation procedures.  
 [“Behavioral Targeting Advertisement the Services List” is here](https://web.archive.org/optout).
@@ -82,5 +84,5 @@ The number of companies constituting our group or the name(s) thereof may be cha
 
 Please click [here](https://web.archive.org/contacts) if you have any question regarding this Privacy Policy.
 
-As of September 2, 2013  
+As of June 9, 2014  
 2020 (c) PIXTA Inc. All Rights ReservedPIXTA Inc.
