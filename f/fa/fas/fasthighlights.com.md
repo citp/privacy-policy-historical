@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fasthighlights.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210061008id_/http%3A//www.goalsup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fasthighlights.com privacy policy that was archived on 2014-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140610142230id_/http%3A//www.goalsup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Football Highlights & Goals & Football Videos - GoalsUP
 
@@ -35,4 +35,4 @@ You should consult the respective privacy policies of these third-party ad serve
 
 Goalsup adheres to the US Safe Harbor privacy principles. For more information about the Safe Harbor framework or our registration, see the Department of Commerce’s web site. 
 
-For more information you may contact Goalsup through email form available on Goalsup.com 
+For more information you may contact Goalsup through email form available on Goalsup.com
