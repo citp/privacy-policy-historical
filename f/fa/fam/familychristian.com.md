@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the familychristian.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215074725id_/http%3A//www.familychristian.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familychristian.com privacy policy that was archived on 2014-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140610065939id_/http%3A//www.familychristian.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
