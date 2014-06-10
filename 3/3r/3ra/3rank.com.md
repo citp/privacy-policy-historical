@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the 3rank.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209084631id_/http%3A//3rank.com/privacy-and-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3rank.com privacy policy that was archived on 2014-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140611004124id_/http%3A//www.3rank.com/privacy-and-policy) for the most accurate reproduction.*
 
 # Privacy and Policy - 3Rank
 
-[Home](http://3rank.com/) / Privacy and Policy
+[__Home](http://www.3rank.com/) / Privacy and Policy
 
 At **3R** **ank.com,  **privacy of your information is more important to us than anything else. We must tell you what kind of information we receive when you visit us.
 
@@ -23,7 +23,7 @@ We may use this information to understand how our visitor uses the service and r
 
 ## Advertising
 
-Currently we are not providing any kind of ads on our site. We are just showing fresh and pure Contents.
+The ads shown on our site falls under privacy and policy of Google Adsense program. All ads (Text, image, link, interactive media) are automatically generated according to the keywords present in content/page.
 
 ## Any Complaints
 
