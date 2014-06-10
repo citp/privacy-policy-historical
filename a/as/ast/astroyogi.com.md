@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the astroyogi.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819014524id_/http%3A//www.astroyogi.com/policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astroyogi.com privacy policy that was archived on 2014-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140610081849id_/http%3A//www.astroyogi.com/policy.aspx) for the most accurate reproduction.*
 
-# Policy, Astrology, Free Horoscopes, 2010 Astrology and Predictions by Astroyogi.com
+# Policy - Astroyogi.com
 
 In order to operate the Site in an efficient and effective manner and provide users with information on astrology services & products that may be of interest to them, Astroyogi.com may collect personal information, including contact information (such as an email address), from its users. In addition, this information allows us to provide users with relevant astrological details. We also automatically track certain information based upon your behavior on the Site and use this information to do internal research on our users' demographics, interests, and behavior to better understand, protect and serve users in general. 
 
