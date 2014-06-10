@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the spreecast.com privacy policy that was archived on 2013-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131207084054id_/http%3A//about.spreecast.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the spreecast.com privacy policy that was archived on 2014-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140610035203id_/http%3A//about.spreecast.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US"><head>
 <meta charset="UTF-8">
@@ -8,15 +8,13 @@
 <link rel="profile" href="http://gmpg.org/xfn/11">
 <link rel="pingback" href="http://about.spreecast.com/xmlrpc.php">
 <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,700" rel="stylesheet" type="text/css">
-<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=202031463197987"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://code.jquery.com/ui/1.9.2/jquery-ui.js"></script>
-<script src="http://code.jquery.com/jquery-1.8.3.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://about.spreecast.com/wp-content/themes/spreecast-10-2013/js/jquery.custom.js"></script>
+<script src="http://code.jquery.com/jquery.min.js"></script>
 <script src="http://about.spreecast.com/wp-content/themes/spreecast-10-2013/js/team.js"></script>
-<script src="http://about.spreecast.com/wp-content/themes/spreecast-10-2013/js/supersubs.js"></script>
-<script src="http://about.spreecast.com/wp-content/themes/spreecast-10-2013/js/jquery.custom.js"></script>
-<script src="http://code.jquery.com/jquery-latest.js"></script>
+<link rel="apple-touch-icon" href="http://about.spreecast.com/wp-content/themes/spreecast-10-2013/img/apple-touch-icon.png">
 <meta name="description" content="Spreecast is the social video platform that connects people through conversation.">
 <link href="http://d32bcpxpfzsqvw.cloudfront.net/web_assets/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
-
+<!--wpengine-->
 <!--[if lt IE 9]>
 <script src="http://about.spreecast.com/wp-content/themes/spreecast-10-2013/js/html5.js" type="text/javascript"></script>
 <![endif]-->
@@ -46,25 +44,15 @@ $("li.menu-item a").click(function() {
   });    
 
 //open sub-menu if on a current link page
- 
 $('ul.sub-menu').hide();
 $('li.current-menu-item').parent().show();
 $('li.current-menu-ancestor > a:first-child').addClass("active");
-
-
     
 //content accordion for sub-menus     
 $("h3.select, .expand-button").click(function () {
  $(this).toggleClass("active").next('.hide').slideToggle("fast");
 });
-          
-  //hover effect for the social media buttons in the sidebar              
-  $("li.social-button").hover(function () {
-  $('.social-hover', this).fadeIn('fast');
-   }, 
-  function () {
-  $('.social-hover', this).fadeOut('fast');
-  });     
+               
 });
 //mobile dropdown menu
   function toggle(el)
@@ -77,7 +65,6 @@ $("h3.select, .expand-button").click(function () {
  });
 </script>
 <script>
-
 //google analytics
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-26922017-1']);
@@ -88,36 +75,48 @@ $("h3.select, .expand-button").click(function () {
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
-//fb like button
-(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=202031463197987";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
 </script>
-
-
 </head>
-<body class="page page-id-44 page-template-default"><div id="fb-root"></div><!--facebook like button-->
-
+<body class="page page-id-44 page-template-default">
 <div class="header header-bar">
   <div class="header-wrap">
     <div id="logo" class="logo-spreecast">
       <a href="http://www.spreecast.com/">
         <img alt="Spreecast" height="26" src="http://about.spreecast.com/wp-content/themes/spreecast-10-2013/img/logo-spreecast.png" width="150">
       </a>
-      <div class="search-box">
-        	<form method="get" id="searchform" action="http://about.spreecast.com/" role="search">
-		<input type="search" class="field" name="s" value="" id="s" placeholder="Search">
+      <!--
+        <div class="search-box">
+          	<form method="get" id="searchform" action="http://about.spreecast.com/" role="search">
+		<input type="search" class="field" name="s" value="" id="s" placeholder="Search" />
 	</form>
-      </div>
+        </div>
+        -->
       <ul class="mobile-header sidebar">
-            <!-- BEGIN #primary-nav -->
-              <div id="primary-nav">
-              <a onclick="toggle('b');" class="menu-dropdown" href="#"></a>
-              <div id="b" class="menu-new-menu-container"><ul id="menu-new-menu" class="menu"><li id="menu-item-2636" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2636"><a>About</a>
+        <!-- BEGIN #primary-nav -->
+        <div id="primary-nav">
+          <a onclick="toggle('b');" class="menu-dropdown" href="#"></a>
+          <div id="b" class="menu-mobile-menu-container"><ul id="menu-mobile-menu" class="menu"><li id="menu-item-2750" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2750"><a href="http://about.spreecast.com/">What is Spreecast?</a></li>
+<li id="menu-item-2754" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2754"><a href="http://about.spreecast.com/jobs/">Careers</a></li>
+<li id="menu-item-2751" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2751"><a href="http://about.spreecast.com/press-center/">Press</a></li>
+<li id="menu-item-2752" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2752"><a href="http://about.spreecast.com/our-team/">Our Team</a></li>
+<li id="menu-item-3369" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3369"><a href="http://spreecast.zendesk.com/hc/en-us">Knowledge Base</a></li>
+<li id="menu-item-2755" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2755"><a href="http://support.spreecast.com/tickets/new">Contact Support</a></li>
+<li id="menu-item-2756" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2756"><a href="http://blog.spreecast.com">Blog</a></li>
+<li id="menu-item-2757" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2757"><a href="http://about.spreecast.com/guidelines/">Community Guidelines</a></li>
+<li id="menu-item-2753" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-44 current_page_item menu-item-2753"><a href="http://about.spreecast.com/privacy/">Privacy Policy</a></li>
+<li id="menu-item-2748" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2748"><a href="http://about.spreecast.com/terms-of-service/">Terms of Service</a></li>
+</ul></div>        <!-- END #primary-nav -->
+        </div>
+      </ul>
+    </div><!-- /logo -->
+  </div><!--header wrap-->
+</div><!-- /header -->
+<div class="wrapper">
+<div class="grey-bg"></div>
+        <ul class="sidebar">
+          <!-- BEGIN #primary-nav -->
+            <div id="primary-nav" class="hide-menu">
+            <div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-2636" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2636"><a>About</a>
 <ul class="sub-menu">
 	<li id="menu-item-2632" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2632"><a href="http://about.spreecast.com/">What is Spreecast?</a></li>
 	<li id="menu-item-2635" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2635"><a href="http://about.spreecast.com/jobs/">Careers</a></li>
@@ -128,11 +127,9 @@ $("h3.select, .expand-button").click(function () {
 </li>
 <li id="menu-item-2639" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2639"><a>Help</a>
 <ul class="sub-menu">
-	<li id="menu-item-2641" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2641"><a href="http://about.spreecast.com/getting-started/">Getting Started</a></li>
+	<li id="menu-item-3368" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3368"><a href="http://spreecast.zendesk.com/hc/en-us">Knowledge Base</a></li>
 	<li id="menu-item-2642" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2642"><a href="http://about.spreecast.com/videos/">How-To Videos</a></li>
-	<li id="menu-item-2640" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2640"><a href="http://about.spreecast.com/advanced/">Advanced Features</a></li>
-	<li id="menu-item-2643" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2643"><a href="http://support.spreecast.com">Support</a></li>
-	<li id="menu-item-3262" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3262"><a href="http://about.spreecast.com/additional-resources/">Additional Resources</a></li>
+	<li id="menu-item-2643" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2643"><a href="http://support.spreecast.com/anonymous_requests/new">Submit a Ticket</a></li>
 </ul>
 </li>
 <li id="menu-item-2733" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2733"><a>Advertising</a>
@@ -145,6 +142,7 @@ $("h3.select, .expand-button").click(function () {
 <ul class="sub-menu">
 	<li id="menu-item-2738" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2738"><a href="http://store.spreecast.com/collections/analytics">Analytics</a></li>
 	<li id="menu-item-2739" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2739"><a href="http://store.spreecast.com/collections/archive_downloads">Downloads</a></li>
+	<li id="menu-item-3327" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3327"><a href="http://store.spreecast.com/collections/spreecast-t-shirts-and-hoodies">Apparel</a></li>
 </ul>
 </li>
 <li id="menu-item-2722" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2722"><a>Social</a>
@@ -161,154 +159,27 @@ $("h3.select, .expand-button").click(function () {
 	<li id="menu-item-2647" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2647"><a href="http://about.spreecast.com/terms-of-service/">Terms of Service</a></li>
 </ul>
 </li>
-</ul></div>              <!-- END #primary-nav -->
-              </div>
-      </ul>
-    </div><!-- /logo -->
-  </div><!--header wrap-->
-</div><!-- /header -->
-
-<div class="wrapper">
-<div class="grey-bg"></div>
-
-        <ul class="sidebar">
-          <!-- BEGIN #primary-nav -->
-
-            <div id="primary-nav" class="hide-menu">
-            <div class="menu-new-menu-container"><ul id="menu-new-menu-1" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2636"><a>About</a>
-<ul class="sub-menu">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2632"><a href="http://about.spreecast.com/">What is Spreecast?</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2635"><a href="http://about.spreecast.com/jobs/">Careers</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2633"><a href="http://about.spreecast.com/press-center/">Press</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2634"><a href="http://about.spreecast.com/our-team/">Our Team</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2650"><a href="http://about.spreecast.com/contact/">Contact</a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2639"><a>Help</a>
-<ul class="sub-menu">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2641"><a href="http://about.spreecast.com/getting-started/">Getting Started</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2642"><a href="http://about.spreecast.com/videos/">How-To Videos</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2640"><a href="http://about.spreecast.com/advanced/">Advanced Features</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2643"><a href="http://support.spreecast.com">Support</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3262"><a href="http://about.spreecast.com/additional-resources/">Additional Resources</a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2733"><a>Advertising</a>
-<ul class="sub-menu">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2656"><a href="http://about.spreecast.com/advertising/">Advertisers</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2736"><a href="http://about.spreecast.com/content-creators/">Content Creators</a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2737"><a>Store</a>
-<ul class="sub-menu">
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2738"><a href="http://store.spreecast.com/collections/analytics">Analytics</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2739"><a href="http://store.spreecast.com/collections/archive_downloads">Downloads</a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2722"><a>Social</a>
-<ul class="sub-menu">
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2723"><a href="https://www.facebook.com/spreecast">Facebook</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2724"><a href="https://twitter.com/spreecast">Twitter</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2651"><a href="http://blog.spreecast.com">Blog</a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-2644"><a>Legal</a>
-<ul class="sub-menu">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2648"><a href="http://about.spreecast.com/guidelines/">Community Guidelines</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-44 current_page_item menu-item-2645"><a href="http://about.spreecast.com/privacy/">Privacy</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2647"><a href="http://about.spreecast.com/terms-of-service/">Terms of Service</a></li>
-</ul>
-</li>
 </ul></div>            <!-- END #primary-nav -->
             </div>
-            <!-- social media buttons -->
-           <!--
-            <div class="social-buttons">      
-              <li class="social-button">
-                <img src="http://about.spreecast.com/wp-content/themes/spreecast-10-2013/img/facebook.png" alt="" />
-                  <div class="social-hover">
-                    <div class="hover-arrow"></div>
-                    <div class="fb-like" data-href="https://www.facebook.com/spreecast?fref=ts" data-send="false" data-layout="button_count" data-width="450" data-show-faces="false" data-font="lucida grande"></div>
-                  </div>
-              </li>
-
-              <li class="social-button">
-                <img src="http://about.spreecast.com/wp-content/themes/spreecast-10-2013/img/twitter.png" alt="" />
-                  <div class="social-hover">
-                    <div class="hover-arrow"></div>
-                    <a href="https://twitter.com/spreecast" class="twitter-follow-button" data-show-count="true" data-show-screen-name="false">Follow @spreecast</a>
-
-                    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-                  </div>
-                    
-              </li>
-            </div> 
-            -->
-            <!-- /social-buttons -->  
-
         </ul> <!--/sidebar-->
 
         <ul class="tablet-header sidebar">
           <!-- BEGIN #primary-nav -->
             <div id="primary-nav">
             <a onclick="toggle('a');" class="menu-dropdown" href="#"></a>
-            <div id="a" class="menu-new-menu-container"><ul id="menu-new-menu-2" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2636"><a>About</a>
-<ul class="sub-menu">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2632"><a href="http://about.spreecast.com/">What is Spreecast?</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2635"><a href="http://about.spreecast.com/jobs/">Careers</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2633"><a href="http://about.spreecast.com/press-center/">Press</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2634"><a href="http://about.spreecast.com/our-team/">Our Team</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2650"><a href="http://about.spreecast.com/contact/">Contact</a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2639"><a>Help</a>
-<ul class="sub-menu">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2641"><a href="http://about.spreecast.com/getting-started/">Getting Started</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2642"><a href="http://about.spreecast.com/videos/">How-To Videos</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2640"><a href="http://about.spreecast.com/advanced/">Advanced Features</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2643"><a href="http://support.spreecast.com">Support</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3262"><a href="http://about.spreecast.com/additional-resources/">Additional Resources</a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2733"><a>Advertising</a>
-<ul class="sub-menu">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2656"><a href="http://about.spreecast.com/advertising/">Advertisers</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2736"><a href="http://about.spreecast.com/content-creators/">Content Creators</a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2737"><a>Store</a>
-<ul class="sub-menu">
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2738"><a href="http://store.spreecast.com/collections/analytics">Analytics</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2739"><a href="http://store.spreecast.com/collections/archive_downloads">Downloads</a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2722"><a>Social</a>
-<ul class="sub-menu">
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2723"><a href="https://www.facebook.com/spreecast">Facebook</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2724"><a href="https://twitter.com/spreecast">Twitter</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2651"><a href="http://blog.spreecast.com">Blog</a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-2644"><a>Legal</a>
-<ul class="sub-menu">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2648"><a href="http://about.spreecast.com/guidelines/">Community Guidelines</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-44 current_page_item menu-item-2645"><a href="http://about.spreecast.com/privacy/">Privacy</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2647"><a href="http://about.spreecast.com/terms-of-service/">Terms of Service</a></li>
-</ul>
-</li>
+            <div id="a" class="menu-mobile-menu-container"><ul id="menu-mobile-menu-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2750"><a href="http://about.spreecast.com/">What is Spreecast?</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2754"><a href="http://about.spreecast.com/jobs/">Careers</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2751"><a href="http://about.spreecast.com/press-center/">Press</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2752"><a href="http://about.spreecast.com/our-team/">Our Team</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3369"><a href="http://spreecast.zendesk.com/hc/en-us">Knowledge Base</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2755"><a href="http://support.spreecast.com/tickets/new">Contact Support</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2756"><a href="http://blog.spreecast.com">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2757"><a href="http://about.spreecast.com/guidelines/">Community Guidelines</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-44 current_page_item menu-item-2753"><a href="http://about.spreecast.com/privacy/">Privacy Policy</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2748"><a href="http://about.spreecast.com/terms-of-service/">Terms of Service</a></li>
 </ul></div>            <!-- END #primary-nav -->
             </div>
         </ul>
-
-
-
-        
-        
-        
-        
-        
-        
-        
 		<div class="main-content">
 
 				
@@ -343,7 +214,7 @@ We may collect the following types of information:</p>
 Should you choose to opt-out of being contacted by Spreecast for any reason, you can use the Spreecast Privacy Controls found in the “Privacy” section under “Account” on the Spreecast site to review and control your privacy settings. To find your account settings, log in to Spreecast and click the “Account” link under your username in the upper right hand corner of the page.</p>
 <p>Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some Spreecast features and services may not function properly if your cookies are disabled.</p>
 <p><strong>Childrens’ Privacy</strong><br>
-Spreecast does not knowingly collect information from children under 13 years of age. The Spreecast service is intended for a general audience and is not in any way targeted to children under 13 years of age. If any parent, guardian, or other person becomes aware that a child under the age of 13 has submitted any information to Spreecast or Spreecast has otherwise posted or obtained any information about a child under the age of 13, please notify us by emailing us at customerservice@spreecast.com or call us at (415) 484-6706 and we will take appropriate steps to remove and/or delete the information.</p>
+Spreecast does not knowingly collect information from children under 13 years of age. The Spreecast service is intended for a general audience and is not in any way targeted to children under 13 years of age. If any parent, guardian, or other person becomes aware that a child under the age of 13 has submitted any information to Spreecast or Spreecast has otherwise posted or obtained any information about a child under the age of 13, please notify us by emailing us at customerservice@spreecast.com or call us at (415) 369-9314 and we will take appropriate steps to remove and/or delete the information.</p>
 <p><strong>Information sharing</strong><br>
 Spreecast only shares personal information with other companies or individuals outside of Spreecast in the following limited circumstances:</p>
 <p>We have your consent. We require opt-in consent for the sharing of any sensitive personal information.</p>
@@ -394,13 +265,11 @@ By submitting any Content or personal information to Spreecast, you acknowledge 
 <script type="text/javascript" src="http://about.spreecast.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var _wpcf7 = {"loaderUrl":"http:\/\/about.spreecast.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
+var _wpcf7 = {"loaderUrl":"http:\/\/about.spreecast.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ...","cached":"1"};
 /* ]]> */
 </script>
 <script type="text/javascript" src="http://about.spreecast.com/wp-content/plugins/contact-form-7/includes/js/scripts.js"></script>
 <script type="text/javascript" src="http://about.spreecast.com/wp-content/themes/spreecast-10-2013/js/small-menu.js"></script>
-
-
 
 </div>
 
