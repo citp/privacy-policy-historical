@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the casinoroom.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204184837id_/http%3A//www.casinoroom.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casinoroom.com privacy policy that was archived on 2014-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140610092512id_/http%3A//www.casinoroom.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy | Privacy Provision & Policy at CasinoRoom.com
+# Privacy Provision & Policy at Casino Room
 
 ### Ellmount Gaming Ltd
 
