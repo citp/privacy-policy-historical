@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the unf.edu privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612143701id_/http%3A//www.unf.edu/WorkArea/linkit.aspx%3FLinkIdentifier%3Did%26ItemID%3D4294967533) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unf.edu privacy policy that was archived on 2014-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140611010650id_/http%3A//www.unf.edu/WorkArea/linkit.aspx%3FLinkIdentifier%3Did%26ItemID%3D4294967533) for the most accurate reproduction.*
 
-# UNF - - Privacy Policy
+# UNF - Privacy Policy
 
 Thank you for visiting the University of North Florida Website. Your privacy is very important to us. Simply stated, we do not collect personal information about you when you visit our Website unless you choose to make such information available to us.
 
