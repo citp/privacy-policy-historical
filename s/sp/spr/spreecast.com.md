@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spreecast.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207084054id_/http%3A//about.spreecast.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spreecast.com privacy policy that was archived on 2014-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140610035203id_/http%3A//about.spreecast.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – About Spreecast
 
@@ -46,7 +46,7 @@ Should you choose to opt-out of being contacted by Spreecast for any reason, you
 Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some Spreecast features and services may not function properly if your cookies are disabled.
 
 **Childrens’ Privacy**  
-Spreecast does not knowingly collect information from children under 13 years of age. The Spreecast service is intended for a general audience and is not in any way targeted to children under 13 years of age. If any parent, guardian, or other person becomes aware that a child under the age of 13 has submitted any information to Spreecast or Spreecast has otherwise posted or obtained any information about a child under the age of 13, please notify us by emailing us at customerservice@spreecast.com or call us at (415) 484-6706 and we will take appropriate steps to remove and/or delete the information.
+Spreecast does not knowingly collect information from children under 13 years of age. The Spreecast service is intended for a general audience and is not in any way targeted to children under 13 years of age. If any parent, guardian, or other person becomes aware that a child under the age of 13 has submitted any information to Spreecast or Spreecast has otherwise posted or obtained any information about a child under the age of 13, please notify us by emailing us at customerservice@spreecast.com or call us at (415) 369-9314 and we will take appropriate steps to remove and/or delete the information.
 
 **Information sharing**  
 Spreecast only shares personal information with other companies or individuals outside of Spreecast in the following limited circumstances:
