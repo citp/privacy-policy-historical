@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mobileiron.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230060843id_/http%3A//www.mobileiron.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobileiron.com privacy policy that was archived on 2014-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140610192129id_/http%3A//www.mobileiron.com/en/privacy-policy) for the most accurate reproduction.*
 
-# MobileIron Website Privacy Notice | MobileIron
+# Mobile Iron Inc. Website Privacy Notice | MobileIron
 
 Mobile Iron, Inc. (“MobileIron”) is a leader in enterprise mobility management. Our products and services enable companies around the world to securely manage and deliver apps, documents and other content to their employees’ mobile devices. This Privacy Notice describes how we handle the personal information we collect for our own purposes via MobileIron websites, mobile applications and our social media assets (collectively, “our sites”), and by email  in connection with our business development efforts, marketing programs, surveys, offers, events and other promotions. We may obtain this information directly from you as well as from our affiliated companies, business partners and other third parties 
 
