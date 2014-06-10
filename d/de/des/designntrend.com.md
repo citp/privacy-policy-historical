@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the designntrend.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209142323id_/http%3A//www.designntrend.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designntrend.com privacy policy that was archived on 2014-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140610123615id_/http%3A//www.designntrend.com/privacy-policy) for the most accurate reproduction.*
 
 # Design & Trend
 
-Last Modified: August 1, 2012
+Last Modified: August 1, 2012 132
 
 This is the privacy policy ("Privacy Policy") for Designntrend.com ("Site," "we," "us," or "our"). This Privacy Policy is intended to explain our privacy practices and covers the following areas:
 
