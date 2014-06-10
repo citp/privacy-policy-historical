@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the crictracker.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207025708id_/http%3A//www.crictracker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crictracker.com privacy policy that was archived on 2014-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140611013519id_/http%3A//www.crictracker.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cricket Tracker
-
-Share 
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [contact@crictracker.com](mailto:contact@crictracker.com).
 
@@ -61,3 +59,5 @@ By using our website, you hereby consent to our privacy policy and agree to its 
 This Privacy Policy was last updated on: Tuesday, October 1st, 2013.
 
 _Should we update, amend or make any changes to our privacy policy, those changes will be posted here._
+
+Share 
