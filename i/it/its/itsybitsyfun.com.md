@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the itsybitsyfun.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211020225id_/http%3A//www.itsybitsyfun.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itsybitsyfun.com privacy policy that was archived on 2014-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140611091345id_/http%3A//www.itsybitsyfun.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Itsy Bitsy Fun - Free Printables for all occasions
+# Privacy Policy - Itsy Bitsy Fun
 
 This Privacy Policy governs the manner in which Abc Printables collects, uses, maintains and discloses information collected from users (each, a "User") of the [abcprintables.weebly.com](http://www.generateprivacypolicy.com/account/policies/edit/abcprintables.weebly.com) website ("Site"). This privacy policy applies to the Site and all products and services offered by Abc Printables.
 
@@ -22,6 +22,9 @@ Abc Printables may collect and use Users personal information for the following 
 
   *  _\- To improve our Site_  
 We may use feedback you provide to improve our products and services.
+  *  [How Google uses data when you use our partners' sites ](http://www.google.com/policies/privacy/partners/)  
+
+  
 
 
 
@@ -59,6 +62,6 @@ If you have any questions about this Privacy Policy, the practices of this site,
 [Abc Printables](http://www.generateprivacypolicy.com/account/policies/edit/abcprintables.weebly.com)  
 [abcprintables.weebly.com](http://www.generateprivacypolicy.com/account/policies/edit/abcprintables.weebly.com)
 
-This document was last updated on August 01, 2013
+This document was last updated on May 25, 2014
 
 Privacy policy created by [Generate Privacy Policy](http://www.generateprivacypolicy.com/)
