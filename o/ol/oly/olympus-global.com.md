@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the olympus-global.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211003748id_/http%3A//www.olympus-global.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olympus-global.com privacy policy that was archived on 2014-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140611090349id_/http%3A//www.olympus-global.com/en/privacy) for the most accurate reproduction.*
 
 # OLYMPUS | Privacy Notice: Privacy Notice
 
@@ -6,7 +6,7 @@ May 15, 2013
 
 This page describes the rules in which personal information is handled in the Website of Olympus Corporation, displayed at the URL www.olympus-global.com ("the Website").
 
-At Olympus Corporation, (referred to below as "we/us/our"), we are deeply aware of the importance of your personal information. We handle and thoroughly protect all personal information that you provide to us, according to the [Olympus Personal Information Protection Policy](http://www.olympus-global.com/en/csr/olycsr/soundcorpo/protection/privacy.jsp). For information on the Olympus Group's policy on handling personal information, please see the [Olympus Personal Information Protection Policy](http://www.olympus-global.com/en/csr/olycsr/soundcorpo/protection/privacy.jsp).
+At Olympus Corporation, (referred to below as "we/us/our"), we are deeply aware of the importance of your personal information. We handle and thoroughly protect all personal information that you provide to us, according to the [Olympus Personal Information Protection Policy](http://www.olympus-global.com/en/privacy/policy.jsp). For information on the Olympus Group's policy on handling personal information, please see the [Olympus Personal Information Protection Policy](http://www.olympus-global.com/en/privacy/policy.jsp).
 
   * 1\. Purpose of Obtaining Personal Information Unless your prior consent is given or unless permitted by law, Olympus will use the personal information provided by you for the purposes listed below or for purposes that are obvious given the state in which your information was acquired:   
 \- To respond to your inquiries or your requests   
@@ -23,5 +23,3 @@ Please go to the [Personal Information Inquiry page](http://www.olympus-global.c
   * 6\. People under 16 years of age If you are under the age of 16, please make sure to obtain the consent of your parent or guardian before providing your personal information.
 
 
-
-Contents end
