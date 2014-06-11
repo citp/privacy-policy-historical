@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the safewise.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211012940id_/http%3A//www.safewise.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safewise.com privacy policy that was archived on 2014-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140611085506id_/http%3A//www.safewise.com/privacy-policy) for the most accurate reproduction.*
 
 # SafeWise Privacy Policy
 
-The purpose of this Privacy Policy is to give you a summary of the ways in which Clear Link Technologies, LLC d/b/a All Home Connections, LLC collects, maintains, and uses your information. Please feel free to contact us by email at privacy@clearlink.com or by mail at Clear Link Technologies, Privacy Department, 5202 W. Douglas Corrigan Way, STE 300, Salt Lake City, Utah 84116 with any questions or concerns about this Privacy Policy or the information we gather about you.
+The purpose of this Privacy Policy is to give you a summary of the ways in which Clear Link Technologies, LLC d/b/a SafeWise collects, maintains, and uses your information. Please feel free to contact us by email at privacy@clearlink.com or by mail at Clear Link Technologies, Privacy Department, 5202 W. Douglas Corrigan Way, STE 300, Salt Lake City, Utah 84116 with any questions or concerns about this Privacy Policy or the information we gather about you.
 
 ## How We Collect Your Information
 
