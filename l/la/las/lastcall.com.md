@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lastcall.com privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612140347id_/http%3A//www.lastcall.com/assistance/assistance.jsp%3FitemId%3Dcat4370003) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lastcall.com privacy policy that was archived on 2014-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140612001759id_/http%3A//www.lastcall.com/assistance/assistance.jsp%3FitemId%3Dcat4370003) for the most accurate reproduction.*
 
-# Last Call by Neiman Marcus - The real deal on true fashion and accessories for women and men.
+# Security & Privacy at Neiman Marcus Last Call
 
 #### Introduction
 
@@ -40,9 +40,13 @@ When you visit this website, our web server automatically collects anonymous inf
 
 When you visit one of our stores, if your mobile device accesses one of our wireless networks we may also automatically collect information about your geo-location based, in part, upon which wireless network has been accessed. When this happens we attempt to de-identify the information, which means that we remove or change (e.g., hash) certain pieces of information that might be used to link the data to you, or to your device. We will not attempt to re-identify geo-location information (i.e., link it to you or your device) unless you affirmatively give us permission to collect geo-location information about you. If you give us such permission, you can later decide to opt-out of geo-location tracking by sending an email to [geo_optout@neimanmarcus.com](mailto:geo_optout@neimanmarcus.com) with your MAC address (which can be found on most mobile devices under the "settings" menu).
 
+The Information We Collect was last updated on April 1, 2013.
+
 Our mobile applications will not transmit geo-location information about you to us unless you give them permission to do so.
 
-The Information We Collect was last updated on April 1, 2013.
+Some web browsers and devices permit you to broadcast a preference that you not be "tracked" online. At this time we do not modify your experience based upon whether such a signal is broadcast. 
+
+The Information We Collect was last updated December 16, 2013. 
 
 #### How We Use the Information We Collect
 
