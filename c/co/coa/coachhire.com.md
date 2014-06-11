@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the coachhire.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210053743id_/http%3A//www.coachhire.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coachhire.com privacy policy that was archived on 2014-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140612005439id_/http%3A//www.coachhire.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Coach Hire.com
 
-0800 033 7159
+0203 397 4460
 
 Part of the Transport 2 Network
 
