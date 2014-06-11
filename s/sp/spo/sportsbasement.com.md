@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sportsbasement.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211003817id_/http%3A//www.sportsbasement.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsbasement.com privacy policy that was archived on 2014-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140611091841id_/http%3A//www.sportsbasement.com/privacy) for the most accurate reproduction.*
 
-# Basement Buzz » Privacy Policy
+# Privacy Policy » Sports Basement
 
 ## Privacy Policy
 
@@ -33,19 +33,19 @@ As a natural consequence of the development of our company, we could be sold to 
 
 ### Events
 
-Tuesday, Dec. 10, 2013
+Wednesday, Jun. 11, 2014
     
-Wednesday, Dec. 11, 2013
+Thursday, Jun. 12, 2014
     
-Thursday, Dec. 12, 2013
+Friday, Jun. 13, 2014
     
-Friday, Dec. 13, 2013
+Saturday, Jun. 14, 2014
     
-Saturday, Dec. 14, 2013
+Sunday, Jun. 15, 2014
     
-Sunday, Dec. 15, 2013
+Monday, Jun. 16, 2014
     
-Monday, Dec. 16, 2013
+Tuesday, Jun. 17, 2014
     
 
 All events are free unless otherwise indicated. See event descriptions for more information.
