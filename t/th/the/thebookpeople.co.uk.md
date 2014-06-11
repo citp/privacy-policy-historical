@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebookpeople.co.uk privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211025050id_/http%3A//www.thebookpeople.co.uk/webapp/wcs/stores/servlet/qs_content1_tbp%3Ftitle%3DHelp-Account%26spotName%3Dwl_helpOurPoliciesPrivacy%26storeId%3D10001%26catalogId%3D10051%26langId%3D100) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebookpeople.co.uk privacy policy that was archived on 2014-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140611205750id_/http%3A//www.thebookpeople.co.uk/webapp/wcs/stores/servlet/qs_content1_tbp%3Ftitle%3DHelp-Account%26spotName%3Dwl_helpOurPoliciesPrivacy%26storeId%3D10001%26catalogId%3D10051%26langId%3D100) for the most accurate reproduction.*
 
 # Help - OurPoliciesPrivacy
 
@@ -6,7 +6,7 @@
 
 **Last Updated: 5 September 2013**
 
-The Book People Limited (" **we** " and " **our** ") are committed to protecting and respecting your privacy so that you can shop with confidence at [ www.thebookpeople.co.uk](https://web.archive.org/web/20131211025050id_/http%3A//www.thebookpeople.co.uk/webapp/wcs/stores/servlet/www.thebookpeople.co.uk) (" **our site** ")
+The Book People Limited (" **we** " and " **our** ") are committed to protecting and respecting your privacy so that you can shop with confidence at [ www.thebookpeople.co.uk](https://web.archive.org/web/20140611205750id_/http%3A//www.thebookpeople.co.uk/webapp/wcs/stores/servlet/www.thebookpeople.co.uk) (" **our site** ")
 
 This privacy policy (together with our [terms of use](http://www.thebookpeople.co.uk/webapp/wcs/stores/servlet/qs_content1_tbp?storeId=10001&catalogId=10051&langId=100&title=Help-Account&spotName=wl_helpOurPoliciesTerms)) and Cookie Policy and any other documents referred to on it) (together referred to as the " **Policy** ") explains how we collect, store and use the personal information and other data that you share with us when using our site and when you shop with us. 
 
@@ -20,7 +20,7 @@ For the purpose of the Data Protection Act 1998 (the **"Act"** ), the data contr
 
 #### Information we may collect from you
 
-We may collect and process the following data about you: Information you give us. You may give us information about you by filling in forms on our site or by corresponding with us by phone, e-mail or otherwise. This includes information you provide when you register to use our site, subscribe to our service, search for a product, place an order on our site, enter a competition, promotion or survey and when you report a problem with our site. The information you give us may include your name, address, e-mail address and telephone number. We will always take care to ensure your payment card details are kept safe and secure, in accordance with the Payment Card Industry Data Security Standard (PCI DSS). Your card details will be stored on a server behind a secure firewall, and only a limited number of authorised employees will be able to access this informationInformation we collect about you. With regard to each of your visits to our site we may automatically collect the following information: 
+We may collect and process the following data about you: Information you give us. You may give us information about you by filling in forms on our site or by corresponding with us by phone, e-mail or otherwise. This includes information you provide when you register to use our site, subscribe to our service, provide feedback on our services, search for a product, place an order on our site, enter a competition, promotion or survey and when you report a problem with our site. The information you give us may include your name, address, e-mail address and telephone number. We will always take care to ensure your payment card details are kept safe and secure, in accordance with the Payment Card Industry Data Security Standard (PCI DSS). Your card details will be stored on a server behind a secure firewall, and only a limited number of authorised employees will be able to access this informationInformation we collect about you. With regard to each of your visits to our site we may automatically collect the following information: 
 
   * technical information, including the Internet protocol (IP) address used to connect your computer to the Internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform;
   * information about your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our site (including date and time); products you viewed or searched for; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page and any phone number used to call our customer service number. 
@@ -37,9 +37,9 @@ We use information held about you in the following ways:
 
 (a) Information you give to us. We will use this information:
 
-  * to carry out our obligations arising from any contracts entered into between you and us and to provide you with the information, products and services that you request from us;
+  * to carry out our obligations arising from any contracts entered into between you and us, to get your feedback on what you thought of the service and to provide you with the information, products and services that you request from us; 
   * to provide you with information about other goods and services we offer that are similar to those that you have already purchased or enquired about;
-  * to provide you with information about goods or services we feel may interest you if you have consented to this. We will only contact you by electronic means (e-mail or SMS) with information about goods and services if you have consented to this. If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box on the registration form when you are setting up your account with us. You can "opt out" of receiving marketing emails from us at any time by clicking on the "unsubscribe link" provided in such communications or by emailing us at [tbpsales@thebookpeople.co.uk](mailto:tbpsales@thebookpeople.co.uk?Subject=Unsubscribe%20from%20Emails) your specific request. 
+tbpsales@thebookpeople.co.uk your specific request. 
   * to allocate rewards in accordance with any of our loyalty reward schemes which may be in place from time to time;
   * to ensure that content from our site is presented in the most effective manner for you and for your computer. 
 
@@ -75,11 +75,11 @@ We may share your information (but never your email addresses or telephone numbe
 We may disclose your personal information to third parties: 
 
   * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets..
-  * If The Book People Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
+  * If The Book People Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets; or
 
 
 
-If you do not wish to be contacted by any such third parties, please contact us in writing at the address set out in the Contact section of Policy providing your customer number, name and address in your correspondence. 
+To enable third parties to process information and provide services on our behalf to facilitate the activities described in **Uses Made of the Information** above. We carefully select our third party relationships and will ensure appropriate safeguards are put in place to protect your information, in accordance with the requirements of the Act. 
 
 If we are under a duty to disclose or share your personal data in order to comply with any legal obligation (including to respond to any government or regulatory request), or in order to enforce or apply our [terms of use](http://www.thebookpeople.co.uk/webapp/wcs/stores/servlet/qs_content1_tbp?storeId=10001&catalogId=10051&langId=100&title=Help-Account&spotName=wl_helpOurPoliciesTerms) or terms and conditions of supply and other agreements; or to protect the rights, property, or safety of The Book People Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction. 
 
