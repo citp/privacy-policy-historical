@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agilent.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217190621id_/http%3A//www.home.agilent.com/agilent/editorial.jspx%3Fpmode%3DPrivacy%26lc%3Deng%26cc%3DUS) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agilent.com privacy policy that was archived on 2014-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140611114143id_/http%3A//www.home.agilent.com/agilent/editorial.jspx%3Fpmode%3DPrivacy%26lc%3Deng%26cc%3DUS) for the most accurate reproduction.*
 
 # Agilent Technologies OnLine Privacy Statement | Agilent
 
@@ -181,7 +181,8 @@ Please e-mail questions or comments about our privacy practices to:
 [privacy_advocate@agilent.com](mailto:privacy_advocate@agilent.com)
 
 Agilent Technologies, Inc.  
-900 South Taft  
-Loveland, Colorado 80537  
+5301 Stevens Creek Boulevard  
+PO Box 58059 - MS 1B-CQ  
+Santa Clara, CA 95052-8058  
 United States  
-Phone: (970) 679-2025
+Phone: (408) 345-8061
