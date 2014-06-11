@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankatunion.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122212649id_/https%3A//www.bankatunion.com/home/support/disclosures/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankatunion.com privacy policy that was archived on 2014-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140611180232id_/https%3A//www.bankatunion.com/home/support/disclosures/privacy) for the most accurate reproduction.*
 
 # Union First Market Bank - Support - Disclosures & Terms of Use - Privacy Policy
 
@@ -30,7 +30,7 @@ Read the [Union Mortgage Group, Inc. Privacy Policy](https://web.archive.org/h
 
 How you can limit information sharing:
 
-  * Call Union's [Customer Service Center](https://web.archive.org/home/support/customers/contact)
+  * Call Union's [Customer Contact Center](https://web.archive.org/home/support/customers/contact)
   * Fill out Union's [Privacy Option Form](https://web.archive.org/home/support/disclosures/privacy/form)
 
 
