@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the nimblecommerce.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807133750id_/http%3A//www.nimblecommerce.com/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nimblecommerce.com privacy policy that was archived on 2014-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140611094500id_/http%3A//www.nimblecommerce.com/privacyPolicy) for the most accurate reproduction.*
 
 # NimbleCommerce - Group Buying and Local Commerce Platform
+
+NimbleCommerce Privacy Statement 
 
 ### Data Privacy at NimbleCommerce
 
