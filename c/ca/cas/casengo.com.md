@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the casengo.com privacy policy that was archived on 2013-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130909165928id_/http%3A//www.casengo.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casengo.com privacy policy that was archived on 2014-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140611081513id_/http%3A//www.casengo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Casengo | More Happy Customers
+# Privacy Policy - Casengo
 
 Casengo respects the privacy of the users of its site and ensures that the personal information you provide is treated confidentially. We use your data to process orders as quick and easy as possible. Beside this, we will use your data only with your permission. Casengo will not sell your personal information to third parties and will only share the information with third parties that are involved in processing your order.
 
@@ -13,6 +13,12 @@ Casengo uses the collected data to supply its clients with the following service
   * If you create a Casengo account we save your data on a secure server. In your Casengo account we save information such as name and address, telephone number, e-mail address, delivery and payment information, so you don’t need to fill in your information with every visit.
   * Data about the use of our site and the feedback we receive from our visitors helps us improve our site to further develop and improve the service.
   * Casengo promotions may require your personal details from you, such as your name, address and email address. We use this information to carry out our marketing and promotional efforts.
+  * Casengo uses all the features of Google Analytics for Display Advertisers. We obtain specific cookie data, such as the source, medium and keyword used to visit our website.
+  * Use the [Ads Settings](https://www.google.com/settings/ads) to opt-out of Google Analytics for Display Advertising and customize Google Display Network Ads.
+  * Casengo uses Remarketing with Google Analytics to advertise online.
+  * Third-party vendors, including Google, may show Casengo ads on sites across the Internet.
+  * Casengo and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on your past visits to the website.
+  * Casengo and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) together to report how your ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to the site.
 
 
 
