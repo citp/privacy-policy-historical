@@ -1,25 +1,17 @@
-> *The following text is extracted and transformed from the stepmania.com privacy policy that was archived on 2013-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130811182745id_/http%3A//www.stepmania.com/wiki/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stepmania.com privacy policy that was archived on 2014-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140611140226id_/http%3A//www.stepmania.com/policies) for the most accurate reproduction.*
 
-# Privacy Policy
+# Policies - StepMania
 
-##  Your email address
+## Traffic Statistics
 
-  * The StepMania wiki and StepMania message boards will ask you for an email address when registering. Your email address is used only for the purpose of logging into these services. 
-  * StepMania does not send spam or sell email addresses. 
+Tracking software (Google Analytics) is used to analyze traffic to this web site. We do not collect any individually identifiable information nor do we allow it to be shared with any third parties. We will not be upset if you block the script, although it is nice if the stats remain accurate. You can completely opt-out of tracking from Google Analytics using [an addon provided by Google](https://tools.google.com/dlpage/gaoptout).
 
+## Email Addresses
 
+The StepMania website will ask you for an email address when registering. Your email address is used only for the purpose of logging into these services and notifications you have opted into (i.e. by pressing "subscribe" on a thread. You can unsubscribe from these in your profile), or for important messages regarding your account. We will _never_ email asking for your account or personal information.
 
-##  Cookies
+StepMania does not send spam or sell email addresses, and those who do are disgusting.
 
-  * If you register on our wiki or message boards, these systems will use a cookie to remember your user name and session information. 
-  * Some ads that display on this site use cookies that keep a unique user id. 
+## Cookies
 
-
-
-##  Ads
-
-We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, visit [networkadvertising.org](http://www.networkadvertising.org/). 
-
-##  Questions
-
-If you have questions about this privacy policy please send an e-mail to [stepmania-users@lists.sourceforge.net](mailto:stepmania-users@lists.sourceforge.net). 
+If you register on our site, the system will use a cookie to remember your user name and session information. There's no way around that.
