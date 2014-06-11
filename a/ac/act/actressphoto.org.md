@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the actressphoto.org privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209074103id_/http%3A//www.actressphoto.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the actressphoto.org privacy policy that was archived on 2014-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140611021346id_/http%3A//www.actressphoto.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Actressphoto.org
 
