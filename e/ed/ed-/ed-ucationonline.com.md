@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ed-ucationonline.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520210240id_/http%3A//www.ed-ucationonline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ed-ucationonline.com privacy policy that was archived on 2014-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140611223718id_/http%3A//www.ed-ucationonline.com/privacy) for the most accurate reproduction.*
 
 # Ed-ucation online | Privacy Policy
 
