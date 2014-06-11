@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the welovefine.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211220240id_/http%3A//www.welovefine.com/cms.php%3Fid_cms%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the welovefine.com privacy policy that was archived on 2014-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140611235945id_/http%3A//www.welovefine.com/cms.php%3Fid_cms%3D2) for the most accurate reproduction.*
 
 # Privacy Statement - WeLoveFine -T-shirts designed for fans by fans
-
-[](http://steamcommunity.com/groups/WeLoveFine)
 
 PRIVACY POLICY STATEMENT
 
@@ -39,6 +37,3 @@ Consumers can have this information corrected by sending us e-mail at the above 
 With respect to security: When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site, We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
-
-  
-
