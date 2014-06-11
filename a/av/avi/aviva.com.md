@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aviva.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209193546id_/http%3A//www.aviva.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aviva.com privacy policy that was archived on 2014-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140611132335id_/http%3A//www.aviva.com/privacy-policy) for the most accurate reproduction.*
 
-# Aviva plc - Privacy Policy
+# Privacy Policy - Aviva plc
 
 Aviva plc is a member of the Aviva Group. We will use your personal details and information we obtain from other sources to provide you with our goods and services, for administration and customer services, to analyse your preferences and to ensure that the content, services and advertising we offer are tailored to your needs and interests. We may keep your information for a reasonable period for these purposes. We may need to share your information with service providers and agents for these purposes. We may disclose personal data in order to comply with a legal or regulatory obligation.
 
