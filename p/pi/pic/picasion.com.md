@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the picasion.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211013720id_/http%3A//picasion.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picasion.com privacy policy that was archived on 2014-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140611090509id_/http%3A//picasion.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Picasion - Create GIF animations online - Make an Animated GIF
 
