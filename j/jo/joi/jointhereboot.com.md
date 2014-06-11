@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jointhereboot.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214005735id_/http%3A//www.rebootwithjoe.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jointhereboot.com privacy policy that was archived on 2014-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140611234918id_/http%3A//www.rebootwithjoe.com/privacy-policy) for the most accurate reproduction.*
 
 # Reboot with Joe Privacy Policy | Reboot With Joe
 
