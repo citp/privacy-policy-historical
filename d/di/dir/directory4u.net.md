@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directory4u.net privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210222337id_/http%3A//www.directory4u.net/privacy.txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directory4u.net privacy policy that was archived on 2014-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140611071820id_/http%3A//www.directory4u.net/privacy.txt) for the most accurate reproduction.*
 
 # 
 
