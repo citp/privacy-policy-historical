@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webdesigners-directory.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212115246id_/http%3A//www.webdesigners-directory.com/html/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webdesigners-directory.com privacy policy that was archived on 2014-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140612002729id_/http%3A//www.webdesigners-directory.com/html/privacy_policy.cfm) for the most accurate reproduction.*
 
 # WEBDESIGNERS-DIRECTORY.COM Privacy Policy
 
