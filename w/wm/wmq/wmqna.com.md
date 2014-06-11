@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wmqna.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613064840id_/http%3A//wmqna.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wmqna.com privacy policy that was archived on 2014-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140612002035id_/http%3A//wmqna.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - wmQnA
 
