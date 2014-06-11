@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maebag.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210025750id_/http%3A//www.maebag.com/general.php%3Fid%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maebag.com privacy policy that was archived on 2014-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140612013639id_/http%3A//www.maebag.com/general.php%3Fid%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Online Shop from Cochin for Malayalam Books, Malayalam DVD, Churidar Materials, Funskool Toys, Kerala Sarees, Gifts to Kerala
 
@@ -8,7 +8,22 @@
 
 With a customer base of 25,000 people and 8 years into operations as a trusted online store, we are associated with many partners such as Mathrubhumi, Daily Malayalam etc. MaEbag.com is the online store provider for mathrubhumi shopping. Our team is very robust and we are here to do business and help our customers to fulfil their needs in buying things from us. Our motto is to serve our customers and provide them the best products at the most reasonable prices. Also, we are committed in meeting the objectives of our investors and stake holders. Our Contact Information MaEbag.com, 35/926, B1, Rajbhavan, Power House Road, Palarivattom, Cochin 25 Phone +91 484 2102069, +91 98954 74333 Email- info@maebag.com 
 
-Contact Address If you have a query about MaEbag.com and its products, services, quality, discounts, bulk purchase options or any other things you may want to know from us please send an email to info@maebag.com. Based on the nature of the query, we will respond to you in 2-3 business days. We can be reached at the below address and phone numbers as well. Our Contact details MaEbag.com, 35/926, B1, Rajbhavan, Power House Road, Palarivattom, Cochin 25 Phone : +91 98954 96555 Email- info@maebag.com 
+## Contact Address
+
+If you have a query about **MaEbag.com** and its products, services, quality, discounts, bulk purchase options or any other things you may want to know from us please send an email to **info@maebag.com**.
+
+Based on the nature of the query, we will respond to you in 2-3 business days.
+
+We can be reached at the below address and phone numbers as well.
+
+**Our Contact details**
+
+MaEbag.com  
+35/926, B1, Rajbhavan, Power House Road,  
+Palarivattom, Cochin 25  
+Phone: +91 98954 96555, +91 98954 74333  
+Email- info@maebag.com  
+
 
 Welcome to MaEbag.com. If you continue to browse and use this website you are agreeing to comply with and be bound by the following terms and conditions of use, which together with our privacy policy govern MaEbag.com's relationship with you in relation to this website. The term 'MaEbag.com' or 'us' or 'we' refers to the owner of the website whose registered office is 35/926, B1, Rajbhavan, Power House Road, Palarivattom, Cochin, Kerala, India. Our company registration number is C14/10102/2005-06 Cochin. The term 'you' refers to the user or viewer of our website The use of this website is subject to the following terms of use: The content of the pages of this website is for your general information and use only. It is subject to change without notice. Neither we nor any third parties provide any warranty or guarantee as to the accuracy, timeliness, performance, completeness or suitability of the information and materials found or offered on this website for any particular purpose. You acknowledge that such information and materials may contain inaccuracies or errors and we expressly exclude liability for any such inaccuracies or errors to the fullest extent permitted by law. Your use of any information or materials on this website is entirely at your own risk, for which we shall not be liable. It shall be your own responsibility to ensure that any products, services or information available through this website meet your specific requirements. This website contains material which is owned by or licensed to us. This material includes, but is not limited to, the design, layout, look, appearance and graphics. Reproduction is prohibited other than in accordance with the copyright notice, which forms part of these terms and conditions. All trade marks reproduced in this website which are not the property of, or licensed to, the operator are acknowledged on the website. Unauthorised use of this website may give rise to a claim for damages and/or be a criminal offence. From time to time this website may also include links to other websites. These links are provided for your convenience to provide further information. They do not signify that we endorse the website(s). We have no responsibility for the content of the linked website(s). You may not create a link to this website from another website or document without MaEbag.com� s prior written consent. Your use of this website and any dispute arising out of such use of the website is subject to the laws of India or other regulatory authority. I agree to pay the customs duty (if any) in addition to the shipping charges at the time of receipt of the consignment.. 
 
