@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reviewitonline.net privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210100321id_/http%3A//suv.reviewitonline.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reviewitonline.net privacy policy that was archived on 2014-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140611224024id_/http%3A//suv.reviewitonline.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ReviewItOnline.net Cars
 
