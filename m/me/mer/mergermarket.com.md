@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the mergermarket.com privacy policy that was archived on 2013-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131001060712id_/http%3A//www.mergermarket.com/info/wp-content/uploads/2012/03/mergermarket-privacy-policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mergermarket.com privacy policy that was archived on 2014-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140611024233id_/http%3A//www.mergermarket.com/info/wp-content/uploads/2014/01/mergermarket-privacy-policy.pdf) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Privacy Policy
  The following text is a full statement of the privacy policy of Mergermarket Limited (we, us, our) with registered
-address at Number One, Southwark Bridge, London SE1 9HL.
+address at 80 Strand, London, WC2R 0RL.
 We respect your privacy rights. This policy sets out the basis on which any personal data we collect from you, or that
 you provide to us, will be processed by us. Please read the following carefully to understand our views and practices
 regarding your personal data and how we will treat it.
 Our registration number for the purpose of the Data Protection Act 1998 (the Act) is Z4836264.
 INFORMATION WE MAY COLLECT FROM YOU
 We may collect and process the following data about you:
-     •    information that we collect from you to enable us to provide our services to you. If you use any of our
-          services via our site at www.mergermarket.com (our site), we may collect personal information including
+     •   information that we collect from you to enable us to provide our services to you. If you use any of our
+         services via our site at www.mergermarket.com (our site), we may collect personal information including
          your names, date of birth, gender, email, telephone number, address. We also may collect information
          through any bio details you complete. This information includes personal data as classified and protected by
          the Data Protection Act 1998 (the Act) as amended;
@@ -30,13 +30,13 @@ about our users' browsing actions and patterns, and does not identify any indivi
 For the same reason, we may obtain information about your general internet usage by using a cookie file which is
 stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard
 drive. They help us to improve our site and to deliver a better and more personalised service. They enable us:
-     •    to estimate our audience size and usage pattern;
-     •    to store information about your preferences, and so allow us to customise our site according to your
-          individual interests;
-     •    to speed up your searches; and
-     •    to recognise you when you return to our site.
+     •   to estimate our audience size and usage pattern;
+     •   to store information about your preferences, and so allow us to customise our site according to your
+         individual interests;
+     •   to speed up your searches; and
+     •   to recognise you when you return to our site.
                                                                                                                          1
-         Number One, Southwark Bridge, London, SE1 9HL United Kingdom    tel:+44 (0)20 7059 6100  www.mergermarket.com
+                  80 Strand, London WC2R 0RL United Kingdom    tel:+44 (0)20 7059 6100  www.mergermarket.com
 
 
 You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of
@@ -57,14 +57,14 @@ is at your own risk. Once we have received your information, we will use strict 
 to prevent unauthorised access.
 USES MADE OF THE INFORMATION
 We use information held about you in the following ways:
-     •    to carry out our obligations arising from any contracts entered into between you and us;
-     •    to allow you to participate in interactive features of our service, where you choose to do so;
-     •    to ensure that content from our site is presented in the most effective manner for you and for your
-          computer;
-     •    to send you a newsletter;
-     •    to provide you with information, products or services that you request from us or which we feel may interest
-          you, where you have consented to be contacted for such purposes; and
-     •    to notify you about changes to our service.
+     •   to carry out our obligations arising from any contracts entered into between you and us;
+     •   to allow you to participate in interactive features of our service, where you choose to do so;
+     •   to ensure that content from our site is presented in the most effective manner for you and for your
+         computer;
+     •   to send you a newsletter;
+     •   to provide you with information, products or services that you request from us or which we feel may interest
+         you, where you have consented to be contacted for such purposes; and
+     •   to notify you about changes to our service.
 We may also use your data, or permit selected third parties to use your data, to provide you with information about
 goods and services which may be of interest to you and we or they may contact you about these by post or telephone.
 If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes,
@@ -72,7 +72,7 @@ please tick the relevant box situated on the form on which we collect your data.
 DISCLOSURE OF YOUR INFORMATION
 We may disclose your personal information to any member of our group.
                                                                                                                          2
-         Number One, Southwark Bridge, London, SE1 9HL United Kingdom    tel:+44 (0)20 7059 6100 www.mergermarket.com
+                  80 Strand, London WC2R 0RL United Kingdom    tel:+44 (0)20 7059 6100 www.mergermarket.com
 
 
 We may disclose your personal information to third parties:
@@ -105,4 +105,4 @@ CONTACT
 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to
 info@mergermarket.com.
                                                                                                                         3
-         Number One, Southwark Bridge, London, SE1 9HL United Kingdom   tel:+44 (0)20 7059 6100 www.mergermarket.com
+                  80 Strand, London WC2R 0RL United Kingdom    tel:+44 (0)20 7059 6100 www.mergermarket.com
