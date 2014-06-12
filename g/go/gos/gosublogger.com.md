@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gosublogger.com privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120164824id_/http%3A//gosublogger.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gosublogger.com privacy policy that was archived on 2014-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140612044514id_/http%3A//gosublogger.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GosuBlogger
 
@@ -37,3 +37,6 @@ If you would like to opt-out of any service or change/modify information you hav
 **Contacting gosublogger.com**
 
 If you have any questions about our privacy statement, the practices of this site, or your dealings with this website, feel free to **contact us at **admin[at]gosublogger.com****
+
+  *   *   *   *   *   * 
+
