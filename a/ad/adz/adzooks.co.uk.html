@@ -1,657 +1,2317 @@
-<!--The following is the downloaded HTML source of the adzooks.co.uk privacy policy that was archived on 2013-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131227092133id_/http%3A//london.adzooks.co.uk/privacy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the adzooks.co.uk privacy policy that was archived on 2014-06-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140612131249id_/http%3A//www.getwestlondon.co.uk/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-					<title>London - Adzooks.co.uk 
-		 - Privacy Policy
-					</title>
-		<link rel="STYLESHEET" type="text/css" href="http://london.adzooks.co.uk/format_public.css">
-		<link rel="SHORTCUT ICON" href="http://london.adzooks.co.uk/favicon.ico">
-		
-			
-			<link rel="search" type="application/opensearchdescription+xml" title="London Adzooks.co.uk - accommodation" href="http://london.adzooks.co.uk/search_plugin.xml">
-		
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="robots" content="all">
-		<script type="text/javascript" src="http://london.adzooks.co.uk/whatbrowser.js"></script>
-		
-
-		
-
-		
-			
-			<script type="text/javascript" src="http://london.adzooks.co.uk/imageResizer.js"></script>
-		
-		
-	
-	<script type="text/javascript">
-	//<![CDATA[
-	
-	var g_afsAds = Array();
-	var google_adnum = 0;
-	var g_ads = 0;
-	
-	function google_ad_request_done(google_ads)
-	{   
-		var maxAds = Math.min(google_ads.length,g_ads.adCount);
-				
-		if (! maxAds) 
-		{	return;
-		}
-
-		
-		if (g_ads.isAFS)
-		{	var feedbackURL = 'http://services.google.com/feedback/online_hws_feedback';
-		} else
-		{	var feedbackURL = google_info.feedback_url;
-		}
-
-		var adsByGoog = '<div class="AdsByGoogle">';
-		
-		if (g_ads.leadIn)
-		{	adsByGoog += '<b class="AdSenseLeadIn">' + g_ads.leadIn + '</b>';
-		}
-		adsByGoog += '<a class="AbGLnk" href="' + 
-			feedbackURL + '">Ads by Google</a>' +
-			'</div>' + "\r\n";
-
-		var allAds = '';
-		var numAds = 0;
-		for (var i = 0; i < google_ads.length; i++) 
-		{   	
-			if (google_ads[i].type == "image") 
-			{
-		    	allAds += 
-	    		'<a href="' + google_ads[i].url +
-				'" target="_top" title="go to ' + google_ads[i].visible_url +
-				'"><img style="border:none;" src="' + google_ads[i].image_url +
-				'"width="' + google_ads[i].image_width +
-				'"height="' + google_ads[i].image_height + '"/></a>';
-				
-				
-				numAds++;
-				break;
-			} else 
-			{	
-				//global variable google_adnum increased to prevent duplication of ads 
-		
-				google_adnum += 1;			
-								
-		        var baseClass = 'AdSenseAd_' + g_ads.position;
-
-				var adText = '<a style="cursor:pointer;cursor:hand;text-decoration:none"><span class="AdSenseTitle" onmouseover="window.status=\'go to ' + google_ads[i].visible_url + '\'; this.className = \'AdSenseTitle AdSenseHover\'" onmouseout="window.status=\'\'; this.className = \' AdSenseTitle \'" onclick="document.location.href=\'' + google_ads[i].url + '\'">' + google_ads[i].line1 + '</span></a><br class="AdSenseTitle"/>';
-				if (google_ads[i].line2)
-				{	adText += '<span class="AdSenseAdText">'  + google_ads[i].line2;
-					if (google_ads[i].line3)
-					{	adText += '&nbsp;' + google_ads[i].line3;
-					}
-					adText += '</span>';
-				}
-				
-				allAds += '<div class="' + baseClass + '">' + "\r\n";				
-				allAds += adText + "\r\n";
-					
-				if (g_ads.position == 'skyscraper')
-				{	allAds += '<br/>';
-				}
-					
-				allAds += '<a style="cursor:pointer;cursor:hand;text-decoration:none"><span class="AdSenseURL" onmouseover="window.status=\'go to ' + google_ads[i].visible_url + '\'" onmouseout="window.status=\'\'" onclick="document.location.href=\'' + google_ads[i].url + '\'">' + google_ads[i].visible_url + '</span></a>' + "\r\n" + '</div>' + "\r\n";
-
-				
-				if (numAds > 1 &&  g_ads.position == 'skyscraper' &&  i % 7 == 0)
-				{ 	allAds += adsByGoog;
-				}	
-				numAds++;
-		    }
-			if (numAds >= maxAds)
-			{	break;
-			}
-		}
-		if (numAds==0)
-		{	
-			return;
-		}
-		
-		var s = adsByGoog +
-			'<div class="AdSenseContainer">' + "\r\n" + 
-			allAds;			
-   
-   		
-		
-    	if (g_ads.hasAdvertiseLink) 
-		{	s += '<div class="AdSenseAdvertiseHere">' +
-				'<a href="https://adwords.google.com/select/OnsiteSignupLandingPage?client=pub-3912838286800298&referringUrl=http://london.adzooks.co.uk/">Advertise on this site</a>' +
-				'</div>' + "\r\n";
-		}	    	
-		
-  	
-  		s += '</div>' + "\r\n";	    					    	
-		   
-		
-		document.write(s);  	
-		
-		
-		document.getElementById(g_ads.containerId).style.display = 'block';	    
-	}
-	
-	var googleAds = 0;
-	
-	 
-	var wideAdsIdx = 0;
-	var narrowAdsIdx = 0;
-	
-	/**
-	 * Show ads in a unit from an array of ads for the entire page.
-	 * Using golbal pointers wideAdsIdx and narrowAdsIdx to make sure same ads are not displayed multiple times
-	 **/
-	function showAFSAds(googleAds, gAdOpts) {
-		var feedbackURL = 'http://services.google.com/feedback/online_hws_feedback';
-		var adsByGoog = '<div class="AdsByGoogle">'; 
-		
-		if (gAdOpts.leadIn) {	
-			adsByGoog += '<b class="AdSenseLeadIn">' + gAdOpts.leadIn + '</b>';
-		}
-		adsByGoog += '<a class="AbGLnk" href="' + feedbackURL + '">Ads by Google</a>' + '</div>' + "\r\n";
-
-		//we dont want to repeat ads so start from where we left off
-		var idx = gAdOpts.g_afsVars.google_afs_type == 'w' ? wideAdsIdx : narrowAdsIdx;
-
-		var numAds = 0;
-		var allAds = '';
-		for (var a = idx; a < googleAds.length; a++) { 
-			
-			if ((gAdOpts.g_afsVars.google_afs_type == 'w' && googleAds[a].type=="text/wide") ||
-					(gAdOpts.g_afsVars.google_afs_type == 'n' && googleAds[a].type=="text/narrow")) {
-				var baseClass = 'AdSenseAd_' + gAdOpts.position;
-	
-				var adText = '<a style="cursor:pointer;cursor:hand;text-decoration:none"><span class="AdSenseTitle" onmouseover="window.status=\'go to ' + googleAds[a].visible_url + '\'; this.className = \'AdSenseTitle AdSenseHover\'" onmouseout="window.status=\'\'; this.className = \' AdSenseTitle \'" onclick="document.location.href=\'' + googleAds[a].url + '\'">' + googleAds[a].line1 + '</span></a><br class="AdSenseTitle"/>';
-				if (googleAds[a].line2) {	
-					adText += '<span class="AdSenseAdText">'  + googleAds[a].line2;
-					if (googleAds[a].line3) {	
-						adText += '&nbsp;' + googleAds[a].line3;
-					}
-					adText += '</span>';
-				}
-				
-				allAds += '<div class="' + baseClass + '">' + "\r\n";				
-				allAds += adText + "\r\n";
-					
-				if (googleAds.position == 'skyscraper') {	
-					allAds += '<br/>';
-				}
-					
-				allAds += '<a style="cursor:pointer;cursor:hand;text-decoration:none"><span class="AdSenseURL" onmouseover="window.status=\'go to ' + googleAds[a].visible_url + '\'" onmouseout="window.status=\'\'" onclick="document.location.href=\'' + googleAds[a].url + '\'">' + googleAds[a].visible_url + '</span></a>' + "\r\n" + '</div>' + "\r\n";
-	
-				
-				if (numAds > 1 &&  gAdOpts.position == 'skyscraper' &&  a % 7 == 0) { 	
-					allAds += adsByGoog;
-				}	
-				numAds++;
-			   
-				if (numAds >= gAdOpts.adCount) { //have we displayed the required number of ads
-					a++;	
-					break;
-				}
-			}
-		}
-		
-		if (numAds==0) {	
-			return;
-		}
-		
-		
-		if (gAdOpts.g_afsVars.google_afs_type == 'w') { 
-			wideAdsIdx = a;
-		} else {
-			narrowAdsIdx = a;
-		}
-		
-		
-		var s = adsByGoog +
-			'<div class="AdSenseContainer">' + "\r\n" + 
-			allAds;			
-   
-   		
-		
-    	if (g_ads.hasAdvertiseLink) 
-		{	s += '<div class="AdSenseAdvertiseHere">' +
-				'<a href="https://adwords.google.com/select/OnsiteSignupLandingPage?client=pub-3912838286800298&referringUrl=http://london.adzooks.co.uk/">Advertise on this site</a>' +
-				'</div>' + "\r\n";
-		}	    	
-		
-  	
-  		s += '</div>' + "\r\n";	    					    	
-		   
-		
-		document.getElementById(gAdOpts.containerId).innerHTML = s;  	
-		
-		
-		document.getElementById(gAdOpts.containerId).style.display = 'block';	
-	}
-	
-	/**
-	 * Called by google with ads queried
-	 **/
-	function google_afs_request_done(google_ads) {
-		
-		//googleAds = google_ads; //global ref for debugging
-		for (u = 0; u<g_afsAds.length; u++) { //loop through all ad units on the page
-			showAFSAds(google_ads, g_afsAds[u]); 
-		}
-	}
-	//]]>
-	</script>
-
-		</head>
-		<body>	
-	
-		
-		 
-		
- 		
-		
-		<div id="header">
-	
-			<div id="bannerad">
-		
-			</div>
-		
-			<div id="topsearch">
-			<script type="text/javascript">
-				function checkSearchForm() {
-					if (document.forms.LPsearch.catid.selectedIndex != "0") {
-						if (document.forms.LPsearch.what.value.length > 2) {
-							document.forms.LPsearch.submit();
-							return true
-						} else {
-							alert ("Please enter at least three letters to search for");
-							return false;
-						}
-					} else {
-						alert("Please select a category");
-						return false;
-					}
-				}
-			</script>
-			<form name="LPsearch" method="get" action="http://london.adzooks.co.uk/search.cfm" onsubmit="return checkSearchForm()">
-			<input type="text" name="what">
-			<br>
-			<select name="catid">
-			<option value="-1">Select one</option>
-		
-				<option value="84">Accommodation</option>
-			
-				<option value="79">Community</option>
-			
-				<option value="156">Encounters</option>
-			
-				<option value="177">Events</option>
-			
-				<option value="103">For sale</option>
-			
-				<option value="129">Jobs</option>
-			
-				<option value="118">Services</option>
-			
-			</select>
-			<input type="submit" value="Go">
-			<input type="hidden" name="inc" value="1">
-			</form>
-			</div>
-		
-			<a href="http://london.adzooks.co.uk/"><img src="http://gfx.adzooks.co.uk/v2/logo.gif" alt="Free London classifieds from Adzooks.co.uk - place a free ad, jobs, houses, flats, jobs and cars in London" width="140" height="58" id="logo"></a>
-			<h2>Free London classifieds. Buy, sell, rent or swap.</h2>
-			<a href="http://london.adzooks.co.uk/post.cfm"><img src="http://gfx.adzooks.co.uk/v2/b_postafreead.gif" alt="Post a free ad" width="147" height="22" id="postbutton"></a>
-			</div>
-		
-		<div id="sidebar">
-		
-		<a href="http://london.adzooks.co.uk/" class="selected">Home</a>
-		<a href="http://london.adzooks.co.uk/post.cfm">Post your free ad</a>
-		<a href="http://london.adzooks.co.uk/subscribe.cfm">Get ads by email</a>
-		<a href="http://london.adzooks.co.uk/profile.cfm">Create/Edit user profile</a>
-		<h2>Browse by category:</h2>
-		<a href="/accommodation/">Accommodation</a><a href="/community/">Community</a><a href="/encounters/">Encounters</a><a href="/events/">Events</a><a href="/for-sale/">For sale</a><a href="/jobs/">Jobs</a><a href="/services/">Services</a>
-		<h2>Browse by:</h2>
-		<a href="http://london.adzooks.co.uk/map/">Map</a>		
-		
-				<a href="http://london.adzooks.co.uk/location/">Location</a>
-				<a href="http://london.adzooks.co.uk/tags/">Tags</a>
-		
-				<a href="http://london.adzooks.co.uk/searches/">Top searches</a>
-				
-				<a href="http://london.adzooks.co.uk/profiles/">Top users</a>
-				
-		<h2>Useful Stuff</h2>
-					
-			
-				<a href="http://london.adzooks.co.uk/price-comparison">Compare Prices</a>
-			
-				<a href="http://london.adzooks.co.uk/switch-energy-suppliers">Switch Energy Suppliers</a>
-			
-		
-		</div>
-		
-			<div id="rhcolwrap">
-			<div id="skyad">
-		
-<!-- variables.adStatus Not present -->
-
-<!-- variables.adStatus Not present -->
-
-<!-- variables.adStatus Not present -->
-
-<!-- variables.adStatus Not present -->
-
-<!-- variables.adStatus Not present -->
-
-<!-- variables.adStatus Not present -->
-
-			
-			</div>
-			
-				
-			
-			</div>
-		
-		<div id="content">
-	<div class="postad">
-<ul>
-			<li><a href="http://london.adzooks.co.uk/post.cfm">
-					Post your free ad</a></li>
-					<li><a href="http://london.adzooks.co.uk/help.shtml">
-					Help</a></li>
-				
-</ul>
-		</div><br class="fixbr">
-<h1>Privacy policy</h1>
-<h4>In relation to all web site services offered by TRINITY MIRROR DIGITAL MEDIA LIMITED, trading as ADZOOKS, on this website
-</h4>
-<p>We are committed to: </p>
-<ul>
-  <li>Protecting the personal information you give us</li>
-  <li>Telling you how we use the information we gather about you </li>
-  <li>Getting your consent to our disclosure of your personal information. </li>
-
-</ul>
-<p>Our privacy policy is set out in detail below. Any changes to this policy 
-will be posted here. Please also refer to the Terms and Conditions of this web 
-site. When we refer to "we", "our" or "us" in this policy we mean the activities 
-of Trinity Mirror Digital Media Limited.</p>
-<ul>
-  <li>We want to offer you a service which you want to use. We may use 
-  information about you to help us customise our site to improve its usefulness 
-  to you. It can also help us to choose services we think will interest you. </li>
-  <li>Information about you helps us sell space to advertisers of products and 
-  services relevant to you so that we can continue to partially fund the site 
-  through advertising and you can continue to use parts of the site for free. </li>
-  <li>In addition to the services we provide on this web site we want to offer 
-  you goods and services provided by us and others which are of interest to you. 
-  We will only do this with your consent. </li>
-  <li>We compile anonymous records of user trends which we may make use of 
-  ourselves, or pass to our associated companies or to unconnected parties. 
-</li></ul>
-<h4>What information do we collect from you?</h4>
-<ul> 
-<li>We may collect information from you when you fill in an online registration 
-form for any of our web site services, (e.g., chat areas, forums, shopping, 
-advisory services, competitions etc). We may also collect information you give 
-us over the telephone or in written or other communications. The type of 
-information we will collect includes, for example, your name, mailing address, 
-email address, telephone numbers, gender, preferences and, where relevant, 
-financial, credit card or bank details. </li>
-<li>We collect information about your use of our sites' web site services 
-through "cookies". Cookies are blocks of text placed in files on your computer's 
-hard drive when you visit a website which contain information to identify you. A 
-cookie does not contain any personal information you have provided us with, 
-except your user name or email address, unless the cookie is attached to 
-personal information collected another way, such as by means of your online 
-registration form. We use cookies to personalise your visit to our web sites. If 
-you do not wish us to use cookies, you can set your Internet browser to reject 
-them; further information on how to do this is available at <a href="http://www.allaboutcookies.org/">www.allaboutcookies.org</a>, 
-or can be found on number of other Internet sites. </li>
-<li>Where it is lawful and necessary, we may monitor emails you send and 
-receive. </li>
-</ul>
-<h4>Your consent</h4>
-<ul>
-  <li>By giving us your details, you confirm that you consent to our sending you 
-  direct marketing or information, from us or our associated companies, about 
-  products or services that we believe may interest you. You also confirm that 
-  we may, from time to time, pass your details to third parties who offer goods 
-  and services that we believe may be of interest to you. </li>
-  <li>We will not supply your personal information to third parties for their 
-  direct marketing activities without your consent. </li>
-  <li>If you have already consented to us, our associated companies or third 
-  parties, sending you direct marketing or information, but you subsequently 
-  decide you no longer wish to receive direct marketing or information from us 
-  or our associated companies, or no longer want us to pass your information to 
-  third parties, please notify us by email at the following address <a hred="mailto:support@adzooks.co.uk">support@adzooks.co.uk</a>.</li>
-  </ul>
-<h4>How we ensure privacy is maintained</h4>
-<ul>
-  <li>We endeavour to ensure that your data is stored securely and to prevent 
-  unauthorised access. We have security measures in place to protect your 
-  information which we monitor regularly. Unfortunately, despite our measures, 
-  because of the nature of the Internet, we cannot guarantee that your 
-  information will remain at all times 100% secure. The continuing efforts of 
-  hackers to defeat even the newest of security systems means that we can never 
-  make this promise. </li>
-  <li>Please be aware that if you disclose information on chat areas, forums or 
-  other public services it may be possible for other people to use this 
-  information. We are not responsible for the disclosure of any information you 
-  post in this way. </li>
-  <li>Our policy is to comply with the Data Protection Act 1998, the Regulation 
-  of Investigatory Powers Act 2000 and the Privacy and Electronic Communications 
-  (EC Directive) Regulations 2003, and all other legislation which governs the 
-  maintenance of privacy in your information. We also require compliance with 
-  such legislation by third parties with whom we have arrangements to offer 
-  goods or services through our web sites. </li>
-  <li>Our web sites provide a number of links to web sites not operated by us or 
-  by companies associated with us. We take no responsibility for the use of any 
-  information about you which is collected as a result of your use of these web 
-  sites and this privacy policy does not extend to any web site operated by 
-  anybody other than us. </li>
-  </ul>
-<h4>Disclosing your information to third parties</h4>
-<ul>
-  <li>The personal information you give us is only disclosed to other businesses 
-  if we have your permission. In particular, even where we have your consent we 
-  will only disclose your financial, credit card or bank details to our 
-  associated companies, agents and/or third party suppliers of products or 
-  services on a need to know basis including, for example, in relation to the 
-  fulfilment of any e-commerce transactions. </li>
-  <li>We may disclose details about use of our web sites to other businesses 
-  e.g. to demonstrate patterns of use to advertisers and other business 
-  partners. The information we pass on for these purposes will not include any 
-  personal information by which you may be identified. </li>
-  <li>We may forward your personal details to the Police, or any regulatory 
-  body, if we are asked to do so or wish to do so in order to comply with the 
-  law or in relation to any suspected misuse by you of our web sites or any of 
-  our web site services. </li>
-  <li>We endeavour to prevent unauthorised disclosures of your personal 
-  information by other people, but we are not responsible for any unauthorised 
-  disclosures or other breaches of security or for the actions of others if the 
-  information was passed to them with your authority or with the authority of 
-  anybody other than us or our associated companies. </li>
-</ul>
-
-</div> <!-- close content -->
-	<br clear="all"><div class="footerpostad">
-<ul>
-			<li><a href="http://london.adzooks.co.uk/post.cfm">
-					Post your free ad</a></li>
-					<li><a href="http://london.adzooks.co.uk/help.shtml">
-					Help</a></li>
-				
-</ul>
-		</div><br clear="all"><div class="footer">
-	<div class="SiteLinks">
-	
-	
-			 
-			<a href="http://berkshire.adzooks.co.uk/">Berkshire classifieds</a> 
-			
-			| 
-			<a href="http://birmingham.adzooks.co.uk/">Birmingham classifieds</a> 
-			
-			| 
-			<a href="http://cardiff.adzooks.co.uk/">Cardiff classifieds</a> 
-			
-			| 
-			<a href="http://cheshire.adzooks.co.uk/">Cheshire classifieds</a> 
-			
-			| 
-			<a href="http://coventry.adzooks.co.uk/">Coventry classifieds</a> 
-			
-			| 
-			<a href="http://dorset.adzooks.co.uk/">Dorset classifieds</a> 
-			
-			| 
-			<a href="http://essex.adzooks.co.uk/">Essex classifieds</a> 
-			
-			| 
-			<a href="http://huddersfield.adzooks.co.uk/">Huddersfield classifieds</a> 
-			
-			| 
-			<a href="http://kent.adzooks.co.uk/">Kent classifieds</a> 
-			
-			| 
-			<a href="http://liverpool.adzooks.co.uk/">Liverpool classifieds</a> 
-			
-			| 
-			<a href="http://newcastle.adzooks.co.uk/">Newcastle classifieds</a> 
-			
-			| 
-			<a href="http://northwales.adzooks.co.uk/">North Wales classifieds</a> 
-			
-			| 
-			<a href="http://surrey.adzooks.co.uk/">Surrey classifieds</a> 
-			
-			| 
-			<a href="http://teesside.adzooks.co.uk/">Teesside classifieds</a> 
-			
-	</div>
-	
-
-
-
-		
-		
-			
-			
-			
-			
-			
-			
-		
-			
-			
-			
-			
-			
-			
-		
-			
-			
-			
-			
-			
-			
-		
-			
-			
-			
-			
-			
-			
-		
-			
-			
-			
-			
-			
-			
-		
-			
-			
-			
-			
-			
-			
-		
-			
-			
-			
-			
-			
-			
-		
-		
-
-	<a href="http://london.adzooks.co.uk/terms.shtml">Terms of use</a> &nbsp;|&nbsp;
-
-	<a href="http://london.adzooks.co.uk/privacy.shtml">Privacy Policy</a> &nbsp;|&nbsp;
-
-	<a href="http://london.adzooks.co.uk/contactus.shtml">Contact us</a> &nbsp;|&nbsp;
-
-	<a href="http://london.adzooks.co.uk/faq.shtml">FAQ</a> &nbsp;|&nbsp;
-
-	<a href="http://london.adzooks.co.uk/scam.shtml">Avoiding scams</a> &nbsp;|&nbsp;
-
-	<a href="http://blog.adzooks.co.uk/">Blog</a> &nbsp;|&nbsp;
-
-	<a href="http://www.icnetwork.co.uk/homes/">Homes</a> &nbsp;|&nbsp;
-
-
-</div>
-
-	<script type="text/javascript" src="http://www.icnetwork.co.uk/webstats.js?rsid=tmr-adzook&amp;siteName=london-adzooks&amp;publishingGroup=ADZOOKS&amp;jsrc=1&amp;statsSiteName=Adzooks&amp;Region=CENTRAL&amp;contentCategory=Classifieds%20non%20jobs%20homes%20cars"></script>
-
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+<!DOCTYPE html><html xml:lang="en" lang="en" class="no-js" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><!--<![endif]--><!--
+page generated at: Thu Jun 12 14:12:48 BST 2014
+page generated by escenic.server/hostname: reg-pres6a.tm-aws.com/reg-pres6a.tm-aws.com --><!--
+article config section used (for article sections): --><head><script src="//a1.vdna-assets.com/analytics.js" async=""></script>
+<!-- HTML5 Character Encoding -->
+<meta charset="utf-8">
+<!-- RSS -->
+<link rel="alternate" type="application/rss+xml" title="Default home feed" href="rss.xml">
+<!-- CSS includes moved to respective minifier widgets in the config -->
+<link rel="pingback" href="http://www.getwestlondon.co.uk/xmlrpc">
+<!--[if lt IE 9]>
+<script type="text/javascript" src="http://s.getwestlondon.co.uk/resources/js/lib/html5.js"></script>
+<![endif]-->
+<!-- start of widget id: 5736916, name: code, view: html -->
+<link href="http://fonts.googleapis.com/css?family=Ubuntu+Condensed|Signika:400,600|Francois+One|PT+Sans+Narrow" rel="stylesheet" type="text/css">
+<!-- end of widget id: 5736916, name: code, view: html -->
+<!-- start of widget id: 5733863, name: minifier, view: css -->
+<link rel="stylesheet" type="text/css" href="http://s.getwestlondon.co.uk/skins/getwestlondon/minified-code/5733863?v=1-1402476595">
+<!-- end of widget id: 5733863, name: minifier, view: css -->
+<!-- start of widget id: 6644728, name: minifier, view: css -->
+<link rel="stylesheet" type="text/css" href="http://s.getwestlondon.co.uk/skins/getwestlondon/minified-code/6644728?v=2-1402476595">
+<!-- end of widget id: 6644728, name: minifier, view: css -->
+<!-- start of widget id: 5733862, name: minifier, view: javascript -->
+<script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" src="http://s.getwestlondon.co.uk/skins/getwestlondon/minified-code/5733862?v=27-1402476595"></script>
+<!-- end of widget id: 5733862, name: minifier, view: javascript -->
+<!-- start of widget id: 5734512, name: code, view: html -->
+<link rel="dns-prefetch" href="//s.getwestlondon.co.uk">
+<link rel="dns-prefetch" href="//i1.getwestlondon.co.uk">
+<link rel="dns-prefetch" href="//i2.getwestlondon.co.uk">
+<link rel="dns-prefetch" href="//i3.getwestlondon.co.uk">
+<link rel="dns-prefetch" href="//i4.getwestlondon.co.uk">
+<link rel="dns-prefetch" href="//community.getwestlondon.co.uk">
+<link rel="dns-prefetch" href="//images.getwestlondon.co.uk">
+<link rel="dns-prefetch" href="//videos.getwestlondon.co.uk">
+<!-- end of widget id: 5734512, name: code, view: html -->
+<!-- start of widget id: 5734025, name: seo, view: custom -->
+<meta name="author" content="">
+<meta name="keywords" content="">
+<meta name="description" content="">
+<meta name="google-site-verification" content="FbeBbVYoavIi8eT_CkRMDAF_s3MFD5NTV_JpKCyCg9A">
+<title>Get West London: Number one for news, opinion, sport &amp; celebrity gossip</title>
+<!-- end of widget id: 5734025, name: seo, view: custom -->
+<!-- start of widget id: 6931859, name: seo, view: articleMeta -->
+<!-- end of widget id: 6931859, name: seo, view: articleMeta -->
+<!-- start of widget id: 5734008, name: twitter, view: twitterSummaryCard -->
+<!-- end of widget id: 5734008, name: twitter, view: twitterSummaryCard -->
+<!-- start of widget id: 5734260, name: openGraph, view: facebook -->
+<meta property="fb:page_id" content="129157297227065">	<meta property="fb:app_id" content="556445204430162">
+<!-- end of widget id: 5734260, name: openGraph, view: facebook -->
+<!-- start of widget id: 5734010, name: code, view: html -->
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+<!-- end of widget id: 5734010, name: code, view: html -->
+<!-- start of widget id: 5734012, name: style, view: default -->
+<!-- end of widget id: 5734012, name: style, view: default -->
+<!-- start of widget id: 5735048, name: code, view: html -->
+<link rel="apple-touch-icon" href="http://s.getwestlondon.co.uk/skins/getwestlondon/css/images/apple-touch-icon.png">
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="http://s.getwestlondon.co.uk/skins/getwestlondon/css/images/apple-touch-icon-57x57-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://s.getwestlondon.co.uk/skins/getwestlondon/css/images/apple-touch-icon-72x72-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://s.getwestlondon.co.uk/skins/getwestlondon/css/images/apple-touch-icon-114x114-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://s.getwestlondon.co.uk/skins/getwestlondon/css/images/apple-touch-icon.png">
+<link rel="icon" href="http://s.getwestlondon.co.uk/skins/getwestlondon/gfx/favicon.ico">
+<!-- end of widget id: 5735048, name: code, view: html -->
+<!-- start of widget id: 5736221, name: code, view: dartCss -->
+<style type="text/css">
+.container {
+margin-top: 100px;
+}
+</style>
+<!-- end of widget id: 5736221, name: code, view: dartCss -->
+<!-- start of widget id: 6374354, name: javascriptConfig, view: default -->
+<script>
+(function () {
+function clean(input) {
+while (input.lastIndexOf('/') === input.length - 1) {
+input = input.substr(0, input.length - 1)
+}
+return input;
+}
+var rootPath = clean("http:\/\/s.getwestlondon.co.uk\/resources\/");
+tm.config.set("resources.rootPath", rootPath);
+tm.config.set("frontend.rootPath", rootPath + "/..");
+tm.config.set("resources.js.rootPath", rootPath + "/js");
+tm.config.set("resources.skin.name", "getwestlondon");
+tm.config.set("resources.skin.url", clean("http:\/\/s.getwestlondon.co.uk\/skins\/getwestlondon\/"));
+tm.config.set("resources.skin.sharedUrl", clean("http:\/\/s.getwestlondon.co.uk\/skins\/shared\/"));
+tm.config.set("resources.handlebars.rootPath", rootPath + "/../template/handlebars/widgets");
+tm.config.set("resources.js.version", "1402476595");
+tm.config.set("site.isDesktop", "true" === "true");
+tm.config.set("pluck.theme", "mirror");
+tm.config.set("facebook.appid", "556445204430162");
+}());
 </script>
+<!-- end of widget id: 6374354, name: javascriptConfig, view: default -->
 <script type="text/javascript">
-_uacct = "UA-167085-2";
-urchinTracker();
+//<![CDATA
+var gs_channels= "southwest";
+document.write('<scr' + 'ipt type="text/javascript" src="http://trinitymirror.grapeshot.co.uk/southwest/channels.cgi?url='
++ escape(top.location.href) + '"></scr' + 'ipt>');
+//]]>
+</script><script type="text/javascript" src="http://trinitymirror.grapeshot.co.uk/southwest/channels.cgi?url=https%3A//web.archive.org/web/20140612131249id_/http%3A//www.getwestlondon.co.uk/privacy-policy/"></script>
+<script id="facebook-jssdk" async="" src="http://connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=556445204430162"></script></head>
+<body class="sec-privacy-policy ">
+<div id="fb-root"></div>
+<script type="text/javascript">
+//<![CDATA[
+(function(d){
+var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+js = d.createElement('script'); js.id = id; js.async = true;
+js.src = "http://connect.facebook.net/en_US/all.js#xfbml=1&appId=556445204430162";
+d.getElementsByTagName('head')[0].appendChild(js);
+}(document));
+//]]>
+</script> <div id="page" class="container">
+<header class="clearfix" data-widget="tm.mainMenu">
+<div class="styleGroup utility-bar clearfix">
+<div class="styleGroup span-18">
+<!-- start of widget id: 5733866, name: code, view: html -->
+<nav class="utility">
+<ul>
+<li><a href="http://www.fish4jobs.co.uk/" title="Jobs" target="_blank">Jobs</a></li>
+<li><a href="http://london.gwl.vivastreet.co.uk/real-estate+london?utm_source=Trinity&amp;utm_medium=TAB&amp;utm_campaign=Get_West_London" title="Property">Property</a></li>
+<li><a href="/buy-sell-tell/motors/" title="Motors">Motors</a></li>	<li><a href="/buy-sell-tell/business-directory/" title="Directory">Business Directory</a></li>
+<li><a href="/buy-sell-tell/family-notices/" title="Family Notices">Family Notices</a></li>
+<li><a href="http://london.gwl.vivastreet.co.uk/london?utm_source=Trinity&amp;utm_medium=TAB&amp;utm_campaign=Get_West_London" title="BuySell">BuySell</a></li>
+<li><a href="http://www.bookanad.com/regions/southern/" title="Book an Ad" target="_blank">Book an Ad</a></li>
+<li><a href="http://dating.fulhamchronicle.co.uk/" title="Dating" target="_blank">Dating</a></li>
+<li><a href="http://www.newmarket.travel/wlb" title="Travel" target="_blank">Travel</a></li>
+<li class="last"><a href="http://trinitymirrorsouthern.newsprints.co.uk/" title="Buy a Photo" target="_blank">Buy a Photo</a></li>
+<li><a href="/contact-us/" title="Contact Us"><b>Contact Us</b></a></li>
+</ul>
+</nav>
+<!-- end of widget id: 5733866, name: code, view: html -->
+</div>
+<div class="styleGroup span-6 last clearfix">
+<!-- start of widget id: 5736137, name: code, view: html -->
+<a class="cookies" href="/cookie-policy/" title="How we use Cookies">How we use Cookies</a>
+<!-- end of widget id: 5736137, name: code, view: html -->
+<!-- start of widget id: 5735406, name: userProfile, view: accountLinks -->
+<ul id="login-201109171215" class="login hide">
+<li>
+<span>Your Account</span>
+<ul>
+<li><a id="edit-profile-5735406" href="#">Edit Profile</a></li>
+<li><a id="logout-5735406" href="#">Logout</a></li>
+</ul>
+</li>
+</ul>
+<script type="text/javascript" src="http://s.getwestlondon.co.uk/resources/js/tm.accountLinks.js"></script>
+<script type="text/javascript">
+//<![CDATA[
+$().accountLinks('setParams',
+{resourceUrl: 'http:\/\/s.getwestlondon.co.uk\/resources\/',
+userProfileWidgetId : '5735406',
+uIdParam : 'UID',
+userProfileSectionUrl : 'http:\/\/www.getwestlondon.co.uk\/community\/profile\/',
+pluckCookieDomain : '.getwestlondon.co.uk'});
+$().accountLinks("setAccountLinks");
+//]]>
+</script>
+<!-- end of widget id: 5735406, name: userProfile, view: accountLinks -->
+</div>
+</div>
+<div class="styleGroup masthead">
+<!-- start of widget id: 5733997, name: logo, view: default -->
+<div class="widget logo default widget-editable viziwyg-section-15811 inpage-widget-5733997" data-widget="tm.omniture.omniLinkTracking" data-context="logo-5733997" data-friendly-name="Logo Link Click" data-max-times-to-track-links="5">
+<a class="ir" href="http://www.getwestlondon.co.uk/" data-type="logo" data-action="home">Get West London</a>
+</div>
+<!-- end of widget id: 5733997, name: logo, view: default -->
+<!-- start of widget id: 5734687, name: weather, view: accuWeather -->
+<div class="weather-hdr" id="weather-hdr" style="display: none">
+<a id="weather-hdr-icon-link" href=""><img src="" width="70" height="66" class="weather-hdr-img" id="weather-hdr-icon-image" alt=""></a>
+<div class="weather-hdr-details">
+<ul>
+<li class="weather-hdr-temp" id="weather-hdr-temp"><a href="" title="Today's Weather"></a></li>
+<li class="weather-hdr-desc" id="weather-hdr-desc"><a href="" title="Today's Weather"></a></li>
+<li class="weather-hdr-5" id="weather-hdr-5"><a href="" title="5 day forecast">5 day forecast »</a></li>
+</ul>
+</div>
+</div>
+<script type="text/javascript">//<![CDATA[
+$(document).ready(function(){
+extendedForecastURL = '';
+iconURL = 'http:\/\/s.getwestlondon.co.uk\/skins\/shared\/gfx/widgets/weather/';
+ajaxURL = '';
+$.ajax({
+url: ajaxURL,
+dataType: 'json',
+success: function(forecast) {
+var linkURL = forecast.conditions.URL;
+$("#weather-hdr-icon-link").attr("href", linkURL);
+$("#weather-hdr-icon-image").attr("src", iconURL + forecast.conditions.weatherIcon + ".png");
+$("#weather-hdr-temp a").attr("href", linkURL);
+$("#weather-hdr-desc a").attr("href", linkURL);
+$("#weather-hdr-5 a").attr("href", linkURL);
+$("#weather-hdr-temp a").text(forecast.conditions.temperature + "\u00B0C"); // unicode for degree symbol + C
+$("#weather-hdr-desc a").text(forecast.conditions.weatherText);
+$("#weather-hdr").show();
+}
+});
+});
+//]]></script>
+<!-- end of widget id: 5734687, name: weather, view: accuWeather -->
+</div>
+<div class="styleGroup span-24">
+<!-- start of widget id: 5736945, name: master, view: default -->
+<nav class="menuGroup last nav-main" data-widget="tm.omniture.omniLinkTracking tm.mainMenu" data-context="master-menu-5736945" data-friendly-name="Master Menu Link Click">
+<ul class="clearfix">
+<li class="tab ">
+<a href="http://www.getwestlondon.co.uk/" class="" title="Home" data-type="section-head" data-action="section:home">
+Home
+</a>
+</li>
+<li class="tab ">
+<a href="http://www.getwestlondon.co.uk/news/" class="" title="News" data-type="section-head" data-action="section:news">
+News
+</a>
+<div class="drop">
+<!-- start of widget id: 5736944, name: master, view: default -->
+<div class="tmCol col1">
+<!-- start of widget id: 5733914, name: menu, view: vertical -->
+<nav>
+<ul data-widget="tm.omniture.omniLinkTracking" data-context="vertical-menu" data-friendly-name="Click Main Menu Dropdown Link" data-max-times-to-track-links="5">
+<li>
+<a href="http://www.getwestlondon.co.uk/news/" data-type="section-head_1" data-action="section:news">
+Latest News
+</a>
+</li>
+<li>
+<a href="http://www.getwestlondon.co.uk/news/west-london-news/" data-type="section-head_1" data-action="section:west london news">
+West London News
+</a>
+</li>
+<li>
+<a href="http://www.getwestlondon.co.uk/news/business/" data-type="section-head_2" data-action="section:business">
+Business
+</a>
+</li>
+<li>
+<a href="http://www.getwestlondon.co.uk/news/health/" data-type="section-head_3" data-action="section:health">
+Health
+</a>
+</li>
+<li>
+<a href="http://www.getwestlondon.co.uk/all-about/politics" data-type="section-head_4" data-action="section:politics">
+Politics
+</a>
+</li>
+<li>
+<a href="http://www.getwestlondon.co.uk/all-about/crime" data-type="section-head_5" data-action="section:crime">
+Crime
+</a>
+</li>
+<li>
+<a href="http://www.getwestlondon.co.uk/news/uk-world-news/" data-type="section-head_6" data-action="section:uk &amp; world news">
+UK &amp; World News
+</a>
+</li>
+<li>
+<a href="http://www.getwestlondon.co.uk/news/news-opinion/" data-type="section-head_7" data-action="section:news opinion">
+News Opinion
+</a>
+</li>
+</ul>
+</nav>
+<!-- end of widget id: 5733914, name: menu, view: vertical -->
+</div>
+<div class="tmCol col2">
+<!-- start of widget id: 5733950, name: popularList, view: mostReadTags -->
+<div class="widget popularList mostReadTags widget-editable viziwyg-section-15811 inpage-widget-5733950 box" data-widget="tm.omniture.omniLinkTracking" data-context="most-read-tags-5733950" data-friendly-name="Most Read Tags Link Click">
+<span class="mdd-title">
+Trending Today
+</span>
+<ul>
+<li>
+<a href="http://www.getwestlondon.co.uk/all-about/simon%20cowell" data-type="tag_1" data-action="topic:simon cowell">
+Simon Cowell
+</a>
+</li>
+<li>
+<a href="http://www.getwestlondon.co.uk/all-about/boris%20johnson" data-type="tag_2" data-action="topic:boris johnson">
+Boris Johnson
+</a>
+</li>
+<li>
+<a href="http://www.getwestlondon.co.uk/all-about/david%20millican" data-type="tag_3" data-action="topic:david millican">
+David Millican
+</a>
+</li>
+<li>
+<a href="http://www.getwestlondon.co.uk/all-about/mary%20macleod" data-type="tag_4" data-action="topic:mary macleod">
+Mary Macleod
+</a>
+</li>
+<li class=" last">
+<a href="http://www.getwestlondon.co.uk/all-about/jagdish%20sharma" data-type="tag_5" data-action="topic:jagdish sharma">
+Jagdish Sharma
+</a>
+</li>
+</ul>
+</div>
+<!-- end of widget id: 5733950, name: popularList, view: mostReadTags -->
+<!-- start of widget id: 5736102, name: list, view: tags -->
+<div class="widget list tags widget-editable viziwyg-section-15811 inpage-widget-5736102 " data-widget="tm.omniture.omniLinkTracking" data-context="list-tags-5736102" data-friendly-name="List Tags Link Click">
+<span class="mdd-title">Popular this week</span>
+<ul>
+<li>
+<a href="http://www.getwestlondon.co.uk/all-about/hs2" data-type="tag_1" data-action="topic:hs2">
+HS2
+</a>
+</li>
+<li>
+<a href="http://www.getwestlondon.co.uk/all-about/river%20thames" data-type="tag_2" data-action="topic:river thames">
+River Thames
+</a>
+</li>
+<li>
+<a href="http://www.getwestlondon.co.uk/all-about/heathrow%20airport" data-type="tag_3" data-action="topic:heathrow airport">
+Heathrow Airport
+</a>
+</li>
+<li>
+<a href="http://www.getwestlondon.co.uk/all-about/education" data-type="tag_4" data-action="topic:education">
+Education
+</a>
+</li>
+<li>
+<a href="http://www.getwestlondon.co.uk/all-about/politics" data-type="tag_5" data-action="topic:politics">
+Politics
+</a>
+</li>
+</ul>
+</div>
+<!-- end of widget id: 5736102, name: list, view: tags -->
+</div>
+<!-- end of widget id: 5736102, name: master, view: default -->
+<!-- start of widget id: 5735246, name: master, view: default -->
+<div class="tmCol col3">
+<!-- start of widget id: 5734433, name: stories, view: mediumTeaser -->
+<div data-widget="tm.omniture.omniLinkTracking" data-context="section-title-5734433" data-friendly-name="Section Title Link Click" data-max-times-to-track-links="5">
+<span class="mdd-title channel-hdr">
+Top News
+</span>
+</div>
+<div class="article ma-teaser type-news last" data-widget="tm.omniture.omniLinkTracking" data-context="medium-teaser-5734433_1" data-friendly-name="Medium Teaser Link Click" data-max-times-to-track-links="5">
+<span class="mdd-subtitle">
+<a href="http://www.getwestlondon.co.uk/news/local-news/neasden-murder-victim-named-court-7201486" class="" data-type="hdln-txt_1" data-action="article:7201486">
+Neasden 'murder victim' named in court as Helen Dillon, who died of stab wound
+</a>
+</span>
+<ul class="tools">
+</ul>
+<figure>
+<a href="http://www.getwestlondon.co.uk/news/local-news/neasden-murder-victim-named-court-7201486" data-type="img-med_1" data-action="article:7201486">
+<img src="http://i3.getwestlondon.co.uk/news/local-news/article7205295.ece/alternates/s148/Tribute.jpg" class=" " alt="" title="" width="148" height="98">
+</a>
+<figcaption>
+Justice Cruickshank, 54, appeared before magistrates at weekend and is due before Old Bailey tomorrow
+</figcaption>
+</figure>
+</div>
+<!-- end of widget id: 5734433, name: stories, view: mediumTeaser -->
+<!-- start of widget id: 5733887, name: stories, view: smallTeaser -->
+<div class="article sa-teaser type-news " data-widget="tm.omniture.omniLinkTracking" data-context="small-teaser-5733887_1" data-friendly-name="Small Teaser Link Click" data-max-times-to-track-links="5">
+<ul class="tools">
+</ul>
+<figure class="clearfix">
+<a href="http://www.getwestlondon.co.uk/news/local-news/award-winning-salon-owner-up-best-7195936" data-type="img-tsr_1" data-action="article:7195936">
+<img src="http://i1.getwestlondon.co.uk/news/local-news/article7195944.ece/alternates/s88/cbr_wtl_300514hairdressing1.jpg" class=" " alt="" title="" width="88" height="58">
+</a>
+</figure>
+<figcaption>
+<a href="http://www.getwestlondon.co.uk/news/local-news/award-winning-salon-owner-up-best-7195936" class="" data-type="hdln-txt_1" data-action="article:7195936">
+Award-winning salon owner up for Best British Hairdresser
+</a>
+</figcaption>
+</div>
+<div class="article sa-teaser type-news " data-widget="tm.omniture.omniLinkTracking" data-context="small-teaser-5733887_2" data-friendly-name="Small Teaser Link Click" data-max-times-to-track-links="5">
+<ul class="tools">
+</ul>
+<figure class="clearfix">
+<a href="http://www.getwestlondon.co.uk/news/local-news/familys-anguish-over-primary-school-7052873" data-type="img-tsr_2" data-action="article:7052873">
+<img src="http://i1.getwestlondon.co.uk/news/local-news/article7052890.ece/alternates/s88/schoolJPG.jpg" class=" " alt="" title="" width="88" height="58">
+</a>
+</figure>
+<figcaption>
+<a href="http://www.getwestlondon.co.uk/news/local-news/familys-anguish-over-primary-school-7052873" class="" data-type="hdln-txt_2" data-action="article:7052873">
+Family's anguish over primary school place allocation
+</a>
+</figcaption>
+</div>
+<!-- end of widget id: 5733887, name: stories, view: smallTeaser -->
+</div>
+<div class="tmCol col4 last">
+<!-- start of widget id: 5734431, name: promo, view: promoTeaser -->
+<div class="widget promo promoTeaser widget-editable viziwyg-section-15811 inpage-widget-5734431">
+<div class="sm-promo-list" data-widget="tm.omniture.omniLinkTracking" data-context="promo-teaser-5734431_1" data-friendly-name="Promo Teaser Link Click">
+<h3>
+<a href="http://www.getwestlondon.co.uk/contact-us/" data-type="promo-title_1" data-action="promo:contact us">Contact Us</a>
+<span class="heading-end">&nbsp;</span>
+</h3>
+<div class="sm-promo clearfix ">
+<a href="http://www.getwestlondon.co.uk/contact-us/" data-type="img-thumb_1" data-action="promo:contact us">
+<img src="http://i4.getbucks.co.uk/incoming/article5801323.ece/alternates/s68/ContactUs.png" alt="" class="" title="" width="68" height="69">
+</a>
+<div class="sm-promo-inner">
+<h4>
+<a href="http://www.getwestlondon.co.uk/contact-us/" data-type="tsr-txt_1" data-action="promo:contact us">
+Get in touch, tell us your story</a>
+</h4>
+</div>
+</div>
+</div>
+<div class="sm-promo-list" data-widget="tm.omniture.omniLinkTracking" data-context="promo-teaser-5734431_2" data-friendly-name="Promo Teaser Link Click">
+<h3>
+<a href="" data-type="promo-title_2" data-action="promo:weather forecast">Weather forecast</a>
+<span class="heading-end">&nbsp;</span>
+</h3>
+<div class="sm-promo clearfix last">
+<a href="" data-type="img-thumb_2" data-action="promo:weather forecast">
+<img src="http://i4.getbucks.co.uk/incoming/article5801466.ece/alternates/s68/weather.png" alt="" class="" title="" width="68" height="69">
+</a>
+<div class="sm-promo-inner">
+<h4>
+<a href="" data-type="tsr-txt_2" data-action="promo:weather forecast">
+Get the latest five day weather reports</a>
+</h4>
+</div>
+</div>
+</div>
+</div>
+<!-- end of widget id: 5734431, name: promo, view: promoTeaser -->
+</div>
+<!-- end of widget id: 5734431, name: master, view: default -->
+</div>
+</li>
+<li class="tab ">
+<a href="http://www.getwestlondon.co.uk/sport/" class="" title="Sport" data-type="section-head" data-action="section:sport">
+Sport
+</a>
+<div class="drop">
+<!-- start of widget id: 5736943, name: master, view: default -->
+<div class="tmCol col1">
+<!-- start of widget id: 5733918, name: menu, view: vertical -->
+<nav>
+<ul data-widget="tm.omniture.omniLinkTracking" data-context="vertical-menu" data-friendly-name="Click Main Menu Dropdown Link" data-max-times-to-track-links="5">
+<li>
+<a href="http://www.getwestlondon.co.uk/sport/" data-type="section-head_1" data-action="section:sport">
+Latest Sport
+</a>
+</li>
+<li>
+<a href="http://www.getwestlondon.co.uk/sport/football/" data-type="section-head_1" data-action="section:football">
+Football
+</a>
+</li>
+<li>
+<a href="http://www.getwestlondon.co.uk/all-about/queens%20park%20rangers%20fc" data-type="section-head_2" data-action="section:qpr fc">
+QPR FC
+</a>
+</li>
+<li>
+<a href="http://www.getwestlondon.co.uk/all-about/brentford fc" data-type="section-head_3" data-action="section:brentford fc">
+Brentford FC
+</a>
+</li>
+<li>
+<a href="http://www.getwestlondon.co.uk/all-about/chelsea fc" data-type="section-head_4" data-action="section:chelsea fc">
+Chelsea FC
+</a>
+</li>
+<li>
+<a href="http://www.getwestlondon.co.uk/all-about/fulham fc" data-type="section-head_5" data-action="section:fulham fc">
+Fulham FC
+</a>
+</li>
+<li>
+<a href="http://www.getwestlondon.co.uk/all-about/afc wimbledon" data-type="section-head_6" data-action="section:afc wimbledon">
+AFC Wimbledon
+</a>
+</li>
+<li>
+<a href="http://www.getwestlondon.co.uk/sport/rugby/" data-type="section-head_7" data-action="section:rugby">
+Rugby
+</a>
+</li>
+<li>
+<a href="http://www.getwestlondon.co.uk/all-about/ealing trailfinders rfc" data-type="section-head_8" data-action="section:ealing trailfinders">
+Ealing Trailfinders
+</a>
+</li>
+<li>
+<a href="http://www.getwestlondon.co.uk/sport/other-sport/" data-type="section-head_9" data-action="section:other sport">
+Other Sport
+</a>
+</li>
+</ul>
+</nav>
+<!-- end of widget id: 5733918, name: menu, view: vertical -->
+</div>
+<div class="tmCol col2">
+<!-- start of widget id: 5733951, name: popularList, view: mostReadTags -->
+<div class="widget popularList mostReadTags widget-editable viziwyg-section-15811 inpage-widget-5733951 box" data-widget="tm.omniture.omniLinkTracking" data-context="most-read-tags-5733951" data-friendly-name="Most Read Tags Link Click">
+<span class="mdd-title">
+Trending Today
+</span>
+<ul>
+<li>
+<a href="http://www.getwestlondon.co.uk/all-about/harry%20redknapp" data-type="tag_1" data-action="topic:harry redknapp">
+Harry Redknapp
+</a>
+</li>
+<li>
+<a href="http://www.getwestlondon.co.uk/all-about/felix%20magath" data-type="tag_2" data-action="topic:felix magath">
+Felix Magath
+</a>
+</li>
+<li>
+<a href="http://www.getwestlondon.co.uk/all-about/rio%20ferdinand" data-type="tag_3" data-action="topic:rio ferdinand">
+Rio Ferdinand
+</a>
+</li>
+<li>
+<a href="http://www.getwestlondon.co.uk/all-about/mark%20warburton-1" data-type="tag_4" data-action="topic:mark warburton">
+Mark Warburton
+</a>
+</li>
+<li class=" last">
+<a href="http://www.getwestlondon.co.uk/all-about/mark%20hughes" data-type="tag_5" data-action="topic:mark hughes">
+Mark Hughes
+</a>
+</li>
+</ul>
+</div>
+<!-- end of widget id: 5733951, name: popularList, view: mostReadTags -->
+<!-- start of widget id: 5734984, name: list, view: tags -->
+<div class="widget list tags widget-editable viziwyg-section-15811 inpage-widget-5734984 " data-widget="tm.omniture.omniLinkTracking" data-context="list-tags-5734984" data-friendly-name="List Tags Link Click">
+<span class="mdd-title">Popular this week</span>
+<ul>
+<li>
+<a href="http://www.getwestlondon.co.uk/all-about/afc%20wimbledon" data-type="tag_1" data-action="topic:afc wimbledon">
+AFC Wimbledon
+</a>
+</li>
+<li>
+<a href="http://www.getwestlondon.co.uk/all-about/chelsea%20fc" data-type="tag_2" data-action="topic:chelsea fc">
+Chelsea FC
+</a>
+</li>
+<li>
+<a href="http://www.getwestlondon.co.uk/all-about/barnet%20fc" data-type="tag_3" data-action="topic:barnet fc">
+Barnet FC
+</a>
+</li>
+<li>
+<a href="http://www.getwestlondon.co.uk/all-about/harlequins%20rfc" data-type="tag_4" data-action="topic:harlequins rfc">
+Harlequins RFC
+</a>
+</li>
+<li>
+<a href="http://www.getwestlondon.co.uk/all-about/fulham%20fc" data-type="tag_5" data-action="topic:fulham fc">
+Fulham FC
+</a>
+</li>
+</ul>
+</div>
+<!-- end of widget id: 5734984, name: list, view: tags -->
+</div>
+<!-- end of widget id: 5734984, name: master, view: default -->
+<!-- start of widget id: 5735845, name: master, view: default -->
+<div class="tmCol col3">
+<!-- start of widget id: 5734428, name: stories, view: mediumTeaser -->
+<div data-widget="tm.omniture.omniLinkTracking" data-context="section-title-5734428" data-friendly-name="Section Title Link Click" data-max-times-to-track-links="5">
+<span class="mdd-title channel-hdr">
+Top Sport
+</span>
+</div>
+<div class="article ma-teaser type-news last" data-widget="tm.omniture.omniLinkTracking" data-context="medium-teaser-5734428_1" data-friendly-name="Medium Teaser Link Click" data-max-times-to-track-links="5">
+<span class="mdd-subtitle">
+<a href="http://www.getwestlondon.co.uk/sport/football/football-news/pictures-brede-hangelands-fulham-career-7213558" class="" data-type="hdln-txt_1" data-action="article:7213558">
+In pictures: Brede Hangeland's Fulham career
+</a>
+</span>
+<ul class="tools">
+</ul>
+<figure>
+<a href="http://www.getwestlondon.co.uk/sport/football/football-news/pictures-brede-hangelands-fulham-career-7213558" data-type="img-med_1" data-action="article:7213558">
+<img src="http://i3.getwestlondon.co.uk/incoming/article7213199.ece/alternates/s148/2937881.jpg" class=" " alt="" title="" width="148" height="98">
+</a>
+<figcaption>
+We look back on the towering defender's Whites career in the wake of his release
+</figcaption>
+</figure>
+</div>
+<!-- end of widget id: 5734428, name: stories, view: mediumTeaser -->
+<!-- start of widget id: 5734430, name: stories, view: smallTeaser -->
+<div class="article sa-teaser type-news " data-widget="tm.omniture.omniLinkTracking" data-context="small-teaser-5734430_1" data-friendly-name="Small Teaser Link Click" data-max-times-to-track-links="5">
+<ul class="tools">
+</ul>
+<figure class="clearfix">
+<a href="http://www.getwestlondon.co.uk/sport/football/transfer-news/psg-target-eden-hazard-drops-7212698" data-type="img-tsr_1" data-action="article:7212698">
+<img src="http://i1.getwestlondon.co.uk/incoming/article6447026.ece/alternates/s88/4309785.jpg" class=" " alt="Chelsea v Swansea City - Barclays Premier League" title="" width="88" height="58">
+</a>
+</figure>
+<figcaption>
+<a href="http://www.getwestlondon.co.uk/sport/football/transfer-news/psg-target-eden-hazard-drops-7212698" class="" data-type="hdln-txt_1" data-action="article:7212698">
+PSG target Eden Hazard drops hint over Chelsea future
+</a>
+</figcaption>
+</div>
+<div class="article sa-teaser type-news " data-widget="tm.omniture.omniLinkTracking" data-context="small-teaser-5734430_2" data-friendly-name="Small Teaser Link Click" data-max-times-to-track-links="5">
+<ul class="tools">
+</ul>
+<figure class="clearfix">
+<a href="http://www.getwestlondon.co.uk/sport/football/football-news/shocked-hangeland-claims-fulham-axed-7212369" data-type="img-tsr_2" data-action="article:7212369">
+<img src="http://i2.getwestlondon.co.uk/incoming/article6524879.ece/alternates/s88/Brede-Hangeland.jpg" class=" " alt="" title="" width="88" height="58">
+</a>
+<span class="ir label updated">
+updated
+</span>
+</figure>
+<figcaption>
+<a href="http://www.getwestlondon.co.uk/sport/football/football-news/shocked-hangeland-claims-fulham-axed-7212369" class="" data-type="hdln-txt_2" data-action="article:7212369">
+Shocked Hangeland claims Fulham axed him by email
+</a>
+</figcaption>
+</div>
+<!-- end of widget id: 5734430, name: stories, view: smallTeaser -->
+</div>
+<div class="tmCol col4 last">
+<!-- start of widget id: 5734429, name: promo, view: promoTeaser -->
+<div class="widget promo promoTeaser widget-editable viziwyg-section-15811 inpage-widget-5734429">
+<div class="sm-promo-list" data-widget="tm.omniture.omniLinkTracking" data-context="promo-teaser-5734429_1" data-friendly-name="Promo Teaser Link Click">
+<h3>
+<a href="http://www.getwestlondon.co.uk/sport/football/match-reports/" data-type="promo-title_1" data-action="promo:match reports">Match Reports</a>
+<span class="heading-end">&nbsp;</span>
+</h3>
+<div class="sm-promo clearfix last">
+<a href="http://www.getwestlondon.co.uk/sport/football/match-reports/" data-type="img-thumb_1" data-action="promo:match reports">
+<img src="http://i4.getwestlondon.co.uk/incoming/article5961484.ece/alternates/s68/D5E16898-AA1A-6168-E75064764F8998CD.jpg" alt="GetWestLondon football match reports" class="" title="football" width="68" height="69">
+</a>
+<div class="sm-promo-inner">
+<h4>
+<a href="http://www.getwestlondon.co.uk/sport/football/match-reports/" data-type="tsr-txt_1" data-action="promo:match reports">
+All the action from the weekend's games.</a>
+</h4>
+</div>
+</div>
+</div>
+</div>
+<!-- end of widget id: 5734429, name: promo, view: promoTeaser -->
+</div>
+<!-- end of widget id: 5734429, name: master, view: default -->
+</div>
+</li>
+<li class="tab ">
+<a href="http://www.getwestlondon.co.uk/whats-on/" class="" title="What's On" data-type="section-head" data-action="section:what's on">
+What's On
+</a>
+<div class="drop">
+<!-- start of widget id: 5736942, name: master, view: default -->
+<div class="tmCol col1">
+<!-- start of widget id: 5733913, name: menu, view: vertical -->
+<nav>
+<ul data-widget="tm.omniture.omniLinkTracking" data-context="vertical-menu" data-friendly-name="Click Main Menu Dropdown Link" data-max-times-to-track-links="5">
+<li>
+<a href="http://www.getwestlondon.co.uk/whats-on/" data-type="section-head_1" data-action="section:what's on">
+Latest What's On
+</a>
+</li>
+<li>
+<a href="http://www.getwestlondon.co.uk/whats-on/arts-culture/" data-type="section-head_1" data-action="section:arts &amp; culture">
+Arts &amp; Culture
+</a>
+</li>
+<li>
+<a href="http://www.getwestlondon.co.uk/whats-on/comedy/" data-type="section-head_2" data-action="section:comedy">
+Comedy
+</a>
+</li>
+<li>
+<a href="http://www.getwestlondon.co.uk/whats-on/family-kids/" data-type="section-head_3" data-action="section:family &amp; kids">
+Family &amp; Kids
+</a>
+</li>
+<li>
+<a href="http://www.getwestlondon.co.uk/whats-on/film/" data-type="section-head_4" data-action="section:film">
+Film
+</a>
+</li>
+<li>
+<a href="http://www.getwestlondon.co.uk/whats-on/food-drink/" data-type="section-head_5" data-action="section:food &amp; drink">
+Food &amp; Drink
+</a>
+</li>
+<li>
+<a href="http://www.getwestlondon.co.uk/whats-on/music-nightlife/" data-type="section-head_6" data-action="section:music &amp; nightlife">
+Music &amp; Nightlife
+</a>
+</li>
+</ul>
+</nav>
+<!-- end of widget id: 5733913, name: menu, view: vertical -->
+</div>
+<div class="tmCol col2">
+<!-- start of widget id: 5733949, name: popularList, view: mostReadTags -->
+<div class="widget popularList mostReadTags widget-editable viziwyg-section-15811 inpage-widget-5733949 box" data-widget="tm.omniture.omniLinkTracking" data-context="most-read-tags-5733949" data-friendly-name="Most Read Tags Link Click">
+<span class="mdd-title">
+Trending Today
+</span>
+<ul>
+<li>
+<a href="http://www.getwestlondon.co.uk/all-about/andy%20murray" data-type="tag_1" data-action="topic:andy murray">
+Andy Murray
+</a>
+</li>
+<li>
+<a href="http://www.getwestlondon.co.uk/all-about/lesley%20crowcroft" data-type="tag_2" data-action="topic:lesley crowcroft">
+Lesley Crowcroft
+</a>
+</li>
+<li>
+<a href="http://www.getwestlondon.co.uk/all-about/leonardo%20dicaprio" data-type="tag_3" data-action="topic:leonardo dicaprio">
+Leonardo DiCaprio
+</a>
+</li>
+<li>
+<a href="http://www.getwestlondon.co.uk/all-about/steven%20spielberg" data-type="tag_4" data-action="topic:steven spielberg">
+Steven Spielberg
+</a>
+</li>
+<li class=" last">
+<a href="http://www.getwestlondon.co.uk/all-about/prince%20charles,%20prince%20of%20wales" data-type="tag_5" data-action="topic:prince charles, prince of wales">
+Prince Charles, Prince of Wales
+</a>
+</li>
+</ul>
+</div>
+<!-- end of widget id: 5733949, name: popularList, view: mostReadTags -->
+<!-- start of widget id: 5735542, name: list, view: tags -->
+<div class="widget list tags widget-editable viziwyg-section-15811 inpage-widget-5735542 " data-widget="tm.omniture.omniLinkTracking" data-context="list-tags-5735542" data-friendly-name="List Tags Link Click">
+<span class="mdd-title">Popular this week</span>
+<ul>
+<li>
+<a href="http://www.getwestlondon.co.uk/all-about/hs2" data-type="tag_1" data-action="topic:hs2">
+HS2
+</a>
+</li>
+<li>
+<a href="http://www.getwestlondon.co.uk/all-about/river%20thames" data-type="tag_2" data-action="topic:river thames">
+River Thames
+</a>
+</li>
+<li>
+<a href="http://www.getwestlondon.co.uk/all-about/st%20luke's%20hospice" data-type="tag_3" data-action="topic:st luke's hospice">
+St Luke's Hospice
+</a>
+</li>
+</ul>
+</div>
+<!-- end of widget id: 5735542, name: list, view: tags -->
+</div>
+<!-- end of widget id: 5735542, name: master, view: default -->
+<!-- start of widget id: 5736941, name: master, view: default -->
+<div class="tmCol col3">
+<!-- start of widget id: 5734426, name: stories, view: mediumTeaser -->
+<div data-widget="tm.omniture.omniLinkTracking" data-context="section-title-5734426" data-friendly-name="Section Title Link Click" data-max-times-to-track-links="5">
+<span class="mdd-title channel-hdr">
+Top What's On
+</span>
+</div>
+<div class="article ma-teaser type-news last" data-widget="tm.omniture.omniLinkTracking" data-context="medium-teaser-5734426_1" data-friendly-name="Medium Teaser Link Click" data-max-times-to-track-links="5">
+<span class="mdd-subtitle">
+<a href="http://www.getwestlondon.co.uk/whats-on/whats-on-news/watch-summer-sport-free-hammersmiths-7231146" class="" data-type="hdln-txt_1" data-action="article:7231146">
+Watch a summer of sport for free in Hammersmith's Lyric Square
+</a>
+</span>
+<ul class="tools">
+</ul>
+<figure>
+<a href="http://www.getwestlondon.co.uk/whats-on/whats-on-news/watch-summer-sport-free-hammersmiths-7231146" data-type="img-med_1" data-action="article:7231146">
+<img src="http://i4.getwestlondon.co.uk/incoming/article7231130.ece/alternates/s148/2013-07-07-17-25-06.jpg" class=" " alt="Lyric Square watches Andy Murray's Wimbledon win last year" title="" width="148" height="98">
+</a>
+<figcaption>
+Once again HammersmithLondon Business Improvement District (BID) is providing a bumper summer of cultural delights and sporting thrills as part of its FREE annual Summer Festival.
+</figcaption>
+</figure>
+</div>
+<!-- end of widget id: 5734426, name: stories, view: mediumTeaser -->
+<!-- start of widget id: 5734425, name: stories, view: smallTeaser -->
+<div class="article sa-teaser type-opinion " data-widget="tm.omniture.omniLinkTracking" data-context="small-teaser-5734425_1" data-friendly-name="Small Teaser Link Click" data-max-times-to-track-links="5">
+<ul class="tools">
+</ul>
+<figure class="clearfix">
+<a href="http://www.getwestlondon.co.uk/whats-on/arts-culture-news/review-bugle-boy-sounds-theatre-7210224" data-type="img-tsr_1" data-action="article:7210224">
+<img src="http://i2.getwestlondon.co.uk/incoming/article7211750.ece/alternates/s88/PHOTOS-SEPTEMBER-15-2011-50.jpg" class=" " alt="Bugle Boy is at the Theatre Royal, Windsor until June 7. 2014" title="" width="88" height="58">
+</a>
+</figure>
+<figcaption>
+<a href="http://www.getwestlondon.co.uk/whats-on/arts-culture-news/review-bugle-boy-sounds-theatre-7210224" class="" data-type="hdln-txt_1" data-action="article:7210224">
+Review: Bugle Boy sounds at the Theatre Royal, Windsor
+</a>
+</figcaption>
+</div>
+<div class="article sa-teaser type-news " data-widget="tm.omniture.omniLinkTracking" data-context="small-teaser-5734425_2" data-friendly-name="Small Teaser Link Click" data-max-times-to-track-links="5">
+<ul class="tools">
+</ul>
+<figure class="clearfix">
+<a href="http://www.getwestlondon.co.uk/whats-on/comedy-news/tickets-now-sale-ealing-comedy-7191106" data-type="img-tsr_2" data-action="article:7191106">
+<img src="http://i3.getwestlondon.co.uk/incoming/article7191054.ece/alternates/s88/Nick-Helm.jpg" class=" " alt="" title="" width="88" height="58">
+</a>
+</figure>
+<figcaption>
+<a href="http://www.getwestlondon.co.uk/whats-on/comedy-news/tickets-now-sale-ealing-comedy-7191106" class="" data-type="hdln-txt_2" data-action="article:7191106">
+Tickets now on sale for Ealing Comedy Festival
+</a>
+</figcaption>
+</div>
+<!-- end of widget id: 5734425, name: stories, view: smallTeaser -->
+</div>
+<div class="tmCol col4 last">
+<!-- start of widget id: 5734427, name: promo, view: promoTeaser -->
+<div class="widget promo promoTeaser widget-editable viziwyg-section-15811 inpage-widget-5734427">
+<div class="sm-promo-list" data-widget="tm.omniture.omniLinkTracking" data-context="promo-teaser-5734427_1" data-friendly-name="Promo Teaser Link Click">
+<h3>
+<a href="http://www.getwestlondon.co.uk/contact-us/" data-type="promo-title_1" data-action="promo:contact us">Contact Us</a>
+<span class="heading-end">&nbsp;</span>
+</h3>
+<div class="sm-promo clearfix ">
+<a href="http://www.getwestlondon.co.uk/contact-us/" data-type="img-thumb_1" data-action="promo:contact us">
+<img src="http://i4.getbucks.co.uk/incoming/article5801323.ece/alternates/s68/ContactUs.png" alt="" class="" title="" width="68" height="69">
+</a>
+<div class="sm-promo-inner">
+<h4>
+<a href="http://www.getwestlondon.co.uk/contact-us/" data-type="tsr-txt_1" data-action="promo:contact us">
+Get in touch, tell us your story</a>
+</h4>
+</div>
+</div>
+</div>
+<div class="sm-promo-list" data-widget="tm.omniture.omniLinkTracking" data-context="promo-teaser-5734427_2" data-friendly-name="Promo Teaser Link Click">
+<h3>
+<a href="" data-type="promo-title_2" data-action="promo:weather forecast">Weather forecast</a>
+<span class="heading-end">&nbsp;</span>
+</h3>
+<div class="sm-promo clearfix last">
+<a href="" data-type="img-thumb_2" data-action="promo:weather forecast">
+<img src="http://i4.getbucks.co.uk/incoming/article5801466.ece/alternates/s68/weather.png" alt="" class="" title="" width="68" height="69">
+</a>
+<div class="sm-promo-inner">
+<h4>
+<a href="" data-type="tsr-txt_2" data-action="promo:weather forecast">
+Get the latest five day weather reports</a>
+</h4>
+</div>
+</div>
+</div>
+</div>
+<!-- end of widget id: 5734427, name: promo, view: promoTeaser -->
+</div>
+<!-- end of widget id: 5734427, name: master, view: default -->
+</div>
+</li>
+<li class="tab ">
+<a href="http://www.getwestlondon.co.uk/lifestyle/" class="" title="Lifestyle" data-type="section-head" data-action="section:lifestyle">
+Lifestyle
+</a>
+<div class="drop">
+<!-- start of widget id: 5818490, name: master, view: default -->
+<div class="tmCol col1">
+<!-- start of widget id: 5733911, name: menu, view: vertical -->
+<nav>
+<ul data-widget="tm.omniture.omniLinkTracking" data-context="vertical-menu" data-friendly-name="Click Main Menu Dropdown Link" data-max-times-to-track-links="5">
+<li>
+<a href="http://www.getwestlondon.co.uk/lifestyle/" data-type="section-head_1" data-action="section:lifestyle">
+Latest Lifestyle
+</a>
+</li>
+<li>
+<a href="http://www.getwestlondon.co.uk/lifestyle/food-drink/" data-type="section-head_1" data-action="section:food &amp; drink">
+Food &amp; Drink
+</a>
+</li>
+<li>
+<a href="http://www.getwestlondon.co.uk/lifestyle/nostalgia/" data-type="section-head_2" data-action="section:nostalgia">
+Nostalgia
+</a>
+</li>
+<li>
+<a href="http://www.getwestlondon.co.uk/lifestyle/fashion/" data-type="section-head_3" data-action="section:fashion">
+Fashion
+</a>
+</li>
+<li>
+<a href="http://www.getwestlondon.co.uk/lifestyle/travel/" data-type="section-head_4" data-action="section:travel">
+Travel
+</a>
+</li>
+<li>
+<a href="http://www.getwestlondon.co.uk/lifestyle/lifestyle-opinion/" data-type="section-head_5" data-action="section:lifestyle opinion">
+Lifestyle Opinion
+</a>
+</li>
+<li>
+<a href="http://www.getwestlondon.co.uk/lifestyle/competitions/" data-type="section-head_6" data-action="section:competitions">
+Competitions
+</a>
+</li>
+</ul>
+</nav>
+<!-- end of widget id: 5733911, name: menu, view: vertical -->
+</div>
+<div class="tmCol col2">
+<!-- start of widget id: 5733946, name: popularList, view: mostReadTags -->
+<div class="widget popularList mostReadTags widget-editable viziwyg-section-15811 inpage-widget-5733946 box" data-widget="tm.omniture.omniLinkTracking" data-context="most-read-tags-5733946" data-friendly-name="Most Read Tags Link Click">
+<span class="mdd-title">
+Trending Today
+</span>
+<ul>
+<li>
+<a href="http://www.getwestlondon.co.uk/all-about/roy%20summers" data-type="tag_1" data-action="topic:roy summers">
+Roy Summers
+</a>
+</li>
+<li>
+<a href="http://www.getwestlondon.co.uk/all-about/david%20bowie" data-type="tag_2" data-action="topic:david bowie">
+David Bowie
+</a>
+</li>
+<li>
+<a href="http://www.getwestlondon.co.uk/all-about/harry%20styles" data-type="tag_3" data-action="topic:harry styles">
+Harry Styles
+</a>
+</li>
+<li>
+<a href="http://www.getwestlondon.co.uk/all-about/kylie%20minogue" data-type="tag_4" data-action="topic:kylie minogue">
+Kylie Minogue
+</a>
+</li>
+<li class=" last">
+<a href="http://www.getwestlondon.co.uk/all-about/victoria%20beckham" data-type="tag_5" data-action="topic:victoria beckham">
+Victoria Beckham
+</a>
+</li>
+</ul>
+</div>
+<!-- end of widget id: 5733946, name: popularList, view: mostReadTags -->
+<!-- start of widget id: 5734668, name: list, view: tags -->
+<div class="widget list tags widget-editable viziwyg-section-15811 inpage-widget-5734668 " data-widget="tm.omniture.omniLinkTracking" data-context="list-tags-5734668" data-friendly-name="List Tags Link Click">
+</div>
+<!-- end of widget id: 5734668, name: list, view: tags -->
+</div>
+<!-- end of widget id: 5734668, name: master, view: default -->
+<!-- start of widget id: 5818489, name: master, view: default -->
+<div class="tmCol col3">
+<!-- start of widget id: 5734424, name: stories, view: mediumTeaser -->
+<div data-widget="tm.omniture.omniLinkTracking" data-context="section-title-5734424" data-friendly-name="Section Title Link Click" data-max-times-to-track-links="5">
+<span class="mdd-title channel-hdr">
+Top Lifestyle
+</span>
+</div>
+<div class="article ma-teaser type-opinion last" data-widget="tm.omniture.omniLinkTracking" data-context="medium-teaser-5734424_1" data-friendly-name="Medium Teaser Link Click" data-max-times-to-track-links="5">
+<span class="mdd-subtitle">
+<a href="http://www.getwestlondon.co.uk/lifestyle/lifestyle-opinion/review-chelsea-harbour-hotel-offers-7246119" class="" data-type="hdln-txt_1" data-action="article:7246119">
+Hotel Review: The Chelsea Harbour offers luxury in the heart of London
+</a>
+</span>
+<ul class="tools">
+</ul>
+<figure>
+<a href="http://www.getwestlondon.co.uk/lifestyle/lifestyle-opinion/review-chelsea-harbour-hotel-offers-7246119" data-type="img-med_1" data-action="article:7246119">
+<img src="http://i3.getwestlondon.co.uk/incoming/article7245739.ece/alternates/s148/MC858-155.jpg" class=" " alt="Chelsea Harbour Hotel" title="" width="148" height="98">
+</a>
+<figcaption>
+Mark Lundrigan discovers a tranquil five-star hideaway in Chelsea, perfect for a luxury city break.
+</figcaption>
+</figure>
+</div>
+<!-- end of widget id: 5734424, name: stories, view: mediumTeaser -->
+<!-- start of widget id: 5734423, name: stories, view: smallTeaser -->
+<div class="article sa-teaser type-opinion " data-widget="tm.omniture.omniLinkTracking" data-context="small-teaser-5734423_1" data-friendly-name="Small Teaser Link Click" data-max-times-to-track-links="5">
+<ul class="tools">
+</ul>
+<figure class="clearfix">
+<a href="http://www.getwestlondon.co.uk/lifestyle/lifestyle-opinion/simply-healthy-follow-steps-naturally-7242192" data-type="img-tsr_1" data-action="article:7242192">
+<img src="http://i4.getwestlondon.co.uk/incoming/article6284812.ece/alternates/s88/Aaron-GrewalJPG.jpg" class=" " alt="Aaron Grewal" title="" width="88" height="58">
+</a>
+</figure>
+<figcaption>
+<a href="http://www.getwestlondon.co.uk/lifestyle/lifestyle-opinion/simply-healthy-follow-steps-naturally-7242192" class="" data-type="hdln-txt_1" data-action="article:7242192">
+Simply Healthy: Follow these steps for naturally glowing skin
+</a>
+</figcaption>
+</div>
+<div class="article sa-teaser type-opinion " data-widget="tm.omniture.omniLinkTracking" data-context="small-teaser-5734423_2" data-friendly-name="Small Teaser Link Click" data-max-times-to-track-links="5">
+<ul class="tools">
+</ul>
+<figure class="clearfix">
+<a href="http://www.getwestlondon.co.uk/lifestyle/lifestyle-opinion/note-self-exams---say-7215922" data-type="img-tsr_2" data-action="article:7215922">
+<img src="http://i3.getwestlondon.co.uk/incoming/article7215907.ece/alternates/s88/exams-generic.jpg" class=" " alt="Pupils sitting exams" title="" width="88" height="58">
+</a>
+</figure>
+<figcaption>
+<a href="http://www.getwestlondon.co.uk/lifestyle/lifestyle-opinion/note-self-exams---say-7215922" class="" data-type="hdln-txt_2" data-action="article:7215922">
+NOTE TO SELF: Exams - do as I say, not as I did
+</a>
+</figcaption>
+</div>
+<!-- end of widget id: 5734423, name: stories, view: smallTeaser -->
+</div>
+<div class="tmCol col4 last">
+<!-- start of widget id: 5734252, name: promo, view: promoTeaser -->
+<div class="widget promo promoTeaser widget-editable viziwyg-section-15811 inpage-widget-5734252">
+<div class="sm-promo-list" data-widget="tm.omniture.omniLinkTracking" data-context="promo-teaser-5734252_1" data-friendly-name="Promo Teaser Link Click">
+<h3>
+<a href="http://www.getwestlondon.co.uk/whats-on/find-things-to-do/" data-type="promo-title_1" data-action="promo:what's on">What's On</a>
+<span class="heading-end">&nbsp;</span>
+</h3>
+<div class="sm-promo clearfix ">
+<a href="http://www.getwestlondon.co.uk/whats-on/find-things-to-do/" data-type="img-thumb_1" data-action="promo:what's on">
+<img src="http://i1.getbucks.co.uk/incoming/article5801293.ece/alternates/s68/whatsonimage.png" alt="" class="" title="" width="68" height="69">
+</a>
+<div class="sm-promo-inner">
+<h4>
+<a href="http://www.getwestlondon.co.uk/whats-on/find-things-to-do/" data-type="tsr-txt_1" data-action="promo:what's on">
+Find things to do near you!</a>
+</h4>
+</div>
+</div>
+</div>
+<div class="sm-promo-list" data-widget="tm.omniture.omniLinkTracking" data-context="promo-teaser-5734252_2" data-friendly-name="Promo Teaser Link Click">
+<h3>
+<a href="" data-type="promo-title_2" data-action="promo:weather forecast">Weather forecast</a>
+<span class="heading-end">&nbsp;</span>
+</h3>
+<div class="sm-promo clearfix last">
+<a href="" data-type="img-thumb_2" data-action="promo:weather forecast">
+<img src="http://i4.getbucks.co.uk/incoming/article5801466.ece/alternates/s68/weather.png" alt="" class="" title="" width="68" height="69">
+</a>
+<div class="sm-promo-inner">
+<h4>
+<a href="" data-type="tsr-txt_2" data-action="promo:weather forecast">
+Get the latest five day weather reports</a>
+</h4>
+</div>
+</div>
+</div>
+</div>
+<!-- end of widget id: 5734252, name: promo, view: promoTeaser -->
+</div>
+<!-- end of widget id: 5734252, name: master, view: default -->
+</div>
+</li>
+<li class="tab ">
+<a href="http://www.getwestlondon.co.uk/in-your-area/" class="" title="In Your Area" data-type="section-head" data-action="section:in your area">
+In Your Area
+</a>
+<div class="drop">
+<!-- start of widget id: 5736949, name: master, view: default -->
+<div class="tmCol ">
+<!-- start of widget id: 5734277, name: code, view: html -->
+<div class="widget code html widget-editable viziwyg-section-15811 inpage-widget-5734277">
+<div class="community-drop iya-dev clearfix">	<div class="col1">
+<nav>
+<ul>	<li><a title="" href="/all-about/ealing">Ealing</a></li>
+<li><a title="" href="/all-about/fulham">Fulham</a></li>
+<li><a title="" href="/all-about/hammersmith">Hammersmith</a></li>
+<li><a title="" href="/all-about/harrow">Harrow</a></li>
+<li><a title="" href="/all-about/hounslow">Hounslow</a></li>
+<li><a title="" href="/all-about/uxbridge">Uxbridge</a></li>	</ul>
+</nav>
+</div><!-- .col1 -->
+<div class="col2">
+<nav>
+<ul>
+<li><a title="Acton" href="/all-about/acton">Acton</a></li>
+<li><a title="Brent" href="/all-about/brent">Brent</a></li>
+<li><a title="Brentford" href="/all-about/brentford">Brentford</a></li>
+<li><a title="Chelsea" href="/all-about/chelsea">Chelsea</a></li>
+<li><a title="Chiswick" href="/all-about/chiswick">Chiswick</a></li>
+<li><a title="Eastcote" href="/all-about/eastcote">Eastcote</a></li>
+<li><a title="Feltham" href="/all-about/feltham">Feltham</a></li>
+<li class="last"><a title="Greenford" href="/all-about/greenford">Greenford</a></li>	</ul>
+</nav>
+</div><!-- .col2 -->
+<div class="col3">
+<nav>
+<ul>
+<li><a title="Hanwell" href="/all-about/hanwell">Hanwell</a></li>
+<li><a title="Hanworth" href="/all-about/hanworth">Hanworth</a></li>
+<li><a title="Harefield" href="/all-about/harefield">Harefield</a></li>
+<li><a title="Hatch End" href="/all-about/hatch end">Hatch End</a></li>
+<li><a title="Hayes" href="/all-about/hayes">Hayes</a></li>
+<li><a title="Heston" href="/all-about/heston">Heston</a></li>
+<li class="last"><a title="Hillingdon" href="/all-about/hillingdon">Hillingdon</a></li>
+<li><a title="Ickenham" href="/all-about/ickenham">Ickenham</a></li>
+</ul>
+</nav>
+</div><!-- .col3 -->
+<div class="col4">
+<nav>
+<ul>
+<li><a title="Isleworth" href="/all-about/isleworth">Isleworth</a></li>
+<li><a title="Kensington" href="/all-about/kensington">Kensington</a></li>
+<li><a title="Northolt" href="/all-about/northolt">Northolt</a></li>
+<li><a title="Northwood" href="/all-about/northwood">Northwood</a></li>
+<li><a title="Paddington" href="/all-about/paddington">Paddington</a></li>
+<li><a title="Pinner" href="/all-about/pinner">Pinner</a></li>
+<li><a title="Ruislip" href="/all-about/ruislip">Ruislip</a></li>
+<li class="last"><a title="Shepherd's Bush" href="/all-about/shepherd's bush">Shepherd's Bush</a></li>
+</ul>
+</nav>
+</div><!-- .col4 -->
+<div class="col5 last">
+<nav>
+<ul>	<li><a title="Southall" href="/all-about/southall">Southall</a></li>
+<li><a title="Stanmore" href="/all-about/stanmore">Stanmore</a></li>
+<li><a title="Wealdstone" href="/all-about/wealdstone">Wealdstone</a></li>
+<li><a title="Wembley" href="/all-about/wembley">Wembley</a></li>
+<li><a title="Westminster" href="/all-about/westminster">Westminster</a></li>
+<li><a title="West Drayton" href="/all-about/west drayton">West Drayton</a></li>
+<li><a title="Willesden" href="/all-about/willesden">Willesden</a></li>
+<li class="last"><a title="Yiewsley" href="/all-about/yiewsley">Yiewsley</a></li>	</ul>
+</nav>
+</div><!-- .col5 -->	</div><!-- .community-drop -->
+</div>
+<!-- end of widget id: 5734277, name: code, view: html -->
+</div>
+<!-- end of widget id: 5734277, name: master, view: default -->
+</div>
+</li>
+<li class="tab ">
+<a href="http://www.getwestlondon.co.uk/buy-sell-tell/" class="" title="Buy, Sell &amp; Tell" data-type="section-head" data-action="section:buy, sell &amp; tell">
+Buy, Sell &amp; Tell
+</a>
+<div class="drop">
+<!-- start of widget id: 5736948, name: master, view: default -->
+<div class="tmCol ">
+<!-- start of widget id: 5734218, name: code, view: html -->
+<div class="widget code html widget-editable viziwyg-section-15811 inpage-widget-5734218">
+<div class="classified-drop clearfix">
+<ul class="classified-drop-list">
+<li class="classified-drop-highlight">
+<figure class="clearfix">
+<a class="ir mdd-jobs" href="http://www.fish4jobs.co.uk/" title="Search for jobs in West London" target="_blank">Jobs</a>
+<figcaption>
+<h4><a href="http://www.fish4jobs.co.uk/" title="Search for jobs in West London" target="_blank">Jobs</a></h4>
+<p>Search for jobs in West London</p>
+</figcaption>
+</figure>
+</li>
+<li class="classified-drop-highlight">
+<figure class="clearfix">
+<a class="ir mdd-property" href="http://london.gwl.vivastreet.co.uk/real-estate+london?utm_source=Trinity&amp;utm_medium=TAB&amp;utm_campaign=Get_West_London" title="Property">Property</a>
+<figcaption>
+<h4><a href="http://london.gwl.vivastreet.co.uk/real-estate+london?utm_source=Trinity&amp;utm_medium=TAB&amp;utm_campaign=Get_West_London" title="Property">Property</a></h4>
+<p>Buying, Selling or Renting?</p>
+</figcaption>
+</figure>
+</li>
+<li>
+<figure class="clearfix">
+<a class="ir mdd-motors" href="/buy-sell-tell/motors/" title="Motors">Motors</a>
+<figcaption>
+<h4><a href="/buy-sell-tell/motors/" title="Motors">Motors</a></h4>
+<p>Find New &amp; Used Cars for sale</p>
+</figcaption>
+</figure>
+</li>
+<li>
+<figure class="clearfix">
+<a class="ir mdd-local-mole" href="/buy-sell-tell/business-directory/" title="Business Directory">Business Directory</a>
+<figcaption>
+<h4><a href="/buy-sell-tell/business-directory/" title="Business Directory">Business Directory</a></h4>
+<p>Search our local business directory</p>
+</figcaption>
+</figure>
+</li>
+<li class="classified-drop-highlight">
+<figure class="clearfix">
+<a class="ir mdd-family-notices" href="/buy-sell-tell/family-notices/" title="Family Notices">Family Notices</a>
+<figcaption>
+<h4><a href="/buy-sell-tell/family-notices/" title="Family Notices">Family Notices</a></h4>
+<p>View latest announcements online</p>
+</figcaption>
+</figure>
+</li>
+<li class="classified-drop-highlight">
+<figure class="clearfix">
+<a class="ir mdd-buysell" href="http://http://london.gwl.vivastreet.co.uk/london?utm_source=Trinity&amp;utm_medium=TAB&amp;utm_campaign=Get_West_London" title="BuySell">BuySell</a>
+<figcaption>
+<h4><a href="http://london.gwl.vivastreet.co.uk/london?utm_source=Trinity&amp;utm_medium=TAB&amp;utm_campaign=Get_West_London" title="BuySell">BuySell</a></h4>
+<p>Find 1000s of local products and services</p>
+</figcaption>
+</figure>
+</li>
+<li>
+<figure class="clearfix"> <a class="ir mdd-dating" href="http://dating.fulhamchronicle.co.uk/" title="Dating" target="_blank">Dating</a>
+<figcaption>
+<h4><a href="http://dating.fulhamchronicle.co.uk/" title="Dating" target="_blank">Dating</a></h4>
+<p>Looking for a date?</p>
+</figcaption>
+</figure>
+</li>
+<li class="classified-drop-highlight">
+<figure class="clearfix">
+<a class="ir mdd-bookad" href="http://www.bookanad.com/regions/southern/" title="Book an Ad" target="_blank">Book an Ad</a>
+<figcaption>
+<h4><a href="http://www.bookanad.com/regions/southern/" title="Book an Ad" target="_blank">Book an Ad</a></h4>
+<p>Create Private and Trade ads</p>
+</figcaption>
+</figure>
+</li>
+<li>
+<figure class="clearfix">
+<a class="ir mdd-travel" href="http://www.newmarket.travel/wlb" title="Find and book your next holiday with us" target="_blank">Travel</a>
+<figcaption>
+<h4><a href="http://www.newmarket.travel/wlb" title="Find and book your next holiday with us" target="_blank">Travel</a></h4>
+<p>Find and book your next holiday with us</p>
+</figcaption>
+</figure>
+</li>
+</ul>
+</div>
+</div>
+<!-- end of widget id: 5734218, name: code, view: html -->
+</div>
+<!-- end of widget id: 5734218, name: master, view: default -->
+</div>
+</li>
+</ul>
+</nav>
+<!-- end of widget id: 5734218, name: master, view: default -->
+
+<!-- start of widget id: 5736122, name: search, view: simpleForm -->
+<div class="widget search simpleForm widget-editable viziwyg-section-15811 inpage-widget-5736122 last search-box">
+<div class="simpleSearch" id="simpleSearch-5736122" data-widget="tm.search.mainNav">
+<label class="hidden" for="sb-search">Search:</label>
+<form id="SimpleSearchForm" method="get" action="/search/simple.do;jsessionid=4F4CD8A49880ABF9083081D4FAECAA3E">
+<input type="hidden" name="destinationSectionId" value="15885">
+<input type="hidden" name="publicationName" value="getwestlondon">
+<input type="hidden" name="sortString" value="publishdate">
+<input type="hidden" name="sortOrder" value="desc">
+<input type="hidden" name="sectionId" value="15809">
+<input type="hidden" name="articleTypes" value="news opinion advice">
+<input type="hidden" name="pageNumber" value="1">
+<input type="hidden" name="pageLength" value="10">
+<input type="submit" value="Search getwestlondon.co.uk" id="sb-btn" class="span-1 last ir" title="Search getwestlondon.co.uk">
+<input type="text" placeholder="Search" class="span-3 field" id="sb-search" value="" name="searchString">
+</form>
+</div>
+</div>
+<!-- end of widget id: 5736122, name: search, view: simpleForm -->
+</div>
+<!-- start of widget id: 5734685, name: code, view: html -->
+<div class="widget code html widget-editable viziwyg-section-15811 inpage-widget-5734685">
+<!-- JavaScript Cookie legislation PopUp -->
+<script type="text/javascript">
+//<![CDATA[
+$LAB.script("http://www.getwestlondon.co.uk/resources/js/tm.cookie.js").wait().script("http://www.getwestlondon.co.uk/resources/js/tm.cookieLaw.js?v=1").wait(function() {
+var cookieBanner = "<div id=\'cookieNotification\'><p>This website uses 'cookies' to give you the best, most relevant experience. Using this website means you’re Ok with this. You can change which cookies are set at any time - and find out more about them - by following this <a href=\'/cookie-policy/\'>link</a> (or by clicking the cookie link at the top of any page).</p></div>";
+tm.mirrorCookies.initCookies(cookieBanner);
+});
+//]]>
+</script>
+</div>
+<!-- end of widget id: 5734685, name: code, view: html -->
+<div class="styleGroup clearfix sub-bar">
+<div class="styleGroup span-15">
+<!-- start of widget id: 5733920, name: topic, view: topicList -->
+<div class="widget topic topicList widget-editable viziwyg-section-15811 inpage-widget-5733920 ">
+<div class="hot-topics" data-widget="tm.omniture.omniLinkTracking" data-context="hot-topic-list-5733920" data-friendly-name="Hot Topic Link Click">
+<span class="menu-hot-topics">Hot Topic:</span>
+<ul class="span-15 last">
+<li>
+<a href="http://www.getwestlondon.co.uk/all-about/world%20cup%202014" data-type="tag" data-action="topic:world cup 2014">
+World Cup 2014</a>
+</li>
+<li>
+-
+<a href="http://www.getwestlondon.co.uk/all-about/tour_de_france" data-type="tag" data-action="topic:tour de france">
+Tour de France</a>
+</li>
+<li>
+-
+<a href="http://www.getwestlondon.co.uk/all-about/first%20world%20war%20centenary" data-type="tag" data-action="topic:first world war">
+First World War</a>
+</li>
+<li>
+-
+<a href="http://www.getwestlondon.co.uk/all-about/ealing%20half%20marathon" data-type="tag" data-action="topic:ealing half marathon">
+Ealing Half Marathon</a>
+</li>
+<li>
+-
+<a href="http://www.getwestlondon.co.uk/all-about/hs2" data-type="tag" data-action="topic:hs2">
+HS2</a>
+</li>
+</ul>
+</div>
+</div>
+<!-- end of widget id: 5733920, name: topic, view: topicList -->
+</div>
+<div class="styleGroup span-9 last">
+<!-- start of widget id: 5734621, name: code, view: html -->
+<div class="widget code html widget-editable viziwyg-section-15811 inpage-widget-5734621">
+<div class="follow-us clearfix">
+<nav>
+<span class="follow-us-title">Follow Us:</span>
+<ul class="follow-list">
+<!-- Newsletters -->
+<li class="f-facebook"><a title="Find us on Facebook" href="#">Facebook</a>
+<ul class="sub-menu">
+<li>
+<span class="follow-list-title"><a title="Find us on Facebook" href="http://www.facebook.com">Like us on Facebook</a></span>
+<dl>
+<dt><a href="https://www.facebook.com/getwestlondon" target="_blank" class="follow-list-link">Getwestlondon</a></dt>
+<dd>News and conversations in your Facebook feed from Getwestlondon</dd>
+</dl>
+<dl>
+<dt><a href="https://www.facebook.com/EalingGazette" target="_blank" class="follow-list-link">Ealing Gazette</a></dt>
+<dd>News and conversations in your Facebook feed from the Ealing Gazette</dd>
+</dl>
+<dl>
+<dt><a href="https://www.facebook.com/FulhamGazette" class="follow-list-link" target="_blank">Fulham and Hammersmith Gazette</a></dt>
+<dd>News and conversations in your Facebook feed from the Fulham &amp; Hammersmith Gazette</dd>
+</dl>
+<dl>
+<dt><a href="https://www.facebook.com/HarrowObserver" target="_blank" class="follow-list-link">Harrow Observer</a></dt>
+<dd>News and conversations in your Facebook feed from the Harrow Observer</dd>
+</dl>
+<dl>
+<dt><a href="https://www.facebook.com/HounslowChronicle" class="follow-list-link" target="_blank">Hounslow Chronicle</a></dt>
+<dd>News and conversations in your Facebook feed from the Hounslow Chronicle</dd>
+</dl>
+<dl>
+<dt><a href="https://www.facebook.com/UxbridgeGazette" class="follow-list-link">Uxbridge Gazette</a></dt>
+<dd>News and conversations in your Facebook feed from the Uxbridge Gazette</dd>
+</dl>
+</li>
+</ul>
+</li>
+<!-- Newsletters -->
+<li class="f-twitter"><a title="Find us on Twitter" href="#">Twitter</a>
+<ul class="sub-menu">
+<li>
+<span class="follow-list-title"><a title="Follow us on Twitter" href="http://www.twitter.com/getwestlondon">Follow us on Twitter</a></span>
+<dl> <dt><a class="follow-list-link" target="_blank" href="https://twitter.com/GetWestLondon">@GetWestLondon</a></dt>
+<dd>The latest updates and breaking news from across west London.</dd>
+</dl> <dl>
+<dt><a class="follow-list-link" target="_blank" href="https://twitter.com/EalingGazette">@EalingGazette</a></dt>
+<dd>The latest updates and breaking news from the Ealing Gazette.</dd>
+</dl>
+<dl>
+<dt><a class="follow-list-link" target="_blank" href="https://twitter.com/FulhamChron">@FulhamChron</a></dt>
+<dd>The latest updates and breaking news from the Fulham &amp; Hammersmith Chronicle</dd>
+</dl>
+<dl>
+<dt><a class="follow-list-link" target="_blank" href="https://twitter.com/HarrowObserver">@HarrowObserver</a></dt>
+<dd>The latest updates and breaking news from the Harrow Observer</dd>
+</dl>
+<dl>
+<dt><a class="follow-list-link" target="_blank" href="https://twitter.com/HounslowChron">@HounslowChron</a></dt>
+<dd>The latest updates and breaking news from the Hounslow Chronicle</dd>
+</dl>
+<dl>
+<dt><a class="follow-list-link" target="_blank" href="https://twitter.com/UxbridgeGazette">@UxbridgeGazette</a></dt>
+<dd>The latest updates and breaking news from the Uxbridge Gazette</dd>
+</dl>
+</li>
+</ul>
+</li>
+<!-- Newsletters -->
+<li class="f-newsletter"><a title="" href="/newsletters/weekly-bulletin/">Newsletters</a>
+<ul class="sub-menu">
+<li>
+<span class="follow-list-title"><a title="Read our Newletter" href="/newsletters/weekly-bulletin/">Subscribe</a></span>
+<dl>
+<dt><a class="follow-list-link" href="/newsletters/weekly-bulletin/">Weekly Alerts</a></dt>
+<dd>Get weekly updates on West London news, sport and more</dd>
+</dl>
+</li>
+</ul>
+</li>
+</ul>
+<script type="text/javascript"> $(function(){
+$("ul.follow-list li").hover(function(){
+$(this).addClass("hover");
+$('ul:first',this).css('visibility', 'visible');
+}, function(){
+$(this).removeClass("hover");
+$('ul:first',this).css('visibility', 'hidden');
+});
+});
+</script>
+</nav>
+</div>
+</div>
+<!-- end of widget id: 5734621, name: code, view: html -->
+</div>
+</div>
+<!-- start of widget id: 6472677, name: code, view: html -->
+<div class="widget code html widget-editable viziwyg-section-15811 inpage-widget-6472677">
+<style>
+#div-gpt-ad-event-1,
+#div-gpt-ad-event-2,
+#div-gpt-ad-event-3,
+#div-gpt-ad-event-4 {
+font-size: 10px;
+}
+#div-gpt-ad-event-1 img,
+#div-gpt-ad-event-2 img,
+#div-gpt-ad-event-3 img,
+#div-gpt-ad-event-4 img {
+max-width: 100%;
+}
+#div-gpt-ad-event-1 .tag-caption,
+#div-gpt-ad-event-2 .tag-caption,
+#div-gpt-ad-event-3 .tag-caption,
+#div-gpt-ad-event-4 .tag-caption {
+padding: 6px;
+}
+</style>
+</div>
+<!-- end of widget id: 6472677, name: code, view: html -->
+</header>
+<div class="tmRow span-24" id="row1">
+<div class="tmCol span-17-5 col-1">
+<!-- start of widget id: 5734384, name: code, view: html -->
+<div class="widget code html widget-editable viziwyg-section-15811 inpage-widget-5734384">
+<div class="article-page article">
+<h2>Privacy Policy</h2>
+<br>
+<p><b>IN RELATION TO ALL WEBSITES AND WEBSITE SERVICES OFFERED BY TRINITY MIRROR SOUTHERN LIMITED</b></p>
+<p>This Privacy Policy applies to all of our websites and our mobile applications ("the Website").</p>
+<p>In this Privacy Policy, when we refer to any of our Website, we mean any website or mobile application operated by or on behalf of TRINITY MIRROR SOUTHERN LIMITED or its parent companies, subsidiaries and affiliates (collectively "Trinity Mirror"), regardless of how you access the network.</p>
+<p>By accessing the Website, you agree to be bound by these terms and conditions whenever you access the Website on any device. This Privacy Policy forms part of and is incorporated into our <a href="/terms-conditions/">Website Terms and Conditions</a></p>
+<p>Any changes to this policy will be posted here. We reserve the right to vary this Privacy Policy from time to time and such changes shall become effective as soon as they are posted. Your continued use of the Website constitutes your agreement to all such changes.</p>
+<p>We are committed to protecting the personal information you give us and telling you how we use the information we gather about you</p>
+<br>
+<p><b>WHY WE COLLECT INFORMATION ABOUT YOU</b><br></p>
+<p>We want to offer you a service which you want to use. We may use information about you to help us customise the Website, to remember you and to improve its usefulness to you. We may use this information to notify you about changes to the Website or products, services or promotions of ours and others (with your consent) that we think you might find of interest. It can also help us to choose articles and services we think will interest you.</p>
+<p>Information about you helps us sell space to advertisers of products and services relevant to you so that we can continue to fund the Website through advertising and you can continue to use the Website for free.</p>
+<p>We may send you administrative and promotional emails relating to the Website and updates about the Website.</p>
+<p>We may personalise your visits to the Website and develop the design and style of the Website to improve the services provided to you.</p>
+<p>We may need to contact you to about a comment you have submitted or material you have posted on the Website or in order to verify your identity form time to time.</p>
+<p>In addition to the services we provide on this web site we may want to offer you goods and services provided by us and others (with your consent) which are of interest to you.</p>
+<br>
+<p><b>WHAT INFORMATION DO WE COLLECT FROM YOU?</b><br></p>
+<p>We may collect information from you when you fill in an online registration form for any of the services available on our Website, (e.g., chat areas, your Profile page, forums, shopping, advisory services, competitions etc.). We may also collect information you give us over the telephone or in written or other communications. The type of information we will collect includes, for example, your name, mailing address, email address, telephone numbers, gender, preferences and, where relevant, financial, credit card or bank details.</p>
+<p>We collect information about your use of the Website and services it offers through "cookies". For more information on "cookies" please see our <a href="/cookie-policy/">Cookie Policy</a> page, which forms part of this <a href="/privacy-policy/">Privacy Policy</a>.</p>
+<p>In addition to personal information, we may also collect information about you automatically when you visit the Website by using cookies (small text files) trends which we may make use of ourselves, or pass to our associated companies or to unconnected parties and our advertising partner may also use cookies to serve advertisements that it believes are most likely to be of use or interest to you. For more information about cookies, including how to turn this feature off, please visit our <a href="/cookie-policy/">Cookie Policy</a> page.</p>
+<p>If you register to use services via Facebook Connect, we may collect other types of information. These are all shown at the time you use Facebook to register.</p>
+<br>
+<p><b>HOW WE ENSURE PRIVACY IS MAINTAINED</b><br></p>
+<p>We endeavour to ensure that your data is stored securely and to prevent unauthorised access. We have security measures in place to protect your information which we monitor regularly. Unfortunately, despite our measures, because of the nature of the Internet, we cannot guarantee that your information will remain at all times 100% secure. The continuing efforts of hackers to defeat even the newest of security systems means that we can never make this promise.</p>
+<p>Please be aware that if you disclose information on chat areas, your Profile page, comment areas, forums or other public services it may be possible for other people to use this information. We are not responsible for the disclosure of any information you post in this way.<br>
+</p><p>We comply with the Data Protection Act 1998 and the Regulation of Investigatory Powers Act 2000 and all other legislation which governs the maintenance of privacy in your information.</p>
+<p>The Website provides a number of links to web sites not operated by us or by companies associated with us. We take no responsibility for the use of any information about you which is collected as a result of your use of these websites and this privacy policy does not extend to any website operated by anybody other than us.</p>
+<br>
+<p><b>DISCLOSING YOUR INFORMATION AND YOUR CONSENT</b><br></p>
+<p>By using the Website, you agree that we may disclose your personal information to any company within Trinity Mirror group of companies.</p>
+<p>We will not make use of your personal information for direct marketing activities, or supply this information to third parties for their direct marketing activities without your consent. By direct marketing activities, we mean the communication directly to particular individuals (by e-mail, post or telephone) of any advertising or marketing material..</p>
+<p>If you wish to receive marketing material from TRINITY MIRROR SOUTHERN LIMITED, from companies in the same group as TRINITY MIRROR SOUTHERN LIMITED or from carefully selected third parties you should tick the appropriate box on the registration form(s).</p>
+<p>If having given your consent you subsequently decide you no longer wish to receive direct marketing or information from us or our associated companies or third parties or no longer want us to pass your information to third parties, please notify us at the following email address: <a href="mailto:tms-digitalmedia@trinitymirror.com">tms-digitalmedia@trinitymirror.com</a></p>
+<p>In particular, even where we have your consent we will only disclose your financial, credit card or bank details to our agents and/or third party suppliers of products or services on a need to know basis including, for example, in relation to the fulfilment of any e-commerce transactions.<br>
+We may disclose details about use of the Website to other businesses e.g. to demonstrate patterns of use to advertisers and other business partners. The information we pass on will not include any personal information by which you may be identified.</p>
+<p>We compile anonymous records of user trends which we may make use of ourselves, or pass to our associated companies.</p>
+<p>We will comply with any court order requesting or requiring the disclosure of the identity or location of or any other information in relation to anyone who has accessed the Website and we may also disclose such information where we are advised by our lawyers that a court order would be granted requiring us to disclose it, even if no legal proceedings have been commenced in relation to the same.</p>
+<p>We endeavour to prevent unauthorised disclosures of your personal information by other people, but we are not responsible for any unauthorised disclosures or other breaches of security or for the actions of others if the information was passed to them with your authority or with the authority of anybody other than us or our associated companies.</p>
+<p>We may transfer, sell or assign any of the information described in this policy to third parties as <br>
+a result of a sale, merger, consolidation, change of control, transfer of assets or reorganisation of our business.</p>
+<br>
+<p><b>REALMEDIA AD SERVING TECHNOLOGY</b><br></p>
+<p>We use ad serving technology to display the ads on our web pages. We use the cookie feature of this technology to anonymously manage and report on the effectiveness of the ads that you see. No personal data such as your name, address or email address are used during this process.</p>
+<p>If you do not wish this to happen, you can either click<a href="http://www.247realmedia.com/privacy.html" target="_blank" title="Real Media" rel="nofollow"> here</a> to obtain opt-out details or you can use the cookie preference settings in your browser to manage this process. </p>
+<p>More information on this can be found in the "Help" section of the browser that you are using.</p>
+<p><b>OMNITURE ANALYTICS</b><br></p>
+<p>TRINITY MIRROR PLC engages Omniture, a third-party Web traffic analysis company, to log and aggregate information coming through our Web site on our behalf. TRINITY MIRROR PLC controls how that data may and may not be used. When you visit our Web site, Omniture may use technical tracking methods such as cookies that will be listed under the domain 2o7.net, and web beacons, on our behalf, and may receive anonymous information about your browsing on our Web site. Omniture does not use these technical tracking methods to relate Web site visitors to any personally identifiable information. Information collected by Omniture on behalf of TRINITY MIRROR SOUTHERN LIMITED is unique to individual visitors but is not personally identifiable to Omniture. Such information provided by Omniture to TRINITY MIRROR SOUTHERN LIMITED may be reassociated by TRINITY MIRROR SOUTHERN LIMITED with previously collected information for internal purposes only, including but not limited to providing visitors with relevant content. We may also use these technical tracking methods in HTML e-mails to determine whether the recipients have opened such e-mails, clicked on links contained in those e-mails, and continued to browse our Web site. No personally identifiable information, such as your name, street address, e-mail address, etc. is shared with Omniture.</p>
+<p>Further information regarding Omniture's privacy statement can be found by clicking<a href="http://www.omniture.com/privacy/product" target="_blank" title="Omniture" rel="nofollow"> here</a>.</p>
+<p><b>OBTAINING YOUR PERSONAL INFORMATION</b><br></p>
+<p>If you wish to receive a copy of the personal information we hold about you, or have any other queries or concerns about the way we are collecting and using your personal information, please write to us (including full details of your request) at:</p>
+<p>Legal Department<br>
+Trinity Mirror PLC<br>
+One Canada Square<br>
+London<br>
+E14 5AP</p>
+<p>We may charge an administration fee (not exceeding the maximum permitted by law) in relation to fulfilling a request for access to personal information.</p>
+</div>
+</div>
+<!-- end of widget id: 5734384, name: code, view: html -->
+</div>
+<div class="tmCol span-6 last col-2">
+<!-- start of widget id: 5733965, name: popularList, view: mostRead -->
+<div class="widget popularList mostRead widget-editable viziwyg-section-15811 inpage-widget-5733965" data-widget="tm.omniture.omniLinkTracking" data-context="most-read-5733965" data-friendly-name="Most Read Link Click">
+<h3 class="box-heading">
+Most Read
+</h3>
+<a href="http://www.getwestlondon.co.uk/news/local-news/teenage-boys-save-man-attempting-7249554" data-type="img-med" data-action="article:7249554">
+<img src="http://i3.getwestlondon.co.uk/incoming/article7249442.ece/alternates/s228/JS38918669.jpg" alt="" width="228" height="151" title="Sean Shaw, 16.">
+</a>
+<div class="box-bottom">
+<ol>
+<li>
+<h5>
+<a href="http://www.getwestlondon.co.uk/all-about/greenford%20high%20school" data-type="tag_1" data-action="topic:greenford high school">
+Greenford High School
+</a>
+</h5>
+<a class="most-read-top box-hdr" href="http://www.getwestlondon.co.uk/news/local-news/teenage-boys-save-man-attempting-7249554" data-type="hdln-txt_1" data-action="article:7249554">
+Teenage boys save man attempting to hang himself
+</a>
+</li>
+<li>
+<h5>
+<a href="http://www.getwestlondon.co.uk/all-about/queens%20park%20rangers%20fc" data-type="tag_2" data-action="topic:queens park rangers fc">
+Queens Park Rangers FC
+</a>
+</h5>
+<a href="http://www.getwestlondon.co.uk/sport/football/transfer-news/van-der-vaart-ready-snub-7253249" data-type="hdln-txt_2" data-action="article:7253249">
+Van der Vaart ready to snub QPR and stay at Hamburg
+</a>
+</li>
+<li>
+<h5>
+<a href="http://www.getwestlondon.co.uk/all-about/queens%20park%20rangers%20fc" data-type="tag_3" data-action="topic:queens park rangers fc">
+Queens Park Rangers FC
+</a>
+</h5>
+<a href="http://www.getwestlondon.co.uk/sport/football/transfer-news/qpr-ready-battle-van-der-7246901" data-type="hdln-txt_3" data-action="article:7246901">
+QPR ready to battle for van der Vaart
+</a>
+</li>
+<li>
+<h5>
+<a href="http://www.getwestlondon.co.uk/all-about/hounslow%20london%20borough%20council" data-type="tag_4" data-action="topic:hounslow london borough council">
+Hounslow London Borough Council
+</a>
+</h5>
+<a href="http://www.getwestlondon.co.uk/news/local-news/breaking-gunnersbury-park-closed-due-7254069" data-type="hdln-txt_4" data-action="article:7254069">
+BREAKING: Gunnersbury Park closed due to safety fears after Travellers set up camp
+</a>
+</li>
+<li class=" last">
+<h5>
+<a href="http://www.getwestlondon.co.uk/all-about/brentford%20fc" data-type="tag_5" data-action="topic:brentford fc">
+Brentford FC
+</a>
+</h5>
+<a href="http://www.getwestlondon.co.uk/sport/football/transfer-news/brentford-cool-interest-international-defender-7250786" data-type="hdln-txt_5" data-action="article:7250786">
+Brentford cool interest in international defender
+</a>
+</li>
+</ol>
+</div>
+</div>
+<!-- end of widget id: 5733965, name: popularList, view: mostRead -->
+<!-- start of widget id: 5734014, name: code, view: html -->
+<div class="widget code html widget-editable viziwyg-section-15811 inpage-widget-5734014">
+<div class="box-bottom">
+<h3 class="box-heading">Get West London Tweets</h3>
+<a class="twitter-timeline" href="https://twitter.com/GetWestLondon" data-widget-id="382910845178486784">Tweets by @GetWestLondon</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</div>
+</div>
+<!-- end of widget id: 5734014, name: code, view: html -->
+<!-- start of widget id: 5736815, name: ad, view: adsense -->
+<div class="google-adsense">
+<script type="text/javascript" language="JavaScript">//<![CDATA[
+function google_ad_request_done(google_ads) {
+var s = '';
+var i;
+/*verify there are ads to display */
+if (google_ads.length == 0) {
+return;
+}
+if (google_ads.length > 1) {
+s += '<h3><a href=\"' + google_info.feedback_url + '\" style="color:000000">Ads by Google</a></h3>'; for(i = 0; i < google_ads.length; ++i) {
+s += '<br><a style="text-decoration:none;font-size:1.15385em;" href="' +
+google_ads[i].url + '" onmouseout="window.status=\'\'" onmouseover="window.status=\'go to ' +
+google_ads[i].visible_url + '\';return true"> <span style="text-decoration:underline;font-size:1.15385em;"> <b>' +
+google_ads[i].line1 + '</b><br></span></a> <span style="color:#000000;font-size:1.15385em;">' +
+google_ads[i].line2 + ' ' +
+google_ads[i].line3 + '<br></span> <span><a style="color:#008000;text-decoration:none;font-size:1.15385em;" href="' +
+google_ads[i].url + '" onmouseout="window.status=\'\'" onmouseover="window.status=\'go to ' +
+google_ads[i].visible_url + '\';return true">' +
+google_ads[i].visible_url + '</span></a><br>';
+}
+}
+document.write(s);
+return;
+}
+google_ad_client = 'pub-6059318011805114';
+google_ad_channel = '';
+google_ad_output = 'js';
+google_max_num_ads = '3';
+google_ad_type = 'text_html';
+google_language = 'en';
+google_encoding = 'utf8';
+//]]>
+</script>
+<script type="text/javascript" language="JavaScript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+</div>
+<!-- end of widget id: 5736815, name: ad, view: adsense -->
+</div>
+</div>
+<div class="tmRow span-24 row" id="row3">
+<!-- start of widget id: 5734009, name: code, view: html -->
+<div class="widget code html widget-editable viziwyg-section-15811 inpage-widget-5734009">
+<div class="stay-connected-widget">
+<!-- one stay connected tab -->
+<nav class="stay-connected">
+<ul class="tabs clearfix">
+<li class="tab" style=""><a href="#FollowUs" title="Follow Us">Follow Us</a></li>
+<li class="tab"><a href="#ContactUs" title="Contact Us">Contact Us</a></li>
+<li class="tab"><a href="#SendAStory" title="Send A Story">Send A Story</a></li>
+<li class="tab"><a href="#Advertise" title="Advertise">Advertise</a></li>
+<li class="tab"><a href="#TheEditor" title="The Editor">The Editor</a></li>
+<li class="tab last"><a href="#Journalists" title="Journalists">Journalists</a></li>
+</ul>
+</nav>
+<div class="tab_container">
+<!-- Follow Us -->
+<div class="sc-box clearfix tab_content" id="FollowUs" style="display: none; ">
+<div class="span-7-5 col-1">
+<div class="sc-box-left" style="min-height: 325px;">
+<img width="265" height="302" alt="Get West London" src="http://s.getwestlondon.co.uk/skins/getwestlondon/gfx/follow-media.jpg">
+</div>
+</div>
+<div class="span-15-5 col-2 last">
+<div class="sc-box-right">
+<h3 style="margin-top:20px;">Join us on social media.</h3>
+<p>For the latest local news straight to your Twitter, Facebook feed or e-mail inbox.</p>
+<div class="span-7 col-2">
+<dl>
+<dt>Facebook</dt>
+<dd><a href="https://www.facebook.com/getwestlondon" rel="nofollow" target="_blank">GetWestLondon</a><br></dd>
+<dd><a href="https://www.facebook.com/EalingGazette" rel="nofollow" target="_blank">Ealing Gazette</a><br></dd>
+<dd><a href="https://www.facebook.com/FulhamGazette" rel="nofollow" target="_blank">Fulham and Hammersmith Gazette</a><br></dd>
+<dd><a href="https://www.facebook.com/HounslowChronicle" rel="nofollow" target="_blank">Hounslow Chronicle</a><br></dd>
+<dd><a href="https://www.facebook.com/UxbridgeGazette" rel="nofollow" target="_blank">Uxbridge Gazette</a></dd>
+</dl>
+<dl>
+<dt>Newsletter</dt>
+<dd><a href="/newsletters/weekly-bulletin/">Weekly Email Alerts</a></dd>
+</dl>
+</div>
+<div class="span-7 col-3 last">
+<dl>
+<dt>Twitter</dt>
+<dd><a href="https://twitter.com/GetWestLondon" class="follow-list-link" rel="nofollow" target="_blank">@GetWestLondon</a></dd>
+<dd><a href="https://twitter.com/EalingGazette" class="follow-list-link" rel="nofollow" target="_blank">@EalingGazette</a></dd>
+<dd><a href="https://twitter.com/FulhamChron" class="follow-list-link" rel="nofollow" target="_blank">@FulhamChron</a></dd>
+<dd><a href="https://twitter.com/HarrowObserver" class="follow-list-link" rel="nofollow" target="_blank">@HarrowObserver</a></dd>
+<dd><a href="https://twitter.com/HounslowChron" class="follow-list-link" rel="nofollow" target="_blank">@HounslowChron</a></dd>
+<dd><a href="https://twitter.com/UxbridgeGazette" class="follow-list-link" rel="nofollow" target="_blank">@UxbridgeGazette</a></dd>
+</dl>
+</div>
+</div>
+</div>
+</div><!-- end of follow us-->
+<!-- Contact Us -->
+<div class="sc-box three-col clearfix tab_content" id="ContactUs" style="display: none; ">
+<h2>Contact us</h2>
+<div class="span-7-5 col-1">
+<h3>Got a story in your area?</h3>
+<p>Is there something happening in your area you would like us to report on?</p>
+<dl>
+<dt>Postal address for Uxbridge and Harrow newspapers</dt>
+<dd>Trinity Mirror Southern<br> c/o Trinity Mirror Colour Print<br> St Albans Road<br>
+Watford<br>
+Herts.<br>
+UB8 1RG
+</dd>
+</dl>
+<dl>
+<dt>Postal address for all other newspapers</dt>
+<dd>Broadway Chambers<br>
+14-26 Hammersmith Broadway,<br> Hammersmith,<br> W6 7AF
+</dd>
+</dl>
+</div>
+<div class="span-7-5 col-2 ">
+<h3>Contacts</h3>
+<dl>
+<dt>Digital Editor: Steve Bax</dt>
+<dd>020 3280 3212/07909 532436</dd>
+<dd><a href="mailto:steve.bax@trinitymirror.com">steve.bax@trinitymirror.com</a></dd>
+</dl>
+<dl>
+<dt>Harrow Observer - Ian Proctor</dt>
+<dd>01895 451029</dd>
+<dd><a href="mailto:ian.proctor@trinitymirror.com">ian.proctor@trinitymirror.com</a></dd>
+</dl>
+<dl>
+<dt>Uxbridge Gazette - Alan Hayes</dt>
+<dd><a href="mailto:alan.hayes@trinitymirror.com">alan.hayes@trinitymirror.com</a></dd>
+<dd>01895 451036</dd>
+</dl>
+</div>
+<div class="span-7-5 col-3 last">
+<dl>
+<dt>News Editor: Michael Russell</dt>
+<dd>Ealing Gazette, Fulham and Hammersmith Gazette</dd>
+<dd>020 3280 3215</dd>
+<dd><a href="mailto:michael.russell@trinitymirror.com">michael.russell@trinitymirror.com</a></dd>
+</dl>
+<dl>
+<dt>News Editor: Chris Longhurst</dt>
+<dd>Hounslow Chronicle – Chris Longhurst</dd>
+<dd>020 3280 3220</dd>
+<dd>Email: <a href="mailto:chris.longhurst@trinitymirror.com">chris.longhurst@trinitymirror.com</a></dd>
+</dl>
+<dl>
+<dt>Reporters</dt>
+<dd><a href="/contact-us/">Click here to view a full list of reporters</a></dd>
+</dl>
+</div>
+</div><!-- end of contact us -->
+<!-- Send a story -->
+<div class="sc-box three-col clearfix tab_content" id="SendAStory" style="display: none; ">
+<h2>Send a story</h2>
+<div class="span-7-5 col-1">
+<dl>
+<dd>For newsroom contact details, click <a href="/contact-us/">here</a></dd>
+</dl>
+<dl>
+<dd>Alternatively you can send us a story by using this form, or by phoning 0203 3280 3201</dd>
+</dl>
+<dl>
+<dt>Postal address for Uxbridge and Harrow newspapers</dt>
+<dd>Trinity Mirror Southern<br> c/o Trinity Mirror Colour Print<br> St Albans Road<br>
+Watford<br>
+Herts.<br>
+UB8 1RG
+</dd>
+</dl>
+<dl>
+<dt>Postal address for all other newspapers</dt>
+<dd>Broadway Chambers<br>
+14-26 Hammersmith Broadway,<br> Hammersmith,<br> W6 7AF
+</dd>
+</dl>
+</div>
+<div class="span-15-5 col-2 last">
+<iframe allowtransparency="true" src="https://secure.jotformpro.com/form/33183145093855" frameborder="0" style="width:100%; height:520px; border:none;" scrolling="no"></iframe></div>
+</div><!-- end of Send a story -->
+<!-- Advertise -->
+<div class="sc-box three-col clearfix tab_content" id="Advertise" style="display: none; ">
+<div style="margin-left: 0;margin-right: 20px; width: 300px;" class="span-7-5 col-1">
+<div class="sc-box-left" style="min-height: 370px;">
+<img width="265" height="302" alt="Get West London" src="http://s.getwestlondon.co.uk/skins/getwestlondon/gfx/follow-media.jpg">
+</div>
+</div>
+<div class="span-15-5 col-2 last">
+<div class="sc-box-right">
+<h3 style="margin-top: 20px;">Advertise with getwestlondon.co.uk, Ealing Gazette, Harrow Observer, Uxbridge Gazette, Hounslow Chronicle and Fulham &amp; Hammersmith Chronicle.</h3>
+<p>getwestlondon.co.uk and the Ealing Gazette, Harrow Observer, Uxbridge Gazette, Hounslow Chronicle and Fulham &amp; Hammersmith Chronicle are part of Trinity Mirror Southern, offering you unique access to our audience across the region online and in print.</p>
+<p>We reach over 385,918* unique users a month with dedicated coverage of West London and the surrounding areas.</p>
+<p>Over 78% of our visitors**, who view an average of 1,117,727* page impressions every month, are in the desirable ABC1 socio-economic groups.</p>
+<p>To book an advert with the our advertising team call 07799 476 740, email <a href="mailto:niki.hornsby@trinitymirror.com">niki.hornsby@trinitymirror.com</a> or visit the Trinity Mirror Southern website <a href="http://www.trinitymirrorsouthern.co.uk/ourproducts/" target="_blank">trinitymirrorsouthern.co.uk</a> for more information.</p>
+<p>We are part of Trinity Mirror Southern, offering you unique access to our audience across the region online and in print.</p>
+<p>Source: *Omniture (UK 6 month average Jan-Jun 2013). **JICREG 01/05/13</p>
+</div>
+</div>
+</div><!-- end of Advertise -->
+<!-- The Editor -->
+<div class="sc-box three-col clearfix tab_content" id="TheEditor" style="display: none; ">
+<h2>The Editor</h2>
+<div class="span-7-5 col-1">
+<h3>Kim Chapman</h3>
+<p>Editorial Director</p>
+<dl>
+<dt>Email</dt>
+<dd><a href="mailto:kim.chapman@trinitymirror.com">kim.chapman@trinitymirror.com</a></dd>
+<dt>Twitter</dt>
+<dd><a href="https://twitter.com/kimchapmannews" class="follow-list-link" rel="nofollow" target="_blank">@kimchapmannews</a></dd>
+</dl>
+</div>
+<div class="span-15-5 col-2 last" style="min-height: 180px">
+<img width="100" height="100" src="http://s.getwestlondon.co.uk/skins/getwestlondon/gfx/editor.jpg" class="profile-pic" alt="Photo of Kim Chapman">
+<p>Kim is editorial director for our group of newspapers and websites covering communities from Buckinghamshire to Westminster.</p>
+<p>She has held senior roles in newspapers and radio in London, Surrey, Berkshire, Buckinghamshire and Hampshire over many years.</p>
+<p>Kim said: “My first role as a trainee reporter was to cover South Bucks and decades later I am still passionate about the role our newspapers play in supporting our local communities. Local is our watchword and we have dedicated staff for each of the areas we cover </p>
+<p>"I want to engage with people whenever I can. Please contact me with any comments about our newspapers and websites or to discuss any issues you think we can help with."</p>
+</div>
+</div><!-- end of The Editor -->
+<!-- Journalists -->
+<div class="sc-box three-col clearfix tab_content" id="Journalists" style="display: block; ">
+<h2>Journalists</h2>
+<div class="span-7-5 col-1">
+<dl>
+<dt><a href="/authors/steve-bax/">Steve Bax</a></dt>
+<dd>Digital Editor, Get West London</dd>
+<dt><a href="/authors/danya-bazaraa/">Danya Bazaraa</a></dt>
+<dd>Ealing, Acton Greenford and Northolt</dd>
+<dt><a href="/authors/paul-bishop/">Paul Bishop</a></dt>
+<dd>Sports Editor</dd>
+<dt><a href="/authors/caitlin-black/">Caitlin Black</a></dt>
+<dd>Pinner, Hatch End. Harrow Weald, Stanmore, Edgware, Queensbury and Kenton</dd>
+<dt><a href="/authors/alix-culbertson/">Alix Culbertson</a></dt>
+<dd>Hammersmith &amp; Fulham, Kensington &amp; Chelsea</dd>
+<dt><a href="/authors/robert-cumber/">Robert Cumber</a></dt>
+<dd>Hounslow, Heston and Isleworth, Chiswick</dd>
+<dt><a href="/authors/zoe-drewett/">Zoe Drewett</a></dt>
+<dd>Uxbridge, Ruislip, Eastcote, Hayes, Harlington &amp; West Drayton</dd>
+</dl>
+</div>
+<div class="span-7-5 col-2">
+<dl>
+<dt><a href="/authors/alan-hayes/">Alan Hayes</a></dt>
+<dd>News Editor, Uxbridge Gazette</dd>
+<dt><a href="/authors/camilla-horrox/">Camilla Horrox</a></dt>
+<dd>Ealing, Southall, West Ealing and Hanwell</dd>
+<dt><a href="/authors/matt-lewis/">Matt Lewis</a></dt>
+<dd>Sports Reporter</dd>
+<dt><a href="/authors/chris-longhurst/">Chris Longhurst</a></dt>
+<dd>News Editor, Hounslow Chronicle</dd>
+<dt><a href="/authors/mhairi-macfarlane/">Mhairi Macfarlane</a></dt>
+<dd>News Editor, Harrow and Wembley Observer</dd>
+<dt><a href="/authors/jacob-murtagh/">Jacob Murtagh</a></dt>
+<dd>Sports Reporter</dd>
+<dt><a href="/authors/salina-patel/">Salina Patel</a></dt>
+<dd>Hounslow, Feltham, Bedfont and Hanworth</dd>
+</dl>
+</div>
+<div class="span-7-5 col-3">
+<dl>
+<dt><a href="/authors/ian-proctor/">Ian Proctor</a></dt>
+<dd>News Editor, Harrow and Wembley Observer</dd>
+<dt><a href="/authors/hannah-raven/">Hannah Raven</a></dt>
+<dd>Uxbridge, Harefield, Northwood, Northwood Hills</dd>
+<dt><a href="/authors/michael-russell/">Michael Russell</a></dt>
+<dd>News Editor, Ealing, Fulham, Kensington and Westminster</dd>
+<dt><a href="/authors/john-shammas/">John Shammas</a></dt>
+<dd>Rayners Lane, South Harrow, North Harrow, Harrow on the Hill, Wealdstone and Wembley</dd>
+<dt><a href="/authors/mort-smith/">Mort Smith</a></dt>
+<dd>Community Editor, Uxbridge Gazette</dd>
+<dt><a href="/authors/tim-street/">Tim Street</a></dt>
+<dd>Deputy Sports Editor</dd>
+<dt><a href="/authors/paul-warburton/">Paul Warburton</a></dt>
+<dd>Sports Reporter</dd>
+</dl>
+</div>
+</div><!-- end of Journalists -->
+</div><!-- end of .tab_container -->
+<!-- Initialise Multitabs -->
+<script type="text/javascript">//<![CDATA[
+$LAB.script("http://s3.amazonaws.com/tm-frontend/frontend/resources/js/tm.multiTabs.js").wait(function() {
+$(".stay-connected-widget").tab();
+});
+//]]>
+</script>
+</div><!-- end of .stay-connected-widget -->
+</div>
+<!-- end of widget id: 5734009, name: code, view: html -->
+</div>
+<div class="styleGroup span-24">
+<!-- start of widget id: 5736132, name: ad, view: dart -->
+<div class="widget ad dart widget-editable viziwyg-section-15811 inpage-widget-5736132 arb arb leaderboard" id="bottom_lb_">
+<script type="text/javascript">
+(function() {
+if (typeof ord=='undefined') {
+ord=Math.floor(Math.random()*10e12);
+}
+if (typeof crtg_content==='undefined'){
+crtg_content='';
+}
+//<![CDATA[
+document.write('<script type="text/javascript" src="http://ad.uk.doubleclick.net/N5293/adj/getwestlondon.5293/privacy-policy/index;' + crtg_content + 'psect=privacy-policy;upsect=;sect=index;usect=;primarytag=;articletag=;author=;templ=index;'+'sz=728x90;tile=5;pos=bottom_lb;oid=;dc_ref=http://www.getwestlondon.co.uk/privacy-policy/;' + (typeof segQS != "undefined" ? segQS : "" ) + ';gs_cat=' + gs_channels + ';token=;index;ord=' + ord + '?"><\/script>');
+//]]>
+} ());
+</script><script type="text/javascript" src="http://ad.uk.doubleclick.net/N5293/adj/getwestlondon.5293/privacy-policy/index;psect=privacy-policy;upsect=;sect=index;usect=;primarytag=;articletag=;author=;templ=index;sz=728x90;tile=5;pos=bottom_lb;oid=;dc_ref=http://www.getwestlondon.co.uk/privacy-policy/;;gs_cat=southwest;token=;index;ord=697081036296?"></script>
+<noscript>
+<a href="http://trinitymirror.grapeshot.co.uk/southwest/redirect.cgi?target=http://ad.uk.doubleclick.net/jump/getwestlondon.5293/privacy-policy/index;;psect=privacy-policy;upsect=;sect=index;usect=;primarytag=;articletag=;author=;templ=index;sz=728x90;tile=5;pos=bottom_lb;oid=;dc_ref=http://www.getwestlondon.co.uk/privacy-policy/;gs_cat=GS_CHANNELS;token=;index;ord=' + ord + '?" target="_blank">
+<img src="http://trinitymirror.grapeshot.co.uk/southwest/redirect.cgi?target=http://ad.uk.doubleclick.net/ad/getwestlondon.5293/privacy-policy/index;;psect=privacy-policy;upsect=;sect=index;usect=;primarytag=;articletag=;author=;templ=index;sz=728x90;tile=5;pos=bottom_lb;oid=;dc_ref=http://www.getwestlondon.co.uk/privacy-policy/;gs_cat=GS_CHANNELS;token=;index;ord=' + ord + '?" alt="bottom-leaderboard advertisement" border="0" />
+</a>
+</noscript>
+</div>
+<!-- end of widget id: 5736132, name: ad, view: dart -->
+</div>
+<footer>
+<div class="styleGroup span-24 last">
+<div class="styleGroup directory">
+<div class="styleGroup section">
+<!-- start of widget id: 5733917, name: menu, view: sitemap -->
+<dl data-widget="tm.omniture.omniLinkTracking" data-context="menu-sitemap" data-friendly-name="Click Footer Menu Link" data-max-times-to-track-links="5">
+<dt>
+<a href="http://www.getwestlondon.co.uk/news/" data-type="section-head_1" data-action="section:news">
+News
+</a>
+</dt>
+<dd>
+<a href="http://www.getwestlondon.co.uk/news/west-london-news/" data-type="section-head_1" data-action="section:west london news">
+West London News
+</a>
+</dd>
+<dd>
+<a href="http://www.getwestlondon.co.uk/news/business/" data-type="section-head_2" data-action="section:business">
+Business
+</a>
+</dd>
+<dd>
+<a href="http://www.getwestlondon.co.uk/all-about/crime" data-type="section-head_3" data-action="section:crime">
+Crime
+</a>
+</dd>
+<dd>
+<a href="http://www.getwestlondon.co.uk/all-about/education" data-type="section-head_4" data-action="section:education">
+Education
+</a>
+</dd>
+<dd>
+<a href="http://www.getwestlondon.co.uk/news/health/" data-type="section-head_5" data-action="section:health">
+Health
+</a>
+</dd>
+<dd>
+<a href="http://www.getwestlondon.co.uk/news/uk-world-news/" data-type="section-head_6" data-action="section:uk &amp; world news">
+UK &amp; World News
+</a>
+</dd>
+<dd>
+<a href="http://www.getwestlondon.co.uk/news/news-opinion/" data-type="section-head_7" data-action="section:news opinion">
+News Opinion
+</a>
+</dd>
+</dl>
+<!-- end of widget id: 5733917, name: menu, view: sitemap -->
+<!-- start of widget id: 5733916, name: menu, view: sitemap -->
+<dl data-widget="tm.omniture.omniLinkTracking" data-context="menu-sitemap" data-friendly-name="Click Footer Menu Link" data-max-times-to-track-links="5">
+<dt>
+<a href="http://www.getwestlondon.co.uk/whats-on/" data-type="section-head_1" data-action="section:what's on">
+What's On
+</a>
+</dt>
+<dd>
+<a href="http://www.getwestlondon.co.uk/whats-on/arts-culture/" data-type="section-head_1" data-action="section:arts &amp; culture">
+Arts &amp; Culture
+</a>
+</dd>
+<dd>
+<a href="http://www.getwestlondon.co.uk/whats-on/comedy/" data-type="section-head_2" data-action="section:comedy">
+Comedy
+</a>
+</dd>
+<dd>
+<a href="http://www.getwestlondon.co.uk/whats-on/family-kids/" data-type="section-head_3" data-action="section:family &amp; kids">
+Family &amp; Kids
+</a>
+</dd>
+<dd>
+<a href="http://www.getwestlondon.co.uk/whats-on/film/" data-type="section-head_4" data-action="section:film">
+Film
+</a>
+</dd>
+<dd>
+<a href="http://www.getwestlondon.co.uk/whats-on/food-drink/" data-type="section-head_5" data-action="section:food &amp; drink">
+Food &amp; Drink
+</a>
+</dd>
+<dd>
+<a href="http://www.getwestlondon.co.uk/whats-on/music-nightlife/" data-type="section-head_6" data-action="section:music &amp; nightlife">
+Music &amp; Nightlife
+</a>
+</dd>
+</dl>
+<!-- end of widget id: 5733916, name: menu, view: sitemap -->
+</div>
+<div class="styleGroup section">
+<!-- start of widget id: 5733915, name: menu, view: sitemap -->
+<dl data-widget="tm.omniture.omniLinkTracking" data-context="menu-sitemap" data-friendly-name="Click Footer Menu Link" data-max-times-to-track-links="5">
+<dt>
+<a href="http://www.getwestlondon.co.uk/sport/" data-type="section-head_1" data-action="section:sport">
+Sport
+</a>
+</dt>
+<dd>
+<a href="http://www.getwestlondon.co.uk/sport/football/" data-type="section-head_1" data-action="section:football">
+Football
+</a>
+</dd>
+<dd>
+<a href="http://www.getwestlondon.co.uk/all-about/queens%20park%20rangers%20fc" data-type="section-head_2" data-action="section:qpr fc">
+QPR FC
+</a>
+</dd>
+<dd>
+<a href="http://www.getwestlondon.co.uk/all-about/brentford fc" data-type="section-head_3" data-action="section:brentford fc">
+Brentford FC
+</a>
+</dd>
+<dd>
+<a href="http://www.getwestlondon.co.uk/all-about/chelsea fc" data-type="section-head_4" data-action="section:chelsea fc">
+Chelsea FC
+</a>
+</dd>
+<dd>
+<a href="http://www.getwestlondon.co.uk/all-about/fulham fc" data-type="section-head_5" data-action="section:fulham fc">
+Fulham FC
+</a>
+</dd>
+<dd>
+<a href="http://www.getwestlondon.co.uk/all-about/afc wimbledon" data-type="section-head_6" data-action="section:afc wimbledon">
+AFC Wimbledon
+</a>
+</dd>
+<dd>
+<a href="http://www.getwestlondon.co.uk/sport/rugby/" data-type="section-head_7" data-action="section:rugby">
+Rugby
+</a>
+</dd>
+<dd>
+<a href="http://www.getwestlondon.co.uk/all-about/ealing trailfinders rfc" data-type="section-head_8" data-action="section:ealing trailfinders">
+Ealing Trailfinders
+</a>
+</dd>
+<dd>
+<a href="http://www.getwestlondon.co.uk/sport/other-sport/" data-type="section-head_9" data-action="section:other sport">
+Other Sport
+</a>
+</dd>
+</dl>
+<!-- end of widget id: 5733915, name: menu, view: sitemap -->
+<!-- start of widget id: 5733910, name: menu, view: sitemap -->
+<dl data-widget="tm.omniture.omniLinkTracking" data-context="menu-sitemap" data-friendly-name="Click Footer Menu Link" data-max-times-to-track-links="5">
+<dt>
+<a href="http://www.getwestlondon.co.uk/lifestyle/" data-type="section-head_1" data-action="section:lifestyle">
+Lifestyle
+</a>
+</dt>
+<dd>
+<a href="http://www.getwestlondon.co.uk/lifestyle/food-drink/" data-type="section-head_1" data-action="section:food &amp; drink">
+Food &amp; Drink
+</a>
+</dd>
+<dd>
+<a href="http://www.getwestlondon.co.uk/lifestyle/nostalgia/" data-type="section-head_2" data-action="section:nostalgia">
+Nostalgia
+</a>
+</dd>
+<dd>
+<a href="http://www.getwestlondon.co.uk/lifestyle/fashion/" data-type="section-head_3" data-action="section:fashion">
+Fashion
+</a>
+</dd>
+<dd>
+<a href="http://www.getwestlondon.co.uk/lifestyle/travel/" data-type="section-head_4" data-action="section:travel">
+Travel
+</a>
+</dd>
+<dd>
+<a href="http://www.getwestlondon.co.uk/lifestyle/lifestyle-opinion/" data-type="section-head_5" data-action="section:lifestyle opinion">
+Lifestyle Opinion
+</a>
+</dd>
+<dd>
+<a href="http://www.getwestlondon.co.uk/lifestyle/competitions/" data-type="section-head_6" data-action="section:competitions">
+Competitions
+</a>
+</dd>
+</dl>
+<!-- end of widget id: 5733910, name: menu, view: sitemap -->
+</div>
+<div class="styleGroup section">
+<!-- start of widget id: 5734029, name: code, view: html -->
+<div class="widget code html widget-editable viziwyg-section-15811 inpage-widget-5734029">
+<dl>
+<dt><a href="/in-your-area/">In Your Area</a></dt>
+<dd><a href="/all-about/acton">Acton</a></dd>
+<dd><a href="/all-about/brent">Brent</a></dd>
+<dd><a href="/all-about/chelsea">Chelsea</a></dd>
+<dd><a href="/all-about/chiswick">Chiswick</a></dd>
+<dd><a href="/all-about/ealing">Ealing</a></dd>
+<dd><a href="/all-about/fulham">Fulham</a></dd>
+<dd><a href="/all-about/hammersmith">Hammersmith</a></dd>
+<dd><a href="/all-about/harrow">Harrow</a></dd>
+<dd><a href="/all-about/hayes">Hayes</a></dd>
+<dd><a href="/all-about/hillingdon">Hillingdon</a></dd>
+<dd><a href="/all-about/hounslow">Hounslow</a></dd>
+<dd><a href="/all-about/kensington">Kensington</a></dd>
+<dd><a href="/all-about/stanmore">Stanmore</a></dd>
+<dd><a href="/all-about/uxbridge">Uxbridge</a></dd>
+<dd><a href="/all-about/wealdstone">Wealdstone</a></dd>
+<dd><a href="/all-about/wembley">Wembley</a></dd>
+<dd><a href="/all-about/westminster">Westminster</a></dd>
+<dd><a href="/in-your-area/">View All Locations</a></dd>	</dl>
+</div>
+<!-- end of widget id: 5734029, name: code, view: html -->
+</div>
+<div class="styleGroup section">
+<!-- start of widget id: 5733865, name: code, view: html -->
+<div class="widget code html widget-editable viziwyg-section-15811 inpage-widget-5733865">
+<dl>
+<dt><a href="/buy-sell-tell/">Buy, Sell &amp; Tell</a></dt>	<dd><a href="http://www.fish4jobs.co.uk/" title="Jobs" target="_blank">Jobs</a></dd>
+<dd><a href="http://london.gwl.vivastreet.co.uk/real-estate+london?utm_source=Trinity&amp;utm_medium=TAB&amp;utm_campaign=Get_West_London" title="Property">Property</a></dd>
+<dd><a href="/buy-sell-tell/motors/" title="Motors">Motors</a></dd>
+<dd><a href="/buy-sell-tell/business-directory/" title="Business Directory">Business Directory</a></dd>
+<dd><a href="/buy-sell-tell/family-notices/" title="Family Notices">Family Notices</a></dd>
+<dd><a href="http://dating.fulhamchronicle.co.uk/" title="Dating" target="_blank">Dating</a></dd>	<dd><a href="http://london.gwl.vivastreet.co.uk/london?utm_source=Trinity&amp;utm_medium=TAB&amp;utm_campaign=Get_West_London" title="BuySell">BuySell</a></dd>
+<dd><a href="http://www.bookanad.com/regions/southern/" title="Book An Ad" target="_blank">Book An Ad</a></dd>
+<dd><a href="http://www.newmarket.travel/wlb" title="Travel" target="_blank">Travel</a></dd>
+</dl>
+</div>
+<!-- end of widget id: 5733865, name: code, view: html -->
+</div>
+<div class="styleGroup section">
+<!-- start of widget id: 5734170, name: code, view: html -->
+<div class="widget code html widget-editable viziwyg-section-15811 inpage-widget-5734170">
+<dl>
+<dt>Useful Links</dt><dt>
+</dt><dd><a href="/contact-us/">Contact Us</a></dd>
+<dd><a href="/advertising/">Advertise with Us</a></dd>
+<dd><a href="/about-us/">About Us</a></dd>
+<dd><a href="/rss-feeds/">RSS Feeds</a></dd><dd>
+</dd><dd><a href="/corrections-clarifications/">Corrections and Clarifications</a></dd>
+<dd><a href="/terms-conditions/">Terms &amp; Conditions</a></dd>
+<dd><a href="/privacy-policy/">Privacy Policy</a></dd><dd>
+</dd><dd><a href="/house-rules/">House Rules</a></dd><dd>
+</dd></dl>
+</div>
+<!-- end of widget id: 5734170, name: code, view: html -->
+</div>
+</div>
+</div>
+<!-- start of widget id: 5735578, name: eaeLogger, view: pageView -->
+<!-- end of widget id: 5735578, name: eaeLogger, view: pageView -->
+<!-- start of widget id: 5734259, name: webAnalytics, view: omniture -->
+<!-- SiteCatalyst code version: H.24.2.
+Copyright 1996-2012 Adobe, Inc. All Rights Reserved
+More info available at http://www.omniture.com -->
+<script type="text/javascript"><!--
+var s_account = "tmruxbridgegazette,mgntrinitymirroraggregate,tmrgroupaggregateprod";
+var s_omnitureDNSAlias = "omniture.mirror.co.uk";
+//--></script>
+<script language="JavaScript" type="text/javascript" src="http://s.getwestlondon.co.uk/resources/js/s_code.js"></script>
+<script language="JavaScript" type="text/javascript"><!--
+s.pageName="get west london:privacy-policy:home";
+s.server="get west london";
+s.channel="privacy-policy";
+s.pageType="";
+s.hier1="";
+s.prop1="privacy-policy";
+s.prop2="";
+s.prop3="";
+s.prop5="get west london";
+s.prop10=""; s.prop11="";
+s.prop15=""; s.prop16="TMS"; s.prop19="";
+s.prop21="TMS-NSL";
+s.prop24="";
+s.prop25=""; s.prop30="channel";
+s.prop31="";
+s.prop57="";
+s.prop58="";
+s.prop59="";
+s.prop64="desktop";
+/* Conversion Variables */
+s.eVar64="desktop";
+s.campaign=s.prop14;
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript" type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><noscript><img src="http://omniture.mirror.co.uk/b/ss/tmruxbridgegazette/1/H.24.4--NS/0?[AQB]&cdp=3&[AQE]"
+height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.24.2. -->
+<!-- end of widget id: 5734259, name: webAnalytics, view: omniture -->
+<!-- start of widget id: 5735583, name: webAnalytics, view: visualDNA -->
+<!-- VisualDNA Audience Analytics API Import -->
+<script type="text/javascript">
+(function(){var b,a;b=document.createElement("script");b.src="//a1.vdna-assets.com/analytics.js";b.async=true;a=document.getElementsByTagName("head")[0];a.insertBefore(b,a.firstChild);this.VDNA=this.VDNA||{};this.VDNA.queue=this.VDNA.queue||[];}());
+</script>
+<!-- End of VisualDNA Audience Analytics API Import -->
+<script type="text/javascript">
+VDNA.queue.push({
+   apiKey : 'mirror',
+   method : "reportPageView"
+});
+</script>
+<!-- end of widget id: 5735583, name: webAnalytics, view: visualDNA -->
+<!-- start of widget id: 5735577, name: eaeLogger, view: tag -->
+<!-- end of widget id: 5735577, name: eaeLogger, view: tag -->
+<!-- start of widget id: 5735574, name: comments, view: pluckCount -->
+<script type="text/javascript">
+//<![CDATA[
+$LAB
+.script("http://community.getwestlondon.co.uk/ver1.0/Direct/JavascriptSDKProxy").wait()
+.script("http://s.getwestlondon.co.uk/resources/js/tm.pluckCount.js")
+.wait(function() {
+$(document).ready(function() {
+$.pluckCount();
+})
+});
+//]]>
+</script>
+<!-- end of widget id: 5735574, name: comments, view: pluckCount -->
+<!-- start of widget id: 5735576, name: eaeLogger, view: profile -->
+<!-- end of widget id: 5735576, name: eaeLogger, view: profile -->
+<!-- start of widget id: 5734011, name: webAnalytics, view: chartbeat -->
+<script type="text/javascript">//<![CDATA[
+var _sf_async_config={};
+/** CONFIGURATION START **/
+_sf_async_config.uid = 33715;
+_sf_async_config.domain = 'getwestlondon.co.uk';
+_sf_async_config.sections = 'privacy-policy';
+_sf_async_config.authors = '';
+_sf_async_config.noCookies = true;
+/** CONFIGURATION END **/
+(function(){
+function loadChartbeat() {
+window._sf_endpt=(new Date()).getTime();
+var e = document.createElement('script');
+e.setAttribute('language', 'javascript');
+e.setAttribute('type', 'text/javascript');
+e.setAttribute('src',
+(('https:' == document.location.protocol) ? 'https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/' : 'http://static.chartbeat.com/') +
+'js/chartbeat.js');
+document.body.appendChild(e);
+}
+var oldonload = window.onload;
+window.onload = (typeof window.onload != 'function') ?
+loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+//]]></script>
+<!-- end of widget id: 5734011, name: webAnalytics, view: chartbeat -->
+<!-- start of widget id: 6523282, name: code, view: html -->
+<div class="widget code html widget-editable viziwyg-section-22958 inpage-widget-6523282">
+<script src="http://tags.crwdcntrl.net/c/3964/cc.js?ns=_cc3964" id="LOTCC_3964"></script>
+<script>
+_cc3964.bcp();
+</script>
+</div>
+<!-- end of widget id: 6523282, name: code, view: html -->
+<!-- start of widget id: 6886568, name: code, view: html -->
+<div class="widget code html widget-editable viziwyg-section-15811 inpage-widget-6886568">
+<div class="footer-bottom">
+<div class="mobile-switch">
+<span> View: </span>
+<ul>
+<li>Desktop</li>
+<li class="mobile_url"><a class="mobile-link">Mobile</a></li>
+</ul>
+</div>
+<span class="copyright">© Trinity Mirror Southern</span>
+</div>
+<script>
+$(".mobile_url").click(function() {
+var exdate=new Date();
+exdate.setDate(exdate.getDate() + 30);
+document.cookie = 'stop_mobi = false; expires=' + exdate.toUTCString();
+var refresh_url = window.location.href.match(/(.+\.[a-z]{2,4})/ig) + "?mobile=true";
+window.location.href = refresh_url;
+});
+</script>
+</div>
+<!-- end of widget id: 6886568, name: code, view: html -->
+</footer>
+</div>
+<!-- start of widget id: 5734810, name: ad, view: dart -->
+<div class="widget ad dart widget-editable viziwyg-section-15811 inpage-widget-5734810 arb arb leaderboard takeover" id="top_lb_" data-widget="tm.billboards">
+<script type="text/javascript">
+(function() {
+if (typeof ord=='undefined') {
+ord=Math.floor(Math.random()*10e12);
+}
+if (typeof crtg_content==='undefined'){
+crtg_content='';
+}
+//<![CDATA[
+document.write('<script type="text/javascript" src="http://ad.uk.doubleclick.net/N5293/adj/getwestlondon.5293/privacy-policy/index;' + crtg_content + 'psect=privacy-policy;upsect=;sect=index;usect=;primarytag=;articletag=;author=;templ=index;'+'type=rubicon;'+'sz=728x90,900x250,970x250;tile=2;pos=top_lb;oid=;dc_ref=http://www.getwestlondon.co.uk/privacy-policy/;' + (typeof segQS != "undefined" ? segQS : "" ) + ';gs_cat=' + gs_channels + ';token=;index;ord=' + ord + '?"><\/script>');
+//]]>
+} ());
+</script><script type="text/javascript" src="http://ad.uk.doubleclick.net/N5293/adj/getwestlondon.5293/privacy-policy/index;psect=privacy-policy;upsect=;sect=index;usect=;primarytag=;articletag=;author=;templ=index;type=rubicon;sz=728x90,900x250,970x250;tile=2;pos=top_lb;oid=;dc_ref=http://www.getwestlondon.co.uk/privacy-policy/;;gs_cat=southwest;token=;index;ord=697081036296?"></script>
+<noscript>
+<a href="http://trinitymirror.grapeshot.co.uk/southwest/redirect.cgi?target=http://ad.uk.doubleclick.net/jump/getwestlondon.5293/privacy-policy/index;;psect=privacy-policy;upsect=;sect=index;usect=;primarytag=;articletag=;author=;templ=index;type=rubicon;sz=728x90,900x250,970x250;tile=2;pos=top_lb;oid=;dc_ref=http://www.getwestlondon.co.uk/privacy-policy/;gs_cat=GS_CHANNELS;token=;index;ord=' + ord + '?" target="_blank">
+<img src="http://trinitymirror.grapeshot.co.uk/southwest/redirect.cgi?target=http://ad.uk.doubleclick.net/ad/getwestlondon.5293/privacy-policy/index;;psect=privacy-policy;upsect=;sect=index;usect=;primarytag=;articletag=;author=;templ=index;type=rubicon;sz=728x90,900x250,970x250;tile=2;pos=top_lb;oid=;dc_ref=http://www.getwestlondon.co.uk/privacy-policy/;gs_cat=GS_CHANNELS;token=;index;ord=' + ord + '?" alt="top-leaderboard advertisement" border="0" />
+</a>
+</noscript>
+</div>
+<!-- end of widget id: 5734810, name: ad, view: dart -->
+<!-- start of widget id: 5734779, name: ad, view: dart -->
+<!-- end of widget id: 5734779, name: ad, view: dart -->
+<!-- start of widget id: 5733991, name: ad, view: dart -->
+<div class="widget ad dart widget-editable viziwyg-section-15810 inpage-widget-5733991 arb arb " id="reskin_">
+<script type="text/javascript">
+(function() {
+if (typeof ord=='undefined') {
+ord=Math.floor(Math.random()*10e12);
+}
+if (typeof crtg_content==='undefined'){
+crtg_content='';
+}
+//<![CDATA[
+document.write('<script type="text/javascript" src="http://ad.uk.doubleclick.net/N5293/adj/getwestlondon.5293/privacy-policy/index;' + crtg_content + 'psect=privacy-policy;upsect=;sect=index;usect=;primarytag=;articletag=;author=;templ=index;'+'sz=1x1;tile=11;pos=reskin;oid=;dc_ref=http://www.getwestlondon.co.uk/privacy-policy/;' + (typeof segQS != "undefined" ? segQS : "" ) + ';gs_cat=' + gs_channels + ';token=;index;ord=' + ord + '?"><\/script>');
+//]]>
+} ());
+</script><script type="text/javascript" src="http://ad.uk.doubleclick.net/N5293/adj/getwestlondon.5293/privacy-policy/index;psect=privacy-policy;upsect=;sect=index;usect=;primarytag=;articletag=;author=;templ=index;sz=1x1;tile=11;pos=reskin;oid=;dc_ref=http://www.getwestlondon.co.uk/privacy-policy/;;gs_cat=southwest;token=;index;ord=697081036296?"></script>
+<noscript>
+<a href="http://trinitymirror.grapeshot.co.uk/southwest/redirect.cgi?target=http://ad.uk.doubleclick.net/jump/getwestlondon.5293/privacy-policy/index;;psect=privacy-policy;upsect=;sect=index;usect=;primarytag=;articletag=;author=;templ=index;sz=1x1;tile=11;pos=reskin;oid=;dc_ref=http://www.getwestlondon.co.uk/privacy-policy/;gs_cat=GS_CHANNELS;token=;index;ord=' + ord + '?" target="_blank">
+<img src="http://trinitymirror.grapeshot.co.uk/southwest/redirect.cgi?target=http://ad.uk.doubleclick.net/ad/getwestlondon.5293/privacy-policy/index;;psect=privacy-policy;upsect=;sect=index;usect=;primarytag=;articletag=;author=;templ=index;sz=1x1;tile=11;pos=reskin;oid=;dc_ref=http://www.getwestlondon.co.uk/privacy-policy/;gs_cat=GS_CHANNELS;token=;index;ord=' + ord + '?" alt="reskin advertisement" border="0" />
+</a>
+</noscript>
+</div>
+<!-- end of widget id: 5733991, name: ad, view: dart -->
+<!-- End of InSkin Container -->
+<!-- End of InSkin Ad Code -->
+<script type="text/javascript">
+//<![CDATA[
+$(window).bind("load", function() {
+$LAB.runQueue();
+}); //]]>
 </script>
 
-	<script type="text/javascript">
-	//<![CDATA[
-		
-		if (typeof(g_afsAds) != 'undefined' && g_afsAds.length) {
-			var w = 0; //wide ad count
-			var n = 0; //narrow add count
-			
-			//work out how many wide and narrow ads we want on the entire page
-			for (var u=0; u < g_afsAds.length; u++) {
-				if (g_afsAds[u].g_afsVars.google_afs_type == 'w') {
-					w += g_afsAds[u].adCount;
-				} else {
-					n += g_afsAds[u].adCount;
-				}
-			}
-			
-			//if we have ads to display, wide or narrow
-			if (w || n) { //we have some ads
-				
-				for (var afsKey in g_afsAds[0].g_afsVars) {
-					window[afsKey] = g_afsAds[0].g_afsVars[afsKey];
-				}
-				
-				//set the number of ads global var
-				var google_afs_ad = (w ? 'w' + w : '') + (n ? 'n' + n : '');
-				
-				//request google for the ads
-				document.write( 
-						'<' + 'script type="text/javascript" src="' + 
-						g_afsAds[0].g_afsVars.adPath +'"' + '><' + '/script>'
-					);
-			}
-		}
-	//]]>
-	</script>
 
-
-
-
-</body></html>
+<script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
