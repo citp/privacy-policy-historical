@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rephunter.net privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815114933id_/http%3A//www.rephunter.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rephunter.net privacy policy that was archived on 2014-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140613013717id_/http%3A//www.rephunter.net/privacy.php) for the most accurate reproduction.*
 
 # RepHunter Privacy Policy
 
@@ -22,13 +22,13 @@ RepHunter uses information for three general purposes: to customize the advertis
 
 ## Information Sharing and Disclosure
 
-RepHunter will not sell or rent your personally identifiable information to anyone. RepHunter may send personally identifiable information about you to other companies or people when:
+RepHunter will not sell, rent or share your personally identifiable information with non-affiliated people or non-affiliated companies except to provide products or services you have requested, or when we have your permission, or under the following circumstances:
 
-  * We have your consent to share the information. You are deemed to have consented to sharing your information with our other members when you submit your profile; 
-  * We need to share your information to provide the product or service you have requested; 
-  * We need to send the information to companies who work on behalf of RepHunter to provide a product or service to you. (Unless we tell you differently, these companies do not have any right to use the personally identifiable information we provide to them beyond what is necessary to assist us.); 
-  * We respond to subpoenas, court orders or legal process; or 
-  * We find that your actions on our web site violates the RepHunter Terms of Service. 
+  * we have your consent to share the information. You are deemed to have consented to sharing your information with our other members when you submit your profile;
+  * we need to share your information to provide the product or service you have requested;
+  * we provide the information to trusted partners who work on behalf of or with RepHunter under confidentiality agreements. These companies may use your personally identifiable information to help RepHunter communicate with you about offers from RepHunter and our marketing partners. However, these companies do not have any independent right to share the information except to provide the requested product or service.;
+  * we respond to subpoenas, court orders or legal process; or
+  * we find that your actions on our web site violates the RepHunter Terms of Service.
 
 
 
