@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the staffmeup.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213130750id_/http%3A//staffmeup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the staffmeup.com privacy policy that was archived on 2014-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140613015651id_/http%3A//staffmeup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -31,7 +31,7 @@ After a transaction, your private information (credit cards, address, etc.) will
 
 Yes, but not for advertising purposes. We only use them to remember the filters that you set when you are browing the site so that when you come back to the job board, for example, it remembers that you were only looking for specific jobs that match the filters you set.
 
- **Do we disclose any information to outside parties?**
+**Do we disclose any information to outside parties?**
 
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
@@ -49,8 +49,8 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 By using our site, you consent to our http://www.staffmeup.com/privacy-policy online privacy policy.
 
- **Misuse of the Staff Me Up Message Feature/ NO Spamming  
-**  
+**Misuse of the Staff Me Up Message Feature/ NO Spamming**
+
 Users are NOT permitted to use the messaging feature, or any contact information displayed on Staff Me Up to promote a company or any type of service in an unsolicited manner. Anyone caught "Spamming" on Staff Me Up is subject to having his or her account deactivated.
 
 Also, any user sending messages from the SMU Messenger that defame, insult, or lack professional decorum to the discretion of the Staff Me Up administrators are subject to having his or her account deactivated.
@@ -58,3 +58,9 @@ Also, any user sending messages from the SMU Messenger that defame, insult, or l
 **Changes to our Privacy Policy**
 
 We reserve the right to make changes to our privacy policy. Any changes made will be posted here.
+
+**Account De-Activation and Removal of Content**
+
+We reserve the right to edit or remove any content on our site at our sole discretion, and to deactiviate any user account at our sole discretion.
+
+The use of automated systems (robots, spiders, or any other data-mining or similar data-gathering and extraction tools) to access, acquire, or download information on the Site is expressly prohibited where such systems are employed in connection with commercial objectives (other than indexing for search engines), or in a fashion that directly or indirectly violates any privacy interests.
