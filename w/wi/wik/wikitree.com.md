@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the wikitree.com privacy policy that was archived on 2009-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090602052918id_/http%3A//www.wikitree.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wikitree.com privacy policy that was archived on 2014-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140613010940id_/http%3A//www.wikitree.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-We spend a great deal of time working on privacy issues. Privacy is one of the most important considerations for a family history project. For example, we are very concerned about "identity thieves" who would use personal information (e.g. your mother's maiden name, the street you grew up on, etc.) to impersonate you.
+We spend a great deal of time working on privacy issues. We try to do everything we can to protect your privacy while still enabling online collaboration. But the bottom line is that we are just a host. You use WikiTree at your own risk. You are responsible for the information you share about yourself and other people.
 
-We do everything we can to protect your privacy while still enabling online collaboration, but the bottom line is that we are just a host. You use WikiTree at your own risk. You are responsible for the information you share about yourself and other people.
-
-Please read and understand the following Privacy Policy ( _last revised on March 24, 2009_ ). Use of WikiTree is governed by this and our [Terms of Service](https://web.archive.org/web/20090602052918id_/http%3A//www.wikitree.com/about/terms.html).
+Please read and understand the following Privacy Policy ( _last revised on December 13, 2013_ ). Use of WikiTree is governed by this and our [Terms of Service](https://web.archive.org/web/20140613010940id_/http%3A//www.wikitree.com/about/terms.html).
 
 This Privacy Policy is provided by Interesting.com, Inc. ("we" or "us") to describe the collection and use of information on WikiTree.com ("WikiTree", "Website", or "services") so that users ("you," "your," or "user") can make informed decisions. Section headings and bold text are included for convenience only.
 
@@ -14,7 +12,7 @@ This Privacy Policy is provided by Interesting.com, Inc. ("we" or "us") to descr
 
 We invite you to share information if you choose to use WikiTree — such as your name and e-mail address — that is considered "[Personally Identifiable Information](http://en.wikipedia.org/wiki/Personally_identifiable_information)". You may, of course, decline to submit Personally Identifiable Information to the Website, in which case you may not be able to register or WikiTree may not be able to provide certain services to you.
 
-If you submit Personally Identifiable Information through the Website, people you allow in your Trusted List will have access to this information. You can control which people can access your information through your Trusted List but those people could forward this information to other users or non-users.
+If you submit Personally Identifiable Information through the Website, people you allow in your Trusted List will have access to this information. You can control which people can access your information through your Trusted List but those people could forward this information to other users or non-users. There are also other risks, including those described below. **Do not post especially sensitive information on WikiTree.**
 
 ### Other Personal Information
 
@@ -28,7 +26,7 @@ You may update or remove any of your information on the Website at any time. You
 
 Protecting the privacy of young children is especially important and is mandated by United States law. Therefore, we do not knowingly collect Personally Identifiable Information on the Website from persons under 13 years of age, and no part of our Website is directed to persons under 13. If you are under 13 years of age, then you must not use or access the Website at any time or in any manner or provide any information to the Website.
 
-Do not supply to us or disclose on the Website any Personally Identifiable Information (except for a name to be used only as a placeholder) of any person under 13 years of age. Please see our [parental safety page](https://web.archive.org/web/20090602052918id_/http%3A//www.wikitree.com/about/safety.html) for information regarding the protection of children.
+Do not supply to us or disclose on the Website any Personally Identifiable Information (except for a name to be used only as a placeholder) of any person under 13 years of age. Please see our [parental safety page](https://web.archive.org/web/20140613010940id_/http%3A//www.wikitree.com/about/safety.html) for information regarding the protection of children.
 
 ### For International Users
 
@@ -70,6 +68,10 @@ We may provide information, including personal information, to affiliated compan
 ### Advertisements
 
 We use third-party advertising companies to serve ads when you visit our website. These companies may use non-personally identifiable information about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Google, [click here](http://www.google.com/privacy_ads.html).
+
+### Analytics
+
+We use Google Analytics to better understand how people are using our website. Google Analytics provides non-personally identifiable information about activity on our site, including information about our users’ demographics and interests.
 
 ### Changes to this Privacy Policy
 
