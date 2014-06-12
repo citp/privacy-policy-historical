@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videogamecentral.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104113307id_/http%3A//www.videogamecentral.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videogamecentral.com privacy policy that was archived on 2014-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140612063902id_/http%3A//www.videogamecentral.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
