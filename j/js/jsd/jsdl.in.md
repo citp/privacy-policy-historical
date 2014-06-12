@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jsdl.in privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807053756id_/http%3A//us.justdial.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jsdl.in privacy policy that was archived on 2014-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140612144404id_/http%3A//us.justdial.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Justdial US
 
-Login Sign Up  [](http://us.justdial.com/) [](http://us.justdial.com/) Chicago, IL  [National Search](http://us.justdial.com/allus)  Remember My Location 
+Login Sign Up  [](http://us.justdial.com/) [](http://us.justdial.com/) New York, NY  [National Search](http://us.justdial.com/allus)  Remember My Location 
 
 ###  Privacy Policy
 
