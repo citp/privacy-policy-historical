@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hollywoodchaos.com privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114140919id_/http%3A//www.hollywoodchaos.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollywoodchaos.com privacy policy that was archived on 2014-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140612112438id_/http%3A//hollywoodchaos.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - HollywoodChaos.com
 
