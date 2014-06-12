@@ -1,111 +1,119 @@
-> *The following text is extracted and transformed from the bts.gov privacy policy that was archived on 2013-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130929151911id_/http%3A//www.rita.dot.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bts.gov privacy policy that was archived on 2014-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140612050116id_/https%3A//www.rita.dot.gov/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Research and Innovative Technology Administration
 
-Thank you for visiting the U.S. Department of Transportation (DOT), Research and Innovative Technology Administration (RITA) website. We are committed to respecting your right to privacy and will protect it when you visit our website.
+###  Our Commitment
 
-This Privacy Policy explains our online information practices only, including how we collect and use your personal information. It covers information collected on this RITA website.  Our Privacy Policy does not apply to third party websites that you are able to reach from our website, nor does it cover practices of other elements within DOT. We encourage you to read the Privacy Policies of third parties and other DOT websites to learn how they collect and use information about you.
+We respect your right to privacy and will protect it when you visit our Web site.
 
-To assist you with reading our Privacy Policy, we have provided answers to the following questions:
+This Privacy Policy explains our online information practices only, including how we collect and use your personal information. It does not apply to third-party Web sites that you are able to reach from this Web site. However, the Department of Transportation does evaluate the privacy policies of its unofficial presences on third-party Web sites and third-party content rendering applications. We encourage you to read those privacy policies to learn how they collect and use your information. You may also read our Privacy Impact Assessments for these third-party Web site and content rendering applications.
 
-  * What information do we collect automatically online?
-  * What additional information do we collect about you online?
-  * Why do we collect your information online and how do we use it?
-  * How, and with whom, do we share the information we collect online?
-  * Do we give you choices on how we use the information you provide us?
-  * How long do we keep your information?
-  * What are our information practices for children?
-  * Do we use cookies or other tracking devices?
-  * How do we secure your information we collect online?
-  * What are your rights under the Privacy Act of 1974?
-  * How do you find out more about, or comment on, our privacy practices?
+###  What We Automatically Collect Online
 
+We collect information about your visit that does not identify you personally. We can tell the computer, browser, and Web service you are using. We also know the date, time, and pages you visit. Collecting this information helps us design the site to suit your needs. In the event of a known security or virus threat, we may collect information on the Web content you view.
 
+###  Other Information We May Collect
 
-**What information do we collect automatically online?**  
-When you visit our website, we collect information about your visit that does not identify you personally. We collect the type of computer, browser, and web service you are using. We also collect the date, time, RITA pages you visit, and if you linked to our website from another website, the address of that website. Collecting this information helps us design the RITA website to suit your needs.
+When you visit our Web site, we may request and collect the following categories of personal information from you:
 
-**What additional information do we collect about you online?**  
-When you visit our website, we may request and collect the following categories of personal information from you:
-
-  * Contact information if you submit a question, request, or comment.
+  * Contact information
+  * IDs and passwords
 
 
 
-**Why do we collect your information online and how do we use it?**  
-Our principal purpose for collecting personal information online is to provide you with the information you need and want, and to facilitate the use of our website.
+###  Why We Collect Information
 
-We will only use your information for the purposes for which you have provided this information, or for the purposes required under the law. (In order to learn more about how we provide choices to you regarding our use of your information, visit the “Do we give you choices on how we use the information you provide us?” section in this Privacy Policy.)
+Our principal purpose for collecting personal information online is to provide you with what you need and want, address security and virus concerns, and to ease the use of our Web site.
 
-Generally, our uses of information collected online include:
+We will only use your information for the purposes you intended, to address security or virus threats, or for the purposes required under the law. See “Choices on How We Use the Information You Provide” to learn more.
 
-  * Responding to your questions or requests;
-  * Replying to your “feedback” comments;
-  * Managing your access to restricted areas of the website; or
-  * Fulfilling your requests for reports, publications, subscriptions, and other similar information.
+We collect information to:
 
-
-
-**How, and with whom, do we share the information we collect online?**  
-We may share personally identifiable information you provide to us online with appropriate representatives within the Department of Transportation’s [Operating Administrations and related entities](http://www.bts.gov/external_links/government/federal/executive/cabinet/department_of_transportation.html), other federal government agencies, or other designated RITA representatives as needed to facilitate your request or transaction.
-
-Additionally, we may be required by law to share information we collect with authorized law enforcement, homeland security, and national security entities (also see the “What are your rights under the Privacy Act of 1974?” section in this Privacy Policy).
-
-**Do we give you choices on how we use the information you provide us?**  
-Throughout our website, we will let you know whether the information we ask you to provide is voluntary or required. By providing personally identifiable information, you are granting us consent to use this personally identifiable information for the primary purpose for which you are providing it.  Additionally, we will ask you to grant us consent before using your voluntarily provided information for any secondary purposes, other than those required under the law.
-
-**How long do we keep your information?**  
-For business mailing addresses, we retain your information indefinitely and it does not get removed unless you send a request to [Email RITA](https://ntl.custhelp.com/app/ask).
-
-For personal mailing addresses, we usually keep your personally identifiable information for up to 45 days.  After 45 days, we will maintain only your e-mail address in the event we need to contact you concerning your publication order.
-
-**What are our information practices for children?**  
-Our website does not intentionally collect information from children under the age of 13. If we choose to collect personal information from children, we will comply with the [Children’s Online Privacy Protection Act (COPPA)](http://www.ftc.gov/privacy/privacyinitiatives/childrens.html "You are leaving DOT").
-
-**Do we use cookies or other tracking devices?**  
-A “cookie” is a small text file that is stored on your computer and makes it easy for you to move around a website.
-
-We use only “session” cookies; this means we store the cookie on your computer only during each visit to our website. After you turn off your computer or stop using the Internet, the cookie is erased and nothing will be remembered the next time you visit our website.
-
-**How do we secure your information we collect online?**  
-We are committed to properly securing the information we collect online. To help us accomplish this, we take the following steps:
-
-  * We employ internal access controls to ensure that the only people who see your information are those with a need to do so to perform their official duties;
-  * We train relevant personnel on our privacy and security measures so that our personnel know what is required for compliance;
-  * We physically secure the areas where we hold hard copies of the information we collect online;
-  * We regularly back up the information we collect online to insure against loss;
-  * We use technical controls to secure the information we collect online as appropriate, including but not limited to: Secure Socket Layer (SSL), encryption, firewalls, and password protections;
-  * We periodically test our security procedures to ensure personnel and technical compliance; and
-  * We employ external access safeguards to identify and prevent unauthorized attempts of outsiders to hack into, or cause harm to, the information in our systems.
-  * Tampering with RITA’ website is against the law. If anyone tries to tamper with it, they may be punished under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act.
+  * Respond to your complaints
+  * Reply to your “feedback comments”
+  * Manage your access to restricted areas of the Web site
+  * Fulfill requests for reports and other similar information
+  * Register you for a member account
 
 
 
-**What are your rights under the Privacy Act of 1974?**  
-The Privacy Act of 1974 protects personal information the federal government collects and stores in a “systems of records” (SOR). A SOR is information an agency controls that can be retrieved by name or some other personal identifier. The Privacy Act regulates how the government can disclose, share, provide access to, and maintain the personal information that it collects. Not all information collected online is covered by the Privacy Act.
+###  Sharing Your Information
 
-The Privacy Act’s major provisions require agencies to:
+We may share personally identifiable information you provide to us online with representatives within the Department of Transportation’s [Operating Administrations](http://www.dot.gov/administrations) and related entities, other Federal government agencies, or other named representatives as needed to speed your request or transaction. In a government-wide effort to combat security and virus threats, we may share some information we collect automatically, such as IP address, with other Federal government agencies.
 
-  * Publish a Privacy Act Notice in the Federal Register explaining the existence, character and uses of a new or revised SOR;
-  * Keep information about you accurate, relevant, timely, and complete to assure fairness in dealing with you; and
-  * Upon request, allow you to access and review your information held in a SOR and request amendment of the information if you disagree with it.
+Also, the law may require us to share collected information with authorized law enforcement, homeland security, and national security activities. See the Privacy Act of 1974 below.
+
+###  Choices on How We Use the Information You Provide
+
+Throughout our Web site, we will let you know whether the information we ask you to provide is voluntary or required. By providing personally identifiable information, you grant us consent to use this information, but only for the primary reason you are giving it. We will ask you to grant us consent before using your voluntarily provided information for any secondary purposes, other than those required under the law.
+
+###  Information Practices for Children
+
+We do not intentionally collect information from children under the age of 13. If in the future we choose to collect personal information from children, we will comply with the [Children’s Online Privacy Protection Act (COPPA)](http://www.ftc.gov/privacy/privacyinitiatives/childrens.html).
+
+###  Cookies or Other Tracking Devices
+
+A “cookie” is a small text file stored on your computer that makes it easy for you to move around a Web site without continually re-entering your name, password, preferences, for example.
+
+We use “session” cookies on our Web site. This means we store the cookie on your computer only during your visit to our Web site. After you turn off your computer or stop using the Internet, the cookie disappears with your personal information. DOT Web sites may use session cookies for technical purposes such as to enable better navigation through the site, or to allow you to customize your preferences for interacting with the site.
+
+A few DOT Web sites may also use “persistent” or “multi-session” cookies on our Web site. This means we store the cookie on your computer even after you visit our Web site. Some of these cookies may collect your personal information. You will be prompted to “opt-in” to the use of cookies that collect your personal information. DOT Web sites may use these cookies to remember you between visits so, for example, you can save your customized preference settings for future visits.
+
+You also have the right to “opt-out” of the use Web measurement and cookie technologies. If you “opt-out,” your access to information on our Web site will not be limited. [Click here for instructions on how to opt-out of these technologies](http://www.usa.gov/optout_instructions.shtml).
+
+Each DOT site using persistent cookies identifies itself as doing so. A complete list of the Web measurement and persistent cookie technologies in use on DOT Web sites is provided here.
+
+###  Securing Your Information
+
+Properly securing the information we collect online is a primary commitment. To help us do this, we take the following steps:
+
+  * Employ internal access controls to ensure that the only people who see your information are those with a need to do so to perform their official duties
+  * Train relevant personnel on our privacy and security measures
+  * Secure the areas where we hold hard copies of information we collect online
+  * Perform regular backups of the information we collect online to insure against loss
+  * Use technical controls to secure the information we collect online including but not limited to: 
+    * Secure Socket Layer (SSL)
+    * Encryption
+    * Firewalls
+    * User ID and Password protections
+  * We periodically test our security procedures to ensure personnel and technical compliance
+  * We employ external access safeguards to identify and prevent unauthorized tries of outsiders to hack into, or cause harm to, the information in our systems
 
 
 
-When RITA collects information from you online that is subject to the Privacy Act (i.e., information to be kept in a SOR), we will provide you, through a link on the web page from which we collect information, access to our [Privacy Act Notice](http://cio.ost.dot.gov/DOT/OST/Documents/files/records.html). This Privacy Act Notice will inform you what portion of the information is maintained and retrieved by your name or other personal identifier.
+Tampering with DOT’s Web site is against the law. Depending on the offense, it is punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act.
 
-Each Privacy Act Notice will also notify you of the following:
+###  Your Rights Under the Privacy Act of 1974
 
-  * The authority for and purpose and use of the collection of information subject to the Privacy Act;
-  * Whether providing the information is voluntary or mandatory; and
-  * The effects on you if you do not provide any or all of the requested information.
+The Privacy Act of 1974 protects the personal information the Federal government keeps on you in systems of records (SOR) (information the DOT controls recovered by name or other personal identifier). The Privacy Act regulates how the government can disclose, share, provide access to, and keep the personal information that it collects. The Privacy Act does not cover all information collected online.
+
+The Act’s major terms require agencies to:
+
+  * Publish a Privacy Act Notice in the Federal Register explaining the existence, character and uses of a new or revised SOR
+  * Keep information about you accurate, relevant, timely and complete to assure fairness in dealing with you
+  * Allow you to, on request, access and review your information held in an SOR and request amendment of the information if you disagree with it.
 
 
 
-Also, DOT has conducted [Privacy Impact Assessments](http://www.dot.gov/citizens/privacy/privacy-impact-assessments) on some systems.
+When the DOT collects information from you online that is subject to the Privacy Act (information kept in an SOR), we will provide a Privacy Act Statement specific to that collected information. This Privacy Act Statement tells you:
 
-**How do you find out more about, or comment on, our privacy practices?**  
-For more information on our privacy practices, or for comments and concerns, please contact:
+  * The authority for and the purpose and use of the information collected subject to the Privacy Act
+  * Whether providing the information is voluntary or mandatory
+  * The effects on you if you do not provide any or all requested information
+
+
+
+[View our Privacy Act Notices](http://www.dot.gov/individuals/privacy/privacy-act-system-records-notices)
+
+###  Our Privacy Practices
+
+For more information or for comments and concerns on our privacy practices, please contact our Departmental Privacy Officer at [privacy@dot.gov](mailto:privacy@dot.gov).
+
+DOT has conducted Privacy Impact Assessments on applicable systems.
+
+[View our Privacy Impact Assessments](http://www.dot.gov/individuals/privacy/privacy-impact-assessments)
+
+###  Contact
 
 Bob Monniere  
 Attorney Advisor  
