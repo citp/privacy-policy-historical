@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wordplays.com privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809195457id_/http%3A//www.wordplays.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordplays.com privacy policy that was archived on 2014-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140612075315id_/http%3A//www.wordplays.com/administration/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy
 
 #### Privacy Statement
 
-www.wordplays.com gathers information that users provide through optional, voluntary registration. We do not sell this information or make this information public, with the exception of displaying the screen name and city on the high score list. You may choose to make other registration information public. If you do so, this information is accessible by clicking on the screen name if you make it on the high score list. If you have checked "Send me updates" on the registration page we may occasionally send e-mail to the address you provided. We aggregate tracking information derived mainly by tallying page views throughout the site and tracking games played, but this information is not specific to any individual user or account. 
+www.wordplays.com gathers information that users provide through optional, voluntary registration. We do not sell this information or make this information public, with the exception of displaying the screen name and city on the high score list. You may choose to make other registration information public. If you do so, this information is accessible by clicking on the screen name if you make it on the high score list. If you have checked “Send me updates” on the registration page we may occasionally send e-mail to the address you provided. We aggregate tracking information derived mainly by tallying page views throughout the site and tracking games played, but this information is not specific to any individual user or account. 
 
 #### Online Behavioral Advertising
 
