@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pima.gov privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208130135id_/http%3A//webcms.pima.gov/hipaa_privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pima.gov privacy policy that was archived on 2014-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140612120159id_/http%3A//webcms.pima.gov/hipaa_privacy_statement) for the most accurate reproduction.*
 
 # HIPAA/Privacy Statement - Pima County
 
@@ -14,12 +14,12 @@ Pima County collects no personally identifying information about individuals exc
 
 Among the information that may be collected to manage the communications between the server and the browser are:
 
-  * The name of the domain and IP address from which you access our web site
-  * The type of browser used to access our site
-  * The date and time of access
-  * The Internet address of the web site from which you linked directly to our site
-  * The pages you visit
-  * Sections of the web site you attempted to visit but were unable to access due to programming or other technical problems.
+  * The name of the domain and IP address from which you access our web site 
+  * The type of browser used to access our site 
+  * The date and time of access 
+  * The Internet address of the web site from which you linked directly to our site 
+  * The pages you visit 
+  * Sections of the web site you attempted to visit but were unable to access due to programming or other technical problems. 
 
 
 
@@ -55,7 +55,7 @@ Pima County is required by law to take reasonable steps to ensure the privacy of
   * Your rights with respect to your PHI; 
   * Pima County's duties with respect to PHI; 
   * Your right to file a complaint with Pima County and to the Secretary of the U.S. Department of Health and Human Services; and 
-  * The identification of the person or office to contact for further information about Pima County's privacy practices.
+  * The identification of the person or office to contact for further information about Pima County's privacy practices. 
 
   
 Please learn more by visiting our [HIPAA/Privacy Practices](http://webcms.pima.gov/cms/One.aspx?portalId=169&pageId=44283 "HIPAA/Privacy Practices")
