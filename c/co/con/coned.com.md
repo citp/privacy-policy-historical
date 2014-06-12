@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coned.com privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809203923id_/http%3A//www.coned.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coned.com privacy policy that was archived on 2014-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140612040639id_/http%3A//www.coned.com/privacy) for the most accurate reproduction.*
 
 # Con Edison: privacy - Con Edison Internet Privacy Statement
 
@@ -44,5 +44,7 @@ Children's Privacy: While we maintain energy-related educational content directe
 Corrections to Your Customer Information: If you believe any of your customer information that we collect or maintain is incorrect, please write to us at: 4 Irving Place, New York, N.Y. 10003; Attn: Executive Action Group, 9th Floor, or contact us at [corpcom@conEd.com](mailto:corpcom@conEd.com). 
 
 Modifications to this Policy: Con Edison may modify this policy from time to time to reflect legal, technological, or other developments. Any modifications will appear on the Privacy Policy page at www.conEd.com. 
+
+To unsubscribe from promotional and marketing e-mails, please click the link found at the bottom of each e-mail. 
 
 Compliance: If you have questions about this privacy policy, or if you believe that we are not following the policy as it is set forth here, you may contact us by e-mail at [corpcom@conEd.com](mailto:corpcom@conEd.com), or by writing to us at our mailing address: 4 Irving Place, New York, N.Y. 10003; Attn: Executive Action Group, 9th Floor. 
