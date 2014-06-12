@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cheatography.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212223220id_/http%3A//www.cheatography.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheatography.com privacy policy that was archived on 2014-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140613003421id_/http%3A//www.cheatography.com/privacy) for the most accurate reproduction.*
 
-# Your Privacy - Cheatography.com
+# Your Privacy - Cheatography.com: Cheat Sheets For Every Occasion
 
 ## What is this?
 
-As a user or member of Cheatography, you may share information with us, and this document outlines what information we collect about you and how we use it. 
+As a user or member of Cheatography, you may share information with us, and this document outlines what information we collect about you and how we use it.
 
 ## Changes
 
