@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brownthomas.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211183004id_/http%3A//www.brownthomas.com/about-brown-thomas/privacy%2Bcookie-policy/page/brownthomasprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brownthomas.com privacy policy that was archived on 2014-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140612075843id_/http%3A//www.brownthomas.com/about-brown-thomas/privacy%2Bcookie-policy/page/brownthomasprivacypolicy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy at Brown Thomas
 
