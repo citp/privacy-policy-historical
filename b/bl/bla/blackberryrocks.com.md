@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackberryrocks.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207102114id_/http%3A//blackberryrocks.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackberryrocks.com privacy policy that was archived on 2014-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140612121220id_/http%3A//blackberryrocks.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy | BlackBerryRocks.com
 
@@ -20,4 +20,4 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
-BlackBerryRocks is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com, endless.com, smallparts.com or myhabit.com.
+BlackBerryRocks is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com, endless.com, smallparts.com or myhabit.com. 
