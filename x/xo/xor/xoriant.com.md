@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the xoriant.com privacy policy that was archived on 2013-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130917110942id_/http%3A//www.xoriant.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xoriant.com privacy policy that was archived on 2014-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140612211144id_/http%3A//www.xoriant.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Xoriant
 
 Copyright © 2012 Xoriant, Inc. All Rights Reserved.
 
@@ -12,4 +12,4 @@ At no time, however, will Xoriant, sell, trade, rent or distribute personal info
 
 This web site may make message boards, forums, chat rooms, and/or news groups available to its users. Please understand that any information disclosed in these areas becomes public information. These areas shall be used in a noncommercial manner only. You shall not publish or otherwise distribute any content containing a solicitation of funds, advertising, promotion, solicitation for goods or services, or other commercial matter. Except where expressly authorized by Xoriant, you agree not to store or collect data about other users on the web site.
 
-Xoriant may provide links to Internet sites maintained by others. Xoriant is not responsible for the contents of, or any products or services offered in, those third party web sites. You should be aware when you are leaving Xoriant's web sites and be sure to read the privacy statements of each and every web site that collects personally identifiable information. Any links provided by Xoriant to any third party web site are provided to you as a convenience only. You should not infer that Xoriant endorses or accepts responsibility for non-Xoriant web sites by the inclusion of any such links to those web sites. 
+Xoriant may provide links to Internet sites maintained by others. Xoriant is not responsible for the contents of, or any products or services offered in, those third party web sites. You should be aware when you are leaving Xoriant's web sites and be sure to read the privacy statements of each and every web site that collects personally identifiable information. Any links provided by Xoriant to any third party web site are provided to you as a convenience only. You should not infer that Xoriant endorses or accepts responsibility for non-Xoriant web sites by the inclusion of any such links to those web sites.
