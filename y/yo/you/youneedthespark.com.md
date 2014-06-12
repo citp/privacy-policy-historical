@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youneedthespark.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121123029id_/http%3A//eliteimsolutions.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youneedthespark.com privacy policy that was archived on 2014-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140612073920id_/http%3A//eliteimsolutions.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Elite IM Solutions
 
