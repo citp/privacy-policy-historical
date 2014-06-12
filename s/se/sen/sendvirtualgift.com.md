@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sendvirtualgift.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231032325id_/http%3A//www.iminent.com/Corporate/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sendvirtualgift.com privacy policy that was archived on 2014-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140612202827id_/http%3A//www.iminent.com/Corporate/Privacy) for the most accurate reproduction.*
 
 # Iminent -Free download: Smileys, Emoticons & Games for Facebook, Messengers & Emails!
 
-Last Updated Date: 05-16-2011
+Last Updated Date: 04-29-2014
 
 IMINENT provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of search.iminent.com or start.iminent.com (the **Site** ) and IMINENT products Iminent, SearchTheWeb (or StartWeb) and the IMINENT TOOLBAR (collectively the **Application** ).
 
@@ -80,6 +80,6 @@ Attention: Privacy Issues
 20, Rue Bouvier, 75011 Paris, France  
 Address: [support@iminent.com](mailto:support@iminent.com).
 
-Iminent is compatible with : Windows Xp, Vista, 7 & Internet Explorer 8.0 or higher, Mozilla Firefox 3.6.8 or higher. [ Learn more](https://web.archive.org/service/iminentapp/)
+Iminent is compatible with : Windows Xp, Vista, 7, 8 & Internet Explorer 9.0 or higher, Mozilla Firefox 27 or higher and Chrome 32 or higher. [ Learn more](https://web.archive.org/service/iminentapp/)
 
 Microsoft, Twitter, Yahoo and other properties whose names may appear on our site or within Iminent or Imbooster and its associated elements are trademarks of their respective owners. The use of these tradenames is purely informative and exemplary – it does not connote sponsorship, authorization, or endorsement of Sien SA. 
