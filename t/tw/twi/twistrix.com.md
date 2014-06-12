@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the twistrix.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213143110id_/http%3A//www.twistrix.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twistrix.com privacy policy that was archived on 2014-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140613004636id_/http%3A//twistrix.com/privacy.php) for the most accurate reproduction.*
 
-# Welcome to twistrix
+# Twistrix :: Traffic Exchange, Solo Ads and Social Marketing.
 
 **THIS PRIVACY STATEMENT DISCLOSES THE PRIVACY PRACTICES FOR Twistrix.com**
 
