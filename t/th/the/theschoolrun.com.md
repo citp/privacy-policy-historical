@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the theschoolrun.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212120954id_/http%3A//www.theschoolrun.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theschoolrun.com privacy policy that was archived on 2014-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140612181021id_/http%3A//www.theschoolrun.com/privacy-policy) for the most accurate reproduction.*
 
 # TheSchoolRun's privacy policy | TheSchoolRun
 
 This policy (together with our terms and conditions and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-We are committed to protecting your privacy. We will only use the information that we collect about you lawfully, in accordance with the Data Protection Act 1998.
+We are committed to protecting your privacy. We will only use the information that we collect about you lawfully, in accordance with the Data Protection Act 1998 and the EC Communications Directive 2003.
 
 We collect information about you for three reasons: firstly, to process your order, secondly, to submit your competition/prize draw entries (when applicable) and thirdly, to provide you with the best possible service.
 
