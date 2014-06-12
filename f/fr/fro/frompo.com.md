@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the frompo.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201212623id_/http%3A//www.frompo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frompo.com privacy policy that was archived on 2014-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140612065655id_/http%3A//frompo.com/privacy-policy) for the most accurate reproduction.*
 
-# Image Search, Video Search , News Search - Frompo.com
+# 
 
-Privacy Policy
+**Privacy Policy**
 
-Frompo, Inc. respects your privacy and realizes that trust is the foundation of our relationship with you. This Privacy Policy describes the information we collect about you, how it is used, and with whom we may or may not share it. We also offer you options regarding your privacy choices more fully described below. 
+Frompo, Inc. respects your privacy and realizes that trust is the foundation of our relationship with you. This Privacy Policy describes the information we collect about you, how it is used, and with whom we may or may not share it. We also offer you options regarding your privacy choices more fully described below.
 
-This Privacy Policy only covers the Frompo website along with any and all related pages on Frompo.com. We are not responsible for the privacy practices on any website other than Frompo.com. For example, we do not exercise control over the sites that appear as search results when you use the Frompo website. When you leave the Frompo website, we encourage you to carefully review the privacy policies on all other websites that you visit. 
+This Privacy Policy only covers the Frompo website along with any and all related pages on Frompo.com. We are not responsible for the privacy practices on any website other than Frompo.com. For example, we do not exercise control over the sites that appear as search results when you use the Frompo website. When you leave the Frompo website, we encourage you to carefully review the privacy policies on all other websites that you visit.
 
 **INFORMATION WE COLLECT FROM YOU**
 
@@ -16,11 +16,11 @@ When you use **Frompo** , we may collect the following information fields from y
 
 **HOW WE MINIMIZE DATA STORED ABOUT YOU**
 
-To enhance user privacy, within 48 hours of your visit to our website; we will erase from our visit logs your entire IP address and the browser user agent string. However, our vendors may keep your IP Address, user agent string and isolated search strings from you for longer, but they are instructed to keep this data secure. 
+To enhance user privacy, within 48 hours of your visit to our website; we will erase from our visit logs your entire IP address and the browser user agent string. However, our vendors may keep your IP Address, user agent string and isolated search strings from you for longer, but they are instructed to keep this data secure.
 
 **HOW WE USE YOUR INFORMATION**
 
-Search engines, by their very nature, must use information provided by you to deliver research results. Like other search engines, our website requires sharing a minimum amount of information to function as a search engine. But, we also permit you to crowd source your searches (solicit input from others to enhance your web research). The 'social' element to Frompo requires us to use information in additional ways to provide the enhanced collaborative functionality. Below, we fully describe how we use 
+Search engines, by their very nature, must use information provided by you to deliver research results. Like other search engines, our website requires sharing a minimum amount of information to function as a search engine. But, we also permit you to crowd source your searches (solicit input from others to enhance your web research). The 'social' element to Frompo requires us to use information in additional ways to provide the enhanced collaborative functionality. Below, we fully describe how we use
 
 information provided to us so that you can make the decision of whether or not to use our website and its enhanced functionalities. 
 
@@ -42,7 +42,7 @@ Frompo's website offers you options to set preferences that enhance privacy:
 
 
 
-Please be advised that all Frompo preferences mentioned above operate via browser-based cookies. If you delete Frompo cookies regarding your privacy , your web browser will not be able to put your privacy preferences into effect. 
+Please be advised that all Frompo preferences mentioned above operate via browser-based cookies. If you delete Frompo cookies regarding your privacy , your web browser will not be able to put your privacy preferences into effect.
 
 **OTHER ITEMS OF WHICH YOU SHOULD BE AWARE**
 
@@ -63,8 +63,8 @@ In certain circumstances, Frompo may release the information it collects for the
 
 
 
-Should any of the above circumstances occur, Frompo may permanently retain information (such as IP addresses) which would ordinarily be erased after 48 hours under this privacy policy. We may also retain information for longer than 48 hours for debugging failures, crashes, incorrect operation or performance issues with Frompo's software. Frompo may also share non-personal information about you, in the aggregate, to third parties in the event that you have not selected our SuperPrivacy® setting. 
+Should any of the above circumstances occur, Frompo may permanently retain information (such as IP addresses) which would ordinarily be erased after 48 hours under this privacy policy. We may also retain information for longer than 48 hours for debugging failures, crashes, incorrect operation or performance issues with Frompo's software. Frompo may also share non-personal information about you, in the aggregate, to third parties in the event that you have not selected our SuperPrivacy® setting.
 
 **CHANGES TO THIS PRIVACY POLICY**
 
-Frompo may update this Privacy Policy from time to time. We will notify you about significant changes in the way we treat your personal information by sending a notice to the primary email address you have specified in your Frompo account or by placing a prominent notice on the Frompo website. 
+Frompo may update this Privacy Policy from time to time. We will notify you about significant changes in the way we treat your personal information by sending a notice to the primary email address you have specified in your Frompo account or by placing a prominent notice on the Frompo website.
