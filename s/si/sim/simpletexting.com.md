@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simpletexting.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126212930id_/http%3A//simpletexting.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simpletexting.com privacy policy that was archived on 2014-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140612022502id_/http%3A//simpletexting.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy -
 
