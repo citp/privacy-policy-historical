@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the reachnyc.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224062815id_/http%3A//www.reachnyc.com/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reachnyc.com privacy policy that was archived on 2014-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140613010750id_/http%3A//www.reachnyc.com/terms) for the most accurate reproduction.*
 
-# ReachNYC.com – Privacy Policy
+# Privacy Policy | ReachNYC.com
 
 Terms of Use
 
