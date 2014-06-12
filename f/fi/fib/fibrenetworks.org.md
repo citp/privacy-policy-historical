@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fibrenetworks.org privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211000354id_/http%3A//www.fibrenetworks.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fibrenetworks.org privacy policy that was archived on 2014-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140612104532id_/http%3A//fibrenetworks.org/privacy.html) for the most accurate reproduction.*
 
 # Fibre Networks :: Professional Hosting Solutions
 
