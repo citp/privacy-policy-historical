@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the balglobal.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209233409id_/http%3A//www.balglobal.com/home/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the balglobal.com privacy policy that was archived on 2014-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140612224301id_/http%3A//www.balglobal.com/home/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Effective August 25, 2011
+Effective June 4, 2014
 
 _Collection, Use and Disclosure of Personal Information via this Website_
 
 This privacy statement describes how Berry Appleman and Leiden LLP (BAL) collects certain personal information through various means, including questionnaires and its website, www.balglobal.com.  BAL is committed to ensuring that your privacy is protected.  The following describes what information is collected and explains how that information may be used and shared with third parties.  Use of this site constitutes consent to BAL’s collection and use of personal data as outlined therein.
 
-Berry Appleman & Leiden LLP has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information.  The TRUSTe program only covers information that is collected on the Web site www.balglobal.com.  TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.  If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@balglobal.com](mailto:privacy@balglobal.com).  If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). ****
+Berry Appleman & Leiden LLP has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information.  The TRUSTe program only covers information that is collected on the Web site www.balglobal.com.  TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.  If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@balglobal.com](mailto:privacy@balglobal.com).  If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). ****
 
 Berry Appleman & Leiden LLP complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  Berry Appleman & Leiden LLP has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view Berry Appleman & Leiden LLP’s certification, please visit <http://www.export.gov/safeharbor/>.
 
@@ -25,6 +25,8 @@ If your personally identifiable information changes, or if you no longer desire 
 **Links to Other Web Sites** ****
 
 Our Site includes links to other Web sites whose privacy practices may differ from those of BAL.  If you submit personal information to any of those sites, your information is governed by their privacy statements.  We encourage you to carefully read the privacy statement of any Web site you visit. 
+
+Our Web site includes Social Media Features, such as the Facebook Like button [and Widgets, such as the Share this button or interactive mini-programs that run on our site]. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly.  Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site.  Your interactions with these Features are governed by the privacy policy of the company providing it.
 
 **Cookies and Other Tracking Technologies**
 
@@ -46,10 +48,9 @@ California
 94111  
 Tel: (855) 225-4570
 
-[](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.balglobal.com/seal_m "Validate TRUSTe privacy certification") |   |   |   | [](https://privacy-policy.truste.com/click-with-confidence/wps/en/www.balglobal.com/seal_m "TRUSTe online privacy certification") |   |   |   | [](https://privacy-policy.truste.com/click-with-confidence/eusafe/en/www.balglobal.com/seal_m "TRUSTe European Safe Harbor certification")  
-  
----|---|---|---|---|---|---|---|---  
-  |   |   |   | 
+[](https://privacy.truste.com/privacy-seal/Berry,-Appleman---Leiden-LLP/validation?rid=213f65bd-ce96-42c0-8a11-2a11cbb1b1eb "TRUSTe European Safe Harbor certification")
+
+|   |   |   |   |   |   |   |   | 
 
  
 
@@ -58,4 +59,5 @@ Tel: (855) 225-4570
 
 [ ](http://safeharbor.export.gov/list.aspx)[](http://www.export.gov/safeharbor)
 
-|  
+|    
+---|---|---|---|---|---|---|---|---|---|---
