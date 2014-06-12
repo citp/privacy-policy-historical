@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the staffmeup.com privacy policy that was archived on 2013-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131213130750id_/http%3A//staffmeup.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the staffmeup.com privacy policy that was archived on 2014-06-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140613015651id_/http%3A//staffmeup.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" lang="en"><head>
 	<title>Privacy Policy</title>	<meta name="google-site-verification" content="D9Hs5hSXV-Y0WjhQS1OBUsR1cFy-5sF_Juntlhlwk3k">
@@ -7,7 +7,8 @@
 <meta http-equiv="Content-Language" content="en-US">
 <meta name="description" content="Staff Me Up is the Nations largest source for Film &amp; TV Production jobs. Sign up today for a Premium account and get a 7 Day Free Trial!">
 <meta property="fb:app_id" content="123034011114366">	<link href="/images/favicon.png" rel="shortcut icon">
-<link href="/min/g=css-v13" media="screen,print" rel="stylesheet" type="text/css">		<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-VXTV"></script><script type="text/javascript" src="/min/g=js-v13"></script>	<!-- Ads -->
+<link href="/min/g=css-v19" media="screen,print" rel="stylesheet" type="text/css">		<script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/45ca5892c065ac605d0b1ff1cc8b5e44feadac44.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-VXTV"></script><script type="text/javascript" src="//maps.googleapis.com/maps/api/js?v=3&amp;key=AIzaSyC6fvzWzfcu0sj1jQTy6VpOW-b79Y4iYYg&amp;sensor=false&amp;libraries=places"></script>
+<script type="text/javascript" src="/min/g=js-v19"></script>	<!-- Ads -->
 <script type="text/javascript">
 	(function() {
 		var useSSL = 'https:' == document.location.protocol;
@@ -31,7 +32,8 @@
 	googletag.pubads().enableSyncRendering();
 	googletag.enableServices();
 </script>
-
+<link href="http://fonts.googleapis.com/css?family=Lato:400,100,100italic,300,300italic,400italic,700,700italic,900,900italic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=Oswald:400,300,700" rel="stylesheet" type="text/css">
 </head>
 <body class="">
 	<div id="master-container">
@@ -41,26 +43,106 @@
 			<a href="/"><img src="/images/logo.png" alt="Logo"></a>
 		</div>
 
-														<div id="div-gpt-ad-StaffMeUp-11">
+														<div id="div-gpt-ad-StaffMeUp-11" class="topadMain">
 						<script type="text/javascript">
 							googletag.display('div-gpt-ad-StaffMeUp-11');
 						</script>
 					</div>
-											<div style="clear: both;"></div>
+											<div style="clear:both;"></div>
 	</div>
-</div>		<div id="top-navigation">
+</div>		<script>
+		$(function() {
+			var pull 		= $('#pull');
+				menu 		= $('nav ul');
+				menuHeight	= menu.height();
+
+			$(pull).on('click', function(e) {
+				e.preventDefault();
+				menu.slideToggle();
+			});
+
+			$(window).resize(function(){
+        		var w = $(window).width();
+        		if(w > 320 && menu.is(':hidden')) {
+        			menu.removeAttr('style');
+        		}
+    		});
+		});
+	</script>
+<div id="top-navigation">
 	<div class="wrapper">
-				<a href="/jobs">Find Job</a>
-		<a href="/account/jobs/add">Post Job</a>
-		<a href="/account/network">Network</a>
-		<a href="/search">Search</a>
-		<a href="/social-map">Social Map</a>
-					<a href="/account/subscription/signup?register">Pricing</a>
-				<a href="/advertise">Advertise</a>
-		<a href="/how-it-works">How It Works</a>
-					<a href="/login">Login</a>
-					</div>
-</div>		<div id="header">
+        <nav class="clearfix">
+        <ul class="clearfix">
+				<li><a href="/jobs">Find Job</a></li>
+		<li><a href="/account/jobs/add">Post Job</a></li>
+		<li><a href="/account/network">Network</a></li>
+		<li><a href="/search">Search</a></li>
+		<li><a href="/social-map">Social Map</a></li>
+				<li><a href="/account/subscription/signup?register">Pricing</a></li>
+				<li><a href="/advertise">Advertise</a></li>
+		<li><a href="/how-it-works">How It Works</a></li>
+				<li><a href="/login">Login</a></li>
+				        
+        </ul>
+        <a href="#" id="pull">Menu</a>
+        </nav>
+	</div>
+</div>
+
+		
+	
+		<form id="universal" class="wrapper" action="/search/universal" method="post">
+<input type="text" id="universalSearch" name="universalSearch" size="50" placeholder="Enter Name, Show Title, or Position to search">
+<input type="button" id="universalSearchSubmit" value="Search">
+</form>
+<script type="text/javascript">
+$(function(){
+//	var watermark = 'Enter Name, Show Title, or Position to search';
+//	$('#universalSearch').val(watermark).addClass('watermark');
+	
+//	$('#universalSearch').focus(function()	{
+//		if ($(this).val() == $(this).attr('placeholder'))	{
+//			$(this).val('').removeClass('watermark');
+//		}
+//	});
+
+	$('#universalSearch').autocomplete({
+		source: "/ajax?action=UniversalSearch:search&format=json&limit=15",
+		minLength: 3,
+		select: function(event, ui) {
+			//just in case, set up the select value
+			$(this).val(ui.item.label);
+			
+			//set variables
+			var table = ui.item.table;			
+			var link = ui.item.link;
+		
+			//in case user choose name or show titles, redirect
+			if (table == 'Accounts' || table == 'Titles'){
+				$(location).attr('href',link);				
+			}
+			
+			//attach a form to the document body for positions search
+			if (table == 'Positions'){
+				var _id = ui.item.id;
+				var _val = ui.item.value;		
+				$('<form id = "hidden" action="/search/experience" method="post" style="display: none;"><input type = "hidden" name="universalPositionID" id = "universalPositionID"><input type = "hidden" id = "universalPosition" name ="universalPosition"></form>').appendTo('body');			
+				$("#universalPositionID").val(_id);
+				$("#universalPosition").val(_val);			
+				$('#hidden').submit();						
+			}			
+		}		
+	});
+	
+	$('#universalSearchSubmit').click(function(){
+		//validate the input
+//		if ($('#universalSearch').val() == ''||$('#universalSearch').val() == watermark){
+//			return false;
+//		}
+		$('#universal').submit();	
+	});	
+});
+</script>		<div id="header">
 			<div id="header-inner" class="wrapper">
 				<div id="headline"><h1>Privacy Policy</h1></div>
 			</div>
@@ -71,43 +153,83 @@
 			<!-- CMS -->
 									<div id="cms-content-area">
 				<p><strong>What information do we collect?</strong></p>
+
 <p>We collect information from you when you register on our site.</p>
+
 <p>When ordering or registering on our site, as appropriate, you may be asked to enter your name or e-mail address. You may, however, visit our site anonymously.</p>
+
 <p><strong>What do we use your information for?</strong></p>
+
 <p>Any of the information we collect from you may be used in one of the following ways:</p>
-<p>• To process transactions<br>Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.</p>
+
+<p>• To process transactions<br>
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.</p>
+
 <p>• To send periodic emails</p>
+
 <p>The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.</p>
+
 <p><strong>How do we protect your information?</strong></p>
+
 <p>We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.</p>
+
 <p>We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.</p>
+
 <p>After a transaction, your private information (credit cards, address, etc.) will not be kept on file. All further transaction will happen securely through Authorize.net</p>
+
 <p><strong>Do we use cookies?</strong></p>
-<p>Yes, but not for advertising purposes. We only use them to remember the filters that you set when you are browing the site so that when you come back to the job board, for example, it remembers that you were only looking for specific jobs that match the filters you set.<br><br><strong>Do we disclose any information to outside parties?</strong></p>
+
+<p>Yes, but not for advertising purposes. We only use them to remember the filters that you set when you are browing the site so that when you come back to the job board, for example, it remembers that you were only looking for specific jobs that match the filters you set.<br>
+<br>
+<strong>Do we disclose any information to outside parties?</strong></p>
+
 <p>We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.</p>
+
 <p><strong>California Online Privacy Protection Act Compliance</strong></p>
+
 <p>Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.</p>
+
 <p>As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'Edit Account' page.</p>
+
 <p><strong>Childrens Online Privacy Protection Act Compliance</strong></p>
+
 <p>We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.</p>
+
 <p><strong>Your Consent</strong></p>
-<p>By using our site, you consent to our http://www.staffmeup.com/privacy-policy&nbsp;online privacy policy.<br><br><strong>Misuse of the Staff Me Up Message Feature/ NO Spamming<br></strong><br>Users are NOT permitted to use the messaging feature, or any contact information displayed on Staff Me Up to promote a company or any type of service in an unsolicited manner. Anyone caught "Spamming" on Staff Me Up is subject to having his or her account deactivated.<br><br>Also, any user sending messages from the SMU Messenger that defame, insult, or lack professional decorum to the <span>discretion</span>&nbsp;of the Staff Me Up <span>administrators</span>&nbsp;are&nbsp;subject to having his or her account deactivated.</p>
+
+<p>By using our site, you consent to our http://www.staffmeup.com/privacy-policy&nbsp;online privacy policy.<br>
+<br>
+<strong>Misuse of the Staff Me Up Message Feature/ NO Spamming</strong><br>
+<br>
+Users are NOT permitted to use the messaging feature, or any contact information displayed on Staff Me Up to promote a company or any type of service in an unsolicited manner. Anyone caught "Spamming" on Staff Me Up is subject to having his or her account deactivated.<br>
+<br>
+Also, any user sending messages from the SMU Messenger that defame, insult, or lack professional decorum to the <span>discretion</span>&nbsp;of the Staff Me Up <span>administrators</span>&nbsp;are&nbsp;subject to having his or her account deactivated.</p>
+
 <p><strong>Changes to our Privacy Policy</strong></p>
-<p>We reserve the right to make changes to our privacy policy. Any changes made will be posted here.</p>							</div>
+
+<p>We reserve the right to make changes to our privacy policy. Any changes made will be posted here.<br>
+<br>
+<strong>Account De-Activation and Removal of Content</strong><br>
+<br>
+We reserve the right to edit or remove any content on our site at our sole discretion, and to deactiviate any user account at our sole discretion.<br>
+<br>
+The use of automated systems (robots, spiders, or any other data-mining or similar data-gathering and extraction tools) to access, acquire, or download information on the Site is expressly prohibited where such systems are employed in connection with commercial objectives (other than indexing for search engines), or in a fashion that directly or indirectly violates any privacy interests.</p>
+							</div>
 			
 			<!-- Content -->
 			
 			<!-- Footer Ad -->
-												<div id="div-gpt-ad-StaffMeUp-8">
+												<div id="div-gpt-ad-StaffMeUp-8" class="footadMain">
 						<script type="text/javascript">
 							googletag.display('div-gpt-ad-StaffMeUp-8');
 						</script>
 					</div>
 									</div>
 	</div>
-	<div id="footer" class="wrapper">
-	<div class="footer-copyright">
-		©2013 Staff Me Up • All Rights Reserved.
+	<div id="footwrap">
+<div id="footer" class="wrapper">
+	<div class="footer-copyright"> 
+		©2014 Staff Me Up • All Rights Reserved.
 	</div>
 	<div class="footer-links">
 					<div class="footer-link"><a href="/register">Register</a></div>
@@ -120,7 +242,23 @@
 	</div>
 	<div style="clear: both;"></div>
 </div>
+</div>
 
+<!-- Kissmetrics tag -->
+<script type="text/javascript">var _kmq = _kmq || [];
+var _kmk = _kmk || '45ca5892c065ac605d0b1ff1cc8b5e44feadac44';
+function _kms(u){
+  setTimeout(function(){
+    var d = document, f = d.getElementsByTagName('script')[0],
+    s = d.createElement('script');
+    s.type = 'text/javascript'; s.async = true; s.src = u;
+    f.parentNode.insertBefore(s, f);
+  }, 1);
+}
+_kms('//i.kissmetrics.com/i.js');
+_kms('//doug1izaerwt3.cloudfront.net/' + _kmk + '.1.js');
+</script>
+<!-- End Kissmetrics tag -->
 
 
 <!-- Google Tag Manager -->
