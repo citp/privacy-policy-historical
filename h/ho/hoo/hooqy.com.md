@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hooqy.com privacy policy that was archived on 2013-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131002074759id_/http%3A//www.hooqy.com/about-hooqy-media/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hooqy.com privacy policy that was archived on 2014-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140612235339id_/http%3A//www.hooqy.com/about-hooqy-media/privacy-policy) for the most accurate reproduction.*
 
 # Online Advertising Privacy Policy
 
