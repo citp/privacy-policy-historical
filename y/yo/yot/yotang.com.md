@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yotang.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209023339id_/http%3A//www.yotang.com/help_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yotang.com privacy policy that was archived on 2014-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140613015600id_/http%3A//www.yotang.com/help_privacy.php) for the most accurate reproduction.*
 
 # YoTang
 
