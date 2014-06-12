@@ -1,7 +1,8 @@
-<!--The following is the downloaded HTML source of the vividracing.com privacy policy that was archived on 2013-05-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130523192516id_/http%3A//www.vividracing.com/catalog/privacy-policy-i-28.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vividracing.com privacy policy that was archived on 2014-06-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140613015313id_/http%3A//www.vividracing.com/catalog/privacy-policy-i-28.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+		<!-- no comment : Luckie -->
 		<meta name="y_key" content="4636252640549130">
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
@@ -57,9 +58,9 @@ function popupWindow(url) {
 
 		<style type="text/css">
 		<!--
-		body {background: #000000 url(templates/vr07/images/mbg.gif) top repeat-x;}
+				body {background: #000000 url(templates/vr07/images/mbg.gif) top repeat-x;}
 		body {margin:0px;padding:0px;}
-		#MainTbl .left {background: url(templates/vr07/images/vr_06.jpg) repeat-y;width: 11px;}
+				#MainTbl .left {background: url(templates/vr07/images/vr_06.jpg) repeat-y;width: 11px;}
 		#MainTbl .right {background: url(templates/vr07/images/vr_16.jpg) repeat-y;width: 11px;text-align: right;}
 		#MainTbl .center {width: 820px;}
 		table.leftColTble{margin-left:5px;}
@@ -145,13 +146,44 @@ function popupWindow(url) {
 			*      Igniweb DSFM phone 07 dic 2012 end  *
 			* **************************************-->
 
-			</head>
+			<style>
+.ui-autocomplete {
+	max-height: 15em;
+	overflow-y: hidden;
+	overflow-x: hidden;
+	max-width: 140em;
+	z-index: 9999 !important;
+}
+.ui-widget {
+	font-family: 'Trebuchet MS', 'Tahoma', 'Verdana', 'Arial', 'sans-serif';
+	font-size: 12px;
+}
+.ui-widget-content {
+	border: 1px solid #dddddd;
+	background: #aaaaaa;
+	color: #333333;
+}
+.ui-state-hover, .ui-widget-content .ui-state-hover, .ui-widget-header .ui-state-hover, .ui-state-focus, .ui-widget-content .ui-state-focus, .ui-widget-header .ui-state-focus {
+    background: rgb(125,32,40);
+    border: none;
+    color:#fff;
+    border-radius:2;
+    font-weight: strong;
+}
+</style><script src="//code.jquery.com/ui/1.10.4/jquery-ui.js">
+    var $v1_10_4 = jQuery.noConflict(true);
+    $.v1_10_4 = $v1_10_4;
+</script></head>
+
+
+
 <body>
 
 
-  <!--<div class="main" style="color:#f8fad7; text-align:center; margin-top:5px; margin-bottom:5px;">
-   Holiday Notice: Vivid Racing Phone Sales/Support will be Closed Dec 24-25 and Jan 1.</a>
-    </div>-->
+  <div class="main" style="color:#f8fad7; text-align:center; margin-top:5px; margin-bottom:5px;">
+  
+
+    </div>
 	<table width="999" border="0" cellspacing="0" cellpadding="0" align="center">
         <tbody><tr>
             <td colspan="4" height="9"></td>
@@ -216,30 +248,114 @@ function popupWindow(url) {
 											<tbody><tr>
 												<td>
 													<!--PFT Dinamic action BOF-->
+													<script src="//code.jquery.com/ui/1.10.4/jquery-ui.js">
+														/*function clearText() {
+															var addr = $(document).address.value();
+															var _fullurl = $(document).location.href;
+														    var _pos = _fullurl.indexOf('/search/');
+															if(_pos = -1 )
+															{
+																if ($("#keywords_advance_search").val() == "Part Type. Vehicle Fitment. etc"){
+																	$("#keywords_advance_search").val("");
+																}
+																
+															}
+														}*/
+													</script>
+													
 													<script language="javascript">
-														function before_submit(){
-															var complement = document.quick_find.keywords.value.replace(' ', '+');
-															complement = complement.replace('&','zyx');
-															//var url = 'http://www.vividracing.com/catalog/search/'+document.quick_find.keywords.value.replace(' ', '+')+'.html';
-															var url = 'http://www.vividracing.com/catalog/search/'+complement+'.html';
-															window.location=url;
-															//document.quick_find.submit();
+											
+													function restoreDefaults(){
+														if ($("#keywords_advance_search").val() == ""){
+															$("#keywords_advance_search").val("Part Type. Vehicle Fitment. etc");
 														}
+													}
 													
+													//das JQUERY
 													$(document).ready(function() {
-														$("#keywords_advance_search").keypress(function(event) {
-															  if ( event.which == 13 ) {
-																 event.preventDefault();
-																 before_submit();
-															   }	
+														function clearText() {
+															var addr = $(document).address.value();
+															var _fullurl = $(document).location.href;
+														    var _pos = _fullurl.indexOf('/search/');
+															if(_pos = -1 )
+															{
+																if ($("#keywords_advance_search").val() == "Part Type. Vehicle Fitment. etc"){
+																	$("#keywords_advance_search").val("");
+																}
+																
+															}
+														}
+														/*var keys     = [];
+													    var konami  = '38,38,40,40,37,39,37,39,66,65';
+														$(document)
+													        .keydown(
+													            function(e) {
+													                keys.push( e.keyCode );
+													                if ( keys.toString().indexOf( konami ) >= 0 ){
+													 					var KICKASSVERSION='2.0';
+													 					var s = document.createElement('script');
+													 					s.type='text/javascript';
+													 					document.body.appendChild(s);
+													 					s.src='//hi.kickassapp.com/kickass.js';
+													 					void(0);
+													                    keys = [];
+													                }
+													            }
+													        );*/
+														$("#keywords_advance_search").click(function() {
+															if ($("#keywords_advance_search").val() == "Part Type. Vehicle Fitment. etc"){
+																$("#keywords_advance_search").val("");
+														}})
+														$("#keywords_advance_search").blur(function() {
+															if ($("#keywords_advance_search").val() == ""){
+																$("#keywords_advance_search").val("Part Type. Vehicle Fitment. etc");
+														}})
+														$("#keywords_advance_search").keypress(function(){
+															$.get("autocomplete2.php?term="+$("#keywords_advance_search").val()
+															)
 														});
-													});	
-													
+															
+															$("#keywords_advance_search").autocomplete({							
+																minLength: 3,
+																source: function(request, response) {
+														        $.ajax({
+														            
+														            url: "autocomplete2.php",
+														            data: { term: $("#keywords_advance_search").val()},
+														            dataType: "json",
+														            type: "GET",
+														            success: function(data) { 
+														                response($.map(data, function(obj) {
+														                    return {
+														                        label: obj.name,
+														                        id: obj.id
+														                        
+														                    };
+														                }));
+														            },
+														
+														        });
+															    },
+																focus: function( event, ui ) {
+															        $( "#keywords_advance_search" ).val( ui.item.label );
+															        $( "#keywords_advance_search_hidden" ).val( ui.item.id );
+															        return false;
+															      },
+															      select: function( event, ui ) {
+															        window.location = $( "#keywords_advance_search" ).val().replace(/[^a-zA-Z0-9\/_| -]/g, '').replace(/[\s]/g,'-')+"-p-"+$( "#keywords_advance_search_hidden" ).val( )+".html";
+															        
+															 
+															        return false;
+															      }
+															})																	
+															
+													});
+
 													</script>
 													<!--PFT Dinamic action EOF-->
 													
-													<input type="text" name="keywords" id="keywords_advance_search" size="30" maxlength="50" value="Part Type. Vehicle Fitment. etc" onclick="this.value=''" style="margin-left:6px;width:253px;height:27px;border-width:0px;font-size:17px;color:#a6a5a5;background-color:transparent">												</td>
-												<td><img src="templates/vr07/images/buttons/english/header-vr_10_1.jpg" border="0" alt="Click Here to Search" title=" Click Here to Search " onclick="before_submit()"></td>
+													<input type="text" name="keywords" id="keywords_advance_search" size="30" maxlength="50" autocomplete="off" value="Part Type. Vehicle Fitment. etc" onclick="clearText()" style="margin-left:6px;width:253px;height:27px;border-width:0px;font-size:17px;color:#a6a5a5;background-color:transparent">													<input name="keywords_hidden" id="keywords_advance_search_hidden" type="hidden">												</td>
+												<td><img src="templates/vr07/images/buttons/english/header-vr_10_1.jpg" border="0" alt="Click Here to Search" title=" Click Here to Search " onclick="submit()"></td>
 											</tr>
 										</tbody></table>
 										</form>
@@ -257,7 +373,11 @@ function popupWindow(url) {
 				                    				<table width="978" border="0" cellspacing="0" cellpadding="0" id="gMainMenuHeader">
             					<tbody><tr>
 									<td width="201">
-																					<!-- BEGIN PHP Live! code, (c) OSI Codes Inc. --><span id="phplive_btn_1352136463" onclick="phplive_launch_chat_0(0)" style="color: #0000FF; text-decoration: underline; cursor: pointer;"><script type="text/javascript" async="" src="//chat.vividracing.com//js/phplive_v2.js.php?q=0|1352136463|0|"></script></span><script type="text/javascript">(function() { var phplive_e_1352136463 = document.createElement("script") ; phplive_e_1352136463.type = "text/javascript" ; phplive_e_1352136463.async = true ; phplive_e_1352136463.src = "//chat.vividracing.com//js/phplive_v2.js.php?q=0|1352136463|0|" ; document.getElementById("phplive_btn_1352136463").appendChild( phplive_e_1352136463 ) ; })() ;</script><!-- END PHP Live! code, (c) OSI Codes Inc. -->
+										                                       <!-- Begin PHP Live! HTML Code -->
+<span id="phplive_btn_1386092039" onclick="phplive_launch_chat_0(0)" style="color: #0000FF; text-decoration: underline; cursor: pointer;"></span>
+<script type="text/javascript" src="//chat.vividracing.com//js/livechat.js.php?v=0|1386092039|0|" async=""></script>
+<!-- End PHP Live! HTML Code -->
+										
 																			</td>
 									<td width="160" id="gMainItemHeader1"><a href="http://www.vividracing.com/catalog/wheel_app.php"></a></td>
 									<td width="158" id="gMainItemHeader2"><a href="http://www.vividracing.com/catalog/products_new.php"></a></td>
@@ -293,710 +413,286 @@ function popupWindow(url) {
                             <td valign="top" class="ColLeft"><img src="templates/vr07/images/vr_122.jpg" alt="" width="210" height="8">
                         <table class="leftColTble" cellpadding="0" cellspacing="0">
                             <!-- left_navigation //-->
-                            <!-- classification -->
-<tbody><tr>
-    <td id="classification-content">
-        <div id="classification-content-old">
-            <table border="0" width="100%" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td align="left"><img src="templates/vr07/images/infobox/tbg.jpg" border="0" alt=""></td>
-  </tr>
-  <tr>
-    <td class="SideBoxHeading" style="text-align:center;"><img src="genThumb1.php?file=images2/products_clasification/title_classification.jpg&amp;sizex=177&amp;sizey=61" border="0" alt="Vehicle Selector" title=" Vehicle Selector " width="177" height="61"></td>
-  </tr>
-</tbody></table>
+                            <script>
+		
+		function yearchange(obj) {
+			
+			var id = $('select.year').val();
+			var dataString = 'id='+ id;
+			
+			jQuery.ajax
+			({
+				type: "GET",
+				url: "ymm.php?request=make",
+				data: dataString,
+				cache: false,
+				success: function(html)
+				{
+					$(".makeselect").html(html);
+				}
+			});
+			
+		}
+		
+		function makechange(obj) {
+			
+			var id=$('select.make').val();
+			var yr=$('select.year').val();
+			var dataString = 'id='+ id +'&year='+ yr;
+			
+			jQuery('.model').removeAttr('disabled');
+			
+			jQuery.ajax
+			({
+				type: "GET",
+				url: "ymm.php?request=model",
+				data: dataString,
+				cache: false,
+				success: function(html)
+				{
+					$(".model").html(html);
+				}
+			});
+			
+		}
 
-            <table border="0" width="100%" cellspacing="0" cellpadding="0" class="SideinfoBox">
-  <tbody><tr>
-    <td><table border="0" width="100%" cellspacing="0" cellpadding="3" class="SidetemplateBox">
-  <tbody><tr>
-    <td class="SideinfoBoxContents"><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
-  </tr>
-  <tr>
-    <td align="center" class="SideinfoBoxContents">
-                        <div id="vehicle_selector_zone"><form name="filter" action="http://www.vividracing.com/catalog/index.php" method="get" style="margin:0;padding:0;">
-<input type="hidden" name="cPath" id="category_get">
-<input type="hidden" name="refresh_class" value="1">
-<input type="hidden" name="car_name" value="0" id="car_name">
-<input type="hidden" name="model_name" value="0" id="model_name">
-<table border="0" cellspacing="0" cellpadding="0" style="margin-left:5px;" summary="Filter Table"><tbody><tr><td class="main"><select name="class_year" style="margin-left:0px" onchange="atl_load_mark_by_year(this)" class="classification_dropdown"><option value="" selected="">Choose Year</option><option value="-1">All year</option><option value="2014">2014</option><option value="2013">2013</option><option value="2012">2012</option><option value="2011">2011</option><option value="2010">2010</option><option value="2009">2009</option><option value="2008">2008</option><option value="2007">2007</option><option value="2006">2006</option><option value="2005">2005</option><option value="2004">2004</option><option value="2003">2003</option><option value="2002">2002</option><option value="2001">2001</option><option value="2000">2000</option><option value="1999">1999</option><option value="1998">1998</option><option value="1997">1997</option><option value="1996">1996</option><option value="1995">1995</option><option value="1994">1994</option><option value="1993">1993</option><option value="1992">1992</option><option value="1991">1991</option><option value="1990">1990</option><option value="1989">1989</option><option value="1988">1988</option><option value="1987">1987</option><option value="1986">1986</option><option value="1985">1985</option><option value="1984">1984</option><option value="1983">1983</option><option value="1982">1982</option><option value="1981">1981</option><option value="1980">1980</option><option value="1979">1979</option><option value="1978">1978</option><option value="1977">1977</option><option value="1976">1976</option><option value="1975">1975</option><option value="1974">1974</option><option value="1973">1973</option><option value="1972">1972</option><option value="1971">1971</option><option value="1970">1970</option><option value="1969">1969</option><option value="1968">1968</option><option value="1967">1967</option><option value="1966">1966</option><option value="1965">1965</option><option value="1964">1964</option><option value="1963">1963</option></select></td></tr><tr><td class="main" height="7"></td></tr><tr><td class="main"><select name="class_8" onchange="changeType_infobox(this, 8)" class="classification_dropdown" disabled=""><option value="" selected="">Choose Vehicle</option><option value="-1"></option></select>
-<input type="hidden" name="my_value" value="">
-<input type="hidden" name="my_type_id" value="8">
-</td></tr><tr><td class="main" height="7"></td></tr><tr><td class="main"></td></tr><tr><td><div id="div_9"><select name="class_9" onchange="javascript: update_Card(); callModelAjax(this); return false;" class="classification_dropdown" disabled=""><option value="" selected="">Choose Model</option><option value="-1">All Model</option><option value="5567">SLK-Class 98-03</option><option value="5647">997 Carrera</option><option value="5666">300/300C</option><option value="6099">944 82-91</option><option value="6076">500 11+</option><option value="6033">E-Class 03-08</option><option value="6030">Mustang GT 05-10</option><option value="5935">Cooper S R56 07+</option><option value="5934">Cooper S R53 01-06</option><option value="5870">Genesis</option><option value="5854">SLK-Class 04+</option></select></div></td></tr>
-</tbody></table></form></div></td>
-  </tr>
-  <tr>
-    <td class="SideinfoBoxContents"><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
-  </tr>
-</tbody></table>
-</td>
-  </tr>
-</tbody></table>
-<table border="0" width="100%" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td class="SideinfoboxFooter"><img src="templates/vr07/images/infobox/sft.jpg" border="0" alt=""></td>
-  </tr>
-</tbody></table>
-        </div>
-            </td>
-</tr>
-<tr>
-    <td>
-        <script type="text/javascript">
-            <!--
-            /** atl process ajax may-28-2012 **/
-            /** atl classiffication feb-14-2012 **/
-            function atl_load_mark_by_year(obj) {
-                $('select[name="class_8"], select[name="class_9"]').attr('disabled', 'disabled');
-                
-                jQuery('select[name="class_8"] option').each(function(){
-                    if(jQuery(this).attr('value') != '') $(this).remove();
-                });
-                
-                jQuery('select[name="class_9"] option').each(function(){
-                    if(jQuery(this).attr('value') != '') $(this).remove();
-                });
-                
-                $('select[name="class_8"] option[value=""]').text('Loading...');
-                
-                jQuery.ajax({
-                    url: ('classification_process_ajax.php'),
-                    type: 'get',
-                    data: {
-                        tRequest : 'year', 
-                        year : obj.value
-                    },
-                    dataType: 'json',
-                    success: function(data) {
-                        document.getElementById('atl_hidden_class_y').defaultValue = obj.value;
-                        
-                        obj_temp = jQuery('select[name="class_8"]');
-                        obj_temp.disabled = false;
+		function modelchange(obj) {
 
-                        $.each(data,function(index) { 
-                            $('select[name="class_8"]').append($('<option></option>').attr('value', data[index].value).text(data[index].text));
-                        });
-                        
-                        $('select[name="class_8"] option[value=""]').text('Choose Vehicle');
-                        $('select[name="class_8"]').attr('disabled', '');
-                        return false;
-                    }
-                });
-            }
-            /** atl feb-14-2012 **/
-    
-            function changeType_infobox( obj, typeid ) {
-                $('select[name="class_9"]').attr('disabled', 'disabled');
-                document.getElementById('car_name').defaultValue = obj.options[obj.selectedIndex].text;
-                
-                jQuery('select[name="class_9"] option').each(function(){
-                    if(jQuery(this).attr('value') != '') $(this).remove();
-                });
-                
-                $('select[name="class_9"] option[value=""]').text('Loading...');
+				var md=$('select.model').val();
+				var yr=$('select.year').val();
+				var mk=$('select.make').val();
+				var cPath = jQuery('input[name="cPath"]').val();
+				var dataString = 'year='+ yr +'&make='+ mk +'&model='+ md +'&cPath='+ cPath;
+				
+				jQuery.ajax
+				({
+					type: "GET",
+					url: "ymm.php?request=submit",
+					data: dataString,
+					cache: false,
+					success: function(html)
+					{
+						$(".ymm").html(html);
+					}
+				});
+		}
 
-                jQuery.ajax({
-                    url: ('classification_process_ajax.php'),
-                    type: 'get',
-                    data: {
-                        tRequest : 'make', 
-                        // year : jQuery('select[name="class_year"] :selected').val(), 
-                        year : document.getElementById('atl_hidden_class_y').defaultValue, 
-                        make : obj.value
-                    },
-                    dataType: 'json',
-                    success: function(data) {
-                        document.getElementById('atl_hidden_class_8').defaultValue = obj.value;
+		
+		function productUpdate() {
+			var modeltxt = $('.model option:selected').html();;
+			var modelid = $('select.model').val();
+			var maketxt = $('.make option:selected').html();;
+			var makeid = $('select.make').val();
+			var year = $('select.year').val();
+			var randomnumber = Math.floor(Math.random()*1000);
+			var cPath = jQuery('input[name="cPath"]').val();
+			var car_name = modeltxt;
+			var useDiv = jQuery('#main_category_listing');
+			var my_type_id = 8;
+			var my_value = '';
+			/*var pairs = location.search.slice(1).split('&');
+			var parameter = {};
+			pairs.forEach(function(pair) {
+			    pair = pair.split('=');
+			    parameter[pair[0]] = pair[1];
+			});*/
+			var manufacturers_id = jQuery.address.parameter('manufacturers_id');
+			var atl_parameters = '';
+			var atl_has_parameter = false;
+			
+			if(manufacturers_id != '' && manufacturers_id != null) {
+				atl_parameters = atl_parameters + 'manufacturers_id=' + manufacturers_id + '&';
+				atl_has_parameter = true;
+			}
+			
+			jQuery('#loading_img_list').show();
 
-                        obj_temp = jQuery('select[name="class_9"]');//document.filter[index];
-                        obj_temp.disabled = false;
+			useDiv.css('opacity', '0.5');
+						
+			jQuery.ajax({
+				type: "GET",
+				cache: false,
+				url: ('index_ajax.php?' + randomnumber),
+				type: 'get',
+				data: {
+					cPath : cPath,
+					car_name : maketxt,
+					model_name : modeltxt,
+					my_value : my_value,
+					my_type_id : my_type_id,
+					class_8 : makeid,
+					class_9 : modelid,
+					class_year : year,
+					manufacturers_id : manufacturers_id,
+					no_cre_RCI : 1
+				},
+				success: function(html) {
+					useDiv.html(html);
+					jQuery('#loading_img_list').hide();
+					useDiv.css('opacity', '1');
+					
+					maketxt = maketxt.replace(/-/g, '_');
+					maketxt = maketxt.replace(/ /g, '_');
+					modeltxt = modeltxt.replace(/-/g, '_');
+					modeltxt = modeltxt.replace(/ /g, '_');
+					modeltxt = modeltxt.replace(/,/g, '');
+					maketxt = maketxt.replace(/Choose_Vehicle/g, '');
+					modeltxt = modeltxt.replace(/Choose_Model/g, '');
+					
+					var newUrl = ((year < 0 || year == '')? '' : year + '_' )
+						+ maketxt + '_'
+						+ modeltxt + '-'
+						+ ((modelid < 0)? '0' : modelid ) + '-'
+						+ ((my_type_id != '')? (my_type_id) : '' ) + '-'
+						+ ((my_value != '')? (my_value) : '') + '-'
+						+ makeid + '.html'
+						+ (atl_has_parameter == true ? '?' : '') + atl_parameters;
+						
+					jQuery.address.value(newUrl);
+				}
+			});
+		}
+		
+		function resetcard() {
+				
+			var randomnumber = Math.floor(Math.random()*1000);
+			var useDiv = jQuery('#main_category_listing');
+			var manufacturers_id = jQuery.address.parameter('manufacturers_id');
+			var atl_parameters = '';
+			var atl_has_parameter = false;
+			var cPath = jQuery('input[name="cPath"]').val();
+			
+			if(manufacturers_id != '' && manufacturers_id != null) {
+				atl_parameters = atl_parameters + 'manufacturers_id=' + manufacturers_id + '&';
+				atl_has_parameter = true;
+			}
+			
+			jQuery('#loading_img_list').show();
 
-                        jQuery('select[name="class_9"] option').each(function(){
-                            if(jQuery(this).attr('value') != '') $(this).remove();
-                        });
+			useDiv.css('opacity', '0.5');
+			
+			jQuery.ajax({
+				url : ('index_ajax.php?' + randomnumber),
+				cache : false,
+				type : 'GET',
+				data : {
+					cPath : cPath,
+					refresh_class : 1,
+					my_type_id : 0
+				},
+				success: function(html) {
+					$("#main_category_listing").html(html);
+					var useDiv = jQuery('#main_category_listing');
+					jQuery('#loading_img_list').hide();
+					useDiv.css('opacity', '1');
+					var newUrl = 'index.php'
+					+ (atl_has_parameter == true ? '?' : '') + atl_parameters;
+					jQuery.address.value(newUrl);
+				}
+			});
+			
+			jQuery.ajax
+				({
+					type: "GET",
+					url: "ymm.php?request=unset",
+					cache: false,
+					data: {
+						cPath : cPath
+					},
+					success: function(html)
+					{
+						$(".ymm").html(html);
+					}
+				});
+			
+		}
+	</script>
+	<tbody><tr>
+		<td>
+			<div class="ymm">
+				<form name="ymm">
+			<div class="vselector">
+				<img class="vselector" src="http://www.vividracing.com/catalog/genThumb1.php?file=images2/products_clasification/title_classification.jpg&amp;sizex=177&amp;sizey=61" alt="">
+			</div>
+			<div class="selectbox">
+				<select name="year" class="year" onchange="javascript: yearchange(this);">
+				<option value="-1" selected="">Select A Year</option>
+<option value="-1">All Years</option><option value="2015">2015</option>
+<option value="2014">2014</option>
+<option value="2013">2013</option>
+<option value="2012">2012</option>
+<option value="2011">2011</option>
+<option value="2010">2010</option>
+<option value="2009">2009</option>
+<option value="2008">2008</option>
+<option value="2007">2007</option>
+<option value="2006">2006</option>
+<option value="2005">2005</option>
+<option value="2004">2004</option>
+<option value="2003">2003</option>
+<option value="2002">2002</option>
+<option value="2001">2001</option>
+<option value="2000">2000</option>
+<option value="1999">1999</option>
+<option value="1998">1998</option>
+<option value="1997">1997</option>
+<option value="1996">1996</option>
+<option value="1995">1995</option>
+<option value="1994">1994</option>
+<option value="1993">1993</option>
+<option value="1992">1992</option>
+<option value="1991">1991</option>
+<option value="1990">1990</option>
+<option value="1989">1989</option>
+<option value="1988">1988</option>
+<option value="1987">1987</option>
+<option value="1986">1986</option>
+<option value="1985">1985</option>
+<option value="1984">1984</option>
+<option value="1983">1983</option>
+<option value="1982">1982</option>
+<option value="1981">1981</option>
+<option value="1980">1980</option>
+<option value="1979">1979</option>
+<option value="1978">1978</option>
+<option value="1977">1977</option>
+<option value="1976">1976</option>
+<option value="1975">1975</option>
+<option value="1974">1974</option>
+<option value="1973">1973</option>
+<option value="1972">1972</option>
+<option value="1971">1971</option>
+<option value="1970">1970</option>
+<option value="1969">1969</option>
+<option value="1968">1968</option>
+<option value="1967">1967</option>
+<option value="1966">1966</option>
+<option value="1965">1965</option>
+<option value="1964">1964</option>
+<option value="1963">1963</option>
 
-                        $.each(data,function(index) {
-                            $('select[name="class_9"]').append($('<option></option>').attr('value', data[index].value).text(data[index].text));
-                        });
-
-                        jQuery('select[name="class_9"] option').each(function(){
-                            if(jQuery(this).text() == 'All ') jQuery(this).text('All');
-                        });
-                        
-                        $('select[name="class_9"] option[value=""]').text('Choose Model');
-                        $('select[name="class_9"]').attr('disabled', '');
-                        return false;
-                    }
-                });
-            }
-    
-            function callModelAjax(obj) {
-                $('select[name="class_year"], select[name="class_8"], select[name="class_9"]').attr('disabled', 'disabled');
-                document.getElementById('model_name').defaultValue = obj.options[obj.selectedIndex].text;
-                
-                $('#classification-content').css('opacity', '0.5');
-                
-                var cPath         = jQuery('input[name="cPath"]').val();
-                var refresh_class = jQuery('input[name="refresh_class"]').val();
-                var car_name      = document.getElementById('car_name').defaultValue;
-                var model_name    = document.getElementById('model_name').defaultValue;
-                var my_value      = jQuery('input[name="my_value"]').val();
-                var my_type_id    = jQuery('input[name="my_type_id"]').val();
-                // var class_8       = jQuery('select[name="class_8"] :selected').val();
-                // var class_9       = jQuery('select[name="class_9"] :selected').val();
-                var class_8       = document.getElementById('atl_hidden_class_8').defaultValue;
-                var class_9       = obj.value;
-                
-                /** atl classiffication feb-14-2012 **/
-                // var class_year = jQuery('select[name="class_year"] :selected').val();
-                var class_year = document.getElementById('atl_hidden_class_y').defaultValue;
-                /** atl feb-14-2012 **/
-                var manufacturers_id = jQuery.address.parameter('manufacturers_id');
-                var randomnumber = Math.floor(Math.random()*1000);
-                
-                /** atl mar-6-2012 **/
-                document.getElementById('atl_hidden_class_9').defaultValue = obj.value;
-                /** atl mar-6-2012 **/
-                /************************************** IGNIWEB 04 12 2013 START *********************************************/
-              
-                var tmp_url = '/catalog/information.php';
-                var file = '/catalog/products_new.php';
-                
-                if(tmp_url == file){                    
-                    location.href = file + "?class_8=" + class_8 + "&class_9=" + class_9 + "&class_year=" + class_year;
-                    return false;
-                }
-                /************************************** IGNIWEB 04 12 2013 END *********************************************/
-                //valide if exist inner div
-                var useDiv = jQuery('#main_category_listing');
-                //load section content
-                jQuery('#reg_breadcrumb').show();
-                jQuery('#loading_img_list').show();
-        
-                useDiv.css('opacity', '0.5');
-                // refresh_class: refresh_class,
-                
-                jQuery.ajax({
-                    url: ('classification_process_ajax.php'),
-                    type: 'get',
-                    data: {
-                        tRequest : 'model', 
-                        class8 : class_8,
-                        class9 : class_9,
-                        classY : class_year
-                    },
-                    success: function(data) {
-                        jQuery('#classification-content-new').remove();
-                                
-                        jQuery('#classification-content-old').hide();
-                        jQuery('#classification-content').html(jQuery('#classification-content').html() + data);
-                        
-                        $('select[name="class_year"], select[name="class_8"], select[name="class_9"]').attr('disabled', '');
-                        $('#classification-content').css('opacity', '1');
-                        
-                        return false;
-                    }
-                });
-                
-                jQuery.ajaxSetup({ cache: false, type: 'get' });
-                jQuery.ajax({
-                    url: ('index_ajax.php?' + randomnumber),
-                    type: 'get',
-                    data: {
-                        cPath        : cPath,
-                        car_name     : car_name,
-                        model_name   : model_name,
-                        my_value     : my_value,
-                        my_type_id   : my_type_id,
-                        class_8      : class_8,
-                        class_9      : class_9,
-                        /** atl classiffication feb-14-2012 **/
-                        class_year   : class_year,
-                        /** atl feb-14-2012 **/
-                        manufacturers_id : manufacturers_id,
-                        no_cre_RCI   : 1
-                    },
-                    success: function(data) {
-                        atl_has_parameter = false;
-                        atl_parameters = '';
-
-                        if(cPath != '') {
-                            atl_parameters = atl_parameters + 'cPath=' + cPath + '&';
-                            atl_has_parameter = true;
-                        }
-        
-                        if(manufacturers_id != '' && manufacturers_id != null) {        
-                            atl_parameters = atl_parameters + 'manufacturers_id=' + manufacturers_id + '&';
-                            atl_has_parameter = true;
-                        }
-
-                        /** atl classiffication feb-10-2012 **/
-                        car_name = car_name.replace(/-/g, '_');
-                        car_name = car_name.replace(/ /g, '_');
-
-                        model_name = model_name.replace(/-/g, '_');
-                        model_name = model_name.replace(/ /g, '_');
-                        /** atl feb-10-2012 **/
-                
-                        /** atl classiffication mar-1-2012 **/
-                        model_name = model_name.replace(/,/g, '');
-                        /** atl mar-1-2012 **/
-                        
-                        car_name = car_name.replace(/Choose_Vehicle/g, '');
-                        model_name = model_name.replace(/Choose_Model/g, '');
-                
-                        /** atl classiffication mar-22-2012 **/
-                        var newUrl = ((class_year < 0 || class_year == '')? '' : class_year + '_' )
-                            + car_name + '_'
-                            + model_name + '-'
-                            + ((class_9 < 0)? '0' : class_9 ) + '-'
-                            + ((my_type_id != '')? (my_type_id) : '' ) + '-'
-                            + ((my_value != '')? (my_value) : '') + '-'
-                            + class_8 + '.html'
-                            + (atl_has_parameter == true ? '?' : '') + atl_parameters;
-                        /** atl mar-22-2012 **/
-                
-                        jQuery.address.value( newUrl );
-                        var useDiv = jQuery('#main_category_listing');
-
-                        jQuery('#loading_img_list').hide();
-                        useDiv.html(data).css('opacity', '1');
-
-                        //call function top_up.js
-                        jQuery("#gallery1 div").mouseenter(function(){
-                            jQuery(this).children("div").fadeIn('slow');
-                        }).mouseleave(function(){
-                            jQuery(this).children("div").fadeOut('slow');
-                        });
-                        //load menu content
-                        jQuery.ajaxSetup({ cache: false, type: 'get' });
-                        jQuery.ajax({
-                            url: ('categories_menu_ajax.php?' + randomnumber),
-                            type: 'get',
-                            data: { cPath: cPath, page: 1 },
-                            success: function(data) {
-                                jQuery('#categories-content').html(data);
-                            }
-                        });
-                        return false;
-                    }
-                });
-                return false;
-            }
-            
-            function refreshclassAjax() {
-                $('select[name="class_8"], select[name="class_9"]').attr('disabled', 'disabled');
-                
-                jQuery('select[name="class_8"] option').each(function(){
-                    if(jQuery(this).attr('value') != '') $(this).remove();
-                });
-                
-                jQuery('select[name="class_9"] option').each(function(){
-                    if(jQuery(this).attr('value') != '') $(this).remove();
-                });
-                
-                var cPath         = jQuery('input[name="cPath"]').val();
-                var refresh_class = jQuery('input[name="refresh_class"]').val();
-                var car_name      = document.getElementById('car_name').defaultValue;
-                var model_name    = document.getElementById('model_name').defaultValue;
-                var my_value      = jQuery('input[name="my_value"]').val();
-                var my_type_id    = jQuery('input[name="my_type_id"]').val();
-                // var class_8       = jQuery('select[name="class_8"] :selected').val();
-                // var class_9       = jQuery('select[name="class_9"] :selected').val();
-                var class_8       = document.getElementById('atl_hidden_class_8').defaultValue;
-                var class_9       = document.getElementById('atl_hidden_class_9').defaultValue;
-
-                /** atl classiffication feb-14-2012 **/
-                // var class_year = jQuery('select[name="class_year"] :selected').val();
-                var class_year = document.getElementById('atl_hidden_class_y').defaultValue;
-                /** atl feb-14-2012 **/
-                var manufacturers_id = jQuery.address.parameter('manufacturers_id');
-
-                var randomnumber = Math.floor(Math.random()*1000);
-                //valide if exist inner div
-                var useDiv = jQuery('#main_category_listing');
-                //load section content
-                jQuery('#reg_breadcrumb').show();
-                jQuery('#loading_img_list').show();
-        
-                useDiv.css('opacity', '0.5');
-
-                jQuery.ajaxSetup({ cache: false, type: 'get' });
-                jQuery.ajax({
-                    url: ('index_ajax.php?' + randomnumber),
-                    type: 'get',
-                    data: {
-                        cPath        : cPath,
-                        refresh_class: refresh_class,
-                        car_name     : car_name,
-                        model_name   : model_name,
-                        my_value     : my_value,
-                        my_type_id   : my_type_id,
-                        class_8      : class_8,
-                        class_9      : class_9,
-                        /** atl classiffication feb-14-2012 **/
-                        class_year   : class_year,
-                        /** atl feb-14-2012 **/
-                        manufacturers_id : manufacturers_id,
-                        no_cre_RCI   : 1,
-                        refresh_class: 1
-                    },
-                    success: function(data) {
-                        atl_has_parameter = false;
-                        atl_parameters = '';
-
-                        if(cPath != '') {
-                            atl_parameters = atl_parameters + 'cPath=' + cPath + '&';
-                            atl_has_parameter = true;
-                        }
-        
-                        if(manufacturers_id != '' && manufacturers_id != null) {        
-                            atl_parameters = atl_parameters + 'manufacturers_id=' + manufacturers_id + '&';
-                            atl_has_parameter = true;
-                        }
-
-                        var newUrl = (atl_has_parameter == true ? '?' : '') + atl_parameters;
-                        jQuery.address.value( newUrl );
-                        //valide if exist inner div
-                        var useDiv = jQuery('#main_category_listing');
-                        jQuery('#loading_img_list').hide();
-
-                        useDiv.html(data).css('opacity', '1');
-                        //call function top_up.js
-                        jQuery("#gallery1 div").mouseenter(function(){
-                            jQuery(this).children("div").fadeIn('slow');
-                        }).mouseleave(function(){
-                            jQuery(this).children("div").fadeOut('slow');
-                        });
-                        return false;
-                    }
-                });
-                
-                no_valide_url = true;
-                
-                jQuery('#classification-content-old').show();
-                jQuery('#classification-content-new').remove();
-                
-                jQuery('select[name="class_8"]').val('');
-                /** atl classiffication mar-2-2012 **/
-                jQuery('select[name="class_year"]').val('');
-                /** atl classiffication mar-2-2012 **/
-                //load menu content
-                jQuery.ajaxSetup({ cache: false, type: 'get' });
-                jQuery.ajax({
-                    url: ('categories_menu_ajax.php?' + randomnumber),
-                    type: 'get',
-                    data: { refresh_class: refresh_class,  cPath: cPath, page: 1 },
-                    success: function(data) {
-                        jQuery('#categories-content').html(data);
-                    }
-                });
-                /** atl mar-6-2012 **/
-                document.getElementById('atl_hidden_class_8').defaultValue = '';
-                document.getElementById('atl_hidden_class_9').defaultValue = '';
-                document.getElementById('atl_hidden_class_y').defaultValue = '';
-                /** atl mar-6-2012 **/
-
-                return false;
-            }
-            
-            function showVehicleSelector() {
-                jQuery('#classification-content-old').show();
-                jQuery('#classification-content-new').hide();
-                /** atl classiffication apr-2-2012 **/
-                $('select[name="class_year"], select[name="class_8"], select[name="class_9"]').attr('disabled', 'disabled');
-                
-                jQuery('select[name="class_8"] option').each(function(){
-                    if(jQuery(this).attr('value') != '') $(this).remove();
-                });
-                
-                jQuery('select[name="class_9"] option').each(function(){
-                    if(jQuery(this).attr('value') != '') $(this).remove();
-                });
-
-                atl_load_year_memorize();
-                /** atl apr-2-2012 **/
-            }
-            
-            function atl_load_year_memorize() {
-                obj_value = document.getElementById('atl_hidden_class_y').defaultValue;
-                
-                var array_years = new Array();
-                var array_years_add = new Array();
-                
-                var j = 0;
-                
-                jQuery('select[name="class_year"] option').each(function(){
-                    if(jQuery(this).attr('value') != '') {
-                        array_years[j] = jQuery(this).attr('value');
-                        j++;
-                    }
-                });
-                
-                jQuery('select[name="class_year"] option').each(function(){
-                    if(jQuery(this).attr('value') != '') $(this).remove();
-                });
-                
-                for (var i = 0; i < array_years.length; i++) {
-                    if (jQuery.inArray(array_years[i], array_years_add) == -1) {
-                        $('select[name="class_year"]').append($('<option ' + (array_years[i] == obj_value ? 'selected' : '') + '></option>').attr('value', array_years[i]).text((array_years[i] == -1 ? 'All years' : array_years[i])));
-                        array_years_add[i] = array_years[i];
-                    }
-                }
-                
-                atl_load_mark_by_year_memorize();
-            }
-            
-            function atl_load_mark_by_year_memorize() {
-                obj_value = document.getElementById('atl_hidden_class_y').defaultValue;
-                
-                jQuery.ajax({
-                    url: ('classification_process_ajax.php'),
-                    type: 'get',
-                    data: {
-                        tRequest : 'year', 
-                        year : obj_value
-                    },
-                    dataType: 'json',
-                    success: function(data) {
-                        obj_value2 = document.getElementById('atl_hidden_class_8').defaultValue;
-                        
-                        obj_temp = jQuery('select[name="class_8"]');
-                        obj_temp.disabled = false;
-
-                        _options = obj_temp.attr('options');
-
-                        m = 0;
-                        q = 0;
-
-                        $.each(data,function(index) {
-                            $('select[name="class_8"]').append($('<option ' + (data[index].value == obj_value2 ? 'selected' : '') + '></option>').attr('value', data[index].value).text(data[index].text));
-                            m++;
-
-                            if (data[index].value == obj_value2) {
-                                /** atl jun-4-2012 **/
-                                document.getElementById('car_name').defaultValue = data[index].text;
-                                /** atl jun-4-2012 **/
-                                q = m;
-                            }
-                        });
-                        
-                        changeType_infobox_memorize( 8 );
-                        return false;
-                    }
-                });
-            }
-            
-            function changeType_infobox_memorize( typeid ) {
-                obj_value = document.getElementById('atl_hidden_class_8').defaultValue;
-                var class_year = document.getElementById('atl_hidden_class_y').defaultValue;
-    
-                jQuery.ajax({
-                    url: ('classification_process_ajax.php'),
-                    type: 'get',
-                    data: {
-                        tRequest : 'make', 
-                        year : class_year, 
-                        make : obj_value
-                    },
-                    dataType: 'json',
-                    success: function(data) {
-                        obj_value2 = document.getElementById('atl_hidden_class_9').defaultValue;
-                        
-                        obj_temp = jQuery('select[name="class_9"]');//document.filter[index];
-                        obj_temp.disabled = false;
-
-                        _options = obj_temp.attr('options');
-
-                        m = 0;
-                        q = 0;
-
-                        $.each(data,function(index) { 
-                            $('select[name="class_9"]').append($('<option ' + (data[index].value == obj_value2 ? 'selected' : '') + '></option>').attr('value', data[index].value).text(data[index].text));
-                            m++;
-                            
-                            if (data[index].value == obj_value2) {
-                                /** atl jun-4-2012 **/
-                                document.getElementById('model_name').defaultValue = data[index].text;
-                                /** atl jun-4-2012 **/
-                                q = m;
-                            }
-                        });
-
-                        jQuery('select[name="class_9"] option').each(function(){
-                            if(jQuery(this).text() == 'All ') jQuery(this).text('All');
-                        });
-                        
-                        $('select[name="class_year"], select[name="class_8"], select[name="class_9"]').attr('disabled', '');                        
-                        return false;
-                    }
-                });
-            }
-            /** atl may-28-2012 **/
-            
-            /** atl process ajax may-30-2012 **/
-            function callAllProducts() {
-                var cPath         = '';
-                var refresh_class = jQuery('input[name="refresh_class"]').val();
-                var car_name      = document.getElementById('car_name').defaultValue;
-                var model_name    = document.getElementById('model_name').defaultValue;
-                var my_value      = jQuery('input[name="my_value"]').val();
-                var my_type_id    = jQuery('input[name="my_type_id"]').val();
-                // var class_8       = jQuery('select[name="class_8"] :selected').val();
-                // var class_9       = jQuery('select[name="class_9"] :selected').val();
-                var class_8       = document.getElementById('atl_hidden_class_8').defaultValue;
-                var class_9       = document.getElementById('atl_hidden_class_9').defaultValue;
-                
-                /** atl classiffication feb-14-2012 **/
-                // var class_year = jQuery('select[name="class_year"] :selected').val();
-                var class_year = document.getElementById('atl_hidden_class_y').defaultValue;
-                /** atl feb-14-2012 **/
-                var manufacturers_id = jQuery.address.parameter('manufacturers_id');
-                var randomnumber = Math.floor(Math.random()*1000);
-        
-                //valide if exist inner div
-                var useDiv = jQuery('#main_category_listing');
-                //load section content
-                jQuery('#reg_breadcrumb').show();
-                jQuery('#loading_img_list').show();
-        
-                useDiv.css('opacity', '0.5');
-                // refresh_class: refresh_class,
-                
-                jQuery.ajaxSetup({ cache: false, type: 'get' });
-                jQuery.ajax({
-                    url: ('index_ajax.php?' + randomnumber),
-                    type: 'get',
-                    data: {
-                        cPath        : cPath,
-                        car_name     : car_name,
-                        model_name   : model_name,
-                        my_value     : my_value,
-                        my_type_id   : my_type_id,
-                        class_8      : class_8,
-                        class_9      : class_9,
-                        /** atl classiffication feb-14-2012 **/
-                        class_year   : class_year,
-                        /** atl feb-14-2012 **/
-                        manufacturers_id : manufacturers_id,
-                        no_cre_RCI   : 1
-                    },
-                    success: function(data) {
-                        atl_has_parameter = false;
-                        atl_parameters = '';
-
-                        if(cPath != '') {
-                            atl_parameters = atl_parameters + 'cPath=' + cPath + '&';
-                            atl_has_parameter = true;
-                        }
-        
-                        if(manufacturers_id != '' && manufacturers_id != null) {        
-                            atl_parameters = atl_parameters + 'manufacturers_id=' + manufacturers_id + '&';
-                            atl_has_parameter = true;
-                        }
-
-                        /** atl classiffication feb-10-2012 **/
-                        car_name = car_name.replace(/-/g, '_');
-                        car_name = car_name.replace(/ /g, '_');
-
-                        model_name = model_name.replace(/-/g, '_');
-                        model_name = model_name.replace(/ /g, '_');
-                        /** atl feb-10-2012 **/
-                
-                        /** atl classiffication mar-1-2012 **/
-                        model_name = model_name.replace(/,/g, '');
-                        /** atl mar-1-2012 **/
-                        
-                        car_name = car_name.replace(/Choose_Vehicle/g, '');
-                        model_name = model_name.replace(/Choose_Model/g, '');
-                
-                        /** atl classiffication mar-22-2012 **/
-                        var newUrl = ((class_year < 0 || class_year == '')? '' : class_year + '_' )
-                            + car_name + '_'
-                            + model_name + '-'
-                            + ((class_9 < 0)? '0' : class_9 ) + '-'
-                            + ((my_type_id != '')? (my_type_id) : '' ) + '-'
-                            + ((my_value != '')? (my_value) : '') + '-'
-                            + class_8 + '.html'
-                            + (atl_has_parameter == true ? '?' : '') + atl_parameters;
-                        /** atl mar-22-2012 **/
-                
-                        jQuery.address.value( newUrl );
-                        var useDiv = jQuery('#main_category_listing');
-
-                        jQuery('#loading_img_list').hide();
-                        useDiv.html(data).css('opacity', '1');
-
-                        //call function top_up.js
-                        jQuery("#gallery1 div").mouseenter(function(){
-                            jQuery(this).children("div").fadeIn('slow');
-                        }).mouseleave(function(){
-                            jQuery(this).children("div").fadeOut('slow');
-                        });
-                        //load menu content
-                        jQuery.ajaxSetup({ cache: false, type: 'get' });
-                        jQuery.ajax({
-                            url: ('categories_menu_ajax.php?' + randomnumber),
-                            type: 'get',
-                            data: { cPath: cPath, page: 1 },
-                            success: function(data) {
-                                jQuery('#categories-content').html(data);
-                            }
-                        });
-                        return false;
-                    }
-                });
-                return false;
-            }
-            /** atl may-30-2012 **/
-
-            function update_Card() {
-                // jQuery('#car_name').val(jQuery('select[name="class_8"] :selected').text());
-                // jQuery('#model_name').val(jQuery('select[name="class_9"] :selected').text());
-                
-                return true;
-            }
-
-            function hideVehicleSelector() {
-                jQuery('#chance_vehicle_href').hide();
-                jQuery('#vehicle_selector_zone').slideUp();
-            }
-
-            function checksubmit(obj) {
-                if(obj.options.length<=1)
-                    obj.form.submit();
-            }
-
-            /** atl mar-19-2012 **/
-            function classesPopUp(url) {
-                if (document.location.href.indexOf('#') != -1) {
-                    url = 'http://www.vividracing.com/catalog' + jQuery.address.value();
-                } else {
-                    url = document.location.href;
-                }
-
-                var ytdWin = window.open('http://www.vividracing.com/catalog/share_link.php?url=' + url,'','height=180,width=700,screenX=150,screenY=150,top=150,left=150');
-                return false;
-            }
-            /** atl mar-19-2012 **/
-
-            /** atl classiffication apr-14-2012 **/
-            $(document).ready(function() {
-                jQuery('select[name="class_9"] option').each(function(){
-                    if(jQuery(this).attr('value') != '') $(this).remove();
-                });
-            });
-            /** atl apr-14-2012 **/
-            //-->
-        </script>
-    </td>
-</tr>
-<!-- classification_eof //--><!-- categories //-->
+				</select>
+			</div>
+			<div class="selectbox makeselect">
+				<select name="make" class="make" onchange="javascript: makechange(this);" disabled="">
+					<option selected="" value="-1">Select A Make</option>
+				</select>
+			</div>
+			<div class="selectbox modelselect">
+				<select name="model" class="model" onchange="javascript: modelchange(this); productUpdate(this);" disabled="">
+					<option selected="" value="-1">Select A Model</option>
+				</select>
+				<input type="hidden" name="cPath" id="category_get">
+			</div>
+		</form>			</div>
+		</td>
+	</tr>
+<!-- categories //-->
 
 <tr>
     <td id="categories-content"><table width="188" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
-    <td class="SideCatBox" style="border-top:1px solid #adadad;"><a alt="8127" class="ajax-link Cat" href="http://www.vividracing.com/catalog/clearance-deals-c-8127.html"><span>CLEARANCE DEALS</span></a><a alt="4460" class="ajax-link Cat" href="http://www.vividracing.com/catalog/air-intakes-c-4460.html"><span>Air Intakes</span></a><a alt="4862" class="ajax-link Cat" href="http://www.vividracing.com/catalog/big-brake-kits-c-4862.html"><span>Big Brake Kits</span></a><a alt="4238" class="ajax-link Cat" href="http://www.vividracing.com/catalog/brake-parts-c-4238.html"><span>Brake Parts</span></a><a alt="4218" class="ajax-link Cat" href="http://www.vividracing.com/catalog/body-aero-kits-c-4218.html"><span>Body | Aero Kits</span></a><a alt="7401" class="ajax-link Cat" href="http://www.vividracing.com/catalog/electronics-audio-video-c-4339_7401.html"><span>Car Audio | Video</span></a><a alt="4348" class="ajax-link Cat" href="http://www.vividracing.com/catalog/ecu-tuning-c-4348.html"><span>ECU Tuning</span></a><a alt="4339" class="ajax-link Cat" href="http://www.vividracing.com/catalog/electronics-c-4339.html"><span>Electronics</span></a><a alt="4504" class="ajax-link Cat" href="http://www.vividracing.com/catalog/engine-internals-c-4504.html"><span>Engine Internals</span></a><a alt="4206" class="ajax-link Cat" href="http://www.vividracing.com/catalog/engine-upgrades-c-4206.html"><span>Engine Upgrades</span></a><a alt="4246" class="ajax-link Cat" href="http://www.vividracing.com/catalog/exhaust-parts-c-4246.html"><span>Exhaust Parts</span></a><a alt="4217" class="ajax-link Cat" href="http://www.vividracing.com/catalog/exterior-c-4217.html"><span>Exterior</span></a><a alt="4207" class="ajax-link Cat" href="http://www.vividracing.com/catalog/fuel_components-c-4207.html"><span>Fuel Components</span></a><a alt="4340" class="ajax-link Cat" href="http://www.vividracing.com/catalog/gauges-c-4340.html"><span>Gauges</span></a><a alt="4259" class="ajax-link Cat" href="http://www.vividracing.com/catalog/interior-c-4259.html"><span>Interior</span></a><a alt="" class="Cat" href="http://www.vividracing.com/catalog/oem/"><span>OEM Repair Parts</span></a><a alt="6692" class="ajax-link Cat" href="http://www.vividracing.com/catalog/power-packages-c-6692.html"><span>Power Packages</span></a><a alt="4243" class="ajax-link Cat" href="http://www.vividracing.com/catalog/pulleys-c-4243.html"><span>Pulleys</span></a><a alt="4375" class="ajax-link Cat" href="http://www.vividracing.com/catalog/racing-gear-c-4375.html"><span>Racing Gear</span></a><a alt="4288" class="ajax-link Cat" href="http://www.vividracing.com/catalog/radiator-parts-c-4288.html"><span>Radiator Parts</span></a><a alt="4392" class="ajax-link Cat" href="http://www.vividracing.com/catalog/roll-bars_cages-c-4392.html"><span>Roll Bars | Cages</span></a><a alt="4208" class="ajax-link Cat" href="http://www.vividracing.com/catalog/suspension-c-4208.html"><span>Suspension</span></a><a alt="4257" class="ajax-link Cat" href="http://www.vividracing.com/catalog/transmission-c-4257.html"><span>Transmission</span></a><a alt="4266" class="ajax-link Cat" href="http://www.vividracing.com/catalog/turbo-supercharger-c-4266.html"><span>Turbo | Supercharger</span></a><a alt="6424" class="ajax-link Cat" href="http://www.vividracing.com/catalog/wheels-and-tires-c-6424.html"><span>Wheels and Tires</span></a><a alt="5337" class="ajax-link Cat" href="http://www.vividracing.com/catalog/universal-repair-c-5337.html"><span>Universal &amp; Repair</span></a><a alt="4463" class="ajax-link Cat" href="http://www.vividracing.com/catalog/vivid-racing-gear-c-4463.html"><span>Vivid Racing Gear</span></a><a class="Cat" href="http://www.vividracing.com/catalog/producthelp.php"><span><font color="000000">Product Request Form</font></span></a></td>
+    <td class="SideCatBox" style="border-top:1px solid #adadad;"><a alt="8127" class="ajax-link Cat" href="http://www.vividracing.com/catalog/clearance-deals-c-8127.html"><span>CLEARANCE DEALS</span></a><a alt="4460" class="ajax-link Cat" href="http://www.vividracing.com/catalog/air-intakes-c-4460.html"><span>Air Intakes</span></a><a alt="4862" class="ajax-link Cat" href="http://www.vividracing.com/catalog/big-brake-kits-c-4862.html"><span>Big Brake Kits</span></a><a alt="4238" class="ajax-link Cat" href="http://www.vividracing.com/catalog/brake-parts-c-4238.html"><span>Brake Parts</span></a><a alt="4218" class="ajax-link Cat" href="http://www.vividracing.com/catalog/body-aero-kits-c-4218.html"><span>Body | Aero Kits</span></a><a alt="4348" class="ajax-link Cat" href="http://www.vividracing.com/catalog/ecu-tuning-c-4348.html"><span>ECU Tuning</span></a><a alt="4339" class="ajax-link Cat" href="http://www.vividracing.com/catalog/electronics-c-4339.html"><span>Electronics</span></a><a alt="4504" class="ajax-link Cat" href="http://www.vividracing.com/catalog/engine-internals-c-4504.html"><span>Engine Internals</span></a><a alt="4206" class="ajax-link Cat" href="http://www.vividracing.com/catalog/engine-upgrades-c-4206.html"><span>Engine Upgrades</span></a><a alt="4246" class="ajax-link Cat" href="http://www.vividracing.com/catalog/exhaust-parts-c-4246.html"><span>Exhaust Parts</span></a><a alt="4217" class="ajax-link Cat" href="http://www.vividracing.com/catalog/exterior-c-4217.html"><span>Exterior</span></a><a alt="4207" class="ajax-link Cat" href="http://www.vividracing.com/catalog/fuel_components-c-4207.html"><span>Fuel Components</span></a><a alt="4340" class="ajax-link Cat" href="http://www.vividracing.com/catalog/gauges-c-4340.html"><span>Gauges</span></a><a alt="4259" class="ajax-link Cat" href="http://www.vividracing.com/catalog/interior-c-4259.html"><span>Interior</span></a><a alt="6692" class="ajax-link Cat" href="http://www.vividracing.com/catalog/power-packages-c-6692.html"><span>Power Packages</span></a><a alt="4243" class="ajax-link Cat" href="http://www.vividracing.com/catalog/pulleys-c-4243.html"><span>Pulleys</span></a><a alt="4375" class="ajax-link Cat" href="http://www.vividracing.com/catalog/racing-gear-c-4375.html"><span>Racing Gear</span></a><a alt="4288" class="ajax-link Cat" href="http://www.vividracing.com/catalog/radiator-parts-c-4288.html"><span>Radiator Parts</span></a><a alt="4392" class="ajax-link Cat" href="http://www.vividracing.com/catalog/roll-bars_cages-c-4392.html"><span>Roll Bars | Cages</span></a><a alt="4208" class="ajax-link Cat" href="http://www.vividracing.com/catalog/suspension-c-4208.html"><span>Suspension</span></a><a alt="4257" class="ajax-link Cat" href="http://www.vividracing.com/catalog/transmission-c-4257.html"><span>Transmission</span></a><a alt="4266" class="ajax-link Cat" href="http://www.vividracing.com/catalog/turbo-supercharger-c-4266.html"><span>Turbo | Supercharger</span></a><a alt="6424" class="ajax-link Cat" href="http://www.vividracing.com/catalog/wheels-and-tires-c-6424.html"><span>Wheels and Tires</span></a><a alt="5337" class="ajax-link Cat" href="http://www.vividracing.com/catalog/universal-repair-c-5337.html"><span>Universal &amp; Repair</span></a><a alt="4463" class="ajax-link Cat" href="http://www.vividracing.com/catalog/vivid-racing-gear-c-4463.html"><span>Vivid Racing Gear</span></a><a class="Cat" href="http://www.vividracing.com/catalog/producthelp.php"><span><font color="000000">Product Request Form</font></span></a></td>
   </tr>
 </tbody></table></td></tr><tr>
     <td style="padding-bottom:7px;"><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
@@ -1020,7 +716,7 @@ function popupWindow(url) {
     <td class="SideinfoBoxContents"><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
   </tr>
   <tr>
-    <td align="center" class="SideinfoBoxContents"><form name="manufacturers" action="http://www.vividracing.com/catalog/index.php" method="get"><select name="manufacturers_id" onchange="manufacturersAjax(this, this.form)" size="1" class="mfgDrop"><option value="">Please Select</option><option value="482">3D Design</option><option value="800">3dCarbon</option><option value="788">57Motorsport</option><option value="445">Aasco</option><option value="98">AC Schnitzer</option><option value="467">ACPT</option><option value="148">ACT</option><option value="171">Active Autowerkes</option><option value="675">ADV1 Wheels</option><option value="865">Advan Carbon</option><option value="217">Advan Wheels</option><option value="834">Advanti Racing Wheels</option><option value="665">AEM Electronics</option><option value="70">AEM Intakes</option><option value="696">AeroCatch</option><option value="219">Aeromotive</option><option value="421">AFE</option><option value="135">Agency Power</option><option value="469">Aim Sports</option><option value="908">Air Intakes</option><option value="815">Airaid</option><option value="693">Akrapovic</option><option value="805">Albins</option><option value="661">Alcon</option><option value="374">Alpinestars</option><option value="512">ALT Wheels</option><option value="90">Alta Mini</option><option value="346">AME</option><option value="916">American Outlaw</option><option value="617">American Outlaw Wheels</option><option value="785">American Racing Headers</option><option value="835">American Racing Wheels</option><option value="378">AMP Research</option><option value="449">AMS Performance</option><option value="438">Amuse</option><option value="490">AP Racing</option><option value="69">ApexI</option><option value="99">APR Performance</option><option value="448">APR Tuned</option><option value="272">Aquamist</option><option value="381">Arai Motorsport</option><option value="28">ARC</option><option value="237">Arden</option><option value="810">ARK</option><option value="797">Arkym</option><option value="100">ARP Bolts</option><option value="836">ASA Wheels</option><option value="775">Asanti</option><option value="520">AST Suspension</option><option value="331">ATP Turbo</option><option value="463">ATS Clutch</option><option value="827">Auto Dolly</option><option value="93">Autoexe</option><option value="289">Autometer</option><option value="200">AutoPower</option><option value="861">Avant Garde</option><option value="855">Avarus Wheels</option><option value="319">Axis Wheels</option><option value="343">Axxis Brake Pads</option><option value="23">B&amp;B Exhaust</option><option value="20">B&amp;M Racing</option><option value="713">BBI Autosport</option><option value="802">BBK</option><option value="419">BBS Wheels</option><option value="485">Belanger</option><option value="388">Bell Racing</option><option value="786">Belltech</option><option value="416">Berk Technology</option><option value="918">Beyern</option><option value="619">Beyern Wheels</option><option value="268">BFGoodrich</option><option value="288">Bilstein Suspension</option><option value="457">BlackTop Aero</option><option value="27">Blitz</option><option value="464">Blouch Turbo</option><option value="489">BMC Air Filters</option><option value="402">BMW Performance</option><option value="697">Boost Logic</option><option value="837">Borbet Wheels</option><option value="830">BorgWarner Turbos</option><option value="57">Borla Exhaust</option><option value="922">Brembo</option><option value="117">Brembo Brakes</option><option value="856">Bremmer Kraft Wheels</option><option value="814">Brey Krause</option><option value="838">Breyton Wheels</option><option value="348">Brian Crower</option><option value="64">Bride Seats</option><option value="752">Bridgestone</option><option value="614">Brockway Engineering</option><option value="124">Buddy Club</option><option value="492">Burger Motorsports</option><option value="22">C-West</option><option value="723">California Motorsports</option><option value="826">Cantrell Motorsports</option><option value="505">Capristo Exhaust</option><option value="329">Carbign Craft</option><option value="330">Carbonetic</option><option value="168">Carbonio</option><option value="440">Carlsson</option><option value="263">Central 20</option><option value="287">ChargeSpeed</option><option value="126">Chokets</option><option value="738">Cipher Auto</option><option value="270">Clutch Masters</option><option value="337">Cobb Tuning</option><option value="678">Cometic Gaskets</option><option value="739">Competition Engineering</option><option value="753">Continental</option><option value="754">Cooper</option><option value="912">Corbeau</option><option value="714">Corsa</option><option value="252">Cosworth</option><option value="226">CP Pistons</option><option value="919">Cray</option><option value="622">Cray Wheels</option><option value="770">CSF Radiators</option><option value="491">CT Engineering</option><option value="17">Cusco</option><option value="339">Cyberdyne</option><option value="744">D2 Forged</option><option value="376">DAS Sports</option><option value="56">DBA Rotors</option><option value="344">DC Shoes</option><option value="688">DCT Motorsports</option><option value="499">Deatschwerks</option><option value="140">Defi Gauges</option><option value="434">Delphi</option><option value="297">Denso Spark Plugs</option><option value="909">DiabloSport</option><option value="853">Dick Cepek</option><option value="745">DMC</option><option value="699">Do Luck</option><option value="517">Downforce</option><option value="253">DPE Wheels</option><option value="917">Drag</option><option value="626">Drag Wheels</option><option value="458">Driveshaft Shop</option><option value="755">Dunlop</option><option value="712">Durametric</option><option value="651">Eagle</option><option value="686">EBC Brakes</option><option value="746">Edelbrock </option><option value="372">Edge</option><option value="36">Eibach</option><option value="165">Eisenmann Exhaust</option><option value="854">Elbrus Wheels</option><option value="915">Electronics</option><option value="411">Elite Carbon</option><option value="519">Endless</option><option value="133">Energy Suspension</option><option value="264">Enkei Wheels</option><option value="689">Epic Engineering</option><option value="866">ESM Wheels</option><option value="19">Exedy</option><option value="460">Fabspeed</option><option value="432">Fabtech</option><option value="266">Falken</option><option value="300">Ferodo</option><option value="806">Ferrari OEM Parts</option><option value="167">Fidanza</option><option value="791">Flashpoint</option><option value="255">Forced Performance</option><option value="40">Forge Motorsport</option><option value="657">Forgestar</option><option value="682">Forgiato</option><option value="777">Fujimura Auto</option><option value="279">FVD</option><option value="35">Ganador</option><option value="510">Garrett</option><option value="380">Gates</option><option value="210">Gemballa</option><option value="497">GEMS</option><option value="756">General</option><option value="383">GMG Racing</option><option value="757">Goodyear</option><option value="75">GramLights</option><option value="840">Granite Alloy</option><option value="821">Grazio &amp; Co.</option><option value="32">Greddy</option><option value="238">Grillcraft</option><option value="733">GrimmSpeed</option><option value="295">Ground Control</option><option value="652">GruppeM</option><option value="732">GSC</option><option value="60">GTSPEC</option><option value="65">H&amp;R</option><option value="195">Hamann</option><option value="758">Hankook</option><option value="672">HANS Device</option><option value="481">Hartge</option><option value="789">Hartmann</option><option value="185">Hawk Brake Pads</option><option value="841">Helo Wheels</option><option value="143">Hippo Sleek</option><option value="25">HKS</option><option value="715">Hofele</option><option value="163">Hotchkis</option><option value="249">HRE Wheels</option><option value="656">Hurst</option><option value="862">Igloo Case</option><option value="84">INGS Body Kits</option><option value="801">Injector Dynamics</option><option value="61">Injen</option><option value="365">InlinePro</option><option value="913">Interior</option><option value="58">Invidia</option><option value="417">IPD Plenum</option><option value="773">ISS Forged</option><option value="513">J's Racing</option><option value="188">JBA</option><option value="784">JE Pistons</option><option value="14">JIC</option><option value="328">JLine Wheels</option><option value="726">JM Fabrications</option><option value="907">JP</option><option value="231">JP Body Kits</option><option value="327">JRZ Suspension</option><option value="29">JUN</option><option value="225">JWT</option><option value="83">K&amp;N</option><option value="860">K3 Projekt</option><option value="751">K40 Electronics</option><option value="731">Kansai</option><option value="566">Kat</option><option value="842">Kazera Wheels</option><option value="462">Kelford</option><option value="478">Kerscher</option><option value="698">KICS</option><option value="461">Kleemann</option><option value="843">KMC Wheels</option><option value="184">Koni Shocks</option><option value="920">Konig</option><option value="631">Konig Wheels</option><option value="711">Kooks</option><option value="851">Kosei Wheels</option><option value="161">Koyo</option><option value="204">Kreissieg</option><option value="342">Ksport</option><option value="759">Kumho</option><option value="236">KW Suspension</option><option value="182">KYB Shocks</option><option value="486">Lamborghini</option><option value="373">Lamin-X</option><option value="494">Larini Systems</option><option value="772">Lexani</option><option value="76">Liberal</option><option value="768">Linear Edge</option><option value="633">Liquid Metal</option><option value="808">LNB Systems</option><option value="852">Lorenzo Wheels</option><option value="242">Lorinser</option><option value="426">Lotek</option><option value="787">M Sports</option><option value="408">Mackin</option><option value="707">MagnaFlow</option><option value="175">Magnus</option><option value="207">Magnuson</option><option value="921">Mandrus</option><option value="637">Mandrus Wheels</option><option value="778">Manley</option><option value="658">Mansory</option><option value="199">MASHAW</option><option value="92">Mazdaspeed</option><option value="635">MB Wheels</option><option value="722">MBRP</option><option value="636">Megan Racing</option><option value="418">Meisterschaft</option><option value="403">Michelin</option><option value="325">Milltek</option><option value="129">Mines</option><option value="511">MiRo</option><option value="435">Mishimoto</option><option value="488">Mitsubishi</option><option value="849">Moda</option><option value="924">Mode Carbon</option><option value="443">Mode Inc</option><option value="817">Modellista</option><option value="804">Modern Horsepower</option><option value="721">Modulare Forged</option><option value="375">MOMO</option><option value="21">Monster Sport</option><option value="444">Moroso</option><option value="850">MOTEGI Racing</option><option value="905">Motiv Concepts</option><option value="431">Moton Coilovers</option><option value="407">MOTUL</option><option value="293">Muteki</option><option value="466">MXP</option><option value="709">Nagisa Auto</option><option value="760">Nankang</option><option value="779">NAV-TV</option><option value="433">Neez</option><option value="116">Neuspeed</option><option value="97">NGK Spark Plugs</option><option value="818">Niche Wheels</option><option value="85">Nismo</option><option value="37">Nitrous Express</option><option value="267">Nitto</option><option value="771">NM Engineering</option><option value="123">Nology</option><option value="38">NOS</option><option value="243">Novitec</option><option value="274">NR Auto</option><option value="473">Oakley</option><option value="108">Oettinger</option><option value="215">Ohlins</option><option value="399">Okada Projects</option><option value="472">OMP Racing</option><option value="260">Origin</option><option value="844">OZ Racing</option><option value="910">P3Cars</option><option value="197">Pagid</option><option value="695">Password JDM</option><option value="863">Paxton Superchargers</option><option value="728">Penske</option><option value="496">Performance Friction</option><option value="10">Perrin</option><option value="638">Petrol</option><option value="792">Pfadt Racing</option><option value="717">PIAA</option><option value="439">Pirelli</option><option value="822">Planted</option><option value="320">Porsche</option><option value="748">Power Axel</option><option value="73">Power Enterprises</option><option value="668">Power Slot</option><option value="290">Precision Porsche</option><option value="832">Prior Design</option><option value="901">Pro Comp</option><option value="136">Procharger</option><option value="240">Progress</option><option value="114">Project Mu</option><option value="302">ProTorque</option><option value="49">Prova</option><option value="273">PTE</option><option value="819">Puma</option><option value="216">Quaife</option><option value="429">Quicksilver</option><option value="94">R Magic</option><option value="783">R-Tuned</option><option value="437">Racelogic USA</option><option value="687">RacingBrake</option><option value="228">Radenergie</option><option value="425">Rancho</option><option value="413">Rays Wheels</option><option value="139">RC Engineering</option><option value="341">RD Sport</option><option value="95">RE-Amemiya</option><option value="198">Recaro</option><option value="640">Redbourne</option><option value="483">Remus</option><option value="700">Rennline</option><option value="749">RennTech</option><option value="847">Rial</option><option value="80">Rieger</option><option value="680">Rotiform</option><option value="141">Rotora</option><option value="650">Route KS</option><option value="202">RPS</option><option value="446">RSC Tuning</option><option value="803">Rubicon Express</option><option value="389">Sachs</option><option value="34">Samco</option><option value="26">SARD</option><option value="500">Savini</option><option value="283">Schnell</option><option value="179">Schrick</option><option value="677">Schroth</option><option value="904">SCT</option><option value="91">Seibon</option><option value="450">Sequential Japan</option><option value="370">Shadow</option><option value="690">Skunk2</option><option value="807">Skyjacker</option><option value="662">SLP Performance</option><option value="684">SmartTOP</option><option value="911">SmittyBilt</option><option value="825">Sneed Speed Shop</option><option value="390">Softronic</option><option value="280">SP Engineering</option><option value="63">Sparco</option><option value="654">Spearco</option><option value="174">SPEC Clutch</option><option value="730">Spec-D</option><option value="719">Speed Tech</option><option value="221">speedART</option><option value="764">Sprint Booster</option><option value="794">Spyder Auto</option><option value="493">SSP</option><option value="465">SSR Wheels</option><option value="706">Stainless Works</option><option value="703">Stance</option><option value="191">Stasis</option><option value="232">Status Racing</option><option value="902">Steeda</option><option value="831">Steve Petty Motorsports</option><option value="52">STI JDM Parts</option><option value="86">Stillen</option><option value="906">Stilo</option><option value="669">StopTech</option><option value="518">STS Turbo</option><option value="385">Style King</option><option value="172">Subaru OEM Parts</option><option value="740">Superchips</option><option value="159">Supersprint</option><option value="725">Suspension Techniques</option><option value="50">SYMS</option><option value="829">Synapse Engineering</option><option value="333">Takata</option><option value="509">Takeda USA</option><option value="134">Tanabe</option><option value="323">Team Dynamics</option><option value="233">Team Tech</option><option value="96">TechArt</option><option value="694">Tecnocraft</option><option value="13">Tein</option><option value="414">TiAL</option><option value="737">TiKORE</option><option value="311">Tilton</option><option value="299">Titek</option><option value="30">Toda</option><option value="387">Tomei</option><option value="914">Tomioka Racing</option><option value="54">Tommykaira</option><option value="782">Top Secret</option><option value="743">Torque Solutions</option><option value="338">Toyo</option><option value="239">TPC Racing</option><option value="820">TRD</option><option value="848">TRMotorsport</option><option value="644">TSW</option><option value="767">TTC Performance</option><option value="364">Turbo Specialties</option><option value="235">Turbonetics</option><option value="683">Turbosmart</option><option value="41">TurboXS</option><option value="122">Ultimate Racing</option><option value="839">Ultra Wheel</option><option value="762">Unichip</option><option value="824">Unitronic</option><option value="648">V-TEC</option><option value="441">Valdi Sport</option><option value="128">Varis</option><option value="44">Veilside</option><option value="347">Velocity Motoring</option><option value="809">Velos Designwerks</option><option value="845">Verde</option><option value="227">Version Select</option><option value="710">Vertex</option><option value="262">VF Engineering</option><option value="646">Victor Equipment</option><option value="663">VIS Racing</option><option value="31">Vivid Racing</option><option value="761">Vogue</option><option value="708">Volant Performance</option><option value="218">Volk Racing</option><option value="259">Voltex</option><option value="521">Vorshlag</option><option value="201">Vorsteiner</option><option value="859">Vortech Superchargers</option><option value="515">Vossen</option><option value="166">Walbro</option><option value="477">Wald International</option><option value="666">Warm Collection</option><option value="766">WaveTrac</option><option value="734">Weapon-R</option><option value="823">Wedge Engineering</option><option value="501">Weds Wheels</option><option value="424">Werks One</option><option value="452">Wheel Mate</option><option value="833">Whipple Superchargers</option><option value="729">Whiteline</option><option value="795">Wilwood</option><option value="799">Woody Stick</option><option value="220">Work Wheels</option><option value="735">Works Bell</option><option value="769">Wossner</option><option value="476">Xtreme Motorcars</option><option value="284">Yokohama</option><option value="278">Zeal</option><option value="692">Zele Performance</option><option value="53">Zerosports</option><option value="177">Zerosun</option><option value="857">Zinik Wheels</option></select></form></td>
+    <td align="center" class="SideinfoBoxContents"><form name="manufacturers" action="http://www.vividracing.com/catalog/index.php" method="get"><select name="manufacturers_id" onchange="manufacturersAjax(this, this.form)" size="1" class="mfgDrop"><option value="">Please Select</option><option value="482">3D Design</option><option value="800">3dCarbon</option><option value="788">57Motorsport</option><option value="1050">A-Tech</option><option value="445">Aasco</option><option value="926">Abflug</option><option value="969">Absorber</option><option value="98">AC Schnitzer</option><option value="1009">Access Evolution</option><option value="953">AccuAir</option><option value="467">ACPT</option><option value="148">ACT</option><option value="1114">Addictive Desert Designs</option><option value="675">ADV1 Wheels</option><option value="865">Advan Carbon</option><option value="217">Advan Wheels</option><option value="960">ADVANCE</option><option value="834">Advanti Racing Wheels</option><option value="1136">AEM</option><option value="665">AEM Electronics</option><option value="70">AEM Intakes</option><option value="696">AeroCatch</option><option value="219">Aeromotive</option><option value="421">AFE</option><option value="1118">aFe Power</option><option value="135">Agency Power</option><option value="469">Aim Sports</option><option value="815">Airaid</option><option value="693">Akrapovic</option><option value="805">Albins</option><option value="661">Alcon</option><option value="374">Alpinestars</option><option value="512">ALT Wheels</option><option value="90">Alta Mini</option><option value="346">AME</option><option value="1002">American Muscle</option><option value="617">American Outlaw Wheels</option><option value="785">American Racing Headers</option><option value="835">American Racing Wheels</option><option value="378">AMP Research</option><option value="449">AMS Performance</option><option value="438">Amuse</option><option value="1008">Ankglid</option><option value="1017">Answer</option><option value="490">AP Racing</option><option value="69">APEXi</option><option value="992">Apple Auto A-Real</option><option value="99">APR Performance</option><option value="448">APR Tuned</option><option value="1031">Aqua</option><option value="272">Aquamist</option><option value="958">AR Design</option><option value="381">Arai Motorsport</option><option value="28">ARC</option><option value="237">Arden</option><option value="810">ARK</option><option value="797">Arkym</option><option value="100">ARP Bolts</option><option value="1030">Arrows</option><option value="995">Arvou</option><option value="1035">AS Sport</option><option value="836">ASA Wheels</option><option value="775">Asanti</option><option value="520">AST Suspension</option><option value="1108">ATC Sport</option><option value="959">ATI</option><option value="1109">ATL Racing</option><option value="331">ATP Turbo</option><option value="463">ATS Clutch</option><option value="1046">Auto Craft</option><option value="827">Auto Dolly</option><option value="997">Auto Kits X</option><option value="1038">Auto Plaza MILANO</option><option value="1095">Auto Tecknic</option><option value="93">Autoexe</option><option value="289">Autometer</option><option value="200">AutoPower</option><option value="861">Avant Garde</option><option value="855">Avarus Wheels</option><option value="1057">Axell Auto</option><option value="319">Axis Wheels</option><option value="1059">Axis-Parts | GT-Dry</option><option value="343">Axxis Brake Pads</option><option value="23">B&amp;B Exhaust</option><option value="20">B&amp;M Racing</option><option value="1079">BahnBrechen</option><option value="713">BBI Autosport</option><option value="802">BBK</option><option value="419">BBS Wheels</option><option value="1110">BC Forged Wheels</option><option value="485">Belanger</option><option value="388">Bell Racing</option><option value="786">Belltech</option><option value="1087">BenSopra</option><option value="416">Berk Technology</option><option value="619">Beyern Wheels</option><option value="268">BFGoodrich</option><option value="288">Bilstein Suspension</option><option value="1015">Black Alternator</option><option value="1063">Black Fleet</option><option value="457">BlackTop Aero</option><option value="943">Blackworks Racing</option><option value="27">Blitz</option><option value="464">Blouch Turbo</option><option value="489">BMC Air Filters</option><option value="402">BMW Performance</option><option value="1007">BOMEX</option><option value="697">Boost Logic</option><option value="837">Borbet Wheels</option><option value="830">BorgWarner Turbos</option><option value="1117">Borla</option><option value="57">Borla Exhaust</option><option value="1088">Bozz Speed</option><option value="1106">Braille Battery</option><option value="1107">Brake Parts</option><option value="117">Brembo Brakes</option><option value="856">Bremmer Kraft Wheels</option><option value="814">Brey Krause</option><option value="838">Breyton Wheels</option><option value="348">Brian Crower</option><option value="64">Bride Seats</option><option value="752">Bridgestone</option><option value="614">Brockway Engineering</option><option value="1113">BSH Speedshop</option><option value="124">Buddy Club</option><option value="492">Burger Motorsports</option><option value="22">C-West</option><option value="723">California Motorsports</option><option value="826">Cantrell Motorsports</option><option value="505">Capristo Exhaust</option><option value="1005">Car Garage Amis</option><option value="329">Carbign Craft</option><option value="927">Carbon Tek</option><option value="330">Carbonetic</option><option value="168">Carbonio</option><option value="1065">Cargraphic</option><option value="440">Carlsson</option><option value="263">Central 20</option><option value="287">ChargeSpeed</option><option value="126">Chokets</option><option value="738">Cipher Auto</option><option value="1112">CLEARANCE DEALS</option><option value="270">Clutch Masters</option><option value="337">Cobb Tuning</option><option value="678">Cometic Gaskets</option><option value="739">Competition Engineering</option><option value="753">Continental</option><option value="754">Cooper</option><option value="912">Corbeau</option><option value="714">Corsa</option><option value="252">Cosworth</option><option value="226">CP Pistons</option><option value="622">Cray Wheels</option><option value="770">CSF Radiators</option><option value="491">CT Engineering</option><option value="954">CTS Turbo</option><option value="17">Cusco</option><option value="339">Cyberdyne</option><option value="1089">DAMD</option><option value="1067">Darton Sleeves</option><option value="376">DAS Sports</option><option value="56">DBA Rotors</option><option value="344">DC Shoes</option><option value="961">DC Sports</option><option value="688">DCT Motorsports</option><option value="499">Deatschwerks</option><option value="140">Defi Gauges</option><option value="434">Delphi</option><option value="297">Denso Spark Plugs</option><option value="945">DevilsOwn</option><option value="909">DiabloSport</option><option value="853">Dick Cepek</option><option value="745">DMC</option><option value="1090">Do-Luck</option><option value="517">Downforce</option><option value="253">DPE Wheels</option><option value="626">Drag Wheels</option><option value="458">Driveshaft Shop</option><option value="755">Dunlop</option><option value="1105">Duraflex</option><option value="712">Durametric</option><option value="651">Eagle</option><option value="686">EBC Brakes</option><option value="746">Edelbrock </option><option value="372">Edge</option><option value="1111">Edirb</option><option value="36">Eibach</option><option value="165">Eisenmann Exhaust</option><option value="854">Elbrus Wheels</option><option value="411">Elite Carbon</option><option value="519">Endless</option><option value="133">Energy Suspension</option><option value="264">Enkei Wheels</option><option value="689">Epic Engineering</option><option value="1092">Ericsson</option><option value="866">ESM Wheels</option><option value="19">Exedy</option><option value="460">Fabspeed</option><option value="432">Fabtech</option><option value="1093">FABULOUS</option><option value="266">Falken</option><option value="1018">FEED</option><option value="300">Ferodo</option><option value="806">Ferrari OEM Parts</option><option value="167">Fidanza</option><option value="791">Flashpoint</option><option value="255">Forced Performance</option><option value="40">Forge Motorsport</option><option value="657">Forgestar</option><option value="682">Forgiato</option><option value="777">Fujimura Auto</option><option value="972">FUJITSUBO</option><option value="279">FVD</option><option value="35">Ganador</option><option value="1019">Garage Vary</option><option value="510">Garrett</option><option value="380">Gates</option><option value="497">GEMS</option><option value="756">General</option><option value="757">Goodyear</option><option value="1020">GP Sports</option><option value="75">GramLights</option><option value="840">Granite Alloy</option><option value="821">Grazio &amp; Co.</option><option value="32">Greddy</option><option value="238">Grillcraft</option><option value="733">GrimmSpeed</option><option value="295">Ground Control</option><option value="652">GruppeM</option><option value="732">GSC</option><option value="928">GTM Performance Engineering</option><option value="60">GTSPEC</option><option value="65">H&amp;R</option><option value="195">Hamann</option><option value="758">Hankook</option><option value="672">HANS Device</option><option value="481">Hartge</option><option value="789">Hartmann</option><option value="185">Hawk Brake Pads</option><option value="841">Helo Wheels</option><option value="1068">Hex Flash</option><option value="143">Hippo Sleek</option><option value="25">HKS</option><option value="715">Hofele</option><option value="1060">HOMURA</option><option value="163">Hotchkis</option><option value="947">HPF</option><option value="956">HPS Silicone Hoses</option><option value="249">HRE Wheels</option><option value="1119">Huf</option><option value="656">Hurst</option><option value="399">Ignition Projects</option><option value="84">INGS Body Kits</option><option value="801">Injector Dynamics</option><option value="61">Injen</option><option value="365">InlinePro</option><option value="942">Innovate Motorsports</option><option value="913">Interior</option><option value="58">Invidia</option><option value="417">IPD Plenum</option><option value="773">ISS Forged</option><option value="513">J's Racing</option><option value="188">JBA</option><option value="1066">JDP Engineering</option><option value="784">JE Pistons</option><option value="14">JIC</option><option value="328">JLine Wheels</option><option value="726">JM Fabrications</option><option value="231">JP Body Kits</option><option value="327">JRZ Suspension</option><option value="29">JUN</option><option value="225">JWT</option><option value="83">K&amp;N</option><option value="860">K3 Projekt</option><option value="751">K40 Electronics</option><option value="731">Kansai</option><option value="462">Kelford</option><option value="957">Kelleners Sport</option><option value="478">Kerscher</option><option value="698">KICS</option><option value="461">Kleemann</option><option value="843">KMC Wheels</option><option value="184">Koni Shocks</option><option value="631">Konig Wheels</option><option value="711">Kooks</option><option value="851">Kosei Wheels</option><option value="161">Koyo</option><option value="204">Kreissieg</option><option value="342">Ksport</option><option value="759">Kumho</option><option value="236">KW Suspension</option><option value="182">KYB Shocks</option><option value="486">Lamborghini</option><option value="373">Lamin-X</option><option value="494">Larini Systems</option><option value="772">Lexani</option><option value="76">Liberal</option><option value="768">Linear Edge</option><option value="633">Liquid Metal</option><option value="808">LNB Systems</option><option value="852">Lorenzo Wheels</option><option value="242">Lorinser</option><option value="426">Lotek</option><option value="787">M Sports</option><option value="408">Mackin</option><option value="707">MagnaFlow</option><option value="175">Magnus</option><option value="207">Magnuson</option><option value="637">Mandrus Wheels</option><option value="778">Manley</option><option value="658">Mansory</option><option value="92">Mazdaspeed</option><option value="635">MB Wheels</option><option value="722">MBRP</option><option value="1021">MCR</option><option value="636">Megan Racing</option><option value="418">Meisterschaft</option><option value="403">Michelin</option><option value="325">Milltek</option><option value="129">Mines</option><option value="511">MiRo</option><option value="435">Mishimoto</option><option value="488">Mitsubishi</option><option value="1028">ML24</option><option value="849">Moda</option><option value="924">Mode Carbon</option><option value="443">Mode Inc</option><option value="817">Modellista</option><option value="804">Modern Horsepower</option><option value="721">Modulare Forged</option><option value="375">MOMO</option><option value="21">Monster Sport</option><option value="444">Moroso</option><option value="850">MOTEGI Racing</option><option value="905">Motiv Concepts</option><option value="431">Moton Coilovers</option><option value="925">Motordyne</option><option value="407">MOTUL</option><option value="1022">MUGEN</option><option value="293">Muteki</option><option value="466">MXP</option><option value="709">Nagisa Auto</option><option value="760">Nankang</option><option value="779">NAV-TV</option><option value="433">Neez</option><option value="116">Neuspeed</option><option value="97">NGK Spark Plugs</option><option value="818">Niche Wheels</option><option value="85">Nismo</option><option value="37">Nitrous Express</option><option value="267">Nitto</option><option value="771">NM Engineering</option><option value="123">Nology</option><option value="38">NOS</option><option value="243">Novitec</option><option value="274">NR Auto</option><option value="1124">NRG </option><option value="1125">NRG Innovations</option><option value="473">Oakley</option><option value="108">Oettinger</option><option value="215">Ohlins</option><option value="472">OMP Racing</option><option value="260">Origin</option><option value="844">OZ Racing</option><option value="910">P3Cars</option><option value="946">Pacesetter</option><option value="197">Pagid</option><option value="695">Password JDM</option><option value="863">Paxton Superchargers</option><option value="728">Penske</option><option value="496">Performance Friction</option><option value="10">Perrin</option><option value="638">Petrol</option><option value="717">PIAA</option><option value="439">Pirelli</option><option value="822">Planted</option><option value="1096">PLX Devices</option><option value="320">Porsche</option><option value="748">Power Axel</option><option value="73">Power Enterprises</option><option value="1099">Power House Racing</option><option value="668">Power Slot</option><option value="1098">Powerhouse Racing</option><option value="290">Precision Porsche</option><option value="1094">Precision Turbo</option><option value="832">Prior Design</option><option value="901">Pro Comp</option><option value="1121">Pro Sport Gauges</option><option value="136">Procharger</option><option value="240">Progress</option><option value="114">Project Mu</option><option value="1100">Prothane</option><option value="302">ProTorque</option><option value="49">Prova</option><option value="273">PTE</option><option value="819">Puma</option><option value="216">Quaife</option><option value="429">Quicksilver</option><option value="94">R Magic</option><option value="783">R-Tuned</option><option value="437">Racelogic USA</option><option value="687">RacingBrake</option><option value="228">Radenergie</option><option value="1072">Radium Engineering</option><option value="940">Ralco RZ</option><option value="425">Rancho</option><option value="955">Random Technology</option><option value="413">Rays Wheels</option><option value="139">RC Engineering</option><option value="341">RD Sport</option><option value="95">RE-Amemiya</option><option value="198">Recaro</option><option value="640">Redbourne</option><option value="483">Remus</option><option value="700">Rennline</option><option value="749">RennTech</option><option value="1097">RevoZport</option><option value="847">Rial</option><option value="1023">RIDOX</option><option value="80">Rieger</option><option value="680">Rotiform</option><option value="141">Rotora</option><option value="650">Route KS</option><option value="202">RPS</option><option value="1069">RS-R Sport</option><option value="446">RSC Tuning</option><option value="803">Rubicon Express</option><option value="1123">Sabelt</option><option value="389">Sachs</option><option value="34">Samco</option><option value="26">SARD</option><option value="500">Savini</option><option value="283">Schnell</option><option value="1120">Schrader</option><option value="179">Schrick</option><option value="677">Schroth</option><option value="904">SCT</option><option value="1064">Sebring</option><option value="91">Seibon</option><option value="370">Shadow</option><option value="690">Skunk2</option><option value="807">Skyjacker</option><option value="662">SLP Performance</option><option value="684">SmartTOP</option><option value="911">SmittyBilt</option><option value="280">SP Engineering</option><option value="63">Sparco</option><option value="654">Spearco</option><option value="174">SPEC Clutch</option><option value="730">Spec-D</option><option value="719">Speed Tech</option><option value="221">speedART</option><option value="1061">SPL Suspension</option><option value="998">SPOON Sports</option><option value="764">Sprint Booster</option><option value="794">Spyder Auto</option><option value="1049">SR Factory</option><option value="493">SSP</option><option value="465">SSR Wheels</option><option value="706">Stainless Works</option><option value="703">Stance</option><option value="1102">Startech</option><option value="191">STaSIS</option><option value="232">Status Racing</option><option value="902">Steeda</option><option value="1126">Steinjager</option><option value="831">Steve Petty Motorsports</option><option value="52">STI JDM Parts</option><option value="86">Stillen</option><option value="906">Stilo</option><option value="669">StopTech</option><option value="938">Street Scene</option><option value="518">STS Turbo</option><option value="385">Style King</option><option value="172">Subaru OEM Parts</option><option value="740">Superchips</option><option value="159">Supersprint</option><option value="725">Suspension Techniques</option><option value="50">SYMS</option><option value="829">Synapse Engineering</option><option value="333">Takata</option><option value="509">Takeda USA</option><option value="134">Tanabe</option><option value="323">Team Dynamics</option><option value="233">Team Tech</option><option value="96">TechArt</option><option value="939">Techna- Fit</option><option value="694">Tecnocraft</option><option value="13">Tein</option><option value="414">TiAL</option><option value="737">TiKORE</option><option value="311">Tilton</option><option value="299">Titek</option><option value="30">Toda</option><option value="387">Tomei</option><option value="914">Tomioka Racing</option><option value="54">Tommykaira</option><option value="782">Top Secret</option><option value="1070">Torque Fluid</option><option value="743">Torque Solutions</option><option value="338">Toyo</option><option value="239">TPC Racing</option><option value="820">TRD</option><option value="848">TRMotorsport</option><option value="644">TSW</option><option value="767">TTC Performance</option><option value="364">Turbo Specialties</option><option value="235">Turbonetics</option><option value="683">Turbosmart</option><option value="41">TurboXS</option><option value="122">Ultimate Racing</option><option value="839">Ultra Wheel</option><option value="762">Unichip</option><option value="824">Unitronic</option><option value="1127">Unorthodox Racing</option><option value="648">V-TEC</option><option value="441">Valdi Sport</option><option value="128">Varis</option><option value="44">Veilside</option><option value="347">Velocity Motoring</option><option value="809">Velos Designwerks</option><option value="845">Verde</option><option value="227">Version Select</option><option value="1062">Versus</option><option value="710">Vertex</option><option value="262">VF Engineering</option><option value="646">Victor Equipment</option><option value="663">VIS Racing</option><option value="31">Vivid Racing</option><option value="1115">Vivid Racing Gear</option><option value="761">Vogue</option><option value="708">Volant Performance</option><option value="218">Volk Racing</option><option value="259">Voltex</option><option value="1026">Vondy</option><option value="521">Vorshlag</option><option value="201">Vorsteiner</option><option value="859">Vortech Superchargers</option><option value="515">Vossen</option><option value="1104">VR Tuned</option><option value="166">Walbro</option><option value="477">Wald International</option><option value="666">Warm Collection</option><option value="766">WaveTrac</option><option value="734">Weapon-R</option><option value="823">Wedge Engineering</option><option value="501">Weds Wheels</option><option value="424">Werks One</option><option value="452">Wheel Mate</option><option value="833">Whipple Superchargers</option><option value="729">Whiteline</option><option value="795">Wilwood</option><option value="799">Woody Stick</option><option value="220">Work Wheels</option><option value="735">Works Bell</option><option value="769">Wossner</option><option value="284">Yokohama</option><option value="278">Zeal</option><option value="692">Zele Performance</option><option value="53">Zerosports</option><option value="857">Zinik Wheels</option></select></form></td>
   </tr>
   <tr>
     <td class="SideinfoBoxContents"><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
@@ -1045,24 +741,24 @@ function popupWindow(url) {
         <td align="left"><img src="templates/vr07/images/infobox/tbg.jpg" border="0" alt=""></td>
       </tr>
   <tr>
-    <td align="center" class="SideinfoBoxContents"><img src="templates/vr07/images/infobox/specialdepts.jpg" border="0" alt="Special Departments" title=" Special Departments "></td>
+    <td align="center" class="SideinfoBoxContents"><img src="templates/vr07/images/helpandinfo.jpg"></td>
   </tr>
       <tr>
         <td align="left" class="SideCatBox" style="border-top:1px solid #adadad; text-align:left;">
 
-<!-- <a class="Cat" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&pub=5574969588&toolid=10001&campid=5336852579&customid=&mpre=http%3A%2F%2Fstores.ebay.com%2FVivid-Racing" target="_blank"><span><font color="ff0000">e</font><font color="000099">B</font><font color="ffcc00">a</font><font color="16910d">y</font>/Clearance Store</span></a> -->
-<a class="Cat" href="http://www.vividracing.com/catalog/advanced_search_result.php?keywords=Agency%20Power&amp;page=1&amp;sort=4d"><span>Agency Power</span></a>
-<a class="Cat" href="http://www.vividracing.com/catalog/search/status+racing.html"><span>Status Racing</span></a>
-<a class="Cat" href="http://www.vividracing.com/vf"><span>VF Engineering</span></a>
-<a class="Cat" href="http://www.vividracing.com/omp"><span>OMP Racing</span></a>
-<a class="Cat" href="http://www.vividracing.com/kwcoilovers"><span>KW Coilovers</span></a>
-<a class="Cat" href="http://www.vividracing.com/vorsteiner"><span>Vorsteiner</span></a>
-<a class="Cat" href="http://www.vividracing.com/porsche"><span>Porsche Parts</span></a>
-<a class="Cat" href="http://www.vividracing.com/gtr"><span>GTR Parts</span></a>
-<a class="Cat" href="http://www.thecorvetteparts.com" target="_blank"><span>Corvette Parts</span></a>
-<a class="Cat" href="http://www.vividracing.com/frs"><span>FRS | BRZ Parts</span></a>
-<a class="Cat" href="http://www.vividracing.com/catalog/best-auto-transport-and-car-shipping-nationwide-i-139.html"><span>Vehicle Transport</span></a>
-<a class="Cat" href="http://www.vividracing.com/catalog/wholesale-auto-parts-sales-i-10.html"><span>VR Wholesale Login</span></a>
+<a class="Cat" href="http://www.vividracing.com/catalog/finance.php"><span>Finance Your Parts</span></a>
+<a class="Cat" href="http://www.vividracing.com/catalog/pages.php?cID=10&amp;pID=74"><span>Service &amp; Tuning</span></a>
+<a class="Cat" href="http://www.vividracing.com/catalog/our-guarantees-i-26.html"><span>Our Guarantees</span></a>
+<a class="Cat" href="http://www.vividracing.com/catalog/betterprice.php"><span>Price Matching</span></a>
+<a class="Cat" href="http://www.vividracing.com/catalog/shipping.php"><span>International Orders</span></a>
+<a class="Cat" href="http://www.vividracing.com/catalog/pages.php?pID=81"><span>Extended Warranty</span></a>
+<a class="Cat" href="http://www.vividracing.com/catalog/military.php"><span>Military Discounts</span></a>
+<a class="Cat" href="http://www.vividracing.com/catalog/reviews.php"><span>Product Reviews</span></a>
+<a class="Cat" href="http://www.vividracing.com/blog/gallery/?album=58"><span>Customer Gallery</span></a>
+<a class="Cat" href="http://www.vividracing.com/catalog/affiliate_info.php"><span>Affiliate Sales</span></a>
+<a class="Cat" href="http://www.vividracing.com/catalog/shippingreturns-i-27.html"><span>Shipping &amp; Returns</span></a>
+<a class="Cat" href="http://www.vividracing.com/catalog/termsconditions-i-6.html"><span>Terms &amp; Conditions</span></a>
+<a class="Cat" href="http://www.vividracing.com/catalog/pages.php?cID=9"><span>The Vivid Story</span></a>
   
 </td>
       </tr>
@@ -1110,29 +806,29 @@ function popupWindow(url) {
     <td class="SideinfoBoxContents"><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="1"></td>
   </tr>
   <tr>
-    <td class="SideinfoBoxContents"><div align="left" style="width:185px;"><b>bj lopez</b> says:<a href="http://www.vividracing.com/catalog/agency-power-exhaust-wtitanium-tips-bmw-m3-e46-0105-pri-29093.html?reviews_id=254"></a>
+    <td class="SideinfoBoxContents"><div align="left" style="width:185px;"><b>bander audroos</b> says:<a href="http://www.vividracing.com/catalog/power-axel-powerx-ecu-flash-hyundai-genesis-20t-0911-pri-118212.html?reviews_id=7487"></a>
 
-<a href="http://www.vividracing.com/catalog/agency-power-exhaust-wtitanium-tips-bmw-m3-e46-0105-pri-29093.html?reviews_id=254">I have this exhaust on my car. it sounds amazing and looks great with those Titanium tips. install was easy, bolts right up the car. best e46 m3 exhaust for the price! ..</a><br><img src="images/stars_5.gif" border="0" alt="5 of 5 Stars!" title=" 5 of 5 Stars! "><br><hr>
-
-
-<b>guevorkyan</b> says:<a href="http://www.vividracing.com/catalog/autopower-4point-streetsport-bolt-in-roll-bar-bmw-e36-m3-9299-pri-7891.html?reviews_id=6537"></a>
-
-<a href="http://www.vividracing.com/catalog/autopower-4point-streetsport-bolt-in-roll-bar-bmw-e36-m3-9299-pri-7891.html?reviews_id=6537">hello , i am from franch , and i want to buy a street-sport bolt inrool bar , but i dont know if ou shipped it to french , and what are de price for shipping in franch ? thanks ..</a><br><img src="images/stars_5.gif" border="0" alt="5 of 5 Stars!" title=" 5 of 5 Stars! "><br><hr>
+<a href="http://www.vividracing.com/catalog/power-axel-powerx-ecu-flash-hyundai-genesis-20t-0911-pri-118212.html?reviews_id=7487">Power Axel PowerX ECU Flash Works with 07 Hyundai sonata V6 3.3l i need tuning my car if fit. ..</a><br><img src="images/stars_5.gif" border="0" alt="5 of 5 Stars!" title=" 5 of 5 Stars! "><br><hr>
 
 
-<b>ATHBI NAYEF AL SABAH</b> says:<a href="http://www.vividracing.com/catalog/belltech-sp-23-inch-front-inch-rear-lowering-kit-gm-1500-series-2wd-trucks-std-cab-coil-spring-0107-pri-143220.html?reviews_id=6752"></a>
+<b>Gena Kopytov</b> says:<a href="http://www.vividracing.com/catalog/eibach-prokit-lowering-springs-bmw-m3-e46-0106-pri-8219.html?reviews_id=851"></a>
 
-<a href="http://www.vividracing.com/catalog/belltech-sp-23-inch-front-inch-rear-lowering-kit-gm-1500-series-2wd-trucks-std-cab-coil-spring-0107-pri-143220.html?reviews_id=6752">Product price was very competitive. Aftersales support was excellent. Shipping cost and arrival time was very fast. Will surely buy again from you guys. ..</a><br><img src="images/stars_5.gif" border="0" alt="5 of 5 Stars!" title=" 5 of 5 Stars! "><br><hr>
-
-
-<b>Gilles Lemonnier</b> says:<a href="http://www.vividracing.com/catalog/slp-performance-loud-mouth-axleback-exhaust-tips-chevrolet-camaro-v8-2010-pri-75800.html?reviews_id=7450"></a>
-
-<a href="http://www.vividracing.com/catalog/slp-performance-loud-mouth-axleback-exhaust-tips-chevrolet-camaro-v8-2010-pri-75800.html?reviews_id=7450">Second order here, second time I am satisfied with the product and service, always with Ahmed. I am from France and I recommend this site for french buyers. ..</a><br><img src="images/stars_5.gif" border="0" alt="5 of 5 Stars!" title=" 5 of 5 Stars! "><br><hr>
+<a href="http://www.vividracing.com/catalog/eibach-prokit-lowering-springs-bmw-m3-e46-0106-pri-8219.html?reviews_id=851">For those who want to use the OEM shocks and keep their reliability,yet want a lower stance, these springs are great. The spring rates Eibach has used definitely improves handling and overall ride qua ..</a><br><img src="images/stars_5.gif" border="0" alt="5 of 5 Stars!" title=" 5 of 5 Stars! "><br><hr>
 
 
-<b>IVAN DIAZ</b> says:<a href="http://www.vividracing.com/catalog/walbro-specific-upgraded-fuel-pump-mazda-rx7-9395-pri-6926.html?reviews_id=699"></a>
+<b>evan smith</b> says:<a href="http://www.vividracing.com/catalog/cosworth-performance-head-gasket-13mm-mitsubishi-evo-ivviii-20l-4g63-9605-pri-43292.html?reviews_id=216"></a>
 
-<a href="http://www.vividracing.com/catalog/walbro-specific-upgraded-fuel-pump-mazda-rx7-9395-pri-6926.html?reviews_id=699">Bought item about FEB.- MAR I like that it came with very specific instruction that where easy to follow. I would recommend this product. ..</a><br><img src="images/stars_5.gif" border="0" alt="5 of 5 Stars!" title=" 5 of 5 Stars! "><br><hr>
+<a href="http://www.vividracing.com/catalog/cosworth-performance-head-gasket-13mm-mitsubishi-evo-ivviii-20l-4g63-9605-pri-43292.html?reviews_id=216">Upgraded gaskets are a must when you build your evo up. This is a great one! ..</a><br><img src="images/stars_5.gif" border="0" alt="5 of 5 Stars!" title=" 5 of 5 Stars! "><br><hr>
+
+
+<b>Brendan Garvey</b> says:<a href="http://www.vividracing.com/catalog/hks-fine-tune-timing-belt-toyota-corolla-gts-8591-pri-30128.html?reviews_id=351"></a>
+
+<a href="http://www.vividracing.com/catalog/hks-fine-tune-timing-belt-toyota-corolla-gts-8591-pri-30128.html?reviews_id=351">This is one of the most critical small parts to add to your engine. Its not just a pretty part, if your timing belt goes you can say goodbye to your engine. These are made to reduce stretching at high ..</a><br><img src="images/stars_5.gif" border="0" alt="5 of 5 Stars!" title=" 5 of 5 Stars! "><br><hr>
+
+
+<b>Chris Landegent</b> says:<a href="http://www.vividracing.com/catalog/jdm-subaru-wrx-non-hid-headlights-0203-pri-269.html?reviews_id=130"></a>
+
+<a href="http://www.vividracing.com/catalog/jdm-subaru-wrx-non-hid-headlights-0203-pri-269.html?reviews_id=130">The description says the \"Right Hand Drive\" beam pattern is good for in the USA, but this is wrong. The USA requires a left hand drive beam pattern. The European WRX Non HID Headlightsfor 02-03 have ..</a><br><img src="images/stars_3.gif" border="0" alt="3 of 5 Stars!" title=" 3 of 5 Stars! "><br><hr>
 
 
 <br>
@@ -1156,38 +852,6 @@ function popupWindow(url) {
             </td>
           </tr>
 <!-- reviews_eof //-->
-<!-- affiliate_link //-->
-
-<tr>
-  <td style="padding-bottom:5px;"><table border="0" width="100%" cellspacing="0" cellpadding="0">
-      <tbody><tr>
-        <td align="left"><img src="templates/vr07/images/infobox/tbg.jpg" border="0" alt=""></td>
-      </tr>
-  <tr>
-    <td align="center" class="SideinfoBoxContents"><img src="templates/vr07/images/helpandinfo.jpg"></td>
-  </tr>
-      <tr>
-        <td align="left" class="SideCatBox" style="border-top:1px solid #adadad; text-align:left;">
-
-
-<a class="Cat" href="http://www.vividracing.com/catalog/pages.php?cID=10&amp;pID=74"><span>Service &amp; Tuning</span></a>
-<a class="Cat" href="http://www.vividracing.com/catalog/our-guarantees-i-26.html"><span>Our Guarantees</span></a>
-<a class="Cat" href="http://www.vividracing.com/catalog/betterprice.php"><span>Price Matching</span></a>
-<a class="Cat" href="http://www.vividracing.com/catalog/shipping.php"><span>International Orders</span></a>
-<a class="Cat" href="http://www.vividracing.com/catalog/pages.php?pID=81"><span>Extended Warranty</span></a>
-<a class="Cat" href="http://www.vividracing.com/catalog/military.php"><span>Military Discounts</span></a>
-<a class="Cat" href="http://www.vividracing.com/catalog/reviews.php"><span>Product Reviews</span></a>
-<a class="Cat" href="http://www.vividracing.com/blog/gallery/?album=58"><span>Customer Gallery</span></a>
-<a class="Cat" href="http://www.vividracing.com/catalog/affiliate_info.php"><span>Affiliate Sales</span></a>
-<a class="Cat" href="http://www.vividracing.com/catalog/shippingreturns-i-27.html"><span>Shipping &amp; Returns</span></a>
-<a class="Cat" href="http://www.vividracing.com/catalog/termsconditions-i-6.html"><span>Terms &amp; Conditions</span></a>
-<a class="Cat" href="http://www.vividracing.com/catalog/pages.php?cID=9"><span>The Vivid Story</span></a>
-  
-</td>
-      </tr>
-    </tbody></table></td>
-</tr>
-<!-- affiliate_link_eof //-->
                             <!-- left_navigation_eof //-->
                         </tbody></table></td>
                             <td align="right" valign="top" style="background:#fcfcfc url(templates/vr07/images/vr_22.jpg) repeat-x top;">
@@ -1397,6 +1061,8 @@ function popupWindow(url) {
 
                      <img src="templates/vr07/images/spacer.gif" alt="" width="11" height="50"><table align="center" cellpadding="3" cellspacing="3" width="100%">
                       <tbody><tr></tr>
+					 
+
                        <tr></tr>
                       <tr align="center">
                     
@@ -1441,7 +1107,16 @@ satisfaction"</span> </td>
                             <td>
 
                                 
-<a href="http://www.vividracing.com/catalog/redirect.php?action=banner&amp;goto=3"><img src="images/ap-exhausts.jpg" border="0" alt="Agency Power Exh 2" title=" Agency Power Exh 2 "></a>
+
+
+<!--/* OpenX iFrame Tag v2.8.11 */-->
+
+
+
+<iframe id="a0417bd2" name="a0417bd2" src="http://ads.vividracing.com/www/delivery/afr.php?zoneid=31&amp;cb=INSERT_RANDOM_NUMBER_HERE" frameborder="0" scrolling="no" width="728" height="90"><a href='http://ads.vividracing.com/www/delivery/ck.php?n=af44c0d5&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ads.vividracing.com/www/delivery/avw.php?zoneid=31&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=af44c0d5' border='0' alt='' /></a></iframe>
+
+
+
                               
 
 
@@ -1488,6 +1163,7 @@ satisfaction"</span> </td>
      
       <img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.vividracing.tw">Taiwan</a><br>
       <img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.vividracing.asia">China</a><br>
+       <img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://uk.horsepowerfreaks.com">HPF UK</a><br>
       
      
   </td></tr>
@@ -1496,17 +1172,18 @@ satisfaction"</span> </td>
   <tbody><tr>
     <td class="proBottomInfo" valign="top"><img src="templates/vr07/images/internationalsites.gif" border="0" alt="International Sites" title=" International Sites "><br>
       <img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.vividracing.co.uk" target="_blank">United Kingdom</a><br>
-       <img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.vividracing.co.uk" target="_blank">England</a><br>
+       <img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.vividracing.jp" target="_blank">Japan</a><br>
       
 	  <img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://australia.vividracing.com" target="_blank">Australia</a><br>
 	  
 	  <img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.vividracing.co.nz" target="_blank">New Zealand</a><br>
 	  
-	  <img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.vividracing.fr" target="_blank">France</a><br>
+	  <img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.vividracing.ru" target="_blank">Russia</a><br>
 	  
       <img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.vividracing.de" target="_blank">Germany</a><br>
      
       <img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.vividracing.it" target="_blank">Italy</a><br>
+       <img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://canada.horsepowerfreaks.com" target="_blank">HPF Canada</a><br>
       
      
   </td></tr>
@@ -1514,15 +1191,17 @@ satisfaction"</span> </td>
 			        <td width="15%" valign="top"><table border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
     <td class="proBottomInfo" valign="top"><img src="templates/vr07/images/vrownedsites.gif" border="0" alt="Vivid Racing Mini Sites" title=" Vivid Racing Mini Sites "><br>
-      <img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.4x4truckpartsonline.com">4x4 Offroad Parts</a><br>
-       <img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.aerokitstore.com">Body Aero Kits</a><br>
+      <img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.gphelmets.com" target="_blank">Arai GP Helmets</a><br>
+       <img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.aerokitstore.com" target="_blank">Body Aero Kits</a><br>
         
-        <img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.aftermarketclutch.com">Clutch Upgrades</a><br>
-      <img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.bmwmodifications.info">BMW Parts</a><br>
-      <img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.brakesstore.com">Brake Upgrades</a><br>
-       <img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.hrewheels.co">HRE Wheels</a><br>
-      <img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.brembos.com">Brembo Brakes</a><br>
-     <br></td>
+        <img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.aftermarketclutch.com" target="_blank">Clutch Upgrades</a><br>
+      <img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.bmwmodifications.info" target="_blank">BMW Parts</a><br>
+      <img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.brakesstore.com" target="_blank">Brake Upgrades</a><br>
+       <img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.hrewheels.co" target="_blank">HRE Wheels</a><br>
+      <img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.brembos.com" target="_blank">Brembo Brakes</a><br>
+      <img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://australia.horsepowerfreaks.com" target="_blank">HPF Australia</a><br>
+     
+     </td>
      
   </tr>
 </tbody></table>
@@ -1536,7 +1215,8 @@ satisfaction"</span> </td>
       <img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.mercedestuningparts.com">Mercedes Parts</a><br>	
        <img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.minicoopermodssite.com">Mini Cooper Mods</a><br>	
       <img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.stoptech.co">StopTech Brakes</a><br>	
-      <img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.statusracing.com">Status Racing</a><br>	
+      <img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.statusracing.com">Status Racing</a><br>
+       <img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.speedwayhelmets.com">Speedway Helmets</a><br>	
 	  
 	  
 	  </td>
@@ -1550,8 +1230,8 @@ satisfaction"</span> </td>
            <img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.mitsubishimodifications.com">Mitsubishi EVO Parts</a><br>	
         <img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.mymodifiednissan.com">Nissan GTR Parts</a><br>	
       <img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.rayswheelsusa.com">Volk Racing Wheels</a><br>	
-       <img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.softronictuning.com">Porsche ECU Tuning</a><br>	
-      <img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.seibonparts">Seibon Carbon Parts</a><br>
+       <img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.vrtuned.com">Porsche ECU Tuning</a><br>	
+      <img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.seibonparts.com">Seibon Carbon Parts</a><br>
       <img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.hksparts.com">HKS USA Parts</a><br>	
 	  
 	  
@@ -1562,13 +1242,13 @@ satisfaction"</span> </td>
 					<td width="20%" valign="top"><table border="0" cellspacing="0" cellpadding="0">	
   <tbody><tr>	
    <td class="proBottomInfo" valign="top"><img src="templates/vr07/images/vrownedsites.gif" border="0" alt=""><br>	
-      <img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.vagency-power.com" target="_blank">Agency Power</a><br>	
-      <img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.meisterschaftexhausts.com" target="_blank">Meisterschaft</a><br>	
+      <img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.agency-power.com" target="_blank">Agency Power</a><br>	
+      <img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.m3performanceparts.com" target="_blank">M3 Parts</a><br>
 	  <img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.teincoilovers.net" target="_blank">Tein Coilovers</a><br>
       <img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.a4audiparts.com" target="_blank">Audi A4 Parts</a><br>	
-      <img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.afeairintake.net" target="_blank">aFe Air Intakes</a><br>	
-      <img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.m3performanceparts.com" target="_blank">M3 Parts</a><br>	
-	 <img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.azdirtriders.com" target="_blank">AZDirtRiders</a><br>
+      <img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.horsepowerfreaks.com" target="_blank">HorsepowerFreaks</a><br>	
+      <img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://store.horsepowerfreaks.com" target="_blank">HPF Store</a><br>	
+	 <img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.vrtuned.com" target="_blank">ECU Tuning</a><br>
      	
 	  
 	  
@@ -1604,38 +1284,39 @@ satisfaction"</span> </td>
   <tbody><tr>
     <td class="proBottomInfo" valign="top"><img src="templates/vr07/images/bestexhausts.jpg" border="0" alt=""><br>
 <img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.vividracing.com/catalog/search/capristo+exhaust.html">Capristo Exhaust</a><br>
-<img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.vividracing.com/catalog/search/quicksilver+exhaust.html">Quicksilver</a><br>
+<img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.vividracing.com/catalog/porsche-997-exhaust-i-154.html">Porsche 997 Exhaust</a><br>
 <img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.vividracing.com/catalog/search/agency+exhaust.html">Agency Exhaust</a><br>
 <img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.vividracing.com/catalog/search/HKS+Exhaust.html">HKS Exhaust</a><br>
 <img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.vividracing.com/catalog/?manufacturers_id=32&amp;filter_id=4369">Greddy Catback</a><br>
 <img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.vividracing.com/catalog/search/Borla.html">Borla Exhaust</a><br>
-<img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.vividracing.com/catalog/search/BzyxB.html">Billy Boat Exhaust Turbo</a><br>
+<img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.vividracing.com/catalog/bmw-m3-exhaust-i-155.html">BMW M3 Exhaust</a><br>
 <img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.vividracing.com/catalog/search/eisenmann+exhaust.html">Eisenmann Exhaust</a><br>
-<img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.vividracing.com/catalog/search/American+Racing.html">American Racing</a><br>
+<img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.vividracing.com/catalog/porsche-996-exhaust-i-156.html">Porsche 996 Exhaust</a><br>
 <img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.vividracing.com/catalog/search/frs+header.html">FRS Header</a><br>
 <img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.vividracing.com/catalog/search/BMW+M5%20header.html">BMW M5 Header</a><br>
 <img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.vividracing.com/catalog/search/remus+exhaust.html">Remus Exhaust</a><br>
 <img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="hhttp://www.vividracing.com/catalog/search/fabspeed+muffler.html">Fabspeed Muffler</a><br>
-<img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.vividracing.com/catalog/exhaust-parts-tips-c-4246_5335.html">Exhaust Tips</a><br>
+<img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.vividracing.com/catalog/bmw-m5-exhaust-i-157.html">BMW M5 Exhaust</a><br>
   </td></tr>
 </tbody></table>
 </td>
 			        <td width="15%" valign="top"><table border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
     <td class="proBottomInfo" valign="top"><img src="templates/vr07/images/bestexotics.jpg" border="0" alt=""><br>
-<img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.vividracing.com/catalog/search/novitec.html">Novitec</a><br>
+<img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.vividracing.com/catalog/search/capristo+exhaust.html">Capristo</a><br>
 <img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.vividracing.com/catalog/?manufacturers_id=693">Akrapovic</a><br>
 <img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.vividracing.com/catalog/?manufacturers_id=277">Cargraphic</a><br>
-<img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.vividracing.com/catalog/?manufacturers_id=440">Carlsson</a><br>
+<img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.vividracing.com/catalog/nissan-350-exhaust-i-159.html">Nissan 350Z Exhaust</a><br>
 <img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.vividracing.com/catalog/?manufacturers_id=652">GruppeM</a><br>
-<img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.vividracing.com/catalog/?manufacturers_id=461">Kleemann</a><br>
-<img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.vividracing.com/catalog/?manufacturers_id=494">Larini Exhaust</a><br>
-<img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.vividracing.com/catalog/?manufacturers_id=242">Lorinser</a><br>
+<img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.vividracing.com/catalog/nissan-370-exhaust-i-160.html">Nissan 370Z Exhaust</a><br>
+<img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.vividracing.com/catalog/subaru-wrx-sti-exhaust-i-161.html">Subaru WRX STI Exhaust</a><br>
+<img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.vividracing.com/catalog/ferrari-360-exhaust-i-158.html">Ferrari 360 Exhaust</a><br>
 <img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.vividracing.com/catalog/?manufacturers_id=658">Mansory</a><br>
 <img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.vividracing.com/catalog/?manufacturers_id=473">Oakley Design</a><br>
 <img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.vividracing.com/catalog/?manufacturers_id=695">Password JDM</a><br>
 <img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.vividracing.com/catalog/?manufacturers_id=262">VF Engineering</a><br>
 <img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.vividracing.com/catalog/?manufacturers_id=477">Wald Body Kits</a><br>
+<img src="templates/vr07/images/pro_arrow.jpg" border="0" alt=""> <a href="http://www.vividracing.com/catalog/bmw-m6-exhaust-i-163.html">BMW M6 Exhaust</a><br>
 
 
   </td></tr>
@@ -1714,12 +1395,12 @@ satisfaction"</span> </td>
                     </td>
 
         <td style="width:30px;"></td>
-        <td class="footer">Copyright © 2013  Vivid Distributing LLC Powered By <a href="http://www.therohnstein.com" target="_blank">The Rohnstein</a></td>
+        <td class="footer">Copyright © 2014  Vivid Distributing LLC Powered By <a href="http://www.therohnstein.com" target="_blank">The Rohnstein</a></td>
     </tr>
     <tr></tr>
     <tr></tr>
     </tbody></table><br><table border="0" cellspacing="0" cellpadding="0" align="center" style="margin-top:4px;">
-        <tbody><tr><td class="footer"><center><font color="#999999">Arizona's Premier Performance Shop and Service facility located at 1429 W. Scott Ave. Gilbert, Az 85233.<br>  Serving Arizona customers in Gilbert, Phoenix, Scottsdale, Mesa, Tempe, Glendale, Peoria, Tucson, Flagstaff, and Chandler.<br>  Shipping out Worldwide to <a href="http://www.vividracing.co.uk"><font color="#999999">United Kingdom</font></a><font color="#999999">, <a href="http://www.vividracing.fr"><font color="#999999">France</font></a><font color="#999999">, <a href="http://www.vividracing.it"><font color="#999999">Italy</font></a><font color="#999999">, <a href="http://www.vividracing.de"><font color="#999999">Germany</font></a><font color="#999999">, Greece, <a href="http://www.vividracing.es"><font color="#999999">Spain</font></a><font color="#999999">, <a href="http://www.vividracing.asia"><font color="#999999">China</font></a><font color="#999999">, <a href="http://www.vividracing.tw"><font color="#999999">Taiwan</font></a><font color="#999999">, <a href="http://www.vividracing.asia"><font color="#999999">Hong Kong</font></a><font color="#999999">, <a href="http://www.vividracing.asia"><font color="#999999">Malaysia</font></a><font color="#999999"><br> <a href="http://arabic.vividracing.com"><font color="#999999">Saudi Arabia</font></a><font color="#999999">, <a href="http://arabic.vividracing.com"><font color="#999999">UAE</font></a><font color="#999999">, <a href="http://arabic.vividracing.com"><font color="#999999">Kuwait</font></a><font color="#999999">, <a href="http://arabic.vividracing.com"><font color="#999999">Qatar</font></a><font color="#999999">, <a href="http://arabic.vividracing.com"><font color="#999999">Bahrain</font></a><font color="#999999">, <a href="http://australia.vividracing.com"><font color="#999999">Australia</font></a><font color="#999999">, <a href="http://www.vividracing.mx"><font color="#999999">Mexico</font></a><font color="#999999">, <a href="http://www.vividracing.bz"><font color="#999999">Brazil</font></a><font color="#999999">, Chile and more. </font><br><a href="http://products.vividracing.com/products.php" target="_blank"><font color="#333333">Top Products</font></a><font color="#333333"> | <a href="http://products.vividracing.com/brands.php" target=""><font color="#333333">Top Brands</font></a><font color="#333333"> | <a href="http://products.vividracing.com/categories.php" target="_blank"><font color="#333333">Top Categories</font></a><font color="#333333"> | <a href="http://products.vividracing.com/searches.php" target="_blank"><font color="#333333">Top Searches</font></a><font color="#333333"> | <a href="http://tech.vividracing.com" target="_blank"><font color="#333333">Tech Articles</font></a></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></center></td></tr>
+        <tbody><tr><td class="footer"><center><font color="#999999">Arizona's Premier Performance Shop and Service facility located at 1429 W. Scott Ave. Gilbert, Az 85233.<br>  Serving Arizona customers in Gilbert, Phoenix, Scottsdale, Mesa, Tempe, Glendale, Peoria, Tucson, Flagstaff, and Chandler.<br>  Shipping out Worldwide to <a href="http://www.vividracing.co.uk"><font color="#999999">United Kingdom</font></a><font color="#999999">, <a href="http://www.vividracing.fr"><font color="#999999">France</font></a><font color="#999999">, <a href="http://www.vividracing.it"><font color="#999999">Italy</font></a><font color="#999999">, <a href="http://www.vividracing.de"><font color="#999999">Germany</font></a><font color="#999999">, Greece, <a href="http://www.vividracing.es"><font color="#999999">Spain</font></a><font color="#999999">, <a href="http://www.vividracing.asia"><font color="#999999">China</font></a><font color="#999999">, <a href="http://www.vividracing.tw"><font color="#999999">Taiwan</font></a><font color="#999999">, <a href="http://www.vividracing.asia"><font color="#999999">Hong Kong</font></a><font color="#999999">, <a href="http://www.vividracing.asia"><font color="#999999">Malaysia</font></a><font color="#999999"><br> <a href="http://arabic.vividracing.com"><font color="#999999">Saudi Arabia</font></a><font color="#999999">, <a href="http://arabic.vividracing.com"><font color="#999999">UAE</font></a><font color="#999999">, <a href="http://arabic.vividracing.com"><font color="#999999">Kuwait</font></a><font color="#999999">, <a href="http://arabic.vividracing.com"><font color="#999999">Qatar</font></a><font color="#999999">, <a href="http://arabic.vividracing.com"><font color="#999999">Bahrain</font></a><font color="#999999">, <a href="http://australia.vividracing.com"><font color="#999999">Australia</font></a><font color="#999999">, <a href="http://www.vividracing.mx"><font color="#999999">Mexico</font></a><font color="#999999">, <a href="http://www.vividracing.bz"><font color="#999999">Brazil</font></a><font color="#999999">, Chile and more. </font><br><a href="http://products.vividracing.com/products.php" target="_blank"><font color="#333333">Top Products</font></a><font color="#333333"> | <a href="http://products.vividracing.com/brands.php" target=""><font color="#333333">Top Brands</font></a><font color="#333333"> | <a href="http://products.vividracing.com/categories.php" target="_blank"><font color="#333333">Top Categories</font></a><font color="#333333"> | <a href="http://products.vividracing.com/searches.php" target="_blank"><font color="#333333">Top Searches</font></a><font color="#333333"> | <a href="http://www.vividracing.com/blog" target="_blank"><font color="#333333">Tech Articles</font></a> | <a href="http://products.horsepowerfreaks.com" target="_blank"><font color="#333333">HPF Products</font></a></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></center></td></tr>
         <tr></tr>
     </tbody></table>
 
@@ -1925,9 +1606,34 @@ satisfaction"</span> </td>
     <input type="hidden" name="class_y" id="atl_hidden_class_y" value="">
 </div>
 <!-- atl may-28-2012 -->
+	<!-- Google Code for Remarketing Tag Matt 4/24/14 -->
+	<!--------------------------------------------------
+	Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+	--------------------------------------------------->
+	<script type="text/javascript">
+		var google_tag_params = {
+		ecomm_prodid: 'REPLACE_WITH_VALUE',
+		ecomm_pagetype: 'REPLACE_WITH_VALUE',
+		ecomm_totalvalue: 'REPLACE_WITH_VALUE',
+		};
+	</script>
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		var google_conversion_id = 1071634175;
+		var google_custom_params = window.google_tag_params;
+		var google_remarketing_only = true;
+		/* ]]> */
+	</script>
+	<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+	</script>
+	<noscript>
+		<div style="display:inline;">
+		<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1071634175/?value=0&amp;guid=ON&amp;script=0"/>
+		</div>
+	</noscript>
 
 
-<div align="center" style="color:#fff"><span class="smallText">Current Parse Time: <b>1.752 s</b> with <b>1371 queries</b></span></div><script type="text/javascript">
+<div align="center" style="color:#fff"><span class="smallText">Current Parse Time: <b>0.972 s</b> with <b>50 queries</b></span></div><script type="text/javascript">
 	function gUpdateCurrency(currency) {
 		var url;
 		var posQ;
