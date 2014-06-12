@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the broadbandbuyer.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210073050id_/http%3A//www.broadbandbuyer.com/Shop/Info/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadbandbuyer.com privacy policy that was archived on 2014-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140612062332id_/http%3A//www.broadbandbuyer.com/Shop/Info/Privacy.asp) for the most accurate reproduction.*
 
 # Broadbandbuyer.com | Privacy Policy
 
 This privacy statement applies to the web site of:
 
 Essanet Ltd / TA Broadbandbuyer.co.uk   
-Unit 5, Thornton Chase, Integra:MK, Linford Wood, Milton Keynes MK14 6FD ENGLAND  
+Thornton Chase, Linford Wood, Milton Keynes MK14 6FD ENGLAND  
 Tel. 01908 760795   
 [webmaster@broadbandbuyer.com](mailto:webmaster@broadbandbuyer.com)
 
