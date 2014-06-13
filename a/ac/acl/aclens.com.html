@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the aclens.com privacy policy that was archived on 2013-10-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131028033638id_/http%3A//www.aclens.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aclens.com privacy policy that was archived on 2014-06-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140613030732id_/http%3A//www.aclens.com/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
@@ -9,26 +9,69 @@
     
     <title>Privacy Statement</title>
     
-<link rel="stylesheet" type="text/css" href="http://cdn.aclens.com/l/aclens/include/globalstyles2013080702.css">
-<link rel="stylesheet" type="text/css" href="http://cdn.aclens.com/l/aclens/include/basestyles2013100801.css"><link rel="stylesheet" type="text/css" href="/include/font-face.css">
+<link rel="stylesheet" type="text/css" href="http://wac.24ba.edgecastcdn.net/8024BA/l/l/aclens/include/globalstyles2014061001.css">
+<link rel="stylesheet" type="text/css" href="http://wac.24ba.edgecastcdn.net/8024BA/l/l/aclens/include/basestyles2014040401.css"><link rel="stylesheet" type="text/css" href="/include/font-face.css">
     
     
-<script type="text/javascript">var gRootPath = "/";</script>
+<script type="text/javascript" async="" src="//commondatastorage.googleapis.com/code.snapengage.com/js/25cebad3-6492-4661-bad5-003a546450b9.js"></script><script type="text/javascript">var gRootPath = "/";</script>
 
 <!-- start javascript include -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
-<script src="http://cdn.aclens.com/l/global/js/jquery.tools.min-1.2.7-all.js" type="text/javascript"></script>
 
 
-<script src="http://cdn.aclens.com/l/aclens/include/cl2013100101.js" type="text/javascript" data-target="m"></script>
+<script src="http://wac.24ba.edgecastcdn.net/8024BA/l/l/global/js/jquery.tools.min-1.2.7-all.js" type="text/javascript"></script>
 
+
+<script src="http://wac.24ba.edgecastcdn.net/8024BA/l/l/aclens/include/cl2014033102.js" type="text/javascript" data-target="m"></script>
+<script type="text/javascript">
+$(function(){
+    $('#login').one("click", function () {
+        $.get('/signin.asp', function(data) {
+            var newHTML = $(data).find('#loginBox').html();
+            $('#bubbleContent').html(newHTML);
+        }).done(function () {
+            $('#bubbleContent .box').removeClass('box');
+            $('#bubbleContent .box').css("style", "background:#EEEEEE;");
+        });
+        var targetOffset = $(this).offset();
+        $("#loginBubble").offset({ top: targetOffset.top + 20, left: targetOffset.left })
+        
+    });
+
+    var modalState = 0
+
+    $('#login').click(function(){
+        $('#loginBubble').animate({
+             height: 'toggle'
+        });
+    });
+    
+});
+</script>
 <!-- end javascript include -->
-
-
 
 <!--Start Header Tracking Pixels -->
 
 <!--End Header Tracking Pixels -->
+
+
+<!-- begin SnapEngage code -->
+<script type="text/javascript" data-keep="false">
+    (function () {
+        var se = document.createElement('script'); se.type = 'text/javascript'; se.async = true;
+        se.src = '//commondatastorage.googleapis.com/code.snapengage.com/js/25cebad3-6492-4661-bad5-003a546450b9.js';
+        var done = false; 
+        se.onload = se.onreadystatechange = function () {
+            if (!done && (!this.readyState || this.readyState === 'loaded' || this.readyState === 'complete')) {
+                done = true;
+                // >>>>>>> Place your SnapEngage API code here <<<<<<<
+                //SnapEngage.openProactiveChat(true, true); // Example: open the proactive chat on load
+            }
+        };
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(se, s);
+    })();
+</script>
+<!-- end SnapEngage code -->
 <!--Start Header Tracking Pixels-->
 
     
@@ -65,13 +108,16 @@
 <body class="policies">
 
 <script src="https://cloud.moovweb.net/api/public/js_redirection/aclens/aclens-prod.js"></script>
+<script type="text/javascript">
+WebFontConfig = {
+  custom: { families: ['Arlington', 'ArlingtonBold'],
+  urls: [ 'http://aclens.com/font-face.css' ] }
+};
+</script>
+
 
 <!--Start top Header-->
-
-
-
-
-<div id="topWrapper" style="padding-bottom: 18px; width: 980px; margin: 0px auto">
+<div id="topWrapper">
 
 	<div id="logoDiv" style="float: left">
 		<a href="/" id="logo" title="AC Lens Home Page">AC Lens Home Page</a>
@@ -102,9 +148,8 @@
 				<li><a href="/help.asp" title="Help">Help</a></li>
 				<li><a href="/faq.asp" title="Frequently Asked Questions">FAQ</a></li>
 				
-				<li id="radioPromo"><a rel="#radioPromoSubmit" class="modal" title="Radio/PodCast Promo">Radio Promo</a></li>
-				
 			</ul>
+			
 			<div class="overlayModal roundCorners" id="radioPromoSubmit">
 				<div class="close"><span>Close</span></div>
 				<div class="content radioSubmission">
@@ -115,19 +160,18 @@
 					</div>
 					<div id="radioTerms">May not be combined with other coupons, sales, or special offers at AC Lens. Not eligible on Ray-Ban, Polo, Ralph Lauren, DKNY, Smith, Suncloud, Superdry, and Oakley brand products.</div>
 				</div>
-			</div>
+			</div> 
 			<div id="searchBar">
 				<form action="/search.asp" method="GET" id="KeywordSearch" name="KeywordSearch">
 					<input name="SearchButton" class="searchButton" type="submit" value="SEARCH">
 					<input type="text" placeholder="search" value="" name="SearchText" id="searchText" onfocus="showResult(event, this)" autocomplete="off">
-				<input type="hidden" name="as_fid" value="mWz0isP7bZi1B0t7ZYRM">
+				<input type="hidden" name="as_fid" value="uGZtLHo416FdpxfnIHV2">
 </form>
 			</div>
 		</div>
 		<div class="clear"></div>
 	</div>
 	<div class="clear"></div>
-
 	<div id="globalNav">
 		
 				<form action="/displaylens.asp" method="GET" name="SelectLens" id="SelectLensForm" class="topNavForm">
@@ -145,30 +189,32 @@
 <option value="273">Acuvue Advance for Astigmatism</option>
 <option value="/contact-lenses-by-category.asp?CategoryID=124">Acuvue Advance Plus</option>
 <option value="116">Acuvue Bifocal</option>
-<option value="282">Acuvue Oasys</option>
+<option value="/contact-lenses-by-category.asp?CategoryID=143">Acuvue Oasys</option>
 <option value="310">Acuvue Oasys for Astigmatism</option>
 <option value="316">Acuvue Oasys for Presbyopia</option>
-<option value="514">Acuvue Oasys (24 pack)</option>
 <option value="309">Air Optix Aqua</option>
 <option value="304">Air Optix for Astigmatism</option>
 <option value="329">Air Optix Multifocal</option>
 <option value="317">Air Optix Night &amp; Day</option>
+<option value="317">Air Optix Night &amp; Day</option>
 <option value="313">Avaira</option>
+<option value="377">Avaira Toric</option>
 <option value="305">Biofinity</option>
 <option value="323">Biofinity Toric</option>
 <option value="378">Biofinity Multifocal</option>
 <option value="181">Biomedics 38</option>
 <option value="180">Biomedics 55</option>
 <option value="298">Biomedics EP</option>
-<option value="292">Biomedics 1-Day</option>
+<option value="/contact-lenses-by-category.asp?CategoryID=142">Biomedics 1-Day</option>
 <option value="277">Biomedics Premier</option>
 <option value="271">Biomedics Toric</option>
 <option value="294">Biomedics XC</option>
+<option value="/contact-lenses-by-category.asp?CategoryID=141">Biotrue</option>
 <option value="/contact-lenses-by-category.asp?CategoryID=112">Boston Lenses</option>
-<option value="292">Clearsight 1-Day</option>
+<option value="/contact-lenses-by-category.asp?CategoryID=142">Clearsight 1-Day</option>
 <option value="307">Clearsight 1-Day Toric</option>
 <option value="/contact-lenses-by-category.asp?CategoryID=114">Dailies AquaComfort Plus</option>
-<option value="/contact-lenses-by-category.asp?CategoryID=107">Encore</option>
+<option value="/contact-lenses-by-category.asp?CategoryID=140">Dailies Total1</option>
 <option value="Expressions">Expressions</option>
 <option value="/contact-lenses-by-category.asp?CategoryID=116">Extreme H2O</option>
 <option value="Fluorex">Fluorex Lenses</option>
@@ -176,12 +222,10 @@
 <option value="/contact-lenses-by-category.asp?CategoryID=113">Focus Dailies</option>
 <option value="258">Focus Dailies Progressives</option>
 <option value="/contact-lenses-by-category.asp?CategoryID=123">Focus Dailies Toric</option>
-<option value="41">Focus Monthly</option>
 <option value="108">Focus Monthly SoftColors</option>
 <option value="215">Focus Night &amp; Day</option>
 <option value="151">Frequency 55</option>
 <option value="168">Frequency 55 Aspheric</option>
-<option value="247">Frequency 55 Multifocal</option>
 <option value="152">Frequency 55 Toric</option>
 <option value="242">Frequency 55 Toric XR</option>
 <option value="15">Freshlook Colors</option>
@@ -211,7 +255,8 @@
 <option value="/contact-lenses-by-category.asp?CategoryID=7">Rigid Gas Perm (RGP) Lenses</option>
 <option value="/contact-lenses-by-category.asp?CategoryID=7">SGP Lenses</option>
 <option value="47">SofLens 38</option>
-<option value="103">SofLens 66 Toric</option>
+<option value="103">SofLens for Astigmatism</option>
+<option value="526">SofLens Daily for Astigmatism</option>
 <option value="312">SofLens Daily Disposable</option>
 <option value="226">SofLens Multifocal</option>
 
@@ -223,7 +268,7 @@
 
 					</select>
 					<input type="hidden" name="SID" value="SL">
-				<input type="hidden" name="as_fid" value="qZVzspx/lU3u7LiT1QeM">
+				<input type="hidden" name="as_fid" value="CxxvO/0i6rT6mtHOAXt5">
 </form>
 			
 		<ul id="topNavLinks">
@@ -247,10 +292,10 @@
 	<tbody><tr>
 		
 		<td width="50%" align="center">
-			<img src="http://cdn.aclens.com/l/global/lensimages/free-shipping-free-returns_header.png" alt="Free Shipping &amp; Free Returns on Glasses" style="cursor: pointer" onclick="window.open('/returns_pop.asp','','width=550,height=550,toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,copyhistory=no,resizable=yes'); return false" width="413" height="25">
+			<img src="http://wac.24ba.edgecastcdn.net/8024BA/l/l/global/lensimages/free-shipping-free-returns_header.png" alt="Free Shipping &amp; Free Returns on Glasses" style="cursor: pointer" onclick="window.open('/free-returns-c91.html','','width=550,height=550,toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,copyhistory=no,resizable=yes'); return false" width="413" height="25">
 			<div class="overlayModal roundCorners" style="width: 368px; height: 368px; " id="freeShipping99">
 				<div class="close"><span>Close</span></div>
-				<div class="content" style="width: 360px; padding: 0px; background: #eeeeee url('http://cdn.aclens.com/l/aclens/images/free-shipping-over-99.jpg')">
+				<div class="content" style="width: 360px; padding: 0px; background: #eeeeee url('http://wac.24ba.edgecastcdn.net/8024BA/l/l/aclens/images/free-shipping-over-99.jpg')">
 					<div class="siteFont" style="color: #214185; font-size: 18px; text-align: left; padding: 94px 18px 0px 18px">
 					Free shipping on orders that qualify cannot be combined with other offers or discounts from AC Lens.  Order total must exceed $99.  [<a href="/shippinginformation.asp">see more details</a>]<br>
 					<small style="color: #5278b2; font-size: 12px">Offer valid on U.S. and Canada orders only.</small>
@@ -261,7 +306,7 @@
 		
 		
 			<td width="50%" align="center" style="border-left: 1px dotted #214185">
-			<a rel="#freeShipping99" class="modal"><img src="http://cdn.aclens.com/l/global/lensimages/free-shipping-over-99_header.png" width="338" height="25" border="0" alt="Free Shipping on All Orders Over $99"></a>
+			<a rel="#freeShipping99" class="modal"><img src="http://wac.24ba.edgecastcdn.net/8024BA/l/l/global/lensimages/free-shipping-over-99_header.png" width="338" height="25" border="0" alt="Free Shipping on All Orders Over $99"></a>
 			</td>
 			
 	</tr>
@@ -270,6 +315,7 @@
 
 <!-- Spacer -->
 <!--End top Header--> 
+
 		<div id="leftNavWrapper" style="width: 190px; float: left">
 		
 			<div id="anchor"></div>
@@ -353,7 +399,7 @@
 <div class="contentPadding">
 	
 <div class="section">
-	<img class="right" src="http://cdn.aclens.com/l/global/lensimages/privacy-policy.gif" alt="Privacy Policy">
+	<img class="right" src="http://wac.24ba.edgecastcdn.net/8024BA/l/l/global/lensimages/privacy-policy.png" alt="Privacy Policy">
 	<h1><a name="top">Privacy Statement</a></h1>
 	<p class="summary">
 	AC Lens will treat your information as we treat our own. We do not sell your information and will do everything we can to make sure your information is secure. For a more detailed look at our policies keep reading.
@@ -576,19 +622,40 @@
 
 <div id="newsletterSignup">
 	
-	<script src="http://cdn.aclens.com/l/global/js/formValidate.js" language="javascript"></script>
-	<form name="newsletter" id="newsletter" target="_blank" method="post" action="http://links.aclenscorp.mkt4710.com/servlet/UserSignUp?f=842849&amp;postMethod=HTML&amp;m=0&amp;j=MAS2">
-	<input type="hidden" name="EMAIL_DATATYPE" value="email">
-	<input type="submit" name="submit" value="Sign Up" onclick="f_validateForm('newsletter')">
-	<input type="text" placeholder="Enter your email here" value="" autocomplete="off" name="EMAIL" maxlength="4000">
+	<!--<script src="http://wac.24ba.edgecastcdn.net/8024BA/l/l/global/js/formValidate.js" language="javascript"></script>-->
+	
+	<form id="newsletter" name="newsletter" method="post" action="http://www.pages04.net/arlingtoncontactlensservice/sign-up-and-save/InternalProspecting" pageid="18347651" siteid="338498" parentpageid="18347650">
+		
+				<input type="submit" name="submit" value="Submit">
+					
+				<input type="text" name="Email" id="control_EMAIL" label="Email" class="textInput defaultText">
+				
+				
+				<div style="position: relative; overflow: hidden; width:300px;">
+				</div>
+	
+				<input type="hidden" name="formSourceName" value="StandardForm"><!-- DO NOT REMOVE HIDDEN FIELD sp_exp --><input type="hidden" name="sp_exp" value="yes">
+				<span><span></span>Sign Up for Exclusive Offers:</span>
+				<div class="clear"></div>
+		
+	
+	</form>
+	
+	
+<!--	
+	<form name="newsletter" id="newsletter" target="_blank" method="post" action="http://links.aclenscorp.mkt4710.com/servlet/UserSignUp?f=842849&postMethod=HTML&m=0&j=MAS2">
+	<input type="hidden" name="EMAIL_DATATYPE" value="email" />
+	<input type="submit" name="submit" value="Sign Up" onClick="f_validateForm('newsletter')" />
+	<input type="text" placeholder="Enter your email here" value="" autocomplete="off" name="EMAIL" value="" maxlength="4000" />
 	<span><span></span>Sign Up for Exclusive Offers:</span>
 	<div class="clear"></div>
 	</form>
+-->
 </div>
 
 <table id="footerTable" style="text-align: left; border: 0px" width="980" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
     <tbody><tr>
-        <td style="border-top: solid 1px #CCCCCC; background:url('http://cdn.aclens.com/l/aclens/images/grey_light_fade.jpg'); background-repeat:repeat-x; ">
+        <td style="border-top: solid 1px #CCCCCC; background:url('http://wac.24ba.edgecastcdn.net/8024BA/l/l/aclens/images/grey_light_fade.jpg'); background-repeat:repeat-x; ">
             <table border="0" width="100%" cellpadding="5" cellspacing="0">
                 <tbody><tr>
                     <td valign="top" width="30%">
@@ -598,12 +665,17 @@
                                 <small>If you are having any unexplained eye discomfort, watering, vision 
                                 change or redness, remove your lenses immediately and consult your eye care professional before 
                                 wearing your lenses again. All information, articles, photos, images, logos, and content Copyright
-                                AC Lens 1996 - 2013.</small></td>
+                                AC Lens 1996 - 2014.</small></td>
                             </tr>
                             <tr>
                                 <td id="ccDiv" width="30%">
-									<img src="http://cdn.aclens.com/l/global/lensimages/paymentBugs_cc.png" border="0" width="119" height="18" alt="We Accept Mastercard, Visa, Amex, and Discover Credit Cards">
+									<img src="http://wac.24ba.edgecastcdn.net/8024BA/l/l/global/lensimages/paymentBugs_cc.png" border="0" width="119" height="18" alt="We Accept Mastercard, Visa, Amex, and Discover Credit Cards">
 									
+										<img src="http://wac.24ba.edgecastcdn.net/8024BA/l/l/global/lensimages/paymentBugs_paypal.png" border="0" width="32" height="18" alt="We Accept Paypal">
+										
+											<a href="Javascript:void(0);" onclick="window.open('https://www.securecheckout.billmelater.com/paycapture-content/fetch?hash=W5A26UDA&amp;content=/bmlweb/np90drollingiw.html','','width=500,height=800,toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,copyhistory=no,resizable=yes');">
+											<img src="http://wac.24ba.edgecastcdn.net/8024BA/l/l/global/lensimages/paymentBugs_bml.png" border="0" width="32" height="18" alt="We Accept Bill Me Later"></a>
+										
                                 </td>
                             </tr>
                         </tbody></table>
@@ -647,7 +719,6 @@
                         </span>
 						<span class="clear"></span>
                         <small>
-						<a href="/forums">Contact Lens Forums</a><br>
                         <a href="/contact-lens-coupons.asp">Contact Lens Coupons</a><br>
                         
                         <a href="/contact-lens-health.asp">Contact Lens Health</a><br>
@@ -677,7 +748,7 @@
   _gaq.push(['_setCustomVar',
     1,
     'A/B Testing',
-    'A-Group',
+    'B-Group',
     2
   ]);
   _gaq.push(['_setCustomVar',
@@ -686,6 +757,14 @@
     $(window).width() + "x" + $(window).height(),
     3
   ]);
+  if ($('.mw_wrapper').length){
+    _gaq.push(['_setCustomVar',
+      3,
+      'Website Experience',
+      'Moovweb Mobile',
+      1
+    ]);
+  }
   
 
   _gaq.push(['_trackPageview']);
@@ -751,10 +830,8 @@ _gaq.push(['_trackPageview']);
 
 
 <noscript>
-<img src="http://cdn.aclens.com/l/global/pt.gif?js=0" height="1" width="1" border="0" hspace="0" vspace="0" alt="">
+<img src="http://wac.24ba.edgecastcdn.net/8024BA/l/l/global/pt.gif?js=0" height="1" width="1" border="0" hspace="0" vspace="0" alt="">
 </noscript>
-
-
 
 
 <!-- Google Code for Remarketing Tag -->
@@ -776,6 +853,7 @@ var google_remarketing_only = true;
 <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1001855733/?value=0&amp;guid=ON&amp;script=0"/>
 </div>
 </noscript>
+
 
 
 
