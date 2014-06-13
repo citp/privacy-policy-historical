@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the left4dead411.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210081908id_/http%3A//www.left4dead411.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the left4dead411.com privacy policy that was archived on 2014-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140613162736id_/http%3A//www.left4dead411.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Left 4 Dead 411
 
