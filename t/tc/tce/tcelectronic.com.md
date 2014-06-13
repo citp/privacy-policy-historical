@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tcelectronic.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204003801id_/http%3A//www.tcelectronic.com/corporate/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tcelectronic.com privacy policy that was archived on 2014-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140613055913id_/http%3A//www.tcelectronic.com/corporate/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy - Corporate | TC Electronic
 
 ## Privacy Policy
 
@@ -8,6 +8,8 @@ Protecting your privacy is important to TC companies. We strive to keep your per
 
 **Why we collect personal information**  
 TC collects and uses your personal information to give you superior customer service, to provide you with convenient access to our products and services, and to make a wider range available to you. In addition, we use your personal information to keep you up to date on the latest product announcements, software updates, special offers, and other information we think you'd like to hear about. From time to time, we may also use your personal information to contact you to participate in a market research survey, so that we can gauge customer satisfaction and develop better products.
+
+Furthermore, TC websites use remarketing through Google AdWords. The information collected is completely anonymized. Still, your privacy is of the utmost importance to us. So if you would like to opt out you can do so via Google's [Ads Settings](https://www.google.com/settings/ads).
 
 **How we collect personal information**  
 We collect information about you in several ways. For example, we might ask for your contact information when you correspond with us, call us to make a purchase or request service, register to attend a seminar, or articipate in an online survey. In addition, when you register a new TC product or ask to be included in an email mailing list, we collect and store the information you provide in a secure database.
