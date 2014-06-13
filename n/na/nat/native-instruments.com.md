@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the native-instruments.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223050322id_/http%3A//www.native-instruments.com/en/company/legal-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the native-instruments.com privacy policy that was archived on 2014-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140613123801id_/http%3A//www.native-instruments.com/en/company/legal-information/privacy-policy) for the most accurate reproduction.*
 
 # Legal Information : Privacy Policy | Company
 
