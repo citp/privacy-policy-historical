@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the originpc.com privacy policy that was archived on 2013-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131027054538id_/http%3A//www.originpc.com/legal/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the originpc.com privacy policy that was archived on 2014-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140613072412id_/http%3A//www.originpc.com/legal/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | ORIGIN PC
 
@@ -17,7 +17,7 @@ ORIGIN PC knows that you care how your information is used, and we appreciate yo
 
   * **Customized Shopping.** We use your information to better serve you by providing a customized shopping experience. As noted above, you may visit and shop anonymously without logging in.
   * **Agents.** We employ other companies and individuals to perform functions on our behalf. Examples include delivering packages, sending postal mail and e-mail, and processing credit card payments. They have access to personal information needed to perform their functions, but may not use it for other purposes.
-  * **Special Offers**. We may send you special offers from time to time, unless you choose to "opt-out" of receiving such offers. 
+  * **Special Offers**. We may send you special offers from time to time, unless you choose to "opt-out" of receiving such offers.Â 
   * **Law Enforcement.** If we receive a lawful court order to release account or other personal information then we will comply with the law. We will also release information when necessary to protect the life, safety or property of others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. 
 
 
