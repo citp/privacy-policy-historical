@@ -1,65 +1,85 @@
-> *The following text is extracted and transformed from the netimperative.com privacy policy that was archived on 2004-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041011080350id_/http%3A//www.netimperative.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netimperative.com privacy policy that was archived on 2014-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140613131724id_/http%3A//www.digitalstrategyconsulting.com/privacy) for the most accurate reproduction.*
 
-# Netimperative - Privacy Policy
+# Privacy policy and terms - Digital Strategy Consulting
 
-Our policy 
+Here at Digital Strategy Consulting, Netimperative, Digital Events and the Digital Training Academy we take user privacy very seriously.
 
-Netimperative is committed to ensuring that your privacy is protected and respected. This Privacy Statement sets out our Privacy Policy and explains how we use the information we collect about you, how you can instruct us if you prefer to limit the use of that information and procedures that we have in place to safeguard your privacy. If you have any questions or concerns regarding this statement, you should contact info@Netimperative.com.
+This page gives you some key information about privacy, but if you have any questions that are not answered then be sure to email us.
 
-The information we collect and how we use it 
+Data Protection and Privacy Policy July 2009 for Digital Strategy Consulting and its related brands and companies.
 
-We collect a limited amount of information about our users on the open site, so that we can provide a site that is more interesting and useful, as well as provide advertising that is more appropriate for our readers. We do this using a cookie that we place on your computer. You may disable cookies on your browser to prevent this.
+Please find below our privacy policy for this website and our online services including Netimperative newswires, Digital Intelligence and Digital Insight Reports which shall be deemed to be incorporated into these terms and conditions. We are Digital Strategy Consulting Ltd ("Digital") and our registered address is The Digital Hub, 34 Kenway Road, Kensington, London SW5 0RR. Digital takes the privacy of its customers data very seriously. Please read the following policy to understand how we will treat your personal data after it has been collected by us through your use of one of our distribution channels. Those distribution channels will include our website, email services, ansaphones and other channels as they evolve. If this policy changes then we will let you know via our homepage but we assure you that we only use your data as specified here and for our legitimate business reasons.
 
-When you register to partake in the public message boards, email lists, chat areas or email digest services on Netimperative, we may ask for your name and email address. This is to ensure that while your username ensure anonymity on the site, we can communicate with users of the service to ensure that any and all issues and/or complaints are dealt with promptly.
+**When do we collect data?**
 
-When you become a member of Netimperative, we need to know a little more about you: name, job title, company name, physical address, email address and telephone number. We gather this information to allow us to process your registration, open an account for you, and ensure that we can guarantee to the best of our ability that every member is who they say they are. By asking you to pay by credit card we also ensure that you are over the age of 18. 
+We can collect data on you from a variety of different sources these include.
 
-We also gather this information in order to ensure adequate levels of service. The relevant information is then used by us, our agents and our sub-contractors to provide you with statements of your account if you require them as well as helping us with communication regarding any matter relating to the conduct of site members and the provision of the service in general. 
+1\. When you purchase products or services from the site or via any of our other distribution channels;  
+2\. When you become a subscriber;  
+3\. When you speak to our personnel;  
+4\. Via explicit data capture measures, for example by entering competitions, subscribing to our news services and completing surveys;  
+5\. Via implicit data capture measures such as studying which pages you read the most and the use of cookies.
 
-Netimperative and our group and subsidiary companies may also wish to provide you with information about special features of our site, as well as any additional special services or products we think may be of use or of interest to you. If you would rather not receive this type of information, please send a blank email to noprom@Netimperative.com
+_In any of the above cases the data we collect could be personal data_.  
+**  
+What do we do with your personal information?**
 
-Neither Netimperative, nor any group companies, will issue your personal data to third parties without your prior permission, except in the instance of the sale of the company as part of the transfer of assets to the new owner.
+When you buy anything via the site or give us any personal data as indicated above, we may need to collect information about you to process the transaction, fulfil your order and provide you with the services you expect then and in the future. This information may include, but is not limited to, details such as your name, your address, your phone number and your credit card details.
 
-Our use of cookies 
+By becoming a subscriber to our news services you consent to receive from us by email our e-newsletters and details of other special offers which we think may be of interest to you. You also agree that we can pass your contact details to carefully selected companies to send you offers we feel are relevant based on what you have told us about your interests.You can opt-out at any time by following the instructions in the opt-out section below.
 
-Netimperative collects IP addresses as part of the system administration process. This is both for our traffic statistics and also to help us better understand how our audience uses the site. This helps us evolve and develop our service.
+Digital retains and uses your personal information to provide you with the best remote commerce (including electronic and mobile commerce) experience by providing you with a personalised service and to give you details of offers which we think will be of interest to you. We may also use the information to process any transactions you undertake with us and for internal administration and analysis. For quality assurance and training reasons we record most of the calls you make to us.
 
-We will not look at the IP addresses we collect unless it becomes necessary to resolve a complaint about misuse of our services and we need to investigate records of particular visitors. If your browser is set up to accept them, we will also use a feature known as cookie. Our cookies contain small pieces of information that our web site transfers to your computer's hard drive. Cookies can make our site more useful by allowing us to store information that you provided us on earlier visits to our web site, and by allowing you not to have to re-register when you make regular visits to the site. We will not be using cookies to uncover information about your computer. Advertising networks that serve ads onto the site may also use cookies, but please note that Netimperative.com has no access to, or control over, those cookies.
+For any of the above purposes we may send your information internationally including to countries outside the EEA. Some of these jurisdictions offer differing levels of protection of personal information, not all of which may be as high as the UK.
 
-The majority of browsers are set up to accept cookies, however you can configure your browser to either refuse cookies, or notify when your browser has received one.
+**Cookies** 
 
-How we protect your information 
+Each website owned and operated by the Digital Strategy Consulting group uses cookies. A cookie is a small text file of which there are three types: 
 
-The internet is not a secure medium. However we have put in place various security procedures as set out in this policy. 
+  * **Session cookies** : These are used to maintain something called session state. If you consider your journey through the site to be a conversation with us and this cookie just reminds the site where we were in that conversation (for instance if at some point in the conversation you asked us to add a report to your basket, next time you click on the basket it is still there). These are required for the site to function but are not used in any way to identify you personally.
+  *  **Permanent cookies** : These store a few numbers on your hard drive. You can view them by looking in the cookies directory of your browser installation if you are interested. They last for a long time and each time you come to our site you send us a copy of them. We use them to identify you between visits. For instance if you were looking at reports about marketing last time you were on the site and we have a great new report we may use this cookie to recognise you and show you our great deal. They are not required for the site to work but may enhance your experience. We do not store any personal data in these cookies, just a unique number that identifies you to us. 
+  * **Third Party Cookies** : You may have noticed that we carry advertising from third parties on our site. Occasionally they may send you a cookie. We have no control over these.
 
-All site and member information is held in a database on servers that can only be accessed by authorised personnel. These servers are protected by firewalls, which are used to block unauthorised traffic.
 
-Netimperative does not hold credit card details to process financial transactions, including membership registration. Transactions take place on a third party site, where the third party informs our software on the status of any transaction. Any credit card transactions you make to purchase Netimperative services or products while visiting our site will be confirmed by email.
 
-Netimperative will not disclose any information about individual users, except as described in this Privacy Policy, unless we are compelled to do so to comply with applicable laws or valid legal process, or to protect the rights and property of Netimperative. We will not give, rent, lend or sell any individual user's information to our advertisers, sponsors or partners. Advertisers may give us an ad and tell us the type of audience they want to reach (for example, male users in Brighton). Netimperative would then take the ad and display it to users who've told us they meet those criteria. In this process, the advertiser never has access to individual account information. Only Netimperative has access to individuals' accounts.
+Although you cannot block "session" cookies as they are required for our site to function correctly you can configure your internet browser so that it can reject both "permanent" and "third party" cookies. How you do this will depend upon the internet browser you use (for example, Internet Explorer, Firefox, Safari or Opera etc.) and it is therefore impractical for us to detail here how you can reject those cookies. Please refer to the relevant internet browser manufacturer's website where you should be able to receive all the information you need."
 
-We may also disclose aggregate information (for example, 1m of our members clicked on an advertisement last month) in order to describe our services to prospective partners, advertisers, and other third parties, and for other lawful purposes.
+**Third Party Advertising**
 
-However, in the event that the business is sold, or integrated with another business, your details may be disclosed to our and any prospective purchasers' advisers and will be passed on to the new owners of the business.
+The ads appearing on this website are delivered to you, on our behalf, by our web advertising partner. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or any other personal information), is used to serve ads.
 
-Other points about privacy 
+To opt out of third party advertising, visit the advertising network partner we have. If you do not see advertising in place then we are probably not carrying it at that time.
 
-The information that you post on bulletin boards, in chat rooms and other similar places on our site is visible to the general public. Please remember that whenever you disclose personal information publicly, that information can be collected and used by others. If you post your email address on an open bulletin board, you may receive unsolicited messages from other parties. This is against the policies of Netimperative.com, and if you believe you are receiving such messages via postings on Netimperative, please email us at info@Netimperative.com.
+**Data**
 
-Furthermore, while we will do our best to protect your personal information, Netimperative cannot ensure or warrant the security of any information that you transmit to us. Please be careful and responsible when maintaining the secrecy of your passwords and/or any account information online. 
+In the UK we operate and are registered in accordance with applicable data protection legislation.
 
-A number of our data providers, advertisers, sponsors or partners link from our site to areas on their own sites where they sell goods and services. If you follow links away from Netimperative to their sites, please be aware that these other sites may have different privacy and data collection practices and that Netimperative bears no responsibility for these independent policies. Please check each site for its own policies.
+**Consent**
 
-Updating your details 
+By disclosing your personal information to us using this website or over the telephone, you consent to the collection, storage and processing of your personal information by Digital in the manner set out in this Privacy Policy. Some information and emails sent to us may be used as testimonials, but if so no email address or contact details will be displayed.
 
-If any of the information that you have provided to Netimperative changes, for example if you change your email address, please let us know by following the links on the site or by sending an email to info@Netimperative.com or by sending a letter to Customer Services, Netimperative, 3 Waterhouse Square, 142 Holborn, London EC1N 2NX.
+**Opt-Out Policy**
 
-Your consent 
+Newsletter subscribers can opt-out of receiving further information from us. Email [Briefings@DigitalStrategyConsulting.com](mailto:briefings@digitalstrategyconsulting.com) with the details of which newsletters you would like to opt out from and we will have you removed within four weeks.
 
-By submitting your information you consent to the use of that information as set out in this Policy. If we change our Privacy Policy we will post the changes on this page so that you may be aware of the information we collect and how we use it at all times. We will also email you should we make any changes so that you may consent to our use of your information in that way.
+**Change/Modify Details**
 
-Because the internet infrastructure is global, the information you provide may be transferred outside the European Economic Area during use as set our in this policy. By submitting your information you consent to these transfers. While we are not anticipating such a transfer, as the databases will be held within the European Economic Area and subject to European Data Privacy laws, there may come a time where some information is accessible via localised servers in the rest of the world. We will make you aware of such a situation should it arise. However, it should be noted that Netimperative operates its business (and the business of all subsidiaries) according to European Data Protection directives.
+To change your email address details, send an email with your correct details to: [Briefings@DigitalStrategyConsulting.com](mailto:briefings@digitalstrategyconsulting.com) or use the special updates page to tell us about all your interests so we can look for other research or publications that match your needs - or use this page: [http://www.digitalstrategyconsulting.com/updatemydetails](http://www.digitalstrategyconsulting.com/updatemydetails/).
 
-How to contact Netimperative 
+If you need to modify or change your personal details after you have made a purchase on the site please contact us as soon as possible.
 
-We welcome your views about our website and our Privacy Policy. If you would like to contact us with any queries or comments, please send an email to info@Netimperative.com 
+**Contact**
+
+If you have any questions or concerns about the information we hold about you, you can also contact us by email.
+
+**We use cookies to assist with the delivery of some services**
+
+In the course of visiting our website or accessing our email news services, you may be served cookies by us or by the third parties who assist us in delivering these services. Because this is part of the distribution of the services we have, accepting cookies is a condition of the use of the services. If you want to leave our services then simply email to [Briefings@DigitalStrategyConsulting.com](mailto:briefings@digitalstrategyconsulting.com) and we will suspend your account.
+
+**How to unsubscribe from our email news services**
+
+Whether you are a paying customer, or enjoying a guest account, you can leave our services at any time. If you want to leave then simply email to [Briefings@DigitalStrategyConsulting.com](mailto:briefings@digitalstrategyconsulting.com) and we will suspend your account within two weeks. It's very rare that people ask us to do this so please tell us why the service didn't work for you; your feedback is really appreciated by all the team.
+
+**Emails we send you are confidential**
+
+Email, texts, messenger notifications and other forms of electronic messages (along with their attachments as sent by any employee, representative, consultant or contractor from our team shall be considered privileged and confidential information. These messages may contain confidential, proprietary or legally privileged information and are intended only for the use of the addressee named. No confidentiality or privilege is waived or lost by any incorrect transmission. If you are not the intended recipient of this message you are hereby notified that you must not use, disseminate, copy it in any form or take any action in reliance on it. If you have received this message in error please delete it and any copies of it and kindly inform the sender of this email by replying or go to [Briefings@DigitalStrategyConsulting.com](mailto:briefings@digitalstrategyconsulting.com).
