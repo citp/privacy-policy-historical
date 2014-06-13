@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quickheal.co.in privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212220137id_/http%3A//www.quickheal.co.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickheal.co.in privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614012451id_/http%3A//www.quickheal.co.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -62,4 +62,4 @@ Wakdewadi, Shivajinagar
 **State** | **:** | Maharashtra  
 **Country** | **:** | India  
 **Website** | **:** | [http://www.quickheal.com](http://www.quickheal.com/)   
-**Technical Assistance** | **:** | [ http://www.quickheal.com/submitticket](http://www.quickheal.com/submitticket) 
+**Technical Assistance** | **:** | [ http://www.quickheal.co.in/submitticket](http://www.quickheal.co.in/submitticket) 
