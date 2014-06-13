@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the xara.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112152827id_/http%3A//www.xara.com/us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xara.com privacy policy that was archived on 2014-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140613231140id_/http%3A//www.xara.com/us/privacy) for the most accurate reproduction.*
 
 # Privacy & Cookie Statement
-
-Privacy & Cookie Statement
 
 XARA has created this privacy statement in order to **demonstrate the company's firm commitment to privacy**. The following discloses the information gathering and dissemination practices for the Xara web site [www.xara.com](http://www.xara.com/) and the Xara Online purchase site secure.xaraonline.com. 
 
