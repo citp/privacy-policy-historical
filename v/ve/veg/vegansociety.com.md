@@ -1,0 +1,225 @@
+> *The following text is extracted and transformed from the vegansociety.com privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614012252id_/http%3A//www.vegansociety.com/privacy-cookie-policy) for the most accurate reproduction.*
+
+# Privacy & Cookie Policy | The Vegan Society
+
+This is the website of _The Vegan Society_.  _The Vegan Society_ is a registered charity, number 279228, and a Company Limited by Guarantee, company number 1468880 in England and Wales, both of which are data controllers of your information under the Data Protection Act 1998. 
+
+## Contact information
+
+Our postal address is:
+
+Donald Watson House  
+21 Hylton Street  
+Hockley  
+Birmingham  
+B18 6HJ
+
+We can be reached [online](https://web.archive.org/society/contact-us) or phone +44 (0)121 523 1730.
+
+## Introduction
+
+This privacy policy demonstrates our commitment to protecting your personal information online. This statement explains how we collect and use information we learn about you from your visit to our website, and which you give us. A link to this Policy is available from all Vegan Society websites.
+
+We do not collect personally identifying information about you when you visit our site, unless you choose to provide such information to us. Providing such information is strictly voluntary. 
+
+## Non-personal information
+
+We collect and store the following non-personal information from you: 
+
+  * the IP address and / or domain name from which you access the internet
+  * the date and time you access our site
+  * the files requested from our site (as well as whether they were successfully received, or any errors that were encountered)
+  * the internet address from which you linked to our site
+  * any search terms you used to find our site
+  * details of your web browser and operating system, 
+
+
+
+This may be linked to personal data you have given us. 
+
+We use this data to measure the number of visitors to the different sections of our site and evaluate traffic statistics (such as the times of day and days of week at which we see peak traffic) in order to improve performance and help make our site more useful to visitors.
+
+Except as might be required by law or to carry out our business, we do not share any information we receive with any outside parties – other than in an anonymous, aggregated format.
+
+## Personal information
+
+In some areas of our website, we ask you to provide personal information that will enable us to enhance your site visit or contact you with information you request or that may be of interest to you, e.g. when you subscribe to our newsletters, make a donation, or take an online action. 
+
+Examples of your personal information include your name, postal address, phone number and email address.
+
+## How is the information used?
+
+If you've indicated that you're interested in receiving further information about our activities, we may send you any information we believe may be of interest to you. You can ask us to stop sending you such information at any time by contacting us using the contact information above or by unsubscribing.
+
+We'll only send you information about our work by email where you've given us your consent to do so. 
+
+For example, where you have given consent to be contacted by email, we'll normally sign you up to the monthly email newsletter. You may also receive a welcome email telling you about the newsletter and letting you know about other ways to support us. Emails we send you will always give you the chance to opt out of receiving further emails or alternatively, you can contact us using the contact information above. We don't send out random, untargeted emails, known as spam.
+
+The Vegan Society will not disclose any of your personally identifiable information except as outlined in this policy or when we have your permission or under special circumstances, such as when we believe the law requires it.
+
+We may occasionally use carefully selected agents to process information on our behalf, such as a mailing house to post communications to supporters. Third parties to which we transfer your information are only authorised to use that information to fulfil their contractual obligations to us and will not be permitted to use it for any other purpose. We retain full responsibility for how your personal information may be used by our agents.
+
+## Use of links
+
+Throughout our web pages, we provide links to other servers which may contain information of interest to our supporters. We take no responsibility for, and exercise no control over, the organisations, views, or accuracy of the information contained on other servers.
+
+Creating a text link from your website to our site does not require permission.
+
+## Use of text and images
+
+If you would like to publish information that you find on our website, please contact us first.
+
+## Accessibility
+
+This website is designed to be accessible to visitors with disabilities, and to comply with guidelines concerning accessibility. We welcome your comments. If you have suggestions on how to make the site more accessible, please contact us at [web[at]vegansociety[dot]com](https://web.archive.org/contact/web/vegansociety/com).
+
+## Updates
+
+We may use your contact information to send further information about our organisation or to contact you when necessary. You may always opt-out of receiving future mailings; see the "Opt Out" section below.
+
+## Sending us an email
+
+You also may decide to send us personally identifying information, for example, in an electronic mail message containing a question or comment, or by filling out a web form that provides us this information. We use personally identifying information from email primarily to respond to your requests. We may forward your email to other employees who are better able to answer you questions.
+
+If you sign up to one of our email lists, we will only send you the kinds of information you have requested. We won't share your name or email address with any outside parties.
+
+## Opt-Out
+
+If you wish to opt out of specific online or offline communications, or for us to remove you from our database altogether, please contact us using the above contact information.
+
+## Accuracy
+
+The accuracy of your information is important to us. If you change email address or if any of the other information we hold is inaccurate or out of date please contact us using the above contact information. 
+
+Any information we hold that is incorrect will be amended or deleted promptly. We will give you confirmation of corrections and deletions. 
+
+## Security 
+
+We place great importance on the security of your personal information and we always try to take appropriate precautions to protect it.
+
+Our server and its security are monitored regularly. 
+
+All pages that accept credit card information use secure server software (SSL) with 128-bit encryption: the industry standard for secure commercial transactions. This encrypts all of your personal information, including credit card number, name, and address, so that it cannot be read as the information travels over the Internet. While on a secure page, the lock icon on the bottom of web browsers such as Firefox and Internet Explorer becomes locked, (as opposed to unlocked or open when you are just surfing). 
+
+Despite all of our precautions however, no data transmission over the internet can be guaranteed to be 100% secure. So, whilst we strive to protect your personal information, we cannot guarantee the security of any information which you disclose to us online and you must understand that you do so at your own risk.
+
+We are also concerned to protect your personal information off-line. We take steps to ensure that access to personal information is restricted to employees who need it. All Vegan Society employees who handle personal information are kept up-to-date on our security and privacy practices. Our employees are notified and reminded about the importance we place on privacy, and what they can do to ensure your information is protected. 
+
+We cannot, however, be responsible for the theft, destruction or inadvertent disclosure of your personal information whether we hold it on or off-line.
+
+## Cookies
+
+Like many websites, The Vegan Society uses cookies in order to provide you with a more personalised web service. A cookie is a small piece of information sent by a web server to a web browser, which enables the server to collect information from the browser.
+
+The table below explains the cookies used and why.   
+
+Type | Name | Purpose  
+---|---|---  
+Google Analytics | 
+
+  * _utma
+  * _utmb
+  * _utmc
+  * _utmz
+
+| 
+
+These allow us to track the number of visitors access the website as well as obtaining the sources of these visits. We can use this information to further improve the performance and user experience of our site.
+
+Further information about Googles privacy policy, click [here](http://www.google.com/intl/en-GB/policies/privacy/).
+
+To opt out of being tracked by Google Analytics across all websites, click [here](http://tools.google.com/dlpage/gaoptout).  
+  
+Cookie | PHPSESSION | 
+
+This allows our server to recognise returning users between page refreshes for such functionality as logged in user sessions.  
+  
+AddThis | 
+
+  * __atuvc
+  * ssh
+  * sshs
+  * um
+  * ssc
+  * di2
+  * dt
+  * bt2
+  * uit
+  * uid
+  * uvc
+  * loc
+
+| 
+
+The cookies generated by AddThis allows the feature to track the use of the tool, including approximate location. They also help measure and model user interests.
+
+More information about these cookies can be found on the [AddThis support page](http://support.addthis.com/customer/portal/questions/327365-cookie-audit).  
+  
+MailChimp | 
+
+  * km_ai
+  * km_ni
+  * km_lv
+  * __utmx
+  * __utmxx
+  * _ga
+  * km_uq
+  * _utma
+  * _utmz
+
+| 
+
+Mailchimp cookies are used to track individual use of their mail signup tool so they can measure its effectiveness and further improve their products.  
+  
+All cookies are created on first page load and remain persistent throughout the site visit.
+
+Third party cookies can be disabled or deleted at any time via your browser settings. Read the following guides on how to achieve this for the most popular browsers:
+
+Internet Explorer
+    <http://windows.microsoft.com/en-gb/windows7/block-enable-or-allow-cookies>
+Chrome
+    <https://support.google.com/chrome/answer/95647?hl=en-GB>
+Firefox
+    <https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences>
+Safari
+    <http://support.apple.com/kb/ph11913>
+
+Most web browsers allow some control of most cookies through the browser settings. However, please note that if you avoid the use of cookies you may not be able to use the full functionality of this website. 
+
+Further information about cookies, including steps you can take to refuse their use, can be found at the Interactive Advertising Bureau's website [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+
+## Changes
+
+We may make changes to this Policy from time to time. If we change our Privacy Policy we will post the changes on this page. Please revisit the policy each time you consider giving personal information. 
+
+## Your acceptance of this Policy
+
+By using our sites, you consent to the collection and use of information by The Vegan Society in accordance with our Privacy Policy. If you do not agree to this Policy, please do not use our sites.
+
+## Your rights
+
+Any personal information submitted via our websites is treated in accordance with the Data Protection Act 1998. To find out more about your entitlements under the data protection legislation, visit the [website](http://ico.org.uk/) of the _Information Commissioner's Office_.
+
+## Access to your personal information
+
+You have the right under the Data Protection Act 1998, to request details from us of personal information which we hold about you. You can make such a request by email or by post using the above contact information. We will take steps to confirm your identity before releasing any information to you. We have the right to charge a small fee for complying with your request. We will respond to your request within 40 days, unless there are exceptional circumstances.
+
+## Privacy policy for minors
+
+The protection of children is very important to us. If you are under 18, please do not provide us with any personal information. 
+
+Children should always ask a parent or guardian for permission before sending personal information to anyone online. 
+
+## Email
+
+We cannot guarantee the confidentiality of any messages transmitted between you and us via email as these are potentially accessible by the public. We will not be liable to you or anyone else for any loss in connection with any email message sent by you to us or by us to you. 
+
+## Sensitive information
+
+When using or subscribing to our services, you may choose to provide us with information which is defined as sensitive personal information in the Data Protection Act 1998. Examples of sensitive information include details of your ethnicity or state of health. As with all of the personal information which you provide to us, we shall use and store this information carefully in accordance with this privacy policy.
+
+This privacy policy is governed by the laws of England, Wales and Northern Ireland.
+
+## Questions about our policies
+
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact us [here](https://web.archive.org/society/contact-us).
