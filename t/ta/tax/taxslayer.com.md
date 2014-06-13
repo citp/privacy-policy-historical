@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taxslayer.com privacy policy that was archived on 2013-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131027000841id_/http%3A//www.taxslayer.com/Policies/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxslayer.com privacy policy that was archived on 2014-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140613051738id_/https%3A//www.taxslayer.com/Policies/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy for TaxSlayer.com Tax Software
 
@@ -96,6 +96,10 @@ Our web site offers publicly accessible blogs or community forums. You should be
 
 As a service to our customers, we have installed links to various tax agencies/services. These include IRS.Gov, and various state agencies and organizations. The links provided are maintained by these separate entities and are not the property of, or affiliated with, Taxslayer.com. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any Web site you visit. 
 
+**Social Media Widgets**
+
+Our Web site includes Social Media Features, such as the Facebook Like button [and Widgets, such as the Share this button or interactive mini-programs that run on our site]. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. 
+
 **Our Former Customers**
 
 Even if you are no longer a TaxSlayer customer, our Privacy Policy will continue to apply to you. 
@@ -135,4 +139,4 @@ If you do not receive acknowledgement of your inquiry or your inquiry has not be
 
 The Privacy Policy applies to products and services of TaxSlayer.com, online. We reserve the right to change this Privacy Policy, and any of the policies described above, at any time. Any changes to our policy will be immediately posted and made available to consumers at our website and these changes will not take effect for 15 days after their initial posting. We will also email users with this information. The examples contained within this Privacy Policy are illustrations; they are not intended to be exclusive. 
 
-**Approved and Effective 07/18/2012**
+**Approved and Effective 09/29/2013**
