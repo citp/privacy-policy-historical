@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tenmarks.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124220834id_/http%3A//www.tenmarks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tenmarks.com privacy policy that was archived on 2014-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140613044903id_/http%3A//www.tenmarks.com/privacy-policy) for the most accurate reproduction.*
 
 # TenMarks Privacy Policy
 
@@ -6,7 +6,7 @@
 
 #### Acceptance
 
-TenMarks Education, Inc. (TenMarks) feels strongly about protecting your privacy and the privacy of a student. TenMarks WILL NOT sell, trade, or assign any unaggregated, personally-identifiable personal information that it collects to third parties outside of TenMarks. If you have any questions, concerns or comments regarding this privacy policy, you may contact us at the email and address posted at the end of this policy statement. We are committed to addressing your privacy or security questions or concerns.
+TenMarks Education, LLC. (TenMarks) feels strongly about protecting your privacy and the privacy of a student. TenMarks WILL NOT sell, trade, or assign any unaggregated, personally-identifiable personal information that it collects to third parties outside of TenMarks. If you have any questions, concerns or comments regarding this privacy policy, you may contact us at the email and address posted at the end of this policy statement. We are committed to addressing your privacy or security questions or concerns.
 
   
 
@@ -128,7 +128,7 @@ Contact:
 
 The Privacy Officer 
 
-TenMarks, Education Inc. 
+TenMarks, Education LLC. 
 
 1633 Bayshore Hwy, Suite 234 
 
