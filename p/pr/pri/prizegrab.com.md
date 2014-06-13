@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the prizegrab.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208152234id_/http%3A//prizegrab.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prizegrab.com privacy policy that was archived on 2014-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140613060320id_/http%3A//prizegrab.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy
 
-Last Updated: September 1, 2013
+Last Updated: May 27, 2014
 
-The following sets forth the policies for the collection and use of personally identifiable information ("Information") by PrizeGrab.com, LLC ("PrizeGrab.com") in connection with its operation of its Web site located at www.prizegrab.com, ( the "Site") and other areas around the web as well as offline (the Site and all other operations together are known as the "Business"), and supersedes any previous statement of such policies. PrizeGrab.com has created the below policy to explain the types of information it collects from users, how it uses this information, with whom and for what purposes it shares the information, and how users can interact with PrizeGrab.com in connection with the information collection and use. 
+The following sets forth the policies for the collection and use of personally identifiable information ("Information") by PrizeGrab.com ("PrizeGrab.com") in connection with its operation of its Web site located at www.prizegrab.com, ( the "Site") and other areas around the web as well as offline (the Site and all other operations together are known as the "Business"), and supersedes any previous statement of such policies. PrizeGrab.com has created the below policy to explain the types of information it collects from users, how it uses this information, with whom and for what purposes it shares the information, and how users can interact with PrizeGrab.com in connection with the information collection and use. 
 
 ## Collection of Information.
 
