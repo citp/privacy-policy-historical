@@ -1,12 +1,11 @@
-> *The following text is extracted and transformed from the workbooks.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221150145id_/http%3A//www.workbooks.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workbooks.com privacy policy that was archived on 2014-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140613133419id_/http%3A//workbooks.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-  
 At Workbooks, we respect your need for online privacy and protect any personal information that you may share with us in an appropriate manner. Our practice, as regards use of your personal information is set out below in this Privacy Policy.  
  
 
-#### What information do we collect?
+####  What information do we collect?
 
 We collect information from you when you register on our site, place an order, subscribe to our newsletter, subscribe to our blog, respond to a survey, fill out a form or take out a free trial.
 
@@ -15,22 +14,27 @@ When ordering or registering on our site, as appropriate, you may be asked to en
 You may, however, visit our site anonymously.  
  
 
-#### What do we use your information for?
+####  What do we use your information for?
 
 Any of the information we collect from you may be used in one of the following ways:
 
-  * To personalise your experience - your information helps us to better respond to your individual needs.
-  * To improve our website - we continually strive to improve our website offerings based on the information and feedback we receive from you.
-  * To improve customer service - your information helps us to more effectively respond to your customer service requests and support needs.
-  * For marketing purposes - For example, we may send you information regarding Workbooks and its partners, such as details of promotions or events.
-  * For order processing - The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc. If you provide credit card information, Workbooks uses this solely to check the financial qualifications and collect payment. Workbooks does not store this information past the point it is used.
+  * To personalise your experience - your information helps us to better respond to your individual needs.  
+ 
+  * To improve our website - we continually strive to improve our website offerings based on the information and feedback we receive from you.  
+ 
+  * To improve customer service - your information helps us to more effectively respond to your customer service requests and support needs.  
+ 
+  * For marketing purposes - For example, we may send you information regarding Workbooks and its partners, such as details of promotions or events.  
+ 
+  * For order processing - The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc. If you provide credit card information, Workbooks uses this solely to check the financial qualifications and collect payment. Workbooks does not store this information past the point it is used.  
+ 
 
 
 
 **Note:** If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.  
  
 
-#### Cookies
+####  Cookies
 
 This website uses cookies and in the following we describe what cookies Workbooks uses and for what purpose.
 
@@ -52,8 +56,10 @@ Workbooks uses cookies that are session-based and persistent-based. Session cook
 
 We use cookies for:
 
-  * Statistics - Measuring website traffic i.e. number of visits on the website, which domain the visitors come from, which pages the visitors visit on the website and in which overall geographical area the visitors are located.
-  * Improvement of the functionality of the website.
+  * Statistics - Measuring website traffic i.e. number of visits on the website, which domain the visitors come from, which pages the visitors visit on the website and in which overall geographical area the visitors are located.  
+ 
+  * Improvement of the functionality of the website.  
+ 
 
 
 
@@ -61,8 +67,10 @@ We use cookies for:
 
 Our Website uses cookies from the following third parties:
 
-  * Google Analytics: for statistical purposes. You can decline cookies from Google Analytics by clicking on this link: <https://tools.google.com/dlpage/gaoptout/>
-  * Google Ads: i.e. for the purpose of displaying relevant advertisements. Workbooks uses Remarketing with Google Analytics to advertise online. Third party vendors, including Google, show our adverts on sites across the internet. Workbooks and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone's past visits to your website.
+  * Google Analytics: for statistical purposes. You can decline cookies from Google Analytics by clicking on this link: <https://tools.google.com/dlpage/gaoptout/>  
+ 
+  * Google Ads: i.e. for the purpose of displaying relevant advertisements. Workbooks uses Remarketing with Google Analytics to advertise online. Third party vendors, including Google, show our adverts on sites across the internet. Workbooks and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone's past visits to your website.  
+ 
 
 
 
@@ -71,52 +79,52 @@ For more information on Cookies and for details of how to control or delete cook
 Please note that if you disable your web browser’s ability to accept cookies, certain parts of our website will not work.  
  
 
-#### IP Addresses
+####  IP Addresses
 
 When you visit the Workbooks website, the Internet Protocol (IP) address of your computer is registered. The IP address is the numerical address of a computer used when visiting a website. Workbooks uses your IP address to derive the region from which you have visited our site.  
  
 
-#### Links from our website
+####  Links from our website
 
 Some pages of our website contain external links. You are advised to verify the privacy practices of such other websites. We are not responsible for the manner of use or misuse of information made available by you at such other websites. We encourage you not to provide personal information, without assuring yourself of the privacy policy statement of other websites.  
  
 
-#### Blogs and Forums
+####  Blogs and Forums
 
 We provide the capacity for users to post information in blogs and forums and for sharing information in a public space on the website. This information is publicly available to all users of these forums and visitors to Workbooks. We require registration to publish information, but given the public nature of both platforms we encourage users to be cautious in disclosure of personal information as Workbooks is not responsible for the personal information users elect to disclose.  
  
 
-#### Do we disclose any information to outside parties?
+####  Do we disclose any information to outside parties?
 
 We do not sell your personally identifiable information to outside parties. We may release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety.  
  
 
-#### Childrens Online Privacy Protection Act Compliance
+####  Children's Online Privacy Protection Act Compliance
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.  
+We are in compliance with the requirements of COPPA (Children's Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.  
  
 
-#### Online Privacy Policy Only
+####  Online Privacy Policy Only
 
 This online privacy policy applies only to information collected through our website and not to information collected offline.  
  
 
-#### Terms and Conditions
+####  Terms and Conditions
 
 Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website are [here](http://www.google.com/url?q=http%3A%2F%2Fwww.workbooks.com%2Fworkbooks-terms&sa=D&sntz=1&usg=AFQjCNFtrP1M69RcKECbGvcu9HzuUCTW-Q).  
  
 
-#### Your Consent
+####  Your Consent
 
 By using our site, you consent to our online privacy policy.  
  
 
-#### Changes to our Privacy Policy
+####  Changes to our Privacy Policy
 
 If we decide to change our privacy policy, we will post those changes on this page.  
  
 
-#### Contacting Us
+####  Contacting Us
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
