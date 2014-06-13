@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the sanfrancisco.com privacy policy that was archived on 2013-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131219112512id_/http%3A//www.sanfrancisco.com/app/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sanfrancisco.com privacy policy that was archived on 2014-06-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140613051641id_/http%3A//www.sanfrancisco.com/app/privacy-policy.php) for the most accurate reproduction.-->
 
 <html xmlns="http://www.w3.org/1999/xhtml"><head>
   <title>SanFrancisco.com Privacy Policy</title>
   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta name="robots" content="index,follow"><meta name="rating" content="General">
 <link rel="stylesheet" rev="stylesheet" href="/css/common/style.css?10279" media="screen">
-<script src="http://www.google.com/jsapi"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://www.google.com/jsapi"></script>
 <script type="text/javascript">
 <!--
     google.load("jquery", "1.3");
@@ -198,29 +198,51 @@ Mergers and Acquisition. If we becomes involved in a merger, acquisition, or any
   <a href="/app/event-post/">List Your Event</a>
 </div>
 <br clear="all">
-<div id="copyright"> Copyright 2013 SanFrancisco.com: A City Guide 
+<div id="copyright"> Copyright 2014 SanFrancisco.com: A City Guide 
   by <a href="http://www.boulevards.com/" target="_blank">Boulevards</a>. All rights reserved.&nbsp;<a href="/app/terms-of-service.php">Terms of Service</a>&nbsp;<a href="/app/privacy-policy.php">Privacy Policy</a>.</div>
 
-    <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
-    <script src="http://www.google.com/jsapi" type="text/javascript"></script>
     <script type="text/javascript">
-                    google.load('jquery', '1');
-            google.setOnLoadCallback(function() {
-                jQuery.noConflict();
-                jQuery('a[href^="http"]').not('a[href*="sanfrancisco.com"]').click(function() {
-                    var href = jQuery(this).attr('href');
-                    if (href.indexOf("://") > 0) {
-                        var outgoing = '/outgoing/' + href.split("://",2)[1];
-                        urchinTracker(outgoing);
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-584946-5']);
+      _gaq.push(['_setDomainName', 'sanfrancisco.com']);
+      _gaq.push(['_setAllowLinker', true]);
+      _gaq.push(['_setAllowHash', false]);
+      _gaq.push(['_setLocalRemoteServerMode']);
+      _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+            function clickTracker() {
+                if (typeof jQuery == 'undefined') {
+                    if (typeof console != 'undefined') {
+                        console.error('jQuery not defined');
                     }
+                    return null;
+                }
+                jQuery('a[href^="http"]').not('a[href*="sanfrancisco.com"]').click(function(e) {
+                    var href = jQuery(this).attr('href');
+                    _gaq.push(['_trackEvent', 'Outbound Links', href]);
+                    /* push the redirect to make sure it happens AFTER we track the event */
+                    _gaq.push(function() { document.location.href = href; });
+                    /* if callback has not yet run then delay opening of window by 1s to allow tracking */
+                    setTimeout(function(){
+                        document.location.href = href;
+                    }.bind(this), 1000);
+                    e.preventDefault();
                 });
-            });
-                window.google_analytics_uacct = 'UA-584946-5';
-        _uacct = 'UA-584946-5';
-                        _userv = 2;
-        urchinTracker();
-    </script>
-<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+            }
+            if (typeof google != 'undefined') {
+                google.setOnLoadCallback(clickTracker);
+            } else if (typeof jQuery != 'undefined') {
+                jQuery(document).ready(clickTracker);
+            } else {
+                window.onload = clickTracker;
+            }
+    </script><script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
 <script type="text/javascript">_qacct="p-d5buRHCDjoZz-";quantserve();</script>
 <noscript>
 <a href="http://www.quantcast.com/p-d5buRHCDjoZz-" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-d5buRHCDjoZz-.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
@@ -233,7 +255,7 @@ var casaleU=escape(window.location.href);
 var casaleHost=' type="text/javascript" src="http://as.casalemedia.com/s?s=';
 document.write('<scr'+'ipt'+casaleHost+'106361&amp;u=');
 document.write(casaleU+'&amp;f=1&amp;id='+casaleR+'"><\/scr'+'ipt>');
-//--></script><script type="text/javascript" src="http://as.casalemedia.com/s?s=106361&amp;u=https%3A//web.archive.org/web/20131219112512id_/http%253A//www.sanfrancisco.com/app/privacy-policy.php&amp;f=1&amp;id=1852136497.6054902"></script>
+//--></script><script type="text/javascript" src="http://as.casalemedia.com/s?s=106361&amp;u=https%3A//web.archive.org/web/20140613051641id_/http%253A//www.sanfrancisco.com/app/privacy-policy.php&amp;f=1&amp;id=1852139372.8924274"></script>
 <!-- DO NOT MODIFY --></div>
 
 
