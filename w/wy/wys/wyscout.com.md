@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wyscout.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211120437id_/http%3A//wyscout.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wyscout.com privacy policy that was archived on 2014-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140613154202id_/http%3A//wyscout.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wyscout
 
@@ -10,11 +10,11 @@ Upon registration and account creation, you agree to the Terms of Service of Wys
 
 This Information relates solely to the Wyscout’s website http://wyscout.com (hereinafter the “ ** _Platform_** ”) and is not otherwise applicable.
 
-For the purposes of this Information on the processing of personal data, “Wyscout” refers to both the Platform and the company WY S.r.l., with legal office in Corso Garibaldi 32/8, 16043 Chiavari (GE), fiscal code and VAT number 01499880993.
+For the purposes of this Information on the processing of personal data, “Wyscout” refers to both the Platform and the company Wyscout Spa, with legal office in Corso Garibaldi 32/8, 16043 Chiavari (GE), fiscal code and VAT number 01499880993.
 
 **Data controller**
 
-The data controller is WY S.r.l., with legal office in Corso Garibaldi 32/8, 16043 Chiavari (GE).
+The data controller is Wyscout Spa, with legal office in Corso Garibaldi 32/8, 16043 Chiavari (GE).
 
 **Personal information collected and processing**
 
