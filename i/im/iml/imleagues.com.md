@@ -1,12 +1,13 @@
-> *The following text is extracted and transformed from the imleagues.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530181502id_/http%3A//www.imleagues.com/Portal.aspx%3FPortal%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imleagues.com privacy policy that was archived on 2014-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140613034050id_/http%3A//www.imleagues.com/Portal.aspx%3FPortal%3Dprivacy) for the most accurate reproduction.*
 
-# IMLeagues Privacy Policy
+# IMLeagues
 
-**Privacy Policy**  
-**How we keep your information safe: Effective January 20, 2008**
+## Privacy Policy
+
+How we keep your information safe: Effective January 20, 2008
 
 **imleagues Principles:**  
-We built imleagues to make it easy to share information with your students, teammates, coaches, refs, fans, friends and people around you. But we also understand that you may not want everyone in the world to have the information you share on imleagues; that is why we give you control of your information. Our default privacy settings limit the information displayed in your profile to your networks and other reasonable community limitations that we tell you about.
+We built imleagues to make it easy to share information with your students, teammates, coaches, refs, fans, friends and people around you. But we also understand that you may not want everyone in the world to have the information you share on imleagues; that is why we give you control of your information. Our default privacy settings limit the information displayed in your profile to your networks and other reasonable community limitations that we tell you about. 
 
 Imleagues follows two core principles in personal information handling practices:
 
@@ -15,14 +16,14 @@ Imleagues follows two core principles in personal information handling practices
 **2\. Access to the information others want to share:** There is an increasing amount of information available out there, and you may want to know what relates to you, your friends, and people around you. We want to help you easily get that information.
 
 **imleagues's Privacy Policy** :  
-imleagues's Privacy Policy is designed to help you understand how we collect and use the personal information you decide to share, and help you make informed decisions when using imleagues, located at www.imleagues.com and its directly associated domains (collectively, "imleagues" or "Website")
+imleagues's Privacy Policy is designed to help you understand how we collect and use the personal information you decide to share, and help you make informed decisions when using imleagues, located at www.imleagues.com and its directly associated domains (collectively, "imleagues" or "Website") 
 
 By using or accessing imleagues, you are accepting the practices described in this Privacy Policy.
 
 If you have questions or concerns regarding this statement, you should first contact our privacy staff at [privacy@imleagues.com](mailto:privacy@imleagues.com).
 
 **Policy Changes:**  
-We reserve the right to change this Policy at any time. We may use personal information for new, unanticipated uses not previously disclosed in this privacy policy. If our privacy practices change we will post the policy changes to our web site and notify you by indicating the date the privacy policy was last updated. We encourage you to check back at our web site periodically if you are concerned about how your information is used. Unless stated otherwise, our current privacy policy applies to all information that we have about you and your account.
+We reserve the right to change this Policy at any time. We may use personal information for new, unanticipated uses not previously disclosed in this privacy policy. If our privacy practices change we will post the policy changes to our web site and notify you by indicating the date the privacy policy was last updated. We encourage you to check back at our web site periodically if you are concerned about how your information is used. Unless stated otherwise, our current privacy policy applies to all information that we have about you and your account. 
 
 **The Information We Collect:**  
 When you visit imleagues you provide us with two types of information: a) personal information such as (name, email address) you knowingly choose to disclose that is collected by us, and b) non-personally identifiable information that is generated when you interact with our Web Site. 
@@ -90,9 +91,9 @@ imleagues users may modify or remove any of their profile information at any tim
 Where you make use of the communication features of the service to share information with other individuals on imleagues, however, (e.g., posting a message on someones board & smack talk) you generally cannot remove such communications.
 
 **Security:**  
-imleagues takes appropriate precautions to protect our users' information. Your account information is located on a secured server behind a firewall. Because email and instant messaging are not recognized as secure communications, we request that you not send private information to us by email or instant messaging services. If you have any questions about the security of Imleagues Web Site, please contact us at [privacy@imleagues.com](mailto:privacy@imleagues.com).
+imleagues takes appropriate precautions to protect our users' information. Your account information is located on a secured server behind a firewall. Because email and instant messaging are not recognized as secure communications, we request that you not send private information to us by email or instant messaging services. If you have any questions about the security of Imleagues Web Site, please contact us at [privacy@imleagues.com](mailto:privacy@imleagues.com). 
 
 **Terms of Use, Notices and Revisions:**  
-Your use of imleagues, and any disputes arising from it, is subject to this Privacy Policy as well as our Terms of Use and all of its dispute resolution provisions including arbitration, limitation on damages and choice of law. We reserve the right to change our Privacy Policy and our Terms of Use at any time. Non-material changes and clarifications will take effect immediately, and material changes will take effect within 30 days of their posting on this site. If we make changes, we will post them and will indicate at the top of this page the policy's new effective date. If we make material changes to this policy, we will notify you here, by email, or through notice on our home page. We encourage you to refer to this policy on an ongoing basis so that you understand our current privacy policy. Unless stated otherwise, our current privacy policy applies to all information that we have about you and your account.
+Your use of imleagues, and any disputes arising from it, is subject to this Privacy Policy as well as our Terms of Use and all of its dispute resolution provisions including arbitration, limitation on damages and choice of law. We reserve the right to change our Privacy Policy and our Terms of Use at any time. Non-material changes and clarifications will take effect immediately, and material changes will take effect within 30 days of their posting on this site. If we make changes, we will post them and will indicate at the top of this page the policy's new effective date. If we make material changes to this policy, we will notify you here, by email, or through notice on our home page. We encourage you to refer to this policy on an ongoing basis so that you understand our current privacy policy. Unless stated otherwise, our current privacy policy applies to all information that we have about you and your account. 
 
 If you have any questions about this Privacy Policy, you should first contact our Privacy Officer at [privacy@imleagues.com](mailto:privacy@imleaguess.com). You may also contact us by mail at 66 Bogart Court Princeton NJ 08540
