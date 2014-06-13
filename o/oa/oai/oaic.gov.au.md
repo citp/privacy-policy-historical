@@ -1,69 +1,47 @@
-> *The following text is extracted and transformed from the oaic.gov.au privacy policy that was archived on 2013-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131006215918id_/http%3A//www.oaic.gov.au/condensed-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oaic.gov.au privacy policy that was archived on 2014-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140613135833id_/http%3A//www.oaic.gov.au/privacy-policy-summary) for the most accurate reproduction.*
 
-# Privacy policy - OAIC
+# Privacy policy summary| Office of the Australian Information Commissioner - OAIC
 
-## Scope
+## Scope                    
 
-This Condensed Privacy Policy applies to personal information collected by the Office of the Australian Information Commissioner (OAIC).
+This summary sets out the key points about how the Office of the Australian Information Commissioner (OAIC) handles personal information.
 
-The OAIC has adopted the Layered Privacy Notice format.* This document provides you with a succinct overview of how we handle your personal information.
+We collect, hold, use and disclose personal information to carry out our functions or activities under the [_Australian Information Commissioner Act 2010_](http://www.comlaw.gov.au/Details/C2012C00126) (AIC Act), the [_Privacy Act 1988_](http://www.comlaw.gov.au/Details/C2013C00482) (Privacy Act) and the [_Freedom of Information Act 1982_](http://www.comlaw.gov.au/Details/C2012C00904) __ (FOI Act).
 
-Our [complete Privacy Policy](https://web.archive.org/about-us/corporate-information/key-oaic-documents/complete-privacy-policy) can be accessed on our website. Both this Condensed Privacy Policy and the complete Privacy Policy were last updated in March 2013.    
+More information can be found in our main [privacy policy](https://web.archive.org/about-us/corporate-information/key-oaic-documents/privacy-policy) and our [human resources privacy policy](https://web.archive.org/about-us/corporate-information/key-oaic-documents/human-resources-privacy-policy).
 
-## Personal Information Handling Practices
+## Collection of your personal information
 
-### Collection
+We usually collect personal information (including sensitive information) from you or your authorised representative when we are handling privacy and freedom of information (FOI) complaints and FOI reviews or taking other regulatory action under the Privacy or FOI Acts.
 
-We usually collect personal information about individuals directly from those individuals or their authorised representative.
+We sometimes collect personal information from a third party  or a publicly available source to enable us to deal with a complaint or review application or to communicate with the public and stakeholders.
 
-We sometimes collect personal information from a third party or from a publicly available source, but only if:
+We also collect personal information through our websites and social networking services such as Facebook and Twitter. We use this information to improve our website and receive feedback from the community.
 
-  * the individual has consented to such collection or would reasonably expect us to collect their personal information in this way, or
-  * if it is necessary for a specific purpose such as the investigation of a privacy complaint.
+## Disclosure
+
+To ensure fairness, we disclose relevant information about the details of your complaint or review application to the respondent and, where relevant, affected third parties.
+
+We don’t disclose sensitive information about you unless you agree, or would reasonably expect us to.
+
+Generally we only disclose personal information overseas so that we can properly handle your complaint or application. As well, web traffic information we collect using Google Analytics may be stored overseas.
+
+## Accessing and correcting your personal information
+
+If you ask, in most cases we must give you access to the personal information that we hold about you, and take reasonable steps to correct it if we consider it is incorrect. We will try to make the process as simple as possible.
+
+## How to make a complaint
+
+You can complain to us in writing about how we have handled your personal information. We will respond to the complaint within 30 days.
+
+## How to contact us
+
+You can [contact us](https://web.archive.org/about-us/contact-us) at:
+
+  *         [enquiries@oaic.gov.au](mailto:enquiries@oaic.gov.au)
+  *         1300 363 992
+  *         GPO Box 5218, Sydney NSW 2001, Australia.
 
 
 
-We only collect personal information for purposes which are directly related to our functions or activities under the [Privacy Act 1988](http://www.comlaw.gov.au/Series/C2004A03712) (Privacy Act), [Freedom of Information Act 1982](http://www.comlaw.gov.au/Series/C2004A02562) (FOI Act) or the [Australian Information Commissioner Act 2010](http://www.comlaw.gov.au/Series/C2010A00052) (AIC Act), and only when it is necessary for or directly related to such purposes.
-
-### Use and disclosure
-
-We only use personal information for the purposes for which we collected it - purposes which are directly related to one of our functions or activities.
-
-We do not give personal information about an individual to other Government agencies, private sector organisations or anyone else unless one of the following applies:
-
-  * the individual has consented
-  * the individual would reasonably expect, or has been told, that information of that kind is usually passed to those individuals, bodies or agencies
-  * it is otherwise required or authorised by law
-  * it will prevent or lessen a serious and imminent threat to somebody's life or health, or
-  * it is reasonably necessary for the enforcement of the criminal law or of a law imposing a pecuniary penalty, or for the protection of public revenue.
-
-
-
-### Data security
-
-We take steps to protect the personal information we hold against loss, unauthorised access, use, modification or disclosure, and against other misuse.
-
-When the personal information that we collect is no longer required, we destroy or delete it in a secure manner, in accordance with the [OAIC’s Records Disposal Authority](http://www.naa.gov.au/naaresources/ra/2012-00305243.doc) _._
-
-## Your choices
-
-You can access the personal information that we hold about you, and you can ask us to correct the personal information we hold about you. For more information, see our [complete Privacy Policy](https://web.archive.org/about-us/corporate-information/key-oaic-documents/complete-privacy-policy) – ‘access and correction’.  
-
-If you are listed on one or more of our [media](https://web.archive.org/news-and-events/subscribe) or [network](https://web.archive.org/about-us/working-with-others) email lists you can opt out at any time. You can unsubscribe by using the ‘unsubscribe’ options noted in our emails.  
-
-## Our obligations
-
-The OAIC is bound by the [Information Privacy Principles](https://web.archive.org/privacy/privacy-resources/privacy-fact-sheets/other/privacy-fact-sheet-1-information-privacy-principles-under-the-privacy-act-1988) in the Privacy Act. 
-
-For more information see our [complete Privacy Policy](https://web.archive.org/about-us/corporate-information/key-oaic-documents/complete-privacy-policy).
-
-## How to contact us 
-
-For further information [contact us](https://web.archive.org/about-us/contact-us-page) at [enquiries@oaic.gov.au](mailto:enquiries@oaic.gov.au) or alternatively you can write to us at GPO Box 5218, Sydney NSW 2001, Australia.
-
-[Assisted contact](https://web.archive.org/about-us/contact-us-page) options are also available.
-
-* * *
-
-*   The Layered Privacy Notices format was [endorsed by Data Protection & Privacy Commissioners in 2003](http://www.privacyconference2003.org/resolution.html), further developed in the Berlin Memorandum and [endorsed in Opinion WP 100](http://ec.europa.eu/justice/policies/privacy/docs/wpdocs/2004/wp100_en.pdf) by the [Article 29 Committee of European Data Protection Commissioners](http://ec.europa.eu/justice/data-protection/article-29/index_en.htm).
-  *[OAIC]: Office of the Australian Information Commissioner
+[Assisted contact](https://web.archive.org/about-us/contact-us) options are also available.
