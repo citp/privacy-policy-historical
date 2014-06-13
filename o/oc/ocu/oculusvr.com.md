@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the oculusvr.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511012624id_/http%3A//www.oculusvr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oculusvr.com privacy policy that was archived on 2014-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140613065545id_/http%3A//www.oculusvr.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Oculus Rift - Virtual Reality Headset for 3D Games
+# Privacy Policy | Oculus Rift - Virtual Reality Headset for 3D Gaming
 
-_Effective Date: August 1, 2012_
+_Effective Date: July 14, 2013_
 
 Oculus VR, Inc, a California corporation (“Oculus”), provides this Policy statement explaining its online information practices and the way in which your personal information is collected and used (this “Policy”). By using the Oculus Websites or any of the Services, you consent to the practices described in this Policy. Except as explicitly provided herein, this Policy does not apply to the practices of companies that Oculus does not own or control, or to people that Oculus does not employ or manage. If you do not agree with the practices explained in this Policy, do not access or browse the Oculus Websites, or use the Services. Capitalized terms not defined in this Policy shall have the meaning set forth in the Oculus Terms of Use, available at <http://www.oculusvr.com/terms/>.
 
@@ -60,7 +60,7 @@ The Oculus Websites and Services regularly interact with third party sites, serv
 
 ## Reasonable Efforts
 
-We will use reasonable efforts to comply with this Policy and will take prompt corrective action when we learn of any failure to comply with this Policy. We sometimes release beta versions of our products and services, which are further refined before the release of the final version. Because these products and services are still in a test phase, we may not always catch an unintended privacy issue, despite our efforts to do so. As such, we welcome User feedback on any privacy concerns you may have. In light of the above and because of the complex and constantly changing nature of our technology and ­business, and the security risks associated with using the Internet, we do not guarantee error-free performance under this Policy. TO THE EXTENT PERMISSIBLE UNDER LAW, OCULUS SHALL NOT BE LIABLE FOR ANY INCIDENTAL, CONSEQUENTIAL OR PUNITIVE DAMAGES RELATING TO THIS POLICY, INCLUDING FOR ANY SECURITY BREACH THAT COMPROMISES ANY USER’S PERSONAL INFORMATION AS IT RELATES TO OCULUS’ WEBSITEs, SERVERS OR SOFTWARE.
+We will use reasonable efforts to comply with this Policy and will take prompt corrective action when we learn of any failure to comply with this Policy. We sometimes release beta versions of our products and services, which are further refined before the release of the final version. Because these products and services are still in a test phase, we may not always catch an unintended privacy issue, despite our efforts to do so. As such, we welcome User feedback on any privacy concerns you may have. In light of the above and because of the complex and constantly changing nature of our technology and ­business, and the security risks associated with using the Internet, we do not guarantee error-free performance under this Policy. TO THE EXTENT PERMISSIBLE UNDER LAW, OCULUS SHALL NOT BE LIABLE FOR ANY INCIDENTAL, CONSEQUENTIAL OR PUNITIVE DAMAGES RELATING TO THIS POLICY, INCLUDING FOR ANY SECURITY BREACH THAT COMPROMISES ANY USER’S PERSONAL INFORMATION AS IT RELATES TO OCULUS’ WEBSITES, SERVERS OR SOFTWARE.
 
 ## What choices do I have?
 
@@ -78,3 +78,5 @@ Oculus reserves the right to modify this Policy at any time. When we do so, we w
 ## Contact Us
 
 If you have questions regarding this Policy, please send an e-mail message to: [privacy@oculusvr.com](mailto:privacy@oculusvr.com).
+
+Last Updated: 7/14/2013
