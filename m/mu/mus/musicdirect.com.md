@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musicdirect.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214125209id_/http%3A//www.musicdirect.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicdirect.com privacy policy that was archived on 2014-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140613052503id_/http%3A//www.musicdirect.com/t-privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
