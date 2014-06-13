@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fishlore.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213160456id_/http%3A//www.fishlore.com/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fishlore.com privacy policy that was archived on 2014-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140613144805id_/http%3A//www.fishlore.com/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for FishLore.com - Tropical Fish Information
 
@@ -11,8 +11,14 @@ We understand that privacy online is important to users of our Site, especially 
 refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name and email addresses. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user)   
 or demographic information not connected to an identified individual.
 
+We use Google Analytics for visitors statistics and you may opt out here: <https://tools.google.com/dlpage/gaoptout/>
+
+Google uses first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone's past visits to this website.
+
+We use demographic data such as age, gender and interests in Google Analytics to help determine out target market audience. 
+
 **What Personally Identifiable Information is collected?**  
-We may collect basic user profile information from all of our Visitors. We collect the following information from our Authorized Customers: the names and email addresses of Authorized Customers (if given).
+We may collect basic user profile information from all of our Visitors. We collect the following information from our Authorized Users: the names and email addresses of Authorized Users (if given).
 
 **What organizations are collecting the information?**  
 We do not control how these third parties use such information, but we do ask them to disclose how they use personal information provided to them from Visitors and Authorized Customers. Some of these third parties may be intermediaries that act solely as links in the distribution chain, and do not store, retain, or use the information given to them.
