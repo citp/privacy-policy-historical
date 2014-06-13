@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ratesupermarket.ca privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102090943id_/http%3A//www.ratesupermarket.ca/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratesupermarket.ca privacy policy that was archived on 2014-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140613145407id_/http%3A//www.ratesupermarket.ca/privacy_policy) for the most accurate reproduction.*
 
 # Ratesupermarket.ca Privacy Policy
 
@@ -32,7 +32,7 @@ We collect your personal information onto servers hosted by a reputable third pa
 
 ### With whom do we share your personal information?
 
-We may disclose personal information to our agents, suppliers and service providers as part of making available our website and related products and services. All such persons and entities are provided only with the information needed to perform their specific function and may not use such information for other purposes. They are also bound by contract to maintain the confidentiality and security of personal information and are restricted from using such information in any way not expressly authorized by RateSupermarket.ca.
+We may disclose personal information to our affiliates, agents, suppliers and service providers as part of making available our website and related products and services. All such persons and entities are provided only with the information needed to perform their specific function and may not use such information for other purposes. They are also bound by contract to maintain the confidentiality and security of personal information and are restricted from using such information in any way not expressly authorized by RateSupermarket.ca.
 
 ### What other organizations collect information?
 
