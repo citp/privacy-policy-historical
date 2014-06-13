@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tjori.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221124000id_/http%3A//www.tjori.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tjori.com privacy policy that was archived on 2014-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140613185206id_/http%3A//www.tjori.com/open/privacy) for the most accurate reproduction.*
 
-# Tjori.com: Privacy Policy
+# Privacy Policy
 
 ## TJORI.COM, LLC (A subsidiary of AM WEBSHOP INDIA PVT LTD)
 
@@ -22,10 +22,13 @@ We do not knowingly collect or solicit personal information from anyone under th
 
 ## II. WHAT INFORMATION DOES TJORI COLLECT?
 
-We gather various types of Personal Information from our users, as explained more fully below. We may use this Personal Information to, among other things, personalize and improve our services, allow our users to set up a user account and profile, contact users, fulfill your requests for certain products and services, analyze how users utilize the Website, or as otherwise set forth in this Privacy Policy. We may share certain types of Personal Information with third parties (as described in this Section and in Section III below). We collect the following types of information:
+In order to access this Site, you must first complete the registration process. During the registration process, we collect personal information such as your name and email address. Once you complete and submit your registration, you have opted in to receive email communication from us.
 
-  
+We also collect personal information when you choose to use certain other features of the Site, such as making purchases or electing to receive text messages about upcoming boutiques, promotions or events. When you choose to use these additional features, we require you to provide additional personal information such as your phone number, billing and shipping addresses and credit card information, and we may request additional personal information such as your shopping preferences and demographics.
 
+In addition, through the Site, we automatically gather certain information about the use of the Site, such as how frequently certain areas of the Site are visited, including through the use of cookies, web beacons and other technologies. Most browsers can be set to prevent cookies or to notify you when one is being placed. However, cookies are necessary to access the Site.
+
+If you choose to invite an individual to join Tjori.com, you will need to provide his/her name and email address. Tjori.com stores this information to confirm qualifying orders attributable to your account and to track the results of the invitation referrals.
 
 ### A. Information You Provide to Us:
 
