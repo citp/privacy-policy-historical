@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iogear.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210091506id_/http%3A//www.iogear.com/corp/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iogear.com privacy policy that was archived on 2014-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140613133115id_/http%3A//www.iogear.com/corp/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - IOGEAR
 
@@ -36,7 +36,7 @@ You always have access to the information we have about you. To review and updat
 **  
 Collecting other personal information**
 
-When you browse IOGEAR's website, you are able to do so anonymously. Generally, we don't collect personal information when you browse - not even your email address. Your browser, however, does automatically tell us the type of computer and operating system you are using. 
+When you browse IOGEAR's website, you are able to do so anonymously. Generally, we don't collect personal information when you browse - not even your email address. Your browser, however, does automatically tell us the type of computer, operating system you are using and location. The IOGEAR website does use Google Anayltics which may collect general demographic information. To opt out of Google Analytics demographic data services, please [click here](https://tools.google.com/dlpage/gaoptout/).
 
 Like many websites, the IOGEAR website uses "cookie" technology. When you first connect to our site, the cookie identifies your browser with a unique, random number. The cookies we use do not reveal any personal information about you, except perhaps your first name so we can welcome you on your next visit. Cookies help us understand which parts of our websites are the most popular, where our visitors are going, and how long they spend there. We use cookies to study traffic patterns on our site so we can make the site even better. 
 
