@@ -1,109 +1,133 @@
-> *The following text is extracted and transformed from the hurley.com privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809060302id_/https%3A//shop.hurley.com/content/privacy-policy-1001.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hurley.com privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614002513id_/http%3A//www.hurley.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Hurley
+# Hurley Digital Privacy Policy
 
-### Privacy Policy
+Effective February 21, 2012
 
-Hurley is committed to respecting the privacy and security of your personal information. The following U.S. online privacy policy, updated in February 2007, describes the information we collect and how we use it. By using this website, you consent to our privacy policy. For questions or concerns, please email us or contact us at:
+This HURLEY Digital Privacy Policy (USA) ("Privacy Policy") describes how we collect and use your information through a variety of digital means. By accessing or using this website, mobile application or other HURLEY product or service on any computer, mobile phone, tablet, console or other device (collectively, "Device"), you consent to our Privacy Policy. HURLEY may modify this Privacy Policy at any time effective upon its posting. Your continued use of our products and services constitutes your acceptance to this Privacy Policy and any updates. This Privacy Policy is incorporated into, and is subject to, the [Terms of Use](https://web.archive.org/web/20140614002513id_/http%3A//www.hurley.com/terms.html).
 
-**Hurley**
+While this Privacy Policy is intended to generally describe our privacy practices, our goal is to also provide more detailed information at times when it's most meaningful to you.  Please look for these notices within our HURLEY services.  
 
-1945-G Placentia Ave
+## Collecting Information
 
-Costa Mesa, CA 92627
+What You Give Us  
+We collect information you give us or permit us to access. Information may include, but is not limited to, your name, image, birth date, email and physical address, telephone number, gender, contact lists, social media information and profile, location (GPS) information, activity and performance information, and when necessary, credit cardinformation.  
 
-**Collecting Information**
+What We Collect From You  
+We may automatically collect information regarding your interaction with, and use of, our products and services. Information we may collect includes, but is not limited to, your telephone number, Device identifier and hardware information, IP address, browser type and language, cookie information, system type, whether you have enabling software to access certain features, access times, referring website URLs, information about your purchases and other information about your interactions with us.
 
-Like many websites, we gather information about how visitors use our website. In general, you can visit many of our web pages without telling us who you are or revealing any personal information about yourself. We may track your visit for trends and statistics, but you will remain anonymous unless you tell us who you are. Once you choose to give us your personal information, you are not anonymous to us. For more information, see "Cookies and Pixel Tags" section below.
+What We Collect From other HURLEY Interactions and Third Parties  
+We may combine information you give us with other information from HURLEY sources, transactions and communications. This may include, but is not limited to, information from HURLEY stores, direct mail, catalogs, events, products and applications, or other HURLEY interactions.  We may also combine that information with data that is publicly available and data from third parties. We also collect information about gift recipients provided by the giver.  
 
-We request information from you (which may include name, address, telephone number, email address, gender and when necessary, credit card information) when you:
+Children's Privacy
 
-  * Register
-  * Purchase
-  * Request a catalog
-  * Request to receive communications
-  * Participate in a promotion or other website feature
+We do not knowingly collect or solicit personal information from children under 13.
 
+Using Information  
+  
+We may use your information to do the following:
 
+Enable Your Use
 
-In order to better understand your preferences and better serve you, we may combine information you give us online with other information from Hurley sources, transactions and communications. This may include data from Hurley stores, direct mail, events, or online marketing. We may also combine that information with data that is publicly available and data that we receive from other reputable sources. This data may include postal address updates and demographic data. We collect information about gift recipients to fulfill the gift purchase, respond to customer service inquiries and for analysis purposes only. All data combined and stored with online data is protected by this privacy policy.
-
-**Using Information**
-
-We may use the information we collect to:
-
-  * Customize and/or personalize your communications and shopping experience
-  * Better respond to your customer service inquiries
-  * Communicate with you about your purchase, account information, or customer service needs
-  * Communicate with you about our products and events, and for other promotional purposes
-  * Improve our business
-  * Administer contests, promotions, surveys or other website features
+  * Enhance, customize and personalize your HURLEY experiences and communications 
+  * Use HURLEY features, such as running routes, race registrations, placing an order and other activities
 
 
 
-If you have purchased a product from Hurley and have not previously registered on the website as of April 19th, 2004, we will automatically add you to our direct mail (including catalog) list.
+Operate, Improve and Analyze
 
-**Sharing Information**
-
-For the purpose of operating our business, we may transfer information between Hurley and our preferred service providers who use that information only to conduct Hurley business. For example, they may handle Hurley's credit card processing, shipping, data management, email distribution, market research, information analysis, and promotions management. We may also share your information to administer a website feature (e.g., music download or race registration) and in that case will notify you before you give us your information. We provide our preferred service providers with the information they need to perform their services and work with them to respect and protect your information.
-
-From time to time we might establish a business relationship with carefully selected persons or companies whom we believe trustworthy. These are known as our Select Partners. In such cases we might share and cross-reference information, including personally identifiable information about you that will enable such persons or entities to contact you regarding products and services that may be of interest to you. If you prefer that we do not share any information with these companies, please click here.
-
-We may provide your information to HURLEY Inc. wholly-owned companies and affiliates, which may be outside the U.S. We may provide information to other companies for purposes such as reporting and marketing. On rare occasions, we may disclose specific information upon governmental request, in response to a court order, when required by law, to enforce our website policies, or to protect our or others' rights, property, or safety. We may also share information with companies assisting in fraud protection or investigation. We do not provide information to these agencies or companies for marketing or commercial purposes.
-
-**Protecting Your Information**
-
-We use a variety of security measures, including sophisticated encryption and authentication tools to maintain the safety of your personal information. Your personal information is contained behind secure networks and is only accessible to a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server. All credit card information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be accessed only as stated above. Regardless of these efforts, no data transmission over the Internet can be guaranteed to be 100% secure.
-
-**Cookies and Pixel Tags**
-
-A cookie is a small removable data file that is stored by your web browser on your computer. Cookies allow you to place an order on our website and allow us to enhance and personalize your online browsing and shopping experience. For example, we use cookies to:
-
-  * Remember the items in your Shopping Cart
-  * Recognize you when you return to our website
-  * Enable you to use Express Checkout
-  * Analyze visitor behavior
+  * Operate, provide, improve and maintain HURLEY's products and services, including analyzing user behavior and trends
+  * Send you administrative messages and other information about HURLEY. Communicate with you about your purchase, account information or customerservice
 
 
 
-You can choose to have your computer warn you each time a cookie is being sent or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookie settings. If you turn cookies off, you won't have access to many features that make your site experience more efficient and some of our services will not function properly. However, you can still place orders over the telephone by contacting our customer service number at 1.800.806.6453.
+Provide and Conduct Marketing and Promotions
 
-We also use pixel tags - tiny graphic images - to help us analyze your online behavior. Pixel tags also allow us to send you email in a format you can read and let us know when you have opened an email message from us.
+  * Communicate with you about our products, services and events, and for other promotional purposes
+  * Administer contests, promotions, events, surveys or other features
+  * Display relevant marketing to you
 
-We may use pixel tags to collect information about your visit, including the pages you view, the links you click and other actions taken in connection with our sites and services. We also collect certain standard information that your browser sends to every website you visit, such as your IP address, browser type and language, access times and referring Web site addresses.
 
-We also work with other companies who use tracking technologies to serve ads on our behalf across the Internet. These companies may collect non-personally identifiable information about your visits to our website and your interaction with our communications, including advertising. If you would like to opt-out of 3rd party companies collecting non-personally identifiable information during your visits, please click here.
 
-**Unsubscribing, Removing or Modifying Your Information**
+Sharing Information
 
-We want to communicate with you only if you want to hear from us. If you prefer not to receive information from Hurley or would like to update or change your personal information or preferences, follow the instructions below.
+  
 
-**Registration Information, Email and Other Subscriptions**
 
-To modify or delete entirely the information you have provided during registration, please login and update your profile.
+NIke Family
 
-To unsubscribe from an email, please follow the instructions in any email you receive. You can also send a request. Be sure to include your first and last name and account email address in the "message" box.
+  
+We may provide your information to NIKE, Inc. companies and affiliates, including Converse and NIKE ("NIKE Family"), some of which may be outside the U.S.  
 
-**SMS Messages**
+  
+Service Providers  
+We may transfer your information to NIKE Family service providers to conduct our business.  For example, they may handle credit card processing, shipping, data management, email distribution, market research, information analysis, and promotions management. We may also share your information to administer features (e.g. music download, race registration, or workout routine).   
 
-To unsubscribe from SMS messages, please follow the instructions in the SMS messages you receive.
+  
+By Law or to Protect Rights  
+We may disclose information upon governmental request, in response to a court order, when required by law, to enforce our policies, or to protect our or others' rights, property or safety. We may share information to prevent illegal uses of HURLEY's products and services or violations of the [Terms of Use](https://staging.shop.hurley.demandware.net/s/Hurley/terms.html), or to defend ourselves against third-party claims. We may also share information with companies assisting in fraud protection or investigation.
 
-**Direct Mail (including Catalogs)**
+  
+Business Transfers  
+Your information may be transferred to a third party as a part of our business assets in asale of a part or all of HURLEY.  If this should happen, notice will be provided by posting to the website or other form of communication.
 
-If you would like your name and address removed from Hurley's direct mailing list or if you would like to update your mailing information, you can phone us at 888-267-3867 or email us a request. Be sure to include your first and last name and mailing address in the "message" box.
+  
+Public Sharing  
+  
+Default Sharing  
+When you join or use certain services, you agree to publicly share a basic amount of information, which may include your username, city location, and profile picture.  
 
-**Communications in Progress/Sales and Service Information.**
+  
+Sharing You Choose  
+You may choose to share certain information.  In order to participate in certain features, you may have to adjust your privacy settings and share more information. You may also choose to share your activity on other platforms, such as Facebook and Twitter. Please read the privacy policies of those platforms, because your HURLEY activity published on those platforms will no longer be governed by HURLEYs Privacy Policy.
 
-Please note, if you have unsubscribed from any Hurley communications, due to production schedules, you may receive communications already in production. Also, if you request your registration information be deleted or if you unsubscribe from communications, we may maintain information about sales transactions or service inquiries for future service and record keeping purposes.
+  
+HURLEY Sharing  
+Information that is publicly shared may be used by HURLEY for promotional purposes.
 
-**Children's Privacy**
+  
+Protecting Information  
+Security Measures  
+We use a variety of security measures, including encryption and authentication tools, to help protect your information. We use secure servers when you place orders. All credit cardinformation you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted within our databases.
 
-We do not knowingly collect personal information from children under 13.
+  
+No Guarantee  
+However, like other companies, HURLEY cannot guarantee 100% the security or confidentiality of the information you provide to us.
 
-**Policy Changes**
+Collection Tools
 
-We may change our privacy policy from time to time. We encourage you to refer to this policy on an ongoing basis so that you understand our current privacy policy. This policy was last modified on February 23, 2007.
+  
+How We Collect Information  
+HURLEY automatically collects information within our products and services or stored by your browser or Device. We use a variety of methods to collect this information, including, but not limited to, cookies and pixel tags/web beacons ("Collection Tools").
 
-**Questions and Feedback**
+  
+Turning off Collection Tools  
+If you turn off certain Collection Tools, you may not have access to many features that make your experience more efficient and some of our services and features may not function properly. However, you can still place product orders over the telephone by contacting our customer service number at 1-800-806-6453.
 
-We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue.
+  
+Third Party Tracking  
+We also work with other companies who use tracking technologies to serve ads on our behalf across the Internet. These companies may collect information about your interaction with us, including advertising. If you would like to opt-out of 3rd party tracking technologies associated with our website, please [click here](http://www.networkadvertising.org/managing/opt_out.asp). Note that if you opt-out from these third party tracking technologies, you may still see our ads at other websites, but the ads will not be tailored using third party tracking technologies associated with our website.    
+ 
+
+  
+Choices  
+  
+Modifying or Deleting Your Information  
+You can modify or delete your profile within certain HURLEY services, through your account. Your information previously posted may still be publicly viewable. HURLEY may keep information and content in our backup files and archives.
+
+  
+Communication/Unsubscribe/Opt-Out  
+Regardless of the settings you select, HURLEY may send you service-related communications.  To unsubscribe and stop receiving messages, please change your settings or follow the instructions in the email, text message, notification or other message type.  If you have unsubscribed from any HURLEY communications, due to production schedules, you may receive communications already in production.
+
+  
+International Users  
+  
+Our digital operations are conducted, in whole or in part, in the United States. Regardless of where you live, you consent to have your personal data transferred, processed and stored in the United States, and allow HURLEY to use and collect your personal information in accordance with this Privacy Policy.
+
+  
+Terms of Use  
+  
+Your use of our products and services, and any disputes arising from them, is subject to this Privacy Policy as well as our [Terms of Use](https://staging.shop.hurley.demandware.net/s/Hurley/terms.html). Please visit our [Terms of Use](https://staging.shop.hurley.demandware.net/s/Hurley/terms.html), which explains other terms governing the use of our products and services.
+
+  
+For questions or concerns, please contact Consumer Services/Privacy at: 1-855-641-8850 or HURLEY.com Consumer Services/Privacy, 1945 Placentia Ave., Costa Mesa, CA 92627.
