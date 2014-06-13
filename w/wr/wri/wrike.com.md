@@ -1,123 +1,140 @@
-> *The following text is extracted and transformed from the wrike.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125183815id_/http%3A//www.wrike.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrike.com privacy policy that was archived on 2014-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140613193350id_/http%3A//www.wrike.com/privacy) for the most accurate reproduction.*
 
 # Wrike Privacy Policy
 
-Last update: September, 2012
+This privacy policy ("Policy") discloses the privacy practices for any websites or services (including any of our applications for use with hardware or software of others, such as iPhone, Chrome, Android, Outlook, and Mac Mail) owned or controlled by Wrike that link to this Policy. This Policy will apply with respect to your use of any such websites and services regardless of (i) your method of access (for example, computer browser, Outlook application, iPhone, etc.), or (ii) whether you are a registered user or a visitor. Each of the websites and/or services covered by this Policy are referred to as a "site", and all such websites and services are collectively referred to as the "sites".
 
-Wrike takes your privacy seriously. Please read the following to learn more about our privacy policy.
+This Policy addresses the information and content we currently collect from you in the course of your visit to our sites and your use of them. Information you disclose to us in the course of your access and use of our sites is referred to generally in this Policy as "personal information"; this personal information includes your user information, billing information and user content (as those terms are defined below) as well as any other information disclosed, provided or obtained by us in the course of our relationship. The Policy may also address some types of content, information, means of collecting such content and information, and uses of it, that may not presently apply to any of the sites. We tell you about these types of possibilities now because we want to maintain flexibility in offering additional features without having to revise our Policy every time we revise a site or offer new functions. No description of any type of content or information, means of collecting the content or information, or use of the content or information will require us to collect or make any particular use of any such content or information, or offer any particular functionality through any site; your use of any of our sites is always as provided for in the Terms of Service specific for that site, and you should review those Terms to understand your rights and obligations with respect to your use of that site.
 
-| 
+If you have any questions about any of the information contained in this Policy, please feel free to contact us; we can be reached via email at [support at team.wrike.com](mailto:support@team.wrike.com)
 
-This privacy policy discloses the privacy practices for any websites or services (including all applications obtained from us) owned or controlled by Wrike regardless of (i) your method of access (for example, computer browser, Outlook application, iPhone, Blackberry etc), or (ii) whether you are a registered user (each such a site, a "site," and collectively, the "sites"). This privacy policy does not cover information we collect by means other than a site. If you have any questions about how we use information collected by means other than a site, you should inquire at or before the time you give such information to us.
+### Child Online Privacy Protection Act (COPPA) Compliance and Related Information
 
-We can be reached via email at [support@team.wrike.com](mailto:support@team.wrike.com).
+The Child Online Privacy and Protection Act (COPPA) regulates online collection of information from persons under the age of 13. It is our policy to refrain from knowingly collecting or maintaining personally identifiable information relating to any person under the age of 18. If you are under the age of 18, please do not supply any personally identifiable information through any of the sites. If you are under the age of 18 and have already provided personally identifiable information through the site, please have your parent or guardian contact us immediately using the contact information above so that we can remove such information from our files.
 
-## Information Ownership, Collection and Use
+### Content Ownership, Collection and Use
 
-You retain ownership of information you personally author and collected through the sites (the "user content"); provided, however, that you grant us (and our successors and assigns) a worldwide, irrevocable, perpetual, fully-paid license to use such user content in any manner reasonably necessary for us to operate and provide services in connection with the sites. We will not sell, share, or rent this information to others in ways different from those disclosed in this policy. We may collect information from users at several different points on a site.
+You always retain whatever ownership rights you may have in any content, data, or other such materials you upload or otherwise actively provide to us through the sites (the "user content"); provided, however, that you grant us (and our employees, agents, successors and assigns) a worldwide, irrevocable, perpetual, fully-paid license to use such user content in any manner reasonably necessary for us to operate and provide services in connection with the sites. We will not sell, share, or rent this user content to others in ways different from those disclosed in this Policy.
 
-This privacy policy addresses some types of information, means of collecting information, and uses of information that may not presently apply to one or more of the sites. We tell you about these types of information, means of collecting information, and uses of information anyway because we want to maintain flexibility in offering additional features without having to revisit our terms and conditions or privacy policy every time we revise a site or offer new functions. No description of any type of information, means of collecting information, or use of information will require us to collect any particular information, make any particular use of any information, or offer any particular functionality through any site.
+In addition to user content you may upload or otherwise provide to us, we may collect additional information relating to, for example, your activities while visiting our site, at several different points on a site, and additional information on our collection and use of such additional information is provided below.
 
-## Child Online Privacy Protection Act (COPPA) Compliance and Related Information
+### Registration, Ordering, and Related Processes
 
-The Child Online Privacy and Protection Act (COPPA) regulates online collection of information from persons under the age of 13. It is our policy to refrain from knowingly collecting or maintaining personally identifiable information relating to any person under the age of 18. If you are under the age of 18, please do not supply any personally identifiable information through the site. If you are under the age of 18 and have already provided personally identifiable information through the site, please have your parent or guardian contact us immediately using the contact information herein so that we can remove such information from our files.
+If you (i) order products or services using a site, (ii) use services from a site (regardless as to whether you are a registered user), (iii) sign up for a newsletter, (iv) participate in a survey or contest, or register for an event, or (v) otherwise contact us, we may request information from you using an order or registration form, survey form, or otherwise. Such information may include things such as your name, username, password, email address, business information, and general information about your interest in and use of the sites, as well as relevant demographic information. In addition we may automatically collect information about your computer or internet access, such as IP address, web browser, internet service provider (ISP), referring/exit pages, platform type, and your usage of our sites and applications. All of the foregoing types of information will be collectively referred to as "user information", and we may use such user information in connection with the operation of our services and/or your use of them or the sites, and otherwise in connection with our business operations. We may use the user information to better understand and market to our customers and site users, individually and in the aggregate; for example, we may use this user information for product and service development, and for sales and marketing purposes. We may share this user information with third parties who are working with us to identify, develop and/or offer products and services which may be of interest to you, but will not otherwise sell or rent such user information to unrelated third parties or otherwise give such user information to third parties for their use unconnected with a use by or for Wrike.
 
-## Ordering, Event Registration, and Related Processes
+When using an order form to order a product or service from us, you must also provide additional financial information needed to complete your order, such as credit card number and expiration date (collectively, "billing information"). This billing information is used for billing purposes, to fill your order, or if we have trouble processing an order. When we already have user information and/or billing information about you (such as through a previous order, previous use, previous registration, or previous contact, whether received through a site or otherwise), we may use such information to facilitate the order, registration or other process.
 
-When and if you (i) order products or services using a site, (ii) use services from a site (regardless as to whether you are a registered user), (iii) register for an event, or (iv) otherwise contact us, we may request information from you using an order form or otherwise. When we already have information about you (such as through a previous order, previous use, previous registration, or previous contact, whether received through a site or otherwise), we may use such information to facilitate the order, registration or other process. When using an order form, you must provide contact information (such as name and billing address) and financial information (such as credit card number and expiration date). This information is used for billing purposes and to fill your order. If we have trouble processing an order, we use this contact information to contact you. If you use our services (regardless as to whether you are a registered user) you may also be required to provide us with other information regarding your identity so that we can ensure proper use of our service in accordance with our Terms of Service.
+### Cookies
 
-## Cookies
+We may use cookies in connection with our websites and services and some of the cookies may be linked to your personally identifiable information. Any time you register on a site, use a site, place an order through a site, or identify yourself or the computer you are using through a site, you will be deemed to have given use permission to link your personally identifiable information with cookies.
 
-The cookies we use, if any, are not linked to any personally identifiable information while using a site unless you have given us permission to link personally identifiable information to one or more cookies. You give us that permission any time you register on a site, use a site, place an order through a site, or identify yourself or the computer you are using through a site.
+Most or all browsers permit you to disable or reject cookies. You can do this by setting the preferences in the browser. Use the "help" feature of your browser to obtain more information about refusing cookies. However, if you set the browser you use to reject cookies or otherwise disable them, you may not be able to use any or all of the functionality at one or more of the sites or it may take additional time to utilize such functionality. If you wish to use any such functionality that requires the use of cookies at any of our sites, then you must accept the use of cookies for that site, and thereby, give us your permission to link your data as discussed above.
 
-Most or all browsers permit you to disable or reject cookies. You can do this by setting the preferences in the browser. Use the "help" feature of your browser to obtain more information about refusing cookies.
+One or more of the organizations working with us to develop or provide our services or products, or with which we otherwise do business, or to which we provide links from a site, may also use cookies of their own. We have no control over such organizations' uses of cookies and users should review the privacy policies of such organizations to determine the uses such organizations make of cookies.
 
-If you set the browser you use to reject cookies, you may not be able to use any or all of of one or more of the sites or it may take additional time to utilize such functionality.
+### Sharing of Information
 
-One or more of the organizations with which we do business, or to which we provide links from a site, may also use cookies. We have no control over such organizations' uses of cookies and users should review the privacy policies of such organizations to determine the uses such organizations make of cookies.
-
-## Log Files
-
-We or our hosting provider may collect traffic information from visitors for statistical analysis and site improvement, including, without limitation from Google Analytics. When you accesses a site, we or our hosting provider may collect information about your visit in a log file on a server. Log file information may include, but is not limited to, internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks. We or our hosting provider use this information to analyze trends, administer sites, track users movements in the aggregate, and gather demographic information for aggregate use. IP addresses and other log file information are not linked to personally identifiable information. We do not try to track users or to identify users individually except as otherwise stated in this policy, but we or our hosting provider do review this information to understand overall trends and to determine what kinds of content are popular and useful to users. We may track how you use our site in order to better serve you, for example, by adding or removing tools, tips, survey questions, notifications and other similar items.
-
-## Sharing
-
-  * **Aggregated information.** We or our hosting provider may share aggregated demographic information with our users, our affiliated organizations, and other organizations with which we do, or contemplate doing, business. Such information is aggregated and is not linked to any information that can identify individual users.
-  * **Outsourcing providers.** We may use outside shipping or other outsourcing providers to process and ship orders or perform other functions. We use commercially reasonable diligence to restrict the purposes for which these outsourcing providers may use your personally identifiable information. The requirements or requests that we impose on such outsourcing providers vary with the sensitivity of the information and can, but do not necessarily, include requirements that these outsourcing providers not retain, share, store, or use personally identifiable information for any secondary purposes, except for backup and recovery operations. Although we use good faith efforts to impose, and/or ensure compliance by our outsourcing providers, we cannot, and will not, be responsible to users for misuse of personally identifiable information by such outsourcing providers. This section is meant as a general description of our practices. It does not impose any duty upon us and it does not constitute a representation or warranty by us upon which you may rely.
-  * **Specific services.** Although we host our own sites, we may have agreements with other parties to provide you with specific additional services, including, without limitation, third-party hosted collaboration tools and other hosted services. When you use such services, we may share personally identifiable information with such parties. In such cases, we will use good faith efforts to restrict the information provided to the information necessary for the provision of such services.
-  * **General use.** We may share personally identifiable information (whether in return for compensation or otherwise) with various vendors, suppliers, and advertisers. While we use good faith efforts to verify that such vendors, suppliers, and advertisers promote products and services of interest to site users, we cannot, and do not, endorse such vendors, suppliers, advertisers, products or services unless we expressly state otherwise. We share only such information as you yourself provide to us or someone else provides about you (such as through a registration process) and do not share personally identifiable information derived indirectly through IP address tracing or similar means. If you wish us to refrain from providing your personally identifiable information in this manner, please see the opt-out information and contact information provided below.
+  * **Aggregated information.** We and our agents may share aggregated demographic information with our users, our affiliated organizations, and other organizations with which we do, or contemplate doing, business. Such information is aggregated and is not linked to any information that can identify individual users.
+  * **Shipping/Service providers.** We may use outside shipping or other service providers to process and ship orders or perform other functions. We use commercially reasonable diligence to restrict the purposes for which these service providers may use your personally identifiable information. The requirements or requests that we impose on such service providers vary with the sensitivity of the information and can, but do not necessarily, include requirements that these outsourcing providers not retain, share, store, or use personally identifiable information for any secondary purposes, except for backup and recovery operations. Although we use good faith efforts to impose, and/or ensure compliance by our outsourcing providers, we cannot, and will not, be responsible to users for misuse of personally identifiable information by such service providers. This section is meant as a general description of our practices. It does not impose any duty upon us and it does not constitute a representation or warranty by us upon which you may rely.
+  * **Specific services.** Although we generally host our own sites, we may have agreements with other parties to provide you with specific additional services, including, without limitation, third-party hosted collaboration tools and other hosted services. When you use such services, we may share personally identifiable information with such parties. In such cases, we will use good faith efforts to restrict the information provided to the information necessary for the provision of such services.
+  * **General use.** We may share personally identifiable information with various vendors, suppliers, and partners. While we use good faith efforts to verify that such vendors, suppliers, and partners provide products and services of interest to site users, we cannot, and do not, endorse such vendors, suppliers, advertisers, products or services unless we expressly state otherwise. If you wish us to refrain from providing your personally identifiable information in this manner, please see the opt-out information and contact information provided below.
+  * **Assignment for Sale or Merger.** In addition, as we develop our business, we might sell or otherwise transfer all or parts of our businesses or assets. We may also disclose your personal information (including user information, billing information and user content) to a third party as part of a sale of assets of Wrike, merger, reorganization, dissolution or similar event, or as the result of a change in control of the company or one of its affiliates, or in preparation for any of these events. Any third party to which we transfer or sell our assets will have the right to continue to use the personal and other information that you provide to us in the manner set out in this Policy and then in accordance with the terms of their privacy policy, subject to the terms of the section below entitled "Changes to the Privacy Policy."
 
 
 
-## Links and Information Gathered by Others
+### Supplementation of Information
 
-One or more sites may contain links to, or processing by, other websites. We do not operate those websites and we cannot control the information that the operators of such websites gather or what the operators of such websites do with the information. We are therefore not responsible for the activities of the operators of such websites.
+We sometimes supplement the user information we receive from you with other information we receive from public and/or third party sources, such as credit card issuers or clearinghouses. We will consider any such supplemental information about you as user data and may use it in accordance with the terms of this Policy.
 
-## Newsletter
+### Links and Information Gathered by Others
 
-If you wish to subscribe to a newsletter we may offer or to a mailing list that we may maintain, we will collect from you contact information necessary to send the newsletter or other information to you. This is usually limited to your email address, but may include other information.
+One or more sites may contain links to, or involve processing of data or information by, other websites. We do not operate those websites and we cannot control the information that the operators of such websites gather or what the operators of such websites do with the information. We are therefore not responsible for the activities of the operators of such websites. If you choose to visit such websites and give them any information or they collect it during your visit, it will be governed by their privacy policy(ies).
 
-## Surveys and Contests
-
-From time to time, we may request information from you using surveys or contests. Participation in these surveys or contests is completely voluntary and you therefore have a choice as to whether to disclose this information. Information requested may include contact information (such as name and address) and demographic information (such as zip code and type of user). We will use such contact information to notify winners and award prizes, and to monitor or improve the use of one or more sites and provide aggregated information for our own uses or to our customers or other organizations, and we may also use it to notify you of news about us or our affiliates or promotions of our products or services or the products or services of people with whom we do business.
-
-## Additional Users
+### Additional Users
 
 When you add additional users to your account we send them an invitation to join our site and request such users to provide us with certain additional contact information including such users' email addresses. When you use such a service, you represent and warrant to us that you have an existing business or personal relationship with such additional user sufficient to avoid liability under any law that applies to unsolicited email. You will be deemed to be the sender of any such email (or other electronic communication) and we will be deemed to merely be a service provider facilitating your sending of the email (or other electronic communication).
 
-## Security
+### Security
 
-Where we collect nonpublic personal information from you, we or one or more of our service providers use industry-standard encryption and security standards to protect such information. You can tell whether encryption is being used by noting the "locked" or other status indicator on the browser you are using. If the browser you are using does not indicate that the session is secure (e.g. by displaying a lock, a key or another icon), you should assume that the connection is not secure and that it is possible for third parties to surreptitiously and/or illegally intercept the information shared by you and us during that part of the session. If you use third-party editing software integrated into our service (for example, editors provided by Google or Zoho) your information will be handled by such third-party and we cannot assure that such information will be handled in a secure manner. We also use commercially reasonable efforts to protect user information offline. All sensitive user information is maintained in our offices or at the facilities of our information technology provider(s). We cause access to servers and connections to be limited by key or other access. Only employees or agents who need the information to perform specific functions are granted access to personally identifiable information. We use reasonable efforts to assure that our employees and agents are informed of our security and privacy practices.
+Where we or our agents collect nonpublic personal information from you, we or they will generally take reasonable steps to protect such information in transmission, but there may be circumstances when such information will not be protected that way. Unless we have or our agent has specifically identified the connection as secure or otherwise let you know your information is secure in a particular situation, you should assume that the connection is not secure and that it is possible for third parties to surreptitiously and/or illegally intercept the information shared by you and us during that part of the session. If you use third-party software integrated into our service (for example, Google Drive, Box and Dropbox) your information will be handled by such third-party and we cannot assure you that such information will be handled in a secure manner.
 
-## Supplementation of Information
+### Email Communications
 
-We sometimes supplement the information we receive from you with other information we receive from third party sources, such as credit card issuers or clearinghouses.
+We may send to you one or more welcome emails that may also verify password and user name information, and we may send to you updates, service announcements, administrative messages, or other important information about one or more of the sites and/or our services. We may also send you newsletters, notifications or other information about products, services, and special deals we think may be of interest to users like you. Some of these communications – such as those with service announcements or such -- are tied to the service and contain important information about the service or your use of it. For those types of communications, you can only unsubscribe from them by cancelling your subscription. When emails are not tied to use of the service, we will usually provide an unsubscribe link within them.
 
-## Special Offers
-
-We may send to you one or more welcome emails that may also verify password and user name information. We may also send you newsletters, notifications or other information about products, services, and special deals to users like you. If you are using our service on a trial basis, you may opt to not receive such informational communications by simply canceling your trial.
-
-## Site and Service Updates and Related Information
-
-We may also send to you updates, service announcements, administrative messages, or other important information about one or more of the sites and/or our services. You may not un-subscribe or opt not to receive such announcements because such announcements contain important information about the services offered through the relevant site(s).
-
-## Misappropriation of Personal Information
+### Misappropriation of Personal Information
 
 For the purposes of any applicable law regarding notification of persons whose personal information was, or is reasonably believed to have been, acquired by an unauthorized person, our information security policy provides that any required notification may, where permitted by law, be made by the use of email, telephone, fax, mail (including a notice printed in an available area of a bill or statement) or posting a notice on a site. The specific means used is up to us and we will use our judgment based on the circumstances. Where any notice is to be sent to a specific address or number (such as email address, physical address, telephone number, etc.), we will use the latest available address in our records. EXCEPT TO THE EXTENT PROHIBITED BY LAW, YOU AGREE TO THIS MEANS OF NOTIFICATION.
 
-## Correcting or Updating Personal Information
+### Correcting or Updating Personal Information
 
-If your personal information changes, if you have reason to believe that your personal information as we maintain it is incorrect, or if you no longer desire service, you may contact us using the contact information below and we will accommodate all reasonable requests for such changes.
+If your personal information changes, or if you have reason to believe that your personal information as we maintain it is incorrect, you may contact us using the contact information below and we will accommodate all reasonable requests for such changes.
 
-## Choice/Opt-out
+### Choice/Opt-out
 
-Users who no longer wish to receive newsletters or promotional materials or have their information provided to third parties may opt to not receive such communications or have information shared by contacting us using the information below. We will comply with such requests as soon as is commercially practicable. Such compliance may involve batch processing and other processes that take 30 days or longer. If you opt not to receive such communications or allow us to share your information and then give your personal information to us again using a site or under other circumstances that permit us to use your information, we will regard your opt-out as rescinded. In most cases, it is impractical for use to stop any other third party to whom we have supplied your information (pursuant to the terms of this Privacy Policy) from continuing to use such information. In other words, opting out will usually not stop other third parties to whom we have provided your information from continuing to use it.
+Users who no longer wish to receive promotional materials or have their information provided to third parties may opt to not receive such communications or have information shared by contacting us using the information below or as otherwise indicated on the applicable site(s) and/or promotions. If you opt not to receive such communications or allow us to share your information and then give your personal information to us again using a site or under other circumstances that permit us to use your information, we will regard your opt-out as rescinded. In most cases, it is impractical for use to stop any other third party to whom we have supplied your information pursuant to the terms of this Policy from continuing to use such information. In other words, opting out will usually not stop other third parties to whom we have provided your information from continuing to use it.
 
-To change your preference with regard to the way your information is treated, contact: Privacy Officer
+Please be advised that for certain communications (such as related to your account information or system status) and/or the sharing of certain of your information, it may not be possible to permit you to opt out and your only option would be to terminate your service.
 
-## Response Times
+If you (a) wish to begin or end receipt of newsletters or promotional information, (b) wish to update your user information, or (c) wish to opt in or out of any other service offered through the site, and do not wish to, or are unable to do so as provided for on the applicable site, please contact our technical personnel using the following information. Please be sure to include your name and your user name (if applicable), but do not include any information regarding your password(s), if any.
 
-We will use commercially reasonable efforts to timely make any changes you request. Many such changes are accomplished using batch processing (i.e. collecting a number of similar change requests and making all such changes at once), so the changes may not be immediately effective. If you require an immediate change to your personally identifiable information and are unable to make such a change using the available site resources, please contact us.
+Tech Support  
+Wrike, Inc.  
+200 W. Evelyn Avenue  
+Suite 110  
+Mountain View, CA 94041
 
-## Changes to This Privacy Policy
+[support at team.wrike.com](mailto:support@team.wrike.com)
 
-If we decide to change this privacy policy, we will post the changes on one or more sites and/or other places we deem appropriate.
+To change your preference with regard to the way your information is treated, contact:
 
-Except as stated below, we will use information in accordance with the privacy policy
+Privacy Officer  
+Wrike, Inc.  
+200 W. Evelyn Avenue  
+Suite 110  
+Mountain View, CA 94041  
+Telephone: 1-877-77-WRIKE
 
-If we decide to use information about you in a manner different from that stated in the privacy policy, we will notify you by email if, and to the extent that, you have provided your email address. If you reply to such an email within a reasonable time and request that we not use your personally identifiable information in the proposed new manner, we will honor your request, but we reserve the right to suspend your access to all or part of the services offered through one or more sites if you do so. If you do not reply to such an email, or we receive a reply of "undeliverable" or similar message from your last known email address, in either case after a reasonable time, we will use the information in the proposed new manner.
+[support at team.wrike.com](mailto:support@team.wrike.com)
 
-BY USING A SITE, YOU AGREE TO THIS CHANGE PROCEDURE.
+### Response Times
 
-## Exceptions
+We will use commercially reasonable efforts to timely make any changes you request. Many such changes are accomplished using batch processing (i.e. collecting a number of similar change requests and making all such changes at once), so the changes may not be immediately effective but may take 30 days or longer. If you require an immediate change to your personally identifiable information and are unable to make such a change using the available site resources, please contact us.
 
-Notwithstanding anything else in this privacy policy to the contrary, we may collect personally identifiable information and use such information in ways other than those described above if we are required to do so by any applicable law or if we deem it advisable in the course of (i) assisting law enforcement activities, or (ii) protecting our site(s) or other property, including, without limitation, investigating, preventing or taking action with respect to illegal activities, suspected fraud, situations involving the potential safety of any person, violations of Wrike's terms of use, or as otherwise required by law. Without limiting the foregoing, we reserve the right to use and disclose any information that you provide to us if we deem it advisable in the prosecution or defense of any litigation involving your use of any site.
+### Changes to This Privacy Policy
 
-## Contact Information
+We may choose to make changes to this Policy at any time. If we decide to change this Policy, we will post the changes on one or more sites and/or other places we deem appropriate. We may, but are not obligated, to send you an email or other notification of such change; but you should review this Policy from time to time for significant changes. If you agree to the changes, you don't need to do anything. But if you do not agree to the changes, you must discontinue use of our sites and services. If you continue to use our sites and services after the effective date of any change, you are deemed to have accepted the change.
 
-If you feel that we are not abiding by this privacy policy or if you have questions regarding the policy, you may contact our privacy liaison using the following information.
+### Exceptions
 
-If you (a) wish to begin or end receipt of newsletters or promotional information (b) wish to update your user information, or (c) wish to opt in or out of any other service offered through the site, please contact our technical personnel using the following information. Please be sure to include your name and your user name (if applicable), but do not include any information regarding your password(s), if any.
+Except as stated below, we will use information in accordance with this Policy as it may be changed from time to time as set forth above. Notwithstanding anything else in this Policy to the contrary, we may collect personally identifiable information and use such information in ways other than those described above if we are required to do so by any applicable law or if we deem it advisable in the course of (i) assisting law enforcement activities, or (ii) investigating and resolving disputes between users; and (iii) protecting our site(s) or other property, including, without limitation, investigating, preventing or taking action with respect to illegal activities, suspected fraud, situations involving the potential safety of any person, violations of Wrike's terms of use, or as otherwise required by law. Without limiting the foregoing, we reserve the right to use and disclose any information that you provide to us if we deem it advisable in the prosecution or defense of any litigation involving your use of any site.
 
-  
+### Safe Harbor Provisions
 
+Wrike complies with, and conducts periodic audits of its practices to ensure compliance with the US EU Safe Harbor Privacy Principles and US Switzerland Safe Harbor Privacy Principles regarding notice, choice, onward transfer, access, security , data integrity and enforcement, as set forth by the US Department of Commerce for the collection, use, and retention of personal information from European Union member countries. Wrike has self-certified compliance with Safe Harbor privacy principles consistent with the information and criteria provided at <http://www.export.gov/safeharbor>.
+
+European Union and Swiss citizens should direct any questions or concerns regarding the use or disclosure of personal information to Wrike at: 
+
+Privacy Officer  
+Wrike, Inc.  
+200 W. Evelyn Avenue  
+Suite 110  
+Mountain View, CA 94041  
+Telephone: 1-877-77-WRIKE
+
+[support at team.wrike.com](mailto:support@team.wrike.com)
+
+Wrike will attempt to answer your questions and satisfy your concerns in a timely and complete manner as soon as possible. If, after discussing the matter with Wrike, your issue or complaint is not resolved, Wrike has agreed to participate in an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If your issue or complaint is not satisfactorily resolved by Wrike, you may visit the BBB EU SAFE HARBOR web site at [http://www.bbb.org/us/safe- harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for further information. PLEASE CONTACT WRIKE FIRST.
+
+### General Contact Information
+
+If you feel that we are not abiding by this Policy or if you have questions regarding this Policy, you may contact our privacy liaison using the following information.
+
+Privacy Officer  
+Wrike, Inc.  
+200 W. Evelyn Avenue  
+Suite 110  
+Mountain View, CA 94041  
+Telephone: 1-877-77-WRIKE
+
+[support at team.wrike.com](mailto:support@team.wrike.com)
