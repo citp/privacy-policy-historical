@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the educationdegreesource.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106200116id_/http%3A//www.tree.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the educationdegreesource.com privacy policy that was archived on 2014-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140613035527id_/http%3A//www.tree.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Tree.com - Privacy Policy
 
