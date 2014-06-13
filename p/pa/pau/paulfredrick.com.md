@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paulfredrick.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231143245id_/http%3A//www.paulfredrick.com/custservice/pfprivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paulfredrick.com privacy policy that was archived on 2014-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140613123545id_/http%3A//www.paulfredrick.com/custservice/pfprivacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy, Secure Technology - Paul Fredrick
 
