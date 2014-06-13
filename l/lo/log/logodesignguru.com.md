@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the logodesignguru.com privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129173840id_/http%3A//www.logodesignguru.com/Logo-design-privacy-policy/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logodesignguru.com privacy policy that was archived on 2014-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140613080655id_/http%3A//www.logodesignguru.com/Logo-design-privacy-policy/privacy_policy.asp) for the most accurate reproduction.*
 
 # Logo Design Guru: Expert Logo Design and Graphic Designs
 
-**Guru Corporation (c/o Logo Design Guru, Inc) Respects Your Privacy**  
-Logo Design Guru, Inc (herein known as LDG) and its subsidiaries, (to include LogoDesignGuru.com, MycroBurst.com, LogoSnap.com and LogoGuru.co.uk, WebbyGuru.com) ,respect your privacy. This Privacy Statement informs you of our privacy practices and of the choices you can make about the way your information is collected online and how that information is used. 
+**Guru Corporation Respects Your Privacy**  
+Logo Design Guru, Inc (herein known as LDG) and its website LogoDesignGuru.com, respect your privacy. This Privacy Statement informs you of our privacy practices and of the choices you can make about the way your information is collected online and how that information is used. 
 
 If you have questions or concerns regarding this statement, you should first contact LDG using the contact information included at the end of this statement. 
 
@@ -42,25 +42,15 @@ How LDG uses automatic data collection tools:
 
 **1\. Sites covered by this Privacy Statement**
 
-LDG is a global organization, with legal entities, and multiple websites that cross borders. This Privacy Statement applies to all LDG owned websites and domains and the websites and domains of our wholly owned subsidiaries ("LDG website").. 
-
-  * [LogoDesignGuru.com](http://www.logodesignguru.com/)
-  * [Mycroburst.com](http://www.mycroburst.com/)
-  * [LogoGuru.co.uk](http://www.logoguru.co.uk/)
-  * [LogoSnap.com](http://www.logosnap.com/)
-  * [WebbyGuru.com](http://www.webbyguru.com/)
-
-
+LDG is a global organization, with legal entities, and multiple websites that cross borders. This Privacy Statement applies to all LDG owned websites and domains and the websites and domains of our wholly owned subsidiaries ("LDG website"). 
 
 The LDG website may provide links to third-party websites for your convenience and information. If you access those links, you will leave the LDG website. LDG does not control those sites or their privacy practices, which may differ from LDG's practices. We do not endorse or make any representations about third-party websites. The personal data you choose to provide to or that is collected by these third parties is not covered by the LDG Privacy Statement. We encourage you to review the privacy policy of any company before submitting your personal information. 
 
 **2\. Collection of personal information**
 
-To serve you better and understand your needs and interests, LDG collects, exports, and uses personal information with adequate notice and consent, along with required filings with data protection authorities, when applicable. For example, when you order products or services, request information, subscribe to marketing or support materials, register yourself or your LDG products, enter contests or participate in surveys, or apply for a job at LDG, we will ask you to provide personal information to complete these transactions. The types of personal information you provide to us on these pages may include contact information such as your name, address, telephone number, and email address; financial information such as your credit card number; and other unique information such as user IDs and passwords, billing and transaction information, product and service preferences, contact preferences, educational and employment background, and job interest data. If you are applying to become a vendor (designer), and are located in the United States, we may require Social Security number and banking information to fulfill payment for your services. 
+To serve you better and understand your needs and interests, LDG collects, exports, and uses personal information with adequate notice and consent, along with required filings with data protection authorities, when applicable. For example, when you order products or services, request information, subscribe to marketing or support materials, register yourself or your LDG products, enter contests or participate in surveys, or apply for a job at LDG, we will ask you to provide personal information to complete these transactions. The types of personal information you provide to us on these pages may include contact information such as your name, address, telephone number, and email address; financial information such as your credit card number; and other unique information such as user IDs and passwords, billing and transaction information, product and service preferences, contact preferences, educational and employment background, and job interest data. If you are applying to become a vendor (designer), and are located in the United States, we may require Social Security number and banking information to fulfill payment for your services. If you choose to use a tell-a-friend program on our site, we will ask you for your friend’s e-mail address and automatically send your friend a one-time e-mail inviting your friend to visit the site. LDG uses and stores this information only for the purpose of sending this one-time e-mail and to provide tell-a-friend message blocking, where available. 
 
-If you choose to use a tell-a-friend program on our site, we will ask you for your friend’s e-mail address and automatically send your friend a one-time e-mail inviting your friend to visit the site. LDG uses and stores this information only for the purpose of sending this one-time e-mail and to provide tell-a-friend message blocking, where available. 
-
-In addition to the information you provide, LDG may also collect information during your visit to an LDG website through our Automatic Data Collection Tools, which include Web beacons, cookies, embedded Web links, and other commonly used information-gathering tools. These tools collect certain standard information that your browser sends to our website such as your browser type and language, access times, and the address of the website from which you arrived at an LDG website. They may also collect information about your Internet Protocol (IP) address, click stream behavior (i.e. the pages you view, the links you click, and other actions you take in connection with LDG websites) and product information. An IP address is a number that is automatically assigned to your computer whenever you are surfing the Web, allowing Web servers to locate and identify your computer. Computers use IP addresses to communicate on the Internet, allowing users to browse and shop. 
+In addition to the information you provide, LDG may also collect information during your visit to an LDG website through our Automatic Data Collection Tools, which include Web beacons, cookies, embedded Web links, and other commonly used information-gathering tools. These tools collect certain standard information that your browser sends to our website such as your browser type and language, access times, and the address of the website from which you arrived at an LDG website. They may also collect information about your Internet Protocol (IP) address, click stream behavior (i.e. the pages you view, the links you click, and other actions you take in connection with LDG websites) and product information. An IP address is a number that is automatically assigned to your computer whenever you are surfing the Web, allowing Web servers to locate and identify your computer. Computers use IP addresses to communicate on the Internet, allowing users to browse and shop.
 
 **3\. How we use your information**  
 
@@ -97,9 +87,7 @@ Credit card information is used only for payment processing and fraud prevention
 
 LDG will not sell, rent or lease your personal information to others except as described in this Statement. LDG shares personal information in the following ways: 
 
-LDG retains service providers and suppliers to deliver complete products, services and customer solutions and to assist LDG with marketing and communication initiatives. These providers and suppliers include, for example, credit card processors, providers of customer support and live-help, email service providers, automated data processors, and shipping agents. Suppliers and service providers are required by contract to keep confidential the information received on behalf of LDG and may not use it for any purpose other than to carry out the services they are performing for LDG. 
-
-From time to time, LDG participates in marketing initiatives with other companies. As part of these initiatives, certain LDG services and marketing communications are delivered at the same time as those from other companies. Some of these services and communications offer you the option to share personal information with both LDG and the other companies participating in these initiatives. For example, you may receive marketing communications from LDG and other companies or have the opportunity to register online for software products from multiple companies. If you choose to provide personal information only to LDG, LDG will not share this information with the other companies participating in that marketing initiative. If you choose to provide personal information to the other companies, that personal information will be handled according to the privacy policy of those companies. 
+LDG retains service providers and suppliers to deliver complete products, services and customer solutions and to assist LDG with marketing and communication initiatives. These providers and suppliers include, for example, credit card processors, providers of customer support and live-help, email service providers, automated data processors, and shipping agents. Suppliers and service providers are required by contract to keep confidential the information received on behalf of LDG and may not use it for any purpose other than to carry out the services they are performing for LDG. From time to time, LDG participates in marketing initiatives with other companies. As part of these initiatives, certain LDG services and marketing communications are delivered at the same time as those from other companies. Some of these services and communications offer you the option to share personal information with both LDG and the other companies participating in these initiatives. For example, you may receive marketing communications from LDG and other companies or have the opportunity to register online for software products from multiple companies. If you choose to provide personal information only to LDG, LDG will not share this information with the other companies participating in that marketing initiative. If you choose to provide personal information to the other companies, that personal information will be handled according to the privacy policy of those companies. 
 
 LDG will require the export of your personal information to other LDG-owned business entities in the US and Worldwide in accordance with this Statement to satisfy your request. Such export is a requirement of providing the information to LDG. 
 
@@ -113,11 +101,10 @@ LDG does not knowingly collect information from children under the age of 13 and
 
 **6\. Your choices and selecting your privacy preferences**
 
-LDG gives you the choice of receiving a variety of information that complements our products and services. You can subscribe to receive certain product- and service-specific information and also choose to receive LDG general communications. We give you a choice regarding delivery of LDG general communications by postal mail, email and telephone. 
+LDG gives you the choice of receiving a variety of information that complements our products and services. You can subscribe to receive certain product- and service-specific information and also choose to receive LDG general communications. We give you a choice regarding delivery of LDG general communications by postal mail, email and telephone.  
+You can make or change your choices about receiving either subscription or general communications at the data collection point or by using other methods, which are listed in the following sections. This option does not apply to communications primarily for the purpose of administering order completion, contracts, support, product safety warnings, driver updates, or other administrative and transactional notices as the primary purpose of these communications is not promotional in nature. 
 
-You can make or change your choices about receiving either subscription or general communications at the data collection point or by using other methods, which are listed in the following sections. This option does not apply to communications primarily for the purpose of administering order completion, contracts, support, product safety warnings, driver updates, or other administrative and transactional notices as the primary purpose of these communications is not promotional in nature.
-
-The email communications that you receive from LDG will be provided in accordance with this statement. Some email communications may utilize automatic data collection tools. 
+The email communications that you receive from LDG will be provided in accordance with this statement. Some email communications may utilize automatic data collection tools.
 
 **Subscription communications**  
 Subscription communications include email newsletters, software updates, etc. that may be expressly requested by you or which you consented to receive. After you request such communications, you may opt out of receiving them by using one of the following methods:   
@@ -161,8 +148,8 @@ If we change our privacy statement, we will post the revised statement here, wit
 
 We value your opinions. If you have comments or questions about our privacy statement, please send them to the LDG Privacy Office or write to us at the following address:   
 LDG Privacy Mailbox  
-340 E. Maple Avenue  
-Suite 307  
-Langhorne, PA 19047  
+8 Commerce Way  
+Suite 130A  
+Hamilton, NJ 08691  
 USA  
 
