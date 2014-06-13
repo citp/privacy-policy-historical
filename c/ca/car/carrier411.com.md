@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carrier411.com privacy policy that was archived on 2013-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130824113858id_/http%3A//www.carrier411.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carrier411.com privacy policy that was archived on 2014-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140613210456id_/http%3A//www.carrier411.com/privacy.cfm) for the most accurate reproduction.*
 
 # Carrier411 - Privacy Policy
 
