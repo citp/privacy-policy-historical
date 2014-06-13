@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anjolee.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219192114id_/http%3A//www.anjolee.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anjolee.com privacy policy that was archived on 2014-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140613065525id_/http%3A//www.anjolee.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Anjolee.com Privacy Policy – Committed to Protect Your Privacy Online
 
@@ -50,16 +50,15 @@ at 877-ANJOLEE (265-6533) or by e-mail at [service@anjolee.com](mailto:service@a
  **Your Consent to Anjolee Privacy Policy**
 
 By using this Web Site, you agree to Anjolee's privacy policy. This is our entire and exclusive privacy policy and  
-it supersedes any earlier version. We may occasionally update this privacy policy. When a revision is made we  
-will revise the "last updated" date on this page. We encourage you to periodically review this privacy policy to stay  
-informed about how we are protecting your information. Your continued use of this Web Site constitutes your  
-consent to this privacy policy and any updates.
+it supersedes any earlier version. We may occasionally update this privacy policy. We encourage you to periodically   
+review this privacy policy to stay informed about how we are protecting your information. Your continued   
+use of this Web Site constitutes your consent to this privacy policy and any updates.
 
 We use third-party advertising companies to serve ads when you visit our web site. These companies may use  
 information (not including your name, address, email address or telephone number) about your visits to this  
 and other web sites in order to provide advertisements about goods and services of interest to you. If you would  
 like more information about this practice and to know your choices about not having this information used  
-by these companies, [click here](http://www.fetchback.com/optout.html).
+by these companies, [click here](http://www.adroll.com/about/privacy).
 
 If you have questions or concerns about our policy, you may contact Anjolee customer service  
 at [service@anjolee.com](mailto:service@anjolee.com) or 877-ANJOLEE (265-6533).  
