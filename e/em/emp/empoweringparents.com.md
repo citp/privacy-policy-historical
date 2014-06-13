@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the empoweringparents.com privacy policy that was archived on 2013-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131021122139id_/http%3A//www.empoweringparents.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the empoweringparents.com privacy policy that was archived on 2014-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140613125246id_/http%3A//www.empoweringparents.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy – Empowering Parents
 
@@ -40,9 +40,19 @@ Notwithstanding our data security procedures, no data transmission over the Inte
 
 When you use our Web Site, you may interact with or link to third parties that operate their own web sites and have their own privacy policies.  Also, companies with whom we share your information have their own privacy policies.  Other companies that may place advertisements on our sites may collect information about you through the use of cookies when you view or click on their advertising.  We are not responsible for the policies and practices of these third parties.
 
-#### COOKIES
+#### USE OF COOKIES AND TAGGING
 
-We use “cookies” on the Web Site.  Cookies are small pieces of information stored by your browser on your computer’s hard drive used in web site administration to record visitors’ preferences and session information.  Cookies do not contain any personal information.  They are not used to run programs or deliver viruses to your computer.  Most web browsers automatically accept cookies, but you can usually change your browser settings to choose the cookies you want to accept, or disable them altogether.  Please be assured that accepting a cookie does not give us access to your computer or personal information under any circumstances.  If you disable cookies, you may be unable to use some features of our sites.  We use information collected by cookies to help us determine the effectiveness of our Web Site and identify ways to improve our Web Site.
+Like many commercial websites, we analyze how readers use this site through what is known as "cookie" technology. A "cookie" is a small text file which asks permission to be placed on your computer's hard drive. A cookie is not an app or program and has no ability to read the data residing on your computer. We cannot instruct it to execute functions or take any actions. Cookies do not provide us with any personal data or information about you, other than the data you choose to share with us. 
+
+Similarly, we use what is known as "client-side page tagging" to write certain information about the page and the visitor to a log when a page is rendered by your web browser. This technique is also commonly used on commercial websites. "Tagging" does result in a small amount of JavaScript running on your computer, but it is limited to providing information about the page that you are requesting and the configuration of your browser. It will not read any of your data files, or execute any additional programs. It does not extract any personal information about you, such as your name or address. You can prevent tagging by disabling JavaScript in your browser, but that may prevent you from using all of our website's functions. 
+
+#### HOW WE USE THIS INFORMATION
+
+We use tools from Google, Adobe and others to help collect aggregate data, such as browser type, connection speed, referring/exit pages, device type, date/time stamp, and the number of clicks to help us analyze trends, administer the site and make improvements. This information is not linked to any personally identifiable information you may share with us. 
+
+Google and Adobe may also provide anonymous information about your visits to this and other websites (such as age and gender) to help us improve the content on our web site, refine our products and provide information about our other products and services that might be of interest to you. 
+
+You can obtain more information about this practice and to identify your choices about not having this information used by Google and Adobe from their respective web sites. You can opt-out of cookie-based tracking at any time by simply clearing your browser's cookie cache or activating your web browser’s “do not track” function. 
 
 #### HOW YOU CAN ACCESS OR CORRECT INFORMATION
 
