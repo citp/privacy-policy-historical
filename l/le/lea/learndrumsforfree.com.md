@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the learndrumsforfree.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216210715id_/http%3A//learndrumsforfree.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learndrumsforfree.com privacy policy that was archived on 2014-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140613034834id_/http%3A//learndrumsforfree.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy and Cookies Policy | Learn Drums For Free
+# Privacy and Cookies Policy
 
 This website uses 3rd Party cookies as a result of using Facebook Like Button, Google Analytics / Statcounter, and Google Adsense. **This website follows the 'implied consent' method of using cookies. If you do not wish to use 3rd party cookies you can turn off these cookies using your browser**.
 
