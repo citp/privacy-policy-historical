@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the compete.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820220835id_/https%3A//www.compete.com/about-compete/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compete.com privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614003843id_/https%3A//www.compete.com/about-compete/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Compete
 
-Last updated: 28 January 2013
+Last updated: 6 February 2014
 
 Compete helps the world’s top brands improve their marketing based insights from the online behavior of millions of consumers. Leading advertisers, agencies and publishers rely on research and analysis from Compete to help create engaging online experiences and highly effective advertising campaigns.
 
@@ -28,7 +28,7 @@ If you subscribe to the Compete PRO service, we may also collect your credit car
 
 If you submit a resume or otherwise seek employment with Compete, we may collect your employment and professional history.
 
-We also collect non-personally identifiable information via various tracking utilities, as described below.
+We also collect non-personally identifiable information via various tracking utilities, as described below. We do not respond to or honor do not track signals or similar mechanisms transmitted by web browsers.
 
 **Information Use**
 
