@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the circlepix.com privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114171617id_/http%3A//www.circlepix.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the circlepix.com privacy policy that was archived on 2014-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140613025657id_/http%3A//www.circlepix.com/_agent/privacy.htm) for the most accurate reproduction.*
 
 # The Ultimate Home Listing Marketer | CirclePix
 
 ## CirclePix.com LLC Commitment to Privacy
 
-CirclePix.com LLC will strive in every way to gain your trust by respecting your information by doing all we can to keep it secure. Our employees, contractors and others who help us operate our web sites follow this policy on privacy and fair information practices for online activities. When registering as a member of CirclePix.com LLC, you agree to accept this Privacy Policy and are aware that our policy may change over time as discussed below.
+CirclePix.com LLC will strive in every way to gain your trust by respecting your information by doing all we can to keep it secure. Our employees, contractors and others who help us operate our web sites follow this policy on privacy and fair information practices for online activities. When registering as a member of CirclePix.com LLC, or utilizing our web pages, you agree to accept this Privacy Policy and are aware that our policy may change over time as discussed below.
 
   
 
@@ -41,14 +41,14 @@ For example, we may try to provide you with product recommendations or special o
 
 ## Use of personal information
 
-We use personal information internally to serve our users and to enhance and extend our relationship with our users. We also use personal information to anticipate and resolve problems with our site, to respond to customer support inquiries, and to send you periodic e-mail newsletters which may inform you of enhancements to our site and other products or services offered by CirclePix.com LLC, to send you relevant survey invitations related to our site and for our own internal operations .tplluding internal analysis as described below). By registering for our Sites or otherwise submitting an inquiry to us you agree to receive the materials described herein. You may unsubscribe at any time from receiving non-service related communications. You should review the following section to understand when we disclose personal information to third parties.
+We use personal information internally to serve our users and to enhance and extend our relationship with our users. We also use personal information to anticipate and resolve problems with our site, to respond to customer support inquiries, and to send you periodic e-mail newsletters which may inform you of enhancements to our site and other products or services offered by CirclePix.com LLC, to send you relevant survey invitations related to our site and for our own internal operations including internal analysis as described below). By registering for our Sites or otherwise submitting an inquiry to us you agree to receive the materials described herein. You may unsubscribe at any time from receiving non-service related communications. You should review the following section to understand when we disclose personal information to third parties.
 
   
 
 
 ## Disclosure of Customer Information
 
-There are times when we are required to disclose Customer Information, while at other times, with your prior consent, we may voluntarily provide your Customer Information to carefully screened third parties in order to provide you with the high quality services. In any event, we will always carefully control the way in which any Customer Information is shared.
+Consumer information collected on the web pages will be shared with the sponsoring real estate agent and lender. There are times when we are required to disclose Customer Information, while at other times, with your prior consent, we may voluntarily provide your Customer Information to carefully screened third parties in order to provide you with the high quality services. In any event, we will always carefully control the way in which any Customer Information is shared.
 
 For example, we must disclose your Customer Information if ordered to do so by court order. On the other hand, after we obtain your consent to do so, we may disclose such information:
 
@@ -58,9 +58,9 @@ For example, we must disclose your Customer Information if ordered to do so by c
   * To certain providers with which CirclePix.com LLC has an ongoing relationship, such as a joint marketing agreement; or
   * To companies that participate with CirclePix.com LLC in supplying products and services to customers; or
   * To companies that promote products and services on our behalf; or
-  * To other companies and individuals who perform functions on our behalf. Functions may.tpllude fulfilling software orders, sending postal mail and email, removing repetitive information from customer lists, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service; or
-  * To certain business transferees. As we continue to develop our business, we might sell or buy businesses, portions of businesses, or assets. In such transactions, Customer Information generally is one of the transferred business assets. Also, in the unlikely event that CirclePix.com LLC,.tpl. or substantially all of its assets are acquired, Customer Information will of course be one of the transferred assets; or
-  * To enforce or apply any of the terms and conditions of any agreements between you and CirclePix.com LLC; or protect the rights, property, or safety of CirclePix.com LLC, our customers, or others. This may.tpllude exchanging information with other companies and organizations for fraud protection and credit risk reduction; or
+  * To other companies and individuals who perform functions on our behalf. Functions may include fulfilling software orders, sending postal mail and email, removing repetitive information from customer lists, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service; or
+  * To certain business transferees. As we continue to develop our business, we might sell or buy businesses, portions of businesses, or assets. In such transactions, Customer Information generally is one of the transferred business assets. Also, in the unlikely event that CirclePix.com LLC, or substantially all of its assets are acquired, Customer Information will of course be one of the transferred assets; or
+  * To enforce or apply any of the terms and conditions of any agreements between you and CirclePix.com LLC; or protect the rights, property, or safety of CirclePix.com LLC, our customers, or others. This may. include exchanging information with other companies and organizations for fraud protection and credit risk reduction; or
   * With your consent. Other than as set forth above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information.
 
 
@@ -95,4 +95,4 @@ CirclePix.com LLC uses encryption and employs stringent security measures to pro
 
 ## Changes to this Policy
 
-This Privacy Policy will always be available to users on this page for you to read. We will update this privacy and fair information practices policy to reflect new features, services and options, as well as any other changes with regard to the use of personal information. This Privacy Policy, along with our Terms of Service, may be periodically updated. Please refer back to this policy for updates when accessing your account or using our websites. Your use of the site after any change to the Privacy Policy will mean that you accept the change. Information collected prior to any change to the Privacy Policy will be used according to the rules applicable at the time the information was collected. Should a privacy dispute arise you will indemnify CirclePix.com LLC, its employees, directors, affiliates, suppliers, affiliates, and related entities against any claim or demand for losses, damages, and costs,.tplluding attorney's fees, that may have been.tplurred by you or on your behalf.
+This Privacy Policy will always be available to users on this page for you to read. We will update this privacy and fair information practices policy to reflect new features, services and options, as well as any other changes with regard to the use of personal information. This Privacy Policy, along with our Terms of Service, may be periodically updated. Please refer back to this policy for updates when accessing your account or using our websites. Your use of the site after any change to the Privacy Policy will mean that you accept the change. Information collected prior to any change to the Privacy Policy will be used according to the rules applicable at the time the information was collected. Should a privacy dispute arise you will indemnify CirclePix.com LLC, its employees, directors, affiliates, suppliers, affiliates, and related entities against any claim or demand for losses, damages, and costs,.including attorney's fees, that may have been incurred by you or on your behalf.
