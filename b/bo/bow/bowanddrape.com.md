@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the bowanddrape.com privacy policy that was archived on 2013-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131029164156id_/http%3A//www.bowanddrape.com/cms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bowanddrape.com privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614012532id_/http%3A//www.bowanddrape.com/home/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Bow and Drape
-
-[](http://www.bowanddrape.com/cms/wp-content/uploads/2012/10/privacy.jpg)
+# Women’s Online Clothing Boutique, Bow & Drape, Custom T Shirts
 
 In using this website you are deemed to have read and agreed to the following terms and conditions: Bow & Drape respects your privacy. We do not sell, rent, release, or share your personal information. You can be assured that any information you provide us with will be safe. We only use your personal information to keep in touch, let you know about any updates or special offers we have, and possibly build a relationship.
 
@@ -17,6 +15,10 @@ To prevent us from being caught in your spam filter, please add info@bowanddrap
 We collect your information when you register on our site, place an order, subscribe to our newsletter or blog, or fill out a form.
 
 In collecting your information, we may ask for your name or e-mail address. Of course, you may also visit our site anonymously.
+
+We use third-party vendors, including Adroll, Google, first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie).
+
+We also gather data using Google's Interest-based advertising or 3rd-party audience data (such as age, gender, and interests) with Google Analytics to understand user demographics.
 
 ## What Do We Use The Information For?
 
@@ -33,6 +35,8 @@ Information collected may be used in one of the following ways:
 ·      To administer a contest, promotion, survey, or other site feature
 
 ·      To send periodic emails (The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc. Note: If at any time you would like to unsubscribe from receiving future emails, please email [info@bowanddrape.com](mailto:info@bowanddrape.com) with this request and why you would like to unsubscribe.)
+
+·      To advertise on sites across the Internet and to report how our ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to your site.
 
 ## How Do We Protect Your Information?
 
