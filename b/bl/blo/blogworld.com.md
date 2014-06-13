@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogworld.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212223447id_/http%3A//www.blogworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogworld.com privacy policy that was archived on 2014-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140613023324id_/http%3A//www.blogworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — New Media Expo Blog
 
@@ -50,6 +50,3 @@ NMX will, to the extent possible, control your personal information, and, except
 A “cookie” is a piece of data stored on your hard drive containing non-personally identifiable information about you. We may use cookies in order to collect certain information about you, such as IP addresses (e.g., whether you are logged on from a .com, .gov, or .edu domain), domain names (the Internet address of a computer), and the type of computer and operating system being used. We may also use cookies to identify your computer when you revisit our Website, to recall your authentication information, or to track statistical information related to navigation throughout the Website. We may collect such information in order to better operate the Website so as to enhance your experience while using the Website, and to share with advertisers to provide you with a more personalized visit to the Website. Usage of a cookie is in no way linked to any personal information while on our Website.
 
 Depending on the type of browser you are using, your browser may be set to alert you of cookies. You do not have to accept all cookies sent to you by this Website; however, depending on the particular cookie you reject, you may not be able to use some of the features of this Website.
-
-  *   *   *   *   *   * 
-
