@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the c2cfabrication.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219012653id_/http%3A//c2cfabrication.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the c2cfabrication.com privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614054311id_/http%3A//c2cfabrication.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Classic 2 Current Fabrication
+# Privacy - Classic 2 Current Fabrication
 
 **What information do we collect?**
 
