@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the regretfulmorning.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207032355id_/http%3A//regretfulmorning.com/announcements) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regretfulmorning.com privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614172912id_/http%3A//regretfulmorning.com/announcements) for the most accurate reproduction.*
 
-# Privacy Policy « Regretful Morning
+# Privacy Policy | Regretful Morning
 
 **Regretful Morning Privacy Policy**  
 The following privacy statement covers the Regretful Morning Website. Please read this statement regarding our websites. If you have any questions or suggestions regarding our privacy policy, please [contact us](mailto:contact@regretfulmorning.com).
