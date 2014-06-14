@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gurufocus.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103135511id_/http%3A//www.gurufocus.com/Privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gurufocus.com privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614224923id_/http%3A//www.gurufocus.com/Privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy of GuruFocus.com
 
