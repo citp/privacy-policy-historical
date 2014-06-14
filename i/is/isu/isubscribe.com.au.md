@@ -1,24 +1,26 @@
-> *The following text is extracted and transformed from the isubscribe.com.au privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231035522id_/http%3A//www.isubscribe.com.au/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isubscribe.com.au privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614164546id_/http%3A//www.isubscribe.com.au/privacy.cfm) for the most accurate reproduction.*
 
-# Privacy Policy :: iSUBSCRiBE - Magazine Subscription Specialists
+# Privacy Policy :: iSUBSCRiBE.com.au
 
-iSUBSCRiBE Pty Ltd is committed to protecting and maintaining your privacy. As part of normal daily operations we may collect your information. The following Privacy Policy describes the type of information iSUBSCRiBE may collect and what may happen to that information.
+iSUBSCRiBE Pty Ltd is committed to protecting and maintaining your privacy. As part of normal daily operations we may collect your information. The following Privacy Policy describes the type of information iSUBSCRiBE may collect and what may happen to that information. iSUBSCRiBE may modify this Privacy Policy at any time.
 
 Any questions regarding this policy or enquiries regarding privacy should be sent to iSUBSCRiBE Pty Ltd Suite 17, 13 Hickson Road, Dawes Point NSW Australia 2000
 
 **What type of information is collected by iSUBSCRiBE?**
 
-iSUBSCRiBE collects most information directly from the users of it's website(s). We collect this information so you can subscribe to products or services available for purchase via the iSUBSCRiBE group of websites, subscribe to the iSUBSCRiBE Newsletter, advertise in our publishing partners publications, request a product or service from iSUBSCRiBE, complete a survey or questionnaire, enter a competition or an event, or communicate with iSUBSCRiBE by e-mail or telephone.
+iSUBSCRiBE collects most information directly from the users of it's website(s) and from customers who order via our direct Corporate Services. We collect this information so you can subscribe to products or services available for purchase via the iSUBSCRiBE group of websites, subscribe to the iSUBSCRiBE Newsletter, advertise in our publishing partners publications, request a product or service from iSUBSCRiBE, complete a survey or questionnaire, enter a competition or an event, or communicate with iSUBSCRiBE by e-mail or telephone.
 
 iSUBSCRiBE may also be provided with personal information about an individual from a third party, for example from third parties who give gift subscriptions.
 
-The type of personal information collected includes (but is not limited to) name, address, contact details, age range and gender.
+The type of personal information collected includes (but is not limited to) name, address, email address, contact details, age range and gender.
 
 **How is this information used by iSUBSCRiBE?**
 
 iSUBSCRiBE uses personal information primarily for the purpose to facilitate orders for subscriptions via it's website(s).
 
 iSUBSCRiBE may also use this information to enhance the shopping experience, resulting in a more personalised service for you.
+
+iSUBSCRiBE may also use this information to communicate with it's customers and to provide updated information on products and services via email and the iSUBSCRiBE Newsletter. If you want to stop receiving the iSUBSCRiBE Newsletter you can follow the unsubscribe information at the bottom of each Newsletter.
 
 iSUBSCRiBE may also use this information to communicate with it's customers and to provide updated information on products and services.
 
@@ -32,14 +34,25 @@ or call us on 1300 303 619
 
 **To whom might iSUBSCRiBE disclose Personal Information?**
 
-iSUBSCRiBE will provide your information to Publishers of the magazines / newspapers you have subscribed to so that the subscriptions can be fulfilled.
+iSUBSCRiBE will provide your information to Australian and International Publishers of the magazines / newspapers / Books / Travel and Product Brochures you have subscribed to or ordered so that the subscriptions and orders can be fulfilled. The International publishers are mostly based in the UK and Singapore.
 
-iSUBSCRiBE may also provide your information to other organizations who are sponsoring or otherwise involved with or participating in a promotion, competition or survey; including registered companies that are involved with the drawing of the prize and database management entities.
+  
+iSUBSCRiBE may also provide your information to other organizations who are sponsoring or otherwise involved with or participating in a promotion, competition or survey; including registered companies that are involved with the drawing of the prize and database management entities.  
+ 
 
 **Use of Internet Cookies online**
 
 Cookies are small pieces of information that are stored by your browser on your computers hard drive. Our cookies do not contain any personally identifying information, but they do enable us to provide the functionality you require when visiting iSUBSCRiBE websites (for example, to place items in your shopping cart).
 
+  
+**Sensitive Information**
+
+We ask that you not send us or disclose any sensitive personal information (such as information related to racial or ethnic origin, religion or other beliefs, health, criminal background or trade union membership) on or through the iSUBSCRiBE website or over the phone or via email. If, contrary to this request, you do provide any sensitive information, in doing so you consent to us collecting and handling that information in accordance with this Privacy Policy.
+
+**Complaint**
+
+If you think we have breached the Privacy Act or other applicable privacy laws, you may contact us as outlined below. Please include your email address, name, address, and telephone number and clearly detail your complaint. We will need to share your information with others who can assist in responding to your complaint. We will respond to your complaint as soon as reasonably practicable and in any event within 5 business days. Our response will inform you whether we have accepted your complaint, request further information, or advise that we do not think we are in breach. We will also let you know the next steps in resolving your complaint. If you are not satisfied with our response to your complaint, or at any time, you may refer your complaint to the Office of the Australian Information Commissioner ([www.oaic.gov.au](http://www.oaic.gov.au/)).
+
 **How to contact iSUBSCRiBE**
 
-If you would like to make an access request or wish to provide feedback about this policy, please contact iSUBSCRiBE by writing to the General Manager iSUBSCRiBE Pty Ltd, Suite 17, 13 Hickson Road, Dawes Point NSW Australia 2000 or via e-mail info@isubscribe.com.au  
+If you would like to make an access request or wish to provide feedback about this policy, please contact iSUBSCRiBE by writing to the General Manager iSUBSCRiBE Pty Ltd, Suite 17, 13 Hickson Road, Dawes Point NSW Australia 2000 or via e-mail [privacy@isubscribe.com.au](mailto:privacy@isubscribe.com.au?subject=iSUBSCRiBE%20Privacy%20Policy)
