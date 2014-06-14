@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lxrmarketplace.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806174040id_/http%3A//www.lxrmarketplace.com/PrivacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lxrmarketplace.com privacy policy that was archived on 2014-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140615014733id_/http%3A//www.lxrmarketplace.com/PrivacyPolicy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
-(Last updated: October 1, 2011)
+(Last updated: October 1, 2013)
 
 NetElixir, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. This privacy statement discloses the information collection and disclosure practices for our Web sites (the "Sites"). By accessing the Sites, you consent to the collection and use of information as described herein. We reserve the right to change this privacy statement at any time. If we make any material changes to our privacy statement, we will post a new statement on the Sites and update the effective date set forth above. Therefore, we encourage you to check the date of our privacy statement whenever you visit the Sites to see if it has been updated since your last visit.
 
@@ -13,7 +13,7 @@ NetElixir, Inc. has created this privacy statement in order to demonstrate our f
 
 ## _Personal Information_.
 
-Our Sites provide advertisers, agencies and businesses with various services related to internet marketing, pay per click ad campaigns, search engine optimization and other marketing services and tools. Our sites provide both free and purchased or licensed tools to help improve their business. In order for us to provide these services, we may collect your e-mail address as well as contact information, including but not limited to your name, company, address, and phone number.
+Our Sites provide advertisers, agencies and businesses with various services related to internet marketing, pay per click ad campaigns, search engine optimization and other analytics and marketing services and tools. Our sites provide both free and purchased or licensed tools to help improve their business. In order for us to provide these services, we may collect your e-mail address as well as contact information, including but not limited to your name, company, address, and phone number.We also collect credit card or similar payment information for validation and to bill you for subscribed to software and services. We also collect and use website information to operate analytical tools and provide our software and services. This information includes domain names, SEO analysis, usability, access times, referring web site addresses and other information gathered from publicly available and paid or subscribed sources.
 
 We may also use a third party to host our Sites, including our online data collection forms. This third party provider has access to the user information for purposes such as maintaining our Sites.
 
@@ -33,7 +33,7 @@ We may from time to time collect information regarding your usage of our free so
 
 **USE OF PERSONAL INFORMATION**
 
-We use personal information internally to serve our users and to enhance and extend our relationship with our users. For example, by understanding how you use the Sites or our software from your computer, we are able to customize and personalize your experience. More specifically, we use personal information for the purposes for which it was collected (such as to provide you with the services), to anticipate and resolve problems with our Sites, to respond to customer support inquiries, and to send you periodic e-mails or newsletters, and for our own internal operations (including internal analysis as described below). You should review the following section to understand when we disclose personal information to third parties.
+We use personal information internally to serve our users, receive payment for our software and services and and to enhance and extend our relationship with our users. For example, by understanding how you use the Sites or our software from your computer, we are able to customize and personalize your experience. More specifically, we use personal information for the purposes for which it was collected (such as to provide you with the services), to anticipate and resolve problems with our Sites, to respond to customer support inquiries, and to send you periodic e-mails or newsletters, and for our own internal operations (including internal analysis as described below). You should review the following section to understand when we disclose personal information to third parties.
 
 **DISCLOSURE OF PERSONAL INFORMATION**
 
@@ -51,7 +51,7 @@ We may use and disclose information about you for our own internal statistical, 
 
 ## _Transaction Processing_.
 
-We may disclose personal information to third parties as necessary to perform services or to process transactions for you. We or our service providers may contact you to complete the transactions you have requested by any methods available including via e-mail, telephone, regular mail or other means. 
+We may disclose personal information to third parties as necessary to perform services or to process transactions for you, including accepting payment for our software and services. We or our service providers may contact you to complete the transactions you have requested by any methods available including via e-mail, telephone, regular mail or other means. 
 
   
 
@@ -86,7 +86,7 @@ We may use cookies to identify users and customize their experience on our site 
 
 ### SECURITY
 
-We use reasonable security measures to store and maintain personally identifying information to protect it from loss, misuse, alternation or destruction by any unauthorized party while it is under our control.
+No method of safeguarding information is 100% secure. We use a variety of security measures, technologies and procedures to store and maintain personally identifying information to protect it from loss, misuse, alternation or destruction by any unauthorized party while it is under our control. When personal information (such as a credit card number) is transmitted to other websites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
 
   
 
