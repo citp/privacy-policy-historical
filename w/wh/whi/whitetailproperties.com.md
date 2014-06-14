@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the whitetailproperties.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215124138id_/http%3A//whitetailproperties.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitetailproperties.com privacy policy that was archived on 2014-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140615003552id_/http%3A//www.whitetailproperties.com/privacy) for the most accurate reproduction.*
 
-# Customer Privacy Policy
+# Customer Privacy Policy | Whitetail Properties
 
 This Customer Privacy Policy of Whitetail Properties Real Estate, LLC (“Company”) covers the collection, use, and disclosure of personal information that the Company may collect anytime you interact with the Company, such as when you visit our website, when you purchase the Company’s products and services, or when you call our offices. Please take a moment to carefully read the following to learn more about our information practices, including what type of information is gathered, how the information is used and for what purposes, to whom we disclose the information, and how we safeguard your personal information. Your privacy is a priority to us, and we strive to protect it.
 
@@ -32,7 +32,7 @@ Our website allows you to create a Whitetail Properties account based on your pe
 
 ## 4\. Gift Cards and Services
 
-The Company also enables you to purchase and send gift certificates and products to family members, friends or colleagues from the online store at [http://www.whitetailproperties.com](http://www.whitetailproperties.com/) . To fulfill your request, the Company may require personal information about the person to whom you are sending the product or service such as their name, physical address, email address, and so on. The personal information you provide about that person is used only for the purpose for which it is collected. The Company will not use the information collected to market directly to that person.
+The Company also enables you to purchase and send gift certificates and products to family members, friends or colleagues from the online store at whitetailproperties.com . To fulfill your request, the Company may require personal information about the person to whom you are sending the product or service such as their name, physical address, email address, and so on. The personal information you provide about that person is used only for the purpose for which it is collected. The Company will not use the information collected to market directly to that person.
 
 ## 5\. When the Company Discloses Your Information
 
