@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backstreet-merch.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529175044id_/http%3A//www.backstreetmerch.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backstreet-merch.com privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614151507id_/http%3A//www.backstreetmerch.com/privacy) for the most accurate reproduction.*
 
 # Backstreetmerch.com Officially licensed merchandise T Shirts|Hoodies|Caps|Beanies|Imports|Rarities|Tour Merch|Bags|Patches|Posters|Vests|CDs |DVDs|Vinyl
 
