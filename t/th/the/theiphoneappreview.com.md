@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theiphoneappreview.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109193715id_/http%3A//www.theiphoneappreview.com/privacy-policy-consumer-disclosure-information) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theiphoneappreview.com privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614162037id_/http%3A//www.theiphoneappreview.com/privacy-policy-consumer-disclosure-information) for the most accurate reproduction.*
 
 # Privacy Policy & Consumer Disclosure Information | TheiPhoneAppReview.com
 
