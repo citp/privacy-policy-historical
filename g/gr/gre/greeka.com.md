@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the greeka.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124143705id_/http%3A//www.greeka.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greeka.com privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614163209id_/http%3A//www.greeka.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Greeka.com
 
 The following Privacy Policy applies to this website under the domain name **www.greeka.com**.
 
-### Security of information
+###  Security of information
 
 Any personal information submitted to Greeka.com is treated under the strictest confidence. This information is securely stored and access is restricted to Greeka's authorized personnel, ensuring that your personal information is protected and safeguarded. None personal information will be shared or sold to any other party. We will not make your personal details available to any third party company.
 
-### Cookies
+###  Cookies
 
 Cookies are pieces of information that a website can transfer to an individual's browser for tracking (site usage) the navigation of users and customizing site information further to improve and enhance the user's experience. Most internet browsers are preset to accept cookies.
 
