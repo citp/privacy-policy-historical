@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the themovechannel.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119111839id_/http%3A//www.themovechannel.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themovechannel.com privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614192702id_/http%3A//www.themovechannel.com/company/privacy) for the most accurate reproduction.*
 
 # TheMoveChannel.com | Privacy Policy | Website Data Usage
 
 ### Who we are
 
-“We” are On The Move Limited trading as TheMoveChannel.com (The Move Channel) (company number 3997679) and our office address is 45 Lafone Street, Shad Thames, London, SE1 2LX.
+“We” are On The Move Limited trading as TheMoveChannel.com (The Move Channel) (company number 3997679) and our office address is 24 Jacks Place, Shoreditch, London, E1 6NN.
 
 We are registered for Data Protection under the Data Protection Act 1998 - Registration number Z4966058. VAT number GB 805 3650 46.
 
-We are committed to protecting your privacy. This policy explains how and for what purposes we use the information collected about you via [www.TheMoveChannel.com](http://www.themovechannel.com/) or any other parts of The Move Channel network (referred to below as “this Site”). Please read this privacy policy carefully. By using this Site and any services we offer via this Site, you are agreeing to be bound by this policy in respect of the information collected about you via this Site.
+We are committed to protecting your privacy. This policy explains how and for what purposes we use the information collected about you via [www.TheMoveChannel.com](http://www.themovechannel.com/) or any sites operated by Us (referred to below as “this Site”). Please read this privacy policy carefully. By using this Site and any services we offer via this Site, you are agreeing to be bound by this policy in respect of the information collected about you via this Site.
 
 ### Why Data is collected
 
@@ -36,7 +36,7 @@ In addition to the cookies we send to your computer some of our advertisers and 
 
 We will process your Data in the way indicated in this Privacy Policy. Over time the way we process your Data may change. We will let you know about changes that may not be obvious to you by publishing them in the Privacy Policy. By using the Site website you agree to any change we tell you about unless, within 60 days of that notice, you write and tell us not to handle your information in the new way.
 
-Your Data may be used by us to contact you in writing, by telephone or by e-mail to offer you information, advertisements, products and services that we believe may be of interest to you. You can opt out of receiving any such contract at any time by amending your Data. We will not supply your personal details to any other person or organisation unless expressly authorised by yourself.
+Your Data may be used by us to contact you in writing, by telephone or by e-mail to offer you information, advertisements, products and services that we believe may be of interest to you. You can opt out of receiving any such contract at any time by amending your Data. 
 
 We may also sell your data (or otherwise pass it on) to selected third parties who may use it to contact you by post, telephone, email, SMS or other reasonable method in relation to offers they feel might interest you, whether or not we enter into an agreement with you. In addition, we may disclose your personal information to a third party:
 
@@ -57,4 +57,4 @@ You can use your password to view and edit your Data by clicking on the Services
 
 We follow strict security procedures to ensure that your personal information is not damaged, destroyed, or disclosed to a third party without your permission and to prevent unauthorised access to it. The computers that store the information are kept in a secure facility with restricted physical access and we use secure firewalls and other measures to restrict electronic access.
 
-You have a right to see a copy of the information we hold about you if you pay us the fee set by law. If you wish to see a copy of the information we hold about you please write to the Data Protection Officer, On The Move Ltd, 45 Lafone Street, Shad Thames, London, SE1 2LX.
+You have a right to see a copy of the information we hold about you if you pay us the fee set by law. If you wish to see a copy of the information we hold about you please write to the Data Protection Officer, On The Move Ltd, 24 Jacks Place, Shoreditch, London, E1 6NN.
