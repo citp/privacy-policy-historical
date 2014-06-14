@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the flite.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218075315id_/http%3A//www.flite.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flite.com privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614111058id_/http%3A//www.flite.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy · Flite
-
-## Flite Privacy Policy Statement
 
 This privacy policy has been updated recently, in order to be more consistent with the latest Web privacy standards and safe Internet advertising practices, as well as to reaffirm Flite's commitment to keeping your data private. These changes are unlikely to impact your day-to-day experience with the Flite platform. 
 
@@ -51,7 +49,7 @@ Flite uses your information in various ways, as outlined below.
 
 We may provide PII and non-PII to trusted businesses or persons for the purpose of processing information on our behalf. These third parties are bound to keep your PII and Non-PII confidential. We do not otherwise share PII or non-PII with third parties unless doing so is appropriate to carry out your request or we reasonably believe that doing so is legally required or necessary to protect your rights or those of Flite and our Customers. 
 
-**Notwithstanding the foregoing, Flite’s Privacy Policy does not apply to, and we cannot fully control how, third parties use your information. Accordingly, we cannot be held responsible for Customers’ use or other third parties’ use of your PII or Non-PII. For example, certain third parties that provide services to help deliver Flite Ad Products may directly collect and store User PII for the benefit of the Customer and Flite does not have control over such third party use.**
+**Notwithstanding the foregoing, Fliteâ€™s Privacy Policy does not apply to, and we cannot fully control how, third parties use your information. Accordingly, we cannot be held responsible for Customersâ€™ use or other third partiesâ€™ use of your PII or Non-PII. For example, certain third parties that provide services to help deliver Flite Ad Products may directly collect and store User PII for the benefit of the Customer and Flite does not have control over such third party use.**
 
 If we should ever file for bankruptcy or have our assets sold to or merge with another entity, information we receive from you from this Site is a Flite asset and may be transferred. 
 
