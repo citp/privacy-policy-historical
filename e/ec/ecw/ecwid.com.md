@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ecwid.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218020140id_/http%3A//www.ecwid.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecwid.com privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614161323id_/http%3A//www.ecwid.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Ecwid: E-Commerce Widgets
+# Privacy Policy
 
 Ecwid, Inc. (“Ecwid”) knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This Privacy Policy covers the information practices of our user interfaces, including our website Ecwid.com, that link to this Privacy Policy: [http://www.Ecwid.com](http://www.ecwid.com/). 
 
@@ -8,23 +8,31 @@ Ecwid, Inc. (“Ecwid”) knows that you care how information about you is used 
 
 Ecwid.com may contain links to third-party websites. Ecwid is not responsible for the information practices or the content of such third-party websites. We encourage you to review the privacy policies of third-party websites to understand their information practices. 
 
+## Safe Harbor
+
+Ecwid complies with the US-EU Safe Harbor Framework and US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Ecwid has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification page, please visit [http://www.export.gov/safeharbor/](http://www.export.gov/safeharbor). 
+
+## Notice
+
+Ecwid will inform an individual of the purpose for which it collects and uses information and the types of non-agent third parties to which Ecwid discloses or may disclose the information. 
+
 ## Information We Collect
 
 Ecwid offers a variety of products and services that are together referred to as “the Products and Services.” If you choose to use the Products or Services, we may require you to provide contact and identity information, billing information, and other personal information as indicated on our user interfaces, including on Ecwid.com. Once you register on Ecwid.com, you are no longer anonymous to us. 
 
 We collect and store the following information: 
 
-  * contact information, such as your name, company name, address, phone number, and email address;
-  * financial information;
+  * Information you give us, including, contact information, such as your name, company name, address, phone number, email address, and financial information;
   * automatic information, such as computer sign-on data, browser type, browser language, statistics on page views, traffic to and from our user interfaces and ad data. Like many websites, we use identifiers such as “cookies” and Web beacons to obtain this automatic information.
-  * discussion board posts and other messages, including your correspondence with us. Our communications will include notices about your account (for example, change in password or payment method, confirmation e-mails and other transactional information) and information concerning or related to our service. These communications are part of your relationship with Ecwid and you receive them as part of the Ecwid membership. If you or your store’s customers do not want to receive our emailed newsletters, other promotional announcements or non-transactional communications, simply use your account name and password to access the control panel on Ecwid.com and disable any email notifications sent to you or your customers. Email notifications sent by Ecwid’s community forums can be adjusted or disabled via the community forums control panel. For members subscribing to notifications about the availability of specific partner programs at <http://www.ecwid.com/partners-program.html>, we include instructions to unsubscribe in the body of the email notifications; and
-  * general information regarding the Products or Services that you have registered to receive.
+  * discussion board posts and other messages, including your correspondence with us. Our communications will include notices about your account (for example, change in password or payment method, confirmation e-mails and other transactional information) and information concerning or related to our service. These communications are part of your relationship with Ecwid and you receive them as part of the Ecwid membership. If you or your store’s customers do not want to receive our emailed newsletters, other promotional announcements or non-transactional communications, simply use your account name and password to access the control panel on Ecwid.com and disable any email notifications sent to you or your customers. Email notifications sent by Ecwid’s community forums can be adjusted or disabled via the community forums control panel. For members subscribing to notifications about the availability of specific partner programs at <http://www.ecwid.com/partners-program.html>, we include instructions to unsubscribe in the body of the email notifications; and 
+  * general information regarding the Products or Services that you have registered to receive; and 
+  * information from third-party providers and services to help Ecwid provide our Products and Services and to help us understand the use of our Products and Services..
 
 
 
 We do not store the following information in the regular course of our business: 
 
-  * credit card information and billing addresses.
+  * credit card information and billing addresses. 
 
 
 
@@ -50,9 +58,15 @@ Ecwid’s user interfaces use credit card information solely to check the financ
 
 Our website also uses automatic information obtained through cookies and Web beacons to operate and improve. We may also use automatic information alone or in combination with personal information about our customers to provide personalized information about Ecwid.com 
 
-Ecwid contracts with third-party advertising networks who collect IP addresses and other identifiers on our websites and emails and on third-party websites. Ad networks follow your online activities over time by collecting information through automated means, including through the use of cookies. They use this information to provide advertisements about third-party products and services tailored to your interests. You may see these advertisements on other websites. This process also helps us manage and track the effectiveness of ourmarketing efforts. 
+Ecwid contracts with third-party advertising networks who collect IP addresses and other identifiers on our websites and emails and on third-party websites. Ad networks follow your online activities over time by collecting information through automated means, including through the use of cookies. They use this information to provide advertisements about third-party products and services tailored to your interests. You may see these advertisements on other websites. This process also helps us manage and track the effectiveness of ourmarketing efforts. Ecwid, however, does not grant third parties access to any personal information. 
 
-Ecwid, however, does not grant third parties access to any personal information. Ecwid obtains no personal information from third parties, except from Channel Partners who are operating under respective agreements. 
+## Opting out
+
+Ecwid does not use personal information for marketing its services, either through email or direct mailing. Ecwid may send some non-marketing communications that are not subject to general opt-out, such as information that you request we send to you or to third parties with whom you do business, and disclosures to comply with legal requirements and other informational notices. 
+
+Our newsletter is used as a general means of communication and may include updates to our services as well as new partner agreements. You have the option to unsubscribe to our newsletter at anytime. If we intend to use your information for a purpose that is not compatible with these purposes or if we intend to disclose it to a type of third party not previously identified, we will notify you and offer you the opportunity to opt out of such uses and/or disclosures. 
+
+Ecwid will offer individuals the opportunity to choose (opt out) whether their information is to be disclosed to a third party or to be used for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual should the occasion arise. 
 
 ## Our Use of Cookies and Other Identifiers
 
@@ -60,7 +74,7 @@ We use identifiers such as cookies, Web beacons and IP addresses to make interac
 
 ## Cookies
 
-When you visit Ecwid.com, Ecwid’s servers send a cookie to your computer. Standing alone, cookies do not identify you. They merely recognize your Web browser. Unless you choose to identify yourself to Ecwid, either by responding to a promotional offer, opening an account, or filling out a Web form, you remain anonymous to the Company. 
+When you visit Ecwid.com, Ecwid’s servers send a cookie to your computer. Standing alone, cookies do not identify you. They merely recognize your Web browser. Unless you choose to identify yourself to Ecwid, either by responding to a promotional offer, opening an account, or filling out a Web form, you remain anonymous to Ecwid.
 
 We use cookies that are session-based and persistent-based. Session cookies exist only during one session. They disappear from your computer when you close your browser software or turn off your computer. Persistent cookies remain on your computer after you close your browser or turn off your computer. 
 
@@ -80,7 +94,8 @@ Ecwid may use information from Web beacons in combination with data about users 
 
 ## Flash Cookies
 
-We use local shared objects, also known as Flash cookies, to store your preferences or display content based upon what you view on our site to personalize your visit. Third parties, with whom the Company partners to provide certain features on our site or to display advertising based upon your Web browsing activity, use Flash cookies to collect and store information.  
+We use local shared objects, also known as Flash cookies, to store your preferences or display content based upon what you view on our site to personalize your visit. Third parties, with whom Ecwid partners to provide certain features on our site or to display advertising based upon your Web browsing activity, use Flash cookies to collect and store information. 
+
 Flash cookies are different from browser cookies because of the amount and type of data, and how it is stored. Cookie management tools provided by your browser will not remove Flash cookies. 
 
 ## Addresses
@@ -106,26 +121,32 @@ We neither sell nor rent your personal information to third parties for their ma
 
 Ecwid.com may include community forums, blogs, or chat rooms. Any other visitors to these forums may read, collect, or use the personal information you choose to disclose there, and may use it to send you unsolicited messages. Ecwid is not responsible for the privacy of information you choose to disclose in these forums. 
 
-Users may elect to use our affiliate referral program to inform friends about Ecwid. We request the name and email address of each referred friend. Ecwid will send a one-time automatic email to the friend inviting him or her to visit our user interfaces. For further information about our affiliate referral program, please see <http://www.ecwid.com/affiliate-program.html>
-
-The agreement governing our affiliate referral program may be found at <http://ecwid.zferral.com/>. 
+Users may elect to use our affiliate referral program to inform friends about Ecwid. We request the name and email address of each referred friend. Ecwid will send a one-time automatic email to the friend inviting him or her to visit our user interfaces. For further information about our affiliate referral program, please see <http://www.ecwid.com/affiliate-program.html>. The agreement governing our affiliate referral program may be found at <http://ecwid.zferral.com/>. 
 
 Ecwid posts a list of users and testimonials on our user interfaces, including on our website, Ecwid.com that contain information such as user names and titles. We obtain the consent of each user prior to posting any information on such a list or posting testimonials. 
 
 ## Accessing, Reviewing and Changing Your Personal Information
 
-If you are registered to receive our Products or Services, you can access, review and modify your personal information at any time by logging into your Profile page located at [https://my.ecwid.com](https://my.ecwid.com/)
+If you are registered to receive our Products or Services, you can access, review and modify your personal information at any time by logging into your Profile page located at [https://my.ecwid.com](https://my.ecwid.com/). 
 
-We delete personal information when we no longer need it for the purposes we described earlier. We retain personal information as permitted by law to resolve disputes, enforce our policies, and prevent the recurrence of fraud or other illegal or improper activity. 
+We may delete personal information when we no longer need it for the purposes we described earlier. We may retain personal information as permitted by law to resolve disputes, enforce our policies, and prevent the recurrence of fraud or other illegal or improper activity. 
 
 ## Security
 
 To prevent unauthorized access, promote data security, and encourage appropriate use of information, we use a variety of tools, such as encryption technologies, passwords, physical and electronic security, or procedural safeguards to assist in the protection of your information. No security on the Internet is absolute, however, so we are unable to guarantee the security of any information that you share with us. 
 
+## Enforcement
+
+Ecwid uses a self-assessment approach to ensure compliance with this privacy policy and periodically verifies that the policy is accurate, comprehensive for the information intended to be covered, prominently displayed, completely implemented and accessible and in conformity with the Safe Harbor Principles. We encourage interested persons to raise any concerns using the contact information provided and we will investigate and attempt to resolve any complaints and disputes regarding use and disclosure of personal information in accordance with the Principles. 
+
+Ecwid has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Ecwid, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint. 
+
 ## Changes to This Privacy Policy
 
 We may amend this Privacy Policy at any time by posting the amended terms on Ecwid.com. In the event of amendment, all terms shall take effect thirty (30) days after initial posting to Ecwid.com. Your continued use of any of the Products and Services will constitute your acceptance of any changes or additions to this Privacy Policy. 
 
-## Contacting Us
+## Contact Information
 
-If you have any questions about this Privacy Policy or Ecwid’s information practices, please contact us via these channels: <http://www.ecwid.com/help.html#contact_us>, by sending an email to [info@ecwid.com](mailto:info@ecwid.com) or by mailing your correspondence to Ecwid Privacy, 144 West D Street, Suite 103, Encinitas, California 92024, USA.
+To access your information, ask questions about our privacy practices, or issue a complaint, please contact us at info@ecwid.com or mail your correspondence to: Ecwid Privacy, 144 West D Street, Suite 103, Encinitas, California 92024, USA. 
+
+Effective date of this policy: February 1, 2014
