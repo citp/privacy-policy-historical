@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ecosportdiscoveries.co.in privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209061648id_/http%3A//www.india.ford.com/privacy-disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecosportdiscoveries.co.in privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614172016id_/http%3A//www.india.ford.com/privacy-disclaimer) for the most accurate reproduction.*
 
-# Ford India Private Limited - Privacy & Disclaimer
+# Ford India Private Limited - Privacy and Disclaimer
 
 ### Ford India Private Limited Privacy Policy
 
