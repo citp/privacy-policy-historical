@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pricesinindia.net privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214054906id_/http%3A//www.pricesinindia.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pricesinindia.net privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614092056id_/http%3A//www.pricesinindia.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Prices in India
+# Privacy Policy | 14th June 2014
 
 PriceInIndia.net is a company which focuses on the electronic products that reviews the consumer product and does provide the information related to the product’s features, specifications, pricing etc.  We take utmost pride in providing perfect privacy for the end user and visitors of the site.
 
