@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gtoptions.com privacy policy that was archived on 2013-11-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131125202336id_/http%3A//www.gtoptions.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gtoptions.com privacy policy that was archived on 2014-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140614133101id_/http%3A//www.gtoptions.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
 		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
@@ -11,7 +11,7 @@
 		<base href="http://www.gtoptions.com/">
 		<script type="text/javascript" async="" src="/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&amp;ns=2"></script><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0018/2254.js?439593" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="javascript" type="text/javascript" src="js/global.js"></script>
 		<script type="text/javascript" src="js/jquery.min.js"></script>
-		<link href="css/style.php" rel="stylesheet" type="text/css">
+		<link href="css/style.css" rel="stylesheet" type="text/css">
 <meta name="google-site-verification" content="pM3FqputkSB0Z058eBkVwyspNLGRLijS2nnhnESMYA0">
 <script type="text/javascript">
 
@@ -41,6 +41,7 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 		<script type="text/javascript" src="fancybox/fancybox.js"></script>
 		<link rel="icon" href="/favicon.ico" type="image/x-icon">
 		<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+		
 		<script type="text/javascript" src="http://www.spotplatform.gtoptions.com/SpotOptionPlugin.js"></script>
 		<script type="text/javascript">
 			var startTime = (new Date()).valueOf();
@@ -85,12 +86,18 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 			
 			
 			if ($("#binary_noTradingMessage").is(':visible')) {
+				/*$("#zoneTab_longTerm").delay(2000).trigger("click");*/
 				$("#zoneTab_oneTouch").delay(2000).trigger("click");
 				console.log("OT: ");
 				}
 			
 			});
-			 
+		/*
+		
+		var eventsList = SO.getSettings().events;
+		var myLogOut= function (){ alert("User Was logged out"); };
+		$(document).bind(eventsList.sessionExpired, myLogOut);
+		
 		$(document).bind(SO.getSettings('events').internalLoginByAuth, function(jq, options) {
 			parseMyAuth(options);
 			});
@@ -98,6 +105,7 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 		$(document).bind('spotoptionSession.expired', function() {
 			console.log("Logged Out!");
 			});
+		*/
         </script>
 	</head>
 	<body dir="ltr">
@@ -124,6 +132,7 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 						<li><img border="0" src="images/header/lang/it.jpg" alt=""> <a href="http://www.gtoptions.com/lang.php?lng=ITA"> Italiano</a></li>
 						<li><img border="0" src="images/header/lang/gr.jpg" alt=""> <a href="http://www.gtoptions.com/lang.php?lng=GER">Deutsch</a></li>
 						<li><img border="0" src="images/header/lang/es.jpg" alt=""> <a href="http://www.gtoptions.com/lang.php?lng=SPA">Español</a></li>
+						<li><img border="0" src="images/header/lang/pt.png" alt=""> <a href="http://www.gtoptions.com/lang.php?lng=POR">Português</a></li>
 					</ul>
 				</div>
 				</div>
@@ -141,7 +150,7 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 					<div class="clear" style="height: 10px;">&nbsp;</div>
 					<div class="field" style="float: left;">
 						<a href="http://www.gtoptions.com/ForgotPassword">Forgot Password?</a><br>
-						<a href="http://www.gtoptions.com/OpenAccount">Sign up for an Account</a>
+						<a href="http://www.gtoptions.com/users.php?act=form">Sign up for an Account</a>
 					</div>
 					<div class="field" style="float:right;"><input type="image" src="images/header/login_btnENG.jpg" onmouseover="this.src='images/header/login_btnENG_over.jpg';" onmouseout="this.src='images/header/login_btnENG.jpg';"></div>
 					</form>
@@ -162,8 +171,8 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 					<ul></ul>
 				</li>
 <li><img border="0" src="images/header/menu/pin.png" alt=""></li><li>
-					<a href="http://www.gtoptions.com/OpenAccount">Account</a>
-					<ul><li><a href="http://www.gtoptions.com/OpenAccount">Open Account</a>
+					<a href="http://www.gtoptions.com/users.php?act=form">Account</a>
+					<ul><li><a href="http://www.gtoptions.com/users.php?act=form">Open Account</a>
 			</li><li><a href="http://www.gtoptions.com/gto-classic-account">GTO Classic Account</a>
 			</li><li><a href="http://www.gtoptions.com/gto-mini-account">GTO Mini Account</a>
 			</li><li><a href="http://www.gtoptions.com/gto-gold-account">GTO Gold Account</a>
@@ -171,7 +180,7 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 			</li></ul>
 				</li>
 <li><img border="0" src="images/header/menu/pin.png" alt=""></li><li>
-					<a href="http://www.gtoptions.com/OpenAccount">Trading</a>
+					<a href="http://www.gtoptions.com/users.php?act=form">Trading</a>
 					<ul><li><a href="http://www.gtoptions.com/why-gtoptions">Why GTOptions?</a>
 			</li><li><a href="http://www.gtoptions.com/safety-of-funds">Safety Of Funds</a>
 			</li><li><a href="http://www.gtoptions.com/privacy">Privacy Policy</a>
@@ -204,7 +213,7 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 			</li><li><a href="http://www.gtoptions.com/personal-broker">Personal Broker</a>
 			</li><li><a href="http://www.gtoptions.com/software-walk-through">Software Walk Through</a>
 			</li><li><a href="http://www.gtoptions.com/chat-with-a-broker">Chat With A broker</a>
-			</li><li><a href="http://www.blog.gtoptions.com/" rel="noFollow">markets review</a>
+			</li><li><a href="http://www.blog.gtoptions.com/" rel="noFollow">Markets Review</a>
 			<ul><li><a href="http://www.blog.gtoptions.com/" rel="noFollow">GTOptions blog</a></li><li><a href="http://www.gtoptions.com/currencies">Currencies</a></li><li><a href="http://www.gtoptions.com/stocks">Stocks</a></li><li><a href="http://www.gtoptions.com/commodities">Commodities</a></li><li><a href="http://www.gtoptions.com/indices">Indices</a></li><li><a href="http://www.blog.gtoptions.com/article.php?act=cat&amp;id=1001&amp;first=1" rel="noFollow">Daily Market Review</a></li><li><a href="http://www.blog.gtoptions.com/article.php?act=cat&amp;id=1000&amp;first=1" rel="noFollow">Weekly Market Review</a></li><li><a href="http://www.gtoptions.com/economic-calendar">Economic calendar</a></li></ul></li></ul>
 				</li>
 <li><img border="0" src="images/header/menu/pin.png" alt=""></li><li>
@@ -212,6 +221,7 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 					<ul><li><a href="http://www.gtoptions.com/about-us">About Us</a>
 			</li><li><a href="javascript:openChat();" rel="noFollow">Live Chat</a>
 			</li><li><a href="http://www.gtoptions.com/terms-of-use">Terms And Conditions </a>
+			</li><li><a href="http://www.gtoptions.com/content.php?id=1046">KYC Policy</a>
 			</li><li><a href="http://www.gtoptions.com/ContactUs">Contact Us</a>
 			</li></ul>
 				</li>
@@ -222,7 +232,7 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 </div>
 <div class="clear">&nbsp;</div>
 <div class="currency">
-	<div class="currencies-holder" style="position: relative;"><div class="call">S&amp;P FUTURE <span>1800.8750</span> (20:20 25.11)</div><div class="sep">&nbsp;</div><div class="put">TWITTER <span>39.2950</span> (20:00 25.11)</div><div class="sep">&nbsp;</div><div class="put">DOLLAR INDEX F. <span>80.958</span> (20:00 25.11)</div><div class="sep">&nbsp;</div><div class="put">TSX 60 <span>779.470</span> (20:00 25.11)</div><div class="sep">&nbsp;</div><div class="put">3M <span>131.065</span> (20:00 25.11)</div><div class="sep">&nbsp;</div><div class="put">BLACKBERRY <span>6.2550</span> (20:00 25.11)</div><div class="sep">&nbsp;</div><div class="put">NASDAQ VS APPLE <span>7.61510</span> (20:00 25.11)</div><div class="sep">&nbsp;</div><div class="put">APPLE VS AMAZON <span>1.39522</span> (20:00 25.11)</div><div class="sep">&nbsp;</div><div class="put">CITIGROUP VS AIG <span>1.07248</span> (20:00 25.11)</div><div class="sep">&nbsp;</div><div class="call">FACEBOOK  <span>44.8850</span> (20:00 25.11)</div><div class="sep">&nbsp;</div><div class="put">CITIGROUP VS JP MORGAN CHASE <span>0.92473</span> (20:00 25.11)</div><div class="sep">&nbsp;</div><div class="put">GOLD VS SILVER <span>62.3534</span> (20:00 25.11)</div><div class="sep">&nbsp;</div><div class="put">APPLE VS GOOGLE <span>0.49975</span> (20:00 25.11)</div><div class="sep">&nbsp;</div><div class="put">STARBUCKS <span>80.7150</span> (20:00 25.11)</div><div class="sep">&nbsp;</div><div class="put">TZA-SHORT X3 <span>18.9850</span> (20:00 25.11)</div><div class="sep">&nbsp;</div><div class="call">TNA-LONG X3 <span>71.8200</span> (20:00 25.11)</div><div class="sep">&nbsp;</div><div class="call">MASTERCARD <span>757.8450</span> (20:00 25.11)</div><div class="sep">&nbsp;</div><div class="put">GROUPON <span>9.1450</span> (20:00 25.11)</div><div class="sep">&nbsp;</div><div class="put">GENERAL MOTORS <span>37.7650</span> (20:00 25.11)</div><div class="sep">&nbsp;</div><div class="put">MICROSOFT <span>37.72</span> (20:00 25.11)</div><div class="sep">&nbsp;</div><div class="put">FAZ-SHORT BANKS <span>23.1750</span> (20:00 25.11)</div><div class="sep">&nbsp;</div><div class="put">GBP/CAD <span>1.70452</span> (20:00 25.11)</div><div class="sep">&nbsp;</div><div class="put">EUR/AUD <span>1.47602</span> (20:00 25.11)</div><div class="sep">&nbsp;</div><div class="call">GOLD/EUR <span>926.043</span> (20:00 25.11)</div><div class="sep">&nbsp;</div><div class="call">BOEING <span>133.1250</span> (20:00 25.11)</div><div class="sep">&nbsp;</div><div class="call">WYNN RESORTS <span>163.5500</span> (20:00 25.11)</div><div class="sep">&nbsp;</div><div class="call">LAS VEGAS SANDS <span>70.3350</span> (20:00 25.11)</div><div class="sep">&nbsp;</div><div class="call">AUD/JPY <span>93.084</span> (20:00 25.11)</div><div class="sep">&nbsp;</div><div class="call">EUR/CAD <span>1.42657</span> (20:00 25.11)</div><div class="sep">&nbsp;</div><div class="put">LINKEDIN <span>216.6800</span> (20:00 25.11)</div></div>
+	<div class="currencies-holder" style="position: relative;"><div class="call">SAUDI BASIC INDS <span>116.0833</span> (12:20 14.06)</div><div class="sep">&nbsp;</div><div class="call">SAUDI REFINERIES <span>75.4167</span> (12:20 14.06)</div><div class="sep">&nbsp;</div><div class="call">SAUDI BASIC INDS <span>116.0833</span> (10:00 14.06)</div><div class="sep">&nbsp;</div><div class="call">SAUDI REFINERIES <span>75.4167</span> (10:00 14.06)</div><div class="sep">&nbsp;</div><div class="put">TSX 60 <span>856.600</span> (20:30 13.06)</div><div class="sep">&nbsp;</div><div class="put">GOLD VS OIL <span>11.9578</span> (20:00 13.06)</div><div class="sep">&nbsp;</div><div class="put">AMAZON VS NETFLIX <span>0.76265</span> (20:00 13.06)</div><div class="sep">&nbsp;</div><div class="put">LINKEDIN VS TWITTER <span>4.5955</span> (20:00 13.06)</div><div class="sep">&nbsp;</div><div class="put">FACEBOOK VS TWITTER <span>1.74766</span> (20:00 13.06)</div><div class="sep">&nbsp;</div><div class="put">GOOGLE VS BAIDU <span>3.09770</span> (20:00 13.06)</div><div class="sep">&nbsp;</div><div class="put">AMAZON VS EBAY <span>6.6516</span> (20:00 13.06)</div><div class="sep">&nbsp;</div><div class="put">TWITTER <span>36.8750</span> (20:00 13.06)</div><div class="sep">&nbsp;</div><div class="put">LINKEDIN VS FACEBOOK <span>2.6295</span> (20:00 13.06)</div><div class="sep">&nbsp;</div><div class="put">S&amp;P 500 F VS NASDAQ F <span>0.5125</span> (20:00 13.06)</div><div class="sep">&nbsp;</div><div class="put">VIX  <span>12.0900</span> (20:00 13.06)</div></div>
 	<script type="text/javascript">
 		$(document).ready(function(){
 			$('.currencies-holder').marquee({
@@ -230,6 +240,7 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 				gap: 50,
 				direction: 'left',
 				duplicated: true,
+				delayBeforeStart: 0,
 				pauseOnHover: true
 				});
 			})
@@ -290,7 +301,7 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 <p>
 	<br>
 	<strong>If you have any questions please contact us at </strong><a href="mailto:support@GTOptions.com" rel="noFollow">support@GTOptions.com</a></p>
-<div align="right" style="margin-top: 20px;"><a href="http://www.gtoptions.com/OpenAccount"><img src="files/btns/1367142935j35WD.jpg" style="border: 0;" alt="" onmouseover="this.src='files/btns/1367142935C35Pt.jpg';" onmouseout="this.src='files/btns/1367142935j35WD.jpg';"></a></div>
+<div align="right" style="margin-top: 20px;"><a href="http://www.gtoptions.com/users.php?act=form"><img src="files/btns/1367142935j35WD.jpg" style="border: 0;" alt="" onmouseover="this.src='files/btns/1367142935C35Pt.jpg';" onmouseout="this.src='files/btns/1367142935j35WD.jpg';"></a></div>
 									</div>
 								</div>
 							</div>
@@ -304,7 +315,7 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 								<a href="http://www.gtoptions.com/ContactUs" class="icons freecall"></a>
 							</div>
 							<div class="banners">
-								<div class="r_banners"><a href="http://www.gtoptions.com/OpenAccount"><img src="files/btns/1367845499b99FK.jpg" style="border: 0;" alt="" onmouseover="this.src='files/btns/1367845499w99Vw.jpg';" onmouseout="this.src='files/btns/1367845499b99FK.jpg';"></a></div><div class="r_banners"><a href="http://www.gtoptions.com/refer-friend"><img src="files/btns/1367842864n64Wl.png" style="border: 0;" alt="" onmouseover="this.src='files/btns/1367846343C43NJ.png';" onmouseout="this.src='files/btns/1367842864n64Wl.png';"></a></div>
+								<div class="r_banners"><a href="http://www.gtoptions.com/users.php?act=form"><img src="files/btns/1367845499b99FK.jpg" style="border: 0;" alt="" onmouseover="this.src='files/btns/1367845499w99Vw.jpg';" onmouseout="this.src='files/btns/1367845499b99FK.jpg';"></a></div><div class="r_banners"><a href="http://www.gtoptions.com/refer-friend"><img src="files/btns/1367842864n64Wl.png" style="border: 0;" alt="" onmouseover="this.src='files/btns/1367846343C43NJ.png';" onmouseout="this.src='files/btns/1367842864n64Wl.png';"></a></div>
 							</div>
 						</div></div>
 	</div>
@@ -330,7 +341,7 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 		<div align="left" class="floats_div">
 			<div class="column">
 				<div class="title">Trading</div>
-				<a href="http://www.gtoptions.com/trading">Trading</a><a href="http://www.gtoptions.com/OpenAccount">Open Live Account</a><a href="http://www.gtoptions.com/payment-methods">Payment Methods</a><a href="http://www.gtoptions.com/withdrawal-methods">Withdrawal Methods</a><a href="http://www.gtoptions.com/getting-started">Getting Started</a>
+				<a href="http://www.gtoptions.com/trading">Trading</a><a href="http://www.gtoptions.com/users.php?act=form">Open Live Account</a><a href="http://www.gtoptions.com/payment-methods">Payment Methods</a><a href="http://www.gtoptions.com/withdrawal-methods">Withdrawal Methods</a><a href="http://www.gtoptions.com/getting-started">Getting Started</a>
 			</div><div class="column">
 				<div class="title">Trading Products</div>
 				<a href="http://www.gtoptions.com/currencies">Currencies</a><a href="http://www.gtoptions.com/stocks">Stocks</a><a href="http://www.gtoptions.com/commodities">Commodities</a><a href="http://www.gtoptions.com/indices">Indices</a><a href="http://www.gtoptions.com/how-trade">How to start trading?</a>
@@ -345,14 +356,17 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 				<a href="http://aff.binaryaffiliatesgroup.com/" rel="noFollow" target="_blank">Affiliate Program</a><a href="http://www.gtoptions.com/introducing-brokers">Introducing brokers</a><a href="http://www.gtoptions.com/white-labels">White Labels</a><a href="http://www.gtoptions.com/refer-friend">Refer A friend</a>
 			</div><div class="column">
 				<div class="title">Broker Support</div>
-				<a href="http://www.gtoptions.com/chat-with-a-broker">Chat With A broker</a><a href="http://www.gtoptions.com/software-walk-through">Software Walk Through</a><a href="http://www.gtoptions.com/live-chat">Live Chat</a><a href="http://www.gtoptions.com/personal-broker">Personal Broker</a>
+				<a href="http://www.gtoptions.com/chat-with-a-broker">Chat With A broker</a><a href="http://www.gtoptions.com/software-walk-through">Software Walk Through</a><a href="http://www.gtoptions.com/live-chat">Live Chat</a><a href="http://www.gtoptions.com/personal-broker">Personal Broker</a><a href="http://www.gtoptions.com/terms-of-use">Terms And Conditions </a><a href="http://www.gtoptions.com/content.php?id=1046">KYC Policy</a>
 			</div>
 		</div>
 		<div class="clear">&nbsp;</div>
 		<div class="disk_des">
 			<p>
 	<u>Important Risk Note:</u> Trading binary options can generate significant benefits but also involves a risk of partial or full funds loss and should be considered by initial investors. we strongly advise that you read our terms &amp; conditions and disclaimer page before making any investment. customers must be aware of their individual capital gain tax liability in their country of residence.</p>
+<p>
+	It is against the law to solicit U.S. persons to buy and sell commodity options, even if they are called 'prediction' contracts, unless they are listed for trading and traded on a CFTC-registered exchange or unless legally exempt.</p>
 
+			
 		</div>
 		<div style="padding-top: 10px;"><img border="0" src="images/cc.png" alt=""><a href="javascript:openSSL();" rel="noFollow"><img border="0" src="images/footer_ssl_02.png" alt="GTOptions Secured By GeoTrust"></a></div><a href="javascript:openSSL();" rel="noFollow">
 	</a></div><a href="javascript:openSSL();" rel="noFollow">
@@ -400,7 +414,7 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 <div style="position: absolute; right: 0; top: 186px;">
 	<div id="cieWZ2" style="z-index:100;position:absolute"></div>
 	<div id="sceWZ2" style="display:inline"></div>
-	<div id="sdeWZ2" style="display:none"><script type="text/javascript" src="https://image.providesupport.com/js/0y66yvaw7hcxe1gkr5c9v8iccl/safe-standard.js?ps_h=eWZ2&amp;ps_t=1582537772765"></script></div>
+	<div id="sdeWZ2" style="display:none"><script type="text/javascript" src="https://image.providesupport.com/js/0y66yvaw7hcxe1gkr5c9v8iccl/safe-standard.js?ps_h=eWZ2&amp;ps_t=1582537777257"></script></div>
 	<script type="text/javascript">var seeWZ2=document.createElement("script");seeWZ2.type="text/javascript";var seeWZ2s=(location.protocol.indexOf("https")==0?"https":"http")+"://image.providesupport.com/js/0y66yvaw7hcxe1gkr5c9v8iccl/safe-standard.js?ps_h=eWZ2&ps_t="+new Date().getTime();setTimeout("seeWZ2.src=seeWZ2s;document.getElementById('sdeWZ2').appendChild(seeWZ2)",1)</script><noscript></noscript>
 </div>
 	<script type="text/javascript">
