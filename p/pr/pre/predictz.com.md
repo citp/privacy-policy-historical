@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the predictz.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204004843id_/http%3A//www.predictz.com/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the predictz.com privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614171240id_/http%3A//www.predictz.com/privacy-and-cookie-policy) for the most accurate reproduction.*
 
 # predictZ.com - Privacy and Cookie Policy
 
@@ -113,6 +113,7 @@ Cookie Name| Purpose
 r | This is a cookie that stores the region of the world that you are browsing our website from. For example, Europe. This cookie helps us tailor our content to users from that region.  
 c | This is a cookie that stores the country in the world that you are browsing our website from. For example, UNITED KINGDOM. This cookie helps us tailor our content to users from that country.  
 n | This is a cookie that stores the number of times that PredictZ.com has attempted to determine your country. For example, 1. This cookie helps us tailor our content to users from that country and helps us to stop trying to determine your country if we cannot do so.  
+b | This is a cookie that stores the preference for the bookmaker you wish to view odds for. For example, 1. This cookie allows the website user to view bet365 odds only on our predictions today and tomorrow pages.  
 ASPSESSIONID | Cookie that begin with ASPSESSIONID are integral to the programming language that our website is coded in. These cookies help our web server establish that you are the same user when you browse from page to page (i.e. they help our web server identify your 'session'. Session cookies are almost always deleted when you exit your browser and are only meant to help our web server identify your session while you browse our website, and help you by performing actions such as cacheing pages that you might visit multiple times within the same session.  
   
 3rd Party Cookies
