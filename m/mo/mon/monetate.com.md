@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monetate.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229144839id_/http%3A//monetate.com/platform-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monetate.com privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614170210id_/http%3A//monetate.com/platform-policy) for the most accurate reproduction.*
 
 # Platform Privacy Policy | Monetate
 
