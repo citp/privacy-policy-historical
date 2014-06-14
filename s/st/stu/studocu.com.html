@@ -1,0 +1,337 @@
+<!--The following is the downloaded HTML source of the studocu.com privacy policy that was archived on 2014-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140615013525id_/http%3A//www.studocu.com/privacy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" style="display: block;"><head>
+<!-- STYLES
+================================================== -->
+<link rel="stylesheet" type="text/css" href="http://www.studocu.com/styles/bootstrap-211/css/bootstrap.css?update=1347628546">
+<link rel="stylesheet" media="screen" href="http://www.studocu.com/script/colorbox/example1/colorbox.css">
+<link rel="stylesheet" type="text/css" href="http://www.studocu.com/styles/studeersnel.css?update=1401099720">
+<link rel="stylesheet" type="text/css" href="http://www.studocu.com/script/chosen_v1_1_0/chosen.css">
+
+<link rel="stylesheet" type="text/css" href="http://www.studocu.com/styles/language/studocu.css?update=1349794175">
+<link rel="shortcut icon" href="http://www.studocu.com/favicon.ico" type="image/x-icon">
+
+<!-- JAVASCRIPT
+================================================== -->
+<!-- Jquery -->
+<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<!-- Jquery UI -->
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.9.0/jquery-ui.min.js"></script>
+<!-- Colorbox -->
+<script src="http://www.studocu.com/script/colorbox/jquery.colorbox.js"></script>
+<!-- Dropdown opmaker -->
+<script src="http://www.studocu.com/script/chosen_v1_1_0/chosen.jquery.js" type="text/javascript"></script>
+<!-- Watermark voor oude IE (zonder placeholder) -->
+<script src="http://www.studocu.com/script/watermark.js"></script>
+<!-- Hoverintent -->
+<script src="http://www.studocu.com/script/jquery.hoverintent.js"></script>
+<!-- Google Analytics -->
+<script src="http://www.studocu.com/script/google-analytics.js"></script>
+<!-- Searchtype Dropdown -->
+<script src="http://www.studocu.com/script/searchtype_dropdown.js"></script>
+<!-- Userbar popup menu's -->
+<script src="http://www.studocu.com/script/userbar_dropdown_menu.js"></script>
+<!-- User menu slideout menu -->
+<script src="http://www.studocu.com/script/user_menu.js"></script>
+<!--Bootstrap javascript -->
+<script type="text/javascript" src="http://www.studocu.com/script/bootstrap.js"></script>
+<!--Bootbox alert/confirm e.d. -->
+<script type="text/javascript" src="http://www.studocu.com/script/bootbox.js"></script>
+
+<script>
+$(document).ready(function(){
+	<!-- Feedback geven -->
+	$('#feedback').colorbox({href:"/colorbox/feedback.php"});
+	$('#report').colorbox({href:"/colorbox/report.php"});
+
+	$("#search").Watermark("Search...");
+
+	// Initialize bootstrap tooltips
+	$("[data-toggle='tooltip']").tooltip();
+
+	$(".language").click(function() {
+		var lan = $(this).attr('lan');
+		$.post('http://www.studocu.com/ajax/change_language.php',
+			{lan:lan},
+			function(data){
+				location.reload();
+			}
+		);
+	});
+
+	$(".location").click(function() {
+		var loc = $(this).attr('loc');
+		$.post('http://www.studocu.com/ajax/change_location.php',{loc:loc},
+			function(data){
+				window.location = 'http://' + loc +'.studocu.com';
+			}
+		);
+	});
+
+	$(".close").click(function() {
+		$("#alertbar").slideUp();
+	});
+
+
+	
+});
+
+function show_alert(msg) {
+	$("#alertbar_container .content").html(msg);
+	$("#alertbar").slideDown();
+}
+</script>
+
+<!-- METADATA
+================================================== -->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="description" content="Free Summaries, Old Exams, Lecture Notes &amp; Solutions">
+<meta name="keywords" content="exam, old exams, summaries, lecture notes, reports, solutions, books, second hand, university, college">
+<meta property="og:title" content="StuDocu.com">
+<meta property="og:description" content="Free Summaries, Old Exams, Lecture Notes &amp; Solutions">
+<meta property="og:type" content="website">
+<meta property="og:url" content="http://www.studocu.com">
+<link href="http://www.studocu.com/images/sd_logo_square.png" rel="image_src">
+<meta property="og:image" content="http://www.studocu.com/images/sd_logo_square.png">
+<meta property="og:site_name" content="StuDocu.com">
+<meta property="fb:admins" content="1818070932">
+<meta name="google-site-verification" content="3PQLILURuCgCigjHZLZgG7whI2_I4p85rMWFN3iI1u4">
+
+<title>StuDocu.com | Free Summaries, Old Exams, Lecture Notes &amp; Solutions</title>
+</head>
+
+<body>
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+  FB.init({
+    appId      : '504628762969867',
+    status     : false, // check login status
+    cookie     : true, // enable cookies to allow the server to access the session
+	channelUrl : '//www.studocu.com/script/facebook/channel.html', // Channel File
+    xfbml      : true  // parse XFBML
+  });
+
+FB.Event.subscribe('auth.authResponseChange', function(response) {
+if (response.status === 'connected') {
+	$(".fb_signin").parent().html($(".fb_signin").parent().html() + '<img class="loader" style="padding:7px;" src="http://www.studocu.com/images/ajax-loader.gif">');
+	$(".fb_signin").hide();
+	  FB.api('/me', function(user_data) {
+		  $.ajax({
+			type: "POST",
+			url: "http://www.studocu.com/ajax/facebook_login.php",
+			data: { signed_request: response.authResponse.signedRequest, user_data: user_data }
+			})
+			.done(function(signin) {
+				var signin_result = jQuery.parseJSON(signin);
+				if(signin_result.auth == 'ok') {
+					if(signin_result.status >= 1) {
+						// Auth ok & account active, reload page
+													if(signin_result.location == '' || signin_result.location == 'international')
+							{
+								signin_result.location = 'www';
+							}
+							window.location = 'http://' + signin_result.location +'.studocu.com' + window.location.pathname;
+											} else if(signin_result.status == 0) {
+						// Auth ok & account not active, forward to activate
+						window.location.replace("/activate.php?method=facebook");
+					}
+				} else if(signin_result.auth != 'ok') {
+					show_alert(signin_result.error);
+					$(".loader").hide();
+					$(".fb_signin").show();
+				}
+			});
+		});
+}
+});
+};
+
+// Load the SDK asynchronously
+(function(d){
+var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+if (d.getElementById(id)) {return;}
+js = d.createElement('script'); js.id = id; js.async = true;
+js.src = "//connect.facebook.net/en_US/all.js";
+ref.parentNode.insertBefore(js, ref);
+}(document));
+
+$(document).ready(function(){
+	// Signout function
+	$('.signout').click(function(){
+		FB.logout();
+
+		$.ajax({
+		type: "POST",
+		url: "http://www.studocu.com/ajax/logout.php"
+		})
+		.done(function( msg ) {
+							window.location = 'http://www.studocu.com' + window.location.pathname;
+					});
+	});
+
+	// Facebook signin function
+	var facebook_bootbox;
+	function fb_signin() {
+
+		//event.preventDefault();
+		FB.login(function(response) {
+		 }, {scope: 'email'})
+		facebook_bootbox = 1;
+	}
+	$(document).on('click', '.fb_signin' ,function(){
+		fb_signin();
+		if(facebook_bootbox != 1)
+		{
+			//bootbox.alert("HOI!!!");
+		}
+	});
+
+	$("#fb_header_login").click(function () {
+		fb_signin();
+    });
+});
+</script>
+
+
+
+<div class="content_wrapper">
+<div id="header_wrapper">
+	<div id="alertbar">
+    	<div id="alertbar_container">
+        	<span class="content"></span><button type="button" class="close" data-dismiss="alert">×</button>
+    	</div>
+    </div>
+	<div id="userbar">
+		<div id="userbar_container">
+			<div id="userbar_content_left">
+				<form name="search_form" id="search_form" method="get" action="http://www.studocu.com/search.php" style="margin:0px;">
+				                    <div class="input-prepend input-append search-container">
+						<div id="searchTypeWrapper">
+							<span class="add-on" id="searchTypeSelector">
+								<div id="search_name" style="float:left">Courses</div> <div style="float:right"><i class="icon-chevron-down"></i></div>
+							</span>
+
+							<div id="searchTypeContainer" class="dropdown-menu">
+								<label class="radio"><strong>Search in:</strong></label>
+								<label class="radio">
+								<input type="radio" name="searchType" id="optionsRadios1" value="optionsRadios1" onchange="focus_search('Courses')" checked="checked">
+								Courses								</label>
+								<label class="radio">
+								<input type="radio" name="searchType" id="optionsRadios2" value="optionsRadios2" onchange="focus_search('Documents')">
+								Documents								</label>
+								<!--
+                                <label class="radio">
+
+								<input type="radio" name="searchType" id="optionsRadios3" value="optionsRadios3" onchange="focus_search('')" >
+																</label>-->
+								<label class="radio">
+								<input type="radio" name="searchType" id="optionsRadios4" value="optionsRadios4" onchange="focus_search('Users')">
+								Users								</label>
+							</div>
+						</div>
+                        <input type="text" id="search" name="search" maxlength="50" autocomplete="off" value="">
+                        <span class="add-on" onclick="$('#search_form').submit();" style="cursor:pointer"><img src="http://www.studocu.com/images/magnifier.png" alt="Search"></span>
+                    </div>
+                </form>
+			</div>
+
+			<div id="userbar_content_right">
+				<div style="float:right" class="userbar_content">
+											<div class="userbar-button">Already got an account? Log in!
+							<div class="userbar-dropdown" style="width:280px;">
+                            	<div style="text-align:center;">
+                                	<button id="fb_header_login" class="btn btn-primary fb_signin"><img src="/images/fb_button_icon.png" width="14" height="14" style="margin-right:14px;">Log in with Facebook</button>
+                                </div>
+                                <div class="horizontal-separator">
+                                    <span class="separator-text">Or log in using an e-mail adress</span>
+                                </div>
+								<form method="post" id="signin" action="http://www.studocu.com/account.php?action=login">
+									<input name="username" value="" title="username" tabindex="20" type="text" maxlength="100" class="input-block-level" placeholder="E-mail address">
+									<input name="password" value="" title="password" tabindex="21" type="password" maxlength="40" class="input-block-level" placeholder="Password">
+                                    <label for="remember">
+                                        <input id="remember" name="remember_me" checked="checked" value="1" tabindex="22" type="checkbox"> Stay logged in                                    </label>
+                                    <br>
+                                    <button class="btn btn-success" id="signin_submit" tabindex="23" type="submit">Log in</button>
+								</form>
+
+								<a id="forgot_username_link" title="New to StuDocu.com? Register now!" href="http://www.studocu.com/aanmelden" style="font-size:12px; color:#3399dd">Register</a>
+								&nbsp;&nbsp;|&nbsp;&nbsp;
+								<a href="/lostpass.php" id="resend_password_link" style="font-size:12px; color:#3399dd">Forgot your login credentials?</a>
+							</div>
+						</div>
+
+
+
+						
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div id="header_main">
+    	<a id="header_logo_full" href="/"></a>	</div>
+	<div id="header_spacer"></div>
+</div>
+<div class="clearfix"></div>
+<div id="feedback"></div>
+<div class="top_content"></div>
+<div class="content" style="padding:20px 50px 20px 50px; width:880px;">
+
+<h1>StuDocu - Privacy Policy</h1><hr><h4 style="margin: 10px 0px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 20px; color: rgb(51, 51, 51); text-rendering: optimizelegibility; font-size: 14px;">Introduction</h4>It is a great importance for StuDocu.com to protect the privacy of users and visitors on our website. Information that StuDocu.com will generate about you will be treated with the utmost care and security. StuDocu.com abides strictly with all applicable laws and regulations, including the Data Protection Act (WBP). For questions or comments about our privacy and cookie policy, please feel free to contact StuDocu.com via the contact form!<br><br><strong><span style="font-size:14px;">Processed data</span></strong><br><br><strong>Information you provide to us.</strong>&nbsp;To use our services, you must register for an account. The account information will provide personal details such as your name, email address or telephone number. If you want to take full advantage of the features we offer you can also create a visible profile that can include your name and photo.<br><strong>Information we receive based on your use of our services</strong>. We may collect information about the services that you use and how you use them. This could include the courses you have undertaken, how many and what files you have downloaded.<br><br><strong><span style="font-size:14px;">Data storing</span></strong><br><br>We collect information to collaborate with all of our users which will therefore offer a better service overall. By saving the details of the courses you are take and the year you are in at university, we could use this information to personalize the website which will improve the site by becoming more user friendly.<br><br>Our purpose is not to share the stored data with third parties. As mentioned we may use the email addresses to share important information with our users. Our emails may contain information about our partners.<br><br><span style="font-size:14px;"><strong>Google Analytics</strong></span><br><br>StuDocu.com uses Google Analytics, a web analytics service provided by Google Inc. ("Google "). Google Analytics uses "cookies " (small text files placed on your computer) to help analyze how users work on the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted and stored by Google on servers in the United States. Google transmits this data information on your use of the website to web operators and provides other services related to internet activity and usage. Reports on website activity for Google may also transfer this information to third parties if Google is required to do so by law, or if such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You can refuse cookies by changing the settings on your browser. &nbsp;However, we point out that you can possibly not use all features of this website if this is the case.<br>&nbsp;<br>By using our website, you consent to the processing of data on you web browsing by Google in the manner and for the purposes set out above.<br><br><span style="font-size:14px;"><strong>Change of Privacy Policy</strong></span><br><br>It is not inconceivable that the privacy and cookie policy of StuDocu.com in the near future will be extended or modified. We advise you to check this page regularly. When the changes are very radical in nature, we will make sure that these are communicated to you in a clear and concise manner .
+</div>
+
+<div class="bottom_content"></div>	
+
+	<script>
+	$(document).ready(function(){
+		$("#language_btn").click(function(){
+			$("#language_select").slideToggle();
+		});
+					$("#location_btn").click(function(){
+				$("#location_select").slideToggle();
+			});
+			});
+	</script>
+	<div class="push"></div>
+</div>
+        
+<div id="footer" class="footer">
+    <div class="footer_content">
+        <div id="footer_logo"></div>
+        <div class="footer_button"><button id="language_btn" class="btn"><i class="icon-comment"></i> Language: English</button></div>
+                	<div class="footer_button"><button id="location_btn" class="btn"><i class="icon-globe"></i> Country: International</button></div>
+                <br style="clear:both;">
+        <div id="language_select" style="height:50px;">
+            <hr>
+            <div class="language_container">Choose your language:</div>
+            <div class="language_container"><img src="/images/icons/flags/nl.png" alt="nl"> <a href="#" class="language" lan="nl">NL</a></div><div class="language_container"><img src="/images/icons/flags/en.png" alt="en"> <a href="#" class="language" lan="en">EN</a></div><div class="language_container"><img src="/images/icons/flags/es.png" alt="es"> <a href="#" class="language" lan="es">ES</a></div><div class="language_container"><img src="/images/icons/flags/de.png" alt="de"> <a href="#" class="language" lan="de">DE</a></div><div class="language_container"><img src="/images/icons/flags/fr.png" alt="fr"> <a href="#" class="language" lan="fr">FR</a></div>            <br style="clear:both">
+            <hr>
+        </div>
+                        <div id="location_select" style="height:50px;">
+                    <hr>
+                        <div class="location_container">Choose your country:</div>
+                        <div class="location_container"><img src="/images/icons/flags/be.png" alt="be"> <a href="#" class="location" loc="be">Belgium</a></div><div class="location_container"><img src="/images/icons/flags/en.png" alt="gb"> <a href="#" class="location" loc="gb">United Kingdom</a></div><div class="location_container"><img src="/images/icons/flags/at.png" alt="at"> <a href="#" class="location" loc="at">Austria</a></div><div class="location_container"><img src="/images/icons/flags/de.png" alt="de"> <a href="#" class="location" loc="de">Germany</a></div><div class="location_container"><img src="/images/icons/flags/es.png" alt="es"> <a href="#" class="location" loc="es">Spain</a></div><div class="location_container"><img src="/images/icons/flags/fr.png" alt="fr"> <a href="#" class="location" loc="fr">France</a></div><div class="location_container"><img src="/images/icons/flags/us.png" alt="us"> <a href="#" class="location" loc="us">United States</a></div>                    
+                    <br style="clear:both">
+                    <hr>
+                </div>
+                <div class="footer_info">
+        <a href="http://www.studocu.com/adverteren.php">Advertise</a>|
+        <a href="http://www.studocu.com/vacatures.php">Vacancies</a>|
+        <a href="http://www.studocu.com/privacy.php">Privacy policy</a>|
+        <a href="http://www.studocu.com/voorwaarden.php">Terms of service</a>|
+        <a href="http://www.studocu.com/faq.php">Help &amp; F.A.Q.</a>|
+        <a href="http://www.studocu.com/contact.php">Contact</a>
+                 |<a href="http://www.studocu.com">International website</a>
+        &nbsp;&nbsp;&nbsp;© StudeerSnel B.V. 2010 - 2014        </div>
+    </div>
+</div>
+<!-- Correct fb_xd_fragment Bug Start --> 
+<script> 
+document.getElementsByTagName('html')[0].style.display='block';
+</script>
+<!-- Correct fb_xd_fragment Bug End -->
+
+</body></html>
