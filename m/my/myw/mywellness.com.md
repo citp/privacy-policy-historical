@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mywellness.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207105709id_/http%3A//www.mywellness.com/cloud/en-GB/Terms/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mywellness.com privacy policy that was archived on 2014-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140615012528id_/http%3A//www.mywellness.com/cloud/en-GB/Terms/Privacy) for the most accurate reproduction.*
 
 # mywellness
 
@@ -6,7 +6,7 @@ This is the privacy policy for Technogym S.p.A, which is incorporated and locate
 
 * **The data we collect.**
 
-We collect data about you to help us provide the Service and for other purposes as described below. This includes your name, mailing address, phone number, email address, contact preferences, credit card information, or other information that permits us to contact you and provide the Service.
+We collect data about you to help us provide the Service and for other purposes as described below. This includes your name, mailing address, phone number, email address, contact preferences or other information that permits us to contact you and provide the Service.
 
 * **How we collect data.**
 
@@ -44,7 +44,7 @@ All personal data collected from you will be used for providing the Service to y
 
 In addition, we may use your financial information or payment method to process payments for any purchases, subscriptions or sales made on the Website or through the Service, to protect against or identify possible fraudulent transactions, and otherwise as needed to manage our business. If you would like to restrict the manner in which we use your information, please review "Your choices about collection and use of your information" and "Your rights" below.
 
-Where you decide to publish any of your data in the _community_ area of the Website (through selection of the option "public data" within your own profile), you are thereby agreeing and giving your consent that such data may be publicised and made freely available in the _community_ itself, which comprises all data subjects that have joined or who may join it in the future.
+Where you decide to publish any of your data in the _community_ area of the Website (through selection of the option "public data" within your own profile), you are thereby agreeing and giving your consent that such data may be publicized and made freely available in the _community_ itself, which comprises all data subjects that have joined or who may join it in the future.
 
 * **IP addresses and cookies.**
 
@@ -71,7 +71,7 @@ We want you to understand when and with whom we may share personal or other info
 
 We do not share your personal information with others except as indicated below or when we inform you and give you an opportunity to opt out of having your personal information shared. We may share personal information with:
 
-  * Authorized service providers: We may share your personal information with our authorized service providers that perform certain services on our behalf. These services may include processing credit card payments, providing customer service, performing business and sales analysis, supporting our website functionality, and supporting contests, sweepstakes, surveys and other features offered through our website. These service providers may have access to personal information needed to perform their functions but are not permitted to share or use such information for any other purposes.
+  * Authorized service providers: We may share your personal information with our authorized service providers that perform certain services on our behalf. These services may include providing customer service, performing business and sales analysis, supporting our website functionality, and supporting contests, sweepstakes, surveys and other features offered through our website. These service providers may have access to personal information needed to perform their functions but are not permitted to share or use such information for any other purposes.
   * Business partners: To the extent you submit any personal information in any request for services, reservation, or in response to promotions offered through the Site or our Services, we may share that information with the businesses with which we partner to offer you those products, services, promotions, contests and/or sweepstakes. When you elect to engage in a particular merchant's offer or program, you authorize us to provide your email address and other information to that merchant.
   * Direct mail partners. From time to time we may share our postal mailing list with selected providers of goods and services that may be of interest to you. If you prefer not to receive mailings from these providers, you can notify us at any time by clicking [here](http://www.mywellness.com/cloud/en-GB/UserSettings/NotificationSettings/).
 
@@ -121,15 +121,15 @@ Subject to your rights as specified under Section 130, your personal data will a
 
 * **Your choices about collection and use of your information.**
 
-When you register on our Site you may be given a choice as to whether you want to receive email messages and/or newsletters about product updates, improvements, special offers, or containing special distributions of content by us. At any time you can choose to no longer receive commercial or promotional emails or newsletters from us by clicking on the following link and entering the email address associated with your account: [link](http://www.mywellness.com/cloud/en-GB/UserSettings/NotificationSettings/). You also will be given the opportunity, in any commercial e-mail that we send to you, to opt out of receiving such messages in the future. It may take up to 10 days for us to process an opt-out request. We may send you other types of transactional and relationship e-mail communications, such as service announcements, administrative notices, and surveys, without offering you the opportunity to opt out of receiving them. Please note that, changing information in your account, or otherwise opting out of receipt of promotional email communications will only affect future activities or communications from us. If we have already provided your information to a third party (such as a credit card processing partner or an event provider) before you have changed your preferences or updated your information, you may have to change you preferences directly with that third party.
+When you register on our Site you may be given a choice as to whether you want to receive email messages and/or newsletters about product updates, improvements, special offers, or containing special distributions of content by us. At any time you can choose to no longer receive commercial or promotional emails or newsletters from us by clicking on the following link and entering the email address associated with your account: [link](http://www.mywellness.com/cloud/en-GB/UserSettings/NotificationSettings/). You also will be given the opportunity, in any commercial e-mail that we send to you, to opt out of receiving such messages in the future. It may take up to 10 days for us to process an opt-out request. We may send you other types of transactional and relationship e-mail communications, such as service announcements, administrative notices, and surveys, without offering you the opportunity to opt out of receiving them. Please note that, changing information in your account, or otherwise opting out of receipt of promotional email communications will only affect future activities or communications from us. If we have already provided your information to a third party before you have changed your preferences or updated your information, you may have to change you preferences directly with that third party.
 
 You may tell us not to share your personal information with third parties for direct marketing purposes by clicking on the following link and entering the email address associated with your account: [link](http://www.mywellness.com/cloud/en-GB/UserSettings/NotificationSettings/).
 
 * **Your rights.**
 
-Controller of your data processing is Technogym S.p.A., via Calcinaro no. 2861, 47522 Cesena (FC). Technogym has appointed Mywellness S.p.A. as data processor in outsourcing for the provision of the Service. You have the right to ask Technogym not to process your personal data for marketing purposes. We will inform you (before collecting your data) if we intend to use your data for such purposes. You can exercise your right to prevent such processing at the time you sign up for the Service or at any other time as provide above or by contacting us at [info@mywellness.com.](mailto:info@mywellness.com)
+Controller of your data processing is Technogym S.p.A., via Calcinaro no. 2861, 47522 Cesena (FC). Technogym has appointed Mywellness S.p.A. as data processor in outsourcing for the provision of the Service. You have the right to ask Technogym not to process your personal data for marketing purposes. We will inform you (before collecting your data) if we intend to use your data for such purposes. You can exercise your right to prevent such processing at the time you sign up for the Service or at any other time as provide above or by contacting us at info[at]mywellness.com.
 
-You have the right to access information held about you. Your right of access can be exercised by email to [legal@technogym.com](mailto:legal@technogym.com) or in writing to the above address of Technogym S.p.A. Your rights also entitle you (on written application) to:
+You have the right to access information held about you. Your right of access can be exercised by email to legal[at]technogym.com or in writing to the above address of Technogym S.p.A. Your rights also entitle you (on written application) to:
 
   * obtain the statement of the origin of your personal data, the purposes and methods of processing, the logic applied for any electronic processing, the details of the processor, the subjects or categories of subjects to whom the personal data may be given or who may be informed of the data;
   * update, correct or add to your data;
@@ -148,4 +148,4 @@ We reserve the right to change or modify this Privacy Policy. We will notify you
 
 * **Contact.**
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [legal@mywellness.com](mailto:legal@technogym.com). You may consult the list of the internal Privacy Managers appointed by Technogym in the relevant section of the website at [www.technogym.com](http://www.technogym.com/).
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to legal[at]mywellness.com. You may consult the list of the internal Privacy Managers appointed by Technogym in the relevant section of the website at [www.technogym.com](http://www.technogym.com/).
