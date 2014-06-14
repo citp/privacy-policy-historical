@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the coupay.com privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111171640id_/http%3A//www.coupay.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coupay.com privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614081723id_/http%3A//www.coupay.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **1\. Privacy Policy  
-**Coupay Holdings Pte Ltd, referred to below as COUPAY. At COUPAY, we value our relationship with our users of this website. We understand that you may be concerned about our collection, use, and disclosure of your personal information that we may collect when you use the COUPAY Web Site. As such, we have implemented this Privacy Policy to inform you of the information that we collect, how we collect this information and data, and what we do with it after we collect it. If you have any questions or comments regarding our Privacy Policy, please feel free to contact us at: [support@coupay.com](mailto:support@coupay.com)  
+**Coupay Holdings Pte Ltd, referred to below as COUPAY. At COUPAY, we value our relationship with our users of this website. We understand that you may be concerned about our collection, use, and disclosure of your personal information that we may collect when you use the COUPAY Web Site. As such, we have implemented this Privacy Policy to inform you of the information that we collect, how we collect this information and data, and what we do with it after we collect it. If you have any questions or comments regarding our Privacy Policy, please feel free to contact us at: [support@coupay.com](mailto:support@coupay.com "support@coupay.com")  
 **  
 2\. Email newsletter subscription  
 **All our newsletters contain a link to unsubscribe. You will not receive newsletters from us again if you choose to unsubscribe. In order to make our emails more relevant and useful to you, our servers may receive a confirmation when and if you have opened an email from COUPAY.  
@@ -27,4 +27,4 @@
 **PLEASE NOTE: If you have set your browser to reject cookies, you may not be able to use certain aspects of COUPAY - and will not be able to earn cashback.**
 
 **7.Changes to this Privacy Notice, conditions of use and notices  
-**This Privacy Notice and our Terms of Use may change over time and the use of information which we gather now is subject to these Notices and Terms as modified. 
+**This Privacy Notice and our Terms of Use may change over time and the use of information which we gather now is subject to these Notices and Terms as modified.
