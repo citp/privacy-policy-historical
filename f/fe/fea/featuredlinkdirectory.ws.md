@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the featuredlinkdirectory.ws privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213041324id_/http%3A//www.featuredlinkdirectory.ws//page/terms-and-conditions-1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the featuredlinkdirectory.ws privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614105857id_/http%3A//www.featuredlinkdirectory.ws//page/terms-and-conditions-1) for the most accurate reproduction.*
 
 # Terms and conditions
 
@@ -14,7 +14,7 @@ The following links are not allowed in our directory:
 \- spam websites  
 \- websites without any content
 
-We reserve the right to evaluate and decline any submission to keep our directory valid and useful. Every submission is human checked.
+We reserve the right to evaluate and decline any submission to keep our directory valid and useful. Every submission is human checked. Unless we decide otherwise, the links use rel="nofollow". 
 
  **Refund policy**
 
