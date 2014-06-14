@@ -1,18 +1,20 @@
-> *The following text is extracted and transformed from the marathonbet.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212220724id_/http%3A//help.marathonbet.com/en/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marathonbet.com privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614061924id_/http%3A//help.marathonbet.com/en/privacy_policy) for the most accurate reproduction.*
 
 # MARATHON. Help - Privacy Policy
 
+By agreeing to register with Marathonbet.com you accept our terms and conditions.
+
 ## Use of Information
 
-Registration with Marathonbet.com is mandatory if you wish to use this website.
+Registration with Marathonbet.com is mandatory if you wish to deposit and bet on this website.
 
 During the registration stage we will ask you for personal information. This will include your name, address, date of birth and contact details, such as your email and telephone number.
 
 You may update your personal information at any time in the My Account/Personal Details section of the website or by telephoning the Customer Care team. We will also ask you to enter a unique identification ID and a password which you will use for any subsequent logins on this website.
 
-As the internet is a global commodity, its use to collect and process information data may involve the transmission of this data on an international basis Therefore, by registering and using our website, you acknowledge and agree to our processing of your personal data in this way.
+As the internet is a global commodity, its use to collect and process information data may involve the transmission of this data on an international basis. Therefore, by registering and using our website, you acknowledge and agree to our processing of your personal data in this way.
 
-We may occasionally wish to contact you with information on promotional offers (such as Free bets), technical updates and new site features. If you wish to unsubscribe, please correct the correspondence check boxes on the My Preferences - Other Settings page accordingly. Alternatively, this can be done by contacting Customer Care.
+We may occasionally wish to contact you by email with information on promotional offers (such as Free bets), technical updates and new site features. If you wish to unsubscribe, please correct the correspondence check boxes on the My Account/Other Settings page accordingly. Alternatively, this can be done by contacting Customer Care. You may also select the “Click this link to unsubscribe” option at the foot of any promotional email that you may receive from us to prevent any future promotional marketing being sent to you via email.
 
 ## Cookies
 
@@ -30,7 +32,7 @@ There are also a number of additional security measures in place to protect the 
 
 ## Communications
 
-Marathon records all telephone calls and internet communications with customers for training, dispute resolution and security purposes. In specific circumstances recording(s) may be made available to arbitrators or regulatory authorities.
+In the interest of all customers Marathonbet shall record all telephone calls and internet communications with customers for training, dispute resolution and security purposes. When a dispute occurs which cannot be resolved by Marathonbet, the relevant recording(s) may be made available to arbitrators or authorities.
 
 ## Other Sites
 
@@ -40,6 +42,21 @@ The company reserves the right to amend this privacy policy at any time.
 
 ## Queries
 
-Should you have any queries about the use of information under this Privacy Policy, please contact us at [support@marathonbet.com](mailto:support@marathonbet.com)
+Should you have any queries about the use of information under this Privacy Policy, please contact us at:
 
- _Last Modified Date: 04/09/2013_
+**Email**
+
+[care@marathonbet.com](mailto:care@marathonbet.com)
+
+**Post**
+
+141 Davigdor Road  
+Hove  
+BN3 1RE  
+United Kingdom
+
+**Phone**
+
++44 1273 964706
+
+_Last Modified Date: 04/09/2013_
