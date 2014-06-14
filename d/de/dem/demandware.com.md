@@ -1,13 +1,15 @@
-> *The following text is extracted and transformed from the demandware.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221034658id_/https%3A//www.demandware.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the demandware.com privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614152211id_/http%3A//www.demandware.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## Demandware Privacy Policy
 
-Last Updated April 19, 2013
+Last Updated March 3, 2014
 
-The following policy describes the privacy practices for Demandware, Inc. and its affiliates ("Demandware").  
-[](http://www.export.gov/safeharbor)[](http://privacy.truste.com/privacy-seal/Demandware-Inc-/validation?rid=66ffd56c-16bb-41e6-b3d2-785d6d93dc0d)
+The following policy describes the privacy practices for Demandware, Inc. and its affiliates ("Demandware").
+
+  
+[](https://privacy.truste.com/privacy-seal/Demandware-Inc-/validation?rid=66ffd56c-16bb-41e6-b3d2-785d6d93dc0d "TRUSTe European Safe Harbor certification")
 
 Demandware respects the privacy of our customers, partners, employees, Web site visitors, and job applicants. We believe it is important for you to understand the type of information we collect about you and how that information is used. We recognize the need for appropriate safeguards and management of personal information you provide to us ("Personal Information"). This Privacy Policy sets forth the privacy principles Demandware follows with respect to your Personal Information.
 
@@ -20,7 +22,7 @@ The TRUSTe program covers only information that is collected through our Corpora
 **Safe Harbor**  
 Demandware participates in the US-EU Safe Harbor Privacy Framework and US-Swiss Safe Harbor Framework as set forth by the United States Department of Commerce regarding the transfer of Personal Information from European Union member countries and Switzerland to the United States. Demandware has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. More information about the U.S. Department of Commerce's Safe Harbor program and Demandware's certification can be found at <http://www.export.gov/safeharbor>.
 
-As part of our participation in the Safe Harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us by email at [privacy@demandware.com](mailto:privacy@demandware.com?subject=Privacy%20Policy). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by [Internet here](http://watchdog.truste.com/pvr.php?page=complaint&url=), fax to 415-520-3420, or mail to TRUSTe Safe Harbor Compliance Dept., [click for mailing address](http://www.truste.com/about_TRUSTe/contact_us.html). If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, [click here](http://watchdog.truste.com/pvr.php?page=complaint&url=) or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English. For human resources data we will cooperate with data protection authorities in relevant jurisdictions.
+As part of our [participation](http://export.gov/safeharbor/) in the Safe Harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us by email at [privacy@demandware.com](mailto:privacy@demandware.com?subject=Privacy%20Policy). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by [Internet here](http://watchdog.truste.com/pvr.php?page=complaint&url=), fax to 415-520-3420, or mail to TRUSTe Safe Harbor Compliance Dept., [click for mailing address](http://www.truste.com/about_TRUSTe/contact_us.html). If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, [click here](http://watchdog.truste.com/pvr.php?page=complaint&url=) or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English. For human resources data we will cooperate with data protection authorities in relevant jurisdictions.
 
 Any questions, comments or complaints about the data practices (including without limitation compliance with data privacy principles of notice, choice, onward transfer, access, security, data integrity, or enforcement) of one or our eCommerce Services customers or partners for whom Demandware processes data should be addressed to that customer or partner.
 
@@ -50,6 +52,8 @@ __Use of Your Personal Information__
 We use your Personal Information to provide you with information about Demandware and its products and services, including but not limited to webinars, newsletters, and job openings. You have the option to opt-out of any secondary communications such as promotional communications by clicking on "unsubscribe" on the bottom of any promotional emails.
 
 We do not share, sell, rent or trade your Personal Information to third parties for promotional purposes. However, we may disclose your Personal Information if we are required to do so by law or we in good faith believe that such action is necessary to (1) comply with the law or with legal process including court orders or subpoenas; (2) protect and defend our rights and property; (3) protect against misuse or unauthorized use of our Web sites or eCommerce Services; or (4) protect the personal safety or property of our users or the public (among other things, this means that if you provide false information or attempt to pose as someone else, information about you may be disclosed as part of any investigation into your actions).
+
+We may also disclose your personal information if we are involved in a merger, acquisition, or sale of all or a portion of our assets. We will notify you via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
 Other than as stated in this Privacy Policy, we will endeavor not to release your Personal Information to unknown or unaffiliated third parties, and we will not cross-reference your Personal Information with that of any other customer or entity.
 
@@ -82,7 +86,6 @@ If you choose to use our referral service to tell a friend about a job or to sha
 **Data Integrity**  
 As set forth above, Demandware will take reasonable steps to ensure that Personal Information is accurate, complete, and current to its intended use. Demandware will only use Personal Information in ways that are compatible with the purposes for which it was collected or subsequently authorized by you.
 
-  
 **Enforcement and Verification**  
 Demandware regularly reviews its compliance with this Privacy Policy. Please feel free to direct any questions or concerns regarding this Privacy Policy or Demandware's treatment of Personal Information by contacting us by email at [privacy@demandware.com](mailto:privacy@demandware.com).
 
@@ -98,7 +101,7 @@ Burlington, MA 01803 USA
 
 **Changes to This Privacy Policy**
 
-The practices described in this Privacy Policy are the current Personal Information protection policies as of April 19, 2013. Demandware, Inc. reserves the right to modify or amend this Privacy Policy at any time. If we make changes to this Privacy Policy that we believe to be material regarding our collection, use or disclosure of Personal Information, we will endeavor to post a prominent notice on our Corporate Sites at least thirty (30) days prior to our implementation of such material changes.
+The practices described in this Privacy Policy are the current Personal Information protection policies as of March 3, 2014. Demandware, Inc. reserves the right to modify or amend this Privacy Policy at any time. If we make changes to this Privacy Policy that we believe to be material regarding our collection, use or disclosure of Personal Information, we will endeavor to post a prominent notice on our Corporate Sites at least thirty (30) days prior to our implementation of such material changes.
 
 **DEMANDWARE COMMERCE SERVICES**
 
