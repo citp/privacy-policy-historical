@@ -1,82 +1,94 @@
-> *The following text is extracted and transformed from the crownaudio.com privacy policy that was archived on 2013-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131107032916id_/http%3A//www.crownaudio.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crownaudio.com privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614224145id_/http%3A//www.crownaudio.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Crown Audio, Inc. Privacy Policy**
+Please replace this text with you Privacy Policy. Please add any additional cookies your website uses below (e.g., Google Analytics) 
 
-Crown Audio, Inc. (Crown) takes your privacy seriously. Please read the following to learn more about our privacy policy.
+This privacy policy sets out how Crown Audio Inc. uses and protects any information that you give Crown Audio Inc. when you use this website. Crown Audio Inc. is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. Crown Audio Inc. may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. 
 
- **What this Privacy Policy Covers**
+## What we collect
 
-This Privacy Policy covers treatment of personally identifiable information that all Crown web sites (crownaudio.com, iqaudiosystems.com) collect when you visit our sites, and when you use our services. This policy also covers Crown's treatment of any personally identifiable information that our business partners share with us or that we may collect on a partner's site.
+We may collect the following information:
 
-This policy does not apply to the practices of companies that Crown does not own or control, or to people that Crown does not employ or manage.
+  * name
+  * contact information including email address
+  * demographic information such as postcode, preferences and interests
+  * other information relevant to customer surveys and/or offers
 
- **Information Collection and Use**
 
-Crown collects personally identifiable information within several Crown sites. Crown may also receive personally identifiable information from our business partners, distributors, and Sales Representatives.
 
-When you register a product online or establish an account at one of our web sites, we ask for your name, email address, mailing address, occupation, and other personal information. Once you register with Crown and sign in to our services, you are not anonymous to us. This is to enable us to personalize your experience within Crown sites, and provide better support for our products.
+For the exhaustive list of cookies we collect see the List of cookies we collect section. 
 
-Crown sites also automatically receive and record information on our server logs from your browser including your IP address, cookie information and the page you requested.
+## What we do with the information we gather
 
-Crown uses this information for two general purposes: to help personalize your experience at Crown sites, and to contact you with relevant information regarding your Crown products.
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons: 
 
- **Information Sharing and Disclosure**
+  * Internal record keeping.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided. 
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests. 
 
-Although Crown will not sell, rent or share your personally identifiable information to any third-party organizations, Crown may share your contact information with other Harman International companies.
 
-Crown does forward international product registration information to the authorized Crown distributor responsible for support in your country. If you are registering within the United States, your product registration information is not shared with any party.
 
-Crown may send personally identifiable information about you to other companies or people when:
+## Security
 
-    We have your consent to share the information;  
-    We need to send the information to companies who work on behalf of Crown to provide a product or service to you;  
-    We respond to subpoenas, court orders or legal process; or  
-    We find that your actions on our web sites violate the Crown Terms of Use.
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
 
- **Cookies**
+## How we use cookies
 
-Crown sites may set and access cookies on your computer. These cookies do not contain or retrieve personally identifiable information about you. They may however make your experience at Crown sites more personalized. These cookies also are used to analyze visitor traffic patterns through the Crown sites for the purposes of measuring the effectiveness of the sites and accessibility of the information contained therein.
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. 
 
- **Security**
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. 
 
-Your Product Registration Account Information is password-protected for your privacy and security.  
-In certain areas, Crown sites may use industry-standard SSL-encryption to protect data transmissions. In order for SSL security to work, you must have an SSL-enabled browser such as Netscape Navigator or Microsoft Internet Explorer.
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website. 
 
-Any personal information stored within our servers is protected and encrypted by various methods that will remain undisclosed for the sake of security.
+## Links to other websites
 
- **Hyperlinks**
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question. 
 
-Crown sites may contain links to or advertisements concerning other Web sites. Other sites may also reference, advertise, or link to Crown sites. Crown is not responsible for the privacy practices or the content of such other sites and expressly disclaims all liability associated with your use of and the content on such other sites.
+## Controlling your personal information
 
- **Information and Preferences**
+You may choose to restrict the collection or use of your personal information in the following ways:
 
-Crown gives you the ability to edit your product registration account information and preferences at any time, including whether you want Crown to contact you about specials and new products. You can make these changes at our Update Account page.
+  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes 
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at webmaster@crownaudio.com 
 
-You may also contact Crown via e-mail (unsubscribe@crownintl.com) or via postal service to request a change in your user profile.
 
- **Option for Removal**
 
-Crown sites give users the following options for removing their information from our database to not receive future communications or to no longer be included in our mailing list for promotions and special offers.
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. 
 
-1\. You can send email to unsubscribe@crownintl.com.  
-2\. You can send mail to the following postal address:
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to Crown Audio, Inc. 1718 W. Mishawaka RD Elkhart, IN 46517 USA. 
 
-Crown Audio, Inc.  
-Attn: Webmaster  
-1718 W. Mishawaka Rd.,  
-Elkhart, IN 46517
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect. 
 
- **Changes to this Privacy Policy**
+## List of cookies we collect
 
-Crown may amend this policy from time to time. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages.
+The table below lists the cookies we collect and what information they store.
 
- **Contacting the Web Site**
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
-
-Crown Audio, Inc.  
-Attn: Webmaster  
-1718 W. Mishawaka Rd.,  
-Elkhart, IN 46517
+COOKIE name | COOKIE Description  
+---|---  
+CART | The association with your shopping cart.  
+CATEGORY_INFO | Stores the category info on the page, that allows to display pages more quickly.  
+COMPARE | The items that you have in the Compare Products list.  
+CURRENCY | Your preferred currency  
+CUSTOMER | An encrypted version of your customer id with the store.  
+CUSTOMER_AUTH | An indicator if you are currently logged into the store.  
+CUSTOMER_INFO | An encrypted version of the customer group you belong to.  
+CUSTOMER_SEGMENT_IDS | Stores the Customer Segment ID  
+EXTERNAL_NO_CACHE | A flag, which indicates whether caching is disabled or not.  
+FRONTEND | You sesssion ID on the server.  
+GUEST-VIEW | Allows guests to edit their orders.  
+LAST_CATEGORY | The last category you visited.  
+LAST_PRODUCT | The most recent product you have viewed.  
+NEWMESSAGE | Indicates whether a new message has been received.  
+NO_CACHE | Indicates whether it is allowed to use cache.  
+PERSISTENT_SHOPPING_CART | A link to information about your cart and viewing history if you have asked the site.  
+POLL | The ID of any polls you have recently voted in.  
+POLLN | Information on what polls you have voted on.  
+RECENTLYCOMPARED | The items that you have recently compared.   
+STF | Information on products you have emailed to friends.  
+STORE | The store view or language you have selected.  
+USER_ALLOWED_SAVE_COOKIE | Indicates whether a customer allowed to use cookies.  
+VIEWED_PRODUCT_IDS | The products that you have recently viewed.  
+WISHLIST | An encrypted list of products added to your Wishlist.  
+WISHLIST_CNT | The number of items in your Wishlist.
