@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the npl.co.uk privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202091338id_/http%3A//www.npl.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the npl.co.uk privacy policy that was archived on 2014-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140615015402id_/http%3A//www.npl.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy & Cookies : National Physical Laboratory
+# Privacy : National Physical Laboratory
 
 The National Physical Laboratory (NPL) is committed to employing best practice in all its activities.
 
