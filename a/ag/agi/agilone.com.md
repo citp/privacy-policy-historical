@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the agilone.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209153445id_/http%3A//www.agilone.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agilone.com privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614120221id_/http%3A//www.agilone.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy | AgilOne
+# Privacy Policy | AgilOne | Predictive Marketing Platform
 
 ### Privacy Policy
 
@@ -64,6 +64,10 @@ With whom we may share your information We will share your information with thir
   * to any other third party with your prior consent to do so.
 
 
+
+### Advertising Cookies
+
+As you browse www.agilone.com, advertising cookies will be placed on your computer so that we can understand what you are interested in. Our display advertising partner, AdRoll, then enables us to present you with retargeting advertising on other sites based on your previous interaction with www.agilone.com. The techniques our partners employ do not collect personal information such as your name, email address, postal address or telephone number. You can visit this [page](http://www.networkadvertising.org/choices/) to opt out of AdRoll and their partners’ targeted advertising.
 
 ### Enforcement
 
