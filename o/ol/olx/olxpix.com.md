@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the olxpix.com privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128021944id_/http%3A//olxpix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olxpix.com privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614171540id_/http%3A//olxpix.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | OlxPix
 
