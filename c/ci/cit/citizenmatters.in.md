@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citizenmatters.in privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213081447id_/http%3A//bangalore.citizenmatters.in/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citizenmatters.in privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614170903id_/http%3A//bangalore.citizenmatters.in/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Citizen Matters, Bangalore
 
@@ -16,6 +16,15 @@ We will occasionally analyse such information and we may share the results of su
 
 Oorvani Media may change the policy anytime by posting changes online.
 
-[](https://web.archive.org/web/20131213081447id_/http%3A/pages/karnataka-assembly-elections-2013)
+[](http://bangalore.citizenmatters.in/pages/buy-property-in-bengaluru)
 
-[](https://web.archive.org/web/20131213081447id_/http%3A/pages/water-news)
+**Our Writers**
+
+Catch up on latest stories from over two dozen writers!
+
+See our complete [list of authors](https://web.archive.org/web/20140614170903id_/http%3A//authors) to spot your favourite!
+
+ **Looking to advertise on our website?**  
+Contact us for more details.  
+[ ](mailto:adsales@oorvani.in)  
+**Call: 80-4173-7584**
