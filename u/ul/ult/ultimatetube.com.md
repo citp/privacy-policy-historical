@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultimatetube.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214111016id_/http%3A//www.ultimatetube.com/page.php%3Fpage%3D12%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimatetube.com privacy policy that was archived on 2014-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140615003049id_/http%3A//www.ultimatetube.com/page.php%3Fpage%3D12%23privacy) for the most accurate reproduction.*
 
 # : UltimateTube
 
