@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the partnersinrhyme.com privacy policy that was archived on 2013-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131130155759id_/http%3A//www.partnersinrhyme.com/pir/Privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partnersinrhyme.com privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614071240id_/http%3A//www.partnersinrhyme.com/pir/Privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy Statement : Royalty Free Classical Music : Free Background Music
 
