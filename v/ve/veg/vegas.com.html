@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the vegas.com privacy policy that was archived on 2013-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131226165204id_/http%3A//www.vegas.com/about/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vegas.com privacy policy that was archived on 2014-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140614025333id_/http%3A//www.vegas.com/about/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en-us" xml:lang="en-us"><head>
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -13,7 +13,7 @@
 		<meta name="robots" content="noodp">
 				
 		<meta http-equiv="P3P" content="CP='OTI DSP COR IND CUR ADMa DEVa TAIa PSAa PSDa IVAa IVDa HISa OUR UNI COM NAV INT CNT STA'">
-				<script src="//tags.tiqcdn.com/utag/vegas/main/prod/utag.js" type="text/javascript" async=""></script><script type="text/javascript" src="/dtagent55_abjp3_5301.js" data-dtconfig="rid=RID_367854591|rpid=763398918|domain=vegas.com|tp=500,50,5|instr=clk,blr,chg|bandwidth=300_m"></script><link href="/style/global.css" type="text/css" rel="stylesheet">
+				<script src="//tags.tiqcdn.com/utag/vegas/main/prod/utag.js" type="text/javascript" async=""></script><script type="text/javascript" src="/dtagent55_abjp3_5301.js" data-dtconfig="rid=RID_367854591|rpid=1033496956|domain=vegas.com|tp=500,50,5|instr=clk,blr,chg|bandwidth=300_m"></script><link href="/style/global.css" type="text/css" rel="stylesheet">
 		<link href="/style/globaless.css" type="text/css" rel="stylesheet">
 		<link href="/assets/css/legacy-compatible/style.css" type="text/css" rel="stylesheet">
 
@@ -98,18 +98,14 @@
     a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
     })();
 </script>
-
-
-
-    
-<div sizcache="0" sizset="0">
+    <div sizcache="0" sizset="0">
 
 
 
 
 <div id="header">
-<div id="page-header"><a id="header-logo" href="http://www.vegas.com">
-	<img src="/images/logo_white_ds.png" alt="" height="80" width="182">
+<div id="page-header"><a id="header-logo" href="http://www.vegas.com" data-category="SiteHeader" data-track="click" data-type="SiteHeader">
+	<img data-label="Logo" src="/images/logo_white_ds.png" alt="" height="80" width="182">
 </a>
 
 <div id="header-infohub"><div class="minicart-box">
@@ -120,7 +116,7 @@
 	<div id="visitor_info" style="display:none;"></div>	
 	<script src="/common/js/outside-wicket/widget-incl.js" insertto="visitor_info" widget="/mytrip/app/gaInfo"></script>
 </div>
-<form name="gs" method="get" action="http://find.vegas.com/search" id="header-search">
+<form name="gs" method="get" action="http://find.vegas.com/search" id="header-search" data-category="SiteHeader" data-track="click" data-type="SiteHeader">
 	<input type="hidden" name="entqr" value="1">
     <input type="hidden" name="output" value="xml_no_dtd">
     <input type="hidden" name="sort" value="date:D:L:d1">
@@ -132,70 +128,106 @@
     <input type="hidden" name="proxystylesheet" value="vegas_test">
     <input type="hidden" name="site" value="vegas">
     <input id="header-search-field" type="text" name="q" maxlength="256">
-	<input id="header-search-button" type="submit" value="Search" name="btnG">
+	<input id="header-search-button" type="submit" value="Search" name="btnG" data-label="{{value}}">
 </form>
 </div>
-<ul id="navbar">
+<script type="text/javascript">
+cyljq(function($){
+    var nav_title = '';
+    $(".navbar-link, .subnav-link, .navbar-item").hover(
+    	function () {			
+    		nav_title = $(this).attr('title');
+    		$(this).attr({'title':''});
+    	}, 
+    	function () {
+    		$(this).attr({'title':nav_title});
+    	}
+    );
+});
+</script>
+<div class="navbar-box">
+<ul id="navbar" data-category="TopNav" data-track="click" data-type="TopNav">
 																																																																																																																																																															
-	<li title="hotels" class="navbar-item"><a class="navbar-link" title="Las Vegas Hotels" href="http://www.vegas.com/resorts/index.html">Hotels</a>
+	<li title="hotels" class="navbar-item"><a data-label="{{innerText}}" class="navbar-link" title="Las Vegas Hotels" href="http://www.vegas.com/resorts/index.html">Hotels</a>
 
 		</li>
 
-	<li title="air+hotel" class="navbar-item"><a class="navbar-link" title="" href="http://www.vegas.com/lasvegastraveldeals/index.html">AIR+HOTEL</a>
+	<li title="air+hotel" class="navbar-item"><a data-label="{{innerText}}" class="navbar-link" title="" href="http://www.vegas.com/lasvegastraveldeals/index.html">AIR+HOTEL</a>
 
 		</li>
-	
-	<li title="shows" class="navbar-item"><a class="navbar-link" title="Vegas Shows" href="http://www.vegas.com/shows/index.html">Shows</a>
+		
+	<li title="shows" class="navbar-item"><a data-label="{{innerText}}" class="navbar-link" title="Vegas Shows" href="http://www.vegas.com/shows/index.html">Shows</a>
 
 		</li>
 																				
-	<li title="tours" class="navbar-item"><a class="navbar-link" title="Tours" href="http://www.vegas.com/tours/index.html">Tours</a>
+	<li title="tours" class="navbar-item"><a data-label="{{innerText}}" class="navbar-link" title="Tours" href="http://www.vegas.com/tours/index.html">Tours</a>
 
 		</li>
 								
-	<li title="attractions" class="navbar-item"><a class="navbar-link" title="Attractions" href="http://www.vegas.com/attractions/index.html">Attractions</a>
+	<li title="attractions" class="navbar-item"><a data-label="{{innerText}}" class="navbar-link" title="Attractions" href="http://www.vegas.com/attractions/index.html">Attractions</a>
 
 		</li>
 													
-	<li title="clubs" class="navbar-item"><a class="navbar-link" title="Nightlife" href="http://www.vegas.com/nightlife/index.html">Clubs<img class="drop-down-arrow" width="10" height="7" border="0" src="/images/more_arrow_down.gif"></a>
+	<li title="clubs" class="navbar-item"><a data-label="{{innerText}}" class="navbar-link" title="Nightlife" href="http://www.vegas.com/nightlife/index.html">Clubs<img class="drop-down-arrow" width="10" height="7" border="0" src="/images/more_arrow_down.gif"></a>
 
 		<ul class="subnav-menu"> 
-        				 <li class="subnav-item first"><a class="subnav-link" title="New Year's Eve" href="http://www.vegas.com/newyears/index.html">New Year's Eve</a></li>
-	        				 <li class="subnav-item"><a class="subnav-link" title="" href="http://www.vegas.com/nightclubs/index.html">Nightclubs</a></li>
-	        				 <li class="subnav-item"><a class="subnav-link" title="" href="http://www.vegas.com/nightlife/bars/index.html">Bars</a></li>
-	        				 <li class="subnav-item"><a class="subnav-link" title="" href="http://www.vegas.com/nightlife/stripclubs/index.html">Strip Clubs</a></li>
-	        				 <li class="subnav-item"><a class="subnav-link" title="" href="http://www.vegas.com/nightlife/gayclubs/index.html">Gay Bars</a></li>
+        				 <li class="subnav-item first"><a data-label="{{innerText}}" class="subnav-link" title="" href="http://www.vegas.com/nightlife/poolclubs/index.html">Pool Clubs</a></li>
+	        				 <li class="subnav-item"><a data-label="{{innerText}}" class="subnav-link" title="" href="http://www.vegas.com/nightclubs/index.html">Nightclubs</a></li>
+	        				 <li class="subnav-item"><a data-label="{{innerText}}" class="subnav-link" title="" href="http://www.vegas.com/nightlife/bars/index.html">Bars</a></li>
+	        				 <li class="subnav-item"><a data-label="{{innerText}}" class="subnav-link" title="" href="http://www.vegas.com/nightlife/stripclubs/index.html">Strip Clubs</a></li>
+	        				 <li class="subnav-item"><a data-label="{{innerText}}" class="subnav-link" title="" href="http://www.vegas.com/nightlife/gayclubs/index.html">Gay Bars</a></li>
 				</ul>
 		</li>
 										
-	<li title="weddings" class="navbar-item"><a class="navbar-link" title="Weddings" href="http://www.vegas.com/weddings/index.html">WEDDINGS</a>
+	<li title="weddings" class="navbar-item"><a data-label="{{innerText}}" class="navbar-link" title="Weddings" href="http://www.vegas.com/weddings/index.html">WEDDINGS</a>
 
 		</li>
-																			
-	<li title="more" class="navbar-item"><a class="navbar-link" title="More" href="http://www.vegas.com/lounge/index.html">More<img class="drop-down-arrow" width="10" height="7" border="0" src="/images/more_arrow_down.gif"></a>
+																					
+	<li title="more" class="navbar-item"><a data-label="{{innerText}}" class="navbar-link" title="More" href="http://www.vegas.com/lounge/index.html">More<img class="drop-down-arrow" width="10" height="7" border="0" src="/images/more_arrow_down.gif"></a>
 
 		<ul class="subnav-menu"> 
-        				 <li class="subnav-item first"><a class="subnav-link" title="Dining" href="http://www.vegas.com/restaurant/index.html">Dining</a></li>
-	        				 <li class="subnav-item"><a class="subnav-link" title="Golf" href="http://www.vegas.com/golf/index.html">Golf</a></li>
-	        				 <li class="subnav-item"><a class="subnav-link" title="Spas" href="http://www.vegas.com/spas/index.html">Spas</a></li>
-	        				 <li class="subnav-item"><a class="subnav-link" title="Vegas Guide" href="http://www.vegas.com/traveltips/index.html">Vegas Guide</a></li>
-	        				 <li class="subnav-item"><a class="subnav-link" title="Gaming" href="http://www.vegas.com/gaming/index.html">Gaming</a></li>
-	        				 <li class="subnav-item"><a class="subnav-link" title="Gift Card" href="http://www.vegas.com/giftcard/index.html">Gift Card</a></li>
-	        				 <li class="subnav-item"><a class="subnav-link" title="Shopping" href="http://www.vegas.com/shopping/index.html">Shopping</a></li>
-	        				 <li class="subnav-item"><a class="subnav-link" title="" href="http://www.vegas.com/transportation/index.html">Transportation</a></li>
-	        				 <li class="subnav-item"><a class="subnav-link" title="" href="http://blog.vegas.com">Blog</a></li>
+        				 <li class="subnav-item first"><a data-label="{{innerText}}" class="subnav-link" title="" href="https://pages.email.vegas.com/travel/groups/">Group Bookings</a></li>
+	        				 <li class="subnav-item"><a data-label="{{innerText}}" class="subnav-link" title="Dining" href="http://www.vegas.com/restaurant/index.html">Dining</a></li>
+	        				 <li class="subnav-item"><a data-label="{{innerText}}" class="subnav-link" title="Golf" href="http://www.vegas.com/golf/index.html">Golf</a></li>
+	        				 <li class="subnav-item"><a data-label="{{innerText}}" class="subnav-link" title="Spas" href="http://www.vegas.com/spas/index.html">Spas</a></li>
+	        				 <li class="subnav-item"><a data-label="{{innerText}}" class="subnav-link" title="Vegas Guide" href="http://www.vegas.com/traveltips/index.html">Vegas Guide</a></li>
+	        				 <li class="subnav-item"><a data-label="{{innerText}}" class="subnav-link" title="Gaming" href="http://www.vegas.com/gaming/index.html">Gaming</a></li>
+	        				 <li class="subnav-item"><a data-label="{{innerText}}" class="subnav-link" title="Gift Card" href="http://www.vegas.com/giftcard/index.html">Gift Card</a></li>
+	        				 <li class="subnav-item"><a data-label="{{innerText}}" class="subnav-link" title="Shopping" href="http://www.vegas.com/shopping/index.html">Shopping</a></li>
+	        				 <li class="subnav-item"><a data-label="{{innerText}}" class="subnav-link" title="" href="http://www.vegas.com/transportation/index.html">Transportation</a></li>
+	        				 <li class="subnav-item"><a data-label="{{innerText}}" class="subnav-link" title="" href="http://blog.vegas.com">Blog</a></li>
 				</ul>
 		</li>
 
-		<li title="deals" class="navbar-item"><a class="navbar-link last navbar-deals-link" title="Deals" href="http://www.vegas.com/deals/index.html">DEALS</a>
+		<li title="deals" class="navbar-item"><a data-label="{{innerText}}" class="navbar-link last navbar-deals-link" title="Deals" href="http://www.vegas.com/deals/index.html">DEALS</a>
 
 		</li>
 </ul>
 </div>
 </div>
-<div id="slogan_container">
-<div class="slogan_image"><img src="/images/official.gif" alt=""></div>
 </div>
+<script type="text/javascript">
+$('.navbar-item').has('.subnav-menu').on('touchstart touchend', function(e){      
+    $(this).find('.subnav-menu').show();
+    if($(e.target).hasClass('navbar-link')) e.preventDefault();
+      $(document).one('touchstart', function(){ 
+         $(this).find('.subnav-menu').hide();
+     }); 
+ });
+
+$().ready(function(){
+
+try
+   { var refHost = top.location.hostname.indexOf("vegas.com"); }
+ catch(error)
+   { var refHost=-1; }
+
+   var sessionParam = $.cookie("controller");
+if(refHost<=0 && sessionParam!="vegas") { parent.location = self.location.href; }
+});
+
+</script>
+
 </div><!-- unsupported browser message -->
 <!--[if lte IE 7]>
 <style>
@@ -618,35 +650,34 @@ You have browser that is limiting the way the website looks and behaves. To use 
             <!-- footer -->
 			<div class="use-reset">
 									
-
-
-
     
 <div sizcache="0" sizset="0">
 
 
 
 
-<div id="footer">
-  <!-- footer: contains footer elements -->
+<div id="footer" data-category="FooterNav" data-track="click" data-type="FooterNav">
+<div id="footerAd"></div>
+ <!-- footer: contains footer elements -->
+ <div class="footer-table">
   <div class="footer-row">
         <div class="footer-column-one footer-column">
 			<a href="/" class="footer-logo">
-				<img src="/images/logo_footer.png" border="0" width="188">
+				<img data-label="Logo" src="/images/logo_footer.png" border="0" width="188">
 			</a>
 		</div>
         <div class="footer-column-two footer-column">
           <h3 class="footer-heading">About VEGAS.com</h3>
           	    
             	<ul class="footer-link-list">
-    	    					                            		<li><a href="http://www.vegas.com/about/index.html">About Us</a></li>
-    	    		    		                		<li><a href="http://www.vegas.com/affiliates/">Become An Affiliate</a></li>
-    	    		    		                		<li><a href="https://pages.email.vegas.com/about/mediakit/">Advertise With Us</a></li>
-    	    					                            		<li><a href="http://www.vegas.com/about/contactus.html">Contact Us</a></li>
-    	    					                            		<li><a href="http://www.vegas.com/about/jobs/index.html">Employment</a></li>
-    	    					                            		<li><a href="http://www.vegas.com/about/termsofuse.html">Terms Of Use</a></li>
-    	    					                            		<li><a href="http://www.vegas.com/about/privacy.html">Privacy Policy</a></li>
-    	    					                            		<li><a href="http://www.vegas.com/sitemap_home.html">Site Map</a></li>
+    	    					                            		<li><a data-label="{{innerText}}" href="http://www.vegas.com/about/index.html">About Us</a></li>
+    	    		    		                		<li><a data-label="{{innerText}}" href="http://www.vegas.com/affiliates/">Become An Affiliate</a></li>
+    	    		    		                		<li><a data-label="{{innerText}}" href="https://pages.email.vegas.com/about/mediakit/">Advertise With Us</a></li>
+    	    					                            		<li><a data-label="{{innerText}}" href="http://www.vegas.com/about/contactus.html">Contact Us</a></li>
+    	    					                            		<li><a data-label="{{innerText}}" href="http://www.vegas.com/about/jobs/index.html">Employment</a></li>
+    	    					                            		<li><a data-label="{{innerText}}" href="http://www.vegas.com/about/termsofuse.html">Terms Of Use</a></li>
+    	    					                            		<li><a data-label="{{innerText}}" href="http://www.vegas.com/about/privacy.html">Privacy Policy</a></li>
+    	    					                            		<li><a data-label="{{innerText}}" href="http://www.vegas.com/sitemap_home.html">Site Map</a></li>
     	    	</ul>
     		
     	
@@ -655,30 +686,30 @@ You have browser that is limiting the way the website looks and behaves. To use 
           <h3 class="footer-heading">Book at VEGAS.com</h3>
 		  	    
             	<ul class="footer-link-list">
-    	    					                            		<li><a href="http://www.vegas.com/resorts/index.html">Las Vegas Hotels</a></li>
-    		    	    					                            		<li><a href="http://www.vegas.com/shows/index.html">Las Vegas Show Tickets</a></li>
-    		    	    					                            		<li><a href="http://www.vegas.com/tours/index.html">Las Vegas Tours</a></li>
-    		    	    					                            		<li><a href="http://www.vegas.com/nightlife/index.html">Las Vegas Nightlife</a></li>
-    		    	    					                            		<li><a href="http://www.vegas.com/restaurant/index.html">Las Vegas Restaurants</a></li>
-    		    	    					                            		<li><a href="http://www.vegas.com/golf/index.html">Las Vegas Golf</a></li>
+    	    					                            		<li><a data-label="{{innerText}}" href="http://www.vegas.com/resorts/index.html">Las Vegas Hotels</a></li>
+    		    	    					                            		<li><a data-label="{{innerText}}" href="http://www.vegas.com/shows/index.html">Las Vegas Show Tickets</a></li>
+    		    	    					                            		<li><a data-label="{{innerText}}" href="http://www.vegas.com/tours/index.html">Las Vegas Tours</a></li>
+    		    	    					                            		<li><a data-label="{{innerText}}" href="http://www.vegas.com/nightlife/index.html">Las Vegas Nightlife</a></li>
+    		    	    					                            		<li><a data-label="{{innerText}}" href="http://www.vegas.com/restaurant/index.html">Las Vegas Restaurants</a></li>
+    		    	    					                            		<li><a data-label="{{innerText}}" href="http://www.vegas.com/golf/index.html">Las Vegas Golf</a></li>
     		    			</ul><ul class="footer-link-list">
-    		    	    					                            		<li><a href="http://www.vegas.com/weddings/index.html">Las Vegas Weddings</a></li>
-    		    	    					                            		<li><a href="http://www.vegas.com/spas/index.html">Spas</a></li>
-    		    	    					                            		<li><a href="http://www.vegas.com/attractions/index.html">Attractions</a></li>
-    		    	    					                            		<li><a href="http://www.vegas.com/traveltips/index.html">Vegas Guide</a></li>
-    		    	    					                            		<li><a href="http://www.vegas.com/lounge/map.html">Maps</a></li>
-    		    	    		    		                		<li><a href="http://blog.vegas.com">Las Vegas Blogs</a></li>
+    		    	    					                            		<li><a data-label="{{innerText}}" href="http://www.vegas.com/weddings/index.html">Las Vegas Weddings</a></li>
+    		    	    					                            		<li><a data-label="{{innerText}}" href="http://www.vegas.com/spas/index.html">Spas</a></li>
+    		    	    					                            		<li><a data-label="{{innerText}}" href="http://www.vegas.com/attractions/index.html">Attractions</a></li>
+    		    	    					                            		<li><a data-label="{{innerText}}" href="http://www.vegas.com/traveltips/index.html">Vegas Guide</a></li>
+    		    	    					                            		<li><a data-label="{{innerText}}" href="http://www.vegas.com/lounge/map.html">Maps</a></li>
+    		    	    		    		                		<li><a data-label="{{innerText}}" href="http://blog.vegas.com">Las Vegas Blogs</a></li>
     		    	    	</ul>
     		
     	
         </div>
         <div class="footer-column-four footer-column">
           <h3 class="footer-heading">Follow VEGAS.com</h3>
-		  <a target="_blank" href="http://www.facebook.com/vegas"><img alt="Facebook" src="/images/30x30_fb.png" height="30" border="0" width="30"></a>
-		  <a target="_blank" href="http://www.twitter.com/vegascom"><img alt="Twitter" src="/images/30x30_twit.png" height="30" border="0" width="30"></a>
-		<a target="_blank" href="http://pinterest.com/vegascom/"><img alt="Pinterest" src="/images/30x30_pint.png" height="30" border="0" width="30"></a>
-		<a target="_blank" href="https://plus.google.com/b/103289362648931036069/103289362648931036069"><img alt="Google Plus" src="/images/30x30_gplus.png" height="30" border="0" width="30"></a>
-		<a target="_blank" href="http://instagram.com/vegascom"><img alt="Instagram" src="/images/30x30_insta.png" height="30" border="0" width="30"></a>
+		  <a target="_blank" href="http://www.facebook.com/vegas"><img data-label="{{alt}}" alt="Facebook" src="/images/30x30_fb.png" border="0" height="30" width="30"></a>
+		  <a target="_blank" href="http://www.twitter.com/vegascom"><img data-label="{{alt}}" alt="Twitter" src="/images/30x30_twit.png" border="0" height="30" width="30"></a>
+		<a target="_blank" href="http://pinterest.com/vegascom/"><img data-label="{{alt}}" alt="Pinterest" src="/images/30x30_pint.png" border="0" height="30" width="30"></a>
+		<a target="_blank" href="https://plus.google.com/b/103289362648931036069/103289362648931036069"><img data-label="{{alt}}" alt="Google Plus" src="/images/30x30_gplus.png" border="0" height="30" width="30"></a>
+		<a target="_blank" href="http://instagram.com/vegascom"><img data-label="{{alt}}" alt="Instagram" src="/images/30x30_insta.png" border="0" height="30" width="30"></a>
           <h3 class="footer-heading">Exclusive VEGAS Deals</h3>
 		  <div id="footer-email-signup">
 <script type="text/javascript"> 
@@ -842,6 +873,11 @@ function footerIframeLoaded() {
             padding: 4px 3px;
             width: 223px;
         }
+        #footerAd{
+            width:728px;
+            margin:15px auto;
+        }
+
         </style>
 		<div id="footerIframePlaceholder"></div>
         <p>Sign up to receive updates on great deals!</p>
@@ -852,35 +888,45 @@ function footerIframeLoaded() {
           <input name="usub" value="http://www.vegas.com/email/return.html?unsub=1" type="hidden">
           <input name="MID" value="30557" type="hidden">
           <input name="lid" value="42252" type="hidden">
-          <div class="form-field"><input name="Email Address" class="esup-email-address" id="footer-email-address" value="enter email address" style="color: grey;" type="text"><input id="footer-esup-submit" value="Sign Up" type="submit"></div>
+          <div class="form-field"><input name="Email Address" class="esup-email-address" id="footer-email-address" value="enter email address" style="color: grey;" type="text"><input id="footer-esup-submit" value="Sign Up" data-label="EmailSignUp" type="submit"></div>
         </form>
 		</div>
-        <div style="margin-top: 10px">© 2013 VEGAS.com</div>
+        <div style="margin-top: 10px">© <span id="copyrightDate">2020</span> VEGAS.com</div>
+<script type="text/javascript">
+/*<!--[CDATA[*/
+
+cyljq(function($){
+$("#copyrightDate").text(new Date().getFullYear());
+});
+
+/*]]-->*/
+</script>
         </div>
 	</div>
 	<div class="footer-row footer-extra-links">
  
 	<div class="footer-partner-links">
 	<strong>Partner Sites:</strong>
-										<a href="http://www.lasvegassun.com/">Las Vegas SUN</a>
-										<a href="http://www.lasvegasweekly.com">Las Vegas Weekly</a>
-										<a href="http://mobile.vegas.com">Mobile.Vegas.com</a>
-										<a href="http://www.lasvegassun.com">Las Vegas News</a>
-										<a href="http://www.lasvegasmagazine.com">Las Vegas Magazine</a>
-										<a href="http://www.vegasdeluxe.com/">Vegas Deluxe</a>
-										<a href="http://www.vegasmagazine.com/">VEGAS Magazine</a>
+										<a data-label="{{innerText}}" href="http://www.lasvegassun.com/">Las Vegas SUN</a>
+										<a data-label="{{innerText}}" href="http://www.lasvegasweekly.com">Las Vegas Weekly</a>
+										<a data-label="{{innerText}}" href="http://mobile.vegas.com">Mobile.Vegas.com</a>
+										<a data-label="{{innerText}}" href="http://www.lasvegassun.com">Las Vegas News</a>
+										<a data-label="{{innerText}}" href="http://www.lasvegasmagazine.com">Las Vegas Magazine</a>
+										<a data-label="{{innerText}}" href="http://www.vegasdeluxe.com/">Vegas Deluxe</a>
+										<a data-label="{{innerText}}" href="http://www.vegasmagazine.com/">VEGAS Magazine</a>
 		</div>
 
         	<div class="footer-payment">
         		Secure Online Payment System
         		<img class="footer-cc-accepted" src="/images/credit_cards_med.gif" alt="Visa, Mastercard, American Express, Discover, Diners Club International, JCB" height="22" width="217">
 			<!-- V.me Logo -->
-			<img src="/common/images/vdotme_pos_vertical.png" alt="V.me by Visa" class="footer-vdotme-accepted" height="23" border="0">
+			<img src="/images/vdotme_pos_vertical.png" alt="V.me by Visa" class="footer-vdotme-accepted" border="0" height="23">
 			<!-- / V.me Logo -->
-			<img src="https://www.paypalobjects.com/webstatic/mktg/logo/pp_cc_mark_37x23.jpg" alt="PayPal Logo" class="footer-paypal-accepted" height="23" border="0" width="37">	
+			<img src="https://www.paypalobjects.com/webstatic/mktg/logo/pp_cc_mark_37x23.jpg" alt="PayPal Logo" class="footer-paypal-accepted" border="0" height="23" width="37">	
         	</div>
           <!-- / footer -->		
 	</div>
+  </div>
 </div>
 </div><script type="text/javascript" id="kcm">
 (function(a,b){a(document).on("keydown.kcm",function(c){b.push(c.keyCode);0<=b.toString().indexOf("38,38,40,40,37,39,37,39,66,65,13")&&a(document).off(".kcm").trigger("kcmatch")})}(cyljq,[]))
