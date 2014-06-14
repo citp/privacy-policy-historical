@@ -1,22 +1,40 @@
-> *The following text is extracted and transformed from the aclfestival.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112231159id_/http%3A//www.aclfestival.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aclfestival.com privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614051646id_/http%3A//www.aclfestival.com/privacy) for the most accurate reproduction.*
 
-# Privacy & Security | Oct. 3-5 & 10-12, 2014 | Zilker Park, Austin, Texas
+# Privacy & Security | ACL Music Festival | Oct. 3-5 & 10-12, 2014 | Zilker Park, Austin, Texas
 
-C3 Presents, LLC (“C3”) produces the Austin City Limits Music Festival (the “Festival”) and owns and operates the website located at [www.aclfestival.com](http://www.aclfestival.com/) (the “Site”). Thank you for your interest in and support of the Festival and the Site. Your privacy is very important to C3. C3 has created this Privacy + Security Policy in order to demonstrate our firm commitment to the privacy of your personal information and explain C3′s online information practices and the choices you can make about the way your information is collected and used. In collecting information, C3′s primary goal is to provide and improve its products and services.
+#### UPDATED: SEPTEMBER 4, 2013
 
-This Privacy Policy describes how C3 treats information that it collects and receives related to your use of the Website. This Privacy Policy applies to all information collected or submitted on the Website. This Site is not directed at children under the age of 13 and children under the age of 13 are not knowingly permitted to submit personal information on the Site. For more information about children under the age of 13 see Section 12 or [click here](https://web.archive.org/legal-test/#section-12).
+C3 Presents, LLC (“C3”) produces the Austin City Limits Music Festival (the “Festival”) and owns and operates the website located at [dvl.aclfestival.com](http://www.aclfestival.com/) (the “Site”). Thank you for your interest in and support of the Festival and the Site. Your privacy is very important to C3. C3 has created this Privacy + Security Policy in order to demonstrate our firm commitment to the privacy of your personal information and explain C3′s online information practices and the choices you can make about the way your information is collected and used. In collecting information, C3′s primary goal is to provide and improve its products and services.
+
+This Privacy Policy describes how C3 treats information that it collects and receives related to your use of the Website. This Privacy Policy applies to all information collected or submitted on the Website. This Site is not directed at children under the age of 13 and children under the age of 13 are not knowingly permitted to submit personal information on the Site. For more information about children under the age of 13 see Section 12 or [click here](https://web.archive.org/terms-conditions/#section-12).
+
+This Policy describes, amongst other things, the following:
+
+  * \- What personally identifiable information C3 collects.
+  * \- What personally identifiable information third parties receive from or collect through the Site.
+  * \- How C3 and its business partners use the information.
+  * \- What choices are available to users regarding collection, use and distribution of the information.
+  * \- With whom C3 may share user information.
+  * \- What types of security procedures are in place to protect the loss, misuse or alteration of information under C3 control.
+  * \- How users can correct any inaccuracies in the information.
+
+
 
 If users have questions or concerns regarding this statement, they should contact C3 by sending us an email to [info@aclfestival.com](mailto:info@aclfestival.com).
+
+### 1\. CATEGORIES OF INFORMATION WE COLLECT
 
 C3 collects information when you use and access the Website. The information collected includes Personal Information, Contact Data, Message Data, and Traffic Data (collectively, “Customer Information”). “Personal Information” is information about you that is personally identifiable, like your name, address, email address, passwords, home and business addresses, phone numbers, and information that is not otherwise publicly available. “Contact Data” is contact information you’ve developed that you may provide to C3 to enhance your use of C3′s products and services. “Message Data” includes the messages sent and received using C3 services, information about those messages, and your account activity, such as log-in times and message storage capacity. “Traffic Data” is anonymous information about the nature of your usage of the Website and products and services and can include: IP addresses, domain servers, referring/exit pages, operating system, date/time stamp, clickstream data, type of computer or mobile phone, type of web browser, one or more cookies that identify your browser, and telecommunications carrier information. C3, HOWEVER, CANNOT GUARANTEE THE SECURITY OF PERSONAL INFORMATION ACCESSIBLE ON OR TRANSMITTED VIA THE INTERNET.
 
 In connection with your use of our Site, we may collect the following information:
 
-* \- The domain name and/or the e-mail address of visitors to our Site.
-* \- The e-mail addresses of users who communicate with us via the Site or via e-mail.
-* \- Aggregate information on what pages on our Site users access or visit.
-* \- Information volunteered by the user, such as through registration on the Site, e-mail update requests and general requests for information.
-* \- Information about your transactions with us and transactions with third parties, such as the bands and venues for which C3 provides ticketing and merchandising services.
+  * \- The domain name and/or the e-mail address of visitors to our Site.
+  * \- The e-mail addresses of users who communicate with us via the Site or via e-mail.
+  * \- Aggregate information on what pages on our Site users access or visit.
+  * \- Information volunteered by the user, such as through registration on the Site, e-mail update requests and general requests for information.
+  * \- Information about your transactions with us and transactions with third parties, such as the bands and venues for which C3 provides ticketing and merchandising services.
+
+
 
 ### 2\. USE AND DISCLOSURE OF INFORMATION WE COLLECT
 
