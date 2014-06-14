@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the politifact.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202151857id_/http%3A//www.politifact.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the politifact.com privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614065315id_/http%3A//www.politifact.com/privacy) for the most accurate reproduction.*
 
-# PolitiFact | Privacy policy
+# Privacy policy | PolitiFact
 
   
 This Privacy Policy governs the collection and use of information provided by you to the Times Publishing Company (“the Times”) through your use of the websites we own and operate, including [www.tampabay.com](http://www.tampabay.com/), [www.sptimes.com](http://www.sptimes.com/), [www.politifact.com](http://www.politifact.com/) and [www.tbt.com](http://www.tbt.com/). This Privacy Policy does not apply to any information you provide to us in other ways, such as by mail, telephone, or at a live event or physical business location. This policy also does not apply to any information provided to or obtained by our newsroom personnel, including writers of news articles and editorial columns. PLEASE READ THIS POLICY CAREFULLY.   
