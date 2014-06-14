@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shredderchess.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214065532id_/http%3A//www.shredderchess.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shredderchess.com privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614050326id_/http%3A//www.shredderchess.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Shredder Computer Chess Download - Privacy Policy
 
