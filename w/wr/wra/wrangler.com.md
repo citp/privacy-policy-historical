@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wrangler.com privacy policy that was archived on 2013-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130811051809id_/http%3A//www.wrangler.com/store/WRG_STORE_US/en_US/content/customer_service/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrangler.com privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614025443id_/http%3A//www.wrangler.com/store/WRG_STORE_US/en_US/content/customer_service/privacy_policy.html) for the most accurate reproduction.*
 
 # Wrangler
 
@@ -15,7 +15,7 @@ This Privacy Policy may be updated from time to time. Please check back periodic
 
 For the purposes of this Privacy Policy, "Personal Information" is personally identifiable information about an individual person including, but not limited to, a person's name, physical address, e-mail address, and telephone number, as more particularly described under applicable U.S. privacy laws.
 
-_**What Information About Me Is Collected and Stored?**_
+ _ **What Information About Me Is Collected and Stored?**_
 
 **Information You Provide:**  
 We collect and store information that you provide on or through the Web Site and that you provide to our Customer Service Department in connection with your access and use of this Web Site. Though you may use portions of this Web Site without providing any Personal Information, in order to take advantage of the full capabilities of this Web Site, you will be required to provide certain Personal Information. For example, you must provide Personal Information in order to place an order or to register for an account on or through this Web Site. We may request, collect and store some or all of the following types of Personal Information: name, billing address, shipping address, e-mail address, telephone number, financial and payment information, such as credit card number and expiration date, and other similar information.
@@ -27,14 +27,14 @@ If you provide Personal Information to us, including Personal Information about 
 **Aggregate and Automatically Collected Information:**  
 We collect and store certain other non-personally identifiable information automatically whenever you interact with this Web Site. For example, we may collect your Internet Protocol (IP) address, browser information and reference site domain name when you visit this Web Site.
 
-**Use of Cookies/Web Beacons:**  
+ **Use of Cookies/Web Beacons:**  
 Like many other web sites, we may collect information regarding customer traffic patterns and site usage by using cookies, web beacons and related technologies. We use the information gathered from cookies, web beacons and related technologies to analyze and understand how the Web Site is used and to enhance your visits to the Web Site. For example, we may use cookies and related technologies to: (i) customize account pages for you, (ii) track user visits and account features, (iii) determine what features and pages are most frequently requested or visited, and (iv) save your password so you do not have to provide it each time you visit the Web Site. "Cookies" are small text files that a web site sends to a user's hard drive through the browser for data storage. Most browsers accept cookies automatically but allow you to disable them. By disabling or otherwise rejecting cookies, you may not be able to take full advantage of all offerings on this Web Site. We recommend that you leave cookies "turned on" so that we can offer you a better shopping experience on this Web Site.
 
 We use third-party service providers to provide Internet data hosting and to help us measure and determine how visitors use our Web Site and the effectiveness of our Web Site and promotions in order to help us improve and optimize our Web Site and the products and services we offer. Those third parties may place web beacons or pixel tags on certain pages of our Web Site or use cookies in order to facilitate collection of information regarding your use of the Web Site each time you visit the Web Site. Third party cookies may also be used to display relevant advertising to you on websites you visit after you leave Wrangler.com.  You may opt out of receiving those advertisements by visiting this page and clicking the “Opt Out” button: <https://www.google.com/settings/ads/onweb/?hl=en#display_optout>.
 
 In addition, some of our e-mail communications to you may include a "click-through URL" linked to a particular page on the Web Site. By clicking on one of these URLs, you will automatically enter our Web Site and we may collect information related to the "click-through." You may avoid having this information collected by not clicking on URL links in our e-mail communications.
 
-**_How is Information Used and Disclosed?_**
+ ** _How is Information Used and Disclosed?_**
 
 **Personal Information:  
 ** Personal Information collected on or through this Web Site is used to provide the products and services that you have ordered or requested, to process and ship orders, to send order and shipping confirmations and to provide customer service. If you sign up to our e-mail list or otherwise opt-in to receive promotional communications in connection with this Web Site, we may also use the Personal Information you provide to contact you about sales, special offers and new site features and to send you other promotional communications. You may manage your email preferences [here](https://www.wrangler.com/store/WRG_WESTERN_STORE_US/en_US/myaccount/Logon.html "Email Preferences").
@@ -48,7 +48,7 @@ We may aggregate and use certain automatically collected information and non-per
 
 We may on occasion combine information we received on or through this Web Site with information obtained from other sources and outside records to enable us to update and correct the information contained in our database and to provide product recommendations and special offers that we think will interest you.
 
-_**With Whom is Information Shared?**_
+ _ **With Whom is Information Shared?**_
 
 Except with your consent or as described in this Privacy Policy, we do not sell, rent or share with third parties any Personal Information that you provide to us on or through this Web Site or through the Customer Service Department in connection with the Web Site.
 
@@ -56,7 +56,7 @@ We may share Personal Information you provide to us with certain third parties t
 
 We may share Personal Information you provide to us with a third party if we are required by law to disclose that Personal Information. For example, we may be required to disclose Personal Information to respond to a subpoena, court order or other legal process. We may also disclose this information in response to a law enforcement agency's request, or where we believe it is necessary to investigate or address unlawful acts or acts that may endanger the health or safety of a consumer or the general public, to verify or enforce compliance with the terms of use and policies that govern our Web Site or as otherwise required or permitted by law. In addition, the Personal Information you provide to us may be transferred as an asset in connection with a merger or sale involving all or part of Wrangler, VF Jeanswear or as part of a corporate reorganization, stock sale or other change of control.
 
-_**Children and Privacy**_
+ _ **Children and Privacy**_
 
 This Web Site is a general audience website and is not directed for use by children. We do not intend to collect Personal Information from anyone who is under the age of 13. If you are under the age of 13 you should not provide any Personal Information to us and you should use this Web Site only with the involvement of a parent or guardian. If you are a parent or guardian of a child under the age of 13 and suspect he/she has provided Personal Information on or through the Web Site, please [Contact Us](http://www.wrangler.com/store/WRG_WESTERN_STORE_US/en_US/info/ContactUs.html "Contact Us").
 
@@ -66,7 +66,7 @@ The security of your information is important to us. The Web Site employs variou
 
 In order to help protect Personal Information you provide to us, you: (i) should not share your password or account information with others, (ii) should use a secure web browser, and (iii) change your password frequently. If you become aware of any loss, theft or unauthorized use of a password, please [Contact Us](http://www.wrangler.com/store/WRG_WESTERN_STORE_US/en_US/info/ContactUs.html "Contact Us").
 
-**_How Can I Access, Correct and Update Personal Information?_**
+ ** _How Can I Access, Correct and Update Personal Information?_**
 
 You may access, correct and update certain Personal Information that you have provided to us by clicking on the "My Account" area of this Web Site in the upper right and following the instructions set forth therein or by [Contacting Us](http://www.wrangler.com/store/WRG_WESTERN_STORE_US/en_US/info/ContactUs.html "Contact Us").
 
