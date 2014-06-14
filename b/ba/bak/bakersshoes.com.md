@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bakersshoes.com privacy policy that was archived on 2013-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131107053312id_/http%3A//www.bakersshoes.com/privacy_security.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bakersshoes.com privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614113000id_/http%3A//www.bakersshoes.com/privacy_security.aspx) for the most accurate reproduction.*
 
 # Bakers Shoes - Fashion Shoes for Women - Sandals, Boots, Dress Shoes, Pumps, Platforms, Flats, Handbags, Accessories
 
@@ -8,7 +8,7 @@
 ###  Privacy & Security
 
 Bakers Privacy/Policy Statement  
-Most Recently Revised: July 31, 2008
+Most Recently Revised: May 30, 2013
 
 Privacy Policy Statement
 
@@ -86,7 +86,7 @@ In the event of a sale, merger, consolidation, change in control, transfer of su
 
 You may opt out from receiving electronic or mailed communications from Bakers and/or from Bakers´ third party business partners by sending an email to: service@bakersshoes.com and specifying which services you would like to opt out from. To cease receiving e-mails from Bakers, place the words, "Unsubscribe from mailing list" in the subject line. To cease receiving mailed communications, place the words, "Unsubscribe from newsletter/coupon list" in the subject line. To cease receiving communications for our business partners, place the words, "Unsubscribe to Partners" in the subject line. Also, please provide your name, address and phone number in the body of the email. If you prefer not to use email, please feel free to call 1-314-641-0381 or send your requests by mail to:  
 Bakers Customer Service  
-345 Marshall Ave.  
+345 Marshall Ave. Suite 201  
 St. Louis, MO 63119.  
 Remember to include your name, address and phone number in the request.
 
