@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swell.com privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812054016id_/http%3A//www.swell.com/c/privacyandsecurity.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swell.com privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614172146id_/http%3A//www.swell.com/c/privacyandsecurity.htm) for the most accurate reproduction.*
 
 # Swell.com
 
@@ -17,23 +17,23 @@ Questions regarding this Policy should be directed to
 
 Attn: Privacy Compliance Officer  
 Swell, Inc.  
-140 Calle Iglesia  
-San Clemente, CA 92672
+121 Waterworks Way, Suite 100  
+Irvine, CA 92618
 
 This Privacy Policy will explain the following regarding use of our site:  
-1\. What information does Swell collect from you?  
-2\. Where do we collect information from you and how do we use it?  
-3\. Who is collecting your information?  
-4\. With whom do we share your information?  
-5\. How can you update or correct your Personally Identifiable Information?  
-6\. What are your choices regarding collection, use, and distribution of your information?  
-7\. What security precautions are in place to protect against the loss, misuse, or alteration of your information?  
-8\. A special note about children's privacy  
-9\. Swell and third-party use of "cookies" and "action tags"  
-10\. You should carefully review privacy policies of any third party sites accessible from Swell  
-11\. Contacting Swell about privacy questions or concerns  
-12\. Privacy Policy changes   
-13\. Surfline's Privacy Policy
+[1\. What information does Swell collect from you?](http://www.swell.com/c/privacyandsecurity.htm#1)  
+[2\. Where do we collect information from you and how do we use it?](http://www.swell.com/c/privacyandsecurity.htm#2)  
+[3\. Who is collecting your information?](http://www.swell.com/c/privacyandsecurity.htm#3)  
+[4\. With whom do we share your information?](http://www.swell.com/c/privacyandsecurity.htm#4)  
+[5\. How can you update or correct your Personally Identifiable Information?](http://www.swell.com/c/privacyandsecurity.htm#5)  
+[6\. What are your choices regarding collection, use, and distribution of your information?](http://www.swell.com/c/privacyandsecurity.htm#6)  
+[7\. What security precautions are in place to protect against the loss, misuse, or alteration of your information?](http://www.swell.com/c/privacyandsecurity.htm#7)  
+[8\. A special note about children's privacy](http://www.swell.com/c/privacyandsecurity.htm#8)  
+[9\. Swell and third-party use of "cookies" and "action tags"](http://www.swell.com/c/privacyandsecurity.htm#9)  
+[10\. You should carefully review privacy policies of any third party sites accessible from Swell](http://www.swell.com/c/privacyandsecurity.htm#10)  
+[11\. Contacting Swell about privacy questions or concerns](http://www.swell.com/c/privacyandsecurity.htm#11)  
+[12\. Privacy Policy changes](http://www.swell.com/c/privacyandsecurity.htm#12)   
+[13\. Surfline's Privacy Policy](http://www.swell.com/c/privacyandsecurity.htm#13)
 
 **1\. What information does Swell collect from you?**
 
@@ -65,7 +65,7 @@ We gather information in the following ways:
 
 **Contests and Sweepstakes:** When you enter a contest or other promotion, we may ask you for contact information such as your name, address and e-mail address in order to administer the contest, to send you promotional emails, notify winners and make the winners' list publicly available pursuant to certain states' laws. Your consent to such promotional use and disclosure of this information as a condition of your participation. 
 
-**Newsletters and Promotional E-mails:** We offer such as our Swell catalog, and promotional e-mails as a service to our customers. We will send you catalogs and e-mails periodically listing current specials and deals. To stop receiving, send an e-mail to us at [customerservice@swell.com](https://web.archive.org/web/20130812054016id_/http%3A//www.swell.com/c/%EF%BF%BDmailto:customerservice@swell.com%EF%BF%BD). 
+**Newsletters and Promotional E-mails:** We offer such as our Swell catalog, and promotional e-mails as a service to our customers. We will send you catalogs and e-mails periodically listing current specials and deals. To stop receiving, send an e-mail to us at [customerservice@swell.com](http://content.swell.com/%EF%BF%BDmailto:customerservice@swell.com%EF%BF%BD). 
 
 **Contact Information and Third Party Data:** If you contact Swell or our customer service representatives by telephone, e-mail or letter, we may keep a record of your correspondence or comments. If you contact us through our feedback area or by calling one of our customer service representatives, we may ask for your name, e-mail address and order information in order to send you a reply. 
 
@@ -147,8 +147,8 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 Attn: Privacy Compliance Officer  
 Swell, Inc.  
-140 Calle Iglesia  
-San Clemente, CA 92672 
+121 Waterworks Way, Suite 100  
+Irvine, CA 92618 
 
 You may also contact us by e-mail at [customerservice@swell.com](mailto:customer%20service@swell.com). 
 
