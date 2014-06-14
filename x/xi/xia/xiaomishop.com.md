@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the xiaomishop.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209015605id_/http%3A//www.xiaomishop.com/privacy-policy-6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xiaomishop.com privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614035544id_/http%3A//www.xiaomishop.com/content/6-privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - XIAOMI MOBILE RETAIL SHOP
 
 ## Privacy policy
 
-**Private Information Security**  
+ **Private Information Security**  
 For your safety and protection, your credit card information is not stored on our servers. Our payment gateway provider, Authorize xiaomishop.com keeps this information encrypted and secure on your behalf.  
 **Your privacy**  
 At xiaomishop.com, we take your privacy very seriously. Please read this policy (this "Policy") to see how xiaomishop.com handles your personal information that you give to us when you register our website (the "Site"). This Policy only covers employees of xiaomishop.com and does not extend to people or companies that xiaomishop.com does not employ or manage. We reserve the right to modify this Policy. We will notify you of substantial changes to this Policy by telling you about them on our Announcements Board.  
