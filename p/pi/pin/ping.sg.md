@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ping.sg privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125200039id_/http%3A//ping.sg/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ping.sg privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614110214id_/http%3A//ping.sg/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
