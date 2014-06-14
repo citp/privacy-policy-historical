@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zibbet.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219023106id_/http%3A//www.zibbet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zibbet.com privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614221238id_/http%3A//www.zibbet.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -48,7 +48,7 @@ Our primary purpose in collecting personal information is to provide you with a 
 
 Customized experience - We gather your personally identifiable information to provide you with a customized experience on our Site. Your personally identifiable information helps us tailor the content, services, goods and advertising to your current and future needs.
 
-E-mail Communications - Sellers are automatically sunbscribed to our 'Seller Newsletter'.  This newsletter will keep you up-to-date with evrything you need to know as a Zibbet seller, including new features, information about how to make mroe sales etc.  At the bottom of these emails is an 'unsubscribe' link.  If you click this, you will automatically be unsubscribed from receiving these emails.  You may subscribe to a number of email services providing information about new features, announcements, special promotions and discounts in your member account section. We will not send you these subscribed emails unless you explicitly consent to receive the mailings by checking the subscriptions boxes. You may unsubscribe from these subscribed emails by clicking the unsubscribe link in the email messages, or by updating your preferences in your user account. Our subscribed emails may contain code that enables our database to track your usage of the newsletters, including whether the e-mail was opened and/or what links (if any) were clicked. We will combine such information with other information we have about you and may use this information to improve your experience with our site and/or provide more customized e-mail communications to you according to your subscriber preferences. You may also receive from time to time automated or administrative messages relating to your account and use of your account even if you unsubscribe from all subscribed email options.
+E-mail Communications - Sellers are automatically subscribed to our 'Seller Newsletter'.  This newsletter will keep you up-to-date with everything you need to know as a Zibbet seller, including new features, information about how to make more sales etc.  At the bottom of these emails is an 'unsubscribe' link.  If you click this, you will automatically be unsubscribed from receiving these emails.  You may subscribe to a number of email services providing information about new features, announcements, special promotions and discounts in your member account section. We will not send you these subscribed emails unless you explicitly consent to receive the mailings by checking the subscriptions boxes. You may unsubscribe from these subscribed emails by clicking the unsubscribe link in the email messages, or by updating your preferences in your user account. Our subscribed emails may contain code that enables our database to track your usage of the newsletters, including whether the e-mail was opened and/or what links (if any) were clicked. We will combine such information with other information we have about you and may use this information to improve your experience with our site and/or provide more customized e-mail communications to you according to your subscriber preferences. You may also receive from time to time automated or administrative messages relating to your account and use of your account even if you unsubscribe from all subscribed email options.
 
 ### Information sharing and disclosure
 
@@ -120,3 +120,5 @@ Please post all correspondence to;
 Zibbet Pty Ltd  
 P.O Box 37  
 Narellan, NSW 2567
+
+ABN: 71 128 897 021
