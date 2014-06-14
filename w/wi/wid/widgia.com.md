@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the widgia.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214061241id_/http%3A//widgia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the widgia.com privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614175850id_/http%3A//widgia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
