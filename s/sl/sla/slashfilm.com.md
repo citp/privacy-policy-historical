@@ -1,43 +1,35 @@
-> *The following text is extracted and transformed from the slashfilm.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618020947id_/http%3A//www.slashfilm.com/staticpages/index.php/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slashfilm.com privacy policy that was archived on 2014-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140615123759id_/http%3A//www.slashfilm.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Privacy Policy - /FILM
+# Privacy Policy - www.slashfilm.com
 
-This is the web site of **/Film**.
+Privacy Policy for www.slashfilm.com 
 
-Our postal address is   
-**  
-Natick, MA 01760**
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at orfilms@gmail.com. 
 
-We can be reached via e-mail at [orfilms@gmail.com](mailto:orfilms@gmail.com)
+At www.slashfilm.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.slashfilm.com and how it is used. 
 
-For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible).
+**Log Files**  
+Like many other Web sites, www.slashfilm.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track users movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
 
-We collect only the domain name, but not the e-mail address of visitors to our Web page, the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, the e-mail addresses of those who make postings to our chat areas.
+**Cookies and Web Beacons**  
+www.slashfilm.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
 
-The information we collect is used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor, used to notify consumers about updates to our Web site and .
+**DoubleClick DART Cookie**
 
-With respect to cookies: We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart, record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site , ensure that visitors are not repeatedly sent the same banner ads, customize Web page content based on visitors' browser type or other information that the visitor sends.
+.:: Google, as a third party vendor, uses cookies to serve ads on www.slashfilm.com.  
+.:: Google's use of the DART cookie enables it to serve ads to your users based on their visit to www.slashfilm.com and other sites on the Internet.   
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html 
 
-If you do not want to receive e-mail from us in the future, please let us know by or changing this option in the user preferences.
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .......   
+Google Adsense 
 
-If you supply us with your postal address on-line you will only receive the information for which you provided us your address.
+Linkshare   
+Amazon 
 
-Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.slashfilm.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
 
-Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations 
+www.slashfilm.com has no access to or control over these cookies that are used by third-party advertisers. 
 
-With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:  
-http://www.google.com/privacy.html  
-http://www.fastclick.com/company/privacy.html  
-http://casalemedia.com/privacy.html
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.slashfilm.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
-
-Upon request we provide site visitors with access to a description of information that we maintain about them.
-
-Consumers can access this information by e-mail us at the above address.
-
-If you feel that this site is not following its stated information policy, you may contact The DMA's Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org), state or local chapters of the Better Business Bureau, state or local consumer protection office, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at <http://www.ftc.gov/ftc/complaint.htm>.
-
-  
-Last Updated Friday, October 28 2005 @ 12:32 AM EDT [](http://www.slashfilm.com/staticpages/index.php/privacy/print)
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
