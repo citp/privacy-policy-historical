@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the sli.do privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207011838id_/http%3A//www.sli.do/terms-policy%23pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sli.do privacy policy that was archived on 2014-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140615152744id_/http%3A//www.sli.do/terms-policy%23pp) for the most accurate reproduction.*
 
-# Terms of Service & Privacy Policy | sli.do - make your event more interactive
+# Terms of Service & Privacy Policy | sli.do - give a voice to your audience
 
 **Terms of Service**  
-These Terms of Service are effective as of May 1, 2013. 
+These Terms of Service are effective as of January 1, 2014. 
 
 * * *
 
-By using sli.do on www.sli.do and other domains runned by Instando s.r.o. (“Sites”) you are agreeing to be bound be the following terms and conditions.
+By using sli.do on www.sli.do and other domains runned by sli.do s.r.o. (“Sites”) you are agreeing to be bound be the following terms and conditions.
 
 **Basic Terms**
 
@@ -35,7 +35,7 @@ Violation of any of these agreements will result in the termination of all data 
 **Copyright**
 
   * We claim no intellectual property right over the material user provide to our sites. All information and materials uploaded remain yours. You can deactivate your accounts and feedbacks any time, such data will be not publicly visible, however we can use them according to the most recent Privacy Policy.
-  * Information collected on our sites (questions, feedbacks, results) are intellectual property of Instando s.r.o. Users however has the right to deactivate these from his account. After the deactivation, we may still use such data following the most recent Privacy Policy.
+  * Information collected on our sites (questions, feedbacks, results) are intellectual property of sli.do s.r.o. Users however has the right to deactivate these from his account. After the deactivation, we may still use such data following the most recent Privacy Policy.
   * We undertake to obey all relevant copyright laws. We will review all claims of copyright infringement received and remove content deemed to have been posted or distributed in violation of any such laws. To make a claim, please provide us with following: 
     * a physical or electronic signature of the copyright owner or the person authorized to act on its behalf
     * a description of the copyrighted work claimed to have been infringed
@@ -47,11 +47,11 @@ Violation of any of these agreements will result in the termination of all data 
 
 
 **Privacy Policy**  
-This Privacy Policy is effective as of May 12, 2012. 
+This Privacy Policy is effective as of January 1, 2014. 
 
 * * *
 
-Instando s.r.o.provides the Privacy Policy to inform users about policies and processes regarding the collection, use and disclosure of personally identifiable information received from users of sli.do on www.sli.do and other domains runned by Instando s.r.o. (“Sites”).
+Sli.do s.r.o. provides the Privacy Policy to inform users about policies and processes regarding the collection, use and disclosure of personally identifiable information received from users of sli.do on www.sli.do and other domains runned by sli.do s.r.o. (“Sites”).
 
 **What information do we collect?**  
 We collect and process information from you when you create an event, interact with an event or register on our sites. You may be asked to enter details about you and your feedback in order to provide you better insights, however you may use our sites without it.
