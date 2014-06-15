@@ -1,67 +1,64 @@
-> *The following text is extracted and transformed from the fwi.co.uk privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215162424id_/http%3A//fwi.co.uk/staticpages/Privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fwi.co.uk privacy policy that was archived on 2014-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140615033059id_/http%3A//fwi.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Farmers Weekly
 
-**PRIVACY STATEMENT**
+### PRIVACY STATEMENT
 
-This website is owned and operated by 
+This website is owned and operated by [Reed Business Information Limited](http://www.reedbusiness.com/)
 
-[Reed Business Information Limited](http://www.rbi.co.uk/rb2_about/rb2_about_profile.htm)  
 Information we collect from our customers and users of our websites may be used in the following ways.
 
-**Subscription Services**
+#### Subscription Services
 
-Personal information provided as part of the registration process for any publication, product or service is used to manage your subscription and to enable us to provide a better service.   
-**   
-Payment details **
+Personal information provided as part of the registration process for any publication, product or service is used to manage your subscription and to enable us to provide a better service.
 
-Any information provided by you in connection with any transaction regarding your credit or debit card numbers, expiry date and billing or delivery address will be used by us to process the transaction. These details will be stored on a secure server and may be used by us to facilitate and personalise future transactions with you.  If you do not wish us to store and use the information for future transactions, please contact us. **Contact details  
-**  
+#### Payment details
+
+Any information provided by you in connection with any transaction regarding your credit or debit card numbers, expiry date and billing or delivery address will be used by us to process the transaction. These details will be stored on a secure server and may be used by us to facilitate and personalise future transactions with you.  If you do not wish us to store and use the information for future transactions, please contact us.
+
+#### Contact details
+
 We will use contact details provided by you as part of any registration process (i.e. your name, job title, telephone and fax number and your e-mail and postal addresses) to provide any product or services requested by you and also to tell you about important changes to relevant subscription services and their functionality.
 
-Contact details other than e-mail addresses will be used by us and by our associated companies to provide you with information about other services and products which may interest you and may also be disclosed to third party businesses and advertisers for the same purpose.  If you do not wish to be contacted for this purpose, you may register your preferences by 
+Contact details other than e-mail addresses will be used by us and by our associated companies to provide you with information about other services and products which may interest you and may also be disclosed to third party businesses and advertisers for the same purpose.  If you do not wish to be contacted for this purpose, you may register your preferences by [clicking here.](https://web.archive.org/disable/login/mainlogin/)
 
-[clicking here](https://web.archive.org/disable/login/mainlogin/) ...
+We will not use or disclose your e-mail address for marketing purposes unless you have agreed that we may use or disclose it in this way.  You may at any time opt-out of receiving further e-mails by [registering your preference here.](https://web.archive.org/disable/login/mainlogin/)
 
-We will not use or disclose your e-mail address for marketing purposes unless you have agreed that we may use or disclose it in this way.  You may at any time opt-out of receiving further e-mails by 
+If you wish to alter any of your registration details [please click here.](https://web.archive.org/disable/login/mainlogin/)
 
-[registering your preference here](https://web.archive.org/disable/login/mainlogin/) ...
-
-If you wish to alter any of your registration details 
-
-[please click here](https://web.archive.org/disable/login/mainlogin/) ...  
-**  
-Voluntary Information **
+#### Voluntary Information
 
 We may ask for further information about you as part of online surveys or if you enter any competition or other promotional feature. This information will be used to enable us to improve the relevant publication, product or service and may also be disclosed to other companies as specified in the relevant promotion.
 
-**Statistical information**
+#### Statistical information
 
-Aggregate statistical information provided by us to our advertisers or others regarding sales or website usage will not include personally identifying information. 
+Aggregate statistical information provided by us to our advertisers or others regarding sales or website usage will not include personally identifying information.
 
-  **Security**
+#### Security
 
-Your personal data will be held on a secure server. Our sites are equipped with the latest security devices/firewalls. 
+Your personal data will be held on a secure server. Our sites are equipped with the latest security devices/firewalls.
 
-  **Access to Data**
+#### Access to Data
 
 Under the Data Protection Act 1988. You have the right to be told what personal information we hold about you on our databases. You should write to us, attn Company Secretary at the following address: Quadrant House, The Quadrant, Sutton, Surrey SM2 5AS. UK stating your full name, your address and any of our publications or services to which you know you subscribe. A small administrative charge may be made for fulfilling this request.
 
-**USE OF COOKIES BY FARMERS WEEKLY**
+### USE OF COOKIES BY FARMERS WEEKLY
 
 Cookies are small text files that are placed on your computer by websites that you visit. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site.
 
 Farmers Weekly requires cookies in order to operate fully and works with third party advertisers who place cookies on your computer to serve and target advertisements more effectively.
 
-Most web browsers allow some control of cookies through browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/). 
+Most web browsers allow some control of cookies through browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
-Further information about the cookies used by Farmers Weekly is provided below. 
+Further information about the cookies used by Farmers Weekly is provided below.
 
-**Cookies used by Farmers Weekly**
+#### Cookies used by Farmers Weekly
 
 The following Cookie categories are based on the classification presented in The International Chambers of Commerce (ICC) Cookie Guide.
 
-Category 1: Strictly necessary cookies. These cookies are strictly necessary to provide services that you have requested. Category 1 Cookies used by Farmers Weekly:
+#### Category 1 - Strictly necessary cookies
+
+These cookies are strictly necessary to provide services that you have requested. Category 1 Cookies used by Farmers Weekly:
 
   * Login status: To Identify you as being logged in to our website.
   * Load Balancing: Cookies may be used to distribute load across our web servers - to ensure our websites perform well and give you the best possible experience.
@@ -69,7 +66,9 @@ Category 1: Strictly necessary cookies. These cookies are strictly necessary to 
 
 
 
-Category 2: Performance cookies. These cookies collect information about how visitors use our website, for instance which pages visitors go to most often. The information collected by these cookies is aggregated, so these cookies don’t collect information that identifies a visitor. The information collected is anonymous and is only used to improve the way our website works. Category 2 Cookies used by Farmers Weekly: 
+#### Category 2 - Performance cookies
+
+These cookies collect information about how visitors use our website, for instance which pages visitors go to most often. The information collected by these cookies is aggregated, so these cookies don’t collect information that identifies a visitor. The information collected is anonymous and is only used to improve the way our website works. Category 2 Cookies used by Farmers Weekly:
 
   * Web analytics: Google Web Analytics and Site Catalyst cookies are used to improve the design and user experience of our website by providing statistics on site usage and pages visited. 
 
@@ -80,7 +79,11 @@ Category 2: Performance cookies. These cookies collect information about how vis
 
 
 
-Category 3: Functionality cookies. These cookies allow us to remember choices you make (such as your user name, language or the region you are in) and provide enhanced, more relevant features. Category 3 Cookies used by Farmers Weekly: 
+#### Category 3 - Functionality cookies
+
+These cookies allow us to remember choices you make (such as your user name, language or the region you are in) and provide enhanced, more relevant features.
+
+#### Category 3 - Cookies used by Farmers Weekly:
 
   * User Preferences: Preference cookies remember settings you’ve applied to this site such as Layout, Default views, Search filters, Number of Search results per page, Video bandwidth etc... 
   * Optimizing User Experience: Remembering recently viewed pages. Remembering your last search term. 
@@ -88,47 +91,49 @@ Category 3: Functionality cookies. These cookies allow us to remember choices yo
 
 
 
-Category 4: Targeting or Advertising cookies. These cookies are used to deliver adverts more relevant to you and your interests. They are also used to limit the number of times you see an advert as well as help measure the effectiveness of the advertising campaign. They are usually placed by advertising networks with the website operator’s permission. They remember that you have visited a website and this information is shared with other organisations such as advertisers. Category 4 Cookies used by Farmers Weekly: 
+#### Category 4 - Targeting or Advertising cookies
 
-  * Targeted Advertising: Advertising cookies are used by third parties to gather and send information to other websites so that they can present you with adverts you may be interested in.
+These cookies are used to deliver adverts more relevant to you and your interests. They are also used to limit the number of times you see an advert as well as help measure the effectiveness of the advertising campaign. They are usually placed by advertising networks with the website operator’s permission. They remember that you have visited a website and this information is shared with other organisations such as advertisers
+
+#### Category 4 - Cookies used by Farmers Weekly:
+
+  * Targeted Advertising: Advertising cookies are used by third parties to gather and send information to other websites so that they can present you with adverts you may be interested in. 
 
 These cookies can be linked to clicks on ‘Like’ or ‘Share’ buttons which may be used on this site. 
 
 The following third party advertising networks are used by Farmers Weekly:
 
->Doubleclick (Google)  
->Adtech  
->Disqus.com  
->Sharethis
+Doubleclick (Google)  
+Adtech  
+Disqus.com  
+Sharethis
 
 You may choose to decline these cookies by visiting the following sites:
 
->[Network Advertising Initiative opt-out page  
-](http://www.networkadvertising.org/managing/opt_out.asp)>[Google advertising opt-out page](http://www.google.com/policies/privacy/ads/)  
->[Adtech opt-out page](http://www.adtech.com/Home/)[  
-](http://www.scorecardresearch.com/CookiesDisabled.aspx?trackid=-1&sitegroup=20&siteid=10300&languageid=1)>[Sharethis opt-out page](http://sharethis.com/privacy)
+[Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp)  
+[Google advertising opt-out page](http://www.google.com/policies/privacy/ads/)  
+[Adtech opt-out page](http://www.adtech.com/Home/)  
+[](http://www.scorecardresearch.com/CookiesDisabled.aspx?trackid=-1&sitegroup=20&siteid=10300&languageid=1)  
+[Sharethis opt-out page](http://sharethis.com/privacy)
 
 In addition, third party advertisers run adverts on Farmers Weekly and use their own advertising networks. 
 
 If you would like to block cookies being set by third party networks you may do so through the preference settings on your browser. 
 
-  * Campaign Tracking: Campaign Tracking cookies are used to monitor how effective adverts, promotions and e-newsletters are. Farmers Weekly traffics its own campaigns through:
+  * Campaign Tracking: Campaign Tracking cookies are used to monitor how effective adverts, promotions and e-newsletters are. Farmers Weekly traffics its own campaigns through: 
 
->Doubleclick (Google)  
->Adtech  
->Site Catalyst
+Doubleclick (Google) Adtech  
+Site Catalyst 
 
-You may choose to decline these cookies by visiting the following sites:
+You may choose to decline these cookies by visiting the following sites: 
 
->[Google advertising opt-out page  
-](http://www.google.com/policies/privacy/ads/)
-
->[Adtech opt-out page](http://www.adtech.com/Home/)  
->[Site Catalyst opt-out page](https://documents.hitbox.com/optout.html)
+[Google advertising opt-out page](http://www.google.com/policies/privacy/ads/)  
+[Adtech opt-out page](http://www.adtech.com/en/service/cookies.html)  
+[Site Catalyst opt-out page](https://rbi.d2.sc.omtrdc.net/optout.html?locale=en_US&popup=true)
 
 In addition, third party advertisers run campaigns on Farmers Weekly.
 
-If you would like to block cookies being set by third party networks you may do so through the preference settings on your browser.
+If you would like to block cookies being set by third party networks you may do so through the preference settings on your browser. 
 
 
 
