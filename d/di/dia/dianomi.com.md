@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dianomi.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231121352id_/http%3A//www.dianomioffers.co.uk/legal/privacy.epl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dianomi.com privacy policy that was archived on 2014-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140615031917id_/http%3A//www.dianomioffers.co.uk/legal/privacy.epl) for the most accurate reproduction.*
 
 # Privacy Policy - dianomi - intelligent customer acquisition
 
@@ -6,7 +6,7 @@ Your privacy is important to us. To better protect your privacy, this notice exp
 
 By using the Website, you consent to these privacy practices, as may be modified by us from time to time. We reserve the right to change the provisions of this Privacy Policy at any time. We will alert you that changes have been made by indicating on the Privacy Policy the date it was last updated. Your use of the Website following the posting of such changes or a revised Privacy Policy will constitute your acceptance to any changes in our privacy practices. We encourage you to review this Privacy Policy whenever you visit the Website to ensure that you understand how any personal information you provide will be used. 
 
-For users in the United Kingdom: Dianomi is registered with the Data Protection Commissioner's Office under the Data Protection Act 1998. 
+For users in the United Kingdom: Dianomi is registered with the Information Commissioner's Office under the Data Protection Act 1998. 
 
 **1\. Collection and Use of information by Dianomi**
 
@@ -37,7 +37,7 @@ Your address data may be cross-referenced against the Experian Financial Strateg
 
 **3\. Use of Cookies and Web Beacons**
 
-To enhance your online experience we use "cookies." Cookies are text files placed by the Website in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personal information. However, once you choose to furnish the Website with personal information (such as signing up to receive one of the offers made by our third party advertising partners), this information may be linked to the data stored in the cookie. We use cookies to understand Internet usage, enhance the performance of the Website, activate special web features and security mechanisms. In addition, we may use cookies to offer you products, programs or services. 
+To enhance your online experience we use "cookies." Cookies are text files placed by the Website in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personal information. However, once you choose to furnish the Website with personal information (such as signing up to receive one of the offers made by our third party advertising partners), this information may be linked to the data stored in the cookie. We use cookies to understand Internet usage, enhance the performance of the Website, activate special web features and security mechanisms. In addition, we may use cookies to offer you products, programs or services which may be part of client retargeting campaigns. 
 
 You always have the option of setting your browser to warn you when a cookie is being accessed on your computer, to delete cookies that are currently on your computer or to decline cookies altogether. However, to take full advantage of the Website and its features, your browser will need to accept cookies. 
 
@@ -49,7 +49,7 @@ Dianomi may also use third parties to serve ads on the Website. These third part
 
 **5\. Correction or Deletion of Personal Information**
 
-To inquire about personal information that this Website has collected about you, to correct factual errors, or to request that we delete any personal Information we have on you in our files, email us at _[customerservices@dianomi.com](mailto:customerservices@dianomi.com)_ and we will make a reasonable effort to comply with your request. You can also update your information if it changes.. 
+To inquire about personal information that this Website has collected about you, to correct factual errors, or to request that we delete any personal Information we have on you in our files, email us at _[customerservices@dianomi.com](mailto:customerservices@dianomi.com)_ and we will make a reasonable effort to comply with your request. You can also update your information if it changes. 
 
 **6\. Children under 13**
 
