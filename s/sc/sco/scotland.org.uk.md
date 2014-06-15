@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scotland.org.uk privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819032532id_/http%3A//www.scotland.org.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scotland.org.uk privacy policy that was archived on 2014-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140615045437id_/http%3A//www.scotland.org.uk/about-scotland.org.uk/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy | About Scotland.org.uk
 
 This privacy policy sets out how HMGT Travel Ltd uses and protects any information that you give TravelScotland when you use this website.
 
