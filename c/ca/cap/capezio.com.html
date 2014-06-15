@@ -1,802 +1,2514 @@
-<!--The following is the downloaded HTML source of the capezio.com privacy policy that was archived on 2013-11-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131113002751id_/http%3A//www.capezio.com/Privacy-Policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the capezio.com privacy policy that was archived on 2014-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140615134226id_/http%3A//www.capezio.com/support/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Privacy Policy</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" class="no-js gt-ie9"><!--<![endif]--><head>
+<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0010/7765.js?438986" async="" type="text/javascript"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NJWQTH"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var celebros_sitekey = 'CapezioV8'</script>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=IE9"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAAEWFRACwAHU1VbBw=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+<title>Privacy Policy | Capezio</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="INDEX,FOLLOW">
 
+<meta property="og:description" content="">
 
+<link rel="icon" href="http://www.capezio.com/media/favicon/default/favicon_2.ico" type="image/x-icon">
+<link rel="shortcut icon" href="http://www.capezio.com/media/favicon/default/favicon_2.ico" type="image/x-icon">
 
+<!--[if lt IE 7]>
+<script type="text/javascript">
+//<![CDATA[
+    var BLANK_URL = 'http://www.capezio.com/js/blank.html';
+    var BLANK_IMG = 'http://www.capezio.com/js/spacer.gif';
+//]]>
+</script>
+<![endif]-->
 
+<link rel="stylesheet" type="text/css" href="http://www.capezio.com/skin/frontend/capezio/default/css/styles.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.capezio.com/skin/frontend/capezio/default/css/widgets.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.capezio.com/skin/frontend/base/default/css/conversionpro/AutoComplete.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.capezio.com/skin/frontend/base/default/css/flint_feefo.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.capezio.com/skin/frontend/responsive/default/css/infortis/brands/brands.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.capezio.com/skin/frontend/capezio/default/css/infortis/ultra-slideshow/ultra-slideshow.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.capezio.com/skin/frontend/capezio/default/css/infortis/_shared/generic-nav.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.capezio.com/skin/frontend/responsive/default/css/infortis/_shared/itemgrid.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.capezio.com/skin/frontend/capezio/default/css/infortis/_shared/accordion.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.capezio.com/skin/frontend/capezio/default/css/infortis/ultra-megamenu/ultra-megamenu.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.capezio.com/skin/frontend/responsive/default/css/infortis/_shared/itemslider.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.capezio.com/skin/frontend/responsive/default/css/infortis/_shared/tabs.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.capezio.com/skin/frontend/capezio/default/css/grid.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.capezio.com/skin/frontend/capezio/default/css/layout.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.capezio.com/skin/frontend/responsive/default/css/print.css" media="print">
+<script type="text/javascript" src="http://www.capezio.com/js/prototype/prototype.js"></script>
+<script type="text/javascript" src="http://www.capezio.com/js/lib/ccard.js"></script>
+<script type="text/javascript" src="http://www.capezio.com/js/prototype/validation.js"></script>
+<script type="text/javascript" src="http://www.capezio.com/js/scriptaculous/builder.js"></script>
+<script type="text/javascript" src="http://www.capezio.com/js/scriptaculous/effects.js"></script>
+<script type="text/javascript" src="http://www.capezio.com/js/scriptaculous/dragdrop.js"></script>
+<script type="text/javascript" src="http://www.capezio.com/js/scriptaculous/controls.js"></script>
+<script type="text/javascript" src="http://www.capezio.com/js/scriptaculous/slider.js"></script>
+<script type="text/javascript" src="http://www.capezio.com/js/varien/js.js"></script>
+<script type="text/javascript" src="http://www.capezio.com/js/varien/form.js"></script>
+<script type="text/javascript" src="http://www.capezio.com/js/mage/translate.js"></script>
+<script type="text/javascript" src="http://www.capezio.com/js/mage/cookies.js"></script>
+<script type="text/javascript" src="http://www.capezio.com/js/infortis/jquery/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="http://www.capezio.com/js/infortis/jquery/jquery-noconflict.js"></script>
+<script type="text/javascript" src="http://www.capezio.com/js/infortis/jquery/plugins/jquery.easing.min.js"></script>
+<script type="text/javascript" src="http://www.capezio.com/js/infortis/jquery/plugins/jquery.flexslider.min.js"></script>
+<script type="text/javascript" src="http://www.capezio.com/js/infortis/jquery/plugins/jquery.accordion.min.js"></script>
+<script type="text/javascript" src="http://www.capezio.com/js/redbox/lib/require.js"></script>
+<script type="text/javascript" src="http://www.capezio.com/js/redbox/shopfinder/additional.js"></script>
+<script type="text/javascript" src="http://www.capezio.com/js/redbox/lib/modernizr.js"></script>
+<script type="text/javascript" src="http://www.capezio.com/js/infortis/jquery/plugins/jquery.tabs.min.js"></script>
+<script type="text/javascript" src="http://www.capezio.com/js/redboxdigital/redbox.js"></script>
+<script type="text/javascript" src="http://www.capezio.com/skin/frontend/enterprise/default/js/scripts.js"></script>
+<script type="text/javascript" src="http://www.capezio.com/skin/frontend/enterprise/default/js/enterprise/catalogevent.js"></script>
+<script type="text/javascript" src="http://www.capezio.com/skin/frontend/enterprise/default/js/enterprise/wishlist.js"></script>
+<script type="text/javascript" src="http://www.capezio.com/skin/frontend/capezio/default/js/cscriptsv2.js"></script>
+<!--[if IE]>
+<link rel="stylesheet" type="text/css" href="http://www.capezio.com/skin/frontend/capezio/default/css/styles-ie.css" media="all" />
+<![endif]-->
+<!--[if lt IE 7]>
+<script type="text/javascript" src="http://www.capezio.com/js/lib/ds-sleight.js"></script>
+<script type="text/javascript" src="http://www.capezio.com/skin/frontend/enterprise/default/js/iehover-fix.js"></script>
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel="stylesheet" type="text/css" href="http://www.capezio.com/skin/frontend/capezio/default/css/styles-ie8.css" media="all" />
+<![endif]-->
+<script type="text/javascript">
+//<![CDATA[
 
- <script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(
-      ['_setAccount', 'UA-30850705-1'],
-      ['_setDomainName', 'none'],
-      ['_setAllowLinker', true],
-      ['_trackPageview'],
-      ['_trackPageLoadTime']
-    );
+	var infortisTheme = {};
+	infortisTheme.responsive = true;
+	infortisTheme.maxBreak = 1360;
 
-    (function() {
-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
-  </script>
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+var script = document.createElement('script')
+script.src = 'http://www.capezio.com/js/redbox/lib/media.match.min.js'
+window.matchMedia || document.documentElement.firstChild.appendChild(script)
+//]]>
+</script>
 
-<script language="JavaScript" type="text/javascript">window.status='Loading...';</script>
-<script type="text/javascript" src="/javascript/NLUtil.jsp__NS_VER=2013.2.0&amp;minver=99&amp;locale=en_US.nlqs"></script>
-<script language="JavaScript" type="text/javascript">window.status='';</script>
-<!-- v=2013.2.0.99 db=34 c=1333011 n=1 rg=2 e=0 r=17 ct=WEBSITE isstore=T https=F
-     id=I:14 cat= sc=29 sct=PRESENTATION thm=101 bll=i:106;c:102;r:103;cr:108;
-     cart=-1 price=5 cur=1 lang=en_US partner=0 promocode=0 leadsource=
-     sco=F
-     page(candbc=F fromdbc=F vol=F) -->
-<link rel="stylesheet" href="http://www.capezio.com/core/styles/pagestyles.nl?ct=-653&amp;bglt=EDE8E2&amp;bgmd=EAE6E3&amp;bgdk=7F766C&amp;bgon=BBAEA5&amp;bgoff=EDE8E2&amp;bgbar=D0864A&amp;tasktitletext=FFFFFF&amp;crumbtext=FFFFFF&amp;headertext=FFFFFF&amp;ontab=000000&amp;offtab=000000&amp;text=000000&amp;link=444444&amp;bgbody=FFFFFF&amp;bghead=FFFFFF&amp;portlet=E0D3BF&amp;portletlabel=000000&amp;bgbutton=CCCCCC&amp;bgrequiredfld=EED0BB&amp;font=Arial%2CHelvetica%2Csans-serif&amp;size_site_content=9pt&amp;size_site_title=9pt&amp;size=1.0&amp;nlinputstyles=T&amp;NS_VER=2013.2.0&amp;3">
-<link href="http://www.capezio.com/site/co-files/co-style.css?b=" rel="stylesheet" type="text/css">
-<link href="http://www.capezio.com/site/co-files/co-templates.css" rel="stylesheet" type="text/css">
-<script type="text/javascript" src="/site/co-files/jquery-1.7.1.min.js"></script>
-<script type="text/javascript" src="/site/co-files/ns-fix.js"></script>
-<script type="text/javascript" src="/site/co-files/gp-functions.js"></script>
-<link rel="shortcut icon" href="http://www.capezio.com/c.1333011/site/co-files/favicon.gif">
-<!-- ##### SLIDE PLUGIN ##### -->
-<link href="http://www.capezio.com/site/co-files/gp-slide.css" rel="stylesheet" type="text/css">
-<script type="text/javascript" src="/site/co-files/gp-slide.js"></script>
-<!-- ##### END SLIDE PLUGIN ##### -->
 
 <script type="text/javascript">
-
-var log_mail = ''
-$j(function(){
-if(log_mail !== ''){
-//$j('.search-menu li#login').hide()
-$j('.search-menu li#logout').show()
-
-} else {
-$j('.search-menu li').css('padding-left','17px')
-$j('.search-menu li.cart_icon').css('padding-left','0px')
-$j('.search-menu').css('margin-left','-15px')
-}
-})
-
-<!--
-var base_url = '/';
-//http://www.capezio.com
--->
+//<![CDATA[
+Mage.Cookies.path     = '/';
+Mage.Cookies.domain   = '.www.capezio.com';
+//]]>
 </script>
 
+<script type="text/javascript">
+//<![CDATA[
+optionalZipCountries = ["HK","IE","MO","PA"];
+//]]>
+</script>
 
-<!--[if IE]>
-<link href="http://www.capezio.com/site/co-files/co-styles-ie.css" rel="stylesheet" type="text/css">
-<![endif]-->
+<script type="text/javascript" src="//cdn-media.amplience.com/capezio/swfobject.min.js?v=responsive"> </script>
+<script type="text/javascript" src="//cdn-media.amplience.com/capezio/interact.min.js?v=responsive"> </script>
+<script type="text/javascript" src="/skin/frontend/capezio/default/js/amplience.js"></script>
 <script>
-function createCookie(name,days,value) 
-{
-                if (days) {
-                               var date = new Date();
-                               date.setTime(date.getTime()+(days*24*60*60*1000));
-                               var expires = "; expires="+date.toGMTString();
-                }
-                else var expires = "";
-                document.cookie = name+"="+value+expires+"; path=/";
-}
-
-function readCookie(name) 
-{ //cookie reader function
-                var nameEQ = name + "=";
-                var ca = document.cookie.split(';');
-                for(var i=0;i < ca.length;i++) {
-                               var c = ca[i];
-                               while (c.charAt(0)==' ') c = c.substring(1,c.length);
-                               if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
-                }
-                return null;
-}
-
-function eraseCookie(name) { //cookie eraser function
-                createCookie(name,"",-1);
-}
+    require.config({
+        baseUrl: "http://www.capezio.com/js/redbox",
+        waitSeconds: 30,
+        deps: ["client\/navigation","client\/search"]    });
 </script>
-<script src="http://j.maxmind.com/app/country.js" type="text/javascript"></script>
-<script>
-try
-{
-	if ((window.location.href.substring(0,"http://shopping.netsuite.com".length) == "http://shopping.netsuite.com") ||
-	(window.location.href.substring(0, "http://www.capezio.com".length) == "http://www.capezio.com"))
-	{
+<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+<script type="text/javascript" src="http://www.capezio.com/js/redbox/shopfinder/googlemarkerInfobox.js"></script>
+<script type="text/javascript">
+    var Base64 = {
+        // private property
+        _keyStr: "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=",
+        // public method for encoding
+        encode: function(input) {
+            var output = "";
+            var chr1, chr2, chr3, enc1, enc2, enc3, enc4;
+            var i = 0;
 
-		if (!readCookie("redirection"))
-		{
-			createCookie("redirection",1, true); 
-			var myCountry = new Array();
-			myCountry["Afghanistan"]="www.capezio.cn";
-			myCountry["Armenia"]="www.capezio.cn";
-			myCountry["Azerbaijan"]="www.capezio.cn";
-			myCountry["Bangladesh"]="www.capezio.cn";
-			myCountry["Belarus"]="www.capezio.cn";
-			myCountry["Bhutan"]="www.capezio.cn";
-			myCountry["Cambodia"]="www.capezio.cn";
-			myCountry["China"]="www.capezio.cn";
-			myCountry["Fed Sates of Micronesia"]="www.capezio.cn";
-			myCountry["Micronesia"]="www.capezio.cn";
-			myCountry["Georgia"]="www.capezio.cn";
-			myCountry["Guam"]="www.capezio.cn";
-			myCountry["Hong Kong"]="www.capezio.cn";
-			myCountry["India"]="www.capezio.cn";
-			myCountry["Indonesia"]="www.capezio.cn";
-			myCountry["Japan"]="www.capezio.jp";
-			myCountry["Kazakhstan"]="www.capezio.cn";
-			myCountry["North Korea"]="www.capezio.cn";
-			myCountry["South Korea"]="www.capezio.cn";
-			myCountry["Kyrgyzstan"]="www.capezio.cn";
-			myCountry["Laos"]="www.capezio.cn";
-			myCountry["Malaysia"]="www.capezio.cn";
-			myCountry["Maldives"]="www.capezio.cn";
-			myCountry["Mongolia"]="www.capezio.cn";
-			myCountry["Myanmar (Burma)"]="www.capezio.cn";
-			myCountry["Nepal"]="www.capezio.cn";
-			myCountry["Pakistan"]="www.capezio.cn";
-			myCountry["Papua New Guinea"]="www.capezio.cn";
-			myCountry["Philippines"]="www.capezio.cn";
-			myCountry["Singapore"]="www.capezio.cn";
-			myCountry["Solomon Islands"]="www.capezio.cn";
-			myCountry["Sri Lanka"]="www.capezio.cn";
-			myCountry["Taiwan"]="www.capezio.cn";
-			myCountry["Tajikistan"]="www.capezio.cn";
-			myCountry["Thailand"]="www.capezio.cn";
-			myCountry["Turkmenistan"]="www.capezio.cn";
-			myCountry["Ukraine"]="www.capezio.cn";
-			myCountry["Uzbekistan"]="www.capezio.cn";
-			myCountry["Vietnam"]="www.capezio.cn";
-			myCountry["Australia"]="www.capeziodanceanz.com";
-			myCountry["Fiji"]="www.capeziodanceanz.com";
-			myCountry["Kiribati"]="www.capeziodanceanz.com";
-			myCountry["Marshall Islands"]="www.capeziodanceanz.com";
-			myCountry["New Zealand"]="www.capeziodanceanz.com";
-			myCountry["Tonga"]="www.capeziodanceanz.com";
-			myCountry["Tuvalu"]="www.capeziodanceanz.com";
-			myCountry["Vanuatu"]="www.capeziodanceanz.com";
-			myCountry["Cote d'ivoire"]="www.capezio.eu";
-			myCountry["Congo"]="www.capezio.eu";
-			myCountry["De. Rep. of Congo"]="www.capezio.eu";
-			myCountry["Djibouti"]="www.capezio.eu";
-			myCountry["Equatorial Guinea"]="www.capezio.eu";
-			myCountry["Ethiopia"]="www.capezio.eu";
-			myCountry["Gabon"]="www.capezio.eu";
-			myCountry["Gambia"]="www.capezio.eu";
-			myCountry["Ghana"]="www.capezio.eu";
-			myCountry["Guinea"]="www.capezio.eu";
-			myCountry["Guinea-Bissau"]="www.capezio.eu";
-			myCountry["Kenya"]="www.capezio.eu";
-			myCountry["Lesotho"]="www.capezio.eu";
-			myCountry["Liberia"]="www.capezio.eu";
-			myCountry["Madagascar"]="www.capezio.eu";
-			myCountry["Malawi"]="www.capezio.eu";
-			myCountry["Mali"]="www.capezio.eu";
-			myCountry["Mauritania"]="www.capezio.eu";
-		myCountry["Mauritius"]="www.capezio.eu";
-		myCountry["Morocco"]="www.capezio.eu";
-		myCountry["Mozambique"]="www.capezio.eu";
-		myCountry["Namibia"]="www.capezio.eu";
-		myCountry["Nauru"]="www.capezio.eu";
-		myCountry["Niger"]="www.capezio.eu";
-		myCountry["Nigeria"]="www.capezio.eu";
-		myCountry["Rwanda"]="www.capezio.eu";
-		myCountry["Sao Tome & Principe"]="www.capezio.eu";
-		myCountry["Senegal"]="www.capezio.eu";
-		myCountry["Seychelles"]="www.capezio.eu";
-		myCountry["Sierra Leone"]="www.capezio.eu";
-		myCountry["Somalia"]="www.capezio.eu";
-		myCountry["South Africa"]="www.capezio.eu";
-		myCountry["Sudan"]="www.capezio.eu";
-		myCountry["Swaziland"]="www.capezio.eu";
-		myCountry["Tanzania"]="www.capezio.eu";
-		myCountry["Togo"]="www.capezio.eu";
-		myCountry["Tunisia"]="www.capezio.eu";
-		myCountry["Uganda"]="www.capezio.eu";
-		myCountry["Zambia"]="www.capezio.eu";
-		myCountry["Zimbabwe"]="www.capezio.eu";
-		myCountry["Russia"]="www.capezio.eu";
-		myCountry["Albania"]="www.capezio.eu";
-		myCountry["Algeria"]="www.capezio.eu";
-		myCountry["Andorra"]="www.capezio.eu";
-		myCountry["Angola"]="www.capezio.eu";
-		myCountry["Austria"]="www.capezio.eu";
-		myCountry["Belgium"]="www.capezio.eu";
-		myCountry["Benin"]="www.capezio.eu";
-		myCountry["Bosnia & Herzegovina"]="www.capezio.eu";
-		myCountry["Botswana"]="www.capezio.eu";
-		myCountry["Brunei"]="www.capezio.eu";
-		myCountry["Bulgaria"]="www.capezio.eu";
-		myCountry["Burkina Faso"]="www.capezio.eu";
-		myCountry["Burundi"]="www.capezio.eu";
-		myCountry["Cameroon"]="www.capezio.eu";
-		myCountry["Cape Verde"]="www.capezio.eu";
-		myCountry["Central African Rep"]="www.capezio.eu";
-		myCountry["Central African Republic"]="www.capezio.eu";
-		myCountry["Chad"]="www.capezio.eu";
-		myCountry["Comoros"]="www.capezio.eu";
-		myCountry["Congo, Republic"]="www.capezio.eu";
-		myCountry["Croatia"]="www.capezio.eu";
-		myCountry["Cyprus"]="www.capezio.eu";
-		myCountry["Czech Republic"]="www.capezio.eu";
-		myCountry["Denmark"]="www.capezio.eu";
-		myCountry["Estonia"]="www.capezio.eu";
-		myCountry["Finland"]="www.capezio.eu";
-		myCountry["France"]="www.capezio.fr";
-		myCountry["Germany"]="www.capezio.eu";
-		myCountry["Greece"]="www.capezio.eu";
-		myCountry["Hungary"]="www.capezio.eu";
-		myCountry["Iceland"]="www.capezio.eu";
-		myCountry["Ireland"]="www.capezio.eu";
-		myCountry["Italy"]="www.capezio.eu";
-		myCountry["Latvia"]="www.capezio.eu";
-		myCountry["Liechtenstein"]="www.capezio.eu";
-		myCountry["Lithuania"]="www.capezio.eu";
-		myCountry["Luxembourg"]="www.capezio.eu";
-		myCountry["Macedonia"]="www.capezio.eu";
-		myCountry["Malta"]="www.capezio.eu";
-		myCountry["Moldova"]="www.capezio.eu";
-		myCountry["Monaco"]="www.capezio.eu";
-		myCountry["Netherlands"]="www.capezio.eu";
-		myCountry["Norway"]="www.capezio.eu";
-		myCountry["Poland"]="www.capezio.eu";
-		myCountry["Portugal"]="www.capezio.eu";
-		myCountry["Romania"]="www.capezio.eu";
-		myCountry["San Marino"]="www.capezio.eu";
-		myCountry["Serbia"]="www.capezio.eu";
-		myCountry["Slovakia"]="www.capezio.eu";
-		myCountry["Slovenia"]="www.capezio.eu";
-		myCountry["Spain"]="www.capezio.eu";
-		myCountry["Sweden"]="www.capezio.eu";
-		myCountry["Switzerland"]="www.capezio.eu";
-		myCountry["Turkey"]="www.capezio.eu";
-		myCountry["United Kingdom"]="www.capezio.co.uk";
-                myCountry["England"]="www.capezio.co.uk";
-		myCountry["Bahrain"]="www.capezio.eu";
-		myCountry["Egypt"]="www.capezio.eu";
-		myCountry["Iran"]="www.capezio.eu";
-		myCountry["Iraq"]="www.capezio.eu";
-		myCountry["Israel"]="www.capezio.eu";
-		myCountry["Jordan"]="www.capezio.eu";
-		myCountry["Kuwait"]="www.capezio.eu";
-		myCountry["Lebanon"]="www.capezio.eu";
-		myCountry["Libya"]="www.capezio.eu";
-		myCountry["Oman"]="www.capezio.eu";
-		myCountry["Qatar"]="www.capezio.eu";
-			myCountry["Saudi Arabia"]="www.capezio.eu";
-		myCountry["Syria"]="www.capezio.eu";
-		myCountry["United Arab Emirates"]="www.capezio.eu";
-		myCountry["Yemen"]="www.capezio.eu";
-		myCountry["Canada"]="www.capezio.com";
-		myCountry["United States"]="www.capezio.com";
-		myCountry["Antigua & Barbuda"]="www.capezio.com";
-		myCountry["Argentina"]="www.capezio.com";
-		myCountry["Aruba"]="www.capezio.com";
-		myCountry["Bahamas"]="www.capezio.com";
-		myCountry["Barbados"]="www.capezio.com";
-		myCountry["Belize"]="www.capezio.com";
-		myCountry["Bermuda"]="www.capezio.com";
-		myCountry["Bolivia"]="www.capezio.com";
-		myCountry["Brazil"]="www.capezio.com";
-		myCountry["Cayman Islands"]="www.capezio.com";
-		myCountry["Chile"]="www.capezio.com";
-		myCountry["Columbia"]="www.capezio.com";
-		myCountry["Costa Rica"]="www.capezio.com";
-		myCountry["Cuba"]="www.capezio.com";
-		myCountry["Dominica"]="www.capezio.com";
-		myCountry["Dominican Republic"]="www.capezio.com";
-		myCountry["Ecuador"]="www.capezio.com";
-		myCountry["El Salvador"]="www.capezio.com";
-		myCountry["Grenada"]="www.capezio.com";
-		myCountry["Guatemala"]="www.capezio.com";
-		myCountry["Guyana"]="www.capezio.com";
-		myCountry["Haiti"]="www.capezio.com";
-		myCountry["Honduras"]="www.capezio.com";
-		myCountry["Jamaica"]="www.capezio.com";
-		myCountry["Mexico"]="www.capezio.com";
-		myCountry["Netherlands Antilles"]="www.capezio.com";
-		myCountry["Nicaragua"]="www.capezio.com";
-		myCountry["Panama"]="www.capezio.com";
-		myCountry["Paraguay"]="www.capezio.com";
-		myCountry["Peru"]="www.capezio.com";
-		myCountry["Puerto Rico"]="www.capezio.com";
-		myCountry["Saint Lucia"]="www.capezio.com";
-		myCountry["Saint Martin"]="www.capezio.com";
-		myCountry["Saint Vincent"]="www.capezio.com";
-		myCountry["St. Kitts and Nevis"]="www.capezio.com";
-		myCountry["Saint Kitts and Nevis"]="www.capezio.com";
-		myCountry["Suriname"]="www.capezio.com";
-		myCountry["Trinidad & Tobago"]="www.capezio.com";
-		myCountry["Uruguay"]="www.capezio.com";
-		myCountry["Venezuela"]="www.capezio.com";
-		myCountry["Virgin Islands"]="www.capezio.com";
-		myCountry["Caribbean"]="www.capezio.com";
+            input = Base64._utf8_encode(input);
 
-		var country = geoip_country_name();
-		if (myCountry[country]) {
-			if (myCountry[country] != "www.capezio.com" && myCountry[country] != "shopping.netsuite.com/capezio") {
-				window.location = "http://"+myCountry[country];
-			}
-		}
-		else if (country.indexOf(" and ") >= 0) {
-			country = country.replace(' and ', ' & ');
-			if (myCountry[country]) {
-				if (myCountry[country] != "www.capezio.com" && myCountry[country] != "shopping.netsuite.com/capezio") {
-					window.location = "http://"+myCountry[country];
-				}
-			}
-		}
-		else if (country.indexOf("[") >= 0) {
-			country = country.replace("[", "(").replace("]", ")");
-			if (mapCountries[country]) {
-				if (myCountry[country] != "www.capezio.com" && myCountry[country] != "shopping.netsuite.com/capezio") {
-					window.location = "http://"+mapCountries[country];
-				}
-			}
-		}
-		}
-	}
-}
-catch(e){}
-</script>
+            while (i < input.length) {
 
-</head>
-<body style="margin: 0px;" onload="page_init()">
-<div id="outerwrapper" style="">
-<div id="innerwrapper" style="">
-<div id="div__header" class="notmobile" leftmargin="0" topmargin="0" marginwidth="1">
-<table border="0" cellspacing="0" cellpadding="0" width="100%">
-<tbody><tr>
-  <td><div class="header-wrap">
-      <div class="header-content">
-        <div class="logo"><a href="/">
-          </a></div>
-        <div class="rate" id="red">
-          <div class="header-copy-banners"><a><img src="/site/co-header/co-rate.jpg"></a></div>
-        </div>
-        <div class="rate" id="white">
-          <div class="header-copy-banners"><a><img src="/site/co-header/co-rate2.jpg"></a></div>
-        </div>
-        <div class="header-right">
-          <ul class="header-social">
-            <li class="facebook"><a target="_blank" href="https://www.facebook.com/capeziobrands">Facebook</a></li>
-          <li class="twitter"><a target="_blank" href="https://twitter.com/capezio">Twitter</a></li>
-          <li class="pinterest"><a target="_blank" href="http://pinterest.com/capezio/">Pinterest</a></li>
-          </ul>
-          <div class="select-country">
-            <ul>
-              <li class="cap_usa"><a>Capezio USA</a>
-                <ul>
-                  <!--<li class="cap_can" ><a href="#">Capezio Canada</a></li>-->
-                  <li class="cap_uk"><a href="http://www.capezioeurope.com">Capezio Europe</a></li>
-                  <li class="cap_aus"><a href="http://www.capeziodanceanz.com">Capezio Australia</a></li>
-                </ul>
-              </li>
-            </ul>
-          </div>
-          <div class="header-search"> 
-            <!-- ##### GLOBAL SEARCH ##### -->
-            <div class="search">
+                chr1 = input.charCodeAt(i++);
+                chr2 = input.charCodeAt(i++);
+                chr3 = input.charCodeAt(i++);
 
-              <table class="search_table table-global-search" width="350" border="0" cellspacing="0" cellpadding="0">
-                <tbody><tr>
-                  <form method="post" name="searchportlettag" id="searchportlettag" onkeypress="if (getEventKeypress(event) == 13) {if (getEventTargetType(event) == &quot;textarea&quot;) return true;event.cancelBubble=true; return false;}" onsubmit="window.location.href='/s.nl/sc.29/category./.f?search='+escape(document.forms['searchportlettag'].elements['search'].value);return false;"></form>
-<td valign="top" align="left" width="100%">
-<table border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-<td colspan="2" class="smalltextnolink" style="display: none;">Search</td>
-</tr>
-<tr>
-<td>
-<table border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-<td class="text"><input type="text" class="input focus-out" name="search" maxlength="50" size="17" value="">&nbsp;</td><td class="text" valign="top"><span id="tbl_go"><input type="button" class="bgbutton" style="" value="" id="go" name="go" onkeypress="event.cancelBubble=true;" onclick="window.location.href='/s.nl/sc.29/category./.f?search='+escape(document.forms['searchportlettag'].elements['search'].value);return false; return false;"></span>
-</td>
-</tr>
-</tbody></table>
-</td>
-</tr>
-<tr>
-<td class="text">&nbsp;</td>
-</tr>
-</tbody></table>
-</td>
+                enc1 = chr1 >> 2;
+                enc2 = ((chr1 & 3) << 4) | (chr2 >> 4);
+                enc3 = ((chr2 & 15) << 2) | (chr3 >> 6);
+                enc4 = chr3 & 63;
 
+                if (isNaN(chr2)) {
+                    enc3 = enc4 = 64;
+                } else if (isNaN(chr3)) {
+                    enc4 = 64;
+                }
 
+                output = output +
+                        this._keyStr.charAt(enc1) + this._keyStr.charAt(enc2) +
+                        this._keyStr.charAt(enc3) + this._keyStr.charAt(enc4);
 
-</tr>
-          </tbody></table>
+            }
 
-            </div>
-            <!-- ##### END GLOBAL SEARCH ##### -->
-            <ul class="search-menu" style="margin-left: -15px;">
-              <li style="padding-left: 17px;"><a href="/s.nl/c.1333011/it.I/id.18/.f">Order Status</a></li>
-              <li style="padding-left: 17px;"><a href="https://checkout.capezio.com/app/center/nlvisitor.nl/sc.6/.f?addrcountry=US&amp;gc=clear">My Account</a></li>
-              <li id="logout" style="padding-left: 17px;"><a href="https://checkout.capezio.com/s.nl/sc.4/.f?logoff=T&amp;ckabandon=&amp;addrcountry=US&amp;gc=clear">Log Out</a></li>
-              <li style="padding-left: 17px;"><a href="/s.nl/sc.3/.f">View Shopping Cart</a></li>
-<li class="cart_icon" style="padding-left: 0px;"><a href="/s.nl/sc.3/.f">0</a></li>
-            </ul>
-          </div>
-        </div>
-        <div class="menu-header">
-          <ul id="nav">
-            <li><a href="/Dance-Shoes/">Dance Shoes</a>
-                  <ul>
-                  <li><a href="/Dance-Shoes/Ballet-Slippers/">Ballet Shoes</a></li>
-                  <li><a href="/Dance-Shoes/Ballroom-Shoes/">Ballroom Shoes</a></li>
-                  <li><a href="/Dance-Shoes/Character-Shoes/">Character Shoes</a></li>
-                  <li><a href="/Dance-Shoes/Dance-Sneakers/">Dance Sneakers</a></li>
-                  <li><a href="/Dance-Shoes/Fizzion/">Fizzion</a></li>
-                  <li><a href="/Dance-Shoes/footUndeez/">footUndeez</a></li>
-                  <li><a href="/Dance-Shoes/Jazz-Shoes/">Jazz Shoes</a></li>
-                  <li><a href="/Dance-Shoes/Lyrical-Modern-Gym-Shoes/">Lyrical, Modern &amp; Gym Shoes</a></li>
-                  <li><a href="/Dance-Shoes/Pointe-Shoes/">Pointe Shoes</a></li>
-                  <li><a href="/Dance-Shoes/Tap-Shoes/">Tap Shoes</a></li>
-                  </ul>
-          </li>
-            <li><a href="/Dancewear/">Dancewear</a>
+            return output;
+        },
+        // private method for UTF-8 encoding
+        _utf8_encode: function(string) {
+            string = string.replace(/\r\n/g, "\n");
+            var utftext = "";
 
-                  <ul>
-                  <li><a href="/Dancewear/Bra-Tops/">Bra Tops</a></li>
-                  <li><a href="/Dancewear/Bottoms/">Bottoms</a></li>
-                  <li><a href="/Dancewear/Dresses/">Dresses</a></li>
-                  <li><a href="/Dancewear/Knitwear/">Knitwear</a></li>
-                  <li><a href="/Dancewear/Leotards/">Leotards</a></li>
-                  <li><a href="/Dancewear/Skirts/">Skirts</a></li>
-                  <li><a href="/Dancewear/Tops/">Tops</a></li>
-                  <li><a href="/Dancewear/T-Shirts/">T-Shirts</a></li>
-                  <li><a href="/Dancewear/Undergarments/">Undergarments</a></li>
-                  <li><a href="/Dancewear/Unitards/">Unitards</a></li>
-                  <li><a href="/Dancewear/Warm-Ups/">Warm-Ups</a></li>
-                  </ul>
+            for (var n = 0; n < string.length; n++) {
 
-</li>
-            <li><a href="/Tights/">Tights</a>
-                 <ul>
-                  <li><a href="/Tights/Body-Tights/">Body Tights</a></li>
-                  <li><a href="/Tights/Fishnet-Tights/">Fishnets Tights</a></li>
-                  <li><a href="/Tights/Footed-Tights/">Footed Tights</a></li>
-                  <li><a href="/Tights/Footless-Tights/">Footless Tights</a></li>
-                  <li><a href="/Tights/Stirrup-Tights/">Stirrup Tights</a></li>
-                  <li><a href="/Tights/Transition-Tights/">Transition Tights</a></li>
-                  <li><a href="/Tights/Skating-Tights/">Skating Tights</a></li>
-                  <li><a href="/Tights/Fashion-Tights/">Fashion Tights</a></li>
-                  </ul>
-          </li>
-            <li><a href="/Childrens/">Childrens</a>
+                var c = string.charCodeAt(n);
 
-                 <ul>
-                  <li><a href="/Childrens/Childrens-Dance-Shoes/">Dance Shoes</a></li>
-                  <li><a href="/Childrens/Childrens-Dancewear/">Dancewear</a></li>
-                  <li><a href="/Childrens/Childrens-Tights/">Tights</a></li>
-                  <li><a href="/Childrens/Childrens-Accessories/">Accessories</a></li>
-                  </ul> 
+                if (c < 128) {
+                    utftext += String.fromCharCode(c);
+                }
+                else if ((c > 127) && (c < 2048)) {
+                    utftext += String.fromCharCode((c >> 6) | 192);
+                    utftext += String.fromCharCode((c & 63) | 128);
+                }
+                else {
+                    utftext += String.fromCharCode((c >> 12) | 224);
+                    utftext += String.fromCharCode(((c >> 6) & 63) | 128);
+                    utftext += String.fromCharCode((c & 63) | 128);
+                }
 
-</li>
-            <li><a href="/Mens/">Mens</a>
+            }
 
-                 <ul>
-                  <li><a href="/Mens/Mens-Dance-Shoes/">Dance Shoes</a></li>
-                  <li><a href="/Mens/Mens-Dancewear/">Dancewear</a></li>
-                  <li><a href="/Mens/Mens-Tights/">Tights</a></li>
-                  </ul>
-</li>
-            <li><a href="/Accessories/">Accessories</a>
-                 <ul>
-                  <li><a href="/Accessories/Ballet-Pointe-Accessories/">Ballet &amp; Pointe Accessories</a></li>
-                  <li><a href="/Accessories/Dance-Bags/">Dance Bags</a></li>
-                  <li><a href="/Accessories/Dance-Ribbons/">Dance Ribbons</a></li>
-                  <li><a href="/Accessories/Dance-Shoe-Accessories/">Dance Shoe Accessories</a></li>
-                  <li><a href="/Accessories/Foot-Care/">Foot Care</a></li>
-                  <li><a href="/Accessories/Gel-Accessories/">Gel Accessories</a></li>
-                  <li><a href="/Accessories/Knee-Pads/">Knee Pads</a></li>
-                  <li><a href="/Accessories/Hair-Accessories/">Hair Accessories</a></li>
-                  <li><a href="/Accessories/Beauty-Stage-Accessories/">Beauty &amp; Stage Accessories</a></li>
-                  <li><a href="/Accessories/Socks/">Socks</a></li>
-                  </ul>
-          </li>
-            <li><a href="/Bunheads/">Bunheads</a></li>
-            <li><a href="/Spotlight/Closeout_Sale/">Sale</a></li>
-            <li><a href="/Gift-Cards/">GiftCards</a></li>
-          </ul>
-        </div>
-      </div>
-      <div class="white-deals-share">
-        <div class="only-deals"><span>Get our email-only deals.</span>
-          <iframe scrolling="no" src="https://forms.netsuite.com/app/site/crm/externalleadpage.nl?compid=1333011&amp;formid=3&amp;h=6f345aa856947f7e1c3d&amp;redirect_count=1&amp;did_javascript_redirect=T&amp;firstname=&amp;lastname=&amp;globalsubscriptionstatus=1&amp;gc=clear" allowtransparency="true" frameborder="0"></iframe>
-        </div>
-        <div class="header-share">
-          <div class="share-pinterest"> <a data-pin-config="none" href="http://pinterest.com/pin/create/button/?url=http://www.capezio.com/Privacy-Policy.html&amp;media=/site/co-template/testitem.jpg&amp;description=Privacy Policy" data-pin-do="buttonPin"><img src="//assets.pinterest.com/images/pidgets/pin_it_button.png" alt="pin me"></a> 
+            return utftext;
+        },
+    }
 
-          </div>
-          <div class="share-googleplus"> 
-            <!-- Place this tag in your head or just before your close body tag. --> 
-            <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script> 
-            <!-- Place this tag where you want the +1 button to render. -->
-            <div class="g-plusone" data-size="medium" data-annotation="none"></div>
-          </div>
-          <div class="share-twitter"> <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://www.capezio.com/Privacy-Policy.html" data-count="none">Tweet</a> 
-            <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> </div>
-              <div class="share-facebook">
+    /**
+     * Sets the current longitude and latitude of the customer
+     * @param {string} formId
+     * @param {string} useCurLocElmId
+     * @returns null
+     * Bolaji Olubajo <bolaji.tolulope@redboxdigital.com>
+     */
+    function setCurLngLag(formId, useCurLocElmId) {
+        var form = $(formId);
+        if (typeof useCurLocElmId !== 'undefined' && form[useCurLocElmId].checked) {
+            if (navigator.geolocation)
+            {
+                navigator.geolocation.getCurrentPosition(
+                        function(position) {
+                            var loc = position.coords.latitude + '|' + position.coords.longitude;
+                            form['loc'].setValue(Base64.encode(loc));
+                            form['loc'].disabled = false;
+                            form.submit();
+                        },
+                        function() {
+                            $(useCurLocElmId).checked = false;
+                        }
+                );
+            }
+            else {
+                alert("Geolocation is not supported by this browser.");
+            }
+        }
+    }
+    function setCurLngLagHref(formId, useCurLocElmId) {
+        var form = $(formId);
+        if (typeof useCurLocElmId !== 'undefined') {
+            if (navigator.geolocation)
+            {
+                navigator.geolocation.getCurrentPosition(
+                        function(position) {
+                            var loc = position.coords.latitude + '|' + position.coords.longitude;
+                            form['loc'].setValue(Base64.encode(loc));
+                            form['loc'].disabled = false;
+                            form.submit();
+                        }
+                );
+            }
+            else {
+                alert("Geolocation is not supported by this browser.");
+            }
+        }
+    }
+</script><script type="text/javascript">//<![CDATA[
+        var Translator = new Translate([]);
+        //]]></script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+<body class=" cms-page-view cms-privacy-policy">
+<!--[if lte IE 9]>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/chrome-frame/1/CFInstall.min.js"></script>
 
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-
-
-<div class="fb-like" data-href="http://www.capezio.com/Privacy-Policy.html" data-send="false" data-layout="button_count" data-width="150" data-show-faces="false"></div>
-
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="sub-deal-share"></div>
-    <div class="breadcrumb-hiden" style="display:none">
-        
-    </div>
-    </td>
-</tr>
-
-</tbody></table>
-</div>
-<div id="div__title" style="margin: 0px;">
-</div>
-<div id="div__label" class="scrollarea" style="margin: 0px; overflow:hidden;">
-</div>
-<div id="div__body" style="">
-<table border="0" cellspacing="0" cellpadding="0" width="100%">
-<tbody><tr>
-<td class="td-left" valign="top" width="205" style="display: none;">
-
-<div style="display:none" class="portlet-currency-wrap">
-      <table class="table-currency" cellpadding="0" cellspacing="0" border="0" width="200">
-
-      </table>
-</div>
-
-<div class="left-wrap">
-      <table class="table-left-nav" cellpadding="0" cellspacing="0" border="0" width="200">
-         <tbody><tr><td valign="top" width="100%">
-<table border="0" cellspacing="0" cellpadding="0" class="table-group" width="100%">
-<tbody><tr class="tr-item level1">
-<td style="" class="" width="" align="" colspan=""><a class="dottedlink" href="/Dance-Shoes/">Dance Shoes</a></td></tr>
-<tr class="tr-item level1">
-<td style="" class="" width="" align="" colspan=""><a class="dottedlink" href="/Dancewear/">Dancewear</a></td></tr>
-<tr class="tr-item level1">
-<td style="" class="" width="" align="" colspan=""><a class="dottedlink" href="/Tights/">Tights</a></td></tr>
-<tr class="tr-item level1">
-<td style="" class="" width="" align="" colspan=""><a class="dottedlink" href="/Accessories/">Accessories</a></td></tr>
-<tr class="tr-item level1">
-<td style="" class="" width="" align="" colspan=""><a class="dottedlink" href="/Collections/">Collections</a></td></tr>
-<tr class="tr-item level1">
-<td style="" class="" width="" align="" colspan=""><a class="dottedlink" href="/Childrens/">Children's</a></td></tr>
-<tr class="tr-item level1">
-<td style="" class="" width="" align="" colspan=""><a class="dottedlink" href="/Mens/">Men's</a></td></tr>
-<tr class="tr-item level1">
-<td style="" class="" width="" align="" colspan=""><a class="dottedlink" href="/Spotlight/">Spotlight</a></td></tr>
-<tr class="tr-item level1">
-<td style="" class="" width="" align="" colspan=""><a class="dottedlink" href="/Gift-Cards/">Gift Cards</a></td></tr>
-
-
-<tr class="tr-item level1">
-<td style="" class="" width="" align="" colspan=""><a class="dottedlink" href="/Bunheads/">Bunheads</a></td></tr>
-</tbody></table>
-</td>
-
-
-
-
-      </tr></tbody></table>
-</div>
-</td>
-<td valign="top" class="no-padding">
-
-    <table width="100%" border="0" cellspacing="0" cellpadding="0" class="table-content-area">
-      <tbody><tr class="portletHandle" id="handle_itemMainPortlet">
-<td width="100%" height="0" align="left" valign="top">
-<table border="0" cellspacing="0" cellpadding="0" width="100%">
-<tbody><tr>
-<td width="0" height="0" align="left" valign="top" style="display:none">
-<form method="post" name="form0" id="form0" action="/s.nl" onkeypress="if (getEventKeypress(event) == 13) {if (getEventTargetType(event) == &quot;textarea&quot;) return true;event.cancelBubble=true; return false;}">
-<input type="hidden" name="c" value="1333011">
-<input type="hidden" name="n" value="1">
-<input type="hidden" name="sc" value="">
-<input type="hidden" name="category" value="-129">
-<input type="hidden" name="id" value="14">
-<input type="hidden" name="it" value="I">
-<input type="hidden" name="vid" value="">
-<input type="hidden" name="ck" value="">
-<input type="hidden" name="cktime" value="114256">
-<input type="hidden" name="cart" value="-1">
-
-</form></td>
-</tr>
-<tr>
-
-<td valign="top" width="100%">
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr valign="top">
-<td>
-<table width="100%" border="0" cellspacing="0" cellpadding="5">
-<tbody><tr>
-
-
-                                    <td class="td-item-info">
-<link href="http://www.capezio.com/site/co-files/co-infopages.css" rel="stylesheet" type="text/css">
-           <script type="text/javascript">
-						  $j(function(){
-							$j('.td-left').hide();
-$j('#div__body').show();
-						  });
-					    </script>
-
-                              
 <style>
-.header-wrap .header-content .rate#red{ display:block;}
-.header-wrap .header-content .rate#white{ display:none;}
+ .chromeFrameInstallDefaultStyle {
+   width: 80%; /* default is 800px */
+   border: 5px solid blue;
+   z-index:9999999999999999;
+ }
 </style>
 
-                                    	<div class="item-info-content">
-                                        <div class="item-info-title"><h1>Privacy Policy</h1></div>
-<div class="breadcrumbs"><a href="/">Home</a> <span>&gt; </span><a class="crumb" onmouseover="this.className='crumbover';" onmouseout="this.className='crumb';" href="/Support/">Support</a> <span>&gt;</span> <b>Privacy Policy</b></div>
-                                        <div class="item-info-image"><img src="" style="display:none" title="Privacy Policy" alt="Privacy Policy"></div>
-                                        <div class="item-info-description">Thank you for visiting! Capezio wants to assure you that your privacy is safe at Capezio.com. This Privacy Policy covers the treatment of personal information that this site gathers when you access or use the Capezio.com online store. For more details please read below.<br><br> <br><br><b>INFORMATION WE COLLECT</b><br><hr>Our visitors - Automatic Data Collection<br><br>Like most websites, Capezio.com collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Capezio's purpose in collecting non-personally identifying information is to better understand how visitors use this website. From time to time, Capezio may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of this website.<br><br>Capezio also collects potentially personally-identifying information like Internet Protocol (IP) addresses. Capezio does not use such information to identify visitors, however, and does not disclose such information, other than under the same circumstances that Capezio uses and discloses personally-identifying information, as described below.<br><br><br><b>Our customers - Information You Provide to Us</b><br><br>Certain actions on the Capezio.com website do require us to collect personally-indentifying information. Purchasers are asked to provide additional information, including as necessary the personal and financial information required to process transactions. In each case, Capezio collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with the Capezio company. We will never disclose personally-identifying information other than as described below.<br><br><br><b>Aggregated Statistics</b><br><br>Capezio may collect statistics about the behavior of visitors to its websites. For instance, Capezio may monitor the most popular sections or products on the site. Capezio may display this non-personally-identifying information publicly or provide it to others. However, Capezio does not disclose personally-identifying information other than as described below.<br><br><br><b>Protection of Certain Personally-Identifying Information</b><br><br>Capezio discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Capezio's behalf or to provide services requested by the customer, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Capezio.com, you consent to the transfer of such information to them. Capezio will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Capezio discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when Capezio believes in good faith that disclosure is reasonably necessary to protect the property or rights of Capezio, third parties or the public at large. Capezio takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.<br><br><br><b>Cookies</b><br><br>A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. Without cookies Capezio can't keep track of the items you've placed in your cart or perform other crucial ecommerce capabilities. Capezio does not use cookies to intrude in your privacy or do anything other than match you up with your information on the Capezio.com site.<br><br> <br><br><b>COMMUNICATIONS</b><br><hr>Capezio does not spam. Capezio will not contact you without your permission except as directly related to a specific order you have placed on the Capezio.com site. Acceptable communications include but are not limited to notification of order status and shipment &amp; tracking information.<br><br>In the circumstance that Capezio starts a blog or newsletter mailing list to inform our customers of non-order-related information, we will solicit your permission first. In the case that you do subscribe and in the future want to be removed from the Capezio mailing list, Capezio promises to provide a one-click instant removal process.<br><br> <br><br><b>CONDITIONS OF USE</b><br><hr>If you decide to visit the Capezio website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of New Jersey state law.<br><br> <br><br><b>PRIVACY POLICY CHANGES</b><br><hr>Although most changes are likely to be minor and infrequent, Capezio may change its Privacy Policy from time to time, and in our sole discretion. Capezio encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.<br><br> <br><br><b>QUESTIONS</b><br><hr>Capezio full contact information, including location, may be found on our Contact page at http://www.capezio.com/contact-us.<br><br> <br><br><b>CREATIVE COMMONS</b><br><hr>This work (the Privacy Policy) is licensed under a Creative Commons Attribution-ShareAlike 2.5 License. (Thanks to OpenDNS and Automattic )<br><br> <br><br><b>EFFECTIVE DATE OF THIS PRIVACY POLICY</b><br><hr>This Privacy Policy is effective as of April 1st, 2012.</div>
-                                        </div>
-                                    </td>
-
-
-<!-- Google Code for Remarketing tag -->
 <script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 1017327112;
-var google_conversion_label = "fFQoCLiktAMQiNyM5QM";
-var google_custom_params = window.google_tag_params;
-var google_remarketing_only = true;
-/* ]]> */
+    jQuery(document).on('load', function() {
+        CFInstall.check({
+            mode: "overlay",
+            destination: "http://www.capezio.com/"
+        });
+    });
 </script>
+<![endif]-->
+<!-- BEGIN GOOGLE ANALYTICS CODEs -->
+<script type="text/javascript">
+//<![CDATA[
+    var _gaq = _gaq || [];
+    
+_gaq.push(['_setAccount', 'UA-30850705-1']);
+_gaq.push(['_trackPageview']);
+    
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
 
+//]]>
+</script>
+<!-- END GOOGLE ANALYTICS CODE -->
+<!-- Google Tag Manager -->
+<script>dataLayer = [{"visitorLoginState":"Logged out","visitorType":"NOT LOGGED IN","visitorLifetimeValue":0,"visitorExistingCustomer":"No"}];</script>
 
-</tr>
-</tbody></table>
-</td>
-</tr>
-</tbody></table>
-</td>
-
-</tr>
-</tbody></table>
-</td>
-</tr>
-
-    </tbody></table>
-
-
-
-
-</td>
-</tr>
-</tbody></table>
-</div>
-<div id="div__footer" class="noprint" leftmargin="0" topmargin="0" marginwidth="1" marginheight="1">
-<div id="div__footer">
-        <div class="footer-content">
-            <!--<ul class="footer-list1">
-				<li><strong>About Capezio</strong></li>
-                              <li><a href="/About/History/" title="History">History</a></li>
-                              <li><a href="/About/Custom-Order-Shoes/" title="Custom Order Shoes">Custom Order Shoes</a></li>
-                              <li><a href="/About/Dance-Foundation/" title="Capezio Dance Foundation">Capezio Dance Foundation</a></li>
-                              <li><a href="http://www.peridance.com/" title="Peridance Capezio Center" target="_blank">Peridance Capezio Center</a></li>
-                              <li><a href="/Stores/" title="Stores">Stores</a></li>
-            </ul>        
-            <ul class="footer-list2">
-				<li><strong>Support</strong></li>
-                              <li><a href="/Capezio-Gift-Card.html" title="Gift Cards">Gift Cards</a></li>
-                              <li><a href="/Privacy-Policy.html" title="Privacy Policy">Privacy Policy</a></li>
-                              <li><a href="/Shipping-Returns.html" title="Shipping & Returns">Shipping & Returns</a></li>
-                              <li><a href="/c.1333011/site/2012_Capezio_FitGuide.pdf" target="_blank" title="Size Charts">Size Charts</a></li>
-                              <li><a href="/Contact-Us.html" title="Contact Us">Contact Us</a></li>
-            </ul>        
-            <ul class="footer-list3">
-				<li><a href="http://dancenews.capezio.com/" title="Dance News Powered by Dance Informa"><strong>Dance News Powered by Dance Informa</strong></a></li>
-                              <li><a href="http://dancenews.capezio.com/events/" title="Events">Events</a></li>
-                              <li><a href="http://dancenews.capezio.com/dance-news/" title="Dance News">Dance News</a></li>
-                              <li><a href="http://dancenews.capezio.com/conventions/" title="Conventions">Conventions</a></li>
-                              <li><a href="http://dancenews.capezio.com/athletes/" title="Athletes">Athletes</a></li>
-                              <li><a href="http://dancenews.capezio.com/auditions/" title="Auditions">Auditions</a></li>
-            </ul>-->        
-			<ul style="width:30%; float:left; margin-right:10%;">
-				<li><strong>About Capezio</strong></li>
-                              <li><a href="/About/History/" title="History">History</a></li>
-                              <li><a href="/About/Custom-Order-Shoes/" title="Custom Order Shoes">Custom Order Shoes</a></li>
-                              <li><a href="/About/Dance-Foundation/" title="Capezio Dance Foundation">Capezio Dance Foundation</a></li>
-                              <li><a href="http://www.peridance.com/" title="Peridance Capezio Center" target="_blank">Peridance Capezio Center</a></li>
-                              <li><a href="/Stores/" title="Stores">Stores</a></li>
-            </ul>        
-            <ul style="width:25%; float:left; margin-right:5%;">
-				<li><strong>Support</strong></li>
-                              <li><a href="/Capezio-Gift-Card.html" title="Gift Cards">Gift Cards</a></li>
-                              <li><a href="/Privacy-Policy.html" title="Privacy Policy">Privacy Policy</a></li>
-                              <li><a href="/Shipping-Returns.html" title="Shipping &amp; Returns">Shipping &amp; Returns</a></li>
-                              <li><a href="/c.1333011/site/2012_Capezio_FitGuide.pdf" target="_blank" title="Size Charts">Size Charts</a></li>
-                              <li><a href="/Contact-Us.html" title="Contact Us">Contact Us</a></li>
-            </ul>        
-            <ul style="width:30%; float:left;">
-				<li><a href="http://dancenews.capezio.com/" title="Dance News Powered by Dance Informa"><strong>Dance News Powered by Dance Informa</strong></a></li>
-                              <li><a href="http://dancenews.capezio.com/events/" title="Events">Events</a></li>
-                              <li><a href="http://dancenews.capezio.com/dance-news/" title="Dance News">Dance News</a></li>
-                              <li><a href="http://dancenews.capezio.com/conventions/" title="Conventions">Conventions</a></li>
-                              <li><a href="http://dancenews.capezio.com/athletes/" title="Athletes">Athletes</a></li>
-                              <li><a href="http://dancenews.capezio.com/auditions/" title="Auditions">Auditions</a></li>
-            </ul>
-		 <!--<div class="search-dealer"><span>Find An Authorized Capezio Dealer</span><input type="text" value="Search by city, state, or zip" class="dealer-input"><input type="button" value="Go" class="dealer-button"></div>-->
-			<div class="footer-banners">
-				<div class="footer-copy-banners"><a href="/" title="Capezio"><img src="/site/co-footer/co-capezio.png" alt="Capezio"></a></div>
-                        <div class="footer-copy-banners"><a href="/Bunheads/" title="Bunheads"><img src="/site/co-footer/co-bunheads.png" alt="Bunheads"></a></div>
-                        <div class="footer-copy-banners"><a href="http://www.peridance.com/" title="Peridance Capezio Center"><img src="/site/co-footer/co-disneycapezio.png" alt="Peridance Capezio Center"></a></div>
-            <div class="footer-copy-cap"><span>® 2013 Capezio</span></div>
-			</div>                           
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NJWQTH"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NJWQTH');</script>
+<!-- End Google Tag Manager -->
+<div id="root-wrapper">
+<div class="wrapper">
+        <noscript>
+        <div class="global-site-notice noscript">
+            <div class="notice-inner">
+                <p>
+                    <strong>JavaScript seems to be disabled in your browser.</strong><br />
+                    You must have JavaScript enabled in your browser to utilize the functionality of this website.                </p>
+            </div>
         </div>
+    </noscript>
+    <div class="page">
+        <div class="header-container" id="top">
+
+    <div class="header container">
+		<div class="grid-full">
+			            
+			<div class="header-main nested-container">
+
+				<div class="header-left grid12-6 vgrid-container">
+	                <div class="logo-wrapper v-grid">
+													<a href="http://www.capezio.com/" title="Capezio" class="logo"><strong>Capezio</strong><img src="http://www.capezio.com/skin/frontend/capezio/default/images/logo.png" alt="Capezio"></a>
+							                </div>
+	                <div class="header-banner v-grid">
+	                   <div class="header-promo-wrapper">
+<div class="title" style="font-size: 1.1em; text-align: center; vertical-align: middle; margin-bottom:0px !important;"><strong>FREE RETURNS</strong> on all orders &amp; </div>
+<div class="title" style="font-size: 1.1em; text-align: center; vertical-align: middle; margin-bottom:0px !important;"> <strong>FREE GROUND SHIPPING</strong> when you spend $75</div>
+</div>	                </div>
+                </div>
+
+                <div class="user-menu clearer grid12-6">
+					<div class="top-level-header">
+													<div class="item item-right">
+<div class="site-switcher">
+    <div class="storeSwitcherDD">
+        <span><img src="http://www.capezio.com/skin/frontend/capezio/default/images/flags/united.png" alt="United States"> United States</span>
+    </div>
+    <div class="storeSwitcherOptions">
+        <div class="switch switcher-language">
+            <ul class="languageSelect">
+                                                                                <li><a href="http://www.capeziodanceanz.com/?___store=au_nz_en"><img src="http://www.capezio.com/skin/frontend/capezio/default/images/flags/australia.png" alt="Australia &amp; NZ"> Australia &amp; NZ</a></li>
+                                                                                                    <li><a href="http://www.capezio.cn/?___store=china"><img src="http://www.capezio.com/skin/frontend/capezio/default/images/flags/china.png" alt="China"> China</a></li>
+                                                                                                    <li><a href="http://www.capeziodanceeu.com/?___store=eu"><img src="http://www.capezio.com/skin/frontend/capezio/default/images/flags/european.png" alt="European Union"> European Union</a></li>
+                                                                                                    <li class="current"><img src="http://www.capezio.com/skin/frontend/capezio/default/images/flags/united.png" alt="United States"> United States</li>
+                                                </ul>
+        </div>
+    </div>
+</div>
+</div>
+												<div class="header-find-store">
+							<a href="http://www.capezio.com/find-a-store/" title="Find a Store">Find a Store</a>
+						</div>
+						<div class="top-links show-separators clearer">
+							    
+<ul class="links">
+            
+			
+            <li class="first" id="link-sign-in"><a href="https://www.capezio.com/customer/account/login/referer/aHR0cDovL3d3dy5jYXBlemlvLmNvbS9wcml2YWN5LXBvbGljeQ,,/" title="Sign In">Sign In</a></li>
+                    
+			
+            <li class=" last" id="link-order-status"><a href="https://www.capezio.com/sales/order/history/" title="Order Status">Order Status</a></li>
+            </ul>
+							<div class="top-editable-links show-separators clearer">
+																	<ul class="links">
+    <li><a href="http://www.capezio.com/capezio-gift-card/" title="Gift Card">Gift Card</a></li>
+</ul>															</div>
+						</div>
+                    </div>
+					<div class="clear"></div>
+  
+					<div class="bottom-level-header">
+						<div class="cart-tablet">
+							
+<div id="mini-cart" class="dropdown is-empty hide-empty-cart">
+
+    <div class="dropdown-toggle cover" title="You have no items in your shopping cart">
+	    <div class="show-nav">
+	    
+	        <div>Shopping Cart</div>
+				        	<div class="cart-number">0</div>
+	        	
+		</div> 
+    </div> 
+    
+            	<div class="dropdown-menu left-hand block">
+        	<div class="block-content-inner">
+
+				                <div class="empty">You have no items in your shopping cart.</div>
+
+            </div> <!-- end: block-content-inner -->
+		</div> <!-- end: dropdown-menu -->
+    
+</div> <!-- end: mini-cart -->
+
+							<div class="after-mini-cart"></div>
+						</div>
+                    
+						<div class="header-top-search-wrapper">
+							<form id="search_mini_form" action="http://www.capezio.com/catalogsearch/result/" method="get">
+<div class="form-search">
+    <label for="search">Search site:</label>
+    <input id="search" type="text" name="q" value="" class="input-text" maxlength="128" onfocus="if(this.value =='') { this.value = ''; }" onblur="if(this.value=='') { this.value=''; }"> <button type="submit" title="Search" class="button"><span><span>Search</span></span></button>
+    <div id="search_autocomplete" class="search-autocomplete"></div>
+    <script type="text/javascript">
+    //<![CDATA[
+        var searchForm = new Varien.searchForm('search_mini_form', 'search', 'Search...');
+        searchForm.initAutocomplete('http://www.capezio.com/catalogsearch/ajax/suggest/', 'search_autocomplete');
+    //]]>
+    </script>
+</div>
+</form>
+						</div>
+					</div>
+                </div> 
+            </div>
+        </div> 
+    </div> 
+    
+	<div class="nav-container">
+		<div class="nav container clearer show-bg">
+
+			<div class="grid12-9">
+				
+
+
+	<div id="mobnav" class="grid-full">
+    	<a id="mobnav-trigger" href="">
+        	<span class="trigger-icon"><span class="line"></span><span class="line"></span><span class="line"></span></span>
+    	</a>
+	</div>
+
+	<div class="vertnav-top mobile mobile-wrapper">
+        <ul class="mobile-accordion">
+                                        <li class="level0 nav-1 level-top first parent">
+<a href="http://www.capezio.com/women" class="level-top">
+<span>Women</span>
+</a>
+<span class="opener">&nbsp;</span>
+
+<ul class="level0">
+<li class="level1 nav-1-1 first parent">
+<a href="http://www.capezio.com/women/shoes">
+<span>Shoes</span>
+</a>
+<span class="opener">&nbsp;</span>
+
+<ul class="level1">
+<li class="level2 nav-1-1-1 first">
+<a href="http://www.capezio.com/women/shoes/ballroom-shoes">
+<span>Ballroom Shoes</span>
+</a>
+</li><li class="level2 nav-1-1-2">
+<a href="http://www.capezio.com/women/shoes/ballet-slippers">
+<span>Ballet Slippers</span>
+</a>
+</li><li class="level2 nav-1-1-3">
+<a href="http://www.capezio.com/women/shoes/footundeez">
+<span>footUndeez™</span>
+</a>
+</li><li class="level2 nav-1-1-4">
+<a href="http://www.capezio.com/women/shoes/character-shoes">
+<span>Character Shoes</span>
+</a>
+</li><li class="level2 nav-1-1-5">
+<a href="http://www.capezio.com/women/shoes/dance-sneakers">
+<span>Dansneaker®</span>
+</a>
+</li><li class="level2 nav-1-1-6">
+<a href="http://www.capezio.com/women/shoes/jazz-shoes">
+<span>Jazz Shoes</span>
+</a>
+</li><li class="level2 nav-1-1-7">
+<a href="http://www.capezio.com/women/shoes/lyrical-modern-comteporary-gym-shoes">
+<span>Lyrical, Modern &amp; Gym Shoes</span>
+</a>
+</li><li class="level2 nav-1-1-8">
+<a href="http://www.capezio.com/women/shoes/pointe-shoes">
+<span>Pointe Shoes</span>
+</a>
+</li><li class="level2 nav-1-1-9 last">
+<a href="http://www.capezio.com/women/shoes/tap-shoes">
+<span>Tap Shoes</span>
+</a>
+</li>
+</ul>
+
+</li><li class="level1 nav-1-2 parent">
+<a href="http://www.capezio.com/women/dancewear">
+<span>Dancewear</span>
+</a>
+<span class="opener">&nbsp;</span>
+
+<ul class="level1">
+<li class="level2 nav-1-2-10 first">
+<a href="http://www.capezio.com/women/dancewear/leotards">
+<span>Leotards</span>
+</a>
+</li><li class="level2 nav-1-2-11">
+<a href="http://www.capezio.com/women/dancewear/bottoms">
+<span>Bottoms</span>
+</a>
+</li><li class="level2 nav-1-2-12">
+<a href="http://www.capezio.com/women/dancewear/knitwear">
+<span>Knitwear</span>
+</a>
+</li><li class="level2 nav-1-2-13">
+<a href="http://www.capezio.com/women/dancewear/bra-tops">
+<span>Bra Tops</span>
+</a>
+</li><li class="level2 nav-1-2-14">
+<a href="http://www.capezio.com/women/dancewear/dresses">
+<span>Dresses</span>
+</a>
+</li><li class="level2 nav-1-2-15">
+<a href="http://www.capezio.com/women/dancewear/skirts-tutus">
+<span>Skirts/Tutus</span>
+</a>
+</li><li class="level2 nav-1-2-16">
+<a href="http://www.capezio.com/women/dancewear/t-shirts">
+<span>T-Shirts</span>
+</a>
+</li><li class="level2 nav-1-2-17">
+<a href="http://www.capezio.com/women/dancewear/tops">
+<span>Tops</span>
+</a>
+</li><li class="level2 nav-1-2-18">
+<a href="http://www.capezio.com/women/dancewear/undergarments">
+<span>Undergarments</span>
+</a>
+</li><li class="level2 nav-1-2-19 last">
+<a href="http://www.capezio.com/women/dancewear/unitards">
+<span>Unitards</span>
+</a>
+</li>
+</ul>
+
+</li><li class="level1 nav-1-3 parent">
+<a href="http://www.capezio.com/women/activewear">
+<span>Activewear</span>
+</a>
+<span class="opener">&nbsp;</span>
+
+<ul class="level1">
+<li class="level2 nav-1-3-20 first">
+<a href="http://www.capezio.com/women/activewear/workout-1">
+<span>Workout</span>
+</a>
+</li><li class="level2 nav-1-3-21">
+<a href="http://www.capezio.com/women/activewear/dance">
+<span>Dance</span>
+</a>
+</li><li class="level2 nav-1-3-22">
+<a href="http://www.capezio.com/women/activewear/barre">
+<span>Barre</span>
+</a>
+</li><li class="level2 nav-1-3-23">
+<a href="http://www.capezio.com/women/activewear/yoga-1">
+<span>Yoga</span>
+</a>
+</li><li class="level2 nav-1-3-24">
+<a href="http://www.capezio.com/women/activewear/pilates">
+<span>Pilates</span>
+</a>
+</li><li class="level2 nav-1-3-25">
+<a href="http://www.capezio.com/women/activewear/studio-to-street">
+<span>Studio to Street</span>
+</a>
+</li><li class="level2 nav-1-3-26">
+<a href="http://www.capezio.com/women/activewear/studio-by-capezio">
+<span>Studio by Capezio</span>
+</a>
+</li><li class="level2 nav-1-3-27 last">
+<a href="http://www.capezio.com/women/activewear/dance-active">
+<span>Dance Active</span>
+</a>
+</li>
+</ul>
+
+</li><li class="level1 nav-1-4 parent">
+<a href="http://www.capezio.com/women/tights">
+<span>Tights</span>
+</a>
+<span class="opener">&nbsp;</span>
+
+<ul class="level1">
+<li class="level2 nav-1-4-28 first">
+<a href="http://www.capezio.com/women/tights/body-tights">
+<span>Body Tights</span>
+</a>
+</li><li class="level2 nav-1-4-29">
+<a href="http://www.capezio.com/women/tights/fishnet-tights">
+<span>Fishnet Tights</span>
+</a>
+</li><li class="level2 nav-1-4-30">
+<a href="http://www.capezio.com/women/tights/footed-tights">
+<span>Footed Tights</span>
+</a>
+</li><li class="level2 nav-1-4-31">
+<a href="http://www.capezio.com/women/tights/footless-tights">
+<span>Footless Tights</span>
+</a>
+</li><li class="level2 nav-1-4-32">
+<a href="http://www.capezio.com/women/tights/skating-tights">
+<span>Skating Tights</span>
+</a>
+</li><li class="level2 nav-1-4-33">
+<a href="http://www.capezio.com/women/tights/stirrup-tights">
+<span>Stirrup Tights</span>
+</a>
+</li><li class="level2 nav-1-4-34 last">
+<a href="http://www.capezio.com/women/tights/transition-tights">
+<span>Transition Tights</span>
+</a>
+</li>
+</ul>
+
+</li><li class="level1 nav-1-5 last parent">
+<a href="http://www.capezio.com/women/collections">
+<span>Collections</span>
+</a>
+<span class="opener">&nbsp;</span>
+
+<ul class="level1">
+<li class="level2 nav-1-5-35 first">
+<a href="http://www.capezio.com/women/collections/ballroom">
+<span>Ballroom Focus</span>
+</a>
+</li><li class="level2 nav-1-5-36">
+<a href="http://www.capezio.com/women/collections/vintage-whisper">
+<span>Vintage Whisper</span>
+</a>
+</li><li class="level2 nav-1-5-37">
+<a href="http://www.capezio.com/women/collections/pleated-synergy">
+<span>Pleated Synergy</span>
+</a>
+</li><li class="level2 nav-1-5-38">
+<a href="http://www.capezio.com/women/collections/meryl-collection">
+<span>Meryl® Collection</span>
+</a>
+</li><li class="level2 nav-1-5-39">
+<a href="http://www.capezio.com/women/collections/tactel-collection">
+<span>Tactel® Collection</span>
+</a>
+</li><li class="level2 nav-1-5-40">
+<a href="http://www.capezio.com/women/collections/dancelogic">
+<span>DanceLogic®</span>
+</a>
+</li><li class="level2 nav-1-5-41">
+<a href="http://www.capezio.com/women/collections/capezio-classics">
+<span>Capezio Classics</span>
+</a>
+</li><li class="level2 nav-1-5-42">
+<a href="http://www.capezio.com/women/collections/bright-elements">
+<span>Bright Elements</span>
+</a>
+</li><li class="level2 nav-1-5-43 last">
+<a href="http://www.capezio.com/women/collections/team-basics">
+<span>Team Basics</span>
+</a>
+</li>
+</ul>
+
+</li>
+</ul>
+
+</li><li class="level0 nav-2 level-top parent">
+<a href="http://www.capezio.com/men" class="level-top">
+<span>Men</span>
+</a>
+<span class="opener">&nbsp;</span>
+
+<ul class="level0">
+<li class="level1 nav-2-1 first parent">
+<a href="http://www.capezio.com/men/shoes">
+<span>Shoes</span>
+</a>
+<span class="opener">&nbsp;</span>
+
+<ul class="level1">
+<li class="level2 nav-2-1-1 first">
+<a href="http://www.capezio.com/men/shoes/tap-shoes">
+<span>Tap Shoes</span>
+</a>
+</li><li class="level2 nav-2-1-2">
+<a href="http://www.capezio.com/men/shoes/ballroom-shoes">
+<span>Ballroom Shoes</span>
+</a>
+</li><li class="level2 nav-2-1-3">
+<a href="http://www.capezio.com/men/shoes/character-shoes">
+<span>Character Shoes</span>
+</a>
+</li><li class="level2 nav-2-1-4">
+<a href="http://www.capezio.com/men/shoes/ballet-slippers">
+<span>Ballet Slippers</span>
+</a>
+</li><li class="level2 nav-2-1-5">
+<a href="http://www.capezio.com/men/shoes/dance-sneakers">
+<span>Dansneaker®</span>
+</a>
+</li><li class="level2 nav-2-1-6">
+<a href="http://www.capezio.com/men/shoes/footundeez">
+<span>footUndeez</span>
+</a>
+</li><li class="level2 nav-2-1-7">
+<a href="http://www.capezio.com/men/shoes/jazz-shoes">
+<span>Jazz Shoes</span>
+</a>
+</li><li class="level2 nav-2-1-8 last">
+<a href="http://www.capezio.com/men/shoes/lyrical-modern-comteporary-gym-shoes">
+<span>Lyrical, Modern &amp; Gym Shoes</span>
+</a>
+</li>
+</ul>
+
+</li><li class="level1 nav-2-2 parent">
+<a href="http://www.capezio.com/men/dancewear">
+<span>Dancewear</span>
+</a>
+<span class="opener">&nbsp;</span>
+
+<ul class="level1">
+<li class="level2 nav-2-2-9 first">
+<a href="http://www.capezio.com/men/dancewear/bottoms">
+<span>Bottoms</span>
+</a>
+</li><li class="level2 nav-2-2-10">
+<a href="http://www.capezio.com/men/dancewear/t-shirts">
+<span>T-Shirts</span>
+</a>
+</li><li class="level2 nav-2-2-11 last">
+<a href="http://www.capezio.com/men/dancewear/undergarments">
+<span>Undergarments</span>
+</a>
+</li>
+</ul>
+
+</li><li class="level1 nav-2-3 parent">
+<a href="http://www.capezio.com/men/tights">
+<span>Tights</span>
+</a>
+<span class="opener">&nbsp;</span>
+
+<ul class="level1">
+<li class="level2 nav-2-3-12 first last">
+<a href="http://www.capezio.com/men/tights/footed-tights">
+<span>Footed Tights</span>
+</a>
+</li>
+</ul>
+
+</li><li class="level1 nav-2-4 last parent">
+<a href="http://www.capezio.com/men/collections">
+<span>Collections</span>
+</a>
+<span class="opener">&nbsp;</span>
+
+<ul class="level1">
+<li class="level2 nav-2-4-13 first last">
+<a href="http://www.capezio.com/men/collections/ballroom">
+<span>Ballroom</span>
+</a>
+</li>
+</ul>
+
+</li>
+</ul>
+
+</li><li class="level0 nav-3 level-top parent">
+<a href="http://www.capezio.com/children" class="level-top">
+<span>Children</span>
+</a>
+<span class="opener">&nbsp;</span>
+
+<ul class="level0">
+<li class="level1 nav-3-1 first parent">
+<a href="http://www.capezio.com/children/shoes">
+<span>Shoes</span>
+</a>
+<span class="opener">&nbsp;</span>
+
+<ul class="level1">
+<li class="level2 nav-3-1-1 first">
+<a href="http://www.capezio.com/children/shoes/character-shoes">
+<span>Character Shoes</span>
+</a>
+</li><li class="level2 nav-3-1-2">
+<a href="http://www.capezio.com/children/shoes/ballet-slippers">
+<span>Ballet Slippers</span>
+</a>
+</li><li class="level2 nav-3-1-3">
+<a href="http://www.capezio.com/children/shoes/footundeez">
+<span>footUndeez™</span>
+</a>
+</li><li class="level2 nav-3-1-4">
+<a href="http://www.capezio.com/children/shoes/jazz-shoes">
+<span>Jazz Shoes</span>
+</a>
+</li><li class="level2 nav-3-1-5">
+<a href="http://www.capezio.com/children/shoes/lyrical-modern-comteporary-gym-shoes">
+<span>Lyrical, Modern &amp; Gym Shoes</span>
+</a>
+</li><li class="level2 nav-3-1-6 last">
+<a href="http://www.capezio.com/children/shoes/tap-shoes">
+<span>Tap Shoes</span>
+</a>
+</li>
+</ul>
+
+</li><li class="level1 nav-3-2 parent">
+<a href="http://www.capezio.com/children/dancewear">
+<span>Dancewear</span>
+</a>
+<span class="opener">&nbsp;</span>
+
+<ul class="level1">
+<li class="level2 nav-3-2-7 first">
+<a href="http://www.capezio.com/children/dancewear/leotards">
+<span>Leotards</span>
+</a>
+</li><li class="level2 nav-3-2-8">
+<a href="http://www.capezio.com/children/dancewear/bottoms">
+<span>Bottoms</span>
+</a>
+</li><li class="level2 nav-3-2-9">
+<a href="http://www.capezio.com/children/dancewear/knitwear">
+<span>Knitwear</span>
+</a>
+</li><li class="level2 nav-3-2-10">
+<a href="http://www.capezio.com/children/dancewear/skirts-tutus">
+<span>Skirts/Tutus</span>
+</a>
+</li><li class="level2 nav-3-2-11">
+<a href="http://www.capezio.com/children/dancewear/bra-tops">
+<span>Bra Tops</span>
+</a>
+</li><li class="level2 nav-3-2-12">
+<a href="http://www.capezio.com/children/dancewear/dresses">
+<span>Dresses</span>
+</a>
+</li><li class="level2 nav-3-2-13">
+<a href="http://www.capezio.com/children/dancewear/tops">
+<span>Tops</span>
+</a>
+</li><li class="level2 nav-3-2-14">
+<a href="http://www.capezio.com/children/dancewear/undergarments">
+<span>Undergarments</span>
+</a>
+</li><li class="level2 nav-3-2-15 last">
+<a href="http://www.capezio.com/children/dancewear/unitards">
+<span>Unitards</span>
+</a>
+</li>
+</ul>
+
+</li><li class="level1 nav-3-3 parent">
+<a href="http://www.capezio.com/children/tights">
+<span>Tights</span>
+</a>
+<span class="opener">&nbsp;</span>
+
+<ul class="level1">
+<li class="level2 nav-3-3-16 first">
+<a href="http://www.capezio.com/children/tights/fishnet-tights">
+<span>Fishnet Tights</span>
+</a>
+</li><li class="level2 nav-3-3-17">
+<a href="http://www.capezio.com/children/tights/footed-tights">
+<span>Footed Tights</span>
+</a>
+</li><li class="level2 nav-3-3-18">
+<a href="http://www.capezio.com/children/tights/footless-tights">
+<span>Footless Tights</span>
+</a>
+</li><li class="level2 nav-3-3-19">
+<a href="http://www.capezio.com/children/tights/skating-tights">
+<span>Skating Tights</span>
+</a>
+</li><li class="level2 nav-3-3-20">
+<a href="http://www.capezio.com/children/tights/stirrup-tights">
+<span>Stirrup Tights</span>
+</a>
+</li><li class="level2 nav-3-3-21 last">
+<a href="http://www.capezio.com/children/tights/transition-tights">
+<span>Transition Tights</span>
+</a>
+</li>
+</ul>
+
+</li><li class="level1 nav-3-4 last parent">
+<a href="http://www.capezio.com/children/collections">
+<span>Collections</span>
+</a>
+<span class="opener">&nbsp;</span>
+
+<ul class="level1">
+<li class="level2 nav-3-4-22 first">
+<a href="http://www.capezio.com/children/collections/tactel-collection">
+<span>Tactel® Collection</span>
+</a>
+</li><li class="level2 nav-3-4-23">
+<a href="http://www.capezio.com/children/collections/capezio-classics">
+<span>Capezio Classics</span>
+</a>
+</li><li class="level2 nav-3-4-24">
+<a href="http://www.capezio.com/children/collections/childrens-collection">
+<span>Children's Collection</span>
+</a>
+</li><li class="level2 nav-3-4-25">
+<a href="http://www.capezio.com/children/collections/bright-elements">
+<span>Bright Elements</span>
+</a>
+</li><li class="level2 nav-3-4-26">
+<a href="http://www.capezio.com/children/collections/dancelogic">
+<span>DanceLogic®</span>
+</a>
+</li><li class="level2 nav-3-4-27 last">
+<a href="http://www.capezio.com/children/collections/team-basics">
+<span>Team Basics</span>
+</a>
+</li>
+</ul>
+
+</li>
+</ul>
+
+</li><li class="level0 nav-4 level-top parent">
+<a href="http://www.capezio.com/womens-activewear" class="level-top">
+<span>Activewear</span>
+</a>
+<span class="opener">&nbsp;</span>
+
+<ul class="level0">
+<li class="level1 nav-4-1 first parent">
+<a href="http://www.capezio.com/womens-activewear/workout">
+<span>Workout</span>
+</a>
+<span class="opener">&nbsp;</span>
+
+<ul class="level1">
+<li class="level2 nav-4-1-1 first">
+<a href="http://www.capezio.com/womens-activewear/workout/workout">
+<span>Workout</span>
+</a>
+</li><li class="level2 nav-4-1-2">
+<a href="http://www.capezio.com/womens-activewear/workout/dance">
+<span>Dance</span>
+</a>
+</li><li class="level2 nav-4-1-3 last">
+<a href="http://www.capezio.com/womens-activewear/workout/barre">
+<span>Barre</span>
+</a>
+</li>
+</ul>
+
+</li><li class="level1 nav-4-2 parent">
+<a href="http://www.capezio.com/womens-activewear/yoga">
+<span>Yoga</span>
+</a>
+<span class="opener">&nbsp;</span>
+
+<ul class="level1">
+<li class="level2 nav-4-2-4 first">
+<a href="http://www.capezio.com/womens-activewear/yoga/yoga">
+<span>Yoga</span>
+</a>
+</li><li class="level2 nav-4-2-5 last">
+<a href="http://www.capezio.com/womens-activewear/yoga/pilates">
+<span>Pilates</span>
+</a>
+</li>
+</ul>
+
+</li><li class="level1 nav-4-3 parent">
+<a href="http://www.capezio.com/womens-activewear/cover-ups">
+<span>Cover-Ups</span>
+</a>
+<span class="opener">&nbsp;</span>
+
+<ul class="level1">
+<li class="level2 nav-4-3-6 first last">
+<a href="http://www.capezio.com/womens-activewear/cover-ups/studio-to-street">
+<span>Studio to Street</span>
+</a>
+</li>
+</ul>
+
+</li><li class="level1 nav-4-4 last parent">
+<a href="http://www.capezio.com/womens-activewear/brand">
+<span>Brand</span>
+</a>
+<span class="opener">&nbsp;</span>
+
+<ul class="level1">
+<li class="level2 nav-4-4-7 first">
+<a href="http://www.capezio.com/womens-activewear/brand/studio-by-capezio">
+<span>Studio by Capezio</span>
+</a>
+</li><li class="level2 nav-4-4-8 last">
+<a href="http://www.capezio.com/womens-activewear/brand/dance-active">
+<span>Dance Active</span>
+</a>
+</li>
+</ul>
+
+</li>
+</ul>
+
+</li><li class="level0 nav-5 level-top parent">
+<a href="http://www.capezio.com/accessories" class="level-top">
+<span>Accessories</span>
+</a>
+<span class="opener">&nbsp;</span>
+
+<ul class="level0">
+<li class="level1 nav-5-1 first parent">
+<a href="http://www.capezio.com/accessories/bunheads">
+<span>Bunheads®</span>
+</a>
+<span class="opener">&nbsp;</span>
+
+<ul class="level1">
+<li class="level2 nav-5-1-1 first">
+<a href="http://www.capezio.com/accessories/bunheads/ballet-pointe-accessories">
+<span>Ballet &amp; Pointe Accessories</span>
+</a>
+</li><li class="level2 nav-5-1-2">
+<a href="http://www.capezio.com/accessories/bunheads/beauty-stage-accessories">
+<span>Beauty &amp; Stage Accessories</span>
+</a>
+</li><li class="level2 nav-5-1-3">
+<a href="http://www.capezio.com/accessories/bunheads/gel-accessories">
+<span>Gel Accessories</span>
+</a>
+</li><li class="level2 nav-5-1-4 last">
+<a href="http://www.capezio.com/accessories/bunheads/hair-accessories">
+<span>Hair Accessories</span>
+</a>
+</li>
+</ul>
+
+</li><li class="level1 nav-5-2 last parent">
+<a href="http://www.capezio.com/accessories/capezio-accessories">
+<span>Capezio Accessories</span>
+</a>
+<span class="opener">&nbsp;</span>
+
+<ul class="level1">
+<li class="level2 nav-5-2-5 first">
+<a href="http://www.capezio.com/accessories/capezio-accessories/ballet-pointe-accessories">
+<span>Ballet &amp; Pointe Accessories</span>
+</a>
+</li><li class="level2 nav-5-2-6">
+<a href="http://www.capezio.com/accessories/capezio-accessories/dance-bags">
+<span>Dance Bags</span>
+</a>
+</li><li class="level2 nav-5-2-7 last">
+<a href="http://www.capezio.com/accessories/capezio-accessories/dance-shoe-accessories">
+<span>Dance Shoe Accessories</span>
+</a>
+</li>
+</ul>
+
+</li>
+</ul>
+
+</li><li class="level0 nav-6 level-top">
+<a href="http://www.capezio.com/just-in" class="level-top">
+<span>NEW</span>
+</a>
+</li><li class="level0 nav-7 level-top last">
+<a href="http://www.capezio.com/sale-now-on" class="level-top">
+<span>Sale</span>
+</a>
+</li>            
+                        
+            <li class="additional-links top-links show-separators clearer">
+                                <ul>
+                    <li><a href="http://www.capezio.com/gift-card/">Gift Card</a></li>
+                    <li><a href="http://www.capezio.com/all-access/">All Access</a></li>
+                    <li><a href="https://www.capezio.com/customer/account/login/">Sign In</a></li>
+                    <li><a href="https://www.capezio.com/customer/account/">Account</a></li>
+                    <li><a href="https://www.capezio.com/sales/order/history/">Order Status</a></li>
+                </ul>
+                <ul>
+                    <li><a href="http://www.capezio.com/find-a-store/" title="Find a Store">Find a Store</a></li>
+                </ul>
+            </li>
+        </ul>
+		
+<div class="site-switcher">
+    <div class="storeSwitcherDD">
+        <span><img src="http://www.capezio.com/skin/frontend/capezio/default/images/flags/united.png" alt="United States"> United States</span>
+    </div>
+    <div class="storeSwitcherOptions">
+        <div class="switch switcher-language">
+            <ul class="languageSelect">
+                                                                                <li><a href="http://www.capeziodanceanz.com/?___store=au_nz_en"><img src="http://www.capezio.com/skin/frontend/capezio/default/images/flags/australia.png" alt="Australia &amp; NZ"> Australia &amp; NZ</a></li>
+                                                                                                    <li><a href="http://www.capezio.cn/?___store=china"><img src="http://www.capezio.com/skin/frontend/capezio/default/images/flags/china.png" alt="China"> China</a></li>
+                                                                                                    <li><a href="http://www.capeziodanceeu.com/?___store=eu"><img src="http://www.capezio.com/skin/frontend/capezio/default/images/flags/european.png" alt="European Union"> European Union</a></li>
+                                                                                                    <li class="current"><img src="http://www.capezio.com/skin/frontend/capezio/default/images/flags/united.png" alt="United States"> United States</li>
+                                                </ul>
+        </div>
+    </div>
+</div>
+	</div>
 
 
 
+    <ul id="nav" class=" wide">
+    
+                        
+                            <li class="level0 nav-8 level-top first parent">
+<a href="http://www.capezio.com/women" class="level-top">
+<span>Women</span>
+</a>
+<div class="level0-wrapper dropdown-6col">
+<div class="nav-block nav-block-center grid12-10 itemgrid itemgrid-5col">
+<ul class="level0">
+<li class="level1 nav-8-1 first parent item">
+<a href="http://www.capezio.com/women/shoes">
+<span>Shoes</span>
+</a>
 
+<ul class="level1">
+<li class="level2 nav-8-1-1 first">
+<a href="http://www.capezio.com/women/shoes/ballroom-shoes">
+<span>Ballroom Shoes</span>
+</a>
+</li><li class="level2 nav-8-1-2">
+<a href="http://www.capezio.com/women/shoes/ballet-slippers">
+<span>Ballet Slippers</span>
+</a>
+</li><li class="level2 nav-8-1-3">
+<a href="http://www.capezio.com/women/shoes/footundeez">
+<span>footUndeez™</span>
+</a>
+</li><li class="level2 nav-8-1-4">
+<a href="http://www.capezio.com/women/shoes/character-shoes">
+<span>Character Shoes</span>
+</a>
+</li><li class="level2 nav-8-1-5">
+<a href="http://www.capezio.com/women/shoes/dance-sneakers">
+<span>Dansneaker®</span>
+</a>
+</li><li class="level2 nav-8-1-6">
+<a href="http://www.capezio.com/women/shoes/jazz-shoes">
+<span>Jazz Shoes</span>
+</a>
+</li><li class="level2 nav-8-1-7">
+<a href="http://www.capezio.com/women/shoes/lyrical-modern-comteporary-gym-shoes">
+<span>Lyrical, Modern &amp; Gym Shoes</span>
+</a>
+</li><li class="level2 nav-8-1-8">
+<a href="http://www.capezio.com/women/shoes/pointe-shoes">
+<span>Pointe Shoes</span>
+</a>
+</li><li class="level2 nav-8-1-9 last">
+<a href="http://www.capezio.com/women/shoes/tap-shoes">
+<span>Tap Shoes</span>
+</a>
+</li>
+</ul>
+
+</li><li class="level1 nav-8-2 parent item">
+<a href="http://www.capezio.com/women/dancewear">
+<span>Dancewear</span>
+</a>
+
+<ul class="level1">
+<li class="level2 nav-8-2-10 first">
+<a href="http://www.capezio.com/women/dancewear/leotards">
+<span>Leotards</span>
+</a>
+</li><li class="level2 nav-8-2-11">
+<a href="http://www.capezio.com/women/dancewear/bottoms">
+<span>Bottoms</span>
+</a>
+</li><li class="level2 nav-8-2-12">
+<a href="http://www.capezio.com/women/dancewear/knitwear">
+<span>Knitwear</span>
+</a>
+</li><li class="level2 nav-8-2-13">
+<a href="http://www.capezio.com/women/dancewear/bra-tops">
+<span>Bra Tops</span>
+</a>
+</li><li class="level2 nav-8-2-14">
+<a href="http://www.capezio.com/women/dancewear/dresses">
+<span>Dresses</span>
+</a>
+</li><li class="level2 nav-8-2-15">
+<a href="http://www.capezio.com/women/dancewear/skirts-tutus">
+<span>Skirts/Tutus</span>
+</a>
+</li><li class="level2 nav-8-2-16">
+<a href="http://www.capezio.com/women/dancewear/t-shirts">
+<span>T-Shirts</span>
+</a>
+</li><li class="level2 nav-8-2-17">
+<a href="http://www.capezio.com/women/dancewear/tops">
+<span>Tops</span>
+</a>
+</li><li class="level2 nav-8-2-18">
+<a href="http://www.capezio.com/women/dancewear/undergarments">
+<span>Undergarments</span>
+</a>
+</li><li class="level2 nav-8-2-19 last">
+<a href="http://www.capezio.com/women/dancewear/unitards">
+<span>Unitards</span>
+</a>
+</li>
+</ul>
+
+</li><li class="level1 nav-8-3 parent item">
+<a href="http://www.capezio.com/women/activewear">
+<span>Activewear</span>
+</a>
+
+<ul class="level1">
+<li class="level2 nav-8-3-20 first">
+<a href="http://www.capezio.com/women/activewear/workout-1">
+<span>Workout</span>
+</a>
+</li><li class="level2 nav-8-3-21">
+<a href="http://www.capezio.com/women/activewear/dance">
+<span>Dance</span>
+</a>
+</li><li class="level2 nav-8-3-22">
+<a href="http://www.capezio.com/women/activewear/barre">
+<span>Barre</span>
+</a>
+</li><li class="level2 nav-8-3-23">
+<a href="http://www.capezio.com/women/activewear/yoga-1">
+<span>Yoga</span>
+</a>
+</li><li class="level2 nav-8-3-24">
+<a href="http://www.capezio.com/women/activewear/pilates">
+<span>Pilates</span>
+</a>
+</li><li class="level2 nav-8-3-25">
+<a href="http://www.capezio.com/women/activewear/studio-to-street">
+<span>Studio to Street</span>
+</a>
+</li><li class="level2 nav-8-3-26">
+<a href="http://www.capezio.com/women/activewear/studio-by-capezio">
+<span>Studio by Capezio</span>
+</a>
+</li><li class="level2 nav-8-3-27 last">
+<a href="http://www.capezio.com/women/activewear/dance-active">
+<span>Dance Active</span>
+</a>
+</li>
+</ul>
+
+</li><li class="level1 nav-8-4 parent item">
+<a href="http://www.capezio.com/women/tights">
+<span>Tights</span>
+</a>
+
+<ul class="level1">
+<li class="level2 nav-8-4-28 first">
+<a href="http://www.capezio.com/women/tights/body-tights">
+<span>Body Tights</span>
+</a>
+</li><li class="level2 nav-8-4-29">
+<a href="http://www.capezio.com/women/tights/fishnet-tights">
+<span>Fishnet Tights</span>
+</a>
+</li><li class="level2 nav-8-4-30">
+<a href="http://www.capezio.com/women/tights/footed-tights">
+<span>Footed Tights</span>
+</a>
+</li><li class="level2 nav-8-4-31">
+<a href="http://www.capezio.com/women/tights/footless-tights">
+<span>Footless Tights</span>
+</a>
+</li><li class="level2 nav-8-4-32">
+<a href="http://www.capezio.com/women/tights/skating-tights">
+<span>Skating Tights</span>
+</a>
+</li><li class="level2 nav-8-4-33">
+<a href="http://www.capezio.com/women/tights/stirrup-tights">
+<span>Stirrup Tights</span>
+</a>
+</li><li class="level2 nav-8-4-34 last">
+<a href="http://www.capezio.com/women/tights/transition-tights">
+<span>Transition Tights</span>
+</a>
+</li>
+</ul>
+
+</li><li class="level1 nav-8-5 last parent item">
+<a href="http://www.capezio.com/women/collections">
+<span>Collections</span>
+</a>
+
+<ul class="level1">
+<li class="level2 nav-8-5-35 first">
+<a href="http://www.capezio.com/women/collections/ballroom">
+<span>Ballroom Focus</span>
+</a>
+</li><li class="level2 nav-8-5-36">
+<a href="http://www.capezio.com/women/collections/vintage-whisper">
+<span>Vintage Whisper</span>
+</a>
+</li><li class="level2 nav-8-5-37">
+<a href="http://www.capezio.com/women/collections/pleated-synergy">
+<span>Pleated Synergy</span>
+</a>
+</li><li class="level2 nav-8-5-38">
+<a href="http://www.capezio.com/women/collections/meryl-collection">
+<span>Meryl® Collection</span>
+</a>
+</li><li class="level2 nav-8-5-39">
+<a href="http://www.capezio.com/women/collections/tactel-collection">
+<span>Tactel® Collection</span>
+</a>
+</li><li class="level2 nav-8-5-40">
+<a href="http://www.capezio.com/women/collections/dancelogic">
+<span>DanceLogic®</span>
+</a>
+</li><li class="level2 nav-8-5-41">
+<a href="http://www.capezio.com/women/collections/capezio-classics">
+<span>Capezio Classics</span>
+</a>
+</li><li class="level2 nav-8-5-42">
+<a href="http://www.capezio.com/women/collections/bright-elements">
+<span>Bright Elements</span>
+</a>
+</li><li class="level2 nav-8-5-43 last">
+<a href="http://www.capezio.com/women/collections/team-basics">
+<span>Team Basics</span>
+</a>
+</li>
+</ul>
+
+</li>
+</ul>
+</div><div class="nav-block nav-block-right std grid12-2"><div class="main-nav-block-right category-women last" style="width: 90%; height: 90%; float: right;">
+  <div class="bg">
+  <div class="main-nav-block-bottom-text std" style="margin-top: 2%; padding: 0 10px 0 0%;">
+<div class="video-container">
+<iframe width="560" height="315" src="//www.youtube.com/embed/E5s5FZA2ZEE" frameborder="0" allowfullscreen=""></iframe>
+</div>
+<div style="padding-left: 10px;">
+    <h3 style="margin-top: 5%;">Canvas Sculpture II</h3>
+    <p>A ballet slipper designed for optimal comfort and support while dancing.</p>
+    <a class="arrw-lnk" href="http://www.capezio.com/canvas-sculpture-ii/" style="margin-top: 5%;">Shop now</a>
+</div>
+  </div>
+  </div>
+</div>
+
+<style type="text/css">
+
+#nav-dropdown-container .nav-block-right {
+width: 27%;
+padding: 0px 10px 0px 0px;
+margin: 0px;
+}
+
+.video-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 5px; height: 0; overflow: hidden;
+}
+ 
+.video-container iframe,
+.video-container object,
+.video-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+</style>
+
+<style type="text/css">
+
+.video-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 5px; height: 0; overflow: hidden;
+}
+ 
+.video-container iframe,
+.video-container object,
+.video-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+</style></div><div class="nav-block nav-block-bottom grid-full std"><div style="margin-top:2%">
+<div class="main-nav-block-bottom category-women last" style="padding:0 !important; margin: 0px 0px 0px 0px; margin: 0 0px 0 0;">
+    <a href="http://www.feefo.com/US/en/reviews/Capezio_us/?internal=true&amp;mode=service&amp;id=682654&amp;feedbacktype=service_feedback&amp;since=all"><img src="http://www.capezio.com/media/wysiwyg/menu/Feefo_Final.jpg" alt=""></a>
+</div>
+<div class="main-nav-block-bottom category-women last" style="padding:0 !important;  margin: 0px 0px 0px 0px;">
+   <a href="http://www.capezio.com/support/shipping-and-returns/"> <img style="float:right;" src="http://www.capezio.com/media/wysiwyg/menu/Shipping_Final.jpg" alt=""></a>
+</div>
+</div></div>
+</div>
+</li><li class="level0 nav-9 level-top parent">
+<a href="http://www.capezio.com/men" class="level-top">
+<span>Men</span>
+</a>
+<div class="level0-wrapper dropdown-6col">
+<div class="nav-block nav-block-center grid12-8 itemgrid itemgrid-4col">
+<ul class="level0">
+<li class="level1 nav-9-1 first parent item">
+<a href="http://www.capezio.com/men/shoes">
+<span>Shoes</span>
+</a>
+
+<ul class="level1">
+<li class="level2 nav-9-1-1 first">
+<a href="http://www.capezio.com/men/shoes/tap-shoes">
+<span>Tap Shoes</span>
+</a>
+</li><li class="level2 nav-9-1-2">
+<a href="http://www.capezio.com/men/shoes/ballroom-shoes">
+<span>Ballroom Shoes</span>
+</a>
+</li><li class="level2 nav-9-1-3">
+<a href="http://www.capezio.com/men/shoes/character-shoes">
+<span>Character Shoes</span>
+</a>
+</li><li class="level2 nav-9-1-4">
+<a href="http://www.capezio.com/men/shoes/ballet-slippers">
+<span>Ballet Slippers</span>
+</a>
+</li><li class="level2 nav-9-1-5">
+<a href="http://www.capezio.com/men/shoes/dance-sneakers">
+<span>Dansneaker®</span>
+</a>
+</li><li class="level2 nav-9-1-6">
+<a href="http://www.capezio.com/men/shoes/footundeez">
+<span>footUndeez</span>
+</a>
+</li><li class="level2 nav-9-1-7">
+<a href="http://www.capezio.com/men/shoes/jazz-shoes">
+<span>Jazz Shoes</span>
+</a>
+</li><li class="level2 nav-9-1-8 last">
+<a href="http://www.capezio.com/men/shoes/lyrical-modern-comteporary-gym-shoes">
+<span>Lyrical, Modern &amp; Gym Shoes</span>
+</a>
+</li>
+</ul>
+
+</li><li class="level1 nav-9-2 parent item">
+<a href="http://www.capezio.com/men/dancewear">
+<span>Dancewear</span>
+</a>
+
+<ul class="level1">
+<li class="level2 nav-9-2-9 first">
+<a href="http://www.capezio.com/men/dancewear/bottoms">
+<span>Bottoms</span>
+</a>
+</li><li class="level2 nav-9-2-10">
+<a href="http://www.capezio.com/men/dancewear/t-shirts">
+<span>T-Shirts</span>
+</a>
+</li><li class="level2 nav-9-2-11 last">
+<a href="http://www.capezio.com/men/dancewear/undergarments">
+<span>Undergarments</span>
+</a>
+</li>
+</ul>
+
+</li><li class="level1 nav-9-3 parent item">
+<a href="http://www.capezio.com/men/tights">
+<span>Tights</span>
+</a>
+
+<ul class="level1">
+<li class="level2 nav-9-3-12 first last">
+<a href="http://www.capezio.com/men/tights/footed-tights">
+<span>Footed Tights</span>
+</a>
+</li>
+</ul>
+
+</li><li class="level1 nav-9-4 last parent item">
+<a href="http://www.capezio.com/men/collections">
+<span>Collections</span>
+</a>
+
+<ul class="level1">
+<li class="level2 nav-9-4-13 first last">
+<a href="http://www.capezio.com/men/collections/ballroom">
+<span>Ballroom</span>
+</a>
+</li>
+</ul>
+
+</li>
+</ul>
+</div><div class="nav-block nav-block-right std grid12-4"><div class="main-nav-block-right category-women last" style="width: 90%; height: 90%; float: right;">
+  <div class="bg">
+  <div class="main-nav-block-bottom-text std" style="margin-top: 2%; padding: 0 10px 0 0%;">
+<div class="video-container">
+<iframe width="560" height="315" src="//www.youtube.com/embed/GPri9KrPw4k" frameborder="0" allowfullscreen=""></iframe>
+</div>
+<div style="padding-left: 10px;">
+    <h3 style="margin-top: 5%;">The Legendary K360</h3>
+<p>Savion Glover, wearing the K360, shares his ability to combine movement with rhythm and sound.</p>
+    <a class="arrw-lnk" href="http://www.capezio.com/character-oxford/" style="margin-top: 5%;">Shop now</a>
+</div>
+  </div>
+  </div>
+</div>
+
+<style type="text/css">
+
+#nav-dropdown-container .nav-block-right {
+width: 27%;
+padding: 0px 10px 0px 0px;
+margin: 0px;
+}
+
+
+
+.video-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 5px; height: 0; overflow: hidden;
+}
+ 
+.video-container iframe,
+.video-container object,
+.video-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+</style>
+
+<style type="text/css">
+
+.video-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 5px; height: 0; overflow: hidden;
+}
+ 
+.video-container iframe,
+.video-container object,
+.video-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+</style></div><div class="nav-block nav-block-bottom grid-full std"><div style="margin-top:2%">
+<div class="main-nav-block-bottom category-women last" style="padding:0 !important; margin: 0px 0px 0px 0px; margin: 0 0px 0 0;">
+    <a href="http://www.feefo.com/US/en/reviews/Capezio_us/?internal=true&amp;mode=service&amp;id=682654&amp;feedbacktype=service_feedback&amp;since=all"><img src="http://www.capezio.com/media/wysiwyg/menu/Feefo_Final.jpg" alt=""></a>
+</div>
+<div class="main-nav-block-bottom category-women last" style="padding:0 !important;  margin: 0px 0px 0px 0px;">
+   <a href="http://www.capezio.com/support/shipping-and-returns/"> <img style="float:right;" src="http://www.capezio.com/media/wysiwyg/menu/Shipping_Final.jpg" alt=""></a>
+</div>
+</div></div>
+</div>
+</li><li class="level0 nav-10 level-top parent">
+<a href="http://www.capezio.com/children" class="level-top">
+<span>Children</span>
+</a>
+<div class="level0-wrapper dropdown-6col">
+<div class="nav-block nav-block-center grid12-8 itemgrid itemgrid-4col">
+<ul class="level0">
+<li class="level1 nav-10-1 first parent item">
+<a href="http://www.capezio.com/children/shoes">
+<span>Shoes</span>
+</a>
+
+<ul class="level1">
+<li class="level2 nav-10-1-1 first">
+<a href="http://www.capezio.com/children/shoes/character-shoes">
+<span>Character Shoes</span>
+</a>
+</li><li class="level2 nav-10-1-2">
+<a href="http://www.capezio.com/children/shoes/ballet-slippers">
+<span>Ballet Slippers</span>
+</a>
+</li><li class="level2 nav-10-1-3">
+<a href="http://www.capezio.com/children/shoes/footundeez">
+<span>footUndeez™</span>
+</a>
+</li><li class="level2 nav-10-1-4">
+<a href="http://www.capezio.com/children/shoes/jazz-shoes">
+<span>Jazz Shoes</span>
+</a>
+</li><li class="level2 nav-10-1-5">
+<a href="http://www.capezio.com/children/shoes/lyrical-modern-comteporary-gym-shoes">
+<span>Lyrical, Modern &amp; Gym Shoes</span>
+</a>
+</li><li class="level2 nav-10-1-6 last">
+<a href="http://www.capezio.com/children/shoes/tap-shoes">
+<span>Tap Shoes</span>
+</a>
+</li>
+</ul>
+
+</li><li class="level1 nav-10-2 parent item">
+<a href="http://www.capezio.com/children/dancewear">
+<span>Dancewear</span>
+</a>
+
+<ul class="level1">
+<li class="level2 nav-10-2-7 first">
+<a href="http://www.capezio.com/children/dancewear/leotards">
+<span>Leotards</span>
+</a>
+</li><li class="level2 nav-10-2-8">
+<a href="http://www.capezio.com/children/dancewear/bottoms">
+<span>Bottoms</span>
+</a>
+</li><li class="level2 nav-10-2-9">
+<a href="http://www.capezio.com/children/dancewear/knitwear">
+<span>Knitwear</span>
+</a>
+</li><li class="level2 nav-10-2-10">
+<a href="http://www.capezio.com/children/dancewear/skirts-tutus">
+<span>Skirts/Tutus</span>
+</a>
+</li><li class="level2 nav-10-2-11">
+<a href="http://www.capezio.com/children/dancewear/bra-tops">
+<span>Bra Tops</span>
+</a>
+</li><li class="level2 nav-10-2-12">
+<a href="http://www.capezio.com/children/dancewear/dresses">
+<span>Dresses</span>
+</a>
+</li><li class="level2 nav-10-2-13">
+<a href="http://www.capezio.com/children/dancewear/tops">
+<span>Tops</span>
+</a>
+</li><li class="level2 nav-10-2-14">
+<a href="http://www.capezio.com/children/dancewear/undergarments">
+<span>Undergarments</span>
+</a>
+</li><li class="level2 nav-10-2-15 last">
+<a href="http://www.capezio.com/children/dancewear/unitards">
+<span>Unitards</span>
+</a>
+</li>
+</ul>
+
+</li><li class="level1 nav-10-3 parent item">
+<a href="http://www.capezio.com/children/tights">
+<span>Tights</span>
+</a>
+
+<ul class="level1">
+<li class="level2 nav-10-3-16 first">
+<a href="http://www.capezio.com/children/tights/fishnet-tights">
+<span>Fishnet Tights</span>
+</a>
+</li><li class="level2 nav-10-3-17">
+<a href="http://www.capezio.com/children/tights/footed-tights">
+<span>Footed Tights</span>
+</a>
+</li><li class="level2 nav-10-3-18">
+<a href="http://www.capezio.com/children/tights/footless-tights">
+<span>Footless Tights</span>
+</a>
+</li><li class="level2 nav-10-3-19">
+<a href="http://www.capezio.com/children/tights/skating-tights">
+<span>Skating Tights</span>
+</a>
+</li><li class="level2 nav-10-3-20">
+<a href="http://www.capezio.com/children/tights/stirrup-tights">
+<span>Stirrup Tights</span>
+</a>
+</li><li class="level2 nav-10-3-21 last">
+<a href="http://www.capezio.com/children/tights/transition-tights">
+<span>Transition Tights</span>
+</a>
+</li>
+</ul>
+
+</li><li class="level1 nav-10-4 last parent item">
+<a href="http://www.capezio.com/children/collections">
+<span>Collections</span>
+</a>
+
+<ul class="level1">
+<li class="level2 nav-10-4-22 first">
+<a href="http://www.capezio.com/children/collections/tactel-collection">
+<span>Tactel® Collection</span>
+</a>
+</li><li class="level2 nav-10-4-23">
+<a href="http://www.capezio.com/children/collections/capezio-classics">
+<span>Capezio Classics</span>
+</a>
+</li><li class="level2 nav-10-4-24">
+<a href="http://www.capezio.com/children/collections/childrens-collection">
+<span>Children's Collection</span>
+</a>
+</li><li class="level2 nav-10-4-25">
+<a href="http://www.capezio.com/children/collections/bright-elements">
+<span>Bright Elements</span>
+</a>
+</li><li class="level2 nav-10-4-26">
+<a href="http://www.capezio.com/children/collections/dancelogic">
+<span>DanceLogic®</span>
+</a>
+</li><li class="level2 nav-10-4-27 last">
+<a href="http://www.capezio.com/children/collections/team-basics">
+<span>Team Basics</span>
+</a>
+</li>
+</ul>
+
+</li>
+</ul>
+</div><div class="nav-block nav-block-right std grid12-4"><div class="main-nav-block-right category-men last" style="width: 80%; height: 80%; float: right; padding-right:5px;">
+  <div class="bg">
+  <div class="main-nav-block-bottom-text std" style="padding:0 10px 0 0%;">
+    <img src="http://www.capezio.com/media/wysiwyg/menu/love-ballet_1.png" alt="Capezio Love Ballet">
+    <h3 style="margin-top: 5%;"><span style="color:#000000">15% off </span> 'Love Ballet' slippers</h3>
+    <p>The Shoe that grows with your child's foot!</p>
+    <a class="arrw-lnk" href="http://www.capezio.com/love-ballet">Shop now</a>
+  </div>
+  </div>
+</div></div><div class="nav-block nav-block-bottom grid-full std"><div style="margin-top:2%">
+<div class="main-nav-block-bottom category-women last" style="padding:0 !important; margin: 0px 0px 0px 0px; margin: 0 0px 0 0;">
+    <a href="http://www.feefo.com/US/en/reviews/Capezio_us/?internal=true&amp;mode=service&amp;id=682654&amp;feedbacktype=service_feedback&amp;since=all"><img src="http://www.capezio.com/media/wysiwyg/menu/Feefo_Final.jpg" alt=""></a>
+</div>
+<div class="main-nav-block-bottom category-women last" style="padding:0 !important;  margin: 0px 0px 0px 0px;">
+   <a href="http://www.capezio.com/support/shipping-and-returns/"> <img style="float:right;" src="http://www.capezio.com/media/wysiwyg/menu/Shipping_Final.jpg" alt=""></a>
+</div>
+</div></div>
+</div>
+</li><li class="level0 nav-11 level-top parent">
+<a href="http://www.capezio.com/womens-activewear" class="level-top">
+<span>Activewear</span>
+</a>
+<div class="level0-wrapper dropdown-6col">
+<div class="nav-block nav-block-center grid12-8 itemgrid itemgrid-4col">
+<ul class="level0">
+<li class="level1 nav-11-1 first parent item">
+<a href="http://www.capezio.com/womens-activewear/workout">
+<span>Workout</span>
+</a>
+
+<ul class="level1">
+<li class="level2 nav-11-1-1 first">
+<a href="http://www.capezio.com/womens-activewear/workout/workout">
+<span>Workout</span>
+</a>
+</li><li class="level2 nav-11-1-2">
+<a href="http://www.capezio.com/womens-activewear/workout/dance">
+<span>Dance</span>
+</a>
+</li><li class="level2 nav-11-1-3 last">
+<a href="http://www.capezio.com/womens-activewear/workout/barre">
+<span>Barre</span>
+</a>
+</li>
+</ul>
+
+</li><li class="level1 nav-11-2 parent item">
+<a href="http://www.capezio.com/womens-activewear/yoga">
+<span>Yoga</span>
+</a>
+
+<ul class="level1">
+<li class="level2 nav-11-2-4 first">
+<a href="http://www.capezio.com/womens-activewear/yoga/yoga">
+<span>Yoga</span>
+</a>
+</li><li class="level2 nav-11-2-5 last">
+<a href="http://www.capezio.com/womens-activewear/yoga/pilates">
+<span>Pilates</span>
+</a>
+</li>
+</ul>
+
+</li><li class="level1 nav-11-3 parent item">
+<a href="http://www.capezio.com/womens-activewear/cover-ups">
+<span>Cover-Ups</span>
+</a>
+
+<ul class="level1">
+<li class="level2 nav-11-3-6 first last">
+<a href="http://www.capezio.com/womens-activewear/cover-ups/studio-to-street">
+<span>Studio to Street</span>
+</a>
+</li>
+</ul>
+
+</li><li class="level1 nav-11-4 last parent item">
+<a href="http://www.capezio.com/womens-activewear/brand">
+<span>Brand</span>
+</a>
+
+<ul class="level1">
+<li class="level2 nav-11-4-7 first">
+<a href="http://www.capezio.com/womens-activewear/brand/studio-by-capezio">
+<span>Studio by Capezio</span>
+</a>
+</li><li class="level2 nav-11-4-8 last">
+<a href="http://www.capezio.com/womens-activewear/brand/dance-active">
+<span>Dance Active</span>
+</a>
+</li>
+</ul>
+
+</li>
+</ul>
+</div><div class="nav-block nav-block-right std grid12-4"><div class="main-nav-block-right category-men last" style="width: 100%; height: 80%; float: left; padding-right: 5px;">
+<div class="bg">
+<div class="main-nav-block-bottom-text std" style="margin-top: 0%; padding: 0%;"><img src="http://www.capezio.com/media/wysiwyg/menu/activewear_menu2.png" alt="">
+<h3 style="margin-top: 2%;">Designed for You</h3>
+<p>Our new active range builds on over 125 years of dance heritage.</p>
+<a class="arrw-lnk" href="http://www.capezio.com/women/activewear" style="padding-top: 2%;">Shop now</a>
+</div>
+</div>
+</div></div><div class="nav-block nav-block-bottom grid-full std"><div style="margin-top:2%">
+<div class="main-nav-block-bottom category-women last" style="padding:0 !important; margin: 0px 0px 0px 0px; margin: 0 0px 0 0;">
+    <a href="http://www.feefo.com/US/en/reviews/Capezio_us/?internal=true&amp;mode=service&amp;id=682654&amp;feedbacktype=service_feedback&amp;since=all"><img src="http://www.capezio.com/media/wysiwyg/menu/Feefo_Final.jpg" alt=""></a>
+</div>
+<div class="main-nav-block-bottom category-women last" style="padding:0 !important;  margin: 0px 0px 0px 0px;">
+   <a href="http://www.capezio.com/support/shipping-and-returns/"> <img style="float:right;" src="http://www.capezio.com/media/wysiwyg/menu/Shipping_Final.jpg" alt=""></a>
+</div>
+</div></div>
+</div>
+</li><li class="level0 nav-12 level-top parent">
+<a href="http://www.capezio.com/accessories" class="level-top">
+<span>Accessories</span>
+</a>
+<div class="level0-wrapper dropdown-6col">
+<div class="nav-block nav-block-center grid12-8 itemgrid itemgrid-4col">
+<ul class="level0">
+<li class="level1 nav-12-1 first parent item">
+<a href="http://www.capezio.com/accessories/bunheads">
+<span>Bunheads®</span>
+</a>
+
+<ul class="level1">
+<li class="level2 nav-12-1-1 first">
+<a href="http://www.capezio.com/accessories/bunheads/ballet-pointe-accessories">
+<span>Ballet &amp; Pointe Accessories</span>
+</a>
+</li><li class="level2 nav-12-1-2">
+<a href="http://www.capezio.com/accessories/bunheads/beauty-stage-accessories">
+<span>Beauty &amp; Stage Accessories</span>
+</a>
+</li><li class="level2 nav-12-1-3">
+<a href="http://www.capezio.com/accessories/bunheads/gel-accessories">
+<span>Gel Accessories</span>
+</a>
+</li><li class="level2 nav-12-1-4 last">
+<a href="http://www.capezio.com/accessories/bunheads/hair-accessories">
+<span>Hair Accessories</span>
+</a>
+</li>
+</ul>
+
+</li><li class="level1 nav-12-2 last parent item">
+<a href="http://www.capezio.com/accessories/capezio-accessories">
+<span>Capezio Accessories</span>
+</a>
+
+<ul class="level1">
+<li class="level2 nav-12-2-5 first">
+<a href="http://www.capezio.com/accessories/capezio-accessories/ballet-pointe-accessories">
+<span>Ballet &amp; Pointe Accessories</span>
+</a>
+</li><li class="level2 nav-12-2-6">
+<a href="http://www.capezio.com/accessories/capezio-accessories/dance-bags">
+<span>Dance Bags</span>
+</a>
+</li><li class="level2 nav-12-2-7 last">
+<a href="http://www.capezio.com/accessories/capezio-accessories/dance-shoe-accessories">
+<span>Dance Shoe Accessories</span>
+</a>
+</li>
+</ul>
+
+</li>
+</ul>
+</div><div class="nav-block nav-block-right std grid12-4"><div class="main-nav-block-right category-men last" style="width: 80%; height: 80%; float: right; padding-right:5px;">
+  <div class="bg">
+  <div class="main-nav-block-bottom-text std" style="padding:0 10px 0 0% !important;">
+    <img src="http://www.capezio.com/media/wysiwyg/menu/hair-accessories.png" alt="Bunheads Hair Accessories">
+    <h3 style="margin-top: 5%;"><span style="color:#8e1a29"></span>Bunheads Hair Accessories</h3>
+    <p>Make bad hair days a thing of the past!</p>
+    <a class="arrw-lnk" href="http://www.capezio.com/accessories/bunheads/hair-accessories/">Shop now</a>
+  </div>
+  </div>
+</div></div><div class="nav-block nav-block-bottom grid-full std"><div style="margin-top:2%">
+<div class="main-nav-block-bottom category-women last" style="padding:0 !important; margin: 0px 0px 0px 0px; margin: 0 0px 0 0;">
+    <a href="http://www.feefo.com/US/en/reviews/Capezio_us/?internal=true&amp;mode=service&amp;id=682654&amp;feedbacktype=service_feedback&amp;since=all"><img src="http://www.capezio.com/media/wysiwyg/menu/Feefo_Final.jpg" alt=""></a>
+</div>
+<div class="main-nav-block-bottom category-women last" style="padding:0 !important;  margin: 0px 0px 0px 0px;">
+   <a href="http://www.capezio.com/support/shipping-and-returns/"> <img style="float:right;" src="http://www.capezio.com/media/wysiwyg/menu/Shipping_Final.jpg" alt=""></a>
+</div>
+</div></div>
+</div>
+</li><li class="level0 nav-13 level-top">
+<a href="http://www.capezio.com/just-in" class="level-top">
+<span>NEW</span>
+</a>
+</li><li class="level0 nav-14 level-top last">
+<a href="http://www.capezio.com/sale-now-on" class="level-top">
+<span>Sale</span>
+</a>
+</li>            
+                        
+                        
+    </ul>
+    <script>
+    	if (window.innerWidth < 768) {
+    		$('nav').hide();
+    	}
+    </script>
+
+
+
+	<script type="text/javascript">
+	//<![CDATA[
+		jQuery(function($) {
+
+			
+								var activateMobileMenu = function()
+				{
+					if ($(window).width() < 754)
+					{
+						$('#mobnav').show();
+						$('.vertnav-top').addClass('mobile');
+						$('#nav').addClass('mobile');
+					}
+					else
+					{
+						$('#nav').removeClass('mobile');
+						$('.vertnav-top').removeClass('mobile');
+						$('#mobnav').hide();
+					}
+				}
+				activateMobileMenu();
+				$(document).on("themeResize", activateMobileMenu);
+
+					});
+	//]]>
+	</script>
+
+
+
+	<script type="text/javascript">
+	//<![CDATA[
+		jQuery(function($) {
+			$("#nav > li").hover(function() {
+				var el = $(this).find(".level0-wrapper");
+				el.hide();
+				el.css("left", "0");
+				el.stop(true, true).delay(150).fadeIn(300, "easeOutCubic");
+			}, function() {
+				$(this).find(".level0-wrapper").stop(true, true).delay(300).fadeOut(300, "easeInCubic");
+			});
+		});
+	//]]>
+	</script>
+
+
+			</div>
+
+			<div class="hide-over-480 grid12-4">
+									<a href="http://www.capezio.com/" title="Capezio" class="logo"><img src="http://www.capezio.com/skin/frontend/capezio/default/images/logo.png" alt="Capezio"></a>
+							</div>
+
+            <div class="grid12-3">
+				
+<div id="mini-cart" class="dropdown is-empty hide-empty-cart">
+
+    <div class="dropdown-toggle cover" title="You have no items in your shopping cart">
+	    <div class="show-nav">
+	    
+	        <div>Shopping Cart</div>
+				        	<div class="cart-number">0</div>
+	        	
+		</div> 
+    </div> 
+    
+            	<div class="dropdown-menu left-hand block">
+        	<div class="block-content-inner">
+
+				                <div class="empty">You have no items in your shopping cart.</div>
+
+            </div> <!-- end: block-content-inner -->
+		</div> <!-- end: dropdown-menu -->
+    
+</div> <!-- end: mini-cart -->
+
+				<div class="after-mini-cart"></div>
+            </div>
+           
+            <div class="hide-over-480 search-toggle">
+				Search            </div>
+
+		</div>         
+	</div> 
+</div>          <div class="breadcrumbs">
+<div class="container">
+<div class="grid-full">
+    <ul>
+                    <li class="home">
+                            <a href="http://www.capezio.com/" title="Go to Home Page">Home</a>
+                                        <span>/ </span>
+                        </li>
+                    <li class="cms_page">
+                            <strong>Privacy Policy</strong>
+                                    </li>
+            </ul>
+</div>
+</div>
+</div>
+        <div class="main-container col2-left-layout">
+            <div class="main container">
+                <div class="preface grid-full in-col1"></div>
+                <div class="col-main grid12-9 grid-col2-main in-col2">
+                                        <div class="std"><p><img src="http://www.capezio.com/media/wysiwyg/pages/PrivacyPolicy_1350x450.jpg" alt=""></p>
+<div class="caption light">
+<h2><a href="http://www.capezio.com/women/dancewear/">Privacy Policy</a></h2>
+<p>Capezio wants to assure you that your privacy is safe at Capezio.com.</p>
+</div>
+<p><br> </p>
+<p>Thank you for visiting! Capezio wants to assure you that your privacy is safe at Capezio.com. This Privacy Policy covers the treatment of personal information that this site gathers when you access or use the Capezio.com online store. For more details please read below. <strong></strong></p>
+<p><span style="text-decoration: underline;"><strong>1. MINORS </strong></span></p>
+<p>Capezio does not knowingly collect personal information from anyone under the age of 18, and the Capezio.com site is not designed to be used by anyone under the age of 18.&nbsp; If we learn that we have received information from an individual under the age of 18, we will use that information only to respond to that individual that he or she cannot use Capezio.com site and we will delete that information from our servers.</p>
+<p><span style="text-decoration: underline;"><strong>2. INFORMATION WE COLLECT</strong></span></p>
+<p><strong>Our visitors - Automatic Data Collection</strong><br> <br> Like most websites, Capezio.com collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Capezio's purpose in collecting non-personally identifying information is to better understand how visitors use this website. From time to time, Capezio may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of this website.<br> <br> Capezio also collects potentially personally-identifying information like Internet Protocol (IP) addresses. Capezio does not use such information to identify visitors, however, and does not disclose such information, other than under the same circumstances that Capezio uses and discloses personally-identifying information, as described below.<br> <br> <strong>Our customers - Information You Provide to Us</strong><br> <br> Certain actions on the Capezio.com website do require us to collect personally-indentifying information. Purchasers are asked to provide additional information, including as necessary the personal and financial information required to process transactions. In each case, Capezio collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with the Capezio company. We will never disclose personally-identifying information other than as described below.<br> <br> <strong>Aggregated Statistics</strong><br> <br> Capezio may collect statistics about the behavior of visitors to its websites. For instance, Capezio may monitor the most popular sections or products on the site. Capezio may display this non-personally-identifying information publicly or provide it to others. However, Capezio does not disclose personally-identifying information other than as described below.<br> <br> <strong>Protection of Certain Personally-Identifying Information</strong><br> <br> Capezio discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Capezio's behalf or to provide services requested by the customer, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Capezio.com, you consent to the transfer of such information to them. Capezio will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Capezio discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when Capezio believes in good faith that disclosure is reasonably necessary to protect the property or rights of Capezio, third parties or the public at large. Capezio takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.<br> <br> <strong>Cookies</strong><br> <br> A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. Without cookies Capezio can't keep track of the items you've placed in your cart or perform other crucial ecommerce capabilities. Capezio does not use cookies to intrude in your privacy or do anything other than match you up with your information on the Capezio.com site. <strong></strong></p>
+<p><span style="text-decoration: underline;"><strong>3. COMMUNICATIONS</strong></span></p>
+<p>Capezio does not spam. Except as set forth here, Capezio will not contact you without your permission except as directly related to a specific order you have placed at the Capezio.com site. Such communications may include notification of order status and shipping and tracking information.</p>
+<p><span style="text-decoration: underline;"><strong>4. CONDITIONS OF USE</strong></span></p>
+<p>If you decide to visit the Capezio website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of New Jersey state law.<br> <br> <span style="text-decoration: underline;"><strong>5. PRIVACY POLICY CHANGES</strong></span></p>
+<p>Although most changes are likely to be minor and infrequent, Capezio may change its Privacy Policy from time to time, and in our sole discretion. Capezio encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change. <strong></strong></p>
+<p><span style="text-decoration: underline;"><strong>6. QUESTIONS</strong></span></p>
+<p>Capezio full contact information, including location, may be found on our <a href="http://test.capezio.com/support/contact-us/" target="_self">Contact Page</a>. <strong></strong></p>
+<p><span style="text-decoration: underline;"><strong>7. CREATIVE COMMONS</strong></span></p>
+<p>This work (the Privacy Policy) is licensed under a Creative Commons Attribution-ShareAlike 2.5 License. It was modified by Capezio. (Thanks to OpenDNS and Automattic.) <strong></strong></p>
+<p><span style="text-decoration: underline;"><strong>8. EFFECTIVE DATE OF THIS PRIVACY POLICY</strong></span></p>
+<p>This Privacy Policy is effective as of April 1st, 2012.</p></div>                </div>
+                <div class="col-left sidebar grid12-3 grid-col2-sidebar in-sidebar">    <ul class="cms-menu"><li class="parent"><a href="http://www.capezio.com/support"><span>Support</span></a><ul><li><a href="http://www.capezio.com/support/redeem-your-gift-card"><span>Gift Card Redemption</span></a></li><li><a href="http://www.capezio.com/support/shipping-and-returns"><span>Shipping &amp; Returns</span></a></li><li><strong>Privacy Policy</strong></li><li><a href="http://www.capezio.com/support/terms_and_conditions"><span>Terms &amp; Conditions</span></a></li><li><a href="http://www.capezio.com/support/find-a-store"><span>Find a Store</span></a></li><li><a href="http://www.capezio.com/support/contact-us"><span>Contact Us</span></a></li></ul></li></ul></div>
+                <div class="postscript grid-full in-col1"></div>
+            </div>
+        </div>
+        
+
+<div class="footer-container">
+
+
+	    
+
+    <div class="footer-secondary-container section-container">
+        <div class="footer-secondary footer container">
+            <div>
+            <div class="grid-wide">
+                <div class="section clearer">
+                    <div class="mobile-grid grid12-3 alpha">
+					                     	<div class="collapsible mobile-collapsible">
+	<h6 class="block-title heading">About Capezio</h6>
+	<div class="block-content">
+		<ul class="bullet">
+			<li><a href="http://www.capezio.com/about/capezio-story/" title="Capezio Story">Capezio Story</a></li>
+			<li><a href="http://www.capezio.com/about/mission/" title="Mission">Mission</a></li>
+			<li><a href="http://www.capezio.com/about/custom-made-shoes/" title="Custom Made Shoes">Custom Made Shoes</a></li>
+			<li><a href="http://www.capezio.com/about/dance-foundation/" title="Dance Foundation">Dance Foundation</a></li>
+			<li><a href="http://www.capezio.com/about/grants/" title="Grants">Grants</a></li>
+			<li><a href="http://www.capezio.com/about/peridance/" title="Peridance">Peridance</a></li>
+			<li><a rel="external" href="http://dancenews.capezio.com/events/" title="Events">Events</a></li>
+			<li><a rel="external" href="http://www.capezio.com/press/" title="Events">Press &amp; Media</a></li>
+		</ul>
+	</div>
+</div>                                        </div>
+                    <div class="mobile-grid grid12-3">
+                                         	<div class="collapsible mobile-collapsible">
+	<h6 class="block-title heading">Dance Resources</h6>
+	<div class="block-content">
+		<ul class="bullet">
+			<li><a rel="external" href="http://dancenews.capezio.com/auditions/" title="Auditions">Auditions</a></li>
+			<li><a rel="external" href="http://dancenews.capezio.com/dance-news/" title="Dance News">Dance News</a></li>
+			<li><a rel="external" href="http://dancenews.capezio.com/category/dance-news/health-fitness-articles/" title="Health and Fitness">Health and Fitness</a></li>
+			<li><a rel="external" href="http://dancenews.capezio.com/category/dance-news/interviews/" title="Interviews">Interviews</a></li>
+			<li><a rel="external" href="http://dancenews.capezio.com/category/dance-news/pointe-articles/" title="Pointe Articles">Pointe Articles</a></li>
+			<li><a rel="external" href="http://dancenews.capezio.com/category/dance-news/tips-advice/" title="Tips and Advice">Tips and Advice</a></li>
+			<li><a rel="external" href="http://dancenews.capezio.com/conventions/" title="Conventions">Conventions</a></li>
+			<li><a rel="external" href="http://dancenews.capezio.com/athletes/" title="Dance Athletes">Dance Athletes</a></li>
+		</ul>
+	</div>
+</div>                                        </div>
+                    <div class="mobile-grid grid12-3 ">
+					                     	<div class="collapsible mobile-collapsible">
+	<h6 class="block-title heading">Support</h6>
+	<div class="block-content">
+		<ul class="bullet">
+			<li><a href="http://www.capezio.com/support/shipping-and-returns/" title="Shipping &amp; Returns">Shipping &amp; Returns</a></li>
+			<li><a href="http://www.capezio.com/capezio-gift-card/" title="Gift Card">Gift Card</a></li>
+			<li><a href="http://www.capezio.com/support/privacy-policy/" title="Privacy Policy">Privacy Policy</a></li>
+			<li><a href="http://www.capezio.com/support/terms_and_conditions/" title="Terms &amp; Conditions of Use">Terms &amp; Conditions</a></li>
+			<li><a href="http://www.capezio.com/find-a-store/" title="Stores">Find a Store</a></li>
+			<li><a href="http://www.capezio.com/support/contact-us/" title="Contact Us">Contact Us</a></li>
+		</ul>
+	</div>
+</div>                                        </div>
+                    <div class="mobile-grid grid12-3 omega">
+	                    <div class="collapsible mobile-collapsible">
+	                    	<h6 class="block-title heading newsletter-heading">Newsletter</h6> 
+		                    <div class="block-content">
+		                        <div class="block_footer_newsletter">
+		                            		                               
+<div id="subscribe-form" class="subscribe-form clearer">
+    <form action="https://www.capezio.com/newsletter/subscriber/new/" method="post" id="newsletter-validate-detail">
+        <div> 
+            <label for="newsletter">Sign up to receive offers and all the latest Capezio News</label>
+            <div class="input-box">
+                <input type="text" name="email" id="newsletter" title="Sign up for our newsletter" class="input-text required-entry validate-email">
+            </div>
+            <button type="submit" title="Subscribe" class="button btn-inline" onclick="_gaq.push(['_trackEvent', 'registration', 'newsletter', 'footer',, false]);"><span><span>Subscribe</span></span></button>
+        </div>
+    </form>
+</div>
+<script type="text/javascript">
+//<![CDATA[
+    var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail');
+    new Varien.searchForm('newsletter-validate-detail', 'newsletter', 'Enter your email');
+//]]>
+</script>
+		                            		                        </div>
+		                        <div class="block_footer_checkout">
+		                        	<h6>Secure Online Payments</h6>
+<p><img src="http://www.capezio.com/media/wysiwyg/content_images/padlock.png" alt="">Your personal details are protected at all times</p>		                        </div>
+                            </div>
+                        </div>
+						<div class="collapsible mobile-collapsible">
+						   							 <h6 class="block-title heading payment-heading"><span>Payment Methods</span><span class="checkout">We Accept the Following Payment Types</span></h6>
+<div class="block-content">
+<div class="block_footer_payment">
+<ul>
+<li class="card-visa">Visa</li>
+<li class="card-amex">American Express</li>
+<li class="card-maestro">Maestro</li>
+<li class="card-paypal">Paypal</li>
+<li class="card-discover">Discover</li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>													</div>
+						<div class="collapsible mobile-collapsible hide-above-768 mobile-social">
+							 <h6 class="block-title heading social-heading">Social</h6>
+							 <div class="block-content">
+																	<div class="social-footer">
+	<a rel="external" class="social-twitter" href="https://twitter.com/capezio" title="Follow us on Twitter">
+		<span>Breaking Dance News</span>
+	</a>
+<span class="liner"></span>
+	<a rel="external" class="social-facebook" href="https://www.facebook.com/capeziobrands" title="Join us on Facebook">
+		<span>55000 Fans and counting!</span>
+	</a>
+<span class="liner"></span>
+	<a rel="external" class="social-pinterest" href="http://www.pinterest.com/capezio/" title="Pinterest">
+		<span>See what inspires us</span>
+	</a>
+<span class="liner"></span>
+	<a rel="external" class="social-instagram" href="http://instagram.com/capezio" title="Instagram">
+		<span>Imagine with us</span>
+	</a>
+<span class="liner"></span>
+	<a rel="external" class="social-youtube" href="http://www.youtube.com/CapezioDance" title="You Tube">
+		<span>Watch this space</span>
+	</a>
+</div>															 </div>
+						</div>
+						<div class="block_footer_newsletter hide-above-768">
+							<h6 class="block-title heading newsletter-heading">Newsletter</h6>
+														   
+<div id="subscribe-form2" class="subscribe-form clearer">
+    <form action="https://www.capezio.com/newsletter/subscriber/new/" method="post" id="newsletter-validate-detail2">
+        <div> 
+            <label for="newsletter">Sign up to receive offers and all the latest Capezio News</label>
+            <div class="input-box">
+                <input type="text" name="email" id="newsletter2" title="Sign up for our newsletter" class="input-text required-entry validate-email">
+            </div>
+            <button type="submit" title="Subscribe" class="button btn-inline" onclick="_gaq.push(['_trackEvent', 'registration', 'newsletter', 'footer',, false]);"><span><span>Subscribe</span></span></button>
+        </div>
+    </form>
+</div>
+<script type="text/javascript">
+//<![CDATA[
+    var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail2');
+    new Varien.searchForm('newsletter-validate-detail2', 'newsletter2', 'Enter your email');
+//]]>
+</script>
+													</div>
+                    </div>
+                </div>
+            </div>
+            </div>
+        </div> 
+    </div>
+    
+    <div class="footer-bottom-container section-container">
+        <div class="footer-bottom footer container">
+            
+
+                <div class="section clearer">
+                
+                <div class="item item-left clearer footer_social">
+                   <!--<div class="collapsible mobile-collapsible">
+	                    	<h6 class="block-title heading social-heading">Social</h6> -->
+		                    <div class="block-content">
+								                     	             <div class="social-footer">
+	<a rel="external" class="social-twitter" href="https://twitter.com/capezio" title="Follow us on Twitter">
+		<span>Breaking Dance News</span>
+	</a>
+<span class="liner"></span>
+	<a rel="external" class="social-facebook" href="https://www.facebook.com/capeziobrands" title="Join us on Facebook">
+		<span>55000 Fans and counting!</span>
+	</a>
+<span class="liner"></span>
+	<a rel="external" class="social-pinterest" href="http://www.pinterest.com/capezio/" title="Pinterest">
+		<span>See what inspires us</span>
+	</a>
+<span class="liner"></span>
+	<a rel="external" class="social-instagram" href="http://instagram.com/capezio" title="Instagram">
+		<span>Imagine with us</span>
+	</a>
+<span class="liner"></span>
+	<a rel="external" class="social-youtube" href="http://www.youtube.com/CapezioDance" title="You Tube">
+		<span>Watch this space</span>
+	</a>
+</div>                                                              </div>
+                          <!--  </div>-->
+                            </div>
+                            
+                <div class="clear-below"></div>
+                	<div class="item item-right">
+                    	<p class="footer-copyright">©
+						<script type="text/javascript">
+                           var date= new Date();
+                           document.write(date.getFullYear());
+                        </script>2020&nbsp;
+                      <a href="http://www.capezio.com/" title="About Capezio">Capezio</a></p>
+                    </div>
+
+                </div>
+
+           
+        </div>
     </div>
 
-<!-- Google Code for Remarketing tag -->
+</div>
 <script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 1017327112;
-var google_conversion_label = "fFQoCLiktAMQiNyM5QM";
-var google_custom_params = window.google_tag_params;
-var google_remarketing_only = true;
-/* ]]> */
+    setTimeout(function(){var a=document.createElement("script");
+    var b=document.getElementsByTagName("script")[0];
+    a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0010/7765.js?"+Math.floor(new Date().getTime()/3600000);
+    a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+        
+<script type="text/javascript">
+	//<![CDATA[
+
+			function setGridItemsEqualHeight($)
+	{
+		var SPACING = 20;
+		if ($(window).width() >= 480)
+		{
+			$('.category-products-grid').removeClass("auto-height");
+			
+			var gridItemMaxHeight = 0;
+			$('.category-products-grid > .item').each(function() {
+				$(this).css("height", "auto");
+				
+				////////////////////////////////////////////////////////////////
+								////////////////////////////////////////////////////////////////
+				
+				gridItemMaxHeight = Math.max(gridItemMaxHeight, $(this).height());
+			});
+			
+			//Apply max height
+			$('.category-products-grid > .item').css("height", gridItemMaxHeight + "px");
+		}
+		else
+		{
+			$('.category-products-grid').addClass("auto-height");
+			$('.category-products-grid > .item').css("height", "auto");
+			$('.category-products-grid > .item').css("padding-bottom", "20px");
+		}
+	}
+		
+	
+	
+	jQuery(function($) {
+
+				$('.collapsible').each(function(index){
+			$(this).prepend('<span class="opener">&nbsp;</span>');
+			if ($(this).hasClass('active'))
+			{
+				$(this).children('.block-content').css('display', 'block');
+			}
+			else
+			{
+				$(this).children('.block-content').css('display', 'none');
+			}			
+		});
+				$('.collapsible .opener').click(function() {
+			
+			var parent = $(this).parent();
+			if (parent.hasClass('active'))
+			{
+				$(this).siblings('.block-content').stop(true).slideUp(300, "easeOutCubic");
+				parent.removeClass('active');
+			}
+			else
+			{
+				$(this).siblings('.block-content').stop(true).slideDown(300, "easeOutCubic");
+				parent.addClass('active');
+			}
+			
+		});
+		
+		
+				var ddOpenTimeout;
+		var dMenuPosTimeout;
+		$(".clickable-dropdown > .dropdown-toggle").click(function() {
+			$(this).parent().addClass('open');
+			$(this).parent().trigger('mouseenter');
+		});
+		$(".dropdown").hover(function() {
+			
+			var DELAY = 300;
+			var ddToggle = $(this).children('.dropdown-toggle');
+			var ddMenu = $(this).children('.dropdown-menu');
+			var ddWrapper = ddMenu.parent(); 			
+						ddMenu.css("left", "");
+			ddMenu.css("right", "");
+			
+						if ($(this).hasClass('clickable-dropdown'))
+			{
+								if ($(this).hasClass('open'))
+				{
+					$(this).children('.dropdown-menu').stop(true, true).delay(DELAY).fadeIn(300, "easeOutCubic");
+				}
+			}
+			else
+			{
+								clearTimeout(ddOpenTimeout);
+				ddOpenTimeout = setTimeout(function() {
+					
+					ddWrapper.addClass('open');
+					
+				}, DELAY);
+				
+				//$(this).addClass('open');
+				$(this).children('.dropdown-menu').stop(true, true).delay(DELAY).fadeIn(300, "easeOutCubic");
+			}
+			
+						clearTimeout(dMenuPosTimeout);
+			dMenuPosTimeout = setTimeout(function() {
+
+				if (ddMenu.offset().left < 0)
+				{
+					var space = ddWrapper.offset().left; 					ddMenu.css("left", (-1)*space);
+					ddMenu.css("right", "auto");
+				}
+			
+			}, DELAY);
+			
+		}, function() {
+			var ddMenu = $(this).children('.dropdown-menu');
+			clearTimeout(ddOpenTimeout); 			ddMenu.stop(true, true).delay(150).fadeOut(300, "easeInCubic");
+			if (ddMenu.is(":hidden"))
+			{
+				ddMenu.hide();
+			}
+			$(this).removeClass('open');
+		});
+		
+		
+		
+							$(".main").addClass("show-bg");
+				
+		
+		
+				var windowScroll_t;
+		$(window).scroll(function(){
+			
+			clearTimeout(windowScroll_t);
+			windowScroll_t = setTimeout(function() {
+										
+				if ($(this).scrollTop() > 100)
+				{
+					$('#scroll-to-top').fadeIn();
+				}
+				else
+				{
+					$('#scroll-to-top').fadeOut();
+				}
+			
+			}, 500);
+			
+		});
+		
+		$('#scroll-to-top').click(function(){
+			$("html, body").animate({scrollTop: 0}, 600, "easeOutCubic");
+			return false;
+		});
+		
+		
+		
+						
+						$('.category-products-grid > .item').hover(function() {
+				$(this).find(".display-onhover").fadeIn(400, "easeInCubic");
+			}, function() {
+				$(this).find(".display-onhover").hide();
+			});
+		
+		
+
+
+				//Window size variables
+		var winWidth = $(window).width();
+		var winHeight = $(window).height();
+		var windowResize_t;
+		$(window).resize(function() {
+
+						var winNewWidth = $(window).width();
+			var winNewHeight = $(window).height();
+			if (winWidth != winNewWidth || winHeight != winNewHeight)
+			{
+
+				clearTimeout(windowResize_t);
+				windowResize_t = setTimeout(function() {
+		
+										$(document).trigger("themeResize");
+
+																setGridItemsEqualHeight($);
+									
+										$('.itemslider').each(function(index) {
+						var flex = $(this).data('flexslider');
+						if (flex != null)
+						{
+							flex.flexAnimate(0);
+							flex.resize();
+						}
+					});
+					
+										var slideshow = $('.the-slideshow').data('flexslider');
+					if (slideshow != null)
+					{
+						slideshow.resize();
+					}
+				
+				}, 200); //TODO: choose default value
+
+			} //end: if
+			//Update window size variables
+			winWidth = winNewWidth;
+			winHeight = winNewHeight;
+
+		}); //end: on resize
+		
+		
+
+	}); /* end: jQuery(){...} */
+	
+	
+	
+	jQuery(window).load(function(){
+		
+							setGridItemsEqualHeight(jQuery);
+		
+	}); /* end: jQuery(window).load(){...} */
+
+	//]]>
 </script>
 
-
-</div>
-<iframe src="/empty.html" id="server_commands" style="visibility:hidden" height="0"></iframe>
-<script language="javascript" type="text/javascript">
-var i=new Image();
-i.src='/app/site/hit/tracker.nl?c=1333011&n=1&type=store&sc=29&category=-129&it=I&itemid=14&referer='+escape(document.referrer);
-i.onload=function(){nsVoid();};
-function nsVoid(){return;};
+<script type="text/javascript">
+	document.write(unescape("%3Cscript src='"
+		+ ((document.location.protocol == "https:") ? "https:" : "http:")
+		+ "//p.bm23.com/bta.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://p.bm23.com/bta.js" type="text/javascript"></script>
+<script type="text/javascript">
+	var bta = new __bta('048c6e685d54f033536ce0471ed90522');
 </script>
+<script type="text/javascript">
+//<![CDATA[
 
+jQuery(function($) {
+
+var islider={config:{elements:".itemslider-responsive",columnCount:5,maxBreakpoint:960,breakpoints:[[1680,3],[1440,2],[1360,1],[1280,1],[960,0],[768,-1],[640,-2],[480,-3],[320,-5]]},init:function(a){$.extend(islider.config,a)},onResize_recalculateAllSliders:function(){return islider.recalculateAllSliders(),!1},recalculateAllSliders:function(){$(islider.config.elements).each(function(){null!=$(this).data("flexslider")&&islider.recalcElement($(this))})},recalcElement:function(a){var b,c=a.data("breakpoints");if(c)b=islider.getMaxItems_CustomBreakpoints(c);else{var d=a.data("showItems");void 0===d&&(d=islider.config.columnCount),b=islider.getMaxItems(d)}a.data("flexslider").setOpts({minItems:b,maxItems:b})},getMaxItems_CustomBreakpoints:function(a){if(infortisTheme.viewportW)var b=infortisTheme.viewportW;else var b=$(window).width();var c=islider.config.maxBreakpoint;"undefined"!=typeof infortisTheme&&infortisTheme.maxBreak&&(c=infortisTheme.maxBreak);for(var d,e=0;a.length>e;e++){var f=parseInt(a[e][0],10),g=parseInt(a[e][1],10);if(d=g,c>=f&&b>=f)return d}return d},getMaxItems:function(a){var b=islider.config.breakpoints;if(infortisTheme.viewportW)var c=infortisTheme.viewportW;else var c=$(window).width();var d=islider.config.maxBreakpoint;"undefined"!=typeof infortisTheme&&infortisTheme.maxBreak&&(d=infortisTheme.maxBreak);for(var e,f=0;b.length>f;f++){var g=parseInt(b[f][0],10),h=parseInt(b[f][1],10);if(e=a+h,0>=e&&(e=1),d>=g&&c>=g)return e}return e}};
+	
+	if (typeof infortisTheme !== 'undefined' && infortisTheme.responsive)
+	{
+		islider.init( {elements: '.itemslider-responsive'} );
+		islider.recalculateAllSliders();
+		$(document).on("themeResize", islider.onResize_recalculateAllSliders );
+	}
+
+});
+
+//]]>
+</script>    </div>
 </div>
-</div>
-<script language="JavaScript" type="text/javascript">
-function page_init() {
-window.weekstart  ='1';
-window.dateformat ='MM/DD/YYYY';
-window.longdateformat ='Month DD, YYYY';
-window.timeformat ='fmHH:fmMI am';
-window.timeformatwithseconds ='fmHH:fmMI:SS am';
-window.decimalseparator ='.';
-window.groupseparator =',';
-window.negativeprefix ='-';
-window.negativesuffix ='';
-window.number_blacklist_regex = new RegExp('[^\\.\\-\\d]','g');
-window.datetime_am_string ='am';
-window.datetime_pm_string ='pm';
-window.datetime_short_months = new Array("Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec","");window.phoneformat ="(123) 456-7890";
-window.loadcomplete = true;
-}
-</script>
+</div> <!-- end: root-wrapper -->
+<script type="text/javascript">
+adroll_adv_id = "HAY2A2M7HFBKTGFSWEEJBY";
+adroll_pix_id = "QUCYI3HHJBCULC6VOAWD52";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
+</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-1.newrelic.com","licenseKey":"339d0e6737","applicationID":"3377490","transactionName":"NVUGYkZVXxcHUUJbDgwfMURdG1gKAldOHBEKQA==","queueTime":0,"applicationTime":9,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
 
-
-
-
-
-<!-- 574 s: 22% #48 co: 54% #144-->
-<!-- [ sh.j32.sv ] [ 2013.2.0.99 ]-->
-<!-- [ 1333011 ] [  ] [ /s.nl ] [ Tue Nov 12 16:27:51 PST 2013 ] -->
-<!-- Not logging slowest SQL -->
-</body></html>
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
