@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glasyads.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430104316id_/http%3A//www.glasyads.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glasyads.com privacy policy that was archived on 2014-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140615120153id_/http%3A//www.glasyads.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Glasyads Privacy's and Policies | Free Ads | Listing Syndication
 
