@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the msnwhores.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203121301id_/http%3A//msnwhores.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msnwhores.com privacy policy that was archived on 2014-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140615115856id_/http%3A//msnwhores.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
