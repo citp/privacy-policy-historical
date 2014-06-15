@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chirpify.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214042607id_/https%3A//chirpify.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chirpify.com privacy policy that was archived on 2014-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140615133205id_/http%3A//chirpify.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Chirpify
 
