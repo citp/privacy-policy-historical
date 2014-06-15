@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the libertycoin.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221142922id_/http%3A//www.libertycoin.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the libertycoin.com privacy policy that was archived on 2014-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140615055442id_/http%3A//www.libertycoin.com/terms_privacy.asp) for the most accurate reproduction.*
 
 # Liberty Coin | Terms: Privacy
 
@@ -49,3 +49,6 @@ Liberty Coin, LLC
 Attn: Customer Care/Privacy  
 2201 E. Willow Street, Suite AA  
 Signal Hill, CA 90755
+
+  
+
