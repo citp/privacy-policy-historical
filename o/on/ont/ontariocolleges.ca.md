@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ontariocolleges.ca privacy policy that was archived on 2013-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130910085333id_/http%3A//www.ontariocolleges.ca/ontcol/home/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ontariocolleges.ca privacy policy that was archived on 2014-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140615115746id_/http%3A//www.ontariocolleges.ca/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
-
-### Privacy Statement
 
 OCAS Application Services Inc., (Ontario College Application Services or OCAS) is committed to protecting the privacy of your personal and academic information and other school records ("Personal Information"). The Personal Information referenced in this application, and related materials, is collected, used or disclosed in accordance with the relevant statutory and regulatory provisions of the Ministry of Agriculture, Food and Rural Affairs Act, R.S.O. 1990, c. M.16 and the Ministry of Training, Colleges and Universities Act, R.S.O. 1990, c. M.19, and the Education Act, R.S.O. 1990, c E.2.
 
@@ -24,6 +22,6 @@ You should note that copies of your Personal Information may be retained by thos
 
 For more information about the collection, use, disclosure and protection of your Personal Information at OCAS, review OCAS' Privacy Code or call OCAS' Privacy Officer at: 519.763.2363 ext. 6816 or email the [Privacy Officer](mailto:privacyofficer@ocas.ca).
 
-### Privacy Code
+**Privacy Code**
 
-The Privacy Code informs you of the principles and guidelines which OCAS uses to protect the personal information of individuals that we collect, use or disclose in the course of our operations. Review the OCAS' [Privacy Code](https://web.archive.org/ontcol/home/privacy/privacy-code.html).
+The Privacy Code informs you of the principles and guidelines which OCAS uses to protect the personal information of individuals that we collect, use or disclose in the course of our operations. Review the OCAS' [Privacy Code](http://www.ontariocolleges.ca/privacy/privacy-code).
