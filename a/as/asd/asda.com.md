@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asda.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219191437id_/http%3A//asda.com/help/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asda.com privacy policy that was archived on 2014-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140615052756id_/http%3A//www.asda.com/help/privacy-policy.html%3Fbnf1) for the most accurate reproduction.*
 
 # ASDA.com - Privacy Policy
 
