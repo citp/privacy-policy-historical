@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playnow3dgames.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112181909id_/http%3A//playnow3dgames.com/terms.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playnow3dgames.com privacy policy that was archived on 2014-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140615052813id_/http%3A//playnow3dgames.com/terms.php) for the most accurate reproduction.*
 
 # Terms and conditions
 
