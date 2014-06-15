@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apollogrp.edu privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219075822id_/http%3A//www.apollo.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apollogrp.edu privacy policy that was archived on 2014-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140615165843id_/http%3A//www.apollo.edu/content/apollo/en/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Apollo Education Group
 
