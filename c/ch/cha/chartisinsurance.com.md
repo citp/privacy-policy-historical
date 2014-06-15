@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chartisinsurance.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203024909id_/http%3A//www.aig.com/privacy_3171_448852.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chartisinsurance.com privacy policy that was archived on 2014-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140615081723id_/http%3A//www.aig.com/privacy_3171_448852.html) for the most accurate reproduction.*
 
-# Privacy - Insurance from AIG in the US
+# Privacy - Insurance from AIG
 
 Last Updated: September 24, 2013 
 
