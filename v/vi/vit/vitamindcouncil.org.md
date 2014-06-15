@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vitamindcouncil.org privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216054946id_/http%3A//www.vitamindcouncil.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitamindcouncil.org privacy policy that was archived on 2014-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140615231225id_/http%3A//www.vitamindcouncil.org/privacy-policy) for the most accurate reproduction.*
 
 # Vitamin D Council privacy policy | Vitamin D Council
 
