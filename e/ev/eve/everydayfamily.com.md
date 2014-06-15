@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everydayfamily.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223230837id_/http%3A//www.everydayfamily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everydayfamily.com privacy policy that was archived on 2014-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140615225513id_/http%3A//everydayfamily.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -39,6 +39,8 @@ Most web browsers automatically accept Cookies, but if you prefer, you can edit 
 (d) Social Networking: You can modify your privacy settings within your My Account screen on the site. By selecting the “Community Preferences” link you can select who can see your profile information and your public messages. If you would like to have an unauthorized profile removed, you can contact us at [memberservices@everydayfamily.com](mailto:memberservices@everydayfamily.com) and we will delete the profile from our records.
 
 (e) Behavioral Advertising: We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
+
+(f) Display Advertising: We utilize Google Analytics for Display Advertising, Google Display Network Impression Reporting, and Demographics and Interests reporting, including Remarketing to advertise online.  This allows third-party vendors, including Google, to show our ads on sites across the internet.  We use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together, to inform, optimize, and serve ads based on someones’s past visits to our website.  These cookies also report ad impressions, interactions with ad services and basic demographic information, such as age, gender and interests.  You can opt-out of Google Analytics for Display advertising and customize Google Display Network ads using [Ads Settings](https://www.google.com/settings/ads).
 
 **_How this Information is used_**
 
