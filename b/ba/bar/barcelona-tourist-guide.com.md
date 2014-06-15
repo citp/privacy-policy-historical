@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the barcelona-tourist-guide.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213212509id_/http%3A//www.barcelona-tourist-guide.com/en/general/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barcelona-tourist-guide.com privacy policy that was archived on 2014-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140615083740id_/http%3A//www.barcelona-tourist-guide.com/en/general/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Your privacy is important to us. We do not disclose any personal details that you have given us unless you specifically ask us to.
 
-In providing reviews, comments or feedback to our site you have read and agreed to our terms of use of your comments which you can read by clicking on the following link [Terms To Providing Feedback](https://web.archive.org/web/20131213212509id_/http%3A//www.barcelona-tourist-guide.com/en/general/legal/copyright.html#exclusiverights)
+In providing reviews, comments or feedback to our site you have read and agreed to our terms of use of your comments which you can read by clicking on the following link [Terms To Providing Feedback](https://web.archive.org/web/20140615083740id_/http%3A//www.barcelona-tourist-guide.com/en/general/legal/copyright.html#exclusiverights)
 
 www.barcelona-tourist-guide.com strives to maintain the highest standards of decency, fairness and integrity in all our operations. Likewise, we are dedicated to protecting our customers', consumers' and online visitors' privacy on our website.
 
@@ -34,15 +34,15 @@ This website is directed to adults; it is not directed to children under the age
 
 ## Non-Personal Information
 
-In some cases, we may collect information about you that is not personally identifiable. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole. The information collected is used solely for internal review and not shared with other organizations for commercial purposes.
+In some cases, we may collect information about you that is not personally identifiable. We use this information, which does not identify individual users, to analyse trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole. The information collected is used solely for internal review and not shared with other organizations for commercial purposes.
 
 ## Release of Information
 
-If **www.barcelona-tourist-guide.com** is sold, the information we have obtained from you through your voluntary participation in our site may transfer to the new owner as a part of the sale in order that the service being provided to you may continue. In that event, you will receive notice through our website of that change in control and practices, and we will make reasonable efforts to ensure that the purchaser honors any opt-out requests you might make of us.
+If **www.barcelona-tourist-guide.com** is sold, the information we have obtained from you through your voluntary participation in our site may transfer to the new owner as a part of the sale in order that the service being provided to you may continue. In that event, you will receive notice through our website of that change in control and practices, and we will make reasonable efforts to ensure that the purchaser honours any opt-out requests you might make of us.
 
 ## How You Can Correct or Remove Information
 
-We provide this privacy policy as a statement to you of our commitment to protect your personal information. If you have submitted personal information through our website and would like that information deleted from our records or would like to update or correct that information, please click on the [Contact Us page](https://web.archive.org/web/20131213212509id_/http%3A//www.barcelona-tourist-guide.com/en/general/contact-us.html) and let us know.
+We provide this privacy policy as a statement to you of our commitment to protect your personal information. If you have submitted personal information through our website and would like that information deleted from our records or would like to update or correct that information, please click on the [Contact Us page](https://web.archive.org/web/20140615083740id_/http%3A//www.barcelona-tourist-guide.com/en/general/contact-us.html) and let us know.
 
 ## Exclusive rights to use site visitor submitted material reviews/comments/questions/images etc
 
@@ -56,7 +56,7 @@ Our full terms of submission of your content, articles, feedback, questions etc 
 
 ## Website Statistics
 
-This website uses Google Analytics, a web analytics service provided by Google, Inc. (Google). Google Analytics uses cookies, which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States . Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
+This website uses Google Analytics, a web analytics service provided by Google, Inc. (Google). Google Analytics uses cookies, which are text files placed on your computer, to help the website analyse how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States . Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
 
 ## Internet Advertising
 
@@ -66,4 +66,4 @@ We use third-party advertising companies to serve ads when you visit our website
 
 If you do not agree to **www.barcelona-tourist-guide.com** Privacy Policy as posted here on this website, please do not use this website or any services offered by this web site.
 
-Your use of this web site indicates acceptance of this privacy policy and to our terms and conditions of use of our website which you can find by [clicking here.](https://web.archive.org/web/20131213212509id_/http%3A//www.barcelona-tourist-guide.com/en/general/legal/copyright.html)
+Your use of this web site indicates acceptance of this privacy policy and to our terms and conditions of use of our website which you can find by [clicking here.](https://web.archive.org/web/20140615083740id_/http%3A//www.barcelona-tourist-guide.com/en/general/legal/copyright.html)
