@@ -1,0 +1,839 @@
+<!--The following is the downloaded HTML source of the 12leaves.com privacy policy that was archived on 2014-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140615045702id_/http%3A//www.12leaves.com/privacy-policy-en.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
+<title>Privacy Policy</title>
+
+<base href="http://www.12leaves.com/">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Language" content="en">
+<meta name="description" content="Privacy Policy">
+<meta name="keywords" content="">
+
+
+<link href="/skins/12leaves/customer/images/icons/favicon.ico" rel="shortcut icon">
+
+
+<link href="/skins/12leaves/customer/css/ui/jqueryui.css" rel="stylesheet" type="text/css">
+<link href="/skins/12leaves/customer/styles.css" rel="stylesheet" type="text/css">
+<link href="/skins/12leaves/customer/print.css" rel="stylesheet" media="print" type="text/css">
+<link href="/skins/12leaves/customer/dropdown.css" rel="stylesheet" type="text/css">
+<!--[if lte IE 7]>
+<link href="/skins/12leaves/customer/styles_ie.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+
+
+<link href="/skins/12leaves/customer/addons/quick_search/styles.css" rel="stylesheet" type="text/css">
+<link href="/skins/12leaves/customer/addons/tags/styles.css" rel="stylesheet" type="text/css">
+<link href="/skins/12leaves/customer/addons/news_and_emails/styles.css" rel="stylesheet" type="text/css">
+<link href="/skins/12leaves/customer/addons/polls/styles.css" rel="stylesheet" type="text/css">
+<link href="/skins/12leaves/customer/addons/discussion/styles.css" rel="stylesheet" type="text/css">
+<link href="/skins/12leaves/customer/addons/hot_deals_block/styles.css" rel="stylesheet" type="text/css"><link href="/skins/12leaves/customer/addons/image_popup_previewer/styles.css" rel="stylesheet" type="text/css">
+
+<!--[if lt IE 8]>
+<link href="/skins/12leaves/customer/addons/image_popup_previewer/styles_ie.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+
+
+
+
+<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" src="/lib/js/jquery/jquery.min.js"></script>
+<script type="text/javascript" src="/lib/js/jqueryui/jquery-ui.custom.min.js"></script>
+<script type="text/javascript" src="/lib/js/tools/tooltip.min.js"></script>
+<script type="text/javascript" src="/lib/js/appear/jquery.appear-1.1.1.js"></script>
+
+<script type="text/javascript" src="/js/editors/_empty.editor.js"></script>
+
+<script type="text/javascript" src="/js/core.js"></script>
+<script type="text/javascript" src="/js/ajax.js"></script>
+<script type="text/javascript">
+//<![CDATA[
+var index_script = 'index.php';
+var current_path = '';
+var changes_warning = 'Y';
+
+var lang = {
+	cannot_buy: 'You cannot buy the product with these option variants ',
+	no_products_selected: 'No products selected',
+	error_no_items_selected: 'No items selected! At least one check box must be selected to perform this action.',
+	delete_confirmation: 'Are you sure you want to delete the selected items?',
+	text_out_of_stock: 'Out-of-stock',
+	in_stock: 'In stock',
+	items: 'item(s)',
+	text_required_group_product: 'Please select a product for the required group [group_name]',
+	notice: 'Notice',
+	warning: 'Warning',
+	loading: 'Loading...',
+	none: 'None',
+	text_are_you_sure_to_proceed: 'Are you sure you want to proceed?',
+	text_invalid_url: 'You have entered an invalid URL',
+	text_cart_changed: 'Items in the shopping cart have been changed. Please click on \"OK\" to save changes, or on \"Cancel\" to leave the items unchanged.',
+	error_validator_email: 'The email address in the <b>[field]<\/b> field is invalid.',
+	error_validator_confirm_email: 'The email addresses in the <b>[field]<\/b> field and confirmation fields do not match.',
+	error_validator_phone: 'The phone number in the <b>[field]<\/b> field is invalid. The correct format is (555) 555-55-55 or 55 55 555 5555.',
+	error_validator_integer: 'The value of the <b>[field]<\/b> field is invalid. It should be integer.',
+	error_validator_multiple: 'The <b>[field]<\/b> field does not contain the selected options.',
+	error_validator_password: 'The passwords in the <b>[field2]<\/b> and <b>[field1]<\/b> fields do not match.',
+	error_validator_required: 'The <b>[field]<\/b> field is mandatory.',
+	error_validator_zipcode: 'The ZIP / Postal code in the <b>[field]<\/b> field is incorrect. The correct format is [extra].',
+	error_validator_message: 'The value of the <b>[field]<\/b> field is invalid.',
+	text_page_loading: 'Loading... Your request is being processed, please wait.',
+	view_cart: 'View cart',
+	checkout: 'Checkout',
+	product_added_to_cart: 'Product was added to your cart',
+	products_added_to_cart: 'Products were added to your cart',
+	product_added_to_wl: 'Product was added to your Wish list',
+	product_added_to_cl: 'Product was added to your Compare list',
+	close: 'Close',
+	error: 'Error',
+	error_ajax: 'Oops, something went wrong ([error]). Please try again.',
+	text_changes_not_saved: 'Your changes have not been saved.',
+	text_data_changed: 'Your changes have not been saved.\n\nPress OK to continue, or Cancel to stay on the current page.'
+}
+
+var currencies = {
+	'primary': {
+		'decimals_separator': '.',
+		'thousands_separator': ',',
+		'decimals': '2',
+		'coefficient': '1.00000'
+	},
+	'secondary': {
+		'decimals_separator': '.',
+		'thousands_separator': ',',
+		'decimals': '2',
+		'coefficient': '1.00000'
+	}
+};
+
+var default_editor = '_empty';
+var default_previewer = 'fancybox';
+
+var cart_language = 'EN';
+var images_dir = '/skins/12leaves/customer/images';
+var skin_name = '12leaves';
+var notice_displaying_time = 5;
+var cart_prices_w_taxes = false;
+var translate_mode = false;
+var regexp = new Array();
+$(document).ready(function(){
+	jQuery.runCart('C');
+});
+
+document.write('<style>.cm-noscript { display:none }</style>'); // hide noscript tags
+//]]>
+</script>
+
+<!--[if lt IE 8]>
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function(){
+	$('ul.dropdown li').hover(function(){
+		$(this).addClass('hover');
+		$('> .dir',this).addClass('open');
+		$('ul:first',this).css('display', 'block');
+	},function(){
+		$(this).removeClass('hover');
+		$('.open',this).removeClass('open');
+		$('ul:first',this).css('display', 'none');
+	});
+});
+//]]>
+</script>
+<![endif]-->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+
+
+<script type="text/javascript" src="/addons/quick_search/js/func.js"></script>
+<script type="text/javascript" src="/addons/recurring_billing/js/func.js"></script>
+<script type="text/javascript">
+
+// Extend core function
+fn_register_hooks('recurring_billing', ['check_exceptions']);
+
+</script>
+<script src="https://ssl.google-analytics.com/ga.js" async="true"></script></head>
+
+<body>
+<div class="helper-container">
+	<a name="top"></a>
+	
+<div id="ajax_loading_box" class="ajax-loading-box"><div class="right-inner-loading-box"><div id="ajax_loading_message" class="ajax-inner-loading-box">Loading...</div></div></div>
+
+	
+
+
+
+
+<div id="container" class="container-left">
+		<div id="header">	<div class="top-search">
+		<form action="/" name="search_form" method="get">
+<input type="hidden" name="subcats" value="Y">
+<input type="hidden" name="status" value="A">
+<input type="hidden" name="pshort" value="Y">
+<input type="hidden" name="pfull" value="Y">
+<input type="hidden" name="pname" value="Y">
+<input type="hidden" name="pkeywords" value="Y">
+<input type="hidden" name="search_performed" value="Y">
+
+	<div class="qsearch-result border cm-popup-box" id="quick_search_result">
+
+	<div class="center">No data found</div>
+
+<p class="right">
+	<a class="extra-link" onclick="$('#quick_search_result').hide();">Close</a>
+</p>
+<!--quick_search_result--></div>
+
+<script type="text/javascript">
+	var qs_min_length = 3
+</script> 
+
+<span class="search-products-text">Search:</span>
+
+<select name="cid" class="search-selectbox">
+	<option value="0">- All categories -</option>
+		<option value="5" title="Zen Cart Templates">Zen Cart Templates</option>
+		<option value="6" title="CS-Cart Templates">CS-Cart Templates</option>
+		<option value="14" title="OpenCart Templates">OpenCart Templates</option>
+		<option value="13" title="PSD Templates">PSD Templates</option>
+		<option value="20" title="osCommerce Templates">osCommerce Templates</option>
+		<option value="1" title="Free Ecommerce Templates">Free Ecommerce Templates</option>
+	</select>
+
+<input type="text" name="q" value="" onfocus="this.select();" class="search-input"><input type="image" src="/skins/12leaves/customer/images/icons/spacer.gif" alt="" title="Search" class="go-button"><input type="hidden" name="dispatch" value="products.search"><a href="/index.php?dispatch=products.search" class="search-advanced">Advanced search</a>
+
+</form>	</div>
+
+<div class="header-helper-container">
+	<div class="logo-image">
+		<a href="/"><img src="/skins/12leaves/customer/images/logo.gif" width="147" height="44" border="0" alt="Ecommerce Templates"></a>
+	</div>
+	
+	<p class="quick-links">&nbsp;
+			<a href="terms-of-use.html">Terms of Use</a>
+			<a href="faq.html">FAQ</a>
+			<a href="/index.php?dispatch=sitemap.view">Sitemap</a>
+	</p>
+	
+	
+<div id="top_menu">
+<ul class="top-menu dropdown"><li class="first-level "><span><a href="/">Ecommerce Themes</a></span>
+<ul>
+			<li>
+		<a href="/zen-cart-templates/">Zen Cart Templates</a>
+			</li>
+		<li class="h-sep">&nbsp;</li>
+			<li>
+		<a href="/cs-cart-templates/">CS-Cart Templates</a>
+			</li>
+		<li class="h-sep">&nbsp;</li>
+			<li>
+		<a href="/opencart-templates/">OpenCart Templates</a>
+			</li>
+		<li class="h-sep">&nbsp;</li>
+			<li>
+		<a href="/psd-templates-ecommerce/">PSD Templates</a>
+			</li>
+		<li class="h-sep">&nbsp;</li>
+			<li>
+		<a href="/oscommerce-templates/">osCommerce Templates</a>
+			</li>
+		<li class="h-sep">&nbsp;</li>
+			<li class="dir">
+		<a href="/free-templates/">Free Ecommerce Templates</a>
+					
+<ul>
+			<li>
+		<a href="/free-templates/free-zen-cart-templates/">Free Zen Cart Templates</a>
+			</li>
+		<li class="h-sep">&nbsp;</li>
+			<li>
+		<a href="/free-templates/opencart/">Free OpenCart Templates</a>
+			</li>
+		<li class="h-sep">&nbsp;</li>
+			<li>
+		<a href="/free-templates/free-oscommerce-templates/">Free osCommerce Templates</a>
+			</li>
+		</ul>
+			</li>
+		</ul>
+</li><li class="first-level "><span><a href="services.html">Services</a></span>
+<ul>
+			<li>
+		<a href="/services.html">Ecommerce website design</a>
+			</li>
+		<li class="h-sep">&nbsp;</li>
+			<li>
+		<a href="/partners-solutions.html">Partners Solutions</a>
+			</li>
+		<li class="h-sep">&nbsp;</li>
+			<li class="dir">
+		<a href="/installation-services.html">Installation Services</a>
+					
+<ul>
+			<li>
+		<a href="installation-services.html#template_installation">Template Installation</a>
+			</li>
+		<li class="h-sep">&nbsp;</li>
+			<li>
+		<a href="installation-services.html#ecommerce_installation">Ecommerce Software Installation</a>
+			</li>
+		</ul>
+			</li>
+		<li class="h-sep">&nbsp;</li>
+			<li class="dir">
+		<a href="/portfolio.html">Portfolio</a>
+					
+<ul>
+			<li>
+		<a href="/ecommerce-website-portfolio.html.html">Ecommerce Website Projects</a>
+			</li>
+		<li class="h-sep">&nbsp;</li>
+			<li>
+		<a href="/banner-design-portfolio.html.html">Banners</a>
+			</li>
+		<li class="h-sep">&nbsp;</li>
+			<li>
+		<a href="/icons-design-portfolio.html.html">Icons design</a>
+			</li>
+		</ul>
+			</li>
+		<li class="h-sep">&nbsp;</li>
+			<li>
+		<a href="/index.php?dispatch=discussion.view&amp;thread_id=16" target="_blank">Testimonials</a>
+			</li>
+		</ul>
+</li><li class="first-level cm-active"><span><a href="about.html">Information</a></span>
+<ul>
+			<li>
+		<a href="/support-policy.html">Support Policy</a>
+			</li>
+		<li class="h-sep">&nbsp;</li>
+			<li>
+		<a href="/terms-of-use.html">Terms of Use</a>
+			</li>
+		<li class="h-sep">&nbsp;</li>
+			<li>
+		<a href="/free-downloading-terms.html">Free Downloading Terms</a>
+			</li>
+		<li class="h-sep">&nbsp;</li>
+			<li>
+		<a href="/refund-policy.html">Refund Policy</a>
+			</li>
+		<li class="h-sep">&nbsp;</li>
+			<li>
+		<a href="/privacy-policy-en.html">Privacy Policy</a>
+			</li>
+		<li class="h-sep">&nbsp;</li>
+			<li>
+		<a href="/faq.html">FAQ</a>
+			</li>
+		</ul>
+</li><li class="first-level "><span><a href="http://blog.12leaves.com/">Blog</a></span></li><li class="first-level "><span><a href="contact-us.html">Contact Us</a></span></li><li class="first-level "><span><a href="downloads.html">Downloads</a></span></li></ul>
+</div>
+<span class="helper-block">&nbsp;</span>
+</div>
+
+<div class="top-tools-container">
+	<span class="float-left">&nbsp;</span>
+	<span class="float-right">&nbsp;</span>
+	<div class="top-tools-helper">
+		<div class="float-right" id="sign_io">
+										<a id="sw_login" class="cm-combination">Sign in</a>
+				or
+				<a href="/index.php?dispatch=profiles.add" rel="nofollow">Register</a>
+						
+						<div id="login" class="cm-popup-box hidden">
+				<div class="login-popup">
+					<div class="header">Sign in</div>
+					
+
+
+	<form name="login_popup_form" action="/" method="post">
+<input type="hidden" name="form_name" value="login_popup_form">
+<input type="hidden" name="return_url" value="index.php?dispatch=pages.view&amp;page_id=19">
+
+<div class="form-field">
+	<label for="login_popup" class="cm-required cm-trim">Username:</label>
+	<input type="text" id="login_popup" name="user_login" size="30" value="" class="input-text cm-focus">
+</div>
+
+<div class="form-field">
+	<label for="psw_popup" class="cm-required">Password:</label>
+	<input type="password" id="psw_popup" name="password" size="30" value="" class="input-text password">
+</div>
+
+
+<div class="clear">
+	<div class="float-left">
+		<input class="valign checkbox" type="checkbox" name="remember_me" id="remember_me_popup" value="Y">
+		<label for="remember_me_popup" class="valign lowercase">Remember me</label>
+	</div>
+		<div class="float-right">
+		
+		
+ 
+	<span class="button-submit-action"><input type="submit" name="dispatch[auth.login]" value="Sign in"></span>
+
+	</div>
+	</div>
+<p class="center"><a href="/index.php?dispatch=auth.recover_password">Forgot your password?</a></p>
+</form>
+
+				</div>
+			</div>
+					<!--sign_io--></div>
+	</div>
+</div>
+
+<div class="content-tools">
+	<span class="float-left">&nbsp;</span>
+	<span class="float-right">&nbsp;</span>
+	<div class="content-tools-helper clear">
+		
+	<div id="cart_status">
+	<div class="float-left">
+					<img id="sw_cart_box" class="cm-combination cm-combo-on valign hand" src="/skins/12leaves/customer/images/icons/empty_cart_icon.gif" alt="Cart is empty" title="Cart is empty"><strong>&nbsp;&nbsp;&nbsp;Cart is empty</strong>
+			
+		<div id="cart_box" class="cart-list hidden cm-popup-box">
+			<img src="/skins/12leaves/customer/images/icons/empty_cart_list_icon.gif" alt="Cart" class="cm-popup-switch hand cart-list-icon">
+			<div class="list-container">
+				<div class="list">
+									<p class="center">Cart is empty</p>
+								</div>
+				<div class="buttons-container">
+					<a href="/index.php?dispatch=checkout.cart" rel="nofollow" class="view-cart">View cart</a>
+											<a href="/index.php?dispatch=checkout.checkout" rel="nofollow">Checkout</a>
+									</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="checkout-link">
+
+	<a href="/index.php?dispatch=checkout.checkout" rel="nofollow">Checkout</a>
+
+	</div>
+	<!--cart_status--></div>
+		<div class="float-right">
+			
+			
+					</div>
+	</div>
+</div></div>
+		
+	<div id="content">
+											<div class="content-helper clear">
+									
+						<div class="central-column">
+				<div class="central-content">
+					
+	<div class="breadcrumbs">
+		<a href="/">Ecommerce Templates</a><img src="/skins/12leaves/customer/images/icons/breadcrumbs_arrow.gif" class="bc-arrow" border="0" alt=">"><a href="about.html">Information</a><img src="/skins/12leaves/customer/images/icons/breadcrumbs_arrow.gif" class="bc-arrow" border="0" alt=">">Privacy Policy
+	</div>
+					
+
+
+<div class="cm-notification-container"></div>
+					
+					<div class="mainbox-container ">
+		<h1 class="mainbox-title"><span>Privacy Policy</span></h1>
+		<div class="mainbox-body">
+<div class="wysiwyg-content">
+		<p>Thank you for visiting our website. This privacy policy disclose you how we use personal information collected at this site. Our policy is to keep the personal information we receive from our site completely confidential and used solely for internal purposes. We will not share your personal information with any other parties.
+This Privacy Policy only applies to information collected by 12leaves.com. Please read this privacy policy before using the site or submitting any personal information.
+</p>
+
+<h2>Collection and Use of Non-Identifying Personal and Personal Information</h2>
+
+<p>This notice applies to all information collected or submitted on the 12leaves.com website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information (e.g Name, Address Email address e.t.c) collected at these pages will be held with the utmost care and will not be used in ways that you have not consented to. All collected information is retained for order processing and customer service only.</p>
+
+<p>During your use of our website, we will collect non-identifying personal information to enhance the functionality of the website and to make your access more convenient and efficient. We retain non-identifying personal information and use it to establish website activity trends, monitor website performance, improve website design and functionality, fulfill orders, inform current and potential customers and suppliers about our services, and for other business purposes.</p>
+
+<p>Our collection of non-identifying personal information may involve the use of cookies. Among other uses, cookies allow us to deliver content specific to your interests, to save you from re-entering your registration data at each connection, and to provide features such as online customer payment and shopping carts. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.</p>
+
+<p>You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.</p>
+
+<p>12leaves.com use 2checkout.com for purchasing operations. It is the authorized online retailer for our products. 2checkout.com will ask customers to supply various personal data when placing an order, such as name and address, credit-card information, and e-mail address. 2Checkout.com has it"s own <a href="https://www.2checkout.com/documentation/privacy.htm" target="_blank">Privacy Policy</a> that explains how your information is processed and protected.</p>
+
+<h2>Security</h2>
+<p>All non-personally-identifying information and personally identifying-information described above is stored on restricted database servers.</p>
+
+<h2>Private Policy changes</h2>
+<p>12leaves.com may change Privacy Policy from time to time. All changes will be affected on this page.</p>
+
+<h2>Contact Us</h2>
+<p>If you have any questions about this policy or our site in general, please <a href="contact-us.html">contact us</a>.</p>
+
+	
+	</div>
+	
+
+
+
+</div>
+</div>
+				</div>
+			</div>
+		
+						
+						<div class="right-column">
+				<div class="sidebox-categories-wrapper ">
+	<h3 class="sidebox-title"><span>Information</span></h3>
+	<div class="sidebox-body"><div class="wysiwyg-content">
+<ul class="dropdown column-menu">
+   <li><a href="about.html">About Us</a></li>
+   <li><a href="terms-of-use.html">Terms of Use</a></li>
+   <li><a href="free-downloading-terms.html">Free Downloading Terms</a></li>
+   <li><a href="support-policy.html">Support Policy</a></li>
+   <li><a href="refund-policy.html">Refund Policy</a></li>
+   <li><a href="privacy-policy-en.html">Privacy Policy</a></li>
+</ul>
+</div></div>
+	<div class="sidebox-bottom"><span>&nbsp;</span></div>
+</div>
+			</div>
+									
+		</div>
+									<div class="bottom clear-both">
+				<div class="footer">
+	<div class="content-helper"><table class="fixed-layout" width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr valign="top"><td><div class="wysiwyg-content">
+<table class="t-bottom" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tbody><tr class="t-header">
+	<th>12leaves</th>
+	<th>Ecommerce Themes</th>
+	<th>Legal</th>
+</tr>
+<tr>
+	<td>
+		<ul>
+		<li><a target="_blank" href="http://blog.12leaves.com/">Blog</a></li>
+		<li><a href="contact-us.html">Contact us</a></li>
+		<li><a href="services.html">Services</a></li>
+		<li><a href="psd-templates-ecommerce/">PSD Templates</a>
+		</li><li><a href="http://www.12leaves.com/">Ecommerce Templates</a></li>
+		<li><a href="http://www.12leaves.com/downloads.html">Downloads</a>		                    
+                </li><li><a href="faq.html">FAQ</a></li>
+
+		</ul>
+	</td>
+	<td>
+		<ul>
+		<li><a href="free-templates/free-zen-cart-templates/">Zen Cart Templates</a></li>
+		<li><a href="mobile-templates/zen-cart-mobile/">Zen Cart Mobile Themes</a></li>
+		<li><a href="cs-cart-templates">CS-Cart Templates</a></li>
+                <li><a href="cs-cart-modules">CS-Cart Addons</a></li>
+		<li><a href="opencart-templates">OpenCart Templates</a></li>
+		<li><a href="x-cart-templates-skins">X-Cart Templates</a></li>
+		<li><a href="/free-templates/free-zen-cart-templates/">Free Zen Cart Templates</a></li>
+		<li><a href="oscommerce-templates">osCommerce Templates</a></li>
+		<li><a href="free-templates">Free Ecommerce Templates</a></li>
+		</ul>
+	</td>
+	<td>
+   		<ul>
+		<li><a href="terms-of-use.html">License Agreement</a></li>
+		<li><a href="support-policy.html">Support Policy</a></li>
+		<li><a href="privacy-policy-en.html">Privacy Policy</a></li>
+		<li><a href="refund-policy.html">Refund Policy</a></li>
+		<!--li><a href="support.html">Support Policy</a></li-->
+		<li><a href="free-downloading-terms.html">Downloading terms</a></li>
+		</ul>
+	</td>
+</tr>
+</tbody></table>
+</div></td><td width="10"></td><td width="30%"><form action="/" method="post" name="subscribe_form">
+<input type="hidden" name="redirect_url" value="index.php?dispatch=categories.view&amp;category_id=3">
+
+<p>Sign up for our newsletters and keep up with the latest Pixemus news, discounts and events:</p>
+	<div class="select-field">
+		<label for="mailing_list_351">
+			<input id="mailing_list_351" type="checkbox" class="checkbox" name="mailing_lists[1]" value="1" checked="checked">News
+		</label>
+	</div>
+<div class="select-field">
+	<select name="newsletter_format" id="newsletter_format35">
+		<option value="1">Plain text</option>
+		<option value="2">HTML</option>
+	</select>
+</div>
+<div class="subscribe_form form-field"><label for="subscr_email35" class="cm-required cm-email hidden">Email</label><input type="text" name="subscribe_email" id="subscr_email35" size="20" value="Enter e-mail address" class="input-text cm-hint"><input type="image" src="/skins/12leaves/customer/images/icons/spacer.gif" alt="" title="Go" class="go-button"><input type="hidden" name="dispatch" value="newsletters.add_subscriber"></div>
+</form></td></tr></tbody></table></div>
+</div>
+			</div>
+							</div>
+	
+	<div id="footer">
+		<div class="footer-helper-container">
+			<div class="footer-top-helper"><span class="float-left">&nbsp;</span><span class="float-right">&nbsp;</span></div>
+			
+<div class="bottom-search center">
+	<span class="float-left">&nbsp;</span>
+	<span class="float-right">&nbsp;</span>
+	
+</div>
+<p class="bottom-copyright class float-left">© 2009-2014 12leaves.</p>
+<p class="quick-links">
+			<a href="terms-of-use.html">Terms of Use</a>|
+			<a href="faq.html">FAQ</a>|
+			<a href="/index.php?dispatch=sitemap.view">Sitemap</a>|
+	</p>
+
+<div class="float-right"><a target="_blank" href="http://twitter.com/12leaves"><img src="/skins/12leaves/customer/images/twitter.gif" width="22" height="22" alt="Follow us on Twitter!" title="Follow us on Twitter!"></a></div>
+<div class="float-right">&nbsp;&nbsp;</div>
+<div class="float-right"><a target="_blank" href="http://www.facebook.com/pages/12leaves/398940935514"><img src="/skins/12leaves/customer/images/facebook_icon.gif" width="22" height="22" alt="Follow us on Facebook!" title="Follow us on Facebook!"></a></div>
+<div class="float-right">&nbsp;&nbsp;</div>
+<div class="float-right"><a target="_blank" href="https://plus.google.com/109464018057074914998" rel="publisher"><img src="/skins/12leaves/customer/images/gplus.png" width="22" height="22" alt="Follow us on Facebook!" title="Follow us on Google+!"></a></div>
+<div class="clear-both"></div>
+
+
+
+			<div class="footer-bottom-helper"><span class="float-left">&nbsp;</span><span class="float-right">&nbsp;</span></div>
+		</div>
+	</div>
+</div>
+			</div>
+
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function(){
+	jQuery.ajaxRequest('/index.php?dispatch=statistics.collect', {
+		method: 'post',
+		data: {
+			've[url]': location.href,
+			've[title]': document.title,
+			've[browser_version]': jQuery.ua.version,
+			've[browser]': jQuery.ua.browser,
+			've[os]': jQuery.ua.os,
+			've[client_language]': jQuery.ua.language,
+			've[referrer]': document.referrer,
+			've[screen_x]': (screen.width || null),
+			've[screen_y]': (screen.height || null),
+			've[color]': (screen.colorDepth || screen.pixelDepth || null),
+			've[time_begin]': 1402808221.94
+		},
+		hidden: true
+	});
+});
+//]]>
+</script>
+
+<noscript>
+<object data="/index.php?dispatch=statistics.collect&amp;ve%5Burl%5D=http%3A%2F%2Fwww.12leaves.com%2Fprivacy-policy-en.html&amp;ve%5Btitle%5D=Privacy+Policy&amp;ve%5Breferrer%5D=&amp;ve%5Btime_begin%5D=1402808221.94" width="0" height="0"></object>
+</noscript>
+<script type="text/javascript">
+//<![CDATA[
+	var _gaq = _gaq || [];
+	_gaq.push(["_setAccount", "UA-11736187-1"]);
+	_gaq.push(["_trackPageview"]);
+	
+	(function() {
+		var ga = document.createElement("script");
+		ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";
+		ga.setAttribute("async", "true");
+		document.documentElement.firstChild.appendChild(ga);
+	})();
+//]]>
+</script>
+<script type="text/javascript" src="/addons/image_popup_previewer/js/jquery.lib13.js"></script>
+
+
+<div class="image_previewer">
+    <img class="loader_img" border="0" src="/skins/12leaves/customer/addons/image_popup_previewer/images/fancy_loading.gif" alt="">
+    <img class="detailed_img" border="0" alt="" src="">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var preload_images = "N";
+var hide_on_click = "N";
+var fps = "Y";
+var previewer_width = fps == 'Y' ? "400" : null;
+var previewer_height = fps == 'Y' ? "400" : null;
+
+
+    $(function(){
+        if(previewer_width) $('.image_previewer').css({width: previewer_width+'px'});
+        if(previewer_height) $('.image_previewer').css({height: previewer_height+'px'});
+
+        $('.image_previewer').appendTo('body');
+        $('.image_previewer .loader_img').centerize($('.image_previewer'));
+
+        eval('window.ipp_paths=[];');    
+
+        var elems_selectors = [
+                                '.product-item-image a img',
+                                '.product-image a img',
+                                '.image-border a img',
+                              ];
+
+        elems = $(elems_selectors.join(','));
+
+        var get_rest_ipp_paths = function(need_init_call){
+            elems = $(elems_selectors.join(','));
+            var prod_paths = $.map(elems, function(el,i){ return el.parentNode.href; });
+
+            prod_paths = $.grep(prod_paths, function(n,i){
+                for(var j=0; j<window.ipp_paths.length; j++)
+                    if(n.indexOf(window.ipp_paths[j]['href'])!=-1)
+                        return false;
+
+                return true;
+            });
+
+            if(prod_paths.length){
+                $.post('index.php', 
+                        {
+                            dispatch: 'categories.get_imgs_for_ipp',
+                            paths: prod_paths
+                        }, 
+                        function(resp){
+                            eval('window.ipp_paths_rest=' + resp + ';');    
+                            window.ipp_paths = $.merge(window.ipp_paths, window.ipp_paths_rest);
+                            if(need_init_call) { init(); }
+                        });
+            } else if(need_init_call) { init(); }
+        }
+
+        get_rest_ipp_paths();
+        var paths = window.ipp_paths;
+
+        // preload images in background
+        if(preload_images == 'Y')
+            for(var i=0; i<paths.length; i++)
+                if(paths[i].path) (new Image()).src = paths[i].path;
+
+        $.fn.fix_previewer_pos = function(thumb) {
+            var scr = $.scroll_();
+            var thumb_sizes = thumb.sizes();
+            var thumb_pos = thumb.offset();
+            var img_sizes = $(this).sizes();
+            var ww = Math.round($(window).width());
+            var wh = Math.round($(window).height());
+            var w_left_edge = scr.left;
+            var w_right_edge = w_left_edge + ww;
+            var w_top_edge = scr.top;
+            var w_bottom_edge = w_top_edge + wh;
+
+            // FIXME!!!
+            if(thumb_pos.top==0) return this;
+
+            var previewer_left = Math.round(thumb_pos.left + thumb_sizes.width + 20);
+            var previewer_top = Math.round(thumb_pos.top);
+
+            if(previewer_left + img_sizes.width > w_right_edge) 
+                previewer_left = previewer_left - img_sizes.width - thumb_sizes.width - 20;
+            
+            if(previewer_top + img_sizes.height > w_bottom_edge)
+                previewer_top = w_bottom_edge - img_sizes.height - 20;
+
+            if(previewer_top < w_top_edge) 
+                previewer_top = w_top_edge + 20;
+
+            return this.css({ left: previewer_left + 'px', top: previewer_top + 'px' });
+        }
+
+        var hoverHndl = function(img, sw) {
+            var thumb = $(img);
+            var previewer = $('.image_previewer');
+            var loader_img = $('.image_previewer .loader_img');
+            var detailed_img = $('.image_previewer .detailed_img');
+
+            if(thumb.parent()[0] && thumb.parent()[0].href)
+            {
+                for(var i=0; i<paths.length; i++) {
+                    if(thumb.parent()[0].href.indexOf(paths[i]['href'])!=-1) {
+                        if(sw) {  // show
+                            var same_img = detailed_img[0].src.indexOf(paths[i]['path']) != -1;
+
+                            detailed_img.width(paths[i]['image_x']).height(paths[i]['image_y']);
+                            detailed_img[0].src = detailed_img[0].alt = paths[i]['path'];
+                            if($.browser.msie) {
+                            	detailed_img[0].src = '#';
+                            	detailed_img[0].src = paths[i]['path'];
+                            }
+
+                            // adjust previewer size
+                            if(previewer_width)  detailed_img.width(previewer_width);
+                            if(previewer_height) detailed_img.height(previewer_height);
+
+                            previewer
+                                .css({width:detailed_img.width(), height:detailed_img.height()})
+                                .fix_previewer_pos(thumb)
+                                .show();
+
+                            loader_img.centerize(previewer).show();
+
+                            var load_fun = function(){ loader_img.hide(); }
+                            same_img ? load_fun() : detailed_img.unbind('load', load_fun).bind('load', load_fun);
+                        } else {      // hide
+                            var hide_p = function(){ 
+                                previewer.hide(); 
+                                detailed_img.remove();
+                                $('<img class="detailed_img" border="0" alt="" src="" />').appendTo(previewer);
+                            }
+
+                            if(hide_on_click == 'Y')
+                                $(document).unbind('click', hide_p).click(hide_p).click();
+                            else 
+                                hide_p();
+                        }
+                        break;
+                    }
+                }
+            }
+        }
+
+        var init = function(){
+            elems = $(elems_selectors.join(','));
+            elems.unbind('mouseenter').bind('mouseenter',function(){hoverHndl(this, true);});
+            elems.unbind('mouseleave').bind('mouseleave',function(){hoverHndl(this,false);});
+        }
+
+        $.fn.watch = function() {
+            var self = this;
+            return this.each(function() {
+                var original = $(self).html();
+                setInterval(function() {
+                    var newHtml = $(self).html();
+                    if (newHtml != original) {
+                         $(self).trigger('change');
+                         original = newHtml;
+                    }
+                }, 500);
+            });
+        }
+
+        // re-initialization ...
+        // ... after ajax
+        $('body').bind("ajaxComplete", init); 
+
+        // ... after pagination
+        $("#pagination_contents").watch().change(function(){
+            window.setTimeout(init, 10);
+        });
+
+        // ... after 'Hot Deals' updates
+        $(".deals-main").watch().change(function(){
+            window.setTimeout(function(){get_rest_ipp_paths(true); }, 10);
+        });
+
+        init();
+    });
+
+
+//]]>
+</script>
+
+
+
+</body></html>
