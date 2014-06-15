@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betshoot.com privacy policy that was archived on 2013-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130913071847id_/http%3A//www.betshoot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betshoot.com privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616012815id_/http%3A//www.betshoot.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy of Betshoot.com
 
