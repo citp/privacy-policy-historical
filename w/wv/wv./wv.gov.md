@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wv.gov privacy policy that was archived on 2013-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130831165041id_/http%3A//www.wv.gov/policies/Pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wv.gov privacy policy that was archived on 2014-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140615050343id_/http%3A//www.wv.gov/policies/Pages/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -70,8 +70,8 @@ If we decide to begin collecting personal information from children under the ag
 **Contact Information  
 **To offer comments or ask questions about West Virginia privacy policies please contact:
 
-Sallie Milam, Chief Privacy Officer  
+Chief Privacy Officer  
 (304) 558-7000  
-[smilam@hcawv.org](mailto:smilam@hcawv.org)  
+[WVCPO@hcawv.org](mailto:WVCPO@hcawv.org)   
 100 Dee Drive   
 Charleston, WV 25311 
