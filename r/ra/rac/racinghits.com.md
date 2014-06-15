@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the racinghits.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119122159id_/http%3A//www.racinghits.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the racinghits.com privacy policy that was archived on 2014-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140615104726id_/http%3A//www.racinghits.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@ Privacy Policy
 
 The Privacy Policy of racinghits.com web site.
 
-CarBikeGamer.com is firmly committed to the privacy of our users' personal information. Our staff, contractors and others who help us operate our web sites follow this policy on privacy and fair information practices for online activities of racinghits.com. We outline here the information-collection procedure and usage practices for our website, [www.racinghits.com](http://www.racinghits.com/). By using this website, you agree to accept this Privacy Policy and are aware that our policy may change over time as discussed below.
+Racinghits.com is firmly committed to the privacy of our users' personal information. Our staff, contractors and others who help us operate our web sites follow this policy on privacy and fair information practices for online activities of racinghits.com. We outline here the information-collection procedure and usage practices for our website, [www.racinghits.com](http://www.racinghits.com/). By using this website, you agree to accept this Privacy Policy and are aware that our policy may change over time as discussed below.
 
 Your Information
 
@@ -22,7 +22,7 @@ In the course of serving advertisements to this site, our third-party advertiser
 
 Links
 
-CarBikeGamer.com also links to a wide variety of other web sites. We are not responsible for their privacy policies or how they treat information about their users.
+Racinghits.com also links to a wide variety of other web sites. We are not responsible for their privacy policies or how they treat information about their users.
 
 Questions or Suggestions
 
