@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weatherforyou.com privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815180914id_/http%3A//www.weatherforyou.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weatherforyou.com privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616012352id_/http%3A//www.weatherforyou.com/privacy.php) for the most accurate reproduction.*
 
 # WeatherForYou.com Privacy Statement
 
@@ -58,15 +58,14 @@ By using our site, you consent to our [privacy policy](http://www.freeprivacypol
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. 
 
-This policy was last modified on February 2, 2010
+This policy was last modified on September 24, 2013
 
  **Contacting Us**
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
 WeatherForYou.com LLC  
-1867 Williams Hwy Suite 216  
+1600 Williams Hwy #289  
 Grants Pass, OR 97527  
 USA  
-support@weatherforyou.com  
-541-244-2616
+support@weatherforyou.com
