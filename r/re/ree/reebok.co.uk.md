@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reebok.co.uk privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215143312id_/http%3A//www.reebok.co.uk/help-topics-privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reebok.co.uk privacy policy that was archived on 2014-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140615132553id_/http%3A//www.reebok.co.uk/help-topics-privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -217,7 +217,7 @@ Netherlands
 
 You can send an email to our [Customer Service](http://adidas-group-co.uk.custhelp.com/app/ask)
 
-Or you can call Customer Service at 0800-2794979 (FREE PHONE).
+Or you can call Customer Service at 0800 - 279 49 79 (freephone)
 
 Alternatively you can contact the Group Data Protection Officer at 
 
