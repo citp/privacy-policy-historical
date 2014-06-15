@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tmart.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209034922id_/http%3A//www.tmart.com/HelpCenter/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmart.com privacy policy that was archived on 2014-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140615084411id_/http%3A//www.tmart.com/HelpCenter/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy : Tmart.com
 
