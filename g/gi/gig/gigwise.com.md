@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gigwise.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214083230id_/http%3A//www.gigwise.com/info/69/PrivacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gigwise.com privacy policy that was archived on 2014-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140615112040id_/http%3A//www.gigwise.com/info/69/PrivacyStatement) for the most accurate reproduction.*
 
 # Privacy Policy | Gigwise
 
@@ -14,6 +14,8 @@ When using the Site You may encounter areas such as games, competitions, forums,
 By entering Your User Information, You accept that we may retain Your User Information and that it may be held by Us or any third party company which processes it on Our behalf.
 
 We reserve the right to perform statistical analyses of User's behaviour and characteristics in order to measure interest in, and use of, the various areas of the Site and, in addition, to inform advertisers of such information as well as the number of Users that have been exposed to or who have clicked on their advertising banners. We will provide only aggregated data from these analyses to third parties.
+
+We also may collect personally identifiable information that you provide to us, such as your name, address, phone number or email address. If authorized by you, we may also access profile and other information from services like Facebook. Our systems are not designed to associate personal information with your activities (such as pages you view or things you click on or search for).
 
 **Disclosure**  
 We shall be entitled to sell or otherwise make available Your User Information in order to send You information about Us and Our affiliates, associated companies and organisations, for the following purposes including, but not limited to:
