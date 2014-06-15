@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ccjk.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220162310id_/http%3A//www.ccjk.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ccjk.com privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616014236id_/http%3A//www.ccjk.com/privacy-statement) for the most accurate reproduction.*
 
-# CCJK | Privacy Statement
+# Privacy Statement
 
 **[](http://www.ccjk.com/)**
 
-You are here: [Home](http://www.ccjk.com/ "CCJK") / Privacy Statement
+You are here: [Home](http://www.ccjk.com/) / Privacy Statement
 
 **What information do we collect?**
 
