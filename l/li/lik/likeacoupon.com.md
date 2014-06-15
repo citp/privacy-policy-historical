@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the likeacoupon.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613082234id_/http%3A//www.likeacoupon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the likeacoupon.com privacy policy that was archived on 2014-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140615134851id_/http%3A//www.likeacoupon.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Likeacoupon
+# Privacy
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
