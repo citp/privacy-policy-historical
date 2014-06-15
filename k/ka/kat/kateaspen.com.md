@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the kateaspen.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103193833id_/http%3A//www.kateaspen.com/PrivacyInfo.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kateaspen.com privacy policy that was archived on 2014-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140615084006id_/http%3A//www.kateaspen.com/PrivacyInfo.html) for the most accurate reproduction.*
 
 # Privacy Info
+
+  
+| 
 
 Kate Aspen, Inc. strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period. 
 
@@ -63,4 +66,6 @@ If it proves impossible to arrive at a mutually satisfactory solution through me
 
 KateAspen.com is controlled, operated and administered entirely within Georgia. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party. 
 
-Policy updated July, 2009 
+Policy updated July, 2009   
+  
+---|---
