@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ciee.org privacy policy that was archived on 2013-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130919074210id_/http%3A//www.ciee.org/home/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ciee.org privacy policy that was archived on 2014-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140615042958id_/http%3A//www.ciee.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# 
 
 CIEE respects the privacy of users of this web site. This privacy policy has been created to demonstrate our commitment to your privacy and security. It outlines the type of information we collect, what we do with that information, and the choices users have in regard to the information they provide. Please read this privacy policy carefully.
 
