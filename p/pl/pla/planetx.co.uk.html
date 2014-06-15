@@ -1,14 +1,17 @@
-<!--The following is the downloaded HTML source of the planetx.co.uk privacy policy that was archived on 2013-12-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131215004849id_/http%3A//www.planetx.co.uk/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the planetx.co.uk privacy policy that was archived on 2014-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140615132353id_/http%3A//www.planetx.co.uk/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en" class="site"><head>
     	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Privacy Policy | Planet X</title>
-		<link rel="stylesheet" href="http://d2plslj6xljffa.cloudfront.net/themes/planetxuk/css/structure-new.css?v=2" type="text/css" media="screen">
-		<link rel="stylesheet" href="http://d2plslj6xljffa.cloudfront.net/themes/planetxuk/css/style-new.css?v=2" type="text/css" media="screen">
-		<link rel="stylesheet" href="http://d2plslj6xljffa.cloudfront.net/themes/planetxuk/css/extras.css?v=2" type="text/css" media="screen">
-		<link rel="stylesheet" href="http://d2plslj6xljffa.cloudfront.net/themes/planetxuk/css/mobile.css?v=2" type="text/css" media="screen">
-		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//use.typekit.net/bvh5qwm.js"></script><script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+    	<!--meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=yes" /-->
+        <title>Privacy Policy | Planet X </title>
+        
+		<link rel="stylesheet" href="http://d2plslj6xljffa.cloudfront.net/themes/planetxuk/css/structure-new.css?v=p" type="text/css" media="screen">
+		<link rel="stylesheet" href="http://d2plslj6xljffa.cloudfront.net/themes/planetxuk/css/style-new.css?v=p" type="text/css" media="screen">
+		<link rel="stylesheet" href="http://d2plslj6xljffa.cloudfront.net/themes/planetxuk/css/extras.css?v=p" type="text/css" media="screen">
+		<link rel="stylesheet" href="http://d2plslj6xljffa.cloudfront.net/themes/planetxuk/css/mobile.css?v=p" type="text/css" media="screen">
+
+		<script type="text/javascript" async="" src="https://nxtcfm.s3.amazonaws.com/cbfbb3438ae8c8984a55064008ba2c24-ac.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_GB/all.js#xfbml=1&amp;appId=222300484493229"></script><script type="text/javascript" src="//use.typekit.net/bvh5qwm.js"></script><script type="text/javascript">try{Typekit.load();}catch(e){}</script>
   
                 <link rel="canonical" href="http://www.planetx.co.uk/privacy-policy">
                 <meta http-equiv="Content-Language" content="en">
@@ -126,27 +129,59 @@
 	<script type="text/javascript">
 		var w=window,d=document,e=d.documentElement,g=d.getElementsByTagName('body')[0],x=w.innerWidth||e.clientWidth||g.clientWidth,y=w.innerHeight||e.clientHeight||g.clientHeight;
 		if(x <= "1220"){
-			document.write('<link rel="stylesheet" href="http://d2plslj6xljffa.cloudfront.net/themes/planetxuk/css/ie-1024.css?v=2" type="text/css" media="screen" />');
+			document.write('<link rel="stylesheet" href="http://d2plslj6xljffa.cloudfront.net/themes/planetxuk/css/ie-1024.css?v=p" type="text/css" media="screen" />');
 		}
 	</script>
 <![endif]-->
-
+<script type="text/javascript">
+	window.addEvent('domready', function() {
+	//Add the Counting Div
+		if($('address_line_1'))
+		{
+			new Element('div', { 'class': 'charcount', 'html': '<span id="counter_number" class="counter">35</span> Remaining characters' }).inject('address_line_1', 'after');
+			$('address_line_1').set('maxlength','35');
+			$('address_line_1').addEvent('keyup', function() {
+				 
+				max_chars = 35;
+				/* get the current value of the input field */
+				current_value = $('address_line_1').value;
+				/* get current value lenght */
+				current_length = current_value.length;
+				/* calculate remaining chars */
+				remaining_chars = max_chars-current_length;
+				$('counter_number').set('text',remaining_chars);
+				/* Change color if remaining chars are LT 6*/
+				if(remaining_chars<=5)
+				{
+					$('counter_number').setStyle('color', '#990000');
+				} 
+				else {
+					$('counter_number').setStyle('color', '#8cc63e');
+				}
+				
+			});
+		}
+	});
+</script>
 <script type="text/javascript">/*<![CDATA[*/
 var pc = Cookie.read('phstry');
 var ph = JSON.decode(pc);
 /*]]>*/</script>
-<link rel="stylesheet" href="http://d2plslj6xljffa.cloudfront.net/themes/planetxuk/css/print.css?v=2" type="text/css" media="print">
+<link rel="stylesheet" href="http://d2plslj6xljffa.cloudfront.net/themes/planetxuk/css/print.css?v=p" type="text/css" media="print">
 <!--[if lt IE 9]>
 <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
-
 </head>
 
     <body class="page-privacy-policy  ">
-
-
-
-
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1&appId=222300484493229";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
 <div class="utility-nav-wrap">	
 <!-- utility-nav -->		
 	<div class="utility-nav">
@@ -157,7 +192,7 @@ var ph = JSON.decode(pc);
 				<li><a href="/help" title="Customer Services">Customer Services</a></li>
 				<li><a href="/stores" title="Our Stores">Our Stores</a></li>
 			</ul>
-		</div><!-- end of .utility-content -->
+		</div><!-- end of .utility-content (#) -->
 		<div class="tool-nav">
 		
 							
@@ -257,9 +292,9 @@ var ph = JSON.decode(pc);
 				<div class="search">
 									
 					
-						<form id="site-search" action="/s" method="get">
+						<form id="site-search" action="/search-results" method="get">
 						  <fieldset>
-							  <input id="site-search-input" type="text" value="" alt="Search…" name="q" class="text-search text-input defaulted">
+							  <input id="site-search-input" type="text" value="" alt="Search…" name="keywords" class="text-search text-input defaulted">
 							  <button type="submit" class="btn">Go</button>
 						  </fieldset>
 						</form>			
@@ -282,654 +317,26 @@ var ph = JSON.decode(pc);
 	</div><!-- end of .wrap -->
 </header><!-- end of header -->	
 
-<nav id="main-nav">
-	<div class="wrap">
+<div id="navwrap"></div>
+	<nav id="main-nav">
+		<div class="wrap">
+	
+			<ul id="nav"><li class="level0"><a class="level-top" href="/c/q/bikes"><span>Bikes</span></a><ul class="level0 bikes"><li class="level1 nav-threequarter"><span class="heading">Categories</span><ul class="level1"><li class="level1"><a href="/c/q/bikes/road-bikes"><span>Road Bikes</span></a></li><li class="level1"><a href="/c/q/bikes/track-bikes"><span>Track Bikes</span></a></li><li class="level1"><a href="/c/q/bikes/tt-and-triathlon-bikes"><span>TT/Triathlon Bikes</span></a></li><li class="level1"><a href="/c/q/bikes/cyclocross-bikes"><span>Cyclocross Bikes</span></a></li><li class="level1"><a href="/c/q/bikes/mountain-bikes"><span>Mountain Bikes</span></a></li><li class="level1"><span><a href="/c/q/bikes/urban-bikes">Urban Bikes</a></span></li></ul></li><li class="level1 nav-quarter"><a href="/brand/q"><span class="heading">Brands</span></a><ul class="level1"><li class="level2"><a href="/c/q/bikes#!g_manufacturer=g_manufacturer|f_manufactureron-one"><span>On-One</span></a></li><li class="level2"><a href="/c/q/bikes#!=&amp;g_manufacturer=g_manufacturer|f_manufacturerplanet-x"><span>Planet X</span></a></li><li class="level2"><a href="/c/q/bikes#!g_manufacturer=g_manufacturer%7Cf_manufacturerguerciotti"><span>Guerciotti</span></a></li><li class="level2"><a href="/c/q/bikes#!g_manufacturer=g_manufacturer|f_manufacturertitus"><span>Titus</span></a></li><li class="level2"><a href="/c/q/bikes#!g_manufacturer=g_manufacturer%7Cf_manufacturerholdsworth"><span>Holdsworth</span></a></li></ul></li><li class="level1 nav-fullwidthFooter"><a href="/c/q/bikes">See All Bikes</a></li></ul></li><li class="level0"><a class="level-top" href="/c/q/frames"><span>Frames</span></a><ul class="level0 frames"><li class="level1 nav-threequarter"><span class="heading">Categories</span><ul class="level1"><li class="level1"><a href="/c/q/frames/road-bike-frames"><span>Road Bike Frames</span></a></li><li class="level1"><a href="/c/q/frames/track-bike-frames"><span>Track Bike Frames</span></a></li><li class="level1"><a href="/c/q/frames/tt-and-triathlon-bike-frames"><span>TT/Triathlon Bike Frames</span></a></li><li class="level1"><a href="/c/q/frames/cyclocross-frames"><span>Cyclocross Frames</span></a></li><li class="level1"><a href="/c/q/frames/mountain-bike-frames"><span>Mountain Bike Frames</span></a></li><li class="level1"><a href="/c/q/frames/urban-bike-frames"><span>Urban Bike Frames</span></a></li><li class="level1"><a href="/c/q/frames/frame-spares"><span>Frame Spares</span></a></li><li class="level1"><span><a href="/c/q/vintage/vintage-frames">Vintage Frames</a></span></li></ul></li><li class="level1 nav-quarter"><a href="/brand/q"><span class="heading">Brands</span></a><ul class="level1"><li class="level2"><a href="/c/q/frames#!=&amp;g_manufacturer=g_manufacturer%7Cf_manufactureron-one"><span>On-One</span></a></li><li class="level2"><a href="/c/q/frames#!g_manufacturer=g_manufacturer%7Cf_manufacturerplanet-x"><span>Planet X</span></a></li><li class="level2"><a href="/c/q/frames#!g_manufacturer=g_manufacturer|f_manufacturerguerciotti"><span>Guerciotti</span></a></li><li class="level2"><a href="/c/q/frames#!g_manufacturer=g_manufacturer|f_manufacturertitus"><span>Titus</span></a></li><li class="level2"><a href="/c/q/frames#!g_manufacturer=g_manufacturer|f_manufacturersab"><span>Sab</span></a></li></ul></li><li class="level1 nav-fullwidthFooter"><a href="/c/q/frames">See All Frames</a></li></ul></li><li class="level0"><a class="level-top" href="/c/q/wheels"><span>Wheels</span></a><ul class="level0 wheels"><li class="level1 nav-threequarter"><span class="heading">Categories</span><ul class="level1"><li class="level1"><a href="/c/q/wheels/road-bike-wheels"><span>Road Bike Wheels</span></a></li><li class="level1"><a href="/c/q/wheels/track-bike-wheels"><span>Track Bike Wheels</span></a></li><li class="level1"><a href="/c/q/wheels/tt-and-triathlon-wheels"><span>TT/Triathlon Wheels</span></a></li><li class="level1"><a href="/c/q/wheels/cyclocross-wheels"><span>Cyclocross Wheels</span></a></li><li class="level1"><a href="/c/q/wheels/mountain-bike-wheels"><span>Mountain Bike Wheels</span></a></li><li class="level1"><span><a href="/c/q/wheels/urban-bike-wheel">Urban Bike Wheels</a></span></li><li class="level1"><a href="/c/q/wheels/tyres-and-tubes"><span>Tyres and Tubes</span></a></li><li class="level1"><span><a href="/c/q/wheels/wheel-spares">Wheel Spares</a></span></li></ul></li><li class="level1 nav-quarter"><a href="/brand/q"><span class="heading">Brands</span></a><ul class="level1"><li class="level2"><a href="/c/q/wheels#!=&amp;g_manufacturer=g_manufacturer|f_manufacturerplanet-x"><span>Planet X</span></a></li><li class="level2"><a href="/c/q/wheels#!g_manufacturer=g_manufacturer|f_manufactureron-one"><span>On-One</span></a></li></ul></li><li class="level1 nav-fullwidthFooter"><a href="/c/q/wheels">See All Wheels</a></li></ul></li><li class="level0"><a class="level-top" href="/c/q/components"><span>Components</span></a><ul class="level0 components"><li class="level1 nav-fullwidth"><span class="heading">Categories</span><ul class="level1"><li class="level1"><a href="/c/q/components/forks-and-shocks"><span class="subheading">Forks and Shocks</span></a><ul class="level1"><li class="level2"><a href="/c/q/components/forks-and-shocks/rear-shocks"><span>Rear Shocks</span></a></li><li class="level2"><a href="/c/q/components/forks-and-shocks/rigid-forks"><span>Rigid Forks</span></a></li><li class="level2"><a href="/c/q/components/forks-and-shocks/suspension-forks"><span>Suspension Forks</span></a></li></ul></li><li class="level1"><a href="/c/q/components/drivetrain"><span class="subheading">Drivetrain</span></a><ul class="level1"><li class="level2"><a href="/c/q/components/drivetrain/chain-rings"><span>Chain Rings</span></a></li><li class="level2"><a href="/c/q/components/drivetrain/singlespeed-kits"><span>SingleSpeed Kits</span></a></li><li class="level2"><a href="/c/q/components/drivetrain/bottom-brackets"><span>Bottom Brackets</span></a></li><li class="level2"><a href="/c/q/components/drivetrain/cassettes"><span>Cassettes</span></a></li><li class="level2"><a href="/c/q/components/drivetrain/chains"><span>Chains</span></a></li><li class="level2"><a href="/c/q/components/drivetrain/crank-sets"><span>Crank Sets</span></a></li><li class="level2"><a href="/c/q/components/drivetrain/derailleurs"><span>Derailleurs</span></a></li><li class="level2"><a href="/c/q/components/drivetrain/groupsets"><span>Groupsets</span></a></li></ul></li><li class="level1"><a href="/c/q/components/finishing-kit"><span class="subheading">Finishing Kit</span></a><ul class="level1"><li class="level2"><a href="/c/q/components/finishing-kit/seat-clamps"><span>Seat Clamps</span></a></li><li class="level2"><a href="/c/q/components/finishing-kit/bar-tape-and-grips"><span>Bar Tape and Grips</span></a></li><li class="level2"><a href="/c/q/components/finishing-kit/gear-cables"><span>Gear Cables</span></a></li><li class="level2"><a href="/c/q/components/finishing-kit/saddles"><span>Saddles</span></a></li><li class="level2"><a href="/c/q/components/finishing-kit/handle-bars"><span>Handle Bars</span></a></li><li class="level2"><a href="/c/q/components/finishing-kit/head-sets"><span>Head Sets</span></a></li><li class="level2"><a href="/c/q/components/finishing-kit/seat-posts"><span>Seat Posts</span></a></li><li class="level2"><a href="/c/q/components/finishing-kit/pedals"><span>Pedals</span></a></li><li class="level2"><a href="/c/q/components/finishing-kit/stems"><span>Stems</span></a></li></ul></li><li class="level1"><a href="/c/q/components/brakes"><span class="subheading">Brakes</span></a><ul class="level1"><li class="level2"><a href="/c/q/components/brakes/brake-calipers"><span>Brake Calipers</span></a></li><li class="level2"><a href="/c/q/components/brakes/disc-brakes"><span>Disc Brakes</span></a></li><li class="level2"><a href="/c/q/components/brakes/cantilever-brakes"><span>Cantilever Brakes</span></a></li><li class="level2"><a href="/c/q/components/brakes/brake-spares"><span>Brake Spares</span></a></li></ul></li><li class="level1"><a href="/c/q/components/controls"><span class="subheading">Controls</span></a><ul class="level1"><li class="level2"><a href="/c/q/components/controls/brake-levers"><span>Brake Levers</span></a></li><li class="level2"><a href="/c/q/components/controls/gear-shifters"><span>Gear Shifters</span></a></li></ul></li></ul></li><li class="level1 nav-fullwidthFooter hide"><a href="/c/q/components">See All Components</a></li></ul></li><li class="level0"><a class="level-top" href="/c/q/accessories"><span>Accessories</span></a><ul class="level0 accessories"><li class="level1 nav-fullwidth"><span class="heading">Categories</span><ul class="level1"><li class="level1"><a href="/c/q/accessories/accessories"><span class="subheading">Accessories</span></a><ul class="level1"><li class="level2"><a href="/c/q/accessories/bike-accessories/hydration-packs"><span>Hydration Packs</span></a></li><li class="level2"><a href="/c/q/accessories/bike-accessories/bike-locks"><span>Bike Locks</span></a></li><li class="level2"><span><a href="/c/q/accessories/bike-accessories/computers-and-training-aids">Computers and Training Aids</a></span></li><li class="level2"><span><a href="/c/q/accessories/accessories/climbing-equipment">Climbing Equipment</a></span></li><li class="level2"><a href="/c/q/accessories/bike-accessories/miscellaneous"><span>Miscellaneous</span></a></li><li class="level2"><a href="/c/q/accessories/bike-accessories/racks"><span>Racks</span></a></li><li class="level2"><a href="/c/q/accessories/bike-accessories/bottles-and-bottle-cages"><span>Bottles and Bottle Cages</span></a></li><li class="level2"><a href="/c/q/accessories/bike-accessories/pumps"><span>Pumps</span></a></li><li class="level2"><a href="/c/q/accessories/bike-accessories/trainers-and-rollers"><span>Trainers and Rollers</span></a></li></ul></li><li class="level1"><a href="/c/q/accessories/bags-and-luggage"><span class="subheading">Bags and Luggage</span></a><ul class="level1"><li class="level2"><a href="/c/q/accessories/bags-and-luggage/saddle-bags"><span>Saddle Bags</span></a></li><li class="level2"><span><a href="/c/q/accessories/bags-and-luggage/bags-and-luggage">Bags and Luggage</a></span></li><li class="level2"><span><a href="/c/q/accessories/bags-and-luggage/backpacks">Backpacks</a></span></li><li class="level2"><span><a href="/c/q/accessories/bags-and-luggage/bags-covers-and-liners">Bag Covers &amp; Liners</a></span></li><li class="level2"><span><a href="/c/q/accessories/bags-and-luggage/stuffsacks">Stuffsacs</a></span></li><li class="level2"><span><a href="/c/q/accessories/bags-and-luggage/buckles-and-straps">Buckles &amp; Straps</a></span></li><li class="level2"><a href="/c/q/accessories/bags-and-luggage/panniers-and-touring"><span>Panniers and Touring</span></a></li><li class="level2"><a href="/c/q/accessories/bags-and-luggage/musette"><span>Musette</span></a></li><li class="level2"><a href="/c/q/accessories/bags-and-luggage/bike-bags-and-boxes"><span>Bike Bags and Boxes</span></a></li><li class="level2"><a href="/c/q/accessories/bags-and-luggage/wheel-bags"><span>Wheel Bags</span></a></li></ul></li><li class="level1"><a href="/c/q/accessories/health-and-nutrition"><span class="subheading">Health &amp; Nutrition</span></a><ul class="level1"><li class="level2"><a href="/c/q/accessories/health-and-nutrition/hydration"><span>Hydration</span></a></li><li class="level2"><a href="/c/q/accessories/health-and-nutrition/chamois-cream"><span>Chamois Cream</span></a></li><li class="level2"><a href="/c/q/accessories/health-and-nutrition/first-aid"><span>First Aid</span></a></li><li class="level2"><a href="/c/q/accessories/health-and-nutrition/recovery"><span>Recovery</span></a></li><li class="level2"><a href="/c/q/accessories/health-and-nutrition/endurance"><span>Endurance</span></a></li><li class="level2"><a href="/c/q/accessories/health-and-nutrition/body-health"><span>Body Health</span></a></li></ul></li><li class="level1"><a href="/c/q/accessories/lights"><span class="subheading">Lights</span></a><ul class="level1"><li class="level2"><a href="/c/q/accessories/lights/lighting-accessories"><span>Lighting Accessories</span></a></li><li class="level2"><a href="/c/q/accessories/lights/off-road"><span>Off Road</span></a></li><li class="level2"><a href="/c/q/accessories/lights/rear"><span>Rear</span></a></li><li class="level2"><a href="/c/q/accessories/lights/front"><span>Front</span></a></li><li class="level2"><a href="/c/q/accessories/lights/light-sets"><span>Light Sets</span></a></li></ul></li><li class="level1"><a href="/c/q/accessories/workshop"><span class="subheading">Workshop</span></a><ul class="level1"><li class="level2"><a href="/c/q/accessories/workshop/lubricants"><span>Lubricants</span></a></li><li class="level2"><a href="/c/q/accessories/workshop/cleaning"><span>Cleaning</span></a></li><li class="level2"><a href="/c/q/accessories/workshop/tools"><span>Tools</span></a></li><li class="level2"><a href="/c/q/accessories/workshop/workshop-spare"><span>Workshop Spare</span></a></li><li class="level2"><a href="/c/q/accessories/workshop/workstands"><span>Workstands</span></a></li></ul></li></ul></li><li class="level1 nav-fullwidthFooter hide"><a href="/c/q/accessories">See All Accessories</a></li></ul></li><li class="level0"><a class="level-top" href="/c/q/clothing"><span>Clothing</span></a><ul class="level0 clothing"><li class="level1 nav-fullwidth"><span class="heading">Categories</span><ul class="level1"><li class="level1"><a href="/c/q/clothing/clothes"><span class="subheading">Clothing</span></a><ul class="level1"><li class="level2"><a href="/c/q/clothing/clothes/vests"><span>Vests</span></a></li><li class="level2"><a href="/c/q/clothing/clothes/gilets"><span>Gilets</span></a></li><li class="level2"><a href="/c/q/clothing/clothes/merino"><span>Merino</span></a></li><li class="level2"><a href="/c/q/clothing/clothes/knitwear"><span>Knitwear</span></a></li><li class="level2"><a href="/c/q/clothing/clothes/polos"><span>Polos</span></a></li><li class="level2"><a href="/c/q/clothing/clothes/baselayers"><span>Baselayers</span></a></li><li class="level2"><a href="/c/q/clothing/clothes/headwear"><span>Headwear</span></a></li><li class="level2"><a href="/c/q/clothing/clothes/arm-and-neck-warmers"><span>Arm and Neck Warmers</span></a></li><li class="level2"><a href="/c/q/clothing/clothes/leggings-tights-and-shorts"><span>Leggings, Tights &amp; Shorts</span></a></li><li class="level2"><a href="/c/q/clothing/clothes/jackets"><span>Jackets</span></a></li><li class="level2"><a href="/c/q/clothing/clothes/jerseys"><span>Jerseys</span></a></li><li class="level2"><a href="/c/q/clothing/clothes/gloves"><span>Gloves</span></a></li><li class="level2"><a href="/c/q/clothing/clothes/t-shirts"><span>T-Shirts</span></a></li><li class="level2"><a href="/c/q/clothing/clothes/tops"><span>Tops</span></a></li><li class="level2"><a href="/c/q/clothing/clothes/body-armour-and-protection"><span>Body Armour</span></a></li><li class="level2"><a href="/c/q/clothing/clothes/wetsuits"><span>Wetsuits</span></a></li></ul></li><li class="level1"><a href="/c/q/clothing/footwear"><span class="subheading">Footwear</span></a><ul class="level1"><li class="level2"><a href="/c/q/clothing/footwear/socks"><span>Socks</span></a></li><li class="level2"><a href="/c/q/clothing/footwear/overshoes"><span>Overshoes</span></a></li><li class="level2"><a href="/c/q/clothing/footwear/road-shoes"><span>Road Shoes</span></a></li><li class="level2"><a href="/c/q/clothing/footwear/mountain-bike-footwear"><span>Mountain Bike Footwear</span></a></li></ul></li><li class="level1"><a href="/c/q/clothing/helmets"><span class="subheading">Helmets</span></a><ul class="level1"><li class="level2"><a href="/c/q/clothing/helmets/helmets"><span>Helmets</span></a></li></ul></li><li class="level1"><a href="/c/q/clothing/eyewear"><span class="subheading">Eyewear</span></a><ul class="level1"><li class="level2"><a href="/c/q/clothing/eyewear/sunglasses"><span>Sunglasses</span></a></li><li class="level2"><a href="/c/q/clothing/eyewear/cycling-glasses"><span>Cycling Glasses</span></a></li><li class="level2"><a href="/c/q/clothing/eyewear/swimming-goggles"><span>Swimming Goggles</span></a></li><li class="level2"><a href="/c/q/clothing/eyewear/oakley-glasses"><span>Oakley Glasses</span></a></li></ul></li></ul></li><li class="level1 nav-fullwidthFooter"><a href="/c/q/clothing">See All Clothing</a></li></ul></li><li class="level0"><a class="level-top" href="/c/q/vintage"><span>Vintage</span></a><ul class="level0 vintage"><li class="level1 nav-fullwidth"><span class="heading">Categories</span><ul class="level1"><li class="level1"><a href="/c/q/vintage"><span class="subheading">Vintage and Classic Store</span></a><ul class="level1"><li class="level2"><a href="/c/q/vintage/vintage-bikes"><span>Vintage Bikes</span></a></li><li class="level2"><a href="/c/q/vintage/vintage-frames"><span>Vintage Frames</span></a></li><!--<li class="level2"><a href="/c/q/vintage/vintage-clearance"><span>Vintage Clearance</span></a></li><li class="level2"><a href="/c/q/vintage/vintage-wheels"><span>Vintage Wheels</span></a></li>--><li class="level2"><a href="/c/q/vintage/vintage-finishing-kit"><span>Vintage Finishing Kit</span></a></li></ul></li><li class="level1"><a href="/brand/q"><span class="subheading">Vintage and Classic Brands</span></a><ul class="level1"><li class="level2"><a href="/brand/q/Guerciotti"><span>Guerciotti</span></a></li><li class="level2"><a href="/brand/q/3TTT"><span>3TTT</span></a></li><li class="level2"><a href="/brand/q/Ciocc"><span>Ciocc</span></a></li><li class="level2"><a href="/brand/q/Cinelli"><span>Cinelli</span></a></li><li class="level2"><a href="/brand/q/Clarks"><span>Clarks</span></a></li><li class="level2"><a href="/brand/q/Lemond"><span>Lemond</span></a></li><li class="level2"><a href="/brand/q/FSA"><span>FSA</span></a></li><li class="level2"><a href="/brand/q/Mavic"><span>Mavic</span></a></li></ul></li></ul></li><li class="level1 nav-fullwidthFooter"><a href="/c/q/vintage">See All Vintage</a></li></ul></li><li class="level0 deals"><a class="level-top deals" href="/c/q/deals">Deals</a><ul class="level0 deals"><li class="level1 nav-fullwidth"><span class="heading">Categories</span><ul class="level1"><li class="level1"><a href="/c/q/deals/clearance-bikes"><span>Clearance Bikes</span></a></li><li class="level1"><a href="/c/q/deals/clearance-frames"><span>Clearance Frames</span></a></li><li class="level1"><a href="/c/q/deals/clearance-wheels"><span>Clearance Wheels</span></a></li><li class="level1"><a href="/c/q/deals/clearance-clothing"><span>Clearance Clothing</span></a></li><li class="level1"><a href="/c/q/deals/clearance-accessories"><span>Clearance Accessories</span></a></li><li class="level1"><a href="/c/q/deals/clearance-components"><span>Clearance Components</span></a></li><li class="level1"><span><a href="/c/q/deals/bundles">Bundles</a></span></li></ul></li><li class="level1 nav-fullwidthFooter hide"><a href="/c/q/deals">See All Clearance, Deals and Bundles</a></li></ul></li><li class="level0"><a class="level-top" href="/brand/q"><span>Brands</span></a><ul class="level0 brands"><li class="level1 nav-fullwidth"><span class="heading">Our Top Brands</span><ul class="level1"><li class="level1"><a href="/brand/q/Planet+X"><span>Planet X</span></a></li><li class="level1"><a href="/brand/q/On-One"><span>On-One</span></a></li><li class="level1"><a href="/brand/q/Titus"><span>Titus</span></a></li><li class="level1"><a href="/brand/q/Holdsworth"><span>Holdsworth</span></a></li><li class="level1"><a href="/brand/q/Guerciotti"><span>Guerciotti</span></a></li><li class="level1"><a href="/brand/q/Sab"><span>Sab</span></a></li><li class="level1"><a href="/brand/q/Shimano"><span>Shimano</span></a></li><li class="level1"><a href="/brand/q/SRAM"><span>SRAM</span></a></li><li class="level1"><a href="/brand/q/Vittoria"><span>Vittoria</span></a></li><li class="level1"><a href="/brand/q/Fizik"><span>Fizik</span></a></li></ul></li><li class="level1 nav-fullwidthFooter"><a href="/brand/q">See All Brands</a></li></ul></li><li class="level0"><a class="level-top social-nav" href="#">Social</a><ul class="level0 social"><li class="level1 nav-fullwidth"><span class="heading">Lets all Share!</span><ul class="level1"><li class="level1"><a href="/news"><span>News</span></a></li><li class="level1"><a href="/sponsored-riders"><span>Sponsored Riders</span></a></li><li class="level1"><a href="/readers-rides"><span>Readers Rides</span></a></li></ul></li></ul></li></ul>		</div><!-- end of .wrap -->
+	</nav><!-- end of nav -->
 
-		<ul id="nav">
-<li class="level0"><a class="level-top" href="/c/q/bikes"><span>Bikes</span></a>
-<ul class="level0 bikes">
-<li class="level1 nav-threequarter"><span class="heading">Categories</span>
-<ul class="level1">
-<li class="level1"><a href="/c/q/bikes/road-bikes"><span>Road Bikes</span></a></li>
-<li class="level1"><a href="/c/q/bikes/track-bikes"><span>Track Bikes</span></a></li>
-<li class="level1"><a href="/c/q/bikes/tt-and-triathlon-bikes"><span>TT/Triathlon Bikes</span></a></li>
-<li class="level1"><a href="/c/q/bikes/cyclocross-bikes"><span>Cyclocross Bikes</span></a></li>
-<li class="level1"><a href="/c/q/bikes/mountain-bikes"><span>Mountain Bikes</span></a></li>
-<li class="level1"><a href="/c/q/bikes/urban-bikes"><span>Urban Bikes</span></a></li>
-</ul>
-</li>
-<li class="level1 nav-quarter"><a href="/brand/q"><span class="heading">Brands</span></a>
-<ul class="level1">
-<li class="level2"><a href="/c/q/bikes#!g_manufacturer=g_manufacturer|f_manufactureron-one"><span>On-One</span></a></li>
-<li class="level2"><a href="/c/q/bikes#!=&amp;g_manufacturer=g_manufacturer|f_manufacturerplanet-x"><span>Planet X</span></a></li>
-<li class="level2"><a href="/c/q/bikes#!g_manufacturer=g_manufacturer%7Cf_manufacturerguerciotti"><span>Guerciotti</span></a></li>
-<li class="level2"><a href="/c/q/bikes#!g_manufacturer=g_manufacturer|f_manufacturertitus"><span>Titus</span></a></li>
-<li class="level2"><a href="/c/q/bikes#!g_manufacturer=g_manufacturer%7Cf_manufacturerholdsworth"><span>Holdsworth</span></a></li>
-</ul>
-</li>
-<li class="level1 nav-fullwidthFooter"><a href="/c/q/bikes">See All Bikes</a></li>
-</ul>
-</li>
-<li class="level0"><a class="level-top" href="/c/q/frames"><span>Frames</span></a>
-<ul class="level0 frames">
-<li class="level1 nav-threequarter"><span class="heading">Categories</span>
-<ul class="level1">
-<li class="level1"><a href="/c/q/frames/road-bike-frames"><span>Road Bike Frames</span></a></li>
-<li class="level1"><a href="/c/q/frames/track-bike-frames"><span>Track Bike Frames</span></a></li>
-<li class="level1"><a href="/c/q/frames/tt-and-triathlon-bike-frames"><span>TT/Triathlon Bike Frames</span></a></li>
-<li class="level1"><a href="/c/q/frames/cyclocross-frames"><span>Cyclocross Frames</span></a></li>
-<li class="level1"><a href="/c/q/frames/mountain-bike-frames"><span>Mountain Bike Frames</span></a></li>
-<li class="level1"><a href="/c/q/frames/urban-bike-frames"><span>Urban Bike Frames</span></a></li>
-<li class="level1"><a href="/c/q/frames/frame-spares"><span>Frame Spares</span></a></li>
-<li class="level1"><a href="/c/q/vintage/vintage-frames"><span>Vintage Frames</span></a></li>
-</ul>
-</li>
-<li class="level1 nav-quarter"><a href="/brand/q"><span class="heading">Brands</span></a>
-<ul class="level1">
-<li class="level2"><a href="/c/q/frames#!=&amp;g_manufacturer=g_manufacturer%7Cf_manufactureron-one"><span>On-One</span></a></li>
-<li class="level2"><a href="/c/q/frames#!g_manufacturer=g_manufacturer%7Cf_manufacturerplanet-x"><span>Planet X</span></a></li>
-<li class="level2"><a href="/c/q/frames#!g_manufacturer=g_manufacturer|f_manufacturerguerciotti"><span>Guerciotti</span></a></li>
-<li class="level2"><a href="/c/q/frames#!g_manufacturer=g_manufacturer|f_manufacturertitus"><span>Titus</span></a></li>
-<li class="level2"><a href="/c/q/frames#!g_manufacturer=g_manufacturer|f_manufacturersab"><span>Sab</span></a></li>
-</ul>
-</li>
-<li class="level1 nav-fullwidthFooter"><a href="/c/q/frames">See All Frames</a></li>
-</ul>
-</li>
-<li class="level0"><a class="level-top" href="/c/q/wheels"><span>Wheels</span></a>
-<ul class="level0 wheels">
-<li class="level1 nav-threequarter"><span class="heading">Categories</span>
-<ul class="level1">
-<li class="level1"><a href="/c/q/wheels/road-bike-wheels"><span>Road Bike Wheels</span></a></li>
-<li class="level1"><a href="/c/q/wheels/track-bike-wheels"><span>Track Bike Wheels</span></a></li>
-<li class="level1"><a href="/c/q/wheels/tt-and-triathlon-wheels"><span>TT/Triathlon Wheels</span></a></li>
-<li class="level1"><a href="/c/q/wheels/cyclocross-wheels"><span>Cyclocross Wheels</span></a></li>
-<li class="level1"><a href="/c/q/wheels/mountain-bike-wheels"><span>Mountain Bike Wheels</span></a></li>
-<li class="level1"><span><a href="/c/q/wheels/urban-bike-wheel">Urban Bike Wheels</a></span></li>
-<li class="level1"><a href="/c/q/wheels/tyres-and-tubes"><span>Tyres and Tubes</span></a></li>
-<li class="level1"><a href="/c/q/wheels/wheel-spares"><span>Wheel Spares</span></a></li>
-</ul>
-</li>
-<li class="level1 nav-quarter"><a href="/brand/q"><span class="heading">Brands</span></a>
-<ul class="level1">
-<li class="level2"><a href="/c/q/wheels#!=&amp;g_manufacturer=g_manufacturer|f_manufacturerplanet-x"><span>Planet X</span></a></li>
-<li class="level2"><a href="/c/q/wheels#!g_manufacturer=g_manufacturer|f_manufactureron-one"><span>On-One</span></a></li>
-</ul>
-</li>
-<li class="level1 nav-fullwidthFooter"><a href="/c/q/wheels">See All Wheels</a></li>
-</ul>
-</li>
-<li class="level0"><a class="level-top" href="/c/q/components"><span>Components</span></a>
-<ul class="level0 components">
-<li class="level1 nav-fullwidth"><span class="heading">Categories</span>
-<ul class="level1">
-<li class="level1"><a href="/c/q/components/forks-and-shocks"><span class="subheading">Forks and Shocks</span></a>
-<ul class="level1">
-<li class="level2"><a href="/c/q/components/forks-and-shocks/rear-shocks"><span>Rear Shocks</span></a></li>
-<li class="level2"><a href="/c/q/components/forks-and-shocks/rigid-forks"><span>Rigid Forks</span></a></li>
-<li class="level2"><a href="/c/q/components/forks-and-shocks/suspension-forks"><span>Suspension Forks</span></a></li>
-</ul>
-</li>
-<li class="level1"><a href="/c/q/components/drivetrain"><span class="subheading">Drivetrain</span></a>
-<ul class="level1">
-<li class="level2"><a href="/c/q/components/drivetrain/chain-rings"><span>Chain Rings</span></a></li>
-<li class="level2"><a href="/c/q/components/drivetrain/singlespeed-kits"><span>SingleSpeed Kits</span></a></li>
-<li class="level2"><a href="/c/q/components/drivetrain/bottom-brackets"><span>Bottom Brackets</span></a></li>
-<li class="level2"><a href="/c/q/components/drivetrain/cassettes"><span>Cassettes</span></a></li>
-<li class="level2"><a href="/c/q/components/drivetrain/chains"><span>Chains</span></a></li>
-<li class="level2"><a href="/c/q/components/drivetrain/crank-sets"><span>Crank Sets</span></a></li>
-<li class="level2"><a href="/c/q/components/drivetrain/derailleurs"><span>Derailleurs</span></a></li>
-<li class="level2"><a href="/c/q/components/drivetrain/groupsets"><span>Groupsets</span></a></li>
-</ul>
-</li>
-<li class="level1"><a href="/c/q/components/finishing-kit"><span class="subheading">Finishing Kit</span></a>
-<ul class="level1">
-<li class="level2"><a href="/c/q/components/finishing-kit/seat-clamps"><span>Seat Clamps</span></a></li>
-<li class="level2"><a href="/c/q/components/finishing-kit/bar-tape-and-grips"><span>Bar Tape and Grips</span></a></li>
-<li class="level2"><a href="/c/q/components/finishing-kit/gear-cables"><span>Gear Cables</span></a></li>
-<li class="level2"><a href="/c/q/components/finishing-kit/saddles"><span>Saddles</span></a></li>
-<li class="level2"><a href="/c/q/components/finishing-kit/handle-bars"><span>Handle Bars</span></a></li>
-<li class="level2"><a href="/c/q/components/finishing-kit/head-sets"><span>Head Sets</span></a></li>
-<li class="level2"><a href="/c/q/components/finishing-kit/seat-posts"><span>Seat Posts</span></a></li>
-<li class="level2"><a href="/c/q/components/finishing-kit/pedals"><span>Pedals</span></a></li>
-<li class="level2"><a href="/c/q/components/finishing-kit/stems"><span>Stems</span></a></li>
-</ul>
-</li>
-<li class="level1"><a href="/c/q/components/brakes"><span class="subheading">Brakes</span></a>
-<ul class="level1">
-<li class="level2"><a href="/c/q/components/brakes/brake-calipers"><span>Brake Calipers</span></a></li>
-<li class="level2"><a href="/c/q/components/brakes/disc-brakes"><span>Disc Brakes</span></a></li>
-<li class="level2"><a href="/c/q/components/brakes/cantilever-brakes"><span>Cantilever Brakes</span></a></li>
-<li class="level2"><a href="/c/q/components/brakes/brake-spares"><span>Brake Spares</span></a></li>
-</ul>
-</li>
-<li class="level1"><a href="/c/q/components/controls"><span class="subheading">Controls</span></a>
-<ul class="level1">
-<li class="level2"><a href="/c/q/components/controls/brake-levers"><span>Brake Levers</span></a></li>
-<li class="level2"><a href="/c/q/components/controls/gear-shifters"><span>Gear Shifters</span></a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li class="level1 nav-fullwidthFooter hide"><a href="/c/q/components">See All Components</a></li>
-</ul>
-</li>
-<li class="level0"><a class="level-top" href="/c/q/accessories"><span>Accessories</span></a>
-<ul class="level0 accessories">
-<li class="level1 nav-fullwidth"><span class="heading">Categories</span>
-<ul class="level1">
-<li class="level1"><a href="/c/q/accessories/accessories"><span class="subheading">Accessories</span></a>
-<ul class="level1">
-<li class="level2"><a href="/c/q/accessories/bike-accessories/hydration-packs"><span>Hydration Packs</span></a></li>
-<li class="level2"><a href="/c/q/accessories/bike-accessories/bike-locks"><span>Bike Locks</span></a></li>
-<li class="level2"><a href="/c/q/accessories/bike-accessories/computers-and-training-aids"><span>Computers and Training Aids</span></a></li>
-<li class="level2"><a href="/c/q/accessories/bike-accessories/miscellaneous"><span>Miscellaneous</span></a></li>
-<li class="level2"><a href="/c/q/accessories/bike-accessories/racks"><span>Racks</span></a></li>
-<li class="level2"><a href="/c/q/accessories/bike-accessories/bottles-and-bottle-cages"><span>Bottles and Bottle Cages</span></a></li>
-<li class="level2"><a href="/c/q/accessories/bike-accessories/pumps"><span>Pumps</span></a></li>
-<li class="level2"><a href="/c/q/accessories/bike-accessories/trainers-and-rollers"><span>Trainers and Rollers</span></a></li>
-</ul>
-</li>
-<li class="level1"><a href="/c/q/accessories/bags-and-luggage"><span class="subheading">Bags and Luggage</span></a>
-<ul class="level1">
-<li class="level2"><a href="/c/q/accessories/bags-and-luggage/saddle-bags"><span>Saddle Bags</span></a></li>
-<li class="level2"><a href="/c/q/accessories/bags-and-luggage/bags-and-luggage"><span>Bags and Luggage</span></a></li>
-<li class="level2"><a href="/c/q/accessories/bags-and-luggage/panniers-and-touring"><span>Panniers and Touring</span></a></li>
-<li class="level2"><a href="/c/q/accessories/bags-and-luggage/musette"><span>Musette</span></a></li>
-<li class="level2"><a href="/c/q/accessories/bags-and-luggage/bike-bags-and-boxes"><span>Bike Bags and Boxes</span></a></li>
-<li class="level2"><a href="/c/q/accessories/bags-and-luggage/wheel-bags"><span>Wheel Bags</span></a></li>
-</ul>
-</li>
-<li class="level1"><a href="/c/q/accessories/health-and-nutrition"><span class="subheading">Health &amp; Nutrition</span></a>
-<ul class="level1">
-<li class="level2"><a href="/c/q/accessories/health-and-nutrition/hydration"><span>Hydration</span></a></li>
-<li class="level2"><a href="/c/q/accessories/health-and-nutrition/chamois-cream"><span>Chamois Cream</span></a></li>
-<li class="level2"><a href="/c/q/accessories/health-and-nutrition/first-aid"><span>First Aid</span></a></li>
-<li class="level2"><a href="/c/q/accessories/health-and-nutrition/recovery"><span>Recovery</span></a></li>
-<li class="level2"><a href="/c/q/accessories/health-and-nutrition/endurance"><span>Endurance</span></a></li>
-<li class="level2"><a href="/c/q/accessories/health-and-nutrition/body-health"><span>Body Health</span></a></li>
-</ul>
-</li>
-<li class="level1"><a href="/c/q/accessories/lights"><span class="subheading">Lights</span></a>
-<ul class="level1">
-<li class="level2"><a href="/c/q/accessories/lights/lighting-accessories"><span>Lighting Accessories</span></a></li>
-<li class="level2"><a href="/c/q/accessories/lights/off-road"><span>Off Road</span></a></li>
-<li class="level2"><a href="/c/q/accessories/lights/rear"><span>Rear</span></a></li>
-<li class="level2"><a href="/c/q/accessories/lights/front"><span>Front</span></a></li>
-<li class="level2"><a href="/c/q/accessories/lights/light-sets"><span>Light Sets</span></a></li>
-</ul>
-</li>
-<li class="level1"><a href="/c/q/accessories/workshop"><span class="subheading">Workshop</span></a>
-<ul class="level1">
-<li class="level2"><a href="/c/q/accessories/workshop/lubricants"><span>Lubricants</span></a></li>
-<li class="level2"><a href="/c/q/accessories/workshop/cleaning"><span>Cleaning</span></a></li>
-<li class="level2"><a href="/c/q/accessories/workshop/tools"><span>Tools</span></a></li>
-<li class="level2"><a href="/c/q/accessories/workshop/workshop-spare"><span>Workshop Spare</span></a></li>
-<li class="level2"><a href="/c/q/accessories/workshop/workstands"><span>Workstands</span></a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li class="level1 nav-fullwidthFooter hide"><a href="/c/q/accessories">See All Accessories</a></li>
-</ul>
-</li>
-<li class="level0"><a class="level-top" href="/c/q/clothing"><span>Clothing</span></a>
-<ul class="level0 clothing">
-<li class="level1 nav-fullwidth"><span class="heading">Categories</span>
-<ul class="level1">
-<li class="level1"><a href="/c/q/clothing/clothes"><span class="subheading">Clothing</span></a>
-<ul class="level1">
-<li class="level2"><a href="/c/q/clothing/clothes/vests"><span>Vests</span></a></li>
-<li class="level2"><a href="/c/q/clothing/clothes/gilets"><span>Gilets</span></a></li>
-<li class="level2"><a href="/c/q/clothing/clothes/merino"><span>Merino</span></a></li>
-<li class="level2"><a href="/c/q/clothing/clothes/knitwear"><span>Knitwear</span></a></li>
-<li class="level2"><a href="/c/q/clothing/clothes/polos"><span>Polos</span></a></li>
-<li class="level2"><a href="/c/q/clothing/clothes/baselayers"><span>Baselayers</span></a></li>
-<li class="level2"><a href="/c/q/clothing/clothes/headwear"><span>Headwear</span></a></li>
-<li class="level2"><a href="/c/q/clothing/clothes/arm-and-neck-warmers"><span>Arm and Neck Warmers</span></a></li>
-<li class="level2"><a href="/c/q/clothing/clothes/leggings-tights-and-shorts"><span>Leggings, Tights &amp; Shorts</span></a></li>
-<li class="level2"><a href="/c/q/clothing/clothes/jackets"><span>Jackets</span></a></li>
-<li class="level2"><a href="/c/q/clothing/clothes/jerseys"><span>Jerseys</span></a></li>
-<li class="level2"><a href="/c/q/clothing/clothes/gloves"><span>Gloves</span></a></li>
-<li class="level2"><a href="/c/q/clothing/clothes/t-shirts"><span>T-Shirts</span></a></li>
-<li class="level2"><a href="/c/q/clothing/clothes/tops"><span>Tops</span></a></li>
-</ul>
-</li>
-<li class="level1"><a href="/c/q/clothing/footwear"><span class="subheading">Footwear</span></a>
-<ul class="level1">
-<li class="level2"><a href="/c/q/clothing/footwear/socks"><span>Socks</span></a></li>
-<li class="level2"><a href="/c/q/clothing/footwear/overshoes"><span>Overshoes</span></a></li>
-<li class="level2"><a href="/c/q/clothing/footwear/road-shoes"><span>Road Shoes</span></a></li>
-<li class="level2"><a href="/c/q/clothing/footwear/mountain-bike-footwear"><span>Mountain Bike Footwear</span></a></li>
-</ul>
-</li>
-<li class="level1"><a href="/c/q/clothing/helmets"><span class="subheading">Helmets</span></a>
-<ul class="level1">
-<li class="level2"><a href="/c/q/clothing/helmets/helmets"><span>Helmets</span></a></li>
-</ul>
-</li>
-<li class="level1"><a href="/c/q/clothing/eyewear"><span class="subheading">Eyewear</span></a>
-<ul class="level1">
-<li class="level2"><a href="/c/q/clothing/eyewear/sunglasses"><span>Sunglasses</span></a></li>
-<li class="level2"><a href="/c/q/clothing/eyewear/cycling-glasses"><span>Cycling Glasses</span></a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li class="level1 nav-fullwidthFooter"><a href="/c/q/clothing">See All Clothing</a></li>
-</ul>
-</li>
-<li class="level0"><a class="level-top" href="/c/q/vintage"><span>Vintage</span></a>
-<ul class="level0 vintage">
-<li class="level1 nav-fullwidth"><span class="heading">Categories</span>
-<ul class="level1">
-<li class="level1"><a href="/c/q/vintage"><span class="subheading">Vintage and Classic Store</span></a>
-<ul class="level1">
-<li class="level2"><a href="/c/q/vintage/vintage-bikes"><span>Vintage Bikes</span></a></li>
-<li class="level2"><a href="/c/q/vintage/vintage-frames"><span>Vintage Frames</span></a></li>
-<li class="level2"><a href="/c/q/vintage/vintage-clearance"><span>Vintage Clearance</span></a></li>
-<li class="level2"><a href="/c/q/vintage/vintage-wheels"><span>Vintage Wheels</span></a></li>
-<li class="level2"><a href="/c/q/vintage/vintage-finishing-kit"><span>Vintage Finishing Kit</span></a></li>
-</ul>
-</li>
-<li class="level1"><a href="/brand/q"><span class="subheading">Vintage and Classic Brands</span></a>
-<ul class="level1">
-<li class="level2"><a href="/brand/q/Guerciotti"><span>Guerciotti</span></a></li>
-<li class="level2"><a href="/brand/q/3TTT"><span>3TTT</span></a></li>
-<li class="level2"><a href="/brand/q/Ciocc"><span>Ciocc</span></a></li>
-<li class="level2"><a href="/brand/q/Cinelli"><span>Cinelli</span></a></li>
-<li class="level2"><a href="/brand/q/Clarks"><span>Clarks</span></a></li>
-<li class="level2"><a href="/brand/q/Lemond"><span>Lemond</span></a></li>
-<li class="level2"><a href="/brand/q/FSA"><span>FSA</span></a></li>
-<li class="level2"><span><a href="/brand/q/Mavic">Mavic</a></span></li>
-</ul>
-</li>
-</ul>
-</li>
-<li class="level1 nav-fullwidthFooter"><a href="/c/q/vintage">See All Vintage</a></li>
-</ul>
-</li>
-<li class="level0 deals"><a class="level-top deals" href="/c/q/deals">Deals</a>
-<ul class="level0 deals">
-<li class="level1 nav-fullwidth"><span class="heading">Categories</span>
-<ul class="level1">
-<li class="level1"><a href="/c/q/deals/clearance-bikes"><span>Clearance Bikes</span></a></li>
-<li class="level1"><a href="/c/q/deals/clearance-frames"><span>Clearance Frames</span></a></li>
-<li class="level1"><a href="/c/q/deals/clearance-wheels"><span>Clearance Wheels</span></a></li>
-<li class="level1"><a href="/c/q/deals/clearance-clothing"><span>Clearance Clothing</span></a></li>
-<li class="level1"><a href="/c/q/deals/clearance-accessories"><span>Clearance Accessories</span></a></li>
-<li class="level1"><a href="/c/q/deals/clearance-components"><span>Clearance Components</span></a></li>
-<li class="level1"><a href="/c/q/deals/bundles"><span>Bundles</span></a></li>
-</ul>
-</li>
-<li class="level1 nav-fullwidthFooter hide"><a href="/c/q/deals">See All Clearance, Deals and Bundles</a></li>
-</ul>
-</li>
-<li class="level0"><a class="level-top" href="/brand/q"><span>Brands</span></a>
-<ul class="level0 brands">
-<li class="level1 nav-fullwidth"><span class="heading">Our Top Brands</span>
-<ul class="level1">
-<li class="level1"><a href="/brand/q/Planet+X"><span>Planet X</span></a></li>
-<li class="level1"><a href="/brand/q/On-One"><span>On One</span></a></li>
-<li class="level1"><a href="/brand/q/Titus"><span>Titus</span></a></li>
-<li class="level1"><a href="/brand/q/Holdsworth"><span>Holdsworth</span></a></li>
-<li class="level1"><a href="/brand/q/Guerciotti"><span>Guerciotti</span></a></li>
-<li class="level1"><a href="/brand/q/Sab"><span>Sab</span></a></li>
-<li class="level1"><a href="/brand/q/Shimano"><span>Shimano</span></a></li>
-<li class="level1"><a href="/brand/q/SRAM"><span>SRAM</span></a></li>
-<li class="level1"><a href="/brand/q/Vittoria"><span>Vittoria</span></a></li>
-<li class="level1"><a href="/brand/q/Fizik"><span>Fizik</span></a></li>
-</ul>
-</li>
-<li class="level1 nav-fullwidthFooter"><a href="/brand/q">See All Brands</a></li>
-</ul>
-</li>
-<li class="level0"><a class="level-top social-nav" href="/">Social</a>
-<ul class="level0 social">
-<li class="level1 nav-fullwidth"><span class="heading">Lets all Share!</span>
-<ul class="level1">
-<li class="level1"><a href="/news"><span>News</span></a></li>
-<li class="level1"><a href="/sponsored-riders"><span>Sponsored Riders</span></a></li>
-<li class="level1"><a href="/readers-rides"><span>Readers Rides</span></a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul><!-- Added for testing purposes S Rolt -->
-<!--ul id="nav">
-	<li class="level0">
-		<a class="level-top" href="/c/q/bikes"><span>Bikes</span></a>
-		<ul class="level0 bikes">
-			<li class="level1 nav-threequarter"><span class="heading">Categories</span>
-				<ul class="level1">
-					<li class="level1"><a href="/c/q/bikes/road-bikes"><span>Road Bikes</span></a></li>
-					<li class="level1"><a href="/c/q/bikes/track-bikes"><span>Track Bikes</span></a></li>
-					<li class="level1"><a href="/c/q/bikes/tt-and-triathlon-bikes"><span>TT/Triathlon Bikes</span></a></li>
-					<li class="level1"><a href="/c/q/bikes/mountain-bikes"><span>Cyclocross Bikes</span></a></li>
-					<li class="level1"><a href="/c/q/bikes/mountain-bikes"><span>Mountain Bikes</span></a></li>
-					<li class="level1"><a href="/c/q/bikes/urban-bikes"><span>Urban Bikes</span></a></li>
-				</ul>
-			</li>
-			<li class="level1 nav-quarter"><a href="/brand/q"><span class="heading">Brands</span></a>
-				<ul class="level1">
-					<li class="level2"><a href="/brand/q/On-One"><span>On-One</span></a></li>
-					<li class="level2"><a href="/brand/q/Planet+X"><span>Planet X</span></a></li>
-					<li class="level2"><a href="/brand/q/Guerciotti"><span>Guerciotti</span></a></li>
-					<li class="level2"><a href="/brand/q/Titus"><span>Titus</span></a></li>
-					<li class="level2"><a href="/brand/q/Holdsworth"><span>Holdsworth</span></a></li>
-				</ul>
-			</li>
-			<li class="level1 nav-fullwidthFooter"><a href="/c/q/bikes">See All Bikes</a></li>
-		</ul>
-	</li>
-	<li class="level0">
-		<a class="level-top" href="/c/q/frames"><span>Frames</span></a>
-		<ul class="level0 frames">
-			<li class="level1 nav-threequarter"><span class="heading">Categories</span>
-				<ul class="level1">
-					<li class="level1"><a href="/c/q/frames/road-bike-frames"><span>Road Bike Frames</span></a></li>
-					<li class="level1"><a href="/c/q/frames/track-bike-frames"><span>Track Bike Frames</span></a></li>
-					<li class="level1"><a href="/c/q/frames/tt-and-triathlon-bike-frames"><span>TT/Triathlon Bike Frames</span></a></li>
-					<li class="level1"><a href="/c/q/frames/cyclocross-frames"><span>Cyclocross Frames</span></a></li>
-					<li class="level1"><a href="/c/q/frames/mountain-bike-frames"><span>Mountain Bike Frames</span></a></li>
-					<li class="level1"><a href="/c/q/frames/urban-bike-frames"><span>Urban Bike Frames</span></a></li>
-					<li class="level1"><a href="/c/q/frames/frame-spares"><span>Frame Spares</span></a></li>
-				</ul>
-			</li>
-			<li class="level1 nav-quarter"><a href="/brands/q"><span class="heading">Brands</span></a>
-				<ul class="level1">
-				<li class="level2"><a href="/brand/q/On-One"><span>On-One</span></a></li>
-				<li class="level2"><a href="/brand/q/Planet+X"><span>Planet X</span></a></li>
-				<li class="level2"><a href="/brand/q/Guerciotti"><span>Guerciotti</span></a></li>
-				<li class="level2"><a href="/brand/q/Titus"><span>Titus</span></a></li>
-				<li class="level2"><a href="/brand/q/Sab"><span>Sab</span></a></li>
-				</ul>
-			</li>
-			<li class="level1 nav-fullwidthFooter"><a href="/c/q/frames">See All Frames</a></li>
-		</ul>
-	</li>
-	<li class="level0">
-		<a class="level-top" href="/c/q/wheels"><span>Wheels</span></a>
-		<ul class="level0 wheels">
-			<li class="level1 nav-threequarter"><span class="heading">Categories</span>
-				<ul class="level1">
-					<li class="level1"><a href="/c/q/wheels/road-bike-wheels"><span>Road Bike Wheels</span></a></li>
-					<li class="level1"><a href="/c/q/wheels/track-bike-wheels"><span>Track Bike Wheels</span></a></li>
-					<li class="level1"><a href="/c/q/wheels/tt-and-triathlon-wheels"><span>TT/Triathlon Wheels</span></a></li>
-					<li class="level1"><a href="/c/q/wheels/cyclocross-wheels"><span>CycloCross Wheels</span></a></li>
-					<li class="level1"><a href="/c/q/wheels/mountain-bike-wheels"><span>Mountain Bike Wheels</span></a></li>
-					<li class="level1"><a href="/c/q/wheels/urban-bike-wheel"><span>Urban Bike Wheel</span></a></li>
-					<li class="level1"><a href="/c/q/wheels/tyres-and-tubes"><span>Tyres and Tubes</span></a></li>
-					<li class="level1"><a href="/c/q/wheels/wheel-spares"><span>Wheel Spares</span></a></li>
-				</ul>
-			</li>
-			<li class="level1 nav-quarter"><a href="/brands/q"><span class="heading">Brands</span></a>
-				<ul class="level1">
-					<li class="level2"><a href="/brand/q/Planet+X"><span>Planet X</span></a></li>
-					<li class="level2"><a href="/brand/q/On-One"><span>On-One</span></a></li>
-				</ul>
-			</li>
-			<li class="level1 nav-fullwidthFooter"><a href="/c/q/wheels">See All Wheels</a></li>
-		</ul>
-	</li>
-	<li class="level0">
-		<a class="level-top" href="/c/q/components"><span>Components</span></a>
-		<ul class="level0 components">
-			<li class="level1 nav-fullwidth"><span class="heading">Categories</span>
-				<ul class="level1">
-					<li class="level1"><a href="/c/q/components/forks-and-shocks"><span class="subheading">Forks and Shocks</span></a>
-						<ul class="level1">
-							<li class="level2"><a href="/c/q/components/forks-and-shocks/rear-shocks"><span>Rear Shocks</span></a></li>
-							<li class="level2"><a href="/c/q/components/forks-and-shocks/ridged-forks"><span>Ridged Forks</span></a></li>
-							<li class="level2"><a href="/c/q/components/forks-and-shocks/suspension-forks"><span>Suspension Forks</span></a></li>
-						</ul>
-					</li>
-					<li class="level1"><a href="/c/q/components/drivetrain"><span class="subheading">Drivetrain</span></a>
-						<ul class="level1">
-							<li class="level2"><a href="/c/q/components/drivetrain/chain-rings"><span>Chain Rings</span></a></li>
-							<li class="level2"><a href="/c/q/components/drivetrain/singlespeed-kits"><span>SingleSpeed Kits</span></a></li>
-							<li class="level2"><a href="/c/q/components/drivetrain/bottom-brackets"><span>Bottom Brackets</span></a></li>
-							<li class="level2"><a href="/c/q/components/drivetrain/cassettes"><span>Cassettes</span></a></li>
-							<li class="level2"><a href="/c/q/components/drivetrain/chains"><span>Chains</span></a></li>
-							<li class="level2"><a href="/c/q/components/drivetrain/crank-sets"><span>Crank Sets</span></a></li>
-							<li class="level2"><a href="/c/q/components/drivetrain/derailleurs"><span>Derailleurs</span></a></li>
-							<li class="level2"><a href="/c/q/components/drivetrain/groupsets"><span>Groupsets</span></a></li>
-						</ul>
-					</li>
-					<li class="level1"><a href="/c/q/components/finishing-kit"><span class="subheading">Finishing Kit</span></a>
-						<ul class="level1">
-							<li class="level2"><a href="/c/q/components/finishing-kit/seat-clamps"><span>Seat Clamps</span></a></li>
-							<li class="level2"><a href="/c/q/components/finishing-kit/bar-tape-and-grips"><span>Bar Tape and Grips</span></a></li>
-							<li class="level2"><a href="/c/q/components/finishing-kit/gear-cables"><span>Gear cables</span></a></li>
-							<li class="level2"><a href="/c/q/components/finishing-kit/saddles"><span>Saddles</span></a></li>
-							<li class="level2"><a href="/c/q/components/finishing-kit/handle-bars"><span>Handle Bars</span></a></li>
-							<li class="level2"><a href="/c/q/components/finishing-kit/head-sets"><span>Head Sets</span></a></li>
-							<li class="level2"><a href="/c/q/components/finishing-kit/seat-posts"><span>Seat Posts</span></a></li>
-							<li class="level2"><a href="/c/q/components/finishing-kit/pedals"><span>Pedals</span></a></li>
-							<li class="level2"><a href="/c/q/components/finishing-kit/stems"><span>Stems</span></a></li>
-						</ul>
-					</li>
-					<li class="level1"><a href="/c/q/components/brakes"><span class="subheading">Brakes</span></a>
-						<ul class="level1">
-							<li class="level2"><a href="/c/q/components/brakes/caliper-brakes"><span>Caliper Brakes</span></a></li>
-							<li class="level2"><a href="/c/q/components/brakes/disc-brakes"><span>Disc Brakes</span></a></li>
-							<li class="level2"><a href="/c/q/components/brakes/cantilever-brakes"><span>Cantilever Brakes</span></a></li>
-							<li class="level2"><a href="/c/q/components/brakes/brake-spares"><span>Brake spares</span></a></li>
-						</ul>
-					</li>
-					<li class="level1"><a href="/c/q/components/controls"><span class="subheading">Controls</span></a>
-						<ul class="level1">
-							<li class="level2"><a href="/c/q/components/controls/brake-levers"><span>Brake Levers</span></a></li>
-							<li class="level2"><a href="/c/q/components/controls/gear-shifters"><span>Gear Shifters</span></a></li>
-						</ul>
-					</li>
-				</ul>
-			</li>
-			<li class="level1 nav-fullwidthFooter"><a href="/c/q/components">See All Components</a></li>
-		</ul>
-	</li>
-	<li class="level0">
-		<a class="level-top" href="/c/q/accessories"><span>Accessories</span></a>
-		<ul class="level0 accessories">
-			<li class="level1 nav-fullwidth"><span class="heading">Categories</span>
-				<ul class="level1">
-					<li class="level1"><a href="/c/q/accessories/accessories"><span class="subheading">Accessories</span></a>
-						<ul class="level1">
-						<li class="level2"><a href="/c/q/accessories/bike-accessories/hydration-packs"><span>Hydration Packs</span></a></li>
-						<li class="level2"><a href="/c/q/accessories/bike-accessories/bike-locks"><span>Bike Locks</span></a></li>
-						<li class="level2"><a href="/c/q/accessories/bike-accessories/computers-and-training-aids"><span>Computers and Training Aids</span></a></li>
-						<li class="level2"><a href="/c/q/accessories/bike-accessories/miscellaneous"><span>Miscellaneous</span></a></li>
-						<li class="level2"><a href="/c/q/accessories/bike-accessories/racks"><span>Racks</span></a></li>
-						<li class="level2"><a href="/c/q/accessories/bike-accessories/bottles-and-bottle-cages"><span>Bottles and Bottle Cages</span></a></li>
-						<li class="level2"><a href="/c/q/accessories/bike-accessories/pumps"><span>Pumps</span></a></li>
-						<li class="level2"><a href="/c/q/accessories/bike-accessories/trainers-and-rollers"><span>Trainers and Rollers</span></a></li>
-						</ul>
-					</li>
-					<li class="level1"><a href="/c/q/accessories/bags-and-luggage"><span class="subheading">Bags and Luggage</span></a>
-						<ul class="level1">
-						<li class="level2"><a href="/c/q/accessories/bags-and-luggage/saddle-bags"><span>Saddle Bags</span></a></li>
-						<li class="level2"><a href="/c/q/accessories/bags-and-luggage/bags-and-luggage"><span>Bags and Luggage</span></a></li>
-						<li class="level2"><a href="/c/q/accessories/bags-and-luggage/panniers-and-touring"><span>Panniers and Touring</span></a></li>
-						<li class="level2"><a href="/c/q/accessories/bags-and-luggage/musette"><span>Musette</span></a></li>
-						<li class="level2"><a href="/c/q/accessories/bags-and-luggage/bike-bags-and-boxes"><span>Bike Bags and Boxes</span></a></li>
-						<li class="level2"><a href="/c/q/accessories/bags-and-luggage/wheel-bags"><span>Wheel Bags</span></a></li>
-						</ul>
-					</li>
-					<li class="level1"><a href="/c/q/accessories/health-and-nutrition"><span class="subheading">Health &amp; Nutrition</span></a>
-						<ul class="level1">
-						<li class="level2"><a href="/c/q/accessories/health-and-nutrition/hydration"><span>Hydration</span></a></li>
-						<li class="level2"><a href="/c/q/accessories/health-and-nutrition/chamois-creme"><span>Chamois Creme</span></a></li>
-						<li class="level2"><a href="/c/q/accessories/health-and-nutrition/first-aid"><span>First Aid</span></a></li>
-						<li class="level2"><a href="/c/q/accessories/health-and-nutrition/recovery"><span>Recovery</span></a></li>
-						<li class="level2"><a href="/c/q/accessories/health-and-nutrition/endurance"><span>Endurance</span></a></li>
-						<li class="level2"><a href="/c/q/accessories/health-and-nutrition/body-health"><span>Body Health</span></a></li>
-						</ul>
-					</li>
-					<li class="level1"><a href="/c/q/accessories/lights"><span class="subheading">Lights</span></a>
-						<ul class="level1">
-						<li class="level2"><a href="/c/q/accessories/lights/lighting-accessories"><span>Lighting Accessories</span></a></li>
-						<li class="level2"><a href="/c/q/accessories/lights/off-road"><span>Off Road</span></a></li>
-						<li class="level2"><a href="/c/q/accessories/lights/rear"><span>Rear</span></a></li>
-						<li class="level2"><a href="/c/q/accessories/lights/front"><span>Front</span></a></li>
-						<li class="level2"><a href="/c/q/accessories/lights/light-sets"><span>Light Sets</span></a></li>
-						</ul>
-					</li>
-					<li class="level1"><a href="/c/q/accessories/workshop"><span class="subheading">Workshop</span></a>
-						<ul class="level1">
-						<li class="level2"><a href="/c/q/accessories/workshop/lubricants"><span>Lubricants</span></a></li>
-						<li class="level2"><a href="/c/q/accessories/workshop/cleaning"><span>Cleaning</span></a></li>
-						<li class="level2"><a href="/c/q/accessories/workshop/tools"><span>Tools</span></a></li>
-						<li class="level2"><a href="/c/q/accessories/workshop/workshop-spare"><span>Workshop Spare</span></a></li>
-						<li class="level2"><a href="/c/q/accessories/workshop/workstands"><span>Workstands</span></a></li>
-						</ul>
-					</li>
-				</ul>
-			</li>
-			<li class="level1 nav-fullwidthFooter"><a href="/c/q/accessories">See All Accessories</a></li>
-		</ul>
-	</li>
-	<li class="level0">
-		<a class="level-top" href="/c/q/clothing"><span>Clothing</span></a>
-		<ul class="level0 clothing">
-			<li class="level1 nav-fullwidth"><span class="heading">Categories</span>
-				<ul class="level1">
-					<li class="level1"><a href="/c/q/clothing/clothes"><span class="subheading">Clothing</span></a>
-						<ul class="level1">
-							<li class="level2"><a href="/c/q/clothing/clothes/vests"><span>Vests</span></a></li>
-							<li class="level2"><a href="/c/q/clothing/clothes/gilets"><span>Gilets</span></a></li>
-							<li class="level2"><a href="/c/q/clothing/clothes/merino"><span>Merino</span></a></li>
-							<li class="level2"><a href="/c/q/clothing/clothes/knitwear"><span>Knitwear</span></a></li>
-							<li class="level2"><a href="/c/q/clothing/clothes/polos"><span>Polos</span></a></li>
-							<li class="level2"><a href="/c/q/clothing/clothes/baselayers"><span>Baselayers</span></a></li>
-							<li class="level2"><a href="/c/q/clothing/clothes/headwear"><span>Headwear</span></a></li>
-							<li class="level2"><a href="/c/q/clothing/clothes/arm-and-neck-warmers"><span>Arm and Neck Warmers</span></a></li>
-							<li class="level2"><a href="/c/q/clothing/clothes/leggings-tights-and-shorts"><span>Leggings, Tights &amp; Shorts</span></a></li>
-							<li class="level2"><a href="/c/q/clothing/clothes/jackets"><span>Jackets</span></a></li>
-							<li class="level2"><a href="/c/q/clothing/clothes/jerseys"><span>Jerseys</span></a></li>
-							<li class="level2"><a href="/c/q/clothing/clothes/gloves"><span>Gloves</span></a></li>
-							<li class="level2"><a href="/c/q/clothing/clothes/t-shirts"><span>T-Shirts</span></a></li>
-							<li class="level2"><a href="/c/q/clothing/clothes/tops"><span>Tops</span></a></li>
-						</ul>
-					</li>
-					<li class="level1"><a href="/c/q/clothing/footwear"><span class="subheading">Footwear</span></a>
-						<ul class="level1">
-							<li class="level2"><a href="/c/q/clothing/footwear/socks"><span>Socks</span></a></li>
-							<li class="level2"><a href="/c/q/clothing/footwear/overshoes"><span>Overshoes</span></a></li>
-							<li class="level2"><a href="/c/q/clothing/footwear/road-shoes"><span>Road Shoes</span></a></li>
-							<li class="level2"><a href="/c/q/clothing/footwear/mountain-bike-footwear"><span>Mountain Bike Footwear</span></a></li>
-						</ul>
-					</li>
-					<li class="level1"><a href="/c/q/clothing/helmets"><span class="subheading">Helmets</span></a>
-						<ul class="level1">
-							<li class="level2"><a href="/c/q/clothing/helmets/helmets"><span>Helmets</span></a></li>
-						</ul>
-					</li>
-					<li class="level1"><a href="/c/q/clothing/eyewear"><span class="subheading">Eyewear</span></a>
-						<ul class="level1">
-							<li class="level2"><a href="/c/q/clothing/eyewear/sunglasses"><span>Sunglasses</span></a></li>
-							<li class="level2"><a href="/c/q/clothing/eyewear/cycling-glasses"><span>Cycling Glasses</span></a></li>
-						</ul>
-					</li>
-				</ul>
-			</li>
-			<li class="level1 nav-fullwidthFooter"><a href="/c/q/clothing">See All Clothing</a></li>
-		</ul>
-	</li>
-	<li class="level0"><a class="level-top" href="/c/q/vintage"><span>Vintage</span></a>
-		<ul class="level0 vintage">
-			<li class="level1 nav-fullwidth"><span class="heading">Categories</span>
-				<ul class="level1">
-					<li class="level1"><a href="/c/q/vintage"><span class="subheading">Vintage and Classic Store</span></a>
-						<ul class="level1">
-							<li class="level2"><a href="/c/q/vintage/vintage-bikes"><span>Vintage Bikes</span></a></li>
-							<li class="level2"><a href="/c/q/vintage/vintage-frames"><span>Vintage Frames</span></a></li>
-							<li class="level2"><a href="/c/q/vintage/vintage-clearance"><span>Vintage Clearance</span></a></li>
-							<li class="level2"><a href="/c/q/vintage/vintage-wheels"><span>Vintage Wheels</span></a></li>
-							<li class="level2"><a href="/c/q/vintage/vintage-finishing-kit"><span>Vintage Finishing Kit</span></a></li>
-						</ul>
-					</li>
-					<li class="level1"><a href="/brand/q"><span class="subheading">Vintage and Classic Brands</span></a>
-						<ul class="level1">
-							<li class="level2"><a href="/brand/q/Guerciotti"><span>Guerciotti</span></a></li>
-							<li class="level2"><a href="/brand/q/3TTT"><span>3TTT</span></a></li>
-							<li class="level2"><a href="/brand/q/Ciocc"><span>Ciocc</span></a></li>
-							<li class="level2"><a href="/brand/q/Cinelli"><span>Cinelli</span></a></li>
-							<li class="level2"><a href="/brand/q/Clarks"><span>Clarks</span></a></li>
-							<li class="level2"><a href="/brand/q/Lemond"><span>Lemond</span></a></li>
-							<li class="level2"><a href="/brand/q/FSA"><span>FSA</span></a></li>
-							<li class="level2"><span><a href="/brand/q/Mavic">Mavic</a></span></li>
-						</ul>
-					</li>
-				</ul>
-			</li>
-			<li class="level1 nav-fullwidthFooter"><a href="/c/q/clothing">See All Clothing</a></li>
-		</ul>
-	</li>
-	<li class="level0"><a href="/c/q/deals">Deals</a>
-		<ul class="level0 deals">
-			<li class="level1 nav-fullwidth"><span class="heading">Categories</span>
-				<ul class="level1">
-					<li class="level1"><a href="/c/q/deals/clearance-stock"><span>Clearance Stock</span></a></li>
-					<li class="level1"><a href="/c/q/deals/bundles"><span>Bundles</span></a></li>
-					<li class="level1"><a href="/c/q/deals/clearance-bikes"><span>Clearance Bikes</span></a></li>
-					<li class="level1"><a href="/c/q/deals/deal-of-the-day"><span>Deal of the day</span></a></li>
-					
-				</ul>
-			</li>
-			<li class="level1 nav-fullwidthFooter"><a href="/c/q/deals">See All Clearance, Deals and Bundles</a></li>
-		</ul>
-	</li>
-	<li class="level0"><a href="/brand/q"><span>Brands</span></a>
-		<ul class="level0 brands">
-			<li class="level1 nav-fullwidth"><span class="heading">Our Top Brands</span>
-				<ul class="level1">
-					<li class="level1"><a href="/brand/q/Planet+X"><span>Planet X</span></a></li>
-					<li class="level1"><a href="/brand/q/On-One"><span>On One</span></a></li>
-					<li class="level1"><a href="/brand/q/Titus"><span>Titus</span></a></li>
-					<li class="level1"><a href="/brand/q/Holdsworth"><span>Holdsworth</span></a></li>
-					<li class="level1"><a href="/brand/q/Guerciotti"><span>Guerciotti</span></a></li>
-					<li class="level1"><a href="/brand/q/Sab"><span>Sab</span></a></li>
-					<li class="level1"><a href="/brand/q/Shimano"><span>Shimano</span></a></li>
-					<li class="level1"><a href="/brand/q/SRAM"><span>SRAM</span></a></li>
-					<li class="level1"><a href="/brand/q/Vittoria"><span>Vittoria</span></a></li>
-					<li class="level1"><a href="/brand/q/Fizik"><span>Fizik</span></a></li>
-				</ul>
-			</li>
-			<li class="level1 nav-fullwidthFooter"><a href="/brand/q">See All Brands</a></li>
-		</ul>
-	</li>
-	<li class="level0"><a class="social-nav" href="/">Social</a>
-		<ul class="level0 social">
-			<li class="level1 nav-fullwidth"><span class="heading">Lets all Share!</span>
-				<ul class="level1">
-					<li class="level1"><a href="/news"><span>Blog</span></a></li>
-					<li class="level1"><a href="/sponsored-riders"><span>Sponsored Riders</span></a></li>
-					<li class="level1"><a href="/readers-rides"><span>Readers Rides</span></a></li>
-				</ul>
-			</li>
-		</ul>
-	</li>
-	
-</ul-->
-	</div><!-- end of .wrap -->
-	
-	
-	
-
-	
-</nav><!-- end of nav -->
+	<div class="usp"><ul><li><a href="/no-nonsense-prices">No-Nonsense Prices</a></li><li><a href="/bike-finance">Finance Options Available</a></li><li><a href="/help/shipping-prices">Free Worldwide Shipping</a></li><li><a href="/help/returns-and-refunds">Quick &amp; Easy Returns</a></li><li><a href="/cycle-scheme">Cycle 2 Work Schemes</a></li></ul></div>
+<script type="text/javascript">
+	window.addEvent('domready', function() {				
+		$('navwrap').addEvent('click', function(event){
+		    event.stop();
+		    $('main-nav').toggleClass('showmenu');
+		    $('site-wrapper').toggleClass('showmenu');
+		});
 
 
-	<div class="usp">
-<ul>
-<li><a href="/no-nonsense-prices">No-Nonsense Prices</a></li>
-<li><a href="/bike-finance">Buy Now Pay Later</a></li>
-<li><a href="/help/shipping-prices">Free Worldwide Shipping</a></li>
-<li><a href="/help/returns-and-refunds">Quick &amp; Easy Returns</a></li>
-<li><a href="/cycle-scheme">Cycle 2 Work Schemes</a></li>
-</ul>
-</div>
-
+		
+	});
+</script>
 
 
 <!-- End of header and start of main content -->
@@ -1128,64 +535,10 @@ var ph = JSON.decode(pc);
 						
 			
 			
-<div class="related-items">
-	<h3>Offers</h3>
-	
-	<div class="related-product product">
-		<a href="/i/q/TOJW33PC/jobsworth-super-pro-all-u-need-workshop-toolkit" title="Jobsworth Super Pro All-U-Need Workshop Toolkit"><img src="http://d2plslj6xljffa.cloudfront.net/imgs/products/px/170_constW/TOJW33PC_P1.jpg" alt="Jobsworth Super Pro All-U-Need Workshop Toolkit" width="155"></a>
-				<div class="prod-list-desc">
-			<span class="prod-name"><a href="/i/q/TOJW33PC/jobsworth-super-pro-all-u-need-workshop-toolkit" title="Jobsworth Super Pro All-U-Need Workshop Toolkit">Jobsworth Super Pro All-U-Need Workshop Toolkit</a></span>
-					<span class="prod-price"><a href="/i/q/TOJW33PC/jobsworth-super-pro-all-u-need-workshop-toolkit" title="Jobsworth Super Pro All-U-Need Workshop Toolkit">£99.99</a></span>							
-			
-						<form method="post" action="#basket" class="buyForm">
-			<input type="hidden" value="1" name="products[TOJW33PC]" class="ks-product-qty">
-			<button type="submit" class="btn ks-addtobag">buy</button>
-			</form>			
-						
-		</div>
-	</div><!-- end of .related-product  -->			 	
-
-	
-	<div class="related-product product">
-		<a href="/i/q/ZXMERINO3F2/merino-base-layer-bundle" title="Merino Base Layer Bundle"><img src="http://d2plslj6xljffa.cloudfront.net/imgs/products/px/170_constW/ZXMERINO3F2_P1.jpg" alt="Merino Base Layer Bundle" width="155"></a>
-				<span class="product-overlay sale">-29%</span>
-				<div class="prod-list-desc">
-			<span class="prod-name"><a href="/i/q/ZXMERINO3F2/merino-base-layer-bundle" title="Merino Base Layer Bundle">Merino Base Layer Bundle</a></span>
-					<span class="prod-reduced"><a title="Merino Base Layer Bundle" href="/i/q/ZXMERINO3F2/merino-base-layer-bundle">£84.97</a></span>
-			<span class="prod-saving"><a title="Merino Base Layer Bundle" href="/i/q/ZXMERINO3F2/merino-base-layer-bundle">Save £24.98</a></span>
-					<span class="prod-price"><a href="/i/q/ZXMERINO3F2/merino-base-layer-bundle" title="Merino Base Layer Bundle">£59.99</a></span>							
-			
-						<form method="post" action="#basket" class="buyForm">
-			<input type="hidden" value="1" name="products[ZXMERINO3F2]" class="ks-product-qty">
-			<button type="submit" class="btn ks-addtobag">buy</button>
-			</form>			
-						
-		</div>
-	</div><!-- end of .related-product  -->			 	
-
-	
-	<div class="related-product product">
-		<a href="/i/q/CLOOMPFZCJ/on-one-merino-perform-full-zip-cycling-jacket" title="On-One Merino Perform Full Zip Cycling Jacket"><img src="http://d2plslj6xljffa.cloudfront.net/imgs/products/px/170_constW/CLOOMPFZCJ_P1.jpg" alt="On-One Merino Perform Full Zip Cycling Jacket" width="155"></a>
-				<span class="product-overlay sale">-50%</span>
-				<div class="prod-list-desc">
-			<span class="prod-name"><a href="/i/q/CLOOMPFZCJ/on-one-merino-perform-full-zip-cycling-jacket" title="On-One Merino Perform Full Zip Cycling Jacket">On-One Merino Perform Full Zip Cycling Jacket</a></span>
-					<span class="prod-reduced"><a title="On-One Merino Perform Full Zip Cycling Jacket" href="/i/q/CLOOMPFZCJ/on-one-merino-perform-full-zip-cycling-jacket">£119.99</a></span>
-			<span class="prod-saving"><a title="On-One Merino Perform Full Zip Cycling Jacket" href="/i/q/CLOOMPFZCJ/on-one-merino-perform-full-zip-cycling-jacket">Save £60.00</a></span>
-					<span class="prod-price"><a href="/i/q/CLOOMPFZCJ/on-one-merino-perform-full-zip-cycling-jacket" title="On-One Merino Perform Full Zip Cycling Jacket">£59.99</a></span>							
-			
-						
-		</div>
-	</div><!-- end of .related-product  -->			 	
-
-			 					
-
-</div><!-- end of .related-items  -->
-
-
-
-
-
-
+<div class="sidebarFeefo">
+		<span class="feefoReadall"><a href="#">Read all reveiws</a></span>
+		<span class="feeforating">92%</span>
+	  </div>
 		</div><!-- end of .narrow-side-inner -->				
 	</div><!-- end of .col3 #narrow-sidebar -->
 
@@ -1224,61 +577,7 @@ var ph = JSON.decode(pc);
 
 	<div class="wrap" id="main-footer">
 
-		<div id="main-footer" class="wrap">
-<div class="footer-col">
-<h4>Info</h4>
-<ul>
-<li><a href="/about-planet-x">About Us</a></li>
-<li><a href="/contactus">Contact Us</a></li>
-<li><a href="/about-planet-x/careers">Careers</a></li>
-<li><a href="/terms-and-conditions">Terms &amp; Conditions</a></li>
-<li><a href="/privacy-policy">Privacy Policy</a></li>
-<li><a href="/sitemap">Site Map</a></li>
-</ul>
-</div>
-<div class="footer-col">
-<h4>Shopping</h4>
-<ul>
-<li><a href="/stores">Our Stores</a></li>
-<li><a href="/help/how-to-order">Ordering Online</a></li>
-<li><a href="/no-nonsense-prices">No-Nonsense Prices</a></li>
-<li><a href="/help/delivery-information">Delivery &amp; Order Tracking</a></li>
-<li><a href="/help/warranty">Warranty</a></li>
-<li><a href="/help/returns-and-refunds">Returns</a></li>
-</ul>
-</div>
-<div class="footer-col">
-<h4>Services</h4>
-<ul>
-<li><a href="/help">Help</a></li>
-<li><a href="/bike-servicing">Service Centres</a></li>
-<li><a href="/pro-bike-fit">Pro Bike Fitting</a></li>
-<li><a href="/cycle-scheme">Cycle 2 Work</a></li>
-<li><a href="/bike-finance">Buy Now Pay Later</a></li>
-</ul>
-</div>
-<div class="footer-col">
-<h4>Social</h4>
-<ul>
-<li><a href="/news">News</a></li>
-<li><a style="background-color: transparent;" href="/readers-rides">Readers Rides</a></li>
-<li><a href="/sponsored-riders">Sponsored Riders</a></li>
-<li><a href="/magazine">Magazine</a></li>
-<li><a href="/contactus">Email</a></li>
-</ul>
-</div>
-<div class="footer-col social-footer">
-<h3>Follow Us</h3>
-<ul>
-<li class="social-facebook"><a title="Follow us on Facebook" href="https://www.facebook.com/planetxbikes">Follow us on Facebook</a></li>
-<li class="social-twitter"><a title="Follow us on Twitter" href="https://twitter.com/planetxbikes">Follow us on Twitter</a></li>
-<li class="social-youtube"><a title="Follow us on YouTube" href="http://www.youtube.com/user/PlanetXBikesTV">Follow us on YouTube</a></li>
-<li class="social-instagram"><a title="Follow us on Instagram" href="http://instagram.com/planetxbikes">Follow us on Instagram</a></li>
-<li class="social-strava"><a title="Follow us on Strava" href="http://www.strava.com/clubs/planet-x-bikes-strava-club-7083">Follow us on Strava</a></li>
-<li class="social-googleplus"><a title="Follow us on Google Plus" href="https://plus.google.com/+planetxbikes/posts">Follow us on Google Plus</a></li>
-</ul>
-</div>
-</div>		<div id="cookie-icon">
+		<div id="main-footer" class="wrap"><div class="footer-col"><h4>Info</h4><ul><li><a href="/about-planet-x">About Us</a></li><li><a href="/contactus">Contact Us</a></li><li><a href="/about-planet-x/careers">Careers</a></li><li><a href="/terms-and-conditions">Terms &amp; Conditions</a></li><li><a href="/privacy-policy">Privacy Policy</a></li><li><a href="/sitemap">Site Map</a></li></ul></div><div class="footer-col"><h4>Shopping</h4><ul><li><a href="/stores">Our Stores</a></li><li><a href="/help/how-to-order">Ordering Online</a></li><li><a href="/no-nonsense-prices">No-Nonsense Prices</a></li><li><a href="/help/delivery-information">Delivery &amp; Order Tracking</a></li><li><a href="/help/warranty">Warranty</a></li><li><a href="/help/returns-and-refunds">Returns</a></li></ul></div><div class="footer-col"><h4>Services</h4><ul><li><a href="/help">Help</a></li><li><a href="/bike-servicing">Service Centres</a></li><li><a href="/pro-bike-fit">Pro Bike Fitting</a></li><li><a href="/cycle-scheme">Cycle 2 Work</a></li><li><a href="/bike-finance">Finance Options Available</a></li></ul></div><div class="footer-col"><h4>Social</h4><ul><li><a href="/news">News</a></li><li><a style="background-color: transparent;" href="/readers-rides">Readers Rides</a></li><li><a href="/sponsored-riders">Sponsored Riders</a></li><li><a href="/magazine">Magazine</a></li><li><a title="Upcoming events from Planet X" href="/upcoming-events">Upcoming Events</a></li></ul></div><div class="footer-col social-footer"><h3>Follow Us</h3><ul><li class="social-facebook"><a title="Follow us on Facebook" href="https://www.facebook.com/planetxbikes" rel="nofollow" target="_blank">Follow us on Facebook</a></li><li class="social-twitter"><a title="Follow us on Twitter" href="https://twitter.com/planetxbikes" rel="nofollow" target="_blank">Follow us on Twitter</a></li><li class="social-youtube"><a title="Follow us on YouTube" href="http://www.youtube.com/user/PlanetXBikesTV" rel="nofollow" target="_blank">Follow us on YouTube</a></li><li class="social-instagram"><a title="Follow us on Instagram" href="http://instagram.com/planetxbikes" rel="nofollow" target="_blank">Follow us on Instagram</a></li><li class="social-strava"><a title="Follow us on Strava" href="http://www.strava.com/clubs/planet-x-bikes-strava-club-7083" rel="nofollow" target="_blank">Follow us on Strava</a></li><li class="social-googleplus"><a title="Follow us on Google Plus" href="https://plus.google.com/+planetxbikes/posts" rel="nofollow" target="_blank">Follow us on Google Plus</a></li></ul></div></div>		<div id="cookie-icon">
 				<a href="/privacy-policy">Cookie Control</a>
 		</div>
 			
@@ -1338,18 +637,19 @@ var ph = JSON.decode(pc);
 	
 </footer><!-- end of footer -->	
 	<div id="footer-sub">
-		<div class="footer-copy">© www.planetx.co.uk. All Rights Reserved &nbsp; <a href="http://www.hotmustardmedia.co.uk/" target="_blank" title="Hot Mustard">eCommerce by Hot Mustard</a></div>	
+		<div class="footer-copy">© www.planetx.co.uk. All Rights Reserved &nbsp; <a href="http://www.hotmustardmedia.co.uk/" target="_blank" title="Hot Mustard" rel="nofollow">eCommerce by Hot Mustard</a></div>	
 		<div class="footer-sites">
 			<span>Our other websites:</span>
 			<ul>
+				
 				<li><a href="http://www.on-one.co.uk" rel="nofollow" title="On-One">On-One</a></li>
 				<li><a href="http://www.titusti.com" rel="nofollow" title="Titus">Titus</a></li>
-				<li><a href="http://www.podsacs.com" rel="nofollow" title="Pod Sacs">Pod Sacs</a></li>
+				<li><a href="http://www.podsacs.com" rel="nofollow" title="Pod Sacs">Podsacs</a></li>
+				
 			</ul>
 		</div>
 	</div><!-- end of #footer-sub -->
 	
-
 
 
 
@@ -1387,7 +687,16 @@ window.addEvent('domready', function() {
 //]]>
 </script>
 
-
+<script type="text/javascript">
+//<![CDATA[
+  (function() {
+    var nx = document.createElement('script'); nx.type = 'text/javascript'; nx.async = true;
+    nx.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'nxtcfm.s3.amazonaws.com/cbfbb3438ae8c8984a55064008ba2c24-ac.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(nx, s);
+    var fm = document.getElementById('site-search-input'); fm.name = 'keywords'; var sc = document.getElementById('site-search'); sc.action = '/search-results';    
+  })();
+//]]>
+</script>
 
 
 <!--
