@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cardsdirect.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806144257id_/http%3A//www.cardsdirect.com/about_us/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardsdirect.com privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616065042id_/http%3A//www.cardsdirect.com/about_us/privacypolicy.aspx) for the most accurate reproduction.*
 
 # About Us: Privacy Policy
 
@@ -42,9 +42,11 @@ We may transfer or otherwise disclose information collected from and about you t
 
 Any personal information or content that you voluntarily upload or submit for posting to the site becomes publicly available and can be collected and used by others. It is in violation of the site's Terms of Use for you to post any content that requests personally identifiable information.
 
-**Can I Change My Information?**
+**Can I Update My Information?**
 
 You may change or update your personal information by sending an email to: support@cardsdirect.com. Please include "Change My Information" in the subject line. What About Information About Children? We do not direct the site to, nor do we knowingly collect personal information from, children under thirteen.
+
+To update your promotional email preferences, click on the "Manage Subscriptions" or "Unsubscribe" at the bottom of your email or contact us directly at support@cardsdirect.com with the subject line "Unsubscribe". 
 
 **Security**
 
@@ -56,6 +58,6 @@ The site may contain links to third-party websites, which may have privacy polic
 
 **Contact Us**
 
-Thank you for visiting our site. If you have any questions or comments about this policy, please send an email to: [support@cardsdirect.com](mailto:support@cardsdirect.com). Please include "Question or Comment" in the subject line.
+Thank you for visiting our site. If you have any questions or comments about this policy, please send an email to: [support@cardsdirect.com](mailto:support@cardsdirect.com). Please include "Question or Comment" in the subject line. You can also reach us via phone at 866-700-5030 or mail at 12750 Merit Dr. Ste. 900 Dallas, TX 75251.
 
 **Last Updated: September 14, 2012**
