@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kfh.co.uk privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210010358id_/http%3A//www.kfh.co.uk/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kfh.co.uk privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616200439id_/http%3A//www.kfh.co.uk/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -126,6 +126,8 @@ _utmv
 If you prefer not to have cookies enabled, from your internet browser window, select preferences or internet options and change your cookie settings accordingly. Please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/) if you would like more information, including how to see what cookies have been stored in your web browser and how to manage and delete them.
 
 Should you wish to opt out of Google Analytic tracking across all websites please visit <http://tools.google.com/dlpage/gaoptout>.
+
+This website occasionally uses the Google AdWords remarketing and DoubleClick service to advertise on third party websites (including Google) to previous visitors of our site or users who are interested in our services. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on someone’s past visits to [www.kfh.co.uk](https://web.archive.org/) or their online interest. Of course, any data collected will be used in accordance with our own privacy policy and Google’s [privacy policy](https://www.google.co.uk/intl/en/policies/privacy/).
 
 #### **Email**
 
