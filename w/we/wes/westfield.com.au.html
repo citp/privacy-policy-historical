@@ -1,19 +1,22 @@
-<!--The following is the downloaded HTML source of the westfield.com.au privacy policy that was archived on 2013-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131220123010id_/http%3A//www.westfield.com.au/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the westfield.com.au privacy policy that was archived on 2014-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140616104231id_/http%3A//www.westfield.com.au/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class=" js no-touch localstorage svg inlinesvg" lang="en-au" style=""><!--<![endif]--><head><script src="//tags.tiqcdn.com/utag/westfield/wfieldau/prod/utag.js" type="text/javascript" async=""></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
-  <!--[if !IE]><base href="/"><![endif]-->
-  <!--[if lte IE 9]><base href="/privacy-policy"><![endif]-->
+<!DOCTYPE html><html class="js" lang="en-au"><!--<![endif]--><head>
+<script src="//tags.tiqcdn.com/utag/westfield/wfieldau/prod/utag.js" type="text/javascript" async=""></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-3.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"4853f3fcc8","applicationID":"2287701","transactionName":"dl9aEUNeDg9VQU0UWVJVR0pBQwsVUVAbO0haXF0GSA==","queueTime":0,"applicationTime":181,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-411.min.js"}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQYCWV9ACgEIU1ZSBg=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+  <script>
+    (function() {
+      var html = document.getElementsByTagName('html')[0]
+      html.className = html.className.replace( /(?:^|\s)no-js(?!\S)/g , 'js' );
+    })()
+  </script>
 
-  <meta name="fragment" content="!">
   <meta charset="utf-8">
   <meta name="viewport" content="initial-scale=1.0, width=device-width">
 
   <link rel="dns-prefetch" href="//tags.tiqcdn.com">
   <link rel="dns-prefetch" href="//js-agent.newrelic.com">
   <link rel="dns-prefetch" href="//beacon-1.newrelic.com">
-  <link rel="dns-prefetch" href="//testdata.coremetrics.com">
-  <link rel="dns-prefetch" href="//libs.coremetrics.com">
   <link rel="dns-prefetch" href="//s.clicktale.net">
   <link rel="dns-prefetch" href="//stats.g.doubleclick.net">
   <link rel="dns-prefetch" href="//maps.micello.com">
@@ -23,38 +26,43 @@
   <link rel="dns-prefetch" href="//fonts.googleapis.com">
   <link rel="dns-prefetch" href="//themes.googleusercontent.com">
 
-  
+  <link rel="canonical" href="http://www.westfield.com.au/privacy-policy">
 
   <title>Westfield Australia | Shopping Centres in NSW, QLD, VIC, SA &amp; WA</title>
 
   <link href="http://fonts.googleapis.com/css?family=Lato:300|Open+Sans" rel="stylesheet">
 
-<!--[if gt IE 8]><!--><link rel="stylesheet" href="/assets/application-24f25b800331de855c42f70bd2323afc.css"><!--<![endif]-->
-
-<!--[if (lt IE 9) & (!IEMobile)]><link rel="stylesheet" href="/assets/old-ie-f478ad0d90897b1088bf9157dac4dafc.css"><![endif]-->
-
+  <link href="/assets/application-f523221a87ba6f29dff0fd87dfa1528e.css" rel="stylesheet">
 
   
-
-  <script src="/assets/vendor/modernizr.min-851bb884a74256c1679bf8bf8de66ee7.js"></script>
-
-  <!--[if (lt IE 9) & (!IEMobile)]>
-  <script src="/assets/html5shiv/src/html5shiv-printshiv-98336e9570d398e20f9595fd4ff0f591.js"></script>
-<![endif]-->
-
 
   <meta name="msapplication-TileColor" content="#da291c">
   <meta name="msapplication-TileImage" content="/apple-touch-icon-144x144-precomposed.png">
 
     <meta name="description" content="Find the best in retail, dining, leisure and entertainment at one of our centres across Australia, shop online or buy a gift card today">
+    <meta name="twitter:description" content="Find the best in retail, dining, leisure and entertainment at one of our centres across Australia, shop online or buy a gift card today">
+    <meta property="og:description" content="Find the best in retail, dining, leisure and entertainment at one of our centres across Australia, shop online or buy a gift card today">
+
+  <meta property="og:title" content="Westfield Australia | Shopping Centres in NSW, QLD, VIC, SA &amp; WA">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="http://www.westfield.com.au/privacy-policy">
+  <meta property="og:site_name" content="Westfield Australia">
+  <meta property="og:image" content="http://a5.res.cloudinary.com/wlabs/image/asset/social-share-logo-426170c176614a8bf3a3c3bf56fb7cdd.png">
+
+  <meta name="twitter:title" content="Westfield Australia | Shopping Centres in NSW, QLD, VIC, SA &amp; WA">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:url" content="http://www.westfield.com.au/privacy-policy">
+  <meta name="twitter:site" content="@WestfieldAU">
+  <meta name="twitter:image:src" content="http://a5.res.cloudinary.com/wlabs/image/asset/social-share-logo-426170c176614a8bf3a3c3bf56fb7cdd.png">
+
 </head>
 
-<body class="pages privacy_policy page-detail-view" ng-app="Westfield" ng-init="centre_id=''">
+<body class="page-detail-view pages privacy_policy">
 
   <a href="#main" class="hide-visually skip-link">Skip to main content</a>
 
   <!--[if lte IE 8]>
-  <div class="old-ie-banner"><div class="old-ie-banner__inner"><div class="grid"><div class="grid__item non-palm-two-fifths"><em class="h1">Your current browser is not supported</em><p>To get the best Westfield has to offer, you'll need to upgrade to a modern browser.</p><ul><li><a href="http://windows.microsoft.com/en-gb/internet-explorer/download-ie" target="_blank" rel="external"><img alt="" height="40" src="http://res.cloudinary.com/wlabs/image/asset/ie-9b186f7458eba5d02bebd2b7356388b6.png" width="40" />Internet<br>Explorer 9+</a></li><li><a href="https://www.google.com/intl/en/chrome/browser/" target="_blank" rel="external"><img alt="" height="40" src="http://res.cloudinary.com/wlabs/image/asset/chrome-b7af4922656f6979bc0be5030510512f.png" width="38" />Chrome</a></li><li><a href="https://www.mozilla.org/en-US/firefox/new/?utm_source=firefox-com&amp;utm_medium=referral" target="_blank" rel="external"><img alt="" height="40" src="http://res.cloudinary.com/wlabs/image/asset/firefox-c5df79e9cbb6792d427f9550e7870dcd.png" width="38" />Firefox</a></li><li><a href="http://support.apple.com/kb/DL1531" target="_blank" rel="external"><img alt="" height="40" src="http://res.cloudinary.com/wlabs/image/asset/safari-7dbeb61d5fcc2d051c50a6f9f4b9b87e.png" width="36" />Safari</a></li></ul></div><div class="grid__item non-palm-three-fifths txt-right"><img alt="" height="254" src="http://res.cloudinary.com/wlabs/image/asset/screengrab-0be6a5dac38ad9681a7c605a7be3715a.jpg" width="600" /></div></div></div></div>
+  <div class="old-ie-banner"><div class="old-ie-banner__inner"><div class="grid"><div class="grid__item two-fifths"><em class="h1">Your current browser is not supported</em><p>To get the best Westfield has to offer, you'll need to upgrade to a modern browser.</p><ul><li><a href="http://windows.microsoft.com/en-gb/internet-explorer/download-ie" target="_blank" rel="external"><img alt="" height="40" src="http://a2.res.cloudinary.com/wlabs/image/asset/ie-9b186f7458eba5d02bebd2b7356388b6.png" width="40" />Internet<br>Explorer 9+</a></li><li><a href="https://www.google.com/intl/en/chrome/browser/" target="_blank" rel="external"><img alt="" height="40" src="http://a2.res.cloudinary.com/wlabs/image/asset/chrome-b7af4922656f6979bc0be5030510512f.png" width="38" />Chrome</a></li><li><a href="https://www.mozilla.org/en-US/firefox/new/?utm_source=firefox-com&amp;utm_medium=referral" target="_blank" rel="external"><img alt="" height="40" src="http://a2.res.cloudinary.com/wlabs/image/asset/firefox-c5df79e9cbb6792d427f9550e7870dcd.png" width="38" />Firefox</a></li><li><a href="http://support.apple.com/kb/DL1531" target="_blank" rel="external"><img alt="" height="40" src="http://a1.res.cloudinary.com/wlabs/image/asset/safari-7dbeb61d5fcc2d051c50a6f9f4b9b87e.png" width="36" />Safari</a></li></ul></div><div class="grid__item three-fifths txt-right"><img alt="" height="254" src="http://a3.res.cloudinary.com/wlabs/image/asset/screengrab-0be6a5dac38ad9681a7c605a7be3715a.jpg" width="600" /></div></div></div></div>
   <![endif]-->
 
   <header class="header header--national" role="banner">
@@ -62,231 +70,256 @@
 	<div class="header__secondary drop-down-container">
 		<div class="container">
 
-			<a class="logo" href="/" rel="home" target="_self"><img alt="Westfield" data-svg-fallback="http://res.cloudinary.com/wlabs/image/asset/logo-beta-577675507e95268812397fb7b91c71d5.png" src="/assets/logo-beta-e2d02e0234251940ff0cdf32e1bed4c2.svg"></a>
-
+      <a class="logo" href="/" rel="home">
+        <img alt="Westfield" class="national__logo" src="/assets/logo-beta-e2d02e0234251940ff0cdf32e1bed4c2.svg">
+</a>
 			<button type="button" class="btn btn--menu hide-fully--non-palm js-disabled-hide" toggle-visibility="header-menu-toggle-palm">
 				<span class="hide-visually">Choose a centre</span>
 				<span class="btn--menu__icon"></span>
 			</button>
 
-			<nav class="header__tabs header-menu-toggle tabs drop-down pointer-up" id="header-menu-toggle-palm" role="navigation">
+			<nav class="header__tabs header-menu-toggle tabs drop-down pointer-up js-tabs" id="header-menu-toggle-palm" role="navigation">
 
 				<div class="header__tabs__hdr">
 					<h1 class="container">Choose a centre</h1>
 				</div>
 
 	      <ul class="tab__nav container horiz-list">
-	        <li><a href="#tab-nsw" class="is-active"><abbr title="New South Wales">NSW</abbr></a></li>
-	        <li><a href="#tab-act"><abbr title="Australian Capital Territory">ACT</abbr></a></li>
-	        <li><a href="#tab-qld"><abbr title="Queensland">QLD</abbr></a></li>
-	        <li><a href="#tab-vic"><abbr title="Victoria">VIC</abbr></a></li>
-	        <li><a href="#tab-sa"><abbr title="South Australia">SA</abbr></a></li>
-	        <li><a href="#tab-wa"><abbr title="Western Australia">WA</abbr></a></li>
+	        <li>
+            <a href="#tab-nsw" class="is-active">
+              <abbr title="New South Wales">NSW</abbr>
+            </a>
+          </li>
+	        <li>
+            <a href="#tab-act">
+              <abbr title="Australian Capital Territory">ACT</abbr>
+            </a>
+          </li>
+	        <li>
+            <a href="#tab-qld">
+              <abbr title="Queensland">QLD</abbr>
+            </a>
+          </li>
+	        <li>
+            <a href="#tab-vic">
+              <abbr title="Victoria">VIC</abbr>
+            </a>
+          </li>
+	        <li>
+            <a href="#tab-sa">
+              <abbr title="South Australia">SA</abbr>
+            </a>
+          </li>
+	        <li>
+            <a href="#tab-wa">
+              <abbr title="Western Australia">WA</abbr>
+            </a>
+          </li>
 	      </ul>
 
 		      <ul id="tab-nsw" class="tab__content is-active">
 		          <li>
-                <a class="container h1" href="/bondijunction">
+                <a class="container h1" href="/bondijunction" target="_self">
                   Bondi Junction
                   <span class="icon icon--arrow-right-big icon--flush-top" aria-hidden="true"></span>
 </a>              </li>
 		          <li>
-                <a class="container h1" href="/burwood">
+                <a class="container h1" href="/burwood" target="_self">
                   Burwood
                   <span class="icon icon--arrow-right-big icon--flush-top" aria-hidden="true"></span>
 </a>              </li>
 		          <li>
-                <a class="container h1" href="/chatswood">
+                <a class="container h1" href="/chatswood" target="_self">
                   Chatswood
                   <span class="icon icon--arrow-right-big icon--flush-top" aria-hidden="true"></span>
 </a>              </li>
 		          <li>
-                <a class="container h1" href="/eastgardens">
+                <a class="container h1" href="/eastgardens" target="_self">
                   Eastgardens
                   <span class="icon icon--arrow-right-big icon--flush-top" aria-hidden="true"></span>
 </a>              </li>
 		          <li>
-                <a class="container h1" href="/figtree">
+                <a class="container h1" href="/figtree" target="_self">
                   Figtree
                   <span class="icon icon--arrow-right-big icon--flush-top" aria-hidden="true"></span>
 </a>              </li>
 		          <li>
-                <a class="container h1" href="/hornsby">
+                <a class="container h1" href="/hornsby" target="_self">
                   Hornsby
                   <span class="icon icon--arrow-right-big icon--flush-top" aria-hidden="true"></span>
 </a>              </li>
 		          <li>
-                <a class="container h1" href="/hurstville">
+                <a class="container h1" href="/hurstville" target="_self">
                   Hurstville
                   <span class="icon icon--arrow-right-big icon--flush-top" aria-hidden="true"></span>
 </a>              </li>
 		          <li>
-                <a class="container h1" href="/kotara">
+                <a class="container h1" href="/kotara" target="_self">
                   Kotara
                   <span class="icon icon--arrow-right-big icon--flush-top" aria-hidden="true"></span>
 </a>              </li>
 		          <li>
-                <a class="container h1" href="/liverpool">
+                <a class="container h1" href="/liverpool" target="_self">
                   Liverpool
                   <span class="icon icon--arrow-right-big icon--flush-top" aria-hidden="true"></span>
 </a>              </li>
 		          <li>
-                <a class="container h1" href="/miranda">
+                <a class="container h1" href="/miranda" target="_self">
                   Miranda
                   <span class="icon icon--arrow-right-big icon--flush-top" aria-hidden="true"></span>
 </a>              </li>
 		          <li>
-                <a class="container h1" href="/mtdruitt">
+                <a class="container h1" href="/mtdruitt" target="_self">
                   Mt Druitt
                   <span class="icon icon--arrow-right-big icon--flush-top" aria-hidden="true"></span>
 </a>              </li>
 		          <li>
-                <a class="container h1" href="/northrocks">
+                <a class="container h1" href="/northrocks" target="_self">
                   North Rocks
                   <span class="icon icon--arrow-right-big icon--flush-top" aria-hidden="true"></span>
 </a>              </li>
 		          <li>
-                <a class="container h1" href="/parramatta">
+                <a class="container h1" href="/parramatta" target="_self">
                   Parramatta
                   <span class="icon icon--arrow-right-big icon--flush-top" aria-hidden="true"></span>
 </a>              </li>
 		          <li>
-                <a class="container h1" href="/penrith">
+                <a class="container h1" href="/penrith" target="_self">
                   Penrith
                   <span class="icon icon--arrow-right-big icon--flush-top" aria-hidden="true"></span>
 </a>              </li>
 		          <li>
-                <a class="container h1" href="/sydney">
+                <a class="container h1" href="/sydney" target="_self">
                   Sydney
                   <span class="icon icon--arrow-right-big icon--flush-top" aria-hidden="true"></span>
 </a>              </li>
 		          <li>
-                <a class="container h1" href="/tuggerah">
+                <a class="container h1" href="/tuggerah" target="_self">
                   Tuggerah
                   <span class="icon icon--arrow-right-big icon--flush-top" aria-hidden="true"></span>
 </a>              </li>
 		          <li>
-                <a class="container h1" href="/warrawong">
+                <a class="container h1" href="/warrawong" target="_self">
                   Warrawong
                   <span class="icon icon--arrow-right-big icon--flush-top" aria-hidden="true"></span>
 </a>              </li>
 		          <li>
-                <a class="container h1" href="/warringahmall">
+                <a class="container h1" href="/warringahmall" target="_self">
                   Warringah Mall
                   <span class="icon icon--arrow-right-big icon--flush-top" aria-hidden="true"></span>
 </a>              </li>
 		      </ul>
 		      <ul id="tab-act" class="tab__content">
 		          <li>
-                <a class="container h1" href="/belconnen">
+                <a class="container h1" href="/belconnen" target="_self">
                   Belconnen
                   <span class="icon icon--arrow-right-big icon--flush-top" aria-hidden="true"></span>
 </a>              </li>
 		          <li>
-                <a class="container h1" href="/woden">
+                <a class="container h1" href="/woden" target="_self">
                   Woden
                   <span class="icon icon--arrow-right-big icon--flush-top" aria-hidden="true"></span>
 </a>              </li>
 		      </ul>
 		      <ul id="tab-qld" class="tab__content">
 		          <li>
-                <a class="container h1" href="/carindale">
+                <a class="container h1" href="/carindale" target="_self">
                   Carindale
                   <span class="icon icon--arrow-right-big icon--flush-top" aria-hidden="true"></span>
 </a>              </li>
 		          <li>
-                <a class="container h1" href="/chermside">
+                <a class="container h1" href="/chermside" target="_self">
                   Chermside
                   <span class="icon icon--arrow-right-big icon--flush-top" aria-hidden="true"></span>
 </a>              </li>
 		          <li>
-                <a class="container h1" href="/gardencity">
+                <a class="container h1" href="/gardencity" target="_self">
                   Garden City
                   <span class="icon icon--arrow-right-big icon--flush-top" aria-hidden="true"></span>
 </a>              </li>
 		          <li>
-                <a class="container h1" href="/helensvale">
+                <a class="container h1" href="/helensvale" target="_self">
                   Helensvale
                   <span class="icon icon--arrow-right-big icon--flush-top" aria-hidden="true"></span>
 </a>              </li>
 		          <li>
-                <a class="container h1" href="/northlakes">
+                <a class="container h1" href="/northlakes" target="_self">
                   North Lakes
                   <span class="icon icon--arrow-right-big icon--flush-top" aria-hidden="true"></span>
 </a>              </li>
 		          <li>
-                <a class="container h1" href="/strathpine">
+                <a class="container h1" href="/strathpine" target="_self">
                   Strathpine
                   <span class="icon icon--arrow-right-big icon--flush-top" aria-hidden="true"></span>
 </a>              </li>
 		      </ul>
 		      <ul id="tab-vic" class="tab__content">
 		          <li>
-                <a class="container h1" href="/airportwest">
+                <a class="container h1" href="/airportwest" target="_self">
                   Airport West
                   <span class="icon icon--arrow-right-big icon--flush-top" aria-hidden="true"></span>
 </a>              </li>
 		          <li>
-                <a class="container h1" href="/doncaster">
+                <a class="container h1" href="/doncaster" target="_self">
                   Doncaster
                   <span class="icon icon--arrow-right-big icon--flush-top" aria-hidden="true"></span>
 </a>              </li>
 		          <li>
-                <a class="container h1" href="/fountaingate">
+                <a class="container h1" href="/fountaingate" target="_self">
                   Fountain Gate
                   <span class="icon icon--arrow-right-big icon--flush-top" aria-hidden="true"></span>
 </a>              </li>
 		          <li>
-                <a class="container h1" href="/geelong">
+                <a class="container h1" href="/geelong" target="_self">
                   Geelong
                   <span class="icon icon--arrow-right-big icon--flush-top" aria-hidden="true"></span>
 </a>              </li>
 		          <li>
-                <a class="container h1" href="/knox">
+                <a class="container h1" href="/knox" target="_self">
                   Knox
                   <span class="icon icon--arrow-right-big icon--flush-top" aria-hidden="true"></span>
 </a>              </li>
 		          <li>
-                <a class="container h1" href="/plentyvalley">
+                <a class="container h1" href="/plentyvalley" target="_self">
                   Plenty Valley
                   <span class="icon icon--arrow-right-big icon--flush-top" aria-hidden="true"></span>
 </a>              </li>
 		          <li>
-                <a class="container h1" href="/southland">
+                <a class="container h1" href="/southland" target="_self">
                   Southland
                   <span class="icon icon--arrow-right-big icon--flush-top" aria-hidden="true"></span>
 </a>              </li>
 		      </ul>
 		      <ul id="tab-sa" class="tab__content">
 		          <li>
-                <a class="container h1" href="/marion">
+                <a class="container h1" href="/marion" target="_self">
                   Marion
                   <span class="icon icon--arrow-right-big icon--flush-top" aria-hidden="true"></span>
 </a>              </li>
 		          <li>
-                <a class="container h1" href="/teatreeplaza">
+                <a class="container h1" href="/teatreeplaza" target="_self">
                   Tea Tree Plaza
                   <span class="icon icon--arrow-right-big icon--flush-top" aria-hidden="true"></span>
 </a>              </li>
 		          <li>
-                <a class="container h1" href="/westlakes">
+                <a class="container h1" href="/westlakes" target="_self">
                   West Lakes
                   <span class="icon icon--arrow-right-big icon--flush-top" aria-hidden="true"></span>
 </a>              </li>
 		      </ul>
 		      <ul id="tab-wa" class="tab__content">
 		          <li>
-                <a class="container h1" href="/carousel">
+                <a class="container h1" href="/carousel" target="_self">
                   Carousel
                   <span class="icon icon--arrow-right-big icon--flush-top" aria-hidden="true"></span>
 </a>              </li>
 		          <li>
-                <a class="container h1" href="/innaloo">
+                <a class="container h1" href="/innaloo" target="_self">
                   Innaloo
                   <span class="icon icon--arrow-right-big icon--flush-top" aria-hidden="true"></span>
 </a>              </li>
 		          <li>
-                <a class="container h1" href="/whitfordcity">
+                <a class="container h1" href="/whitfordcity" target="_self">
                   Whitford City
                   <span class="icon icon--arrow-right-big icon--flush-top" aria-hidden="true"></span>
 </a>              </li>
@@ -294,62 +327,151 @@
 
 			</nav>
 
-			<nav class="header-centre-select-national hide-fully--palm-inline-block" role="navigation">
+			<nav class="header-centre-select-national hide-fully--palm-inline-block js-disabled-hide" role="navigation">
 				<h1>Choose a <span class="hide-visually">centre to see products, deals, events, and centre info:</span></h1>
-				<div class="drop-down-menu drop-down-container">
-          <button class="drop-down-menu__trigger btn btn--main btn--main-dark btn--pointer btn--pointer-padding-med" toggle-visibility="header-menu-toggle-non-palm">Westfield Centre<span aria-hidden="true" class="icon icon--lrg icon--arrow-down-full btn--pointer__icon"></span></button>
+
+        <div class="drop-down-menu drop-down-container">
+
+          <button type="button" class="drop-down-menu__trigger btn btn--main btn--main-dark btn--pointer btn--pointer-padding-med" toggle-visibility="header-menu-toggle-non-palm">
+            Westfield Centre
+            <span aria-hidden="true" class="icon icon--lrg icon--arrow-down-full btn--pointer__icon"></span>
+          </button>
+
           <div class="drop-down-menu__target drop-down pointer-up box box--drop-down" id="header-menu-toggle-non-palm">
           	<dl class="drop-down-menu__list">
 	          		<dt class="drop-down-menu__hdr-sub drop-down-menu__divider">NSW</dt>
-	          			<dd class="drop-down-menu__divider"><a class="btn btn--full btn--full-left" href="/bondijunction">Bondi Junction</a></dd>
-	          			<dd class="drop-down-menu__divider"><a class="btn btn--full btn--full-left" href="/burwood">Burwood</a></dd>
-	          			<dd class="drop-down-menu__divider"><a class="btn btn--full btn--full-left" href="/chatswood">Chatswood</a></dd>
-	          			<dd class="drop-down-menu__divider"><a class="btn btn--full btn--full-left" href="/eastgardens">Eastgardens</a></dd>
-	          			<dd class="drop-down-menu__divider"><a class="btn btn--full btn--full-left" href="/figtree">Figtree</a></dd>
-	          			<dd class="drop-down-menu__divider"><a class="btn btn--full btn--full-left" href="/hornsby">Hornsby</a></dd>
-	          			<dd class="drop-down-menu__divider"><a class="btn btn--full btn--full-left" href="/hurstville">Hurstville</a></dd>
-	          			<dd class="drop-down-menu__divider"><a class="btn btn--full btn--full-left" href="/kotara">Kotara</a></dd>
-	          			<dd class="drop-down-menu__divider"><a class="btn btn--full btn--full-left" href="/liverpool">Liverpool</a></dd>
-	          			<dd class="drop-down-menu__divider"><a class="btn btn--full btn--full-left" href="/miranda">Miranda</a></dd>
-	          			<dd class="drop-down-menu__divider"><a class="btn btn--full btn--full-left" href="/mtdruitt">Mt Druitt</a></dd>
-	          			<dd class="drop-down-menu__divider"><a class="btn btn--full btn--full-left" href="/northrocks">North Rocks</a></dd>
-	          			<dd class="drop-down-menu__divider"><a class="btn btn--full btn--full-left" href="/parramatta">Parramatta</a></dd>
-	          			<dd class="drop-down-menu__divider"><a class="btn btn--full btn--full-left" href="/penrith">Penrith</a></dd>
-	          			<dd class="drop-down-menu__divider"><a class="btn btn--full btn--full-left" href="/sydney">Sydney</a></dd>
-	          			<dd class="drop-down-menu__divider"><a class="btn btn--full btn--full-left" href="/tuggerah">Tuggerah</a></dd>
-	          			<dd class="drop-down-menu__divider"><a class="btn btn--full btn--full-left" href="/warrawong">Warrawong</a></dd>
-	          			<dd class="drop-down-menu__divider"><a class="btn btn--full btn--full-left" href="/warringahmall">Warringah Mall</a></dd>
+	          			<dd class="drop-down-menu__divider">
+                    <a class="btn btn--full btn--full-left" href="/bondijunction" target="_self">Bondi Junction</a>
+                  </dd>
+	          			<dd class="drop-down-menu__divider">
+                    <a class="btn btn--full btn--full-left" href="/burwood" target="_self">Burwood</a>
+                  </dd>
+	          			<dd class="drop-down-menu__divider">
+                    <a class="btn btn--full btn--full-left" href="/chatswood" target="_self">Chatswood</a>
+                  </dd>
+	          			<dd class="drop-down-menu__divider">
+                    <a class="btn btn--full btn--full-left" href="/eastgardens" target="_self">Eastgardens</a>
+                  </dd>
+	          			<dd class="drop-down-menu__divider">
+                    <a class="btn btn--full btn--full-left" href="/figtree" target="_self">Figtree</a>
+                  </dd>
+	          			<dd class="drop-down-menu__divider">
+                    <a class="btn btn--full btn--full-left" href="/hornsby" target="_self">Hornsby</a>
+                  </dd>
+	          			<dd class="drop-down-menu__divider">
+                    <a class="btn btn--full btn--full-left" href="/hurstville" target="_self">Hurstville</a>
+                  </dd>
+	          			<dd class="drop-down-menu__divider">
+                    <a class="btn btn--full btn--full-left" href="/kotara" target="_self">Kotara</a>
+                  </dd>
+	          			<dd class="drop-down-menu__divider">
+                    <a class="btn btn--full btn--full-left" href="/liverpool" target="_self">Liverpool</a>
+                  </dd>
+	          			<dd class="drop-down-menu__divider">
+                    <a class="btn btn--full btn--full-left" href="/miranda" target="_self">Miranda</a>
+                  </dd>
+	          			<dd class="drop-down-menu__divider">
+                    <a class="btn btn--full btn--full-left" href="/mtdruitt" target="_self">Mt Druitt</a>
+                  </dd>
+	          			<dd class="drop-down-menu__divider">
+                    <a class="btn btn--full btn--full-left" href="/northrocks" target="_self">North Rocks</a>
+                  </dd>
+	          			<dd class="drop-down-menu__divider">
+                    <a class="btn btn--full btn--full-left" href="/parramatta" target="_self">Parramatta</a>
+                  </dd>
+	          			<dd class="drop-down-menu__divider">
+                    <a class="btn btn--full btn--full-left" href="/penrith" target="_self">Penrith</a>
+                  </dd>
+	          			<dd class="drop-down-menu__divider">
+                    <a class="btn btn--full btn--full-left" href="/sydney" target="_self">Sydney</a>
+                  </dd>
+	          			<dd class="drop-down-menu__divider">
+                    <a class="btn btn--full btn--full-left" href="/tuggerah" target="_self">Tuggerah</a>
+                  </dd>
+	          			<dd class="drop-down-menu__divider">
+                    <a class="btn btn--full btn--full-left" href="/warrawong" target="_self">Warrawong</a>
+                  </dd>
+	          			<dd class="drop-down-menu__divider">
+                    <a class="btn btn--full btn--full-left" href="/warringahmall" target="_self">Warringah Mall</a>
+                  </dd>
 	          		<dt class="drop-down-menu__hdr-sub drop-down-menu__divider">ACT</dt>
-	          			<dd class="drop-down-menu__divider"><a class="btn btn--full btn--full-left" href="/belconnen">Belconnen</a></dd>
-	          			<dd class="drop-down-menu__divider"><a class="btn btn--full btn--full-left" href="/woden">Woden</a></dd>
+	          			<dd class="drop-down-menu__divider">
+                    <a class="btn btn--full btn--full-left" href="/belconnen" target="_self">Belconnen</a>
+                  </dd>
+	          			<dd class="drop-down-menu__divider">
+                    <a class="btn btn--full btn--full-left" href="/woden" target="_self">Woden</a>
+                  </dd>
 	          		<dt class="drop-down-menu__hdr-sub drop-down-menu__divider">QLD</dt>
-	          			<dd class="drop-down-menu__divider"><a class="btn btn--full btn--full-left" href="/carindale">Carindale</a></dd>
-	          			<dd class="drop-down-menu__divider"><a class="btn btn--full btn--full-left" href="/chermside">Chermside</a></dd>
-	          			<dd class="drop-down-menu__divider"><a class="btn btn--full btn--full-left" href="/gardencity">Garden City</a></dd>
-	          			<dd class="drop-down-menu__divider"><a class="btn btn--full btn--full-left" href="/helensvale">Helensvale</a></dd>
-	          			<dd class="drop-down-menu__divider"><a class="btn btn--full btn--full-left" href="/northlakes">North Lakes</a></dd>
-	          			<dd class="drop-down-menu__divider"><a class="btn btn--full btn--full-left" href="/strathpine">Strathpine</a></dd>
+	          			<dd class="drop-down-menu__divider">
+                    <a class="btn btn--full btn--full-left" href="/carindale" target="_self">Carindale</a>
+                  </dd>
+	          			<dd class="drop-down-menu__divider">
+                    <a class="btn btn--full btn--full-left" href="/chermside" target="_self">Chermside</a>
+                  </dd>
+	          			<dd class="drop-down-menu__divider">
+                    <a class="btn btn--full btn--full-left" href="/gardencity" target="_self">Garden City</a>
+                  </dd>
+	          			<dd class="drop-down-menu__divider">
+                    <a class="btn btn--full btn--full-left" href="/helensvale" target="_self">Helensvale</a>
+                  </dd>
+	          			<dd class="drop-down-menu__divider">
+                    <a class="btn btn--full btn--full-left" href="/northlakes" target="_self">North Lakes</a>
+                  </dd>
+	          			<dd class="drop-down-menu__divider">
+                    <a class="btn btn--full btn--full-left" href="/strathpine" target="_self">Strathpine</a>
+                  </dd>
 	          		<dt class="drop-down-menu__hdr-sub drop-down-menu__divider">VIC</dt>
-	          			<dd class="drop-down-menu__divider"><a class="btn btn--full btn--full-left" href="/airportwest">Airport West</a></dd>
-	          			<dd class="drop-down-menu__divider"><a class="btn btn--full btn--full-left" href="/doncaster">Doncaster</a></dd>
-	          			<dd class="drop-down-menu__divider"><a class="btn btn--full btn--full-left" href="/fountaingate">Fountain Gate</a></dd>
-	          			<dd class="drop-down-menu__divider"><a class="btn btn--full btn--full-left" href="/geelong">Geelong</a></dd>
-	          			<dd class="drop-down-menu__divider"><a class="btn btn--full btn--full-left" href="/knox">Knox</a></dd>
-	          			<dd class="drop-down-menu__divider"><a class="btn btn--full btn--full-left" href="/plentyvalley">Plenty Valley</a></dd>
-	          			<dd class="drop-down-menu__divider"><a class="btn btn--full btn--full-left" href="/southland">Southland</a></dd>
+	          			<dd class="drop-down-menu__divider">
+                    <a class="btn btn--full btn--full-left" href="/airportwest" target="_self">Airport West</a>
+                  </dd>
+	          			<dd class="drop-down-menu__divider">
+                    <a class="btn btn--full btn--full-left" href="/doncaster" target="_self">Doncaster</a>
+                  </dd>
+	          			<dd class="drop-down-menu__divider">
+                    <a class="btn btn--full btn--full-left" href="/fountaingate" target="_self">Fountain Gate</a>
+                  </dd>
+	          			<dd class="drop-down-menu__divider">
+                    <a class="btn btn--full btn--full-left" href="/geelong" target="_self">Geelong</a>
+                  </dd>
+	          			<dd class="drop-down-menu__divider">
+                    <a class="btn btn--full btn--full-left" href="/knox" target="_self">Knox</a>
+                  </dd>
+	          			<dd class="drop-down-menu__divider">
+                    <a class="btn btn--full btn--full-left" href="/plentyvalley" target="_self">Plenty Valley</a>
+                  </dd>
+	          			<dd class="drop-down-menu__divider">
+                    <a class="btn btn--full btn--full-left" href="/southland" target="_self">Southland</a>
+                  </dd>
 	          		<dt class="drop-down-menu__hdr-sub drop-down-menu__divider">SA</dt>
-	          			<dd class="drop-down-menu__divider"><a class="btn btn--full btn--full-left" href="/marion">Marion</a></dd>
-	          			<dd class="drop-down-menu__divider"><a class="btn btn--full btn--full-left" href="/teatreeplaza">Tea Tree Plaza</a></dd>
-	          			<dd class="drop-down-menu__divider"><a class="btn btn--full btn--full-left" href="/westlakes">West Lakes</a></dd>
+	          			<dd class="drop-down-menu__divider">
+                    <a class="btn btn--full btn--full-left" href="/marion" target="_self">Marion</a>
+                  </dd>
+	          			<dd class="drop-down-menu__divider">
+                    <a class="btn btn--full btn--full-left" href="/teatreeplaza" target="_self">Tea Tree Plaza</a>
+                  </dd>
+	          			<dd class="drop-down-menu__divider">
+                    <a class="btn btn--full btn--full-left" href="/westlakes" target="_self">West Lakes</a>
+                  </dd>
 	          		<dt class="drop-down-menu__hdr-sub drop-down-menu__divider">WA</dt>
-	          			<dd class="drop-down-menu__divider"><a class="btn btn--full btn--full-left" href="/carousel">Carousel</a></dd>
-	          			<dd class="drop-down-menu__divider"><a class="btn btn--full btn--full-left" href="/innaloo">Innaloo</a></dd>
-	          			<dd class="drop-down-menu__divider"><a class="btn btn--full btn--full-left" href="/whitfordcity">Whitford City</a></dd>
+	          			<dd class="drop-down-menu__divider">
+                    <a class="btn btn--full btn--full-left" href="/carousel" target="_self">Carousel</a>
+                  </dd>
+	          			<dd class="drop-down-menu__divider">
+                    <a class="btn btn--full btn--full-left" href="/innaloo" target="_self">Innaloo</a>
+                  </dd>
+	          			<dd class="drop-down-menu__divider">
+                    <a class="btn btn--full btn--full-left" href="/whitfordcity" target="_self">Whitford City</a>
+                  </dd>
           	</dl>
           </div>
+
         </div>
+
         <span class="header-centre-select-national__lbl" aria-hidden="true">to see products, deals, events, and centre info</span>
 			</nav>
+
+
+      
 
 		</div>
 	</div>
@@ -358,7 +480,9 @@
 
 
 <main class="main" id="main" role="main">
+
 	
+
 	<div class="container container--wide">
 		
   <article role="article" class="detail-view detail-view--page">
@@ -366,17 +490,19 @@
 
   <div class="island">
 
-  <h1 class="detail-view__hdr hn">Westfield Privacy Policies</h1>
+  <h1 class="detail-view__hdr">Westfield Privacy Policies</h1>
 
-  <div class="detail-view__divider detail-view__divider--top txt-formatted islet-top">
+  <div class="detail-view__divider detail-view__divider--top islet-top">
+
+    <p>As at <time datetime="2014-03-12">12 March 2014</time>.</p>
 
     <h2>Westfield General Privacy Policy</h2>
 
     <h3>Your privacy is important to Westfield</h3>
 
-    <p>Westfield recognises the trust you are placing in us through your dealings with us. We are committed to the protection of your personal information. Our policies comply with our obligations under the National Privacy Principles that form part of the <span class="txt-italic">Privacy Act 1988</span> and are intended to protect your privacy in respect of any personal information that you may provide to us.</p>
+    <p>Westfield recognises the trust you are placing in us through your dealings with us. We are committed to the protection of your personal information. Our policies comply with our obligations under the Australian Privacy Principles that form part of the Privacy Act 1988 (Cth) and are intended to protect your privacy in respect of any personal information that you may provide to us.</p>
 
-    <p>Members of the Westfield Group, comprising Westfield Holdings Limited ABN (Australian Business Number) 66 001 671 496, Westfield Management Limited ABN 41 001 670 579 (as responsible entity of Westfield Trust), Westfield America Management Limited ABN 66 072 780 619 as responsible entity of Westfield America Trust) and their respective controlled entities, and the owners of the Australian shopping centres managed by members of the Westfield Group, may collect personal and other information in the circumstances set out below. We refer to each of these entities in this policy as "us", "we", or "Westfield".</p>
+    <p>Members of the Westfield Group, comprising Westfield Holdings Limited ABN 66 001 671 496, Westfield Management Limited ABN 41 001 670 579 (as responsible entity of Westfield Trust), Westfield America Management Limited ABN 66 072 780 619 as responsible entity of Westfield America Trust) and their respective controlled entities, and the owners of the Australian shopping centres managed by members of the Westfield Group, may collect personal and other information in the circumstances set out below. We refer to each of these entities in this policy as "us", "we", or "Westfield".</p>
 
     <h3>What personal information Westfield generally collects and why:</h3>
 
@@ -384,66 +510,100 @@
 
     <p>Westfield collects information from customers in a number of different ways. These include the following:</p>
 
-    <ul>
+    <ul class="list">
       <li>In connection with competitions or signing up to email or mobile newsletters, customers provide us with their contact details. Westfield collects these details to contact competition winners, and to inform customers about Westfield events, activities and promotions, both in centre and as part of Westfield's other activities. Customers have the option to opt out from receiving this information.</li>
       <li>When customers hire mobility aids or other equipment from Westfield, or apply to use certain restricted spaces at Westfield managed centres, customers provide Westfield with certain information, including contact details. Westfield collects this information to ensure that there is a record of the hirer and to enable customers to be informed about upcoming Westfield events, activities and promotions, both in centre and as part of Westfield's other activities.</li>
-      <li>Westfield shopping centres and car parks are under video and camera surveillance. When entering Westfield shopping centres and car parks, customer's personal information and images may be collected by Westfield, and Westfield may collect customer's personal information and images from third parties (for example, the police or retailers). This information may be used by Westfield in connection with the management and security of the Westfield shopping centres and may be provided to law enforcement and government bodies, Westfield staff and subcontractors, insurers and retailers for those purposes. The licence plates of vehicles parked by customers in car parks may also be collected and used for the above purposes and also to assist customers to locate their cars including via online and mobile applications.</li>
+      <li>Westfield shopping centres and car parks are under video and camera surveillance. When entering Westfield shopping centres and car parks, customer's personal information and images may be collected by Westfield, and Westfield may collect customer's personal information and images from third parties (for example, the police or retailers). This information may be used by Westfield in connection with the management and security of the Westfield shopping centres and may be provided to law enforcement and government bodies, Westfield staff and subcontractors, insurers and retailers for those purposes. The licence plates of vehicles parked by customers in car parks may also be collected and used for the above purposes and also to assist customers to locate their cars including via online and mobile applications. This information is held securely and in a format which is access controlled, unless it is necessary to use this information for these purposes.</li>
       <li>When customers use mobile applications developed by Westfield, or logon to WiFi provided in Westfield centres, customers provide Westfield with certain information including their contact details. Westfield collects this information to enable customers to be informed about upcoming Westfield events, activities and promotions, both in centre and as part of the Westfield's other activities, and sponsor and retailer promotions, and other activities which will be notified to customers as they sign in to use those facilities.</li>
-      <li>When customers purchase Westfield Gift Cards or are provided with Westfield Insurance Cards, they may provide Westfield with their contact details. These details are used for card fulfilment purposes and, if customers opt in, to contact customers about Westfield events, activities and promotions, both in centre and as part of the Westfield's other activities.</li>
+      <li>When customers purchase or redeem Westfield Gift Cards or are provided with Westfield Insurance Cards, they may provide Westfield with their contact details. These details are used for card fulfilment purposes and, if customers opt in, to contact customers about Westfield events, activities and promotions, both in centre and as part of the Westfield's other activities.</li>
       <li>Where donations are made to Westfield Charity Limited or the Westfield Charities Fund by cheque, contact details of customers may be collected to verify the payer details or notify payers if the cheque is not able to be processed.</li>
     </ul>
 
     <p>In addition to the purposes set out above, this information may be used by Westfield in connection with the management and security of the Westfield shopping centres generally, and may be provided to law enforcement and government bodies, insurers, Westfield staff and subcontractors, third parties who provide Westfield with services from time to time and retailers for these purposes.</p>
 
-    <p>Additionally, Westfield also conducts certain online activities through the Westfield Online site. The collection of personal information through these activities and information associated with the Westfield Online site is dealt with in the Westfield Online Privacy Policy, which can be found in the <a href="#online-privacy-policy">Westfield Online Privacy Policy</a> section.</p>
+    <p>Additionally, Westfield also conducts certain online activities through the Westfield websites, and associated sites managed by members of the Westfield Group. The collection of personal information through these activities and information associated with the Westfield websites is dealt with in the Westfield Online Privacy Policy, which can be found <a href="#online-privacy-policy">below</a>.</p>
 
     <h4>Retailers</h4>
 
-    <p>Westfield collects the following types of personal information from unincorporated retailers and guarantors during negotiations for, and during the term of, the lease/licence for premises and kiosks at Westfield shopping centres:</p>
+    <p>Westfield may collect the following type of personal information from unincorporated retailers, guarantors and other individuals related to retailers during negotiations for, and during the term of, the lease/licence for premises, kiosks and other activations at Westfield shopping centres:</p>
 
-    <ul>
+    <ul class="list">
+      <li>name, address and date of birth;</li>
       <li>contact and insurance details;</li>
       <li>ABNs;</li>
       <li>information as to retailers' financial standing and retailing experience; and</li>
       <li>other financial and trading information</li>
     </ul>
 
-    <p>Westfield requires this information to evaluate whether the relevant centre owner should enter into a lease or licence with the retailer; to assist Westfield in the management of their relationship; and to monitor the performance of the centre. Occasionally, the information may also be made available to others in connection with any transactions involving the ownership of the centre.</p>
+    <p>Westfield requires this information to evaluate whether the relevant centre owner should enter into a lease, licence or other agreement with a retailer; to assist Westfield in the preparation of that document; to manage Westfield’s relationship with retailers; in connection with the management and security of the Westfield shopping centres and in order to monitor the performance of the shopping centre. Occasionally, the information may also be made available to others in connection with these activities, in order for those people to provide services to Westfield or as required by law, as well as to third parties in connection with any transactions involving the ownership of the centre.</p>
 
     <p>If the retailer provides Westfield with direct debit or direct credit details, Westfield will only disclose those details to Westfield's bank to facilitate the provision of that service.</p>
 
-    <p>Additionally, as noted above Westfield shopping centres are under video and camera surveillance. When entering Westfield shopping centres, the personal information and images of retailers and their staff may be collected by Westfield. This information may be used by Westfield in connection with the management and security of the Westfield shopping centres and may be provided to law enforcement and government bodies, insurers, Westfield staff and subcontractors, third parties who provide Westfield with services from time to time and other retailers for those purposes.</p>
+    <p>Additionally, as noted above Westfield shopping centres are under video and camera surveillance. When entering Westfield shopping centres, the personal information and images of retailers and their staff may be collected by Westfield. This information may be used by Westfield in connection with the management and security of the Westfield shopping centres and may be provided to law enforcement and government bodies, insurers, Westfield staff and subcontractors, third parties who provide Westfield with services from time to time and other retailers for those purposes. This information is held securely and in a format which is access controlled, unless it is necessary to use this information for these purposes.</p>
 
     <h4>Securityholders</h4>
 
-    <p>Westfield maintains securityholder registers through an external service provider, currently Computershare Investor Services Pty Limited. Westfield requires Computershare to comply with the National Privacy Principles when performing these services.</p>
+    <p>Westfield maintains securityholder registers through an external service provider, currently Computershare Investor Services Pty Limited. Westfield requires Computershare to comply with the requirements of the Privacy Act 1988 (Cth) when performing these services.</p>
 
     <p>Personal information collected from securityholders (being members of the Westfield Group (ASX code: WDC) and Carindale Property Trust (ASX code: CPD) includes: contact, bank account and securityholding details and tax file numbers.</p>
 
-    <p>This information is used to carry out registry functions such as payment of distributions, sending annual and half yearly reports, notices of meetings or newsletters and notifications to the Australian Tax Office.</p>
+    <p>This information is used to carry out registry functions such as payment of distributions, sending annual and half yearly reports, notices of meetings or newsletters and notifications to the Australian Tax Office. More information on Computershare’s privacy policy can be found at <a href="http://www.computershare.com/au/help/Pages/privacy-policies.aspx">www.computershare.com/au/help/Pages/privacy-policies.aspx</a>.</p>
+
+    <h4>Suppliers</h4>
+
+    <p>If you, or a company you work for, supplies goods or services to Westfield, Westfield may collect personal information about you in connection with the provision of those goods or services, either directly from you or from that company.  This information may include your name, date of birth, contact information, and any other information you provide, or provided on your behalf, as part of our induction and compliance processes. This information will be used for the purposes of managing the provision of those good or services.</p>
+
+    <h4>Employees</h4>
+
+    <p>If you are employed by a member of the Westfield Group, Westfield may collection personal information about you in connection with your employment.  This information may include your name, date of birth, contact information, and any other information you provide, or provided on your behalf, as part of our induction and compliance processes. This information will be used for the purposes of managing your employment, in accordance with the requirements of the Privacy Act 1988 (Cth). You need to ensure this information is up to date, in accordance with Westfield’s policies and procedures.</p>
+
+    <h4>Unsolicited Information</h4>
+
+    <p>If we receive personal information about you that we did not ask for either directly from you, from someone on your behalf, or through someone on our behalf, and we determine that we could have collected this information from you had we asked for it, we will take reasonable steps to notify you, as soon as practicable, that we have collected your personal information. If we could not have collected this personal information, we will lawfully de-identify or destroy that personal information. Any unsolicited information provided by you, someone on your behalf or someone on our behalf, will be used for the purposes for which it was provided.</p>
+
+    <h3>Other information we collect</h3>
+
+    <p>We may also collect the following information from you:</p>
+
+    <ul class="list">
+      <li>where devices are able to connect to, or are identifiable by, in-centre infrastructure, we may collect data including usage, location and type of device, from those devices, and other data which users consent to us collecting from time to time;</li>
+      <li>the fully qualified domain name from which you accessed our websites, or alternatively, your IP address;</li>
+      <li>the date and time you accessed each page on our websites;</li>
+      <li>the URL of any webpage from which you accessed our websites (the referrer);</li>
+      <li>cookies which track your visits to the our web sites; and</li>
+      <li>the web browser that you are using and the pages you accessed.</li>
+    </ul>
+
+    <p>We use this information so that we can tell which pages are the most popular and where shoppers spend most of their time. We use this information to improve our website. If this information is linked with personal information we hold about you as set out above, this information becomes personal information and will be treated in the same manner as the personal information to which it has been linked.</p>
 
     <h3>Who collects the information</h3>
 
     <p>Personal information collected about individuals (as described above) may be collected by, or on behalf of:</p>
 
-    <ul>
+    <ul class="list">
       <li>members of the Westfield Group; and</li>
       <li>the owners of the Australian Westfield shopping centres.</li>
     </ul>
 
-    <p>Information may also be collected by Westfield on behalf of other people as set out in notices given to customers, or consents given by customers, at or prior to the time the personal information is collected.</p>
+    <p>Information may also be collected by Westfield on behalf of other people as set out in notices given to individuals, or consents given by individuals, at or prior to the time the personal information is collected.</p>
 
-    <h3>How your personal information is stored</h3>
+    <h3>How your personal information is stored and kept secure</h3>
 
-    <p>All personal information collected by Westfield is held securely, whether on Westfield's physical files, in Westfield's computer systems or in a database. This information is only made available to Westfield staff on a 'need to know' basis or to other people as outlined in this policy, who have agreed to treat that information confidentially. The database is protected by a firewall as well as host-based security. Your personal information may be transmitted over the Internet once it has been stored in the database and may also be transferred across borders to foreign countries, where doing so is part of Westfield’s business practices relating to the storage of data and where permitted by law. If Westfield ever has a requirement to transmit such data over the Internet (for example, to make an off-site back up) it will be in encrypted form.</p>
+    <p>All personal information collected by Westfield is held securely, whether on Westfield's physical files, in Westfield's computer systems or in a database (which may be hosted by Westfield or a third party on Westfield’s behalf). This information is only made available to Westfield staff on a 'need to know' basis or to other people as outlined in this policy who have agreed to treat that information confidentially. These databases are protected by a firewall as well as host-based security. Your personal information may be transmitted over the Internet once it has been stored in a database and may also be transferred across borders to recipients in foreign countries, including New Zealand, the United States of America and United Kingdom, and may be stored on servers, using databases or via cloud technology in a number of countries other than Australia, including regions such as the Americas, the European Union and Asia, where doing so is part of Westfield’s ordinary business practices relating to the storage of data and where permitted by law.</p>
+
+    <p>If Westfield ever has a requirement to transmit such data over the Internet (for example, to make an off-site back up) it will be in encrypted form. By providing us with your personal information, you consent to these transfers.</p>
 
     <p>Securityholder information is held by the registry in accordance with registry arrangements which require such information to be held securely.</p>
+
+    <p>We will use all reasonable endeavours to keep your personal information in a secure environment, however, this security cannot be guaranteed due to the nature of the internet. These measures are designed to assist in your personal information not being accessed by unauthorised personnel, lost or misused. If you reasonably believe that there has been unauthorised use or disclosure of your personal information please contact us <a href="#westfield-contact">(see below)</a>.</p>
+
+    <p>All reasonable steps are taken by us to ensure that your personal information held by us is accurate, complete and up to date. If you believe that any of your personal information is inaccurate, please contact us <a href="#westfield-contact">(see below)</a> and we will take all reasonable steps to correct it within a reasonable timeframe.</p>
 
     <h3>Disclosing your personal information</h3>
 
     <p>We understand how important it is to keep your personal information private, so we will disclose personal information we have about you only in certain specific circumstances, when:</p>
 
-    <ul>
+    <ul class="list">
       <li>you agree to the disclosure;</li>
       <li>we use it for the purposes we collected it; or</li>
       <li>disclosure is required or authorised by law.</li>
@@ -451,7 +611,7 @@
 
     <p>To the extent permitted by law, we may also disclose information about you to:</p>
 
-    <ul>
+    <ul class="list">
       <li>related companies for marketing purposes;</li>
       <li>the owners of the shopping centres managed by members of the Westfield Group from time to time;</li>
       <li>third parties who provide services to Westfield from time to time;</li>
@@ -466,54 +626,13 @@
 
     <p>If you wish to access, update or correct your personal information held by us, please contact our Privacy Officer, whose details appear below, or your relevant shopping centre manager.</p>
 
-    <h3>Other information we collect</h3>
-
-    <p>We may also collect the following information from you:</p>
-
-    <ul>
-      <li>where devices are able to connect to, or are identifiable by, in-centre infrastructure, we may collect data including usage, location and type of device, from those devices, and other data which users consent to us collecting from time to time;</li>
-      <li>the fully qualified domain name from which you accessed our website, or alternatively, your IP address;</li>
-      <li>the date and time you accessed each page on our web site;</li>
-      <li>the URL of any webpage from which you accessed our site (the referrer);</li>
-      <li>cookies which track your visits to the Site; and</li>
-      <li>the web browser that you are using and the pages you accessed.</li>
-    </ul>
-
-    <p>We use this information so that we can tell which pages are the most popular and where shoppers spend most of their time. We use this information to improve our website.</p>
-
-    <h3>Changes to our privacy policy</h3>
-
-    <p>This privacy policy relates to our current privacy standards. We may vary our privacy policy from time to time. We will notify you of any changes by publishing the latest policy from time to time at http://westfield.com.au/privacy-policy.</p>
-
-    <p>Westfield also has a specific privacy policy tailored to its internet operations that can be viewed below.</p>
-
-    <h3>Further information regarding Australian Privacy Legislation</h3>
-
-    <p>If you would like further information relating to the Australian Privacy Legislation and the National Privacy Principles, please visit <a href="http://www.privacy.gov.au" rel="external" target="_blank">www.privacy.gov.au</a>.</p>
-
-    <h3>Westfield Contact</h3>
-
-    <p>Please contact Westfield's Privacy Officer or your centre manager if you believe:</p>
-
-    <ul>
-      <li>someone has gained access to your personal information by mistake;</li>
-      <li>we have breached our privacy obligations or your privacy rights in any way; or</li>
-      <li>you would like to discuss any issues about our privacy policy.</li>
-    </ul>
-
-    <p>You can contact Westfield's Privacy Officer on (ph) <a href="tel:(02)93587000">02 9358 7000</a>, via email at <a href="mailto:privacy@au.westfield.com">privacy@au.westfield.com</a>, or in writing to: Privacy Officer, Westfield Group, Level 30, 85 Castlereagh Street, Sydney, NSW 2000.</p>
-
     <h2 id="online-privacy-policy">Westfield Online Privacy Policy</h2>
-
-    <h3>Your Privacy</h3>
-
-    <p>Westfield recognises the trust you are placing in us through your dealings with us. We are committed to the protection of your personal information. Our policies comply with our legal obligations and are intended to protect your privacy in respect of any personal information that you may provide to us.</p>
 
     <h3>What information we collect and why</h3>
 
-    <p>When you become a registered user of Westfield Online (Site), including when you use services offered by the Site, subscribe to Westfield's Email Newsletters service or shop with Participating Retailers, we ask for:</p>
+    <p>When you become a registered user of westfield.com.au, or an associated site (<strong>Site</strong>), including when you use services offered by the Site, subscribe to Westfield's Email Newsletters service or shop with Participating Retailers, we may ask for:</p>
 
-    <ul>
+    <ul class="list">
       <li>your name;</li>
       <li>your email address; and</li>
       <li>in certain circumstances, your telephone number, address or credit card details.</li>
@@ -521,11 +640,12 @@
 
     <p>On the Site we invite you to:</p>
 
-    <ul>
+    <ul class="list">
       <li>view Products from Participating Retailers;</li>
       <li>shop with Participating Retailers;</li>
       <li>set up a membership of the Site;</li>
       <li>subscribe to Westfield's Email Newsletters;</li>
+      <li>purchase Westfield Gift Cards and activate Westfield Insurance Cards;</li>
       <li>submit your Resume to us for consideration of job vacancies; and</li>
       <li>tell us about your shopping experiences at Westfield by completing a customer service survey.</li>
     </ul>
@@ -535,13 +655,22 @@
 
     <p>The Customer Service Survey that you complete will be used to help us improve our services at Westfield centres, or to improve our Site.</p>
 
-    <p>If you place an order with a Participating Retailer, we may also ask for additional information (such as a copy of your driver’s licence, passport or utility bill) to verify your identity before your order is processed. We update the information we hold about you, for example, your Resume, when you provide or we receive new information about you.</p>
+    <p>We update the information we hold about you, for example, your Resume, when you provide or we receive new information about you.</p>
 
-    <h3>Who collects the information</h3>
+    <h3>Other information we collect</h3>
 
-    <p>The information collected about you which is held or used in connection with this site may be collected by members of the Westfield Group, comprising Westfield Holdings Limited ABN 66 001 671 496, Westfield Management Limited ABN 41 001 670 579 (as responsible entity of Westfield Trust), Westfield America Management Limited ABN 66 072 780 619 as responsible entity of Westfield America Trust) and their respective controlled entities.</p>
+    <p>We may also collect the following information during your visit to the Site and to the websites of Participating Retailers:</p>
 
-    <p>We refer to each of these people in this policy as "us", "we" or "Westfield".</p>
+    <ul class="list">
+      <li>the fully qualified domain name from which you accessed our Site, or alternatively, your IP address;</li>
+      <li>the date and time you accessed each page on our Site;</li>
+      <li>the URL of any webpage from which you accessed our Site (the referrer);</li>
+      <li>cookies which track your visits to the Site;</li>
+      <li>the web browser that you are using and the pages you accessed; and</li>
+      <li>detail of the purchases you make on the websites of Participating Retailers.</li>
+    </ul>
+
+    <p>We use this information so that we can tell which pages are the most popular and where shoppers spend most of their time. We use this information to improve our site. If this information is linked with personal information we hold about you as set out above, this information becomes personal information and will be treated in the same manner as the personal information to which it has been linked.</p>
 
     <h3>How your information is stored</h3>
 
@@ -555,7 +684,7 @@
 
     <h3>Advertisers and Partners on Westfield Websites</h3>
 
-    <p>Westfield may allow advertising, on its Site from time to time. Once you have clicked on an advertisement and have left the Site, our privacy policy no longer applies. You must read the privacy policy of the advertiser or subsequently visited site to see how your personal information will be handled on those sites. In addition, many business advertisements may be managed and placed on our Site by third-party companies. These "network advertisers" collect non-personal information when you click on or scan one of their banner advertisements. The information is collected using technology, so you may not realise it is being collected. The network advertisers collect this information so that they may show you ads that are more relevant or interesting to you.</p>
+    <p>Westfield may allow advertising on its Site from time to time. Once you have clicked on an advertisement and have left the Site, our privacy policy no longer applies. You must read the privacy policy of the advertiser or subsequently visited site to see how your personal information will be handled on those sites. In addition, many business advertisements may be managed and placed on our Site by third-party companies. These "network advertisers" collect non-personal information when you click on or scan one of their banner advertisements. The information is collected using technology, so you may not realise it is being collected. The network advertisers collect this information so that they may show you ads that are more relevant or interesting to you.</p>
 
     <p>On occasion the Site may also provide content that is created by a third-party partner website. In some instances the third-party sites will collect information in order to facilitate the transaction or to make the use of their content more productive and efficient. In these circumstances the information collected is shared between Westfield and our third-party sponsors.</p>
 
@@ -563,7 +692,7 @@
 
     <p>We understand how important it is to keep your personal information private, so we will disclose personal information we have about you only in certain specific circumstances, when:</p>
 
-    <ul>
+    <ul class="list">
       <li>you agree to the disclosure;</li>
       <li>we use it for the purposes we collected it; or</li>
       <li>disclosure is required or authorised by law.</li>
@@ -571,55 +700,42 @@
 
     <p>We may also disclose information about you to:</p>
 
-    <ul>
+    <ul class="list">
       <li>related companies for marketing purposes;</li>
       <li>the owners of the shopping centres managed by members of the Westfield Group from time to time; where you place an order to purchase goods or services from Participating Retailers, to Participating Retailers or their agents (such as financial institutions or our courier companies);</li>
       <li>third parties who provide services to Westfield from time to time; and</li>
-      <li>government agencies as part of our statutory obligations</li>
+      <li>law enforcement and government agencies as required from time to time.</li>
     </ul>
-
-    <h3>Other information we collect</h3>
-
-    <p>We may also collect the following information during your visit to the Site and to the websites of Participating Retailers:</p>
-
-    <ul>
-      <li>the fully qualified domain name from which you accessed our Site, or alternatively, your IP address;</li>
-      <li>the date and time you accessed each page on our Site;</li>
-      <li>the URL of any webpage from which you accessed our Site (the referrer);</li>
-      <li>cookies which track your visits to the Site;</li>
-      <li>the web browser that you are using and the pages you accessed; and</li>
-      <li>detail of the purchases you make on the websites of Participating Retailers.</li>
-    </ul>
-
-    <p>We use this information so that we can tell which pages are the most popular and where shoppers spend most of their time. We use this information to improve our site.</p>
 
     <h3>Junk mail or unsolicited email</h3>
 
-    <p>You will only receive emails from westfield.com if:</p>
+    <p>You will only receive emails from Westfield if:</p>
 
-    <ul>
-      <li><strong>You subscribe to our Email Newsletters service.</strong> Our Email Newsletters will keep you informed of the latest offers, current promotions and specials at the centre(s) of your choice and also Media Releases, Annual Reports and Financial Reports from the Westfield Corporate site. If you no longer wish to receive Email Newsletters, you may unsubscribe by logging into the Site and deselecting your choices from Email Newsletters.</li>
-      <li><strong>A friend nominates you to receive a page from the Westfield Site.</strong> The email will be sent to you on behalf of your friend. You will not receive subsequent e-mails from us, because Westfield will not record your e-mail address.</li>
-      <li><strong>You request information about our services when you choose to contact us.</strong> You will not be added to a mailing list of any kind and will only receive e-mail in the matter that you have contacted us about.</li>
-      <li><strong>You provide your details and request that we contact you</strong> when you send us your Resume or when you complete our Customer Service Survey.</li>
+    <ul class="list">
+      <li><strong>You subscribe to our Email Newsletters service.</strong> Our Email Newsletters will keep you informed of the latest offers, current promotions and specials at the centre(s) of your choice and also Media Releases, Annual Reports and Financial Reports from the Westfield Corporate site. If you no longer wish to receive Email Newsletters, you may unsubscribe by logging into the Site and deselecting your choices from Email Newsletters;</li>
+      <li><strong>A friend nominates you to receive a page from the Westfield Site.</strong> The email will be sent to you on behalf of your friend. You will not receive subsequent e-mails from us, because Westfield will not record your e-mail address;</li>
+      <li><strong>You request information about our services when you choose to contact us.</strong> You will not be added to a mailing list of any kind and will only receive e-mail in the matter that you have contacted us about;</li>
+      <li><strong>You provide your details and request that we contact you</strong> when you send us your Resume or when you complete our Customer Service Survey or</li>
+      <li>They are otherwise relevant to the reasons for which we hold your email address, where we are permitted to do so by law.</li>
     </ul>
 
     <h3>What is a cookie and what are they used for?</h3>
 
-    <p>A cookie is a text file placed into the memory of your computer by our computers. A copy of this text file is sent by your computer whenever it communicates with westfield.com. Westfield uses cookies to identify you between multiple visits, to better understand how westfield.com is used, and to provide you information which may be of interest to you based on your previous visits to westfield.com and to provide targeted advertising to you (including through adservers and other third party advertisers) when you visit westfield.com and certain other websites where advertising is found from time to time. We may provide the information we gather from cookies to third parties for these purposes and for
-    other purposes connected with westfield.com. If you do not want adservers or other third party advertisers to use cookies to provide you with targeted advertising, we suggest you use an opt out mechanism which can be found on:</p>
+    <p>A cookie is a text file placed into the memory of your computer by our computers. A copy of this text file is sent by your computer whenever it communicates with westfield.com.au. Westfield uses cookies to identify you between multiple visits, to better understand how westfield.com.au is used, and to provide you information which may be of interest to you based on your previous visits to westfield.com.au and to provide targeted advertising to you (including through adservers and other third party advertisers) when you visit westfield.com.au and certain other websites where advertising is found from time to time. We may provide the information we gather from cookies to third parties for these purposes and for other purposes connected with westfield.com.au. If cookie information is linked with personal information we hold about you as set out above, this cookie information becomes personal information and will be treated in the same manner as the personal information to which it has been linked. If you do not want adservers or other third party advertisers to use cookies to provide you with targeted advertising, we suggest you use an opt out mechanism which can be found on:</p>
 
-    <ul>
+    <ul class="list">
       <li>the Network Advertising Initiative opt-out provided through <a href="http://www.networkadvertising.org/choices/DAA" rel="external" target="_blank">http://www.networkadvertising.org/choices/DAA</a>;</li>
       <li>the Digital Advertising Alliance opt-out provided through <a href="http://www.aboutads.info/choices/" rel="external" target="_blank">http://www.aboutads.info/choices/</a>; or</li>
       <li>the Interactive Advertising Bureau (EU) opt-out provided through <a href="http://www.youronlinechoices.eu" rel="external" target="_blank">http://www.youronlinechoices.eu</a>.</li>
     </ul>
 
+    <h2>General</h2>
+
     <h3>Tips on sending us information</h3>
 
     <p>While we do all we can to guard your privacy, no data transfer over the Internet is 100% secure. When you share your information with us, it is at your own risk. There are ways you can help maintain the secrecy of your information:</p>
 
-    <ul>
+    <ul class="list">
       <li>always close your browser when you have finished your user session; and</li>
       <li>ensure others cannot access your personal information and emails if you use a public computer.</li>
     </ul>
@@ -628,7 +744,7 @@
 
     <p>Please contact us by email or by phone, if you believe:</p>
 
-    <ul>
+    <ul class="list">
       <li>someone has gained access to your personal information by mistake</li>
       <li>we have breached our privacy obligations or your privacy rights in any way</li>
       <li>you would like to discuss any issues about our privacy policy.</li>
@@ -636,32 +752,53 @@
 
     <p>We will try to satisfy any privacy questions that you have and correct any errors on our part. If you still have concerns please contact our Privacy Officer by email on <a href="mailto:privacy@au.westfield.com">privacy@au.westfield.com</a>, or phoning <a href="tel:(+612)93587000">(+61 2) 9358 7000</a>.</p>
 
-    <h3>Changes to our Privacy Statement</h3>
+    <h3>Changes to our privacy policy</h3>
 
-    <p>This privacy policy relates to our current privacy standards. We may vary our privacy policy from time to time. We will notify you of any changes by publishing the latest policy from time to time on our Site.</p>
+    <p>This privacy policy relates to our current privacy standards. We may vary our privacy policy from time to time. We will notify you of any changes by publishing the latest policy from time to time at <a href="http://westfield.com.au/privacy-policy">www.westfield.com.au/privacy-policy</a>.</p>
+
+    <h3>Further information regarding Australian Privacy Legislation</h3>
+
+    <p>If you would like further information relating to the Australian Privacy Legislation and the Australian Privacy Principles, please visit <a href="http://www.privacy.gov.au">www.privacy.gov.au</a>.</p>
+
+    <h3 id="westfield-contact">Westfield Contact</h3>
+
+    <p>Please contact Westfield's Privacy Officer or your centre manager if you believe:</p>
+
+    <ul class="list">
+      <li>someone has gained access to your personal information by mistake;</li>
+      <li>we have breached our privacy obligations or your privacy rights in any way; or</li>
+      <li>you would like to discuss any issues about our privacy policy.</li>
+    </ul>
+
+    <p>You can contact Westfield's Privacy Officer on (ph) <a href="tel:(02)93587000">02 9358 7000</a>, via email at <a href="mailto:privacy@au.westfield.com">privacy@au.westfield.com</a>, or in writing to: Privacy Officer, Westfield Group, Level 30, 85 Castlereagh Street, Sydney, NSW 2000.</p>
   </div>
 </div>
+
 </article>
 
 
 	</div>
+
 </main>
 
 
 
   <button type="button" class="btn btn--site-feedback js-btn-site-feedback">
-    <span class="icon icon--megaphone icon--xlrg icon--flush-top" aria-hidden="true"></span><!--
+    <span class="icon icon--megaphone icon--lrger icon--flush-top" aria-hidden="true"></span><!--
     --><span class="btn--site-feedback__lbl">Give&nbsp;feedback</span>
   </button>
 
   <script>
 //<![CDATA[
-window.westfield = {};westfield.meta={"page_title":"Westfield Australia | Shopping Centres in NSW, QLD, VIC, SA \u0026 WA","description":"Find the best in retail, dining, leisure and entertainment at one of our centres across Australia, shop online or buy a gift card today","hide_social_share":true};
+window.westfield = {};westfield.centre_id=null;westfield.meta={"is_error_page":"false","social_image":"social-share-logo.png","error_code":"","page_title":"Westfield Australia | Shopping Centres in NSW, QLD, VIC, SA \u0026 WA","description":"Find the best in retail, dining, leisure and entertainment at one of our centres across Australia, shop online or buy a gift card today","hide_social_share":true};
 //]]>
 </script>
-<script src="/assets/application-4c790e273431e086ae3c406ee2124eb1.js"></script>
 
-      <script>
+  <script src="/assets/application-c31b5e7b315e8994807fdc959361a651.js"></script>
+
+  
+
+        <script>
       var utag_data = westfield.meta;
       (function(a,b,c,d)
       { a='//tags.tiqcdn.com/utag/westfield/wfieldau/prod/utag.js'; b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true; a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a); }
@@ -669,18 +806,7 @@ window.westfield = {};westfield.meta={"page_title":"Westfield Australia | Shoppi
       </script>
 
 
-<script type="text/javascript">if (typeof NREUMQ !== "undefined") { if (!NREUMQ.f) { NREUMQ.f=function() {
-NREUMQ.push(["load",new Date().getTime()]);
-var e=document.createElement("script");
-e.type="text/javascript";
-e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" +
-  "js-agent.newrelic.com/nr-100.js";
-document.body.appendChild(e);
-if(NREUMQ.a)NREUMQ.a();
-};
-NREUMQ.a=window.onload;window.onload=NREUMQ.f;
-};
-NREUMQ.push(["nrfj","beacon-3.newrelic.com","4853f3fcc8","2287701","dl9aEUNeDg9VQU0UWVJVR0pBQwsVUVAbO0haXF0GSA==",0,350,new Date().getTime(),"","","","",""]);}</script>
 
 
-<script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
+
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
