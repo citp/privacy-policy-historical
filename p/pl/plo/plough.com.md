@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the plough.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202040550id_/http%3A//www.plough.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plough.com privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616050811id_/http%3A//www.plough.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Plough Privacy Policy
 
-**Plough.com values the privacy of our visitors and customers** and takes reasonable measures to safeguard this information from unauthorized use. This notice describes our privacy policy. By visiting Plough.com you are accepting the practices described in this privacy policy.
+**Plough values the privacy of our visitors and customers** and takes reasonable measures to safeguard this information from unauthorized use. This notice describes our privacy policy. By visiting Plough.com you are accepting the practices described in this privacy policy.
 
 #### 1\. What information does this privacy policy cover?
 
@@ -38,17 +38,17 @@ With regard to personal information that you have provided under this privacy po
 
 Disabling Cookies: You have the option of disabling your computer's ability to accept or transmit cookies. This will prevent us from gathering certain nonpersonally identifiable information from your computer.
 
-Third Parties: Plough.com will NOT share your personal information with third parties.
+Third Parties: Plough will NOT share your personal information with third parties.
 
-E-mails from Plough.com: You may choose to opt-out of receiving e-mail notification of any new products, promotional materials or service that we are offering. 
+E-mails from Plough: You may choose to opt-out of receiving e-mail notification of any new products, promotional materials or service that we are offering. 
 
 #### 6\. Children
 
-Plough.com does not sell products for purchase by children. If you are under 18, you may use Plough.com only with the involvement of a parent or guardian.
+Plough does not sell products for purchase by children. If you are under 18, you may use Plough.com only with the involvement of a parent or guardian.
 
 #### 7\. External links
 
-By selecting any external link on Plough.com, you will leave the Plough.com website and jump to an unaffiliated third party website that may offer a different privacy policy and level of security. The third party is responsible for website content and system availability. Plough.com does not offer, endorse, recommend, or guarantee any information, product, or service available on that entity's website.
+By selecting any external link on Plough.com, you will leave the Plough.com website and jump to an unaffiliated third party website that may offer a different privacy policy and level of security. The third party is responsible for website content and system availability. Plough does not offer, endorse, recommend, or guarantee any information, product, or service available on that entity's website.
 
 #### 8\. How will you know if we amend this privacy policy? 
 
