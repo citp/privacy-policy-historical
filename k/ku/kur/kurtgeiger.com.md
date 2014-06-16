@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kurtgeiger.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215024817id_/http%3A//www.kurtgeiger.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kurtgeiger.com privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616161543id_/http%3A//www.kurtgeiger.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Kurt Geiger | Cookies & Privacy
 
