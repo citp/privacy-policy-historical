@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ldoceonline.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217173649id_/http%3A//www.pearsoned.co.uk/Privacynotice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ldoceonline.com privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616102707id_/http%3A//www.pearsoned.co.uk/Privacynotice) for the most accurate reproduction.*
 
 # Pearson - Privacy notice
 
