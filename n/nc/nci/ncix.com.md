@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ncix.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214233315id_/http%3A//www.ncix.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncix.com privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616042134id_/http%3A//www.ncix.com/privacy) for the most accurate reproduction.*
 
 # NCIX.com - Canada's Premier Computer Store - Online PC Discount Store, Buy Computer Accessories
 
-**NCIX.com is committed to protecting your privacy.** This privacy policy describes our practices regarding personal and account information collected through our Web site. In this policy, â€œpersonal and account informationâ€ means your name, company name, account number, address, telephone number, and e-mail address plus other information that identifies you, including your industry, the number of employees at your company, and purchase history, and â€œweâ€ and â€œusâ€ means NCIX.com as well as its affiliated companies. 
+**NCIX.com is committed to protecting your privacy.** This privacy policy describes our practices regarding personal and account information collected through our Web site. In this policy, “personal and account information” means your name, company name, account number, address, telephone number, and e-mail address plus other information that identifies you, including your industry, the number of employees at your company, and purchase history, and “we” and “us” means NCIX.com as well as its affiliated companies. 
 
 **What information we collect and your privacy:**
 
@@ -20,7 +20,7 @@
 
 **When you make purchases through our Web site**
 
-We collect your name, address and payment information to process your order. However, you may provide credit card and purchase order numbers by telephone. We collect information contained in â€œcookies,â€ such as your purchases and log in data, to personalize your shopping experience. Your browser must be set to accept cookies if you wish to add items to a shopping cart, PC Builder or our on-line wish list. 
+We collect your name, address and payment information to process your order. However, you may provide credit card and purchase order numbers by telephone. We collect information contained in “cookies,” such as your purchases and log in data, to personalize your shopping experience. Your browser must be set to accept cookies if you wish to add items to a shopping cart, PC Builder or our on-line wish list. 
 
 **When you create an E-Account on our Web site**
 
@@ -50,7 +50,7 @@ We restrict access to your personal and account information to those who need ac
 
 **How do you protect my personal and account information?**
 
-We use 128-bit encryption technology and Secure Socket Layers (â€œSSLâ€) in all areas where your personal and account information is required. Our Web site is certified by VeriSign, which verifies that our Web site is authentic and that we use SSL security. To view our VeriSign certificate, click on the image of the closed lock or the solid key at the bottom of your browser window. Our Web site security information will appear.
+We use 128-bit encryption technology and Secure Socket Layers (“SSL”) in all areas where your personal and account information is required. Our Web site is certified by VeriSign, which verifies that our Web site is authentic and that we use SSL security. To view our VeriSign certificate, click on the image of the closed lock or the solid key at the bottom of your browser window. Our Web site security information will appear.
 
 In addition, your personal and account information and transaction history are kept behind our firewall on separate servers. All transaction information is processed under encrypted channels, although you may choose unencrypted processing. 
 
