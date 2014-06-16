@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the hippoblue.com.au privacy policy that was archived on 2013-11-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131113092635id_/http%3A//www.hippoblue.com.au/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hippoblue.com.au privacy policy that was archived on 2014-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140616213119id_/http%3A//www.hippoblue.com.au/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+<script type="text/javascript" async="" src="http://google-analytics.com/ga.js"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Privacy &amp; Security</title>
 <meta name="description" content="Default Description">
@@ -71,27 +71,40 @@ Mage.Cookies.domain   = '.www.hippoblue.com.au';
 optionalZipCountries = ["AU"];
 //]]>
 </script>
-<script type="text/javascript">var Translator = new Translate({"Please use only letters (a-z or A-Z), numbers (0-9) or underscore(_) in this field, first character should be a letter.":"Please use only letters (a-z or A-Z), numbers (0-9) or underscores (_) in this field, first character must be a letter."});</script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script></head>
-<body class=" cms-page-view cms-privacy">
 
 <!-- BEGIN GOOGLE ANALYTICS CODE -->
 <script type="text/javascript">
 //<![CDATA[
-    (function() {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
-    })();
+            (function() {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;ga.src = 'http://google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+            var _gaq = _gaq || [];
 
-    var _gaq = _gaq || [];
+            _gaq.push(["_setAccount", "UA-34042776-1"], ["_trackPageview","/privacy"]);
 
-_gaq.push(['_setAccount', 'UA-34042776-1']);
-_gaq.push(['_trackPageview']);
 
+            if(Ajax.Responders){
+                Ajax.Responders.register({
+                  onComplete: function(response){
+                    if(!response.url.include("progress") && !response.url.include("getAdditional")){
+                        if(response.url.include("saveOrder")){
+                            _gaq.push(["_trackPageview", "/privacy"+ "/opc-review-placeOrderClicked"]);
+                        }else if(accordion.currentSection){
+                            _gaq.push(["_trackPageview", "/privacy/"+ accordion.currentSection]);
+                        }
+                    }
+                  }
+                });
+            }
 
 //]]>
 </script>
-<!-- END GOOGLE ANALYTICS CODE --><div class="wrapper">
+
+<!-- END GOOGLE ANALYTICS CODE -->
+<script type="text/javascript">var Translator = new Translate({"Please use only letters (a-z or A-Z), numbers (0-9) or underscore(_) in this field, first character should be a letter.":"Please use only letters (a-z or A-Z), numbers (0-9) or underscores (_) in this field, first character must be a letter."});</script><meta name="google-site-verification" content="xapFi3pp6JMSV8p1sWRvmeYiKjpdiVCTngPLOCOhSwM"></head>
+<body class=" cms-page-view cms-privacy">
+<div class="wrapper">
         <noscript>
         <div class="noscript">
             <div class="noscript-inner">
@@ -103,7 +116,7 @@ _gaq.push(['_trackPageview']);
     <div class="page">
         <div class="header-container">
     <div class="header-row"><div class="header">
-                <h1 class="logo"><strong>Hippo Blue</strong><a href="http://www.hippoblue.com.au/" title="Hippo Blue" class="logo"><img src="http://www.hippoblue.com.au/skin/frontend/base/hippo_blue/images/logo.png" alt="Hippo Blue"></a></h1>
+                <h4 style="margin: 0; padding: 73px 0 0 0;" class="logo"><strong>Hippo Blue</strong><a href="http://www.hippoblue.com.au/" title="Hippo Blue" class="logo"><img src="http://www.hippoblue.com.au/skin/frontend/base/hippo_blue/images/logo.png" alt="Hippo Blue"></a></h4>
                 <div class="quick-access">
                                    <div class="row">
             <div class="top-blue-curve">
@@ -121,7 +134,7 @@ _gaq.push(['_trackPageview']);
            </div>
            <div class="row last">
             <div class="header-banner">
-           <p><img src="https://www.hippoblue.com.au/media/wysiwyg/LabelShipping.gif" alt="Free Shipping On Purchase "></p> 
+           <p><a title="Shipping Details" href="http://www.hippoblue.com.au/shipping-information" target="_self"><img title="Orders dispatch within 1-4 business days" src="https://www.hippoblue.com.au/media/wysiwyg/WEB-PAGES/Chalkbanner1-4days.gif" alt="Free Shipping On Purchase "></a></p> 
             </div>
             <div class="header-search"><form id="search_mini_form" action="http://www.hippoblue.com.au/catalogsearch/result/" method="get">
     <div class="form-search">
@@ -151,54 +164,65 @@ _gaq.push(['_trackPageview']);
 <div class="s">
 <div class="top">
 <ul class="level0">
-<li class="level1 nav-1-1 first"> <a href="http://www.hippoblue.com.au/name-label-value-packs.html"> <span>Name Label Value Packs</span> </a></li>
-<li class="level1 nav-1-2"> <a href="http://www.hippoblue.com.au/name-label.html"> <span>ALL Labels</span> </a> </li>
-<li class="level1 nav-1-3"> <a href="http://www.hippoblue.com.au/vinyl-labels/all-name-labels.html"> <span>Vinyl Name Labels</span> </a></li>
-<li class="level1 nav-1-4 last"> <a href="http://www.hippoblue.com.au/clothing-labels/all-clothing-labels.html"> <span>Iron On Clothing Labels</span> </a> </li>
+<li class="level1 nav-1-1 first"> <a href="http://www.hippoblue.com.au/name-label.html"> <span>ALL Labels</span> </a></li>
+<li class="level1 nav-1-2"> <a href="http://www.hippoblue.com.au/gift-labels.html"> <span>NEW Gift Labels</span> </a></li>
+<li class="level1 nav-1-3"> <a href="http://www.hippoblue.com.au/name-labels-2/vinyl-pantry-labels.html"> <span>Vinyl Pantry Labels</span> </a></li>
+<li class="level1 nav-1-4"> <a href="http://www.hippoblue.com.au/name-labels-2/personalised-allergy-name-labels.html"> <span>Allergy Labels</span> </a></li>
+<li class="level1 nav-1-5"> <a href="http://www.hippoblue.com.au/name-label-value-packs.html"> <span>Name Label Value Packs</span> </a></li>
+<li class="level1 nav-1-6"> <a href="http://www.hippoblue.com.au/vinyl-labels/all-name-labels.html"> <span>Vinyl Name Labels</span> </a></li>
+<li class="level1 nav-1-7 last"> <a href="http://www.hippoblue.com.au/clothing-labels/all-clothing-labels.html"> <span>Iron On Clothing Labels</span> </a> </li>
 </ul>
 </div>
 </div>
 </li>
-<li class="item-3 level0 nav-1 level-top first parent"><a class="level-top" href="http://www.hippoblue.com.au/personalised-bags.html"><span>Bags</span></a>
+<li class="item-3 level0 nav-1 level-top first parent"><span><a class="level-top" href="http://www.hippoblue.com.au/personalised-bags.html">Kids Bags</a></span>
 <div class="s">
 <div class="top">
 <ul class="level0">
-<li class="level1 nav-1-1 first"> <a href="http://www.hippoblue.com.au/personalised-bags.html"> <span>All Bags</span> </a> </li>
-<li class="level1 nav-1-2"> <a href="http://www.hippoblue.com.au/pencil-cases.html"> <span>Pencil Cases</span> </a> </li>
-<li class="level1 nav-1-3"> <a href="http://www.hippoblue.com.au/lunch-bags.html"> <span>Lunch Bags</span> </a> </li>
-<li class="level1 nav-1-4 last"> <a href="http://www.hippoblue.com.au/kids-backpacks.html"> <span>Backpacks</span> </a> </li>
+<li class="level1 nav-1-1 first"> <a href="http://www.hippoblue.com.au/personalised-bags.html"> <span>ALL Bags</span> </a></li>
+<li class="level1 nav-1-2"> <a href="http://www.hippoblue.com.au/pencil-cases-3.html"> <span>Pencil Cases</span> </a></li>
+<li class="level1 nav-1-3"> <a href="http://www.hippoblue.com.au/lunch-bags.html"> <span>Lunch Bags</span> </a></li>
+<li class="level1 nav-1-4"><a href="http://www.hippoblue.com.au/library-bags.html"><span>Library Book Bags</span> </a></li>
+<li class="level1 nav-1-5"><a href="http://www.hippoblue.com.au/kids-backpacks.html"><span>Kids Backpacks</span> </a></li>
+<li class="level1 nav-1-6 last"> <a href="http://www.hippoblue.com.au/kids-large-backpacks.html"> <span>Large Kids Backpacks</span> </a></li>
 </ul>
 </div>
 </div>
 </li>
-<li class="item-4 level0 nav-1 level-top first parent"><a class="level-top" href="http://www.hippoblue.com.au/wall-decor/wall-stickers.html"><span>Wall Stickers</span></a> </li>
+<li class="item-4 level0 nav-1 level-top first parent"><a class="level-top" href="http://www.hippoblue.com.au/chalkboard-wall-stickers.html"><span>Chalk</span></a></li>
+<li class="item-5 level0 nav-1 level-top first parent"><a class="level-top" href="http://www.hippoblue.com.au/wall-decor/wall-stickers.html"><span>Wall Stickers</span></a></li>
 <div class="s">
 <div class="top">
 <ul class="level0">
-<li class="level1 nav-1-1 first"> <a href="http://www.hippoblue.com.au/wall-stickers.html"> <span>ALL Wall Stickers</span> </a> </li>
-<li class="level1 nav-1-2"> <a href="http://www.hippoblue.com.au/wall-stickers/wall-stickers-small.html"> <span>Small Wall Stickers</span> </a> </li>
-<li class="level1 nav-1-3"> <a href="http://www.hippoblue.com.au/wall-stickers/wall-stickers-large.html"> <span>Large Wall Stickers</span> </a> </li>
-<li class="level1 nav-1-4 last"> <a href="http://www.hippoblue.com.au/wall-stickers/wall-stickers-standard.html"> <span>Standard Wall Stickers</span> </a> </li>
+<li class="level1 nav-1-1 first"> <span>ALL Wall Stickers</span> </li>
+<li class="level1 nav-1-2"> <span>Small Wall Stickers</span> </li>
+<li class="level1 nav-1-3"> <span>Large Wall Stickers</span> </li>
+<li class="level1 nav-1-4 last"> <span>Standard Wall Stickers</span><a href="http://www.hippoblue.com.au/wall-stickers/wall-stickers-standard.html"> </a> </li>
 </ul>
 </div>
 </div>
-<li class="item-5 level0 nav-7 level-top"><a class="level-top" href="http://www.hippoblue.com.au/wall-decor/chalkboard-wall-stickers.html">Chalk</a></li>
-<li class="item-6 level0 nav-7 level-top"><a title="Height Charts" href="http://www.hippoblue.com.au/wall-decor/height-charts.html" target="_self">Height Charts</a></li>
-<li class="item-7 level0 nav-1 level-top first parent"> <a class="level-top" href="http://www.hippoblue.com.au/all-garments.html"> <span>Clothing</span></a>
+<li class="item-6 level0 nav-7 level-top"><a href="http://www.hippoblue.com.au/wall-decor/height-charts.html" target="_self">Height Charts</a> </li>
+<li class="item-7 level0 nav-1 level-top first parent"> <a class="level-top" href="http://www.hippoblue.com.au/personalised-stationery.html"> <span>Stationery</span></a>
 <div class="s">
 <div class="top">
 <ul class="level0">
-<li class="level1 nav-1-1 first"> <a href="http://www.hippoblue.com.au/all-garments.html"> <span>ALL Clothing</span> </a> </li>
-<li class="level1 nav-1-2"><a href="http://www.hippoblue.com.au/garment-page/kids-tshirts.html"><span>Kids T-shirts</span></a></li>
-<li class="level1 nav-1-3"><a href="http://www.hippoblue.com.au/garment-page/infant-clothing-pack.html"><span>Infant Clothing Pack</span> </a> </li>
-<li class="level1 nav-1-5"><a href="http://www.hippoblue.com.au/garment-page/hoodies.html"><span>Hoodies</span> </a> </li>
-<li class="level1 nav-1-6 last"><a href="http://www.hippoblue.com.au/garment-page/fathers-day-clothing.html"><span>Gifts For Dad!</span></a></li>
+<li class="level1 nav-1-1 "><a href="http://www.hippoblue.com.au/personalised-stationery/personalised-notepaper-pack.html"><span>Notepaper</span> </a></li>
+<li class="level1 nav-1-2 last"><a href="http://www.hippoblue.com.au/personalised-stationery/personalised-planners.html"><span>Calendar Planners</span> </a></li>
 </ul>
 </div>
 </div>
 </li>
-<li class="item-8 level0 nav-7 level-top"><a class="level-top" href="http://www.hippoblue.com.au/gift-shop.html">Christmas Gifts</a></li>
-<li class="item-9 level0 nav-1 level-top first parent"><a class="level-top" href="http://www.hippoblue.com.au/vinyl-labels/all-name-labels/vinyl-name-labels-pack.html"><span>Living Social</span></a></li>    </ul>
+<li class="item-8 level0 nav-1 level-top"><span style="text-decoration: underline;"><a title="Gifts 4 Mum" href="http://www.hippoblue.com.au/gifts-for-mum.html" target="_self">Gifts4Mum!</a></span></li>
+<li class="item-9 level0 nav-1 level-top first parent"><a href="http://www.hippoblue.com.au/vinyl-name-labels-pack.html" target="_self">Living Social</a> </li>
+<div class="s">
+<div class="top">
+<ul class="level0">
+<li class="level1 nav-1-1 first"> <a href="http://www.hippoblue.com.au/living-social-how-to"> <span>How-To Redeem</span> </a> </li>
+<li class="level1 nav-1-2"> <a href="http://www.hippoblue.com.au/vinyl-name-labels-pack.html"> <span>Vinyl Variety Pack</span> </a> </li>
+<li class="level1 nav-1-3 last"> <a href="http://www.hippoblue.com.au/living-social-faq"> <span>FAQ</span> </a> </li>
+</ul>
+</div>
+</div>    </ul>
 </div>
       </div>
       </div>  
@@ -242,7 +266,8 @@ _gaq.push(['_trackPageview']);
 </div>
 </div>
 </div>
-</div></div>                </div>
+</div></div><div class="widget widget-static-block"><p></p></div>
+                </div>
             </div>
         </div>
         <div class="footer-container">
@@ -257,13 +282,13 @@ _gaq.push(['_trackPageview']);
 <h3>Products</h3>
 </li>
 <li><a href="http://www.hippoblue.com.au/vinyl-labels/all-name-labels.html">Name labels</a></li>
-<li><a href="http://www.hippoblue.com.au/vinyl-labels/all-name-labels/pencil-labels-5.html">Pencil labels</a></li>
-<li><a href="http://www.hippoblue.com.au/vinyl-labels/standard-name-labels.html">Standard labels</a></li>
-<li><a href="http://www.hippoblue.com.au/vinyl-labels/large-labels.html">Large labels</a></li>
+<li><a title="Pencil Labels" href="http://www.hippoblue.com.au/product-information-name-labels" target="_self">Pencil labels</a></li>
+<li><a title="Standard Labels" href="http://www.hippoblue.com.au/product-information-name-labels" target="_self">Standard labels</a></li>
+<li><a title="Large Labels" href="http://www.hippoblue.com.au/product-information-name-labels" target="_self">Large labels</a></li>
 <li><a href="http://www.hippoblue.com.au/vinyl-labels/jumbo-labels.html">Jumbo labels</a></li>
 <li><a href="http://www.hippoblue.com.au/clothing-labels/all-clothing-labels.html">Clothing labels</a></li>
-<li><a href="http://www.hippoblue.com.au/clothing-labels/small-clothing-labels.html">Small clothing labels</a></li>
-<li><a href="http://www.hippoblue.com.au/clothing-labels/standard-clothing-labels.html">Standard clothing labels</a></li>
+<li><a title="Small Clothing Labels" href="http://www.hippoblue.com.au/product-information-clothing-labels" target="_self">Small clothing labels</a></li>
+<li><a title="Standard Clothing Labels" href="http://www.hippoblue.com.au/product-information-clothing-labels" target="_self">Standard clothing labels</a></li>
 <li><a href="http://www.hippoblue.com.au/vinyl-labels/shoe-labels.html">Shoe labels</a></li>
 <li><a href="http://www.hippoblue.com.au/height-charts/height-charts-personalised-designs.html">Height charts</a></li>
 <li><a href="http://www.hippoblue.com.au/garment-page.html">Clothing</a></li>
@@ -298,12 +323,13 @@ _gaq.push(['_trackPageview']);
 <li><a href="http://www.hippoblue.com.au/product-information">Product Information</a>&nbsp;</li>
 <li><a title="Product Instructions" href="http://www.hippoblue.com.au/product-instructions" target="_self">Product Instructions</a></li>
 <li><a href="http://www.hippoblue.com.au/shipping-information">Shipping Information</a></li>
+<li><a title="CHRISTMAS ORDER CUT OFF DATES" href="http://www.hippoblue.com.au/shipping-information" target="_self">Christmas Order Cut Off Dates</a></li>
 <li><a href="http://www.hippoblue.com.au/contact-us">Contact us</a></li>
 <li><a href="http://www.hippoblue.com.au/customer/account/login/">My Account</a></li>
 <li><a href="http://www.hippoblue.com.au/coupon-faq">Coupon code FAQ</a></li>
 <li><a href="http://www.hippoblue.com.au/Policies">Terms &amp; Conditions</a></li>
 <li><a href="http://www.hippoblue.com.au/help">Help</a></li>
-<li><a href="http://www.hippoblue.com.au/jobs-at-hippoblue" target="_self">Hippo Blue Careers</a></li>
+<li>Hippo Blue Careers</li>
 <li><a title="Cudo/Dealscom/Ouffer How To" href="http://www.hippoblue.com.au/cudo-dealscom-ouffer-how-to" target="_self">Cudo/Deals.com/Ouffer Labels Deal How-To</a></li>      </ul>
     
       
