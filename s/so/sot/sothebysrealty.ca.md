@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sothebysrealty.ca privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110111821id_/http%3A//sothebysrealty.ca/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sothebysrealty.ca privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616105854id_/http%3A//sothebysrealty.ca/en/privacy-policy) for the most accurate reproduction.*
 
 # Luxury Real Estate, Homes & Condos for Sale | Sotheby's International Realty Canada
 
