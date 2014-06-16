@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pinoytube.tv privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615012105id_/http%3A//www.pinoy-tube.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinoytube.tv privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616192408id_/http%3A//www.mypinoytubetv.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Pinoy Channel | Pinoy TV | Pinoy Movies | Filipino TV | Pinoy Tambayan
+# Privacy Policy | PinoyTUBE
 
 Privacy Policy
 
-The site you are visiting is owned and operated by Pinoy-tube.com. Your privacy on the Internet is of the utmost importance to us. At Pinoy-tube.com, we want to make your experience online satisfying and safe. Because we gather certain types of information about our users, we feel you should fully understand our policy and the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we/our partners/ advertising companies gather and how this information is used.
+The site you are visiting is owned and operated by Mypinoytubetv.com. Your privacy on the Internet is of the utmost importance to us. At Mypinoytubetv.com, we want to make your experience online satisfying and safe. Because we gather certain types of information about our users, we feel you should fully understand our policy and the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we/our partners/ advertising companies gather and how this information is used.
 
 Privacy
 
