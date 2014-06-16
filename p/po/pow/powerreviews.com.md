@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powerreviews.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222212054id_/http%3A//www.powerreviews.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerreviews.com privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616113235id_/http%3A//www.powerreviews.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PowerReviews
 
@@ -36,7 +36,7 @@ How We Use the Information We Collect
   * respond to any questions, problems or complaints, or request feedback;
   * organize the Site and Review Service to better serve you and customize or develop our products and services; and
   * send you emails pertaining to our verification process, our policies, and content that you submit.
-  * to investigate and help prevent potentially unlawful activity or activity that threatens the network or otherwise violates the [Usage Agreement](http://www.powerreviews.com/about-us/usage-agreement);
+  * to investigate and help prevent potentially unlawful activity or activity that threatens the network or otherwise violates the [Usage Agreement](http://wws.powerreviews.com/about-us/usage-agreement);
 
 
 
