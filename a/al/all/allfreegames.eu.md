@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allfreegames.eu privacy policy that was archived on 2013-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130813005858id_/http%3A//www.allfreegames.eu/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allfreegames.eu privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616134503id_/http%3A//www.allfreegames.eu/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy :: All Free Games
 
@@ -12,55 +12,69 @@
 
 |   
 ---  
-Games played today: [**363**](https://web.archive.org/web/20130813005858id_/http%3A//www.allfreegames.eu/games-played-today.html)  
+Games played today: [**5954**](https://web.archive.org/web/20140616134503id_/http%3A//www.allfreegames.eu/games-played-today.html)  
 |  | 
 
-[](https://web.archive.org/web/20130813005858id_/http%3A//www.allfreegames.eu/free-online-games-play-Coaster+Racer-15286.html)
+[](https://web.archive.org/web/20140616134503id_/http%3A//www.allfreegames.eu/free-online-games-play-GTA+Vice+City+Jigsaw-731fe8b89a3580734871026c00551302.html)
 
-| [_**Coaster Racer**_](https://web.archive.org/web/20130813005858id_/http%3A//www.allfreegames.eu/free-online-games-play-Coaster+Racer-15286.html "Coaster Racer :: Play online or download now \(53 times played today\)")  
-Race against your 16 opponents, gain nitro and use it to accelerate. Finish first and become the bes...  
+| [_**GTA Vice City Jigsaw**_](https://web.archive.org/web/20140616134503id_/http%3A//www.allfreegames.eu/free-online-games-play-GTA+Vice+City+Jigsaw-731fe8b89a3580734871026c00551302.html "GTA Vice City Jigsaw :: Play online or download now \(91 times played today\)")  
+A funny colorful jigsaw puzzle with Tommy Vercetti from the computer game GTA Vice City. Drag and dr...  
 ---|---  
 | 
 
-[](https://web.archive.org/web/20130813005858id_/http%3A//www.allfreegames.eu/free-online-games-play-Mighty+Guy+2-10007.html)
+[](https://web.archive.org/web/20140616134503id_/http%3A//www.allfreegames.eu/free-online-games-play-Driving+Test-8f599b36a513cb7f922b8ab6e71bfb68.html)
 
-| [_**Mighty Guy 2**_](https://web.archive.org/web/20130813005858id_/http%3A//www.allfreegames.eu/free-online-games-play-Mighty+Guy+2-10007.html "Mighty Guy 2 :: Play online or download now \(8 times played today\)")  
-Continue the Mighty Guy adventure by guiding him over the sea and vulcano. A great sequel in the pla...  
+| [_**Driving Test**_](https://web.archive.org/web/20140616134503id_/http%3A//www.allfreegames.eu/free-online-games-play-Driving+Test-8f599b36a513cb7f922b8ab6e71bfb68.html "Driving Test :: Play online or download now \(49 times played today\)")  
+Take your driving test! This flash game is a tutorial to prepare you for a difficult driving exam...  
 ---|---  
 | 
 
-[](https://web.archive.org/web/20130813005858id_/http%3A//www.allfreegames.eu/free-online-games-play-Fujitsu+Defender-22622.html)
+[](https://web.archive.org/web/20140616134503id_/http%3A//www.allfreegames.eu/free-online-games-play-Addicta+Kicks-15409.html)
 
-| [_**Fujitsu Defender**_](https://web.archive.org/web/20130813005858id_/http%3A//www.allfreegames.eu/free-online-games-play-Fujitsu+Defender-22622.html "Fujitsu Defender :: Play online or download now \(7 times played today\)")  
-Your main task is to protect your base against enemies. Overcome 6 levels and become the winner!  
+| [_**Addicta Kicks**_](https://web.archive.org/web/20140616134503id_/http%3A//www.allfreegames.eu/free-online-games-play-Addicta+Kicks-15409.html "Addicta Kicks :: Play online or download now \(25 times played today\)")  
+Play this ultimate soccer free kicks game. Set the angle, the power and rotation of the ball and kic...  
 ---|---  
 | 
 
-[](https://web.archive.org/web/20130813005858id_/http%3A//www.allfreegames.eu/free-online-games-play-Mancala+Snails-20128.html)
+[](https://web.archive.org/web/20140616134503id_/http%3A//www.allfreegames.eu/free-online-games-play-Fire+and+Bombs+2-11460.html)
 
-| [_**Mancala Snails**_](https://web.archive.org/web/20130813005858id_/http%3A//www.allfreegames.eu/free-online-games-play-Mancala+Snails-20128.html "Mancala Snails :: Play online or download now \(4 times played today\)")  
-Collect as many snails as possible before your opponent clears his side of snails.  
+| [_**Fire and Bombs 2**_](https://web.archive.org/web/20140616134503id_/http%3A//www.allfreegames.eu/free-online-games-play-Fire+and+Bombs+2-11460.html "Fire and Bombs 2 :: Play online or download now \(23 times played today\)")  
+A bomberman type game where you should bomb up all your opponents.  
 ---|---  
 | 
 
-[](https://web.archive.org/web/20130813005858id_/http%3A//www.allfreegames.eu/free-online-games-play-Verista+Tower+Defense-14564.html)
+[](https://web.archive.org/web/20140616134503id_/http%3A//www.allfreegames.eu/free-online-games-play-Rainbow+Collect-61b11d12c5d74d8ae66ac39dfa1e0ac3.html)
 
-| [_**Verista Tower Defense**_](https://web.archive.org/web/20130813005858id_/http%3A//www.allfreegames.eu/free-online-games-play-Verista+Tower+Defense-14564.html "Verista Tower Defense :: Play online or download now \(4 times played today\)")  
-Protect your base from nasty vikings who are trying to conquer it. Use your magic towers to fight wi...  
+| [_**Rainbow Collect**_](https://web.archive.org/web/20140616134503id_/http%3A//www.allfreegames.eu/free-online-games-play-Rainbow+Collect-61b11d12c5d74d8ae66ac39dfa1e0ac3.html "Rainbow Collect :: Play online or download now \(22 times played today\)")  
+Strategize to earn the most points in this fruit-collection task.  
 ---|---  
 | 
 
-[](https://web.archive.org/web/20130813005858id_/http%3A//www.allfreegames.eu/free-online-games-play-Airport+Madness+3-14599.html)
+[](https://web.archive.org/web/20140616134503id_/http%3A//www.allfreegames.eu/free-online-games-play-Angry+Apples-21873.html)
 
-| [_**Airport Madness 3**_](https://web.archive.org/web/20130813005858id_/http%3A//www.allfreegames.eu/free-online-games-play-Airport+Madness+3-14599.html "Airport Madness 3 :: Play online or download now \(4 times played today\)")  
-Be in charge of airplanes traffic at the airport - give orders to aircrafts when to land, when to ta...  
+| [_**Angry Apples**_](https://web.archive.org/web/20140616134503id_/http%3A//www.allfreegames.eu/free-online-games-play-Angry+Apples-21873.html "Angry Apples :: Play online or download now \(21 times played today\)")  
+You should knock down all the boxes. When all boxes fall down level will complete. Overcome 18 level...  
 ---|---  
 | 
 
-[](https://web.archive.org/web/20130813005858id_/http%3A//www.allfreegames.eu/free-online-games-play-Basement+Workshop+Escape-22615.html)
+[](https://web.archive.org/web/20140616134503id_/http%3A//www.allfreegames.eu/free-online-games-play-Villa+Crossbar+Challenge-10203.html)
 
-| [_**Basement Workshop Esca...**_](https://web.archive.org/web/20130813005858id_/http%3A//www.allfreegames.eu/free-online-games-play-Basement+Workshop+Escape-22615.html "Basement Workshop Escape :: Play online or download now \(3 times played today\)")  
-You are trapped in the room. There is no one near to help you out. Find some useful objects and hint...  
+| [_**Villa Crossbar Challen...**_](https://web.archive.org/web/20140616134503id_/http%3A//www.allfreegames.eu/free-online-games-play-Villa+Crossbar+Challenge-10203.html "Villa Crossbar Challenge :: Play online or download now \(20 times played today\)")  
+Kick the ball not into the net, but into a crossbar. Check the wind direction and use correct aiming...  
+---|---  
+| 
+
+[](https://web.archive.org/web/20140616134503id_/http%3A//www.allfreegames.eu/free-online-games-play-Crusher.-16861.html)
+
+| [_**Crusher.**_](https://web.archive.org/web/20140616134503id_/http%3A//www.allfreegames.eu/free-online-games-play-Crusher.-16861.html "Crusher. :: Play online or download now \(17 times played today\)")  
+You are the commander of the fighting tank. Overcome all obstacles and become the winner.  
+---|---  
+| 
+
+[](https://web.archive.org/web/20140616134503id_/http%3A//www.allfreegames.eu/free-online-games-play-Sponge+Bob+Basketball-22416.html)
+
+| [_**Sponge Bob Basketball**_](https://web.archive.org/web/20140616134503id_/http%3A//www.allfreegames.eu/free-online-games-play-Sponge+Bob+Basketball-22416.html "Sponge Bob Basketball :: Play online or download now \(15 times played today\)")  
+You should help Bob throw as much as possible balls in a basket and to become the winner.  
 ---|---  
   
 | 
@@ -73,4 +87,4 @@ We use third-party advertising companies to serve ads when you visit our website
 • Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
 • Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
-We supply free online browser based games for free. The games on this website are property of their respective owners. If we are hosting one of your games and you wish to have it removed please [contact us](https://web.archive.org/web/20130813005858id_/http%3A//www.allfreegames.eu/contactus.php) and we will remove it. 
+We supply free online browser based games for free. The games on this website are property of their respective owners. If we are hosting one of your games and you wish to have it removed please [contact us](https://web.archive.org/web/20140616134503id_/http%3A//www.allfreegames.eu/contactus.php) and we will remove it. 
