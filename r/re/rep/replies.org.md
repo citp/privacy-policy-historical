@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the replies.org privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231235511id_/http%3A//www.replies.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the replies.org privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616154205id_/http%3A//www.replies.org/privacy) for the most accurate reproduction.*
 
 # Privacy - Terms of Service - :
 
