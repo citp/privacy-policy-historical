@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the motorstown.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219005644id_/http%3A//www.motorstown.com/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motorstown.com privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616161204id_/http%3A//www.motorstown.com/html/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Photo of the day:
 
-[ ](http://www.motorstown.com/225-peugeot-107.html)
+[ ](http://www.motorstown.com/17509-smart-cabrio.html)
 
 | 
 
