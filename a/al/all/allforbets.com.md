@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allforbets.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214094900id_/http%3A//www.allforbets.com/en/page/19/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allforbets.com privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616101656id_/http%3A//www.allforbets.com/en/page/19/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
