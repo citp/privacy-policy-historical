@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the popculture.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604161836id_/http%3A//www.ha.com/c/privacy.zx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popculture.com privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616044629id_/http%3A//entertainment.ha.com/c/privacy.zx) for the most accurate reproduction.*
 
 # Heritage Privacy Policy
+
+**[View Our Web User Agreement](https://web.archive.org/c/ref/website-use-agreement.zx)**
 
 Heritage Privacy Policy  
 Information that you provide us is held in confidence, except as herein noted. We do not sell your information to third parties nor do we provide it for any third party's general commercial usage. Certain anonymous information may be used in our archival files such as prices realized for specific items. We reserve the right to share information, when we deem appropriate, with third parties that are acting proper legal authority (e.g. subpoenas), including police and governmental agencies. We respond to credit references initiated by you or in the trade. In such instances, we generally will verify whether you are a known customer, the length of time you may have done business with us, your high credit, and whether your account is in good standing. 
@@ -9,7 +11,7 @@ As we update and expand our services, this privacy policy will change to better 
 
 If you have questions or concerns regarding this statement, you should first contact Heritage by either e-mail [Webmaster@HA.com](mailto:Webmaster@HA.com) or writing us at the following address:
 
-Heritage Auction Galleries  
+Heritage Auctions  
 3500 Maple Avenue, 17th Floor  
 Dallas, TX 75219-3941
 
@@ -50,4 +52,4 @@ Heritage limits access to personal information about you to those employees who 
 In the interest of privacy and security, we automatically expire your session when a specific period goes by without activity. Heritage takes reasonable precautions - including administrative, technical, and physical measures - to safeguard your personal information against loss, theft, and misuse, as well as unauthorized access, disclosure, alteration, and destruction.
 
 **Reviewing and changing your information**  
-Heritage has safeguards in place to keep your personal information accurate, complete, and up to date for the purposes for which it is used. Naturally, you always have the right to access and correct the personal information you have provided. You can help us ensure that your contact information and preferences are accurate, complete, and up to date by going to your [MyProfile](https://web.archive.org/common/myprofile.php) page. 
+Heritage has safeguards in place to keep your personal information accurate, complete, and up to date for the purposes for which it is used. Naturally, you always have the right to access and correct the personal information you have provided. You can help us ensure that your contact information and preferences are accurate, complete, and up to date by going to your [MyProfile](https://web.archive.org/c/my/profile/) page. 
