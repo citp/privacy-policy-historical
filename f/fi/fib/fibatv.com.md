@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fibatv.com privacy policy that was archived on 2013-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131020141455id_/http%3A//www.livebasketball.tv/privacy-policy%3FICID_HOM_FOT2_PRI) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fibatv.com privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616070841id_/http%3A//www.livebasketball.tv/privacy-policy%3FICID_HOM_FOT2_PRI) for the most accurate reproduction.*
 
 # Privacy Policy | livebasketball.tv
 
-This Privacy Policy explains how Perform Media Channels Limited (" **Perform** ") together with other companies within the Perform Group(which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006) (the " **Perform Group** ") use information we collect about you and the choices you can make about the way your information is collected and used. 
+This Privacy Policy explains how Perform Media Channels Limited (" **Perform** ") together with other companies within the Perform Group (which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006) (the " **Perform Group** ") use information we collect about you and the choices you can make about the way your information is collected and used. 
 
 Unless separately defined herein, the defined terms in this Privacy Policy have the same meaning as in the Terms and Conditions which can be found [here](https://web.archive.org/terms-of-use)
 
