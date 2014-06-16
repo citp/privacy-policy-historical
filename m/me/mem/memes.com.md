@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the memes.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226224248id_/http%3A//www.memes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memes.com privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616224645id_/http%3A//www.memes.com/privacy) for the most accurate reproduction.*
 
 # Funny pictures, Funny images, and Funny memes | Memes.com
 
