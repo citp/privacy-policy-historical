@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dotrising.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214151818id_/http%3A//www.dotrising.com/cookie-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotrising.com privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616042140id_/http%3A//www.dotrising.com/cookie-privacy-policy) for the most accurate reproduction.*
 
 # Cookie & Privacy Policy | dotRising
 
