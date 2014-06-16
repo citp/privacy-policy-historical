@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hippoblue.com.au privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113092635id_/http%3A//www.hippoblue.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hippoblue.com.au privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616213119id_/http%3A//www.hippoblue.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy & Security
 
