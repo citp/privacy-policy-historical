@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popdirt.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215124534id_/http%3A//popdirt.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popdirt.com privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616034324id_/http%3A//popdirt.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | popdirt.com
 
@@ -13,10 +13,10 @@ Popdirt.com allows third-party companies to serve ads and/or collect certain ano
 To find out more about how our advertisers manage the privacy of information in conjunction with serving ads on this site, please go to:
 
 [valueclickmedia.com](http://www.valueclickmedia.com/about/privacy)  
-[burstmedia.com](http://www.burstmedia.com/privacy.html)  
+[burstmedia.com](http://www.burstmedia.com/index.php/company/privacy)  
 [vibrantmedia.com](https://www.vibrantmedia.com/privacy.asp)  
 [tribalfusion.com](https://www.tribalfusion.com/TribalFusion/privacy.html)  
 [google.com](http://www.google.com/intl/en/policies/privacy/)  
-[adtegrity.com](http://www.adtegrity.com/privacy/)  
+[adtegrity.com](https://www.adtegrity.com/about-us/privacy/#.Uq_2-bSdytg)  
 [blogads.com](http://web.blogads.com/privacy-policy)  
 [hookedmediagroup.com](http://www.hookedmediagroup.com/)
