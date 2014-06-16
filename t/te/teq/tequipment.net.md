@@ -1,62 +1,42 @@
-> *The following text is extracted and transformed from the tequipment.net privacy policy that was archived on 2013-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130914113638id_/http%3A//www.tequipment.net/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tequipment.net privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616170820id_/http%3A//www.tequipment.net/service/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | TEquipment.NET
 
-* * *
-
-  
-  
-
-
-InterWorld Highway LLC, TBA Tequipment.NET is committed to taking reasonable steps toward protecting your privacy online and to managing your information responsibly. This privacy policy is intended to notify you of our online privacy practices, the type of information that may be collected and stored, how the information is used; with whom the information may be shared; what choices are available to you regarding collection, use and distribution of the information; what kind of security procedures are in place to protect the loss, misuse or alteration of information under our control; and, who to contact with questions or concerns.
-
-This privacy policy applies to this website (www.Tequipment.NET) and to any phone, fax, and/or mail operations concerning processing of orders and questions about products or services, as well as our marketing contacts with you. This privacy policy does not apply to other websites to which we may link, or to other companies or persons who might be listed as third-party contacts on this site, or to whom we may refer you if you call or write us. We may post links on this website as a way of helping you locate related information and products easily. However, when linking to another website, you must review that website’s privacy policy as other websites may not treat information collected online in the same manner as we do.
-
-By using this Website and/or by contacting us and providing any personal information, you consent to the collection and use of information by us in accordance with this privacy policy. If we decide to change our privacy policy, we will post those changes on this page.
-
-I. WHY WE COLLECT INFORMATION
+####  + Why We Collect Information
 
 We collect personal information because it helps us deliver products and services. For example, if you order a product, we need to have information such as your billing address, age, product choice, delivery information, and payment processing information. In addition, your personal information helps us communicate to you our latest products, special offers, and information and events about which you might like to hear. We also collect your personal information to help us design and deliver our website, and to deliver targeted marketing to you. We also may correlate your personal information obtained from you with information from other sources. For example, if you provide us with your personal information, we may cross-check that against information that might be otherwise available through other entities such as when you, or a business with which you are affiliated, seeks to open a credit account with us.
 
-II. WHAT INFORMATION WE COLLECT
+####  + Information We Collect
 
 The following generally describes the type of information we may collect about you. Those who wish to communicate with us but do not wish to provide personally identifiable information online may contact us through the address or phone numbers provided on our website. However, you should note that if you contact us by phone, or if you contact us via postal mail, you may still be submitting personally identifiable information to us.
 
-a. Shopping:  
-When you shop at www.Tequipment.NET, we will collect the information necessary to complete your order, such as your name, e-mail address, shipping address, payment information (including credit card number and/or card number) and billing address. You may also provide us with other information such as your birth date, as well as other information that you might submit. If you create an account, we will collect information about your purchases and payment methods, as well as the shipping addresses that you add to your address book, in order to make future shopping experiences faster and more convenient.
+Shopping. When you shop at www.Tequipment.NET, we will collect the information necessary to complete your order, such as your name, e-mail address, shipping address, payment information (including credit card number and/or card number) and billing address. You may also provide us with other information such as your birth date, as well as other information that you might submit. If you create an account, we will collect information about your purchases and payment methods, as well as the shipping addresses that you add to your address book, in order to make future shopping experiences faster and more convenient.
 
-b. General Browsing:  
-We do not automatically collect your home address, email address, telephone number, and product preferences unless you voluntarily input this information, such as during a registration or ordering process, when you submit questions or comments, request information, seek to open a credit account or enter into a leasing arrangement, or participate in online surveys, contests, promotions or other activities. Should you voluntarily provide us with personally identifiable information, you consent to our use of it in accordance with this policy.
+General Browsing. We do not automatically collect your home address, email address, telephone number, and product preferences unless you voluntarily input this information, such as during a registration or ordering process, when you submit questions or comments, request information, seek to open a credit account or enter into a leasing arrangement, or participate in online surveys, contests, promotions or other activities. Should you voluntarily provide us with personally identifiable information, you consent to our use of it in accordance with this policy.
 
 Even if you do not submit personal information through the website, we gather navigational information about where visitors go on the website and information about the technical efficiencies of our website and services (i.e., time to connect to the website, time to download pages, etc.). This information allows us to see which areas of our website are most visited and helps us better understand the user experience. This helps us improve the quality of the website by recognizing and delivering more of the features, areas, and services our visitors prefer. In this process of gathering information, we may collect personally identifiable and non-personally identifiable information (for example, domain type, browser type and version, service provider and IP address, referring/exit pages, operating system, date/time stamp, and click-stream data). We may also create and use electronic records to compile statistics about how our visitors collectively interact with our website.
 
-III. HOW WE COLLECT INFORMATION
+####  + How We Collect Information
 
-We collect information in three primary ways: 
+We collect information in three primary ways:
 
-|  | 1.| You Give Us Information: We collect information from you when you purchase a service from us or when you interact with us about a product or service we offer or provide. For example, you provide us when you order a service or establish an account with us.  
----|---|---  
- | 2.| We Collect Information Automatically: We automatically collect certain types of information when you visit our website or use our products and services. For example, we automatically collect various types of technical information when you use our wesbite as otherwise described in this privacy policy.  
- | 3.| We Collect Information from Other Sources: We may obtain information about you from outside sources. For example, we may obtain commercially available information about you from third parties, such as credit information, or purchase e-mail lists from third parties for advertising and marketing purposes. We may also receive information from third-parties who provide services for us through web-beacons and other technologies as otherwise discussed in this privacy policy.  
-  
-a. Use of Cookies:  
-Cookies are bits of electronic information that a website may transfer to a visitor’s computer to identify specific information about the visitor’s visits to the website. The website uses a browser feature known as a cookie, which assigns a unique identification to your computer. Cookies are typically stored on your computer's hard drive and are used to help track clicks as you go through the pages within our website. We may also use cookies to tell us whether you have previously visited the website. We also use cookies which may be set by third-parties with whom we have entered into agreements which may enable us to obtain analytics information about the use of our website. You can set your browser not to accept cookies or to notify you when you are sent a cookie, giving you the opportunity to decide whether or not to accept it. You may also use commonly available tools in your browser to remove cookies which may have been placed onto your computer. We will not use shared local objects (commonly referred to as “FLASH cookies”) in a manner inconsistent with the purposes for which they were designed unless you are specifically notified that we intend to use them for a specific service. FLASH cookies are cookies that are placed on your computer that are not removed through normal browser management tools.
+  1. You Give Us Information: We collect information from you when you purchase a service from us or when you interact with us about a product or service we offer or provide. For example, you provide us when you order a service or establish an account with us.
+  2. We Collect Information Automatically: We automatically collect certain types of information when you visit our website or use our products and services. For example, we automatically collect various types of technical information when you use our wesbite as otherwise described in this privacy policy.
+  3. We Collect Information from Other Sources: We may obtain information about you from outside sources. For example, we may obtain commercially available information about you from third parties, such as credit information, or purchase e-mail lists from third parties for advertising and marketing purposes. We may also receive information from third-parties who provide services for us through web-beacons and other technologies as otherwise discussed in this privacy policy.
 
-b. Use of Web Beacons, Clear-GIFs, Pixel Tags and JavaScript:  
-We also may use "pixel tags" (also called “action pixels,” "web beacons" or "clear gifs") and/or JavaScript plug-ins, placed on our website and in our emails to you. These web beacons and plug-ins are small graphic images (typically that you cannot see) or code on a website or in an email message which are used for such things as recording web pages and advertisements clicked-on by a user, or for tracking the performance of email marketing campaigns. We also use an on-line chat service which is an application that allows agents to chat directly with you, or connect with you via phone. Small bits of code on our website allows the information that you may enter to be reported to the chat service provider and shared with us, along with other analytics reporting about your use of the site. These devices help us analyze our customers' online behavior and measure the effectiveness of our website and our marketing. We also work with third-party service providers that help us track, collect, and analyze this information. Third-party entities with whom we have agreements may place these devices on the website and/or in e-mails to use information obtained from them such as pages viewed, items purchased, e-mails opened and items upon which you may click in e-mails. These third-party providers may also place cookies onto your computer. Those third-party cookies may enable us to obtain aggregate demographic information and user statistics about you and your preferences from these third-party sources as well as our information we have about you.
 
-c. Widgets and Server Logs:  
-A “widget” is generally an application that can be embedded in a web page. Widgets can provide real-time information to the page. Widgets are often provided by third-parties and we may provide widgets on our website. Widgets may enable the third-parties that provide them to collect data about users visiting this website. We may also obtain information shared with us through the providers of these widgets.
 
-A web “server log” is a record of activity created by a computer that delivers certain web pages to your browser. Certain activities that you perform on our website may record information in server logs, such as if you enter a search term into a search box located on the site. The server log may record the search term, or the link you clicked on to bring you to website. The server log may also record information about your browser, such as you IP address and the cookies set on your browser.
+Use of Cookies. Cookies are bits of electronic information that a website may transfer to a visitor’s computer to identify specific information about the visitor’s visits to the website. The website uses a browser feature known as a cookie, which assigns a unique identification to your computer. Cookies are typically stored on your computer's hard drive and are used to help track clicks as you go through the pages within our website. We may also use cookies to tell us whether you have previously visited the website. We also use cookies which may be set by third-parties with whom we have entered into agreements which may enable us to obtain analytics information about the use of our website. You can set your browser not to accept cookies or to notify you when you are sent a cookie, giving you the opportunity to decide whether or not to accept it. You may also use commonly available tools in your browser to remove cookies which may have been placed onto your computer. We will not use shared local objects (commonly referred to as “FLASH cookies”) in a manner inconsistent with the purposes for which they were designed unless you are specifically notified that we intend to use them for a specific service. FLASH cookies are cookies that are placed on your computer that are not removed through normal browser management tools.
 
-d. Search Queries on Our Website:  
-We may provide you with options to search for information on our site. If you enter information in a search query box, we may store that information and we may aggregate that information with other information we may have about the browser and/or IP address from which the search query originated.
+Use of Web Beacons, Clear-GIFs, Pixel Tags and JavaScript. We also may use "pixel tags" (also called “action pixels,” "web beacons" or "clear gifs") and/or JavaScript plug-ins, placed on our website and in our emails to you. These web beacons and plug-ins are small graphic images (typically that you cannot see) or code on a website or in an email message which are used for such things as recording web pages and advertisements clicked-on by a user, or for tracking the performance of email marketing campaigns. We also use an on-line chat service which is an application that allows agents to chat directly with you, or connect with you via phone. Small bits of code on our website allows the information that you may enter to be reported to the chat service provider and shared with us, along with other analytics reporting about your use of the site. These devices help us analyze our customers' online behavior and measure the effectiveness of our website and our marketing. We also work with third-party service providers that help us track, collect, and analyze this information. Third-party entities with whom we have agreements may place these devices on the website and/or in e-mails to use information obtained from them such as pages viewed, items purchased, e-mails opened and items upon which you may click in e-mails. These third-party providers may also place cookies onto your computer. Those third-party cookies may enable us to obtain aggregate demographic information and user statistics about you and your preferences from these third-party sources as well as our information we have about you.
 
-e. Surveys and contests:  
-From time to time, we may request information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name, email and shipping address) and demographic information (such as postal code, age level). This information will be used to process the contests or surveys and notify the winners and award prizes. If your information gathered via a survey or contest will be used in a manner different from that described in this privacy policy, such use will be detailed in the survey or contest instructions or rules. For example, the instructions or rules will alert you if the information will be shared with anyone in addition to those identified in this privacy policy, such as a third party sponsoring the survey or contest.
+Widgets and Server Logs. A “widget” is generally an application that can be embedded in a web page. Widgets can provide real-time information to the page. Widgets are often provided by third-parties and we may provide widgets on our website. Widgets may enable the third-parties that provide them to collect data about users visiting this website. We may also obtain information shared with us through the providers of these widgets. A web “server log” is a record of activity created by a computer that delivers certain web pages to your browser. Certain activities that you perform on our website may record information in server logs, such as if you enter a search term into a search box located on the site. The server log may record the search term, or the link you clicked on to bring you to website. The server log may also record information about your browser, such as you IP address and the cookies set on your browser.
 
-IV. HOW WE USE THE INFORMATION WE COLLECT
+Search Queries on Our Website. We may provide you with options to search for information on our site. If you enter information in a search query box, we may store that information and we may aggregate that information with other information we may have about the browser and/or IP address from which the search query originated.
+
+Surveys and contests. From time to time, we may request information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name, email and shipping address) and demographic information (such as postal code, age level). This information will be used to process the contests or surveys and notify the winners and award prizes. If your information gathered via a survey or contest will be used in a manner different from that described in this privacy policy, such use will be detailed in the survey or contest instructions or rules. For example, the instructions or rules will alert you if the information will be shared with anyone in addition to those identified in this privacy policy, such as a third party sponsoring the survey or contest.
+
+####  + How We Collect Information
 
 We use the information we collect in a variety of ways. Generally, using all of the above mentioned, and similar type tools, we may collect, aggregate, and use information from or about you such as data about the type of browser and operating system used, which web pages you view, the time and duration or you vists to our site, the search queries you may use on this site, whether you clicked on any items or links on the site, whether you have clicked on any links in any e-mails sent from us, or third-parties on our behalf, whether you have chosen to opt-out of certain services or information sharing, and whether you have viewed or ordered certain products or services.
 
@@ -68,35 +48,41 @@ We may also use your personally identifiable information to contact you in ways 
 
 Some elements on our website, such as promotional videos, are supplied to us by third parties under contract. We may supply some of the information we collect from you to those third parties so that they can provide those elements for display on the sites. We may share the following information with such third parties: (a) your Internet Protocol (IP) address; (b) the address of the last URL you visited prior to clicking through to our site; (c) your browser and platform type; (d) your browser language; (e) the data in any undeleted cookies that your browser previously accepted from us; and (f) the search queries or word look-ups you submit.
 
-V. YOUR CHOICES ABOUT THE INFORMATION WE COLLECT
+####  + Your Choices About The Information We Collect
 
 If you do not consent to the way in which we may use your personal information, please do not submit any personal information to us. If you do not wish to receive e-mails about special offers and other promotions from us click the unsubscribe link located in our e-mails. If you do not wish to receive other marketing materials from us and/or if you do not want us to share your personal information with other entities as stated in this privacy policy, please provide us with your exact name and address and advise us that you wish to opt-out for information sharing or receiving information from us or both as the case may be. Please send your opt-out request to the following contacts:
 
-VI. PRIVACY OF CHILDREN WHO VISIT THE WEB SITE
+E-mail: [salesteam@tequipment.net](mailto:salesteam@tequipment.net)  
+Postal: 205 Westwood Ave.  
+PO BOX 4076
+
+####  + Privacy Of Children Who Visit The Web Site
 
 We recognize the importance of children's safety and privacy. The website is not designed to attract children, and is not intended for use by any children under the age of 13. We do not request, or knowingly collect, any personally identifiable information from children under the age of 13.
 
-VII. YOUR CALIFORNIA PRIVACY RIGHTS
+####  + Your California Privacy Rights
 
 We collect various types of personal information about you during the course of your relationship with us as a customer. Under California law, if you are a resident of California, you may make a written request to us about how we have shared your information with third parties for their direct marketing purposes. In response to your written request, we are allowed to provide you with a notice describing the cost-free means to opt-out of our sharing your information with third parties with whom we do not share the same brand name, if the third party will use such information for its direct marketing purposes.
 
 If you would like to exercise your rights under California law, please send your written request to the e-mail address or postal address below. Please include your postal address in your request. Within thirty (30) days of receiving your written request, we will provide you with a Third Party Direct Marketing Opt-Out Form so you may request that your personal information not be disclosed to third parties for their direct marketing purposes.
 
-VIII. VISITORS TO THE WEBSITE OUTSIDE OF THE UNITED STATES
+E-mail: [salesteam@tequipment.net](mailto:salesteam@tequipment.net)  
+Postal: 205 Westwood Ave.  
+PO BOX 4076
+
+####  + Visitors To The Website Outside Of The United States
 
 If you are visiting the Website from a location outside of the U.S., your connection will be through and to servers located in the U.S. All information you receive from the website will be created on servers located in the U.S., and all information you provide will be maintained on web servers and systems located within the U.S. The data protection laws in the United States and other countries might not be as those in your country. By using this website and/or submitting information to us, you specifically consent to the transfer of your information to the United States to the facilities and servers we use, and to those with whom we may share your information.
 
-IX. UPDATING PERSONAL INFORMATION
+####  + Updating Personal Information
 
-We prefer to keep your personal information accurate and up-to-date. If you would like to change your contact information, please email us at
+We prefer to keep your personal information accurate and up-to-date. If you would like to change your contact information, please email us at: [orderstatus@tequipment.net](mailto:orderstatus@tequipment.net)
 
-[orderstatus@tequipment.net](mailto:orderstatus@tequipment.net)
-
-X. LINKS:
+####  + Links
 
 For your convenience, the website may contain links to other websites. We are not responsible for the privacy practices, advertising, products, or the content of such other websites. None of the links should be deemed to imply that we endorse or have any affiliation with the links.
 
-XI. SECURITY
+####  + Security
 
 We believe in providing a safe and secure experience for all of our online visitors. To that end, we have implemented security measures to protect the information collected from you. We maintain reasonable physical and electronic safeguards designed to limit unauthorized access to your personally identifiable information, and to protect you against the criminal misuse of that information.
 
@@ -104,6 +90,6 @@ We use data encryption technology when transferring and receiving your sensitive
 
 While we use the foregoing security measures to protect your information, please note that no data transmitted over the Internet or stored and utilized for business purposes can be guaranteed to be completely secure. No security measures are perfect or impenetrable. We cannot guarantee that only authorized persons will view your information. We cannot ensure that information you share on the website will not become publicly available. You can reduce these risks by using common sense security practices such as choosing a strong password, using different passwords for different services, and using up to date antivirus software.
 
-XII. QUESTIONS / CHANGES IN POLICY
+####  + Questions Or Changes In Policy
 
-If you have questions or concerns with respect to our privacy policy, you may contact us at [techsupport@tequipment.net](mailto:techsupport@tequipment.net). We may elect to change or amend our privacy policy; in such event, we will post the policy changes in our privacy policy on the website. If you are concerned about how your personal information is used, please visit our website often for this and other important announcements and updates.
+If you have questions or concerns with respect to our privacy policy, you may contact us at techsupport@tequipment.net. We may elect to change or amend our privacy policy; in such event, we will post the policy changes in our privacy policy on the website. If you are concerned about how your personal information is used, please visit our website often for this and other important announcements and updates.
