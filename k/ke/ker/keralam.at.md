@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keralam.at privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031131826id_/http%3A//www.keralam.at/contact/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keralam.at privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616203248id_/http%3A//www.keralam.at/contact/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy - Keralam.at
 
