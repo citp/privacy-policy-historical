@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the memolink.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205084235id_/http%3A//www.memolink.com/index.cfm/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memolink.com privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616145903id_/http%3A//www.memolink.com/index.cfm/privacy-policy) for the most accurate reproduction.*
 
-# Earn cash back rewards, find retail coupons and save at your favorite stores - memolink.com
+# Cash Back Sites, Coupons, Rewards & Surveys | Memolink
 
 Have you ever wondered what we do with the information you give us, but maybe you didn’t want to take the time to read through a long, legal document to find out? Well, we’ve made a change that will make understanding how we collect, use, and protect your information easier and less time consuming. We’re proud of how we adhere to best practices when it comes to your information and we want you to feel good about it too. Below are the highlights of the full Memolink.com Privacy Statement. Click into any section to read additional details. 
 
