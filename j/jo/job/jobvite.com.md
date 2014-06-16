@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobvite.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215170232id_/http%3A//recruiting.jobvite.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobvite.com privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616235210id_/http%3A//recruiting.jobvite.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Jobvite
 
@@ -72,13 +72,13 @@ Jobvite retains personal information and the personal data we process on behalf 
 
 **Updating, Correcting and Deleting Your Information.**
 
-Jobvite provides an individual that supplies information on the Site with the ability to review correct and request the deletion of any of the personally identifiable information that was entered into their profile on the Site. To correct or delete any information in a Site profile, an individual may update that profile (through their account page on the Site) or may contact Jobvite by e-mailing our customer support at [support@jobvite.com](mailto:support@jobvite.com).  We will respond to the request within 30 days.  Alternatively, you may send a letter with your requested changes, corrections or deletions to the following address:
+Jobvite provides an individual that supplies information on the Site with the ability to review correct and request the deletion of any of the personally identifiable information that was entered into their profile on the Site. To correct or delete any information in a Site profile, an individual may update that profile (through their account page on the Site) or may contact Jobvite by e-mailing our customer support at [JobviteCares@jobvite.com](mailto:JobviteCares@jobvite.com).  We will respond to the request within 30 days.  Alternatively, you may send a letter with your requested changes, corrections or deletions to the following address:
 
 By mail:   
 Jobvite, Inc.   
 Attn: Privacy Policy   
-270 East Lane, Suite 3   
-Burlingame, CA 94010
+1300 El Camino Real, Suite 400  
+San Mateo, CA 94402
 
 When an individual terminates their account on the Site, we will remove  their profile from the Site. Information supplied by an employee or job seeker in an application or resume submitted to an employer that is a Jobvite customer is treated as described above in the section **“Choice and Access to Data Controlled by our Customers.”**
 
@@ -133,7 +133,7 @@ We welcome your comments or questions concerning our Privacy Policy. If you woul
 By mail:   
 Jobvite, Inc.   
 Attn: Privacy Policy   
-270 East Lane, Suite 3   
-Burlingame, CA 94010
+1300 El Camino Real, Suite 400  
+San Mateo, CA 94402
 
 Phone:  650.376.7200 
