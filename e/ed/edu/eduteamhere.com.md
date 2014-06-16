@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eduteamhere.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223140942id_/http%3A//www.eduteamhere.com/%3Fpage_id%3D1036) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eduteamhere.com privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616194834id_/http%3A//www.eduteamhere.com/%3Fpage_id%3D1036) for the most accurate reproduction.*
 
 # Privacy Policy « welcome to www.eduteamhere.com
 
