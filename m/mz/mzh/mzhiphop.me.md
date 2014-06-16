@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mzhiphop.me privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231212341id_/http%3A//www.mzhiphop.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mzhiphop.me privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616120748id_/http%3A//www.mzhiphop.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy // MzHipHop.com
 
@@ -7,7 +7,7 @@ MZHIPHOP.com is committed to protecting your privacy online. We will not rent, s
 **What information do we collect?**  
 MZHIPHOP.com collects some personal information when you register on our website.
 
-**What are “cookies” and how do we use them?**  
+**What are �cookies� and how do we use them?**  
 Cookies are a feature of Web browser that allows Web servers to recognize the computer used to access a Web site. Cookies are used to manage your user session to ensure smooth and personalized browsing experience.
 
 **What do we do with the information we collect?**  
