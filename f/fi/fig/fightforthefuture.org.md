@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fightforthefuture.org privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231200711id_/http%3A//fightforthefuture.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fightforthefuture.org privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616074959id_/http%3A//fightforthefuture.org/privacy) for the most accurate reproduction.*
 
 # Fight for the Future | a nonprofit working to expand the internet's power for good
 
