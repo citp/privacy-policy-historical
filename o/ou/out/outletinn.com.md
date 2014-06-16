@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outletinn.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211142236id_/http%3A//www.outletinn.com%3Faction%3Dpolitica%26idioma%3Deng) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outletinn.com privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616032359id_/http%3A//www.outletinn.com%3Faction%3Dpolitica%26idioma%3Deng) for the most accurate reproduction.*
 
 # outletinn Privacy policy. Online deals gear and deals equipment shop.
 
