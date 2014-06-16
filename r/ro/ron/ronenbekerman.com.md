@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ronenbekerman.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216080019id_/http%3A//www.ronenbekerman.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ronenbekerman.com privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616171427id_/http%3A//www.ronenbekerman.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - 3D Architectural Visualization & Rendering Blog
 
