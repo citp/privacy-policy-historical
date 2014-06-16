@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the 321sexchat.com privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818152031id_/http%3A//www.321chat.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 321sexchat.com privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616045512id_/http%3A//www.321sexchat.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - 321Chat.Com
+# Privacy Policy For 321SexChat.Com
 
   
-The following discloses the information gathering and dissemination practices for this Web site: [321Chat.Com](http://www.321chat.com/)
+The following discloses the information gathering and dissemination practices for this Web site: [321SexChat.Com](http://www.321chat.com/)
 
- _ ***** Children under 13 *****_
+ _ ***** Children under 18 *****_
 
-Children under the age of 13 are not permitted to enter any of the chat rooms the forum on 321chat.com
+Children under the age of 18 are not permitted to enter any of the chat rooms the forum on 321sexchat.com
 
 We use an outside ad company to display ads on our site. These ads may contain cookies. Cookies received with banner ads are collected by our ad company, and we do not have access to this information. This information is used for tracking purposes only and are not and cannot be used to obtain personal information about you or anyone else. 
 
@@ -25,16 +25,8 @@ Since we do not collect any personal information on this Web site, we do not sha
 
 This site utilizes chat rooms and forums which can potentially result in the disclosure of personal information publicly. If we become aware of this (regardless of the users age), we will delete any personal information including, but not limited to, email addresses, phone numbers, names, and home addresses immediately. Please note that we DO NOT store logs of chat conversations. 
 
-**_For Parents: Children's Privacy_**
-
-Our website is not directed at, or intended for use by, children under the age of 13. This website is a general audience website. We do not knowingly allow anyone to provide any personal identifying information on our website. Everyone must take caution before sending personal information over the Internet and through chatrooms. If you have discovered that your child (who is under 13) has registered for a message forum account, please [Contact Us ](http://www.321chat.com/contact/feedback.php) with your childs message or forum username and we will have that account and any message postings he/she has made, removed immediately. 
-
-IMPORTANT NOTE: The "Kids Chat" is for older kids. Specifically, users aged 13-16 years old. 
-
-This site contains links to other sites. **321Chat** is not responsible for the privacy practices or the content of such Web sites. 
+This site contains links to other sites. **321SexChat** is not responsible for the privacy practices or the content of such Web sites. 
 
 This site makes chat rooms and message forums available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information to others. This site does not collect any personal information from the chat rooms or message forums that can personally identify you in any way. Email addresses are required in order to register for the message forums, but those are never shared with any third parties and are only used for registration purposes. In addition, users must be 13 years or older in order to register to the forums. As mentioned previously, if your child is under 13 and has registered for a forums account, please contact us immediately with their username and we will have it removed immediately. 
 
-321Chat will never require a user to submit any more personal information other than what is required for activity participation. (Age verification and/or chat nickname) 
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, feel free to [contact us](http://www.321chat.com/contact/).
+321SexChat will never require a user to submit any more personal information other than what is required for activity participation. (Age verification and/or chat nickname) 
