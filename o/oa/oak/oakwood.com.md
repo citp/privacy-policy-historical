@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oakwood.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231053206id_/http%3A//www.oakwood.com/cms/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oakwood.com privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616215007id_/http%3A//www.oakwood.com/cms/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Oakwood
 
@@ -8,9 +8,9 @@
 
 ## Online Privacy Statement 
 
-(Last Updated August 21, 2013)
+(Last Updated May 7, 2014)
 
-[ Download PDF](http://images.oakwood.com/pdf/OakwoodWorldwideOnlinePrivacyStatementFinal_08212013.pdf)
+[ Download PDF](http://images.oakwood.com/pdf/OakwoodWorldwideOnlinePrivacyStatementFinal_05072014.pdf)
 
 We are dedicated to protecting your privacy and safeguarding your "personally identifiable" information. We are committed to using our customers' information only in a responsible manner. We are committed to respecting your privacy and adhering to the principles of applicable data protection and privacy laws.
 
@@ -171,7 +171,7 @@ In your letter, please describe your inquiry in as much detail as possible.
 **Changes and Updates to this Online Privacy Statement**  
 Please revisit this page periodically to stay aware of any changes to this Online Privacy Statement, which may be revised periodically at our sole discretion. If we modify this Online Privacy Statement, we will make it available through the Websites, and indicate the date of the latest revision. In the event that the modifications materially alter your rights or obligations hereunder, we will make reasonable efforts to notify you of the change. For example, we may send a message to your e-mail address, if we have one on file, or generate a pop-up or similar notification when you sign-in to any Website for the first time after such material changes are made. Our amended Online Privacy Statement will automatically take effect 30 days after it is made available through the Websites, except that (i) we generally only use your personally identifiable information in the manner described in the Online Privacy Statement in effect when we received that information and (ii) if you do not agree with any changes to the Online Privacy Statement, you may terminate your account. Your continued use of any Website after the revised Online Privacy Statement has become effective indicates that you have read, understood and agreed to the current version of the Online Privacy Statement.
 
-Any dispute, claim or controversy arising out of or relating to this policy or the breach, termination, enforcement, interpretation or validity thereof, including the determination of the scope or applicability of this agreement to arbitrate, shall be determined by arbitration in Santa Monica, California before [one/three] arbitrator(s). The arbitration shall be administered by JAMS (Judicial Arbitration and Mediation Services, Inc.) pursuant to its Streamlined Arbitration Rules and Procedures. Judgment on the Award may be entered in any court having jurisdiction. This clause shall not preclude parties from seeking provisional remedies in aid of arbitration from a court of appropriate jurisdiction.
+Any dispute, claim or controversy arising out of or relating to this policy or the breach, termination, enforcement, interpretation or validity thereof, including the determination of the scope or applicability of this agreement to arbitrate, shall be determined by an arbitration. The arbitration shall be administered by JAMS (Judicial Arbitration and Mediation Services, Inc.) pursuant to its Streamlined Arbitration Rules and Procedures. Judgment on the Award may be entered in any court having jurisdiction. This clause shall not preclude parties from seeking provisional remedies in aid of arbitration from a court of appropriate jurisdiction.
 
 **Effective Date**  
 This Privacy Policy is effective with respect to all data that we have collected since the date we started collecting data, which was January 1, 2000. 
