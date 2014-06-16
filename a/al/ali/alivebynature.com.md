@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alivebynature.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230190606id_/http%3A//alivebynature.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alivebynature.com privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616104906id_/http%3A//alivebynature.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Garcinia Cambogia weight loss, side effects, where to buy
+# Privacy Policy | Alive by Nature
 
 **What information do we collect?**
 
