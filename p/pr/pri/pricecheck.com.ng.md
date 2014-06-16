@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pricecheck.com.ng privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216042046id_/http%3A//www.pricecheck.com.ng/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pricecheck.com.ng privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616232031id_/http%3A//www.pricecheck.com.ng/policy) for the most accurate reproduction.*
 
 # PriceCheck Shopping - Online Shop & Price Comparison in Nigeria - PriceCheck Shopping Nigeria
 
