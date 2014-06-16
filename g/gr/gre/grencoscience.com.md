@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grencoscience.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806091205id_/http%3A//www.grencoscience.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grencoscience.com privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616074436id_/http%3A//www.grencoscience.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | Grenco Science | G Pen Personal Vaporizer
 
@@ -93,3 +93,5 @@ PO Box 589, North Hollywood, CA 91601
 Office: (800) 948-7480
 
 Fax: (800) 864-1301
+
+Grenco Science leads at the forefront of ingenuity and aptitude, consistently engineering the most advanced, user-friendly portable vaporizers in the world. The first to market a tank system specifically designed for personal aromatherapy regiments, Grenco Science™ integrates superior functionality with the convenience of transportability. 
