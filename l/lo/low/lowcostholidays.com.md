@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lowcostholidays.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216140746id_/http%3A//www.lowcostholidays.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowcostholidays.com privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616085238id_/http%3A//www.lowcostholidays.com/privacy.htm) for the most accurate reproduction.*
 
-# Low Cost Holidays | Search for cheap holidays, all inclusive holiday deals and city breaks
+# lowcostholidays | Search for cheap holidays, all inclusive holiday deals and city breaks
 
-lowcostholidays.com is committed to protecting your privacy and maintaining the security of any personal information received from you. When making a booking we will need to collect information from you which is necessary to process your booking. This includes, but is not limited to, your name, postal address and email address. Unless we have your consent, we will only disclose personal data to third parties if this is required for the purpose of fulfilling your booking.
+lowcostholidays is committed to protecting your privacy and maintaining the security of any personal information received from you. When making a booking we will need to collect information from you which is necessary to process your booking. This includes, but is not limited to, your name, postal address and email address. Unless we have your consent, we will only disclose personal data to third parties if this is required for the purpose of fulfilling your booking.
 
 This is subject to the proviso that we may disclose your data to certain permitted third parties, such as our own professional advisors, who are bound by confidentiality codes, and when we are legally obliged to do so. We do not sell, rent or exchange your personal information with any third party for commercial reasons.
 
