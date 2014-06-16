@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aesop.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230042850id_/http%3A//www.aesop.com/usa/help/faq/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aesop.com privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616135532id_/http%3A//www.aesop.com/usa/help/faq/privacy) for the most accurate reproduction.*
 
 # Help
 
@@ -84,8 +84,8 @@ a. Telephone: 1 877 60 AESOP
 
 b. Mail to: Aesop
 
-555 Madison Avenue
+35 W 35th Street, 
 
-16th Floor
+Suite 9E New York, 
 
-New York, NY 10022
+NY 10018 
