@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the efrennolasco.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229142024id_/http%3A//www.efrennolasco.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efrennolasco.com privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616144633id_/http%3A//www.efrennolasco.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Efren Nolasco
-
-## [Privacy Policy](http://www.efrennolasco.com/privacy-policy/ "Permanent Link to Privacy Policy")
+# Privacy Policy - Efren Nolasco
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
@@ -25,20 +23,7 @@ Efren Nolasco dot com does use cookies to store information about visitors pref
 .:: Google, as a third party vendor, uses cookies to serve ads on Efren Nolasco dot com.  
 .:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to Efren Nolasco dot com and other sites on the Internet.  
 .:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html  
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….
-
-  * Google Adsense
-  * Commission Junction
-  * Widget Bucks
-  * Adbrite
-  * Clickbank
-  * Azoogle
-  * Chitika
-  * Linkshare
-  * Amazon
-  * Kontera
-
-
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include; Google Adsense, Content.ad, Chitika, Infolinks and Buysellads.
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on Efren Nolasco dot com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
@@ -55,5 +40,3 @@ By using this site, you signify your agreement to the terms and conditions of th
 From time to time, Efren Nolasco dot com may update this privacy notice. We will notify you about material changes in the way we treat personally identifiable information by placing a notice on our site. We encourage you to periodically check back and review this policy so that you always will know what information we collect, how we use it, and to whom we disclose it. Your continued use of the Efren Nolasco dot com Web Site following the posting of any changes to these terms shall mean that you have accepted those changes.
 
 Should you have other questions or concerns about these privacy policies, please email us at [efrenjrnolasco@gmail.com](mailto:efrenjrnolasco@gmail.com).
-
-* * *
