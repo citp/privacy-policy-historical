@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the partyone.in privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216062155id_/http%3A//partyone.in/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partyone.in privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616224526id_/http%3A//www.partyone.in/privacypolicy.php) for the most accurate reproduction.*
 
 # Plan My Party
 
