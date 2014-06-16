@@ -1,47 +1,169 @@
-> *The following text is extracted and transformed from the boucherkia.com privacy policy that was archived on 2013-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130822021354id_/http%3A//www.boucherkia.com/page/Privacypolicy/master/secondary) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boucherkia.com privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616232041id_/http%3A//boucherkia.com/page/Privacypolicy/master/secondary) for the most accurate reproduction.*
 
 # New & Used Kia Dealer | Frank Boucher Kia of Racine | Serving Waukegan, WI
 
-Frank Boucher Kia of Racine Racine, WI is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Frank Boucher Kia of Racine Racine, WI Web site and governs data collection and usage. By using the Frank Boucher Kia of Racine Racine, WI website, you consent to the data practices described in this statement. 
+This statement is effective as of May 14, 2014. [Please see previous version here.](https://web.archive.org/web/20140616232041id_/http%3A//boucherkia.com/page/PrivacypolicyPrevious/master/secondary)
 
-### Collection of your Personal Information
+## Introduction
 
-Frank Boucher Kia of Racine Racine, WI collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. Frank Boucher Kia of Racine Racine, WI also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
+This website is brought to you by Frank Boucher Kia of Racine (collectively, “we,” “us,” or “our”).We respect the privacy of our users and those who visit our websites, mobile and other online applications and products and services (collectively referred to as “our website”). By using our website you consent to the use of your information and information about you in accordance with this Privacy Statement.
 
-There is also information about your computer hardware and software that is automatically collected by Frank Boucher Kia of Racine Racine, WI. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by Frank Boucher Kia of Racine Racine, WI for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Frank Boucher Kia of Racine Racine, WI Web site.
+This Privacy Statement applies to information collected through our website and does not describe the collection, use and disclosure practices of any of our corporate affiliates or third parties. For information on the collection, use and disclosure practices of any company with whom you are doing business, whether or not affiliated with our website, please review their privacy policies.
 
-Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Frank Boucher Kia of Racine Racine, WI public message boards, this information may be collected and used by others. Note: Frank Boucher Kia of Racine Racine, WI does not read any of your private online communications.
+This site is operated by our service provider, VinSolutions, Inc. (“VinSolutions”). As the operator of our website, VinSolutions may have access to information (including personal information) that you submit when you use our websites, as described in this Privacy Statement. Please visit [http://www.vinsolutions.com/privacy.aspx](http://www.vinsolutions.com/privacy.aspx/) for more information about VinSolutions’ privacy practices.
 
-Frank Boucher Kia of Racine Racine, WI encourages you to review the privacy statements of Web sites you choose to link to from Frank Boucher Kia of Racine Racine, WI so that you can understand how those Web sites collect, use and share your information. Frank Boucher Kia of Racine Racine, WI is not responsible for the privacy statements or other content on Web sites outside of the Frank Boucher Kia of Racine Racine, WI and Frank Boucher Kia of Racine Racine, WI family of Web sites.
+Services offered by our website are not directed to individuals under the age of eighteen (18). If you are under eighteen (18), you should not provide any personal information to us.
 
-### Use of your Personal Information
+This Privacy Statement covers:
 
-Frank Boucher Kia of Racine Racine, WI collects and uses your personal information to operate the Frank Boucher Kia of Racine Racine, WI Web site and deliver the services you have requested. Frank Boucher Kia of Racine Racine, WI also uses your personally identifiable information to inform you of other products or services available from Frank Boucher Kia of Racine Racine, WI and its affiliates. Frank Boucher Kia of Racine Racine, WI may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
+  * Information We Collect
+    * Information You Provide
+    * Automated Information
+    * Data Technologies
+    * Video
+    * Location Information
+    * Publicly Posted Information
+    * Combined Information and Information from Other Sources
+  * How We May Use the Information We Collect
+  * Applications, Widgets and Social Media
+  * Advertising Networks
+  * Information We Share
+    * Affiliates and Manufacturers
+    * Our Service Providers
+    * Credit Applications
+    * Corporate and Asset Transactions
+    * Other
+  * Your Choices
+  * Your California Privacy Rights
+  * Access and Correction
+  * Links
+  * Data Security
+  * Disputes
+  * Updates to this Privacy Statement
 
-Frank Boucher Kia of Racine Racine, WI does not sell, rent or lease its customer lists to third parties. Frank Boucher Kia of Racine Racine, WI may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, Frank Boucher Kia of Racine Racine, WI may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Frank Boucher Kia of Racine Racine, WI, and they are required to maintain the confidentiality of your information.
 
-Frank Boucher Kia of Racine Racine, WI does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
 
-Frank Boucher Kia of Racine Racine, WI keeps track of the Web sites and pages our customers visit within Frank Boucher Kia of Racine Racine, WI, in order to determine what Frank Boucher Kia of Racine Racine, WI services are the most popular. This data is used to deliver customized content and advertising within Frank Boucher Kia of Racine Racine, WI to customers whose behavior indicates that they are interested in a particular subject area.
+## Information We Collect
 
-Frank Boucher Kia of Racine Racine, WI Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Frank Boucher Kia of Racine Racine, WI or the site; (b) protect and defend the rights or property of Frank Boucher Kia of Racine Racine, WI; and, (c) act under exigent circumstances to protect the personal safety of users of Frank Boucher Kia of Racine Racine, WI, or the public.
+Information is gathered from our website by us, our service providers, advertisers, sponsors and partners.
 
-### Use of Cookies
+_Information You Provide._ We may collect information that you choose to provide on our website in a variety of ways, such as when you:
 
-The Frank Boucher Kia of Racine Racine, WI Web site use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+  1. register for one of our products or services. This information may include your name, address, telephone number, email address, Social Security Number, and credit information;
+  2. make information available to us via social networking logins, such as Facebook or Twitter;
+  3. express an interest in buying, selling or trading in a car (such as completing an online quote or lead form);
+  4. participate in chats, web forums or other interactive sessions;
+  5. apply for credit on our website;
+  6. subscribe to newsletters or provide feedback; and
+  7. participate in surveys, sweepstakes or other promotions.
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Frank Boucher Kia of Racine Racine, WI pages, or register with Frank Boucher Kia of Racine Racine, WI site or services, a cookie helps Frank Boucher Kia of Racine Racine, WI to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Frank Boucher Kia of Racine Racine, WI Web site, the information you previously provided can be retrieved, so you can easily use the Frank Boucher Kia of Racine Racine, WI features that you customized.
 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Frank Boucher Kia of Racine Racine, WI services or Web sites you visit.
 
-### Security of your Personal Information
+_Automated Information._ Information regarding your use of our website may be collected and/or aggregated through the use of automated means. This automatically collected information may include information such as:
 
-Frank Boucher Kia of Racine secures your personal information from unauthorized access, use or disclosure. Frank Boucher Kia of Racine Racine, WI secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
+  1. your IP address, the type of browser and operating system used;
+  2. date and time you access our website and pages you visit, and if you linked from or to another website, the address of that website;
+  3. email you open and links you click on within those email; and
+  4. your ISP or mobile carrier, and the type of handheld or mobile device that you used.
 
-### Changes to this Statement
 
-Frank Boucher Kia of Racine Racine, WI will occasionally update this Statement of Privacy to reflect company and customer feedback. Frank Boucher Kia of Racine Racine, WI encourages you to periodically review this Statement to be informed of how Frank Boucher Kia of Racine Racine, WI is protecting your information.
 
-### Contact Information
+_Data Technologies._ Various technologies are used to automatically collect information, such as cookies, local shared objects, and web beacons (generally referred to as “Data Technologies”). “Cookies” are small identifiers sent from a web server that are stored on your device for the purpose of identifying your browser or storing information or settings in your browser. “Local shared objects,” sometimes known as Flash cookies, may be used to store your preferences or display content based upon what you have viewed on various websites to personalize your visit. A “web beacon,” also known as an Internet tag, pixel tag or clear GIF, links web pages to web servers and their cookies. Anonymous advertising identifiers are increasingly being used on mobile devices and otherwise in a manner similar to cookies. When we refer to Data Technologies, we are including all current and similar future technologies.
 
-Frank Boucher Kia of Racine Racine, WI welcomes your comments regarding this Statement of Privacy. If you believe that Frank Boucher Kia of Racine Racine, WI has not adhered to this Statement, please contact Frank Boucher Kia of Racine Racine, WI. We will use commercially reasonable efforts to promptly determine and remedy the problem
+One or more Data Technologies may be used on our website and other websites and mobile applications (that may not be our website) by us, by another party on our behalf, or by third parties in accordance with their privacy policies. Data Technologies may be used by us and others, on our behalf and on their own behalf, to transmit information to you or about you and connect information about you from different sources, websites, devices, and mobile applications. 
+
+We may use a uniquely generated trackable toll-free telephone number on our website or in advertisements. This uniquely generated toll-free telephone number may be used to contact us. If you call us using one of these toll-free numbers, we (or a service provider acting on our behalf) may collect non-personally identifiable information about the call (e.g. date, time, duration), as well as personally identifiable information (e.g. your name, the number from which your call originated).
+
+_Videos_ We may target and track the videos you view on our website. You consent to our tracking of your video viewing through the Site or third party social media for up to two years or as permitted by applicable law.
+
+_Location Information._ We may collect physical location information that is sufficiently precise to allow us to locate a specific person or device (“Location Information”). We only collect Location Information with your permission (e.g., such as when you agree to provide it to us after initial access to or downloading our website). We may use Location Information and provide it to third parties to provide you with content and services that are relevant to a particular location, such as advertising, search results, dealers in the area, and directions.
+
+_Publicly Posted Information._ Information that you make available to us and others via social media networks, forums, blogs, list serves, chat rooms or similar functionality is public information that we or others may share or use in accordance with the law. 
+
+_Combined Information and Information from Other Sources._ We may combine information that you provide to us with information we receive from our affiliates and other sources, as well as with other information that is automatically collected. The combined information may include information about your use of our website, your use of other websites, devices and mobile applications and information from our affiliates and other sources.
+
+## How We May Use the Information We Collect
+
+We may use information we collect for the following purposes:
+
+  1. for everyday business purposes, such as establishing and managing your user account, providing products and services you request, and providing customer support;
+  2. to provide values and/or offers for cars that you would like to trade in;
+  3. to offer our other products or services and/or the products or services of others to you;
+  4. to communicate about, and administer your participation in, special events, programs, surveys, contests, sweepstakes and other offers or promotions;
+  5. to enable you to interact with our website and our users, dealers, and others through various means, such as through our message boards, blogs and social media;
+  6. to evaluate and improve our business, including developing new products and services and analyzing the effectiveness of products, services, applications and websites; 
+  7. to diagnose and address technical and service problems;
+  8. to perform data analyses, including market and consumer research, trend analysis, demographic analysis and financial analysis; 
+  9. to deliver content (including advertising) correlating to your interests and browsing and usage history, both within our website and on other websites and applications;
+  10. to comply with applicable legal requirements and our policies; and 
+  11. to contact you via telephone, text or chat. We will obtain your consent to contact you when and in the manner required by law.
+
+
+
+## Applications, Widgets and Social Media
+
+We may include applications or widgets from social media providers that allow interaction or content sharing by their users. These widgets, such as a Facebook “Share” or “Like” button, are visible to you on the web page you visit. Integration between our website and social media networks such as Facebook, Twitter and others may allow social media networks in which you participate to collect information about you, even when you do not explicitly activate the network’s application or widget. Please visit the applicable social media network’s privacy policy to better understand their data collection practices and choices they make available to you. The privacy policy of the social media network controls the collection, use and disclosure of all personal information transmitted to that network.
+
+## Advertising Networks
+
+Advertising that is customized based on predictions generated over time from your visits across different websites, devices and mobile applications is sometimes called "online behavioral" or "interest-based" advertising. We may partner with advertising networks, which are companies that deliver targeted advertisements to consumers and generate statistics and metrics related to the delivery of interest-based advertisements. They may utilize information collected through a variety of Data Technologies to provide customization, auditing, research and reporting for us, our affiliates and other advertisers. This data collection takes place both on our website and on third-party’s websites and mobile applications. This process allows our website and third parties to deliver targeted advertising, enhance marketing programs and help track the effectiveness of such efforts. Our advertising networks also may use this information for determining or predicting the characteristics and preferences of their respective advertising audiences and measuring the effectiveness of their advertising in accordance with their privacy policies. 
+
+We do not provide information that is directly associated with a specific person (such as name and address) to an advertising network when you interact with or view a customized advertisement. However, when you view or interact with an advertisement, the advertiser may make an assumption that you are interested in the subject matter of the advertisement. 
+
+Some companies disclose when they are using interest-based advertising programs on our website to deliver third-party ads or collecting information about your visit for these purposes and give you the ability to opt-out of this use of your information. You may see an icon  in or around third-party advertisements on our website that use interest-based advertising programs and on pages where data is collected and used for online interest-based advertising. Clicking on this icon will provide additional information about the companies and data practices that were used to deliver the ad. You can opt out of delivery of targeted advertising to you by multiple companies by visiting [www.aboutads.info/choices](http://www.aboutads.info/choices), [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp) and [www.evidon.com](https://web.archive.org/web/20140616232041id_/http%3A//boucherkia.com/page/Privacypolicy/master/www.evidon.com). Please note that even if you opt out, you will continue to receive advertisements, but they will not be tailored to your specific interests.
+
+## Information We Share
+
+We do not sell or otherwise share information about you that we collect or receive, except as described below:
+
+  1. _Affiliates and Manufacturers._ Information collected, including personal information and Data Technologies, may be shared with dealers and their affiliates and manufacturers, and their agents and third party service providers, who will use that information in accordance with their own privacy policies. For example: 
+    1. If you are interested in a particular listing of a car for sale on our website, information about you may be shared with our affiliates;
+    2. We may provide manufacturers, and their agents and third party service providers, with information about you that you provided us;
+  2. _Our Service Providers._ We may engage third parties to provide the services offered through or in connection with our website on our behalf. We require such providers to maintain information about you as confidential and to use the information only to perform the services specified by us in a manner consistent with this Privacy Statement. 
+  3. _Credit Applications._ If you apply for credit on our website or via any third party link from our website, it will be necessary for you to provide personal information to complete the application, including your address, credit information and history, employment and other financial information. We may share your application information with the our financial partners so that they can process your application and otherwise use it in accordance with their privacy policies, however, we will not use your personal financial information for interest based advertising.
+  4. _Corporate and Asset Transactions._ If we sell all or substantially all of our business or sell or transfer all or a material part of our assets, or are otherwise involved in a merger or transfer of all or a substantial part of our business, we may transfer all information we have collected and stored, including personal information, to the party or parties involved in the transaction as part of that transaction.
+  5. _Other._ We may access or disclose information, including personal information, to: 
+    1. protect or defend our interests and the legal rights or property of VinSolutions and our affiliates; 
+    2. protect the rights, interests, safety and security of users of our website or members of the public; 
+    3. protect against fraud or for risk management purposes; or 
+    4. comply with prudent legal practice as we may determine, and applicable law or legal process. 
+
+
+
+## Your Choices
+
+You are entitled to make certain choices about how we communicate with you.
+
+  1. You may choose not to provide personal information, even though that might impact your ability to register or receive a particular product or service. 
+  2. If you do not want to receive marketing email from our website, you can follow the unsubscribe link provided in those emails. 
+  3. If you do not want to receive interest-based advertisements, you can opt out as discussed in the “Advertising Networks” section above. 
+  4. You have a number of choices regarding certain Data Technologies. Most web browsers automatically accept cookies, but you can usually modify your browser’s setting to decline cookies if you prefer. You may also render some web beacons unusable by rejecting their associated cookies and disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or opting out at Evidon.com or the website of the technology provider. If you choose to decline cookies or similar technologies, however, please note that certain features may not function properly or at all as a result. You may be able to adjust the use of advertising identifiers on mobile devices through the settings on your device. Finally, if you do not want to use a uniquely generated telephone number, you may choose to not call us.
+  5. If you do not want us to use Location Information, you can decline our initial invitation to provide that information, or opt out by changing the location services settings on your mobile device. However, please note that certain features may not function properly or at all as a result if you opt out.
+
+
+
+## Your California Privacy Rights
+
+California Civil Code Section 1798.83 entitles California users to request information concerning whether a business has disclosed certain information about you to any third parties for the third parties’ direct marketing purposes. California users who wish to request further information in compliance with this law or have questions or concerns about our privacy practices and policies may contact us as specified in the “How to Contact Us” section below.
+
+Online Tracking Policy for California Residents. As of the effective date of this Privacy Statement, there is no commonly accepted response for Do Not Track signals initiated by browsers, therefore we do not respond to them.
+
+## Access and Correction
+
+Access to information that we collect and maintain about you may be available to you. For example, if you created a password-protected account within our website, you can access that account to update the information you previously provided. Additionally, if you believe that information we maintain about you is inaccurate, subject to applicable law, please contact us to request that we correct or amend your information. 
+
+## Links
+
+Our website may contain links to websites not operated by us, as well as third party widgets and applications discussed above. Once you leave our website, we suggest that you review the applicable privacy policy of the third-party website or application. We are not responsible for the content or use of any websites or applications other than on our website or the privacy practices of those websites or applications.
+
+## Data Security
+
+We use commercially reasonable administrative, technical, personnel, and physical security measures designed to safeguard information about you in our possession against loss, theft and unauthorized use, disclosure or modification. Of course, despite these measures, we cannot guarantee perfect security of networks, servers and databases we operate or that are operated on our behalf.
+
+## Disputes
+
+If you choose to visit our website, your visit and any dispute regarding privacy is subject to this Privacy Statement and our Visitor Agreement, including limitations on damages, resolution of disputes, and application of the law of the state of Georgia. 
+
+## Updates to this Privacy Statement
+
+We may update this Privacy Statement to provide clarification or notice of changes to our practices. If we make changes, we will revise the date at the top of this Privacy Statement. We will provide you with additional notice of material changes by posting notice of the changes for thirty (30) days before we implement those changes. 
