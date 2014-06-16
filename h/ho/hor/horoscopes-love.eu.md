@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the horoscopes-love.eu privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424232225id_/http%3A//www.horoscopes-love.eu/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the horoscopes-love.eu privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616091705id_/http%3A//www.horoscopes-love.eu/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Horoscopes-Love.eu
 
@@ -67,3 +67,9 @@ Contacting Us  
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 www.horoscopes-love.eu            [info@horoscopes-love.eu](mailto:info@horoscopes-love.eu) 
+
+Related Articles/Posts
+
+[](http://www.horoscopes-love.eu/our-partners.php "Our Partners, Article has been viewed 5103 times, Created by admin")[Our Partners...](http://www.horoscopes-love.eu/our-partners.php "Our Partners, Article has been viewed 5103 times, Created by admin")  
+Live Astrology Readings from Astro*Live*Link Consult expert professi...  
+
