@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the celtictuning.co.uk privacy policy that was archived on 2013-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131213145309id_/http%3A//www.celtictuning.co.uk/ct-privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the celtictuning.co.uk privacy policy that was archived on 2014-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140616040752id_/http%3A//www.celtictuning.co.uk/ct-privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head>
           <base href="http://www.celtictuning.co.uk/ct-privacy">
@@ -43,6 +43,8 @@ body {background:#101010;}body a {color:#cc0000;}#rt-header .rt-container {backg
   <script src="/modules/mod_roknavmenu/themes/fusion/js/fusion.js" type="text/javascript"></script>
   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
   <script src="http://www.celtictuning.co.uk/modules/mod_celtic_quote/assets/jquery.ui.custom.js" type="text/javascript"></script>
+  <script src="http://www.celtictuning.co.uk/components/com_celtic_vehicleman/assets/js/fancybox/jquery.fancybox.js" type="text/javascript"></script>
+  <script src="http://www.celtictuning.co.uk/components/com_celtic_vehicleman/assets/js/fancybox/helpers/jquery.fancybox-media.js?v=1.0.5" type="text/javascript"></script>
   <script type="text/javascript">
 window.addEvent('load', function() {
 				new JCaption('img.caption');
@@ -82,7 +84,7 @@ jQuery(document).ready(function(){
 jQuery.ajax({
 	type: "POST",
 	url: "index.php?option=com_celtic_vehicleman&view=makes&tmpl=raw",
-	data: {"34d84b26fb25ad87484819d4ebcf9048":1},
+	data: {"dc96c786e34da72f9247d46a937fde30":1},
 	success: function (response) { jQuery("#ddlMakes").html(response); }
 });
 
@@ -107,7 +109,7 @@ jQuery("#ddlMakes").change(function() {
 	jQuery.ajax({
 			type: "POST",
 			url: "index.php?option=com_celtic_vehicleman&view=models&tmpl=raw",
-			data: {"34d84b26fb25ad87484819d4ebcf9048":1,makeId:this.value},
+			data: {"dc96c786e34da72f9247d46a937fde30":1,makeId:this.value},
 			success: function (response) {
 				jQuery("#ddlModels").html(response);
 				jQuery("#ddlModels").removeAttr("disabled");
@@ -135,7 +137,7 @@ jQuery("#ddlModels").change(function() {
 	jQuery.ajax({
 			type: "POST",
 			url: "index.php?option=com_celtic_vehicleman&view=fuels&tmpl=raw",
-			data: {"34d84b26fb25ad87484819d4ebcf9048":1,modelId:this.value},
+			data: {"dc96c786e34da72f9247d46a937fde30":1,modelId:this.value},
 			success: function (response) {
 				jQuery("#ddlFuels").html(response);
 				jQuery("#ddlFuels").removeAttr("disabled");
@@ -157,7 +159,7 @@ jQuery("#ddlFuels").change(function() {
 	jQuery.ajax({
 			type: "POST",
 			url: "index.php?option=com_celtic_vehicleman&view=variants&tmpl=raw",
-			data: {"34d84b26fb25ad87484819d4ebcf9048":1,fuelId:this.value,modelId:jQuery("#ddlModels").val()},
+			data: {"dc96c786e34da72f9247d46a937fde30":1,fuelId:this.value,modelId:jQuery("#ddlModels").val()},
 			success: function (response) {
 				jQuery("#ddlVariants").html(response);
 				jQuery("#ddlVariants").removeAttr("disabled");
@@ -472,10 +474,10 @@ jQuery("#ddlFuels").change(function() {
  <!--
  var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
  var path = 'hr' + 'ef' + '=';
- var addy13762 = '&#117;ns&#117;bscr&#105;b&#101;' + '&#64;';
- addy13762 = addy13762 + 'c&#101;lt&#105;ct&#117;n&#105;ng' + '&#46;' + 'c&#111;' + '&#46;' + '&#117;k';
- document.write('<a ' + path + '\'' + prefix + ':' + addy13762 + '\'>');
- document.write(addy13762);
+ var addy56486 = '&#117;ns&#117;bscr&#105;b&#101;' + '&#64;';
+ addy56486 = addy56486 + 'c&#101;lt&#105;ct&#117;n&#105;ng' + '&#46;' + 'c&#111;' + '&#46;' + '&#117;k';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy56486 + '\'>');
+ document.write(addy56486);
  document.write('<\/a>');
  //-->\n </script><a href="mailto:unsubscribe@celtictuning.co.uk">unsubscribe@celtictuning.co.uk</a><script type="text/javascript">
  <!--
@@ -492,10 +494,10 @@ jQuery("#ddlFuels").change(function() {
  <!--
  var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
  var path = 'hr' + 'ef' + '=';
- var addy29538 = 'pr&#105;v&#97;cy' + '&#64;';
- addy29538 = addy29538 + 'c&#101;lt&#105;ct&#117;n&#105;ng' + '&#46;' + 'c&#111;' + '&#46;' + '&#117;k';
- document.write('<a ' + path + '\'' + prefix + ':' + addy29538 + '\'>');
- document.write(addy29538);
+ var addy33432 = 'pr&#105;v&#97;cy' + '&#64;';
+ addy33432 = addy33432 + 'c&#101;lt&#105;ct&#117;n&#105;ng' + '&#46;' + 'c&#111;' + '&#46;' + '&#117;k';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy33432 + '\'>');
+ document.write(addy33432);
  document.write('<\/a>');
  //-->\n </script><a href="mailto:privacy@celtictuning.co.uk">privacy@celtictuning.co.uk</a><script type="text/javascript">
  <!--
@@ -589,22 +591,34 @@ jQuery("#ddlFuels").change(function() {
 </div>
 </div>            </div>
         	                    <div class="rt-block">
+                                <script language="JavaScript" type="text/JavaScript" src="http://www.celtictuning.co.uk/components/com_activehelper_livehelp/server/import/javascript.php">
+ 
+</script> <script type="text/javascript"> 
+_vlDomain =1;
+_vlAgent =0;
+_vlService = 1; 
+_vlLanguage ="en";
+_vlTracking =1;
+ _vlStatus_indicator =1;
+ startLivehelp();
+</script>            </div>
+        	                    <div class="rt-block">
                                 
 
 <div class="custom">
-	<div><a href="/ct-warranty"><img src="/images/content/moneyback.jpg" alt="money back guarantee" style="vertical-align: middle; display: block; margin-left: auto; margin-right: auto;" border="0" height="84" width="176"></a></div></div>
+	<div><a href="/ct-warranty"><img src="/images/content/moneyback.jpg" alt="money back guarantee" style="vertical-align: middle; display: block; margin-left: auto; margin-right: auto;" border="0" width="176" height="84"></a></div></div>
             </div>
         	                    <div class="rt-block">
                                 
 
 <div class="custom">
-	<div><a href="/ct-warranty"><img src="/images/content/warranty.jpg" alt="warranty" style="display: block; margin-left: auto; margin-right: auto;" border="0" height="174" width="176"></a></div></div>
+	<div><a href="/ct-warranty"><img src="/images/content/warranty.jpg" alt="warranty" style="display: block; margin-left: auto; margin-right: auto;" border="0" width="176" height="174"></a></div></div>
             </div>
         	                    <div class="rt-block">
                                 
 
 <div class="custom">
-	<div><a href="/ct-faq"><img src="/images/content/faqs.jpg" alt="faqs" style="display: block; margin-left: auto; margin-right: auto;" border="0" height="84" width="176"></a></div></div>
+	<div><a href="/ct-faq"><img src="/images/content/faqs.jpg" alt="faqs" style="display: block; margin-left: auto; margin-right: auto;" border="0" width="176" height="84"></a></div></div>
             </div>
         	
                 </div>
@@ -702,11 +716,11 @@ jQuery("#ddlFuels").change(function() {
  <!--
  var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
  var path = 'hr' + 'ef' + '=';
- var addy12214 = '&#101;nq&#117;&#105;r&#105;&#101;s' + '&#64;';
- addy12214 = addy12214 + 'c&#101;lt&#105;ct&#117;n&#105;ng' + '&#46;' + 'c&#111;' + '&#46;' + '&#117;k';
- var addy_text12214 = '&#101;nq&#117;&#105;r&#105;&#101;s' + '&#64;' + 'c&#101;lt&#105;ct&#117;n&#105;ng' + '&#46;' + 'c&#111;' + '&#46;' + '&#117;k';
- document.write('<a ' + path + '\'' + prefix + ':' + addy12214 + '\'>');
- document.write(addy_text12214);
+ var addy37102 = '&#101;nq&#117;&#105;r&#105;&#101;s' + '&#64;';
+ addy37102 = addy37102 + 'c&#101;lt&#105;ct&#117;n&#105;ng' + '&#46;' + 'c&#111;' + '&#46;' + '&#117;k';
+ var addy_text37102 = '&#101;nq&#117;&#105;r&#105;&#101;s' + '&#64;' + 'c&#101;lt&#105;ct&#117;n&#105;ng' + '&#46;' + 'c&#111;' + '&#46;' + '&#117;k';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy37102 + '\'>');
+ document.write(addy_text37102);
  document.write('<\/a>');
  //-->\n </script><a href="mailto:enquiries@celtictuning.co.uk">enquiries@celtictuning.co.uk</a><script type="text/javascript">
  <!--
