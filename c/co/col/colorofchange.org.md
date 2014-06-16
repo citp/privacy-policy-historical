@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colorofchange.org privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215220049id_/http%3A//colorofchange.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colorofchange.org privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616224543id_/http%3A//colorofchange.org/about/privacy) for the most accurate reproduction.*
 
 # ColorOfChange | Privacy Policy
 
