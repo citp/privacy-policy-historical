@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ralphlaurenhome.com privacy policy that was archived on 2013-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131228054350id_/http%3A//www.ralphlauren.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Drestrictions%23policies) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ralphlaurenhome.com privacy policy that was archived on 2014-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140616214358id_/http%3A//www.ralphlauren.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Drestrictions%23policies) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 
@@ -161,7 +161,7 @@ function jump(url)
  
 
 
-	
+
 <script type="text/javascript">
 	var baseURLjs = '';
 </script>
@@ -203,6 +203,11 @@ function sendXtraFlashParam() {
 	<script src="http://www.ralphlauren.com/include/expressShop.js"></script>
 	<script src="http://www.ralphlauren.com/include/flashobject.js"></script>
 	<script src="http://www.ralphlauren.com/include/swfobject.js"></script>
+	<script src="http://www.ralphlauren.com/js/siteOptimization/lib/mdetect.js"></script>
+	<script src="http://www.ralphlauren.com/js/siteOptimization/utils.js"></script>
+	<script src="http://www.ralphlauren.com/js/siteOptimization/browserDetector.js"></script>
+	<script src="http://www.ralphlauren.com/js/siteOptimization/components/backtotop.js"></script>
+	<script src="http://www.ralphlauren.com/js/siteOptimization/augment.min.js"></script>
 	<script>
 		$.noConflict();
 		setMiniCartLen(-1);
@@ -233,7 +238,9 @@ function sendXtraFlashParam() {
 <link rel="stylesheet" href="https://fonts.ralphlauren.com/rl-com/fonts.css">
 
 <link rel="stylesheet" type="text/css" href="http://www.ralphlauren.com/include/header.css">
-	<!--<link rel="stylesheet" type="text/css" href="http://www.ralphlauren.com/css/topnav.css" />--><link rel="stylesheet" type="text/css" href="http://www.ralphlauren.com/css/tipsy.css">
+	<link rel="stylesheet" type="text/css" href="http://www.ralphlauren.com/css/tipsy.css">
+	<link rel="stylesheet" type="text/css" href="http://www.ralphlauren.com/css/siteOptimization/base.css">
+	<link rel="stylesheet" type="text/css" href="http://www.ralphlauren.com/css/siteOptimization/components/backtotop.css">
 	<!--[if IE]><link rel="stylesheet" type="text/css" href="http://www.ralphlauren.com/css/ie.css" /><![endif]-->
 	<!--[if IE 6]><script type="text/javascript" src="http://www.ralphlauren.com/js/iepngfix_tilebg.js"></script><![endif]-->
 	<!--[if IE 6]><link rel="stylesheet" type="text/css" href="http://www.ralphlauren.com/css/store_ie6.css" /><![endif]-->
@@ -270,8 +277,10 @@ var section = "";
 
 
 <div id="wrapper">
-<div id="site-header" class="">
-	<a id="logo" href="/home/index.jsp?ab=global_logo" title="Ralph Lauren">Ralph Lauren</a>
+<div itemscope="" itemtype="http://schema.org/Organization" id="site-header" class="">
+	<a id="logo" href="/home/index.jsp?ab=global_logo" title="Ralph Lauren">
+		<img itemprop="logo" src="/images/logo.png" alt="Ralph Lauren">
+	</a>
 	
 <div id="utility-container">
 	<ul id="utility-nav">
@@ -416,7 +425,7 @@ var section = "";
 
 	<div id="free-shipping">
 		
-			<a href="#freeshipping195" onclick="javascript:void(window.open(' http://www.ralphlauren.com/helpdesk/freeshipping195.html','freeshipping195','width=660,height=660,toolbar=no,status=no,menubar=no,scrollbars=no,resizable=no'))" class="feature" style="text-decoration:none;"><nobr>Enjoy complimentary shipping <br> on orders of $195 or more</nobr></a>
+			<a href="#promo" onclick=" javascript:void(window.open('/promo/index.jsp?promoId=3098006&amp;ab=int_05202014_FREESHIPPING_SEEDETAILS','promo','width=600,height=350,toolbar=no,status=no,menubar=no,scrollbars=yes,resizable=no'))" class="feature" style="text-decoration:none;"> <span style="font-weight:bold;font-size:12px"> Enjoy free shipping on all orders <br> for a limited time</span></a>
 		
 	</div>
 	
@@ -445,9 +454,8 @@ var section = "";
 				<li rel="men-denim"><a class="" title="Denim &amp; Supply" href="/shop/index.jsp?categoryId=11757742&amp;ab=global_men_denimsupply">Denim &amp; Supply</a></li>
 				<li rel="men-bigtall"><a class="" title="Big &amp; Tall" href="/shop/index.jsp?categoryId=1995989&amp;ab=global_men_bigandtall&amp;tall&amp;cp=1995989">Big &amp; Tall</a></li>
 				<li rel="men-golf"><a class="" title="Golf" href="/shop/index.jsp?categoryId=1795710&amp;ab=global_men_golf&amp;cp=1795710">Golf</a></li>
-				<!--li rel="men-tennis"><a class="" title="Tennis" href="/shop/index.jsp?categoryId=2365312&amp;ab=global_men_tennis&amp;cp=2365312">Tennis</a></li-->
+				<li rel="men-tennis"><a class="" title="Tennis" href="/shop/index.jsp?categoryId=2365312&amp;ab=global_men_tennis&amp;cp=2365312">Tennis</a></li>
 			</ul>
-			<div class="more-pop-img"><a href=""><img src="#" alt=""></a></div>
 		</div>
 	</li>
 	<li rel="women" class="navitem more ">
@@ -465,15 +473,17 @@ var section = "";
 				<li rel="women-denim"><a class="" title="Denim &amp; Supply" href="/shop/index.jsp?categoryId=11757744&amp;ab=global_women_denimsupply">Denim &amp; Supply</a></li>
 				<li rel="women-golf"><a class="" title="Golf &amp; Tennis" href="/shop/index.jsp?categoryId=1766618&amp;ab=global_women_golfandTennis&amp;cp=1766618">Golf &amp; Tennis</a></li>
 			</ul>
-			<div class="more-pop-img"><a href=""><img src="#" alt=""></a></div>
 		</div>
 	</li>
 	<li rel="children" class="navitem "><a title="Children" class="" href="/shop/index.jsp?categoryId=1760783&amp;ab=global_children"><span>Children</span></a></li>
 	<li rel="baby" class="navitem "><a title="Baby" class="" href="/shop/index.jsp?categoryId=2048081&amp;ab=global_baby"><span>Baby</span></a></li>
 	<li rel="home" class="navitem "><a title="Home" class="" href="/shop/index.jsp?categoryId=1760785&amp;ab=global_home"><span>Home</span></a></li>
+	<li rel="gift" class="navitem "><a title="Gifts" class="" href="/shop/index.jsp?categoryId=34659716&amp;ab=global_gifts"><span>Gifts</span></a></li>
 	<li rel="sale" class="navitem "><a title="Sale" class=" sale" href="/shop/index.jsp?categoryId=1760788&amp;ab=global_sale"><span>Sale</span></a></li>
 	<li rel="style" class="navitem"><a title="Style Guide" target="_blank" href="http://global.ralphlauren.com/en-us/rlstyleguide/Pages/default.aspx?ab=global_styleguide"><span>Style Guide</span></a></li>
-	<li rel="world" class="navitem more"><a title="World of Ralph Lauren" target="_blank" href="http://global.ralphlauren.com/worldofralphlauren?ab=global_world_WorldOf"><span>World of Ralph Lauren</span></a>
+	<li rel="world" class="navitem more">
+		
+		<a title="World of RL" href="#"><span>World of RL</span></a>
 		<div class="more-pop">
 			<ul class="more-pop-nav">
 				<li rel="worl-mag"><a title="RL Magazine" target="_blank" href="http://global.ralphlauren.com/en-us/rlmagazine/Pages/default.aspx?ab=global_world_rlmag">RL Magazine</a></li>
@@ -482,7 +492,6 @@ var section = "";
 				<li rel="worl-flagship"><a class="" title="Flagship Store" target="_blank" href="http://stores.ralphlauren.com/Flagships/?ab=global_world_FlagshipStores">Flagship Store</a></li>
 				<li rel="worl-restaurants"><a class="" title="RL Restaurants" target="_blank" href="http://global.ralphlauren.com/en-us/About/Pages/restaurants.aspx?ab=global_world_restaurants">RL Restaurants</a></li>
 			</ul>
-			<div class="more-pop-img"><a href=""><img src="#" alt=""></a></div>
 		</div>
 	</li>
 </ul>
@@ -503,7 +512,6 @@ var section = "";
 		<span id="JCwrapFTW" align="left" class="helpdesk">
 
 		
-
 
 
 
@@ -584,7 +592,7 @@ var section = "";
 		
 		<td id="right-content" valign="top">
 		<!--STOREMAN GENERATION - 2 panel(s) found for slot: HelpSlot entryId: 1816748 with pd:null-->
-<!--STOREMAN PANEL: helpdesk/polo_helpdesk_privsec_1.1243663.jsp-->
+<!--STOREMAN PANEL: helpdesk/polo_helpdesk_privsec_1.1312363.jsp-->
 
 				<!--?xml version="1.0" encoding="ISO-8859-1" standalone="no"?-->
 
@@ -629,7 +637,7 @@ var section = "";
       <td width="646" style="background-color:CFDDF1" height="22" class="hdsubheader"><a name="policies">&nbsp;&nbsp;&nbsp;</a>Website and Store Privacy Notice</td>
     </tr>
     <tr>
-      <td>&nbsp;&nbsp;&nbsp;Last modified: August 17, 2013</td>
+      <td>&nbsp;&nbsp;&nbsp;Last modified: January 4, 2014</td>
     </tr>
     <tr>
       <td><table cellpadding="0" cellspacing="10" border="0">
@@ -730,18 +738,19 @@ var section = "";
                   </div>
                   <div style="margin-left:20px;"> <a name="OWInformation">&nbsp;&nbsp;&nbsp;</a>
                     <p> <i> Information We Collect by Automated Means </i> </p>
-                    <p> We obtain certain information by automated means when you visit our website, such as the IP address of the device you use to connect to the Internet and the pages accessed.  By collecting this information, we learn how to best tailor our website to our visitors and understand what products and services you might prefer.  We collect this information through various means, such as "cookies" and "web beacons." </p>
+                    <p> We obtain certain information by automated means when you visit our website, such as the IP address of the device you use to connect to the Internet and the pages accessed.  By collecting this information, we learn how to best tailor our website to our visitors and understand what products and services you might prefer.  We collect this information through various means, such as "cookies" and "web beacons." Both we and others (such as our service providers) may collect personal information about our visitors’ online activities over time and across third-party websites.</p>
                     <div style="margin-left:20px;">
                       <p> <i> Cookies </i> </p>
                       <p> Like many companies, we use "cookies" on this website.  Cookies are bits of text that are placed on your computer's hard drive when you visit certain websites.  Cookies may enhance your online experience by saving your preferences while you are visiting a particular site.  We use cookies, for example, to preserve the contents of your virtual shopping bag between visits.  We also use cookies to measure activity on the site and determine which areas and features of the site are the most popular. </p>
                       <p> Most browsers will tell you how to stop accepting new cookies, how to be notified when you receive a new cookie and how to disable existing cookies.  Without cookies, however, you may not be able to take full advantage of all our site features.  For example, if you turn off cookies or refuse them, you will not be able to make purchases on the site. </p>
+					  <p> Using cookies, we utilize Google AdWords remarketing service to show you our ads on other websites based on your prior visits to our website. You can opt out of this feature by clicking <a class="hdNav" href="http://www.google.com/ads/preferences">here</a>.</p>
                     </div>
                     <div style="margin-left:20px;">
                       <p> <i> Web Beacons </i> </p>
                       <p> Certain pages on this website contain "web beacons" (also known as Internet tags, pixel tags and clear GIFs).  Web beacons are used for internal purposes, such as to obtain the IP address of the computer that downloaded the page on which the beacon appears, the URL of the page on which the beacon appears, the time the page containing the beacon was viewed, and the type of browser used to view the page.  We also retain service providers who use web beacons to assess the effectiveness of our email communications and learn what pages our visitors viewed. </p>
                     </div>
                   </div>
-                  <p> We may use Omniture (www.omniture.com) to measure the effectiveness of our advertising and determine how visitors use this website.  Omniture tools, including cookies and web beacons, allow us to collect information such as the state and zip code from which our visitors come and the IP addresses of our visitors' computers.  To opt out of aggregation and analysis of data collected by Omniture, please click <a class="hdNav" href="http://www.omniture.com/en/privacy/product">here</a>. </p>
+                  <p> We may use third party web analytics services, such as those of Adobe Analytics and Google Analytics, to measure the effectiveness of our advertising and determine how visitors use this website.  These service providers’ tools, including cookies and web beacons, allow us to collect information such as the state and zip code from which our visitors come and the IP addresses of our visitors' computers.  To opt out of aggregation and analysis of data collected by Adobe Analytics and Google Analytics, please click <a class="hdNav" href="http://www.adobe.com/privacy/analytics.html">here</a> and <a class="hdNav" href="http://tools.google.com/dlpage/gaoptout">here</a>. </p>
                 </div>
                 <div style="margin-left:20px;"> <a name="OurStores">&nbsp;&nbsp;&nbsp;</a>
                   <p style="font-weight:bold;" class="p-bold"> Our Stores </p>
@@ -804,7 +813,8 @@ var section = "";
                 <a name="YourChoices">&nbsp;&nbsp;&nbsp;</a>
                 <p style="font-weight:bold;" class="p-bold"> Your Choices </p>
                 <p> We offer you certain choices about how we communicate with you and what information we collect from you.  You may withdraw any consent you previously provided to us or object at any time on legitimate grounds and free of charge to the processing of your personal information, and we will apply your preferences going forward. </p>
-                <p> You can choose not to receive marketing communications from us by clicking on the unsubscribe link in our marketing emails, <a class="hdNav" href="http://app.ralphlauren.com/unsub/unsub.cfm">clicking here</a>, or contacting us as specified in the "How to Contact Us" section below.  Please include your name, email address and postal address if you send us your request by email or postal mail.  To opt out of aggregation and analysis of data collected by Omniture, please click <a class="hdNav" href="http://www.omniture.com/en/privacy/product">here</a>. </p>
+                <p> You can choose not to receive marketing communications from us by clicking on the unsubscribe link in our marketing emails, <a class="hdNav" href="http://app.ralphlauren.com/unsub/unsub.cfm">clicking here</a>, or contacting us as specified in the "How to Contact Us" section below.  Please include your name, email address and postal address if you send us your request by email or postal mail.  To opt out of aggregation and analysis of data collected by Adobe Analytics and Google Analytics, please click <a class="hdNav" href="http://www.adobe.com/privacy/analytics.html">here</a> and <a class="hdNav" href="http://tools.google.com/dlpage/gaoptout">here</a>. 
+				Our website is not designed to respond to "do not track" signals received from browsers. </p>
                 <p> If you are a California resident, you may ask us to refrain from sharing your information with certain of our affiliates and other third parties for their marketing purposes. </p>
                 <a name="ChildrenPrivacy">&nbsp;&nbsp;&nbsp;</a>
                 <p style="font-weight:bold;" class="p-bold"> Children's Privacy </p>
@@ -841,8 +851,8 @@ var section = "";
         </tbody></table></td>
     </tr>
 </tbody></table>
-</smpanel><!--END STOREMAN PANEL helpdesk/polo_helpdesk_privsec_1.1243663.jsp-->
-<!--STOREMAN PANEL: helpdesk/polo_helpdesk_privsec_2.1240863.jsp-->
+</smpanel><!--END STOREMAN PANEL helpdesk/polo_helpdesk_privsec_1.1312363.jsp-->
+<!--STOREMAN PANEL: helpdesk/polo_helpdesk_privsec_2.1371163.jsp-->
 
 				<!--?xml version="1.0" encoding="ISO-8859-1" standalone="no"?-->
 
@@ -852,7 +862,7 @@ var section = "";
       <td style="background-color:CFDDF1" height="22" class="hdsubheader"><a name="europe">&nbsp;&nbsp;&nbsp;</a> Safe Harbor Privacy Policy</td>
     </tr>
     <tr>
-      <td>&nbsp;&nbsp;&nbsp;Last modified: August 17, 2013</td>
+      <td>&nbsp;&nbsp;&nbsp;Last modified: June 7, 2014</td>
     </tr>
     <tr>
       <td><table cellpadding="0" cellspacing="0" border="0">
@@ -927,7 +937,7 @@ var section = "";
                         <br>
                         Ralph Lauren has established procedures for periodically verifying implementation of and compliance with the Safe Harbor principles. We conduct an annual self-assessment of our practices with respect to Personal Information to verify that representations we make about our Personal Information privacy practices are true and that related privacy policies have been implemented as represented. <br>
                         <br>
-                        Customers and Workers may file a complaint with Ralph Lauren in connection with the processing of their Personal Information under the Safe Harbor principles. We will also cooperate with the following dispute resolution bodies to address individuals' complaints regarding privacy issues: (i) for Customer complaints, we cooperate with the American Arbitration Association in accordance with its applicable commercial rules; (ii) for complaints concerning our handling of Worker Personal Information, we cooperate with the relevant EU data protection authorities. We will take steps to remedy any issues arising out of a failure to comply with the Safe Harbor principles. Please contact us as specified below to address any complaints regarding our Personal Information practices <br>
+                        Customers and Workers may file a complaint with Ralph Lauren in connection with the processing of their Personal Information under the Safe Harbor principles. We will also cooperate with the following dispute resolution bodies to address individuals' complaints regarding privacy issues: (i) for Customer complaints, we cooperate with JAMS in accordance with the JAMS Safe Harbor Program, which is described on the JAMS website at <a href="http://www.jamsadr.com/safeharbor/" class="hdNav">http://www.jamsadr.com/safeharbor/</a>; (ii) for complaints concerning our handling of Worker Personal Information, we cooperate with the relevant EU data protection authorities. We will take steps to remedy any issues arising out of a failure to comply with the Safe Harbor principles. Please contact us as specified below to address any complaints regarding our Personal Information practices <br>
                         <br>
                         <b>How to Contact Us</b> <br>
                         <br>
@@ -1010,7 +1020,7 @@ var section = "";
     </tr>
 </tbody></table>
 </smpanel>
-<!--END STOREMAN PANEL helpdesk/polo_helpdesk_privsec_2.1240863.jsp-->
+<!--END STOREMAN PANEL helpdesk/polo_helpdesk_privsec_2.1371163.jsp-->
 <!--END STOREMAN GENERATION-->
 
 			
@@ -1033,7 +1043,7 @@ var section = "";
 
 
 
-<!--You are running on slcprd2_ws_30_2-->
+<!--You are running on slcprd2_ws_61_10-->
 
 
 
@@ -1094,8 +1104,7 @@ function emailCheck1(type)
 
 
 
-
-
+ 
 </span><!-- JCwrapFTW -->
 <span id="JCBottomShadow"><img src="http://www.ralphlauren.com/images/pixel.gif" width="1" height="10" border="0" class="helpdesk"></span>
 </span><!-- JCSuperWrap -->
@@ -1256,7 +1265,7 @@ function emailCheck1(type)
 			<a href="/helpdesk/sitemap.jsp?ab=footer_sitemap" class="fCopyright">Site Map</a>
 			<a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=restrictions&amp;ab=footer_privacypolicy#policies" class="fCopyright">Privacy Notice</a>
 			<a href="/helpdesk/index.jsp?display=corp&amp;subdisplay=terms&amp;ab=footer_termsofuse" class="fCopyright">Terms of Use</a>
-			<a href="/helpdesk/index.jsp?display=corp&amp;subdisplay=terms&amp;ab=footer_copyright#copy" class="fCopyright">Copyright © 2013 Ralph Lauren Media LLC</a>
+			<a href="/helpdesk/index.jsp?display=corp&amp;subdisplay=terms&amp;ab=footer_copyright#copy" class="fCopyright">Copyright © 2014 Ralph Lauren Media LLC</a>
 		</div>
 		<div class="clear"></div>
 
@@ -1312,7 +1321,7 @@ Creation Date: 07/24/2012
 	} else {
 		document.write('<iframe src="http://fls.doubleclick.net/activityi;src=3721446;type=retar894;cat=ralph807;ord=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
 	}
-</script><iframe src="https://fls.doubleclick.net/activityi;src=3721446;type=retar894;cat=ralph807;ord=9182124420126.29?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+</script><iframe src="https://fls.doubleclick.net/activityi;src=3721446;type=retar894;cat=ralph807;ord=6336577893630.941?" width="1" height="1" frameborder="0" style="display:none"></iframe>
 <noscript>
 	<iframe src="http://fls.doubleclick.net/activityi;src=3721446;type=retar894;cat=ralph807;ord=1?" width="1" height="1" frameborder="0" style="display:none"></iframe>
 </noscript>
@@ -1328,7 +1337,7 @@ Creation Date: 07/24/2012
 
 
 
-<!--You are running on slcprd2_ws_30_2-->
+<!--You are running on slcprd2_ws_61_10-->
 
 
 
@@ -1384,7 +1393,7 @@ if(rewardsflagPage==1){
 
 
 
-<!--You are running on slcprd2_ws_30_2-->
+<!--You are running on slcprd2_ws_61_10-->
 
 
 
@@ -1401,7 +1410,7 @@ if(rewardsflagPage==1){
 
 
 
-<!--You are running on slcprd2_ws_30_2-->
+<!--You are running on slcprd2_ws_61_10-->
 
 
 
@@ -1420,7 +1429,7 @@ if(rewardsflagPage==1){
 
 
 
-<!--You are running on slcprd2_ws_30_2-->
+<!--You are running on slcprd2_ws_61_10-->
 
 
 
@@ -1447,7 +1456,7 @@ if(rewardsflagPage==1){
 
 
 
-<!--You are running on slcprd2_ws_30_2-->
+<!--You are running on slcprd2_ws_61_10-->
 
 
 
@@ -1525,7 +1534,7 @@ function getSREDID(){
 
 
 
-<!--You are running on slcprd2_ws_30_2-->
+<!--You are running on slcprd2_ws_61_10-->
 
 
 
@@ -1687,10 +1696,6 @@ else{
 
 //Locale Country Selected
 
-//pageTracker._setCustomVar(5, 'Locale', 'U.S', 2); 
-//pageTracker._trackEvent('Visitor Actions', 'Locale Selected', 'U.S');
-
-
 
 if((document.location.href).indexOf("home") > -1){
 	pageTracker._setCustomVar(5, 'Locale', 'U.S', 2); 
@@ -1752,6 +1757,7 @@ pageTracker._trackPageview();
 	</script>
 	
 </div><!-- /wrapper -->
+
 
 <iframe src="http://switch.atdmt.com/iaction/RLcom_Assistance_landing" width="1" height="1" frameborder="0" scrolling="No" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0"></iframe>
 <script src="http://www.ralphlauren.com/js/poloHelpdesk.js" type="text/javascript"></script>
