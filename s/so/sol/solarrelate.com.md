@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solarrelate.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214050536id_/http%3A//www.solarrelate.com/%3Fpage_id%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solarrelate.com privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616105019id_/http%3A//www.solarrelate.com/%3Fpage_id%3D2) for the most accurate reproduction.*
 
 # business » Privacy Policy
 
