@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airtelmoney.in privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231232251id_/http%3A//www.airtel.in/forme/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airtelmoney.in privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616085208id_/http%3A//www.airtel.in/forme/privacy-policy) for the most accurate reproduction.*
 
 # :: airtel :: Privacy Policy
 
