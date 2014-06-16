@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amightygirl.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215052946id_/http%3A//www.amightygirl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amightygirl.com privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616053817id_/http%3A//www.amightygirl.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | A Mighty Girl
 
