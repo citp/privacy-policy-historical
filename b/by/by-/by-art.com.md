@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the by-art.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112113556id_/http%3A//www.by-art.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the by-art.com privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616023531id_/http%3A//by-art.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
