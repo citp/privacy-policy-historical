@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dinohill.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209162857id_/http%3A//www.dinohill.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dinohill.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617064609id_/http%3A//www.dinohill.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Great Games For EveryOne - DinoHill
 
