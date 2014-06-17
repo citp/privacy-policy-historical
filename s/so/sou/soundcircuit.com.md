@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the soundcircuit.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215223659id_/http%3A//www.soundcircuit.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundcircuit.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617220315id_/http%3A//www.soundcircuit.com/about/privacy.php) for the most accurate reproduction.*
 
 # None
 
   
-**Warning** : include(contact/head.inc) [[function.include](https://web.archive.org/web/20131215223659id_/http%3A//www.soundcircuit.com/about/function.include)]: failed to open stream: No such file or directory in **/home/admin/domains/soundcircuit.com/public_html/about/privacy.php** on line **1**
+**Warning** : include(contact/head.inc) [[function.include](https://web.archive.org/web/20140617220315id_/http%3A//www.soundcircuit.com/about/function.include)]: failed to open stream: No such file or directory in **/home/admin/domains/soundcircuit.com/public_html/about/privacy.php** on line **1**
 
-**Warning** : include() [[function.include](https://web.archive.org/web/20131215223659id_/http%3A//www.soundcircuit.com/about/function.include)]: Failed opening 'contact/head.inc' for inclusion (include_path='.:/usr/local/lib/php') in **/home/admin/domains/soundcircuit.com/public_html/about/privacy.php** on line **1**
+**Warning** : include() [[function.include](https://web.archive.org/web/20140617220315id_/http%3A//www.soundcircuit.com/about/function.include)]: Failed opening 'contact/head.inc' for inclusion (include_path='.:/usr/local/lib/php') in **/home/admin/domains/soundcircuit.com/public_html/about/privacy.php** on line **1**
 
 ## Privacy Statement
 
@@ -32,6 +32,6 @@ If you would like to update your profile on SoundCircuit.com, just click [**Edit
 
 If you have questions about this policy, please [contact us](https://web.archive.org/about/contact/). 
 
-**Warning** : include(contact/foot.inc) [[function.include](https://web.archive.org/web/20131215223659id_/http%3A//www.soundcircuit.com/about/function.include)]: failed to open stream: No such file or directory in **/home/admin/domains/soundcircuit.com/public_html/about/privacy.php** on line **36**
+**Warning** : include(contact/foot.inc) [[function.include](https://web.archive.org/web/20140617220315id_/http%3A//www.soundcircuit.com/about/function.include)]: failed to open stream: No such file or directory in **/home/admin/domains/soundcircuit.com/public_html/about/privacy.php** on line **36**
 
-**Warning** : include() [[function.include](https://web.archive.org/web/20131215223659id_/http%3A//www.soundcircuit.com/about/function.include)]: Failed opening 'contact/foot.inc' for inclusion (include_path='.:/usr/local/lib/php') in **/home/admin/domains/soundcircuit.com/public_html/about/privacy.php** on line **36**
+**Warning** : include() [[function.include](https://web.archive.org/web/20140617220315id_/http%3A//www.soundcircuit.com/about/function.include)]: Failed opening 'contact/foot.inc' for inclusion (include_path='.:/usr/local/lib/php') in **/home/admin/domains/soundcircuit.com/public_html/about/privacy.php** on line **36**
