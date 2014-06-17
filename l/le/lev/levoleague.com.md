@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the levoleague.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806173930id_/http%3A//www.levoleague.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the levoleague.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617110621id_/http%3A//www.levo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy ~ Levo League
 
@@ -66,6 +66,6 @@ Levo League reserves the right to change this policy and our Terms of Service at
 
 ## VII. CONTACT US
 
-If you have any questions regarding this Privacy Policy or the practices of this Site, please contact us by sending an email to [info@levoleague.com](mailto:info@levoleague.com). 
+If you have any questions regarding this Privacy Policy or the practices of this Site, please contact us by sending an email to [info@levo.com](mailto:info@levo.com). 
 
 Last Updated: This Privacy Policy was last updated on November 13, 2012.
