@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the rapidonline.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211215855id_/http%3A//www.rapidonline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidonline.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617175037id_/http%3A//www.rapidonline.com/privacy) for the most accurate reproduction.*
 
 # Rapid Electronics Privacy & Cookie Policy
-
-## Privacy and Cookies Policy
 
 Overview
 
@@ -21,6 +19,10 @@ We gather this information to allow us to process your registration and efficien
 We may use aggregated information for the purposes of tracking the usage of our services and in order to help us develop and improve the website and such services. We may pass this information to third parties. The aggregated information and statistics will not, however, include details that can be used to identify you.
 
 We may have received personal information about you from other companies and organisations (for example, marketing purposes) and we rely on these third parties to obtain your consent for us to use this information.
+
+We will only send marketing material or advertise the products and services of the company by email to subscribers whose contact details the company has obtained either in the course of a transaction or registration. All subscribers will be offered a means of opting out of such communications at the time their details were initially collected and each subsequent communication. 
+
+Cookies
 
 We use a number of different cookies on our website. 
 
