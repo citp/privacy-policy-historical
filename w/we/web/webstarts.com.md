@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the webstarts.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223232129id_/http%3A//www.webstarts.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webstarts.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617091203id_/http%3A//webstarts.com/privacy) for the most accurate reproduction.*
 
 # Webstarts Privacy Policy
 
 ### Our Commitment to Your Privacy
 
-This site is owned and operated by Webstarts, Inc. Your privacy on the Internet is of the utmost importance to us. At Webstarts.com, we want to make your online experience satisfying and safe.
+Your privacy on the Internet is of the utmost importance to us. At Webstarts.com, we want to make your online experience satisfying and safe.
 
 Because we gather certain types of information about our users, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it. 
 
