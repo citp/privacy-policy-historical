@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canadianfreestuff.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213080948id_/http%3A//www.canadianfreestuff.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadianfreestuff.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617061820id_/http%3A//www.canadianfreestuff.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CanadianFreeStuff.com
 
@@ -8,7 +8,7 @@
 
 **General:**
 
-> Canadianfreestuff.com does NOT share personal information you provide to us with other companies. We will NEVER release, sell or give a member’s name or e-mail address to any other entity, party or organization, without the member’s explicit prior permission.
+> Canadianfreestuff.com **does NOT** share personal information you provide to us with other companies. We will NEVER release, sell or give a member’s name or e-mail address to any other entity, party or organization, without the member’s explicit prior permission.
 
 **Other sites:**
 
@@ -32,7 +32,7 @@
 
 **Children:**
 
-> When a child under age 13 registers with Canadianfreestuff.com, we suggest that a parent is present to prevent the child from inadvertantly volunteering private information.
+> When a child under age 18 registers with Canadianfreestuff.com, we suggest that a parent is present to prevent the child from inadvertently volunteering private information.
 
 **Logfiles:**
 
