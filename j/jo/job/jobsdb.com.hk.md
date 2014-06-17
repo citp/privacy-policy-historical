@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobsdb.com.hk privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222050450id_/http%3A//hk.jobsdb.com/HK/en/StaticContentContainer/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsdb.com.hk privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617041829id_/http%3A//hk.jobsdb.com/HK/en/StaticContentContainer/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # None
 
@@ -74,7 +74,7 @@ Generally speaking, jobsDB Hong Kong will only disclose and/or transfer Users' p
 
 (b) where the information and/or data is disclosed and/or transferred to any agents, affiliates or associates of jobsDB Hong Kong who have been duly authorized by jobsDB Hong Kong to use such information and/or data; 
 
-(c) where permitted under the " **[Terms and Conditions](https://web.archive.org/web/20131222050450id_/http%3A//hk.jobsdb.com/HK/en/StaticContentContainer/TermsAndConditions.htm)** "; 
+(c) where permitted under the " **[Terms and Conditions](https://web.archive.org/web/20140617041829id_/http%3A//hk.jobsdb.com/HK/en/StaticContentContainer/TermsAndConditions.htm)** "; 
 
 (d) where jobsDB Hong Kong needs to protect and defend its rights and property;
 
@@ -175,5 +175,5 @@ If jobsDB Hong Kong makes material changes to this Privacy Statement, jobsDB Hon
 Should you have any enquiries, please email at [cs@jobsdb.com](mailto:cs@jobsdb.com), telephone at +852 2332-8832 or write to us at the following address:
 
 jobsDB Hong Kong  
-16/F, Prosperity Millennia Plaza  
-663 King's Road, North Point, Hong Kong 
+11/F, guardian house  
+32 oi kwan road, wan chai, hong kong 
