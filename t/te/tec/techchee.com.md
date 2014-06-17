@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techchee.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216203058id_/http%3A//www.techchee.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techchee.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617171831id_/http%3A//www.techchee.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TechChee.com, gadgets, gizmo and hot tech stuff
 
