@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the animeholics.org privacy policy that was archived on 2013-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130826095221id_/http%3A//animeholics.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animeholics.org privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618014009id_/http%3A//animeholics.org/privacy-policy) for the most accurate reproduction.*
 
-# » Privacy Policy Anime Holics Organization
+# Privacy Policy | AHO Streaming
+
+Anime Holics Organization is committed to protecting your online privacy while providing you with the most useful and enjoyable Web experience possible.
 
 ## How we collect and use personal information
 
@@ -20,10 +22,8 @@ All personal data you enter on Anime Holics Organization is stored on our secure
 
 While Anime Holics Organization does not provide any third-party access to your personal information, we may provide third parties with aggregate statistics about our customers, traffic patterns, and related site information. This data reflects site usage patterns gathered during thousands of customer visits to our Web site each month, but it does not contain behavioral or identifying information about any individual member.
 
-Anime Holics Organization uses third-party advertising companies to serve ads when you visit our site. This company may use information about your visits to our and other Web sites in order to provide advertisements about goods and services of interest to you. In addition, we share Web site usage information about visitors to our site with these companies for the purpose of managing and targeting advertisements on our sites. For this purpose, we and our third-party advertising companies note some of the pages you visit on our sites through the use of pixel tags (also called “clear gifs”).
-
-In the course of advertisements being served to you, a unique third-party cookie or cookies may be placed your browser. In addition, we use Web beacons, provided by third-party advertising companies, to help manage and optimize our online advertising. Web beacons enable us to recognize a browser’s cookie when a browser visits this site, to learn which banner ads bring users to our Web site and to deliver more relevant advertising.
+Anime Holics Organization uses third-party advertising companies to serve ads when you visit our site. This company may use information about your visits to our and other Web sites in order to provide advertisements about goods and services of interest to you. In addition, we share Web site usage information about visitors to our site with these companies for the purpose of managing and targeting advertisements on our sites. For this purpose, we and our third-party advertising companies note some of the pages you visit on our sites through the use of pixel tags (also called “clear gifs”). In the course of advertisements being served to you, a unique third-party cookie or cookies may be placed your browser. In addition, we use Web beacons, provided by third-party advertising companies, to help manage and optimize our online advertising. Web beacons enable us to recognize a browser’s cookie when a browser visits this site, to learn which banner ads bring users to our Web site and to deliver more relevant advertising.
 
 With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
-If you feel that this site is not following its stated information policy, you may [send us a message anytime](http://animeholics.org/contact-us/ "Contact Us — Anime Holics Organization") about the issue.
+If you feel that this site is not following its stated information policy, you may contact us.
