@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the entrance-exam.net privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202062159id_/http%3A//entrance-exam.net/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entrance-exam.net privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617170800id_/http%3A//entrance-exam.net/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
