@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the belfercenter.org privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118052635id_/http%3A//belfercenter.ksg.harvard.edu/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the belfercenter.org privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617045656id_/http%3A//belfercenter.org/privacypolicy.html) for the most accurate reproduction.*
 
-# Subscribe - Harvard - Belfer Center for Science and International Affairs
+# Privacy Policy - Harvard - Belfer Center for Science and International Affairs
 
-### PRIVACY STATEMENT
+### PRIVACY POLICY
 
   
 
