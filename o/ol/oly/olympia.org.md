@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the olympia.org privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216093232id_/http%3A//socs.fes.org/vnews/display.v%3Fpage%3Dprivacy_pledge) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olympia.org privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617094722id_/http%3A//socs.fes.org/vnews/display.v%3Fpage%3Dprivacy_pledge) for the most accurate reproduction.*
 
 # SOCS
 
