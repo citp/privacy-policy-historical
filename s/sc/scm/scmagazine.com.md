@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scmagazine.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218070506id_/http%3A//www.scmagazine.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scmagazine.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617182246id_/http%3A//www.scmagazine.com/privacypolicy) for the most accurate reproduction.*
 
 # IT Security News and Security Product Reviews - SC Magazine
 
@@ -34,6 +34,8 @@ Several companies unaffiliated with Haymarket provide email deployment services 
 In order to comply with the Federal CAN-SPAM Act of 2003, we also may provide lists of customers who have opted-out of email promotion for Haymarket products to other companies, so they can be suppressed from mailings those companies send on Haymarket’s behalf. In addition, if you unsubscribe from a mailing we send to our own list on behalf of a third party, your removal instruction may also be supplied to the third party and added to their own suppression file. If you continue receiving email after opting out, please contact us at [web@haymarketmedia.com.](mailto:web@haymarketmedia.com)
 
 For the Monthly Prescribing Reference app only user data will be shared with Haymarket’s software partner, Atmosphere Apps. To view the Atmosphere App’s privacy policy please go to <http://www.atmosphereapps.com/privacy.html>
+
+Haymarket will share user data with accredited provider(s) of CME/CE activities in which users participate, and/or medical education and communications companies who assisted in the development of CME/CE activities in which users participate. 
 
 **Aggregated information**
 
@@ -100,6 +102,8 @@ A "cookie" is a bit of data sent by a Web site through the browser to the comput
 If you do not want your browser to accept cookies, you can turn off the cookie acceptance option in the browser's settings. However, disabling the cookie support function of the browser will prevent our Web site from functioning properly and you may not be able to utilize fully all of the site's features and information. 
 
 We use advertising companies to develop banner ads for our Digital Offering. These ads may contain cookies. These companies collect cookies sent to your browser through the banner ads and we do not have control or access to this data. Information may be collected from a third party through the use of cookies and web beacons to measure website traffic. 
+
+Notwithstanding any other provision, we may also engage a data provider who may collect web log data from you (including IP address and information about your browser or operating system), or place or recognize a unique cookie on your browser to enable you to receive customized ads or content. These cookies contain no personally identifiable information. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form. To opt-out of these data provider cookies, please go to <http://www.aboutads.info/choices>. 
 
 **Pixel Tags**
 
