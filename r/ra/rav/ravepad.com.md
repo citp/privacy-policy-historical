@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ravepad.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213092335id_/http%3A//ravepad.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ravepad.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617205113id_/http%3A//ravepad.com/privacy) for the most accurate reproduction.*
 
 # Ravepad - the place to rave about anything and everything! - Fan clubs and pages with photos, polls, quizzes, wallpapers, and more
 
