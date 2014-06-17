@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankinnovation.net privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205020816id_/http%3A//bankinnovation.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankinnovation.net privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617125002id_/http%3A//www.bankinnovation.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Statement | Bank Innovation
 
@@ -32,8 +32,9 @@ Additionally, 3rd party advertisers on our site may use cookies for tracking pur
 
 Share It:
 
-  * [](http://twitter.com/intent/tweet?text=Privacy%20Statement%20-%20http%3A%2F%2Fbankinnovation.net%2Fprivacy-policy%2F%20 "Twitter")
-  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fbankinnovation.net%2Fprivacy-policy%2F&title=Privacy%20Statement&source=Bank+Innovation+Exploring+the+Future+of+Bank+Customer+Experience&summary=Information%20We%20Gather%0D%0A%0D%0AThe%20following%20information%20is%20gathered%20from%20our%20website%20visitors%3A%0D%0A%0D%0A%09IP%20address%0D%0A%0D%0AHow%20We%20Use%20the%20Information%20We%20Gather%0D%0A%0D%0AWe%20use%20the%20information%20to%20enhance%20your%20visitor%20experience.%0D%0A%0D%0AThe%20People%20That%20Are%20Given%20Access%20to%20This "LinkedIn")
-  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Statement&body=http%3A%2F%2Fbankinnovation.net%2Fprivacy-policy%2F&ui=2&tf=1&shva=1 "email")
+  * [](http://twitter.com/intent/tweet?text=Privacy%20Statement%20-%20http%3A%2F%2Fwww.bankinnovation.net%2Fprivacy-policy%2F%20 "Twitter")
+  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.bankinnovation.net%2Fprivacy-policy%2F&title=Privacy%20Statement&source=Bank+Innovation+The+Future+of+Banking+Technology&summary=Information%20We%20Gather%0D%0A%0D%0AThe%20following%20information%20is%20gathered%20from%20our%20website%20visitors%3A%0D%0A%0D%0A%09IP%20address%0D%0A%0D%0AHow%20We%20Use%20the%20Information%20We%20Gather%0D%0A%0D%0AWe%20use%20the%20information%20to%20enhance%20your%20visitor%20experience.%0D%0A%0D%0AThe%20People%20That%20Are%20Given%20Access%20to%20This "LinkedIn")
+  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Statement&body=http%3A%2F%2Fwww.bankinnovation.net%2Fprivacy-policy%2F&ui=2&tf=1&shva=1 "email")
+  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.bankinnovation.net%2Fprivacy-policy%2F&t=Privacy%20Statement "Facebook")
   * 
 
