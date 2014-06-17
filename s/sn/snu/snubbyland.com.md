@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the snubbyland.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210113826id_/http%3A//snubbyland.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snubbyland.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617143826id_/http%3A//snubbyland.com/privacy.php) for the most accurate reproduction.*
 
 # Snubby Land | Privacy Policy
 
 « First  |  ‹ Previous  |  All  |  Next ›  |  Last »
 
-Privacy Policy
+[Privacy Policy](https://web.archive.org/web/20140617143826id_/http%3A//snubbyland.com/privacy.php)
 
-If you require any more information or have any questions about our privacy policy, please feel free to [contact us by email](https://web.archive.org/web/20131210113826id_/http%3A//snubbyland.com/contact.php). 
+I ([Stevie Critoph](https://web.archive.org/web/20140617143826id_/http%3A//snubbyland.com/stevie)) didn't write this privacy policy, I'm just required by [Google Adsense](http://www.google.com/intl/en/ads/) to display it. It basically just says that the ads use cookies that were collected from your use of other Google services (such as [YouTube](http://youtube.com/)), in order to provide you with ads that you're more likely to click. You're going to see the ads anyway, so you mind as well see something that's actually related to you. For example, if you're a huge [UFC](http://www.youtube.com/watch?v=LWE79K2Ii-s) fan, you will see ads for UFC instead of ads for [My Little Pony](http://www.youtube.com/watch?v=c3hBtBibN_M)... unless you're a fan of both. 
+
+If you require any more information or have any questions about our privacy policy, please feel free to [contact us by email](https://web.archive.org/web/20140617143826id_/http%3A//snubbyland.com/contact.php). 
 
 At [SnubbyLand.com](http://snubbyland.com/), the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by SnubbyLand.com and how it is used. 
 
