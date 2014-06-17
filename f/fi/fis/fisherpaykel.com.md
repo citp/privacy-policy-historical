@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fisherpaykel.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213050158id_/http%3A//www.fisherpaykel.com/us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fisherpaykel.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617195737id_/http%3A//www.fisherpaykel.com/us/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - Fisher & Paykel Appliances United States of America
 
@@ -24,4 +24,4 @@ If you have any questions or comments regarding this privacy policy please conta
 
 Web Manager Fisher & Paykel Appliances Limited PO Box 58550 Botany, Manukau 2163 Auckland, New Zealand 
 
-[Click here to read our Disclaimer](https://web.archive.org/Us/disclaimer)
+[Click here to read our Disclaimer](https://web.archive.org/us/disclaimer)
