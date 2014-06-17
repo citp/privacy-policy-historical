@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the traditionaloven.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215042006id_/http%3A//www.traditionaloven.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traditionaloven.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617160200id_/http%3A//www.traditionaloven.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - traditionaloven.com
 
-[](https://web.archive.org/web/20131215042006id_/http%3A//www.traditionaloven.com/linktous.html)  
+[](https://web.archive.org/web/20140617160200id_/http%3A//www.traditionaloven.com/linktous.html)  
 Is this website useful? Please,  
-[Link to us](https://web.archive.org/web/20131215042006id_/http%3A//www.traditionaloven.com/linktous.html) | 
+[Link to us](https://web.archive.org/web/20140617160200id_/http%3A//www.traditionaloven.com/linktous.html) | 
 
 **Privacy policy**
 
