@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pikimal.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218001955id_/http%3A//pikimal.com/terms/privacy/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pikimal.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617202533id_/http%3A//pikimal.com/terms/privacy/policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pikimal
 
@@ -62,7 +62,7 @@ You can chose to disable or selectively turn off our cookies or third-party cook
 
 ## Our Commitment to Data Security
 
-Pikimal uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Pikimal, and you do so at your own risk. Once we receive your transmission of information, Pikimal makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. If Pikimal learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. Pikimal may post a notice on the Site if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach you can [notify us](https://web.archive.org/pages/contact).
+Pikimal uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Pikimal, and you do so at your own risk. Once we receive your transmission of information, Pikimal makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. If Pikimal learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. Pikimal may post a notice on the Site if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach you can [notify us](http://sageinhome.com/contact-us/).
 
 ## Our Commitment to Children's Privacy
 
