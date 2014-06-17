@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chotnho.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202053927id_/http%3A//f.chotnho.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chotnho.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617160220id_/http%3A//f.chotnho.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - www.chotnho.com
 
