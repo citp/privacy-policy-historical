@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sydneyoperahouse.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211230726id_/http%3A//www.sydneyoperahouse.com/privacystatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sydneyoperahouse.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617220707id_/http%3A//www.sydneyoperahouse.com/privacystatement.aspx) for the most accurate reproduction.*
 
-# Customer Privacy Statement - Sydney Opera House
+# Sydney Opera House Customer Privacy Statement. - Sydney Opera House
 
 At Sydney Opera House, all our customers are very important to us, and we are committed to protecting all your personal details securely and sensitively, in accordance with the NSW Privacy and Personal Information Protection Act 1998.
 
