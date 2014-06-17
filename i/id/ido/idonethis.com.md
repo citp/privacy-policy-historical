@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idonethis.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214022600id_/https%3A//idonethis.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idonethis.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617203545id_/https%3A//idonethis.com/privacy) for the most accurate reproduction.*
 
 # iDoneThis
 
