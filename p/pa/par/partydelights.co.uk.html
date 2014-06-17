@@ -1,64 +1,74 @@
-<!--The following is the downloaded HTML source of the partydelights.co.uk privacy policy that was archived on 2013-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131217234845id_/http%3A//www.partydelights.co.uk/corporate/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the partydelights.co.uk privacy policy that was archived on 2014-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140617192806id_/http%3A//www.partydelights.co.uk/corporate/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 
 <!-- U12 -->
 <meta http-equiv="cleartype" content="on">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 <meta name="apple-mobile-web-app-capable" content="no">
 <meta name="apple-mobile-web-app-status-bar-style" content="black">
 
-<link rel="stylesheet" href="/general.css?Ver=4">
-<!--iPhone and iPad Web App Icons -->
 <link rel="apple-touch-icon" sizes="57x57" href="/images/_sitedesign/apple-touch-icon-57x57.png">
 <link rel="apple-touch-icon" sizes="72x72" href="/images/_sitedesign/apple-touch-icon-72x72.png">
 <link rel="apple-touch-icon" sizes="114x114" href="/images/_sitedesign/apple-touch-icon-114x114.png">
-
+<link rel="stylesheet" type="text/css" href="/general.css?v=2">
 <!--[if IE 9]><link rel="stylesheet" type="text/css" href="/styles/ie9.css?v=1"/><![endif]-->
 <!--[if IE 8]><link rel="stylesheet" type="text/css" href="/styles/ie8.css?v=1"/><![endif]-->
 <!--[if IE 7]><link rel="stylesheet" type="text/css" href="/styles/ie7.css?v=1"/><![endif]-->
 <!--[if IE 6]><link rel="stylesheet" type="text/css" href="/styles/ie6.css?v=1"/><![endif]-->
 
 <!-- JQuery Scripts -->
-<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="/js/jquery-1.8.3.min.js"></script>
-<!-- Update to Jquery 1.9.0 will have to wait for the update to flexslider 2.2 - cannot initiate on multiple classes -->
-<script type="text/javascript" src="/js/jquery-ui.js"></script>
-<!-- Extracted JQuery Mobile Touch -->
-<script type="text/javascript" src="/js/jquery.cj-swipe.js"></script>
-<!-- JQuery Cookie -->
-<script src="/js/jquery.cookie.js"></script>
+<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="/JS/jquery-1.11.0.min.js?v=1"></script>
+<!-- Fast Click -->
+<script type="text/javascript" src="/js/fastClick.js?v=1"></script>
 
-<!-- Hide Safari bar upto ios6 - does not work in ios7 -->
-<script type="text/javascript">
-$(window).load(function() {
-	// Set a timeout...
-	setTimeout(function(){
-		// Hide the address bar!
-		window.scrollTo(0, 1);
-	}, 0);
-});
-</script>
+<script type="text/javascript" src="/js/jquery-ui.js?v=1"></script>
+<!-- Extracted JQuery Mobile Touch -->
+<script type="text/javascript" src="/js/jquery.cj-swipe.js?v=1"></script>
+<!-- JQuery Cookie -->
+<script src="/js/jquery.cookie.js?v=1"></script>
 
 
 
 <!-- This file is included on all html head sections on every page -->
-<script type="text/javascript" src="/js/popup550.js"></script>
-<script type="text/javascript" src="/ajax/ajax_basket.js"></script>
+<script type="text/javascript" src="/js/popup550.js?v=1"></script>
+<script type="text/javascript" src="/ajax/ajax_basket.js?v=1"></script>
+
+<script type="text/javascript">
+$(document).ready(measureviewport);
+$(window).resize(measureviewport);
+function measureviewport() {
+viewportWidth = $(window).width() / parseFloat($("body").css("font-size"));
+viewportHeight = $(window).height();
+}
+$(document).ready(function(){
+	 $('.pageheaderimage p, .flexslider1 + p, .homepage p, p.seo').click(function(){
+	  $(this).toggleClass('showall');
+	 });
+});
+</script>
 
 <!-- FancyBox (popup window) -->
-<script type="text/javascript" src="/js/jquery.fancybox.js?v=2.1.4"></script>
+<script type="text/javascript" src="/js/jquery.fancybox.js?v=1"></script>
 <script type="text/javascript">
 $(document).ready(function() {
+			
 			$(".fancybox").fancybox({
-				autoSize: true,
-	            arrows: false,
-    			helpers:  {
-        			overlay: null, 	//Disable overlay helper
-					title:  null	//Disable title attribute being used as a title
-    			}
+					helpers:  {title:null},
+					closeEffect: 'none',
+					arrows: false
 			});
+			if (viewportWidth < 32) {
+				$(".fancybox").fancybox({
+					helpers:  {title:null},
+					openEffect: 'none',
+					closeEffect: 'none',
+					arrows: false
+				});
+			}
+			$('.fancybox-gallery a').fancybox();
 			
 			// added listeners to add the fancybox classes 'fancybox fancybox.ajax' to the add to basket links
 			$('a[href*="/confirmitem.asp"]').addClass('fancybox fancybox.ajax');
@@ -71,7 +81,13 @@ $(document).ready(function() {
 			$('.modal_pinterest_button > a').removeClass('fancybox fancybox.ajax');
 			$('.facebook-button').removeClass('fancybox fancybox.ajax');
 			$('.pinterest-button').removeClass('fancybox fancybox.ajax');
-
+			
+			$('.fancybox').fastClick(function(){
+			 $(this).click();
+			  return false;
+			});
+			$(".flexslider .fancybox").unbind("fastClick");
+			$(".flexslider").unbindSwipe();
 });
 </script>
 
@@ -96,7 +112,7 @@ $(document).ready(function(){
 		});
 
 		// scroll body to 0px on click
-		$('#back-to-top a').click(function () {
+		$('#back-to-top a').fastClick(function () {
 			$('body,html').animate({
 				scrollTop: 0
 			}, 800);
@@ -112,42 +128,33 @@ $(document).ready(function(){
 
 $(document).ready(function(){
 
-	// Read cookie check menu is open
-	if($.cookie('MenuState') == 'true'){
-		$(".menu-toggle").toggleClass("show-menu");
-		$(".menuoverlay").toggleClass("show-overlay");
-	}
+        $('body').touchSwipeLeft(function () {
+            $(".menu-toggle").removeClass("show-menu");
+            $(".menuoverlay").removeClass("show-overlay");
+        });
 
-  $('body').touchSwipeLeft(function(){
-	$(".menu-toggle").removeClass("show-menu");
-	$(".menuoverlay").removeClass("show-overlay");
-	$.cookie('MenuState', false);
-	});
-	
-  $('body').touchSwipeRight(function(){
-	$(".menu-toggle").addClass("show-menu");
-	$(".menuoverlay").addClass("show-overlay");
-	$.cookie('MenuState', true);
-	});
+        $('body').touchSwipeRight(function () {
+            $(".menu-toggle").addClass("show-menu");
+            $(".menuoverlay").addClass("show-overlay");
+        });
 
-  $(".showMenu").click(function(){
-	$(".menu-toggle").toggleClass("show-menu");
-	$(".menuoverlay").toggleClass("show-overlay");
-		if ($(".menu-toggle").hasClass("show-menu")){var $menustate = true}
-		else {var $menustate = false}
-		$.cookie('MenuState', $menustate);
-		//alert($.cookie('MenuState'));
-  });
+        $(".showMenu").fastClick(function () {
+            $(".menu-toggle").toggleClass("show-menu");
+            $(".menuoverlay").toggleClass("show-overlay");
+        });
 
-  $(".showSearch").click(function(){
-	$(".search-toggle").toggleClass("show-search");
-	$('#KWSearchText').focus();
-	$('#KWSearchText').val('');
-  });
+		$(".showSearch").fastClick(function (e) {
+			e.preventDefault();
+            $(".search-toggle").toggleClass("show-search");
+			var KWSearchTextval = $('#KWSearchText').val();
+			var DefaultSearchText = "I'm looking for..."
+			if (KWSearchTextval == DefaultSearchText) {$('#KWSearchText').val('').focus();}
+			else {$('#KWSearchText').focus();}
+        });
 
-  $(".alldepartments").click(function(){
-	$(".alldepartmentslist").toggleClass("show-alldepartmentslist");
-  });
+		$(".alldepartments").fastClick(function(){
+			$(".alldepartmentslist").toggleClass("show-alldepartmentslist");
+		});
 	
 // Focus on search box after pressing search icon
   $('input').on('blur', function(){
@@ -178,100 +185,137 @@ $(document).ready(function(){
 </script>
 
 <!-- Flexslider - make sure to leave the last , off for jquery values as old IE versions will fail to load -->
-<script src="/js/flexslider/jquery.flexslider-min.js"></script>
+<script src="/js/flexslider/jquery.flexslider-2.2.2-edited-min.js?v=1"></script>
 
 <script type="text/javascript">
-$(window).load(function() {
+    $(window).load(function () {
 
-  // Homepage slider being synced must be initialized first
-  $('#carousel').flexslider({
-    animation: "fade",
-    controlNav: false,
-    animationLoop: true,
-    slideshow: false,
-    itemWidth: 210,
-    itemMargin: 5,
-    asNavFor: '.flexslider0'
-  });
-  $('.flexslider0').flexslider({
-    animation: "fade",
-    controlNav: true,
-    animationLoop: true,
-    slideshow: true,
-    sync: "#carousel"
-  });
-  
-// Standard slider
-  $('.flexslider1').flexslider({
-		animation: "slide",
-		animationLoop: true,
-		slideshow: true
-  });
-	
-
-// Fancy Dress Individual product slider (not animated)
-	$('.flexslider2').flexslider({
-		animation: "slide",
-		animationLoop: true,
-		slideshow: false,
-		itemWidth: 175, //Box-model width of individual carousel items, including horizontal borders and padding.
-		itemMargin: 10, //this number must match the combined margin total left and right on the li element.
-		animationSpeed: 1000,
-		move: 4
-	});
-});
-
-// Fancy Dress Flexslider3
-$(window).load(function() {
-	$('.flexslider3').flexslider({
-		animation: "fade",
-		animationSpeed: 1,
-		manualControls: ".flexslider3 #flexslider-manual-controls li a",
-		directionNav: false,
-		slideshow: true,
-		slideshowSpeed: 3000,
-		animationLoop: true,
-		pauseOnAction: false,
-		pauseOnHover: true
-	});
-});
-
-
-// Fancy Dress Flexslider4
-$(window).load(function() {
-	$('.flexslider4').flexslider({
-		animation: "fade",
-		animationSpeed: 1,
-		manualControls: ".flexslider4 #flexslider-manual-controls li a",
-		directionNav: false,
-		slideshow: true,
-		slideshowSpeed: 3000,
-		animationLoop: true,
-		pauseOnAction: false,
-		pauseOnHover: true
-	});
-});
-
-// Change active tab on mouseover for manual flexsliders
-$(window).load(function(){
-            $('.flexslider-manual-controls li a').mouseover(function(){
-                 var activeSlide = 'false';
-                 if ($(this).hasClass('flex-active')){  
-                   activeSlide = 'true';                    
-                 }
-                 if (activeSlide == 'false'){
-                 $(this).trigger("click"); 
-                 }
-             });      
+        // Homepage slider being synced must be initialized first
+        $('#carousel').flexslider();
+        $('.flexslider0').flexslider({
+            animation: "fade",
+            controlNav: true,
+            animationLoop: true,
+            slideshow: true,
+            sync: "#carousel"
         });
 
-//$('p').bind('tap',function() { alert('Tap event triggered'); });
-//$('p').bind('click',function() { alert('Click event triggered'); });
+        // Standard slider
+        $('.flexslider1').flexslider({
+            animation: "slide",
+            animationLoop: true,
+            slideshow: true
+        });
+
+
+        // Fancy Dress Individual product slider (not animated)
+        $('.flexslider2').flexslider({
+            animation: "slide",
+            animationLoop: true,
+            slideshow: false,
+            itemWidth: 175, //Box-model width of individual carousel items, including horizontal borders and padding.
+            itemMargin: 10, //this number must match the combined margin total left and right on the li element.
+            animationSpeed: 600,
+            move: 4,
+			minItems: 2
+        });
+		
+		// Product Slider
+        $('.flexslider8').flexslider({
+            animation: "slide",
+            animationLoop: true,
+            slideshow: false,
+            itemWidth: 195,
+            itemMargin: 0,
+            animationSpeed: 600,
+            move: 4
+        });
+		
+		// Party-Home-Link Slider
+        $('.flexslider9').flexslider({
+            animation: "slide",
+            animationLoop: true,
+            slideshow: false,
+            itemWidth: 260,
+            itemMargin: 0,
+            animationSpeed: 600,
+            move: 3
+        });
+		
+    });
+
+    // Fancy Dress Flexslider3
+    $(window).load(function () {
+        $('.flexslider3').flexslider({
+            animation: "fade",
+            animationSpeed: 1,
+            manualControls: ".flexslider3 #flexslider-manual-controls li a",
+            directionNav: false,
+            slideshow: true,
+            slideshowSpeed: 3000,
+            animationLoop: true,
+            pauseOnAction: false,
+            pauseOnHover: true
+        });
+    });
+
+
+    // Fancy Dress Flexslider4
+    $(window).load(function () {
+        $('.flexslider4').flexslider({
+            animation: "fade",
+            animationSpeed: 1,
+            manualControls: ".flexslider4 #flexslider-manual-controls li a",
+            directionNav: false,
+            slideshow: true,
+            slideshowSpeed: 3000,
+            animationLoop: true,
+            pauseOnAction: false,
+            pauseOnHover: true
+        });
+    });
+
+    // Fancy Dress Flexslider5 is the popup image slider located on the ppage product_detail.asp
+
+	// Fancy Dress Roll-Over Multi Links
+    $(window).load(function () {
+	
+		$('.flexslider-rollover').each(function (i) {
+			$(this).addClass('rollover-' +(i + 1));
+			var rolloverNumber = +(i + 1);
+			var manualControl = ".rollover-" + rolloverNumber + " .flexslider-manual-controls li a";
+			$('.flexslider-rollover.rollover-'+ rolloverNumber).flexslider({
+             manualControls: manualControl,
+			 animation: "fade",
+             animationSpeed: 1,
+             directionNav: false,
+             slideshow: false,
+			 pauseOnAction: false,
+             pauseOnHover: true
+			});
+		});
+		
+       
+    });
+
+    // Change active tab on mouseover for manual flexsliders
+    $(window).load(function () {
+        $('.flexslider-manual-controls li a').mouseover(function () {
+            var activeSlide = 'false';
+            if ($(this).hasClass('flex-active')) {
+                activeSlide = 'true';
+            }
+            if (activeSlide == 'false') {
+                $(this).trigger("click");
+            }
+        });
+    });
+
 </script>
 
 <!-- Tabbed Content using JQuery -->
-<script>
-$(function(){
+<script type="text/javascript">
+$(window).load(function () {
 
  //When page loads...
  $(".wetab_content").hide(); //Hide all content
@@ -300,7 +344,7 @@ $.ajax({
   url: "/ajax/ajax_basket_done.asp",
   cache: false,
   success: function(html){
-    $("#cart_items").html(html);
+    $("#cart_items,#cart_items2").html(html);
   }
 });
 </script>
@@ -312,14 +356,13 @@ $(document).ready(function(){
 		var qpidval = $(this).val();
 		$('.fancyboxqa').attr('href', '/product_detail.asp?ProductID=' + qpidval);
 	});
-
-	$('#qpid').bind('keypress', function(e) {
-		if(e.keyCode==13){
-			$('.fancyboxqa').click();
-		}
-	});	
+	
+	$("#fancyboxqa").submit(function () {
+	 $('.fancyboxqa').click();
+	 return false;
+	});
 		
-	$(".fancyboxqa").fancybox({type: 'ajax',});
+	$(".fancyboxqa").fancybox({ type: 'ajax' });
 	
 	var DocumentTitle = document.title;
 	var pieces = DocumentTitle.split(":");
@@ -476,63 +519,60 @@ $(document).ready(function () {
 });
 </script>
 
+<script type="text/javascript">
+$(document).ready(function () {
+	$('.country-select-toggle').focus(openCountry).click(openCountryNofocus).mouseenter(openCountry);
+	$('.country-select').mouseleave(closeCountry);
+	$('.basket-button').focus(closeCountry);
+	$('.country-select .first').click(closeCountry);
+});
+
+function openCountry() {
+	$('.country-select').addClass('show');
+	$('.country-select a.first').focus();
+}
+function openCountryNofocus() {
+	$('.country-select').addClass('show');
+	$(window).scroll(function () {
+		if ($(this).scrollTop() > 50) {
+		closeCountry();
+		}
+	});
+}
+function closeCountry(e) {
+	e.preventDefault();
+	$('.country-select').removeClass('show');
+}
+</script>
+
+<script type="text/javascript">
+$(document).ready(function(){if (viewportWidth <= 62) {flexsliderfontsize();}});
+$(window).resize(flexsliderfontsize);
+
+function flexsliderfontsize() {
+  var flexslider1current = $('.flexslider1').width();
+  var flexslider0current = $('.flexslider0').width();
+  var flexslider1percentage = (flexslider1current / 980)*120 + "%";
+  var flexslider0percentage = (flexslider0current / 980)*100 + "%";
+  $('.flexslider1').css("font-size", flexslider1percentage)
+  $('.flexslider0').css("font-size", flexslider0percentage)
+ }
+ 
+</script>
+
+
+
 
 <!-- Initalise the Sticky Left nav-->
-<script type="text/javascript">$(document).ready(function() {$('#pmofah:eq(0)').show();
-$('#pmofahmo0:eq(0)').show();
- });</script>
+
+
+<script type="text/javascript" src="https://cts-secure.channelintelligence.com/403033525_landing.js" async=""></script>
 
 <!-- Open Graph Meta Tags for Facebook & Google Plus -->
 <meta property="fb:app_id" content="1417288415175268">
 <meta property="og:site_name" content="Party Delights">
 <meta property="og:type" content="website">
 <meta property="og:locale" content="en_GB">
-<meta property="og:url" content="http://www.partydelights.co.uk/corporate/privacy.asp">
-<meta property="og:image" content="">
-<meta property="og:title" content="">
-<meta property="og:description" content="">
-
-<script type="text/javascript">
-$(document).ready(function () {
-
-	//meta selector...$('meta[property="fb:app_id"]').attr("content") ;
-
-	// Share Button Variables
-	var current_href = location.href.replace(/#/g,"").replace(/staging/g,"www");
-		
-	var current_h1 = $('.page h1:first-of-type').html().replace(/&amp;/g,"and").replace(/'/g,"");
-	var current_h2 = $('.page h1+h2').html();
-		if (current_h2 == undefined) { current_title = current_h1 }
-		else if (current_h1 == undefined) { current_title = $(document).attr('title').replace(/( \| Party Delights)/, "").replace(/( \| Delights)/, "").replace(/&amp;/g,"and") }
-		else { current_title = current_h1 + ", " + current_h2 }
-		
-	var current_image = $('#shareimage').attr('value');
-		if (current_image == undefined) { current_image = $('.graphical-header > img').attr('src');
-			if (current_image == undefined) { current_image = $('.span img:first-of-type').attr('src');
-				if (current_image == undefined) { current_image = $('.main img:first-of-type').attr('src'); 
-					if (current_image == undefined) { current_image = "/images/_sitedesign/apple-touch-icon-114x114.png";}
-				}
-			}
-		}
-	//Facebook (Helped by Open Graph Meta Data)
-	var facebook_href = "javascript:OpenWindowSocialSharing(\'http://www.facebook.com/sharer.php?u=" + current_href + "');"
-	$('.facebook-share-button').attr('href', facebook_href);
-	
-	// Twitter
-	var twitter_href = "javascript:OpenWindowSocialSharing(\'https://twitter.com/intent/tweet?url=" + current_href + "&via=delights_uk&text=Dont you just love this!? " + current_title +"');"
-	$('.twitter-share-button').attr('href', twitter_href);
-	//if(window.location.href.indexOf("fancy-dress") > -1) {}
-	
-	//Pinterest
-	var pinterest_href = "javascript:OpenWindowSocialSharing(\'http://pinterest.com/pin/create/button/?url=" + current_href + "&media=http://www.partydelights.co.uk" + current_image + "&description=" + current_title +"');"
-	$('.pinterest-share-button').attr('href', pinterest_href);
-	
-	//Google Plus
-	var google_href = "javascript:OpenWindowSocialSharing(\'https://plus.google.com/share?url=" + current_href + "\');";
-	$('.google-share-button').attr('href', google_href);
-	
-});
-</script>
  
 <title>Party Delights Terms and Conditions</title>
 <meta keywords="contact us">
@@ -543,10 +583,18 @@ $(document).ready(function () {
 <body>
 
 
+
 <div class="page-container" data-role="page">
 
 <a class="showMenu menuoverlay"></a>
 <a class="showSearch searchoverlay"></a>
+
+<!--<div class="social-sharing">
+<a class="facebook-share-button" href="#"><div>Share </div><span>F</span></a>
+<a class="twitter-share-button" href="#"><div>Tweet </div><span>L</span></a>
+<a class="pinterest-share-button" href="#"><div>Pin it </div><span>p</span></a>
+<a class="google-share-button" href="#"><div>Share </div><span>g</span></a>
+</div>-->
 
 
 
@@ -554,205 +602,121 @@ $(document).ready(function () {
 
 <div class="header par" id="top">
 
-<div class="header_background"></div>
-<div class="header_container">
+<div class="header-bar">
+<div>
 
-<a class="showMenu showMenu-header burger1"></a>
+<span class="header-party-city-company">A <span>Party City</span> COMPANY</span>
 
+<a class="country-select-toggle" href="#"><img class="ukflag" src="/images/_sitedesign/UK.png" alt="UK Flag"></a>
+<span class="country-select">
+<a class="first" href="http://www.partydelights.co.uk/">United Kingdom <img src="/images/_sitedesign/UK.png" alt="UK Flag"></a>
+<a href="http://www.partycity.eu.com/">France <img src="/images/_sitedesign/France.png" alt="French Flag"></a>
+<a href="http://www.partycity.de/">Germany<img src="/images/_sitedesign/Germany.png" alt="German Flag"></a>
+<a href="http://www.partycity.nl/">Netherlands <img src="/images/_sitedesign/Netherlands.png" alt="Netherlands Flag"></a>
+<a href="http://www.partycity.com/">United States <img src="/images/_sitedesign/USA.png" alt="US Flag"></a>
+<a class="last" href="http://www.partycity.ca/">Canada <img src="/images/_sitedesign/Canada.png" alt="Canadian Flag"></a>
+</span>
 
-<div class="logo">
-<a href="/">
-<div id="logo_svg">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="150px" height="65px" viewBox="9.334 2.31 155.623 69.719" enable-background="new 9.334 2.31 155.623 69.719" xml:space="preserve">
-<g>
-	<g>
-		<path fill="#FFFFFF" d="M45.767,28.793c-7.646,0-11.47,5.453-11.47,13.662s2.924,15.631,12.482,15.631
-			c3.148,0,9.67-0.45,9.67-2.756c0-1.236-1.012-3.654-2.192-3.654c-0.057,0-0.225,0.057-0.281,0.057
-			c-2.024,0.73-3.936,1.181-5.791,1.181c-4.104,0-7.815-2.306-8.096-8.378c0,0,3.205,0.17,7.141,0.17
-			c4.554,0,9.333-0.395,9.445-1.969c0.112-1.293,0.169-2.475,0.169-3.542C56.843,32.222,54.425,28.793,45.767,28.793z
-			 M47.229,39.981c-2.081,0-4.273,0-5.792-0.056c-0.619,0-1.012-0.057-1.293-0.057c0.169-3.092,1.574-6.41,5.735-6.41
-			c5.454,0,5.51,2.137,5.51,6.691C51.389,39.981,49.422,39.981,47.229,39.981z"></path>
-		<path fill="#FFFFFF" d="M75.283,29.749c-0.112-0.956-1.068-1.293-2.249-1.293c-1.518,0-3.373,0.899-3.373,1.406l0.056,26.313
-			c0,0.9,1.293,1.406,2.755,1.406c1.35,0,2.867-0.563,2.867-1.631L75.283,29.749z"></path>
-		<path fill="#FFFFFF" d="M63.083,14.287c-1.574,0-3.486,0.9-3.486,1.406l0.057,40.538c0,0.898,1.349,1.404,2.811,1.404
-			c1.406,0,2.924-0.562,2.924-1.629L65.332,15.58C65.22,14.624,64.264,14.287,63.083,14.287z"></path>
-		<path fill="#FFFFFF" d="M31.206,16.986c-2.924,0-3.486,1.237-3.486,1.237V29.13c-1.293-0.281-2.474-0.337-3.767-0.337
-			c-8.715,0-14.619,6.915-14.619,15.912c0,8.264,4.723,13.381,12.819,13.381c6.972,0,11.189-2.586,11.189-2.586V18.391
-			C33.342,18.391,33.342,16.986,31.206,16.986z M27.832,51.676c0,0-2.643,1.068-5.51,1.068c-3.823,0-7.028-2.193-7.028-8.039
-			c0-8.771,5.679-10.233,9.502-10.233c1.181,0,2.192,0.168,2.811,0.281h0.168c0,2.923,0.056,5.565,0.056,8.433V51.676z"></path>
-		<path fill="#FFFFFF" d="M156.187,41.387c-3.767,0-4.329-1.293-4.329-3.485c0-2.923,2.08-4.161,4.61-4.161
-			c2.08,0,3.767,0.731,5.454,2.867c1.067,0,2.248-2.867,2.248-3.936c0-0.337-0.168-0.731-0.337-0.899
-			c-2.305-2.136-4.554-3.036-7.421-3.036c-5.23,0-10.121,3.317-10.121,9.166c0,3.878,0.563,8.264,9.389,8.264
-			c2.813,0,3.711,1.406,3.711,3.43c0,2.418-1.855,3.373-3.936,3.373c-2.305,0-4.947-1.012-6.354-2.361
-			c-0.562,0-3.035,2.193-3.035,3.654c0,0.338,0.168,0.676,0.506,0.844h-0.057c2.25,1.969,5.791,3.149,9.221,3.149
-			c4.836,0,9.221-2.361,9.221-8.715C164.957,44.424,162.765,41.387,156.187,41.387z"></path>
-		<path fill="#FFFFFF" d="M143.368,29.523h-2.249c-0.449,0-0.955,0.057-1.518,0.057h-1.519v-5.566c0-0.281,0-1.349-2.586-1.349
-			c-2.98,0.225-2.98,1.349-2.98,1.349v5.623h-0.056h-0.449c-1.013,0-2.362-0.056-2.362-0.056c-1.068,0-1.068,2.249-1.068,3.767
-			c0,1.855,0.169,1.855,2.812,1.855h0.506c0.169,0,0.337-0.056,0.449-0.056h0.057l0.112,12.032c0,6.466,2.699,8.604,3.093,8.884
-			c1.518,1.294,5.061,1.35,6.973,1.35h0.562c0.843,0,1.349-1.462,1.349-2.644c0-1.012-0.393-1.799-1.012-1.799
-			c-4.891,0-5.341-1.574-5.341-5.903l-0.056-11.976h1.799c2.08,0,4.609,0.056,4.609,0.056c0.676,0,1.068-1.35,1.068-2.868
-			C145.561,29.917,145.505,29.523,143.368,29.523z"></path>
-		<path fill="#FFFFFF" d="M91.082,52.295c-3.542,0-4.835-0.225-5.341-0.395c0.225-0.337,0.057-0.056,0.337-0.337
-			c0.168-0.225,0.563-0.675,0.844-1.012c0.843,0.225,1.799,0.28,2.811,0.28c6.129,0,11.076-4.834,11.076-10.795
-			c0-1.067-0.112-2.361-0.281-3.26c1.968-1.405,2.25-4.161,2.25-5.903c0-0.731-0.168-2.586-0.168-2.586s-2.924,2.474-5.679,2.474
-			c-0.281,0-0.675,0-1.012-0.057c-1.799-1.181-3.936-1.855-6.185-1.855c-6.128,0-11.02,5.286-11.02,11.189
-			c0,3.429,1.855,6.409,4.273,8.603l-4.891,4.16c0.674,1.068,1.349,1.968,1.911,2.53c-2.361,1.124-4.779,4.498-4.779,7.815
-			c0,5.678,7.365,8.883,13.887,8.883c6.803,0,13.494-3.148,13.831-9.67v-0.45C102.945,54.15,97.266,52.295,91.082,52.295z
-			 M90.013,33.628c3.374,0,6.129,3.092,6.129,6.298c0,3.26-2.755,5.902-6.129,5.902c-3.317,0-6.072-2.643-6.072-5.902
-			C83.941,36.72,86.696,33.628,90.013,33.628z M97.042,62.359c-0.112,2.643-3.655,4.047-7.366,4.047
-			c-3.654,0-7.534-1.349-8.771-4.271h-0.056c-0.056-0.227-0.056-0.451-0.056-0.619c0-1.013,0.506-2.643,2.08-4.441
-			c1.406,0.506,2.98,0.674,4.611,0.674c0.506,0,1.406,0,1.911-0.056c0.337,0,0.675-0.057,0.956-0.057h0.844
-			c4.441,0,5.847,1.181,5.847,4.499V62.359z"></path>
-		<path fill="#FFFFFF" d="M117,28.905c-2.361,0-4.442,0.562-6.297,1.799l-0.112-12.539c0-0.562-0.337-1.405-2.642-1.461
-			c-3.205,0.168-2.924,1.63-2.924,1.63v38.739c0,0,1.35,0.506,2.924,0.506c0.843,0,1.799-0.113,2.754-0.506V35.708
-			c1.237-0.674,2.811-1.125,4.442-1.125c4.16,0,7.533,2.981,8.152,6.241v16.137c0,0,0.956,0.619,2.53,0.619
-			c0.787,0,1.8-0.113,3.147-0.506V40.769C128.694,34.19,123.466,28.905,117,28.905z"></path>
-	</g>
-	<g>
-		<g>
-			<path fill="#5EB214" d="M119.516,5.66c3.121-0.067,3.29-0.223,3.629-3.35c0.066,3.145,0.221,3.316,3.324,3.654
-				c-3.121,0.067-3.291,0.225-3.629,3.352C122.773,6.171,122.618,5.999,119.516,5.66z"></path>
-		</g>
-		<g>
-			<path fill="#29C7EE" d="M108.705,11.589c3.595-1.009,3.747-1.241,3.204-4.962c1.015,3.622,1.248,3.772,4.941,3.235
-				c-3.595,1.011-3.746,1.245-3.202,4.967C112.632,11.21,112.401,11.057,108.705,11.589z"></path>
-		</g>
-		<g>
-			<path fill="#A615E5" d="M96.737,13.285c2.735-4.745,2.653-5.141-1.729-8.49c4.776,2.759,5.176,2.678,8.501-1.671
-				c-2.732,4.745-2.652,5.145,1.731,8.492C100.465,8.857,100.064,8.937,96.737,13.285z"></path>
-		</g>
-		<g>
-			<path fill="#F742CB" d="M89.25,22.117c5.984-3.39,6.153-3.871,3.541-10.289c3.41,6.031,3.895,6.196,10.267,3.61
-				c-5.983,3.392-6.151,3.878-3.541,10.295C96.106,19.703,95.623,19.534,89.25,22.117z"></path>
-		</g>
-		<g>
-			<path fill="#EB0B41" d="M81.641,22.027c1.981-7.184,1.742-7.683-5.179-10.596c7.236,2.004,7.734,1.761,10.63-5.107
-				c-1.979,7.187-1.735,7.688,5.184,10.601C85.041,14.922,84.539,15.162,81.641,22.027z"></path>
-		</g>
-		<g>
-			<path fill="#FD9706" d="M62.233,31.865c9.07-9.11,9.13-10.063,1.205-20.303c9.17,9.143,10.125,9.199,20.297,1.338
-				c-9.067,9.116-9.125,10.075-1.199,20.314C73.365,24.073,72.41,24.008,62.233,31.865z"></path>
-		</g>
-	</g>
-</g>
-</svg>
+<a id="cart_items" class="basket-button" href="/updatecart.asp" title="View your Shopping Basket"><span class="icon">B</span> <span class="items">0</span> items <span class="total">£0</span></a>
+<a href="https://www.partydelights.co.uk/myaccount.asp">Sign in to My Account</a>
+<a href="/contactus.asp?expandable=10">Help</a>
+
+</div>
 </div>
 
-<img id="logo_png" src="/images/_sitedesign/header/delights-2.png" alt="delights.co.uk" width="156" height="69">
+
+<div class="header_container">
+
+
+<div class="logo-section">
+
+<a class="showMenu showMenu-header" href="#"></a>
+
+<div class="logo">
+<a href="/" title="Home">
+<img src="/images/_sitedesign/PartyDelights.png" alt="Party Delights Logo">
 </a>
 </div>
 
-<a class="showMenu showMenu-header burger2"></a>
-<a class="showSearch search-icon"></a>
+
 
 <!--Search-->
 <div class="searchbox search-toggle">
+<form name="frmSearch" method="post" action="/keywordsearch.aspx">
 <a href="#" class="icon showSearch">x</a>
-
-<form name="frmSearch" method="post" action="/keywordsearch.aspx?pmo=">
-<input name="KWSearchText" class="search_text" type="text" id="KWSearchText" value="I'm looking for..." onclick="if(this.value=='I\'m looking for...'){this.value=''}" onblur="if(this.value==''){this.value='I\'m looking for...'}">
-<a class="submit" onclick="get_form(this).submit();"></a>
+<input name="KWSearchText" class="search_text" type="text" id="KWSearchText" value="I'm looking for..." onclick="if (this.value == 'I\'m looking for...') { this.value = '' }" onblur="if(this.value==''){this.value='I\'m looking for...'}">
+<input class="submit" type="submit" value="Go">
 </form>
-</div>  
+</div> 
 
-<ul class="phone-number">
-<li><a href="tel:0333 900 5000">0333 900 5000</a></li>
-<li>local rate call charges apply</li>
-</ul>
+<span class="phone-number">
+<a href="tel:0333 900 5000"><span class="number">0333 900 5000</span><br>calls charged at local rate</a>
+<div><span class="number">0333 900 5000</span><br>calls charged at local rate</div>
+</span>
 
-<ul class="text-links">
-<li><a href="/contactus.asp?expandable=10">Help</a></li>
-<li><a href="https://www.partydelights.co.uk/myaccount.asp">My Account</a></li>
-</ul>
+<a class="checkout-button" href="/userprofile.asp"><span class="text">Checkout</span><span class="icon">&gt;</span></a>
 
-<a id="cart_items" class="basket-button" href="/updatecart.asp" title="View your Shopping Basket">
-<span class="icon">B</span> <span class="items">0</span> items <span class="total">£0.00</span>
-</a>
+<a class="country-select-toggle" href="#"><img class="ukflag" src="/images/_sitedesign/UK.png" alt="UK Flag"></a>
+<span class="country-select">
+<a class="first" href="http://www.partydelights.co.uk/">United Kingdom <img src="/images/_sitedesign/UK.png" alt="UK Flag"></a>
+<a href="http://www.partycity.eu.com/">France <img src="/images/_sitedesign/France.png" alt="French Flag"></a>
+<a href="http://www.partycity.de/">Germany<img src="/images/_sitedesign/Germany.png" alt="German Flag"></a>
+<a href="http://www.partycity.nl/">Netherlands <img src="/images/_sitedesign/Netherlands.png" alt="Netherlands Flag"></a>
+<a href="http://www.partycity.com/">United States <img src="/images/_sitedesign/USA.png" alt="US Flag"></a>
+<a class="last" href="http://www.partycity.ca/">Canada <img src="/images/_sitedesign/Canada.png" alt="Canadian Flag"></a>
+</span>
 
-<a class="checkout-button" href="/userprofile.asp"><span class="icon">l</span> Checkout</a>
+<a href="#" title="Search" class="search-icon showSearch"></a>
+
+</div>
+
+
+<div class="basket-checkout-section">
+<a href="/contactus.asp?expandable=10">Help</a>
+<a href="https://www.partydelights.co.uk/myaccount.asp">Sign in</a>
+
+<a class="checkout-button" href="/userprofile.asp">Checkout<span class="icon">&gt;</span></a>
+<a id="cart_items2" class="basket-button" href="/updatecart.asp" title="View your Shopping Basket"><span class="icon">B</span> <span class="items">0</span> items <span class="total">£0</span></a>
+</div>
 
 
 <div class="tabs">
-<ul>
-
-<li class="home"><a title="Home" href="/">Home</a><div class="arrow">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="19px" height="11px" viewBox="0 0 19 11" enable-background="new 0 0 19 11" xml:space="preserve">
-<polygon fill="#fd9b10" points="18.96,9.447 10.123,0.073 9.416,0.073 0.021,9.467 0.729,10.174 9.79,1.154 18.273,10.174 "></polygon>
-<polygon fill="#FFFFFF" points="18.96,10.879 9.797,1.082 0.021,10.879 "></polygon>
-</svg></div></li>
-
-<li class="party"><a title="Party" href="/party-supplies.aspx?pmo=pa">Party</a><div class="arrow">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="19px" height="11px" viewBox="0 0 19 11" enable-background="new 0 0 19 11" xml:space="preserve">
-<polygon fill="#fd5e10" points="18.96,9.447 10.123,0.073 9.416,0.073 0.021,9.467 0.729,10.174 9.79,1.154 18.273,10.174 "></polygon>
-<polygon fill="#FFFFFF" points="18.96,10.879 9.797,1.082 0.021,10.879 "></polygon>
-</svg></div></li>
-
-<li class="fancy"><a title="Fancy Dress" href="/fancy-dress/default.asp?pmo=fa">Fancy Dress</a><div class="arrow">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="19px" height="11px" viewBox="0 0 19 11" enable-background="new 0 0 19 11" xml:space="preserve">
-<polygon fill="#f02556" points="18.96,9.447 10.123,0.073 9.416,0.073 0.021,9.467 0.729,10.174 9.79,1.154 18.273,10.174 "></polygon>
-<polygon fill="#FFFFFF" points="18.96,10.879 9.797,1.082 0.021,10.879 "></polygon>
-</svg></div></li>
-
-<li class="baby"><a title="Baby" href="/baby/default.aspx?pmo=ba">Baby</a><div class="arrow">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="19px" height="11px" viewBox="0 0 19 11" enable-background="new 0 0 19 11" xml:space="preserve">
-<polygon fill="#90df24" points="18.96,9.447 10.123,0.073 9.416,0.073 0.021,9.467 0.729,10.174 9.79,1.154 18.273,10.174 "></polygon>
-<polygon fill="#FFFFFF" points="18.96,10.879 9.797,1.082 0.021,10.879 "></polygon>
-</svg></div></li>
-
-<li class="wedding"><a title="Wedding" href="/wedding/?pmo=we">Wedding</a><div class="arrow">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="19px" height="11px" viewBox="0 0 19 11" enable-background="new 0 0 19 11" xml:space="preserve">
-<polygon fill="#29c7ee" points="18.96,9.447 10.123,0.073 9.416,0.073 0.021,9.467 0.729,10.174 9.79,1.154 18.273,10.174 "></polygon>
-<polygon fill="#FFFFFF" points="18.96,10.879 9.797,1.082 0.021,10.879 "></polygon>
-</svg></div></li>
-
-<li class="toys"><a title="Toys" href="/toys/pocket-money-toys.aspx?pmo=to">Toys</a><div class="arrow">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="19px" height="11px" viewBox="0 0 19 11" enable-background="new 0 0 19 11" xml:space="preserve">
-<polygon fill="#6c91f9" points="18.96,9.447 10.123,0.073 9.416,0.073 0.021,9.467 0.729,10.174 9.79,1.154 18.273,10.174 "></polygon>
-<polygon fill="#FFFFFF" points="18.96,10.879 9.797,1.082 0.021,10.879 "></polygon>
-</svg></div></li>
-
-<li class="stat"><a title="Stationery" href="/stationery/?pmo=st">Stationery</a><div class="arrow">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="19px" height="11px" viewBox="0 0 19 11" enable-background="new 0 0 19 11" xml:space="preserve">
-<polygon fill="#6052e3" points="18.96,9.447 10.123,0.073 9.416,0.073 0.021,9.467 0.729,10.174 9.79,1.154 18.273,10.174 "></polygon>
-<polygon fill="#FFFFFF" points="18.96,10.879 9.797,1.082 0.021,10.879 "></polygon>
-</svg></div></li>
-
-<li class="per"><a title="Cards" href="/personalised-cards.aspx?pmo=pe">Cards</a><div class="arrow">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="19px" height="11px" viewBox="0 0 19 11" enable-background="new 0 0 19 11" xml:space="preserve">
-<polygon fill="#ce61fa" points="18.96,9.447 10.123,0.073 9.416,0.073 0.021,9.467 0.729,10.174 9.79,1.154 18.273,10.174 "></polygon>
-<polygon fill="#FFFFFF" points="18.96,10.879 9.797,1.082 0.021,10.879 "></polygon>
-</svg></div></li>
-
-<li class="cards"><a title="Personalised" href="/personalised.aspx?pmo=pe">Personalised</a><div class="arrow">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="19px" height="11px" viewBox="0 0 19 11" enable-background="new 0 0 19 11" xml:space="preserve">
-<polygon fill="#be008a" points="18.96,9.447 10.123,0.073 9.416,0.073 0.021,9.467 0.729,10.174 9.79,1.154 18.273,10.174 "></polygon>
-<polygon fill="#FFFFFF" points="18.96,10.879 9.797,1.082 0.021,10.879 "></polygon>
-</svg></div></li>
-
-<li class="sweets"><a title="Sweets" href="/sweets/?pmo=sw">Sweets</a><div class="arrow">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="19px" height="11px" viewBox="0 0 19 11" enable-background="new 0 0 19 11" xml:space="preserve">
-<polygon fill="#f97ed9" points="18.96,9.447 10.123,0.073 9.416,0.073 0.021,9.467 0.729,10.174 9.79,1.154 18.273,10.174 "></polygon>
-<polygon fill="#FFFFFF" points="18.96,10.879 9.797,1.082 0.021,10.879 "></polygon>
-</svg></div></li>
-
-<li class="christmas"><a title="Christmas Party" href="/seasonal/christmas-party.aspx?pmo=ch">Christmas</a><div class="arrow">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="19px" height="11px" viewBox="0 0 19 11" enable-background="new 0 0 19 11" xml:space="preserve">
-<polygon fill="#9e0205" points="18.96,9.447 10.123,0.073 9.416,0.073 0.021,9.467 0.729,10.174 9.79,1.154 18.273,10.174 "></polygon>
-<polygon fill="#FFFFFF" points="18.96,10.879 9.797,1.082 0.021,10.879 "></polygon>
-</svg></div></li>
-
-</ul>
+<a class="home" title="Home" href="/">Home</a>
+<a class="party" title="Party" href="/party-supplies.aspx?pmo=pa">Party</a>
+<a class="fancy" title="Fancy Dress" href="/fancy-dress/default.asp?pmo=fa">Fancy Dress</a>
+<a class="baby" title="Baby" href="/baby/default.aspx?pmo=ba">Baby</a>
+<a class="wedding" title="Wedding" href="/wedding/default.aspx?pmo=we">Wedding</a>
+<a class="toys" title="Toys" href="/toys/pocket-money-toys.aspx?pmo=to">Toys</a>
+<a class="disney" title="Disney" href="/themes/disney-party.aspx?pmo=3">Disney</a>
+<a class="per" title="Personalised" href="/personalised.aspx?pmo=pe">Personalised</a>
+<a class="sweets" title="Sweets" href="/sweets/?pmo=sw">Sweets</a>
+<a class="summer" title="Summer" href="/themes/summer-parties.aspx?pmo=su">Summer</a>
 </div>
 
 <div class="sub-tab">
-<p><a rel="facebox" href="/help/price-match.html" alt="Price Match"><img src="/images/_sitedesign/usp-price-match.jpg" alt="Tick"><span>Price Match<br>Promise</span></a></p>
-<p class="wider"><a rel="facebox" href="/help/delivery.html" alt="Next Day Delivery"><img src="/images/_sitedesign/usp-fast2.jpg" alt="Next Day Delivery"><span>Next Day<br>Delivery</span></a></p>
+<p><a rel="facebox" href="/help/price-match.html"><img src="/images/_sitedesign/usp-price-match.jpg" alt="Tick"><span>Price Match<br>Promise</span></a></p>
+<p class="wider"><a rel="facebox" href="/help/delivery.html"><img src="/images/_sitedesign/usp-fast2.jpg" alt="Next Day Delivery"><span>Next Day <br>Delivery</span></a></p>
 <p class="wider"><a rel="facebox" href="/help/free-delivery.html" alt="Free Delivery"><img src="/images/_sitedesign/usp-free2.jpg" alt="Free Delivery"><span>Free Delivery<br>Over £75</span></a></p>
-<p><a rel="facebox" href="/help/guarantee.html" alt="Money Back Guarantee"><img src="/images/_sitedesign/usp-pound.jpg" alt="Pound Sign"><span>100% Money Back Guarantee</span></a></p>
-<p><a rel="facebox" data-fancybox-type="iframe" href="http://www.feefo.com/reviews/Delights_UK/?internal=true&amp;id=212999" alt="Feefo Rating"><img src="/images/_sitedesign/usp-feefo-symbol.jpg" alt="Feefo"><span>97% Excellence<br><img class="stars" src="/images/_sitedesign/usp-feefo-stars.jpg" alt="Five Stars"></span></a></p>
+<p><a rel="facebox" href="/help/guarantee.html"><img src="/images/_sitedesign/usp-pound.jpg" alt="Pound Sign"><span>100% Money Back Guarantee</span></a></p>
+<p><a rel="facebox" data-fancybox-type="iframe" href="http://www.feefo.com/reviews/Delights_UK/?internal=true&amp;id=212999"><img src="/images/_sitedesign/usp-feefo-symbol.jpg" alt="Feefo"><span>97% Excellence<br><img class="stars" src="/images/_sitedesign/usp-feefo-stars.jpg" alt="Five Stars"></span></a></p>
 </div>
 
 </div><!--/Header Container-->
+
+<div class="promo-banner">
+    <div>
+        <div class="promo-banner-left-tail"></div>
+        <div>
+            <span class="promo-central"><b><span class="surplus">Spend more, SAVE more! </span>
+			<span><small>spend</small> £50<br> <small>save</small> 10%</span>
+			<span><small>spend</small> £80<br> <small>save</small> 15%</span>
+			<span><small>spend</small> £100<br> <small>save</small> 20%</span>
+			</b></span> <span class="promo-central"><small>Enter code</small> <b>SAVEMORE</b> <small>at checkout <a class="promo-terms fancybox fancybox.ajax" style="color: #FFF; text-decoration: underline;" href="/help/terms.html">T&amp;C's</a></small></span>
+         </div>
+        <div class="promo-banner-right-tail"></div>
+    </div>
+</div>
+
 </div><!--/Header-->
 
 <div class="headertitle">
@@ -770,280 +734,72 @@ $(document).ready(function () {
 <li class="tablet-only"><a href="#" class="alldepartments">All Departments</a></li>
 
 	<ul class="alldepartmentslist">
-		<li><a href="/default.asp?pmo=pa">Home</a>
-		</li><li><a href="/default.asp?pmo=pa">Party</a>
-		</li><li><a href="/fancy-dress/default.asp?pmo=fa">Fancy Dress</a>
-		</li><li><a href="/baby/default.aspx?pmo=ba">Baby</a>
-		</li><li><a href="/wedding/?pmo=we">Wedding</a>
-		</li><li><a href="/toys/pocket-money-toys.aspx?pmo=to">Toys</a>
-		</li><li><a href="/stationery/?pmo=st">Stationery</a>
-		</li><li><a href="/personalised-cards.aspx?pmo=pe">Cards</a>
-		</li><li><a href="/personalised.aspx?pmo=pe">Personalised</a>
-		</li><li><a href="/sweets/?pmo=sw">Sweets</a>
-                </li><li><a href="/halloween/halloween_party.asp?pmo=ha">Halloween</a></li>
+		<li><a href="/default.asp?pmo=pa">Home</a></li>
+		<li><a href="/default.asp?pmo=pa">Party</a></li>
+		<li><a href="/fancy-dress/default.asp?pmo=fa">Fancy Dress</a></li>
+		<li><a href="/baby/default.aspx?pmo=ba">Baby</a></li>
+		<li><a href="/wedding/?pmo=we">Wedding</a></li>
+		<li><a href="/toys/pocket-money-toys.aspx?pmo=to">Toys</a></li>
+		<li><a href="/themes/disney-party.aspx?pmo=3">Disney</a></li>
+		<li><a href="/personalised.aspx?pmo=pe">Personalised</a></li>
+		<li><a href="/sweets/?pmo=sw">Sweets</a></li>
+        <li><a href="/themes/easter-party.aspx?pmo=ea">Easter</a></li>
+        <li><a href="/themes/summer-parties.aspx?pmo=su">Summer</a></li>
 	</ul>
 	
   <!--Code for menu starts here-->
-  <script type="text/javascript">
-//function MM_jumpMenu(targ,selObj,restore){ //v3.0
-//  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
-//  if (restore) selObj.selectedIndex=0;
-//}
-</script>
+  <!-- Party Home -->
+<li><a href="http://www.partydelights.co.uk/party-supplies.aspx?pmo=pa" title="Party Home"><span class="icon">1</span> Party Home</a></li>
+<!-- Offers -->
+<li><a href="http://www.partydelights.co.uk/themes/sale.asp" title="Sale">Sale</a></li>
+<!-- Baby Occasions -->
+<li><a href="http://www.partydelights.co.uk/baby/default.aspx?pmo=ba" title="Baby Occasions"><span class="icon">0</span>Baby Occasions</a></li>
+<!-- Children's Birthdays -->
+<li><a href="http://www.partydelights.co.uk/themes/childrens-party.aspx?pmo=3" title="Children's Birthdays"><span class="icon">2</span>Children's Birthdays</a></li>
+<!-- Teen Birthdays -->
+<li><a href="http://www.partydelights.co.uk/teenage-party.aspx?pmo=pateenoccasions">Teen Birthdays</a></li>
+<!-- Adult Birthdays -->
+<li><a href="http://www.partydelights.co.uk/adult/adult-birthday-party.aspx?pmo=paadultoccasions">Adult Birthdays</a></li>
+<!-- Adult Themes -->
+<li><a href="http://www.partydelights.co.uk/adult/parties-for-adults.aspx?pmo=paadultthemes" title="Adult Themes">Adult Themes</a></li>
+<!-- Colour Themes -->
+<li><a href="http://www.partydelights.co.uk/themes/plain-coloured-party-supplies.aspx?pmo=pacolourthemes" title="Colour Themes">Colour Themes</a></li>
+<!-- Sports Themes -->
+<li><a href="http://www.partydelights.co.uk/themes/sports-party.aspx?pmo=pasportsthemes" title="Sports Themes">Sports Themes</a></li>
+<!-- Religious Occasions -->
+<li><a href="http://www.partydelights.co.uk/religious/religious-occasions.aspx?pmo=6" title="Religious Occasions">Religious Occasions</a></li>
+<!-- Special Occasions -->
+<li><a href="http://www.partydelights.co.uk/adult/special-occasions.aspx?pmo=paspecialoccasions" title="Special Occasions">Special Occasions</a></li>
+<!-- Seasonal & Events -->
+<li><a href="http://www.partydelights.co.uk/seasonal/default.aspx?pmo=5" title="Seasonal &amp; Events">Seasonal &amp; Events</a></li>
+<!-- Balloons -->
+<li><a href="http://www.partydelights.co.uk/themes/balloons.aspx?pmo=11" title="Balloons">Balloons</a></li>
 
-<li class="home-link"><a href="http://www.partydelights.co.uk/fancy-dress/default.asp?pmo=fah"><span class="icon">1</span> Fancy Dress Home</a></li>
+<!-- Accessories -->
+<li><a href="http://www.partydelights.co.uk/themes/party-accessories.aspx?pmo=13" title="Accessories">Accessories</a></li>
 
-<li class="subheading"><span>Costume Finder</span></li>
-	<ul>
-	<div class="menu_bodyfdsearch">
-        <div id="fdsearchcss" class="fdsearchcss">
-            <form name="frmfdsearch" method="get" id="frmfdsearch" action="/fancy_dress/costumethemelisting.asp">
-			
-            <input name="fdsearch" type="text" size="15" maxlength="50" value="">
-            <input name="pmo" type="hidden" value="fah">
-            <button name="submit" type="submit">Search <span>»</span></button>
-            </form>
-        </div>
-	</div>
-	</ul>
-	
+<!-- Catering -->
+<li><a href="http://www.partydelights.co.uk/catering/catering-supplies.aspx?pmo=catering" title="Catering">Catering</a></li>
+<!-- Cake Accessories -->
+<li><a href="http://www.partydelights.co.uk/cakes/candles-cupcakes-and-cake-accessories.aspx?pmo=cakeaccess" title="Cake Accessories">Cake Accessories</a></li>
 
+<!-- Decorations -->
+<li><a href="http://www.partydelights.co.uk/decorations/default.aspx?pmo=7" title="Decorations">Decorations</a></li>
+<!-- Games -->
+<li><a href="http://www.partydelights.co.uk/toys/games-and-puzzles.aspx?pmo=14" title="Games">Games</a></li>
 
-
-<li><a href="http://www.partydelights.co.uk/mens-fancy-dress/mens-fancy-dress.asp">Mens Fancy Dress</a></li>
-
-
-
-<li><a href="http://www.partydelights.co.uk/womens-fancy-dress/womens-fancy-dress.asp">Womens Fancy Dress</a></li>
-
-
- 
-<li><a href="http://www.partydelights.co.uk/teenagers-fancy-dress/teenagers-costumes.asp">Teenagers Fancy Dress</a></li>
-
-
-
-
-
-
-
-<li><a href="http://www.partydelights.co.uk/childrens-fancy-dress/childrens-fancy-dress.asp">Childrens Fancy Dress</a></li>
-
-
-
-
-
-
-
-
-
-
-<li><a href="http://www.partydelights.co.uk/toddlers-fancy-dress/toddlers-costumes.asp">Toddler Fancy Dress</a></li>
-
-
-
-<li><a href="http://www.partydelights.co.uk/baby-fancy-dress/baby-costumes.asp">Baby Fancy Dress</a></li>
-
-
-
-<li><a href="http://www.partydelights.co.uk/fancy-dress/accessories.asp?pmo=0&amp;mo=3">Accessories</a></li>
-
-
-
-<li class="subheading"><span>What's Hot</span></li>
-<ul>
-<!-- Default Whats Hot List -->
-<a href="/christmas/christmas-fancy-dress.aspx?pmo=chfancydress" title="Christmas">Christmas</a>
-<a href="/fancy-dress/sailor-fancy-dress-s.asp?pmo=fa" title="Sailor Fancy Dress">Sailor Fancy Dress</a>
-<a href="/fancy-dress/iron-man-costumes.asp?pmo=fa" title="Superman">Iron Man</a>
-<a href="/fancy-dress/adult-20s-costumes.asp?pmo=fa" title="Roaring 20s Costumes">20's Costumes</a>
-<a href="/fancy-dress/disney-princess-dress.asp?pmo=fa" title="Disney Princess Costumes">Disney Princess</a>
-<a href="/fancy-dress/sexy-costumes.aspx?pmo=fawomen" title="Sexy Costumes">Sexy Costumes</a>
-
-
-
-
-
-
-
-</ul>
-
-<li class="subheading"><span>All Themes</span></li>
-
-<ul class="scroll">
-<a href="http://www.partydelights.co.uk/fancy-dress/1920s-fancy-dress.asp" title="20's Costumes">20's</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/1940s-fancy-dress.asp" title="40's Costumes">40's</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/50s-fancy-dress.asp" title="50's Costumes">50's</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/60s-fancy-dress.asp" title="60's Costumes">60's</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/70s-fancy-dress.asp" title="70's Costumes">70's</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/80s-fancy-dress.asp" title="80's Costumes">80's</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/90s-fancy-dress-s.asp" title="90's Costumes">90's</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/abba-fancy-dress-s.asp" title="ABBA Costumes">ABBA</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/addams-family-fancy-dress.asp" title="Addams Family Costumes">Addams Family</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/alice-in-wonderland.asp" title="Alice in Wonderland Costumes">Alice in Wonderland</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/fairy-fancy-dress.asp" title="Angels Costumes">Angels</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/animal-fancy-dress.asp" title="Animals &amp; Insects Costumes">Animals &amp; Insects</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/national-costumes.asp" title="Around the World Costumes">Around the World</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/avatar-costumes.asp" title="Avatar Costumes">Avatar</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/avengers-costumes.asp" title="Avengers Costumes">Avengers</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/ball-gowns.asp" title="Ball Gowns Costumes">Ball Gowns</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/ballerina-costume.asp" title="Ballerinas &amp; Butterflies Costumes">Ballerinas &amp; Butterflies</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/batman-costumes.asp" title="Batman &amp; Robin Costumes">Batman &amp; Robin</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/batman-fancy-dress.asp" title="Batman Dark Knight Costumes">Batman Dark Knight</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/baywatch-costumes.asp" title="Baywatch Costumes">Baywatch</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/beetlejuice-costume.asp" title="Beetlejuice Costumes">Beetlejuice</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/ben-10-costumes.asp" title="Ben 10 Costumes">Ben 10</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/union-jack-british-costumes.asp" title="Best of British Costumes">Best of British</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/burlesque.asp" title="Burlesque Costumes">Burlesque</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/can-can-fancy-dress.asp" title="Can Can Costumes">Can Can</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/careers-costume.asp" title="Careers &amp; Professions Costumes">Careers &amp; Professions</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/caribbean-pirate-fancy-dress.asp" title="Caribbean Pirate Costumes">Caribbean Pirate</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/cartoon-fancy-dress.asp" title="Cartoon Characters Costumes">Cartoon Characters</a>
-<a href="http://www.partydelights.co.uk/halloween/catwoman-fancy-dress-s.asp" title="Catwoman Costumes">Catwoman</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/caveman-fancy-dress.asp" title="Cavemen &amp;  Women Costumes">Cavemen &amp;  Women</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/celebrity-fancy-dress.asp" title="Celebrities Costumes">Celebrities</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/celtic-football-club-costumes.asp" title="Celtic FC Costumes">Celtic FC</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/chelsea-football-club-costumes.asp" title="Chelsea FC Costumes">Chelsea FC</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/chinese-fancy-dress.asp" title="Chinese New Year Costumes">Chinese New Year</a>
-<a href="http://www.partydelights.co.uk/christmas/christmas-fancy-dress.aspx" title="Christmas Costumes">Christmas</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/clown-costume.asp" title="Clowns Costumes">Clowns</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/pilot-air-hostess-fancy-dress.asp" title="Come Fly with Me Costumes">Come Fly with Me</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/funny-fancy-dress.asp" title="Comedy Costumes">Comedy</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/cops-and-robbers-fancy-dress.asp" title="Cops &amp; Robbers Costumes">Cops &amp; Robbers</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/coronation-street-fancy-dress.asp" title="Coronation street Costumes">Coronation street</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/corpse-bride-costume.asp" title="Corpse Bride Costumes">Corpse Bride</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/cowboys-fancy-dress.asp" title="Cowboys &amp; Indians Costumes">Cowboys &amp; Indians</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/CostumeThemeListing.asp?gg=&amp;pmo=fah&amp;ThemeCode=464" title="Crayola Costumes">Crayola</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/fancy-dress-themes-decades.asp" title="Decades Costumes">Decades</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/despicable-me-costumes.asp" title="Despicable Me Costumes">Despicable Me</a>
-<a href="http://www.partydelights.co.uk/halloween/devil-costumes-s.asp" title="Devils Costumes">Devils</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/disney-fancy-dress.asp" title="Disney Costumes">Disney</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/disney-brave.asp" title="Disney Brave Costumes">Disney Brave</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/disney-princess-dress.asp" title="Disney Princess Costumes">Disney Princess</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/doctor-who-costumes.asp" title="Doctor Who Costumes">Doctor Who</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/easter-fancy-dress.asp" title="Easter Costumes">Easter</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/egyptian-fancy-dress.asp" title="Egyptian Costumes">Egyptian</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/elvis-costumes.asp" title="Elvis Costumes">Elvis</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/england-football-fancy-dress.asp" title="England Costumes">England</a>
-<a href="http://www.partydelights.co.uk/themes/eurovision-party.aspx?pmo=ev" title="Eurovision Costumes">Eurovision</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/fairies-costumes.asp" title="Fairies Costumes">Fairies</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/fairy-tale-fancy-dress.asp" title="Fairytale Costumes">Fairytale</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/film-costumes.asp" title="Film &amp; TV Costumes">Film &amp; TV</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/flintstones-fancy-dress.asp" title="Flintstones Costumes">Flintstones</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/food-and-drink-fancy-dress.asp" title="Food and Drink Costumes">Food and Drink</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/freddie-mercury-costume.asp" title="Freddie Mercury Costumes">Freddie Mercury</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/french-maid-costumes.asp" title="French Maid Costumes">French Maid</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/fundraising-fancy-dress---charity-fancy-dress.asp" title="Funny for Money Costumes">Funny for Money</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/ghostbusters-costumes.asp" title="Ghost Busters Costumes">Ghost Busters</a>
-<a href="http://www.partydelights.co.uk/halloween/ghost-costume-s.asp" title="Ghosts Costumes">Ghosts</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/hen-party-girls-night-out.asp" title="Girls Night Out Costumes">Girls Night Out</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/glamour-costumes.asp" title="Glamour Girls Costumes">Glamour Girls</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/grease-fancy-dress.asp" title="Grease Costumes">Grease</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/greek-costumes.asp" title="Greek Costumes">Greek</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/green-hornet.asp" title="Green Hornet Costumes">Green Hornet</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/green-lantern.asp" title="Green Lantern Costumes">Green Lantern</a>
-<a href="http://www.partydelights.co.uk/halloween/halloween-costumes.aspx" title="Halloween Costumes">Halloween</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/harry-potter-fancy-dress.asp" title="Harry Potter Costumes">Harry Potter</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/hawaiian-fancy-dress.asp" title="Hawaiian &amp; Beach Costumes">Hawaiian &amp; Beach</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/hello-kitty-costume.asp" title="Hello Kitty Costumes">Hello Kitty</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/hen-night-costumes.asp" title="Hen Party Costumes">Hen Party</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/historical-fancy-dress.asp" title="Historical  Costumes">Historical </a>
-<a href="http://www.partydelights.co.uk/fancy-dress/hobbit.asp" title="Hobbit Costumes">Hobbit</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/pimp-costumes.asp" title="Hoes &amp; Pimps Costumes">Hoes &amp; Pimps</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/hot-deals.asp" title="Hot Deals Costumes">Hot Deals</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/indiana-jones-costume.asp" title="Indiana Jones Costumes">Indiana Jones</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/insect-costumes.asp" title="Insects Costumes">Insects</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/iron-man-costumes.asp" title="Iron Man Costumes">Iron Man</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/james-bond-costumes.asp" title="James Bond Costumes">James Bond</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/kiss-costumes.asp" title="KISS Costumes">KISS</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/lady-gaga-costumes.asp" title="Lady Gaga Costumes">Lady Gaga</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/CostumeThemeListing.asp?gg=&amp;pmo=fah&amp;ThemeCode=472" title="Lala Loopsy Costumes">Lala Loopsy</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/lazy-town.asp" title="Lazy Town Costumes">Lazy Town</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/little-britain-fancy-dress.asp" title="Little Britain Costumes">Little Britain</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/little-miss-and-mr-men-costumes.asp" title="Little Miss &amp; Mr Men Costumes">Little Miss &amp; Mr Men</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/looney-tunes-costumes.asp" title="Looney Tunes Costumes">Looney Tunes</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/lord-of-the-rings-fancy-dress.asp" title="Lord of the Rings Costumes">Lord of the Rings</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/manchester-united-football-costumes.asp" title="Manchester United FC Costumes">Manchester United FC</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/medieval-fancy-dress.asp" title="Medieval Costumes">Medieval</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/CostumeThemeListing.asp?gg=&amp;pmo=fah&amp;ThemeCode=470" title="Mexican Costumes">Mexican</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/michael-jackson-costumes.asp" title="Michael Jackson Costumes">Michael Jackson</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/military-fancy-dress-costumes.asp" title="Military Costumes">Military</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/minnie-and-mickey-costumes.asp" title="Minnie &amp; Mickey Mouse Costumes">Minnie &amp; Mickey Mouse</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/monster-high-costumes.asp" title="Monster High Costumes">Monster High</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/little-monsters-costumes.asp" title="Monsters Costumes">Monsters</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/monsters-university-costumes.asp" title="Monsters University Costumes">Monsters University</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/morphsuits.asp" title="Morphsuits Costumes">Morphsuits</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/CostumeThemeListing.asp?gg=&amp;pmo=fah&amp;ThemeCode=474" title="Moshi Mosters Costumes">Moshi Mosters</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/muppets-fancy-dress.asp" title="Muppets Costumes">Muppets</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/my-little-pony-costumes.asp" title="My Little Pony Costumes">My Little Pony</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/neon-fancy-dress.asp" title="Neon Costumes">Neon</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/ninja-costume.asp" title="Ninjas Costumes">Ninjas</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/noddy-fancy-dress.asp" title="Noddy Costumes">Noddy</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/film-fancy-dress.asp" title="Old Classics Costumes">Old Classics</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/pantomime-costumes.asp" title="Pantomime Costumes">Pantomime</a>
-<a href="http://www.partydelights.co.uk/pink/party_in_pink.asp" title="Party in Pink Costumes">Party in Pink</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/pirate-fancy-dress-s.asp" title="Pirates Costumes">Pirates</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/playboy-costumes.asp" title="Playboy Costumes">Playboy</a>
-<a href="http://www.partydelights.co.uk/halloween/plus-size-halloween-costumes-s.asp" title="Plus Size Costumes">Plus Size</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/pop-star-fancy-dress.asp" title="Pop Stars Costumes">Pop Stars</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/power-rangers-costume.asp" title="Power Rangers Costumes">Power Rangers</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/princess-dress.asp" title="Princesses  Costumes">Princesses </a>
-<a href="http://www.partydelights.co.uk/fancy-dress/robin-hood-costumes.asp" title="Robin Hood Costumes">Robin Hood</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/rocky-horror.asp" title="Rocky Horror Costumes">Rocky Horror</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/roman-fancy-dress.asp" title="Roman Costumes">Roman</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/sailor-fancy-dress-s.asp" title="Sailor Costumes">Sailor</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/saints-and-sinners.asp" title="Saints &amp; Sinners Costumes">Saints &amp; Sinners</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/cheap-fancy-dress.asp" title="Sale Costumes">Sale</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/school-girl-fancy-dress.asp" title="School Days Costumes">School Days</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/scooby-doo-fancy-dress.asp" title="Scooby Doo Costumes">Scooby Doo</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/sexy-costumes.aspx?pmo=fa" title="Sexy Costumes">Sexy</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/sexy-uniforms.asp" title="Sexy Uniforms Costumes">Sexy Uniforms</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/shrek-fancy-dress.asp" title="Shrek Costumes">Shrek</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/simpsons-fancy-dress.asp" title="Simpsons Costumes">Simpsons</a>
-<a href="http://www.partydelights.co.uk/halloween/skeleton-costumes-s.asp" title="Skeletons Costumes">Skeletons</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/skylanders-costumes.asp" title="Skylanders Costumes">Skylanders</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/smurfs-costumes.asp" title="Smurfs Costumes">Smurfs</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/spice-girls-fancy-dress.asp" title="Spice Girls  Costumes">Spice Girls </a>
-<a href="http://www.partydelights.co.uk/fancy-dress/spiderman-fancy-dress-costumes.asp" title="Spiderman Costumes">Spiderman</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/spongebob-fancy-dress-costumes.asp" title="SpongeBob Costumes">SpongeBob</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/sports-fancy-dress.asp" title="Sports &amp; Teams Costumes">Sports &amp; Teams</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/team-costumes.asp" title="Sports &amp; Teams Costumes">Sports &amp; Teams</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/st-george-costume.asp" title="St George's Day Costumes">St George's Day</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/st-andrews-day-costumes-and-fancy-dress.asp" title="St. Andrew's Day Costumes">St. Andrew's Day</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/st-davids-day-costumes.asp" title="St. David’s Day Costumes">St. David’s Day</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/st-patricks-day-costumes.asp" title="St. Patrick's Day Costumes">St. Patrick's Day</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/stag-night-fancy-dress.asp" title="Stag Party Costumes">Stag Party</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/star-trek-costume.asp" title="Star Trek Costumes">Star Trek</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/star-wars-costume.asp" title="Star Wars Costumes">Star Wars</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/steampunk-costume.asp" title="Steampunk Costumes">Steampunk</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/strictly-come-dancing-costumes.asp" title="Strictly Come Dancing Costumes">Strictly Come Dancing</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/strictly-go-dancing-costumes.asp" title="Strictly Go Dancing Costumes">Strictly Go Dancing</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/super-mario-costumes.asp" title="Super Mario Costumes">Super Mario</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/superhero-costumes-s.asp" title="Superheroes Costumes">Superheroes</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/superman-costume.asp" title="Superman &amp; Supergirl Costumes">Superman &amp; Supergirl</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/teletubbies-costumes.asp" title="Teletubbies Costumes">Teletubbies</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/terminator-costume.asp" title="Terminator Costumes">Terminator</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/thunderbirds-fancy-dress.asp" title="Thunderbirds Costumes">Thunderbirds</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/tinkerbell-costumes.asp" title="Tinkerbell Costumes">Tinkerbell</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/tin-tin-costumes.asp" title="Tintin Costumes">Tintin</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/top-gun-fancy-dress.asp" title="Top Gun Costumes">Top Gun</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/toy-story-fancy-dress.asp" title="Toy Story Costumes">Toy Story</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/transformers-costume.asp" title="Transformers Costumes">Transformers</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/tutus.asp" title="Tutus Costumes">Tutus</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/usa-themed-fancy-dress.asp" title="USA Costumes">USA</a>
-<a href="http://www.partydelights.co.uk/halloween/dracula-vampire-costumes-s.asp" title="Vampires &amp; Draculas Costumes">Vampires &amp; Draculas</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/victorian-costumes.asp" title="Victorian Costumes">Victorian</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/career-costumes.asp" title="When I Grow Up.. Costumes">When I Grow Up..</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/wheres-wally-fancy-dress.asp" title="Where's Wally? Costumes">Where's Wally?</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/CostumeThemeListing.asp?gg=&amp;pmo=fah&amp;ThemeCode=469" title="Winnie the Pooh Costumes">Winnie the Pooh</a>
-<a href="http://www.partydelights.co.uk/halloween/witch-costumes-s.asp" title="Witches Costumes">Witches</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/wizard-of-oz-fancy-dress.asp" title="Wizard of Oz Costumes">Wizard of Oz</a>
-<a href="http://www.partydelights.co.uk/childrens-fancy-dress/world-book-day.asp" title="World Book Day Costumes">World Book Day</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/wwe-costumes.asp" title="WWE Costumes">WWE</a>
-<a href="http://www.partydelights.co.uk/halloween/zombie-costume-s.asp" title="Zombies Costumes">Zombies</a>
-<a href="http://www.partydelights.co.uk/fancy-dress/zorro-costume.asp" title="Zorro Costumes">Zorro</a>
-
-</ul>
-
+<!-- Party Bags &amp; Fillers -->
+<li><a href="http://www.partydelights.co.uk/party-bags/party-bags.aspx?pmo=pabags" title="Party Bags &amp; Fillers">Party Bags &amp; Fillers</a></li>
+<!-- Party Boxes -->
+<li><a href="http://www.partydelights.co.uk/party-boxes.aspx?pmo=paboxes" title="Party Boxes">Party Boxes</a></li>
+<!-- Party Packs -->
+<li><a href="http://www.partydelights.co.uk/party/party-packs.aspx?pmo=papartypacks" title="Party Packs">Party Packs</a></li>
+<!-- Personalised -->
+<li><a href="http://www.partydelights.co.uk/personalised.aspx?pmo=pe" title="Personalised">Personalised</a></li>
+<!-- Pi&ntilde;atas -->
+<li><a href="http://www.partydelights.co.uk/themes/range-pinatas.aspx?pmo=12" title="Piñatas">Piñatas</a></li>
+<!-- Toys &amp; Prizes -->
+<li><a href="http://www.partydelights.co.uk/toys/pocket-money-toys.aspx?pmo=toy" title="Toys &amp; Prizes">Toys &amp; Prizes</a></li>
 
   
     <ul class="tablet-only">
@@ -1062,10 +818,10 @@ $(document).ready(function () {
 </a>
 
 <a class="old" href="/help/howitworks.asp" title="Get answers using our Help section">
-  <div class="title">Any Questions?</div>
-  <div class="txt">get answers to<br>
-    common questions</div>
-  <img src="/images/_sitedesign/help.jpg"></a>
+<div class="title">Any Questions?</div>
+<div class="txt">get answers to<br>
+common questions</div>
+<img src="/images/_sitedesign/help.jpg"></a>
   
 <a class="old" href="/customer_citations.asp" title="Customer Feedback">
 <div class="title">
@@ -1073,81 +829,23 @@ Customer Feedback</div>
 <div class="txt">See how others rate<br>our service</div>
 <img src="/images/_sitedesign/feedback.jpg"></a>
   
-  <a class="feefo" rel="facebox" data-fancybox-type="iframe" href="http://www.feefo.com/reviews/Delights_UK/?internal=true&amp;id=212999" title="Feefo Rating">
-  <span>97% excellence</span>
-  <img src="/images/_sitedesign/nav-footer-feefo.jpg">
-  </a>
+<a class="feefo" rel="facebox" data-fancybox-type="iframe" href="http://www.feefo.com/reviews/Delights_UK/?internal=true&amp;id=212999" title="Feefo Rating">
+<span>97% excellence</span>
+<img src="/images/_sitedesign/nav-footer-feefo.jpg">
+</a>
   
-  <div class="socialnav old">
+<!--<div class="socialnav old">
 <div class="title">Party with us...</div>
 <div class="txt">and never miss an offer!</div>
-<a href="http://facebook.com/delights.co.uk" title="Facebook"><img src="/images/_sitedesign/lnsm-icons-facebook.png" alt="Facebook"></a>
-<a href="http://twitter.com/delights_uk" title="Twitter"><img src="/images/_sitedesign/lnsm-icons-twitter.png" alt="Twitter"></a>
+<a href="http://facebook.com/partydelightsuk" title="Facebook"><img src="/images/_sitedesign/lnsm-icons-facebook.png" alt="Facebook"></a>
+<a href="http://twitter.com/partydelightsuk" title="Twitter"><img src="/images/_sitedesign/lnsm-icons-twitter.png" alt="Twitter"></a>
 <a href="http://instagram.com/delights_uk/" title="Instagram"><img src="/images/_sitedesign/lnsm-icons-instagram.png" alt="Instagram"></a>
-<a href="http://pinterest.com/delightsuk" title="Pinterest"><img src="/images/_sitedesign/lnsm-icons-pinterest.png" alt="Pinterest"></a>
+<a href="http://pinterest.com/partydelightsuk" title="Pinterest"><img src="/images/_sitedesign/lnsm-icons-pinterest.png" alt="Pinterest"></a>
 <a href="http://google.com/+delightscouk" title="Google+"><img src="/images/_sitedesign/lnsm-icons-google.png" alt="Google+"></a>
 <a href="http://youtube.com/user/partydelights1" title="You Tube"><img src="/images/_sitedesign/lnsm-icons-you-tube.png" alt="You Tube"></a>
-</div>
+</div>-->
 
 </div>
-
-<!-- 
-<div class="cont"><a href="/help/howitworks.asp" title="Get answers using our Help section">
-  <div class="title">Any Questions?</div>
-  <div class="txt">get answers to<br />
-    common questions</div>
-  <img src="/images/_sitedesign/help.jpg"/></a></div>
-
-
-
-<div class="cont">
-<a href="/customer_citations.asp" title="Customer Feedback">
-<div class="title">
-Customer Feedback</div>
-<div class="txt">
-See how others rate<br />
-our service</div>
-<img src="/images/_sitedesign/feedback.jpg" /></a>
-</div>
-
-
-
-<div class="cont socialnav">
-<div class="title">Party with us...</div>
-<div class="txt">and never miss an offer!</div>
-<a href="http://facebook.com/delights.co.uk" title="Facebook"><img src="/images/_sitedesign/lnsm-icons-facebook.png" alt="Facebook" /></a>
-<a href="http://twitter.com/delights_uk" title="Twitter"><img src="/images/_sitedesign/lnsm-icons-twitter.png" alt="Twitter" /></a>
-<a href="http://instagram.com/delights_uk/" title="Instagram"><img src="/images/_sitedesign/lnsm-icons-instagram.png" alt="Instagram" /></a>
-<a href="http://pinterest.com/delightsuk" title="Pinterest"><img src="/images/_sitedesign/lnsm-icons-pinterest.png" alt="Pinterest" /></a>
-<a href="http://google.com/+delightscouk" title="Google+"><img src="/images/_sitedesign/lnsm-icons-google.png" alt="Google+" /></a>
-<a href="http://youtube.com/user/partydelights1" title="You Tube"><img src="/images/_sitedesign/lnsm-icons-you-tube.png" alt="You Tube" /></a>
-</div>
-
-
-<div class="cont">
-<a href="/contactus.asp" title="Contact us by email">
-<div class="title">Contact us</div><img src="/images/_sitedesign/contact-us.jpg" /></a></div>
-
-<div class="cont">
-<a href="/contactus.asp" title="Contact us by phone"><div class="title">0161 776 1133</div>
-<img src="/images/_sitedesign/phone-us.jpg" /></a></div>
-
-<div class="cont">
-<a href="/corporate/legal.asp" title="Terms &amp; Conditions">
-<div class="title" style="font-size: 12px; margin-top: 2px;">Terms &amp; Conditions</div>
-<img src="/images/_sitedesign/legal.jpg"/></a></div>
-  
-<div class="cont">
-<a href="/corporate/privacy.asp" title="Privacy Policy">
-<div class="title" style="font-size: 12px; margin-top: 2px;">Privacy &amp; Cookies</div>
-<img src="/images/_sitedesign/privacy.jpg"/></a></div> 
-
-<div class="server">
-<div class="title">You're on server 1</div>
-<img src="/images/_sitedesign/server.jpg"/>
-</div>
--->
-
 </div>
 
 </div>
@@ -1323,7 +1021,7 @@ Our site may, from time to time, contain links to and from the websites of our p
 
 
 </div><!-- /main -->
-<div class="copyright">Copyright © 2001-2013 Party Delights Limited. All Rights Reserved. All prices are in Pounds Sterling.</div> 
+<div class="copyright">Copyright © 2001-2014 Party Delights Limited. All Rights Reserved. All prices are in Pounds Sterling.</div> 
 </div><!-- /page -->
 <div class="footer">
 <div class="footer-inside">
@@ -1338,21 +1036,28 @@ Our site may, from time to time, contain links to and from the websites of our p
 </span>
 
 <span class="social">
-<a rel="me" href="http://facebook.com/delights.co.uk" class="facebook">F</a>
-<a rel="me" href="http://twitter.com/delights_uk" class="twitter">L</a>
-<a rel="me" href="http://google.com/+delightscouk" class="google">g</a>
-<a rel="me" href="http://youtube.com/user/partydelights1" class="youtube">Y</a>
-<a rel="me" href="http://pinterest.com/delightsuk" class="pinterest">p</a>
+<a rel="me" href="http://facebook.com/partydelightsuk" class="facebook" title="Facebook">F</a>
+<a rel="me" href="http://twitter.com/partydelightsuk" class="twitter" title="Twitter">L</a>
+<a rel="me" href="http://google.com/+delightscouk" class="google" title="Google+">g</a>
+<a rel="me" href="http://youtube.com/user/partydelights1" class="youtube" title="YouTube">Y</a>
+<a rel="me" href="http://pinterest.com/delightsuk" class="pinterest" title="Pinterest">p</a>
 </span>
+
+</span>
+
+<div class="divider"></div>
+
+<span class="blog">
+<span class="icon">c </span> 
+<a rel="me" href="http://blog.partydelights.co.uk" title="Read our party blog for party inspiration, free crafts and competitions!">Read our party blog for party inspiration, free crafts and competitions!</a>
 </span>
 
 <div class="divider"></div>
 
 <ul>
-<li>Delights.co.uk</li>
+<li>PartyDelights.co.uk</li>
 <li><a href="/about.asp">About us</a></li>
 <li><a href="http://www.delightsdirect.co.uk/">Wholesale</a></li>
-<li><a href="http://www.delights.de/">Germany</a></li>
 <li><a href="/corporate/legal.asp">Terms &amp; Conditions</a></li>
 </ul>
 
@@ -1382,7 +1087,6 @@ Our site may, from time to time, contain links to and from the websites of our p
 </ul>
 
 <div class="divider"></div>
-
 <div>
 
 <span class="cards">
@@ -1393,12 +1097,12 @@ Our site may, from time to time, contain links to and from the websites of our p
 <img src="/images/_sitedesign/footer/paypal.jpg" alt="PayPal">
 </span>
 
-<a class="checkout-button" href="/userprofile.asp"><span class="icon">l</span> Checkout</a>
+<a class="checkout-button" href="/userprofile.asp">Checkout <span class="icon">&gt;</span></a>
 </div>
 
 <div class="divider"></div>
 
-<span class="copyright">2001 - 2013 © Party Delights Limited. All Rights Reserved. <a href="/corporate/legal.asp">Terms &amp; Conditions</a>, <a href="/corporate/privacy.asp">Privacy Policy</a>.</span>
+<span class="copyright">2001 - 2014 © Party Delights Limited. All Rights Reserved. <a href="/corporate/legal.asp">Terms &amp; Conditions</a>, <a href="/corporate/privacy.asp">Privacy Policy</a>.</span>
 
 </div>
 </div>
