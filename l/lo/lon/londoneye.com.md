@@ -1,82 +1,83 @@
-> *The following text is extracted and transformed from the londoneye.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201175429id_/http%3A//www.londoneye.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the londoneye.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617161853id_/http%3A//www.londoneye.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
 This web site is owned and run by London Eye Management Services Limited ("the London Eye"), a division of Merlin Entertainments Group. The EDF Energy London Eye recognises that your privacy is important, and is committed to preserving it. This policy sets out our policy in relation to any personal information which you supply to us through your use of this website. 
 
-## Booking your London Eye tickets online is quick, easy, convenient and safe. 
-
 The EDF Energy London Eye makes every effort to maintain customer confidentiality when securing an online payment. This includes ensuring the security of your credit card details and other personal information. All of your personal information is encrypted as it travels over the Internet. 
 
-## How we collect data about you and your use of this web site 
+**PRIVACY POLICY**
 
-You are in control of what information we collect about you. However, if you choose not to share your information with us, some areas of the website may not be accessible or useable. We may ask you for information about yourself when you purchase tickets or other products or services, when you enter competitions or register for promotions or when you request brochures or other information. We may also invite you to complete surveys or provide us with feedback. 
+Merlin Entertainments Group Limited ("We") are committed to protecting and respecting your privacy.
 
-We and our appointed agency also collect anonymous information about your use of the website from cookies and by the use of pixel tags. We may match information gathered from these sources with any information you have given us about yourself for the purposes explained in this policy. 
+This policy (together with any other terms of use available on our website and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-## Administration, other non-marketing use and disclosure 
+For the purpose of the Data Protection Act 1998 (the Act), the data controller is Merlin Entertainments Group Limited of 3 Market Close, Poole, Dorset BH15 1NQ.
 
-We will use the information you enter at the site for administration purposes and any other purposes made clear in the data entry forms themselves, in any relevant terms or conditions and on any pages or emails which link to such forms. We may conduct analysis of user traffic. 
+ **INFORMATION WE MAY COLLECT FROM YOU**
 
-We may also disclose your personal information to third parties:  
-\- in the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets  
-\- if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms and conditions of use or terms and conditions of supply and other agreements, or to protect the rights, property or safety of the Merlin Entertainments Group, our customers, or others. This includes exchanging information with other companies and organisations for the purpose of fraud protection and credit risk reduction.  
+We may collect and process the following data about you:
 
+• Information that you provide by filling in forms on our site www.londoneye.com. This includes information provided at the time of registering to use our site, subscribing to our service, posting material or requesting further services.   
+• We may also ask you for information when you report a problem with our site.  
+• If you contact us, we may keep a record of that correspondence.  
+• We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.  
+• Details of transactions you carry out through our site and of the fulfilment of your bookings including your credit/debit card details.  
+• Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.   
+• Your name, address, telephone number and/or email address in order to contact you with details of your booking or in the unlikely event that we need to contact you urgently about your booking.
 
-## Direct Marketing 
+ **IP ADDRESSES**
 
-If you book a ticket from us, the data you give us about yourself will enable us to give you updates other than through our web site, using the contact details you provide, on promotions and services we think may interest you or to involve you in market research. To improve our picture of your interests we may link the data you give us with any data we have gathered (via cookies) about your use of the site. In some cases we may also wish to share your data with other parts of the Merlin Entertainments group or third party entities that process personal information on our behalf so that they can update you on promotions and services they think may be of interest to you. 
+We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual. Your IP address may also be used to diagnose problems with our server, monitor visitor traffic patterns and site usage to help us develop and improve our site further.
 
-Whenever we ask you for information about yourself, if you have indicated that you wish to receive direct marketing material from us and/or from third parties, your personal details will be included in a database compiled for direct marketing purposes and from time to time, you may receive these marketing communications. This will enable us to keep you informed about offers and events run by various attractions across the Merlin Entertainments Group, including Alton Towers, Thorpe Park, Warwick Castle, Madame Tussauds, EDF Energy London Eye and Chessington World of Adventures. 
+ **COOKIES**
 
-If you have indicated that you wish to receive direct marketing material or e-mail updates from us, and/or from third parties but subsequently change your mind, you should notify us at privacy@londoneye.com. As soon after this as is reasonably practicable, we will remove your name from the relevant database. 
+Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. For detailed information on the cookies we use and the purposes for which we use them see our Cookie policy. 
 
-We will take reasonable steps to ensure that your data is used by third parties in accordance with this policy. 
+**WHERE WE STORE YOUR PERSONAL DATA**
 
-## What countries your data may pass through 
+The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.  
+All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted using SSL technology. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
 
-We want our customers to benefit from the London Eye’s international connections. Accordingly, in operating this site, as outlined in this privacy policy, we may send data about site visitors through or to other countries, both inside and outside Europe. Owing to the global nature of the Internet infrastructure, the information that you provide may also be transferred in transit to other countries, both inside and outside Europe. 
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
-However, we will take the steps outlined in this policy above to maintain the security of your information 
+ **USES MADE OF THE INFORMATION**
 
-## Links to other websites 
+We use information held about you in the following ways:
 
-We use links to improve your experience of our website. We will always seek to make these links clear so that you know you have left our website. However, please be aware that these websites are owned and run by other companies and organisations and we cannot accept responsibility for any information you choose to divulge to a linked website. Such websites have their own privacy policies and please check these policies before you submit personal data to them. 
+• To ensure that content from our site is presented in the most effective manner for you and for your computer.   
+• To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes.   
+• To carry out our obligations arising from any contracts entered into between you and us.  
+• To allow you to participate in interactive features of our service, when you choose to do so.  
+• To notify you about changes to our service.  
+• We may also use your data, or permit selected third parties to use your data, to provide you with information about goods and services which may be of interest to you and we or they may contact you about these by post or telephone.  
+• If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale to you.   
+• If you are a new customer, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have consented to this.   
+• Your data will not be used in this way and we will not pass your details on to third parties for marketing purposes unless you tick the relevant box located on http://www.londoneye.com/NewsAndEvents/eNewsletter/Signup.aspx.
 
-## Statistical Data 
+ **DISCLOSURE OF YOUR INFORMATION**
 
-We try to ensure that our web site offers visitors exactly what they are looking for - to help us achieve this goal we may analyse anonymous data collected by cookies about how visitors use the web site. Such data also helps us to measure the success of our advertising campaigns. We may also collect Internet Protocol addresses to help diagnose problems with our servers and for system administration, but we do not link these addresses to any person's name or identity. 
+We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
 
-## Cookies 
+We may disclose your personal information to third parties:
 
-Cookies are small amounts of information which we store on your computer. Unless you have indicated your objection when disclosing your details to us, our system will issue cookies to your computer when you log on to the site. Cookies make it easier for you to log on to and use the site during future visits. They also allow us to monitor website traffic and to personalise the content of the site for you. 
+• In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.  
+• If Merlin Entertainments Group Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.  
+• If we are under a duty to disclose or share your personal data in order to comply with any legal obligation.
 
-You may set up your computer to reject cookies although in that case, you may not be able to use certain features on our site. To disable cookies consult your browsers help files and follow the steps shown.
+ **YOUR RIGHTS**
 
-[Read more about our Cookie Policy](http://www.londoneye.com/cookies/)
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at comments@merlinentertainmenrts.biz   
+Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
-## Security and Data Retention 
+ **ACCESS TO INFORMATION**
 
-We employ security measures to protect your information from access by unauthorised persons and against unlawful processing, accidental loss, destruction and damage. We will retain your information for a reasonable period or as long as the law requires. 
+The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
 
-## Accessing and updating 
+ **CHANGES TO OUR PRIVACY POLICY**
 
-You are entitled to see a copy of any personal data (as defined in the Data Protection Act 1998) held about you and you may ask us to make any necessary changes to ensure that it is accurate and kept up to date. If you wish to do this, please contact us. We are entitled by law to charge a small fee to meet our costs in providing you with details of the information we hold about you. 
+Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.
 
-## Contact 
+ **CONTACT**
 
-Any comments, queries and requests relating to our use of your data are welcomed and should be emailed to us at privacy@londoneye.com or addressed to us at:  
-Customer Services  
-EDF Energy London Eye  
-Riverside Building  
-County Hall  
-Westminster Bridge Road  
-London  
-SE1 7PB   
-
-
-## Changes to this policy 
-
-As we are constantly improving our site, there may be developments in how we use your data. All such developments will be promptly notified to you in this policy, and where appropriate, through e-mail notification. 
-
-The EDF Energy London Eye is owned and operated by London Eye Management Services Limited. Registered Office: 3 Market Close, Poole, Dorset, BH15 1NQ. Registered in England No. 2896849 
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to comments@merlinentertainments.biz 
