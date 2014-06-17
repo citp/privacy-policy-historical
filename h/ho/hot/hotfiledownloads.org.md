@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hotfiledownloads.org privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014234328id_/http%3A//www.hotfiledownloads.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotfiledownloads.org privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617065455id_/http%3A//www.hotfiledownloads.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | HotFileDownloads
+# Privacy Policy | HotFileDownloadsHotFileDownloads
 
 hotfiledownloads.org is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
