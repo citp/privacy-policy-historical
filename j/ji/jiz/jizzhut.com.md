@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jizzhut.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209004449id_/http%3A//www.jizzhut.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jizzhut.com privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618000622id_/http%3A//www.jizzhut.com/privacy.php) for the most accurate reproduction.*
 
 # The YouJizz Privacy Page
 
