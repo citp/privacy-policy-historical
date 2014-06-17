@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefoundry.co.uk privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116233123id_/http%3A//www.thefoundry.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefoundry.co.uk privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618014449id_/http%3A//www.thefoundry.co.uk/privacy) for the most accurate reproduction.*
 
 # The Foundry :: Cookie & Privacy Policy
 
@@ -22,11 +22,13 @@ Cookies are very small text files that are stored on your computer when you visi
 
 Session Cookies - We use a session cookie to remember your login for you and what you've put in the shopping basket. These we deem strictly necessary to the working of the website. If these are disabled then various functionalities on the site will be broken. 
 
-Google Analytics – We use this to understand how the website is being used in order to improve the user experience. User data is anonymous. 
+Google Analytics & KISSmetrics – We use this to understand how the website is being used in order to improve the user experience. User data is anonymous. 
 
 Eloqua – We use this tool to understand more about the areas of our website you're most interested in. We then use this information to tailor marketing messages to you. 
 
 Google Remarketing — Google uses these cookies to show relevant adverts to users who have previously visited our website, as they browse other websites. To opt-out from Google's remarketing program, please [edit your Google Ad Settings](https://www.google.com/settings/ads).
+
+Facebook - Cookies and pixels are used to understand and deliver ads and make them more relevant to you. We may also use a cookie to learn whether someone who saw an ad on Facebook later visited our website.
 
 ## Data collection and use
 
@@ -73,7 +75,7 @@ We allow you to challenge the data that we hold about you and, where appropriate
 
 ## The services and links of our website
 
-Our website does not enable our visitors to communicate with other visitors or to post information to be accessed by others.
+Our website does not enable our visitors to communicate with other visitors or to post information to be accessed by others, other than through participation in our forum pages.
 
 Where our website contains links to third party sites, The Foundry is not responsible for the privacy policies of those sites.
 
