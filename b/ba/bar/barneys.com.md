@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barneys.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511052604id_/http%3A//www.barneys.com/Privacy-Policy/PRIVACY_POLICY%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barneys.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617054730id_/http%3A//www.barneys.com/on/demandware.store/Sites-BNY-Site/default/Link-Page%3Fcid%3DPRIVACY_POLICY) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 Protecting your online order information on Barneys.com is very important to us. In our shopping checkout process, we use Secure Socket Layering (SSL), the industry-standard encryption technology that ensures the safety and security of your online order. When the letters "http" in the URL address change to "https," the "s" indicates you are in a secure area employing SSL.
 
-Making a credit card purchase is just as safe on our web site as it is by telephone. But if you prefer to order merchandise from the website by phone, call toll-free 1-888-222-7639. Our customer service associates are available, Monday - Saturday, 9.00am - 12.00am, and Sunday 10.00am - 11.00pm, EST.
+Making a credit card purchase is just as safe on our web site as it is by telephone. But if you prefer to order merchandise from the website by phone, call toll-free 1-888-222-7639. Our customer service associates are available, Monday - Friday, 9.00am - 9.00pm, and Saturday - Sunday 11:30am - 8.00pm, ET.
 
 ## Privacy Policy
 
@@ -50,4 +50,4 @@ Registering with Barneys.com will make your online shopping faster and easier. W
 
 ## E-mails
 
-We may send promotional e-mails to you only if you have asked to receive them. Each time you receive an e-mail from us, you will be given the opportunity to "opt-out" or stop receiving them. You may also [click here to unsubscribe.](http://www.barneys.com/Unsubscribe/UNSUBSCRIBE,default,pg.html)
+We may send promotional e-mails to you only if you have asked to receive them. Each time you receive an e-mail from us, you will be given the opportunity to "opt-out" or stop receiving them. You may also [click here to unsubscribe.](http://www.barneys.com/on/demandware.store/Sites-BNY-Site/default/Link-Page?cid=UNSUBSCRIBE)
