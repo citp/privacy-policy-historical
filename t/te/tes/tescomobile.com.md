@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tescomobile.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217195700id_/http%3A//www.tescomobile.com/about-us/terms-and-conditions/general/privacy-and-cookies-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tescomobile.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617151516id_/http%3A//www.tescomobile.com/about-us/terms-and-conditions/general/privacy-and-cookies-policy) for the most accurate reproduction.*
 
 # Privacy and Cookies Policy | General | Terms and Conditions | About us | Tesco Mobile
 
@@ -22,10 +22,11 @@ Tesco Mobile (“the Website”) is owned and operated by Tesco Mobile Limited, 
   14. Disclosing your information
   15. Credit Reference agencies
   16. Fraud Prevention agencies
-  17. Other websites
-  18. Accessing your information
-  19. Changes to our policy
-  20. Contacting us
+  17. Data Retention
+  18. Other websites
+  19. Accessing your information
+  20. Changes to our policy
+  21. Contacting us
 
 
 
@@ -36,7 +37,7 @@ We collect information about you when you:
   * Visit the Website, and other sites accessible from the Website.
   * Register with and buy products or services on the Website.
   * Take part in promotions, competitions, customer surveys and questionnaires.
-  * Contact us eg in writing, call customer services.
+  * Contact us by writing to us or calling our customer services.
 
 
 
@@ -44,25 +45,23 @@ We may supplement the information we collect about you with information we recei
 
 Back to top
 
-## 2\. Using your information.
+## 2\. Using your information
 
-Collecting your personal information helps Tesco to better understand what you need from us. We use your information to:
+Collecting your personal information helps us and the Tesco Group to better understand what you need from us. We collect and use your information to:  
+•    manage and improve the Website  
+•    personalise our services to you  
+•    administer and operate your account  
+•    process your orders and allocate Clubcard points to your account  
+•    tell you about important changes to the Website and our services  
+•    understand your shopping behaviour to develop and improve our products and services  
+•    manage promotions, competitions, customer surveys and questionnaires  
+•    check and verify your identity, and prevent or detect crime.
 
-  * manage and improve the Website.
-  * personalise our services to you.
-  * administer and operate your account.
-  * process your orders and allocate Clubcard points to your account.
-  * tell you about important changes to the Website and our services.
-  * understand your shopping behaviour to develop and improve our products and services.
-  * manage promotions, competitions, customer surveys and questionnaires.
-  * check and verify your identity, and prevent or detect crime. In performing checks your information may be disclosed to credit reference agencies, who may keep a record of that information. This is not a credit check and your credit rating will be unaffected.
+In performing verification and identity checks, your information may be disclosed to credit reference agencies, who may keep a record of that information. This is not a credit check and your credit rating will be unaffected.
 
-
-
-We may share your personal information across the Tesco Group so they can provide you with relevant products and services.
-
-Your personal information is safe with us and will never be released to companies outside the Tesco Group for their marketing purposes.
-
+  
+We may share your personal information across the Tesco Group so they can provide you with relevant products and services.  
+Your personal information is safe with us and will never be released to companies outside the Tesco Group for their marketing purposes.  
 We may use and share anonymised information outside the Tesco Group. However, we would like to reassure you that this never includes your personal information.
 
 Back to top
@@ -79,7 +78,7 @@ If you agree, we may contact you:
 
   * with offers and information about Tesco products or services
   * with offers and information about partners’ products or services
-  * for customer research eg to help improve our services
+  * for customer research to help improve our services
 
 
 
@@ -95,7 +94,7 @@ Back to top
 
 ## 5\. Cookies
 
-In order to comply with new rules, we use a system of classifying the different types of cookies which we use on the Website, or which may be dropped by third parties through our websites. The classification was developed by the International Chamber of Commerce UK and explains more about which cookies we use, why we use them, and the functionality you will lose if you decide you don't want to have them on your device. Please be reassured that we are working on other privacy and cookie-related improvements to the Website.
+We use a system of classifying the different types of cookies which we use on the Website, or which may be dropped by third parties through our websites. The classification was developed by the International Chamber of Commerce UK and explains more about which cookies we use, why we use them, and the functionality you will lose if you decide you don't want to have them on your device. Please be reassured that we are working on other privacy and cookie-related improvements to the Website.
 
 Back to top
 
@@ -165,7 +164,7 @@ Back to top
 
 ## 14\. Disclosing your information
 
-We will never disclose your information to anyone outside the Tesco Group except where we have your consent; where we are required or permitted to do so by law; to other companies who provide a service to us; or any successors in title to our business.
+We will never disclose your information to anyone outside the Tesco Group except where we have your consent; where we are required or permitted to do so by law; to other companies who provide a service to us; or any successors in title to our business.  Your information will never be released to companies outside the Tesco Group for their marketing purposes.
 
 Whenever we transfer personal information to countries outside the European Economic Area we will ensure that appropriate security measures are taken.
 
@@ -173,7 +172,7 @@ Back to top
 
 ## 15\. Credit Reference agencies
 
-We will search your record at credit reference agencies who will supply us with credit information, as well as information from the Electoral Register. We’ will also add to your record with the credit reference agency details of your credit agreement with us, the payments you make under it and any default or failure to keep to its terms. The credit reference agency will record details of the search, whether or not your application proceeds. We may use credit scoring or other automated decision-making systems when assessing your application and to verify your identity. Credit searches and other information which is provided to us and/or the credit reference agencies, about you and those with whom you are linked financially may be used by us and other companies if credit decisions are made about you, or other members of your household. This information may also be used for debt tracing and the prevention of money laundering as well as the management of your account. Information held about you by the credit reference agencies may already be linked to records relating to one or more of your partners and you may be treated as financially linked, which means your application will be assessed with reference to any associated records.
+We will search your record at credit reference agencies who will supply us with credit information, as well as information from the Electoral Register, about you. We will also add to your record with the credit reference agency details of your credit agreement with us, the payments you make under it and any default or failure to keep to its terms. The credit reference agency will record details of our search, whether or not your application proceeds. We may use credit scoring or other automated decision-making systems when assessing your application and to verify your identity. Credit searches and other information which is provided to us and/or the credit reference agencies, about you and those with whom you are linked financially may be used by us and other companies to make other credit decisions about you, or other members of your household. This information may also be used for debt tracing and the prevention of money laundering as well as the management of your account. Information held about you by the credit reference agencies may already be linked to records relating to one or more of your partners and you may be treated as financially linked, which means your application will be assessed with reference to any associated records.  Prior to such an assessment you will first need to get your partner’s consent before their information is disclosed. 
 
 Back to top
 
@@ -183,25 +182,36 @@ If false or inaccurate information is provided and fraud is identified or suspec
 
 Back to top
 
-## 17\. Other websites
+## 17\. Data retention
+
+The personal information that we collect from you will be kept for the period of time that is necessary for us to provide our services to you and to conduct all of our related business functions.  In some instances, we may be required by law to keep your personal information for longer.
+
+Back to top
+
+## 18\. Other websites
 
 The Website may contain links to other sites which are outside our control and not covered by this policy. The operators of these sites may collect information from you that will be used by them in accordance with their policy, which may differ from ours.
 
 Back to top
 
-## 18\. Accessing your information
+## 19\. Accessing your information
 
-To obtain a copy of the information we hold about you, write to: Data Protection Officer, Corporate & Legal Affairs, New Tesco House, Delamare Road, Cheshunt, Hertfordshire EN8 9SL enclosing a cheque or postal order for £10 payable to “Tesco Stores Limited”. Please confirm your Clubcard number and any details to help us identify and locate your information. If any of the details are incorrect, let us know and we will amend them.
+If you would like to obtain a copy of the information we hold about you, there’s a £10 charge. Please either call us on 0845 301 4455 or 4455 from your Tesco Mobile phone or write to us at: Tesco Mobile Limited, Dumers Lane, Radcliffe, Bury BL9 9QL enclosing a cheque for £10 payable to Tesco Mobile Limited and any details to help us identify and locate your information.  
+As the information held by the Credit Reference Agencies operating in the UK may differ, you may want to contact each agency at the contact information set out below:  
+CallCredit, Consumer Services Team, PO Box 491, Leeds, LS3 1WZ or call 0870 0601414   
+Equifax PLC, Credit File Advice Centre, PO Box 3001, Bradford, BD1 5US or call 0870 010 0583 or log on to www.myequifax.co.uk  
+Experian, Consumer Help Service, PO Box 8000, Nottingham NG80 7WF or call 0844 4818000 or log on to www.experian.co.uk  
+A small statutory fee may apply
 
 Back to top
 
-## 19\. Changes to our policy
+## 20\. Changes to our policy
 
-This policy replaces all previous versions and is correct as of May 2012. We reserve the right to change the policy at any time.
+We reserve the right to change the policy at any time if we do change the way we collect or use your information.  However the current version of our privacy policy will always be available on this website. 
 
 Back to top
 
-## 20\. Contacting us
+## 21\. Contacting us
 
 If you have any queries, please contact our [Customer Care team](https://web.archive.org/contact-us).
 
