@@ -1,34 +1,67 @@
-> *The following text is extracted and transformed from the henrico.us privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607142545id_/http%3A//www.co.henrico.va.us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the henrico.us privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617063412id_/http%3A//henrico.us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | County of Henrico
 
 ## What information is collected during your visit to our web site?
 
-When you visit the Henrico County website, the following information is collected automatically:
+When you visit the Henrico County website, the information like the following is collected automatically:
 
-  1. The Internet Service Provider you use to access the Internet (for example, Verizon or Comcast).
-  2. The date and time you visited.
-  3. The pages you looked at.
-  4. If you downloaded something, the file(s) you downloaded.
+  * The pages you visited
+  * The date and time you visited
+  * How you got to our site (either through links on other sites or search terms)
+  * ISP and general geographical location
+  * General technical information on the device used to access the site (web browser, operating system, and if a computer or mobile device)
 
 
 
-We use this information only in aggregate form (i.e., grouped together with everyone else’s, not by individual user). We look to see how many people visit the site, what the most popular pages on our site are, where there are broken links, etc.
+We collect this data in aggregate form (i.e., grouped together with everyone else’s, not by individual user). 
 
-## What if you voluntarily provide personally identifiable information?
+We use this data to analyze trends and data on how our site is used. This includes topics such as how many people visit the site, how people got to the site, and how people are using the website. We are able to provide a better service to our users by researching this data.
 
-Such information is treated the same way as if it had arrived in a letter. For example, suppose you use the [Restaurant Complaint Form](https://web.archive.org/web/20130607142545id_/http%3A//www.co.henrico.va.us/health/environmental-health/complaint/) to file a complaint about a restaurant in Henrico County. That page asks you to enter personally identifiable information such as your name, address, and phone number. The information is received by the appropriate agency, in this case, the Health Department, and only shared with other County agencies that might need the information to resolve the issue. The County of Henrico does not sell or market such information in any way, to anyone. The County of Henrico will disclose such information to third parties only when required to do so by law.
+We use Google Analytics for this service. For more information on their privacy policies, you can read the [Google Analytics Privacy Policy](http://www.google.com/analytics/learn/privacy.html).
 
-## Do we use “cookies?”
+## Personally Identifiable Information
 
-The County of Henrico does not use cookies except in its online job application process through [www.henricojobs.com](http://www.henricojobs.com/). Cookies on [www.henricojobs.com](http://www.henricojobs.com/) will only be used for the online job application process.
+We treat such information the same way as if it had arrived in a letter. For example, suppose you use the [Restaurant Complaint Form](https://web.archive.org/health/environmental-health/complaint/) to file a complaint about a restaurant in Henrico County. That page asks you to enter personally identifiable information such as your name, address, and phone number. The appropriate agency receives this information, and can only share with other  
+County agencies that might need the information to resolve the issue. 
+
+The County of Henrico does not sell or market such information in any way, to anyone. The County of Henrico will disclose such information to third parties only when required to do so by law enforcement.
+
+GIS and other location-aware apps may use, only with your express permission, your geographical information to improve the functionality of the application. You may have seen this kind of location warning if you have a smartphone and have used on it any app that asks, “(This app) would like to use your current location,” and you accept or decline. If you decline, your location is not available in that application.
+
+## Cookies
+
+> “A cookie is a small piece of text sent to your browser by a website you visit. It helps the website to remember information about your visit, like your preferred language and other settings. That can make your next visit easier and the site more useful to you. Cookies play an important role. Without them, using the web would be a much more frustrating experience.” – From [Google’s Policies and Principles](https://www.google.com/intl/en/policies/technologies/cookies/).
+
+Cookies are a common part of using the web today, as is privacy. Users have the choice to disable or customize the use of cookies used in their browsers. It is up to the user to enable this type of feature. By disabling cookies, certain parts of the web may not work as designed. 
+
+A few parts of our websites use cookies, including but not limited to
+
+  * [Henrico Jobs](http://www.henricojobs.com/)
+  * Analytic tracking on [www.co.henrico.va.us](https://web.archive.org/web/20140617063412id_/http://henrico.us/privacy-policy/www.co.henrico.va.us)
+
+
+
+Google Analytics will create cookies on behalf of our domain to assist with analytical tracking. Please see Google Analytics document entitled ‘[Safeguarding your data](http://www.google.com/analytics/learn/privacy.html)‘ for more information about cookie usage. 
+
+Software on our site or affiliated sites that we use for several functions may also leave cookies for the functionality of the site.
 
 ## Outside Links
 
-Note: some County of Henrico web pages have links to web sites “outside” of the County’s web site. If you click on these links to visit other sites, you are subject to the privacy policies of those sites while you are visiting them, rather than the County’s policies.
+Some County of Henrico web pages have links to web sites outside of the County’s web site. If you click on these links to visit other sites, you are subject to the privacy policies of those sites while you are visiting them, rather than the County’s policies.
 
-## Why this policy?
+## Searching our site
 
-The County has developed this policy because we are proud of our website. We believe it to be user-friendly, and we want you to feel comfortable visiting here, knowing that we are not collecting information about you to give to other people. This privacy policy is intended to be in compliance with the [Va. Code Section 2.2-3803](http://lis.virginia.gov/cgi-bin/legp604.exe?000+cod+2.2-3803).
+Our website offers searching of the site, backed by Google Site Search. The software tracks search terms used on the site, but not who made those search terms. We use this data to assist users to find information quicker on common search terms. This software adheres to [Google’s Privacy Policy](https://www.google.com/intl/en/policies/privacy/). 
 
-Copyright 1996-2013   |   Henrico County 4301 East Parham Road, Henrico, VA 23228   |   804-501-4000
+## Traffic Monitoring
+
+We monitor our incoming Internet traffic to protect our network against incoming cyber attacks and spam. This process can capture and filter traffic depending on IP addresses.
+
+## SSL
+
+All information to and from the web site is unencrypted, unless you choose to use SSL, which is available. 
+
+_Last updated: March 4, 2014_
+
+Copyright 1996-2014   |   Henrico County 4301 East Parham Road, Henrico, VA 23228   |   804-501-4000
