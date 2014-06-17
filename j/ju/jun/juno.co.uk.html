@@ -1,36 +1,36 @@
-<!--The following is the downloaded HTML source of the juno.co.uk privacy policy that was archived on 2013-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131216094144id_/http%3A//www.juno.co.uk/help/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the juno.co.uk privacy policy that was archived on 2014-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140617094529id_/http%3A//www.juno.co.uk/help/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#"><head>
 		<title>Help » Privacy Policy</title>
 		<meta name="description" content="Juno Records privacy policy Privacy Policy">
 		<meta name="keywords" content="privacy policy  juno records dance music vinyl vinil vynil">
 		<meta http-equiv="Content-Type" content="text/html; charset= utf-8">
-		<meta content="IE=EDGE" http-equiv="X-UA-Compatible">
+		<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
 		<meta property="fb:app_id" content="125902343097">
 		<meta property="og:url" content="http://www.juno.co.uk/help/privacy-policy/">
 		<meta property="og:site_name" content="Juno Records">
 		<meta property="og:title" content="Help » Privacy Policy">
 		<meta property="og:type" content="website">
-		<meta property="og:image" content="http://www.junostatic.com/09000000/images/facebook_jr.jpg">
+		<meta property="og:image" content="http://www.junostatic.com/09020000/images/facebook_jr.jpg">
 		<meta property="og:description" content="Juno Records privacy policy Privacy Policy">
 	
-								<base href="http://www.juno.co.uk">								
+														
 		 
 				
-				<link href="http://www.junostatic.com/09000000/styles/css-common-records.css" rel="stylesheet" type="text/css">
+				<link href="http://www.junostatic.com/09020000/styles/css-common-records.css" rel="stylesheet" type="text/css">
 
-				<link href="http://www.junostatic.com/09000000/styles/en_ju_navigation.css" rel="stylesheet" type="text/css">
+				<link href="http://www.junostatic.com/09020000/styles/en_ju_navigation.css" rel="stylesheet" type="text/css">
 				
 						
 		<!--[if IE 6]>
-  			<link href="http://www.junostatic.com/09000000/styles/ie6.css" rel="stylesheet" type="text/css" />
+  			<link href="http://www.junostatic.com/09020000/styles/ie6.css" rel="stylesheet" type="text/css" />
 		<![endif]-->
 
-		<link rel="SHORTCUT ICON" href="http://www.junostatic.com/09000000/images/favicon.ico">
-						<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" charset="utf-8">
-			var static_server = 'http://www.junostatic.com';
-			var url_secure = 'https://secure.juno.co.uk';
+		<link rel="SHORTCUT ICON" href="http://www.junostatic.com/09020000/images/favicon.ico">
+						<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" charset="utf-8">
+			var static_server = 'http://www.junostatic.com/09020000';
+			var url_secure = 'https://www.juno.co.uk';
 			var url_nonsecure = 'http://www.juno.co.uk';
 			var domain = 'juno.co.uk';
 			//document.domain = domain;
@@ -40,68 +40,18 @@
 			var use_miniplayer = 1;
 			var mp3_url = "http://www.juno.co.uk/MP3/"; 
 			var use_ultraplayer = false;
+			var ua_page = '';
+			var chat_app = false;
 		</script>
-				
-				<script type="text/javascript" src="http://www.junostatic.com/09000000/javascript/javascript-common.js"></script>
-		
+				<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-431128-1','auto');
+ga('send', 'pageview');</script>				<script type="text/javascript" src="http://www.junostatic.com/09020000/javascript/javascript-common.js"></script>
 						
-		<script type="text/javascript">
-			$(document).ready(function(){
-			$.removeCookie('dialog_action', {path: '/', domain: domain});
-			$(".productimage img").lazyload({placeholder : "data:image/gif;base64,R0lGODlhAQABAIAAANvf7wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="});
-			
-			});
-		</script>
-		
-		<script type="text/javascript">
-		/*
-		* keep hrefs for non javascript pages, auto implement redir links to work with thickbox
-		*/
-		$(document).ready(function(){
-			if(junoCompatBrowser()){
-				$('.login-soft').each(function(){
-					$(this).click(function(){
-						return check_login(this, 'soft', true);
-					});
-				})
-				$('.login-strict').each(function(){
-					$(this).click(function(){
-						return check_login(this, 'strict', true);
-					});
-				})					
-			}
-		});
-		
-		var key_words = [];
-				
-		$(document).ready(function(){
-			//generate micro player on information pages
-			$('.dialogGeneratePlayer').each(function(){
-				$(this).click(function(){
-					var url = $(this).attr('link') || $(this).alt;
-					modal_dialog(url, null, {width:500,height:450});
-					return false;
-				});
-			});
-			//hightlight search text -- can be easily modified to hightlight artist, label or all using classes (artist|label|title)_highlight or just highlight if needed
-			if(key_words.length > 0){
-				for(var i in key_words)
-				$('span').highlight(key_words[i]);
-			}
-		});
-		</script>
-
-<script type="text/javascript">
-var _gaq = _gaq || [];
-_gaq.push(
-	['_setAccount','UA-431128-1'],
-	['_setDomainName','.juno.co.uk'],
-	['_addIgnoredRef','juno.co.uk']
-);
-_gaq.push(['_setCustomVar',1,'itemsperpage_initial','50',3]);
-_gaq.push(['_trackPageview']);
-</script>	<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
-
+	<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 	<body id="juno-main">
 							
 		<p id="skipnavigation"><a href="#main" accesskey="2">Skip Navigation</a></p>
@@ -151,76 +101,76 @@ _gaq.push(['_trackPageview']);
 					</div>
 									</td>
 				<td id="headerlinks">
-															<a onclick="_gaq.push(['_trackEvent','Masthead', 'Click', 'Login']);" href="https://secure.juno.co.uk/login/" redir="http%3A%2F%2Fwww.juno.co.uk%2Fhelp%2Fprivacy-policy%2F" title="Login" class="login-soft">Log In/Register</a>
+															<a onclick="ga('send', 'event','Masthead', 'Click', 'Login');" href="https://www.juno.co.uk/login/" redir="http%3A%2F%2Fwww.juno.co.uk%2Fhelp%2Fprivacy-policy%2F" title="Login" class="login-soft">Log In/Register</a>
 										|<div style="display: inline;">
-	<a onclick="_gaq.push(['_trackEvent','Masthead', 'Click', 'MyJuno']);" class="headernav login-soft" onmouseover="drop_down_show('myjuno_dropdown');" onmouseout="drop_down_hide_delay('myjuno_dropdown');" href="https://secure.juno.co.uk/account/" redir="/account/">My Juno</a>
+	<a onclick="ga('send', 'event','Masthead', 'Click', 'MyJuno');" class="headernav login-soft" onmouseover="drop_down_show('myjuno_dropdown');" onmouseout="drop_down_hide_delay('myjuno_dropdown');" href="https://www.juno.co.uk/account/" redir="/account/">My Juno</a>
 	<span class="myjuno_wrapper" id="myjuno_wrapper" onmouseout="drop_down_hide_delay('myjuno_dropdown','');" style="position: absolute; z-index: 80;">
 		<ul style="margin: 12px 0px 0px -55px; display: none; width:174px;" class="myjuno_dropdown" id="myjuno_dropdown" onmouseover="drop_down_show('myjuno_dropdown');">
 							<li onmouseover="javascript:if( $('#submenumy_artists').length > 0 ) { $('#submenumy_artists').show(0); }" onmouseout="javascript:if( $('#submenumy_artists').length > 0 ) { $('#submenumy_artists').hide(0); }">
-					<a onclick="_gaq.push(['_trackEvent','Masthead', 'Click', 'MyJuno - My artists']);" class="login-soft submenu_trigger" href="http://www.juno.co.uk/account/subscriptions/#subs-artist-label" redir="http://www.juno.co.uk/account/subscriptions/#subs-artist-label">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My artists</a>
+					<a onclick="ga('send', 'event','Masthead', 'Click', 'MyJuno - My artists');" class="login-soft submenu_trigger" href="http://www.juno.co.uk/account/subscriptions/#subs-artist-label" redir="http://www.juno.co.uk/account/subscriptions/#subs-artist-label">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My artists</a>
 					    					<ul style="left:0px;margin: 0px 0px 0px -145px; position: absolute;" class="slideout_sub" id="submenumy_artists">
     						    							<li>
-    								<a onclick="_gaq.push(['_trackEvent','Masthead', 'Click', 'MyJuno - My artists']);" class="login-soft" href="http://www.juno.co.uk/account/subscriptions" redir="http://www.juno.co.uk/account/subscriptions">Add/manage artists</a>
+    								<a onclick="ga('send', 'event','Masthead', 'Click', 'MyJuno - My artists');" class="login-soft" href="http://www.juno.co.uk/account/subscriptions" redir="http://www.juno.co.uk/account/subscriptions">Add/manage artists</a>
     							</li>
     						    					</ul>
 									</li>
 							<li onmouseover="javascript:if( $('#submenumy_labels').length > 0 ) { $('#submenumy_labels').show(0); }" onmouseout="javascript:if( $('#submenumy_labels').length > 0 ) { $('#submenumy_labels').hide(0); }">
-					<a onclick="_gaq.push(['_trackEvent','Masthead', 'Click', 'MyJuno - My labels']);" class="login-soft submenu_trigger" href="http://www.juno.co.uk/account/subscriptions/#subs-artist-label" redir="http://www.juno.co.uk/account/subscriptions/#subs-artist-label">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My labels</a>
+					<a onclick="ga('send', 'event','Masthead', 'Click', 'MyJuno - My labels');" class="login-soft submenu_trigger" href="http://www.juno.co.uk/account/subscriptions/#subs-artist-label" redir="http://www.juno.co.uk/account/subscriptions/#subs-artist-label">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My labels</a>
 					    					<ul style="left:0px;margin: 0px 0px 0px -145px; position: absolute;" class="slideout_sub" id="submenumy_labels">
     						    							<li>
-    								<a onclick="_gaq.push(['_trackEvent','Masthead', 'Click', 'MyJuno - My labels']);" class="login-soft" href="http://www.juno.co.uk/account/subscriptions" redir="http://www.juno.co.uk/account/subscriptions">Add/manage labels</a>
+    								<a onclick="ga('send', 'event','Masthead', 'Click', 'MyJuno - My labels');" class="login-soft" href="http://www.juno.co.uk/account/subscriptions" redir="http://www.juno.co.uk/account/subscriptions">Add/manage labels</a>
     							</li>
     						    					</ul>
 									</li>
 							<li onmouseover="javascript:if( $('#submenumy_wishlist').length > 0 ) { $('#submenumy_wishlist').show(0); }" onmouseout="javascript:if( $('#submenumy_wishlist').length > 0 ) { $('#submenumy_wishlist').hide(0); }">
-					<a onclick="_gaq.push(['_trackEvent','Masthead', 'Click', 'MyJuno - My wishlist']);" class="login-soft" href="http://www.juno.co.uk/wishlist/" redir="http://www.juno.co.uk/wishlist/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My wishlist</a>
+					<a onclick="ga('send', 'event','Masthead', 'Click', 'MyJuno - My wishlist');" class="login-soft" href="http://www.juno.co.uk/wishlist/" redir="http://www.juno.co.uk/wishlist/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My wishlist</a>
 									</li>
 							<li onmouseover="javascript:if( $('#submenumy_new_release').length > 0 ) { $('#submenumy_new_release').show(0); }" onmouseout="javascript:if( $('#submenumy_new_release').length > 0 ) { $('#submenumy_new_release').hide(0); }">
-					<a onclick="_gaq.push(['_trackEvent','Masthead', 'Click', 'MyJuno - My new release e-mails']);" class="login-soft" href="http://www.juno.co.uk/account/subscriptions/" redir="http://www.juno.co.uk/account/subscriptions/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My new release e-mails</a>
+					<a onclick="ga('send', 'event','Masthead', 'Click', 'MyJuno - My new release e-mails');" class="login-soft" href="http://www.juno.co.uk/account/subscriptions/" redir="http://www.juno.co.uk/account/subscriptions/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My new release e-mails</a>
 									</li>
 							<li onmouseover="javascript:if( $('#submenumy_comming_soon').length > 0 ) { $('#submenumy_comming_soon').show(0); }" onmouseout="javascript:if( $('#submenumy_comming_soon').length > 0 ) { $('#submenumy_comming_soon').hide(0); }">
-					<a onclick="_gaq.push(['_trackEvent','Masthead', 'Click', 'MyJuno - My coming soon alerts']);" class="login-soft" href="http://www.juno.co.uk/account/subscriptions/#subs-coming-soon" redir="http://www.juno.co.uk/account/subscriptions/#subs-coming-soon">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My coming soon alerts</a>
+					<a onclick="ga('send', 'event','Masthead', 'Click', 'MyJuno - My coming soon alerts');" class="login-soft" href="http://www.juno.co.uk/account/subscriptions/#subs-coming-soon" redir="http://www.juno.co.uk/account/subscriptions/#subs-coming-soon">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My coming soon alerts</a>
 									</li>
 							<li onmouseover="javascript:if( $('#submenumy_back_catalog').length > 0 ) { $('#submenumy_back_catalog').show(0); }" onmouseout="javascript:if( $('#submenumy_back_catalog').length > 0 ) { $('#submenumy_back_catalog').hide(0); }">
-					<a onclick="_gaq.push(['_trackEvent','Masthead', 'Click', 'MyJuno - My back-in-stock alerts']);" class="login-soft" href="http://www.juno.co.uk/account/subscriptions/#subs-bis" redir="http://www.juno.co.uk/account/subscriptions/#subs-bis">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My back-in-stock alerts</a>
+					<a onclick="ga('send', 'event','Masthead', 'Click', 'MyJuno - My back-in-stock alerts');" class="login-soft" href="http://www.juno.co.uk/account/subscriptions/#subs-bis" redir="http://www.juno.co.uk/account/subscriptions/#subs-bis">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My back-in-stock alerts</a>
 									</li>
 							<li onmouseover="javascript:if( $('#submenumy_charts').length > 0 ) { $('#submenumy_charts').show(0); }" onmouseout="javascript:if( $('#submenumy_charts').length > 0 ) { $('#submenumy_charts').hide(0); }">
-					<a onclick="_gaq.push(['_trackEvent','Masthead', 'Click', 'MyJuno - My charts']);" class="login-soft" href="http://www.juno.co.uk/help/my-charts/" redir="http://www.juno.co.uk/help/my-charts/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My charts</a>
+					<a onclick="ga('send', 'event','Masthead', 'Click', 'MyJuno - My charts');" class="login-soft" href="http://www.juno.co.uk/help/my-charts/" redir="http://www.juno.co.uk/help/my-charts/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My charts</a>
 									</li>
 							<li onmouseover="javascript:if( $('#submenumy_juno_player').length > 0 ) { $('#submenumy_juno_player').show(0); }" onmouseout="javascript:if( $('#submenumy_juno_player').length > 0 ) { $('#submenumy_juno_player').hide(0); }">
-					<a onclick="_gaq.push(['_trackEvent','Masthead', 'Click', 'MyJuno - My juno player']);" class="login-soft" href="http://www.juno.co.uk/design-your-juno-player/" redir="http://www.juno.co.uk/design-your-juno-player/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My juno player</a>
+					<a onclick="ga('send', 'event','Masthead', 'Click', 'MyJuno - My juno player');" class="login-soft" href="http://www.juno.co.uk/design-your-juno-player/" redir="http://www.juno.co.uk/design-your-juno-player/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My juno player</a>
 									</li>
 							<li onmouseover="javascript:if( $('#submenumy_account').length > 0 ) { $('#submenumy_account').show(0); }" onmouseout="javascript:if( $('#submenumy_account').length > 0 ) { $('#submenumy_account').hide(0); }">
-					<a onclick="_gaq.push(['_trackEvent','Masthead', 'Click', 'MyJuno - My account']);" class="login-soft submenu_trigger" href="http://www.juno.co.uk/account/" redir="http://www.juno.co.uk/account/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My account</a>
+					<a onclick="ga('send', 'event','Masthead', 'Click', 'MyJuno - My account');" class="login-soft submenu_trigger" href="http://www.juno.co.uk/account/" redir="http://www.juno.co.uk/account/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My account</a>
 					    					<ul style="left:0px;margin: 0px 0px 0px -145px; position: absolute;" class="slideout_sub" id="submenumy_account">
     						    							<li>
-    								<a onclick="_gaq.push(['_trackEvent','Masthead', 'Click', 'MyJuno - My account']);" class="login-soft" href="https://secure.juno.co.uk/account/change-login/" redir="https://secure.juno.co.uk/account/change-login/">Change user name</a>
+    								<a onclick="ga('send', 'event','Masthead', 'Click', 'MyJuno - My account');" class="login-soft" href="https://www.juno.co.uk/account/change-login/" redir="https://www.juno.co.uk/account/change-login/">Change user name</a>
     							</li>
     						    							<li>
-    								<a onclick="_gaq.push(['_trackEvent','Masthead', 'Click', 'MyJuno - My account']);" class="login-soft" href="https://secure.juno.co.uk/account/change-nickname/" redir="https://secure.juno.co.uk/account/change-nickname/">Change nick name</a>
+    								<a onclick="ga('send', 'event','Masthead', 'Click', 'MyJuno - My account');" class="login-soft" href="https://www.juno.co.uk/account/change-nickname/" redir="https://www.juno.co.uk/account/change-nickname/">Change nick name</a>
     							</li>
     						    							<li>
-    								<a onclick="_gaq.push(['_trackEvent','Masthead', 'Click', 'MyJuno - My account']);" class="login-soft" href="https://secure.juno.co.uk/account/change-password/" redir="https://secure.juno.co.uk/account/change-password/">Change password</a>
+    								<a onclick="ga('send', 'event','Masthead', 'Click', 'MyJuno - My account');" class="login-soft" href="https://www.juno.co.uk/account/change-password/" redir="https://www.juno.co.uk/account/change-password/">Change password</a>
     							</li>
     						    							<li>
-    								<a onclick="_gaq.push(['_trackEvent','Masthead', 'Click', 'MyJuno - My account']);" class="login-soft" href="https://secure.juno.co.uk/account/edit-preferences/" redir="https://secure.juno.co.uk/account/edit-preferences/">My preferences</a>
+    								<a onclick="ga('send', 'event','Masthead', 'Click', 'MyJuno - My account');" class="login-soft" href="https://www.juno.co.uk/account/edit-preferences/" redir="https://www.juno.co.uk/account/edit-preferences/">My preferences</a>
     							</li>
     						    							<li>
-    								<a onclick="_gaq.push(['_trackEvent','Masthead', 'Click', 'MyJuno - My account']);" class="login-soft" href="https://secure.juno.co.uk/account/manage/" redir="https://secure.juno.co.uk/account/manage/">My address &amp; card</a>
+    								<a onclick="ga('send', 'event','Masthead', 'Click', 'MyJuno - My account');" class="login-soft" href="https://www.juno.co.uk/account/manage/" redir="https://www.juno.co.uk/account/manage/">My address &amp; card</a>
     							</li>
     						    					</ul>
 									</li>
 							<li onmouseover="javascript:if( $('#submenumy_order_history').length > 0 ) { $('#submenumy_order_history').show(0); }" onmouseout="javascript:if( $('#submenumy_order_history').length > 0 ) { $('#submenumy_order_history').hide(0); }">
-					<a onclick="_gaq.push(['_trackEvent','Masthead', 'Click', 'MyJuno - My order history']);" class="login-soft" href="http://www.juno.co.uk/account/order-history/" redir="http://www.juno.co.uk/account/order-history/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My order history</a>
+					<a onclick="ga('send', 'event','Masthead', 'Click', 'MyJuno - My order history');" class="login-soft" href="http://www.juno.co.uk/account/order-history/" redir="http://www.juno.co.uk/account/order-history/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My order history</a>
 									</li>
 					</ul>
 	</span>
 </div>													 		|
-										<a onclick="_gaq.push(['_trackEvent','Masthead', 'Click', 'Wishlist']);" class="login-soft" href="http://www.juno.co.uk/wishlist/" redir="/wishlist/" rel="nofollow">Wishlist</a> |
-										<a onclick="_gaq.push(['_trackEvent','Masthead', 'Click', 'Gift']);" href="http://www.juno.co.uk/gift/">Gift vouchers</a> |
-										<a onclick="_gaq.push(['_trackEvent','Masthead', 'Click', 'Alerts']);" class="login-soft" redir="/alerts/" href="https://secure.juno.co.uk/login/?redir=alerts" rel="nofollow">Alerts</a> |
-										<a onclick="_gaq.push(['_trackEvent','Masthead', 'Click', 'Help']);" href="http://www.juno.co.uk/help/">Help</a> |
-					<a onclick="_gaq.push(['_trackEvent','Masthead', 'Click', 'Cart']);" href="http://www.juno.co.uk/cart/" rel="nofollow">View Cart</a>
+										<a onclick="ga('send', 'event','Masthead', 'Click', 'Wishlist');" class="login-soft" href="http://www.juno.co.uk/wishlist/" redir="/wishlist/" rel="nofollow">Wishlist</a> |
+										<a onclick="ga('send', 'event','Masthead', 'Click', 'Gift');" href="http://www.juno.co.uk/gift/">Gift vouchers</a> |
+										<a onclick="ga('send', 'event','Masthead', 'Click', 'Alerts');" class="login-soft" redir="/alerts/" href="https://www.juno.co.uk/login/?redir=alerts" rel="nofollow">Alerts</a> |
+										<a onclick="ga('send', 'event','Masthead', 'Click', 'Help');" href="http://www.juno.co.uk/help/">Help</a> |
+					<a onclick="ga('send', 'event','Masthead', 'Click', 'Cart');" href="http://www.juno.co.uk/cart/" rel="nofollow">View Cart</a>
 														</td>
 			</tr>
 		</tbody></table>
@@ -240,21 +190,21 @@ $(document).ready(function(){
 	$("#search-term").submit(function(){var inputValue=$("#query").val();$("#query").val($.trim(inputValue));});
 });
 </script>
-<form action="http://www.juno.co.uk/search/" id="search-term-start" class="masthead-form"><fieldset><input id="query-start" name="q[all][]" class="default-search-text" title="Search Juno..."><label for="search-in-start">&nbsp;&nbsp;In: </label><select id="search-in-start"><option value="q[all][]" selected="true">All</option><option value="q[label][]">Labels</option><option value="q[title][]">Titles</option><option value="q[artist][]">Artists</option><option value="q[sample_packs][]">Sample Packs</option><option value="q[equipment_title][]">Equipment</option></select><input type="submit" name="submit-search" value="SEARCH" class="global_sprite submit-search"></fieldset></form></div>										<div id="header_secure_shopping">
-						<a onclick="_gaq.push(['_trackEvent','Masthead', 'Click', 'Banner - Gifts for producers']);" href="http://www.juno.co.uk/christmas-store/gifts-for-producers/">
-							<img src="http://cms.junostatic.com/cms/837/10280/1_2.jpg" alt="Gifts for producers" width="197" height="44">
+<form action="http://www.juno.co.uk/search/" id="search-term-start" class="masthead-form"><fieldset><input id="query-start" name="q[all][]" class="default-search-text" title="Search Juno..."><label for="search-in-start">&nbsp;&nbsp;In: </label><select id="search-in-start"><option value="q[all][]" selected="true">All</option><option value="q[label][]">Labels</option><option value="q[title][]">Titles</option><option value="q[artist][]">Artists</option><option value="q[sample_packs][]">Sample Packs</option><option value="q[equipment_title][]">Equipment</option></select><input type="submit" value="SEARCH" class="global_sprite submit-search"></fieldset></form></div>										<div id="header_secure_shopping">
+						<a onclick="ga('send', 'event','Masthead', 'Click', 'Banner - The Big Spring CD Sale');" href="http://www.juno.co.uk/sale/">
+							<img src="http://cms.junostatic.com/cms/837/10635/1_4.jpg" alt="The Big Spring CD Sale" width="197" height="44">
 						</a>
 					</div>
 																</div>
 		</div>
 
-	<div id="juno-navigation"><div class="content-wrapper"><ul id="nav"><li id="this_week"><a href="http://www.juno.co.uk/this-week/" class="navigation_sprite main" id="navigation_this_week">this_week</a></li><li id="stop_press"><a href="http://www.juno.co.uk/today/" class="navigation_sprite main" id="navigation_stop_press">stop_press</a></li><li id="eight_weeks"><a href="http://www.juno.co.uk/eight-weeks/" class="navigation_sprite main" id="navigation_eight_weeks">eight_weeks</a></li><li id="charts"><a href="http://www.juno.co.uk/charts/bestsellers/" class="navigation_sprite main" id="navigation_charts">charts</a></li><li id="dj_charts"><a href="http://www.juno.co.uk/top_dj_charts/" class="navigation_sprite main" id="navigation_dj_charts">dj_charts</a></li><li id="juno_recommends"><a href="http://www.juno.co.uk/all/juno-recommends/" class="navigation_sprite main" id="navigation_juno_recommends">juno_recommends</a></li><li id="all_titles"><a href="http://www.juno.co.uk/back-cat/" class="navigation_sprite main" id="navigation_all_titles">all_titles</a></li><li id="christmas-store"><a href="/christmas-store/" class="navigation_sprite main" id="navigation_christmas-store">christmas-store</a></li><li id="dj_equipment"><a href="http://www.juno.co.uk/dj-equipment/" class="navigation_sprite main" id="navigation_dj_equipment">dj_equipment</a></li><li id="studio_equipment"><a href="http://www.juno.co.uk/studio-equipment/" class="navigation_sprite main" id="navigation_studio_equipment">studio_equipment</a></li><li id="plus"><a href="http://www.junoplus.co.uk" class="navigation_sprite main" id="navigation_plus">plus</a></li><li id="faq"><a href="http://www.juno.co.uk/help/" class="navigation_sprite main active" id="navigation_faq">faq</a></li></ul></div></div>
+	<div id="juno-navigation"><div class="content-wrapper"><ul id="nav"><li id="this_week" onmouseout="selectedNav=false;" onmouseover="selectedNav='this_week';"><a href="http://www.juno.co.uk/all/this-week/" class="navigation_sprite main" id="navigation_this_week">this_week</a></li><li id="stop_press" onmouseout="selectedNav=false;" onmouseover="selectedNav='stop_press';"><a href="http://www.juno.co.uk/all/today/" class="navigation_sprite main" id="navigation_stop_press">stop_press</a></li><li id="eight_weeks" onmouseout="selectedNav=false;" onmouseover="selectedNav='eight_weeks';"><a href="http://www.juno.co.uk/all/eight-weeks/" class="navigation_sprite main" id="navigation_eight_weeks">eight_weeks</a></li><li id="charts" onmouseout="selectedNav=false;" onmouseover="selectedNav='charts';"><a href="http://www.juno.co.uk/all/charts/bestsellers/this-week/" class="navigation_sprite main" id="navigation_charts">charts</a></li><li id="dj_charts" onmouseout="selectedNav=false;" onmouseover="selectedNav='dj_charts';"><a href="http://www.juno.co.uk/all/top_dj_charts/" class="navigation_sprite main" id="navigation_dj_charts">dj_charts</a></li><li id="juno_recommends" onmouseout="selectedNav=false;" onmouseover="selectedNav='juno_recommends';"><a href="http://www.juno.co.uk/all/juno-recommends/" class="navigation_sprite main" id="navigation_juno_recommends">juno_recommends</a></li><li id="all_titles" onmouseout="selectedNav=false;" onmouseover="selectedNav='all_titles';"><a href="http://www.juno.co.uk/all/back-cat/" class="navigation_sprite main" id="navigation_all_titles">all_titles</a></li><li id="dj_equipment" onmouseout="selectedNav=false;" onmouseover="selectedNav='dj_equipment';"><a href="http://www.juno.co.uk/dj-equipment/" class="navigation_sprite main" id="navigation_dj_equipment">dj_equipment</a></li><li id="studio_equipment" onmouseout="selectedNav=false;" onmouseover="selectedNav='studio_equipment';"><a href="http://www.juno.co.uk/studio-equipment/" class="navigation_sprite main" id="navigation_studio_equipment">studio_equipment</a></li><li id="plus" onmouseout="selectedNav=false;" onmouseover="selectedNav='plus';"><a href="http://www.junoplus.co.uk" class="navigation_sprite main" id="navigation_plus">plus</a></li><li id="faq" onmouseout="selectedNav=false;" onmouseover="selectedNav='faq';"><a href="http://www.juno.co.uk/help/" class="navigation_sprite main active" id="navigation_faq">faq</a></li></ul></div></div>
 	<script type="text/javascript">
-		var homepage=false;
+		var selectedNav = false;
 		currentoption = "faq";
 	</script>
 	<script type="text/javascript">
-					aSaleImg = [{"alt":"DJ Equipment - Spares","src":"http:\/\/cms.junostatic.com\/cms\/21\/9204\/1_3.jpg","bg":"http:\/\/cms.junostatic.com\/cms\/21\/9205\/1_2.jpg","href":"http:\/\/www.juno.co.uk\/dj-equipment\/turntables-parts\/"},{"href":"http:\/\/www.juno.co.uk\/dj-equipment\/record-bags\/","alt":"DJ Equipment - Record bags","src":"http:\/\/cms.junostatic.com\/cms\/21\/3830\/1_3.jpg","bg":"http:\/\/cms.junostatic.com\/cms\/21\/3838\/1_3.jpg"},{"alt":"New beta search","src":"http:\/\/cms.junostatic.com\/cms\/21\/10036\/1_1.gif","bg":"http:\/\/cms.junostatic.com\/cms\/21\/10037\/1_1.gif","href":"http:\/\/www.juno.co.uk\/betasearch\/"},{"href":"http:\/\/www.juno.co.uk\/dj-equipment\/cartridges\/","alt":"DJ Equipment - Cartridges","src":"http:\/\/cms.junostatic.com\/cms\/21\/3828\/1_3.jpg","bg":"http:\/\/cms.junostatic.com\/cms\/21\/3836\/1_3.jpg"},{"alt":"Equipment for Vinyl DJs","src":"http:\/\/cms.junostatic.com\/cms\/21\/10552\/1_1.jpg","bg":"http:\/\/cms.junostatic.com\/cms\/21\/10553\/1_1.jpg","href":"http:\/\/www.juno.co.uk\/christmas-store\/equipment-for-vinyl-djs\/"},{"href":"http:\/\/www.juno.co.uk\/merchandise\/headphones","alt":"DJ Equipment - Headphones","src":"http:\/\/cms.junostatic.com\/cms\/21\/3823\/1_4.jpg","bg":"http:\/\/cms.junostatic.com\/cms\/21\/3831\/1_3.jpg"},{"alt":"DJ Equipment - Studio monitors","src":"http:\/\/cms.junostatic.com\/cms\/21\/6205\/1_15.jpg","bg":"http:\/\/cms.junostatic.com\/cms\/21\/6206\/1_12.jpg","href":"http:\/\/www.juno.co.uk\/dj-equipment\/studio-monitors\/"},{"alt":"DJ Equipment - Headphone replacement parts","src":"http:\/\/cms.junostatic.com\/cms\/21\/9642\/1_1.jpg","bg":"http:\/\/cms.junostatic.com\/cms\/21\/9643\/1_1.jpg","href":"http:\/\/www.juno.co.uk\/dj-equipment\/headphones-replacement-parts\/"},{"href":"http:\/\/www.juno.co.uk\/merchandise\/dj-mixer\/","alt":"DJ Equipment - Mixers","src":"http:\/\/cms.junostatic.com\/cms\/21\/3825\/1_3.jpg","bg":"http:\/\/cms.junostatic.com\/cms\/21\/3833\/1_3.jpg"},{"alt":"DJ Equipment - Earphones","src":"http:\/\/cms.junostatic.com\/cms\/21\/9646\/1_2.jpg","href":"http:\/\/www.juno.co.uk\/dj-equipment\/earphones\/"},{"alt":"Studio Equipment deals","src":"http:\/\/cms.junostatic.com\/cms\/21\/10043\/1_6.jpg","bg":"http:\/\/cms.junostatic.com\/cms\/21\/10044\/1_2.jpg","href":"http:\/\/www.juno.co.uk\/promotions\/Studio_Equipment_Deals\/"},{"alt":"Best CDs of 2013","src":"http:\/\/cms.junostatic.com\/cms\/21\/10586\/1_1.jpg","href":"http:\/\/www.juno.co.uk\/christmas-store\/best-cds-of-2013\/","bg":"http:\/\/cms.junostatic.com\/cms\/21\/10588\/1_2.jpg"},{"href":"","alt":"DJ Equipment - CD Decks","src":"http:\/\/cms.junostatic.com\/cms\/21\/9640\/1_1.jpg","bg":"http:\/\/cms.junostatic.com\/cms\/21\/9641\/1_1.jpg"},{"alt":"DJ Equipment bundles and deals","src":"http:\/\/cms.junostatic.com\/cms\/21\/9231\/1_2.jpg","bg":"http:\/\/cms.junostatic.com\/cms\/21\/9232\/1_2.jpg","href":"http:\/\/www.juno.co.uk\/promotions\/DJ_Equipment_Deals\/"},{"alt":"Gifts for Producers","src":"http:\/\/cms.junostatic.com\/cms\/21\/10549\/1_1.jpg","bg":"http:\/\/cms.junostatic.com\/cms\/21\/10550\/1_1.jpg","href":"http:\/\/www.juno.co.uk\/christmas-store\/gifts-for-producers\/"},{"alt":"DJ Equipment -  DJ Controllers","src":"http:\/\/cms.junostatic.com\/cms\/21\/3709\/1_3.jpg","bg":"http:\/\/cms.junostatic.com\/cms\/21\/3710\/1_3.jpg","href":"http:\/\/www.juno.co.uk\/merchandise\/dj-midi-controllers\/"},{"alt":"Classic albums on vinyl","src":"http:\/\/cms.junostatic.com\/cms\/21\/10580\/1_1.jpg","bg":"http:\/\/cms.junostatic.com\/cms\/21\/10581\/1_1.jpg","href":"http:\/\/www.juno.co.uk\/christmas-store\/classic-albums-on-vinyl\/"},{"href":"http:\/\/www.juno.co.uk\/christmas-store\/","bg":"http:\/\/cms.junostatic.com\/cms\/21\/10538\/1_1.jpg","alt":"Christmas store","src":"http:\/\/cms.junostatic.com\/cms\/21\/10537\/1_1.jpg"},{"href":"http:\/\/www.juno.co.uk\/dj-equipment\/styluses\/","alt":"DJ Equipment - Styluses","src":"http:\/\/cms.junostatic.com\/cms\/21\/3829\/1_3.jpg","bg":"http:\/\/cms.junostatic.com\/cms\/21\/3837\/1_3.jpg"},{"alt":"Classic dance vinyl","src":"http:\/\/cms.junostatic.com\/cms\/21\/6407\/1_5.jpg","bg":"http:\/\/cms.junostatic.com\/cms\/21\/6408\/1_5.jpg","href":"http:\/\/www.juno.co.uk\/christmas-store\/classic-dance-vinyl\/"},{"alt":"DJ Equipment - Synthesizers","src":"http:\/\/cms.junostatic.com\/cms\/21\/9198\/1_3.jpg","bg":"http:\/\/cms.junostatic.com\/cms\/21\/9199\/1_3.jpg","href":"http:\/\/www.juno.co.uk\/dj-equipment\/synthesizers\/"},{"alt":"Christmas gift voucher","src":"http:\/\/cms.junostatic.com\/cms\/21\/7893\/1_9.jpg","bg":"http:\/\/cms.junostatic.com\/cms\/21\/7894\/1_6.jpg","href":"http:\/\/www.juno.co.uk\/gift\/"},{"alt":"Best dance vinyl of 2013","src":"http:\/\/cms.junostatic.com\/cms\/21\/10583\/1_1.jpg","bg":"http:\/\/cms.junostatic.com\/cms\/21\/10584\/1_1.jpg","href":"http:\/\/www.juno.co.uk\/christmas-store\/top-50-dance-vinyl-2013\/"},{"href":"http:\/\/www.juno.co.uk\/christmas-store\/gifts-for-vinyl-djs\/","alt":"Gifts for Vinyl DJs","src":"http:\/\/cms.junostatic.com\/cms\/21\/10546\/1_3.jpg","bg":"http:\/\/cms.junostatic.com\/cms\/21\/10547\/1_1.jpg"},{"href":"http:\/\/www.junodownload.com\/","alt":"Downloads have moved to Juno Download","src":"http:\/\/cms.junostatic.com\/cms\/21\/10565\/1_1.jpg","bg":"http:\/\/cms.junostatic.com\/cms\/21\/10566\/1_1.jpg"},{"alt":"Studio equipment landing page","src":"http:\/\/cms.junostatic.com\/cms\/21\/9935\/1_3.jpg","bg":"http:\/\/cms.junostatic.com\/cms\/21\/9936\/1_2.jpg","href":"http:\/\/www.juno.co.uk\/studio-equipment\/"},{"href":"http:\/\/www.juno.co.uk\/promotions\/Ableton_Flash_Sale\/","alt":"Ableton price crash","src":"http:\/\/cms.junostatic.com\/cms\/21\/10526\/1_1.jpg","bg":"http:\/\/cms.junostatic.com\/cms\/21\/10527\/1_1.jpg"},{"alt":"Today Only","src":"http:\/\/cms.junostatic.com\/cms\/21\/3614\/1_2.jpg","bg":"http:\/\/cms.junostatic.com\/cms\/21\/3618\/1_2.jpg","href":"http:\/\/www.juno.co.uk\/promotions\/today_only\/"},{"href":"http:\/\/www.juno.co.uk\/christmas-store\/equipment-for-producers\/","alt":"Equipment for Producers","src":"http:\/\/cms.junostatic.com\/cms\/21\/10555\/1_1.jpg","bg":"http:\/\/cms.junostatic.com\/cms\/21\/10556\/1_1.jpg"}];
+					aSaleImg = [{"alt":"DJ Equipment - Spares","src":"http:\/\/cms.junostatic.com\/cms\/21\/9204\/1_4.jpg","bg":"http:\/\/cms.junostatic.com\/cms\/21\/9205\/1_2.jpg","href":"http:\/\/www.juno.co.uk\/dj-equipment\/turntables-parts\/"},{"alt":"Classic dance vinyl","src":"http:\/\/cms.junostatic.com\/cms\/21\/6407\/1_6.jpg","bg":"http:\/\/cms.junostatic.com\/cms\/21\/6408\/1_6.jpg","href":"http:\/\/www.juno.co.uk\/christmas-store\/classic-dance-vinyl\/"},{"alt":"DJ Equipment - Studio monitors","src":"http:\/\/cms.junostatic.com\/cms\/21\/6205\/1_16.jpg","bg":"http:\/\/cms.junostatic.com\/cms\/21\/6206\/1_13.jpg","href":"http:\/\/www.juno.co.uk\/dj-equipment\/studio-monitors\/"},{"href":"http:\/\/www.juno.co.uk\/sale\/","bg":"http:\/\/cms.junostatic.com\/cms\/21\/10805\/1_1.jpg","alt":"The Big Spring CD Sale","src":"http:\/\/cms.junostatic.com\/cms\/21\/10804\/1_2.jpg"},{"href":"http:\/\/www.juno.co.uk\/dj-equipment\/headphones\/","alt":"DJ Equipment - Headphones","src":"http:\/\/cms.junostatic.com\/cms\/21\/3823\/1_5.jpg","bg":"http:\/\/cms.junostatic.com\/cms\/21\/3831\/1_4.jpg"},{"alt":"DJ Equipment - Headphone replacement parts","src":"http:\/\/cms.junostatic.com\/cms\/21\/9642\/1_2.jpg","bg":"http:\/\/cms.junostatic.com\/cms\/21\/9643\/1_2.jpg","href":"http:\/\/www.juno.co.uk\/dj-equipment\/headphones-replacement-parts\/"},{"href":"http:\/\/www.juno.co.uk\/dj-equipment\/styluses\/","alt":"DJ Equipment - Styluses","src":"http:\/\/cms.junostatic.com\/cms\/21\/3829\/1_4.jpg","bg":"http:\/\/cms.junostatic.com\/cms\/21\/3837\/1_4.jpg"},{"href":"http:\/\/www.juno.co.uk\/dj-equipment\/cartridges\/","alt":"DJ Equipment - Cartridges","src":"http:\/\/cms.junostatic.com\/cms\/21\/3828\/1_4.jpg","bg":"http:\/\/cms.junostatic.com\/cms\/21\/3836\/1_4.jpg"},{"alt":"DJ Equipment bundles and deals","src":"http:\/\/cms.junostatic.com\/cms\/21\/9231\/1_2.jpg","bg":"http:\/\/cms.junostatic.com\/cms\/21\/9232\/1_2.jpg","href":"http:\/\/www.juno.co.uk\/promotions\/DJ_Equipment_Deals\/"},{"href":"http:\/\/www.juno.co.uk\/dj-equipment\/dj-turntables\/","alt":"DJ Equipment - DJ Turntables","src":"http:\/\/cms.junostatic.com\/cms\/21\/10843\/1_1.jpg","bg":"http:\/\/cms.junostatic.com\/cms\/21\/10844\/1_1.jpg"},{"href":"http:\/\/www.juno.co.uk\/dj-equipment\/record-bags\/","alt":"DJ Equipment - Record bags","src":"http:\/\/cms.junostatic.com\/cms\/21\/3830\/1_4.jpg","bg":"http:\/\/cms.junostatic.com\/cms\/21\/3838\/1_4.jpg"},{"href":"http:\/\/www.juno.co.uk\/dj-equipment\/dj-mixers\/?order=date_down","alt":"DJ Equipment - Mixers","src":"http:\/\/cms.junostatic.com\/cms\/21\/3825\/1_5.jpg","bg":"http:\/\/cms.junostatic.com\/cms\/21\/3833\/1_4.jpg"},{"alt":"Generic gift voucher","src":"http:\/\/cms.junostatic.com\/cms\/21\/7893\/1_11.jpg","bg":"http:\/\/cms.junostatic.com\/cms\/21\/7894\/1_7.jpg","href":"http:\/\/www.juno.co.uk\/gift\/"},{"alt":"DJ Equipment - Earphones","src":"http:\/\/cms.junostatic.com\/cms\/21\/9646\/1_3.jpg","href":"http:\/\/www.juno.co.uk\/dj-equipment\/earphones\/","bg":"http:\/\/cms.junostatic.com\/cms\/21\/10841\/1_1.jpg"},{"href":"http:\/\/www.juno.co.uk\/all\/back-in-stock\/fourteen-days\/","alt":"Back in stock","src":"http:\/\/cms.junostatic.com\/cms\/21\/10631\/1_1.jpg","bg":"http:\/\/cms.junostatic.com\/cms\/21\/10632\/1_1.jpg"},{"alt":"DJ equipment - Audio and Midi Interfaces","src":"http:\/\/cms.junostatic.com\/cms\/21\/9935\/1_4.jpg","bg":"http:\/\/cms.junostatic.com\/cms\/21\/9936\/1_3.jpg","href":"http:\/\/www.juno.co.uk\/dj-equipment\/midi-interfaces\/"},{"href":"http:\/\/www.juno.co.uk\/dj-equipment\/drum-machines\/","alt":"DJ Equipment - Drum machines","src":"http:\/\/cms.junostatic.com\/cms\/21\/9640\/1_2.jpg","bg":"http:\/\/cms.junostatic.com\/cms\/21\/9641\/1_1.jpg"},{"alt":"10 Best: Drum machines","src":"http:\/\/cms.junostatic.com\/cms\/21\/10722\/1_2.jpg","bg":"http:\/\/cms.junostatic.com\/cms\/21\/10723\/1_2.jpg","href":"http:\/\/www.junodownload.com\/plus\/best-drum-machines\/"},{"alt":"DJ Equipment -  DJ Controllers","src":"http:\/\/cms.junostatic.com\/cms\/21\/3709\/1_4.jpg","bg":"http:\/\/cms.junostatic.com\/cms\/21\/3710\/1_4.jpg","href":"http:\/\/www.juno.co.uk\/dj-equipment\/dj-controllers\/"},{"alt":"Studio Equipment deals","src":"http:\/\/cms.junostatic.com\/cms\/21\/10043\/1_6.jpg","bg":"http:\/\/cms.junostatic.com\/cms\/21\/10044\/1_2.jpg","href":"http:\/\/www.juno.co.uk\/promotions\/Studio_Equipment_Deals\/"},{"alt":"Today Only","src":"http:\/\/cms.junostatic.com\/cms\/21\/3614\/1_2.jpg","bg":"http:\/\/cms.junostatic.com\/cms\/21\/3618\/1_2.jpg","href":"http:\/\/www.juno.co.uk\/promotions\/today_only\/"},{"alt":"DJ Equipment - Synthesizers","src":"http:\/\/cms.junostatic.com\/cms\/21\/9198\/1_4.jpg","bg":"http:\/\/cms.junostatic.com\/cms\/21\/9199\/1_4.jpg","href":"http:\/\/www.juno.co.uk\/dj-equipment\/synthesizers\/"},{"alt":"Classic albums on vinyl","src":"http:\/\/cms.junostatic.com\/cms\/21\/10580\/1_1.jpg","bg":"http:\/\/cms.junostatic.com\/cms\/21\/10581\/1_1.jpg","href":"http:\/\/www.juno.co.uk\/christmas-store\/classic-albums-on-vinyl\/"},{"alt":"Join us on Facebook","src":"http:\/\/cms.junostatic.com\/cms\/21\/10826\/1_1.gif","bg":"http:\/\/cms.junostatic.com\/cms\/21\/10827\/1_1.gif","href":"www.facebook.com\/junorecords"}];
 			</script>
 	<div class="content-wrapper">
 		<div id="sale_img" style="background-color: #f6f6f6;"><a class="sale_img_anchor" onclick="javascript:callGAEvent();" href=""><img class="sale_img_image" src="data:image/gif;base64,R0lGODlhAQABAIAAANvf7wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" alt=""></a></div>
@@ -274,32 +224,40 @@ $(document).ready(function(){
 
 </div> 
 <script>
-show_nmd = function(){
-	var promotionDialogNmd = $('#dialog-nmd');
-	if(promotionDialogNmd.length > 0){
-		promotionDialogNmd.dialog({
+show_yhd = function() {
+	var youHaveDownloadsDialog = $('#dialog-yhd');
+	if (youHaveDownloadsDialog.length > 0) {
+		youHaveDownloadsDialog.dialog({
 			width: 500,
-	        height: 500,
-	        modal: true,
-	        autoOpen: true,
-	        draggable: false,
-	        resizable: false,
-	        show: 'fade',
-	        hide: 'fade',
-	        title: ''
-	    });
-		$('#btn-nmd-continue-shopping').on('click', function () { $('#dialog-nmd').dialog('close'); });
-		$.cookie('nmd', 1, {domain: domain, expires: 90, path: '/'});
-	}
+            height: 200,
+            modal: true,
+            autoOpen: true,
+            draggable: false,
+            resizable: false,
+            show: 'fade',
+            hide: 'fade',
+            title: ''
+        });
+		$('#btn-yhd-no-thanks').on('click', function () { youHaveDownloadsDialog.dialog('close'); });
+		$.ajax({ type: 'GET', url: '/api/1.2/widget/seenPendingDownload' });
+	}	
 }
-$(window).load(function(){
+
+$(document).ready(function() {
 	$.getJSON('/api/1.2/widget/getNavigationJson', function( data ) {
 		$('#nav li').each(function(){
 			if(data[$(this).attr('id')] !== undefined)
 				$(data[$(this).attr('id')]).appendTo($(this));
 			$(this).mouseout(function(){drop_down_hide_delay_nav();}).mouseover(function(){drop_down_show_nav($(this).attr('id'));});
 		});
+		if(selectedNav)do_drop_down_show_nav(selectedNav);
 	});
+});
+
+$(window).load(function(){
+	if(navigator.userAgent.match(/Android/i)) return false;
+	
+	show_yhd();
 	
 	var promotionDialog20ps = $('#dialog-20ps');
 	if ($.cookie('2ps') != 1 && promotionDialog20ps.length > 0) {
@@ -317,10 +275,6 @@ $(window).load(function(){
 		$.cookie('2ps', 1, {domain: domain, expires: 90, path: '/'});
 		$('#btn-20ps-continue-shopping').on('click', function () { $('#dialog-20ps').dialog('close'); });
 	}
-
-	if ($.cookie('nmd') != 1) {
-		show_nmd();
-	}
 });
 </script>
 
@@ -332,18 +286,11 @@ $(window).load(function(){
 			</div>
 		</div>
 					<div id="footer-wrap">
-			<table id="footer" class="content-wrapper"><tbody><tr><td> 919.1 | 16 December - 22 December 2013 | © 1996 - 2013 Juno Records Ltd.</td>
+			<table id="footer" class="content-wrapper"><tbody><tr><td> 945.2 | 16 June - 22 June 2014 | © 1996 - 2014 Juno Records</td>
 			<td style="text-align:right"><a href="http://www.juno.co.uk/help/privacy-policy/">Privacy Policy</a></td> 
 			</tr></tbody></table>
 		</div>
 		</div>
-				<script type="text/javascript">
-(function() {
-	var gatrack = document.createElement('script'); gatrack.type = 'text/javascript'; gatrack.async = true;
-	gatrack.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(gatrack, s);
-})();
-</script>
 <script id="pap_x2s6df8d" async="" src="//affiliate.juno.co.uk/scripts/trackjs.js"></script>
 <script type="text/javascript">
 (function(d,t) {
@@ -377,5 +324,8 @@ if(oldonload){oldonload()}};
 }());
 </script>
 
-									<div id="dialog-nmd" style="display:none;" class="dialog"><img src="http://www.junostatic.com/09000000/images/downloads-have-moved-dialog.jpg" alt="Downloads have moved to Juno Download. Log in at junodownload.com using your Juno Records username and password." style="display: block;"><div class="btm_container"><a class="btn_theme" href="http://www.junodownload.com/" onclick="_gaq.push(['_trackEvent', 'DigitalMove', 'Click to JD']);">Go to Juno Download</a>&nbsp;&nbsp;<input type="button" class="btn_theme" value="Continue shopping" id="btn-nmd-continue-shopping"></div></div>			
+
+
+			<div id="dialog-nmd" style="display:none;" class="dialog"><img src="http://www.junostatic.com/09020000/images/downloads-have-moved-dialog.jpg" alt="Downloads have moved to Juno Download. Log in at junodownload.com using your Juno Records username and password." style="display: block;"><div class="btm_container"><input type="button" class="btn_theme" value="Go to Juno Download" id="btn-nmd-goto">&nbsp;&nbsp;<input type="button" class="btn_theme" value="Continue shopping" id="btn-nmd-continue-shopping"></div></div>		
+
 </body></html>
