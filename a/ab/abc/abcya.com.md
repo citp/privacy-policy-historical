@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abcya.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212122119id_/http%3A//www.abcya.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abcya.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617103348id_/http%3A//www.abcya.com/privacy.htm) for the most accurate reproduction.*
 
 # ABCya! Privacy Policy
 
@@ -25,7 +25,7 @@ Please review this Privacy Policy carefully. In addition, please review our [Ter
 This Privacy Policy explains:
 
   * **_INFORMATION THE SITE COLLECTS_**
-  * **_DISCLOSURE OF CHILDREN'S PERSONAL INFOMRATION TO SERVICE PROVIDERS_**
+  * **_DISCLOSURE OF CHILDREN'S PERSONAL INFORMATION TO SERVICE PROVIDERS_**
   * **_THIRD PARTY ANALYTICS PROVIDERS AND AD SERVERS_**
   * **_THIRD PARTY CONTENT AND LINKS TO OTHER SITES_**
   * _**PARENT'S RIGHTS**_
@@ -73,7 +73,15 @@ ABCya does not disclose Children's Personal Information to third parties, except
 
 ABCya works with network advertisers, ad agencies, third party traffic measurement services and other service providers to serve advertisements on the Site and to provide us with information regarding traffic on the Site, including the pages viewed and the actions users take when visiting the Site and to serve our advertisements on other web sites and elsewhere online. Our service providers may set and access their own tracking technologies on your Device (including _cookies_ and _web beacons_ ) and may collect or have access to your Device Identifier and Usage Information, provided that your Device Identifier and will be used only to support internal operations. We may share Usage Information about visitors with third party advertising companies, analytics providers and other vendors for similar purposes. 
 
-**_LINKS TO OTHER SITES_**
+We currently work with the  following companies for online advertising services, and you can review their privacy policy by clicking on the links below:
+
+[Google Adsense](http://www.google.com/policies/technologies/ads/)  
+[Burst Media](http://www.burstmedia.com/index.php/company/privacy)  
+[VMNTribes](http://www.vmntribes.com/legal/privacy-policy.htm)
+
+We also work with[ Google Analytics](http://www.google.com/intl/en/analytics/privacyoverview.html) to help us better understand how visitors use and navigate our site.
+
+ ** _LINKS TO OTHER SITES_**
 
 The Site may contain links to third party web sites that ABCya.com does not control.  We are not responsible for the privacy or data collection practices of any third party.
 
