@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carphonewarehouse.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212225818id_/http%3A//selfhelp.carphonewarehouse.com/SelfHelp/request.do%3Fview%28%29%3Dc%7B9dca8690-e4b6-11de-e56d-000000000000%7D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carphonewarehouse.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617032554id_/http%3A//selfhelp.carphonewarehouse.com/SelfHelp/request.do%3Fview%28%29%3Dc%7B9dca8690-e4b6-11de-e56d-000000000000%7D) for the most accurate reproduction.*
 
 # How we use your personal information - Carphone Warehouse Help and Support
 
