@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gtspirit.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228111459id_/http%3A//www.gtspirit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gtspirit.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617053436id_/http%3A//www.gtspirit.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - GTSPIRIT.COM
+# Privacy Policy - GTspirit
 
 Welcome to the GTspirit.com Privacy Policy page. On this page you will find the full privacy and policy information.
 
