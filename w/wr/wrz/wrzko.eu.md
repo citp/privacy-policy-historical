@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wrzko.eu privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430040543id_/http%3A//www.wrzko.eu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrzko.eu privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617073716id_/http%3A//www.wrzko.eu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - wrzKO - Putlocker, Uploaded and Netload Links
 
