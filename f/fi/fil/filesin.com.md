@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filesin.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213062000id_/http%3A//www.filesin.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filesin.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617053732id_/http%3A//www.filesin.com/privacy_policy.html) for the most accurate reproduction.*
 
 # FilesIn.com | Upload your files fast,easy and free
 
