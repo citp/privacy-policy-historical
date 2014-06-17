@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trails-end.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212035954id_/http%3A//www.trails-end.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trails-end.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617113646id_/http%3A//www.trails-end.com/info/privacy) for the most accurate reproduction.*
 
 # Trail's End Popcorn: Help > Privacy, Security & Accessibility
 
@@ -44,7 +44,7 @@ Intermediaries. We may disclose users' personal information to third party inter
 
 Service Providers. We partner with other third parties to provide specific services. When the user signs up for these particular services, we may share names or other contact information that is necessary for the third party to provide these services. These third parties are not allowed to use personally identifiable information except for the purpose of providing these services.
 
-Business Partners. The system on this website exists to support the councils in its popcorn sales program. Information provided to Trail's End will be made available to the councils as needed to run their programs. This includes personally identifiable information, addresses, phone numbers, email, and previous orders. The councils may provide this information to their districts and units for the purposes of annual selling or any other purpose. However, the information provided to the councils does not include any personal financial or credit card information.
+Business Partners. The system on this website exists to support the councils in its popcorn sales program. Information provided to Trail's End will be made available to the councils as needed to run their programs. This includes personally identifiable information, addresses, phone numbers, email, and previous orders. The councils may provide this information to their districts and units for the purposes of annual selling or any other purpose. However, the information provided to the councils does not include any credit card information.
 
 ### _Profile_
 
@@ -113,3 +113,5 @@ If we decide to change our privacy policy, we will post those changes to this pr
 If users have any questions or suggestions regarding our privacy policy, please contact us at:  
 [support@trails-end.com](mailto:support@trails-end.com)  
 [http://www.trails-end.com](http://www.trails-end.com/)
+
+Last Updated March 19, 2014 
