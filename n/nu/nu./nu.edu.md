@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nu.edu privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229110522id_/http%3A//www.nu.edu/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nu.edu privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617163335id_/http%3A//www.nu.edu/Privacy.html) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy for National University | National University
 
 **NOTICE OF NONDISCRIMINATORY POLICY AS TO STUDENTS**  
 admits students of any race, color, national and ethnic origin to all the rights, privileges, programs, and activities generally accorded or made available to students at the school. It does not discriminate on the basis of race, color, national and ethnic origin in administration of its educational policies, admissions policies, scholarship and loan programs, and other school-administered programs.
