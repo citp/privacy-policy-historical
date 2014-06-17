@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bedandbreakfast.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206222329id_/http%3A//www.bedandbreakfast.com/privacystatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bedandbreakfast.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617092159id_/http%3A//www.bedandbreakfast.com/privacystatement.aspx) for the most accurate reproduction.*
 
 # PrivacyStatement.cshtml
 
