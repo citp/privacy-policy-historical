@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the anygator.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216053421id_/http%3A//us.anygator.com/info%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anygator.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617065021id_/http%3A//us.anygator.com/info%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy - Anygator.com - Bite the net
 
 ### Registration
 
 You can use Anygator without registering. If you want Anygator to remember your settings permanently or if you want to access your personal page from more than one PC you need to register with your email address and a password. In addition this will also protect your account from unauthorized access. When you register we'll send you a welcome email.  
-We may send you service announcements and advertising messages from YOUniversal Media or third parties.  
+We may send you service announcements and advertising messages from Ad Performer Ltd or third parties.  
 You can unsubscribe from these announcements and advertising messages at any time by sending an email to [unsubscribe@anygator.com](mailto:unsubscribe@anygator.com)
 
 ### Policy Privacy
 
-Anygator.com is operated by YOUniversal Media s.r.l. ("YOUniversal").
+Anygator.com is operated by Ad Performer Ltd ("Ad Performer").
 
-At YOUniversal, we respect the privacy of our users and the importance of the information they entrust to us. We summarize below the basic information policies and practices in place on the Anygator.com website.
+At Ad Performer, we respect the privacy of our users and the importance of the information they entrust to us. We summarize below the basic information policies and practices in place on the Anygator.com website.
 
 ### Information we may collect
 
@@ -59,7 +59,7 @@ We may use information to:
 We will not share your personal information with others except as indicated below, or except when we inform you in advance and give you the opportunity to opt out. We may share personal information with:
 
   * Service providers, such as credit-card payment processors, performing services on our behalf;
-  * Other YOUniversal businesses;
+  * Other Ad Performer businesses;
   * Other businesses with which we partner or which we carefully select to offer you products, services, and promotions through our Anygator website; and
   * Other third parties in limited circumstances, such as complying with legal requirements, preventing fraud, and protecting the safety of our users.
 
