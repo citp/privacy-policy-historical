@@ -1,32 +1,1175 @@
-<!--The following is the downloaded HTML source of the lamaloli.com privacy policy that was archived on 2012-11-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121126215048id_/http%3A//lamaloli.com/en/privacy_notice) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lamaloli.com privacy policy that was archived on 2014-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140617154942id_/http%3A//lamaloli.com/en/privacy_notice) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="https://www.w3.org/1999/xhtml"><head>
-        <meta name="title" content="LamaLoLi - Kid's fashion online store Hello Kitty, Spiderman, Skylander, Disney and many more">
-<meta name="keywords" content="">
-<meta name="description" content="">
+<!DOCTYPE html><html><head>
+
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="google-site-verification" content="qQuDADAOIRr9fYp2tbhpcnduB0nrLKDNVV8n-dPPp3c">
+        <meta name="alexaVerifyID" content="JPZnhYDLQLZsx7oDdfC1o93K2ck">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MRMG36"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" async="" src="https://pixels.mentad.com/mentad-visit-notification.js"></script><script type="text/javascript" src="https://fast.fonts.net/jsapi/9720fa3c-c299-4a7f-84c7-5bf3d1eb574f.js"></script>
+<script>
+////GIGYA ////////////////////////////////////////////////////////
+// onLogin Event handler
+
+var gigyaLogin="";
+
+function printResponse(response) { 
+
+    /*if ( response.errorCode == 0 ) {             
+        var authToken = response['authToken'];
+        var IV = response['IV'];
+        var sessionExpiration = response['sessionExpiration'];
         
-        <title>LamaLoLi - Kid's fashion online store Hello Kitty, Spiderman, Skylander, Disney and many more</title>
-        <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+        var sessionHandle = response['sessionHandle'];
+        var tokenExpiration = response['tokenExpiration'];
+        var tokenSecret = response['tokenSecret'];
+        
+        var msg = 'authToken : ' +authToken + '\n';
+        msg+= 'IV : ' +IV + '\n';            
+        msg+= 'sessionExpiration : ' +sessionExpiration + '\n';          
+        msg+= 'sessionHandle : ' +sessionHandle + '\n';  
+        msg+= 'tokenExpiration : ' +tokenExpiration + '\n';  
+        msg+= 'tokenSecret : ' +tokenSecret + '\n';  
+        
+        alert(msg);
+    }
+    else {
+        alert('Error :' + response.errorMessage);
+    }*/
+}
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-3394188-1']);
-  _gaq.push(['_setDomainName', '.lamaloli.com']);
-  _gaq.push(['_trackPageview']);
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+
+
+
+
+ 
+ // This method is activated when the page is loaded
+        function onLoad() {
+            // register for login event
+           /* gigya.socialize.addEventHandlers({
+					context: { str: 'congrats on your' }
+				, onLogin: onLoginHandler 
+					, onLogout: onLogoutHandler
+					});*/
+		 
+		if(gigyaLogin=="true")
+		{
+		
+		var providerName="" ;
+		var paramsSession = {
+							provider: providerName,
+							callback:printResponse1
+						};
+		gigya.socialize.getSessionInfo(paramsSession);
+		onLoginHandler();
+		}
+
+        }
+					
+					
+		function printResponse1(response) {
+		/*if ( response.errorCode == 0 ) {             
+        var authToken = response['authToken'];
+        var IV = response['IV'];
+        var sessionExpiration = response['sessionExpiration'];
+        
+        var sessionHandle = response['sessionHandle'];
+        var tokenExpiration = response['tokenExpiration'];
+        var tokenSecret = response['tokenSecret'];
+        
+        var msg = 'authToken : ' +authToken + '\n';
+        msg+= 'IV : ' +IV + '\n';            
+        msg+= 'sessionExpiration : ' +sessionExpiration + '\n';          
+        msg+= 'sessionHandle : ' +sessionHandle + '\n';  
+        msg+= 'tokenExpiration : ' +tokenExpiration + '\n';  
+        msg+= 'tokenSecret : ' +tokenSecret + '\n';  
+        
+        alert(msg);
+    }
+    else {
+        alert('Error :' + response.errorMessage);
+    }*/
+		}
+        function onLoginHandler(eventObj) {	
+	
+			
+			if(gigyaLogin=="true")
+			{
+			
+				//alert("gigyaLogin==true");
+           /* alert(eventObj.context.str + ' ' + eventObj.eventName + ' to ' + eventObj.provider 
+				+ '!\n' + eventObj.provider + ' user ID: ' +  eventObj.user.identities[eventObj.provider].providerUID);*/
+				
+				
+			
+			
+            // verify the signature ...
+			 
+			
+            verifyTheSignature("", "", "");
+
+            // Check whether the user is new by searching if eventObj.UID exists in your database
+           // var newUser = true; // lets assume the user is new
+            
+            //if (newUser) {
+                // 1. Register user 
+                // 2. Store new user in DB
+                // 3. link site account to social network identity
+                //   3.1 first construct the linkAccounts parameters
+                var dateStr = Math.round(new Date().getTime()/1000.0); // Current time in Unix format
+																	//(i.e. the number of seconds since Jan. 1st 1970)
+				
+                var siteUID = "";//'uTtCGqDTEtcZMGL08w'; // siteUID should be taken from the new user record
+                                                   // you have stored in your DB in the previous step
+                var yourSig = createSignature(siteUID, dateStr);
+
+                var paramsRegister = {
+                    siteUID: siteUID, 
+                    timestamp:dateStr,
+					cid:'',
+                    signature:yourSig 
+                };
+                
+				var paramsLogin = {
+                    siteUID:siteUID,
+					timestamp:dateStr,
+					UIDSig:yourSig,
+					
+					callback:printResponse
+                };
+                //   3.1 call linkAccounts method:
+				registerGigya="";
+				if(registerGigya=="true")
+				{
+			//	alert(paramsRegister);
+					gigya.socialize.notifyRegistration(paramsRegister);
+				}
+				else
+				{
+				//alert(paramsLogin);
+					gigya.socialize.notifyLogin(paramsLogin);
+				}
+				
+				            }
+			
+			
+
+        }
+
+        // Note: the actual signature calculation implementation should be on server side
+        function createSignature(UID, timestamp) {
+			encodedUID = encodeURIComponent(UID+ timestamp); // encode the UID parameter before sending it to the server.
+												// On server side use decodeURIComponent() function to decode an encoded UID
+            return encodedUID;
+        }
+		
+        // Note: the actual signature calculation implementation should be on server side
+        function verifyTheSignature(UID, timestamp, signature) {
+			encodedUID = encodeURIComponent(UID+timestamp); // encode the UID parameter before sending it to the server.
+												// On server side use decodeURIComponent() function to decode an encoded UID
+       //    alert('Your UID: ' + UID + '\n timestamp: ' + timestamp + '\n signature: ' + signature + '\n Your UID encoded: ' + encodedUID);
+        }
+        
+        // Logout from Gigya platform. This method is activated when "Logout" button is clicked 
+		function logoutFromGS() {
+									 
+									if(gigyaLogin=="true")
+									{
+										gigya.services.socialize.logout({callback:onLogoutHandler}); // logout from Gigya platform
+									}
+		}
+		 
+		function onLogoutHandler(response) {
+			 
+			if ( response.errorCode == 0 ) {                
+				//	alert('User has logged out'); 
+				} 
+			else { 
+				//	alert('Error :' + response.errorMessage); 
+				} 
+
+		}
+		
+
+
+				
+ 
+
+
+function showRatingProductGigyaResult(response)
+{
+	var objStars=document.getElementById(response.sourceContainerID).childNodes[0].childNodes[0].childNodes[1];
+	var objRating=document.getElementById(response.sourceContainerID).childNodes[0].childNodes[0].childNodes[0];
+	if(objStars.attributes['title'].value==0 ||objStars.attributes[0].value==0)
+	{ 
+	objRating.style['visibility']='hidden';
+	objStars.style['visibility']='hidden';
+	}
+
+	
+}
+function showRatingGigyaResult(response){ 
+
+/*<style>
+.gig-rating-averageRating{visibility:hidden;}
+.gig-rating-stars{float:left;}
+</style>*/
+
+
+var objStars=document.getElementById(response.sourceContainerID).childNodes[0].childNodes[0].childNodes[1];
+var objRating=document.getElementById(response.sourceContainerID).childNodes[0].childNodes[0].childNodes[0];
+//objRating.remove();
+objStars.style['float']='left';
+$(".gig-rating-averageRating").remove();
+if(objStars.attributes['title'].value==0 ||objStars.attributes[0].value==0)
+{ 
+objStars.style['visibility']='hidden';
+}
+
+
+};
+////////////////////////////////GIGYA END/////////////////////////////////////////
+</script>
+<script type="text/javascript" src="http://cdn.gigya.com/JS/socialize.js?apikey=3_BMbj6G0zN-HFNMbnFUS5h6ZHWXkGvBjtCBwOcUThYtUDm1Bteivk1X-DhzEY-UoF&amp;lang=en">
+{
+autoLogin: true,
+ connectWithoutLoginBehavior: "alwaysLogin",
+enabledProviders: "facebook,googleplus,yahoo,paypal"
+}
+
 
 </script>
-<!-- Google Code for Retargeting - France // 1 -->
+
+
+	<meta name="keywords" content="">
+<meta name="description" content="">
+	
+	<title>LamaLoLi - Kid's fashion online store Hello Kitty, Spiderman, Skylander, Disney and many more</title>
+	<style type="text/css">
+		iframe {
+			display:none;
+		}
+
+		span iframe {
+			display:block;
+		}
+		.sizeleft{
+			width: 160px !important;
+		}
+				div.wrapper nav li:hover .drop{ display: none;}
+			</style>
+        <script type="text/javascript">
+  var _gaq = _gaq || [];
+</script>
+
+<!-- MentAd Code for Visit Pixel -->
+<script type="text/javascript">
+   
+    (function(){
+        var js = document.createElement('script'); js.type = "text/javascript"; js.async = true;
+        js.src = document.location.protocol + "//pixels.mentad.com/mentad-visit-notification.js";
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(js, s);
+    })();
+</script>
+<!-- CS Bar -->
+<!--<script type="text/javascript">
+(function(){var script = document.createElement("script");
+script.type = "text/javascript";
+script.async = true;
+script.src = ((document.location.protocol == "https:") ? "https://" : "http://") + "app.cdn-cs.com/b/Bi5Ioa/kOCeQD/l/cs_all.js";
+document.getElementsByTagName("head")[0].appendChild(script);})();
+</script>-->
+<!-- end CS -->
+<!-- Facebok Web Remarketing Pixel -->
+<script>
+   
+(function(){
+  window._fbds = window._fbds || {};
+  _fbds.pixelId = '';
+  var fbds = document.createElement('script');
+  fbds.async = true;
+  fbds.src = '//connect.facebook.net/en_US/fbds.js';
+  var s = document.getElementsByTagName('script')[0];
+  s.parentNode.insertBefore(fbds, s);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(["track", "PixelInitialized", {}]);
+</script>
+<noscript><img height="1" width="1" border="0" alt="" style="display:none" src="https://www.facebook.com/tr?id=&amp;ev=NoScript" /></noscript>
+<!---------------end FB remarketing ---->
+                        
+<link rel="canonical" href="http://lamaloli.com/en/privacy_notice/?">        
+<link rel="alternate" hreflang="en-gb" href="http://lamaloli.com/uk/privacy_notice/?">
+<link rel="alternate" hreflang="en-us" href="http://lamaloli.com/en/privacy_notice/?">
+                                <!--<META HTTP-EQUIV="PRAGMA" CONTENT="NO-CACHE">-->
+
+	<!--<link rel="stylesheet" type="text/css" href="/v3/css/styles.css" media="all" />-->
+	<link rel="stylesheet" type="text/css" href="/v3/css/indicator.css" media="all">
+	
+	<!-- locale css changes -->
+	<link rel="stylesheet" type="text/css" href="/v3/css/locales/en.css">
+	
+	<!--[if lt IE 9]>
+		<link rel="stylesheet" media="all" type="text/css" href="/v3/css/ie.css" />
+		<script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+	<script type="text/javascript" src="/v3/js/jquery-1.8.2.js"></script>
+	<script type="text/javascript" src="/v3/js/clear-inputs.js"></script>
+	<script type="text/javascript" src="/v3/js/main.js"></script>
+	<link rel="Shortcut Icon" href="https://lamaloli.com/favicon.ico" type="Image/x-icon">
+	<!--<script language="Javascript" type="text/javascript" src="/js/emstrack.js"></script>-->
+
+<script type="text/javascript" src="/js/ajax_indicator.js"></script>
+<script type="text/javascript" src="/js/jquery.bxslider.min.js"></script>
+<link rel="stylesheet" type="text/css" media="screen" href="/css/v3/css/b2c_styles.2.css">
+</head>
+
+<body onload="onLoad()">
+
+<script>
+	var dataLayer = [{}];
+   	
+	</script>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MRMG36"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MRMG36');</script>
+<!-- End Google Tag Manager -->
+
+    
+
+ 
+
+
+<div id="newsletter_login_container" style="top:0; left:0; width:100%;height:100%;position:fixed;z-index:100;
+background-color: rgba(0,0,0,0.5);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000,endColorstr=#99000000);display:none;">
+        </div>
+
+
+<div class="wrapper-inner">
+		<div class="wrapper">
+			<header>
+           				<span class="logo"><a href="/en/">LamaLoLi - Kid's fashion online store Hello Kitty, Spiderman, Skylander, Disney and many more</a></span>
+								
+
+				<div class="cell" id="top-cell">
+
+					<ul class="top-menu" style="padding: 0px 0px 0 3px;">
+											
+						<li>
+						 
+						 
+						
+						 
+						
+												 
+						
+					 
+						</li>
+												<li>
+                               
+							                               <span class="guest">Guest</span>
+                                						</li>
+		
+
+
+						<li>
+															<a onclick="document.getElementById('fastSignIn').style.display='block';logoutFromGS();" style="cursor:pointer">
+															Sign In							</a>
+						</li>
+						
+						<style type="text/css">
+							a.lang-fr img {
+								margin-top: 2px !important;
+							}
+							a.lang-de img {
+								margin-top: 3px !important;
+							}
+						</style>
+						<li class="lang">
+	<a href="#" class="flag en lang-en"><span class="flag"></span>International</a>
+	<ul>
+				
+			<li> 
+				<a href="http://lamaloli.com/de/privacy_notice/?" class="flag de" onclick="reset_cookie()">
+					<span class="flag"></span>
+					Deutsch				</a>
+			</li>
+
+					
+			<li> 
+				<a href="http://lamaloli.com/fr/privacy_notice/?" class="flag fr" onclick="reset_cookie()">
+					<span class="flag"></span>
+					Français				</a>
+			</li>
+
+					
+			<li> 
+				<a href="http://lamaloli.com/uk/privacy_notice/?" class="flag uk" onclick="reset_cookie()">
+					<span class="flag"></span>
+					UK				</a>
+			</li>
+
+					
+			<li> 
+				<a href="http://lamaloli.com/ru/privacy_notice/?" class="flag ru" onclick="reset_cookie()">
+					<span class="flag"></span>
+					Pусский				</a>
+			</li>
+
+			</ul>
+
+</li>
+					</ul>
+					<form method="get" class="search-form" action="/en/products/">						<fieldset>
+							<input type="text" name="q" value="Search" class="text">
+							<input type="submit" value="Search" class="submit">
+						</fieldset>
+					</form><!-- search-form -->
+        					<p class="items">
+						<a href="/en/checkout/viewCart/">
+								
+								<strong>0</strong> item(s) in my cart													</a>
+					</p>
+				</div><!-- cell -->
+			</header>
+                        <span id="indicator" class="indicator" style="display: none;"><img src="http://cdn.lamaloli.com/images/wait.gif" alt="Wait"></span>
+                        <span id="ajax_span">
+                        		<div id="main">
+			<section class="content">
+				<div class="title"><h2>Privacy notice</h2>
+					<ul class="breadcrumbs">
+						
+
+         <li><a href="http://lamaloli.com/en/">Home</a></li>  
+            <li>Privacy notice</li>
+  					</ul>
+				</div>
+				<p>&nbsp;</p>
+				<div class="about">	
+
+
+
+
+<p>&nbsp;</p>
+<div style="line-height: 150%; text-indent: -18pt; margin: 0cm 0cm 6pt 18pt;"><span style="font-family: Verdana;"><strong><span style="line-height: 150%; font-size: 10pt;">1.<span style="font: 7pt 'Times New Roman';">&nbsp;&nbsp;&nbsp; </span></span></strong><strong><span style="line-height: 150%; font-size: 10pt;">Purpose for Information Collection and Usage</span></strong></span></div>
+<div style="line-height: 150%; margin: auto auto 6pt;"><span style="font-family: Verdana;"><span style="line-height: 150%; font-size: 10pt;">Protection of you data is important.</span><span style="line-height: 150%; font-size: 10pt;">Thus, we strictly abide to the legal regulations of the Federal Data Protection Act (Bundesdatenschutzgesetz) and the Tele Media Act (Telemediengesetz) when collecting, processing and using your personal data.</span><span style="line-height: 150%; font-size: 10pt;">In general, you can visit our Website, without leaving any personal data behind.</span><span style="line-height: 150%; font-size: 10pt;">But in some cases we require your information:</span></span></div>
+<ul style="margin-top: 0cm;" type="disc">
+<li><span style="font-size: 10pt;"><span style="font-family: Verdana;">for a seamless order and delivery process,</span></span></li>
+<li><span style="font-size: 10pt;"><span style="font-family: Verdana;">when contacting us, </span></span></li>
+<li><span style="font-size: 10pt;"><span style="font-family: Verdana;">when you use your costumer account,</span></span></li>
+<li><span style="font-size: 10pt;"><span style="font-family: Verdana;">for competitions,</span></span></li>
+<li><span style="font-size: 10pt;"><span style="font-family: Verdana;">for signing up for the newsletter.</span></span></li>
+</ul>
+<div style="line-height: 150%; margin: auto auto 6pt;"><span style="font-family: Verdana;">&nbsp;</span></div>
+<div style="line-height: 150%; margin: auto auto 6pt;"><span style="line-height: 150%; font-size: 10pt;"><span style="font-family: Verdana;">In detail, we use your personal data to process orders, to deliver the goods, to check creditworthiness, to process payment, and to be able to inform you about orders, products, services and special offers.</span></span></div>
+<div style="line-height: 150%; margin: auto auto 6pt;"><span style="font-family: Verdana;"><span style="line-height: 150%; font-size: 10pt;">In order to process orders, we store your data and, if necessary, forward them for this purpose to other companies, e.g. our suppliers, who will deliver the goods to you.</span><span style="line-height: 150%; font-size: 10pt;">The recipient of these forwarded data may use them only to fulfill his task.</span><span style="line-height: 150%; font-size: 10pt;">Any other data usage is not permitted.</span></span></div>
+<div style="line-height: 150%; margin: auto auto 6pt;"><span style="line-height: 150%; font-size: 10pt;"><span style="font-family: Verdana;">In order to check creditworthiness during our business relationship, we might send address and credit data to SCHUFA 65203 Wiesbaden or other Business Information Services.</span></span></div>
+<div style="line-height: 150%; margin: auto auto 6pt;"><span style="font-family: Verdana;"><span style="line-height: 150%; font-size: 10pt;">Furthermore, address and order data is collected and processed for our own marketing purposes.</span><span style="line-height: 150%; font-size: 10pt;">Third party marketing entities will only receive data permitted by law (publicized specific and summarized data lists according to § 28 Abs. 3 Nr. 3 Federal Data Protection Act (Bundesdatenschutzgesetz) or with your explicit permission.</span></span></div>
+<div style="line-height: 150%; margin: auto auto 6pt;"><span style="font-family: Verdana;"><span style="line-height: 150%; font-size: 10pt;">Naturally, you may retract your permission for using, processing and forwarding data for marketing purposes at any time by sending us such notice.</span><span style="line-height: 150%; font-size: 10pt;"> You may do so by send a message by mail LamaLoLi GmbH or via E-mail to <a href="mailto:support@lamaloli.co.uk">support@lamaloli.com</a>.<br></span></span></div>
+<div style="line-height: 150%; margin: auto auto 6pt;"><span style="font-family: Verdana;">&nbsp;</span></div>
+<div style="line-height: 150%; margin: auto auto 6pt;"><strong><span style="font-family: Verdana;">&nbsp;</span></strong></div>
+<div style="line-height: 150%; text-indent: -18pt; margin: 0cm 0cm 6pt 18pt;"><span style="font-family: Verdana;"><strong><span style="line-height: 150%; font-size: 10pt;">2.<span style="font: 7pt 'Times New Roman';">&nbsp;&nbsp;&nbsp; </span></span></strong><strong><span style="line-height: 150%; font-size: 10pt;">SSL (Secure Socket Layer)</span></strong></span></div>
+<div style="line-height: 150%; margin: auto auto 6pt;"><span style="font-family: Verdana;"><span style="line-height: 150%; font-size: 10pt;">In order to protect you personal data from unauthorized third party access, it is protected by SSL (Secure Socket Layer), which is used as standard, when sensitive data is transmitted.</span><span style="line-height: 150%; font-size: 10pt;">Thus, we might ask you to provide a proof of identity, before you will be able to view your personal information.</span><span style="line-height: 150%; font-size: 10pt;">The access to your customer account is protected by entering your password.</span></span></div>
+<div style="line-height: 150%; margin: auto auto 6pt;"><span style="font-family: Verdana;"><span style="line-height: 150%; font-size: 10pt;">By using the SSL technology, before transmission to the server, your data is encrypted in such manner that third parties are not able to read them.</span><span style="line-height: 150%; font-size: 10pt;">Furthermore, during this encryption process it is made sure that your data is only sent to the server that has request them from you.</span><span style="line-height: 150%; font-size: 10pt;">As soon as your data arrives on our server, they are validated for completeness and that they were not altered.</span></span></div>
+<div style="line-height: 150%; margin: auto auto 6pt;"><span style="line-height: 150%; font-size: 10pt;"><span style="font-family: Verdana;">If you use the Internet Explorer as your browser, you will detect encrypted data transmission by the yellow lock symbol in the bottom browser bar.</span></span></div>
+<div style="line-height: 150%; margin: auto auto 6pt;"><span style="font-family: Verdana;">&nbsp;</span></div>
+<div style="line-height: 150%; text-indent: -18pt; margin: 0cm 0cm 6pt 18pt;"><span style="font-family: Verdana;"><strong><span style="line-height: 150%; font-size: 10pt;">3.<span style="font: 7pt 'Times New Roman';">&nbsp;&nbsp;&nbsp; </span></span></strong><strong><span style="line-height: 150%; font-size: 10pt;">Cookies</span></strong></span></div>
+<div style="line-height: 150%; margin: auto auto 6pt;"><span style="font-family: Verdana;"><span style="line-height: 150%; font-size: 10pt;">Cookies are alphanumerical identifiers which are saved on the user’s computer when visiting an Internet website.</span><span style="line-height: 150%; color: black; font-size: 10pt;">Cookies cannot transfer viruses, cannot read hard drive data, forward your e-mail address and forward e-mails undetected or cannot not be read by other web servers</span><span style="line-height: 150%; font-size: 10pt;">.</span></span></div>
+<div style="line-height: 150%; margin: auto auto 6pt;"><span style="font-family: Verdana;"><span style="line-height: 150%; font-size: 10pt;">We use Cookies which enable us to make your purchase as comfortable as possible while our System detects your browser and providing you with personalized service.</span><span style="line-height: 150%; font-size: 10pt;">No personal data is saved in our Cookies, but the following data:</span></span></div>
+<div style="line-height: 150%; margin: auto auto auto 45.35pt;"><span style="line-height: 150%; color: black; font-size: 10pt;"><span style="font-family: Verdana;">The name of our website</span></span></div>
+<div style="line-height: 150%; margin: auto auto auto 45.35pt;"><span style="line-height: 150%; color: black; font-size: 10pt;"><span style="font-family: Verdana;">The date of each of your visits</span></span></div>
+<div style="line-height: 150%; margin: auto auto auto 45.35pt;"><span style="line-height: 150%; color: black; font-size: 10pt;"><span style="font-family: Verdana;">Marketing information</span></span></div>
+<div style="line-height: 150%; margin: auto auto auto 45.35pt;"><span style="line-height: 150%; color: black; font-size: 10pt;"><span style="font-family: Verdana;">Other technical data</span></span></div>
+<div style="line-height: 150%; margin: auto auto auto 45.35pt;"><span style="line-height: 150%; color: black; font-size: 10pt;"><span style="font-family: Verdana;">A string that cannot be connected to you</span></span></div>
+<div style="line-height: 150%; margin: auto auto auto 45.35pt;"><span style="line-height: 150%; color: black; font-size: 10pt;"><span style="font-family: Verdana;">The first creation date of the Cookie<br></span></span><span style="font-family: Verdana;">&nbsp;</span></div>
+<div style="line-height: 150%; text-indent: -18pt; margin: 0cm 0cm 6pt 18pt;"><span style="font-family: Verdana;"><strong><span style="line-height: 150%; font-size: 10pt;">4.<span style="font: 7pt 'Times New Roman';">&nbsp;&nbsp;&nbsp; </span></span></strong><strong><span style="line-height: 150%; font-size: 10pt;">Content liability</span></strong></span></div>
+<div style="line-height: 150%; margin: auto auto 6pt;"><span style="font-family: Verdana;"><span style="line-height: 150%; font-size: 10pt;">The content of our pages is created with utmost care.</span><span style="line-height: 150%; font-size: 10pt;">But we do not assume responsibility for the correctness, completeness and timeliness of the content.</span></span></div>
+<div style="line-height: 150%; margin: auto auto 6pt;"><span style="font-family: Verdana;"><span style="line-height: 150%; font-size: 10pt;">As a service provider we are liable for our own content on theses pages according to the law, § 7 Abs.1 TMG.</span><span style="line-height: 150%; font-size: 10pt;">But according to §§ 8 to 10 TMG we, as a service provider, are not obliged to supervise transmitted or stored third party information or to investigate circumstances which point to illegal activity.</span><span style="line-height: 150%; font-size: 10pt;">Obligations to remove or inhibit the use of information according to the law remains untouched. </span><span style="line-height: 150%; font-size: 10pt;">Such a liability is only possible from the time receiving knowledge of a specific legal violation.</span><span style="line-height: 150%; font-size: 10pt;">We will remove such content immediately at the time we receive knowledge of such legal violation.</span></span></div>
+<div style="line-height: 150%; margin: auto auto 6pt;"><span style="font-family: Verdana;">&nbsp;</span></div>
+<div style="line-height: 150%; text-indent: -18pt; margin: 0cm 0cm 6pt 18pt;"><span style="font-family: Verdana;"><strong><span style="line-height: 150%; font-size: 10pt;">5.<span style="font: 7pt 'Times New Roman';">&nbsp;&nbsp;&nbsp; </span></span></strong><strong><span style="line-height: 150%; font-size: 10pt;">Liability for Links</span></strong></span></div>
+<div style="line-height: 150%; margin: auto auto 6pt;"><span style="font-family: Verdana;"><span style="line-height: 150%; font-size: 10pt;">Our publication contains Links to external third party websites, on which we have no influence on the content.</span><span style="line-height: 150%; font-size: 10pt;">Thus we are not liable for such third party content.</span><span style="line-height: 150%; font-size: 10pt;">Each supplier and provider of the linked pages is responsible for them.</span></span></div>
+<div style="line-height: 150%; margin: auto auto 6pt;"><span style="font-family: Verdana;">&nbsp;</span></div>
+<div style="line-height: 150%; text-indent: -18pt; margin: 0cm 0cm 6pt 18pt;"><span style="font-family: Verdana;"><strong><span style="line-height: 150%; font-size: 10pt;">6.<span style="font: 7pt 'Times New Roman';">&nbsp;&nbsp;&nbsp; </span></span></strong><strong><span style="line-height: 150%; font-size: 10pt;">Copyright</span></strong></span></div>
+<div style="line-height: 150%; margin: auto auto 6pt;"><span style="font-family: Verdana;"><span style="line-height: 150%; font-size: 10pt;">The content and work created by the site provider on his pages are governed by German Copyright Law.</span><span style="line-height: 150%; font-size: 10pt;">Third party contribution are marked as such.</span><span style="line-height: 150%; font-size: 10pt;">Duplication, editing, redistribution and any kind of usage beyond the copyright laws require written approval of each author and/or creator. Downloads and copies of this page is only permitted for private non-commercial use.</span></span></div>
+<div style="line-height: 150%; margin: auto auto 6pt;"><span style="line-height: 150%; font-size: 10pt;"><span style="font-family: Verdana;">The site provider always endeavors to heed third party copyrights and/or to use content created by him or license-free content.<br><br><strong>7. Newsletter</strong><br></span></span>
+<p class="MsoNormal"><span lang="EN-BZ" style="color: #1f497d; mso-ansi-language: EN-BZ;"><span style="color: #000000; font-family: Verdana; font-size: small;">If you would prefer not to receive our newsletter please click the ‘unsubscribe’ link in any email that we send to you.<br><br>LamaLoLi GmbH</span></span></p>
+<div><span style="color: #000000; font-family: Verdana; font-size: small;">Rheinpromenade 6</span></div>
+<div><span style="color: #000000; font-family: Verdana; font-size: small;">40789 Monheim am Rhein</span></div>
+<span style="color: #000000; font-family: Verdana; font-size: small;"><span style="color: #000000; font-family: Verdana; font-size: small;"><br></span></span>
+<div>Phone: <!-- [if gte mso 9]><xml><w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"DefSemiHidden="true" DefQFormat="false" DefPriority="99"LatentStyleCount="267"><w:LsdException Locked="false" Priority="0" SemiHidden="false"UnhideWhenUsed="false" QFormat="true" Name="Normal" /><w:LsdException Locked="false" Priority="9" SemiHidden="false"UnhideWhenUsed="false" QFormat="true" Name="heading 1" /><w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2" /><w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3" /><w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4" /><w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5" /><w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6" /><w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7" /><w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8" /><w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9" /><w:LsdException Locked="false" Priority="39" Name="toc 1" /><w:LsdException Locked="false" Priority="39" Name="toc 2" /><w:LsdException Locked="false" Priority="39" Name="toc 3" /><w:LsdException Locked="false" Priority="39" Name="toc 4" /><w:LsdException Locked="false" Priority="39" Name="toc 5" /><w:LsdException Locked="false" Priority="39" Name="toc 6" /><w:LsdException Locked="false" Priority="39" Name="toc 7" /><w:LsdException Locked="false" Priority="39" Name="toc 8" /><w:LsdException Locked="false" Priority="39" Name="toc 9" /><w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption" /><w:LsdException Locked="false" Priority="10" SemiHidden="false"UnhideWhenUsed="false" QFormat="true" Name="Title" /><w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font" /><w:LsdException Locked="false" Priority="11" SemiHidden="false"UnhideWhenUsed="false" QFormat="true" Name="Subtitle" /><w:LsdException Locked="false" Priority="22" SemiHidden="false"UnhideWhenUsed="false" QFormat="true" Name="Strong" /><w:LsdException Locked="false" Priority="20" SemiHidden="false"UnhideWhenUsed="false" QFormat="true" Name="Emphasis" /><w:LsdException Locked="false" Priority="59" SemiHidden="false"UnhideWhenUsed="false" Name="Table Grid" /><w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text" /><w:LsdException Locked="false" Priority="1" SemiHidden="false"UnhideWhenUsed="false" QFormat="true" Name="No Spacing" /><w:LsdException Locked="false" Priority="60" SemiHidden="false"UnhideWhenUsed="false" Name="Light Shading" /><w:LsdException Locked="false" Priority="61" SemiHidden="false"UnhideWhenUsed="false" Name="Light List" /><w:LsdException Locked="false" Priority="62" SemiHidden="false"UnhideWhenUsed="false" Name="Light Grid" /><w:LsdException Locked="false" Priority="63" SemiHidden="false"UnhideWhenUsed="false" Name="Medium Shading 1" /><w:LsdException Locked="false" Priority="64" SemiHidden="false"UnhideWhenUsed="false" Name="Medium Shading 2" /><w:LsdException Locked="false" Priority="65" SemiHidden="false"UnhideWhenUsed="false" Name="Medium List 1" /><w:LsdException Locked="false" Priority="66" SemiHidden="false"UnhideWhenUsed="false" Name="Medium List 2" /><w:LsdException Locked="false" Priority="67" SemiHidden="false"UnhideWhenUsed="false" Name="Medium Grid 1" /><w:LsdException Locked="false" Priority="68" SemiHidden="false"UnhideWhenUsed="false" Name="Medium Grid 2" /><w:LsdException Locked="false" Priority="69" SemiHidden="false"UnhideWhenUsed="false" Name="Medium Grid 3" /><w:LsdException Locked="false" Priority="70" SemiHidden="false"UnhideWhenUsed="false" Name="Dark List" /><w:LsdException Locked="false" Priority="71" SemiHidden="false"UnhideWhenUsed="false" Name="Colorful Shading" /><w:LsdException Locked="false" Priority="72" SemiHidden="false"UnhideWhenUsed="false" Name="Colorful List" /><w:LsdException Locked="false" Priority="73" SemiHidden="false"UnhideWhenUsed="false" Name="Colorful Grid" /><w:LsdException Locked="false" Priority="60" SemiHidden="false"UnhideWhenUsed="false" Name="Light Shading Accent 1" /><w:LsdException Locked="false" Priority="61" SemiHidden="false"UnhideWhenUsed="false" Name="Light List Accent 1" /><w:LsdException Locked="false" Priority="62" SemiHidden="false"UnhideWhenUsed="false" Name="Light Grid Accent 1" /><w:LsdException Locked="false" Priority="63" SemiHidden="false"UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1" /><w:LsdException Locked="false" Priority="64" SemiHidden="false"UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1" /><w:LsdException Locked="false" Priority="65" SemiHidden="false"UnhideWhenUsed="false" Name="Medium List 1 Accent 1" /><w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision" /><w:LsdException Locked="false" Priority="34" SemiHidden="false"UnhideWhenUsed="false" QFormat="true" Name="List Paragraph" /><w:LsdException Locked="false" Priority="29" SemiHidden="false"UnhideWhenUsed="false" QFormat="true" Name="Quote" /><w:LsdException Locked="false" Priority="30" SemiHidden="false"UnhideWhenUsed="false" QFormat="true" Name="Intense Quote" /><w:LsdException Locked="false" Priority="66" SemiHidden="false"UnhideWhenUsed="false" Name="Medium List 2 Accent 1" /><w:LsdException Locked="false" Priority="67" SemiHidden="false"UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1" /><w:LsdException Locked="false" Priority="68" SemiHidden="false"UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1" /><w:LsdException Locked="false" Priority="69" SemiHidden="false"UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1" /><w:LsdException Locked="false" Priority="70" SemiHidden="false"UnhideWhenUsed="false" Name="Dark List Accent 1" /><w:LsdException Locked="false" Priority="71" SemiHidden="false"UnhideWhenUsed="false" Name="Colorful Shading Accent 1" /><w:LsdException Locked="false" Priority="72" SemiHidden="false"UnhideWhenUsed="false" Name="Colorful List Accent 1" /><w:LsdException Locked="false" Priority="73" SemiHidden="false"UnhideWhenUsed="false" Name="Colorful Grid Accent 1" /><w:LsdException Locked="false" Priority="60" SemiHidden="false"UnhideWhenUsed="false" Name="Light Shading Accent 2" /><w:LsdException Locked="false" Priority="61" SemiHidden="false"UnhideWhenUsed="false" Name="Light List Accent 2" /><w:LsdException Locked="false" Priority="62" SemiHidden="false"UnhideWhenUsed="false" Name="Light Grid Accent 2" /><w:LsdException Locked="false" Priority="63" SemiHidden="false"UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2" /><w:LsdException Locked="false" Priority="64" SemiHidden="false"UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2" /><w:LsdException Locked="false" Priority="65" SemiHidden="false"UnhideWhenUsed="false" Name="Medium List 1 Accent 2" /><w:LsdException Locked="false" Priority="66" SemiHidden="false"UnhideWhenUsed="false" Name="Medium List 2 Accent 2" /><w:LsdException Locked="false" Priority="67" SemiHidden="false"UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2" /><w:LsdException Locked="false" Priority="68" SemiHidden="false"UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2" /><w:LsdException Locked="false" Priority="69" SemiHidden="false"UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2" /><w:LsdException Locked="false" Priority="70" SemiHidden="false"UnhideWhenUsed="false" Name="Dark List Accent 2" /><w:LsdException Locked="false" Priority="71" SemiHidden="false"UnhideWhenUsed="false" Name="Colorful Shading Accent 2" /><w:LsdException Locked="false" Priority="72" SemiHidden="false"UnhideWhenUsed="false" Name="Colorful List Accent 2" /><w:LsdException Locked="false" Priority="73" SemiHidden="false"UnhideWhenUsed="false" Name="Colorful Grid Accent 2" /><w:LsdException Locked="false" Priority="60" SemiHidden="false"UnhideWhenUsed="false" Name="Light Shading Accent 3" /><w:LsdException Locked="false" Priority="61" SemiHidden="false"UnhideWhenUsed="false" Name="Light List Accent 3" /><w:LsdException Locked="false" Priority="62" SemiHidden="false"UnhideWhenUsed="false" Name="Light Grid Accent 3" /><w:LsdException Locked="false" Priority="63" SemiHidden="false"UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3" /><w:LsdException Locked="false" Priority="64" SemiHidden="false"UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3" /><w:LsdException Locked="false" Priority="65" SemiHidden="false"UnhideWhenUsed="false" Name="Medium List 1 Accent 3" /><w:LsdException Locked="false" Priority="66" SemiHidden="false"UnhideWhenUsed="false" Name="Medium List 2 Accent 3" /><w:LsdException Locked="false" Priority="67" SemiHidden="false"UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3" /><w:LsdException Locked="false" Priority="68" SemiHidden="false"UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3" /><w:LsdException Locked="false" Priority="69" SemiHidden="false"UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3" /><w:LsdException Locked="false" Priority="70" SemiHidden="false"UnhideWhenUsed="false" Name="Dark List Accent 3" /><w:LsdException Locked="false" Priority="71" SemiHidden="false"UnhideWhenUsed="false" Name="Colorful Shading Accent 3" /><w:LsdException Locked="false" Priority="72" SemiHidden="false"UnhideWhenUsed="false" Name="Colorful List Accent 3" /><w:LsdException Locked="false" Priority="73" SemiHidden="false"UnhideWhenUsed="false" Name="Colorful Grid Accent 3" /><w:LsdException Locked="false" Priority="60" SemiHidden="false"UnhideWhenUsed="false" Name="Light Shading Accent 4" /><w:LsdException Locked="false" Priority="61" SemiHidden="false"UnhideWhenUsed="false" Name="Light List Accent 4" /><w:LsdException Locked="false" Priority="62" SemiHidden="false"UnhideWhenUsed="false" Name="Light Grid Accent 4" /><w:LsdException Locked="false" Priority="63" SemiHidden="false"UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4" /><w:LsdException Locked="false" Priority="64" SemiHidden="false"UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4" /><w:LsdException Locked="false" Priority="65" SemiHidden="false"UnhideWhenUsed="false" Name="Medium List 1 Accent 4" /><w:LsdException Locked="false" Priority="66" SemiHidden="false"UnhideWhenUsed="false" Name="Medium List 2 Accent 4" /><w:LsdException Locked="false" Priority="67" SemiHidden="false"UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4" /><w:LsdException Locked="false" Priority="68" SemiHidden="false"UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4" /><w:LsdException Locked="false" Priority="69" SemiHidden="false"UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4" /><w:LsdException Locked="false" Priority="70" SemiHidden="false"UnhideWhenUsed="false" Name="Dark List Accent 4" /><w:LsdException Locked="false" Priority="71" SemiHidden="false"UnhideWhenUsed="false" Name="Colorful Shading Accent 4" /><w:LsdException Locked="false" Priority="72" SemiHidden="false"UnhideWhenUsed="false" Name="Colorful List Accent 4" /><w:LsdException Locked="false" Priority="73" SemiHidden="false"UnhideWhenUsed="false" Name="Colorful Grid Accent 4" /><w:LsdException Locked="false" Priority="60" SemiHidden="false"UnhideWhenUsed="false" Name="Light Shading Accent 5" /><w:LsdException Locked="false" Priority="61" SemiHidden="false"UnhideWhenUsed="false" Name="Light List Accent 5" /><w:LsdException Locked="false" Priority="62" SemiHidden="false"UnhideWhenUsed="false" Name="Light Grid Accent 5" /><w:LsdException Locked="false" Priority="63" SemiHidden="false"UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5" /><w:LsdException Locked="false" Priority="64" SemiHidden="false"UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5" /><w:LsdException Locked="false" Priority="65" SemiHidden="false"UnhideWhenUsed="false" Name="Medium List 1 Accent 5" /><w:LsdException Locked="false" Priority="66" SemiHidden="false"UnhideWhenUsed="false" Name="Medium List 2 Accent 5" /><w:LsdException Locked="false" Priority="67" SemiHidden="false"UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5" /><w:LsdException Locked="false" Priority="68" SemiHidden="false"UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5" /><w:LsdException Locked="false" Priority="69" SemiHidden="false"UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5" /><w:LsdException Locked="false" Priority="70" SemiHidden="false"UnhideWhenUsed="false" Name="Dark List Accent 5" /><w:LsdException Locked="false" Priority="71" SemiHidden="false"UnhideWhenUsed="false" Name="Colorful Shading Accent 5" /><w:LsdException Locked="false" Priority="72" SemiHidden="false"UnhideWhenUsed="false" Name="Colorful List Accent 5" /><w:LsdException Locked="false" Priority="73" SemiHidden="false"UnhideWhenUsed="false" Name="Colorful Grid Accent 5" /><w:LsdException Locked="false" Priority="60" SemiHidden="false"UnhideWhenUsed="false" Name="Light Shading Accent 6" /><w:LsdException Locked="false" Priority="61" SemiHidden="false"UnhideWhenUsed="false" Name="Light List Accent 6" /><w:LsdException Locked="false" Priority="62" SemiHidden="false"UnhideWhenUsed="false" Name="Light Grid Accent 6" /><w:LsdException Locked="false" Priority="63" SemiHidden="false"UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6" /><w:LsdException Locked="false" Priority="64" SemiHidden="false"UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6" /><w:LsdException Locked="false" Priority="65" SemiHidden="false"UnhideWhenUsed="false" Name="Medium List 1 Accent 6" /><w:LsdException Locked="false" Priority="66" SemiHidden="false"UnhideWhenUsed="false" Name="Medium List 2 Accent 6" /><w:LsdException Locked="false" Priority="67" SemiHidden="false"UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6" /><w:LsdException Locked="false" Priority="68" SemiHidden="false"UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6" /><w:LsdException Locked="false" Priority="69" SemiHidden="false"UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6" /><w:LsdException Locked="false" Priority="70" SemiHidden="false"UnhideWhenUsed="false" Name="Dark List Accent 6" /><w:LsdException Locked="false" Priority="71" SemiHidden="false"UnhideWhenUsed="false" Name="Colorful Shading Accent 6" /><w:LsdException Locked="false" Priority="72" SemiHidden="false"UnhideWhenUsed="false" Name="Colorful List Accent 6" /><w:LsdException Locked="false" Priority="73" SemiHidden="false"UnhideWhenUsed="false" Name="Colorful Grid Accent 6" /><w:LsdException Locked="false" Priority="19" SemiHidden="false"UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis" /><w:LsdException Locked="false" Priority="21" SemiHidden="false"UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis" /><w:LsdException Locked="false" Priority="31" SemiHidden="false"UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference" /><w:LsdException Locked="false" Priority="32" SemiHidden="false"UnhideWhenUsed="false" QFormat="true" Name="Intense Reference" /><w:LsdException Locked="false" Priority="33" SemiHidden="false"UnhideWhenUsed="false" QFormat="true" Name="Book Title" /><w:LsdException Locked="false" Priority="37" Name="Bibliography" /><w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading" /></w:LatentStyles></xml><![endif]--><!-- [if gte mso 10]><style>/* Style Definitions */table.MsoNormalTable{mso-style-name:"Table Normal";mso-tstyle-rowband-size:0;mso-tstyle-colband-size:0;mso-style-noshow:yes;mso-style-priority:99;mso-style-qformat:yes;mso-style-parent:"";mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-para-margin:0cm;mso-para-margin-bottom:.0001pt;mso-pagination:widow-orphan;font-size:11.0pt;font-family:"Calibri","sans-serif";mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;}</style><![endif]--></div>
+<div>UK customers: + 44 333 400 0415<br> Non UK customers: +44 203 514 0700</div>
+<div>E-Mail:</div>
+<div>UK customers: <a href="mailto:support@lamaloli.co.uk">support@lamaloli.co.uk</a><br>Non UK customers: <span style="font-family: Verdana;"><a href="mailto:support@lamaloli.com">support@lamaloli.co.uk</a></span></div>
+<!-- [if gte mso 9]><xml><w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"DefSemiHidden="true" DefQFormat="false" DefPriority="99"LatentStyleCount="267"><w:LsdException Locked="false" Priority="0" SemiHidden="false"UnhideWhenUsed="false" QFormat="true" Name="Normal" /><w:LsdException Locked="false" Priority="9" SemiHidden="false"UnhideWhenUsed="false" QFormat="true" Name="heading 1" /><w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2" /><w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3" /><w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4" /><w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5" /><w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6" /><w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7" /><w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8" /><w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9" /><w:LsdException Locked="false" Priority="39" Name="toc 1" /><w:LsdException Locked="false" Priority="39" Name="toc 2" /><w:LsdException Locked="false" Priority="39" Name="toc 3" /><w:LsdException Locked="false" Priority="39" Name="toc 4" /><w:LsdException Locked="false" Priority="39" Name="toc 5" /><w:LsdException Locked="false" Priority="39" Name="toc 6" /><w:LsdException Locked="false" Priority="39" Name="toc 7" /><w:LsdException Locked="false" Priority="39" Name="toc 8" /><w:LsdException Locked="false" Priority="39" Name="toc 9" /><w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption" /><w:LsdException Locked="false" Priority="10" SemiHidden="false"UnhideWhenUsed="false" QFormat="true" Name="Title" /><w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font" /><w:LsdException Locked="false" Priority="11" SemiHidden="false"UnhideWhenUsed="false" QFormat="true" Name="Subtitle" /><w:LsdException Locked="false" Priority="22" SemiHidden="false"UnhideWhenUsed="false" QFormat="true" Name="Strong" /><w:LsdException Locked="false" Priority="20" SemiHidden="false"UnhideWhenUsed="false" QFormat="true" Name="Emphasis" /><w:LsdException Locked="false" Priority="59" SemiHidden="false"UnhideWhenUsed="false" Name="Table Grid" /><w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text" /><w:LsdException Locked="false" Priority="1" SemiHidden="false"UnhideWhenUsed="false" QFormat="true" Name="No Spacing" /><w:LsdException Locked="false" Priority="60" SemiHidden="false"UnhideWhenUsed="false" Name="Light Shading" /><w:LsdException Locked="false" Priority="61" SemiHidden="false"UnhideWhenUsed="false" Name="Light List" /><w:LsdException Locked="false" Priority="62" SemiHidden="false"UnhideWhenUsed="false" Name="Light Grid" /><w:LsdException Locked="false" Priority="63" SemiHidden="false"UnhideWhenUsed="false" Name="Medium Shading 1" /><w:LsdException Locked="false" Priority="64" SemiHidden="false"UnhideWhenUsed="false" Name="Medium Shading 2" /><w:LsdException Locked="false" Priority="65" SemiHidden="false"UnhideWhenUsed="false" Name="Medium List 1" /><w:LsdException Locked="false" Priority="66" SemiHidden="false"UnhideWhenUsed="false" Name="Medium List 2" /><w:LsdException Locked="false" Priority="67" SemiHidden="false"UnhideWhenUsed="false" Name="Medium Grid 1" /><w:LsdException Locked="false" Priority="68" SemiHidden="false"UnhideWhenUsed="false" Name="Medium Grid 2" /><w:LsdException Locked="false" Priority="69" SemiHidden="false"UnhideWhenUsed="false" Name="Medium Grid 3" /><w:LsdException Locked="false" Priority="70" SemiHidden="false"UnhideWhenUsed="false" Name="Dark List" /><w:LsdException Locked="false" Priority="71" SemiHidden="false"UnhideWhenUsed="false" Name="Colorful Shading" /><w:LsdException Locked="false" Priority="72" SemiHidden="false"UnhideWhenUsed="false" Name="Colorful List" /><w:LsdException Locked="false" Priority="73" SemiHidden="false"UnhideWhenUsed="false" Name="Colorful Grid" /><w:LsdException Locked="false" Priority="60" SemiHidden="false"UnhideWhenUsed="false" Name="Light Shading Accent 1" /><w:LsdException Locked="false" Priority="61" SemiHidden="false"UnhideWhenUsed="false" Name="Light List Accent 1" /><w:LsdException Locked="false" Priority="62" SemiHidden="false"UnhideWhenUsed="false" Name="Light Grid Accent 1" /><w:LsdException Locked="false" Priority="63" SemiHidden="false"UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1" /><w:LsdException Locked="false" Priority="64" SemiHidden="false"UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1" /><w:LsdException Locked="false" Priority="65" SemiHidden="false"UnhideWhenUsed="false" Name="Medium List 1 Accent 1" /><w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision" /><w:LsdException Locked="false" Priority="34" SemiHidden="false"UnhideWhenUsed="false" QFormat="true" Name="List Paragraph" /><w:LsdException Locked="false" Priority="29" SemiHidden="false"UnhideWhenUsed="false" QFormat="true" Name="Quote" /><w:LsdException Locked="false" Priority="30" SemiHidden="false"UnhideWhenUsed="false" QFormat="true" Name="Intense Quote" /><w:LsdException Locked="false" Priority="66" SemiHidden="false"UnhideWhenUsed="false" Name="Medium List 2 Accent 1" /><w:LsdException Locked="false" Priority="67" SemiHidden="false"UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1" /><w:LsdException Locked="false" Priority="68" SemiHidden="false"UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1" /><w:LsdException Locked="false" Priority="69" SemiHidden="false"UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1" /><w:LsdException Locked="false" Priority="70" SemiHidden="false"UnhideWhenUsed="false" Name="Dark List Accent 1" /><w:LsdException Locked="false" Priority="71" SemiHidden="false"UnhideWhenUsed="false" Name="Colorful Shading Accent 1" /><w:LsdException Locked="false" Priority="72" SemiHidden="false"UnhideWhenUsed="false" Name="Colorful List Accent 1" /><w:LsdException Locked="false" Priority="73" SemiHidden="false"UnhideWhenUsed="false" Name="Colorful Grid Accent 1" /><w:LsdException Locked="false" Priority="60" SemiHidden="false"UnhideWhenUsed="false" Name="Light Shading Accent 2" /><w:LsdException Locked="false" Priority="61" SemiHidden="false"UnhideWhenUsed="false" Name="Light List Accent 2" /><w:LsdException Locked="false" Priority="62" SemiHidden="false"UnhideWhenUsed="false" Name="Light Grid Accent 2" /><w:LsdException Locked="false" Priority="63" SemiHidden="false"UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2" /><w:LsdException Locked="false" Priority="64" SemiHidden="false"UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2" /><w:LsdException Locked="false" Priority="65" SemiHidden="false"UnhideWhenUsed="false" Name="Medium List 1 Accent 2" /><w:LsdException Locked="false" Priority="66" SemiHidden="false"UnhideWhenUsed="false" Name="Medium List 2 Accent 2" /><w:LsdException Locked="false" Priority="67" SemiHidden="false"UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2" /><w:LsdException Locked="false" Priority="68" SemiHidden="false"UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2" /><w:LsdException Locked="false" Priority="69" SemiHidden="false"UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2" /><w:LsdException Locked="false" Priority="70" SemiHidden="false"UnhideWhenUsed="false" Name="Dark List Accent 2" /><w:LsdException Locked="false" Priority="71" SemiHidden="false"UnhideWhenUsed="false" Name="Colorful Shading Accent 2" /><w:LsdException Locked="false" Priority="72" SemiHidden="false"UnhideWhenUsed="false" Name="Colorful List Accent 2" /><w:LsdException Locked="false" Priority="73" SemiHidden="false"UnhideWhenUsed="false" Name="Colorful Grid Accent 2" /><w:LsdException Locked="false" Priority="60" SemiHidden="false"UnhideWhenUsed="false" Name="Light Shading Accent 3" /><w:LsdException Locked="false" Priority="61" SemiHidden="false"UnhideWhenUsed="false" Name="Light List Accent 3" /><w:LsdException Locked="false" Priority="62" SemiHidden="false"UnhideWhenUsed="false" Name="Light Grid Accent 3" /><w:LsdException Locked="false" Priority="63" SemiHidden="false"UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3" /><w:LsdException Locked="false" Priority="64" SemiHidden="false"UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3" /><w:LsdException Locked="false" Priority="65" SemiHidden="false"UnhideWhenUsed="false" Name="Medium List 1 Accent 3" /><w:LsdException Locked="false" Priority="66" SemiHidden="false"UnhideWhenUsed="false" Name="Medium List 2 Accent 3" /><w:LsdException Locked="false" Priority="67" SemiHidden="false"UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3" /><w:LsdException Locked="false" Priority="68" SemiHidden="false"UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3" /><w:LsdException Locked="false" Priority="69" SemiHidden="false"UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3" /><w:LsdException Locked="false" Priority="70" SemiHidden="false"UnhideWhenUsed="false" Name="Dark List Accent 3" /><w:LsdException Locked="false" Priority="71" SemiHidden="false"UnhideWhenUsed="false" Name="Colorful Shading Accent 3" /><w:LsdException Locked="false" Priority="72" SemiHidden="false"UnhideWhenUsed="false" Name="Colorful List Accent 3" /><w:LsdException Locked="false" Priority="73" SemiHidden="false"UnhideWhenUsed="false" Name="Colorful Grid Accent 3" /><w:LsdException Locked="false" Priority="60" SemiHidden="false"UnhideWhenUsed="false" Name="Light Shading Accent 4" /><w:LsdException Locked="false" Priority="61" SemiHidden="false"UnhideWhenUsed="false" Name="Light List Accent 4" /><w:LsdException Locked="false" Priority="62" SemiHidden="false"UnhideWhenUsed="false" Name="Light Grid Accent 4" /><w:LsdException Locked="false" Priority="63" SemiHidden="false"UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4" /><w:LsdException Locked="false" Priority="64" SemiHidden="false"UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4" /><w:LsdException Locked="false" Priority="65" SemiHidden="false"UnhideWhenUsed="false" Name="Medium List 1 Accent 4" /><w:LsdException Locked="false" Priority="66" SemiHidden="false"UnhideWhenUsed="false" Name="Medium List 2 Accent 4" /><w:LsdException Locked="false" Priority="67" SemiHidden="false"UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4" /><w:LsdException Locked="false" Priority="68" SemiHidden="false"UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4" /><w:LsdException Locked="false" Priority="69" SemiHidden="false"UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4" /><w:LsdException Locked="false" Priority="70" SemiHidden="false"UnhideWhenUsed="false" Name="Dark List Accent 4" /><w:LsdException Locked="false" Priority="71" SemiHidden="false"UnhideWhenUsed="false" Name="Colorful Shading Accent 4" /><w:LsdException Locked="false" Priority="72" SemiHidden="false"UnhideWhenUsed="false" Name="Colorful List Accent 4" /><w:LsdException Locked="false" Priority="73" SemiHidden="false"UnhideWhenUsed="false" Name="Colorful Grid Accent 4" /><w:LsdException Locked="false" Priority="60" SemiHidden="false"UnhideWhenUsed="false" Name="Light Shading Accent 5" /><w:LsdException Locked="false" Priority="61" SemiHidden="false"UnhideWhenUsed="false" Name="Light List Accent 5" /><w:LsdException Locked="false" Priority="62" SemiHidden="false"UnhideWhenUsed="false" Name="Light Grid Accent 5" /><w:LsdException Locked="false" Priority="63" SemiHidden="false"UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5" /><w:LsdException Locked="false" Priority="64" SemiHidden="false"UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5" /><w:LsdException Locked="false" Priority="65" SemiHidden="false"UnhideWhenUsed="false" Name="Medium List 1 Accent 5" /><w:LsdException Locked="false" Priority="66" SemiHidden="false"UnhideWhenUsed="false" Name="Medium List 2 Accent 5" /><w:LsdException Locked="false" Priority="67" SemiHidden="false"UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5" /><w:LsdException Locked="false" Priority="68" SemiHidden="false"UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5" /><w:LsdException Locked="false" Priority="69" SemiHidden="false"UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5" /><w:LsdException Locked="false" Priority="70" SemiHidden="false"UnhideWhenUsed="false" Name="Dark List Accent 5" /><w:LsdException Locked="false" Priority="71" SemiHidden="false"UnhideWhenUsed="false" Name="Colorful Shading Accent 5" /><w:LsdException Locked="false" Priority="72" SemiHidden="false"UnhideWhenUsed="false" Name="Colorful List Accent 5" /><w:LsdException Locked="false" Priority="73" SemiHidden="false"UnhideWhenUsed="false" Name="Colorful Grid Accent 5" /><w:LsdException Locked="false" Priority="60" SemiHidden="false"UnhideWhenUsed="false" Name="Light Shading Accent 6" /><w:LsdException Locked="false" Priority="61" SemiHidden="false"UnhideWhenUsed="false" Name="Light List Accent 6" /><w:LsdException Locked="false" Priority="62" SemiHidden="false"UnhideWhenUsed="false" Name="Light Grid Accent 6" /><w:LsdException Locked="false" Priority="63" SemiHidden="false"UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6" /><w:LsdException Locked="false" Priority="64" SemiHidden="false"UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6" /><w:LsdException Locked="false" Priority="65" SemiHidden="false"UnhideWhenUsed="false" Name="Medium List 1 Accent 6" /><w:LsdException Locked="false" Priority="66" SemiHidden="false"UnhideWhenUsed="false" Name="Medium List 2 Accent 6" /><w:LsdException Locked="false" Priority="67" SemiHidden="false"UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6" /><w:LsdException Locked="false" Priority="68" SemiHidden="false"UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6" /><w:LsdException Locked="false" Priority="69" SemiHidden="false"UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6" /><w:LsdException Locked="false" Priority="70" SemiHidden="false"UnhideWhenUsed="false" Name="Dark List Accent 6" /><w:LsdException Locked="false" Priority="71" SemiHidden="false"UnhideWhenUsed="false" Name="Colorful Shading Accent 6" /><w:LsdException Locked="false" Priority="72" SemiHidden="false"UnhideWhenUsed="false" Name="Colorful List Accent 6" /><w:LsdException Locked="false" Priority="73" SemiHidden="false"UnhideWhenUsed="false" Name="Colorful Grid Accent 6" /><w:LsdException Locked="false" Priority="19" SemiHidden="false"UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis" /><w:LsdException Locked="false" Priority="21" SemiHidden="false"UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis" /><w:LsdException Locked="false" Priority="31" SemiHidden="false"UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference" /><w:LsdException Locked="false" Priority="32" SemiHidden="false"UnhideWhenUsed="false" QFormat="true" Name="Intense Reference" /><w:LsdException Locked="false" Priority="33" SemiHidden="false"UnhideWhenUsed="false" QFormat="true" Name="Book Title" /><w:LsdException Locked="false" Priority="37" Name="Bibliography" /><w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading" /></w:LatentStyles></xml><![endif]--><!-- [if gte mso 10]><style>/* Style Definitions */table.MsoNormalTable{mso-style-name:"Table Normal";mso-tstyle-rowband-size:0;mso-tstyle-colband-size:0;mso-style-noshow:yes;mso-style-priority:99;mso-style-qformat:yes;mso-style-parent:"";mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-para-margin:0cm;mso-para-margin-bottom:.0001pt;mso-pagination:widow-orphan;font-size:11.0pt;font-family:"Calibri","sans-serif";mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;}</style><![endif]--></div>
+
+</div>
+                 			</section><!-- end content -->
+			<aside>
+                        			<!-- Side Links -->
+      <ul class="add-nav">
+			
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+
+<li><a style="" target="" href="/en/help/">Help</a>
+</li><li><a style="" target="" href="/en/secure-payment/">Payment options</a>
+</li><li><a style="" target="" href="/en/shipping/">Shipping</a>
+</li><li><a style="" target="" href="/en/customers/contactUs/">Contact Us</a>
+</li><li><a style="" target="" href="/en/legal-notice/">Legal Notice</a>
+</li><li><a style="" target="" href="/en/licenses/">Our Licenses</a>
+</li><li><a style="" target="" href="/en/terms_and_conditions/">Terms and Conditions</a>
+</li><li><a style="" target="" href="/en/privacy_notice/">Privacy Notice</a>
+</li><li><a style="" target="" href="/en/about-us/">About Us</a>
+                  </li></ul>
+<!-- End Side Links -->
+                        
+			</aside>
+		</div><!-- end main -->
+                        </span>
+
+			<section class="bag-popup" style="z-index:10000;">
+                         	<h2>One Direction T-Shirt black</h2>
+				<p>HAS BEEN ADDED TO YOUR BAG</p>
+				<form action="#">
+					<fieldset>
+						<div class="info">
+                                                    <a href="#"></a>
+							<div class="hold">
+								<table>
+									<tbody><tr>
+										<th>Size:</th>
+										<th>Quantity:</th>
+										<th>Price:</th>
+									</tr>
+									<tr>
+										<td class="col1">140</td>
+										<td>1</td>
+										<td>9.95 €</td>
+									</tr>
+								</tbody></table>
+							</div>
+						</div>
+						<p class="price">Total*: <span>30.80 €</span></p>
+						<input type="submit" value="Checkout" class="checkout">
+					</fieldset>
+				</form>
+				<p class="notice">*Not including shipment</p>
+				<span class="btn-close">close</span>
+			</section><!-- bag-popup -->
+
+			<nav id="navigation">
+				<ul>
+		                                                                           
+                                                                                                        
+                                                   
+                        <li class="hasdrop">
+						                        <a class="trigger" href="/en/Boys/77/">Boys<span>2-14 years</span></a>                                           <div class="drop">
+							<div class="nav-col">
+								<h4 class="nav-sub">Boys</h4>
+                                <ul>
+                                                                                <li><a href="/en/Boys-Short-Sleeve-T-Shirts/80/">Short Sleeve T-Shirts</a></li>
+                                                                                <li><a href="/en/Boys-Long-Sleeve-T-Shirts/82/">Long Sleeve T-Shirts</a></li>
+                                                                                <li><a href="/en/Boys-Long-Pants/83/">Long Pants</a></li>
+                                                                                <li><a href="/en/Boys-Short-Pants/84/">Short Pants</a></li>
+                                                                                <li><a href="/en/Boys-Bermuda-shorts/85/">Bermuda shorts</a></li>
+                                                                                <li><a href="/en/Boys-Jackets/86/">Jackets</a></li>
+                                                                                <li><a href="/en/Boys-Underwear/88/">Underwear</a></li>
+                                                                                <li><a href="/en/Boys-Short-Sleeve-Pyjamas/89/">Short Sleeve Pyjamas</a></li>
+                                                                                <li><a href="/en/Boys-Swimwear/90/">Swimwear</a></li>
+                                                                                <li><a href="/en/Boys-Clothing-Sets/145/">Clothing Sets</a></li>
+                                                                                <li><a href="/en/Boys-Hoodies-%26-Sweat-jackets/147/">Hoodies &amp; Sweat jackets</a></li>
+                                                                                <li><a href="/en/Boys-Long-Sleeve-Pyjama/150/">Long Sleeve Pyjama</a></li>
+                                                                                <li><a href="/en/Boys-Long-sleeve-pyjama-%28Velours%29/167/">Long sleeve pyjama (Velours)</a></li>
+                                                                        </ul>
+							</div>
+                                                                                                                							      <div class="nav-imagecol">
+							   	  <img src="http://cdn.lamaloli.com/v3/images/nav_boys_n.jpg?1403019710">
+						 	      </div>
+                                                                                </div>
+                        
+
+                        </li>
+                        
+                                                                           
+                                                   
+                        <li class="hasdrop">
+						                        <a class="trigger" href="/en/Girls/78/">Girls<span>2-14 years</span></a>                                           <div class="drop">
+							<div class="nav-col">
+								<h4 class="nav-sub">Girls</h4>
+                                <ul>
+                                                                                <li><a href="/en/Girls-Short-Sleeve-T-Shirts/92/">Short Sleeve T-Shirts</a></li>
+                                                                                <li><a href="/en/Girls-Long-Sleeve-T-shirts/94/">Long Sleeve T-shirts</a></li>
+                                                                                <li><a href="/en/Girls-Dresses-%26-Skirts/95/">Dresses &amp; Skirts</a></li>
+                                                                                <li><a href="/en/Girls-Long-Pants/96/">Long Pants</a></li>
+                                                                                <li><a href="/en/Girls-Short-Pants/97/">Short Pants</a></li>
+                                                                                <li><a href="/en/Girls-Jackets/99/">Jackets</a></li>
+                                                                                <li><a href="/en/Girls-Underwear/101/">Underwear</a></li>
+                                                                                <li><a href="/en/Girls-Short-Sleeve-Pyjama/102/">Short Sleeve Pyjama</a></li>
+                                                                                <li><a href="/en/Girls-Swimwear/103/">Swimwear</a></li>
+                                                                                <li><a href="/en/Girls-Clothing-sets/146/">Clothing sets</a></li>
+                                                                                <li><a href="/en/Girls-Hoodies-%26-Sweat-jackets/148/">Hoodies &amp; Sweat jackets</a></li>
+                                                                                <li><a href="/en/Girls-Long-Sleeve-Pyjama/151/">Long Sleeve Pyjama</a></li>
+                                                                                <li><a href="/en/Girls-Long-sleeve-pyjama-%28Velours%29/166/">Long sleeve pyjama (Velours)</a></li>
+                                                                        </ul>
+							</div>
+                                                                                                                							      <div class="nav-imagecol">
+							   	  <img src="http://cdn.lamaloli.com/v3/images/nav_girls_n.jpg?1403019710">
+						 	      </div>
+                                                                                </div>
+                        
+
+                        </li>
+                        
+                                                                           
+                                                   
+                        <li class="hasdrop">
+						                        <a class="trigger" href="/en/Babies/165/">Babies<span>0-2 years</span></a>                                           <div class="drop">
+							<div class="nav-col">
+								<h4 class="nav-sub">Babies</h4>
+                                <ul>
+                                                                                <li><a href="/en/Babies-Baby-boys/113/">Baby boys</a></li>
+                                                                                <li><a href="/en/Babies-Baby-girls/114/">Baby girls</a></li>
+                                                                        </ul>
+							</div>
+                                                                                                                							      <div class="nav-imagecol">
+							   	  <img src="http://cdn.lamaloli.com/v3/images/nav_baby_boys.jpg?1403019710">
+						 	      </div>
+                                                                                </div>
+                        
+
+                        </li>
+                        
+                                                                                                                           
+                                                                                                        
+                        
+                                                                           
+                        
+                                                                           
+                        
+                                                                           
+                        
+                                                                           
+                        
+                                                                           
+                        
+                                                                           
+                        
+                                                                           
+                        
+                                                                        <li class="hasdrop">
+                        <a class="trigger" href="/en/Accessories/79/">Accessories</a>                                               <div class="drop">
+							<div class="nav-col">
+								<h4 class="nav-sub">Accessories</h4>
+                                <ul>
+                                                                                <li><a href="/en/Accessories-Bags/55/">Bags</a></li>
+                                                                                <li><a href="/en/Accessories-Caps/106/">Caps</a></li>
+                                                                                <li><a href="/en/Accessories-Belts/107/">Belts</a></li>
+                                                                                <li><a href="/en/Accessories-Sunglasses/108/">Sunglasses</a></li>
+                                                                                <li><a href="/en/Accessories-Shoes/109/">Shoes</a></li>
+                                                                                <li><a href="/en/Accessories-Flip-flops/115/">Flip flops</a></li>
+                                                                                <li><a href="/en/Accessories-Socks/163/">Socks</a></li>
+                                                                                <li><a href="/en/Accessories-Bed-set/174/">Bed set</a></li>
+                                                                        </ul>
+							</div>
+							 <div class="nav-imagecol">
+								<img src="/v3/images/nav_accessories.jpg?1403019710">
+							</div>
+                        </div>
+                                               </li>
+                                                                      					<li class="hasdrop">
+						<a href="/en/licenses/">Our Brands</a>
+						<div class="drop drop-style2" style="padding-left: 25px; padding-bottom: 30px; height:600px !important; width:987px !important;">
+														<ul>
+																<li style="height: 91px;"><a href="/en/products/index/license/Super-Mario-Bros/"><img src="http://cdn.lamaloli.com/uploads/image/banners/our_brands/mkw.png" width="72" height="72" alt="image description">Super Mario Bros</a></li>
+																<li style="height: 91px;"><a href="/en/products/index/license/Star-Wars/"><img src="http://cdn.lamaloli.com/uploads/image/banners/our_brands/star.png" width="72" height="72" alt="image description">Star Wars</a></li>
+																<li style="height: 91px;"><a href="/en/products/index/license/Spiderman/"><img src="http://cdn.lamaloli.com/uploads/image/banners/our_brands/spd.png" width="72" height="72" alt="image description">Spiderman</a></li>
+																<li style="height: 91px;"><a href="/en/products/index/license/The-Smurfs/"><img src="http://cdn.lamaloli.com/uploads/image/banners/our_brands/smf.png" width="72" height="72" alt="image description">The Smurfs</a></li>
+																<li style="height: 91px;"><a href="/en/products/index/license/Skylanders/"><img src="http://cdn.lamaloli.com/uploads/image/banners/our_brands/sky.png" width="72" height="72" alt="image description">Skylanders</a></li>
+																<li style="height: 91px;"><a href="/en/products/index/license/Nici/"><img src="http://cdn.lamaloli.com/uploads/image/banners/our_brands/nici.png" width="72" height="72" alt="image description">Nici</a></li>
+																<li style="height: 91px;"><a href="/en/products/index/license/My-Little-Pony/"><img src="http://cdn.lamaloli.com/uploads/image/banners/our_brands/mlp.png" width="72" height="72" alt="image description">My Little Pony</a></li>
+																<li style="height: 91px;"><a href="/en/products/index/license/Monster-High/"><img src="http://cdn.lamaloli.com/uploads/image/banners/our_brands/moh.png" width="72" height="72" alt="image description">Monster High</a></li>
+																<li style="height: 91px;"><a href="/en/products/index/license/Looney-Tunes/"><img src="http://cdn.lamaloli.com/uploads/image/banners/our_brands/loo.png" width="72" height="72" alt="image description">Looney Tunes</a></li>
+																<li style="height: 91px;"><a href="/en/products/index/license/Hello-Kitty/"><img src="http://cdn.lamaloli.com/uploads/image/banners/our_brands/hk.png" width="72" height="72" alt="image description">Hello Kitty</a></li>
+																<li style="height: 91px;"><a href="/en/products/index/license/Disney-Princess/"><img src="http://cdn.lamaloli.com/uploads/image/banners/our_brands/pri.png" width="72" height="72" alt="image description">Disney Princess</a></li>
+																<li style="height: 91px;"><a href="/en/products/index/license/Disney-Phineas-and-Ferb/"><img src="http://cdn.lamaloli.com/uploads/image/banners/our_brands/phf.png" width="72" height="72" alt="image description">Disney Phineas and Ferb</a></li>
+																<li style="height: 91px;"><a href="/en/products/index/license/Disney-Minnie/"><img src="http://cdn.lamaloli.com/uploads/image/banners/our_brands/dis-minnie.png" width="72" height="72" alt="image description">Disney Minnie</a></li>
+																<li style="height: 91px;"><a href="/en/products/index/license/Disney-Mickey/"><img src="http://cdn.lamaloli.com/uploads/image/banners/our_brands/dis_mickey.png" width="72" height="72" alt="image description">Disney Mickey</a></li>
+																<li style="height: 91px;"><a href="/en/products/index/license/Disney-Cars/"><img src="http://cdn.lamaloli.com/uploads/image/banners/our_brands/cars.png" width="72" height="72" alt="image description">Disney Cars</a></li>
+																<li style="height: 91px;"><a href="/en/products/index/license/Bob-the-Builder/"><img src="http://cdn.lamaloli.com/uploads/image/banners/our_brands/bob.png" width="72" height="72" alt="image description">Bob the Builder</a></li>
+																<li style="height: 91px;"><a href="/en/products/index/license/Barbie/"><img src="http://cdn.lamaloli.com/uploads/image/banners/our_brands/brb.png" width="72" height="72" alt="image description">Barbie</a></li>
+																<li style="height: 91px;"><a href="/en/products/index/license/Angry-Birds-Star-Wars/"><img src="http://cdn.lamaloli.com/uploads/image/banners/our_brands/swab.png" width="72" height="72" alt="image description">Angry Birds Star Wars</a></li>
+																<li style="height: 91px;"><a href="/en/products/index/license/Star-Wars-The-Clone-Wars/"><img src="http://cdn.lamaloli.com/uploads/image/banners/our_brands/star.png" width="72" height="72" alt="image description">Star Wars-The Clone Wars</a></li>
+																<li style="height: 91px;"><a href="/en/products/index/license/Disney-Marie-the-Cat/"><img src="http://cdn.lamaloli.com/uploads/image/banners/our_brands/dis_marrie.png" width="72" height="72" alt="image description">Disney Marie the Cat</a></li>
+																<li style="height: 91px;"><a href="/en/products/index/license/LEGO-Star-Wars/"><img src="http://cdn.lamaloli.com/uploads/image/banners/our_brands/lego-star.png" width="72" height="72" alt="image description">LEGO Star Wars</a></li>
+																<li style="height: 91px;"><a href="/en/products/index/license/Disney-Planes/"><img src="http://cdn.lamaloli.com/uploads/image/banners/our_brands/plan.png" width="72" height="72" alt="image description">Disney Planes</a></li>
+																<li style="height: 91px;"><a href="/en/products/index/license/Disney-Jake-and-the-Never-Land-Pirates/"><img src="http://cdn.lamaloli.com/uploads/image/banners/our_brands/jake.png" width="72" height="72" alt="image description">Disney Jake and the Never Land Pirates</a></li>
+																<li style="height: 91px;"><a href="/en/products/index/license/Thomas/"><img src="http://cdn.lamaloli.com/uploads/image/banners/our_brands/thom.png" width="72" height="72" alt="image description">Thomas</a></li>
+																<li style="height: 91px;"><a href="/en/products/index/license/2014-FIFA-World-Cup-Brazil-%28TM%29/"><img src="http://cdn.lamaloli.com/uploads/image/banners/our_brands/fifa-01.png" width="72" height="72" alt="image description">2014 FIFA World Cup Brazil (TM)</a></li>
+																<li style="height: 91px;"><a href="/en/products/index/license/Superman/"><img src="http://cdn.lamaloli.com/uploads/image/banners/our_brands/sup.png" width="72" height="72" alt="image description">Superman</a></li>
+																<li style="height: 91px;"><a href="/en/products/index/license/Disney-Bambi/"><img src="http://cdn.lamaloli.com/uploads/image/banners/our_brands/dis_bambi.png" width="72" height="72" alt="image description">Disney Bambi</a></li>
+																<li style="height: 91px;"><a href="/en/products/index/license/Ninja-Turtles/"><img src="http://cdn.lamaloli.com/uploads/image/banners/our_brands/ninja%20turtles-01.png" width="72" height="72" alt="image description">Ninja Turtles</a></li>
+																<li style="height: 91px;"><a href="/en/products/index/license/Monsters-University/"><img src="http://cdn.lamaloli.com/uploads/image/banners/our_brands/monster-uni.png" width="72" height="72" alt="image description">Monsters University</a></li>
+																<li style="height: 91px;"><a href="/en/products/index/license/Mia-%26-Me/"><img src="http://cdn.lamaloli.com/uploads/image/banners/our_brands/mia.png" width="72" height="72" alt="image description">Mia &amp; Me</a></li>
+																<li style="height: 91px;"><a href="/en/products/index/license/Disney-Winnie-the-Pooh/"><img src="http://cdn.lamaloli.com/uploads/image/banners/our_brands/dis_pooh.png" width="72" height="72" alt="image description">Disney Winnie the Pooh</a></li>
+																<li style="height: 91px;"><a href="/en/products/index/license/Disney-Tinker-Bell/"><img src="http://cdn.lamaloli.com/uploads/image/banners/our_brands/tink.png" width="72" height="72" alt="image description">Disney Tinker Bell</a></li>
+																<li style="height: 91px;"><a href="/en/products/index/license/Disney-Daisy/"><img src="http://cdn.lamaloli.com/uploads/image/banners/our_brands/dis_daisy.png" width="72" height="72" alt="image description">Disney Daisy</a></li>
+																<li style="height: 91px;"><a href="/en/products/index/license/Angry-Birds/"><img src="http://cdn.lamaloli.com/uploads/image/banners/our_brands/angry-01.png" width="72" height="72" alt="image description">Angry Birds</a></li>
+																<li style="height: 91px;"><a href="/en/products/index/license/Smiley/"><img src="http://cdn.lamaloli.com/uploads/image/banners/our_brands/smily2-01.png" width="72" height="72" alt="image description">Smiley</a></li>
+																<li style="height: 91px;"><a href="/en/products/index/license/Disney-Violetta/"><img src="http://cdn.lamaloli.com/uploads/image/banners/our_brands/violeta.png" width="72" height="72" alt="image description">Disney Violetta</a></li>
+																<li style="height: 91px;"><a href="/en/products/index/license/Sponge-Bob/"><img src="http://cdn.lamaloli.com/uploads/image/banners/our_brands/sb.png" width="72" height="72" alt="image description">Sponge Bob</a></li>
+																<li style="height: 91px;"><a href="/en/products/index/license/Batman/"><img src="http://cdn.lamaloli.com/uploads/image/banners/our_brands/dcb.png" width="72" height="72" alt="image description">Batman</a></li>
+																<li style="height: 91px;"><a href="/en/products/index/license/Disney-Tigger/"><img src="http://cdn.lamaloli.com/uploads/image/banners/our_brands/dis_tiger.png" width="72" height="72" alt="image description">Disney Tigger</a></li>
+																<li style="height: 91px;"><a href="/en/products/index/license/Paul-Frank/"><img src="http://cdn.lamaloli.com/uploads/image/banners/our_brands/pf-01.png" width="72" height="72" alt="image description">Paul Frank</a></li>
+																<li style="height: 91px;"><a href="/en/products/index/license/Disney-101-Dalmatians/"><img src="http://cdn.lamaloli.com/uploads/image/banners/our_brands/dis_101.png" width="72" height="72" alt="image description">Disney 101 Dalmatians</a></li>
+																<li style="height: 91px;"><a href="/en/products/index/license/LEGO-Batman/"><img src="http://cdn.lamaloli.com/uploads/image/banners/our_brands/lego-batman.png" width="72" height="72" alt="image description">LEGO Batman</a></li>
+																<li style="height: 91px;"><a href="/en/products/index/license/Garfield/"><img src="http://cdn.lamaloli.com/uploads/image/banners/our_brands/gar.png" width="72" height="72" alt="image description">Garfield</a></li>
+																<li style="height: 91px;"><a href="/en/products/index/license/Mike-the-Knight/"><img src="http://cdn.lamaloli.com/uploads/image/banners/our_brands/mike.png" width="72" height="72" alt="image description">Mike the Knight</a></li>
+																<li style="height: 91px;"><a href="/en/products/index/license/Disney-Doc-McStuffins/"><img src="http://cdn.lamaloli.com/uploads/image/banners/our_brands/doc.png" width="72" height="72" alt="image description">Disney Doc McStuffins</a></li>
+															</ul>
+						</div><!-- drop -->
+					</li>
+					<li class="hasdrop">
+						<a href="/en/products/index/is_on_sale/1/" class="sales">Sales</a>
+						<div class="drop drop-style3">
+															<div class="nav-col">
+							<h4 class="nav-sub">Boys</h4>
+								<ul>
+									<li><a href="/en/Boys-Short-Sleeve-T-Shirts/80/is_on_sale/1/">Short Sleeve T-Shirts</a></li><li><a href="/en/Boys-Long-Sleeve-T-Shirts/82/is_on_sale/1/">Long Sleeve T-Shirts</a></li><li><a href="/en/Boys-Long-Pants/83/is_on_sale/1/">Long Pants</a></li><li><a href="/en/Boys-Jackets/86/is_on_sale/1/">Jackets</a></li><li><a href="/en/Boys-Underwear/88/is_on_sale/1/">Underwear</a></li><li><a href="/en/Boys-Short-Sleeve-Pyjamas/89/is_on_sale/1/">Short Sleeve Pyjamas</a></li><li><a href="/en/Boys-Swimwear/90/is_on_sale/1/">Swimwear</a></li><li><a href="/en/Boys-Clothing-Sets/145/is_on_sale/1/">Clothing Sets</a></li><li><a href="/en/Boys-Hoodies-%26-Sweat-jackets/147/is_on_sale/1/">Hoodies &amp; Sweat jackets</a></li><li><a href="/en/Boys-Long-Sleeve-Pyjama/150/is_on_sale/1/">Long Sleeve Pyjama</a></li><li><a href="/en/Boys-Long-sleeve-pyjama-%28Velours%29/167/is_on_sale/1/">Long sleeve pyjama (Velours)</a></li>								</ul>
+							</div>
+												<div class="nav-col">
+							<h4 class="nav-sub">Girls</h4>
+								<ul>
+									<li><a href="/en/Girls-Short-Sleeve-T-Shirts/92/is_on_sale/1/">Short Sleeve T-Shirts</a></li><li><a href="/en/Girls-Long-Sleeve-T-shirts/94/is_on_sale/1/">Long Sleeve T-shirts</a></li><li><a href="/en/Girls-Dresses-%26-Skirts/95/is_on_sale/1/">Dresses &amp; Skirts</a></li><li><a href="/en/Girls-Long-Pants/96/is_on_sale/1/">Long Pants</a></li><li><a href="/en/Girls-Jackets/99/is_on_sale/1/">Jackets</a></li><li><a href="/en/Girls-Short-Sleeve-Pyjama/102/is_on_sale/1/">Short Sleeve Pyjama</a></li><li><a href="/en/Girls-Swimwear/103/is_on_sale/1/">Swimwear</a></li><li><a href="/en/Girls-Clothing-sets/146/is_on_sale/1/">Clothing sets</a></li><li><a href="/en/Girls-Hoodies-%26-Sweat-jackets/148/is_on_sale/1/">Hoodies &amp; Sweat jackets</a></li><li><a href="/en/Girls-Long-Sleeve-Pyjama/151/is_on_sale/1/">Long Sleeve Pyjama</a></li><li><a href="/en/Girls-Long-sleeve-pyjama-%28Velours%29/166/is_on_sale/1/">Long sleeve pyjama (Velours)</a></li>								</ul>
+							</div>
+												<div class="nav-col">
+							<h4 class="nav-sub">Babies</h4>
+								<ul>
+									<li><a href="/en/Babies-Baby-boys/113/is_on_sale/1/">Baby boys</a></li>								</ul>
+							</div>
+					                        <div class="nav-col">
+                        <h4 class="nav-sub">Accessories</h4>
+							<ul>
+								<li><a href="/en/Accessories-Bags/55/is_on_sale/1/">Bags</a></li><li><a href="/en/Accessories-Caps/106/is_on_sale/1/">Caps</a></li><li><a href="/en/Accessories-Shoes/109/is_on_sale/1/">Shoes</a></li><li><a href="/en/Accessories-Socks/163/is_on_sale/1/">Socks</a></li>							</ul>
+                        </div>
+                						</div>
+					</li>
+					<li class="hasdrop">
+						<a href="/en/products/index/recent/30/" class="new">New</a>
+						<div class="drop drop-style3">
+															<div class="nav-col">
+							<h4 class="nav-sub">Boys</h4>
+								<ul>
+									<li><a href="/en/products/index/fashion/Boys-Short-Sleeve-T-Shirts/category/80/recent/">Short Sleeve T-Shirts</a></li><li><a href="/en/products/index/fashion/Boys-Long-Sleeve-T-Shirts/category/82/recent/">Long Sleeve T-Shirts</a></li><li><a href="/en/products/index/fashion/Boys-Hoodies-%26-Sweat-jackets/category/147/recent/">Hoodies &amp; Sweat jackets</a></li><li><a href="/en/products/index/fashion/Boys-Long-Sleeve-Pyjama/category/150/recent/">Long Sleeve Pyjama</a></li>								</ul>
+							</div>
+												<div class="nav-col">
+							<h4 class="nav-sub">Girls</h4>
+								<ul>
+									<li><a href="/en/products/index/fashion/Girls-Long-Sleeve-T-shirts/category/94/recent/">Long Sleeve T-shirts</a></li><li><a href="/en/products/index/fashion/Girls-Clothing-sets/category/146/recent/">Clothing sets</a></li><li><a href="/en/products/index/fashion/Girls-Hoodies-%26-Sweat-jackets/category/148/recent/">Hoodies &amp; Sweat jackets</a></li><li><a href="/en/products/index/fashion/Girls-Long-Sleeve-Pyjama/category/151/recent/">Long Sleeve Pyjama</a></li>								</ul>
+							</div>
+					                        <div class="nav-col">
+                        <h4 class="nav-sub">Accessories</h4>
+							<ul>
+								<li><a href="/en/products/index/fashion/Accessories-Bags/category/55/recent/">Bags</a></li>							</ul>
+                        </div>
+                						</div>
+					</li>
+                                         <li class="hasdrop">
+                                                <a href="/en/products/index/season/winter-14/" class="winter">Winter 14</a>
+                                                <div class="drop drop-style4">
+                                                									<div class="nav-col">
+							<h4 class="nav-sub">Boys</h4>
+								<ul>
+									<li><a href="/en/products/index/fashion/Boys-Long-Sleeve-T-Shirts/category/82/season/winter-14/">Long Sleeve T-Shirts</a></li><li><a href="/en/products/index/fashion/Boys-Hoodies-%26-Sweat-jackets/category/147/season/winter-14/">Hoodies &amp; Sweat jackets</a></li><li><a href="/en/products/index/fashion/Boys-Long-Sleeve-Pyjama/category/150/season/winter-14/">Long Sleeve Pyjama</a></li>								</ul>
+							</div>
+												<div class="nav-col">
+							<h4 class="nav-sub">Girls</h4>
+								<ul>
+									<li><a href="/en/products/index/fashion/Girls-Long-Sleeve-T-shirts/category/94/season/winter-14/">Long Sleeve T-shirts</a></li><li><a href="/en/products/index/fashion/Girls-Clothing-sets/category/146/season/winter-14/">Clothing sets</a></li><li><a href="/en/products/index/fashion/Girls-Hoodies-%26-Sweat-jackets/category/148/season/winter-14/">Hoodies &amp; Sweat jackets</a></li><li><a href="/en/products/index/fashion/Girls-Long-Sleeve-Pyjama/category/151/season/winter-14/">Long Sleeve Pyjama</a></li>								</ul>
+							</div>
+					                                                </div>
+                                        </li>
+
+					<li class="hasdrop">
+						<a href="/en/products/index/outlet/1/" class="outlett">Outlet</a>
+						<div class="drop drop-style4">
+															<div class="nav-col">
+							<h4 class="nav-sub">Boys</h4>
+								<ul>
+									<li><a href="/en/products/index/fashion/Boys-Short-Sleeve-T-Shirts/category/80/outlet/1/">Short Sleeve T-Shirts</a></li><li><a href="/en/products/index/fashion/Boys-Long-Sleeve-T-Shirts/category/82/outlet/1/">Long Sleeve T-Shirts</a></li><li><a href="/en/products/index/fashion/Boys-Long-Pants/category/83/outlet/1/">Long Pants</a></li><li><a href="/en/products/index/fashion/Boys-Jackets/category/86/outlet/1/">Jackets</a></li><li><a href="/en/products/index/fashion/Boys-Short-Sleeve-Pyjamas/category/89/outlet/1/">Short Sleeve Pyjamas</a></li><li><a href="/en/products/index/fashion/Boys-Swimwear/category/90/outlet/1/">Swimwear</a></li><li><a href="/en/products/index/fashion/Boys-Clothing-Sets/category/145/outlet/1/">Clothing Sets</a></li><li><a href="/en/products/index/fashion/Boys-Hoodies-%26-Sweat-jackets/category/147/outlet/1/">Hoodies &amp; Sweat jackets</a></li><li><a href="/en/products/index/fashion/Boys-Long-Sleeve-Pyjama/category/150/outlet/1/">Long Sleeve Pyjama</a></li><li><a href="/en/products/index/fashion/Boys-Long-sleeve-pyjama-%28Velours%29/category/167/outlet/1/">Long sleeve pyjama (Velours)</a></li>								</ul>
+							</div>
+												<div class="nav-col">
+							<h4 class="nav-sub">Girls</h4>
+								<ul>
+									<li><a href="/en/products/index/fashion/Girls-Short-Sleeve-T-Shirts/category/92/outlet/1/">Short Sleeve T-Shirts</a></li><li><a href="/en/products/index/fashion/Girls-Long-Sleeve-T-shirts/category/94/outlet/1/">Long Sleeve T-shirts</a></li><li><a href="/en/products/index/fashion/Girls-Dresses-%26-Skirts/category/95/outlet/1/">Dresses &amp; Skirts</a></li><li><a href="/en/products/index/fashion/Girls-Long-Pants/category/96/outlet/1/">Long Pants</a></li><li><a href="/en/products/index/fashion/Girls-Jackets/category/99/outlet/1/">Jackets</a></li><li><a href="/en/products/index/fashion/Girls-Swimwear/category/103/outlet/1/">Swimwear</a></li><li><a href="/en/products/index/fashion/Girls-Clothing-sets/category/146/outlet/1/">Clothing sets</a></li><li><a href="/en/products/index/fashion/Girls-Hoodies-%26-Sweat-jackets/category/148/outlet/1/">Hoodies &amp; Sweat jackets</a></li><li><a href="/en/products/index/fashion/Girls-Long-Sleeve-Pyjama/category/151/outlet/1/">Long Sleeve Pyjama</a></li>								</ul>
+							</div>
+					                        <div class="nav-col">
+                        <h4 class="nav-sub">Accessories</h4>
+							<ul>
+								<li><a href="/en/products/index/fashion/Accessories-Shoes/category/109/outlet/1/">Shoes</a></li><li><a href="/en/products/index/fashion/Accessories-Socks/category/163/outlet/1/">Socks</a></li>							</ul>
+                        </div>
+                						</div>
+					</li>
+				</ul>
+			</nav>
+
+			<!-- licenses Slider -->
+						<!-- licenses Slider -->
+<span style="position:relative;right:40px">
+
+</span>
+			
+
+		</div><!-- wrapper -->
+	</div><!-- wrapper-inner -->
+
+
+	<section class="bottom-panel">
+		<div class="holder">
+			<form action="/en/customers/newsletter/" class="newsletter-form">
+				<fieldset>
+					<h2><a href="/en/customers/newsletter/">Newsletter</a></h2>
+					<p>I wish to get the newsletter by email</p>
+					<input type="text" name="first_name" value="Your name" class="text">
+					<input type="email" name="email" value="Your email" class="text">
+					<input type="submit" value="Send" class="submit">
+				</fieldset>
+			</form><!-- newsletter-form -->
+			<div class="box">
+                                				<h2><a href="/en/help/">Order Assistance</a></h2>
+				<ul class="contact-list">
+				                                        <li class="hotline" style="position:relative;left:-5px;">Customer Service :<mark><div style="font-size:16px;">+49-2173-10939-777 </div></mark></li>
+
+										<li class="mail" style="position:relative;left:-5px;">
+													<a href="mailto:support@lamaloli.com">support@lamaloli.com</a>
+											</li>
+					<!--<li class="facebook"><a target="_blank" href="http://www.facebook.com/LamaLoLi">Find us on Facebook</a></li>-->
+					<!--<li class="twitter"><a target="_blank" href="http://www.twitter.com/lamaloli">Find us on Twitter</a></li>-->
+					<li style="background: url(http://cdn.lamaloli.com/v3/images/icon-chart.png) no-repeat;background-size: 18px 15px;position:relative;left:-5px;"><a href="/en/size-chart/">Measurement chart</a></li>
+					<li class="site" style="position:relative;left:-5px;"><a href="http://wholesale.lamaloli.com/en/" target="_blank">wholesale.lamaloli.com</a></li>
+									</ul>
+			</div><!-- box -->
+			<div class="box">
+				<h2><a href="/en/secure-payment/">Secure Shopping</a></h2>
+				<ul class="contact-list">
+                                								<li style="background: url(http://cdn.lamaloli.com/images/secured_payment/puce.png) no-repeat;position:relative;left:-10px;padding:0 0 10px 20px;">Return within 14 days</li>
+				<li style="background: url(http://cdn.lamaloli.com/images/secured_payment/puce.png) no-repeat;position:relative;left:-10px;padding:0 0 10px 20px;">Customer protection</li>
+				<li style="background: url(http://cdn.lamaloli.com/images/secured_payment/puce.png) no-repeat;position:relative;left:-10px;padding:0 0 10px 20px;">Secure payment SSL</li>
+				<li style="background: url(http://cdn.lamaloli.com/images/secured_payment/puce.png) no-repeat;position:relative;left:-10px;padding:0 0 10px 20px;">Data protection</li>
+                                				</ul>
+			</div><!-- box -->
+			<div class="box">
+				<h2><a href="/en/secure-payment/">Payment options</a></h2>
+                                                                								<ul class="">
+                                   					<li style="margin-top:5px;vertical-align:bottom;">
+					
+						<img style="position:relative;left:-5px;" src="http://cdn.lamaloli.com/v3/images/bloc-payment-en.png" alt="Bloc-payment-en">					</li>
+                                     				</ul>
+			</div><!-- box -->
+			<div class="box">
+				<h2><a href="/en/shipping/">Delivery</a></h2>
+                                				<ul class="logos-list">
+				<li style="background: url(http://cdn.lamaloli.com/images/secured_payment/puce.png) no-repeat;position:relative;left:-5px;padding:0 0 10px 20px; width:190px;">Fast delivery: 48-72h</li>
+                                                                                                                      <li style="background: url(http://cdn.lamaloli.com/images/secured_payment/puce.png) no-repeat;position:relative;left:-5px;padding:0 0 0px 20px;">Shipping cost: 5.95&nbsp;€</li>
+                                <li style="position:relative;left:15px;font-size:10px;">to United Kingdom(UK)</li>
+                                                    
+					<li>
+						<img src="http://cdn.lamaloli.com/v3/images/DHL_ship.png" alt="image description" width="150" height="50">
+											</li>
+												</ul>
+			</div><!-- box -->
+		</div>
+
+
+<div id="fastSignIn" style="display:none;">
+<div id="newsletter__container" style="top:0; left:0; width:100%;height:100%;position:fixed;z-index:100;
+background-color: rgba(0,0,0,0.5);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000,endColorstr=#99000000);">
+      
+<style>
+	#div_popup_newltr
+	{
+		width: 593px;
+		height: 520px; 
+		position:absolute; 
+		top: 50%; 
+		left: 50%; 
+		margin-top: -200px; 
+		margin-left: -300px;
+		text-align:left; 
+		background-color:transparent;
+
+		border-color:transparent;
+				
+		border-width: 10px;
+		border-style:none;
+	}
+	#alert_news_div
+	{
+		width:564px;
+		padding:0;
+		margin:0;
+		position:absolute;
+		top:30px;
+		left:20px;
+		vertical-align: middle;
+		margin-top: 3px;
+	}
+</style>
+	<div id="div_popup_newltr" style="top:20%;margin-top:0px;margin-left:-295px;">
+		<div id="popupContact" style="display:block;height:auto;">
+				<div style="float:right;font-size:large;cursor:pointer;margin-top:-20px;" onclick="closePU();">X</div>  
+				<h3>Sign In</h3>
+				
+				
+									
+					
+						
+					 
+					<p>Use this social login for fast login/registration:</p>
+				<br>
+				<div id="loginDiv3"></div>
+				<script type="text/javascript">
+				
+					
+				gigya.socialize.showLoginUI({height: 50
+						,width: 460
+						
+						,showTermsLink:false // remove 'Terms' link
+						,hideGigyaLink:true // remove 'Gigya' link
+						,buttonsStyle: 'fullLogoColored' // Change the default buttons design to "Full Logos" design
+						,showWhatsThis: false // Pop-up a hint describing the Login Plugin, when the user rolls over the Gigya link.
+						,containerID: 'loginDiv3' // The component will embed itself inside the loginDiv Div 
+						,cid:''
+						 ,redirectURL: "http://lamaloli.com/en/customers/gigyaLogin/"
+						
+						,showTermsLink:false, hideGigyaLink:true // remove 'Terms' and 'Gigya' links
+							});
+						  /*,redirectURL: "http://lamaloli.com/en/customers/gigyaLogin/"*/
+				</script>
+				<br>
+								<form method="post" action="/en/customers/signIn/">
+						<fieldset><font size="4">
+						Email Address<br>
+						<input type="email" name="email_fl" class="text" value="" id="email_fl">
+						Password 
+						<input type="password" name="password_fl" class="text" id="password_fl">
+					<div id="payment-footer" class="clearfix">
+							
+							
+							<a class="payment-back" style="background-repeat:no-repeat;cursor:pointer;background-size:100% 31px;float:right;" onclick="checkLogin();">Sign In</a>
+							<span style="float:left;">Are you a new customer? &nbsp;<a style="text-decoration:underline;" href="/en/customers/signIn/">Register now!</a></span>
+							
+						</div><!-- end submit-holder -->
+						
+						</font></fieldset>
+						<ul class="links" style="top:0px;margin-left:-10px;">
+								<li> <a href="/en/customers/retrievePassword/">forgot your password?</a></li>
+                <li><a target="popup" onclick="wopen('/en/index/administrative/content/privacy-notice/', 'popup', 640, 480); return false;" href="http://lamaloli.com/en/customers/signIn/#">Privacy Notice</a></li>
+
+							</ul>
+
+					</form>
+				</div>
+	</div>
+</div>
+<script>
+	
+
+	function checkLogin()
+	{
+		$.post('/en/customers/enter/from/fastsignin/',{email:$('#email_fl').val(),password:$('#password_fl').val()},function(data2)
+		{	
+			data2=data2.replace(/(\r\n|\n|\r)/gm,"");
+	 		if(data2=='yes')
+	 		{
+		 		//succeed signing in
+		 		document.getElementById('fastSignIn').style.display='none';
+		 		
+		 		$.post('/en/',{},function(data)
+		 		{
+			 		window.location.reload();	
+		 		});
+	 		}
+	 		else
+	 		{
+
+		 		window.location.replace("/en/customers/enter/");
+	 		}
+		});
+	}
+	function closePU()
+	{
+		document.getElementById('fastSignIn').style.display='none';
+	}
+	function wopen(url, name, w, h)
+{
+// Fudge factors for window decoration space.
+ // In my tests these work well on all platforms & browsers.
+w += 32;
+h += 96;
+ var win = window.open(url,
+  name,
+  'width=' + w + ', height=' + h + ', ' +
+  'location=no, menubar=no, ' +
+  'status=no, toolbar=no, scrollbars=yes, resizable=no');
+ win.resizeTo(w, h);
+ win.focus();
+}
+
+</script>
+
+</div>
+	
+
+  <hr width="62%" style="color:#b6b6b6;">
+
+ <div class="holder">        
+<div class="" style="text-align:center;">
+                                                                                                <span>
+            <h1 style="font-size:12px; font-style: normal;line-height:22px;color:#333333!important; margin:0 0 5px;">LamaLoLi.com : baby, girl, boy clothes -  Kid's fashion online store (t-shirt, underwear, pyjama, hoodies-sweat jackets…)</h1>
+            <h2 style="font-size:12px;color:#333333;font-weight:200;margin:0 0 5px;">All major brands for kids clothes : Monster High, Disney Cars, Hello Kitty, Skylanders, Angry Birds Star Wars, Mario, Barbie...</h2>
+                                <p style="color:#333;line-height:18px;font-size:12px;">Find in our shop a selection of Monster High clothes, Mario t-shirts, Disney Minnie pyjamas, Barbie clothing sets, Disney Cars clothes, Barbie dresses, Skylanders clothes, Star Wars t-shirts, Skylanders swimwears.</p></span>
+                               <br>
+                                                                                       </div><!-- end text-holder -->
+</div>
+	</section><!-- bottom-panel -->
+	<footer>
+		<ul>
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+            
+
+<li><a style="" target="" href="/en/">Home</a></li>
+<li><a style="" target="" href="/en/customers/viewAccount/">My Account</a></li>
+<li><a style="" target="" href="/en/help/">Help</a></li>
+<li><a style="" target="" href="/en/customers/contactUs/">Contact Us</a></li>
+<li><a style="" target="" href="/en/legal-notice/">Legal Notice</a></li>
+<li><a style="" target="" href="/en/licenses/">Our Licenses</a></li>
+<li><a style="" target="" href="/en/terms_and_conditions/">Terms and Conditions</a></li>
+<li><a style="" target="" href="/en/privacy_notice/">Privacy Notice</a></li>
+<li><a style="" target="" href="/en/about-us/">About Us</a></li>
+<li><a style="" target="_target" href="http://wholesale.lamaloli.com/en/">wholesale</a></li>
+                 <li><a target="_blank" href="http://www.facebook.com/LamaLoLi"><img src="http://cdn.lamaloli.com/v3/images/bg-item3.gif"></a></li>
+                                        <li><a target="_blank" href="http://www.twitter.com/lamaloli"><img src="http://cdn.lamaloli.com/v3/images/bg-item4.gif"></a></li>
+            		</ul>
+		<div class="holder">
+                  <p>
+© 2006 - 2014 LamaLoLi.com or its affiliates.
+     All rights reserved. LamaLoLi and the LamaLoLi logo are trademarks of LamaLoLi.com or its affiliates.</p>
+		</div>
+	</footer>
+<input type="hidden" name="culture_cookie" id="culture_cookie" value="">
+<input type="hidden" name="culture" id="culture" value="en">
+
+<script>
+$(document).ready(function(){
+
+   
+
+ //alert('val_cook'+$('#culture_cookie').val()+' culture='+$('#culture').val());
+ if($('#culture_cookie').val()!=$('#culture').val())
+ {
+   //alert('coucou');
+   $.post('/en/index/ajaxSetCookieCulture/',{lg:$('#culture').val()},function(data){
+     //if(data)
+     //alert('data='+data);
+   });
+
+ }
+
+ 	$('#navigation li.hasdrop').hover(function(e){
+		var $this = $(this);
+		setTimeout(function(){
+			if ($(e.target).is(':hover')) {
+				$this.find('div.drop').show();
+			}
+		},250);
+	},function(){
+		if ($(this).find('div.drop').is(':visible')){
+			$(this).find('div.drop').hide();
+		}
+	});
+	});
+ function fifa_popup()
+ {
+   if(!gcookie('fifa'))
+   {
+     scookie('fifa','fifa',10);
+   $('#newsletter_login_container').show();
+   }
+ }
+
+ function reset_cookie()
+ {
+   document.cookie='lamaloli_preferred_language=to_modify;expires='+new Date( new Date().getTime()+86400000*30 ).toGMTString()+';path=/';
+ }
+
+</script>
+  <script type="text/javascript">
+        <!--
+            function scookie(name,value,days)
+            {
+                var expire=new Date();
+                expire.setDate(expire.getDate()+days);
+                document.cookie=name+'='+escape(value)+';expires='+expire.toGMTString();
+                return true;
+            }
+            function gcookie(name)
+            {
+                if(document.cookie.length>0)
+                {
+                    start=document.cookie.indexOf(name+"=");
+                    pos = start+name.length+1;
+                    if(start!=0)
+                    {
+                        start=document.cookie.indexOf("; "+name+"=");
+                        pos = start+name.length+3;
+                    }
+                    if(start!=-1)
+                    { 
+                        start=pos;
+                        end=document.cookie.indexOf(";",start);
+                        if(end==-1)
+                        {
+                            end=document.cookie.length;
+                        }
+                        return unescape(document.cookie.substring(start,end));
+                    } 
+                }
+                return '';
+            }
+        -->
+        </script>
+
+<script type="text/javascript"> var cbarProtocol = (("https:" == document.location.protocol) ? "https://" : "http://");document.write(unescape("%3Cscript src='" + cbarProtocol + "s3.amazonaws.com/cdn.barilliance.com/lamaloli.com/cbar.js.php'  type='text/javascript'%3E%3C/script%3E"));</script><script src="https://s3.amazonaws.com/cdn.barilliance.com/lamaloli.com/cbar.js.php" type="text/javascript"></script>
+
+<!-- including here google dynamical remarketing -->
+
+
+
+<script type="text/javascript">
+var google_tag_params = {
+pagetype:'',
+prodid:'',
+pvalue:'',
+pcat:'',
+pname:'',
+use_case:'retail'
+};
+</script>
+<!-- Google Code for Liste LLL home -->
 <!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
 <script type="text/javascript">
 /* <![CDATA[ */
 var google_conversion_id = 985816735;
-var google_conversion_label = "0ycPCJmU4gQQn72J1gM";
+var google_conversion_label = "IXJqCOnXmgUQn72J1gM";
 var google_custom_params = window.google_tag_params;
 var google_remarketing_only = true;
 /* ]]> */
@@ -35,310 +1178,14 @@ var google_remarketing_only = true;
 </script>
 <noscript>
 <div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/985816735/?value=0&amp;label=0ycPCJmU4gQQn72J1gM&amp;guid=ON&amp;script=0"/>
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/985816735/?value=0&amp;label=IXJqCOnXmgUQn72J1gM&amp;guid=ON&amp;script=0"/>
 </div>
 </noscript>
-        <meta name="google-site-verification" content="qQuDADAOIRr9fYp2tbhpcnduB0nrLKDNVV8n-dPPp3c">
-
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-
-	<script type="text/javascript" src="/v2/js/jquery-1.7.1.min.js"></script>
-	<script type="text/javascript" src="/v2/js/jquery.cycle.all.min.js"></script>
-	<!--<script type="text/javascript" src="/v2/js/fadeBlock.js"></script>-->
-	<script type="text/javascript" src="/v2/js/scripts.js"></script>
-	<!--[if lt IE 9]><link rel="stylesheet" type="text/css" href="css/ie.css" media="screen"/><![endif]-->
-<script type="text/javascript" src="https://use.typekit.com/koq6uot.js"></script>
-<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-         <link rel="Shortcut Icon" href="http://tests.lamaloli.com/favicon.ico" type="Image/x-icon">
-
-<link rel="alternate" hreflang="de" href="http://lamaloli.com/de/privacy_notice/">
-<link rel="alternate" hreflang="fr" href="http://lamaloli.com/fr/privacy_notice/">
-<script type="text/javascript" src="/js/ajax_indicator.js"></script>
-<link rel="stylesheet" type="text/css" media="screen" href="/css/v2/css/styles.13.css">
-<link rel="stylesheet" type="text/css" media="screen" href="/css/v2/css/form.1.css">
-<script type="text/javascript" charset="iso-8859-1" src="https://server.iad.liveperson.net/hcp/html/mTag.js?site=89274665"></script></head>
-<body itemscope="" itemtype="http://schema.org/WebPage">
-	<div class="wrapper">
-		<div id="header">
-			<div class="logo"><a href="http://lamaloli.com/en/">LamaLoli</a></div>
-			<div class="block" style="width:800px">
-                          	<div class="search-form">
-					<form method="post" action="/en/products/">						<fieldset>
-							<label for="lb-001">Search</label>
-							<input type="text" class="text" name="q" value="" id="lb-001">
-							<input type="submit" class="submit" value="submit">
-						</fieldset>
-					</form>
-				</div><!-- end search-form -->
-				<strong class="phone"><img src="/v2/images/img-01.jpg" width="19" height="26" alt="#">0800-10939-77</strong>
-				<ul class="logos">
-					<li><a href="https://www.trustedshops.com/shop/certificate.php?shop_id=XE9846A2DA69F57280C7148C54406CC01" target="_blank"><img src="/v2/images/img-02.jpg" width="32" height="32" alt="#"></a></li>
-			<!--		<li><a href="#"><img src="/v2/images/img-03.jpg" width="32" height="32" alt="#" /></a></li>-->
-				</ul><!-- end logos -->
-                      <span style="position:relative;float:right;">
-			<ul class="login-nav">
-				<li><!--Welcome -->
-                                                              <span>Guest</span>
-                                                                   </li>
-				<li><a href="/en/customers/viewAccount/">Sign In</a></li>
-			</ul><!-- end login-nav -->
-        
-				<strong class="items"><a href="/en/checkout/viewCart/">in my cart(<em id="items_count">0</em>)</a></strong>
-                         </span>
-				<div class="basket-block">
-					<!--<a href="/en/checkout/viewCart/" class="btn">VIEW BASKET</a>-->
-					<div id="anibox">
-					</div><!-- end div -->
-				</div><!-- end basket-block -->
-			</div><!-- end block -->
-		</div><!-- end header -->
-    		<div class="nav-area">
-                           <ul class="nav">
-                                                                           
-                                                                                                        
-                                                   
-                        <li class="off">
-                        <a class="trigger" href="/en/Boy%27s/77/">Boy's</a>                                           <div>
-                                <ul>
-                                                                                                                        <li><a href="/en/Boy%27s-Short-Sleeve-T-shirts/80/">Short Sleeve T-shirts</a></li>
-                                                                                                                        <li><a href="/en/Boy%27s-Shirts-%26-vests/81/">Shirts &amp; vests</a></li>
-                                                                                                                        <li><a href="/en/Boy%27s-Long-sleeve-T-shirts/82/">Long-sleeve T-shirts</a></li>
-                                                                                                                        <li><a href="/en/Boy%27s-Jackets/86/">Jackets</a></li>
-                                                                                                                        <li><a href="/en/Boy%27s-Underwear/88/">Underwear</a></li>
-                                                                                                                        <li><a href="/en/Boy%27s-Pyjamas/89/">Pyjamas</a></li>
-                                                                                                                        <li><a href="/en/Boy%27s-Swimwear/90/">Swimwear</a></li>
-                                                                                                                        <li><a href="/en/Boy%27s-Clothing-Sets/145/">Clothing Sets</a></li>
-                                                                                                                                                                <li class="last"><!--  space --></li>
-                                                                        </ul>
-                        </div>
-                        
-                        </li>
-                        
-                                                                           
-                                                   
-                        <li class="off">
-                        <a class="trigger" href="/en/Girl%27s/78/">Girl's</a>                                           <div>
-                                <ul>
-                                                                                                                        <li><a href="/en/Girl%27s-Short-Sleeve-T-Shirts/92/">Short Sleeve T-Shirts</a></li>
-                                                                                                                        <li><a href="/en/Girl%27s-Long-sleeve-T-shirts/94/">Long-sleeve T-shirts</a></li>
-                                                                                                                        <li><a href="/en/Girl%27s-Dresses-%26-Skirts/95/">Dresses &amp; Skirts</a></li>
-                                                                                                                        <li><a href="/en/Girl%27s-Jackets/99/">Jackets</a></li>
-                                                                                                                        <li><a href="/en/Girl%27s-Nightwear/102/">Nightwear</a></li>
-                                                                                                                        <li><a href="/en/Girl%27s-Swimwear/103/">Swimwear</a></li>
-                                                                                                                        <li><a href="/en/Girl%27s-Clothing-Sets/146/">Clothing Sets</a></li>
-                                                                                                                                                                <li class="last"><!--  space --></li>
-                                                                        </ul>
-                        </div>
-                        
-                        </li>
-                        
-                                                                           
-                                                   
-                        <li class="off">
-                        <a class="trigger" href="/en/Babies/113/">Babies</a>                     
-                        </li>
-                        
-                                                                           
-                                                   
-                        <li class="off">
-                        <a class="trigger" href="/en/Women%27s/119/">Women's</a>                                           <div>
-                                <ul>
-                                                                                                                        <li><a href="/en/Women%27s-T-Shirts/120/">T-Shirts</a></li>
-                                                                                                                                                                <li class="last"><!--  space --></li>
-                                                                        </ul>
-                        </div>
-                        
-                        </li>
-                        
-                                                                           
-                                                   
-                        <li class="off">
-                        <a class="trigger" href="/en/Men%27s/133/">Men's</a>                                           <div>
-                                <ul>
-                                                                                                                        <li><a href="/en/Men%27s-T-Shirts/134/">T-Shirts</a></li>
-                                                                                                                                                                <li class="last"><!--  space --></li>
-                                                                        </ul>
-                        </div>
-                        
-                        </li>
-                        
-                                                                                                                           
-                                                                                                        
-                        
-                                                                           
-                        
-                                                                        <li class="off">
-                        <a class="trigger" href="/en/Accessories/79/">Accessories</a>                                               <div>
-                                <ul>
-                                                                                                                        <li><a href="/en/Accessories-Bags/55/">Bags</a></li>
-                                                                                                                        <li><a href="/en/Accessories-Caps-%26-headbands/106/">Caps &amp; headbands</a></li>
-                                                                                                                                                                <li class="last"><!--  space --></li>
-                                                                        </ul>
-                        </div>
-                                               </li>
-                                                                                      </ul>
-			<ul class="add-nav">
- <li style="height:20px;width:120px;"><img src="/v2/images/img-04.jpg" width="34" height="19" alt="#"><a href="#" style="width:80px;">Our Brands</a>
-   <select size="0" style="cursor: pointer !important;height:31px !important;position:relative;right:5px;opacity:0; z-index: 10;top:-30px;" name="license" id="license" onchange="submit_license_layout(this);">
-                                <option value="">Our Licenses</option>
-                                <option value="view-all-brands">view all brands</option>
-                                                                        <option value="Angry Birds Star Wars">Angry Birds Star Wars</option>
-                                                                        <option value="Bakugan">Bakugan</option>
-                                                                        <option value="Barbie">Barbie</option>
-                                                                        <option value="Batman">Batman</option>
-                                                                        <option value="BEN 10">BEN 10</option>
-                                                                        <option value="Beyblade">Beyblade</option>
-                                                                        <option value="Bob the Builder">Bob the Builder</option>
-                                                                        <option value="Disney Bambi">Disney Bambi</option>
-                                                                        <option value="Disney Cars">Disney Cars</option>
-                                                                        <option value="Disney Daisy">Disney Daisy</option>
-                                                                        <option value="Disney Dalmatians">Disney Dalmatians</option>
-                                                                        <option value="Disney Marie">Disney Marie</option>
-                                                                        <option value="Disney Mickey">Disney Mickey</option>
-                                                                        <option value="Disney Minnie">Disney Minnie</option>
-                                                                        <option value="Disney Phineas and Ferb">Disney Phineas and Ferb</option>
-                                                                        <option value="Disney Princess">Disney Princess</option>
-                                                                        <option value="Disney Tigger">Disney Tigger</option>
-                                                                        <option value="Disney Tinker Bell">Disney Tinker Bell</option>
-                                                                        <option value="Disney Winnie the Pooh">Disney Winnie the Pooh</option>
-                                                                        <option value="Gormiti">Gormiti</option>
-                                                                        <option value="Hello Kitty">Hello Kitty</option>
-                                                                        <option value="Hot Wheels">Hot Wheels</option>
-                                                                        <option value="Jungle Book">Jungle Book</option>
-                                                                        <option value="Looney Tunes">Looney Tunes</option>
-                                                                        <option value="Monster High">Monster High</option>
-                                                                        <option value="Mr Man &amp; Little Miss">Mr Man &amp; Little Miss</option>
-                                                                        <option value="My Little Pony">My Little Pony</option>
-                                                                        <option value="Paul Frank">Paul Frank</option>
-                                                                        <option value="Pokémon">Pokémon</option>
-                                                                        <option value="Skylanders">Skylanders</option>
-                                                                        <option value="Spiderman">Spiderman</option>
-                                                                        <option value="Sponge Bob">Sponge Bob</option>
-                                                                        <option value="Star Wars-The Clone Wars">Star Wars-The Clone Wars</option>
-                                                                        <option value="Super Mario">Super Mario</option>
-                                                                        <option value="Superman">Superman</option>
-                                                                        <option value="The Muppets">The Muppets</option>
-                                                                        <option value="The Smurfs">The Smurfs</option>
-                                                                        <option value="Thomas">Thomas</option>
-                                                                        <option value="Transformers">Transformers</option>
-                                                                        <option value="Zhu Zhu Pets">Zhu Zhu Pets</option>
-                                                        </select>
-
-</li>
-				<li><a href="/en/products/index/is_on_sale/1/"><img src="/v2/images/img-05.jpg" width="39" height="19" alt="#">Sales</a></li>
-				<li><a href="/en/products/index/recent/90/"><img src="/v2/images/img-06.jpg" width="18" height="19" alt="#">New</a></li>
-				<li><a href="/en/products/index/season/winter-12/"><img src="/v2/images/winter.jpg" width="22" height="19" alt="">Winter 12</a></li>
-				<li><a href="/en/customers/newsletter/">Newsletter</a></li>
-			</ul><!-- end add-nav -->
-		</div><!-- end nav-area -->
-                    <span id="indicator" class="indicator" style="display:none;"><img src="/images/wait.gif" alt="Wait"></span>
-                <span id="ajax_span">
-                   
- <ul class="breadcrumbs">
-      
-
-      <li><a href="/en">Home</a></li>  
-            <li>Privacy notice</li>
-       </ul>
-
-		<div id="main">
-				<div id="content">
-					
-                <div class="dashboard">
-		<h2>Privacy notice</h2>
-		<p>&nbsp;</p>
-                <!--<div class="column-l" style="width:700px;">-->
-	<p>	</p><p>&nbsp;</p><div style="line-height: 150%; text-indent: -18pt; margin: 0cm 0cm 6pt 18pt"><font face="Verdana"><strong><span style="line-height: 150%; font-size: 10pt">1.<span style="font: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp; </span></span></strong><strong><span style="line-height: 150%; font-size: 10pt">Purpose for Information Collection and Usage</span></strong></font></div><div style="line-height: 150%; margin: auto auto 6pt"><font face="Verdana"><span style="line-height: 150%; font-size: 10pt">Protection of you data is important.</span><span style="line-height: 150%; font-size: 10pt">Thus, we strictly abide to the legal regulations of the Federal Data Protection Act (Bundesdatenschutzgesetz) and the Tele Media Act (Telemediengesetz) when collecting, processing and using your personal data.</span><span style="line-height: 150%; font-size: 10pt">In general, you can visit our Website, without leaving any personal data behind.</span><span style="line-height: 150%; font-size: 10pt">But in some cases we require your information:</span></font></div><ul type="disc" style="margin-top: 0cm">    <li><span style="font-size: 10pt"><font face="Verdana">for a seamless order and delivery process,</font></span></li>    <li><span style="font-size: 10pt"><font face="Verdana">when contacting us, </font></span></li>    <li><span style="font-size: 10pt"><font face="Verdana">when you use your costumer account,</font></span></li>    <li><span style="font-size: 10pt"><font face="Verdana">for competitions,</font></span></li>    <li><span style="font-size: 10pt"><font face="Verdana">for signing up for the newsletter.</font></span></li></ul><div style="line-height: 150%; margin: auto auto 6pt"><font face="Verdana">&nbsp;</font></div><div style="line-height: 150%; margin: auto auto 6pt"><span style="line-height: 150%; font-size: 10pt"><font face="Verdana">In detail, we use your personal data to process orders, to deliver the goods, to check creditworthiness, to process payment, and to be able to inform you about orders, products, services and special offers.</font></span></div><div style="line-height: 150%; margin: auto auto 6pt"><font face="Verdana"><span style="line-height: 150%; font-size: 10pt">In order to process orders, we store your data and, if necessary, forward them for this purpose to other companies, e.g. our suppliers, who will deliver the goods to you.</span><span style="line-height: 150%; font-size: 10pt">The recipient of these forwarded data may use them only to fulfill his task.</span><span style="line-height: 150%; font-size: 10pt">Any other data usage is not permitted.</span></font></div><div style="line-height: 150%; margin: auto auto 6pt"><span style="line-height: 150%; font-size: 10pt"><font face="Verdana">In order to check creditworthiness during our business relationship, we might send address and credit data to SCHUFA 65203 Wiesbaden or other Business Information Services.</font></span></div><div style="line-height: 150%; margin: auto auto 6pt"><font face="Verdana"><span style="line-height: 150%; font-size: 10pt">Furthermore, address and order data is collected and processed for our own marketing purposes.</span><span style="line-height: 150%; font-size: 10pt">Third party marketing entities will only receive data permitted by law (publicized specific and summarized data lists according to § 28 Abs. 3 Nr. 3 Federal Data Protection Act (Bundesdatenschutzgesetz) or with your explicit permission.</span></font></div><div style="line-height: 150%; margin: auto auto 6pt"><font face="Verdana"><span style="line-height: 150%; font-size: 10pt">Naturally, you may retract your permission for using, processing and forwarding data for marketing purposes at any time by sending us such notice.</span><span style="line-height: 150%; font-size: 10pt">You may do so by send a message by mail LamaLoLi GmbH or via E-mail to <a href="mailto:info@lamaloli.com">support@lamaloli.com</a>.</span></font></div><div style="line-height: 150%; margin: auto auto 6pt"><font face="Verdana">&nbsp;</font></div><div style="line-height: 150%; margin: auto auto 6pt"><strong><font face="Verdana">&nbsp;</font></strong></div><div style="line-height: 150%; text-indent: -18pt; margin: 0cm 0cm 6pt 18pt"><font face="Verdana"><strong><span style="line-height: 150%; font-size: 10pt">2.<span style="font: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp; </span></span></strong><strong><span style="line-height: 150%; font-size: 10pt">SSL (Secure Socket Layer)</span></strong></font></div><div style="line-height: 150%; margin: auto auto 6pt"><font face="Verdana"><span style="line-height: 150%; font-size: 10pt">In order to protect you personal data from unauthorized third party access, it is protected by SSL (Secure Socket Layer), which is used as standard, when sensitive data is transmitted.</span><span style="line-height: 150%; font-size: 10pt">Thus, we might ask you to provide a proof of identity, before you will be able to view your personal information.</span><span style="line-height: 150%; font-size: 10pt">The access to your customer account is protected by entering your password.</span></font></div><div style="line-height: 150%; margin: auto auto 6pt"><font face="Verdana"><span style="line-height: 150%; font-size: 10pt">By using the SSL technology, before transmission to the server, your data is encrypted in such manner that third parties are not able to read them.</span><span style="line-height: 150%; font-size: 10pt">Furthermore, during this encryption process it is made sure that your data is only sent to the server that has request them from you.</span><span style="line-height: 150%; font-size: 10pt">As soon as your data arrives on our server, they are validated for completeness and that they were not altered.</span></font></div><div style="line-height: 150%; margin: auto auto 6pt"><span style="line-height: 150%; font-size: 10pt"><font face="Verdana">If you use the Internet Explorer as your browser, you will detect encrypted data transmission by the yellow lock symbol in the bottom browser bar.</font></span></div><div style="line-height: 150%; margin: auto auto 6pt"><font face="Verdana">&nbsp;</font></div><div style="line-height: 150%; text-indent: -18pt; margin: 0cm 0cm 6pt 18pt"><font face="Verdana"><strong><span style="line-height: 150%; font-size: 10pt">3.<span style="font: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp; </span></span></strong><strong><span style="line-height: 150%; font-size: 10pt">Cookies</span></strong></font></div><div style="line-height: 150%; margin: auto auto 6pt"><font face="Verdana"><span style="line-height: 150%; font-size: 10pt">Cookies are alphanumerical identifiers which are saved on the user’s computer when visiting an Internet website.</span><span style="line-height: 150%; color: black; font-size: 10pt">Cookies cannot transfer viruses, cannot read hard drive data, forward your e-mail address and forward e-mails undetected or cannot not be read by other web servers</span><span style="line-height: 150%; font-size: 10pt">.</span></font></div><div style="line-height: 150%; margin: auto auto 6pt"><font face="Verdana"><span style="line-height: 150%; font-size: 10pt">We use Cookies which enable us to make your purchase as comfortable as possible while our System detects your browser and providing you with personalized service.</span><span style="line-height: 150%; font-size: 10pt">No personal data is saved in our Cookies, but the following data:</span></font></div><div style="line-height: 150%; margin: auto auto auto 45.35pt"><span style="line-height: 150%; color: black; font-size: 10pt"><font face="Verdana">The name of our website</font></span></div><div style="line-height: 150%; margin: auto auto auto 45.35pt"><span style="line-height: 150%; color: black; font-size: 10pt"><font face="Verdana">The date of each of your visits</font></span></div><div style="line-height: 150%; margin: auto auto auto 45.35pt"><span style="line-height: 150%; color: black; font-size: 10pt"><font face="Verdana">Marketing information</font></span></div><div style="line-height: 150%; margin: auto auto auto 45.35pt"><span style="line-height: 150%; color: black; font-size: 10pt"><font face="Verdana">Other technical data</font></span></div><div style="line-height: 150%; margin: auto auto auto 45.35pt"><span style="line-height: 150%; color: black; font-size: 10pt"><font face="Verdana">A string that cannot be connected to you</font></span></div><div style="line-height: 150%; margin: auto auto auto 45.35pt"><span style="line-height: 150%; color: black; font-size: 10pt"><font face="Verdana">The first creation date of the Cookie<br></font></span><font face="Verdana">&nbsp;</font></div><div style="line-height: 150%; text-indent: -18pt; margin: 0cm 0cm 6pt 18pt"><font face="Verdana"><strong><span style="line-height: 150%; font-size: 10pt">4.<span style="font: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp; </span></span></strong><strong><span style="line-height: 150%; font-size: 10pt">Content liability</span></strong></font></div><div style="line-height: 150%; margin: auto auto 6pt"><font face="Verdana"><span style="line-height: 150%; font-size: 10pt">The content of our pages is created with utmost care.</span><span style="line-height: 150%; font-size: 10pt">But we do not assume responsibility for the correctness, completeness and timeliness of the content.</span></font></div><div style="line-height: 150%; margin: auto auto 6pt"><font face="Verdana"><span style="line-height: 150%; font-size: 10pt">As a service provider we are liable for our own content on theses pages according to the law, § 7 Abs.1 TMG.</span><span style="line-height: 150%; font-size: 10pt">But according to §§ 8 to 10 TMG we, as a service provider, are not obliged to supervise transmitted or stored third party information or to investigate circumstances which point to illegal activity.</span><span style="line-height: 150%; font-size: 10pt">Obligations to remove or inhibit the use of information according to the law remains untouched.</span><span style="line-height: 150%; font-size: 10pt">Such a liability is only possible from the time receiving knowledge of a specific legal violation.</span><span style="line-height: 150%; font-size: 10pt">We will remove such content immediately at the time we receive knowledge of such legal violation.</span></font></div><div style="line-height: 150%; margin: auto auto 6pt"><font face="Verdana">&nbsp;</font></div><div style="line-height: 150%; text-indent: -18pt; margin: 0cm 0cm 6pt 18pt"><font face="Verdana"><strong><span style="line-height: 150%; font-size: 10pt">5.<span style="font: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp; </span></span></strong><strong><span style="line-height: 150%; font-size: 10pt">Liability for Links</span></strong></font></div><div style="line-height: 150%; margin: auto auto 6pt"><font face="Verdana"><span style="line-height: 150%; font-size: 10pt">Our publication contains Links to external third party websites, on which we have no influence on the content.</span><span style="line-height: 150%; font-size: 10pt">Thus we are not liable for such third party content.</span><span style="line-height: 150%; font-size: 10pt">Each supplier and provider of the linked pages is responsible for them.</span></font></div><div style="line-height: 150%; margin: auto auto 6pt"><font face="Verdana">&nbsp;</font></div><div style="line-height: 150%; text-indent: -18pt; margin: 0cm 0cm 6pt 18pt"><font face="Verdana"><strong><span style="line-height: 150%; font-size: 10pt">6.<span style="font: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp; </span></span></strong><strong><span style="line-height: 150%; font-size: 10pt">Copyright</span></strong></font></div><div style="line-height: 150%; margin: auto auto 6pt"><font face="Verdana"><span style="line-height: 150%; font-size: 10pt">The content and work created by the site provider on his pages are governed by German Copyright Law.</span><span style="line-height: 150%; font-size: 10pt">Third party contribution are marked as such.</span><span style="line-height: 150%; font-size: 10pt">Duplication, editing, redistribution and any kind of usage beyond the copyright laws require written approval of each author and/or creator. Downloads and copies of this page is only permitted for private non-commercial use.</span></font></div><div style="line-height: 150%; margin: auto auto 6pt"><span style="line-height: 150%; font-size: 10pt"><font face="Verdana">The site provider always endeavors to heed third party copyrights and/or to use content created by him or license-free content.</font></span></div><p></p>
-                          </div>
-                    
-                                     
-                    
-                    
-                    
-                    
-				</div><!-- end content -->
- <!-- Side Links -->
-
-  <div id="sidebar">
-      <ul class="add-side-nav">
-                    
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
-
-<li><a style="" href="/en/help/">HELP</a><br><br>
-</li><li><a style="" href="/en/customers/contactUs/">CONTACT US</a><br><br>
-</li><li><a style="" href="/en/about-us/">ABOUT US</a><br><br>
-</li><li><a style="" href="/en/licenses/">OUR LICENSES</a><br><br>
-</li><li><a style="" href="/en/terms_and_conditions/">TERMS AND CONDITIONS</a><br><br>
-</li><li><a style="" href="/en/privacy_notice/">PRIVACY NOTICE</a><br><br>
-      </li></ul>
-   </div><!-- end sidebar -->
-<!-- End Side Links -->
-
-		</div><!-- end main -->
-                </span>
-		<div id="footer">
-			<ul class="footer-nav">
-              
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
-                
-
-<li><a style="" href="/en/">HOME</a></li>
-<li><a style="" href="/en/customers/viewAccount/">MY ACCOUNT</a></li>
-<li><a style="" href="/en/help/">HELP</a></li>
-<li><a style="" href="/en/customers/contactUs/">CONTACT US</a></li>
-<li><a style="" href="/en/about-us/">ABOUT US</a></li>
-<li><a style="" href="/en/licenses/">OUR LICENSES</a></li>
-<li><a style="" href="/en/terms_and_conditions/">TERMS AND CONDITIONS</a></li>
-<li><a style="" href="/en/privacy_notice/">PRIVACY NOTICE</a></li>
-<li><a style="" href="http://wholesale.lamaloli.com">WHOLESALE</a></li>
-<li class="flag"><a href="/en/index/setCulture/lg/de/"><img width="24" height="24" border="0" alt="flag_germany.png" src="/v2/images/flag_germany.png"></a></li>
-<li class="flag"><a href="/en/index/setCulture/lg/en/"><img width="24" height="24" border="0" alt="flag_eng.png" src="/v2/images/flag_eng.png"></a></li>
-<li class="flag"><a href="/en/index/setCulture/lg/fr/"><img width="24" height="24" border="0" alt="flag_france.png" src="/v2/images/flag_france.png"></a></li>
-<li class="flag"><a target="_blank" href="http://www.facebook.com/LamaLoLi"><img width="24" height="24" border="0" alt="facebook" src="/images/facebook.gif"></a></li>
-			</ul><!-- end footer-nav -->
-			<div class="holder">
-				<a href="#" class="pay"><img src="/v2/images/img-19.jpg" width="85" height="32" alt="#"></a>
-				<ul class="logos">
-                                        <li><a href="https://www.trustedshops.com/shop/certificate.php?shop_id=XE9846A2DA69F57280C7148C54406CC01"><img src="/v2/images/img-02.jpg" width="32" height="32" alt="#"></a></li>
-                                        <li><span id="siteseal"><script type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=h0SDADcDriEl6uLfVosTOWQ43eyFDRXToigdSypG8VVRdRCeGt0RxshVoPu"></script></span></li>
-
-				</ul><!-- end logos -->
-                                 <p>
-© 2006 - 2012 LamaLoLi.com or its affiliates.<br>
-     All rights reserved. LamaLoLi and the LamaLoLi logo are trademarks of LamaLoLi.com or its affiliates.</p>
-			</div><!-- end holder -->
-		</div><!-- end footer -->
-	</div><!-- end wrapper -->
-
-<!-- BEGIN LivePerson Monitor. --><script language="javascript"> var lpMTagConfig = {'lpServer' : "server.iad.liveperson.net",'lpNumber' : "89274665",'lpProtocol' : "https"}; function lpAddMonitorTag(src){if(typeof(src)=='undefined'||typeof(src)=='object'){src=lpMTagConfig.lpMTagSrc?lpMTagConfig.lpMTagSrc:'/hcp/html/mTag.js';}if(src.indexOf('https')!=0){src=lpMTagConfig.lpProtocol+"://"+lpMTagConfig.lpServer+src+'?site='+lpMTagConfig.lpNumber;}else{if(src.indexOf('site=')<0){if(src.indexOf('?')<0)src=src+'?';else src=src+'&';src=src+'site='+lpMTagConfig.lpNumber;}};var s=document.createElement('script');s.setAttribute('type','text/javascript');s.setAttribute('charset','iso-8859-1');s.setAttribute('src',src);document.getElementsByTagName('head').item(0).appendChild(s);} if (window.attachEvent) window.attachEvent('onload',lpAddMonitorTag); else window.addEventListener("load",lpAddMonitorTag,false);</script><!-- END LivePerson Monitor. -->
-
-
-<script language="JavaScript1.2">
-if (typeof(lpMTagConfig) != "undefined"){ lpMTagConfig.defaultChatInvite = "english Invitation";}
-</script>
-<!-- End LivePerson Invitation Override -->
+<!-- end of google dynamical remarketing -->
 
 
 
 <script>
-  function submit_license_layout(lic)
-  {
-    var select = document.getElementById('license');
-    if(lic=='')
-    {
-       select.selectedIndex=0;
-    }
-     //var l=lic.options[lic.selectedIndex].value;
-     var l=select.options[select.selectedIndex].value;
-     // alert('lic='+l+' license='+$('#license').val()+' selected='+select.selectedIndex);
-     if(l=='view-all-brands')
-     {
-        document.location='/'+'en'+'/licenses';
-     }
-     else
-      {
-        document.location='/'+'en'+'/products/index/license/'+ l+'/';
-      }
-  }
+//window.onload=function(){$('.gig-rating-averageRating').css('visibility','hidden');}
 </script>
 </body></html>
