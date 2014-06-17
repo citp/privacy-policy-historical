@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ideas-shared.com privacy policy that was archived on 2013-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131011010526id_/http%3A//ideas-shared.com/index.php%3Fid%3D14) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ideas-shared.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617084231id_/http%3A//ideas-shared.com/privacy-policy) for the most accurate reproduction.*
 
-# Ideas-Shared | Empowers You To Get Direct Action, Investment, Knowledge And Public Support!
+# Ideas-Shared
 
 This privacy policy governs the collection, storage and use of personal information collected by us, Internet-Shared Limited, via the Website Ideas-Shared.Com. It provides you with details about the personal information we collect from you, how we use your personal information and your rights to control personal information we hold about you.  
 
