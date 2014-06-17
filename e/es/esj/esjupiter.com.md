@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esjupiter.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614002343id_/http%3A//www.emailserving.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esjupiter.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617144315id_/http%3A//www.emailserving.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of Our Email Marketing Service | Emailserving.com
 
@@ -53,6 +53,8 @@ This security is reinforced by our use of firewalls protecting all of the Compan
 We send all new members a verification email to verify password and username. Established members who have chosen to receive information on products, services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see our choice and opt-out below. 
 
 ### Administrative Type Email Communications
+
+Please note that we send all new members a verification email to verify password and username. By submitting your email to us when you create an account, your email will be added within our opt-in email contact list. Members will receive periodic emails with information such as newsletters, email promotions on products or services, or special deals, from Emailserving, as well as any companies affiliated with Emailserving as well. If you wish to stop receiving these emails, you can click on the unsubscribe link that’s included with every email or contact us directly.
 
 You will receive administrative emails that are related to the primary usage of our service. You may not opt-out of administrative emails. These administrative emails will not have any marketing, promotional or advertising material(s) in them. 
 
