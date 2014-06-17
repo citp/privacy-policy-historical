@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the straighterline.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217125740id_/http%3A//www.straighterline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the straighterline.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617072952id_/http%3A//www.straighterline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | StraighterLine
 
@@ -46,6 +46,7 @@ Cookies are web code that allow websites to display ads that relate to your inte
     * We use cookies in order to bring you more relevant ads with Google Display and Search Advertising (e.g., Remarketing or Google Display Network Impression Reporting).
     * We use third-party vendors, including Google, in order to show ads on sites across the Internet.
     * StraighterLine along with third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on past visits to our website and to report how ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to our site.
+    * We use data from Google Analytics Demographics, Interest Reporting and 3rd party audience data to help us understand how people find and use our site.
     * Visitors can opt-out of Google Analytics for Display Advertising, customize Google Display Network ads using [Ads Settings](https://www.google.com/settings/ads). Visit [Google Analytics opt-out browser add-on](https://tools.google.com/dlpage/gaoptout/), to learn more.
     * Cookies do not allow the website to access personal information that you haven't already provided.
   6. Our Security Procedures
