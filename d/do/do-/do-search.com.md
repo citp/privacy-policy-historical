@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the do-search.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231070154id_/http%3A//do-search.com/common/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the do-search.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617221416id_/http%3A//www.do-search.com/common/privacy_policy.html) for the most accurate reproduction.*
 
 # do-search.com
 
