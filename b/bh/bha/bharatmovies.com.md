@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bharatmovies.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207035526id_/http%3A//www.bharatmovies.com/sas/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bharatmovies.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617233220id_/http%3A//www.bharatmovies.com/sas/privacy.htm) for the most accurate reproduction.*
 
 # BharatMovies
 
