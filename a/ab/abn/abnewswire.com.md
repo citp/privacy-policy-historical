@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abnewswire.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230184438id_/http%3A//www.abnewswire.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abnewswire.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617211046id_/http%3A//www.abnewswire.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
