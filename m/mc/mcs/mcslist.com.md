@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mcslist.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214204731id_/http%3A//mcslist.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcslist.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617092850id_/http%3A//mcslist.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy,Buy and Sell Classified Ads,Online Classified Advertising
 
