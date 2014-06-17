@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vegetarian-cooking-recipes-tips.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510035249id_/http%3A//www.vegetarian-cooking-recipes-tips.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vegetarian-cooking-recipes-tips.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617214826id_/http%3A//www.vegetarian-cooking-recipes-tips.com/privacy-policy.html) for the most accurate reproduction.*
 
 # vegetarian-cooking-recipes-tips' Privacy Policy
 
@@ -16,7 +16,9 @@ This information is collected if you request information from us, participate in
 
 Once information is reviewed, it is discarded or stored in our files. If we make material changes in the collection of personally identifiable information we will inform you by placing a notice on our site. Personal information received from any visitor will be used only for internal purposes and will not be sold or provided to third parties.
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+We use third-party advertising companies to serve ads on our website. These companies use cookies and web beacons in their ads to ascertain how many times you've seen an advertisement. No personally identifiable information you give us is provided to them for cookie or web beacon use, so they cannot personally identify you with that information from our website.
+
+Some third-party advertisements may be provided by Google, which uses the DoubleClick cookie to serve ads. This cookie enables Google to serve ads to users based on their visits to sites on the Web. You may opt out of the use of the DoubleClick cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/policies/technologies/ads/).
 
 ##  Use of Cookies and Web Beacons 
 
