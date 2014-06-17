@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the onefile.co.uk privacy policy that was archived on 2013-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130814210704id_/http%3A//www.onefile.co.uk/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onefile.co.uk privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617201507id_/http%3A//www.onefile.co.uk/privacy.aspx) for the most accurate reproduction.*
 
 # OneFile Privacy and Cookie Policy
 
 ###  Data Protection Act 1998
 
-Citrus Lounge Limited ("we", "us" or "our" for short) are registered to collect and process personal data under the Data Protection Act 1998 (the "Act" for short). Citrus Lounge Limited are data controllers of your personal information for the purposes of the Act. If you want to know what personal information we hold about you, please write to us at support@onefile.co.uk.
+OneFile Ltd ("we", "us" or "our" for short) are registered to collect and process personal data under the Data Protection Act 1998 (the "Act" for short). OneFile Ltd are data controllers of your personal information for the purposes of the Act. If you want to know what personal information we hold about you, please write to us at support@onefile.co.uk.
 
-We respect and safeguard the privacy of the users of www1.onefile.co.uk ("the website"). This Privacy Policy outlines how we will do this, how we will collect and use your personal information (such as your name, your email address, telephone number or other contact details) and how you can limit our use of this. Please read this Privacy Policy carefully which should be read together with our [website terms and conditions](https://web.archive.org/terms.aspx).
+We respect and safeguard the privacy of the users of www.onefile.co.uk ("the website"). This Privacy Policy outlines how we will do this, how we will collect and use your personal information (such as your name, your email address, telephone number or other contact details) and how you can limit our use of this. Please read this Privacy Policy carefully which should be read together with our [website terms and conditions](https://web.archive.org/terms.aspx).
 
 ###  What information do we gather?
 
@@ -36,7 +36,7 @@ We may use your personal information to:
 
 
 
-You may modify your preferences or get further information by writing to us at Citrus Lounge Limited, One Central Park, Northampton Road, Manchester M40 5WW or by email to support@onefile.co.uk.
+You may modify your preferences or get further information by writing to us at OneFile Ltd, One Central Park, Northampton Road, Manchester M40 5WW or by email to support@onefile.co.uk.
 
 Your wishes will be honoured.
 
