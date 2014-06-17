@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flightnetwork.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206113207id_/http%3A//www.flightnetwork.com/pages/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flightnetwork.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617221840id_/http%3A//www.flightnetwork.com/pages/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy | Flight Network
 
@@ -54,6 +54,15 @@ When you visit or browse our website, we may also collect information that by it
 
 In general, **we** use the Personally Identifiable Information collected on our website to enable you to make travel reservations and other travel related online purchases. When you make a reservation or purchase online with FlightNetwork®, we will share information about you and your purchase with the applicable travel suppliers. We will only provide the necessary information to ensure your travel arrangements are confirmed with these travel suppliers. The travel suppliers will use your credit-card information to process your ticket or reservation. **We** also use the Non-Personally Identifiable Information collected automatically by our servers internally primarily to help us administer and improve our website.
 
+**How Secure Is Your Credit Card Information?**
+
+* We only reveal the last four digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing.
+* It's important for you to protect against unauthorized access to your password and your personal information. Be sure to sign off when you've finished using a shared computer.
+
+**What happens if an unauthorized person uses your credit card?**
+
+* Under the consumer protection legislation in certain provinces in Canada, your bank can hold you liable for fraudulent charges only in an amount of up to $50 or as agreed upon by you and your bank in your credit card agreement, depending on your province of residence. In the event of unauthorized use of your credit card, you must notify your credit card provider in accordance with its reporting rules and procedures.
+
 **WHEN DO WE DISCLOSE THE INFORMATION WE COLLECT?**
 
 **Disclosure of Information  
@@ -88,6 +97,7 @@ We send a variety of email communications to our customers.
   8. All customers that complete a booking on the FlightNetwork® website will automatically have a My FlightNetwork® Account created. You will receive an email opt-in confirmation and once confirmed, an additional email welcoming you to the program outlining features and benefits. Upon registering, if you choose to opt-in to our Top Deals weekly publication you will also receive a welcome email indicating your subscription confirmation.
   9. If you are the Main Account holder of a My FlightNetwork® account you may receive an email on your birthday if the information is provided to FlightNetwork® at the time of registration or any time thereafter.
   10. If you have asked FlightNetwork® to 'track a flight' via the 'track a flight' link on the search results page, you will receive an email notification when your initial request is made. You also may receive an email notification if the price increases or decreases thereafter.
+  11. If you have opted to store your purchasing credit card information into your My FlightNetwork Account, you will receive an email notification 30 days prior to that credit card expiring. You will also receive a change notification email when any of your credit card information has been changed/updated.
 
 
 
