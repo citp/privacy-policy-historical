@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealsilove.com.au privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116115555id_/http%3A//www.dealsilove.com.au/legal-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealsilove.com.au privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618013118id_/http%3A//www.dealsilove.com.au/legal-information/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy ‹ Deals I Love – Daily Deals on amazing items
 
@@ -10,8 +10,7 @@ The Internet Privacy Policy relates to the collection and use of personal inform
 
 We do not make any representations about third party web sites that may be linked to the web site.
 
-We recognise the importance of protecting the privacy of information collected about visitors to our web site, in particular information that is capable of identifying an individual (“personal information”).
-
+We recognise the importance of protecting the privacy of information collected about visitors to our web site, in particular information that is capable of identifying an individual (“personal information”).  
 This Internet Privacy Policy governs the manner in which your personal information, obtained through the web site, will be dealt with. This Internet Privacy Policy should be reviewed periodically so that you are updated on any changes. We welcome your comments and feedback. Personal Information Personal information about visitors to our site is collected only when knowingly and voluntarily submitted. For example, we may need to collect such information to provide you with further services or to answer or forward any requests or enquiries.
 
 It is our intention that this policy will protect your personal information from being dealt with in any way that is inconsistent with applicable privacy laws in Australia.
@@ -20,15 +19,14 @@ Use of Information Personal information that visitors submit to our site is used
 
 Copies of correspondence sent from the web site, that may contain personal information, are stored as archives for record-keeping and back-up purposes only.
 
-**Disclosure**
-
+**Disclosure**  
 Apart from where you have consented or disclosure is necessary to achieve the purpose for which it was submitted, personal information may be disclosed in special situations where we have reason to believe that doing so is necessary to identify, contact or bring legal action against anyone damaging, injuring, or interfering (intentionally or unintentionally) with our rights or property, users, or anyone else who could be harmed by such activities.
 
 Also, we may disclose personal information when we believe in good faith that the law requires disclosure.
 
-We may engage third parties to provide you with goods or services at your request or on our behalf.
+We engage third parties to provide you with goods or services at your request or on our behalf. These third parties may in some cases be entities outside of Australia.
 
-In that circumstance, we may disclose your personal information to those third parties in order to meet your request for goods or services.
+In that circumstance, we may disclose your personal information to those third parties in order to meet your request for goods or services. In this case we will only supply the information strictly necessary to provide you with the requested good or service.
 
 **Security**
 
@@ -48,12 +46,41 @@ If, at any time, you discover that information held about you is incorrect, you 
 
 **Links to other sites**
 
-We provide links to Web sites outside of our web sites, as well as to third party Web sites. These linked sites are not under our control, and we cannot accept responsibility for the conduct of companies linked to our website. Before disclosing your personal information on any other website, we advise you to examine the terms and conditions of using that Web site and its privacy statement.
+We provide links to Web sites outside of our web sites, as well as to third party Web sites. These linked sites are not under our control, and we cannot accept responsibility for the conduct of companies linked to our website. Before disclosing your personal information on any other website, we advise you to examine the terms and conditions of using that Web site and its privacy statement.  
+Problems or questions
 
-**Problems or questions**
+If we become aware of any ongoing concerns or problems with our web sites, we will take these issues seriously and work to address these concerns. If you have any further queries relating to our Privacy Policy, or you have a problem or complaint, please contact us by clicking the support tab shown on the side of our web pages or via mail at:
 
-If we become aware of any ongoing concerns or problems with our web sites, we will take these issues seriously and work to address these concerns. If you have any further queries relating to our Privacy Policy, or you have a problem or complaint, please contact us.
+Att: Privacy Officer  
+Deals I Love (Australia) Pty Ltd  
+Box 382 / 4 Young St  
+Neutral Bay NSW 2089  
+Australia
 
 **Further Privacy Information**
 
 For more information about privacy issues in Australia and protecting your privacy, visit the Australian Federal Privacy Commissioner’s web site: www.privacy.gov.au
+
+**Additional  summary information:**
+
+For customers placing orders with our company, we collect and store your email address, name, required delivery address & phone number. Supply of this information is required in order for us to perform our primary function of organising the supply of purchased goods and services to you.
+
+By placing an order, information is generated regarding the products you have ordered and the payment transaction associated with your order as well as details on the progress of that order. We store summary data on these transactions in order to ensure that the good or service ordered is received and dispatched and to assist you with any inquiries you may have during or after the purchase and delivery process.
+
+We may “tokenise” your credit card payment details to increase the security of future transactions with our business. You can view any tokenised card on your account and you can remove this tokenised card at your discretion by visiting <http://www.dealsilove.com.au/account/> and using the remove card option.
+
+We collect this information by you supplying it to us at the time of order.
+
+For entities receiving our email newsletters, we may collect your name, email address, year of birth, gender and email preferences. Only a valid email address is required as it is not possible to perform the function of sending an email to you without it. All other information is optional and can be edited by clicking the link titles “Update Preferences or Unsubscribe” which is shown at the top of each and every marketing email we send to you. You can opt out of our email database at any time by clicking on the same link.
+
+We collect this information either via direct input into our website, or by you giving permission to a 3rd party to submit the information to us.
+
+The purpose of collecting this information is to ensure the speedy and accurate supply of goods and services ordered via our business and/or to contact you as necessary to obtain any missing information or to make you aware of other offers you may be interested in from our business.
+
+We often will contract 3rd parties assist in the provision of goods and services. These 3rd parties are based in both Australia and Overseas. These Overseas entities may be located in countries including but not limited to The United States of America, Singapore, Hong Kong and China.
+
+You can view the personal information held by us with respect to any orders by logging into your account visiting: <http://www.dealsilove.com.au/account/>
+
+You can view and / or the personal information held by us with respect to marketing emails by clicking on the Update my Preferences link at the top of every marketing email we send out.
+
+On this page you can view your personal information and make any updates or corrections to it that may be required.
