@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ryland.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231041507id_/http%3A//www.ryland.com/your-privacy-rights.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ryland.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617113700id_/http%3A//www.ryland.com/your-privacy-rights.html) for the most accurate reproduction.*
 
 # Your Privacy Rights | Ryland Homes
 
@@ -68,6 +68,6 @@ If you have a previous relationship with us and already made a choice to limit m
 
 The policies set forth in this Notice are effective at the time of publishing, but are subject to change in order to best meet the needs of our customers and to reflect changes in local, state and federal laws.
 
-[Privacy Policy (Printable Version)](http://cdn.ryland.com/assets/web/1.0.5101.14459/pdf/rylandprivacypolicy.pdf?v=36QyD5RO-iy_zfRN39YfN54C3Zkyc4UlnNj-aMFdqHM1)
+[Privacy Policy (Printable Version)](http://cdn.ryland.com/assets/web/1.0.5274.18286/pdf/rylandprivacypolicy.pdf)
 
 ## Privacy Policy Acknowledgement & Opt Out Options
