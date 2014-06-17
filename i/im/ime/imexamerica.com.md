@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imexamerica.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217112121id_/http%3A//www.imexamerica.com/about-us/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imexamerica.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617074205id_/http%3A//www.imexamerica.com/about-us/privacy-statement) for the most accurate reproduction.*
 
 # IMEX America: Privacy Statement
 
