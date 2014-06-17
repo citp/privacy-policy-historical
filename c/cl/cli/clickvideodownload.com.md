@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickvideodownload.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208013250id_/http%3A//www.clickvideodownload.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickvideodownload.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617070941id_/http%3A//www.clickvideodownload.com/privacy_policy.html) for the most accurate reproduction.*
 
 # 1 Click Video Download
 
