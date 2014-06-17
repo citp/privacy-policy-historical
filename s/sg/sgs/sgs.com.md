@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sgs.com privacy policy that was archived on 2013-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131023212803id_/http%3A//www.sgs.com/en/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sgs.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617213746id_/http%3A//www.sgs.com/en/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # SGS - Privacy Policy
 
@@ -20,7 +20,7 @@ Information about our clients is an important part of our business and SGS is no
 
   1. By transfer to other SGS Group companies where it is necessary to meet the purpose for which you have submitted the information. By submitting data on any SGS Group company website, you are providing explicit consent to trans-border transmission of data collected on that website. 
   2. By transfer to third party agents and subcontractors which perform certain functions on behalf of SGS, such as picking up and delivering samples, fulfilling inspection orders, sending email, removing repetitive information from client lists, analysing data and processing credit card payments. These parties only have access to such information as necessary to perform their functions and may not use it for any other purpose. 
-  3. For any reason if, in SGS' sole discretion, SGS believes it is reasonable to do so, including: to satisfy any laws, regulations, or governmental or legal requests for such information; to disclose information that is necessary to identify, contact or bring legal action against someone who may be violating our [Terms of Access ](https://web.archive.org/web/20131023212803id_/http%3A//www.sgs.com/en/~/link.aspx?_id=C2FCDBA0B5BE46C69CF86C9C428199FA&_z=z)or other terms and conditions; or to otherwise protect the SGS Group of companies.
+  3. For any reason if, in SGS' sole discretion, SGS believes it is reasonable to do so, including: to satisfy any laws, regulations, or governmental or legal requests for such information; to disclose information that is necessary to identify, contact or bring legal action against someone who may be violating our [Terms of Access ](https://web.archive.org/web/20140617213746id_/http%3A//www.sgs.com/en/~/link.aspx?_id=C2FCDBA0B5BE46C69CF86C9C428199FA&_z=z)or other terms and conditions; or to otherwise protect the SGS Group of companies.
 
 
 
@@ -28,12 +28,7 @@ Information about our clients is an important part of our business and SGS is no
 
 We follow strict security procedures in the storage and disclosure of information which you have given us in order to prevent unauthorised access. However, the SGS site contains links to other websites. SGS does not control and is not responsible for the privacy practices or the content of these other websites.
 
-"Cookies" and how SGS uses them
-
-A "cookie" is a small data file that can be placed on your hard drive when you visit certain websites. SGS Group company websites may use cookies to collect, store and sometimes track information for statistical purposes to improve the products and services SGS Group companies provide and to manage the SGS Group telecommunication networks. If you are a registered user of any SGS Group company website which requires registration (such as [SGSonSite](https://web.archive.org/web/20131023212803id_/http%3A//www.sgs.com/en/~/link.aspx?_id=2CC26008D3BD417AB6E6FFCD28CB599F&_z=z)) and have created your own entrance page (such as "My SGSonSITE), we will use a cookie to save your settings and provide customised and personalised services. These cookies do not enable third parties to access any of your personally identifiable information.
-
-Third party websites may also use their own cookies. SGS does not control use of such cookies and expressly disclaims responsibility for information collected through them.  
-
+["Cookies" and how SGS uses them](https://web.archive.org/web/20140617213746id_/http%3A//www.sgs.com/en/~/link.aspx?_id=90EBE8DFC33B4A14AC8BA2C61329CCDD&_z=z)
 
 ### Your rights
 
@@ -58,6 +53,6 @@ At any time using one of the methods below:
 SGS continually strives to improve its service to its customers and to its potential customers.
 
   
-Page last modified on January 15, 2004
+Page last modified on April 28, 2014
 
  
