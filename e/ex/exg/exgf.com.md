@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exgf.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622194105id_/http%3A//exgf.com/tour8/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exgf.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617194050id_/http%3A//exgf.com/tour8/Privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
