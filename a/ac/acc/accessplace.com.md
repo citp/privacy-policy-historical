@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accessplace.com privacy policy that was archived on 2013-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130831123008id_/http%3A//www.accessplace.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accessplace.com privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618143610id_/http%3A//www.accessplace.com/privacy.htm) for the most accurate reproduction.*
 
 # AccessPlace privacy policy, personal user data, third party sites, children and user consent
 
@@ -33,6 +33,10 @@ This information does not identify you as an individual, and none of this inform
 ## Cookies
 
 AccessPlace use cookies to better provide our services and information. On the Internet, a "cookie" is a file that a website transfers to a user's computer for record-keeping purposes. This is a common feature of many websites on the Internet, and is employed by AccessPlace to better serve to you our services and content. The cookies only collect Non-Personally Identifiably Information. 
+
+## Third Party Ads
+
+We use third party advertising companies to serve ads when you visit our website. These companies may use information about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit http://www.networkadvertising.org/choices/.
 
 ## Further Policy
 
