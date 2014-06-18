@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cmmnts.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219211246id_/http%3A//www.cmmnts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cmmnts.com privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618150838id_/http%3A//www.cmmnts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cmmnts
 
