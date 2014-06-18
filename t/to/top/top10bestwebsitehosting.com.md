@@ -1,63 +1,114 @@
-> *The following text is extracted and transformed from the top10bestwebsitehosting.com privacy policy that was archived on 2013-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131016183555id_/http%3A//www.top10bestwebsitehosting.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top10bestwebsitehosting.com privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618034032id_/http%3A//www.top10bestwebsitehosting.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy governs the manner in which top10bestwebsitehosting.com collects, uses, maintains and discloses information collected from users (each, a "User") of the [top10bestwebsitehosting.com](https://web.archive.org/) website ("Site"). This privacy policy applies to the Site and all services offered by top10bestwebsitehosting.com. 
+This Privacy Policy ("Privacy Policy") governs the manner in which [top10bestwebsitehosting.com](https://web.archive.org/web/20140618034032id_/http%3A//www.top10bestwebsitehosting.com/top10bestwebsitehosting.com) collects, uses, maintains and discloses information collected from users (each, a "User") of the [top10bestwebsitehosting.com](https://web.archive.org/web/20140618034032id_/http%3A//www.top10bestwebsitehosting.com/top10bestwebsitehosting.com) website (together with its subdomains, content and services, the "Site"). This privacy policy applies to the Site and all services offered by the Site.
 
-Personal Identification Information 
+**Introduction**
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, and in connection with other activities, services, features or resources we make available on our Site. Users may visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities. 
+We have implemented this Privacy Policy because your privacy, and the privacy of other users of the Site, is important to us. This Privacy Policy explains our online information practices and the choices you can make about the way your Personal Information is collected and used in connection with the Site. "Personal Information" means any information that may be used, either alone or in combination with other information, to personally identify an individual, including, but not limited to, a first and last name, an email address, a home or other physical address, or other contact information.
 
-Non-personal Identification Information 
+**What Personal Information We Collect and How We Collect It.**
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information. 
+We receive and/or collect Personal Information from you in the following ways:
 
-Web Browser Cookies 
-
-Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly. 
-
-How We Use Collected Information 
-
-top10bestwebsitehosting.com may collect and use Users personal information for the following purposes: 
-
-  * To improve customer service  
-Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  * To personalize user experience  
-We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * To improve our Site  
-We may use feedback you provide to improve our products and services.
-  * To share your information with third parties  
-We may share information with third parties for marketing or other purposes.
-  * To run a promotion, contest, survey or other Site feature
-  * To send Users information they agreed to receive about topics we think will be of interest to them.
+  1. Information You Choose to Provide When You Leave a Review. If you choose to leave a review on the Site you may be required to provide us with certain Personal Information such as your name and email address. You may also choose to provide us with additional Personal Information. 
+  2. Web Browser Cookies, Log-Files and Tracking Technologies. Our Site may use "cookies" log-files and other tracking technologies to enhance the User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. You may choose to set your web browser to refuse cookies, or to alert you when cookies are being sent. If you do so, note that some parts of the Site may not function properly.
+  3. We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, and in connection with other activities, services, features or resources we make available on our Site. Users may visit our Site anonymously. 
 
 
 
-How We Protect Your Information 
+**Choice Regarding Your Personal Identification Information**
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information and data stored on our Site. 
+We will collect personal identification information from you only if you voluntarily submit such information to us. At all times, you may choose whether or not to provide or disclose Personal Information. You can always refuse to supply personally identification information, except that it may prevent you from engaging in certain Site related activities, programs, offers, and services that involve our interaction with you.
 
-Third Party Websites 
+**Non-personal Identification Information**
 
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies. 
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-Advertising 
+**Publicly Available Information**
 
-Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers. 
+User Submissions. The Site may permit you and other users to post, publish and transmit information, image, data, text, documents, and other content onto public areas of the Site such as the reviews ("User Submissions"). You acknowledge and agree that User Submissions will become publicly published content and will be available to other users of the Sites and third parties to view. This is the case even if your User Submission contains Personal Information. 
 
-Changes to This Privacy Policy 
+Contact Information. Please note that if you publish your contact information in your User Submissions, you may receive unsolicited messages from third parties which will be out of our control and for which we will not be responsible. We therefore encourage you to post and publish only information you are sure you want to be accessible to anyone.
 
-top10bestwebsitehosting.com has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications. 
+**How We Use Collected Information**
 
-Your Acceptance Of These Terms 
+The Site may collect and use Users Personal Information for the following purposes:
 
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes. 
+  1. We will use your Personal Information and the feedback you provide us to provide and improve our Site, and any other services to you, to contact you in connection with the Site, programs or offerings that you may have registered for. 
+  2. We may use your Personal Information to improve customer service: Information you provide helps us respond to your customer service requests and support needs more efficiently. 
 
-Contacting Us 
+We may use your Personal Information to personalize user experience: We may use Personal Information to understand how our Users as a group use the services and resources provided on our Site.  
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: 
 
-top10bestwebsitehosting.com  
-[privacy@top10bestwebsitehosting.com](mailto:privacy@top10bestwebsitehosting.com)
+We may transfer your Personal Information to our subsidiaries or affiliated companies for the purpose of storing or processing such information on our behalf. Such information may be transferred to other countries around the world. We require that these parties agree to process such information in compliance with our Privacy Policy. 
 
-This document was last updated on June 13, 2012
+  3. We may transfer your Personal Information to our third party service providers, but only to provide our services to you. Such information may be transferred to other countries around the world. We use commercially reasonable efforts to only engage or interact with third party service providers that post a Privacy Policy governing their processing of Personal Information. 
+  4. We may share information with third parties for marketing or other purposes. 
+  5. We may share the information you provide us to run a promotion, contest, survey or other Site feature.
+  6. We may use your designated contact details (such as your email address) to send you updates, a newsletter or news regarding the Site and our products and services, or to send you invitations and requests to rate us on other sites. We may send you information you agreed to receive about topics we think will be of interest to you. We may also transfer your contact details to Trustpilot ([http://www.trustpilot.com](http://www.trustpilot.com/)), for survey purposes. By providing us your email address when creating a User Submission you explicitly agree that we may send you such updates, newsletters, invitations and requests, and may send your email to Trustpilot to contact you for surveys.
+  7. The information you provide to us will be stored for the period unless you direct us to delete it. 
+  8. We may disclose your Personal Information or any information you submitted via the Site if we have a good faith belief that disclosure of such information is helpful or reasonably necessary to: (i) comply with any applicable law, regulation, legal process or governmental request; (ii) enforce our terms of use including investigations of potential violations thereof; (iii) detect, prevent, or otherwise address fraud or security issues; or (iv) protect against harm to the rights, property or safety of the Site, its users, yourself or the public
+
+
+
+**How We Protect Your Information**
+
+We adopt appropriate data collection, storage and processing practices and generally accepted industry standards for security measures to protect against unauthorized access, alteration, disclosure or destruction of your Personal Information and data stored on our Site.
+
+**Collection of Information by Third-Party Sites.**
+
+We may use a reputable third party to present or serve advertisements that you may see on the Site. These third party ad servers may use cookies, web beacons, clear gifs or similar technologies to help present such advertisements, and to help measure and research the advertisements' effectiveness. The use of these technologies by these third party ad servers is subject to their own privacy policies and is not covered by our Privacy Policy. 
+
+**Third Party Websites**
+
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
+
+**Advertising**
+
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+
+**Opting-Out**
+
+You explicitly agree that we may send you notifications regarding the Site, our services, third party's notifications and/or advertisements, and requests to rate our Site. You may choose not to receive future promotional, advertising, or activity related emails from us by selecting an unsubscribe link at the bottom of emails/notification that you receive from us. 
+
+**Access/Accuracy**
+
+We provide individuals the right to access and to correct, if necessary, their personal data which we process. If you have any queries or complaints, or wish to exercise your rights as detailed above, please contact us at: [contact@top10bestwebsitehosting.com](mailto:contact@top10bestwebsitehosting.com)
+
+To the extent that you do provide us with Personal Information, we wish to maintain accurate Personal Information. If you would like to delete or correct any inaccuracy in your Personal Information that we may be storing, or otherwise amend or delete your Personal Information, you may submit a request by sending an email to [contact@top10bestwebsitehosting.com](mailto:contact@top10bestwebsitehosting.com). Your email should include adequate details of your request. 
+
+**Changes to This Privacy Policy**
+
+The Site has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. Such change will be effective ten (10) days following posting of the revised privacy policy on the Site, and your continued use of the Services thereafter means that you accept those changes. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the Personal Information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications. 
+
+**Children's Privacy**
+
+The Site is not structured to attract children under the age of 13 years. Accordingly, we do not intend to collect Personal Information from anyone we know to be under 13 years. If we learn that we have collected Personal Information from a child under 13 years, we will delete that information as quickly as possible. If you believe that we might have any such information, please contact us at [contact@top10bestwebsitehosting.com](mailto:contact@top10bestwebsitehosting.com).
+
+**Our California Do Not Track Notice**
+
+We do not currently respond or take any action with respect to web browser “do not track” signals or other mechanisms that provide consumers the ability to exercise choice regarding the collection of personally identifiable information about an individual consumer’s online activities over time and across third-party web sites or online services. We may allow third parties, such as ad servers, to collect personally identifiable information about an individual consumer’s online activities over time and across different web sites when a consumer uses the Site.
+
+**Your California Privacy Rights**
+
+California Civil Code Section 1798.83 permits Users who are California residents to request certain information regarding its disclosure of Personal Information to third parties for their direct marketing purposes. To make such a request, please send an email to [contact@top10bestwebsitehosting.com](mailto:contact@top10bestwebsitehosting.com). Please note that we are only required to respond to one request per customer each year.
+
+**In the Event of Merger, Sale, or Bankruptcy**
+
+In the event that we are acquired by or merged with a third party entity, we reserve the right to transfer or assign Personal Information that we have collected as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we may not be able to control how Personal Information is treated, transferred, or used. In any of the circumstances described in this paragraph, the information will be subject to the privacy policy of the purchaser or assignee.
+
+**Your Acceptance Of These Terms**
+
+This Privacy Policy forms part of the Site’s Terms of Use, available at [top10bestwebsitehosting.com/terms-of-use](https://web.archive.org/web/20140618034032id_/http%3A//www.top10bestwebsitehosting.com/terms-of-use) (the "Terms"). By using this Site, you signify your acceptance of this policy and the processing of Personal Information for the purposes set forth herein. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes. 
+
+**Contacting Us**
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
+
+[top10bestwebsitehosting.com](https://web.archive.org/web/20140618034032id_/http%3A//www.top10bestwebsitehosting.com/top10bestwebsitehosting.com)
+
+[contact@top10bestwebsitehosting.com](mailto:contact@top10bestwebsitehosting.com)
+
+This document was last updated on February 11, 2014
