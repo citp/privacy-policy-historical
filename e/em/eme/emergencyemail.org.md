@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emergencyemail.org privacy policy that was archived on 2013-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130908180133id_/http%3A//www.emergencyemail.org/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emergencyemail.org privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618221737id_/http%3A//www.emergencyemail.org/Privacy.asp) for the most accurate reproduction.*
 
 # Privacy - The Emergency Email Network Homepage
 
@@ -8,7 +8,7 @@ Privacy Statement
 
 This Website is owned and operated by The Emergency Email & Wireless Network an Enotem, Inc. Company We recognize that visitors to our site may be concerned about the information they provide to us, and how we treat that information. This Privacy Policy addresses those concerns. This policy may be changed or updated from time to time. 
 
-If you have any questions about our Privacy Policy, you can contact us using our contact page by [clicking here.](https://web.archive.org/web/20130908180133id_/http%3A//www.emergencyemail.org/GovtContact.asp)
+If you have any questions about our Privacy Policy, you can contact us using our contact page by [clicking here.](https://web.archive.org/web/20140618221737id_/http%3A//www.emergencyemail.org/GovtContact.asp)
 
 
 
@@ -29,4 +29,4 @@ Visitors should be aware that non-personal information and data may be automatic
 **Note to Parents on Our Privacy Policy**  
 The Emergency Email & Wireless Network welcomes children to learn more about our organization and our programs. However, we encourage this to be done only with their parent's knowledge and supervision. For this reason, The Emergency Email & Wirless Network follows the guidelines for interactive electronic media published by the Children’s Advertising Review Unit of the Better Business Bureau. Special notices urging children to get their parent's permission before providing any personal information have been incorporated into our site. 
 
-For information about The Emergency Email & Wireless Network and its mission, or to learn about legal or technical issues regarding the use of this site, you can contact us by [clicking here](https://web.archive.org/web/20130908180133id_/http%3A//www.emergencyemail.org/govtcontact.asp).
+For information about The Emergency Email & Wireless Network and its mission, or to learn about legal or technical issues regarding the use of this site, you can contact us by [clicking here](https://web.archive.org/web/20140618221737id_/http%3A//www.emergencyemail.org/govtcontact.asp).
