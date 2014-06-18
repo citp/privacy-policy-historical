@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the cloudbees.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512031433id_/http%3A//www.cloudbees.com/company-privacy.cb) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudbees.com privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618215729id_/http%3A//www.cloudbees.com/company-privacy.cb) for the most accurate reproduction.*
 
-# CloudBees: Cloud Platform as a Service for Java Web Apps, Supported Jenkins/Hudson and Jenkins/Hudson in the Cloud
+# CloudBees: Continuous Delivery with Jenkins
 
-_Last updated: July 28th, 2010_
+_Last updated: July 15th, 2013_
 
 This Privacy Policy describes how CloudBees, Inc. ("CloudBees" "We," "Us," or "Our") protects your privacy when you use the Web site located at [www.cloudbees.com](http://www.cloudbees.com/ "www.cloudbees.com") (the "Site").
 
-PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING OR USING THE SITE, YOU AGREE TO BE BOUND BY THE TERMS AND CONDITIONS DESCRIBED HEREIN AND ALL TERMS AND CONDITIONS INCORPORATED BY REFERENCE. IF YOU DO NOT AGREE TO ALL OF THE TERMS AND CONDITIONS SET FORTH BELOW, YOU MAY NOT USE THE SITE.
+**_PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING OR USING THE SITE, YOU AGREE TO BE BOUND BY THE TERMS AND CONDITIONS DESCRIBED HEREIN AND ALL TERMS AND CONDITIONS INCORPORATED BY REFERENCE. IF YOU DO NOT AGREE TO ALL OF THE TERMS AND CONDITIONS SET FORTH BELOW, YOU MAY NOT USE THE SITE._**
 
 This Privacy Policy applies to information (including, personal information) collected through the Site. For the purpose of this Privacy Policy, "personal information" means information that identifies you personally, either alone or in combination with other information available to us. Personal information does not include "aggregate" information, which is data we collect about the use of the Site, or about a group or category of products, services or users, from which individual identities or other personal information has been removed. This policy in no way restricts or limits our collection and use of aggregate information, and we may share aggregate data about our users with third parties for various purposes. This Privacy Policy is part of and incorporated into CloudBees's Terms of Service, <http://www.cloudbees.com/company-TOS.cb> ("Terms of Service").
 
@@ -19,13 +19,13 @@ This Privacy Policy applies to information (including, personal information) col
 
 
 
-###  WHAT PERSONAL INFORMATION DO WE COLLECT ON THE SITE AND HOW WE COLLECT IT
+###  WHAT PERSONAL INFORMATION WE COLLECT ON THE SITE AND HOW WE COLLECT IT
 
-###  Active Collection of Information
+####  Active Collection of Information
 
-Personal information may be collected in a number of ways when you visit the Site, purchase products or use any of the services offered via the Site. We may collect certain information that you voluntarily provide to us which may contain personal information. For example, we may collect your name, email address, user name, telephone number and payment information (e.g., credit card number, and billing address) when you register, set up an account, contact us by e-mail or purchase services from the Site. ). Regarding credit card information, CloudBees uses a third-party intermediary to manage credit card processing and this intermediary is not permitted to store, retain, or use this information except to process your credit card information for CloudBees. For more details on how this third party stores credit card information, please contact us at [info@cloudbees.com](mailto:info@cloudbees.com).
+Personal information may be collected in a number of ways when you visit the Site, purchase products or use any of the services offered via the Site. We may collect certain information that you voluntarily provide to us which may contain personal information. For example, we may collect your name, email address, user name, telephone number and payment information (e.g., credit card number and billing address) when you register, set up an account, contact us by e-mail or purchase services from the Site. Regarding credit card information, CloudBees uses a third-party intermediary to manage credit card processing and this intermediary is not permitted to store, retain, or use this information except to process your credit card information for CloudBees. For more details on how this third party stores credit card information, please contact us at [info@cloudbees.com](mailto:info@cloudbees.com).
 
-###  Passive Collection of Information
+####  Passive Collection of Information
 
 When you visit the Site, some information may be automatically collected. For example, it is standard for your Web browser to automatically send information to every Web site you visit including ours. Such information includes your computer's Internet Protocol ("IP") address, access times, browser type and language, and referring Web site addresses. We may also collect information about your computer's operating system and information about your usage and activity on the Site.
 
@@ -41,7 +41,7 @@ Web beacons, also known as gifs, are electronic images that may be used on the S
 
 Most of the information we collect is retained by us on our servers. If you are visiting the Site from a country other than the country in which our Web servers are located (currently the United States of America) the various communications will necessarily result in the transfer of information across international boundaries. By visiting the Site and communicating electronically with us, you consent to the processing and transfer of your data as set out in this Privacy Policy.
 
-###  HOW DO WE USE YOUR PERSONAL INFORMATION
+###  HOW WE USE YOUR PERSONAL INFORMATION
 
 We use the information collected through the Site: (i) to communicate with you; (ii) to process your requests and transactions; (iii) to improve the Site; (iv) to customize the services and/or products we provide to you; (v) to assist with our product and service development; (vi) to perform marketing analysis; and (v) for other purposes related to our business.
 
@@ -55,9 +55,9 @@ Personal information submitted to the Site or collected by us is our asset and w
 
 ###  MODIFYING YOUR INFORMATION; OPT-OUT TO PROMOTIONAL MATERIALS
 
-We respect your right to make choices about the ways we collect, use and disclose your personal information. You may update or modify your information or change your privacy preferences at any time by emailing us at [privacy@cloudbees.com](mailto:privacy@cloudbees.com) or, in some instances, via the Site.
+We respect your right to make choices about the ways we collect, use and disclose your personal information. You may update or modify your information or change your privacy preferences at any time by emailing us at [info@cloudbees.com](mailto:info@cloudbees.com?subject=Privacy%20Policy) or, in some instances, via the Site.
 
-You may "opt-out" of receiving promotional communications including, without limitation, promotional emails, from us by emailing us at [privacy@cloudbees.com](mailto:privacy@cloudbees.com). Transactional service communications including, but not limited to, messages about your registration, will not be subject to the foregoing opt-in procedures.
+You may "opt-out" of receiving promotional communications including, without limitation, promotional emails, from us by emailing us at [info@cloudbees.com](mailto:info@cloudbees.com?subject=Privacy%20Policy) or by clicking on the unsubscribe link on the bottom of non-operational communications we may send to you. Transactional service communications including, but not limited to, messages about your registration, will not be subject to the foregoing opt-in procedures.
 
 ###  SECURITY OF YOUR PERSONAL INFORMATION
 
@@ -77,4 +77,4 @@ We may change this Privacy Policy from time-to-time. If we make any changes to t
 
 ###  QUESTIONS
 
-If you have any questions about this Privacy Policy, please contact us by emailing [privacy@cloudbees.com](mailto:privacy@cloudbees.com)
+If you have any questions about this Privacy Policy, please contact us by emailing [info@cloudbees.com](mailto:info@cloudbees.com?subject=Privacy%20Policy).
