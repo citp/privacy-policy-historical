@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bossgoo.com privacy policy that was archived on 2013-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130814200229id_/http%3A//www.bossgoo.com/help/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bossgoo.com privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618223916id_/http%3A//www.bossgoo.com/help/privacy-policy.html) for the most accurate reproduction.*
 
-# China Suppliers & Manufacturers,China wholesale Products Directory - Bossgoo.com
+# China Suppliers & Manufacturers, China wholesale Products Directory - Bossgoo.com
 
 Bossgoo.com makes a firm commitment to protect your privacy. The following policy, as part of [Terms & Conditions](http://www.net2china.net/help/terms-conditions.html) which has to be agreed with by users while visiting our website, provides details of how your information is treated. This policy may be subject to changes without notice. So please check the latest version periodically.
 
