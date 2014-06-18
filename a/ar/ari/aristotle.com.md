@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aristotle.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119020107id_/http%3A//www.aristotle.com/about-us/privacy-policy-and-data-restrictions) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aristotle.com privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618043930id_/http%3A//www.aristotle.com/about-us/privacy-policy-and-data-restrictions) for the most accurate reproduction.*
 
 # Privacy Policy and Data Restrictions | Aristotle
 
@@ -33,6 +33,10 @@ Personally identifiable information provided for purposes of age and identity ve
 ## U.S.-EU Safe Harbor and the U.S.-Swiss Safe Harbor Framework Privacy Statement
 
 Aristotle complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Aristotle has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Aristotle’s certification, please visit <http://www.export.gov/safeharbor/>.
+
+## Information Obtained from Death Master File (DMF) Subject to Regulation
+
+Certain data provided by Aristotle may include information obtained from the Death Master File (DMF) made available by the US Department of Commerce National Technical Information Service (NTIS) and subject to regulations found at 15 CFR Part 1110. All Aristotle clients are required to comply with all applicable laws and, if Subscriber is granted access to DMF data, Subscriber certifies compliance with 15 CFR Part 1110. Subscriber’s failure to comply with 15 CFR Part 1110 may subject Subscriber to penalties under 15 CFR 1110.200 of $1,000 for each disclosure or use, up to a maximum of $250,000 in penalties per calendar year.
 
 ## Confidentiality of Information/Correction
 
