@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the regalenvision.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109023233id_/http%3A//www.regalenvision.com/packages/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regalenvision.com privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618102714id_/http%3A//www.regalenvision.com/packages/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Regal Envision
 
@@ -12,6 +12,6 @@ We take your contact details when you put an order. This information will be use
 
 Your contact details and project information will be our confidential information and we will never share it with any other company/party. 
 
-Check out our [website packages](https://web.archive.org/web/20131109023233id_/http%3A//www.regalenvision.com/packages/index.html), [SEO Packages](https://web.archive.org/web/20131109023233id_/http%3A//www.regalenvision.com/packages/seo.html) and [our Portfolio](http://regalenvision.com/portfolio). 
+Check out our [website packages](https://web.archive.org/web/20140618102714id_/http%3A//www.regalenvision.com/packages/index.html), [SEO Packages](https://web.archive.org/web/20140618102714id_/http%3A//www.regalenvision.com/packages/seo.html) and [our Portfolio](http://regalenvision.com/portfolio). 
 
-[Privacy Policy](https://web.archive.org/web/20131109023233id_/http%3A//www.regalenvision.com/packages/privacy_policy.html) | [Terms and Conditions](https://web.archive.org/web/20131109023233id_/http%3A//www.regalenvision.com/packages/terms_conditions.html)
+[Privacy Policy](https://web.archive.org/web/20140618102714id_/http%3A//www.regalenvision.com/packages/privacy_policy.html) | [Terms and Conditions](https://web.archive.org/web/20140618102714id_/http%3A//www.regalenvision.com/packages/terms_conditions.html)
