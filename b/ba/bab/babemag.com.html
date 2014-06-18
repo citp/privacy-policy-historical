@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the babemag.com privacy policy that was archived on 2013-11-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131123135752id_/http%3A//www.babemag.com/about_us/606665/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the babemag.com privacy policy that was archived on 2014-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140618092326id_/http%3A//www.babemag.com/about_us/606665/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 
@@ -8,7 +8,7 @@
 <meta http-equiv="Content-type" value="text/html;charset=UTF-8">
 <meta name="description" content="Privacy Policy and Terms and Conditions of Babe Mag">
 <meta name="keywords" content="Privacy Policy, Terms and Conditions, Babe Mag">
-<meta name="date" content="2010-09-22"><script type="text/javascript" language="javascript">var li_msg;</script>
+<meta name="date" content="2010-09-22"><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" language="javascript">var li_msg;</script>
 <script type="text/javascript" language="Javascript" src="/js/cart.js"></script>
  
 
@@ -99,8 +99,7 @@ document.write('</style>');
 
 <link rel="shortcut icon" href="/siteimage/scale/0/0/171945.gif">
 <meta name="y_key" content="b8ebd00b0345509f">
-<meta name="google-site-verification" content="UsHav3JfrLLf-8FnpnKT8uQB5edCLPZiKlxuK0An94I">
-                                             
+<meta name="google-site-verification" content="4-AaiaNmjIoLdB9CSwTKGCEBsccOIC-UMzqlPQjbCCA">                                             
 <style type="text/css">
 	@import url(/styles/default.css);
 	@import url(/style/starbox.css);
@@ -117,8 +116,7 @@ document.write('</style>');
 
 		<link rel="stylesheet" href="/styles/custom/_3col.css" type="text/css">
 		
-<link rel="stylesheet" href="/styles/override.css" type="text/css">                                                                                                                                         
-<link rel="alternate" type="application/rss+xml" title=" - Babe Mag" href="/about_us/rss/">
+<link rel="stylesheet" href="/styles/override.css" type="text/css"><link rel="alternate" type="application/rss+xml" title=" - Babe Mag" href="/about_us/rss/">
 <style type="text/css">
 .imguploadfield4, .imguploadfield5 { display:none; }
 .searchbox { margin-bottom: 0px; }
@@ -373,13 +371,63 @@ End Function
 	<p></p>
 	      
 	<!--START //-->
-			
+						
 	<!-- Blank //-->
 				
 <script language="Javascript" type="text/javascript">				
 	$.noConflict();
 </script>	
 	
+			<h2 class="basebar wideRelatedArticles3" style="display:none;">
+	<span class="rwidgetHeading">More Like This...</span>
+</h2>
+<div id="module_rwidget3" style="display:none;">
+	<div id="rwidgetlike"> </div>
+</div>
+					
+<script src="/js/search.js" language="Javascript" type="text/javascript"></script>	
+<script type="text/javascript" language="Javascript">			
+var rsb1 = new SearchBox(
+	'rwidgetlike',
+	'',
+	'article_title',
+	'article_title',
+	{
+		'article_title': "Privacy Policy"
+	}, 
+	10,
+	function() {  },
+	function(item,df,oe,count) {   
+		var row = new Element('div', { 'class': 'srrow', 'id': 'row_'+item.article_id });
+		var rcode,title,excerpt,img,marg,css;			
+		var url = item.section_directory+item.article_id+'/'+item.href;
+		if(item.picture) {
+			img = '/siteimage/scale/158/350/'+item.picture.media_id+'.jpg';
+		}			
+		css = '';	
+		for(var j=0;j<df.length;j++) {	
+			var val = eval('item.'+df[j].toLowerCase());
+			if(df[j] == 'article_title') {
+				title = val;
+				css = '<style>h2.basebar.wideRelatedArticles3, #module_rwidget3 { display:block !important; }</style>';			
+			}
+		}  			
+		marg = '1px';
+		if(count == 2) { 		
+			marg = '0px';
+		}
+		
+		var thisTitle = "Privacy Policy";					
+		if(title == thisTitle) {
+			return;
+		} else {				
+			rcode = "<div style='margin-right:"+marg+";height:190px;' class='rwidgetBox'><a target='_self' href='"+url+"' title='"+title+"'><img src='"+img+"'></a><h4 class='rwidgetTitle'><a href='"+url+"'>"+title+"</a></h4></div>"+css;					
+			row.update(rcode);
+			return row;
+		}
+  	});	
+	rsb1.getResults('article_date','DESC',0);
+</script>
 		<!--END //-->    
      
        <!-- comments end //-->
@@ -758,6 +806,17 @@ new TWTR.Widget({
 
 <p style="margin-top:15px;"><a href="/about_us/606744/contact_us.html">Contact Us</a> | <a href="/about_us/606665/privacy_policy.html">Privacy Policy</a></p>
 
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-47785550-1', 'babemag.com');
+  ga('send', 'pageview');
+
+</script>
+
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -801,7 +860,7 @@ window.onload = function(){
 <!-- footer start //-->
 <!-- footer end //-->
 
-<!-- Page generated in 0.13946604728699 seconds //-->
+<!-- Page generated in 0.23994493484497 seconds //-->
 
  
 	</body></html>
