@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indyweek.com privacy policy that was archived on 2013-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131130004347id_/http%3A//www.indyweek.com/indyweek/advertisingprivacypolicy/Page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indyweek.com privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618164522id_/http%3A//www.indyweek.com/indyweek/advertisingprivacypolicy/Page) for the most accurate reproduction.*
 
 # privacy policy | Indy Week
 
