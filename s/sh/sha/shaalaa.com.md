@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shaalaa.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117133907id_/http%3A//www.shaalaa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shaalaa.com privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618030945id_/http%3A//www.shaalaa.com/privacy-policy) for the most accurate reproduction.*
 
-# Pirvacy Policy | Shaalaa.com | शाला.com | Shaalaa means School in Sanskrit
+# Privacy Policy | Shaalaa.com | शाला.com | Shaalaa means School in Sanskrit
 
 This privacy policy sets out how Shaalaa.com uses and protects any information that you give Shaalaa.com when you use this website. Shaalaa.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. Shaalaa.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 1st of January, 2012.
 
