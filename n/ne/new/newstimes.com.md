@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newstimes.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231150334id_/http%3A//www.newstimes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newstimes.com privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618144341id_/http%3A//www.newstimes.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - NewsTimes
 
@@ -42,8 +42,7 @@ PRIVACY POLICY
 **(f) Third Parties.** We may receive information from third parties, including demographic information from your mobile carrier, and information from third parties that solicit subscriptions to ourNewspaper. Those third parties have privacy policies that differ from this Privacy Policy.
 
   
-**(g) Tracking Requests.** Hearst does not act on Do Not Track requests from your browser.  
-For more information click here.
+**(g) Tracking Requests.** Hearst does not act on Do Not Track requests from your browser. For more information click here.
 
   
 **3\. Use of Information.**
