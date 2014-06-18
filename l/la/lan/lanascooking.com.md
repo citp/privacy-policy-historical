@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lanascooking.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206022956id_/http%3A//www.lanascooking.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lanascooking.com privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618230823id_/http%3A//www.lanascooking.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Never Enough Thyme - Recipes with a slight southern accent. — Never Enough Thyme - Recipes with a slight southern accent.
 
@@ -18,7 +18,7 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 
 **Google AdSense**
 
-Google, as a third party vendor, uses cookies to serve ads on this website. The [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx) is used by Google in the ads served on publisher websites displaying AdSense for content ads. When users visit an AdSense publisher’s website and either view or click on an ad, a cookie may be dropped on that end user’s browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web. Google’s use of the DART cookie enables it to serve ads to you based on your visit to this site and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+Some of the ads on this website may be served by Google. Google’s use of the DART cookie enables it to serve ads to users based on their visit to our site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
 
 **Platefull (General Mills)**
 
@@ -40,4 +40,4 @@ By using our site, you consent to our privacy policy.
 
 We reserve the right to update or change this privacy policy at any time. Any such change, modification, or addition to the privacy policy on Never Enough Thyme will become effective immediately upon posting on the site.
 
-_Last updated January 8, 2013_
+_Last updated December 9, 2013_
