@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pulpomedia.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228040012id_/http%3A//www.pulpomedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pulpomedia.com privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618185745id_/http%3A//www.pulpomedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pulpo Media
 
@@ -19,7 +19,7 @@ We may utilize the aggregated anonymous data described above to target or filter
 
 ## Opting-Out of Information Collection
 
-You can opt-out of having **Pulpo** collect non-personally identifiable information about you by [clicking here.](https://web.archive.org/web/20131228040012id_/http://www.pulpomedia.com/privacy-policy/www.tentaculos.net/opt-out/ "Click Here!") When you opt out, we will place an opt-out cookie on your computer. This opt-out cookie tells our system not to collect your non-personally identifiable information. The opt-out process is computer and browser specific and so must be repeated on each computer and from within each browser that you use (for example, from within _Internet Explorer_ and _Firefox_ ). Please note that deleting, blocking or otherwise restricting cookies on your computer may delete our opt-out cookie and require you to renew your opt-out choice. To opt-out go to [www.tentaculos.net/opt-out/](https://web.archive.org/web/20131228040012id_/http://www.pulpomedia.com/privacy-policy/www.tentaculos.net/opt-out/ "Click Here!") and follow the instructions.  
+You can opt-out of having **Pulpo** collect non-personally identifiable information about you by [clicking here.](http://www.tentaculos.net/opt-out/ "Click Here!") When you opt out, we will place an opt-out cookie on your computer. This opt-out cookie tells our system not to collect your non-personally identifiable information. The opt-out process is computer and browser specific and so must be repeated on each computer and from within each browser that you use (for example, from within _Internet Explorer_ and _Firefox_ ). Please note that deleting, blocking or otherwise restricting cookies on your computer may delete our opt-out cookie and require you to renew your opt-out choice. To opt-out go to [www.tentaculos.net/opt-out/](http://www.tentaculos.net/opt-out/ "Click Here!") and follow the instructions.  
  
 
 ## Collection of Personally Identifiable Information
