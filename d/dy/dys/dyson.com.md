@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dyson.com privacy policy that was archived on 2013-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131108195809id_/http%3A//www.dyson.com/support/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dyson.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619012951id_/http%3A//www.dyson.com/Support/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
