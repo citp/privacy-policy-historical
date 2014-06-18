@@ -1,17 +1,15 @@
-> *The following text is extracted and transformed from the alifeinbalance.net privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217234840id_/http%3A//alifeinbalance.net/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alifeinbalance.net privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618203240id_/http%3A//www.alifeinbalance.net/about/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy | A Life in Balance
 
-_Disclosure: Please know that if you make a purchase using a link on this page, I may earn a commission and I am very grateful for your support of this site. Thank you.  
-([Read all the fine print here](http://alifeinbalance.net/about/disclosure/).)_ [ ](http://www.viglink.com/legal/disclosures/users?vgtag=badge)
-
-[](https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.alifeinbalance.net%2Fabout%2Fprivacy-policy%2F&media=&description=privacy%20policy)
+_Disclosure: If you make a purchase using a link on this page, I may earn a commission and I am very grateful for your support of this site. Thank you. ([Read all the fine print here](http://alifeinbalance.net/about/disclosure/).)_  
+[ ](http://www.viglink.com/legal/disclosures/users?vgtag=badge)
 
 _Effective Date: April 13, 2013_
 
 A Life in Balance and Frugal Local Kitchen respect and value your privacy.
 
-This Privacy Policy details how A Life in Balance and Frugal Local Kitchen (hereinafter referred to as “ALB/FLK, “us” or “we”) treats the information that is gathered about you when you use the A Life in Balance and Frugal Local Kitchen websites, [alifeinbalance.net](http://alifeinbalance.net/) and [frugallocalkitchen.com](http://frugallocalkitchen.com/) (hereinafter referred to as the “Sites”). By using and commenting on ALB and FLK, you expressly consent to the collection, use, disclosure and storage of such information as set forth in this Privacy Policy.
+This Privacy Policy details how A Life in Balance and Frugal Local Kitchen (hereinafter referred to as “ALB/FLK, “us” or “we”) treats the information that is gathered about you when you use the A Life in Balance and Frugal Local Kitchen websites, [alifeinbalance.net](http://alifeinbalance.net/) and frugallocalkitchen.com (hereinafter referred to as the “Sites”). By using and commenting on ALB and FLK, you expressly consent to the collection, use, disclosure and storage of such information as set forth in this Privacy Policy.
 
 ### Collection of Information:
 
@@ -77,11 +75,8 @@ By using ALB/FLK, you hereby agree to this Privacy Policy in its entirety. ALB/F
 
 All Privacy Policy changes will take effect immediately upon their posting on the Site. Please check this page periodically for any changes. Your continued use of the Site and/or failure to opt-out of emails sent to you following the posting of changes to this Privacy Policy constitutes your acceptance of any and all changes.
 
-[](http://bundleoftheweek.com/current-bundle/?ap_id=babhoyer)
+_A Life in Balance is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com. See more at:<http://marketingwithsara.com/amazon/warning-to-all-affiliate-marketers#sthash.7pLtrFUN.dpuf>_
 
-_A Life in Balance is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.  
-See more at: <http://marketingwithsara.com/amazon/warning-to-all-affiliate-marketers#sthash.7pLtrFUN.dpuf>_
+[](http://feeds.feedblitz.com/feedburner/alifeinbalance "Subscribe to my feed") [](http://www.twitter.com/BarbHoyer) [](http://facebook.com/A.Life.in.Balance.net) [](mailto:barb@alifeinbalance.net) [](http://pinterest.com/alifeinbalance_/) [](http://instagram.com/babhoyer?ref=badge)
 
-[**Subscribe for my latest posts.**](http://feeds.feedblitz.com/alifeinbalance) Follow me on [**Twitter**](http://www.twitter.com/BarbHoyer) and [**Facebook**](http://www.facebook.com/A.Life.in.Balance.net). 
-
-_I share because I care, so feel free to use any of my images as long as they are credited and accompanied by a link back to[A Life in Balance](http://alifeinbalance.net/). Failure to link back and credit my site as a source constitutes a copyright violation. Thanks!_
+_I share because I care, so feel free to use any of my images as long as they are credited and accompanied by a link back to[A Life in Balance](http://www.alifeinbalance.net/). Failure to link back and credit my site as a source constitutes a copyright violation. Thanks!_
