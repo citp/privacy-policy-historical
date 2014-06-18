@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ext.net privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218151531id_/http%3A//www.ext.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ext.net privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618204822id_/http%3A//www.ext.net/privacy) for the most accurate reproduction.*
 
 # Ext.NET – ASP.NET (Web Forms + MVC) component framework integrating the Sencha Ext JS JavaScript Library » Privacy Policy
 
