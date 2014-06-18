@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the mackeeper.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630052202id_/http%3A//mackeeper.zeobit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mackeeper.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619013823id_/http%3A//mackeeper.zeobit.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 #### Introduction
 
-We, ZeoBIT (the "Company"), are aware about privacy issues that occur during the usage of products, services and websites. Therefore we strictly follow the data protection law, regarding your personal information. Our privacy policy applies to:
+We, Kromtech Alliance Corp. (the "Company"), are aware about privacy issues that occur during the usage of products, services and websites. Therefore we strictly follow the all data protection procedures regarding the full security of your personal information. Our privacy policy applies to:
 
   * using the Company’s products and services,
-  * visiting the [http://MacKeeper.ZeoBIT.com](http://mackeeper.zeobit.com/) website,
+  * visiting the [http://MacKeeper.Kromtech.com](http://mackeeper.zeobit.com/) website,
   * visiting any other linked pages or application services offered by the Company.
 
 
@@ -33,19 +33,19 @@ You will be required to provide your Personal Information at our website or in a
 
 Information provided by you will be used only for:
 
-  * creation of account where you will be able to manage ZeoBIT product licenses,
+  * creation of account where you will be able to manage Kromtech product licenses,
   * customer support CRM system,
   * emails informing about news, updates etc.  
-Note: Information collected by the Anti-Theft service is not used by ZeoBIT for any purpose. This information can be accessed only by the user in their ZeoBIT account.
+Note: Information collected by the Anti-Theft service is not used by Kromtech Alliance Corp. for any purpose. This information can be accessed only by the user in their Kromtech account.
 
 
 
 This data enables fast and efficient rendering of our products and services to our customers. In addition, it is used for communication purposes, such as notifying you about product updates or special offers.
 
-The user is able to hide their personal data when creating a ZeoBIT account as well as deactivate the Anti-Theft service in their ZeoBIT account.
+The user is able to hide their personal data when creating a Kromtech account as well as deactivate the Anti-Theft service in their Kromtech account.
 
 User information is not complemented by information from other sources.  
-The user is able to correct material inaccuracies in Personally Identifiable Information, such as account or contact information, in their ZeoBIT account.
+The user is able to correct material inaccuracies in Personally Identifiable Information, such as account or contact information, in their Kromtech account.
 
 ##### Information Collected Automatically
 
@@ -57,7 +57,7 @@ In addition to information you enter yourself, we collect technical data such as
 
 
 
-During registration of a ZeoBIT account we will also collect such information as name, email and phone number.
+During registration of a Kromtech account we will also collect such information as name, email and phone number.
 
 This data is used for the following purposes:
 
@@ -102,16 +102,16 @@ We will keep you up to date about any possible changes to our Privacy Policy. As
 
 #### Questions?
 
-We are open to any questions on this Privacy Policy. Please address all your concerns to [email](mailto:support@zeobit.com).
+We are open to any questions on this Privacy Policy. Please address all your concerns to [email](mailto:support@kromtech.net).
 
 __1 (888) 572-5876 __1 (800) 462-715 __0 (808) 189-1280
 
-Call us 24/7 with any questions.  
+Call us 24/7 with any questions.   
 Toll free.
 
 **Live Chat**
 
-Our representative will be happy to  
-answer any questions about MacKeeper
+Our representative will be happy to   
+answer any questions about MacKeeper. 
 
-[Start a Live Chat!](https://web.archive.org/support_livechat)
+[Start Live Chat!](https://web.archive.org/support_livechat)
