@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foliohd.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217103655id_/http%3A//foliohd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foliohd.com privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618061158id_/http%3A//foliohd.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | FolioHD
 
