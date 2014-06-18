@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musicjapanplus.jp privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218032338id_/http%3A//www.musicjapanplus.jp/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicjapanplus.jp privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618082820id_/http%3A//www.musicjapanplus.jp/privacy) for the most accurate reproduction.*
 
 # musicJAPANplus -Privacy policy+-
 
