@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolopticalillusions.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125220627id_/http%3A//www.coolopticalillusions.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolopticalillusions.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619014326id_/http%3A//www.coolopticalillusions.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Cool Optical Illusions | Privacy Policy
 
@@ -28,4 +28,4 @@ We may also use Valueclick or other vendors to provide advertising. [Valueclick 
 
 ### Contact Us
 
-If you have any specific questions about our privacy policy, please [contact us](https://web.archive.org/web/20131125220627id_/http%3A//www.coolopticalillusions.com/contact-us.htm).
+If you have any specific questions about our privacy policy, please [contact us](https://web.archive.org/web/20140619014326id_/http%3A//www.coolopticalillusions.com/contact-us.htm).
