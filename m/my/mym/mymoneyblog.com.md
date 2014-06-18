@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mymoneyblog.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216041623id_/http%3A//www.mymoneyblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymoneyblog.com privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618064404id_/http%3A//www.mymoneyblog.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » My Money Blog - Personal Finance and Investing Blog
+# Privacy Policy — My Money Blog
 
 I don’t sell your information or spam you. You can sign up for site updates or even updates to specific posts if you wish, but you must opt-in and you can cancel at any time. I do have a “web counter” that measures how many people visit my site, but it does not record any personally-identifiable information.
 
