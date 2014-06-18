@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ledhut.co.uk privacy policy that was archived on 2013-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131028203950id_/http%3A//www.ledhut.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ledhut.co.uk privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618053926id_/http%3A//www.ledhut.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -24,4 +24,4 @@ We may use technology to track the patterns of behaviour of visitors to our site
 
 We employ other companies & individuals to perform functions on our behalf. Those companies and individuals will have access to personal information needed to perform those functions, but may not use it for any other purposes and are required to process the data in accordance with Data Protection legislation.
 
-If you are receiving newsletters or other emails from ledhut, it is because you have signed up to our newsletters on one of our group of sites. You will only receive emails from Dealtastic and other websites within the same group. You can Unsubscribe from these emails at any time by clicking the Unsubscribe Link at the top of every email you receive. If you have difficulty with this link or wish to amend your details, you may notify us using the contact form on our site. Clicking the unsubscribe link normally takes immediate effect, however please allow up to 7 days during which time you may still continue to receive emails from us.
+If you are receiving newsletters or other emails from ledhut, it is because you have signed up to our newsletters on one of our group of sites. You will only receive emails from LED Hut and other websites within the same group. You can Unsubscribe from these emails at any time by clicking the Unsubscribe Link at the top of every email you receive. If you have difficulty with this link or wish to amend your details, you may notify us using the contact form on our site. Clicking the unsubscribe link normally takes immediate effect, however please allow up to 7 days during which time you may still continue to receive emails from us.
