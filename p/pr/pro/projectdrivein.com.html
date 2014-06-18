@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the projectdrivein.com privacy policy that was archived on 2013-12-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131224234753id_/http%3A//automobiles.honda.com/information/consumer-privacy-policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the projectdrivein.com privacy policy that was archived on 2014-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140618183354id_/http%3A//automobiles.honda.com/information/consumer-privacy-policy.aspx) for the most accurate reproduction.-->
 
 <html><head>
 
     <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <title>Privacy Policy - Official Honda Web Site</title>
 
 <meta name="keywords" content="Honda autos web site privacy policy user consumer e-mail address collection information email">
@@ -20,7 +20,7 @@
 
 <script language="JavaScript">
 
-    if (typeof opProto == 'undefined') {
+    if (typeof optimost == 'undefined') {
 
         // <!-- OPTIMOST PAGE CODE V2.7 - Copyright 2002-2009 Interwoven, Inc. -->
         var optimost={A:{},C:{},D:document,L:document.location,M:[],Q:{},T:new Date(),U:'',V:'2.7',Enabled:true,ST:"script",SA:
@@ -89,6 +89,19 @@
         <div id="PageLeftColumn"><img src="/images/_controls/global-header/background-header-left.png" width="17" height="51"></div>
         <div id="PageCenterColumn">
             
+
+
+
+<!--[if lt IE 9]>
+<style type="text/css">
+
+header, nav, section, article, aside, footer, hgroup, button {  display: block; }
+
+</style>
+<![endif]-->
+
+
+
 <script language="javascript" type="text/javascript">
 
 
@@ -100,22 +113,22 @@ var searchBox = function() {
 
     return {
     
-        focus : function() {
+        focus : function(selector) {
         
             if (sPlaceholderText == '') {
-                sPlaceholderText = document.getElementById('HeaderSearchText').value;
+                sPlaceholderText = document.getElementById(selector).value;
             }
 
-            if (document.getElementById('HeaderSearchText').value == sPlaceholderText) {
-                document.getElementById('HeaderSearchText').value = '';
+            if (document.getElementById(selector).value == sPlaceholderText) {
+                document.getElementById(selector).value = '';
             }
         
         } , 
         
-        blur : function() {
+        blur : function(selector) {
         
-            if (document.getElementById('HeaderSearchText').value == '') {
-                document.getElementById('HeaderSearchText').value = sPlaceholderText;
+            if (document.getElementById(selector).value == '') {
+                document.getElementById(selector).value = sPlaceholderText;
             }
         
         } , 
@@ -157,7 +170,7 @@ var searchBox = function() {
 
         	
 	        return {
-		        show:function(){
+		        show:function(selector){
 			        if(oToolTipDiv == null){
 				        oToolTipDiv = document.createElement('div');
 				        oToolTipDiv.setAttribute('id',id);
@@ -168,7 +181,7 @@ var searchBox = function() {
 			        if (!ie) {
 				        oToolTipDiv.style.filter = 'alpha(opacity=0)';
 				    }
-				    var rect = document.getElementById('HeaderSearchField').getBoundingClientRect();
+				    var rect = document.getElementById(selector).getBoundingClientRect();
                     oToolTipDiv.style.top = rect.bottom + 10 + 'px';
 			        oToolTipDiv.style.left = rect.left - 100 + 'px';
 			        oToolTipDiv.style.display = 'block';
@@ -195,69 +208,217 @@ var searchBox = function() {
 
 
 
-    function GlobalNavigationChangeModel(){
-        var oField=document.getElementById("HeaderModelSelector");
+    function GlobalNavigationChangeModel(selector){
+        var oField=document.getElementById(selector);
         var sUrl=oField.options[oField.selectedIndex].value;
         var sUrlSiteSection=oField.options[oField.selectedIndex].text;
         if(sUrl!=""){
-            if(typeof isHondaHomePage !=="undefined"){
-                if(isHondaHomePage==true) TrackNavigationClick(sUrlSiteSection);
-            }
             top.location.href="http://automobiles.honda.com" + sUrl;
+        }
+        if (GlobalNavigationTrackEvent) {
+            GlobalNavigationTrackEvent('selectahonda' , { vehicle : sUrlSiteSection} );
         }
     }
     // This function will redirect to search results page.
-    function GlobalNavigationSearchSite(){
-      if (document.getElementById("HeaderSearchText").value.replace(/ /g,'').length > 0) {
+    function GlobalNavigationSearchSite(selector){
+      if (document.getElementById(selector).value.replace(/ /g,'').length > 0) {
         // If 5 digits, do a dealer locator search
-        if (document.getElementById("HeaderSearchText").value.match(/(\d{5})/g)) {
-            top.location = 'http://automobiles.honda.com/tools/dealer-locator/results.aspx?address=&city=&state=&zip=' + document.getElementById("HeaderSearchText").value + '&dealername=&filters=&fromsection=NEW';
+        if (document.getElementById(selector).value.match(/(\d{5})/g)) {
+            top.location = 'http://automobiles.honda.com/tools/dealer-locator/results.aspx?address=&city=&state=&zip=' + document.getElementById(selector).value + '&dealername=&filters=&fromsection=NEW';
         } else {
-            top.location = "http://automobiles.honda.com/search-results.aspx?question="+escape(document.getElementById("HeaderSearchText").value);
+            top.location = "http://automobiles.honda.com/search-results.aspx?question="+escape(document.getElementById(selector).value);
         }
         
-      }
-      else {
-      alert("You must enter a question before submitting");
+      } else {
+        alert("You must enter a question before submitting");
       }    
     }
-    function TrackNavigationClick(SiteSection){
-        var s=s_gi(s_account);
-        s.linkTrackVars='prop16,prop21,prop23,prop24,prop25,eVar31,eVar21,eVar23,eVar24,eVar25';
-        s.prop21=Currentprop21;
-        s.prop23=Currentprop23;
-        s.prop24=Currentprop24;
-        s.prop25=Currentprop25;
-        s.eVar21=s.prop21;
-        s.eVar23=s.prop23;
-        s.eVar24=s.prop24;
-        s.eVar25=s.prop25;
-        s.prop16="Home Page Site Nav DropDown : "+SiteSection;
-        s.eVar31="Home Page Site Nav DropDown : "+SiteSection;
-        s.tl(this,'o','GLOBAL NAVIGATION CLICK');
-    }
+
+
+
+
 </script>
 
-<div id="HeaderContainer">
-    <form id="HeaderForm" onsubmit="GlobalNavigationSearchSite(); return false;">
-        <div id="HeaderLogo"><a href="http://automobiles.honda.com/" target="_top" onmouseover="SwitchImg('HondaLogo', '/images/_controls/global-header/honda-logo-over.gif')" onmouseout="SwitchImg('HondaLogo', '/images/_controls/global-header/honda-logo-off.gif')"><img src="/images/_controls/global-header/honda-logo-off.gif" id="HondaLogo" width="73" height="51"></a></div>
-        <div id="HeaderModelSelect"><select name="HeaderModelSelector" id="HeaderModelSelector" class="HeaderModelSelector" onchange="GlobalNavigationChangeModel()"><option value="">Select a Model</option><option value="/accord-coupe">Accord Coupe</option><option value="/accord-sedan">Accord Sedan</option><option value="/accord-plug-in">Accord Plug-In</option><option value="/accord-hybrid">Accord Hybrid</option><option value="/civic-coupe">Civic Coupe</option><option value="/civic-hybrid">Civic Hybrid Sedan</option><option value="/civic-hf">Civic HF Sedan</option><option value="/civic-natural-gas">Civic Natural Gas</option><option value="/civic-sedan">Civic Sedan</option><option value="/civic-si-coupe">Civic Si Coupe</option><option value="/civic-si-sedan">Civic Si Sedan</option><option value="/crosstour">Crosstour</option><option value="/cr-v">CR-V SUV</option><option value="/cr-z">CR-Z Sport Hybrid</option><option value="/fcx-clarity">FCX Clarity Electric Vehicle</option><option value="/fit">Fit 5-Door</option><option value="/fit-ev">Fit EV</option><option value="/insight-hybrid">Insight Hybrid</option><option value="/odyssey">Odyssey Minivan</option><option value="/pilot">Pilot SUV</option><option value="/ridgeline">Ridgeline Truck</option><option value="/alternative-fuel-vehicles/">Hybrid and Alternative Fuel Vehicles</option><option value="/all-models.aspx">All Models</option><option value="/certified-used/">Certified Used Cars</option><option value="/future-cars/">Future Models &amp; Concepts</option></select>
-                
+
+<!--[if lt IE 9]>
+<script type="text/javascript">
+document.createElement('header');
+document.createElement('nav');
+document.createElement('button');
+document.createElement('footer');
+document.createElement('hgroup');
+document.createElement('label');
+document.createElement('article');
+document.createElement('section');
+document.createElement('aside');
+</script>
+<![endif]-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <link type="text/css" rel="stylesheet" href="http://fast.fonts.net/cssapi/d43a615e-657b-4929-b630-86616bb31fb9.css">
+    
+    <!--[if lt IE 9]>
+    <style type="text/css">
+        #UHeader { position: relative; }
+            #UHeader #UHeaderNav { width: 680px; height: 52px; overflow: hidden; }
+                #UHeader #UHeaderNav li span.vehiclesDDList select { filter: alpha(opacity = 0); }
+
+            #UHeader form { behavior: url(/js/PIE.htc); position: relative; }
+            #UHeader form input { padding-top: 5px; height: 20px; }
             
-        </div>
+        header, nav, section, article, aside, footer, hgroup, button {  display: block; }
         
-        <div class="HeaderLink"><a href="http://automobiles.honda.com/tools/dealer-locator/" target="_top">Find a Dealer</a></div>
-        <div class="HeaderDiv"><img src="/images/_controls/global-header/header-div.gif" width="1" height="31"></div>
-        <div class="HeaderLink"><a href="http://automobiles.honda.com/tools/build-price/" target="_top">Build Your Honda</a></div>
-        <div class="HeaderDiv"><img src="/images/_controls/global-header/header-div.gif" width="1" height="31"></div>
-        <div class="HeaderLink"><a href="http://automobiles.honda.com/tools/price-quote.aspx" target="_top">Request a Quote</a></div>
-        <div class="HeaderDiv"><img src="/images/_controls/global-header/header-div.gif" width="1" height="31"></div>
-        <div class="HeaderLink"><a href="http://automobiles.honda.com/tools/compare/" target="_top">Compare Vehicles</a></div>
+        .UHeaderSpacer { display: none !important; }
+    </style>
+    <![endif]-->
+
+
+
+    <script type="text/javascript">
+    
+        function GlobalNavigationTrackEvent(sEvent , args) {
         
-            <div id="HeaderSearchField"><input type="text" id="HeaderSearchText" onmouseover="searchBox.tooltip().show();" onmouseout="searchBox.tooltip().hide();" value="Search / Find A Dealer" onfocus="searchBox.focus();" onblur="searchBox.blur();"></div>
+            switch (sEvent) {
+            
+                case 'selectahonda':
+                    CallSDotTL(s , true , 'SELECT A HONDA LINK ON GLOBAL NAV' , 'o' , { prop1 : args['vehicle'].toUpperCase() , linkTrackVars : 'prop1,prop25,prop37' } );
+                    break;
+                case 'build':
+                    CallSDotTL(s , true , 'BUILD AND PRICE LINK ON GLOBAL NAV' , 'o' , { linkTrackVars : 'prop25,prop37' } );
+                    break;
+                case 'offers':
+                    CallSDotTL(s , true , 'CURRENT OFFERS LINK ON GLOBAL NAV' , 'o' , { linkTrackVars : 'prop25,prop37' } );
+                    break;
+                case 'estimate':
+                    CallSDotTL(s , true , 'ESTIMATE PAYMENTS LINK ON GLOBAL NAV' , 'o' , { linkTrackVars : 'prop25,prop37' } );
+                    break;
+                case 'compare':
+                    CallSDotTL(s , true , 'COMPARE VEHICLES LINK ON GLOBAL NAV' , 'o' , { linkTrackVars : 'prop25,prop37' } );
+                    break;
+                case 'dealer':
+                    CallSDotTL(s , true , 'FIND A DEALER LINK ON GLOBAL NAV' , 'o' , { linkTrackVars : 'prop25,prop37' } );
+                    break;
+            }
         
-    </form>
-</div>
+        }
+    
+    </script>
+
+
+
+    <header id="UHeader">
+        <div id="UHeaderLogo"><a href="http://automobiles.honda.com/" target="_top"></a></div>
+        <nav id="UHeaderNav">
+            <ul class="avenir-med">
+                <li>
+                    <span class="vehiclesList"><a href="/all-models.aspx" target="_top"><span id="headerVehiclesListText" class="text">VEHICLES</span> <span id="headerVehiclesListArrow" class="arrow"></span></a></span>
+                    <span class="rightBorder"></span>
+                </li>
+                
+                <li onmouseover="document.getElementById('headerVehiclesListText').className = 'textOn'; document.getElementById('headerVehiclesListArrow').className = 'arrowOn';" onmouseout="document.getElementById('headerVehiclesListText').className = 'text'; document.getElementById('headerVehiclesListArrow').className = 'arrow';"><span class="vehiclesDDList">
+                    <select name="UHeaderModelSelector" id="UHeaderModelSelector" class="UHeaderModelSelector" onchange="GlobalNavigationChangeModel('UHeaderModelSelector');">
+                        <option value="">Select a Vehicle</option>
+                        
+                            <option value="/accord-coupe">Accord Coupe</option>
+                        
+                            <option value="/accord-sedan">Accord Sedan</option>
+                        
+                            <option value="/accord-plug-in">Accord Plug-In</option>
+                        
+                            <option value="/accord-hybrid">Accord Hybrid</option>
+                        
+                            <option value="/civic-coupe">Civic Coupe</option>
+                        
+                            <option value="/civic-hybrid">Civic Hybrid Sedan</option>
+                        
+                            <option value="/civic-hf">Civic HF Sedan</option>
+                        
+                            <option value="/civic-natural-gas">Civic Natural Gas</option>
+                        
+                            <option value="/civic-sedan">Civic Sedan</option>
+                        
+                            <option value="/civic-si-coupe">Civic Si Coupe</option>
+                        
+                            <option value="/civic-si-sedan">Civic Si Sedan</option>
+                        
+                            <option value="/crosstour">Crosstour</option>
+                        
+                            <option value="/cr-v">CR-V SUV</option>
+                        
+                            <option value="/cr-z">CR-Z Sport Hybrid</option>
+                        
+                            <option value="/fcx-clarity">FCX Clarity Electric Vehicle</option>
+                        
+                            <option value="/fit">Fit 5-Door</option>
+                        
+                            <option value="/fit-ev">Fit EV</option>
+                        
+                            <option value="/insight-hybrid">Insight Hybrid</option>
+                        
+                            <option value="/odyssey">Odyssey Minivan</option>
+                        
+                            <option value="/pilot">Pilot SUV</option>
+                        
+                            <option value="/ridgeline">Ridgeline Truck</option>
+                        
+                            <option value="/alternative-fuel-vehicles/">Hybrid and Alternative Fuel Vehicles</option>
+                            <option value="/all-models.aspx">All Vehicles</option>
+                            <option value="/certified-used/">Certified Used Cars</option>
+                            <option value="/future-cars/">Future Models &amp; Concepts</option>
+                    </select>
+                </span></li>
+                
+                <li>
+                    <span class="buildLink"><a href="http://automobiles.honda.com/tools/build-price/" target="_top" onclick="GlobalNavigationTrackEvent('build');">BUILD<br>YOUR OWN</a></span>
+                    <span class="rightBorder"></span>
+                </li>
+                <li>
+                    <span class="offersLink"><a href="http://automobiles.honda.com/current-offers.aspx" target="_top" onclick="GlobalNavigationTrackEvent('offers');">CURRENT OFFERS</a></span>
+                    <span class="rightBorder"></span>
+                </li>
+                <li>
+                    <span class="estimateLink"><a href="http://automobiles.honda.com/tools/monthly-payment-estimator/" target="_top" onclick="GlobalNavigationTrackEvent('estimate');">ESTIMATE PAYMENTS</a></span>
+                    <span class="rightBorder"></span>
+                </li>
+                <li>
+                    <span class="compareLink"><a href="http://automobiles.honda.com/tools/compare/" target="_top" onclick="GlobalNavigationTrackEvent('compare');">COMPARE VEHICLES</a></span>
+                    <span class="rightBorder"></span>
+                </li>
+                <li>
+                    <span class="dealerLink"><a href="http://automobiles.honda.com/tools/dealer-locator/" target="_top" onclick="GlobalNavigationTrackEvent('dealer');">FIND A DEALER</a></span>
+                </li>
+            </ul>
+        </nav>
+        
+        <form id="UHeaderSearchField" onsubmit="return false;">
+            <input type="text" name="search" id="UHeaderSearchText" value="Search / Find a Dealer" onmouseover="searchBox.tooltip().show('UHeaderSearchField');" onmouseout="searchBox.tooltip().hide();" onfocus="searchBox.focus('UHeaderSearchText');" onblur="searchBox.blur('UHeaderSearchText');">
+            <button onclick="GlobalNavigationSearchSite('UHeaderSearchText');"></button>
+        </form>
+        
+    </header>
+    <div class="UHeaderSpacer">&nbsp;</div> <!-- push everything down since the header floats -->
+
+
 
             <div id="PrivacyContainer">
                 <div id="PageTitle" class="PageTitle"></div>
@@ -579,35 +740,188 @@ American Honda Finance Corporation ("AHFC") respects and protects customer priva
             </div>
             
 
-<div id="FooterContainer">
 
-    <div id="FooterLinks">
-        <div id="FooterLinksContainer">
-            <div class="FooterLink"><a href="http://automobiles.honda.com/spanish/" target="_top">En Español</a></div>
-            <div class="FooterDiv"></div>                    
-            <div class="FooterLink"><a href="http://automobiles.honda.com/information/customer-relations.aspx" target="_top">Customer Service/FAQs</a></div>
-            <div class="FooterDiv"></div>
-            <div class="FooterLink"><a href="http://automobiles.honda.com/information/owner-resources.aspx" target="_top">Owner Resources</a></div>
-            <div class="FooterDiv"></div>
-            <div class="FooterLink"><a href="http://automobiles.honda.com/mobile/" target="_top">Mobile Site</a></div>
-            <div class="FooterDiv"></div>
-            <div class="FooterLink"><a href="http://www.honda.com/" target="_top">All Honda Sites</a></div>
-            <div class="FooterDiv"></div>
-            <div class="FooterLink"><a href="http://automobiles.honda.com/information/consumer-privacy-policy.aspx" target="_top">Privacy Policy</a></div>
-            <div class="FooterDiv"></div>
-            <div class="FooterLink"><a href="http://automobiles.honda.com/information/legal-terms.aspx" target="_top">Terms of Use</a></div>
-            <div class="FooterDiv"></div>
-            <div class="FooterLink"><a href="http://automobiles.honda.com/site-map.aspx" target="_top">Site Map</a></div>
-        </div>
-    </div>
-    <div id="FooterCopyright">
-        ©2013 <span class="DottedLink"><b class="FooterCorporateLink"><a href="http://www.honda.com/" target="_top">American Honda Motor Co., Inc</a></b>.  All information contained herein applies to U.S. vehicles only.
-        <a id="HondaWorldwideLink" href="http://world.honda.com/link/" target="_top">Honda Worldwide</a>.</span>
-        <a id="AdChoices" href="http://preferences.truste.com/preference.html?affiliateId=99" target="_blank">AdChoices<img class="AdChoicesLogo" src="/images/_global/logos/AdChoicesLogo.gif" border="0"></a>    
 
-    </div>
 
+
+
+
+<!--[if lt IE 9]>
+<style type="text/css">
+    #UFooter .emailButton { behavior: url(/js/PIE.htc); position: relative; }
+</style>
+<![endif]-->
+
+
+
+<div class="UFooterClear">&nbsp;</div>
+<footer id="UFooter">
+<div id="footerColumnVehicles" class="footerCol avenir-med">
+    <p>Vehicles</p>
+    <ul>
+        <li><a href="/accord/" onclick="GlobalFooterTrackLink(this);">Accord Models</a></li>
+        <li><a href="/civic/" onclick="GlobalFooterTrackLink(this);">Civic Models</a></li>
+        <li><a href="/cr-v/" onclick="GlobalFooterTrackLink(this);">CR-V SUV</a></li>
+        <li><a href="/fit/" onclick="GlobalFooterTrackLink(this);">Fit Hatchback</a></li>
+        <li><a href="/odyssey/" onclick="GlobalFooterTrackLink(this);">Odyssey Minivan</a></li>
+        <li><a href="/pilot/" onclick="GlobalFooterTrackLink(this);">Pilot SUV</a></li>
+        <li><a href="/cr-z/" onclick="GlobalFooterTrackLink(this);">CR-Z Sport Hybrid</a></li>
+        <li><a href="/crosstour/" onclick="GlobalFooterTrackLink(this);">Crosstour</a></li>
+        <li><a href="/fcx-clarity/" onclick="GlobalFooterTrackLink(this);">FCX Clarity FCEV</a></li>
+        <li><a href="/insight-hybrid/" onclick="GlobalFooterTrackLink(this);">Insight Hybrid</a></li>
+        <li><a href="/ridgeline/" onclick="GlobalFooterTrackLink(this);">Ridgeline Truck</a></li>
+        <li><a href="/certified-used/" onclick="GlobalFooterTrackLink(this);">Honda Certified Used Cars</a></li>
+        <li><a href="/future-cars/" onclick="GlobalFooterTrackLink(this);">Future Vehicles</a></li>
+    </ul>
 </div>
+<div class="footerCol avenir-med">
+    <p>Shopping Tools</p>
+    <ul>
+        <li><a href="/tools/build-price/" onclick="GlobalFooterTrackLink(this);">Build Your Own</a></li>
+        <li><a href="/tools/dealer-locator/" onclick="GlobalFooterTrackLink(this);">Find a Dealer</a></li>
+        <li><a href="/current-offers.aspx" onclick="GlobalFooterTrackLink(this);">Current Offers</a></li>
+        <li><a href="/tools/monthly-payment-estimator/" onclick="GlobalFooterTrackLink(this);">Estimate Payments</a></li>
+        <li><a href="/tools/request-a-quote/" onclick="GlobalFooterTrackLink(this);">Request a Quote</a></li>
+        <li><a href="/tools/compare/" onclick="GlobalFooterTrackLink(this);">Compare Vehicles</a></li>
+    </ul>
+</div>
+<div class="footerCol avenir-med">
+    <p>Owners</p>
+    <ul>
+        <li><a href="/information/owner-resources.aspx" onclick="GlobalFooterTrackLink(this);">Owner Resources</a></li>
+        <li><a href="http://collision.honda.com/locator" onclick="GlobalFooterTrackLink(this);">Bodyshop Locator</a></li>
+        <li><a href="http://estore.honda.com/asp/logon.asp?bhcp=1" onclick="GlobalFooterTrackLink(this);">Parts &amp; Accessories</a></li>
+        <li><a href="http://www.hondafinancialservices.com/" onclick="GlobalFooterTrackLink(this);">Pay My Bill</a></li>
+        <li><a href="https://radio-navicode.honda.com/" onclick="GlobalFooterTrackLink(this);">Radio or Navi Code</a></li>
+        <li><a href="http://owners.honda.com/service-maintenance/recalls" onclick="GlobalFooterTrackLink(this);">Recalls</a></li>
+    </ul>
+</div>
+<div class="footerCol avenir-med">
+    <p>About Honda</p>
+    <ul>
+        <li><a href="/news/news.aspx" onclick="GlobalFooterTrackLink(this);">News &amp; Events</a></li>
+        <li><a href="http://corporate.honda.com/careers/" onclick="GlobalFooterTrackLink(this);">Careers</a></li>
+        <li><a href="http://asimo.honda.com/" onclick="GlobalFooterTrackLink(this);">ASIMO® Robot</a></li>
+        <li><a href="http://world.honda.com/investors/" onclick="GlobalFooterTrackLink(this);">Investor Relations</a></li>
+        <li><a href="http://csr.honda.com" onclick="GlobalFooterTrackLink(this);" class="wrapped-line">Corporate Social Responsibility</a></li>
+        <li><a href="http://www.honda.com" onclick="GlobalFooterTrackLink(this);">Honda in America</a></li>
+        <li><a href="http://world.honda.com/link/" onclick="GlobalFooterTrackLink(this);">Honda Worldwide</a></li>
+    </ul>
+</div>
+<div class="footerCol avenir-med">
+    <p>All Honda Products</p>
+    <ul> 
+        <li><a href="http://engines.honda.com" onclick="GlobalFooterTrackLink(this);">Engines</a></li>
+        <li><a href="http://www.hondafinancialservices.com" onclick="GlobalFooterTrackLink(this);">Honda Financial Services</a></li>
+        <li><a href="http://hpd.honda.com" onclick="GlobalFooterTrackLink(this);">Honda Racing</a></li>
+        <li><a href="http://www.hondajet.com" onclick="GlobalFooterTrackLink(this);">HondaJet</a></li>
+        <li><a href="http://marine.honda.com" onclick="GlobalFooterTrackLink(this);">Marine</a></li>
+        <li><a href="http://powersports.honda.com" onclick="GlobalFooterTrackLink(this);">Motorcycles</a></li>
+        <li><a href="http://powerequipment.honda.com" onclick="GlobalFooterTrackLink(this);">Power Equipment</a></li>
+    </ul>
+</div>
+<div id="footerColumnSocial" class="footerCol avenir-med">
+    <p>Honda Social</p>
+    <ul>
+        <li><a href="http://www.facebook.com/Honda" onclick="GlobalFooterTrackLink(this);">
+                <div class="fbIcon footerSocialIcon"></div>
+                <div class="footerSocialLabel">Facebook</div>
+        </a></li>
+        <li><a href="https://twitter.com/Honda" onclick="GlobalFooterTrackLink(this);">
+                <div class="twIcon footerSocialIcon"></div>
+                <div class="footerSocialLabel">Twitter</div>
+        </a></li>
+        <li><a href="http://www.youtube.com/user/Honda" onclick="GlobalFooterTrackLink(this);">
+            <div class="ytIcon footerSocialIcon"></div>
+            <div class="footerSocialLabel">YouTube</div></a>
+        </li>
+        <li><a href="https://plus.google.com/+Honda/posts" onclick="GlobalFooterTrackLink(this);">
+            <div class="gpIcon footerSocialIcon"></div>
+            <div class="footerSocialLabel">Google+</div>
+        </a></li>
+        <li><a href="http://instagram.com/honda" onclick="GlobalFooterTrackLink(this);">
+            <div class="inIcon footerSocialIcon"></div>
+            <div class="footerSocialLabel">Instagram</div>
+        </a></li>
+        <li><a href="https://www.pinterest.com/honda/" onclick="GlobalFooterTrackLink(this);">
+            <div class="piIcon footerSocialIcon"></div>
+            <div class="footerSocialLabel">Pinterest</div>
+        </a></li>
+        <li><a href="http://www.linkedin.com/company/american-honda-motor-company-inc." onclick="GlobalFooterTrackLink(this);">
+            <div class="liIcon footerSocialIcon"></div>
+            <div class="footerSocialLabel">LinkedIn</div>
+        </a></li>
+        <li><a href="http://www.tumblr.com/tagged/honda" onclick="GlobalFooterTrackLink(this);">
+            <div class="tbIcon footerSocialIcon"></div>
+            <div class="footerSocialLabel">Tumblr</div>
+        </a></li>
+        <li><a href="https://vine.co/Honda" onclick="GlobalFooterTrackLink(this);">
+            <div class="viIcon footerSocialIcon"></div>
+            <div class="footerSocialLabel">Vine</div>
+        </a></li>
+    </ul>
+    <a href="/information/e-mail-updates.aspx" onclick="GlobalFooterTrackLink(this);">
+        <div class="emailButton">
+            <div class="emIcon footerSocialIcon"></div>
+            <div class="footerSocialLabel" style="color:#fff">Email Updates</div>
+        </div>
+    </a>
+</div>
+<div class="btmDisclaimer">
+    <div class="btmLogo"><a href="/">&nbsp;</a></div>
+    <div class="footer-nav">
+        <ul class="avenir-med">
+            <li><a href="/information/customer-relations.aspx">Customer Service</a></li>
+            <li><a href="/information/frequently-asked-questions.aspx">FAQs</a></li>
+            <li><a href="/information/consumer-privacy-policy.aspx">Privacy Policy</a></li>
+            <li><a href="/information/legal-terms.aspx">Terms of Use</a></li>
+            <li><a href="/site-map.aspx">Site Map</a></li>
+        </ul>
+    </div>
+    <p>©2014 <a href="http://www.honda.com">American Honda Motor Co., Inc.</a> All information contained herein applies to U.S. vehicles only. Please see our <a href="/information/consumer-privacy-policy.aspx">Privacy Policy</a> and <a href="/information/legal-terms.aspx">Legal Terms and Conditions</a>.<br>For non-U.S.-distributor information go to <a href="http://world.honda.com/link/">world.honda.com</a>. Mobile users, please visit our <a href="/mobile/">Mobile Site</a>.</p>
+</div>
+</footer>
+
+
+<script>
+
+    // Tracking for links in footer
+    function GlobalFooterTrackLink(ths) {
+
+        var linkText = (ths.text) ? (ths.text) : (ths.innerText);
+        linkText = linkText.replace(/^\s\s*/, '').replace(/\s\s*$/, ''); ;
+        var linkHref = ths.href.replace(/^\s\s*/, '').replace(/\s\s*$/, ''); ;
+        var linkCategory = '';
+
+        // We need to figure out what "Category" this link is under
+        // All categories are in the same <div> block in <p> tags
+        // Traverse up the DOM from the link node until there is a <p> node beneath it
+        var parentNode = ths.parentNode;
+        while (parentNode.getElementsByTagName('p').length < 1) {
+            // Base-Case
+            if (parentNode == parentNode.parentNode) break;
+            parentNode = parentNode.parentNode;
+        }
+        if (parentNode.getElementsByTagName('p').length > 0) {
+            linkCategory = parentNode.getElementsByTagName('p')[0].innerHTML;
+        }
+
+
+        var linkName = 'GLOBAL FOOTER:' + linkCategory + ':' + linkText;
+
+        // Link type will be different for internal links and external links
+        var linkType = 'o';
+        if (linkHref.indexOf('//' + document.location.hostname) < 0) {
+            linkType = 'e';
+        }
+
+        CallSDotTL(s, true, linkName, linkType, { linkTrackVars: 'prop25,prop37' });
+        
+        return false;
+    }
+
+</script>
+
 
         </div>
         <div id="PageRightColumn"><img src="/images/_controls/global-header/background-header-right.png" width="20" height="51"></div>
@@ -668,13 +982,22 @@ var s_account = 'ahmautomobilesprod';
 
     }
     
-    function CallSDotTL(s , sObject , sLinkName , sLinkType) {
+    function CallSDotTL(s , sObject , sLinkName , sLinkType , oTempVars) {
   
         // Nothing should call s.t() directly. Everything should go through this function.
     
         s = FormatVars(s);
+
+        if (typeof oTempVars == 'object') {
+            oTempVars = FormatVars(oTempVars);
+        }
         
-        s.tl(sObject , sLinkType , sLinkName);
+        if (sLinkName) {
+            sLinkName = sLinkName.toUpperCase();
+        }
+
+        
+        s.tl(sObject , sLinkType , sLinkName , oTempVars);
 
     }
     
@@ -723,7 +1046,7 @@ var s_account = 'ahmautomobilesprod';
         // Trim whitespace off the end of values and uppercase values
         for (var sKey in s) {
             if ( (sKey.substr(0,4) == 'prop') || (sKey.substr(0,4) == 'eVar') || (sKey.substr(0,8) == 'pageName') || (sKey.substr(0,8) == 'linkName') || (sKey.substr(0,8) == 'channel') ) {
-                if (s[sKey] != '') {
+                if ( (s[sKey] != '') && (s[sKey] !== undefined) ) {
                     s[sKey] = (s[sKey] + '').replace(/^\s+|\s+$/g, '');
                     s[sKey] = s[sKey].toUpperCase();
                 }
@@ -750,7 +1073,7 @@ var s_account = 'ahmautomobilesprod';
 /* You may give each page an identifying name, server, and channel on
 the next lines. */
 s.linkInternalFilters="javascript:,rpa.com,honda.com,redesign.automobiles.honda.com,automobiles.honda.com"
-s.servers='10.100.71.123';
+s.servers='10.100.71.109';
 
 var CurrentPageName='Privacy Policy';
 if(CurrentPageName=='')CurrentPageName="Honda Automobiles - " + document.location.href;
@@ -945,6 +1268,8 @@ function CreateDivAndWriteContent(sText) {
 
     var oNewDiv = document.createElement('div');
     oNewDiv.innerHTML = sText;
+    oNewDiv.style.width = '1px';
+    oNewDiv.style.height = '1px';
     document.body.appendChild(oNewDiv);
 
 }
