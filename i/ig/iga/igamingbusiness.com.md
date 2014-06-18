@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the igamingbusiness.com privacy policy that was archived on 2013-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131019153006id_/http%3A//www.igamingbusiness.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igamingbusiness.com privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618205900id_/http%3A//www.igamingbusiness.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | iGaming Business
 
 ## You are here
 
-[Home](https://web.archive.org/home) » Privacy policy
+[Home](https://web.archive.org/node/15355) » Privacy policy
 
 ### **Information collection and use**
 
