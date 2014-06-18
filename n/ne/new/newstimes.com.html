@@ -1,74 +1,62 @@
-<!--The following is the downloaded HTML source of the newstimes.com privacy policy that was archived on 2013-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131231150334id_/http%3A//www.newstimes.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the newstimes.com privacy policy that was archived on 2014-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140618144341id_/http%3A//www.newstimes.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><!-- eid:channel.3177 -->
-	<meta http-equiv="content-type" content="text/html; charset=utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
-<script>var HDN = HDN || {}; HDN.t_firstbyte = Number(new Date());</script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<!-- eid:channel.3177 -->        <meta http-equiv="content-type" content="text/html; charset=utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAcHUF9ACQcHVVRV"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+        <script>var HDN = HDN || {}; HDN.t_firstbyte = Number(new Date());</script>
+        <!-- generated at 2014-06-18 09:29:12 on prodWCM4 running vr5.15.2.0 -->
+        <meta name="adwiz-site" content="nt">
+        <meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
 
-		<!-- generated at 2013-12-31 08:46:49 on prodWCM4 running vr5.4.0.15 -->
-		<meta name="adwiz-site" content="nt">
-		<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
 
-		
-		<script type="text/javascript">
+        <script type="text/javascript">
+        bizobject_identifier = "channel_3177";
 
-			bizobject_identifier = "channel_3177";
-			
-			// <![CDATA[
-			// document.domain = "hearstnp.com";
-			var requestTime = new Date(1388501209 * 1000);
+        // <![CDATA[
+        var requestTime = new Date(1403101752 * 1000);
 
-																				
-								
-				
-				// bizobject variables
-				var omni_channelPath = "Information :: Privacy Policy";
-				var omni_title = "Privacy Policy";
-				var omni_bizObjectId = "3177";
-				var omni_className = "channel";
-				var omni_publicationDate = "2009-10-14 18:29:00";
-				var omni_sourceSite="newstimes";
+                    
+            
+            // bizobject variables
+        var omni_channelPath = "Information :: Privacy Policy";
+        var omni_title = "Privacy Policy";
+        var omni_bizObjectId = "3177";
+        var omni_className = "channel";
+        var omni_publicationDate = "2009-10-14 18:29:00";
+        var omni_sourceSite="newstimes";
 
-				// article specific variables
-				var omni_authorName = "";
-				var omni_authorTitle = "";
-				var omni_pageNumber = "";
-				var omni_breakingNewsFlag = "";
-				var omni_localNewsFlag = "";
+        // article specific variables
+        var omni_authorName = "";
+        var omni_authorTitle = "";
+        var omni_pageNumber = "";
+        var omni_breakingNewsFlag = "";
+        var omni_localNewsFlag = "";
 
-                			
-            			// ]]>
-		</script>
-	<!--[if IE 6]><script type="text/javascript" src="/js/hdn/utils/DD_belatedPNG_0.0.8a-min.js"></script><![endif]-->
-		
-	    <link rel="stylesheet" type="text/css" href="/external/css/global.sharedmain.r5.4.0.15.css" media="all">
-	    <link rel="stylesheet" type="text/css" href="/external/css/global.sharedmodules.r5.4.0.15.css" media="all">
-	    <link rel="stylesheet" type="text/css" href="/external/css/global.sharedpages.r5.4.0.15.css" media="all">
+            // ]]>
+        </script>
+        <!--[if IE 6]><script type="text/javascript" src="/js/hdn/utils/DD_belatedPNG_0.0.8a-min.js"></script><![endif]-->
+<link rel="stylesheet" type="text/css" href="/external/css/global.sharedmain.r5.15.2.0.css" media="all">
+<link rel="stylesheet" type="text/css" href="/external/css/global.sharedmodules.r5.15.2.0.css" media="all">
+<link rel="stylesheet" type="text/css" href="/external/css/global.sharedpages.r5.15.2.0.css" media="all">
+<link rel="stylesheet" type="text/css" href="/external/css/global.sitemain.r5.15.2.0.css" media="all">
+<link rel="stylesheet" type="text/css" href="/external/css/global.sitemodules.r5.15.2.0.css" media="all">
+<link rel="stylesheet" type="text/css" href="/external/css/global.sitepages.r5.15.2.0.css" media="all">
+        <script type="text/javascript" src="/js/hdn/utils/modernizr-2.6.2.min.js"></script>
+<script type="text/javascript" src="/external/js/global.header.r5.15.2.0.js"></script>
+        <script type="text/javascript" async="" src="http://launch.newsinc.com/js/embed.js" id="_nw2e-js"></script>
+<script language="JavaScript" type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js"></script>
 
-	    <link rel="stylesheet" type="text/css" href="/external/css/global.sitemain.r5.4.0.15.css" media="all">
-	    <link rel="stylesheet" type="text/css" href="/external/css/global.sitemodules.r5.4.0.15.css" media="all">
-	    <link rel="stylesheet" type="text/css" href="/external/css/global.sitepages.r5.4.0.15.css" media="all">
-
-				
-		<script type="text/javascript" src="/external/js/global.header.r5.4.0.15.js"></script>
-		
-
-		
-		<title>Privacy Policy - NewsTimes</title>
-
-		<link rel="SHORTCUT ICON" href="/favicon.ico">
-		<link rel="apple-touch-icon" href="/apple-touch-icon.png">
-
-		
-			<link rel="canonical" href="http://www.newstimes.com/privacy/">
-
-			
-						
-			
-			
-			
+        <title>Privacy Policy - NewsTimes</title>
+        <link rel="SHORTCUT ICON" href="/favicon.ico">
+        <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+                                        <link rel="canonical" href="http://www.newstimes.com/privacy/">
+        <link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.newstimes.com/privacy/">    
+    
+    
+    
+        
+        
 
     <meta property="og:title" content="Privacy Policy">
         <meta property="og:type" content="article">
@@ -77,18 +65,16 @@
     <meta property="og:site_name" content="NewsTimes">
 
     
-		<!-- /business/templates/hearst/home/header_fbpage.tpl-->
+<!-- /business/templates/hearst/home/header_fbpage.tpl-->
     <meta property="fb:page_id" content="222959748728">
     <meta property="fb:admins" content="9000393,653226748,58963564,710213297,100001539234772,601331469,384537191685775">
         <meta property="fb:app_id" content="384537191685775">
-        		
+        
         
         <script type="text/javascript" id="adPositionManagerScriptTag" src="http://aps.hearstnp.com/Scripts/loadAds.js"></script>
-
-              <!-- sectionDesign  siteid  id  -->
-
-       
-
+                            <!-- sectionDesign  siteid  id  -->
+            
+            
 <!-- CSS/JS Hotfix freeform -->
 
 <!-- hearst/item/standalone.tpl -->
@@ -97,40 +83,63 @@
 <link rel="stylesheet" type="text/css" href="/css/hdn/utils/olive_modal.css">
 <script type="text/javascript" src="/js/hdn/utils/jquery.digitaldoor.js"></script>
 
-<link href="/css/hdn/modules/pluck_cache_comments.css" rel="stylesheet" type="text/css">
+<style>
+    .hdn-comments .viafoura .hdn-vf-comment-counts { display: block; }
 
-<!-- CFREE-6700 -->
-<script type="text/javascript">(function(e){var t=e.createElement("script");if(document.cookie.indexOf("nsghtn=dev")>-1){console.log("Ensighten DEV");t.src=e.location.protocol+"//nexus.ensighten.com/hearst/news-dev/Bootstrap.js"}else{console.log("Ensighten Prod");t.src=e.location.protocol+"//nexus.ensighten.com/hearst/news/Bootstrap.js"}t.async=true;e.getElementsByTagName("head")[0].appendChild(t)})(document)</script><script src="https://nexus.ensighten.com/hearst/news/Bootstrap.js" async=""></script>
+/* CFREE-7075 */
+.hst-billboard {float:none;}
 
+/* CFREE-7093 */
+.hst-articletext img { max-width: 350px; }
+</style>
 
-	</head>
+<!-- Bing Webmaster Tools verification -->
+<meta name="msvalidate.01" content="9451CA04ABC9D1D5C6419C73B4C4F7B7">
 
-<body class="body privacy hst-channel">
-            <script type="text/javascript" src="/external/js/global.top.r5.4.0.15.js"></script>
-    			<!-- ux/ctpost/tmpl/channel_omniture.php common file for ct props -->
+<style type="text/css"> 
+/* CFREE-7076*/
+    div.gallery-container .hst-mostpopular {
+        clear: both;
+        float:none;
+    } 
+</style>
+
+<!-- CREQ-910 -->
+
+<script type="text/javascript">
+	// <![CDATA[
+	jQuery(function($) {
+		if($("body").hasClass("hst-cmfThirdPartyHeader")){
+			$('.hst-siteheader a').attr('target', '_top');
+		}
+	});
+	// ]]>
+</script>
+
+    
+    <script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head>
+    <body class="body privacy hst-channel">
+    <script type="text/javascript" src="/external/js/global.top.r5.15.2.0.js"></script>
+            <!-- ux/ctpost/tmpl/channel_omniture.php common file for ct props -->
 <!-- e channel_omniture.php -->
-		<!-- ux/ctpost/tmpl/analytics_header.php common file for ct props -->
+    <!-- ux/ctpost/tmpl/analytics_header.php common file for ct props -->
 <script type="text/javascript">//<![CDATA[
      var amc=amc||{};if(!amc.on){amc.on=amc.call=function(){}};
 document.write("<scr"+"ipt type=\"text/javascript\" src=\"//www.adobetag.com/d1/v2/ZDEtaGVhcnN0LTMwNzctMzc3Ni0=/amc.js\"></sc"+"ript>");
 //]]></script><script type="text/javascript" src="//www.adobetag.com/d1/v2/ZDEtaGVhcnN0LTMwNzctMzc3Ni0=/amc.js"></script>
 <!-- e analytics_header.php -->
-
-<div id="outer_bg_container">
-  <!-- outer gradient background image repeat-y  -->
-  <div id="inner_bg_container">
-     <!-- top fading gradient image fixed  -->	
-     
-    <div class="container">
-
-
+        <div id="outer_bg_container">
+        <!-- outer gradient background image repeat-y  -->
+        <div id="inner_bg_container">
+            <!-- top fading gradient image fixed  -->
+            <div class="container">
 <!--
 channel.className: channel
 channel.comments: 
 -->
 
 <!-- hearst/home/navigation.tpl -->
-  <!-- business/templates/hearst/home/navigation.tpl -->
+	<!-- business/templates/hearst/home/navigation_main.tpl -->
 <div class="hst-siteheader">
   <p class="skip">(<a href="#skip">skip this header</a>)</p>
 
@@ -141,16 +150,34 @@ channel.comments:
     </div>
     <div class="leaderboard" id="leaderboard1">
       <div class="creative">
-        <div id="A728" class="ad_deferrable"><script type="text/javascript">/*<![CDATA[*/ hearstPlaceAd("A728"); /*]]>*/</script></div>
+        <div class="hst-leaderboard">
+	<div id="A728" class="ad_deferrable"><script type="text/javascript">/*<![CDATA[*/ hearstPlaceAd("A728"); /*]]>*/</script></div>
+</div>
       </div>
     </div>
       
       <!-- hearst/item/standalone.tpl -->
 <div class="hdnce-e hdnce-item-6668"><!-- mid:freeform.6668 -->
 <div class="hst-topzone">
-  <a href="http://www.ingearct.com/" title="Check out the all-new ingearct.com"><img src="http://ctextras.hearstdigitalnews.com/cmg/img/ingearct011113_215.jpg" alt="Check out the all-new ingearct.com" width="215" height="90">
+  <a href="http://www.myhearstnewspaper.com/danbury/Subscribe1_new.aspx" title="Check out our digital edition"><img src="http://ctextras.hearstdigitalnews.com/cmg/img/digitaledition050214_DNTwidget.jpg" alt="Check out our digital edition" width="215" height="90">
   </a>
-</div> 
+</div>
+
+
+<!--<div class="hst-topzone">
+  <a href="http://www.cthousehunter.com/" title="Check out the all-new cthousehunter.com"><img src="http://ctextras.hearstdigitalnews.com/cmg/img/cthousehunter021414_widget.jpg" alt="Check out the all-new cthousehunter.com" width="215" height="90"/>
+  </a>
+</div>-->
+
+<!--<div class="hst-topzone">
+  <a href="http://digital.olivesoftware.com/Olive/ODE/DanburyNewsTimes/" title="Click for the free e-edition"><img src="http://ctextras.hearstdigitalnews.com/cmg/img/uconn041114_widget.jpg" alt="Click for the free e-edition" width="215" height="90"/>
+  </a>
+</div> -->
+
+<!--<div class="hst-topzone">
+  <a href="http://www.ingearct.com/" title="Check out the all-new ingearct.com"><img src="http://ctextras.hearstdigitalnews.com/cmg/img/ingearct011113_215.jpg" alt="Check out the all-new ingearct.com" width="215" height="90"/>
+  </a>
+</div>-->
 
 
 <!--<div class="hst-topzone">
@@ -239,7 +266,7 @@ channel.comments:
     <li><a href="/weather">Weather</a></li>
     <li><a href="/faq">FAQ</a></li>
     <li><a href="https://www.myhearstnewspaper.com/danbury/">Subscriber services</a></li>
-    <li class="last"><a href="http://digital.olivesoftware.com/Olive/ODE/DanburyNewsTimes/">e-Edition</a></li>
+    <li class="last"><a href="http://digital.olivesoftware.com/Olive/ODE/DanburyNewsTimes/"><span style="color:red">Access digital edition</span></a></li>
 </ul>
 
 <!-- OLD CODE -->
@@ -259,7 +286,7 @@ channel.comments:
     </div>
 
     <div class="weather clearfix png" id="weatherbg">
-    	<p class="date">Tuesday, December 31, 2013</p>
+    	<p class="date">Wednesday, June 18, 2014</p>
     	<div class="location"><strong><a href="/weather/" id="weatherloc"></a></strong> <a href="/weather/" id="weathercond"></a></div>
     	<div class="temperature"><a href="/weather/" id="weathertemp"></a><span id="weatherscale"></span></div>
   	</div>
@@ -292,11 +319,7 @@ channel.comments:
   <!-- NAV MENU START -->
 
 
-<script type="text/javascript">
-    var defaultSiteNavId = 'channel_3177';
-</script>
-
-
+<script type="text/javascript">var defaultSiteNavId = 'channel_3177';</script>
 <!-- hearst/sitemenu/dynamic.tpl -->
 
 
@@ -328,12 +351,12 @@ channel.comments:
     <!--/.content-->
 </div>
 
-<div id="subnav_84" class="subnav clearfix hidden"><ul class="list1"><li class="label">Check It Out:</li><li class="first"><a href="/seen/"><b>Were you SEEN?</b></a></li><li><a href="http://blog.ctnews.com/politics">CT Politics</a></li><li><a href="http://blog.ctnews.com/uconnbasketball">UConn Basketball</a></li><li><a href="http://blog.ctnews.com/culturecache">Culture Cache</a></li><li><a href="http://blog.ctnews.com/financialmines">Financial Mines</a></li><li><a href="http://blog.ctnews.com/hottopics">Hot Topics</a></li><li><a href="http://blog.ctnews.com/meyers">Joe's View</a></li><li><a href="http://blog.ctnews.com/mommyfiles">The Mommy Files</a></li></ul></div>
+<div id="subnav_84" class="subnav clearfix hidden"><ul class="list1"><li class="label">Check It Out:</li><li class="first"><a href="/seen/"><b>Were you SEEN?</b></a></li><li><a href="http://blog.ctnews.com/politics">CT Politics</a></li><li><a href="http://blog.ctnews.com/uconnbasketball">UConn Basketball</a></li><li><a href="http://blog.ctnews.com/culturecache">Culture Cache</a></li><li><a href="http://blog.ctnews.com/hottopics">Hot Topics</a></li><li><a href="http://blog.ctnews.com/meyers">Joe's View</a></li><li><a href="http://blog.ctnews.com/mommyfiles">The Mommy Files</a></li><li><a href="/hydeschool/">Education + Family</a></li></ul></div>
 <div id="subnav_3" class="subnav clearfix hidden"><ul class="list1"><li class="first"><a href="/local/">Local</a></li><li><a href="/policereports/">Police Reports</a></li><li><a href="/regional/">Regional</a></li><li><a href="/national/">National</a></li><li><a href="/world/">World</a></li><li><a href="/politics/">Politics</a></li><li><a href="/opinion/">Opinion</a></li><li><a href="/science/">Science and Technology</a></li><li><a href="/extremeweather/">Extreme Weather</a></li><li><a href="http://www.ctpost.com/Tragedy-in-Newtown/">Newtown Shooting</a></li></ul></div>
 <div id="subnav_7" class="subnav clearfix hidden"><ul class="list1"><li class="first"><a href="/baseball/">Baseball</a></li><li><a href="/football/">Football</a></li><li><a href="/basketball/">Basketball</a></li><li><a href="/hockey/">Hockey</a></li><li><a href="/othersports/">Other</a></li><li><a href="/highschool/">High School</a></li><li><a href="/uconn/">UConn</a></li><li><a href="/westconn/">WestConn</a></li><li><a href="http://newstimes.com/hsfootball">High School Football</a></li></ul></div>
 <div id="subnav_11" class="subnav clearfix hidden"><ul class="list1"><li class="first"><a href="/markets/">Markets</a></li><li><a href="/realestate/">Real Estate</a></li></ul></div>
 <div id="subnav_18" class="subnav clearfix hidden"><ul class="list1"><li class="first"><a href="/movies/">Movies</a></li><li><a href="/music/">Music</a></li><li><a href="/arts/">Arts</a></li><li><a href="/tv/">Television</a></li><li><a href="/comics/">Comics</a></li><li><a href="/horoscope/">Horoscope</a></li><li><a href="/games/">Games</a></li><li><a href="/lottery/">Lottery</a></li></ul></div>
-<div id="subnav_20" class="subnav clearfix hidden"><ul class="list1"><li class="first"><a href="/health/">Health</a></li><li><a href="/homegarden/">Home and Garden</a></li><li><a href="/family/">Family</a></li><li><a href="/religion/">Religion</a></li><li><a href="http://newstimes.greatschools.org/">Schools</a></li><li><a href="/travel/">Travel</a></li><li><a href="/food/">Food</a></li><li><a href="/weddings/">Weddings</a></li><li><a href="/engagements/">Engagements</a></li><li><a href="/anniversaries/">Anniversaries</a></li></ul></div>
+<div id="subnav_20" class="subnav clearfix hidden"><ul class="list1"><li class="first"><a href="/health/">Health</a></li><li><a href="/homegarden/">Home and Garden</a></li><li><a href="/family/">Family</a></li><li><a href="/religion/">Religion</a></li><li><a href="http://newstimes.greatschools.org/">Schools</a></li><li><a href="/travel/">Travel</a></li><li><a href="/food/">Food</a></li><li><a href="/weddings/">Weddings</a></li><li><a href="/engagements/">Engagements</a></li><li><a href="/anniversaries/">Anniversaries</a></li><li><a href="/carsense/">CarSense</a></li></ul></div>
 <div id="subnav_25" class="subnav clearfix hidden"></div>
 <div id="subnav_41" class="subnav clearfix hidden"></div>
 <div id="subnav_42" class="subnav clearfix hidden"></div>
@@ -360,8 +383,9 @@ channel.comments:
 	<div id="A951" class="ad_deferrable"><script type="text/javascript">/*<![CDATA[*/ hearstPlaceAd("A951"); /*]]>*/</script></div>
 	
 </div>
-<!-- e business/templates/hearst/home/navigation.tpl -->
-<!-- e hearst/home/navigation.tpl -->	<!-- templates/design/channel/subsection.tpl  -->
+<!-- e business/templates/hearst/home/navigation_main.tpl -->
+<!-- e hearst/home/navigation.tpl -->
+	<!-- templates/design/channel/subsection.tpl  -->
 
 <div class="pagecontent faux-21">
     <div class="faux-7 clearfix">
@@ -383,8 +407,7 @@ channel.comments:
             <div class="span-7">
 
             	<!-- src/business/widgets/hearst/collection/widget.tpl -->
-                         <div class="hide-rss-link hdnce-e hdnce-collection-655-simple_list">
-<!-- hearst/collections/simple_list.tpl -->
+                         <div class="hide-rss-link hdnce-e hdnce-collection-655-simple_list"><!-- hearst/collections/simple_list.tpl -->
 <!-- collection.simple_list.655 -->
 	<!-- templates/design/collection/simple_list/double_zone.tpl  -->
 
@@ -431,8 +454,7 @@ channel.comments:
 
 
 <!-- e src/business/widgets/hearst/collection/widget.tpl --><!-- src/business/widgets/hearst/collection/widget.tpl -->
-                         <div class="hide-rss-link hdnce-e hdnce-collection-674-simple_list">
-<!-- hearst/collections/simple_list.tpl -->
+                         <div class="hide-rss-link hdnce-e hdnce-collection-674-simple_list"><!-- hearst/collections/simple_list.tpl -->
 <!-- collection.simple_list.674 -->
 	<!-- templates/design/collection/simple_list/double_zone.tpl  -->
 
@@ -475,8 +497,7 @@ channel.comments:
 
 
 <!-- e src/business/widgets/hearst/collection/widget.tpl --><!-- src/business/widgets/hearst/collection/widget.tpl -->
-                         <div class="hide-rss-link hdnce-e hdnce-collection-706-simple_list">
-<!-- hearst/collections/simple_list.tpl -->
+                         <div class="hide-rss-link hdnce-e hdnce-collection-706-simple_list"><!-- hearst/collections/simple_list.tpl -->
 <!-- collection.simple_list.706 -->
 	<!-- templates/design/collection/simple_list/double_zone.tpl  -->
 
@@ -513,8 +534,7 @@ channel.comments:
 
 
 <!-- e src/business/widgets/hearst/collection/widget.tpl --><!-- src/business/widgets/hearst/collection/widget.tpl -->
-                         <div class="hide-rss-link hdnce-e hdnce-collection-673-simple_list">
-<!-- hearst/collections/simple_list.tpl -->
+                         <div class="hide-rss-link hdnce-e hdnce-collection-673-simple_list"><!-- hearst/collections/simple_list.tpl -->
 <!-- collection.simple_list.673 -->
 	<!-- templates/design/collection/simple_list/double_zone.tpl  -->
 
@@ -561,42 +581,7 @@ channel.comments:
 
                 
         <div class="hst-freeform hdnce-e hdnce-item-14766"><!-- mid:freeform.14766 -->
-          <style>
-a {
-  color: #900;
-  text-decoration: none;
-}
-
-a:hover {
-  color: red;
-  position: relative;
-}
-
-a[tooltip]:hover:after {
-  width: 300px;
-  content: attr(tooltip);
-  padding: 4px 8px;
-  color: #333;
-  position: absolute;
-  left: 0;
-  top: 100%;
-  z-index: 20px;
-  -moz-border-radius: 5px;
-  -webkit-border-radius: 5px;
-  border-radius: 5px;
-  -moz-box-shadow: 0px 0px 4px #222;
-  -webkit-box-shadow: 0px 0px 4px #222;
-  box-shadow: 0px 0px 4px #222;
-  background-image: -moz-linear-gradient(top, #eeeeee, #cccccc);
-  background-image: -webkit-gradient(linear,left top,left bottom,color-stop(0, #eeeeee),color-stop(1, #cccccc));
-  background-image: -webkit-linear-gradient(top, #eeeeee, #cccccc);
-  background-image: -moz-linear-gradient(top, #eeeeee, #cccccc);
-  background-image: -ms-linear-gradient(top, #eeeeee, #cccccc);
-  background-image: -o-linear-gradient(top, #eeeeee, #cccccc);
-}
-</style>
-
-<p>PRIVACY POLICY</p>
+          <p>PRIVACY POLICY</p>
 <p><b>1.	Purpose and Scope of this Privacy Policy. </b></p>
 <p><br>
 <b>(a)</b> This privacy policy describes how Hearst Media Services Connecticut, LLC, publisher of Connecticut Post, The Advocate, The News-Times, &amp; Greenwich Time newspapers, and its Affiliates (collectively, “Newspaper”) treat the Personally Identifiable Information that is collected about you when you visit the web sites, mobile-optimized versions of the web sites, and digital applications to which this policy is linked (collectively, “Covered Sites”). For the purposes of this policy, an entity controlling, controlled by, or under common control with another entity shall be deemed to be an “Affiliate”, where control means ownership of 15% or more of the voting stock or other ownership interests. For the purposes of this policy, “Personally Identifiable Information” is information that we can use to identify or contact you as an individual, and includes your name, email address, address, telephone number and any other information that we associate with any of the foregoing. By submitting Personally Identifiable Information through any of our Covered Sites, you agree to the terms of this privacy policy and you expressly consent to the collection, use and disclosure of your Personally Identifiable Information in accordance with this privacy policy. </p>
@@ -630,7 +615,7 @@ a[tooltip]:hover:after {
   <b>(f)	Third Parties. </b>We may receive information from third parties, including demographic information from your mobile carrier, and information from third parties that solicit subscriptions to ourNewspaper. Those third parties have privacy policies that differ from this Privacy Policy.</p>
 <p>&nbsp;</p>
 <p><br>
-  <b>(g)	Tracking Requests. </b>Hearst does not act on Do Not Track requests from your browser.<br>For more information <a href="#" tooltip="Our Newspaper does not act on Do Not Track requests from your browser. This way, we are able to personalize your experience on our sites and tailor content to your interests.">click here</a>.</p>
+  <b>(g)	Tracking Requests. </b>Hearst does not act on Do Not Track requests from your browser. For more information <a href="#" id="DNT-modal">click here</a>.</p>
 <p>&nbsp;</p>
 <p><br>
 <b>3.	Use of Information. </b></p>
@@ -701,6 +686,114 @@ a[tooltip]:hover:after {
   Last Update: February 22, 2013</p>
       </div>
   
+        <div class="hst-freeform hdnce-e hdnce-item-26339"><!-- mid:freeform.26339 -->
+          <style>
+ol {
+	margin: 0 0 0 10px;
+	padding: 0 0 0 10px;
+}
+#overlay {
+    position:fixed;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+    background:#000;
+    opacity:0.5;
+    filter:alpha(opacity=50);
+}
+#modal {
+    position:absolute;
+    background:rgba(0, 0, 0, 0.2);
+    border-radius:14px;
+    padding:6px;
+}
+#content {
+    border-radius:8px;
+    background:#fff;
+    padding:20px;
+}
+#close {
+    position:absolute;
+    background:url('http://extras.sfgate.com/img/close.png') 0 0 no-repeat;
+    width:24px;
+    height:27px;
+    display:block;
+    text-indent:-9999px;
+    top:-7px;
+    right:-7px;
+}
+</style>
+<script>
+var modal = (function () {
+	var method = {},
+		$overlay,
+		$modal,
+		$content,
+		$close;
+	// Center the modal in the viewport
+	method.center = function () {
+		var top, left;
+		top = Math.max($(window).height() - $modal.outerHeight(), 0) / 2;
+		left = Math.max($(window).width() - $modal.outerWidth(), 0) / 2;
+		$modal.css({
+			top: top + $(window).scrollTop(),
+			left: left + $(window).scrollLeft()
+		});
+	};
+    // Open the modal
+    method.open = function (settings) {
+        $content.empty().append(settings.content);
+        $modal.css({
+            width: settings.width || 'auto',
+            height: settings.height || 'auto'
+        });
+        method.center();
+        $(window).bind('resize.modal', method.center);
+        $modal.show();
+        $overlay.show();
+    };
+    // Close the modal
+    method.close = function () {
+        $modal.hide();
+        $overlay.hide();
+        $content.empty();
+        $(window).unbind('resize.modal');
+    };
+    // Generate the HTML and add it to the document
+    $overlay = $('<div id="overlay"></div>');
+    $modal = $('<div id="modal"></div>');
+    $content = $('<div id="content"></div>');
+    $close = $('<a id="close" href="#">close</a>');
+    $modal.hide();
+    $overlay.hide();
+    $modal.append($content, $close);
+    $(document).ready(function () {
+        $('body').append($overlay, $modal);
+    });
+    $close.click(function (e) {
+        e.preventDefault();
+        method.close();
+    });
+    return method;
+}());
+
+$(document).ready(function () {
+    $.get('ajax.html', function (data) {
+        modal.open({
+            content: data
+        });
+    });
+    $('#DNT-modal').click(function (e) {
+        modal.open({
+            content: '<span style="text-transform: uppercase;">' + HDN.domain + '</span> does not act on Do Not Track requests from your browser. This way, we are able to personalize your experience on our sites and tailor content to your interests.'
+        });
+        e.preventDefault();
+    });
+});
+</script>
+      </div>
+  
 
             </div><!--/.span-14c-->
 
@@ -726,36 +819,64 @@ a[tooltip]:hover:after {
 
 
     <div class="hst-mostpopular tab-set"><div class="edge2"><div class="edge3"><div class="edge4 clearfix">
-    <!-- /templates/hearst/home/most_commented_header.tpl -->
+    <!-- hearst/home/most_popular_header.tpl -->
         <ul class="nav-tabs clearfix">
                         <li><a class="mostread" href="#"><span>Most Read</span></a></li>
                                            
         </ul>
-<!-- e /templates/hearst/home/most_commented_header.tpl -->
+<!-- e hearst/home/most_popular_header.tpl -->
+
 
     
                 <div class="content-tab"><ol>
+                            <li>
+                    <!-- src hearst/home/most_popular_title_link.tpl -->
+<a href="/news/article/Police-Woman-who-crashed-into-school-bus-was-high-5558313.php" title="Police: Woman who crashed into school bus was high">Police: Woman who crashed into school bus was high</a>
+<!-- e src hearst/home/most_popular_title_link.tpl -->
 
-                            <li>
-                    <a href="/policereports/article/Danbury-market-robbed-5100357.php" title="Danbury market robbed">Danbury market robbed</a>
+                    <span style="display: none;">1</span>
                 </li>
                             <li>
-                    <a href="/news/article/Shooter-s-doctor-gave-up-license-over-sexual-5102706.php" title="Shooter's doctor gave up license over sexual relationship with female client">Shooter's doctor gave up license over sexual relationship with female client</a>
+                    <!-- src hearst/home/most_popular_title_link.tpl -->
+<a href="/news/us/article/Conn-officials-deciding-fate-of-hoarder-s-home-5557736.php" title="Hoarder crushed by debris as floor collapsed">Hoarder crushed by debris as floor collapsed</a>
+<!-- e src hearst/home/most_popular_title_link.tpl -->
+
+                    <span style="display: none;">2</span>
                 </li>
                             <li>
-                    <a href="/local/article/Westport-police-Woman-killed-by-train-5103087.php" title="Westport police: Woman killed by train">Westport police: Woman killed by train</a>
+                    <!-- src hearst/home/most_popular_title_link.tpl -->
+<a href="/graduations/slideshow/Danbury-High-School-87103.php" title="Danbury High School">Danbury High School</a>
+<!-- e src hearst/home/most_popular_title_link.tpl -->
+
+                    <span style="display: none;">3</span>
                 </li>
                             <li>
-                    <a href="/policereports/article/Three-charged-in-Danbury-home-burglary-5100273.php" title="Three charged in Danbury home burglary">Three charged in Danbury home burglary</a>
+                    <!-- src hearst/home/most_popular_title_link.tpl -->
+<a href="/local/article/Jack-Marcus-dairyman-philanthropist-dies-5556830.php" title="Jack Marcus, dairyman philanthropist, dies">Jack Marcus, dairyman philanthropist, dies</a>
+<!-- e src hearst/home/most_popular_title_link.tpl -->
+
+                    <span style="display: none;">4</span>
                 </li>
                             <li>
-                    <a href="/policereports/article/Teens-charged-in-two-Danbury-burglaries-5100282.php" title="Teens charged in two Danbury burglaries">Teens charged in two Danbury burglaries</a>
+                    <!-- src hearst/home/most_popular_title_link.tpl -->
+<a href="/local/article/ZBA-hears-arguments-on-marijuana-approval-5559961.php" title="ZBA hears arguments on marijuana approval">ZBA hears arguments on marijuana approval</a>
+<!-- e src hearst/home/most_popular_title_link.tpl -->
+
+                    <span style="display: none;">5</span>
                 </li>
                             <li>
-                    <a href="/local/article/The-10-Most-Fascinating-People-of-2013-5099242.php" title="The 10 Most Fascinating People of 2013">The 10 Most Fascinating People of 2013</a>
+                    <!-- src hearst/home/most_popular_title_link.tpl -->
+<a href="/policereports/article/Motorcyclist-injured-hit-by-car-injured-5556576.php" title="Motorcyclist injured hit by car, injured">Motorcyclist injured hit by car, injured</a>
+<!-- e src hearst/home/most_popular_title_link.tpl -->
+
+                    <span style="display: none;">6</span>
                 </li>
                             <li class="last">
-                    <a href="/local/article/Police-ID-woman-pulled-from-Saugatuck-River-5097670.php" title="Police ID woman pulled from Saugatuck River">Police ID woman pulled from Saugatuck River</a>
+                    <!-- src hearst/home/most_popular_title_link.tpl -->
+<a href="/entertainment/television/article/The-Situation-charged-in-fight-at-tanning-salon-5559502.php" title="The Situation charged in fight at tanning salon">The Situation charged in fight at tanning salon</a>
+<!-- e src hearst/home/most_popular_title_link.tpl -->
+
+                    <span style="display: none;">7</span>
                 </li>
             
         </ol></div>
@@ -802,16 +923,28 @@ a[tooltip]:hover:after {
 <a href="javascript:hst_topclassifieds.mshowid(3);" onclick="this.blur();">Homes</a> |
 <a href="javascript:hst_topclassifieds.mshowid(4);" onclick="this.blur();">Rentals</a></span>
 			</h2>
-			<ul class="ads"><li><h4>Cement Mason and Concrete Finishers (Danbury, CT) Smooth &amp; finish surfaces of poured concrete, such as floors, walks,...<a class="more" href="#">(more)</a></h4><p>sidewalks, roads, or curbs using a variety of hand &amp; power tools. 40 hrs/wk, 7am-3:30pm, 1 yr exp reqd. Fax resume to: J &amp; J Concrete Foundations, Inc at (203)702-5322, Attn.: Rui Ribeiro<a class="less" href="#">(less)</a></p></li>
-<li><h4>COMPUTERS:
-SOFTWARE ENGINEER (Norwalk, CT): resp. for architecting, coding, unit-testing &amp; maintaining projects for Email &amp;...<a class="more" href="#">(more)</a></h4><p>Social Marktng Team. Reqrs deg in CS, Engg (any field) or rel. exp in job w/ Software Develpmnt/Engg Supprt duties. Reqrs strong knowldge Object Orienting progrmmng methodlgies using any of following modern languages - PHP, Java, Perl, Python, C++. Reqrs knwldg of front-end technlgies incl HTML &amp; JavaScript. Must have demonstratd applictn skills w/ SVN &amp; UNIX. Rqrs strong multitskng, time mangmnt, teamwork &amp; analytcl problm-solving skills. Priceline.com Inc. Ref.#140 www.priceline.com/careers/<a class="less" href="#">(less)</a></p></li>
-<li><h4>MEDIA - RADIO
-Sacred Heart University's WSHU Radio is seeking:
-- Membership Administrator
-- Production Assistant (Full...<a class="more" href="#">(more)</a></h4><p>&amp;
-Part-Time)
-http://wshu.org/jobs-wshu
-EOE<a class="less" href="#">(less)</a></p></li>
+			<ul class="ads"><li><h4>SCHOOL BUS DRIVERS NEEDED!
+DATTCO, CT's largest private school bus company is looking for the industry's best SCHOOL BUS...<a class="more" href="#">(more)</a></h4><p>DRIVERS for part-time positions in our Westport location. If you currently have a valid CDL-PS we are looking for you! CDL is not a must. We will provide all of the FREE TRAINING you will need to be successful!! At DATTCO, you can bring your children to work with you. To join our GROWING family apply in person at 304 Post Road East, Westport or call 203-226-4884 for more information. AA/EEO.<a class="less" href="#">(less)</a></p></li>
+<li><h4>REGIONAL SOURCING MANAGER (Terex Corporation, Westport, CT). Req. a Master's or the foreign equiv. deg. in Bus. Admin., Supply...<a class="more" href="#">(more)</a></h4><p>Chain/Ops. or a rel. field &amp; 3 yrs. of exp. in the job offered or in supply chain mgmt., incl. 3 yrs. of hands-on procurement exp. using Oracle ERP or other ERP systems. Also req. is 2 yrs. of exp.: performing strategic sourcing following a 7-Step Strategic Sourcing Process; performing inventory mgmt. and/or logistics on Kanban, ARS (auto-replenishment system) &amp; VMI (vendor-managed inventory); &amp; dealing with tariffs, duties, &amp; costs associated with transportation. Must also possess exp.: utilizing Ariba software; &amp; utilizing process improvement techniques such as Kaizen or Six Sigma. Certified Professional in Supply Chain Management certification and travel of up to 25% is also req.. Apply w/resume at www.terex.com/careers. No relo. available. No 3rd party responses. EOE.<a class="less" href="#">(less)</a></p></li>
+<li><h4>ENGINEERING:
+ARCHITECT 2 sought by ASML in Wilton, CT to dvlp a module based on high level reqmts, generating models &amp; knowl &amp;...<a class="more" href="#">(more)</a></h4><p>to lead team of engrs to an optimal solution. Bachelor's deg in Mechanical Engg or equiv plus 2-5 yrs relevant exp, Master's deg in Mechanical Engg or equiv plus 1-2 yrs relevant exp OR Doctoral deg in Mechanical Engg or equiv reqd. Relevant exp incl dvlpmt exp in a professional position; direct exp in dsgn &amp; test of robotic &amp;/or mechatronic systems in the area of lithography or semiconductor eqpmt; exp leading a technical team or the desire to grow into such a leadership position; &amp; at least 2 of the following competencies: CAD; Thermal; MATLAB; Simulink. Apply online at www.asml.com.<a class="less" href="#">(less)</a></p></li>
+<li><h4>MECHANIC Academy Bus has immediate 
+openings at our Bridgeport facility.
+
+BUS MECHANIC
+ You must possess your own tools and a...<a class="more" href="#">(more)</a></h4><p>valid driver's license. CDL preferred but not required. Must be able to pass pre-employment background check and drug screen. Potential to earn up to $30/hr based on experience.
+
+We offer a competitive salary and benefits package.  APPLY IN PERSON 
+MON-FRI, BETWEEN 9AM-3PM
+114 River Street
+Bridgeport, CT 06604
+(Turn left at Cablevision sign-first driveway on right). 
+
+For additional information and office hours, please call 203-873-0278 
+
+ 
+www.academybus.com
+Academy Bus is an EOE<a class="less" href="#">(less)</a></p></li>
 </ul>
 			<div class="footer"><p class="exit"><a href="/?controllerName=topAds&amp;site=newstimes&amp;type=Jobs">All Jobs</a></p></div>
 			</div></div></div></div><!--/.hst-topclassifieds-->
@@ -825,7 +958,8 @@ EOE<a class="less" href="#">(less)</a></p></li>
 <a class="selected" href="javascript:hst_topclassifieds.mshowid(3);" onclick="this.blur();">Homes</a> |
 <a href="javascript:hst_topclassifieds.mshowid(4);" onclick="this.blur();">Rentals</a></span>
 			</h2>
-			<ul class="ads"><li><h4>BETHEL 3 apprv 1+ ac bldg lots 4 sale by owner. $99,900 each. 203-743-4469</h4></li>
+			<ul class="ads"><li><h4>DANBURY East Ridge Studio Condo Upper level, secure bldg., deck + pool. Lndry on premises. Assign. prkg. $59.5k. 203-364-1489...<a class="more" href="#">(more)</a></h4><p>and/or Muflahi@hotmail.com<a class="less" href="#">(less)</a></p></li>
+<li><h4>BETHEL 3 apprv 1+ ac bldg lots 4 sale by owner. $99,900 each. 203-743-4469</h4></li>
 </ul>
 			<div class="footer"><p class="exit"><a href="/?controllerName=topAds&amp;site=newstimes&amp;type=Homes">All Homes</a></p></div>
 			</div></div></div></div><!--/.hst-topclassifieds-->
@@ -839,27 +973,25 @@ EOE<a class="less" href="#">(less)</a></p></li>
 <a href="javascript:hst_topclassifieds.mshowid(3);" onclick="this.blur();">Homes</a> |
 <a class="selected" href="javascript:hst_topclassifieds.mshowid(4);" onclick="this.blur();">Rentals</a></span>
 			</h2>
-			<ul class="ads"><li><h4>DANBURY APTS. Bright Studios $550-$650, 1BR, $700-$850. OSP, LAUNDRY. Sec Req. NO PETS.
-Applications avail. 203-797-8255...<a class="more" href="#">(more)</a></h4><p>nolanrealestate.org<a class="less" href="#">(less)</a></p></li>
-<li><h4>DANBURY
- Large inventory of 1, 2 &amp; 3BRs
-Dave Lamp Realty  203-240-0219</h4></li>
-<li><h4>WESTPORT: GORGEOUS Office suites. Singles, 500, 1,500, 2,100, 3300 up to 6500 sq ft avail. Either dwntwn or nr RR. Hrdwd...<a class="more" href="#">(more)</a></h4><p>flrs,
-hi-speed internet, fireplaces, kitchenettes, skylights, etc.
-Flex terms. 203-226-6969. Leiferproperties.com<a class="less" href="#">(less)</a></p></li>
-<li><h4>BRIDGEPORT/NEAR DOWNTOWN Visit our newly renovated units! 1 &amp; 2brs avail. Hardwood flrs. New appliances. Parking onsite....<a class="more" href="#">(more)</a></h4><p>Laundry. Security. Heat &amp; Hot Water incld'd.
-Students and retirees welcome.
-$850-$1150. Call for an appt 203.335.2280 option "3"<a class="less" href="#">(less)</a></p></li>
-<li><h4>BRIDGEPORT #1 APARTMENTS
-New Year Special!!
-Spacious 1BR, (3) 2BRs, North End. (4) 3BRs, hdwd flrs, W/D hkup. 4BR, hdwd flrs,...<a class="more" href="#">(more)</a></h4><p>W/D hkup. 5BR, 3 levels.
-North End properties available.
-Section 8 welcome, shelter+,
-connections &amp; all programs.
-Call 203.572.8691<a class="less" href="#">(less)</a></p></li>
-<li class="last"><h4>BRIDGEPORT STUDIOS &amp; 1BRs available. Located near Hospitals. $525-$850/monthly.
+			<ul class="ads"><li><h4>STRATFORD FURNISHED Rm Share kitch, bth, W/D. Long term avl. Utils &amp; cable incld. $140/wk, Single occpcy. 203-446-7465</h4></li>
+<li><h4>DANBURY SMALL, furn'd rm. $99/wk. Incl. utils. Dep. req'd.
+203-270-9536</h4></li>
+<li><h4>BRIDGEPORT 1BRS available.
+Located near Hospitals.
+$750-$850/monthly.
 Tenant pays utils. Credit check.
-No pets....<a class="more" href="#">(more)</a></h4><p>203-520-8875<a class="less" href="#">(less)</a></p></li>
+No pets. 203-520-8875</h4></li>
+<li><h4>BRIDGEPORT/BLACK ROCK
+STUDIOS, 1 &amp; 2BR apts,
+$785-$1345. 203-520-6372.
+See photos
+HubRealty.com or
+local.ctpost.com/160713/</h4></li>
+<li><h4>BRIDGEPORT 1BR &amp; 2BRs
+Ht, HW, W/W, prkng, appliances, lanudry. 203-767-5573
+or 203-371-5339</h4></li>
+<li class="last"><h4>DANBURY APTS. Bright Studios $550-$650, 1BR, $700-$850. OSP, LAUNDRY. Sec Req. NO PETS.
+Applications avail. 203-797-8255...<a class="more" href="#">(more)</a></h4><p>nolanrealestate.org<a class="less" href="#">(less)</a></p></li>
 </ul>
 			<div class="footer"><p class="exit"><a href="/?controllerName=topAds&amp;site=newstimes&amp;type=Rentals">All Rentals</a></p></div>
 			</div></div></div></div><!--/.hst-topclassifieds-->
@@ -886,7 +1018,13 @@ No pets....<a class="more" href="#">(more)</a></h4><p>203-520-8875<a class="less
 			});
             //]]>
         </script>
-    
+  
+	<!-- hearst/ads/medium_rectangle_ad_third.tpl -->
+
+<div id="hst-mediumrectangle3" class="hst-mediumrectangle clearfix">
+<div id="S300" class="ad_deferrable"><script type="text/javascript"> /*<![CDATA[*/ hearstPlaceAd("S300"); /*]]>*/ </script></div>
+</div>
+<!-- e medium_rectangle_ad_third.tpl -->    
 </div><!--/.span-10-->
 
 <!-- e templates/hearst/home/section_right_content.tpl  -->
@@ -894,10 +1032,16 @@ No pets....<a class="more" href="#">(more)</a></h4><p>203-520-8875<a class="less
 </div><!--/.content-->
 
 <!-- e templates/design/channel/subsection.tpl  -->
-<!-- src/business/templates/hearst/common/footer.tpl -->
+	<!-- src/business/templates/hearst/common/footer.tpl -->
     <!-- src/business/templates/hearst/common/site_footer.tpl -->
     <!-- THIRDPARTY FOOTER MARKER --><!-- DONT REMOVE -->
     <div class="hst-sitefooter clearfix">
+
+        <!-- Begin Hearst Ad -->
+        <div id="B728" class="footer_banner">
+            <script type="text/javascript">/*<![CDATA[*/hearstPlaceAd("B728");/*]]>*/</script>
+        </div>
+        <!-- End Hearst Ad -->
 
     
 
@@ -927,12 +1071,13 @@ No pets....<a class="more" href="#">(more)</a></h4><p>203-520-8875<a class="less
                 <td class="site">	
                 	<h3>Services</h3>
                     <ul>
+                        <li><a href="http://www.findnsave.com/" rel="nofollow">Find&amp;Save Local Shopping</a></li>
                     	<li><a href="/faq/">Customer Care</a></li>
                     	<li><a href="/contact/">Contact Us</a></li>
                     	<li><a href="/advertise/">Advertise With Us</a></li>
                     	<li><a href="/tos/">Terms of Service</a></li>
                     	<li><a href="/privacy/">Privacy Policy</a></li>
-                        <li><a href="/privacy/#caprivacyrights">California Privacy Rights</a></li>
+                        <li><a href="/privacy/#caprivacyrights">Your California Privacy Rights</a></li>
                     
                     	<li class="delimit"><h3>Marketplace</h3></li>
                    		<li><a href="http://connpost.kaango.com/">Classifieds</a></li>
@@ -1010,7 +1155,7 @@ No pets....<a class="more" href="#">(more)</a></h4><p>203-520-8875<a class="less
 	<!-- /ux/ctshared/templates/hearst/common/footer_branding.tpl -->
 <div class="footer-branding">
 
-    <span style="float:left; padding:0px 10px;">© 2013 The Hearst Corporation</span><span style="float:left;"><img src="/img/modules/sitefooter/hearst_logo_footer.png" class="png" alt="Hearst Connecticut Media Group, a division of Hearst Newspapers"></span>
+    <span style="float:left; padding:0px 10px;">© 2014 The Hearst Corporation</span><span style="float:left;"><img src="/img/modules/sitefooter/hearst_logo_footer.png" class="png" alt="Hearst Connecticut Media Group, a division of Hearst Newspapers"></span>
 <!-- src/business/templates/hearst/common/feed.tpl -->
 
 <span class="hst-feed">
@@ -1040,6 +1185,33 @@ No pets....<a class="more" href="#">(more)</a></h4><p>203-520-8875<a class="less
 
 <!-- ux/ctpost/tmpl/analytics_footer.php common file for ct props -->
 <!-- e analytics_footer.php --><!-- /src/business/templates/hearst/common/opengraph_load.tpl -->
+    <div id="fb-root"></div>
+  
+  <script type="text/javascript">
+  //the window.name is a hack to fix errors in the actual facebook.js file
+  window.name=window.name || "";
+    window.fbAsyncInit = function() {
+      FB.init({
+	appId      : '384537191685775', // App ID
+	channelURL : 'http://www.newstimes.com/channel.html', // Channel File
+	status     : true, // check login status
+	cookie     : true, // enable cookies to allow the server to access the session
+	oauth      : true, // enable OAuth 2.0
+	xfbml      : true  // parse XFBML
+      });
+      
+                  
+    };
+    // Load the SDK Asynchronously
+    (function(d){
+       var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+       js = d.createElement('script'); js.id = id; js.async = true;
+       js.src = "//connect.facebook.net/en_US/all.js";
+       d.getElementsByTagName('head')[0].appendChild(js);
+     }(document));
+    
+  </script>
+  
   
 <!-- /src/business/templates/hearst/common/outbrain_silent_tag.tpl -->
 
@@ -1063,7 +1235,7 @@ No pets....<a class="more" href="#">(more)</a></h4><p>203-520-8875<a class="less
 </script><script src="http://widgets.outbrain.com/outbrainWidget.js" ;="" type="text/javascript"></script>
 
 
-<div id="BF_WIDGET_1">&nbsp;<script type="text/javascript" src="http://ct.buzzfeed.com/wd/UserWidget?u=ctpost.com&amp;to=1&amp;or=vb&amp;wid=1&amp;cb=1582550801145"></script></div>
+<div id="BF_WIDGET_1">&nbsp;<script type="text/javascript" src="http://ct.buzzfeed.com/wd/UserWidget?u=ctpost.com&amp;to=1&amp;or=vb&amp;wid=1&amp;cb=1580446788401"></script></div>
 
 <script type="text/javascript">
 (function( ){
@@ -1074,12 +1246,11 @@ setTimeout(function() {document.getElementById("BF_WIDGET_1").appendChild(BF_WID
 </script>
 
 
-    <script type="text/javascript" src="/external/js/global.bottom.r5.4.0.15.js"></script>
+    <script type="text/javascript" src="/external/js/global.bottom.r5.15.2.0.js"></script>
 
 
 
-  <script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-3.newrelic.com","3fd06eaac1","147157","MwQBZ0RXV0NTVhBdDgpOJUZYVU1ZXVtLVwwCIgtSWFhcXHFaCkATCw0PVkQMA0JXWwBREzIIBkQ=",0,87,new Date().getTime(),"","","","",""]);</script>
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-3.newrelic.com","licenseKey":"3fd06eaac1","applicationID":"147157","transactionName":"MwQBZ0RXV0NTVhBdDgpOJUZYVU1ZXVtLVwwCIgtSWFhcXHFaCkATCw0PVkQMA0JXWwBREzIIBkQ=","queueTime":0,"applicationTime":83,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
 
 
-
-<!-- e src/business/templates/hearst/common/footer.tpl --></div></div><script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
+<!-- e src/business/templates/hearst/common/footer.tpl --></div></div><script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
