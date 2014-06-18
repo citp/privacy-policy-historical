@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanfreight.us privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217220449id_/http%3A//www.americanfreight.us/Privacy-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanfreight.us privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618064512id_/http%3A//www.americanfreight.us/Privacy-Statement) for the most accurate reproduction.*
 
 # Privacy Statement | American Freight
 
@@ -35,6 +35,8 @@ Use of Information
 We intend to use the data provided to us above to operate the web site and to assist us with the delivery of content and other products and services. Your information may also be used to contact you when necessary and may be shared with other companies that may want to contact you with offers consistent with your preferences and approval.
 
 If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities or postings on the Site, we may collect such information into a file specific to you.
+
+Email addresses obtained may be  used to send promotional emails. Should you no longer want to receive emails from American Freight you can unsubscribe by visiting [this page.](http://www.americanfreight.us/unsubscribe/)
 
 By accessing and using our web sites, you agree that, with respect to other users’ personally identifiable information that you obtain through the Site or through a www.americanfreight.us-related communication or American Freight-facilitated transaction, American Freight® hereby grants to you a license to use such information only for: (a) [www.americanfreight.us-related](http://www.americanfreight.us-related/) communications that are not unsolicited commercial messages, and (b) any other purpose that such user expressly opts into after adequate disclosure of the purpose(s). In all cases, you must give users an opportunity to remove themselves from your database and a chance to review what information you have collected about them. In addition, under no circumstances, except as defined in this se ction, can you disclose personally identifiable information about another user to any third party without our consent and the consent of such other user after adequate disclosure.
 
@@ -117,6 +119,8 @@ Use of Information
 We intend to use the data provided to us above to operate the web site and to assist us with the delivery of content and other products and services. Your information may also be used to contact you when necessary and may be shared with other companies that may want to contact you with offers consistent with your preferences and approval.
 
 If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities or postings on the Site, we may collect such information into a file specific to you.
+
+Email addresses obtained may be  used to send promotional emails. Should you no longer want to receive emails from American Freight you can unsubscribe by visiting [this page.](http://www.americanfreight.us/unsubscribe/)
 
 By accessing and using our web sites, you agree that, with respect to other users’ personally identifiable information that you obtain through the Site or through a www.americanfreight.us-related communication or American Freight-facilitated transaction, American Freight® hereby grants to you a license to use such information only for: (a) [www.americanfreight.us-related](http://www.americanfreight.us-related/) communications that are not unsolicited commercial messages, and (b) any other purpose that such user expressly opts into after adequate disclosure of the purpose(s). In all cases, you must give users an opportunity to remove themselves from your database and a chance to review what information you have collected about them. In addition, under no circumstances, except as defined in this se ction, can you disclose personally identifiable information about another user to any third party without our consent and the consent of such other user after adequate disclosure.
 
