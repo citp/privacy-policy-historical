@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hipmomsgogreen.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219040039id_/http%3A//www.hipmomsgogreen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hipmomsgogreen.com privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618205416id_/http%3A//www.hipmomsgogreen.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hip Moms Go Green
 
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.hipmomsgogreen.com%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)
+[](https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.hipmomsgogreen.com%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)
 
 Welcome to Hip Moms Go Green Internet website and online magazine. At Hip Moms Go Green. We value and protect your privacy and strive to earn your continued respect, loyalty and trust. We want you to know that the information that you share with us will be treated with care and consideration for your privacy. The purpose of this Privacy Statement is to disclose and explain and permit you to understand how we collect, use, and protect the confidentiality of personal information collected from you by way of this website.
 
