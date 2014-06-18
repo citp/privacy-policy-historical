@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstclasswatches.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627231055id_/http%3A//www.firstclasswatches.co.uk/cookie_usage.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstclasswatches.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619015022id_/http%3A//www.firstclasswatches.co.uk/cookie_usage.php) for the most accurate reproduction.*
 
 # Cookie Policy Information for First Class Watches
 
