@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the budgetearth.com privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120063141id_/http%3A//www.budgetearth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the budgetearth.com privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618134809id_/http%3A//www.budgetearth.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Budget Earth
 
@@ -34,6 +34,6 @@ Please contact those vendors and others directly if you have any questions about
 
 For any other information on our Privacy Policy, feel free to [contact us](http://www.budgetearth.com/contact-us/).
 
-#### About 
+#### About 
 
 Susan Bewley is a professional writer and blogger who has been writing content online and in private print format for the past decade. When not writing for Budget Earth or Mew Review, she can be found busily working on her novel or helping companies like yours get the exposure they deserve through social media or other form of media. Feel free to contact Susan for more information on how she can help your business.
