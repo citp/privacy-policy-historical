@@ -1,126 +1,136 @@
-> *The following text is extracted and transformed from the whosoff.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116012814id_/http%3A//www.whosoff.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whosoff.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619011931id_/http%3A//www.whosoff.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | WhosOff and the WhosOff.com Service
 
-WhosOff.com takes the privacy rights of our Company users and their staff using our site very seriously and seeks to ensure the highest standards of compliance with UK Data Protection Laws and Regulations. This Privacy Policy is incorporated in and subject to the site Terms and Conditions. This Privacy Policy explains to you the relevant privacy terms governing the use of this site. You expressly consent to the use of your data in accordance with this Privacy Policy.
+###  PLEASE READ THIS PRIVACY POLICY CAREFULLY BEFORE USING OUR SITE
 
-We (WhosOff.com) collect information from you via the website or web aps in a manner expressly described in this privacy statement which outlines how this information is then used. By 'you' we mean your company, organisation or collective group or an individual user using the WhosOff.com software. When you provide us with your personal data in the manner described, you consent to the processing of all such personal data as set out in the privacy statement. Please read our privacy statement carefully and revisit this page from time to time to review any changes that we may have made. If you have any questions or comments about how we handle your personal information, please contact us. We have registered as a data controller (in our registered company name of X:drive Computing Limited – the owners and operators of WhosOff.com) in line with the United Kingdom Data Protection Act, 1998. X:drive computing Limited registration number is Z2383418
+X:drive Computing Limited (we) are committed to protecting and respecting the privacy of our customers, their staff and other guest users of our site.
 
-### 1\. Your Data
+This policy (together with our [Terms of Website Use](http://www.whosoff.com/terms-of-use/)  and [Cookie Policy](http://www.whosoff.com/cookie_policy/) ) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting www.whosoff.com (our site) you are accepting and consenting to the practices described in this policy. 
 
-Your Data means any information about your company or staff which is identifiable, including, without limitation, company name, your staffs names, company address, company telephone numbers, company email address, staff email address, user passwords, comments, all staff holiday & sickness dates and other information from which your company and staff can be identified and which you may disclose to WhosOff.com or otherwise via, but not limited to, the site at any time.
+For the purpose of the Data Protection Act 1998 (the Act), the data controller is X:drive Computing Limited, a company registered in England and Wales with company number 03736333 whose registered office is at 2nd Floor Rear Office, 29-30 Watling Street, Canterbury, Kent, CT1 2UD.  Please note though that if you are a staff member of one of our customers, your employer is the data controller for the purposes of the Act and we merely process the data on their behalf as part of your and their use of our services.
 
-### 2\. When does WhosOff.com collect your company data and your staff data?
+#### INFORMATION WE MAY COLLECT FROM YOU
 
-  * If you sign up as a user, we collect data when you:
-    * Sign up your company as a user;
-    * update your user company details or settings; and
-    * post an entry on the site.
-    * Request, approve or decline holiday requests.
-    * Staff details are limited to name and email address, plus other optional details added or edited by them at the "edit my details" area.
-    * When your company or your staff update holiday requests, sickness or any other leave/vacation information.
-  * If you otherwise use the site (whether or not you are a user), we collect your data from you when you:
-    * make a complaint or enquiry or provide other feedback to us;
-    * disclose your data to us or otherwise through the site at any other point.
-  * And also when we
-    * monitor your communications sent via and use of the site
+We may collect and process the following data about you:
 
+• Information you give us. 
 
+You may give us information about you by filling in forms on our site or by corresponding with us by phone, e-mail or otherwise. This includes information you provide when you subscribe to the Whos Off service and use such service, sign up to our mailing list, participate in social media functions on our site and when you report a problem with our site or provide other feedback to us.  The information you give us may include your name, address, e-mail address and phone number, any optional details you choose to add to the “edit my details” area of our site, and staff leave information relating to holiday, sickness and other absences. 
 
-### 3\. How do we use Your Data:
+• Information we collect about you. 
 
-  * We use Your Data to:
-    * monitor, develop and improve the site, services and your experience;
-    * process your registration as a user;
-    * process the addition of new members of staff to your user group
-    * process all requests, approvals, declines, holiday, sickness out of office and meeting data information.
-    * process and deal with any complaints or enquiries made by you;
-    * we use your data to update, develop our services.
-    * investigate any suspected breach of the Terms and Conditions of Use or user Terms and Conditions (as relevant) made by or otherwise relating to you or your company or staff and to monitor compliance including by way of checking messages to the site.
-    * where requested by you, to send you and keep you updated with information by email about existing and new services and special offers from WhosOff.com and any other companies within the group;
-    * where requested by you, to send you information by e-mail about related products or services of selected third parties that may be of interest to you; and
-  * To opt-out of receiving any information pursuant to the above paragraph you can:
-    * 1\. request us to amend your preferences accordingly in your company details or Settings (email support@whosoff.com);
-    * 2\. use the facility contained in any such communication.
+With regard to each of your visits to our site we may automatically collect the following information:
 
+• technical information, including the internet protocol (IP) address used to connect your computer to the internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform; 
 
+• information about your visit, including the full uniform resource locators (URL) clickstream to, through and from our site (including date and time); information you viewed or searched for; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page and any phone number used to contact us. 
 
-### 4\. Will we pass on your data to third parties?
+• Information we receive from other sources. 
 
-  * We may pass your data to other parties as follows:
-    * Where other staff within your company wish to contact you, they will be able to identify you by your name and any other information you may yourself disclose via the Edit My Details page. To our employees and agents to administer your usage and the services provided to you by WhosOff.com now or in the future.
-    * Some general statistical information about the site user base, patterns, traffic volumes and related matters may be passed on to reputable third parties but these details will not include information personally identifying your staff or your company.
-    * We may disclose your data or staff data to the police, regulatory bodies or legal advisers in connection with any alleged criminal offence or suspected breach of the Terms and Conditions of use and (where appropriate) User Terms and Conditions by you or your company otherwise where required by law.
-    * We do not pass or sell your data to third persons for any other purpose than those set out above. Any marketing under this paragraph is conducted by WhosOff.com on behalf of third parties and they do not have any access to your data unless you yourself or your Company choose to contact them.
-    * As stated in the Terms and Conditions, We have no responsibility or control over the contents of communications made between your staff and/or your Company to your staff.
+We may work with third parties (including, for example, business partners, sub-contractors, advertising networks, analytics providers, search information providers, credit reference agencies) and may receive information about you from them.
 
+#### COOKIES
 
+Cookies are small pieces of information stored by your browser on your computer’s hard drive.  Our site uses cookies to distinguish you from other users of our site. This helps us to provide you with a good experience when you browse our site and also allows us to improve our site. For detailed information on the cookies we use and the purposes for which we usethem see our[Cookie Policy.](http://www.whosoff.com/cookie_policy/)
 
-### 5\. Giving Information for other people
+#### USES MADE OF THE INFORMATION
 
-  * For UK based companies, your company must be registered as a data controller in line with the United Kingdom Data Protection Act, 1998. If you are processing data in order to fulfil your statutory obligations (e.g. to record absence under statutory sick pay regulations), consent from employees is not necessary, and the ICO guidance also makes it clear that consent is not required where you process data in order to determine whether an employee is fit and well and therefore able to perform their duties, to make reasonable adjustments to their duties, to fulfil health and safety obligations etc. or to pay health benefits.  
-In other countries similar laws will apply, and you are responsible for making sure that you comply with relevant local/national legislation.
+We use information held about you in the following ways:
 
+• Information you give to us.
 
+We will use this information:
 
-### 6\. Data Security
+• to correspond with you and to provide any information you may request from us;
 
-  * We have security measures in place to make sure any personal information we collect is secure. Your account is password protected and all information including your password is held on secure servers, which only a limited number of employees and sub-contractors can access. All parties with access to your information are subject to confidentiality obligations. If you think your password is known by someone else you must change it immediately. Additionally all passwords are held in an encrypted form. Once logged into WhosOff.com, all information is transmitted via industry-standard encryption (SSL).
+• to process your organisation’s application to use our services and carry out our obligations under any contract;
 
+• to register each staff member as a user and process all requests, approvals, declines, sickness, out of office and meeting information;
 
+• to deal with any enquiries, problems or complaints you may have about our services or our site;
 
-### 7\. Cookies
+• to provide you with information about other services we may offer that are similar to those that you have already ordered or enquired about;
 
-  * Cookies are small pieces of information stored by your browser on your computer's hard drive
-  * WhosOff.com use cookies to allow us to understand who has seen which pages and advertisements, to determine how frequently particular pages are visited, to determine the most popular areas of the Site and generally in order to monitor usage of the Site.
-  * Most web browsers automatically accept cookies, though you do not have to.
-  * We do not control the use of cookies by third parties. If you wish to disable cookies then you can do so by readjusting your browser settings although please note that by disabling cookies you may not be able to register with or use all features of the Site.
+• to notify you about changes to our service;
 
+• to ensure that content from our site is presented in the most effective manner for you and for your computer. 
 
+We may also use your information to provide you with information about goods or services we feel may interest you. If you are, or have been, a customer of ours we will only contact you by electronic means (e-mail or SMS) with information about services similar to those which were the subject of a previous sale or negotiations of a sale to you. Otherwise we will only contact you by electronic means for marketing purposes if you have expressly consented to this.
 
-### 8\. Access to and updating your data
+If you are a staff member of one of our customers your personal data entered into the “enter my details” area of our site will not be used for marketing purposes and will only be shared with other members of your organisation in accordance with this policy.
 
-  * Where you are a Staff or Approver user, you may access and update your data contained in your user area accessed by the Edit My Details link. You must make sure that you update your data as soon as possible with any and all relevant changes.
+• Information we collect about you. 
 
+We will use this information:
 
+• to administer our site and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes;
 
-### 9\. Other links
+• to improve our site to ensure that content is presented in the most effective manner for you and for your computer; 
 
-  * Please be aware that you may access other websites through our site
-  * WhosOff.com is not responsible for the data protection policies, content or security of these linked web sites. We do not have any control over the use to which third parties may put your data where you choose to purchase products or services or otherwise to contact them via this Site.
+• to allow you to participate any interactive features of our service, when you choose to do so;
 
+• as part of our efforts to keep our site safe and secure;
 
+• to measure or understand the effectiveness any advertising we may serve to you and others, and to deliver relevant advertising to you;
 
-### 10\. Transfer Outside the EEA
+• Information we receive from other sources. 
 
-  * This site is accessible via the internet and therefore may potentially be accessed by anyone around the world.
-  * This means that, where you post your data on the site, this could be accessed from anywhere around the world and therefore a transfer of your data outside of the European Economic Area may be deemed to have occurred. You consent to such transfer of your data for and by way of this purpose.
+We may combine this information with information you give to us and information we collect about you. We may us this information and the combined information for the purposes set out above (depending on the types of information we receive).
 
+#### DISCLOSURE OF YOUR INFORMATION
 
+Whilst using our services, other members of your organisation who wish to contact you will be able to identify you by your name and any other personal information you may make available about yourself on the “edit my details” page of our site.  Please note we have no responsibility or control over the contents of any communications made between members of your organisation whilst using our services.
 
-### 11\. Contact Us
+We may disclose your personal information to third parties including:
 
-  * If you have any comments or queries in connection with our privacy policy, please contact us by email at [support@whosoff.com](mailto:support@whosoff.com)
+• To suppliers and sub-contractors for the performance of any contract we enter into with them or you.
 
+• To credit reference agencies for the purpose of assessing your credit score where this is a condition of us entering into a contract with you.
 
+• In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
 
- **\-----------------------------** **  PRIVACY POLICY ENDS -----------------------------**
+• If X:drive Computing Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
 
-### WhosOff.com Data Principles
+• If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our Website [Terms of use](http://www.whosoff.com/terms-of-use/)  or [Terms and Conditions](http://www.whosoff.com/terms_and_conditions/) of Supply and any other agreements; or to protect the rights, property, or safety of X:drive Computing Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
-  *  **Notice** : giving individuals notice, as outlined in the above WhosOff.com Privacy Policy, of the purposes for which their data is collected, notice that third party contractors, to whom data may be disclosed, information to enable the individuals to contact the organisation for enquiries or complaints and the means offered for limiting use and disclosure.
-  *  **Choice** : offering individuals the choice of opting out of disclosure to third parties and the choice of whether or not to allow the organisation to use the data for purposes other than those for which they were originally collected.  An opt-in approach is required if sensitive data are involved. However, WhosOff.com only uses data as outlined in our Privacy Policy. WhosOff.com does NOT hold sensitive data such as; racial or ethnic origin of the data subject, his/her political opinions, his/her religious beliefs or other beliefs of a similar nature, whether he/she is a member of a trade union, his/her sexual life, the commission or alleged commission by him of any offence.
-  *  **Onward transfers** : data may be disclosed only to our approved third parties, working on our behalf, who offer the equivalent level of privacy protection.
-  *  **Access** : providing the individual with access to their data and giving them the right to have the information corrected upon request, unless the burden or expense of doing so is disproportionate or would violate the rights of another individual.
-  *  **Security** : taking reasonable precautions to protect personal data from loss or misuse and from unauthorised access, disclosure, alteration and destruction.
-  *  **Data integrity** : ensuring that data are accurate, up-to-date, relevant and reliable for their intended use.
-  *  **Effective Procedures** : providing effective procedure mechanisms and dispute resolution procedures 
+We may also share anonymised aggregate information about our users, for example the number of users of our website or services on a given day, however we do not share personal information with third parties for marketing purposes.
 
+#### WHERE WE STORE YOUR PERSONAL DATA
 
+The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area. It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things,  the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing..
+
+All information you provide to us is stored on our secure servers which only a limited number of our employees and sub-contractors can access.  All information transmitted will be encrypted using SSL technology.
+
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+
+#### YOUR RIGHTS
+
+You have the right to ask us not to process your personal data for marketing purposes. You can exercise this right at any time by contacting us at support@whosoff.com.
+
+We do not share personal information with third parties for marketing purposes.
+
+Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates.  If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies.  Please check these policies before you submit any personal data to these websites.
+
+ **ACCESS TO INFORMATION**
+
+The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
+
+As a staff member of one of our customers you may access the personal information stored about you through the “edit my details” area of our site.  It is your responsibility to ensure the personal information stored about you is correct and up-to-date at all times.
+
+#### CHANGES TO OUR PRIVACY POLICY
+
+Any changes we may make to this policy in the future will be posted on this page. Please check back frequently to see any updates or changes to this policy.
+
+#### CONTACT
+
+Questions, comments and requests regarding this policy are welcomed and should be addressed to support@whosoff.com.
+
+Thank you for visiting our site.
 
 **Not sure whether WhosOff is right for your company?**  
 From carpet fitters to blue chip household names, with over 65,000 members why not let our users tell you all about it.  
-[](https://web.archive.org/web/20131116012814id_/http://www.whosoff.com/case_studies/)
+[](https://web.archive.org/web/20140619011931id_/http://www.whosoff.com/case_studies/)
 
 **Stay in touch**  
 Stay up to date with our latest features and more.  
