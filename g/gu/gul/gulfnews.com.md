@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gulfnews.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231084735id_/http%3A//gulfnews.com/about-gulf-news/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gulfnews.com privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618050930id_/http%3A//gulfnews.com/about-gulf-news/privacy-policy) for the most accurate reproduction.*
 
 # Gulfnews.com | about-gulf-news |privacy-policy | Dubai, Abu Dhabi, Sharjah, Gulf, GCC and Middle East News, Latest Breaking News, News, Analysis, and Opinion
 
