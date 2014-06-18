@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the caboki.com privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808165702id_/http%3A//www.caboki.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caboki.com privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618211533id_/http%3A//www.caboki.com/privacy.html) for the most accurate reproduction.*
 
 # Caboki.com Privacy Policy
 
 [](https://privacy.truste.com/privacy-seal/Caboki-LLC/validation?rid=77d084e1-ea14-484c-8630-173af672ae2a "TRUSTe online privacy certification")
 
-**Effective: January 16, 2012**
+**Effective: December 1, 2013**
 
 Caboki LLC ("Caboki") values the protection of individual privacy. This privacy policy sets forth Caboki's privacy policy for the site, and governs the manner in which we collect, use, maintain and disclose information collected from our users. By using our site [www.caboki.com](http://www.caboki.com/), you agree to be bound by this privacy policy. If you do not agree to this privacy policy, please do not use the site.
 
@@ -48,7 +48,7 @@ Caboki.com does not knowingly collect Personally Identifiable Information from o
 
 ## Access to Personal Information
 
-If your personal information changes, or if you no longer desire our service, you may correct, update, amend, delete inaccuracies, or request deletion of your account by making the change within the “my account” section of the site or by emailing us at [privacy@caboki.com](mailto:privacy@caboki.com). We will respond to your access request within 30 days.
+If your personal information changes, or if you no longer desire our service, you may correct, update, amend, delete inaccuracies, or request deletion of your account by making the change within the "my account" section of the site or by emailing us at [privacy@caboki.com](mailto:privacy@caboki.com). We will respond to your access request within 30 days.
 
 We will retain your information for as long as your account is active of as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [privacy@caboki.com](mailto:privacy@caboki.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
@@ -60,15 +60,35 @@ We post customer reviews/video reviews on our Web site which may contain persona
 
 A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.
 
-We use [both] session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time.
+We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time.
 
-We set a persistent cookie to store your passwords, so you don’t have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site.
+We set a persistent cookie to store your passwords, so you don’t have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site. You can remove persistent cookies by following directions provided in your Internet browser’s "help" directory.
+
+If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as contests or surveys, will be limited.
+
+As is true of most web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
+
+We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole.
+
+We do [do not] link this automatically-collected data to personally identifiable information.
 
 The use of third party cookies is not covered by our privacy policy. We do not have access or control over these cookies.
 
 ## Clear Gifs (Web Beacons/Web Bugs)
 
-We employ or our third party tracking utility service employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We tie [do not tie] the information gathered by clear gifs to our customers’ personally identifiable information.
+We employ or our third party tracking utility service employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We tie do not tie the information gathered by clear gifs to our customers’ personally identifiable information.
+
+## Flash LSOs
+
+We use local shared objects, also known as Flash cookies, to store your preferences such as volume control or high game score, or display content based upon what you view on our site to personalize your visit. Third Parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use Flash cookies to collect and store information.
+
+Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies click here:
+
+<http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118>
+
+## Behavioral Targeting/ Re-Targeting
+
+We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [Here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
 
 ## Security
 
@@ -92,4 +112,4 @@ We may update this privacy statement to reflect changes to our information pract
 
 Caboki LLC  
 4222 Fortuna Center Plaza #806  
-Dumfries, VA 22025-1515, USA
+Dumfries, VA 22025
