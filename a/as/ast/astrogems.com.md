@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astrogems.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216085828id_/http%3A//www.astrogems.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astrogems.com privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618033822id_/http%3A//www.astrogems.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Astrogems Privacy Policy
 
