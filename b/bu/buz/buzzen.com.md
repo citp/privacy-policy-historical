@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the buzzen.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526225126id_/http%3A//www.buzzen.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzen.com privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618132811id_/http%3A//www.buzzen.com/privacy.shtml) for the most accurate reproduction.*
 
-# Buzzen Chat
+# Buzzen Chat - Privacy Agreement
 
-**COPYRIGHT© 2004 - THIS YEAR BUZZEN COMMUNICATIONS INC:**
+**COPYRIGHT© BUZZEN:**
 
-The contents of this website is copyrighted © 2004-THIS YEAR BUZZEN COMMUNICATIONS INC. All rights reserved. This website is for personal use only and not to be used in any commercial manner. You are strictly prohibited from using any graphics, designs, information etc. for your own personal use on any other website without prior written consent from Buzzen Executive. 
+Buzzen in its entirety is copyrighted © 2002-2014 BUZZEN. All rights reserved. Buzzen will always and forever be, a FREE and loyal service. Any unauthorized use of Buzzen materials is strictly prohibited without prior written consent from a Buzzen Admin. 
 
 **Your Personal Information:**
 
-Buzzen understands that your personal information is very important to you, and that you have a right not to disclose such information. By providing personal information to Buzzen, we know you do so in the utmost trust and so will guarantee that your personal information stays private.
+Buzzen endeavours to protect the anonymity, security and diversity of our members, we strongly suggest you NEVER share private, personal or identifiable information on our network. 
 
 **Buzzen Membership**
 
-By becomming a member of Buzzen, you are provided with a great deal more access to features, inaccessible to guests or non-members. The benefits of being a member include, but are not limited to: the use of interactive tools, such as email, chat, gaming and 24 hour technical assistance. To keep you up to date with network updates and changes you may also recieve newsletters.
+By becoming a member of Buzzen, you are provided with a great deal more access to features, inaccessible to guests or non-members. The benefits of being a member include, but are not limited to: the use of interactive tools, such as email, chat, gaming and 24 hour technical assistance. To keep you up to date with network updates and changes you may also receive newsletters.
 
 **Collected Information:**
 
@@ -28,9 +28,9 @@ We understand that some do not like disclosing personal information to become a 
 
 **Using Cookies**
 
-Cookies are pieces of information which are transfered to your computer hard drive for recording purposes. Most web browsers will accept cookies, however if you wish you can chose not to accept any cookies. This may cause some pages not to work to the fullest potential and decrease your overall experience of certain services.
+Cookies are pieces of information which are transferred to your computer hard drive for recording purposes. Most web browsers will accept cookies, however if you wish you can chose not to accept any cookies. This may cause some pages not to work to the fullest potential and decrease your overall experience of certain services.
 
-The use of cookies can overall enhance your experience, as we're able to create the services you like to suit you more. These cookies can also assist in understanding which advertisments are effective.
+The use of cookies can overall enhance your experience, as we're able to create the services you like to suit you more. These cookies can also assist in understanding which advertisements are effective.
 
 **The use of cookies can help determine:**
 
@@ -52,19 +52,19 @@ Your information will not be disclosed to anyone without your consent, with exce
 
 
 
-Buzzen will not share your personal information to any third party clientel.
+Buzzen will not share your personal information to any third party clientele.
 
 **Storing & Keeping your information secure:**
 
 We will make EVERY effort to prevent the disclosure of your information to any third party clientel or other user. As services grow we will further increase our network's security.
 
-Our employees are obliged to respect the confidentiality of any information supplied to us and held by us. However, we will not be held responsible for events arising from unauthorised access to your personal information. 
+Our employees are obliged to respect the confidentiality of any information supplied to us and held by us. However, we will not be held responsible for events arising from unauthorized access to your personal information. 
 
 You can also assist in protecting your personal information by contacting your local technician or computer shop on ways to protect your computer and by informing Buzzen if there is any unauthorized access to your account.
 
 **Problems & Questions:**
 
-Should be raised by emailing: [privacy@buzzen.com](mailto:privacy@buzzen.com)
+Should be raised by emailing: [ privacy@buzzen.com](mailto:privacy@buzzen.com)
 
 **Changes to the Privacy Statement:**
 
