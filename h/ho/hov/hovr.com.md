@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hovr.com privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123170638id_/http%3A//hovr.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hovr.com privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618145237id_/http%3A//hovr.com/privacy.jsp) for the most accurate reproduction.*
 
 # Hovr Privacy Policy
 
