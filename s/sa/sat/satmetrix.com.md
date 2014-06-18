@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the satmetrix.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216190450id_/http%3A//www.satmetrix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the satmetrix.com privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618041926id_/http%3A//www.satmetrix.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Satmetrix
+# Privacy Policy
 
 This Privacy Statement explains the data practices of Satmetrix Systems, Inc. (”Satmetrix” or “Us”). This privacy statement covers the sites www.satmetrix.com and www.ccsurvey.com. Part I describes our data practices with respect to Personal Data (as defined below) that Satmetrix processes on behalf of its clients; and Part II describes our data practices with respect to information we collect about our business contacts and other visitors to the Satmetrix website. The general provisions in Part III apply to our data practices in both Part I and Part II.
 
