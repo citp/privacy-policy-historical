@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcci.edu privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030162534id_/https%3A//www.pcci.edu/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcci.edu privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618083621id_/http%3A//www.pcci.edu/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy :: Pensacola Christian College
 
@@ -26,6 +26,8 @@ We may use information to:
 
   * Fulfill your requests for products and services;
   * Offer products and services that may be of interest to you;
+  * Provide address information and individual shopping interests to select companies whose products or services may be of interest to you;
+  * Send you catalogs or other promotional materials on behalf of other companies;
   * Process payment for products or services you order;
   * Customize the content you see on our website;
   * Facilitate use of our website;
@@ -41,7 +43,8 @@ We may use information to:
 We will not share your personal information with others except as indicated below. We may share personal information with:
 
   * Service providers, such as credit-card payment processors, performing services on our behalf;
-  * Other PCC affiliates; and
+  * Other PCC affiliates;
+  * Other select companies whose products or services may be of interest to you; and
   * Other third parties in limited circumstances, such as complying with legal requirements, preventing fraud, and protecting the safety of our users.
 
 
