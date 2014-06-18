@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zalora.com.my privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219180415id_/http%3A//www.zalora.com.my/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zalora.com.my privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618171649id_/http%3A//www.zalora.com.my/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
@@ -7,8 +7,7 @@
 Data protection is a matter of trust and your privacy is important to us. We shall therefore only use your name and other information, which relates to you in the manner set out in this Privacy Policy. We will only collect information where it is necessary for us to do so and we will only collect information if it is relevant to our dealings with you.  
 We will only keep your information for as long as we are either required to by law or as is relevant for the purposes for which it was collected.  
 You can visit the Site and browse without having to provide personal details. During your visit to the Site you remain anonymous and at no time can we identify you unless you have an account on the Site and log on with your user name and password.  
-If you have any comments or suggestions, we would be pleased to receive them at our address or by emailing us at customer@zalora.com.my.  
-Our Privacy Statement fully complies with the Privacy Act 1988 and represents the industry’s best practice.
+If you have any comments or suggestions, we would be pleased to receive them at our address or by emailing us at customer@zalora.com.my.
 
   
 
@@ -16,8 +15,6 @@ Our Privacy Statement fully complies with the Privacy Act 1988 and represents th
 ### Collection of Personal Information
 
 ZALORA does not sell, share or trade customers personal information collected online with third parties.
-
-Personal information collected online will only be disclosed within our corporate group and sister companies (LAZADA, Home24, Food Panda) for internal use only.
 
 When you create a ZALORA account the personal information we collect may include your: 
 
@@ -76,7 +73,7 @@ ZALORA uses 128 - bit SSL (secure sockets layer) encryption technology when proc
 
 ### Disclosure of Personal Information
 
-We will not share your information with any other organisations other than related companies, sister companies and those third parties directly related to the delivery of the products you have purchased from ZALORA website. In exceptional circumstances ZALORA may be required to disclose personal information, such as when there are grounds to believe that the disclosure is necessary to prevent a threat to life or health, or for law enforcement purposes. ZALORA is committed to complying with the Privacy Act and the National Privacy principles. 
+We will not share your information with any other organisations other than related companies, sister companies and those third parties directly related to the delivery of the products you have purchased from ZALORA website. In exceptional circumstances ZALORA may be required to disclose personal information, such as when there are grounds to believe that the disclosure is necessary to prevent a threat to life or health, or for law enforcement purposes. ZALORA is committed to complying with the PDPA (Personal Data Privacy Act 2010) and the National Privacy principles. 
 
 We may however use your contact information to send newsletters from us and from our related companies.
 
@@ -113,6 +110,15 @@ ZALORA reserves the right to modify and change the Privacy Statement at any time
   
 
 
-### Complaints about breeches of privacy
+### Complaints about breaches of privacy
 
 If you are not satisfied with the way in which we handle your enquiry or complaint, please don't hesitate to contact us at customer@zalora.com.my.
+
+  
+
+
+### Personal Data Notice
+
+In compliance with the Personal Data Protection Act 2010 and its regulations, this notice is issued to all our valued customers and/or prospective customers. This Notice will inform you of your rights with regards to your personal data that has been and/or will be, collected and processed by us.
+
+Please see [here for more information](http://www.zalora.com.my/personal-data-protection/) on the Personal Data Notice.
