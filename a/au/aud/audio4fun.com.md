@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the audio4fun.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208222210id_/http%3A//www.audio4fun.com/policy/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audio4fun.com privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618114939id_/http%3A//www.audio4fun.com/policy/privacy.htm) for the most accurate reproduction.*
 
 # Audio4fun.com privacy policy
 
@@ -19,6 +19,18 @@ We may also use the information we collect to occasionally notify you about new 
 When you place an order, you will be transferred to our online retailer - **RegNow/MyCommerce** \- to process your order. At this page, you will have to provide your name, email address, mailing address, and credit informatioon - however, rest assure that these information are stored and processed at highest secure level.
 
 As a software product vendor, we will collect your name, email address, mailing address, and the serial number (the license). We use these information for further support your product accordingly.
+
+#### How we use online advertisements:
+
+We advertise Audio4fun on the Google content network using Google's remarketing technology across the internet. In doing this, we hope to attract visitors back to our site that have previously visited Audio4fun and who have previously begun, but not finished, one or more tasks. 
+
+Google AdWords Remarketing will display ads based on the content you have viewed on www.audio4fun.com by leaving a cookie in your machine. This cookie does not in any way identify you or give anyone access to your computer. Google AdWords Remarketing allows us to tailor our marketing to better suit your needs and will only display ads that are relevant to you.
+
+This could be in the form of an advertisement on a Google search result page, or on a site that uses the Google display network. Third-party vendors, including Google, may use cookies to display ads based on a person's past visits to Audio4fun's website. 
+
+#### How to opt out of Google's use of cookies:
+
+If you do not wish to participate in our Google AdWords Remarketing, you can opt out of Google's use of cookies by visiting Google's [Ads Settings](http://www.google.com/settings/ads "Ads Settings"), or by visiting the [Network Advertising Initiative op-out page](http://www.networkadvertising.org/choices/ "Network Advertising Initiative op-out page") to opt out of a third-party vendor's use of cookies.
 
 #### Will Audio4fun.com disclose the information it collects to outside parties?
 
