@@ -1,108 +1,150 @@
-> *The following text is extracted and transformed from the birth.com.au privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105001311id_/http%3A//www.birth.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birth.com.au privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618212621id_/http%3A//www.newscorpaustraliaprivacy.com) for the most accurate reproduction.*
 
-# Pregnancy | Pregnant | Birth | Maternity
+# Privacy Policy | News Corp Australia
 
-Birth.com.au Privacy Policy statement was last updated: September 12, 2013.
-
-This statement has been produced with reference to the guidelines set out by the Office of the Federal Privacy Commissioner, Australia. For more information visit:  [ www.privacy.gov.au](http://www.privacy.gov.au/)
-
-News Life Media is committed to providing its customers and clients with the highest possible standards of product and service. As part of that commitment we have produced the following Privacy Policy statement to help you better understand the privacy issues that arise as a result of the use of our website products and services.
-
-** This policy statement will address the following:**
-
-[ The types of information we collect](http://www.birth.com.au/privacy-policy#1)  
-[ How we use or disclose the information we collect](http://www.birth.com.au/privacy-policy#2)  
-[ Use of Aggregate Data](http://www.birth.com.au/privacy-policy#3)  
-[ The quality and security of the information we hold](http://www.birth.com.au/privacy-policy#4)  
-[ Your access to the information we hold](http://www.birth.com.au/privacy-policy#5)  
-[ Transborder (interstate and international) data movement](http://www.birth.com.au/privacy-policy#6)  
-[ Your participation on our websites](http://www.birth.com.au/privacy-policy#7)  
-[ Links to other websites](http://www.birth.com.au/privacy-policy#8)  
-[ Our policy on children's privacy protection](http://www.birth.com.au/privacy-policy#9)  
-[ How to contact us for more information](http://www.birth.com.au/privacy-policy#10)
-
-** The types of information we collect**
-
-In general, when you visit our websites you do not have to tell us who you are, or reveal any personally identifiable information to us. Unless you specifically agree to tell us, we will never know who you are, and you are able to interact with our websites in a relatively anonymous way.
-
-Personally identifiable information is defined as any specific data that could disclose you as an individual, such as your name, address, telephone number, billing and shipping information, credit card information or e-mail address.
-
-When you visit our websites our servers automatically record basic information about your usage, such as the type of internet browser and operating system you are using, the date, time and duration of your visit and the pages you viewed. This information is anonymous and does not identify you as an individual, nor will we combine it with information that does identify you as an individual. This information is collected and analysed to provide us with a greater understanding of how you use our websites.
-
-Where necessary we collect personally identifiable information on certain areas of our websites, for example, if you register with Birth (either directly or using a social media platform such as Facebook), enter a competition, subscribe to an e-mail newsletter or sign up for our Birth newsletter program. The personally identifiable information collected may consist of a username and contact information, such as your name, email address, mailing address, date of birth, telephone and fax numbers. You may have the opportunity to make purchases on our websites, in which case we would need to collect your order information, credit card details and delivery instructions in order to facilitate payment and shipment.
-
-From time to time we may invite you to answer survey questions and provide certain demographic information, such as your age, sex, income bracket, country of access, and location of connection, (e.g., home or work). Your response to these types of surveys is entirely voluntary and you should feel no obligation to participate.
-
-At times we may use a feature of your browser (called a "cookie") to automatically assign you a unique user ID or a session ID. A cookie, by itself, cannot be used to find out your identity, it merely identifies your computer to our servers when you visit our websites. We will not combine your user ID or session ID with information that does identify you as an individual. You may, at any time, set your browser to allow, notify you or refuse altogether the use of cookies.  [ top](http://www.birth.com.au/privacy-policy)
-
-** How we use or disclose the information we collect**
-
-In general, the information we collect is used for our own analysis aimed at improving our products and services. We use personally identifiable information to fulfil your requests or orders for specific services or products. We may also use personally identifiable information to perform other functions including, demographic analysis of site usage (who is visiting our websites and what they are interested in), customising advertising and content seen by our users, and improving our marketing and promotional efforts.
-
-We will not intentionally disclose any personally identifiable information and we do not sell, trade or rent such information to third parties (such as advertisers or telemarketers). 
-
-Any personally identifiable information you provide will only be provided to third parties if:
-
-  * You consent to such a disclosure
-  * We are compelled or authorised to do so by law
-  * We reasonably believe there is a threat to someone's life or health
-  * Our website or business is sold to, or merged with another entity.  [ top](http://www.birth.com.au/privacy-policy)
+  * 1\. INTRODUCTION
+  * 2\. WHAT INFORMATION DO WE COLLECT?
+  * 3\. HOW DO WE USE YOUR INFORMATION?
+  * 4\. HOW DO WE PROTECT YOUR INFORMATION?
+  * 5\. HOW CAN YOU ACCESS YOUR INFORMATION?
+  * 6\. HOW CAN YOU OPT OUT?
+  * 7\. OTHER IMPORTANT INFORMATION FOR YOU
+  * 8\. HOW YOU CAN CONTACT US
+  * 9\. LIST OF INCLUDED COMPANIES
 
 
 
-** Use of Aggregate Data**
+**1\. INTRODUCTION**
 
-We may collect and use certain non-personal information (e.g., the identity of your Internet browser, the type of operating system you use, your IP address and the domain name of your Internet service provider) to optimise our goods and services (which may include the display of personalised content and advertising) including our Web pages for your computer. 
+Each company listed in Section 9 below (“Company” or “we”) wants you to be familiar with how we collect, use and disclose information from and about you. This Privacy Policy describes our practices in connection with information collected through all our services including home delivery subscription, digital services subscription, advertising services, websites, mobile sites, applications (“apps”), and widgets, competitions and customer surveys (collectively, the “Company Services”). By using Company Services, you agree to the terms and conditions of this Privacy Policy.
 
-Birth.com.au may use personally identifiable information in aggregate form to improve our goods and services including our Web sites and make them more responsive to the needs of our customers. This statistical compilation and analysis of information may also be used by News or provided to others as a summary report for marketing, advertising or research purposes.  [ top](http://www.birth.com.au/privacy-policy)
+This Privacy Policy applies to all persons who interact with us, including those who are advertisers, subscribers to our goods or services and registered and unregistered users of Company Services. This Privacy Policy applies to Company’s collection and use of your personal information (i.e. information about an identified or reasonably identifiable individual, such as full name or name and postal address).
 
-** The quality and security of the information we hold**
+Company is bound by the Privacy Act 1988 (Cth) in relation to the handling of personal information. Where appropriate we will handle personal information relying on the media exemption (and complying with the Australian Press Council Privacy Standards), related bodies corporate exemption and the employee records exemption in the Act. This Privacy Policy will not address issues around personal information and its collection and use in the course of journalism and for details on this, you should refer to the Australian Press Council Privacy Standards at <http://www.presscouncil.org.au/privacy-principles>.
 
-Any information you provide to us is stored and held under generally accepted standards of technology and operational security in order to protect your personally identifiable information from loss, misuse, alteration, or destruction. Only authorised personnel are provided access to personally identifiable information and these personnel are required to treat this information as confidential. Despite these precautions, we cannot guarantee absolutely that any and all unauthorised access to your personally identifiable information will be prevented.  [ top](http://www.birth.com.au/privacy-policy)
+**2\. WHAT INFORMATION DO WE COLLECT?**
 
-** Your access to the information we hold**
+Company collects the personal information needed to provide Company Services and for our business operations. If you choose not to provide certain personal information to us, we may not be able to provide you with the services you require. The following are the main types of personal information collected by Company and the main purposes for which they are collected.
 
-If you would like to access, correct, update or de-activate any information you have submitted, you can do so either by changing your Birth online profile or sending a request to info@birth.com.au. We will modify or de-activate any information that could be used to identify you as soon as practicable after your request, unless we are required or authorised by law not to do so. Once de-activated your data will not be accessible, however, due to system backups to various types of data storage media, your data may in some circumstances remain on these types of data storage media.  [ top](http://www.birth.com.au/privacy-policy)
+**Registration Information** is the information you provide to Company in the course of registering for or acquiring a Company Service, for example, to create an account, become a subscriber, become an advertiser, post comments, receive a newsletter, or enter a competition. Registration Information may include, for example, name, delivery or postal address, email address, gender and birthday. It includes additional information which you provide to Company in the course of that relationship. Where possible you may have the option of interacting with us anonymously (for example when browsing our digital products as a casual user) or using a pseudonym. We will usually make it clear whenever this is an option.
 
-** Transborder (interstate and international) data movement**
+**Public Information and Posts** consist of comments or content that you post to the Company Services and the information about you that accompanies those posts or content, which may include a name, user name, comments, likes, tweets, status, profile information and picture(s). Public Information and Posts are always public, which means they are available to everyone and may be displayed in search results on external search engines.
 
-At times, personally identifiable information collected from our websites may be transferred between our offices or data storage facilities located in Australia or internationally. Our websites may be viewed and hosted anywhere in the world, including countries that may not have specific laws regulating the collection, use and transfer of personally identifiable data. By using our websites and submitting such information on it, you voluntarily consent to such transborder transfers and hosting of such information.  [ top](http://www.birth.com.au/privacy-policy)
+**Information from third party Social Media.** If you access or log-in to a Company Service through a third party social media service or connect a Company Service to a third party social media service, the information we collect may also include your user ID and/or user name associated with that social media service, any information or content you have permitted the third party social media service to share with us, such as your profile picture, email address, followers or friends lists, and any information you have disclosed in connection with that social media service. We do not collect your passwords other than in relation to our own services. When you access the Company Services through third party social media services or when you connect a Company Service to third party social media services, you are authorizing Company to collect, store use and disclose such information and content in accordance with this Privacy Policy.
 
-** Your participation on our websites**
+**Activity Information – cookies and other technologies.** When you access and interact with the Company Services, we may collect certain information about those visits. For example, in order to permit your connection to the Company Services, our servers receive and record information about your computer, device, and browser, including potentially your IP address, browser type, and other software or hardware information. If you access the Company Services from a mobile or other device, we may collect a unique device identifier assigned to that device, geolocation data, or other transactional information from that device.
 
-By using our websites, you consent to the collection, use, and storage of your information by us in the manner described in this Privacy Policy and elsewhere on our websites. We reserve the right to make changes to our Privacy Policy from time to time. We will alert you to any such changes by updating the privacy section of our websites, and encourage you to check this page from time to time.  [ top](http://www.birth.com.au/privacy-policy)
+Cookies and other tracking technologies (such as browser cookies and local storage, pixel beacons, and Adobe Flash technology including cookies) are comprised of small bits of data or code that often include a de-identified or anonymous unique identifier. Websites, apps and other services send this data to your browser when you first request a web page and then store the data on your computer so that such websites, apps and other services can access information when you make subsequent requests for pages from that service. These technologies may also be used to collect and store information such as pages you have visited, content you have viewed, search queries you have run and advertisements you have viewed in relation to your usage of the Company Services and other websites you have visited.
 
-** Links to other websites**
+Third parties that support the Company Services by serving advertisements or providing services, such as allowing you to share content or tracking aggregate Company Services usage statistics, may also use these technologies to collect similar information. Company does not control these third-party technologies and their use is governed by the privacy policies of those third parties using such technologies.
 
-Our websites provide links to other third party websites outside our network and immediate control. We do not accept any responsibility for their activities, and we advise you to examine the terms and conditions of using their websites before disclosing any information to them.  [ top](http://www.birth.com.au/privacy-policy)
+Most browsers are initially set to accept cookies, but you can change your settings to notify you when a cookie is being set or updated, or to block cookies altogether. Please consult the "Help" section of your browser for more information. Users can manage the use of Flash technologies, with the Flash management tools available at Adobe’s website. Please note that by blocking any or all cookies you may not have access to certain features, content or personalization available through the Company Services.
 
-** Our policy on children's privacy protection**
+**Information from Other Sources.** We may supplement the information we collect with information from other sources, such as commercially available sources and data providers, as well as information from our business partners or related and affiliated companies in Australia or internationally.
 
-We understand the importance of protecting the privacy of children, especially in an online environment. Our websites are not intentionally designed for or directed at children, and we do not intentionally collect or maintain information about children.  [ top](http://www.birth.com.au/privacy-policy)
+**Information in relation to other persons who deal with us.** When you apply for a job or contract with us we may collect certain information from you or from any recruitment consultant, your previous employers and others who may be able to provide information to assist us in deciding whether or not to make you an offer of employment or engage you under a contract. This Privacy Policy does not apply to acts and practices in relation to employee records of our current and former employees which are exempt from the Privacy Act.
 
-** Our Policy for Protecting Your Online Privacy**  
+Company also collects personal information about individuals who are, or are employed by, our suppliers (including service and content providers), contractors, dealers, related companies, agents and corporate customers. Generally, if appropriate, we will state why we are collecting personal information when we collect it and how we plan to use it, or these things will be obvious when we collect the information.
+
+**3\. HOW DO WE USE YOUR INFORMATION?**
+
+We use the information we collect from and about you to provide the Company Services and features to you, including: to measure and improve those Company Services and features; to improve your experience with both online and off-line Company Services by delivering content Company believes you are likely to find relevant and interesting, including advertising and marketing messages; to allow you to comment on content, and participate in games, competitions, or rewards programs; to provide you with customer support and to respond to inquiries. When you are not reasonably identifiable in relation to the information collected from or about you, we may use that information for any purpose or share it with third parties. We may also de-identify the information we collect about you so that we can use and disclose it without using or revealing any personal information about you.
+
+We use the information we collect from and about you for these additional purposes:
+
+**To provide Company Services to you.** Company will use your information to provide Company Services to you, to fulfill administrative functions associated with these services (for example billing, credit and account management), to enter into contracts with you or third parties and for marketing and client relationship purposes. Where your information is contained within an advertisement which Company publishes for you, Company may also use your information for publication of that same advertisement in other media, in accordance with the terms and conditions applicable to the initial publication of the advertisement. We may also use your information to improve Company Services including through research and data analysis by us and our service providers. Where your personal information is contained in a user generated post or in a communication to an editor or journalist, we may publish your name and suburb to identify you as the author of the comment/correspondence if we choose to publish comment/correspondence in any media. We may use and disclose your personal information in other ways expressly disclosed at the point of collection. If you are a competition winner we may disclose your information to relevant regulatory authorities and publish your details in accordance with the competition terms.
+
+**To allow service and content providers to assist us in providing and managing the Company Services.** Company may make your information available to certain third party service and content providers, such as providers of data cloud services, website hosting service providers, debt collection services and direct marketing services, who help us manage or provide the Company Services or provide Company with related services. These third parties may be located in a range of different countries including the United Kingdom, United States of America and Singapore. Company generally requires these service and content providers to comply with relevant privacy laws and not to use personal information which Company provides for any purpose other than the specific service they are providing to you and/or Company.
+
+**To allow social sharing functionality.** If you log in with or connect a social media service account with Company Services, we may share your user name, picture, tweets and likes, as well as your activities and comments with other Company Services users and with your friends associated with your social media service. We may also share the same information with the social media service provider. By logging in with or connecting your Company Services account with a social media service, you are authorizing us to share information we collect from and about you with the social media service provider, other users and your friends and you understand that the social media service’s use of the shared information will be governed by the social media service’s privacy policy. If you do not want your personal information shared in this way, please do not connect your social media service account with your Company Services account and do not participate in social sharing on Company Services.
+
+**To provide co-branded services and features.** We may offer co-branded services or features, such as competitions or other promotions together with a third party (“Co-Branded Services”). These Co-Branded Services may be hosted on Company Services or on the third party’s service. By virtue of these relationships, we may share the information you submit in connection with the Co-Branded Service with the third party. The third party’s use of your information will be governed by the third party’s privacy policy. We will advise you when this is occurring or obtain your express consent to share your personal information in these circumstances.
+
+**To deliver relevant advertisements.** Company and our advertisers may use the information we collect from and about you to deliver relevant ads to you when you use the Company Services or another service. Please refer to Section 6 below for information about your choices in connection with the advertisements you see when using the Company Services.
+
+**To contact you.** Company may periodically send promotional materials or notifications which it believes might be of interest to you. Promotional materials may include invitations to participate in various activities (such as customer surveys) or special offers.
+
+**To share with our Company Affiliates.** Company may share your information with Company’s related companies both in and outside of Australia including in United Kingdom and United States of America. Users who visit our related companies’ services should still refer to their separate privacy policies, which may differ in some respects from this Privacy Policy. Where we share your information with our related companies, they may use your information in the same way as we can under this Privacy Policy.
+
+**To share with business partners.** Where you have expressly consented to this, Company may share your information with business partners to permit them to send you marketing communications consistent with your choices.
+
+**To protect the rights of Company and others.** There may be instances when Company may disclose your information, including situations where Company has a good faith belief that such disclosure is necessary in order to: (i) protect, enforce, or defend the legal rights, privacy, safety, or property of Company, our related companies or their employees, agents and contractors (including enforcement of our agreements and our terms of use); (ii) protect the safety, privacy, and security of users of the Company Services or members of the public; (iii) protect against fraud or for risk management purposes; (iv) comply with the law or legal process in any country; or (v) respond to requests from public and government authorities.
+
+**To complete a merger or sale of assets.** If Company sells all or part of its business or makes a sale or transfer of its assets or is otherwise involved in a merger or transfer of all or a material part of its business, Company may transfer or disclose your information to the party or parties involved in the transaction as part of that transaction and as part of any due diligence processes which take place in contemplation of a potential transaction.
+
+**4\. HOW DO WE PROTECT YOUR INFORMATION?**
+
+Company uses commercially reasonable administrative, technical, personnel and physical measures to safeguard information in its possession against loss, theft and unauthorized use, disclosure or modification. However, no one can guarantee the complete safety of your information.
+
+**5\. HOW CAN YOU ACCESS YOUR INFORMATION?**
+
+If you would like to access, review, correct or update your personal information, you may contact us as outlined in section 7 of this policy. In your request, please include your email address, name, address, and telephone number and specify clearly what information you would like to access, review, correct or update. We will need to share your information with others who can assist in responding to your request. We will try to respond to your request as soon as reasonably practicable. If we deny access in any circumstances we will generally tell you why.
+
+**6\. HOW CAN YOU OPT OUT?**
+
+You can block or delete cookies through your browser settings but be aware that if you do this you may not be able to continue to receive some Company Services. In addition, this may not be sufficient to block or opt-out of all activities which track the usage of a device or which deliver targeted content. If you wish to obtain more information about how your previous usage of the Internet may be used to determine the ads that you see when you use the Company Services, go to [http://youronlinechoices.com.au](http://youronlinechoices.com.au/) and to opt out of receiving this type of advertising go to <http://www.youronlinechoices.com.au/opt-out>.
+
+If you want to stop receiving promotional materials, you can change your account settings or follow the unsubscribe instructions at the bottom of each email or text message. If you have installed a mobile app and you wish to stop receiving push notifications, you can change the settings either on your mobile device or through the app.
+
+If you have linked any of your social media accounts to your account for any Company Services, you can cancel that link by changing your account settings.
+
+If you need any assistance with changing your account settings, please call Company.
+
+**7\. OTHER IMPORTANT INFORMATION FOR YOU**
+
+**Updates to Privacy Policy.** Company may modify this Privacy Policy at any time. Please look at the Last Updated date at the top of this Privacy Policy to see when this Privacy Policy was last revised. Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on the Company Services. If the changes affect any agreement between us, you will be entitled to terminate our agreement if those changes are not acceptable to you, on reasonable grounds.
+
+**Location of Data.** Some of the Company Services are hosted in and managed outside of Australia and in dealing with Company, you consent to having any personal information accessible from or transmitted outside of Australia.
+
+**Linked Services.** The Company Services may also be linked to sites operated by unaffiliated companies, and may carry advertisements or offer content, functionality, games, newsletters, competitions or applications developed and maintained by unaffiliated companies. Company is not responsible for the privacy practices of unaffiliated companies, and once you leave the Company Services or click an advertisement you should check the applicable privacy policy of the other service.
+
+**Collection of Personal Financial Information by a Payment Service.** In some cases, we may use an unaffiliated payment service to allow you to purchase a product or make payments (“Payment Service”). If you wish to purchase a product or make a payment using a Payment Service, you will be directed to a Payment Service webpage. Any information that you provide to a Payment Service will be subject to the applicable Payment Service's privacy policy, rather than this Privacy Policy. We have no control over, and are not responsible for, any Payment Service's use of information collected through any Payment Service.
+
+**Data Retention.** We will retain your information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or allowed by law.
+
+Remember that even after you cancel your account, copies of some information from your account may remain viewable in some circumstances where, for example, you have shared information with social media or other services. Because of the nature of caching technology, your account may not be instantly inaccessible to others. We may also retain backup information related to your account on our servers for some time after cancelation for fraud detection or to comply with applicable law or our internal security or other policies. We do not always completely remove or delete all of your information for a number of reasons including due to technical and systems constraints, contractual, financial or legal requirements.
+
+**Sensitive Information.** We ask that you not send us, and you not disclose, any sensitive personal information (such as information related to racial or ethnic origin, religion or other beliefs, health, criminal background or trade union membership) on or through the Company Services or otherwise. If, contrary to this request, you do provide any sensitive information, in doing so you consent to us collecting and handling that information in accordance with this Privacy Policy.
+
+**Complaint.** If you think we have breached the Privacy Act or other applicable privacy laws, you may complain to us by contacting us as outlined in section 8 below. When you contact us, please include your email address, name, address, and telephone number and clearly describe your complaint. We will need to share your information with others who can assist in responding to your complaint. We will respond to your complaint as soon as reasonably practicable and in any event within 5 business days, by making contact with you to inform you whether we have accepted your complaint, need further information or do not think we are in breach. We will also let you know the next steps in resolving your complaint. If you are not satisfied with our response to your complaint, or at any time, you may refer your complaint to the Office of the Australian Information Commissioner (www.oaic.gov.au).
+
+**8\. HOW YOU CAN CONTACT US**
+
+Any information posted on bulletin boards and/or communicated in chat areas becomes public information. While News strives to protect and respect your privacy, we cannot guarantee the security of any information you disclose in a chat room or bulletin board.
+
+If you have questions about this Privacy Policy, please contact our Privacy Officer at:
+
+Email: | [privacy@news.com.au](mailto:privacy@news.com.au)  
+---|---  
+Mail: | National Privacy Officer, News Limited, 2 Holt Street, Surry Hills, NSW 2010  
+Telephone: | [+61 2 9288 3000](tel:+61292883000)  
   
+**9\. LIST OF INCLUDED COMPANIES**
+
+  * Advertiser Newspapers Pty Ltd (ACN 007 872 997)
+  * Advertiser News Weekend Publishing Company Pty Ltd (ACN 007 562 950)
+  * Australia Independent Business Media Pty Ltd (ACN 126 233 743)
+  * Business Spectator Pty Ltd (ACN 126 233 725)
+  * Davies Brothers Pty Limited (ACN 009 475 754)
+  * Duvir Holdings Pty Ltd (ACN 068 007 474)
+  * Eureka Report Pty Ltd (ACN 111 063 686)
+  * Gold Coast Publications Pty Ltd (ACN 009 696 511)
+  * Kidspot.com.au Pty Ltd (ACN 111 607 866)
+  * Leader Associated Newspapers Pty Ltd (ACN 004 337 446)
+  * Messenger Press Pty Ltd (ACN 007 563 439)
+  * Nationwide News Pty Ltd (ACN 008 438 828) 
+  * News Digital Media Pty Ltd (ACN 000 529 457)
+  * News Life Media Pty Ltd (ACN 088 923 906)
+  * News Limited (ACN 007 871 178)
+  * Perth Print Pty Ltd (ACN 081 584 223)
+  * Queensland Newspapers Pty Ltd (ACN 009 661 778)
+  * Shespot.com.au Pty Ltd (ACN 138 256 961)
+  * Sunshine Coast Publishing Pty Ltd (ACN 090 524 799)
+  * The Cairns Post Pty Limited (ACN 009 655 752)
+  * The Geelong Advertiser Pty Ltd (ACN 004 090 055) 
+  * The Herald & Weekly Times Pty Limited (ACN 004 113 937)
+  * The North Queensland Newspaper Company Pty Ltd (ACN 009 655 690)
 
 
-This website uses Google Analytics to help analyze how users use the site. The tool uses "cookies," which are text files placed on your computer, to collect standard Internet log information and visitor behaviour information in an anonymous form. The information generated by the cookie about your use of the website (including IP address) is transmitted to Google. This information is then used to evaluate visitors' us of the website and to compile statistical reports on website activity for  [ www.birth.com.au](http://www.birth.com.au/)
 
-We will never (and will not allow any third party to) use the statistical analytics tool to track or to collect any Personally Identifiable Information (PII) of visitors to our site. Google will not associate your IP address with any other data held by Google. Neither we nor Google will link, or seek to link, an IP address with the identity of a computer user. We will not associate any data gathered from this site with any Personally Identifiable Information from any source, unless you explicitly submit that information via a fill-in form on our website.  [ top](http://www.birth.com.au/privacy-policy)
-
-** Further Information about Cookies**
-
-  
-The Interactive Advertising Bureau (IAB) is an industry body that develops standards and guidelines to support online business processes. It has produced a series of web pages that explain how cookies work and how they can be managed.  [ top](http://www.birth.com.au/privacy-policy)
-
-** How to contact us for more information**
-
-If you have any questions or comments regarding this policy, please email us at:  [ top](http://www.birth.com.au/privacy-policy)
-
-[ info@birth.com.au](mailto:info@birth.com.au)  
-or you can write to us at:  
-Birth.com.au  
-L5, 14 Queens Road  
-Melbourne  
-VIC 3004  
-Australia 
-
-_ Revision date: September 12th, 2013._
+**Last updated: 5 March 2014**
