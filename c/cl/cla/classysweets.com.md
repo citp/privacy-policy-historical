@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classysweets.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225071926id_/http%3A//www.classysweets.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classysweets.com privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618171148id_/http%3A//www.classysweets.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Classy Sweets
 
