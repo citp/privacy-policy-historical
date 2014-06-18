@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superherohype.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217194121id_/http%3A//www.craveonline.com/privacy.php%3Fsite%3Dwww.superherohype.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superherohype.com privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618063559id_/http%3A//www.craveonline.com/privacy/%3Fsite%3Dwww.superherohype.com) for the most accurate reproduction.*
 
 # Privacy Policy - CraveOnline
 
