@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the helzberg.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209162615id_/http%3A//www.helzberg.com/category/customer%2Bservice/privacy%2B%2526%2Bsecurity.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helzberg.com privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618123611id_/http%3A//www.helzberg.com/category/customer%2Bservice/privacy%2B%2526%2Bsecurity.do) for the most accurate reproduction.*
 
 # Privacy & Security - Customer Service - Helzberg Diamonds
 
