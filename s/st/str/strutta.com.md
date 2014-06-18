@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the strutta.com privacy policy that was archived on 2013-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131001113351id_/http%3A//www.strutta.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strutta.com privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618202759id_/http%3A//www.strutta.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy – Strutta
+# Privacy
 
 Last Updated: April, 2012
 
-Thank you for your visit. At Strutta.com Media Inc. (“ **Strutta** ” or “ **we** ”), we share your concerns about privacy and hope this Strutta.com Privacy Policy (the “ **Privacy Policy** ”) will help you understand our privacy policies and the rights you have to use or access of www.strutta.com, including any sites or applications hosted on the strutta.com domain which may appear as iframes in third party sites (collectively, the “ **Site** ”), any service available on the Site, as a visitor, user or contest organizer, sponsor or publisher. If you are accepting this Privacy Policy on behalf of a company or other legal entity, you represent that you have the authority to bind such entity to this Privacy Policy, in which case the terms "you" or "your" shall refer to such entity. This Privacy Policy covers how Strutta treats your personal information that we collect or receive. For the purposes of this Privacy Policy, “personal information” is personally identifiable information about you such as your name, address, email address, and other information which is not otherwise publicly available. This Privacy Policy is subject to the Strutta.com [Terms of Service](https://web.archive.org/terms-of-service) (the “ **Terms of Service** ”). Your use or access of the Site and any personal information you provide on the Site remains subject to the terms of this Privacy Policy and the Terms of Service.
+Thank you for your visit. At Strutta.com Media Inc. (“ **Strutta** ” or “ **we** ”), we share your concerns about privacy and hope this Strutta.com Privacy Policy (the “ **Privacy Policy** ”) will help you understand our privacy policies and the rights you have to use or access of www.strutta.com, including any sites or applications hosted on the strutta.com domain which may appear as iframes in third party sites (collectively, the “ **Site** ”), any service available on the Site, as a visitor, user or contest organizer, sponsor or publisher. If you are accepting this Privacy Policy on behalf of a company or other legal entity, you represent that you have the authority to bind such entity to this Privacy Policy, in which case the terms "you" or "your" shall refer to such entity. This Privacy Policy covers how Strutta treats your personal information that we collect or receive. For the purposes of this Privacy Policy, “personal information” is personally identifiable information about you such as your name, address, email address, and other information which is not otherwise publicly available. This Privacy Policy is subject to the Strutta.com [Terms of Service](https://web.archive.org/terms/) (the “ **Terms of Service** ”). Your use or access of the Site and any personal information you provide on the Site remains subject to the terms of this Privacy Policy and the Terms of Service.
 
 Strutta may update this Privacy Policy at any time, and without notification to you, and you should review this Privacy Policy from time to time by accessing the Site. Your continued use of the Site shall be deemed irrevocable acceptance of any such revisions.
 
-### Overview
+## Overview
 
 This Privacy Policy is subject to applicable government laws of each jurisdiction in which you use or access the Site.
 
@@ -20,13 +20,13 @@ We are committed to protecting the privacy of personal information.
 
 When you register for a Strutta account, including registering or logging in with any third party authentication service, and become a registered user of the Site, we ask for personal information that will be used to activate your account, provide you with access to the Site, communicate with you about the status of your account, and for other purposes set out in this Privacy Policy.
 
-### Information Collection
+## Information Collection
 
 By providing personal information to us and by using or accessing the Site, you voluntarily consent to the collection, use and disclosure of personal information as specified in this Privacy Policy. Without limiting the foregoing, we may on occasion ask you to consent when we collect, use, or disclose your personal information in specific circumstances. Sometimes your consent will be implied through your conduct with us if the purpose of the collection, use or disclosure is obvious and you voluntarily provide the information.
 
 We do not knowingly provide access to the Site to, and will not knowingly collect personal information from, anyone under the age of 13 unless such user has parental or legal guardian consent.
 
-### Registration and Strutta Account Information
+## Registration and Strutta Account Information
 
 You do not have to be a registered user to access the Site or view content on the Site but if you would like to upload content, participate in any online contest, games, and sweepstakes (each a “ **Contest** ”) or promotions, marketing activities or other activities or events (each an “ **Activity** ”) enabled through the Site, ensure any votes or ratings you have cast in an Contest or Activity are recorded, post comments or flag content or carry out other activities which require you to be registered user, you must complete a basic registration form and create a Strutta account or login using a third party authentication. We do ask for some personal information when you create an account on Strutta, including but not limited to your name, email address and password, which is used to protect your Strutta account from unauthorized access and to provide the Site to you in accordance with this Privacy Policy (the “ **Account Information** ”).
 
@@ -55,15 +55,15 @@ We may use your Account Information for the following purposes:
 
 We may occasionally communicate with you regarding products, services, news and events offered by or through Strutta. You have the ability to opt-in or opt-out of certain messages and can update your account profile at any time to change your settings. The only kind of communications that you may not opt-out of are those required to communicate Site-related announcements, including information specific to your account, planned Site or account suspensions and outages. We will attempt to minimize this type of communication to you.
 
-### Applications on Facebook
+## Applications on Facebook
 
 A Contest or Activity enabled through the Site may be displayed as an application on Facebook. If you are accessing the Site through an application on Facebook or logging in to the Site using Facebook, you are providing your information to Strutta in accordance with this Privacy Policy, and not to Facebook. Any information collected through an application on Facebook will also be subject to Facebook's [Data Use Policy](http://www.facebook.com/about/privacy/). More information about how to control information shared with applications on Facebook is available [here](http://www.facebook.com/about/privacy/your-info-on-other#applications).
 
-### Fees and Payment Information
+## Fees and Payment Information
 
 In the event that you provide personal information or payment transaction information to Strutta for the payment of fees for any services you purchase through the Site, you agree that any such personal information and payment transaction information may be shared by Strutta with payment processors or credit agencies solely for the purposes of checking your credit, effecting payment and servicing your account.
 
-### Rights to Your Account Information
+## Rights to Your Account Information
 
 You can edit your Account Information, including privacy settings and email preferences, at any time.
 
@@ -71,7 +71,7 @@ You can delete your Strutta account at any time.
 
 Strutta utilizes both online and offline security methods, such as firewalls, passwords and restricted access to help protect against the loss, misuse and/or unauthorized alteration of the information under Strutta’s control. You are the only user authorized to access or update your Strutta account, unless you provide your password information to another party.
 
-### Visiting the Site
+## Visiting the Site
 
 During your visit to the Site, the Site notes:
 
@@ -93,37 +93,37 @@ We use this information for statistical purposes and to help Strutta provide you
 
 
 
-### Participation in Activities
+## Participation in Activities
 
 To participate in a Contest or Activity, you may be required to input additional information about yourself, which is completely voluntary on your part. Disclosing the information necessary to use these features on the Site is your choice. If you choose to participate in an Contest or Activity and provide additional information, you agree that such additional information and your Account Information may be provided by Strutta to a Contest or Activity organizer, sponsor or other third parties who may need to use such information for such Contest or Activity.
 
-### Uploading Content
+## Uploading Content
 
 You must be a registered user of the Site to post or submit content. Any personal information or content that you voluntarily disclose online (such as comments, forum input, profile information or information or content in your videos, photos, audio or text uploads) becomes publicly available and can be collected and used by others. Your Strutta account name (not your email address) will be displayed to others if you submit Contest or Activity entry, send a message via the Site or post comments on different areas of the Site. Content that you submit to the Site may be redistributed through the internet and other media channels, and may be viewed by the general public.
 
-### Email
+## Email
 
 If you choose to contact Strutta via electronic mail, the information you send will be used only for the purposes described in your message. For Site and privacy security purposes, Strutta employs software programs to monitor network traffic and identify unauthorized attempts to upload or change information, or otherwise cause damage to the Site.
 
-### Strutta Employees
+## Strutta Employees
 
 All Strutta employees are required to protect and to treat any Site visitor’s or user's information and data with the utmost confidence.
 
-### Third-party Sites
+## Third-party Sites
 
 Strutta will not knowingly share, sell, rent or otherwise transfer your information other than in accordance with the terms set forth in this Privacy Policy or as permitted by you. If you give your permission to allow third parties to contact you, personal information such as your contact information and other information collected during your visit to the Site may be shared with other organizations and marketers (possibly in the form of a list rental). Strutta may also share aggregated data and usage information with Strutta’s affiliates, subsidiaries and business partners. This aggregated data means records which have been stripped of individually identifying personal information.
 
 If we use a third party to provide specific services such as sending communications to Strutta users, then your personal information may be shared so that these third parties can provide such services. These third parties are only allowed to use this personally identifiable information to provide these services as requested by Strutta.
 
-### Links
+## Links
 
 This Privacy Policy does not apply to links to third party websites found on the Site and we are not responsible for the privacy practices or the content of such third party websites. Strutta cannot control the information, products, services, activities or policies of third party websites accessible through the Site. We encourage you to consult the respective privacy policies of such third-party websites for more information on their privacy policy and practices.
 
-### Change of Ownership or Business Transition
+## Change of Ownership or Business Transition
 
 In the event Strutta engages in a transaction which results in a change of ownership or control of Strutta, whether pursuant to the sale of all or substantially all of the shares or assets of Strutta, amalgamation, consolidation or other business combination, Strutta may disclose or transfer your Account Information and any additional information you provide pursuant to such a transaction, provided that any disclosure or transfer is made in accordance with the acceptable privacy laws.
 
-### Security
+## Security
 
 We will strive to prevent unauthorized access to your personal information, however, no data transmission over the internet is guaranteed to be 100% secure. We will continue to enhance security procedures as new technologies and procedures become available.
 
@@ -131,7 +131,7 @@ We strongly recommend that you do not disclose your password to anyone. If you f
 
 Please remember that you control what personal information you provide while using the Site. Ultimately, you are responsible for maintaining the secrecy of your identification, passwords and/or any personal information in your possession for the use of the Site. Always be careful and responsible regarding your personal information. We are not responsible for, and cannot control, the use by others of any information which you provide to them and you should use caution in selecting the personal information you provide to others through the Site. Similarly, we cannot assume any responsibility for the content of any personal information or other information which you receive from other users through the Site, and you release Strutta and its subsidiaries and affiliates and each of their employees, officers, and directors from any and all liability in connection with the contents of any personal information or other information which you may receive using the Site. We cannot guarantee, or assume any responsibility for verifying, the accuracy of the personal information or other information provided by any third party. You release Strutta and its subsidiaries and affiliates and each of their employees, officers, and directors from any and all liability in connection with the use of such personal information or other information of others.
 
-### Privacy Officer
+## Privacy Officer
 
 Any questions or complaints about Strutta’s collection, use or disclosure of personal information through the Site should be directed to the Privacy Officer at [support@strutta.com](mailto:support@strutta.com "Email Strutta Support").
 
