@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dzhingarov.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229010701id_/http%3A//dzhingarov.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dzhingarov.com privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618155459id_/http%3A//dzhingarov.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • Dzhingarov
 
@@ -34,4 +34,4 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-©2013 Dzhingarov.com. All rights reserved. []()
+©2013-2014 Dzhingarov.com. All rights reserved. 
