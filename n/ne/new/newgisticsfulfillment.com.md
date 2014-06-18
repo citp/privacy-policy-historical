@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newgisticsfulfillment.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206074238id_/http%3A//www.newgistics.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newgisticsfulfillment.com privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618094127id_/http%3A//www.newgistics.com/privacy_policy.aspx) for the most accurate reproduction.*
 
-# Take A Look At Our Privacy Policy| Newgistics Package Shipping
+# Privacy Policy | Newgistics
 
 Newgistics has created this privacy statement to explain why we collect particular information and how we will protect your personal privacy within our Web sites. The following document discloses our information gathering and dissemination practices for [ www.newgistics.com ](https://web.archive.org/) (collectively, the "Site"). Newgistics reserves the right to change this policy at any time by posting a new privacy policy at this location. Any such change will be effective immediately upon posting.
 
