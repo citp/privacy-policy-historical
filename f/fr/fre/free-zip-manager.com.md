@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-zip-manager.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217185612id_/http%3A//free-zip-manager.com/freezip/privacy%3Ftranslate%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-zip-manager.com privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618060755id_/http%3A//free-zip-manager.com/freezip/privacy%3Ftranslate%3D) for the most accurate reproduction.*
 
 # None
 
