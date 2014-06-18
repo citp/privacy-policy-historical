@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evoluted.net privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216172622id_/http%3A//www.evoluted.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evoluted.net privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618162207id_/http%3A//www.evoluted.net/privacy-policy) for the most accurate reproduction.*
 
 # Evoluted New Media Privacy Policy
 
