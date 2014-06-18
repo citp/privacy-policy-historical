@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the helpserve.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628065721id_/http%3A//www.kayako.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helpserve.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619002522id_/http%3A//www.kayako.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Kayako
 
@@ -6,8 +6,6 @@
   * Privacy
 
 
-
-[](http://www.etrust.org/cert/456879.html)
 
 Your privacy is incredibly important to us. We wouldn't want people mistreating our information, so we'll do everything we can to safeguard yours. Any information that we collect will only be used in ways for which you have consented. 
 
@@ -85,21 +83,12 @@ You may contact Kayako using any of the methods outlined here: [www.kayako.com/c
 
 Our mailing addresses are:
 
-Kayako Helpdesk Pvt. Ltd.   
-Midas Corporate Park v 37 G.T. Road   
-Jalandhar   
+Kayako Helpdesk Pvt. Ltd.  
+Fourth Floor, Midland Financial Centre  
+21-22 G.T.Road  
+Jalandhar  
 Punjab, 144001   
-India   
-
-
-and
-
-Kayako Inc.   
-Suite 203   
-420 Mainstreet   
-Boise  
-Idaho, 83706   
-United States
+India
 
 ## Changes to this policy
 
