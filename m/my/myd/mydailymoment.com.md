@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mydailymoment.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209215420id_/http%3A//www.mydailymoment.com/about_us/about_us/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydailymoment.com privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618123916id_/http%3A//www.mydailymoment.com/about_us/about_us/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | About Us | MyDailymoment.com
 
