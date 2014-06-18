@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expatistan.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030130751id_/http%3A//www.expatistan.com/tos) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expatistan.com privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618055810id_/http%3A//www.expatistan.com/tos) for the most accurate reproduction.*
 
 # Cost of Living
 
@@ -66,11 +66,11 @@ We will not be liable to you in respect of any special, indirect or consequentia
 
 We may revise this disclaimer from time-to-time. The revised disclaimer will apply to the use of our website from the date of the publication of the revised disclaimer on our website. Please check this page regularly to ensure you are familiar with the current version. 
 
-### (7) Entire agreement
+### (9) Entire agreement
 
 This disclaimer, together with our privacy policy and our reports disclaimer (if you have purchased a paid report from us), constitutes the entire agreement between you and us in relation to your use of our website, and supersedes all previous agreements in respect of your use of this website. 
 
-### (8) Law and jurisdiction
+### (10) Law and jurisdiction
 
 This disclaimer will be governed by and construed in accordance with Czech law, and any disputes relating to this disclaimer will be subject to the exclusive jurisdiction of the courts of the Czech Republic. 
 
@@ -117,8 +117,8 @@ We may use your personal information to:
   3. enable your use of the services available on the website, including contacting third party taxi companies;
   4. send you general (non-marketing) commercial communications;
   5. send you email notifications which you have specifically requested;
-  6. provide third parties with statistical information about our users – but this information will not be used to identify any individual user;
-  7. deal with enquiries and complaints made by or about you relating to the website; and
+  6. provide third parties with statistical information about our users – but this information will not be used to identify any individual user; and
+  7. deal with enquiries and complaints made by or about you relating to the website.
 
 
 
