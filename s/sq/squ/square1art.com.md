@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the square1art.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207094457id_/http%3A//www.square1art.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the square1art.com privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618053500id_/http%3A//square1art.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Easy and profitable unique school art fundraiser for elementary and private schools
 
