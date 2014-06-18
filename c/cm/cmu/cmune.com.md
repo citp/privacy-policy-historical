@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cmune.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218022029id_/http%3A//www.cmune.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cmune.com privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618062353id_/http%3A//www.cmune.com/privacy-policy) for the most accurate reproduction.*
 
 # CMUNE: Global Developer & Publisher of Free to Play Online Games| 3D Mobile and Browser-based | Massively Multiplayer Online games | MMO | FPS | Shooting Games » Privacy Policy
 
