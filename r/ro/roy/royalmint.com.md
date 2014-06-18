@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the royalmint.com privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022115654id_/http%3A//www.royalmint.com/legal-pages/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royalmint.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619003521id_/http%3A//www.royalmint.com/legal-pages/privacypolicy) for the most accurate reproduction.*
 
-# Privacy & Cookies Privacy Policy | The Royal Mint
+# Privacy Policy | The Royal Mint
 
 The Royal Mint is committed to respecting your privacy. We may need to handle personal information about you so that we can provide services for you. This privacy statement tells you how we look after that information.
 
