@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epixhd.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219034142id_/http%3A//corp.epixhd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epixhd.com privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618205026id_/http%3A//corp.epixhd.com/privacy-policy) for the most accurate reproduction.*
 
 # Studio 3 Partners - Epix HD Privacy Policy
 
