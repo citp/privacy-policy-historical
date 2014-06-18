@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theitdepot.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219001408id_/http%3A//www.theitdepot.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theitdepot.com privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618205330id_/http%3A//www.theitdepot.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
