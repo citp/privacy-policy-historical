@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipipi.com privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123075409id_/http%3A//www.ipipi.com/DisplayContent.do%3Fpage%3DprivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipipi.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619015719id_/http%3A//www.ipipi.com/DisplayContent.do%3Fpage%3DprivacyPolicy) for the most accurate reproduction.*
 
 # Text Message - Send SMS - International Texting - ipipi.com
 
@@ -57,7 +57,7 @@ We may display targeted advertisements based on personal information. Advertiser
 
   * You can edit your personal account information, including your preferences at any time. 
   * We reserve the right to send you certain communications relating to our service, such as service announcements, administrative messages and newsletters. 
-  * You can delete your account by visiting the [ feedback form](https://web.archive.org/web/20131123075409id_/http%3A//www.ipipi.com/ContactUs.do) page and requesting that your account be deleted. Please make sure that you include your account username in this request. 
+  * You can delete your account by visiting the [ feedback form](https://web.archive.org/web/20140619015719id_/http%3A//www.ipipi.com/ContactUs.do) page and requesting that your account be deleted. Please make sure that you include your account username in this request. 
 
 
 
@@ -78,6 +78,6 @@ We may display targeted advertisements based on personal information. Advertiser
 
 **Questions and Suggestions**
 
-  * If you have questions or suggestions, please [ contact us ](https://web.archive.org/web/20131123075409id_/http%3A//www.ipipi.com/ContactUs.do)
+  * If you have questions or suggestions, please [ contact us ](https://web.archive.org/web/20140619015719id_/http%3A//www.ipipi.com/ContactUs.do)
 
 
