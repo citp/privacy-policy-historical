@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classi4u.com privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812024453id_/http%3A//www.classi4u.com/classiprivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classi4u.com privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618143816id_/http%3A//www.classi4u.com/classiprivacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Classi4U.com
 
