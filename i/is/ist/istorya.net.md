@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the istorya.net privacy policy that was archived on 2013-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130721002819id_/http%3A//www.istorya.net/forums/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the istorya.net privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618054808id_/http%3A//www.istorya.net/forums/privacy_policy.php) for the most accurate reproduction.*
 
 # iSTORYA.NET Privacy Policy
 
