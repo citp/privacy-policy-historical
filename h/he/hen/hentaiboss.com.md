@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hentaiboss.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116163224id_/http%3A//www.hentaiboss.com/external.php%3Fpage%3Dprivacy%26ref%3D%26nats%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hentaiboss.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619090433id_/http%3A//www.hentaiboss.com/external.php%3Fpage%3Dprivacy%26ref%3D%26nats%3D) for the most accurate reproduction.*
 
 # Hentaiboss
 
