@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redding.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207194735id_/http%3A//www.redding.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redding.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619065207id_/http%3A//www.redding.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy Information & News from Redding Record Searchlight (Redding, CA)
 
