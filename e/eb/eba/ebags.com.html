@@ -1,16 +1,22 @@
-<!--The following is the downloaded HTML source of the ebags.com privacy policy that was archived on 2013-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131212025722id_/http%3A//www.ebags.com/help/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ebags.com privacy policy that was archived on 2014-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140620011254id_/http%3A//www.ebags.com/help/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
     <meta name="google-site-verification" content="haEGRQ8p0gAH1TK-OubvZSbz7Qj_gu3u1jp0G2JhJZk">    
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/gtmp_compiled.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-RLKB"></script><script src="//cdn3.ebags.com/eBagsBundles/20.41.2.2/requirejs"></script>
+    <script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/gtmp_compiled.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-RLKB"></script><script src="//cdn3.ebags.com/eBagsBundles/21.13.1.2/requirejs"></script>
 
 <script type="text/javascript">
     require.config({
-        baseUrl: '//cdn3.ebags.com/eBagsBundles/20.41.2.2',
-        waitSeconds: 30
+        baseUrl: '//cdn3.ebags.com/eBagsBundles/21.13.1.2',
+        waitSeconds: 30,
+        shim: {
+            "bootstrap": {
+                deps: ["jquery"]
+            }
+        }
     });
-    require.onError = function (err) {
+
+        require.onError = function (err) {
         if(window.console) console.log(err.requireType);
         if (err.requireType === 'timeout') {
             if(window.console) console.log('modules request timeout - increase requirejs config timeout: ' + err.requireModules);
@@ -35,11 +41,12 @@
 
 
 	<script type="text/javascript">
-	    require(['get!pageLocation/pageLocation'], function (pageLocation) {
-	        pageLocation.init();
+	    require(['jquery', 'get!pageLocation/pageLocation'], function ($, pageLocation) {
+	        $(function() {
+	            pageLocation.init();
+	        });
 	    });
-	</script>
-    
+	</script>    
 
     <title>
     Privacy Policy - eBags.com
@@ -63,17 +70,17 @@
     <link rel="apple-touch-icon-precomposed" sizes="72x72" href="//cdn2.ebags.com/img/Content/ebags/images/siteImages/icons/apple-touch-icon-72x72-precomposed.png">
     <link rel="apple-touch-icon-precomposed" href="//cdn2.ebags.com/img/Content/ebags/images/siteImages/icons/apple-touch-icon-precomposed.png">
 
-    <link href="//cdn3.ebags.com/eBagsBundles/20.41.2.2/main" rel="stylesheet">
+    <link href="//cdn3.ebags.com/eBagsBundles/21.13.1.2/main" rel="stylesheet">
 
-    <link href="//cdn3.ebags.com/eBagsBundles/20.41.2.2/eb_superstyle" rel="stylesheet">
+    <link href="//cdn3.ebags.com/eBagsBundles/21.13.1.2/eb_superstyle" rel="stylesheet">
 
-           <link href="//cdn3.ebags.com/eBagsBundles/20.41.2.2/cssMain" rel="stylesheet">
+           <link href="//cdn3.ebags.com/eBagsBundles/21.13.1.2/cssMain" rel="stylesheet">
 
-    <!--[if IE 7]><link href="//cdn3.ebags.com/eBagsBundles/20.41.2.2/ieSeven" rel="stylesheet"/>
+    <!--[if IE 7]><link href="//cdn3.ebags.com/eBagsBundles/21.13.1.2/ieSeven" rel="stylesheet"/>
 <![endif]--> 
-    <!--[if IE 8]><link href="//cdn3.ebags.com/eBagsBundles/20.41.2.2/ieEight" rel="stylesheet"/>
+    <!--[if IE 8]><link href="//cdn3.ebags.com/eBagsBundles/21.13.1.2/ieEight" rel="stylesheet"/>
 <![endif]--> 
-    <!--[if IE 9]><link href="//cdn3.ebags.com/eBagsBundles/20.41.2.2/ieNine" rel="stylesheet"/>
+    <!--[if IE 9]><link href="//cdn3.ebags.com/eBagsBundles/21.13.1.2/ieNine" rel="stylesheet"/>
 <![endif]--> 
     
 
@@ -153,7 +160,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </div>
                 <div class="headerConInnerLeft headerItem">
                     <div class="promoOneCon">
-                        <a href="http://www.ebags.com/help/returnpolicy"><em>Always</em> <strong>FREE RETURNS</strong></a>
+                        <a href="http://www.ebags.com/help/returnpolicy"><strong>FREE RETURNS</strong></a>
                     </div>
                     <div class="searchCon">
                         
@@ -189,7 +196,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="mobileMenuCon"></div> 
                     <div class="mobileCartCon">
                         <div class="mobileCartNumberCon">
-                            <p class="mobileCartNumber cartCount"></p>
+                            <p class="mobileCartNumber cartCount" data-bind="text: itemCount"></p>
                         </div>
                     </div>
                 </div>
@@ -198,27 +205,32 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="headerConRight headerItem">
                     <div class="rewardsAndCartCon">
                         <div class="welcomeCon">
-                          
-                              <p><a class="" href="https://www.ebags.com/account/create">Create Account</a></p>
-                            
+                            <p>
+            <a class="" href="https://www.ebags.com/account/create">Create Account</a>
+        </p>
                         </div>
                         <div id="divRewardsPointsCon" class="rewardsPointsCon">
-                        
-                            <p><a href="http://www.ebags.com/rewards/index.cfm?fuseaction=signup">Join eBags Rewards Club</a></p>
-                        
+                            <p>
+        <a href="http://www.ebags.com/rewards/index.cfm?fuseaction=signup">Join eBags Rewards Club</a>
+    </p>
                         </div>
 
                         <div class="headerCartCon" id="headerCartCon">
                             <a href="/cart/preview">
                                 <span class="headerCartIcon"></span>
                                 <span class="headerCartNumber cartCount" id="cartItemCount" data-bind="text: itemCount">0</span>
-                                <span class="downArrow"></span>
+                                
+                                    <span id="persistentCartDownArrow" class="downArrow"></span>
+                                
                             </a>
                         </div>
                     </div>
                     <div class="accountCon">
                         
-                        <a class="accountItem helpLink" href="/info/index.cfm?fuseaction=contact">Contact Us</a><a title="eBags Steal of the Day - one incredible deal, every day" class="accountItem" id="lnkDealOfDay" data-dotd="{&quot;IsActive&quot;:true,&quot;DealOfTheDayId&quot;:&quot;6034&quot;,&quot;DomainName&quot;:&quot;www.ebags.com&quot;,&quot;DropBoxTime&quot;:&quot;8&quot;,&quot;WebsiteId&quot;:&quot;1&quot;,&quot;EmailSubscriptionTypeId&quot;:&quot;7&quot;,&quot;EmailsubscriptionStatusId&quot;:&quot;3&quot;,&quot;CustomerId&quot;:&quot;&quot;}" href="#">Steal of the Day</a><div id="divDotd" class="divDotd"></div><script type="text/javascript">require(['jquery', 'views-catalog-dealofthedaypopuplink'], function ($, module) { module('#lnkDealOfDay', { container: '#divDotd' }); });</script><a class="accountItem" id="myAccountItem" href="http://www.ebags.com/help/manageyouraccount">My Account<div id="myAccountArrow" class="downArrow"></div></a><a class="accountItem" href="http://www.ebags.com/wishlist">Wishlist</a><a class="accountItem" href="https://www.ebags.com/members/index.cfm?fuseaction=trackorder&amp;LoginName=track+your+recent+orders&amp;TimeFrame=Recent&amp;YourAccount_Link=RecentOrders">Order Tracking</a>
+                        <a class="accountItem helpLink" href="/info/index.cfm?fuseaction=contact">Contact Us</a>
+		<a title="Incredible Daily Bag Deals" class="accountItem" id="lnkStealOfTheDay" data-sotd="{&quot;IsActive&quot;:true,&quot;IsMobile&quot;:false,&quot;ScheduleId&quot;:&quot;6851&quot;,&quot;DomainName&quot;:&quot;www.ebags.com&quot;,&quot;DropBoxTime&quot;:&quot;8&quot;}" href="#">Steals of the Day</a><div id="headerStealOfTheDay" class="divDotd"></div>
+		<script type="text/javascript">require(['jquery', 'views-stealoftheday-stealofthedaypopuplink'], function ($, module) { module('#lnkStealOfTheDay', { container: '#headerStealOfTheDay' }); });</script>
+	<a class="accountItem" id="myAccountItem" href="http://www.ebags.com/help/manageyouraccount">My Account<div id="myAccountArrow" class="downArrow"></div></a><a class="accountItem" href="http://www.ebags.com/wishlist">Wishlist</a><a class="accountItem" href="https://www.ebags.com/members/index.cfm?fuseaction=trackorder&amp;LoginName=track+your+recent+orders&amp;TimeFrame=Recent&amp;YourAccount_Link=RecentOrders">Order Tracking</a>
                         <div id="divYourAccountHoverContent" class="yourAccountHoverContent myAcct">
                             <div align="center" class="accountHoverIE7">
                                 
@@ -231,7 +243,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <a href="http://www.ebags.com/help/manageyouraccount">Your Account</a><br>
                             <a href="http://www.ebags.com/wishlist">Manage Wishlist</a><br>
                             <a href="https://www.ebags.com/members/index.cfm?fuseaction=trackorder&amp;LoginName=track+your+recent+orders&amp;TimeFrame=Recent&amp;YourAccount_Link=RecentOrders">Track Your Recent Orders</a><br>
-                            <a href="https://www.ebags.com/members/index.cfm?fuseaction=manage_address">Manage Address Book</a><br>
+                            <a href="https://www.ebags.com/members/addressbook">Manage Address Book</a><br>
                             <a href="https://www.ebags.com/members/index.cfm?fuseaction=edit_credit_secure">Manage Payment Methods</a>
                         </div>
                     </div>
@@ -298,590 +310,593 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
         </div>
         
-        <ul id="MainNavItems">
-            <li class="deptLuggage mainNavItem priority01 "><a href="/department/luggage" data-pl="fly_lg_c0_l" class="sliderNav">Luggage</a></li><li class="deptHandbags mainNavItem priority02 "><a href="/department/handbags" data-pl="fly_hb_c0_l" class="sliderNav">Handbags</a></li><li class="deptAccessories mainNavItem priority08 "><a href="/department/accessories" data-pl="fly_ac_c0_l" class="sliderNav">Accessories</a></li><li class="deptBusiness mainNavItem priority03 "><a href="/department/business" data-pl="fly_bs_c0_l" class="sliderNav">Business</a></li><li class="deptBackpacks mainNavItem priority06 "><a href="/department/backpacks" data-pl="fly_bp_c0_l" class="sliderNav">Backpacks</a></li><li class="deptSports mainNavItem priority07 "><a href="/department/sports" data-pl="fly_sp_c0_l" class="sliderNav">Sports</a></li><li class="deptPLP mainNavItem priority09 "><a href="/department/the-ebags-brand" data-pl="fly_plp_c0_l" class="sliderNav">eBags Brand</a></li><li class="deptSale mainNavItem mainNavSale priority05 "><a href="/department/sale" data-pl="fly_sl_c0_l" class="sliderNav saleRed">Sale</a></li><li class="deptBrands mainNavItem priority10"><a href="http://www.ebags.com/brands" data-pl="fly_br_c0_l">Brands</a></li><li class="deptSeasonal mainNavItem mainNavSeasonal priority04"><a href="/landingpages/gifts" data-pl="fly_ft_c0_l">Gifts</a></li><li class="deptAll mainNavItem shopAllDepartments"><a href="#" class="sliderNav">Shop All Departments</a></li>
-        </ul>
 
-        
-        <div class="for-deptLuggage boxSizing flyawayNav navSlider">
-            <div class="flyTopRow clearfix">
-                <div class="flyCol flyLeftCol boxSizing">
-                    <a href="/department/luggage" data-pl="fly_lg_c1_l" class="flyDeptButton">Luggage Department</a>
-                    <div class="flySpotlight boxSizing">
-                        <h2><em>Featured</em></h2>
-                        <a href="/category/luggage/dept/luggage/b/ebags" data-pl="fly_lg_c1_l">Top Rated: eBags Luggage</a>
-                        <a href="/search/b/samsonite/bc/closeouts" data-pl="fly_lg_c1_l">Samsonite Closeout Event</a>
-                        <a href="/category/luggage/dept/luggage/f/spinner" data-pl="fly_lg_c1_l">Spinner Luggage</a>
-                        <a href="/category/luggage/dept/luggage/m/leather" data-pl="fly_lg_c1_l">Leather Luggage</a>
-                        <a href="/search/dept/luggage" data-pl="fly_lg_c1_l"><strong>Shop All Luggage</strong></a>
-                    </div>
-                    <div class="shopSaleItems boxSizing hideOnMobile">
-                        <a href="/category/luggage/dept/luggage/h/sale" data-pl="fly_lg_c1_l">Shop Luggage Sale</a>
-                    </div>
-                </div>
-                <div class="flyCol boxSizing">
-                    <h2><a href="/category/luggage/dept/luggage" data-pl="fly_lg_c2_l">Luggage <div class="rightArrow"></div></a></h2>
-                    <a href="/category/luggage/dept/luggage/f/carry-on" data-pl="fly_lg_c2_l">Carry-On Luggage</a>
-                    <a href="/category/luggage/dept/luggage/f/checked" data-pl="fly_lg_c2_l">Checked Luggage</a>
-                    <a href="/category/luggage/dept/luggage/f/hardside" data-pl="fly_lg_c2_l">Hardside Luggage</a>
-                    <a href="/category/luggage/luggage-sets/dept/luggage" data-pl="fly_lg_c2_l">Luggage Sets</a>
-                    <a href="/category/luggage/travel-duffel-bags/dept/luggage" data-pl="fly_lg_c2_l">Travel Duffels</a>
-                </div>
-                <div class="flyCol boxSizing">
-                    <h2><a href="/category/travel-accessories/dept/luggage" data-pl="fly_lg_c3_l">Travel Accessories <div class="rightArrow"></div></a></h2>
-                    <a href="/category/travel-accessories/packing-aids/dept/luggage" data-pl="fly_lg_c3_l">Packing Aids</a>
-                    <a href="/category/travel-accessories/toiletry-kits/dept/luggage" data-pl="fly_lg_c3_l">Toiletry Kits</a>
-                    <a href="/category/luggage/travel-bags/dept/luggage" data-pl="fly_lg_c3_l">Travel Handbags</a>
-                    <a href="/category/travel-accessories/travel-wallets/dept/luggage" data-pl="fly_lg_c3_l">Travel Wallets</a>
-                    <a href="/category/travel-accessories/insulated-bags/dept/luggage" data-pl="fly_lg_c3_l">Travel Coolers</a>
-                </div>
-                <div class="flyCol boxSizing">
-                    <h2 class="flyNoHover">Size</h2>
-                    <a href="/category/luggage/dept/luggage/f/carry-on" data-pl="fly_lg_c4_l">Domestic Carry-On</a>
-                    <a href="/category/luggage/dept/luggage/z/international-carry-on" data-pl="fly_lg_c4_l">International Carry-On</a>
-                    <a href="/category/luggage/dept/luggage/z/checked-medium" data-pl="fly_lg_c4_l">Checked Medium</a>
-                    <a href="/category/luggage/dept/luggage/z/checked-large" data-pl="fly_lg_c4_l">Checked Large</a>
-                    <a href="/category/luggage/dept/luggage/z/checked-extra-large" data-pl="fly_lg_c4_l">Checked Extra Large</a>
-                </div>
-                <div class="flyDeptLogos">
-                    <div class="flyDeptLogoBox">
-                        <a href="/brand/ebags" data-pl="fly_lg_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_222.gif" border="0"></a>
-                    </div>
-                    <div class="flyDeptLogoBox">
-                        <a href="/brand/tumi" data-pl="fly_lg_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_223.gif" border="0"></a>
-                    </div>
-                    <div class="flyDeptLogoBox">
-                        <a href="/brand/victorinox" data-pl="fly_lg_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_560.gif" border="0"></a>
-                    </div>
-                    <div class="flyDeptLogoBox">
-                        <a href="/brand/samsonite" data-pl="fly_lg_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_2.gif" border="0"></a>
-                    </div>
-                    <div class="flyDeptLogoBox">
-                        <a href="/brand/briggs-and-riley" data-pl="fly_lg_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_4.gif" border="0"></a>
-                    </div>
-                </div>
-                <div class="flyCol flyLeftCol boxSizing" style="clear:both;">
-                    <div class="shopSaleItems boxSizing showOnMobile">
-                        <a href="/category/luggage/dept/luggage/h/sale" data-pl="fly_lg_c5_l">Shop Luggage Sale</a>
-                    </div>
-                </div>
-                <div class="flyClose"></div>
-            </div>
-            <div class="flyBottomRow">
-                
-            </div>
-        </div>
-        
-        <div class="for-deptHandbags boxSizing flyawayNav navSlider">
-            <div class="flyTopRow clearfix">
-                <div class="flyCol flyLeftCol boxSizing">
-                    <a href="/department/handbags" data-pl="fly_hb_c1_l" class="flyDeptButton">Handbags Department</a>
-                    <div class="flySpotlight boxSizing">
-                        <h2><em>Featured</em></h2>
-                        <a href="/category/handbags/dept/handbags/de/designer" data-pl="fly_hb_c1_l">Designer Handbags</a>
-                        <a href="/category/handbags/dept/handbags/m/fabric" data-pl="fly_hb_c1_l">Fabric Handbags</a>
-                        <a href="/category/handbags/dept/handbags/m/leather" data-pl="fly_hb_c1_l">Leather Handbags</a>
-                        <a href="/search/b/baggallini/h/sale" data-pl="fly_hb_c1_l">Baggallini Sale</a>
-                        <a href="/search/dept/handbags" data-pl="fly_hb_c1_l"><strong>Shop All Handbags</strong></a>
-                    </div>
-                    <div class="shopSaleItems boxSizing hideOnMobile">
-                        <a href="/search/dept/handbags/h/sale" data-pl="fly_hb_c1_l">Shop Handbag Sale</a>
-                    </div>
-                </div>
-                <div class="flyCol boxSizing">
-                    <h2><a href="/category/handbags/dept/handbags" data-pl="fly_hb_c2_l">Handbag Types <div class="rightArrow"></div></a></h2>
-                    <a href="/category/handbags/cross-body-bags/dept/handbags" data-pl="fly_hb_c2_l">Crossbody Bags</a>
-                    <a href="/category/diaper-bags" data-pl="fly_hb_c2_l">Diaper Bags</a>
-                    <a href="/category/handbags/hobos/dept/handbags" data-pl="fly_hb_c2_l">Hobos</a>
-                    <a href="/category/handbags/satchels/dept/handbags?sort=BestSeller" data-pl="fly_hb_c2_l">Satchels</a>
-                    <a href="/category/totes/handbag-totes/dept/handbags" data-pl="fly_hb_c2_l">Totes</a>
-                </div>
-                <div class="flyCol boxSizing">
-                    <h2 class="flyNoHover">Shop by Color</h2>
-                    <a href="/search/dept/handbags/c/black" data-pl="fly_hb_c3_l">Black</a>
-                    <a href="/search/dept/handbags/c/red" data-pl="fly_hb_c3_l">Red</a>
-                    <a href="/search/dept/handbags/c/yellow" data-pl="fly_hb_c3_l">Yellow</a>
-                    <a href="/search/dept/handbags/c/brown" data-pl="fly_hb_c3_l">Brown</a>
-                    <a href="/search/dept/handbags/c/green" data-pl="fly_hb_c3_l">Green</a>
-                </div>
-                <div class="flyCol boxSizing">
-                    <h2><a href="/category/handbags?sort=PriceLowToHigh" data-pl="fly_hb_c4_l">Shop by Price <div class="rightArrow"></div></a></h2>
-                    <a href="/search/dept/handbags/p/30-minus" data-pl="fly_hb_c4_l">$30 and Under</a>
-                    <a href="/search/dept/handbags/p/30-to-50" data-pl="fly_hb_c4_l">$30 - $50</a>
-                    <a href="/search/dept/handbags/p/50-to-70~70-to-100" data-pl="fly_hb_c4_l">$50 - $100</a>
-                    <a href="/search/dept/handbags/p/100-to-150" data-pl="fly_hb_c4_l">$100 - $150</a>
-                    <a href="/search/dept/handbags/p/150-to-200~200-plus" data-pl="fly_hb_c4_l">$150+</a>
-                </div>
-                <div class="flyDeptLogos">
-                    <div class="flyDeptLogoBox">
-                        <a href="/category/handbags/dept/handbags/b/michael-michael-kors" data-pl="fly_hb_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_10180.gif" border="0"></a>
-                    </div>
-                    <div class="flyDeptLogoBox">
-                        <a href="/brand/vera-bradley" data-pl="fly_hb_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_10548.gif" border="0"></a>
-                    </div>
-                    <div class="flyDeptLogoBox">
-                        <a href="/brand/kate-spade" data-pl="fly_hb_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_582.gif" border="0"></a>
-                    </div>
-                    <div class="flyDeptLogoBox">
-                        <a href="/brand/baggallini" data-pl="fly_hb_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_376.gif" border="0"></a>
-                    </div>
-                    <div class="flyDeptLogoBox">
-                        <a href="/category/handbags/b/fossil" data-pl="fly_hb_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_10656.gif" border="0"></a>
-                    </div>
-                </div>
-                <div class="flyCol flyLeftCol boxSizing" style="clear:both;">
-                    <div class="shopSaleItems boxSizing showOnMobile">
-                        <a href="/search/dept/handbags/h/sale" data-pl="fly_hb_c5_l">Shop Handbag Sale</a>
-                    </div>
-                </div>
-                <div class="flyClose"></div>
-            </div>
-            <div class="flyBottomRow">
-                
-            </div>
-        </div>
-        
-        <div class="for-deptAccessories boxSizing flyawayNav navSlider">
-            <div class="flyTopRow clearfix">
-                <div class="flyCol flyLeftCol boxSizing">
-                    <a href="/department/accessories" data-pl="fly_ac_c1_l" class="flyDeptButton">Accessories Department</a>
-                    <div class="flySpotlight boxSizing">
-                        <h2><em>Featured</em></h2>
-                        <a href="/search/dept/accessories/h/best-of-the-best" data-pl="fly_ac_c1_l">Best of the Best</a>
-                        <a href="/category/wallets/dept/accessories/h/sale" data-pl="fly_ac_c1_l">Wallet Sale</a>
-                        <a href="/search/dept/accessories/g/womens" data-pl="fly_ac_c1_l">Women's Accessories</a>
-                        <a href="/search/dept/accessories/g/mens" data-pl="fly_ac_c1_l">Men's Accessories</a>
-                        <a href="/search/dept/accessories" data-pl="fly_ac_c1_l"><strong>Shop All Accessories</strong></a>
-                    </div>
-                    <div class="shopSaleItems boxSizing hideOnMobile">
-                        <a href="/search/dept/accessories/h/sale" data-pl="fly_ac_c1_l">Shop Accessories Sale</a>
-                    </div>
-                </div>
-                <div class="flyCol boxSizing">
-                    <h2><a href="/category/wallets-and-accessories/dept/accessories" data-pl="fly_ac_c2_l">Fashion Accessories <div class="rightArrow"></div></a></h2>
-                    <a href="/category/purse-accessories/cosmetic-bags/dept/accessories" data-pl="fly_ac_c2_l">Cosmetic Bags</a>
-                    <a href="/category/hats/dept/accessories" data-pl="fly_ac_c2_l">Hats</a>
-                    <a href="/category/eyewear/sunglasses/dept/accessories" data-pl="fly_ac_c2_l">Sunglasses</a>
-                    <a href="/category/wallets/dept/accessories" data-pl="fly_ac_c2_l">Wallets</a>
-                    <a href="/category/watches/dept/accessories" data-pl="fly_ac_c2_l">Watches</a>
-                </div>
-                <div class="flyCol boxSizing">
-                    <h2><a href="/category/travel-accessories/dept/accessories" data-pl="fly_ac_c3_l">Travel Accessories <div class="rightArrow"></div></a></h2>
-                    <a href="/category/travel-accessories/insulated-bags/lunch-bags/dept/accessories" data-pl="fly_ac_c3_l">Lunch Bags</a>
-                    <a href="/category/travel-accessories/packing-aids/packing-cubes/dept/accessories" data-pl="fly_ac_c3_l">Packing Cubes</a>
-                    <a href="/category/travel-accessories/toiletry-kits/dept/accessories" data-pl="fly_ac_c3_l">Toiletry Kits</a>
-                    <a href="/category/travel-accessories/travel-wallets/dept/accessories" data-pl="fly_ac_c3_l">Travel Wallets</a>
-                    <a href="/category/travel-accessories/umbrellas/dept/accessories" data-pl="fly_ac_c3_l">Umbrellas</a>
-                </div>
-                <div class="flyCol boxSizing">
-                    <h2><a href="/category/electronics-cases/dept/accessories" data-pl="fly_ac_c4_l">Tech Accessories <div class="rightArrow"></div></a></h2>
-                    <a href="/category/electronics-cases/camera-bags-and-cases/dept/accessories" data-pl="fly_ac_c4_l">Camera Cases</a>
-                    <a href="/category/electronics-cases/ipad-and-tablet-cases/dept/accessories" data-pl="fly_ac_c4_l">iPad &amp; Tablet Cases</a>
-                    <a href="/category/electronics-cases/kindle-and-ereader-cases/dept/accessories" data-pl="fly_ac_c4_l">Kindle &amp; eReader Cases</a>
-                    <a href="/category/electronics-cases/phone-cases/dept/accessories" data-pl="fly_ac_c4_l">Phone Cases</a>
-                    <a href="/category/electronics-cases/portable-batteries-and-chargers/dept/accessories" data-pl="fly_ac_c4_l">Batteries &amp; Chargers</a>
-                </div>
-                <div class="flyDeptLogos">
-                    <div class="flyDeptLogoBox">
-                        <a href="/category/travel-accessories/dept/accessories/b/ebags" data-pl="fly_ac_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_222.gif" border="0"></a>
-                    </div>
-                    <div class="flyDeptLogoBox">
-                        <a href="/brand/tumi/dept/accessories" data-pl="fly_ac_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_223.gif" border="0"></a>
-                    </div>
-                    <div class="flyDeptLogoBox">
-                        <a href="/brand/pacsafe/dept/accessories" data-pl="fly_ac_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_154.gif" border="0"></a>
-                    </div>
-                    <div class="flyDeptLogoBox">
-                        <a href="/brand/fossil/dept/accessories" data-pl="fly_ac_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_10656.gif" border="0"></a>
-                    </div>
-                    <div class="flyDeptLogoBox">
-                        <a href="/brand/roocase" data-pl="fly_ac_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_11301.gif" border="0"></a>
-                    </div>
-                </div>
-                <div class="flyCol flyLeftCol boxSizing" style="clear:both;">
-                    <div class="shopSaleItems boxSizing showOnMobile">
-                        <a href="/search/dept/accessories/h/sale" data-pl="fly_ac_c5_l">Shop Accessories Sale</a>
-                    </div>
-                </div>
-                <div class="flyClose"></div>
-            </div>
-            <div class="flyBottomRow">
-                
-            </div>
-        </div>
-        
-        <div class="for-deptBusiness boxSizing flyawayNav navSlider">
-            <div class="flyTopRow clearfix">
-                <div class="flyCol flyLeftCol boxSizing">
-                    <a href="/department/business" data-pl="fly_bs_c1_l" class="flyDeptButton">Business Department</a>
-                    <div class="flySpotlight boxSizing">
-                        <h2><em>Featured</em></h2>
-                        <a href="/search/dept/business/h/best-of-the-best" data-pl="fly_bs_c1_l">Best of the Best</a>
-                        <a href="/search/dept/business/g/mens" data-pl="fly_bs_c1_l">Men's</a>
-                        <a href="/search/dept/business/g/womens" data-pl="fly_bs_c1_l">Women's</a>
-                        <a href="/category/business-cases/laptop-bags/dept/business/h/sale" data-pl="fly_bs_c1_l">Laptop Bag Sale</a>
-                        <a href="/search/dept/business" data-pl="fly_bs_c1_l"><strong>Shop All Business</strong></a>
-                    </div>
-                    <div class="shopSaleItems boxSizing hideOnMobile">
-                        <a href="/search/dept/business/h/sale" data-pl="fly_bs_c1_l">Shop Business Sale</a>
-                    </div>
-                </div>
-                <div class="flyCol boxSizing">
-                    <h2><a href="/category/business-cases/laptop-bags/dept/business" data-pl="fly_bs_c2_l">Laptop Bags <div class="rightArrow"></div></a></h2>
-                    <a href="/category/backpacks/laptop-backpacks/dept/business/u/business" data-pl="fly_bs_c2_l">Laptop Backpacks</a>
-                    <a href="/category/totes/laptop-totes/dept/business" data-pl="fly_bs_c2_l">Laptop Totes</a>
-                    <a href="/category/business-cases/laptop-bags/laptop-sleeves/dept/business" data-pl="fly_bs_c2_l">Laptop Sleeves</a>
-                    <a href="/category/business-cases/laptop-bags/dept/business/m/leather" data-pl="fly_bs_c2_l">Leather Laptop Bags</a>
-                    <a href="/category/business-cases/laptop-bags/dept/business/f/rolling" data-pl="fly_bs_c2_l">Rolling Laptop Bags</a>
-                </div>
-                <div class="flyCol boxSizing">
-                    <h2><a href="/category/messenger-and-shoulder-bags/messenger-bags/dept/business" data-pl="fly_bs_c3_l">Messenger Bags <div class="rightArrow"></div></a></h2>
-                    <a href="/category/messenger-and-shoulder-bags/messenger-bags/dept/business/m/leather" data-pl="fly_bs_c3_l">Leather Messenger Bags</a>
-                    <a href="/category/messenger-and-shoulder-bags/messenger-bags/dept/business/m/canvas" data-pl="fly_bs_c3_l">Canvas Messenger Bags</a>
-                    <a href="/category/messenger-and-shoulder-bags/shoulder-bags/dept/business" data-pl="fly_bs_c3_l">Shoulder Bags</a>
-                    <a href="/category/messenger-and-shoulder-bags/laptop-messenger-bags/dept/business" data-pl="fly_bs_c3_l">Laptop Messenger Bags</a>
-                    <a href="/category/messenger-and-shoulder-bags/messenger-bags/dept/business/g/mens" data-pl="fly_bs_c3_l">Men's Messenger Bags</a>
-                </div>
-                <div class="flyCol boxSizing">
-                    <h2><a href="/category/electronics-cases/dept/business" data-pl="fly_bs_c4_l">iPad &amp; Tech Cases <div class="rightArrow"></div></a></h2>
-                    <a href="/category/electronics-cases/ipad-and-tablet-cases/dept/accessories" data-pl="fly_bs_c4_l">iPad &amp; Tablet Cases</a>
-                    <a href="/category/electronics-cases/kindle-and-ereader-cases/dept/business" data-pl="fly_bs_c4_l">Kindle &amp; eReader Cases</a>
-                    <a href="/category/electronics-cases/phone-cases/dept/business" data-pl="fly_bs_c4_l">Phone Cases</a>
-                    <a href="/category/electronics-cases/de/designer" data-pl="fly_bs_c4_l">Designer Tech Cases</a>
-                    <a href="/category/electronics-cases/portable-batteries-and-chargers/dept/business" data-pl="fly_bs_c4_l">Batteries and Chargers</a>
-                </div>
-                <div class="flyDeptLogos">
-                    <div class="flyDeptLogoBox">
-                        <a href="/brand/kenneth-cole-reaction-business-and-luggage" data-pl="fly_bs_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_651.gif" border="0"></a>
-                    </div>
-                    <div class="flyDeptLogoBox">
-                        <a href="/brand/tumi/dept/business" data-pl="fly_bs_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_223.gif" border="0"></a>
-                    </div>
-                    <div class="flyDeptLogoBox">
-                        <a href="/brand/ebags/dept/business" data-pl="fly_bs_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_222.gif" border="0"></a>
-                    </div>
-                    <div class="flyDeptLogoBox">
-                        <a href="/brand/timbuk2" data-pl="fly_bs_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_72.gif" border="0"></a>
-                    </div>
-                    <div class="flyDeptLogoBox">
-                        <a href="/brand/piel" data-pl="fly_bs_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_79.gif" border="0"></a>
-                    </div>
-                </div>
-                <div class="flyCol flyLeftCol boxSizing" style="clear:both;">
-                    <div class="shopSaleItems boxSizing showOnMobile">
-                        <a href="/search/dept/business/h/sale" data-pl="fly_bs_c5_l">Shop Business Sale</a>
-                    </div>
-                </div>
-                <div class="flyClose"></div>
-            </div>
-            <div class="flyBottomRow">
-                
-            </div>
-        </div>
-        
-        <div class="for-deptBackpacks boxSizing flyawayNav navSlider">
-            <div class="flyTopRow clearfix">
-                <div class="flyCol flyLeftCol boxSizing">
-                    <a href="/department/backpacks" data-pl="fly_bp_c1_l" class="flyDeptButton">Backpacks Department</a>
-                    <div class="flySpotlight boxSizing">
-                        <h2><em>Featured</em></h2>
-                        <a href="/category/backpacks/dept/backpacks/h/best-of-the-best" data-pl="fly_bp_c1_l">Best of the Best</a>
-                        <a href="/category/backpacks/dept/backpacks/f/ipad-and-tablet-pocket" data-pl="fly_bp_c1_l">iPad &amp; Tablet Pocket</a>
-                        <a href="/category/waistpacks/dept/backpacks" data-pl="fly_bp_c1_l">Waist Packs</a>
-                        <a href="/category/messenger-and-shoulder-bags/slings/dept/backpacks" data-pl="fly_bp_c1_l">Slings</a>
-                        <a href="/search/dept/backpacks" data-pl="fly_bp_c1_l"><strong>Shop All Backpacks</strong></a>
-                    </div>
-                    <div class="shopSaleItems boxSizing hideOnMobile">
-                        <a href="/search/dept/backpacks/h/sale" data-pl="fly_bp_c1_l">Shop Backpacks Sale</a>
-                    </div>
-                </div>
-                <div class="flyCol boxSizing">
-                    <h2><a href="/category/backpacks/dept/backpacks" data-pl="fly_bp_c2_l">Backpacks <div class="rightArrow"></div></a></h2>
-                    <a href="/category/backpacks/dept/backpacks/u/school" data-pl="fly_bp_c2_l">School Backpacks</a>
-                    <a href="/category/backpacks/dept/backpacks/u/day-hiking" data-pl="fly_bp_c2_l">Day Hiking Backpacks</a>
-                    <a href="/category/backpacks/laptop-backpacks/dept/backpacks" data-pl="fly_bp_c2_l">Laptop Backpacks</a>
-                    <a href="/category/backpacks/travel-backpacks/dept/backpacks" data-pl="fly_bp_c2_l">Travel Backpacks</a>
-                    <a href="/category/backpacks/dept/backpacks/f/rolling" data-pl="fly_bp_c2_l">Rolling Backpacks</a>
-                </div>
-                <div class="flyCol boxSizing">
-                    <h2><a href="/category/backpacks/dept/backpacks" data-pl="fly_bp_c3_l">Gender and Age <div class="rightArrow"></div></a></h2>
-                    <a href="/search/dept/backpacks/g/womens" data-pl="fly_bp_c3_l">Women's</a>
-                    <a href="/search/dept/backpacks/g/mens" data-pl="fly_bp_c3_l">Men's</a>
-                    <a href="/search/dept/backpacks/g/girls" data-pl="fly_bp_c3_l">Girls'</a>
-                    <a href="/search/dept/backpacks/g/boys" data-pl="fly_bp_c3_l">Boys'</a>
-                    <a href="/search/dept/backpacks/g/kids" data-pl="fly_bp_c3_l">Kids'</a>
-                </div>
-                <div class="flyCol boxSizing">
-                    <h2><a href="/search/dept/backpacks/u/school" data-pl="fly_bp_c4_l">School Age <div class="rightArrow"></div></a></h2>
-                    <a href="/search/sc/toddler-and-preschool" data-pl="fly_bp_c4_l">Toddler and Pre-School</a>
-                    <a href="/search/sc/elementary-school" data-pl="fly_bp_c4_l">Elementary School</a>
-                    <a href="/search/sc/middle-school" data-pl="fly_bp_c4_l">Middle School</a>
-                    <a href="/search/sc/high-school" data-pl="fly_bp_c4_l">High School</a>
-                    <a href="/search/u/college" data-pl="fly_bp_c4_l">College</a>
-                </div>
-                <div class="flyDeptLogos">
-                    <div class="flyDeptLogoBox">
-                        <a href="/brand/jansport" data-pl="fly_bp_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_1.gif" border="0"></a>
-                    </div>
-                    <div class="flyDeptLogoBox">
-                        <a href="/brand/the-north-face" data-pl="fly_bp_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_36.gif" border="0"></a>
-                    </div>
-                    <div class="flyDeptLogoBox">
-                       <a href="/brand/high-sierra" data-pl="fly_bp_lgs_l"> <img src="//cdn2.ebags.com/img/logos/logo_11.gif" border="0"></a>
-                    </div>
-                    <div class="flyDeptLogoBox">
-                        <a href="/category/backpacks/b/ebags" data-pl="fly_bp_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_222.gif" border="0"></a>
-                    </div>
-                    <div class="flyDeptLogoBox">
-                       <a href="/brand/dakine" data-pl="fly_bp_lgs_l"> <img src="//cdn2.ebags.com/img/logos/logo_444.gif" border="0"></a>
-                    </div>
-                </div>
-                <div class="flyCol flyLeftCol boxSizing" style="clear:both;">
-                    <div class="shopSaleItems boxSizing showOnMobile">
-                        <a href="/search/dept/backpacks/h/sale" data-pl="fly_bp_c5_l">Shop Backpacks Sale</a>
-                    </div>
-                </div>
-                <div class="flyClose"></div>
-            </div>
-            <div class="flyBottomRow">
-                
-            </div>
-        </div>
-        
-        <div class="for-deptSports boxSizing flyawayNav navSlider">
-            <div class="flyTopRow clearfix">
-                <div class="flyCol flyLeftCol boxSizing">
-                    <a href="/department/sports" data-pl="fly_sp_c1_l" class="flyDeptButton">Sports Department</a>
-                    <div class="flySpotlight boxSizing">
-                        <h2><em>Featured</em></h2>
-                        <a href="/search/dept/sports/h/best-of-the-best" data-pl="fly_sp_c1_l">Best of the Best</a>
-                        <a href="/search/dept/sports/b/high-sierra?sort=BestSeller" data-pl="fly_sp_c1_l">Top Brand: High Sierra</a>
-                        <a href="/category/sport-bags/snow-sports/dept/sports" data-pl="fly_sp_c1_l">Snow Sports</a>                        
-                        <a href="/search/dept/sports" data-pl="fly_sp_c1_l"><strong>Shop All Sports &amp; Outdoor</strong></a>
-                    </div>
-                    <div class="shopSaleItems boxSizing hideOnMobile">
-                        <a href="/search/dept/sports/h/sale" data-pl="fly_sp_c1_l">Shop Sports Sale</a>
-                    </div>
-                </div>
-                <div class="flyCol boxSizing">
-                    <h2><a href="/search/dept/sports" data-pl="fly_sp_c2_l">Sports Activity <div class="rightArrow"></div></a></h2>
-                    <a href="/search/dept/sports/u/gym-and-fitness" data-pl="fly_sp_c2_l">Gym &amp; Fitness</a>
-                    <a href="/search/dept/sports/u/yoga-and-studio" data-pl="fly_sp_c2_l">Yoga &amp; Studio</a>
-                    <a href="/category/sport-bags/sport-specific-bags/dept/sports" data-pl="fly_sp_c2_l">Team &amp; Individual Sports</a>
-                    <a href="/category/outdoor-accessories/dept/sports" data-pl="fly_sp_c2_l">Outdoor Recreation</a>
-                    <a href="/category/sport-bags/golf-bags/dept/sports" data-pl="fly_sp_c2_l">Golf</a>
-                </div>
-                <div class="flyCol boxSizing">
-                    <h2 class="flyNoHover">Gender and Age</h2>
-                    <a href="/search/dept/sports/g/womens" data-pl="fly_sp_c3_l">Women's</a>
-                    <a href="/search/dept/sports/g/mens" data-pl="fly_sp_c3_l">Men's</a>
-                    <a href="/search/dept/sports/g/girls" data-pl="fly_sp_c3_l">Girls'</a>
-                    <a href="/search/dept/sports/g/boys" data-pl="fly_sp_c3_l">Boys'</a>
-                    <a href="/search/dept/sports/g/kids" data-pl="fly_sp_c3_l">Kids'</a>
-                </div>
-                <div class="flyCol boxSizing">
-                    <h2 class="flyNoHover">Bag Type</h2>
-                    <a href="/category/sport-bags/sports-and-outdoor-duffels" data-pl="fly_sp_c4_l">Sports &amp; Outdoor Duffels</a>
-                    <a href="/category/sport-bags/fitness-totes/dept/sports" data-pl="fly_sp_c4_l">Fitness Totes</a>
-                    <a href="/search/dept/sports/u/tactical" data-pl="fly_sp_c4_l">Tactical</a>
-                    <a href="/category/hydration/dept/sports" data-pl="fly_sp_c4_l">Hydration</a>
-                    <a href="/search/dept/sports/u/hunting" data-pl="fly_sp_c4_l">Hunting</a>
-                </div>
-                <div class="flyDeptLogos">
-                    <div class="flyDeptLogoBox">
-                        <a href="/brand/nike/dept/sports" data-pl="fly_sp_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_579.gif" border="0"></a>
-                    </div>
-                    <div class="flyDeptLogoBox">
-                        <a href="/brand/the-north-face" data-pl="fly_sp_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_36.gif" border="0"></a>
-                    </div>
-                    <div class="flyDeptLogoBox">
-                        <a href="/brand/ogio/dept/sports" data-pl="fly_sp_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_20.gif" border="0"></a>
-                    </div>
-                    <div class="flyDeptLogoBox">
-                        <a href="/brand/ful" data-pl="fly_sp_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_10097.gif" border="0"></a>
-                    </div>
-                    <div class="flyDeptLogoBox">
-                        <a href="/brand/adidas/dept/sports" data-pl="fly_sp_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_415.gif" border="0"></a>
-                    </div>
-                </div>
-                <div class="flyCol flyLeftCol boxSizing" style="clear:both;">
-                    <div class="shopSaleItems boxSizing showOnMobile">
-                        <a href="/search/dept/sports/h/sale" data-pl="fly_sp_c5_l">Shop Sports Sale</a>
-                    </div>
-                </div>
-                <div class="flyClose"></div>
-            </div>
-            <div class="flyBottomRow">
-                
-            </div>
-        </div>
-        
-        <div class="for-deptPLP boxSizing flyawayNav navSlider">
-            <div class="flyTopRow clearfix">
-                <div class="flyCol flyLeftCol boxSizing">
-                    <a href="/department/the-ebags-brand" data-pl="fly_plp_c1_l" class="flyDeptButton">eBags Brand</a>
-                    <div class="flySpotlight boxSizing">
-                        <h2><em>Featured</em></h2>
-                        <a href="/search/b/ebags/h/best-of-the-best" data-pl="fly_plp_c1_l">Best of the Best</a>
-                        <a href="/search/b/ebags/g/mens" data-pl="fly_plp_c1_l">Men's</a>
-                        <a href="/search/b/ebags/g/womens" data-pl="fly_plp_c1_l">Women's</a>
-                        <a href="/category/travel-accessories/insulated-bags/b/ebags" data-pl="fly_plp_c1_l">Lunch Coolers</a>
-                        <a href="/brand/ebags" data-pl="fly_plp_c1_l"><strong>Shop All eBags Brand</strong></a>
-                    </div>
-                    <div class="shopSaleItems boxSizing hideOnMobile">
-                        <a href="/search/b/ebags/h/sale" data-pl="fly_plp_c1_l">Shop eBags Brand Sale</a>
-                    </div>
-                </div>
-                <div class="flyCol boxSizing">
-                    <h2><a href="/brand/ebags" data-pl="fly_plp_c2_l">Categories <div class="rightArrow"></div></a></h2>
-                    <a href="/category/luggage/b/ebags" data-pl="fly_plp_c2_l">Luggage</a>
-                    <a href="/category/backpacks/b/ebags" data-pl="fly_plp_c2_l">Backpacks</a>
-                    <a href="/category/business-cases/b/ebags" data-pl="fly_plp_c2_l">Business &amp; Laptop Cases</a>
-                    <a href="/category/travel-accessories/packing-aids/packing-cubes/b/ebags" data-pl="fly_plp_c2_l">Packing Cubes</a>
-                    <a href="/category/travel-accessories/b/ebags" data-pl="fly_plp_c2_l">Travel Accessories</a>
-                </div>
-                <div class="flyCol boxSizing">
-                    <h2><a href="/brand/ebags" data-pl="fly_plp_c3_l">Collections <div class="rightArrow"></div></a></h2>
-                    <a href="/search/b/ebags/bc/tls" data-pl="fly_plp_c3_l">TLS Luggage</a>
-                    <a href="/search/b/ebags/bc/etech-20" data-pl="fly_plp_c3_l">eTech 2.0 Luggage</a>
-                    <a href="/search/b/ebags/bc/exo-spinner" data-pl="fly_plp_c3_l">EXO Hardside Luggage</a>
-                    <a href="/search/b/ebags/bc/kalya" data-pl="fly_plp_c3_l">Kalya Handbags</a>
-                    <a href="/search/b/ebags/bc/ebags-laptop" data-pl="fly_plp_c3_l">Laptop Collection</a>
-                </div>
-                <div class="flyCol boxSizing">
-                    <h2><a href="/brand/ebags" data-pl="fly_plp_c4_l">Shop by Color <div class="rightArrow"></div></a></h2>
-                    <a href="/search/c/black/b/ebags" data-pl="fly_plp_c4_l">Black</a>
-                    <a href="/search/c/blue/b/ebags" data-pl="fly_plp_c4_l">Blue</a>
-                    <a href="/search/c/green/b/ebags" data-pl="fly_plp_c4_l">Green</a>
-                    <a href="/search/c/red/b/ebags" data-pl="fly_plp_c4_l">Red</a>
-                    <a href="/search/c/purple/b/ebags" data-pl="fly_plp_c4_l">Purple</a>
-                </div>
-                <div class="flyDeptLogos">
-                    <a href="/the-ebags-brand/learnmore/tls" data-pl="fly_plp_lgs_l"><img src="//cdn2.ebags.com/img/Content/ebags/images/siteImages/banners/20130715_PLP-Flyaway-Banner_01.jpg" border="0" style="float:left; max-width:340px; width:39.766%; height:auto;"></a>
-                    <a href="/the-ebags-brand/learnmore/etech2" data-pl="fly_plp_lgs_l"><img src="//cdn2.ebags.com/img/Content/ebags/images/siteImages/banners/20130715_PLP-Flyaway-Banner_02.jpg" border="0" style="float:left; max-width:184px; width:21.52%; height:auto;"></a>
-                    <a href="/the-ebags-brand/learnmore/packing_cubes" data-pl="fly_plp_lgs_l"><img src="//cdn2.ebags.com/img/Content/ebags/images/siteImages/banners/20130715_PLP-Flyaway-Banner_03.jpg" border="0" style="float:left; max-width:331px; width:38.713%; height:auto;"></a>
-                </div>
-                <div class="flyCol flyLeftCol boxSizing" style="clear:both;">
-                    <div class="shopSaleItems boxSizing showOnMobile">
-                        <a href="/search/b/ebags/h/sale" data-pl="fly_plp_c5_l">Shop eBags Brand Sale</a>
-                    </div>
-                </div>
-                <div class="flyClose"></div>
-            </div>
-            <div class="flyBottomRow">
-                
-            </div>
-        </div>
-        
-        <div class="for-deptSale boxSizing flyawayNav navSlider">
-            <div class="flyTopRow clearfix">
-                <div class="flyCol flyLeftCol boxSizing">
-                    <a href="/department/sale" data-pl="fly_sl_c1_l" class="flyDeptButton">Sale Department</a>
-                    <div class="flySpotlight boxSizing">
-                        <h2><em>Featured</em></h2>
-                        <a href="/site/activepromotions" data-pl="fly_sl_c1_l">Active Promotions</a>
-                        <a href="/search/h/sale/de/designer" data-pl="fly_sl_c1_l">Designer Sale</a>
-                        <a href="/search/h/sale" data-pl="fly_sl_c1_l" class="saleRed"><strong>Shop All Sale</strong></a>
-                    </div>
-                </div>
-                <div class="flyCol boxSizing">
-                    <h2><a href="/department/sale" data-pl="fly_sl_c2_l">Departments <div class="rightArrow"></div></a></h2>
-                    <a href="/search/dept/luggage/h/sale" data-pl="fly_sl_c2_l">Luggage</a>
-                    <a href="/search/dept/handbags/h/sale" data-pl="fly_sl_c2_l">Handbags</a>
-                    <a href="/search/dept/accessories/h/sale" data-pl="fly_sl_c2_l">Accessories</a>
-                    <a href="/search/dept/business/h/sale" data-pl="fly_sl_c2_l">Business</a>
-                    <a href="/search/dept/backpacks/h/sale" data-pl="fly_sl_c2_l">Backpacks</a>
-                </div>
-                <div class="flyCol boxSizing">
-                    <h2><a href="/department/sale" data-pl="fly_sl_c2_l">Price <div class="rightArrow"></div></a></h2>
-                    <a href="/search/p/30-minus/h/sale" data-pl="fly_sl_c3_l">$30 and Under</a>
-                    <a href="/search/p/30-to-50/h/sale" data-pl="fly_sl_c3_l">$30 - $50</a>
-                    <a href="/search/p/50-to-70~70-to-100/h/sale" data-pl="fly_sl_c3_l">$50 - $100</a>
-                    <a href="/search/p/100-to-150/h/sale" data-pl="fly_sl_c3_l">$100 - $150</a>
-                    <a href="/search/p/150-to-200~200-plus/h/sale" data-pl="fly_sl_c3_l">$150 +</a>
-                </div>
-                <div class="flyDeptLogos">
-                    <div class="flyDeptLogoBox">
-                        <a href="/brand/samsonite/h/sale" data-pl="fly_sl_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_2.gif" border="0"></a>
-                    </div>
-                    <div class="flyDeptLogoBox">
-                        <a href="/search/b/fossil/h/sale" data-pl="fly_sl_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_10656.gif" border="0"></a>
-                    </div>
-                    <div class="flyDeptLogoBox">
-                        <a href="/search/b/baggallini/h/sale" data-pl="fly_sl_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_376.gif" border="0"></a>
-                    </div>
-                    <div class="flyDeptLogoBox">
-                        <a href="/brand/jansport/h/sale" data-pl="fly_sl_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_1.gif" border="0"></a>
-                    </div>
-                    <div class="flyDeptLogoBox">
-                        <a href="/brand/kate-spade/h/sale?sort=BestSeller" data-pl="fly_sl_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_582.gif" border="0"></a>
-                    </div>
-                </div>
-                <div class="flyClose"></div>
-            </div>
-        </div>
-        
-        <div class="for-deptAll boxSizing flyawayNav navSlider">
-            <div class="flyTopRow clearfix">
-                <div class="flyCol boxSizing">
-                    <h2 class="allSeasonal showBelowDesktop"><a href="/landingpages/gifts" data-pl="fly_sd_bl1_l" class="allDeptLinks">Gifts</a></h2>
-                    <h2><a href="/department/luggage" data-pl="fly_sd_bl2_l" class="allDeptLinks">Luggage <div class="rightArrow showAboveTablet"></div></a></h2>
-                        <a href="/category/luggage/f/carry-on" data-pl="fly_sd_bl2_l">Carry-On Luggage</a>
-                        <a href="/category/luggage/f/checked" data-pl="fly_sd_bl2_l">Checked Luggage</a>
-                        <a href="/category/luggage/f/hardside" data-pl="fly_sd_bl2_l">Hardside Luggage</a>
-                        <span class="showAboveTablet"></span>
-                    <h2><a href="/department/handbags" data-pl="fly_sd_bl3_l" class="allDeptLinks">Handbags <div class="rightArrow showAboveTablet"></div></a></h2>
-                        <a href="/category/handbags/m/leather" data-pl="fly_sd_bl3_l">Leather Handbags</a>
-                        <a href="/category/handbags/cross-body-bags" data-pl="fly_sd_bl3_l">Crossbody Bags</a>
-                        <a href="/category/handbags/dept/handbags/de/designer?items=48" data-pl="fly_sd_bl3_l">Designer Handbags</a>
-                        <span class="showAboveTablet"></span>
-                </div>
-                <div class="flyCol boxSizing">
-                    <h2><a href="/department/the-ebags-brand" data-pl="fly_sd_bl4_l" class="allDeptLinks">eBags Brand <div class="rightArrow showAboveTablet"></div></a></h2>
-                        <a href="/category/luggage/b/ebags" data-pl="fly_sd_bl4_l">Luggage</a>
-                        <a href="/category/travel-accessories/b/ebags" data-pl="fly_sd_bl4_l">Travel Accessories</a>
-                        <a href="/category/business-cases/b/ebags" data-pl="fly_sd_bl4_l">Business</a>
-                        <span class="showAboveTablet"></span>
-                    <h2><a href="/department/accessories" data-pl="fly_sd_bl5_l" class="allDeptLinks">Accessories <div class="rightArrow showAboveTablet"></div></a></h2>
-                        <a href="/category/wallets-and-accessories" data-pl="fly_sd_bl5_l">Fashion Accessories</a>
-                        <a href="/category/travel-accessories" data-pl="fly_sd_bl5_l">Travel Accessories</a>
-                        <a href="/category/electronics-cases" data-pl="fly_sd_bl5_l">Tech Accessories</a>
-                        <span class="showAboveTablet"></span>
-                </div>
-                <div class="flyCol boxSizing">
-                    <h2><a href="/department/business" data-pl="fly_sd_bl6_l" class="allDeptLinks">Business <div class="rightArrow showAboveTablet"></div></a></h2>
-                        <a href="/category/business-cases/laptop-bags" data-pl="fly_sd_bl6_l">Laptop Bags</a>
-                        <a href="/category/messenger-and-shoulder-bags" data-pl="fly_sd_bl6_l">Messenger Bags</a>
-                        <a href="/category/electronics-cases/dept/business" data-pl="fly_sd_bl6_l">iPad &amp; Tech Cases</a>
-                        <span class="showAboveTablet"></span>
-                    <h2><a href="/department/backpacks" data-pl="fly_sd_bl7_l" class="allDeptLinks">Backpacks <div class="rightArrow showAboveTablet"></div></a></h2>
-                        <a href="/category/backpacks/laptop-backpacks" data-pl="fly_sd_bl7_l">Laptop Backpacks</a>
-                        <a href="/category/backpacks/u/school" data-pl="fly_sd_bl7_l">School Backpacks</a>
-                        <a href="/category/backpacks/u/day-hiking" data-pl="fly_sd_bl7_l">Day Hiking Backpacks</a>
-                        <span class="showAboveTablet"></span>
-                </div>
-                <div class="flyCol boxSizing">
-                    <h2><a href="/department/sports" data-pl="fly_sd_bl8_l" class="allDeptLinks">Sports <div class="rightArrow showAboveTablet"></div></a></h2>
-                        <a href="/category/duffel-bags/all-purpose-duffel-bags" data-pl="fly_sd_bl8_l">Sports &amp; Outdoor Duffels</a>
-                        <a href="/search/u/gym-and-fitness" data-pl="fly_sd_bl8_l">Gym &amp; Fitness</a>
-                        <a href="/category/sport-bags/u/yoga-and-studio" data-pl="fly_sd_bl8_l">Yoga &amp; Studio</a>
-                        <span class="showAboveTablet"></span>
-                    <h2 class="saleRed"><a href="/department/sale" data-pl="fly_sd_bl9_l" class="allDeptLinks">Sale <div class="rightArrow showAboveTablet"></div></a></h2>
-                        <a href="/category/luggage/h/sale" data-pl="fly_sd_bl9_l">Luggage</a>
-                        <a href="/search/dept/handbags/h/sale" data-pl="fly_sd_bl9_l">Handbags</a>
-                        <a href="/search/dept/backpacks/h/sale" data-pl="fly_sd_bl9_l">Backpacks </a>
-                        <span class="showAboveTablet"></span>
 
-                    <h2 class="showBelowDesktop"><a href="/brands" data-pl="fly_sd_bl10_l" class="allDeptLinks">Brands</a></h2>
-                </div>
-                <div class="flyClose"></div>
+<ul id="MainNavItems">
+    <li class="deptLuggage mainNavItem priority01 "><a href="/department/luggage" data-pl="fly_lg_c0_l" class="sliderNav">Luggage</a></li><li class="deptHandbags mainNavItem priority02 "><a href="/department/handbags" data-pl="fly_hb_c0_l" class="sliderNav">Handbags</a></li><li class="deptAccessories mainNavItem priority08 "><a href="/department/accessories" data-pl="fly_ac_c0_l" class="sliderNav">Accessories</a></li><li class="deptBusiness mainNavItem priority03 "><a href="/department/business" data-pl="fly_bs_c0_l" class="sliderNav">Business</a></li><li class="deptBackpacks mainNavItem priority06 "><a href="/department/backpacks" data-pl="fly_bp_c0_l" class="sliderNav">Backpacks</a></li><li class="deptSports mainNavItem priority07 "><a href="/department/sports" data-pl="fly_sp_c0_l" class="sliderNav">Sports</a></li><li class="deptPLP mainNavItem priority09 "><a href="/department/the-ebags-brand" data-pl="fly_plp_c0_l" class="sliderNav">eBags Brand</a></li><li class="deptSale mainNavItem mainNavSale priority05 "><a href="/department/sale" data-pl="fly_sl_c0_l" class="sliderNav saleRed">Sale</a></li><li class="deptBrands mainNavItem priority10"><a href="http://www.ebags.com/brands" data-pl="fly_br_c0_l">Brands</a></li><li class="deptAll mainNavItem shopAllDepartments"><a href="#" class="sliderNav">Shop All Departments</a></li>
+</ul>
+
+
+<div class="for-deptLuggage boxSizing flyawayNav navSlider">
+    <div class="flyTopRow clearfix">
+        <div class="flyCol flyLeftCol boxSizing">
+            <a href="/department/luggage" data-pl="fly_lg_c1_l" class="flyDeptButton">Luggage Department</a>
+            <div class="flySpotlight boxSizing">
+                <h2><em>Featured</em></h2>
+                <a href="/category/luggage/dept/luggage/b/ebags" data-pl="fly_lg_c1_l">Top Rated: eBags Luggage</a>
+                <a href="/category/luggage/luggage-sets/dept/luggage/h/sale" data-pl="fly_lg_c1_l">Luggage Set Sale</a>
+                <a href="/category/luggage/dept/luggage/f/spinner" data-pl="fly_lg_c1_l">Spinner Luggage</a>
+                <a href="/category/luggage/dept/luggage/m/leather" data-pl="fly_lg_c1_l">Leather Luggage</a>
+                <a href="/search/dept/luggage" data-pl="fly_lg_c1_l"><strong>Shop All Luggage</strong></a>
             </div>
-            <div class="flyBottomRow">
-                
+            <div class="shopSaleItems boxSizing hideOnMobile">
+                <a href="/category/luggage/dept/luggage/h/sale" data-pl="fly_lg_c1_l">Shop Luggage Sale</a>
             </div>
         </div>
+        <div class="flyCol boxSizing">
+            <h2><a href="/category/luggage/dept/luggage" data-pl="fly_lg_c2_l">Luggage <div class="rightArrow"></div></a></h2>
+            <a href="/category/luggage/dept/luggage/f/carry-on" data-pl="fly_lg_c2_l">Carry-On Luggage</a>
+            <a href="/category/luggage/dept/luggage/f/checked" data-pl="fly_lg_c2_l">Checked Luggage</a>
+            <a href="/category/luggage/dept/luggage/f/hardside" data-pl="fly_lg_c2_l">Hardside Luggage</a>
+            <a href="/category/luggage/luggage-sets/dept/luggage" data-pl="fly_lg_c2_l">Luggage Sets</a>
+            <a href="/category/luggage/travel-duffel-bags/dept/luggage" data-pl="fly_lg_c2_l">Travel Duffels</a>
+        </div>
+        <div class="flyCol boxSizing">
+            <h2><a href="/category/travel-accessories/dept/luggage" data-pl="fly_lg_c3_l">Travel Accessories <div class="rightArrow"></div></a></h2>
+            <a href="/category/travel-accessories/packing-aids/dept/luggage" data-pl="fly_lg_c3_l">Packing Aids</a>
+            <a href="/category/travel-accessories/toiletry-kits/dept/luggage" data-pl="fly_lg_c3_l">Toiletry Kits</a>
+            <a href="/category/luggage/travel-bags/dept/luggage" data-pl="fly_lg_c3_l">Travel Bags</a>
+            <a href="/category/travel-accessories/travel-wallets/dept/luggage" data-pl="fly_lg_c3_l">Travel Wallets</a>
+            <a href="/category/travel-accessories/insulated-bags/dept/luggage" data-pl="fly_lg_c3_l">Travel Coolers</a>
+        </div>
+        <div class="flyCol boxSizing">
+            <h2 class="flyNoHover">Size</h2>
+            <a href="/category/luggage/dept/luggage/f/carry-on" data-pl="fly_lg_c4_l">Domestic Carry-On</a>
+            <a href="/category/luggage/dept/luggage/z/international-carry-on" data-pl="fly_lg_c4_l">International Carry-On</a>
+            <a href="/category/luggage/dept/luggage/z/checked-medium" data-pl="fly_lg_c4_l">Checked Medium</a>
+            <a href="/category/luggage/dept/luggage/z/checked-large" data-pl="fly_lg_c4_l">Checked Large</a>
+            <a href="/category/luggage/dept/luggage/z/checked-extra-large" data-pl="fly_lg_c4_l">Checked Extra Large</a>
+        </div>
+        <div class="flyDeptLogos">
+            <div class="flyDeptLogoBox">
+                <a href="/brand/ebags" data-pl="fly_lg_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_222.gif" border="0"></a>
+            </div>
+            <div class="flyDeptLogoBox">
+                <a href="/brand/tumi" data-pl="fly_lg_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_223.gif" border="0"></a>
+            </div>
+            <div class="flyDeptLogoBox">
+                <a href="/brand/victorinox" data-pl="fly_lg_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_560.gif" border="0"></a>
+            </div>
+            <div class="flyDeptLogoBox">
+                <a href="/brand/samsonite" data-pl="fly_lg_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_2.gif" border="0"></a>
+            </div>
+            <div class="flyDeptLogoBox">
+                <a href="/brand/briggs-and-riley" data-pl="fly_lg_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_4.gif" border="0"></a>
+            </div>
+        </div>
+        <div class="flyCol flyLeftCol boxSizing" style="clear:both;">
+            <div class="shopSaleItems boxSizing showOnMobile visible-xxs">
+                <a href="/category/luggage/dept/luggage/h/sale" data-pl="fly_lg_c5_l">Shop Luggage Sale</a>
+            </div>
+        </div>
+        <div class="flyClose"></div>
+    </div>
+    <div class="flyBottomRow">
+        
     </div>
 </div>
+
+<div class="for-deptHandbags boxSizing flyawayNav navSlider">
+    <div class="flyTopRow clearfix">
+        <div class="flyCol flyLeftCol boxSizing">
+            <a href="/department/handbags" data-pl="fly_hb_c1_l" class="flyDeptButton">Handbags Department</a>
+            <div class="flySpotlight boxSizing">
+                <h2><em>Featured</em></h2>
+                <a href="/category/handbags/dept/handbags/de/designer" data-pl="fly_hb_c1_l">Designer Handbags</a>
+                <a href="/category/handbags/dept/handbags/m/leather?sort=RecentlyMarkedDown" data-pl="fly_hb_c1_l">Summer Leather Sale</a>
+                <a href="/category/handbags/dept/handbags/m/fabric" data-pl="fly_hb_c1_l">Fabric Handbags</a>
+                <a href="/category/handbags/dept/handbags/m/leather" data-pl="fly_hb_c1_l">Leather Handbags</a>
+                <a href="/search/dept/handbags" data-pl="fly_hb_c1_l"><strong>Shop All Handbags</strong></a>
+            </div>
+            <div class="shopSaleItems boxSizing hideOnMobile">
+                <a href="/search/dept/handbags/h/sale" data-pl="fly_hb_c1_l">Shop Handbag Sale</a>
+            </div>
+        </div>
+        <div class="flyCol boxSizing">
+            <h2><a href="/category/handbags/dept/handbags" data-pl="fly_hb_c2_l">Handbag Types <div class="rightArrow"></div></a></h2>
+            <a href="/category/handbags/cross-body-bags/dept/handbags" data-pl="fly_hb_c2_l">Crossbody Bags</a>
+            <a href="/category/diaper-bags" data-pl="fly_hb_c2_l">Diaper Bags</a>
+            <a href="/category/handbags/hobos/dept/handbags" data-pl="fly_hb_c2_l">Hobos</a>
+            <a href="/category/handbags/satchels/dept/handbags?sort=BestSeller" data-pl="fly_hb_c2_l">Satchels</a>
+            <a href="/category/totes/handbag-totes/dept/handbags" data-pl="fly_hb_c2_l">Totes</a>
+        </div>
+        <div class="flyCol boxSizing">
+            <h2 class="flyNoHover">Shop by Color</h2>
+            <a href="/search/dept/handbags/c/black" data-pl="fly_hb_c3_l">Black</a>
+            <a href="/search/dept/handbags/c/red" data-pl="fly_hb_c3_l">Red</a>
+            <a href="/search/dept/handbags/c/yellow" data-pl="fly_hb_c3_l">Yellow</a>
+            <a href="/search/dept/handbags/c/brown" data-pl="fly_hb_c3_l">Brown</a>
+            <a href="/search/dept/handbags/c/green" data-pl="fly_hb_c3_l">Green</a>
+        </div>
+        <div class="flyCol boxSizing">
+            <h2><a href="/category/handbags?sort=PriceLowToHigh" data-pl="fly_hb_c4_l">Shop by Price <div class="rightArrow"></div></a></h2>
+            <a href="/search/dept/handbags/p/30-minus" data-pl="fly_hb_c4_l">$30 and Under</a>
+            <a href="/search/dept/handbags/p/30-to-50" data-pl="fly_hb_c4_l">$30 - $50</a>
+            <a href="/search/dept/handbags/p/50-to-70~70-to-100" data-pl="fly_hb_c4_l">$50 - $100</a>
+            <a href="/search/dept/handbags/p/100-to-150" data-pl="fly_hb_c4_l">$100 - $150</a>
+            <a href="/search/dept/handbags/p/150-to-200~200-plus" data-pl="fly_hb_c4_l">$150+</a>
+        </div>
+        <div class="flyDeptLogos">
+            <div class="flyDeptLogoBox">
+                <a href="/category/handbags/dept/handbags/b/michael-michael-kors" data-pl="fly_hb_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_10180.gif" border="0"></a>
+            </div>
+            <div class="flyDeptLogoBox">
+                <a href="/brand/vera-bradley" data-pl="fly_hb_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_10548.gif" border="0"></a>
+            </div>
+            <div class="flyDeptLogoBox">
+                <a href="/brand/kate-spade" data-pl="fly_hb_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_582.gif" border="0"></a>
+            </div>
+            <div class="flyDeptLogoBox">
+                <a href="/brand/baggallini" data-pl="fly_hb_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_376.gif" border="0"></a>
+            </div>
+            <div class="flyDeptLogoBox">
+                <a href="/category/handbags/b/fossil" data-pl="fly_hb_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_10656.gif" border="0"></a>
+            </div>
+        </div>
+        <div class="flyCol flyLeftCol boxSizing" style="clear:both;">
+            <div class="shopSaleItems boxSizing showOnMobile visible-xxs">
+                <a href="/search/dept/handbags/h/sale" data-pl="fly_hb_c5_l">Shop Handbag Sale</a>
+            </div>
+        </div>
+        <div class="flyClose"></div>
+    </div>
+    <div class="flyBottomRow">
+        
+    </div>
+</div>
+
+<div class="for-deptAccessories boxSizing flyawayNav navSlider">
+    <div class="flyTopRow clearfix">
+        <div class="flyCol flyLeftCol boxSizing">
+            <a href="/department/accessories" data-pl="fly_ac_c1_l" class="flyDeptButton">Accessories Department</a>
+            <div class="flySpotlight boxSizing">
+                <h2><em>Featured</em></h2>
+                <a href="/search/dept/accessories/h/best-of-the-best" data-pl="fly_ac_c1_l">Best of the Best</a>
+                <a href="/category/wallets/dept/accessories/h/sale" data-pl="fly_ac_c1_l">Wallet Sale</a>
+                <a href="/search/dept/accessories/g/womens" data-pl="fly_ac_c1_l">Women's Accessories</a>
+                <a href="/search/dept/accessories/g/mens" data-pl="fly_ac_c1_l">Men's Accessories</a>
+                <a href="/search/dept/accessories" data-pl="fly_ac_c1_l"><strong>Shop All Accessories</strong></a>
+            </div>
+            <div class="shopSaleItems boxSizing hideOnMobile">
+                <a href="/search/dept/accessories/h/sale" data-pl="fly_ac_c1_l">Shop Accessories Sale</a>
+            </div>
+        </div>
+        <div class="flyCol boxSizing">
+            <h2><a href="/category/wallets-and-accessories/dept/accessories" data-pl="fly_ac_c2_l">Fashion Accessories <div class="rightArrow"></div></a></h2>
+            <a href="/category/purse-accessories/cosmetic-bags/dept/accessories" data-pl="fly_ac_c2_l">Cosmetic Bags</a>
+            <a href="/category/hats/dept/accessories" data-pl="fly_ac_c2_l">Hats</a>
+            <a href="/category/eyewear/sunglasses/dept/accessories" data-pl="fly_ac_c2_l">Sunglasses</a>
+            <a href="/category/wallets/dept/accessories" data-pl="fly_ac_c2_l">Wallets</a>
+            <a href="/category/watches/dept/accessories" data-pl="fly_ac_c2_l">Watches</a>
+        </div>
+        <div class="flyCol boxSizing">
+            <h2><a href="/category/travel-accessories/dept/accessories" data-pl="fly_ac_c3_l">Travel Accessories <div class="rightArrow"></div></a></h2>
+            <a href="/category/travel-accessories/insulated-bags/lunch-bags/dept/accessories" data-pl="fly_ac_c3_l">Lunch Bags</a>
+            <a href="/category/travel-accessories/packing-aids/packing-cubes/dept/accessories" data-pl="fly_ac_c3_l">Packing Cubes</a>
+            <a href="/category/travel-accessories/toiletry-kits/dept/accessories" data-pl="fly_ac_c3_l">Toiletry Kits</a>
+            <a href="/category/travel-accessories/travel-wallets/dept/accessories" data-pl="fly_ac_c3_l">Travel Wallets</a>
+            <a href="/category/travel-accessories/umbrellas/dept/accessories" data-pl="fly_ac_c3_l">Umbrellas</a>
+        </div>
+        <div class="flyCol boxSizing">
+            <h2><a href="/category/electronics-cases/dept/accessories" data-pl="fly_ac_c4_l">Tech Accessories <div class="rightArrow"></div></a></h2>
+            <a href="/category/electronics-cases/camera-bags-and-cases/dept/accessories" data-pl="fly_ac_c4_l">Camera Cases</a>
+            <a href="/category/electronics-cases/ipad-and-tablet-cases/dept/accessories" data-pl="fly_ac_c4_l">iPad &amp; Tablet Cases</a>
+            <a href="/category/electronics-cases/kindle-and-ereader-cases/dept/accessories" data-pl="fly_ac_c4_l">Kindle &amp; eReader Cases</a>
+            <a href="/category/electronics-cases/phone-cases/dept/accessories" data-pl="fly_ac_c4_l">Phone Cases</a>
+            <a href="/category/electronics-cases/portable-batteries-and-chargers/dept/accessories" data-pl="fly_ac_c4_l">Batteries &amp; Chargers</a>
+        </div>
+        <div class="flyDeptLogos">
+            <div class="flyDeptLogoBox">
+                <a href="/category/travel-accessories/dept/accessories/b/ebags" data-pl="fly_ac_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_222.gif" border="0"></a>
+            </div>
+            <div class="flyDeptLogoBox">
+                <a href="/brand/tumi/dept/accessories" data-pl="fly_ac_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_223.gif" border="0"></a>
+            </div>
+            <div class="flyDeptLogoBox">
+                <a href="/brand/pacsafe/dept/accessories" data-pl="fly_ac_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_154.gif" border="0"></a>
+            </div>
+            <div class="flyDeptLogoBox">
+                <a href="/brand/fossil/dept/accessories" data-pl="fly_ac_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_10656.gif" border="0"></a>
+            </div>
+            <div class="flyDeptLogoBox">
+                <a href="/brand/roocase" data-pl="fly_ac_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_11301.gif" border="0"></a>
+            </div>
+        </div>
+        <div class="flyCol flyLeftCol boxSizing" style="clear:both;">
+            <div class="shopSaleItems boxSizing showOnMobile visible-xxs">
+                <a href="/search/dept/accessories/h/sale" data-pl="fly_ac_c5_l">Shop Accessories Sale</a>
+            </div>
+        </div>
+        <div class="flyClose"></div>
+    </div>
+    <div class="flyBottomRow">
+        
+    </div>
+</div>
+
+<div class="for-deptBusiness boxSizing flyawayNav navSlider">
+    <div class="flyTopRow clearfix">
+        <div class="flyCol flyLeftCol boxSizing">
+            <a href="/department/business" data-pl="fly_bs_c1_l" class="flyDeptButton">Business Department</a>
+            <div class="flySpotlight boxSizing">
+                <h2><em>Featured</em></h2>               
+                <a href="/search/dept/business/g/mens" data-pl="fly_bs_c1_l">Men's</a>
+                <a href="/search/dept/business/g/womens" data-pl="fly_bs_c1_l">Women's</a>
+                <a href="/category/electronics-cases/ipad-and-tablet-cases/dept/accessories" data-pl="fly_bs_c1_l">iPad &amp; Tablet Cases</a>
+                <a href="/category/business-cases/laptop-bags/dept/business/h/sale" data-pl="fly_bs_c1_l">Laptop Bag Sale</a>
+                <a href="/search/dept/business" data-pl="fly_bs_c1_l"><strong>Shop All Business</strong></a>
+            </div>
+            <div class="shopSaleItems boxSizing hideOnMobile">
+                <a href="/search/dept/business/h/sale" data-pl="fly_bs_c1_l">Shop Business Sale</a>
+            </div>
+        </div>
+        <div class="flyCol boxSizing">
+            <h2><a href="/category/business-cases/laptop-bags/dept/business" data-pl="fly_bs_c2_l">Laptop Bags <div class="rightArrow"></div></a></h2>
+            <a href="/category/backpacks/laptop-backpacks/dept/business/u/business" data-pl="fly_bs_c2_l">Laptop Backpacks</a>
+            <a href="/category/totes/laptop-totes/dept/business" data-pl="fly_bs_c2_l">Laptop Totes</a>
+            <a href="/category/business-cases/laptop-bags/laptop-sleeves/dept/business" data-pl="fly_bs_c2_l">Laptop Sleeves</a>
+            <a href="/category/business-cases/laptop-bags/dept/business/m/leather" data-pl="fly_bs_c2_l">Leather Laptop Bags</a>
+            <a href="/category/business-cases/laptop-bags/dept/business/f/rolling" data-pl="fly_bs_c2_l">Rolling Laptop Bags</a>
+        </div>
+        <div class="flyCol boxSizing">
+            <h2><a href="/category/messenger-and-shoulder-bags/messenger-bags/dept/business" data-pl="fly_bs_c3_l">Messenger Bags <div class="rightArrow"></div></a></h2>
+            <a href="/category/messenger-and-shoulder-bags/messenger-bags/dept/business/m/leather" data-pl="fly_bs_c3_l">Leather Messenger Bags</a>
+            <a href="/category/messenger-and-shoulder-bags/messenger-bags/dept/business/m/canvas" data-pl="fly_bs_c3_l">Canvas Messenger Bags</a>
+            <a href="/category/messenger-and-shoulder-bags/shoulder-bags/dept/business" data-pl="fly_bs_c3_l">Shoulder Bags</a>
+            <a href="/category/messenger-and-shoulder-bags/laptop-messenger-bags/dept/business" data-pl="fly_bs_c3_l">Laptop Messenger Bags</a>
+            <a href="/category/messenger-and-shoulder-bags/messenger-bags/dept/business/g/mens" data-pl="fly_bs_c3_l">Men's Messenger Bags</a>
+        </div>
+        <div class="flyCol boxSizing">
+            <h2 class="flyNoHover">Shop by Price</h2>
+            <a href="/search/dept/business/p/30-minus" data-pl="fly_bs_c4_l">$30 and Under</a>
+            <a href="/search/dept/business/p/30-to-50" data-pl="fly_bs_c4_l">$30 - $50</a>
+            <a href="/search/dept/business/p/50-to-70~70-to-100" data-pl="fly_bs_c4_l">$50 - $100</a>
+            <a href="/search/dept/business/p/100-to-150" data-pl="fly_bs_c4_l">$100 - $150</a>
+            <a href="/search/dept/business/p/150-to-200~200-plus" data-pl="fly_bs_c4_l">$150+</a>
+        </div>
+        <div class="flyDeptLogos">
+            <div class="flyDeptLogoBox">
+                <a href="/brand/kenneth-cole-reaction-business-and-luggage" data-pl="fly_bs_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_651.gif" border="0"></a>
+            </div>
+            <div class="flyDeptLogoBox">
+                <a href="/brand/tumi/dept/business" data-pl="fly_bs_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_223.gif" border="0"></a>
+            </div>
+            <div class="flyDeptLogoBox">
+                <a href="/brand/ebags/dept/business" data-pl="fly_bs_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_222.gif" border="0"></a>
+            </div>
+            <div class="flyDeptLogoBox">
+                <a href="/brand/timbuk2" data-pl="fly_bs_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_72.gif" border="0"></a>
+            </div>
+            <div class="flyDeptLogoBox">
+                <a href="/brand/piel" data-pl="fly_bs_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_79.gif" border="0"></a>
+            </div>
+        </div>
+        <div class="flyCol flyLeftCol boxSizing" style="clear:both;">
+            <div class="shopSaleItems boxSizing showOnMobile visible-xxs">
+                <a href="/search/dept/business/h/sale" data-pl="fly_bs_c5_l">Shop Business Sale</a>
+            </div>
+        </div>
+        <div class="flyClose"></div>
+    </div>
+    <div class="flyBottomRow">
+        
+    </div>
+</div>
+
+<div class="for-deptBackpacks boxSizing flyawayNav navSlider">
+    <div class="flyTopRow clearfix">
+        <div class="flyCol flyLeftCol boxSizing">
+            <a href="/department/backpacks" data-pl="fly_bp_c1_l" class="flyDeptButton">Backpacks Department</a>
+            <div class="flySpotlight boxSizing">
+                <h2><em>Featured</em></h2>
+                <a href="/category/backpacks/dept/backpacks/h/best-of-the-best" data-pl="fly_bp_c1_l">Best of the Best</a>
+                <a href="/category/backpacks/dept/backpacks/f/rolling" data-pl="fly_bp_c1_l">Rolling Backpacks</a>
+                <a href="/category/waistpacks/dept/backpacks" data-pl="fly_bp_c1_l">Waist Packs</a>
+                <a href="/category/messenger-and-shoulder-bags/slings/dept/backpacks" data-pl="fly_bp_c1_l">Slings</a>
+                <a href="/search/dept/backpacks" data-pl="fly_bp_c1_l"><strong>Shop All Backpacks</strong></a>
+            </div>
+            <div class="shopSaleItems boxSizing hideOnMobile">
+                <a href="/search/dept/backpacks/h/sale" data-pl="fly_bp_c1_l">Shop Backpacks Sale</a>
+            </div>
+        </div>
+        <div class="flyCol boxSizing">
+            <h2><a href="/category/backpacks/dept/backpacks" data-pl="fly_bp_c2_l">Backpacks <div class="rightArrow"></div></a></h2>
+            <a href="/category/backpacks/dept/backpacks/u/school" data-pl="fly_bp_c2_l">School Backpacks</a>
+            <a href="/category/backpacks/dept/backpacks/u/day-hiking" data-pl="fly_bp_c2_l">Day Hiking Backpacks</a>
+            <a href="/category/backpacks/laptop-backpacks/dept/backpacks" data-pl="fly_bp_c2_l">Laptop Backpacks</a>
+            <a href="/category/backpacks/travel-backpacks/dept/backpacks" data-pl="fly_bp_c2_l">Travel Backpacks</a>
+            <a href="/category/backpacks/dept/backpacks/u/backpacking" data-pl="fly_bp_c2_l">Backpacking Packs</a>
+        </div>
+        <div class="flyCol boxSizing">
+            <h2><a href="/category/backpacks/dept/backpacks" data-pl="fly_bp_c3_l">Gender and Age <div class="rightArrow"></div></a></h2>
+            <a href="/search/dept/backpacks/g/womens" data-pl="fly_bp_c3_l">Women's</a>
+            <a href="/search/dept/backpacks/g/mens" data-pl="fly_bp_c3_l">Men's</a>
+            <a href="/search/dept/backpacks/g/girls" data-pl="fly_bp_c3_l">Girls'</a>
+            <a href="/search/dept/backpacks/g/boys" data-pl="fly_bp_c3_l">Boys'</a>
+            <a href="/search/dept/backpacks/g/kids" data-pl="fly_bp_c3_l">Kids'</a>
+        </div>
+        <div class="flyCol boxSizing">
+            <h2><a href="/search/dept/backpacks/u/school" data-pl="fly_bp_c4_l">School Age <div class="rightArrow"></div></a></h2>
+            <a href="/search/sc/toddler-and-preschool" data-pl="fly_bp_c4_l">Toddler and Pre-School</a>
+            <a href="/search/sc/elementary-school" data-pl="fly_bp_c4_l">Elementary School</a>
+            <a href="/search/sc/middle-school" data-pl="fly_bp_c4_l">Middle School</a>
+            <a href="/search/sc/high-school" data-pl="fly_bp_c4_l">High School</a>
+            <a href="/search/u/college" data-pl="fly_bp_c4_l">College</a>
+        </div>
+        <div class="flyDeptLogos">
+            <div class="flyDeptLogoBox">
+                <a href="/brand/jansport" data-pl="fly_bp_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_1.gif" border="0"></a>
+            </div>
+            <div class="flyDeptLogoBox">
+                <a href="/brand/the-north-face" data-pl="fly_bp_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_36.gif" border="0"></a>
+            </div>
+            <div class="flyDeptLogoBox">
+                <a href="/brand/high-sierra" data-pl="fly_bp_lgs_l"> <img src="//cdn2.ebags.com/img/logos/logo_11.gif" border="0"></a>
+            </div>
+            <div class="flyDeptLogoBox">
+                <a href="/category/backpacks/b/ebags" data-pl="fly_bp_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_222.gif" border="0"></a>
+            </div>
+            <div class="flyDeptLogoBox">
+                <a href="/brand/dakine" data-pl="fly_bp_lgs_l"> <img src="//cdn2.ebags.com/img/logos/logo_444.gif" border="0"></a>
+            </div>
+        </div>
+        <div class="flyCol flyLeftCol boxSizing" style="clear:both;">
+            <div class="shopSaleItems boxSizing showOnMobile visible-xxs">
+                <a href="/search/dept/backpacks/h/sale" data-pl="fly_bp_c5_l">Shop Backpacks Sale</a>
+            </div>
+        </div>
+        <div class="flyClose"></div>
+    </div>
+    <div class="flyBottomRow">
+        
+    </div>
+</div>
+
+<div class="for-deptSports boxSizing flyawayNav navSlider">
+    <div class="flyTopRow clearfix">
+        <div class="flyCol flyLeftCol boxSizing">
+            <a href="/department/sports" data-pl="fly_sp_c1_l" class="flyDeptButton">Sports Department</a>
+            <div class="flySpotlight boxSizing">
+                <h2><em>Featured</em></h2>
+                <a href="/search/dept/sports/h/best-of-the-best" data-pl="fly_sp_c1_l">Best of the Best</a>
+                <a href="/search/dept/sports/b/high-sierra?sort=BestSeller" data-pl="fly_sp_c1_l">Top Brand: High Sierra</a>
+                <a href="/category/sport-bags/snow-sports/dept/sports/h/sale" data-pl="fly_sp_c1_l">Snow Sports Sale</a>                        
+                <a href="/search/dept/sports" data-pl="fly_sp_c1_l"><strong>Shop All Sports &amp; Outdoor</strong></a>
+            </div>
+            <div class="shopSaleItems boxSizing hideOnMobile">
+                <a href="/search/dept/sports/h/sale" data-pl="fly_sp_c1_l">Shop Sports Sale</a>
+            </div>
+        </div>
+        <div class="flyCol boxSizing">
+            <h2><a href="/search/dept/sports" data-pl="fly_sp_c2_l">Sports Activity <div class="rightArrow"></div></a></h2>
+            <a href="/search/dept/sports/u/gym-and-fitness" data-pl="fly_sp_c2_l">Gym &amp; Fitness</a>
+            <a href="/search/dept/sports/u/yoga-and-studio" data-pl="fly_sp_c2_l">Yoga &amp; Studio</a>
+            <a href="/category/sport-bags/sport-specific-bags/dept/sports" data-pl="fly_sp_c2_l">Team &amp; Individual Sports</a>
+            <a href="/category/outdoor-accessories/dept/sports" data-pl="fly_sp_c2_l">Outdoor Recreation</a>
+            <a href="/category/sport-bags/golf-bags/dept/sports" data-pl="fly_sp_c2_l">Golf</a>
+        </div>
+        <div class="flyCol boxSizing">
+            <h2 class="flyNoHover">Gender and Age</h2>
+            <a href="/search/dept/sports/g/womens" data-pl="fly_sp_c3_l">Women's</a>
+            <a href="/search/dept/sports/g/mens" data-pl="fly_sp_c3_l">Men's</a>
+            <a href="/search/dept/sports/g/girls" data-pl="fly_sp_c3_l">Girls'</a>
+            <a href="/search/dept/sports/g/boys" data-pl="fly_sp_c3_l">Boys'</a>
+            <a href="/search/dept/sports/g/kids" data-pl="fly_sp_c3_l">Kids'</a>
+        </div>
+        <div class="flyCol boxSizing">
+            <h2 class="flyNoHover">Bag Type</h2>
+            <a href="/category/sport-bags/sports-and-outdoor-duffels" data-pl="fly_sp_c4_l">Sports &amp; Outdoor Duffels</a>
+            <a href="/category/sport-bags/fitness-totes/dept/sports" data-pl="fly_sp_c4_l">Fitness Totes</a>
+            <a href="/search/dept/sports/u/tactical" data-pl="fly_sp_c4_l">Tactical</a>
+            <a href="/category/hydration/dept/sports" data-pl="fly_sp_c4_l">Hydration</a>
+            <a href="/search/dept/sports/u/hunting" data-pl="fly_sp_c4_l">Hunting</a>
+        </div>
+        <div class="flyDeptLogos">
+            <div class="flyDeptLogoBox">
+                <a href="/brand/nike/dept/sports" data-pl="fly_sp_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_579.gif" border="0"></a>
+            </div>
+            <div class="flyDeptLogoBox">
+                <a href="/brand/the-north-face" data-pl="fly_sp_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_36.gif" border="0"></a>
+            </div>
+            <div class="flyDeptLogoBox">
+                <a href="/brand/ogio/dept/sports" data-pl="fly_sp_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_20.gif" border="0"></a>
+            </div>
+            <div class="flyDeptLogoBox">
+                <a href="/brand/ful" data-pl="fly_sp_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_10097.gif" border="0"></a>
+            </div>
+            <div class="flyDeptLogoBox">
+                <a href="/brand/adidas/dept/sports" data-pl="fly_sp_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_415.gif" border="0"></a>
+            </div>
+        </div>
+        <div class="flyCol flyLeftCol boxSizing" style="clear:both;">
+            <div class="shopSaleItems boxSizing showOnMobile visible-xxs">
+                <a href="/search/dept/sports/h/sale" data-pl="fly_sp_c5_l">Shop Sports Sale</a>
+            </div>
+        </div>
+        <div class="flyClose"></div>
+    </div>
+    <div class="flyBottomRow">
+        
+    </div>
+</div>
+
+<div class="for-deptPLP boxSizing flyawayNav navSlider">
+    <div class="flyTopRow clearfix">
+        <div class="flyCol flyLeftCol boxSizing">
+            <a href="/department/the-ebags-brand" data-pl="fly_plp_c1_l" class="flyDeptButton">eBags Brand</a>
+            <div class="flySpotlight boxSizing">
+                <h2><em>Featured</em></h2>
+                <a href="/search/b/ebags/h/best-of-the-best" data-pl="fly_plp_c1_l">Best of the Best</a>
+                <a href="/search/b/ebags/g/mens" data-pl="fly_plp_c1_l">Men's</a>
+                <a href="/search/b/ebags/g/womens" data-pl="fly_plp_c1_l">Women's</a>
+                <a href="/category/travel-accessories/insulated-bags/b/ebags" data-pl="fly_plp_c1_l">Lunch Coolers</a>
+                <a href="/brand/ebags" data-pl="fly_plp_c1_l"><strong>Shop All eBags Brand</strong></a>
+            </div>
+            <div class="shopSaleItems boxSizing hideOnMobile">
+                <a href="/search/b/ebags/h/sale" data-pl="fly_plp_c1_l">Shop eBags Brand Sale</a>
+            </div>
+        </div>
+        <div class="flyCol boxSizing">
+            <h2><a href="/brand/ebags" data-pl="fly_plp_c2_l">Categories <div class="rightArrow"></div></a></h2>
+            <a href="/category/luggage/b/ebags" data-pl="fly_plp_c2_l">Luggage</a>
+            <a href="/category/backpacks/b/ebags" data-pl="fly_plp_c2_l">Backpacks</a>
+            <a href="/category/business-cases/b/ebags" data-pl="fly_plp_c2_l">Business &amp; Laptop Cases</a>
+            <a href="/category/travel-accessories/packing-aids/packing-cubes/b/ebags" data-pl="fly_plp_c2_l">Packing Cubes</a>
+            <a href="/category/travel-accessories/b/ebags" data-pl="fly_plp_c2_l">Travel Accessories</a>
+        </div>
+        <div class="flyCol boxSizing">
+            <h2><a href="/brand/ebags" data-pl="fly_plp_c3_l">Collections <div class="rightArrow"></div></a></h2>
+            <a href="/search/b/ebags/bc/tls" data-pl="fly_plp_c3_l">TLS Luggage</a>
+            <a href="/search/b/ebags/bc/etech-20" data-pl="fly_plp_c3_l">eTech 2.0 Luggage</a>
+            <a href="/search/b/ebags/bc/exo-20-hardside" data-pl="fly_plp_c3_l">EXO 2.0 Hardside Luggage</a>
+            <a href="/search/b/ebags/bc/kalya" data-pl="fly_plp_c3_l">Kalya Handbags</a>
+            <a href="/search/b/ebags/bc/ebags-laptop" data-pl="fly_plp_c3_l">Laptop Collection</a>
+        </div>
+        <div class="flyCol boxSizing">
+            <h2><a href="/brand/ebags" data-pl="fly_plp_c4_l">Shop by Color <div class="rightArrow"></div></a></h2>
+            <a href="/search/c/black/b/ebags" data-pl="fly_plp_c4_l">Black</a>
+            <a href="/search/c/blue/b/ebags" data-pl="fly_plp_c4_l">Blue</a>
+            <a href="/search/c/green/b/ebags" data-pl="fly_plp_c4_l">Green</a>
+            <a href="/search/c/red/b/ebags" data-pl="fly_plp_c4_l">Red</a>
+            <a href="/search/c/purple/b/ebags" data-pl="fly_plp_c4_l">Purple</a>
+        </div>
+        <div class="flyDeptLogos">
+            <a href="/the-ebags-brand/learnmore/tls" data-pl="fly_plp_lgs_l"><img src="//cdn2.ebags.com/img/Content/ebags/images/siteImages/banners/20130715_PLP-Flyaway-Banner_01.jpg" border="0" style="float:left; max-width:340px; width:39.766%; height:auto;"></a>
+            <a href="/the-ebags-brand/learnmore/etech2" data-pl="fly_plp_lgs_l"><img src="//cdn2.ebags.com/img/Content/ebags/images/siteImages/banners/20130715_PLP-Flyaway-Banner_02.jpg" border="0" style="float:left; max-width:184px; width:21.52%; height:auto;"></a>
+            <a href="/the-ebags-brand/learnmore/packing_cubes" data-pl="fly_plp_lgs_l"><img src="//cdn2.ebags.com/img/Content/ebags/images/siteImages/banners/20130715_PLP-Flyaway-Banner_03.jpg" border="0" style="float:left; max-width:331px; width:38.713%; height:auto;"></a>
+        </div>
+        <div class="flyCol flyLeftCol boxSizing" style="clear:both;">
+            <div class="shopSaleItems boxSizing showOnMobile visible-xxs">
+                <a href="/search/b/ebags/h/sale" data-pl="fly_plp_c5_l">Shop eBags Brand Sale</a>
+            </div>
+        </div>
+        <div class="flyClose"></div>
+    </div>
+    <div class="flyBottomRow">
+        
+    </div>
+</div>
+
+<div class="for-deptSale boxSizing flyawayNav navSlider">
+    <div class="flyTopRow clearfix">
+        <div class="flyCol flyLeftCol boxSizing">
+            <a href="/department/sale" data-pl="fly_sl_c1_l" class="flyDeptButton">Sale Department</a>
+            <div class="flySpotlight boxSizing">
+                <h2><em>Featured</em></h2>
+                <a href="/site/activepromotions" data-pl="fly_sl_c1_l">Active Promotions</a>
+                <a href="/search/h/sale/de/designer" data-pl="fly_sl_c1_l">Designer Sale</a>
+                <a href="/search/h/sale~steals-of-the-day" data-pl="fly_sl_c1_l">Steals of the Day</a>
+                <a href="/search/h/sale?sort=RecentlyMarkedDown" data-pl="fly_sl_c1_l">Recently Marked Down</a>
+                <a href="/search/h/final-sale" data-pl="fly_sl_c1_l">Final Sale</a>
+                <a href="/search/h/sale" data-pl="fly_sl_c1_l" class="saleRed"><strong>Shop All Sale</strong></a>
+            </div>
+        </div>
+        <div class="flyCol boxSizing">
+            <h2><a href="/department/sale" data-pl="fly_sl_c2_l">Departments <div class="rightArrow"></div></a></h2>
+            <a href="/search/dept/luggage/h/sale" data-pl="fly_sl_c2_l">Luggage</a>
+            <a href="/search/dept/handbags/h/sale" data-pl="fly_sl_c2_l">Handbags</a>
+            <a href="/search/dept/accessories/h/sale" data-pl="fly_sl_c2_l">Accessories</a>
+            <a href="/search/dept/business/h/sale" data-pl="fly_sl_c2_l">Business</a>
+            <a href="/search/dept/backpacks/h/sale" data-pl="fly_sl_c2_l">Backpacks</a>
+        </div>
+        <div class="flyCol boxSizing">
+            <h2><a href="/department/sale" data-pl="fly_sl_c2_l">Price <div class="rightArrow"></div></a></h2>
+            <a href="/search/p/30-minus/h/sale" data-pl="fly_sl_c3_l">$30 and Under</a>
+            <a href="/search/p/30-to-50/h/sale" data-pl="fly_sl_c3_l">$30 - $50</a>
+            <a href="/search/p/50-to-70~70-to-100/h/sale" data-pl="fly_sl_c3_l">$50 - $100</a>
+            <a href="/search/p/100-to-150/h/sale" data-pl="fly_sl_c3_l">$100 - $150</a>
+            <a href="/search/p/150-to-200~200-plus/h/sale" data-pl="fly_sl_c3_l">$150 +</a>
+        </div>
+        <div class="flyDeptLogos">
+            <div class="flyDeptLogoBox">
+                <a href="/brand/samsonite/h/sale" data-pl="fly_sl_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_2.gif" border="0"></a>
+            </div>
+            <div class="flyDeptLogoBox">
+                <a href="/search/b/fossil/h/sale" data-pl="fly_sl_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_10656.gif" border="0"></a>
+            </div>
+            <div class="flyDeptLogoBox">
+                <a href="/search/b/baggallini/h/sale" data-pl="fly_sl_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_376.gif" border="0"></a>
+            </div>
+            <div class="flyDeptLogoBox">
+                <a href="/brand/jansport/h/sale" data-pl="fly_sl_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_1.gif" border="0"></a>
+            </div>
+            <div class="flyDeptLogoBox">
+                <a href="/brand/kate-spade/h/sale?sort=BestSeller" data-pl="fly_sl_lgs_l"><img src="//cdn2.ebags.com/img/logos/logo_582.gif" border="0"></a>
+            </div>
+        </div>
+        <div class="flyClose"></div>
+    </div>
+</div>
+
+<div class="for-deptAll boxSizing flyawayNav navSlider">
+    <div class="flyTopRow clearfix">
+        <div class="flyCol boxSizing">
+            <h2><a href="/department/luggage" data-pl="fly_sd_bl2_l" class="allDeptLinks">Luggage <div class="rightArrow showAboveTablet hidden-xs"></div></a></h2>
+                <a href="/category/luggage/f/carry-on" data-pl="fly_sd_bl2_l">Carry-On Luggage</a>
+                <a href="/category/luggage/f/checked" data-pl="fly_sd_bl2_l">Checked Luggage</a>
+                <a href="/category/luggage/f/hardside" data-pl="fly_sd_bl2_l">Hardside Luggage</a>
+                <span class="showAboveTablet hidden-xs"></span>
+            <h2><a href="/department/handbags" data-pl="fly_sd_bl3_l" class="allDeptLinks">Handbags <div class="rightArrow showAboveTablet hidden-xs"></div></a></h2>
+                <a href="/category/handbags/m/leather" data-pl="fly_sd_bl3_l">Leather Handbags</a>
+                <a href="/category/handbags/cross-body-bags" data-pl="fly_sd_bl3_l">Crossbody Bags</a>
+                <a href="/category/handbags/dept/handbags/de/designer?items=48" data-pl="fly_sd_bl3_l">Designer Handbags</a>
+                <span class="showAboveTablet hidden-xs"></span>
+        </div>
+        <div class="flyCol boxSizing">
+            <h2><a href="/department/the-ebags-brand" data-pl="fly_sd_bl4_l" class="allDeptLinks">eBags Brand <div class="rightArrow showAboveTablet hidden-xs"></div></a></h2>
+                <a href="/category/luggage/b/ebags" data-pl="fly_sd_bl4_l">Luggage</a>
+                <a href="/category/travel-accessories/b/ebags" data-pl="fly_sd_bl4_l">Travel Accessories</a>
+                <a href="/category/business-cases/b/ebags" data-pl="fly_sd_bl4_l">Business</a>
+                <span class="showAboveTablet hidden-xs"></span>
+            <h2><a href="/department/accessories" data-pl="fly_sd_bl5_l" class="allDeptLinks">Accessories <div class="rightArrow showAboveTablet hidden-xs"></div></a></h2>
+                <a href="/category/wallets-and-accessories" data-pl="fly_sd_bl5_l">Fashion Accessories</a>
+                <a href="/category/travel-accessories" data-pl="fly_sd_bl5_l">Travel Accessories</a>
+                <a href="/category/electronics-cases" data-pl="fly_sd_bl5_l">Tech Accessories</a>
+                <span class="showAboveTablet hidden-xs"></span>
+        </div>
+        <div class="flyCol boxSizing">
+            <h2><a href="/department/business" data-pl="fly_sd_bl6_l" class="allDeptLinks">Business <div class="rightArrow showAboveTablet hidden-xs"></div></a></h2>
+                <a href="/category/business-cases/laptop-bags" data-pl="fly_sd_bl6_l">Laptop Bags</a>
+                <a href="/category/messenger-and-shoulder-bags" data-pl="fly_sd_bl6_l">Messenger Bags</a>
+                <a href="/category/electronics-cases/dept/business" data-pl="fly_sd_bl6_l">iPad &amp; Tech Cases</a>
+                <span class="showAboveTablet hidden-xs"></span>
+            <h2><a href="/department/backpacks" data-pl="fly_sd_bl7_l" class="allDeptLinks">Backpacks <div class="rightArrow showAboveTablet hidden-xs"></div></a></h2>
+                <a href="/category/backpacks/laptop-backpacks" data-pl="fly_sd_bl7_l">Laptop Backpacks</a>
+                <a href="/category/backpacks/u/school" data-pl="fly_sd_bl7_l">School Backpacks</a>
+                <a href="/category/backpacks/u/day-hiking" data-pl="fly_sd_bl7_l">Day Hiking Backpacks</a>
+                <span class="showAboveTablet hidden-xs"></span>
+        </div>
+        <div class="flyCol boxSizing">
+            <h2><a href="/department/sports" data-pl="fly_sd_bl8_l" class="allDeptLinks">Sports <div class="rightArrow showAboveTablet hidden-xs"></div></a></h2>
+                <a href="/category/duffel-bags/all-purpose-duffel-bags" data-pl="fly_sd_bl8_l">Sports &amp; Outdoor Duffels</a>
+                <a href="/search/u/gym-and-fitness" data-pl="fly_sd_bl8_l">Gym &amp; Fitness</a>
+                <a href="/category/sport-bags/u/yoga-and-studio" data-pl="fly_sd_bl8_l">Yoga &amp; Studio</a>
+                <span class="showAboveTablet hidden-xs"></span>
+            <h2 class="saleRed"><a href="/department/sale" data-pl="fly_sd_bl9_l" class="allDeptLinks">Sale <div class="rightArrow showAboveTablet hidden-xs"></div></a></h2>
+                <a href="/category/luggage/h/sale" data-pl="fly_sd_bl9_l">Luggage</a>
+                <a href="/search/dept/handbags/h/sale" data-pl="fly_sd_bl9_l">Handbags</a>
+                <a href="/search/dept/backpacks/h/sale" data-pl="fly_sd_bl9_l">Backpacks </a>
+                <span class="showAboveTablet hidden-xs"></span>
+
+            <h2 class="showBelowDesktop hidden-lg"><a href="/brands" data-pl="fly_sd_bl10_l" class="allDeptLinks">Brands</a></h2>
+        </div>
+        <div class="flyClose"></div>
+    </div>
+    <div class="flyBottomRow">
+        
+    </div>
+</div>
+
 <script type="text/javascript">
     require(["get!core/headerNavInit", "get!core/screenInit", "get!core/slider", "get!core/flyawayInit", "get!core/headerNavFlyaway", "get!core/headerNavFlyawayTouch"],
         function (headerNavInit, screenInit, slider, flyawayInit, headerNavFlyaway, headerNavFlyawayTouch) {
@@ -894,6 +909,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     );
 </script>
 
+    </div>
+</div>
+
+
 
 <script type="text/javascript">
     require(['views-site-header']);
@@ -904,10 +923,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         
             <div class="mainCon">
                 
-<div id="promoBarCon"><a href="http://www.ebags.com/search/sa/holiday-specials/h/sale">
-<img id="cpPromoBar" src="//cdn2.ebags.com/img/Content/ebags/images/siteImages/banners/20131210_75steals_pb_lp.gif" alt="Steals of the Season - Save up to 75% off top picks">
-<div class="cpPromoBarText"><h2>Steals of the Season - Save up to 75% off top picks</h2></div>
-</a></div>
+<div id="promoBarCon"></div>
     
 
                 
@@ -930,7 +946,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         
 		</li>
 		
-		<li><a href="/help/freereturns">Free Returns</a>
+		<li><a href="/help/freereturns">Returns</a>
         
 		</li>
         
@@ -1085,10 +1101,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div id="rdFooter" class="footerOuterCon">
     <div class="footerInnerCon" style="width: 1000px;">
         <div class="footerSection boxSizing">
-            <div class="footerSectionInner boxSizing">
-                <div id="fsEmail">
-                    <h2>eBags Email Sign Up</h2>
-                </div>
+            <div class="footerSectionInner boxSizing">                
+                                    
+                    <div id="fsEmail">                    
+                        <h2>eBags Email Sign Up</h2>
+                    </div>
+                                
                 <div id="fsSocial" class="fsMobileButton">
                     <h2>Social</h2>
                 </div>
@@ -1097,10 +1115,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         
 
 <form class="siteInput clearfix" action="/search" method="GET" id="quicksignup">
-    <input id="AnchorTag" name="AnchorTag" type="hidden" value="FT">
     <div class="submitControls">
-        <input type="email" id="EmailAddress" name="SubscribeEmailServiceModel.EmailAddress" class="boxSizing" placeholder="Your Email" autocomplete="off" required="">
+        <input type="email" id="txtEmailAddress" class="boxSizing" placeholder="Your Email" autocomplete="off" required="">
         <input class="boxSizing" type="submit" value="Go">
+        <div class="signUpCheckbox">
+            <label>
+                <input type="checkbox" class="boxSizing" id="chkSubscribeToStealsOfTheDay" checked="checked">Also get Steals of the Day alerts
+            </label>
+        </div>
         <div class="errorDisplay" style="display:none">Please enter a valid email address (e.g. name@domain.com)</div>
     </div>
     <div class="successDisplay" style="display:none">
@@ -1117,11 +1139,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         $(document).on("submit", "#quicksignup", function (e) {
             e.preventDefault();
             $.ajax({
-                url: '/Site/SubscribeEmailAjax',
+                url: '/Site/SubscribeEmailWithStealOfTheDayAjax',
                 cache: false,
                 type: "POST",
                 dataType: "json",
-                data: $(this).serialize(),
+                data: {
+                        "AnchorTag": "FT",
+                        "SubscribeEmailServiceModel.EmailAddress": $("#txtEmailAddress").val(),
+                        "SubscribeEmailServiceModel.SubscriptionType": "Site",
+                        "SubscribeToStealsOfTheDay": $("#chkSubscribeToStealsOfTheDay").attr('checked') ? true : false
+                    },
                 success: function (data) {
                     if (data.SuccessfullySubscribed) {
                         $(".siteInput .errorDisplay").hide();
@@ -1141,28 +1168,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     });
 
 </script>
-
-
-
-
-
-
-
-                    </div>
-                    <div class="SMSRow clearfix">
-                        <div class="smsLeft">
-                            <img src="//cdn2.ebags.com/img/Content/ebags/images/siteImages/footer/20131113_sms.png" border="0" alt="SMS See Details" align="left">
-                        </div>
-                        <div class="smsRight">
-                            <p><b>Sign up for Text Specials</b><br>
-                            Text <strong>JOIN</strong> to <strong>32247</strong> to receive special VIP offers from eBags.<br>
-                            <a href="/help/SMS"><u>See Details</u></a>
-                            </p>
-                        </div>                            
                     </div>
                     <div class="socialRow">
                         <a href="http://www.facebook.com/eBags" target="_blank" class="socialFacebook socialIconNew" data-text="Like Us on Facebook">Facebook</a>
-                        <a href="http://twitter.com/eBagsOnline" target="_blank" class="socialTwitter socialIconNew" data-text="Follow Us on Twitter">Twitter</a>
+                        <a href="http://twitter.com/eBags" target="_blank" class="socialTwitter socialIconNew" data-text="Follow Us on Twitter">Twitter</a>
                         <a href="http://pinterest.com/ebags/" target="_blank" class="socialPinterest socialIconNew" data-text="Follow Us on Pinterest">Pinterest</a>
                         <a href="http://blog.eBags.com" target="_blank" class="socialBlog socialIconNew" data-text="Read Our Blog">Blog</a>
                         <a href="http://video.eBags.com/" target="_blank" class="socialVideo socialIconNew" data-text="Watch Our Videos">Video</a>
@@ -1178,9 +1187,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <a href="https://www.ebags.com/members/index.cfm?fuseaction=trackorder">Track Your Order</a>
                     <a href="https://www.ebags.com/help/index.cfm?fuseaction=returnItem&amp;HelpCenter_Link=IWantToReturnItem">Returns</a>
                     <a href="/info/index.cfm?fuseaction=contact&amp;HelpCenter_Link=Contact">Contact Us</a>
-                    <a href="/help">Help Center</a>
-                    <a href="/catalog/index.cfm?FuseAction=Catalog">eBags Catalog</a>
-                    <a href="/giftcertificates/index.cfm" class="mobileOnly">Gift Card</a>
+                    <a href="/help">Help Center</a>                    
+                    <a href="/giftcertificates/create" class="mobileOnly">Gift Card</a>
                 </div>
             </div>
         </div><div class="footerSection boxSizing lastChild-mobile">
@@ -1189,9 +1197,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <h2>Company Info</h2>
                 </div>
                 <div id="for-fsCompany" class="fsMobileMenu slide-group-footer">
-                    <a href="/about/index.cfm?Fuseaction=about">About eBags</a>
+                    <a href="/aboutus/ourcompany">About eBags</a>
                     <a class="hideMobile" href="/buyingguides/">eBags Buying Guides</a>
-                    <a href="/about/index.cfm?Fuseaction=jobs">Careers</a>
+                    <a href="/aboutus/careers">Careers</a>
                     <a href="/rewards/index.cfm?fuseaction=AccountSummary">eBags Rewards Program</a>
                     <a href="http://www.ebagscorporate.com/">Corporate Sales</a>
                 </div>
@@ -1200,7 +1208,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="footerSectionInner boxSizing">
                 <h2>eBags <span class="giftBlue">Gift Card</span></h2>
                 <p>Who doesn't want a bag?</p>
-                <a href="/giftcertificates/index.cfm" class="giftCardIcon"><img src="//cdn2.ebags.com/img/Content/ebags/images/siteImages/icons/giftCard_footer_sm.gif" border="0" alt="eBags Gift Card"></a>
+                <a href="/giftcertificates/create" class="giftCardIcon"><img src="//cdn2.ebags.com/img/Content/ebags/images/siteImages/icons/giftCard_footer_sm.gif" border="0" alt="eBags Gift Card"></a>
             </div>
         </div>
     </div>
@@ -1208,26 +1216,25 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="subFooterCon">
     <div>
         <h2>#1 Online Bag Retailer Since 1999</h2>
-        <p>2,787,221 Reviews&nbsp;&nbsp;|&nbsp;&nbsp;19,636,090 Bags Shipped</p>
+        <p>2,915,158 Reviews&nbsp;&nbsp;|&nbsp;&nbsp;20,893,325 Bags Shipped</p>
     </div>
     <div class="subFooterIcons">
         <a target="_blank" href="https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=www.ebags.com&amp;lang=en&amp;toobar=no" id="eb_verisign" data-popup="width=525,height=450,resizable=no,scrollbars=yes,status=no,left=111,top=111"><img alt="VeriSign Secured" src="//cdn2.ebags.com/img/Content/ebags/images/siteImages/footer/verisignseal.gif" width="100" height="52"></a>
-        <a href="http://www.stellaservice.com/index.php?option=com_score&amp;site=www.ebags.com" target="_blank"><img src="//cdn2.ebags.com/img/logo-stella.gif" width="61" height="39" alt="Stella Service Elite"></a>
+        <!-- BEGIN STELLASERVICE SEAL CODE -->            
+        <a class="stella-seal"></a>
+        <script defer="" src="//seal.stellaservice.com/public/js/seal.js"></script>
+        <!-- END STELLASERVICE SEAL CODE -->
     </div>
     <div>
         <p><a href="/help/termsofuse">Terms of Use</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/help/privacypolicy">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/info/index.cfm?Fuseaction=overview">Affiliate Program</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><br><a href="/help/index.cfm?fuseaction=vendor">Vendor Inquiries</a>&nbsp;&nbsp;|&nbsp;&nbsp;Contact Us: 1-800-820-6126</p>
         <p class="subFooterFinePrint">All other trademarks not owned by eBags.com or its subsidiaries that appear on this site are the property of their respective owners.</p>
-        <p class="subFooterFinePrint">eBags USA © 1999 - 2013 eBags, Inc. All rights reserved.</p>
+        <p class="subFooterFinePrint">eBags USA © 1999 - 2014 eBags, Inc. All rights reserved.</p>
     </div>
 </div>
 <script type="text/javascript">
     require(['views-site-footer']);
 </script>
 
-        <span id="mystid10-25"></span>
-    
-        <span id="mystid12-29"></span>
-    
 </div>
 
 <script type="text/javascript">
@@ -1295,26 +1302,6 @@ var s = document.getElementsByTagName("script")[0];
 s.parentNode.insertBefore(gts, s);
 })();
 </script>
-
-    <script type="text/javascript">
-        var _gaq = _gaq || [];
-        var pluginUrl = '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
-
-        _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
-        _gaq.push(['_setAccount', 'UA-218344-1']);
-        _gaq.push(['_setDomainName', 'ebags.com']);
-        _gaq.push(['_setCampSourceKey', 'sourceid']);
-
-        _gaq.push(['_trackPageview']);
-
-        
-
-        (function () {
-            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-        })();
-    </script>
 
 
 
