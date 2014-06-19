@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the nvcc.edu privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217193105id_/http%3A//www.nvcc.edu/resources/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nvcc.edu privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619182031id_/http%3A//www.nvcc.edu/resources/privacy) for the most accurate reproduction.*
 
 # Web Privacy Statement | Northern Virginia Community College
 
 [Home](https://web.archive.org/)  >  [Policies, Procedures, and Plans](https://web.archive.org/legal/)  >  Web Privacy Statement 
-
-## Web Privacy Statement 
 
 It is the policy of the Commonwealth of Virginia that agencies of the Commonwealth will collect and retain personal information about citizens only to the extent necessary to provide the service or benefit desired; collect only appropriate information; provide the reason the information is collected so that citizens shall understand that reason clearly and enable citizens to examine their personal record which is maintained by a public body.
 
