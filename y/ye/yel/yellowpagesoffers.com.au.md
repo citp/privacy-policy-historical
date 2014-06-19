@@ -1,106 +1,107 @@
-> *The following text is extracted and transformed from the yellowpagesoffers.com.au privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219034319id_/http%3A//about.sensis.com.au/Privacy-Collection-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yellowpagesoffers.com.au privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619171924id_/http%3A//about.sensis.com.au/Privacy-Collection-Statement) for the most accurate reproduction.*
 
-# Privacy Collection Statement | Sensis
+# Privacy Statement | Sensis
 
-### Privacy Collection Statement
+11 March 2014
 
-_Revised January 2013_
+**Protecting your privacy**
 
-##### Protecting your privacy
+Sensis Pty Ltd (“Sensis”, “we”, “our”, “us”) is committed to providing you with the highest levels of customer service and to protecting your privacy. We are bound by the Privacy Act 1988 (Cth) (“Privacy Act”), which sets out a number of principles concerning the protection of your personal information known as the Australian Privacy Principles.
 
-Sensis Pty Ltd (“Sensis”, “we”, “our”, “us”) is committed to providing you with the highest levels of customer service and to protecting your privacy. We are bound by the Privacy Act 1988 (Cth) (“Privacy Act”), which sets out a number of principles concerning the protection of your personal information.
+This Privacy Statement sets out the type of information we collect, how we use it and who we may share it with. It may be amended from time to time and a current version is available at this weblink. 
 
-This Privacy Collection Statement sets out the type of information we collect, how we use it and who we share it with. It may be amended from time to time and a current version is available at this weblink. 
+**About Sensis**
 
-##### About Sensis
+Sensis is responsible for the Yellow Pages® and White Pages® directories, electronic, wireless and online products, as well as a range of advertising, media, content, location and other business services.  Sensis also operates subsidiary companies referred to as “related companies” in this statement.
 
-Sensis is a wholly owned subsidiary of Telstra Corporation Limited ("Telstra"), and is responsible for the Yellow Pages® and White Pages® directories and associated voice, electronic, wireless and online products, as well as a range of advertising, media, content, location and other business services.  
+**What personal information do we collect?**
 
-Sensis also operates subsidiary companies. In this statement, a reference to “related companies” means Telstra and our subsidiary companies.
-
-##### What personal information do we collect? 
-
-The personal information we collect and store may include your name, birth date, current and previous addresses, phone numbers, email addresses, banking and credit card details, work-related information, occupation, preferences for using our websites, driver's license details, web log, computer, device and connection information and your Sensis user name and password. We also hold details of your Sensis services, including their status, as well as certain details about your personal interests. 
-
-We understand you may not want to provide this information to us. That’s fine; however, it might mean we may not be able to provide you with the products and services you require, or a high level of service. 
+The personal information we collect and store may include your name, birth date, current and previous addresses, phone numbers, email addresses, work-related information, occupation, preferences for using our websites, driver's license details, web log, computer, device and connection information and your Sensis user name and password, and (depending on the service) banking and credit card details. We also hold details of your services, including their status, as well as certain details about your personal interests. 
 
 Sometimes we’ll need you to provide personal information about another person (for example, if you’d like to give someone access to your Sensis services). If that happens, we’ll need you to tell that person you’ve provided their personal information to us, and that we can be contacted for more information.
 
-##### How do we collect personal information?
+**How do we collect personal information?**
 
 We collect personal information in a number of ways, including: 
 
-  * directly from you through our websites, via phone, via application forms or when you download and use digital applications (such as Sensis apps)
-  * from other parties (such as your representatives, credit reporting agencies, social media sites, our related companies, our syndication partners)
-  * publicly available sources
-  * from organisations identified under "[When do we disclose your personal information](http://about.sensis.com.au/legal/privacy.php?ref=ypflk#disclosedisclose)?"
-  * from our own records of when you visit us online or where we have an online presence (such as Facebook or Twitter)
-  * when we are required by law 
+  * directly from you through our websites, via phone, via application forms or when you download and use digital applications (such as Sensis apps) ;
+  * from other parties (such as your representatives, credit reporting agencies, social media sites, our related companies, our syndication partners);
+  * from publicly available sources;
+  * from organisations identified under (“When do we disclose your personal information” see below)
+  * from our own records of when you visit us online or where we have an online presence (such as Facebook or Twitter);
+  * when we are required by law; and
+  * when you are online, we collect information regarding the pages within our network that you have visited and what you click on. 
 
 
 
-##### How do we use your personal information?
+This is not an exhaustive list of information we may collect or store as it may depend on the service or product being offered. If you don’t provide us with this information, unfortunately we may not be able to provide you with the service you require.   
+
+We usually collect personal information directly from you although sometimes we may use agents or service providers to do this for us. We may also get lists and business information that include personal information from other sources, both from other companies and from other public documents.
+
+**How do we use your personal information?**
 
 Your personal information may be used to;
 
-  * identify you
-  * provide, manage and administer your services
-  * provide our products and services, including directory services and advertising through a number of media
-  * conduct credit checks and to help prevent fraud
-  * research and improve our services
-  * help us deliver better services to you
-  * help us maintain and develop our business systems and infrastructure
-  * promote and market services to you (sometimes even after you leave us) 
+  * verify your identity;
+  * provide, manage and administer your services;
+  * provide our products and services, including directory services and advertising through a number of media;
+  * conduct credit checks and to help prevent fraud;
+  * performing research and analysis aimed at improving our products, services and technologies;
+  * help us deliver better services to you;
+  * help us maintain and develop our business systems and infrastructure; and
+  * promote and market services to you (sometimes even after you leave us) either by ourselves, or our related companies. 
 
 
 
-If you do not want Sensis to contact you to promote and market our products, services and special offers to you, please call 1800 736 747. 
+If you do not want Sensis to contact you to promote and market our products, services and special offers to you, please call 1800 736 747. If you’ve subscribed to receive specific emails or SMS/MMS from us, you’ll continue receiving them unless you unsubscribe by following the instructions in these messages to cancel your subscription.
 
-We may also use your personal information to promote and market the products and services of third parties (such as other businesses, government agencies and community organisations) to you via SMS, when you call Telstra directory assistance (on 1223) or one of our other voice services (such as 1234 or Call Connect). If you do not wish to receive this marketing information, you may call the relevant service and request to be opted out (any applicable service fee will be rebated) or you can reply “No” to the SMS.
+**When do we disclose your personal information?**
 
-##### When do we disclose your personal information?
+We may disclose your personal information to other organisations, but we’ll only do this in relation to us providing our services to you or as otherwise set out in this policy. We take all reasonable steps to maintain the security of your personal information and to protect it from unauthorised disclosures. 
 
-We may disclose your personal information to other organisations, but we’ll only do this in relation to us providing our services to you. 
+Sensis has processes in place that require organisations to adhere to confidentiality obligations to protect your personal information.
 
-These organisations may be based locally or overseas. They may carry out functions for us such as:
+These organisations may be based locally or overseas. They may carry out functions for us such as **:**
 
-  * customer enquiry services
-  * mailing operations
-  * billing and debt-recovery functions;  
-  * information technology services
-  * data verification services
-  * managing your advertising
-  * marketing, telemarketing and sales services
-  * market research
-  * website usage analysis 
+  * customer enquiries;
+  * mailing operations;
+  * billing and debt-recovery functions;  
+  * information technology services;
+  * data verification services;
+  * managing your advertising;
+  * marketing, telemarketing and sales services;
+  * market research; and
+  * website usage analysis. 
 
 
-
-We take reasonable steps to ensure that these organisations are bound by confidentiality and privacy obligations to protect your personal information. 
 
 In addition, we may disclose your personal information to: 
 
-  * your authorised representatives or advisers (when requested by you to do so)
-  * credit-reporting and fraud-prevention organisations
-  * credit providers (for credit related purposes)
-  * our related companies
-  * our professional advisers
-  * government, regulatory authorities and other organisations, as required by law
-  * organisations who manage our business and corporate strategies, including those involved in a transfer/sale of all or part of our assets or business and those involved in managing our corporate risk and funding functions
-  * our directories and syndication partners
-  * other telecommunication and information service providers (eg if you obtain services from other providers, we may need to disclose your information for billing purposes) 
+  * your authorised representatives or advisers (when requested by you to do so);
+  * credit-reporting and fraud-prevention organisations;
+  * credit providers (for credit related purposes);
+  * our related companies;
+  * our professional advisers;
+  * government, regulatory authorities and other organisations, as required by law;
+  * organisations who manage our business and corporate strategies, including those involved in a transfer/sale of all or part of our assets or business and those involved in managing our corporate risk and funding functions;
+  * Telstra Corporation Limited (‘Telstra”) to allow them to provide directory assistance services, including voice services such as Directory Assistance (1223), 1234 and Call Connect (12456); and
+  * our directories and syndication partners, as permitted in our Product Contract Terms [click here](http://about.sensis.com.au/product-contract-terms). 
 
 
 
-##### Your personal information and our related companies
+When we share your information with a third party, we will require that the third party only use, store and disclose your information in a way that is consistent with this policy.
 
-We may share your personal information with our related companies to assist them with their business development and to market their own products and services to you and may continue to do so after you cease acquiring services from us. Our related companies will use and disclose your personal information in accordance with their privacy policies. If you want to know more about our related companies, their areas of business and their commitment to privacy, please contact us (see [](http://about.sensis.com.au/legal/privacy.php?ref=ypflk#how#how)[](http://about.sensis.com.au/legal/privacy.php?ref=ypflk#howhow)['How to contact us'](http://about.sensis.com.au/legal/privacy.php?ref=ypflk#howhow)below). 
+**Disclosure of your personal information outside of Australia**
 
-##### Use of location information for 1234
+There are some circumstances where your personal information is disclosed outside of Australia including for information management and storage purposes such as cloud computing. The countries were these disclosures occur are primarily Philippines, India, United States of America, Canada and Israel. This list is not exhaustive and may change from time to time depending on who we partner with. We will endeavour to update this list on a periodic basis.  
 
-When you call the Sensis 1234 service, we may collect information about your present location in order to assist us in providing you with the service (eg so that we can more quickly respond to any request from you to find a business close to your present location). This may include caller ID, mobile originating line information and the location of cell towers in contact with your mobile phone device.
+We take active steps to ensure that any overseas located organisation we disclose your personal information to complies with the Australian Privacy Principles or is subjected to laws which are substantially similar to Australian Privacy Principles.
 
-##### About our websites, applications, IP addresses and ‘cookies’
+**Your personal information and our related companies**
+
+We may share your personal information with our related companies to assist them with their business development and to market their own products and services to you and may continue to do so after you cease acquiring services from us. Our related companies will use and disclose your personal information in accordance with their privacy policies. If you want to know more about our related companies, their areas of business and their commitment to privacy, please contact us as set out below. 
+
+**About our websites, applications, IP addresses and ‘cookies’**
 
 When you visit our sites our web servers record anonymous information such as the time, date and URL of the request. This information assists us to improve the structure of our websites and monitor their performance. Sometimes we also use third parties to analyse this information.
 
@@ -110,42 +111,36 @@ Sometimes cookies may collect and store personal information about you. We treat
 
 We also collect and manage Internet Protocol (IP) addresses – the unique identifier on your computer or device. It’s used for the purpose of providing internet session management and to detect any misuse or fraudulent activities involving our websites. 
 
-Sensis may use third parties to analyse usage statistics. Such analysis is performed using data collected from our websites. The technology is not intended to collect personally identifiable information however in limited circumstances some personally identifiable information is collected, for example, an email address incorporated into a URL string. Personally identifiable information collected in this way is not used by the third party or Sensis for any purpose.
+Sensis may use third parties to analyse usage statistics. Such analysis is performed using data collected from our websites. The technology is not intended to collect personally identifiable information, however in limited circumstances some personally identifiable information is collected, for example, an email address incorporated into a URL string. Personally identifiable information collected in this way is not used by the third party or Sensis for any purpose.
 
-Digital advertising is included on Telstra’s and Sensis’ sites. To make this advertising more relevant to you, anonymous information about the previous web browsing activity on your computer’s or device’s internet browser on sites within Telstra’s and Sensis’ network is collected and used to associate your computer or device with one or more pre-defined interest categories. 
+Digital advertising maybe included on our site. To make this advertising more relevant to you, anonymous information about the previous web browsing activity on your computer’s or device’s internet browser on sites within Sensis’ network is collected and used to associate your computer or device with one or more pre-defined interest categories. 
 
-Advertising that matches those interest categories may then be served to your computer’s or device’s internet browser. This interest-based advertising (also called online behavioural advertising) does not change the amount of advertising you receive; it just makes it more relevant. You can learn more about the interest-based advertising conducted by Telstra and Sensis [**here**](http://www.telstra.com.au/privacy/interest-based-advertising/). General information about interest-based advertising is available from the industry website [www.youronlinechoices.com.au](http://www.youronlinechoices.com.au/ "http://www.youronlinechoices.com.au/"), and you can also opt out of some or all interest based advertising [here](http://www.youronlinechoices.com.au/opt-out?PHPSESSID=60706b9d6beed780923addd418411ae5).  
+**Additional terms in relation to Sensis applications**
 
-##### Additional terms in relation to Sensis applications 
-
-In addition to Sensis’ obligations under the Privacy Act, and Sensis and Telstra’s own privacy statements and practices, Sensis develops its applications in accordance with the guidelines set by the relevant device manufacturer, which include guidelines relating to privacy. 
+In addition to Sensis’ obligations under the Privacy Act, and Sensis’ own privacy statement and practices, Sensis develops its applications in accordance with the guidelines set by the relevant device manufacturer, which include guidelines relating to privacy. 
 
 Sensis will only collect, use and disclose your personal information provided to us through your download and use of Sensis applications in the ways set out in this privacy collection statement. 
 
 Some Sensis applications may collect information about your location at a given time in order to assist us in providing you with the service offered through that application. You may choose to opt out of having Sensis collect information about your location by turning off the location services feature on your mobile device. However, please note that this may result in Sensis being unable to provide you with the service (or all parts of the service) offered through the Sensis application. 
 
-##### Acts in the course of journalism
+**Credit reporting policy**
 
-Sensis commits to the Australian Press Council Privacy Standards (available at <http://www.presscouncil.org.au/>) in relation to material prepared by Sensis, its employees and its agents in the course of journalism. Sensis publishes some material which is licensed to it by other organisations. Sensis will take reasonable steps to ensure that each organisation which supplies it with material for publication has publicly committed to standards for the purpose of section 7B(4)(b) of the Privacy Act 1988. If Sensis receives a privacy-related complaint relating to any material supplied to it by another organisation, then it will formally request that organisation to deal with the privacy complaint in a fair and efficient manner.
+In the process of providing credit to you in connection with our products and services, we may collect ‘credit information’ and ‘credit eligibility information’ about you as referred to in the Privacy Act. We have arranged for Telstra to manage our credit operations on our behalf. Information that we may collect in connection with the provision of credit to our customers, may be provided to Telstra. How this information is managed by Telstra is set out in their Credit Reporting Policy which is [available by clicking here](http://www.telstra.com.au/privacy/important-information-about-credit/).
 
-##### Third party sites
+**Third party sites**
 
-You may click-through to third party sites from our sites, in which case we recommend that you refer to the privacy statement of the sites you visit. Sensis' collection statement and privacy policy apply to Sensis' websites only and Sensis assumes no responsibility for information and content of third party sites. 
+You may click-through to third party sites from our sites, in which case we recommend that you refer to the privacy statement of the sites you visit. Sensis' Statement applies to Sensis' websites only and Sensis assumes no responsibility for information and content of third party sites. 
 
-##### How accurate is your information? 
+**How accurate is your information?**
 
 We take all reasonable precautions to ensure that the personal information we collect, use and disclose is accurate, complete and up to date. However, the accuracy of that information largely depends on the details you give us. Please let us know if there are any errors and keep us up to date with any changes.
 
-##### Want to access your personal information? 
+**Access to your personal information and privacy complaints**
 
-We welcome any request by you to access your personal information (subject to some exceptions allowed by law). If you would like to do so, please let us know. 
+We take the protection of our customer’s privacy very seriously. If you have any privacy concerns or believe that your personal information is inaccurate or has been collected, used or disclosed in a manner contrary to privacy law we encourage you to raise any concerns you have with us directly by emailing [privacy@sensis.com.au](mailto:privacy@sensis.com.au) so that we can take steps to address them. 
 
-For security reasons we may ask you to put your request in writing. We might also charge a fee to search and provide access to your information, but we’ll let you know about this in advance. 
+In most cases we will ask that you put your request in writing to us. We will investigate your complaint and will use reasonable endeavours to respond to you in writing within 30 days of receiving the written complaint. If we fail to respond to your complaint within 30 days of receiving it in writing or if you are dissatisfied with the response that you receive from us, you may have the right, depending on the jurisdiction, to make a complaint to the applicable regulator.
 
-##### How to contact us
+**Further information**
 
-If you have any questions in relation to privacy, please contact us on 1800 736 747 between 9.00am and 5.00pm (EST), Monday to Friday. Alternatively, you can e-mail: [privacy@sensis.com.au](mailto:privacy@sensis.com.au)
-
-##### Further information
-
-Further information on privacy is available at the [website](http://www.privacy.gov.au/) of the Office of the Australian Information Commissioner. 
+Further information on privacy is available at the [website](http://www.privacy.gov.au/) of the Office of the Australian Information Commissioner <http://www.oaic.gov.au/>.
