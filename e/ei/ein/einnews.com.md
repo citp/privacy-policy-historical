@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the einnews.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216031903id_/http%3A//www.einnews.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the einnews.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619175422id_/http%3A//www.einnews.com/privacy_policy) for the most accurate reproduction.*
 
 # 
 
