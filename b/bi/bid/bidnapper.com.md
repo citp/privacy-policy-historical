@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bidnapper.com privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128105633id_/https%3A//www.bidnapper.com/privacy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bidnapper.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619050532id_/https%3A//www.bidnapper.com/privacy.php3) for the most accurate reproduction.*
 
 # Bidnapper : eBay Auction Sniper Will Snipe Online Auctions. Sniping wins more, free trial.
 
