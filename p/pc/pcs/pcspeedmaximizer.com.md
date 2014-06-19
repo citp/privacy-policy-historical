@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcspeedmaximizer.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207145326id_/http%3A//pcspeedmaximizer.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcspeedmaximizer.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619144820id_/http%3A//www.pcspeedmaximizer.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
