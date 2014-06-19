@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truesupplier.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218042442id_/http%3A//www.truesupplier.com/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truesupplier.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619050627id_/http%3A//www.truesupplier.com/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
 
 # Help zone :: Truesupplier - Blackberry Accessories,iPhone Accessories,Galaxy Accessories & HTC Accessories wholesale Co.
 
@@ -6,40 +6,45 @@
 ---  
 CALL US: +86-755-8884-7001   International: +86-755-8884-6981   |   
   
-[](http://www.truesupplier.com/ad_banner_click.php?banner_id=477&banner_redirect=http://www.truesupplier.com/_search.php?page=1&q=Apple+iPhone+5+Chrome+Hard+Case+Cover+With+Diamond) [](http://www.truesupplier.com/ad_banner_click.php?banner_id=453&banner_redirect=http://www.truesupplier.com/_search.php?page=1&q=9900+LCD+assembly) [](http://www.truesupplier.com/ad_banner_click.php?banner_id=504&banner_redirect=http://www.truesupplier.com/oem-blackberry-p9981-qwerty-keyboard-keypad-pr-30827.html)   
+[](http://www.truesupplier.com/ad_banner_click.php?banner_id=494&banner_redirect=http://www.truesupplier.com/apple-iphone-5-purple-middle-plate-housing-cover-2-design-pr-30736.html) [](http://www.truesupplier.com/ad_banner_click.php?banner_id=476&banner_redirect=http://www.truesupplier.com/_search.php?page=1&q=iphone+4s+colorful+middle+plate) [](http://www.truesupplier.com/ad_banner_click.php?banner_id=504&banner_redirect=http://www.truesupplier.com/oem-blackberry-p9981-qwerty-keyboard-keypad-pr-30827.html)   
   
   
 
 
-| I ordered my first faceplate/backcover from TrueSupplier.com. Very good product. However I did notice a difference in color b/w the front and back covers. Cheryl provided excellent customer service and shipped me out a replacement cover asap. Excellent customer service will keep me coming back for more!  
+| A very nice easy and fast trade with full support during sale process. Highly recommended...   
 ---  
-Chris   
+Deepak   
   
 * * *  
   
-I'm from Nicaragua but decided to order my BB fullhousing shipped to Florida> I submitted it on march 13th and was received on march 23rd before than expected. Well packed and looks great, just waiting for someone to bring it to me. Since the website requests a zipcode for shipping I send it somewhere else since not everybody has it over here... Very low price for an overseas shipping Thankyou !  
-Stefan   
-  
-* * *  
-  
-I ordered a full housing kit for my Mom's BB 9800, it only took 3 days to ship it. I would seriously recommend this company to anyone. The packaging was so organised and in excellent condition. Probably took true supplier 8 hours to wrap it all up. The bubble wrap was awesome and kept my mom's red BB 9800 housing intact. I also ordered a new iPhone 4 home button. It looks great. I will definately use this company again. 
+im a gadget freak lol i love spoiling my gadgets coz thats how i entertain my self to keep me happy rocking my gadgets lol so, truesupplier been helping me for almost 2 years now and their stuff are the coolest! :) 
 
-Rate:100/10 :) 
+keep up the good work and level it up!! 
 
-Sent from my IPhone 4  
+THanks for being part of my gadget life! 
+
+lol 
+
+xox   
+Liana  
   
-Siraj   
+Liana   
   
 * * *  
   
-[**Write Your Own Testimonial**](https://web.archive.org/web/20131218042442id_/http%3A//www.truesupplier.com/testimonials.php?mode=new_form)  
+I received my cases today! I'm happy that it looks good than on the picture. They missed one item but they're very helpful on re-shipping it. The people are very understanding and just an email away. Great service! Thank you!  
+Caii   
+  
+* * *  
+  
+[**Write Your Own Testimonial**](https://web.archive.org/web/20140619050627id_/http%3A//www.truesupplier.com/testimonials.php?mode=new_form)  
   
   
-[](http://www.truesupplier.com/ad_banner_click.php?banner_id=491&banner_redirect=http://www.truesupplier.com/apple-iphone-4-4s-bling-diamond-metal-bumper-frame-case-6-patter-pr-30570.html)
+[](http://www.truesupplier.com/ad_banner_click.php?banner_id=154&banner_redirect=http://www.truesupplier.com/wholesale-sources-c-513.html)
 
 [](http://www.truesupplier.com/ad_banner_click.php?banner_id=471&banner_redirect=http://www.truesupplier.com/_search.php?page=1&q=Apple+iPhone+4S+Battery+Cover+With+Protruding+Diamond+Logo)
 
-[Truesupplier - Blackberry Accessories,iPhone Accessories,Galaxy Accessories & HTC Accessories wholesale Co.](http://www.truesupplier.com/) :: [Help zone](https://web.archive.org/web/20131218042442id_/http%3A//www.truesupplier.com/help.php) | Privacy statement  
+[Truesupplier - Blackberry Accessories,iPhone Accessories,Galaxy Accessories & HTC Accessories wholesale Co.](http://www.truesupplier.com/) :: [Help zone](https://web.archive.org/web/20140619050627id_/http%3A//www.truesupplier.com/help.php) | Privacy statement  
 ---  
   
 Thank you for accessing the web site ("Site") of truesupplier.com, Inc. ("truesupplier.com," that's us). We respect your privacy and want to protect your personal information. To learn more, please read this Privacy Policy.
@@ -116,7 +121,7 @@ Truesupplier.com
   
 
 
-[](http://www.truesupplier.com/ad_banner_click.php?banner_id=385&banner_redirect=http://www.truesupplier.com/blackberry-torch-9800-full-housing-faceplates-with-korean-keypad-pr-26293.html)
+[](http://www.truesupplier.com/ad_banner_click.php?banner_id=508&banner_redirect=http://www.truesupplier.com/apple-iphone-5-360-rotating-leather-case-pouch-cover-7-colors-pr-30479.html)
 
 [](http://www.truesupplier.com/ad_banner_click.php?banner_id=472&banner_redirect=http://www.truesupplier.com/_search.php?page=1&q=iphone+4s+lcd+assembly)   
 
