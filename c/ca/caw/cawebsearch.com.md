@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cawebsearch.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219044051id_/http%3A//www.cawebsearch.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cawebsearch.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619182023id_/http%3A//www.cawebsearch.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | CaWebSearch
 
