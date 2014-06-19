@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the covidien.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219001553id_/http%3A//www.covidien.com/covidien/pages.aspx%3Fpage%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the covidien.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619074824id_/http%3A//www.covidien.com/privacy) for the most accurate reproduction.*
 
-# Covidien : Privacy Policy
+# Privacy Policy | Covidien
 
 Covidien plc, and its affiliates (“Covidien”) - Privacy Policy, Last Updated: April 30, 2012. As a user of this Internet Website (“Site”), you ("you" or "user") are valued by Covidien. Covidien is committed to protecting the personally identifiable information ("Personal Information") provided by and collected from you on this Site in connection with the functions, facilities and services offered on this Site.
 
