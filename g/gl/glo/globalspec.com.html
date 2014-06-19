@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the globalspec.com privacy policy that was archived on 2013-10-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131031182856id_/http%3A//www.globalspec.com/Help/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the globalspec.com privacy policy that was archived on 2014-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140619153746id_/http%3A//www.globalspec.com/Help/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head> 
 	<title>GlobalSpec - Privacy Policy</title>
 
 	
 	<!-- Framework CSS -->
-	<link rel="stylesheet" type="text/css" href="/css/bundle/electronics-bundle-659bec356962da341d812e925be9b7db-min.css"> 
+	<link rel="stylesheet" type="text/css" href="/css/bundle/main-bundle-70dd1692721d4acda8695c11f63f1d1c-min.css"> 
 <link rel="stylesheet" type="text/css" href="/css/blueprint/print.css" media="print">
 <!--[if lt IE 8]><link rel="stylesheet" href="/css/blueprint/ie.css" type="text/css" media="screen, projection" /><![endif]--> 
 
@@ -51,13 +51,13 @@
 		
 		<body>
 			<div id="umbrella-bar"></div>
-			
+			<div class="container" id="page-wrapper"> 
 	
 	<div id="umbrella">
 		<div id="umbrella-content" class="container">
 			<div id="sites-label" class="span-7">Sites:</div>
 			<div id="sites-links" class="span-16">
-				<a href="/?gotoSubSiteIdByForce=0" rel="nofollow">GlobalSpec.com</a> | GlobalSpec Electronics | 
+				GlobalSpec.com | <a href="/electronics?gotoSubSiteIdByForce=1" rel="nofollow">GlobalSpec Electronics</a> | 
 				<a href="http://cr4.globalspec.com" rel="nofollow">CR4</a> | 
 				<a href="http://electronics360.globalspec.com" rel="nofollow">Electronics360</a>	
 			</div>
@@ -67,148 +67,15 @@
 		</div>
 	</div>
 	<div class="clear"></div>
-<div class="container" id="page-wrapper"> <div class="container" id="header-wrapper"> <div class="container" id="masthead"> 
-	<script type="text/javascript">	
-	if (document.images) { gsTokenImage = new Image(); gsTokenImage.src = "/Tokens?token=SubSite&P1=1&r=8432&srcWebHitId=727848314"; }	
-	</script>
-	<script src="http://ajax.googleapis.com/ajax/libs/prototype/1.6.0.2/prototype.js" type="text/javascript"></script>
-
-<script>     
-var Tab = Class.create ({
-	init:function(id,defaultSearchText,formAction){
-		m_id = id;
-		m_defaultSearchText = defaultSearchText;
-		m_formAction = formAction;
-	},
-	getId:function(){
-		return m_id;
-	},
-	getDefaultSearchText:function(){
-		return m_defaultSearchText;	
-	},
-	getFormAction:function(){
-		return m_formAction;	
-	}
-});
-
-var selectedTab;
-   $j(document).ready(function(){
-   	
-   	$j(document).click(function(event){
-   		$j("#my-gs-menu").hide();
-		$j('#my-gs-button').removeClass('my-gs-button-pushed');
-		$j('#my-gs-button').addClass('my-gs-button-active');
-	});
-
-	$j("#my-gs-button").click (function(event){
-   		$j('#my-gs-button').toggleClass("my-gs-button-active my-gs-button-pushed");
-   		$j("#my-gs-menu").toggle();
-   		event.stopPropagation();			
-	});
-	
-	$j("#my-gs-menu li").live('mouseover mouseout', function(){
-		$j('#my-gs-button li').toggleClass('hover');
-	});
-
-       var firstSelectedTab = $j("#header-tabs .selected-tab").first(); 
-	selectedTab = new Tab();
-	selectedTab.init(firstSelectedTab.attr('id'),firstSelectedTab.attr('default-text'),firstSelectedTab.attr('form-action'));
-
-       // on click add the selected class name of the selected tab
-    	$j("#header-tabs .tab-container").click(function(){     		
-    		
-    		$j(this).addClass('selected-tab');
-    		$j(this).siblings().removeClass('selected-tab');
-    		
-    		// update the search buttons text
-    		$j('#header-search-button').html($j(this).attr('button-text'));
-    		
-    		// update the input boxes default text
-    		//if the text in the box equals the default text for the current tab, change the default text
-    		if ($j('#query').val() == selectedTab.getDefaultSearchText()) {
-    			$j('#query').val($j(this).attr('default-text'));
-    		}
-    		
-    		
-		selectedTab = new Tab();
-		selectedTab.init($j(this).attr('id'),$j(this).attr('default-text'),$j(this).attr('form-action'));
-    	});
-    	
-    	// on click of the search button submit the form
-    	$j('#header-search-button').click(function(){
-    		return runGsSearch($j(this).text());
-    	});
-    	
-    	// when the input box gains / loses focus update the default value
-    	$j('#query').focus( function(){ 
-    		if($j(this).val() === selectedTab.getDefaultSearchText()) {
-    			$j(this).val('');
-    			$j(this).removeClass('empty-search');
-  			}
-    	}).blur(function(){
-		if($j(this).val() === '') {
-			$j(this).val(selectedTab.getDefaultSearchText());
-    			$j(this).addClass('empty-search');
-		}
-    	});
-    	
-    	$j('#query').keydown(function(event) {
-  			if (event.keyCode == '13') {
-  				$j('#header-search-button').click();
-  			}
-  		});
-    	
-    	//select the default tab
-    	$j('#products').click();
-    	
-    	//alert($j('#query').val());
-    	//alert(selectedTab.getDefaultSearchText());
-    	if ($j('#query').val() == selectedTab.getDefaultSearchText()) {
-    		$j('#query').addClass('empty-search');
-    	}
-    	
-	     	
-	/***************************************** HELPER FUNCTIONS *****************************************/		
-	function searchBoxIsEmpty() {
-		return (jQuery.trim($j('#query').val()) === '' || jQuery.trim($j('#query').val()) === selectedTab.getDefaultSearchText());
-	}
-	
-	function validateGsSearchForm() {
-		if (searchBoxIsEmpty()) {
-			alert('Please enter a search term.');
-			return false;
-		}
-		return true;
-	}
-	
-	/**
-	 * 
-	 * @param searchSource - searchButton or petalTab
-	 * @return
-	 */
-	function runGsSearch(searchSource) {
-		if (validateGsSearchForm()) {
-			var form = $j('#gs-search');
-			form.attr('action',selectedTab.getFormAction() + '?query=' + $j('#query').val() + '&show=' + selectedTab.getId());
-			form.submit();
-		} else {
-			return false;	
-		}
-	}
-    	
-    }); 
-    
-    
-</script>
-
-
-	<div class="header-secondary-logo span-40">
-		
-		<a href="/electronics/">
-			<div id="header-logo-invisible-overlay" class="span-10"></div>
+<div class="container" id="header-wrapper"> <div class="container" id="masthead"> 	
+	<div id="logo">
+		<a href="http://www.globalspec.com/">
+			<span class="gs-logo" title="Home"></span>
 		</a>
 	</div>
 
+
+<img id="print-logo" src="/pix/logos/IHSGlobalSpecPrintLogo.png" style="display: none;"> 
 		<div class="banner" style="width:728px; height:90px;margin:;">
 			
 	<div id="banner-zone">
@@ -217,50 +84,17 @@ var selectedTab;
 
 		</div>
 	
-	<form id="global-search" method="get" action="/search/startSearch?page=gs" onsubmit="return checkHeaderForm(this);">
-	<div id="header-tabs" class="span-40">
-		<div id="products" class="selected-tab tab-container" onclick="setGlobalSearchActionDestination('http://www.globalspec.com/search/startSearch?page=gs', '');" form-action="http://www.globalspec.com/search/startSearch?page=gs" default-text="Enter a type of product or supplier (example: diode)" button-text="Search Products &amp; Services">
-			<div class="left-edge electronics-header-spritesheet">
-			</div>
-			<div class="tab-body electronics-header-spritesheet">
-				Products &amp; Services
-			</div>
-			<div class="right-edge electronics-header-spritesheet">
-			</div>
-		</div>
-		<div id="partnumbers" class="tab-container" onclick="setGlobalSearchActionDestination('http://part-numbers.globalspec.com/search', 'partnumbers');" form-action="http://part-numbers.globalspec.com/search" default-text="Enter a part number (example: 74LS04)" button-text="Search Part Numbers">
-			<div class="left-edge electronics-header-spritesheet">
-			</div>
-			<div class="tab-body electronics-header-spritesheet">
-				Part by Number
-			</div>
-			<div class="right-edge electronics-header-spritesheet">
-			</div>
-		</div>
-		<div id="suppliers" class="tab-container" onclick="setGlobalSearchActionDestination('http://www.globalspec.com/SpecSearch/SupplierByNameSearch', '');" form-action="http://www.globalspec.com/SpecSearch/SupplierByNameSearch" default-text="Enter a company name (example: Acme Equipment)" button-text="Search Suppliers by Name">
-			<div class="left-edge electronics-header-spritesheet">
-			</div>
-			<div class="tab-body electronics-header-spritesheet">
-				Supplier by Name
-			</div>
-			<div class="right-edge electronics-header-spritesheet">
-			</div>
-		</div>
-		<div id="appnotes" class="tab-container" onclick="setGlobalSearchActionDestination('http://application-notes.globalspec.com/Search', 'appnotes');" form-action="http://application-notes.globalspec.com/Search" default-text="Enter a product type or application" button-text="Search Application Notes">
-			<div class="left-edge electronics-header-spritesheet">
-			</div>
-			<div class="tab-body electronics-header-spritesheet">
-				Application Notes
-			</div>
-			<div class="right-edge electronics-header-spritesheet">
-			</div>
-		</div>
-	</div>
-	</form>
 
+<style>
+	
+	#global-nav #global-search #header-searchbox {
+		height /*\**/: 17px\9;
+		padding-top /*\**/: 3px\9;
+	}
+</style>
 
-<script language="javascript">
-
+<script type="text/javascript">
+<!--// Hide JS from old browsers
 	
 	function checkHeaderForm(aform) {
 		var inputField = $j(aform).children('[type=text]');
@@ -275,8 +109,8 @@ var selectedTab;
 			valid = false;
 			errMsg = "Please enter a valid search term.";
 		}
-
-		if(!valid) {
+		
+		if(!valid) {	
 			alert(errMsg);
 			try {
 				inputField.focus();
@@ -286,10 +120,11 @@ var selectedTab;
 				// Failure is a no-op
 			}
 		}
-
+		
 		return valid;
 	}
-
+	
+	
 	
 	function setGlobalSearchActionDestination (url, show) {
 		$j('#global-search').attr('action', url);
@@ -306,30 +141,121 @@ var selectedTab;
 			$j('#nrShow').attr('value', show);
 		}
 	}
-</script> 
-	<div id="header-umbrella-bottom" class="span-40 electronics-header-spritesheet">
-		<div id="header-search-label">Search Electronics:</div>
-		<form id="gs-search" method="post">
-			
-				<input type="hidden" name="searchSource" value="SearchSource.SEARCH_BUTTON">
-				<input id="query" class="catcomplete" data-search-method="blended" type="text" name="query" value="Enter a type of product or supplier (example: diode)">
-				<div id="header-search-button" class="electronics-header-spritesheet">
-					Search Products &amp; Services
-				</div>
-			
-		</form>
+//-->
+</script>
+
+
+
+
+<div id="global-nav" class="clearfix clear">		
+	<div id="tabs">	
+		<div id="products-services-tab" class="tab">
+			<div class="tab-left"></div>
+			<div class="tab-left-b"></div>
+			<div class="tab-center">
+				<span class="label">Products &amp; Services</span>
+			</div>
+			<div class="tab-right"></div>
+			<div class="arrow"></div>
+			<div class="clear"></div>
+		</div>
+
+		<div id="suppliers-tab" class="tab">
+			<div class="tab-left"></div>
+			<div class="tab-center">
+				<span class="label">Suppliers</span>
+			</div>
+			<div class="tab-right"></div>
+			<div class="arrow"></div>
+			<div class="clear"></div>
+		</div>
+
+		<div id="reference-tab" class="tab">
+			<div class="tab-left"></div>
+			<div class="tab-center">
+				<span class="label">Reference</span>
+			</div>
+			<div class="tab-right"></div>
+			<div class="arrow"></div>
+			<div class="clear"></div>
+		</div>
+
+		<div id="logbook-tab" class="tab">
+			<div class="tab-left"></div>
+			<div class="tab-center">
+				<span class="label">My GlobalSpec</span>
+			</div>
+			<div class="arrow"></div>
+			<div class="clear"></div>
+		</div>
+
 	</div>
-</div> <div class="container" id="header-content"> 
+	
+	
+		<form id="global-search" method="get" action="/search/startSearch?page=gs" onsubmit="return checkHeaderForm(this);">
+			<label>Search: </label>
+			<input type="text" id="header-searchbox" class="catcomplete-header" name="query" data-search-method="blended" title="Start a new search here" value="">
+			<label>in: </label>
+			<span class="header-dropdown">
+				<span class="notch"></span>
+				<span class="dropdown-mask"></span>
+				<dl id="header-searchtype" class="dropdown">						
+				   	
+				   	
+				   		<dt><a class="toggle" href="javascript:void(0);"><span>Products &amp; Services</span></a></dt>
+					
+					<dd>
+						<div id="global-search-type" class="popup-wrapper">
+							<ul>
+								<span class="nav-shadow"></span>
+								
+									<li><a href="javascript:void(0);" onclick="setGlobalSearchActionDestination('http://www.globalspec.com/search/startSearch?page=gs', '');">Products &amp; Services</a></li>							
+									
+									<li><a href="javascript:void(0);" onclick="setGlobalSearchActionDestination('http://www.globalspec.com/specsearch/supplierbynamesearch', '');">Suppliers by Name</a></li>							
+									
+										<div class="divider"></div>
+									
+									<li><a href="javascript:void(0);" onclick="setGlobalSearchActionDestination('http://www.globalspec.com/featuredproducts/searchresults', '');">Product Announcements</a></li>							
+									
+									<li><a href="javascript:void(0);" onclick="setGlobalSearchActionDestination('http://application-notes.globalspec.com/search', 'appnotes');">Application Notes</a></li>							
+									
+									<li><a href="javascript:void(0);" onclick="setGlobalSearchActionDestination('http://patents.globalspec.com/search', 'patents');">Patents</a></li>							
+									
+									<li><a href="javascript:void(0);" onclick="setGlobalSearchActionDestination('http://part-numbers.globalspec.com/search', 'partnumbers');">Part Numbers</a></li>							
+									
+									<li><a href="javascript:void(0);" onclick="setGlobalSearchActionDestination('http://www.globalspec.com/productfinder/findproducts', '');">All Categories</a></li>							
+									
+										<div class="divider"></div>
+									
+									<li><a href="javascript:void(0);" onclick="setGlobalSearchActionDestination('http://www.globalspec.com/techlib/search', 'techArticles');">Technical Articles</a></li>							
+									
+									<li><a href="javascript:void(0);" onclick="setGlobalSearchActionDestination('http://www.globalspec.com/techlib/search', 'books');">Textbook Extracts</a></li>							
+									
+					        </ul>
+				        </div>
+				    </dd>
+				    
+				</dl>
+			</span>
+			<input type="hidden" name="show" id="idShow" value="" disabled="">
+			<input class="global-search-button" type="submit" value="">
+		</form>
+	
+</div>
+<div id="mega-dropdown"></div>
+<div id="header-autocomplete" class="popup-wrapper ui-autocomplete">
+	<span class="nav-shadow"></span>
+</div> </div> <div class="container" id="header-content"> 
 	<div id="breadcrumbs" class=" breadcrumbs">
 		
-					<a href="http://www.globalspec.com/electronics/">GlobalSpec Electronics</a>
+					<a href="http://www.globalspec.com/">Home</a>
 				
 				&gt;
 			Privacy 
 	</div>
 </div> </div> <div class="container" id="content-wrapper"> <div class="prepend-7 span-24 append-9 last" id="page-header"> 
 		<h1>GlobalSpec Privacy Policy</h1>	
-	<!-- END page-header--> </div> <div class="span-7" id="navigation"> &nbsp; 
+	<!-- END page-header--> </div> <div class="span-7" id="navigation"> 
 <ul>
 	<li>
 		<a href="http://www.globalspec.com/help">Help</a> 		
@@ -344,7 +270,7 @@ var selectedTab;
 		<a href="http://www.globalspec.com/help/termsofuse">Terms of Use</a>
 	</li>
 </ul>
-<!-- END navigation--> </div> <div class="span-24" id="main-content"> &nbsp; 
+<!-- END navigation--> </div> <div class="span-24" id="main-content"> 
 
 <style>
 	#privacyContent h3 {
@@ -509,41 +435,55 @@ Additional Giveaway Rules and Disclaimers apply for registrants attending Global
 
 
 
-</div> <!-- END main-content--> </div> <div class="span-9 last" id="secondary-content"> &nbsp; <!-- END secondary-content--> </div> </div> 
+</div> <!-- END main-content--> </div> <div class="span-9 last" id="secondary-content"> <!-- END secondary-content--> </div> </div> 
 				<div id="push" class="container"></div>
 			</div> <div class="container" id="footer-wrapper"> <div class="container" id="footer-content"> 
-<div class="clear"></div>
-<div id="electronicsSiteFooter"> 
-<ul id="footer-nav-firstline">
-			<li><a href="http://www.globalspec.com/electronics">GlobalSpec Electronics</a></li>
-			<li><a href="http://www.globalspec.com/electronics/design-center">Electronics Design Center</a></li>
-			<li><a href="http://www.globalspec.com/?gotoSubSiteIdByForce=0">GlobalSpec Home</a></li>
-			<li class="noborder"><a href="http://www.globalspec.com/Help/TermsOfUse" class="footer-fineprint" onclick="this.target='_blank';">Terms&nbsp;of&nbsp;Use</a></li>			
-		</ul>
-		<ul>
-			<li><a href="http://www.globalspec.com/electronics/media-kit">Electronics Industry Media Kit</a></li>
-			<li><a href="http://www.globalspec.com/AboutUs" rel="nofollow" onclick="this.target='_blank';">About&nbsp;GlobalSpec</a></li>
-			<li><a href="http://www.globalspec.com/Help/Privacy" class="footer-fineprint">Privacy&nbsp;Policy</a></li>
-			<li class="noborder"><a href="http://www.globalspec.com/Help/Cookies" class="footer-fineprint">How We Use Cookies</a></li>
-		</ul>
-		
-
-	©1999-2013 GlobalSpec.&nbsp; All rights reserved.&nbsp; GlobalSpec, the GlobalSpec logo, SpecSearch, The Engineering Search Engine and The Engineering<br>
-	Web are registered trademarks of GlobalSpec, Inc. DesignInfo is a service mark of GlobalSpec, Inc.<br>
-	No portion of this site may be copied, retransmitted, reposted, duplicated or otherwise used<br>
-	without the express written permission of GlobalSpec Inc.
+		<div class="span-7 first-border ">
+			<div id="first-column">
+				<ul>
+					<li><a href="http://www.globalspec.com/">Home</a></li>
+					<li><a href="http://www.globalspec.com/AboutUs" rel="nofollow" onclick="this.target='_blank';">About GlobalSpec</a></li>
+					<li><a href="http://www.globalspec.com/advertising">Advertise With Us</a></li>
+					<li><a href="http://www.globalspec.com/Help/Cookies" rel="nofollow">How We Use Cookies</a></li>
+					</ul></div>
+				
+		</div>
+		<div class="span-5 column">
+			<div>
+				Follow GlobalSpec<br>
+				
+<a href="http://www.twitter.com/#!/IHSGlobalSpec" target="_blank">
+	<div class="social-tw"></div>
+</a>
+<a href="http://www.facebook.com/GlobalSpecInc" target="_blank">
+	<div class="social-fb"></div>
+</a>
+			</div>
+		</div>
+		<div class="span-5 column">
+			<div>
+				<ul>
+					<li><a href="http://www.globalspec.com/SiteMap">Site Map</a></li>
+					<li><a href="http://www.globalspec.com/SiteMap/Directory/">Top Categories</a></li>
+					<li class="noborder"><a href="http://www.globalspec.com/Help/TermsOfUse" rel="nofollow" onclick="this.target='_blank';">Terms of Use</a></li>
+					<li><a href="http://www.globalspec.com/Help/Privacy" rel="nofollow">Privacy Policy</a></li>
+				</ul>
+			</div>
+		</div>
 	
-	
-	
-	&nbsp; 30 Tech Valley Dr Suite 102, East Greenbush, NY 12061
-
-<div>
-	<img src="/pix/footer/ihs_logo_footer.png">
+<div class="span-22 last legal">
+	<div class="legalContent">
+		©1999-2014 GlobalSpec. All rights reserved. GlobalSpec, the GlobalSpec logo, SpecSearch, The Engineering Search Engine and The Engineering 
+					Web are registered trademarks of GlobalSpec, Inc. DesignInfo is a service mark of GlobalSpec, Inc.<br>
+					No portion of this site may be copied, retransmitted, reposted, duplicated or otherwise used without the express written permission of GlobalSpec Inc.&nbsp;&nbsp;&nbsp;30 Tech Valley Dr Suite 102, East Greenbush, NY 12061
+	</div>
 </div>
+<div id="footer-logo">
+	<img src="/pix/footer/ihs_logo_footer.png">
 </div>
 
 			<script type="text/javascript">var s_account="globspecprod15"</script>
-			<script src="http://www.globalspec.com/js/bundle/gs-standard-bundle-723ea514344a2b5b394eb4e1cb201f83-min.js" type="text/javascript"></script>
+			<script src="http://www.globalspec.com/js/bundle/gs-standard-bundle-a20df19ed95ef985e682fd1e0e1ddcfc-min.js" type="text/javascript"></script>
 
 	
 	
@@ -560,8 +500,8 @@ Additional Giveaway Rules and Disclaimers apply for registrants attending Global
 			<script language="JavaScript" type="text/javascript"><!--	
 			
 			s.pageName="/help/privacy" 		
-			s.server="V-VWC2PGLSWB02"		
-			s.channel="globalspec:electronics"			
+			s.server="V-VWC2PGLSWB04"		
+			s.channel="globalspec"			
 			s.pageType=""
 			s.prop1=""
 			s.prop2=""				
@@ -578,7 +518,13 @@ Additional Giveaway Rules and Disclaimers apply for registrants attending Global
 			s.campaign=""
 			s.state=""
 			s.zip=""
-			s.events=""
+			
+			if((typeof s.events !== "undefined") && (s.events)){
+				s.events=s.events + "," + ""
+			} else {
+				s.events=""
+			}
+						
 			s.products=""
 			s.purchaseID=""
 			s.eVar1=""
@@ -596,7 +542,9 @@ Additional Giveaway Rules and Disclaimers apply for registrants attending Global
 			//--></script><noscript><img src="http://globalspec.d2.sc.omtrdc.net/b/ss/globspecprod15/1/H.25.4--NS/0"
 			height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 			<!-- End SiteCatalyst code version: H.25.4. -->
-			</div> <!-- end footer content  -->
+			
+<span id="page-info" data-id="1127493904" data-server="www.globalspec.com">
+</span></div> <!-- end footer content  -->
 			</div> <!-- end footer wrapper -->
 		 
 	
