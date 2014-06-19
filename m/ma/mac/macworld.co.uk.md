@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macworld.co.uk privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212084202id_/http%3A//www.idg.co.uk/terms-and-conditions/index.cfm%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macworld.co.uk privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619212126id_/http%3A//www.idg.co.uk/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
 
 # T&C | IDG UK
 
