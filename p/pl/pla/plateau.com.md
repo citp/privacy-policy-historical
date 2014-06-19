@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the plateau.com privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207124914id_/http%3A//www.successfactors.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plateau.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619021320id_/http%3A//www.successfactors.com/en_us/company/privacy.html) for the most accurate reproduction.*
 
-# SuccessFactors Privacy Policy
+# Privacy Policy
 
-Last revision, effective as of December 7, 2011
+Last revision, effective as of June 5, 2014
 
 #### Introduction
 
-SuccessFactors, Inc. and its worldwide affiliates ("SuccessFactors") are committed to protecting the privacy of your personal information while using our Web site ([www.successfactors.com](http://www.successfactors.com/homepage.html)). SuccessFactors has therefore established this Web Privacy Policy Statement to assist you to understand how SuccessFactors collects and uses personally identifiable information if and when you use our Web site or provide information to us in connection with your visit. By using our Web site, you are agreeing to the collection and use of personal information in the manner described in this Privacy Statement.
+SuccessFactors, Inc. and its worldwide affiliates ("SuccessFactors") are committed to protecting the privacy of your personal information while using our Web site ([www.successfactors.com](http://www.successfactors.com/)). SuccessFactors has therefore established this Web Privacy Policy Statement to assist you to understand how SuccessFactors collects and uses personally identifiable information if and when you use our Web site or provide information to us in connection with your visit. By using our Web site, you are agreeing to the collection and use of personal information in the manner described in this Privacy Statement.
 
 #### Safe Harbor Certification
 
@@ -16,13 +16,13 @@ SuccessFactors is self-certified to the United States/European Union and United 
 
 SuccessFactors agrees to cooperate with the EU Data Protection Authorities and the Swiss Federal Data Protection, and to participate in the dispute resolution program provided by the European Data Protection Authorities Panel.
 
-If you have a complaint concerning SuccessFactors' Safe Harbor compliance, please contact [privacy@successfactors.com](mailto:privacy@successfactors.com). 
+If you have a complaint concerning SuccessFactors' Safe Harbor compliance, please contact [privacy@successfactors.com](mailto:privacy@successfactors.com).
 
 #### Web Site Data Collection Overview
 
 Our server software gathers in log files, general demographic information from all users of our Web site. For each visitor to the SuccessFactors Web site, our Web server automatically recognizes the visitor's domain name, browser type, operating system, referring domains, entry page, exit page, and average time on the Web site. This information is used for internal purposes only, to help us improve our Web site and better understand our visitors' needs.
 
-We currently contract with several online partners to help manage and optimize our Internet business and communications. We use the services of marketing companies to help us collect and/or log Internet Protocol addresses, Internet domain names, the web browser and operating system used to access the SuccessFactors Web site, the files visited, the time spent in each file, and the time and date of each visit. We use Web beacons and cookies provided by our marketing companies. Cookies are identifiers that can be sent from a Web site via your browser to be placed on your computer's hard drive. Thereafter when you visit a Web site, a message is sent back to the Web server by the browser accessing the Web site. You may elect not to accept cookies by changing the designated settings on your Web browser. However, not utilizing cookies may prevent you from using certain functions and features of our Web site. The information collected from the use of cookies is used and analyzed to improve our Web site. We use cookies to personalize the experience of our visitors, provide support to customers, record visitor preferences, provide personalized and specialized content, record session information, track visitor clickstream behavior throughout the Web site, and customize site content based on your browser type, operating system, and preferences. By gathering such information to supplement our records, we learn things like what pages are most attractive to our visitors, which of our products most interest our customers, and what kinds of offers our customers like to see. Although our marketing companies log the information coming from our site on our behalf, we control how that data may and may not be used. If you do not want to help us learn how to improve our site, products, offers and marketing strategy, you can opt-out of this Web site analysis tool by disabling your cookies. If you disable your cookies, you may still use our Web site; however, you may not be able to access certain areas within it.
+We currently contract with several online partners to help manage and optimize our Internet business and communications. We use the services of marketing companies to help us collect and/or log Internet Protocol addresses, Internet domain names, the web browser and operating system used to access the SuccessFactors Web site, the files visited, the time spent in each file, and the time and date of each visit. We use Web beacons and cookies provided by our marketing companies. Cookies are identifiers that can be sent from a Web site via your browser to be placed on your computer's hard drive. Thereafter when you visit a Web site, a message is sent back to the Web server by the browser accessing the Web site. Your browser may allow you to set a “Do not track” preference, which tells websites you visit that you do not want these messages to be submitted. Our website does not honor “Do not track” requests, but you may elect not to accept cookies by changing the designated settings on your Web browser. However, not utilizing cookies may prevent you from using certain functions and features of our Web site. The information collected from the use of cookies is used and analyzed to improve our Web site. We use cookies to personalize the experience of our visitors, provide support to customers, record visitor preferences, provide personalized and specialized content, record session information, track visitor clickstream behavior throughout the Web site, and customize site content based on your browser type, operating system, and preferences. By gathering such information to supplement our records, we learn things like what pages are most attractive to our visitors, which of our products most interest our customers, and what kinds of offers our customers like to see. Although our marketing companies log the information coming from our site on our behalf, we control how that data may and may not be used. If you do not want to help us learn how to improve our site, products, offers and marketing strategy, you can opt-out of this Web site analysis tool by disabling your cookies. If you disable your cookies, you may still use our Web site; however, you may not be able to access certain areas within it.
 
 If you choose to receive company or product information, you will need to complete our online request forms. The online forms provide site visitors with an opportunity to request free product downloads and demos, view SuccessFactors white papers, register for free SuccessFactors online seminars, and enroll for various services. These forms require your name, company name, e-mail address, company address, phone number as well as other information to help us determine and respond to your needs related to the products and/or services requested. All information provided by the visitor is voluntary. We use this information to send updates about our company and our products and to contact you if requested or necessary. We also use the demographic information you provide on these forms in connection with studies and reports regarding our Web site, such as Web site usage patterns, in order to better understand the needs of visitors to our Web site. We will not, however, associate any personally identifiable information which you provide with the information in these studies and reports.
 
@@ -50,11 +50,13 @@ SuccessFactors may amend this Privacy Statement from time to time. If SuccessFac
 
 #### Choice/Opt-Out and Updating Information
 
-If you receive marketing or similar e-mail messages from us and wish to opt out of receiving such messages, you may simply follow the opt-out procedure specified in such e-mail. In addition, if you have registered on our site, you may opt out of receiving any future marketing or similar messages by unsubscribing here: [ http://www.successfactors.com/unsubscribe/](http://www.successfactors.com/unsubscribe/). You may also contact us by regular mail addressed to: SuccessFactors, Inc., Attn: Chief Information Officer, 1500 Fashion Island Blvd., Suite 300, San Mateo, CA 94404.
+If you receive marketing or similar e-mail messages from us and wish to opt out of receiving such messages, you may simply follow the opt-out procedure specified in such e-mail. In addition, if you have registered on our site, you may opt out of receiving any future marketing or similar messages by unsubscribing here: <http://www.successfactors.com/unsubscribe/>. You may also contact us by regular mail addressed to: SuccessFactors, Inc., Attn: Chief Information Officer, 1 Tower Place, Suite 1100 South San Francisco, CA 94080.
+
+Users of SuccessFactors Recruiting Marketing (RMK) may elect not to receive future communications. If you are a registered User, please open the email you received from RMK and click on the unsubscribe link. If you prefer to have your account removed permanently, please email your request to [removeme@jobs2web.com](mailto:removeme@jobs2web.com).
 
 #### DMCA Notice
 
-If you believe that your copyrighted work has been copied in a way that constitutes copyright infringement and is accessible via the SuccessFactors Web site or a hosted service provided by SuccessFactors, please notify SuccessFactors' copyright agent, in accordance with the Digital Millennium Copyright Act of 1998 ("DMCA"). For your complaint to be valid under the DMCA, you must provide the following information in writing: 
+If you believe that your copyrighted work has been copied in a way that constitutes copyright infringement and is accessible via the SuccessFactors Web site or a hosted service provided by SuccessFactors, please notify SuccessFactors' copyright agent, in accordance with the Digital Millennium Copyright Act of 1998 ("DMCA"). For your complaint to be valid under the DMCA, you must provide the following information in writing:
 
   1. An electronic or physical signature of a person authorized to act on behalf of the copyright owner;
   2. Identification of the copyrighted work that you claim has been infringed;
@@ -69,23 +71,23 @@ The above information must be submitted to the following DMCA Agent:
 
 DMCA Notice  
 SuccessFactors, Inc.  
-1500 Fashion Island Blvd., Suite 300, San Mateo, CA 94404  
+1 Tower Place, Suite 1100 South San Francisco, CA 94080  
 Attn: General Counsel
 
 Telephone: 650-645-2000  
 Fax: 650-645-2099  
-Email: [contracts@successfactors.com](mailto:contracts@successfactors.com), with “DMCA Notice” in the subject line 
+Email: [contracts@successfactors.com](mailto:contracts@successfactors.com), with “DMCA Notice” in the subject line
 
-Under federal law, if you knowingly misrepresent that online material is infringing, you may be subject to criminal prosecution for perjury and civil penalties, including monetary damages, court costs, and attorneys’ fees. 
+Under federal law, if you knowingly misrepresent that online material is infringing, you may be subject to criminal prosecution for perjury and civil penalties, including monetary damages, court costs, and attorneys’ fees.
 
-Please note that this procedure is exclusively for notifying SuccessFactors that your copyrighted material has been infringed. The preceding requirements are intended to comply with SuccessFactors' rights and obligations under the DMCA, including 17 U.S.C. §512(c), but do not constitute legal advice. It may be advisable to contact an attorney regarding your rights and obligations under the DMCA and other applicable laws. 
+Please note that this procedure is exclusively for notifying SuccessFactors that your copyrighted material has been infringed. The preceding requirements are intended to comply with SuccessFactors' rights and obligations under the DMCA, including 17 U.S.C. §512(c), but do not constitute legal advice. It may be advisable to contact an attorney regarding your rights and obligations under the DMCA and other applicable laws.
 
 #### Photography
 
-Any photography used on this website is prohibited for downloading, republication, retransmission, reproduction or other used as a stand alone file. 
+Any photography used on this website is prohibited for downloading, republication, retransmission, reproduction or other used as a stand alone file.
 
 #### Contacting Us
 
-If you have any questions about this Privacy Statement or this Web site, please contact us directly at: [privacy@successfactors.com](mailto:privacy@successfactors.com). 
+If you have any questions about this Privacy Statement or this Web site, please contact us directly at: [privacy@successfactors.com](mailto:privacy@successfactors.com).
 
-Written inquiries may be addressed to: SuccessFactors, Inc., Chief Information Officer, 1500 Fashion Island Blvd., Suite 300, San Mateo, CA 94404, United States.
+Written inquiries may be addressed to: SuccessFactors, Inc., Chief Information Officer, 1 Tower Place, Suite 1100, South San Francisco, CA 94080, United States
