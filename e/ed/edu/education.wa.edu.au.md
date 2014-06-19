@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the education.wa.edu.au privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527104952id_/http%3A//det.wa.edu.au/about/redirect/%3Foid%3DCategory-id-11691906) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the education.wa.edu.au privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619153554id_/http%3A//www.education.wa.edu.au/home/redirect%3Foid%3DMultiPartArticle-id-14709430) for the most accurate reproduction.*
 
-# The Department of Education - Privacy
+# Privacy - Public Education - The Department of Education
 
 The Western Australian Department of Education does not attempt to collect Personal Information* about you when you visit this website. You can generally visit this website without revealing Personal Information*, unless you choose to provide it. The information collected by the Western Australian Department of Education is dependant upon the actions undertaken when visiting the website.
 
@@ -33,4 +33,5 @@ Your email address will only be recorded if you choose to send a message. It wil
 
 If you are asked for any other Personal Information* you will be informed how it will be used if you choose to give it.
 
-_* The use of the term "Personal Information" in this privacy statement means any information from which your identity is apparent or can be reasonably ascertained_.
+* The use of the term "Personal Information" in this privacy statement means any information from which your identity is apparent or can be reasonably ascertained.  
+ 
