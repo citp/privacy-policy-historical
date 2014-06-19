@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cu-portland.edu privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215203643id_/http%3A//www.cu-portland.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cu-portland.edu privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619080614id_/http%3A//www.cu-portland.edu/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Concordia University
 
@@ -12,7 +12,7 @@ When you visit our website, we automatically collect certain information, such a
 
   * Domain, country, IP address
   * Browser, platform, resolution
-  * Entrance-Exit Pages, Referrals
+  * Entrance-Exit Pages, Pages Visited, Referrals
   * Date, Time
   * Search Terms and Search Engines
 
