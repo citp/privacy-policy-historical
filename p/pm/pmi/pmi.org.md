@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pmi.org privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219231624id_/http%3A//www.pmi.org/Home-PMI-Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pmi.org privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619165411id_/http%3A//www.pmi.org/Home-PMI-Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # PMI Privacy Policy | Project Management Institute
 
