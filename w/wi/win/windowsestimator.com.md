@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the windowsestimator.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209172241id_/http%3A//windowsestimator.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windowsestimator.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619203933id_/http%3A//windowsestimator.com/privacy) for the most accurate reproduction.*
 
 # Windowsestimator.Com Privacy Policy
 
@@ -36,7 +36,7 @@ Windowsestimator.Com will share information immediately with our partners, whom 
 
 ## Opting-Out Personally Identifiable Consumer Information
 
-You have the right to ask for information deletion at anytime from our database. You can email us at info@alsadeqoun.com, and we will delete your data from our servers completely.   
+You have the right to ask for information deletion at anytime from our database. You can email us at info@windowsestimators.com, and we will delete your data from our servers completely.   
 However, you need to communicate your opting-out request with the contractors who receive your quote request and our partner who matched you with those contractors. The partner will communicate with you directly and offers clear way to opt-out from their systems. 
 
 ## Our Commitment To Data Security
@@ -45,7 +45,7 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 
 ## How You Can Access Or Correct Your Information
 
-You can email us info@alsadeqoun.com including the correct information, and we will be happy to pass it to our partners to carry out the contractor-home owner matching process, and update it in our database systems. 
+You can email us info@windowsestimators.com including the correct information, and we will be happy to pass it to our partners to carry out the contractor-home owner matching process, and update it in our database systems. 
 
 ## Your Consent
 
@@ -53,10 +53,4 @@ By using Windowsestimator.Com, you consent to the terms of our Online Privacy Po
 
 ## Contact Us
 
-Should you have other questions or concerns about these privacy policies, please send us an email at info@alsadeqoun.com. Our mailing address is:   
-Husn Municipality Commercial Centre Bldg.  
-South Al-balqa Applied University (Al-husun campus)  
-Wasfi Al-Tall St  
-Al-husn City  
-Irbid, Jordan  
-
+Should you have other questions or concerns about these privacy policies, please send us an email at info@windowsestimators.com. 
