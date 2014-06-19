@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the genealogyarchives.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216143503id_/http%3A//www.archives.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genealogyarchives.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619201452id_/http%3A//www.archives.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Archives
 
-Archives.com ("Archives") operates this web site pursuant to agreements with Archives.com ("Archives"), and is powered by Archives. Both Archives and Archives recognize that you care how information about you is used and shared. We have created this Privacy Policy to let you know how we keep your information secure and when we might disclose or share your information. We also want to let you know how you can manage and control your personal information. The policies below are applicable to RecordsBase ("we", "us", or "our") and apply only to information gathered through this web site.
-
- **What This Privacy Policy Covers**
+**What This Privacy Policy Covers**
 
 This policy covers how Ancestry.com Operations Inc., operating the website Archives.com ("Website", "we", "us", "our") treats personal information that we collect and receive, including information related to your past use of the Website and/or our products or services. Personal information is information about you that is personally identifiable like your name, address, credit or debit card number, email address, or phone number, and that is not otherwise publicly available. This policy does not apply to the practices of companies that we do not own or control or to people that we do not employ or manage. 
 
@@ -60,7 +58,7 @@ We do not rent, sell, or share personal information about you with other people 
 
 We are a participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. This privacy statement covers the Website www.Archives.com. As this Website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices monitored for compliance by TRUSTe.
 
-If you have questions or concerns regarding this statement, you should first contact us at privacy.Archives@archives.com. If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint&url=http://www.archives.com). TRUSTe will then serve as a liaison with the site to resolve your concerns.
+If you have questions or concerns regarding this statement, you should first contact us at privacy@archives.com. If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint&url=http://www.archives.com). TRUSTe will then serve as a liaison with the site to resolve your concerns.
 
  **Changes to this Privacy Policy**
 
@@ -68,13 +66,13 @@ We may update this policy. We will notify you about significant changes in the w
 
 **How You Can Contact Us about Privacy Questions**
 
-If you have questions or concerns regarding this policy, you can contact us by emailing privacy.Archives@archives.com, calling 1-888-896-4442 or writing to us at Archives.com, Attn: Privacy Department, 360 W 4800 N, Provo, UT 84604. Archives.com maintains offices at 360 W 4800 N, Provo, UT 84604.
+If you have questions or concerns regarding this policy, you can contact us by emailing privacy@archives.com, calling 1-888-896-4442 or writing to us at Archives.com, Attn: Privacy Department, 360 W 4800 N, Provo, UT 84604. Archives.com maintains offices at 360 W 4800 N, Provo, UT 84604.
 
  **To Unsubscribe from Email Communications**
 
-If you would like to stop receiving newsletters and marketing message emails from Archives.com, please provide us with the email address you would like to unsubscribe by emailing privacy.Archives@archives.com or calling 1-888-896-4442. Please note that you may still receive account and billing notices from us, if applicable.
+If you would like to stop receiving newsletters and marketing message emails from Archives.com, please provide us with the email address you would like to unsubscribe by emailing privacy@archives.com or calling 1-888-896-4442. Please note that you may still receive account and billing notices from us, if applicable.
 
 Find your ancestors, discover new connections, and trace your family tree as far back as possible with Archives!   
 _Click the button below to try it for free!_
 
-[Start 7-Day Free Trial »](https://web.archive.org/web/20131216143503id_/http%3A//www.archives.com/GA.aspx?_act=checkoutOrg "7-day free trial")
+[Start 7-Day Free Trial »](https://web.archive.org/web/20140619201452id_/http%3A//www.archives.com/GA.aspx?_act=checkoutOrg "7-day free trial")
