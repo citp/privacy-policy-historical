@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domyownpestcontrol.com privacy policy that was archived on 2013-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130811095735id_/http%3A//www.domyownpestcontrol.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domyownpestcontrol.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619212803id_/http%3A//www.domyownpestcontrol.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - DoMyOwnPestControl.com
 
@@ -7,19 +7,19 @@
 
 ### Testimonial
 
-**04/10/2012**
+**11/11/2012**
 
-"I was very impressed with the website and suggested products after you add to the cart. I purchased a $57.00 sprayer that I would have forgotten about, an add on sale for you and a satisfied customer, can't beat that!"
+"I heard about a product available on another site but was highly surprised about the price. After a quick search I found DoMyOwnPestControl.com and found what I was looking for at a much lower price. It was very easy to order and I received my order in just a few days. Since then I have told everyon..."
 
-**Bryan**  
-Kiel, WI 
+**Brenda**  
+Mineola, TX 
 
 [More Testimonials](http://www.domyownpestcontrol.com/testimonials.php) »
 
   
 [](http://www.twitter.com/mypestcontrol)  
 [  
-](http://www.facebook.com/pages/Norcross-GA/DoMyOwnPestControlcom-Do-It-Yourself-Pest-Control/116954858273)[](http://www.youtube.com/user/DoMyOwnPestControl)[](http://blog.domyownpestcontrol.com/) | 
+](http://www.facebook.com/DoMyOwnPestControl)[](http://www.youtube.com/user/DoMyOwnPestControl)[](http://blog.domyownpestcontrol.com/) | 
 
 Privacy and Security  
 DoMyOwnPestControl.com is committed to your privacy
