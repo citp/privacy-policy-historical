@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adready.com privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128180207id_/http%3A//www.adready.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adready.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619104753id_/http%3A//www.adready.com/site/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - AdReady, A Division Of CPXi
+# AdReady – Privacy Policy
 
 ## Introduction
 
@@ -124,4 +124,4 @@ Attention: Privacy Officer
 2601 Elliott Ave, Suite 400A  
 Seattle, WA 98121
 
-Policy updated as of September 24, 2013 (The ‘effective date’)
+Policy updated as of September 24, 2013 (The ‘effective date’) 
