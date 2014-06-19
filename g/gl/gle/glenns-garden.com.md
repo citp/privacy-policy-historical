@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glenns-garden.com privacy policy that was archived on 2013-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130825041634id_/http%3A//www.glenns-garden.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glenns-garden.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619224835id_/http%3A//www.glenns-garden.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Glenns Garden Gardening Blog
 
