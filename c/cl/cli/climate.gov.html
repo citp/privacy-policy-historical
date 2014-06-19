@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the climate.gov privacy policy that was archived on 2013-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131220210021id_/http%3A//www.noaa.gov/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the climate.gov privacy policy that was archived on 2014-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140619183844id_/http%3A//www.noaa.gov/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/index.dwt" codeOutsideHTMLIsLocked="false" --><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -20,7 +20,7 @@ NOAA - National Oceanic and Atmospheric Administration - Privacy Policy
 <script type="text/javascript" src="/explore.js"></script>
 <script type="text/javascript" src="/loadEvents.js"></script>
 <script type="text/javascript" src="/includes/exit.js"></script>
-
+<script src="/scripts/jquery.min.js" type="text/javascript"></script>
 <!-- END FEEDS //-->
 <!-- InstanceBeginEditable name="head" -->
 <style type="text/css">
@@ -58,7 +58,94 @@ NOAA - National Oceanic and Atmospheric Administration - Privacy Policy
 			<a href="http://www.commerce.gov" id="headDOC" title="DOC Seal.  Click to visit the U.S. Department of Commerce Website."></a>
 			</div>
 			<!-- END HEADING TITLE //-->
-<!-- HEADER TITLE //-->
+
+			<!-- BEGIN FEEDBACK -->
+			<script type="text/javascript">
+
+$(document).ready(function(){
+  $(".feedback_button").click(function(){
+	document.cookie = "noaafeedback=true; expires=Thu, 31 Dec 2020 20:20:20 GMC";
+  });
+});
+
+$(document).ready(function(){
+  if (document.cookie.indexOf("noaafeedback") >= 0) {
+	
+	$(".feedback_tab").hide();							// HIDE feedback TAB
+	$(".feedback_box").hide();							// HIDE feedback BOX
+	$(".feedback_overlay").hide();						// HIDE feedback OVERLAY BACKGROUND
+	
+	//alert("The cookie exists!");
+  } else {
+
+var number = 1 + Math.floor(Math.random() * 20);			//CREATE RANDOM NUMBER
+
+	$(".feedback_box").hide();							// HIDE feedback BOX
+	$(".feedback_overlay").hide();						// HIDE feedback OVERLAY BACKGROUND
+
+	$('#storenumber').text(number); 					// SHOW NUMBER IN DIV
+		
+	if(number == 4) {									// IF NUMBER EQUALS 4
+		$(".feedback_box").fadeIn(300);					// THEN SHOW feedback TAB
+		$(".feedback_overlay").fadeIn(300);
+	} else {
+		$(".feedback_box").hide();						// OR ELSE HIDE feedback TAB
+		$(".feedback_overlay").hide();
+	} 
+	  
+  }
+});
+
+$(document).ready(function(){
+  $(".feedback_show").click(function(){					// CLICK TO SHOW feedback BOX
+	$(".feedback_box").fadeIn(300).show();
+	$(".feedback_overlay").fadeIn(300).show();
+  });
+});
+
+$(document).ready(function(){
+  $(".feedback_box .feedback_close").click(function(){	// CLICK CLOSE BUTTON TO HIDE feedback BOX AND OVERLAY BACKGROUND
+	$(".feedback_box").fadeOut(300).hide();
+	$(".feedback_overlay").fadeOut(300).hide();
+  });
+});
+
+$(document).ready(function(){
+  $(".feedback_overlay").click(function(){				// CLICK OVERLAY BACKGROUND TO HIDE feedback BOX
+	$(".feedback_box").fadeOut(300).hide();
+	$(".feedback_overlay").fadeOut(300).hide();
+  });
+});
+	
+	$(document).keyup(function(e) {
+
+		if (e.keyCode == 27) {
+			$(".feedback_box").fadeOut(300).hide();
+			$(".feedback_overlay").fadeOut(300).hide();		
+ 		}
+		
+	});
+
+</script>
+
+<div class="feedback_tab">
+	<a href="javascript:void(0);" class="feedback_show" title="Got feedback?">Got feedback?</a>
+</div>
+
+<div class="feedback_box" style="display: none;">
+    
+    <a href="javascript:void(0)" class="feedback_close" title="Close Window">
+        <img src="/images/button_close.png" height="30" width="30" border="0" alt="Close"></a>
+
+    <h1>We need your help!</h1>
+	<p>By giving us your feedback, you can help improve your www.NOAA.gov experience. This short, anonymous survey only takes just a few minutes to complete 11 questions. Thank you for your input!</p>
+
+	<a href="https://www8.nos.noaa.gov/survey/index.aspx?Location=ocea" class="feedback_button" title="Give my feedback">Give my feedback</a>
+    
+</div>
+    
+<div class="feedback_overlay" style="display: none;"></div>
+			<!-- END FEEDBACK --><!-- HEADER TITLE //-->
 				<!-- BEGIN MID NAVIGATION //-->
 		<div id="midBlock">
 			<ul id="midNavElements">
@@ -99,7 +186,7 @@ NOAA - National Oceanic and Atmospheric Administration - Privacy Policy
 					<li id="leftNavOpportunities"><a href="/opportunities.html">Working With Us</a></li>
 					<li id="leftNavMedia"><a href="/media.html">Media &amp; Constituents</a></li>
 					<li id="leftNavYourState"><a href="http://www.legislative.noaa.gov/NIYS/">NOAA In Your State</a></li>
-					<li><a href="http://www.noaanews.noaa.gov/stories2013/20130410_budget_statement.html">Budget Information</a></li>
+					<li><a href="http://www.corporateservices.noaa.gov/~nbo/">Budget Information</a></li>
   <li id="leftNavEmergency"><a href="http://www.homelandsecurity.noaa.gov">Emergency Information for NOAA Employees</a></li>
                     <li id="leftNavLast" onclick="window.location.href='http://www.nws.noaa.gov/com/weatherreadynation/'"><a href="http://www.nws.noaa.gov/com/weatherreadynation/" title="NOAA Weather Ready Nation">Weather-Ready Nation</a></li>
 
