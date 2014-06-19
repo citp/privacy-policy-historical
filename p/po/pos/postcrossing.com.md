@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the postcrossing.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207141602id_/http%3A//www.postcrossing.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postcrossing.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619134321id_/http%3A//www.postcrossing.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 #### Your personal information is important to us.
 
-The Postcrossing Project recognises the importance of your privacy and that you have the right to know how your personal information is collected and used. We know that providing your personal information is an act of trust and we take that seriously. 
+The Postcrossing Project recognizes the importance of your privacy and that you have the right to know how your personal information is collected and used. We know that providing your personal information is an act of trust and we take that seriously. 
 
 Unless you give us consent to do otherwise, we only collect and use your personal information as explained in this Privacy Policy. 
 
@@ -29,10 +29,6 @@ Please note that if you contact us, we may maintain a record of the history of t
 
 At any moment, you are free to stop using Postcrossing and, if you so wish, to [terminate your account](https://web.archive.org/terminate). 
 
-## Children under the age of 13
-
-Users under the age of 13 are only allowed to use Postcrossing when under the supervision of an adult and due consent of a parent or legal guardian. We believe children can learn a great deal with Postcrossing, but like with any other website, their online habits should be monitored closely by an adult. 
-
 ## Cookies
 
 [Cookies](http://en.wikipedia.org/wiki/HTTP_cookie) are pieces of data stored in a user's computer. Postcrossing uses cookies to store session information which is required for the normal functioning of the website. You can, at your discretion, delete the stored cookies from your computer. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you won't be able to login into your Postcrossing account and other functionalities of the website might not be available. 
@@ -47,13 +43,13 @@ This website uses [Google Analytics](http://www.google.com/analytics/), a web an
 
 Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. 
 
-You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above. 
+You may refuse the use of cookies by selecting the appropriate settings on your browser. Also, you can opt out of the tracking by using the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout). However, please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above. 
 
 Please check [Google Analytics Privacy Policy](http://www.google.com/analytics/learn/privacy.html) page to learn more about this service. 
 
 ## Facebook
 
-Postcrossing offers a Facebook app which allows you to easily publish to your Facebook account certain actions you do in Postcrossing (eg: sending or receiving a postcard). The publishing of these Postcrossing actions to Facebook is optional and always requires the explicit confirmation by you, the user. We do not publish any Postcrossing action to your Facebook account without your permission. Please check [Facebook's Privacy Policy](https://www.facebook.com/about/privacy/) page for more information about Facebook and Facebook apps. 
+Postcrossing offers a Facebook app which allows you to easily publish to your Facebook account certain actions you do in Postcrossing (e.g.: sending or receiving a postcard). The publishing of these Postcrossing actions to Facebook is optional and always requires the explicit confirmation by you, the user. We do not publish any Postcrossing action to your Facebook account without your permission. Please check [Facebook's Privacy Policy](https://www.facebook.com/about/privacy/) page for more information about Facebook and Facebook apps. 
 
 ## Updates
 
