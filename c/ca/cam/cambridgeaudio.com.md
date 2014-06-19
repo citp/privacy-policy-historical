@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cambridgeaudio.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208013531id_/http%3A//www.cambridgeaudio.com/pages/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cambridgeaudio.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620010402id_/http%3A//www.cambridgeaudio.com/pages/privacy-cookie-policy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy » Cambridge Audio
 
