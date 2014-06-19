@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the dealticker.com privacy policy that was archived on 2013-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131209034335id_/http%3A//www.dealticker.com/privacy_policy_en_263cms.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dealticker.com privacy policy that was archived on 2014-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140619154855id_/http%3A//www.dealticker.com/privacy_policy_en_263cms.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#"><head>
 <title>Privacy Policy</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge"><!-- gimme a shotgun! I see IE user! -->   
 <meta name="robots" content="all">
-
 
 <meta name="description" content="">
 <meta name="keywords" content=""><base href="http://www.dealticker.com/">
@@ -22,45 +22,6 @@
 <script type="text/javascript" src="http://www.dealticker.com/js/resolution.js"></script>
 <link href="http://www.dealticker.com/js/jquery/dropdown/dd.css" rel="stylesheet" type="text/css">
 <script type="text/javascript" src="http://www.dealticker.com/js/jquery/dropdown/jquery.dd.js"></script> 
-<script type="text/javascript"> 
-    $(function() {
-//        $("body").click(function() { 
-//            f_setCity(0);
-//            f_showLike(0)            
-//        });    
-    });
-
-    
-    function f_setCity(){
-       $('#city_list').slideToggle();
-    }
-
-    
-    function f_showLike(vl){
-       if (vl==1)
-            $("#bt_like").show();
-       else
-            $("#bt_like").hide();
-    }
-
-    function f_setClick(tp){
-        $.get("/lib/ajax/set_action.php",tp ,function(data){return true;});
-        return true;
-    } 
-    function f_body_block(v,z){
-           if (v=='1'){
-                z = z?z:900;
-                var w =  $(document).width();
-                var h =  $(document).height();
-                $('<div id="body_block" style="width:'+w+'px; height:'+h+'px; background:url(/images/jquery_tile.png); z-index:'+z+'; left:0px; top:0px;  position:absolute; "></div>').appendTo("body");
-           }else{
-                $("#body_block").each(function() { $(this).remove(); });
-           }
-    }    
-    
-       
-
-</script>
 
 
 <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
@@ -70,13 +31,6 @@
 
  <!-- External source --> 
 
-    <!-- ClickTale Top part -->
-    <script type="text/javascript">
-    var WRInitTime=(new Date()).getTime();
-    </script>
-    <!-- ClickTale end of Top part -->
-
-
  <!-- External source end --> 
 
 
@@ -84,22 +38,20 @@
 <div id="hat">
 	<div id="hat_inside">
 		<div id="hat_left">
-			<a href="http://www.dealticker.com/product.php?dtype=1"><img src="http://www.dealticker.com/images/logo_dealticker_ny_2.png" alt="" style="margin: 0 10px 10px -15px"></a>			
+			<a href="http://www.dealticker.com/product.php?dtype=1"><img src="http://www.dealticker.com/images/logo_dealticker.png" alt=""></a>			
 			<div class="city_block">
-			<a href="http://www.dealticker.com/product.php?city=Calgary"><div id="city_name">Calgary</div></a>				<div style="clear: both;"></div>
+			<a href="http://www.dealticker.com/product.php?city=Toronto"><div id="city_name">Toronto</div></a>				<div class="clr"></div>
 				<a onclick="f_setCity()" style="width: 80px;padding-right: 20px;">Change City</a>
-			</div>		
-		
+			</div>
 		</div>
-		<div id="hat_right">	
-
+		<div id="hat_right">
 						<div class="top_links">
-				<a href="javascript:void(f_ShoppingCart())" style="margin-left: 0;"><img src="http://www.dealticker.com/images/top_shop_cart.png" width="31" height="30" border="0" alt="" style="float: left; margin-top: -10px;">
+				<a href="javascript:void(f_ShoppingCart())" class="ml0"><img src="http://www.dealticker.com/images/top_shop_cart.png" width="31" height="30" class="fl" alt="" style="margin-top: -10px;">
                                </a>
-				<img src="http://www.dealticker.com/images/top_links_separator.png" width="2" height="24" border="0" alt="" style="margin: 3px 10px; float: left;">
+				<img src="http://www.dealticker.com/images/top_links_separator.png" width="2" height="24" alt="" class="fl ml10 mr10">
 				<a href="javascript:void(f_login(''))">Sign in</a>
-				<img src="http://www.dealticker.com/images/top_links_separator.png" width="2" height="24" border="0" alt="" style="margin: 3px 10px; float: left;">
-				<a href="javascript:void(f_register(''))" style="float: right;color: #f6aa1d">Register</a>
+				<img src="http://www.dealticker.com/images/top_links_separator.png" width="2" height="24" alt="" class="fl ml10 mr10">
+				<a href="javascript:void(f_register(''))" class="fr" style="color: #f6aa1d">Register</a>
 			</div>
 			<script type="text/javascript"> 
              			 function f_login(vl){
@@ -122,14 +74,14 @@
              }
 			</script>         
 			
-			<div style="clear: both;"></div>
+			<div class="clr"></div>
 		
 			<div class="get_deals" onclick="f_newsletter()">Get Deals by Email</div>
 					</div>
 	</div>
 </div>
 <!-- Hat -->
-<div style="clear: both;"></div>
+<div class="clr"></div>
 <div style="margin: auto; width: 980px;">
 	<div id="city_list" style="display:none;">
 	<div id="tabs">
@@ -139,7 +91,7 @@
         <img onclick="f_setCity(0)" src="/images/ui-icon-close.png" width="54" height="21" border="0" alt="Close" title="Close" class="close_img" style="float: right;cursor: pointer;">
 <div id="country38">
 		<div class="letter_list"><ul><li style="border-left: 0;"><a href="http://www.dealticker.com/product.php?city=National">National</a></li></ul></div>
-        <table cellpadding="0" cellspacing="0" width="100%" class="city_table"><tbody><tr><td valign="top" width="25%"><div>Alberta</div><a href="http://www.dealticker.com/product.php?city=Calgary" class="current">Calgary</a><a href="http://www.dealticker.com/product.php?city=Edmonton">Edmonton</a><div>British Columbia</div><a href="http://www.dealticker.com/product.php?city=Abbotsford">Abbotsford</a><a href="http://www.dealticker.com/product.php?city=Burnaby">Burnaby</a><a href="http://www.dealticker.com/product.php?city=Coquitlam">Coquitlam</a><a href="http://www.dealticker.com/product.php?city=Delta">Delta</a><a href="http://www.dealticker.com/product.php?city=Kelowna">Kelowna</a><a href="http://www.dealticker.com/product.php?city=New Westminster">New Westminster</a><a href="http://www.dealticker.com/product.php?city=North Shore">North Shore</a><a href="http://www.dealticker.com/product.php?city=Port Coquitlam">Port Coquitlam</a><a href="http://www.dealticker.com/product.php?city=Richmond">Richmond</a><a href="http://www.dealticker.com/product.php?city=Surrey">Surrey</a></td><td valign="top" width="25%"><a href="http://www.dealticker.com/product.php?city=Vancouver">Vancouver</a><a href="http://www.dealticker.com/product.php?city=Victoria">Victoria</a><div>Manitoba</div><a href="http://www.dealticker.com/product.php?city=Winnipeg">Winnipeg</a><div>New Brunswick</div><a href="http://www.dealticker.com/product.php?city=Fredericton  ">Fredericton  </a><a href="http://www.dealticker.com/product.php?city=Moncton">Moncton</a><a href="http://www.dealticker.com/product.php?city=Saint John">Saint John</a><div>Newfoundland and Labrador</div><a href="http://www.dealticker.com/product.php?city=St. Johns">St. Johns</a><div>Nova Scotia</div><a href="http://www.dealticker.com/product.php?city=Halifax">Halifax</a></td><td valign="top" width="25%"><div>Ontario</div><a href="http://www.dealticker.com/product.php?city=Barrie">Barrie</a><a href="http://www.dealticker.com/product.php?city=Brampton">Brampton</a><a href="http://www.dealticker.com/product.php?city=Durham">Durham</a><a href="http://www.dealticker.com/product.php?city=Guelph - Kitchener - Waterloo">Guelph - Kitchener - Waterloo</a><a href="http://www.dealticker.com/product.php?city=Halton Region">Halton Region</a><a href="http://www.dealticker.com/product.php?city=Hamilton">Hamilton</a><a href="http://www.dealticker.com/product.php?city=London">London</a><a href="http://www.dealticker.com/product.php?city=Mississauga">Mississauga</a><a href="http://www.dealticker.com/product.php?city=Oakville - Burlington">Oakville - Burlington</a><a href="http://www.dealticker.com/product.php?city=Ottawa">Ottawa</a><a href="http://www.dealticker.com/product.php?city=St Catharines - Niagara">St Catharines - Niagara</a><a href="http://www.dealticker.com/product.php?city=Sudbury">Sudbury</a><a href="http://www.dealticker.com/product.php?city=Toronto">Toronto</a><a href="http://www.dealticker.com/product.php?city=Windsor">Windsor</a></td><td valign="top"><a href="http://www.dealticker.com/product.php?city=York Region">York Region</a><div>Quebec</div><a href="http://www.dealticker.com/product.php?city=Laval">Laval</a><a href="http://www.dealticker.com/product.php?city=Montreal">Montreal</a><a href="http://www.dealticker.com/product.php?city=Quebec City">Quebec City</a><a href="http://www.dealticker.com/product.php?city=Saguenay">Saguenay</a><a href="http://www.dealticker.com/product.php?city=Sherbrooke">Sherbrooke</a><a href="http://www.dealticker.com/product.php?city=Terrebonne">Terrebonne</a><a href="http://www.dealticker.com/product.php?city=Trois-Rivieres">Trois-Rivieres</a><div>Saskatchewan</div><a href="http://www.dealticker.com/product.php?city=Regina">Regina</a><a href="http://www.dealticker.com/product.php?city=Saskatoon">Saskatoon</a></td></tr></tbody></table></div>    
+        <table cellpadding="0" cellspacing="0" width="100%" class="city_table"><tbody><tr><td valign="top" width="25%"><div>Alberta</div><a href="http://www.dealticker.com/product.php?city=Calgary">Calgary</a><a href="http://www.dealticker.com/product.php?city=Edmonton">Edmonton</a><div>British Columbia</div><a href="http://www.dealticker.com/product.php?city=Abbotsford">Abbotsford</a><a href="http://www.dealticker.com/product.php?city=Burnaby">Burnaby</a><a href="http://www.dealticker.com/product.php?city=Coquitlam">Coquitlam</a><a href="http://www.dealticker.com/product.php?city=Delta">Delta</a><a href="http://www.dealticker.com/product.php?city=Kelowna">Kelowna</a><a href="http://www.dealticker.com/product.php?city=New Westminster">New Westminster</a><a href="http://www.dealticker.com/product.php?city=North Shore">North Shore</a><a href="http://www.dealticker.com/product.php?city=Port Coquitlam">Port Coquitlam</a><a href="http://www.dealticker.com/product.php?city=Richmond">Richmond</a><a href="http://www.dealticker.com/product.php?city=Surrey">Surrey</a></td><td valign="top" width="25%"><a href="http://www.dealticker.com/product.php?city=Vancouver">Vancouver</a><a href="http://www.dealticker.com/product.php?city=Victoria">Victoria</a><div>Manitoba</div><a href="http://www.dealticker.com/product.php?city=Winnipeg">Winnipeg</a><div>New Brunswick</div><a href="http://www.dealticker.com/product.php?city=Fredericton  ">Fredericton  </a><a href="http://www.dealticker.com/product.php?city=Moncton">Moncton</a><a href="http://www.dealticker.com/product.php?city=Saint John">Saint John</a><div>Newfoundland and Labrador</div><a href="http://www.dealticker.com/product.php?city=St. Johns">St. Johns</a><div>Nova Scotia</div><a href="http://www.dealticker.com/product.php?city=Halifax">Halifax</a></td><td valign="top" width="25%"><div>Ontario</div><a href="http://www.dealticker.com/product.php?city=Barrie">Barrie</a><a href="http://www.dealticker.com/product.php?city=Brampton">Brampton</a><a href="http://www.dealticker.com/product.php?city=Durham">Durham</a><a href="http://www.dealticker.com/product.php?city=Guelph - Kitchener - Waterloo">Guelph - Kitchener - Waterloo</a><a href="http://www.dealticker.com/product.php?city=Halton Region">Halton Region</a><a href="http://www.dealticker.com/product.php?city=Hamilton">Hamilton</a><a href="http://www.dealticker.com/product.php?city=London">London</a><a href="http://www.dealticker.com/product.php?city=Mississauga">Mississauga</a><a href="http://www.dealticker.com/product.php?city=Oakville - Burlington">Oakville - Burlington</a><a href="http://www.dealticker.com/product.php?city=Ottawa">Ottawa</a><a href="http://www.dealticker.com/product.php?city=St Catharines - Niagara">St Catharines - Niagara</a><a href="http://www.dealticker.com/product.php?city=Sudbury">Sudbury</a><a href="http://www.dealticker.com/product.php?city=Toronto" class="current">Toronto</a><a href="http://www.dealticker.com/product.php?city=Windsor">Windsor</a></td><td valign="top"><a href="http://www.dealticker.com/product.php?city=York Region">York Region</a><div>Quebec</div><a href="http://www.dealticker.com/product.php?city=Laval">Laval</a><a href="http://www.dealticker.com/product.php?city=Montreal">Montreal</a><a href="http://www.dealticker.com/product.php?city=Quebec City">Quebec City</a><a href="http://www.dealticker.com/product.php?city=Saguenay">Saguenay</a><a href="http://www.dealticker.com/product.php?city=Sherbrooke">Sherbrooke</a><a href="http://www.dealticker.com/product.php?city=Terrebonne">Terrebonne</a><a href="http://www.dealticker.com/product.php?city=Trois-Rivieres">Trois-Rivieres</a><div>Saskatchewan</div><a href="http://www.dealticker.com/product.php?city=Regina">Regina</a><a href="http://www.dealticker.com/product.php?city=Saskatoon">Saskatoon</a></td></tr></tbody></table></div>    
     
 	    <div id="country226">
             <div class="letter_list"><ul><li style="border-left: 0;"><a href="http://www.dealticker.com/product.php?city=National USA">National USA</a></li>
@@ -658,7 +610,7 @@ function f_showLetter(v){
 
 </script>
 
-	<div id="div_newsletter" style="display:none;"><img onclick="f_newsletter()" src="http://www.dealticker.com/images/ui-icon-close.png" width="54" height="21" border="0" alt="Close" title="Close" style="float: right;cursor: pointer;margin-top: 30px;position: relative;">
+	<div id="div_newsletter" style="display:none;"><img onclick="f_newsletter()" src="http://www.dealticker.com/images/ui-icon-close.png" width="54" height="21" border="0" alt="Close" title="Close">
 		<iframe frameborder="0" width="980" height="330" id="if_newsletter" scrolling="no" src="" style="border: none;margin-top:-50px;"> </iframe>
 	</div>
 </div>
@@ -683,70 +635,70 @@ function f_showLetter(v){
 				<tbody><tr>
 				<td valign="top" width="6"><div class="menu_l"></div></td>
 				            	<!-- product_type-->
-										<td valign="top" width="2" align="center" class="menutop_separator"><img src="http://www.dealticker.com/images/menutop_separator.png" width="2" border="0" alt="" style="margin-top: 7px;"></td>
+										<td valign="top" width="2" align="center" class="menutop_separator"><img src="http://www.dealticker.com/images/menutop_separator.png" width="2" alt=""></td>
 		                <td valign="top" class="product_type" rel="1">
                             <a href="http://www.dealticker.com/product.php?dtype=1">
                             <div>                                 All Deals                            </div>
                             </a>
                         </td>
-										<td valign="top" width="2" align="center" class="menutop_separator"><img src="http://www.dealticker.com/images/menutop_separator.png" width="2" border="0" alt="" style="margin-top: 7px;"></td>
-		                <td valign="top" class="product_type" rel="19">
-                            <a href="http://www.dealticker.com/brand-list.php?dtype=19">
-                            <div>                                 DESIGNER SHOPS                            </div>
-                            </a>
-                        </td>
-										<td valign="top" width="2" align="center" class="menutop_separator"><img src="http://www.dealticker.com/images/menutop_separator.png" width="2" border="0" alt="" style="margin-top: 7px;"></td>
+										<td valign="top" width="2" align="center" class="menutop_separator"><img src="http://www.dealticker.com/images/menutop_separator.png" width="2" alt=""></td>
 		                <td valign="top" class="product_type" rel="8">
                             <a href="http://www.dealticker.com/product.php?dtype=8">
-                            <div>                                 Fashion                            </div>
+                            <div>                                 Fashion &amp; Jewelry                            </div>
                             </a>
                         </td>
-										<td valign="top" width="2" align="center" class="menutop_separator"><img src="http://www.dealticker.com/images/menutop_separator.png" width="2" border="0" alt="" style="margin-top: 7px;"></td>
+										<td valign="top" width="2" align="center" class="menutop_separator"><img src="http://www.dealticker.com/images/menutop_separator.png" width="2" alt=""></td>
 		                <td valign="top" class="product_type" rel="4">
                             <a href="http://www.dealticker.com/product.php?dtype=4">
                             <div>                                 Health &amp; Beauty                            </div>
                             </a>
                         </td>
-										<td valign="top" width="2" align="center" class="menutop_separator"><img src="http://www.dealticker.com/images/menutop_separator.png" width="2" border="0" alt="" style="margin-top: 7px;"></td>
+										<td valign="top" width="2" align="center" class="menutop_separator"><img src="http://www.dealticker.com/images/menutop_separator.png" width="2" alt=""></td>
+		                <td valign="top" class="product_type" rel="36">
+                            <a href="http://www.dealticker.com/product.php?dtype=36">
+                            <div>                                 Gifts                            </div>
+                            </a>
+                        </td>
+										<td valign="top" width="2" align="center" class="menutop_separator"><img src="http://www.dealticker.com/images/menutop_separator.png" width="2" alt=""></td>
 		                <td valign="top" class="product_type" rel="5">
                             <a href="http://www.dealticker.com/product.php?dtype=5">
                             <div>                                 Products                            </div>
                             </a>
                         </td>
-										<td valign="top" width="2" align="center" class="menutop_separator"><img src="http://www.dealticker.com/images/menutop_separator.png" width="2" border="0" alt="" style="margin-top: 7px;"></td>
+										<td valign="top" width="2" align="center" class="menutop_separator"><img src="http://www.dealticker.com/images/menutop_separator.png" width="2" alt=""></td>
 		                <td valign="top" class="product_type" rel="9">
                             <a href="http://www.dealticker.com/product.php?dtype=9">
                             <div>                                 Home                            </div>
                             </a>
                         </td>
-										<td valign="top" width="2" align="center" class="menutop_separator"><img src="http://www.dealticker.com/images/menutop_separator.png" width="2" border="0" alt="" style="margin-top: 7px;"></td>
+										<td valign="top" width="2" align="center" class="menutop_separator"><img src="http://www.dealticker.com/images/menutop_separator.png" width="2" alt=""></td>
+		                <td valign="top" class="product_type" rel="38">
+                            <a href="http://www.dealticker.com/product.php?dtype=38">
+                            <div>                                 Auto                            </div>
+                            </a>
+                        </td>
+										<td valign="top" width="2" align="center" class="menutop_separator"><img src="http://www.dealticker.com/images/menutop_separator.png" width="2" alt=""></td>
 		                <td valign="top" class="product_type" rel="3">
                             <a href="http://www.dealticker.com/product.php?dtype=3">
                             <div>                                 Kids &amp; Parents                            </div>
                             </a>
                         </td>
-										<td valign="top" width="2" align="center" class="menutop_separator"><img src="http://www.dealticker.com/images/menutop_separator.png" width="2" border="0" alt="" style="margin-top: 7px;"></td>
+										<td valign="top" width="2" align="center" class="menutop_separator"><img src="http://www.dealticker.com/images/menutop_separator.png" width="2" alt=""></td>
 		                <td valign="top" class="product_type" rel="24">
                             <a href="http://www.dealticker.com/product.php?dtype=24">
                             <div>                                 Electronics                            </div>
                             </a>
                         </td>
-										<td valign="top" width="2" align="center" class="menutop_separator"><img src="http://www.dealticker.com/images/menutop_separator.png" width="2" border="0" alt="" style="margin-top: 7px;"></td>
+										<td valign="top" width="2" align="center" class="menutop_separator"><img src="http://www.dealticker.com/images/menutop_separator.png" width="2" alt=""></td>
 		                <td valign="top" class="product_type" rel="17">
                             <a href="http://www.dealticker.com/product.php?dtype=17">
                             <div>                                 Free Shipping                            </div>
                             </a>
                         </td>
-										<td valign="top" width="2" align="center" class="menutop_separator"><img src="http://www.dealticker.com/images/menutop_separator.png" width="2" border="0" alt="" style="margin-top: 7px;"></td>
-		                <td valign="top" class="product_type" rel="31">
-                            <a href="http://www.dealticker.com/brand-list.php?dtype=31">
-                            <div><div class="icon_new" style="color:#0F0;">New</div>                                 Holiday Gift Room                            </div>
-                            </a>
-                        </td>
-										<td valign="top" width="2" align="center" class="menutop_separator"><img src="http://www.dealticker.com/images/menutop_separator.png" width="2" border="0" alt="" style="margin-top: 7px;"></td>
-		                <td valign="top" class="product_type" rel="32">
-                            <a href="http://www.dealticker.com/product.php?dtype=32">
-                            <div><div class="icon_new" style="color:#F00;">Sale</div>                                 CYBER WEEK                            </div>
+										<td valign="top" width="2" align="center" class="menutop_separator"><img src="http://www.dealticker.com/images/menutop_separator.png" width="2" alt=""></td>
+		                <td valign="top" class="product_type" rel="2">
+                            <a href="http://www.dealticker.com/product.php?dtype=2">
+                            <div>                                 Pets                            </div>
                             </a>
                         </td>
 					
@@ -776,40 +728,31 @@ function f_showLetter(v){
 		<!-- product_type-->  	
 	</div>
 	
-	<div style="clear: both;height: 15px;"></div>
-    	<table cellpadding="0" cellspacing="0" width="100%">
-		<tbody><tr>
-			<td>
-				<table cellpadding="0" cellspacing="0" width="100%">
-					<tbody><tr><td><a href="http://www.dealticker.com/brand-list.php?dtype=31"><img src="https://www.dealticker.com/UserFiles/Image/XmasBanner.png" alt="" width="980" height="130"></a></td></tr>
-</tbody></table></td></tr></tbody></table>   
+	<div class="clr"><br></div>
+       
 			
 	<!-- Content -->
 
 	<h1 align="center" id="title_text">Privacy Policy</h1><div class="content">
 		<div class="content_text">
-<p><strong style="color:#015299;font-size:14px">Last Updated on October 18, 2010</strong></p>
+<p><strong style="color: #015299; font-size: 14px;">Last Updated on October 18, 2010</strong></p>
 <p>We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how DealTicker collects information from all end users (“Users”) of DealTicker's Web site Services (the "Services"), what we do with the information we collect, and the choices Visitors and Customers have concerning the collection and use of such information. DealTicker requests that you read this Privacy Policy carefully.</p>
-<p><strong style="color:#015299;font-size:14px">Personal Information DealTicker Collects and How It Is Used</strong></p>
-<p><strong style="font-size:14px">Introduction.</strong> DealTicker collects information in different ways from users who access the various parts of our Services and the network of web sites accessible through our Service. We use this information primarily to provide a customized experience as you use our Services. We do not share this information with third parties. However, we may disclose personal information collected if we have received your permission beforehand or in very special circumstances, such as when we believe that such disclosure is required by law or other special cases described below.</p>
-<p><strong style="font-size:14px">Registration.</strong> Users are asked to provide certain personal information when they sign up for our Services including name, address, telephone number, email address, billing information (such as a credit card number). The personal information collected from users during the registration process is used to manage each individual’s account (such as those used for security and billing purposes). This information is not shared with third parties unless specifically stated otherwise or in special circumstances. DealTicker may also generate non-identifying and aggregate profiles from personal information Users provide during registration. No personally identifiable information will be disclosed to the public.). As explained in more detail below, we may use this aggregate and non-identifying information to further enhance our services.</p>
-<p><strong style="font-size:14px">Disclosure of Personal Information.</strong> It is DealTicker's policy not to use or share the personal information about its users. However, DealTicker may disclose personal information about Visitors or Customers, or information regarding your use of the Services or Web sites accessible through our Services, if you have expressly instructed us to do so or for any reason if, in our sole discretion, we believe that it is reasonable to do so, including: to satisfy laws, such as the Electronic Communications Privacy Act, regulations, or governmental or legal requests for such information; to disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating our Terms of Service or other user policies; to operate the Services properly; or to protect DealTicker and our Customers.</p>
-<p><strong style="font-size:14px">DealTicker Partners and Sponsors.</strong> Some DealTicker products and services are offered to users in conjunction with a non-affiliated partner or sponsor. To provide users some of these products and services, the partner may need to collect and maintain personal information. DealTicker will share non-identifying and aggregate information (except as described above), but not personal information, with such partners in order to administer the co-branded products or services offered.</p>
-<p><strong style="font-size:14px">Responses to Email Inquiries.</strong> When Visitors or Customers send email inquiries to DealTicker, the return email address is used to answer the email inquiry we receive. DealTicker does not use the return email address for any other purpose and does not share the return email address with any third party.</p>
+<p><strong style="color: #015299; font-size: 14px;">Personal Information DealTicker Collects and How It Is Used</strong></p>
+<p><strong style="font-size: 14px;">Introduction.</strong> DealTicker collects information in different ways from users who access the various parts of our Services and the network of web sites accessible through our Service. We use this information primarily to provide a customized experience as you use our Services. We do not share this information with third parties. However, we may disclose personal information collected if we have received your permission beforehand or in very special circumstances, such as when we believe that such disclosure is required by law or other special cases described below.</p>
+<p><strong style="font-size: 14px;">Registration.</strong> Users are asked to provide certain personal information when they sign up for our Services including name, address, telephone number, email address, billing information (such as a credit card number). The personal information collected from users during the registration process is used to manage each individual’s account (such as those used for security and billing purposes). This information is not shared with third parties unless specifically stated otherwise or in special circumstances. DealTicker may also generate non-identifying and aggregate profiles from personal information Users provide during registration. No personally identifiable information will be disclosed to the public.). As explained in more detail below, we may use this aggregate and non-identifying information to further enhance our services.</p>
+<p><strong style="font-size: 14px;">Disclosure of Personal Information.</strong> It is DealTicker's policy not to use or share the personal information about its users. However, DealTicker may disclose personal information about Visitors or Customers, or information regarding your use of the Services or Web sites accessible through our Services, if you have expressly instructed us to do so or for any reason if, in our sole discretion, we believe that it is reasonable to do so, including: to satisfy laws, such as the Electronic Communications Privacy Act, regulations, or governmental or legal requests for such information; to disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating our Terms of Service or other user policies; to operate the Services properly; or to protect DealTicker and our Customers.</p>
+<p><strong style="font-size: 14px;">DealTicker Partners and Sponsors.</strong> Some DealTicker products and services are offered to users in conjunction with a non-affiliated partner or sponsor. To provide users some of these products and services, the partner may need to collect and maintain personal information. DealTicker will share non-identifying and aggregate information (except as described above), but not personal information, with such partners in order to administer the co-branded products or services offered.</p>
+<p><strong style="font-size: 14px;">Responses to Email Inquiries.</strong> When Visitors or Customers send email inquiries to DealTicker, the return email address is used to answer the email inquiry we receive. DealTicker does not use the return email address for any other purpose and does not share the return email address with any third party.</p>
 <p>We may periodically conduct both business and user surveys. We encourage our users to participate in these surveys because they provide us with important information that helps us improve the types of services we offer and how we provide them to you. Your personal information and responses will remain strictly confidential, even if the survey is conducted by a third party. Participation in our customer surveys is voluntary.</p>
 <p>We take the information we receive from individuals responding to our Customer Surveys and aggregate it to create broad, generic responses to the survey questions (such as gender, age, residence, hobbies, education, employment, industry sector, or other demographic information). We then use the aggregate information to improve the quality of our services, and to develop new services and products. This aggregate non-personally identifying information may be shared with third parties.</p>
-<p><strong style="font-size:14px">"Cookies" and How DealTicker Uses Them.</strong> A "cookie" is a small data file that can be placed on your hard drive when you visit certain Web sites. DealTicker may use cookies to collect, store, and sometimes track information for statistical purposes to improve the products and services we provide and to manage our networks. If you are a Member (an individual who has an active profile on DealTicker.com and/or DealTicker.us), we will use a cookie to save your settings and to provide customizable and personalized services. These cookies do not enable third parties to access any of your customer information. Non-affiliated partner or sponsors may also use their own cookies. We do not control use of these cookies and expressly disclaim responsibility for information collected through them.</p>
+<p><strong style="font-size: 14px;">"Cookies" and How DealTicker Uses Them.</strong> A "cookie" is a small data file that can be placed on your hard drive when you visit certain Web sites. DealTicker may use cookies to collect, store, and sometimes track information for statistical purposes to improve the products and services we provide and to manage our networks. If you are a Member (an individual who has an active profile on DealTicker.com and/or DealTicker.us), we will use a cookie to save your settings and to provide customizable and personalized services. These cookies do not enable third parties to access any of your customer information. Non-affiliated partner or sponsors may also use their own cookies. We do not control use of these cookies and expressly disclaim responsibility for information collected through them.</p>
 <p>DealTicker recommends that children ask a parent for permission before sending personal information to DealTicker, or to anyone else online.</p>
 <p>Please remember that any information you may disclose in public areas of our web sites or the Internet becomes public information. You should exercise caution when deciding to disclose personal information in these public areas.</p>
-<p><strong style="font-size:14px">DealTicker's Commitment to Data Security.</strong> Services and web sites we sponsor or host have security measures in place to protect the loss, misuse, and alteration of the information under our control. While we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party "hackers" from illegally obtaining this information.</p>
-<p><strong style="color:#015299;font-size:14px">Where to Direct Questions About DealTicker’s Privacy Policy.</strong> </p>
-  <p>If you have any questions about this Privacy Policy or the practices described herein, you may contact: <a href="mailto:info@dealticker.com">info@dealticker.com</a>.</p>
-<p>
-  Customer Service<br>
-  DealTicker Inc.<br>
-  5000 Yonge St., Ste 1901<br>
-  Toronto ON M2N 7E9 </p></div>  		
-		<div style="clear: both;"></div>
+<p><strong style="font-size: 14px;">DealTicker's Commitment to Data Security.</strong> Services and web sites we sponsor or host have security measures in place to protect the loss, misuse, and alteration of the information under our control. While we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party "hackers" from illegally obtaining this information.</p>
+<p><strong style="color: #015299; font-size: 14px;">Where to Direct Questions About DealTicker’s Privacy Policy.</strong></p>
+<p>If you have any questions about this Privacy Policy or the practices described herein, you may contact: <a href="mailto:info@dealticker.com">info@dealticker.com</a>.</p>
+</div>		
+		<div class="clr"></div>
 		
 	</div>
 		
@@ -842,12 +785,12 @@ function f_showLetter(v){
 </tbody></table>		<table cellpadding="0" cellspacing="0" width="100%">
 			<tbody><tr><td class="border"><div style="position: relative; background: url('/UserFiles/Image/DealTicker_App_Banner2.png') no-repeat; height: 130px;"><a style="position: absolute; height: 44px; width: 140px; top: 13px; right: 17px; display: block;" href="https://itunes.apple.com/ca/app/dealticker/id551058655?mt=8&amp;ign-mpt=uo%3D2" target="_blank"><br></a> <a style="position: absolute; height: 44px; width: 140px; right: 17px; bottom: 13px; display: block;" href=" https://play.google.com/store/apps/details?id=com.dealticker&amp;hl=en" target="_blank"><br></a></div></td></tr>
 </tbody></table><div style="clear: both;"></div>
-	<div style="clear: both;"></div>
+	<div class="clr"></div>
 	<p id="back-top"><a href="#top"><span></span></a></p>
 
 </div>
 
-<div style="clear: both;height: 10px;"></div>
+<div class="clr"><br></div>
 
 <!-- Footer -->
 <div id="footer">
@@ -859,17 +802,16 @@ function f_showLetter(v){
                  </li><li class="sub_level"> <a href="http://www.dealticker.com/about_us_en_270cms.htm"><nobr>About Us</nobr></a>
                  </li><li class="sub_level"> <a href="http://www.dealticker.com/employment_en_292cms.htm"><nobr>Employment</nobr></a>
                  </li><li class="sub_level"> <a href="http://www.dealticker.com/contact_us_en_235cms.htm"><nobr>Contact Us</nobr></a>
-                 </li><li class="sub_level"> <a href="http://www.dealticker.com/news.php"><nobr>Press Releases</nobr></a>
                  </li></ul></div><div class="bottom_menu"><ul><li class="top_level"><nobr>Legal Commitment</nobr>
                  </li><li class="sub_level current"> <a href="http://www.dealticker.com/privacy_policy_en_263cms.htm"><nobr>Privacy Policy</nobr></a>
                  </li><li class="sub_level"> <a href="http://www.dealticker.com/terms_and_conditions_en_264cms.htm"><nobr>Terms and Conditions</nobr></a>
                  </li><li class="sub_level"> <a href="http://www.dealticker.com/refund_policy_en_265cms.htm"><nobr>Refund Policy</nobr></a>
                  </li><li class="sub_level"> <a href="http://www.dealticker.com/shipping_policy_en_266cms.htm"><nobr>Shipping Policy</nobr></a>
                  </li></ul></div><div class="bottom_menu"><ul><li class="top_level"><nobr>Partners</nobr>
-                 </li><li class="sub_level"> <a href="http://www.dealticker.com/for_businesses_en_273cms.htm"><nobr>For Businesses</nobr></a>
-                 </li><li class="sub_level"> <a href="http://www.dealticker.com/how_it_works_en_386cms.htm"><nobr>How It Works</nobr></a>
                  </li><li class="sub_level"> <a href="http://www.dealticker.com/affiliates_en_378cms.htm"><nobr>Affiliates</nobr></a>
                  </li><li class="sub_level"> <a href="http://www.dealticker.com/recent_deals.php"><nobr>Past Deals</nobr></a>
+                 </li><li class="sub_level"> <a href="http://www.dealticker.com/for_businesses_en_273cms.htm"><nobr>For Businesses</nobr></a>
+                 </li><li class="sub_level"> <a href="http://www.dealticker.com/how_it_works_en_386cms.htm"><nobr>How It Works</nobr></a>
                  </li><li class="sub_level"> <a href="http://www.dealticker.com/for_charity_en_379cms.htm"><nobr>For Charity</nobr></a>
                  </li><li class="sub_level"> <a href="http://www.dealticker.com/GIFT"><nobr>Gift Cards</nobr></a>
                  </li>
@@ -890,22 +832,15 @@ function f_showLetter(v){
 	});
 </script>						<div class="footer_block_left">
 				<div id="we_accept">
-					<span class="top_level">We Accept:</span><br><img src="/images/card-mastercard.gif" width="35" height="21" style="margin-right: 5px;"><img src="/images/card-visa.gif" width="35" height="21" style="margin-right: 5px;"><img src="/images/card-amex.gif" width="35" height="21">
+					<span class="top_level">We Accept:</span><br><img src="/images/card-mastercard.gif" width="35" height="21" class="mr5"><img src="/images/card-visa.gif" width="35" height="21" style="margin-right: 5px;"><img src="/images/card-amex.gif" width="35" height="21">
 				</div>
 				<div class="technical_issue">
-					<!--  SSL Certificate Sticker   --> 
-					<div title="Click to Verify - This site chose VeriSign SSL for secure e-commerce and confidential communications.">
-					<script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.dealticker.com&amp;size=S&amp;use_flash=YES&amp;use_transparent=YES&amp;lang=en"></script>
-					</div>
-					 <!-- SSL Certificate Sticker  -->
-					<a href="http://www.verisign.com/ssl-certificate/" target="_blank">ABOUT SSL CERTIFICATES</a>
-					<div style="clear: both; height: 6px;"></div>
-					<ul class="btn_orange"><li><input type="button" onclick="f_technical_issue()" id="technical_issue" value="Technical Issue" style="padding: 9px 10px 9px 6px;"></li></ul>
-					<script type="text/javascript">
-						function f_technical_issue(vl){
-							  showIboxContent("/index.php?id=340&popup=1", "Technical Issue", {"type":"3", "height":"650px", "width":"800px","modal":true}); 
-					}
-					</script>   
+					<table width="135" border="0" cellpadding="2" cellspacing="0" title="Click to Verify - This site chose Symantec SSL for secure e-commerce and confidential communications.">
+<tbody><tr>
+<td width="135" align="center" valign="top"><script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.dealticker.com&amp;size=L&amp;use_flash=YES&amp;use_transparent=YES&amp;lang=en"></script><br>
+<a href="http://www.symantec.com/verisign/ssl-certificates" target="_blank" style="color:#000000; text-decoration:none; font:bold 7px verdana,sans-serif; letter-spacing:.5px; text-align:center; margin:0px; padding:0px;">ABOUT SSL CERTIFICATES</a></td>
+</tr>
+</tbody></table>  
 				</div>
 			</div>
 
@@ -917,12 +852,12 @@ function f_showLetter(v){
 
 			<div id="follow_us">
 				<span>Follow Us On</span>
-				<a target="_blank" href="http://twitter.com/DealTickerCalgr"><img src="/images/follow_twitter.gif" width="22" height="21" border="0" alt=""></a>
-				<a target="_blank" href="http://www.facebook.com/pages/DealTicker-Calgary/156507057752807 "><img src="/images/follow_facebook.gif" width="22" height="21" border="0" alt=""></a>
-				<a href="http://www.dealticker.com/rss.php?city=Calgary"><img src="/images/follow_rss.gif" width="22" height="21" border="0" alt=""></a>
+				<a target="_blank" href="http://twitter.com/@DealTickerTO"><img src="/images/follow_twitter.gif" width="22" height="21" border="0" alt=""></a>
+				<a target="_blank" href="http://www.facebook.com/pages/DealTicker-Toronto/151306911613983"><img src="/images/follow_facebook.gif" width="22" height="21" border="0" alt=""></a>
+				<a href="http://www.dealticker.com/rss.php?city=Toronto"><img src="/images/follow_rss.gif" width="22" height="21" border="0" alt=""></a>
 			</div>
 
-			<div id="separator_bottom"><img src="http://www.dealticker.com/images/separator_bottom.png" width="947" height="1" border="0" alt=""></div>
+			<div id="separator_bottom"><img src="http://www.dealticker.com/images/separator_bottom.png" width="947" height="1" alt=""></div>
 		</div>	
 	</div>
 </div>
@@ -993,50 +928,12 @@ window.onload = function(){
 </script> 
 
 
-    <!-- ClickTale Bottom part -->
-    <div id="ClickTaleDiv" style="display: none;"></div>
-    <script type="text/javascript">
-    if(document.location.protocol!='https:')
-      document.write(unescape("%3Cscript%20src='http://s.clicktale.net/WRc3.js'%20type='text/javascript'%3E%3C/script%3E"));
-    </script>
-    <script type="text/javascript">
-    if(typeof ClickTale=='function') ClickTale(12281,0.3,"www03");
-    </script>
-    <!-- ClickTale end of Bottom part -->
-
-
  <!-- External source end --> 
 <script type="text/javascript">
 $(function(){
     setJavascript();
+    isMSIE();
 });
-
-
-//--- msie
-    var UA = navigator.userAgent.toLowerCase();
-    var is_msie =  UA.match(/msie/) ? true : false;
-    if(is_msie) {
-        var version = UA.match(/msie ([0-9\.]+)/)[1];
-        if (version<8){
-            var html = 
-              "<div style='border: 1px solid #F7941D; background: #FEEFDA; text-align: center; clear: both; height: 75px; position: fixed; z-index:99999; top:0px;left:0px'>"+
-                "<div style='position: absolute; right: 3px; top: 3px; font-family: courier new; font-weight: bold;'><a href='#' onclick='javascript:this.parentNode.parentNode.style.display=\"none\"; return false;'><img src='/images/browser_icon/close.jpg' style='border: none;' alt='Close this notice'/></a></div>"+
-                "<div style='width: 850px; margin: 0 auto; text-align: left; padding: 0; overflow: hidden; color: black;'>"+
-                  "<div style='width: 75px; float: left;'><img src='/images/browser_icon/warning.jpg' alt='Alert!'/></div>"+
-                  "<div style='width: 400px; float: left; font-family: Arial, sans-serif;'>"+
-                    "<div style='font-size: 14px; font-weight: bold; margin-top: 12px;'>Using a newer browser would enhance your overall experience with this website.</div>"+
-                    "<div style='font-size: 12px; margin-top: 6px; line-height: 12px;'>Some features might not work correctly with your current browser:<br/><b>Internet Exporer " + version + "</b></div>"+
-                  "</div>"+
-                  "<div style='width: 75px; float: left;'><a href='http://www.firefox.com' target='_blank'><img src='/images/browser_icon/firefox.png' style='border: none;' alt='Firefox'/></a></div>"+
-                  "<div style='width: 75px; float: left;'><a href='http://windows.microsoft.com/en-us/internet-explorer/download-ie' target='_blank'><img src='/images/browser_icon/ie.png' style='border: none;' alt='Internet Explorer 8'/></a></div>"+
-                  "<div style='width: 75px; float: left;'><a href='http://www.google.com/chrome' target='_blank'><img src='/images/browser_icon/chrome.png' style='border: none;' alt='Google Chrome'/></a></div>"+
-                  "<div style='width: 75px; float: left;'><a href='http://www.apple.com/safari/download/' target='_blank'><img src='/images/browser_icon/safari.png' style='border: none;' alt='Safari'/></a></div>"+
-                "</div>"+
-              "</div>";
-            $("body").prepend(html);
-        }
-    }
-
 
 </script>
 
