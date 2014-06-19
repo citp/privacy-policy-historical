@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greekrank.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219043843id_/http%3A//www.greekrank.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greekrank.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619175416id_/http%3A//www.greekrank.com/privacy) for the most accurate reproduction.*
 
 # Report a rating, review, shoutout, or discussion post - GreekRank.com
 
