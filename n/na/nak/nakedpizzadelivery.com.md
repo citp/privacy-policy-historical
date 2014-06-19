@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nakedpizzadelivery.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218020000id_/http%3A//www.nakedpizzadelivery.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nakedpizzadelivery.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619232036id_/http%3A//www.nakedpizzadelivery.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy NakedPizzaDelivery
 
