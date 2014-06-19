@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sports-reference.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204001850id_/http%3A//www.sports-reference.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sports-reference.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619193204id_/http%3A//www.sports-reference.com/privacy.shtml) for the most accurate reproduction.*
 
 # Sports-Reference.com Privacy Policy
 
@@ -33,7 +33,7 @@ Comments posted to any of our Web pages are public. All other notices sent to SR
          sf@sports-reference.com
     
 
-With respect to chat rooms, SRL does not, and is not obligated to, monitor or review any areas on the Site, or the content therein, where users transmit or post communications or communicate with each other regarding SRL or Content (see [Terms and Conditions](https://web.archive.org/web/20131204001850id_/http%3A//www.sports-reference.com/termsofuse.shtml)) on the Site, including but not limited to, communications in chat rooms, bulletin boards or other user forums. As such, SRL assumes no liability for the accuracy of such information, no duty to update or correct such information, and no liability for such communications arising under the laws of copyright, libel, privacy, obscenity, or otherwise. 
+With respect to chat rooms, SRL does not, and is not obligated to, monitor or review any areas on the Site, or the content therein, where users transmit or post communications or communicate with each other regarding SRL or Content (see [Terms and Conditions](https://web.archive.org/web/20140619193204id_/http%3A//www.sports-reference.com/termsofuse.shtml)) on the Site, including but not limited to, communications in chat rooms, bulletin boards or other user forums. As such, SRL assumes no liability for the accuracy of such information, no duty to update or correct such information, and no liability for such communications arising under the laws of copyright, libel, privacy, obscenity, or otherwise. 
 
 ## 4\. Use of Personal Data Collected
 
@@ -41,7 +41,7 @@ Personal data collected by SRL may be used by SRL for many reasons, for example,
 
 With respect to visitor e-mail addresses, we allow users to post their e-mail address on comments or in sponsorships, in the event that they wish to allow others to reach them easily. Visitor e-mail addresses from comments are not used by SRL to generate mailing lists. 
 
-SRL also may use Site visitor data to contact the Site visitors regarding account status and changes to the [Terms and Conditions](https://web.archive.org/web/20131204001850id_/http%3A//www.sports-reference.com/termsofuse.shtml), any subscriber agreement, this Privacy Statement, and any other policies or agreements relevant to Site visitors. 
+SRL also may use Site visitor data to contact the Site visitors regarding account status and changes to the [Terms and Conditions](https://web.archive.org/web/20140619193204id_/http%3A//www.sports-reference.com/termsofuse.shtml), any subscriber agreement, this Privacy Statement, and any other policies or agreements relevant to Site visitors. 
 
 ## 5\. Disclosure of Personal Data to Third Parties
 
