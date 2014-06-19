@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pottermore.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231064406id_/http%3A//www.pottermore.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pottermore.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619143956id_/https%3A//www.pottermore.com/en/privacy) for the most accurate reproduction.*
 
 # Pottermore: Privacy and Cookies Policy ("Privacy Policy")
 
@@ -276,4 +276,4 @@ This is not an address to which you should send enquiries or complaints about Po
 
 Last updated 23 February 2012
 
-Pottermore by J.K. Rowling
+Pottermore from J.K. Rowling
