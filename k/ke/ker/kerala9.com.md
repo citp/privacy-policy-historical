@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the kerala9.com privacy policy that was archived on 2013-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131009214942id_/http%3A//www.kerala9.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kerala9.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619183055id_/http%3A//www.kerala9.com/cms/privacy) for the most accurate reproduction.*
 
-# Untitled
+# Privacy :: kerala9
+
+[ Home ](http://www.kerala9.com/) » Privacy
+
+### Privacy
 
 Wow, you are interested. We hope the following information can help answer any questions you might have. And if you still want to know more, please drop us a line by clicking here.
 
@@ -40,8 +44,4 @@ We use third-party advertising companies to serve ads when you visit our website
 
 Third Party Cookies
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
-
-For personal non-commercial use only.
-
-**© 2009 Kerala9.com**
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
