@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the globalspec.com privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031182856id_/http%3A//www.globalspec.com/Help/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalspec.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619153746id_/http%3A//www.globalspec.com/Help/Privacy) for the most accurate reproduction.*
 
 # GlobalSpec - Privacy Policy
-
- 
 
 ### Introduction
 
@@ -121,4 +119,4 @@ GlobalSpec will investigate your complaint and respond to you promptly.
 
 ###  GlobalSpec Events Giveaways: 
 
-Additional Giveaway Rules and Disclaimers apply for registrants attending GlobalSpec Events. See [Prize Rules](https://web.archive.org/web/20131031182856id_/http%3A//www.globalspec.com/Help/Privacy?type=prize). 
+Additional Giveaway Rules and Disclaimers apply for registrants attending GlobalSpec Events. See [Prize Rules](https://web.archive.org/web/20140619153746id_/http%3A//www.globalspec.com/Help/Privacy?type=prize). 
