@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mathsteacher.com.au privacy policy that was archived on 2013-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131009222219id_/http%3A//www.mathsteacher.com.au/our_policies.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mathsteacher.com.au privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619212210id_/http%3A//www.mathsteacher.com.au/our_policies.htm) for the most accurate reproduction.*
 
 # Our Policies
 
@@ -37,7 +37,7 @@ AUSTRALIA
 
 Visitors to the mathsteacher Websites may provide mathsteacher.com Pty Ltd with feedback through feedback forms.  When providing such feedback, we require basic contact details including your name, email address and whether you are a teacher, parent, student, retailer or someone else.  We may contact you to further clarify your feedback.  mathsteacher.com Pty Ltd may aggregate the feedback information for internal use to analyse the broad viewpoints of the mathsteacher Websites' visitors.  mathsteacher.com Pty Ltd will not share any feedback information with third parties that could be used to identify individual users of the mathsteacher Websites.
 
-If you wish to provide mathsteacher.com Pty Ltd with feedback, you must read the [terms and conditions of use](https://web.archive.org/web/20131009222219id_/http%3A//www.mathsteacher.com.au/terms.htm) of the mathsteacher Websites and in particular, the sub-section relating to intellectual property rights of [feedback submissions](https://web.archive.org/web/20131009222219id_/http%3A//www.mathsteacher.com.au/terms.htm#Feedback%20Submissions).
+If you wish to provide mathsteacher.com Pty Ltd with feedback, you must read the [terms and conditions of use](https://web.archive.org/web/20140619212210id_/http%3A//www.mathsteacher.com.au/terms.htm) of the mathsteacher Websites and in particular, the sub-section relating to intellectual property rights of [feedback submissions](https://web.archive.org/web/20140619212210id_/http%3A//www.mathsteacher.com.au/terms.htm#Feedback%20Submissions).
 
 ###   
 Delivery Policy
@@ -57,7 +57,7 @@ Nonetheless, mathsteacher.com Pty Ltd will inform the person requesting the lice
 
 
 
-Please contact mathsteacher.com Pty Ltd using the [feedback form](https://www.mathsteacher.com/secure/feedback.shtml) or by calling the number/s listed on the [contact](https://web.archive.org/web/20131009222219id_/http%3A//www.mathsteacher.com.au/contact.htm) page if you are concerned about any delay in the delivery of the software.
+Please contact mathsteacher.com Pty Ltd using the [feedback form](https://www.mathsteacher.com/secure/feedback.shtml) or by calling the number/s listed on the [contact](https://web.archive.org/web/20140619212210id_/http%3A//www.mathsteacher.com.au/contact.htm) page if you are concerned about any delay in the delivery of the software.
 
 ###   
 Returns Policy
