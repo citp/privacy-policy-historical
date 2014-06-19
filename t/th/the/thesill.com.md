@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesill.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219021547id_/http%3A//www.thesill.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesill.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619180748id_/http%3A//www.thesill.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
