@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the starone.org privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625063549id_/https%3A//www.starone.org/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starone.org privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619172957id_/https%3A//www.starone.org/home/privacy) for the most accurate reproduction.*
 
-# Star One Credit Union - Privacy
+# Privacy - Star One Credit Union
 
-## STAR ONE CREDIT UNION 2012 - 2013 PRIVACY POLICY
+## Star One Credit Union Privacy Policy
 
 **FACTS** | 
 
@@ -115,7 +115,7 @@ No
 
 We don't share  
   
-**Questions?** | Call (866) 543-5202 or (408) 543-5202, send us an email at [service@starone.org](mailto:service@starone.org) or write to us at:  Star One Credit Union, PO Box 3643, Sunnyvale, CA 94088-3643  
+**Questions?** | Call (866) 543-5202 or (408) 543-5202, send us an email at [service@starone.org](mailto:service@starone.org) or write to us at: Star One Credit Union, PO Box 3643, Sunnyvale, CA 94088-3643  
   
 **What we do**  
   
@@ -195,6 +195,17 @@ A formal agreement between _Star One Credit Union and a_ nonaffiliated financial
   
 ---  
   
-**Protecting Children’s Private Information.**   Our online financial services are not designed for or directed toward children.  We do not knowingly solicit or collect data from children and we do not knowingly market to children online.  We recognize that protecting children’s identities and online privacy is important and that responsibility rests with us and with parents.
+**Protecting Children’s Private Information.** Our online financial services are not designed for or directed toward children. We do not knowingly solicit or collect data from children and we do not knowingly market to children online. We recognize that protecting children’s identities and online privacy is important and that responsibility rests with us and with parents.  
+ 
 
-**Privacy Policy Changes.** While we reserve the right to amend this Privacy Policy at anytime, you can always review the current version online [here](http://www.starone.org/home/privacy).
+**For California Residents** **.** In accordance with California law, the following Online Privacy section supplements the Privacy Policy of Star One Credit Union.
+
+When you visit our website or submit an online application, conduct an online transaction, use the FinanceWorks program or send us an e-mail, we may collect personal information about you. Your personal identifiable information may include: name, email address, social security number, account number, account information, transaction information, and credit information.
+
+We may share your personal identifiable information with 1) our third-party service providers and payment processor to facilitate your services or transactions, or 2) other financial companies with whom we have a joint marketing agreement.
+
+We do not maintain a separate online process for online viewers or users to review and request changes to the personal identifiable information we have collected.
+
+Certain web browsers offer a ‘Do Not Track’ (DNT) option that permits users to select a preference not to have information about web browsing activities monitored and collected. Our website will not honor DNT signals from you and we will not monitor or collect information of your browsing activity.  
+  
+**Privacy Policy Changes.** We reserve the right to amend this Privacy Policy at any time.
