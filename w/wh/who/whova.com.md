@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the whova.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219051438id_/http%3A//whova.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whova.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619023422id_/http%3A//whova.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ### Whova Privacy Policy
 
-Whova Inc provides Services through whova.com web pages, Whova browser extensions, and Whova apps to you subject to this Privacy Policy, its Terms of Use, and its other policies. Whova may change this Privacy Policy at any time. By continuing to access or use whova Services, you accept any changes or revisions to this Privacy Policy. 
+Whova Inc provides Services through whova.com web pages and Whova apps to you subject to this Privacy Policy, its Terms of Use, and its other policies. Whova may change this Privacy Policy at any time. By continuing to access or use whova Services, you accept any changes or revisions to this Privacy Policy. 
 
 #### IF YOU DO NOT AGREE TO THIS POLICY, DO NOT USE WHOVA
 
 #### 1\. Information Available in Whova Services
 
-Whova aggregates publicly available information from company web pages, university web pages, news pages, social network profiles, publication databases, patent databases, and other public sources (“Public Information”). This Public Information is available to public directly from those sources (even without Whova). Whova does not verify and cannot guarantee the accuracy of this Public Information. 
+Whova aggregates publicly available information from company web pages, university web pages, news pages, public social network profiles, publication databases, patent databases, and other public sources (“Public Information”). This Public Information is available to public directly from those sources (even without Whova). Whova does not verify and cannot guarantee the accuracy of this Public Information. For certain social network websites, such as linkedin.com, Whova will only get and show information if users provided corresponding login credentials. 
 
 #### 2\. Remove your information from Whova Services
 
