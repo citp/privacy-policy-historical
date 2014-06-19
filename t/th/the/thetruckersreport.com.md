@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetruckersreport.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109092502id_/http%3A//www.thetruckersreport.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetruckersreport.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619224830id_/http%3A//www.thetruckersreport.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -73,5 +73,3 @@ Consumers can access this information by e-mail us at the above address.
 With respect to security: When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server.
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
-
-By .
