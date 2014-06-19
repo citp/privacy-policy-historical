@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mu-sigma.com privacy policy that was archived on 2013-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131013222131id_/http%3A//www.mu-sigma.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mu-sigma.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619205311id_/http%3A//www.mu-sigma.com/privacy.html) for the most accurate reproduction.*
 
 # Mu Sigma - Privacy Policy
 
@@ -27,3 +27,5 @@ For the purposes of this Policy, "Personal Information" means data about an iden
 **Enforcement:** For any inquiries and complaints, the following person may be contacted: Chief Privacy Officer, [cpo@mu-sigma.com](mailto:cpo@mu-sigma.com), Tel +91 80 4054 9100, Fax +91 80 4113 3739. 
 
 All inquiries and complaints shall be looked into promptly and without charging any fee to the inquirer / complainant. Since the Company merely receives Personal Information from Clients and does not collect the Information itself, the Company shall keep informed and cooperate with the Client from whom the Information related to the inquiry / complaint was received. The Company shall also cooperate with the Data Protection authorities of the European Union in the investigation and resolution of complaints in relation to the treatment of Personal Information under this Policy. The Company will comply with any advice given by such authorities in relation to any complaint. 
+
+Mu Sigma complies with the Safe Harbor Framework(s) and has certified its adherence to the Safe Harbor Privacy Principles. To learn more about the Safe Harbor program, and to view Mu Sigma’s certification, please visit [http://www.export.gov/safeharbor/ ](http://www.export.gov/safeharbor/)
