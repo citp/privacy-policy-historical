@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the re-downloads.info privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228075801id_/http%3A//re-downloads.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the re-downloads.info privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619094624id_/http%3A//re-downloads.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Re-Downloads.info
 
@@ -31,4 +31,4 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. 
 
-**Search terms:** "imgsrc, imgsrc ru, ls magazine, reallola, pundai, papel de parede 3d em movimento, thithtoolwin, femjoy, bangla choti, ls models"
+**Search terms:** "imgsrc, imgsrc ru, ls magazine, reallola, pundai, papel de parede 3d em movimento, thithtoolwin, femjoy, bangla choti, imgsrc ru kids"
