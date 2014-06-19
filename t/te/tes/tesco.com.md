@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the tesco.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221022206id_/http%3A//www.tesco.com/help/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tesco.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619192955id_/http%3A//www.tesco.com/help/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy and Cookies Policy - Tesco.com
+
+We use cookies to give you the best possible experience on our site. By continuing to use the site you agree to our use of cookies. [Find out more](https://web.archive.org/web/20141212053534/http://www.tesco.com/help/privacy-and-cookies/). 
 
 Tesco.com ("the Website") is owned and operated by Tesco Stores Limited, part of the Tesco Group. This policy, together with our [Terms and Conditions](https://web.archive.org/help/terms-and-conditions/), explain how Tesco may use information we collect about you, as well as your rights over any personal information we hold about you. Please read this policy and our [Terms and Conditions](https://web.archive.org/help/terms-and-conditions/) carefully; by accessing the Website you confirm to have understood and agreed to them.
 
@@ -151,6 +153,4 @@ This policy replaces all previous versions and is correct as of May 2012. We res
 
 If you have any queries, please contact us at [online@tesco.co.uk](mailto:online@tesco.co.uk).
 
-back to top
-
-Last update: 1/5/12 Tesco.com © 2012
+Last update: 01/05/2012
