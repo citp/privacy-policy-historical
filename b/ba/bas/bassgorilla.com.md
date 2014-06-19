@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bassgorilla.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213222346id_/http%3A//bassgorilla.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bassgorilla.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619181107id_/http%3A//bassgorilla.com/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy - BassGorilla.com
 
 **What information do we collect?**
 
