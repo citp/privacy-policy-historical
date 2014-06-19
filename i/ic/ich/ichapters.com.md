@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the ichapters.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106231018id_/http%3A//www.cengage.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ichapters.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620000826id_/http%3A//www.cengage.com/privacy) for the most accurate reproduction.*
 
 # Cengage Learning - Learning solutions, training and educational publishing - Privacy Statement
 
-##  Privacy Statement
-
-Cengage Learning, Inc., and its subsidiaries and divisions, are committed to protecting the privacy and security of personal information entrusted to us on our websites. This privacy statement explains our online privacy practices. 
+Cengage Learning, and its subsidiaries and divisions, are committed to protecting the privacy and security of personal information entrusted to us on our websites. This privacy statement explains our online privacy practices. 
 
 * * *
 
 ####  Scope
 
-This privacy statement applies to the Cengage Learning, Inc. (Cengage Learning) website ([www.cengage.com](https://web.archive.org/)) and all Cengage Learning company and brand websites that link to it. Some Cengage Learning websites may have different privacy statements, so please read the privacy notice posted on each such website. For example, Cengage Learning has created a number of websites for the schools we serve, and those websites are subject to the school's own privacy policy. 
+This privacy statement applies to the Cengage Learning, website ([www.cengage.com](https://web.archive.org/)) and all Cengage Learning company and brand websites that link to it. Some Cengage Learning websites may have different privacy statements, so please read the privacy notice posted on each such website. For example, Cengage Learning has created a number of websites for the schools we serve, and those websites are subject to the school's own privacy policy. 
 
 Additionally, some Cengage Learning websites may provide direct links to various sponsor and marketing partner sites. This privacy statement does not describe the practices of our partners. Before disclosing personal information to any other company's website, you should also read the privacy statement associated with that site. 
 
@@ -42,11 +40,11 @@ If you purchase a product from us (such as a book or newsletter subscription), y
 
 ####  When We Disclose Personal Information
 
-We may also provide any contact information and professional information with our affiliates or, unless you tell us not to, with third parties. For example, like most publishers, we share our subscriber lists with selected business partners so that they may offer you products and services directly. Additionally, we may share any information with third parties as needed to fulfill your requests for information, products or services. 
+We may also share any contact information and professional information with our affiliates or, unless you tell us not to, with third parties. For example, like most publishers, we share our subscriber lists with selected business partners so that they may offer you products and services directly. Additionally, we may share any information with third parties as needed to fulfill your requests for information, products or services. 
 
-_If you do not want us to share your information with third parties for their own marketing, you can opt-out by deselecting the options to keep you informed about Cengage Learning products and services, or by contacting our Customer Service department by email at:[esales@cengage.com](mailto:esales@cengage.com) or phone at +1 800.354.9706 (M - F, 8:00 am - 6:00 pm ET) and requesting the desired change (e.g., opting in or out of faxes)._
+_If you do not want us to share your information with third parties for their own marketing, you can opt-out by deselecting the options to keep you informed about Cengage Learning products and services, or by contacting our Customer Service department by email at:[cengagebrain.support@cengage.com](mailto:cengagebrain.support@cengage.com) or phone at +1 800.354.9706 (M - F, 8:00 am - 6:00 pm ET) and requesting the desired change (e.g., opting in or out of faxes)._
 
-_You can also opt-out of receiving marketing emails from us and our partners at any time my following the opt-out instructions provided on every email._
+_You can also opt-out of receiving marketing emails from us and our partners at any time by following the opt-out instructions provided on every email._
 
 Please note that we may disclose any information as permitted or required by law, when necessary for health or safety purposes, or to protect our legal rights. For example, we may disclose information about you to our auditors or legal advisors or in response to a subpoena. We may also disclose information about you in connection with the transfer of assets of our businesses. 
 
@@ -94,7 +92,7 @@ This website may be operated in the United States. If you are located outside of
 
 ####  Changes to Our Policies
 
-This privacy notice is effective as of August 31, 2007. From time to time, we may use customer information for new, unanticipated uses not previously disclosed in this privacy statement. If we make a material change to this statement, we will post and highlight the policy changes, and we will also notify you via email and give you an opportunity to opt-out of the new data uses. 
+This privacy notice is effective as of May 13, 2013. From time to time, we may use customer information for new, unanticipated uses not previously disclosed in this privacy statement. If we make a material change to this statement, we will post and highlight the policy changes, and we will also notify you via email and give you an opportunity to opt-out of the new data uses. 
 
 * * *
 
@@ -112,14 +110,14 @@ or email us at: [corporatecommunications@cengage.com](mailto:corporatecommunicat
 
 * * *
 
-####  Privacy and Security Policy Regarding Social Security Numbers and Other Sensitive Personal information
+####  Privacy and Security Policy Regarding Sensitive Personal information
 
-Cengage Learning, Inc. and its United States and Canadian affiliates (collectively, "Cengage") collects Social Security numbers and other sensitive personal information in the ordinary course of its business. Cengage has implemented reasonable technical, physical and administrative safeguards to help protect the Social Security numbers and other sensitive personal information from unlawful use and unauthorized disclosure. All Cengage workers are required to follow these established safeguards, which include the following:
+Cengage Learning and its United States and Canadian affiliates (collectively, "Cengage") collect sensitive personal information in the ordinary course of its business. Cengage has implemented reasonable technical, physical and administrative safeguards to help protect sensitive personal information from unlawful use and unauthorized disclosure. All Cengage workers are required to follow these established safeguards, which include the following:
 
-  * Access to Social Security numbers and other sensitive personal information is limited to those workers and service providers who have a need to access the information to perform tasks for Cengage. Social Security numbers and other sensitive personal information are only disclosed to third parties in accordance with Cengage's established privacy and security policy.
-  * Cengage will only disclose Social Security numbers and other sensitive personal information (i) to those service providers, auditors, advisors and/or successors in interest who are legally or contractually obligated to protect them, or (ii) as required or permitted by law.
+  * Access to sensitive personal information is limited to those workers and service providers who have a need to access the information to perform tasks for Cengage. Sensitive personal information is only disclosed to third parties in accordance with Cengage's established privacy and security policy.
+  * Cengage will only disclose sensitive personal information (1) to those service providers, auditors, advisors and/or successors in interest who are legally or contractually obligated to protect them, or (2) as required or permitted by law.
 
 
 
-If you have any questions, please contact us at [Robert.hotaling@cengage.com](mailto:Robert.hotaling@cengage.com) or   
+If you have any questions, please contact us at [Robert.Hotaling@cengage.com](mailto:Robert.hotaling@cengage.com) or   
 +1 443.676.8808. 
