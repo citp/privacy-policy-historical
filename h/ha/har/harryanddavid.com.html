@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the harryanddavid.com privacy policy that was archived on 2013-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131213155701id_/http%3A//www.harryanddavid.com/h/view/custserv-security) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the harryanddavid.com privacy policy that was archived on 2014-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140619074415id_/http%3A//www.harryanddavid.com/h/view/custserv-security) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
         
-<!-- Response served Fri Dec 13 07:57:01 PST 2013
-     App Server: mpecdb7Cell01\WC_becprod5_node\WC_becprod5 --><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE10">
+<!-- Response served Thu Jun 19 00:44:14 PDT 2014
+     App Server: mpecdb7Cell01\WC_becprod2_node\WC_becprod2 --><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE10">
 
 <script type="text/javascript" async="" src="https://secure-cdn.mplxtms.com/s/MasterTMS.min.js#588"></script><script async="" type="text/javascript" src="//sec.levexis.com/clients/harryanddavid/3.js"></script><script type="text/javascript">
 var isMobile = false;
@@ -38,12 +38,11 @@ var isMobile = false;
 </script>
 
 <script type="text/javascript" src="/wcsstore/CommonAssets/javascript/Common.js"></script>
-<!-- START IMPORT: tagman.jsp -->
+<!-- START IMPORT: tagmanController.jspf --><!-- START IMPORT: tagman.jspf -->
 	<script type="text/javascript">
 		var tmEnabled = true;
 		dojo.require("bec.vendors.TagMan");
-		dojo.addOnLoad(function()
-		{
+		dojo.addOnLoad(function(){
 			new bec.vendors.TagMan();	
 		});
 	</script>
@@ -58,6 +57,7 @@ tmParams = {
 	productIds: '',
 	productNames: '',
 	productCategories: '',
+	productShipping: '',
 	taxes: '',
 	adjustedShipping: '',
 	itemNumbers: '',
@@ -66,9 +66,11 @@ tmParams = {
 	adjustedProductPrice: '',
 	prices: '',
 	orderNumber: '',
+	orderPaymentMethod: '',
 	nxjcsid: '',
 	smcid: '',
 	cid: '',
+	cjsid: '',
 	nxjstrde: '',
 	catPath: '',
 	isMobile: (typeof isMobile !== 'undefined' && isMobile === true) ? 'true' : '',
@@ -76,9 +78,13 @@ tmParams = {
 	pageType: '',
 	custCity: '',
 	custState: '',
+	custCountry: '',
 	site_type: 'BROWSER'
-	};
-</script><!--  BEGIN Partner Feed PartnerFeedSiteWideTagManHead -->
+};
+</script>
+<!--  BEGIN Partner Feed PartnerFeedSiteWideTagManHead -->
+<script type="text/javascript" src="//nexus.ensighten.com/harryanddavid/prod/Bootstrap.js"></script>
+
 	<!-- HD: TagMan -->
 	<script language="JavaScript" type="text/javascript">				
 		// client configurable parameters
@@ -145,7 +151,7 @@ tmParams = {
 		  })(document,'script');
 		}
 	</script>		
-<!--  END Partner Feed PartnerFeedSiteWideTagManHead --><!-- END IMPORT: tagman.jsp --><!--  BEGIN Partner Feed PartnerFeedSiteWideHeadTop --><!--  END Partner Feed PartnerFeedSiteWideHeadTop --><!-- BEGIN CoremetricsBase.jspf -->
+<!--  END Partner Feed PartnerFeedSiteWideTagManHead --><!-- END IMPORT: tagman.jspf --><!-- END IMPORT: tagmanController.jspf --><!--  BEGIN Partner Feed PartnerFeedSiteWideHeadTop --><!--  END Partner Feed PartnerFeedSiteWideHeadTop --><!-- BEGIN CoremetricsBase.jspf -->
 
 <script language="javascript1.1" src="//libs.coremetrics.com/eluminate.js" type="text/javascript"></script>
 <script language="javascript1.1" src="/wcsstore/CommonAssets/javascript/cmcustom.js" type="text/javascript"></script>
@@ -175,8 +181,14 @@ tmParams = {
 	dojo.addOnLoad(function() {
 		becCoremetrics = new bec.analytics.Coremetrics();		
 	});
-	
-	cmSetClientID("90047110",false,"1.harryanddavid.com","harryanddavid.com");
+	try
+	{
+		cmSetClientID("90047110",false,"1.harryanddavid.com","harryanddavid.com");
+	}
+	catch(e)
+	{
+		cmPassCoremetrics = 'OFF';
+	}
 //--></script>	
 <!-- END CoremetricsBase.jspf --><script type="text/javascript" src="/content/common/scripts/jquery-bec-all.js"></script>
 <script type="text/javascript" src="/content/common/scripts/csd.js"></script>
@@ -224,16 +236,16 @@ tmParams = {
 		});
 	</script>
 <!-- END: janrainconfig -->
-<script language="JavaScript" src="/wcsstore/CommonAssets/javascript/vendors/Tealeaf/tealeaf-w3c-hd.js" type="text/JavaScript"></script>
+<script language="JavaScript" src="/content/common/include/tealeaf/tealeaf-w3c-hd.js" type="text/JavaScript"></script>
 
 
 <script type="text/javascript">
 	var tlEnabled = true;
-</script><!--  BEGIN Content Spot espotHTMLHead --><meta name="p:domain_verify" content="544ff0d157df719f6012ce69b68a7180"><meta http-equiv="content-language" content="en-us"><!--  END Content Spot espotHTMLHead --><!--  BEGIN Partner Feed PartnerFeedSiteWideHead -->
+</script><!--  BEGIN Content Spot espotHTMLHead --><meta http-equiv="content-language" content="en-us"><meta name="p:domain_verify" content="544ff0d157df719f6012ce69b68a7180"><!--  END Content Spot espotHTMLHead --><!--  BEGIN Partner Feed PartnerFeedSiteWideHead -->
 <script type="text/javascript">
 dojo.addOnLoad(function(){try{
     /* _______________ can edit below this line _______________ */                              
-    janrain.settings.tokenUrl = 'https://www.harryanddavid.com/gifts/store/BECIntegratedLogon?catalogId=10002&langId=-1&storeId=10455';
+    janrain.settings.tokenUrl = 'http://www.harryanddavid.com/gifts/store/BECIntegratedLogon?catalogId=10002&langId=-1&storeId=10455';
    janrain.settings.type = 'embed';
     janrain.settings.appId = 'elifoagpijenakneekeo';
     janrain.settings.appUrl = 'https://jrlogin.harryanddavid.com';
@@ -320,8 +332,8 @@ function loadCQO()
 	<script type="text/javascript" charset="iso-8859-1" src="https://sales.liveperson.net/visitor/addons/deploy2.asp?site=76633839&amp;d_id=1&amp;default=simpleDeploy"></script><script src="/content/Hand/include/foresee/foresee-surveydef.js" type="text/javascript" id="foresee-surveydef"></script></head>
 	<body class=" linux js applewebkit applewebkit_537_36 applewebkit_537 headlesschrome headlesschrome_69_0_3494_0 headlesschrome_69 safari safari_537_36 safari_537">
 	<!-- Start Header.jsp -->
-<div id="container" class="">
-	<span data-dojo-type="bec/widget/Header" id="header">
+<div id="container">
+	<div data-dojo-type="bec/widget/Header" id="header">
 		<div id="header-bar" class="clearfix ">
 			<!-- Start TopUtilityLeft.jsp --><div id="header-bar-left" class="clearfix">
   <div id="header-bar-item-help" class="header-bar-item header-bar-item-first header-bar-menu" onclick="return true">
@@ -334,9 +346,9 @@ function loadCQO()
         <div id="lpChatHeaderButton"></div>
       </div> 
       <div class="header-bar-help-menu-item">
-        Call us any time<br>
+        Call us<br>
         <b>1-877-322-1200</b><br>
-        <!-- START hours --><!--Sun.&ndash;Sat. 5AM&ndash;10PM PST--><!-- END hours -->
+        <!-- START hours -->5AM–9PM PST Mon.–Fri.<br>6AM–8PM PST Sun. &amp; Sat.<!-- END hours -->
       </div>
       <a class="header-bar-help-menu-link" href="mailto:service@harryanddavid.com">Prefer email:<br><b>service@harryanddavid.com</b></a>
       <a class="header-bar-help-menu-link" href="/h/view/custserv-faq">Read our <b>FAQs</b></a>
@@ -357,7 +369,7 @@ function loadCQO()
       </form>
     </div>
   </div>
-  <div id="header-bar-item-email" class="header-bar-item header-bar-item-last header-bar-menu" onclick="return true">
+    <div id="header-bar-item-email" class="header-bar-item header-bar-item-last header-bar-menu" onclick="return true">
     <div id="header-bar-item-email-title" class="header-bar-menu-inner">
     	Email Sign Up <span class="icon icon-arrow-menu"></span>
     	<a href="email_signUp" name="emailSignUp" tabindex="-1" rel="nofollow"><img src="/content/common/images/spacer.gif"></a>
@@ -408,8 +420,8 @@ function loadCQO()
   </div>
 </div>
 <!-- End TopUtilityLeft.jsp --><!-- Start TopUtilityRight.jsp -->
-
 <div id="header-bar-right" class="clearfix">
+		
 	<a id="header-bar-item-giftlist" class="header-bar-item header-bar-item-first header-bar-link" href="https://www.harryanddavid.com/h/giftlist?giftlist=1">Your Gift History <span class="icon icon-arrow-emphasize"></span></a>						
 	
 	<a id="header-bar-item-track" class="header-bar-item header-bar-link" href="https://www.harryanddavid.com/h/orderstatus">Track your order <span class="icon icon-arrow-link"></span></a>
@@ -448,7 +460,7 @@ function loadCQO()
 <!-- End TopUtilityRight.jsp -->
 		</div>
 		<div id="header-main" class="clearfix">
-			<!-- START INCLUDE FILE: HeaderLogo.jsp -->
+			<!-- START INCLUDE FILE: HeaderLogo.jsp --> 
 <a id="header-main-logo" href="http://www.harryanddavid.com/"></a>
 <!-- END INCLUDE FILE: HeaderLogo.jsp -->
 			
@@ -456,18 +468,27 @@ function loadCQO()
 			  <!-- BEGIN: Espot [espotPromotionalHeaderBanner] -->
 			<div id="espotPromotionalHeaderBanner" class="genericESpot">
 				<div class="caption" style="display:none">[espotPromotionalHeaderBanner]</div>
-		<a href="http://www.harryanddavid.com/h/clickinfo?intv_id=225863&amp;mpe_id=133256&amp;evtype=CpgnClick&amp;storeId=10455&amp;catalogId=10002&amp;giftlist=1&amp;fromLink=true&amp;URL=http%3A%2F%2Fwww.harryanddavid.com%2Fgifts%2Fstore%2FBECGiftListItemDisplay%3FstoreId%3D10455%26catalogId%3D10002%26giftlist%3D1%26fromLink%3Dtrue"><img src="/content/Hand/images/espots/heading/giftHistory-headerBug.png"></a>
+		<a href="/gifts/store/BECGiftListItemDisplay?storeId=10455&amp;catalogId=10002&amp;giftlist=1&amp;fromLink=true"><img src="/content/Hand/images/espots/heading/giftHistory-headerBug.png"></a>
+		<div dojotype="bec/espot/ClickInfo" id="clickInfoespotPromotionalHeaderBanner_225863" espotid="espotPromotionalHeaderBanner" clickinfourl="http://www.harryanddavid.com/h/clickinfo?intv_id=225863&amp;mpe_id=133256&amp;evtype=CpgnClick">
+		</div>
+
+		
+			<script type="text/javascript">
+				dojoParse("clickInfoespotPromotionalHeaderBanner_225863", "bec/espot/ClickInfo");
+			</script>
+		
 		</div>	
 		<!-- END: Espot [espotPromotionalHeaderBanner] -->
 			</div>
 		
 			
-	<form id="header-main-search" name="header-main-search" method="get" action="http://www.harryanddavid.com/search/go?gf=1&amp;w=" enctype="x-www-form-urlencoded" onsubmit="bec.util.searchSLI.submit();return false;">
+	<form id="header-main-search" name="header-main-search" method="get" enctype="x-www-form-urlencoded" onsubmit="bec.util.searchSLI.submit();return false;">
 		<input type="hidden" name="storeId" value="10455">
 		<input type="hidden" name="catalogId" value="10002">
 		<input type="hidden" name="langId" value="-1">
-		<input type="hidden" name="ts" value="v4">
-		<input type="hidden" name="asug">
+		<input type="hidden" name="ts" id="ts" value="v4">
+		<input type="hidden" name="ta" id="ta" value="http://www.harryanddavid.com/search/go?gf=1&amp;w=">
+		<input type="hidden" name="asug" id="asug" value="">
 		<input type="hidden" name="sliItemsInCart" id="sliItemsInCart" value="">	
 		
 		<input type="text" name="w" id="sli_search_rac" class="search-input" autocapitalize="off" tabindex="0" placeholder="Keyword">
@@ -527,24 +548,43 @@ function loadCQO()
 <div class="separator last"></div></div>
 <script type="text/javascript">dojoParseNode("menu");</script>
 		
-	</span>
+	</div>
 	<script type="text/javascript">
 		dojoParse("header", "bec/widget/Header");
 	</script>	
 	
-	<div id="page" class="clearfix"><div class="strip-left"></div><div class="strip-right"></div> <!-- No espot named espotPromotionalBanner found. --><!-- No espot named espotCompanyBanner found. --><!-- BEGIN: Espot [espotHeaderBanner] -->
+	<div id="page" class="clearfix"><!-- No espot named espotPromotionalBanner found. --><!-- No espot named espotCompanyBanner found. --><!-- BEGIN: Espot [espotHeaderBanner] -->
 			<div id="espotHeaderBanner" class="genericESpot">
 				<div class="caption" style="display:none">[espotHeaderBanner]</div>
-		<a class="banner banner-30-70 banner-theme-sale-red clearfix" href="http://www.harryanddavid.com/h/clickinfo?intv_id=227870&amp;mpe_id=10013&amp;evtype=CpgnClick&amp;cm_sp=sitewide-_-bb-winterweekendevent&amp;URL=http%3A%2F%2Fwww.harryanddavid.com%2Fh%2Fgifts-on-sale%2Fgifts-with-free-shipping%3Fcm_sp%3Dsitewide-_-bb-winterweekendevent">
-  <div class="banner-30-70-leadin">Free Shipping</div>
-  <div class="banner-30-70-right">
-    <span class="banner-30-70-offer"></span>
-    <span class="banner-30-70-subtext" style="font-size:22px;">Send our best Christmas gifts with free standard shipping</span>
-    <span class="banner-30-70-action">▸</span>
-  </div>
-</a>
+		<a href="/h/gift-on-sale/gifts-with-free-shipping?cm_sp=sitewide-_-bb-_- summerfss" class="banner2PrimaryLink"><div class="banner2 banner2-red clickable"><div class="reinforcer  reinforcer-fixed">Summer<br>Savings</div><div class="detailsContainer"><div class="divider divider-pipe"></div><div class="details">Enjoy Free Standard Shipping on Select Items ▸</div></div></div></a>
+		<div dojotype="bec/espot/ClickInfo" id="clickInfoespotHeaderBanner_251986" espotid="espotHeaderBanner" clickinfourl="http://www.harryanddavid.com/h/clickinfo?intv_id=251986&amp;mpe_id=10013&amp;evtype=CpgnClick">
+		</div>
+
+		
+			<script type="text/javascript">
+				dojoParse("clickInfoespotHeaderBanner_251986", "bec/espot/ClickInfo");
+			</script>
+		
 		</div>	
-		<!-- END: Espot [espotHeaderBanner] --><!-- No espot named espotCookieFirstTime found. -->	
+		<!-- END: Espot [espotHeaderBanner] --><!-- BEGIN: Espot [espotCookieFirstTime] -->
+			<div id="espotCookieFirstTime" class="genericESpot">
+				<div class="caption" style="display:none">[espotCookieFirstTime]</div>
+		<script type="text/javascript">
+    dojo.addOnLoad(function() 
+    {
+    	areCookiesEnabled();
+    });
+</script>
+		<div dojotype="bec/espot/ClickInfo" id="clickInfoespotCookieFirstTime_224350" espotid="espotCookieFirstTime" clickinfourl="http://www.harryanddavid.com/h/clickinfo?intv_id=224350&amp;mpe_id=143904&amp;evtype=CpgnClick">
+		</div>
+
+		
+			<script type="text/javascript">
+				dojoParse("clickInfoespotCookieFirstTime_224350", "bec/espot/ClickInfo");
+			</script>
+		
+		</div>	
+		<!-- END: Espot [espotCookieFirstTime] -->	
 	<div id="cookieDetectionError" class="error" style="display:none;"></div>
 <!-- End Header.jsp -->
 		<div id="navigation">
@@ -572,7 +612,6 @@ function loadCQO()
   <div class="collapse">
     <a href="/h/storelocator" data-aliases="/h/storelocatorcontent">Store Locations</a>
     <a href="/h/view/moose-munch-for-troops">Moose Munch for the Troops</a>
-    <!-- <a href="/h/view/stores-tasting-events">Tasting Events</a> -->
     <a href="/h/view/stores-featured-recipes">Featured Recipes</a>
     <a href="/h/view/s-career">Retail Careers</a>
     <div class="collapse">
@@ -609,7 +648,7 @@ function loadCQO()
   <a class="top-level" href="/h/view/customerserv">Customer Service</a>
   <div class="collapse">
     <a href="/h/view/custserv-howto">How to Place An Order</a>
-    <a href="/h/view/custserv-ordhist">View Tracking History</a>
+    <a href="/h/view/custserv-ordhist">Order History/Order Tracking</a>
     <a href="/h/view/custserv-cutoff">Holiday Shipping Cut-Off Dates</a>
     <a href="/h/view/custserv-handling">Shipping and Processing</a>
     <a href="/h/view/custserv-arrival">Arrival Dates</a>
@@ -619,7 +658,7 @@ function loadCQO()
     <a href="/h/view/custserv-security">Privacy Policy</a>
     <a href="/h/view/custserv-termsofuse">Terms of Use</a>
     <a href="/h/view/CA-SB-657-Disclosure">CA SB 657 Disclosure</a>
-    <a href="/h/view/custserv-browser">Browser Requirements</a>
+    <a href="/h/view/custserv-browser">Browser Requirements.</a>
     <a href="/h/view/custserv-faq">Frequently Asked Questions - FAQs</a>
     <a href="/h/view/custserv-guarantee">Our Guarantee</a>
   </div>
@@ -761,7 +800,7 @@ function loadCQO()
         <p></p>
       
         <p>
-          Our toll-free customer service lines are available <!-- START hours -->5 AM - 10 PM PST, Sunday thru Saturday<!-- END hours --> (subject to change).
+          Our toll-free customer service lines are available <!-- START hours -->5AM–9PM PST Monday through Friday and 6AM–8PM PST Sunday &amp; Saturday<!-- END hours --> (subject to change).
         </p>
         <p>
           By providing personal information through this Website you explicitly agree to our collection and use of all
@@ -908,13 +947,15 @@ function loadCQO()
           or have access to all of our services.
         </p>
         <p>
-          We may use third-party service providers to serve ads on our behalf across the Internet and sometimes on
-          this Website. These companies may use information (not including your name, address, email address or
-          telephone number) about your visits to this and other Web sites in order to provide advertisements about
-          goods and services. This information is collected through the use of pixel tags or cookies. If you would
-          like more information about this practice and to know your choices about not having this information used
-          by these companies, you can visit
-          <a href="http://www.networkadvertising.org/">http://www.networkadvertising.org/</a>.
+          We currently do not employ technology that responds to “do-not-track” signals from your browser. We may use
+	      third-party service providers to serve ads on our behalf across the Internet and sometimes on this Website.
+	      These companies may collect information about your online activities over time and across different websites
+	      when you use our site and use such information (not including your name, address, email address or telephone
+	      number) about your visits to this and other Web sites in order to provide advertisements about goods and
+	      services. This information is collected through the use of pixel tags or cookies. If you would like more
+	      information about this practice and to know your choices about not having this information used by these
+	      companies, you can visit
+	      <a href="http://www.networkadvertising.org/">http://www.networkadvertising.org/</a>.
         </p>
       
         <a id="Changing"></a>
@@ -1028,14 +1069,9 @@ function loadCQO()
 			<div class="clear"></div>
 		<!-- Start Footer.jsp -->
 
-		<div class="banners cleafix">
-			<!-- No espot named espotFooterBanner1 found. -->
-					<div class="spacer"><img src="/content/common/images/spacer.gif"></div>
-				<!-- No espot named espotFooterBanner2 found. -->
-					<div class="spacer"><img src="/content/common/images/spacer.gif"></div>
-				<!-- No espot named espotFooterBanner3 found. -->
-			<div class="clear"></div>
-			<div class="banner">
+		<div class="banners">
+			<!-- No espot named espotFooterBanner1 found. --><!-- No espot named espotFooterBanner2 found. --><!-- No espot named espotFooterBanner3 found. -->
+			<div class="footerBanner">
 				<!-- No espot named espotFooterBanner found. -->
 			</div>
 		</div>
@@ -1076,7 +1112,6 @@ function loadCQO()
         <a href="http://www.harryanddavid.com/h/fruit-gift/fruit-and-cheese-gift-baskets">Fruit and Cheese Gifts</a><br>
         <a href="http://www.harryanddavid.com/h/chocolates-sweets-candy/chocolate-dipped-fruit">Chocolate Dipped Fruit</a><br>
         <a href="http://www.harryanddavid.com/h/chocolates-sweets-candy/chocolate-gifts">Chocolate Gifts</a><br>
-        <a href="http://www.harryanddavid.com/h/view/edible-fruit-gifts">Edible Fruit Gifts</a><br>
         <a href="http://www.harryanddavid.com/h/flowers-plants/flower-arrangements-bouquets">Fresh Cut Flowers</a><br>
         <a href="http://www.harryanddavid.com/h/fruit-gift/comice-pears">Royal Riviera Pears</a><br>
         <a href="http://www.harryanddavid.com/h/chocolates-sweets-candy/popcorn-gifts">Moose Munch Popcorn</a><br>
@@ -1085,7 +1120,6 @@ function loadCQO()
         
         <div class="heading">Shop Our Other Brands</div>
         <a href="http://www.wolfermans.com">Wolferman’s</a><br>
-        <a href="http://www.honeybell.com">Cushman’s</a>
       </div>
     </div>
     <div class="column-misc clearfix">
@@ -1174,22 +1208,30 @@ function loadCQO()
   <a class="guarantee footer-guarantee" href="http://www.harryanddavid.com/h/view/custserv-guarantee">
     Backed by the strongest guarantee in the business.
   </a>
-  <div class="footing clearfix">
-    <div class="device mobile">
+  <div class="footing">
+    <div class="mobile">
         <a href="#goMobileSite" onclick="goMobileSite();">
             <span class="icon icon-device-mobile"></span> Mobile Site <span class="icon icon-arrow-emphasize"></span>
         </a>
     </div>
-    <div class="device tablet">
-      <a href="http://t.harryanddavid.com/?cm_sp=Footer-_-TabletSiteLink-_-GoToTabletSite">
-        <span class="icon icon-device-tablet"></span> Tablet Site <span class="icon icon-arrow-emphasize"></span>
-      </a>
-    </div>
     <div class="secure">
       <a href="https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=www.harryanddavid.com&amp;lang=en" class="icon icon-secure"></a>
     </div>
-    <div class="copyright">
-      © 2013, Harry and David. All Rights Reserved.<br>
+    <div class="bizrate">
+    	<!-- BEGIN: Bizrate Medal (112x37 pixels) -->
+		<script type="text/javascript">var bizrate={small:"true"};</script>
+		<script src="//medals.bizrate.com/medals/js/662_medal.js" type="text/javascript"></script>
+		<div style="position:relative;z-index:1;width:112px;height:37px;">
+		<a style="bottom:0;right:0;display:block;position:absolute;width:50px;height:16px;z-index:2;text-decoration:none;background:#fff;filter:alpha(opacity=0);opacity: 0;" href="//www.bizrate.com/?rf=sur" title="Bizrate" target="_blank"></a>
+		<a class="br-button" href="//www.bizrate.com/ratings_guide/merchant_detail__mid--662.html?rf=sur" title="See Harry and David Reviews at Bizrate.com" target="_blank">
+		<img src="//medals.bizrate.com/medals/dynamic/small/662_medal.gif" width="112" height="37" border="0" alt="See Harry and David Reviews at Bizrate.com">
+		</a>
+		</div>
+		<!-- END: Bizrate Medal (112x37 pixels) -->
+    </div>
+    <div class="clear"></div>
+    <div id="copyright">© 2014, Harry and David. All Rights Reserved.</div>
+    <div id="legal">
       <a href="http://www.harryanddavid.com/h/view/custserv-termsofuse">Terms of Use</a> |
       <a href="http://www.harryanddavid.com/h/view/custserv-security">Privacy Policy</a> |
       <a href="http://www.harryanddavid.com/h/sitemap">Site Map</a>
@@ -1227,6 +1269,11 @@ function loadCQO()
 			// Product page
 			else if(typeof cmProductPage != "undefined" && cmProductPage == 'Yes')
 			{					
+				//SLI Rich Auto Suggest tagging
+				var isSuggestedProduct = cmCommon.getUrlParamVal("suggestedProduct");
+				if(isSuggestedProduct && isSuggestedProduct == "true")
+					cmCategory = "AUTOCOMPLETE>SUGGESTED PRODUCT";
+				
 				var form = document.OrderItemAddForm;				
 				if (form) {
 					form.field2_0.value = cmCategory + ";ProductStandard";
@@ -1327,10 +1374,6 @@ function loadCQO()
 	}
 </script>
 <!-- END: cmInitiateTags.jsp --><!-- No espot named espotFooterSiteWide found --><!--  BEGIN Partner Feed PartnerFeedSiteWideFooter -->
-<script>
-document.write('<scr' + 'ipt type="text/javascript" src="/content/Hand/include/foresee/foresee-trigger.js"></scr' + 'ipt>');
-</script><script type="text/javascript" src="/content/Hand/include/foresee/foresee-trigger.js"></script>
-
 	<!-- Start Dotomi Tag -->
 	<script type="text/javascript">
 			var becDotomi = {
@@ -1421,7 +1464,7 @@ document.write('<scr' + 'ipt type="text/javascript" src="/content/Hand/include/f
 						{
 							//Grab first item and populate prod_id and prod_img
 							this.productId = tmParams.superItems.split("|")[0];
-							this.productImagePath = dojo.query(".image img")[0].src;
+							this.productImagePath = (dojo.query(".image img").length > 0) ? dojo.query(".image img")[0].src : "";
 						}
 						
 						//Order Confirmation
@@ -1499,6 +1542,10 @@ document.write('<scr' + 'ipt type="text/javascript" src="/content/Hand/include/f
 	 //-->
 	</script>
 	<!-- End Dotomi Tag -->
+
+<script>
+document.write('<scr' + 'ipt type="text/javascript" src="/content/Hand/include/foresee/foresee-trigger.js"></scr' + 'ipt>');
+</script><script type="text/javascript" src="/content/Hand/include/foresee/foresee-trigger.js"></script>
 
 	<script>
 		var footLinks = dojo.query("#footer .links li a");
