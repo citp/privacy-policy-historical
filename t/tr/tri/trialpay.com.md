@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the trialpay.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219072841id_/http%3A//www.trialpay.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trialpay.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619070630id_/http%3A//www.trialpay.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# TrialPay: Privacy Policy
+# Privacy Policy
 
 ## TrialPay Privacy Policy
 
-Last modified: March 14, 2013
+Last modified: January 13, 2014
 
 We at TrialPay, Inc. and the subsidiaries we own or control (collectively, "TrialPay") respect your privacy. We are publishing this version of the TrialPay Privacy Policy (the "Policy") to clearly disclose our practices and approach to data privacy and data protection.
 
@@ -16,7 +16,7 @@ TrialPay adheres to the U.S.-European Union Safe Harbor Framework privacy princi
 
 If you have any questions about this Policy, please contact us by email: [privacy-question@trialpay.com](mailto:privacy-question@trialpay.com), or via mail at:
 
-Privacy Officer   
+Privacy Officer  
 TrialPay, Inc.  
 800 California Street  
 3rd Floor  
@@ -28,16 +28,16 @@ Mountain View, CA 94041 USA
 
 We may collect information from you, or someone acting on your behalf, when you interact with the Services. For example, you provide information to us when you:
 
-  * create accounts for Services,
-  * register for offers,
-  * initiate or complete a transaction or offer,
-  * click on our advertising,
-  * elect to receive offers or other marketing communications,
-  * request a coupon or other products,
-  * complete a survey,
-  * receive customer support,
-  * purchase, download, or register to use products, or
-  * apply for a job.
+  * Create accounts for Services,
+  * Register for offers,
+  * Initiate or complete a transaction or offer,
+  * Click on our advertising,
+  * Elect to receive offers or other marketing communications,
+  * Request a coupon or other products,
+  * Complete a survey,
+  * Receive customer support,
+  * Purchase, download, or register to use products, or
+  * Apply for a job.
 
 
 
@@ -65,12 +65,12 @@ Some elements of TrialPay's Services such as events, websites, and offers may be
 
 You, or others acting on your behalf, may provide us with the following information:
 
-  * your name, age, gender, physical address, email address, and phone number,
-  * the products and services you purchase, download or register to use and their value, 
-  * payment information such as credit card number, security codes, currency requirements, financial institution account number, or other payment credentials,
-  * responses to survey questions,
-  * user preferences, product interests, communication choices, and other customer profile information, and
-  * your resume or CV, references and background check information.
+  * Your name, age, gender, physical address, email address, and phone number,
+  * The products and services you purchase, download or register to use and their value, 
+  * Payment information such as credit card number, security codes, currency requirements, financial institution account number, or other payment credentials,
+  * Responses to survey questions,
+  * User preferences, product interests, communication choices, and other customer profile information, and
+  * Your resume or CV, references and background check information.
 
 
 
@@ -115,16 +115,16 @@ When you use our Services we may automatically collect and store certain informa
 
 Certain of our Services collect special information. 
 
-For example, if you use our Services in connection with a mobile device or mobile application, we may collect additional information about you, your use of your device, and applications on your device such as: 
+For example, if you use our Services in connection with a mobile device or mobile application, we may collect additional information about you, your use of your device, and applications on your device such as:
 
   * Application version,
-  * System activity, 
-  * Hardware settings, 
+  * System activity,
+  * Hardware settings,
   * Total amount spent in an application,
   * Total rewards earned in an application,
-  * Prior use of an application, 
-  * User creation time, 
-  * Length of session, 
+  * Prior use of an application,
+  * User creation time,
+  * Length of session,
   * Virtual currency balance, and
   * Application level.
 
@@ -132,7 +132,7 @@ For example, if you use our Services in connection with a mobile device or mobil
 
 If you participate in surveys, we will collect the information you provide to us which may include sensitive information. Sensitive information includes your racial or ethnic origin, political opinions, religious or philosophical beliefs, trade-union membership(s), or data concerning your health or sex life. Your participation in surveys and any related disclosure of sensitive information is entirely voluntary.
 
-If you participate in Card Linked Offers, we may collect your email address, payment card details, address, and information regarding your payment card purchases such as the date and time of your purchase, your returns of items purchased, the category of your purchase, and location of the store where you made a purchase.
+If you participate in payment card-linked offers, we may collect your email address, payment card details, address, and information regarding your payment card purchases such as the date and time of your purchase, your returns of items purchased, the category of your purchase, and location of the store where you made a purchase.
 
 ## How We Use Information We Collect
 
@@ -176,7 +176,7 @@ We participate in the Safe Harbor Principles and are registered with the [Safe H
 
 **Notice and Choice**
 
-TrialPay provides notice about the choices and means we offer you for limiting use and disclosure of your PII. Notice is provided in this Policy, in our web pages, and in other locations where we collect PII. 
+TrialPay provides notice about the choices and means we offer you for limiting use and disclosure of your PII. Notice is provided in this Policy, in our web pages, and in other locations where we collect PII.
 
 You can choose whether or not to provide your PII to us. If you choose not to provide PII, you can continue to interact with TrialPay, but you may be not be able to take advantage of certain offers, options, events and services that depend upon TrialPay having access to accurate PII. You can update your marketing communications preferences by logging into your TrialPay Online Account at [www.trialpay.com/login/](https://www.trialpay.com/login/), following the unsubscribe instructions you have received from TrialPay, or [contacting TrialPay's customer support team](https://www.trialpay.com/support/contactus/).
 
@@ -230,15 +230,18 @@ Mountain View, CA 94041 USA
 
 If you have any complaints regarding our compliance with the Safe Harbor Principles, please contact us at the above.
 
-As part of our [participation](https://www.export.gov/safehrbr/list.aspx) in the U.S.-EU Safe Harbor Privacy Framework, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us as provided above. If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by [Internet here](http://watchdog.truste.com/pvr.php?page=complaint&url=), fax to 415-520-3420, or mail to TRUSTe Safe Harbor Compliance Dept., [click for mailing address](http://www.truste.com/about_TRUSTe/contact_us.html). If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: our name, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with TrialPay. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, click [here](http://watchdog.truste.com/pvr.php?page=complaint&url=) or request this information from TRUSTe at any of the addresses listed above.
+As part of our [participation](https://www.export.gov/safehrbr/list.aspx) in the U.S.-EU Safe Harbor Privacy Framework, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us as provided above. If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by [Internet here](http://watchdog.truste.com/pvr.php?page=complaint&url=), fax to 415-520-3420, or mail to TRUSTe Safe Harbor Compliance Dept., [click for mailing address](http://www.truste.com/about_TRUSTe/contact_us.html). If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: our name, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with TrialPay. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, click [here](http://watchdog.truste.com/pvr.php?page=complaint&url=) or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English.  For human resources data we have agreed to cooperate with Data Protection Authorities.
 
 ## Changes to this Policy
 
 Please note that this Policy may change from time to time. We will post any Policy changes on this page and, if the changes are significant or reduce your rights in any material manner, we will provide a more prominent notice. We will also keep prior versions of this Policy in an archive for your review.
 
-### Conclusion
+## Conclusion
 
 We are committed to privacy and are involved in current industry initiatives to promote privacy and protect personal information. Our privacy practices will evolve to meet new requirements, standards, technologies, and customer preferences. We welcome your opinions and insights on this evolution.
 
-V3.0  
-March 14, 2013
+  
+V4.0  
+January 13, 2014
+
+[View V3.0 of Privacy Policy](http://www.trialpay.com/legal/privacy-policy/archive/3-14-2013)
