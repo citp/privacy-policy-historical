@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the adcolony.com privacy policy that was archived on 2013-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130822155614id_/http%3A//privacy.adcolony.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adcolony.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619203416id_/http%3A//privacy.adcolony.com) for the most accurate reproduction.*
 
 # AdColony - Privacy
 
-Last Updated: July 1, 2013
+Last Updated: January 1, 2014
 
 AdColony, a division of Jirbo, Inc., is a mobile advertising company. We provide a mobile video advertising network (“AdColony," "we," "us," "our" or “company”) that helps our advertisers deliver video ads primarily via mobile devices such as smartphones and tablets. We know that you care about how your information is used and shared, and we take your privacy seriously. This policy outlines AdColony’s privacy practices for our video advertising network (the “Network”) and our website, www.AdColony.com (the “Website”). If you would like to understand the privacy practices that pertain to our mobile applications or relating websites like Jirbo.com, please click [here](http://privacy.jirbo.com/). 
 
@@ -42,7 +42,7 @@ We retain Non-PII collected via the Network in non-aggregate form for as long as
 
 ### Choices regarding the Non-PII Collected via the Network
 
-AdColony utilizes technology that allows us to deliver certain behaviorally targeted advertising on our Network. Our server may deliver certain customized information to Mobile Sites and Apps on the Network based on certain Non-PII associated with your device. If you’d like to opt-out from having this Non-PII used to tailor advertising to you, please click [here](https://web.archive.org/web/20130822155614id_/http://privacy.adcolony.com/opt-out) and follow the instructions. Once you’ve opted out, AdColony will continue to collect information as explained under this Privacy Policy but will no longer use your information to deliver behaviorally targeting advertising to your device. Please note that you will continue to receive advertising after you opt-out, but it may not be tailored to your interests. Please also note that our opt-out technology is device specific. Therefore, if you use multiple devices you will need to perform the opt-out operation for each device. Certain devices and device configurations may prevent our opt-out from operating correctly.
+AdColony utilizes technology that allows us to deliver certain behaviorally targeted advertising on our Network. Our server may deliver certain customized information to Mobile Sites and Apps on the Network based on certain Non-PII associated with your device. If you’d like to opt-out from having this Non-PII used to tailor advertising to you, please click [here](https://web.archive.org/web/20140619203416id_/http://privacy.adcolony.com/opt-out) and follow the instructions. Once you’ve opted out, AdColony will continue to collect information as explained under this Privacy Policy but will no longer use your information to deliver behaviorally targeting advertising to your device. Please note that you will continue to receive advertising after you opt-out, but it may not be tailored to your interests. Please also note that our opt-out technology is device specific. Therefore, if you use multiple devices you will need to perform the opt-out operation for each device. Certain devices and device configurations may prevent our opt-out from operating correctly.
 
 You may click below for the Network Advertising Initiative (“NAI”) and Digital Advertising Alliance (“DAA”) opt-out tools to learn more about targeted or interest based advertising and to opt out of certain targeting programs not associated with AdColony.
 
@@ -51,9 +51,9 @@ You may click below for the Network Advertising Initiative (“NAI”) and Digit
 
 ## Privacy Practices for both the Network and Website
 
-### Information Security
+### Information Security And Integrity
 
-The security of your information is important to us, including but not limited to the PII collected via the Website. AdColony has implemented reasonable security measures to protect the information, both during transmission and once it is received. This includes but is not limited to the use of firewalls and encryption. No method of transmission over the Internet or method of electronic storage is 100% secure; therefore, while the company strives to use commercially acceptable means to protect your information, it cannot guarantee absolute security. If you have any questions about these security practices, please email [privacy@adcolony.com](mailto:privacy@adcolony.com).
+The security of your information is important to us, including but not limited to the PII collected via the Website. AdColony has implemented reasonable security measures to protect the information, both during transmission and once it is received. This includes but is not limited to the use of firewalls and encryption. No method of transmission over the Internet or method of electronic storage is 100% secure; therefore, while the company strives to use commercially acceptable means to protect your information, it cannot guarantee absolute security. We process information in a way that is compatible with and relevant for the purpose for which it was collected. To the extent necessary for those purposes, we take reasonable steps to ensure that any information in our care is accurate, complete, current and reliable for its intended use. If you have any questions about these security or data integrity practices, please email [privacy@adcolony.com](mailto:privacy@adcolony.com).
 
 ### Information Relating to Children
 
@@ -73,9 +73,16 @@ Finally, AdColony may disclose or utilize your PII in other ways if you have con
 
 AdColony regularly interacts with third party sites and applications. We are not responsible for the privacy policies and/or practices on other sites and applications. When linking to another site or application, you should read that party's privacy policy. 
 
+#### Safe Harbor Privacy Principles
+
+We comply with the U.S.-EU Safe Harbor Framework and the U.S. Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries.  We have certified that AdColony adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view our certification page, please visit <http://www.export.gov/safeharbor/>
+
+[We certify compliance with:](https://safeharbor.export.gov/list.aspx)  
+[ ](http://www.export.gov/safeharbor)
+
 ### Storage in the United States 
 
-This Privacy Policy is governed by the laws of the United States of America. Our servers are maintained in the United States of America. By visiting the Website, or using one of the Mobile Apps and Sites on the Network, you freely and specifically give us your consent to export your information to the USA and to store and use it in the USA as specified in this Privacy Policy. You understand that data stored in the USA may be subject to lawful requests by the courts or law enforcement authorities in the USA. 
+This Privacy Policy is governed by the laws of the United States of America. Our servers are maintained in the United States of America.
 
 ### Changes to this Privacy Policy
 
@@ -90,3 +97,16 @@ If you have any questions or concerns regarding this Privacy Policy, please send
 Attn: Privacy Officer  
 11440 San Vicente Blvd., Suite 100  
 Los Angeles, CA 90049
+
+#### Enforcement, Privacy Complaints by European Union and Swiss Citizens
+
+In compliance with the U.S.–EU and U.S-Swiss Safe Harbor Principles, AdColony commits to resolve complaints about your privacy and our collection or use of your Personal Information. European Union and Swiss citizens with inquiries or complaints regarding this privacy policy should first contact AdColony at [privacy@adcolony.com](mailto:privacy@adcolony.com).
+
+AdColony has further committed to refer unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by the Privacy Officer at AdColony, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](https://web.archive.org/web/20140619203416id_/http://privacy.adcolony.com/www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint:
+
+#### Council of Better Business Bureaus, Inc.
+
+BBB EU Safe Harbor   
+3033 Wilson Boulevard, Suite 600   
+Arlington, VA 22201   
+U.S.A. 
