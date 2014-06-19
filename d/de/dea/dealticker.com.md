@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealticker.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209034335id_/http%3A//www.dealticker.com/privacy_policy_en_263cms.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealticker.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619154855id_/http%3A//www.dealticker.com/privacy_policy_en_263cms.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -33,8 +33,3 @@ Please remember that any information you may disclose in public areas of our web
 **Where to Direct Questions About DealTicker’s Privacy Policy.**
 
 If you have any questions about this Privacy Policy or the practices described herein, you may contact: [info@dealticker.com](mailto:info@dealticker.com).
-
-Customer Service  
-DealTicker Inc.  
-5000 Yonge St., Ste 1901  
-Toronto ON M2N 7E9 
