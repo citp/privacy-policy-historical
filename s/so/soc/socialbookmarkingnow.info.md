@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialbookmarkingnow.info privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219042710id_/http%3A//www.socialbookmarkingnow.info/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialbookmarkingnow.info privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619180417id_/http%3A//www.socialbookmarkingnow.info/privacy-policies) for the most accurate reproduction.*
 
 # Privacy Policies › SocialbookmarkingNow.info : Easily link popular sites through social bookmarking submission service for backlinks & traffic | Share popular news, images and videos via article directory
 
