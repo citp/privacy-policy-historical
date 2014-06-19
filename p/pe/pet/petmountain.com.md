@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the petmountain.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209233811id_/http%3A//www.petmountain.com/content/4/secure-shopping-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petmountain.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619104332id_/http%3A//www.petmountain.com/content/4/secure-shopping-privacy.html) for the most accurate reproduction.*
 
 # Secure Shopping & Privacy
 
+**Privacy Policy**  
 At Pet Mountain, we are committed to protecting the privacy of our customers, which is why we do not sell, rent, or loan any personal identifiable information regarding our customers to any third party.
 
  **100% Secure Checkout**  
