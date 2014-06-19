@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dotmailer.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213123636id_/http%3A//www.dotmailer.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotmailer.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619060119id_/http%3A//www.dotmailer.com/privacy_policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy | Email Marketing | dotMailer
+# Privacy Policy | dotMailer
 
 dotMailer whose registered office is at No 1 Croydon, 12-16 Addiscombe Road, Croydon, CR0 0XT England Registered No. 03762341 has created this privacy statement because we take your privacy seriously.  The statement sets out, who we are, what information we collect from you, and how we use it. 
 
@@ -30,7 +30,7 @@ We will retain your information for such period as we are legally obliged to kee
 
 A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual.  The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. 
 
-We use traffic log cookies to identify which pages are being used.  This helps us analyze data about web page traffic and improve our website and services in order to tailor it to customer needs.  We only use this information for statistical analysis purposes and then the data is removed from the system. 
+We use traffic log cookies to identify which pages are being used.  This helps us analyse data about web page traffic and improve our website and services in order to tailor it to customer needs.  We only use this information for statistical analysis purposes and then the data is removed from the system. 
 
 Overall, cookies help us provide you with a better website and service, by enabling us to monitor which pages you find useful and which you do not.  A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. 
 
@@ -52,7 +52,7 @@ You may request details of personal information which we hold about you under th
 
 ##### Protection of your personal information
 
-We are concerned about guarding the security of your personal information and the details of any transactions.  We take appropriate organiszational and technical security measures to protect your data against unauthorized disclosure or processing. We use a secure server to store the information you give us when you register or make an order (including your credit card details and any password) and any personal data you send us on-line is securely encrypted. 
+We are concerned about guarding the security of your personal information and the details of any transactions.  We take appropriate organisational and technical security measures to protect your data against unauthorised disclosure or processing. We use a secure server to store the information you give us when you register or make an order (including your credit card details and any password) and any personal data you send us on-line is securely encrypted. 
 
 ##### Changes to this statement
 
@@ -80,13 +80,7 @@ E: [info@dotmailer.co.uk](mailto:info@dotmailer.co.uk)
 dotMailer currently operates the following websites:
 
   * www.dotMailer.co.uk
-  * www.dotMailer.com 
-  * www.dotAgency.co.uk
-  * www.dotSearch.co.uk
-  * www.dotCommerce.co.uk
-  * www.dotEditor.co.uk
+  * www.dotMailer.com
   * www.dotDigitalGroup.com
-  * www.dotSurvey.com
-  * www.dotDigitalBlog.com
 
 
