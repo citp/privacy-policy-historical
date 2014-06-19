@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the clker.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214050848id_/http%3A//www.clker.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clker.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619230440id_/http%3A//www.clker.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy of clker.com - vector clip art online, royalty free & public domain
+
+****
 
 Our Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services.
 
@@ -33,3 +35,5 @@ Google is a third party vendor that provides advertisements on clker.com. Google
 We NEVER enter into alliances, partnerships or other business arrangements with third parties that will lead to selling your email or information. Plain and simple - your information won't be sold.
 
 Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and other facts that we think you will find valuable. You will be given the opportunity to notify us of your desire not to receive these offers by using links at the bottom of the email.
+
+****
