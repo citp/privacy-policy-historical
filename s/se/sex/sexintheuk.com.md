@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sexintheuk.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229123701id_/http%3A//app.sexintheuk.com/help/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexintheuk.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619032854id_/http%3A//app.sexintheuk.com/help/privacy.cfm) for the most accurate reproduction.*
 
 # SexInTheUK :: SexInTheUK Member Privacy Policy
 
@@ -6,7 +6,7 @@ _Last updated on Wednesday 16th January, 2013_
 
 ### Proprietor
 
-For the purposes of the Data Protection Act 1998 we confirm that the proprietor and operator of the SexInTheUK website at http://new.sexintheuk.com (the "Website") and the dating and networking service offered via the site (the "Service") is Global Personals Limited, a company registered under the laws of England, whose registered office is Minton Place, Victoria Street, Windsor, Berkshire, SL4 1EG ("we," "us," "our" or "Global Personals"). Global Personals can be contacted via the contact section on the Website or by writing to our registered address.
+For the purposes of the Data Protection Act 1998 we confirm that the proprietor and operator of the SexInTheUK website at http://www.sexintheuk.com (the "Website") and the dating and networking service offered via the site (the "Service") is Global Personals Limited, a company registered under the laws of England, whose registered office is Minton Place, Victoria Street, Windsor, Berkshire, SL4 1EG ("we," "us," "our" or "Global Personals"). Global Personals can be contacted via the contact section on the Website or by writing to our registered address.
 
 Global Personals respects the privacy of each user accessing the Website ("you," "your") and is committed to protecting your privacy. Global Personals has structured the Website so that, in general, it is necessary to provide log-in information and identify yourself to access the Website. Global Personals ensures that any personal information provided by you to Global Personals will be processed in accordance with the eight principles of the Data Protection Act 1998 and the Privacy Policy set out below. The Website is registered with the Information Commissioner in accordance with the Data Protection Act 1998.
 
