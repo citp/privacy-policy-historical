@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thecentsiblelife.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219103416id_/http%3A//www.thecentsiblelife.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecentsiblelife.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619064055id_/http%3A//www.thecentsiblelife.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Centsible Life
 
 **the ¢entsible life** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://www.synclastic.com/privacy/privacy-policies/) to learn more about privacy policies in general.
 
