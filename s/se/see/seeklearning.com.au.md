@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the seeklearning.com.au privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205173606id_/http%3A//www.seeklearning.com.au/Privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seeklearning.com.au privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619130952id_/http%3A//www.seeklearning.com.au/Privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - SEEK Learning Australia
 
 ## 1\. Introduction
 
-SEEK Learning Pty Ltd ("SEEK Learning Australia", "we", "us", "our") recognises the importance of your privacy and is committed to protecting any personal information we collect about you in accordance with the National Privacy Principles.
+SEEK Learning Pty Ltd ("SEEK Learning Australia", "we", "us", "our") recognises the importance of your privacy and is committed to protecting any personal information we collect about you in accordance with the Australian Privacy Principles.
 
 For the purposes of this Privacy Statement, the word "you" includes website visitors, SEEK Learning Australia registered users and purchasers of SEEK Learning Australia products and services.
 
@@ -30,6 +30,8 @@ For the purposes of this Privacy Statement, the word "you" includes website visi
 
 
 In addition to collecting personal information directly from you, we may also obtain personal information about you from third party sources such as our training providers and other third party service providers.
+
+If your enrolment in a course is facilitated via a contract between your employer, an insurance company, or other organisation that is funding the cost of your course (the "course funder"), and you have consented to the training provider disclosing details of your course progress, results and other information to us for the purpose of transmission to the course funder, then on receipt of such information from the training provider we will disclose that information to your course funder.
 
 Failure by you to provide personal information when requested by SEEK Learning Australia may mean that we are unable to provide certain services and products to you.
 
@@ -74,8 +76,9 @@ SEEK Learning Australia's web servers provide us with your IP address. This assi
 
 SEEK Learning Australia uses 'cookies' and 'applets' in its website systems. These enable you to use services such as free demonstrations of our training courses. You are able to disable cookies and applets via your computer's web browser however this may restrict access to some web pages and services within the SEEK Learning Australia website and enables us to tailor advertisements to your browsing preferences.
 
-  
+### _Detection of Location Technology_
 
+SEEK Learning Australia uses a lookup service to assess your general location (city and country) when you submit an enquiry via our website.  This is done so that the enquiry is responded to by the most appropriate person. 
 
 ## 3\. How we collect information
 
@@ -107,9 +110,9 @@ In some instances, including for example, where you require financial assistance
 
 Credit Suppliers may require a range of additional personal information for loan application purposes which is not specified in this Privacy Statement. You will be required to read and must consent to the Credit Supplier's privacy terms before SEEK Learning Australia will pass on your personal information to the Credit Suppliers.
 
-SEEK Learning Australia may also disclose your personal information to third party contractors who perform services for us including the management and maintenance of our information systems.
+SEEK Learning Australia may also disclose your personal information to third party contractors who perform services for us including the management and maintenance of our information systems. In some circumstances we may transfer or disclose information to persons and/or businesses outside Australia including in New Zealand, United States of America and India.
 
-Where your personal information is passed on to third party contractors, SEEK Learning Australia takes reasonable steps to ensure that these individuals and/or organisations are bound by confidentiality and privacy obligations in relation to the protection of your personal information.
+Where your personal information is passed on to third party contractors, SEEK Learning Australia takes reasonable steps to ensure that these individuals and/or organisations are bound by confidentiality and privacy obligations in relation to the protection of your personal information. Where information is transferred outside of Australia we believe that the recipients of such information are subject to a law binding scheme or contract which effectively upholds principles for fair handling of the information that are similar in all material respects to the Australian Privacy Principles.
 
 Other than as outlined above, SEEK Learning Australia will not disclose your personal information without your consent unless disclosure is necessary to prevent a threat to life or health, authorised or required by law, reasonably necessary to enforce the law, or necessary to investigate a suspected unlawful activity.
 
@@ -118,7 +121,7 @@ Other than as outlined above, SEEK Learning Australia will not disclose your per
 
 ## 6\. Access to and correction of information we hold about you
 
-Upon your request, SEEK Learning Australia will provide you with access to your personal information unless there is an exception which applies under the National Privacy Principles. If we deny such access, we will tell you why.
+Upon your request, SEEK Learning Australia will provide you with access to your personal information unless there is an exception which applies under the Australian Privacy Principles. If we deny such access, we will tell you why.
 
 SEEK Learning Australia may recover any reasonable costs incurred in providing you access to the requested information. To request access to your personal information, please contact SEEK Learning Australia using one of the contact options provided in paragraph 12 of this Privacy Statement.
 
@@ -178,11 +181,11 @@ For further information about the protection of your privacy, please visit the A
   
 
 
-## 12\. Feedback and questions about privacy and the SEEK Learning Australia website
+## 12\. Feedback, complaints and questions about privacy and the SEEK Learning Australia website
 
 SEEK Learning Australia welcomes ideas and feedback about all aspects of the SEEK Learning Australia website. This feedback may be used to administer and refine the services we provide and may be shared with SEEK Learning Australia partners either in aggregate form or with specific identifying characteristics removed.
 
-If you have any questions regarding this Privacy Statement, practices of the SEEK Learning Australia website or your dealings with SEEK Learning Australia, you can contact us in the following ways:
+If you have any complaints about a breach by SEEK Learning of any of the Australian Privacy Principles, or any questions regarding this Privacy Statement, practices of the SEEK Learning Australia website or your dealings with SEEK Learning Australia, you can contact us in the following ways:
 
   
 
@@ -209,4 +212,10 @@ Sales Operations Manager
 SEEK Learning  
 Level 2, 80 Pacific Highway  
 North Sydney NSW 2060  
-Australia 
+Australia   
+  
+Any complaints received by us will be referred for prompt investigation by our compliance team and a written response will be provided to you as soon as possible.
+
+## 13\. Provision of copy of Privacy Statement
+
+If you require a hard copy of this Privacy Statement or a copy in some other format to suit your particular needs please contact us using any of the methods detailed in paragraph 12 above, and we will arrange for a suitable copy to be provided to you.
