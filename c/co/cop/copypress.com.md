@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the copypress.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222032804id_/http%3A//www.copypress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the copypress.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619181117id_/http%3A//www.copypress.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | CopyPress
+# Privacy Policy : CopyPress
 
 ### **1\. Introduction.**
 
@@ -64,4 +64,4 @@ As a member, you also have the choice to Opt-out at any time, and for any reason
 
 ### **7\. Further Data Collection**
 
-We may collect aggregate (general tracking) information about pages that users visit on our site. We also may collect user specific information about pages that users visit on our site. Any information that you give us when you complete a contact form or inquiry form, survey and so forth is temporarily collected by us as explained herein.
+We may collect aggregate (general tracking) information about pages that users visit on our site. We also may collect user specific information about pages that users visit on our site. Any information that you give us when you complete a contact form or inquiry form, survey and so forth is temporarily collected by us as explained herein. 
