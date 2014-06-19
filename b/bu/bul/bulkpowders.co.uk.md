@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bulkpowders.co.uk privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218140001id_/http%3A//helpdesk.bulkpowders.co.uk/index.php%3F/Knowledgebase/Article/View/2/2/privacy-and-data-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bulkpowders.co.uk privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619181044id_/http%3A//helpdesk.bulkpowders.co.uk/index.php%3F/Knowledgebase/Article/View/2/2/privacy-and-data-policy) for the most accurate reproduction.*
 
-# Privacy and Data Policy
+# Privacy and Data Policy - Powered by Kayako Help Desk Software
 
 **BULK POWDERS™  Data Security**
 
