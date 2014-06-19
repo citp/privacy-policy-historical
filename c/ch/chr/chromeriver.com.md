@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chromeriver.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216025808id_/http%3A//www.chromeriver.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chromeriver.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619154638id_/http%3A//www.chromeriver.com/privacy_policy) for the most accurate reproduction.*
 
 # Our Privacy Policy | Travel Expense Management | Chrome River
 
@@ -32,4 +32,4 @@ E-mail: [info@chromeriver.com](mailto:info@chromeriver.com)
 
 ### **Get Started**
 
-[Contact Us](https://web.archive.org/contact/) [](http://www.youtube.com/watch?v=oflofMSsLq4) [](http://cta-redirect.hubspot.com/cta/redirect/151826/2542c8bd-a69c-4432-8291-18bc8027f443) [](http://info.chromeriver.com/chrome-river-download-expense-white-paper)
+[Contact Us](https://web.archive.org/contact/) [](http://www.youtube.com/watch?v=AJHF2l-eWD8) [](http://cta-redirect.hubspot.com/cta/redirect/151826/2542c8bd-a69c-4432-8291-18bc8027f443) [](http://info.chromeriver.com/chrome-river-download-expense-white-paper)
