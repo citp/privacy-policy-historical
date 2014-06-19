@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the netanimations.net privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205085507id_/http%3A//www.netanimations.net/Privacy_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netanimations.net privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619090026id_/http%3A//netanimations.net/Privacy_Policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Privacy Policy for www.netanimations.net**
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at don@ezee.ca. 
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at don@ezee.ca.
 
 At www.netanimations.net, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.netanimations.net and how it is used. 
 
