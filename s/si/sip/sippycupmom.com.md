@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sippycupmom.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202123155id_/http%3A//www.sippycupmom.com/pr-welcome/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sippycupmom.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619063805id_/http%3A//www.sippycupmom.com/pr-welcome/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy - Sippy Cup Mom
 
