@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appgyver.com privacy policy that was archived on 2013-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131018005554id_/http%3A//www.appgyver.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appgyver.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620123503id_/http%3A//www.appgyver.com/privacy) for the most accurate reproduction.*
 
 # AppGyver
 
@@ -96,7 +96,7 @@ Please note that AppGyver may need to identify you and to ask for additional inf
 
 ## The Controller of Your Personal Data and Contact Details
 
-AppGyver Oy, Simonkatu 12A, 00100 Helsinki, Finland shall be the controller of your personal data.
+AppGyver Oy, Vuorikatu 6 B 23, 00100 Helsinki, Finland shall be the controller of your personal data.
 
 ## Changes to This Privacy Policy
 
