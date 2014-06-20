@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the furl.net privacy policy that was archived on 2013-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130824101457id_/https%3A//www.diigo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the furl.net privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621015343id_/https%3A//www.diigo.com/privacy) for the most accurate reproduction.*
 
 # Diigo.com Privacy Policy
 
