@@ -1,0 +1,118 @@
+> *The following text is extracted and transformed from the nativescript.org privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620114722id_/http%3A//www.nativescript.org/company/privacy-policy) for the most accurate reproduction.*
+
+# Telerik Privacy Policy Terms and Conditions
+
+Telerik A.D. and our affiliates (collectively, “Telerik,” “we,” “us,” or “our”) provide this Privacy Policy because we know that you care about how your information is collected, used, shared, and retained. This Privacy Policy applies to information collected when you visit [www.telerik.com](http://www.telerik.com/), www.kendoui.com, www.sitefinity.com, www.icenium.com, www.everlive.com, www.eqatec.com, fiddler2.com, nimblepros.com, and/or any other Telerik owned or controlled websites (the “Sites”).  This Privacy Policy also applies when you (i) create or access an account through any of the Sites (an “Account”) or use the services, including any applications or demos that we make available via the Sites, from time to time (the “Services”); (ii) download, install, or otherwise use any Telerik software product, including any demos related to such products (“Products”); or (iii) subscribe to, access, configure, or otherwise use any Telerik hosted or software-as-a-service offering (“SaaS Products”).  The Sites, Services, Products, and SaaS Products are collectively referred to herein as the “Telerik Properties”.  By visiting the Sites; creating or accessing an Account or using the Services; downloading, installing, or using any Products; or  subscribing to, accessing, configuring, or using any SaaS Products,  you are consenting to our collection, use, disclosure, and retention of your information as set forth in this Privacy Policy.
+
+This Privacy Policy does not apply to the privacy practices governing the relationship between our clients and their end users when our clients use our Products or SaaS Products to collect and process data.  Rather, such usage is governed by our clients’ privacy policies, over which we have no control.
+
+Furthermore, access to and usage of some of our Products or SaaS Products, such as Telerik Analytics, may entail additional privacy terms, to which you must agree before using the specific Product or SaaS Product.   
+
+**Safe Harbor Certification**
+
+In light of the international nature of our business, Telerik’s privacy practices are self-certified to the Safe Harbor Program agreed to by the US Department of Commerce and the European Commission.  Telerik complies with the US-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  Telerik has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view our certification page, please visit http://www.export.gov/safeharbor/. 
+
+Important Notice to Non-U.S. Residents
+
+The Telerik Properties and their servers are all operated in the United States and elsewhere. If you are located outside of the United States, please be aware that any Personal Information, Billing Information or Other Information (each as defined below and collectively, “Information”) you provide to us and/or that we collect from you will be transferred to, processed, and used in the United States in accordance with the terms set forth in this Privacy Policy.  Except in the case of data transfers from the EEA, which are covered under the US-EU Safe Harbor Frameworks, by using the Telerik Properties and/or providing us with any Personal Information, you hereby irrevocably and unconditionally consent to such transfer, processing, and use in the United States.
+
+Information Collected
+
+When you use the Telerik Properties, you may provide us with personally identifiable information about you and your company, such as your company name, your name, title, e-mail address, postal address, and telephone number (collectively, the “Personal Information”). We do not collect any Personal Information from you when you use the Telerik Properties unless you provide it voluntarily (for example, by signing up for an Account, registering for a webinar, requesting a newsletter, or sending us a message).
+
+When you visit or use the Telerik Properties, we may automatically collect non-personal information, such as domain names, IP address (which may consist of a static or dynamic IP-address, and will sometimes point to a specific identifiable computer or device), browser type, operating system, access times, referring/exit web site addresses, information regarding your experience with our Telerik Properties, and other data (collectively, “Other Information”). This Other Information is used by Telerik for the operation and improvement of the Sites and the Services and to track Site trends and statistics. This Other Information does not personally identify you. 
+
+Where applicable, if you choose to access, or log in to, any Telerik Properties using your Google, Facebook, Yahoo, or other accounts accepted by the applicable Telerik Property, the third-party site will share with us certain Personal Information and Other Information. This information may include, without limitation, your name, email address, company name, and the country you have specified upon registration, along with any other information necessary in order to enable us to identify your account.  By logging in with any of these accounts, you will be authorizing us to access, and we will obtain, such information, and we will use the same in accordance with this Privacy Policy.
+
+We also use the following analytics products to collect Other Information: 
+
+ClickTale Web Analytics.  In order to improve your user experience, we collect data about user behavior using ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as any text you type in the Telerik Properties. ClickTale does not collect personally identifiable information that you do not voluntarily enter in the Telerik Properties. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information, see “Privacy Policy for Information Collected by the ClickTale Web Analytics Service” at <http://www.clicktale.com/privacy_service.aspx>. You can choose to disable the ClickTale Web Analytics Service at <http://www.clicktale.net/disable.html>. 
+
+Google Analytics.  We use Google Analytics, a web analytics service provided by Google, Inc., to evaluate your use of the Telerik Properties, compile reports on activity, and provide other services relating to Internet usage. Google Analytics uses first-party cookies that store information, such as what time the current visit occurred, whether the visitor has been to the Sites before, and what site referred the visitor to the web page. 
+
+We have also implemented Display Advertising Remarketing with Google Analytics to advertise online. This means that third-party vendors, including Google, display our ads on sites across the Internet and that we and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie, see: http://www.google.com/doubleclick) together to inform, optimize, and serve ads based on your past visits to the Telrik Properties.
+
+Google classifies Google Analytics data as confidential information, governed by Google's privacy policies. Google’s privacy policy can be viewed at http://www.google.com/intl/None/policies/privacy/.
+
+By using the Telerik Properties, you consent to the processing of data about you by Google in the manner and for the purposes set out above. If you choose, you can opt out of the processing of data about you by Google for Display Advertising and/or customize the ads by using Google’s Ads Settings at: <http://www.google.com/settings/ads>. You can opt out of the processing of data about you by Google generally by turning off cookies in the preferences settings in your browser, or by downloading and installing Google Analytics Opt-out Browser Add-on at <http://tools.google.com/dlpage/gaoptout>. The add-on communicates with the Google Analytics JavaScript (ga.js) to indicate that information about the visit to the applicable Telerik Property should not be sent to Google Analytics. The Google Analytics Opt-out Browser Add-on does not prevent information from being sent to the the applicable Telerik Property itself or to other web analytics services. For more information on Google Analytics, please visit <https://www.google.com/analytics/>. 
+
+Telerik Analytics.  In order to help us improve your experience with the Telerik Properties, we use Telerik Analytics to monitor and identify trends and usage statistics. Telerik Analytics may collect certain information during a Product download, during a Product installation or update, while you are using certain Products and/or SaaS Products, Product demos, or applications on our Sites, and while you are using the Services.  Such information may include, without limitation, how often different features are used, how often different buttons and menu items are clicked, execution time for different operations, error reports, download location, software version, platform information, application/Product usage, features usage, exception tracking, OS information, and Product and SaaS Product logs. The information will be transmitted to and stored by Telerik and its service providers on its and their servers. Telerik does not use Telerik Analytics to collect any information which personally identifies you. The collection of this non-personally identifiable information will cease once your use of the Telerik Properties has ceased. However, the information collected may be retained, accessed, and used by Telerik as long as necessary for the purposes described herein.
+
+For more information on Telerik Analytics, please visit: <http://www.telerik.com/analytics>
+
+Use of Cookies 
+
+We may use both session cookies (which expire once you close your web browser) and persistent cookies (which stay on your computer until you delete them) and other technologies to help us collect Other Information and to enhance your experience using the Telerik Properties.  Cookies are small text files a web site can use to recognize a repeat visitor to the web site. We may use cookies for various purposes, including: 
+
+  * To help you navigate our Telerik Properties;
+  * To facilitate the sign up and login process for our Telerik Properties; 
+  * To personalize your experience;
+  * To analyze which pages are visited most frequently;
+  * To provide features such as social sharing widgets and videos; and
+  * To measure advertising and promotional effectiveness.
+
+
+
+If you do not want Telerik to deploy cookies in your browser, you can opt out by setting your browser to reject cookies or to notify you when a web site tries to put a cookie in your browser software. If you choose to disable cookies in your browser, you can still access most of the Telerik Properties, however, your ability to use some of the features may be affected.
+
+Credit Card Processing 
+
+We use a third-party service provider to manage credit card processing. Under our agreement with this service provider, it is not permitted to store, retain, or use your Personal Information or your billing information except for the sole purpose of credit card processing on our behalf.  In certain cases, we may have access to the last four digits of your credit card number, its expiration date, and the billing address (collectively, the “Billing Information”), which we will use solely to assist us in providing you better and more efficient customer service. In addition, we and our service provider may use any information processed pursuant to this section at an aggregate level for internal business analyses and fraud prevention.
+
+**Communications on the Sites**
+
+Any Personal Information or other content that you choose to submit in any forum on the Sites may be read, collected, or used by others who visit these forums, and may be used to send you unsolicited messages. Telerik is not responsible for the Personal Information or other content that you choose to submit in these forums.
+
+Any content or Personal Information you publish on the Sites may also appear in search engine results (such as Google, Yahoo!, and Bing), in the cache of those search engines, in feeds, and on third-party sites pursuant to cobranding agreements. We have no control over updating and/or removal of such content or Personal Information, which is the sole responsibility of the search engines, third-party sites, and RSS web feed resources. You agree and acknowledge that Telerik is not liable for the information published in search results or by any third-party site that carries any content or Personal Information you publish on the Sites.  We strongly discourage your posting any content or Personal Information that you do not want others to see or use.
+
+We do not and cannot review all communications and materials posted to or created by users that visit the Sites or use the Services. You acknowledge that by providing you with the ability to post, view, and distribute communications, content, and Personal Information on the Sites, Telerik is merely acting as a passive conduit for such distribution and is not undertaking any obligation or liability relating thereto. However, we reserve the right to block or remove communications, content, Personal Information, or other submissions to the Sites, for any reason, in our sole and absolute discretion.   
+
+Use, Sharing, or Disclosing of Information 
+
+We may use your Information in a manner that is consistent with this Privacy Policy. If you provide Information for a certain reason, we may use such Information in connection with the reason for which it was provided. You have the right to correct or modify your Personal Information and Billing Information directly through your Account or by providing notice to us. See  “How to Access and Update Your Personal Information” and “How to Contact Us” below. 
+
+If we intend on using any of your Information in any manner that is not consistent with this Privacy Policy, you will be informed of such anticipated use prior to or at the time at which the Information is collected.  You may choose not to submit your Personal Information at any time, but that decision may prevent you from accessing and/or using certain parts of the Telerik Properties. 
+
+We may block users located in certain countries from using the Telerik Properties. We may retain and use your Information for as long as is required to fulfill our business objective, even after your account is terminated. 
+
+We use and may share the Information to provide and improve the Telerik Properties; deliver correspondence, communications, or services, such as newsletters, events, training, or software that you request or purchase; process orders; solicit your feedback; and inform you about Telerik Properties and services and the products and services of our promotional partners. Also, we may use the Information as described below.
+
+  * We may, from time to time, share Personal Information and Other Information with other companies who may provide you information about the products and services they offer.  However, to the extent required by law, you will be given the opportunity to opt-out of such sharing.
+  * We may analyze your Personal Information and Other Information in aggregate form which does not identify you personally. We may share this aggregate data with our affiliates, agents, advertisers, manufacturers, and business partners. We may also disclose aggregated user statistics in order to describe the Telerik Properties to current and prospective business partners and to other third parties for other lawful purposes.
+  * We may share, disclose, or provide your Information to third parties: (i) when attempting to collect a payment or debt; (ii) when required to combat fraud or to protect our interests; (iii) to enforce the Privacy Policy or the applicable Terms of Use, Terms of Service, or End User License Agreement of the Telerik Properties; (iv) when required to do so by law or in response to legal process or lawful requests, including from law enforcement or government agencies; (v) within and among our affiliates and subsidiaries; or (vi) as part of a merger, sale of a business, sale of assets, or dissolution.   
+  * We may employ other companies and individuals to perform functions on our behalf.  Examples may include providing hosting and network services, information technology support, and customer service.  These other companies will have access to the Information only as necessary to perform their functions and to the extent permitted by law.
+
+
+  * Telerik and its affiliates may retain, aggregate, use, and resell any Other Information collected in connection with any use of the Telerik Properties both during your use of the Telerik Properties and after such use has ended.
+
+
+
+California Residents
+
+Under California Civil Code Section 1798.83, California residents who have an established business relationship with Telerik may choose to opt out of our sharing your Personal Information with third parties for direct marketing purposes.  If you are a California resident and (1) you wish to opt out; or (2) you wish to request certain information regarding our disclosure of your Personal Information to third parties for direct marketing purposes, please send an e-mail to us or write to us as described in the “How to Contact Us” section below. As indicated herein, Telerik uses various methods to collect Personal Information, Billing Information, and Other Information for various purposes across all of the Telerik Properties. Your ability to opt out of such collection and the method(s) for opting out likewise vary (as set forth herein) according to the Telerik Property, as well as the method and purpose of collection. For this reason Telerik does not monitor, recognize, or honor any opt-out or do not track mechansims other than those specifically set forth herein including general web browser “Do Not Track” settings and/or signals. 
+
+Information Security 
+
+We take commercially reasonable steps to protect your Information from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. Please understand, however, that no security system is impenetrable. We cannot guarantee security, or that the information that you supply will not be intercepted while being transmitted to and from us over the Internet.  In particular, e-mail sent to or from the Sites may not be secure, and you should therefore take special care in deciding what information you send to us via e-mail.  Therefore, you acknowledge and agree that we assume no liability regarding the theft, loss, alteration, or misuse of Information, including, without limitation, such Information that has been provided to third parties or other users, or with regards to the failure of a third party to abide by the agreement between us and such third party. 
+
+The information you provide upon registration is also protected by a unique customer password and user ID (“Password and ID”). You should not disclose your Password and ID to anyone and you should always remember to log off if using a shared computer. You are solely responsible for maintaining the confidentiality of your Password and ID, and for any use of your Password and ID, whether or not you have authorized such use.
+
+Links to Third-Party Sites 
+
+This Privacy Policy applies only to the Telerik Properties. Some of the Telerik Properties include links to third-party sites. Telerik has no control over the privacy practices or the content of these sites. If you visit or submit information to any of those sites, your information is subject to their privacy statements. You should check the applicable third party privacy policy and terms of use when visiting any other site and before providing any information to other sites. 
+
+Changes to this Privacy Policy 
+
+This Privacy Policy is effective as of the date stated at the top of this Privacy Policy.  We may change this Privacy Policy from time to time.  Please be aware that, to the extent permitted by applicable law, our use of your Information is governed by the Privacy Policy in effect at the time we collect the information. If you visit the Sites or use the Telerik Properties after a change to this Privacy Policy is posted, you will be bound by such change. Please refer back to this Privacy Policy on a regular basis. 
+
+How to Access and Update Your Personal Information 
+
+You can keep your Personal Information accurate, complete, and up to date by logging in to your telerik.com account. We will use commercially reasonable efforts to process such requests in a timely manner.   
+
+**How to Contact Us**
+
+If you have questions about this Privacy Policy, please contact Telerik via e-mail at: clientservice@telerik.com with “PRIVACY POLICY” in the subject line or write to us at:Telerik AD, 33 Alexander Malinov Blvd, Sofia 1729, Bulgaria Attn: LEGAL DEPARTMENT.
+
+**Safe Harbor Complaints**
+
+In compliance with the US-EU and US-Swiss Safe Harbor Principles, Telerik commits to resolve complaints about your privacy and our collection or use of your Personal Information.  European Union or Swiss citizens with inquiries or complaints regarding this Privacy Policy should first contact Telerik via e-mail at: clientservice@telerik.com with “PRIVACY POLICY - SAFE HARBOR” in the subject line. Telerik has committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Telerik, please visit the BBB EU SAFE HARBOR web site at www.bbb.org/us/safe-harbor-complaints for more information and to file a complaint.
