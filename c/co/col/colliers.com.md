@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colliers.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220111151id_/http%3A//www.colliers.com/en-us/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colliers.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620160001id_/http%3A//www.colliers.com/en-us/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Global | Colliers International
 
@@ -51,4 +51,4 @@ PLEASE REMEMBER THAT NO DATA TRANSMISSION OVER THE INTERNET CAN BE GUARANTEED TO
 This Privacy Policy is intended to be governed by, construed and enforced in accordance with the laws of the State of Delaware, USA. Any action which you or any third party may bring in connection with this policy, shall be brought only in the courts of the State of Delaware, and you expressly consent to the jurisdiction of the courts of the State of Delaware.
 
 **11\. Additional Information**  
-For any questions regarding this statement , please [contact us](https://web.archive.org/en-us/contactform).
+For any questions regarding this statement , please [contact us](https://web.archive.org/en-us/about/contact%20us).
