@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the reading.ac.uk privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030094922id_/https%3A//www.reading.ac.uk/about/about-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reading.ac.uk privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620113236id_/http%3A//www.reading.ac.uk/about/about-privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy and Cookies Information for the University of Reading WebsiteDRAFT - University of Reading
-
-## Privacy policy and cookies information
+# Privacy policy and cookies information – University of Reading
 
 The University of Reading, and its [wholly owned subsidiaries](https://web.archive.org/internal/imps/FOIA/Publicationscheme/imps-FOIA-wholly.aspx), collect personal information about users of its website. This privacy policy explains:
 
@@ -21,7 +19,7 @@ The University of Reading, and its [wholly owned subsidiaries](https://web.archi
 
 We will collect information about you if you place an order with us for a product, such as a prospectus, or for a service, such as a conference. 
 
-We will also collect personal information about website usage through cookies (see the section on **_Cookies, Google Analytics and third party cookies_** ** ** below) and server logs, which track the IP addresses of users visiting our site and the pages they visit. 
+We will also collect personal information about website usage through cookies (see the section on Cookies, Google Analytics and third party cookies ** ** below) and server logs, which track the IP addresses of users visiting our site and the pages they visit. 
 
 ### How we will use the information 
 
@@ -31,7 +29,7 @@ The University will not sell, license or trade your personal information without
 
 Information collected via the University's server logs includes users' IP addresses and the web pages visited; this will be used to manage the web system and troubleshoot problems. 
 
-The University also uses Google Analytics, a web analytics service provided by Google, Inc. ("Google") to understand how visitors engage with our website and so we can improve it. See the section on **_Google Analytics_ **below.
+The University also uses Google Analytics, a web analytics service provided by Google, Inc. ("Google") to understand how visitors engage with our website and so we can improve it. See the section on Google Analytics ** ** below.
 
 ### Cookies, Google Analytics and third party cookies 
 
@@ -39,13 +37,13 @@ Cookies are text files placed on your computer to help us analyse how users use 
 
 To help you to understand more about them more detailed information about the cookies we use is given in the separate sections below:
 
-  * **Cookies**
+  * Cookies
   * Google Analytics
   * Third party cookies
 
 
 
-For further information on cookies visit [_http://www.allaboutcookies.org_](http://www.allaboutcookies.org/) or [_http://www.aboutcookies.org_](http://www.aboutcookies.org/).
+For further information on cookies visit [www.allaboutcookies.org](http://www.allaboutcookies.org/) or [www.aboutcookies.org](http://www.aboutcookies.org/).
 
 If you prefer not to receive cookies while browsing our website, you can set your browser to refuse all cookies that are stored on your computer; the above websites tell you how to do this. You do not need to have cookies turned on to use or navigate through most parts of our website, although some functionality may be lost.
 
@@ -63,17 +61,24 @@ When you close your browser the cookie will be deleted and the site will 'forget
 
 The following table gives details of the different types of cookies that might be used during a session.
 
-**Type of cookie**
+#### Type of cookie 
 
 | 
 
-**Cookie name**
+#### Cookie name
 
-| **How long does it stay on my computer?**   | 
+| 
 
-**What is it for?**
+#### How long does it stay on my computer? 
 
-| **What information does it contain?**  
+| 
+
+#### What is it for?
+
+| 
+
+#### What information does it contain?  
+  
 ---|---|---|---|---  
   
 **ASP cookies**
@@ -82,11 +87,17 @@ The following table gives details of the different types of cookies that might 
 
 Name begins with ASPSESSIONID
 
-| Until you close your browser | 
+| 
+
+Until you close your browser
+
+| 
 
 Automatically set when visiting any pages running on the ASP platform - essential for the running of web sites using ASP.
 
-| This cookie contains a randomly generated number - your session ID  
+| 
+
+This cookie contains a randomly generated number - your session ID  
   
 **ASP.NET cookies**
 
@@ -98,7 +109,9 @@ ASP.NET_SessionID
 
 Essential for some interactive features of the University website such as online forms. It is only put on your computer when you use one of these features. 
 
-| This cookie contains a randomly generated number - your session ID  
+| 
+
+This cookie contains a randomly generated number - your session ID  
   
 **ASP.NET framework cookie**
 
@@ -106,11 +119,17 @@ Essential for some interactive features of the University website such as online
 
 ASP.NET_SessionID
 
-| Until you close your browser | 
+| 
+
+Until you close your browser
+
+| 
 
 Automatically set when visiting any pages running on the ASP.NET platform - essential for the running of web sites using ASP.NET. 
 
-|  This cookie contains a randomly generated number - your session ID  
+| 
+
+This cookie contains a randomly generated number - your session ID  
   
 **Java Server Pages (JSP)**
 
@@ -118,11 +137,17 @@ Automatically set when visiting any pages running on the ASP.NET platform - esse
 
 JSESSIONID
 
-|  Until you close your browser | 
+| 
+
+Until you close your browser
+
+| 
 
 Automatically set when visiting any pages running on the JSP platform - essential for the running of web sites using JSP.
 
-| This cookie contains a randomly generated number - your session ID  
+| 
+
+This cookie contains a randomly generated number - your session ID  
   
 **PHP cookies**
 
@@ -134,7 +159,9 @@ PHPSESSID
 
 Automatically set when visiting any pages running on the PHP platform -essential for the running of web sites using PHP such as our blogs at blogs.reading.ac.uk.
 
-| This cookie contains a randomly generated number - your session ID  
+| 
+
+This cookie contains a randomly generated number - your session ID  
   
 **X-CMS-Server  cookie**
 
@@ -142,11 +169,17 @@ Automatically set when visiting any pages running on the PHP platform -essential
 
 ROUTEID
 
-| Until you close your browser | 
+| 
+
+Until you close your browser
+
+| 
 
 This is given to a user on the first request to a CMS server via the load balancer; it is required to ensure that subsequent request are always forwarded to the same frontend CMS server to maintain sessions.
 
-| The cookie will have the value of either .cms1 or .cms2.  
+| 
+
+The cookie will have the value of either .cms1 or .cms2.  
   
 #### Google Analytics 
 
@@ -154,27 +187,35 @@ We use Google Analytics to help us to understand how you make use of our content
 
 The information generated by the cookie about your use of the website, including your IP address, may be transmitted to and stored by Google on servers in the United States. Google may use this information for the purpose of evaluating your use of the website, compiling reports on website activity for us and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above. 
 
-The Google website contains further information about [_Analytics_](http://www.google.com/intl/en/analytics/privacyoverview.html) and a copy of [Google's privacy policy](http://www.google.com/intl/en/privacypolicy.html).
+The Google website contains further information about [Analytics](http://www.google.com/intl/en/analytics/privacyoverview.html) and a copy of [Google's privacy policy pages.](http://www.google.com/intl/en/privacypolicy.html).
 
-Other parts of the University's website also store cookies on your computer to track user traffic patterns. We do this to see how the website is used, to determine page popularity, to help security and for general statistical purposes. Some of this information may be held on servers in the United States, however only companies participating in the [_Safe Habor agreement_](https://safeharbor.export.gov/list.aspx), the mechanism for ensuring personal information has adequate protection when transferred outside the UK, are used for this purpose. 
+Other parts of the University's website also store cookies on your computer to track user traffic patterns. We do this to see how the website is used, to determine page popularity, to help security and for general statistical purposes. Some of this information may be held on servers in the United States, however only companies participating in the [Safeharbor Agreement](https://safeharbor.export.gov/list.aspx), the mechanism for ensuring personal information has adequate protection when transferred outside the UK, are used for this purpose. 
 
 The following table gives details of the different types of Google Analytics cookies that are used on this website.
 
- 
+#### Type of cookie 
 
-**Type of cookie**
+| 
 
-|  
+#### Cookie name
 
-**Cookie name**
+| 
 
-| **How long does it stay on my computer?** |  
+#### How long does it stay on my computer?
 
-**What is it for?**
+| 
 
-| **What information does it contain?**  
+#### What is it for?
+
+| 
+
+#### What information does it contain?  
+  
 ---|---|---|---|---  
-**Google Analytics** | 
+  
+**Google Analytics**
+
+| 
 
 _utma
 
@@ -186,8 +227,13 @@ For two years from when it is set
 
 Automatically set when visiting any of our pages. Enables the use of the Google Analytics web statistics service.
 
-| These cookies store anonymous data on your visit to the Reading website.   
-**Google Analytics** | 
+| 
+
+These cookies store anonymous data on your visit to the Reading website.  
+  
+**Google Analytics**
+
+| 
 
 _utmb
 
@@ -199,8 +245,13 @@ For 30 minutes after your last activity on the site
 
 Automatically set when visiting any of our pages. Enables the use of the Google Analytics web statistics service.
 
-| These cookies store anonymous data on your visit to the Reading website.   
-**Google Analytics** | 
+| 
+
+These cookies store anonymous data on your visit to the Reading website.  
+  
+**Google Analytics**
+
+| 
 
 _utmc
 
@@ -212,8 +263,13 @@ When you close your browser
 
 Automatically set when visiting any of our pages. Enables the use of the Google Analytics web statistics service.
 
-| These cookies store anonymous data on your visit to the Reading website.   
-**Google Analytics** | 
+| 
+
+These cookies store anonymous data on your visit to the Reading website.  
+  
+**Google Analytics**
+
+| 
 
 _utmz
 
@@ -225,32 +281,34 @@ For six months from when it is set
 
 Automatically set when visiting any of our pages. Enables the use of the Google Analytics web statistics service.
 
-| These cookies store anonymous data on your visit to the Reading website  
+| 
+
+These cookies store anonymous data on your visit to the Reading website.  
   
 ####   
 Third party cookies
 
-We know that a lot of visitors to our website use social networking tools, so we have tried to make it easy for you to share our content using these services. We use a button provided by ShareThis to enable this functionality and this button places its own cookies on your machine. We also pull through content from social networks into our own pages, such as embedded Twitter feeds. The social networks, such as Facebook and Twitter, may themselves also put cookies on your machine. We have little control over these 'third party' cookies, so we suggest that you check the respective privacy policies for these external services to help you understand what data these organisations hold about you and what they do with it. For instance, the [ _Facebook Data Use Policy_](http://www.facebook.com/about/privacy/) and the [_Twitter privacy policy_](https://twitter.com/privacy) give further information about those services.
+We know that a lot of visitors to our website use social networking tools, so we have tried to make it easy for you to share our content using these services. We use a button provided by ShareThis to enable this functionality and this button places its own cookies on your machine. We also pull through content from social networks into our own pages, such as embedded Twitter feeds. The social networks, such as Facebook and Twitter, may themselves also put cookies on your machine. We have little control over these 'third party' cookies, so we suggest that you check the respective privacy policies for these external services to help you understand what data these organisations hold about you and what they do with it. For instance, the [Facebook Data Use Policy](http://www.facebook.com/about/privacy/) and the [Twitter privacy policy](https://twitter.com/privacy) give further information about those services.
 
 The following table gives details of some of the third party cookies that can be used and gives links to the appropriate privacy policies for them.
 
-**Cookie type**
+#### Cookie type
 
 | 
 
-**Cookie name**
+#### Cookie name 
 
 | 
 
-**How long does it stay on my computer?**
+#### How long does it stay on my computer? 
 
 | 
 
-**What is it for?**
+#### What is it for? 
 
 | 
 
-**What information does it contain?**  
+#### What information does it contain?  
   
 ---|---|---|---|---  
   
@@ -266,7 +324,7 @@ For two years from when it is set
 
 | 
 
-Allows our pages to be shared and liked on Facebook. Facebook may use these cookies to track how you use the internet across different websites. You can find out more about how Facebook uses your personal data on their [ _Facebook Data Use Policy_](http://www.facebook.com/about/privacy/) pages
+Allows our pages to be shared and liked on Facebook. Facebook may use these cookies to track how you use the internet across different websites. You can find out more about how Facebook uses your personal data on their [Facebook Data Use Policy](http://www.facebook.com/about/privacy/) pages
 
 | 
 
@@ -284,7 +342,7 @@ For two years from when it is set
 
 | 
 
-Allows you to "+1" our content via the Google+ social network. Google may use this cookie to collect other data about your use of the web. You can find out more about how Google uses your personal data on the [Google's privacy policy](http://www.google.com/intl/en/privacypolicy.html) pages. 
+Allows you to "+1" our content via the Google+ social network. Google may use this cookie to collect other data about your use of the web. You can find out more about how Google uses your personal data on the [Google's privacy policy pages.](http://www.google.com/intl/en/privacypolicy.html)
 
 | 
 
@@ -296,23 +354,21 @@ Data on how you use the internet, which might be linked to your Google username
 
 _stid
 
-_uset
-
 | 
 
 For one year from when it is set
-
-For eight hours from when it is set 
 
 | 
 
 Enables of use of Share This toolbars for sharing web pages on various social networking services. 
 
-For more information on how Share This uses your personal data, please see the [_Share This Privacy Policy_](http://sharethis.com/privacy).
-
 | 
 
 Data on how you use the internet, which may be linked to your Share This username  
+  
+_uset | For eight hours from when it is set | 
+
+For more information on how Share This uses your personal data, please see the [Share This Privacy Policy](http://sharethis.com/privacy).  
   
 **Twitter**
 
@@ -320,37 +376,41 @@ Data on how you use the internet, which may be linked to your Share This usernam
 
 pid
 
-guest_id
+| 
 
-original_referer
-
-k
-
-js
-
-external_referer
+For two years from when it is set
 
 | 
 
-For two years from when it is set
-
-For two years from when it is set
-
-When you close your browser
-
-For one week from when it is set
-
-For 30 days from when it is set
-
-For one day from when it is set
-
-| 
-
-Enables use of "Tweet This" buttons allowing you to share a web page via Twitter. Twitter may use these cookies to collect other data about your use of the web. To find out more about how Twitter uses your personal data please see the [ _Twitter privacy policy_](https://twitter.com/privacy) pages.
+Enables use of "Tweet This" buttons allowing you to share a web page via Twitter. Twitter may use these cookies to collect other data about your use of the web. To find out more about how Twitter uses your personal data please see the [Twitter privacy policy](https://twitter.com/privacy) pages.
 
 | 
 
 Data on how you use the internet  
+  
+original_referer
+
+| 
+
+When you close your browser  
+  
+k
+
+| 
+
+For one week from when it is set  
+  
+js
+
+| 
+
+For 30 days from when it is set  
+  
+external_referer
+
+| 
+
+For one day from when it is set  
   
 **WordPress**
 
