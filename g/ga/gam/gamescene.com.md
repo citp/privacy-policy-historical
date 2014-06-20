@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gamescene.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218020524id_/http%3A//clevermedia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamescene.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620140203id_/http%3A//clevermedia.com/privacy.html) for the most accurate reproduction.*
 
-# CleverMedia, Inc.
+# CleverMedia: Games and Apps
 
 CleverMedia, Inc., and its advertisers and affiliates are deeply committed to protecting the privacy of Internet users. We do not collect information for any marketing purposes at all. No membership or sign-up is required for playing any of the games on our sites.
 
