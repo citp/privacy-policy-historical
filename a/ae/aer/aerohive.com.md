@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aerohive.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624184921id_/http%3A//www.aerohive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aerohive.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620120518id_/http%3A//www.aerohive.com/privacy) for the most accurate reproduction.*
 
 # Aerohive Networks Privacy Policy | Aerohive Networks
 
