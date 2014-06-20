@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cstrike-planet.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219234502id_/http%3A//www.cstrike-planet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cstrike-planet.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620102603id_/http%3A//www.cstrike-planet.com/privacy) for the most accurate reproduction.*
 
 # Counter-Strike - Privacy Policy
 
