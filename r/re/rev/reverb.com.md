@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the reverb.com privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120213219id_/http%3A//reverb.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reverb.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620232019id_/https%3A//reverb.com/page/privacy) for the most accurate reproduction.*
 
 # Reverb Privacy Policy | Reverb
-
-### Privacy Policy
-
-(Current version published: November 1, 2012)
 
 Reverb is built as a community and online listing/auction site for musicians, collectors, enthusiasts, dealers and the just-plain-curious to gather in a marketplace fully dedicated to buying and selling instruments.  Therefore, the privacy of all of our members and stakeholders - your privacy - is something we take extremely seriously.  This policy details how we treat the personal information that we collect, what settings we provide for you to control how your information is used on Reverb, and how you can contact us with any questions or concerns.  This policy explains our privacy practices for Reverb.com and services provided by Reverb.com LLC (â€œReverbâ€).
 
@@ -84,4 +80,6 @@ Privacy Policy Changes** Reverb reserves the right to modify this privacy statem
 
 **Contact Reverb**
 
-If you have questions or suggestions you can contact us, by sending an email to admin@reverb.com, or writing to: Reverb Customer Service - Privacy Policy; 3323 Â½ N Paulina St, Chicago, IL 60657 
+If you have questions or suggestions you can contact us, by sending an email to admin@reverb.com, or writing to: Reverb Customer Service - Privacy Policy; 3323 ½ N Paulina St, Chicago, IL 60657 
+
+Current version published: November 1, 2012
