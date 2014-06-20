@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the treatment-centers.net privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430093504id_/http%3A//www.treatment-centers.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the treatment-centers.net privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620054801id_/http%3A//www.treatment-centers.net/privacy.html) for the most accurate reproduction.*
 
 # Treatment-Centers.net
 
