@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simpledressup.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218203758id_/http%3A//www.simpledressup.com/index.php%3Fpageid%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simpledressup.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620212346id_/http%3A//www.simpledressup.com/index.php%3Fpageid%3D3) for the most accurate reproduction.*
 
 # Fashion Games Privacy Policy
 
