@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the birthdaymessages.net privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219052845id_/http%3A//www.birthdaymessages.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birthdaymessages.net privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620110102id_/http%3A//www.birthdaymessages.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Top  |  Bottom**
+  
+
 
 We recognize that your privacy is important. This document outlines the types of personal information we receive and collect when you use BirthdayMessages.net, as well as some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing personal information with us.
 
@@ -31,8 +32,9 @@ We may serve third-party advertisements that use cookies and web beacons in the 
 
 Some third-party advertisements may be provided by Google, which uses cookies to serve ads on this site. Google uses the DART cookie, which enables it to serve ads to our users based on their visits to this site and other sites on the Web. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
-Browsers can be set to accept or reject cookies or notify you when a cookie is being sent. Privacy software can be used to override web beacons. Taking either of these actions shouldn't cause a problem with our site, should you so choose.  
+We also allow certain third-party companies to collect certain anonymous information when you visit our website. These companies may use non-personally identifiable information during your visits to this and other websites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or a third party web beacon to collect this information. To learn more about this behavioral advertising practice, you can visit [www.networkadvertising.org](http://www.networkadvertising.org/).
 
+Browsers can be set to accept or reject cookies or notify you when a cookie is being sent. Privacy software can be used to override web beacons. Taking either of these actions shouldn't cause a problem with our site, should you so choose.
 
  **Non-Personal Information**  
 
