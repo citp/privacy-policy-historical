@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daft.ie privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216205546id_/http%3A//www.daft.ie/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daft.ie privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620164948id_/http%3A//www.daft.ie/privacy) for the most accurate reproduction.*
 
 # Daft.ie : Information
 
@@ -67,7 +67,7 @@ If you have consented on signup or the appropriate email form, we may provide an
 
 If our business enters into a joint venture with or is sold to or merged with another business entity, your information may be disclosed to our new business partners or owners. 
 
-We use third party analytics services to help understand your use of our services. In particular, we provide a limited amount of your information (such as your sign-up date and username) to Intercom, Inc. ("Intercom") and we use Intercom to collect data for analytics purposes when you visit our website or use or product. Intercom analyzes your use of our website and/or product and our relationship with you, so that we can improve our service to you. We may also use Intercom as a medium or communications, either through email, or through messages within our product(s). Also as part of their service to us, Intercom collects publicly available contact and social information related to you, such as your email address, gender, company, job title, photos, website URLs, social network handles and physical addresses, so that we can continue to improve our relationship with you. For more information on the privacy practices of Intercom, please check [http://docs.intercom.io/privacy](https://docs.intercom.io/privacy). Intercom's services are governed by Intercom's terms of use which can be found at [http://docs.intercom.io/terms](https://docs.intercom.io/terms). 
+We use third party analytics services to help understand your use of our services. Google Analytics combines information from Google's interest-based advertising or 3rd-party audience data to provide approximate demographic information. We provide a limited amount of your information (such as your sign-up date and username) to Intercom, Inc. ("Intercom") and we use Intercom to collect data for analytics purposes when you visit our website or use or product. Intercom analyzes your use of our website and/or product and our relationship with you, so that we can improve our service to you. We may also use Intercom as a medium or communications, either through email, or through messages within our product(s). Also as part of their service to us, Intercom collects publicly available contact and social information related to you, such as your email address, gender, company, job title, photos, website URLs, social network handles and physical addresses, so that we can continue to improve our relationship with you. For more information on the privacy practices of Intercom, please check [http://docs.intercom.io/privacy](https://docs.intercom.io/privacy). Intercom's services are governed by Intercom's terms of use which can be found at [http://docs.intercom.io/terms](https://docs.intercom.io/terms). 
 
 If you would like to opt out of having this information collected by or submitted to Intercom, please contact us. 
 
@@ -100,9 +100,6 @@ cookie_uid | User ID | Set only if "Remember me" is checked. Auto-login on subse
 cookie_notice | 1 |  Whether the user has seen the sitewide notice regarding the use of cookies on Daft.ie.  | 1 year from being set  
 daft_last_search | Json representation of last search filters used |  Used to generate the recently searched properties for the homepage  | 1 month from being set  
 dgo | 1 |  Used to signify that a mobile user does not wish the site to open in the app  | 1 month from being set  
-sailthrough_viewed | Number of times the slide-out notice has been seen |  Used to limit number of times slide-out notice is seen by a user  | 1 year from being set  
-sailthrough_seen | Name of slide-out campaign seen |  Used to record the type of slide-out notice seen  | 1 year from being set  
-sailthrough_dismissed | 1 |  Used to signify that a slide-out notice has been dismissed by a user  | 1 year from being set  
   
 In addition to the above cookies set by Daft, cookies may also be set by a number of our site partners. 
 
