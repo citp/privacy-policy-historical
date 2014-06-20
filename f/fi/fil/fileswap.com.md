@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fileswap.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424215128id_/http%3A//www.fileswap.com/legal/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fileswap.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620165708id_/http%3A//www.fileswap.com/legal/privacy_policy.php) for the most accurate reproduction.*
 
 # FileSwap.com : Privacy Policy
 
