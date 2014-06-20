@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sierratradingpost.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215005505id_/http%3A//www.sierratradingpost.com/lp2/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sierratradingpost.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620200636id_/http%3A//www.sierratradingpost.com/lp2/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy: Save up to 70% at Sierra Trading Post.
 
@@ -89,7 +89,7 @@ If you are a California resident, California law provides that you be given the 
 
 If you are a California resident, you may ask us to refrain from sharing your personal information with certain of our affiliates and other third parties for their marketing purposes. Please tell us your preference by contacting Customer Service. [insert link] If you have already received communications from us, it will expedite the opt-out process if you are prepared to provide us with the exact name, e-mail and/or postal mail addresses under which you have been receiving communications from us. Please note that it may take us up to 30 days to fully process your opt-out request. 
 
-To review our complete Privacy Notice, please [click here](http://www.sierratradingpost.com/lp2/policies/#privacypolicy).
+To review our complete Privacy Notice, please [click here](http://www.sierratradingpost.com/lp2/privacy-policy/).
 
 If you have questions regarding our Privacy Notice, or if you wish to update the personal information you have provided to us, you may contact [customer service](https://web.archive.org/lp2/customer-service/).
 
