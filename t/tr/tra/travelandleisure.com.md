@@ -1,106 +1,213 @@
-> *The following text is extracted and transformed from the travelandleisure.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628232735id_/http%3A//www.amexpub.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelandleisure.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620204334id_/http%3A//www.amexpub.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
-At American Express Publishing Corporation ("AEP"), we value and protect your privacy. We thank you for the trust that you place in us and we want you to know that the information you share with us will be treated with care.
+* AMERICAN EXPRESS PUBLISHING is a trademark of American Express Marketing & Development Corp. and is used under limited license. Time Inc. Affluent Media Group is not affiliated with American Express Company or its subsidiaries.
 
-The objective of our Privacy Statement is to disclose and explain what information we collect, use, and share and to explain the privacy choices that you can make. We encourage you to read our Privacy Statement as well as those of all websites that you visit.
+  
+Effective Date: November 11, 2013
 
-This Privacy Statement applies to any information collected by AEP or its "Vendors" via: (1) the websites owned or operated by AEP ("AEP Websites" or "Websites"), (2) e-mail or any electronic newsletters in which you enroll, (3) offline means such as telephone, traditional mail, or in person, or (4) any other online or offline means in connection with AEP generally or with any of the AEP products and services listed [here](https://web.archive.org/web/20130628232735id_/http%3A//www.amexpub.com/products). AEP may provide links to third-party websites. Since we do not control third-party sites and are not responsible for any information you may provide while on such sites, we encourage you to read the privacy policies on those sites before providing any of your "Personally Identifiable Information" ("PII") on such sites.
+American Express Publishing ("AEP," "we," "our" or "us"), a division of Time Inc. Affluent Media Group, is committed to safeguarding your privacy. We want you to know how we may collect, use, share, and keep information about you and the choices that are available to you. [Click here](https://web.archive.org/web/20140620204334id_/http://www.amexpub.com/privacy/aep-bus-units.html) for a list of the businesses that are governed by this Privacy Policy.
 
-Effective Date: September 28, 2007
+This online privacy policy applies to AEP sites, applications, products, publications and services that reference this policy. AEP is not affiliated with American Express Company or its subsidiaries, and this Policy does not apply to those sites that have their own online privacy policies such as the American Express website, americanexpress.com, and the American Express Network website, amexnetwork.com.
 
-  * The Information We Collect 
-  * How We Use and Share The Information We Collect
-  * Using Your E-mail Address
-  * Advertisements That Link to Our Websites
-  * Transfers of Information to Other Countries
+Our sites, applications, products, publications and services are not intended for children under 13 years of age. We do not knowingly solicit data online from, or market online to, children under 13 years of age. 
 
+Since we may change this online privacy policy from time to time, we recommend that you check the current version available. 
 
+## What is in this online privacy policy?
 
-## The Information We Collect
-
-When you visit the AEP Websites, we or our Vendors collect information, including PII that you provide, in order to provide you with the products and services you requested or with offers or promotions that may interest you, service your accounts, and save you time and better respond to your needs.
-
-We use "Cookie" technology to collect Website statistical information and to improve your customer experience with the AEP Websites. Cookies set by AEP do not capture any PII. However, if you choose to furnish us with PII, this information may be linked to the data stored in the Cookie to further enhance your experience with our Websites. For example, we may use Cookies to personalize your experience at our Websites (e.g., to recognize you by name when you return to our Websites), save your password in password-protected areas, and enable you to use shopping carts on our Websites. We also may use Cookies to offer you products, programs, or services.
-
-When browsing the AEP Websites, you may choose not to provide us with any PII, such as by choosing not to register or to login. When you browse in this way, we will not link your Cookie information with the account(s) you may have with AEP.
-
-We or our Vendors also automatically collect some statistical data as you browse our Websites. For example, we automatically collect your "IP Address" used to connect your computer to the Internet, browser type and version, operating system and platform, average time spent on our Websites, pages viewed, information searched for, access times, "Clickstream Data," and other relevant information about your online experience.
-
-AEP may also use "Web Beacons" to present offers on the AEP Websites, or other websites on which AEP advertises. In addition, e-mail offers that we send you may contain Web Beacons to help us record response rates, assist in measuring the offer's effectiveness, and/or generally enhance the relevance of e-mail offers. We sometimes use Vendors to manage Web Beacons and the data they collect; however, Web Beacons do not capture any PII that you enter on the AEP Websites.
-
-We or our Vendors also collect information, including PII, that you provide via telephone, traditional mail, e-mail, in person, or otherwise.
-
-At some AEP Websites and through certain promotions, you can submit information, including PII, about other people. For example, if you order a gift online or offline and want it sent directly to the recipient, we might collect the recipient's name, address, e-mail address, and telephone number.
-
-## How We Use and Share The Information We Collect
-
-AEP uses the information we or our Vendors collect about you and others, including PII, to complete transactions, respond to your requests, deliver the products and services in which you enroll or request, and notify you of updates, products, services, offers, or promotions that may interest you. We may process or combine your information with other information that is publicly available. This enables us to customize your customer experience and provide you with more relevant offers. AEP may also use the information that we or our Vendors collect from you online and via other means to market to you through alternative channels.
-
-AEP may share your information within our American Express family of companies. To provide products and services to you or offers that may interest you, we may also share your information with carefully selected Vendors with whom we work. This includes companies that manage accounts and companies that perform marketing services and other business operations for us. All companies that act on our behalf are required to safeguard PII.
-
-AEP may share your information with "Business Partners" carefully selected by us that may wish to offer you products or services that may interest you, either in conjunction with AEP or by themselves.
-
-We may also use or disclose your information, including PII, to comply with the law or in response to a subpoena, court order, government request, or other legal process, or as otherwise permitted by law; to report or collect debts owed; to reduce fraud or criminal activity; to protect the legal rights of AEP, our customers, our Websites, or the users of our Websites; or to allow a purchaser of an AEP division, or AEP as a whole, to continue using your information to serve you or as otherwise permitted by this Privacy Statement.
-
-## Using Your E-Mail Address
-
-We may use your e-mail address for the following types of e-mail messages:
-
-  * **Account Service Communications.** We may send you communications related to AEP products and services in which you are enrolled (e.g., subscription and membership communications).
-  * **Updates and Valuable Offers.** We may send you e-mail account updates, offers for our products and services, requests for enrollment, as well as valuable offers from our Business Partners that we send you on their behalf. 
-  * **Regularly Scheduled E-mail Newsletters** that you elected to receive.
+  * What information does this online privacy policy cover?
+  * What information do we collect and how do we collect it?
+  * How do we use the information we collect about you?
+  * Your California Privacy Rights: Notice to California Customers
+  * How do we share your information?
+    * How we treat your Personal Information
+    * How we handle aggregate and de-identified information
+  * How do we keep and safeguard your information?
+  * What are your choices?
+  * Collection of Information by Third-Party Sites and Sponsors
+  * How we serve advertising
+  * Accessing, Correcting, and Deleting Your Personal Information
+  * How to Contact Us
+  * Glossary
 
 
 
-You can also elect to receive other types of e-mail messages from us, including alerts and notifications.
+##   
+What information does this online privacy policy cover?
 
-## Advertisements That Link to Our Websites
+This online privacy policy describes how we (and our Service Providers) may collect, use, share, and keep information that we get about you. We gather Online Information, which is data or information collected on the AEP sites and applications as well as on sites and applications of third parties relating to topics about our business, and Other Information, which is AEP internal information (for example subscription transaction data), external data used to process transactions and other online and offline data, including data collected from or about you via telephone, postal mail, in person and from Business Partners.
 
-AEP hires Vendors to place advertisements on the AEP Websites and our banner advertisements on other websites, and to perform tracking and reporting activities on the AEP Websites and other websites. This enables us to learn which advertisements and websites bring users to our Websites and to improve the user experience. Cookies are used to assist with these activities. In doing so, a unique Cookie is placed on your computer either by us or a Vendor in accordance with the terms of this Privacy Statement.
+We gather Online Information and Other Information if you:
 
-This Privacy Statement does not cover any use of information that such Vendors may have collected from you or the methods used by them to collect that information. Rather, such Vendors have their own privacy policies. If you would like more information about their privacy policies, including information on how to opt out of their tracking methods, please visit [this link](https://web.archive.org/privacy/optout/thirdparty).
-
-## Transfers of Information to Other Countries
-
-Some of the uses and disclosures mentioned in this Privacy Statement may involve the transfer of your PII to various countries around the world. By submitting your PII to AEP via an AEP Website or otherwise, you consent to such transfers.
-
-  * How To Opt Out of Receiving Offers and Promotions
-
-
-
-AEP respects the choices that you make regarding your privacy. You may request that we no longer send you e-mails and/or offline offers or promotions, or share your information with our Business Partners that are interested in providing you with offers and promotions that may interest you.
-
-## Privacy Choices: How to Opt Out of Receiving Offers and Promotions
-
-  * If you do not want to receive future offers or promotions from AEP via e-mail, please [click here](http://www.amexpub.com/privacy/optout/aepemail). In addition, if you have elected to receive certain marketing e-mails from AEP but decide that you no longer want to receive them, you may also follow the unsubscribe instructions that are located at the bottom of those e-mail messages.
-  * If you do not want to receive future offers or promotions from AEP via offline means, please [click here](https://web.archive.org/web/20130628232735id_/http%3A//www.amexpub.com/optout/aepoffline).
-  * If you do not want us to share your e-mail address with our Business Partners in the future so that they can e-mail you information about products or services that may interest you, please [click here](https://web.archive.org/web/20130628232735id_/http%3A//www.amexpub.com/optout/bpemail).
-  * If you do not want us to share your PII with our Business Partners in the future so that they can use offline means to provide you with information about products or services that may interest you, please [click here](https://web.archive.org/web/20130628232735id_/http%3A//www.amexpub.com/optout/bpoffline).
+  * Visit or use our sites, applications, products, publications or services;
+  * Order publications or other products;
+  * Receive or reply to communications from us; 
+  * View or click on our ads or engage with other online content or in various activities like entering contests or sweepstakes, playing games, taking quizzes, voting in polls or otherwise expressing an opinion; subscribe to one of our services, such as newsletters; or participate in one of our online forums or communities;
+  * Interact with us through social media sites and other sites and applications; and
+  * Provide information via any other means in connection with AEP generally or with any of the AEP products and services listed here (hyperlink to www.amexpub/privacy/products).
 
 
 
-Please note that even if you opt out of receiving e-mails and/or offline offers or promotions, we may continue to send you service notifications via e-mails or offline means that are related to your account(s) and other products and services you have requested or in which you are currently enrolled. These include e-mails that provide account information (including information about the expiration and possible renewal of any subscription you have with AEP and other servicing communications based on your customer status), answer your questions about a product or service, facilitate or confirm a sale, or fulfill a legal or regulatory requirement.
+In this policy, we also explain how we may combine Online Information and Other Information we collect from you and how we then use the combined information. 
 
-We use reasonable administrative, technical, and physical security measures to protect your PII from unauthorized access and use. Do not use e-mail to send us any PII, since it would be unencrypted and can be read by anyone who receives or intercepts it.
+##   
+What information do we collect and how do we collect it?
 
-If you wish to correct or update the PII related to your AEP account(s), please contact us at the applicable mailing address or telephone number listed here.
+The types of information we collect depends on which product or service you use.
 
-AEP reserves the right to change this Privacy Statement at any time by posting revisions on this Website. Such changes will be effective upon posting.
+Sometimes you give information directly to us (or to our Service Providers). For example, you might give us your name, address, e-mail address, telephone number, date of birth and credit or debit card information in order to:
 
-Click here to contact AEP if you have any questions about this Privacy Statement.
+  * Subscribe to or purchase any of our products or services, such as our publications (hyperlink to product page) or club memberships (hyperlink to product page that includes list of clubs/events); 
+  * Fill out a form or survey;
+  * Give us information for consideration for content on a website or in a magazine or application. This might include writing an essay, taking photographs or videos, and other activities. 
+  * Register, log into or update the settings on your account using our online services;
+  * Enter a competition or register for a marketing offer; or
+  * Buy something on our sites and in our applications. 
 
-**Business Partner** \- A Business Partner is any third party with which AEP conducts business, except that the term Business Partner does not include a Vendor, as defined below.
 
-**Clickstream Data** \- Clickstream Data is information that users generate as they move from page to page and click on items within a website, usually stored in log files. Website designers can use Clickstream Data to improve users' experiences with a website.
 
-**Cookie** \- A Cookie is a small piece of information that a website transfers to the hard drive of a visitor's computer for record-keeping purposes. Cookies provide visitors a personalized experience on the Websites owned or operated by AEP by enabling us to determine unique preferences and trends based on visits to these Websites and to other websites.
+At some AEP sites and through certain promotions, you can submit information about other people. For example, you might submit a person's name, mailing and/or e-mail address to send a gift or electronic greeting card. The types of personally identifiable information that may be collected about other people at these pages include recipient's name, address, e-mail address and telephone number.
 
-**IP Address** \- An IP Address is a number that is assigned to your computer automatically and required for using the Internet.
+We (and our Service Providers or Third-Party Ad-Servers) also collect information through Cookies and Similar Technologies. Most Cookies and Similar Technologies will only collect De-Identified Information such as how you arrive at our website or your general location. However, certain Cookies and Similar Technologies do collect Personal Information. For example, if you click Remember Me when you log in to our website, a cookie will store your information. 
 
-**Personally Identifiable Information ("PII")** \- PII is information collected online or offline by AEP or by our Vendors that identifies the person to whom such information pertains, including without limitation name, address, telephone number, and e-mail address.
+We (and our Service Providers or Third-Party Ad-Servers) may collect information using Cookies and Similar Technologies about:
 
-**Vendor** \- A Vendor is any third party that performs business operations on behalf of AEP, including without limitation printing, mailing services and other communications services (e.g., e-mail, direct mail, or otherwise), marketing, data processing, customer acquisition and servicing, collections, or advertisement management.
+  * The device you use to browse our sites (for example, we may collect information about the operating system or the browser version and the type of computer or mobile device, including other identifying details);
+  * The IP Address and information related to that IP Address (such as domain information, your internet provider and general geographic location);
+  * Browsing history on our site (such as what you search for, the pages you view, how long you stay, and how often you come back);
+  * How you search for our site, from which sites you visit to our site, and which of our Business Partners’ sites you visit;
+  * Which ads or online content from us and our Business Partners you view, access, or click on;
+  * Whether you open our electronic communications and which parts you click on 
+  * The location of your mobile device (for example, when you use our mobile sites or apps to register to receive location-based content).
 
-**Web Beacon** \- A Web Beacon, also known as a "clear GIF" (a common format for image files), is an invisible file located on webpages that you visit. They are often used in combination with a Cookie to track navigation of a site. If you visit a page on a website owned or operated by AEP that contains a Web Beacon, it communicates with your computer to determine, among other things, whether you have been to that page before or viewed a particular advertisement.
+
+
+We (and our Service Providers or Third-Party Ad-Servers) also may collect information made publicly available through third-party platforms (such as social media sites), online databases or other directories. 
+
+## How do we use the information we collect about you?
+
+We may use Online Information we collect about you on its own or combine it with Other Information we have about you to:
+
+  * Deliver products and services, including to:
+    * recognize you when you return to our sites;
+    * complete transactions; 
+    * tell you about updates to your membership, products, and services;
+    * answer questions and respond to your requests made through our sites and through third-party sites (including social media); 
+    * improve our sites and make them easier to use; 
+  * Use the location of your mobile device to prevent fraud or deliver other location-based services that you may request;
+  * Protect your information;
+  * Update you about new features and benefits; 
+  * Determine how to best provide services to you, such as the best way to contact you;
+  * Advertise and market our products and services - and those of our Business Partners \- including to:
+    * present Targeted Advertising send or provide you with ads, promotions, and offers;
+    * analyze whether our ads, promotions, and offers are effective; 
+    * help us determine whether you may be interested in new products or services; 
+  * Conduct research and analysis, including to:
+    * better understand our customers and site visitors;
+    * allow you to give feedback by rating and reviewing our products and services and those of our Business Partners; 
+    * produce data analytics, statistical research, and reports; 
+    * review and change our products and services;
+  * Use it in other ways as required or permitted by law or with your consent.
+
+
+
+## Your California Privacy Rights: Notice to California Customers
+
+California's "Shine the Light" law, Civil Code Section 1798.83, requires certain businesses to respond to requests from California customers asking about the businesses' practices related to disclosing personal information to third parties for the third parties' direct marketing purposes. Alternately, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties' direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. (Note: AEP sites do not recognize the "do not track signals" that some browsers may employ.) As discussed above, if you wish to opt-out of our sharing of your information with third parties for the third parties' direct marketing purposes offline please [click here](http://www.amexpub.com/privacy/optout/aepoffline/), or for email please [click here](http://www.amexpub.com/privacy/optout/aepemail). To find out more about your opt-out rights, please contact us as described in the "How to Contact Us" section below.
+
+Some Online Information and Other Information is Personal Information, which is information that can identify a person, such as name, address, e-mail address, telephone number, date of birth and credit or debit card information.
+
+## How we treat your Personal Information
+
+We do not share Personal Information with anyone except as described below. We may share Personal Information as required or as permitted by law, such as:
+
+  * With regulatory authorities, courts, and governmental agencies to comply with legal orders, legal or regulatory requirements, and government requests;
+  * With our Service Providers, regulatory authorities, and governmental agencies to detect and prevent fraud or criminal activity, and to protect the rights of AEP or others;
+  * Within the other divisions of Time Inc. Affluent Media Group that share this privacy policy;
+  * With our Service Providers who perform services for us and help us operate our business (we require Service Providers to safeguard Personal Information and only use your Personal Information for the purposes we specify);
+  * With Business Partners who may wish to contact you about products, services, and offers that may interest you, either in conjunction with AEP or by themselves. These Business Partners’ practices are not covered by this privacy policy. (If you do not want us to share your Personal Information with our Business Partners in the future, please [click here](http://www.amexpub.com/privacy/optout/bpoffline/).);
+  * In the context of a sale of all or part of [American Express Publishing](https://www.americanexpress.com/au/content/privacy-statement-2012.html#AEFC) or Time Inc. Affluent Media Group or their assets; or
+  * For specific products or services, when you have given your consent.
+  * Also, we may transfer Personal Information to Service Providers or companies within the Time Inc. Affluent Media Group throughout the world, for example, to process transactions and provide you with our products or services. Regardless of where we process your information, we still protect it in the manner described in this privacy policy and according to the applicable laws.
+
+
+
+## How we handle Aggregate and De-Identified Information
+
+Aggregate Information or De-Identified Information does not identify you individually; it helps us to analyze patterns among groups of people. We may share Aggregate Information or De-Identified Information in several ways, for example:
+
+  * For the same reasons as we might share Personal Information;
+  * With Business Partners to help develop and market products and deliver targeted content and ads;
+  * With Business Partners to conduct analysis and research about customers and site visitors; or
+  * With Third-Party Ad-Servers to place ads (including ads of our Business Partners) on various sites and applications, and to analyze the effectiveness of those ads.
+
+
+
+Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Policy. Inadvertent disclosures may result, for example, when third parties misrepresent their identities in asking the site for access to personally identifiable information about themselves for purposes of correcting possible factual errors in the data.
+
+## How do we keep and safeguard your information?
+
+We use administrative, technical and physical security measures to protect your Personal Information. These measures include computer safeguards and secured files and facilities. No system can be completely secure, however, and we do not guarantee that unauthorized disclosures and access will not happen.
+
+We will keep your Online Information and Other Information as long as necessary to deliver our products and services, unless we are required by law or regulation or for litigation and regulatory investigations to keep it for a longer period of time.
+
+## What are your choices?
+
+You have choices about how AEP uses your information, such as how we market to you or how we manage Cookies or Similar Technologies[1].
+
+## What are your choices about how we directly market to you?
+
+You can choose how you would like to receive direct marketing communications - whether we send them to you through postal mail, email and/or telephone. If you choose to not receive marketing communications from us, we will honor your choice. Please be aware that if you choose not to receive such communications, certain offers attached to the products or services you have chosen may be affected. We will still communicate with you in connection with servicing your account, fulfilling your requests, or administering any promotion or any program in which you have elected to participate.
+
+## Collection of Information by Third-Party Sites and Sponsors
+
+Some of our sites contain links to other sites whose information practices may be different than ours. You should consult the other sites' and services' privacy notices, as we have no control over information that is submitted to, or collected by, these third parties or their use of your information.
+
+AEP sites sometimes may offer contests, sweepstakes, promotions, editorial features, or other activities or offerings that are sponsored or co-sponsored by or presented with identified third parties. By virtue of your participation in such activities or offerings, your IP address and the personally identifiable information that you voluntarily submit may be provided to both the AEP site and the third parties. AEP has no control over the third parties' use of this information.
+
+## How we serve advertising
+
+We use reputable third parties to serve advertisements, including Online Behavioral Advertisements, that you may see on the web pages and to conduct research about the advertisements. This privacy notice does not cover any use of information that such third parties may have collected from you (e.g., type of browser, operating system, domain name, day and time of visit, page(s) visited) or the methods used by the third-parties to collect that information (e.g., cookies, web beacons and clear gifs). 
+
+For additional information on advertisements and your Online Behavioral Advertising options, visit our [About Ads page](http://www.amexpub.com/privacy/aep-behavioral.html) and our [Network Advertising Initiatives page](http://subscription-assets.timeinc.com/prod/assets/themes/magazines/default/template-resources/html/legal/parties.html). 
+
+## Accessing, Correcting, and Deleting Your Personal Information
+
+We will take reasonable steps to accurately record the personal information that you provide to us and any subsequent updates.
+
+We encourage you to review and update the personal information that we maintain about you, and you may request that we delete personal information about you that is inaccurate or incomplete by contacting us as described in the "How to Contact Us" section below. At our election, instead of deleting such information, we may retain it with your comment or correction noted in our records. Your right to review, update, correct and delete your information is subject to our records retention policies and applicable law, including any statutory retention requirements.
+
+If you have questions about our online privacy policy, you may contact us by 1-866-642-1356 or write to us at
+
+American Express Publishing  
+Attention: Consumer Affairs  
+3000 University Center Drive  
+Tampa, Florida 33612-6408
+
+[Click here](mailto:aepprivacy@timeinc.com) to email us if you have any questions about our online privacy policy. 
+
+**Aggregate Information** \- data or information relating to multiple people which has been combined or aggregated. Aggregate Information includes information that we create or compile from various sources, including subscriptions or certain data from Cookies and Similar Technologies. 
+
+**American Express Publishing ("we," "our," "us"),** \- a division of Time Inc. Affluent Media Group. All rights reserved. AMERICAN EXPRESS PUBLISHING is a trademark of American Express Marketing & Development Corp. and is used under limited license. Time Inc. Affluent Media Group is not affiliated with American Express Company or its subsidiaries.
+
+**Time Inc. Affluent Media Group** \- any affiliate and subsidiary of, and any company owned or controlled by, the Time Inc. Affluent Media Group.
+
+**Business Partners** \- any third parties with whom we conduct business and have a contractual relationship, such as a business that advertises on our sites, applications or within our products. 
+
+**Cookies and Similar Technologies** \- A _cookie_ is a small data file that a website transfers to your computer's hard drive. We may send cookies when you visit our site or sites where our ads appear or when you make purchases, request or personalize information, or register for certain services. If you accept the cookies used on our site, sites that are “powered by” another company on our behalf, or sites where our ads appear, you may give us access to information about your interests. We may use that information to personalize your experience. Similar technologies such as web beacons, pixels, gifs, and tags also do the same thing. We use the term _Cookies and Similar Technologies_ in this policy to refer to all technologies that collect information in this way. 
+
+Most browsers automatically accept cookies. You can set your browser option so that you will not receive cookies, and you can also delete existing cookies from your browser. However, you may find that some parts of the site will not function properly if you have refused Cookies and Similar Technologies. If you wish to block cookies, go to <http://www.allaboutcookies.org/> to find out how, or check your browser’s instructions. 
+
+**De-identified Information** \- data or information used in a way that does not identify you to a third party. We often derive De-Identified Information from Personal Information. It includes information that we may collect from various sources, such as subscriptions or certain data from Cookies and Similar Technologies.
+
+**IP Address** \- a number assigned to a device when connecting to the Internet. 
+
+**Service Providers** \- any vendor, third party and/or company that performs business operations on our behalf, such as printing, mailing, and other communications services (email, direct mail, etc.), marketing, data processing, servicing, collections, or ad management.
+
+**Targeted Advertising** \- Ads that we, or our Service Providers, display on our sites and outside the Time Inc. Affluent Media Group based on the preferences or interests inferred from data collected from a particular computer or device regarding web viewing behaviors over time and across different websites.
+
+**Third-Party Ad-Servers** \- companies that provide the technology to place ads on sites and mobile applications and track how ads perform. These companies may also place and access cookies on your computer and device. The information they collect from our sites is in a form that does not identify you personally.
+
+© 2020 American Express Publishing, a division of Time Inc. Affluent Media Group. All rights reserved. AMERICAN EXPRESS PUBLISHING is a trademark of American Express Marketing & Development Corp. and is used under limited license. Time Inc. Affluent Media Group is not affiliated with American Express Company or its subsidiaries.
