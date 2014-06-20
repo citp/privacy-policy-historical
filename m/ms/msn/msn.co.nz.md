@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the msn.co.nz privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116155627id_/http%3A//msn.co.nz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msn.co.nz privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620063900id_/http%3A//msn.co.nz/privacy) for the most accurate reproduction.*
 
 # msn.co.nz Privacy Policy
 
