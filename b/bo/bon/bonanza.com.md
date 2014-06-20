@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bonanza.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205174051id_/http%3A//www.bonanza.com/site_help/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bonanza.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620200656id_/http%3A//www.bonanza.com/site_help/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Bonanza
 
@@ -96,7 +96,7 @@ Our Web site includes Social Media Features, such as the Facebook Like button [a
 
 Your opinion truly counts. Our Site was designed to serve the needs of our Members. Please contact us with any questions or comments. You may do this by sending an email to support@bonanza.com.
 
-Or by mail: 400 East Pine St #215, Seattle, WA 98122
+Or by mail: 109 W Denny Way #312, Seattle, WA 98119
 
 Effective date: 1/1/2010  
 Statement last updated: October 11, 2012
