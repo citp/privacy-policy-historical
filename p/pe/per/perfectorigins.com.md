@@ -1,104 +1,59 @@
-> *The following text is extracted and transformed from the perfectorigins.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216033444id_/http%3A//perfectorigins.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfectorigins.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620094954id_/http%3A//www.perfectorigins.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Perfect Origins :: About Us
 
 ## Privacy Policy
 
-PRIVACY POLICY
+Effective Date: May, 2014
 
-Your privacy is very important to us. We want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet’s vast array of information, tools, and opportunities with complete confidence.
+Your privacy is very important to us. We want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet's vast array of information, tools, and opportunities with complete confidence.
 
-We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how our company collects information from all end users of our Internet services (the “Services”)-those who access some of our Services but do not have accounts (“Visitors”) as well as those who may purchase Products and/or pay a monthly service fee to subscribe to the Service (“Members”)-what we do with the information we collect, and the choices Visitors and Members have concerning the collection and use of such information. We request that you read this Privacy Policy carefully.
+The following Privacy Policy governs the online information collection practices of PERFECTORIGINS.COM. ("we" or "us"). Specifically, it outlines the types of information that we gather about you while you are using the PerfectOrigins.com website (the "Site"), and the ways in which we use this information. This Privacy Policy, including our children's privacy statement, does not apply to any information you may provide to us or that we may collect offline and/or through other means (for example, at a live event, via telephone, or through the mail).
 
-Personal Information Our Company Collects and How It Is Used
+Please read this Privacy Policy carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over privacy, is governed by this Privacy Policy. Because the Web is an evolving medium, we may need to change our Privacy Policy at some point in the future, in which case we'll post the changes to this Privacy Policy on this website and update the Effective Date of the policy to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Policy as modified.
 
-Introduction. Our company collects information in different ways from Visitors and Members who access the various parts of our Services and the network of Web sites accessible through our Service. We use this information primarily to provide a customized experience as you use our Products and Services, and generally, do not share this information with third parties. However, we may disclose personal information collected if we have received your permission beforehand or in very special circumstances, such as when we believe that such disclosure is required by law or other special cases described below.
+**How We Collect and Use Information**  
 
-Registration: Members may be asked to provide certain personal information when they sign up for our Products or Services including name, address, telephone number, billing information (such as a credit card number), and the type of personal computer being used to access the Services. The personal information collected from Members during the registration process is used to manage each Member’s account (such as for billing purposes). This information is not shared with third parties, unless specifically stated otherwise or in special circumstances.
 
-However, in instances where our company and a partner jointly promote our Services, we may provide the partner certain personal information, such as the name, address, and username of persons who subscribed to the Services as a result of the joint promotion for the sole purpose of allowing us and the partner to assess the results of the promotion.
+We may collect and store personal or other information that you voluntarily supply to us online while using the Site (e.g., while on the Site or in responding via email to a feature provided on the Site). PerfectOrigins.com only contacts individuals who specifically request that we do so or in the event that they have signed up to receive our messaging, attended one of our events, or have purchased one of our products. PerfectOrigins.com collects personally identifying information from our users during online registration and online purchasing. Generally, this information includes name and e-mail address for registration or opt-in purposes and name, postal address, and credit card information when registering for our events or purchasing our products. All of this information is provided to us by you.
 
-In this instance, personal information may not be used by the partner for any other purpose. We may also generate non-identifying and aggregate profiles from personal information Members provide during registration (such as the total number, but not the names, of Members). As explained in more detail below, we may use this aggregated and non-identifying information to sell advertisements that appear on the Services.
+We also collect and store information that is generated automatically as you navigate online through the Site. For example, we may collect information about your computer's connection to the Internet, which allows us, among other things, to improve the delivery of our web pages to you and to measure traffic on the Site. We also may use a standard feature found in browser software called a "cookie" to enhance your experience with the Site. Cookies are small files that your web browser places on your hard drive for record-keeping purposes. By showing how and when visitors use the Site, cookies help us deliver advertisements, identify how many unique users visit us, and track user trends and patterns. They also prevent you from having to re-enter your preferences on certain areas of the Site where you may have entered preference information before. The Site also may use web beacons (single-pixel graphic files also known as "transparent GIFs") to access cookies and to count users who visit the Site or open HTML-formatted email messages.
 
-Our Company Partners and Sponsors: Some products and services may be offered to Visitors and Members in conjunction with an affiliate, independent contractor seller or non-affiliated partner. To provide Visitors and Members some of these products and services, the partner may need to collect and maintain personal information. In these instances, you will be notified before any such data is collected or transferred and may decide not to use that particular service or feature.
+We use the information we collect from you while you are using the Site in a variety of ways, including using the information to customize features; advertising that appear on the Site; and, making other offers available to you via email, direct mail or otherwise. We also may provide your information to third parties, such as service providers contractors and third-party publishers and advertisers for a variety of purposes. Unless you inform us in accordance with the process described below, we reserve the right to use, and to disclose to third parties, all of the information collected from and about you while you are using the Site in any way and for any purpose, such as to enable us or a third party to provide you with information about products and services. If you do not wish your information to be used for these purposes, you must send a letter to the Online Privacy Coordinator whose address is listed at the end of this Privacy Policy requesting to be taken off any lists of information that may be used for these purposes or that may be given or sold to third-parties.
 
-Additionally, our partners may have advertisements or co-branded Web Pages that are cosponsored by an affiliate, independent contractor seller, or non-affiliated partner. Our company may share non-identifying and aggregate information (except as described above), but not personal information, with such partners in order to administer the co-branded products or services offered.
+Please keep in mind that whenever you voluntarily make your personal information available for viewing by third parties online - for example on message boards, web logs, through email, or in chat areas - that information can be seen, collected and used by others besides us. We cannot be responsible for any unauthorized third-party use of such information.
 
-Online Shopping: At some Web sites, you can purchase products and services or register to receive materials, such as a newsletter, catalog or new product and service updates. In many cases, you may be asked to provide contact information, such as your name, address, email address, phone number, and credit/debit card information.
+Some of our third-party advertisers and ad servers that place and present advertising on the Site also may collect information from you via cookies, web beacons or similar technologies. These third-party advertisers and ad servers may use the information they collect to help present their advertisements, to help measure and research the advertisements' effectiveness, or for other purposes. The use and collection of your information by these third-party advertisers and ad servers is governed by the relevant third-party's privacy policy and is not covered by our Privacy Policy. Indeed, the privacy policies of these third-party advertisers and ad servers may be different from ours. If you have any concerns about a third party's use of cookies or web beacons or use of your information, you should visit that party's website and review its privacy policy.
 
-If you complete an order for someone else, such as an online gift order sent directly to a recipient, you may be asked to provide information about the recipient, such as the recipient’s name, address, and phone number. Our company has no control over the third parties’ use of any personal information you provide when placing such an order. Please exercise care when doing so.
+The Site also includes links to other websites and provides access to products and services offered by third parties, whose privacy policies we do not control. When you access another website or purchase third-party products or services through the Site, use of any information you provide is governed by the privacy policy of the operator of the site you are visiting or the provider of such products or services.
 
-If you order services or products directly from our company we will use the personal information you provide only to process that order. We do not share this information with outside parties except to the extent necessary to complete that order.
+We may also make some content, products and services available through our Site or by emailing messages to you through cooperative relationships with third-party providers, where the brands of our provider partner appear on the Site in connection with such content, products and/or services. We may share with our provider partner any information you provide, or that is collected, in the course of visiting any pages that are made available in cooperation with our provider partner. In some cases, the provider partner may collect information from you directly, in which cases the privacy policy of our provider partner may apply to the provider partner's use of your information. The privacy policy of our provider partners may differ from ours. If you have any questions regarding the privacy policy of one of our provider partners, you should contact the provider partner directly for more information.
 
-Online Advertisements: Our company may display our online advertisements. In those cases we share aggregated and non-identifying information about our Visitors and Members collected through the registration process as well as through online surveys and promotions with these advertisers.
+Be aware that we may occasionally release information about our visitors when release is appropriate to comply with law or to protect the rights, property or safety of users of the Site or the public.
 
-Additionally, in some instances, we use this aggregated and non-identifying information to deliver tailored advertisements or joint ventures. For instance, an advertiser or joint venture company tells us the audience they want to reach and provides us an advertisement tailored to the audience. Based upon the aggregated and non-identifying information we have collected, we may then display or send the advertisement to the intended audience. Our company does not share personal information about its Visitors or Members with these advertisers or joint venture companies.
+Please also note that as our business grows, we may buy or sell various assets. In the unlikely event that we sell some or all of our assets, or one or more of our websites is acquired by another company, information about our users may be among the transferred assets.
 
-Responses to Email Inquiries: When Visitors or Members send email inquiries to our company, the return email address is used to answer the email inquiry we receive. Our company does not use the return email address for any other purpose and does not share the return email address with any third party.
+**Children's Privacy Statement**
 
-Voluntary Customer Surveys: We may periodically conduct both business and individual customer surveys. We encourage our customers to participate in these surveys because they provide us with important information that helps us to improve the types of products and services we offer and how we provide them to you. Your personal information and responses will remain strictly confidential, even if the survey is conducted by a third party. Participation in our customer surveys is voluntary.
+This children's privacy statement explains our practices with respect to the online collection and use of personal information from children under the age of thirteen, and provides important information regarding their rights under federal law with respect to such information.  
 
-We may take the information we receive from individuals responding to our Customer Surveys and combine (or aggregate) it with the responses of other customers we may have, to create broader, generic responses to the survey questions (such as gender, age, residence, hobbies, education, employment, industry sector, or other demographic information). We then use the aggregated information to improve the quality of our services to you, and to develop new services and products. This aggregated, non-personally identifying information may be shared with third parties.
 
-Promotions: Our company may offer polls, contests, sweepstakes, drawings, games, content, or other promotions that are sponsored by or cobranded with third parties. In certain instances, company may have to supply personally identifiable information of the winners to the third parties. Our company has no control over third parties’ use of this information.
+This Site is not directed to children under the age of thirteen and we do NOT knowingly collect personally identifiable information from children under the age of thirteen as part of the Site. We screen users who wish to provide personal information in order to prevent users under the age of thirteen from providing such information. If we become aware that we have inadvertently received personally identifiable information from a user under the age of thirteen as part of the Site, we will delete such information from our records. If we change our practices in the future, we will obtain prior, verifiable parental consent before collecting any personally identifiable information from children under the age of thirteen as part of the Site.
 
-You may be entered in a sweepstakes, contest, or other promotion, simply by making a purchase from us or by providing us with personally identifiable information for some other reason or purpose. When the winning entries are chosen, only the names and personally identifiable information of the winners are shared with the entity administering the sweepstakes or contest, so that they can notify the winners.
+Because we do not collect any personally identifiable information from children under the age of thirteen as part of the Site, we also do NOT knowingly distribute such information to third parties. We do NOT knowingly allow children under the age of thirteen to publicly post or otherwise distribute personally identifiable contact information through the Site. 
 
-Special Cases: It is our company’s policy not to use or share the personal information about Visitors of Members in ways unrelated to the ones described above without also providing you an opportunity to opt out or otherwise prohibit such unrelated uses.
+Because we do not collect any personally identifiable information from children under the age of thirteen as part of the Site, we do NOT condition the participation of a child under thirteen in the Site's online activities on providing personally identifiable information. 
 
-However, we may disclose personal information about Visitors or Members, or information regarding your use of the Services or Web sites accessible through our Services, for any reason if, in our sole discretion, we believe that it is reasonable to do so, including: credit agencies, collection agencies, merchant database agencies, law enforcement, or to satisfy laws, such as the Electronic Communications Privacy Act, the Child Online Privacy Act, regulations, or governmental or legal requests for such information; to disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating our Acceptable Use Policy or Terms Of Service, or other user policies; to operate the Services properly; or to protect our company and our Members.
+**How do we store your information?**
 
-Notice of Compliance to California Residents ? Your California Privacy Rights Under The California Online Privacy Protection Act and the California Business and Professions Code
+Your information is stored at the list server that delivers PerfectOrigins.com content and messaging. Your information can only be accessed by those who help manage those lists in order to deliver e-mail to those who would like to receive PerfectOrigins.com material.
 
-This privacy policy identifies the categories of personally identifiable information that our company collects through our Web site or online service, about individual consumers who use or visit our company’s commercial Web site or online service and the categories of third-party persons or entities with whom our company may share that personally identifiable information.
+All of the messaging or emails that are sent to you by PerfectOrigins.com include an unsubscribe link in them. You can remove yourself at any time from our mailing list by clicking on the unsubscribe link that can be found in every communicaiton that we send you.
 
-Our company does not maintain a process for an individual consumer who uses or visits our commercial Web site or online service to review and request changes to any of his or her personally identifiable information that is collected through our Web site or online service.
+**Disclaimer**
 
-See the section below entitled “Revisions To This Policy” for a description of the process by which our company notifies consumers who use or visit our commercial Web site or online service of material changes to our company’s privacy policy for this Web site or online service.
+Although it is highly unlikely, This policy may be changed at any time at our discretion. If we should update this policy, we will post the updates to this page on our Website.
 
-The effective date of this privacy policy is listed at the end of this privacy policy under the heading, “Last updated.”
+If you have any questions or concerns regarding our privacy policy please direct them to :
 
-For the purposes of this policy and California compliance the following definitions apply:
-
-Depending on the visitor’s activity, in our commercial Web site or online service, the following “personally identifiable information” may be collected, in addition to information set forth in other sections of this document.
-
-The term “personally identifiable information” means individually identifiable information about an individual consumer collected online by our company from an individual and maintained  
-by our company in an accessible form, and may include any of the following:
-
-(1) A first and last name.  
-(2) A home or other physical address, including street name and name of a city or town.  
-(3) An e-mail address.  
-(4) A telephone number.  
-(5) A social security number.  
-(6) Any other identifier that permits the physical or online contacting of a specific individual.  
-(7) Information concerning a user that the Web site or online service collects online, from the user, and maintains in personally identifiable form, in combination with an identifier described within this privacy policy.
-
-Under California Law SB 27, California residents have the right to receive, once a  
-year, information about third parties with whom we have shared information about you  
-or your family for their marketing purposes during the previous calendar year, if any, and a  
-description of the categories of personal information shared. To make such a request,  
-please send an email to Privacy@PrivacyRequest.com and please include the phrase  
-“California Privacy Request” in the subject line, the domain name of the Web site you are inquiring about, along with your name, address and email address. We will respond to you within thirty days of receiving such a request.
-
-“Cookies” and How Our Company Uses Them. A “cookie” is a small data file that can be placed on your hard drive when you visit certain Web sites. Our company may use cookies to collect, store, and sometimes track information for statistical purposes to improve the products and services we provide and to manage our telecommunications networks.
-
-If you are a Visitor or Member we may use a cookie to save your settings and to provide customizable and personalized services. These cookies do not enable third parties to access any of your customer information. Additionally, be aware that if you visit other Web sites where you are prompted to log in or that are customizable, you may be required to accept cookies.
-
-Advertisers and partners may also use their own cookies. We do not control use of these cookies and expressly disclaim responsibility for information collected through them.
-
-Our Company Commitment to Children’s Privacy. Protecting children’s privacy is especially important to us. It is our policy to comply with the Children’s Online Privacy Protection Act of 1998 and all other applicable laws. Therefore we restrict our Web site to persons eighteen years or older.
-
-YOU MUST BE EIGHTEEN (18) YEARS OR OLDER TO ACCESS THIS WEB SITE. IF YOU ARE UNDER EIGHTEEN YEARS OF AGE, YOU ARE NOT PERMITTED TO ACCESS THIS WEB SITE FOR ANY REASON. DUE TO THE AGE RESTRICTIONS FOR USE OF THIS WEB SITE, NO INFORMATION OBTAINED BY THIS WEB SITE, FALLS WITHIN THE CHILDREN’S ONLINE PRIVACY PROTECTION ACT (COPPA) AND IS NOT MONITORED AS DOING SO.
-
-Public Forums: Please remember that any information you may disclose in any Member Directory, or other public areas of our Web sites or the Internet, becomes public information. You should exercise caution when deciding to disclose personal information in these public areas.
-
-Our Company’s Commitment to Data Security: Services and Web sites we sponsor have security measures in place to protect the loss, misuse, and alteration of the information under our control. While we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party “hackers” from illegally obtaining this information.
-
-Where to Direct Questions About Our Privacy Policy: If you have any questions about this Privacy Policy or the practices described herein, you may contact us through the contact information provided on this Web site.
-
-Revisions to This Policy: Our company reserves the right to revise, amend, or modify this policy, our Terms Of Service agreement, and our other policies and agreements at any time and in any manner, by updating this posting. Your use of this site after such changes are implemented constitutes your acknowledgement and acceptance of these changes. Please consult this privacy statement prior to every use for any changes.
-
-Opting Out: Should you wish to no longer receive email communication from us, simply send an email to: support@perfectorigins.com and request to be removed and we will remove you from our database. Also, at the bottom of any email you might receive from us is an unsubscribe link that, when clicked, will automatically unsubscribe you.
-
-Copyright © 2013  
-
+support@perfectorigins.com
