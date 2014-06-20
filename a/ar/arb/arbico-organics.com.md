@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the arbico-organics.com privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118085756id_/http%3A//www.arbico-organics.com/category/privacy-policy/77) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arbico-organics.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620102345id_/http%3A//www.arbico-organics.com/category/privacy-policy) for the most accurate reproduction.*
 
 # Arbico Organics Privacy Policy
 
-**ARBICO Privacy Policy  
-**Since 1979, ARBICO has taken great pride in the relationships that it has developed with its customers. In keeping with this tradition, ARBICO is dedicated to protecting and respecting your privacy and handling any personal information we obtain from you with care and respect. This Privacy Policy is designed to answer your questions regarding our privacy policies and principles. 
+P.O. Box 8910
 
-This is the Privacy Policy of Arizona Biological Control, Inc. (ARBICO). Our postal address is: P.O. Box 8910; Tucson, AZ 85738. We can be reached via email at [info@arbico.com](mailto:info@arbico.com) or you can reach us by telephone at 800-827-2847.
+Tucson, AZ 85738.
+We can be reached via email at [info@arbico.com](mailto:info@arbico.com) or you can reach us by telephone at 800-827-2847.
 
 **Visiting Our Website  
-**For each visitor to our website, our web server automatically recognizes only the IP address of your computer. When you make a purchase in the ARBICO Store, request a catalog, ask Dr. Buglady a question, sign up for the Go Organic! Newsletter, or answer one of our surveys, you may choose to give us basic information: name, email address, mailing address, ZIP code, phone, and credit card numbers. This allows us to process your transactions more efficiently, and ultimately, to give you a higher caliber of customer service. When you visit our website, we may collect more information: your Internet service provider's address, the name of the Web page directing you, as well as your clicks and activity on our site. This tracking data helps us understand how to make our site more available and user friendly to our customers.
+**For each visitor to our website, our web server automatically recognizes only the IP address of your computer. When you make a purchase in the ARBICO Store, request a catalog, ask Dr. Buglady a question, sign up for the Go Organic! Newsletter, or answer one of our surveys, you may choose to give us basic information: name, email address, mailing address, ZIP code, phone, and credit card numbers(for purchases & samples only). This allows us to process your transactions more efficiently, and ultimately, to give you a higher caliber of customer service. When you visit our website, we may collect the following information: your Internet service provider's address, the name of the Web page directing you, as well as your clicks and activity on our site. This tracking data helps us understand how to make our site more responsive to our customers needs.
 
 **Learning About What You Like  
 **We also gather customer information by observing the purchases you make. Think of it as a concierge service where your customer preferences are remembered for future consideration. By looking at your purchases in context with marketing demographics or with information from companies whose products and services you may be interested in, it helps us seek out products and services you may find relevant and unique. Similarly, other companies may also forward to us additional names, mailing addresses, and email addresses when we have news or product offerings that may be of special interest to their customers. In order to serve you better, we may at times contract with other companies to help us process information. For instance, their assistance can help us better fulfill customer orders, manage and enhance customer data, and comply with postal regulations. 
 
 **At Your Service Information  
-**The personal information we collect is above all intended to offer better customer service and to improve communications. The customer information you provide can help ARBICO provide greater security and inform you of products and services that may be of interest. When a purchased item is not immediately available, many of our customers appreciate receiving an email to update the status of their order. We may also need to contact customers by phone, postal mail, or email if questions occur regarding their orders. 
+**The information we collect is intended to help us provide better customer service and to improve communications. The customer information you provide can help ARBICO provide greater security and inform you of products and services that may be of interest. When a purchased item is not immediately available, many of our customers appreciate receiving an email to update the status of their order. We may also need to contact customers by phone, postal mail, or email if questions occur regarding their orders. 
 
-When you shop at the ARBICO store, order from our catalogs, or visit us online, it is also an opportunity for you to provide us with information and feedback that helps us continue to provide new ideas and products.
+When you shop at the ARBICO store, order from our catalogs, or visit us online, it is also an opportunity for you to provide us with information and feedback that helps us continue to expand our understanding of your needs and wants.
 
 **Secure Information Under Lock And Key  
 **We take the following steps to protect our customers' personal information against loss, misuse, and alteration. We use encryption technology whenever receiving and transferring your personal information on our site. 
