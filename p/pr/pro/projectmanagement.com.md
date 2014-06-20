@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the projectmanagement.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219003714id_/http%3A//www.projectmanagement.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projectmanagement.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620033108id_/http%3A//www.projectmanagement.com/privacy.cfm) for the most accurate reproduction.*
 
 # ProjectManagement.com - Projectmanagement.com Privacy Policy
 
@@ -105,12 +105,11 @@ Your use of the projectmanagement.com site, any disputes arising from it, is sub
 This Privacy Policy forms a legal agreement between you and projectmanagement.com. Your use of the Web Site indicates your agreement to the terms of this Privacy Policy. You agree that the Electronic Communications Privacy Act (the "ECPA") shall not apply to any communications with projectmanagement.com. projectmanagement.com has the right to revise this Agreement at any time without notice by updating the Privacy Policy posted to the Web Site. If you have any questions about this Privacy Policy, the practices of this Web Site or your dealings with this Web Site, please contact [contactus@projectmanagement.com](mailto:contactus@projectmanagement.com).
 
 projectmanagement.com  
-11911 Freedom Drive  
-Suite 900  
-Reston, VA, 20190  
+14 Campus Boulevard  
+Newtown Square, PA 19073  
 (800) 895-2535  
 E-mail: [contactus@projectmanagement.com](mailto:contactus@projectmanagement.com).
 
 Thank you for your support of projectmanagement.com and its Privacy Policy.
 
-Last updated November 20, 2012.
+Last updated January 13, 2014
