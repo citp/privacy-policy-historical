@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affilit.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231055122id_/http%3A//www.affilit.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affilit.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620120820id_/http%3A//www.affilit.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Affilit Media
 
@@ -20,7 +20,7 @@ A cookie is a small amount of data stored on the hard drive of the individual's 
 To opt-out of any of a mailing from Affilit Media, you may follow the opt-out procedures set forth in our emails to you or send an email to us at support@affilit.com. However, we are not responsible for removing your personal information from the lists of any third party who has previously been provided your information in accordance with this policy. 
 
 **Reviewing Your Information**  
-If you would like to review and update or correct the personally identifiable information that we have collected from you online, or if no longer wish to continue your service with us, simply send your request [here](https://web.archive.org/web/20131231055122id_/http%3A//www.affilit.com/index.php?page=contactus) . 
+If you would like to review and update or correct the personally identifiable information that we have collected from you online, or if no longer wish to continue your service with us, simply send your request [here](https://web.archive.org/web/20140620120820id_/http%3A//www.affilit.com/index.php?page=contactus) . 
 
 **Links**   
 This Site contains links to other sites. Affilit Media is not responsible for the privacy practices or the content of such sites. Please read the privacy policies of these linked sites, because their privacy practices may differ from ours. 
@@ -35,4 +35,4 @@ Use of this Site is governed by, and subject to, the legal notices contained in 
 This privacy policy is effective and was last updated on Augest 12, 2009. 
 
 **Contacting Affilit Media**  
-If you have any questions about this privacy policy, the practices of this Site, or your dealings with this Site, you can [contact us](https://web.archive.org/web/20131231055122id_/http%3A//www.affilit.com/index.php?page=contactus) here. 
+If you have any questions about this privacy policy, the practices of this Site, or your dealings with this Site, you can [contact us](https://web.archive.org/web/20140620120820id_/http%3A//www.affilit.com/index.php?page=contactus) here. 
