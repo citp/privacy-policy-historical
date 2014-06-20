@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the viralsuccessnetwork.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214112940id_/http%3A//vsnextreme.com/privacy.php%3Fid%3Dangelogianni) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralsuccessnetwork.com privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621001651id_/http%3A//viralsuccessnetwork.com/privacypolicy.php%3Fuser%3DDesmond) for the most accurate reproduction.*
 
-# VSN Extreme
+# Privacy Policy
 
-This site (the "Site") is owned by VSN Extreme, LLC, a Virginia limited liability company ("us," "we," or "Company"). We created this Privacy Policy ("Privacy Policy") to explain how we use the information we collect on the Site. This Privacy Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection, storage, and use practices and policies that differ materially from this Privacy Policy.
+This site (the "Site") is owned by Viral Success Network, LLC, a Virginia limited liability company ("us," "we," or "Company"). We created this Privacy Policy ("Privacy Policy") to explain how we use the information we collect on the Site. This Privacy Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection, storage, and use practices and policies that differ materially from this Privacy Policy.
 
 We automatically track and collect the following categories of information when you visit our Site: 1) IP addresses; 2) domain servers; 3) types of computers accessing the Site; and 4) types of web browsers used to access the Site (collectively "Traffic Data"). Traffic Data is anonymous information that does not personally identify you but is helpful for marketing purposes and for improving your experience on the Site. We also use "cookies" to customize content specific to your interests.
 
@@ -28,6 +28,6 @@ We have implemented a number of security measures to help protect against the lo
 
 We reserve the right, at any time and without notice, to add to, change, update, or modify this Privacy Policy, simply by posting such change, update, or modification on the Site and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the Site. In the event of substantive changes to this Privacy Policy, the new terms will be posted to the Site, you will be required to affirmatively assent to its terms, and you may also be notified by email. If any modification is unacceptable to you, your only recourse is not to use the Site and Service and to request an immediate termination of your membership. Your express consent or continued use of the Site or our Service following posting of a change notice or new Privacy Policy on the Site will constitute binding acceptance of the changes.
 
-This site is owned and operated by **VSN Extreme, LLC**  
+This site is owned and operated by **Viral Success Network, LLC**  
 3618 Alderwood Way  
 Chester, Virginia 23831
