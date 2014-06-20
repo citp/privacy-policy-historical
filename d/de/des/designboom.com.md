@@ -1,56 +1,23 @@
-> *The following text is extracted and transformed from the designboom.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005210213id_/http%3A//www.designboom.com/weblog/cat/9/view/12756/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designboom.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620204314id_/http%3A//www.designboom.com/privacy) for the most accurate reproduction.*
 
 # privacy
 
-****designboom recognizes the importance of protecting the privacy of all information  
-provided by users of our web site, subscribers to our on-line education and events,   
-recipients of our e-mail newsletter, participants of our competitions and   
-all of our customers. we created this policy with a fundamental respect   
-for our users’ right to privacy and to guide our relationships with our users. 
+designboom recognizes the importance of protecting the privacy of all information provided by users of our web site, subscribers to our on-line education and events, recipients of our e-mail newsletter, participants of our competitions and all of our customers. we created this policy with a fundamental respect for our users’ right to privacy and to guide our relationships with our users. 
 
-**  
-signing up  
-**for certain selected services (such as free newsletter subscriptions,   
-competitions, on-line education courses),  
-users must first register.  
-recipients of our newsletter can unsubscribe using the instructions   
-listed at the end of the e-mail newsletter.  
-for our services that require payment (such as certain events, products   
-and subscriptions), we do not receive and do not collect credit card information.
+**signing up**  
+for certain selected services (such as free newsletter subscriptions, competitions, on-line education courses), users must first register. recipients of our newsletter can unsubscribe using the instructions listed at the end of the e-mail newsletter. for our services that require payment (such as certain events, products and subscriptions), we do not receive and do not collect credit card information. 
 
-**  
-during registration  
-**we ask for contact information.  
-newsletter subscribers are required to give only their e-mail address,   
-participants of on-line education courses, competitions and special events   
-are asked to give also their name, age, gender and mailing address.
+**during registration**  
+we ask for contact information. newsletter subscribers are required to give only their e-mail address, participants of on-line education courses, competitions and special events are asked to give also their name, age, gender and mailing address. 
 
-**designboom collects information  
-**from our website users, subscribers and customers for internal purposes.  
-we use this information to communicate with users and provide requested services.   
-we also collect the data for internal (and for business affiliates)   
-audit verification purposes.   
-we do not sell this data to third parties.
+**designboom collects information**  
+from our website users, subscribers and customers for internal purposes. we use this information to communicate with users and provide requested services. we also collect the data for internal (and for business affiliates) audit verification purposes. we do not sell this data to third parties. 
 
-**communications with us  
-**we have features where users can submit information to us.  
-letters to the editor and similar submissions may be made public.  
-requests for service, support or information may be forwarded as needed   
-to best respond to a specific request.
+**communications with us**  
+we have features where users can submit information to us. letters to the editor and similar submissions may be made public. requests for service, support or information may be forwarded as needed to best respond to a specific request. 
 
-**  
-with whome your information is shared  
-**when we have co-branded, or when we join with other parties to provide   
-specific services (such as events, competitions), we may share (provide   
-and receive) personal information with them.  
-other than as set forth above, we do not share personally identifiable   
-information with other companies.
+**with whome your information is shared**  
+when we have co-branded, or when we join with other parties to provide specific services (such as events, competitions), we may share (provide and receive) personal information with them. other than as set forth above, we do not share personally identifiable information with other companies. 
 
 **security**  
-we use reasonable precautions to protect our users' personal information   
-and to store it securely. the servers on which we store personally   
-identifiable information are kept in a secure environment.
-
-© copyrights 2000 - 2012 designboom, all rights reserved. all material published remains the exclusive copyright of designboom.   
-no contents, including text, photographs, videos, etc. may be reproduced in whole or in part without the written consent of designboom. in addition,   
-no material or contents may be reproduced on the world wide web by techniques of mirroring, framing, posting, etc. without the written consent of designboom. 
+we use reasonable precautions to protect our users’ personal information and to store it securely. the servers on which we store personally identifiable information are kept in a secure environment. 
