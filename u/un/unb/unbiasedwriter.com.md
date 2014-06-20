@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the unbiasedwriter.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219055030id_/http%3A//unbiasedwriter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unbiasedwriter.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620104503id_/http%3A//unbiasedwriter.com/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY | Unbiased Writer
+# PRIVACY POLICY - Unbiased Writer
 
 This Privacy Policy applies only to UnbiasedWriter.com (however accessed and/or used, whether via personal computers, mobile devices, or otherwise), or other interactive features that are accessible or downloadable through UnbiasedWriter.com and that post a link to this Privacy Policy (collectively, the “Web Site”). This Privacy Policy only covers information collected at the Web Site, and does not cover any information collected at any other web site or offline by Company (unless specifically stated).
 
