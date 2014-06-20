@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hosting24.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231101155id_/http%3A//www.hosting24.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hosting24.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620043805id_/http%3A//www.hosting24.com/privacy.php) for the most accurate reproduction.*
 
 # Hosting24 Privacy Policy - First Class Best Web Hosting
 
