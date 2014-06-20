@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wgu.edu privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203133622id_/http%3A//www.wgu.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wgu.edu privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620214045id_/http%3A//www.wgu.edu/privacy) for the most accurate reproduction.*
 
 # WGU's Privacy Policy
 
@@ -56,6 +56,6 @@ The FERPA policy is intended to ensure students have the right to inspect and re
 
 Students have the right to request that their records be amended if they believe the content is inaccurate, misleading, or in violation of their privacy rights. Student directory information may be shared with outside institutions and corporations.
 
-For details about WGU’s policy on the use of student information and the procedures WGU has established in accordance with FERPA, please see the [WGU Student Handbook](http://kb.wgu.edu/article.asp?article=1161&p=3). 
+For details about WGU’s policy on the use of student information and the procedures WGU has established in accordance with FERPA, please see the [WGU Student Handbook](http://sh.wgu.edu/articles/StudentHandbook/1161). 
 
 Students who do not wish to be listed in the student directory or to be included on WGU mailing lists may send their request via email to [unsubscribe@wgu.edu](mailto:unsubscribe@wgu.edu). 
