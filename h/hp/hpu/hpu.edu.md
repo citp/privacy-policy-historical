@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hpu.edu privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219111929id_/http%3A//www.hpu.edu/Welcome/HPU_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hpu.edu privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620054709id_/http%3A//www.hpu.edu/Welcome/HPU_privacy_policy.html) for the most accurate reproduction.*
 
 # Hawaii Pacific University: HPU Internet Privacy Policy
 
