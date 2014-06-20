@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fawry.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207052829id_/http%3A//www.fawry.com/En/common/Page.aspx%3FPageID%3D79) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fawry.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620023201id_/http%3A//www.fawry.com/En/common/Page.aspx%3FPageID%3D79) for the most accurate reproduction.*
 
 # :: Fawry ::
 
