@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the toptenwholesale.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109231347id_/http%3A//www.toptenwholesale.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toptenwholesale.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620155857id_/http%3A//www.toptenwholesale.com/privacy.html) for the most accurate reproduction.*
 
 # JP Communications Privacy Policy
 
 JP Communications considers your privacy to be very important. We follow the privacy principles of notice, choice, onward transfer, security, data integrity, access and enforcement, and are registered with the U.S. Department of Commerce's safe harbor program.
 
-This policy applies to all of our Websites and the services offered by JP Communications (capitalized terms are defined here). For additional information about our privacy policy, please contact us through this or the other Websites or at 448 S.Hill St. Suite 712 Los Angeles, CA 90013.
+This policy applies to all of our Websites and the services offered by JP Communications (capitalized terms are defined here). For additional information about our privacy policy, please contact us through this or the other Websites or at 3414 Garfield Avenue Commerce, CA 90040.
 
 This privacy policy covers information we collect and how we use it, choices that you have for your personal information and sharing and transferring of information.
 
@@ -95,13 +95,13 @@ When you use JP Communications services, we make good faith efforts to provide y
 
 ## Enforcement:
 
-JP Communications regularly reviews its compliance with this privacy policy. Please feel free to direct any questions or concerns regarding this privacy policy or JP Communications's treatment of personal information by contacting us through this or our other Websites or by writing to us at 448 S.Hill St. Suite 712 Los Angeles, CA 90013 USA. When we receive formal written complaints at this address, it is JP Communications's policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between JP Communications and an individual.
+JP Communications regularly reviews its compliance with this privacy policy. Please feel free to direct any questions or concerns regarding this privacy policy or JP Communications's treatment of personal information by contacting us through this or our other Websites or by writing to us at 3414 Garfield Avenue Commerce, CA 90040. When we receive formal written complaints at this address, it is JP Communications's policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between JP Communications and an individual.
 
 ## Changes To This Policy:
 
 Please note that this privacy policy may change from time to time. We will not reduce your rights under this policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any policy changes on this page and, if the changes are significant, we will provide a more prominent notice. Each version of this Policy will be identified at the top of the page by its effective date, and we will also keep prior versions of this Privacy Policy in an archive for your review.
 
-For additional information about the Websites, JP Communications or our Privacy Policy, please contact us through this or the other Websites or at 448 S.Hill St. Suite 712 Los Angeles, CA 90013.
+For additional information about the Websites, JP Communications or our Privacy Policy, please contact us through this or the other Websites or at 3414 Garfield Avenue Commerce, CA 90040.
 
 ## JP Communications Privacy Definitions:
 
@@ -134,4 +134,4 @@ For example, when you submit information to a web page (such as a user login ID 
 
 
 
-For additional information about the Websites, JP Communications or our Privacy Policy, please contact us through this or the other Websites or at 448 S.Hill St. Suite 712 Los Angeles, CA 90013.
+For additional information about the Websites, JP Communications or our Privacy Policy, please contact us through this or the other Websites or at 3414 Garfield Avenue Commerce, CA 90040.
