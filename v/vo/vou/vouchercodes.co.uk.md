@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the vouchercodes.co.uk privacy policy that was archived on 2013-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131017125147id_/http%3A//www.vouchercodes.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vouchercodes.co.uk privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620200205id_/http%3A//www.vouchercodes.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # VoucherCodes.co.uk Data Protection and Privacy Policy
 
-RetailMeNot UK Ltd ("We") are committed to protecting and respecting your privacy.
+RetailMeNot UK Ltd ("we", “our”, “us”) are committed to protecting and respecting your privacy.
 
 This policy (together with our website terms and conditions that apply to your use of our website and our mobile application terms and conditions that apply to your use of our mobile application) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-For the purpose of the Data Protection Act 1998 (the Act), the data controller is RetailMeNot UK Ltd of 6th Floor, 200 Grays Inn Road, London, WC1X 8XZ.
+For the purpose of the Data Protection Act 1998 (the “Act”), the data controller is RetailMeNot UK Ltd of 6th Floor, 200 Grays Inn Road, London, WC1X 8XZ.
 
 * * *
 
@@ -14,7 +14,7 @@ For the purpose of the Data Protection Act 1998 (the Act), the data controller i
 
 We may collect and process the following data about you:
 
-  * Information that you provide by filling in forms on our site www.VoucherCodes.co.uk (the Website) or the registration process for our mobile application (the 'App'). This includes information provided at the time of registering for our newsletter, posting discounts and other material or contacting us. We may also ask you for information when you report a problem with the Website or the App.
+  * Information that you provide by filling in forms on our site www.VoucherCodes.co.uk (the “Website”) or the registration process for our mobile application (the “App”). This includes information provided at the time of registering for our newsletter, posting discounts and other material or contacting us. We may also ask you for information when you report a problem with the Website or the App.
 
   * If you contact us, we may keep a record of that correspondence.
 
@@ -54,9 +54,9 @@ You can read more about our use of cookies [here](https://web.archive.org/about-
 
 ## Direct Mailings
 
-If you register with VoucherCodes.co.uk or for the use our App on your mobile device, or sign up for any of our newsletters or alerts, we will send you information about our voucher codes, printable vouchers, deals, sales or other products and services we feel may interest you. Your e-mail address may also be used to send you information about our other websites that we feel are relevant to your registration on VoucherCodes.co.uk.
+If you register with the Website or use our App on your mobile device, or sign up for any of our newsletters or alerts, we will send you information about our voucher codes, printable vouchers, deals, sales or other products and services we feel may interest you. Your e-mail address may also be used to send you information about our other websites that we feel are relevant to your registration on the Website.
 
-You can sign up to our newsletter through submitting your email address at any of the sign up boxes featured throughout the Website or via our User Registration page. By providing your email address you agree to receive regular newsletter emails from VoucherCodes.co.uk.
+You can sign up to our newsletter through submitting your email address at any of the sign up boxes featured throughout the Website or via our User Registration page. By providing your email address you agree to receive regular newsletter emails from the Website.
 
 You can unsubscribe from receiving our newsletter by clicking the "Unsubscribe" link featured within each of our newsletters. Alternatively, recipients can edit their personal information or manage newsletter subscriptions by updating their information within their user profile.
 
@@ -64,11 +64,17 @@ You can unsubscribe from receiving our newsletter by clicking the "Unsubscribe" 
 
 ## Where We Store Your Personal Data
 
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). Specifically our parent company (“RetailMeNot, Inc.”) is located in the United States of America and your personal data (as described in “Information we may Collect from You” above) can be accessed by and / or transferred to RetailMeNot, Inc in the United States and / or its affiliates, partners and service providers and will be used for communication of information, request fulfillment, statistical analysis and optimisation of websites and marketing. RetailMeNot, Inc. has voluntarily acceded to the U.S. Department of Commerce, Principles of Safe Harbor. To learn more about the Safe Harbor program, and to view our certification page, please visit http://www.export.gov/safeharbor/
 
-All information you provide to us is stored on our secure servers. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our Website or our App, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
+In compliance with the US-EU Safe Harbor Principles, We commit to resolve complaints about your privacy and our collection or use of your personal information. If you have an enquiry or complaint regarding this privacy policy you should first contact us at [legal@vouchercodes.co.uk](mailto:legal@vouchercodes.co.uk).
 
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our Website or our App; any transmission is at your own risk. 
+We have further committed to refer unresolved privacy complaints under the US-EU Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit the BBB EU SAFE HARBOR web site at www.bbb.org/us/safe-harbor-complaints for more information and to file a complaint.
+
+By submitting your personal data, you agree to this transfer, storing or processing. Your express consent shall be required if the collection and transfer is of sensitive data. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy. Please note that third parties may independently collect data about you, including your IP address, information about the websites you visit and the links you click, through cookies, clicks on links, or other means when you visit or view ads on the Website or the App.
+
+All information you provide to us is stored on our (or our third party service providers’) secure servers. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our Website or our App, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
+
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our Website or our App; any transmission is at your own risk.
 
 Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
@@ -93,15 +99,19 @@ We use information held about you in the following ways:
 
 We may also use your data to provide you with information about goods and services which may be of interest to you.
 
-We do not disclose information about identifiable individuals to our affiliate advertisers, but we may provide them with aggregate information about our users.
+We have implemented Google Analytics Demographics and Interest Reporting. We use information from Google Analytics Demographics and Interest Reporting to gain understanding and insights about the nature of our audience (holistically not individually). You can opt out of Google Analytics [here](https://tools.google.com/dlpage/gaoptout/).
+
+We only disclose information about identifiable individuals to our affiliate advertisers as described in “Disclosure of Your Information” below. However, we may provide any affiliate advertisers with aggregate information about our users.
 
 * * *
 
 ## Disclosure of Your Information
 
-We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 736 of the UK Companies Act 1985.
+We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the Companies Act 2006.We may disclose your personal information to our affiliate advertisers, but only to the extent you have redeemed a voucher offered by the affiliate advertiser, or participated in an offer, contest or other activity sponsored or offered through the Website or App on behalf of the affiliate advertiser.
 
-We may disclose your personal information to third parties:
+We may disclose your personal information to our service providers that provide services for us to assist us in carrying out the purposes described in “Uses Made of the Information” above such as sending emails on our behalf, processing payments, and facilitating card-linked offers. Our service providers are bound by law or contract to protect personal information and are only allowed to use the personal information in accordance with the terms of our service agreements with them.
+
+We may disclose your personal information to other third parties:
 
   * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
 
@@ -128,7 +138,7 @@ The Website or our App may, from time to time, contain links to and from the web
 
 ## Access to Information
 
-The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of L10 to meet our costs in providing you with details of the information we hold about you.
+The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
 
 * * *
 
@@ -136,27 +146,27 @@ The Act gives you the right to access information held about you. Your right of 
 
 Any changes we may make to our data protection and privacy policy in the future will be posted on this page.
 
+This data protection and privacy policy was last updated in February 2014.
+
 * * *
 
 ## Opt-out process
 
 To unsubscribe from our newsletter please sign in to your account and update your preferences on the Email Options tab. Alternatively you can reply to one of our Newsletters with 'UNSUBSCRIBE' in the subject line.
 
-* * *
-
 ## Contact
 
-Questions, comments and requests regarding this data protection and privacy policy are welcomed and should be addressed [here](https://web.archive.org/contact-us.html).
+Questions, comments and requests regarding this data protection and privacy policy are welcomed and should be addressed [here](https://web.archive.org/contact-us.html) with the words “FAO: the Legal Department” in the subject line.
 
-**Address**  
-RetailMeNot UK Ltd  
+ **Address**  
+Legal Department, RetailMeNot UK Ltd  
 6th Floor  
 200 Grays Inn Road  
 London  
 WC1X 8XZ
 
-**Telephone**  
+ **Telephone**  
 020 7566 9840
 
-**Email Address**  
-[help@vouchercodes.co.uk](mailto:help@vouchercodes.co.uk)
+ **Email Address**  
+[legal@vouchercodes.co.uk](mailto:legal@vouchercodes.co.uk)
