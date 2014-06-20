@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thejockeyclub.co.uk privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121103612id_/http%3A//www.thejockeyclub.co.uk/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thejockeyclub.co.uk privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620120401id_/http%3A//www.thejockeyclub.co.uk/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy and Cookies | The Jockey Club
 
