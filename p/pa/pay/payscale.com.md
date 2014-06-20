@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the payscale.com privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014091027id_/https%3A//www.payscale.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payscale.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620052413id_/https%3A//www.payscale.com/privacy.asp) for the most accurate reproduction.*
 
 # PayScale - Salary Survey, Salaries, Wages, Compensation Information and Analysis
 
@@ -24,6 +24,10 @@ Our primary purpose for collecting Personally Identifiable Information is to pro
   * If you post a comment to a blog on this Web site you should be aware that any personally identifiable information you submit can be read, collected, or used by other users of these blogs, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these blogs.
 
 
+
+**PayScale Alumni Survey Data**
+
+If you provide information to PayScale via a PayScale Alumni Survey at the invitation of your alma mater, PayScale may provide Non-personally Identifiable Information in its raw form or in aggregate to your previous school for research and analysis. Your Personally Identifiable Information will not be shared.
 
 **Cookies**
 
