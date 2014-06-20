@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wenovel.com privacy policy that was archived on 2013-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131207020858id_/http%3A//www.wenovel.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wenovel.com privacy policy that was archived on 2014-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140620094925id_/http%3A//www.wenovel.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -30,9 +30,9 @@
 
 </head>
 <body>
+<iframe name="iframe_data" id="iframe_data" style="display:none;"></iframe>
 <div id="append_parent"></div>
 <div class="top_menu">
-
         <ul>
     <li><a href="/account/register.html">Register</a> | <a href="/account/signin.html">Sign in</a> </li>
       </ul>
@@ -42,18 +42,10 @@
     <div class="tops">
       <div class="topsz"><a href="/"><img src="/images/logoa.gif"></a></div>
       <div class="topsy">
-        <div class="add">
-				<script type="text/javascript"><!--
-		google_ad_client = "pub-2823288456291981";
-		/* 728x90, 创建于 11-10-25-top */
-		google_ad_slot = "0996137056";
-		google_ad_width = 728;
-		google_ad_height = 90;
-		//-->
-		</script>
-		<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-		</script>
-		        </div>
+        <form method="post" action="/search.html" onsubmit="return check(this)" name="q">
+			<input type="text" name="keyword" value="book name,content etc" class="txt" id="keyword" onblur="if (this.value=='') this.value=this.title" onfocus="if(this.value==this.title) this.value = '';" title="book name,content etc">
+			<input type="submit" value="" class="sub">
+		</form>
 
       </div>
     </div>
@@ -90,23 +82,72 @@ function check(){
 }
 
 </script>
+<!--
 <div class="gundong">
   <div class="gundong2">
     <div style="float:left;width:500px">
-	<form name="formsearch" action="/search.html" onsubmit="return check(this);">
+	<form  name="formsearch" action="/search.html" onSubmit="return check(this);">
       <strong>Search</strong>：
-      <input name="keyword" type="text" class="search-keyword" id="keyword" value="keyword..." onfocus="if(this.value=='keyword...'){this.value='';}" onblur="if(this.value==''){this.value='keyword...';}">
+      <input name="keyword" type="text" class="search-keyword" id="keyword" value="keyword..." onfocus="if(this.value=='keyword...'){this.value='';}"  onblur="if(this.value==''){this.value='keyword...';}" />
       &nbsp;&nbsp;
-      <button class="btn_mouseout" type="submit" style="width:89px; height:19px; padding-top:5px; border:0" title="搜索"></button>
-      &nbsp;&nbsp;<a href="/browse/hot.html" style="color:blue;font-zie:14px;">Hot</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="/browse/newest.html" style="color:red;font-size:14px;">Newest Novel</a>
+      <button class="btn_mouseout" type="submit"  style="width:89px; height:19px; padding-top:5px; border:0" title="搜索"></button>
+        <a href="/browse/hot.html" style="color:blue;font-zie:14px;">Hot</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="/browse/newest.html" style="color:red;font-size:14px;">Newest Novel</a>
     </form>
 	</div>
 	 <div style="float:right">
    <a href="http://www.uszipareacodes.com/" style="color:red;font-size:15px;" target="_blank">US Zip Code AND Area Code</a>
   </div>
   </div>
- 
 </div>
+-->
+<!---
+<div class="area">
+	<div class="error" id="jsonMessage">
+		<div onclick="try { $(this.parentNode).slideUp(500); } catch(e) { $(this.parentNode).remove(); };" class="close"></div>
+		<h4>Recent Read Books</h4>
+		<div class="display-plist clearfixm" id="psn-list">
+			<div class="single-box">
+				<div class="single-info">
+					<div class="single-name"><a href="/book/907.html">The Immortal</a>
+				</div>
+				<div class="single-author">
+					<span class="single-label"><a href="/author/1.html">novel</a></div>
+					<div class="single-last">2014-03-26 10:26:24</div>
+				</div>
+				<div class="single-ctrl"><a href="/book/907.html" class="single-read btn-1">Read</a></div>
+				<span class="dashLine"></span>
+			 </div>
+			<div class="single-box">
+				<div class="single-info">
+					<div class="single-name"><a href="/book/907.html">The Immortal</a>
+				</div>
+				<div class="single-author">
+					<span class="single-label"><a href="/author/1.html">novel</a></div>
+					<div class="single-last">2014-03-26 10:26:24</div>
+				</div>
+				<div class="single-ctrl"><a href="/book/907.html" class="single-read btn-1">Read</a></div>
+				<span class="dashLine"></span>
+			 </div>
+			 <div class="single-box">
+				<div class="single-info">
+					<div class="single-name"><a href="/book/907.html">The Immortal</a>
+				</div>
+				<div class="single-author">
+					<span class="single-label"><a href="/author/1.html">novel</a></div>
+					<div class="single-last">2014-03-26 10:26:24</div>
+				</div>
+				<div class="single-ctrl"><a href="/book/907.html" class="single-read btn-1">Read</a></div>
+				<span class="dashLine"></span>
+			 </div>
+
+		</div>
+
+		<ul class="message">
+			<li>您的帐号还未激活，请按照系统发出的确认邮件激活您的帐号！</li>
+		</ul>
+	</div>
+</div>
+-->
   <div class="area">
 
   <div class="gundong">
@@ -151,7 +192,7 @@ function check(){
 
 <div class="pages">
    </div><!-- /flink -->
-<div class="rfudong" id="slidebox1" style="left:0;width:130px;">
+<!--<div class="rfudong" id="slidebox1" style="right:0;width:130px;">
 	<div class="sstt"></div>
 	<div style="line-height:20px;font-weight:normal;font-size:14px;">
 	 <b>All The Data From The Network AND User Upload, <br>
@@ -159,14 +200,14 @@ function check(){
 	 <a href="/feedback.php" target="_blank" style="color:red">Feed Back</a>
 	</div>
 </div>
-
+-->
 
 <div class="aream" align="center" style="border-top:1px solid #FBCCA5;margin-top:10px;">
   <p class="banquan"></p>
   <p class="banquan">
    </p><div style="font-size:14px;">All The Data From The Network AND User Upload, If Infringement, Please Contact Us To Delete!  <a href="/feedback.php" target="_blank">Contact Us</a></div>
   <a href="/about-us.php">About Us</a> | <a href="/terms.php">Terms of Use</a> | <a href="/privacy.php">Privacy Policy</a> | <a href="/browse/taglist.html">Tag List</a>  | <a href="/browse/keylist.html">Recent Search</a> &nbsp;<br>
-  ©2010-2013 wenovel.com, All Rights Reserved <br>
+  ©2010-2014 wenovel.com, All Rights Reserved <br>
   <p></p>
   <br>
 </div>
