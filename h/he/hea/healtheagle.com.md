@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healtheagle.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231213330id_/http%3A//wasabiventures.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healtheagle.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620084342id_/http%3A//wasabiventures.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Wasabi Ventures, LLC. Privacy Policy
 
