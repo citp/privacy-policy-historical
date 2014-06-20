@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amolatina.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208020135id_/http%3A//www.amolatina.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amolatina.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620045143id_/http%3A//www.amolatina.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -67,7 +67,7 @@ We may use information to:
 
 When you send us an email, we use your email address to thank you for your comment and/or reply to your question, and we will store your communication and our reply in case we correspond further. Beyond our initial reply, we will never use your email address to send you any unsolicited message or information, nor will we share it with or sell it to anyone else for such use.
 
-You will also receive our email newsletters, account updates and special offers targeted to your interests sent to you by AmoLatina.com.
+You may also daily receive any combination of our email newsletters, account updates, or special offers targeted to your interests sent to you by AnastasiaGlobal.
 
 We will not use your address or other information to provide you with any unsolicited message or information (unless that is part of the service you are requesting), nor will we share it with or sell, rent or lease it to any third party for such use.
 
@@ -123,6 +123,8 @@ Please note that whenever you submit any information to us in connection with an
 
 If you have any questions, comments or complaints about AmoLatina’s privacy policy and/or the way it affects you, please feel free to contact our [Customer Support](https://web.archive.org/pages/customersupport/questioncategories.aspx)
 
+**+1 (800) 844-3978**
+
 ### Acceptance of Privacy Statement
 
 Your use of our website, including any dispute concerning privacy, is subject to this privacy statement and the applicable Terms and Conditions. By using our website, you are accepting the practices set out in this privacy statement and the applicable Terms and Conditions.
@@ -132,3 +134,7 @@ AmoLatina.com reserves the right to change, modify or amend this policy at any t
 ### Effective Date
 
 This privacy statement was last revised on May 06, 2010.
+
+### Company address
+
+103 Sham Peng Tong plaza, Victoria, Mahe, Seychelles
