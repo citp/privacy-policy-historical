@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mybbwgf.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219014032id_/http%3A//www.mybbwgf.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybbwgf.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620043311id_/http%3A//www.mybbwgf.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
