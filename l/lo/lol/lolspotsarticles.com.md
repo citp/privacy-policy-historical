@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lolspotsarticles.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201012218id_/http%3A//lolspotsarticles.com/privacyandcontact) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lolspotsarticles.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620034250id_/http%3A//lolspotsarticles.com/privacyandcontact) for the most accurate reproduction.*
 
-# Privacy and Contact
+# LOLSpots.com Privacy and Contact
 
 To remove LOLSpots.com from your Facebook:  
 Click here: [Remove LOLSpots.com](http://www.facebook.com/settings/?tab=applications) and click the x to the right of LOLSpots.com.
