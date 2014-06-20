@@ -1,7 +1,9 @@
-<!--The following is the downloaded HTML source of the woolandthegang.com privacy policy that was archived on 2013-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131212083317id_/http%3A//www.woolandthegang.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the woolandthegang.com privacy policy that was archived on 2014-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140620061021id_/http%3A//www.woolandthegang.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head data-hook="inside_head"><script type="text/javascript" async="" src="//google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
+<!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head data-hook="inside_head">
+<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0023/3394.js?439012" async="" type="text/javascript"></script><script type="text/javascript" async="" src="//google-analytics.com/ga.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-4.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"ade51f66bf","applicationID":"2936017","transactionName":"cVdYFUVcDwhXF00STVNMXwIYQxENRAQBGA==","queueTime":13,"applicationTime":52,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-411.min.js"}</script>
+<script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o?o:n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({D5DuLP:[function(t,n){function e(t,n){var e=r[t];return e?e.apply(this,n):(o[t]||(o[t]=[]),void o[t].push(n))}var r={},o={};n.exports=e,e.queues=o,e.handlers=r},{}],handle:[function(t,n){n.exports=t("D5DuLP")},{}],G9z0Bl:[function(t,n){function e(){var t=l.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&p&&p.body){l.proto="https"===f.split(":")[0]||t.sslForHttp?"https://":"http://",i("mark",["onload",a()]);var n=p.createElement("script");n.src=l.proto+t.agent,p.body.appendChild(n)}}function r(){"complete"===p.readyState&&o()}function o(){i("mark",["domContent",a()])}function a(){return(new Date).getTime()}var i=t("handle"),u=window,p=u.document,s="addEventListener",c="attachEvent",f=(""+location).split("?")[0],l=n.exports={offset:a(),origin:f,features:[]};p[s]?(p[s]("DOMContentLoaded",o,!1),u[s]("load",e,!1)):(p[c]("onreadystatechange",r),u[c]("onload",e)),i("mark",["firstbyte",a()])},{handle:"D5DuLP"}],loader:[function(t,n){n.exports=t("G9z0Bl")},{}]},{},["G9z0Bl"]);</script>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Privacy</title>
@@ -9,11 +11,12 @@
 	<meta content="" name="description">
 
 	
-	<link href="/assets/application-01475891d1c75ba9d4751bfd30bedb74.css" media="screen" rel="stylesheet">
-	<script src="/assets/application-91c59faa563e4c881e6b944e68ab5d24.js"></script>
+	<link href="//watg-production-herokuapp-com.global.ssl.fastly.net/assets/application-370a2b81265b4170d8b7716e9411f0a2.css" media="screen" rel="stylesheet">
+	<script src="//watg-production-herokuapp-com.global.ssl.fastly.net/assets/application-10f9ba46e9f81d241bbf4f4b8cc1d88d.js"></script>
 	
 	<meta content="authenticity_token" name="csrf-param">
-<meta content="Kb9KCkf57a8r2xnzgEYK0heyrqrprNCLjbtNqTEKgLU=" name="csrf-token">
+<meta content="y5xr+cHwOB8Kgci8lsjufbVflSIsTQlBAVS/x76OHwI=" name="csrf-token">
+    <script src="//cdn.optimizely.com/js/655644949.js"></script>
 	<script>
   if (Spree === undefined) {
     var Spree = {}
@@ -22,161 +25,326 @@
     Spree.routes = {}
   }
   Spree.routes.states_search = "/shop/api/states"
+  Spree.routes.apply_coupon_code = function(order_id) {
+    return "/shop/api/orders/" + order_id + "/apply_coupon_code"
+  }
+  Spree.routes.root = "http://www.woolandthegang.com/shop/"
 </script>
-
 
 	
 <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 
 <body id="default" class="shop one-col" data-hook="body">
 
-	<div class="container">
-  <div id="header" class="row" data-hook="">
-    <!-- Masthead -->
-    <header class="masthead-global">
-		<a href="/shop/" id="logo">
-			<img src="/assets/logo-watg-135x99-17f189547d7a1b73d9b0ce43ed34255b.png" width="135" height="99" alt="Wool And The Gang">
-</a>    </header>
-    <!-- Utility navigation -->
-    <div id="utilityNav" class="nav-utility">
-      <nav id="top-nav-bar"><ul id="nav-bar" data-hook="">
-<li id="link-to-login"><a href="/shop/login">Login</a></li>
+	<header class="container">
+	<div class="row nav-top">
+		<div class="large-2 small-2 columns">
+			<a class="link-nav-primary-sub" href="#navPrimarySub">Navigation</a>
+		</div>
+		<div class="large-10 small-10 columns">
+			<nav id="top-nav-bar"><ul id="nav-bar" data-hook="">
+<li class="worldwide">We ship worldwide</li>
+		<li class="telephone">UK +44 (0) 207 241 6420</li>
+		<li id="link-to-login"><a href="/shop/login">Login</a></li>
 <li id="search-bar" data-hook="">
-      <!-- -->
+			<!-- -->
 </li>
-  </ul></nav>
-      <ul id="main-nav-bar" data-hook="">
-  <li id="link-to-cart" data-hook=""><a class="cart-info empty" href="/shop/cart">My Bag: (Empty)</a></li>
-  
-
-  <li id="currency-select" class="currency-setting" style="float: right; margin-right: 10px;" data-hook="">
-    <form accept-charset="UTF-8" action="/shop/currency/set.html" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="Kb9KCkf57a8r2xnzgEYK0heyrqrprNCLjbtNqTEKgLU="></div>
-    <label for="currency"><span class="translation_missing" title="translation missing: en.currency">Currency</span>:</label> <select data-href="/shop/currency/set" id="currency" name="currency"><option value="GBP">GBP</option>
+	</ul></nav>
+			<ul id="main-nav-bar" data-hook="">
+	<li id="link-to-cart" data-hook=""><a class="cart-info empty" href="/shop/cart">My Bag: (Empty)</a></li>
+		<li id="currency-select" class="currency-setting" style="float: right; margin-right: 10px;" data-hook="">
+			<form accept-charset="UTF-8" action="/shop/currency/set.html" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="y5xr+cHwOB8Kgci8lsjufbVflSIsTQlBAVS/x76OHwI="></div>
+			<label for="currency"><span class="translation_missing" title="translation missing: en.currency">Currency</span>:</label> <select data-href="/shop/currency/set" id="currency" name="currency"><option value="GBP">GBP</option>
 <option selected="selected" value="USD">USD</option>
 <option value="EUR">EUR</option></select>
-    <noscript>
-      <input name="commit" type="submit" value="Save changes" />
-    </noscript>
-</form>  </li>
-
-  
+			<noscript>
+				<input name="commit" type="submit" value="Save changes" />
+			</noscript>
+</form>		</li>
 </ul>
 
-    </div>
-  </div>
-</div>
-
-<!-- menu toggle button -->
-<div class="global-menu-toggle" id="navGlobalToggle">
-  <a href="#navGlobal">Menu</a>
-</div>
+		</div>
+	</div>
+	<div class="row row-logo">
+		<div class="large-2 columns">
+			<a href="/shop/">
+				<img src="//watg-production-herokuapp-com.global.ssl.fastly.net/assets/logo-watg-135x99-d09ce0bace910c1cf49149fa427b28e4.png" width="135" height="99" alt="Wool And The Gang">
+</a>		</div>
+	</div>
+</header>
 
 	
-	<!-- Primary global navigation -->
-<!-- main menu -->
-<nav class="row nav-global" id="navGlobal">
-	<ul class="primary-menu">
-		<li class="nav-global-section gifts">
-			<a href="/shop/t/gifts">Gifts</a>
-			<ul class="sub-menu">
-				<li><a href="/shop/t/gifts/knit-kits">Knit Kits</a></li>
-				<li><a href="/shop/t/gifts/new-node">Women</a></li>
-				<li><a href="/shop/t/gifts/men">Men</a></li>
-				<li><a href="/shop/t/gifts/personalised-gifts">Personalised gifts</a></li>
-			</ul>
-		</li>
-		<li class="nav-global-section women">
-			<a href="/shop/t/women">Women</a>
-			<ul class="sub-menu">
-				<li><a href="/shop/t/women/new-arrivals">New Arrivals</a></li>
-				<li><a href="/shop/t/women/hats-and-scarves">Hats</a></li>
-				<li><a href="/shop/t/women/scarves-and-snoods">Scarves &amp; Snoods</a></li>
-				<li><a href="/shop/t/women/jumpers-and-sweaters">Sweaters</a></li>
-				<li><a href="/shop/t/women/tops-and-t-shirts">Tops &amp; T-Shirts</a></li>
-				<li><a href="/shop/t/women/vests">Vests</a></li>
-				<li><a href="/shop/t/women/capes-and-jackets">Coats &amp; Jackets</a></li>
-				<li><a href="/shop/t/women/dresses-and-skirts">Dresses &amp; Shorts</a></li>
-				<li><a href="/shop/t/women/accessories">Bags</a></li>
-			</ul>
-		</li>
-		<li class="nav-global-section men">
-			<a href="/shop/t/men">Men</a>
-			<ul class="sub-menu">
-				<li><a href="/shop/t/men/accessories">Accessories</a></li>
-				<li><a href="/shop/t/men/sweaters-and-jumpers">Sweaters</a></li>
-				<li><a href="/shop/t/men/scarves">Scarves</a></li>
-				<li><a href="/shop/t/men/hats-and-scarves"> Hats</a></li>
-			</ul>
-		</li>
-		<li class="nav-global-section collections">
-			<a href="/shop/t/collections">Collections</a>
-			<ul class="sub-menu">
-				<li><a href="/shop/t/collections/personalise-and-monograms">Personalise &amp; Monograms</a></li>
-				<li><a href="/shop/t/collections/gang-collection">Gang Collection</a></li>
-				<li><a href="/shop/t/collections/tartan-collection">Tartan Collection</a></li>
-				<li><a href="/shop/t/collections/Punk-Collection">Punk Collection</a></li>
-				<li><a href="/shop/t/collections/new-modern">New Modern</a></li>
-				<li><a href="/shop/t/collections/tara-stiles-x-watg">Tara Stiles X WATG</a></li>
-			</ul>
-		</li>
-		<li class="nav-global-section knitting">
-			<a href="/shop/t/knit-your-own">Knitting</a>
-			<ul class="sub-menu">
-				<li><a href="/shop/t/knit-your-own/new-arrivals">New Arrivals</a></li>
-				<li><a href="/shop/t/knit-your-own/knit-kits">Knit Kits</a></li>
-				<li><a href="/shop/t/knit-your-own/bag-knit-kits">Bag Knit Kits</a></li>
-				<li><a href="/shop/t/knit-your-own/kids-knit-kits">Kids Knit Kits</a></li>
-				<li><a href="/shop/t/knit-your-own/wool-and-cotton">Yarn</a></li>
-				<li><a href="/shop/t/knit-your-own/patterns">Knitting Patterns</a></li>
-				<li><a href="/shop/t/knit-your-own/needles">Needles &amp; Supplies</a></li>
-			</ul>
-		</li>
-		<li class="nav-global-section sale">
-			<a href="/shop/t/sale">Sale</a>
-			<ul class="sub-menu">
-				<li><a href="/shop/t/sale/ready-made">Ready Made</a></li>
-				<li><a href="/shop/t/sale/knit-your-own">Knit Your Own</a></li>
-			</ul>
-		</li>
-		<li class="nav-global-section gang-culture">
+	<!-- Primary navigation -->
+<nav id="navPrimary" class="row nav-primary">
+	<ul>
+		<li class="whats-new">
+			<a href="/shop/knitwear/whats-new">What's new</a>
+		</li><!-- Comments fix inline-block spacing
+		--><li class="women">
+			<a href="/shop/knitwear/women">Women</a>
+		</li><!--
+		--><li class="men">
+			<a href="/shop/knitwear/men">Men</a>
+		</li><!--
+		--><li class="kids">
+			<a href="/shop/knitwear/kids">Kids</a>
+		</li><!--
+		--><li class="knitting">
+			<a href="/shop/knitwear/knitting">Knitting</a>
+		</li><!--
+		--><li class="gang-culture">
 			<a href="/meet-the-gang">Gang Culture</a>
-			<ul class="sub-menu">
-				<li><a href="http://blog.woolandthegang.com/">Our Blog</a></li>
+		</li>
+	</ul>
+</nav>
+<!-- Primary sub-navigation -->
+<nav id="navPrimarySub" class="row nav-primary-sub">
+	<ul class="whats-new-sub">
+		<li class="large-3 columns">
+			<h2>Hot off the <span>drawing board</span></h2>
+		</li>
+		<li class="large-3 small-12 columns">
+			<h3>
+				<a href="/shop/knitwear/whats-new">What's new</a>
+			</h3>
+			<ul>
+				<li><a href="/shop/knitwear/whats-new-women">Women</a></li>
+<li><a href="/shop/knitwear/whats-new-men">Men</a></li>
+<li><a href="/shop/knitwear/whats-new-kids">Kids</a></li>
+			</ul>
+		</li>
+		<li class="large-3 small-12 columns">
+			<h3>
+				<a href="/shop/knitwear/collections">Our collections</a>
+			</h3>
+			<ul>
+				<li><a href="/shop/knitwear/collections/spring-summer">Spring/Summer</a></li>
+<li><a href="/shop/knitwear/collections/club-tropicana">Club Tropicana</a></li>
+<li><a href="/shop/knitwear/collections/east-side-gang">East Side Gang</a></li>
+<li><a href="/shop/knitwear/collections/be-bold">Be Bold</a></li>
+<li><a href="/shop/knitwear/collections/rachel-rutt-x-watg">Rachel Rutt X WATG</a></li>
+<li><a href="/shop/knitwear/collections/tara-stiles-x-watg">Tara Stiles X WATG</a></li>
+<li><a href="/shop/knitwear/collections/personalise-and-monograms">Personalise &amp; Monograms</a></li>
+
+			</ul>
+		</li>
+		<li class="large-3 columns">
+			<a href="/shop/items/primo-sweater-women/made-by-the-gang">
+				<img src="//d2pnxtyo6k0hqt.cloudfront.net/navigation/whats-new-primo-sweater.jpg" width="230" height="294" alt="Primo Sweater">
+				<h3>Primo Sweater</h3>
+				<p>Shop now</p>
+			</a>
+		</li>
+	</ul>
+	<ul class="women-sub">
+		<li class="large-3 columns">
+			<h2>Made By The Gang <span>or Knit Your Own</span></h2>
+		</li>
+		<li class="large-3 small-12 columns">
+			<h3>
+				<a href="/shop/knitwear/women">Women</a>
+			</h3>
+			<ul>
+				<li><a href="/shop/knitwear/women/bags">Bags</a></li>
+<li><a href="/shop/knitwear/women/jewellery">Jewellery</a></li>
+<li><a href="/shop/knitwear/women/accessories">Accessories</a></li>
+<li><a href="/shop/knitwear/women/tops-and-t-shirts">Tops &amp; T-Shirts</a></li>
+<li><a href="/shop/knitwear/women/dresses-skirts-and-shorts">Dresses, Skirts &amp; Shorts</a></li>
+<li><a href="/shop/knitwear/women/scarves-and-snoods">Wraps &amp; Scarves</a></li>
+<li><a href="/shop/knitwear/women/vests">Vests</a></li>
+<li><a href="/shop/knitwear/women/sweaters-and-jumpers">Sweaters &amp; Jumpers</a></li>
+<li><a href="/shop/knitwear/women/capes-and-jackets">Capes &amp; Jackets</a></li>
+<li><a href="/shop/knitwear/women/hats">Hats</a></li>
+<li><a href="/shop/items/gift-cards">Gift Cards</a></li>
+			</ul>
+		</li>
+		<li class="large-3 small-12 columns">
+			<h3>
+				<a href="/shop/knitwear/collections">Our collections</a>
+			</h3>
+			<ul>
+				<li><a href="/shop/knitwear/collections/spring-summer">Spring/Summer</a></li>
+<li><a href="/shop/knitwear/collections/club-tropicana">Club Tropicana</a></li>
+<li><a href="/shop/knitwear/collections/east-side-gang">East Side Gang</a></li>
+<li><a href="/shop/knitwear/collections/be-bold">Be Bold</a></li>
+<li><a href="/shop/knitwear/collections/rachel-rutt-x-watg">Rachel Rutt X WATG</a></li>
+<li><a href="/shop/knitwear/collections/tara-stiles-x-watg">Tara Stiles X WATG</a></li>
+<li><a href="/shop/knitwear/collections/personalise-and-monograms">Personalise &amp; Monograms</a></li>
+
+			</ul>
+		</li>
+		<li class="large-3 columns">
+			<a href="/shop/items/mind-the-gap-sweater-women/made-by-the-gang">
+				<img src="//d2pnxtyo6k0hqt.cloudfront.net/navigation/whats-new-mind-the-gap.jpg" width="230" height="294" alt="Mind The Gap">
+				<h3>Mind The Gap</h3>
+				<p>Shop now</p>
+			</a>
+		</li>
+	</ul>
+	<ul class="men-sub">
+		<li class="large-3 columns">
+			<h2>Made By The Gang <span>or Knit Your Own</span></h2>
+		</li>
+		<li class="large-3 small-12 columns">
+			<h3>
+				<a href="/shop/knitwear/men">Men</a>
+			</h3>
+			<ul>
+				<li><a href="/shop/knitwear/men/hats">Hats</a></li>
+<li><a href="/shop/knitwear/men/scarves-and-snoods">Scarves &amp; Snoods</a></li>
+<li><a href="/shop/knitwear/men/sweaters-and-jumpers">Sweaters</a></li>
+<li><a href="/shop/knitwear/men/accessories">Accessories</a></li>
+<li><a href="/shop/items/gift-cards">Gift Cards</a></li>
+
+			</ul>
+		</li>
+		<li class="large-3 columns">
+			<a href="/shop/items/stevie-sweater-men/made-by-the-gang">
+				<img src="//d2pnxtyo6k0hqt.cloudfront.net/navigation/men-stevie-sweater.jpg" width="230" height="294" alt="Stevie Sweater">
+				<h3>Stevie Sweater</h3>
+				<p>Shop now</p>
+			</a>
+		</li>
+		<li class="large-3 columns">
+			<a href="/shop/items/zissou-hat-men/made-by-the-gang">
+				<img src="//d2pnxtyo6k0hqt.cloudfront.net/navigation/men-zissou-hat.jpg" width="230" height="294" alt="Zissou Hat">
+				<h3>Zissou Hat</h3>
+				<p>Shop now</p>
+			</a>
+		</li>
+	</ul>
+	<ul class="kids-sub">
+		<li class="large-3 columns">
+			<h2>Made By The Gang <span>or Knit Your Own</span></h2>
+		</li>
+		<li class="large-3 small-12 columns">
+			<h3>
+				<a href="/shop/knitwear/kids">Kids</a>
+			</h3>
+			<ul>
+				<li><a href="/shop/knitwear/kids/baby-gang">Baby Gang (0–12 months)</a></li>
+<li><a href="/shop/knitwear/kids/mini-gang">Mini Gang (3–6 years)</a></li>
+<li><a href="/shop/items/gift-cards">Gift Cards</a></li>
+
+			</ul>
+		</li>
+		<li class="large-3 columns inverted">
+			<a href="/shop/items/sailor-sweater-for-kids/knit-your-own">
+				<img src="//d2pnxtyo6k0hqt.cloudfront.net/navigation/kids-sailor-sweater.jpg" width="230" height="294" alt="Stevie Sweater">
+				<h3>Sailor Sweater</h3>
+				<p>Shop now</p>
+			</a>
+		</li>
+		<li class="large-3 columns">
+			<a href="/shop/knitwear/kids/baby-gang">
+				<img src="//d2pnxtyo6k0hqt.cloudfront.net/navigation/kids-personalise-it.jpg" width="230" height="294" alt="Personalise it!">
+				<h3>Personalise it!</h3>
+				<p>Shop now</p>
+			</a>
+		</li>
+	</ul>
+	<ul class="knitting-sub">
+		<li class="large-3 columns">
+			<h2>All you need <br><span>for your knitting project</span></h2>
+		</li>
+		<li class="large-3 small-12 columns">
+			<h3>
+				<a href="/shop/knitwear/knitting">Knitting</a>
+			</h3>
+			<ul>
+				<li><a href="/shop/knitwear/knitting/women">Women's Knit Kits</a></li>
+<li><a href="/shop/knitwear/knitting/men">Men's Knit Kits</a></li>
+<li><a href="/shop/knitwear/knitting/kids">Kids' Knit Kits</a></li>
+<li><a href="/shop/knitwear/knitting/cotton">Cotton Knit Kits</a></li>
+<li><a href="/shop/knitwear/knitting/summer-knit-projects">Summer Knitting Projects</a></li>
+<li><a href="/shop/knitwear/knitting/wool-and-cotton">Yarn</a></li>
+<li><a href="/shop/items/patterns/made-by-the-gang">Knitting Patterns</a></li>
+<li><a href="/shop/knitwear/knitting/needles">Needles &amp; Supplies</a></li>
+<li><a href="/shop/items/gift-cards">Gift Cards</a></li>
+			</ul>
+		</li>
+		<li class="large-3 columns inverted">
+			<a href="/shop/items/mixtape-yarn/made-by-the-gang">
+				<img src="//d2pnxtyo6k0hqt.cloudfront.net/navigation/knitting-mixtape-yarn.jpg" width="230" height="294" alt="Mixtape Yarn">
+				<h3>Mixtape Yarn</h3>
+				<p>Shop now</p>
+			</a>
+		</li>
+		<li class="large-3 columns">
+			<a href="/video-tutorials">
+				<img src="//d2pnxtyo6k0hqt.cloudfront.net/navigation/knitting-wool-school.jpg" width="230" height="294" alt="Wool School">
+				<h3>Wool School</h3>
+				<p>Learn something new</p>
+			</a>
+		</li>
+	</ul>
+	<ul class="gang-culture-sub">
+		<li class="large-3 columns">
+			<h2>Hang with The Gang</h2>
+		</li>
+		<li class="large-3 small-12 columns">
+			<h3>
+				<a href="/meet-the-gang">Gang Culture</a>
+			</h3>
+			<ul>
+				<li><a href="/vote-for-your-favourite">Gang labs voting</a></li>
+				<li><a href="http://blog.woolandthegang.com">Our Blog</a></li>
+				<li><a href="http://tumblr.woolandthegang.com">Our Tumblr</a></li>
 				<li><a href="/meet-the-gang">Meet The Gang</a></li>
 				<li><a href="/gang-manifesto">Gang Manifesto</a></li>
 				<li><a href="/become-a-gang-maker">Become a Gang Maker</a></li>
 				<li><a href="/video-tutorials">Video Tutorials</a></li>
 				<li><a href="/bespoke-projects">Bespoke Projects</a></li>
 				<li><a href="/press">Press</a></li>
+				<li><a href="/hang-with-the-gang">Hang With The Gang</a></li>
 			</ul>
+		</li>
+		<li class="large-3 columns">
+			<a href="/vote-for-your-favourite">
+				<img src="//d2pnxtyo6k0hqt.cloudfront.net/navigation/ganglabs-vote-menu-dropdown.jpg" width="230" height="294" alt="Vote for your favourite">
+				<h3>Gang labs</h3>
+				<p>Vote for your favourite</p>
+			</a>
+		</li>
+		<li class="large-3 columns">
+			<a href="/video-tutorials">
+				<img src="//d2pnxtyo6k0hqt.cloudfront.net/navigation/gang-culture-wool-school.jpg" width="230" height="294" alt="Wool School">
+				<h3>Wool School</h3>
+				<p>Learn something new</p>
+			</a>
 		</li>
 	</ul>
 </nav>
 
+	
+	<!-- The modal for shipping can be found in the footer -->
+<div class="row-shipping-and-contact">
+	<div class="row">
+			<div class="large-12 small-12 columns">
+				<p><strong>We're happy if you're happy</strong> <a rel="modal" name="modal-contact" href="#modal-contact">contact us</a> if you need our help</p>
+			</div>
+	</div>
+</div>
 
 	<div class="container">
-
 		<div id="signupPromo" class="signup-promo">
-	<div class="row signup-form">
+	<div class="row">
 		<div class="small-12 columns">
 			<a href="#" class="signup-close" title="Close">Close</a>
-			<!--<form id="signupForm" action="/mc/subscription" method="post">
-			<label for="signupEmail">Find out what the gang's up to<br />with our wooly news.</label>
-				<div>
-					<input name="signupEmail" id="signupEmail" type="email" placeholder="Enter your email here" />
-					<button type="submit" class="inverse">Sign up</button>
-					<input type="hidden" name="list_name" value="Wool and the Gang sign-up" />
+			<form action="/shop/subscribe_to_list" method="post" class="signup-form">
+			<label for="signupEmail">Love our new Summer Collection?<br>Enter now to win your favourite pieces!</label>			
+				<div>	
+					<input name="signupEmail" id="signupEmail" type="email" placeholder="Enter your email here">
+					<button type="submit" class="inverse">I'm in!</button>
+					<input type="hidden" name="list_name" value="Summer Look Referrer">
+					<input type="hidden" name="source" value="Website - Header">
 				</div>
+				<label><small><a href="http://www.woolandthegang.com/competition-summer-look-jun-2014-terms">Terms &amp; Conditions</a></small></label>
 			</form>
-			<div id="signupResponse" class="row signup-response">
+			<div class="row signup-response">
 				<div class="small-12 columns">
 					<a href="#" class="signup-close" title="Close">Close</a>
 				</div>
-			</div>-->
-			<div class="free-shipping-promo">
-				<p>Free Shipping when you spend over $100/£75/€95</p>
-				<p>Enter promo code: <strong>GANGSTAWRAP</strong> when you check out</p>
-				<p>*Only one promo can be used per order</p>
 			</div>
 		</div>
 	</div>
@@ -301,77 +469,134 @@
 	</div>
 	
 </div>
+
 			</div>
 		</div>
 		
-		  <!-- Global footer -->
-  <footer class="row">
-  <!-- Newsletter signup / social media -->
-  <div class="marketing large-6 columns">
+		<!-- Global footer -->
+<footer class="row">
+	<!-- Newsletter signup / social media -->
+	<div class="marketing large-6 columns">
+		<form action="/shop/subscribe" method="post" class="signup-form newsletter-subscribe">
+			<label for="email">Sign up for wooly news</label>
+			<input type="email" value="" name="signupEmail" placeholder="Enter your email here">
+			<input type="hidden" name="source" value="Website - Footer">
+			<button type="submit">Submit</button>
+		</form>
+		<div class="signup-response">
+			<div>        
+			</div>
+		</div>
 
-    <form action="http://woolandthegang.us7.list-manage.com/subscribe/post?u=cdf3865c6f399972e5d491ea2&amp;id=ab2a39b40c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="newsletter-subscribe">
-      <label for="mce-EMAIL">Sign up for wooly news</label>
-      <input type="email" value="" name="EMAIL" id="mce-EMAIL" placeholder="Enter your email here">
-      <button type="submit">Submit</button>
-    </form>
+		<section class="social">
+			<h6 class="watg-font">Hang out with The Gang</h6>
+			<a class="twitter" href="http://twitter.com/woolandthegang" target="_blank">twitter</a>
+			<a class="facebook" href="http://www.facebook.com/pages/Wool-and-the-Gang/45057178937?ref=ts" target="_blank">facebook</a>
+			<a class="pinterest" href="http://www.pinterest.com/woolandthegang/" target="_blank">pinterest</a>
+			<a class="youtube" href="http://www.youtube.com/user/WOOLANDTHEGANGsa" target="_blank">youtube</a>
+			<a class="tumblr" href="http://tumblr.woolandthegang.com" target="_blank">tumblr</a>
+			<a class="instagram" href="http://instagram.com/woolandthegang" target="_blank">instagram</a>
+		</section>
+	</div>
 
-    <section class="social">
-    <h6 class="watg-font">Hang out with The Gang</h6>
-    <a class="twitter" href="http://twitter.com/woolandthegang" target="_blank">twitter</a>
-    <a class="facebook" href="http://www.facebook.com/pages/Wool-and-the-Gang/45057178937?ref=ts" target="_blank">facebook</a>
-    <a class="pinterest" href="http://www.pinterest.com/woolandthegang/" target="_blank">pinterest</a>
-    <a class="youtube" href="http://www.youtube.com/user/WOOLANDTHEGANGsa" target="_blank">youtube</a>
-    <a class="tumblr" href="http://blog.woolandthegang.com/" target="_blank">tumblr</a>
-    <a class="instagram" href="http://instagram.com/woolandthegang" target="_blank">instagram</a>
-    </section>
+	<section class="footer-global-unit gang-culture large-2 columns">
+		<h6>Gang Culture</h6>
+		<ul class="sub-menu">
+			<li><a href="http://blog.woolandthegang.com">Our Blog</a></li>
+			<li><a href="http://tumblr.woolandthegang.com">Our Tumblr</a></li>
+			<li><a href="/meet-the-gang">Meet the Gang</a></li>
+			<li><a href="/gang-manifesto">Gang Manifesto</a></li>
+			<li><a href="/become-a-gang-maker">Become a Gang Maker</a></li>
+			<li><a href="/video-tutorials">Video Tutorials</a></li>
+			<li><a href="/bespoke-projects">Bespoke Projects</a></li>
+			<li><a href="/press">Press</a></li>
+			<li><a href="/hang-with-the-gang">Hang With The Gang</a></li>
+		</ul>
+	</section>
+	<section class="footer-global-unit shop large-2 columns">
+		<h6>Shop</h6>
+		<ul class="sub-menu">
+			<li><a href="/shop/knitwear/collections">Collections</a></li>
+			<li><a href="/shop/knitwear/women">Women</a></li>
+			<li><a href="/shop/knitwear/men">Men</a></li>
+			<li><a href="/shop/knitwear/kids">Kids</a></li>
+			<li><a href="/shop/knitwear/knitting">Knitting</a></li>
+		</ul>
+	</section>
+	<section class="footer-global-unit help large-2 columns">
+		<h6>Help</h6>
+		<ul class="sub-menu">
+			<li><a href="/faqs">FAQs</a></li>
+			<li><a href="/careers">Careers</a></li>
+			<li><a href="/contact-us">Contact Us</a></li>
+			<li><a href="/terms-and-conditions">Ts &amp; Cs</a></li>
+			<li><a href="/privacy">Privacy</a></li>
+		</ul>
+	</section>	
+</footer>
 
-  </div>
+<!-- Cookie message -->
+<div class="row row-cookie">
+	<p><span>Hello there!</span> This website uses cookies. If you're down with that, just carry on as you were. <a href="#">Don't show this message again</a>. | <a href="/terms-and-conditions#cookies">Read about cookies</a>.</p>
+</div>
 
-  <section class="footer-global-unit gang-culture large-2 columns">
-  <h6>Gang Culture</h6>
-  <ul class="sub-menu">
-    <li><a href="http://blog.woolandthegang.com/">Our Blog</a></li>
-    <li><a href="/meet-the-gang">Meet the Gang</a></li>
-    <li><a href="/gang-manifesto">Gang Manifesto</a></li>
-	  <li><a href="/become-a-gang-maker">Become a Gang Maker</a></li>
-    <li><a href="/video-tutorials">Video Tutorials</a></li>
-    <li><a href="/bespoke-projects">Bespoke Projects</a></li>
-    <li><a href="/press">Press</a></li>
-  </ul>
-  </section>
-  <section class="footer-global-unit shop large-2 columns">
-  <h6>Shop</h6>
-  <ul class="sub-menu">
-        <li><a href="/shop/t/gifts"><span class="translation_missing" title="translation missing: en.spree.Gifts">Gifts</span></a></li>
-        <li><a href="/shop/t/women"><span class="translation_missing" title="translation missing: en.spree.Women">Women</span></a></li>
-        <li><a href="/shop/t/men"><span class="translation_missing" title="translation missing: en.spree.Men">Men</span></a></li>
-        <li><a href="/shop/t/collections"><span class="translation_missing" title="translation missing: en.spree.Collections">Collections</span></a></li>
-        <li><a href="/shop/t/knit-your-own"><span class="translation_missing" title="translation missing: en.spree.Knitting">Knitting</span></a></li>
-        <li><a href="/shop/t/sale"><span class="translation_missing" title="translation missing: en.spree.Sale">Sale</span></a></li>
-  </ul>
-  </section>
-  <section class="footer-global-unit help large-2 columns">
-  <h6>Help</h6>
-  <ul class="sub-menu">
-    <li><a href="/faqs">FAQs</a></li>
-    <li><a href="/careers">Careers</a></li>
-    <li><a href="/contact-us">Contact Us</a></li>
-    <li><a href="/terms-and-conditions">T’s &amp; C’s</a></li>
-    <li><a href="/privacy">Privacy</a></li>
-  </ul>
-  </section>	
-  </footer>
+<!-- Shipping modal -->
+
+<!-- Contact modal -->
+<div class="modal" id="modal-contact">
+	<a class="modal-close" href="#">Close</a>
+	<h3>Contact Us</h3>
+	  <iframe src="//woolthegang.desk.com/customer/emails/new"></iframe>
+</div>
 
 	</div>
 	
 	<script>
-		Spree.api_key = "";
+          Spree.api_key = "";
 	</script>
 	
-	<script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script>
+	  <script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script>
 
-	
-  <script>
+
+
+	<script type="text/javascript">
+adroll_adv_id = "KXFPJJD63NGCNIOYNAIMPN";
+adroll_pix_id = "OLNH3BG7NJD4DNKYS2NX6W";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
+</script>
+
+	  <script>
+//<![CDATA[
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new
+  Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  
+  var uid = (function (n) {var m = n + "=";var ca = document.cookie.split(';');for (var i = 0; i < ca.length; i++) {var c = ca[i];while (c.charAt(0) == ' ') c = c.substring(1, c.length);if (c.indexOf(m) == 0) return c.substring(m.length, c.length);}return null;})('watgtc');
+
+  ga('create', 'UA-46946291-1', 'auto');
+  if (uid && uid != 'undefined') {ga('set', '&uid', uid);}
+  ga('send', 'pageview');
+
+
+
+//]]>
+</script>
+ 	  <script>
 //<![CDATA[
 
     var _gaq = _gaq || [];
@@ -387,10 +612,12 @@
 
 //]]>
 </script>
-	<!-- Google Code for Remarketing Tag -->
-<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup -->
-<script type="text/javascript">
-  /* <![CDATA[ */
+
+
+ 	  <!-- Google Code for Remarketing Tag -->
+  <!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup -->
+  <script type="text/javascript">
+    /* <![CDATA[ */
   var google_conversion_id = 988201520;
   var google_custom_params = window.google_tag_params;
   var google_remarketing_only = true;
@@ -405,35 +632,13 @@
 </noscript>
 
 	<script type="text/javascript">
-  adroll_adv_id = "KXFPJJD63NGCNIOYNAIMPN";
-  adroll_pix_id = "OLNH3BG7NJD4DNKYS2NX6W";
-  (function () {
-   var oldonload = window.onload;
-   window.onload = function(){
-   __adroll_loaded=true;
-   var scr = document.createElement("script");
-   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-   scr.setAttribute('async', 'true');
-   scr.type = "text/javascript";
-   scr.src = host + "/j/roundtrip.js";
-   ((document.getElementsByTagName('head') || [null])[0] ||
-    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-   if(oldonload){oldonload()}};
-   }());
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0023/3394.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 </script>
 
 	
-<script type="text/javascript">if (typeof NREUMQ !== "undefined") { if (!NREUMQ.f) { NREUMQ.f=function() {
-NREUMQ.push(["load",new Date().getTime()]);
-var e=document.createElement("script");
-e.type="text/javascript";
-e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" +
-  "js-agent.newrelic.com/nr-100.js";
-document.body.appendChild(e);
-if(NREUMQ.a)NREUMQ.a();
-};
-NREUMQ.a=window.onload;window.onload=NREUMQ.f;
-};
-NREUMQ.push(["nrfj","beacon-2.newrelic.com","ade51f66bf","2936017","cVdYFUVcDwhXF00STVNMXwIYQxENRAQBGA==",26,115,new Date().getTime(),"","","","",""]);}</script>
 
-<script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
+
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
