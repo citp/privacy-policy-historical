@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bn0.com privacy policy that was archived on 2013-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131011004522id_/http%3A//www.bn0.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bn0.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620164636id_/http%3A//4v4.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
