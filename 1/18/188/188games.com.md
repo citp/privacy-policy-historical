@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 188games.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230032549id_/http%3A//www.188games.com/en-gb/corporate-affairs/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 188games.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620023957id_/http%3A//www.188games.com/en-gb/corporate-affairs/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy at 188BET – Corporate Affairs - 188BET
 
@@ -81,7 +81,7 @@ We may contact you:
 
 
 
-We will keep your information confidential except where disclosure is required or permitted by law (for example to government bodies and law enforcement agencies or as described below where there is offensive or inappropriate content on the website) or as described below in relation to our business partners. Generally we will only use your information within 188BET; however sometimes we may use third parties to process your information (e.g. providers of web hosting, maintenance services, security, credit and risk vetting agencies). To the extent that such third parties are data processors, we will require those third parties to comply strictly with our instructions and we will require that they do not use your personal information for their own business purposes.
+We will keep your information confidential except where disclosure is required or permitted by law (for example to government bodies and law enforcement agencies or as described below where there is offensive or inappropriate content on the website) or as described below in relation to our business partners. Generally we will only use your information within 188BET; however sometimes we may use third parties to process your information (e.g. providers of web hosting, maintenance services, security, credit agencies). We may also use third parties to carry out checks on devices you use in accessing our Services for risk vetting and your own protection. Vetting may involve placing a cookie or other file on your device to collect and process technical data on your device. To the extent that such third parties are data processors, we will require those third parties to comply strictly with our instructions and we will require that they do not use your personal information for their own business purposes.
 
 We may also share your personal data with our business partners for marketing purposes as detailed below.
 
@@ -181,4 +181,4 @@ Isle of Man
 
 IM1 1JD
 
-Last updated on 02 April 2012 12:01 (GMT-4) 
+Last updated on 07 March 2014 12:01 (GMT-4)
