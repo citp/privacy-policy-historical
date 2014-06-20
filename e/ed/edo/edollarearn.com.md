@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the edollarearn.com privacy policy that was archived on 2013-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130821000104id_/http%3A//edollarearn.com/edollarearn-privacy-policy-t342.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edollarearn.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620102617id_/http%3A//edollarearn.com/edollarearn-privacy-policy-t342.html) for the most accurate reproduction.*
 
-# eDollarearn Privacy Policy - Webmaster Forum
+# eDollarearn Privacy Policy
 
 _Privacy Policy:_ This privacy policy sets out how EDE uses and protects any information that you give EDE when you use this forum.  
 EDE is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this forum, then you can be assured that it will only be used in accordance with this privacy statement.  
