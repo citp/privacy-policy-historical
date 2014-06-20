@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodandwine.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224042554id_/http%3A//www.amexpub.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodandwine.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620204334id_/http%3A//www.amexpub.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -7,7 +7,7 @@
   
 Effective Date: November 11, 2013
 
-American Express Publishing ("AEP," "we," "our" or "us"), a division of Time Inc. Affluent Media Group, is committed to safeguarding your privacy. We want you to know how we may collect, use, share, and keep information about you and the choices that are available to you. [Click here](https://web.archive.org/web/20131224042554id_/http://www.amexpub.com/privacy/aep-bus-units.html) for a list of the businesses that are governed by this Privacy Policy.
+American Express Publishing ("AEP," "we," "our" or "us"), a division of Time Inc. Affluent Media Group, is committed to safeguarding your privacy. We want you to know how we may collect, use, share, and keep information about you and the choices that are available to you. [Click here](https://web.archive.org/web/20140620204334id_/http://www.amexpub.com/privacy/aep-bus-units.html) for a list of the businesses that are governed by this Privacy Policy.
 
 This online privacy policy applies to AEP sites, applications, products, publications and services that reference this policy. AEP is not affiliated with American Express Company or its subsidiaries, and this Policy does not apply to those sites that have their own online privacy policies such as the American Express website, americanexpress.com, and the American Express Network website, amexnetwork.com.
 
