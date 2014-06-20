@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetimesnews.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629144301id_/http%3A//www.halifaxmediagroup.com/sites/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetimesnews.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620091908id_/http%3A//www.halifaxmediagroup.com/sites/privacy.html) for the most accurate reproduction.*
 
 # Untitled Document
 
