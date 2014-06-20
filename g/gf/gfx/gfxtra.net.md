@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gfxtra.net privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127145827id_/http%3A//www.gfxtra.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gfxtra.net privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620231809id_/http%3A//www.gfxtra.net/privacy.html) for the most accurate reproduction.*
 
-# GFXTRA.COM Privacy Policy » Download Graphic GFX Stock Vector Image PSD Sources Tutorials
+# GFXTRA.COM Privacy Policy » Graphic GFX PSD Sources Stock Vector Image Tutorials Download
 
 ### GFXTRA.COM Privacy Policy
 
