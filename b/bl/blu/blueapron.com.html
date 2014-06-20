@@ -1,61 +1,133 @@
-<!--The following is the downloaded HTML source of the blueapron.com privacy policy that was archived on 2013-08-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130807222714id_/http%3A//www.blueapron.com/pages/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the blueapron.com privacy policy that was archived on 2014-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140620145933id_/http%3A//www.blueapron.com/pages/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
+<!DOCTYPE html><html xmlns:og="http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml"><!--<![endif]--><head>
 <meta charset="utf-8">
 <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KWZPFP"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-3.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"cbe2483cc7","applicationID":"637321","transactionName":"IApXR0pZWVkER0pGBAQAShxLXlpC","queueTime":11,"applicationTime":61,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-411.min.js","extra":""}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQIEVFVXGwUDU1JQBg=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
 <link href="/favicon.ico" rel="shortcut icon">
-<title>Privacy - Blue Apron</title>
+<title>Blue Apron: Fresh Ingredients, Original Recipes, Delivered to You</title>
 <meta content="Blue Apron makes cooking fun and easy. We'll provide you with all the ingredients that you need to make a delicious meal in exactly the right proportions." name="description">
 <meta content="1703523" property="fb:admins">
 <meta content="2474" property="fb:admins">
 <meta content="268433919926057" property="fb:app_id">
-<link href="http://media2.blueapron.com/assets/application-91b2a5a68b2667297da3b8e5824350f4.css" media="all" rel="stylesheet" type="text/css">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://media2.blueapron.com/assets/application-0ddd6e39cd01ab0ded7eb267aa9d09c4.js" type="text/javascript"></script>
+
+
+<link href="//media.blueapron.com/assets/application-522d2ad7c63e2265af25c31bbcba6853.css" media="screen" rel="stylesheet" type="text/css">
+<link href="//cloud.typography.com/7214432/782582/css/fonts.css" media="all" rel="stylesheet" type="text/css">
+<link href="//fonts.googleapis.com/css?family=Signika:400,600,700,300" media="all" rel="stylesheet" type="text/css">
+<!--[if lte IE 9]>
+<link href="//media.blueapron.com/assets/application-ie-691d8728b6e6ad263a47a72d44bda1f3.css" media="screen" rel="stylesheet" type="text/css" />
+<![endif]-->
+<!--[if lte IE 7]>
+<script src="//media.blueapron.com/assets/json3-62fe9745aeebfc6dae31eeac42032b22.js" type="text/javascript"></script>
+<![endif]-->
+<script src="//media.blueapron.com/assets/application-cd852e917683abd45a3a54d5194c2e4d.js" type="text/javascript"></script>
+<script>
+  //<![CDATA[
+    //detect if the device is a tablet or not. If not, include viewport meta tag
+    //uses MobileEsp javscript: http://blog.mobileesp.com/
+    var tabr = MobileEsp.DetectTierTablet();
+    if(tabr){
+    }
+    else {
+        document.write('<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">');
+    }
+  //]]>
+</script>
 <script src="//cdn.optimizely.com/js/214661394.js" type="text/javascript"></script>
+<!--[if lte IE 7]>
+<script src="//media.blueapron.com/assets/modal-ie-b54d7398e6ba9a703b5a05fb09b586bf.js" type="text/javascript"></script>
+<![endif]-->
 
 <meta content="authenticity_token" name="csrf-param">
-<meta content="h+0dx0k7cgt2zlsqZDzMAzhAS/GjrJ6FkBjqINoyVTI=" name="csrf-token">
+<meta content="dyKV3EwjOMehL8VRHD2RPqsyj5k6fzqVB/PX7gzmzTU=" name="csrf-token">
 
-<script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script></head>
-<body>
-<div class="navbar">
-<div class="navbar-inner">
+</head>
+<body class="pages_show_default">
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KWZPFP"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KWZPFP');</script>
+<!-- End Google Tag Manager -->
+
+<header id="header-main">
+<div class="container clearfix">
+<div class="pull-right small-hide" id="member-portal">
+<span class="member-name logged-in"></span>
+<a href="/account" class="my-acct logged-in hide" id="my_account_nav_link">My Account</a>
+<span class="notification logged-in hide">
+<span></span>
+</span>
+<a href="/users/sign_in" class="sign-in logged-out">Sign in</a>
+<a href="/users/sign_out" class="sign-out logged-in" data-method="delete" rel="nofollow">Sign out</a>
+</div>
+
+<div class="pull-left" id="logo">
+<a href="/"><img alt="Blue Apron" src="//media.blueapron.com/assets/new-design/logos/blue-apron-logo-stacked-fd6e6eead103f299ce1b64c300c9ec1d.jpg">
+</a></div>
 <div class="container">
-<a href="/" class="brand"><img alt="Blue Apron" src="http://media0.blueapron.com/assets/base/logo-header-e5557dad70ff4edbbcf6d3bd093a3cb1.png">
-</a><ul class="nav pull-right">
-<li><a href="/">Home</a></li>
-<li class="header-separator"></li>
-<li><a href="/pages/learn-more">Learn more</a></li>
-<li class="header-separator"></li>
-<li><a href="/pages/sample-recipes">Recipes</a></li>
-<li class="header-separator"></li>
-<li><a href="/users/sign_up">Join</a></li>
-<li class="header-separator"></li>
-<li>
-<a href="/users/sign_in">Sign in</a>
-</li>
+<button class="btn btn-navbar mobile-only" data-target=".nav-collapse" data-toggle="collapse" type="button">
+Menu
+</button>
+<div class="nav-collapse collapse">
+<nav id="main-nav">
+<ul class="nav nav-pills">
+<li><a href="/" id="nav_home">Home</a></li>
+<li><a href="/pages/learn-more" id="nav_learn_more">Learn More</a></li>
+<li><a href="/pages/sample-recipes" id="nav_on_the_menu">On The Menu</a></li>
+<li><a href="http://blog.blueapron.com" id="nav_blog">Blog</a></li>
+<li><a href="/gifts">Gifts</a></li>
+<li><a href="/users/sign_up" id="nav_sign_up">Sign Up</a></li>
+
 </ul>
+<div class="mobile-portal mobile-only">
+<a href="/account" class="my-acct logged-in hide" id="my_account_nav_link_mobile">My Account</a>
+<span class="notification logged-in hide">
+<span></span>
+</span>
+<a href="/users/sign_in" class="mobile-sign-in logged-out">Sign in</a>
+<a href="/users/sign_out" class="mobile-sign-out logged-in" data-method="delete" rel="nofollow">Sign out</a>
+</div>
+</nav>
 </div>
 </div>
+
 </div>
+</header>
 
 <div id="main" role="main">
+<div id="head-promo">
+<div class="head-promo-in clearfix">
+<div class="hp-1">
+<h3>
+&nbsp;
+</h3>
+</div>
+<div class="hp-2">
+<a href="/users/sign_up" class="btn">Get Started »</a>
+</div>
+</div>
+<button class="close promo-close" type="button">
+x
+</button>
+</div>
 
 
-<div class="container">
-<div class="content">
-<div class="row page-header">
-<h1 class="text-center">
+<section class="row-fluid basic-page" id="">
+<div class="bg-img"></div>
+<div class="container clearfix" id="page_content">
+
+<div class="page-info-in">
+<section>
+<h1>
 Privacy
 </h1>
-<div class="horizontal-chalk-line"></div>
-</div>
-<div class="row subpage">
-<div class="span10 offset1" id="page_content">
-<div class="simple-white-container subpage-content">
-
-
 <p align="center">
 	<strong>Effective as of March 8th, 2013</strong></p>
 <p>
@@ -133,60 +205,110 @@ Privacy
 <p>
 	If you have questions about this Privacy Policy, please e-mail us at <a href="mailto:contact@blueapron.com?subject=Privacy%20policy">contact@blueapron.com</a>.&nbsp;</p>
 
-
-</div>
-</div>
+</section>
 </div>
 
+<script src="//media.blueapron.com/assets/pages-2331eef258db117f7430aa33fd53d889.js" type="text/javascript"></script>
 
-<div class="footer">
-<div class="horizontal-chalk-line"></div>
-<div class="footer-content">
-<div class="pull-right">
-<p class="footer-links">
-<a href="http://blog.blueapron.com">Blog</a>
-|
-<a href="/contact">Contact</a>
-|
-<a href="/pages/cookbook">Cookbook</a>
-|
-<a href="/gifts">Gifts</a>
-|
-<a href="/pages/jobs">Jobs</a>
-|
-<a href="/pages/team">Team</a>
+</div>
+</section>
+
+
+<footer>
+<div class="container clearfix">
+<div class="as-seen-in row-fluid">
+<span class="title">As seen in</span>
+<div class="main-img">
+<img alt="As-seen-in" src="//media.blueapron.com/assets/new-design/footer/as-seen-in-53f7e041c9e3703a2c36e6bcb7aee2ae.png">
+</div>
+<div class="mobile-only press-img">
+<img alt="As-seen-in-mobile" src="//media.blueapron.com/assets/new-design/footer/as-seen-in-mobile-9890393cfc4e838cb6ebb1d559bd28f5.png">
+</div>
+</div>
+<div class="stay-connected row-fluid">
+<div class="row-fluid">
+<ul class="socials span3">
+<li><a href="http://www.facebook.com/blueapronmeals" class="fb" target="_BLANK">Like us on Facebook</a></li>
+<li><a href="http://twitter.com/blueapronmeals" class="tw" target="_BLANK">Follow us on Twitter</a></li>
+<li><a href="http://instagram.com/blueapronmeals" class="ig" target="_BLANK">Follow us on Instagram</a></li>
+<li><a href="http://pinterest.com/blueapronmeals/" class="pin" target="_BLANK">Check us out on Pinterest</a></li>
+</ul>
+<div class="join span6">
+<div class="clearfix">
+<h5>Get free recipes</h5>
+<p>A new menu in your inbox every week</p>
+<form accept-charset="UTF-8" action="/newsletter/subscribe" id="recipe_newsletter_footer_form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div>
+<input id="newsletter_subscriber_source" name="newsletter_subscriber[source]" type="hidden" value="Footer newsletter form">
+<input id="newsletter_subscriber_receive_meat_fish" name="newsletter_subscriber[receive_meat_fish]" type="hidden" value="1">
+<input class="required email" data-validate="{required: true, email: true, messages: {email: 'Invalid email'}}" id="newsletter_subscriber_email" name="newsletter_subscriber[email]" placeholder="Email Address" type="text">
+<button class="btn" value="submit">Go</button>
+</form>
+
+<script>
+  //<![CDATA[
+    $(document).ready(function(){
+      $("#recipe_newsletter_footer_form").validate({
+        unhighlight: function(element) {
+          $(element).siblings('p.error').remove();
+        },
+        errorClass: "error",
+        errorPlacement: function(error, element) {
+          error.insertAfter(element.next());
+        }
+      });
+    });
+  //]]>
+</script>
+</div>
+</div>
+<div class="blog-preview span3">
+<h3>
+<a href="http://blog.blueapron.com">From the Blog</a>
+</h3>
+<div class="head clearfix">
+<a href="http://blog.blueapron.com/whip-it-good/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=whip-it-good"><img alt="Whip-it-good3-75x112" src="//dz6lfdxqpu2f9.cloudfront.net/wp-content/uploads/2014/06/Whip-It-Good3-75x112.jpg">
+</a><h4>
+<a href="http://blog.blueapron.com/whip-it-good/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=whip-it-good">Whip It Good</a>
+</h4>
+</div>
+<p class="txt">
+<a href="http://blog.blueapron.com/whip-it-good/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=whip-it-good">Today Lori, our Home Chef. columnist shows you how to master the VIP garnish of summer desserts: w...</a>
 </p>
-<p class="copyright">
-Copyright Blue Apron, 2012.
-<a href="/pages/privacy">Privacy</a>.
+</div>
+</div>
+</div>
+<ul class="socials-mobile mobile-only">
+<li><a href="http://www.facebook.com/blueapronmeals" class="fb" target="_BLANK">Like us on Facebook</a></li>
+<li><a href="http://twitter.com/blueapronmeals" class="tw" target="_BLANK">Follow us on Twitter</a></li>
+<li><a href="http://instagram.com/blueapronmeals" class="ig" target="_BLANK">Follow us on Instagram</a></li>
+<li><a href="http://pinterest.com/blueapronmeals/" class="pin" target="_BLANK">Check us out on Pinterest</a></li>
+</ul>
+</div>
+<div class="footer-bottom row-fluid">
+<div class="container clearfix">
+<ul class="footer-nav span8 nav nav-pills">
+<li><a href="http://blog.blueapron.com">Blog</a></li>
+<li><a href="http://support.blueapron.com">Contact &amp; Help</a></li>
+<li><a href="/cookbook">Cookbook</a></li>
+<li><a href="/pages/meet-our-recent-partners">Suppliers</a></li>
+<li><a href="/gifts">Gifts</a></li>
+<li><a href="/pages/jobs">Jobs</a></li>
+<li><a href="/pages/team">Team</a></li>
+</ul>
+<div class="span4 pull-right copy">
+© Blue Apron, Inc. 2014
+<a href="/pages/privacy">Privacy</a>
 <a href="/pages/terms">Terms</a>
-</p>
 </div>
-<div class="footer-social">
-<div class="fb-like-bar">
-<div id="fb-root"></div>
-<div class="fb-like" data-font="lucida grande" data-href="http://www.facebook.com/blueapronmeals" data-send="false" data-show-faces="false" data-width="330"></div>
 </div>
-<div class="pinterest-follow-bar">
-<a href="http://pinterest.com/blueapronmeals/" target="_blank"><img alt="Follow us on Pinterest" height="28" src="http://media0.blueapron.com/assets/base/pinterest-button-fe45b332242218ade28b5150083b885e.png" width="80">
-</a></div>
-<div class="twitter-follow-bar">
-<a href="http://twitter.com/BlueApronMeals" class="twitter-follow-button" data-dnt="true" data-show-count="false" data-show-screen-name="true" data-size="large">Follow @blueapronmeals
-</a></div>
 </div>
-<div class="clearfix"></div>
-</div>
-<div class="horizontal-chalk-line"></div>
-<div id="footer-graphic"></div>
-</div>
+</footer>
 
-</div>
-</div>
-</div>
+<script src="//media.blueapron.com/assets/footer-a9745d9e64dbb5ebb72c7c9b755d37f1.js" type="text/javascript"></script>
 <script>
   //<![CDATA[
     function share_click_action(suppress_message, share_source) {
-      track_event({
+      Blueapron.Analytics.trackEvent({
         category: "Share", 
         action: share_source,
         note: 'Unauthenticated User shared via: ' + share_source
@@ -198,7 +320,7 @@ Copyright Blue Apron, 2012.
   //<![CDATA[
     $(document).ready(function(){
       /*
-       * Third party social
+       * Third party Facebook
        */
     
       // Facbook Like
@@ -231,39 +353,11 @@ Copyright Blue Apron, 2012.
          js.src = "//connect.facebook.net/en_US/all.js";
          ref.parentNode.insertBefore(js, ref);
        }(document));
-    
-      // Twitter Share
-      $.getScript('http' + (window.location.protocol == "https:" ? 's' : '') + '://platform.twitter.com/widgets.js', function() {
-        twttr.events.bind('tweet', function(event) {
-          share_click_action(false, 'project-twitter-widget');
-        });
-      });
-      
-      // Pinterest
-      (function() {
-          window.PinIt = window.PinIt || { loaded:false };
-          if (window.PinIt.loaded) return;
-          window.PinIt.loaded = true;
-          function async_load(){
-              var s = document.createElement("script");
-              s.type = "text/javascript";
-              s.async = true;
-              if (window.location.protocol == "https:")
-                  s.src = "https://assets.pinterest.com/js/pinit.js";
-              else
-                  s.src = "http://assets.pinterest.com/js/pinit.js";
-              var x = document.getElementsByTagName("script")[0];
-              x.parentNode.insertBefore(s, x);
-          }
-          if (window.attachEvent)
-              window.attachEvent("onload", async_load);
-          else
-              window.addEventListener("load", async_load, false);
-      })();  
     });
   //]]>
 </script>
 
+<div id="pixel_wrapper">
 <script>
   //<![CDATA[
     var _gaq = _gaq || [];
@@ -273,7 +367,7 @@ Copyright Blue Apron, 2012.
     
     (function() {
       var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
       var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
     })();
     
@@ -291,39 +385,27 @@ Copyright Blue Apron, 2012.
 </div>
 </noscript>
 
+</div>
 <script>
   //<![CDATA[
-    var _marinClientId = "5184t123474";
-    var _marinProto = (("https:" == document.location.protocol) ? "https://" : "http://");
-    document.write(unescape("%3Cscript src='" + _marinProto + "tracker.marinsm.com/tracker/" +
-    _marinClientId + ".js' type='text/javascript'%3E%3C/script%3E"));
-  //]]>
-</script><script src="https://tracker.marinsm.com/tracker/5184t123474.js" type="text/javascript"></script>
-
-<script>
-  //<![CDATA[
-    try {
-    _marinTrack.trackPage();
-    } catch(err) {}
+    $(function() {
+      Blueapron.FlashMessage.check();
+      Blueapron.FlashMessage.check('gtm_events');
+    
+      var nanigansConversion = $.cookie('nanigans_newsletter_conversion');
+      if (typeof nanigansConversion != 'undefined' && nanigansConversion != null) {
+        $.removeCookie('nanigans_newsletter_conversion');
+        dataLayer.push({
+          event: 'nanigansNewsletterConversion',
+          userEmail: nanigansConversion
+        });
+      }
+    });
   //]]>
 </script>
-<noscript>
-<img src='http://tracker.marinsm.com/tp?act=1&cid=5184t123474&script=no'>
-</noscript>
+
+</div>
 
 
-<script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {
-NREUMQ.push(["load",new Date().getTime()]);
-var e=document.createElement("script");
-e.type="text/javascript";
-e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" +
-  "js-agent.newrelic.com/nr-100.js";
-document.body.appendChild(e);
-if(NREUMQ.a)NREUMQ.a();
-};
-NREUMQ.a=window.onload;window.onload=NREUMQ.f;
-};
-NREUMQ.push(["nrfj","beacon-1.newrelic.com","cbe2483cc7","637321","IApXR0pZWVkER0pGBAQAShxLXlpC",6,109,new Date().getTime(),"","","","",""]);</script>
 
-
-<script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
