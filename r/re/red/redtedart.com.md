@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the redtedart.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219110329id_/http%3A//www.redtedart.com/cookies-privacy-policies-disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redtedart.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620061225id_/http%3A//www.redtedart.com/cookies-privacy-policies-disclosure) for the most accurate reproduction.*
 
-# Cookies, Privacy Policies & Disclosure - Red Ted Art's Blog
+# Cookies, Privacy Policies & Disclosure - Red Ted Art's Blog : Red Ted Art's Blog
 
-[](https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.redtedart.com%2Fcookies-privacy-policies-disclosure%2F&media=&description=Cookies%2C%20Privacy%20Policies%20%26%23038%3B%20Disclosure)
+[](https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.redtedart.com%2Fcookies-privacy-policies-disclosure%2F&media=&description=Cookies,%20Privacy%20Policies%20&%20Disclosure)
 
 ## **Privacy Policy**
 
@@ -51,4 +51,4 @@ These third-party ad servers or ad networks use technology to the advertisements
 
 Note: on occasion Red Ted Art will share an affiliate link with you – usually to Amazon books or craft supplies, that have been used on Red Ted Art. On those occasions should you purchase the item through the affiliate link, I will receive a small percentage of the sale, which helps cover running costs of this site.
 
-[](https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.redtedart.com%2Fcookies-privacy-policies-disclosure%2F&media=&description=Cookies%2C%20Privacy%20Policies%20%26%23038%3B%20Disclosure)
+[](https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.redtedart.com%2Fcookies-privacy-policies-disclosure%2F&media=&description=Cookies,%20Privacy%20Policies%20&%20Disclosure)
