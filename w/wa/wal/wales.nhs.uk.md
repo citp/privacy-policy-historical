@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wales.nhs.uk privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221014936id_/http%3A//www.wales.nhs.uk/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wales.nhs.uk privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620113731id_/http%3A//www.wales.nhs.uk/privacystatement) for the most accurate reproduction.*
 
 # Health in Wales | Privacy Statement
 
