@@ -1,7 +1,122 @@
-<!--The following is the downloaded HTML source of the mcdonalds.co.uk privacy policy that was archived on 2013-11-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131110163721id_/http%3A//www.mcdonalds.co.uk/ukhome/policies/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mcdonalds.co.uk privacy policy that was archived on 2014-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140620203555id_/http%3A//www.mcdonalds.co.uk/ukhome/policies/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head id="headId"><style></style> 
+              
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+  
+    function desktopRedirect(){
+        var redirectPath = "";  
+        var siteLevelRedirect = "";         
+        var useragent = navigator.userAgent;
+        var domain = "m.mcdonalds.co.uk";
+  
+        if ( useragent.indexOf('BlackBerry') != -1 || useragent.indexOf('iPhone OS 3') != -1 || useragent.indexOf('iPhone OS 4') != -1 || useragent.indexOf('iPhone OS 5') != -1 || useragent.indexOf('iPhone OS 6') != -1 || useragent.indexOf('iPhone OS 7') != -1 || useragent.indexOf('Android 2') != -1 || useragent.indexOf('Android 4') != -1 || useragent.indexOf('Opera') != -1 || useragent.indexOf('Windows Phone') != -1 ) {              var alertURL = "";            
+          var getAlertPage = "";
+          var fullSite = "no";
+          if(getCookie("fullsite") != null){
+            fullSite = getCookie("fullsite");
+          }
+   
+      if(fullSite == "yes"){
+                //cookie set for full site
+                var pagePath = '/ukhome/policies/privacy-policy';
+                alertURL = "http://"+domain+pagePath+".html";
+      }else{
+            if(redirectPath != ""){
+                    //redirecting to path specified in page properties
+                var pagePath = '/ukhome/policies/privacy-policy';  
+                var url= "http://"+domain+pagePath+".html";
+                    var redPath = "";
+                    
+                    if((redirectPath.indexOf("/content/")>-1)){
+                        redPath = "http://"+domain+redirectPath+".html";
+                    }else{
+                        redPath = redirectPath;
+                    }  
+               alertURL = redPath;
+            }else if(siteLevelRedirect != ""){
+                 //redirecting to path specified in site config for site level redirection
+                 var rPath = "";
+                 if((siteLevelRedirect.indexOf("/content/")>-1)){
+                        rPath = "http://"+domain+siteLevelRedirect+".html";
+                 }else{
+                        rPath = siteLevelRedirect;
+                 } 
+                 alertURL = rPath ; 
+                 
+            }else{                
+                //check if intermediate page is required or not               
+                if(getAlertPage == "true"){
+                    var pagePath = '/ukhome/policies/privacy-policy';
+                    var url= "http://"+domain+pagePath+".html";
+                                          
+                        if(("".indexOf("/content/")>-1)){
+                             alertURL = "http://"+domain+".html?desktopurl="+url;
+                        }else{
+                             alertURL = "?desktopurl="+url;
+                        }
+                    }else{
+                        //do nothing
+                    }
+                }      
+            }          
+            
+            var mobileAlert = "no"
+            if(getCookie("mobilealert") != null){
+                mobileAlert = getCookie("mobilealert");
+            }
+            var desktopVal = "no";
+            var fullSiteRedirect = ""; 
+            if(getCookie("fullsiteredirect") != null){
+                fullSiteRedirect = getCookie("fullsiteredirect");
+            } 
+            
+            if(fullSiteRedirect == "yes" && mobileAlert == "no" && desktopVal == "no"){
+                setCookie("fullsiteredirect","no");
+                window.location.href = alertURL;
+            }
+            
+            if(mobileAlert == "no" && desktopVal == "no"){
+                if(fullSiteRedirect == "yes" || fullSiteRedirect == "no"){
+                    //do nothing
+                }
+                else{
+                    if(alertURL != ""){
+                        window.location.href = alertURL;
+                    }
+                }    
+            } 
+                                      
+        }
+        else{
+            // For desktop do nothing 
+        }
+    }         
+    function getCookie(name){ 
+        var re = new RegExp(name + "=([^;]+)"); 
+        var value = re.exec(document.cookie); 
+        return (value != null) ? unescape(value[1]) : null; 
+    }  
+    function setCookie(cookieName,cookieValue) {
+        var today = new Date();
+        var expire = new Date();
+        expire.setTime(today.getTime() + 15 * 60 * 1000);
+        document.cookie = cookieName+"="+escape(cookieValue)+ ";expires="+expire.toGMTString();
+    }
+    
+   var overwriteRedirection = "false"; 
+   var allowIntRed= "";
+   if("" == "yes"){  
+   if((allowIntRed == "true")&&(overwriteRedirection == "false")){
+       desktopRedirect();  
+       } 
+   } 
+   
+</script> 
+
+
+
   
 
 
@@ -9,7 +124,7 @@
 
     <meta name="google-site-verification" content="EONdENhgNw8aHPqtoUbEUTTH0uEpxroB-4yzyb13hbQ">   
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+<script type="text/javascript">
  
       var _gaq = _gaq || [];
       _gaq.push(['_setAccount', 'UA-25024961-1']);
@@ -40,6 +155,17 @@
     }
 </script>  
 
+
+        <meta property="og:title" content="Privacy Policy">
+        <meta property="og:description" content="From Big Macs to Snack Wraps - there’s something for everyone at McDonald’s. See what else we have to offer by visiting us online, or at your local restaurant. ">
+        <meta property="og:site_name" content="McDonald's UK">
+        <meta property="og:image" content="http://www.mcdonalds.co.uk/content/dam/McDonaldsUK/Promotions/Facebook-Share-Image.jpg">
+        <meta http-equiv="Expires" content="0">
+        <meta http-equiv="Pragma" content="no-cache">
+        <meta http-equiv="Cache-Control" content="no-cache">
+       
+        
+        
       
 
 
@@ -112,7 +238,7 @@ document.write(ogImageTag);
 <script type="text/javascript" src="/themes/UK/scripts/textArea.js"></script>
 <script type="text/javascript" src="/themes/UK/scripts/formValidation.js"></script>
 <script type="text/javascript" src="/themes/UK/scripts/page-grayed-out.js"></script>
-<script type="text/javascript" src="/themes/UK/scripts/textresize.js"></script></head><body class="page genericpage " style="background:#a91d1b; background-image: url('/content/ukhome/policies/privacy-policy/jcr:content/bgimage.img.png/1322415376665.png'); background-repeat: repeat-x; background-position:center top;"><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" style="padding-bottom: 0px; padding-right: 0px; display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" class="" style="width: 0px; height: 0px;"></div><div id="cboxLoadingOverlay" class=""></div><div id="cboxLoadingGraphic" class=""></div><div id="cboxTitle" class=""></div><div id="cboxCurrent" class=""></div><div id="cboxSlideshow" class=""></div><div id="cboxNext" class=""></div><div id="cboxPrevious" class=""></div><div id="cboxClose" class=""></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position:absolute; top:0; left:0; width:9999px; height:0;"></div></div><div id="viewTextSize" style="font-size: medium; visibility: hidden; position: absolute; left: -50px; top: -50px;">M</div>
+<script type="text/javascript" src="/themes/UK/scripts/textresize.js"></script></head><body class="page genericpage " style="background:#a91d1b; background-image: url('/content/ukhome/policies/privacy-policy/jcr:content/bgimage.img.png/1393412977799.png'); background-repeat: repeat-x; background-position:center top;"><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" style="padding-bottom: 0px; padding-right: 0px; display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" class="" style="width: 0px; height: 0px;"></div><div id="cboxLoadingOverlay" class=""></div><div id="cboxLoadingGraphic" class=""></div><div id="cboxTitle" class=""></div><div id="cboxCurrent" class=""></div><div id="cboxSlideshow" class=""></div><div id="cboxNext" class=""></div><div id="cboxPrevious" class=""></div><div id="cboxClose" class=""></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position:absolute; top:0; left:0; width:9999px; height:0;"></div></div><div id="viewTextSize" style="font-size: medium; visibility: hidden; position: absolute; left: -50px; top: -50px;">M</div>
 <script type="text/javascript" src="/themes/UK/scripts/news.js"></script>  
 <script type="text/javascript" src="/themes/UK/scripts/jquery_newsarticles.js"></script>  
 <script type="text/javascript" src="/themes/UK/scripts/DD_roundies_0.0.2a-min.js"></script>   
@@ -274,7 +400,6 @@ var webtrends = 'www1.mcdonalds.com/metrics/leftnav/mcdonaldsuk.js';
  
 
 
-
  
 
 
@@ -368,9 +493,10 @@ $(document).ready(function(){
 
 
     <a href="/ukhome.html">
-<img src="/etc/designs/mcdonalds/uk/_jcr_content/genericpage/genericpagecontent/sitelevelconfiguration/logoimage" width="113" height="98" alt="">
-  
- </a>   
+
+                <img src="/etc/designs/mcdonalds/uk/_jcr_content/genericpage/genericpagecontent/sitelevelconfiguration/logoimage.img.png" width="113" height="98" alt="">
+
+        </a>   
   
 
 
@@ -407,8 +533,41 @@ $(document).ready(function(){
             
             </li>
             
+                    <li id="no_li">
+                        <a href="/ukhome/lol.html" id="no_link" class="nav_item" style=""></a>
+                    
+                    <div class="active_nav_widget" id="no_layer">
+                      <div id="no_inner_layer">
+            
+                    </div>
+                </div>
+            
+            </li>
+            
+                    <li id="no_li">
+                        <a href="/ukhome/ss.html" id="no_link" class="nav_item" style=""></a>
+                    
+                    <div class="active_nav_widget" id="no_layer">
+                      <div id="no_inner_layer">
+            
+                    </div>
+                </div>
+            
+            </li>
+            
+                    <li id="no_li">
+                        <a href="/ukhome/testpub.html" id="no_link" class="nav_item" style=""></a>
+                    
+                    <div class="active_nav_widget" id="no_layer">
+                      <div id="no_inner_layer">
+            
+                    </div>
+                </div>
+            
+            </li>
+            
                     <li id="foodnav_li">
-                        <a href="/ukhome/Food.html" id="foodnav_link" class="nav_item" style="background-image: url('/content/ukhome/Food/jcr:content/navimage.img.png/1371562089613.png');"></a>
+                        <a href="/ukhome/Food.html" id="foodnav_link" class="nav_item" style="background-image: url('/content/ukhome/Food/jcr:content/navimage.img.png/1393437739700.png');"></a>
                     
                     <div class="active_nav_widget" id="foodnav_layer">
                       <div id="foodnav_inner_layer">
@@ -554,16 +713,16 @@ $(document).ready(function(){
             </li>
             
                     <li id="promonav_li">
-                        <a href="/ukhome/promotions.html" id="promonav_link" class="nav_item" style="background-image: url('/content/ukhome/promotions/jcr:content/navimage.img.png/1383239849642.png');"></a>
+                        <a href="/ukhome/promotions.html" id="promonav_link" class="nav_item" style="background-image: url('/content/ukhome/promotions/jcr:content/navimage.img.png/1402914024276.png');"></a>
                     
                     <div class="active_nav_widget" id="promonav_layer">
                       <div id="promonav_inner_layer">
             
                             <div class="float_left">
                         
-                                        <a href="/ukhome/promotions/favourites.html"><img title="We're celebrating the UK's McDonald's Moments with our favourite 100." alt="We're celebrating the UK's McDonald's Moments with our favourite 100." class="cq-dd-image" src="/content/ukhome/promotions/favourites/_jcr_content/promolevel3image.img.jpg/1383560666001.jpg"></a>
+                                        <a href="/ukhome/promotions/mccafe.html"><img title="New Limited Edition McCafe Iced Drinks" alt="New Limited Edition McCafe Iced Drinks" class="cq-dd-image" src="/content/ukhome/promotions/mccafe/_jcr_content/promolevel3image.img.jpg/1402913105954.jpg"></a>
                                     
-                                        <a href="/ukhome/promotions/spicymcbites.html"><img title="Spicy Chicken McBites" alt="Spicy Chicken McBites" class="cq-dd-image" src="/content/ukhome/promotions/spicymcbites/_jcr_content/promolevel3image.img.jpg/1381918888387.jpg"></a>
+                                        <a href="/ukhome/more-food/little-tasters.html"><img title="The Peri Peri Snack Wrap is here!" alt="The Peri Peri Snack Wrap is here!" class="cq-dd-image" src="/content/ukhome/more-food/little-tasters/_jcr_content/promolevel3image.img.jpg/1398952267680.jpg"></a>
                                     
                                 <div class="promotions_link">
                                     <a href="/ukhome/promotions.html" class="sub_nav_link off_top">See what's on</a>
@@ -573,9 +732,9 @@ $(document).ready(function(){
                         
                             <div class="float_left">
                         
-                                        <a href="/ukhome/promotions.html"><img title="McD__Breakfast_Nov_2013__Promo_Fly_Out" alt="McD__Breakfast_Nov_2013__Promo_Fly_Out" class="cq-dd-image" src="/content/ukhome/promotions/_jcr_content/promolevel3image.img.jpg/1383239849642.jpg"></a>
+                                        <a href="/ukhome/promotions/bigmac.html"><img title="The Big Mac Mind Tests" alt="The Big Mac Mind Tests" class="cq-dd-image" src="/content/ukhome/promotions/bigmac/_jcr_content/promolevel3image.img.jpg/1395767007255.jpg"></a>
                                     
-                                        <a href="/ukhome/more-food/mccafe.html"><img title="Welcome to McCafé" alt="Welcome to McCafé" class="cq-dd-image" src="/content/ukhome/more-food/mccafe/_jcr_content/promolevel3image.img.jpg/1383754404452.jpg"></a>
+                                        <a href="/ukhome/promotions/mcflurry.html"><img title="Win amazing Summer prizes" alt="Win amazing Summer prizes" class="cq-dd-image" src="/content/ukhome/promotions/mcflurry/_jcr_content/promolevel3image.img.jpg/1402912824473.jpg"></a>
                                     
                             </div>
                         
@@ -585,7 +744,7 @@ $(document).ready(function(){
             </li>
             
                     <li id="simplenav_li">
-                        <a href="/ukhome/Restaurants.html" id="simplenav_link" class="nav_item" style="background-image: url('/content/ukhome/Restaurants/jcr:content/navimage.img.png/1339768167011.png');"></a>
+                        <a href="/ukhome/Restaurants.html" id="simplenav_link" class="nav_item" style="background-image: url('/content/ukhome/Restaurants/jcr:content/navimage.img.png/1393431176586.png');"></a>
                     
                     <div class="active_nav_widget" id="simplenav_layer">
                       <div id="simplenav_inner_layer">
@@ -600,7 +759,7 @@ $(document).ready(function(){
                     
                                 <tr><td><a href="/ukhome/Restaurants/McDonaldsonyourmobile.html">McDonald's on your mobile </a></td></tr>
                     
-                                <tr><td><a href="/ukhome/Restaurants/Birthday-parties.html">Birthday parties</a></td></tr>
+                                <tr><td><a href="/ukhome/Restaurants/family-events.html">Family Events</a></td></tr>
                     
                                 <tr><td><a href="/ukhome/Restaurants/Free-WiFi.html">Free WiFi</a></td></tr>
                     
@@ -617,7 +776,7 @@ $(document).ready(function(){
             </li>
             
                     <li id="simplenav_li">
-                        <a href="/ukhome/People.html" id="simplenav_link" class="nav_item" style="background-image: url('/content/ukhome/People/jcr:content/navimage.img.png/1359457567538.png');"></a>
+                        <a href="/ukhome/People.html" id="simplenav_link" class="nav_item" style="background-image: url('/content/ukhome/People/jcr:content/navimage.img.png/1393438004899.png');"></a>
                     
                     <div class="active_nav_widget" id="simplenav_layer">
                       <div id="simplenav_inner_layer">
@@ -643,7 +802,7 @@ $(document).ready(function(){
             </li>
             
                     <li id="simplenav_li">
-                        <a href="/ukhome/Ourworld.html" id="simplenav_link" class="nav_item" style="background-image: url('/content/ukhome/Ourworld/jcr:content/navimage.img.png/1371562217988.png');"></a>
+                        <a href="/ukhome/Ourworld.html" id="simplenav_link" class="nav_item" style="background-image: url('/content/ukhome/Ourworld/jcr:content/navimage.img.png/1393411362903.png');"></a>
                     
                     <div class="active_nav_widget" id="simplenav_layer">
                       <div id="simplenav_inner_layer">
@@ -665,12 +824,12 @@ $(document).ready(function(){
             </li>
             
                     <li id="noflyout_li">
-                        <a href="/ukhome/Sport.html" id="noflyout_link" class="nav_item" style="background-image: url('/content/ukhome/Sport/jcr:content/navimage.img.png/1366111712287.png');"></a>
+                        <a href="/ukhome/Sport.html" id="noflyout_link" class="nav_item" style="background-image: url('/content/ukhome/Sport/jcr:content/navimage.img.png/1393431578612.png');"></a>
                     
             </li>
             
                     <li id="simplenav_li">
-                        <a href="/ukhome/Aboutus.html" id="simplenav_link" class="nav_item" style="background-image: url('/content/ukhome/Aboutus/jcr:content/navimage.img.png/1361461908450.png');"></a>
+                        <a href="/ukhome/Aboutus.html" id="simplenav_link" class="nav_item" style="background-image: url('/content/ukhome/Aboutus/jcr:content/navimage.img.png/1393432732928.png');"></a>
                     
                     <div class="active_nav_widget" id="simplenav_layer">
                       <div id="simplenav_inner_layer">
@@ -693,9 +852,42 @@ $(document).ready(function(){
             
             </li>
             
-                <li id="noflyout_last_li">
-                    <a href="/ukhome/Contact-us.html" id="noflyout_last_link" class="nav_item" style="background-image: url('/content/ukhome/Contact-us/jcr:content/navimage.img.png/1371562260147.png');"></a>
+                    <li id="noflyout_li">
+                        <a href="/ukhome/Contact-us.html" id="noflyout_link" class="nav_item" style="background-image: url('/content/ukhome/Contact-us/jcr:content/navimage.img.png/1393435805329.png');"></a>
+                    
+            </li>
+            
+                    <li id="no_li">
+                        <a href="/ukhome/test_page.html" id="no_link" class="nav_item" style=""></a>
+                    
+                    <div class="active_nav_widget" id="no_layer">
+                      <div id="no_inner_layer">
+            
+                    </div>
+                </div>
+            
+            </li>
+            
+                    <li id="no_li">
+                        <a href="/ukhome/testmeuk.html" id="no_link" class="nav_item" style=""></a>
+                    
+                    <div class="active_nav_widget" id="no_layer">
+                      <div id="no_inner_layer">
+            
+                    </div>
+                </div>
+            
+            </li>
+            
+                <li id="no_last_li">
+                    <a href="/ukhome/testukre.html" id="no_last_link" class="nav_item" style=""></a>
                 
+                    <div class="active_nav_widget" id="no_layer">
+                      <div id="no_inner_layer">
+            
+                    </div>
+                </div>
+            
             </li>
                
         </ul>
@@ -1169,7 +1361,7 @@ UK</p>
 <table class="footertext">
     <tbody><tr>
     <td>
-        <p style="text-align:center;color: #FFFFFF;"><span class="footer_text">Site Terms and Conditions for use and our Privacy Policy apply. ©2013 McDonald's. All References marked with a ™ or ® are trademarks of McDonald's Corporation and its affiliates except where third party trade mark ownership indicated. All rights reserved.</span></p>
+        <p style="text-align:center;color: #FFFFFF;"><span class="footer_text">Site Terms and Conditions for use and our Privacy Policy apply. ©2014 McDonald's. All References marked with a ™ or ® are trademarks of McDonald's Corporation and its affiliates except where third party trade mark ownership indicated. All rights reserved.</span></p>
      </td>
      </tr>    
 </tbody></table>  
