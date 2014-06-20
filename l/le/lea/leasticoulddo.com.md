@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leasticoulddo.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210012441id_/http%3A//www.leasticoulddo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leasticoulddo.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620083949id_/http%3A//www.leasticoulddo.com/privacy-policy) for the most accurate reproduction.*
 
 # Least I Could Do: the Comic
 
