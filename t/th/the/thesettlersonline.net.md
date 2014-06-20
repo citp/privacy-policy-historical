@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesettlersonline.net privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219105207id_/http%3A//www.thesettlersonline.net/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesettlersonline.net privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620075256id_/http%3A//www.thesettlersonline.net/en/privacy-policy) for the most accurate reproduction.*
 
 # Ubisoft - Privacy Policy
 
@@ -198,10 +198,10 @@ Ubisoft is a licensee of the ESRB's Privacy Online Program. If you believe that 
 
 ESRB
 
-Attn.: Privacy Online Program  
+Attn.: Privacy Certified Program  
 317 Madison Avenue, 22nd Floor  
 New York, NY 10017  
-[privacy@esrb.org](https://web.archive.org/web/20131218010424id_/http://ubi.com/US/Info/privacy@esrb.org)
+[privacy@esrb.org](https://web.archive.org/web/20140620212200id_/http://ubi.com/US/Info/privacy@esrb.org)
 
 Last updated July 10, 2013
 
