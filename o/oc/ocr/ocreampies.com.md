@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ocreampies.com privacy policy that was archived on 2012-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120425130937id_/http%3A//www.supportidols.com/support_faq/ocreampies-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ocreampies.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620032305id_/http%3A//www.supportidols.com/support_faq/ocreampies-privacy.html) for the most accurate reproduction.*
 
 # Ocreampies.com - Privacy Statement
 
