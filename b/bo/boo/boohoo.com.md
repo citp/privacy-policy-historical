@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boohoo.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629164943id_/http%3A//www.boohoo.com/restofworld/privacy-policy/privacy-policy/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boohoo.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620104632id_/http%3A//www.boohoo.com/restofworld/privacy-policy/privacy-policy/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy at boohoo.com
 
@@ -6,9 +6,9 @@ We are committed to protecting and respecting the privacy of all visitors and us
 
 Please read the following carefully to understand our policy and practices regarding your personal information collected through the Website, and how we will treat it. We will only use your personal information collected through this Website in accordance with this privacy policy and applicable current data protection laws.
 
-This policy (together with our [terms of use](http://www.boohoo.com/restofworld/terms+conditions/pcat/terms/) and [Cookie Policy](http://www.boohoo.com/restofworld/about-cookies/pcat/aboutcookies/)) sets out the basis on which any personal information we collect from you via this Website, or that you provide to us via this Website, will be treated by us. Please read the following carefully to understand our policy and practices regarding your personal information collected through this Website. This policy is not intended to and does not create any contractual or other legal right in or on behalf of any party.
+This policy (together with our [terms of use](http://www.boohoo.com/restofworld/terms+conditions/pcat/terms) and [Cookie Policy](http://www.boohoo.com/restofworld/about-cookies/pcat/aboutcookies)) sets out the basis on which any personal information we collect from you via this Website, or that you provide to us via this Website, will be treated by us. Please read the following carefully to understand our policy and practices regarding your personal information collected through this Website. This policy is not intended to and does not create any contractual or other legal right in or on behalf of any party.
 
-If you have additional questions or would like further information on this topic, please feel free to write to us at [steve.kuncewicz@boohoo.com.](mailto:steve.kuncewicz@boohoo.com)
+For the purpose of the Data Protection Act 1998 (the Act), the data controller is Boohoo.com UK Limited of 49-51 Dale Street, Manchester M1 2EH. Our nominated representative for the purpose of the Act is Neil Catto, who can be contacted at [legal@boohoo.com.](mailto:legal@boohoo.com)
 
 You should print a copy of this privacy policy for future reference.
 
@@ -34,11 +34,25 @@ We are strongly committed to preserving online privacy for all of our Website vi
 
 An Internet Protocol (IP) address is a set of numbers, which is assigned to your computer during a browsing session. It is automatically logged by our servers and used to collect traffic data about visitors to our Website. We do not use your IP address to identify you personally.
 
-Our Website uses cookies to distinguish you from other users of our Website and to keep track of your visits. This helps us to provide you with the very best experience when you browse our Website and to make improvements. For detailed information on the Cookies which we use and the reasons why we use them, see our [Cookie Policy.](http://www.boohoo.com/restofworld/about-cookies/pcat/aboutcookies/)
+Our Website uses cookies to distinguish you from other users of our Website and to keep track of your visits. This helps us to provide you with the very best experience when you browse our Website and to make improvements. For detailed information on the Cookies which we use and the reasons why we use them, see our [Cookie Policy.](http://www.boohoo.com/restofworld/about-cookies/pcat/aboutcookies)
 
 ## SITE STATISTICS
 
-We monitor customer traffic on an aggregate basis using cookies and code, which is embedded, in the Website. This provides statistical information about visits to pages on the Website, the duration of individual page view, paths taken by visitors through the Website, data on visitors screen settings and other general information. We use this information to help improve the Website and services to its users.
+## USE OF ANALYTICS TOOLS
+
+In order to better serve our Website visitors and customers we may use Google Analytics features such as Remarketing, Google Display Network Impression Reporting, the DoubleClick Campaign Manager integration and/or Google Analytics Demographics and Interest Reporting **(Google Display Advertising Features).**
+
+You can opt-out of the Google Display Advertising Features and customise Google Display Network ads using the [Ad Settings.](https://www.google.com/settings/ads)
+
+As an added privacy measure, you can use the [Google Analytics opt-out browser add on.](https://tools.google.com/dlpage/gaoptout/)
+
+We will not facilitate the merging of personally-identifiable information we hold or collect with non-personally identifiable information collected from the Google Display Advertising Features unless we have received your active prior consent to such merger.
+
+We may use Remarketing with Google Analytics to advertise online. Third party vendors, including Google, may show our ads on sites across the internet. We and third party vendors, including Google, may use cookies set by the Google Display Advertising Features to inform, optimise and determine which ads you see on our Website, including ads based on your previous visits to our Website.
+
+Regarding Google Display Network Impression Reporting and the DoubleClick Campaign Manager integration, we and third party vendors, including Google, may use cookies set by the Google Display Advertising Features to analyse and report on ads used on our Website including but not limited to the impressions created by the ads and how these interact with other ad features and other features and services.
+
+Regarding Google Analytics Demographics and Interest Reporting, we may use data from Google's Interest-based advertising and/or third party audience data (such as age, gender and interests) with Google Analytics to target and improve our marketing campaigns, marketing strategies and our Website content.
 
 ## WHERE WE STORE YOUR PERSONAL INFORMATION
 
@@ -78,7 +92,7 @@ We may disclose your personal information:
   * As you expressly authorize us to do so;
   * As necessary to provide products and services to you;
   * As necessary to allow our contractors or agents to provide services for us in connection with our transactions with you;
-  * If our parent company, Wasabi Frog Limited, or substantially all of its assets are acquired by a third party in which case personal information held by it about its customers will be one of the transferred assets and, in which case, we may disclose your personal information to the prospective seller or buyer of such business or assets;
+  * If our parent company, Boohoo.com UK Limited, or substantially all of its assets are acquired by a third party in which case personal information held by it about its customers will be one of the transferred assets and, in which case, we may disclose your personal information to the prospective seller or buyer of such business or assets;
   * to protect our customers and Website from fraud and theft, we may pass on personal information that we obtain from making identity checks, together with account information to organizations including law enforcement agencies, involved in fraud prevention and detection and credit risk reduction;
   * if we are under a duty to disclose or share your personal information in order to comply with any legal obligation; or,
   * in order to enforce or apply our terms of use or terms and conditions of supply of products and other agreements; or to protect the rights, property, or safety of our parent company, our customers, or others.
@@ -97,7 +111,7 @@ Our Website may, from time to time, contain links to and from the websites of ou
 
 ### Access to information
 
-You are entitled to see the information held about you and you may ask us to make any necessary changes to ensure that it is accurate and kept up to date. If you wish to do this, please write to us at [steve.kuncewicz@boohoo.com.](mailto:steve.kuncewicz@boohoo.com) We may charge you an administrative fee to meet our costs in providing you with details of the information we hold about you. 
+You are entitled to see the information held about you and you may ask us to make any necessary changes to ensure that it is accurate and kept up to date. If you wish to do this, please write to us at [legal@boohoo.com.](mailto:legal@boohoo.com) We may charge you an administrative fee to meet our costs in providing you with details of the information we hold about you. 
 
 ### Changes to our privacy policy
 
@@ -105,6 +119,6 @@ We reserve the right to change this policy at any time. If we change our privacy
 
 ### Contact
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [steve.kuncewicz@boohoo.com.](mailto:steve.kuncewicz@boohoo.com)
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [legal@boohoo.com.](mailto:legal@boohoo.com)
 
-For the purpose of the Data Protection Act 1998 (the Act), the data controller is Wasabi Frog Limited of 49/51 Dale Street, Manchester M1 2HF and our nominated representative is Steve Kuncewicz.
+For the purpose of the Data Protection Act 1998 (the Act), the data controller is Boohoo.com UK Limited of 49-51 Dale Street, Manchester M1 2EH. Our nominated representative for the purpose of the Act is Neil Catto, who can be contacted at [legal@boohoo.com.](mailto:legal@boohoo.com)
