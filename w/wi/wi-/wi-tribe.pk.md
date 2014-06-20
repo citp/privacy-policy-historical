@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wi-tribe.pk privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202083035id_/http%3A//www.wi-tribe.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wi-tribe.pk privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620230509id_/http%3A//www.wi-tribe.pk/privacy-policy) for the most accurate reproduction.*
 
-# privacy policy | wi-tribe
+# Privacy Policy | wi-tribe
 
 Your privacy is important to us.  To better protect your privacy, wi-tribe Pakistan Limited provides this notice explaining our online information practices and the choices you can make about the way your information is collected and used.  To make this notice easy to find, we make it available on our homepage and at every point where we request personally-identifiable information.  
 **  
