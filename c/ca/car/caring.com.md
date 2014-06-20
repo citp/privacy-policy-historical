@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the caring.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231063756id_/http%3A//www.caring.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caring.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620054559id_/http%3A//www.caring.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Caring.com
 
-## Last Updated: November 14, 2013
+## Last Updated: May 7, 2014
 
-Caring, Inc. has created this Privacy Policy to let you know what we do with the personal information you submit to us via forms and the non-personal web usage information we collect when you visit our websites. This Privacy Policy applies to Caring.com and all of its trade names, including but not limited to GilbertGuide.com and Caring.com, henceforth referred to collectively as "Caring.com."
+Caring.com, a part of Bankrate, Inc. has created this Privacy Policy to let you know what we do with the personal information you submit to us via forms and the non-personal web usage information we collect when you visit our websites. This Privacy Policy applies to Caring.com and all of its trade names, including but not limited to GilbertGuide.com and Caring.com, henceforth referred to collectively as "Caring.com."
 
 Your privacy is important to us. Caring.com has prepared these privacy and security policies ("Statement") so you may better understand how Caring.com ("our website") may use your personal information in connection with our website and services, as well as how it protects your information against unauthorized use. Please take the time to review this Statement and contact us using the Contact Information below with any questions or concerns.
 
