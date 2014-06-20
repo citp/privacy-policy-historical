@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the individualhealthquotes.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224151206id_/http%3A//www.individualhealthquotes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the individualhealthquotes.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620202027id_/http%3A//www.individualhealthquotes.com/privacy.html) for the most accurate reproduction.*
 
 # Individual Health Quotes Privacy Policy - Any Quote. Anytime.
 
@@ -8,7 +8,7 @@ IndividualHealthQuotes believes it is important for you to know and understand h
 
 Please note that this privacy policy only applies to this website. Other websites in the IndividualHealthQuotes network may have different privacy policies.
 
-By accessing this website and/or using our Service, you agree to abide by this Privacy Policy and our [Terms of Use](https://web.archive.org/web/20131224151206id_/http%3A//www.individualhealthquotes.com/terms.html).
+By accessing this website and/or using our Service, you agree to abide by this Privacy Policy and our [Terms of Use](https://web.archive.org/web/20140620202027id_/http%3A//www.individualhealthquotes.com/terms.html).
 
 ### Services Offered By IndividualHealthQuotes
 
@@ -144,9 +144,8 @@ IndividualHealthQuotes does not knowingly solicit or collect information from an
 If you have any questions about IndividualHealthQuotes, this website, our service, or this Privacy Policy, you may contact us at:
 
 IndividualHealthQuotes  
-40 E. Chicago Avenue  
-Suite 176  
-Chicago, IL 60611
+220 W. Huron  
+Chicago, IL 60654
 
 1-888-250-2309
 
