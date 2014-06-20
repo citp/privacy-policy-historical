@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chelseafc.com privacy policy that was archived on 2013-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131025135101id_/http%3A//www.chelseafc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chelseafc.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620034244id_/http%3A//www.chelseafc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Official Site | Chelsea Football Club
 
@@ -41,7 +41,7 @@ Please read this Privacy Policy and the Terms and Conditions carefully. By using
 
 We welcome any questions, comments or feedback about our Privacy Policy. If You have any questions about how We collect, store or use Your Personal Information, You may contact Us via:
 
-Email: [dataprotectionofficer@chelseafc.com](mailto:dataprotectionofficer@chelseafc.com) or  
+Email: [dataprotection@chelseafc.com](mailto:dataprotection@chelseafc.com) or  
 Post: Data Protection Office, Chelsea FC plc, Stamford Bridge, Fulham Road, London, SW6 1HJ
 
 **4\. Legalities**
@@ -182,6 +182,14 @@ In order to protect children, those who are under the age of 18 must always ask 
 
 A parent/guardian may submit a request via email/in writing to the address set out in paragraph 3 above to stop any additional use of a child's Personal Information or to request that We delete the Personal Information as far as we are able. Before disclosing information about a child, We may request that the parent/guardian provide reasonable information about the child for identification purposes (e.g. child's name, address, telephone number etc).
 
-**20\. Update**
+**20\. Social Media**
 
-This Privacy Policy was last updated in June 2013.
+Social networking sites, such as Facebook and [Twitter](https://twitter.com/chelseafc), among others, work with us as trusted third party partners. We also work with application developers who specialise in social media, so that we can connect with your social networks. Promotions may include competitions which require you to give your email address or mobile phone number so that we can contact you again if we have special messages or competitions that you might want to take part in - please note that you may always unsubscribe from any messages that we send you.
+
+We provide access to our Websites for third parties and business partners so that we can generate interest in our products and services among members of your social networks and to allow you to share product and service interests with friends in your network. 
+
+We do not control how your personal information is collected, stored or used by such third party sites or to whom it is disclosed.  You should review the privacy policies and settings on any social networking site that you subscribe to so that you understand the information they may be sharing.  If you do not want your networking sites to share information about you, you must contact that site and determine whether it gives you the opportunity to opt-out of sharing such information.  Chelsea FC is not responsible for how these third party sites may use information they collect from or about you.
+
+**21\. Update**
+
+This Privacy Policy was last updated in March 2014.
