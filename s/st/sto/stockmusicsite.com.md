@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stockmusicsite.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219105845id_/http%3A//www.stockmusicsite.com/stockmusic/legal/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockmusicsite.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620032133id_/http%3A//www.stockmusicsite.com/stockmusic/legal/privacy_policy.cfm) for the most accurate reproduction.*
 
 # StockMusicSite.com Privacy Policy
 
@@ -88,23 +88,23 @@ We know that you care how your information is used, and we appreciate your trust
   
 
 
-soundeffect,  
-archive sounds,  
-noises,  
-sound effects for garageband,  
-tv static sound effect free,  
-free stab sounds effects,  
-free sond effecs for pc,  
-filling vial sound effect,  
-free clapping sound effects,  
-space shuttle rocket sound effects,  
-free mp3 sound effects,  
-free downloads for sound effects,  
-free rain sounds download,  
-free gun sounds effects,  
-jaws sound clip,  
-colt handguns sounds effects 38cal,  
-need to download sounds of helicopters,  
-music effects,  
-productos audio profesional,  
-sfx 
+sound effects cartoon and movie,  
+movie sound effects,  
+sound effects downloads,  
+rain sound effects,  
+free sound effects for mac,  
+eastenders effect sounds,  
+dolphin sound effects in toys,  
+splatter sound effect,  
+fairy dust sound effect,  
+bagpipe sound clip,  
+truck horn sound effect,  
+cartoon sound clips,  
+sound effects free,  
+free explosion sound effect downloads,  
+swish sound effect,  
+does movie maker have sound effects,  
+sounds to use with skype,  
+sounds effect,  
+sounds of nature free online download,  
+wav sound effects 
