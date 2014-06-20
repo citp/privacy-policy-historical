@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redmondmag.com privacy policy that was archived on 2013-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131028034330id_/http%3A//1105media.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redmondmag.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620025403id_/http%3A//1105media.com/privacy.aspx) for the most accurate reproduction.*
 
 # 1105 Media, Inc. - Privacy Policy
 
@@ -12,20 +12,11 @@ The information we collect is used to improve the content of our web pages, to c
 
 #### E-mail Communications
 
-If you have registered for our products and/or services, and have supplied an e-mail address, you will receive emails pertaining to your subscription and/or registration. These are sent in order to maintain your account with 1105 Media Inc. You can “opt-out” from receiving these types of e-mails by using the opt-out mechanism located within a received e-mail message.
+If you have registered for one of our magazines, websites, events, products, or services and you have supplied an e-mail address, you may receive both transactional emails pertaining to your registration/purchase and promotional emails with valuable offers. 
 
-For marketing e-mails, we retain three types of usage permission for submitted e-mail addresses as defined below. We allow you to “opt out” of receiving marketing e-mails about 1105 Media Inc. products and from outside companies either in response to a received e-mail or within this Privacy Policy.
+Transactional emails are sent in order to maintain your account with 1105 Media Inc. You can opt-out of receiving these types of e-mails by using the opt-out mechanism located within a received e-mail message or by cancelling you subscription, registration, or purchase. 
 
-  * **E-mails about Related Products and Services**  
-If you volunteer an e-mail address you may be contacted by us regarding similar products, services and/or upcoming events that are related to one of the [Publishing Groups](https://web.archive.org/web/20131028034330id_/http%3A//1105media.com/GroupList.html) within which your account resides. _If you do not wish to receive these types e-mails from us, please let us know by[clicking here](https://preference.1105pubs.com/pref/optOutDisplay.do?l=1&s=P&o=PRIV)_ and following the steps provided, calling us at the above telephone number, or writing to us at the above address.
-  * **E-mails about Other 1105 Media Inc. Products and Services**  
-If you volunteer an e-mail address you may be contacted by us regarding other 1105 Media Inc. products, services, and/or upcoming events. _If you do not wish to receive these types of e-mails from us, please let us know by[clicking here](https://preference.1105pubs.com/pref/optOutDisplay.do?l=2&s=P&o=PRIV)_ and following the steps provided, calling us at the above telephone number, or writing to us at the above address.
-  * **E-mails from Outside Companies**  
-If you volunteer an e-mail address you may be contacted by carefully selected outside companies for reputable promotional purposes. _If you do not wish to receive e-mails from other companies, please let us know by[clicking here](https://preference.1105pubs.com/pref/opt.jsp?l=3&o=PRIV&s=P)_ and following the steps provided, calling us at the above telephone number, or writing to us at the above address.
-  * **All E-mails**  
-If you wish to opt-out of these three types of e-mail marketing messages at once, please let us know by [clicking here](https://preference.1105pubs.com/pref/opt.jsp?l=123&s=P&o=PRIV) and following the steps provided, calling us at the above telephone number, or writing to us at the above address.
-
-
+Promotional emails are sent to bring you valuable, screened offers. You can opt-out of receiving these types of e-mails by using the opt-out mechanism located within a received e-mail message, by [clicking here](https://1105.sub-forms.com/ONE6909_1105pref&pk=PP) to update your email preferences, calling us at the number above, or by writing to us at the address above.
 
 It will take up to 10 business days to process your e-mail opt-out request. Please note that you may receive additional communications from us or an outside company after submitting your request if your e-mail address was selected from our database just prior to receiving and processing your request.
 
@@ -33,7 +24,7 @@ It will take up to 10 business days to process your e-mail opt-out request. Plea
 
 If you volunteer a postal address you may receive periodic mailings to relate information about new products, services, and/or upcoming events. We may also provide this information to other carefully selected outside companies for promotional purposes. If you do not wish to receive mailings from us or other companies, please let us know by clicking on the statement below and following the steps provided, calling us at the above telephone number, or writing to us at the above address.
 
-[_I do not wish to receive any mailings from 1105 Media Inc. or other companies._](https://web.archive.org/web/20131028034330id_/http%3A//1105media.com/mailForm.html)
+[_I do not wish to receive any mailings from 1105 Media Inc. or other companies._](https://web.archive.org/web/20140620025403id_/http%3A//1105media.com/mailForm.html)
 
 It will take up to 3 months to process your do-not-mail request. Please note that you may receive additional communications from us or other companies after submitting your request if your postal address was selected from our database just prior to receiving and processing your request. 
 
@@ -41,7 +32,7 @@ It will take up to 3 months to process your do-not-mail request. Please note tha
 
 If you volunteer a telephone number you may receive periodic telephone calls about new products, services, and/or upcoming events. We may also provide this information to carefully selected outside companies for promotional purposes. If you do not wish to receive telephone calls from us or other companies, please let us know by clicking on the statement below and following the steps provided, calling us at the above telephone number, or writing to us at the above address.
 
-[I do not wish to receive any telephone calls from 1105 Media Inc. or other companies.](https://web.archive.org/web/20131028034330id_/http%3A//1105media.com/callForm.html)
+[I do not wish to receive any telephone calls from 1105 Media Inc. or other companies.](https://web.archive.org/web/20140620025403id_/http%3A//1105media.com/callForm.html)
 
 It will take up to 1 month to process your do-not-call request. Please note that you may receive additional communications from us or other companies after submitting your request if your telephone number was selected from our database just prior to receiving and processing your request.
 
@@ -49,7 +40,7 @@ It will take up to 1 month to process your do-not-call request. Please note that
 
 If you volunteer a fax number you may receive promotional faxes on a very limited basis. Only those with whom we have an existing business relationship (such as an established subscription or registration) will receive such faxes. If you do not wish to receive such faxes, please let us know by sending us an e-mail through the e-mail link provided above, writing to us at the above address, or calling us at the above telephone number.
 
-[I do not wish to receive any fax messages from 1105 Media Inc.](https://web.archive.org/web/20131028034330id_/http%3A//1105media.com/faxForm.html)
+[I do not wish to receive any fax messages from 1105 Media Inc.](https://web.archive.org/web/20140620025403id_/http%3A//1105media.com/faxForm.html)
 
 It will take up to 1 month to process your do-not-fax request. Please note that you may receive additional communications from us after submitting your request if your fax number was selected from our database just prior to receiving and processing your request.
 
