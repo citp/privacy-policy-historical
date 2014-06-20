@@ -1,90 +1,90 @@
-> *The following text is extracted and transformed from the fivefourclub.com privacy policy that was archived on 2012-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120715015621id_/http%3A//www.fivefourclub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fivefourclub.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620064034id_/http%3A//www.fivefourclothing.com/club/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Five Four Club
+# Five Four Club
 
-**PRIVACY POLICY**
+**What information do we collect?**  
+We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form.
 
-Five Four Club knows you care how information about you is used and shared, and we appreciate your trust that we'll do so carefully and sensibly. This notice describes our privacy policy. By visiting Five Four Club, you're accepting the practices described in this Privacy Notice. You can browse our site without telling us who you are or revealing any personal information about yourself. Once you give us your personal information, you are no longer anonymous to us. If you choose to provide us with personal information, you consent to the transfer and storage of that information on our servers located in North America.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
 
-**1\. WHAT PERSONAL INFORMATION ABOUT CUSTOMERS DOES FIVE FOUR CLUB GATHER?**
+**What do we use your information for?**
 
-The information we learn from customers helps us personalize and continually improve your membership experience at Five Four Club. Here are the types of information we gather.
+Any of the information we collect from you may be used in one of the following ways:
 
-  * Information You Give Us: We receive and store any information you enter on our Web site or give us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information you provide for such purposes as responding to your requests, customizing future shopping for you, improving our stores, and communicating with you, but we respect your privacy when we market our products and services.
-  * Automatic Information: We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses Five Four Club.
-
-
-
-Certain information, although convenient for identification, is voluntary. It is up to you whether you want to provide this or other suitable identification, subject to any legal requirements.
-
-We collect, use and disclose personal information only for purposes that a reasonable person would consider appropriate in the circumstances, as well as non-personally identifying information (such as behavior statistics) in the aggregate in the context of site usage trends.
-
-**2\. HOW DOES FIVE FOUR CLUB HANDLE COOKIES?**
-
-  * Cookies are small files that we transfer to your computer's hard drive through your Web browser, to enable our systems to recognize your browser and to provide features you as the member enjoy, and storage of items in your information between visits.
-  * The "help" section of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the website of its manufacturer. Because cookies allow you to take advantage of some of Five Four Club’s essential features, we recommend you leave them turned on. For instance, if you block or otherwise reject our cookies, you will not be able to add items to your Shopping Cart, proceed to checkout, or use any Five Four Club products and services that require you to sign in.
+  * To personalize your experience  
+(your information helps us to better respond to your individual needs)
+  * To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+  * To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs)
+  * To process transactions  
 
 
+> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-**3\. DOES FIVE FOUR CLUB SHARE THE INFORMATION IT RECEIVES?**
+  
 
-Information about our customers is an important part of our business, and we're not in the business of selling it to any third party company for any reason. We share customer information only as described below.
+  * To administer a contest, promotion, survey or other site feature
+  * To send periodic emails  
 
-  * Third-Party Service Providers: We employ other companies and individuals to perform functions on our behalf but, we do not sell to third parties any Personal Information. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes.
-  * Business Transfers: As we continue to develop our business, we might sell or buy stores, subsidiaries, or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the customer consents otherwise). Also, in the unlikely event that FiveFour Group, LLC or Five Four Club or substantially any or all of the assets of FiveFour Group, LLC or Five Four Club are acquired, customer information of course will be one of the transferred assets.
-  * Protection of Five Four Club and Others: We release account and other personal information when we believe release is appropriate to comply with law; enforce or apply our Conditions of Use and other agreements; or protect the rights, property, or safety of Five Four Club, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit-risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Notice.
-  * With Your Consent: Other than as set out above, you'll receive written notice when information about you might go to third parties, and you'll have an opportunity to choose not to share the information.
+
+> The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
 
 
 
-**4\. HOW SECURE IS INFORMATION ABOUT ME?**
 
-  * We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you enter.
-  * It's important for you to protect against unauthorized access to your password and your computer. Be sure to sign off when you've finished using a shared computer. Click here for more information on how to sign off.
-  * As discussed above, you always can choose not to provide information, although it might be needed to make a purchase or to take advantage of additional Five Four Club suite features.
-  * You can add or update certain information on pages such as your personal account information, profile and measurements.
-  * If you don't want to receive e-mail or other mail from us, please email us so we can further assist you. (If you don't want to receive Conditions of Use and other legal notices from us, such as this Privacy Notice, those notices still will govern your use of Five Four Club, and it's your responsibility to review them for changes.)
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
+**How do we protect your information?**
 
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
 
-We keep the personal information we collect about you strictly confidential. Only authorized personnel have access to this personal information.
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
 
-**5\. WHAT ABOUT THIRD-PARTY ADVERTISERS AND LINKS TO OTHER WEB SITES?**
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
-Our site may include third-party advertising and links to other Web sites. We do not provide any personally identifiable customer information to these advertisers or third-party Web sites.
+**Do we use cookies?**
 
-These third-party Web sites and advertisers, or Internet advertising companies working on their behalf, sometimes use technology to send (or "serve") the advertisements that appear on our Web site directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize advertising content. We do not have access to or control over cookies or other features that they may use, and the information practices of these advertisers and third-party Web sites are not covered by this Privacy Notice. Please contact them directly for more information about their privacy practices. In addition, the Network Advertising Initiative offers useful information about Internet advertising companies (also called "ad networks" or "network advertisers"), including information about how to opt-out of their information collection.
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
-**6\. WHICH INFORMATION CAN I ACCESS?**
+We use cookies to help us remember and process the items in your shopping cart.
 
-Five Four Club gives you access to a broad range of information about your account and your interactions with Five Four Club for the limited purpose of viewing and, in certain cases, updating that information. This list will change as our Web site evolves.
+**Do we disclose any information to outside parties?**
 
-**7\. ARE CHILDREN ALLOWED TO USE FIVE FOUR CLUB?**
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-If you're under 18, you may not use Five Four Club. Membership is restricted to members 18 years of age or older.  
-If you choose to visit Five Four Club, your visit and any dispute over privacy is subject to this Notice and our Conditions of Use, including limitations on damages, arbitration of disputes, and application of the law of the United States of America. If you have any concern about privacy at Five Four Club, please contact us, and we'll try to resolve it.  
-Our business changes constantly, and our Privacy Notice and the Conditions of Use will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.
+**Third party links**
 
-**8\. RELATED PRACTICES AND INFORMATION**
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-See [Terms & Conditions of Use](http://fivefourclub.com/terms-conditions/)
+**California Online Privacy Protection Act Compliance**
 
-**9\. EXAMPLES OF INFORMATION COLLECTED**
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
-**INFORMATION YOU GIVE US**
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'Edit Profile' page.
 
-You provide most such information when you search, buy, post, participate in a contest or questionnaire, or communicate with customer service. For example, you provide information when you search for a product; make an order; provide information in Your Account (and you might have more than one, if you've used more than one e-mail address when shopping with us); communicate with us by phone, e-mail, or otherwise; complete a questionnaire or a contest entry form; compile Wish Lists; and provide and rate reviews, when applicable. As a result of those actions, you might supply us with such information as your name, address, and telephone number; credit card information; names of people to whom purchases have been shipped, including address and telephone number; content of reviews and e-mails to us; and financial information.
+**Childrens Online Privacy Protection Act Compliance**
 
-You may withdraw, verify accuracy or change some information you give us at any time, provided there are no legal requirements to prevent this, by calling the customer service line 888-341-2381 or by sending an e-mail to Service@FiveFourClub.com
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
-**AUTOMATIC INFORMATION**
+**Online Privacy Policy Only**
 
-Examples of the information we collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet; login; e-mail address; password; computer and connection information, such as browser type, version and timezone setting, browser plug-in types and versions, operating system, and platform; purchase history, which we sometimes aggregate with similar information from other customers to create features such as “Popular Products” Lists; the full Uniform Resource Locators (URL) clickstream to, through, and from our Web site, including date and time; cookie number; products you viewed or searched for; and the telephone number used to call our customer service number. We may also use browser data such as cookies, Flash cookies (also known as Flash Local Shared Objects), or similar data on certain parts of our Website for fraud prevention and other purposes. During some visits we may use software tools such as JavaScript to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page.
+This online privacy policy applies only to information collected through our website and not to information collected offline.
 
-**INFORMATION FROM OTHER SOURCES**
+**Your Consent**
 
-Examples of information we receive from other sources include updated delivery and address information from our carriers or other third parties, which we use to correct our records and deliver your next purchase or communication more easily.
+By using our site, you consent to our [web site privacy policy](http://http//www.fivefourclothing.com/).
 
-**INFORMATION YOU CAN ACCESS**
+**Changes to our Privacy Policy**
 
-Examples of information you can currently access easily at Five Four Club include up-to-date information regarding recent orders, personally identifiable information (including name, e-mail, password, communications preferences, address book), payment settings (including credit card information, gift certificate, gift card, and check balances), e-mail notification settings, Wish Lists, and recommendations.
+If we decide to change our privacy policy, we will post those changes on this page.
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may contact us using the information below.
+
+http://www.fivefourclothing.com/store/shop/body.php?module=homepage&id=280&contact=1  
+6380 Wilshire Blvd Ste 1106  
+Los Angeles 90048  
+USA  
+info@fivefourclothing.com
