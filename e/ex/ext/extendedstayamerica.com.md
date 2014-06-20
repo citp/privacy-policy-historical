@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the extendedstayamerica.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213160801id_/http%3A//www.extendedstayamerica.com/privacy/default.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extendedstayamerica.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620182457id_/http%3A//www.extendedstayamerica.com/privacy/default.html) for the most accurate reproduction.*
 
 # Extended Stay America - Privacy Policy
 
 [privacy overview](https://web.archive.org/privacy/default.html "privacy overview")   |   [terms & conditions](https://web.archive.org/privacy/terms-and-conditions.html "terms & conditions")
 
-We are committed to protecting our guests’ privacy at Extended Stay HotelsSM and its hotel brands, including Extended Stay DeluxeSM, Extended Stay America ®, Homestead Studio Suites®, StudioPLUS Deluxe Studios®, and Crossland Economy Studios®. We understand that you may have questions about how our website collects and uses the information that you provide to us. We have prepared this statement to inform you of the privacy principles that govern our website.
+We are committed to protecting our guests’ privacy at Extended Stay America ®, Extended Stay Canada ®, and Crossland Economy Studios®. We understand that you may have questions about how our website collects and uses the information that you provide to us. We have prepared this statement to inform you of the privacy principles that govern our website.
 
 [Click Here](http://www.extendedstayamerica.com/privacy/terms-and-conditions.html) for our Terms of Use.
 
@@ -25,7 +25,7 @@ It is our intention to only send you email communications that will be useful to
 Your personally identifiable information is subject to security procedures and policies regarding protection and use of confidential information. For example, we use Secure Socket Layer on pages of our website where you enter personally identifiable information.
 
 **Other Sites**  
-Extended Stay Hotels is only responsible for the privacy statement and content of this website. We are not responsible for the data collection and use practices and privacy policy of or the use of cookies on third-party websites that you may access from our website.
+Extended Stay America is only responsible for the privacy statement and content of this website. We are not responsible for the data collection and use practices and privacy policy of or the use of cookies on third-party websites that you may access from our website.
 
 **Legal Issues**  
 This is a United States website and is subject to the laws of the United States and the State of South Carolina. We will disclose personally identifiable information without your permission when required by law, or in good faith belief that such action is necessary to protect our guests, visitors, associates, property, or others.
