@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diffen.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225081603id_/http%3A//www.diffen.com/difference/Diffen%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diffen.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620165208id_/http%3A//www.diffen.com/difference/Diffen%3APrivacy_policy) for the most accurate reproduction.*
 
 # Diffen:Privacy policy - Difference and Comparison | Diffen
 
@@ -81,9 +81,7 @@ Diffen's policy does not permit public distribution of such information under an
 
 ## [edit](https://web.archive.org/difference/index.php?title=Diffen:Privacy_policy&action=edit&section=4 "Edit section: Sharing information with third parties") Sharing information with third parties 
 
-Except where otherwise specified, all content added to Diffen is available for reuse under the terms of the [Creative Commons license](http://creativecommons.org/licenses/by-nc-sa/3.0/us/ "http://creativecommons.org/licenses/by-nc-sa/3.0/us/"). 
-
-**Diffen.com will not sell or share private information, such as email addresses, with third parties, unless you agree to release this information, or it is required by law to release the information. (please read about 3rd party cookies above.)**
+Diffen will not sell or share private information, such as email addresses, with third parties, unless you agree to release this information, or it is required by law to release the information. (please read about 3rd party cookies above.) 
 
 ## [edit](https://web.archive.org/difference/index.php?title=Diffen:Privacy_policy&action=edit&section=5 "Edit section: Security of information") Security of information 
 
@@ -113,7 +111,9 @@ IRC channels are not part of Diffen. By participating in an IRC channel, your IP
 
 ## [edit](https://web.archive.org/difference/index.php?title=Diffen:Privacy_policy&action=edit&section=7 "Edit section: User data") User data 
 
-Data on users, such as the times at which they edited and the number of edits they have made are publicly available via "user contributions" lists, and in aggregated forms published by other users. 
+Data on users, such as real names or the times at which they edited and the number of edits they have made are publicly available via "user contributions" lists, and in aggregated forms published by other users. 
+
+Diffen will not sell or share private information, such as email addresses, with third parties, unless you agree to release this information, or it is required by law to release the information. 
 
 **Removal of user accounts**
 
