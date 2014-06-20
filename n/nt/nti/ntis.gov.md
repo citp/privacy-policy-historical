@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ntis.gov privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117144519id_/http%3A//www.ntis.gov/about/policies.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ntis.gov privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620034930id_/http%3A//www.ntis.gov/about/policies.aspx) for the most accurate reproduction.*
 
 # Policies
 
@@ -10,7 +10,7 @@ NTIS is committed to protecting your privacy and will collect no personal inform
 
 Your Rights under the Privacy Act
 
-Information concerning the Privacy Act can be found on the following Web site: <http://www.pueblo.gsa.gov/cic_text/fed_prog/foia/foia.htm#privacyact>
+Information concerning the Privacy Act can be found on the following Web site: [http://publications.usa.gov/USAPubs.php?PubID=6080](https://web.archive.org/newpage.aspx?np=n&url=http://publications.usa.gov/USAPubs.php?PubID=6080)
 
 NTIS follows the Department of Commerce's Privacy Policy: <http://www.commerce.gov/privacy-policy>  
 [http://ocio.os.doc.gov/ITPolicyandPrograms/index.htm](https://web.archive.org/newpage.aspx?np=n&url=http://ocio.os.doc.gov/ITPolicyandPrograms/index.htm)
