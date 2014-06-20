@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the time2track.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209145759id_/http%3A//time2track.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the time2track.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620220703id_/http%3A//time2track.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Time2Track | Time2Track
+# Privacy Policy - Time2Track
 
 At Time2Track, LLC, we value the privacy of information provided by visitors to our corporate web sites. With that in mind, we have instituted the following policies concerning the collection and use of data.
 
@@ -28,4 +28,4 @@ If a visitor has enabled cookies in a browser, we will send a cookie file that w
 
 Time2Track, LLC makes every reasonable effort to enforce these policies and protect your information. Time2Track, LLC is not responsible for the content or the privacy polices of websites to which it may provide links or which it may host.
 
-If you have questions about this privacy statement or your dealings with Time2Track, LLC, please do not hesitate to contact us at [support@time2track.com](mailto:support@time2track.com).
+If you have questions about this privacy statement or your dealings with Time2Track, LLC, please do not hesitate to contact us at [support@time2track-wp.refreshmedia.com](mailto:support@time2track-wp.refreshmedia.com). 
