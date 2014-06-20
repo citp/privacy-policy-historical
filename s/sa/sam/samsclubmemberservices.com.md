@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the samsclubmemberservices.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620135704id_/http%3A//www.samsclub.com/sams/pagedetails/content.jsp%3FpageName%3DprivacyPolicy%26iid%3DTDM%7CInClubsNow%7C3PFooter%7CPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samsclubmemberservices.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620083001id_/http%3A//www.samsclub.com/sams/pagedetails/content.jsp%3FpageName%3DprivacyPolicy%26iid%3DTDM%7CInClubsNow%7C3PFooter%7CPrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Sam's Club
 
 ## Scope:
 
-This policy applies to customer information we collect in the United States and Puerto Rico at Sam's Club retail stores and through our websites.
+This policy applies to member information Sam's Club collects in the United States and Puerto Rico, both in Club and through our websites.
 
-Sam's Club has specific Notices of Privacy Practices for its personal information practices relating to the Pharmacy and Vision Center operations in our retail stores. These Notices are available at each [Pharmacy](http://walmartstores.com/PrivacySecurity/10416.aspx) and [Optical Center.](http://walmartstores.com/PrivacySecurity/10415.aspx)
+Sam's Club has a specific [Notice of Privacy Practices](http://corporate.walmart.com/privacy-security/notices/health-wellness) for its personal information practices relating to our operations in our retail clubs. This Notice is available at each Pharmacy and Optical Center. 
 
 ## Information we collect:
 
@@ -55,7 +55,7 @@ Read more about Information We Collect
 
 [Email Privacy Office](mailto:privacy@samsclub.com) \- for privacy or Sam's Club Privacy Policy feedback/questions. 
 
-Sam's Club recognizes the importance of our Members' privacy. We believe that privacy is more than an issue of compliance ? it is one of trust. We strive to manage your personal information based on our basic belief of respect for the individual. This policy describes:
+Sam's Club recognizes the importance of our Members' privacy. We believe that privacy is more than an issue of compliance - it is one of trust. We strive to manage your personal information based on our basic belief of respect for the individual. This policy describes:
 
   * How and why we collect your personal information.
   * How your information is used and protected.
@@ -68,7 +68,7 @@ Sam's Club recognizes the importance of our Members' privacy. We believe that pr
 
 Our goal is to provide clear, prominent, and easily accessible information about our privacy practices. This policy applies to Member information obtained by Sam's Club in connection with its operations, both in Clubs and online, in the United States and Puerto Rico.
 
-Sam's Club has specific Notices of Privacy Practices for its personal information practices relating to the Pharmacy and Optical Center operations in our retail Clubs. These Notices are available at each [Pharmacy](http://walmartstores.com/PrivacySecurity/10416.aspx) and [Optical Center.](http://walmartstores.com/PrivacySecurity/10415.aspx)
+Sam's Club has a specific [Notice of Privacy Practices](http://corporate.walmart.com/privacy-security/notices/health-wellness) for its personal information practices relating to our Health and Wellness operations in our retail clubs. This Notice is available at each Pharmacy and Optical Center. 
 
   
 
@@ -112,7 +112,7 @@ We receive and store certain types of information when you interact with our web
 
 
 
-Our Clubs utilize cameras Clubs for security and operational purposes, such as to measure traffic patterns. Except for security purposes, we do not use these cameras to identify you personally.
+Our Clubs utilize cameras for security and operational purposes, such as to measure traffic patterns. Except for security purposes, we do not use these cameras to identify you personally.
 
   
 
@@ -158,14 +158,14 @@ We may disclose your information in other special circumstances. These include s
 
 #### Credit Offers
 
-If you apply for a Sam's Club Membership, we may share your information with the company that we partner with to offer credit card programs. To help you obtain the highest credit limit possible this may include your Membership and application information. Similarly, if you qualify for a credit account and are not offered a credit account by a Sam's Club Associate we may share your information with our partner, so that they may extend the offer of credit as required by law. However, you can choose to stop receiving prescreened offers of consumer credit from all companies, including prescreened offers of Sam's Club credit, by calling 1-888-567-8688.
+If you apply for a Sam's Club Membership, we may share your information with the company that we partner with to offer credit card programs. To help you obtain the highest credit limit possible this may include your Membership and application information. Similarly, if you qualify for a credit account and are not offered a credit account by a Sam's Club Associate we may share your information with our partner, so that they may extend the offer of credit as required by law. However, you can choose to stop receiving prescreened offers of consumer credit from all companies, including prescreened offers of Sam's Club credit, by calling 1.888.567.8688.
 
   
 
 
 #### Marketing Purposes
 
-From time to time, we may disclose information with carefully selected companies who may offer you products and services of interest. To opt out of this sharing [click here](http://www.samsclub.com/sams/account/privacyOptOut.jsp) and follow the instructions. These opt-outs do not apply to the Sam's Club co-branded credit card or to data sharing regarding business customers that purchase business resale merchandise.
+From time to time, we may disclose information with carefully selected companies who may offer you products and services of interest. To opt out of this sharing click here and follow the instructions. These opt-outs do not apply to the Sam's Club co-branded credit card or to data sharing regarding business customers that purchase business resale merchandise.
 
 #### Business Member Inquiries
 
@@ -209,12 +209,14 @@ You may opt-out of receiving different types of Sam's Club marketing material in
   * Online: By logging on to your samsClub.com account and clicking "edit" on the Member profile section.
   * By Email: You may email [privacy@samsClub.com](mailto:privacy@samsclub.com) for assistance.
   * By Mail: Sam's Club, 2101 SE Simple Savings Drive, Bentonville, AR 72716-0745, Attention: Membership Department
-  * By Phone: You may call Member Services by dialing 1 (888) 746-7726.
+  * By Phone: You may call Member Services by dialing 1.888.746.7726.
   * In Club: You may request to opt out at the Membership desk of your local Sam's Club.
 
 
 
-If you contact us by email or mail, please be sure to include your full name, Membership number, and the types of communications you would like to receive or not receive, and your related contact information. For instance, if you would like to opt out of mail, include your mailing address. Please allow sufficient time for your preferences to be processed. It may take up to 10 days to process your requests related to email and 4-6 weeks for other requests.
+If you contact us by email or mail, please be sure to include your full name, Membership number, and the types of communications you would like to receive or not receive, and your related contact information. For instance, if you would like to opt out of mail, include your mailing address. Please allow sufficient time for your preferences to be processed. It may take up to 10 days to process your requests related to email and up to 30 days to process your requests related to telephone calls, text messages, and fax messages. Please note that postal mailings are often prepared many weeks in advance, and you may continue to receive mail for 6-10 weeks.
+
+Since we do not accept opt out request from third parties, such as catalog opt-out services, please communicate your request directly to us through one of the mechanism mentioned above.
 
 Please be aware that, even if you have opted out of receiving marketing communications from us, we may still contact you for transactional purposes. Some examples are contacts for Member service, product information, service or reminder notices, or recalls. We may also need to contact you with questions or information regarding your order, such as regarding order status, shipment, or refunds. 
 
@@ -245,7 +247,7 @@ Please note your choice to opt-out under any of the above will apply only to the
 
 #### Credit offerings
 
-The above marketing preferences do not apply to our credit card offerings since these are provided through our financial institution partner(s). However, you can choose to stop receiving prescreened offers of credit from all companies, including our prescreened offers, by calling 1-888-567-8688 or by going to [www.optoutprescreen.com](http://www.optoutprescreen.com/).
+The above marketing preferences do not apply to our credit card offerings since these are provided through our financial institution partner(s). However, you can choose to stop receiving prescreened offers of credit from all companies, including our prescreened offers, by calling 1.888.567.8688 or by going to [www.optoutprescreen.com](http://www.optoutprescreen.com/).
 
   
 
@@ -345,7 +347,7 @@ Personal information that is maintained in our offices or Clubs is subject to ph
 
 #### Pharmacy and Optical Centers
 
-When you use our Pharmacy and Optical Center services, you may provide us with your health information so that we may process your request. We understand the sensitive nature of such information and respect your privacy by keeping it confidential in accordance with laws and our policies. Our privacy policies for personal health information describe how we protect the information and how you may access it. The policies are provided to you by the [Pharmacy](http://walmartstores.com/PrivacySecurity/10416.aspx) or [Optical Center](http://walmartstores.com/PrivacySecurity/10415.aspx) at the first time of service or can be requested at any time at your local Sam's Club.
+When you use our Pharmacy and Optical Center services, you may provide us with your health information so that we may process your request. We understand the sensitive nature of such information and respect your privacy by keeping it confidential in accordance with laws and our policies. Our [Notice of Privacy Practices](http://corporate.walmart.com/privacy-security/notices/health-wellness) for personal health information describes how we protect the information and how you may access it. This notice is provided to you by the Pharmacy or Optical Center at the first time of service or can be requested at any time at your local Sam's Club.
 
   
 
@@ -381,7 +383,7 @@ Email [Member Services](http://samsclubanswercenter.custhelp.com/app/answers/det
 Sam's Club Corporate  
 Privacy Office, MS #505  
 508 SW 8th Street  
-Bentonville, AR 72716-0505
+Bentonville, AR 72716-0160
 
 
 
@@ -396,4 +398,4 @@ Our privacy policy describes how we share information for marketing purposes. Th
 
 Please contact us with any questions, or to request a list of third parties to whom we may disclose information for marketing purposes and the categories of information we may disclose, via the Contact Us section above.
 
-Effective: January 30, 2012 
+Effective: June 13, 2014 
