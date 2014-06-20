@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thomasandfriends.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214141727id_/http%3A//www.hitentertainment.com/corporate/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thomasandfriends.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620232604id_/http%3A//www.hitentertainment.com/corporate/privacy.aspx) for the most accurate reproduction.*
 
 # HIT Entertainment - Terms and Conditions
 
@@ -101,6 +101,6 @@ If you would like to communicate with us about our Privacy Policy, please use th
 HIT Entertainment  
 Attn: Online Privacy Administrator  
 [privacyadmin@hitentertainment.com](mailto:privacyadmin@hitentertainment.com)  
-? 230 Park Avenue South  
+230 Park Avenue South  
 Suite 1300  
 New York, NY 10003 
