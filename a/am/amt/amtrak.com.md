@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the amtrak.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215104840id_/http%3A//www.amtrak.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amtrak.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620200319id_/http%3A//www.amtrak.com/privacy-policy) for the most accurate reproduction.*
 
 # Amtrak - Plan - Policies - Privacy Policy
 
-Updated: March 11, 2013
+Updated: December 31, 2013
 
-##### Section 1 — Introduction
+##### Section 1 — Introduction
 
-At Amtrak, we respect your privacy and value the trust and confidence you place in us. We are committed to safeguarding your privacy while you're using Amtrak.com, m.Amtrak.com, Amtrak for iPhone Appplication, and Amtrak for Android Application, Amtrak.com/Whistle-Stop, AmtrakGuestRewards.com, (referred to individually as “Site” or collectively as “Sites”). This privacy policy (referred to on this page as the "Policy") describes our commitment to your privacy. By using a Site, you acknowledge that you understand and expressly agree to this Policy.
+At Amtrak, we respect your privacy and value the trust and confidence you place in us. We are committed to safeguarding your privacy while you're using Amtrak.com; m.Amtrak.com; Amtrak applications for iPhone, Android, or Windows Phone; Amtrak.com/Whistle-Stop; or AmtrakGuestRewards.com (referred to individually as "Site" or collectively as "Sites"). This privacy policy (referred to on this page as the "Policy") describes our commitment to your privacy. By using a Site, you acknowledge that you understand and expressly agree to this Policy.
 
 When you use a Site, we may collect information about your visit to the Site, your usage of the Site, and information that you provide. This Policy describes:
 
@@ -58,7 +58,7 @@ We store this information in your User Profile which allows us to provide you wi
 
 ###### **2\. When you purchase tickets and make a reservation through a Site**
 
-We collect a certain amount of personal information about you (and, if necessary, your traveling companions) when you make reservations and purchase tickets, whether you purchase tickets while logged in with a User Profile, or while not logged in (i.e., as a guest). We use this information to fulfill your booking requests. This information includes:
+We collect a certain amount of personal information about you (and, if necessary, your traveling companions) when you begin the reservation process and purchase tickets, whether you purchase tickets while logged in with a User Profile, or while not logged in (i.e., as a guest). We use this information to fulfill your booking requests. This information includes:
 
   * Your name
   * E-mail address
@@ -149,14 +149,15 @@ In the event a travel story submission contains information relating to the qual
 
 ###### **8\. When you browse and otherwise use a Site (Cookies)**
 
-Each time you visit a Site, we may collect some information automatically about your computer by means of a "cookie." A cookie is a small amount of data that is sent to your browser from a server and stored on your computer or mobile device until it expires or you delete it. You can always choose not to receive cookies by setting your browser's options to refuse to accept cookies.
+Each time you visit a Site, we may collect some information automatically about your computer by means of a "cookie." A cookie is a small amount of data that is sent to your browser from a server and stored on your computer or mobile device until it expires or you delete it. You can always choose not to receive cookies by setting your browser's options to refuse to accept cookies. Amtrak, or any third parties on behalf of Amtrak, does not collect personally identifiable information about your online activities over time and across different websites when you use the Site. Accordingly, because Amtrak does not engage in the collection of such information, Amtrak does not respond to “do not track” signals or other mechanisms that provide consumers the ability to exercise choice regarding the collection of personally identifiable information about an individual consumer’s online activities over time and across third-party Web sites or online services.
 
 Generally, we use cookies to:
 
   * Remind us of who you are and to access your account information (stored on our secure servers) to deliver to you a better and more personalized service. This temporary cookie is set when you begin the booking process or enter your login ID and password. This cookie is enabled only for the duration of your session.
   * Estimate our audience size. Each browser accessing the site is given a unique cookie which is then used to determine the extent of repeat usage, usage by a registered user versus by an unregistered user, and to help target advertisements based on your interests and behavior.
   * Measure and track certain traffic patterns, including information like the areas of the site you have visited, and your visiting patterns in the aggregate. We may use this information to better personalize the content, banners, and promotions that you and other users will see on a Site.
-  * For your convenience so that when you return to a Site, you are identified It allows us to recognize you upon visiting a Site, prior to logging in. However, we do require you to log in before doing any redemption, purchase or profile edits.
+  * Remind us of pages on the site you have browsed or train itinerary that you added to to your cart, so that we may provide a more personalized experience.
+  * For your convenience so that when you return to a Site, you are identified. It allows us to recognize you upon visiting a Site, prior to logging in. However, we do require you to log in before doing any redemption, purchase or profile edits.
 
 
 
@@ -195,7 +196,7 @@ We use the information that you provide or that we otherwise collect while you'r
   * To communicate with you in order to fulfill our service commitments.
   * To notify you about special offers, promotions and site enhancements by e-mail, when you choose to receive them.
   * When you shop online on our site: If you make an online purchase from the site, we use the information obtained during your visit, such as your credit card number and contact information, to process the order. To learn more about how we keep your credit card information secure, please refer to Section 5 of this Policy.
-  * To deliver more relevant content to improve the customer experience
+  * While you are on our Site or via email, to deliver more relevant content to improve the customer experience.
   * To help identify and troubleshoot technical issues you may encounter
   * To maintain application leaderboards.
 
