@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amextravel.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224215129id_/https%3A//www.americanexpress.com/us/content/legal-disclosures/online-privacy-statement.html%3Finav%3Dfooter_privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amextravel.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620070657id_/https%3A//www.americanexpress.com/us/content/legal-disclosures/online-privacy-statement.html%3Finav%3Dfooter_privacy_statement) for the most accurate reproduction.*
 
 # American Express | US Online Privacy Statement
 
