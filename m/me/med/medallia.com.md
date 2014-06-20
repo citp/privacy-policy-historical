@@ -1,16 +1,22 @@
-> *The following text is extracted and transformed from the medallia.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220231519id_/http%3A//www.medallia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medallia.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620225402id_/http%3A//www.medallia.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Medallia
 
-Effective date: September 24, 2004 • Last reviewed and updated December 05, 2013
+Effective date: September 24, 2004 • Last reviewed and updated May 07, 2014
 
 [](http://privacy.truste.com/privacy-seal/Medallia,-Inc-/validation?rid=97940707-77d5-495c-94ba-4b8bf361f4ee "TRUSTe")
 
-Medallia, Inc. is committed to safeguarding the privacy of your personally identifiable information (“PII”). This statement sets forth Medallia’s privacy policy. The policy complies with the privacy principles of TRUSTe, in which Medallia is a member. Additionally, Medallia complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personally identifiable information from European Union member countries and Switzerland. Medallia has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Medallia’s certification, please visit <http://www.export.gov/safeharbor>.
+Medallia, Inc. is committed to safeguarding the privacy of your personally identifiable information (“PII”). This statement sets forth Medallia’s privacy policy. The policy complies with the privacy principles of TRUSTe, in which Medallia is a member.
 
 For the purposes of this policy, Medallia defines the term “client” as a business with which Medallia has an established relationship, “customer” as a customer of a Medallia client, and “respondent” as an individual who takes Medallia’s surveys independent of Medallia’s clients.
 
 This privacy policy covers how Medallia handles personally identifiable information, including personally identifiable information associated with the URLs Medallia.com and guest-survey.net.
+
+### Safe Harbor Framework
+
+Medallia complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personally identifiable information from European Union member countries and Switzerland. Medallia has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  Medallia’s designated provider for alternative dispute resolution under the Safe Harbor is TRUSTe.
+
+To learn more about the Safe Harbor program, and to view Medallia’s certification, please visit <http://www.export.gov/safeharbor>.  To contact Medallia regarding this privacy policy or the Safe Harbor program, you may reach Medallia using the contact information provided at the bottom of this policy.
 
 ### Information Medallia Collects
 
@@ -31,7 +37,7 @@ Medallia’s mobile reporting application, used by Medallia’s clients, uses th
 
 Medallia uses cookies primarily to identify returning users from the same computer and insure the integrity of its research. As part of its basic uses of Internet technology to provide surveys, Medallia also collects technical information such as: respondent IP address; the date and time at which respondents access Medallia’s website and respondent HTTP request headers. Medallia also uses third-party analytical cookies for tracking web traffic and usage.  The use of cookies by our affiliates is not covered by our privacy policy.  We do not have access to these cookies.
 
-Medallia uses Google Display Advertising and Remarketing cookies on the Medallia website (but not on the survey site or reporting application), which enable third-party vendors to show Medallia advertisements across the Internet..  If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [Here](http://preferences.truste.com/).
+Medallia uses Google Display Advertising and Remarketing cookies on the Medallia website (but not on the survey site or reporting application), which enable third-party vendors to show Medallia advertisements across the Internet. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [Here](http://preferences.truste.com/).
 
 ### Protection of Personally-identifiable Information
 
@@ -39,15 +45,21 @@ Medallia is not in the business of selling or renting personally identifiable in
 
 ### Voluntary Participation
 
-Individuals may choose not to participate in Medallia’s research. An opt-out choice is included in each communication to individuals, and those who exercise it will be added to Medallia’s opt-out list for the relevant client within ten (10) business days of unsubscribing. For each client, Medallia does not send survey invitations to any e-mail address on the applicable opt-out list. Medallia also provides its opt-out lists on a timely basis to its clients and third party agents so that they may properly update their records.
+Individuals may choose not to participate in Medallia’s research and are under no obligation to take surveys sent to them.  An opt-out choice is included in each communication to individuals, and those who exercise it will be added to Medallia’s opt-out list for the relevant client within ten (10) business days of unsubscribing. For each client, Medallia does not send survey invitations to any e-mail address on the applicable opt-out list. Medallia also provides its opt-out lists on a timely basis to its clients and third party agents so that they may properly update their records.
 
-Individuals may elect to opt out at any time from receiving email from Medallia and are under no obligation to take surveys sent to them. Individuals who wish to reverse an earlier unsubscribe option may contact Medallia’s Privacy Contact (see contact information below) to change their opt-out status.
+Individuals may also elect to opt out at any time from receiving email from Medallia regarding Medallia’s products and services.  An opt-out choice will be added to Medallia’s opt-out list for communications about products and services within ten (10) business days of unsubscribing.
+
+Individuals who wish to reverse an earlier unsubscribe option may contact Medallia’s Privacy Contact (see contact information below) to change their opt-out status.
 
 ### Access
 
 Customers and respondents may contact Medallia (see Privacy Contact below) at any time if they feel there is an error in their personally identifiable information. Because Medallia generally receives and retains personally identifiable information as an agent of its clients, it will usually refer individuals reporting inaccuracies in their personally identifying information to the originating source for correction.
 
 Subsequent to verifying the identity of a person making a request, Medallia will respond to a request for offline access to personally identifiable information within 30 days of receiving the request.
+
+### **Data Retention**
+
+We will retain your information for as long as needed to provide you services. If you wish to request that we no longer use your information to provide you services contact us at the contact information listed below, and we will coordinate with the Medallia client for which the data was collected. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 ### Third-party Partners
 
@@ -75,7 +87,9 @@ If you have an unresolved privacy or data use concern that we have not addressed
 
 ### Legal Disclaimer
 
-When requested by legal authorities to disclose personally identifiable information, Medallia will inform the court of various factors justifying confidentiality and respondent anonymity. However, Medallia may be required by law to disclose personally identifiable information where judicial or other governmental subpoenas, warrants, or orders are properly issued. Individuals’ unsubscribe option in no way limits Medallia’s use, disclosure or distribution of personally-identifiable information to the extent such use, disclosure or distribution is required by law, court order or other valid legal process. If Medallia is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personally identifiable information, as well as any choices you may have regarding your personally identifiable information.
+When requested by legal authorities to disclose personally identifiable information, Medallia will inform the court of various factors justifying confidentiality and respondent anonymity. However, Medallia may be required by law to disclose personally identifiable information where judicial or other governmental subpoenas, warrants, or orders are properly issued. Individuals’ unsubscribe option in no way limits Medallia’s use, disclosure or distribution of personally-identifiable information to the extent such use, disclosure or distribution is required by law, court order or other valid legal process.  Medallia will communicate with the affected client as soon as possible, unless prohibited by law or court order.
+
+If Medallia is involved in a merger, acquisition, or sale of all or a portion of its assets, Medallia may transfer your data.  In such a circumstance, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personally identifiable information, as well as any choices you may have regarding your personally identifiable information.
 
 ### Links to 3rd Party Sites
 
@@ -83,7 +97,7 @@ Our Site includes links to other Web sites whose privacy practices may differ fr
 
 ### Social Media Features and Widgets
 
-Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+Our Web site and some surveys include Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
 ### Blogs
 
@@ -103,4 +117,4 @@ We reserve the right to modify this privacy policy at any time, so please review
 
 If you have any questions or comments about this privacy policy or the practices of this site, please contact Medallia by e-mailing privacy@medallia.com, faxing (650) 321-3156, calling (650) 321-3000, or writing Attention: Privacy, Medallia, Inc., 395 Page Mill Road, Suite 100, Palo Alto, CA 94306. Medallia responds to non-frivolous privacy-related requests in a timely fashion, not to exceed ten (10) business days.
 
-Effective date: September 24, 2004. Last reviewed and updated, December 05, 2013.
+Effective date: September 24, 2004. Last reviewed and updated, January 07, 2014.
