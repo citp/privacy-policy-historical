@@ -1,309 +1,218 @@
-> *The following text is extracted and transformed from the csaa.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615022444id_/http%3A//calstate.aaa.com/about-aaa/csaa-web-site-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csaa.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620102111id_/http%3A//calstate.aaa.com/about-aaa/aaa-privacy-policy) for the most accurate reproduction.*
 
-# AAA Web Site Privacy Policy | AAA Northern California, Nevada and Utah
+# AAA NCNU Privacy Policy | Your Privacy Rights | AAA Northern California, Nevada and Utah
 
-**Effective Date: June 1, 2008**
+AAA takes your privacy very seriously. Please take a moment to review our Privacy Policy to see how we protect personal information provided to us via our website and other sources.  
 
-This Privacy Notice applies to personal information collected on or from [www.calstate.aaa.com](http://www.calstate.aaa.com/ "www.calstate.aaa.com") (the “Site”) and certain emails sent by or to AAA Northern California, Nevada, & Utah.
 
-**By visiting and using our Site, you indicate that you accept the practices described in this Privacy Notice.**
+This Privacy Policy applies to personal information collected on or from [calstate.aaa.com](http://www.calstate.aaa.com/) (the “Site”) and personal information collected from emails sent to AAA Northern California, Nevada, & Utah and via other sources, as described below. This Privacy Policy applies only to consumer customers, not to companies.
+
+**By visiting and using our Site, or otherwise providing personal information to us, you indicate that you accept the practices described in this Privacy Policy.**
 
 **Please remember that whenever you leave our Site to visit a linked website, you are subject to the terms and policies of that other website. We are not responsible for the privacy practices of the other website. Please review those other terms and policies before proceeding.**
 
-**We may have collected personal information from you before this Privacy Notice took effect. By using this Site, you consent to our continued use of previously collected personal information under these new terms. If you do not want us to do so, please contact us as provided in theHow to Contact Us section.**
+**We may have collected personal information from you before this Privacy Policy took effect. By using this Site, or otherwise providing personal information to us, you consent to our continued use of previously collected personal information under these terms. If you do not want us to do so, please contact us as provided in the How to Contact Us section below.**
 
-## In Summary
+##   
+What Personal Information We Collect
 
-This Privacy Notice explains what personal information we collect; what we do with it; and options you can exercise.
+**All Site Visitors**
 
-  * We collect personal information through our Site and from email correspondence related to our Site.
-  * Some of this personal information is associated with a specific person. We use it to respond to specific requests made by that person. We may also use it to personalize our Site or our emails for that person.
-  * We do not share personal information with non-affiliated entities for their marketing purposes without your consent.
-  * We may share personal information with selected service providers that assist us with the management and operation of our Site.
+When a visitor accesses our Site, we collect the visitor's zip code, IP address, and browser information. An IP address is a unique locator for a visitor's computer that is used to find the visitor's computer on a network. A website uses the IP address to send information to the visitor's computer. The visitor's computer or Internet service provider may assign a different IP address to the computer for different Internet sessions. Browser information includes the type and version of the Internet browser that is being used, such as Internet Explorer. If one of our online marketing initiatives leads a visitor to our Site, we also identify the website or location from which that visitor came. We also collect information regarding the visitor's traffic patterns and Site usage, such as the time spent on a page, or the links or advertisements on which the visitor has clicked.
 
+**AAA Members**
 
+AAA members may register with our Site. When you register, we collect your membership number, last name and zip code. Registering with our Site triggers the creation of a cookie on your computer, which allows us to recognize that a visitor is one of our members. If you register with our Site, the information we collect about your traffic patterns or Site usage through our cookies and action tags is linked to you through this cookie.
 
-## What Personal Information We Collect
+After you have registered, the information we collect about your traffic patterns or Site usage may be linked to you, and any other information we may have about you in our databases. You can prevent this use of your website session information. See the Your Choices section below.
 
-**Children  
-**We do not intend to collect personal information from children. This Site is not intended for children, and no one who is under the age of 13 should submit personal information to this Site. We will promptly delete any personal information that we might have unknowingly collected from a child.
+If you attempt to login on our Site and you have previously deleted our registration cookie, you will have to type in your login ID again, and a new cookie will be created. The information we collect about your traffic patterns or Site usage may be linked to you through that cookie so that we may present products and services that may interest you. You can prevent the use of your website session information for such personalized advertising. See the Your Choices section below.
 
-**For all Site Visitors  
-**When a visitor accesses our Site, we collect the visitor's zip code, IP address, and browser information. An IP address is a unique locator for a visitor's computer that is used to find the visitor's computer on a network. A website uses the IP address to send information to the visitor's computer. The visitor's computer or Internet service provider may assign a different IP address to the computer for different Internet sessions. Browser information includes the type and version of the Internet browser that is being used, such as Internet Explorer version 6.0. If one of our online marketing initiatives leads a visitor to our Site, we also identify the website or location from which that visitor came. We also collect information regarding the visitor's traffic patterns and Site usage, such as the time spent on a page, or the links or advertisements on which the visitor has clicked.
+When you post messages on the message boards of our Site, the information contained in your posting will be stored on our servers and other users will be able to see it.
 
-**If you fill out a Form or a Questionnaire  
-**If you fill out one of the forms or questionnaires posted on our Site, we collect the personal information that you provide in response to the questions. We may combine it with information, if any, that we may have in our database and that may be associated with your name or email address. The questions we ask are necessary for us to understand your needs, so that we can respond accordingly.
+AAA members who have registered with our Site may have access to products or services and other benefits that are available only in restricted areas of our Site. On these pages, our members can also perform certain activities, such as making payments or changing passwords or preferences. To access these restricted areas, the registered AAA member must use a login ID, e-mail address and a password.
 
-> _Example: You fill out a form in order to request a quote for one of our products; register for a newsletter; send us an email with your comments; enter a sweepstakes or contest; or participate in an online survey._
+For service emails that we exchange with you (e.g., helpdesk or account questions), we collect the personal information needed to handle your request, and retain it for statistical and reporting purposes. For example, we collect the personal information you provide when you contact our Help Desk, or email a question about your account, so that we can follow-up and respond. We keep track of the email exchange for reporting purposes, so that we know how many inquiries of a certain type were received and handled.
 
-**If you are a AAA Member  
-**AAA members may register with our Site. Registering with our Site triggers the creation of a cookie, which allows us to recognize that a visitor is one of our members. If you register with our Site, the information we collect about your traffic patterns or Site usage through our cookies and action tags is linked to you through this cookie.
+We track the open and click-through rate of our promotional emails for statistical purposes and to identify those emails that a specific recipient has opened. If you respond to one of our promotional emails, we record the information you provide with other data that we have and that is associated with that same email address.
 
-After you have registered, the information we collect about your traffic patterns or Site usage may be linked to you, and any other information we may have about you in our databases. You can prevent this use of your website session information. See Opt-Out - Action Tags below.
+If you fill out one of the forms or questionnaires posted on our Site or made available in one of our local offices (e.g., to request a quote, request a newsletter, or sign up for a sweepstakes), we collect your e-mail address, as well as the other personal information that you provide in response to the questions. We may combine it with information, if any, that we may have in our database and that may be associated with your name or email address. The questions we ask are necessary for us to understand your needs, so that we can respond accordingly.
 
-**If you Login  
-**AAA members who have registered with our Site may have access to products or services and other benefits that are available only in restricted areas of our Site. On these pages, our members can also perform certain activities, such as making payments or changing passwords or preferences. To access these restricted areas, the registered AAA member must use a login ID and a password.
+When you order services on our site, utilize our services through one of our local offices or over the telephone, or file a complaint with us, we will collect all of the information necessary to complete the transaction, perform the service, or resolve the matter at issue, including your name, membership number, telephone numbers, postal and e-mail addresses, vehicle and mobile phone information and general location, and billing information (such as credit card number, cardholder name, expiration date, security code and bank account information).
 
-If you attempt to login on our Site and you have previously deleted our registration cookie, you will have to type in your login ID, and a new cookie will be created. The information we collect about your traffic patterns or Site usage may be linked to you through that cookie so that we may present products and services that may interest you. You can prevent the use of your website session information for such personalized advertising. See Opt-Out - Action Tags below.
+We receive and store any information you enter on our Site in connection with your travel plans. This may include your first and last name, membership number, telephone number, postal and e-mail addresses, driver information, billing information (such as credit card number, cardholder name, expiration date and security code), billing address, birthdate and passport information. We also may request information about your traveler preferences, including reservation numbers, special meals, seat location, frequent traveler or affinity numbers, hotel preferences, and ticketing options. You may elect to provide other information, for example, gender, activities, and lifestyle preferences, anniversaries, birthdates or preferred destinations.
 
-**Emails  
-**For service emails that we exchange with you, we collect only the personal information needed to handle your request, and retain it only for statistical purposes.
+You can choose to complete your online profile by providing us with travel preferences, frequent-traveler or affinity numbers, credit-card billing information, paper ticket delivery address, and other personal information. This information is primarily used to assist you in making some of your reservations without having to type in the same information repeatedly. For example, you can store your frequent-traveler or affinity numbers so that when your make a reservation with a particular airline or car rental company, we can automatically pre-fill the frequent-traveler or affinity number input box for you.
 
-> _Example: We collect the personal information you provide when you contact our Help Desk, or email a question about your account, so that we can follow-up and respond. We keep track of the email exchange for reporting purposes, so that we know how many inquiries of a certain type were received and handled._
+**Insurance Customers (Prospective and Active)**
 
-We track the open and click through rate of our promotional emails for statistical purposes and to identify those emails that a specific recipient has opened. If you respond to one of our promotional emails, we record the information you provide with other data that we have and that is associated with that same email address.
+In order to request an insurance quote from our Site, you must fill out a questionnaire posted on the Site. We collect the personal information that you provide in response to the questions. The questions we ask are necessary for us to understand your insurance needs, so that we can provide the quote. We use the personal information that you provide and information that we might have previously obtained from you through your prior business dealings with us or one of the AAA Companies. The **“AAA Companies”** are (a) the American Automobile Association, Inc.; (b) any entity with "AAA" or "American Automobile Association" in its name or brand, including each AAA auto club and AAA Northern California, Nevada & Utah Insurance Exchange; or (c) any entity affiliated with any of the foregoing or acting as an insurer or a re-insurer of any of the foregoing, including subsidiaries and holding companies such as AAA Club Partners, Inc.
 
-## How We Collect Personal Information
+The types of personal information we collect from you when you become an insurance customer depend on the product or service you have with us. This information can include your name, postal and e-mail addresses, Social Security Number, credit score, payment information, and motor vehicle or claims history reports. We collect your personal information from you when you, for example, apply for insurance, create an account or make a payment. We also collect personal information about you from others, such as affiliates, other unaffiliated companies, the DMV and consumer reporting agencies.
 
-**Directly from You  
-**Some of the personal information that we collect is provided directly by you, when you send us emails or fill out the forms displayed on our Site.
+## 
 
-**Cookies  
-**Like most websites, we use cookies. [Cookies](http://www.allaboutcookies.org/cookies) are small files that a website sends to a visitor's computer when the visitor lands on a particular area of the Site. Cookies serve to identify a specific computer, so that we can recognize a returning visitor.
+How We Collect Personal Information
 
-While most browsers (Explorer, Safari, Firefox, etc.) accept cookies automatically, you can choose to reject cookies or to have your computer warn you each time a cookie is being sent. Cookies are browser specific. If you use different browsers, you will have to define your preferences on each browser.
+**Directly from You**
 
-You can delete all or some of these cookies from your computer by activating the “delete cookies” feature in your browser. If you have several browsers, you must reiterate the deletion request for each browser.
+Some of the personal information that we collect is provided directly by you, when you send us emails or fill out the forms displayed on our Site or in our local offices.
 
-Since cookies help identify a computer, without a cookie, each time you open a new page, the server for that page cannot recognize you, and treats you as a new visitor. As a result, you may not have access to some of the features offered on our Site if you refuse the use of cookies.
+To make our Site and services more useful to you, our servers (which may be hosted by a third party service provider) collect information from you, including your browser type, operating system, IP address, domain name and date/time stamp for your visit.
 
-> _Example: If you delete your cookies, you may have to re-enter your personal information or preferences._
+**Cookies**
 
-Cookies are stored on a specific computer. If you use different computers, you will need to configure each computer to suit your cookie preferences.
+Like most websites, we use cookies. Cookies are small files that a website sends to a visitor's computer when the visitor lands on a particular area of the Site. Cookies serve to identify a specific computer, so that we can recognize a returning visitor. While most browsers (Explorer, Safari, Firefox, etc.) accept cookies automatically, you can choose to reject cookies or to have your computer warn you each time a cookie is being sent. Cookies are browser specific. If you use different browsers, you will have to define your preferences on each browser. You can delete all or some of these cookies from your computer by activating the “delete cookies” feature in your browser. If you have several browsers, you must reiterate the deletion request for each browser. Since cookies help identify a computer, without a cookie, each time you open a new page, the server for that page cannot recognize you, and treats you as a new visitor. As a result, you may not have access to some of the features offered on our Site if you refuse the use of cookies. For example, if you delete your cookies, you may have to re-enter your personal information or preferences. Cookies are stored on a specific computer. If you use different computers, you will need to configure each computer to suit your cookie preferences.
 
-There are two types of cookies: session cookies and permanent cookies.
+We use cookies to facilitate navigation of the Site; for example so that any information you have entered on one page is remembered when you move to a different page, and to track the usage of our Site, for example, the time spent on a page. Cookies enable us to know aspects of a visitor's use of our Site, such as whether the user is a new or a returning visitor. We may associate cookies with information about a visitor's use of the Site and use them to combine data about that person with other data about that person. For example, a cookie would allow us to remember the choices you made during a prior visit.
 
-**Session Cookies  
-**Session cookies last only for the duration of one visit. They are deleted when you close your browser. Our session cookies are not associated with personal information. They are used to facilitate navigation of the Site; for example so that any information you have entered on one page is remembered when you move to a different page. We also use session cookies to track the usage of our Site, for example, the time spent on a page.
+**Action Tags**
 
-**Permanent Cookies  
-**Permanent cookies remain on the computer's hard drive until the visitor deletes them, or until the cookie expires.
+Like many websites, we also use action tags to identify some of the pages that a user visits, and how he or she uses the content on these pages. Action tags are also placed in advertisements that are served on our behalf on our Site and third party websites. We also use action tags in our emails, to determine whether an email was opened, or whether it was forwarded to someone else. For example, we may configure action tags to collect information about which sections of our Site you visit, when you view or print a page, how long you stay on the Site, or on which links or advertisements you click. Action tags may collect and transmit this information in a manner that identifies you personally, only if you have registered with, or are logged in to our Site. You may block the linking of your session information with your personal information for purposes of personalized advertising. See the Your Choices section below.
 
-Permanent cookies enable us to know aspects of a visitor's use of our Site, such as whether the user is a new or a returning visitor. These cookies are associated with information about a visitor's use of the Site. They allow the combination of data about that person with other data about that person.
+**Third Party Cookies and Action Tags**
 
-> _Example: A permanent cookie would allow us to remember the choices you made during a prior visit._
+We use service providers to help us with our electronic communications, analyze the use of our Site, and serve advertisements on our behalf on our Site and on other websites across the Internet. These third parties use cookies and action tags to track activities on our Site and other websites in order to produce user profiles and aggregate information about the use of our Site. User profiles may be used to personalize advertising, including e-mails, based on the user's interests and activities identified in the user's profile. You may block the linking of your session information with your personal information for purposes of personalized advertising. See the Your Choices section below.
 
-**Action Tags**  
-Like many websites, we also use action tags to identify some of the pages that a user visits, and how he or she uses the content on these pages. Action tags are also placed in advertisements that are served on our behalf on our Site and third party websites.
+**Third Parties**
 
-We also use action tags in our emails, to determine whether an email was opened, or whether it was forwarded to someone else.
+If you decide to refer a friend to create an account, we will collect your and the third party’s names and e-mail addresses in order to send an e-mail and follow up with the third party. You or the third party may contact us to request the removal of this information from our database. See our How to Contact Us section below.
 
-> _Example: We may configure action tags to collect information about which sections of our Site you visit, when you view or print a page, how long you stay on the Site, or on which links or advertisements you click._
+We may receive personal information and aggregated data about you from companies that provide our services by way of a co-branded or private-labeled website or companies that offer their products and/or services on our Site or directly to or for us. These third party companies may supply us with personal information. We may add this information to the information we have already collected from you via our Site in order to improve the services we provide.
 
-Action tags may collect and transmit this information in a manner that identifies you personally, only if you have registered with, or are logged in to our Site.
+If you request an insurance quote, we may also obtain additional information from third parties. This additional information includes, for example, motor vehicle reports, or claims history reports. It may also include credit scores, if permitted by applicable State law, or if we have obtained your permission to do so. We do not ask for, or receive a full credit report, but only a credit score (also known as an insurance score).
 
-You may block the linking of your session information with your personal information for purposes of personalized advertising. See our section Opt Out - Action Tags below.
+When you make travel or other arrangements for someone else through our Site we will request personal information and travel preferences about that individual. You should obtain the consent of other individuals before providing us with their personal information and travel preferences.
 
-**Third Party Cookies and Action Tags  
-**We use service providers to help us with our electronic communications, analyze the use of our Site, and serve advertisements on our behalf on our Site and on other websites across the Internet. These third parties use cookies and action tags to track activities on our Site and other websites in order to produce user profiles and aggregate information about the use of our Site. User profiles may be used to personalize advertising, including e-mails, based on the user's interests and activities identified in the user's profile.
+When you use our travel services, we also may periodically obtain information about you from our business partners and other independent third-party sources and add it to your account information. Examples of information we may receive include: updated delivery and address information, which we use to correct our records and to facilitate proper delivery of travel information; and demographic information, which we use to better understand your potential purchasing preferences.
 
-You may block the linking of your session information with your personal information for purposes of personalized advertising. See our section Opt Out - Action Tags below.
+If you log on to the Site with your login credentials from a social networking site, we may receive personal and/or anonymous information about you from such social networking site, in accordance with the terms of use and privacy policy of the third party provider of such social networking site. We may add this information to the information we have already collected from you via the Site.
 
-## How We Use the Personal Information That We Collect
+##   
+How We Use the Personal Information That We Collect
 
 We use the personal information that we collect for several purposes:
 
-**Analytics  
-**We use personal information that we collect in aggregate form, for statistical purposes, to better understand our visitors, optimize the content that we serve, and improve the ways in which we provide information about our company.
+**All Site Visitors**
 
-> _Example: Aggregate information is used to find out what are the most commonly used browsers; or what the existing and future needs are for our products and services._
+We use personal information that we collect in aggregate form, for statistical purposes, to better understand our visitors, optimize the content that we serve, and improve the ways in which we provide information about our company. For example, aggregate information is used to find out what are the most commonly used browsers; or what the existing and future needs are for our products and services.
 
-**Communications  
-**We may combine personal information with other information that we have previously collected from you or we have obtained from third parties in order to communicate with our visitors, for direct marketing or email marketing purposes.
+We may combine personal information with other information that we have previously collected from you or we have obtained from third parties in order to communicate with our visitors, for direct marketing or email marketing purposes. For example, we may use personal information that we have collected in order to follow up on your questions, requests for information or insurance quotes.
 
-> _Example: We may use personal information that we have collected in order to follow up on your questions, requests for information or insurance quotes._
+If you provide your email address, we may enroll you in our promotional email programs. You can opt-out at any time, as indicated in each of our promotional emails. If you provide your telephone number, we may initiate an automated or live phone call from a third party or add your telephone number to an event or lead list that our agents may use to contact you. We may also use your personal information to notify you when a branch moves or closes or an agent retires.
 
-If you provide your email address, we may enroll you in our promotional email programs. You can opt-out at any time, as indicated in each of our promotional emails.
+We may combine personal information that was collected through action tags and cookies with other information about a user's prior visits in order to evaluate the success rate of our advertising programs (on other websites or in newsletters), such as the open rate or the conversion rate. The information is also used to identify products or services in which a specific user might be interested. For example, we may use personal information about a user's visits to this and other websites to identify products or services in which that user might be interested. We then deliver to that user, directly or through our advertising agencies, advertisements and emails that promote these types of products or services to that user.
 
-**Marketing Effectiveness  
-**We may combine personal information that was collected through action tags and cookies with other information about a user's prior visits in order to evaluate the success rate of our advertising programs (on other websites or in newsletters), such as the open rate or the conversion rate. The information is also used to identify products or services in which a specific user might be interested.
+**AAA Members**
 
-> _Example: We may use personal information about a user's visits to this and other websites to identify products or services in which that user might be interested. We then deliver to that user, directly or through our advertising agencies, advertisements and emails that promote these types of products or services to that user._
-
-## What Personal Information We Disclose to Third Parties
-
-We will not disclose personal information to other companies outside of our family of companies for their marketing purposes without your consent. We will not disclose any personal information about our visitors, customers and former customers except as set forth below or as permitted or required by law.
-
-Persons or organizations to which we may disclose personal information include:
-
-**Affiliated Third Parties  
-**We may share personal information within our family of companies in order to market products and services to our customers. See a list of these companies below.
-
-**Service Providers  
-**We may provide personal information to our service providers so that they can perform business, professional or insurance functions for us. For example, we use third parties to assist us in hosting and operating our Site, managing our online advertising, or handling responses to surveys or sweepstakes. Our service providers are contractually bound to protect the personal information of our visitors, members, and customers with measures substantially similar to those outlined in this Privacy Notice and to use this personal information only for agreed upon purposes.
-
-> _Example: We share some personal information with our advertising agencies that combine it with other information that they have obtained from other sources, in order to manage and personalize advertisements to our visitors, and for market research._
-
-**Successor Companies  
-**We may disclose personal information to a party or a representative of a party to a proposed or consummated sale, transfer, merger, or consolidation of all or part of our organization.
-
-Before the consummation of any such transaction, we will disclose only such personal information as is reasonably necessary to enable the recipient to make business decisions about the proposed transaction. We will require the recipient to agree not to disclose the information unless the disclosure would otherwise be permitted by this Privacy Notice.
-
-**Other Disclosures  
-**We also may disclose personal information:
-
-  * To a law enforcement or other governmental authority pursuant to law; or in response to a facially valid administrative or judicial order, including a search warrant or subpoena;
-  * To establish or exercise our legal rights; to defend against legal claims; or as required by law.
-  * To detect or prevent criminal activity, fraud, material misrepresentation, or material nondisclosure; to protect and defend the rights, property, or safety of our organization or others; or in connection with the enforcement of our Terms & Conditions and other agreements.
-
-
-
-**California Notice of Information-sharing Disclosure  
-**We do not share personal information with a third party for that third party's direct marketing purpose other than as permitted by law. If we decide that we wish to provide business partners with contact details for direct marketing purposes of relevant services, products, and programs, we will provide a method for you to opt-out of having your personal information shared in such a manner. If you have further inquiries regarding our personal information sharing practices, please let us know. See our How to Contact Us section below.
-
-## Opt-Out - Electronic Communications
-
-There are many opportunities for you to provide us with your email address. For example, if you contact us via email; if you fill out a form to enter a contest or request a quote; or if you elect to register with our Site.
-
-If you wish to limit emails from us go to the “Unsubscribe” portion of our promotional emails, and follow the instructions to opt-out of further communications; or, if you are a registered member, go to your [My AAA Contact Information](https://web.archive.org/my-aaa/profile) / Email Preferences or [www.aaa.com/newsletter](http://www.aaa.com/newsletter), and follow the instructions to change your email preferences.
-
-Your opt-out request will be processed in a timely manner; however, you may continue to receive materials while we are updating our lists.
-
-Please note that even if you have elected to unsubscribe from all of our e-newsletters and updates, we may still contact you from time to time about your account, or to provide other important notices.
-
-## Opt-Out - Action Tags
-
-If you do not want us to link your website session information with your personal information for personalized advertising, click here: <http://www.omniture.com/en/privacy/2o7#optout>.
-
-Please be aware that a cookie will be used to block action tags on our Site. If you delete this cookie, your preference will be lost, and you will need to opt-out again to block our action tags.
-
-## How We Protect Your Personal Information
-
-We use physical, electronic, and procedural safeguards to protect your personal information. We review the information security practices of companies with whom we share personal information. We require our employees to keep personal information confidential. Access to such information is provided only to those employees who need personal information to perform their duties.
-
-## Email and Telephone Fraud - A warning about "phishing"
-
-Fraudulent emails, also known as "phishing" or "spoofing" are communications that appear to be from an insurance company, a regulatory agency, a retailer, but are not. These emails attempt to lure you into sending your personal information to a website without questioning or challenging the legitimacy of the request.
-
-We do not, and will not, at any time, request your credit information, personal account information, login name or password in an unsecure or unsolicited email or telephone communication.
-
-For more information about phishing, you may want to visit the Federal Trade Commission at <http://onguardonline.gov/index.html>.
-
-## How You Can Protect Your Personal Information
-
-Please remember to protect your email address, login ID, password, and computer against unauthorized access. Remember to sign out of your password-protected account when you are done, and close your browser to prevent your settings from being displayed to the next user.
-
-Each member is responsible for keeping his/her login ID and password confidential. Please contact us immediately if you lose or misplace your login ID and/or password, or if you become aware of an authorized use of your login ID, password, or account information, so that we can deactivate your login ID. You will be held responsible for all activities and access to our Site - including all purchases made through our Site - that were made through that login ID and password, and that occurred before you notified us of their loss.
-
-## Changes to this Privacy Notice
-
-We may revise this Privacy Notice from time to time. Each time changes are made they will be posted prominently on our Site. Your continued use of our Site following the posting of any changes to this Privacy Notice constitutes your acceptance to these changes.
-
-If there is a material change to the terms of this Privacy Policy, AAA will provide notice and choice in accordance with the then-applicable legal requirements.
-
-## Other Privacy Policies
-
-**Surveys and/or Research Invitations**  
-Some surveys may be subject to a different privacy policy. Please review the privacy policy that is linked to a survey form before filling out a survey form. In addition, some invitations to join our customer research groups or panels may also have a different privacy policy.
-
-**Linking to Other Sites**  
-Several pages of our Site may include links to third parties' websites, such as in the case of credit card or auto loan applications, or portions of our travel site. While these websites may have a similar look and feel as our Site, they are separate websites operated by separate entities. You may also be transported to a third party's website if you click on an advertisement that is displayed on our Site. When you choose to access these third party websites, a separate window will launch, and you will leave our Site.
-
-Please remember that whenever you leave our Site to visit a linked website, you are subject to the terms, conditions, and policies of that other website. We are not responsible for the terms and conditions, or the privacy practices of other websites. Please review these provisions before proceeding.
-
-## Our Family of Companies
-
-The following companies are part of our family of companies:
-
-  * CSAA Life Insurance Agency of California, Inc.
-  * CSAA Life Insurance Agency of Nevada, Inc.
-  * Auto Partners, Inc.
-  * Auto Partners Motor Club
-  * AAA Northern California, Nevada and Utah Insurance Exchange
-  * ACA Insurance Company, which does business as AAA Nevada Fire & Casualty Company and AAA Fire & Casualty Insurance Company
-  * Western United Insurance Company, which does business as AAA Insurance Company, AAA Property & Casualty Insurance Company, and AAA Nevada Insurance Company
-  * AAA NCNU Car Care Plus, Inc.
-
-
-
-## How to Contact Us
-
-The Site [www.calstate.aaa.com](http://www.calstate.aaa.com/ "www.calstate.aaa.com") is operated by AAA Northern California, Nevada & Utah.
-
-If you have any questions or feedback about this Privacy Notice, our Site, or how our online practices affect you, please do not hesitate to contact us at [support@aaaemail.com](mailto:support@aaaemail.com). We will get back to you promptly.
-
-## How to Retain a Copy of Our Privacy Notice
-
-**How to Retain a Copy of Our Privacy Notice**  
-If you wish to retain a copy of this Privacy Notice, you may use the print function of your browser.
-
-**Supplemental Privacy Provisions  
-For visitors who request an insurance quote**
-
-The privacy practices that apply to visitors who request an insurance quote, include, **in addition to** the practices described in the Privacy Notice above, the Supplemental Privacy Provisions below:
-
-## What Additional Personal Information We Collect
-
-**What Information We Use to Issue a Quote**  
-In order to request an insurance quote from our Site, you must fill out a questionnaire posted on the Site. We collect the personal information that you provide in response to the questions. The questions we ask are necessary for us to understand your insurance needs, so that we can provide the quote. We use the personal information that you provide and information that we might have previously obtained from you through your prior business dealings with us or one of our affiliated entities.
-
-**What Information We Collect from Third Parties**  
-We may also obtain additional information from third parties. This additional information includes, for example, motor vehicle reports, or claims history reports. It may also include credit scores, if permitted by applicable State law, or if we have obtained your permission to do so. We do not ask for, or receive a full credit report, but only a credit score (also known as an insurance score).
-
-## How We Use the Personal Information We Collect
-
-**After You Request a Quote**  
-We provide you with a quote that is based on the information identified above. We also send the quote and the information used to complete the quote (for example, credit score) to our local representative of AAA Insurance for follow-up contact.
-
-**To Call, Email or Fax**  
-We may contact you about your policy and/or insurance needs. By filling out an insurance quote to our Site, you authorize representatives of the AAA Insurance products and services to contact you via email, phone or fax in order to respond to your request for insurance quotes and your insurance needs.
-
-## What Personal Information We Disclose to Third Parties
-
-**Credit Reporting Agency**  
-Where permitted by law, we may obtain credit information associated with your name from an insurance-support organization, such as a credit reporting agency. To do so, we provide your name and social security number to the credit-reporting agency so that it can adequately identify you and provide us the insurance score we requested. We do not further disclose this personal information to third parties.
-
-## Your Rights
-
-**Access to Your Information**  
-You may have access to personal information that we have recorded about you and that is related to our insurance service by submitting a written request to us at:
-
-> **AAA Northern California, Nevada & Utah Insurance Exchange**  
->  Attn: Dept. DN, Mail Stop B06W  
->  P.O. Box 22221  
->  Oakland, CA 94623-2221
-
-You must describe the kind of personal information that you want to review, and state that your request is made pursuant to this Privacy Notice. Include your full name, mailing address, and policy number if applicable. Within 30 business days from the receipt of your letter, we will respond and describe what is available, and how you may request corrections.
-
-**How to Change Your Information**  
-If you wish to correct, amend, or delete personal information in our files, you must write to us as described above, explaining your requested correction. Within 30 business days from receipt of your letter, we will make the requested correction, amendment or deletion, or we may notify you of our refusal, as permitted by law.
-
-**Supplemental Privacy Provisions  
-For visitors who use our Travel Site**
-
-The privacy practices that apply to a visitor who makes travel reservations (hotel, car, flight, vacation, or cruises) through our Site, include, **in addition to** the practices described in the Privacy Notice above, the Supplemental Privacy Provisions below:
-
-## What Personal Information We Collect
-
-**When You Make Travel Plans**  
-We receive and store any information you enter on our Web site in connection with your travel plans. This may include your first and last name, telephone number, postal and e-mail addresses, driver information, billing information (such as credit card number, cardholder name, expiration date and security code) and billing address. We also may request information about your traveler preferences, including special meals, seat location, frequent traveler or affinity numbers, and ticketing options. You may elect to provide other information, for example, gender, activities, and lifestyle preferences or preferred destinations.
-
-**Passenger Information**  
-When you make travel or other arrangements for someone else through our Site we will request personal information and travel preferences about that individual. You should obtain the consent of other individuals before providing us with their personal information and travel preferences.
-
-**Information from Other Sources**  
-We also may periodically obtain information about you from our business partners and other independent third-party sources and add it to our account information. Examples of information we may receive include: updated delivery and address information, which we use to correct our records and to facilitate proper delivery of travel information; and demographic information, which we use to better understand your potential purchasing preferences.
-
-**Online Traveler Profile**  
-You can choose to complete your online profile by providing us with travel preferences, frequent-traveler or affinity numbers, credit-card billing information, paper ticket delivery address, and other personal information. This information is primarily used to assist you in making some of your reservations without having to type in the same information repeatedly. For example, you can store your frequent-traveler or affinity numbers so that when your make a reservation with a particular airline or car rental company, we can automatically pre-fill the frequent-traveler or affinity number input box for you.
-
-## How We Use the Personal Information We Collect
+We use your personal information to facilitate the creation of and secure your account, identify you as a user in our system, provide improved administration and quality experience of our Site and services, and provide the services you request. We may send you administrative e-mail notifications, such as security or support or maintenance advisories, or contact you to solicit your feedback.
 
 We use your personal information to record your travel preferences, to make reservations or acquire travel insurance on your behalf, or to communicate with you about your travel plans.
 
 We use billing information to issue invoices, administer accounts, collect and process payments, complete the travel purchases you conduct on our Site. We use other information about you to provide you with travel confirmation and updates; to manage your account, including processing bills and providing travel notifications; to reward you as part of any reward and recognition program you choose to join.
 
-## What Information We Disclose to Third Parties
+**Insurance Customers (Prospective and Active)**
 
-We may share your information with the following entities:
+We provide you with a quote that is based on the information identified above that we collect about you. We also send the quote and the information used to complete the quote (for example, credit score) to our local representative of AAA Insurance for follow-up contact. We may contact you about your policy and/or insurance needs. By filling out an insurance quote to our Site, you authorize representatives of the AAA Insurance products and services to contact you via email, phone or fax in order to respond to your request for insurance quotes and your insurance needs.
 
-**Travel Suppliers**  
-We may share your information with those travel service providers with which you make arrangements through our site, for example, hotel, airline, cruise, or car rental companies, or activity providers. Throughout our Site, all services provided by a third-party supplier are described as such. We do not share your email address with these suppliers unless they need it to fulfill the travel reservation you have made on our Site. We restrict their use of this information to that purpose.
+##   
+What Personal Information We Disclose to Third Parties
 
-We cannot limit how these suppliers use or disclose the personal information they may collect from you. Therefore, we encourage you to review the privacy policies of any travel supplier whose products you purchase through our Site. Please note that these suppliers also may contact you as necessary to obtain additional information about you or to facilitate your travel reservation.
+We will not disclose personal information to other companies, affiliated or unaffiliated, outside of the AAA Companies for their marketing purposes without your consent. We will not disclose any personal information about our visitors, customers and former customers except as set forth below or as permitted or required by law.
 
-**Business Partners**  
-We may share your information with our business partners with whom we may jointly offer products or services. You can tell when a third party is involved in a product or service you have requested because their name will appear with ours. If you choose to access these optional services, we may share information about you, including your personal information, with those partners. You may also be transported to that third party's website. Please note that we do not control the terms, conditions, or privacy policies of these third-party business partners and recommend you evaluate their practices before deciding to provide your personal information.
+**AAA Members**
 
-**National Security**  
-In order to protect national security, and to ensure travel security, the United States Government and other governments may request access to passenger name records, which typically includes name, flight origin, flight destination, flight time, duration of flight, seat location, travel agent, form of payment, credit card numbers, travel itinerary, address, telephone number and meal requests. In response to such request, we will give access to all the information you provide at the time of making your reservation to the applicable government agencies of the countries to or from which you are traveling.
+We may share personal information with AAA Companies and with other affiliated or unaffiliated third party companies in order to market our products and services to our customers and to provide the products and services available on or through our Site or our local branch offices.
+
+We may provide personal information to our service providers so that they can perform business, professional or insurance functions for us. For example, we use third parties to assist us in hosting and operating our Site, managing our online advertising, administering our emergency roadside assistance service, providing lettershop or printing functions, processing lists or handling our surveys or sweepstakes. Our service providers are contractually bound to protect the personal information of our visitors, members, and customers with measures substantially similar to those outlined in this Privacy Policy and to use this personal information only for agreed upon purposes. For example, we share some personal information with our advertising agencies that combine it with other information that they have obtained from other sources, in order to manage and personalize advertisements to our visitors, and for market research.
+
+We may share your information with our business partners, including the AAA Companies, with whom we may jointly offer products or services. If you choose to access these optional services, we may share information about you, including your personal information, with those partners. You may also be transported to that third party's website. Please note that we do not control the terms, conditions, or privacy policies of these third-party business partners and recommend you evaluate their practices before deciding to provide your personal information.
+
+We may share your information with those travel service providers with which you make arrangements through our Site; for example, hotel, airline, cruise, or car rental companies, or activity providers. We cannot limit how these suppliers use or disclose the personal information they may collect from you. Therefore, we encourage you to review the privacy policies of any travel supplier whose products you purchase through our Site. Please note that these suppliers also may contact you as necessary to obtain additional information about you or to facilitate your travel reservation.
+
+In order to protect national security, and to ensure travel security, the United States Government and other governments may request access to passenger name records, which typically includes name, flight origin, flight destination, flight time, duration of flight, seat location, travel agent, form of payment, credit card numbers, travel itinerary, address, telephone number and meal requests. In response to such request, we will give access to all the information you provide at the time of making your reservation to the applicable government agencies of the countries to, through, or from which you are traveling.
+
+**Insurance Customers (Prospective and Active)**
+
+If you request an insurance quote, we may obtain, where permitted by law, credit information associated with your name from an insurance-support organization, such as a credit reporting agency. To do so, we provide your name and social security number to the credit-reporting agency so that it can adequately identify you and provide us the insurance score we requested. We do not further disclose this personal information to third parties.
+
+If you are an active insurance customer, we may share all of the personal information about you that we collect with affiliated and unaffiliated companies, as permitted by law. For example, (a) we may share your personal information for our everyday business purposes, such as to process your transactions, maintain your account(s), respond to court orders and legal or regulatory investigations, or report to credit bureaus; (b) we may share your personal information for our marketing purposes (for example, we may share information with our service providers to offer our products and services to you more effectively); (c) we may share your personal information in connection with our non-financial or non-insurance products and services, such as travel services; and (d) unless you are a California resident, we also may share your personal information for joint marketing with other companies. “Joint marketing” refers to a formal agreement between unaffiliated financial companies that together market financial products or services to you.
+
+**Other Disclosures**
+
+We may disclose personal information to a party or a representative of a party to a proposed or consummated sale, acquisition, transfer, merger, or consolidation of all or part of our organization. Before the consummation of any such transaction, we will disclose only such personal information as is reasonably necessary to enable the recipient to make business decisions about the proposed transaction. We will require the recipient to agree not to disclose the information unless the disclosure would otherwise be permitted by this Privacy Policy. If another company acquires our organization or our assets (including via merger, acquisition, sale of shares, sale of assets, or bankruptcy), that company will possess the information collected by us and will assume the rights and obligations regarding your information as described in this Privacy Policy.
+
+We also may disclose personal information:
+
+• To a law enforcement or other governmental authority pursuant to law; or in response to a facially valid administrative or judicial order, including a search warrant or subpoena;
+
+• To establish or exercise our legal rights; to defend against legal claims; or as required by law.
+
+• To detect or prevent criminal activity, fraud, material misrepresentation, or material nondisclosure; to protect and defend the rights, property, or safety of our organization or others; or in connection with the enforcement of our Terms & Conditions and other agreements.
+
+**Notice to California Residents - Your California Privacy Rights** (As Provided by California Civil Code section 1798.83). California’s “Shine the Light” law, Civil Code section 1798.83, requires certain businesses that share customer personal information with third parties for the third parties’ direct marketing purposes to respond to requests from California customers asking about the businesses’ practices related to such information-sharing. Alternately, such businesses may have in place a policy not to disclose a customer’s personal information to third parties for the third parties’ direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. We have such a policy in place. As described in our Privacy Policy, you can opt-out of our sharing of your personal information with third parties for the third parties’ direct marketing purposes by following the instructions in the Your Choices section below. To find out more about your opt-out rights, please review our Privacy Policy or contact us by emailing or writing to us at the address listed below. Please note that under California law businesses are only required to respond to a customer making such a request once during any calendar year.
+
+##   
+Your Choices
+
+**AAA Members**
+
+There are many opportunities for you to provide us with your email address. For example, if you contact us via email; if you fill out a form to enter a contest or request a quote; or if you elect to register with our Site. If you wish to limit emails from us go to the “Unsubscribe” portion of our promotional emails, and follow the instructions to opt-out of further communications; or, if you are a registered member, go to your My AAA Contact Information / Email Preferences or [www.aaa.com/newsletter](http://www.aaa.com/newsletter "www.aaa.com/newsletter"), and follow the instructions to change your email preferences.
+
+Your opt-out request will be processed in a timely manner; however, you may continue to receive materials while we are updating our lists. Please note that even if you have elected to unsubscribe from all of our e-newsletters and updates, we may still contact you from time to time about your account, or to provide other important notices.
+
+If you do not want us to link your website session information with your personal information for personalized advertising, click here: <http://www.omniture.com/en/privacy/2o7#optout>. Please be aware that a cookie will be used to block action tags on our Site. If you delete this cookie, your preference will be lost, and you will need to opt-out again to block our action tags.
+
+If you would like to opt out from us sharing your personal information with third parties for their marketing purposes, please contact us at (888) 413-5222 or AAA Solicitation Opt-out, 1900 Powell Street, Suite 1200, Emeryville, CA 94608.
+
+**Insurance Customers**
+
+Federal law gives our insurance customers the right to limit only (1) affiliated companies from using your personal information to market to you; (2) sharing of your personal information to unaffiliated companies to market to you; and (3) sharing of information about your creditworthiness and insurability among affiliated companies. If you are an insurance customer and wish to limit these disclosures and uses, please call us at (888) 413-5222 or visit us online and our menu will prompt you through our choices; if you do not wish to receive marketing-related emails from us on a going-forward basis, you may opt-out of receiving these marketing-related emails by following the opt-out link contained in each such email. If you are a new customer, we can begin sharing your information 30 days from the date we posted this notice. When you are no longer our customer, we continue to share your information as described in this notice. You may be placed on our internal Do Not Call List by calling (888) 413-5222.
+
+How We Protect Your Personal Information
+
+To protect personal information from unauthorized access and use, we use reasonable security measures. These measures include computer safeguards and secured files and buildings. We review the data security practices of companies with whom we share data. We authorize only those employees who need Personal Information to perform their duties to access such data.
+
+Email and Telephone Fraud - A warning about "phishing"
+
+Fraudulent emails, also known as "phishing" or "spoofing" are communications that appear to be from an insurance company, a regulatory agency, a retailer, but are not. These emails attempt to lure you into sending your personal information to a website without questioning or challenging the legitimacy of the request. We do not, and will not, at any time, request your credit information, personal account information, login name or password in an unsecure or unsolicited email or telephone communication.
+
+##   
+How You Can Protect Your Personal Information
+
+Please remember to protect your email address, login ID, password, and computer against unauthorized access. Remember to sign out of your password-protected account when you are done, and close your browser to prevent your settings from being displayed to the next user. Each member is responsible for keeping his/her login ID and password confidential. Please contact us immediately if you lose or misplace your login ID and/or password, or if you become aware of an authorized use of your login ID, password, or account information, so that we can deactivate your login ID. You will be held responsible for all activities and access to our Site - including all purchases made through our Site - that were made through that login ID and password, and that occurred before you notified us of their loss.
+
+##   
+Changes to this Privacy Policy
+
+We may revise this Privacy Policy from time to time. Each time changes are made they will be posted prominently on our Site. Your continued use of our Site following the posting of any changes to this Privacy Policy constitutes your acceptance to these changes. If there is a material change to the terms of this Privacy Policy, AAA will provide notice and choice in accordance with the then-applicable legal requirements.
+
+##   
+Other Privacy Policies
+
+Some surveys may be subject to a different privacy policy. Please review the privacy policy that is linked to a survey form before filling out the form. In addition, some invitations to join our customer research groups or panels may also have a different privacy policy.
+
+##   
+Linking to Other Sites
+
+Several pages of our Site may include links to third parties' websites, such as in the case of credit card or auto loan applications, or portions of our travel site. While these websites may have a similar look and feel as our Site, they are separate websites operated by separate entities. You may also be transported to a third party's website if you click on an advertisement that is displayed on our Site. When you choose to access these third party websites, a separate window will launch, and you will leave our Site. Please remember that whenever you leave our Site to visit a linked website, you are subject to the terms, conditions, and policies of that other website. We are not responsible for the terms and conditions, or the privacy practices of other websites. Please review these provisions before proceeding.
+
+##   
+How to Contact Us
+
+The Site is operated by AAA Northern California, Nevada & Utah. If you have any questions or feedback about this Privacy Policy, our Site, or how our online practices affect you, please do not hesitate to contact us at [AAAOptOut@aaaemail.com](mailto:AAAOptOut@aaaemail.com). We will get back to you promptly.
+
+##   
+How to Change Your Information
+
+**AAA Members**
+
+If you wish to correct, amend, or delete personal information, you must contact us at [AAAOptOut@aaaemail.com](mailto:AAAOptOut@aaaemail.com), explaining your requested correction. We will make the requested correction, amendment or deletion, or we may notify you of our refusal, as permitted by law.
+
+**Insurance Customers (Prospective and Active)**
+
+You have the right to see and, if necessary, correct Personal Information about you. This requires a written request, both to see personal information about you and to request correction. We do not have to change our records if we do not agree with your correction, but we will place your statement in our file. If you would like a copy of personal information about you, please write us at AAA Solicitation Opt-out, 1900 Powell Street, Suite 1200, Emeryville, CA 94608, and include your membership number or one of your insurance policy numbers.
+
+**Privacy Policy Revised: August 2013**
+
+**View our[previous Privacy Policy](https://web.archive.org/about-aaa/csaa-web-site-privacy-policy) and a high-level [summary of the changes](https://web.archive.org/about-aaa/aaa-privacy-policy-summary-of-changes) we made to the Privacy Policy.**
