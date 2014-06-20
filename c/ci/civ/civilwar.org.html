@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the civilwar.org privacy policy that was archived on 2013-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131219132205id_/http%3A//www.civilwar.org/aboutus/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the civilwar.org privacy policy that was archived on 2014-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140620110204id_/http%3A//www.civilwar.org/aboutus/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -18,11 +18,11 @@
 <script type="text/javascript">
 if (typeof CONVIO=="undefined" || ! CONVIO) { var CONVIO = {}; }
 CONVIO.pageUserName = '3022:0';
-CONVIO.pageSessionID = '325FB2016D9D3ABDB97304B08C0EA93F.app337b';
+CONVIO.pageSessionID = '55BA5F999F5958B17ED1A2FF26A7AA27.app322b';
 CONVIO.pageSessionName = 'JSESSIONID';
 </script>
 
-<script type="text/javascript" src="/system/auth/session-status.jsp?nocache=1387459325434"></script>
+<script type="text/javascript" src="/system/auth/session-status.jsp?nocache=1403262124271"></script>
 <script type="text/javascript">
 
 // The original referrer may have been lost from the session-status.jsp javascript redirect.
@@ -96,6 +96,10 @@ deleteCookie("CONVIO.referrer");
 <script type="text/javascript" src="http://www.civilwar.org/assets/scripts/fancybox/jquery-fancybox-pack.js"></script>
 <script type="text/javascript" src="http://www.civilwar.org/assets/scripts/fancybox/helpers/jquery-fancybox-thumbs.js"></script>
 
+<!-- Moment.js -->
+<script type="text/javascript" src="http://www.civilwar.org/assets/scripts/moment/moment-min.js"></script>
+<script type="text/javascript" src="http://www.civilwar.org/assets/scripts/moment/twix.js"></script>
+
 <link rel="stylesheet" href="http://www.civilwar.org/assets/scripts/fancybox/jquery-fancybox.css" type="text/css" media="screen">
 <link rel="stylesheet" href="http://www.civilwar.org/assets/scripts/fancybox/helpers/jquery-fancybox-thumbs.css" type="text/css" media="screen">
 
@@ -149,6 +153,7 @@ window.fbAsyncInit = function() {
 			$('.socialmedia').css('display','block');
 			$('.socialmedia.loading').css('display','none');
 			$('.socialmedia .fb-like span').css('width','80px'); //Fix Facebook's broken width calculation
+			$('.fb_iframe_widget_lift').attr('height','30px'); //Fix Facebook's broken iframe height
 		},100);
 	});
 };
@@ -674,8 +679,8 @@ CONVIO.user.isAnonymous = true;
   
 
 <div>
-	<img class="acreage" alt="36,000" src="http://telegraph.civilwar.org/cmsscripts/acres/?acres=36000">
-	<h2 class="acres">36,000 Acres Saved</h2>
+	<img class="acreage" alt="38,500" src="http://telegraph.civilwar.org/cmsscripts/acres/?acres=38500">
+	<h2 class="acres">38,500 Acres Saved</h2>
 	<a href="http://www.civilwar.org/land-preservation/saved-land.html" class="acres">Help Save History</a>
 </div>
 
@@ -723,7 +728,7 @@ CONVIO.user.isAnonymous = true;
 </div>
 
 <div class="footer">
-<div class="copyright">Copyright © 2013 Civil War Trust</div>
+<div class="copyright">Copyright © 2014 Civil War Trust</div>
 <ul>
 	<li><a href="http://www.civilwar.org/resources">Resources</a> | </li>
 	<li><a href="#login-form" rel="ibox">Member Center</a> | </li>
@@ -802,7 +807,24 @@ if (back != null)
   })();
 </script>
 
+<script type="text/javascript">
+//Hack for Chromium OSX background image bug
+$(document).ready(function() {
+	if (/chrome/.test(navigator.userAgent.toLowerCase())) {
+		$('*').each(function() {
+			var $this = $(this);
+			var oldBackgroundImage = $this.css('backgroundImage');
+			if (oldBackgroundImage != "none") {
+				setTimeout(function() {
+					$this.css('backgroundImage', oldBackgroundImage)
+				}, 1);
+			}
+		});
+	}
+});
+</script>
 
-<!-- 10.12.0.41:8901 -->
+
+<!-- 10.12.0.42:8901 -->
 
 <script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
