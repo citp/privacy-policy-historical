@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catherines.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216041358id_/http%3A//catherines.lanebryant.com/content.jsp%3FpageName%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catherines.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620083359id_/http%3A//catherines.lanebryant.com/content.jsp%3FpageName%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # Catherines
 
