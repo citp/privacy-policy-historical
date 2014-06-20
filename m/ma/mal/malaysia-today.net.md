@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the malaysia-today.net privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229021545id_/http%3A//www.malaysia-today.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the malaysia-today.net privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620102700id_/http%3A//www.malaysia-today.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Your Source of Independent News
 
-[](https://web.archive.org/web/20131229021545id_/http://www.malaysia-today.net/privacy-policy/ "Print page")[](https://web.archive.org/web/20131229021545id_/http://www.malaysia-today.net/privacy-policy/ "PDF page")[](https://web.archive.org/web/20131229021545id_/http://www.malaysia-today.net/privacy-policy/ "Email page")
+[](https://web.archive.org/web/20140620102700id_/http://www.malaysia-today.net/privacy-policy/ "Print page")[](https://web.archive.org/web/20140620102700id_/http://www.malaysia-today.net/privacy-policy/ "PDF page")[](https://web.archive.org/web/20140620102700id_/http://www.malaysia-today.net/privacy-policy/ "Email page")
 
 At Malaysia Today we appreciate your readership and value your personal privacy. We respect the personal nature of the information you provide us on our web site and acknowledge the importance of protecting this information. You may provide personal information to Malaysia Today in one of three ways:
 
