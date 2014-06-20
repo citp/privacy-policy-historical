@@ -1,108 +1,129 @@
-> *The following text is extracted and transformed from the producer.com privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110183345id_/http%3A//www.producer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the producer.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620181526id_/http%3A//www.producer.com/privacy) for the most accurate reproduction.*
 
 # Terms of Use and Privacy Policy - The Western Producer
 
-By using this Website’s user-contribution features, including comments, photo galleries, or any other feature, you agree to abide by the terms of this agreement. Please read this agreement in its entirety because it contains a lot of useful information that will help you better understand the rules and general “good manners” that are expected when contributing content to this Website.
+**Privacy Policy**
 
-We want to encourage an open exchange of information and ideas. But if you use inappropriate language (even when typographically obfuscated), or make potentially slanderous or libelous comments when using this site and its features, or engage in ad hominem attacks on fellow commenter’s, people mentioned in stories, contributors or any employee of Producer.com or Glacier Media Group, we reserve the right (but assume no obligation) to remove any and/or all of your contributions. If you become a problem for us or our site’s other users we may ban you from using our services and Websites. (If your account has been banned, and you have a reasonable case to make regarding reinstating your account, please email [webadmin@producer.com](mailto:webadmin@producer.com)
+Thank you for visiting the [www.producer.com](http://www.producer.com/) website, a division of Western Producer Publications Partnership. (“ **Western Producer** ”, “ **we** ”, “ **us** ” or “ **our** ”). This Privacy Policy (“ **Policy** ”) describes the personal information that we collect from or about you when you use our website, web-based services, products and mobile applications, how we use that information, and to whom we disclose it. “ **Personal information** ” means any data that identifies a user as an individual or is capable of doing so, and does not include general, statistical or aggregated information. Examples of personal information that we may collect, use and disclose include your contact information, your billing information, and other information that you may provide to us in conjunction with your use of our website and services.Please note that this Policy does not apply to personal information that we collect, use or disclose for journalistic purposes.
 
-We believe it is absolutely possible for people from a variety of points of view to discuss issues in a civil manner; and we reserve the right, but assume no obligation, to remove comments and ban accounts of users that foster incivility.
+**Please read this Policy carefully. If you do not agree with this Policy, you should not access or use our website or application. This Policy should be read in conjunction with the[www.producer.com](http://www.producer.com/) website Terms of Use, into which it is incorporated by reference**.
 
-It is important to know that we DO NOT review every contribution made on this Website. More than likely, you will see user contributions before anyone on staff here does. This may include information and opinions from a variety of individuals and organizations other than official content from this Website and its staff. We do not endorse or guarantee the accuracy of any user contribution, regardless of whether it comes from a user, celebrity, “expert,” or other source. Responsibility for what is posted or contributed to this site is the sole responsibility of each user. By contributing to this Website, you agree not to post any defamatory, abusive, harassing, obscene, sexual, threatening or illegal material, or any other material that infringes on the ability of others to enjoy this site, or that infringes on the rights of others.
+This Policy was last updated on April 4, 2014. We reserve the right to revise this Policy at any time and, as such, you should review its terms each time that you use [www.producer.com](http://www.producer.com/) Any changes to this Policy will be promptly communicated on this page, but will not go into effect until at least five (5) days after they are posted.
 
-You agree to NOT use this Website to violate any copyrights, trademarks, or other intellectual property. By contributing to this Website, you are representing that you are the owner of the material, or are making your submission with the explicit consent of the owner. Submitting material that is the property of another without the specific consent of its owner is not only a violation of this agreement, but may also subject you to legal liability for infringement of copyright, trademark, or other intellectual property rights.
+**Accountability and Openness / Compliance**  
+Western Producer is responsible for personal information under our control. We have established policies and procedures to effectively safeguard any confidential personal information that we have on file or which we collect, and to deal with complaints and inquiries. We only collect personally identifiable data when it is voluntarily submitted by you through the use of our websites and applications, and are committed to maintaining the accuracy, confidentiality and security of your personal information. We will ensure that you have access to information regarding the policies and procedures that we use to manage your personal information.
 
-Any user who feels that a contribution to this Website is objectionable is encouraged to click the “Suggest removal” link related to the specific post or posts. We have the ability to remove objectionable messages and we will make every effort to do so — within a reasonable time frame — if we determine that removal is necessary. We reserve the right to remove postings from usernames which themselves might be considered objectionable. We also reserve the right to ban accounts with usernames which are in themselves objectionable.
+Western Producer has designated a privacy officer (“ **Privacy Officer** ”) who is accountable for our compliance with this Policy, and for ensuring that information about our policies and practices relating to the management of personal information is easily accessible. All questions or concerns regarding this Policy and our compliance with it should be directed to the Privacy Officer in writing, and sent by email to [privacy@producer.com](mailto:privacy@farmmedia.com) or by post to:
 
-[www.producer.com](http://www.producer.com/) may ban any user, or delete any post, or take any action with regard to its Web site related to user submitted content. By contributing to this Website, you:
+Privacy Officer  
+Western Producer Publications Partnership  
+P.O. Box 2500, Station Main  
+Saskatoon, Saskatchewan  
+S7K 2C4
 
-Agree not to solicit others. You agree not to contribute for the purposes of advertising or to solicit anyone to buy or sell products or services, or to make donations of any kind, or to promote other web sites, without our express written approval, or where expressly permitted.
+Every complaint or challenge regarding our compliance with this Policy will be investigated, and where a deficiency is found to exist, we will take appropriate measures to address it. This may include amending our policies and procedures as necessary.We will also cooperate with regulatory authorities to resolve any complaints that cannot be resolved between us and an individual user. Users may contact the Office of the Privacy Commissioner of Canada at 30 Victoria Street, Gatineau, Quebec K1A 1H3 or **www.priv.gc.ca/complaint-plainte/pipeda_e.asp** **.**
 
-Agree not to have multiple personalities on our boards. Each user may have only one username. Use or possession of multiple usernames may result in our banning your user account or accounts.
+**Consent**  
+By submitting your personal information, registering with us, or using our applications or websites, you signify your agreement to the terms and conditions of this Policy and to our use of your personal information. You may change or withdraw your consent to the collection, use and/or disclosure of your personal information at any time by contacting the Privacy Officer in writing at either of the address listed above. In some circumstances, a change or withdrawal of consent may affect your ability to use an application and/or our ability to provide you with information, products or services.
 
-Agree not to create usernames which are objectionable, even those which utilize typographical obfuscations.
+**Collection and Retention of Information**  
+We collect personal information only to the extent that it is necessary for the purposes set out below (see: **Purpose – Why We Collect, Use and Disclose Information** ). In most cases, we will collect personal information directly from you when you interact with us with respect to our websites, applications, or any other product or service that we offer. For example, we may request personal information when it is needed to provide certain services, such as granting access to a website reserved for paid subscribers, to enable you to purchase products and services, or to allow you to enter a contest or to take advantage of an online promotion. Occasionally, we may collect personal information from a third party based on your consent or as otherwise permitted by law. Personal information is always collected using means that are fair and lawful.
 
-Agree not to upload, post, distribute, e-mail or otherwise publish or make available on this Website any libelous, defamatory, obscene, harmful, vulgar, threatening, tortuous, harassing, abusive, invasive of another user’s privacy, hateful, racially or ethnically objectionable, or otherwise illegal material;
+Personal information that is collected may include, but is not limited to, your contact information (such as name, address, email address, billing and shipping information, email address and telephone number) and, where applicable, credit card or other payment information. Subject to any legal or accounting requirements, we will retain personal information only as long as necessary to fulfill the purposes for which it was collected. Personal information that is no longer required will be destroyed, erased or made anonymous, although copies of deleted information may continue to exist on back-up media.
 
-Agree not to upload, post, distribute, e-mail or otherwise publish or make available on this Website any content that you do not have a right to make available under any law or under contractual or fiduciary relationships (such as inside information, proprietary and confidential information learned or disclosed as part of employment relationships or under non-disclosure agreements);
+Users may visit our website without telling us who they are, or revealing any information about themselves. However, like many organizations’ websites, our web server automatically logs certain non-identifying information related to a user’s visit to the website, including the Internet Protocol (IP) address of the user’s computer, the user’s Internet service provider (ISP), the type and version of the browser that the user is using, the date and time the user accessed our website, the Internet address of the website from which the user linked directly to our site, the operating system that the user is using, and the pages of the website that the user has visited.   We make no attempt to link this information with the identity of individuals visiting our website without express permission. We may, however, review server logs and anonymous traffic for system administration and security purposes, for example to detect intrusions into our network, for planning and improving web services, and to monitor and compile statistics about website usage. The possibility therefore exists that server log data, which contains users’ IP addresses, could in instances of criminal malfeasance be used to trace and identify individuals. In such instances, we may share raw data logs with the appropriate authorities for the purpose of investigating security breaches.
 
-Agree not to upload, post, distribute, e-mail or otherwise publish or make available on this Website any content that infringes any patent, trademark, trade secret, copyright or other proprietary rights (“Rights”) of any party;
+If you provide comments or other feedback to us, you agree that such comments or other feedback become the property of Western Producer, and we may use and disclose them for any purpose provided that we do not associate them with your personally identifiable information.
 
-Agree not to upload, post, distribute, e-mail or otherwise publish or make available on this Website any unsolicited or unauthorized advertising, promotional materials, “junk mail,” “spam,” “chain letters,” “pyramid schemes,” or any other form of solicitation; and
+**Cookies and Web Beacons**  
+A “ **cookie** ” is a small piece of information stored on your computer by a web page. It is used to identify you to the web server. It tells the server who you are when you return to a page on the same website. Your browser will only send a cookie back to the domain that originally sent it to you. A cookie cannot run any programs, deliver any viruses, or send back information about your system.
 
-Agree not to upload, post, distribute, e-mail or otherwise publish or make available on this Website any material that contains software viruses or any other computer code, files or programs designed to interrupt, destroy or limit the functionality of any computer software or hardware, telecommunications, or other equipment.
+We may use cookies to determine your access privileges on our websites, to complete and support a current activity, and to track website usage.
 
-Agree to not impersonate anyone on this Website;
+Most web browsers automatically accept cookies, but if you do not wish to have cookies on your system, you should adjust your browser settings to decline them or to alert you when cookies are being sent.   If you decline cookies, you will still be able to use the website or application, but your ability to access certain features and functions may be affected.
 
-Agree not to knowingly give out any private information about other users. Users who engage in the behavior of continually trying to guess other user’s private information may be banned and their account and contributions removed.
+Some of our web pages contain an invisible electronic image known as a “ **web beacon**.” Web beacons are similar in function to cookies, but allow websites on different domains to share information. We may use web beacons to transfer your subscription access information between our websites and domains. Web beacons do not transmit any personal information that we collect to any websites that are not owned by Western Producer or its [affiliates](http://www.farmmedia.com/).
 
-As noted earlier, if this type of action is thought to be happening on this Website, we reserve the right to reveal your identity (or whatever information we may know about you, including your IP address(es)) in the event of a complaint or legal action arising from this type of action. Your posting of content and your thoughts on [www.producer.com](http://www.producer.com/) automatically gives [www.producer.com](http://www.producer.com/) a royalty-free, perpetual, irrevocable, worldwide, non-exclusive right and license to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, disseminate, perform, transmit and display such content (in whole or part) and/or to incorporate it in other works in any form, media, or technology now known or later developed for the full term of any rights that may exist in such content. If you are not the owner of such content, you shall be deemed to have warranted that the owner of the content has expressly granted to you a similar license.
+**Purpose – Why We Collect, Use and Disclose Information**  
+We will identify the purposes for which we collect personal information before or when we request the information. We will not collect personal information which is not necessary and, except as specified below, will not use or disclose personal information for any purpose other than the purpose(s) for which it was collected without first obtaining your consent. The information that we collect is used and disclosed only for business purposes. These include:
 
-We retain the right to revoke access privileges of anyone who we believe has violated any of the terms outlined here or if such user is deemed a problem to either the site or its other users. We also reserve the right to ban any user and his or her comments from showing up on this Website, without notice.
-
-RSS Use Policy
-
-By accessing [www.producer.com](http://www.producer.com/) Really Simple Syndication (“RSS”) feeds, you are consenting to be bound by the following terms and conditions which govern your use of the RSS feeds. If you do not agree to all of the terms and conditions, do not access our RSS feeds.
-
-The RSS feeds are provided solely for the purpose of allowing individuals to view headlines from [www.producer.com](http://www.producer.com/) within news readers and blogs for their personal, noncommercial use. Any other uses of the RSS feeds are strictly prohibited.
-
-Producer.com retains all ownership and other rights in the RSS feeds, including all rights under copyright. You may not edit or modify the text, content, or links supplied in the RSS feeds.
-
-You may not display the RSS feeds in any manner that does not permit immediate linking to, redirection to, or delivery of the applicable [www.producer.com](http://www.producer.com/) web page. You may not frame or otherwise control the browser window, if any, in which the[www.producer.com](http://www.producer.com/) web page opens, nor may you insert any jump pages or other intermediate or interstitial pages between the RSS link and the applicable [www.producer.com](http://www.producer.com/) web page. No content, including any advertisements or other promotional content, may be added to the RSS feeds.
-
-Producer.com reserves the right to cease its distribution of any or all of the RSS feeds and/or to change the content or formatting of the RSS feeds at any time, at its sole discretion, and without notice to you. Producer.com further reserves the right to require you to cease displaying, distributing or otherwise using any or all of the RSS feeds for any reason, including but not limited to, your commercial use of the RSS feeds or any other violation of these terms and conditions.
-
-Producer.com PROVIDES THE RSS FEEDS ON AN “AS IS” AND “AS AVAILABLE” BASIS WITHOUT WARRANTY OF ANY KIND. THE SITE NAME SHALL NOT BE LIABLE FOR YOUR USE OF THE RSS FEEDS OR FOR ANY OF YOUR ACTIVITIES IN CONNECTION WITH THE RSS FEEDS. TO THE FULLEST EXTEND ALLOWED, Producer.com DISCLAIMS ALL IMPLIED WARRANTIES, INCLUDING WITHOUT LIMITATION WARRANTIES OF MERCHANTABILITY, NON-INFRINGEMENT, FITNESS FOR A PARTICULAR PURPOSE, PERFORMANCE, COURSE OF DEALING OR USAGE OF TRADE, ACCURACY, OR RELIABILITY.
-
-Western Producer Publications views customer information, including name and address information, as a proprietary trade secret. We have very strict policies designed to protect such personal information.
-
-We do occasionally share names and addresses with reputable third parties, but do so under strict guidelines. We honour “do not share” share requests. Any form with which we collect personal information contains a “do not share” option. If personal information is collected without such an option being present, then the information collected is considered not for sharing. Where a person has completed more than one form, and where one has a do not share request and others do not, we rely on the most recently completed form. In other words, we try to do whatever you most recently have told us to do.
-
-While we occasionally share name and address information, we are committed to the following policies:
-
-  1. We will not share phone numbers with anyone.
-  2. We will not share email addresses with anyone.
-  3. We will not honour “confidentiality agreements” that require us to keep secret from our customers how their name and address have been shared. If you ask us if we have shared your name with a business or organization, we will tell the truth.
-  4. We will not share even the name and address of anyone who has asked us not to do so.
-  5. We will not share information with anyone whose legitimacy is not clear in our own minds.
-  6. Because they are not subject to Canadian privacy laws or practices, Western Producer Publications will not share any personal customer information with non-Canadian persons or businesses.
-  7. Membership information may be collected but will never be disclosed.
+  *    to enable you to register to access restricted areas of our websites and/or to subscribe to our applications and services, and to communicate with you regarding their use ;
 
 
-
-**NOTE:**  By their nature some promotions require that we share your information. For example, if we have a sponsored contest, we must share your information with the sponsors so that you are able to receive your prize. If such sharing involves more than name, address and phone number, we will explicitly say so in the contest rules.
-
-### What information do we collect?
-
-We collect four kinds of personal information:
-
-  1. Information necessary for the normal conduct of business. We must have customers’ names, addresses and phone numbers to provide service. We must have credit information for those who require credit, including credit numbers for those using them to purchase our services. We must know if a customer is an agricultural producer, a business or other in order to provide the specific services we offer. We use customer phone numbers as a unique identifier to avoid duplicating accounts. The phone number is so important to our business operation that we make a complete commitment to never share phone numbers from the customer file with any third party for any reason.
-  2. Information helpful in the conduct of business. We ask a great many questions of customers in the course our relationship. These questions include, for  _The Western Producer_ , what kinds of crops they grow or livestock they raise. For  _Acreage Life_ , we ask about interests and hobbies related to the acreage. We also on occasion ask about details of producers’ operations such as input costs. As set out below, the primary use of this information is in the development and management of our own publications and services. WE NEVER SHARE ANY PERSONAL FINANCIAL INFORMATION provided to us by subscribers in response to such questions.
-  3. “Byproduct information.” We obtain some personal information as a byproduct of other activities. An example would be when an advertiser provides us a list of their customers so that we may mail a special offer or do a match (“merge-purge”) against our own list to eliminate duplication. Our purpose is to deliver something on behalf of a customer, and as a byproduct of doing that we end up with names and addresses. Byproduct information is NOT maintained. Personal information received from third parties is destroyed as soon as the purpose for which we received it has been served. So, in the example where an advertiser wants an insert to be placed in the newspapers only of its own customers, once we have completed the necessary merge-purge and successfully delivered the insert, that customer file is destroyed.
-  4. Internet operation information. This is information that we may obtain for the purpose of operating our internet web site. We may use cookies to store your preferences or ease your access. For example, if we design a web page for the exclusive use of subscribers, we would have to implement password protection. To make it easier for you to log on, we could store your name and password in a cookie on your computer. Note that cookies are NOT required to use our web site but are available for your convenience only. We do not maintain any file of information on your particular use of our web site and we do not provide such information to anyone else. We do aggregate usage information to ensure we know what parts of the site are being used. We require legitimate email addresses as a condition of participation in or access to a number of internet features. We commit never to share email addresses obtained in this way.
+  *    to establish, maintain and manage business relations with you so that we may provide you with the information, products and/or services that you request;
 
 
-
-### How do we use the information we collect?
-
-  1. Our primary use of the information we collect is for internal business purposes. For example, it is very important that we have current, complete and accurate addresses and phone numbers so that we may properly deliver the services for which our customers pay. As well, it is important for us to know the kinds of agricultural activities our subscribers engage in so that we can ensure we are fully meeting their information needs. An example is the addition of the Livestock special section to the weekly newspaper. Our information gathering demonstrated that we had a large and active livestock readership.
-  2. We may use the information we collect to contact you ourselves. We frequently contact subscribers and advertisers for a variety of reasons, including conducting surveys, testing the quality of our service and to encourage customers to renew their accounts.
-  3. We may employ a third party to contact subscribers or advertisers for the purposes described above. We have a regular market research program that involves employing independent firms to survey agricultural producers, including non-customers. It is important for us to use outside firms so that we can be confident the information we receive is reliable. It also allows subscribers to be confident that their answers are confidential. When we use outside firms for research, subscriber identities are not revealed with their responses so respondents can be fully frank in their answers.
-  4. We also use outside suppliers to assist in obtaining customer orders and renewals. These suppliers are contractually committed to keeping your personal information protected and are prohibited from sharing this information with anyone. As these firms are acting as our agents, we do not view this as sharing your information. Our agents, including our subscriptions and advertising contractors, are bound to return any paper forms of customer information and to destroy any electronic forms, once the purpose of their possession of the information has been served.
-  5. We may use the aggregated information we collect in news stories, promotional materials or other activities. “Aggregated” means the information from many individuals is added together, for example as in the statement “There are 27,000 Western Producer subscribers who report raising livestock.” No individual is identified in such stories or promotional materials.
+  *    to provide you with personalized Content, and to maximize our ability to provide you with information that is useful and relevantto your operation;
 
 
+  *    to process, track and complete online transactions, and to deliver items purchased on-line;
 
-### Employee Information
 
-Personal information about employees of Western Producer Publications is held in strict confidence. We collect only such employee information as is required for employment purposes. Information for workplace-related social activities may be gathered by the employee social committee, including things like birthdays. Due to their workplace context, such activities are subject to privacy protection under this policy and the information collected may only be used for the purpose intended and agreed to by the affected employees. Employee information is not shared with third parties except as provided by law and in the due intended course of business, including for example, exchanges related to the employee union. Information about an employee may be held as confidential from the employee if the information also includes or serves to divulge third-party information of a private, commercial or confidential nature. Except as required by applicable law, nothing in this policy is intended to prevent the withholding of any information from employees where such is deemed to be in the interest of the company.
+  *    market research;
 
-### Are there exceptions?
 
-We do not have exceptions to the policies detailed above, except as compelled by law. However, there are circumstances that do not fall within this policy of which you should be aware. For example, while we commit not to share phone numbers we cannot prevent the use of the publicly distributed phone books. We ourselves have used public directories of phone numbers to compile lists for the purpose of making subscriptions sales. To the extent that the practice remains acceptable, we must make use of it in our competitive industry. It is important to be clear that our privacy policy applies only to personal information we ourselves collect directly and indirectly from our own customers. If we use third-party sources we rely upon those sources for the permissibility of using the list. Note however, that we will always disclose such sources on request of any person contacted through them.
+  *    to obtain feedback regarding our websites and applications, and any products and services offered through our websites;
 
-Notwithstanding this policy, the company reserves the right to withhold any information from anyone where it is both in the interest of the company to withhold and not inconsistent with applicable law. In other words, circumstances could arise where we feel we have to keep certain information secret and if that happens and the law allows us to, we will keep it secret. Such a situation has never arisen and may never arise. We include this statement only to ensure you understand that there are no absolutes and care should be exercised in understanding the coverage of all privacy policies, including ours.
 
-Western Producer Publications privacy policy exceeds the standards set by government and industry. Should you observe a gap in this policy or its practice, please contact us immediately.
+  *    to verify that any information submitted by you is accurate and complete;
 
-Western Producer Publications is committed to promptly dealing with any complaints or concerns in regard to privacy issues. Your may also review and request corrections to personal information Western Producer Publications has in its files. Federal privacy laws require such requests to be in writing. This avoids strangers making requests in your name. You may write to Marketing Manager, PO Box 2500, Saskatoon, SK, S7K 2C4. You should include your Western Producer account number and your complete name, address and phone number for identification purposes.
+
+  *    to communicate with you and to create a record of your involvement with us;
+
+
+  *    to track your interests and preferences in order to customize and enhance your use of the Services;
+
+
+  *    to send you complimentary issues of our printed publications, and to advise you about contests, promotions and other special offers;
+
+
+  *    to conduct polls and surveys;
+
+
+  *    to provide you with information and promotional materials regarding Western Producer and its [affiliates](http://www.farmmedia.com/), and our products and services;
+
+
+  *    to provide you with advertisements, solicitations and information regarding third party products and services that may be of interest to you;
+
+
+  *    internal business purposes, such as administering or improving our websites and applications;
+
+
+  *    to protect us against error, fraud, theft or damage to our goods, our business or our property;
+
+
+  *    to comply with any legal, accounting and regulatory requirements, including reporting requirements, applicable laws, and any search warrants, subpoenas or court orders;
+
+
+  *    any other reasonable purpose for which you provide consent.
+
+
+
+We may collect, use or disclose your personal information without your knowledge or consent where we are permitted or required to do so by applicable law, government request or court order, or based on our good faith belief that it is necessary to do so in order to comply with such law, request or court order, or to protect our assets, the users of our websites or applications, or the public.
+
+**Disclosure to Third Parties**  
+Western Producer may share your information with its [affiliates](http://www.farmmedia.com/), who may use it only in accordance with this Policy. Your personally identifiable information is never sold, and will not be shared with third parties unless we provide you with both prior notice and choice.
+
+You acknowledge that, in the course of our supply of products and services to you, we may delegate our authority to collect, access, use, and disseminate your information to third party subcontractors. Third party subcontractors may include web hosts, payment processors, and delivery and logistics providers, social network integrators, and membership vendors. If we transfer any personal information to a third party subcontractor, we will provide the subcontractors only with the information needed to perform the subcontracted service, and will use appropriate contractual or other means to provide a comparable level of protection while the information is being used by them. However, you agree not to hold us liable for the actions of any third party subcontractor, even if we would normally be held vicariously liable for their actions, and understand that you must take legal action against them directly should they commit any tort or other actionable wrong against you.
+
+In some cases, your subscription to our products or services may be owned by your employer or another person who has purchased it on your behalf. By registering to use a subscription which has been paid for by another person, you acknowledge and agree that we may share information about the usage of the subscription with the party who paid for it.
+
+**Safeguards – How Information is Protected**  
+We have implemented reasonable physical, organizational, contractual and technological security measures to protect personal information in our possession or under our control from loss or theft, and from unauthorized access, disclosure, copying, use or modification, regardless of the format in which the information is held. The safeguards applied will depend on the sensitivity of the personal information, with the highest level of protection given to the most sensitive personal information.   We use user IDs, passwords, and encryption technology, maintain our servers and paper files in locked premises, and restrict the employees and contractors who have access to personal information to those having a “need to know” and who are bound by confidentiality obligations, in order to ensure that information is handled and stored in a confidential and secure manner. Any credit card information that you submit will not be stored on our servers, but rather will be sent to a PCI Level 1-compliant payment processor for storage. When destroying personal information, we delete electronically stored personal information and shred any tangible materials containing personal information.   While we will endeavour to destroy all copies of personal information, you acknowledge that deleted information may continue to exist on back-up media but will not be used unless permitted by law.
+
+We will continually review and update our security policies and controls as technology evolves. However, no security technology can be guaranteed to be failsafe. Using the Internet or other public means of communication to collect and process personal data may involve the transmission of data on an international basis and across networks not owned and/or operated by us. Therefore, by downloading and using the Services and/or communicating electronically with us, you acknowledge and agree to our processing of personal information in this way and agree that we are not responsible for any personal information which is lost, or which is altered, intercepted or stored by a third party without authorization.
+
+**Accuracy / Access**  
+Western Producer has a responsibility to ensure that all personal information contained in our records or which is disclosed to third parties for the purposes described above is accurate, complete and up-to-date. You may make a request in writing for access to your personal information. We will inform you of your personal information held by us, and provide an account of the use that has been made of the information, as well as identify any third parties to whom the information has been disclosed. You may have reasonable access to your personal information, and if you demonstrate the inaccuracy or incompleteness of personal information, the information will be amended as appropriate. You should advise us immediately if you discover inaccuracies in our data, if your personal information changes, or if you wish to have your information removed from our files. All notices and requests should be in writing and sent to the Privacy Officer at the one of the addresses set out above (see: **Accountability and Openness / Compliance** ).
+
+**International Transfer and Storage of Information**  
+You acknowledge and agree that your personal information may be transmitted, transferred, processed, and/or stored outside of Canada, including in the United States.  We will use reasonable means to ensure that your information is protected, but cannot guarantee that the laws of any foreign jurisdiction will accord the same degree of protection as the laws of Canada. By submitting your personal information to us, you consent to the transmission, transfer, processing and/or storage of your personal information outside of Canada.
+
+**Third Party Content and Links to other Websites**  
+Our websites may contain optional links to advertiser and other third party Internet sites and services. You acknowledge that these third parties may collect data from users or their computers. The accessing and use of third party websites is at your own risk, and we cannot assume responsibility for the privacy practices, policies or actions of the third parties who operate those websites. This Policy applies only to Western Producer websites and applications, and we encourage you to review the privacy policies contained on each Internet site and in each application that you use.
+
+**Minors**  
+Minors may not use the website or any application unsupervised, and we request that minors do not submit any personal information to us. If you are under the age of majority in your jurisdiction, you may only use the application or website in conjunction with and under the supervision of an adult.   Western Producer does not knowingly collect personal information from minors.
+
+**Governing Law  
+**You agree that your access to and use of the Western Producer websites and applications, including this Policy, is governed exclusively by the laws of the Province of Saskatchewanand the federal laws of Canada applicable therein (excluding conflicts or choice of laws principles).
