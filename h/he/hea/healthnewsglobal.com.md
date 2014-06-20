@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthnewsglobal.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213034207id_/http%3A//healthnewsglobal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthnewsglobal.com privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621015100id_/http%3A//healthnewsglobal.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | HealthNewsGlobal.com
 
