@@ -1,19 +1,21 @@
-<!--The following is the downloaded HTML source of the vecteezy.com privacy policy that was archived on 2013-11-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131121212403id_/http%3A//www.vecteezy.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vecteezy.com privacy policy that was archived on 2014-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140620034724id_/http%3A//www.vecteezy.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" xmlns:fb="http://developers.facebook.com/schema/" xmlns:og="http://opengraphprotocol.org/schema/" class="no-js"><!--<![endif]--><head>
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" async="" src="https://cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
     <meta name="viewport" content="width=1024">
     <title>Vecteezy! - Download Free Vector Art, Stock Graphics &amp; Images...</title>
 <meta content="Free Vector Art - Vecteezy is a HUGE collection of free vector art, vector graphics, illustrator brushes, Vector Wallpaper Backgrounds, Silhouettes and more!" name="description">
     <link href="/favicon.ico" rel="shortcut icon">
-    <link href="http://static.vecteezy.com/assets/application-b55cf7af7d97e3fc1d014600ea7c3e86.css" media="screen" rel="stylesheet" type="text/css">
-    <script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" async="" src="https://cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://static.vecteezy.com/assets/application-b34d691f1b3452f90ebbd7bddee61f59.js" type="text/javascript"></script>
+    <link href="http://static.vecteezy.com/assets/application-a745c23fce5e72dab0a5596059dad9f1.css" media="screen" rel="stylesheet" type="text/css">
+    <script src="http://static.vecteezy.com/assets/application-808933791a696b0d028d6b58a257391d.js" type="text/javascript"></script>
     <link href="http://feeds.feedburner.com/eezyinc/vecteezy-images" rel="alternate" title="RSS" type="application/rss+xml">
+
+
     <meta name="google-site-verification" content="0yon4_M3tBq0iRmgmr_r5Ms23qCdrXqPuXEmNmTX9nM">
 <meta name="msvalidate.01" content="9E7A3F56C01FB9B69FCDD1FBD287CAE4">
-<meta name="p:domain_verify" content="ad29c8e4eb8a9ab27e7ce3cdcdee6dda">
+<meta name="p:domain_verify" content="9692f6d2048e03cc95a3b3f5c3304f9f">
 
 <script type="text/javascript" src="http://api.eezyinc.com/api.min.js">
 </script>
@@ -29,30 +31,43 @@
   GA_googleFetchAds();
 </script>
 
-<script type="text/javascript">
-  var _gaq = _gaq || [];
-  var pluginUrl = 
- '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
-_gaq.push(['_require', 'inpage_linkid', pluginUrl]);
-  _gaq.push(['_setAccount', 'UA-1204257-4']);
-  _gaq.push(['_trackPageview']);
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-</script>
+<script src="//cdn.optimizely.com/js/168948327.js"></script>
+
 
 <script>
+  //Google Analytics Code
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-  ga('create', 'UA-1204257-27', 'vecteezy.com');
-  ga('send', 'pageview');
+
+  ga('create', 'UA-1204257-4', 'vecteezy.com');
+  ga('require', 'displayfeatures');
+  
+  if (typeof ga != 'undefined') {
+    if (!location.pathname.match(/^\/free-vector/)){
+      ga('send', 'pageview');
+      console.log('Normal Pageview sent');
+    } else {
+      var searchPath = location.pathname.replace("/free-vector/","/free-vector?site-search=") + location.search.replace('?', '&');
+      ga('send', 'pageview', searchPath);
+      console.log(searchPath);
+    }
+  }
+  
+  function track(category, action, label) {
+    if (typeof ga != 'undefined' ) {
+      if( label != undefined ) {
+        ga('send', 'event', category, action, label);
+        console.log("Track "+ category + action + label);
+      } else {
+        ga('send', 'event', category, action);
+        console.log("Track " + category + action);
+      }
+    }
+  }
 </script>
 
-<script src="//cdn.optimizely.com/js/168948327.js"></script>
 
 <script>
   var iStockCoupon = { 
@@ -93,6 +108,16 @@ _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
       win.document.body.appendChild(wrap);        
     },
   };
+  
+  $(function() {
+    $('body').on("click", "a.affiliate-shutterstock", function(event) {
+      track("out_shutterstock", "click", "");
+    });
+  })
+</script>
+
+<script class="shutterstock result" type="text/template">
+  <li><a title="{{description}}" target="_blank" href="{{url}}" class="affiliate-shutterstock"><span><img src="{{image_url}}" alt="{{description}}"/></span></a></li>
 </script>
     
 <!-- start Mixpanel --><script type="text/javascript">(function(e,b){if(!b.__SV){var a,f,i,g;window.mixpanel=b;a=e.createElement("script");a.type="text/javascript";a.async=!0;a.src=("https:"===e.location.protocol?"https:":"http:")+'//cdn.mxpnl.com/libs/mixpanel-2.2.min.js';f=e.getElementsByTagName("script")[0];f.parentNode.insertBefore(a,f);b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==
@@ -101,7 +126,7 @@ b._i.push([a,e,d])};b.__SV=1.2}})(document,window.mixpanel||[]);
 mixpanel.init("54c77350e144b3038bbabf9ab62e2d23");</script><!-- end Mixpanel -->
 
     <meta content="authenticity_token" name="csrf-param">
-<meta content="gxUDy+P9mfGFVFA9tWIw6rcIeKPo4QqlL15vPTDJr0A=" name="csrf-token">
+<meta content="8p4MK9gdPnlzlnN1QvNiDWLM9bAKcJMxzQTp8v4PQuc=" name="csrf-token">
     
   <script type="text/javascript" async="" src="//s3.buysellads.com/ac/bsa.js"></script></head>
   <body class=" ">
@@ -140,7 +165,8 @@ mixpanel.init("54c77350e144b3038bbabf9ab62e2d23");</script><!-- end Mixpanel -->
     FB.getLoginStatus(function(response) {
       if (response.status == "connected") {
         track("authentication", "connect_to_facebook");
-        window.location.href = "/auth/facebook/callback";
+        window.location.href = "/auth/facebook/callback?" + $.param({ signed_request: response.authResponse.signedRequest });
+
       }
     });
   }
@@ -156,33 +182,125 @@ mixpanel.init("54c77350e144b3038bbabf9ab62e2d23");</script><!-- end Mixpanel -->
 <li class=""><a href="/members">Members</a></li>
 <li class=""><a href="http://www.vecteezy.com/blog">Blog</a></li> 
 <li class=""><a href="/premium">Premium</a></li>
+<li class=""><a href="/deals"><span class="translation_missing" title="translation missing: en.Deals">Deals</span></a></li>
+<li class=""><a href="/blog/2014/4/istockphoto-promo-code"><span class="translation_missing" title="translation missing: en.iStock Promo Code">IStock Promo Code</span></a></li>
 
           </ul>
           <ul class="aside">
               <li><select id="locale_switcher" name="locale_switcher"><option value="http://en.vecteezy.com/privacy">English</option>
 <option value="http://es.vecteezy.com/privacy">Español</option></select></li>
-            
+
           </ul>
         </nav>
       </section>
       <section id="masthead">
-        <div class="content">
-          <a href="http://www.vecteezy.com/" alt="Vecteezy" id="logo"><img alt="Vecteezy-logo" src="http://static.vecteezy.com/assets/vecteezy/vecteezy-logo-1eb9a5b6d08ebcbbe18f2700f1f6c99b.png"></a>
-          <form accept-charset="UTF-8" action="/search" class="search-form" id="search-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="gxUDy+P9mfGFVFA9tWIw6rcIeKPo4QqlL15vPTDJr0A="></div>
-            <input id="from" name="from" type="hidden" value="mainsite">
-            <input class="search-term" id="search-term" name="search" placeholder="Enter Keyword(s)" type="text" value="">
-            <input class="submit" name="commit" type="submit" value="Search">
-</form>          <div class="logged-out">
-            <nav>
-                <a href="/premium/about" onclick="track('click', 'premium_join_buttons', 'header')">Join Eezy!</a>
-              
-              <a href="/login" class="login-link" data-target="login-popup" rel="lightbox">Login</a>
-            </nav>
+        
+          <div class="content">
+            <a href="http://www.vecteezy.com/" alt="Vecteezy" id="logo"><img alt="Vecteezy-logo@2x" src="http://static.vecteezy.com/assets/vecteezy/vecteezy-logo@2x-57e46a815a0baf88c13e025cd1af942c.png"></a>
+
+
+
+            <form accept-charset="UTF-8" action="/free-vector" class="search-form" id="search-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="8p4MK9gdPnlzlnN1QvNiDWLM9bAKcJMxzQTp8v4PQuc="></div>
+              <input id="from" name="from" type="hidden" value="mainsite">
+              <input class="search-term" id="search-term" name="search" placeholder="Enter Keyword(s)" type="text" value="">
+              <input class="submit" name="commit" type="submit" value="Search">
+</form>            <div class="logged-out">
+              <nav>
+                  <a href="/premium/about" onclick="track('click', 'premium_join_buttons', 'header')">Join Eezy!</a>
+
+                <a href="/login" class="login-link" data-target="login-popup" rel="lightbox">Login</a>
+              </nav>
+            </div>
           </div>
-        </div>
+        
       </section>
     </header>
 
+    
+      <script>
+
+  // Use these toggles to turn banner/countdown on and off. 
+  
+  var TopBannerConfig = {
+    countDownOn: false,
+    topBannerOn: false,
+  };
+
+</script>
+
+
+<!-- Don't touch the HTML below except to change its content and link. -->
+<div class="premium-top-banner" style="display:none">
+  <div class="wrapper">
+            
+    <a href="/premium/about?sale=89-unlimited-holiday" onclick="_gaq.push(['_trackEvent', 'click', 'sliver', 'WorldCup']);">
+      <div class="catch">
+      <b>Only Hours Left!</b> $10 Off Premium Graphics plus Receive a Free Gift with select plans.
+      </div>
+      
+      <div class="countdown" style="display:none">Ends in <span class="cd-time">0</span> days <span class="cd-time">2</span> hours <span class="cd-time">4</span> mins <span class="cd-time">47</span> secs</div>
+      
+    </a> 
+  </div>
+</div>
+ 
+      <style type="text/css">
+  body.subscriber .premium-top-banner {display: none !important;}
+
+  .premium-top-banner {color: white;text-shadow: #000 0px 1px 0;background-color: #FBFBFB;}
+
+  .premium-top-banner a {font-weight: normal;color: white;font-size: .95em;}
+
+  .premium-top-banner .wrapper {background-image: url(/assets/premium/sale-banner.png);height: 82px;width: 1026px;margin: 0 auto;}
+
+  .premium-top-banner .wrapper .catch {margin-left: 37px;margin-top: 33px;float: left;}
+
+  .premium-top-banner .wrapper .countdown {float: right;margin-right: 37px;margin-top: 33px;text-align: right;}
+  
+  .premium-top-banner .wrapper .countdown .cd-time {font-weight: bold;}
+</style>
+
+<script type="text/javascript">
+
+  $(document).ready(function() {
+    if (typeof(TopBannerConfig) == 'undefined') return;
+    
+    if (TopBannerConfig.topBannerOn) {
+      $('.premium-top-banner').show(); 
+      
+      if (TopBannerConfig.countDownOn) {
+         $('.countdown').show();
+     
+        if ($("body").not(".premium").find("#sidebar").length > 0) $('.premium-top-banner').show();
+        var date = $.cookies.get('countdown_date');
+    
+        if (!date) {
+          // If date not set in cookie, set end date to be ~2 hours away?
+      
+          date = new Date();
+          date.setTime(date.getTime() + 2*60*60*1000 + 6*60*1000 + 7000);
+          $.cookies.set('countdown_date', date);
+        } else {
+          var new_date = new Date();
+          if (new Date(date) < new_date) {
+            // If past date in cookie, remove count down clock, but don't actually remove banner? Looks like countdown is just for show.
+        
+            //$('a#premium-banner-link').attr('href', "http://www.brusheezy.com/premium/about?sale_over=true");
+            $('.countdown').remove();
+          }
+        }
+    
+        // Start count down animation
+        $('.countdown').countdown({
+          "date" : date,
+          "htmlTemplate" : "Ends in <span class='cd-time'>%d</span> days <span class='cd-time'>%h</span> hours <span class='cd-time'>%i</span> mins <span class='cd-time'>%s</span> secs"
+        });
+        
+      } 
+    }
+  }); 
+
+</script>
     
     <div id="body">
       <div class="content">
@@ -296,8 +414,8 @@ In the event case of any conflict between the terms of this policy and the terms
 <!-- BuySellAds.com Zone Code -->
 <div id="bsap_1234836" class="bsarocks bsap_c923083f870e715c508056d6ac1000c1"></div>
 <!-- END BuySellAds.com Zone Code -->
-      <a href="/premium/about" onclick="_gaq.push(['_trackEvent', 'click', '125x125bnr', 'NewBonus']);">
-<img alt="Premium Resources for Designers" border="0" src="http://static.vecteezy.com/system/assets/asset_files/000/000/179/original/NewPremium_125x125Bnr_Vect.gif"></a>
+      <a href="/premium/about" onclick="_gaq.push(['_trackEvent', 'click', '125x125bnr', 'default']);">
+<img alt="Premium Resources for Designers" border="0" src="http://static.vecteezy.com/system/assets/asset_files/000/000/204/original/NewPremium_125x125Bnr_Vect.gif"></a>
       <a href="http://www.vecteezy.com/advertising" class="advertise">Advertise Here</a>
     </div>
     <div class="ad-rectangle"></div>
@@ -341,7 +459,7 @@ to take advantage of all our features or you can
         <h3>Keep in touch!</h3>
         <div class="block">
           <div id="footer-newsletter">
-  <form accept-charset="UTF-8" action="/newsletter/subscribe" class="inline-spinner" data-remote="true" id="new_newsletter" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="gxUDy+P9mfGFVFA9tWIw6rcIeKPo4QqlL15vPTDJr0A="></div>
+  <form accept-charset="UTF-8" action="/newsletter/subscribe" class="inline-spinner" data-remote="true" id="new_newsletter" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="8p4MK9gdPnlzlnN1QvNiDWLM9bAKcJMxzQTp8v4PQuc="></div>
     <p>Get weekly updates, and exclusive offers to your inbox! Opt-out anytime. We will never share your info.</p>
     <div class="row">
       <input id="newsletter_email" name="newsletter[email]" placeholder="Enter your email address" size="30" type="text">
@@ -366,17 +484,20 @@ to take advantage of all our features or you can
       </section>
       </div>
       <section id="footer-copyright" class="block">
-        © 2013 Vecteezy.com. All rights reserved.
+        © 2014 Vecteezy.com. All rights reserved.
       </section>
     </footer>
 
     
     
+    <!-- BEGIN Footer Text Block -->
+    
+    <!-- END Footer Text Block -->
 
       <div id="signup-popup" class="lightbox with-sidebar">
   <a class="close" rel="close">Close</a>
   <div class="main">
-    <form accept-charset="UTF-8" action="/signup" class="account-form" data-remote="true" id="new_eezyauth_user_auth" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="gxUDy+P9mfGFVFA9tWIw6rcIeKPo4QqlL15vPTDJr0A="></div>
+    <form accept-charset="UTF-8" action="/signup" class="account-form" data-remote="true" id="new_eezyauth_user_auth" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="8p4MK9gdPnlzlnN1QvNiDWLM9bAKcJMxzQTp8v4PQuc="></div>
       <h1>Create Your Account!</h1>
 <ul class="pros quiet">
   <li>Your very own profile to promote your freebies.</li>
@@ -429,7 +550,7 @@ to take advantage of all our features or you can
       <div id="login-popup" class="lightbox with-sidebar">
   <a class="close" rel="close">close</a>
   <div class="main">
-    <form accept-charset="UTF-8" action="/login" class="account-form" data-remote="true" id="new_eezyauth_user_auth_session" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="gxUDy+P9mfGFVFA9tWIw6rcIeKPo4QqlL15vPTDJr0A="></div>
+    <form accept-charset="UTF-8" action="/login" class="account-form" data-remote="true" id="new_eezyauth_user_auth_session" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="8p4MK9gdPnlzlnN1QvNiDWLM9bAKcJMxzQTp8v4PQuc="></div>
       <h1>Login to Vecteezy</h1>
 
 
@@ -467,7 +588,7 @@ to take advantage of all our features or you can
       <div id="reset-password-popup" class="lightbox with-sidebar">
   <a class="close" rel="close">close</a>
   <div class="main">
-    <form accept-charset="UTF-8" action="/reset_passwords" class="account-form" data-remote="true" id="new_eezyauth_user_auth" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="gxUDy+P9mfGFVFA9tWIw6rcIeKPo4QqlL15vPTDJr0A="></div>
+    <form accept-charset="UTF-8" action="/reset_passwords" class="account-form" data-remote="true" id="new_eezyauth_user_auth" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="8p4MK9gdPnlzlnN1QvNiDWLM9bAKcJMxzQTp8v4PQuc="></div>
       <h1>Forgot your password?</h1>
       <div class="row">
         <input autocomplete="false" class="text" id="eezyauth_user_auth_email" name="eezyauth_user_auth[email]" placeholder="Enter Your Email Address" size="30" type="text">
@@ -489,7 +610,7 @@ to take advantage of all our features or you can
 
       <script type="text/javascript">
   var term = $('#search-term').val(),
-      pu_url = "http://shutterstock.7eer.net/c/38919/91612/1305?subId1=searchpopup&subId2="+encodeURI(term)+"&subId3=popup"+"&u=http%3A%2F%2Fwww.shutterstock.com%2Fcat.mhtml&p.version=llv1&p.vector=on&p.searchterm="+encodeURI(term),
+      pu_url = "http://shutterstock.7eer.net/c/38919/111120/1305?subId1=searchpopup&subId2="+encodeURI(term)+"&subId3=popup"+"&u=http%3A%2F%2Fwww.shutterstock.com%2Fcat.mhtml&p.version=llv1&p.vectors=on&p.searchterm="+encodeURI(term)+"&sharedid=n",
       //pu_url = "http://www.linkconnector.com/ta.php?lc=023185000012004382&atid=|site=vecteezy|func=pop|kw="+encodeURI(term)+"&url=http://www.istockphoto.com/search/text/"+encodeURI(term)+"/filetype/illustrations",
       pu_prem = $('input[name="eezypremium"]').val(),
       pu_pct = 20;
@@ -497,7 +618,7 @@ to take advantage of all our features or you can
 
   $('#search-form').submit(function() {          
     term = $('#search-term').val();
-    pu_url = "http://shutterstock.7eer.net/c/38919/91612/1305?subId1=searchpopup&subId2="+encodeURI(term)+"&subId3=popup"+"&u=http%3A%2F%2Fwww.shutterstock.com%2Fcat.mhtml&p.version=llv1&p.vector=on&p.searchterm="+encodeURI(term);
+    pu_url = "http://shutterstock.7eer.net/c/38919/111120/1305?subId1=searchpopup&subId2="+encodeURI(term)+"&subId3=popup"+"&u=http%3A%2F%2Fwww.shutterstock.com%2Fcat.mhtml&p.version=llv1&p.vectors=on&p.searchterm="+encodeURI(term)+"&sharedid=n";
     //pu_url = "http://www.linkconnector.com/ta.php?lc=023185000012004382&atid=|site=vecteezy|func=pop|kw="+encodeURI(term)+"&url=http://www.istockphoto.com/search/text/"+encodeURI(term)+"/filetype/illustrations";
     if( pu_prem != '1' && Math.floor(Math.random() * 100) < pu_pct ) {
       track("popunder", term)
@@ -602,6 +723,17 @@ to take advantage of all our features or you can
     }
   }
 </script>
-  
+  <script type="text/javascript">if (typeof NREUMQ !== "undefined") { if (!NREUMQ.f) { NREUMQ.f=function() {
+NREUMQ.push(["load",new Date().getTime()]);
+var e=document.createElement("script");
+e.type="text/javascript";
+e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" +
+  "js-agent.newrelic.com/nr-100.js";
+document.body.appendChild(e);
+if(NREUMQ.a)NREUMQ.a();
+};
+NREUMQ.a=window.onload;window.onload=NREUMQ.f;
+};
+NREUMQ.push(["nrfj","beacon-2.newrelic.com","8807cf62c6","2806201","cl0NR0UNXlpTQ0wWQUFCDEFDTUJEX0cCBk0=",0,98,new Date().getTime(),"","","","",""]);}</script>
 
-</body></html>
+<script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
