@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epson.co.uk privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818212317id_/http%3A//www.epson.co.uk/gb/en/viewcon/corporatesite/misc/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epson.co.uk privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620205254id_/http%3A//www.epson.co.uk/gb/en/viewcon/corporatesite/misc/legal/privacy) for the most accurate reproduction.*
 
 # Epson
 
@@ -10,7 +10,7 @@
   * Must personal data be disclosed when visiting Epson websites?
   * Why does Epson ask for personal data?
   * Providing you with additional information
-  * [Where does Epson collect personal data from?](https://web.archive.org/web/20130818212317id_/http%3A//www.epson.co.uk/gb/en/viewcon/corporatesite/misc/legal/x7)
+  * [Where does Epson collect personal data from?](https://web.archive.org/web/20140620205254id_/http%3A//www.epson.co.uk/gb/en/viewcon/corporatesite/misc/legal/x7)
   * Who does Epson share personal data with?
   * Your rights concerning personal data held by Epson
   * Links to other websites
@@ -108,7 +108,7 @@ We will retain data about you until the end of any period required or permitted 
 **13\. Cookies**  
 We create, issue and access cookies which hold information about you and your operating system including, but not limited to, browser type, Internet Protocol (IP) address and what parts of the website are visited. These cookies enable us to improve the user-friendliness of our websites and to adjust them to your needs.
 
-You can block cookies by activating the setting on your browser which allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies you may not be to access some parts of our site. Unless your browser is setto refuse cookies, our system will issue cookies as soon you visit one of our websites.
+You can block cookies by activating the setting on your browser which allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies you may not be to access some parts of our site. Unless your browser is set to refuse cookies, our system will issue cookies as soon you visit one of our websites.
 
 **14\. Contacting Epson**  
 Please send any questions, comments or requests about this privacy policy to [privacy@epson.eu](mailto:privacy@epson.eu)
