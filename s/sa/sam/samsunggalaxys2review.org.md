@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samsunggalaxys2review.org privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230152850id_/http%3A//samsunggalaxys2review.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samsunggalaxys2review.org privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620163344id_/http%3A//samsunggalaxys2review.org/privacy-policy) for the most accurate reproduction.*
 
 # Samsung Galaxy S2 Review Privacy Policy
 
