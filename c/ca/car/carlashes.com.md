@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the carlashes.com privacy policy that was archived on 2013-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131001075610id_/http%3A//www.carlashes.com/index.php%3Fl%3Dpage_view%26p%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carlashes.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620043837id_/http%3A//www.carlashes.com/catalog/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Car Lashes, Car Eyelashes, Eyelashes for Cars, eyelashes4cars
 
 We value our customers and their privacy. All personal information is used to ensure efficient processing of your order. This information is used by our staff for contacting and identifying customers and their needs. We will not give, sell, rent, or loan any personally identifiable information to any third party, unless we are legally required to do so or you authorize us to do so.
 
