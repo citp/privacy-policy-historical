@@ -1,87 +1,94 @@
-> *The following text is extracted and transformed from the alterian.com privacy policy that was archived on 2013-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130329165710id_/http%3A//www.alterian.com/ourcompany/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alterian.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620174958id_/http%3A//www.sdl.com/aboutus/privacypolicy.html) for the most accurate reproduction.*
 
-# Alterian.com | Alterian Privacy Policy
+# SDL plc ("SDL") PRIVACY POLICY | SDL
 
-**Our commitments to you**
+  * In using our websites, SDL will ensure your privacy is protected. We will not sell your personal information and will only use it for internal purposes.
+  * We place various cookies on your browser enabling us to understand how you are using our websites and to learn how we can provide you with better experiences and offers that align with your needs. Some of the cookies are for third parties that help us advertise and measure the impact of our advertising. Cookies are important to the proper functioning of a site and rejecting them will negatively affect your web experience. Should you nonetheless decide to reject cookies please refer to our Cookie Policy page.
 
-Alterian respects and protects the privacy of the individuals that use our websites. Individually identifiable information about you is not willfully disclosed to any third party without first receiving your permission, as explained in this privacy policy ("Privacy Policy").
 
-You are in control of the personal information you provide online to Alterian. You can:
 
-§  Ask for a copy of your personal information.
+This privacy policy explains how SDL plc uses and protects the data provided to or collected through the SDL websites. The objective is to provide our visitors with a quality online experience whilst safeguarding your privacy. 
 
-§  Ask for your personal information to be corrected or updated.
+By registering onto our website and providing certain information about yourself, SDL can use this information to provide a better experience to you. In using our websites, SDL will ensure your privacy is protected.
 
-§  Ask us to remove your personal information from our records.
+* * *
 
-To do this, please contact us at the e-mail address listed at the bottom of this statement. Alterian will use reasonable efforts to provide that information to you.
+You are in control of the personal information you provide to SDL and you can: 
 
-This Website contains links to other sites that are outside of Alterian's control. These sites may have their own policy regarding privacy and you are encouraged to read their Privacy Policy.
+  * Ask for a copy of your personal information 
+  * Ask for personal information to be corrected or updated
+  * Ask to remove your personal information from our records 
 
-**Information sharing and disclosure**
 
-Alterian will not sell or rent your personal information to anyone.
 
-We may share personal information collected on the Website with our partners and third parties but only with your consent, which can be granted in the form of an opt-out at the points where personal information is collected.
+The aim of our Privacy Policy is to explain the following: 
 
-We may disclose personal information when required by law or if in good faith we believe that such action is necessary in order to conform to the requirements of law or comply with legal process served on the Website.
+  1. The type of information SDL collects from you and what this information is used for 
+  2. How this information is protected
 
-**Personal information**
 
-Personal information is information such as your name, birth date, e-mail or mailing address that can be used to uniquely identify you.
 
-You can access any SDL Website and browse it without providing your personal information. However in order to participate in some of the activities available, or to benefit from services offered on the Website, a user must provide personal information (including, but not limited to, your name, address, telephone number, email address, and credit card number if you place an order with us).
+When you access SDL websites, some information is automatically collected as specified below. No other information is collected through the SDL websites unless you deliberately decide to send it to us (e.g., by submitting a completed contact form), which is also specified below. 
 
-When you purchase a product or service, Alterian will collect credit card information for invoicing purposes. This information is processed for Alterian by a third party partner. That third party and Alterian use security techniques, including encryption and secure servers, to protect against any unauthorized access to transmitted information used for invoicing purposes.
+“Automatically Collected Information” means the following categories and specific information: 
 
-Neither Alterian nor our third party partner stores, uses, or shares, credit card information for any other purpose.
+  * “Client Information”: the Internet domain, registered company (if applicable), GeoIP information, and IP address of the computer you are using. 
+  * “Essential Technical Information”: identification of the page or service you are requesting, type of browser and operating system you are using; and the date and time of access. 
+  * “Nonessential Technical Information”: the Internet address of the web site from which you linked directly to our web site, and the "Cookie Information" described below. Please read our Cookie policy for more information. 
 
-Personal information collected on this Website is used primarily for the purpose it is requested. In particular, contact information such as name and e-mail addresses is used to provide users with the services they have chosen on this Website, such as, for example, the provision of newsletters.
 
-We may use personal information collected to contact users in connection with their inappropriate use of this Website, non-compliance with any Terms and Conditions of Use, or in connection with a complaint filed by another user.
 
-**Anonymous information**
+“Optional Information” includes the following information: 
 
-Alterian may collect certain aggregate data called web log information (such as your web browser, operating system, pages visited, etc.) and use cookies (see below) when you visit any of our web pages. For instance, when you visit one of our websites, our web server will automatically recognize some non-personal information, including but not limited to the date and time you visited our site, the pages you visited, the referrer (the website you came from), the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using (e.g., Windows '95 or Mac OS), and the domain name and address of your Internet service provider (e.g., America Online, Earthlink). [Read how to enable cookies.](http://support.google.com/accounts/bin/answer.py?hl=en&answer=61416)
+  * When responding to online forms or other questions or comment in a blog: any information entered into these forms, questions or blog comment fields. 
+  * When you register an account on the SDL websites: your name, e-mail address, and any additional information you provide as part of your registration. 
 
-A "cookie" is a small text file, stored by your browser on your computer's hard drive, which can be read by our system when you return to our site. Most Web browsers automatically accept cookies, but you can usually change your browser to prevent that if you wish. Whilst Alterian uses cookies to track your visit to our site, this information does not identify you personally and you remain anonymous unless you provide Alterian with personal information.
 
-In some cases we may also collect information about you that you voluntarily submit and which is not personal, such as general statistical information like age, gender, household size, zip/postal code, preferences and interests.
 
-**Use of personal information**
+This is all classified as personal information under applicable privacy and data protection laws. 
 
-We may use your personal information to contact you. For example, we may send you marketing or promotional materials including emails or other information; we may respond to your comments or requests for information; or we may contact you, if needed, in the course of processing or shipping your order for products or services offered through our websites. We may also enhance or merge personal information with data obtained from third parties for the same purposes.
+When you purchase a product or service, SDL will collect credit card information for invoicing purposes. This information is processed on behalf of SDL by a third party payment services provider. That provider and SDL use security techniques, including encryption and secure servers to protect you against unauthorised access. 
 
-We also use personal information about you to improve our marketing and promotional efforts; to statistically analyze site usage; to improve our content and product offerings; and to customize our sites' content, layout and services. We may also use your information to deliver information to you that, in some cases, is targeted to your interests, such as targeted banners, new services and promotions. We believe these uses allow us to improve our site and better tailor it to meet our visitors' needs. Alterian does not collect personal information automatically, but we may combine non-personal information collected automatically (e.g., through cookies) with your previously submitted personal information.
+ **SDL Trados Studio Experience**
 
-Alterian occasionally sends visitors emails describing new products, promotions or events. These services are optional and you may request to opt-out of these services completely, at any time. We will only store your personal information for a reasonable period of time.
+In the event that SDL customers or users join the online SDL Trados Experience Program which is an information system to help SDL improve upon the quality and performance of the SDL Trados Software, SDL will not collect the following information from you: 
 
-Alterian complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Alterian has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Alterian’s certification, please visit [http://www.export.gov/safeharbor](http://www.export.gov/safeharbor).
+  * Any content you process, neither in the source nor target languages with which you work 
+  * Any content from your translation memories or terminology databases 
+  * Your name, address or any other personally identifiable information
 
-If you have any questions, comments, or concerns about this Privacy Policy, please contact us as follows: 
 
-Alterian Technology Limited 
 
-The Spectrum Building
+SDL uses the information to provide, maintain, protect and improve the services it provides. We use this information to provide you with content tailored to your specific needs. 
 
-Bond Street
+When you contact SDL, we may keep a record of your communication to help resolve any issues that you may have. We may use your email address that you provide to inform you about our services but we will only do this if you consent to receiving updated information about our services.
 
-Bristol 
+SDL also uses information collected from cookies and other technologies such as Google Analytics to improve your user experience and the general quality of our services. The collected information is used to learn about the usage patterns of visitors to our websites by collecting information about which individual webpages were visited, how long users visited the website, which websites referred the most visitors, general geographic location of visitors and other similar anonymous statistics. This data is used to deliver customized content and advertising within SDL websites to visitors whose behavior indicates that they are interested in a particular subject area. 
 
-BS1 3LG
+In order to distinguish one visit from another, Google Analytics may create several tracking cookies on a visitor’s computer which will expire after two years have passed since the initial visit.
 
-UK
+SDL strives to protect your personal information to the highest level, for example by encrypting sensitive data using SSL. 
 
-OR:
+SDL reviews the information it collects, stores and processes and implements physical security measures to guard against unauthorized access to systems.
 
-Alterian Inc.
+SDL restricts your personal information provided to its employees, contractors and agents who have a need to know that information in order to process it for SDL. Each employee, contractors or agent contractually obligated by SDL to keep the information received strictly confidential and will face severe penalties if they breach this obligation. 
 
-1530 Blake Street
+SDL ensures that its Privacy Policy is in compliance with all applicable privacy laws and regulations. 
 
-Suite 250
+SDL complies with the US - EU Safe Harbor Framework and the US - Swiss Safe Harbor Framework as set by the U.S Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland and SDL has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement. To learn more about the Safe Harbor program and to view SDL’s certification, please visit <http://www.export.gov/safeharbor>
 
-Denver, CO 80202
+Please note that our Privacy Policy may change from time to time. This will not change your rights under this Privacy Policy without your express consent. 
 
-USA
+If you have any questions, comments or concerns about the Privacy Policy, please contact us as follows 
 
-Email: _privacy@alterian.com_
+FAO: Rebecca Thompson-Addo (Legal Team)   
+SDL plc   
+Globe House   
+Clivemont Road   
+Maidenhead   
+SL6 7DY   
+TEL: + 44 (0) 1628 760610   
+Fax: +44 (0) 1628 760611   
+Or by email at: tpsales@sdl.com 
+
+Last updated: April 2014
