@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the amplify.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210100412id_/http%3A//www.amplify.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amplify.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620095225id_/http%3A//www.amplify.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Amplify
 
-Last Revised: September 26, 2013....
+Last Revised: September 26, 2013
 
 ## 1\. Introduction
 
