@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mongohq.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220084549id_/https%3A//docs.mongohq.com/policies/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mongohq.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620223039id_/https%3A//docs.mongohq.com/policies/privacy.html) for the most accurate reproduction.*
 
 # Privacy | Hosted MongoDB
 
@@ -11,8 +11,6 @@
 ## Privacy
 
 This is the general privacy policy that the founders and team members of MongoHQ all agree to adhere to. If you have any questions about this or any other policy, please reach out to us at: **[support@mongohq.com](mailto:support@mongohq.com)** and we will respond promptly.
-
-### We Do Not Share Customer Information
 
 MongoHQ does not share customer information of any kind with anyone or any third party. We will not sell or rent your name or personal information to any third party. We do not sell, rent or provide outside access to our mailing list or any data we store. Any data that a user stores via our facilities is wholly owned by that user or business. At anytime a user or business is free to take their data and leave, or to simply delete their data from our facilities.
 
