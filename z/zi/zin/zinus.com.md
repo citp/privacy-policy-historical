@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zinus.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630135836id_/http%3A//www.zinus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zinus.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620103828id_/http%3A//www.zinus.com/privacy-policy) for the most accurate reproduction.*
 
 # Zinus, Inc - Comfort Innovations
 
