@@ -1,36 +1,85 @@
-<!--The following is the downloaded HTML source of the 1000markets.com privacy policy that was archived on 2013-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131205174051id_/http%3A//www.bonanza.com/site_help/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 1000markets.com privacy policy that was archived on 2014-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140620200656id_/http%3A//www.bonanza.com/site_help/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
             <title>Privacy Policy  - Bonanza</title>
             <meta content="authenticity_token" name="csrf-param">
-<meta content="+FpdeRKQHIai33lnBLX/Fch3g2nZ8eObuhZT+QVBBjk=" name="csrf-token">
+<meta content="eWzviD5UOoxKJq6uilDbxs4odH4UF7wN0NxYzNjFbPc=" name="csrf-token">
             <meta http-equiv="content-type" content="text/html;charset=UTF-8">
             <meta name="google-site-verification" content="IdAYMLfeXNMgeyxn8p4m6ShcrtfsKnpPMHhNst66nBw">
-<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script defer="" src="https://b6205046efa2dc025e1b-c416c2beee4f9f7e05c46c8b78f8efe6.ssl.cf5.rackcdn.com/airbrake-js-tracekit-sourcemap.min.js" data-airbrake-project-id="93943" data-airbrake-project-key="f541f20f9389114e29513825c361754c" data-airbrake-project-environment-name="production"></script>
-<script type="text/javascript">
-var BONZ = {};
-BONZ['cookie_domain'] = '.bonanza.com';
-window.Airbrake = [];
-BONZ.run = function(fn, as) { try { return fn.call(as); } catch(er) { window.Airbrake.push(er); } };
+<script src="//d37gvrvc0wt4s1.cloudfront.net/js/1/rollbar.min.js" async=""></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">
+  var BONZ = {};
+  BONZ['cookie_domain'] = '.bonanza.com';
+  BONZ['environment_name'] = 'production';
+window.jQueryLoadedRun = false;
+window.jQueryLoadedCallbacks = [];
+window.runjQueryLoaded = function() {
+  if (!window.jQueryLoadedRun) {
+    window.jQueryLoadedRun = true;
+    window.jQueryLoaded = function(func) { func(); };
+    for (var i = 0; i < window.jQueryLoadedCallbacks.length; i++) {
+      window.jQueryLoadedCallbacks[i]();
+    }
+  }
+};
+window.jQueryLoaded = function(func) { window.jQueryLoadedCallbacks.push(func); };
+
+window.jQuery = function(func) { window.jQueryLoadedCallbacks.push(function() { $(func); }); };
+window.$ = window.jQuery;
+var _rollbarParams = {
+  "client.javascript.source_map_enabled": true,
+  "client.javascript.code_version": "56014f3827b50d99c188755ce08bae9d4f87d812",
+  "client.javascript.guess_uncaught_frames": true,
+  "server.environment": "production",
+  "notifier.snippet_version": "2",
+  "notifier.plugins.jquery.ignoreAjaxErrors": true,
+  context: "site_help#privacy_policy",
+  custom: { packages: [] },
+  checkIgnore: function(errMsg, url, lineNo) {
+    if (errMsg == "Script error." ||
+        errMsg == "Script error" ||
+        errMsg == "The environment is incompatible." ||
+        errMsg == "Error loading script" ||
+        errMsg == "Unexpected token u") {
+      return true;
+    }
+    if (typeof(url) === "string" && !url.match(/bonanza/)) return true;
+    return false;
+  }
+};
+var _rollbar=["f79a2f8396f84e5eac8612b461d9e084", _rollbarParams];
+var _ratchet=_rollbar;
+(function(w,d){
+  w.onerror=function(e,u,l,c,err){_rollbar.push({_t:'uncaught',e:e,u:u,l:l,c:c,err:err});};var i=function(){var s=d.createElement("script");var
+  f=d.getElementsByTagName("script")[0];s.src="//d37gvrvc0wt4s1.cloudfront.net/js/1/rollbar.min.js";s.async=!0;
+  f.parentNode.insertBefore(s,f);};if(w.addEventListener){w.addEventListener("load",i,!1);}else{w.attachEvent("onload",i);}
+})(window,document);
+
+BONZ.run = function(fn, as) { try { return fn.call(as); } catch(e) { _rollbar.push(e); } };
 BONZ.wrap = function(fn, as) { return function() { return BONZ.run(fn, as); }; };
-CKEDITOR_BASEPATH = "http://s3.amazonaws.com/bonanzapublic/scripts/ckeditor/";
+BONZ.packageLoaded = function(packageName) {
+  _rollbarParams.custom.packages.push(packageName);
+  if (typeof(RollbarNotifier) !== 'undefined') RollbarNotifier.extraParams.custom.packages = _rollbarParams.custom.packages;
+};
+CKEDITOR_BASEPATH = "http://bonanzapublic.s3.amazonaws.com/scripts/ckeditor/";
 </script>
-	<link href="http://bonanzapublic.s3.amazonaws.com/assets/memberships_all.css?1386184914" media="screen, print" rel="stylesheet" type="text/css">
-  <link href="http://bonanzapublic.s3.amazonaws.com/assets/global_css.css?1386184913" media="screen, print" rel="stylesheet" type="text/css">
-	<link href="http://bonanzapublic.s3.amazonaws.com/assets/siteHelp_all.css?1386184914" media="screen, print" rel="stylesheet" type="text/css">
+
+	<link href="http://bonanzapublic.s3.amazonaws.com/assets/memberships_all.css?1403196836" media="screen, print" rel="stylesheet" type="text/css">
+  <link href="http://bonanzapublic.s3.amazonaws.com/assets/global_css.css?1403196836" media="screen, print" rel="stylesheet" type="text/css">
+	<link href="http://bonanzapublic.s3.amazonaws.com/assets/siteHelp_all.css?1403196836" media="screen, print" rel="stylesheet" type="text/css">
 	
-  <script src="http://bonanzapublic.s3.amazonaws.com/assets/global_js.js?1385329430" type="text/javascript"></script>
-	<script src="http://bonanzapublic.s3.amazonaws.com/assets/site_help_js.js?1384799231" type="text/javascript"></script>
-	<script src="http://bonanzapublic.s3.amazonaws.com/assets/ckeditor.js?1384799231" type="text/javascript"></script>
+  <script onload="runjQueryLoaded()" onreadystatechange="runjQueryLoaded()" src="http://s3.amazonaws.com/bonanzapublic/assets/global_js.js?1400191299" type="text/javascript"></script>
+	<script src="http://s3.amazonaws.com/bonanzapublic/assets/site_help_js.js?1402074390" type="text/javascript"></script>
+	<script src="http://s3.amazonaws.com/bonanzapublic/assets/ckeditor.js?1387562233" type="text/javascript"></script>
 
       <script type="text/javascript">
         // <![CDATA[
-        $(document).ajaxSend(function(e, xhr, options) {
-          var token = $("meta[name='csrf-token']").attr("content");
-          xhr.setRequestHeader("X-CSRF-Token", token);
+        jQueryLoaded(function() {
+          $(document).ajaxSend(function(e, xhr, options) {
+            var token = $("meta[name='csrf-token']").attr("content");
+            xhr.setRequestHeader("X-CSRF-Token", token);
+          });
         });
-        BONZ.Application.setEnvironment("production");
         // ]]>
       </script>
         <script type="text/javascript">
@@ -66,25 +115,28 @@ CKEDITOR_BASEPATH = "http://s3.amazonaws.com/bonanzapublic/scripts/ckeditor/";
 <div id="header_utilities">
 	<div id="left_utilities">
 			<div id="utility_sell_on_bonanza" class="utility">
-				<table><tbody><tr><td><a href="/ebay_alternative">Sell on Bonanza</a></td><td><div class="utility_arrow"></div></td></tr></tbody></table>
-				<div class="utility_dropdown">
-						<a href="/booths/my_booth_redirect">Add or edit items</a>
-						<a href="/users/create_intro_user?key=4v80w50b22A122">Start selling in one click</a>
-						<a href="/users/create_intro_user?import_ebay_splash=true&amp;key=4v80w50b22A122">Import from eBay</a>
-						<a href="/users/create_intro_user?import_etsy_splash=true&amp;key=4v80w50b22A122">Import from Etsy</a>
-						<a href="/users/create_intro_user?import_inventory_splash=true&amp;key=4v80w50b22A122">Import from inventory file</a>
-				</div>
-			</div>
+        <span class="button">
+          <table><tbody><tr><td>
+            <a href="/ebay_alternative">Sell on Bonanza</a></td><td><div class="utility_arrow"></div>
+          </td></tr></tbody></table>
+          <div class="utility_dropdown">
+              <a href="/booths/my_booth_redirect">Add or edit items</a>
+              <a href="/users/create_intro_user?key=4v80w50b22A122">Start selling in one click</a>
+                <a href="/users/create_intro_user?import_amazon_splash=true&amp;key=4v80w50b22A122">Import from Amazon</a>
+              <a href="/users/create_intro_user?import_ebay_splash=true&amp;key=4v80w50b22A122">Import from eBay</a>
+              <a href="/users/create_intro_user?import_etsy_splash=true&amp;key=4v80w50b22A122">Import from Etsy</a>
+              <a href="/users/create_intro_user?import_inventory_splash=true&amp;key=4v80w50b22A122">Import from inventory file</a>
+          </div>
+        </span>
+      </div>
 			<div id="utility_community" class="utility">
 				<table><tbody><tr><td><a href="/community">Community</a></td><td><div class="utility_arrow"></div></td></tr></tbody></table>
 				<div class="utility_dropdown">
 					<a href="/hand_picked_lists">Hand picked lists</a>
 					<a href="/collections">Collections</a>
 					<a href="/booth_coupons">Coupons and discounts</a>
-					<a href="http://www.bonanza.com/items/search?q%5Bis_freebie%5D=1&amp;q%5Bsort_by%5D=newness" class="link_to_search">Freebies</a>
 					<a href="/forums/8/topics">Promos and deals</a>
 					<a href="/blog">Bonanza Blog</a>
-					<a href="/catalog/build">Catalog Builder</a>
 				</div>
 			</div>
 			<div id="utility_help" class="utility">
@@ -109,7 +161,7 @@ CKEDITOR_BASEPATH = "http://s3.amazonaws.com/bonanzapublic/scripts/ckeditor/";
 
 			<div id="header_shopping">
 
-          <a href="http://www.bonanza.com/" id="logo" title="The best place to shop when taste matters.  More than 20,000 sellers, collaborating to bring you a vibrant collection of fashion, collectibles, decor, and more."></a>
+          <a href="http://www.bonanza.com/" id="logo" title="Shop for everything but the ordinary. More than 25,000 sellers offering you a vibrant collection of fashion, collectibles, home decor, and more."></a>
 
         <div id="header_categories">
           <div id="category_for_her" class="category">
@@ -158,6 +210,7 @@ CKEDITOR_BASEPATH = "http://s3.amazonaws.com/bonanzapublic/scripts/ckeditor/";
       <input name="q[sort_by]" type="hidden" value="relevancy">
       <input class="search_icon" name="commit" type="submit" value="Find">
 </form>
+    
   </div> <!-- header_search_box -->
 </div>  <!-- search_container -->
 
@@ -166,7 +219,7 @@ CKEDITOR_BASEPATH = "http://s3.amazonaws.com/bonanzapublic/scripts/ckeditor/";
 		</div> <!-- header -->
 
 		<div id="user_pop_text_container">
-			<p id="popTextTarget"></p>
+			<p id="pop_text_target"></p>
 		</div>
 
 		<div id="content" class="clearfix">
@@ -181,9 +234,9 @@ CKEDITOR_BASEPATH = "http://s3.amazonaws.com/bonanzapublic/scripts/ckeditor/";
 
 		
 <div id="site_help_sidebar">
-  <div class="searchHelp">
+  <div class="search_help">
     <p style="font-weight:bold;font-size:14px;">Find Help Topic</p>
-    <div class="leftSideOptions">
+    <div class="left_side_options">
       <form accept-charset="UTF-8" action="/site_help/search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div>
         <input class="search_field" id="search_form_q" name="search_form[q]" size="30" type="text">
         <input class="button26" name="commit" type="submit" value="Search Help Pages">
@@ -191,15 +244,15 @@ CKEDITOR_BASEPATH = "http://s3.amazonaws.com/bonanzapublic/scripts/ckeditor/";
   </div>
 
 	<p style="font-weight:bold;font-size:14px;">Everybody Wants to Know</p>
-	<table class="leftSideOptions" cellpadding="0" cellspacing="0">
-		<tbody><tr><td><a href="/site_help">General FAQ</a><br>All the basics</td></tr>		<tr><td><a href="/site_help/booths_setup">Selling Topics</a><br>The skinny on selling</td></tr>		<tr><td><a href="/site_help/offers">Buying Topics</a><br>How to make an offer and more</td></tr>		<tr><td><a href="/site_help/general">Assorted Topics</a><br>Various topics that don't fit into the above categories</td></tr>		<tr><td><a href="/knowledge_base_questions">Knowledge Base</a><br>Q&amp;A-style repository for your most advanced questions</td></tr>		<tr><td><a href="/site_help/videos">Videos</a><br>Quick videos on using Bonanza</td></tr>	</tbody></table>
+	<table class="left_side_options" cellpadding="0" cellspacing="0">
+		<tbody><tr><td><a href="/site_help">General FAQ</a><br>All the basics</td></tr>		<tr><td><a href="/site_help/booths_setup">Selling Topics</a><br>The skinny on selling</td></tr>		<tr><td><a href="/site_help/offers">Buying Topics</a><br>How to make an offer and more</td></tr>		<tr><td><a href="/site_help/general">Assorted Topics</a><br>Various topics that don't fit into the above categories</td></tr>		<tr><td><a href="/site_help/videos">Videos</a><br>Quick videos on using Bonanza</td></tr>	</tbody></table>
 
 	<p style="font-weight:bold;font-size:14px;">The Lawyers Told Us So</p>
-	<table class="leftSideOptions" cellpadding="0" cellspacing="0">
+	<table class="left_side_options" cellpadding="0" cellspacing="0">
 		<tbody><tr><td><a href="/site_help/user_agreement">User Agreement</a><br>Everybody loves rules!</td></tr>		<tr><td style="background-color:white;"><a href="/site_help/privacy_policy">Privacy Policy</a><br>Secret agents!  Everywhere!</td></tr>	</tbody></table>
 
 	<p style="font-weight:bold;font-size:14px;">Talk to Us</p>
-	<table class="leftSideOptions" cellpadding="0" cellspacing="0">
+	<table class="left_side_options" cellpadding="0" cellspacing="0">
 		<tbody><tr><td><a href="/site_help/contact_us">Contact Us</a><br>It's been so long since we last spoke</td></tr>		<tr><td><a href="/item_trait_suggestions/choose_category_form">Suggest an Item Trait</a><br>Help build the item category catalog</td></tr>		<tr><td><a href="/site_help/bug_report">Report a Bug</a><br>Find something wrong?  Let us know!</td></tr>		<tr><td><a href="/site_help/new_feature">Request a Feature</a><br>What's your great idea?</td></tr>	</tbody></table>
 </div>
 		<div id="site_help_content">
@@ -289,7 +342,7 @@ directly on our Site. Your interactions with these Features are governed by the 
 
 <h2>We want to hear from you</h2>
 <p>Your opinion truly counts. Our Site was designed to serve the needs of our Members. Please contact us with any questions or comments. You may do this by sending an email to support@bonanza.com.</p>
-<p>Or by mail: 400 East Pine St #215, Seattle, WA  98122</p>
+<p>Or by mail: 109 W Denny Way #312, Seattle, WA 98119</p>
 
 <p>Effective date: 1/1/2010<br>
 Statement last updated:  October 11, 2012</p>
@@ -316,7 +369,11 @@ Statement last updated:  October 11, 2012</p>
 
 		<div id="footer_credentials" class="offset">
   <a id="footer_verisign_credential" href="https://trustsealinfo.verisign.com/splash?dn=www.bonanza.com&amp;lang=en" target="_blank"></a>
+  <a target="_blank" id="bbblink" class="rbhzbus" href="http://www.bbb.org/western-washington/business-reviews/internet-shopping/bonanzacom-in-seattle-wa-22476619#bbbseal" title="Bonanza.com, Internet Shopping, Seattle, WA" style="display: block;position: relative;overflow: hidden; width: 100px; height: 38px; margin: 0px; padding: 0px;">
+    <img style="padding: 0px; border: none;" id="bbblinkimg" src="https://seal-alaskaoregonwesternwashington.bbb.org/logo/rbhzbus/bonanzacom-22476619.png" width="200" height="38" alt="Bonanza.com, Internet Shopping, Seattle, WA">
+  </a>
   <a id="footer_paypal_credential" href="https://www.paypal.com/my/cgi-bin/webscr?cmd=xpt/Marketing/securitycenter/buy/Protection-outside" target="_blank"></a>
+  <script type="text/javascript">var bbbprotocol = ( ("https:" == document.location.protocol) ? "https://" : "http://" ); document.write(unescape("%3Cscript src='" + bbbprotocol + 'seal-alaskaoregonwesternwashington.bbb.org' + unescape('%2Flogo%2Fbonanzacom-22476619.js') + "' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://seal-alaskaoregonwesternwashington.bbb.org/logo/bonanzacom-22476619.js" type="text/javascript"></script>
 </div>
 
 
@@ -332,10 +389,9 @@ Statement last updated:  October 11, 2012</p>
 <div class="email_field_container">
   <div class="email_field_container_inner">
     	<span class="email_field_container_text"></span>
-    <form accept-charset="UTF-8" action="/marketing_email_preferences/subscribe_user" method="post" onsubmit="BONZ.Form.subscribeBefore(this); jQuery.ajax({complete:function(request){BONZ.Form.subscribeComplete(request, true, false)}, data:jQuery.param(jQuery(this).serializeArray()), dataType:'script', type:'post', url:'/marketing_email_preferences/subscribe_user?escape=false'}); return false;"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="+FpdeRKQHIai33lnBLX/Fch3g2nZ8eObuhZT+QVBBjk="></div>
+    <form accept-charset="UTF-8" action="/marketing_email_preferences/subscribe_user" method="post" onsubmit="BONZ.Form.subscribeBefore(this); jQuery.ajax({complete:function(request){BONZ.Form.subscribeComplete(request, true, false)}, data:jQuery.param(jQuery(this).serializeArray()), dataType:'script', type:'post', url:'/marketing_email_preferences/subscribe_user?escape=false'}); return false;"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="eWzviD5UOoxKJq6uilDbxs4odH4UF7wN0NxYzNjFbPc="></div>
         <input class="email_field" id="email" name="email" type="text">
 				<input class="go_button email_submit" name="commit" type="submit" value="">
-			
 			
 </form>  </div>
 </div>
@@ -352,9 +408,9 @@ if (BONZ.Form) $(BONZ.Form.prepareEmailFields({'text':'email address', 'formCSS'
 		<input type="hidden" id="userIsActive" value="false">
 		<input type="hidden" id="userNameId" value="">
 		<input type="hidden" id="userTrialUserId" value="">
-		<input type="hidden" id="appServerId" value="app4 rendered at 09:40:50">
-		<input type="hidden" id="staticAssetServer" value="http://bonanzapublic.s3.amazonaws.com/">
-		<input type="hidden" id="appToken" value="1914">
+		<input type="hidden" id="appServerId" value="app7 rendered at 13:06:57">
+		<input type="hidden" id="staticAssetServer" value="http://s3.amazonaws.com/bonanzapublic/">
+		<input type="hidden" id="appToken" value="32350">
 		<div id="sound_element"></div>
 		<div style="clear:both"></div>
 	</div>
@@ -374,7 +430,7 @@ if (BONZ.Form) $(BONZ.Form.prepareEmailFields({'text':'email address', 'formCSS'
 				<a href="/site_help/privacy_policy" class="last">Privacy Statement</a>				&nbsp;|&nbsp;
 				<a href="/site_help/user_agreement">Terms of Use</a>				&nbsp;&nbsp;&nbsp;
 			</span>
-      © 2013 Bonanza. All Rights Reserved.
+      © 2014 Bonanza. All Rights Reserved.
     </div>
 	</div>
 
