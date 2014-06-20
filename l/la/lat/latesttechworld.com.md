@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the latesttechworld.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229225713id_/http%3A//latesttechworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latesttechworld.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620170649id_/http%3A//latesttechworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Latest Tech World
 
