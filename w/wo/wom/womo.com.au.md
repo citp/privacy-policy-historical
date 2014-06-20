@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the womo.com.au privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218234942id_/http%3A//www.womo.com.au/about.php%3Fopt%3DPrivacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womo.com.au privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620032039id_/http%3A//www.womo.com.au/about.php%3Fopt%3DPrivacy%2520Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -36,7 +36,7 @@ For businesses, the Business Owners page tells you which information is publicly
 
 You can publish reviews, comments, advice forum entries, fundraisers, your business or member profile, and other content to the WOMO website. Your reviews are displayed publicly, but you can opt whether or not you wish to remain anonymous for each review you submit. When you do not choose to remain anonymous, other WOMO users can see your Display Name, your suburb (if you enter one), and the photo that you upload (if you upload one). You can choose your own Display Name so this can be as anonymous, or as identifying as you like. You can also change your Display Name at any time (and this change will affect all past reviews you have submitted, as well as all subsequent reviews). Your Display Name is also shown automatically against any Advice Forum posts, comments to reviews, fundraisers, and any other content that you post on the WOMO website.
 
-WOMO, and our licensees, can republish your content as described in the [_WOMO Conditions of Use_](https://web.archive.org/web/20131218234942id_/http%3A//www.womo.com.au/about.php?opt=Conditions%20of%20Use). We publish reviews, business, fundraiser and other content and aggregate these to provide the WOMO website and service.  
+WOMO, and our licensees, can republish your content as described in the [_WOMO Conditions of Use_](https://web.archive.org/web/20140620032039id_/http%3A//www.womo.com.au/about.php?opt=Conditions%20of%20Use). We publish reviews, business, fundraiser and other content and aggregate these to provide the WOMO website and service.  
  
 
 * ###  Information Collected by Email
@@ -84,7 +84,7 @@ In addition, we may disclose personal information when we believe that we are la
 
 * ###  Feedback
 
-We welcome your feedback. If you have any comments or concerns about this Privacy Policy or would like to contact us for any reason, please [_click here for our contact details_](https://web.archive.org/web/20131218234942id_/http%3A//www.womo.com.au/contactus.php).  
+We welcome your feedback. If you have any comments or concerns about this Privacy Policy or would like to contact us for any reason, please [_click here for our contact details_](https://web.archive.org/web/20140620032039id_/http%3A//www.womo.com.au/contactus.php).  
  
 
 * ###  Policy Changes
