@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chartsbin.com privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128090620id_/http%3A//chartsbin.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chartsbin.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620220745id_/http%3A//chartsbin.com/about/privacy) for the most accurate reproduction.*
 
 # About ChartsBin.com
 
