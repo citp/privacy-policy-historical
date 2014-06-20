@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ivgstores.com privacy policy that was archived on 2013-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130811123905id_/http%3A//www.ivgstores.com/Pages/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ivgstores.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620182011id_/http%3A//www.ivgstores.com/Pages/Privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
