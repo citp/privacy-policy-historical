@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the parentteacheronline.com.au privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031220448id_/http%3A//parentteacheronline.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parentteacheronline.com.au privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620113300id_/http%3A//parentteacheronline.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Parent Teacher Interviews
 
 ## Privacy Policy
 
-      Country Net Solutions Pty Ltd, owners of Parent Teacher Online provide the following Privacy Statement
+      Country Net Software Pty Ltd, owners of Parent Teacher Online provide the following Privacy Statement
 
 **COLLECTING ANONYMOUS INFORMATION**  
 We automatically collect general website traffic information (such as how many people have visited the site, most popular pages etc). This information is collected into aggregate results in order to evaluate our service and business practice.
@@ -19,7 +19,7 @@ We will use personal information as supplied by schools or parents to process an
 
 We do not publish personal information about an individual or a school.
 
-Under no circumstances will Country Net Solutions Pty Ltd (Owners of PTO) sell or receive payment for licensing or disclosing your personal information.
+Under no circumstances will Country Net Software Pty Ltd (Owners of PTO) sell or receive payment for licensing or disclosing your personal information.
 
 **COOKIES**  
 We DO NOT use cookies.
@@ -36,10 +36,10 @@ Email addresses are never used or disclosed for any other purpose.
 We will never knowingly send you electronic messages without your consent. For more information on the ‘Spam Act 2003′ please visit the Australian Government’s relevant website.
 
 **FIREWALL**  
-Our system is protected by the Country Net Solutions network firewall. A firewall is a hardware and software security system designed to filter specified exchanges of information and restrict access to authorised systems and users.
+Our system is protected by the Country Net Software network firewall. A firewall is a hardware and software security system designed to filter specified exchanges of information and restrict access to authorised systems and users.
 
 **THIRD PARTIES**  
-Country Net Solutions never sells personal or anonymous information to third parties.
+Country Net Software never sells personal or anonymous information to third parties.
 
 **AUSTRALIAN LAW**  
 We comply with the Trade Practices Act 1974, state based Fair Trading Acts and Sale of Goods Acts, the Consumer Credit Code, the Electronic Transactions Act 1999 the Information Privacy Principles set out in the Commonwealth Privacy Act 1988; and the Privacy Amendment (Private Sector) Act 2000 (Cth).
@@ -47,4 +47,4 @@ We comply with the Trade Practices Act 1974, state based Fair Trading Acts and S
 Dispute resolution services are available in each Australian State and Territory.
 
 **FEEDBACK AND COMPLAINTS HANDLING PROCEDURE**  
-Country Net Solutions welcomes feedback and attends to all complaints promptly. Please email, fax or write to us using the contact information provided on our website.
+Country Net Software welcomes feedback and attends to all complaints promptly. Please email, fax or write to us using the contact information provided on our website.
