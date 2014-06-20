@@ -1,20 +1,21 @@
-<!--The following is the downloaded HTML source of the kgun9.com privacy policy that was archived on 2013-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131220115443id_/http%3A//www.kgun9.com/161198165.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kgun9.com privacy policy that was archived on 2014-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140620113949id_/http%3A//www.kgun9.com/161198165.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" class="html-home lc-desk"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+
     <title>JBG Privacy Policy 2012 - KGUN9.com</title>
-	
     <link type="image/ico" rel="icon" href="http://media.kgun9.com/designimages/kgun.ico">
 
 
 
 
 
-            <meta property="fb:app_id" content="242915982393445">
-                  <meta property="og:image" content="http://media.kgun9.com/images/kgun9_generic.jpg">
+
+        <meta property="fb:app_id" content="242915982393445">
+              <meta property="og:image" content="http://media.kgun9.com/images/kgun9_generic.jpg">
     <meta property="og:title" content="JBG Privacy Policy 2012 - KGUN9.com">
     <meta property="og:type" content="article">
-        <meta property="og:locale" content="en_US">
+    <meta property="og:locale" content="en_US">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
            <meta name="author" content="Jim Conigliaro">
            <meta name="keywords" content="JBG Privacy Policy 2012">
@@ -22,54 +23,55 @@
            <meta name="publishdate" content="2012-07-13T07:35:43">
            <meta name="medium" content="news">
 <style type="text/css">.loggedin{display:none !important;}.loggedout{display: none !important;}</style>
-<script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="javascript" type="text/javascript" src="http://www.kgun9.com/includes/JSO_cookies.js"></script>
+<script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script language="javascript" type="text/javascript" src="http://www.kgun9.com/includes/JSO_cookies.js"></script>
 <script language="javascript" type="text/javascript">
-    function loadjscssfile(filename, filetype){
-        if (filetype=="js"){ //if filename is a external JavaScript file
-            var fileref=document.createElement('script')
-            fileref.setAttribute("type","text/javascript")
-            fileref.setAttribute("src", filename)
+    function loadjscssfile(filename, filetype)  {
+        if (filetype=="js") { //if filename is a external JavaScript file
+            var fileref=document.createElement('script');
+            fileref.setAttribute("type","text/javascript");
+            fileref.setAttribute("src", filename);
         }
-        else if (filetype=="css"){ //if filename is an external CSS file
-            var fileref=document.createElement("link")
-            fileref.setAttribute("rel", "stylesheet")
-            fileref.setAttribute("type", "text/css")
-            fileref.setAttribute("href", filename)
+        else if (filetype=="css")   { //if filename is an external CSS file
+            var fileref=document.createElement("link");
+            fileref.setAttribute("rel", "stylesheet");
+            fileref.setAttribute("type", "text/css");
+            fileref.setAttribute("href", filename);
         }
 
-        if (typeof fileref!="undefined"){
+        if (typeof fileref!="undefined") {
             document.getElementsByTagName("head")[0].appendChild(fileref)       
         }
     }
 
-    function modRule(showClassName){
+    function modRule(showClassName) {
         if(!document.styleSheets)
             return;
 
         var thecss = (document.styleSheets[0].cssRules) ? document.styleSheets[0].cssRules : document.styleSheets[0].rules;
-
-        for(i=0; i < thecss.length; i++){
-           if(typeof thecss[i].selectorText != 'undefined')
-{
-            if(thecss[i].selectorText.toLowerCase()==showClassName)
-                thecss[i].style.cssText="display:block;";
-}
+        if (thecss != null) {
+            for(i=0; i < thecss.length; i++) {
+               if(typeof thecss[i].selectorText != 'undefined')
+                {
+                    if(thecss[i].selectorText.toLowerCase()==showClassName)
+                        thecss[i].style.cssText="display:block;";
+                }
+            }
         }
     }
 
         
-    //alert(cookiejar.fetch("fakeuser"))
+    //alert(cookiejar.fetch("fakeuser"));
     // If there is a UID cookie (means they are logged in), turn the loggedin styles on
-    if(cookiejar.fetch("UID") && cookiejar.fetch("fakeuser") == null){
+    if(cookiejar.fetch("UID") && cookiejar.fetch("fakeuser") == null) {
         modRule(".loggedin");   
         // If UID, BUT no curUserInfo login cookie yet, means they've JUST logged in: call setLoginCookies to initialize the login cookies
         if(cookiejar.fetch("curUserInfo") == null) {
-            loadjscssfile("http://www.kgun9.com/templates/JSO_determine_login_status?c=n&ran=" + Math.floor(Math.random()*1000000), "js") 
+            loadjscssfile("http://www.kgun9.com/templates/JSO_determine_login_status?c=n&ran=" + Math.floor(Math.random()*1000000), "js");
         }
     }
     
     // If there is no longer a UID (means they are logged out), turn the loggedout styles on, and make sure the cookies we set upon login get cleared out
-    else if(cookiejar.fetch("UID") == null){
+    else if(cookiejar.fetch("UID") == null) {
         modRule(".loggedout");
         cookiejar.crumble("curUserInfo");
         cookiejar.crumble("UID");
@@ -77,14 +79,13 @@
             }
     else{
         modRule(".loggedout");
-        cookiejar.crumble("UID")
-        cookiejar.crumble("fakeuser")
+        cookiejar.crumble("UID");
+        cookiejar.crumble("fakeuser");
         cookiejar.crumble("curUserInfo");
             }
     
-    
-
 </script>
+
 <!--  FB# 15479 Related video list height:0 to fix modified to "1.4.4/jquery.min.js"
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 -->
@@ -93,7 +94,7 @@
 <link type="text/css" rel="stylesheet" href="http://www.kgun9.com/templates/jquery.markitup.css?v=1&amp;d=904659">
 <link type="text/css" rel="stylesheet" href="http://www.kgun9.com/templates/jquery.ui.datepicker.css?v=3&amp;d=904659">
 <link type="text/css" rel="stylesheet" href="http://www.kgun9.com/includes/7f2e91e9db29484ccaa1682e1861f3ff/jquery.fancybox-2.0.6.css?v=12&amp;d=904659">
-<link type="text/css" rel="stylesheet" href="http://www.kgun9.com/templates/Lib.TV.css?v=182&amp;d=904659">
+<link type="text/css" rel="stylesheet" href="http://www.kgun9.com/templates/Lib.TV.css?v=193&amp;d=904659">
 <link type="text/css" rel="stylesheet" href="http://www.kgun9.com/templates/Lib.Common_ad.css?v=18&amp;d=904659">
 <script type="text/javascript" src="http://www.kgun9.com/includes/8b80fdd64d73ccbb67fe461d2acfc2af/jquery.form.js?v=1&amp;d=904659"></script>
 <script type="text/javascript" src="http://www.kgun9.com/includes/bc31b92f438a4f207979f045147da1bc/jquery.hint.js?v=1&amp;d=904659"></script>
@@ -113,6 +114,8 @@
 <script type="text/javascript" src="http://www.kgun9.com/templates/JI.Core.CommonFunctions.js?v=89&amp;d=904659"></script>
 <script type="text/javascript" src="http://www.kgun9.com/includes/56da4ac4d50bc8a0fe46e9365708108e/simplemobiledetection.js?v=2&amp;d=904659"></script>
 <script type="text/javascript" src="http://www.kgun9.com/includes/02461cd71b5bcbf8e59b8c138d8882ef/jbg.global.legacy.nav.js?v=4&amp;d=904659"></script>
+<script type="text/javascript" src="http://www.kgun9.com/templates/jrn.tracking.js?v=32&amp;d=904659"></script>
+
 <script type="text/javascript">
 function createCookie(name,value,days,domain) {
 	if (days) {
@@ -135,18 +138,18 @@ function viewNonMobileSite() {
 }
 </script>
 <script>
-	$(document).ready(function() {
-		if(isMobile.any()) {
-			$("#returnToMobile").show();
-		}
-		
-		$("#returnToMobile a").click(function(e) {
-			e.preventDefault();
-			eraseMobileCookie();
-			window.location = $(this).attr("href");
-		});
-	});
+$(document).ready(function() {
+        if(isMobile.any()) {
+$("#returnToMobile").show();
+        }
+$("#returnToMobile a").click(function(e) {
+            e.preventDefault();
+            eraseMobileCookie();
+            window.location = $(this).attr("href");
+        });
+    });
 </script>
+
 <!--[if lt IE 8]>
 <link rel="stylesheet" type="text/css" href="http://www.kgun9.com/includes/lib.ie.css" />
 <![endif]-->
@@ -811,276 +814,76 @@ function viewNonMobileSite() {
 
 </script>
 
+<!-- Start: GPT Async -->
+<script type="text/javascript">
+    var gptadslots=[];
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    (function(){ var gads = document.createElement('script');
+        gads.async = true; gads.type = 'text/javascript';
+        var useSSL = 'https:' == document.location.protocol;
+        gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+        var node = document.getElementsByTagName('script')[0];
+        node.parentNode.insertBefore(gads, node);
+    })();
+</script>
+ <script type="text/javascript">
+	googletag.cmd.push(function() {
+
+		//Adslot banner declaration
+		gptadslots[1]= googletag.defineSlot('/3468/jrn.kgun9/', [[728,90]],'div-gpt-ad-banner').setTargeting('pos',['banner']).addService(googletag.pubads());
+
+		//Adslot multisquare declaration
+		gptadslots[2]= googletag.defineSlot('/3468/jrn.kgun9/', [[300,250],[300,600]],'div-gpt-ad-multisquare').setTargeting('pos',['multisquare']).addService(googletag.pubads());
+
+		//Adslot bot_square declaration
+		gptadslots[3]= googletag.defineSlot('/3468/jrn.kgun9/', [[300,250]],'div-gpt-ad-bot_square').setTargeting('pos',['bot_square']).addService(googletag.pubads());
+
+		//Adslot latest_square declaration
+		gptadslots[4]= googletag.defineSlot('/3468/jrn.kgun9/', [[300,250]],'div-gpt-ad-latest_square').setTargeting('pos',['latest_square']).addService(googletag.pubads());
+
+		//Adslot logo declaration
+		gptadslots[5]= googletag.defineSlot('/3468/jrn.kgun9/', [[120,60]],'div-gpt-ad-logo').setTargeting('pos',['logo']).addService(googletag.pubads());
+
+		//Adslot panel declaration
+		gptadslots[6]= googletag.defineSlot('/3468/jrn.kgun9/', [[728,90],[728,400]],'div-gpt-ad-panel').setTargeting('pos',['panel']).addService(googletag.pubads());
+
+		//Adslot Out-of-page declaration
+		gptadslots[7]= googletag.defineOutOfPageSlot('/3468/jrn.kgun9/', 'div-gpt-ad-oop').addService(googletag.pubads());
+		
+		//Adslot Pencil pushdown declaration
+		gptadslots[8]= googletag.defineSlot('/3468/jrn.kgun9/', [[1000,40]],'div-gpt-ad-expanding1').setTargeting('pos',['expanding1']).addService(googletag.pubads());
+
+		//Adslot wallpaper declaration
+		gptadslots[9]= googletag.defineSlot('/3468/jrn.kgun9/', [[1,4]],'div-gpt-ad-special1').setTargeting('pos',['special1']).addService(googletag.pubads());
+		
+		//Adslot bot_square declaration
+		gptadslots[10]= googletag.defineSlot('/3468/jrn.kgun9/', [[1,4]],'div-gpt-ad-premium_square').setTargeting('pos',['premium_square']).addService(googletag.pubads());
+
+		googletag.pubads().enableSingleRequest();
+		googletag.pubads().setTargeting('temp',['74']).setTargeting('skycond',['Clear']).setTargeting('sclose',['false']).setTargeting('mobile',['false']).setTargeting('precip',['0']).setTargeting('fltemp',['75']).setTargeting('fhtemp',['104']).setTargeting('fskycond',['Sunny']).setTargeting('svwx',['false']).setTargeting('pgtype',['article']).setTargeting('keywords',['']);
+		googletag.pubads().enableAsyncRendering();
+		googletag.pubads().collapseEmptyDivs();
+		googletag.enableServices();
+    });
+</script>
+<!-- End: GPT -->
 <script language="javascript1.2">var trkcid=161198165;var partnerID=904659; var _hb=1;</script><script language="javascript1.2" src="http://www.kgun9.com/g/g/button/button_1.js"></script>
-
-
-
-
-
-
-
-
-
-
-
-
-<script type="text/javascript">
-    //<![CDATA[
-    var path = "http://www.kgun9.com/161198165.html";
-    var pageName = "JBG Privacy Policy 2012";
-    var siteId = 81;
-    var site = "kgun9.com";
-    var account = "jisentineltuscontelevision";
-    var sectionid = 904659;
-    var pageId = 161198165;
-    var category1 = "";
-    var category2 = "";
-    var category3 = "";
-    var category4 = "";
-    var btCategory = "";
-    var section1 = "homepage";
-    var section2 = "";
-    var section3 = "";
-    var specialSection = "";
-    var type1 = "GeneralPage";
-    var type2 = "";
-    var author = "";
-    var source = "www.todaystmj4.com";
-    var tags = "Brand:JS Online";
-    var demo = "";
-    var column = "";
-    var hierarchy = ""; // path
-    var sReferral = "";
-    var system = "Clickability";
-    //]]>
-</script>
-
-<script type="text/javascript">
-    //<![CDATA[
-    yld_mgr = {};
-    yld_mgr.pub_id="20106729874";
-    yld_mgr.site_name="KGUN-TV";
-    yld_mgr.request_type="ac";
-    yld_mgr.content_topic_id_list=['20201001'];
-    yld_mgr.site_section_name_list=['Home Page'];
-    yld_mgr.container_type="js";
-    
-    //yld_mgr.content_lang="";
-    //yld_mgr.ad_input_encoding="";
-    //yld_mgr.ad_output_encoding="";
-    //yld_mgr.audience_targeting="";
-    //yld_mgr.redirect_clk_wrapper="";
-    //yld_mgr.user_zip="";
-    //yld_mgr.user_state="";
-    //yld_mgr.clk_dest="";
-    //yld_mgr.cstm_sctn_list=[];
-    //yld_mgr.user_city="";
-    //yld_mgr.user_gender="";
-    //yld_mgr.user_age="";
-    //yld_mgr.user_dma="";
-    //yld_mgr.user_country="";
-    //yld_mgr.disable_content_send="";
-    //yld_mgr.user_income="";
-    yld_mgr.slots = {};
-    
-    yld_mgr.slots.ws_slot = {};
-    yld_mgr.slots.ws_slot.ad_size_list=["160x600"];
-    yld_mgr.slots.ws_slot.ad_delivery_mode="ipstf";
-    yld_mgr.slots.ws_slot.cstm_content_cat_list=['Other'];
-    yld_mgr.slots.ws_slot.content_type_list=['fn_news'];
-    
-    yld_mgr.slots.lb_slot = {};
-    yld_mgr.slots.lb_slot.ad_size_list=["728x90"];
-    yld_mgr.slots.lb_slot.ad_delivery_mode="ipatf";
-    yld_mgr.slots.lb_slot.cstm_content_cat_list=['Other'];
-    yld_mgr.slots.lb_slot.content_type_list=['fn_news'];
-    
-    yld_mgr.slots.bb_slot = {};
-    yld_mgr.slots.bb_slot.ad_size_list=["300x250"];
-    yld_mgr.slots.bb_slot.ad_delivery_mode="ipatf";
-    yld_mgr.slots.bb_slot.cstm_content_cat_list=['Other'];
-    yld_mgr.slots.bb_slot.content_type_list=['fn_news'];
-    
-    yld_mgr.slots.pencil_slot = {};
-    yld_mgr.slots.pencil_slot.ad_size_list=["1000x30"];
-    yld_mgr.slots.pencil_slot.ad_delivery_mode="ipatf";
-    yld_mgr.slots.pencil_slot.cstm_content_cat_list=['Other'];
-    yld_mgr.slots.pencil_slot.content_type_list=['fn_news'];
-    
-    yld_mgr.slots.peel_slot = {};
-    yld_mgr.slots.peel_slot.ad_size_list=["1x1"];
-    yld_mgr.slots.peel_slot.ad_delivery_mode="ipatf";
-    yld_mgr.slots.peel_slot.cstm_content_cat_list=['Other'];
-    yld_mgr.slots.peel_slot.content_type_list=['fn_news'];
-    
-    yld_mgr.slots.b_atf = {};
-    yld_mgr.slots.b_atf.ad_size_list=["88x31"];
-    yld_mgr.slots.b_atf.ad_delivery_mode="ipatf";
-    yld_mgr.slots.b_atf.cstm_content_cat_list=['Other'];
-    yld_mgr.slots.b_atf.content_type_list=['fn_news'];
-    
-    yld_mgr.slots.bb_left_slot = {};
-    yld_mgr.slots.bb_left_slot.ad_size_list=["300x250"];
-    yld_mgr.slots.bb_left_slot.ad_delivery_mode="ipstf";
-    yld_mgr.slots.bb_left_slot.cstm_content_cat_list=['Other'];
-    yld_mgr.slots.bb_left_slot.content_type_list=['fn_news'];
-    
-    yld_mgr.slots.lb_bot_slot = {};
-    yld_mgr.slots.lb_bot_slot.ad_size_list=["728x90"];
-    yld_mgr.slots.lb_bot_slot.ad_delivery_mode="ipbtf";
-    yld_mgr.slots.lb_bot_slot.cstm_content_cat_list=['Other'];
-    yld_mgr.slots.lb_bot_slot.content_type_list=['fn_news'];
-    
-    yld_mgr.slots.tile2_slot = {};
-    yld_mgr.slots.tile2_slot.ad_size_list=["88x31"];
-    yld_mgr.slots.tile2_slot.ad_delivery_mode="ipstf";
-    yld_mgr.slots.tile2_slot.cstm_content_cat_list=['Other'];
-    yld_mgr.slots.tile2_slot.content_type_list=['fn_news'];
-    
-    yld_mgr.slots.mb_nw = {};
-    yld_mgr.slots.mb_nw.ad_size_list=["250x30"];
-    yld_mgr.slots.mb_nw.ad_delivery_mode="ipatf";
-    yld_mgr.slots.mb_nw.cstm_content_cat_list=['news_watch'];
-    yld_mgr.slots.mb_nw.content_type_list=['fn_news'];
-    
-    yld_mgr.slots.tb_slot = {};
-    yld_mgr.slots.tb_slot.ad_size_list=["300x100"];
-    yld_mgr.slots.tb_slot.ad_delivery_mode="ipatf";
-    yld_mgr.slots.tb_slot.cstm_content_cat_list=['Other'];
-    yld_mgr.slots.tb_slot.content_type_list=['fn_news'];
-    
-    yld_mgr.slots.tile_atf_12060 = {};
-    yld_mgr.slots.tile_atf_12060.ad_size_list=["120x60"];
-    yld_mgr.slots.tile_atf_12060.ad_delivery_mode="ipatf";
-    yld_mgr.slots.tile_atf_12060.cstm_content_cat_list=['Other'];
-    yld_mgr.slots.tile_atf_12060.content_type_list=['fn_news'];
-    
-    yld_mgr.slots.tile_ind1_slot = {};
-    yld_mgr.slots.tile_ind1_slot.ad_size_list=["120x90"];
-    yld_mgr.slots.tile_ind1_slot.ad_delivery_mode="ipatf";
-    yld_mgr.slots.tile_ind1_slot.cstm_content_cat_list=['Other'];
-    yld_mgr.slots.tile_ind1_slot.content_type_list=['fn_news'];
-    
-    yld_mgr.slots.fb_slot = {};
-    yld_mgr.slots.fb_slot.ad_size_list=["468x60"];
-    yld_mgr.slots.fb_slot.ad_delivery_mode="ipatf";
-    yld_mgr.slots.fb_slot.cstm_content_cat_list=['Other'];
-    yld_mgr.slots.fb_slot.content_type_list=['fn_news'];
-    
-    yld_mgr.slots.tile125_slot = {};
-    yld_mgr.slots.tile125_slot.ad_size_list=["125x125"];
-    yld_mgr.slots.tile125_slot.ad_delivery_mode="ipbtf";
-    yld_mgr.slots.tile125_slot.cstm_content_cat_list=['Other'];
-    yld_mgr.slots.tile125_slot.content_type_list=['fn_news'];
-    
-    yld_mgr.slots.bgimg_slot = {};
-    yld_mgr.slots.bgimg_slot.ad_size_list=["1x1"];
-    yld_mgr.slots.bgimg_slot.ad_delivery_mode="ipbtf";
-    yld_mgr.slots.bgimg_slot.cstm_content_cat_list=['Other'];
-    yld_mgr.slots.bgimg_slot.content_type_list=['fn_news'];
-    
-    yld_mgr.slots.bb_tall_slot = {};
-    yld_mgr.slots.bb_tall_slot.ad_size_list=["300x600"];
-    yld_mgr.slots.bb_tall_slot.ad_delivery_mode="ipstf";
-    yld_mgr.slots.bb_tall_slot.cstm_content_cat_list=['Other'];
-    yld_mgr.slots.bb_tall_slot.content_type_list=['fn_news'];
-    
-    yld_mgr.slots.bb_bot = {};
-    yld_mgr.slots.bb_bot.ad_size_list=["300x250"];
-    yld_mgr.slots.bb_bot.ad_delivery_mode="ipbtf";
-    yld_mgr.slots.bb_bot.cstm_content_cat_list=['Other'];
-    yld_mgr.slots.bb_bot.content_type_list=['fn_news'];
-    
-    yld_mgr.slots.bb_ipwbtf = {};
-    yld_mgr.slots.bb_ipwbtf.ad_size_list=["300x250"];
-    yld_mgr.slots.bb_ipwbtf.ad_delivery_mode="Way_Below_The_Fold";
-    yld_mgr.slots.bb_ipwbtf.cstm_content_cat_list=['Other'];
-    yld_mgr.slots.bb_ipwbtf.content_type_list=['fn_news'];
-    //]]>
-</script>
-<script type="text/javascript" src="http://e.yieldmanager.net/script.js"></script>
-<script type="text/javascript" src="http://www.kgun9.com/includes/JI_advertise.js"></script>
-<script type="text/javascript" src="http://www.kgun9.com/includes/JI_trafficTracking.js"></script>
-
-
-
-<!-- End SiteCatalyst code version: H.15.1. -->
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-29456381-4']);
-  _gaq.push(['_setDomainName', 'kgun9.com']);
-  _gaq.push(['_addIgnoredRef', 'kgun9.com']);
-  _gaq.push(['_setAllowLinker', true]);
-  _gaq.push(['_setCustomVar',2,'taxonomy',hierarchy,3]);
-  _gaq.push(['_setCustomVar',3,'type',type1,3]);
-  _gaq.push(['_setCustomVar',4,'author',author,3]);
-  _gaq.push(['r._setAccount', 'UA-29456381-12']);
-  _gaq.push(['r._setDomainName', 'kgun9.com']);
-  _gaq.push(['r._addIgnoredRef', 'kgun9.com']);
-  _gaq.push(['r._setAllowLinker', true]);
-  _gaq.push(['r._setCustomVar',2,'taxonomy',hierarchy,3]);
-  _gaq.push(['r._setCustomVar',3,'type',type1,3]);
-  _gaq.push(['r._setCustomVar',4,'author',author,3]);
-  _gaq.push(['_trackPageview']);
-  _gaq.push(["r._trackPageview"]);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-var _trackPageView = function(path,title){
-if(title != ""){
-_gaq.push(["_set", "title",title]);
-  _gaq.push(["r._set","title",title]);
-}
-if(path == "")
-{
-_gaq.push(['_trackPageview']);
-  _gaq.push(["r._trackPageview"]);
-}
-else
-{
-
-    _gaq.push(['_trackPageview',path]);
-  _gaq.push(["r._trackPageview",path]);
-}
-}
-
-</script>
-
-<script type="text/javascript">
-       var _comscore = _comscore || [];
-_comscore.push({ c1: "2", c2: "6035347", c3: "", c4: "" });
-       
-(function() {
-              var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
-s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
-              el.parentNode.insertBefore(s, el);
-       })();
-</script>
-<noscript>
-       <img src="http://b.scorecardresearch.com/p?c1=2&c2=6035347&c3=&c4=&c5=&c6=&c15=&cv=2.0&cj=1" />
-</noscript>
-
-<!-- End Tracking Scripts -->
-
 <script language="Javascript">var js="0.0";</script><script language="Javascript1.0">js="1.0";</script><script language="Javascript1.1">js="1.1";</script><script language="Javascript1.2">js="1.2";</script><script language="Javascript1.3">js="1.3";</script><script language="Javascript1.4">js="1.4";</script><script language="Javascript1.5">js="1.5";</script><script language="Javascript1.6">js="1.6";</script><script language="Javascript1.7">js="1.7";</script><script language="Javascript1.8">js="1.8";</script><script language="Javascript1.9">js="1.9";</script><script language="javascript1.1" type="text/javascript"> 
 <!-- 
 var bb=new Image();var _ti=910;var _q="";var na=(navigator.appName=="Netscape");var ns=(navigator.appName.substring(0,9)=="Microsoft");var _qDate=new Date();var _r=(document.referrer.indexOf(getdomain(location))>-1?"":document.referrer);_q+="&5="+parseInt(_qDate.getTimezoneOffset());_q+="&35="+parseInt(_qDate.toString().indexOf("aylight")>-1?1:0);_q+="&6=161198165";_q+="&7=904659";_q+="&8="+encodeURIComponent(document.location);_q+="&9="+encodeURIComponent(_r);_q+="&10="+encodeURIComponent(document.title);_q+="&11="+encodeURIComponent(navigator.userAgent);_q+="&12="+encodeURIComponent((na?navigator.language:navigator.userLanguage));_q+="&13="+((navigator.javaEnabled()?'1':'0'));_q+="&14="+encodeURIComponent(js);if(document.cookie.indexOf("cc")==-1)document.cookie="cc=t;";_q+="&15="+((document.cookie.indexOf("cc")==-1)?"0":"1");_q+="&16="+encodeURIComponent((screen.width+'x'+screen.height));_q+="&17="+encodeURIComponent(((ns)?screen.colorDepth:screen.pixelDepth));_q+="&18="+encodeURIComponent(Math.random());_q+="&19="+_ti;bb.src="http://s.clickability.com/s?"+_q;
 function setonclicks(a,b){var i=0;var retval=true;while(document.links[i]!=a){i++;}if(b.li[i])retval=b.li[i].oldonclick();bye(a);return retval;}
 function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.links.length;lnks.li=new Array(sze);for (var i=0; i<sze; i++){if(document.links[i].onclick){lnks.li[i]=document.links[i];lnks.li[i].oldonclick=document.links[i].onclick;}eval("document.links[i].onclick=function(){return setonclicks(this,lnks);}");}}function bye(a){if(a.href.toLowerCase().indexOf('http')!=0)return true;if(getdomain(location)==getdomain(a))return true;if(a.href.toLowerCase().indexOf('http')!=0)return true;var _qc="http://s.clickability.com/s?19=912";_qc+="&6=161198165";_qc+="&7=904659";_qc+="&18="+encodeURIComponent(Math.random());_qc+="&100="+a.href;_qc+="&101="+encodeURIComponent(a.text);var cc=new Image();if(na){cc.src=_qc;pc(100);}else cc.src=_qc;return true;}function pc(a){d = new Date(); while (1){m =new Date(); df = m-d;if( df > a ) {break;}}}function getdomain(a){var i=a.host.indexOf(":");return (i>=0)?a.host.substring(0,i):a.host;}if(self['setupalready']){var dosetup = false;alert('There are two $imware.tracker calls on this page. Please alert Client Services');}else{var dosetup = true;var hasonload=false;}if(dosetup && ((window.screen)||((new Array()).toSource)||((new Array()).shift&&ns))&&(navigator.userAgent.indexOf('Mac')<0)){if(window.onload){oldonld=window.onload;hasonload=true;}window.onload=newonld;var setupalready = true;}//-->
 </script><noscript>
-<img width="1" height="1" src="http://s.clickability.com/s?19=990&14=0&6=161198165&7=904659&25=0&18=0.2687349765258583">
+<img width="1" height="1" src="http://s.clickability.com/s?19=990&14=0&6=161198165&7=904659&25=0&18=0.6667311560020469">
 </noscript>
+
 <script id="facebook-jssdk" async="" src="https://connect.facebook.net/en_US/all.js"></script></head>
 <body>
 
 
 <!-- start refresh every 5 minutes -->
-<!-- last build: Fri Dec 20 03:54:42 PST 2013 -->
+<!-- last build: Fri Jun 20 04:39:43 PDT 2014 -->
 <!-- refresh kb placeholder -->
 <!-- refresh kb placeholder -->
 <!-- refresh kb placeholder -->
@@ -1207,7 +1010,7 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
             <div id="rich-media">
             </div>
 <div id="page" class="kgun9 layout-home generic">
-	<div id="hatNavArea">
+    <div id="hatNavArea">
 
 
 	<style type="text/css">
@@ -1232,7 +1035,7 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
 					</li>
 					<li class="hat-nav-item" id="nav_TucsonHat-1041thetruth.com">
 						<a href="http://www.1041thetruth.com" target="_blank" onclick="_gaq.push(['_trackEvent', 'Hat Navigation', 'Click', 'www.1041thetruth.com']);">
-						104.1 The Truth</a>
+						104.1 KQTH</a>
 							<div class="listenLive"><a href="http://www.1041thetruth.com/listen-live" target="_blank" onclick="_gaq.push(['_trackEvent', 'Hat Navigation', 'Click', 'www.1041thetruth.com Streaming Player']);">Listen</a></div>
 					</li>
 					<li class="hat-nav-item" id="nav_TucsonHat-1063thegroove.com">
@@ -1247,37 +1050,22 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
 			</ul>
 		</div>
 	</div><!--navigation-->
-	</div>
+    </div>
     <div id="head">
         <h1><a href="/">KGUN9 On Your Side</a></h1>
         <div class="block">
-
-  		      	    	
-
-
-<div class="ox_ad id_44003987">
-        
-
-
-        <script type="text/javascript">
-            if (!window.OX_ads) { OX_ads = []; }
-            OX_ads.push({ "auid" : "389170","vars":{'contentId':'161198165','domain':'kgun9.com','type':'GeneralPage'}});
-        </script>
-        <script type="text/javascript">
-            document.write('<scr'+'ipt src="http://ox-d.jrn.com/w/1.0/jstag"><\/scr'+'ipt>');
-        </script><script src="http://ox-d.jrn.com/w/1.0/jstag"></script>
-        <noscript>
-        <iframe id="5238af0f409f2" name="5238af0f409f2" src="http://ox-d.jrn.com/w/1.0/afr?auid=389170&cb=INSERT_RANDOM_NUMBER_HERE" frameborder="0" scrolling="no"><a href="http://ox-d.jrn.com/w/1.0/rc?cs=5238af0f409f2&cb=INSERT_RANDOM_NUMBER_HERE" ><img src="http://ox-d.jrn.com/w/1.0/ai?auid=389170&cs=5238af0f409f2&cb=INSERT_RANDOM_NUMBER_HERE" border="0" alt=""></a></iframe>
-        </noscript>
+<div id="div-gpt-ad-banner" class="gpt-ad">
+<script type="text/javascript">
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-banner'); });
+</script>
 </div>
-
         </div>
     </div>
-				<!-- jrnnav -->
-			    <div id="nav" class="navigation-search-block">
-		<!-- NAVIGATION -->
-				<nav class="desktop-navigation">
-				
+        <!-- jrnnav -->
+    <div id="nav" class="navigation-search-block">
+        <!-- NAVIGATION -->
+        <nav class="desktop-navigation">
+
 
 
 
@@ -1285,18 +1073,18 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
 <ul>
 	<li class="section-home" id="nav_KGUN9-Home"><a href="http://www.kgun9.com">Home</a>
 	</li>
-	<li class="section-primary" id="nav_KGUN9-News"><a href="http://www.jrn.com/kgun9/news">News</a>
-		<!-- overlay-menus -->
+		<li class="section-primary" id="nav_KGUN9-News"><a href="http://www.jrn.com/kgun9/news">News</a>
+			<!-- overlay-menus -->
 		<div class="chat-bubble overlay_menus2" style="display: none;">
 		<div class="popup-content">
-<p><a href="http://www.jrn.com/kgun9/news"> NEWS</a> <a href="http://www.jrn.com/kgun9/news/sports">SPORTS</a> <a href="http://www.jrn.com/kgun9/news/good-morning-tucson">GOOD MORNING TUCSON</a> <a href="http://www.jrn.com/kgun9/news/you-ask-we-investigate">YOU ASK WE INVESTIGATE</a> <a href="http://www.jrn.com/kgun9/news/guy-atchleys-arizona/">GUY ATCHLEY'S ARIZONA</a> <a href="http://www.jrn.com/kgun9/news/stella-cares">Stella Cares</a> <a href="http://www.jrn.com/kgun9/news/watch">9 ON YOUR SIDE </a></p>		</div>
+<p><a href="http://www.jrn.com/kgun9/news"> News</a> <a href="http://www.jrn.com/kgun9/news/sports">Sports</a> <a href="http://www.jrn.com/kgun9/news/good-morning-tucson">Good Morning Tucson</a> <a href="http://www.jrn.com/kgun9/news/you-ask-we-investigate">You Ask We Investigate</a> <a href="http://www.jrn.com/kgun9/news/guy-atchleys-arizona/">Guy Atchley's Arizona</a> <a href="http://www.jrn.com/kgun9/news/stella-cares">Stella Cares</a> <a href="http://www.jrn.com/kgun9/news/watch">9 On Your Side</a> <a href="http://www.jrn.com/kgun9/galleries/" target="_self">Galleries</a></p>		</div>
 		<div class="bubble-arrow-border" style="left: 25px;"></div>
 		<div class="bubble-arrow" style="left: 25px;"></div>
 		</div>
 		<!-- / end overlay-menus -->
-	</li>
-	<li class="section-primary" id="nav_KGUN9-Weather"><a href="http://www.jrn.com/kgun9/weather">Weather</a>
-		<!-- overlay-menus -->
+		</li>
+		<li class="section-primary" id="nav_KGUN9-Weather"><a href="http://www.jrn.com/kgun9/weather">Weather</a>
+			<!-- overlay-menus -->
 		<div class="chat-bubble overlay_menus2" style="display: none;">
 		<div class="popup-content">
 <p><a href="http://www.jrn.com/kgun9/weather#l2">Current Conditions</a> <a href="http://www.jrn.com/kgun9/weather#l3">Hourly Forecast </a><a href="http://www.jrn.com/kgun9/weather#l4">10-day Forecast</a> <a href="http://www.jrn.com/kgun9/weather#l5">Radar &amp; Maps</a> <a href="http://www.jrn.com/kgun9/weather#l7">Alerts</a> <a href="http://www.jrn.com/kgun9/weather#l8">More Weather</a></p>		</div>
@@ -1304,9 +1092,9 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
 		<div class="bubble-arrow" style="left: 25px;"></div>
 		</div>
 		<!-- / end overlay-menus -->
-	</li>
-	<li class="section-primary" id="nav_KGUN9-OnAir"><a href="">On Air</a>
-		<!-- overlay-menus -->
+		</li>
+		<li class="section-primary" id="nav_KGUN9-OnAir"><a href="">On Air</a>
+			<!-- overlay-menus -->
 		<div class="chat-bubble overlay_menus2" style="display: none;">
 		<div class="popup-content">
 <p><a href="http://www.kgun9.com/traffic/">Traffic</a>  <a href="http://www.kgun9.com/tvlistings "> TV&nbsp;Listings</a></p>		</div>
@@ -1314,62 +1102,58 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
 		<div class="bubble-arrow" style="left: 25px;"></div>
 		</div>
 		<!-- / end overlay-menus -->
-	</li>
-	<li class="section-primary" id="nav_KGUN9-Shows"><a href="">Shows</a>
-		<!-- overlay-menus -->
+		</li>
+		<li class="section-primary" id="nav_KGUN9-Shows"><a href="">Shows</a>
+			<!-- overlay-menus -->
 		<div class="chat-bubble overlay_menus2" style="display: none;">
 		<div class="popup-content">
-<p><a href="http://www.jrn.com/kgun9/news/good-morning-tucson">Good Morning Tucson</a> <a target="_blank" href="http://abcnews.go.com/watch/good-morning-america/SH5587637">Good Morning America</a> <a target="_blank" href="http://www.tucsonmorningglend.com">The Morning Blend</a> <a target="_blank" href="http://livekellyandmichael.dadt.com/">Live! With Kelly and Michael</a> <a target="_blank" href="http://abc.go.com/shows/the-view">The View</a> <a target="_blank" href="http://abc.go.com/shows/the-chew">The Chew</a> <a target="_blank" href="http://www.ellentv.com/">The Ellen DeGeneres Show</a> <a href="http://abcnews.go.com/2020/" target="_blank">20/20</a></p>		</div>
+<p><a href="http://www.jrn.com/kgun9/news/good-morning-tucson">Good Morning Tucson</a> <a target="_blank" href="http://abcnews.go.com/watch/good-morning-america/SH5587637">Good Morning America</a> <a target="_blank" href="http://www.tucsonmorningblend.com">The Morning Blend</a> <a target="_blank" href="http://livekellyandmichael.dadt.com/">Live! With Kelly and Michael</a> <a target="_blank" href="http://abc.go.com/shows/the-view">The View</a> <a target="_blank" href="http://abc.go.com/shows/the-chew">The Chew</a> <a target="_blank" href="http://www.ellentv.com/">The Ellen DeGeneres Show</a> <a href="http://abcnews.go.com/2020/" target="_blank">20/20</a> <a href="http://www.jrn.com/kgun9/schedule">TV Schedule</a></p>		</div>
 		<div class="bubble-arrow-border" style="left: 25px;"></div>
 		<div class="bubble-arrow" style="left: 25px;"></div>
 		</div>
 		<!-- / end overlay-menus -->
+		</li>
+		<li class="section-primary" id="nav_KGUN9-ContestsJRN"><a href="http://www.kgun9.com/members">Contests</a>
 	</li>
-	<li class="section-primary" id="nav_KGUN9-ContestsJRN"><a href="http://www.kgun9.com/members">Contests</a>
-	</li>
-	<li class="section-primary" id="nav_KGUN9-AboutJRN"><a href="http://www.kgun9.com/about/">Station Info</a>
-		<!-- overlay-menus -->
+		<li class="section-primary" id="nav_KGUN9-AboutJRN"><a href="http://www.kgun9.com/about/">Station Info</a>
+			<!-- overlay-menus -->
 		<div class="chat-bubble overlay_menus2" style="display: none;">
 		<div class="popup-content">
-<p><a href="http://www.kgun9.com/about/contact">Contact KGUN 9</a> <a href="http://www.kgun9.com/about/people/">The KGUN 9 Team</a> <a href="http://www.kgun9.com/about/billofrights/">Viewer Bill of Rights</a> <a href="http://www.kgun9.com/about/community/">Community Partnership</a> <a href="http://www.kgun9.com/members/">KGUN 9 Contests </a><a href="http://www.kgun9.com/about/player/">ABC Online Player</a> <a href="http://www.kgun9.com/about/support/">KGUN 9 Tech Support</a> <a href="http://jobs.journalbroadcastgroup.com/">Jobs at KGUN 9</a></p>		</div>
+<p><a href="http://www.kgun9.com/about/contact">Contact KGUN 9</a> <a href="http://www.kgun9.com/about/people/">The KGUN 9 Team</a> <a href="http://www.kgun9.com/about/billofrights/">Viewer Bill of Rights</a> <a href="http://www.kgun9.com/about/community/">Community Partnership</a> <a href="http://www.kgun9.com/members/">KGUN 9 Contests </a><a target="_blank" href="http://abc.go.com/?aff=KGUN&amp;deeplink=kgun">ABC Online Player</a> <a href="http://www.kgun9.com/about/support/">KGUN 9 Tech Support</a> <a href="http://jobs.journalbroadcastgroup.com/">Jobs at KGUN 9</a> <a href="http://www.jrn.com/kgun9/schedule">TV&nbsp;Schedule</a></p>		</div>
 		<div class="bubble-arrow-border" style="left: 25px;"></div>
 		<div class="bubble-arrow" style="left: 25px;"></div>
 		</div>
 		<!-- / end overlay-menus -->
+		</li>
+		<li class="section-primary" id="nav_KGUN-iContribute-JRN"><a href="http://www.jrn.com/kgun9/icontribute">iContribute</a>
 	</li>
 </ul>
-				</nav>
-				<!-- / END NAVIGATION -->
-        <form method="get" action="http://search.journalbroadcastgroup.com/kgun.aspx" class="search">
+
+        </nav>
+        <!-- / END NAVIGATION -->
+        <form method="get" action="http://search.jrn.com/kgun.aspx" class="search">
             <input type="text" name="k" onblur="if (this.value=='') {this.value='Search';}" onfocus="if (this.value=='Search') {this.value='';}" value="Search">
             <button type="submit">Search</button>
         </form>
     </div>        
     <div id="body">
-	<div id="returnToMobile"><a href="http://www.kgun9.com">Click for mobile site</a></div>
+    <div id="returnToMobile"><a href="http://www.kgun9.com">Click for mobile site</a></div>
             <div id="rich-media">
-
-<div class="ox_ad id_50092837">
-        
-
-
-        <script type="text/javascript">
-            if (!window.OX_ads) { OX_ads = []; }
-            OX_ads.push({ "auid" : "389171","vars":{'contentId':'161198165','domain':'kgun9.com','type':'GeneralPage'}});
-        </script>
-        <script type="text/javascript">
-            document.write('<scr'+'ipt src="http://ox-d.jrn.com/w/1.0/jstag"><\/scr'+'ipt>');
-        </script><script src="http://ox-d.jrn.com/w/1.0/jstag"></script>
-        <noscript>
-        <iframe id="5238af0f4130f" name="5238af0f4130f" src="http://ox-d.jrn.com/w/1.0/afr?auid=389171&cb=INSERT_RANDOM_NUMBER_HERE" frameborder="0" scrolling="no"><a href="http://ox-d.jrn.com/w/1.0/rc?cs=5238af0f4130f&cb=INSERT_RANDOM_NUMBER_HERE" ><img src="http://ox-d.jrn.com/w/1.0/ai?auid=389171&cs=5238af0f4130f&cb=INSERT_RANDOM_NUMBER_HERE" border="0" alt=""></a></iframe>
-        </noscript>
+				<!--— PENCIL PUSHDOWN AD TAG —-->
+<div id="div-gpt-ad-expanding1" class="gpt-ad">
+<script type="text/javascript">
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-expanding1'); });
+</script>
 </div>
-
             </div>
-			
+<!-- isSubscriberManagedPage: false -->
+            <div id="body-top">
+<p class="breadcrumbs"><a href="http://www.kgun9.com">Home</a></p>
+            </div>
         <div id="body-inner">
             <div id="content">
-								<!--startclickprintinclude-->
+        
+<!--startclickprintinclude-->
 	<h2 class="headline">JBG Privacy Policy 2012</h2>
 <!--startclickprintexclude-->
 <ul id="sharing-tools">
@@ -1751,25 +1535,22 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
 	});
 </script>
 </div>
+
 <!--endclickprintinclude-->
             </div>
             <div id="body-right">
-<!-- RIGHT RAIL: [com.clickability.cms.translator.UtilContext$userObject@375b6715, com.clickability.cms.translator.UtilContext$userObject@51ccb017, com.clickability.cms.translator.UtilContext$userObject@553cdff5, com.clickability.cms.translator.UtilContext$userObject@f93798b, com.clickability.cms.translator.UtilContext$userObject@1b109caa, com.clickability.cms.translator.UtilContext$userObject@5f9d6ac7, com.clickability.cms.translator.UtilContext$userObject@57cd5fdb, com.clickability.cms.translator.UtilContext$userObject@6c504fe5, com.clickability.cms.translator.UtilContext$userObject@cad7af1, com.clickability.cms.translator.UtilContext$userObject@51626ab7] -->
+<!-- RIGHT RAIL: [com.clickability.cms.translator.UtilContext$userObject@3f0c7ee, com.clickability.cms.translator.UtilContext$userObject@34d5dc47, com.clickability.cms.translator.UtilContext$userObject@4470d46a, com.clickability.cms.translator.UtilContext$userObject@4b899e40, com.clickability.cms.translator.UtilContext$userObject@37f4a27e, com.clickability.cms.translator.UtilContext$userObject@1dd81ae5, com.clickability.cms.translator.UtilContext$userObject@56cdbfb1] -->
 <!-- TEMPLATE # 1: Lib.Desk.Module.HTML -->
 <div class="section odd pos_1 first block id_224576151 html clearfix">
 <div class="content">
-<center>
-<table width="300" height="40" border="0" bgcolor="#021eaa" cellspacing="0" cellpadding="0">
-    <tbody>
-        <tr>
-            <td><center><a href="http://www.kgun9.com/watch-live"><img width="150" height="49" src="http://media.kgun9.com/images/watch-live-tv.gif" alt=""></a></center></td>
-            <td width="120"><a href="http://www.kgun9.com/watch-live">
-            <div style="width: 120px; height: 62px; border: 0; position: absolute; z-index: 1200">&nbsp;</div>
-            </a>             <iframe width="120" scrolling="no" height="62" frameborder="0" src="http://new.livestream.com/accounts/5043279/events/2323574/player?width=120&amp;height=62&amp;autoPlay=true&amp;mute=true"> </iframe></td>
-        </tr>
-    </tbody>
-</table>
-</center>
+<div class="watch-live">
+<div class="cool1">
+<h3>Watch Live</h3>
+<a class="gallery-button" href="http://www.kgun9.com/watch-live">Watch Larger »</a></div>
+<div class="coll2">&nbsp; <a href="http://www.kgun9.com/watch-live">
+<div style="width: 120px; height: 62px; border: 0; position: absolute; z-index: 1200">&nbsp;</div>
+</a><iframe width="120" scrolling="no" height="62" frameborder="0" src="http://new.livestream.com/accounts/5043279/events/2323574/player?width=120&amp;height=62&amp;autoPlay=true&amp;mute=true"></iframe></div>
+</div>
 </div>
 </div>
 
@@ -1790,29 +1571,7 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
 
 			
 									
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-																						
-
-
-
 			
-									
-						
 
 
 
@@ -1829,56 +1588,61 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
 
 
 
+		
 																							
+		
+
+
+
+			
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+																						
+
+
+
+			
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+																						
 
 
 
 			
 									
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-																						
-
-
-
-						
-						
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-																						
-
-
-
 			
-						
 
 
 
@@ -1895,29 +1659,34 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
 
 
 
-																					
-
-
-
-			
-												
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+		
 																							
+		
+
+
+
+			
+									
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+																							
+		
 
 
 
@@ -1939,12 +1708,13 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
 
 
 
-																					
+		
+																						
 
 
 
 			
-									
+						
 
 
 
@@ -1961,54 +1731,78 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
 
 
 
+		
+																						
+
+
+
+			
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
 																						<ol class="striped numToPull">
 <!-- velocityCount:: 1 and count:: 8 -->
 <li class="odd">
-<a class="article" href="http://www.jrn.com/kgun9/news/Serial-shoplifters-arrested-on-bicycles-236672861.html">
-<span>12/19/2013</span> 
-<b>9OYS Crime Watch:</b>&nbsp;Serial shoplifters arrested on bicycles</a>
+<a class="article" href="http://www.jrn.com/kgun9/news/Independence-Day-celebrations-around-Southern-Arizona-263858311.html">
+<span>6/19/2014</span> 
+<b>Local:</b>&nbsp;Independence Day celebrations around Southern Arizona</a>
 </li>
 <!-- velocityCount:: 2 and count:: 8 -->
 <li class="even">
-<a class="article" href="http://www.jrn.com/kgun9/news/sports/Top-ranked-Wildcats-beat-Southern-69-43-236668091.html">
-<span>4:53 a.m.</span> 
-Top-ranked Wildcats beat Southern 69-43</a>
+<a class="video" href="http://www.jrn.com/kgun9/news/New-rules-on-college-violent-crimes-263930541.html">
+<span>6/19/2014</span> 
+New rules on college violent crimes</a>
 </li>
 <!-- velocityCount:: 3 and count:: 8 -->
 <li class="odd">
-<a class="article" href="http://www.jrn.com/kgun9/news/Northwest-Fire-working-house-fire-236632991.html">
-<span>12/19/2013</span> 
-Roofing repairs set house on fire</a>
+<a class="video" href="http://www.jrn.com/kgun9/news/Top-Arizona-education-official-exposed-for-anonymous-blog-comments-263930231.html">
+<span>6/19/2014</span> 
+Top Arizona education official exposed for anonymous blog comments</a>
 </li>
 <!-- velocityCount:: 4 and count:: 8 -->
 <li class="even">
-<a class="article" href="http://www.jrn.com/kgun9/news/Man-sustains-life-threatening-uinjuries-following-236664251.html">
-<span>12/19/2013</span> 
-<b>Happening Now:</b>&nbsp;Pedestrian hit-and-run collision, man has life-threatening injuries</a>
+<a class="video" href="http://www.jrn.com/kgun9/news/New-Pantene-ad-tells-women-to-stop-apologizing--263925111.html">
+<span>6/19/2014</span> 
+<b>Stella Cares:</b>&nbsp;New Pantene ad tells women to stop apologizing </a>
 </li>
 <!-- velocityCount:: 5 and count:: 8 -->
 <li class="odd">
-<a class="video" href="http://www.jrn.com/kgun9/news/Toys-for-kids-in-CPS-supervision--236662311.html">
-<span>4:37 a.m.</span> 
-Toys for kids in CPS supervision </a>
+<a class="video" href="http://www.jrn.com/kgun9/news/When-you-light-up-matters--263924521.html">
+<span>6/19/2014</span> 
+<b>Stella Cares:</b>&nbsp;When you light up matters </a>
 </li>
 <!-- velocityCount:: 6 and count:: 8 -->
 <li class="even">
-<a class="video" href="http://www.jrn.com/kgun9/news/Attention-Target-Shoppers-Hackers-may-have-your-credit-card-data-236659751.html">
-<span>4:39 a.m.</span> 
-Attention Target Shoppers: Hackers may have your credit card data</a>
+<a class="video" href="http://www.jrn.com/kgun9/news/More-fuel-for-the-A-10-Full-House-votes-money-to-keep-it-flying-263923071.html">
+<span>6/19/2014</span> 
+More fuel for the A-10. Full House votes money to keep it flying</a>
 </li>
 <!-- velocityCount:: 7 and count:: 8 -->
 <li class="odd">
-<a class="article" href="http://www.jrn.com/kgun9/news/Claims-filed-by-more-Ariz-firefighters-families-236667611.html">
-<span>12/19/2013</span> 
-Claims filed by more Ariz. firefighters' families</a>
+<a class="article" href="http://www.jrn.com/kgun9/news/US-House-votes-to-keep-A-10-flying-263920411.html">
+<span>6/19/2014</span> 
+U.S. House votes to keep A-10 flying</a>
 </li>
 <!-- velocityCount:: 8 and count:: 8 -->
 <li class="even">
-<a class="article" href="http://www.jrn.com/kgun9/news/Man-arrested-for-sexual-exploitation-of-a-minor-236650341.html">
-<span>12/19/2013</span> 
-<b>9OYS Crime Watch:</b>&nbsp;Man arrested for sexual exploitation of a minor</a>
+<a class="video" href="http://www.jrn.com/kgun9/news/Staying-safe-when-you-light-up-263912731.html">
+<span>6/19/2014</span> 
+<b>No Bad Days With Barrett:</b>&nbsp;Staying safe when you light up</a>
 </li>
 </ol>
 		</div>
@@ -2020,132 +1814,110 @@ Claims filed by more Ariz. firefighters' families</a>
 
 <!-- TEMPLATE # 3: Lib.Desk.Module.Ad -->
 
-<div class="ox_ad id_44004072">
-        
-
-
-        <script type="text/javascript">
-            if (!window.OX_ads) { OX_ads = []; }
-            OX_ads.push({ "auid" : "389174","vars":{'contentId':'161198165','domain':'kgun9.com','type':'GeneralPage'}});
-        </script>
-        <script type="text/javascript">
-            document.write('<scr'+'ipt src="http://ox-d.jrn.com/w/1.0/jstag"><\/scr'+'ipt>');
-        </script><script src="http://ox-d.jrn.com/w/1.0/jstag"></script>
-        <noscript>
-        <iframe id="5238af0f41bc3" name="5238af0f41bc3" src="http://ox-d.jrn.com/w/1.0/afr?auid=389174&cb=INSERT_RANDOM_NUMBER_HERE" frameborder="0" scrolling="no"><a href="http://ox-d.jrn.com/w/1.0/rc?cs=5238af0f41bc3&cb=INSERT_RANDOM_NUMBER_HERE" ><img src="http://ox-d.jrn.com/w/1.0/ai?auid=389174&cs=5238af0f41bc3&cb=INSERT_RANDOM_NUMBER_HERE" border="0" alt=""></a></iframe>
-        </noscript>
+    <div id="div-gpt-ad-multisquare" class="gpt-ad">
+<script type="text/javascript">
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-multisquare'); });
+</script>
 </div>
 
 
 <!-- TEMPLATE # 4: Lib.Desk.Module.WeatherBlock -->
-<link type="text/css" rel="stylesheet" href="http://www.kgun9.com/includes/ffe231d8b4ea7f6de1024e861bc80207/JBG.Weather.Module.css?v=16&amp;d=904659">
-<script type="text/javascript" src="http://www.kgun9.com/includes/5ea3a30967537bdec9dfa51fd246843f/JBG.Weather.Module.select.js?v=12&amp;d=904659"></script>
+    <link type="text/css" rel="stylesheet" href="http://www.kgun9.com/includes/10b6e404a27dbe4a7974be7c3a029480/JBG.Weather.Module.css?v=18&amp;d=904659">
 <script type="text/javascript" src="http://www.kgun9.com/includes/f7fb92f1ad10a723b5d5155742b91208/jquery.cookie.js?v=16&amp;d=904659"></script>
 <script type="text/javascript" src="http://www.kgun9.com/includes/288a7bb0414f4625c983685b1fe51fbe/jquery.blockUI.js?v=1&amp;d=904659"></script>
-<script type="text/javascript" src="http://www.kgun9.com/templates/JBG.Weather.Module.js?v=27&amp;d=904659"></script>
+<script type="text/javascript" src="http://www.kgun9.com/templates/JBG.Weather.Module.js?v=32&amp;d=904659"></script>
 <!-- nested-block-1 -->
 <div class="nested-block-1 block" id="weatherBlock">
-	<!-- header-nestedblock1 -->
-	<div class="header-nestedblock1">
-		<a href="http://www.jrn.com/kgun9/weather/Arizona/Tucson" title="">
-		</a>
-		<div class="headerform-nestedblock1">
-			<form action="#" method="post" id="weatherSearch">
-				<input id="wxField" type="text" onblur="if (this.value=='') {this.value='85706';}" onfocus="if (this.value=='85706') {this.value='';}" value="85706">
-				<input type="submit" value="">
-			</form>
-		</div>
-	</div>
-	<!-- /end header-nestedblock1 -->
-	<!-- content-nestedblock1 -->
-	<div class="content-nestedblock1">
-		<!-- left-elements -->
-		<div class="left-elements">
-			<h3 id="cityName">Tucson, AZ</h3>
-			<div id="weatherBlockSelect" class="select-element">
-				<select id="weatherBlockSelectnormal" class="trueWeatherSelect" name="weatherBlockSelectnormal" tabindex="" style="">
-					<option value="#l2" data-ext="Arizona/Tucson">Right Now</option>
-					<option value="#l3" data-ext="Arizona/Tucson">Hourly Forecast</option>
-					<option value="#l4" data-ext="Arizona/Tucson">10-Day Forecast</option>
-					<option value="#l5" data-ext="Arizona/Tucson">Radar &amp; Maps</option>
-					<option value="#l7" data-ext="Arizona/Tucson">Alerts</option>
-				</select>
-			</div>			
-			<div class="grid_2" id="weatherOutput">
-				<img class="skyIcon" src="http://media.kgun9.com/designimages/currentwx_103.png" alt="Overcast">
-				<div class="temperature">50°</div>
-				<div class="row-line weather-variant sky">Overcast</div>
-				<div class="row-line precip"><div>Precip</div><span>40%</span></div>
-				<div class="row-line humidity"><div>Humidity</div><span>62%</span></div>
-				<div class="row-line wind"><div>Wind</div><span>ESE at 2 mph</span></div>
-				<div class="row-line alerts red-text"><div>Alerts</div><span>1  <a href="http://www.jrn.com/kgun9/weather/Arizona/Tucson#l7" title="Alerts">(Read)</a> </span></div>
-			</div>			
-		</div>
-		<!-- / end left-elements -->
-		<!-- right-elements -->
-		<div class="right-elements">
-			<div class="sponsoredby">
-				<div class="prew-nestedblock1 ad">
-<div class="ox_ad">
-        
-
-
-        <script type="text/javascript">
-            if (!window.OX_ads) { OX_ads = []; }
-            OX_ads.push({ "auid" : "407485","vars":{'contentId':'161198165','domain':'kgun9.com','type':'GeneralPage'}});
-        </script>
-        <script type="text/javascript">
-            document.write('<scr'+'ipt src="http://ox-d.jrn.com/w/1.0/jstag"><\/scr'+'ipt>');
-        </script><script src="http://ox-d.jrn.com/w/1.0/jstag"></script>
-        <noscript>
-        <iframe id="517ae59310f56" name="517ae59310f56" src="http://ox-d.jrn.com/w/1.0/afr?auid=407485&cb=INSERT_RANDOM_NUMBER_HERE" frameborder="0" scrolling="no"><a href="http://ox-d.jrn.com/w/1.0/rc?cs=517ae59310f56&cb=INSERT_RANDOM_NUMBER_HERE" ><img src="http://ox-d.jrn.com/w/1.0/ai?auid=407485&cs=517ae59310f56&cb=INSERT_RANDOM_NUMBER_HERE" border="0" alt=""></a></iframe>
-        </noscript>
+    <!-- header-nestedblock1 -->
+    <div class="header-nestedblock1">
+		        <a href="http://www.jrn.com/kgun9/weather/Arizona/Tucson" title="">
+        </a>
+				        <div class="headerform-nestedblock1">
+            <form action="#" method="post" id="weatherSearch">
+                <input id="wxField" type="text" onblur="if (this.value=='') {this.value='85706';}" onfocus="if (this.value=='85706') {this.value='';}" value="85706">
+                <input type="submit" value="">
+            </form>
+        </div>
+    </div>
+    <!-- /end header-nestedblock1 -->
+    <!-- content-nestedblock1 -->
+    <div class="content-nestedblock1">
+        <!-- left-elements -->
+        <div class="left-elements">
+            <h3 id="cityName">Tucson, AZ</h3>
+            <div id="weatherBlockSelect" class="select-element">
+                <select id="weatherBlockSelectnormal" class="trueWeatherSelect" name="weatherBlockSelectnormal" tabindex="" style="">
+                    <option value="#l2" data-ext="Arizona/Tucson">Right Now</option>
+                    <option value="#l3" data-ext="Arizona/Tucson">Hourly Forecast</option>
+                    <option value="#l4" data-ext="Arizona/Tucson">10-Day Forecast</option>
+                    <option value="#l5" data-ext="Arizona/Tucson">Radar &amp; Maps</option>
+                    <option value="#l7" data-ext="Arizona/Tucson">Alerts</option>
+                </select>
+            </div>            
+            <div class="grid_2" id="weatherOutput">
+                <img class="skyIcon" src="http://media.kgun9.com/designimages/currentwx_97.png" alt="Clear">
+                <div class="temperature">74°</div>
+                <div class="row-line weather-variant sky">Clear</div>
+                <div class="row-line precip"><div>Precip</div><span>0%</span></div>
+                <div class="row-line humidity"><div>Humidity</div><span>25%</span></div>
+                <div class="row-line wind"><div>Wind</div><span>S at 6 mph</span></div>
+                <div class="row-line alerts red-text"><div>Alerts</div><span>0  </span></div>
+            </div>            
+        </div>
+        <!-- / end left-elements -->
+        <!-- right-elements -->
+        <div class="right-elements">
+            <div class="sponsoredby">
+                <div class="prew-nestedblock1 ad">
+                                            <div id="div-gpt-ad-logo" class="gpt-ad">
+<script type="text/javascript">
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-logo'); });
+</script>
 </div>
-				</div>
-			</div>
-			<!-- prew-nestedblock1 -->
-			<!-- / end prew-nestedblock1 -->
-			<!-- prew-nestedblock1 -->
-			<div class="prew-nestedblock1">
-				<a href="http://www.jrn.com/kgun9/weather/Arizona/Tucson" title="Outlook">
-					<img src="http://thumbnail.newsinc.com/25462349.jpg" alt="Outlook">
-				</a>
-				<span><a href="http://www.jrn.com/kgun9/weather/Arizona/Tucson" title="">Today’s Outlook »</a></span>
-			</div>
-			<!-- / end prew-nestedblock1 -->
-			<!-- prew-nestedblock1 -->
-			<div class="prew-nestedblock1">
-				<a href="http://www.jrn.com/kgun9/weather/Arizona/Tucson#l5" title="">
-					<img src="http://graphics.jsonline.com/4weather/KGUN/Local_Satellite_IR_RADAR_3Hr.jpg" alt="Radar">
-				</a>
-				<span><a href="http://www.jrn.com/kgun9/weather/Arizona/Tucson#l5" title="">Radar »</a></span>
-			</div>
-			<!-- / end prew-nestedblock1 -->
-		</div>
-		<!-- / end right-elements -->
-	</div>
-	<!-- /end content-nestedblock1 -->	
-</div>	
+                                    </div>
+            </div>
+            <!-- prew-nestedblock1 -->
+            <!-- / end prew-nestedblock1 -->
+            <!-- prew-nestedblock1 -->
+            <div class="prew-nestedblock1">
+                <a href="http://www.jrn.com/kgun9/weather/Arizona/Tucson" title="Outlook">
+                    <img src="http://thumbnail.newsinc.com/26285892.jpg" alt="Outlook">
+                </a>
+                <span><a href="http://www.jrn.com/kgun9/weather/Arizona/Tucson" title="">Today's Outlook »</a></span>
+            </div>
+            <!-- / end prew-nestedblock1 -->
+            <!-- prew-nestedblock1 -->
+            <div class="prew-nestedblock1">
+                <a href="http://www.jrn.com/kgun9/weather/radar/Interactive-Radar-246927201.html" title="">
+                    <img src="http://graphics.jrn.com/4weather/KGUN/Regional_Current_12Hr_High-thumb.jpg" alt="Radar">
+                </a>
+                <span><a href="http://www.jrn.com/kgun9/weather/radar/Interactive-Radar-246927201.html" title="">Radar »</a></span>
+            </div>
+            <!-- / end prew-nestedblock1 -->
+        </div>
+        <!-- / end right-elements -->
+    </div>
+    <!-- /end content-nestedblock1 -->    
+</div>    
 <!-- / end nested-block-1 -->
 <script>
-	function weatherRedirect(anch,extUrl) {
-		extUrl = typeof extUrl !== 'undefined' ? extUrl : 'Arizona/Tucson'; //default
-		window.location = "http://www.jrn.com/kgun9/weather/"+extUrl+anch;
-	}
-	
-	function updateAlerts(extUrl) {
-		extUrl = typeof extUrl !== 'undefined' ? extUrl : 'Arizona/Tucson'; //default
-		$("div#weatherOutput").find('.alerts span').append('<a href="http://www.jrn.com/kgun9/weather/'+extUrl+'#l7" title="">(Read)</a>');
-	}
-	
-	$(document).ready(function(){
-		var wxCookie = $.cookie('JRN_Weather');
-		if(wxCookie != undefined && "USAZ0247" != wxCookie) { // use cookie
-			$("#weatherSearch").trigger("submit",["cc", wxCookie, false]);
-		}
-	});
+    function weatherRedirect(anch,extUrl) {
+        extUrl = typeof extUrl !== 'undefined' ? extUrl : 'Arizona/Tucson'; //default
+        window.location = "http://www.jrn.com/kgun9/weather/"+extUrl+anch;
+    }
+    
+    function updateAlerts(extUrl) {
+        extUrl = typeof extUrl !== 'undefined' ? extUrl : 'Arizona/Tucson'; //default
+        $("div#weatherOutput").find('.alerts span').append('<a href="http://www.jrn.com/kgun9/weather/'+extUrl+'#l7" title="">(Read)</a>');
+    }
+    
+    $(document).ready(function(){
+        var wxCookie = $.cookie('JRN_Weather');
+        if(wxCookie != undefined && "USAZ0247" != wxCookie) { // use cookie
+            $("#weatherSearch").trigger("submit",["cc", wxCookie, false]);
+        }
+    });
 </script>
-
 
 <!-- TEMPLATE # 5: Lib.Desk.Module.FilmStrip -->
 <div class="filmstripContainer" data-vr-zone="Filmstrip">
@@ -2178,7 +1950,21 @@ document.write("<a href=\"mailto:" + email + "\">" + email + "</a>");
 
 
 
-																					
+			
+									
+						
+									
+						
+									
+						
+									
+						
+									
+						
+									
+						
+						
+						
 			
 
 
@@ -2193,12 +1979,159 @@ document.write("<a href=\"mailto:" + email + "\">" + email + "</a>");
 
 
 
-            <a href="http://www.kgun9.com/multimedia/icontribute/Submit-your-weather-photos---KGUN9-177928441.html" title="iContribute weather photos">
-            <img src="http://9d86ab891a18307abd51-3ccc6e74c3628f4d39ad09bb5c661677.r79.cf1.rackcdn.com/0a69942b-afd9-4c46-a793-ad2fb99d2c1b.jpg" width="120" height="100">
+            <a href="http://www.jrn.com/kgun9/icontribute/pets/myrescuedpet.html" title="My Rescued Pet">
+            <img src="http://9d86ab891a18307abd51-3ccc6e74c3628f4d39ad09bb5c661677.r79.cf1.rackcdn.com/ba6c2bd6-8221-4c1f-9eb7-670ef1e96f67.jpg" width="120" height="100">
             </a>
         </div>
         <div class="title">
-            <a href="http://www.kgun9.com/multimedia/icontribute/Submit-your-weather-photos---KGUN9-177928441.html" title="iContribute weather photos">iContribute weather photos</a>
+            <a href="http://www.jrn.com/kgun9/icontribute/pets/myrescuedpet.html" title="My Rescued Pet">My Rescued Pet</a>
+        </div>
+    </div>
+
+
+
+			
+									
+						
+									
+						
+									
+						
+									
+						
+									
+						
+									
+						
+						
+						
+			
+
+
+
+
+
+
+        <div class="slide">
+        <div class="slide_kicker">Photo Gallery</div>
+        <div class="slide_image">
+<!-- Item type is JBG_UGCPhotoGallery -->
+
+
+
+            <a href="http://www.jrn.com/kgun9/icontribute/pets/thisplaceisiazoo.html" title="This Place is a Zoo!">
+            <img src="http://9d86ab891a18307abd51-3ccc6e74c3628f4d39ad09bb5c661677.r79.cf1.rackcdn.com/da6b0408-8d27-4531-99fa-4242ed27156c.jpg" width="120" height="100">
+            </a>
+        </div>
+        <div class="title">
+            <a href="http://www.jrn.com/kgun9/icontribute/pets/thisplaceisiazoo.html" title="This Place is a Zoo!">This Place is a Zoo!</a>
+        </div>
+    </div>
+
+
+
+			
+									
+									
+						
+									
+						
+									
+						
+									
+						
+									
+						
+						
+						
+						
+			
+
+
+
+
+
+
+        <div class="slide">
+        <div class="slide_kicker">Photo Gallery</div>
+        <div class="slide_image">
+<!-- Item type is JBG_UGCPhotoGallery -->
+
+
+
+            <a href="http://www.jrn.com/kgun9/galleries/208737221.html" title="Cute Cats">
+            <img src="http://9d86ab891a18307abd51-3ccc6e74c3628f4d39ad09bb5c661677.r79.cf1.rackcdn.com/ba6c2bd6-8221-4c1f-9eb7-670ef1e96f67.jpg" width="120" height="100">
+            </a>
+        </div>
+        <div class="title">
+            <a href="http://www.jrn.com/kgun9/galleries/208737221.html" title="Cute Cats">Cute Cats</a>
+        </div>
+    </div>
+
+
+
+			
+									
+						
+									
+						
+									
+						
+									
+						
+									
+						
+									
+						
+						
+						
+			
+
+
+
+
+
+
+        <div class="slide">
+        <div class="slide_kicker">Photo Gallery</div>
+        <div class="slide_image">
+<!-- Item type is JBG_UGCPhotoGallery -->
+
+
+
+            <a href="http://www.jrn.com/kgun9/icontribute/pets/208737541.html" title="Adorable Dogs">
+            <img src="http://9d86ab891a18307abd51-3ccc6e74c3628f4d39ad09bb5c661677.r79.cf1.rackcdn.com/3d91ac6b-dc7c-440b-9dad-f03be9310777.jpg" width="120" height="100">
+            </a>
+        </div>
+        <div class="title">
+            <a href="http://www.jrn.com/kgun9/icontribute/pets/208737541.html" title="Adorable Dogs">Adorable Dogs</a>
+        </div>
+    </div>
+
+
+
+			
+									
+																		
+
+
+
+
+
+
+        <div class="slide">
+        <div class="slide_kicker">Photo Gallery</div>
+        <div class="slide_image">
+<!-- Item type is JBG_UGCPhotoGallery -->
+
+
+
+            <a href="http://www.jrn.com/kgun9/icontribute/iContribute-Thunderbird-Airshow-pics-254881231.html" title="iContribute Thunderbird Airshow pics">
+            <img src="http://9d86ab891a18307abd51-3ccc6e74c3628f4d39ad09bb5c661677.r79.cf1.rackcdn.com/3e552a29-1bb3-4b3c-8eb0-96713e95d87a.jpg" width="120" height="100">
+            </a>
+        </div>
+        <div class="title">
+            <a href="http://www.jrn.com/kgun9/icontribute/iContribute-Thunderbird-Airshow-pics-254881231.html" title="iContribute Thunderbird Airshow pics">iContribute Thunderbird Airshow pics</a>
         </div>
     </div>
 
@@ -2208,7 +2141,8 @@ document.write("<a href=\"mailto:" + email + "\">" + email + "</a>");
 									
 						
 						
-																								
+						
+																		
 
 
 
@@ -2222,38 +2156,12 @@ document.write("<a href=\"mailto:" + email + "\">" + email + "</a>");
 
 
 
-            <a href="http://www.jrn.com/kgun9/galleries/Holiday-Decorations-177929971.html" title="Holiday Decorations">
-            <img src="http://9d86ab891a18307abd51-3ccc6e74c3628f4d39ad09bb5c661677.r79.cf1.rackcdn.com/b09e3044-7474-4e59-b009-83c46417e042.jpg" width="120" height="100">
+            <a href="http://www.jrn.com/kgun9/icontribute/Submit-your-weather-photos---KGUN9-177928441.html" title="iContribute weather photos">
+            <img src="http://9d86ab891a18307abd51-3ccc6e74c3628f4d39ad09bb5c661677.r79.cf1.rackcdn.com/b470b1f3-9d00-41df-96a4-fe54ba7de719.jpg" width="120" height="100">
             </a>
         </div>
         <div class="title">
-            <a href="http://www.jrn.com/kgun9/galleries/Holiday-Decorations-177929971.html" title="Holiday Decorations">Holiday Decorations</a>
-        </div>
-    </div>
-
-
-
-																					
-			
-
-
-
-
-
-
-        <div class="slide">
-        <div class="slide_kicker">Photo Gallery</div>
-        <div class="slide_image">
-<!-- Item type is JBG_UGCPhotoGallery -->
-
-
-
-            <a href="http://www.kgun9.com/multimedia/icontribute/azsunsets-213958971.html" title="iContribute Arizona Sunsets">
-            <img src="http://9d86ab891a18307abd51-3ccc6e74c3628f4d39ad09bb5c661677.r79.cf1.rackcdn.com/41f8a050-4872-45c7-a502-ecc716795ff2.jpg" width="120" height="100">
-            </a>
-        </div>
-        <div class="title">
-            <a href="http://www.kgun9.com/multimedia/icontribute/azsunsets-213958971.html" title="iContribute Arizona Sunsets">iContribute Arizona Sunsets</a>
+            <a href="http://www.jrn.com/kgun9/icontribute/Submit-your-weather-photos---KGUN9-177928441.html" title="iContribute weather photos">iContribute weather photos</a>
         </div>
     </div>
 
@@ -2263,32 +2171,11 @@ document.write("<a href=\"mailto:" + email + "\">" + email + "</a>");
 									
 						
 						
+						
 																											
-
-
-
-
-
-
-        <div class="slide">
-        <div class="slide_kicker">Photo Gallery</div>
-        <div class="slide_image">
-<!-- Item type is JBG_UGCPhotoGallery -->
-
-
-
-            <a href="http://www.jrn.com/kgun9/galleries/Kids-with-Santa-177929481.html" title="Kids with Santa">
-            <img src="http://9d86ab891a18307abd51-3ccc6e74c3628f4d39ad09bb5c661677.r79.cf1.rackcdn.com/3cf389c4-f446-4c6a-9dbc-997e545221a8.jpg" width="120" height="100">
-            </a>
-        </div>
-        <div class="title">
-            <a href="http://www.jrn.com/kgun9/galleries/Kids-with-Santa-177929481.html" title="Kids with Santa">Kids with Santa</a>
-        </div>
-    </div>
-
-
-
-																											
+						
+						
+						
 			
 
 
@@ -2303,18 +2190,77 @@ document.write("<a href=\"mailto:" + email + "\">" + email + "</a>");
 
 
 
-            <a href="http://www.kgun9.com/multimedia/icontribute/178954961.html" title="iContribute pet photos">
-            <img src="http://9d86ab891a18307abd51-3ccc6e74c3628f4d39ad09bb5c661677.r79.cf1.rackcdn.com/a96e679b-5f3a-47b5-9775-b93ed22e91bb.jpg" width="120" height="100">
+            <a href="http://www.jrn.com/kgun9/icontribute/178954961.html" title="iContribute pet photos">
+            <img src="http://9d86ab891a18307abd51-3ccc6e74c3628f4d39ad09bb5c661677.r79.cf1.rackcdn.com/ba6c2bd6-8221-4c1f-9eb7-670ef1e96f67.jpg" width="120" height="100">
             </a>
         </div>
         <div class="title">
-            <a href="http://www.kgun9.com/multimedia/icontribute/178954961.html" title="iContribute pet photos">iContribute pet photos</a>
+            <a href="http://www.jrn.com/kgun9/icontribute/178954961.html" title="iContribute pet photos">iContribute pet photos</a>
         </div>
     </div>
 
 
 
-																					
+			
+									
+																		
+
+
+
+
+
+
+        <div class="slide">
+        <div class="slide_kicker">Photo Gallery</div>
+        <div class="slide_image">
+<!-- Item type is JBG_UGCPhotoGallery -->
+
+
+
+            <a href="http://www.jrn.com/kgun9/icontribute/iContribute-wildlife-photos-212979111.html" title="iContribute wildlife photos">
+            <img src="http://9d86ab891a18307abd51-3ccc6e74c3628f4d39ad09bb5c661677.r79.cf1.rackcdn.com/1392a55f-7fef-4446-8d2e-73a9092a9ae7.jpg" width="120" height="100">
+            </a>
+        </div>
+        <div class="title">
+            <a href="http://www.jrn.com/kgun9/icontribute/iContribute-wildlife-photos-212979111.html" title="iContribute wildlife photos">iContribute wildlife photos</a>
+        </div>
+    </div>
+
+
+
+			
+									
+																		
+
+
+
+
+
+
+        <div class="slide">
+        <div class="slide_kicker">Photo Gallery</div>
+        <div class="slide_image">
+<!-- Item type is JBG_UGCPhotoGallery -->
+
+
+
+            <a href="http://www.jrn.com/kgun9/icontribute/iContribute-featured-photos-187927281.html" title="iContribute featured photos">
+            <img src="http://9d86ab891a18307abd51-3ccc6e74c3628f4d39ad09bb5c661677.r79.cf1.rackcdn.com/684cb542-b5c9-4f31-a173-86f557486c9f.jpg" width="120" height="100">
+            </a>
+        </div>
+        <div class="title">
+            <a href="http://www.jrn.com/kgun9/icontribute/iContribute-featured-photos-187927281.html" title="iContribute featured photos">iContribute featured photos</a>
+        </div>
+    </div>
+
+
+
+			
+												
+						
+						
+						
+																		
 			
 
 
@@ -2329,116 +2275,12 @@ document.write("<a href=\"mailto:" + email + "\">" + email + "</a>");
 
 
 
-            <a href="http://www.kgun9.com/multimedia/icontribute/iContribute-wildlife-photos-212979111.html" title="iContribute wildlife photos">
-            <img src="http://9d86ab891a18307abd51-3ccc6e74c3628f4d39ad09bb5c661677.r79.cf1.rackcdn.com/bba9d040-e785-47bf-8779-4182c52ef298.jpg" width="120" height="100">
+            <a href="http://www.jrn.com/kgun9/galleries/iContribute-Wildcat-Fever-251601721.html" title="Wildcat Fever!">
+            <img src="http://9d86ab891a18307abd51-3ccc6e74c3628f4d39ad09bb5c661677.r79.cf1.rackcdn.com/e287efb8-92a5-4ec2-84ba-09eac91e6170.jpg" width="120" height="100">
             </a>
         </div>
         <div class="title">
-            <a href="http://www.kgun9.com/multimedia/icontribute/iContribute-wildlife-photos-212979111.html" title="iContribute wildlife photos">iContribute wildlife photos</a>
-        </div>
-    </div>
-
-
-
-																					
-			
-
-
-
-
-
-
-        <div class="slide">
-        <div class="slide_kicker">Photo Gallery</div>
-        <div class="slide_image">
-<!-- Item type is JBG_UGCPhotoGallery -->
-
-
-
-            <a href="http://www.kgun9.com/multimedia/icontribute/iContribute-My-Vacation-photos-215502621.html" title="iContribute my vacation photos">
-            <img src="http://9d86ab891a18307abd51-3ccc6e74c3628f4d39ad09bb5c661677.r79.cf1.rackcdn.com/ad379ce5-052f-4152-b7d3-acd1bfcedf89.jpg" width="120" height="100">
-            </a>
-        </div>
-        <div class="title">
-            <a href="http://www.kgun9.com/multimedia/icontribute/iContribute-My-Vacation-photos-215502621.html" title="iContribute my vacation photos">iContribute my vacation photos</a>
-        </div>
-    </div>
-
-
-
-																					
-			
-
-
-
-
-
-
-        <div class="slide">
-        <div class="slide_kicker">Photo Gallery</div>
-        <div class="slide_image">
-<!-- Item type is JBG_UGCPhotoGallery -->
-
-
-
-            <a href="http://www.kgun9.com/multimedia/icontribute/Tucson-News-183979001.html" title="iContribute news photos">
-            <img src="http://9d86ab891a18307abd51-3ccc6e74c3628f4d39ad09bb5c661677.r79.cf1.rackcdn.com/33cb5610-d603-4c64-8fbe-388a05c5147d.jpg" width="120" height="100">
-            </a>
-        </div>
-        <div class="title">
-            <a href="http://www.kgun9.com/multimedia/icontribute/Tucson-News-183979001.html" title="iContribute news photos">iContribute news photos</a>
-        </div>
-    </div>
-
-
-
-																					
-			
-
-
-
-
-
-
-        <div class="slide">
-        <div class="slide_kicker">Photo Gallery</div>
-        <div class="slide_image">
-<!-- Item type is JBG_UGCPhotoGallery -->
-
-
-
-            <a href="http://www.kgun9.com/multimedia/icontribute/iContribute-AZ-Desert-photos-219627301.html" title="iContribute AZ Desert photos">
-            <img src="http://9d86ab891a18307abd51-3ccc6e74c3628f4d39ad09bb5c661677.r79.cf1.rackcdn.com/53cfbecb-64d5-4984-b913-a589eb8d2c92.jpeg" width="120" height="100">
-            </a>
-        </div>
-        <div class="title">
-            <a href="http://www.kgun9.com/multimedia/icontribute/iContribute-AZ-Desert-photos-219627301.html" title="iContribute AZ Desert photos">iContribute AZ Desert photos</a>
-        </div>
-    </div>
-
-
-
-																					
-			
-
-
-
-
-
-
-        <div class="slide">
-        <div class="slide_kicker">Photo Gallery</div>
-        <div class="slide_image">
-<!-- Item type is JBG_UGCPhotoGallery -->
-
-
-
-            <a href="http://www.kgun9.com/multimedia/icontribute/iContribute-featured-photos-187927281.html" title="iContribute featured photos">
-            <img src="http://9d86ab891a18307abd51-3ccc6e74c3628f4d39ad09bb5c661677.r79.cf1.rackcdn.com/13b608e5-0ac7-4090-bd79-a63ba9a06ee5.jpg" width="120" height="100">
-            </a>
-        </div>
-        <div class="title">
-            <a href="http://www.kgun9.com/multimedia/icontribute/iContribute-featured-photos-187927281.html" title="iContribute featured photos">iContribute featured photos</a>
+            <a href="http://www.jrn.com/kgun9/galleries/iContribute-Wildcat-Fever-251601721.html" title="Wildcat Fever!">Wildcat Fever!</a>
         </div>
     </div>
         </div>
@@ -2567,209 +2409,23 @@ document.write("<a href=\"mailto:" + email + "\">" + email + "</a>");
 
 <!-- TEMPLATE # 6: Lib.Desk.Module.Ad -->
 
-<div class="ox_ad id_43420572">
-        
-
-
-        <script type="text/javascript">
-            if (!window.OX_ads) { OX_ads = []; }
-            OX_ads.push({ "auid" : "389175","vars":{'contentId':'161198165','domain':'kgun9.com','type':'GeneralPage'}});
-        </script>
-        <script type="text/javascript">
-            document.write('<scr'+'ipt src="http://ox-d.jrn.com/w/1.0/jstag"><\/scr'+'ipt>');
-        </script><script src="http://ox-d.jrn.com/w/1.0/jstag"></script>
-        <noscript>
-        <iframe id="5238af0f42459" name="5238af0f42459" src="http://ox-d.jrn.com/w/1.0/afr?auid=389175&cb=INSERT_RANDOM_NUMBER_HERE" frameborder="0" scrolling="no"><a href="http://ox-d.jrn.com/w/1.0/rc?cs=5238af0f42459&cb=INSERT_RANDOM_NUMBER_HERE" ><img src="http://ox-d.jrn.com/w/1.0/ai?auid=389175&cs=5238af0f42459&cb=INSERT_RANDOM_NUMBER_HERE" border="0" alt=""></a></iframe>
-        </noscript>
+    <div id="div-gpt-ad-false" class="gpt-ad">
+<script type="text/javascript">
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-false'); });
+</script>
 </div>
 
 
-<!-- TEMPLATE # 7: Lib.Desk.Module.ContentSliderPackage -->
-<!-- SLIDER MODULE IDs: [234578581, 221709791, 220732551, 234579781, 234581081] -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- SLIDER MODULES: [com.clickability.cms.translator.UtilContext$userObject@4fcf9c4, com.clickability.cms.translator.UtilContext$userObject@7c71b56a, com.clickability.cms.translator.UtilContext$userObject@d3d81fa, com.clickability.cms.translator.UtilContext$userObject@41204ae0, com.clickability.cms.translator.UtilContext$userObject@2f13d987] -->
-<div class="block">
-  <div id="adscroller" class="scroller">
-    <ul class="carousel">
-      <li><div class="section odd pos_1 first block id_234578581 html clearfix">
-<div class="content">
-<p style="text-align: center;"><a target="_self" href="http://www.kgun9.com/corinnescorner/"><img width="300" height="200" src="http://media.jrn.com/images/corinnescorner_promo.jpg" alt=""></a></p>
-</div>
-</div>
-</li>
-      <li><div class="section even pos_2 block id_221709791 html clearfix">
-<div class="content">
-<p style="text-align: center;"><a href="http://www.jrn.com/kgun9/news/stella-cares" target="_self"><img width="300" height="200" src="http://media.jrn.com/images/stellacares_promo.jpg" alt=""></a></p>
-</div>
-</div>
-</li>
-      <li><div class="section odd pos_3 block id_220732551 html clearfix">
-<div class="content">
-<p style="text-align: center;"><a href="http://www.kgun9.com/members/?apt_section=register_news" target="_blank"><img width="300" height="200" src="http://media.jrn.com/images/300x200-wxemailsignup.jpg" alt=""></a></p>
-</div>
-</div>
-</li>
-      <li><div class="section even pos_4 block id_234579781 html clearfix">
-<div class="content">
-<p style="text-align: center;"><a href="http://www.kgun9.com/holidays" target="_self"><img width="300" height="200" src="http://media.jrn.com/images/homeforholidays_promo.jpg" alt=""></a></p>
-</div>
-</div>
-</li>
-      <li><div class="section odd pos_5 last block id_234581081 html clearfix">
-<div class="content">
-<p style="text-align: center;"><a target="_self" href="http://www.kgun9.com/about/180850561.html"><img width="300" height="200" src="http://media.jrn.com/images/entourdetucson_promo.jpg" alt=""></a></p>
-</div>
-</div>
-</li>
-    </ul>
-  </div>
-</div>
-
-<!-- TEMPLATE # 8: Lib.Desk.Module.BigBlueBox -->
-
-<div class="block">
-<div class="bigbluebox">
-   <div class="BBBheader">Big Blue Box</div>
-   <div class="BBBcontent">
-      <div class="BBBrow">
-	    </div>
-            <div style="clear:both;"></div>
-	    <div class="BBBrow">
-	<div class="BBBitem">
-	   <div class="BBBthumb"><a href="/members/"><img src="http://media.kgun9.com/images/35*35/kgun_win.jpg" width="35" height="35" alt="" title="" border="0"></a></div>
-	   <div class="BBBheadline"><a href="/members/">KGUN 9 Contests</a></div>
-	</div>
-	<div class="BBBitem">
-	   <div class="BBBthumb"><a href="http://www.jrn.com/kgun9/news/125450058.html"><img src="http://media.kgun9.com/images/35*35/kgun9_generic.jpg" width="35" height="35" alt="" title="" border="0"></a></div>
-	   <div class="BBBheadline"><a href="http://www.jrn.com/kgun9/news/125450058.html">KGUN9 On Your Side Links</a></div>
-	</div>
-	    </div>
-            <div style="clear:both;"></div>
-	    <div class="BBBrow">
-	<div class="BBBitem">
-	   <div class="BBBthumb"><a href="http://www.kgun9.com/about/community/124513064.html"><img src="http://media.kgun9.com/images/35*35/communitypartner_thumb.jpg" width="35" height="35" alt="" title="" border="0"></a></div>
-	   <div class="BBBheadline"><a href="http://www.kgun9.com/about/community/124513064.html">Community Partner Program</a></div>
-	</div>
-	<div class="BBBitem">
-	   <div class="BBBthumb"><a href="http://www.kgun9.com/about/community/124517744.html"><img src="http://media.kgun9.com/images/35*35/tswa_logo.png" width="35" height="35" alt="" title="" border="0"></a></div>
-	   <div class="BBBheadline"><a href="http://www.kgun9.com/about/community/124517744.html">The Symphony Women's Association</a></div>
-	</div>
-      </div>
-      <div style="clear:both;"></div>
-      <div class="BBBbottom" style="height:20px;"></div>
-   </div>
-</div>
-</div>
-
-<!-- TEMPLATE # 9: Lib.Desk.Module.HTML -->
-<div class="section odd pos_9 block id_124652064 html clearfix">
-<div class="content">
-<p style="text-align: center;"><a href="http://www.tucsonmorningblend.com/" target="_blank"><img width="300" height="100" src="http://media.jrn.com/images/MBmini_300x100ver5.jpg" alt=""></a></p>
-</div>
-</div>
-
-<!-- TEMPLATE # 10: Lib.Desk.Module.Ad -->
-
-<div class="ox_ad id_44004167">
-        
-
-
-        <script type="text/javascript">
-            if (!window.OX_ads) { OX_ads = []; }
-            OX_ads.push({ "auid" : "389176","vars":{'contentId':'161198165','domain':'kgun9.com','type':'GeneralPage'}});
-        </script>
-        <script type="text/javascript">
-            document.write('<scr'+'ipt src="http://ox-d.jrn.com/w/1.0/jstag"><\/scr'+'ipt>');
-        </script><script src="http://ox-d.jrn.com/w/1.0/jstag"></script>
-        <noscript>
-        <iframe id="5238af0f42d20" name="5238af0f42d20" src="http://ox-d.jrn.com/w/1.0/afr?auid=389176&cb=INSERT_RANDOM_NUMBER_HERE" frameborder="0" scrolling="no"><a href="http://ox-d.jrn.com/w/1.0/rc?cs=5238af0f42d20&cb=INSERT_RANDOM_NUMBER_HERE" ><img src="http://ox-d.jrn.com/w/1.0/ai?auid=389176&cs=5238af0f42d20&cb=INSERT_RANDOM_NUMBER_HERE" border="0" alt=""></a></iframe>
-        </noscript>
+<!-- TEMPLATE # 7: Lib.Desk.Module.Ad -->
+
+    <div id="div-gpt-ad-bot_square" class="gpt-ad">
+<script type="text/javascript">
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-bot_square'); });
+</script>
 </div>
 
 
             </div>
-        </div>
-        <div id="body-bottom">
-                        
-  
-
-            
-<div class="ox_ad id_44004272">
-        
-
-
-        <script type="text/javascript">
-            if (!window.OX_ads) { OX_ads = []; }
-            OX_ads.push({ "auid" : "389177","vars":{'contentId':'161198165','domain':'kgun9.com','type':'GeneralPage'}});
-        </script>
-        <script type="text/javascript">
-            document.write('<scr'+'ipt src="http://ox-d.jrn.com/w/1.0/jstag"><\/scr'+'ipt>');
-        </script><script src="http://ox-d.jrn.com/w/1.0/jstag"></script>
-        <noscript>
-        <iframe id="5238af0f43614" name="5238af0f43614" src="http://ox-d.jrn.com/w/1.0/afr?auid=389177&cb=INSERT_RANDOM_NUMBER_HERE" frameborder="0" scrolling="no"><a href="http://ox-d.jrn.com/w/1.0/rc?cs=5238af0f43614&cb=INSERT_RANDOM_NUMBER_HERE" ><img src="http://ox-d.jrn.com/w/1.0/ai?auid=389177&cs=5238af0f43614&cb=INSERT_RANDOM_NUMBER_HERE" border="0" alt=""></a></iframe>
-        </noscript>
-</div>
-
         </div>
     </div>    
     <div id="utility">
@@ -2787,6 +2443,7 @@ document.write("<a href=\"mailto:" + email + "\">" + email + "</a>");
 	if (!window._ate) {document.write('<script src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4ddac7db6157ffda"><\/script>'); }	
 </script><script src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4ddac7db6157ffda"></script>
 <!-- AddThis Button END -->
+
             </ul>
         </div>
         <div class="center">
@@ -2813,20 +2470,23 @@ document.write("<a href=\"mailto:" + email + "\">" + email + "</a>");
 
 
 	<dl class="col site-index">
+	<dt><a href="http://www.jrn.com/kgun9/icontribute">ICONTRIBUTE</a></dt>
 	<dt><a href="/news">NEWS</a></dt>
-		<dd><a href="/news/govtshutdown">Government Shutdown</a></dd>
+		<dd><a href="/news/pamelaphillips">Pamela Phillips Trial</a></dd>
 		<dd><a href="/news/local">Local News</a></dd>
 		<dd><a href="/news/regional">Regional News</a></dd>
 		<dd><a href="/news/national">National News</a></dd>
 		<dd><a href="/news/sports">Sports</a></dd>
 		<dd><a href="/news/gmt">Good Morning Tucson</a></dd>
+		<dd><a href="/news/isabel">The Search for Isabel</a></dd>
+		<dd><a href="/news/gemshow">2014 Tucson Gem, Mineral &amp; Fossil Showcase</a></dd>
+	</dl>
+	<dl class="col site-index">
 	<dt><a href="/weather">WEATHER</a></dt>
-	</dl>
-	<dl class="col site-index">
 	<dt><a href="/traffic">TRAFFIC</a></dt>
-	<dt><a href="http://www.jrn.com/kgun9/news/you-ask-we-investigate">YOU ASK. WE INVESTIGATE</a></dt>
 	</dl>
 	<dl class="col site-index">
+	<dt><a href="http://www.jrn.com/kgun9/news/you-ask-we-investigate">YOU ASK. WE INVESTIGATE</a></dt>
 	<dt><a href="/features">9 ON YOUR SIDE</a></dt>
 		<dd><a href="/features/guyatchley">Guy Atchley's Arizona</a></dd>
 		<dd><a href="/features/borderwatch">Border Watch</a></dd>
@@ -2836,127 +2496,118 @@ document.write("<a href=\"mailto:" + email + "\">" + email + "</a>");
 		<dd><a href="/features/educationwatch">Education Watch</a></dd>
 		<dd><a href="/features/healthwatch">Health Watch</a></dd>
 		<dd><a href="/features/contact">Contact 9 On Your Side</a></dd>
-	<dt><a href="/tvlistings">TV LISTINGS</a></dt>
 	</dl>
 	<dl class="col site-index">
+	<dt><a href="/tvlistings">TV LISTINGS</a></dt>
 	<dt><a href="/about">ABOUT US</a></dt>
 		<dd><a href="/about/contact">Contact KGUN 9</a></dd>
 		<dd><a href="/about/people">KGUN 9 Team</a></dd>
 		<dd><a href="/about/billofrights">Viewer Bill of Rights</a></dd>
 		<dd><a href="/about/community">Community Partnership</a></dd>
 		<dd><a href="/about/contests">KGUN 9 Contests</a></dd>
-		<dd><a href="http://www.kgun9.com/about/player/ ">ABC Online Player</a></dd>
+		<dd><a href="/about/player">ABC Online Player</a></dd>
 		<dd><a href="/about/support">KGUN 9 Tech Support</a></dd>
 		<dd><a href="http://jobs.journalbroadcastgroup.com/">Jobs at KGUN 9</a></dd>
+	</dl>
+	<dl class="col site-index">
 </dl>
-            <div class="col">
 
-<link type="text/css" rel="stylesheet" href="http://www.kgun9.com/includes/ffe231d8b4ea7f6de1024e861bc80207/JBG.Weather.Module.css?v=16&amp;d=904659">
-<script type="text/javascript" src="http://www.kgun9.com/includes/5ea3a30967537bdec9dfa51fd246843f/JBG.Weather.Module.select.js?v=12&amp;d=904659"></script>
+            <div class="col">
+    <link type="text/css" rel="stylesheet" href="http://www.kgun9.com/includes/10b6e404a27dbe4a7974be7c3a029480/JBG.Weather.Module.css?v=18&amp;d=904659">
 <script type="text/javascript" src="http://www.kgun9.com/includes/f7fb92f1ad10a723b5d5155742b91208/jquery.cookie.js?v=16&amp;d=904659"></script>
 <script type="text/javascript" src="http://www.kgun9.com/includes/288a7bb0414f4625c983685b1fe51fbe/jquery.blockUI.js?v=1&amp;d=904659"></script>
-<script type="text/javascript" src="http://www.kgun9.com/templates/JBG.Weather.Module.js?v=27&amp;d=904659"></script>
+<script type="text/javascript" src="http://www.kgun9.com/templates/JBG.Weather.Module.js?v=32&amp;d=904659"></script>
 <!-- nested-block-1 -->
 <div class="nested-block-1 block" id="weatherBlock">
-	<!-- header-nestedblock1 -->
-	<div class="header-nestedblock1">
-		<a href="http://www.jrn.com/kgun9/weather/Arizona/Tucson" title="">
-		</a>
-		<div class="headerform-nestedblock1">
-			<form action="#" method="post" id="weatherSearch">
-				<input id="wxField" type="text" onblur="if (this.value=='') {this.value='85706';}" onfocus="if (this.value=='85706') {this.value='';}" value="85706">
-				<input type="submit" value="">
-			</form>
-		</div>
-	</div>
-	<!-- /end header-nestedblock1 -->
-	<!-- content-nestedblock1 -->
-	<div class="content-nestedblock1">
-		<!-- left-elements -->
-		<div class="left-elements">
-			<h3 id="cityName">Tucson, AZ</h3>
-			<div id="weatherBlockSelect" class="select-element">
-				<select id="weatherBlockSelectnormal" class="trueWeatherSelect" name="weatherBlockSelectnormal" tabindex="" style="">
-					<option value="#l2" data-ext="Arizona/Tucson">Right Now</option>
-					<option value="#l3" data-ext="Arizona/Tucson">Hourly Forecast</option>
-					<option value="#l4" data-ext="Arizona/Tucson">10-Day Forecast</option>
-					<option value="#l5" data-ext="Arizona/Tucson">Radar &amp; Maps</option>
-					<option value="#l7" data-ext="Arizona/Tucson">Alerts</option>
-				</select>
-			</div>			
-			<div class="grid_2" id="weatherOutput">
-				<img class="skyIcon" src="http://media.kgun9.com/designimages/currentwx_103.png" alt="Overcast">
-				<div class="temperature">50°</div>
-				<div class="row-line weather-variant sky">Overcast</div>
-				<div class="row-line precip"><div>Precip</div><span>40%</span></div>
-				<div class="row-line humidity"><div>Humidity</div><span>62%</span></div>
-				<div class="row-line wind"><div>Wind</div><span>ESE at 2 mph</span></div>
-				<div class="row-line alerts red-text"><div>Alerts</div><span>1  <a href="http://www.jrn.com/kgun9/weather/Arizona/Tucson#l7" title="Alerts">(Read)</a> </span></div>
-			</div>			
-		</div>
-		<!-- / end left-elements -->
-		<!-- right-elements -->
-		<div class="right-elements">
-			<div class="sponsoredby">
-				<div class="prew-nestedblock1 ad">
-<div class="ox_ad">
-        
-
-
-        <script type="text/javascript">
-            if (!window.OX_ads) { OX_ads = []; }
-            OX_ads.push({ "auid" : "407485","vars":{'contentId':'161198165','domain':'kgun9.com','type':'GeneralPage'}});
-        </script>
-        <script type="text/javascript">
-            document.write('<scr'+'ipt src="http://ox-d.jrn.com/w/1.0/jstag"><\/scr'+'ipt>');
-        </script><script src="http://ox-d.jrn.com/w/1.0/jstag"></script>
-        <noscript>
-        <iframe id="517ae59310f56" name="517ae59310f56" src="http://ox-d.jrn.com/w/1.0/afr?auid=407485&cb=INSERT_RANDOM_NUMBER_HERE" frameborder="0" scrolling="no"><a href="http://ox-d.jrn.com/w/1.0/rc?cs=517ae59310f56&cb=INSERT_RANDOM_NUMBER_HERE" ><img src="http://ox-d.jrn.com/w/1.0/ai?auid=407485&cs=517ae59310f56&cb=INSERT_RANDOM_NUMBER_HERE" border="0" alt=""></a></iframe>
-        </noscript>
+    <!-- header-nestedblock1 -->
+    <div class="header-nestedblock1">
+		        <a href="http://www.jrn.com/kgun9/weather/Arizona/Tucson" title="">
+        </a>
+				        <div class="headerform-nestedblock1">
+            <form action="#" method="post" id="weatherSearch">
+                <input id="wxField" type="text" onblur="if (this.value=='') {this.value='85706';}" onfocus="if (this.value=='85706') {this.value='';}" value="85706">
+                <input type="submit" value="">
+            </form>
+        </div>
+    </div>
+    <!-- /end header-nestedblock1 -->
+    <!-- content-nestedblock1 -->
+    <div class="content-nestedblock1">
+        <!-- left-elements -->
+        <div class="left-elements">
+            <h3 id="cityName">Tucson, AZ</h3>
+            <div id="weatherBlockSelect" class="select-element">
+                <select id="weatherBlockSelectnormal" class="trueWeatherSelect" name="weatherBlockSelectnormal" tabindex="" style="">
+                    <option value="#l2" data-ext="Arizona/Tucson">Right Now</option>
+                    <option value="#l3" data-ext="Arizona/Tucson">Hourly Forecast</option>
+                    <option value="#l4" data-ext="Arizona/Tucson">10-Day Forecast</option>
+                    <option value="#l5" data-ext="Arizona/Tucson">Radar &amp; Maps</option>
+                    <option value="#l7" data-ext="Arizona/Tucson">Alerts</option>
+                </select>
+            </div>            
+            <div class="grid_2" id="weatherOutput">
+                <img class="skyIcon" src="http://media.kgun9.com/designimages/currentwx_97.png" alt="Clear">
+                <div class="temperature">74°</div>
+                <div class="row-line weather-variant sky">Clear</div>
+                <div class="row-line precip"><div>Precip</div><span>0%</span></div>
+                <div class="row-line humidity"><div>Humidity</div><span>25%</span></div>
+                <div class="row-line wind"><div>Wind</div><span>S at 6 mph</span></div>
+                <div class="row-line alerts red-text"><div>Alerts</div><span>0  </span></div>
+            </div>            
+        </div>
+        <!-- / end left-elements -->
+        <!-- right-elements -->
+        <div class="right-elements">
+            <div class="sponsoredby">
+                <div class="prew-nestedblock1 ad">
+                                            <div id="div-gpt-ad-logo" class="gpt-ad">
+<script type="text/javascript">
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-logo'); });
+</script>
 </div>
-				</div>
-			</div>
-			<!-- prew-nestedblock1 -->
-			<!-- / end prew-nestedblock1 -->
-			<!-- prew-nestedblock1 -->
-			<div class="prew-nestedblock1">
-				<a href="http://www.jrn.com/kgun9/weather/Arizona/Tucson" title="Outlook">
-					<img src="http://thumbnail.newsinc.com/25462349.jpg" alt="Outlook">
-				</a>
-				<span><a href="http://www.jrn.com/kgun9/weather/Arizona/Tucson" title="">Today’s Outlook »</a></span>
-			</div>
-			<!-- / end prew-nestedblock1 -->
-			<!-- prew-nestedblock1 -->
-			<div class="prew-nestedblock1">
-				<a href="http://www.jrn.com/kgun9/weather/Arizona/Tucson#l5" title="">
-					<img src="http://graphics.jsonline.com/4weather/KGUN/Local_Satellite_IR_RADAR_3Hr.jpg" alt="Radar">
-				</a>
-				<span><a href="http://www.jrn.com/kgun9/weather/Arizona/Tucson#l5" title="">Radar »</a></span>
-			</div>
-			<!-- / end prew-nestedblock1 -->
-		</div>
-		<!-- / end right-elements -->
-	</div>
-	<!-- /end content-nestedblock1 -->	
-</div>	
+                                    </div>
+            </div>
+            <!-- prew-nestedblock1 -->
+            <!-- / end prew-nestedblock1 -->
+            <!-- prew-nestedblock1 -->
+            <div class="prew-nestedblock1">
+                <a href="http://www.jrn.com/kgun9/weather/Arizona/Tucson" title="Outlook">
+                    <img src="http://thumbnail.newsinc.com/26285892.jpg" alt="Outlook">
+                </a>
+                <span><a href="http://www.jrn.com/kgun9/weather/Arizona/Tucson" title="">Today's Outlook »</a></span>
+            </div>
+            <!-- / end prew-nestedblock1 -->
+            <!-- prew-nestedblock1 -->
+            <div class="prew-nestedblock1">
+                <a href="http://www.jrn.com/kgun9/weather/radar/Interactive-Radar-246927201.html" title="">
+                    <img src="http://graphics.jrn.com/4weather/KGUN/Regional_Current_12Hr_High-thumb.jpg" alt="Radar">
+                </a>
+                <span><a href="http://www.jrn.com/kgun9/weather/radar/Interactive-Radar-246927201.html" title="">Radar »</a></span>
+            </div>
+            <!-- / end prew-nestedblock1 -->
+        </div>
+        <!-- / end right-elements -->
+    </div>
+    <!-- /end content-nestedblock1 -->    
+</div>    
 <!-- / end nested-block-1 -->
 <script>
-	function weatherRedirect(anch,extUrl) {
-		extUrl = typeof extUrl !== 'undefined' ? extUrl : 'Arizona/Tucson'; //default
-		window.location = "http://www.jrn.com/kgun9/weather/"+extUrl+anch;
-	}
-	
-	function updateAlerts(extUrl) {
-		extUrl = typeof extUrl !== 'undefined' ? extUrl : 'Arizona/Tucson'; //default
-		$("div#weatherOutput").find('.alerts span').append('<a href="http://www.jrn.com/kgun9/weather/'+extUrl+'#l7" title="">(Read)</a>');
-	}
-	
-	$(document).ready(function(){
-		var wxCookie = $.cookie('JRN_Weather');
-		if(wxCookie != undefined && "USAZ0247" != wxCookie) { // use cookie
-			$("#weatherSearch").trigger("submit",["cc", wxCookie, false]);
-		}
-	});
+    function weatherRedirect(anch,extUrl) {
+        extUrl = typeof extUrl !== 'undefined' ? extUrl : 'Arizona/Tucson'; //default
+        window.location = "http://www.jrn.com/kgun9/weather/"+extUrl+anch;
+    }
+    
+    function updateAlerts(extUrl) {
+        extUrl = typeof extUrl !== 'undefined' ? extUrl : 'Arizona/Tucson'; //default
+        $("div#weatherOutput").find('.alerts span').append('<a href="http://www.jrn.com/kgun9/weather/'+extUrl+'#l7" title="">(Read)</a>');
+    }
+    
+    $(document).ready(function(){
+        var wxCookie = $.cookie('JRN_Weather');
+        if(wxCookie != undefined && "USAZ0247" != wxCookie) { // use cookie
+            $("#weatherSearch").trigger("submit",["cc", wxCookie, false]);
+        }
+    });
 </script>
 
 <!--                <dl class="site-index">
@@ -2967,38 +2618,37 @@ document.write("<a href=\"mailto:" + email + "\">" + email + "</a>");
         </div>
     </div>
     <div id="copyright">
-        <p>Copyright © 2013 KGUN9 On Your Side</p>
+        <p>Copyright © 2014 KGUN9 On Your Side</p>
         <ul>
-            <li><a href="http://www.journalbroadcastgroup.com/eeo/">EEO</a></li>
+            <li><a href="http://jobs.journalbroadcastgroup.com/eeo/">EEO</a></li>
             <li><a href="http://jobs.journalbroadcastgroup.com/">Jobs</a></li>
-	    <li><a href="/161198165.html">Privacy Policy/Your California Privacy Rights</a></li>
-	    <li><a href="/161199025.html">Terms of Use</a></li>
+        <li><a href="/161198165.html">Privacy Policy/Your California Privacy Rights</a></li>
+        <li><a href="/161199025.html">Terms of Use</a></li>
             <li><a href="/about">Contact Us</a></li>
             <li><a href="http://www.abc.com/">ABC</a></li>
             <li><a href="https://stations.fcc.gov/station-profile/kgun-tv">FCC Public File</a></li>
         </ul>
         <p class="return"><a href="#top">Return to Top</a></p>
-		
-			<div class="ji">
-			<div class="jiLogo">
-				<p>Journal Broadcast Group</p>
-								<p>Tucson</p>
-							</div> <!-- end of ji -->
-			</div> <!-- end of ji -->
+        
+            <div class="ji">
+            <div class="jiLogo">
+                <p>Journal Broadcast Group</p>
+                <p>Tucson</p>
+            </div> <!-- end of ji -->
+            </div> <!-- end of ji -->
     </div>
 </div>
   <script type="text/javascript" src="http://www.kgun9.com/templates/multimediagallery.js?domainPrefix=Lib.TV&amp;type=KGUN-TV"></script>
 <script type="text/javascript">
-$(document).ready(function(){	
+$(document).ready(function(){    
     var links = $("#content").find("a");
     for (i = 0; i < links.length; i++) {
         if ((links[i].href.indexOf("www.kgun9.com") < 0) && (links[i].href.indexOf("jrn.com") < 0) && (links[i].href.indexOf("hosted.ap.org") < 0) && (links[i].href.indexOf("javascript") < 0) && (links[i].href.indexOf("jsonline.com") < 0))
             links[i].target = "_blank";
-
     }
-   $('#recaptcha_reload_btn').attr('target', '');
-   $('#recaptcha_switch_audio_btn').attr('target', '');
-   $('#recaptcha_switch_img_btn').attr('target', '');
+$('#recaptcha_reload_btn').attr('target', '');
+$('#recaptcha_switch_audio_btn').attr('target', '');
+$('#recaptcha_switch_img_btn').attr('target', '');
 });
 </script>
 <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#async=1"></script>
