@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greateststory.info privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219192629id_/http%3A//www.greateststory.info/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greateststory.info privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620222838id_/http%3A//www.greateststory.info/privacy-policies) for the most accurate reproduction.*
 
 # Privacy Policies › GreatestStory.info : Improve your website traffic by publishing social bookmark websites | High quality SEO bookmark submission service to get indexed in major search engines
 
