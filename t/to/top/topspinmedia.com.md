@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topspinmedia.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221123150id_/http%3A//www.topspinmedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topspinmedia.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620223546id_/http%3A//www.topspinmedia.com/privacy) for the most accurate reproduction.*
 
 # Topspin Media | Privacy Policy
 
