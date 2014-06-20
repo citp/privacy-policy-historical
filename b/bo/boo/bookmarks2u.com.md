@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookmarks2u.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220112011id_/http%3A//www.bookmarks2u.com/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookmarks2u.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620101450id_/http%3A//www.bookmarks2u.com/privacy-policies) for the most accurate reproduction.*
 
 # Privacy Policies › Bookmarks2u.com : Freely Submit Your Articles | Social Bookmarking News, Bookmark Community & Favorite Link Submission, Online Bookmark Manager, News & Social Webmarks
 
