@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the amtrak.com privacy policy that was archived on 2013-12-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131215104840id_/http%3A//www.amtrak.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the amtrak.com privacy policy that was archived on 2014-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140620200319id_/http%3A//www.amtrak.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#"><head>
 	
@@ -294,16 +294,12 @@ document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
 	<!--  <div id="body_wrapper"> -->
 	<!-- Begin HTML for Interior Template --><!-- Begin Header HTML for Interior Template --><!-- Begin HTML for Top Navigation --><!-- mp_trans_disable_start -->
 <script type="text/javascript">
-
-function switchLanguage(lang) {
  
-    MP.SrcUrl=unescape('mp_js_orgin_url');MP.UrlLang='mp_js_current_lang';MP.init();
-	MP.switchLanguage(MP.UrlLang==lang?'en':lang);
-	return false;
+function switchLanguage(lang) {
+    MP.SrcUrl=decodeURIComponent('mp_js_orgin_url');MP.UrlLang='mp_js_current_lang';MP.init();
+    MP.switchLanguage(MP.UrlLang==lang?'en':lang);
+    return false;
 }
-
-
-
 </script>
 <!-- mp_trans_disable_end -->	
 <div id="top_nav_wrapper" class="hp_top_wrapper"> 
@@ -340,6 +336,7 @@ display:none;
 										<option value="es">Español</option>
 										<option value="de">Deutsch</option>
 										<option value="fr">Français</option>
+										<option value="zs">中文</option>
 									</select>
 				
 				</form>
@@ -535,7 +532,10 @@ display:none;
 				</div>	                
             	
 	</div>
-		
+	
+	
+	
+	
 	</div>
 	
 <!-- End HTML for Top Navigation -->
@@ -603,71 +603,2366 @@ display:none;
 			
 			
 
-	<link href="/css/basic_booking.css" rel="stylesheet" type="text/css" media="all">
-	
-		<script language="JavaScript" type="text/javascript" src="/itd/project/scripts/en/amtrak/popups.js"></script>
-
+<style type="text/css">
+div.autocomplete {
+position:absolute;
+width:auto !important;
+background-color:#F4F4F4;
+border:1px solid #888;
+margin:0px;
+padding:0px;
+z-index:200 !important;
+}
+div.autocomplete ul {
+list-style-type:none;
+margin:0px;
+padding:0px;
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size: small;
+font-style: normal;
+color: #0000ff;
+font-weight: bold;
+overflow: auto;
+white-space: nowrap;
+}
+div.autocomplete ul li.selected { background-color: #ffb;}
+div.autocomplete ul li {
+list-style-type:none;
+display:block;
+margin:0;
+padding:1px;
+height:12px;
+cursor:pointer;
+background-image: none;
+}
+</style>
+<script language="JavaScript" type="text/javascript" src="/itd/project/scripts/en/amtrak/popups.js"></script>
 <script language="JavaScript" type="text/javascript" src="/itd/project/scripts/en/amtrak/formutils.js"></script>
 <script language="JavaScript" type="text/javascript" src="/itd/project/scripts/en/amtrak/scriptaculous.js"></script>
 <script language="JavaScript" type="text/javascript" src="/itd/project/scripts/en/amtrak/effects.js"></script>
 <script language="JavaScript" type="text/javascript" src="/itd/project/scripts/en/amtrak/controls.js"></script>
 <script language="JavaScript" type="text/javascript" src="/itd/project/scripts/en/amtrak/basic_booking_left.js"></script>
+<link rel="stylesheet" type="text/css" href="/css/external/yui/2.7.0/calendar.css?nocache=v3_50_000" media="screen">
+<link rel="stylesheet" type="text/css" href="/css/external/yui/2.7.0/container.css?nocache=v3_50_000" media="screen">
+<link rel="stylesheet" type="text/css" href="/css/amtrak-calendar.css" media="screen">
+<script language="JavaScript" type="text/javascript" src="/itd/project/scripts/en/amtrak/calendar_farefinder.js"></script>
 <script language="JavaScript" type="text/javascript" src="/itd/project/scripts/en/amtrak/farefinderrequest.js"></script>
+<script language="JavaScript1.2" type="text/javascript" src="/itd/project/scripts/en/external/yui/2.7.0/yahoo-dom-event.js"></script>
+<script language="JavaScript1.2" type="text/javascript" src="/itd/project/scripts/en/external/yui/2.7.0/calendar-min.js"></script>
+<script language="JavaScript1.2" type="text/javascript" src="/itd/project/scripts/en/amtrak/yuicalendar.js"></script>
+<script language="JavaScript" type="text/javascript" src="/itd/project/scripts/en/amtrak/profile_rewrite.js"></script>
+<script type="text/javascript">
+<!--
+var pageName='amtrak/cmsnavigationtab.jsp';
+//-->
+</script>
 
-<style>
-.farefinder_tabbody {
-	
-	margin: 0px 0px;
-	
+
+
+
+
+<!--[if IE]>
+<script type="text/javascript">
+function isCalendarEvent(e) {
+var element = Event.element(e);
+var names = element.classNames();
+if (names.include('selector')) {
+return true;
 }
-</style>
-
-
+if (names.include('calnavright')) {
+return true;
+}
+if (names.include('calnavleft')) {
+return true;
+}
+if (names.include('link-close')) {
+return true;
+}
+return false;
+}
+function addFormSubmitEvent(form) {
+form.onkeydown = function(e) {
+e = e || window.event;
+if (e.keyCode == 13) {
+// If this is a Calendar return key entry then do not
+// call form.submit()
+if (isCalendarEvent(e)) {
+return;
+}
+if (form.name == 'ff_status_form') {
+if(CheckMandatoryTrainStatusFields(form)) {
+form.submit();
+return true;
+}
+return false;
+}
+if (form.name == 'mytrip_acct') {
+if (CheckMandatoryLoginFields(form)) {
+form.submit();
+return false;
+}
+return true;
+}
+if (form.name == 'mytrip_res') {
+if (CheckMandatoryMyTripFields(form)) {
+form.submit();
+return false;
+}
+return true;
+}
+if (form.name == 'ff_schedules_form') {
+if (CheckMandatoryScheduleFields(form)) {
+form.submit();
+return false;
+}
+return true;
+}
+}
+};
+}
+document.observe('dom:loaded', function() {
+var forms = document.getElementsByTagName('form');
+for (var i=0;i < forms.length;i++) {
+if (forms[i].name == 'mytrip_res' || forms[i].name == 'mytrip_acct' || forms[i].name == 'ff_schedules_form' || forms[i].name == 'ff_status_form') {
+addFormSubmitEvent(forms[i]);
+}
+}
+});
+</script>
+<![endif]-->
 <!-- Begin HTML for Fare Finder -->
 <div id="farefinder">
 <div id="ff_tabbar">
-<div class="active" id="ff_tabbar_tickets">Tickets<span onclick="show_ff_tab('tickets');"></span></div>
-<div id="ff_tabbar_status">Status<span onclick="show_ff_tab('status');"></span></div>
-<div id="ff_tabbar_schedules">Schedules<span onclick="show_ff_tab('schedules');"></span></div>
+<div class="active" id="ff_tabbar_tickets">Tickets<span onclick="compare_dates('wdfdate1');show_ff_tab('tickets');showHideRedeemTabBarSection('ff_sub_tabbar', true);"></span></div>
+<div id="ff_tabbar_status">Status<span onclick="set_status_date('wdfdate10');show_ff_tab('status');"></span></div>
+<div id="ff_tabbar_schedules">Schedules<span onclick="compare_dates('wdfdate5');show_ff_tab('schedules');"></span></div>
 <div id="ff_tabbar_mytrip">My Trip<span onclick="show_ff_tab('mytrip');"></span></div>
 </div>
-<div id="farefinder_tabbody_tickets" class="farefinder_tabbody ff_active" style="min-height:365px;">
 
 
-	
-				
-				<div class="error">		Our booking system is temporarily unavailable. For immediate assistance, call 1-800-USA-RAIL (1-800-872-7245) or TDD/TTY (1-800-523-6590). </div>
-			
-</div>
-<div id="farefinder_tabbody_status" class="farefinder_tabbody" style="min-height: 365px;">
 
 
-						
-					<div class="error">	Our booking system is temporarily unavailable. For immediate assistance, call 1-800-USA-RAIL (1-800-872-7245) or TDD/TTY (1-800-523-6590). </div>
-			
-</div>
-<div id="farefinder_tabbody_schedules" class="farefinder_tabbody" style="min-height: 365px;">
-
-						
-					<div class="error">	Our booking system is temporarily unavailable. For immediate assistance, call 1-800-USA-RAIL (1-800-872-7245) or TDD/TTY (1-800-523-6590). </div>
-			
-</div>
-<div id="farefinder_tabbody_mytrip" class="farefinder_tabbody" style="min-height: 365px;">
-
-						
-					<div class="error">	Our booking system is temporarily unavailable. For immediate assistance, call 1-800-USA-RAIL (1-800-872-7245) or TDD/TTY (1-800-523-6590). </div>
-			
-</div>
+<div id="ff_sub_tabbar" class="show_section">
+<div class="active" id="ff_sub_tabbar_bookatrip">Book<span onclick="show_ff_sub_tab('bookatrip');"></span></div>
+<div id="ff_sub_tabbar_redeem">Redeem<span onclick="show_ff_sub_tab('redeem');"></span></div>
+<div id="ff_sub_tabbar_otherdiscounts">Discounts<span onclick="show_ff_sub_tab('otherdiscounts');"></span></div>
 </div>
 
-<style>
-.farefinder_tabbody {
-border: 4px solid black;
-border-top:none;
-border-bottom:none;
+
+<div id="farefinder_tabbody_tickets" class="farefinder_tabbody ff_active">
+<div id="ada_link" class="subdiv">
+<label for="ff_ada_link"><a href="/itd/amtrak/ada">Passengers with a Disability</a></label>
+</div>
+<form name="form" action="http://tickets.amtrak.com/itd/amtrak" method="post"><input type="hidden" name="requestor" value="amtrak.presentation.handler.page.rail.AmtrakRailFareFinderPageHandler">
+<input type="hidden" name="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/@bookpath" value="farefamilies">
+<h2>Tickets</h2>
+
+<div id="ff_tickets_tt_cities_subdiv" class="subdiv level6">
+<div id="tickets_trip_type"><p>
+<input type="hidden" name="xwdf_TripType" value="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/tripType"><input type="radio" id="oneway" name="wdf_TripType" value="OneWay" onclick="javascript:blankReturnDate(false)" checked="checked">&nbsp;<label for="oneway">One-Way</label>
+<input type="hidden" name="xwdf_TripType" value="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/tripType"><input type="radio" id="return" name="wdf_TripType" value="Return" onclick="javascript:setReturnDate(false)">&nbsp;<label for="return">Round-Trip</label>
+<a href="/itd/amtrak/ComplexRail">Multi-City</a> &gt;</p>
+</div>
+<div id="tickets_dep_city" class="ff_city_wrapper">
+<label for="departs">From</label>
+<input type="hidden" name="xwdf_origin" value="/sessionWorkflow/productWorkflow[@product='Rail']/travelSelection/journeySelection[1]/departLocation/search"><input type="text" autocomplete="off" id="departs" maxlength="150" name="wdf_origin">
+<p><span class="find_a_station"><a title="Click for a list of stations." href="javascript:fieldName='departs'; openStationList();">Find a Station</a></span></p>
+</div>
+<div id="tickets_arr_city" class="ff_city_wrapper level3">
+<label for="arrives">To</label>
+<input type="hidden" name="xwdf_destination" value="/sessionWorkflow/productWorkflow[@product='Rail']/travelSelection/journeySelection[1]/arriveLocation/search"><input type="text" autocomplete="off" id="arrives" maxlength="150" name="wdf_destination">
+<p><span class="find_a_station"><a title="Click for a list of stations." href="javascript:fieldName='arrives'; openStationList();">Find a Station</a></span></p>
+</div>
+<div id="autocomplete_availability_from" class="autocomplete level5" style="display:none"></div>
+<div id="autocomplete_availability_to" class="autocomplete level5" style="display:none"></div>
+</div>
+<div id="ff_tickets_dep_ret_date_subdiv" class="subdiv level3" style="position:static;">
+<div id="tickets_dep_date_time" class="level5">
+<div class="ff_date_wrapper">
+<label for="tickets_dep_date">Departs</label>
+
+<input class="wdfDate" onfocus="dateChangedTimer(1)" type="text" size="22" id="wdfdate1" maxlength="22" name="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/journeyRequirements[1]/departDate.date" onblur="dateChangedComplete(1,1)" value="Fri, Jun 20, 2014" readonly="readonly"><script language="JavaScript" type="text/javascript">
+<!--
+document.write('<a class="calLink noloading" id="calLink1">&nbsp;</a>');//-->
+</script><a class="calLink noloading" id="calLink1">&nbsp;</a>
+<br><div id="calContainer1" class="calContainer yui-calcontainer single withtitle"><iframe src="javascript:false;" style="opacity: 0;"></iframe><div class="title">&nbsp;</div><a href="#" class="link-close"><span class="close-icon calclose">Close</span></a></div></div><div class="ff_time_wrapper"><label for="wdftime1"><b>Time</b></label><select onfocus="updateTimeState()" onchange="timeChanged(1);setTripTypeIfReturnDateSelected(false)" id="wdftime1" name="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/journeyRequirements[1]/departTime.hourmin"><option value="">Anytime</option><option value="07:00">Morning</option><option value="14:00">Afternoon</option><option value="19:00">Evening</option><option value="23:59">Midnight</option><option value="01:00">1 AM</option><option value="02:00">2 AM</option><option value="03:00">3 AM</option><option value="04:00">4 AM</option><option value="05:00">5 AM</option><option value="06:00">6 AM</option><option value="07:00">7 AM</option><option value="08:00">8 AM</option><option value="09:00">9 AM</option><option value="10:00">10 AM</option><option value="11:00">11 AM</option><option value="12:00">Noon</option><option value="13:00">1 PM</option><option value="14:00">2 PM</option><option value="15:00">3 PM</option><option value="16:00">4 PM</option><option value="17:00">5 PM</option><option value="18:00">6 PM</option><option value="19:00">7 PM</option><option value="20:00">8 PM</option><option value="21:00">9 PM</option><option value="22:00">10 PM</option><option value="23:00">11 PM</option></select>
+
+
+</div>
+</div>
+
+
+<div id="tickets_ret_date_time" class="hide_section level4">
+<div class="ff_date_wrapper">
+
+<label for="tickets_ret_date">Returns</label>
+
+<input class="wdfDate" onfocus="dateChangedTimer(2)" type="text" size="22" id="wdfdate2" maxlength="22" name="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/journeyRequirements[2]/departDate.date" onblur="dateChangedComplete(2,1)" readonly="readonly"><script language="JavaScript" type="text/javascript">
+<!--
+document.write('<a class="calLink noloading" id="calLink2">&nbsp;</a>');//-->
+</script><a class="calLink noloading" id="calLink2">&nbsp;</a>
+<br><div id="calContainer2" class="calContainer yui-calcontainer single withtitle"><iframe src="javascript:false;" style="opacity: 0;"></iframe><div class="title">&nbsp;</div><a href="#" class="link-close"><span class="close-icon calclose">Close</span></a></div></div><div class="ff_time_wrapper"><label for="wdftime2"><b>Time</b></label><select onfocus="updateTimeState()" onchange="timeChanged(2);setTripTypeIfReturnDateSelected(false)" id="wdftime2" name="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/journeyRequirements[2]/departTime.hourmin"><option value="">Anytime</option><option value="07:00">Morning</option><option value="14:00">Afternoon</option><option value="19:00">Evening</option><option value="23:59">Midnight</option><option value="01:00">1 AM</option><option value="02:00">2 AM</option><option value="03:00">3 AM</option><option value="04:00">4 AM</option><option value="05:00">5 AM</option><option value="06:00">6 AM</option><option value="07:00">7 AM</option><option value="08:00">8 AM</option><option value="09:00">9 AM</option><option value="10:00">10 AM</option><option value="11:00">11 AM</option><option value="12:00">Noon</option><option value="13:00">1 PM</option><option value="14:00">2 PM</option><option value="15:00">3 PM</option><option value="16:00">4 PM</option><option value="17:00">5 PM</option><option value="18:00">6 PM</option><option value="19:00">7 PM</option><option value="20:00">8 PM</option><option value="21:00">9 PM</option><option value="22:00">10 PM</option><option value="23:00">11 PM</option></select>
+
+
+</div>
+</div>
+
+</div>
+<div id="ff_tickets_passengers_subdiv" class="subdiv level1">
+<div id="tickets_passengers">
+
+
+
+<div id="ff_adults_wrapper">
+<label style="line-height:1.1;" for="ff_adults"><a href="javascript:var child=window.open('http://www.amtrak.com/servlet/Satellite?SnippetName=IBLegacy&amp;pagename=am/AM_Snippet_C/SnippetWrapper&amp;pass=Adult','pass','directories=0,dependent=1,menubar=0,top=20,left=20,width=680,height=600,scrollbars=1');child.focus();" class="smallblue">Adults</a><br> (13-61)</label>
+<select id="adults" name="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/allJourneyRequirements/numberOfTravellers[@key='Adult']"><option value="0">0</option><option value="1" selected="selected">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option></select>
+</div>
+
+<div id="ff_seniors_wrapper">
+<label style="line-height:1.1;" for="ff_seniors"><a href="javascript:var child=window.open('http://www.amtrak.com/servlet/Satellite?SnippetName=IBLegacy&amp;pagename=am/AM_Snippet_C/SnippetWrapper&amp;pass=Senior','pass','directories=0,dependent=1,menubar=0,top=20,left=20,width=680,height=600,scrollbars=1');child.focus();" class="smallblue">Seniors</a><br> (62+)</label>
+<select id="seniors" name="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/allJourneyRequirements/numberOfTravellers[@key='Senior']"><option value="0" selected="selected">0</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option></select>
+</div>
+
+
+
+
+<div id="ff_kids_wrapper">
+<label style="line-height:1.1;" for="ff_kids"><a href="javascript:var child=window.open('http://www.amtrak.com/servlet/Satellite?SnippetName=IBLegacy&amp;pagename=am/AM_Snippet_C/SnippetWrapper&amp;pass=Child','pass','directories=0,dependent=1,menubar=0,top=20,left=20,width=680,height=600,scrollbars=1');child.focus();" class="smallblue">Children</a><br> (2-12)</label>
+<select onchange="showChildPopup(this.options[this.selectedIndex].value, document.getElementById('infants').options[document.getElementById('infants').selectedIndex].value, 'child_popup')" id="children" name="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/allJourneyRequirements/numberOfTravellers[@key='Child']"><option value="0" selected="selected">0</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option></select>
+</div>
+<div id="ff_infants_wrapper">
+<label style="line-height:1.1;" for="ff_infants"><a href="javascript:var child=window.open('http://www.amtrak.com/servlet/Satellite?SnippetName=IBLegacy&amp;pagename=am/AM_Snippet_C/SnippetWrapper&amp;pass=Infant','pass','directories=0,dependent=1,menubar=0,top=20,left=20,width=680,height=600,scrollbars=1');child.focus();" class="smallblue">Infants</a><br> (under 2)</label>
+<select onchange="showChildPopup(this.options[this.selectedIndex].value, document.getElementById('children').options[document.getElementById('children').selectedIndex].value, 'child_popup')" id="infants" name="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/allJourneyRequirements/numberOfTravellers[@key='Infant']"><option value="0" selected="selected">0</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option></select>
+</div>
+</div>
+<br>
+
+
+
+<div id="child_popup" class="info_childpopup_ff hide_section">Children and infants must travel with an adult who is at least 18 years or older.</div>
+
+
+</div>
+
+<div id="ff_submit_button" class="subdiv">
+
+
+<input type="image" alt="Click to Find Tickets" name="_handler=amtrak.presentation.handler.request.rail.farefamilies.AmtrakRailFareFamiliesSearchRequestHandler/_xpath=/sessionWorkflow/productWorkflow[@product='Rail']" onclick="javascript:return preFareFinderSubmitActions('The following information is needed to process your request:', 'Problem Pricing the Itinerary: Atlantic City Express Service offers adult fares only for all passengers.  Please modify your selection to continue. \n[Error ID: 1121S]')" src="/images/en/btn_ff_findTrains.gif" border="0">
+
+
+</div>
+
+<div id="ff_promocode" class="subdiv">
+<label for="disc_promocode_text"><span class="bold_text">Promotion Code</span> </label>
+<div><input type="hidden" name="xwdf_promoCode" value="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/couponRequirements/coupon/code"><input type="text" size="5" id="ff_book_promoCode" maxlength="4" name="wdf_promoCode"></div>
+</div>
+
+<div class="clear_both"></div>
+
+
+</form>
+</div>
+
+
+
+
+
+<div id="farefinder_tabbody_redeem" class="farefinder_tabbody">
+<h2>Redeem Points</h2>
+<form name="ff_redeem_form" action="https://tickets.amtrak.com/itd/amtrak" method="post"><input type="hidden" name="requestor" value="amtrak.presentation.handler.page.rail.redeem.PresAmtrakRailRedeemFindATicketReqsPageHandler">
+<div id="ff_redeem_step_1" class="subdiv">
+<div id="ff_member_wrapper">
+
+
+
+
+
+
+
+<div class="form_line_wrapper first">
+<label for="ff_membernumber">Member Number</label>
+<span class="form_entry">
+<input type="text" id="ff_membernumber" maxlength="10" name="/sessionWorkflow/profileWorkflow/schemeAccount/membershipNumber">
+</span>
+</div>
+<div class="form_line_wrapper">
+<label for="ff_memberpassword">Member Password</label>
+<span class="form_entry">
+<input type="password" id="ff_memberpassword" maxlength="29" name="/sessionWorkflow/profileWorkflow/schemeAccount/@password">
+</span>
+</div>
+<br class="clear_both">
+
+
+
+</div>
+</div>
+<div id="ff_tickets_redeem_cities_subdiv" class="subdiv">
+
+<div id="tickets_dep_city" class="ff_city_wrapper">
+<input type="hidden" name="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/journeyRequirements[1]/departDate/@radioSelect" value="departTime">
+<input type="hidden" name="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/@bookpath" value="redeem">
+<label for="agrdeparts">From</label>
+<input type="hidden" name="xwdf_origin" value="/sessionWorkflow/productWorkflow[@product='Rail']/travelSelection/journeySelection[1]/departLocation/search"><input class="text" type="text" id="agrdeparts" name="wdf_origin">
+<p><span class="find_a_station"><a title="Click for a list of stations." href="javascript:fieldName='agrdeparts'; openStationList();">Find a Station</a></span></p>
+</div>
+<div id="tickets_arr_city" class="ff_city_wrapper level3">
+<label for="agrarrives">To</label>
+<input type="hidden" name="xwdf_destination" value="/sessionWorkflow/productWorkflow[@product='Rail']/travelSelection/journeySelection[1]/arriveLocation/search"><input class="text" type="text" id="agrarrives" name="wdf_destination">
+<p><span class="find_a_station"><a title="Click for a list of stations." href="javascript:fieldName='agrarrives'; openStationList();">Find a Station</a></span></p>
+</div>
+<div id="redeem_from_auto" class="autocomplete level5" style="display:none"></div>
+<div id="redeem_to_auto" class="autocomplete level5" style="display:none"></div>
+
+</div>
+<div id="ff_redeem_dep_date_subdiv" class="subdiv">
+<div id="redeem_dep_date_time">
+<div class="ff_date_wrapper">
+<label for="wdfdate15">Departs</label>
+
+<input class="wdfDate" onfocus="dateChangedTimer(15)" type="text" size="22" id="wdfdate15" maxlength="22" name="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/journeyRequirements[1]/departDate.date" onblur="dateChangedComplete(15,1)" value="Fri, Jun 20, 2014" readonly="readonly"><script language="JavaScript" type="text/javascript">
+<!--
+document.write('<a class="calLink noloading" id="calLink15">&nbsp;</a>');//-->
+</script><a class="calLink noloading" id="calLink15">&nbsp;</a>
+<br><div id="calContainer15" class="calContainer yui-calcontainer single withtitle"><iframe src="javascript:false;" style="opacity: 0;"></iframe><div class="title">&nbsp;</div><a href="#" class="link-close"><span class="close-icon calclose">Close</span></a></div></div><div class="ff_time_wrapper"><label for="wdftimenull"><b>Time</b></label><select onfocus="updateTimeState()" onchange="timeChanged(15);setTripTypeIfReturnDateSelected(false)" id="wdftime15" name="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/journeyRequirements[1]/departTime.hourmin"><option value="">Anytime</option><option value="07:00">Morning</option><option value="14:00">Afternoon</option><option value="19:00">Evening</option><option value="23:59">Midnight</option><option value="01:00">1 AM</option><option value="02:00">2 AM</option><option value="03:00">3 AM</option><option value="04:00">4 AM</option><option value="05:00">5 AM</option><option value="06:00">6 AM</option><option value="07:00">7 AM</option><option value="08:00">8 AM</option><option value="09:00">9 AM</option><option value="10:00">10 AM</option><option value="11:00">11 AM</option><option value="12:00">Noon</option><option value="13:00">1 PM</option><option value="14:00">2 PM</option><option value="15:00">3 PM</option><option value="16:00">4 PM</option><option value="17:00">5 PM</option><option value="18:00">6 PM</option><option value="19:00">7 PM</option><option value="20:00">8 PM</option><option value="21:00">9 PM</option><option value="22:00">10 PM</option><option value="23:00">11 PM</option></select>
+
+
+</div>
+</div>
+</div>
+<div id="ff_redeem_passengers_subdiv" class="subdiv">
+<div id="redeem_passengers">
+<div id="ff_submit_button">
+<input type="image" alt="Click to Find Tickets" name="_handler=amtrak.presentation.handler.request.rail.redeem.PresAmtrakRailRedeemSearchRequestHandler" onclick="javascript:return preRedeemSubmitActions('The following information is needed to process your request:')" src="/images/en/btn_ff_findTrains.gif" border="0">
+</div>
+<div id="passenger_wrapper">
+<label for="redeemadults">Passengers</label><br> (Max. of 8)
+</div>
+<div id="ff_redeem_passenger_select_wrapper">
+<select id="redeemadults" name="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/allJourneyRequirements/numberOfTravellers[@key='Adult']"><option value="1" selected="selected">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option></select>
+</div>
+</div>
+<br>
+<p><a href="javascript:var child=window.open('http://www.amtrak.com/servlet/Satellite?SnippetName=IBLegacy&amp;pagename=am/AM_Snippet_C/SnippetWrapper&amp;help=agrFindTicket','help','directories=0,dependent=1,menubar=0,top=20,left=20,width=680,height=600,scrollbars=1');child.focus();" class="smallblue">Learn more</a> about redeeming points online for Amtrak travel.</p>
+</div>
+<br class="clear_both">
+</form>
+</div>
+<script language="JavaScript" type="text/javascript">
+<!--
+if( $('ff_sub_tabbar_bookatrip').hasClassName("active") ){
+show_ff_sub_tab('bookatrip');
+} else if( $('ff_sub_tabbar_redeem').hasClassName("active") ){
+show_ff_sub_tab('redeem');
+} else if( $('ff_sub_tabbar_otherdiscounts').hasClassName("active") ){
+show_ff_sub_tab('otherdiscounts');
+}
+//-->
+</script>
+
+
+
+
+
+
+<div id="farefinder_tabbody_otherdiscounts" class="farefinder_tabbody">
+<div id="ada_link" class="subdiv">
+<label for="ff_ada_link"><a href="/itd/amtrak/ada">Passengers with a Disability</a></label>
+</div>
+<form name="form" action="http://tickets.amtrak.com/itd/amtrak" method="post"><input type="hidden" name="requestor" value="amtrak.presentation.handler.page.rail.AmtrakRailFareFinderPageHandler">
+<input type="hidden" name="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/@bookpath" value="farefamilies">
+<input type="hidden" name="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/allJourneyRequirements/@ff_tab_selected" value="otherdiscounts">
+<h2>Tickets</h2>
+
+<div id="ff_tickets_tt_cities_subdiv" class="subdiv level6">
+<div id="tickets_trip_type"><p>
+<input type="hidden" name="xwdf_TripType" value="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/tripType"><input type="radio" id="oneway" name="wdf_TripType" value="OneWay" onclick="javascript:discountsBlankReturnDate()" checked="checked">&nbsp;<label for="oneway">One-Way</label>
+<input type="hidden" name="xwdf_TripType" value="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/tripType"><input type="radio" id="othreturn" name="wdf_TripType" value="Return" onclick="javascript:setDiscountsReturnDate()">&nbsp;<label for="return">Round-Trip</label>
+<a href="/itd/amtrak/ComplexRail">Multi-City</a> &gt;</p>
+</div>
+<div id="tickets_dep_city" class="ff_city_wrapper">
+<label for="discountsdeparts">From</label>
+<input type="hidden" name="xwdf_origin" value="/sessionWorkflow/productWorkflow[@product='Rail']/travelSelection/journeySelection[1]/departLocation/search"><input type="text" autocomplete="off" id="discountsdeparts" maxlength="150" name="wdf_origin">
+<p><span class="find_a_station"><a title="Click for a list of stations." href="javascript:fieldName='discountsdeparts'; openStationList();">Find a Station</a></span></p>
+</div>
+<div id="tickets_arr_city" class="ff_city_wrapper level3">
+<label for="discountsarrives">To</label>
+<input type="hidden" name="xwdf_destination" value="/sessionWorkflow/productWorkflow[@product='Rail']/travelSelection/journeySelection[1]/arriveLocation/search"><input type="text" autocomplete="off" id="discountsarrives" maxlength="150" name="wdf_destination">
+<p><span class="find_a_station"><a title="Click for a list of stations." href="javascript:fieldName='discountsarrives'; openStationList();">Find a Station</a></span></p>
+</div>
+<div id="discounts_from_auto" class="autocomplete level5" style="display:none"></div>
+<div id="discounts_to_auto" class="autocomplete level5" style="display:none"></div>
+</div>
+<div id="ff_tickets_dep_ret_date_subdiv" class="subdiv level3" style="position:static;">
+<div id="discounts_dep_date_time" class="level5">
+<div class="ff_date_wrapper">
+<label for="wdfdate16">Departs</label>
+
+<input class="wdfDate" onfocus="dateChangedTimer(16)" type="text" size="22" id="wdfdate16" maxlength="22" name="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/journeyRequirements[1]/departDate.date" onblur="dateChangedComplete(16,1)" value="Fri, Jun 20, 2014" readonly="readonly"><script language="JavaScript" type="text/javascript">
+<!--
+document.write('<a class="calLink noloading" id="calLink16">&nbsp;</a>');//-->
+</script><a class="calLink noloading" id="calLink16">&nbsp;</a>
+<br><div id="calContainer16" class="calContainer yui-calcontainer single withtitle"><iframe src="javascript:false;" style="opacity: 0;"></iframe><div class="title">&nbsp;</div><a href="#" class="link-close"><span class="close-icon calclose">Close</span></a></div></div><div class="ff_time_wrapper"><label for="wdftime16"><b>Time</b></label><select onfocus="updateTimeState()" onchange="timeChanged(16);setTripTypeIfReturnDateSelected(false)" id="wdftime16" name="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/journeyRequirements[1]/departTime.hourmin"><option value="">Anytime</option><option value="07:00">Morning</option><option value="14:00">Afternoon</option><option value="19:00">Evening</option><option value="23:59">Midnight</option><option value="01:00">1 AM</option><option value="02:00">2 AM</option><option value="03:00">3 AM</option><option value="04:00">4 AM</option><option value="05:00">5 AM</option><option value="06:00">6 AM</option><option value="07:00">7 AM</option><option value="08:00">8 AM</option><option value="09:00">9 AM</option><option value="10:00">10 AM</option><option value="11:00">11 AM</option><option value="12:00">Noon</option><option value="13:00">1 PM</option><option value="14:00">2 PM</option><option value="15:00">3 PM</option><option value="16:00">4 PM</option><option value="17:00">5 PM</option><option value="18:00">6 PM</option><option value="19:00">7 PM</option><option value="20:00">8 PM</option><option value="21:00">9 PM</option><option value="22:00">10 PM</option><option value="23:00">11 PM</option></select>
+
+
+</div>
+</div>
+
+
+<div id="discounts_ret_date_time" class="hide_section level4">
+<div class="ff_date_wrapper">
+
+<label for="wdfdate17">Returns</label>
+
+<input class="wdfDate" onfocus="dateChangedTimer(17)" type="text" size="22" id="wdfdate17" maxlength="22" name="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/journeyRequirements[2]/departDate.date" onblur="dateChangedComplete(17,1)" readonly="readonly"><script language="JavaScript" type="text/javascript">
+<!--
+document.write('<a class="calLink noloading" id="calLink17">&nbsp;</a>');//-->
+</script><a class="calLink noloading" id="calLink17">&nbsp;</a>
+<br><div id="calContainer17" class="calContainer yui-calcontainer single withtitle"><iframe src="javascript:false;" style="opacity: 0;"></iframe><div class="title">&nbsp;</div><a href="#" class="link-close"><span class="close-icon calclose">Close</span></a></div></div><div class="ff_time_wrapper"><label for="wdftime17"><b>Time</b></label><select onfocus="updateTimeState()" onchange="timeChanged(17);setTripTypeIfReturnDateSelected(false)" id="wdftime17" name="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/journeyRequirements[2]/departTime.hourmin"><option value="">Anytime</option><option value="07:00">Morning</option><option value="14:00">Afternoon</option><option value="19:00">Evening</option><option value="23:59">Midnight</option><option value="01:00">1 AM</option><option value="02:00">2 AM</option><option value="03:00">3 AM</option><option value="04:00">4 AM</option><option value="05:00">5 AM</option><option value="06:00">6 AM</option><option value="07:00">7 AM</option><option value="08:00">8 AM</option><option value="09:00">9 AM</option><option value="10:00">10 AM</option><option value="11:00">11 AM</option><option value="12:00">Noon</option><option value="13:00">1 PM</option><option value="14:00">2 PM</option><option value="15:00">3 PM</option><option value="16:00">4 PM</option><option value="17:00">5 PM</option><option value="18:00">6 PM</option><option value="19:00">7 PM</option><option value="20:00">8 PM</option><option value="21:00">9 PM</option><option value="22:00">10 PM</option><option value="23:00">11 PM</option></select>
+
+
+</div>
+</div>
+
+</div>
+<div id="ff_tickets_passengers_subdiv" class="subdiv level1">
+<div id="tickets_passengers">
+
+
+
+<div id="ff_adults_wrapper">
+<label style="line-height:1.1;" for="ff_adults"><a href="javascript:var child=window.open('http://www.amtrak.com/servlet/Satellite?SnippetName=IBLegacy&amp;pagename=am/AM_Snippet_C/SnippetWrapper&amp;pass=Adult','pass','directories=0,dependent=1,menubar=0,top=20,left=20,width=680,height=600,scrollbars=1');child.focus();" class="smallblue">Adults</a><br> (13-61)</label>
+<select onchange="javascript:discounttype('adult')" id="oth_adults" name="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/allJourneyRequirements/numberOfTravellers[@key='Adult']"><option value="0">0</option><option value="1" selected="selected">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option></select>
+</div>
+<div id="ff_seniors_wrapper">
+<label style="line-height:1.1;" for="ff_seniors"><a href="javascript:var child=window.open('http://www.amtrak.com/servlet/Satellite?SnippetName=IBLegacy&amp;pagename=am/AM_Snippet_C/SnippetWrapper&amp;pass=Senior','pass','directories=0,dependent=1,menubar=0,top=20,left=20,width=680,height=600,scrollbars=1');child.focus();" class="smallblue">Seniors</a><br> (62+)</label>
+<select onchange="javascript:discounttype('senior')" id="oth_seniors" name="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/allJourneyRequirements/numberOfTravellers[@key='Senior']"><option value="0" selected="selected">0</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option></select>
+</div>
+
+
+
+<div id="ff_kids_wrapper">
+<label style="line-height:1.1;" for="ff_kids"><a href="javascript:var child=window.open('http://www.amtrak.com/servlet/Satellite?SnippetName=IBLegacy&amp;pagename=am/AM_Snippet_C/SnippetWrapper&amp;pass=Child','pass','directories=0,dependent=1,menubar=0,top=20,left=20,width=680,height=600,scrollbars=1');child.focus();" class="smallblue">Children</a><br> (2-12)</label>
+<select onchange="showChildPopup(this.options[this.selectedIndex].value, document.getElementById('oth_infants').options[document.getElementById('oth_infants').selectedIndex].value, 'oth_child_popup'),discounttype('child')" id="oth_children" name="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/allJourneyRequirements/numberOfTravellers[@key='Child']"><option value="0" selected="selected">0</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option></select>
+</div>
+<div id="ff_infants_wrapper">
+<label style="line-height:1.1;" for="ff_infants"><a href="javascript:var child=window.open('http://www.amtrak.com/servlet/Satellite?SnippetName=IBLegacy&amp;pagename=am/AM_Snippet_C/SnippetWrapper&amp;pass=Infant','pass','directories=0,dependent=1,menubar=0,top=20,left=20,width=680,height=600,scrollbars=1');child.focus();" class="smallblue">Infants</a><br> (under 2)</label>
+<select onchange="showChildPopup(this.options[this.selectedIndex].value, document.getElementById('oth_children').options[document.getElementById('oth_children').selectedIndex].value, 'oth_child_popup'),discounttype('infant')" id="oth_infants" name="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/allJourneyRequirements/numberOfTravellers[@key='Infant']"><option value="0" selected="selected">0</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option></select>
+</div>
+</div>
+<br>
+
+
+
+<div id="oth_child_popup" class="info_childpopup_ff hide_section">Children and infants must travel with an adult who is at least 18 years or older.</div>
+
+
+</div>
+
+<div id="ff_submit_button" class="subdiv">
+
+
+<input type="image" alt="Click to Find Tickets" name="_handler=amtrak.presentation.handler.request.rail.farefamilies.AmtrakRailFareFamiliesSearchRequestHandler/_xpath=/sessionWorkflow/productWorkflow[@product='Rail']" onclick="javascript:return (preDiscountsFareFinderSubmitActions('The following information is needed to process your request:', 'Problem Pricing the Itinerary: Atlantic City Express Service offers adult fares only for all passengers.  Please modify your selection to continue. \n[Error ID: 1121S]') &amp;&amp; validatePassDiscountSelect() )" src="/images/en/btn_ff_findTrains.gif" border="0">
+
+</div>
+
+<div id="ff_promocode" class="subdiv oth_promocode">
+<label for="disc_promocode_text"><span class="bold_text">Promotion Code</span> </label>
+<div>
+<input type="hidden" name="xwdf_promoCode" value="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/couponRequirements/coupon/code"><input type="text" size="5" id="ff_disc_promoCode" maxlength="4" name="wdf_promoCode">
+</div>
+</div>
+
+<div class="clear_both"></div>
+
+
+<div id="ff_disctype" class="subdiv">
+
+</div>
+<div id="discountsrules" class="subdiv"><a href="javascript:var child=window.open('http://www.amtrak.com/servlet/Satellite?SnippetName=IBLegacy&amp;pagename=am/AM_Snippet_C/SnippetWrapper&amp;ibsref=preffare','ibsref','directories=0,dependent=1,menubar=0,top=20,left=20,width=680,height=600,scrollbars=1');child.focus();" class="smallblue">Passenger type/discount rules</a></div>
+
+
+<script type="text/javascript">
+//<![CDATA[
+Element.observe(window, 'load', function(){
+discounttype("adult");
+jQuery("#adult_select0 option[value='Adult']").attr("selected", "selected");
+});
+//]]>
+</script>
+
+
+
+
+
+</form>
+</div>
+<script>
+if( $('ff_sub_tabbar_bookatrip').hasClassName("active") ){
+show_ff_sub_tab('bookatrip');
+} else if( $('ff_sub_tabbar_redeem').hasClassName("active") ){
+show_ff_sub_tab('redeem');
+} else if( $('ff_sub_tabbar_otherdiscounts').hasClassName("active") ){
+show_ff_sub_tab('otherdiscounts');
+}
+function discounttype(passtype) {
+var totaladults = jQuery('#oth_adults').val();
+var totalseniors = jQuery('#oth_seniors').val();
+var totalchilds = jQuery('#oth_children').val();
+var totalinfants = jQuery('#oth_infants').val();
+var totaladperson = parseInt(totaladults) + parseInt(totalseniors) ;
+var dischtml='';
+var count=0;
+var sencount =0;
+var adtcount= 0;
+var j=0;
+var k=0;
+if ( totaladperson != 0 ){
+for ( var i=0; i<totaladperson; i++) {
+count++;
+var adultopts= "<option value='Default'>Select</option><option value='Adult'>Adult</option><option value='Senior'>Senior</option><option value='AAA Adult'>AAA Adult</option><option value='NARP'>NARP</option><option value='Military'>Military Adult (Active)</option><option value='Veterans Advantage'>Veterans Advantage</option><option value='Student Advantage'>Student Advantage</option><option value='ISIC'>ISIC</option>";
+var senopts= "<option value='Default'>Select</option><option value='Adult'>Adult</option><option value='Senior' selected='selected'>Senior</option><option value='AAA Adult'>AAA Adult</option><option value='NARP'>NARP</option><option value='Military'>Military Adult (Active)</option><option value='Veterans Advantage'>Veterans Advantage</option><option value='Student Advantage'>Student Advantage</option><option value='ISIC'>ISIC</option>";
+var adtlabel="Adult";
+if (jQuery('#adult_select'+i).val()) {
+var curadtval = "value='"+jQuery('#adult_select'+i).val()+"'";
+var newadtval = "value='"+jQuery('#adult_select'+i).val()+"' selected='selected'";
+if (curadtval == "value='Senior'" && sencount<totalseniors ){
+adtlabel = "Senior";
+sencount++;
+adultopts = adultopts.replace(curadtval, newadtval);
+} else {
+if (curadtval == "value='Senior'" && sencount>=totalseniors ){
+if (j==0) {
+j=i;
+} else {
+j=j+1;
+}
+while (j<=totaladperson)  {
+if (jQuery('#adult_select'+(j+1)).val() != 'Senior') {
+var ncuradtval = "value='"+jQuery('#adult_select'+(j+1)).val()+"'";
+var nnewadtval = "value='"+jQuery('#adult_select'+(j+1)).val()+"' selected='selected'";
+adultopts = adultopts.replace(ncuradtval, nnewadtval);
+break;
+}
+j++;
+}
+} else {
+if (curadtval != "value='Senior'" && adtcount<totaladults ){
+adtcount++;
+adultopts = adultopts.replace(curadtval, newadtval);
+} else {
+if (curadtval != "value='Senior'" && adtcount>=totaladults ){
+if (k==0) {
+k=i;
+} else {
+k=k+1;
+}
+while (k<=totaladperson)  {
+if (jQuery('#adult_select'+(k+1)).val() == 'Senior') {
+var ncuradtval = "value='"+jQuery('#adult_select'+(k+1)).val()+"'";
+var nnewadtval = "value='"+jQuery('#adult_select'+(k+1)).val()+"' selected='selected'";
+adultopts = adultopts.replace(ncuradtval, nnewadtval);
+adtlabel = "Senior";
+break;
+}
+k++;
+}
+} else {
+adultopts = adultopts.replace(curadtval, newadtval);
+}
+}
+}
+}
+} else {
+if (passtype== 'senior' || passtype== 'Senior') {
+adultopts=senopts;
+adtlabel ="Senior";
+}
+}
+dischtml += '<div id ="pass'+count+'" class="'+adtlabel+'"><div class="ff_disc_passenger"><label id="label'+count+'" for="disc_passenger'+count+'">Passenger #'+count+' ('+adtlabel+')</label><br/><input type="hidden" value="/sessionWorkflow/productWorkflow[@product=\'Rail\']/tripRequirements/allJourneyRequirements/person['+count+']/personType" name="xwdf_person_type'+count+'"><select onfocus="this.oldvalue = this.value;"  onchange="totalpass(this,'+count+');this.oldvalue = this.value;"  name="wdf_person_type'+count+'" id="adult_select'+i+'" class="disc_passenger_select">'+adultopts+'</select></div></div>';
+}
+}
+if ( totalchilds != 0) {
+for ( var i=0; i<totalchilds; i++) {
+count++;
+var childopts= "<option value='Default'>Select</option><option value='Child'>Child (Ages 2-12)</option><option value='AAA Child'>AAA Child (Ages 2-12)</option><option value='Military Child'>Military Child (Ages 2-12)</option>";
+if (jQuery('#child_select'+i).val()) {
+var curchival = "value='"+jQuery('#child_select'+i).val()+"'";
+var newchival = "value='"+jQuery('#child_select'+i).val()+"' selected='selected'";
+childopts = childopts.replace(curchival, newchival);
+}
+dischtml += '<div id ="pass'+count+'" class="ff_disc_passenger"><label for="disc_passenger'+count+'">Passenger #'+count+' (Child)</label><br/><input type="hidden" value="/sessionWorkflow/productWorkflow[@product=\'Rail\']/tripRequirements/allJourneyRequirements/person['+count+']/personType" name="xwdf_person_type'+count+'"><select name="wdf_person_type'+count+'" id="child_select'+i+'" class="disc_passenger_select">'+childopts+'</select></div>';
+}
+}
+if ( totalinfants != 0 ) {
+for ( var i=0; i<totalinfants; i++) {
+count++;
+dischtml += '<div id ="pass'+count+'" class="ff_disc_passenger"><label for="disc_passenger'+count+'">Passenger #'+count+' (Infant)</label><br/><p>Infant (Under age 2)</p><input type="hidden" value="Infant" name="/sessionWorkflow/productWorkflow[@product=\'Rail\']/tripRequirements/allJourneyRequirements/person['+count+']/personType"></div>';
+}
+}
+document.getElementById('ff_disctype').innerHTML = dischtml;
+if ( count != 0) {
+document.getElementById("ff_disctype" ).style.display = 'block';
+} else {
+document.getElementById("ff_disctype" ).style.display = 'none';
+}
+}
+function validatePassDiscountSelect(){
+var totaladults = jQuery('#oth_adults').val();
+var totalseniors = jQuery('#oth_seniors').val();
+var totaladperson = parseInt(totaladults) + parseInt(totalseniors) ;
+var totalchilds = jQuery('#oth_children').val();
+var errorMsg = "";
+if ( totaladperson != 0 ){
+for (i = 0; i < totaladperson; i++) {
+if (jQuery('#adult_select'+i).val() == 'Default') {
+errorMsg = 'Please make sure you have selected a passenger type for all of the members in your traveling party.';
+}
+}
+}
+if ( totalchilds != 0 ){
+for (i = 0; i < totalchilds; i++) {
+if (jQuery('#child_select'+i).val() == 'Default') {
+errorMsg = 'Please make sure you have selected a passenger type for all of the members in your traveling party.';
+}
+}
+}
+if (errorMsg!=""){
+alert(errorMsg);
+return false;
+} else {
+return true;
+}
+}
+function totalpass(id, ct) {
+var oldvalue = id.oldvalue;
+var newvalue = id.value;
+var newlabel = "label"+ct;
+if (oldvalue == 'Senior' || newvalue == 'Senior') {
+if (oldvalue == 'Senior' && newvalue != 'Senior') {
+var tadt = parseInt(document.getElementById("oth_adults").value);
+var tsen = parseInt(document.getElementById("oth_seniors").value);
+tadt += 1;
+tsen -= 1;
+document.getElementById("oth_adults").value = tadt;
+document.getElementById("oth_seniors").value = tsen;
+var res = document.getElementById(newlabel).innerHTML.replace("Senior","Adult");
+document.getElementById(newlabel).innerHTML =res;
+} else {
+if (newvalue == 'Senior' && oldvalue != 'Senior') {
+var tadt = parseInt(document.getElementById("oth_adults").value);
+var tsen = parseInt(document.getElementById("oth_seniors").value);
+tadt -= 1;
+tsen += 1;
+document.getElementById("oth_adults").value = tadt;
+document.getElementById("oth_seniors").value = tsen;
+var res = document.getElementById(newlabel).innerHTML.replace("Adult","Senior");
+document.getElementById(newlabel).innerHTML =res;
+}
+}
+}
+}
+</script>
+
+
+<div id="farefinder_tabbody_status" class="farefinder_tabbody">
+
+<form onsubmit="javascript:return CheckMandatoryTrainStatusFields(this)" name="ff_status_form" action="http://tickets.amtrak.com/itd/amtrak" method="post"><input type="hidden" name="requestor" value="amtrak.presentation.handler.page.AmtrakCMSNavigationTabPageHandler">
+<h2>Status</h2>
+<div id="ff_status_step_1" class="subdiv1">
+<h3>Check Status of a Train</h3>
+<div class="form_line_wrapper first">
+<label for="status_date">
+Date:
+</label>
+<span class="form_entry">
+
+<input class="wdfDate" onfocus="dateChangedTimer(10)" type="text" size="22" id="wdfdate10" maxlength="22" name="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/journeyRequirements[1]/departDate.date" onblur="dateChangedComplete(10,1)" value="Fri, Jun 20, 2014" readonly="readonly"><script language="JavaScript" type="text/javascript">
+<!--
+document.write('<a class="calLink noloading" id="calLink10">&nbsp;</a>');//-->
+</script><a class="calLink noloading" id="calLink10">&nbsp;</a>
+<br><div id="calContainer10" class="calContainer yui-calcontainer single withtitle"><iframe src="javascript:false;" style="opacity: 0;"></iframe><div class="title">&nbsp;</div><a href="#" class="link-close"><span class="close-icon calclose">Close</span></a></div>
+
+
+</span>
+</div>
+<div class="form_line_wrapper">
+<label for="status_train_num">
+Train No.
+</label>
+<span class="form_entry">
+<input type="hidden" name="xwdf_trainNumber" value="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/journeyRequirements[1]/segmentRequirements[1]/serviceCode"><input onfocus="if (this.value=='optional') { this.value=''; updateMaxLength(); };" type="text" size="4" id="status_train_num" maxlength="8" name="wdf_trainNumber" value="optional">
+</span>
+</div>
+<br class="clear_both">
+</div>
+<div id="ff_status_step_2" class="subdiv">
+<div id="ff_status_footnote_submit_wrapper">
+<p>One city is required if train number is used.</p>
+</div>
+<div id="status_dep_city" class="ff_city_wrapper">
+<label for="status_from">
+From
+</label>
+<!-- itd:locationinput id="status_dep" wdfxpath="travelSelection/journeySelection[1]/departLocation" wdfhtmlname="wdf_origin" wdflimitedlocations="resource:TRAVEL_USE_LIMITED_LOCATIONS" size="25" / -->
+<input type="hidden" name="xwdf_origin" value="/sessionWorkflow/productWorkflow[@product='Rail']/travelSelection/journeySelection[1]/departLocation/search"><input type="text" autocomplete="off" id="status_from" maxlength="150" name="wdf_origin">
+<p><span class="find_a_station">
+<a title="Click for a list of stations." href="javascript:fieldName='status_from'; openStationList();">Find a Station</a>
+</span></p>
+</div>
+<div id="status_arr_city" class="ff_city_wrapper">
+<label for="status_to">
+To
+</label>
+<!-- itd:locationinput id="status_to" wdfxpath="travelSelection/journeySelection[1]/arriveLocation" wdfhtmlname="wdf_destination" wdflimitedlocations="resource:TRAVEL_USE_LIMITED_LOCATIONS" size="25" / -->
+<input type="hidden" name="xwdf_destination" value="/sessionWorkflow/productWorkflow[@product='Rail']/travelSelection/journeySelection[1]/arriveLocation/search"><input type="text" autocomplete="off" id="status_to" maxlength="150" name="wdf_destination">
+<p><span class="find_a_station">
+<a title="Click for a list of stations." href="javascript:fieldName='status_to'; openStationList();">Find a Station</a>
+</span></p>
+</div>
+</div>
+<div id="ff_status_step_3" class="subdiv">
+<div id="status_from_auto" class="autocomplete" style="display:none"></div>
+<div id="status_to_auto" class="autocomplete" style="display:none"></div>
+<div id="status_arr_or_dep_wrapper">
+
+
+<input type="hidden" name="xwdf_SortBy" value="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/journeyRequirements[1]/departDate/@radioSelect"><input type="radio" id="status_arr" name="wdf_SortBy" value="arrivalTime" checked="checked">
+<label for="status_arr">
+Scheduled Arrive
+</label>
+&nbsp;&nbsp;
+<input type="hidden" name="xwdf_SortBy" value="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/journeyRequirements[1]/departDate/@radioSelect"><input type="radio" id="status_dep" name="wdf_SortBy" value="departTime">
+<label for="status_dep">
+Scheduled Depart
+</label>
+
+</div>
+<div class="form_line_wrapper">
+<label for="status_time">
+Time
+</label>
+<span class="form_entry">
+
+<select onfocus="updateTimeState()" onchange="timeChanged(10);setTripTypeIfReturnDateSelected(false)" id="wdftime10" name="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/journeyRequirements[1]/departTime.hourmin"><option value="">Anytime</option><option value="07:00">Morning</option><option value="14:00">Afternoon</option><option value="19:00">Evening</option><option value="23:59">Midnight</option><option value="01:00">1 AM</option><option value="02:00">2 AM</option><option value="03:00">3 AM</option><option value="04:00">4 AM</option><option value="05:00">5 AM</option><option value="06:00">6 AM</option><option value="07:00">7 AM</option><option value="08:00">8 AM</option><option value="09:00">9 AM</option><option value="10:00">10 AM</option><option value="11:00">11 AM</option><option value="12:00">Noon</option><option value="13:00">1 PM</option><option value="14:00">2 PM</option><option value="15:00">3 PM</option><option value="16:00">4 PM</option><option value="17:00">5 PM</option><option value="18:00">6 PM</option><option value="19:00">7 PM</option><option value="20:00">8 PM</option><option value="21:00">9 PM</option><option value="22:00">10 PM</option><option value="23:00">11 PM</option></select>
+
+
+</span>
+</div>
+</div>
+<div id="ff_status_submit_wrapper" class="subdiv">
+<input type="hidden" name="_handler=amtrak.presentation.handler.request.rail.AmtrakRailTrainStatusSearchRequestHandler/_xpath=/sessionWorkflow/productWorkflow[@product='Rail']">
+<input type="image" alt="Check Status" name="_handler=amtrak.presentation.handler.request.rail.AmtrakRailTrainStatusSearchRequestHandler/_xpath=/sessionWorkflow/productWorkflow[@product='Rail']" src="/images/en/btn_checkStatus.gif" border="0">
+</div>
+</form>
+
+</div>
+<div id="farefinder_tabbody_schedules" class="farefinder_tabbody">
+
+<form onsubmit="javascript:return CheckMandatoryScheduleFields(this);" name="ff_schedules_form" action="http://tickets.amtrak.com/itd/amtrak" method="post"><input type="hidden" name="requestor" value="amtrak.presentation.handler.page.AmtrakCMSNavigationTabPageHandler">
+<h2>Schedules</h2>
+<div id="ff_schedules_tt_cities_subdiv" class="subdiv">
+<div id="schedules_dep_city" class="ff_city_wrapper">
+<label for="schedules_from">From</label>
+<input type="hidden" name="xwdf_origin" value="/sessionWorkflow/productWorkflow[@product='Rail']/travelSelection/journeySelection[1]/departLocation/search"><input type="text" autocomplete="off" id="schedules_from" maxlength="150" name="wdf_origin">
+<p><span class="find_a_station"><a title="Click for a list of stations." href="javascript:fieldName='schedules_from'; openStationList();">Find a Station</a></span></p>
+<!-- itd:locationinput id="schedules_from" wdfxpath="travelSelection/journeySelection[1]/departLocation" wdfhtmlname="wdf_origin" wdflimitedlocations="resource:TRAVEL_USE_LIMITED_LOCATIONS" size="40" / -->
+
+</div>
+<div id="schedules_arr_city" class="ff_city_wrapper">
+<label for="schedules_to">To</label>
+<!-- itd:locationinput id="schedules_to" wdfxpath="travelSelection/journeySelection[1]/arriveLocation" wdfhtmlname="wdf_destination" wdflimitedlocations="resource:TRAVEL_USE_LIMITED_LOCATIONS" size="40" / -->
+<input type="hidden" name="xwdf_destination" value="/sessionWorkflow/productWorkflow[@product='Rail']/travelSelection/journeySelection[1]/arriveLocation/search"><input type="text" autocomplete="off" id="schedules_to" maxlength="150" name="wdf_destination">
+<p><span class="find_a_station"><a title="Click for a list of stations." href="javascript:fieldName='schedules_to'; openStationList();">Find a Station</a></span></p>
+
+</div>
+</div>
+<div id="ff_schedules_dep_ret_date_subdiv" class="subdiv">
+<div id="schedule_from_auto" class="autocomplete" style="display:none"></div>
+<div id="schedule_to_auto" class="autocomplete" style="display:none"></div>
+<div id="schedules_dep_date_time">
+<div class="ff_date_wrapper">
+<label for="schedules_dep_date">Depart</label>
+
+<input class="wdfDate" onfocus="dateChangedTimer(5)" type="text" size="22" id="wdfdate5" maxlength="22" name="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/journeyRequirements[1]/departDate.date" onblur="dateChangedComplete(5,1)" value="Fri, Jun 20, 2014" readonly="readonly"><script language="JavaScript" type="text/javascript">
+<!--
+document.write('<a class="calLink noloading" id="calLink5">&nbsp;</a>');//-->
+</script><a class="calLink noloading" id="calLink5">&nbsp;</a>
+<br><div id="calContainer5" class="calContainer yui-calcontainer single withtitle"><iframe src="javascript:false;" style="opacity: 0;"></iframe><div class="title">&nbsp;</div><a href="#" class="link-close"><span class="close-icon calclose">Close</span></a></div></div><div class="ff_time_wrapper"><label for="wdftimenull"><b>Time</b></label><select onfocus="updateTimeState()" onchange="timeChanged(5);setTripTypeIfReturnDateSelected(false)" id="wdftime5" name="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/journeyRequirements[1]/departTime.hourmin"><option value="">Anytime</option><option value="07:00">Morning</option><option value="14:00">Afternoon</option><option value="19:00">Evening</option><option value="23:59">Midnight</option><option value="01:00">1 AM</option><option value="02:00">2 AM</option><option value="03:00">3 AM</option><option value="04:00">4 AM</option><option value="05:00">5 AM</option><option value="06:00">6 AM</option><option value="07:00">7 AM</option><option value="08:00">8 AM</option><option value="09:00">9 AM</option><option value="10:00">10 AM</option><option value="11:00">11 AM</option><option value="12:00">Noon</option><option value="13:00">1 PM</option><option value="14:00">2 PM</option><option value="15:00">3 PM</option><option value="16:00">4 PM</option><option value="17:00">5 PM</option><option value="18:00">6 PM</option><option value="19:00">7 PM</option><option value="20:00">8 PM</option><option value="21:00">9 PM</option><option value="22:00">10 PM</option><option value="23:00">11 PM</option></select>
+
+
+</div>
+</div>
+</div>
+<div id="ff_schedules_timetables_submit_wrapper" class="subdiv">
+<input type="hidden" name="_handler=amtrak.presentation.handler.request.rail.AmtrakCMSRailSchedulesSearchRequestHandler/_xpath=/sessionWorkflow/productWorkflow[@product='Rail']">
+<input type="image" alt="Find Schedules" name="_handler=amtrak.presentation.handler.request.rail.AmtrakCMSRailSchedulesSearchRequestHandler/_xpath=/sessionWorkflow/productWorkflow[@product='Rail']" src="/images/en/btn_findSchedules.gif" border="0">
+</div>
+<div id="ff_schedules_timetables_footer_wrapper">
+<p><a href="http://www.amtrak.com/servlet/Satellite/Page/1237405732505/1237405732505">Download printable timetables</a></p>
+</div>
+</form>
+
+</div>
+<div id="farefinder_tabbody_mytrip" class="farefinder_tabbody">
+<h2>My Trip</h2>
+<div id="ff_mytrip_step_1" class="subdiv">
+<form onsubmit="javascript:return CheckMandatoryMyTripFields(this)" name="mytrip_res" action="http://tickets.amtrak.com/itd/amtrak" method="post"><input type="hidden" name="requestor" value="amtrak.presentation.handler.page.AmtrakCMSNavigationTabPageHandler">
+<h3>Find a Reservation</h3>
+<div class="form_line_wrapper first">
+<label for="mytrip_res_num">Reservation Number</label><span class="form_entry">
+<input type="text" id="mytrip_res_num" name="/sessionWorkflow/itineraryWorkflow/basket/booking/reference" value="">
+</span>
+</div>
+<div class="form_line_wrapper">
+<strong>and</strong>
+</div>
+<div class="form_line_wrapper">
+<label for="mytrip_res_email">E-mail Address</label><span class="form_entry">
+<input type="text" id="mytrip_res_email" name="/sessionWorkflow/itineraryWorkflow/basket/booking/bookingOptions/bookingFulfilment/contact/contactEmailAddress/emailAddress" value="">
+</span>
+</div>
+<div class="form_line_wrapper">
+<div class="separator">-or-</div>
+</div>
+<div class="form_line_wrapper">
+<label for="mytrip_res_zip">Telephone Number</label><span class="form_entry">
+<input type="text" id="mytrip_res_zip" name="/sessionWorkflow/itineraryWorkflow/basket/booking/bookingOptions/bookingFulfilment/contact/contactTelephone/number" value="">
+</span>
+</div>
+<div id="ff_mytrip_res_submit">
+<input type="hidden" name="_handler=com.sita.ats.amtrak.presentation.handler.request.itinerary.AmtrakLoggedOutTripDetailsRequestHandler">
+<input class="image" type="image" alt="Find Reservation" name="_handler=com.sita.ats.amtrak.presentation.handler.request.itinerary.AmtrakLoggedOutTripDetailsRequestHandler" src="/images/en/btn_find.gif">
+</div>
+</form>
+</div>
+
+<div id="ff_mytrip_step_2" class="subdiv">
+<div id="mytrip_or"><span>Or</span></div>
+
+<form onsubmit="javascript:return CheckMandatoryLoginFields(this)" name="mytrip_acct" action="https://tickets.amtrak.com/itd/amtrak" method="post"><input type="hidden" name="requestor" value="amtrak.presentation.handler.page.AmtrakCMSNavigationTabPageHandler">
+<input type="hidden" name="/sessionWorkflow/userWorkflow/profileAccountRequirements/@logontype" value="mytrip">
+<h3>Log in to your Amtrak.com Account</h3>
+<div class="form_line_wrapper">
+<label for="mytrip_acct_email">E-mail Address</label><span class="form_entry">
+<input type="hidden" name="xwdf_username" value="/sessionWorkflow/userWorkflow/profileAccountRequirements/userName"><input autocomplete="off" type="text" id="mytrip_acct_email" maxlength="64" name="wdf_username">
+</span>
+</div>
+<div class="form_line_wrapper">
+<label for="mytrip_acct_pwd">Password</label><span class="form_entry">
+<input type="hidden" name="xwdf_password" value="/sessionWorkflow/userWorkflow/profileAccountRequirements/password"><input type="password" id="mytrip_acct_pwd" maxlength="20" name="wdf_password">
+</span>
+</div>
+<div id="ff_mytrip_acct_submit">
+<a class="forgot_pass" title="Click here to request your Password" href="javascript:fieldName='wdf_RequestUserID'; openRequestUserID();">Forgot password?</a>
+<input type="hidden" name="_handler=com.sita.ats.amtrak.presentation.handler.request.profile.AmtrakProfileLogonRequestHandler/_xpath=/sessionWorkflow/userWorkflow/profileAccountRequirements">
+<input type="image" alt="Log In" name="_handler=com.sita.ats.amtrak.presentation.handler.request.profile.AmtrakProfileLogonRequestHandler/_xpath=/sessionWorkflow/userWorkflow/profileAccountRequirements" onclick="" src="/images/en/btn_login.gif">
+</div>
+</form>
+
+</div>
+
+</div>
+</div>
+
+<script>
+var stationslist = [
+'Abbotsford-Colby - Bus Stop, WI (ABB)',
+'Aberdeen, MD (ABE)',
+'Absecon - NJ Transit Station, NJ (ABN)',
+'Adelanto, CA (ADE)',
+'Albany, OR (ALY)',
+'Albany-Rensselaer, NY (ALB)',
+'Albion, MI (ALI)',
+'Albuquerque, NM (ABQ)',
+'Aldershot, ON (AST)',
+'Alderson, WV (ALD)',
+'Alexandria, VA (ALX)',
+'Alliance, OH (ALC)',
+'Alpena - Bus Stop, MI (ALM)',
+'Alpine, TX (ALP)',
+'Alton, IL (ALN)',
+'Altoona, PA (ALT)',
+'Amherst, MA (AMM)',
+'Amsterdam, NY (AMS)',
+'Anaheim, CA (ANA)',
+'Ann Arbor, MI (ARB)',
+'Anniston, AL (ATN)',
+'Antioch-Pittsburg, CA (ACA)',
+'Appleton, WI (APP)',
+'Arcata, CA (ARC)',
+'Ardmore, OK (ADM)',
+'Ardmore, PA (ARD)',
+'Arkadelphia, AR (ARK)',
+'Ashland, KY (AKY)',
+'Ashland, OR (AHL)',
+'Ashland, VA (ASD)',
+'Astoria - Transit Center Bus Stop, OR (ART)',
+'Atascadero - Bus Stop, CA (ATA)',
+'Atco - NJ Transit Station, NJ (ATO)',
+'Atlanta, GA (ATL)',
+'Atlantic City - NJ Transit Service, NJ (ACY)',
+'Auburn, CA (ARN)',
+'Augusta - Bus Stop, ME (AGM)',
+'Austin, TX (AUS)',
+'Baker City, OR (BAK)',
+'Bakersfield, CA (BFD)',
+'Baltimore - Penn Station, MD (BAL)',
+'Baltimore - BWI Thurgood Marshall Airport, MD (BWI)',
+'Bangor, ME (BAN)',
+'Bangor, MI (BAM)',
+'Barstow, CA (BAR)',
+'Barstow - Bus Station, CA (BBS)',
+'Bath, ME (BAT)',
+'Baton Rouge, LA (BTR)',
+'Battle Creek, MI (BTL)',
+'Bay City - Bus Stop, MI (BCY)',
+'Beaumont, TX (BMT)',
+'Beaver Dam - Bus Stop, WI (BVD)',
+'Belfast, ME (BFT)',
+'Bellingham, WA (BEL)',
+'Bellows Falls, VT (BLF)',
+'Bend - Riverhouse, OR (BDR)',
+'Bend, OR (BED)',
+'Bend - Bus Stop, OR (BND)',
+'Benson, AZ (BEN)',
+'Berkeley, CA (BKY)',
+'Berlin, CT (BER)',
+'Berlin - Ocean Pines, MD (OCP)',
+'Berlin, NH (BIN)',
+'Big Rapids, MI (BGP)',
+'Bingen-White Salmon, WA (BNG)',
+'Birmingham, AL (BHM)',
+'Birmingham, MI (BMM)',
+'Blacksburg - Virginia Tech Bus Stop, VA (BLK)',
+'Bloomington-Normal, IL (BNL)',
+'Boise, ID (BOI)',
+'Boston - Back Bay, MA (BBY)',
+'Boston - North Station Maine Service, MA (BON)',
+'Boston - South Station, MA (BOS)',
+'Boston - Route 128 / Westwood, MA (RTE)',
+'Bradenton, FL (BDT)',
+'Brattleboro, VT (BRA)',
+'Brewster, WA (BWW)',
+'Bridgeport, CT (BRP)',
+'Brookhaven, MS (BRH)',
+'Brookings - Bus Stop, OR (BKO)',
+'Browning, MT (BRO)',
+'Brunswick, ME (BRK)',
+'Brunswick - Bowdoin College, ME (BWC)',
+'Bryan, OH (BYN)',
+'Buellton, CA (BUL)',
+'Buffalo - Exchange St., NY (BFX)',
+'Buffalo - Depew, NY (BUF)',
+'Burbank - Airport, CA (BUR)',
+'Burke - Burke Centre, VA (BCV)',
+'Burlington, IA (BRL)',
+'Burlington, NC (BNC)',
+'Burlington, VT (ESX)',
+'Burns, OR (BNS)',
+'Cabazon - Bus Stop, CA (CBZ)',
+'Cadillac, MI (CLC)',
+'Camarillo, CA (CML)',
+'Cambridge, MD (CDE)',
+'Camden, SC (CAM)',
+'Camden-Rockport, ME (CDN)',
+'Camp Verde, AZ (CVD)',
+'Cannon Beach, OR (CBO)',
+'Carbondale, IL (CDL)',
+'Carlinville, IL (CRV)',
+'Carlsbad - Village, CA (CBV)',
+'Carlsbad - Poinsettia, CA (POI)',
+'Carmel, CA (CRM)',
+'Carpinteria, CA (CPN)',
+'Cary, NC (CYN)',
+'Cashmere, WA (CSW)',
+'Castleton, VT (CNV)',
+'Cave Junction - Bus Stop, OR (CVJ)',
+'Centralia, IL (CEN)',
+'Centralia, WA (CTL)',
+'Champaign-Urbana, IL (CHM)',
+'Charleston, SC (CHS)',
+'Charleston, WV (CHW)',
+'Charlevoix - Bus Stop, MI (CHL)',
+'Charlotte, NC (CLT)',
+'Charlottesville, VA (CVS)',
+'Chatsworth, CA (CWT)',
+'Cheboygan - Bus Stop, MI (CHB)',
+'Chemult, OR (CMO)',
+'Cherry Hill - NJ Transit Station, NJ (CRH)',
+'Chewelah - Bus Stop, WA (CWL)',
+'Chicago - Union Station, IL (CHI)',
+'Chico, CA (CIC)',
+'Chippewa Falls - Bus Stop, WI (CHP)',
+'Cincinnati, OH (CIN)',
+'Claremont, CA (CLM)',
+'Claremont, NH (CLA)',
+'Cleburne, TX (CBR)',
+'Clemson, SC (CSN)',
+'Cleveland, OH (CLE)',
+'Clifton Forge, VA (CLF)',
+'Cloverdale, CA (CLV)',
+'Coatesville, PA (COT)',
+'Colfax, CA (COX)',
+'Colfax, WA (CFX)',
+'Colorado Springs, CO (COS)',
+'Columbia, SC (CLB)',
+'Columbus, WI (CBS)',
+'Colville - Bus Stop, WA (CVL)',
+'Concord, NH (CNH)',
+'Connellsville, PA (COV)',
+'Connersville, IN (COI)',
+'Conway, NH (CAY)',
+'Coos Bay, OR (CBY)',
+'Corcoran, CA (COC)',
+'Cornwells Heights, PA (CWH)',
+'Corvallis, OR (CVI)',
+'Crater Lake - Bus Station, OR (CLK)',
+'Crawfordsville - Bus, IN (CRB)',
+'Crawfordsville, IN (CRF)',
+'Crescent City - Bus Stop, CA (CRC)',
+'Creston, IA (CRN)',
+'Croton-Harmon, NY (CRT)',
+'Culpeper, VA (CLP)',
+'Cumberland - Allegany College Bus Stop, MD (CUA)',
+'Cumberland, MD (CUM)',
+'Cut Bank, MT (CUT)',
+'Dade City, FL (DDE)',
+'Dallas, TX (DAL)',
+'Damariscotta, ME (DAM)',
+'Danville, IL (DVI)',
+'Danville, VA (DAN)',
+'Davenport, IA (DVP)',
+'Davis, CA (DAV)',
+'Daytona Beach, FL (DYA)',
+'Dearborn, MI (DER)',
+'Deer Park - Bus Stop, WA (DPK)',
+'Deerfield Beach, FL (DFB)',
+'Del Rio, TX (DRT)',
+'Deland, FL (DLD)',
+'Delray Beach, FL (DLB)',
+'Deming, NM (DEM)',
+'Denmark, SC (DNK)',
+'Denver - Bus Station, CO (DEB)',
+'Denver, CO (DEN)',
+'Detroit, MI (DET)',
+'Detroit Lakes, MN (DLK)',
+'Devils Lake, ND (DVL)',
+'Dillon, SC (DIL)',
+'Dodge City, KS (DDG)',
+'Dover, DE (DVR)',
+'Dover, NH (DOV)',
+'Dowagiac, MI (DOA)',
+'Downingtown, PA (DOW)',
+'Du Quoin, IL (DQN)',
+'Dublin-Pleasanton, CA (DBP)',
+'Duluth - Greyhound Bus Station, MN (DUL)',
+'Duluth - U of Minn Bus Stop, MN (DUU)',
+'Dunkirk, NY (DUK)',
+'Dunsmuir, CA (DUN)',
+'Durand, MI (DRD)',
+'Durham, NC (DNC)',
+'Durham, NH (DHM)',
+'Dwight, IL (DWT)',
+'Dyer, IN (DYE)',
+'East Glacier Park, MT (GPK)',
+'East Lansing, MI (LNS)',
+'Easton - Airport, MD (ESN)',
+'Eau Claire - University of Wisconsin Bus Stop, WI (EUC)',
+'Eau Claire - Bus Stop, WI (EUM)',
+'Edmonds, WA (EDM)',
+'Effingham, IL (EFG)',
+'Egg Harbor City - NJ Transit Station, NJ (EGH)',
+'El Paso, TX (ELP)',
+'El Portal, CA (EPL)',
+'El Segundo - Bus Stop, CA (ESG)',
+'Elizabethtown, PA (ELT)',
+'Elk Grove - Bus Stop, CA (EKG)',
+'Elkhart, IN (EKH)',
+'Elko, NV (ELK)',
+'Elsie, OR (ELS)',
+'Elyria, OH (ELY)',
+'Emeryville, CA (EMY)',
+'Encinitas, CA (ENC)',
+'Ephrata, WA (EPH)',
+'Ephrata - Bus Stop, WA (EPR)',
+'Erie, PA (ERI)',
+'Escanaba - Bus Stop, MI (EMI)',
+'Essex, MT (ESM)',
+'Eugene - Bus Station, OR (EUB)',
+'Eugene, OR (EUG)',
+'Eugene - University of Oregon Bus Stop, OR (EUO)',
+'Eureka, CA (EKA)',
+'Everett, WA (EVR)',
+'Exeter, NH (EXR)',
+'Exton, PA (EXT)',
+'Fargo, ND (FAR)',
+'Fayetteville, NC (FAY)',
+'Fillmore, CA (FIL)',
+'Flagstaff - Greyhound Station, AZ (FGG)',
+'Flagstaff, AZ (FLG)',
+'Flint, MI (FLN)',
+'Florence, OR (FRO)',
+'Florence, SC (FLO)',
+'Fond Du Lac, WI (FDL)',
+'Fort Edward-Glens Falls, NY (FED)',
+'Fort Hood, TX (FHD)',
+'Fort Lauderdale, FL (FTL)',
+'Fort Madison, IA (FMD)',
+'Fort Morgan, CO (FMG)',
+'Fort Myers, FL (FTM)',
+'Fort Worth, TX (FTW)',
+'Fortuna, CA (FTA)',
+'Foxwoods Casino, CT (FOX)',
+'Framingham, MA (FRA)',
+'Fraser, CO (WIP)',
+'Frederick, MD (FRC)',
+'Frederick - Airport Bus Stop, MD (FRR)',
+'Fredericksburg, VA (FBG)',
+'Fredonia, NY (FDN)',
+'Freeport, ME (FRE)',
+'Fremont, CA (FMT)',
+'Fremont - Bus Station, CA (FRT)',
+'Fresno, CA (FNO)',
+'Frisco, CO (FSC)',
+'Frostburg - Frostburg St. Univ. Bus Stop, MD (FSB)',
+'Fullerton, CA (FUL)',
+'Fulton, KY (FTN)',
+'Gainesville - Bus Stop, FL (GNF)',
+'Gainesville, GA (GNS)',
+'Gainesville, TX (GLE)',
+'Galesburg, IL (GBB)',
+'Gallup, NM (GLP)',
+'Galveston, TX (GLS)',
+'Garberville, CA (GBV)',
+'Garden City, KS (GCK)',
+'Garibaldi Highlands, BC (GBC)',
+'Gastonia, NC (GAS)',
+'Gearhart, OR (GHT)',
+'Gilman, IL (GLM)',
+'Gilroy, CA (GLY)',
+'Glasgow, MT (GGW)',
+'Glendale, CA (GDL)',
+'Glenview, IL (GLN)',
+'Glenwood Springs, CO (GSC)',
+'Gold Hill - Bus Stop, OR (GHL)',
+'Goldsboro - Bus Stop, NC (GBO)',
+'Goleta, CA (GTA)',
+'Goshen Junction, CA (GSN)',
+'Granby, CO (GRA)',
+'Grand Canyon Natl Park - Bus Stop, AZ (GCB)',
+'Grand Canyon Natl Park, AZ (GCN)',
+'Grand Forks, ND (GFK)',
+'Grand Junction, CO (GJT)',
+'Grand Rapids, MI (GRR)',
+'Grangeville, ID (GVI)',
+'Grants Pass - Bus Stop, OR (GTP)',
+'Grantsville - Bus Stop, MD (GTV)',
+'Grasonville - Kent Island Bus Stop, MD (KNT)',
+'Green Bay - Bus Stop, WI (GBY)',
+'Green River, UT (GRI)',
+'Greenfield Village, MI (GFV)',
+'Greensboro, NC (GRO)',
+'Greensburg, PA (GNB)',
+'Greenville - Bus Stop, NC (GRN)',
+'Greenville, SC (GRV)',
+'Greenwood, MS (GWD)',
+'Grimsby, ON (GMS)',
+'Grover Beach, CA (GVB)',
+'Guadalupe-Santa Maria, CA (GUA)',
+'Hagerstown - Bus Stop, MD (HAG)',
+'Hamlet, NC (HAM)',
+'Hammond, LA (HMD)',
+'Hammond-Whiting, IN (HMI)',
+'Hammonton - NJ Transit Station, NJ (HTN)',
+'Hancock - Bus Stop, MD (HNK)',
+'Hancock - Bus Stop, MI (HKM)',
+'Hanford, CA (HNF)',
+'Harpers Ferry, WV (HFY)',
+'Harrisburg, PA (HAR)',
+'Hartford, CT (HFD)',
+'Hastings, NE (HAS)',
+'Hatch, NM (HCH)',
+'Hattiesburg, MS (HBG)',
+'Havelock - Bus Stop, NC (HVL)',
+'Haverhill, MA (HHL)',
+'Havre, MT (HAV)',
+'Hayward, CA (HAY)',
+'Hazlehurst, MS (HAZ)',
+'Healdsburg, CA (HEA)',
+'Helper, UT (HER)',
+'Hemet - West side-Cocos, CA (HET)',
+'Hemet, CA (HMT)',
+'Hermann, MO (HEM)',
+'High Point, NC (HPT)',
+'Hinckley - Bus Stop, MN (HKL)',
+'Hinton, WV (HIN)',
+'Holdrege, NE (HLD)',
+'Holland, MI (HOM)',
+'Hollywood, FL (HOL)',
+'Homewood, IL (HMW)',
+'Hood River, OR (HOO)',
+'Hope, AR (HOP)',
+'Houghton - Bus Stop, MI (HGH)',
+'Houston, TX (HOS)',
+'Howard City, MI (HWC)',
+'Hudson, NY (HUD)',
+'Hudson - Bus Stop, WI (HDS)',
+'Huntingdon, PA (HGD)',
+'Huntington, WV (HUN)',
+'Hutchinson, KS (HUT)',
+'Independence, MO (IDP)',
+'Indianapolis, IN (IND)',
+'Indio, CA (IDO)',
+'Irvine, CA (IRV)',
+'Jackson, MI (JXN)',
+'Jackson, MS (JAN)',
+'Jacksonville, FL (JAX)',
+'Jacksonville - Bus Station, NC (JNC)',
+'Jamestown, NY (JMN)',
+'Janesville - Bus Service, WI (JVL)',
+'Jefferson City, MO (JEF)',
+'Jesup, GA (JSP)',
+'Johnstown, PA (JST)',
+'Joliet, IL (JOL)',
+'June Lake, CA (JNL)',
+'Kalamazoo, MI (KAL)',
+'Kankakee, IL (KKI)',
+'Kannapolis, NC (KAN)',
+'Kansas City, MO (KCY)',
+'Kelso-Longview, WA (KEL)',
+'Kettle Falls - Bus Stop, WA (KTF)',
+'Kettleman City, CA (KTC)',
+'Kewanee, IL (KEE)',
+'Killeen, TX (KIL)',
+'King City, CA (KGC)',
+'Kingman - Greyhound Bus, AZ (KGG)',
+'Kingman, AZ (KNG)',
+'Kingsley - Bus Station, MI (KGS)',
+'Kingston, RI (KIN)',
+'Kingstree, SC (KTR)',
+'Kinston - Bus Stop, NC (KNC)',
+'Kirkwood, MO (KWD)',
+'Kissimmee, FL (KIS)',
+'Klamath Falls, OR (KFS)',
+'Klamath Falls - Running Y Ranch Bus Stop, OR (RNY)',
+'LAnse - Bus Stop, MI (LAN)',
+'La Crescenta, CA (LCA)',
+'La Crosse, WI (LSE)',
+'La Grande, OR (LAE)',
+'La Grange Road, IL (LAG)',
+'La Junta, CO (LAJ)',
+'La Pine, OR (LPN)',
+'La Plata, MO (LAP)',
+'La Quinta - Bus Stop, CA (LQT)',
+'Lafayette, IN (LAF)',
+'Lafayette, LA (LFT)',
+'Lake Charles, LA (LCH)',
+'Lake Placid, NY (LPD)',
+'Lakeland - Departure 92 North Arrival 91 South, FL (LAK)',
+'Lakeland - Departure 91 North Arrival 92 South, FL (LKL)',
+'Lamar, CO (LMR)',
+'Lamy, NM (LMY)',
+'Lancaster, CA (LCS)',
+'Lancaster, PA (LNC)',
+'Lapeer, MI (LPE)',
+'Las Vegas, NM (LSV)',
+'Las Vegas - Airport Bus, NV (LAS)',
+'Las Vegas - Bus Service, NV (LVS)',
+'Las Vegas - Bus Stop, NV (LVT)',
+'Lathrop-Manteca - ACE Station, CA (LTM)',
+'Latrobe, PA (LAB)',
+'Laughlin, NV (LNV)',
+'Laurel, MS (LAU)',
+'Lawrence, KS (LRC)',
+'Laytonville, CA (LTV)',
+'Leavenworth - Bus Stop, WA (LEV)',
+'Leavenworth, WA (LWA)',
+'Lee Vining, CA (LVN)',
+'Lees Summit, MO (LEE)',
+'Leggett, CA (LEG)',
+'Lemoore, CA (LMC)',
+'Lemoore - Bus Stop, CA (LMN)',
+'Lewiston, ID (LWN)',
+'Lewistown, PA (LEW)',
+'Libby, MT (LIB)',
+'Lincoln, IL (LCN)',
+'Lincoln, NE (LNK)',
+'Lincoln, NH (LNN)',
+'Lincolnville, ME (LCV)',
+'Lindenwold - NJ Transit Station, NJ (LDW)',
+'Little Rock, AR (LRK)',
+'Littlerock, CA (LTR)',
+'Littleton, NH (LTL)',
+'Livermore - Transit Center ACE Station, CA (LIV)',
+'Livermore - Vasco Rd ACE Station, CA (VAS)',
+'Lodi, CA (LOD)',
+'Lompoc, CA (LOM)',
+'Long Beach, CA (LBC)',
+'Longview, TX (LVW)',
+'Loon Lake - Bus Stop, WA (LLK)',
+'Lordsburg, NM (LDB)',
+'Lorton - Auto Train Only, VA (LOR)',
+'Los Angeles - Union Station, CA (LAX)',
+'Los Angeles - Westwood (UCLA) - Bus Stop, CA (WES)',
+'Louisville - Greyhound Bus, KY (LVL)',
+'Lynchburg, VA (LYH)',
+'Mackinaw City, MI (MAK)',
+'Macomb, IL (MAC)',
+'Madera, CA (MDR)',
+'Madison - UW Memorial Union, WI (MSN)',
+'Madison - Madison - South, WI (SMD)',
+'Malta, MT (MAL)',
+'Malvern, AR (MVN)',
+'Mammoth Lakes, CA (MMK)',
+'Manassas, VA (MSS)',
+'Manchester, NH (MHT)',
+'Manitowoc - Bus Stop, WI (MTC)',
+'Manning, OR (MNI)',
+'Manton - Bus Station, MI (MTO)',
+'Maricopa, AZ (MRC)',
+'Marinette - Bus Stop, WI (MWI)',
+'Mariposa - Midtown Bus Stop, CA (MRM)',
+'Mariposa, CA (MRP)',
+'Marquette - Bus Stop, MI (MQT)',
+'Marshall, TX (MHL)',
+'Martinez, CA (MTZ)',
+'Martinsburg, WV (MRB)',
+'Marysville, CA (MRV)',
+'Mattoon, IL (MAT)',
+'Maysville, KY (MAY)',
+'McCall, ID (MCA)',
+'McComb, MS (MCB)',
+'McCook, NE (MCK)',
+'McGregor, TX (MCG)',
+'McKinleyville, CA (MKV)',
+'Medford - RVTD Transit Ctr, OR (MFR)',
+'Memphis, TN (MEM)',
+'Mendota, IL (MDT)',
+'Menomonie - Bus Stop, WI (MNM)',
+'Merced, CA (MCD)',
+'Meriden, CT (MDN)',
+'Meridian, MS (MEI)',
+'Metropark-Iselin, NJ (MET)',
+'Miami, FL (MIA)',
+'Michigan City, IN (MCI)',
+'Middletown, PA (MID)',
+'Midpines, CA (MDP)',
+'Milwaukee - Airport, WI (MKA)',
+'Milwaukee, WI (MKE)',
+'Mineola, TX (MIN)',
+'Minot, ND (MOT)',
+'Modesto, CA (MOD)',
+'Mojave, CA (MOJ)',
+'Moline, IL (MLI)',
+'Monroe - Bus Stop (Eastbound), WA (MEE)',
+'Monroe - Bus Stop (Westbound), WA (MEW)',
+'Monterey, CA (MRY)',
+'Monterey - Hyatt, CA (MYH)',
+'Monterey - Marriot, CA (MYM)',
+'Monterey - Travelodge, CA (MYT)',
+'Monterey Bay - Monterey Bay Aquarium, CA (MYA)',
+'Montgomery, WV (MNG)',
+'Montpelier-Barre, VT (MPR)',
+'Montreal, QC (MTR)',
+'Moorpark, CA (MPK)',
+'Morehead City - Bus Stop, NC (MHD)',
+'Moreno Valley, CA (MOV)',
+'Morgan Hill, CA (MHC)',
+'Moscow, ID (MOC)',
+'Moses Lake, WA (MLK)',
+'Mosinee - Bus Stop, WI (MSI)',
+'Mount Joy, PA (MJY)',
+'Mount Pleasant, IA (MTP)',
+'Mount Vernon, WA (MVW)',
+'Mystic, CT (MYS)',
+'Nacogdoches, TX (NCG)',
+'Nampa, ID (NAM)',
+'Napa - Vine Transit Bus Stop, CA (NAP)',
+'Naperville, IL (NPV)',
+'Nashua - Bus Stop, NH (NSH)',
+'Necanicum Jct., OR (NCM)',
+'Needles, CA (NDL)',
+'New Bern - Bus Stop, NC (NBR)',
+'New Brunswick, NJ (NBK)',
+'New Buffalo, MI (NBU)',
+'New Carrollton, MD (NCR)',
+'New Hampton, NH (NHN)',
+'New Haven, CT (NHV)',
+'New Iberia, LA (NIB)',
+'New London, CT (NLC)',
+'New Orleans, LA (NOL)',
+'New Rochelle, NY (NRO)',
+'New York - Penn Station, NY (NYP)',
+'Newark, DE (NRK)',
+'Newark - International Airport, NJ (EWR)',
+'Newark, NJ (NWK)',
+'Newbern, TN (NBN)',
+'Newburyport - Bus Stop, MA (NBT)',
+'Newport, OR (NPO)',
+'Newport News, VA (NPN)',
+'Newton, KS (NEW)',
+'Niagara Falls, NY (NFL)',
+'Niagara Falls, ON (NFS)',
+'Niles, MI (NLS)',
+'Norfolk, VA (NFK)',
+'Norman, OK (NOR)',
+'North Philadelphia, PA (PHN)',
+'Oakland - Coliseum Airport, CA (OAC)',
+'Oakland - Jack London Sq, CA (OKJ)',
+'Oakville, ON (OKL)',
+'Ocala, FL (OCA)',
+'Ocean City, MD (OCM)',
+'Oceanside, CA (OSD)',
+'Oconto - Bus Stop, WI (OCO)',
+'Ogden, UT (OGD)',
+'Okanagan, WA (OGW)',
+'Okeechobee, FL (OKE)',
+'Oklahoma City, OK (OKC)',
+'Old Orchard Beach, ME (ORB)',
+'Old Saybrook, CT (OSB)',
+'Olympia-Lacey, WA (OLW)',
+'Omaha, NE (OMA)',
+'Omak, WA (OMW)',
+'Ontario, CA (ONA)',
+'Ontario, OR (ONT)',
+'Oregon City, OR (ORC)',
+'Orlando, FL (ORL)',
+'Orono, ME (ORO)',
+'Oroville, CA (ORV)',
+'Osceola, IA (OSC)',
+'Oshkosh, WI (OSH)',
+'Oshkosh - Univ. of WI Bus Stop, WI (OSU)',
+'Ottumwa, IA (OTM)',
+'Owosso - Bus Stop, MI (OWO)',
+'Oxnard, CA (OXN)',
+'Palatka, FL (PAK)',
+'Palm Desert - Bus Stop, CA (PDC)',
+'Palm Springs - North, CA (PSN)',
+'Palm Springs - Airport Bus Stop, CA (PSP)',
+'Palm Springs - Downtown Bus Stop, CA (PSS)',
+'Palmdale, CA (PMD)',
+'Paoli, PA (PAO)',
+'Parkesburg, PA (PAR)',
+'Pasadena, CA (PAS)',
+'Pasco, WA (PSC)',
+'Paso Robles, CA (PRB)',
+'Pateros, WA (PTE)',
+'Pauls Valley, OK (PVL)',
+'Pellston, MI (PST)',
+'Pemberton, BC (PBT)',
+'Pendleton, OR (PEN)',
+'Pennsauken - NJ Transit Service, NJ (PNK)',
+'Peoria - Bus Stop, IL (PIA)',
+'Perris, CA (PRI)',
+'Petaluma, CA (PTC)',
+'Petersburg, VA (PTB)',
+'Petoskey, MI (PSK)',
+'Philadelphia - 30th Street Station, PA (PHL)',
+'Phoenix - Sky Harbor Airport, AZ (PHA)',
+'Phoenix - Greyhound Station, AZ (PHG)',
+'Phoenix - Metro Center, AZ (PXN)',
+'Picayune, MS (PIC)',
+'Pittsburgh, PA (PGH)',
+'Pittsfield, MA (PIT)',
+'Placerville, CA (PCV)',
+'Plano, IL (PLO)',
+'Plattsburgh, NY (PLB)',
+'Pleasanton - ACE Station, CA (PLS)',
+'Plymouth, NH (PMO)',
+'Pomona, CA (POS)',
+'Pontiac, IL (PON)',
+'Pontiac, MI (PNT)',
+'Poplar Bluff, MO (PBF)',
+'Port Charlotte, FL (PCH)',
+'Port Henry, NY (POH)',
+'Port Huron, MI (PTH)',
+'Port Kent, NY (PRK)',
+'Portage, WI (POG)',
+'Portland, ME (POR)',
+'Portland - Greyhound Bus Station, OR (PDG)',
+'Portland - Union Station, OR (PDX)',
+'Portsmouth - Bus Stop, NH (PTS)',
+'Poughkeepsie, NY (POU)',
+'Prince, WV (PRC)',
+'Princeton, IL (PCT)',
+'Princeton Junction, NJ (PJC)',
+'Providence, RI (PVD)',
+'Provo, UT (PRO)',
+'Prunedale, CA (PDL)',
+'Pueblo, CO (PUB)',
+'Pullman, WA (PUL)',
+'Purcell, OK (PUR)',
+'Quantico, VA (QAN)',
+'Quincy, IL (QCY)',
+'Quincy, WA (QUC)',
+'Raleigh, NC (RGH)',
+'Randolph, VT (RPH)',
+'Rantoul, IL (RTL)',
+'Raton, NM (RAT)',
+'Red Bluff, CA (RBF)',
+'Red Wing, MN (RDW)',
+'Redding, CA (RDD)',
+'Redding - RABA Bus Station, CA (RDR)',
+'Redmond - Airport, OR (RDM)',
+'Reed City, MI (REE)',
+'Reedsport, OR (RPT)',
+'Reno, NV (RNO)',
+'Rensselaer, IN (REN)',
+'Rhinecliff, NY (RHI)',
+'Richmond, BC (RBC)',
+'Richmond, CA (RIC)',
+'Richmond - Main Street Station, VA (RVM)',
+'Richmond - Staples Mill Rd, VA (RVR)',
+'Rio Dell-Scotia, CA (RDS)',
+'Rio Vista - Bus  Stop, CA (RVT)',
+'Ritzville, WA (RTZ)',
+'Riverside, CA (RIV)',
+'Roanoke - Civic Center Bus Stop, VA (RNK)',
+'Rochester, NY (ROC)',
+'Rock Island - Bus Stop, IL (RKI)',
+'Rockford, IL (RCK)',
+'Rockford, MI (RKF)',
+'Rockland, ME (ROD)',
+'Rocklin, CA (RLN)',
+'Rockville, MD (RKV)',
+'Rocky Mount, NC (RMT)',
+'Rohnert Park, CA (RPC)',
+'Rome, NY (ROM)',
+'Roseville, CA (RSV)',
+'Rouses Point, NY (RSP)',
+'Royal Oak, MI (ROY)',
+'Rugby, ND (RUG)',
+'Rutland, VT (RUD)',
+'Saco, ME (SAO)',
+'Sacramento, CA (SAC)',
+'Sacramento - State Capitol Bus Drop-Off, CA (SCS)',
+'Saginaw - Bus Stop, MI (SGW)',
+'Salem, OR (SLM)',
+'Salinas, CA (SNS)',
+'Salisbury - BayRunner Shuttle, MD (SLS)',
+'Salisbury - Greyhound Bus, MD (SLY)',
+'Salisbury, NC (SAL)',
+'Salt Lake City - Greyhound Station, UT (SLB)',
+'Salt Lake City, UT (SLC)',
+'San Antonio, TX (SAS)',
+'San Bernardino, CA (SNB)',
+'San Clemente, CA (SNP)',
+'San Diego - Old Town, CA (OLT)',
+'San Diego, CA (SAN)',
+'San Diego - Sorrento Valley, CA (SRB)',
+'San Francisco - Ferry Building, CA (SFC)',
+'San Francisco - Financial District, CA (SFF)',
+'San Francisco - Moscone Center, CA (SFM)',
+'San Francisco - Caltrain Station, CA (SFP)',
+'San Francisco - Shopping Center, CA (SFS)',
+'San Francisco - Civic Center, CA (SFV)',
+'San Francisco - Fishermans Wharf, CA (SFW)',
+'San Jose, CA (SJC)',
+'San Juan Capistrano, CA (SNC)',
+'San Luis Obispo, CA (SLO)',
+'San Luis Obispo - Cal Poly, CA (SLP)',
+'San Marcos, TX (SMC)',
+'San Pedro, CA (SPD)',
+'San Pedro - Bus Stop, CA (SPO)',
+'Sanderson, TX (SND)',
+'Sandpoint, ID (SPT)',
+'Sandusky, OH (SKY)',
+'Sanford - Auto Train Only, FL (SFA)',
+'Santa Ana, CA (SNA)',
+'Santa Barbara, CA (SBA)',
+'Santa Clara - Great America, CA (GAC)',
+'Santa Clara, CA (SCC)',
+'Santa Clarita - Newhall, CA (NHL)',
+'Santa Cruz, CA (SCZ)',
+'Santa Fe, NM (SAF)',
+'Santa Maria, CA (SAT)',
+'Santa Paula, CA (SAP)',
+'Santa Rosa, CA (SRC)',
+'Sarasota, FL (SRA)',
+'Saratoga Springs, NY (SAR)',
+'Sault Sainte Marie - Bus Stop, MI (SMI)',
+'Savannah, GA (SAV)',
+'Schenectady, NY (SDY)',
+'Schriever, LA (SCH)',
+'Scotts Valley, CA (SVY)',
+'Searsport, ME (SRT)',
+'Seaside, CA (SES)',
+'Seaside, OR (SSD)',
+'Seattle - King Street Station, WA (SEA)',
+'Seattle - Ferry Pier 69, WA (SVF)',
+'Sebring, FL (SBG)',
+'Sedalia, MO (SED)',
+'Sedona - Sedona Ctr Uptown Bus Stop, AZ (SDC)',
+'Selma-Smithfield, NC (SSM)',
+'Shawano - Bus Stop, WI (SHW)',
+'Sheboygan - Bus Stop, WI (SHB)',
+'Shelby, MT (SBY)',
+'Shreveport, LA (SHR)',
+'Simi Valley, CA (SIM)',
+'Sisters - Bus Stop, OR (STO)',
+'Skykomish - Bus Stop (Eastbound), WA (SKE)',
+'Skykomish - Bus Stop (Westbound), WA (SKW)',
+'Slidell, LA (SDL)',
+'Smith River - Bus Stop, CA (SMR)',
+'Solana Beach, CA (SOL)',
+'Solvang, CA (SLV)',
+'South Beloit, IL (BET)',
+'South Bend, IN (SOB)',
+'South Lake Tahoe, CA (SLT)',
+'South Portsmouth, KY (SPM)',
+'Southern Pines, NC (SOP)',
+'Sparks - Bus Station, NV (SPX)',
+'Spartanburg, SC (SPB)',
+'Spokane, WA (SPK)',
+'Springfield, IL (SPI)',
+'Springfield, MA (SPG)',
+'Squamish, BC (SQA)',
+'St. Albans, VT (SAB)',
+'St. Catharines, ON (SCA)',
+'St. Cloud, MN (SCD)',
+'St. George, UT (STG)',
+'St. Ignace, MI (STI)',
+'St. Joseph, MI (SJM)',
+'St. Lambert, QC (SLQ)',
+'St. Louis, MO (STL)',
+'St. Paul / Minneapolis, MN (MSP)',
+'St. Petersburg - Clearwater, FL (STP)',
+'Stamford, CT (STM)',
+'Stanley, ND (STN)',
+'Stanley - Bus Stop, WI (SNY)',
+'Stanwood, WA (STW)',
+'Staples, MN (SPL)',
+'Stateline - Transit Center, CA (SLH)',
+'Stateline - Kingsbury Bus Stop, NV (SLN)',
+'Staunton, VA (STA)',
+'Stevens Pass, WA (SSW)',
+'Stevens Point - Bus Stop, WI (SVP)',
+'Stevens Point - Univ. of WI Bus Stop, WI (SVU)',
+'Stockton, CA (SKN)',
+'Stockton - ACE Station, CA (SKT)',
+'Sturtevant, WI (SVT)',
+'Suisun-Fairfield, CA (SUI)',
+'Summit, IL (SMT)',
+'Sun City - Bus Stop, CA (SUT)',
+'Sunriver, OR (SUN)',
+'Surf, CA (LPS)',
+'Surrey, BC (SUY)',
+'Syracuse, NY (SYR)',
+'Tacoma, WA (TAC)',
+'Tampa, FL (TPA)',
+'Tawas City - Bus Stop, MI (TWC)',
+'Taylor, TX (TAY)',
+'Tehachapi, CA (TEH)',
+'Temple, TX (TPL)',
+'Texarkana, AR (TXA)',
+'The Dalles, OR (THD)',
+'The Villages - Bus Stop, FL (TVF)',
+'Thurmond, WV (THN)',
+'Ticonderoga, NY (FTC)',
+'Tilton, NH (TLT)',
+'Toccoa, GA (TCA)',
+'Toledo, OH (TOL)',
+'Toledo, OR (TDO)',
+'Tomah, WI (TOH)',
+'Topeka, KS (TOP)',
+'Toronto, ON (TWO)',
+'Torrance - Bus Stop, CA (TOA)',
+'Tracy - Bus Stop, CA (TRA)',
+'Tracy - ACE Station, CA (TRC)',
+'Traverse City, MI (TRV)',
+'Trenton, NJ (TRE)',
+'Trinidad, CO (TRI)',
+'Troy, MI (TRM)',
+'Truckee, CA (TRU)',
+'Tucson, AZ (TUS)',
+'Tukwila, WA (TUK)',
+'Turlock-Denair, CA (TRK)',
+'Tusayan, AZ (TSY)',
+'Tuscaloosa, AL (TCL)',
+'Twin Falls, ID (TFI)',
+'Tyrone, PA (TYR)',
+'Ukiah, CA (UKH)',
+'Utica, NY (UCA)',
+'Vail, CO (VAI)',
+'Vale, OR (VAE)',
+'Vallejo - City Stop, CA (VAL)',
+'Vallejo - Marine World Bus Stop, CA (VMW)',
+'Van Nuys, CA (VNC)',
+'Vancouver - Pacific Central Station, BC (VAC)',
+'Vancouver, WA (VAN)',
+'Ventura, CA (VEC)',
+'Victoria, BC (VBC)',
+'Victoria - Harbour Ferry Pier, BC (VIF)',
+'Victorville - Bus Stop, CA (VRB)',
+'Victorville, CA (VRV)',
+'Virginia Beach, VA (VAB)',
+'Visalia, CA (VIS)',
+'Waldo, FL (WDO)',
+'Waldoboro, ME (WDR)',
+'Walla Walla - Bus Stop, WA (WWA)',
+'Wallingford, CT (WFD)',
+'Walnut Ridge, AR (WNR)',
+'Warrensburg, MO (WAR)',
+'Warrenton, OR (WNT)',
+'Wasco, CA (WAC)',
+'Washington - Union Station, DC (WAS)',
+'Washington, MO (WAH)',
+'Waterbury-Stowe, VT (WAB)',
+'Waterloo, IN (WTI)',
+'Waupaca - Bus Stop, WI (WAU)',
+'Waupun - Bus Stop, WI (WPN)',
+'Wausau - Transit Center, WI (WSJ)',
+'Wausau - Bus Stop, WI (WSU)',
+'Wells, ME (WEM)',
+'Wenatchee, WA (WEN)',
+'West Glacier, MT (WGL)',
+'West Palm Beach, FL (WPB)',
+'Westchester - Bus Stop, CA (WCH)',
+'Westerly, RI (WLY)',
+'Westfield - Bus Stop, WI (WSF)',
+'Westport, NY (WSP)',
+'Whistler, BC (WSL)',
+'White City, OR (WCT)',
+'White River Junction, VT (WRJ)',
+'White Sulphur Springs, WV (WSS)',
+'Whitefish, MT (WFH)',
+'Whitehall, NY (WHL)',
+'Wildwood, FL (WWD)',
+'Williams, AZ (WMA)',
+'Williams Junction, AZ (WMJ)',
+'Williamsburg, VA (WBG)',
+'Williston, ND (WTN)',
+'Willits, CA (WTS)',
+'Wilmington, DE (WIL)',
+'Wilmington - Bus Station, NC (WMN)',
+'Wilson, NC (WLN)',
+'Windsor, CT (WND)',
+'Windsor, VT (WNM)',
+'Windsor Locks, CT (WNL)',
+'Winnemucca, NV (WNN)',
+'Winona, MN (WIN)',
+'Winslow, AZ (WLO)',
+'Winston-Salem - State University, NC (UWS)',
+'Winston-Salem - City Transfer Ctr., NC (WNS)',
+'Winter Haven, FL (WTH)',
+'Winter Park, FL (WPK)',
+'Wiscasset, ME (WST)',
+'Wisconsin Dells, WI (WDL)',
+'Wisconsin Rapids - Bus Stop, WI (WIR)',
+'Wishram, WA (WIH)',
+'Wittenberg - Bus Stop, WI (WIT)',
+'Woburn, MA (WOB)',
+'Wolf Point, MT (WPT)',
+'Woodbridge, VA (WDB)',
+'Woodburn - Bus Station, OR (WBN)',
+'Worcester, MA (WOR)',
+'Yazoo City, MS (YAZ)',
+'Yemassee, SC (YEM)',
+'Yonkers, NY (YNY)',
+'Yosemite - Ahwahnee Hotel, CA (YOA)',
+'Yosemite - Curry Village, CA (YOC)',
+'Yosemite - Crane Flat, CA (YOF)',
+'Yosemite - Yosemite Lodge, CA (YOS)',
+'Yosemite - Tuolumne Meadow, CA (YOT)',
+'Yosemite - Visitor Center, CA (YOV)',
+'Yosemite - White Wolf, CA (YOW)',
+'Yuma, AZ (YUM)'
+];</script>
+<script type="text/javascript" language="javascript" charset="utf-8">
+// <![CDATA[
+new AmtrakAutocompleter.Local('departs','autocomplete_availability_from', stationslist, {
+choices: 100,
+paramName: "_origin",
+minChars: 2,
+frequency: 0.5,
+partialSearch: false,
+fullSearch: false
+}
+);
+new AmtrakAutocompleter.Local('arrives','autocomplete_availability_to',stationslist, {
+choices: 100,
+paramName: "_destination",
+minChars: 2,
+frequency: 0.5,
+partialSearch: false,
+fullSearch: false
+}
+);
+new AmtrakAutocompleter.Local('agrdeparts','redeem_from_auto', stationslist, {
+choices: 100,
+paramName: "_origin",
+minChars: 2,
+frequency: 0.5,
+partialSearch: false,
+fullSearch: false
+}
+);
+new AmtrakAutocompleter.Local('agrarrives','redeem_to_auto',stationslist, {
+choices: 100,
+paramName: "_destination",
+minChars: 2,
+frequency: 0.5,
+partialSearch: false,
+fullSearch: false
+}
+);
+new AmtrakAutocompleter.Local('discountsdeparts','discounts_from_auto', stationslist, {
+choices: 100,
+paramName: "_origin",
+minChars: 2,
+frequency: 0.5,
+partialSearch: false,
+fullSearch: false
+}
+);
+new AmtrakAutocompleter.Local('discountsarrives','discounts_to_auto',stationslist, {
+choices: 100,
+paramName: "_destination",
+minChars: 2,
+frequency: 0.5,
+partialSearch: false,
+fullSearch: false
+}
+);
+new AmtrakAutocompleter.Local('schedules_from','schedule_from_auto',stationslist, {
+choices: 100,
+paramName: "_origin",
+minChars: 2,
+frequency: 0.5,
+partialSearch: false,
+fullSearch: false
+}
+);
+new AmtrakAutocompleter.Local('schedules_to','schedule_to_auto',stationslist, {
+choices: 100,
+paramName: "_destination",
+minChars: 2,
+frequency: 0.5,
+partialSearch: false,
+fullSearch: false
+}
+);
+new AmtrakAutocompleter.Local('status_from','status_from_auto',stationslist, {
+choices: 100,
+paramName: "_origin",
+minChars: 2,
+frequency: 0.5,
+partialSearch: false,
+fullSearch: false
+}
+);
+new AmtrakAutocompleter.Local('status_to','status_to_auto',stationslist, {
+choices: 100,
+paramName: "_destination",
+minChars: 2,
+frequency: 0.5,
+partialSearch: false,
+fullSearch: false
+}
+);
+// ]]>
+</script>
+
+
+<!-- End HTML for Fare Finder -->
+<script language="JavaScript" type="text/javascript">
+<!--
+function CheckMandatoryTrainStatusFields(statusForm) {
+var errorMsg ="";
+var fieldList = "";
+var origin = statusForm.wdf_origin.value;
+var destination = statusForm.wdf_destination.value;
+var trainNumber = statusForm.wdf_trainNumber.value;
+if(eval("statusForm.wdf_trainNumber.value") == "optional") {
+trainNumber = "";
+}
+if (trainNumber == "" && origin == "" && destination == "")
+fieldList = "Problem with Departure and Arrival Station/City: Please provide a valid departure and arrival station or city name and resubmit. \n[Error ID: 573S]" + "\n";
+if (trainNumber == "" && origin != "" && destination == "")
+fieldList = fieldList + "Problem with Arrival Station/City or Train Number: Please provide a valid arrival station/city or train number and resubmit. \n[Error ID: 574S]" + "\n";
+if (trainNumber == "" && origin == "" && destination != "")
+fieldList = fieldList + "Problem with Departure Station/City or Train Number: Please provide a valid departure station/city or train number and resubmit. \n[Error ID: 575S]" + "\n";
+if (trainNumber != "" && origin == "" && destination == "")
+fieldList = fieldList + "Problem with Departure or Arrival Station/City: Please provide a valid departure or arrival station or city name and resubmit. \n[Error ID: 576S]" + "\n";
+if ((trainNumber != "") && (!IsNumber(trainNumber)))
+fieldList = fieldList + "Problem with Train Number: Sorry, we cannot find the train number you provided. Please check for accuracy and re-enter. Or, delete the train number and provide a departure and arrival station/city. To find a specific station, please click on the \'Find a Station\' link and select a station from the list provided. \n[Error ID: 577S]" + "\n";
+if (fieldList != "") {
+errorMsg = "The following information is needed to process your request:" + "\n\n" + fieldList;
+}
+if (errorMsg != "") {
+alert(errorMsg);
+return false;
+}
+return true;
+}
+function CheckMandatoryScheduleFields(statusForm) {
+var errorMsg ="";
+var fieldList = "";
+var origin = statusForm.wdf_origin.value;
+var destination = statusForm.wdf_destination.value;
+if (origin == "" && destination == "")
+fieldList = "Problem with Departure and Arrival Station/City: Please provide a valid departure and arrival station or city name and resubmit. \n[Error ID: 573S]" + "\n";
+if (origin != "" && destination == "")
+fieldList = fieldList + "Problem with Departure and Arrival Station/City: Please provide a valid departure and arrival station or city name and resubmit. \n[Error ID: 573S]" + "\n";
+if (origin == "" && destination != "")
+fieldList = fieldList + "Problem with Departure and Arrival Station/City: Please provide a valid departure and arrival station or city name and resubmit. \n[Error ID: 573S]" + "\n";
+if (fieldList != "") {
+errorMsg = "The following information is needed to process your request:" + "\n\n" + fieldList;
+}
+if (errorMsg != "") {
+alert(errorMsg);
+return false;
+}
+return true;
+}
+function CheckMandatoryMyTripFields(theForm) {
+var errorMsg ="";
+var fieldList = "";
+if ($('mytrip_res_num').value.empty()) {
+fieldList += " -- reservation number\n";
+}
+if ($('mytrip_res_email').value.empty() && $('mytrip_res_zip').value.empty()) {
+fieldList += " -- email address or telephone number\n";
+}
+if (fieldList != "") {
+errorMsg="The following information is needed to process your request:" + "\n" + fieldList+ "\n\n";
+alert(errorMsg);
+return false;
+}
+return true;
+}
+function CheckMandatoryMyTripFields(theForm) {
+var errorMsg ="";
+var fieldList = "";
+if ($('mytrip_res_num').value.empty()) {
+fieldList += " -- reservation number\n";
+}
+if ($('mytrip_res_email').value.empty() && $('mytrip_res_zip').value.empty()) {
+fieldList += " -- email address or telephone number\n";
+}
+if (fieldList != "") {
+errorMsg="The following information is needed to process your request:" + "\n" + fieldList+ "\n\n";
+alert(errorMsg);
+return false;
+}
+return true;
+}
+function CheckMandatoryLoginFields(theForm) {
+var errorMsg ="";
+var fieldList = "";
+if(eval("theForm.wdf_username.value") == "") {
+fieldList += " -- username\n";
+}
+if(eval("theForm.wdf_password.value") == "") {
+fieldList += " -- password\n";
+}
+if (fieldList != "") {
+errorMsg="The following information is needed to process your request:" + "\n" + fieldList+ "\n\n";
+alert(errorMsg);
+return false;
+}
+return true;
+}
+//Aibe-2026,Mac safari issue.
+function updateMaxLength()
+{
+trainNum = document.getElementById('status_train_num');
+trainNum.setAttribute("maxLength", 4);
+}
+function validatePasswordSize() {
+var memberPwd = document.getElementById('ff_memberpassword');
+if((memberPwd != null) && (memberPwd.value != "")) {
+if ((memberPwd.value.length < '6') ||
+(memberPwd.value.length > '29') ) {
+return 'The password you entered is invalid. Please try again or call 1-800-307-5000 for assistance (Sunday - Saturday, 5 am - midnight ET). [Error ID: 1114R]';
+}
+}
+return "";
+}
+function checkRedeemMandatoryFields(theForm) {
+var errorMsg ="";
+var fieldList = "";
+var origin = document.ff_redeem_form.agrdeparts.value;
+var destination = document.ff_redeem_form.agrarrives.value;
+var startDate = document.getElementById('wdfdate15').value;
+var memberNo = document.getElementById('ff_membernumber');
+var memberPwd = document.getElementById('ff_memberpassword');
+if (memberNo != null) { //member number null means login was already validated
+if (memberNo.value == "") {
+fieldList = fieldList + " -- Member Number\n";
+}
+}
+if(memberPwd != null) {//member password null means login was already validated
+if (memberPwd.value == "") {
+fieldList = fieldList + " -- Member Passsword\n";
+}
+}
+if (origin == "") {
+fieldList = fieldList + " -- From\n";
+}
+if(destination == "") {
+fieldList = fieldList + " -- To\n";
+}
+if (startDate == "") {
+fieldList = fieldList + " -- Day\n";
+}
+if (fieldList != "") {
+errorMsg="The following information is needed to process your request:" + "\n" + fieldList+ "\n\n";
+alert(errorMsg);
+return false;
+}
+return fieldList;
+}
+function checkValidCouponCode(id){
+var errorMsg='';
+var newCouponCode = document.getElementById(id).value;
+newCouponCode = trim(newCouponCode);
+if(newCouponCode == '')
+return true;
+var isValidCode = validateCouponCode(newCouponCode);
+if(isValidCode == false) {
+errorMsg = 'Problem with Promotion Code: The Promotion Code you entered is not valid. Please check for accuracy and re-enter it, or continue without it. \n[Error ID: 744S]';
+}
+if (errorMsg!=""){
+alert(errorMsg);
+return false;
+} else {
+return true;
+}
+}
+function trim(s) {
+return s.replace(/^\s+|\s+$/g, "");
+}
+//-->
+</script>
+
+
+<script language="JavaScript" type="text/javascript">
+<!--
+
+function getField(name,id){
+ return document.getElementById(name+id);
 }
 
-</style>
+function fieldExists(id){
+ return (document.getElementById('wdfdate'+id)!=null);
+}
+
+function setDateDate(id,dt){
+ setDate(id,dt.getFullYear(),dt.getMonth()+1,dt.getDate());
+}
+
+function setDate(id,year,month,day){
+ var dateInput=getField('wdfdate',id);
+ if (year==0 || month==0 || day==0){
+   dateInput.value="";
+ }else{
+     var inputFieldName = dateInput.name;
+      var dateInputFormat = inputFieldName.substring(inputFieldName.lastIndexOf(".") + 1, inputFieldName.length);
+       if (dateInputFormat == "eudate") { // DMY
+           dateInput.value=leadingZero(day)+'/'+leadingZero(month)+'/'+year;
+       }
+       if (dateInputFormat == "usdate") { // MDY
+        dateInput.value=leadingZero(month)+'/'+leadingZero(day)+'/'+year;
+       }
+       if (dateInputFormat == "isodate") { // YMD
+        dateInput.value=year+'/'+leadingZero(month)+'/'+leadingZero(day);
+       }
+     }
+}
+
+function leadingZero(value){
+ if (value<10) value="0"+value;
+ return value;
+}
+
+function getValidatedDateArray(id){
+ var array=getDateArray(id);
+ var year = parseInt(array[0],10);
+ var month = parseInt(array[1],10);
+ var day = parseInt(array[2],10);
+ if (year!=-1 && year<100){
+  year += 2000;
+ }
+ if (isNaN(year)||year<1900||year>9999){
+  year=0;
+ }
+ if (isNaN(month)||month<1||month>12){
+  month=0;
+ }
+ if (isNaN(day)||day<1||day>31){
+  day=0;
+ }
+ 
+  
+ var Tdt=new Date(year,month-1,day,0,0,0,1);
+ 
+ var iCal = window['itd_cal'+id];
+ if (iCal.toString().include('CalendarGroup')) {
+   // Do we need to check isDateOOB for the CalendarGroup
+ }
+ else {
+   // use the relevant calendar instance to check if the date is within the valid range for that calendar control
+   if( iCal.isDateOOB(Tdt) ) {
+	 // set year to zero, this will trigger the setErrorOn display
+	 year = 0;
+   }
+  }
+ return new Array(year,month,day);
+}
+
+function getDateArray(id){
+ var date=getField('wdfdate',id).value;
+ var amdate = date;
+ date=date.replace(/[^0-9]/g,"/");   // only allow numbers and slashes
+ date=date.replace(/[\/]+/g,"/");   // only single slashes
+ var values = date.split("/");
+
+ var inputFieldName = getField('wdfdate',id).name;
+ var dateInputFormat = inputFieldName.substring(inputFieldName.lastIndexOf(".") + 1, inputFieldName.length);
+   if (dateInputFormat == "eudate") { // DMY
+    return new Array(values[2],values[1],values[0]);
+   }
+   if (dateInputFormat == "usdate") { // MDY
+    return new Array(values[2],values[0],values[1]);
+   }
+   if (dateInputFormat == "isodate") { // YMD
+    return new Array(values[0],values[1],values[2]);
+   }
+   if (dateInputFormat == "date") { // YMD
+    if (date.blank()) {
+      return new Array(values[0],values[1],values[2]);
+    }
+    else {
+      values = amdate.split(", ");
+      var dvalues = values[1].split(" ");
+      var month = gsMonthNamesAbbr.indexOf(dvalues[0]) + 1;
+    
+      return new Array(values[2],month,dvalues[1]);
+    }
+   }
+}
+
+function isValidDate(array) {
+ return (array[2]!=0 && array[1]!=0 && array[0]!=0);
+}
+
+var timer=false;
+function dateChangedTimer(id){
+ doDateChanged(id,-1);
+ if (!timer){
+  window.setTimeout('timer=false;dateChangedTimer('+id+');',1000);
+  timer=true;
+ }
+}
+
+function dateChangedComplete(id,daysGap){
+ var returnradio = document.getElementById('wdfreturnradio');
+ if (returnradio!=null && returnradio.checked){
+  doDateChanged(id,daysGap);
+ }
+}
+
+function doDateChanged(id,daysGap){
+	
+ if (id == 1 || id == 16) {
+     var str=getField('wdfdate',id).value;
+	 if (str.length>0){
+		  var array=getValidatedDateArray(id);
+			  if (!isValidDate(array)){
+			    setErrorOn(id);
+			  }else{
+				   var dt=new Date(array[0],array[1]-1,array[2],0,0,0,1);
+				   if (array[2]!=dt.getDate()){
+				     setErrorOn(id);
+				   }else{
+				    setErrorOff(id);
+				        // The second field is not updated at all if -1 is found.
+				        // if zero or greater is found, then the second field would be updated to the value of the firstField plus daysGap
+					    if (daysGap>=0){
+					    	// setDate function does not do anything...
+					     setDate(id,array[0],array[1],array[2]);
+					     var returnradio = null;
+					     if(id == 1)    
+					         returnradio = document.getElementById('return');
+					     else if(id == 16)
+					         returnradio = document.getElementById('othreturn');
+					     
+						 if (returnradio!=null && returnradio.checked){
+						     if (getField('wdfdate',id+1)!=null){
+						    	 // AIBE-2103 Get the return date and only update if depart date is > than return.
+						    	 var rtnArray=getValidatedDateArray(id+1);
+						    	 var rtnDt=new Date(rtnArray[0],rtnArray[1]-1,rtnArray[2],0,0,0,1);
+						    	 if(dt > rtnDt) {
+								     dt=new Date(dt.getFullYear(),dt.getMonth(),dt.getDate()+daysGap,0,0,0,1);
+								    var newid = id+1;
+								    var newtext  = "wdfdate"+newid
+								    var retDate = $(newtext);
+								     retDate.value = formatDate(dt);
+									
+						    	 }
+						     }
+						  }
+					  }
+				  }
+		      }
+	     }
+	 } 
+ updateDateState();
+}
+
+function setErrorOn(id){
+ var cls=getField('wdfdate',id).className;
+ if (cls.indexOf('invalid')==-1){
+  getField('wdfdate',id).className=cls+' invalid';
+ }
+}
+
+function setErrorOff(id){
+ var cls=getField('wdfdate',id).className;
+ if (cls.indexOf('invalid')>=0){
+  getField('wdfdate',id).className=cls.substring(0,cls.indexOf('invalid'));
+ }
+}
+
+function updateDateState(){
+ if (self.updateRadioState) updateRadioState();
+ if (self.updateDowState) updateDowState();
+ if (self.updateTimeState) updateTimeState();
+}
+
+//-->
+</script>
+<script language="JavaScript" type="text/javascript">
+<!--
+var booking_min_date = new Date();
+var booking_max_date = new Date(2015, 4, 21);
+function calConfig(itdUniqueId, cal, minDate, maxDate) {
+cal.cfg.setProperty("close", true);
+cal.cfg.setProperty("iframe", true);
+cal.cfg.setProperty("START_WEEKDAY", "0");
+cal.itdIdLink = itdUniqueId;
+cal.cfg.setProperty("DATE_FIELD_DELIMITER", "/");
+cal.cfg.setProperty("LOCALE_MONTHS", "long");
+cal.cfg.setProperty("MONTHS_LONG", ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]);
+cal.cfg.setProperty("LOCALE_WEEKDAYS", "short");
+cal.cfg.setProperty("WEEKDAYS_SHORT", ["Su", "Mo", "Tu", "We", "Th", "Fr", "Sa"]);
+var itd_cal = cal;
+YAHOO.util.Event.addListener("wdfdate"+itdUniqueId, "focus", calShow, itd_cal, true);
+YAHOO.util.Event.addListener("calLink"+itdUniqueId, "click", calShow, itd_cal, true);
+itd_cal.selectEvent.subscribe(handleSelect, itd_cal, true);
+itd_cal.showEvent.subscribe(handleShow, itd_cal, true);
+itd_cal.hideEvent.subscribe(handleHide, itd_cal, true);
+if (itdUniqueId!=2) {
+cal.cfg.setProperty("title", "Departure Date");
+} else {
+cal.cfg.setProperty("title", "Return Date");
+}
+cal.cfg.setProperty("mindate", minDate)
+cal.cfg.setProperty("maxdate", maxDate)
+}
+var returnDaysAhead = 1;
+//-->
+</script>
+<script language="JavaScript" type="text/javascript">
+<!--
+var itd_cal1 = new YAHOO.widget.Calendar("itd_cal1", "calContainer1");
+calConfig("1", itd_cal1, new Date(), new Date(2015, 4, 21));
+//-->
+</script>
+<script language="JavaScript" type="text/javascript">
+<!--
+var defTime=null;
+function updateTimeState() {
+	
+ if (defTime==null){
+  // this block of code stores off the default values of any timefields present on the page, 
+  //  this is only done once for a page, and only if the user changes a date field (now amended to also call this if they change a time field)
+  defTime=new Array("");
+  // Caution!
+  // remember that the id of the first time field on the page is >> "wdftime1"
+  // Starting with an id of zero, >> var id=0;
+  // preIncrement to 1, then check if field exists >> getField('wdftime',++id)!=null
+  // or >> ||
+  // again preIncrement, so value goes to 2, then check if field exists >> getField('wdftime',++id)!=null
+  // loop continues as long as condition evaluates to true.
+  // the double condition means time fields 1,2,4 can be saved off.. so if one number is missing from the sequence it will still work. I'm not sure why this is required.
+  //  It may be used to break up field pairs, so one does not advance the next field. A missing digit could be used as a pair separator.
+  for (var id=0; getField('wdftime',++id)!=null || getField('wdftime',++id)!=null; ) {
+   defTime[id]=getField('wdftime',id).value;
+  }
+ }
+
+ for (var id=0; getField('wdftime',++id)!=null || getField('wdftime',++id)!=null; ) {
+  var select=getField('wdftime',id);
+
+  // this returns the contents of the specified DATE field in Y,M,D format.. it is not concerned with the time field.
+  // it validates crudely that the month is 1-12, and days are 1-31, if a value is invalid it is set to zero.
+  var array=getValidatedDateArray(id);
+
+  // this checks if a zero was returned for any of the Y,M,D values..
+  // an empty date field is considered invalid
+  if (!isValidDate(array)){
+    // set to default value which we stored earlier
+    setTimeField(select,defTime[id]);
+  }
+  
+ }
+}
+
+function setTimeField(fld,val) {
+ for (var i=0; i<fld.options.length; i++) {
+  if (fld.options[i].value==val) {
+   fld.selectedIndex=i;
+   break;
+  }
+ }
+}
+
+function timeChanged() {
+ 
+}
+
+//-->
+</script>
+<script language="JavaScript" type="text/javascript">
+<!--
+var itd_cal2 = new YAHOO.widget.Calendar("itd_cal2", "calContainer2");
+calConfig("2", itd_cal2, new Date(), new Date(2015, 4, 21));
+//-->
+</script>
+<script language="JavaScript" type="text/javascript">
+<!--
+var itd_cal15 = new YAHOO.widget.Calendar("itd_cal15", "calContainer15");
+calConfig("15", itd_cal15, new Date(), new Date(2015, 4, 21));
+//-->
+</script>
+<script language="JavaScript" type="text/javascript">
+<!--
+var itd_cal16 = new YAHOO.widget.Calendar("itd_cal16", "calContainer16");
+calConfig("16", itd_cal16, new Date(), new Date(2015, 4, 21));
+//-->
+</script>
+<script language="JavaScript" type="text/javascript">
+<!--
+var itd_cal17 = new YAHOO.widget.Calendar("itd_cal17", "calContainer17");
+calConfig("17", itd_cal17, new Date(), new Date(2015, 4, 21));
+//-->
+</script>
+<script language="JavaScript" type="text/javascript">
+<!--
+var itd_cal10 = new YAHOO.widget.Calendar("itd_cal10", "calContainer10");
+calConfig("10", itd_cal10, new Date(2014, 5, 15), new Date(2014, 5, 25));
+//-->
+</script>
+<script language="JavaScript" type="text/javascript">
+<!--
+var itd_cal5 = new YAHOO.widget.Calendar("itd_cal5", "calContainer5");
+calConfig("5", itd_cal5, new Date(), new Date(2015, 4, 21));
+//-->
+</script>
+
  
 				
 			
@@ -943,7 +3238,6 @@ var agrpnts = "profile.agrpnts="+agrpts;
 						
 
 
-
 <style>
 
 
@@ -1216,19 +3510,6 @@ div.centered {
 						</div>		
 		
 				<div id="fb_disp" class="afb_icon"><fb:like href="" send="false" layout="button_count" width="50" show_faces="false" font="verdana"></fb:like><script type="text/javascript">_ga.trackFacebook();</script></div>
-				
-				
-				<style>
-				
-				
-						#fb_disp span.fb_edge_comment_widget.fb_iframe_widget iframe
-						{
-						    display:none;
-						    width:0px !important;
-						}
-				
-				</style>				
-				
 				
 				<div class="topgplus"><g:plusone size="medium" annotation="none"></g:plusone></div>
 				
@@ -1611,14 +3892,12 @@ z-index: 100;
 				
 						<div id="content_body">
 						
-						
-						
 		
 		<h1>Privacy Policy</h1>
 	
-	<p>Updated: March 11, 2013</p>
-<h5>Section 1 —&nbsp;Introduction</h5>
-<p>At Amtrak, we respect your privacy and value the trust and confidence you place in us. We are committed to safeguarding your privacy while you're using Amtrak.com, m.Amtrak.com, Amtrak for iPhone Appplication, and Amtrak for Android Application, Amtrak.com/Whistle-Stop,  AmtrakGuestRewards.com,  (referred to individually as “Site” or collectively as “Sites”).  This privacy policy (referred to on this page as the "Policy") describes our commitment to your privacy. By using a Site, you acknowledge that you understand and expressly agree to this Policy.</p>
+	<p>Updated: December 31, 2013</p>
+<h5>Section 1 — Introduction</h5>
+<p>At Amtrak, we respect your privacy and value the trust and confidence you place in us. We are committed to safeguarding your privacy while you're using Amtrak.com; m.Amtrak.com; Amtrak applications for iPhone, Android, or Windows Phone; Amtrak.com/Whistle-Stop; or AmtrakGuestRewards.com (referred to individually as "Site" or collectively as "Sites"). This privacy policy (referred to on this page as the "Policy") describes our commitment to your privacy. By using a Site, you acknowledge that you understand and expressly agree to this Policy.</p>
 <p>When you use a Site, we may collect information about your visit to the Site, your usage of the Site, and information that you provide. This Policy describes:</p>
 <ul>
     <li>What personal and other information we collect (Section 2).</li>
@@ -1654,7 +3933,7 @@ z-index: 100;
 </ul>
 <p>We store this information in your User Profile which allows us to provide you with better service when you make reservations. We are able to pre-populate information for you during the reservations booking process, so you will not have to re-enter it each time you book a reservation.</p>
 <h6><strong>2. When you purchase tickets and make a reservation through a Site</strong></h6>
-<p>We collect a certain amount of personal information about you (and, if necessary, your traveling companions) when you make reservations and purchase tickets, whether you purchase tickets while logged in with a User Profile, or while not logged in (i.e., as a guest).  We use this information to fulfill your booking requests. This information includes:</p>
+<p>We collect a certain amount of personal information about you (and, if necessary, your traveling companions) when you&nbsp;begin the&nbsp;reservation process&nbsp;and purchase tickets, whether you purchase tickets while logged in with a User Profile, or while not logged in (i.e., as a guest). We use this information to fulfill your booking requests. This information includes:</p>
 <ul>
     <li>Your name</li>
     <li>E-mail address</li>
@@ -1667,8 +3946,8 @@ z-index: 100;
     <li>Ticket pick-up/delivery options</li>
     <li>Promotional codes used (if any)</li>
 </ul>
-<p>If you use a Site to purchase tickets for more than one person, we also ask for the name of each person traveling so that we may issue a ticket in each passenger's correct name. We do not use these names of other passengers for any other purpose.  We may also ask for your telephone number so that we can contact you in the event that there is a major scheduling change or cancellation of your train.</p>
-<p>In addition, when you purchase tickets while logged in to a Site with a User Profile, we also save information about your canceled reservations, if any.  Also, if you choose, we can save trip information regarding trips that you have researched, but have not yet booked. You also have the option to view a list of confirmed reservations you made online, as well as any canceled trips.</p>
+<p>If you use a Site to purchase tickets for more than one person, we also ask for the name of each person traveling so that we may issue a ticket in each passenger's correct name. We do not use these names of other passengers for any other purpose. We may also ask for your telephone number so that we can contact you in the event that there is a major scheduling change or cancellation of your train.</p>
+<p>In addition, when you purchase tickets while logged in to a Site with a User Profile, we also save information about your canceled reservations, if any. Also, if you choose, we can save trip information regarding trips that you have researched, but have not yet booked. You also have the option to view a list of confirmed reservations you made online, as well as any canceled trips.</p>
 <h6><strong>3. When you make purchases of Amtrak merchandise</strong></h6>
 <p>We collect some personal information from you when you make purchases through our online store for the purpose of fulfilling your order. This information includes:</p>
 <ul>
@@ -1701,7 +3980,7 @@ z-index: 100;
 <p>When you request information, such as brochures, timetables and gift catalogs, we collect information from you that is necessary to fulfill our service obligations to you. This information may include your name, address and telephone number.</p>
 <h6><strong>6. When you contact us</strong></h6>
 <p>If you contact Amtrak through a Site, such as through our 'Contact Us' page, we may keep a record of that correspondence which includes your e-mail address and any other information you provide to us in your correspondence, such as your Amtrak Guest Rewards member account information.</p>
-<h6><strong>7.  When you submit a story through the Amtrak Whistle Stop web site</strong></h6>
+<h6><strong>7. When you submit a story through the Amtrak Whistle Stop web site</strong></h6>
 <p>When you submit a travel story for consideration for publishing on the Whistle Stop web site, we collect information:</p>
 <ul>
     <li>First Name</li>
@@ -1721,13 +4000,14 @@ z-index: 100;
 <p>If a child under the age of 13 is mentioned in a given travel story, Amtrak will only use his or her first name.</p>
 <p>In the event a travel story submission contains information relating to the quality of a customer’s travel experience, the submission may be forwarded to Amtrak Customer Service for review.</p>
 <h6><strong>8. When you browse and otherwise use a Site (Cookies)</strong></h6>
-<p>Each time you visit a Site, we may collect some information automatically about your computer by means of a "cookie." A cookie is a small amount of data that is sent to your browser from a server and stored on your computer or mobile device until it expires or you delete it. You can always choose not to receive cookies by setting your browser's options to refuse to accept cookies.</p>
+<p>Each time you visit a Site, we may collect some information automatically about your computer by means of a "cookie." A cookie is a small amount of data that is sent to your browser from a server and stored on your computer or mobile device until it expires or you delete it. You can always choose not to receive cookies by setting your browser's options to refuse to accept cookies. Amtrak, or any third parties on behalf of Amtrak, does not collect personally identifiable information about your online activities over time and across different websites when you use the Site. Accordingly, because Amtrak does not engage in the collection of such information, Amtrak does not respond to “do not track” signals or other mechanisms that provide consumers the ability to exercise choice regarding the collection of personally identifiable information about an individual consumer’s online activities over time and across third-party Web sites or online services.</p>
 <p>Generally, we use cookies to:</p>
 <ul>
-    <li>Remind us of who you are and to access your account information (stored on our secure servers) to deliver to you a better and more personalized service. This temporary cookie is set when you begin the booking process or enter your login ID and password.  This cookie  is enabled only for the duration of your session.</li>
+    <li>Remind us of who you are and to access your account information (stored on our secure servers) to deliver to you a better and more personalized service. This temporary cookie is set when you begin the booking process or enter your login ID and password. This cookie is enabled only for the duration of your session.</li>
     <li>Estimate our audience size. Each browser accessing the site is given a unique cookie which is then used to determine the extent of repeat usage, usage by a registered user versus by an unregistered user, and to help target advertisements based on your interests and behavior.</li>
     <li>Measure and track certain traffic patterns, including information like the areas of the site you have visited, and your visiting patterns in the aggregate. We may use this information to better personalize the content, banners, and promotions that you and other users will see on a Site.</li>
-    <li>For your convenience so that when you return to a Site, you are identified  It allows us to recognize you upon visiting a Site, prior to logging in. However, we do require you to log in before doing any redemption, purchase or profile edits.</li>
+    <li>Remind us of pages on the site you have browsed or train itinerary that you added to to your cart, so that we may provide a more personalized experience.</li>
+    <li>For your convenience so that when you return to a Site, you are identified. It allows us to recognize you upon visiting a Site, prior to logging in. However, we do require you to log in before doing any redemption, purchase or profile edits.</li>
 </ul>
 <p>In addition, we collect certain technical information from your computer or mobile device each time you request a page during a visit to a Site. This information is collected from your browser and may include your IP address, operating system and browser software (e.g., Internet Explorer or Safari), but this information is not shared outside of Amtrak.</p>
 <h6>9. When you use Amtrak mobile applications</h6>
@@ -1745,7 +4025,7 @@ z-index: 100;
     <li>Network service provider</li>
 </ul>
 <p>Information collected about your usage and device is collected in the aggregate and can not be tied to a specific individual.</p>
-<p>If an application has access to additional information on your phone, such as contacts or calendars, we do not automatically collect that information.  This access is to allow you to interact with your information from within the Amtrak application.</p>
+<p>If an application has access to additional information on your phone, such as contacts or calendars, we do not automatically collect that information. This access is to allow you to interact with your information from within the Amtrak application.</p>
 <h5>Section 3 — How We Use Your Personal Information</h5>
 <p>We use the information that you provide or that we otherwise collect while you're using the site in the following ways:</p>
 <ul>
@@ -1757,7 +4037,7 @@ z-index: 100;
     <li>To communicate with you in order to fulfill our service commitments.</li>
     <li>To notify you about special offers, promotions and site enhancements by e-mail, when you choose to receive them.</li>
     <li>When you shop online on our site: If you make an online purchase from the site, we use the information obtained during your visit, such as your credit card number and contact information, to process the order. To learn more about how we keep your credit card information secure, please refer to Section 5 of this Policy.</li>
-    <li>To deliver more relevant content to improve the customer experience</li>
+    <li>While you are on our Site or via email, to deliver more relevant content to improve the customer experience.</li>
     <li>To help identify and troubleshoot technical issues you may encounter</li>
     <li>To maintain application leaderboards.</li>
 </ul>
@@ -1799,11 +4079,11 @@ z-index: 100;
 <p>When you register and create a User Profile, you can choose not to receive information and offers by e-mail.</p>
 <p>You may change your preferences regarding whether you want to receive mail or e-mail at any time by accessing and updating your User Profile. You may access your User Profile by clicking on the 'My User Profile' link in the left navigation bar on most pages of the Amtrak.com web site.</p>
 <p>Within Amtrak for iPhone you may access your user profile by going to the Account/Trips section and tapping the My Account tab.</p>
-<p>You may make changes to your Amtrak Guest Rewards program information by accessing your Amtrak Guest Rewards account information online at <a href="https://www.amtrakguestrewards.com/" target="_blank">www.amtrakguestrewards.com</a>  or, by contacting the Amtrak Guest Rewards Service Center at 1-800-307-5000.  If you have processed a request to delete, correct or update any part of your User Profile or Amtrak Guest Rewards membership account, we will make every reasonable effort to see that your instructions to delete and/or make revisions are also communicated to and/or accessed by our contract service providers who may have received your personal information and that they too have either deleted and/or revised the information in accordance with your latest instructions. Changes made in either your User Profile or Amtrak Guest Rewards membership account will not be reflected in the other account until you make such changes.</p>
+<p>You may make changes to your Amtrak Guest Rewards program information by accessing your Amtrak Guest Rewards account information online at <a target="_blank" href="https://www.amtrakguestrewards.com/">www.amtrakguestrewards.com</a> or, by contacting the Amtrak Guest Rewards Service Center at 1-800-307-5000. If you have processed a request to delete, correct or update any part of your User Profile or Amtrak Guest Rewards membership account, we will make every reasonable effort to see that your instructions to delete and/or make revisions are also communicated to and/or accessed by our contract service providers who may have received your personal information and that they too have either deleted and/or revised the information in accordance with your latest instructions. Changes made in either your User Profile or Amtrak Guest Rewards membership account will not be reflected in the other account until you make such changes.</p>
 <p>Please note that our contract service providers require a reasonable amount of time to update, correct or delete the information in accordance with your instructions.</p>
 <h5>Section 7 — Your Choices Regarding Collection, Use and Distribution of Your Personal Information, Including Your Ability to Choose Not to Receive Promotional Information by E-mail</h5>
 <p>We will send e-mail correspondence regarding Amtrak products and services to customers who have a User Profile and who have opted into the e-mail program.</p>
-<p>We also may, from time to time, offer you the choice to receive promotional information about our trustworthy business partners by e-mail. If you do not want to receive such e-mail messages, you will have the opportunity to indicate your choice when such services are offered. You also may change your e-mail preferences at any time by accessing your User Profile or your Amtrak Guest Rewards program account information.  If you have requested to receive e-mails from Amtrak but have not created a User Profile, you may opt out of those e-mails by clicking the opt-out link in the e-mails you receive from Amtrak.</p>
+<p>We also may, from time to time, offer you the choice to receive promotional information about our trustworthy business partners by e-mail. If you do not want to receive such e-mail messages, you will have the opportunity to indicate your choice when such services are offered. You also may change your e-mail preferences at any time by accessing your User Profile or your Amtrak Guest Rewards program account information. If you have requested to receive e-mails from Amtrak but have not created a User Profile, you may opt out of those e-mails by clicking the opt-out link in the e-mails you receive from Amtrak.</p>
 <h5>Section 8 — Contacting Us Regarding This Policy and Regarding Your California Privacy Rights</h5>
 <p>California Civil Code § 1798.83 entitles residents of California to request information concerning with which third parties Amtrak has shared personal information in the immediately preceding calendar year for those third parties’ direct marketing purposes. California residents may submit one request per calendar year in the form of a report that details: (a) what types of information Amtrak shared, (b) with whom Amtrak shared such information and (c) the nature of the third parties’ businesses.</p>
 <p>If you have questions or concerns regarding this Policy, you may use the form on the 'Contact Us' page at the top of most pages on the Amtrak.com web site. Select California Privacy Rights from the drop-down menu on the page. Be certain to provide your complete mailing address on the form. You may access the 'Contact Us' page by clicking the link at the top of most pages on this site.</p>
@@ -1822,7 +4102,7 @@ Attention: California Privacy Rights Request</p>
 <p>Choices are available to you regarding the use and sharing of your personal information<br>
 By joining the Amtrak Guest Rewards program, you expressly give us your permission that the personal information that you have provided to us by joining the Amtrak Guest Rewards program may be accessed by or shared with our program's trustworthy business partners through our reputable contract service providers under that partner's own policies and practices.</p>
 <p>In addition, you agree that we may update and/or revise database information that we currently have about you. You may also agree that we may send you by e-mail or mail information about the program, and other information, including information provided by our program's participating business partners. These practices are necessary to administer the program and its services. We will also inform you about special offers and promotions regarding products and services that may be of interest to you.</p>
-<p>When you enroll in the program, you may elect not to receive special information and offers by e-mail, mobile or mail. You may also at any time change your preferences regarding whether you want to receive e-mail, mobile or mail by accessing your membership account at AmtrakGuestRewards.com or by contacting the Amtrak Guest Rewards Program Service Center at 1-800-307-5000. Your preferences can be customized based on the type of communications you wish to receive from Amtrak Guest Rewards. You will find a convenient link to your account information on the Amtrak Guest Rewards Home Page at <a href="https://www.amtrakguestrewards.com/" target="_blank">AmtrakGuestRewards.com</a>.&nbsp;</p>
+<p>When you enroll in the program, you may elect not to receive special information and offers by e-mail, mobile or mail. You may also at any time change your preferences regarding whether you want to receive e-mail, mobile or mail by accessing your membership account at AmtrakGuestRewards.com or by contacting the Amtrak Guest Rewards Program Service Center at 1-800-307-5000. Your preferences can be customized based on the type of communications you wish to receive from Amtrak Guest Rewards. You will find a convenient link to your account information on the Amtrak Guest Rewards Home Page at <a target="_blank" href="https://www.amtrakguestrewards.com/">AmtrakGuestRewards.com</a>.&nbsp;</p>
 						<br>
 						
 						
@@ -1849,11 +4129,11 @@ By joining the Amtrak Guest Rewards program, you expressly give us your permissi
 </p>
 <p class="marginbtm0"><a class="button" target="_blank" href="http://www.facebook.com/amtrak"> 
 
-<img src="/servlet/BlobServer?blobcol=urldata&amp;blobtable=MungoBlobs&amp;blobkey=id&amp;blobwhere=1249236814238&amp;blobheader=image%2Fgif" alt="Amtrak on Facebook">
+<img src="/servlet/BlobServer?blobcol=urldata&amp;blobtable=MungoBlobs&amp;blobkey=id&amp;blobwhere=1249272304640&amp;blobheader=image%2Fgif" alt="Amtrak on Facebook">
 
 </a> <a class="button" target="_blank" href="http://www.twitter.com/amtrak"> 
 
-<img src="/servlet/BlobServer?blobcol=urldata&amp;blobtable=MungoBlobs&amp;blobkey=id&amp;blobwhere=1249236814309&amp;blobheader=image%2Fgif" alt="Follow Amtrak on Twitter ">
+<img src="/servlet/BlobServer?blobcol=urldata&amp;blobtable=MungoBlobs&amp;blobkey=id&amp;blobwhere=1249272304692&amp;blobheader=image%2Fgif" alt="Follow Amtrak on Twitter ">
 
 </a> <a class="button" target="_blank" href="http://www.instagram.com/amtrak"> 
 
@@ -1861,7 +4141,7 @@ By joining the Amtrak Guest Rewards program, you expressly give us your permissi
 
 </a> <a target="_blank" style="text-decoration: none" href="https://plus.google.com/113087815240989591382"><img alt="Google+" style="border-bottom: 0px; border-left: 0px; width: 16px; height: 16px; border-top: 0px; border-right: 0px" src="//ssl.gstatic.com/images/icons/gplus-16.png"></a><a class="button" target="_blank" href="http://www.youtube.com/amtrak"> 
 
-<img src="/servlet/BlobServer?blobcol=urldata&amp;blobtable=MungoBlobs&amp;blobkey=id&amp;blobwhere=1249236814278&amp;blobheader=image%2Fgif" alt="Watch Amtrak on YouTube">
+<img src="/servlet/BlobServer?blobcol=urldata&amp;blobtable=MungoBlobs&amp;blobkey=id&amp;blobwhere=1249272304736&amp;blobheader=image%2Fgif" alt="Watch Amtrak on YouTube">
 
 </a> <a class="button" target="_blank" href="http://pinterest.com/amtraktravels/"> 
 
@@ -1939,7 +4219,7 @@ By joining the Amtrak Guest Rewards program, you expressly give us your permissi
  		 	 
 						<div class="topslot4">
 							
-							<div class="footer_block_bottom btmfirst"><p class="footerfont"><!-- mp_trans_disable_start -->©2013 National Railroad Passenger Corporation<!-- mp_trans_disable_end --></p>
+							<div class="footer_block_bottom btmfirst"><p class="footerfont"><!-- mp_trans_disable_start -->©2014 National Railroad Passenger Corporation<!-- mp_trans_disable_end --></p>
 <ul>
     <li>
 					<a href="/contact-us">Contact Us</a>
@@ -1951,19 +4231,23 @@ By joining the Amtrak Guest Rewards program, you expressly give us your permissi
 </ul>
 <p class="marginbtm0"><a class="button" onclick="return switchLanguage('en')" href=""> 
 
-<img src="/servlet/BlobServer?blobcol=urldata&amp;blobtable=MungoBlobs&amp;blobkey=id&amp;blobwhere=1249252838815&amp;blobheader=image%2Fgif" alt="English Language">
+<img src="/servlet/BlobServer?blobcol=urldata&amp;blobtable=MungoBlobs&amp;blobkey=id&amp;blobwhere=1249280445226&amp;blobheader=image%2Fgif" alt="View Amtrak.com in English">
 
 </a> <a class="button" onclick="return switchLanguage('es')" href=""> 
 
-<img src="/servlet/BlobServer?blobcol=urldata&amp;blobtable=MungoBlobs&amp;blobkey=id&amp;blobwhere=1249252838922&amp;blobheader=image%2Fgif" alt="Spanish Language">
+<img src="/servlet/BlobServer?blobcol=urldata&amp;blobtable=MungoBlobs&amp;blobkey=id&amp;blobwhere=1249280445346&amp;blobheader=image%2Fgif" alt="View Amtrak.com in Spanish">
 
 </a> <a class="button" onclick="return switchLanguage('de')" href=""> 
 
-<img src="/servlet/BlobServer?blobcol=urldata&amp;blobtable=MungoBlobs&amp;blobkey=id&amp;blobwhere=1249252838849&amp;blobheader=image%2Fgif" alt="German Language">
+<img src="/servlet/BlobServer?blobcol=urldata&amp;blobtable=MungoBlobs&amp;blobkey=id&amp;blobwhere=1249280445381&amp;blobheader=image%2Fgif" alt="View Amtrak.com in German">
 
 </a> <a class="button" onclick="return switchLanguage('fr')" href=""> 
 
-<img src="/servlet/BlobServer?blobcol=urldata&amp;blobtable=MungoBlobs&amp;blobkey=id&amp;blobwhere=1249252838712&amp;blobheader=image%2Fgif" alt="French Language">
+<img src="/servlet/BlobServer?blobcol=urldata&amp;blobtable=MungoBlobs&amp;blobkey=id&amp;blobwhere=1249280445301&amp;blobheader=image%2Fgif" alt="View Amtrak.com in French">
+
+</a> <a class="button" onclick="return switchLanguage('zs')" href=""> 
+
+<img src="/servlet/BlobServer?blobcol=urldata&amp;blobtable=MungoBlobs&amp;blobkey=id&amp;blobwhere=1249280445206&amp;blobheader=image%2Fgif" alt="View Amtrak.com in Chinese">
 
 </a></p>	</div>
 															
@@ -1983,7 +4267,7 @@ By joining the Amtrak Guest Rewards program, you expressly give us your permissi
 					<a href="/about-amtrak">About Amtrak</a>
 			</li>
     <li><a href="/servlet/ContentServer?c=Page&amp;pagename=am%2FLayout&amp;cid=1237608337144">News &amp; Media</a></li>
-    <li><a href="/servlet/ContentServer?c=Page&amp;pagename=am%2FLayout&amp;cid=1241245669136">Careers</a>&nbsp;</li>
+    <li><a target="_blank" href="http://jobs.amtrak.com">Careers</a></li>
     <li><a href="/servlet/ContentServer?c=Page&amp;pagename=am%2FLayout&amp;cid=1241267362261">FOIA</a></li>
     <li><a target="_blank" href="http://www.amtrakoig.gov/">Office of Inspector General</a></li>
     <li><a href="/servlet/ContentServer?c=Page&amp;pagename=am%2FLayout&amp;cid=1241305463065">Terms of Transportation</a></li>
@@ -2091,7 +4375,7 @@ By joining the Amtrak Guest Rewards program, you expressly give us your permissi
 var _tag=new WebTrends();
 var defSiteWiseParams = "&PROFILE=amtrak&WT.cg_n=content&WT.cg_s=Plan;Policies;Privacy+Policy";
 	var iSiteWiseCName = "Amtrak";
-	var iSiteWiseEDt = "2013/12/14 20:43:35";
+	var iSiteWiseEDt = "2014/06/20 15:07:34";
 
 	if(defSiteWiseParams.indexOf("WT.cg_s")==-1){
 		defSiteWiseParams+="&WT.cg_s=Root";
@@ -2269,5 +4553,6 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
 <!--END WEB TRENDS -->
 		
 	
+
 
 </body></html>
