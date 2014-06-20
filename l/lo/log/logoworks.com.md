@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the logoworks.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221190058id_/http%3A//www.logoworks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logoworks.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620034142id_/http%3A//www.logoworks.com/privacy-policy) for the most accurate reproduction.*
 
-# LogoworksPrivacy Policy » Logoworks
-
-## LOGOWORKS PRIVACY POLICY
+# Privacy Policy Logoworks | Professional Logo Design, Website Design, and much, much more
 
 This privacy policy informs you of LogoWorks’ privacy practices and of the choices you can make about the way we collect and use your information. LogoWorks is sometimes referred to using the terms “us”, “we”, “our” and similar terms.
 
@@ -20,11 +18,11 @@ We collect, export, and use your personal information to better serve you and pe
 
 We may collect personal information from you to complete various transactions, such as:
 
-  * Contact information, such as your name, address, telephone number, and e-mail address;
-  * Financial information, such as your credit card number; and
-  * Other unique information, such as user IDs and passwords, billing and transaction information, product and service preferences, contact preferences, educational and employment background, and job interest data.
+Contact information, such as your name, address, telephone number, and e-mail address;
 
+Financial information, such as your credit card number; and
 
+Other unique information, such as user IDs and passwords, billing and transaction information, product and service preferences, contact preferences, educational and employment background, and job interest data.
 
 If you choose to use a referral program on our site, we will ask you for your referral’s e-mail address, mobile phone number, or other contact information and automatically send your referral a one-time message inviting your referral to visit the site. We use and store this information only for the purpose of sending this one-time referral message.
 
@@ -38,45 +36,49 @@ We also collect information from commercially available sources that we deem cre
 
 ## How We Use Your Information
 
-  * Respond to duly authorized information requests of police and governmental authorities;
-  * Comply with any law, regulation, subpoena, or court order;
-  * Investigate and help prevent security threats, fraud or other malicious activity;
-  * Enforce or protect our rights and properties; or
-  * Protect the rights or personal safety of our employees and third parties on or using our Services.
+Respond to duly authorized information requests of police and governmental authorities;
 
+Comply with any law, regulation, subpoena, or court order;
 
+Investigate and help prevent security threats, fraud or other malicious activity;
 
-## 5\. Children’s Privacy
+Enforce or protect our rights and properties; or
+
+Protect the rights or personal safety of our employees and third parties on or using our Services.
+
+## Children’s Privacy
 
 We do not knowingly collect information from children under the age of 13 and does not target its Services to children under 13. We encourage parents and other care givers to take appropriate steps to monitor online activities and interests and prevent them from using services that are inappropriate for them.
 
-## 6\. Your Choices and Selecting Your Privacy Preferences
+## Your Choices and Selecting Your Privacy Preferences
 
 We give you the choice of receiving a variety of information that complements our Services. You can subscribe to receive certain information related to specific Services and also choose to receive general communications from us by mail, e-mail, telephone or mobile device. Some communications may utilize automatic data collection tools.
 
-## 7\. Access to and Accuracy of Your Information
+## Access to and Accuracy of Your Information
 
 We strive to maintain your personal information accurately. We allow you to access your personal information to review and correct it or ask for anonymization, blockage, or deletion, as applicable. To protect your privacy and security, we may also take reasonable steps to verify your identity, such as requiring a password and user ID, before granting access to your data.
 
-## 8\. Keeping Your Personal Information Secure
+## Keeping Your Personal Information Secure
 
 We take reasonable and appropriate physical, technical, and administrative precautions to safeguard the information we collect, prevent unauthorized access or disclosure, maintain data accuracy, and ensure the appropriate use of the information. We retain data only as required or permitted by applicable law.
 
-## 9\. Changes to this Privacy Policy
+## Changes to this Privacy Policy
 
 If we modify this privacy policy, we will post the revised statement here, with an updated revision date. If we make significant changes to our statement, we may also notify you by other means, such as sending an e-mail or posting a notice on our website and/or social media pages.
 
-## 10\. Contacting Us
+  * ## Contacting Us
 
-If you have comments or questions about this privacy policy, please send them to [support@logoworks.com](mailto:support@logoworks.com) or write to us at the following address:
+If you have comments or questions about this privacy policy, please send them to support@logoworks.com or write to us at the following address:
 
-**  
-LogoWorks**
+LogoWorks
 
-1 State Street
+1 State Street Plaza
 
-Plaza New York,
-
-NY 10004
+New York, NY 10004
 
 United States
+
+  * [Contact Us](http://omega.logoworks.com/contact)
+
+
+
