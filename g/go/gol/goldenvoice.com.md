@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldenvoice.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220112350id_/http%3A//www.goldenvoice.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldenvoice.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620102644id_/http%3A//www.goldenvoice.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy :: Goldenvoice
 
@@ -104,7 +104,7 @@ In order to process your requests we may provide your personally-identifiable in
 
 If you purchase a ticket to a specific event on our Site, your first name, last name, physical address, phone number and email address may be provided to the management of the artist(s) for that event.
 
-While we believe any disclosure of your information will result in opportunities that may be of interest to you, you have the right to opt out from receiving any future communications by contacting such third party directly. You may also opt out from receiving future communications from Goldenvoice through one of the following methods: (i) clicking on the appropriate links contained in our email communications; (ii) sending us a written request to the following address: Privacy Policy - Goldenvoice, C/O AEG Digital, 800 West Olympic Blvd., Suite 305, Los Angeles, CA 90015 or (iii) emailing: [privacypolicy@aegworldwide.com](https://web.archive.org/web/20131220112350id_/http://goldenvoice.com/privacy/privacypolicy@aegworldwide.com)
+While we believe any disclosure of your information will result in opportunities that may be of interest to you, you have the right to opt out from receiving any future communications by contacting such third party directly. You may also opt out from receiving future communications from Goldenvoice through one of the following methods: (i) clicking on the appropriate links contained in our email communications; (ii) sending us a written request to the following address: Privacy Policy - Goldenvoice, C/O AEG Digital, 800 West Olympic Blvd., Suite 305, Los Angeles, CA 90015 or (iii) emailing: [privacypolicy@aegworldwide.com](https://web.archive.org/web/20140620102644id_/http://goldenvoice.com/privacy/privacypolicy@aegworldwide.com)
 
 Your request must include your name, email address, mailing address and must be signed. (Signature only required for written request sent by regular mail). Please allow six weeks to process your request. You may also opt out by clicking on the appropriate links contained in our email communications. Under some circumstances, such as where we are contractually required to disclose ticket purchase information to artist management, we may not be able to fulfill your ticket order if you have requested that we do not disclose your information to third parties.
 
@@ -116,7 +116,7 @@ Back to Top
 
 ### 5\. What choices do I have about Goldenvoice collecting, using, and disclosing my information?
 
-It is possible for you to use much of our Site without giving us any personally identifiable information. When you do register with us or give us personally identifiable information, you will have an opportunity at the time we collect your information -- to limit e-mail communications from Goldenvoice and from our third-party partners. You can request at any time that Goldenvoice not send future e-mail to you either by unsubscribing from the communication or by contacting us at [privacypolicy@aegworldwide.com](https://web.archive.org/web/20131220112350id_/http://goldenvoice.com/privacy/privacypolicy@aegworldwide.com). Also, as mentioned above, there are ways to limit the information collected through technology -- though some of our Site features won't work if you decide to do this.
+It is possible for you to use much of our Site without giving us any personally identifiable information. When you do register with us or give us personally identifiable information, you will have an opportunity at the time we collect your information -- to limit e-mail communications from Goldenvoice and from our third-party partners. You can request at any time that Goldenvoice not send future e-mail to you either by unsubscribing from the communication or by contacting us at [privacypolicy@aegworldwide.com](https://web.archive.org/web/20140620102644id_/http://goldenvoice.com/privacy/privacypolicy@aegworldwide.com). Also, as mentioned above, there are ways to limit the information collected through technology -- though some of our Site features won't work if you decide to do this.
 
 Even if you request that we not disclose your personal information to third parties, we may disclose personally identifiable information in the good faith belief that we are required to do so by law, or that doing so is reasonably necessary to comply with legal process, respond to any claims, or to protect the rights, property, or personal safety of Goldenvoice, Site users or the public. Information collected through this Site, including personally identifiable information, may be disclosed as part of, or during negotiations of, any merger, sale of company assets or acquisition.
 
@@ -166,13 +166,13 @@ Back to Top
 
 ### 13\. Correcting and updating personal information
 
-If your PII changes, or if you no longer wish to receive communications from us, you should make changes to your password protected registered user profile on the Site, respond to an opt-out message in an email or text, or email us at [privacypolicy@aegworldwide.com](https://web.archive.org/web/20131220112350id_/http://goldenvoice.com/privacy/privacypolicy@aegworldwide.com). Please note that to the extent that such information is stored in our databases, we will respond to your changes as soon as reasonably practicable, however that information may remain stored indefinitely in our back-up and archival records. Any information that is stored in aggregate ("headless") form that may have been excerpted from is not considered PII and will not be updated or changed pursuant to a request from you.
+If your PII changes, or if you no longer wish to receive communications from us, you should make changes to your password protected registered user profile on the Site, respond to an opt-out message in an email or text, or email us at [privacypolicy@aegworldwide.com](https://web.archive.org/web/20140620102644id_/http://goldenvoice.com/privacy/privacypolicy@aegworldwide.com). Please note that to the extent that such information is stored in our databases, we will respond to your changes as soon as reasonably practicable, however that information may remain stored indefinitely in our back-up and archival records. Any information that is stored in aggregate ("headless") form that may have been excerpted from is not considered PII and will not be updated or changed pursuant to a request from you.
 
 Back to Top
 
 ### 14\. Opting out of Registration.
 
-If you are a registered subscriber and no longer wish to receive our email communications, you may opt out. Choosing to opt out means we will remove your personal data from our database and you will not receive further communications from us. You may opt out by utilizing one of the following methods: (i) emailing us at [privacypolicy@aegworldwide.com](https://web.archive.org/web/20131220112350id_/http://goldenvoice.com/privacy/privacypolicy@aegworldwide.com), (ii) using an option out message contained in an email from us, or (iii) calling us at 888-929-7849.
+If you are a registered subscriber and no longer wish to receive our email communications, you may opt out. Choosing to opt out means we will remove your personal data from our database and you will not receive further communications from us. You may opt out by utilizing one of the following methods: (i) emailing us at [privacypolicy@aegworldwide.com](https://web.archive.org/web/20140620102644id_/http://goldenvoice.com/privacy/privacypolicy@aegworldwide.com), (ii) using an option out message contained in an email from us, or (iii) calling us at 888-929-7849.
 
 Back to Top
 
@@ -185,6 +185,6 @@ C/O AEG Digital
 800 West Olympic Blvd., Suite 305  
 Los Angeles, CA 90015
 
-You may also contact us by e-mail at: [privacypolicy@aegworldwide.com](https://web.archive.org/web/20131220112350id_/http://goldenvoice.com/privacy/privacypolicy@aegworldwide.com)
+You may also contact us by e-mail at: [privacypolicy@aegworldwide.com](https://web.archive.org/web/20140620102644id_/http://goldenvoice.com/privacy/privacypolicy@aegworldwide.com)
 
 Back to Top
