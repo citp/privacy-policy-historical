@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vecteezy.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121212403id_/http%3A//www.vecteezy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vecteezy.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620034724id_/http%3A//www.vecteezy.com/privacy) for the most accurate reproduction.*
 
 # Vecteezy! - Download Free Vector Art, Stock Graphics & Images...
 
