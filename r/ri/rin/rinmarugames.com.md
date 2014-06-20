@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rinmarugames.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226192614id_/http%3A//www.rinmarugames.com/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rinmarugames.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620235408id_/http%3A//www.rinmarugames.com/pp.php) for the most accurate reproduction.*
 
 # Rinmaru Games
 
@@ -55,7 +55,7 @@ RinmaruGames has the discretion to update this privacy policy at any time. When 
 
 **Your acceptance of these terms**
 
-By using this Site, you signify your acceptance of this policy and [terms of service](https://web.archive.org/web/20131226192614id_/http%3A//www.rinmarugames.com/www.rinmarugames.com/tos.php). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this Site, you signify your acceptance of this policy and [terms of service](https://web.archive.org/web/20140620235408id_/http%3A//www.rinmarugames.com/www.rinmarugames.com/tos.php). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 **Contacting us**
 
