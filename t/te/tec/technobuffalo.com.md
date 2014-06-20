@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the technobuffalo.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226182324id_/http%3A//www.technobuffalo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technobuffalo.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620201411id_/http%3A//www.technobuffalo.com/privacy) for the most accurate reproduction.*
 
 # Privacy | TechnoBuffalo
-
-* * *
 
 TechnoBuffalo takes your privacy very seriously and the following privacy guide outlines out policies in regards to what information we collect from you, and how we use this information.
 
