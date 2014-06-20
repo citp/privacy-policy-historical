@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the consumerfinance.gov privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217164514id_/http%3A//www.consumerfinance.gov/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumerfinance.gov privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620101633id_/http%3A//www.consumerfinance.gov/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy & legal notices > Consumer Financial Protection Bureau
 
 We take protecting your personal privacy extremely seriously. This page describes ConsumerFinance.gov policies and procedures on the collection, use, and disclosure of your information.
 
-[Visit our Privacy Office page](https://web.archive.org/privacy-office) to view the Bureau’s privacy documentation, including Privacy Impact Assessments (PIAs) and System of Records Notices (SORNs).
+[Visit our Privacy Office page](https://web.archive.org/privacy) to view the Bureau’s privacy documentation, including Privacy Impact Assessments (PIAs) and System of Records Notices (SORNs).
 
 ## What information is collected?
 
