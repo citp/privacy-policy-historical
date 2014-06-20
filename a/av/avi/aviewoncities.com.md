@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aviewoncities.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121223746id_/http%3A//www.aviewoncities.com/_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aviewoncities.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620201937id_/http%3A//www.aviewoncities.com/_privacy.htm) for the most accurate reproduction.*
 
 # A View On Cities - Privacy Policy
 
@@ -8,7 +8,7 @@ At aviewoncities.com, we recognize that privacy of your personal information is 
 
 ## Newsletter
 
-We hate spam as much as you do. We only send our newsletter with hotel promotions to those who opted in by subscribing via a hotel page such as [www.aviewoncities.com/hotels.htm](https://web.archive.org/web/20131121223746id_/http%3A//www.aviewoncities.com/hotels.htm) or by accepting to receive newsletters when booking a hotel (disabled by default). If you do not want to stop receiving our newsletter, click on the subscribe link in the newsletter or use [this page](http://www.aviewoncities.com/zznewsletters/newsletter.htm) to unsubscribe.
+We hate spam as much as you do. We only send our newsletter with hotel promotions to those who opted in by subscribing via a hotel page such as [www.aviewoncities.com/hotels.htm](https://web.archive.org/web/20140620201937id_/http%3A//www.aviewoncities.com/hotels.htm) or by accepting to receive newsletters when booking a hotel (disabled by default). If you do not want to stop receiving our newsletter, click on the subscribe link in the newsletter or use [this page](http://www.aviewoncities.com/zznewsletters/newsletter.htm) to unsubscribe.
 
 ## Log Files
 
