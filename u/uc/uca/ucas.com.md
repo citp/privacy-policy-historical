@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ucas.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219175705id_/http%3A//www.ucas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucas.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620142619id_/http%3A//www.ucas.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | UCAS
 
 [](https://web.archive.org/) > Privacy policy
 
-**Updated 18 December 2012**
+**Updated 3 April 2014**
 
 This policy (together with the [terms of use of our website](https://web.archive.org/terms-and-conditions) and any other documents referred to in it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our policy regarding your personal data and how we will treat it.
 
@@ -45,7 +45,7 @@ We may collect and process the following information about you:
   4. After you register to use our Apply product or after have submitted your application to UCAS in paper form, you will receive a 'welcome' letter or email, which will contain your Personal ID and your user name for using our Track service. You must take care not to disclose them to anyone other than your nominated representative. We will not be liable to you for any loss or damage suffered by you as a result of an unauthorised third party having accessed your application.
   5. Where you use our website to submit an application, we may invite you to participate in surveys intended to assist us in the development of our services or for enhancement of areas of study in which you have expressed interest. Whilst your views will be welcome to us, there is no obligation for you to respond. You will be given details of the purpose of the survey and the parties who will undertake it.
   6. We may, on occasion, be required to undertake a check of your identity. This will be conducted in confidence. We will normally discuss this with you prior to carrying out any identity checks except as set out in our data protection statement.
-  7. UCAS will cooperate, where it is required to do so, with enquiries from authorities which demonstrate a legal requirement for access to information about you. These include, but are not limited to: the Police, the UK Border Agency and investigators on behalf of other agencies.
+  7. UCAS will cooperate, where it is required to do so, with enquiries from authorities which demonstrate a legal requirement for access to information about you. These include, but are not limited to: the Police, UK Visas and Immigration and investigators on behalf of other agencies.
 
 
 
@@ -75,6 +75,8 @@ We may collect and process the following information about you:
   2. UCAS may use cookies. A cookie is a small amount of data which is stored on your computer and which is revealed to UCAS when you use this network. UCAS uses cookies only to make it easier to identify you when using the network. UCAS does not use cookies to collect additional information about you. You can configure your web browser not to accept cookies, although this may hinder the functionality of the network for you. [View more information about UCAS cookies](https://web.archive.org/cookies).
   3. Please note that our advertisers may also use cookies, over which we have no control.
   4. The website may contain links that make it easy for you to visit other websites. UCAS does not have any control over these websites. Therefore, if you use these links to leave UCAS and visit websites operated by third parties, UCAS cannot be responsible for the protection and privacy of any information that you provide whilst visiting these websites.
+  5. We use Google Analytics tracking code that supports Display Advertising in order to use Google Analytics Demographics and Interest Reporting so that we can purpose content on our website according to the demographics (such as age, gender and interests) of the visitors to particular pages. You may opt-out of Google Analytics for Display Advertising and customise Google Display Network ads by using the Ad Settings on Google’s website.
+
 
 
 
