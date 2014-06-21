@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the intelihealth.com privacy policy that was archived on 2013-12-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131222082151id_/http%3A//www.intelihealth.com/article/aetna-intelihealths-privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the intelihealth.com privacy policy that was archived on 2014-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140622010819id_/http%3A//www.intelihealth.com/article/aetna-intelihealths-privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -8,246 +8,7 @@
 <link type="text/css" rel="stylesheet" href="/partner/intelihealth/css/iHsmartSearch.css">
 <link type="text/css" rel="stylesheet" media="print" href="/partner/intelihealth/css/article-print.css">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" language="javascript" src="/partner/intelihealth/js/ih.js"></script>
-<script language="javascript" type="text/javascript" src="/partner/intelihealth/js/yui_2.6.0/build/yahoo-dom-event/yahoo-dom-event.js"></script>
-<script language="javascript" type="text/javascript" src="/partner/intelihealth/js/yui_2.6.0/build/get/get-min.js"></script>
-<script language="javascript" type="text/javascript" src="/partner/intelihealth/js/yui_2.6.0/build/connection/connection-min.js"></script>
-<script language="javascript" type="text/javascript" src="/partner/intelihealth/js/yui_2.6.0/build/datasource/datasource-min.js"></script>
-<script language="javascript" type="text/javascript" src="/partner/intelihealth/js/yui_2.6.0/build/autocomplete/autocomplete-min.js"></script>
-<script language="javascript" type="text/javascript" src="/partner/intelihealth/js/yui_2.6.0/build/animation/animation-min.js"></script>
-
-
-<script language="javascript" type="text/javascript">
-  var autocomplete = {
-    init: function() {
-      submitFlag = false;
-      gResults = true;
-
-      var oDS = new YAHOO.util.ScriptNodeDataSource("/autocomplete");
-      oDS.responseType = YAHOO.util.ScriptNodeDataSource.TYPE_JSON;
-      oDS.responseSchema = {
-        resultsList : "terms",
-        fields : [
-          {key: "term"},
-          {key: "stygroup"}
-        ]
-      }
-      oAC = new YAHOO.widget.AutoComplete('ysearchinput','ysearchcontainer', oDS);
-      oAC.textboxFocusEvent.subscribe(autocomplete.textboxFocus);
-      oAC.dataRequestEvent.subscribe(autocomplete.dataRequestEvent);
-//      oAC.dataReturnEvent.subscribe(autocomplete.dataReturnEvent);
-      oAC.itemSelectEvent.subscribe(autocomplete.itemSelectEvent);
-      oAC.animVert = false;
-      oAC.queryMatchSubset = false;
-      oAC.autoHighlight = false;
-      oAC.forceSelection = false;
-      oAC.applyLocalFilter = false;
-      oAC.maxResultsDisplayed = 20;
-      oAC.useIFrame = true;
-      elInput = oAC.getInputEl();
-      elContainer = oAC.getContainerEl();
-      elForm = document.smartsearch;
-      oAC.generateRequest = function(sQuery) {
-        return "?q=" + sQuery;
-      }
-      oAC.resultTypeList = false;
-      oAC.formatResult = function(oResultData, sQuery, sResultMatch) {
-
-        var sKey = sResultMatch;
-        // drugs from typeahead:
-        var aDrugWords = new Array();
-        aDrugWords = sKey.split(/[^a-zA-Z0-9_'-]+/);
-        // user query:
-        var aQuery = new Array();
-        aQuery = sQuery.split(/[^a-zA-Z0-9_'-]+/);
-        // start building bolded markup:
-        var sMarkup = "";
-
-        for (var i = 0; i < aDrugWords.length; ++i) {
-          var lowerDrugWord = (unescape(aDrugWords[i].toLowerCase()));
-          var drugWord = aDrugWords[i];
-
-          for (var j = 0; j < aQuery.length; ++j) {
-            var lowerQueryWord = (unescape(aQuery[j].toLowerCase()));
-            var sKeyOffset = lowerDrugWord.indexOf(lowerQueryWord);
-            if (sKeyOffset == 0) {
-              // add boldface:
-              var boldpart = drugWord.substring(0, lowerQueryWord.length);
-              var nonboldpart = drugWord.substring(lowerQueryWord.length);
-              drugWord = "<strong>" + boldpart + "</strong>" + nonboldpart;
-              break;
-            }
-          }
-          sMarkup += drugWord;
-          if (i < aDrugWords.length-1) {
-            sMarkup += " ";
-          }
-        }
-        return sMarkup;
-      }
-
-    },
-    textboxFocus: function(oSelf) {
-      if(elInput.value == 'Enter a search term') {
-        elInput.value = "";
-      }
-    },
-    dataRequestEvent: function(sType, aArgs) {
-      oAC.setBody('<div><b>Loading terms...</b></div>');
-    },
-    dataReturnEvent: function(sType, aArgs) {
-      var aResults = aArgs[2];
-      if (aResults.length <= 0) {
-        gResults = false;
-        oAC.setBody("<b>Not A Recognized Search Term. Please <a title=\"Start Over\" href=\"javascript:void(0)\" onclick=\"autocomplete.clearInput()\">Start Over</a></b>");
-        var cResult = aArgs[1].charAt(0);
-        if (isNaN(cResult))
-          oAC.sendQuery(aArgs[1].charAt(0));//split(/[^A-Za-z]/);
-      } else {
-        if (gResults) {
-          oAC.setHeader("<b>Please choose from the results below</b>");
-        } else {
-          oAC.setHeader("<b style='color:#FF0000'>No results found, please select from the list</b>");
-          gResults = true;
-        }
-      }
-      submitFlag = false;
-    },
-    itemSelectEvent: function(sType, aArgs,oData) {
-      submitFlag = true;
-      document.smartsearch.query.value = aArgs[2].term;
-      //ss_cookies.resetWindowshade();
-      autocomplete.submitSearch(elForm);
-    },
-    clearInput: function() {
-      elInput.value = "";
-      elInput.focus();
-      oAC.setBody("");
-    },
-    submitSearch: function(formObj) {
-      if(submitFlag){
-        location.href = '/search?query='+formObj.query.value;
-        //formObj.submit();
-        loadSpinner.showForAutoComplete(formObj);
-      }
-    }
-  }
-  YAHOO.util.Event.onContentReady('ysearchcontainer', autocomplete.init);
-
-  var rssearch = {
-    init: function() {
-      rswindow = document.createElement('DIV');
-      rswindow.id = 'layover-320';
-      rswindow.className = 'layover-320';
-      rslink = this;
-      YAHOO.util.Event.addListener(this, 'mouseover', rssearch.show);
-    },
-    show: function(e) {
-      var elTarget = YAHOO.util.Event.getTarget(e);
-      if (elTarget.id == 'rs') {
-        layovertext = '<div id="arrow" class="def-arrow"></div>' +
-       '<div class="def-top"></div>'+
-       '<div class="def-center">'+
-         '<div style="padding:0 25px 0 20px">'+
-           '<div class="def-title">You might be interested in...</div>'+
-           '<div id="defdescription" class="div-margin-t-medium"></div>'+
-           '<div class="clear-both"></div>'+
-         '</div>'+
-       '</div>'+
-       '<div class="def-bottom"></div>';
-      }
-      activelink = elTarget;
-      rswindow.innerHTML = layovertext;
-      YAHOO.util.Dom.insertAfter(rswindow,activelink);
-      YAHOO.util.Event.stopPropagation(e);
-      YAHOO.util.Dom.setX(rswindow,YAHOO.util.Dom.getX(elTarget) - rswindow.offsetWidth);
-      YAHOO.util.Dom.setY(rswindow,YAHOO.util.Dom.getY(elTarget) - 55);
-      YAHOO.util.Event.addListener(document, 'mousemove', rssearch.closelayover);
-      YAHOO.util.Event.removeListener(rslink, 'mouseover', rssearch.show);
-      loadSpinner.hiddenHrefTags(rswindow);
-    },
-    closelayover: function(e) {
-      var target = YAHOO.util.Event.getTarget(e);
-      var regionWindow = YAHOO.util.Dom.getRegion(rswindow);
-      if (typeof regionWindow != 'function') {
-        var regionLink = YAHOO.util.Dom.getRegion(document.getElementById('rs'));
-        var regionArrow = YAHOO.util.Dom.getRegion(document.getElementById('arrow'));
-        var region2 = YAHOO.util.Dom.getRegion(target);
-
-        var containsWindow = regionWindow.contains(region2);
-        var containsLink = regionLink.contains(region2);
-        var containsArrow = regionArrow.contains(region2);
-        if (containsWindow || containsLink || containsArrow) {
-          return;
-        } else {
-          var pnode = activelink.parentNode;
-          pnode.removeChild(rswindow);
-          YAHOO.util.Event.removeListener(document, 'mousemove', rssearch.closelayover);
-          YAHOO.util.Event.addListener(rslink, 'mouseover', rssearch.show);
-        }
-      }
-    }
-
-  }
-  YAHOO.util.Event.onAvailable('rs', rssearch.init);
-
-  var hl_font = {
-    resize: function(size) {
-      mc = document.getElementById('main-content');
-      if (mc) {
-        switch(size) {
-          case 1:mc.style.fontSize = '100%';break;
-          case 2:mc.style.fontSize = '120%';break;
-          case 3:mc.style.fontSize = '140%';break;
-        }
-      }
-    }
-  }
-
-  function MM_reloadPage(init) {  //reloads the window if Nav4 resized
-    if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
-      document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
-    else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
-  }
-  MM_reloadPage(true);
-
-  String.prototype.trim = StringTrim;
-  function StringTrim(){
-    var TestString = this;
-    TestString = TestString.replace( /^\s+/g,"");
-    TestString = TestString.replace( /\s+$/g,"");
-    return TestString;
-  }
-
-  var loadSpinner = {
-    spinner: null,
-    init: function() {
-      loadSpinner.spinner = document.createElement('IMG');
-      loadSpinner.spinner.style.position = 'absolute';
-      loadSpinner.spinner.style.zIndex = '1000003';
-      loadSpinner.spinner.src = '/sites/default/files/aetnaihcmsresource/images/spinner.gif';
-    },
-    show: function(e) {
-      var elTarget = YAHOO.util.Event.getTarget(e);
-      YAHOO.util.Dom.insertAfter(loadSpinner.spinner,document.getElementById('pagecontainer'));
-      YAHOO.util.Dom.setXY(loadSpinner.spinner,[YAHOO.util.Dom.getX(elTarget)+30,YAHOO.util.Dom.getY(elTarget)-25]);
-    },
-    hiddenHrefTags: function(maindiv) {
-      var alist = maindiv.getElementsByTagName('A');
-      for (i = 0; i < alist.length; i++){
-        if(alist[i].href.indexOf('/search') > 0){
-          YAHOO.util.Event.addListener(alist[i], 'click', loadSpinner.show);
-        }
-      }
-    },
-    showForAutoComplete: function(obj) {
-      YAHOO.util.Dom.insertAfter(loadSpinner.spinner,document.getElementById('pagecontainer'));
-      YAHOO.util.Dom.setXY(loadSpinner.spinner,[YAHOO.util.Dom.getX(obj)+130,YAHOO.util.Dom.getY(obj)-25]);
-    }
-  }
-  YAHOO.util.Event.onDOMReady(function() {
-    loadSpinner.init();
-  });
-</script><meta name="date" content="09/04/2012 - 00:00">
+<meta name="date" content="09/03/2012 - 21:00">
         <meta name="keywords" content="electronic">
         <meta name="description" content="InteliHealth - InteliHealth is a leader in setting ethical standards for Internet consumer health Web sites. InteliHealth is a founding member of Hi-Ethics, a coalition of the most widely used Internet health sites.">
         <meta name="language" content="English">
@@ -349,7 +110,7 @@
             <div class="yui-skin-sam">
                 <div style="z-index: 3;margin-top: 3px" class="yui-ac">
                     <input type="text" name="query" value="Enter Search Term(s)" onfocus="this.value=''" style="border: 1px solid #000000; width: 180px; height: 20px" id="ysearchinput" class="yui-ac-input" autocomplete="off">
-                    <div id="ysearchcontainer" class="yui-ac-container" style="font-family: Verdana;font-size: 13px;"><div class="yui-ac-content" style="display: none;"><div class="yui-ac-hd" style="display: none;"></div><div class="yui-ac-bd"><ul><li style="display: none;"></li><li style="display: none;"></li><li style="display: none;"></li><li style="display: none;"></li><li style="display: none;"></li><li style="display: none;"></li><li style="display: none;"></li><li style="display: none;"></li><li style="display: none;"></li><li style="display: none;"></li></ul></div><div class="yui-ac-ft" style="display: none;"></div></div></div>
+                    <div id="ysearchcontainer" class="yui-ac-container" style="font-family: Verdana;font-size: 13px;"></div>
                 </div>
 
             </div>
@@ -461,11 +222,11 @@
 													'/sites/default/files/aetnaihcmsresource/images/chr_mid_but_news-o.gif');
 										</script></a></div></td></tr>
 								<tr>
-									<td valign="top" width="144" height="14"><div style="display: block; height: 14px;*height:15px; overflow: hidden;"><a href="/info/our-policies" onmouseover="chrome_imgSwitch('gifChr_mid_but_privacy_mo_7','over');" onmouseout="chrome_imgSwitch('gifChr_mid_but_privacy_mo_7','out');"><img src="/sites/default/files/aetnaihcmsresource/images/Chr_mid_but_privacy.gif" name="gifChr_mid_but_privacy_mo_7" border="0" alt="InteliHealth Policies" hspace="0" vspace="0" width="144" height="15px"><script>chrome_imgPreload(
+									<td valign="top" width="144" height="14"><div style="display: block; height: 14px;*height:15px; overflow: hidden;background-color: #0F1434"><a href="/info/our-policies" onmouseover="chrome_imgSwitch('gifChr_mid_but_privacy_mo_7','over');" onmouseout="chrome_imgSwitch('gifChr_mid_but_privacy_mo_7','out');"><img src="/sites/default/files/aetnaihcmsresource/images/Chr_mid_but_privacy.gif" name="gifChr_mid_but_privacy_mo_7" border="0" alt="InteliHealth Policies" hspace="0" vspace="0" width="144" height="15px"><script>chrome_imgPreload(
 													'gifChr_mid_but_privacy_mo_7',
 													'/sites/default/files/aetnaihcmsresource/images/Chr_mid_but_privacy-o.gif');</script></a></div></td></tr>
 								<tr>
-									<td valign="top" width="144" height="15"><div style="display: block; height: 15px; overflow: hidden;"><a href="/site-map" onmouseover="chrome_imgSwitch('gifChr_mid_but_SiteMap_mo_8','over');" onmouseout="chrome_imgSwitch('gifChr_mid_but_SiteMap_mo_8','out');"><img src="/sites/default/files/aetnaihcmsresource/images/Chr_mid_but_SiteMap.gif" name="gifChr_mid_but_SiteMap_mo_8" border="0" alt="Site Map" hspace="0" vspace="0" width="144" height="15px">
+									<td valign="top" width="144" height="15"><div style="display: block; height: 15px; overflow: hidden;background-color: #0F1434"><a href="/site-map" onmouseover="chrome_imgSwitch('gifChr_mid_but_SiteMap_mo_8','over');" onmouseout="chrome_imgSwitch('gifChr_mid_but_SiteMap_mo_8','out');"><img src="/sites/default/files/aetnaihcmsresource/images/Chr_mid_but_SiteMap.gif" name="gifChr_mid_but_SiteMap_mo_8" border="0" alt="Site Map" hspace="0" vspace="0" width="144" height="15px">
 										<script>
 											chrome_imgPreload(
 													'gifChr_mid_but_SiteMap_mo_8',
@@ -494,14 +255,20 @@
                         <tr>
                             <td>
                                 <!---ad start--->
-                                <br>
-                                <span class="footer" align="center"><font color="#000000">&nbsp;&nbsp;&nbsp;Advertisement</font>
-                                </span><br>
-                                <a href="https://www.carepass.com/carepass/getstarted?WT.mc_id=cp_disp_ih" target="_blank"><img src="/sites/default/files/aetnaihcmsresource/images/carepass_top.jpg" border="0" align="center" alt="Carepass Ad" hspace="0" vspace="0" width="120" height="575">
-						</a>
-                            <a href="/sites/default/files/aetnaihcmsresource/images/carepass_disclaimer.jpg" target="_blank"><img src="/sites/default/files/aetnaihcmsresource/images/carepass_bottom.jpg" border="0" align="center" alt="Carepass Ad" hspace="0" vspace="0" width="120" height="26">
-						</a>
-                                <!---ad end---> <img src="/sites/default/files/aetnaihcmsresource/images/5x5transSpacer.gif" alt="." width="10" height="1">
+<!---ad end--->
+
+<!---ad start--->
+<br>
+<span class="footer" align="center"><font color="#000000">&nbsp;&nbsp;&nbsp;Advertisement</font></span>
+<br>
+
+<a href="https://www.carepass.com/carepass/getstarted?WT.mc_id=cp_disp_ih" target="_blank">
+    <img src="/sites/default/files/aetnaihcmsresource/images/carepass_top.jpg" border="0" align="center" alt="Carepass Ad" hspace="0" vspace="0" width="120" height="575">
+</a>
+<a href="/sites/default/files/aetnaihcmsresource/images/carepass_disclaimer.jpg" target="_blank">
+    <img src="/sites/default/files/aetnaihcmsresource/images/carepass_bottom.jpg" border="0" align="center" alt="Carepass Ad" hspace="0" vspace="0" width="120" height="26">
+</a>
+<!---ad end---><img src="/sites/default/files/aetnaihcmsresource/images/5x5transSpacer.gif" alt="." width="10" height="1">
                             </td>
                         </tr>
                     </tbody></table>
@@ -690,6 +457,12 @@
                                     <td valign="top" align="left"><div class="midnav">•</div></td> 
                                     <td valign="top" align="left"><div class="midnav">
                                             <a class="topnav" href="/med-dict">Medical Dictionary</a></div>
+                                        </td>
+                                </tr>
+                                <tr> 
+                                    <td valign="top" align="left"><div class="midnav">•</div></td> 
+                                    <td valign="top" align="left"><div class="midnav">
+                                            <a class="topnav" href="/look-it-up/">More</a></div>
                                         </td>
                                 </tr>
                                 </tbody></table></td></tr></tbody></table></div>
@@ -1065,14 +838,14 @@
                                     <tr>
                                         <td width="5"> <img width="5" height="6" alt="." src="/sites/default/files/aetnaihcmsresource/images/5x5transSpacer.gif"></td>
                                         <td width="591" valign="top" align="left">
-                                <p class="headingmain">Aetna InteliHealth's Privacy Policy</p>
+                                <p itemscope="" itemtype="http://schema.org/Article" itemprop="headline" class="headingmain">Aetna InteliHealth's Privacy Policy</p>
                                 <div class="bodysub">
                                     <p>
                                     </p>
                                 </div>
 
                                       <p style="margin-top: 5px;"></p>
-                                <div class="bodysub">
+                                <div itemprop="articleBody" class="bodysub">
                                                       
 		                                    <div style="display: none;"><silo_heading>About Aetna InteliHealth®<silo_heading></silo_heading></silo_heading></div>
 <div style="display: none;"><silo_id>356<silo_id></silo_id></silo_id></div>
@@ -1102,7 +875,6 @@
 <ul><li class="bodysub"><a class="third" href="#cookie">Cookies</a></li>
 <li class="bodysub"><a class="third" href="#ip">IP Addresses</a></li>
 <li class="bodysub"><a class="third" href="#survey">Surveys, Questionnaires And Polls</a></li>
-<li class="bodysub"><a class="third" href="#contests">Contests</a></li>
 <li class="bodysub"><a class="third" href="#children">Children</a></li>
 <li class="bodysub"><a class="third" href="#search">Search Functions</a></li>
 <li class="bodysub"><a class="third" href="#leaving">Leaving Aetna InteliHealth</a></li>
@@ -1121,7 +893,7 @@
 <p class="bodysub">When you register for Aetna InteliHealth's free health e-mails, your information is not secure during transmission to us.</p>
 <p class="bodysub">When you use our "Send this page to a friend," the information you submit is stored by us for 30 days to allow your friend or relative to "pick up" the information you sent. The information is stored behind an electronic firewall.</p>
 <h1 class="heading2"><a name="persinfo" id="persinfo"></a>Changing Or Deleting Your Personal Information</h1>
-<p class="bodysub">You can change the personal information in your Aetna InteliHealth profile at any time by clicking on "Change Profile" on the navigation bar at the bottom of any page on our site. Or you can visit <a class="third" href="/article/user-profile-welcome-message?nid=1442">Change Profile.</a> If you forget your password, visit the change profile page and we will e-mail your password to you. As with most e-mails, this transmission is not secure.</p>
+<p class="bodysub">You can change the personal information in your Aetna InteliHealth profile at any time by clicking on "Change Profile" on the navigation bar at the bottom of any page on our site. Or you can visit <a title="Log in to the Profile page" href="http://intelihealth.com/log-in" target="_self">Change Profile.</a> If you forget your password, visit the change profile page and we will e-mail your password to you. As with most e-mails, this transmission is not secure.</p>
 <p class="bodysub">Unsubscribing from our free health e-mails does not delete your personal information from our system, even if you unsubscribe from all e-mails. We will delete your personal registration information from the active and searchable areas of our system at your request. Be aware, however, that it is not feasible for us to remove every electronic record that may contain your data. We cannot remove copies of your information that may exist in records we create as backup in case our main data is lost. We also cannot delete information from anonymous, aggregated databases. This information cannot be linked to you. We maintain and archive all personally-identifiable information provided by users. This data is retained in our archives and not deleted.</p>
 <p class="bodysub">To have your registration information removed, send your request by e-mail to <a class="third" href="mailto:ihonline@aetna.com ">ihonline@aetna.com</a>. You will receive a confirmation from us.</p>
 <h1 class="heading2"><a name="pconcern" id="pconcern"></a>Privacy Concerns</h1>
@@ -1147,9 +919,7 @@
 <p class="bodysub">An Internet Protocol (IP) address is a number that is automatically assigned to your computer by your Internet Service Provider (ISP) whenever you access the Internet. This number may be the same each time you access the Internet or it may change. Like other Internet sites, Aetna InteliHealth uses IP addresses to collect aggregate information about numbers of visitors and site usage. The address is logged on&nbsp;the server that services this site when your computer requests information from Aetna InteliHealth. However, to allow users to access our site anonymously, your IP address is not linked with personal information about you. Aetna InteliHealth and <a href="about-healthline-networks">Healthline Networks </a>reserve the right, in rare instances, to use IP addresses to identify individuals who threaten the site, service or customers.</p>
 <h1 class="heading2"><a name="survey" id="survey"></a>Surveys, Questionnaires And Polls</h1>
 <p class="bodysub">When you respond to surveys, questionnaires or polls on our site, we may, at times, ask you for demographic information such as your gender or age. This information is collected only as anonymous, aggregated information and is used for statistical purposes. Otherwise, we do not collect or store your personal responses.</p>
-<h1 class="heading2"><a name="contests" id="contests"></a>Contests</h1>
-<p class="bodysub">When we run a contest, we may ask for personal information when you enter the contest. If so, we will describe in each instance why we are asking for that personal information and how we plan to use that information.</p>
-<h1 class="heading2"><a name="children" id="children"></a>Children</h1>
+<h1 class="heading2"><a name="contests" id="contests"></a><a name="children" id="children"></a>Children</h1>
 <p class="bodysub">We will not knowingly allow children under the age of 13 to register on our site for any purpose or to access any features that require registration. We require visitors to indicate their year of birth to register. If we learn that we inadvertently have collected identifying personal information from a child under the age of 13, we will promptly delete that information from our system.</p>
 <h1 class="heading2"><a name="search" id="search"></a>Search Functions</h1>
 <p class="bodysub">We do not collect information about searches that you perform on our site.</p>
@@ -1173,7 +943,7 @@
 <div style="display: none;"><dmt_name>dmtContent<dmt_name></dmt_name></dmt_name></div>
 </div>
                                 
-<!-- TIMER 2012-04-04 08:39:52.000: ** ihtIH - after exploding chrome template ** --><div class="bodygray">Last updated September 04, 2012</div>
+<!-- TIMER 2012-04-04 08:39:52.000: ** ihtIH - after exploding chrome template ** --><div class="bodygray"><meta itemprop="datePublished" content="2012-09-04">Last updated September 04, 2012</div>
                                       <br>
                                       <br>
                                       </td>
@@ -1207,8 +977,7 @@
                                                         </td>
                                                         <td>
                                                             <div class="bodyfooter">
-                                                                <a class="third" onclick="popup('Aetna+InteliHealth%27s+Privacy+Policy','InteliHealth+is+a+leader+in+setting+ethical+standards+for+Internet+consumer+health+Web+sites.+InteliHealth+is+a+founding+member+of+Hi-Ethics%2C+a+coalition+of+the+most+widely+used+Internet+health+sites.' );" href="#"><img width="22" vspace="0" hspace="0" height="15" border="0" align="left" alt="Send this to a friend" src="/sites/default/files/aetnaihcmsresource/images/SendFriend.gif">Send this page to a friend</a>
-                                                            </div>
+                                                                </div>
                                                         </td> 
                                                         </tr> 
                                                     </tbody>
@@ -1632,7 +1401,7 @@
 								<tbody><tr>
 									<td>
 										<div class="footer">
-											1996-2013. Aetna Inc. All rights reserved. All information is
+											1996-2014. Aetna Inc. All rights reserved. All information is
 											intended for your general knowledge only and is not a
 											substitute for medical advice or treatment for specific
 											medical conditions. You should seek prompt medical care for
