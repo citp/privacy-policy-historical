@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the virgin.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206094137id_/http%3A//www.virgin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virgin.com privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621040451id_/http%3A//www.virgin.com/privacy-policy) for the most accurate reproduction.*
 
-# Virgin - Privacy Policy
+# Privacy Policy - Virgin.com
 
 If you would like to go straight to our cookie information, click here.
 
