@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jetblue.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222000747id_/http%3A//www.jetblue.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jetblue.com privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621020906id_/https%3A//www.jetblue.com/legal/privacy) for the most accurate reproduction.*
 
 # JetBlue | Privacy Policy
 
