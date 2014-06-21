@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eastman.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216125938id_/http%3A//www.eastman.com/Pages/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eastman.com privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621034712id_/http%3A//www.eastman.com/Pages/Privacy_Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -19,7 +19,3 @@ Our website may contain "links" to other sites, and we cannot and are not respon
 Eastman takes reasonable precautions to keep all information obtained from our online visitors secure against unauthorized access and use and we periodically review our security measures in an effort to ensure your privacy. We will not, without your permission, give, sell or provide to others for a fee any information that you provide to us, except as set forth herein. We will always ask for and obtain your permission before sharing your information with anyone other than Eastman Chemical Company subsidiaries and affiliates, unless we believe in good faith that the law requires our Company to do so.
 
 If you wish to verify any voluntary information collected about you, or if you wish to be removed from our site database, please contact us at [ebushelp@eastman.com](mailto:ebushelp@eastman.com).
-
-**Solutia Inc., a subsidiary of Eastman Chemical Company,  Safe Harbor Information**
-
-[View information](https://web.archive.org/Company/Documents/SolutiaIncSafeHarborPolicy.pdf) regarding the Safe Harbor principles that govern the transfer of data in the Solutia Inc.businesses.
