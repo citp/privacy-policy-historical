@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naturalhairmag.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221022538id_/http%3A//www.naturalhairmag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturalhairmag.com privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621153827id_/http%3A//www.naturalhairmag.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Natural Hair Mag
 
@@ -6,7 +6,7 @@ Natural Hair Mag (Company, we, us or our) takes steps to ensure it meets privacy
 
 By using this Site, you expressly and affirmatively consent to our use and disclosure of the information that you provide, as described below. If you do not agree with this Privacy Policy please do not provide us any information and do not use this Site.
 
-Please review thisPrivacyStateperiodically as we may update it from time to time.
+Please review this Privacy Statement periodically as we may update it from time to time.
 
 PERSONAL INFORMATION WE COLLECT
 
@@ -14,12 +14,7 @@ Natural Hair Mag and its agents and representatives collect personal information
 
 Personal Information we collect includes:
 
-Name, address, email address, telephone number, cell phone number and other business and/or residential contact information;  
-Financial information such as credit card or bank account numbers and other financial information required to complete a transaction;  
-Transactional information based on your activities on the Site (including bids, purchases and shipping information);  
-Information or comments you provide to us on the Site or otherwise or that you provide to others via the Site;  
-Registration information, statistics on page views, traffic to and from the Site, and other information, including IP address and standard web log information; and  
-Such other information we may collect with consent or as permitted or required by law.
+Name, address, email address, telephone number, cell phone number and other business and/or residential contact information; Financial information such as credit card or bank account numbers and other financial information required to complete a transaction; Transactional information based on your activities on the Site (including bids, purchases and shipping information); Information or comments you provide to us on the Site or otherwise or that you provide to others via the Site; Registration information, statistics on page views, traffic to and from the Site, and other information, including IP address and standard web log information; and Such other information we may collect with consent or as permitted or required by law.
 
 Please note that nowhere on the Site do we knowingly collect personal information from children under the age of 13.
 
@@ -27,17 +22,7 @@ USE OF PERSONAL INFORMATION OR DATA
 
 Our primary purpose in collecting personal information is to facilitate your use of the Site and the services that we provide. You agree that we may use your personal information for the following purposes:
 
-Identification and verification;  
-Establishment and maintenance of our relationship with you;  
-Process transaction #(including billing and shipping) and provide customer support to you;  
-Protect you, and us, against error and fraud;  
-Prevent potentially prohibited or illegal activities, and enforce our Terms of Use;  
-Customize, measure and improve our services and the Sites content and layout;  
-Marketing (i.e., tell you about targeted marketing, service updates, and promotional offers based on your communication preferences);  
-Compare information for accuracy and verify it with third parties  
-Maintaining business records for reasonable periods, and generally managing and administering our business;  
-Meeting legal, regulatory, insurance, security and processing requirements; and  
-Otherwise with consent or as permitted or required by law.
+Identification and verification; Establishment and maintenance of our relationship with you; Process transaction #(including billing and shipping) and provide customer support to you; Protect you, and us, against error and fraud; Prevent potentially prohibited or illegal activities, and enforce our Terms of Use; Customize, measure and improve our services and the Sites content and layout; Marketing (i.e., tell you about targeted marketing, service updates, and promotional offers based on your communication preferences); Compare information for accuracy and verify it with third parties Maintaining business records for reasonable periods, and generally managing and administering our business; Meeting legal, regulatory, insurance, security and processing requirements; and Otherwise with consent or as permitted or required by law.
 
 See the section on  Your Consent below regarding how to decline consent to marketing purposes.
 
@@ -47,12 +32,7 @@ We may disclose personal information to process transactions, facilitate events 
 
 We may also share your personal information with:
 
-Members of our corporate family including affiliates in order to provide services and to help detect and prevent potentially illegal acts;  
-Venues, promoters, artists, artists representatives, fan clubs, and others that are involved in, produce and bring you events (Event Providers);  
-Service providers who facilitate our operations (i.e., internet providers, credit card processors, marketing agencies, collection agencies, affiliate and rewards programs and co-branded credit cards);  
-other third parties to whom you explicitly ask us to send your information; (or about whom you are otherwise explicitly notified and consent to when using a specific service);  
-law enforcement or other governmental officials, in response to a verified request relating to a criminal investigation or alleged illegal activity; and  
-other business entities in connection with financing, securitization, insuring, sale, assignment or other disposal of all or part of Company or our business or assets, including for the purposes of: permitting such parties to determine whether to proceed or continue with such transaction (in the event that all or part of Company or our business or assets is sold, assigned or otherwise disposed of, personal information we have collected will be used and disclosed by such parties for substantially the same purposes as described in this Policy).
+Members of our corporate family including affiliates in order to provide services and to help detect and prevent potentially illegal acts; Venues, promoters, artists, artists representatives, fan clubs, and others that are involved in, produce and bring you events (Event Providers); Service providers who facilitate our operations (i.e., internet providers, credit card processors, marketing agencies, collection agencies, affiliate and rewards programs and co-branded credit cards); other third parties to whom you explicitly ask us to send your information; (or about whom you are otherwise explicitly notified and consent to when using a specific service); law enforcement or other governmental officials, in response to a verified request relating to a criminal investigation or alleged illegal activity; and other business entities in connection with financing, securitization, insuring, sale, assignment or other disposal of all or part of Company or our business or assets, including for the purposes of: permitting such parties to determine whether to proceed or continue with such transaction (in the event that all or part of Company or our business or assets is sold, assigned or otherwise disposed of, personal information we have collected will be used and disclosed by such parties for substantially the same purposes as described in this Policy).
 
 We take reasonable measures to ensure that your personal information collected, used, disclosed or otherwise processed by affiliates and third parties is protected and not used or disclosed for purposes other than as directed by us, subject to requirements in foreign jurisdictions applicable to those organizations. Note that some of these jurisdictions do not have personal information protection laws equivalent to those in theUnited States.
 
