@@ -1,30 +1,59 @@
-> *The following text is extracted and transformed from the tga.gov.au privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211233038id_/http%3A//www.tga.gov.au/about/website-privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tga.gov.au privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621214811id_/http%3A//www.tga.gov.au/about/website-privacy.htm) for the most accurate reproduction.*
 
-# Privacy & security
+# Privacy
 
-## Privacy statement
+## Privacy information
 
-The Australian Department of Health and Ageing is committed to protecting your privacy in accordance with the [Privacy Commissioner's Guidelines for Federal and ACT Government World Wide Websites](http://www.privacy.gov.au/internet/web/index.html "link to the Privacy Commissioner's website"). The guidelines set out the requirements for transparent collection, appropriate and ethical use and secure storage of personal information. Our aim is to provide an online environment which will ensure the information you provide to us is handled in a secure, efficient and confidential manner.
+The TGA collects a variety of personal information in the course of performing its functions.
 
-## Information collection and privacy protection
+Personal information is defined in the Privacy Act 1988 (Cth) (Privacy Act). Your personal information is protected by law under the Privacy Act, which contains Australian Privacy Principles. For more information, see the [Office of the Australian Information Commissioner website](http://www.oaic.gov.au/news-and-events/news/privacy-news "link to the OAIC website").
 
-This statement outlines our information gathering and dissemination practices for this website. The Department is subject to the Privacy Act 1988 and these practices have been developed for the purpose of complying with that Act (a copy of the Act is available at [ComLaw](http://www.comlaw.gov.au/ "link to the ComLaw website"). Any information you provide to the Department will only be used for the purpose for which you provide it and will not be disclosed to any other party unless your written consent has been obtained.
+The TGA is part of the Australian Government Department of Health.
 
-## Your email address
+The [Department of Health's Privacy Policy](http://www.health.gov.au/internet/main/publishing.nsf/content/privacy-policy "link to the Health website") contains information about:
 
-The Department of Health and Ageing will only record your email address if you send us a message by email, or if you register requesting notifications by email. If you do not want your email address to be recorded by the Department, you can send a postal mail or facsimile to the address below. Your email address will only be used for the purpose for which you have provided it, and will not be added to any mailing lists without your prior consent by way of a specific request in writing. We will not use or disclose your email address for any other purpose, without your prior written consent.
+  * How you may access your personal information and seek correction of it.
+  * How you can complain about a breach of the Australian Privacy Principles and how the Department will deal with that complaint.
+
+
+
+In particular, the TGA collects personal information in relation to its key functions of approving therapeutic goods for supply in Australia and licensing Australian manufacturers of therapeutic goods. The TGA uses personal information for these functions, including the following:
+
+### Personal information in applications relating to placing goods in the ARTG or entries in the ARTG
+
+  * The TGA collects personal information in applications to place therapeutic goods in the [Australian Register of Therapeutic Goods](https://web.archive.org/industry/artg.htm), and in associated and ancillary applications in relation to Registration of therapeutic goods (for example to vary entries for goods already in the Register, for a proposed name for a chemical substance, for a conformity assessment certificate for medical devices).
+  * The personal information is used to maintain a record of these applications, to consider the applications, and to contact applicants about their application(s).
+  * Personal information provided in applications may also be used to contact sponsors of goods in the Register where there is a need to do so - for example, in the event of a safety, quality or efficacy issue concerning the goods, or to administer fees and payments relating to the goods.
+  * Personal information relating to sponsors of therapeutic goods may be disclosed where authorised or required by an Australian law, Court or Tribunal order; or with the consent of the person the information is about.
+  * Manufacturing licences.
+
+
+
+### Personal information in applications relating to manufacturing licences
+
+  * The TGA collects personal information in applications for Australian manufacturing licences, and associated applications such as to vary existing manufacturing licences.
+  * The personal information is used to maintain a record of manufacturing licence applications, to consider applications, and to contact applicants about their application.
+  * Personal information provided in applications may also be used to contact sponsors or manufacturers of goods in the Register where there is a need to do so - for example, in the event of a safety, quality or efficacy issue concerning the manufacture of certain goods, or to administer fees and payments relating to the licence.
+  * Personal information relating to holders of licences to manufacture therapeutic goods may be disclosed where authorised or required by an Australian law, Court or Tribunal order; or with the consent of the person the information is about.
+
+
+
+### Other information
+
+Other information about how the TGA uses personal information for its other functions is available on the parts of the TGA website that refer to those functions, or on specific forms that collect the information.
+
+Top of page
 
 ## Cookies
 
-The Department of Health and Ageing uses 'cookies' for maintaining contact with a user through a website session. A cookie is a small file supplied by the Department, and stored by the web browser software on your computer when you access our site. (An explanation of cookies can be found at the website of the [Privacy Commissioner](http://www.privacy.gov.au/internet/internet_privacy/#2.1 "link to the Privacy Commissioner's website"). Cookies allow us to recognise you as an individual web user, as you browse our website.
+The Department of Health uses 'cookies' for maintaining contact with a user through a website session. A cookie is a small file supplied by the Department, and stored by the web browser software on your computer when you access our site. Cookies allow us to recognise you as an individual web user, as you browse our website. Two cookie types may be used by this website:
 
-### Session cookies
-
+  1. **Session cookies**  
 These exist only for the duration of a web browser session with a particular website/host. All cookies will be immediately lost when you end your internet session or shut down your computer. Our copy of your information will be automatically deleted twenty minutes after you last used the system. This information is only used to help you use our website systems more efficiently, not to track your movements through the internet, or to record private information about you.
-
-### Persistent cookies
-
+  2. **Persistent cookies**  
 These exist for a defined period of time (usually beyond the termination of the current session) before expiring.
+
+
 
 ### Privacy
 
@@ -34,7 +63,7 @@ No personally identifiable information is stored within cookies used by this web
 
 Any system on this website that records information about you, will specifically ask your permission first.
 
-When you visit this site, the Department of Health and Ageing makes a record of your visit and logs the following information for statistical or systems administration purposes:
+When you visit this site, the Department of Health makes a record of your visit and logs the following information for statistical or systems administration purposes:
 
   * the user's server address 
   * the user's top level domain name 
@@ -53,17 +82,11 @@ No attempt will be made to identify users or their browsing activities unless le
 
 This website contains links to other sites. The Australian Government is not responsible for the privacy practices of any third parties nor are they responsible for the material contained in a website that is linked to this site.
 
-## Security
-
-The Department of Health and Ageing applies a range of security controls to protect its website from unauthorised access. However, users should be aware that the World Wide Web is an insecure public network that gives rise to a potential risk that a user's transactions are being viewed, intercepted or modified by third parties or that files which the user downloads may contain computer viruses, disabling codes, worms or other devices or defects. If you do not wish to email or send an online form to the Department, you can send a postal mail to the address below.
-
-The Commonwealth accepts no liability for any interference with or damage to a user's computer system, software or data occurring in connection with or relating to this web site or its use. Users are encouraged to take appropriate and adequate precautions to ensure that whatever is selected from this site is free of viruses or other contamination that may interfere with or damage the user's computer system, software or data.
-
 ## Queries, concerns and further information
 
 If you have any queries, concerns or require further information relating to privacy and the Therapeutic Goods Administration, please email the TGA at: [info@tga.gov.au](mailto:info@tga.gov.au).
 
-If you have concerns about emailing this site, please use our postal addresses and write to:
+If you have concerns about emailing this site, please use our postal address and write to:
 
 Therapeutic Goods Administration  
 PO Box 100  
@@ -72,10 +95,10 @@ Australia
 
 Top of page
 
-Content last updated: Wednesday, 28 August 2013
+Content last updated: Wednesday, 12 March 2014
 
-Content last reviewed: Wednesday, 28 August 2013
+Content last reviewed: Wednesday, 12 March 2014
 
-Web page last updated: Wednesday, 28 August 2013
+Web page last updated: Wednesday, 12 March 2014
 
 URL: http://www.tga.gov.au/about/website-privacy.htm
