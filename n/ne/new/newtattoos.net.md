@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newtattoos.net privacy policy that was archived on 2013-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131108142530id_/http%3A//www.newtattoos.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newtattoos.net privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621060401id_/http%3A//www.newtattoos.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | New Tattoos Ideas
 
