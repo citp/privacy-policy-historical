@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icicibank.co.uk privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808180247id_/http%3A//www.icicibank.co.uk/personal/faqs/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icicibank.co.uk privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621190352id_/http%3A//www.icicibank.co.uk/personal/faqs/privacy-policy.html) for the most accurate reproduction.*
 
 # ICICI Bank UK – retail, business, corporate and investment banking
 
@@ -39,7 +39,7 @@ We will not disclose any of your information outside the Group except:
 
 
 
-Please contact us at 08081 31 41 51 (freephone from a UK landline) if you want to receive details of the relevant fraud prevention agencies. 
+Please contact us at 0844 412 4444 (calls cost 5 pence per minute plus your phone company's access charge) if you want to receive details of the relevant fraud prevention agencies. 
 
   * to government entities and regulatory bodies in order that those entities may discharge their responsibilities and obligations or exercise their powers or functions.
   * To persons who act as our agents and service providers. Where we use agents and service providers this will be under a strict code of confidentiality and we will ensure that they have adequate security measures in place to safeguard your information; 
@@ -104,7 +104,7 @@ Persistent / Session
 
 These cookies are used by Google Analytics and give us information about how visitors use our website. The cookies collect information in an anonymous form, including the number of visitors to the site, how visitors were directed to the website, and the pages they have visited. They are used across _[www.icicibank.co.uk](http://www.icicibank.co.uk/)_ and _[www.onlinetravelmoney.co.uk](http://www.onlinetravelmoney.co.uk/)_ .
 
-Click here for an overview of the privacy policy at Google ([http://www.google.co.uk/intl/en/analytics/privacyoverview.html](https://web.archive.org/web/20130808180247id_/http%3A//www.icicibank.co.uk/personal/faqs/cookies_google_popup.html?&height=300&width=500&modal=true "Cookies"))  
+Click here for an overview of the privacy policy at Google ([http://www.google.co.uk/intl/en/analytics/privacyoverview.html](https://web.archive.org/web/20140621190352id_/http%3A//www.icicibank.co.uk/personal/faqs/cookies_google_popup.html?&height=300&width=500&modal=true "Cookies"))  
   
 REALURLMEDOC%23onlinetravelmoney
 
@@ -116,7 +116,7 @@ Persistent / Session
 
 This cookie is required for completing e-commerce transactions on www.onlinetravelmoney.co.uk.  
   
-You may refuse to accept cookies by activating the setter on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site. Please note that our advertisers may also use cookies over which we have no control. For information on how to control and/or disable your cookies please [click here](https://web.archive.org/web/20130808180247id_/http%3A//www.icicibank.co.uk/personal/faqs/cookies_popup.html?&height=300&width=500&modal=true "Cookies")
+You may refuse to accept cookies by activating the setter on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site. Please note that our advertisers may also use cookies over which we have no control. For information on how to control and/or disable your cookies please [click here](https://web.archive.org/web/20140621190352id_/http%3A//www.icicibank.co.uk/personal/faqs/cookies_popup.html?&height=300&width=500&modal=true "Cookies")
 
 Telephone banking 
 
