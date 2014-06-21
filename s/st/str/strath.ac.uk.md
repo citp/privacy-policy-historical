@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the strath.ac.uk privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209100940id_/http%3A//www.strath.ac.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strath.ac.uk privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621131958id_/http%3A//www.strath.ac.uk/privacy) for the most accurate reproduction.*
 
 # Privacy & Cookies - University of Strathclyde
 
@@ -30,7 +30,7 @@ Information is gathered from clients via the methods outlined below:
 
 ### 1\. Log Files
 
-The University of Strathclyde's central web server ([www.strath.ac.uk](http://www.abdn.ac.uk/)) tracks requests made of it to centrally held log files. Log files can contain any or all of the following types of data:
+The University of Strathclyde's central web server ([www.strath.ac.uk](http://www.strath.ac.uk/)) tracks requests made of it to centrally held log files. Log files can contain any or all of the following types of data:
 
   * date and time of connection
   * identification of the file(s) requested
