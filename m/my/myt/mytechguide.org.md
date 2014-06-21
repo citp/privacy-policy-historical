@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mytechguide.org privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202150957id_/http%3A//mytechguide.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytechguide.org privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621082111id_/http%3A//www.mytechguide.org/privacy-policy) for the most accurate reproduction.*
 
 # My Technology Guide Privacy Policy
 
-[Privacy Policy](http://www.mytechguide.org/wp-content/uploads/2009/07/511238 "Privacy Policy")
+[Privacy Policy](http://oncdn.mytechguide.org/wp-content/uploads/2009/07/511238 "Privacy Policy")
 
-Our Privacy Policy was last updated and posted on May 29, 2013. It governs the privacy terms of our Website, located at http://www.mytechguide.org. Any capitalized terms not defined in our Privacy Policy, have the meaning as specified in our [Terms of Service](http://www.mytechguide.org/wp-content/uploads/2009/07/terms-and-conditions).
+Our Privacy Policy was last updated and posted on May 29, 2013. It governs the privacy terms of our Website, located at http://www.mytechguide.org. Any capitalized terms not defined in our Privacy Policy, have the meaning as specified in our [Terms of Service](http://cdn.mytechguide.org/wp-content/uploads/2009/07/terms-and-conditions).
 
 **Your Privacy**  
 My Technology Guide follows all legal requirements to protect your privacy. Our Privacy Policy is a legal statement that explains how we may collect information from you, how we may share your information, and how you can limit our sharing of your information. You will see terms in our Privacy Policy that are capitalized. These terms have meanings as described in the Definitions section below.
@@ -27,10 +27,10 @@ Our Website uses “Cookies” to identify the areas of our Website that you hav
   * **DoubleClick Cookie**  
 Google, as a third party vendor, uses cookies to serve ads on our Website. Google’s use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Website or other sites on the Internet. 
 
-As a user of our Website, you may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting the [Ads Preference Manager](http://www.mytechguide.org/wp-content/uploads/2009/07/preferences "Ads Preference Manager").
+As a user of our Website, you may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting the [Ads Preference Manager](http://oncdn.mytechguide.org/wp-content/uploads/2009/07/preferences "Ads Preference Manager").
 
   * **Third Party Advertising:**  
-We use third-party companies to serve ads and collect non-personally identifiable information (e.g., the pages you visit, and which links you click, which ads you see and click on, and the categories of search terms you enter) when you visit our web site. These companies may use the information outlined above (which does not include your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. These companies often use a cookie or third party web beacon to collect this information. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.mytechguide.org/wp-content/uploads/2009/07/opt_out.asp) (link to the NAI universal user opt-out).
+We use third-party companies to serve ads and collect non-personally identifiable information (e.g., the pages you visit, and which links you click, which ads you see and click on, and the categories of search terms you enter) when you visit our web site. These companies may use the information outlined above (which does not include your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. These companies often use a cookie or third party web beacon to collect this information. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://oncloud.mytechguide.org/wp-content/uploads/2009/07/opt_out.asp) (link to the NAI universal user opt-out).
   * **Third Party Tracking Tools**  
 We also use third party tracking tools to improve the performance and features of our Website. These third party tracking tools are designed to collect only Non-Personal Information about your use of our Website. However, you understand that such tools are created and managed by parties outside our control. As such, we are not responsible for what information is actually captured by such third parties or how such third parties use and protect that information.
   * **Automatic Information**  
@@ -65,4 +65,4 @@ Our affiliates and we fully comply with national laws regarding SPAM. You can al
 We reserve the right to modify this Privacy Policy at any time. You should review this Privacy Policy frequently. If we make material changes to this policy, we may notify you on our Website, by a blog post, by email, or by any method we determine. The method we chose is at our sole discretion. We will also change the “Last Updated” date at the beginning of this Privacy Policy. Any changes we make to our Privacy Policy are effective as of this Last Updated date and replace any prior Privacy Policies.
 
 **Questions About Our Privacy Practices or This Privacy Policy**  
-If you have any questions about our Privacy Practices or this Policy, please [contact us](http://www.mytechguide.org/wp-content/uploads/2009/07/contact).
+If you have any questions about our Privacy Practices or this Policy, please [contact us](http://cdn.mytechguide.org/wp-content/uploads/2009/07/contact).
