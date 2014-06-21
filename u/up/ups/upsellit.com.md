@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the upsellit.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213222313id_/http%3A//www.upsellit.com/policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upsellit.com privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621081618id_/http%3A//www.upsellit.com/policy.jsp) for the most accurate reproduction.*
 
-# Latest News | Cart Abandonment | Email Remarketing | Automated Chat | Site Abandonment | UpSellit.com
+# UpSellit | Privacy Policy
 
 UpSellit Privacy Policy
 
@@ -20,8 +20,6 @@ If you provide us your email address for any reason, we may, from time to time, 
 
 Naturally, should you purchase a product or service from us, we will require sufficient information from you so that we can complete the transaction. Such information could include a credit card number and related account and billing information, invoice related information, and other data required for processing the order. We will also update such data should you grant us permission to bill you or your credit card for recurring charges, such as monthly or other types of periodic payments. All information of this nature is maintained by us in a secure database and transmitted across the Internet from you to us using secured transmission encryption.
 
-We protect our customers' data from loss, misuse, unauthorized access, alteration, or destruction on secure servers and utilize unique usernames with required passwords to ensure our customers only view their own data.
-
 We will never reveal any information you provided us nor information in your commercial use of our services as described above to any third party or entity for any reason except under the following circumstances:
 
 If a governmental agency, or court, subpoenas your private information, or makes a formal request for discovery pursuant to any legal action, or pending legal action.
@@ -35,5 +33,8 @@ Westlake Village, CA 91362
 
 You may phone us:  
 1-866-504-9619
+
+You may email us:  
+info@upsellit.com
 
 We may modify this Privacy Policy without prior notice to you. By visiting our website and/or using our products or services, you agree to inform yourself of modifications to our Privacy Policy by reviewing it on our website from time to time.
