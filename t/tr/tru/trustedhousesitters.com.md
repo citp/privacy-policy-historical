@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trustedhousesitters.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222153048id_/http%3A//www.trustedhousesitters.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustedhousesitters.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622005451id_/http%3A//www.trustedhousesitters.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TrustedHousesitters.com
 
@@ -8,7 +8,7 @@ We are committed to protecting and respecting your privacy. This Privacy Policy 
 
 This Privacy Policy sets out the basis on which any personal data we collect from you, or that you provide to us including personal information (together, "Information"), will be processed by us. Please read the following carefully to understand our practices regarding your personal Information and how we will treat it. If you do not agree with this Privacy Policy, please do not use our site.
 
-Data Controller: For the purposes of the Data Protection Act 1998 (the Act), the data controller is [TrustedHouseSitters](https://web.archive.org/web/20131222153048id_/) Limited.
+Data Controller: For the purposes of the Data Protection Act 1998 (the Act), the data controller is [TrustedHouseSitters](https://web.archive.org/web/20140622005451id_/) Limited.
 
 Information we may collection from you: Please do not submit your personal information to us if you are not agreeable to our collection of it. By using our site you are agreeing that we may collect and process the following Information about you (without limitation):
 
@@ -46,6 +46,8 @@ Your rights: You have the right to ask us not to use your Information for ongoin
 Email marketing: We agree not to sell, distribute, or otherwise share the information we recevie from the email extension with anyone.   The only exception is that we may share the information with a parent, subsidiary, or third-party vendor solely for the administrative purpose of completing the transaction that the user has specifically requested, and only then if the parent, subsidiary, or vendor also has agreed to abide by this agreement.We clearly communicate to users what information will be collected and how and why it will be used. Our website and any marketing materials clearly communicates to users how they can unsubscribe or opt of receiving further marketing communications from us. 
 
 Third party privacy policies: Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any Information to these websites.
+
+Trustedhousesitters.com uses the Google Maps API for some location based services, it's privacy policy can be viewed at [http://www.google.com/privacy.html](http://www.google.com/policies/privacy/)
 
 Access to Information: The Data Protection Act 1998 gives you the right to access Information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the Information we hold about you.
 
