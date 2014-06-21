@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the harrietcarter.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121105142id_/http%3A//www.harrietcarter.com/index.cfm/fuseaction/content.page/nodeID/6c002c72-34ac-4daa-99fc-cf3be2f16786) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harrietcarter.com privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621161020id_/http%3A//www.harrietcarter.com/index.cfm/fuseaction/content.page/nodeID/6c002c72-34ac-4daa-99fc-cf3be2f16786) for the most accurate reproduction.*
 
-# HarrietCarter.com: Privacy Statement
+# Privacy Statement | HarrietCarter.com
 
 HarrietCarter.com has created this privacy statement because we believe you have a right to a safe, secure online shopping experience. We are committed both to protecting your privacy and informing you how information from you will be used. If you still have concerns or questions after reading this policy, please let us know. We'll do all we can to make you feel comfortable at HarrietCarter.com.
 
