@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cricket365.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220010827id_/http%3A//www.cricket365.com/basket/14783/story/3640093) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cricket365.com privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621020011id_/http%3A//www.cricket365.com/basket/14783/story/3640093) for the most accurate reproduction.*
 
 # Cricket365 Privacy Policy | Cricket365 | Cricket News
 
