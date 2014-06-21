@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the topcashback.co.uk privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231142417id_/http%3A//www.topcashback.co.uk/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topcashback.co.uk privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621030205id_/http%3A//www.topcashback.co.uk/Privacy) for the most accurate reproduction.*
 
 # Top Cashback - Privacy
 
-TopCashBack treats member’s privacy very seriously and we do all that we can to ensure that the data held on our members is protected and used correctly. 
+TopCashback treats member’s privacy very seriously and we do all that we can to ensure that the data held on our members is protected and used correctly. 
 
 The privacy policy below details what information we hold on you as a member of Top CashBack and the ways in which we use this information. 
 
@@ -30,7 +30,7 @@ We do not pass users' personal data on to third parties, unless specifically req
 
 On rare occasions personal data may also be disclosed if we are requested to do so by law, or receive a valid request for its disclosure – for example fraud prevention measures. These details passed on will not be used for marketing or any other purposes. 
 
-Member usernames & basic related statistics may occasionally be exposed, where a person has followed your referral link they may see your username when they follow the link. A members balance where the member was referred to TopCashBack and is under the referral threshold amount (currently £10.00) may be visible to the referring member. Account balances are only displayed until you reach the referral threshold (currently £10.00). Once this is reached your account balance will no longer be visible. 
+Member usernames & basic related statistics may occasionally be exposed, where a person has followed your referral link they may see your username when they follow the link. A members balance where the member was referred to TopCashback and is under the referral threshold amount (currently £10.00) may be visible to the referring member. Account balances are only displayed until you reach the referral threshold (currently £10.00). Once this is reached your account balance will no longer be visible. 
 
 Top CashBack may use data on your purchase/click behaviour to send/display deals which we believe will be of interest to you. You can opt out of receiving these communications within your account settings. 
 
@@ -54,7 +54,7 @@ We recommend that all users enable cookies in their browsers in order to make fu
 
 For more information regarding the use of cookies, please visit [http://www.allaboutcookies.org](http://www.allaboutcookies.org/) or <http://www.microsoft.com/info/cookies.mspx>
 
-Cookies are used by TopCashBack to perform the below functions: 
+Cookies are used by TopCashback to perform the below functions: 
 
 1\. To track your transactions. When you make a purchase on a merchant's site it is third party cookies used by our tracking agency that give us the information to track your cashback. Specifically it tells us which retailer's site you've clicked through to and when. If you've made a purchase this cookie will be used by the merchant to recognise Top CashBack as the referrer and hence report the relevant cashback to us.
 
@@ -104,7 +104,7 @@ Users may request this information by using our ‘Contact Us’ form. There may
 
 ## COMPANY DETAILS
 
-UKC Systems Ltd – Trading as TopCashBack. is a company registered in England and Wales, under company registration number 5336020 and having its registered address as:   
+UKC Systems Ltd – Trading as TopCashback. is a company registered in England and Wales, under company registration number 5336020 and having its registered address as:   
 St George's House  
 19 Church Street  
 Uttoxeter  
