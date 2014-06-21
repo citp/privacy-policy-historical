@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ahalogy.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125230321id_/http%3A//www.ahalogy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahalogy.com privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621104518id_/http%3A//www.ahalogy.com/privacy) for the most accurate reproduction.*
 
 # Ahalogy | Privacy Policy
 
@@ -6,7 +6,7 @@ Please read this privacy policy carefully before visiting or using the website.
 
 #### Ahalogy's Thoughts on Privacy
 
-MLW Squared, LLC (“Ahalogy”), has created this privacy statement in order to demonstrate its commitment to privacy. We urge you to read the entire privacy policy so you will understand all of the practices and procedures we follow relating to your on- line privacy.
+MLW Squared, Inc. (“Ahalogy”), has created this privacy statement in order to demonstrate its commitment to privacy. We urge you to read the entire privacy policy so you will understand all of the practices and procedures we follow relating to your on- line privacy.
 
 #### What This Privacy Policy Covers
 
