@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expertlaw.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204053320id_/http%3A//www.expertlaw.com/terms.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expertlaw.com privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621035357id_/http%3A//www.expertlaw.com/terms.html) for the most accurate reproduction.*
 
 # ExpertLaw - Terms of Use and Privacy Policy - Expert Witness, Expert Witnesses.
 
