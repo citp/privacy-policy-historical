@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the freeonlinegames.com privacy policy that was archived on 2013-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130923074341id_/http%3A//www.freeonlinegames.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeonlinegames.com privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621044904id_/http%3A//www.freeonlinegames.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Play Addicting Games on Free Online Games (FOG.COM)
-
-## Privacy Policy
+# Privacy Policy - Free Online Games at FOG.COM
 
 We want our users to always be aware of any information we collect, how we use it, and under what circumstances, if any, we disclose it. 
 
@@ -22,7 +20,7 @@ Registration is not required to enter our site. However, subscription to certain
 
   * Google, as a third-party vendor, uses cookies to serve ads on your site.
   * Google's use of the DART cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.co.uk/privacy_ads.html). 
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.co.uk/privacy_ads.html).
 
 
 
@@ -33,6 +31,4 @@ We are committed to resolving disputes within 24-48 hours. If problems arise, us
 If site users have any questions or suggestions regarding our privacy policy, please contact us via our [contact page](https://web.archive.org/contact/). 
 
 For the amusement and greater good of all the gamers of FreeOnlineGames.com:  
-We reserve the right to alter, delete, jump on, kick, smackdown, nuke or do with the reviews whatever we please. If you have any objections with that, please refrain from posting - thank you. 
-
-[ ](https://web.archive.org/avatar)
+We reserve the right to alter, delete, jump on, kick, smackdown, nuke or do with the reviews whatever we please. If you have any objections with that, please refrain from posting - thank you.
