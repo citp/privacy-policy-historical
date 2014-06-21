@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upmchealthplan.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209222031id_/http%3A//www.upmchealthplan.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upmchealthplan.com privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621101045id_/http%3A//www.upmchealthplan.com/privacy.html) for the most accurate reproduction.*
 
 # UPMC Health Plan | Privacy Statement & HIPAA Forms
 
@@ -48,7 +48,7 @@ Specific inquiries about this statement regarding HIPAA readiness and compliance
 >  600 Grant Street   
 >  Pittsburgh, PA 15219   
 >  Email: [HealthPlanHIPAAOffice@msx.upmc.edu](mailto:HealthplanHIPAAOffice@msx.upmc.edu)  
->  [Click here for general inquires about UPMC Health Plan](https://web.archive.org/web/20131209222031id_/http%3A//www.upmchealthplan.com/contact.html)
+>  [Click here for general inquires about UPMC Health Plan](https://web.archive.org/web/20140621101045id_/http%3A//www.upmchealthplan.com/contact.html)
 
   
 
@@ -61,31 +61,31 @@ Specific inquiries about this statement regarding HIPAA readiness and compliance
 
 ### UPMC Health Plan (Commercial)
 
-  * [Notice of Privacy Practices](https://web.archive.org/web/20131209222031id_/http%3A//www.upmchealthplan.com/pdf/2014_COM_NOPP.pdf)
-  * [Personal Representative Designation Form](https://web.archive.org/web/20131209222031id_/http%3A//www.upmchealthplan.com/pdf/commercialPRD.pdf)
-  * [Member Authorization to Use/Disclose PHI](https://web.archive.org/web/20131209222031id_/http%3A//www.upmchealthplan.com/pdf/MemberPHIauth.pdf)
+  * [Notice of Privacy Practices](https://web.archive.org/web/20140621101045id_/http%3A//www.upmchealthplan.com/pdf/2014_COM_NOPP.pdf)
+  * [Personal Representative Designation Form](https://web.archive.org/web/20140621101045id_/http%3A//www.upmchealthplan.com/pdf/commercialPRD.pdf)
+  * [Member Authorization to Use/Disclose PHI](https://web.archive.org/web/20140621101045id_/http%3A//www.upmchealthplan.com/pdf/MemberPHIauth.pdf)
 
 
 
 ### UPMC _for Life_ (Medicare)
 
-  * [Notice of Privacy Practices HMO/PPO Members](https://web.archive.org/web/20131209222031id_/http%3A//www.upmchealthplan.com/pdf/2014_MC_NOPP.pdf)
-  * [Personal Representative Designation Form](https://web.archive.org/web/20131209222031id_/http%3A//www.upmchealthplan.com/pdf/MC_PersonalRepDesignation.pdf)
-  * [Member Authorization to Use/Disclose PHI](https://web.archive.org/web/20131209222031id_/http%3A//www.upmchealthplan.com/pdf/MemberPHIauth.pdf)
+  * [Notice of Privacy Practices HMO/PPO Members](https://web.archive.org/web/20140621101045id_/http%3A//www.upmchealthplan.com/pdf/2014_MC_NOPP.pdf)
+  * [Personal Representative Designation Form](https://web.archive.org/web/20140621101045id_/http%3A//www.upmchealthplan.com/pdf/MC_PersonalRepDesignation.pdf)
+  * [Member Authorization to Use/Disclose PHI](https://web.archive.org/web/20140621101045id_/http%3A//www.upmchealthplan.com/pdf/MemberPHIauth.pdf)
 
 
 
 ### UPMC _for You_ (Medical Assistance)
 
-  * [Notice of Privacy Practices](https://web.archive.org/web/20131209222031id_/http%3A//www.upmchealthplan.com/pdf/2014_MA_NOPP.pdf)
-  * [Notificación de prácticas de privacidad](https://web.archive.org/web/20131209222031id_/http%3A//www.upmchealthplan.com/pdf/2014_MA_NOPP_ES.pdf)
-  * [Уведомление о методах защиты личных данных](https://web.archive.org/web/20131209222031id_/http%3A//www.upmchealthplan.com/pdf/2014_MA_NOPP_RU.pdf)
-  * [THÔNG BÁO VỀ CHÍNH SÁCH BẢO MẬT](https://web.archive.org/web/20131209222031id_/http%3A//www.upmchealthplan.com/pdf/2014_MA_NOPP_VI.pdf)
+  * [Notice of Privacy Practices](https://web.archive.org/web/20140621101045id_/http%3A//www.upmchealthplan.com/pdf/2014_MA_NOPP.pdf)
+  * [Notificación de prácticas de privacidad](https://web.archive.org/web/20140621101045id_/http%3A//www.upmchealthplan.com/pdf/2014_MA_NOPP_ES.pdf)
+  * [Уведомление о методах защиты личных данных](https://web.archive.org/web/20140621101045id_/http%3A//www.upmchealthplan.com/pdf/2014_MA_NOPP_RU.pdf)
+  * [THÔNG BÁO VỀ CHÍNH SÁCH BẢO MẬT](https://web.archive.org/web/20140621101045id_/http%3A//www.upmchealthplan.com/pdf/2014_MA_NOPP_VI.pdf)
 
 
 
 ### UPMC _for Kids_ (Children's Health Insurance Program)
 
-  * [Notice of Privacy Practices](https://web.archive.org/web/20131209222031id_/http%3A//www.upmchealthplan.com/pdf/2014_CHIP_NOPP.pdf)
+  * [Notice of Privacy Practices](https://web.archive.org/web/20140621101045id_/http%3A//www.upmchealthplan.com/pdf/2014_CHIP_NOPP.pdf)
 
 
