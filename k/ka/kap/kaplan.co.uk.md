@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kaplan.co.uk privacy policy that was archived on 2013-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130814151347id_/http%3A//www.kaplan.co.uk/about-kaplan/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaplan.co.uk privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621064531id_/http%3A//kaplan.co.uk/about-kaplan/privacy-cookie-policy) for the most accurate reproduction.*
 
 # Kaplan in the UK Privacy | Privacy and Cookie Policy
 
@@ -32,8 +32,13 @@ We will share your personal data only with the service providers who help us run
 
 As mentioned above, we may use your email or postal address to send you information on obtaining or maintaining your professional qualification, or other services or products we or other Kaplan companies think might interest you. We also may share your data with other Kaplan companies. If you do not wish to receive such information from us or other Kaplan companies, or you do not wish us to share your data in this manner, you can let us know by emailing us at or sending your request by post to:
 
-Attention: Privacy Inquiry  
-ADDRESS GOES HERE
+Attention: Privacy Inquiry
+
+Ground Floor  
+Palace House  
+3 Cathedral Street  
+London  
+SE1 9DE
 
 ## Data registration
 
@@ -43,8 +48,13 @@ Pursuant to the Data Protection Act of 1998, Kaplan has registered as a Data Con
 
 You may review and update the personal data you have provided to us by emailing us at privacy@kaplan.co.uk, or sending your request by post to:
 
-Attention: Privacy Inquiry  
-ADDRESS GOES HERE
+Attention: Privacy Inquiry
+
+Ground Floor  
+Palace House  
+3 Cathedral Street  
+London  
+SE1 9DE
 
 ## Privacy and cookies
 
