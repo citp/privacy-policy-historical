@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cbsradio.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230182026id_/http%3A//policies.cbslocal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbsradio.com privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621160359id_/http%3A//policies.cbslocal.com/privacy) for the most accurate reproduction.*
 
 # Privacy Principles
 
 #### Transparency
 
-CBS Local Digital Media, a division of CBS Radio Inc., ("CBS Local") provides clear notice of its privacy practices through a single [Privacy Policy](https://web.archive.org/web/20131230182026id_/http%3A//policies.cbslocal.com/current.html) that is readily accessible across all CBS Local Web Sites. CBS Local also provides clear information about its [online advertising](http://policies.cbslocal.com/privacy/current.html#ad) practices. 
+CBS Local Digital Media, a division of CBS Radio Inc., ("CBS Local") provides clear notice of its privacy practices through a single [Privacy Policy](https://web.archive.org/web/20140621160359id_/http%3A//policies.cbslocal.com/current.html) that is readily accessible across all CBS Local Web Sites. CBS Local also provides clear information about its [online advertising](http://policies.cbslocal.com/privacy/current.html#ad) practices. 
 
 #### Choice
 
