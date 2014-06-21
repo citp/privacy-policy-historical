@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yokogames.com privacy policy that was archived on 2013-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131009051514id_/http%3A//www.yokogames.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yokogames.com privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621094722id_/http%3A//www.yokogames.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
