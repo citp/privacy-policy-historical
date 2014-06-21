@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the jetblue.com privacy policy that was archived on 2013-12-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131222000747id_/http%3A//www.jetblue.com/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jetblue.com privacy policy that was archived on 2014-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140621020906id_/https%3A//www.jetblue.com/legal/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js flexbox rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent" lang="en"><!--<![endif]--><head>
     
@@ -9,7 +9,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width">
     <link rel="shortcut icon" href="/favicon.ico">
-    <link rel="stylesheet" href="/css/global.css?v=1.4.8">
+    <link rel="stylesheet" href="/css/global.css?v=1.4.11">
+    <link rel="stylesheet" href="/css/Background.css">
     <link rel="stylesheet" href="/css/resolve.css">
         
     <script type="text/javascript">
@@ -21,17 +22,10 @@
             "day": 1
         };
     </script>
+    <script type="text/javascript" src="/js/util/jbconsoleprotect.js"></script>
     <script src="/js/vendor/modernizr-2.0.6.min.js"></script>
     <script type="text/javascript" src="//fonts.jetblue.com/sfh4pzq.js"></script>
     <script type="text/javascript">        try { Typekit.load(); } catch (e) { }</script>
-    <script>
-        if (location.href.indexOf('www.jetblue.com') >= 0)
-            var s_account = "jetbluecom2";
-        else
-            var s_account = "jetbluecom";
-    </script>
-  
-    <script src="/j/s_code_remote.js"></script>
     <script src="/js/mbox.js"></script><style>.mboxDefault { visibility:hidden; }</style>
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
 
@@ -44,49 +38,15 @@
         window.onload = clearSearchText;
     </script>
     <script src="/js/vendor/MP_JB_enes.js" type="text/javascript"></script>
-
-    <!--omniture tag set lang var for english motionpoint will remove and use ESP-->
-
-    <!-- mp_trans_remove_start -->
-    <script language="JavaScript" type="text/javascript">
-    
-        s.prop8 = "ENG";
-    
-    </script>
-    <!-- mp_trans_remove_end -->
-
-
-    <!-- mp_trans_add
-    <script language="JavaScript">
-    
-        s.prop8 = "ESP";
-
-    </script>
-    -->
-
-	<script language="JavaScript" type="text/javascript">
-
-	    s.server = document.domain;
-
-	    var isLoggedIn = "False";
-	    if (isLoggedIn.toLowerCase() == 'true') {
-
-	        s.eVar39 = s.prop23 = "Registered";
-	        s.eVar2 = "TrueBlue";
-	        s.eVar29 = "";
-
-	    }
-        else{
-	        s.eVar39 = s.prop23 = "Guest";
-	        s.eVar2 = "not logged in";
-	    }
-
-    </script>
-    <!--omniture tag ends--->
-    <script src="/js/metricsDelegate.js"></script>
+    <script src="/js/jbAnalytics.min.js?v=1.0"></script>
     <script type="text/javascript">
-        var JBMetrics = new metricsDelegate();
-        $(JBMetrics).trigger(JBMetrics.EVENTS.SET_PAGE_VALUES_IN_DATALAYER, [{server: "JetBlue",channel: "LEGAL",pageName: "PRIVACY",TB: false}]);
+        try {
+            var jbAnalyticsController = new AnalyticsController();
+            $(jbAnalyticsController).trigger(jbAnalyticsController.EVENTS.SET_SERVER_DATA_IN_PAGEMETRICS, [{TB: false}]);
+        }
+        catch (err) {
+            console.log(err);
+        }
     </script>
     <script src="//s.btstatic.com/tag.js">
         { site: "UXE8DVB", mode: "sync" }
@@ -154,6 +114,9 @@ padding-left: 20px;
         }
         if (baseAirportCookie == "") travelModeValue = "";
     </script>
+    <div id="bgHolder">
+        <div class="background"></div>
+    </div>
     
 <div class="jetblue-help page reset-offset st130">
 
@@ -175,7 +138,7 @@ padding-left: 20px;
                             <li class="true-blue-sign-in"><a class="sign-in" href="https://book.jetblue.com/B6.auth/login?intcmp=hd_signin&amp;service=https://www.jetblue.com/legal/privacy/default.aspx">
                                 <span>Sign In</span></a></li>
                                             
-                    <li class="soflyHeaderMaster"><a href="/SoFly/">SoFly<!--<span class="jbSocialBlueTMMasterHeader">™</span>--></a><div class="soflyHeaderNew">NEW</div></li>
+                    <li class="soflyHeaderMaster"><a href="/SoFly/">SoFly<!--<span class="jbSocialBlueTMMasterHeader">™</span>--></a><!--<div class="soflyHeaderNew">NEW</div>--></li>
                     
                     <li><a class="contact-us" href="/contact-us/">Contact us</a></li>
                     <li><a class="help" href="/help/">Help</a></li>
@@ -430,48 +393,65 @@ padding-left: 20px;
                 <ul>
                     <li class="soflyFooter">
                         <div class="inner-media">
-							<a href="/Sofly/">SoFly <span class="jbSocialBlueTMMasterFooter">™</span></a>
+							<a href="/Sofly/">
+                                <img src="/img/soflybubbleicon.png"><span>SoFly <span class="jbSocialBlueTMMasterFooter">™</span></span>
+                            </a>
 							<span>
                                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;View and share JetBlue pics and travel tricks&nbsp;								
                             </span>
-                            <div class="soflyFooterNew">NEW</div>	
+                            <!--<div class="soflyFooterNew">NEW</div>-->
                         </div>
                     </li>
                    
                     <li class="facebook">
                         <div class="inner-media">
-                            <a href="http://www.facebook.com/JetBlue" target="_blank">Like us on Facebook</a>
-                            <span>&nbsp;864,523&nbsp;like this</span>
+                            <a href="http://www.facebook.com/JetBlue" target="_blank">
+                                <img src="/img/facebookicon.png">Like us on Facebook
+                            </a>
+                            <span>&nbsp;916,339&nbsp;like this</span>
                         </div>
                     </li>
                     <li class="twitter">
                         <div class="inner-media">
-                            <a href="http://twitter.com/jetblue" target="_blank">Follow us at @JetBlue</a>
-                            <span>&nbsp;1,772,650&nbsp;followers</span>
+                            <a href="http://twitter.com/jetblue" target="_blank">
+                                <img src="/img/twittericon.png">Follow us at @JetBlue
+                            </a>
+                            <span>&nbsp;1,806,542&nbsp;followers</span>
                         </div>
                     </li>
+					<li class="instagram">
+						<div class="inner-media">
+							<a href="http://www.instagram.com/jetblue" target="_blank">
+								<img src="/img/instagramicon.png">Follow us on Instagram
+							</a>
+                            <span>&nbsp;23,271&nbsp;followers</span>
+						</div>
+					</li>
                     <li class="youtube">
                         <div class="inner-media">
-                            <a href="http://www.youtube.com/jetblue" target="_blank">Visit us on YouTube</a>
-                            <span>&nbsp;5,426,084&nbsp;total views</span>
+                            <a href="http://www.youtube.com/jetblue" target="_blank">
+                                <img src="/img/youtubeicon.png">Visit us on YouTube
+                            </a>
+                            <span>&nbsp;4,454,748&nbsp;total views</span>
                         </div>
                     </li>
                     <li class="btblog">
                         <div class="inner-media">
-                            <a href="http://blog.jetblue.com" target="_blank">BlueTales Blog</a>
+                            <a href="http://blog.jetblue.com" target="_blank">
+                                <img src="/img/bluetalesicon.png">BlueTales Blog
+                            </a>
                             <span>&nbsp;Your destination for all things JetBlue and beyond <p>&nbsp;</p></span>
                         </div>
                     </li>
                 </ul>
-            </div>
-            <!-- /.social-wrap -->
-            <div class="sitemap-wrap">
+            </div><div class="sitemap-wrap">
                 <ul>
                     <li class="list-head">Get to know us</li>
                     <li><a href="/about/">About us</a></li>
                     <li><a href="/about/pressroom/">Press room</a></li>
                     <li><a href="/about/promotions/">Promotions</a></li>
                     <li><a href="/corporate-social-responsibility/">CSR</a></li>
+					<li><a href="/green/">Sustainability</a></li>
                     <li><a href="/mobile/">Mobile</a></li>
                     <li><a href="https://shop.jetblue.com/" target="_blank">ShopBlue</a></li>
                 </ul>
@@ -494,13 +474,14 @@ padding-left: 20px;
                     <li><a href="/legal/">Legal</a></li>
                     <li><a href="/legal/privacy/">Privacy</a></li>
                     <li><a href="/sitemap/">Site map</a></li>
+                    <li><a href="/contact-us/email/suggestion/?topic=jetblue.com">Website feedback</a></li>
 				</ul>
                 <!-- /Talk to us -->
             </div>
             <!-- /.sitemap-wrap -->
             <div id="getaways-cities-list" class="hide-cities clearfix">
                 <div class="getaways-cities-wrap">
-                    <p><strong>Top JetBlue Vacation packages:</strong> <a href="/vacations/aruba-vacations/">Aruba</a> | <a href="/vacations/barbados-vacations/">Barbados</a> | <a href="/vacations/bermuda-vacations/">Bermuda</a> | <a href="/vacations/cancun-vacations/">Cancún, Mexico</a> | <a href="/vacations/fort-lauderdale-vacations/">Fort Lauderdale</a> | <a href="/vacations/grand-cayman-vacations/">Grand Cayman</a> | <a href="/vacations/jamaica-vacations/">Jamaica</a> | <a href="/vacations/las-vegas-vacations/">Las Vegas</a> | <a href="/vacations/bahamas-vacations/">Nassau, Bahamas</a> | <a href="/vacations/orlando-vacations/">Orlando</a> | <a href="/vacations/puerto-plata-vacations/">Puerto Plata, Dominican Republic</a> | <a href="/vacations/punta-cana-vacations/">Punta Cana, Dominican Republic</a> | <a href="/vacations/st-maarten-vacations/">Saint Martin</a> | <a href="/vacations/san-juan-vacations/">San Juan, Puerto Rico</a> | <a href="/vacations/samana-vacations/">Samana, Dominican Republic</a> | <a href="/vacations/st-lucia-vacations/">St. Lucia</a> | <a href="/vacations/turks-caicos-vacations/">Turks &amp; Caicos</a> | <a href="/vacations/walt-disney-world-vacations/">Walt Disney World® Resort</a> | <a href="/vacations/west-palm-beach-vacations/">West Palm Beach</a><span class="show-more"><a href="/vacations/aguadilla-vacations/">Aguadilla, Puerto Rico</a> | <a href="/vacations/albuquerque-vacations/">Albuquerque</a> | <a href="/vacations/disneyland-vacations/">Anaheim / Disneyland® Resort</a> | <a href="/vacations/bogota-colombia-vacations/">Bogotá, Colombia</a> | <a href="/vacations/boston-vacations/">Boston</a> | <a href="/vacations/buffalo-niagara-falls-vacations/">Buffalo/Niagara Falls</a> | <a href="/vacations/riviera-maya-vacations/">Cancún Riviera Maya</a> | <a href="/vacations/cartagena-vacations/">Cartagena, Colombia</a> | <a href="/vacations/charleston-vacations/">Charleston</a> | <a href="/vacations/fort-myers-vacations/">Fort Myers</a> | <a href="/vacations/jacksonville-vacations/">Jacksonville / Amelia Island</a> | <a href="/vacations/los-angeles-vacations/">LA / Hollywood</a> | <a href="/vacations/la-romana-vacations/">La Romana, Dominican Republic</a> | <a href="/vacations/liberia-costa-rica-vacations/">Liberia, Costa Rica</a> | <a href="/vacations/miami-vacations/">Miami</a> | <a href="/vacations/new-orleans-vacations/">New Orleans</a> | <a href="/vacations/new-york-city-vacations/">New York City</a> | <a href="/vacations/phoenix-vacations/">Phoenix</a> | <a href="/vacations/ponce-vacations/">Poncé, Puerto Rico</a> | <a href="/vacations/st-croix-vacations/">Saint Croix</a> | <a href="/vacations/st-thomas-vacations/">St. Thomas / St. John</a> | <a href="/vacations/salt-lake-park-city-vacations/">Salt Lake/Park City</a> | <a href="/vacations/san-diego-vacations/">San Diego</a> | <a href="/vacations/san-francisco-vacations/">San Francisco</a> | <a href="/vacations/costa-rica-vacations/">San José, Costa Rica</a> | <a href="/vacations/santo-domingo-vacations/">Santo Domingo, Dominican Republic</a> | <a href="/vacations/sarasota-vacations/">Sarasota</a> | <a href="/vacations/st-pete-clearwater-vacations/">St. Pete / Clearwater</a> | <a href="/vacations/washington-dc-vacations/">Washington, DC</a><br><strong>Travel Styles:</strong> <a href="/vacations/travel-styles/?id=1">All-Inclusive</a> | <a href="/vacations/travel-styles/?id=2">Adventure &amp; Sport</a> | <a href="/vacations/travel-styles/?id=3">Romance &amp; Wedding</a> | <a href="/vacations/travel-styles/?id=4">Family Fun</a> | <a href="/vacations/travel-styles/?id=5">Gaming &amp; Nightlife</a> | <a href="/vacations/travel-styles/?id=6">Spa</a></span></p>
+                    <p><strong>Top JetBlue Vacation packages:</strong> <a href="/vacations/aruba-vacations/">Aruba</a> | <a href="/vacations/barbados-vacations/">Barbados</a> | <a href="/vacations/bermuda-vacations/">Bermuda</a> | <a href="/vacations/cancun-vacations/">Cancún, Mexico</a> | <a href="/vacations/fort-lauderdale-vacations/">Fort Lauderdale</a> | <a href="/vacations/grand-cayman-vacations/">Grand Cayman</a> | <a href="/vacations/jamaica-vacations/">Jamaica</a> | <a href="/vacations/las-vegas-vacations/">Las Vegas</a> | <a href="/vacations/bahamas-vacations/">Nassau, Bahamas</a> | <a href="/vacations/orlando-vacations/">Orlando</a> | <a href="/vacations/puerto-plata-vacations/">Puerto Plata, Dominican Republic</a> | <a href="/vacations/punta-cana-vacations/">Punta Cana, Dominican Republic</a> | <a href="/vacations/st-maarten-vacations/">Saint Martin</a> | <a href="/vacations/san-juan-vacations/">San Juan, Puerto Rico</a> | <a href="/vacations/samana-vacations/">Samana, Dominican Republic</a> | <a href="/vacations/st-lucia-vacations/">St. Lucia</a> | <a href="/vacations/turks-caicos-vacations/">Turks &amp; Caicos</a> | <a href="/vacations/walt-disney-world-vacations/"><em>Walt Disney World®</em> Resort</a> | <a href="/vacations/west-palm-beach-vacations/">West Palm Beach</a><span class="show-more"><a href="/vacations/aguadilla-vacations/">Aguadilla, Puerto Rico</a> | <a href="/vacations/albuquerque-vacations/">Albuquerque</a> | <a href="/vacations/disneyland-vacations/">Anaheim / Disneyland® Resort</a> | <a href="/vacations/bogota-colombia-vacations/">Bogotá, Colombia</a> | <a href="/vacations/boston-vacations/">Boston</a> | <a href="/vacations/buffalo-niagara-falls-vacations/">Buffalo/Niagara Falls</a> | <a href="/vacations/riviera-maya-vacations/">Cancún Riviera Maya</a> | <a href="/vacations/cartagena-vacations/">Cartagena, Colombia</a> | <a href="/vacations/charleston-vacations/">Charleston</a> | <a href="/vacations/fort-myers-vacations/">Fort Myers</a> | <a href="/vacations/hilton-head-vacations/">Hilton Head, SC</a> | <a href="/vacations/jacksonville-vacations/">Jacksonville / Amelia Island</a> | <a href="/vacations/los-angeles-vacations/">LA / Hollywood</a> | <a href="/vacations/la-romana-vacations/">La Romana, Dominican Republic</a> | <a href="/vacations/liberia-costa-rica-vacations/">Liberia, Costa Rica</a> | <a href="/vacations/miami-vacations/">Miami</a> | <a href="/vacations/new-orleans-vacations/">New Orleans</a> | <a href="/vacations/new-york-city-vacations/">New York City</a> | <a href="/vacations/phoenix-vacations/">Phoenix</a> | <a href="/vacations/ponce-vacations/">Poncé, Puerto Rico</a> | <a href="/vacations/st-croix-vacations/">Saint Croix</a> | <a href="/vacations/st-thomas-vacations/">St. Thomas / St. John</a> | <a href="/vacations/salt-lake-park-city-vacations/">Salt Lake/Park City</a> | <a href="/vacations/san-diego-vacations/">San Diego</a> | <a href="/vacations/san-francisco-vacations/">San Francisco</a> | <a href="/vacations/costa-rica-vacations/">San José, Costa Rica</a> | <a href="/vacations/santo-domingo-vacations/">Santo Domingo, Dominican Republic</a> | <a href="/vacations/sarasota-vacations/">Sarasota</a> | <a href="/vacations/savannah-georgia-vacations/">Savannah</a> | <a href="/vacations/st-pete-clearwater-vacations/">St. Pete / Clearwater</a> | <a href="/vacations/washington-dc-vacations/">Washington, DC</a><br><strong>Travel Styles:</strong> <a href="/vacations/travel-styles/?id=1">All-Inclusive</a> | <a href="/vacations/travel-styles/?id=2">Adventure &amp; Sport</a> | <a href="/vacations/travel-styles/?id=3">Romance &amp; Wedding</a> | <a href="/vacations/travel-styles/?id=4">Family Fun</a> | <a href="/vacations/travel-styles/?id=5">Gaming &amp; Nightlife</a> | <a href="/vacations/travel-styles/?id=6">Spa</a></span></p>
                     <a id="city-expander" href="javascript:void(0);"><p class="expander">
                         <span>Show more cities</span> &nbsp;<img class="down-icon" src="/img/getaway-cities-list-arrow.jpg" alt="" width="7" height="8"><img class="up-icon" src="/img/getaway-cities-list-arrow-up.jpg" alt="" width="7" height="8"></p></a>
                 </div>
@@ -531,11 +512,11 @@ padding-left: 20px;
     <script src="/js/vendor/amplify.min.js"></script>
     <script src="/js/cookie.js?v=1.3"></script>
     <script src="/js/util/new-window-attribute.js" type="text/javascript"></script>
-	
+
     <!-- scripts concatenated and minified via ant build script-->
     <script src="/js/src/JB.js?v=1.1"></script>
     <script src="/js/src/JB.Fn.js"></script>
-    <script src="/js/src/JB.Helper.js?v=1.4.5"></script>
+    <script src="/js/src/JB.Helper.js?v=1.4.6"></script>
     <script src="/js/src/JB.Model.js?v=1.0.0"></script>
     <script src="/js/vendor/jquery.cookie.js?v=1.0"></script>
     <script src="/js/src/JB.Class.TrueBlue.js?v=1.0"></script>
@@ -597,7 +578,33 @@ padding-left: 20px;
     <script src="/js/src/JB.Subpages.js"></script>
     <script type="text/javascript" id="mpelid" src="//hola.jetblue.com/mpel/mpel.js"></script>
 
+    <script type="text/javascript">
+        ;(function () {
+            function gup(name) {
+                name = name.replace(/[\[]/, "\\\[").replace(/[\]]/, "\\\]");
+                var regexS = "[\\?&]" + name + "=([^&#]*)",
+                    regex = new RegExp(regexS),
+                    results = regex.exec(window.location.href);
 
+                if (results == null) {
+                    return "";
+                }
+                else {
+                    return results[1];
+                }
+            }
+
+            var regExp = /www-stg.jetblue.com/g,
+                jbTagsUrl = window.location.href,
+                app_param = gup('jbTags');
+
+            if (regExp.test(jbTagsUrl) && app_param === "true") {
+                document.write('<link rel="stylesheet" href="/jbTags/css/jbTags.css"> ');
+                document.write("<scr" + "ipt src='/jbTags/js/jbtags.js'></sc" + "ript>");
+                document.write("<div id='gContainer' class='ui-notify'><div class='ui-notify-message ui-notify-message-style'><a href='#' class='ui-notify-close ui-notify-cross'>x</a><h1 id='gHeader'>Sticky Notification</h1><p id='gBlurb'>JetBlue Tags 'sticky' notification. Click on the X above to close me.</p></div></div>");
+            }
+        })();
+    </script>
 
 
 </body></html>
