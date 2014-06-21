@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wizard101.co.uk privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217040324id_/http%3A//agbserver.gameforge.com/en-Privacy-Wizard101.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wizard101.co.uk privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621213009id_/http%3A//agbserver.gameforge.com/en-Privacy-Wizard101.html) for the most accurate reproduction.*
 
 # 
 
