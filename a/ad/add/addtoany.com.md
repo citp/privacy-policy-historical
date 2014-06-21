@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the addtoany.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217153727id_/http%3A//www.addtoany.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addtoany.com privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621112307id_/http%3A//www.addtoany.com/privacy) for the most accurate reproduction.*
 
 # AddToAny - Privacy Policy
 
@@ -18,7 +18,7 @@
 ### What data is shared?
 
   * We do **not** share personally identifiable information (PII)
-  * We may share aggregated, non-personal information, such as: 
+  * We may share non-personal information, such as: 
     * Software and system specifications
     * Browsing habits
     * Other non-personal data
