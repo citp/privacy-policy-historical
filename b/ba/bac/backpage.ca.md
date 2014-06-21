@@ -1,10 +1,32 @@
-> *The following text is extracted and transformed from the backpage.ca privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524005039id_/http%3A//www.backpage.com/classifieds/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backpage.ca privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621033537id_/http%3A//www.backpage.com/classifieds/PrivacyPolicy) for the most accurate reproduction.*
 
 # backpage.com
 
-Backpage.com and its affiliates, including but not limited to Village Voice Media Holdings, LLC (collectively, the “Site”) respect your privacy. Here's our Privacy Policy for this Site:
+**Privacy Policy  
+Last Revised: _January 9, 2014_**
+
+Backpage.com and its affiliates (collectively, the “Site”) respect your privacy. Here is our Privacy Policy for this Site:
+
+**Acceptance of Privacy Policy**
 
 Each time you access, use, post, submit a post or reply, or browse the Site, you signify your acceptance of the then-current Privacy Policy.  If you do not accept this Privacy Policy, you are not authorized to use the Site and must discontinue use of the Site immediately.
+
+**Collection and Use of Personal Information**
+
+We collect personal information about you whenever you engage in commerce transactions on the Site, use the Site’s products or services, request information or materials, create or update account information, place orders or make purchases, communicate with us, or visit the Site. The personal information we collect and store about you may include without limitation your first and last name, email address, credit or debit card number,billing and shipping information, order history, and other non-public information about you.
+
+We may use the information we collect to: 
+
+  *      Provide superior services; 
+  *      Keep you apprised of information and developments that you may find of interest; 
+  *      Alert you to new features, terms, content, products or services; 
+  *      Contact you regarding your posts, replies, and/or account information; 
+  *      Process and respond to your inquires; 
+  *      Improve the Site; 
+  *      Administer, monitor and control use of the Site, including posts, replies, and account information; and 
+  *      Enforce the [Terms of Use](https://web.archive.org/en-us/online/classifieds/Terms) (collectively, the “Activities”).
+
+
 
 You authorize the Site to transmit email to you to respond to your communications and administer Activities.
 
@@ -41,6 +63,15 @@ We will not share your personal information with third parties for their direct 
 Backpage.com LLC  
 PO Box 192307   
 Dallas, TX 75219 USA
+
+International - not for correspondence  
+Classified Solutions Ltd.  
+The East Stable Thrales End Farm  
+Harpenden, United Kingdom, AL5 3NS
+
+Payment Solutions BV.  
+Strawinskylaan 601, 1077XX,  
+Amsterdam, Netherlands 
 
 When contacting us, please indicate your name, address, email address, and what personal information you do not want us to share with third parties for their direct marketing purposes. Please note that there is no charge for controlling the sharing of your personal information or for processing this request. 
 
