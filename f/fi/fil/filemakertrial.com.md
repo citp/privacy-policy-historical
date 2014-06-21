@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filemakertrial.com privacy policy that was archived on 2013-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130921223751id_/http%3A//www.filemaker.com/company/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filemakertrial.com privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621104342id_/http%3A//www.filemaker.com/company/legal/privacy.html) for the most accurate reproduction.*
 
 # Legal: FileMaker Customer Privacy Policy
 
@@ -56,6 +56,8 @@ In some of our email messages, we use a "click-through URL" linked to content on
 Pixel tags enable us to send email messages in a format customers can read, and they tell us whether mail has been opened. We may use this information to reduce or eliminate messages sent to customers. 
 
 Learn more about [FileMaker's use of cookies](https://web.archive.org/company/legal/cookies.html).
+
+Learn more about [Do Not Track Signals](https://web.archive.org/web/20140621104342id_/http%3A//www.filemaker.com/company/legal/do-not-track).
 
 ### Disclosure to Third Parties
 
@@ -121,6 +123,6 @@ FileMaker may update its Privacy Policy from time to time. When we change the po
 
 FileMaker Inc., 5201 Patrick Henry Drive, Santa Clara, California 95054 
 
-Last updated: February 11, 2011 
+Last updated: December 23, 2013 
 
 Back to top
