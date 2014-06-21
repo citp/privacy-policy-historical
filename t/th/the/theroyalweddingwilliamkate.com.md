@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theroyalweddingwilliamkate.com privacy policy that was archived on 2013-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131001030121id_/http%3A//www.theroyalweddingwilliamkate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theroyalweddingwilliamkate.com privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621130000id_/http%3A//www.theroyalweddingwilliamkate.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Duchess of Cambridge and Prince William online Store & News
 
