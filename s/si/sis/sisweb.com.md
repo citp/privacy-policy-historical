@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sisweb.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221150853id_/http%3A//www.sisweb.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sisweb.com privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621173518id_/http%3A//www.sisweb.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
-News: Nanoliter MALDI/TOF dispensing, heater transfer tube for Thermo, NE300 syringe pump, ...
+[News](https://web.archive.org/include/news.htm):Join us at ASMS in Baltimore, June 15th-19th. We are booth #1! New catalog, NIST 14, and new products. New SIS 2014 catalog, Nanoliter MALDI/TOF dispensing, heater transfer tube for Thermo, NE300 syringe pump, ... 
 
 The following terms apply to all public web sites (this Site) operated by Scientific Instrument Services, Inc., including [www.sisweb.com](http://www.sisweb.com/), [scientificmachining.com](http://scientificmachining.com/), and [simion.com](http://simion.com/).
 
@@ -94,10 +94,7 @@ www.sisweb.com
 1027 Old York Rd  
 Ringoes, NJ 08551-1054  
 United States  
-[us@sisweb.com](mailto:us@sisweb.com)
-
-[ ](mailto:us@sisweb.com)
-
+[us@sisweb.com](mailto:us@sisweb.com) [ ](mailto:us@sisweb.com)   
 908-788-5550
 
  **Privacy Policy Customer Pledge**
