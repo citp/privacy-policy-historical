@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the jetsetmag.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629205226id_/http%3A//www.jetsetmag.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jetsetmag.com privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621032248id_/http%3A//www.jetsetmag.com/privacy) for the most accurate reproduction.*
 
 # Jetset Magazine Privacy Policy
 
 It is our sincere hope at Jetset Magazine that what is now a purely digital relationship will evolve into a more personal one. A relationship built on trust. Our policy on privacy is simple and unwavering. We would also remind you that jetsetmag.com is a private, copyrighted site and intended solely for personal use. 
 
 Should you have other questions or concerns about this privacy policy, please  
-[ contact us](https://web.archive.org/web/20130629205226id_/http%3A//contact.html#nav)
+[ contact us](https://web.archive.org/web/20140621032248id_/http://www.jetsetmag.com/contact.html#nav)
 
 Your privacy is important to us. To better protect your privacy we provide this Privacy Policy, which explains our online information practices and the choices you can make about the way your information is collected and used. To make this Privacy Policy easy to find, we make it available on our homepage and at every point where personally identifiable data may be requested. 
 
