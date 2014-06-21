@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the backpage.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231012341id_/http%3A//www.backpage.com/classifieds/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backpage.com privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621033537id_/http%3A//www.backpage.com/classifieds/PrivacyPolicy) for the most accurate reproduction.*
 
 # backpage.com
 
 **Privacy Policy  
-Last Revised: _January 9, 2012_**
+Last Revised: _January 9, 2014_**
 
 Backpage.com and its affiliates (collectively, the “Site”) respect your privacy. Here is our Privacy Policy for this Site:
 
@@ -68,6 +68,10 @@ International - not for correspondence
 Classified Solutions Ltd.  
 The East Stable Thrales End Farm  
 Harpenden, United Kingdom, AL5 3NS
+
+Payment Solutions BV.  
+Strawinskylaan 601, 1077XX,  
+Amsterdam, Netherlands 
 
 When contacting us, please indicate your name, address, email address, and what personal information you do not want us to share with third parties for their direct marketing purposes. Please note that there is no charge for controlling the sharing of your personal information or for processing this request. 
 
