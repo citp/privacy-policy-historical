@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibuzzle.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221124143id_/http%3A//www.ibuzzle.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibuzzle.com privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621151158id_/http%3A//www.ibuzzle.com/about/privacy) for the most accurate reproduction.*
 
 # iBuzzle Privacy Policy
 
@@ -38,7 +38,7 @@ This web site contains links to other sites. Please be aware that iBuzzle.com is
 On occasion, our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose their information. Information requested may include contact information and demographic information. Contest information, which includes contact and demographic information, is used to notify the winners and award prizes. Survey information is used for purposes of monitoring or improving the use of iBuzzle.com. 
 
 **Security**  
-iBuzzle.com takes every precaution to protect our users' information. When users submit sensitive information via the website, the information is protected both online and off-line. Sensitive information transmitted through our registration and order forms is encrypted and protected with encryption software. If you have any questions about the security at our website, please [contact us](https://web.archive.org/web/20131221124143id_/http://www.ibuzzle.com/about/contact/). 
+iBuzzle.com takes every precaution to protect our users' information. When users submit sensitive information via the website, the information is protected both online and off-line. Sensitive information transmitted through our registration and order forms is encrypted and protected with encryption software. If you have any questions about the security at our website, please [contact us](https://web.archive.org/web/20140621151158id_/http://www.ibuzzle.com/about/contact/). 
 
 **Third-Party Advertising**  
 We use third-party advertising companies to serve advertisements when you visit our website. These companies may use non-personal information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services that may be of interest to you. 
@@ -55,7 +55,7 @@ We send a welcoming email to all new members for the purpose of verifying their 
 We also send our members site and service announcement updates. These updates are critical to our members, and therefore do not allow our members the ability to unsubscribe from this service. 
 
 **Updating Personal Information/Member Status**  
-If a user's personally identifiable information changes, or if a user no longer desires the use of our service, we will endeavor to provide a way to correct, update or remove that user's personal data. If this situation occurs, please [contact us](https://web.archive.org/web/20131221124143id_/http://www.ibuzzle.com/about/contact/). 
+If a user's personally identifiable information changes, or if a user no longer desires the use of our service, we will endeavor to provide a way to correct, update or remove that user's personal data. If this situation occurs, please [contact us](https://web.archive.org/web/20140621151158id_/http://www.ibuzzle.com/about/contact/). 
 
 **Opting-Out of Information Use**  
 When users are prompted to submit their personally identifiable information, they are given the opportunity to 'opt-out' of having this information used for purposes not directly related to our site. When users opt-out, their information will not be used for these purposes. 
@@ -65,4 +65,4 @@ Our users are notified when their information will be collected by outside parti
 **Notification of Policy Changes**  
 Should our privacy policy change, notification will be posted on iBuzzle.com. If we decide to use personally identifiable information in a manner different from that stated at the time it was collected, users will be notified via email. Upon notification, users will have a choice as to whether or not their information will be used in this manner. User information will be used in accordance with the privacy policy under which the information was collected. 
 
-If you have any questions or concerns about the collection of your information during your visit at iBuzzle.com, please [contact us](https://web.archive.org/web/20131221124143id_/http://www.ibuzzle.com/about/contact/). 
+If you have any questions or concerns about the collection of your information during your visit at iBuzzle.com, please [contact us](https://web.archive.org/web/20140621151158id_/http://www.ibuzzle.com/about/contact/). 
