@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lpi.org privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222034645id_/http%3A//www.lpi.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lpi.org privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621154621id_/https%3A//www.lpi.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Linux Professional Institute (LPI)
 
