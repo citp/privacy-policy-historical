@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sketchup.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030015233id_/http%3A//www.trimble.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sketchup.com privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621171136id_/http%3A//www.trimble.com/privacy.aspx) for the most accurate reproduction.*
 
 # Trimble - Online Privacy
 
@@ -69,6 +69,8 @@ The following external service providers collect information through our website
 
   * [http://www.trimbleevents.com](http://www.trimbleevents.com/)   
 Enterprise Events Group (EEG), a value leader in the event management services industry hosts and operates our online registration process for Trimble Dimensions 2005 user Conference at [ http://www.trimbleevents.com](http://www.trimbleevents.com/) . When you register for the conference from this online registration website, your contact and billing information will be collected by Enterprise Events Group. Please view Enterprise Events Group Privacy Statement at <http://www.eeginc.com/> for a full description of Enterprise Events Group comprehensive information privacy procedures. WingateWeb is an award-winning online event registration and event management software company. WingateWeb provides the event management software solution for Trimble Dimensions 2009 User Conference. Please view WingateWeb's Privacy Statement at [http://www.wingateweb.com](http://www.wingateweb.com/) for a full description of WingateWeb’s comprehensive information privacy procedures. 
+  * [http://www.trimblelms.com](http://www.trimblelms.com/)  
+EZ LCMS hosts the Trimble learning management system Trimble Learning Center. EZ LCMS stores users' training history and contact information on Trimble's behalf. Purchases of Trimble Learning Center services by credit card are processed as encrypted transactions using Cybersource (see profile below), and users' credit card numbers are not stored by EZ LCMS. For more information about EZ LCMS and their services, please visit their website at [http://ezlcms.com](http://ezlcms.com/). 
   * [http://www.tmsreplacements.com](http://www.tmsreplacements.com/)   
 Yahoo!. a leading hosting and e-commerce service provider, hosts our online store at www.tmsreplacements.com. Please see Yahoo!'s Privacy Statement at: <http://privacy.yahoo.com/>
 
