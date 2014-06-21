@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gfs.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221143244id_/http%3A//www.gfs.com/en/privacy-policy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gfs.com privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621154844id_/http%3A//www.gfs.com/en/privacy-policy.page) for the most accurate reproduction.*
 
 # Privacy Policy - GFS.com
 
-_Last Modified on April 22, 2013_
+_Last Modified on June 4, 2014_
 
 This Policy explains how we collect, use and protect the information we gather at the GFS.com, siennabakery.com and tradeeastspices.com, websites (collectively "website") that are owned and operated by Gordon Food Service, Inc. and its related companies (collectively, "GFS", "we" or "us").
 
@@ -50,7 +50,7 @@ If you do not wish to accept cookies, the "help" selection on your browser's too
 
 DoubleClick: Google Analytics data is examined in concert with data about ads that have been shown using the Google Display Network or DoubleClick to help understand how anonymous users interact with and advertiser’s site after seeing corresponding ads. This data may used to inform and optimize ad campaigns. You may opt out of DoubleClick cookies by visiting Google Advertising opt-out page or you may opt out of analytics by visiting the [Google Analytics opt-out page](https://tools.google.com/dlpage/gaoptout?hl=en-GB).
 
-Google Remarketing: Third party vendors, including Google, show Gordon Food Service ads on sites on the web. Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to our website. Analytic data is used to serve ads based on your prior visits to our website. You may opt out of Google’s use of cookies by visiting the Google Advertising opt-out page. You may opt out of third party vendor’s use of cookies by visiting In addition, you may also point users to information on opting out of a third vendor’s use of cookies by visiting the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/choices/).
+Google Remarketing: Third party vendors, including Google, show Gordon Food Service ads on sites on the web. Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to our website. Analytic data is used to serve ads based on your prior visits to our website. You may opt out of Google’s use of cookies by visiting the Google Advertising opt-out page. You may opt out of third party vendor’s use of cookies by visiting the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/choices/).
 
 **What We Do with the Information We Collect**
 
