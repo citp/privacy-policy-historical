@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the triabeauty.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216152848id_/http%3A//www.triabeauty.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the triabeauty.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622003542id_/http%3A//www.triabeauty.com/privacy-policy) for the most accurate reproduction.*
 
-# Tria Beauty Customer Care - Visit Tria Customer Care
+# Laser Hair Removal, Anti-Aging Skincare & Blue Light Therapy | Tria Beauty
 
 YOUR PRIVACY AND THE SECURITY OF YOUR PERSONAL INFORMATION IS VERY IMPORTANT TO US
 
@@ -30,11 +30,11 @@ Tria Beauty collects information that you provide to us or that we learn about y
 
 HOW TRIA BEAUTY USES AND SHARES INFORMATION ABOUT YOU 
 
-We try to provide you with the information you need to make informed, reasonable choices with respect to how the Site uses or shares your information. Tria Beauty uses and shares personal information from you in several ways:
+We try to provide you with the information you need to make informed, reasonable choices with respect to how the Site uses or shares your information. Tria Beauty uses and shares personal information from you in several ways: 
 
-We use information we have collected about you to provide you with the very best health and beauty news, products and services, and shopping experience and to operate our business. We do not sell your personal information to third parties for any reason. We do not disclose your personal information to unaffiliated third parties who may want to offer you their own products and services unless you have requested or authorized us to do so.
+We use information we have collected about you to provide you with the very best health and beauty news, products and services, and shopping experience and to operate our business. We do not sell your personal information to third parties for any reason. We do not disclose your personal information to unaffiliated third parties who may want to offer you their own products and services unless you have requested or authorized us to do so. 
 
-We may share your personal information with third parties or affiliates of Tria Beauty where it is necessary for us to complete a transaction or do something you have asked us to do. Likewise, we may share your personal information with third parties or affiliates of Tria Beauty with whom we have contracted to perform services on our behalf. Companies that act on our behalf are required to keep the personal information we provide to them confidential and to use the personal information we share only to provide the services we ask them to perform.
+We may share your personal information with third parties or affiliates of Tria Beauty where it is necessary for us to complete a transaction or do something you have asked us to do. Likewise, we may share your personal information with third parties or affiliates of Tria Beauty with whom we have contracted to perform services on our behalf. Companies that act on our behalf are required to keep the personal information we provide to them confidential and to use the personal information we share only to provide the services we ask them to perform. 
 
 We may disclose your personal information as permitted or required by law, such as in connection with a subpoena or similar legal process, or in connection with a merger, acquisition, or bankruptcy, as discussed further below.
 
@@ -64,7 +64,7 @@ The Site may contain links to third-party sites. Please be aware, however, that 
 
 CONTACT PREFERENCES AND ACCESSING YOUR PERSONAL INFORMATION 
 
-You have choices when it comes to how Tria Beauty uses your personal information. When you register online with or purchase items from the Site or otherwise provide your email address to us, you are automatically signed up to receive information about merchandise, services and special promotional offers from us by e-mail and/or direct mail. If you do not wish to receive such product marketing information, please contact us by e-mail or direct mail to unsubscribe at customercare@triabeauty.com or Tria Beauty, 4160 Dublin Blvd., Suite 200, Dublin, CA 94568. If you have an account on the Site, you can also change your contact preferences at any time by following the instructions on the Site. If you elect not to receive such product marketing information, Tria Beauty may continue to contact you as necessary to service your account and process your transactions and requests.
+You have choices when it comes to how Tria Beauty uses your personal information. When you register online with or purchase items from the Site or otherwise provide your email address to us, you are automatically signed up to receive information about merchandise, services and special promotional offers from us by e-mail and/or direct mail. If you do not wish to receive such product marketing information, please contact us by e-mail or direct mail to unsubscribe at customercare@triabeauty.com or Tria Beauty, 4160 Dublin Blvd., Suite 200, Dublin, CA 94568. If you have an account on the Site, you can also change your contact preferences at any time by following the instructions on the Site. If you elect not to receive such product marketing information, Tria Beauty may continue to contact you as necessary to service your account and process your transactions and requests. 
 
 Keeping your account information accurate and up-to-date is very important so we can provide you with excellent service. If your account information is incomplete, inaccurate, or not current, please follow the instructions on http://www.triabeauty.com/login.htm on the Site to correct your account information online.
 
@@ -95,8 +95,8 @@ Tria Beauty is committed to quality customer experience. If you have questions o
 
 
 
-Tria Beauty  
-4160 Dublin Blvd., Suite 200  
+Tria Beauty   
+4160 Dublin Blvd., Suite 200   
 Dublin, CA 94568
 
 **LAST REVISED** January 18, 2011
