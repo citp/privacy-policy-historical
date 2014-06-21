@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the powerbookmedic.com privacy policy that was archived on 2013-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131221060920id_/http%3A//www.powerbookmedic.com/Privacy-p-16.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the powerbookmedic.com privacy policy that was archived on 2014-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140621154919id_/http%3A//www.powerbookmedic.com/Privacy-p-16.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Privacy
@@ -465,6 +465,9 @@ $(document).ready(function(){
 			});
 		}
 	});
+	$(".product_option_select_td").click(function() {
+		$(this).closest("tr").find(".product_option_select").trigger("click");
+	});
 	$("#add_to_cart_div_disabled").click(function() {
 		alert("Please choose an option first.  If you are not sure what option to choose, please give us a call at 866-726-3342.");
 	});
@@ -718,6 +721,18 @@ $(document).ready(function(){
 	$("#homepartbrowseselect").val(0);
 	$("#homepartsearchselect").val(0);
 	$("#homepartbrowsemodelnameselect").val(0);
+	$("#carrier_select").change(function() {
+		window.location = "/xcart1/home.php?cat=580&type=" + $("#device_type").val() + "&carrier=" + $(this).val() + "&status=" + $("#esn_select").val();
+	});
+	$("#esn_select").change(function() {
+		window.location = "/xcart1/home.php?cat=580&type=" + $("#device_type").val() + "&carrier=" + $("#carrier_select").val() + "&status=" + $(this).val();
+	});
+	$("#view_all_carrier_select").change(function() {
+		window.location = "/xcart1/view_all.php?cat=580&type=" + $("#device_type").val() + "&carrier=" + $(this).val() + "&status=" + $("#view_all_esn_select").val();
+	});
+	$("#view_all_esn_select").change(function() {
+		window.location = "/xcart1/view_all.php?cat=580&type=" + $("#device_type").val() + "&carrier=" + $("#view_all_carrier_select").val() + "&status=" + $(this).val();
+	});
 });
 </script><style type="text/css">.hidden{display:none;}</style>
 <style>
@@ -815,8 +830,8 @@ __fts_params += "height=" + encode64(__fts_height) + "&";
 __fts_params += "title=" + encode64(__fts_title) + "&";
 __fts_params += "url=" + encode64(__fts_url) + "&";
 __fts_params += "referrer=" + encode64(__fts_referrer);
-document.write("<sc"+"ript type=\"text/javascript\" src=\"http://www.powerbookmedic.com/xcart1/mm_tmon_script.php?" + __fts_params + "\"></sc"+"ript>");
-</script><script type="text/javascript" src="http://www.powerbookmedic.com/xcart1/mm_tmon_script.php?width=ODAw&amp;height=NjAw&amp;title=UHJpdmFjeQ==&amp;url=aHR0cHM6Ly93ZWIuYXJjaGl2ZS5vcmcvd2ViLzIwMTMxMjIxMDYwOTIwaWRfL2h0dHAlM0EvL3d3dy5wb3dlcmJvb2ttZWRpYy5jb20vUHJpdmFjeS1wLTE2Lmh0bWw=&amp;referrer=AA=="></script>
+//document.write("<sc"+"ript type=\"text/javascript\" src=\"http://www.powerbookmedic.com/xcart1/mm_tmon_script.php?" + __fts_params + "\"></sc"+"ript>");
+</script>
 <script src="/xcart1/skin1/modules/XAuth/popup_open.js" type="text/javascript"></script>
 <script src="/xcart1/skin1/modules/XAuth/controller.js" type="text/javascript"></script>
 <link rel="stylesheet" type="text/css" href="/xcart1/skin1/modules/XAuth/main.css">
@@ -899,7 +914,7 @@ else
 <ul>
 <li><a href="http://www.powerbookmedic.com/mac-service.php">Mac Repair</a></li>
 <li><a href="http://www.powerbookmedic.com/Macbook-Pro-and-Macbook-Logic-Board-Repair-p-67.html">Mac Logic Board Repair</a></li>
-<li><a href="http://www.powerbookmedic.com/iphone-logic-board-repair.php">iPhone Logic Board Repair</a></li>
+<li><a href="http://www.powerbookmedic.com/iphone-logic-board-repair.php">iPhone and iPad Logic Board Repair</a></li>
 <li><a href="http://www.powerbookmedic.com/MacBook-Air-LCD-Repair-p-70.html">Macbook Air Display LCD Repair</a></li>
 <li><a href="http://www.powerbookmedic.com/MacBook-Retina-LCD-Repair-p-72.html">Macbook Pro Retina Display LCD Repair</a></li>
 <li><a href="/xcart1/modbook-modservice-tablet-mac.php">Modbook Pro Conversion</a></li>
@@ -945,8 +960,7 @@ else
 </li>
 <li><a href="" https:="" www.powerbookmedic.com="" xcart1="">Parts by Category</a>
 <ul>
-<li><a href="/Refurbished-Units-p-1-c-580.html">Used and Refurb Macs</a></li>
-<li><a href="http://www.powerbookmedic.com/Accessories-p-1-c-650.html">Accessories</a></li>
+<li><a href="/Refurbished-Units-p-1-c-580.html">Used Cell Phones and Tablets</a></li>
 <li><a href="http://www.powerbookmedic.com/Powerbook-iBook-Macbook-Hard-Drive-Upgrades-Pro-p-1-c-256.html">Hard Drive Upgrades</a></li>
 <li><a href="http://www.powerbookmedic.com/Ram-Upgrades-p-1-c-257.html">Ram Memory Upgrades</a></li>
 <li><a href="http://www.powerbookmedic.com/Battery-Replacements-p-1-c-442.html">Battery Replacements</a></li>
@@ -1274,12 +1288,6 @@ PowerbookMedic.com uses pixels, or transparent GIF files, to help manage online 
 </tbody></table>
 </div>
   
-<!-- Woopra Code Start -->
-<script type="text/javascript" src="//static.woopra.com/js/woopra.v2.js"></script>
-<script type="text/javascript">
-woopraTracker.track();
-</script>
-<!-- Woopra Code End --> 
 </td>
 </tr>
 </tbody></table>
