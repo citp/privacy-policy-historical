@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the broadridge.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219154252id_/http%3A//www.broadridge.com/privacy/english) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadridge.com privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621122811id_/http%3A//www.broadridge.com/privacy/english) for the most accurate reproduction.*
 
 # Broadridge | Privacy Statement - English
 
