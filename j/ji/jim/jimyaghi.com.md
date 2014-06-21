@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jimyaghi.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231013815id_/http%3A//jimyaghi.com/start/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jimyaghi.com privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621111725id_/http%3A//jimyaghi.com/start/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Fun Education for Home Businesses & Affiliate Marketers HUNGRY for Monster Traffic & Leads | Jim Yaghi
 
@@ -138,13 +138,13 @@ By accessing this website, you agree to see our ads on other websites including 
 
 You can stop seeing our Interest Based ads at any time, by following the instructions here: http://www.google.com/settings/ads .
 
-  * [privacy policy](https://web.archive.org/web/20131231013815id_/http%3A//jimyaghi.com/start/legal/privacyPolicy.html)
-  * [anti spam policy](https://web.archive.org/web/20131231013815id_/http%3A//jimyaghi.com/start/legal/antiSpamPolicy.html)
-  * [external links policy](https://web.archive.org/web/20131231013815id_/http%3A//jimyaghi.com/start/legal/externalLinksPolicy.html)
-  * [compensation disclosure](https://web.archive.org/web/20131231013815id_/http%3A//jimyaghi.com/start/legal/compensationDisclosure.html)
-  * [terms and conditions](https://web.archive.org/web/20131231013815id_/http%3A//jimyaghi.com/start/legal/termsAndConditions.html)
-  * [refund policy](https://web.archive.org/web/20131231013815id_/http%3A//jimyaghi.com/start/legal/refundPolicy.html)
-  * [digital millenium copyright act notice](https://web.archive.org/web/20131231013815id_/http%3A//jimyaghi.com/start/legal/DMCANotice.html)
-  * [earning disclaimer](https://web.archive.org/web/20131231013815id_/http%3A//jimyaghi.com/start/legal/earningsDisclaimer.html)
+  * [privacy policy](https://web.archive.org/web/20140621111725id_/http%3A//jimyaghi.com/start/legal/privacyPolicy.html)
+  * [anti spam policy](https://web.archive.org/web/20140621111725id_/http%3A//jimyaghi.com/start/legal/antiSpamPolicy.html)
+  * [external links policy](https://web.archive.org/web/20140621111725id_/http%3A//jimyaghi.com/start/legal/externalLinksPolicy.html)
+  * [compensation disclosure](https://web.archive.org/web/20140621111725id_/http%3A//jimyaghi.com/start/legal/compensationDisclosure.html)
+  * [terms and conditions](https://web.archive.org/web/20140621111725id_/http%3A//jimyaghi.com/start/legal/termsAndConditions.html)
+  * [refund policy](https://web.archive.org/web/20140621111725id_/http%3A//jimyaghi.com/start/legal/refundPolicy.html)
+  * [digital millenium copyright act notice](https://web.archive.org/web/20140621111725id_/http%3A//jimyaghi.com/start/legal/DMCANotice.html)
+  * [earning disclaimer](https://web.archive.org/web/20140621111725id_/http%3A//jimyaghi.com/start/legal/earningsDisclaimer.html)
 
 
