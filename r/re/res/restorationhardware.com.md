@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the restorationhardware.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609053812id_/http%3A//www.restorationhardware.com/customer-service/privacy-policy.jsp%3Fcm_sp%3Dglobal_footer_store-_-privacy_press-_-NA%26link%3Dbotnav_privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the restorationhardware.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622013739id_/http%3A//www.restorationhardware.com/customer-service/privacy-policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy | Restoration Hardware
 
-## **Last Updated: December 16, 2011**
+## **Last Updated: November 8 2013**
 
 ## **RESTORATION HARDWARE PRIVACY POLICY**
 
-Restoration Hardware, Inc. (" **Restoration Hardware** " or " **we** ") values its customers and respects your privacy, and wants you to be familiar with how we collect, use and disclose information. This Privacy Policy describes our practices in connection with information that we collect through our stores, call centers, websites and distribution centers operated by or on behalf of Restoration Hardware, including the websites located at [www.restorationhardware.com](http://www.restorationhardware.com/ "Restoration Hardware") and [www.rhbabyandchild.com](http://www.rhbabyandchild.com/ "RH Baby & Child") and other websites that we own and control and which contain a link to this Privacy Policy (each such website is hereinafter individually referred to as the " **Site** "). This Privacy Policy extends to Restoration Hardware and all of our brands, such as Restoration Hardware Baby and Child, Restoration Hardware Outlet, Restoration Hardware Clearance Centers, Restoration Hardware Contract and Restoration Hardware Trade.
+Restoration Hardware, Inc. (" **Restoration Hardware** " or " **we** ") values its customers and respects your privacy, and wants you to be familiar with how we collect, use and disclose information. This Privacy Policy describes our practices in connection with information that we collect through our galleries, call centers, websites and distribution centers operated by or on behalf of Restoration Hardware, including the websites located at [www.restorationhardware.com](http://www.restorationhardware.com/ "Restoration Hardware") and [www.rhbabyandchild.com](http://www.rhbabyandchild.com/ "RH Baby & Child") and other websites that we own and control and which contain a link to this Privacy Policy (each such website is hereinafter individually referred to as the " **Site** "). This Privacy Policy extends to Restoration Hardware and all of our brands, such as Restoration Hardware Baby and Child, Restoration Hardware Outlet, Restoration Hardware Clearance Centers, Restoration Hardware Contract and Restoration Hardware Trade.
 
 We encourage you to read this Privacy Policy before using the Site or providing Personal Information to us. By using the Site or providing Personal Information to us, you agree to the terms and conditions of this Privacy Policy.
 
@@ -18,9 +18,11 @@ We may change this Privacy Policy at any time. Please take a look at the " _LAST
 
 ### Personal Information We Collect
 
-**"Personal Information"** is information that identifies you as an individual. Non-Personal Information, in contrast, is any information that does not reveal your specific identity. Our collection, use and disclosure of Non-Personal Information are addressed below under the heading "Non-Personal Information."
+**"Personal Information"** is information that identifies, relates to, describes, or is capable of being associated with you as an individual. Non-personal information, in contrast, is any information that does not reveal your specific identity, or cannot be used to permit the physical or online contacting of you. We collect Personal Information, and non-personal information, in two ways: 1) active collection, and passive collection. Our collection, use, and disclosure of information collected passively is addressed below under the heading "Technical Information."
 
-We and our service providers may collect the following Personal Information:
+## **SUBMITTED INFORMATION**
+
+We and our service providers may request that you submit the following Personal Information:
 
   * Name
   * Postal address (including billing and shipping addresses)
@@ -31,9 +33,9 @@ We and our service providers may collect the following Personal Information:
 
 
 
-### How We Use Personal Information
+### HOW WE USE SUBMITTED INFORMATION
 
-We and our service providers may use Personal Information:
+We and our service providers may use Submitted Information:
 
   * To respond to your inquiries and fulfill your requests, including to contact you if necessary;
   * To process and fulfill your order, for example by confirming your order and your billing and shipping information, processing your payments, delivering your products and communicating with you regarding your order;
@@ -48,9 +50,9 @@ We and our service providers may use Personal Information:
 
 
 
-### How Personal Information Is Disclosed
+### HOW SUBMITTED INFORMATION IS DISCLOSED
 
-Your Personal Information may be disclosed:
+Your Submitted Information may be disclosed:
 
   * To our third-party service providers, who provide services such as website hosting, data analysis, payment processing, order fulfillment, IT services and infrastructure, customer service, email delivery and administration, credit card processing, auditing and other similar services to enable them to provide services;
   * To our subsidiaries and affiliated entities (collectively, our "Affiliates") for marketing and other purposes;
@@ -63,11 +65,11 @@ Your Personal Information may be disclosed:
 
 
 
-## **NON-PERSONAL INFORMATION**
+## **TECHNICAL INFORMATION**
 
-### Non-Personal Information We Collect
+### TECHNICAL INFORMATION WE COLLECT
 
-**"Non-Personal Information"** is any information that does not reveal your specific identity, such as:
+**"Technical Information"** may be Personal Information or non-personal information. It is generated and collected as a part of your use of technology to access the Site, such as:
 
   * Browser information
   * Server log files
@@ -77,35 +79,39 @@ Your Personal Information may be disclosed:
 
 
 
-### How We Collect Non-Personal Information
+### HOW WE COLLECT TECHNICAL INFORMATION
 
-We and our third-party service providers may collect Non-Personal Information in a variety of ways, including:
+We and our third-party service providers may collect Technical Information in a variety of ways, including:
 
   * **Through your browser:** Certain information is collected by most browsers, such as your Media Access Control ("MAC") address, computer type (Windows or Macintosh), screen resolution, and the type and version of your operating system and browser.
-  
+  *   
 
   * **Through server log files:** An Internet Protocol ("IP") address is a number that is automatically assigned to a computer by an Internet Service Provider ("ISP"), and is identified and logged automatically in our server log files whenever a user visits the Site, along with the time of the visit and the page(s) that were visited. We and our service providers use IP addresses for purposes such as calculating Site usage levels, helping diagnose server problems and administering the Site.
-  
+  *   
 
   * **Using cookies:** Cookies allow a web server to transfer data to a computer for recordkeeping and other purposes. We and our service providers use cookies and other technologies to, among other things, enhance and personalize your online browsing and shopping experience and facilitate your ongoing access to and use of the Site, as well as for online tracking purposes. If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to decline the use of cookies. To learn more about cookies, please visit http://www.allaboutcookies.org/. If you choose to decline cookies, some or all of the features, functionality and promotions available through the Site − such as the shopping cart, ability to view certain pages of the Site, and even placing orders or reviewing your order history − may not be available to you.
-  
+  *   
 
   * **Flash Local Stored Objects:** We and our service providers may use a third-party technology, called Flash, in connection with the Site or our online content. Flash provides a facility, referred to as Local Stored Objects ("LSO"), that allows a website operator or online content provider (or their service providers) to store certain information locally on an individual's computer; for example, Flash LSOs can be used to store information regarding an individual's computer. If you do not want Flash LSOs stored on your computer, you can adjust the settings of your Flash player to block Flash LSO storage using the Website Storage Settings Panel. You can also control Flash LSOs by going to the Global Storage Settings Panel and following the instructions (which may include instructions that explain, for example, how to delete existing Flash LSOs (referred to as "information" on the Macromedia site), how to prevent Flash LSOs from being placed on your computer without you being asked, and (for Flash Player 8 and later) how to block Flash LSOs that are not being delivered by the operator of the page you are on at the time). Please note that setting the Flash Player to restrict or limit acceptance of Flash LSOs may reduce or impede the functionality of some Flash applications, including, potentially, Flash applications used in connection with the Site or our online content. We expect our service providers and technology suppliers to honor any decision by you to restrict or limit Flash LSOs, but we cannot guarantee that they will do so.
-  
+  *   
 
   * **Using pixel tags and other similar technologies:** Pixel tags (also known as web beacons and clear GIFs) are small images that may be used by us and our service providers in connection with some Site pages and HTML-formatted email messages to, among other things, render the Site pages to you on various hardware devices and operating system versions, track the actions of Site users and email recipients, measure the success of marketing campaigns and compile statistics about Site usage and response rates. Pixel tags may collect information such as the pages, features and links accessed by a Site visitor, and the IP address, browser type and operating system of such visitor's computer.
-  
+  *   
 
   * **From you:** We and our service providers may collect demographic information such as your location, as well as other information, such as your preferred means of communication, your gender and your date of birth, when you voluntarily provide this information to us or our service providers. You may also have the opportunity to provide us with information regarding major events such as weddings, child births and the purchase of a new home. We also maintain a record of your orders, purchases, exchanges, returns, wish lists and gift registries in connection with the Site or our businesses. Unless combined with Personal Information, this information does not personally identify you or any other customer or potential customer of our businesses.
-  
+  *   
 
   * **By aggregating information:** We and our service providers may aggregate Personal Information collected from our customers and potential customers, for example by using Personal Information to calculate the percentage of such individuals who have a particular telephone area code. Aggregated Personal Information does not personally identify you or any other customer or potential customer.
 
 
 
-### How We Use and Disclose Non-Personal Information
+### HOW WE USE AND DISCLOSE TECHNICAL INFORMATION
 
-Because Non-Personal Information does not personally identify you, we may use and disclose Non-Personal Information for any purpose. In some instances, we may combine Non-Personal Information with Personal Information (such as combining your name with your zip code). If we combine any Non-Personal Information with Personal Information, the combined information will be treated by us as Personal Information while it is so combined.
+Where Technical Information is non-personal information, we may use and disclose such information for any purpose. In some instances, we may combine non-personal information with Personal Information (such as combining your name with your zip code). If we combine any non-personal information with Personal Information, the combined information will be treated by us as Personal Information while it is so combined.
+
+### USE OF INFORMATION FOR MARKETING AND PROMOTION RELATED PURPOSES
+
+By supplying us with Personal Information, you understand and agree that it may be used to provide you with marketing and/or promotional information and materials (including but not limited to via United States mail, and e-mail,) about our products or services. You are voluntarily providing this information and hereby expressly grant us the right to use the information supplied for such purposes. Please note that we reserve the right to utilize the information you provide to us for our marketing and/or promotional purposes, and to determine how to better communicate with our customers in our sole discretion. The provision of Personal Information is not a condition for engaging in a credit and/or debit card transaction, and is a voluntary program that has no association with any particular form of transaction or method of payment. Also, you can always withdraw your consent by using the mechanisms described below in the Choices & Access section.
 
 ## **THIRD PARTIES AND THIRD PARTY SITES**
 
@@ -115,26 +121,30 @@ To the extent that you submit any Personal Information to any third party (for e
 
 We may use third-party advertising companies to serve ads when you visit the Site. Please note that these companies may use information about your visit to the Site to provide advertisements about goods and services that may be of interest to you. In the course of serving advertisements to the Site, these companies may place or recognize a unique cookie on your browser. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit [http://networkadvertising.org/optout_nonppii.asp.](http://networkadvertising.org/optout_nonppii.asp)
 
+## **DO NOT TRACK**
+
+Several major browsers have implemented the World Wide Web Consortium?s (?W3C?) ?Do Not Track? (?DNT?) technical specification. This technical specification has not been finalized by the W3C and is consequently not consistently deployed. The Site is not compatible with the DNT specification. However, there are several other mechanisms by which our customers may make their preferences regarding interest based advertising known. If you would like more information about these mechanisms, and how to use these mechanisms, please visit [http://networkadvertising.org/optout_nonppii.asp.](http://networkadvertising.org/optout_nonppii.asp)
+
 ## **SECURITY**
 
 We seek to use reasonable organizational, technical and administrative measures to protect Personal Information under our control. For example, we seek to use Secure Sockets Layer ("SSL") technology for the placement of orders. Unfortunately, no data storage system or data transmission over the Internet can be guaranteed to be 100% secure. Please exercise caution in submitting Personal Information via the Site, especially if you are accessing the Site using a WiFi hotspot or public network. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account that you might have with us has been compromised, or if you are unable to utilize our Site-related SSL technology), please immediately notify us of the problem and place any orders with us over the telephone or in person, instead of using the Site. You may contact us in such circumstances in accordance with the "Contacting Us" section below.
 
 ## **CHOICES AND ACCESS**
 
-### Your choices regarding our use and disclosure of your Personal Information
+### YOUR CHOICES REGARDING OUR USE AND DISCLOSURE OF YOUR PERSONAL INFORMATION
 
 We give you many choices regarding our use and disclosure of your Personal Information for marketing purposes. You may opt-out from:
 
-  * **Receiving promotional emails or catalogs from us:** If you no longer want to receive promotional emails (such as information about new products, special offers and sales events) or catalogs from us on a going-forward basis, you may opt-out of receiving such communications by: clicking the "opt-out" link in any promotional email; clicking the "opt-out" link on the Site, available at: <http://www.restorationhardware.com/customer-service/email-unsubscribe.jsp> for promotional emails, and at <http://www.restorationhardware.com/customer-service/catalog-cancellation.jsp> for catalogs; or by contacting us in accordance with the "Contacting Us" section below. In each case, please remember that, if you wish to opt-out of receiving all promotional emails from Restoration Hardware, you may need to opt-out separately for each Restoration Hardware brand. When so contacting us, please be sure to include your full name and the email and/or postal address that you used when registering or making a purchase. We will seek to process your requests regarding promotional emails within 10 business days, and to process your requests regarding catalogs within 90 days.
-  
+  * **Receiving promotional emails or catalogs from us:** If you no longer want to receive promotional emails (such as information about new products, special offers and sales events) or catalogs from us on a going-forward basis, you may opt-out of receiving such communications by: clicking the "opt-out" link in any promotional email; clicking the "opt-out" link on the Site, available at: [ http://www.restorationhardware.com/customer-service/email-unsubscribe.jsp](http://www.restorationhardware.com/customer-service/email-unsubscribe.jsp) for promotional emails, and at [ http://www.restorationhardware.com/customer-service/catalog-cancellation.jsp](http://www.restorationhardware.com/customer-service/catalog-cancellation.jsp) for catalogs; or by contacting us in accordance with the "Contacting Us" section below. In each case, please remember that, if you wish to opt-out of receiving all promotional emails from Restoration Hardware, you may need to opt-out separately for each Restoration Hardware brand. When so contacting us, please be sure to include your full name and the email and/or postal address that you used when registering or making a purchase. We will seek to process your requests regarding promotional emails within 10 business days, and to process your requests regarding catalogs within 90 days.
+  *   
 
-  * **Our sharing of your Personal Information with Affiliates, Promotional Partners and other third parties for their marketing purposes:** If you no longer want us to share your Personal Information on a going-forward basis with our Affiliates, Promotional Partners and other third parties for their marketing purposes, you may opt-out of such sharing by contacting us in accordance with the "Contacting Us" section below. In so contacting us, please be sure to include your full name and the contact information that you no longer wish to be shared, and state specifically whether you wish to opt-out of such sharing with (a) Affiliates, (b) Promotional Partners and other third parties, or (c) both. We will seek to process your request within 90 days.
+  * **Our sharing of your Personal Information with Affiliates, Promotional Partners and other third parties for their marketing purposes:** If you no longer want us to share your Personal Information on a going-forward basis with our Affiliates, Promotional Partners and other third parties for their marketing purposes, you may opt-out of such sharing by contacting us in accordance with the "Contacting Us" section of this site. In so contacting us, please be sure to include your full name and the contact information that you no longer wish to be shared, and state specifically whether you wish to opt-out of such sharing with (a) Affiliates, (b) Promotional Partners and other third parties, or (c) both. We will seek to process your request within 90 days.
 
 
 
 We will try to comply with your request(s) as soon as reasonably practicable. Please note that if you opt-out as described above, we will not be able to remove your Personal Information from the databases of our Affiliates, Promotional Partners and other third parties with which we have already shared your Personal Information (i.e., to which we have already provided your Personal Information as of the date that we implement your opt-out request). Please also note that if you do opt-out of receiving marketing-related messages from us, we may still send important administrative messages to you, and you cannot opt-out from receiving such administrative messages. For example, when you place an order, we will continue to confirm your order and shipment status by email. We may also need to contact you via telephone, email or postal mail with information or questions regarding your order.
 
-### How you can access or change your Personal Information
+### HOW YOU CAN ACCESS OR CHANGE YOUR PERSONAL INFORMATION
 
 We welcome your willingness to update your information with us. You may review or ask us to update your Personal Information by contacting us in accordance with the "Contacting Us" section below. In your request, please make clear what information you would like to have changed.
 
@@ -152,40 +162,58 @@ The Site is controlled and operated by us from the United States, and is not int
 
 California Civil Code Section 1798.83 permits customers of Restoration Hardware who are California residents to request certain information regarding its disclosure of personally identifiable information to third parties for their direct marketing purposes. To make such a request, please write to us at:
 
-Restoration Hardware CA Privacy Rights  
-Attn: Customer Service  
-2900 North MacArthur Drive - Suite 100  
+Restoration Hardware CA Privacy Rights   
+Attn: Customer Service   
+2900 North MacArthur Drive - Suite 100   
 Tracy, California 95376
 
 ## **CONTACTING US**
 
 If you have any questions about this Privacy Policy, or to make choices about receiving promotional communications, to update your Personal Information, or to place an order, please contact the appropriate Restoration Hardware brand as follows:
 
-  * **Restoration Hardware** (including Outlet and Clearance Center) Restoration Hardware  
-Attn: Customer Service  
-2900 North MacArthur Drive - Suite 100  
-Tracy, CA 95376  
-1.800.910.9836  
+  * **RH Contemporary Art**   
+Attn: Collector Care   
+15 Koch Road, Suite J   
+Corte Madera, CA 94925   
+1.855.807.1100   
+[rhcacollectorcare@restorationhardware.com](mailto:rhcacollectorcare@restorationhardware.com)
+  * **Restoration Hardware** (including Outlet and Clearance Center) Restoration Hardware   
+Attn: Customer Service   
+2900 North MacArthur Drive - Suite 100   
+Tracy, CA 95376   
+1.800.910.9836   
 [webcs@restorationhardware.com](mailto:webcs@restorationhardware.com)
-  * **Restoration Hardware Baby and Child** Restoration Hardware Baby & Child  
-Attn: Customer Service  
-2900 North MacArthur Drive - Suite 100  
-Tracy, CA 95376  
-1.800.762.1751  
+  * **Restoration Hardware Baby and Child** Restoration Hardware Baby & Child   
+Attn: Customer Service   
+2900 North MacArthur Drive - Suite 100   
+Tracy, CA 95376   
+1.800.762.1751   
 [webcs@restorationhardware.com](mailto:webcs@restorationhardware.com)
-  * **Restoration Hardware Trade Division** Restoration Hardware Trade  
-Attn: Customer Service  
-2900 North MacArthur Drive - Suite 100  
-Tracy, CA 95376  
-1.877.733.6200  
+  * **Restoration Hardware Trade Division** Restoration Hardware Trade   
+Attn: Customer Service   
+2900 North MacArthur Drive - Suite 100   
+Tracy, CA 95376   
+1.877.733.6200   
 [webcs@restorationhardware.com](mailto:webcs@restorationhardware.com)
-  * **Restoration Hardware Contract Division** Restoration Hardware Contract  
-Attn: Customer Service  
-2900 North MacArthur Drive - Suite 100  
-Tracy, CA 95376  
-1.877.733.6200  
+  * **Restoration Hardware Contract Division** Restoration Hardware Contract   
+Attn: Customer Service   
+2900 North MacArthur Drive - Suite 100   
+Tracy, CA 95376   
+1.877.733.6200   
 [webcs@restorationhardware.com](mailto:webcs@restorationhardware.com)
 
 
 
 Please note that email communications are not always secure; so please do not include credit card information or other sensitive information in your email messages to us.
+
+## **CALIFORNIA TRANSPARENCY IN SUPPLY CHAINS ACT (SB 657) DISCLOSURE**
+
+Restoration Hardware is providing the following disclosure in compliance with The California Transparency in Supply Chains Act of 2010 (SB 657), which requires that companies disclose their efforts to eradicate slavery and human trafficking from their direct supply chains. 
+
+**Vendor Code of Conduct** Restoration Hardware requires that vendors certify that they will comply with our Vendor Code of Conduct, which prohibits our vendors from using child labor or involuntary labor. Our Vendor Code of Conduct also requires that vendors conduct their operations in accordance with all laws applicable to their businesses.
+
+**Monitoring of Compliance** We review the terms of our Vendor Code of Conduct with all of our suppliers, and conduct periodic reviews of their facilities in order to confirm that they are in compliance with all required policies.
+
+**Training** We train our employees who are responsible for procuring products on the importance of confirming that our vendors comply with the Vendor Code of Conduct, including its prohibitions on child labor and involuntary labor. We also train our employees to identify and respond to concerns about labor practices in the supply chain that might arise from time to time.
+
+**Corrective Action** If the event that a vendor were to violate our Vendor Code of Conduct, we would have the option to terminate our business relationship with that vendor or take other actions with that vendor to remediate any problems that had been identified.
