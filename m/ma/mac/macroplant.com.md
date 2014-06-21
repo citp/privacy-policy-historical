@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macroplant.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219105732id_/http%3A//www.macroplant.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macroplant.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622015914id_/http%3A//www.macroplant.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Macroplant - iExplorer License Agreement
 
@@ -10,7 +10,7 @@ We collect information from you when you place an order or subscribe to our news
 
 ## Third Party Credit Card Processing
 
-Depending on the product, Macroplant software can be purchased through two seperate channels. Most of our products are sold through our online store. These purchasess are securely processed using by FastSpring Inc. When purchasing our software, the transaction will occur on a secure site maintained and operated by FastSpring. Your credit card information may be required and transmitted securely through FastSpring in order to complete a purchase of our software, but at no time will your credit card information be made available to Macroplant LLC. For more information, visit [www.fastspring.com](https://web.archive.org/web/20131219105732id_/http://www.macroplant.com/legal/privacy-policy/www.fastspring.com). 
+Depending on the product, Macroplant software can be purchased through two seperate channels. Most of our products are sold through our online store. These purchasess are securely processed using by FastSpring Inc. When purchasing our software, the transaction will occur on a secure site maintained and operated by FastSpring. Your credit card information may be required and transmitted securely through FastSpring in order to complete a purchase of our software, but at no time will your credit card information be made available to Macroplant LLC. For more information, visit [www.fastspring.com](https://web.archive.org/web/20140622015914id_/http://www.macroplant.com/legal/privacy-policy/www.fastspring.com). 
 
 Alternatively, our products such as itDJ and Awesome Files, are sold exclusively through Apple's App Stores for iOS and Mac. 
 
