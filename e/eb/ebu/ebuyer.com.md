@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebuyer.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212221657id_/http%3A//www.ebuyer.com/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebuyer.com privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621144934id_/http%3A//www.ebuyer.com/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy & Cookies | Ebuyer.com
 
@@ -59,7 +59,8 @@ This may include delivery, reviews, lists and extended warranties, and other pro
 
 They or we may contact you about these by telephone, mail, email and SMS, using the contact details you provide and update us with, which we obtain or update with you in our dealings, or which we obtain or update from external sources. This may include telephone numbers that are registered by you or others unless you have told us directly that you do not wish to be contacted for this purpose on a particular telephone number. By providing your details through the website, you are agreeing to this.
 
-If you don't want to be contacted by post or telephone you can email us at [dataremoval@ebuyer.com](mailto:dataremoval@ebuyer.com) or write to us at: Data Removal, Ebuyer (UK) Limited, Howden, East Yorkshire, DN14 7UW. If you do so, please bear with us for a short time whilst we adjust our records. This usually takes up to 28 days.
+If you don't want to be contacted by post or telephone you can email us at [dataremoval@ebuyer.com](mailto:dataremoval@ebuyer.com), call us on 0871 521 3300* or write to us at: Data Removal, Ebuyer (UK) Limited, Howden, East Yorkshire, DN14 7UW. If you do so, please bear with us for a short time whilst we adjust our records. This usually takes up to 10 days.  
+* Calls cost 10p per minute plus network extras. Lines open: Monday-Friday 9am-6pm (excluding bank holidays). Please remember to use the international dialing code (+44) when calling from outside the UK
 
 If you don't want to be contacted by email, please unsubscribe from the Ebuyer marketing emails that contain an easy means for you to unsubscribe.
 
