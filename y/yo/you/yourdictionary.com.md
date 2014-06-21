@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourdictionary.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216194855id_/http%3A//www.yourdictionary.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourdictionary.com privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621021326id_/http%3A//www.yourdictionary.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -37,7 +37,3 @@ We may disclose your personally identifiable information as well as your IP addr
 If you have questions about this privacy policy or the practices of this site, please contact: LoveToKnow Corp., 1325 Howard Ave., Suite 307, Burlingame, CA 94010 E-Mail: admin at yourdictionary.com
 
  _YourDictionary reserves the right to change this Privacy Policy at any time, with or without notice. All changes will be posted to this page._
-
-## Post a comment.
-
-[comments powered by ](http://disqus.com/)
