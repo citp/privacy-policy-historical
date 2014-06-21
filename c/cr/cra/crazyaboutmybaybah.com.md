@@ -1,24 +1,7 @@
-> *The following text is extracted and transformed from the crazyaboutmybaybah.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214030808id_/http%3A//www.crazyaboutmybaybah.com/pr-friendly/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crazyaboutmybaybah.com privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621155153id_/http%3A//www.crazyaboutmybaybah.com/pr-friendly/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Crazy About My Baybah
 
+[](http://www.shareasale.com/r.cfm?b=507712&u=612678&m=46239&urllink=&afftrack=)
+
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
-
-#### Welcome To Our Blog!
-
-[](http://www.crazyaboutmybaybah.com/)Hello and welcome! A Pittsburgh native, Lolo now resides in Las Vegas, Nevada with her husband and her 4-year old son affectionately known as “Baybah” online. Combining the love of her family and a passion for photography, Lauren created CrazyAboutMyBaybah.com in 2009.  
-
-
-[Read More...](http://www.crazyaboutmybaybah.com/about/)
-
-#### Artwork For Kids
-
-  
-[](http://ladanddad.etsy.com/)   
-
-
-#### Our Affiliates
-
-[](http://www.shareasale.com/r.cfm?b=538854&u=612678&m=46239&urllink=&afftrack=)
-
-[](http://www.zulily.com/invite/WeLoveZulily)
