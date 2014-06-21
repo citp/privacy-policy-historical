@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the royalmail.com privacy policy that was archived on 2013-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131013235913id_/http%3A//www.royalmail.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royalmail.com privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621125924id_/http%3A//www.royalmail.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Royal Mail Group Ltd
 
@@ -35,7 +35,7 @@ Sometimes we'll share your information with carefully selected third parties out
 
     * To provide you with a service. Some of our services are provided in conjunction with our business partners, and we'll need to disclose your information to them to provide you with the services. We make it clear in the terms and conditions for each service whether information will be passed to third parties or not. We may also share your information with certain third parties performing services for us where this will help us to provide services to you, or to improve the quality of the services that we provide to you.
     * To provide you with information about special promotions and offers. If you have given your consent by choosing to opt in on the registration form, we may share some of your information with carefully selected third parties so that they can provide you with information about products and services that may be of interest to you.
-    * To protect the Royal Mail group or others. We may share your information with third parties when we believe it is necessary to comply with the law or protect our or another person’s rights, property, or safety. This includes exchanging information with third parties to protect against fraud and to reduce payment risks.
+    * To protect the Royal Mail group or others. We may share your information with third parties (including the police and other law inforcement agencies) when we believe it is necessary to comply with the law or protect our or another person’s rights, property, or safety. This includes exchanging information with third parties to protect against fraud and to reduce payment risks or disclosure of personal information to the police and other law enforcement authorities in connection with the prevention and detection of crime..
     * In the event that we sell or buy any business or assets and if this happens we may disclose your information to the potential seller or buyer of such business or assets.
 
 We will only deal with third parties that we trust to act in our customers’ best interests and who treat our customers’ information with the same stringent controls that we apply ourselves.
