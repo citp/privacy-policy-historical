@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the househunt.com privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816045253id_/http%3A//www.househunt.com/privacy04.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the househunt.com privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621155618id_/http%3A//www.househunt.com/privacy04.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -37,6 +37,8 @@ With whom does HouseHunt share Information?
 As a general rule HouseHunt will not disclose any specific personal information that you submit to us about you ("Personal Information") in a manner that connects you with the Personal Information, except when we have your permission or under special circumstances, such as when we believe in good faith that the law requires it or under the circumstances described below. The following describes some of the ways that your Personal Information may be disclosed. 
 
 Real Estate Agents: Personal Information is disclosed to our local real estate agents in the geographical area that you request for the purpose of assisting you in a real estate transaction. 
+
+Mortgage Lenders: Personal information may be disclosed to our local mortgage lenders in the geographical area that you request for the purpose of assisting you in a mortgage transaction. 
 
 Third Party & Aggregate Data: From time to time, you may be offered the opportunity to receive materials or special offers from third parties exists. If you opt to receive information from these third parties, HouseHunt will (with your permission) share your name and e-mail address with such third parties. Under confidentiality agreements, HouseHunt may match Personal Information with third party data. Also, HouseHunt may keep track of what portions of the Website Users are visiting and other User statistics, and aggregate this information to help us create a better experience for users of our Web site. This is all done without knowing your name or other Personal Information in order to describe our viewers and services to prospective partners, advertisers, and other third parties, and for other lawful purposes. 
 
