@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mydr.com.au privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213123115id_/http%3A//www.mydr.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydr.com.au privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621214610id_/http%3A//www.mydr.com.au/privacy) for the most accurate reproduction.*
 
 # privacy policy - myDr.com.au
 
 ## A statement about privacy and collection of personal information
 
-MIMS Australia Pty Ltd (" **We** ", " **Our** ", or " **Us** ") as publisher of _myDr_ ( **Website** ), aims to protect the privacy of the personal information We collect and hold whilst carrying out Our business activities. 
+Cirrus Media Pty Ltd (" **We** ", " **Our** ", or " **Us** ") as publisher of _myDr_ ( **Website** ), aims to protect the privacy of the personal information We collect and hold whilst carrying out Our business activities. 
 
 We are bound by the National Privacy Principles ( **Principles** ) in the _Privacy Act 1988_ (Cth)( **Act** ). 
 
@@ -114,14 +114,14 @@ On occasion there may be services that you nominate to use that require you to n
 You may seek access to personal information that We hold about you by contacting Our Privacy Officer as follows: 
 
 By Post:  
-MIMS Australia Privacy and Security  
-Locked Bag 3000,  
-St Leonards, NSW 1590,  
+Cirrus Media Privacy and Security  
+Locked Bag 4700,  
+Chatswood DC, NSW 2067,  
 Australia 
 
-By Phone: +61 2 9902 7740 
+By Phone: +61 2 8484 0888 
 
-By Fax: +61 2 9902 7778 
+By Fax: +61 2 8484 0922 
 
 By Email: [admin@mydr.com.au](mailto:admin@mydr.com.au)
 
@@ -129,6 +129,6 @@ If you make a request for access to your personal information, We will ask you t
 
 In some circumstances, the Act entitles Us to deny access, for example if providing access would impact unreasonably on the privacy of others or prejudice negotiations in which We are involved. If We do refuse access, We are required to let you know the reasons for Our refusal. 
 
-Last revised: 20 October 2009. 
+Last revised: 03 February 2014. 
 
-Last Reviewed: 20 October 2009 
+Last Reviewed: 03 February 2014 
