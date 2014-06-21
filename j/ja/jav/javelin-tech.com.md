@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the javelin-tech.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226151128id_/http%3A//www.javelin-tech.com/main/company/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the javelin-tech.com privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621235321id_/http%3A//www.javelin-tech.com/main/company/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Privacy Practices for Javelin Website & Electronic Communications
 
@@ -6,7 +6,7 @@
 
 Welcome to this website, a service of Javelin Technologies Inc. This statement discloses the privacy practices for this website, including an explanation of which personally identifiable information of yours is collected; the organization collecting the information; how the information is used; with whom the information may be shared; which choices are available to you regarding collection, use and distribution of the information; the kind of security procedures that are in place to protect the loss, misuse or alteration of information; and how you can correct any inaccuracies in the information. 
 
-Questions regarding this statement should be directed to Javelin through one of the feedback forms you will find on the website, or by sending a notice by mail to Javelin Technologies Inc., Suite 700, 700 Dorval Drive, Oakville, Ontario, L6K 3V3.
+Questions regarding this statement should be directed to Javelin through one of the [feedback forms](https://web.archive.org/web/20140621235321id_/http%3A//www.javelin-tech.com/main/company/call_me.htm) you will find on the website, or by sending a notice by mail to Javelin Inc., 3457 Superior Court, Unit #1, Oakville, Ontario, Canada, L6L 0C4.
 
 ### **Information Collection and Use**
 
@@ -22,9 +22,9 @@ We use cookies to help us tailor our website to your needs, to deliver a better,
 
 In connection with the standard operation of Javelin's website, certain non-personally identifiable information about visitors to this website is recorded. This information is used primarily to tailor and enhance visitors' experience using the website. We may use this information in an aggregate, non-personally identifiable form to, among other things, measure the use of our website and determine which products and services are the most popular with website visitors. 
 
-### **Declining E-mail Offers**
+### **Sales E-mail Opt-out / Decline Consent**
 
-Although most customers appreciate receiving notices from us, we appreciate the importance of providing you with choices. You may request to "Unsubscribe" at any time after receiving an email from Javelin. All email offers that you receive from Javelin will instruct you how to decline further email from us. 
+Although most customers appreciate receiving notices from us, we understand the importance of providing you with choices. You may opt-out at any time after receiving a sales related email from Javelin. All sales related emails include an unsubscribe link so that you can decline further communication. Go to our [Email Preferences](http://solution.javelin-tech.com/connect) page to update how you receive communications from us.
 
 ### **Other Websites**
 
