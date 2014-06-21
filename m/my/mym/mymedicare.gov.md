@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mymedicare.gov privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229063036id_/http%3A//www.cms.gov/About-CMS/Agency-Information/Aboutwebsite/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymedicare.gov privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621022956id_/http%3A//www.cms.gov/About-CMS/Agency-Information/Aboutwebsite/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Centers for Medicare & Medicaid Services (CMS) Website Privacy Policy - Centers for Medicare & Medicaid Services
 
@@ -116,6 +116,10 @@ TPWAs are not exclusively operated or controlled by CMS websites. Users of TPWAs
 CMS websites sometime collect and use your PII if you made it available through third-party websites. However, we do not share PII made available through third-party websites. Your activity on the third-party websites we use is governed by the security and privacy policies of those sites. You should review the third-party privacy policies before using the sites and ensure that you understand how your information may be used.
 
 If you have an account with a third-party website and choose to “like,” “friend,” follow, or comment, certain PII associated with your account may be made available to CMS websites based on the privacy policy of the third-party website and your privacy settings within that website. You should adjust privacy settings on your account to match your preferences.
+
+We also collect non-personally identifiable information through the use of tracking pixels that appear on our pages. A tracking pixel is a transparent graphic image (usually 1 pixel x 1 pixel) that is placed on a web page and, in combination with a cookie, allows us to collect information regarding the use of the web page that contains the tracking pixel.
+
+We use tracking pixels to tell when an advertisement we run on another website has been clicked on or otherwise interacted with. We use that information to judge which advertisements are more appealing to users. To opt out of these tracking pixels, please see the section above titled “How to opt out or disable cookies.”
 
 ## **Links to other sites**
 
