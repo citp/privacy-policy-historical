@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the exchangeandmart.co.uk privacy policy that was archived on 2013-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131220112006id_/http%3A//www.exchangeandmart.co.uk/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the exchangeandmart.co.uk privacy policy that was archived on 2014-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140621150951id_/http%3A//www.exchangeandmart.co.uk/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><meta http-equiv="Content-Type" content="text/html;charset=utf-8"><meta id="ctl00_metaDescription" name="description" content="Privacy Policy"><meta id="ctl00_metaKeywords" name="keywords"><meta name="msvalidate.01" content="4E45C596C11F0A3ACC5D4F09D8EDA793">
 
-<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">var pagelifespan="start";AC_FL_RunContent=0</script>
+<script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">var loadStart=(new Date()).getTime();var loadEnd = 0;var pagelifespan="start";AC_FL_RunContent=0</script>
 
-<script type="text/javascript" src="/js/jquery-1.7.1.min.js"></script><script type="text/javascript" src="/js/enm-v7.39.min.js"></script>
-<link rel="Stylesheet" href="/css/enm-v7.39.min.css">
+<script type="text/javascript" src="/js/jquery-1.7.1.min.js"></script><script type="text/javascript" src="/js/enm-v7.48.min.js"></script>
+<link rel="Stylesheet" href="/css/enm-v7.48.min.css">
 <script type="text/javascript">
     var kwBox = "#txtKeywords",
         pcBox = "#txtPostcode",
@@ -18,15 +18,16 @@
         force_p_newlines = false,
         forced_root_block = '' // Needed for 3.x
 </script>
+<style>#leftbar{margin:0 10px 0 0}</style>
 <title>
 	Privacy Policy
 </title><link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"><link id="ctl00_canonical" rel="canonical" href="/privacy-policy">
-    <!--[if IE 6]>
-    <link rel="Stylesheet" href="/css/enm_IE6-v7.39.min.css" /><![endif]-->
-    <!--[if IE 7]> 
-    <link rel="Stylesheet" href="/css/enm_IE7-v7.39.min.css" />
-    <script>var bIE7=true</script>    
-    <![endif]-->
+<!--[if IE 6]>
+<link rel="Stylesheet" href="/css/enm_IE6-v7.48.min.css" /><![endif]-->
+<!--[if IE 7]> 
+<link rel="Stylesheet" href="/css/enm_IE7-v7.48.min.css" />
+<script>var bIE7=true</script>    
+<![endif]-->
 <script type="text/javascript">
 function logEvent(event,adid,orgid){Enm.Core.LogEvt(event,adid,orgid)}
 prepMPS();
@@ -72,13 +73,22 @@ googletag.cmd = googletag.cmd || [];
             });
         });
 
-        $('[id^="DFP_PH_"]').each(function () {
+        //only load positions that are not hidden using display:none. NOTE using jQuery :visible does not work if a position is floated as it will not have a width or height until content is loaded
+        $('[id^="DFP_PH_"]').filter(function() { 
+            return $(this).parents().filter(function(){
+                return $(this).css('display') == 'none';})
+            .length == 0 })
+        .each(function () {
             var id = $(this).attr('id');
             var position = id.replace('DFP_PH_', '');
             var size = eval($(this).attr('dfp_sizes'));
 
-            googletag.cmd.push(function () { googletag.defineSlot(adUnitCode, size, id).addService(googletag.pubads()).setTargeting('position', position); });
+            googletag.cmd.push(function () { googletag.defineSlot(adUnitCode, size, id).addService(googletag.pubads()).setTargeting('position', position).setCollapseEmptyDiv(true); });
 
+        });
+
+        googletag.cmd.push(function () {
+            googletag.pubads().collapseEmptyDivs(true);
         });
 
         googletag.cmd.push(function () {
@@ -87,7 +97,7 @@ googletag.cmd = googletag.cmd || [];
             googletag.enableServices();
         });
 
-        $('[id^="DFP_PH_"]').each(function () {
+        $('[id^="DFP_PH_"]:visible').each(function () {
             var id = $(this).attr('id');
             googletag.cmd.push(function () { googletag.display(id); });
         });
@@ -96,21 +106,26 @@ googletag.cmd = googletag.cmd || [];
 
 </script></head>
 <body>
-
-<img src="/img/spr/cor/c1.png?v6" style="display:none">
+<div id="DFP_OOP"></div>
 
 
 <div id="fb-root"></div>
 
 
-<script type="text/javascript" src="/js/oas-v7.39.min.js"></script>
-<script type="text/javascript">Enm.OAS.sitepage='www.exchangeandmart.co.uk';Enm.OAS.positions='Position2,Position3,Position4';Enm.OAS.query='&Site=www';Enm.OAS.renderOASCallScript()</script>
+<script type="text/javascript" src="/js/oas-v7.48.min.js"></script>
+<script type="text/javascript">Enm.OAS.sitepage='www.exchangeandmart.co.uk';Enm.OAS.positions='Position2,Position3';Enm.OAS.query='&Site=www';Enm.OAS.renderOASCallScript()</script>
 
 
 <div id="floatingPageContainer">
-<script type="text/javascript">var s_account="newsquestexchangeandmartprod",omniAdID='';var omniDebug = false;</script>
-<script type="text/javascript" src="/js/s_code-v7.39.min.js"></script>
-
+<script type="text/javascript">var s_account = "newsquestexchangeandmartprod", omniAdID = '';var omniDebug = false;</script>
+<script type="text/javascript" src="/js/s_code-v7.48.min.js"></script>
+<script type="text/javascript">
+    $(window).on('load', function () {
+        loadEnd = (new Date()).getTime();
+        var seconds = Math.round((loadEnd - loadStart) / 1000);
+        omniTrack('event13', { eVar22: seconds, eVar37: (window.location.pathname || 'unknown') });
+    });
+</script>
 
 
 
@@ -118,73 +133,67 @@ googletag.cmd = googletag.cmd || [];
 <div id="page">
 <form name="aspnetForm" method="post" action="/privacy-policy" id="aspnetForm">
 <div>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJODYwNzA5MTM4ZGQUUSGMkZcL2E+VZedj8MCJ5Skv5Q==">
-</div>
-
-<script>function Bookmark(){alert('Press Ctrl + D to add to your bookmarks')}</script>
-
-<div id="header"><div style="float:left;height:100px"><a href="/" class="mainLogo"></a></div>
-
-<div style="height:100px;width:729px" class="noprint fr">
-
-
-<div id="DFP_PH_top_leaderboard" dfp_sizes="[[728,90]]"></div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE0MTMwNTM1MDVkZIEKnD7m9dcTSFJvLZL6+k16BmOm">
 </div>
 
 
+<div id="header">
+<div style="height:41px">
+    <div style="float:left">
+    <a href="/" class="mainLogo"></a>
+    </div>
 
-<div id="menu4">
 
+    
+<div id="menu4" style="width:640px;float:right">
 
     <ul id="nav4">
-   
-   
-        <li class="home"><a class="homepage" href="/">home</a></li>
-   
-    
-        <li class="bm"><a href="#" onclick="javascript:Bookmark()">bookmark<span class="bookmark"></span></a></li>
-    
-    
-
-    
-
+    <li class="home"><a class="homepage" href="/"></a></li>
        
-            <li><a href="/sell-an-item/select-package">sell items</a></li>
-        <li><a href="/place-an-ad">sell motors</a></li>
         <li class="ma"><a href="/my-account">my account<span class="arrow-down"></span></a>
-            <ul>
+            <ul style="left:443px;top:21px">
                 <li><a href="javascript:login()">log in</a></li>
-                <li class="fb"><a href="javascript:Enm.Facebook.login()">log in with facebook<span class="fblogo"></span></a></li>
+                <li class="fb"><a href="javascript:Enm.Facebook.login()"><span class="fblogo"></span>log in with facebook</a></li>
                 <li><a href="/register">register</a></li>
                 <li><a href="/place-an-ad">sell motors</a></li>
                 <li><a href="/sell-an-item/select-package">sell items</a></li> 
                 
             </ul>
         </li>
+        <li><a href="/sell-an-item/select-package">sell items</a></li>
+        <li><a href="/place-an-ad">sell motors</a></li>
 
-    
+        
     </ul>
 </div>
+        
 
-<div id="menu1"><ul id="nav1"><li><a href="/">used cars</a><ul><li><a href="/used-cars-for-sale/bmw">BMW (4505)</a></li><li><a href="/used-cars-for-sale/citroen">CITROEN (3506)</a></li><li><a href="/used-cars-for-sale/fiat">FIAT (3504)</a></li><li><a href="/used-cars-for-sale/ford">FORD (16831)</a></li><li><a href="/used-cars-for-sale/mercedes">MERCEDES (5748)</a></li><li><a href="/used-cars-for-sale/nissan">NISSAN (5601)</a></li><li><a href="/used-cars-for-sale/peugeot">PEUGEOT (4433)</a></li><li><a href="/used-cars-for-sale/renault">RENAULT (3639)</a></li><li><a href="/used-cars-for-sale/vauxhall">VAUXHALL (14391)</a></li><li><a href="/used-cars-for-sale/volkswagen">VOLKSWAGEN (6474)</a></li><li><a href="/used-cars-for-sale/">SEARCH ALL MAKES</a></li></ul></li><li><a href="/new-cars">new cars</a><ul><li><a href="/new-cars/audi">AUDI (64)</a></li><li><a href="/new-cars/bmw">BMW (43)</a></li><li><a href="/new-cars/citroen">CITROEN (29)</a></li><li><a href="/new-cars/ford">FORD (29)</a></li><li><a href="/new-cars/mercedes-benz">MERCEDES-BENZ (43)</a></li><li><a href="/new-cars/nissan">NISSAN (21)</a></li><li><a href="/new-cars/peugeot">PEUGEOT (44)</a></li><li><a href="/new-cars/toyota">TOYOTA (27)</a></li><li><a href="/new-cars/vauxhall">VAUXHALL (33)</a></li><li><a href="/new-cars/volkswagen">VOLKSWAGEN (41)</a></li><li><a href="/new-cars">SEARCH ALL MAKES</a></li></ul></li><li><a href="/used-motorbikes-for-sale">used bikes</a><ul><li><a href="/used-motorbikes-for-sale/aprilia">APRILIA (22)</a></li><li><a href="/used-motorbikes-for-sale/bmw">BMW (19)</a></li><li><a href="/used-motorbikes-for-sale/ducati">DUCATI (38)</a></li><li><a href="/used-motorbikes-for-sale/honda">HONDA (152)</a></li><li><a href="/used-motorbikes-for-sale/kawasaki">KAWASAKI (83)</a></li><li><a href="/used-motorbikes-for-sale/sinnis">SINNIS (23)</a></li><li><a href="/used-motorbikes-for-sale/suzuki">SUZUKI (72)</a></li><li><a href="/used-motorbikes-for-sale/triumph">TRIUMPH (143)</a></li><li><a href="/used-motorbikes-for-sale/vespa">VESPA (14)</a></li><li><a href="/used-motorbikes-for-sale/yamaha">YAMAHA (79)</a></li><li><a href="/used-motorbikes-for-sale/">SEARCH ALL MAKES</a></li></ul></li><li><a href="/used-vans-for-sale">used vans</a><ul><li><a href="/used-vans-for-sale/citroen">CITROEN (461)</a></li><li><a href="/used-vans-for-sale/fiat">FIAT (164)</a></li><li><a href="/used-vans-for-sale/ford">FORD (1957)</a></li><li><a href="/used-vans-for-sale/mercedes">MERCEDES (731)</a></li><li><a href="/used-vans-for-sale/mitsubishi">MITSUBISHI (160)</a></li><li><a href="/used-vans-for-sale/nissan">NISSAN (243)</a></li><li><a href="/used-vans-for-sale/peugeot">PEUGEOT (417)</a></li><li><a href="/used-vans-for-sale/renault">RENAULT (495)</a></li><li><a href="/used-vans-for-sale/vauxhall">VAUXHALL (845)</a></li><li><a href="/used-vans-for-sale/volkswagen">VOLKSWAGEN (887)</a></li><li><a href="/used-vans-for-sale/">SEARCH ALL MAKES</a></li></ul></li><li><a href="/used-caravans-for-sale">caravans &amp; motorhomes</a><ul><li><a href="/used-caravans-for-sale/bailey">BAILEY (5)</a></li><li><a href="/used-caravans-for-sale/citroen">CITROEN (5)</a></li><li><a href="/used-caravans-for-sale/compass">COMPASS (5)</a></li><li><a href="/used-caravans-for-sale/fiat">FIAT (10)</a></li><li><a href="/used-caravans-for-sale/ford">FORD (7)</a></li><li><a href="/used-caravans-for-sale/other">OTHER (6)</a></li><li><a href="/used-caravans-for-sale/peugeot">PEUGEOT (5)</a></li><li><a href="/used-caravans-for-sale/swift">SWIFT (5)</a></li><li><a href="/used-caravans-for-sale/talbot">TALBOT (10)</a></li><li><a href="/used-caravans-for-sale/volkswagen">VOLKSWAGEN (7)</a></li><li><a href="/used-caravans-for-sale/">SEARCH ALL MAKES</a></li></ul></li><li><a href="/used-parts-for-sale">parts &amp; accessories</a></li><li id="lidealers"><a href="/used-cars-for-sale/find-a-dealer">find a used car dealer</a><ul style="width:320px"><li class="tc"><a href="/local-used-cars/aberdeen">Aberdeen</a></li><li class="tc"><a href="/local-used-cars/birmingham">Birmingham</a></li><li class="tc"><a href="/local-used-cars/bristol">Bristol</a></li><li class="tc"><a href="/local-used-cars/cambridge">Cambridge</a></li><li class="tc"><a href="/local-used-cars/cardiff">Cardiff</a></li><li class="tc"><a href="/local-used-cars/derby">Derby</a></li><li class="tc"><a href="/local-used-cars/edinburgh">Edinburgh</a></li><li class="tc"><a href="/local-used-cars/glasgow">Glasgow</a></li><li class="tc"><a href="/local-used-cars/hull">Hull</a></li><li class="tc"><a href="/local-used-cars/leeds">Leeds</a></li><li class="tc"><a href="/local-used-cars/leicester">Leicester</a></li><li class="tc"><a href="/local-used-cars/liverpool">Liverpool</a></li><li class="tc"><a href="/local-used-cars/london">London</a></li><li class="tc"><a href="/local-used-cars/manchester">Manchester</a></li><li class="tc"><a href="/local-used-cars/newcastle-upon-tyne">Newcastle Upon Tyne</a></li><li class="tc"><a href="/local-used-cars/northampton">Northampton</a></li><li class="tc"><a href="/local-used-cars/norwich">Norwich</a></li><li class="tc"><a href="/local-used-cars/nottingham">Nottingham</a></li><li class="tc"><a href="/local-used-cars/peterborough">Peterborough</a></li><li class="tc"><a href="/local-used-cars/sheffield">Sheffield</a></li><li class="tc"><a href="/local-used-cars/southampton">Southampton</a></li><li class="tc"><a href="/local-used-cars/swindon">Swindon</a></li></ul></li><li id="liafs"><a href="/items-for-sale/buy-an-item">items for sale</a><ul class="menu"><li class="licat"><a href="/items-for-sale/childrens-corner">CHILDREN'S CORNER (1197)</a></li><li class="licat"><a href="/items-for-sale/furniture-and-furnishings">FURNITURE AND FURNISHINGS (749)</a></li><li class="licat"><a href="/items-for-sale/sports-equipment-and-hobbies">SPORTS EQUIPMENT AND HOBBIES (604)</a></li><li class="licat"><a href="/items-for-sale/miscellaneous">MISCELLANEOUS (456)</a></li><li class="licat"><a href="/items-for-sale/clothing-footwear-and-accessories">CLOTHING, FOOTWEAR AND ACCESSORIES (430)</a></li><li class="licat"><a href="/items-for-sale/household-and-diy">HOUSEHOLD AND DIY (418)</a></li><li class="licat"><a href="/items-for-sale/books">BOOKS (374)</a></li><li class="licat"><a href="/items-for-sale/tv-audio-and-video">TV, AUDIO AND VIDEO (312)</a></li><li class="licat"><a href="/items-for-sale/antiques-and-collectables">ANTIQUES AND COLLECTABLES (260)</a></li><li class="licat"><a href="/items-for-sale/baby-shop">BABY SHOP (244)</a></li><li class="licat"><a href="/items-for-sale/">SEARCH ALL CATEGORIES</a></li></ul></li></ul></div>
+</div>
+
+<div id="menu1"><ul id="nav1"><li><a href="/">Used Cars</a><ul><li><a href="/used-cars-for-sale/audi">AUDI (4460)</a></li><li><a href="/used-cars-for-sale/bmw">BMW (4151)</a></li><li><a href="/used-cars-for-sale/citroen">CITROEN (4238)</a></li><li><a href="/used-cars-for-sale/ford">FORD (16644)</a></li><li><a href="/used-cars-for-sale/mercedes">MERCEDES (6324)</a></li><li><a href="/used-cars-for-sale/nissan">NISSAN (5413)</a></li><li><a href="/used-cars-for-sale/peugeot">PEUGEOT (5272)</a></li><li><a href="/used-cars-for-sale/toyota">TOYOTA (3922)</a></li><li><a href="/used-cars-for-sale/vauxhall">VAUXHALL (13236)</a></li><li><a href="/used-cars-for-sale/volkswagen">VOLKSWAGEN (8086)</a></li><li><a href="/used-cars-for-sale/">SEARCH ALL MAKES</a></li></ul></li><li><a href="/new-cars">New Cars</a><ul><li><a href="/new-cars/audi">AUDI (73)</a></li><li><a href="/new-cars/bmw">BMW (50)</a></li><li><a href="/new-cars/citroen">CITROEN (30)</a></li><li><a href="/new-cars/ford">FORD (30)</a></li><li><a href="/new-cars/mercedes-benz">MERCEDES-BENZ (47)</a></li><li><a href="/new-cars/nissan">NISSAN (21)</a></li><li><a href="/new-cars/peugeot">PEUGEOT (41)</a></li><li><a href="/new-cars/toyota">TOYOTA (31)</a></li><li><a href="/new-cars/vauxhall">VAUXHALL (35)</a></li><li><a href="/new-cars/volkswagen">VOLKSWAGEN (42)</a></li><li><a href="/new-cars">SEARCH ALL MAKES</a></li></ul></li><li><a href="/used-motorbikes-for-sale">Used Bikes</a><ul><li><a href="/used-motorbikes-for-sale/bmw">BMW (25)</a></li><li><a href="/used-motorbikes-for-sale/harley-davidson">HARLEY DAVIDSON (9)</a></li><li><a href="/used-motorbikes-for-sale/honda">HONDA (96)</a></li><li><a href="/used-motorbikes-for-sale/kawasaki">KAWASAKI (49)</a></li><li><a href="/used-motorbikes-for-sale/lexmoto">LEXMOTO (10)</a></li><li><a href="/used-motorbikes-for-sale/piaggio">PIAGGIO (12)</a></li><li><a href="/used-motorbikes-for-sale/sinnis">SINNIS (16)</a></li><li><a href="/used-motorbikes-for-sale/suzuki">SUZUKI (50)</a></li><li><a href="/used-motorbikes-for-sale/triumph">TRIUMPH (74)</a></li><li><a href="/used-motorbikes-for-sale/yamaha">YAMAHA (57)</a></li><li><a href="/used-motorbikes-for-sale/">SEARCH ALL MAKES</a></li></ul></li><li><a href="/used-vans-for-sale">Used Vans</a><ul><li><a href="/used-vans-for-sale/citroen">CITROEN (497)</a></li><li><a href="/used-vans-for-sale/fiat">FIAT (205)</a></li><li><a href="/used-vans-for-sale/ford">FORD (2262)</a></li><li><a href="/used-vans-for-sale/mercedes">MERCEDES (684)</a></li><li><a href="/used-vans-for-sale/mitsubishi">MITSUBISHI (184)</a></li><li><a href="/used-vans-for-sale/nissan">NISSAN (264)</a></li><li><a href="/used-vans-for-sale/peugeot">PEUGEOT (423)</a></li><li><a href="/used-vans-for-sale/renault">RENAULT (579)</a></li><li><a href="/used-vans-for-sale/vauxhall">VAUXHALL (1013)</a></li><li><a href="/used-vans-for-sale/volkswagen">VOLKSWAGEN (1016)</a></li><li><a href="/used-vans-for-sale/">SEARCH ALL MAKES</a></li></ul></li><li id="licara"><a href="/used-caravans-for-sale">Caravans &amp; Motorhomes</a><ul><li><a href="/used-caravans-for-sale/abbey">ABBEY (6)</a></li><li><a href="/used-caravans-for-sale/bailey">BAILEY (12)</a></li><li><a href="/used-caravans-for-sale/compass">COMPASS (7)</a></li><li><a href="/used-caravans-for-sale/elddis">ELDDIS (13)</a></li><li><a href="/used-caravans-for-sale/fiat">FIAT (8)</a></li><li><a href="/used-caravans-for-sale/lunar">LUNAR (7)</a></li><li><a href="/used-caravans-for-sale/mazda">MAZDA (6)</a></li><li><a href="/used-caravans-for-sale/peugeot">PEUGEOT (7)</a></li><li><a href="/used-caravans-for-sale/swift">SWIFT (17)</a></li><li><a href="/used-caravans-for-sale/volkswagen">VOLKSWAGEN (6)</a></li><li><a href="/used-caravans-for-sale/">SEARCH ALL MAKES</a></li></ul></li><li id="lidealers"><a href="/used-cars-for-sale/find-a-dealer">Find a Used Car Dealer</a><ul style="width:320px"><li class="tc"><a href="/local-used-cars/Aberdeen">Aberdeen</a></li><li class="tc"><a href="/local-used-cars/Birmingham">Birmingham</a></li><li class="tc"><a href="/local-used-cars/Bristol">Bristol</a></li><li class="tc"><a href="/local-used-cars/Cambridge">Cambridge</a></li><li class="tc"><a href="/local-used-cars/Cardiff">Cardiff</a></li><li class="tc"><a href="/local-used-cars/Derby">Derby</a></li><li class="tc"><a href="/local-used-cars/Edinburgh">Edinburgh</a></li><li class="tc"><a href="/local-used-cars/Glasgow">Glasgow</a></li><li class="tc"><a href="/local-used-cars/Hull">Hull</a></li><li class="tc"><a href="/local-used-cars/Leeds">Leeds</a></li><li class="tc"><a href="/local-used-cars/Leicester">Leicester</a></li><li class="tc"><a href="/local-used-cars/Liverpool">Liverpool</a></li><li class="tc"><a href="/local-used-cars/London">London</a></li><li class="tc"><a href="/local-used-cars/Manchester">Manchester</a></li><li class="tc"><a href="/local-used-cars/Newcastle-Upon-Tyne">Newcastle Upon Tyne</a></li><li class="tc"><a href="/local-used-cars/Northampton">Northampton</a></li><li class="tc"><a href="/local-used-cars/Norwich">Norwich</a></li><li class="tc"><a href="/local-used-cars/Nottingham">Nottingham</a></li><li class="tc"><a href="/local-used-cars/Peterborough">Peterborough</a></li><li class="tc"><a href="/local-used-cars/Sheffield">Sheffield</a></li><li class="tc"><a href="/local-used-cars/Southampton">Southampton</a></li><li class="tc"><a href="/local-used-cars/Swindon">Swindon</a></li></ul></li><li><a href="/used-parts-for-sale">Parts</a></li><li id="liafs"><a href="/items-for-sale/buy-an-item">Items For Sale</a><ul class="menu"><li class="licat"><a href="/items-for-sale/furniture-and-furnishings">FURNITURE AND FURNISHINGS (890)</a></li><li class="licat"><a href="/items-for-sale/childrens-corner">CHILDREN'S CORNER (819)</a></li><li class="licat"><a href="/items-for-sale/sports-equipment-and-hobbies">SPORTS EQUIPMENT AND HOBBIES (687)</a></li><li class="licat"><a href="/items-for-sale/household-and-diy">HOUSEHOLD AND DIY (457)</a></li><li class="licat"><a href="/items-for-sale/clothing-footwear-and-accessories">CLOTHING, FOOTWEAR AND ACCESSORIES (380)</a></li><li class="licat"><a href="/items-for-sale/miscellaneous">MISCELLANEOUS (370)</a></li><li class="licat"><a href="/items-for-sale/books">BOOKS (312)</a></li><li class="licat"><a href="/items-for-sale/baby-shop">BABY SHOP (241)</a></li><li class="licat"><a href="/items-for-sale/tv-audio-and-video">TV, AUDIO AND VIDEO (236)</a></li><li class="licat"><a href="/items-for-sale/gardening-and-outdoors">GARDENING AND OUTDOORS (210)</a></li><li class="licat"><a href="/items-for-sale/">SEARCH ALL CATEGORIES</a></li></ul></li></ul></div>
 <div id="menu2">
 <ul id="nav2">
 
-<li><a href="/terms-and-conditions">terms and conditions</a></li>
+<li><a href="/terms-and-conditions">Terms and Conditions</a></li>
 
-<li class="selected"><a href="/privacy-policy">privacy policy</a></li>
+<li class="selected"><a href="/privacy-policy">Privacy Policy</a></li>
 
-<li><a href="/contact-us">contact us</a></li>
+<li><a href="/contact-us">Contact Us</a></li>
 
-<li><a href="/help">help</a></li>
+<li><a href="/help">Help</a></li>
 
 </ul></div>
 
-<div id="menu3"><ul id="nav3"></ul></div></div>
+<div id="menu3"><ul id="nav3"></ul></div>
+</div>
 <br>
 
 
- 
+     <div id="flexiAd">
+        
+
+<div id="DFP_PH_xnm_flexi_top" dfp_sizes="[[970,250],[728,90]]"></div>
+    </div>
 
 
 
@@ -223,11 +232,21 @@ googletag.cmd = googletag.cmd || [];
 
 <div id="leftbar">
 
-<script type="text/javascript" src="/js/support-v7.39.min.js"></script>
+<script type="text/javascript" src="/js/support-v7.48.min.js"></script>
 
 
 
-<div class="greybox w220"><img src="/img/grey_tl.gif" alt="top left of grey box" align="left" width="5" height="5"><img src="/img/grey_tr.gif" alt="top right of grey box" align="right" width="5" height="5"></div><h2 class="greyhead">Have you registered?</h2><div class="before"><p><strong><a href="/register">Register now</a> to get the most from ExchangeandMart.co.uk:</strong></p><p class="ga">Place your private ads</p><p class="ga">Save searches and get email alerts </p><p class="ga">Request email news and updates</p><br class="cb"></div><div class="greybox mb10" style="padding-top:10px"><img src="/img/grey_bl.gif" alt="bottom left of grey box" align="left" width="5" height="5"><img src="/img/grey_br.gif" alt="bottom right of grey box" align="right" width="5" height="5"></div>
+
+    <div class="grad_box box_220" style="height:140px;margin-bottom:20px">
+        <div class="white_box">
+<h3 style="font-size:16px;font-weight:bold;padding:0;margin:0">Have you registered?</h3>
+        <p><strong><a href="/register">Register now</a> to get the most from ExchangeandMart.co.uk:</strong></p>
+            <p class="ga">Place your private ads</p>
+            <p class="ga">Save searches and get email alerts </p>
+            <p class="ga">Request email news and updates</p>
+    </div>
+</div>
+
 
 
 
@@ -254,7 +273,7 @@ googletag.cmd = googletag.cmd || [];
 </div>
 
 <script type="text/javascript">//<!--
-s.pageName="Privacy Policy";s.hier1=",";s.server='ENM-WEB-2';
+s.pageName="Privacy Policy";s.hier1=",";s.server='ENM-WEB-1';
 s.prop4="Privacy Policy";s.prop6="cars";s.prop7="";s.prop8="";
 s.prop19='';s.eVar36='';s.prop17="E&M";s.prop18="E&M";
 s.eVar63='';s.eVar64='Website';s.eVar68='';
@@ -289,7 +308,7 @@ height="1" width="1" border="0" alt="" id="OmnitureImage" /></noscript>
 
 <br class="clearBoth">
 
-<div id="oasBottomContainer" align="center"><br>
+<div id="bottomContainer" align="center"><br>
 
 <div id="DFP_PH_banner" dfp_sizes="[[728,90]]"></div><br class="cb"> 
 
@@ -299,7 +318,6 @@ height="1" width="1" border="0" alt="" id="OmnitureImage" /></noscript>
 <div class="footer">
 
 <a href="http://m.exchangeandmart.co.uk/" target="_blank" class="mobmark mobsite"></a>
-<a href="http://itunes.apple.com/gb/app/exchange-and-mart/id533729054?mt=8" onclick="omniClickWithEVar(this,'event44','Download in App Store','eVar67', 'Website - Download iPhone App')" target="_blank" class="mobmark iphone"></a>
 <div class="nav5">
 <ul>
 <li><a href="/terms-and-conditions">Terms and Conditions</a></li>
@@ -323,13 +341,9 @@ height="1" width="1" border="0" alt="" id="OmnitureImage" /></noscript>
 </ul>
 </div>
 <br class="cb">
-<p class="ml10">© 2013 Exchange Enterprises, Newsquest Media Group. All rights reserved. Your use of this site is subject to our terms &amp; conditions of use and our privacy policy.</p>
+<p class="ml10">© 2014 Exchange Enterprises, Newsquest Media Group. All rights reserved. Your use of this site is subject to our terms &amp; conditions of use and our privacy policy.</p>
 </div>
 
-
-<div id="OAS_PH_Position2"></div>
-
-<div id="OAS_PH_Position3"></div>
 
 </div>
 
@@ -337,22 +351,20 @@ height="1" width="1" border="0" alt="" id="OmnitureImage" /></noscript>
 </div>
 
 
-<!--ENM-WEB-2-->
+<!--ENM-WEB-1-->
 <!---->
 
 
 <script type="text/javascript">pagelifespan="finish"</script>
-<div id="bgCont" style="display:block;z-index:1">
-    <div id="OAS_IN_Position4"><script type="text/javascript">OAS_GET('Position4');</script></div>
-</div>
 
 
 
 <style type="text/css">
-    #DFP_OOP {z-index: 1;position: fixed;width: 100%;height: 100%;top: 0px;}
-    #DFP_OOP iframe {width: 100%;height: 100%;}
-    #DFP_OOP div {height: 100%;}
+#DFP_OOP{position:fixed;width:100%;height:100%;top:0px}
+#DFP_OOP iframe{width:100%;height:100%}
+#DFP_OOP div{height:100%}
 </style>
-<div id="DFP_OOP"></div>
 
+    
+<script type="text/javascript" src="/js/PPCTrackableNumbers.min.js?v=1.2"></script>
 </body></html>
