@@ -1,33 +1,72 @@
-> *The following text is extracted and transformed from the breathehr.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220001854id_/http%3A//www.breathehr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breathehr.com privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621020318id_/http%3A//www.breathehr.com/privacy-policy) for the most accurate reproduction.*
 
-# breatheHR :: Privacy Policy
+# Privacy Policy & Cookies
 
-breatheHR is a service offered by Centurion Management Systems Ltd (CMSL)
+## 1\. Application
 
-CMSL respects the privacy and confidentiality our clients and users of our website who submit information of a nature that could be considered personal. In the general course of our business we collect information from users of our website in order to, amongst other things, supply additional information or demonstration versions of our software. The policies detailed below outline how we will use the information obtained and make every effort to comply with current UK and EU legislation including the Data Protection Act 1998.
+This privacy policy relates to:
 
-### The Type Of Information We May Acquire From You, Your Consent
+  * How we handle information received or collected about you as an individual through the Website,
+  * How we communicate with you as an individual, and
+  * Your rights as an individual in respect to such information and communications.
 
-There are two kinds of information that we track from our users; non-specific information and specific personal information.
 
-In the first case we track the non-specific information by IP address from which we cannot identify a user or any personal details. This information is used for us to identify popular web pages and amend content based on visitor profile history.
 
-In the second case where a user has filled out a form to submit information including a name, e-mail address, telephone number and company we may use this information selectively, only within CMSL, to send out communications on an infrequent basis which we consider will be of interest. Generally communications will not be more than one item every three months with the aim to inform our users of developments with respect to our products and/or services. By submitting your information you consent to the use of that information as set out in this policy. If we change our privacy policy we will post the changes on this page, and may place notices on other pages of the website, so that you may be aware of the information we collect and how we use it at all times. If a user considers that, for any reason, they wish to no longer receive any information or would like to modify the information we have recorded then there are a number of choices to quickly and easily ensure that modifications are made.
+It does not relate to information about companies held and processed by us.
 
-Send an email to:[info@breathehr.com](mailto:info@breathehr.com)
+## 2\. Definitions
 
-If a user has subscribed to one of our e-mail newsletters and no longer wishes to receive it then they can reply to the email newsletter with the word "unsubscribe" in the subject line or use any of the methods listed above.
+In this privacy policy references to:
 
-### What Information Do We Share?
+  * “we”, “us” or “our” are to Centurion Management Systems Ltd (Centurion) whose registered address is at Preston Park House,  South Road Brighton East Sussex BN1 6SB
+  * “the Website” are to www.breathehr.com and any other website owned or operated by us.
 
-Infrequently there may be times when we are required to share the personal information we learn from you with other parties. However this will only be to our direct business partners including, but not limited to, suppliers and government bodies. We will not sell or rent this information to others. In the event of a sale, merger or acquisition of CMSL to another company or of another company by CMSL we reserve the right to share our information with our professional advisers and the new company or companies. We will adhere to the policies above and continue to use the information selectively and sensitively respecting the privacy of our users.
 
-### How we protect your information
 
-The internet is not a secure medium. However we have put in place various security procedures to keep your information confidential. The internal procedures of CMSL cover the storage, access and disclosure of your information.
+## 3\. Information we collect
 
-### General
+The information which we collect may include:
 
-Where there are links from this website to other websites, CMSL emphasises that it has no control over these sites, their content or the way in which they collect or use personal data. CMSL therefore strongly advises users to check the privacy policy of any site they visit. CMSL is committed to ensuring privacy. We want our users to feel comfortable with their experience on our website and we would appreciate any feedback they may have to offer. If there are any questions about this privacy statement, the practices of this site, or dealings with this website, please contact our webmaster - [info@breathehr.com](mailto:info@breathehr.com)
+a. Any personal details about you as an individual which you provide to us through forms on the Website and emails exchanged with us or any of its personnel, such as your name, address, telephone number, job title etc.
 
-Finally whilst we will use all reasonable efforts to ensure that this document reflects our current policy we do reserve the right to change our policy from time to time.
+b. Your preferences and use of email updates, as recorded by emails that we send you (if you elect to receive email updates on our products and offers).
+
+c. Your IP Address, a string of numbers unique to your computer that is recorded by our web server when you request any page or component of the Website. This information may be used to monitor your usage of the Website.
+
+## 4. Use of your information
+
+a. Any information about you as an individual which we collect from the Website will be used in accordance with the UK Data Protection Act 1998 and other applicable laws.
+
+b. The information will be used to deal with you and / or your company, including making sales to you or your company, making contracts with you or your company, processing such contracts, and providing after sales service. We may pass your information to another organisation to supply/deliver products or services you or your company have purchased and/or to provide after-sales service.
+
+c. In certain cases we may use your email address to send you information about our products and services. If so you will be offered the option to opt out of receiving such e-mails.
+
+d. We may need to pass your personal information to other companies for administrative purposes. We may use third parties to carry out certain activities, such as processing and sorting data, monitoring how customers use the Website and issuing our e-mails. **Third parties are not allowed to use your personal information for their own purposes.** For these purposes your details may be transferred outside the European Economic Area (EEA) and you consent to such transfer by using the Website.
+
+e. We may transfer your personal information to a third party as part of a sale of some or all of our business and assets to any third party or as part of any business restructuring or reorganisation, in which event we will take steps to ensure that your privacy rights continue to be protected.
+
+f. We will not sell or pass on your personal information to any other person, except a company within our group or in accordance with paragraph 4(d) above, or if we are required or permitted to do so by law.
+
+g. Under no circumstances will we hold payment details such as your card number, expiry date and security code on our servers. Where payments are handled through an accredited payment bureau, you should visit their website to view their privacy policy.
+
+h. In order to effectively process credit or debit card transactions it may be necessary for the bank or card processing agency to verify your personal information for authorisation with an entity outside the EEA. Such information will not be transferred out of the EEA for any other purpose.
+
+## 5\. Cookies
+
+a. Cookies may be used by the Website to allow us to recognise you and your preferred settings e.g. to store your ID and password for future sessions. This saves you from re-entering information on return visits to the Website. You have the option not to use this feature, in which event no cookies will be retained on your computer.
+
+b. If the site has a secure log-in for our registered users, it may use a temporary ’session cookie’ in order to perform the secure login to our website. This cookie contains no personal information, just a long random number, and is deleted from your web browser when you exit the Website.
+
+c. Temporary cookies are used in the transactional part of the Website to authenticate you as an authorised user after you have logged in.
+
+d. Your browser may be capable of being programmed to reject cookies, or to warn you before downloading cookies, and information regarding this may be found in your browser’s ‘help’ facility.
+
+For an explanation of cookies see: <http://www.allaboutcookies.org/>
+
+If you have any questions regarding the use of cookies please contact us by email at info@breathehr.com
+
+We use third party companies as suppliers for some of our functions. Their use of the data is controlled by our contract with them and they are only allowed to use the data strictly for the purpose we have stated e.g. the data is not used in connection with data from other companies and we are not tracking user behaviour outside our own sites.
+
+## 6\. Other Websites
+
+This privacy policy only covers the Website. Any other websites which may be linked to by the Website may be subject to their own privacy policy, which may differ from ours and we are not responsible for the content provided on any third party web sites.
