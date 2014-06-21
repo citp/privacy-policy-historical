@@ -1,30 +1,18 @@
-> *The following text is extracted and transformed from the fark.com privacy policy that was archived on 2013-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130827215544id_/http%3A//www.fark.com/farq/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fark.com privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621022825id_/http%3A//www.fark.com/farq/legal) for the most accurate reproduction.*
 
 # FARK.com: Frequently Asked Questions: Legal Stuff
 
-> ### Fark Frequently Asked Questions (FAQ): Legal Stuff
+> ## Legal Stuff
 > 
-> [Back to top of FAQ](http://www.fark.com/farq/)  
+> ### Fark's Legal and Privacy Statement
 > 
-> 
->   * [ Legal Stuff](http://www.fark.com/farq/legal/#Legal_Stuff)
->     * [ Fark's Legal and Privacy Statement](http://www.fark.com/farq/legal/#Fark.27s_Legal_and_Privacy_Statement)
-> 
-
-> 
-> * * *
-> 
-> ###  Legal Stuff 
-> 
-> ####  Fark's Legal and Privacy Statement 
-> 
-> #####  Terms Of Service 
+> #### Terms Of Service
 > 
 > Text comments and Photoshopped images posted on Fark by registered users may not be reposted or broadcast without the express written permission or license from Fark.com, and must attribute Fark.com as the source. 
 > 
 > By using Fark, You agree that you will not use any robot, harvesting bots, spider, scraper, or other automated means to access the site for any purpose without our express written permission. You further agree that You will not take any action that imposes or may impose (in our sole discretion) an unreasonable or disproportionately large load on our infrastructure or interfere or attempt to interfere with the proper working of the site or any activities conducted on the site. 
 > 
-> #####  Copyright Notice 
+> #### Copyright Notice
 > 
 > By posting an image or other content or by making a comment, you represent and warrant to Fark that (1) doing so does not violate or infringe anyone else's rights; and (2) you created the file or other content you are uploading, or otherwise have sufficient intellectual property rights to upload the material consistent with these terms. 
 > 
@@ -59,7 +47,33 @@
 > 
 > Fark utilizes the same procedure(s) for any claimed trademark violations or other infringements. If we receive a DMCA notice and remove something you submitted anonymously, we will have no way of notifying you, you will have to contact us if you think that may have occurred. Keep in mind that Fark reserves the right to remove any content, at any time, whether or not it infringes or violates any of our policies. 
 > 
-> #####  Fark's Privacy Policy 
+> #### Fark logos and trademarks
+> 
+> Fark welcomes the use of the Fark logo and trademark to promote, reference, or link back to Fark.com or associated accounts. Below are some logos that can be used for this purpose: 
+> 
+>   
+>  Smallest light: 
+> 
+> Small light: 
+> 
+> Medium light: 
+> 
+> Large light: 
+> 
+> Medium transparent: 
+> 
+> Smallest dark: 
+> 
+> Small dark: 
+> 
+> Medium dark: 
+> 
+> Large dark: 
+> 
+>   
+>  Fark consents to the above logos being slightly cropped or adjusted to fit a differently-sized standard on other sites, as long as the name "Fark" is still clearly legible. For legibility, the logo should be no less than 25 pixels in height. 
+> 
+> #### Fark's Privacy Policy
 > 
 > **Short Version**
 > 
@@ -126,6 +140,14 @@
 > You can opt-out of Google Adsense advertising cookies by going to <http://www.google.com/ads/preferences>. 
 > 
 > You can opt-out of other third-party advertising cookies by using the Network Advertising Initiative opt-out tool at <http://www.networkadvertising.org/managing/opt_out.asp>. 
+> 
+> **Audience Analytics**
+> 
+> In order to understand our audience, and understand how our audience interacts with Fark, we use a few different analytics products. Each of these places a cookie on your computer to gather information about the Fark pages you visit, how long you stay on the site, etc. 
+> 
+> This information is aggregated so we can see general patterns. None of the information you provide on sign-up or while using the site is ever provided. 
+> 
+> One of these analytics products is Google Analytics. We send the Fark Account Number assigned to you at sign-up time to Google Analytics to understand how our users use Fark across different devices. Google has no way to associate this with any other personally identifiable information inside of Analytics. If you don't want us to send your Fark Account Number to Google Analytics, you can check the box in your [Preferences](http://www.fark.com/users/0/prefs) that says "Don't send my Fark Account Number to Google Analyics". 
 > 
 > **Policy updates**
 > 
