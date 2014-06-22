@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zuji.com.au privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222085154id_/http%3A//www.zuji.com.au/about/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zuji.com.au privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622131954id_/http%3A//www.zuji.com.au/about/privacy-security) for the most accurate reproduction.*
 
-# Privacy/Security - zuji.com.au
+# Privacy/Security at zuji.com.au
 
 ZUJI Pty Ltd is subject to and complies with the Federal Privacy Act 1988 (as amended from time to time) and the ten National Privacy Principles in the Act. All references to ZUJI shall be deemed to refer to ZUJI Pty Ltd, where appropriate.
 
@@ -19,6 +19,8 @@ We collect your personal information when you provide it to become a member of Z
 ### Using and Disclosing Your Personal Information
 
 Your personal information will only be used or disclosed as is necessary to provide you with the goods and services available through the website offered by us or the organisations identified there, for administrative purposes (including fraud and security checks) and to assist us to improve our website and services, and to provide you with information and offers relevant to our services. You may opt-out of receipt of any such offers at any time by submitting a request through our feedback form, or through the methods described in any e-mails we may send you.
+
+Your person Information is securely accessby by staff in our Customer Service Centres in India and in the Philippines.
 
 We will disclose personal information as required to the providers of the products and services you have purchased. You accept that not all recipients of your information may have privacy policies or be subject to privacy laws equivalent to ZUJI’s and consent to the disclosure of your personal information for that purpose.
 
