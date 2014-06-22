@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dana-farber.org privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209120856id_/http%3A//www.dana-farber.org/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dana-farber.org privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622100159id_/http%3A//www.dana-farber.org/Privacy-Policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - Dana-Farber Cancer Institute
+# Privacy Policy - Dana-Farber Cancer Institute | Boston, MA
 
 ## Dana-Farber Website Privacy Statement
 
@@ -59,6 +59,6 @@ If you currently receive the E-Newsletter and would like to unsubscribe, you may
 
 ### Opt Out of Mailings
 
-To stop receiving print mail and/or email communications from Dana-Farber Cancer Institute and the Jimmy Fund, please fill out our [print mailing](http://www.jimmyfund.org/opt-out/opt-out-print.aspx "print mailing") or [email communications](http://www.jimmyfund.org/opt-out/opt-out-email.aspx "email communications") opt-out forms.
+To stop receiving print mail and/or email communications from Dana-Farber Cancer Institute and the Jimmy Fund, please fill out our [print mailing](http://www.jimmyfund.org/about-us/contact-us/print-opt-out/ "print mailing") or [email communications](http://www.jimmyfund.org/about-us/contact-us/email-opt-out/ "email communications") opt-out forms.
 
-_Updated July 2011_
+_Reviewed December 2013_  
