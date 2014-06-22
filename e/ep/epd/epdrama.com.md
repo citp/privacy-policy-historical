@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epdrama.com privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808045530id_/http%3A//www.epdrama.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epdrama.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622234420id_/http%3A//www.epdrama.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
@@ -14,13 +14,13 @@ Google, as a third party vendor, uses cookies to serve ads on your site. Google'
 
 Any of the information we collect from you may be used in one of the following ways: 
 
-• To personalize your experience  
+â€¢ To personalize your experience  
 (your information helps us to better respond to your individual needs)
 
-• To improve our website  
+â€¢ To improve our website  
 (we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-• To administer a contest, promotion, survey or other site feature
+â€¢ To administer a contest, promotion, survey or other site feature
 
  **Do we use cookies?**
 
