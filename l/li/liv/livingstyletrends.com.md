@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livingstyletrends.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203213734id_/http%3A//livingstyletrends.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livingstyletrends.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622152054id_/http%3A//livingstyletrends.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Living Style Trends
 
