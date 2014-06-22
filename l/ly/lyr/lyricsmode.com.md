@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lyricsmode.com privacy policy that was archived on 2013-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131013180307id_/http%3A//www.lyricsmode.com/about/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lyricsmode.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622033451id_/http%3A//www.lyricsmode.com/about/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | LyricsMode.com
 
@@ -18,7 +18,7 @@ We may request personally identifying information from you in a variety of conte
 
 In such cases, the personally identifying information we request may include your name, email address, mailing address and zip code, phone number, and, where appropriate, a valid credit card number with expiration date (collectively, "Personal Information"). In addition, we may collect other non-personally identifying information such as your date of birth, gender, country of residence, language preference, hobbies and other information regarding your interaction with our site such as your viewing and listening habits, preferences and other customized activities in which you participate. Of course, you never have to answer any of the questions we ask you (nor choose to view or listen to any multimedia content or otherwise interact with our site), but refusal to do so may limit the products or services we can offer or provide to you. 
 
-When you provide Personal Information to us, we may use that data to create a "Profile Page” for you, which will be held in a database using reasonable security measures to protect the data from unauthorized access. Others outside LyricsMode.com will not be allowed to see the data on your Profile Page except with your consent (see below). If you register to set up an account, you will be able to access your Profile Page at any time in order to update your individual Personal Information listed therein (see below under "How Can You Correct or Review Your Personal Information?" for more details). 
+When you provide Personal Information to us, we may use that data to create a "Profile Page" for you, which will be held in a database using reasonable security measures to protect the data from unauthorized access. Others outside LyricsMode.com will not be allowed to see the data on your Profile Page except with your consent (see below). If you register to set up an account, you will be able to access your Profile Page at any time in order to update your individual Personal Information listed therein (see below under "How Can You Correct or Review Your Personal Information?" for more details). 
 
 **How Can Your Personal Information Be Used?**
 
