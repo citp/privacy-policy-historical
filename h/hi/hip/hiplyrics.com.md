@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hiplyrics.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212030544id_/http%3A//www.hiplyrics.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiplyrics.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622195047id_/http%3A//www.hiplyrics.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Lyrics and Music Videos
 
