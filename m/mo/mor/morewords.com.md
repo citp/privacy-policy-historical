@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the morewords.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230050319id_/http%3A//www.morewords.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morewords.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622190731id_/http%3A//www.morewords.com/privacy) for the most accurate reproduction.*
 
 # More Words - Privacy Policy
 
@@ -12,4 +12,4 @@ If you have any questions about this policy, please write to us using the [conta
 
 [New Search](https://web.archive.org/)
 
-Some random words: [huarache](https://web.archive.org/word/huarache/)   [ceanothus](https://web.archive.org/word/ceanothus/)   [vier](https://web.archive.org/word/vier/)   [doiled](https://web.archive.org/word/doiled/)   [aorist](https://web.archive.org/word/aorist/)   [old](https://web.archive.org/word/old/)   [alodia](https://web.archive.org/word/alodia/)  
+Some random words: [novel](https://web.archive.org/word/novel/)   [oolite](https://web.archive.org/word/oolite/)   [ef](https://web.archive.org/word/ef/)   [going](https://web.archive.org/word/going/)   [deaerate](https://web.archive.org/word/deaerate/)   [pe](https://web.archive.org/word/pe/)   [ami](https://web.archive.org/word/ami/)  
