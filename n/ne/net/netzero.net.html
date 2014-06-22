@@ -1,9 +1,10 @@
-<!--The following is the downloaded HTML source of the netzero.net privacy policy that was archived on 2013-09-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130908171316id_/http%3A//www.netzero.net/start/landing.do%3Fpage%3Dwww/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the netzero.net privacy policy that was archived on 2014-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140622210145id_/http%3A//www.netzero.net/start/landing.do%3Fpage%3Dwww/legal/privacy) for the most accurate reproduction.-->
 
 <html><head>
 <title>NetZero - Value-priced Internet Service Provider - ISP - Free, low-cost and HiSpeed Internet Access. - Privacy and Security</title>
 
+<link rel="Shortcut Icon" type="image/ico" href="/static/start/view/img/icon/webicon_n.ico"> 
 <link rel="stylesheet" type="text/css" href="/static/start/view/common/css/global-n.css">
 <style>
 li{ margin-top: 5px; }
@@ -65,13 +66,13 @@ li{ margin-top: 5px; }
 
 
 
+
  
 
 
 
 
 
-<link rel="Shortcut Icon" type="image/ico" href="/static/start/view/img/icon/webicon_n.ico">
 
 
 
@@ -308,7 +309,8 @@ In addition to information collected from you during registration, we collect in
 <ul>
 	<li>online surveys;</li> 
 	<li>contest and sweepstakes entries;</li> 
-	<li>technical and customer service calls; </li> 
+	<li>technical and customer service calls; </li>
+	<li>your voluntary submission of information;</li>
 	<li>email correspondence with us; and</li>
 	<li>acceptance of our applications that interact with third party sites or services, such as Facebook or Twitter.</li>
 </ul>
@@ -603,6 +605,7 @@ in a manner consistent with this Policy.
 
 
 
+
  
 
 
@@ -720,12 +723,10 @@ td.globalfooter { background-color:#FFF; border:1px solid #CCCCCC; padding:0px; 
   <tbody><tr> 
     <td class="globalfooter">
 
-  <table width="100%" align="center" cellpadding="0" cellspacing="0" class="footerTable">
+  <table width="725" align="center" cellpadding="0" cellspacing="0" class="footerTable">
    <tbody><tr>
-    <td width="120" height="24" align="center" class="fontstyle footerFirstCell"><a href="http://www.untd.com" id="footerLink2" class="footerLink2" target="_blank">United Online</a></td>
-    <td width="70" align="center" class="fontstyle footerOtherCells" style="padding:3px 10px;"><a href="http://www.ftd.com" id="footerLink2" class="footerLink2" target="_blank">FTD Flowers</a></td>
-    <td class="pipestyle">|</td>
-    <td width="80" align="center" class="fontstyle footerOtherCells" style="padding:3px 10px;"><a href="http://www.memorylane.com" id="footerLink2" class="footerLink2" target="_blank">Memory Lane</a></td>
+    <td width="125" height="24" align="center" class="fontstyle footerFirstCell"><a href="http://www.untd.com" id="footerLink2" class="footerLink2" target="_blank">United Online</a></td>
+    <td width="95" align="center" class="fontstyle footerOtherCells" style="padding:3px 10px;"><a href="http://www.classmates.com" id="footerLink2" class="footerLink2" target="_blank">Classmates</a></td>
     <td class="pipestyle">|</td>
     <td align="center" class="fontstyle footerOtherCells" style="padding:3px 10px;"><a href="http://www.mypoints.com" id="footerLink2" class="footerLink2" target="_blank">MyPoints</a></td>
     <td class="pipestyle">|</td>
@@ -743,7 +744,7 @@ td.globalfooter { background-color:#FFF; border:1px solid #CCCCCC; padding:0px; 
 
 </center>
   <p class="font-copyright">
-  	© 1998-2013 NetZero, Inc. NetZero is a registered trademark, and the NetZero logo is a trademark of NetZero, Inc.
+  	© 1998-2014 NetZero, Inc. NetZero is a registered trademark, and the NetZero logo is a trademark of NetZero, Inc.
 	</p>
 </div>
 
@@ -841,11 +842,16 @@ var context = '';
 
 
 if(servlet != 'sp'){
-	logPageView(servlet,pname,'B607B817A8E103745033328D0ADEF190.VGS-AS03','http://track.netzero.net',context);	
+	//logPageView(servlet,pname,'0399D44D229EAA1B2ECECD8C60678FB9.DCA-AS05','http://track.netzero.net',context);
+	try{
+		logPageView(servlet,pname,'0399D44D229EAA1B2ECECD8C60678FB9.DCA-AS05','http://track.netzero.net',context);
+	 }
+	catch(e){		
+	} 
 }
 
 function debug_pv_values(){
-	alert('servlet='+servlet+'\npname='+pname+'\nsID=B607B817A8E103745033328D0ADEF190.VGS-AS03\ntrackServer=http://track.netzero.net\ncontext='+context)
+	alert('servlet='+servlet+'\npname='+pname+'\nsID=0399D44D229EAA1B2ECECD8C60678FB9.DCA-AS05\ntrackServer=http://track.netzero.net\ncontext='+context)
 }
 </script>	
 	
