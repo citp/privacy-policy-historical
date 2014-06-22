@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mommyland.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121022955id_/http%3A//www.mommyland.com/about/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mommyland.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622141725id_/http%3A//www.mommyland.com/about/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy On Mommyland
 
@@ -21,3 +21,5 @@ Note that you can change your browser settings to disable cookies if you have pr
 ## Contact Information
 
 Concerns or questions about this privacy policy can be directed to tamara@mommyland.com for further clarification.
+
+[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.mommyland.com%2Fabout%2Fprivacy-policy-2%2F&media=&description=Privacy+Policy)
