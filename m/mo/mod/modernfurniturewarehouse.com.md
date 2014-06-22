@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modernfurniturewarehouse.com privacy policy that was archived on 2013-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131013175759id_/http%3A//www.modernfurniturewarehouse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modernfurniturewarehouse.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622080426id_/http%3A//www.modernfurniturewarehouse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Modern Furniture Warehouse
 
@@ -95,8 +95,8 @@ Contacting Us
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-DA Stores LLC  
-6047 Malburg Way  
+Live Goods LLC  
+6116 Malburg Way  
 Vernon, CA 90058  
 Tel: (866) 838 8710  
-Fax: (323) 782 0889
+Fax: (323) 589 5277
