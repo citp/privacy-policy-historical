@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the bopandtigerbeat.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216140200id_/http%3A//www.bopandtigerbeat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bopandtigerbeat.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622182353id_/http%3A//www.bopandtigerbeat.com/privacy) for the most accurate reproduction.*
 
 # Privacy | BOP and Tiger Beat Online
-
-July 6, 2009
 
 **
 
@@ -68,7 +66,7 @@ back to top
 
 **Privacy Options**
 
-If you prefer not to receive traditional mail or other off-line promotions from this or any other Laufer Media, Inc. property or any companies not owned by Laufer Media, Inc., please [](https://web.archive.org/web/20131216140200id_/http%3A//www.bopandtigerbeat.com/%3C?php%20bloginfo\(%27url%27\);?%3E/opt-out/%E2%80%9D%3Eclick%20here%3C/a%3E.%3C/p%3E%3Cp%3E%3Ca%20style=)If a Laufer Media, Inc. site discloses personally identifiable information to companies not owned by Laufer Media, Inc. who want to market products or services to you, it will provide you with an opportunity to opt out or block such uses. Laufer Media, Inc. may on occasion combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you. If you prefer not to receive online marketing information from this or any other Laufer Media, Inc. site, please [back to top](https://web.archive.org/web/20131216140200id_/http%3A//www.bopandtigerbeat.com/%3C?php%20bloginfo\(%27url%27\);?%3E/opt-out/%E2%80%9D%3Eclick%20here%3C/a%3E.%3C/p%3E%3Cp%3EFinally,%20Laufer%20Media,%20Inc.%20sites%20will%20not%20use%20or%20transfer%20personally%20identifiable%20information%20provided%20to%20us%20in%20ways%20unrelated%20to%20the%20ones%20described%20above%20without%20also%20providing%20you%20with%20an%20opportunity%20to%20opt%20out%20of%20these%20unrelated%20uses.%3C/p%3E%3Cp%3E%3Ca%20href=)
+If you prefer not to receive traditional mail or other off-line promotions from this or any other Laufer Media, Inc. property or any companies not owned by Laufer Media, Inc., please [](https://web.archive.org/web/20140622182353id_/http%3A//www.bopandtigerbeat.com/%3C?php%20bloginfo\(%27url%27\);?%3E/opt-out/%E2%80%9D%3Eclick%20here%3C/a%3E.%3C/p%3E%3Cp%3E%3Ca%20style=)If a Laufer Media, Inc. site discloses personally identifiable information to companies not owned by Laufer Media, Inc. who want to market products or services to you, it will provide you with an opportunity to opt out or block such uses. Laufer Media, Inc. may on occasion combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you. If you prefer not to receive online marketing information from this or any other Laufer Media, Inc. site, please [back to top](https://web.archive.org/web/20140622182353id_/http%3A//www.bopandtigerbeat.com/%3C?php%20bloginfo\(%27url%27\);?%3E/opt-out/%E2%80%9D%3Eclick%20here%3C/a%3E.%3C/p%3E%3Cp%3EFinally,%20Laufer%20Media,%20Inc.%20sites%20will%20not%20use%20or%20transfer%20personally%20identifiable%20information%20provided%20to%20us%20in%20ways%20unrelated%20to%20the%20ones%20described%20above%20without%20also%20providing%20you%20with%20an%20opportunity%20to%20opt%20out%20of%20these%20unrelated%20uses.%3C/p%3E%3Cp%3E%3Ca%20href=)
 
 **Collection of Information by Third-Party Sites and Sponsors**
 
@@ -112,7 +110,3 @@ Attention: Customer Service
 Glendale, CA 91203 
 
 back to top 
-
-What do you think of this post?
-
-LOL (6) OMG (7) Luv it (7) meh (6) 
