@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ots.org.pk privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812221622id_/http%3A//www.ots.org.pk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ots.org.pk privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622152016id_/http%3A//ots.org.pk/privacy.php) for the most accurate reproduction.*
 
 # Open Testing Service
 
