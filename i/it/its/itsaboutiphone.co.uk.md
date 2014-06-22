@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itsaboutiphone.co.uk privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204024549id_/http%3A//www.itsaboutiphone.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itsaboutiphone.co.uk privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622114218id_/http%3A//www.itsaboutiphone.co.uk/privacy) for the most accurate reproduction.*
 
 # privacy « iPhone Application Reviews | iPhone Latest News | iPhone Latest Reviews | iPhone Accessories
 
