@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lecturepad.org privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122150516id_/http%3A//www.lecturepad.org/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lecturepad.org privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622055343id_/http%3A//www.lecturepad.org/index.php/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Lecturepad.org
+# Privacy Policy
 
 **Services Web Sites Covered**
 
