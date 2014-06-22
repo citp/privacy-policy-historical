@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the empoweria.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216105730id_/http%3A//empoweria.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the empoweria.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622060855id_/http%3A//empoweria.com/privacy.htm) for the most accurate reproduction.*
 
 # Empoweria.com
 
