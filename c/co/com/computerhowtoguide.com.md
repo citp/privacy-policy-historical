@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the computerhowtoguide.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216084531id_/http%3A//www.computerhowtoguide.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the computerhowtoguide.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622030740id_/http%3A//www.computerhowtoguide.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ComputerHowToGuide.com
 
@@ -21,3 +21,5 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
 **Acceptance Of Agreements** – By reading this you fully agree to our Privacy Policy. If you do not agree with our Privacy Policy you may not use this site. We may update our Privacy Policy from time to time so please visit this page regularly.
+
+_*This Privacy Policy was last updated on November 18, 2012._
