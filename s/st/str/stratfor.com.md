@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stratfor.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230022733id_/http%3A//www.stratfor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stratfor.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622075845id_/http%3A//www.stratfor.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Stratfor
 
