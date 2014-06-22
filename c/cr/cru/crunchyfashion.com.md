@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crunchyfashion.com privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113155737id_/http%3A//www.crunchyfashion.com/information/information%26information_id%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crunchyfashion.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622224706id_/http%3A//www.crunchyfashion.com/information/information%26information_id%3D3) for the most accurate reproduction.*
 
 # Privacy Policy
 
