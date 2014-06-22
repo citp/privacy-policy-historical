@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the redcross.org privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218202502id_/http%3A//www.redcross.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redcross.org privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622171920id_/http%3A//www.redcross.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | American Red Cross
-
-  * [ Home ](https://web.archive.org/) ›
-  * Privacy Policy 
-
-
 
 The American Red Cross respects the privacy of every visitor to our website. Your privacy is a priority, and we go to great lengths to protect it. This Internet Site Privacy Policy explains our online information practices. This Policy may be changed or updated from time to time. By visiting the Red Cross at [www.redcross.org](http://www.redcross.org/), you accept the practices described in this Policy.
 
@@ -18,7 +13,7 @@ Through our website, we offer convenient online access to our services and commu
 
 
 
-We send “cookies” to your computer and use other technologies to enhance your online experience. A “cookie” can be either permanent (i.e., it remains on your computer until you delete it) or temporary (i.e., it lasts only until you close your browser). A “cookie” is a small text file that helps us recognize repeat visitors, facilitate the visitor’s ongoing access to and use of the site, and track usage behavior and compile aggregate data that can lead to website improvements. If you do not want information collected through the use of cookies, you can deny or accept the cookie feature using a simple procedure available in most browsers. If you block cookies, however, you may lose some website functionality.
+We use “cookies” and other technologies to enhance your online experience. A “cookie” can be either permanent (i.e., it remains on your computer until you delete it) or temporary (i.e., it lasts only until you close your browser). A “cookie” is a small text file that helps us recognize repeat visitors, facilitate the visitor’s ongoing access to and use of the site, and track usage behavior and compile aggregate data that can lead to website improvements. Cookies may also help us customize certain content on the website. Cookies and other similar technologies collect non-personal information about the user of a particular Internet Protocol (IP) address. If you do not want information collected through the use of cookies, you can deny or accept the cookie feature using a simple procedure available in most browsers. If you block cookies, however, you may lose some website functionality. 
 
 We use a variety of safeguards to protect the security of your credit card transactions. We use technologies and processes such as encryption, access controls, network firewalls, physical security and other measures. These measures make it extremely difficult for anyone to intercept the credit card information you send to us. When we work with other companies to process credit card transactions, those companies also use encryption and other security measures.
 
@@ -40,6 +35,13 @@ If you need to contact us to review your information or make corrections, please
 
 The American Red Cross welcomes children to learn more about our organization and, where appropriate, find opportunities to serve their communities through Red Cross training programs and volunteer activities. However, we encourage children to do this only with their parents’ knowledge and supervision. For this reason, the Red Cross follows the guidelines for interactive electronic media published by the Children’s Advertising Review Unit of the Better Business Bureau.
 
+To let us know your preferences about how we contact you, or to "opt-out" of receiving phone calls, e-mails or letters from the American Red Cross, go to the following links: 
+
+  *   * [Financial donors](https://web.archive.org/contact-us/financial-donation-inquiry)
+  * [Blood donors and others](https://web.archive.org/contact-us/general-inquiry)
+
+
+
 If you have questions about this Privacy Policy, you may send us an email at [PrivacyOfficer@redcross.org](mailto:PrivacyOfficer@redcross.org) or write to— 
 
 American Red Cross  
@@ -48,4 +50,4 @@ Office of the General Counsel
 Washington D.C. 20006  
 Attention: Privacy Officer
 
-Revised September 2011
+Revised May 2014
