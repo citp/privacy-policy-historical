@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the promoter.io privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607003113id_/http%3A//www.promoter.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promoter.io privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623014312id_/http%3A//promoter.io/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Promoter.io
+
+## Privacy Policy
 
 Protecting your private information is our priority. This Statement of Privacy applies to [www.promoter.io](http://promoter.io/) and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to Promoter.io include www.promoter.io. By using the Promoter.io website, you consent to the data practices described in this statement.
 
@@ -10,13 +12,13 @@ Promoter.io may collect personally identifiable information, such as your name. 
 
 Information about your computer hardware and software may be automatically collected by Promoter.io. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Promoter.io website.
 
-Promoter.io encourages you to review the privacy statements of websites you choose to link to from Promoter.io so that you can understand how those websites collect, use and share your information. Promoter.io is not responsible for the privacy statements or other content on websites outside of the Promoter.io website. 
+Promoter.io encourages you to review the privacy statements of websites you choose to link to from Promoter.io so that you can understand how those websites collect, use and share your information. Promoter.io is not responsible for the privacy statements or other content on websites outside of the Promoter.io website.
 
 ## Use of Your Personal Information
 
 Promoter.io collects and uses your personal information to operate its website(s) and deliver the services you have requested.
 
-Promoter.io may also use your personally identifiable information to inform you of other products or services available from Promoter.io and its affiliates. Promoter.io may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered. 
+Promoter.io may also use your personally identifiable information to inform you of other products or services available from Promoter.io and its affiliates. Promoter.io may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
 
 Promoter.io does not sell, rent or lease its customer lists to third parties.
 
@@ -36,8 +38,7 @@ Promoter.io does not knowingly collect personally identifiable information from 
 
 ## Opt-Out & Unsubscribe
 
-We respect your privacy and give you an opportunity to opt-out of receiving announcements of certain information. Users may opt-out of receiving any or all communications from Promoter.io by contacting us here:  
-
+We respect your privacy and give you an opportunity to opt-out of receiving announcements of certain information. Users may opt-out of receiving any or all communications from Promoter.io by contacting us here:
 
   * Web: [www.promoter.io](http://www.promoter.io/)
   * Email: [grow@promoter.io](mailto:grow@promoter.io)
