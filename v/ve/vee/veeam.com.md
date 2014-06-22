@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the veeam.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109093710id_/http%3A//www.veeam.com/privacy_policy.html%3Fad%3Dfooter-bottom) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veeam.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622023618id_/http%3A//www.veeam.com/privacy_policy.html%3Fad%3Dfooter-bottom) for the most accurate reproduction.*
 
 # Veeam: Privacy Policy- safeguarding your privacy online.
 
@@ -11,9 +11,7 @@ By accessing or using the Veeam web site, you agree to the terms of this Veeam P
 
 ## Personal Information
 
-We will ask your permission to give away any information that we would need to personally identify you or contact you directly ("Personal Information"). Generally this is required when you subscribe for our newsletters or register your copies of our products.
-
-When you subscribe for our newsletter or information letter about product updates, you are asked for your name and e-mail address.
+When you subscribe for our newsletter or information letter about product updates, submit registration forms to access our white papers, videos, and product downloads, you are asked for your name, e-mail address, phone number and address ("Personal Information"). By submitting your email address in registration form, you agree to receive a short series of orientation emails from Veeam. We also offer a variety of optional newsletter and promotional subscriptions. You can opt out of non-transactional Veeam email communications by using an ‘Unsubscribe’ link in each email. You can also manage your subscription preferences any time at [Subscriptions Center](https://go.veeam.com/subscription-center.html).
 
 We will use your IP address to help identify you and your navigation history on our site. This helps us see which parts of our site users are visiting.
 
@@ -45,8 +43,8 @@ A web beacon is a small and generally hidden GIF-image that is incorporated into
   * Visitors can opt out of Google Analytics for Display Advertising and customise Google Display Network ads using the Ads Settings.
   * Veeam uses Remarketing with Google Analytics to advertise online.
   * Third-party vendors, including Google, show Veeam ads on sites across the Internet.
-  * Veeam and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimise and serve ads based on someone's past visits to your website.
-  * Veeam and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to report how your ad impressions, other uses of ad services and interactions with these ad impressions and ad services are related to visits to your site.
+  * Veeam and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimise and serve ads based on someone's past visits to our website.
+  * Veeam and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to report how the ad impressions, other uses of ad services and interactions with these ad impressions and ad services are related to visits to our site.
   * We use data from Google's Interest-based advertising or 3rd-party audience data (such as age, gender and interests) with Google Analytics to understand overall patterns for web site usage.
 
   
