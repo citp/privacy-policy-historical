@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westlaw.co.uk privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204045434id_/http%3A//www.sweetandmaxwell.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westlaw.co.uk privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622161727id_/http%3A//www.sweetandmaxwell.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Sweet & Maxwell Privacy Polices
 
@@ -9,6 +9,7 @@
 ## OUR MOBILE APPS PRIVACY POLICIES 
 
   * [OSBORN'S CONCISE LAW DICTIONARY MOBILE APPLICATION ](https://web.archive.org/privacy-policies/osborns.aspx)
+  * [THOMSON REUTERS LAWTEL MOBILE APPLICATION PRIVACY STATEMENT ](https://web.archive.org/privacy-policies/lawtel.aspx)
 
 
 
@@ -65,7 +66,7 @@ If you purchase a product from a Company website you may provide us with your cr
 
 Opt outs  
 You may opt out of receiving information or advertisements from us or other Thomson Reuters companies to which we have passed your details by contacting Customer Services (details below).  
-Some Company websites allow the user to opt-out of future mailings during the registration process or select 'web only' notification S9ome Company websites allow the user to edit/update their own personal details and opt-in or out of receiving product or service information in the future.
+Some Company websites allow the user to opt-out of future mailings during the registration process or select 'web only' notification. Some Company websites allow the user to edit/update their own personal details and opt-in or out of receiving product or service information in the future.
 
 Disposals and business reorganisation  
 Except when disposing of a particular publication, we do not rent, sell, share or trade any of your personal information on our e mail lists to any third parties outside of Thomson Reuters without your permission.
