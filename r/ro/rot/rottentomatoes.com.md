@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the rottentomatoes.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231054921id_/http%3A//www.rottentomatoes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rottentomatoes.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622203031id_/http%3A//www.rottentomatoes.com/privacy) for the most accurate reproduction.*
 
 # Rotten Tomatoes: Legal Documents
 
 Flixster Privacy Policy
 
 Effective October 10, 2011
-
-Previous version of our Privacy Policy:
-
-[February 12, 2010](http://www.flixster.com/docs/privacy/us/en/2010-02-12)
 
 Thank you for visiting Flixster, including Rotten Tomatoes (together with the other [Warner Bros. Entertainment Group](http://www.google.com/url?q=http%3A%2F%2Fwww.warnerbros.com%2Fmain%2Fprivacy%2Fprivacy_list.html&sa=D&sntz=1&usg=AFQjCNHBl-D4n3Y0xr9xFP2eCtcrFjwUDg) companies, "we" "us", or "our"). Your privacy is important to us. To better protect your privacy, we provide this notice explaining our information practices and the choices you can make about the collection and use of the personal information you submit on Web pages or for services where this policy is posted. If you also have downloaded the Flixster Collections software, please read the Additional Privacy Disclosures for Flixster Collections Software to learn more about the additional information collection practices that are specific to that offering. 
 
@@ -68,9 +64,9 @@ Some of our Services contain links to or integrations with other sites (e.g., Fa
 
 We sometimes may offer content or programs (e.g., contests, sweepstakes, promotions, games, applications or social network integrations) that are sponsored by or co-branded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the activity. We have no control over these third parties' use of this information. Our Services will notify you at the time of requesting personally identifiable information if these third parties will obtain such information. 
 
-At some of our Services, reputable third parties may present or serve the advertisements, provide us with data collection, reporting, ad response measurement, site analytics, as well as assist with delivery of relevant marketing messages and advertisements. These third parties may view, edit, or set their own cookies. The use of these technologies by these third parties is subject to their own privacy policies and is not covered by this privacy statement. For more information about third party ad servers at our Services and your ability to opt-out of targeted advertising from such third parties, visit the [Network Advertising Initiative](http://www.networkadvertising.org/) and/or [Self-Regulatory Program for Online Behavioral Advertising](http://www.aboutads.info/choices). 
+At some of our Services, reputable third parties may present or serve the advertisements, provide us with data collection, reporting, ad response measurement, site analytics, as well as assist with delivery of relevant marketing messages and advertisements. These third parties may view, edit, or set their own cookies. The use of these technologies by these third parties is subject to their own privacy policies and is not covered by this privacy statement. For more information about third party ad servers at our Services and your ability to opt-out of targeted advertising from such third parties, visit the [Network Advertising Initiative](http://www.google.com/url?q=http%3A%2F%2Fwww.networkadvertising.org&sa=D&sntz=1&usg=AFQjCNE7JEvVmIsZqyh0AH9XO3Dl7iJV2g) and/or [Self-Regulatory Program for Online Behavioral Advertising](http://www.google.com/url?q=http%3A%2F%2Fwww.aboutads.info%2Fchoices&sa=D&sntz=1&usg=AFQjCNHF9XatBICNjqnEKN6puV79-Ex5JA). Please note that opting-out through these programs will stop certain targeted advertising, but will still allow the collection of usage data for some purposes, including research, analytics and internal operations.
 
-COOKIES AND OTHER TECHNICAL INFORMATION
+COOKIES, DO NOT TRACK, AND OTHER TECHNICAL INFORMATION
 
 We, our third party service providers, and our partners may send "cookies" to your computer or use similar technologies to enhance your experience with our Services. "Cookies" are files that can identify you as a unique customer and store your personal preferences as well as technical information (including click through and click stream data). Cookies manage and measure the performance of advertisements displayed on or delivered by or through us and/or other networks or sites. Cookies can either be permanent (i.e., they remain on your computer until you delete them) or temporary (i.e., they last only until you close your browser). 
 
@@ -78,7 +74,9 @@ Some of our Services may use locally stored objects (sometimes referred to as "F
 
 We may also use "Web beacons" that monitor your use of our Services. Web beacons (or Web bugs) are small strings of code that provide a method for delivering a graphic image on a Web page for the purpose of transferring data, such as the IP (Internet Protocol) address of the computer that downloaded the page on which the Web beacon appears, the URL (Uniform Resource Locator) of the page on which the Web beacon appears, the time the page containing the Web beacon was viewed, the types of browser that fetched the Web beacon and the identification number of any cookie on the computer previously placed by that server. 
 
-When we correspond with you via HTML capable e-mail, Web beacons let us know whether you received and opened our e-mail. On their own, cookies or Web beacons do not contain or reveal any personally identifiable information. However, if you choose to furnish personally identifiable information, this information can be linked to the data stored in the cookies/Web beacons. 
+When we correspond with you via HTML capable e-mail, Web beacons let us know whether you received and opened our e-mail. On their own, cookies or Web beacons do not contain or reveal any personally identifiable information. However, if you choose to furnish personally identifiable information, this information can be linked to the data stored in the cookies/Web beacons.
+
+We do not currently take actions to respond to Do Not Track signals because a uniform technological standard has not yet been developed. We continue to review new technologies and may adopt a standard once one is created.
 
 By accepting this Privacy Policy, you specifically agree to our use of cookies and Web beacons as described herein. You may adjust your browser to reject cookies from us or from any other Web site. Additionally, by setting your Web browser to display HTML e-mails as text only, you may be able to prevent the use of some Web beacons. Please consult the "Help" section of your browser for more information. However, certain areas of our Services can only be accessed in conjunction with cookies or similar devices and you should be aware that disabling cookies or similar devices might prevent you from accessing some of our content. 
 
@@ -86,13 +84,17 @@ OUR COMMITMENT TO SECURITY
 
 We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online. 
 
-HOW YOU CAN ACCESS OR CORRECT INFORMATION
+HOW YOU CAN ACCESS, CORRECT, OR MAKE CHOICES ABOUT INFORMATION
 
-To access the personally identifiable information that our Services collected about you online from the pages on which this Privacy Policy is posted, to correct factual errors in such information, or to update your interests, preferences or other portions of your user profile, please log into your profile if you have created one with us or send an email to [privacy@flixster-inc.com](mailto:privacy@flixster-inc.com). 
+To access the personally identifiable information that our Services collected about you online from the pages on which this Privacy Policy is posted, to correct factual errors in such information, or to update your interests, preferences or other portions of your user profile, please log into your profile if you have created one with us or send an email to [privacy@flixster-inc.com](mailto:privacy@flixster-inc.com). You may also opt-out of targeted advertising as set forth in the COLLECTION OF INFORMATION BY THIRD PARTY SITES, AD SERVERS, AND SPONSORS section above.
 
-If you have downloaded one of our apps, you can access and change user settings, such as turning off location functionality, from the options/settings menu on your device. Methods for uninstalling will vary depending on your device.  To uninstall one of our apps, please use the application manager provided with your device or consult your device manual. 
+If you have downloaded one of our apps, you can access and change user settings, such as turning off location functionality, from the options/settings menu on your device. If you no longer wish to have any information collected by one of our mobile applications, you may uninstall the app. Methods for uninstalling will vary depending on your device. To uninstall one of our apps, please use the application manager provided with your device or consult your device manual. 
 
 To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections. 
+
+CALIFORNIA RESIDENTS - YOUR CALIFORNIA PRIVACY RIGHTS
+
+If you are a California resident, you may request information about our practices related to disclosing your personal information to certain third parties and/or opt-out of our sharing of your information with unaffiliated third parties for the third parties? direct marketing purposes. Please send your request (along with your full name, e-mail address, postal address, and the subject line labeled ?Your California Privacy Rights?) by e-mail at [privacy@flixster-inc.com](mailto:privacy@flixster-inc.com).
 
 INTERNATIONAL TRANSFER
 
