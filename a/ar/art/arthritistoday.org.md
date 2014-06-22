@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arthritistoday.org privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227232025id_/http%3A//www.arthritis.org/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arthritistoday.org privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622131119id_/http%3A//www.arthritis.org/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Arthritis.org Privacy Policy
 
@@ -146,7 +146,7 @@ The Arthritis Foundation respects the privacy of every individual who contacts u
 
 The Arthritis Foundation may collect information from individuals who contact us via mail, phone or events.  An Arthritis Foundation representative will generally ask of you the following information: name, address, phone number and contact preferences (“Contact Information”). They may also ask you whether you would like to receive information about the Foundation including information about making voluntary time and monetary contributions to the Foundation. If you call seeking patient-related arthritis information, an Arthritis Foundation Representative will ask for the type of arthritis and if your arthritis is doctor-diagnosed (“Health Related Information”). This information enables us to better assist you. All information you provide is voluntary.
 
-In addition to information that you provide to us, we sometimes obtain additional information that is publicly available. This may include standard Contact Information, such as your name, phone number, and address. Other information depends on the activity. For vehicle donations to the Foundation's Autos for Arthritis®, for example, we obtain information about the vehicle.
+In addition to information that you provide to us, we sometimes obtain additional information that is publicly available. This may include standard Contact Information, such as your name, phone number, and address. Other information depends on the activity. 
 
 For memorial contributions or contributions honoring an individual, we ask that you provide Contact Information of the person to whom you would like a personalized gift card sent. The information we collect is used to send the gift card and for informing the recipient of other Foundation programs and services and for no other purposes.
 
