@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netzero.net privacy policy that was archived on 2013-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130908171316id_/http%3A//www.netzero.net/start/landing.do%3Fpage%3Dwww/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netzero.net privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622210145id_/http%3A//www.netzero.net/start/landing.do%3Fpage%3Dwww/legal/privacy) for the most accurate reproduction.*
 
 # NetZero - Value-priced Internet Service Provider - ISP - Free, low-cost and HiSpeed Internet Access. - Privacy and Security
 
@@ -42,6 +42,7 @@ In addition to information collected from you during registration, we collect in
   * online surveys;
   * contest and sweepstakes entries;
   * technical and customer service calls; 
+  * your voluntary submission of information;
   * email correspondence with us; and
   * acceptance of our applications that interact with third party sites or services, such as Facebook or Twitter.
 
