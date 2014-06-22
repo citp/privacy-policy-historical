@@ -1,31 +1,49 @@
-> *The following text is extracted and transformed from the firemountaingems.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206111200id_/http%3A//www.firemountaingems.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firemountaingems.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622232042id_/http%3A//www.firemountaingems.com/customerservice/csdocs.asp%3Fdocid%3DCSTMRSRVCSFTYND%23safeshopping) for the most accurate reproduction.*
 
-# Fire Mountain Gems - Customer Service:(800)423-2319 Phone Orders:(800)355-2137
+# Customer Service - Safety and Security - Fire Mountain Gems and Beads
 
-| 
+What exactly does Ironclad Guarantee mean?
 
-_Privacy and Security Statement_  
-  
----  
-  
-_FireMountainGems.com's Safe Shopping Guarantee_
+Simply put--if you don’t like an item, simply return it. No time limit. No restocking fee. No advance notice. No questions. No kiddin'! It's your choice: 100% refund, 100% replacement, 100% credit or 100% exchange.
 
-The FireMountainGems.com privacy promise protects all your valuable information at every step of your transaction.
+  * 100% Refund - Return any item for a 100% refund--a money-back, satisfaction guarantee.
+  * 100% Replacement - If for any reason you receive a damaged item, please contact us so we can promptly send you a replacement.
+  * 100% Credit - Many customers choose the convenience of returning the item for a credit when no exchange or replacement is needed. You will receive a 100% credit on your account for the cost of the item.
+  * 100% Exchange - Simply return the item and choose another. You will either receive a credit or be asked to pay the difference.
 
-> We give you a 100% guarantee that credit card and other information you send us will remain totally safe. 
 
-How do we do this? FireMountainGems.com uses the lattest secure server software (SSL encryption) for secure commerce transactions so that it cannot be read by an outsider as it travels over the internet. This is not just your credit card number, this is all of your private data, including your name, password, and address.
 
-To enhance your browsing experience at FireMountainGems.com, we may use a feature on your Internet browser called a "cookie". Cookies are small files that your Web browser places on your computer's hard drive. We may use cookies for remembering user names, passwords, preferences, tracking click streams and for load balancing. Because of our use of cookies, we can deliver faster service, consistent, updated results and more personalized site experience. You have the option of setting your browser to reject cookies. However, doing this will hinder the performance and negatively impact your shopping experience on our site.
+We are happy to accept returns and there is no need to call for prior authorization on regular items (no returns on special orders). Just fill out the return form on the back of your invoice. All returns must be accompanied by a copy of the original invoice. All returned merchandise must be sent back in its original container/bag, in a completely unaltered state.
 
-If you do _not_ want us to send you emails with preview items please email our [Customer Service Department](mailto:questions@firemtn.com?Subject=Do%20Not%20Preview), with the words "Do Not Preview" in the subject of your message. Your private information will stay private with FireMountainGems.com.
+Please note: Some products have a 60-day return policy, due to a limited shelf life.
 
-Our Gift Store and our Closeout Store reside on the Yahoo! Store Shopping Basket. Under that partnership, information about FireMountainGems.com may reside on Yahoo! web servers. Yahoo! may use this information, (in an aggregate form only) for their own marketing or promotional purposes.
+When returning items for exchange in the same category of products, you will receive the same quantity discount as your original order. All other items will be calculated as a new order. The quantity discount pricing will be based on the number of items placed on this new order. Please add $5.00 to cover the postage.
 
-Yahoo! may disclose information, including, but not limited to, account registration, customer order information, sales information, and clickstream data. They may only release this information the good faith belief that the information release is reasonably necessary: (a) to comply with the law; (b) to comply with legal process; (c) to enforce the YMSA; (d) to respond to claims that Fire Mountain Gems or FireMountainGems.com is engaged in activities that violate the rights of third parties; or (e) to protect the rights and interests of Yahoo!, Yahoo! Store or others; provided, however, that nothing in this section shall impose a duty on Yahoo! to make any such disclosures.
+Fire Mountain Gems and Beads is not responsible for postage on returned items. In the event that you return a large quantity of items for which you have received assortable or quantity discount pricing, we reserve the right to recalculate your order total based on the actual items you kept. We are unable to accept returns of books and videos that have been opened.
 
-This site may now, or in the future, contain links to other sites. FireMountainGems.com or Fire Mountain Gems is not responsible for the privacy practices or content of such sites.
+Fire Mountain Gems and Beads is serious about privacy. How do we do this? Fire Mountain Gems and Beads uses a secure server (up to 256-bit SSL encryption) to encrypt all of your personal information. We use strong security measures to prevent the loss, misuse and alteration of your information once it is in our records.
 
-At FireMountainGems.com, we are committed to total protection of your privacy and to giving you 100% security, that's our FireMountainGems.com Safe Shopping Guarantee. If we decide to change our privacy commitment, we will post those changes here so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone. If, at any time, you have questions or concerns about FireMountainGems.com's privacy commitment, please feel free to email us at: [ questions@firemtn.com ](mailto:questions@firemtn.com?Subject=Privacy%20Questions) or call 800-423-2319 to speak to one of our Customer Service representatives. 
+Shop with Confidence - Know that your information is protected when you shop at Fire Mountain Gems and Beads. You can now easily identify when you are on a secure, privacy protected page--the address bar will turn green. With advanced technology by VeriSign, the web's most trusted security provider, you can shop confidently knowing your personal information and transactions are protected. Please note this look may vary depending on the web browser you are using. Some browsers will display a padlock image to identify a secure page.
 
-Thank you for shopping with FireMountainGems.com - we'll keep working hard to earn your loyalty.
+How we use information   
+Our site uses an order form allowing you to request information, products and services. Contact information (email address, telephone number, address, etc.) is also used to get in touch with you when necessary. Financial information (credit card number, credit card expiration date, billing address, etc.) is only used to bill you for products and services purchased at Fire Mountain Gems and Beads.
+
+We may use your IP address to help diagnose problems with our server and to administer our web site. Your IP address may also be used to gather broad demographic information and to recognize customer traffic patterns and site usage. This information assists us in developing the design and layout of the site.
+
+To enhance your shopping experience, our site uses cookies. Cookies are alpha-numeric identifiers that are transferred to your computer's hard drive through your web browser. Cookies make it possible for us to recognize you when you visit. By doing this, we can personalize your return visits and save you time during checkout. For the most rewarding shopping experience, your browser must be set to accept cookies.
+
+You may, from time to time, receive information from us about new features, new services and special offers we think you'll find valuable. If you'd like to opt out of receiving future email offers from Fire Mountain Gems and Beads, please [log in](https://www.firemountaingems.com/login/login.asp) to your account. You will see a number of options for maintaining your account. Select, ''Change how often you wish to receive email offers.'' You'll see your current selection and a number of options for changing the frequency of emails or opting out. We may share your mailing address with reputable businesses that can provide you with valuable, relevant offers and information. If you do not wish to have your name shared with these carefully screened businesses, please call customer service at 1-800-423-2319.
+
+This site may now, or in the future, contain links to other sites. Fire Mountain Gems is not responsible for the privacy practices or content of such sites.
+
+By using our web site or purchasing product from us, you agree to the collection and use of information as set forth in this privacy policy. This policy may be updated at any time. We will post any changes to our privacy policy on this page so that you are always aware of what information we collect and how we use it.
+
+If, at any time, you have questions or concerns about Fire Mountain Gems and Beads privacy policy, please feel free to email us at: questions@firemtn.com or call customer service, toll-free, at 1-800-423-2319 to speak to one of our friendly Customer Service representatives.
+
+Popups and Spam   
+Fire Mountain Gems and Beads does not use any type of pop-up advertising on our web site. Our true feelings about this ugly advertising is that each of us should have the choice whether or not we want to view what is offered.
+
+The only pop-up messages on our web site are for help desk related issues, and these only pop-up if you request them. When you visit Fire Mountain Gems and Beads, you are free from aggressive advertising.
+
+Et Cetera   
+We are not responsible for typographical errors. Prices are subject to change without prior notice. To assure customers of continued excellence in service, Fire Mountain trainers may occasionally record and monitor calls. We are a 100% direct marketing company and have no sales showroom. Any letters, photographs or products sent to Fire Mountain become our property unless specifically stated otherwise in writing. We reserve the right to publish any such materials. Jewelry or objects shown in photographs used to show pertinent features of a product are for illustrative use only.
