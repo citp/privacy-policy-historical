@@ -1,23 +1,22 @@
-<!--The following is the downloaded HTML source of the threadless.com privacy policy that was archived on 2013-12-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131210142720id_/http%3A//www.threadless.com/info/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the threadless.com privacy policy that was archived on 2014-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140622212227id_/https%3A//www.threadless.com/info/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# threadless: http://ogp.me/ns/apps/threadless#">
+<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Vw4GWFRACgADUldWBw=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
 
-<!-- MOBIFY - DO NOT ALTER - PASTE IMMEDIATELY AFTER OPENING HEAD TAG -->
-<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0017/6591.js?439014" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://sb.monetate.net/js/1/a-90e2e782/p/threadless.com/439014/g"></script><script src="//a.mobify.com/threadless-30/a.js"></script><script type="text/javascript">/*<![CDATA[*/(function(a){function b(a,b){if(+a)return~a||(d.cookie=h+"=; path=/");j=d.createElement(e),k=d.getElementsByTagName(e)[0],j.src=a,b&&(j.onload=j.onerror=b),k.parentNode.insertBefore(j,k)}function c(){n.api||b(l.shift()||-1,c)}if(this.Mobify)return;var d=document,e="script",f="mobify",g="."+f+".com/",h=f+"-path",i=g+"un"+f+".js",j,k,l=[!1,1],m,n=this.Mobify={points:[+(new Date)],tagVersion:[6,1],ajs:"//a.mobify.com/threadless-30/a.js"},o=/((; )|#|&|^)mobify-path=([^&;]*)/g.exec(location.hash+"; "+d.cookie);o?(m=o[3])&&!+(m=o[2]&&sessionStorage[h]||m)&&(l=[!0,"//preview"+g+escape(m)]):(l=a()||l,l[0]&&l.push("//cdn"+i,"//files01"+i)),l.shift()?(d.write('<plaintext style="display:none;">'),setTimeout(c)):b(l[0])})(function(){if(/ip(hone|od)|android.*(mobile)|blackberry.*applewebkit/i.test(navigator.userAgent)){return[1,"//cdn.mobify.com/sites/threadless-30/production/mobify.js"]}return[0,Mobify.ajs]})/*]]>*/</script>
-<!-- END MOBIFY -->
 
-<!-- Begin Monetate tag v6. Place at start of document head. DO NOT ALTER. -->
+<meta name="apple-itunes-app" content="app-id=428853321, app-argument=https://www.threadless.com/info/privacy">
+
+<script type="text/javascript" src="https://www.threadless.com/loom/loom.3.js"></script>
 <script type="text/javascript">
-  var monetateT = new Date().getTime();
-  (function () {
-      var p = document.location.protocol;
-      if (p == "http:" || p == "https:") {
-          var m = document.createElement('script'); m.type = 'text/javascript'; m.async = true; m.src = (p == "https:" ? "https://s" : "http://") + "b.monetate.net/js/1/a-90e2e782/p/threadless.com/" + Math.floor((monetateT + 789506) / 3600000) + "/g";
-          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(m, s);
-      }})();
+    var loom = new Loom("threadless", "da0f8b91dfe8f587af014a6d52bc0dece93dfe07");
+    var logInPromise = loom.loginWithCookie();
 </script>
-<!-- End Monetate tag. -->
+<!-- MOBIFY - DO NOT ALTER - PASTE IMMEDIATELY AFTER OPENING HEAD TAG -->
+<script type="text/javascript">
+// /*<![CDATA[*/(function(a){function b(a,b){if(+a)return~a||(d.cookie=h+"=; path=/");j=d.createElement(e),k=d.getElementsByTagName(e)[0],j.src=a,b&&(j.onload=j.onerror=b),k.parentNode.insertBefore(j,k)}function c(){n.api||b(l.shift()||-1,c)}if(this.Mobify)return;var d=document,e="script",f="mobify",g="."+f+".com/",h=f+"-path",i=g+"un"+f+".js",j,k,l=[!1,1],m,n=this.Mobify={points:[+(new Date)],tagVersion:[6,1],ajs:"//a.mobify.com/threadless-30/a.js"},o=/((; )|#|&|^)mobify-path=([^&;]*)/g.exec(location.hash+"; "+d.cookie);o?(m=o[3])&&!+(m=o[2]&&sessionStorage[h]||m)&&(l=[!0,"//preview"+g+escape(m)]):(l=a()||l,l[0]&&l.push("//cdn"+i,"//files01"+i)),l.shift()?(d.write('<plaintext style="display:none;">'),setTimeout(c)):b(l[0])})(function(){if(/ip(hone|od)|android.*(mobile)|blackberry.*applewebkit/i.test(navigator.userAgent)){return[1,"//cdn.mobify.com/sites/threadless-30/production/mobify.js"]}return[0,Mobify.ajs]})/*]]>*/
+</script>
+<!-- END MOBIFY -->
 
 <!-- Google Analytics -->
 <script type="text/javascript">
@@ -27,7 +26,7 @@
     _gaq.push(['_trackPageview']);
     (function () {
         var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
     })();
 </script>
@@ -36,23 +35,20 @@
     <meta charset="utf-8">
     <!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"> 
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
 
     <title>
         
-            
-                T-shirts and other products designed by an artist community of 2 million | Threadless
-            
+					Shop Threadless tees and other products
         
     </title>
 
     <meta name="title" content="Threadless">
-    <meta name="description" content="Browse our collection of amazing graphic t-shirt designs.  The best t-shirts on the planet.">
+    <meta name="description" content="Shop graphic tees, artwork, iphone cases, and more designed by the worldwide Threadless community.">
     <meta name="keywords" content="browse, catalog, collection, best, amazing, variety, guys, girls, men's, women's, salethreadless, t-shirts, tee shirts, tshirts, clothing, design, art">
     <meta name="author" content="Threadless">
-    <meta name="copyright" content="(c) 2013 skinnyCorp LLC">
+    <meta name="copyright" content="(c) 2014 skinnyCorp LLC">
     <meta name="MSSmartTagsPreventParsing" content="true">
 
     <meta property="fb:page_id" content="34145704527">
@@ -64,6 +60,7 @@
     <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8">
     <meta http-equiv="Pragma" content="no-cache">
     <meta http-equiv="expires" content="0">
+    <meta name="twitter:widgets:csp" content="on">
 
     <link rel="shortcut icon" href="/favicon.ico">
 
@@ -82,11 +79,11 @@
     <link href="https://plus.google.com/101738019612594778071" rel="publisher">
 
     
-        <link href="https://threadless-media.s3.amazonaws.com/static/css/base.css" rel="stylesheet" type="text/css" media="screen,projection">
-        <link href="https://threadless-media.s3.amazonaws.com/static/css/nomobi.css" rel="stylesheet" type="text/css">
+        <link href="https://d2djzakkfkyr8w.cloudfront.net/static/css/base.da763bffc193.css" rel="stylesheet" type="text/css" media="screen,projection">
+        <link href="https://d2djzakkfkyr8w.cloudfront.net/static/css/nomobi.957405b7171f.css" rel="stylesheet" type="text/css">
         
-<link rel="stylesheet" href="https://d2djzakkfkyr8w.cloudfront.net/static/css/interior.css" type="text/css" media="screen">
-<link rel="stylesheet" href="https://d2djzakkfkyr8w.cloudfront.net/static/css/cms.css" type="text/css" media="screen">
+<link rel="stylesheet" href="https://d2djzakkfkyr8w.cloudfront.net/static/css/interior.c9183152a377.css" type="text/css" media="screen">
+<link rel="stylesheet" href="https://d2djzakkfkyr8w.cloudfront.net/static/css/cms.768f26d45778.css" type="text/css" media="screen">
 
     
 
@@ -96,11 +93,9 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.0/jquery.min.js"></script>
     <script type="text/javascript" src="https://www.google.com/recaptcha/api/js/recaptcha_ajax.js"></script>
 
-    <script>!window.jQuery && document.write(decodeURIComponent('%3Cscript src="https://d2djzakkfkyr8w.cloudfront.net/static/js/libs/jquery-1.7.min.js"%3E%3C/script%3E'))</script><script src="https://d2djzakkfkyr8w.cloudfront.net/static/js/libs/jquery-1.7.min.js"></script>
-
-    <script src="https://d2djzakkfkyr8w.cloudfront.net/static/handlebars.js"></script>
-    <script type="text/javascript" src="https://threadless-media.s3.amazonaws.com/static/js/base.js" charset="utf-8"></script>
-
+    <script>!window.jQuery && document.write(decodeURIComponent('%3Cscript src="https://d2djzakkfkyr8w.cloudfront.net/static/js/libs/jquery-1.7.min.a7326b6935af.js"%3E%3C/script%3E'))</script><script src="https://d2djzakkfkyr8w.cloudfront.net/static/js/libs/jquery-1.7.min.a7326b6935af.js"></script>
+    <script src="//d2djzakkfkyr8w.cloudfront.net/static/handlebars.js"></script>
+    <script type="text/javascript" src="https://d2djzakkfkyr8w.cloudfront.net/static/js/base.cd49e0c91b0b.js" charset="utf-8"></script>
 
     
     
@@ -108,8 +103,8 @@
 
 
     <!--[if lt IE 9]>
-      <script type="text/javascript" src="https://d2djzakkfkyr8w.cloudfront.net/static/js/libs/html5shiv.js"></script>
-      <script type="text/javascript" src="https://d2djzakkfkyr8w.cloudfront.net/static/js/libs/selectivizr-min.js"></script>
+      <script type="text/javascript" src="https://d2djzakkfkyr8w.cloudfront.net/static/js/libs/html5shiv.262bb88879ef.js"></script>
+      <script type="text/javascript" src="https://d2djzakkfkyr8w.cloudfront.net/static/js/libs/selectivizr-min.ed32136af18c.js"></script>
     <![endif]-->
 
     
@@ -121,17 +116,15 @@
 <script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head>
 
 <body class="cms cms_document cms_privacy inactive-user">
-
 <div id="preloadedImages"></div>
 <div id="overlay_piece" style="display:none;"></div>
 
 <header class="group" role="banner">
 	<div class="topbar">
 		<div class="iw">
-			<!-- Begin Monetate Promotional Insert Area -->
-		    <div class="messagezone01"></div>
-		  <!-- EO monetate Promotional Insert Area -->
-
+			
+			
+			
     	<div id="auth_nav" class="auth" data-nav-partial="/login/nav/">
             <ul>
 		      
@@ -172,15 +165,17 @@
                         
                         <li><a href="/catalog/style,tees/type,guys/view,24/order,popular" title="">T-Shirts</a></li>
                         
+                        <li><a href="/catalog/type,guys/view,24/order,popular/style,tanks" title="">Tank Tops</a></li>
+                        
+                        <li><a href="/catalog/view,24/keyword,triblend/order,new/type,guys" title="">Tri-Blend Tees</a></li>
+                        
+                        <li><a href="/catalog/type,guys/view,24/order,popular/style,longsleeves" title="Shop Threadless Longsleeve T-Shirts">Longsleeves</a></li>
+                        
                         <li><a href="/catalog/type,guys/style,hoodies" title="">Hoodies</a></li>
                         
-                        <li><a href="/catalog/type,guys/view,24/order,popular/style,longsleeves" title="">Longsleeves</a></li>
+                        <li><a href="/catalog/line,threadless/style,tees/type,guys/view,24/order,new" title="">New!</a></li>
                         
-                        <li><a href="/shop-theme/new-tees" title="">New Designs</a></li>
-                        
-                        <li><a href="/shop-theme/top-selling-guys-tees" title="">Top Selling</a></li>
-                        
-                        <li><a href="/catalog/style,tees/type,guys/price,clearance" title="">SALE</a></li>
+                        <li><a href="/catalog/price,clearance/line,select/view,24/type,guys" title="Shop the Threadless Guys Select line.">Premium</a></li>
                         
                     </ol>
                   </li>
@@ -189,113 +184,146 @@
                     <em class="section-heading"><a href="/girly" title="">Girly</a></em>
                     <ol class="option-menu">
                         
-                        <li><a href="/catalog/style,tees/type,girly/view,24/order,popular" title="">T-Shirts</a></li>
+                        <li><a href="/catalog/style,tees/type,girly/view,24/order,popular/" title="">T-Shirts</a></li>
+                        
+                        <li><a href="/catalog/type,girly/view,24/order,popular/style,tanks" title="Womens Tank Tops">Tank Tops</a></li>
+                        
+                        <li><a href="/catalog/view,24/keyword,triblend/order,new/type,girly" title="New Tri-Blend T-Shirts">Tri-Blend Tees</a></li>
+                        
+                        <li><a href="/catalog/type,girly/view,24/order,popular/style,other_girly" title="Shop Threadless Girly Fashion Tops">Fashion Tops</a></li>
                         
                         <li><a href="/catalog/type,girly/style,hoodies" title="">Hoodies</a></li>
                         
-                        <li><a href="/catalog/type,girly/view,24/order,popular/style,other_girly" title="Womens Fashion Tops">Fashion Tops</a></li>
+                        <li><a href="/catalog/style,tees/type,girly/view,24/order,new" title="">New!</a></li>
                         
-                        <li><a href="/shop-theme/girly-new-tees" title="">New Designs</a></li>
-                        
-                        <li><a href="/shop-theme/top-selling-girly-tees" title="">Top Selling</a></li>
-                        
-                        <li><a href="/catalog/style,tees/type,girly/price,clearance" title="">SALE</a></li>
+                        <li><a href="https://www.threadless.com/catalog/line,select/type,girly/view,24/" title="Shop the Threadless Girly Select line.">Premium</a></li>
                         
                     </ol>
                   </li>
                   
                   <li>
-                    <em class="section-heading"><a href="/shop/kids" title="">Kids</a></em>
+                    <em class="section-heading"><a href="/catalog/order,popular/type,walls" title="">Art Prints</a></em>
                     <ol class="option-menu">
                         
-                        <li><a href="/baby-and-toddler-boys" title="">Boys Baby &amp; Toddler</a></li>
+                        <li><a href="/catalog/order,new/type,walls" title="Shop New Art Prints">New</a></li>
                         
-                        <li><a href="/baby-and-toddler-girls" title="">Girls Baby &amp; Toddler</a></li>
+                        <li><a href="/catalog/order,popular/type,walls" title="Shop Popular Art Prints">Popular</a></li>
                         
-                        <li><a href="/lil-guys" title="">Lil Guys</a></li>
+                        <li><a href="/catalog/view,24/keyword,abstract/order,popular/type,walls" title="Shop Abstract Art Prints">Abstract</a></li>
                         
-                        <li><a href="/lil-girly" title="">Lil Girly</a></li>
+                        <li><a href="/catalog/view,24/keyword,nature/order,popular/type,walls" title="Shop Nature Art Prints">Nature</a></li>
                         
-                        <li><a href="/kids-stuff-sale" title="">SALE</a></li>
+                        <li><a href="/catalog/view,24/keyword,landscapes/order,popular/type,walls" title="">Landscapes</a></li>
+                        
+                        <li><a href="/catalog/view,24/keyword,funny/order,popular/type,walls" title="Shop Funny Art Prints">Funny</a></li>
+                        
+                        <li><a href="/catalog/view,24/keyword,typography/order,popular/type,walls" title="Shop Typography Art Prints">Typography</a></li>
                         
                     </ol>
                   </li>
                   
                   <li>
-                    <em class="section-heading"><a href="/otherstuff" title="">Other Stuff</a></em>
+                    <em class="section-heading"><a href="/catalog/order,popular/type,iphone" title="">iPhone Cases</a></em>
                     <ol class="option-menu">
                         
-                        <li><a href="/shop-wall-art" title="">Wall Art</a></li>
+                        <li><a href="/catalog/order,new/type,iphone" title="">New</a></li>
                         
-                        <li><a href="/catalog/type,iphone" title="">iPhone Cases</a></li>
+                        <li><a href="/catalog/order,popular/type,iphone" title="None">Popular</a></li>
                         
-                        <li><a href="/home-and-kitchenware" title="">Home &amp; Kitchenware</a></li>
+                        <li><a href="/catalog/view,24/keyword,pop%20culture/order,popular/type,iphone" title="">Pop Culture</a></li>
                         
-                        <li><a href="/backpacks-and-laptop-bags" title="">Backpacks &amp; Laptop Bags</a></li>
+                        <li><a href="/catalog/view,24/keyword,sci%20fi/order,popular/type,iphone" title="">Sci Fi</a></li>
                         
-                        <li><a href="/accessories-and-socks" title="">Accessories &amp; Socks</a></li>
+                        <li><a href="/catalog/view,24/keyword,animals/order,popular/type,iphone" title="">Animals</a></li>
+                        
+                        <li><a href="/catalog/view,24/keyword,video%20games/order,popular/type,iphone" title="">Video Games</a></li>
+                        
+                        <li><a href="/catalog/style,iphone/type,iphone/view,24/order,popular/category,Patterns" title="">Patterns</a></li>
+                        
+                    </ol>
+                  </li>
+                  
+                  <li>
+                    <em class="section-heading"><a href="/end-of-season-sale" title="">Clearance</a></em>
+                    <ol class="option-menu">
+                        
+                        <li><a href="/catalog/price,clearance/style,tees/view,24/order,popular/type,guys" title="Clearance Guys T-Shirts">Guys T-Shirts</a></li>
+                        
+                        <li><a href="/catalog/type,girly/view,24/order,popular/price,clearance" title="">Girly Tops</a></li>
+                        
+                        <li><a href="/catalog/price,clearance/line,select/view,24/type,guys" title="Clearance Select Guys">Premium Guys</a></li>
+                        
+                        <li><a href="/catalog/line,select/type,girly/view,24/price,clearance" title="Clearance Select Girly">Premium Girly</a></li>
+                        
+                        <li><a href="/catalog/view,24/order,popular/type,babies" title="">Babies</a></li>
+                        
+                        <li><a href="/catalog/view,24/order,popular/type,kids" title="">Kids</a></li>
+                        
+                        <li><a href="/ultimate-warehouse-sale" title="Shop Threadless Accessories &amp; Socks">Accessories</a></li>
+                        
+                    </ol>
+                  </li>
+                  
+                  <li>
+                    <em class="section-heading"><a href="/shop-by-theme" title="">More</a></em>
+                    <ol class="option-menu">
                         
                         <li><a href="/product/41/GiftCertificates" title="">Gift Cards</a></li>
                         
-                    </ol>
-                  </li>
-                  
-                  <li>
-                    <em class="section-heading"><a href="/shop-by-theme" title="">Shop By Theme</a></em>
-                    <ol class="option-menu">
+                        <li><a href="/made" title="">Artist Shops</a></li>
                         
-                        <li><a href="/+books+t-shirts" title="Shop Books Designs">Books</a></li>
+                        <li><a href="/collections" title="">Collections</a></li>
                         
-                        <li><a href="/+cats+t-shirts" title="Shop Cats Designs">Cats</a></li>
+                        <li><a href="/thebiglebowski/" title="">Lebowski</a></li>
                         
-                        <li><a href="/+bikes+t-shirts" title="Shop Bikes Designs">Bikes</a></li>
+                        <li><a href="/simpsons-t-shirts" title="">Simpsons</a></li>
                         
-                        <li><a href="/+video+games+t-shirts" title="">Video Games</a></li>
+                        <li><a href="https://www.threadless.com/nickelodeon-retro/" title="">Nickelodeon</a></li>
                         
-                        <li><a href="/+zombies+t-shirts" title="Shop Zombies Designs">Zombies</a></li>
-                        
-                        <li><a href="/shop-by-theme/" title="">View All</a></li>
+                        <li><a href="/made/m-t-shyert/" title="">Blank Tees</a></li>
                         
                     </ol>
                   </li>
                   
                   <li class="banner-nav-placement">
                     
-                      <a href="/shop-theme/top-selling-hoodies">
+                      <a href="/summer-shop-14">
                         <span class="visuallyhidden">Banner</span>
-                        <img src="https://d2djzakkfkyr8w.cloudfront.net/navigation/1204-hoodies-nav.jpg" alt="Top Selling Hoodies">
+                        <img src="https://d2djzakkfkyr8w.cloudfront.net/navigation/summershop-nav.jpg" alt="Ten Dollar Tees ">
                       </a>
                     
                   </li>
 
                  	<li class="collections">
-                 		<em class="section-heading"><a href="/collections">Collections</a></em>
                       <ol>
                         
-                          <li><a href="/made"><img src="https://d2djzakkfkyr8w.cloudfront.net/navigation/made.gif" alt="Made Artist Showcase Collection"></a></li>
+                          <li><a href="/catalog/type,guys/keyword,baseball%20tees/order,popular/style,longsleeves"><img src="https://d2djzakkfkyr8w.cloudfront.net/navigation/nav-buttons_baseball_2.jpg" alt="Shop Threadless Baseball T-Shirts"></a></li>
                         
-                          <li><a href="/select"><img src="https://d2djzakkfkyr8w.cloudfront.net/navigation/select.gif" alt="Threadless Select Collection"></a></li>
+                          <li><a href="/girly"><img src="https://d2djzakkfkyr8w.cloudfront.net/navigation/nav-buttons-girly_3.jpg" alt="Shop Threadless Womens Styles"></a></li>
                         
-                          <li><a href="/causes"><img src="https://d2djzakkfkyr8w.cloudfront.net/navigation/causes.gif" alt="Threadless Causes Collection"></a></li>
+                          <li><a href="/catalog/type,babies/view,24/order,popular/price,10"><img src="https://d2djzakkfkyr8w.cloudfront.net/navigation/nav-buttons_KIDS.jpg" alt="Shop Kids Styles from $9.95"></a></li>
                         
-                          <li><a href="/cartoon-tv-characters"><img src="https://d2djzakkfkyr8w.cloudfront.net/navigation/cartoon-tv-characters.gif" alt="Cartoon &amp; TV Characters Collection"></a></li>
-                        
-                          <li><a href="/bands"><img src="https://d2djzakkfkyr8w.cloudfront.net/navigation/bands.gif" alt="Bands Collection"></a></li>
-                        
-                          <li><a href="/marvel-superheroes"><img src="https://d2djzakkfkyr8w.cloudfront.net/navigation/marvel.gif" alt="Marvel Superheroes Collection"></a></li>
-                        
-                          <li><a href="http://threadpics.threadless.com"><img src="https://d2djzakkfkyr8w.cloudfront.net/navigation/threadpicks.gif" alt="#THREADPICS"></a></li>
-                        
+                        <li class="newsletter">
+													<em class="section-heading">Join Our Newsletter</em>
+													<p>Get the skinny on new designs, artists, challenges, and more!</p>
+													<form action="/newsletter/" method="post" role="form" class="newsletter_signup_form">
+														<input type="hidden" name="csrfmiddlewaretoken" value="rO1kZ4pJ0m507ocr2CIUB3Tyff11SdOw">
+														<fieldset>
+														  <input id="id_email" name="email" placeholder="Your email address" required="true" type="email">
+														  <input id="newsletter_signup_email_header_submit" name="submit" type="submit" value="Join" class="button" onclick="_gaq.push(['_trackEvent', 'Header', 'Newsletter Join', '/info/privacy']);">
+														</fieldset>
+													</form>  
+                        </li>
                       </ol>
                   </li>
                 </ul>
             </li>
             <li>
-              <a href="/pick/score/" class="participate-section dropdown-toggle disabled" data-toggle="dropdown" data-hover="dropdown" data-delay="600" data-close-others="true">Participate
+              <a href="/designs" class="participate-section dropdown-toggle disabled" data-toggle="dropdown" data-hover="dropdown" data-delay="600" data-close-others="true">Participate
               </a>
               <ul class="dropdown-menu menu participate" role="menu" aria-labelledby="dLabel">
                 <li class="primary-action">
-                  <a class="button split" href="/pick/score/?sort=popular&amp;page=1">Score Designs</a>
+                  <a class="button split" href="/designs">Score Designs</a>
                   <a class="button split" href="/make/submit/">Submit a Design</a>
                 </li><!-- EO primary action -->
                 
@@ -324,26 +352,26 @@
                   <ol class="option-menu">
                     
                       <li>
-                        <a href="/8bit/" title="Enter this design challenge">8bit:
-                          <em> Sony PlayStation  2 days left</em>
+                        <a href="/characters/" title="Enter this design challenge">Characters:
+                          <em> $2K + vinyl toy   due tomorrow </em>
                         </a>
                       </li>
                     
                       <li>
-                        <a href="/frontierpatterns/" title="Enter this design challenge">Frontier Patterns:
-                          <em> $3,000 cash  6 days left</em>
+                        <a href="/ziphoodies5/" title="Enter this design challenge">zip hoodies 5:
+                          <em> $2k + gift code   11 days left </em>
                         </a>
                       </li>
                     
                       <li>
-                        <a href="/thebiglebowski/" title="Enter this design challenge">The Big Lebowski:
-                          <em> $4000  13 days left</em>
+                        <a href="/videogamesthatdontexist/" title="Enter this design challenge">Video Games:
+                          <em> $2k + Steam code   16 days left </em>
                         </a>
                       </li>
                     
                       <li>
-                        <a href="/drawyourwish/" title="Enter this design challenge">Draw your wish:
-                          <em> $2K + art tablet  16 days left</em>
+                        <a href="/surrealism/" title="Enter this design challenge">Surrealism:
+                          <em> 2K + art library   18 days left </em>
                         </a>
                       </li>
                     
@@ -362,39 +390,35 @@
                   <em class="section-heading">Elsewhere on the Interwebs</em>
                     <ul class="option-menu">
                       <li><a href="http://facebook.com/threadless">
-                        <i class="icon-facebook"></i>Facebook</a></li>
+                        <i class="fa fa-facebook"></i>Facebook</a></li>
                       <li><a href="http://youtube.com/threadless">
-                        <i class="icon-youtube"></i>YouTube</a></li>
+                        <i class="fa fa-youtube"></i>YouTube</a></li>
                       <li><a href="http://twitter.com/threadless">
-                        <i class="icon-twitter"></i>Twitter</a></li>
+                        <i class="fa fa-twitter"></i>Twitter</a></li>
                       <li><a href="http://flickr.com/threadless365">
-                        <i class="icon-flickr"></i>Flickr</a></li>
+                        <i class="fa fa-flickr"></i>Flickr</a></li>
                       <li><a href="http://instagram.com/threadless">
-                        <i class="icon-instagram"></i>Instagram</a></li>
-                      <li><a href="http://vimeo.com/threadless">
-                        <i class="icon-youtube-play"></i>Vimeo</a></li>
-                      <li><a href="http://reddit.com/r/threadless">
-                        <i class="icon-comments"></i>Reddit</a></li>
+                        <i class="fa fa-instagram"></i>Instagram</a></li>
                       <li><a href="http://google.com/+threadless">
-                        <i class="icon-google-plus"></i>Google+</a></li>
+                        <i class="fa fa-google-plus"></i>Google+</a></li>
                     </ul>
               </li></ul>
             </li>
 					</ol>
 			</nav>
       <form class="site-search" id="search_form" role="search" action="/catalog">
-          <fieldset>
-              <legend class="visuallyhidden">Search Tees</legend>
-              <label for="search" class="visuallyhidden">Search T-Shirts</label>
-              <input type="text" name="keyword" id="search" role="search" placeholder="Search" autocomplete="off">
-              <button type="submit"><i class="icon-search"></i></button>
-          </fieldset>
+        <fieldset>
+            <legend class="visuallyhidden">Search Tees</legend>
+            <label for="search" class="visuallyhidden">Search T-Shirts</label>
+            <input type="text" name="keyword" id="search" role="search" placeholder="Search" autocomplete="off">
+            <button type="submit"><i class="fa fa-search"></i></button>
+        </fieldset>
       </form>
 	    <aside>
-        <a href="/search" class="mobile-search"><i class="icon-search"></i></a>
+        <a href="/search" class="mobile-search"><i class="fa fa-search"></i></a>
 		    <div class="activity-stream">
 		      <a class="hitexpand" href="#">
-		        <i class="icon-globe"><span class="visuallyhidden">View Notifications</span></i>
+		        <i class="fa fa-globe"><span class="visuallyhidden">View Notifications</span></i>
 		      </a>
 		      <div class="notifications-list">
 		        
@@ -496,7 +520,7 @@ Handlebars.registerHelper('others', function(audience) {
 
 		    <div class="quickview-cart">
 		      <a href="/cart">
-		      	<i class="icon-shopping-cart"><span class="visuallyhidden">Show Shopping Cart</span></i>
+		      	<i class="fa fa-shopping-cart"><span class="visuallyhidden">Show Shopping Cart</span></i>
 		      	<span class="cart-count visuallyhidden">0</span>
 		      </a>
 		    </div><!-- EO Cart -->
@@ -505,8 +529,48 @@ Handlebars.registerHelper('others', function(audience) {
 	</div><!-- EO Atlas: primary nav + search + cart + notifications -->
 </header>
 
+
+
+
+<div class="promo_banner">
+	<div class="iw">
+		<ul>
+    
+    	
+				
+					
+				
+      
+    
+    	
+				
+					
+				
+      
+    
+    	
+				
+					
+						<li class="domestic desktop"> <a href="/catalog/type,guys/view,24/order,popular/style,tanks"><img src="https://d2djzakkfkyr8w.cloudfront.net/navigation/desktop-tank_1.gif" alt="Last chance deals on tank tops! Show now!"></a></li>
+					
+				
+      
+    
+    	
+				
+					
+						<li class="domestic mobile"> <a href="/catalog/type,guys/view,24/order,popular/style,tanks"><img src="https://d2djzakkfkyr8w.cloudfront.net/navigation/mobile-tank_1.gif" alt="Last chance deals on tank tops! Show now!"></a></li>
+					
+				
+      
+    
+		</ul>
+	</div>
+</div>
+
+	
 <div id="fb-root"></div>
-            <script src="https://d2djzakkfkyr8w.cloudfront.net/static/js/threadbare.js"></script>
+            <script type="text/javascript" src="https://d2djzakkfkyr8w.cloudfront.net/static/js/threadbare.a37987d3159d.js"></script>
             <script type="text/javascript">
                 $(window).ready(function (e) {
                     
@@ -543,7 +607,7 @@ Handlebars.registerHelper('others', function(audience) {
         <li id="join_tab" class="join_show"><a onclick="_gaq.push(['_trackEvent', 'Nav', 'Login', 'Join']);" href="/join">Join Us</a></li>
     </ul>
 
-    <form id="login_form" class="login_form" name="login_form" method="POST" action="http://www.threadless.com/login"><input type="hidden" name="csrfmiddlewaretoken" value="z2TKLANeAR2V2AzrWp4XN4wIsiXx0VRi">
+    <form id="login_form" class="login_form" name="login_form" method="POST" action="https://www.threadless.com/login"><input type="hidden" name="csrfmiddlewaretoken" value="rO1kZ4pJ0m507ocr2CIUB3Tyff11SdOw">
     <fieldset>
         <legend>Login</legend>
         <div class="login_error"></div>
@@ -568,7 +632,7 @@ Handlebars.registerHelper('others', function(audience) {
 
     
     <form class="join_form loading">One second...</form>
-    <form id="facebook_form" class="facebook_form" method="post" action="/auth/login/facebook/"><input type="hidden" name="csrfmiddlewaretoken" value="z2TKLANeAR2V2AzrWp4XN4wIsiXx0VRi">
+    <form id="facebook_form" class="facebook_form" method="post" action="/auth/login/facebook/"><input type="hidden" name="csrfmiddlewaretoken" value="rO1kZ4pJ0m507ocr2CIUB3Tyff11SdOw">
     <input type="submit" value="Log In With Facebook!">
 </form>
 
@@ -668,6 +732,7 @@ Handlebars.registerHelper('others', function(audience) {
 <li>If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as the shopping cart and design scoring pages, will be limited.</li>
 <li>Threadless.com does utilize tracking technology to better understand site traffic patterns and use. However, none of the information collected via tracking technology is personally identifiable information.</li>
 <li>The use of cookies by our partners, affiliates or tracking utility company is not covered by our privacy statement. We do not have access or control over these cookies. Our partners, affiliates, tracking utility company and service providers use session ID cookies to make it easier for you to navigate our site, in order for you to use the shopping cart, etc.</li>
+<li>As part of our tracking utility, we have implemented Google Analytics Demographics and Interest Reporting. These report rely on the same technology that informs advertising targeting on the Google Display Network. Threadless uses this non-personally identifiable information to understand our audience better and inform communication and strategy decisions for our business. Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using <a href="https://www.google.com/settings/u/0/ads">Google Ads Settings</a>, which will also opt the visitor out of non-personally identifiable demographic and interest tracking. Visitors can also take greater control of their privacy preferences through Google Analytics' currently available <a href="https://tools.google.com/dlpage/gaoptout/">opt-outs for the web</a>.</li>
 <li>If you click on a link to a third party site, including on an advertisement, you will leave Threadless.com and go to the site you selected. Because we cannot control the activities of third parties, we cannot accept responsibility for any use of your personally identifiable information by such third parties, and we cannot guarantee that they will adhere to the same privacy practices as Threadless.com. We encourage you to review the privacy statements of any other service provider from whom you request services.</li>
 <li>Threadless.com may use web beacons in connection with e-mails sent to Threadless.com users, to let us know whether and when the email was opened. No personal information is transmitted through web beacons.</li>
 <li>Our third party advertising partner employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personally identifiable information. To learn more about our advertising company’s use of clear gifs, please go to&nbsp;<a href="http://www.doubleclick.com/privacy/faq.aspx">http://www.doubleclick.com/privacy/faq.aspx</a></li>
@@ -697,7 +762,7 @@ Handlebars.registerHelper('others', function(audience) {
 
 <h3>8. Effective Date</h3>
 
-<p>This Privacy Policy was last modified November 13, 2013.</p>
+<p>This Privacy Policy was last modified February 18, 2014.</p>
 
 <h3>9. Contact Information</h3>
 
@@ -709,14 +774,14 @@ Handlebars.registerHelper('others', function(audience) {
         
         
     </section>
-  
+
 </div>
 
     
 </div>
 <!-- END .content_container -->
 
-<div id="csrf"><input type="hidden" name="csrfmiddlewaretoken" value="z2TKLANeAR2V2AzrWp4XN4wIsiXx0VRi"></div>
+<div id="csrf"><input type="hidden" name="csrfmiddlewaretoken" value="rO1kZ4pJ0m507ocr2CIUB3Tyff11SdOw"></div>
 
 
 
@@ -724,18 +789,18 @@ Handlebars.registerHelper('others', function(audience) {
 	<div class="iw">
 	  <section class="foot-lead group">
 	      <article class="newsletter">
-	          <h3>Newsletter</h3>
-<p>Sign up for sneak peeks and sales!</p>
+	          <h3>Join Our Newsletter</h3>
+<p>Get the skinny on new designs, artists, challenges, and more!</p>
 <form action="/newsletter/" method="post" role="form" class="newsletter_signup_form">
- <input type="hidden" name="csrfmiddlewaretoken" value="z2TKLANeAR2V2AzrWp4XN4wIsiXx0VRi">
-        <fieldset>
-                <label for="newsletter_signup_email_footer" class="hide">Enter your email address</label>
-                <input id="id_email" name="email" placeholder="Your email address" required="true" type="email">
-                <input id="newsletter_signup_email_footer_submit" name="submit" type="submit" value="Join" class="button" onclick="_gaq.push(['_trackEvent', 'Footer', 'Newsletter Join', '/info/privacy']);">
-        </fieldset>
-        <div style="display: none">
-                <img src="https://d2djzakkfkyr8w.cloudfront.net/static/images/loading.gif" alt="Loading..." title=""> Submitting…
-        </div>
+	<input type="hidden" name="csrfmiddlewaretoken" value="rO1kZ4pJ0m507ocr2CIUB3Tyff11SdOw">
+	<fieldset>
+		<label for="newsletter_signup_email_footer">Enter your email address</label>
+	  <input id="id_email" name="email" placeholder="Your email address" required="true" type="email">
+	  <input id="newsletter_signup_email_footer_submit" name="submit" type="submit" value="Join" class="button" onclick="_gaq.push(['_trackEvent', 'Footer', 'Newsletter Join', '/info/privacy']);">
+	</fieldset>
+	<div style="display: none">
+	  <img src="https://d2djzakkfkyr8w.cloudfront.net/static/images/loading.b0cd5a5dc070.gif" alt="Loading..." title=""> Submitting…
+	</div>
 </form>
 	      </article>
 	      <article class="facebook">
@@ -744,7 +809,7 @@ Handlebars.registerHelper('others', function(audience) {
 	      <article class="twitter">
 	          <div id="footer-tweet">
 	              <ul class="tweet_list">
-	                  <li><span class="tweet_text">Cute and silly cats... that KILL people! Courtesy of Dr. <a href="https://twitter.com/Jublin" target="_blank">@Jublin</a>. <a href="http://t.co/OSoNA1P2GP" target="_blank">t.co/OSoNA1P2GP</a></span></li>
+	                  <li><span class="tweet_text">Does the internet love <a href="https://twitter.com/search/q=%23cats&amp;src=hash" target="_blank">#cats</a> or what!? <a href="http://t.co/yqbbnLWXd1" target="_blank">t.co/yqbbnLWXd1</a> <a href="http://t.co/OJmetWm0Vj" target="_blank">t.co/OJmetWm0Vj</a></span></li>
 	              </ul>
 	          </div>
 	          <div class="follow">
@@ -758,70 +823,63 @@ Handlebars.registerHelper('others', function(audience) {
 		  <nav>
 				<ol class="footer-nav group">
 					<li>
-						<h3>Shop</h3>
+						<h3><a href="/catalog/">Shop</a></h3>
 							<ol>
 								
 								<li><a href="/catalog/type,guys" title="">Guys</a></li>
 								
 								<li><a href="/girly" title="">Girly</a></li>
 								
-								<li><a href="/shop/kids" title="">Kids</a></li>
+								<li><a href="/catalog/order,popular/type,walls" title="">Art Prints</a></li>
 								
-								<li><a href="/otherstuff" title="">Other Stuff</a></li>
+								<li><a href="/catalog/order,popular/type,iphone" title="">iPhone Cases</a></li>
 								
-								<li><a href="/shop-by-theme" title="">Shop By Theme</a></li>
+								<li><a href="/end-of-season-sale" title="">Clearance</a></li>
+								
+								<li><a href="/shop-by-theme" title="">More</a></li>
 								
 							</ol>
 					</li><!-- EO Shop Nav -->
 					<li class="participate">
-						<h3>Participate</h3>
+						<h3><a href="/designs">Participate</a></h3>
 						<ol>
-							<li><a href="/pick/score/">Score Designs</a></li>
+							<li><a href="/designs">Score Designs</a></li>
 							<li><a href="/make/submit/">Design Challenges</a></li>
 							<li><a href="/forum">Forum</a></li>
 						</ol>
 						<ol class="partners">
-							<li><a class="window" href="https://creativemarket.com/" target="_blank">Creative Market</a></li>
 							<li><a class="window" href="http://www.openme.com/" target="_blank">Open Me</a></li>
 							<li><a class="window" href="http://www.tattoodo.com/" target="_blank">Tattoodo</a></li>
 						</ol>
 					</li><!-- EO Participate Nav -->
-					<li><h3>Blog</h3>
+					<li>
+						<h3><a href="http://blog.threadless.com">Blog</a></h3>
 						<ol>
 	            <li><a href="http://blog.threadless.com">Read our Blog</a></li>
 	            <li><a href="http://youtube.com/threadless">YouTube</a></li>
 	            <li><a href="http://flickr.com/threadless365">Flickr</a></li>
 	            <li><a href="http://instagram.com/threadless">Instagram</a></li>
-	            <li><a href="http://vimeo.com/threadless">Vimeo</a></li>
-	            <li><a href="http://reddit.com/r/threadless">Reddit</a></li>
 	            <li><a href="http://google.com/+threadless">Google+</a></li>
 	           </ol>
 	        </li><!-- EO Blog Nav -->
 	        <li>
-	        	<h3><a href="/info/about/">Info</a></h3>
+	        	<h3><a href="/infoabout/">Info</a></h3>
 	        		<ol>
 								<li><a href="/orderstatus/">Order Status</a></li>
 								<li><a href="http://support.threadless.com/" class="window" target="_blank">Help</a></li>
-								<li><a href="/info/retail/">Retail Stores</a></li>
-								<li><a href="/info/jobs/">Jobs</a></li>
+								<li><a href="/infolocation/">Location</a></li>
+								<li><a href="/infojobs/">Jobs</a></li>
 	        		</ol>
 	        	</li><!-- EO Info Nav -->
+	        <li class="footer_apps">
+	        	<h3>iPhone Apps</h3>
+	        		<ol>
+								<li class="threadless_app"><a onclick="_gaq.push(['_trackEvent', 'Footer', 'Threadless App', '']);" href="/app">Threadless</a></li>
+								<li class="typetees_app"><a onclick="_gaq.push(['_trackEvent', 'Footer', 'Type Tees App', '']);" href="/typetees">Type Tees</a></li>
+	        		</ol>
+	        	</li><!-- EO iPhone App Nav -->
 				</ol>
 		  </nav>
-			<section class="contact group vcard">
-				<h3>Locations</h3>
-				<span class="fn org visuallyhidden">Threadless</span>
-				<section class="offices">
-				    <div class="address one">
-			        <h4 class="fn"><a href="http://maps.google.com/maps?q=1260+W.+Madison+St.+Chicago,+IL+60607&amp;um=1&amp;ie=UTF-8&amp;ei=ACQLT4SGO6jg2AXg-IC3Aw&amp;sa=X&amp;oi=mode_link&amp;ct=mode&amp;cd=3&amp;ved=0CA0Q_AUoAg">Warehouse &amp; Offices</a></h4>
-			        <p>1260 W. Madison St. Chicago, IL 60607</p>
-				    </div>
-				    <div class="address two">
-			        <h4 class="fn"><a href="http://maps.google.com/maps?q=3011+N.+Broadway+St.+Chicago,+IL+60657&amp;hnear=3011+N+Broadway,+Chicago,+Cook,+Illinois+60657&amp;t=m&amp;z=16&amp;vpsrc=6&amp;iwloc=A">Retail Store</a></h4>
-			        <p>3011 N. Broadway St. Chicago, IL 60657</p>
-				    </div>
-				</section><!-- END .offices -->
-            </section>
         </div><!-- EO .w -->
         <div class="foot_notes">
 
@@ -841,7 +899,7 @@ Handlebars.registerHelper('others', function(audience) {
                 </li>
             </ul>
             <p class="copy">
-                © 2013, a <a href="http://www.skinnycorp.com" class="fn org url">skinnyCorp LLC</a> company. All designs copyright by owner.
+                © 2014, a <a href="http://www.skinnycorp.com" class="fn org url">skinnyCorp LLC</a> company. All designs copyright by owner.
                 <a href="/info/privacy">Privacy Policy.</a>
                 <a href="/info/terms">Terms of Use.</a>
             </p>
@@ -856,22 +914,9 @@ Handlebars.registerHelper('others', function(audience) {
 
 
 
-    <script type="text/javascript">
-        var axel = Math.random() + "";
-        var a = axel * 10000000000000;
-        document.write('<iframe src="http://fls.doubleclick.net/activityi;src=2057899;type=threa133;cat=threa342;ord=1;num=' + a + '?" width="1" height="1" frameborder="0" style="display:none;"></iframe>');
-    </script><iframe src="http://fls.doubleclick.net/activityi;src=2057899;type=threa133;cat=threa342;ord=1;num=7618876244867.576?" width="1" height="1" frameborder="0" style="display:none;"></iframe>
-    <noscript>
-        <iframe src="http://fls.doubleclick.net/activityi;src=2057899;type=threa133;cat=threa342;ord=1;num=1?" width="1"
-                height="1" frameborder="0" style="display:none;"></iframe>
-    </noscript>
 
-
-
-
-
-<script type="text/javascript" src="https://threadless-media.s3.amazonaws.com/static/js/global/transitions.js"></script>
-<script type="text/javascript" src="https://threadless-media.s3.amazonaws.com/static/js/global/modal.js"></script>
+<script type="text/javascript" src="https://d2djzakkfkyr8w.cloudfront.net/static/js/global/transitions.600c26475acc.js"></script>
+<script type="text/javascript" src="https://d2djzakkfkyr8w.cloudfront.net/static/js/global/modal.04137d31773e.js"></script>
 
 
 <script type="text/javascript">
@@ -897,7 +942,7 @@ Handlebars.registerHelper('others', function(audience) {
       if (threadbare.getAnonymousNotifications) {$('.showmore').html('<a href="/info/blog/976347/keep_tabs_on_your_favorite_artists_with_following"><em>Learn More</em></a>');}
       // If have more than 10 notifications: let's load more
       if (data && data.result && data.result.length >= 9) {$('.showmore').html('<em>Load More</em>');}
-      // I don't have any notifications :( 
+      // I don't have any notifications :(
       if (data && data.result && data.result.length === 0) {
           $('.notifications-list, .showmore').addClass('empty');
           $('.showmore').replaceWith('<span class="nm showmore"><em>You have no new notifications.</em></span>');
@@ -910,8 +955,8 @@ Handlebars.registerHelper('others', function(audience) {
       }
   }
 
-  //Only show loading image for active users 
 
+  //Only show loading image for active users
   $(".active-user .showmore").click(function () {
       $('.active-user .showmore').html('<img src="https://d2djzakkfkyr8w.cloudfront.net/static/imgs/global/loading-v.gif" alt=""/>');
       threadbare.getNotifications(function (data) {
@@ -923,7 +968,7 @@ Handlebars.registerHelper('others', function(audience) {
               $('.active-user .showmore').replaceWith('<span class="nm showmore"><em>No more posts to show</em></span>');
           }
       });
-  });                                                                         
+  });
 </script>
 
 
@@ -935,13 +980,18 @@ $(document).ready(function() {
 </script>
 <![endif]-->
 
+  <script type="text/javascript">
+      var axel = Math.random() + "";
+      var a = axel * 10000000000000;
+      document.write('<iframe src="https://2057899.fls.doubleclick.net/activityi;src=2057899;type=threa133;cat=threa342;ord=1;num=' + a + '?" width="1" height="1" frameborder="0" style="display:none;"></iframe>');
+  </script><iframe src="https://2057899.fls.doubleclick.net/activityi;src=2057899;type=threa133;cat=threa342;ord=1;num=5270574564204.725?" width="1" height="1" frameborder="0" style="display:none;"></iframe>
+  <noscript>
+      <iframe src="https://2057899.fls.doubleclick.net/activityi;src=2057899;type=threa133;cat=threa342;ord=1;num=1?" width="1"
+              height="1" frameborder="0" style="display:none;"></iframe>
+  </noscript>
 
-<script type="text/javascript">
-  setTimeout(function(){var a=document.createElement("script");
-  var b=document.getElementsByTagName("script")[0];
-  a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0017/6591.js?"+Math.floor(new Date().getTime()/3600000);
-  a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
-</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-3.newrelic.com","queueTime":0,"licenseKey":"aa6e159205","agent":"js-agent.newrelic.com/nr-411.min.js","transactionName":"YlcGNxQDD0IFAhIMC1sdIhYIARVYCw9JBglGHBIKAxUSCwAEEgQNWUE=","applicationID":"2336640","errorBeacon":"bam.nr-data.net","applicationTime":157}</script>
+
 
 <script type="text/javascript">
     window.fbAsyncInit = function() {
@@ -957,7 +1007,7 @@ $(document).ready(function() {
             if (response.status === 'connected') {
                 $('.popbox').fadeOut();
                 var accessToken = response.authResponse.accessToken;
-                window.location = '?ref=http://www.threadless.com/info/privacy&token=' + accessToken;
+                window.location = '?ref=https://www.threadless.com/info/privacy&token=' + accessToken;
             }
         });
 
@@ -982,4 +1032,4 @@ $(document).ready(function() {
     window.MEDIA_URL = "https://d2djzakkfkyr8w.cloudfront.net/";
 </script>
 
-</body></html>
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
