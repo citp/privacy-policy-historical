@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the threadless.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210142720id_/http%3A//www.threadless.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the threadless.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622212227id_/https%3A//www.threadless.com/info/privacy) for the most accurate reproduction.*
 
-# T-shirts and other products designed by an artist community of 2 million | Threadless
+# Shop Threadless tees and other products
 
 Threadless.com recognizes that its customers, visitors, users, and others (known collectively or individually as "Users") who use [www.threadless.com](http://www.threadless.com/) (the "Website") value their privacy. This Privacy Policy applies to all of the products, services, and Websites offered by Threadless.com, and details important information regarding the use and disclosure of User information collected on the Website.
 
@@ -80,6 +80,7 @@ Children Under 13
   * If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as the shopping cart and design scoring pages, will be limited.
   * Threadless.com does utilize tracking technology to better understand site traffic patterns and use. However, none of the information collected via tracking technology is personally identifiable information.
   * The use of cookies by our partners, affiliates or tracking utility company is not covered by our privacy statement. We do not have access or control over these cookies. Our partners, affiliates, tracking utility company and service providers use session ID cookies to make it easier for you to navigate our site, in order for you to use the shopping cart, etc.
+  * As part of our tracking utility, we have implemented Google Analytics Demographics and Interest Reporting. These report rely on the same technology that informs advertising targeting on the Google Display Network. Threadless uses this non-personally identifiable information to understand our audience better and inform communication and strategy decisions for our business. Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using [Google Ads Settings](https://www.google.com/settings/u/0/ads), which will also opt the visitor out of non-personally identifiable demographic and interest tracking. Visitors can also take greater control of their privacy preferences through Google Analytics' currently available [opt-outs for the web](https://tools.google.com/dlpage/gaoptout/).
   * If you click on a link to a third party site, including on an advertisement, you will leave Threadless.com and go to the site you selected. Because we cannot control the activities of third parties, we cannot accept responsibility for any use of your personally identifiable information by such third parties, and we cannot guarantee that they will adhere to the same privacy practices as Threadless.com. We encourage you to review the privacy statements of any other service provider from whom you request services.
   * Threadless.com may use web beacons in connection with e-mails sent to Threadless.com users, to let us know whether and when the email was opened. No personal information is transmitted through web beacons.
   * Our third party advertising partner employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personally identifiable information. To learn more about our advertising company’s use of clear gifs, please go to <http://www.doubleclick.com/privacy/faq.aspx>
@@ -115,7 +116,7 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 ### 8\. Effective Date
 
-This Privacy Policy was last modified November 13, 2013.
+This Privacy Policy was last modified February 18, 2014.
 
 ### 9\. Contact Information
 
