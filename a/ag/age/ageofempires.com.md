@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ageofempires.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222035713id_/http%3A//www.microsoft.com/privacystatement/en-us/xbox/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ageofempires.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622122805id_/http%3A//www.microsoft.com/privacystatement/en-us/xbox/default.aspx) for the most accurate reproduction.*
 
 # Microsoft Privacy Statement
 
-Last Updated: November 2013
+Last Updated: June 2014
 
 Xbox Privacy Statement
 
@@ -82,7 +82,7 @@ What we collect:
   * Service statistics - We may collect information about your use of Xbox Services. This information can include such activities as: number of times you sign into and sign-off from the Services; games you have played on the Services; content you obtain on the Services; and game-score statistics. If you use an Xbox console that includes a storage device (hard drive or memory unit), and if you play offline or have never signed into the Services on the console, usage data will be stored on the storage device and sent to Microsoft the next time you sign into the Services.  We also may collect and automatically upload certain information about the Services’ performance and your device. Such data may include Xbox console hardware and operating performance data, manufacturing codes from game discs, network performance data, and Service quality data. If you use the Xbox console with Kinect, we may also collect data about how you use the Kinect to access the Services. Any software or hardware errors - may be uploaded and reported to Microsoft, either at the time the error occurs or the next time you are online. All such data may be stored with the Xbox console's unique identifier and may be associated with personally identifiable information.  When your Xbox is connected to the Internet, Microsoft is able to identify which console and which version of the Xbox operating system you are currently using. In addition, when you access the Services via a personal computer, Microsoft will collect information about the Xbox Live software version you are using. This information alerts Microsoft to provide you with appropriate auto-updates and to protect the security of the Services. Additionally, game publishers may receive usage information when you interact with their titles. 
   * Anti-cheating - In order to create a fair gaming experience for all users by detecting cheating, Microsoft will periodically collect the following information about your device when you sign on to Xbox Live: your IP address, operating system and Xbox Live software version, and other non-personally identifiable system information. In addition Microsoft may also collect information about other software running on your device, or hardware connected to it that based on Microsoft’s analysis is suspected to be used for cheating. Microsoft will use this information to protect the security of the Services and may take enforcement action against an account (on Xbox Live) and/or Xbox Live connected device; however, we will not use this information in any way that disables any other software running on a device. 
   * Search and browser - You may be able to search for Xbox applications, content or services using voice or text commands on the Xbox console or on a mobile phone using a search module powered by Bing. To learn how Bing protects your privacy, read the [Bing Privacy Statement](http://go.microsoft.com/fwlink/?LinkId=248686). You may choose to use the Internet Explorer application on Xbox. To learn how Internet Explorer protects your privacy, read the [Internet Explorer Privacy Statement](http://windows.microsoft.com/en-US/internet-explorer/ie10-win8-privacy-statement).  When you search on Xbox, Microsoft will collect and store your search terms in order to provide you search results and improve Microsoft products. We store search terms separately from any account information that directly identifies you. If you use your voice to enter search terms on Xbox, we will convert your voice to text in order to provide you search results. Whether we can also use your voice data for product improvement is controlled separately. To learn more, see the [Kinect](http://www.microsoft.com/privacystatement/EN-US/xbox/default.aspx?componentid=pspxboxKinect&view=Description) section. 
-  * Live television - If you have an adult account and choose to watch live television via the Xbox TV App on your Xbox One, we may ask your permission to collect information about television programming you watch in order to provide you with content recommendations, to provide other Xbox users anonymous aggregate data about what is being watched via Xbox One, and to improve the Xbox One live television feature. You can control whether we collect this programming information. We do not collect this information for child and teen accounts. 
+  * Live television - If you have an adult account and choose to watch live television via the Xbox TV App on your Xbox One, we may ask your permission to collect information about television programming you watch in order to provide you with content recommendations, to provide other Xbox users anonymous aggregate data about what is being watched via Xbox One, and to improve the Xbox One live television feature. You can control whether we collect this programming information. We may also collect TV viewing history from your console in a way that doesn’t identify you or others. We do not collect this information for child and teen accounts. 
   * Xbox Music and Video - We may also collect information about music and videos you purchase or stream from Microsoft through Xbox; this information is used to provide you recommendations, to provide Xbox users anonymous aggregate data about what others are listening to or watching on Xbox, and to improve the Xbox Music and Xbox Video services. 
   * Third-party video services-You can choose whether to allow us to know information about videos you purchase or view through third-party apps on Xbox. 
   * Data from other sources-We may get additional information about you, such as demographic data we purchase from other companies. In addition, since Xbox gives you access to applications and game titles that may be provided by a partner company, the partner may send us information on how you use its service, subject to that partner’s privacy statement.  It may also deliver information to enable us to provide you recommendations. 
@@ -208,7 +208,7 @@ Xbox Music, Video, and TV
 
 Summary 
 
-To enable a sharing experience on Xbox Music and Xbox Video and help you discover content that may interest you, Microsoft will collect information about what content you play, the length of play, and the rating you give in Xbox Music and Xbox Video. This information is sent to Microsoft directly from the device using the Xbox Music or Xbox Video service. If you are watching Live TV through the Xbox TV app, you can choose whether your live TV viewing history is sent to Microsoft.
+To enable a sharing experience on Xbox Music and Xbox Video and help you discover content that may interest you, Microsoft will collect information about what content you play, the length of play, and the rating you give in Xbox Music and Xbox Video. This information is sent to Microsoft directly from the device using the Xbox Music or Xbox Video service. If you are watching Live TV through the Xbox TV app, you can choose whether your personal live TV viewing history is sent to Microsoft. We may also collect TV viewing history from your console in a way that doesn’t identify you or others.
 
 Full text 
 
@@ -220,7 +220,7 @@ To enrich your experience when playing content, the Services may display related
 
 If you use the Services to access content that has been protected with Microsoft Digital Rights Management (DRM), it may automatically request media usage rights from an online rights server and download and install DRM updates in order to let you play the content. See the DRM information in the [Microsoft Silverlight Privacy Statement](http://go.microsoft.com/fwlink/?LinkId=178857 "Microsoft Silverlight Privacy Statement") for more information. 
 
-Whether your live TV viewing history is available to Microsoft depends on what live TV viewing app you use. If you use the Xbox TV App, there is a customer control allowing adults to choose whether we may collect information about live TV they watch through Xbox in order to provide them with recommendations and to improve the service. We do not allow children or teens to choose to send us this information.
+Whether your live TV viewing history is available to Microsoft depends on what live TV viewing app you use. If you use the Xbox TV App, there is a customer control allowing adults to choose whether we may collect information about live TV they watch through Xbox in order to provide them with recommendations and to improve the service. We may also collect TV viewing history from your console in a way that doesn’t identify you or others. We do not allow children or teens to choose to send us this information.
 
 If you use a TV viewing application from another company, your privacy settings with that company (if any) determine whether that publisher may send your viewing history to Microsoft.
 
@@ -509,49 +509,37 @@ Other Important Privacy Information
 
 Summary 
 
-Learn more about
+**Learn more about**
 
-  * Why and with whom we share or disclose personal information 
   * Protecting the security of personal information 
   * Where we store and process information 
   * Changes to our privacy statements 
-  * How to contact us 
+
+
+
+**How to Contact Us**
+
+  * If you have a technical or general support question, please visit <http://support.microsoft.com/> to learn more about Microsoft Support offerings. 
+  * If you have a Microsoft account password question, please visit [Microsoft account support.](http://go.microsoft.com/FWLink/p/?LinkID=320207)
+  * If you have a general privacy question or a question for the Chief Privacy Officer of Microsoft or want to request access to your personal information, please contact us by using our [Web form](http://go.microsoft.com/fwlink/?LinkId=321116 "Web form"). 
+    * By mail: Microsoft Privacy, Microsoft Corporation, One Microsoft Way, Redmond, Washington 98052 USA 
+    * By Phone: 425-882-8080 
+  * To find the Microsoft subsidiary in your country or region, see <http://www.microsoft.com/worldwide/>. 
 
 
 
 Full text 
 
-Below you will find additional privacy information you may (or may not) find important. Much of this describes common practices that we want you to know about but don't think it's necessary to highlight in every one of our privacy statements. And some of this is just stating the obvious (for example, we will disclose information when the law requires it), but our lawyers make us say it anyway. Please keep in mind that this information is not a complete description of our practices - this is all _in addition_ to the other, more specific information contained in the privacy statements for each Microsoft product and service you use. 
+Below you will find additional privacy information you may find important. Much of this describes practices that are common across the industry, but we want make sure you are aware of them. Please keep in mind that this information is not a complete description of our practices - this is all in addition to the other, more specific information contained elsewhere in this privacy statement. 
 
 **On this page:**
 
-  * Sharing or Disclosing Personal Information 
   * Protecting the Security of Personal Information 
   * Where Information is Stored and Processed 
   * Changes to Our Privacy Statements 
   * How to Contact Us 
 
 
-
-**Sharing or Disclosing Personal Information**
-
-In addition to any sharing described in the privacy statement for the product or service you are using, Microsoft may share or disclose personal information: 
-
-  * With other Microsoft controlled subsidiaries and affiliates. 
-  * As part of a corporate transaction such as a merger or sale of assets. 
-  * With vendors or agents. Specifically, we may share it with companies we've hired to provide services on our behalf. When we share information with these other companies to provide services for us, they are not allowed to use it for any other purpose and must keep it confidential. 
-
-
-
-We also may share or disclose personal information, including the content of your communications:
-
-  * To comply with the law or respond to legal process or lawful requests, including from law enforcement and government agencies. 
-  * To protect the rights or property of Microsoft or our customers, including enforcing the terms governing your use of the services. 
-  * To act on a good faith belief that access or disclosure is necessary to protect the personal safety of Microsoft employees, customers or the public. 
-
-
-
-Please note that our sites may include links to third-party sites whose privacy practices may differ from those of Microsoft. If you submit personal information to any of those sites, your information is governed by the privacy statements on those sites. We encourage you to review the privacy statement of any site you visit. 
 
 **Protecting the Security of Personal Information**
 
@@ -561,11 +549,11 @@ If a password is used to help protect your accounts and personal information, it
 
 **Where Information is Stored and Processed**
 
-Personal information collected on Microsoft sites and services may be stored and processed in the United States or any other country where Microsoft or its affiliates, subsidiaries or service providers maintain facilities. Microsoft abides by the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Economic Area, and Switzerland. To learn more about the Safe Harbor program, and to view our certification, please visit <http://www.export.gov/safeharbor/>. 
+Personal information collected on Microsoft sites and services may be stored and processed in the United States or any other country where Microsoft or its affiliates, subsidiaries or service providers maintain facilities. Microsoft abides by the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of data from the European Economic Area and Switzerland. To learn more about the Safe Harbor program, and to view our certification, please visit <http://www.export.gov/safeharbor/>. 
 
 As part of Microsoft’s participation in the Safe Harbor program, we use TRUSTe, an independent third party, to resolve disputes you have with us in connection with our policies and practices. If you would like to contact TRUSTe, please visit <https://feedback-form.truste.com/watchdog/request>. 
 
-Microsoft may retain your personal information for a variety of reasons, such as to comply with our legal obligations, resolve disputes, enforce our agreements, and as long as necessary to provide services. To learn how to access your personal information, visit Accessing Your Information. 
+Microsoft may retain your personal information for a variety of reasons, such as to comply with our legal obligations, resolve disputes, enforce our agreements, and as long as necessary to provide services. To learn how to access your personal information, visit [Accessing Your Information](http://www.microsoft.com/privacystatement/EN-US/Core/default.aspx?componentid=pspAccessingInformationModule&view=Description). 
 
 **Changes to Our Privacy Statements**
 
@@ -574,11 +562,10 @@ We will occasionally update our privacy statements to reflect customer feedback 
 **How to Contact Us**
 
   * If you have a technical or general support question, please visit <http://support.microsoft.com/> to learn more about Microsoft Support offerings. 
-  * If you have a Windows Live password question, please visit [Live Help](http://go.microsoft.com/fwlink/?LinkId=320207). 
-  * For general Microsoft privacy issues, please contact us by using our [Web form](http://go.microsoft.com/fwlink/?LinkId=321116). 
+  * If you have a Microsoft account password question, please visit [Microsoft account support.](http://go.microsoft.com/FWLink/p/?LinkID=320207)
+  * If you have a general privacy question or a question for the Chief Privacy Officer of Microsoft or want to request access to your personal information, please contact us by using our [Web form](http://go.microsoft.com/fwlink/?LinkId=321116 "Web form"). 
+    * By mail: Microsoft Privacy, Microsoft Corporation, One Microsoft Way, Redmond, Washington 98052 USA 
+    * By Phone: 425-882-8080 
+  * To find the Microsoft subsidiary in your country or region, see <http://www.microsoft.com/worldwide/>. 
 
 
-
-Microsoft Privacy, Microsoft Corporation, One Microsoft Way, Redmond, Washington 98052 USA * 425-882-8080
-
-To find the Microsoft subsidiary in your country or region, see <http://www.microsoft.com/worldwide/>. 
