@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cronometer.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209090321id_/http%3A//cronometer.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cronometer.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622040000id_/http%3A//cronometer.com/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -80,4 +80,4 @@ If there are any questions regarding this privacy policy you may contact us usin
 cronometer.com  
 admin@cronometer.com
 
-This policy is powered by Free Privacy Policy and Rhino Support. Compare Rhino Support to [Zendesk](http://www.rhinosupport.com/zendesk.htm) and save! 
+This policy is powered by Free Privacy Policy 
