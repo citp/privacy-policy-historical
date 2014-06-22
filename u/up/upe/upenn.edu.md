@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upenn.edu privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210141605id_/http%3A//www.upenn.edu/about/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upenn.edu privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622203348id_/http%3A//www.upenn.edu/about/privacy_policy.php) for the most accurate reproduction.*
 
 # Penn: Privacy Policy
 
