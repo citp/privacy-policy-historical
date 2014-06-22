@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thewillnigeria.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220150905id_/http%3A//thewillnigeria.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewillnigeria.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622102335id_/http%3A//thewillnigeria.com/news/privacy-policy) for the most accurate reproduction.*
 
-# THEWILL - Expanding the National Conversation - Privacy Policy
+# Privacy Policy – THEWILL
 
 **Privacy Policy:**
 
@@ -8,7 +8,7 @@ Thewillnigeria.com is committed to protecting your privacy when you visit our we
 
 **Cookies:** ****
 
-Our Web site uses cookies for the purpose of identifying you when you access our website. Some of our business partners (e.g., advertisers or ad-servers) use cookies on our Web site to track the effectiveness of when they serve ads by collecting non-personally identifiable information. We have no access to or control over these cookies once set on our site. 
+Our Web site uses cookies for the purpose of identifying you when you access our website. Some of our business partners (e.g., advertisers or ad-servers) use cookies on our Web site to track the effectiveness of when they serve ads by collecting non-personally identifiable information. We have no access to or control over these cookies once set on our site.
 
 **Links:**
 
@@ -16,12 +16,12 @@ Be aware that when you click on ad banners, you may be redirected to other sites
 
 **General Information Collected:**
 
-When visiting our site, some general information is collected including: IP address (your computer's unique signature) Operating system (e.g., Windows 95) Browser software (e.g., Microsoft Internet Explorer, Netscape) Internet Service Provider etc. The information we collect is aggregated to reflect the population as a whole rather than focused on individuals. We use it to help us better understand the people who visit our Web site and to continually improve our services. In addition, like many other sites with paid advertising, we disclose some of this non- personally identifiable, aggregate information to advertisers to inform them of the number of people who have seen and clicked on their advertisements.
+When visiting our site, some general information is collected including: IP address (your computer’s unique signature) Operating system (e.g., Windows 95) Browser software (e.g., Microsoft Internet Explorer, Netscape) Internet Service Provider etc. The information we collect is aggregated to reflect the population as a whole rather than focused on individuals. We use it to help us better understand the people who visit our Web site and to continually improve our services. In addition, like many other sites with paid advertising, we disclose some of this non- personally identifiable, aggregate information to advertisers to inform them of the number of people who have seen and clicked on their advertisements.
 
 Third Party Service Providers:
 
-From time to time we partner with third party service providers to offer additional products and services within the Web site. To participate in these offerings, you may be asked to provide personal information and agree to terms and conditions relating to the third party service provider. Such requests for information will be displayed and requested by the third party in a straightforward manner with explanation as to whose privacy statement governs the collection of such information. 
+From time to time we partner with third party service providers to offer additional products and services within the Web site. To participate in these offerings, you may be asked to provide personal information and agree to terms and conditions relating to the third party service provider. Such requests for information will be displayed and requested by the third party in a straightforward manner with explanation as to whose privacy statement governs the collection of such information.
 
 Changes to our Privacy Policy:
 
-We will occasionally update this Privacy Policy as necessary to protect our users and to comply with best practices employed by other publishers and regulatory organizations across the industry. For any questions or comments concerning thewillnigeria.com Privacy Policy, please send email to [info@thewillnigeria.com](mailto:info@thewillnigeria.com).
+We will occasionally update this Privacy Policy as necessary to protect our users and to comply with best practices employed by other publishers and regulatory organizations across the industry. For any questions or comments concerning thewillnigeria.com Privacy Policy, please send email to [info@thewillnigeria.com](mailto:info@thewillnigeria.com).
