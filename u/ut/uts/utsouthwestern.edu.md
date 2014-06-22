@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utsouthwestern.edu privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221125333id_/http%3A//www.utsouthwestern.edu/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utsouthwestern.edu privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622111242id_/http%3A//www.utsouthwestern.edu/legal/privacy-policy.html) for the most accurate reproduction.*
 
 # Legal: Privacy Policy - UT Southwestern Medical Center, Dallas, TX
 
@@ -48,7 +48,7 @@ UT Southwestern strives to create a safe and secure environment for information 
 
 UT Southwestern may post links to external sites or use content served from external third parties on this website. These links and third-party content are posted as a convenience to our website visitors. These external sites are not controlled or monitored by UT Southwestern and are not subject to UT Southwestern’s privacy policies and procedures. UT Southwestern is not responsible for the content or for the privacy policies and procedures of any external entity linked to this website.
 
-For more information regarding links to external third party websites, please read UT Southwestern’s [Website Linking Policy](https://web.archive.org/legal/website-linking-policy.html).
+For more information regarding links to external third-party websites, please read UT Southwestern’s [Website Linking Policy](https://web.archive.org/legal/website-linking-policy.html).
 
 ## Notice About Certain Information Laws and Practices
 
@@ -60,7 +60,7 @@ Any request to receive and review information, or request corrections to it, sho
 
 ## Patient Confidentiality
 
-UT Southwestern is committed to protecting the confidentiality of medical and personal information of our patients in the manner required by state and federal privacy laws. To learn more about the ways UT Southwestern safeguards confidential patient information, please read UT Southwestern's [Notice of Privacy Practices](http://www.utsouthwestern.edu/media/privacy-practices.pdf).
+UT Southwestern is committed to protecting the confidentiality of medical and personal information of our patients in the manner required by state and federal privacy laws. To learn more about the ways UT Southwestern safeguards confidential patient information, please read UT Southwestern's [Notice of Privacy Practices](https://web.archive.org/edumedia/edufiles/about_us/admin_offices/hipaa_privacy/notice-privacy-practice.pdf).
 
 ## Questions
 
