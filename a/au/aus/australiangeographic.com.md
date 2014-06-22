@@ -1,101 +1,139 @@
-> *The following text is extracted and transformed from the australiangeographic.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528051642id_/http%3A//www.australiangeographic.com.au/journal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the australiangeographic.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622173038id_/http%3A//www.australiangeographic.com.au/miscellaneous/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Australian Geographic
+# Privacy - Australian Geographic
 
-## ACP Magazines and Privacy
+[ ](https://web.archive.org/)
 
-At ACP Magazines Ltd (' **ACP** '), we are committed to protecting and maintaining your privacy. As part of our normal operations we may collect your information. This Privacy Policy describes the type of information we may collect and what may happen to that information.
+[ ](https://web.archive.org/outdoor)
 
-This policy applies to all publications published by ACP. It also covers websites relating to ACP publications hosted by third parties, including ninemsn.
+#### Subscribe & save
 
-This statement is designed to tell you as much as possible about how ACP uses and manages personal information provided to, or collected by ACP. We believe you should be made aware of our practices so you can make informed decisions about how you allow us to use your information.
+Receive this Australian Geographic polar fleece, when you subscribe or renew
 
-ACP is bound by and supports the National Privacy Principles contained in the Commonwealth Privacy Act. As a media organisation, ACP publicly commits to the standards set out below under the heading "Media Organisation Privacy Standards" in relation to it acts and practices carried out in the course of journalism. 
+[subscribe now](https://www.australiangeographic.com.au/miscellaneous/subscribe/header "Australian Geographic Cover")
 
-In this ever changing world ACP may, from time to time, review and update this privacy policy statement to take account of new laws and technology and changes to ACP's operations. All personal information held by ACP will be governed by ACP's most recent policy.
+## Bauer Media Pty Limited: Privacy Policy
 
-Any questions regarding this statement or complaints regarding privacy should be sent to ACP's Privacy Officer at ACP Publishing Pty Ltd, 54-58 Park Street, SYDNEY NSW 2001
+In this policy "we", "us' and "our" means Bauer Media Pty Limited, its subsidiaries and affiliated companies.  
+Please read this policy carefully as it describes the way in which we collect and handle your personal information.   
+We may update or revise this policy from time to time. If we elect to update or revise this policy, we will post the date on which that revision takes effect at the end of this policy.   
+Please be aware that you have no obligation to provide any personal information requested by us. However, if you choose to withhold your personal information, we may not be able to provide you with the services or products that depend on the collection and use of that information.
 
-### What kind of personal information does ACP collect and how does ACP collect it?
+**1 Our privacy commitment**   
+We recognise the importance of, and are committed to, managing any personal information that we collect in compliance with the Privacy Act 1988 (Cth), which includes the Australian Privacy Principles, and other Australian privacy laws (together, "Privacy Laws").   
+As a member of the Australian Press Council ("APC"), we also ensure any personal information we collect in the course of our journalistic activities is managed in accordance with the APC Statement of Privacy Principles.
 
-ACP collects a range of personal information from members of the public. 
+**2 How do we collect personal information?**  
+Where possible, we collect your personal information directly from you. This collection includes through your:
 
-ACP collects most information directly from you. We collect this information so you can subscribe to publications, join our loyalty clubs, advertise in our magazines, request a product or service from ACP, complete a survey or questionnaire, enter a competition or an event, seek employment, or communicate with ACP by e-mail, telephone or in writing.
+  * registration when you purchase a magazine or digital subscription; 
+  * entry into promotions or competitions;
+  * answers to surveys;
+  * signing up to newsletters and other notifications from our magazines and other brands;
+  * registration to attend events;
+  * provision of express permission when accessing applications sitting on Bauer brand social media accounts;
+  * application for an internship or employment with us; 
+  * communications with us such as telephone calls and emails regarding services and products; 
+  * registration for our loyalty clubs; and
+  * download and use of our digital publications and mobile applications ("apps").
 
-Sometimes ACP may be provided with personal information about an individual from a third party, for example from third parties who give gift subscriptions.
 
-In general, the type of personal information ACP collects and holds could include (but is not limited to) name, address, contact details, and gender.
 
-### How ACP uses Personal Information
+In some circumstances, however, we may also collect your personal information from third parties or public agencies where it is unreasonable or impracticable for us to collect the personal information directly from you. For example, if you subscribe to one of our magazines through a third party that is authorised to take subscriptions for us, we will collect your personal information from that third party. If we have difficulty in delivering a magazine to you, we may make enquiries in an effort to locate your address or correct any error in our recorded address details for you. Where we collect personal information from third parties, we will ensure that the collection is conducted in a fair and lawful manner and the information is reasonably necessary for our functions or activities.
 
-ACP uses personal information for the primary purpose for which it is collected and for such other secondary purposes that are related to the primary purpose.
+**3 What personal information do we collect?**  
+The personal information we collect varies depending upon the purpose of the collection and the product or service we are providing you. Generally, we collect the following types of personal information: 
 
-In general, ACP uses personal information for the following purposes:
+  * name and address;
+  * telephone/e-mail contact details; and
+  * bank account/credit card numbers and associated details as reasonably required in relation to processing payments at your request. 
 
- to provide publications to readers of its publications;
 
-- to provide other products or services which are requested from ACP, including advertising services;
 
-- to help ACP manage and enhance its products and services;
+However, for certain purposes, such as where you apply for employment with us, we will collect additional personal information such as your employment history, educational history and employment references.   
+We generally do not collect sensitive information that is associated with an identifiable individual.   
+We may collect information that would be sensitive personal information about an identifiable individual with the individual's consent where the collection is related to provision of a service or other benefit to the individual. For example, we collect information from expectant mothers in relation to them and their families with their consent, in order to provide them with baby products and associated maternity benefits.  
+We may collect information from you about particular health concerns, gender orientation or other sensitive information with your consent, in order to provide you with offers or promotions related to your concerns or status.  
+If you provide us with sensitive information on an unsolicited basis, we assess whether such information is reasonably necessary for one or more of our functions or activities. The unsolicited sensitive information you disclose to us may be used and disclosed for the purpose for which you provided such information or, where you would reasonably expect us to, we may use the information for a directly related secondary purpose. We may also disclose or use the information for other purposes with your consent or if required to by law.
 
-- to communicate with readers of its publications;
+**4 Why do we collect and use your personal information?**  
+We will collect your personal information if it is reasonably necessary for the performance of our business activities and functions, which includes providing a range of products and services to you, some of which are listed below.   
+_4.1 Registration for magazine subscriptions_  
+We collect personal information from individuals who subscribe to our magazines in order to process their payments and to confirm whether they would like to receive promotional materials in the future.   
+We will also seek your consent to send to you Magshop promotional material and special offers and to allow specifically selected partners to send to you offers of discounts or other benefits. Where you consent, we will periodically send you offers we consider may be of interest to you.   
+_4.2 Sales Promotions, Competitions, Surveys and registration to attend our events_  
+We collect personal information when you respond to one of our promotions, competitions or surveys or when you register to attend an event in order to inform you if you have won a prize, to place you on a guest-list to the event and to help us better understand what products and services you would like to receive information about in the future.   
+_4.3 Our mobile apps_  
+We, or a service provider, may collect information through our apps to assist us in understanding how you use our apps, how the apps are performing across different handsets and to assist us in the selection of advertisements for groups of individuals.  
+ _4.4 Registration for our loyalty clubs_   
+We collect personal information when you sign up to join one of our loyalty clubs. By providing this personal information we are able to keep you updated on special offers and events that you may be interested in and to reward your commitment to the brands.   
+_4.5 Employment or internship_  
+We collect personal information from applicants who are seeking employment or an internship with us as part of the recruitment process. In circumstances where you do not provide the mandatory personal information, we will be unable to consider you for a position with us.   
+_4.6 Bounty Rewards_  
+We collect your personal information when you register with Bounty Rewards in order to keep you informed of upcoming offers, new products and services and periodically you may be sent newsletters, communications or special offers directly from third party clients. 
 
-- to provide people with ongoing information about ACP's products and services in which they may have an interest;
+**5 Who do we disclose your personal information to?**  
+We provide your personal information to third parties in order to carry out our business activities and functions. This may include: 
 
-- unless requested not to, ACP may provide your personal information to third parties which may in turn provide your information to other third parties for marketing purposes.
+  * newsagents for the purpose of fulfilling subscriptions to our publications;
+  * organisations who are sponsoring or otherwise involved with or participating in a promotion, offer, competition or survey;
+  * other companies or individuals we engage to perform functions on our behalf, such as mailing a subscription, processing credit card information, mailing information or prizes, data analysis, telemarketing, research and advertising; and
+  * with your specific and prior consent, to other companies or individuals for the purposes you have consented to.
 
-In many cases where ACP asks you to provide ACP with information about yourself, if you do not provide ACP with that information ACP will not be able to provide you with the relevant product or service.
 
-### Links to Third Party Websites from ACP Websites
 
-ACP operates a number of websites relating to its products and services and general business, including magshop.com.au, acp.com.au, connectionswithacp.com.au and magazine websites such as lifestyle.ninemsn.com.au/cleo ( **"ACP Websites"** ). To the extent that ACP Websites contain links to sites operated by third parties and not related to ACP products, services or events ( **"Linked Websites"** ), the Linked Websites are not controlled by ACP and we are not responsible for the privacy practices of those companies. Before disclosing your personal information to Linked Websites, we advise you to examine their privacy polices.
+We disclose your personal information offshore to our owners, joint venture partners, service providers and agents. It is not practicable to specify all countries to which we may disclose your personal information as, among other things, we are part of a global organisation. The countries and regions your personal information will be disclosed to include New Zealand, the USA, Philippines and Europe.   
+We ensure that any organisation which we disclose your personal information to is subject to appropriate contractual obligations to safeguard and protect your personal information and comply with all Privacy Laws.  
+In certain circumstances, we may disclose your personal information where required or authorised to do so by law, including in emergency situations and to assist law enforcement agencies. We will always ensure that those to whom we disclose your personal information have the legal right to receive it. 
 
-### Ordering Third Party product
+**6 How is your personal information secured?**  
+We understand that the security of your personal information is important. As such, we take reasonable steps to protect your personal information from misuse, interference, loss, unauthorised access, modification or disclosure. We store information both at an onsite secure server and at trusted third party storage providers.   
+We undertake regular training of our staff to ensure that they are aware of our privacy commitments and our obligations in the collection, use and disclosure of personal information.
 
-When you order a product supplied by a third party supplier ("Third Party Supplier") through ACP or an ACP Website, we forward your contact information to the relevant Third Party Supplier. In those instances, your information will be governed by the privacy policy of the Third Party Supplier.
+**7 Access to and correction of personal information**  
+In certain circumstances where you have a sign in to your customer details and/or you can access your own personal information via your membership you will be required to follow prompts to access, correct or update your personal information. If this option is available to you directly, we will clearly mark it for ease of access.  
+You can access or correct your personal information by contacting us using the 'Contact Details' set out. Please provide us with as much detail as you can about the particular information you wish to access or correct, in order to help us retrieve it. We may charge you an access fee to cover our costs of providing that information to you. We will inform you of applicable fees before they are incurred.  
+In certain circumstances, we may refuse your request to access, or correct, your personal information. If that is the case, we will provide you with reasons for that decision unless it is unreasonable for us to do so.  
+We take reasonable steps to make sure that the personal information we collect is accurate, complete and up-to-date including updating personal information when we are advised by you that your personal information has changed.   
+If you wish to delete the personal information we hold about you, please let us know by contacting us using the 'Contact Details' set out below and we will take reasonable steps to delete the information, unless we are required to retain it for legal reasons.
 
-### Our Use of Cookies through ACP Websites
+**8 The use of cookies and web beacons through our websites and apps**  
+Information may be collected when you access our websites or apps, such as the time and specific page or app you visited. This information is collected through "cookies". A "cookie" is a small piece of information, or file, that a website or app sends to your computer's hard drive while you are viewing that website or app for record keeping purposes. Most web browsers are automatically set to accept cookies. If you do not wish to receive any cookies you may set your browser to refuse cookies. However, this will mean you will not be able to take full advantage of our websites or apps.   
+We, and our service providers, use the information collected from cookies for a number of reasons:
 
-Cookies are small pieces of information that are stored by your browser on your computers hard drive. Our cookies do not contain any personally identifying information, but they do enable us to provide the functionality you require when visiting ACP Websites (for example, to place items in your shopping cart on magshop.com.au) and personalises your internet experience
+  * for statistical purposes in order to track how many users we have and how often they visit our website or apps;
+  * to provide you with a more personalised, convenient and interactive experience on our websites or apps; 
+  * to track who has viewed an advertisement or clicked-through an advertisement; and
+  * to provide you with a more targeted advertising experience both on and off our websites or apps, allowing us to impose restrictions where appropriate and monitor how effective an advertising campaign has been. 
 
-### To whom might ACP disclose Personal Information?
 
-ACP may disclose personal information it collects about you to a related company. The company to which information is disclosed is bound to use it for the same purpose as the information was collected, unless otherwise permitted by law. 
 
-ACP may also provide your information to:
+We engage various analytic programs, including Flurry Analytics, Google Analytics and Adobe Analytics to analyse the performance of our websites and apps and to provide us with reports that contain aggregated, de-identified benchmark information that assists us to understand when, and how many times, you have used our websites or apps. The anonymous information assists us in the selection of advertisements for groups of individuals.   
+We may also use Google Analytics features (including Google Remarketing, Google Display Network Impressions Reporting, the Double Click Campaign Manager and Google Analytics Demographics and Interest Reporting) on our websites and apps. Google Analytics uses both first party and third party cookies to record standard internet traffic information such as when, and how many times, you have visited our websites or apps. We, and some third parties (including Google), also use the information to optimise advertising selection for groups of individuals based on demographic information. The cookies allow us and other third parties (including Google) to evaluate your interactions with advertising services on our websites and apps and serve targeted advertising on those websites and apps and across the Internet. We have enabled Google Analytics for Display Advertising, which allows Google and other third parties to advertise to you on our websites and apps and across the Internet.   
+By using Google Ads Settings (located at https://www.google.com/settings/ads), you can opt out of these features at any time and customise your Google Display Network Ads. Alternatively, you can opt out of a third party's vendor's use of cookies by visiting the Network Advertising Initiative opt-out page (located at https://www.networkadvertising.org/choices/).   
+You can opt-out of Flurry Analytics tracking and personalized advertisement recommendations from Flurry by clicking on http://www.flurry.com/user-opt-out.html.
 
-- newsagents for the purpose of fulfilling subscriptions to ACP publications;
+You can opt-out of Adobe Analytics tracking and on-site personalization services by following the instructions on http://www.adobe.com/au/privacy/opt-out.html#4.
 
-- Organisations who are sponsoring or otherwise involved with or participating in a promotion, competition or survey;
+**9 Third party websites**  
+When you click on advertisements or links on any of our websites or through our apps, you may be redirected to a third party website. The linked websites are not under our control and we are not responsible for the conduct of companies linked to our websites or apps. By placing a link to a particular product, we are in no way endorsing that product. We recommend that, before disclosing your personal information to a website to which you were redirected from an advertisement, you read that website's privacy policy and terms of use/service.
 
-- other companies or individuals ACP engages to perform functions on behalf of ACP, such as mailing a subscription, processing credit card information, mailing of information or prizes, data analysis, telemarketing, research, and advertising;
+**10 Anonymity and use of a pseudonym**  
+You may request at any time that you remain anonymous, or choose a pseudonym, when dealing with us. To the extent that it is lawful and practicable for us to enable you to do so, we will grant such a request.
 
-- anyone you authorise ACP to disclose information to.
+**11 How to make a complaint**  
+If you wish to make a complaint about the way in which we handle your personal information, please contact our Privacy Officer using the contact details set out below.   
+We undertake to acknowledge and investigate any complaint promptly and will respond to written complaints within a reasonable time from the date of receipt.   
+If you are dissatisfied with our response, you may refer the matter to the Australian Information (Privacy) Commissioner (see www.oaic.gov.au). If you are dissatisfied with our response in relation to the way in which we handle your personal information in the course of our journalistic activities, you may refer the matter to the Australian Press Council (see www.presscouncil.org.au).
 
-ACP may decide to buy or sell assets which form part of or relate to its business. In any such transaction, personal information will usually be one of the transferred assets and will be disclosed to the purchaser.
+**12 Contact Details**  
+If you have any questions or comments on our privacy policy, if you wish to update the personal information we hold on you or make a complaint, please write to:   
+The Privacy Officer  
+Bauer Media Group  
+54-58 Park St  
+Sydney NSW 2000
 
-### How does ACP treat Sensitive Information?
+Alternatively, you can send an email to our Privacy Officer at privacyofficer@bauer-media.com.au.
 
-In referring to 'sensitive information' ACP means information relating to a person's racial or ethnic origin, membership of political bodies, religions, trade unions or other professional or trade association, sexual preferences, criminal record and health information.
-
-If you decide to provide ACP with sensitive information, it is ACP's policy that this information will be used and disclosed only for the purpose for which it was provided or a directly related secondary purpose, unless you agree otherwise or use or disclosure of this information is allowed by law.
-
-### Management and security of personal information
-
-ACP has appointed a Privacy Officer to oversee ACP's management of personal information in accordance with this policy and the Commonwealth Privacy Act. ACP has also directed staff that personal information must be dealt with in accordance with this policy and that personal information must be kept secure from unauthorised access or disclosure.
-
-### Updating Personal Information
-
-ACP endeavours to ensure that the personal information it holds is accurate, complete and up-to-date. ACP encourages you to contact it as soon as possible in order to update any personal information it holds about you. ACP's contact details are set out below.
-
-The National Privacy Principles require ACP to not store personal information longer than necessary. Where ACP no longer requires any personal information that it holds, that personal information will be destroyed or ACP will remove from it any details that will identify individuals.
-
-### You have the right to check what Personal Information ACP holds about you
-
-Under the Commonwealth Privacy Act, you have the right to obtain access to any personal information which ACP holds about you and to advise ACP of any perceived inaccuracy. There are some exceptions to this right set out in the Act.
-
-To make a request to access any information ACP holds about you, please contact ACP in writing as set out below. ACP will require you to verify your identity and specify what information you require. ACP may charge a fee to cover the cost of verifying your application and locating, retrieving, reviewing and copying any material requested. If the information sought is extensive, ACP will advise of the likely cost in advance and can help to refine your request if required.
-
-### How to contact ACP Magazines
-
-If you would like to make an access request or wish to provide feedback about this policy, please contact ACP Magazines by writing to ACP Magazines' Privacy Officer at ACP Magazines Ltd, 54-58 Park Street, SYDNEY NSW 2001 or via e-mail [privacyofficer@acp.com.au](mailto:privacyofficer@acp.com.au).
+  
+Privacy policy last updated on 12 March 2014
