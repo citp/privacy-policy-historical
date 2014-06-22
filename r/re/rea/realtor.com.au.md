@@ -1,172 +1,321 @@
-> *The following text is extracted and transformed from the realtor.com.au privacy policy that was archived on 2013-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130410225625id_/http%3A//www.rpdata.com/general/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtor.com.au privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622213305id_/http%3A//www.rpdata.com/general/privacy_policy.html) for the most accurate reproduction.*
 
 # RP Data Privacy Policy
 
-At RP Data, we understand the importance you attach to your personal information. This Privacy Policy details how we handle personal information. Under the Privacy Act ‘Personal information’ is an expression which has a defined meaning. It is information which is can be used to identify an individual.
+RP Data Pty Ltd (ABN 67 087 759 171) and its related and associated bodies corporate ( **us, we, our, RP Data** ) maintain a policy of strict confidence concerning your (you, your) personal information ( **Privacy Policy** ). This Privacy Policy has been developed in accordance with the Privacy Act 1988 (Cth) ( **Privacy Act** ) and the Australian Privacy Principals ( **APPs** ) made under that Act. The Privacy Policy applies to the collection, storage, use and disclosure of your personal information by us. By accessing the following websites and platforms ( **Sites** ), you accept the terms of this Privacy Policy: 
 
-We are committed to complying with Australian Privacy laws and the Spam Act.
-
-We believe in trusted relationships with our customers and consumers. We also believe it is important that consumers and businesses should have access to complete, accurate and timely property information.
-
-Primarily, we use personal information for the provision of property information services to our subscribers, customers and consumers for their use in the property and financial industries. Not all of the information collected and held by us will be personal information. In fact the vast majority of the information we source from third parties does not reveal your identity.
-
-## Application of Privacy Policy
-
-This policy applies to RP Data and its subsidiaries, as set out below.
-
-By using our services, including accessing our websites or requesting publications or reports from us, you agree to the terms of this Privacy Policy. If you do not agree, then unfortunately you cannot make use of our services.
-
-## Information
-
-We collect personal information to enable us to provide our services. We also collect a broad range of non-personal information. Some of the information we collect includes:
-
-  * property ownership details
-  * historical sales data for property, including previous owner information, sales price and date of sale
-  * details regarding properties listed or advertised for sale
-  * property attributes and property location details
-  * photographs of property
-  * contact information (such as address details and telephone numbers) of property owners, tenants, real estate agents, valuers and finance brokers
-  * contact information and payment information (such as bank account and credit card details) for our customers, users and subscribers
-  * information pertaining to products and services ordered from us and their use
-  * statistical and demographic information.
+  * [www.rpdata.com](http://rpdata.com/)
+  * [www.myrp.com.au](http://myrp.com.au/)
+  * [www.cityscopeonline.com.au](http://cityscopeonline.com.au/)
+  * [vx.valex.com.au](http://vx.valex.com.au/)
+  * [evrui.rpdata.com](http://evrui.rpdata.com/)
+  * [vms.rpdata.com](http://vms.rpdata.com/)
+  * [vis.rpdata.com](http://vis.rpdata.com/)
 
 
 
-## Accuracy and Completeness
+This Privacy Policy applies to information provided to us whether via these Sites or any other means and demonstrates our policies, procedures and practices for compliance with the APPs under the Privacy Act. 
 
-We are committed to providing accurate and complete property information. If you become aware that any information in our databases is inaccurate or incomplete, then please notify us (with as much detail as possible) and we will use our best efforts to verify that information and correct or update the information in our databases.
+This Privacy Policy applies to RP Data and its subsidiaries and related bodies corporate, including RP Data Pty Ltd and Valuation Exchange Pty Ltd, through which we operate and market a number of separate businesses and products, including: 
 
-Our contact details to provide corrected or updated information are via our [enquiry form](http://www.rpdata.com/contact/contact_form.html "Contact us via our enquiry form here").
-
-## Collection
-
-We may collect information about you or a property that you own:
-
-  * directly from you, for example, when you provide information to us (such as when you order a product or service from us, when you complete a form on a website, when you subscribe to a newsletter, when you enter a competition, when you provide a response to a survey, and when you provide us with corrected or updated information about a property)
-  * from related companies of RP Data
-  * from third parties, such as State Government departments & agencies, local councils, valuers, banks, home loan providers, mortgage brokers and real estate agents
-  * from publicly available information about you or a property that you own (such as from newspaper advertisements and property listings).
+  * Property Data and Analytics Services 
+  * Platform and Risk Management Services 
+  * Marketing Direct Product
 
 
 
-** ** If you provide data to us which includes personal information of another, you must first obtain consent from that person. By providing that information to us, you represent that you have obtained such consent.
+This Privacy Policy applies in respect of information provided to us by persons under the age of 18 years however, those persons must obtain the consent of a parent or guardian prior to using the Site and the parent or guardian will be responsible for appropriately supervising the person’s use of the Site. 
 
-We collect information on our own behalf and on behalf of others. Where we collect information on behalf of others, we require that they comply with Australian privacy laws.
+If you have any further questions or if you wish to receive more information on our information practices and Privacy Policy, please contact our Privacy Officer by email at [privacy@rpdata.com](mailto:privacy@rpdata.com)
 
-We may engage third parties to provide services to us, which may include collecting and processing personal information on our behalf. We require that such third parties comply with Australian privacy laws.
+## 1\. Types of personal information we collect
 
-## **Use and Discloure**
+We predominantly collect information about real property. Whilst much of this information is _not_ personal information, some of the information we collect, on its own or when match with other information, may be personal information about you. 
 
-**Personal information**
+The types of information we collect in respect of our **_Property Data and Analytics Services_** include: 
 
-We may use information about you to:
-
-  * provide products and services to you
-  * verify your identity
-  * administer and manage products and services provided to you, including charging, billing, account management, and debt collection
-  * perform administrative and operational tasks (including risk management, systems development and testing, credit scoring and staff training, and market or customer satisfaction research)
-  * provide you with news and information, as well as promote and market products, services and special offers made available by us, our related companies and third parties (unless you ask us not to) (subject to any prohibitions in our contracts with third parties)
-  * generate records and reports based on your use of our services
-  * conduct research about our products and services ****
-  * develop products and services
-  * respond to any specific request you make of us
-  * prevent or investigate any fraud or crime (or a suspected fraud or crime)
-  * audit and monitor the services we provide.
+  * Name
+  * Date of birth
+  * Contact details
+  * Residential address
+  * Occupation details
+  * Property title, ownership and transfer details 
+  * Property tenancy and registered lease details
+  * Bank account and credit card details for our customers, users and subscribers
+  * Information pertaining to products and services ordered from us and their use
+  * Officeholder, directorship and shareholder information
+  * Telephone directory information
 
 
 
-We may disclose information about you to:
+The types of personal information we collect in respect of our **_Platform and Risk Management Services_** include: 
+
+  * Name
+  * Date of birth
+  * Gender
+  * Address
+  * Phone numbers
+  * Drivers licence details
+  * Email address
+  * Employment and occupation details
+  * Income
+  * Financial history
+  * Property title, ownership, transfer and tenancy information 
+  * Mortgage and loan application details & other financial information related to any loan application including Bank account information
+
+
+
+The types of personal information we collect in respect of our **_Marketing Direct Product_** include: 
+
+  * Name
+  * Address
+  * Email addresses
+  * Phone numbers
+
+
+
+We also collect data about your property which is **_not_** personal information at the time we collect it, but may later become personal information if it is matched with other personal information we hold. For example: 
+
+  * Property sales information – sales prices and addresses, on their own, do not amount to personal information as this data is not connected to an individual. 
+  * Historical sales for your property – this is not information about you, but rather the price obtained by an unidentified previous owner of the property
+  * Addresses
+  * Property attribute information, such as number of bedrooms, bathrooms, garage or car spaces and land size etc. 
+
+
+
+## 2\. How we collect personal information
+
+We may collect personal information about you from a combination of sources including directly from you, from third parties or from publicly available sources. 
+
+If it is reasonable and practical to do so, we will collect personal information **_directly_** from you. This will include contact details and other information relevant to providing services to you. This may take place in a number of ways, such as: 
+
+  * when you sign up for products or services, such as My RP 
+  * order a product or service from us
+  * subscribe to a newsletter
+  * complete a form on our website
+  * when you provide us with corrected or updated information about you or a property you own. 
+
+
+
+We may also collect personal information from **_third parties_** such as your representatives and/or **_publicly available_** sources of information. 
+
+The majority of the information we collect about you or the properties you own will be from public records, which we licence from the relevant government departments and agencies. Third parties from whom we source publicly available information include: 
+
+  * State Government departments
+  * Local councils
+  * ASIC
+  * White pages
+  * Real estate listing portals on which you or your agent have advertised your property for sale or lease
+  * Real estate agents
+
+
+
+Third parties from whom we source other information include: 
+
+  * Real estate listing portals on which you or your agent have advertised your property for sale or lease
+  * Related companies of RP Data
+  * Real estate agents
+  * Tenancy and strata managers
+  * Financial institutions
+  * Mortgage brokers
+  * Property valuers
+  * Marketing database providers
+
+
+
+We collect information on our own behalf and on behalf of others. Where we collect information on behalf of others, we require that they comply with the Privacy Act and APPs. 
+
+If someone other than you provides us with personal information about you that we did not ask for and we determine that we could have collected this information from you had we asked for it, we will notify you as soon as practicable. This notice will be given unless to do so would be in breach of an obligation of confidence. If we could not have collected this personal information, we will lawfully de identify or destroy that personal information. 
+
+We will not collect any sensitive information from you, revealing your: race, ethnic origin, political opinions, religious or philosophical beliefs, trade union memberships or details of health or disability. 
+
+We will not collect personal information unless the information is reasonably necessary for or directly related to one, or more of our functions or activities. If we are unable to collect personal information we reasonably require, we may not be able to do business with you or the organisation with which you are connected. 
+
+## 3\. Collection use and disclosure of personal information
+
+All personal information that we or our related bodies corporate collect, is reasonably necessary for the purposes relating to providing our services to you. 
+
+We may use personal information about you for the primary purpose of providing our services, and for which you would reasonably expect us to use that information, including sending you information about new developments, products, services and special offers by post, telephone or any form of electronic communication. We may use any email address or other personal information you provide to us at any time for this purpose. 
+
+We may also use or disclose information about you where we have obtained your consent, where we have obtained the information from another party (eg the valuer generals department of your state government) for a specified purpose, or as required by relevant laws, statutes, regulations, codes and external payment systems. 
+
+We will _not_ disclose information that personally identifies you to any third party other than as set out in this Privacy Policy. In order to deliver the services that we provide to you, we may disclose your personal information to other organisations, only in relation to providing our services to you. We take reasonable steps to ensure that these organisations are bound by privacy obligations in relation to the protection of your personal information. 
+
+We may provide certain information about you including your personal information to our related bodies corporate. 
+
+**_Property Data and Analytics Services_**
+
+For our Property Data and Analytics Services, we collect your personal information for the purposes of:
+
+  * developing our products and services
+  * verifying your identity
+  * providing our products and services to you
+  * administering and managing products and services provided to you, including charging, billing, account management, and debt collection
+  * performing administrative and operational tasks (including risk management, systems development and testing, credit scoring and staff training, and market or customer satisfaction research) 
+  * conducting research about our products and services
+  * auditing and monitoring the products and services we provide
+  * responding to any specific request you make of us
+  * generating records and reports based on your use of our products and services
+  * preventing or investigating any fraud or crime (or a suspected fraud or crime) 
+  * providing you with news and information, as well as promote and market products, services and special offers made available by us, our related companies and third parties (unless you ask us not to and only where we have obtained your consent directly).
+
+
+
+In order to achieve the above purposes, we may use or disclose your personal information to: 
 
   * your authorised representatives and agents
   * our agents, contractors and third party service providers to enable them to provide administrative and other services for or to us
-  * our customers and subscribers as part of a product or service offered by us
-  * third parties to enable them to provide you with news and information and to promote and market products, services and special offers (unless you ask us not to)
+  * our customers and subscribers as part of a Data, Research and Analytics Product or Service offered by us
+  * third parties to enable them to provide you with news and information and to promote and market products, services and special offers (unless you ask us not to) 
   * others where the disclosure is required by law, for example, to government agencies and regulatory bodies as part of our statutory obligations, or for law enforcement purposes
-  * an organisation that acquires all or part of our assets or businesses.
+  * an organisation that acquires all or part of our assets or businesses. 
 
 
 
-We may also use or disclose information about you where we have obtained your consent, where we have obtained the the information from another party (eg the valuer generals department of your state government) for a specified purpose, or as required by relevant laws, statutes, regulations, codes and external payment systems. 
+In addition to the above, when you sign up for a services (such as MY RP), we may obtain your consent to provide you with news and information, as well as promote and market products, services and special offers made available by us, our related companies and third parties (unless you ask us not to). We will only ever direct market to you where we have collected the information directly from you and obtained your consent to do so. We will never use information obtained from third party government sources to direct market to you. 
 
-Where you provide information to us, you consent to use and disclosure of that information in accordance with this Policy.
+Where we collect information from publicly available sources such as the valuer general office in each State and Territory, our use of this information must be in accordance with the rules set down by the relevant information provider. These rules are contained in the terms and conditions of your contract with us. The information provider’s rules may be amended from time to time and therefore so too will the terms of your contract. 
 
-We collect information from publicly available sources such as the valuer general office in each State and Territory. Your use of this information must be in accordance with the rules set down by the relevant information provider. These rules are contained in the terms and conditions of your contract with us. The information provider’s rules may be amended from time to time and therefore so too will the terms of your contract.
+We may also use or disclose information about you where we have obtained your consent, where we have obtained the information from another party (eg the valuer generals department of your state government) for a specified purpose, or as required by relevant laws, statutes, regulations, codes and external payment systems. 
 
-When we provide personal information to our customers and subscribers as part of a product or service offered by us, we require them:
+**_Platform and Risk Management Services_**
 
-  * to never use personal information for direct marketing
+For Platform and Risk Management Services, we collect your personal information for the primary purposes of assisting mortgage originators (including their brokers) to: 
+
+  * source valuations and other property reports from third party services providers such as valuers, and building and pest inspection report providers; 
+  * assess risk associated with loan origination. 
+
+
+
+We may use your personal information to perform risk analytics and provide a report back to the mortgage originator. 
+
+The personal information provided to us by mortgage originators will only be disclosed to the third party service providers for the purpose of enabling them to provide the services requested. Similarly, any report provided to us by the third party service providers will only be disclosed to the mortgage originators who requested the service. 
+
+The personal information collected for the purposes of providing Platform and Risk Management Services is not used or disclosed for any other purpose. 
+
+**_Marketing Direct_**
+
+We collect your personal information from third party marketing database providers for the purposes of providing the Marketing Direct product to our subscribers. The Marketing Direct database is not incorporated or validated against any other personal information we collect for other purposes. 
+
+We obtain contractual warranties from the database providers that the personal information they collect complies with the Privacy Act and the APPs. 
+
+Your personal information may be disclosed to our subscribers for the purposes of direct marketing their products and services to you. Our terms and conditions with our subscribers require that they comply with the Privacy Act and APPs in all direct marketing communications with you. 
+
+If you wish to be removed from our Marketing Direct database, please contact our Privacy Officer by email at: [privacy@rpdata.com](mailto:privacy@rpdata.com)
+
+## 4\. Direct marketing
+
+We may use personal information we have collected about you for the primary purpose of providing you with our services, and for other purposes for which you would reasonably expect us to use that information. This includes sending you information about new developments, products, services and special offers by post, telephone or any form of electronic communication. You authorise us to use any email address or other contact information you provide to us at any time for this purpose. 
+
+You can, at any time, opt out of receiving marketing material by contacting us (see Contact Us below). You agree and acknowledge that even if you opt out of receiving marketing material, we will still send you essential information that we are legally required to send you relating to the services we provide. Once you opt out of receiving marketing material from us, you agree and acknowledge that this removal from our distribution lists may take several business days after the date of you request to be removed. 
+
+Where we collect information from publicly available sources such as the valuer general office in each State and Territory, we do not use this information (or allow or customers and subscriber to use this information) for direct marketing purposes. 
+
+When we provide personal information to our customers and subscribers as part of a Property Data and Analytics Service offered by us, we require them: 
+
+  * to not use personal information for direct marketing
   * to comply with all third party use restrictions (which are set out in the terms and conditions of your contract with us where the personal information is collected by a third party and provided to us
-  * to comply with the Privacy Act.
+  * to comply with the Privacy Act and APPs.
 
 
 
-**Websites**
+## 5\. Third Parties and your information
 
-We are committed to ensuring the security of our websites, and we incorporate security practices and procedures which we consider are consistent with Australian industry standards. We review our security procedures from time to time and update them when relevant. All orders placed online using a credit card are covered by SSL security technology to protect customer details. 
+We will only collect, store, use or disclose personal information as set out in this Privacy Policy unless we are required by law to use that information to protect our rights or property (or those of any third party), or to avoid injury to any person. 
 
-Each time you visit one of our websites, web servers may collect certain information including your IP address, the date, time and duration of your visit and the pages, documents and services accessed. We use these non-personalised statistics about the use of our websites to continually improve our websites and customer service, and to create aggregated data and data products regarding the property market or product trends that we may provide to third parties.
+Although the Site may link directly to websites operated by third parties ( **Linked Sites** ), you acknowledge that Linked Sites are not operated by us. We encourage you to always read the applicable privacy Policy of any Linked Site on entering the Linked Site. We are not responsible for the content or practices of the Linked Sites nor their privacy policies regarding the collection, storage, use and disclosure of your personal information. 
 
-We may also use (and may engage third parties to use) this information to help improve and tailor our websites, and to select advertisements that may be displayed to you on our websites. 
+## 6\. Disclosure of Information Overseas
 
-Our websites contain links to the websites of third parties. If you access those third party websites they may collect information about you. You will need to contact them to ascertain their privacy standards. We are not responsible for the conduct of the operators of third party websites. 
+We retain your personal information in Australia. However, people located overseas may be able to access your personal information in order to provide data entry and development services to us in the provision of our Products and Services. In the vast majority of these cases access is strictly limited, and under the supervision and control of our Australian based product team. Such access will only be under secure protocols (see below for further information on Storage and Security). Our overseas services providers are located in: 
 
-Our websites may use a technology called “cookies”. A cookie is a small text file placed on your computer hard drive by a web page server. Cookies may be accessed later by our web servers. Cookies store information about your use of websites. Cookies also allow us to provide you with more personalised service. We use cookies to:
+  * India
+  * Philippines
+  * USA
+  * New Zealand
+
+
+
+Some of our products and services accessible via our web services portals may be accessed by customers located overseas. 
+
+Whenever your personal information is disclosed to, or accessed by, a person located overseas, this will only occur where: 
+
+  1. we consider the recipient to be bound to legislation similar to the APPs and we have a contractual mechanism with them to enforce your rights; or 
+  2. we have an enforceable contractual arrangement with the overseas recipient that requires the recipient to handle your personal information in accordance with the APPs.
+
+
+
+By providing us with your personal information you consent to disclosure as set out in this Privacy Policy. 
+
+## 7\. Your consent
+
+By your use of the Site you consent to the collection, storage, use and disclosure of your personal information in accordance with this Privacy Policy and as otherwise permitted under the Privacy Act. 
+
+Where you provide information directly to us, you consent to use and disclosure of that information in accordance with this Privacy Policy. 
+
+## 8\. Cookies
+
+When you visit the Site the server may attach a "cookie" to your computer's memory. A "cookie" assists us to store information on how visitors to the Site use it and the pages that may be of most interest. This information may be used to provide users of your computer with information that we think may interest the users of your computer. 
+
+Cookies also allow us to provide you with more personalised service. We use cookies to: 
 
   * determine whether you have previously accessed our websites
-  * identify the pages you have accessed
+  * identify the pages you have accessed, your IP address and the date time and duration of your visit
   * aid in the security of your use of our RP Data websites
   * aid in the log-in process
-  * facilitate administration of RP Data websites.
+  * facilitate administration of RP Data websites
+  * generate statistics about the use of our websites to continually improve our websites and customer service, and data products and identify product trends. 
 
 
 
-Most web browsers are set to accept cookies but you may configure your browser not to acceptthem. If you set your browser to reject cookies you may not be able to make full use of our websites. 
+However, this information is not linked to any personal information you may provide to the Site and cannot be used to identify you. 
 
-We cannot guarantee the security of information transmitted over the internet. We recommend that you take all necessary precautions to protect your personal information while you are online, including installing appropriate operating system updates, browser updates, virus protection software and firewall software.
+If you choose, you should be able to configure your computer so that it disables cookies or does not accept them. If you set your browser to reject cookies you may not be able to make full use of our Sites. 
 
-**Credit card details**
+## 9\. Storage and security
 
-If you provide us with your credit card details for payment of products and services, we will only use that information for the purpose of processing your payment, which includes disclosing the information to our third party credit card gateway provider. We will retain a record of the last 4 digits of your credit card number for auditing and verification purposes only.
+We will use all reasonable endeavours to keep your personal information in a secure environment, however, this security cannot be guaranteed. Your use of our Sites and the electronic storage of your personal information is secured by practices and procedures which we consider are consistent with Australian industry standards. All orders placed online using a credit card are covered by SSL security technology to protect customer details. These security measures are designed to ensure your personal information is not subject to unauthorised access, loss or misuse. If you reasonably believe that there has been unauthorised use or disclosure of your personal information, please contact us (see Contact Us below). 
 
-**Access**
+If we no longer need your personal information, unless we are required under Australian law or a court or tribunal order to retain it, we will take reasonable steps to destroy or de-identify your personal information, in accordance with our document and information retention policy. 
 
-We take reasonable steps to ensure that all personal information about you that we collect, use or disclose is accurate.
+## 10\. Variation and consent to variation
 
-You may request access to personal information that we hold about you. Before providing you with access to the personal information that we hold about you, we may require that you first provide us with documentary evidence verifying your identity and proof of ownership (insofar as the personal information relates to the ownership of a property). Subject to us being satisfied with such verifying documents, we will only refuse a request for access to personal information when permitted by law (including the National Privacy Principles) and, in the unlikely event that this occurs, will give a written explanation for our decision. We will not charge you a fee for your access request but may charge you the reasonable cost of processing your request. 
+We may vary the terms of this Privacy Policy at any time. You should check this Privacy Policy regularly so that you are aware of any variations made to this Privacy Policy. You will be deemed to have consented to such variations by your continued use of the Site following such changes being made. 
 
-If you would like to request access to the information we hold about you, please contact our Privacy Officer (contact details below). 
+## 11\. Accuracy of your information
 
-**Opt-out**
+We take all reasonable steps to ensure that your personal information held by us is accurate, up-to-date, complete, relevant and not misleading. If you believe that any of your personal information is not accurate, up-to-date, complete, relevant and not misleading, please contact us (see Contact Us below) and we will take all reasonable steps to correct it within a reasonable time. 
 
-If, at any time, you do not wish to receive marketing correspondence or email newsletters (such as Property Pulse) from us, please use the “unsubscribe” form provided or advise our Privacy Officer, and we will cease future correspondence and, if requested, remove your personal information from our marketing database. 
+## 12\. Access to information we hold about you
 
-**Sensitive Information**
+You may request to access the personal information we hold about you. We will endeavour to respond to any such request within a reasonable period of time and, where reasonable and practicable, give access to the information in the manner you request. This will be subject to any exemptions allowed under the Privacy Act. You may request this information by writing to the Privacy Officer (see Contact Us below). 
 
-We will only collect sensitive information about you with your consent (unless we are otherwise allowed or required by law to collect that information). The Privacy Act defines the expression “Sensitive information’ It includes information about your health, your race or ethnic origin and religious beliefs.
+We may charge a reasonable fee for providing that information. 
 
-**Telephone Calls**
+## 13\. Complaints or Disputes
 
-We may record and monitor telephone calls between you and us for training, service quality control and compliance purposes.
+If you have a complaint about our treatment of your personal information, please contact our Privacy Officer (see Contact Us below). Our Privacy Officer will consider and if, in our reasonable opinion, necessary, investigate your complaint and endeavour to respond to you within a reasonable period of time. 
 
-**Disputes**
+If we do not adequately answer your concerns, you have the right to make a complaint to the [Office of the Australian Information Commissioner](http://www.rpdata.com/Office%20of%20the%20Australian%20Information%20Commissioner). 
 
-If you have a complaint about our treatment of your personal information, please contact our Privacy Officer (contact details below). Our Privacy Officer will investigate your complaint and endeavour to resolve any issue to your satisfaction. 
+## 14\. Contact Us
 
-If we do not adequately answer your concerns, you have the right to make a complaint to the Privacy Commissioner. 
+If you have any questions relating to this Privacy Policy or your personal information, please contact our Privacy Officer: 
 
-## **Contact**
+> By email: [privacy@rpdata.com](mailto:privacy@rpdata.com)
+> 
+> or by mail: 
+> 
+> RP Data Pty Limited Locked Bag 5 Eagle Farm QLD 4009 Australia
+> 
+> Ph: 1300 734 318 
 
-If you have any questions relating to this privacy policy or your personal information, please contact our Privacy Officer on 1300 734 318, via our [**enquiry form**](http://www.rpdata.com/contact/contact_form.html "Contact us via our enquiry form here"), or post to:
+When contacting us or using our products and services, you have the option to either not identify yourself or to use a pseudonym. However, this will not apply if it is impracticable for us to communicate with you that way. We are required or authorised under Australian law (or a court or tribunal order) to only deal with individuals who have identified themselves. 
 
-RP Data Pty Ltd  
-Locked Bag 5  
-Eagle Farm QLD 4009  
-Australia 
+## 15\. General
 
-Please provide us with your full name, address and contact number when contacting our Privacy Officer. 
+This policy is effective as at 30 April 2014. 
 
-## **General**
+RP Data may vary this Privacy Policy from time to time. RP Data will notify you of these changes by publishing them on our websites. The current version of this Privacy Policy is located at: <http://www.rpdata.com/general/privacy_policy.html>
 
-This Privacy Policy is made on behalf of RP Data Pty Ltd (ABN 67 087 759 171) and its subsidiaries. All references to “RP Data”, “we”, “us” or “our” in this policy are references to RP Data Pty Ltd and its subsidiaries. 
-
-This policy is effective as of 1 August 2011. RP Data may vary this Privacy Policy from time to time. RP Data will notify you of these changes by publishing them on our websites. The current version of this Privacy Policy is located at:
+RP DATA® is a registered trademark of RP Data Pty Ltd. 
