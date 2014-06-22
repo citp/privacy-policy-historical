@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idg.com.au privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121020346id_/http%3A//www.idg.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idg.com.au privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622101503id_/http%3A//www.idg.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - IDG Communications - Australia
 
@@ -61,11 +61,15 @@ Because IDG Australia is part of the IDG Publishing Network, you may receive off
 
 You may update the information stored in your profile at any time while online by visiting <http://www.idg.com.au/user>. You will be prompted for your username and password in order to access your profile. If you have questions, you may also contact IDG Australia customer service by sending an email to [privacy@idg.com.au](mailto:privacy@idg.com.au)
 
+It is our policy to always keep our information as up-to-date as possible, in order to ensure that we provide the best possible information services.
+
 **How do I control my personal information?**
 
 You may review and update all of your information at any time while online by logging in to your personal profile. You control what information IDG Australia has access to and the types of information that IDG Australia can send to you. For example, you have the opportunity to receive special offers/updates on behalf of selected third party companies OR from IDG OR you can choose to opt out of these mailings at any time. See section below on Opt Out.
 
 **Who else may receive my personal information?**
+
+IDG may share your registration data for our events and for some premium information services with our program partners. In those instances it is our policy not to give away our information or services to anonymous readers or attendees. Where this is a requirement you are alerted as part of the registration process in order that you can decide to opt-in, or to decline the information service or event registration.
 
 Except as otherwise set forth in this policy, IDG does not share any of your personal data with any third party person or entity. Except for the provision of free resources as described above, all third party messages that are sent to you will be sent by IDG. You can unsubscribe from this service at anytime.
 
@@ -130,4 +134,4 @@ We are committed to maintaining IDG Australia as the foremost IT industry publis
 
 For more information about privacy issues in Australia and protecting your privacy, visit [http://www.privacy.gov.au](http://www.privacy.gov.au/).
 
-**LAST UPDATED** : August 15, 2013
+**LAST UPDATED** : March 3, 2014
