@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegeminigeek.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222210738id_/http%3A//www.thegeminigeek.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegeminigeek.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622183133id_/http%3A//www.thegeminigeek.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
