@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wetpaint.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221075259id_/http%3A//www.wetpaint-inc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wetpaint.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622223138id_/http%3A//www.wetpaint-inc.com/privacy) for the most accurate reproduction.*
 
 # Privacy « Wetpaint, Inc.
 
@@ -60,7 +60,7 @@ We will not share the personal information we collect from you through the Sites
 
 * when we believe in good faith that we are lawfully authorized or required to do so or that doing so is reasonably necessary or appropriate to: (a) comply with the law or legal processes or respond to lawful requests or legal authorities, including responding to lawful subpoenas, warrants, or court orders; or (b) protect the rights, property, or safety of Wetpaint, our users, our employees, copyright owners, third parties or the public, including without limitation to protect Wetpaint or our users from fraudulent, abusive, inappropriate, or unlawful use of our Sites;
 
-* to enforce or apply this Policy, our [Terms of Use](https://web.archive.org/web/20131221075259id_/http://www.wetpaint-inc.com/privacy/terms-and-conditions), or our other policies or agreements; and
+* to enforce or apply this Policy, our [Terms of Use](https://web.archive.org/web/20140622223138id_/http://www.wetpaint-inc.com/privacy/terms-and-conditions), or our other policies or agreements; and
 
 * in connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition, or in any other situation where personal information may be disclosed or transferred as one of the business assets of Wetpaint.
 
