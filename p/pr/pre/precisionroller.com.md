@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the precisionroller.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807160639id_/https%3A//secure.precisionroller.com/policies.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the precisionroller.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622120241id_/http%3A//www.precisionroller.com/policies.php) for the most accurate reproduction.*
 
 # Security And Privacy Policies | Precision Roller
 
@@ -9,12 +9,12 @@
   
 [ **Browse Catalog** Look For Products ](https://web.archive.org/catalog_display.php)  
 [ **Customer Reviews** Read Google Reviews ](http://www.google.com/products/seller?cmi=62981090506440704&zmi=precisionroller.com&hl=en)  
-[ **100% Guaranteed!** Up to 1 Year! ](http://www.precisionroller.com/30-day-guarantee.php)  
+[ **100% Guaranteed!** Up to 1 Year! ](http://www.precisionroller.com/full-satisfaction-guarantee.php)  
 [ **Free Shipping!** On Orders Over $75 ](http://www.precisionroller.com/faq-shipping.php)  
-[ **Closeout Specials** Last Chance Corner NEW! ](http://www.precisionroller.com/last-chance.php)  
+[ **Closeout Specials** Last Chance Corner ](http://www.precisionroller.com/last-chance.php)  
 [ **Se Habla Español** Presione Aqui... ](http://www.precisionroller.com/se-habla-espanol.php)  
 [ ](https://web.archive.org/security-trust.php)  
-[ ](https://www.resellerratings.com/)  
+[](https://www.resellerratings.com/)  
 [ **C.O.D. Available** Click Here For Details ](http://www.precisionroller.com/faq-cod-payment.php)  
 ---  
 [
@@ -205,7 +205,7 @@ We collect your e-mail address and the other information that you provide in ord
 
   * **How can I correct inaccurate information?**
 
-You may correct some personal and account information maintained in your Account through your Account. To correct any other information, please contact your account manager or call us Toll Free: at (800) 323-9523.
+You may correct some personal and account information maintained in your Account through your Account. To correct any other information, please contact your account manager or call us Toll Free: at [(800) 323-9523](tel:8003239523).
 
 
 
