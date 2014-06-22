@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brainbashers.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213214757id_/http%3A//www.brainbashers.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainbashers.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622161950id_/http%3A//www.brainbashers.com/privacy.asp) for the most accurate reproduction.*
 
 # BrainBashers : Privacy
 
@@ -17,7 +17,7 @@ The BrainBashers Games website uses adverts from third-party companies (via http
 
 The BrainBashers website uses Google Analytics and this uses cookies to collect anonymous traffic data.
 
-The BrainBashers and BrainBashers Games websites use cookies to store various pieces of information during your visit, this might include your browser size when playing a game, or other game-state information, or a saved Sudoku, or the ability to log in to some of our features, such as the monthly contests.
+The BrainBashers and BrainBashers Games websites use cookies to store various pieces of information during your visit, this might include your browser size when playing a game, or other game-state information, or a saved Sudoku, whether you've voted on the Question Of The Week, or the ability to log in to some of our features, such as the monthly contests, etc.
 
 As with most other websites, we collect and use the data contained in log files. The information in the log files includes your IP (internet protocol) address, your ISP (internet service provider, such as AOL or BT), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site. The log files do not contain your name or email address.
 
