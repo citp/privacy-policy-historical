@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hubdoc.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213025144id_/http%3A//hubdoc.com/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hubdoc.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622122032id_/http%3A//www.hubdoc.com/support/privacy) for the most accurate reproduction.*
 
 # Hubdoc - Privacy Policy
 
@@ -72,4 +72,4 @@ If you have any questions about this Privacy Policy or the practices described h
 
 Last updated: **November 1, 2013**
 
-[Sign up, it's free.](https://app.hubdoc.com/signup)
+[](https://privacy.truste.com/privacy-seal/Hubdoc-Inc-/validation?rid=77e425ea-a6ae-45b2-968b-a3f88e133ce3 "TRUSTe online privacy certification")[Try Hubdoc for Free](https://app.hubdoc.com/signup)
