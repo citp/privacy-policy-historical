@@ -1,122 +1,117 @@
-> *The following text is extracted and transformed from the fulltiltpoker.eu privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624145513id_/http%3A//www.fulltiltpoker.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fulltiltpoker.eu privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622213158id_/http%3A//www.fulltiltpoker.eu/about-us/legal-information/terms/privacy-legal) for the most accurate reproduction.*
 
-# Online Poker at Full Tilt Poker - General: Privacy
+# Online Poker at Full Tilt Poker - Legal Information: Privacy
 
-## PRIVACY STATEMENT
+Your privacy is very important to Rational FT Enterprises (Malta) Limited (referred to herein as " **Full Tilt Poker** ", " **we** " or **us** "), the owner and operator of the website located at www.FullTiltPoker.eu (the " **Site** "). We are committed to maintaining the confidentiality of the personal information collected by us in order to allow you to enjoy playing poker online at the Site, by safeguarding it utilising the best in class software and hardware architecture, techniques, methods and procedures. We will comply with the Data Protection Act 2001 under the Laws of Malta when processing your personal information.
 
-15 January 2010
+* **Consent to Privacy Policy**
 
-Please read this privacy statement carefully before submitting any personal information to us.
+By using the Service, you agree to the terms of this Privacy Policy. We reserve the right to amend this Privacy Policy and changes will come into effect immediately upon such change being notified on the Site. Your continued use of the Service constitutes your agreement to this Privacy Policy and any amendments. Our Terms of Service, see [www.FullTiltPoker.eu/about-us/legal-information/terms](https://web.archive.org/about-us/legal-information/terms), take precedence over any conflicting provision of this Privacy Policy. Unless otherwise defined herein, capitalised terms shall have the meaning given to them in our Terms of Service.
 
-### OUR COMMITMENT TO PRIVACY
+The purpose of this Privacy Policy is to enable you to understand how we collect, store, use and safeguard your personal information and for you to understand your rights in relation to that information.
 
-Your privacy is important to us. To better protect your privacy we provide this statement explaining our online information practices and the choices you can make about the way your information is collected and used. To make this statement easy to find, we make it available on our home page and at every point where personally identifiable information may be requested.
-
-This statement (together with our terms of use [www.fulltiltpoker.net/terms.php](https://web.archive.org/terms.php) and any other documents referred to within them) applies to all personal information collected from or submitted to VANTAGE LIMITED (“ **we** ” or “ **us** ” or “ **our** ”) via our website at [www.FullTiltPoker.net](http://www.fulltiltpoker.net/) (“ **the Website** ”).
-
-We are registered under the Data Protection (Bailiwick of Guernsey) Law, 2001. For the purpose of the Data Protection (Bailiwick of Guernsey) Law, 2001 (“ **the Act** ”), the data controller is Vantage Limited of Inchalla, Le Val, Alderney, Channel Islands, GY9 3UL.
-
-### APPLICATION OF THIS NOTICE
-
-This privacy statement applies only to the information collected by us from users of the Website. It does not apply to information collected by us in any other way, including any that is submitted to us offline.
-
-### THE INFORMATION WE COLLECT
-
-We may collect and process the following data about you:
-
-  * Personal information provided when you register for an account and all content, materials and information submitted to or uploaded on the Website.
-  * Information that you provide if you enter a competition or promotion on the Website or when you report a problem with the Website.
-  * Correspondence passing between you and us.
-  * Responses to any surveys that we use for research purposes, although you do not have to participate in such surveys.
-  * Details of transactions you carry out through the Website and of the processing of your account.
-  * Details of your visits to the Website including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own accounting purposes or otherwise and the resources that you access. 
+  * What information is collected and for what purpose
+  * Deposit and withdrawal processing
+  * Confidentiality
+  * Limits of Confidentiality
+  * Who receives your information?
+  * Your rights in relation to your information
+  * Cookies
+  * Who are we?
 
 
+* **What information is collected and for what purpose**
 
-The Website is not set up to automatically collect personally identifiable information from each visitor to it. It does recognise the home server of visitors, but not email addresses. For example, we can tell which Internet Service Provider our visitors use, but not the names, addresses or other information about our visitors that would allow us to identify the particular visitors to the Website. This information is used for internal purposes by our technical support staff, our agents and sub-contractors.
+As part of the Site account opening process and to allow us to provide services to you, we will ask you to provide us with certain personal information, including your name, postal address, telephone number, email address and password as well as to certify that you are at least 18 years old or older in jurisdictions in which the minimum age for use of the Service is greater than 18. For the purposes of using the Service via the Mobile Software, you will be required to consent to the use of location-based services (LBS) by us to detect your geographic location. We may also use your information to verify your credentials from third parties including financial institutions, identification verification agencies and credit reference agencies for the purposes of us providing services to you. In addition, when you use the Service we store certain personal information, including information on your activity on the Site and information held on Devices (defined below) or systems that you use, to allow us to enhance the services that we provide to you. We, members of our Group, our affiliates and third parties providing services on our behalf will use your personal information for various purposes such as:
 
-We also track certain information about the visits to the Website. For example, we compile statistics that show the numbers and frequency of visitors to the Website and its individual pages. These aggregated statistics are used internally to improve the Website and for product development and marketing purposes generally. These aggregated statistics may also be provided to advertisers and other third parties, but again, the statistics contain no personal information and cannot be used to gather such information.
-
-### IP ADDRESSES AND COOKIES
-
-We may collect information about your computer including, where available, your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users’ browsing actions and patterns, and does not identify any individual.
-
-For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer’s hard drive. They help us to improve the Website and to deliver a better and more personalised service. They enable us:
-
-  * To estimate our audience size and usage pattern.
-  * To store information about your preferences, and so allow us to customise the Website according to your individual interests.
-  * To speed up your searches.
-  * To recognise you when you return to the Website. 
+  * to confirm financial transactions,
+  * to provide services to you;
+  * identification and vetting purposes;
+  * statistical analysis and research;
+  * research and development;
+  * marketing, market research and customer profiling;
+  * data analysis;
+  * to comply with licensing and regulatory requirements; and
+  * to analyse your credit and fraud risk.
 
 
 
-You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of the Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to the Website.
+We may disclose your personal information:
 
-Please note that our advertisers, sponsors and third party websites that you can link to from the Website may also use cookies, over which we have no control so you should review any policies applicable to such websites.
-
-### WHERE WE STORE YOUR PERSONAL DATA
-
-The data that we collect from you will be initially stored on servers situated in Guernsey or an EEA state. Certain of your personal data will be transferred to and processed in Ireland and or the Kahnawake Mohawk Territory in Canada. From time to time your data may also be transferred to and processed on servers situated in other jurisdictions outside of Guernsey for the purposes set out below. Such processing may be performed by us or on our behalf, by our staff, agents and sub-contractors who may be located anywhere in the world. By submitting your personal data, you agree to this storing, transfer and processing. 
-
-We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy statement.
-
-Any transactions will be encrypted using SSL technology. Where you have chosen a password which enables you to access certain parts of the Website, you are responsible for keeping this password confidential and for preventing any unauthorised use of your account. We do not permit you to share your user name and password with any other person nor with multiple users on a network.
-
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to or uploaded on the Website, which takes place at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
-
-### HOW WE USE INFORMATION
-
-We will use your personal information (such as your name, postal or email address or telephone number) for specific purposes which may include:
-
-  * Verifying your identity and age. This is because we need to know that you are who you say you are and that you are at least 18 years of age, or of at least the minimum permitted age for participating in such activities if you live or reside in a jurisdiction that stipulates a minimum age restriction that is greater than 18 years;
-  * Making arrangements for you to engage in gaming (in the form of participating in poker tournaments or playing games of poker) with a person other than us in a place outside Alderney in accordance with the Alderney eGambling Regulations 2006 (“ **the Regulations** ”);
-  * Providing you with customer support;
-  * Statistical analysis and market research;
-  * Advertising and marketing activities. For example we may notify you of special offers and updated information regarding our various products and services and other products and services offered by carefully selected third parties if we feel they may be of interest to you. Such notification will be by email (unless you have opted out of such process) or by SMS text messaging (if you have opted in to such process) and for these purposes we may enhance or merge information collected from you on the Website with data obtained from third parties.
+  1. if required to do so by law or by regulatory authority;
+  2. if we believe in good faith that such action is necessary: 
+    1. to comply with any law or comply with legal process served on us; 
+    2. to protect and defend our rights or property;
+    3. to any regulatory body or licensing body or authority;
+    4. to third parties for the purposes of settling or making payment in connection with any wager;
+    5. to any payment management or debt collection company engaged by us to handle payment and collection processes to and from Users; 
+    6. to third parties who provide services to us or on our behalf; 
+    7. to any third party that purchases us or our business or any part of us or our business;
+    8. to credit reference agencies as described in the circumstances described below in this Section 2;
+  3. with your consent;
+  4. for the purposes of disaster recovery; or
+  5. as set out in Sections 5 and 6 below.
 
 
 
-If you do not want to receive such notifications, simply tell us when you give us your personal information. Or, at any time, you can easily opt out of receiving further marketing from us or our carefully selected third parties by sending an email to [unsubscribe@FullTiltPoker.net](mailto:unsubscribe@FullTiltPoker.net)
+We and other members of our corporate Group may occasionally send you events and news information or information regarding new services and to provide you with customer support services. If you no longer wish to receive our newsletters, you may opt-out of receiving them by following the instructions included in each newsletter.
 
-We may be required to disclose your personal information to third parties for purposes other than to support your customer relationship with us, such as in connection with a sale of our company, business or assets (including our associated customer lists containing your personal information). We may be required to disclose your personal information if this is required by law or is pertinent to law enforcement agencies, judicial or governmental investigations or proceedings and the Alderney Gambling Control Commission (“ **the AGCC** ”) will have access your personal information at all times. 
+Where you fail to reimburse us for any chargebacks, denial or reversal of deposits you make, we may give details of your accounts and how you manage them to Credit Reference Agencies (CRA). The CRA will record the outstanding debt. This information may be supplied to other organisations and records will remain on the CRA file for 6 years after the date of the chargeback, denial or reversal of payment. The information will be used by the CRA to prevent crime, fraud, money laundering, verifying your identity if you, your partner, other members of your household, your business or financial associates apply for other facilities, monitoring the operation of accounts you may hold, making decisions for credit, credit related or other facilities, trace your whereabouts, recover debts that you owe, statistical analysis and system testing.
 
-Our agents or sub-contractors who are given access to your personal information will be required to keep the information confidential and not use it for any other purpose than to carry out the services they are performing for us.
+Your personal information may be processed by us, other members or our Group, our affiliates, our agents and third parties providing services to us, in jurisdictions outside of the European Economic Area. In this event we will comply with the terms of the Data Protection Act 2001 under the Laws of Malta. 
 
-Third party content may from time to time appear on the Website or be accessible from the Website via links to other websites. If you follow a link to any of these websites, you leave the Website and enter sites that may or may not have their own privacy statements. We have not reviewed, do not monitor and are not responsible for the content on such websites or for the terms of their privacy statements. Please check these statements before you access or submit any personal data to these websites.
+We will only use your name in publicity materials with your consent.
 
-### HOW YOU CAN ACCESS, CORRECT OR ERASE YOUR INFORMATION
+The name you register with us must be your own name. In addition, it is very important that you complete the account details with valid information, since it will be used in the course of validating financial transactions and the other aforementioned purposes. You are required to advise us of any relevant changes to your personal information.
 
-You can request a copy of the personally-identifiable information that we have collected about you via the Website by contacting our Information Privacy Manager at the address below.
+Users are able to change account details by selecting an account option in the downloaded software.
 
-For the added security of your personal information, when you request a copy of the personally-identifiable information that we have collected about you via the Website you will be asked to provide us with proof of identification.
+* **Deposit and withdrawal processing**
 
-Any request for a copy of the personally-identifiable information that we have collected about you via the Website is subject to a fee of £10 to meet our costs in providing you with this information. 
+In the course of making a deposit, Users will need to provide deposit method information (example: credit card number). This information in conjunction with your other personal information might be used to clear financial transactions executed by you with Full Tilt Poker. You are required to advise us of any relevant changes to your personal information.
 
-You can also have factual inaccuracies in the personal information that we hold about you corrected or you can have the personal information erased by contacting our Information Privacy Manager.
+* **Confidentiality**
 
-### CHANGES TO OUR PRIVACY POLICY
+Full Tilt Poker has undertaken substantial efforts to protect the confidentiality of the identity, preferences and other information it has collected about individual Users and will not knowingly allow access to this information to anyone outside Full Tilt Poker, other than to the User or as described in this Privacy Policy. Full Tilt Poker has made a substantial investment in its server, database, backup, firewall and encryption technologies to protect the information collected by Full Tilt Poker. These technologies are deployed as part of state of the art security architecture, see [www.FullTiltPoker.eu/real-money-poker/security](https://web.archive.org/real-money-poker/security).
 
-We may amend or vary this statement at any time and with immediate effect by updating this web page and, whilst we will seek to notify you of such changes beforehand, we may not always be able to do so, so you should check this web page every time you visit the Website to review the then current privacy statement.
+You should also do your part in protecting your information. Your Login Credentials are confidential and you are obliged to keep your Login Credentials secret and confidential at all times and to use your best efforts to protect their secrecy and confidentiality.
 
-### GOVERNING LAW AND JURISDICTION
+* **Limits of Confidentiality**
 
-This privacy statement shall be governed by, interpreted, and otherwise construed pursuant to and in accordance with Alderney law without giving effect to conflicts of laws principles.
+Legally Required Disclosures: Due to the legal, regulatory and security environment in which we operate, Full Tilt Poker may be required, under certain circumstances, to disclose personally identifiable information about our Users and we may not be permitted to inform you that we have done so. Full Tilt Poker will use reasonable endeavours to limit such disclosure to the following: where Full Tilt Poker believes in good faith that it is required to do so in response to a subpoena, warrant or other legal process; or where reasonably necessary to identify, contact or bring legal action against persons or entities to preserve and/or enforce Full Tilt Poker's rights. Further, we can, and you authorise us to, disclose your User identification, name, street address, city, state, post code, country, phone number, email, and company information plus details of financial instruments used to deposit and cashout to third party agents of Full Tilt Poker or official government bodies as we, in our sole discretion, believe necessary or appropriate in connection with an investigation of fraud, intellectual property infringement, piracy or other unlawful activity or activity that may expose us to legal liability.
 
-Any disputes arising in connection with these terms of use may be referred to the AGCC in accordance with the relevant provisions of the Alderney eGambling Regulations 2006 but in respect of any disputes which are not or cannot be resolved by the AGCC and in respect of any other disputes or matters arising out of or concerning this privacy statement or its enforceability you irrevocably submit for our benefit to the exclusive jurisdiction of the Courts of Alderney.
+* **Who receives your information?**
 
-### HOW TO CONTACT US
+In addition to legally required disclosures as explained in this Privacy Policy, we may disclose your personal information to our employees, employees of other companies in our corporate Group, our agents and to third party service providers who use your personal information to provide services to us in respect of your being a User with Full Tilt Poker. 
 
-If you would like to contact us for any reason regarding our privacy practices or to request a copy of the personally-identifiable information that we have collected about you via the Websites please write to our Information Privacy Manager at [privacy@FullTiltPoker.net](mailto:privacy@FullTiltPoker.net).
+We may combine your personal information collected from your use of the Service in accordance with this Privacy Policy with other information collected from you using other services operated by Full Tilt Poker or any other member of the Group including, but not limited to online poker websites operated under the brands "Full Tilt Poker" (including the Site) and "PokerStars" as well as all products which are related or ancillary thereto, including mobile and social networking services. We will treat this combined information in accordance with, and will use it for the purposes set out in this Policy.
 
-The AGCC may be contacted via the following:
+All recipients of your personal information shall be bound by applicable data protection laws to keep your personal information private at no less a level than that by which we are bound.
 
-The Alderney Gambling Control Commission  
-St Anne’s House  
-Queen Elizabeth II Street  
-Alderney  
-Channel Islands  
-GY9 3TB
+* **Your rights in relation to your information**
 
-Email: [info@agcc.gg](mailto:info@agcc.gg)
+We aim to keep our information about you as accurate as possible. You can write to us at any time to review, change, obtain a copy of your information or have your details altered or corrected in accordance with your rights under the Data Protection Act 2001 under the Laws of Malta and in this event we may require evidence of your identity. In order to contact us regarding your information please email [support@FullTiltPoker.eu](mailto:support@FullTiltPoker.eu). We may in certain circumstances levy a small charge to cover the cost of administration regarding any request made by you in this regard.
 
-Web: [www.gamblingcontrol.org](http://www.gamblingcontrol.org/)
+* **Cookies**
+
+Cookies are text-only strings of information that are downloaded to your personal desktop, laptop computer or mobile device (each a " **Device** ") when you visit a website. They are then sent back to the originating website on each subsequent visit, or to another website that recognises those cookies. 
+
+Cookies are very useful and are used for many different purposes. These include allowing you to navigate between pages efficiently, remembering your preferences, and generally improving user experience. Sometimes cookies are used to help ensure that adverts you see online are relevant to you and your interests. 
+
+We use cookies in order to track referrals to our websites, to remember your preferences, and to generate anonymised statistical data, which we use to improve the user experience on our sites. We also use cookies to measure the effectiveness of our advertising campaigns, to limit the number of times you see an advertisement, to remember that you have visited a website, and to provide advertisements that are more relevant to your interests.
+
+Detailed information about cookies and how we use them on the Site may be found in our [Cookies Policy](https://web.archive.org/about-us/legal-information/cookie-policy), which also describes how you can turn off cookies or control which cookies are set on your Device (see in particular the section headed ['How to manage your cookie settings'](https://web.archive.org/about-us/legal-information/cookie-policy#link3)).
+
+* **Who are we?**
+
+Full Tilt Poker is registered with the Commissioner of Data Protection under the 2001 Data Protection Act of the Laws of Malta. 
+
+Rational FT Enterprises (Malta) Limited   
+Villa Seminia 8  
+Sir Temi  
+Zammit Avenue  
+Ta'Xbiex  
+XBX 1011  
+Malta 
+
+Privacy Policy last revised: 12 March 2013 
