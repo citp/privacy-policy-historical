@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fwd.us privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819153107id_/http%3A//www.fwd.us/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fwd.us privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622190338id_/http%3A//www.fwd.us/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - FWD.us
 
@@ -6,7 +6,7 @@ Privacy Policy
 
 Effective Date: Thursday April 11, 2013
 
-Campaign for Innovation values your support and is committed to protecting your privacy. This statement (the “Privacy Policy”) sets forth our policies and practices for handling your information on the tech4immigration.org website and any other website or online service that we operate and that links to this Privacy Policy (the “Services”). 
+FWD.us values your support and is committed to protecting your privacy. This statement (the “Privacy Policy”) sets forth our policies and practices for handling your information on the FWD.us website and any other website or online service that we operate and that links to this Privacy Policy (the “Services”). 
 
 **I.       ****COLLECTION OF INFORMATION**
 
@@ -37,7 +37,7 @@ We generally use the information we collect online to:
   * Send you promotional materials from us, our affiliates, and trusted third-party partners;
   * Analyze the use of the Services and user data to understand and improve the Services;
   * Customize the content you see when you use the Services;
-  * Prevent potentially prohibited or illegal activities and otherwise in accordance with our [Terms of Use](https://web.archive.org/web/20130819153107id_/http%3A//www.fwd.us/terms_of_use); and
+  * Prevent potentially prohibited or illegal activities and otherwise in accordance with our [Terms of Use](https://web.archive.org/web/20140622190338id_/http%3A//www.fwd.us/terms_of_use); and
   * For any other purposes disclosed to you at the time we collect your information or pursuant to your consent.
 
 
