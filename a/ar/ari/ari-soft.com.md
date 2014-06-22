@@ -1,16 +1,20 @@
-> *The following text is extracted and transformed from the ari-soft.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222160735id_/http%3A//www.ari-soft.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ari-soft.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623014505id_/http%3A//www.ari-soft.com/privacy_policy.html) for the most accurate reproduction.*
 
 # ARI Soft - Privacy Policy
 
 You currently have **0 items** in your cart.
 
-  * 08/12/2013 Buy more - pay less
+  * 25/04/2014 Meet "ARI Smart Book" extension
 
-We are glad to announce permanent 15% discount for all orders more than $100. Use **SALE100** coupon code to get the discount.
+[ARI Smart Book](http://www.ari-soft.com/Joomla-Components/ARI-Smart-Book/Detailed-product-flyer.html "ARI Smart Book page") is a new Joomla! flipping book extension which helps to create digital magazines, books, portfolios, brochures and many more easily. 
 
-  * 07/10/2013 "ARI Quiz" v. 3.5.5
+The extension provides a ton of options to configure it. It is possible to zoom-in/zoom-out, show it fullscreen, share on popular social networks, divide publications by categories and a lot of other things. You can see it in action on our [demo site](http://www.demo2.ari-soft.com/ari-smart-book.html "ARI Smart Book demo").
 
-Create math quizzes easily using "ARI Quiz". New version of the extension contains "ARI Quiz Math" plugin which adds ability to use LaTeX and MathML code in questions and answers. See it in action [here](http://www.demo2.ari-soft.com/ARI-Quiz/ARI-Quiz.html?quizId=31&view=quiz "Math quiz").
+  * 05/01/2014 "ARI Quiz" v. 3.6.0
+
+New version provides ability to select an access level in quiz category settings. Access levels are also used instead of user groups in quiz settings. The extension can also be integrated with 3rd party subscriptions extensions to create [paid subscriptions](http://www.ari-soft.com/docs/ariquiz/html/ARI_Quiz_UserGuide.html?Otherreferences5.html "ARI Quiz paid subscriptions") for quizzes.
+
+**Note** : If you use Joomla! 1.6+, it requires to set access levels manually after upgrade of the extension.
 
 
   
