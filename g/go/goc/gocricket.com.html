@@ -1,0 +1,356 @@
+<!--The following is the downloaded HTML source of the gocricket.com privacy policy that was archived on 2014-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140622093708id_/http%3A//www.gocricket.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta content="text/html; charset=utf-8" http-equiv="Content-Type"><meta content="IE=edge" http-equiv="X-UA-Compatible"><title>Privacy Policy</title><link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Roboto+Condensed:300,400,700"><link href="/css_default_style.cms" type="text/css" rel="stylesheet"><link href="/css_default_skin.cms" type="text/css" rel="stylesheet"><link href="/css_default_inner.cms" type="text/css" rel="stylesheet"><link rel="shortcut icon" href="http://www.gocricket.com/icons/favicon.ico" type="image/x-icon"><script type="text/javascript" async="" src="https://in-ssl.effectivemeasure.net/em.js"></script><script src="/js_jquery_171_min.cms" type="text/javascript"></script><script src="/js_jquerymstabs_min.cms" type="text/javascript"></script><script src="/js_jquery_msaccordion.cms" type="text/javascript"></script><script src="/js_jquery_jcarousal.cms" type="text/javascript"></script><script src="/js_checkbox.cms" type="text/javascript"></script><script src="/js_js.cms?v=2" type="text/javascript"></script><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js" type="text/javascript"></script><script type="text/javascript" src="/date_cdjs.cms" language="javascript"></script><script type="text/javascript" src="/js_breakingnews.cms" language="javascript"></script><script src="/js_cookie.cms" type="text/javascript"></script><script src="/js_gacode.cms" type="text/javascript"></script><script>
+var refer = '';
+</script><link href="/css_default_dd.cms" type="text/css" rel="stylesheet"><link href="/css_autocomplete.cms" type="text/css" rel="stylesheet"><script src="/js_jquery_dd_min.cms" type="text/javascript"></script><script src="js_jquery_ui.cms" type="text/javascript"></script><script src="/js_adcodes_privacy.cms" type="text/javascript"></script><script>
+				    
+				    function getHyphenatedTeamName(teamName ){
+					    var tokens = teamName.toLowerCase().split(" ");	
+					    var hyphenatedName = '';
+					    for(var i in tokens){
+					        if(i == tokens.length-1)
+					            hyphenatedName+=tokens[i];
+					        else
+					            hyphenatedName+=(tokens[i]+'-');
+					    }
+					    return hyphenatedName;
+					}
+				    
+				    $(document).ready(function() {                                
+
+                                         var stoprefresh = "";
+                                         var x = readCookie('breaknewscookie');
+                                         if( (x != 0) || (x == null) ) {
+                                                populateBreakingnews();
+                                                stoprefresh= window.setInterval(populateBreakingnews,60000);
+                                         }                                 
+
+                                         $(".closeMe").live('click', function() {
+                                                $(".hideContent").remove();
+                                                createCookie('breaknewscookie','0',30);
+                                                window.clearInterval(stoprefresh)
+                                         });
+                                         $('#psearch').autocomplete({   source: "/autosuggest_player.cms?feedtype=json",
+													minLength: 2,
+													message: ''
+													});
+                                          $("input#psearch").keypress(function(event) {
+												if (event.which == 13) {												
+													event.preventDefault();
+													playersearch();
+												}
+										  });
+                                  });
+
+				
+				var filter = 'all';
+				$(document).ready(function() {
+					$('#loadingdv').show();
+					allTeams();
+				});
+				
+				$(document).ready(function() {
+					$('#allTeams').click(function() {
+						$('#loadingdv').show();
+						filter = 'all';
+						allTeams();
+						$('.NavBar a').removeClass('selected');
+						$(this).addClass('selected');
+					});
+					
+					$('#mensInter').click(function() {
+						$('#loadingdv').show();
+						filter = 'mensInter';
+						allTeams();
+						$('.NavBar a').removeClass('selected');
+						$(this).addClass('selected');
+					});
+		
+					$('#ipl').click(function() {
+						$('#loadingdv').show();
+						filter = 'ipl';
+						allTeams();
+						$('.NavBar a').removeClass('selected');
+						$(this).addClass('selected');
+					});
+					$('#associate').click(function() {
+						$('#loadingdv').show();
+						filter = 'associate';
+						allTeams();
+						$('.NavBar a').removeClass('selected');
+						$(this).addClass('selected');
+					});
+				});
+				
+		function allTeams(){
+			var outerSection = $('<section></section>');
+			
+			if(filter=='all'){
+				var teamsUrl = "teamfeeds.cms";
+			}
+			if(filter=='mensInter'){
+				var teamsUrl = "teamfeeds.cms?category=icc";
+			}
+			if(filter=='ipl'){
+				var teamsUrl = "teamfeeds.cms?category=ipl";
+			}
+			if(filter=='associate'){
+				var teamsUrl = "teamfeeds.cms?category=associate";
+			}
+			
+			
+			
+		$.getJSON(teamsUrl, function(data) {
+			$.each(data, function(index, value) {
+			var divTeamIc = $('<div></div>').addClass('teambox lc');
+			var divTeamFlag = $('<div></div>').addClass('teamFlag lc').html('<a href="'+getHyphenatedTeamName(value.teamname)+'/ncriplayer.cms?profileteamid='+value.profileteamid+'&amp;cricid='+value.profileteamid+'"><img alt="" width="85" height="85" src="'+value.flagsquare+'"></a>');
+			var divTeamInfoIc = $('<div></div>').addClass('teamInfo lc');
+		
+			divTeamInfoIc.append('<h2><a href="'+getHyphenatedTeamName(value.teamname)+'/ncriplayer.cms?profileteamid='+value.profileteamid+'&amp;cricid='+value.profileteamid+'">'+value.teamname+'</a></h2>');
+			divTeamInfoIc.append('<a href="'+getHyphenatedTeamName(value.teamname)+'/ncriplayer.cms?profileteamid='+value.profileteamid+'&amp;cricid='+value.profileteamid+'&amp;tab=overview">Home</a> | ');
+			divTeamInfoIc.append('<a href="'+getHyphenatedTeamName(value.teamname)+'/ncriplayer.cms?profileteamid='+value.profileteamid+'&amp;cricid='+value.profileteamid+'&amp;tab=players">Players</a> | ');
+			divTeamInfoIc.append('<a href="'+getHyphenatedTeamName(value.teamname)+'/ncriplayer.cms?profileteamid='+value.profileteamid+'&amp;cricid='+value.profileteamid+'&amp;tab=records">Records</a><br> ');
+			divTeamInfoIc.append('<a href="'+getHyphenatedTeamName(value.teamname)+'/ncriplayer.cms?profileteamid='+value.profileteamid+'&amp;cricid='+value.profileteamid+'&amp;tab=news">News</a> | ');
+			divTeamInfoIc.append('<a href="'+getHyphenatedTeamName(value.teamname)+'/ncriplayer.cms?profileteamid='+value.profileteamid+'&amp;cricid='+value.profileteamid+'&amp;tab=photos">Photos</a> | ');
+			divTeamInfoIc.append('<a href="'+getHyphenatedTeamName(value.teamname)+'/ncriplayer.cms?profileteamid='+value.profileteamid+'&amp;cricid='+value.profileteamid+'&amp;tab=videos">Videos</a>');
+			outerSection.append(divTeamIc);
+			divTeamIc.append(divTeamFlag);
+			divTeamIc.append(divTeamInfoIc);
+			});
+			$('#loadingdv').hide();
+		});
+			
+			$(".Colnews").html(outerSection);
+		}
+		
+		function playersearch(){	
+			var query=$('#psearch').val();					
+			if(query){
+				$.ajax({ 
+					type: "GET", 
+					url: "/search_player.cms?query="+query, 
+					async: false,
+					success : function(text){
+						if(text){
+							$('#psearchdiv').html(text);
+						}else{
+							$('#psearchdiv').html('No Results');					
+						}
+					}
+				});
+			}else{
+				alert('Please input name to search');
+				return;
+			}	
+		}</script></head><body><div style="display:none;" id="loadingdv"><div class="dimbg">&nbsp;</div><div class="popload">Please wait while updating view... <br><br><img alt="" src="/photo/32674230.cms"></div></div><script>
+	(function() {
+		var em = document.createElement('script'); em.type = 'text/javascript'; em.async = true;
+		em.src = ('https:' == document.location.protocol ? 'https://in-ssl' : 'http://in-cdn') + '.effectivemeasure.net/em.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(em, s);
+	})();
+</script><noscript><img style="position:absolute; left:-5px;" alt="" src="//in.effectivemeasure.net/em_image"></noscript><script src="/js_login.cms" type="text/javascript"></script><script>
+
+function getCookie(cname){
+	var name = cname + "=";
+	var ca = document.cookie.split(';');
+	for(var i=0; i<ca.length; i++)
+	  {
+	  var c = ca[i].trim();
+	  if (c.indexOf(name)==0) return c.substring(name.length,c.length);
+	}
+	return "";
+}
+
+$(document).ready(function(){
+	$('.poweredlogo').css('cursor', 'pointer');
+	$('.poweredlogo').click(function(){
+		window.location = 'http://www.gocricket.com';
+	});
+  
+	$('.topnavbar ul li.iplnavli a').addClass('gamesicon');
+	
+	$('.clicktoslide').click(function(){
+		$('.newFeature_panel').slideToggle(600);
+		$('.featureTop a').toggleClass('active');
+	});
+	$('.newfeatureClose').click(function(){
+		$('.newFeature_outer').slideUp(600);
+		var date = new Date();
+		date.setTime(date.getTime() + (24 * 60 * 60 * 1000));
+		expires = "; expires=" + date.toGMTString();
+		document.cookie = "teaser=1;path=/" + expires;// + "; domain=gocricket.com";
+	});
+	var teaserstat=getCookie("teaser");
+	if(teaserstat == undefined || teaserstat == ''){
+		$('.newFeature_outer').show();
+	}
+});
+</script><div style="display:none;" id="RegistrationPop" class="popupload blk"><div class="overlayBg">$#160;</div><div class="popupbox"><a class="closepopup" href="javascript:void(0)">Close</a><div id="RegisterID" class="contentpop">$#160;</div></div></div><div style="display:none" id="forgetpwd" class="popupload blk"><div class="overlayBg">$#160;</div><div id="forgetpwdpop" class="popupbox"><a class="closepopup" href="javascript:void(0)">Close</a><iframe style="background:#fff;" frameborder="0" width="470" height="150" id="forgetpwd_iframe"></iframe></div></div><div style="display:none" id="signupcontainer" class="popupload blk"><div class="overlayBg">$#160;</div><div style="padding:2px" class="popupbox"><a class="closepopup" href="javascript:void(0)">Close</a><iframe style="background:#fff;height:265px;width:600px" frameborder="0" id="signup_iframe"></iframe></div></div><div style="display:none;" id="verificationSuccess" class="popupload blk"><div class="overlayBg">$#160;</div><div class="popupbox"><a class="closepopup" href="javascript:void(0)">Close</a><div class="contentpop">$#160;</div></div></div><div style="display:none;" id="loginSuccess" class="popupload blk"><div class="overlayBg">$#160;</div><div class="popupbox"><a class="closepopup" href="javascript:void(0)">Close</a><div class="contentpop">$#160;</div></div></div><div style="display:none;" id="waitingPop" class="popupload_login blk"><div class="overlayBg">$#160;</div><div style="top : 200px;" class="popupbox"><div style="margin: 0 auto;" class="contentpop_login"><img src="/photo/22158485.cms">
+							Just a moment please...
+						</div></div></div><iframe style="display:none;" id="login_iframe"></iframe><div style="display:none;" id="register_thanku_container"><div class="signupsuccess blk"><h3>Thanks for signing up!</h3><p style="font-size:14px">Please check your email and click the activation link in the email we just sent you.</p></div></div><div style="display:none;" id="wchat_login" class="popupload_login blk"><div class="overlayBg">$#160;</div><div style="padding:10px; position:absolute; background:#fff; z-index:999; -webkit-box-shadow: 0 0 10px #000; box-shadow: 0 0 10px #000; -moz-box-shadow: 0 0 10px #000; top:10%; *width:825px; *margin:0 auto!important; *position:relative!important; *left:0!important; left:50%; margin-left:-408px; width:816px;"><a class="closepopup" href="javascript:void(0)">Close</a><img id="abc" alt="" src=""></div></div><div style="height:auto;" class="topline blk"><style>
+					.newFeature_outer{width:1002px; position:relative; top:0; z-index:9; left:50%; margin-left:-501px;}
+					.featureTop{background:#73ffff; font:400 25px/37px 'Roboto Condensed', Arial; height:37px; text-transform:uppercase; cursor:inherit;}
+					.featureTop a{background:url(/photo/35623323.cms) no-repeat 99%; width:30px; height:23px; float:right; margin:7px 10px 0 0; text-decoration:none;}
+					.featureTop a.active{background:url(/photo/35623312.cms) no-repeat 99%;}
+					.newfeatureClose{margin:10px 10px 0; cursor:pointer; float:left;}
+					.newFeature_panel{ border-top:1px solid #FFF; overflow:hidden;}
+					.sourav_panel{padding:5px; overflow:hidden; background:#73ffff;}
+					.blu_block{background:#001a66; text-align:center; color:#FFF; font:400 15px 'Roboto Condensed', Arial; width:178px; padding:10px; height:115px;}
+					.lgtblu_block{background:#00238c; text-align:center; color:#FFF; font:400 15px 'Roboto Condensed', Arial; width:179px; padding:10px; height:115px;}
+					.blu_block span.name, .lgtblu_block span.name{text-transform:uppercase; color:#73ffff; font-size:20px;}
+					.formarea .rc img{margin-left:5px;}
+					.formarea{background:#EEE; padding:4px 6px 4px 23px; overflow:hidden;}
+					.featureemailinput{border:1px solid #ddd; height:34px; background:#FFF; color:#000; padding:0 10px; font:400 16px 'Roboto Condensed', Arial; width:180px;vertical-align:middle; margin:0 5px 0 10px;}
+					.submitemail{background:#00b259; color:#FFF; font:400 20px 'Roboto Condensed', Arial; border:0 none; text-transform:uppercase; padding:3px 15px; vertical-align:middle;}
+					.formtagline{color:#00186a; font:400 20px 'Roboto Condensed', Arial; text-transform:uppercase; vertical-align:middle;}
+					.thankyoumsg {font-size:14px; fontweight:lighter; font-family:'Roboto Condensed', Arial;}
+					.clicktoslide {float:left; width:967px; cursor:pointer;}
+					.newimg {height:38px;}
+					</style><div class="followbar"><div class="FollowSignIn blk rc"><div class="lnks"><a style="background:url(/photo/35784597.cms) no-repeat scroll 0 7px; border-right:0 none; color:#6E6E6E; display:inline-block; float:left; font-size:14px; font-weight:700; height:33px; line-height:33px; padding-left:27px; text-decoration:none; text-transform:uppercase;" href="/newsletters">Newsletter</a><div style="margin-left:10px;" class="lc" id="loginImageDiv"><img id="loginImage"></div><div style="display:none;" class="lc" id="login_details">&nbsp;
+								</div><div style="display:none;" id="logoutbtn"><a onclick="login.utils.signOut()" href="#">Logout</a></div><div class="lc tcpopup" id="Follow"><a class="FollowUs" href="javascript:;">Follow Us</a><div class="PopupBlock FollowUsPopUp followfix" id="showPopupFollow"><div class="col1"><a class="facebook" target="_blank" href="https://www.facebook.com/gocricket">Facebook</a><a class="twitter" target="_blank" href="https://twitter.com/gocricketnow">Twitter</a></div><div class="col1"><a id="wchat" class="wchat" href="javascript:;">WeChat</a></div></div></div><div class="lc" id="search"><a id="slideSearch" class="Search" href="javascript:;">Search</a><div class="PopupBlock SearchPopUp searchfix" id="showPopupsearch"><form onsubmit="return required_search()" method="get" id="tfnewsearch"><input maxlength="120" size="21" name="query" class="tftextinput" type="text"><input style="width:75px; margin-right:0;" class="searchpagebtn" value="search" type="submit"></form></div></div><div class="lc" id="login"><a class="Login" href="javascript:;">SignIn</a></div><div class="PopupBlock LoginPopUp loginfix" id="showPopuplogin"><form id="login_form"><div id="invalidCredentialsDiv">&nbsp;</div><div class="nameTxt">User Name</div><input name="login" type="text" id="email"><div class="nameTxt">Password</div><input name="passwd" type="password" id="passwd"><div class="ChkForget blk"><a href="javascript:;" class="rc brdnone forget_pwd">Forgot password?</a><label class="lc"><input class="checkboxremb" type="checkbox">
+												Remember me
+											</label></div><div class="SubmitRegister blk"><div class="Account rc">
+												Don't have an account
+												<br><a class="signup" href="javascript:;">Register now</a></div><input value="Submit" class="submitloginbtn" id="loginSubmit" type="submit"></div></form><div class="socailBtn blk"><a onclick="login.utils.openSigninNew('1')" class="FacebookBtn" href="javascript:;">facebook</a><a onclick="login.utils.openSigninNew('2')" class="TwitterBtn" href="javascript:;">twitter</a></div></div><div style="display:none;" id="settings" class="lc tcpopup"><a href="javascript:;" class="settings logline">&nbsp;</a></div></div></div><div class="SitLinks blk lc"><a target="_blank" href="http://timesofindia.indiatimes.com/sports">The Times of India - Sports</a><span>&nbsp;</span><a target="_blank" href="http://www.willow.tv">Willow TV</a></div></div></div><div class="linebottom">&nbsp;</div><script type="text/javascript">
+					function ValidateEmail(email) {
+						var expr = /^([\w-\.]+)@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.)|(([\w-]+\.)+))([a-zA-Z]{2,4}|[0-9]{1,3})(\]?)$/;
+						return expr.test(email);
+					};
+					
+					$("#submit").live("click", function () {		
+						if (!ValidateEmail($(".featureemailinput").val())) {
+							alert("Please enter valid email address.");
+							return false;
+						}
+						$.post('http://cricketnext.indiatimes.com/submitform/', { emailid: $('.featureemailinput').val(), channel: 'gocricket', plateform: 'Web', })
+						.done(function(data) {
+							//alert(data);
+							//$('.thanks').fadeIn(600);
+						})
+						.fail(function() {
+							//alert( "error" );
+							//$('.thanks').fadeIn(600);
+						})
+						.always(function() {
+							//alert( "finished" );
+							$('#contactform').hide();
+							$('.thankyoumsg').fadeIn(600);
+						});
+					});
+				</script><script>
+                        //document.domain = "indiatimes.com";
+						document.domain = "www.gocricket.com";
+		        $(document).ready(function(){
+					login.pageReady.init();                  
+					$('#slideSearch').click(function() {
+						$('#showPopuplogin').slideUp();
+						$('#showPopupsearch').slideToggle();
+					});				
+					$(document).mouseup(function (e){
+						var container = $(".SearchPopUp, .Search, .tftextinput");
+						if (!container.is(e.target)) {
+							$('#showPopupsearch').slideUp();
+						}
+					});
+					
+		        });
+		        function required_search(){
+					//alert('Code has accepted : you can try another');
+					
+					var searchstring=$('.tftextinput').val().replace(/[^a-zA-Z 0-9]+/g,'');
+					searchstring=searchstring.replace(/^\s+$/g,'');
+					searchstring=searchstring.trim();
+					if(searchstring!=''){
+						location.href = '/topic/'+searchstring;
+					}else{
+						alert('Please input valid search string');
+					}
+					return false;
+				}			          
+          </script><script type="text/javascript">
+			$(document).ready(function(e) {
+				$('#wchat').click(function(){
+				$('#wchat_login').show();
+				$("#abc").attr('src','http://www.gocricket.com/photo/36048163.cms');
+				//alert('hello');
+				});
+                $('#wchat_login .closepopup').click(function(){
+				$('#wchat_login').hide();
+				});
+			});
+</script><!--/header.cms::potime:31--><div class="pageContainer"><header><div id="widget"></div><div class="logotop"><a class="timesCricketlogo" href="http://www.gocricket.com/">gocricket.com</a><div class="rc" id="div-gpt-ad-1395398463249-1"><script type="text/javascript">
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1395398463249-1'); });
+</script></div><div class="clear"></div></div><nav class="topnavbar blk" id="topnav"><ul><li><a href="http://www.gocricket.com">HOME</a></li><li class="iplnavli"><a style="width:auto;" href="/sourav-ganguly">SOURAV'S SPACE</a></li><li><a href="/news">NEWS</a></li><li><a class="greenbg" href="/live-score">LIVE SCORES</a></li><li><a href="/fixtures">FIXTURES</a></li><li><a href="/match-results">RESULTS</a></li><li><a class="teamsplayer" href="/teams-players">TEAMS &amp; PLAYERS</a></li><li><a href="/columns">COLUMNS</a></li><li><a href="/photos">PHOTOS</a></li><li><a href="/videos">VIDEOS</a></li><li><a href="/games/howzat">GAMES</a></li><li><a class="mobile-nav" href="/apps">MOBILE<img src="/photo/22803219.cms"></a></li></ul></nav></header><div id="breakingsuperticker" class="hideContent"></div><div class="content NewsSection"><div class="Mcontent newsfix"><div class="Colinfopages"><h2>Privacy Policy</h2>
+         This Privacy Policy explains our policy regarding the collection, use, disclosure and transfer of your information by Times Internet Limited and/or its subsidiary(ies) and/or affiliate(s) (collectively referred to as the Company), which operates gocricket.com (the "Site") and services provided by the Company which include but not limited to aggregation of important news, newsletters, analysis focusing on retail industry or availability of various types of content through the Site or any mobile or internet connected device or otherwise (the "Services"). This Privacy Policy forms part and parcel of the Terms of Use for the Site and/or the Services. Capitalized terms which have been used here but are undefined shall have the same meaning as attributed to them in the Terms of Use.<br>
+         As we update, improve and expand the Services, this policy may change, so please refer back to it periodically. By accessing the Site or otherwise using the Site and/or Services, you consent to collection, storage, and use of the personal information you provide (including any changes thereto as provided by you) for any of the services that we offer.<br>
+         The Company respects the privacy of the users of the Site and/or Services and is committed to reasonably protect it in all respects. The information about the user as collected by the Company is: (a) information supplied by users and (b) information automatically tracked while navigation (c) information collected from any other source (collectively referred to as Information).<br><br><strong>1.	INFORMATION SUPPLIED BY USERS</strong><br><br>
+
+To access the Site and/or to avail certain Services, users may be required to provide certain personally identifiable information for the registration process which may include:- a) your name, b) email address, c) sex, d) age, e) PIN code , f) credit card or debit card details g) medical records and history h) sexual orientation, i) biometric information, j) password (k) your occupation, interests, and the like etc., and / or your occupation, interests, and the like. The Information as supplied by the users enables us to improve the Site and/or Services and to provide you the most user-friendly experience. In some cases/provision of certain service(s) or utility(ies), we may require your contact address as well.<br> 
+All required information is service dependent and the Company may use the above said user Information to, maintain, protect, and improve the Site and/or Services (including advertising on the Site) and for developing new services. We may also use your email address or other personally identifiable information to send commercial or marketing messages without your consent [with an option to subscribe / unsubscribe (where feasible)]. We may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major changes, for customer service purposes, billing, etc.).<br>
+Any personally identifiable information provided by you will not be considered as sensitive if it is freely available and / or accessible in the public domain. Further, any comments, messages, blogs, scribbles etc. posted/uploaded/conveyed/communicated by users on the public sections of the Site becomes published content and is not considered personally identifiable information subject to this Privacy Policy.<br>
+In case you choose to decline to submit personally identifiable information on the Site, we may not be able to provide certain services on the Site to you. We will make reasonable efforts to notify you of the same at the time of opening your account. In any case, we will not be liable and or responsible for the denial of certain services to you for lack of you providing the necessary personal information.<br>
+When you register with the Site and/or Services, we contact you from time to time about updating of your personal information to provide the users such features that we believe may benefit / interest you.<br><br><strong>2.	INFORMATION AUTOMATICALLY TRACKED WHILE NAVIGATION</strong><br><br><strong> a)	Cookies</strong><br>
+To improve the responsiveness of the Site for our users, we may use "cookies", or similar electronic tools to collect information to assign each visitor a unique, random number as a User Identification (User ID) to understand the user's individual interests using the identified computer. Unless you voluntarily identify yourself (through registration, for example), we will have no way of knowing who you are, even if we assign a cookie to your computer. The only personal information a cookie can contain is information you supply. A cookie cannot read data off your hard drive. Our advertisers may also assign their own cookies to your browser (if you click on their ads), a process that we do not control. We receive and store certain types of information whenever you interact with us via website, Application or Service though your computer/laptop/netbook or mobile/tablet/pad/handheld device etc.<br><strong>b)	Log File Information</strong><br>
+Our web servers automatically collect limited information about your computer's connection to the Internet, mobile number, including your IP address, when you visit our site. Your IP address is a number that lets computers attached to the Internet know where to send you data -- such as pages you view. We automatically receive and log information from your browser, including your IP address, your computer's name, your operating system, browser type and version, CPU speed, and connection speed. We may also collect log information from your device, including your location, IP address, your device's name, device's serial number or unique identification number (e.g.. UDiD on your iOS device), your device operating system, browser type and version, CPU speed, and connection speed etc.<br><strong>c)	Clear GIFs</strong><br>
+We may use "clear GIFs" (Web Beacons) to track the online usage patterns of our users in a anonymous manner, without personally identifying the user. We may also use clear GIFs in HTML-based emails sent to our users to track which emails are opened by recipients.<br>
+We use this information to inter-alia deliver our web pages to you upon request, to tailor our Site to the interests of our users, to measure traffic within our Site, to improve the Site quality, functionality and interactivity and let advertisers know the geographic locations from where our visitors come.<br><strong>d)	Information from  other Sources:</strong><br>
+We may receive information about you from other sources, add it to our account information and treat it in accordance with this policy. If you provide information to the platform provider or other partner, whom we provide services, your account information and order information may be passed on to us. We may obtain updated contact information from third parties in order to correct our records and fulfil the Services or to communicate with you<br><strong>e)	Demographic and purchase information:</strong><br>
+We may reference other sources of demographic and other information in order to provide you with more targeted communications and promotions. We use Google Analytics, among others, to track the user behaviour on our website. Google Analytics specifically has been enable to support display advertising towards helping us gain understanding of our users' Demographics and Interests. The reports are anonymous and cannot be associated with any individual personally identifiable information that you may have shared with us.  You can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the Ads Settings options provided by Google.<br><br><strong>3.	LINKS TO THIRD PARTY SITES / AD-SERVERS</strong><br><br>
+The Site may include links to other websites. Such sites are governed by their respective privacy policies, which are beyond our control. Once you leave our servers (you can tell where you are by checking the URL in the location bar on your browser), use of any information you provide is governed by the privacy policy of the operator of the site you are visiting. That policy may differ from ours. If you can't find the privacy policy of any of these sites via a link from the site's homepage, you should contact the site directly for more information.<br>
+When we present information to our advertisers -- to help them understand our audience and confirm the value of advertising on our website -- it is usually in the form of aggregated statistics on traffic to various pages / content within our Site.<br>
+We use third-party advertising companies to serve ads when you visit the Site. These companies may use information (not including your name, address, email address or telephone number or other personally identifiable information) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.<br>
+We do not provide any personally identifiable information to third party websites / advertisers / ad-servers without your consent.<br><br><strong>4.	INFORMATION SHARING</strong><br><br>
+The Company shares the sensitive personal information with any third party without obtaining the prior consent of the User in the following limited circumstances:<br><ul><li>When it is requested or required by law or by any court or governmental agency or authority to disclose, for the purpose of verification of identity, or for the prevention, detection, investigation including cyber incidents, or for prosecution and punishment of offences. These disclosures are made in good faith and belief that such disclosure is reasonably necessary for enforcing these Terms or for complying with the applicable laws and regulations.</li><li>The Company proposes to share such information within its group companies and officers and employees of such group companies for the purpose of processing personal information on its behalf. We also ensure that these recipients of such information agree to process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.</li><li>The Company may present information to our advertisers - to help them understand our audience and confirm the value of advertising on our website – however it is usually in the form of aggregated statistics on traffic to various pages within our site.</li><li>The Company may share your information regarding your activities on the Site and/or Services with third party social websites to populate your social wall that is visible to other people however you will have an option to set your privacy settings, where you can decide what you would like to share or not to share with others.</li></ul><br><br><strong>5.	ACCESSING AND UPDATING PERSONAL INFORMATION</strong><br><br>
+When you use the Site and/or Services (or any of its sub sites), we make good faith efforts to provide you, as and when requested by you, with access to your personal information and shall further ensure that any personal information or sensitive personal data or information found to be inaccurate or deficient shall be corrected or amended as feasible, subject to any requirement for such personal information or sensitive personal data or information to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case, where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Because of the way we maintain certain services, after you delete your information, residual copies may take a period of time before they are deleted from our active servers and may remain in our backup systems.<br><br><strong>6.	INFORMATION SECURITY</strong><br><br>
+We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, including appropriate encryption and physical security measures to guard against unauthorized access to systems where we store personal data. All information gathered on the Site and/or Services is securely stored within the Company's controlled database. The database is stored on servers secured behind a firewall; access to the servers is password-protected and is strictly limited. However, as effective as our security measures are, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet. And, of course, any information you include in a posting to the discussion areas is available to anyone with Internet access.<br>
+However the internet is an ever evolving medium. We may change our privacy policy from time to time to incorporate necessary future changes. <br>
+We use third-party advertising companies to serve ads when you visit or use our website, mobile application or services. These companies may use information (not including your name, address, email address or telephone number) about your visits or use to particular website, mobile application or services, in order to provide advertisements about goods and services of interest to you.<br><br><strong>7.	UPDATES / CHANGES</strong><br><br>
+The internet is an ever evolving medium. We may alter our privacy policy from time to time to incorporate necessary changes in technology, applicable law or any other variant. In any case, we reserve the right to change (at any point of time) the terms of this Privacy Policy or the Terms of Use. Any changes we make will be effective immediately on notice, which we may give by posting the new policy on the Site. Your use of Site and/or Services after such notice will be deemed acceptance of such changes. We may also make reasonable efforts to inform you via electronic mail. In any case, you are advised to review this Privacy Policy periodically on the Site to ensure that you are aware of the latest version.<br><br><strong>8.	QUESTIONS / GRIEVANCE REDRESSAL</strong><br><br>
+In the event you have any grievance relating to the processing of information provided by you, you may contact our Grievance Officer, at  <a href="mailto:james.alter@timesinternet.in">james.alter@timesinternet.in</a> or write at the following address:<br><br><strong>Mr. Jamie Alter </strong><br>
+Grievance Officer (gocricket.com)<br>
+Times Internet Limited <br>
+FC-6, Film City, <br>
+Sector-16A, Noida 201301, India <br>
+Ph: 0120-6636000<br><br>
+We request you to please provide the following information in your complaint:-<br><ul><li>Identification of the information provided by you</li><li>Clear statement as to whether the information is personal information or sensitive personal information</li><li>Your address, telephone number or e-mail address.</li><li>A statement that you have a good-faith belief that the information has been processed incorrectly or disclosed without authorization, as the case may be</li><li>A statement, under penalty of perjury, that the information in the notice is accurate, and that the information being complained about belongs to you.</li></ul><br>
+You may also contact us in case you have any questions / suggestions about the Privacy Policy using the contact information mentioned above.<br><br><strong>Copyright Notice</strong><br>
+Copyright ©2014 Times Internet Limited. All rights reserved.    
+        </div><div class="col2 rc"><div class="rightbox"><h2>Player Search</h2><div class="searchfield blk"><input class="payersInput" value="" type="text" id="psearch"><input onclick="playersearch()" class="searchbtn_new" type="submit" id="btnSearch"></div><div class="searchAutoRes blk" id="psearchdiv"></div></div><section class="addblock mrgbtm20 blk"><div id="div-gpt-ad-1395398463249-0"><script type="text/javascript">
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1395398463249-0'); });
+</script></div></section><style>
+.topPhotoBlock .divh2style {
+    background: none repeat scroll 0 0 #fafafa;
+    border-bottom: 2px solid #51b3fe;
+    color: #020202;
+    font: 700 18px/22px 'Roboto Condensed',Arial,Helvetica,sans-serif;
+    margin-bottom: 10px;
+    padding: 5px 10px;
+    text-transform: uppercase;
+}
+</style><div style="margin:10px 0;" class="topPhotoBlock blk"><div class="divh2style">Top News</div><div style="background:none; border:none;" class="tabsCntents"><div class="blk" id="onefix_content"><div class="Newsfix blk"><ul><li><a href="/news/latest-news/1983-World-Cup-rewind--Sandeep-Patils-belligerence-at-Old-Trafford/articleshow/37003928.cms">1983 WC rewind: Patil's belligerence at Old Trafford</a></li><li><a href="/news/latest-news/India-in-England-2014--Sourav-Ganguly-exclusive--Adapting-to-English-cold-is-important-for-India/articleshow/36956465.cms">Ganguly exclusive: Adapting to English cold is key for India</a></li><li><a href="/news/latest-news/England-v-Sri-Lanka--Sam-Robson-ecstatic-after-maiden-ton/articleshow/36998755.cms">Robson ecstatic after maiden ton</a></li><li><a href="/news/latest-news/West-Indies-v-New-Zealand-2014--Kane-Williamson-reported-for-illegal-bowling-action/articleshow/36997721.cms">Williamson reported for illegal bowling action</a></li><li><a href="/news/latest-news/West-Indies-v-New-Zealand-2014--West-Indies-name-unchanged-squad-for-final-Test/articleshow/37012525.cms">West Indies name unchanged squad for final Test</a></li></ul></div></div></div></div><!--/topnews.cms::potime:18--><style>
+.topPhotoBlock .divh2style {
+    background: none repeat scroll 0 0 #fafafa;
+    border-bottom: 2px solid #51b3fe;
+    color: #020202;
+    font: 700 18px/22px 'Roboto Condensed',Arial,Helvetica,sans-serif;
+    margin-bottom: 10px;
+    padding: 5px 10px;
+    text-transform: uppercase;
+}
+</style><div class="topPhotoBlock blk"><div class="divh2style"><a href="/photos">Top Photos</a></div><div class="photoBlock blk"><figure><a class="blockimg" href="/photos/England-on-top-after-Robson-maiden-ton/cricketpshow/36965586.cms"><img src="/thumb/36965225.cms?width=143&amp;height=116"><span class="photosIcon">PHOTOS</span></a><figcaption><a href="/photos/England-on-top-after-Robson-maiden-ton/cricketpshow/36965586.cms">England on top after Robson maiden ton</a></figcaption></figure><figure><a class="blockimg" href="/photos/Broad-Plunkett-steal-the-show-on-day-one/cricketpshow/36906633.cms"><img src="/thumb/36906521.cms?width=143&amp;height=116"><span class="photosIcon">PHOTOS</span></a><figcaption><a href="/photos/Broad-Plunkett-steal-the-show-on-day-one/cricketpshow/36906633.cms">Broad, Plunkett steal the show on day one</a></figcaption></figure></div><div class="photoSmallBlock blk"><figure><a href="/photos/WI-level-series-with-ten-wicket-win/cricketpshow/36907395.cms"><img src="/thumb/36907284.cms?width=93&amp;height=73"><span class="photosIcon">PHOTOS</span></a><figcaption><a class="desc" href="/photos/WI-level-series-with-ten-wicket-win/cricketpshow/36907395.cms">WI level series with ten-wicket win</a></figcaption></figure><figure><a href="/photos/Feisty-Watling-Craig-take-2nd-Test-into-Day-5/cricketpshow/36850155.cms"><img src="/thumb/36849993.cms?width=93&amp;height=73"><span class="photosIcon">PHOTOS</span></a><figcaption><a class="desc" href="/photos/Feisty-Watling-Craig-take-2nd-Test-into-Day-5/cricketpshow/36850155.cms">Feisty Watling, Craig take 2nd Test into Day 5</a></figcaption></figure><figure><a href="/photos/Ian-Bells-road-to-100-Tests/cricketpshow/36763134.cms"><img src="/thumb/36762290.cms?width=93&amp;height=73"><span class="photosIcon">PHOTOS</span></a><figcaption><a class="desc" href="/photos/Ian-Bells-road-to-100-Tests/cricketpshow/36763134.cms">Ian Bell's road to 100 Tests</a></figcaption></figure></div><div class="photoSmallBlock blk"><div class="divh2style"><a href="/videos">Top Videos</a></div><figure><a class="blockimg" href="/videos/latest/1983-World-Cup--Sandeep-Patil-and-Kris-Srikkanth-would-never-be-serious/cricketvshow/36715581.cms"><img src="/thumb/36715581.cms?width=93&amp;height=73"></a><a class="playIcon" href="/videos/latest/1983-World-Cup--Sandeep-Patil-and-Kris-Srikkanth-would-never-be-serious/cricketvshow/36715581.cms"> play</a><figcaption><a href="/videos/latest/1983-World-Cup--Sandeep-Patil-and-Kris-Srikkanth-would-never-be-serious/cricketvshow/36715581.cms">Kapil Dev: Patil and Srikkanth would never be serious</a></figcaption></figure><figure><a class="blockimg" href="/videos/latest/1983-World-Cup--PR-Man-Singh-never-interfered/cricketvshow/36755514.cms"><img src="/thumb/36755514.cms?width=93&amp;height=73"></a><a class="playIcon" href="/videos/latest/1983-World-Cup--PR-Man-Singh-never-interfered/cricketvshow/36755514.cms"> play</a><figcaption><a href="/videos/latest/1983-World-Cup--PR-Man-Singh-never-interfered/cricketvshow/36755514.cms">Kapil Dev: PR Man Singh never interfered in the team</a></figcaption></figure><figure><a class="blockimg" href="/videos/latest/1983-World-Cup--The-journey-has-been-very-special/cricketvshow/36756631.cms"><img src="/thumb/36756631.cms?width=93&amp;height=73"></a><a class="playIcon" href="/videos/latest/1983-World-Cup--The-journey-has-been-very-special/cricketvshow/36756631.cms"> play</a><figcaption><a href="/videos/latest/1983-World-Cup--The-journey-has-been-very-special/cricketvshow/36756631.cms">Kapil Dev: Thinking changed after Australia match</a></figcaption></figure></div></div><!--/topphotovideo.cms::potime:31--><section class="addblock blk"><div id="div-gpt-ad-1395398463249-2"><script type="text/javascript">
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1395398463249-2'); });
+</script></div></section></div><div class="clear"></div></div></div><div class="clear"></div></div><div style="height:auto; line-height:normal;" class="footerline blk"><footer style="line-height:20px; padding:5px 10px;" class="footer blk" id=""><div style="text-align:center; color:#1A9AFC; display:none;" class="blk waplinks"><a style="color:#1A9AFC;" href="http://touch.gocricket.com/index.jsp?redirect=0">RICH MOBILE</a> &nbsp; | &nbsp; 
+							<a style="color:#1A9AFC;" href="http://m.gocricket.com/index.jsp?redirect=0">BASIC MOBILE</a></div><div class="rc"><a href="/editorialteam">EDITORIAL TEAM</a><a href="/contact">CONTACT US</a><a href="/privacy">PRIVACY POLICY</a><a href="/terms.cms">Terms of Use and Grievance Redressal Policy</a></div><div class="lc"><a href="javascript:;">Copyright © 2014 Times Internet Limited</a>
+							. All rights reserved | The Times of India
+						</div></footer></div><script id="LOTCC_4298" src="http://tags.crwdcntrl.net/c/4298/cc.js?ns=_cc4298"><script>
+_cc4298.bcp();
+</script><noscript>
+  &lt;img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6036484&amp;cv=2.0&amp;cj=1" /&gt; 
+</noscript><script>
+
+$(document).ready(function(){
+	//gAnalyticPageview();
+	})
+
+</script><!--/footer.cms::potime:33--></body></html>
