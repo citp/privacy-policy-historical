@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the beso.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610022327id_/http%3A//www.beso.com/beso-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beso.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622071150id_/http%3A//www.beso.com/beso-privacy-policy) for the most accurate reproduction.*
 
 # Beso - Privacy Policy
-
-[Home ](https://web.archive.org/): Beso Privacy Policy 
 
 Effective Date & Last Modified April, 24, 2012.
 
