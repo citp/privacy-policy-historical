@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sainsburys-live-well-for-less.co.uk privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215234223id_/http%3A//www.sainsburys.co.uk/sol/iw_container_page.jsp%3FpageRef%3Dsites/www/site_furniture/Site_Furniture_PP.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sainsburys-live-well-for-less.co.uk privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623000121id_/http%3A//www.sainsburys.co.uk/sol/iw_container_page.jsp%3FpageRef%3Dsites/www/site_furniture/Site_Furniture_PP.page) for the most accurate reproduction.*
 
 # Privacy policy - Sainsbury's
 
