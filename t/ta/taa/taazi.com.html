@@ -1,11 +1,12 @@
-<!--The following is the downloaded HTML source of the taazi.com privacy policy that was archived on 2013-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131207075919id_/http%3A//taazi.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the taazi.com privacy policy that was archived on 2014-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140622032649id_/http%3A//taazi.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xml:lang="en" lang="en"><head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
 
 <title>Taazi - Privacy Policy</title>
 <link rel="icon" type="image/x-icon" href="http://taazi.com/css/images/favicon.ico">
+<link rel="stylesheet" type="text/css" href="http://taazi.com/css/popup-ArtistBio.css">
 <link rel="stylesheet" type="text/css" href="http://taazi.com/css/stylesheet.css">
 <link rel="stylesheet" type="text/css" href="http://taazi.com/css/footer-style.css">
 <link rel="stylesheet" type="text/css" href="http://taazi.com/js_min/slider/style.css">
@@ -18,6 +19,8 @@
 <link rel="stylesheet" media="screen" href="http://taazi.com/css/futurico-theme.css">
 <link rel="stylesheet" media="screen" href="http://taazi.com/css/apl-style.css">
 <link rel="stylesheet" media="screen" href="http://taazi.com/css/video-style.css">
+<link rel="stylesheet" type="text/css" href="http://taazi.com/css/conv.css">
+<link rel="stylesheet" type="text/css" href="http://taazi.com/css/thickbox.css">
 <link class="include" rel="stylesheet" type="text/css" href="http://taazi.com/css/jquery.jqplot.min.css">
 <!--<link type="text/css" rel="stylesheet" media="all" href="http://taazi.com/css/chat.css" />-->
 <!--<link type="text/css" rel="stylesheet" media="all" href="css/screen.css" />-->
@@ -27,11 +30,20 @@
 <![endif]-->
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="javascript" type="text/javascript">
 var taaziLike = 0;
-function baseURL(){
-	return 'http://taazi.com/';
+function baseURL(bSecureURL){
+	if(bSecureURL == true)
+		return 'http://taazi.com/';
+	else	
+		return 'http://taazi.com/';
+}
+function profileURL(){
+	return 'http://taazi.com/u/';
 }
 function addressState(){
 	return 'http://taazi.com';
+}
+function site_protocol(){
+	return 'http://';
 }
 function ConfirmDelete(){    
 	var x = confirm("Are you sure you want to delete?");
@@ -41,6 +53,16 @@ function ConfirmDelete(){
 		return false;	
 }
 </script>
+
+<noscript>
+	<div class="javascript_verification">
+		<div id="noscript" class="javascript_no_script">
+        	<p style="color:#FF7F35;">To experience full features of Taazi.com, Please enable javascript in your browser settings.</p>
+            <p class="text_8"><a href="http://www.enable-javascript.com" target="_blank">Follow instructions to enable JavaScript in your web browser</a></p>
+        </div>
+	</div>
+</noscript>
+
 <script type="text/javascript" src="http://taazi.com/js_min/jquery-1.8.3.min.js"></script>
 <script type="text/javascript" src="http://taazi.com/js_min/jquery.address-1.5.js"></script>
 <!-- <script defer='defer' type="text/javascript" src="http://taazi.com/js_min/jquery.maskedinput.min.js"></script> -->
@@ -66,10 +88,15 @@ function ConfirmDelete(){
 <script defer="defer" language="javascript" type="text/javascript" src="http://taazi.com/js_min/jqplot.categoryAxisRenderer.min.js"></script>
 <script defer="defer" language="javascript" type="text/javascript" src="http://taazi.com/js_min/excanvas.min.js"></script>
 <script defer="defer" language="javascript" type="text/javascript" src="http://taazi.com/js_min/jqplot.barRenderer.min.js"></script>
+<script type="text/javascript" src="http://taazi.com/js_min/chat.js"></script>
+<script type="text/javascript" src="http://taazi.com/js_min/thickbox.js"></script>
+<!--<script type="text/javascript" src="http://taazi.com/js_min/tour.js"></script>-->
+</head><body><a href="" style="display:none;" id="thickbox_link" class="thickbox">Thickbox</a>
 
-<!--<script type="text/javascript" src="http://taazi.com/js_min/chat.js"></script>--></head>
 
-<body>
+
+
+
 <div id="content_body"> 
 
 <script type="text/javascript">
@@ -117,9 +144,8 @@ function make_blank2(input)
 }
 </script>
 
-  <div id="mainBannerDiv" style="width:821px; height:95px; background-color:ffffff; color:#666666; text-align:center; margin:0 auto;">
-<iframe id="bannerFrame" name="bannerFrame" class="bannerFrame" src="http://taazi.com/adds/home" style="width:821px; height:95px; border:none;" scrolling="no">
-  
+  <div id="mainBannerDiv" style="width:1000px; height:125px; background-color:ffffff; color:#666666; text-align:center; margin:0 auto;">
+<iframe id="bannerFrame" name="bannerFrame" class="bannerFrame" src="http://taazi.com/adds/home" style="width:1000px; height:120px;margin-left:-10px; border:none;" scrolling="no"> 
 </iframe>
 </div><!--banner End-->
   <div style="clear:both"></div>
@@ -128,27 +154,24 @@ function make_blank2(input)
     
     <!--   Header start-->
     <div class="header">
-   <a href="http://taazi.com/"> <div class="logo"> &nbsp; <!--<img src="images/index_02.png" />--> </div></a>
+   <a href="http://taazi.com/"> <div class="logo"> &nbsp; <img src="http://taazi.com/images/index_02.png" style="margin-top:-20px;"> </div></a>
     <div class="header_menu">
       <div class="menu_left"></div>
       <div class="menu_center">
-        
-<ul class="meneu_bar">
-    <a href="http://taazi.com/" title="Home">
-  <li><img src="http://taazi.com/images/home_icon.png" border="0" align="absmiddle" style="padding-left:10px; padding-top:1px;"></li>
-  </a>
-  <li><a href="http://taazi.com/aboutus/">ABOUT US</a></li>
-  <!-- <li><img src="http://taazi.com/images/h_meneu_separator.png" align="absmiddle" /></li> --> 
-  <!-- <li><a href="http://taazi.com/whytaazi/">WHY USE TAAZI</a></li> -->
-  
-    <li><img src="http://taazi.com/images/h_meneu_separator.png" align="absmiddle"></li>
-  <li> <a class="login_pop" href="javascript:;">SIGN IN</a> </li>
-    <li><img src="http://taazi.com/images/h_meneu_separator.png" align="absmiddle"></li>
-  <li> <a href="http://taazi.com/ringtone/all/">RINGTONES</a> </li>
+        <ul class="meneu_bar"> <!--<div class="taaziBeta"><img src="images/beta-txt.png" /></div>-->
+   <li><a href="http://taazi.com/">HOME</a></li>
   <li><img src="http://taazi.com/images/h_meneu_separator.png" align="absmiddle"></li>
-  <li><a href="http://taazi.com/faq/">FAQ</a></li>
+  <li><a href="http://taazi.com/album/top-charts/">MUSIC</a></li>
+   <li><img src="http://taazi.com/images/h_meneu_separator.png" align="absmiddle"></li>
+     <li><a href="http://taazi.com/video/recent/">VIDEOS</a></li>
+     <li><img src="http://taazi.com/images/h_meneu_separator.png" align="absmiddle"></li>
+  <li><a href="http://taazi.com/search/user/artist/">ARTISTS</a></li>
   <li><img src="http://taazi.com/images/h_meneu_separator.png" align="absmiddle"></li>
-  <li><a href="http://taazi.com/contactus/">CONTACT</a></li>
+   <li><a href="http://taazi.com/search/user/member/">MEMBERS</a></li>
+    <li><img src="http://taazi.com/images/h_meneu_separator.png" align="absmiddle"></li>
+    <li> <a class="login_pop" href="javascript:;">SIGN IN</a> </li>
+       <li><img src="http://taazi.com/images/h_meneu_separator.png" align="absmiddle"></li>
+      
   </ul>
       </div>
       <div class="menu_right"></div>
@@ -312,7 +335,6 @@ If you have any questions, concerns or thoughts about the privacy of your person
     </form>
     </div>
 </div>
-
 <!--  <div class="vladt-topsearch">
   			<form id="frmSearch" name="frmSearch" method="post" action="http://taazi.com/searchcontent/search/">
                <input type="text" id="searchtxt" name="searchtxt" placeholder="Search Artist, Music &amp; Videos" />
@@ -345,9 +367,9 @@ If you have any questions, concerns or thoughts about the privacy of your person
                         <div class="clear"></div>
           </div>
           -->
-          <div id="ads-div" style="margin-left:20px; width:250px;">
+          <div id="ads-div" style="margin-left:0px; width:250px;">
           <div id="ads-div">
-<iframe id="bannerFrame" name="bannerFrame" class="bannerFrame" src="http://taazi.com/adds/content" style="width:280px; height:500px; margin-left:-8px;border:none;" scrolling="no">
+<iframe id="bannerFrame" name="bannerFrame" class="bannerFrame" src="http://taazi.com/adds/content" style="width:280px; height:280px; margin-left:8px;border:none;" scrolling="no">
   
 </iframe>
 </div>          </div>
@@ -365,10 +387,11 @@ If you have any questions, concerns or thoughts about the privacy of your person
             <a href="http://taazi.com/copyright-protection/">Copyright Protection</a>   I   
             <a href="http://taazi.com/dmca/">DMCA</a>   I   
             <a href="http://taazi.com/privacy-policy/">Privacy Policy</a>   I   
-            <a href="http://taazi.com/terms-conditions/">Terms &amp; Conditions</a>
+            <a href="http://taazi.com/terms-conditions/">Terms &amp; Conditions</a>   I 
+            <a href="http://taazi.com/faq/">FAQs</a>
   			</div><br>
             <div>
-            © 2013 <a href="http://taazi.com/">taazi.com</a>. All Rights reserved.
+            © 2014 <a href="http://taazi.com/">taazi.com</a>. All Rights reserved.
             </div>
         </div><!--center area-->
         <div class="footer-rightside">
@@ -523,41 +546,25 @@ If you have any questions, concerns or thoughts about the privacy of your person
 			  </tr>
 			</tbody></table>
 		  </div>
+        
           
-          
-          <!-- popup for download code verification -->
-          <div id="pop-up-download" style="display:none">
-			<div>
-                </div><table>
-            	<tbody><tr>
-				<td></td>
-             <!-- <script type="text/javascript">
-			  type_id
-				</script>-->
-				<td><p>Send sms <span id="s_id"> </span> to 4646 by typing code to recieve download code.</p></td>
-			  </tr>
-            	<tr>
-				<td></td>
-				<td><span id="err-msg-download" style="color:red;"></span></td>
-			  </tr>
-			  <tr>
-				<td>Download Code : </td>
-				<td><input id="download_code" name="download_code" type="text" maxlength="10" value="">
-				  <input id="type_name" name="type_name" type="hidden" value="">
-                  <input id="type_id" name="type_id" type="hidden" value="">
-                  </td>
-			  </tr>
-			  <tr style="text-align: center;">
-               <td>&nbsp; </td>
-				<td> 
-                <div class="pspca-button"><a style="float:left;text-align: center;" href="javascript:;" onclick="verifyDownloadCode();">Download</a></div>
-                <div class="pspca-button"><a style="float:left;text-align: center;margin-left:5px" href="javascript:;" onclick="closeDownloadCodeVerification();">Cancel</a></div></td>
-                
-			  </tr>
-			</tbody></table>
-		  </div>
-          
-          <!--current playing tab starts here-->
+          <!--<div id="pop-up-share_via_email" class="share_via_email" title="Share via Email" style="display:none;">
+                <form id="share_via_email_form" name="share_via_email_form" method="post">
+                    <table>
+                        <td>
+                        	<tr><input type="hidden" id="c_type" name="c_type" value=""/></tr>
+                            <tr><input type="hidden" id="c_id" name="c_id" value=""/></tr>
+                        	<tr><input type="text" id="s_name" name="s_name" placeholder="Enter your name" value="" style="width: 200px !important;"/></tr>
+                            <tr><a class="e_s_name" id="e_s_name" onclick="enable_edit($('#s_name'), $(this))" href="javascript:;" style="display:none;"><img height="25" width="25" src="http://taazi.com/css/images/eb-edit-bttn.png" style="margin-bottom: -7px; margin-left: 4px;"/></a></tr><br />
+                            <tr><input type="text" id="u_email" name="u_email" placeholder="Enter e-mail" value="" style="width: 200px !important;" / ></tr>
+                            <tr><textarea id="s_m_text"  name="s_m_text" placeholder="Please type your message here." style="resize:none; padding:5px !important;" cols="90" rows="5"></textarea></tr>
+                            <tr><div class="pspca-button"><a style="float:left;text-align: center;" href="javascript:;" onClick="send_email_link();" >Share</a></div></tr>
+                        </td>
+                    </table>
+                </form>
+           </div>-->
+           <div id="pop-up-share_via_direct_link" class="share_via_direct_link" title="Share via Link" style="display:none;">
+           </div><!--current playing tab starts here-->
           <div id="footer-tab1" class="currentpopuptab-footertab">
             <div class="videoplayed-footertab">
               <div id="jquery_jplayer_1" class="jp-jplayer"></div>
@@ -603,17 +610,10 @@ If you have any questions, concerns or thoughts about the privacy of your person
 <!--jp audio player middle ends here--> 
 
 <!-- loading -->
-<div id="infopopup" style="display:none;">
-	<a class="close-btn" title="Close" href="javascript:;">X</a>
-	<div id="noscript" class="infopopupcontent">To experience full features of Taazi.com, Please enable javascript in your browser.</div>
+<div id="infopopup" style="display:none">
+	<a class="close-btn" title="Close" href="javascript:;" onclick="$(this).parent().hide()">X</a>
   	<div id="infopopupinner" class="infopopupcontent"></div>
 </div>
-<script type="text/javascript">
-//checking javascript is enable or not
-$('#infopopup').hide('fast', function(){
-	$(this).children('#noscript').hide('fast');
-});
-</script>
 <!-- popSearchBox -->
 <div id="popSearchBox" class="popupsongadd" style="display:none;">
       <h2>Taazi.com, <span class="psa-txt2">Find music and videos for your new Playlist</span></h2>
@@ -621,14 +621,26 @@ $('#infopopup').hide('fast', function(){
       <form name="frmSearch-footer" id="frmSearch-footer" action="http://taazi.com/search/searchHome/#1" method="POST">
         <div class="psa-searchbox">
            <!--<input type="text" id="searchtxt" name="searchtxt" value="" placeholder="Enter Song or Artist name" maxlength="50"/>--> 
-           <input type="text" id="searchtxt" name="searchtxt" value="" placeholder="Search Artist, Music &amp; Videos" maxlength="50" style="width:350px; padding:5px 5px 5px 5px;">
+           <input type="text" id="searchtxt" name="searchtxt" value="" placeholder="Search Artist, Music &amp; Videos" maxlength="50" style="padding:5px 5px 5px 5px;">
           <input name="btnSearch" id="btnSearch" style="" type="image" src="http://taazi.com/css/images/pas-search-icn.png" width="25" height="25">
         </div>
       </form>
       <br>
-      <p>After searching, You can add songs  to your playlist by clicking on the <img src="http://taazi.com/css/images/apl_addsong.png"> icon.</p>
+      <div style="float: right;"><p>After searching, You can add songs  to your playlist by clicking on the <img src="http://taazi.com/css/images/apl_addsong.png"> icon.</p></div>
 </div>
-
+<div id="pop-up-msg" class="new_message_popup" title="Create new message" style="display:none;">
+    <form id="message_form" name="message_form" method="post">
+        <input type="text" id="to_name" name="to_name" placeholder="Name" value=""><a class="e_to_name" id="e_to_name" onclick="enable_edit($('#to_name'), $(this))" href="javascript:;" style="display:none;"><img height="25" width="25" src="http://taazi.com/css/images/eb-edit-bttn.png" style="margin-bottom: -7px; margin-left: 4px;"></a><textarea id="message_text" name="message_text" placeholder="Please type your message here." style="resize:none; padding:5px !important;" cols="90" rows="5"></textarea><div class="pspca-button"><a style="float:left;text-align: center;" href="javascript:;" onclick="send_message();">Send</a></div><table>
+            <tbody><tr><td>
+                </td></tr><tr><input type="hidden" id="to_id" name="to_id" value=""></tr>
+                <tr></tr>
+                <tr></tr>
+                <tr></tr>
+                <tr></tr>
+            
+        </tbody></table>
+    </form>
+</div>
 <!--CHAT BOX-->
 <!--<div id="friendslistbox" class="friendslistbox" style="bottom: 0px; right: 1px; display: none; z-index: 10000;">
 	<div onClick="togglefriendlistbox();" style="cursor:pointer">
