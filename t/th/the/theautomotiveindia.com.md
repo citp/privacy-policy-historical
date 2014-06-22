@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the theautomotiveindia.com privacy policy that was archived on 2013-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131025042750id_/http%3A//www.theautomotiveindia.com/%3Fpage_id%3D1568) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theautomotiveindia.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622130028id_/http%3A//www.theautomotiveindia.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - The Automotive India
+# Privacy Policy | The Automotive India
 
-At The Automotive India, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by this website and how it is used.
+Privacy of our visitors is of extreme importance to us at TheAutomotiveIndia.com. Following document outlines the types of personal information received and collected by this website and how it is used. We reserve the right to update this document anytime at sole discretion. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
   * **Log Files:**
 
