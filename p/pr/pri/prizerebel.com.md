@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the prizerebel.com privacy policy that was archived on 2013-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131023005058id_/http%3A//www.prizerebel.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prizerebel.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622041608id_/http%3A//www.prizerebel.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
-This privacy policy "Policy" describes how iAngelic and its related companies "Company" collect, use and share personal information of consumer users of this website, http://www.prizerebel.com "Site". This Policy also applies to any of our other websites that post this Policy. This Policy does not apply to websites that post different statements.
+This privacy policy "Policy" describes how PrizeRebel and its related companies "Company" collect, use and share personal information of consumer users of this website, http://www.prizerebel.com "Site". This Policy also applies to any of our other websites that post this Policy. This Policy does not apply to websites that post different statements.
 
 ### WHAT WE COLLECT
 
@@ -44,7 +44,7 @@ We may share personal information when we do a business deal, or negotiate a bus
 We may share personal information for legal, protection, and safety purposes.  
 We may share information to comply with laws.  
 We may share information to respond to lawful requests and legal process.  
-We may share information to protect the rights and property of iAngelic, our agents, customers, and others. This includes enforcing our agreements, policies, and terms of use.  
+We may share information to protect the rights and property of PrizeRebel, our agents, customers, and others. This includes enforcing our agreements, policies, and terms of use.  
 We may share information in an emergency. This includes protecting the safety of our employees and agents, our customers, or any person. 
 
 ### Survey Communication
