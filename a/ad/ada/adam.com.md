@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adam.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230195546id_/http%3A//www.adam.com/privacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adam.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622100548id_/http%3A//www.adam.com/privacyStatement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -59,7 +59,7 @@ The request and PII is reviewed and qualified. The PII is entered into either th
 
 Using the A.D.A.M. Online Store, PII is submitted through placing an order, or a request more information. PII is submitted by the end user through the online form to process the order, is encrypted and sent to our third party vendor that processes the credit card, secures the payment and notifies us that the transaction was successful or denied. If successful, our secure order tracking system displays the order to select accounting, shipping personnel and select managers. The shipping associate fulfills the order for shipment, selects a shipping company (UPS, FedEx, or DHL), shipping method and securely submits the necessary information needed to ship the order.
 
-We do not knowingly collect personal information from any person under the age of 13. We are committed to protecting the privacy of children, and this website is not designed or intended for children under the age of 13.  
+We do not knowingly collect personal information from any person under the age of 13. We are committed to protecting the privacy of children, and this website is not designed or intended for children under the age of 13. Any PII provided to A.D.A.M. by a person under age 13 would be destroyed or deleted.  
 **  
 PII - Disclosure**
 
@@ -72,6 +72,10 @@ Information stored in the secure online store database is available to select ac
 PII - Retention:**
 
 We receive PII via online forms located on this web site or through orders submitted through the online store. This information is stored in a secure database indefinitely, until a time that a request is submitted to us to request it's removal. (see "PII- How to Modify" below").
+
+**PII - Breach of Security** :
+
+Any breach of the security of the system will be disclosed following discovery or notification of the breach in the security of the data to any person whose unencrypted personal information was, or is reasonably believed to have been, acquired by an unauthorized person.
 
 **PII - Users Rights:**
 
@@ -100,3 +104,5 @@ Cookies - A small data file that is stored on the hard drive of the computer you
 Personal Health Information (PHI) - Individually identifiable health information that is transmitted or maintained by electronic media or is transmitted or maintained in any other form or medium. "Health information" is any information relating to the past, present, or future physical or mental health or condition of an individual.
 
 Personal Identifiable Information (PII) - Information that may be used to identify an individual, including, without limitation, your first and last name, your home or other physical address, your age and income, your e-mail address, which Internet address you go to, what browser you are using, and other similar information (collectively, "Personal Information")
+
+Last updated: 04/07/14
