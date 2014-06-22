@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the footballwood.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226205039id_/http%3A//www.footballwood.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footballwood.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623003615id_/http%3A//www.footballwood.com/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY | footballwood.com
+# PRIVACY POLICY | Footballwood
 
 Privacy Policy for <http://www.footballwood.com/>
 
