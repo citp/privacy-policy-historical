@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rpdata.net.au privacy policy that was archived on 2013-04-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130410225625id_/http%3A//www.rpdata.com/general/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rpdata.net.au privacy policy that was archived on 2014-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140622213305id_/http%3A//www.rpdata.com/general/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr"><head>
 	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.js"></script>
@@ -20,8 +20,8 @@
     <script type="text/javascript" src="/templates/newcorp/javascript/jQuery-flot-selection.js"></script>
 
     
-   
-    
+	<link rel="stylesheet" href="http://www.rpdata.com/templates/newcorp/css/ui-select/core.css" type="text/css">
+	<link rel="stylesheet" href="http://www.rpdata.com/templates/newcorp/css/ui-select/core-ui-select.css" type="text/css">
     <link rel="stylesheet" href="http://www.rpdata.com/templates/newcorp/css/style.css" type="text/css">
     <link rel="stylesheet" href="http://www.rpdata.com/templates/newcorp/css/navigation.css" type="text/css">
       <base href="http://www.rpdata.com/general/privacy_policy.html">
@@ -109,77 +109,66 @@
     <div id="container">
     <header>
         		<div class="moduletable logo">
-					<div style="width: 575px; padding-top: 5px"><a href="http://www.rpdata.com/" title=""><img style="float: left" alt="RP Data" title="RP Data" src="http://www.rpdata.com/images/stories/site_design/design_images/logo.png" border="0"></a><a href="http://www.corelogic.com/" target="_blank" title="CoreLogic"><img style="float: left; margin-top: 30px" alt="A CoreLogic Business" title="A CoreLogic Business" src="http://www.rpdata.com/images/stories/site_design/design_images/logo_core_logic.png" border="0"></a></div>		</div>
+					<div><a href="http://www.rpdata.com/" title=""><img style="float: left" alt="RP Data" title="RP Data" src="http://www.rpdata.com/images/stories/site_design/design_images/logo_rpdata.png" border="0"></a></div>		</div>
 			<div class="moduletable">
-					
-<script>
-function checkData(){
+					<style>
 
-  if (document.forms.form1.userid.value == "" ||document.forms.form1.userid.value == "Username" || document.forms.form1.passwd.value == "" )
-   {
-      alert("Username and Password must not be empty!")
-      return false
-   }
-  return true
-}
-</script>
+</style>
 
+<script src="/templates/newcorp/javascript/jquery.core-ui-select.js"></script>
 <div id="rplogin_box">
-    <form id="form1" method="post" name="form1" onsubmit="return checkData()" action="http://www.realtor.com.au/cgi-bin/vgmsg/property/privacy.p">
-        <input type="hidden" name="personal" value="1">
-        <input type="hidden" name="message_of_day" value="1">
-
-        <div class="rplogin">
-        	<div class="left">
-            	<div class="memberLoginHeading"><strong>Member Login</strong></div>
-            	
-            	<!--<div class="acc_type">
-                    <select name="AccountType" id="selectacc">
-                        <option value="type1">Account Type: Consumer</option>
-                        <option value="type2">Type two</option>
-                    </select>
-                </div> -->
-                
-                <div class="login_fields">
-                    <div class="labelUsername">Username:</div>
-                    <div class="labelPassword">Password:</div>
-                   <div style="clear:both">
-                  <input type="text" name="userid" id="userid" value="" size="24" class="rplogin1">
-                    <input type="password" name="passwd" id="passwd" value="">
-                    </div>
-                </div>
-                
-        	</div>
-            
-            <div class="right"><a href="https://rpp.rpdata.com/rpp/forgot-login-details.html" target="_blank" class="forgotPassword">Need help logging in?</a>
-            	<input type="submit" class="submitButton" value="">
-                
-            </div>
-            
-        </div>
-        <script type="text/javascript">
-                //document.getElementById('selectacc').focus()
-            </script>
-
-    </form>
-    
-</div>
-<div class="rpProfessional"><a href="http://rpp.rpdata.com/rpp/login.html" target="_blank">RP Professional &gt;&gt;</a></div>
-
+	<form id="servicesForm" method="post" name="servicesForm" onsubmit="return checkData()">
+	<div class="rplogin" style="height:50px;">
+		<div>
+			<div class="memberLoginHeading"><strong>Member Login</strong></div>
+			<a href="https://rpp.rpdata.com/rpp/forgot-login-details.html" target="_blank" class="forgotPassword">Need help logging in?</a>
 		</div>
+		<div style="clear:both;"> 	
+			<select id="servicesContainer" name="servicesContainer">
+				<option value="" selected="">Select Service...</option>
+				<option value="https://rpp.rpdata.com/rpp/login.html">rp.professional - latest system</option>
+				<option value="http://www.realtor.com.au/rpx/login.html">rp.classic - original system</option>
+			</select>
+			<input type="submit" value="" onclick="NavigateToSite()" class="submitButton">
+		</div>
+	</div>
+	</form>
+</div>
+<script type="text/javascript">
+function checkData(){
+	  if (document.forms.servicesForm.servicesContainer.selectedIndex == 0 )
+	   {
+		  alert("Please select a service from the Member Login menu.")
+		  return false
+	   }
+	  return false
+}
+
+jQuery('#servicesContainer').coreUISelect();
+
+function NavigateToSite(){
+    var ddl = document.getElementById("servicesContainer");
+    var selectedVal = ddl.options[ddl.selectedIndex].value;
+
+	if (document.forms.servicesForm.servicesContainer.selectedIndex != 0 )
+		{
+    	window.open(selectedVal);
+		}	
+}
+</script>		</div>
 	
     </header>
     
     <div id="navigation">		<div class="moduletable-navigation">
-					<ul id="mainlevel"><li><a href="http://www.rpdata.com/services/our_services.html" class="mainlevel">Services</a><ul><li class="first"><a href="http://www.rpdata.com/residential_property_information/residential_property_information.html" class="sublevel">Residential Property Information</a></li><li><a href="http://www.rpdata.com/commercial_property_information/commercial_property_information.html" class="sublevel">Commercial Property Information</a></li><li><a href="http://www.rpdata.com/risk_solutions/risk_solutions.html" class="sublevel">Risk Management Services</a></li><li><a href="http://www.rpdata.com/software_solutions/software_solutions.html" class="sublevel">Property Management Software</a></li><li><a href="http://www.rpdata.com/services/strata_management.html" class="sublevel">Strata Management</a></li><li><a href="http://www.rpdata.com/services/marketing_services.html" class="sublevel">Marketing Services</a></li><li><a href="http://www.rpdata.com/services/residentialpropertyservices.html" class="sublevel">Residential Property Services</a></li><li><a href="http://www.rpdata.com/services/sales_management_software.html" class="sublevel">Sales Management Software</a></li><li><a href="http://www.rpdata.com/research_services/research_services.html" class="sublevel">Research Services</a></li><li class="last"><a href="http://www.rpdata.com/services/our_products_a_to_z.html" class="sublevel">Our Products A to Z</a></li></ul><div class="bottom"></div></li><li><a href="http://www.rpdata.com/solutions/solutions.html" class="mainlevel">Industries</a><ul><li class="first"><a href="http://www.myrp.com.au/" target="_blank" class="sublevel">Buyers, Sellers and Investors</a></li><li><a href="http://www.rpdata.com/solutions/property_professionals.html" class="sublevel">Property Professionals</a></li><li class="last"><a href="http://www.rpdata.com/solutions/banking_corporate_and_government.html" class="sublevel">Banking, Corporate and Government</a></li></ul><div class="bottom"></div></li><li><a href="http://www.rpdata.com/about_us/about_us.html" class="mainlevel">About Us</a><ul><li class="first"><a href="http://www.rpdata.com/about_us/about_us.html" class="sublevel">About RP Data</a></li><li><a href="http://www.rpdata.com/about_us/strategic_partners.html" class="sublevel">Strategic Partners</a></li><li><a href="http://www.rpdata.com/rp_professional_network/rp_professional_network.html" class="sublevel">RP Professional Network</a></li><li><a href="http://www.rpdata.com/careers/careers.html" class="sublevel">Careers</a></li><li><a href="http://www.rpdata.com/about_us/our_data.html" class="sublevel">Our Data</a></li><li class="last"><a href="http://www.rpdata.com/about_us/rp_data_proudly_sponsoring_the_leukaemia_foundation.html" class="sublevel">RP in the Community</a></li></ul><div class="bottom"></div></li><li><a href="http://www.rpdata.com/research/news_research.html" class="mainlevel">Research</a><ul><li class="first"><a href="http://www.rpdata.com/research/rp_data-rismark_home_value_index.html" class="sublevel">RP Data-Rismark Daily Home Value Index</a></li><li><a href="http://www.rpdata.com/press_releases/Page-1.html" class="sublevel">Press Releases</a></li><li class="last"><a href="http://www.rpdata.com/research/capital_markets_report.html" class="sublevel">Capital Markets Report</a></li></ul><div class="bottom"></div></li><li><a href="http://www.rpdata.com/contact_us/contact_us.html" class="mainlevel">Contact Us</a><ul><li class="first"><a href="http://www.rpdata.com/contact_us/contact_us.html" class="sublevel">General enquiries</a></li><li class="last"><a href="http://www.rpdata.com/contact/contact_form.html" class="sublevel">Contact Form</a></li></ul><div class="bottom"></div></li></ul><div class="bottom"></div>		</div>
+					<ul id="mainlevel"><li><a href="http://www.rpdata.com/services/our_services.html" class="mainlevel">Services</a><ul><li class="first"><a href="http://www.rpdata.com/residential_property_information/residential_property_information.html" class="sublevel">Residential Property Information</a></li><li><a href="http://www.rpdata.com/commercial_property_information/commercial_property_information.html" class="sublevel">Commercial Property Information</a></li><li><a href="http://www.rpdata.com/risk_solutions/risk_solutions.html" class="sublevel">Risk Management Services</a></li><li><a href="http://www.rpdata.com/software_solutions/software_solutions.html" class="sublevel">Property Management Software</a></li><li><a href="http://www.rpdata.com/services/strata_management.html" class="sublevel">Strata Management</a></li><li><a href="http://www.rpdata.com/services/marketing_services.html" class="sublevel">Marketing Services</a></li><li><a href="http://www.rpdata.com/services/residentialpropertyservices.html" class="sublevel">Residential Property Services</a></li><li><a href="http://www.rpdata.com/services/sales_management_software.html" class="sublevel">Sales Management Software</a></li><li><a href="http://www.rpdata.com/research_services/research_services.html" class="sublevel">Research Services</a></li><li class="last"><a href="http://www.rpdata.com/services/our_products_a_to_z.html" class="sublevel">Our Products A to Z</a></li></ul><div class="bottom"></div></li><li><a href="http://www.rpdata.com/solutions/solutions.html" class="mainlevel">Industries</a><ul><li class="first"><a href="http://www.myrp.com.au/" target="_blank" class="sublevel">Buyers, Sellers and Investors</a></li><li><a href="http://www.rpdata.com/solutions/property_professionals.html" class="sublevel">Property Professionals</a></li><li class="last"><a href="http://www.rpdata.com/solutions/banking_corporate_and_government.html" class="sublevel">Banking, Corporate and Government</a></li></ul><div class="bottom"></div></li><li><a href="http://www.rpdata.com/about_us/about_us.html" class="mainlevel">About Us</a><ul><li class="first"><a href="http://www.rpdata.com/about_us/about_us.html" class="sublevel">About RP Data</a></li><li><a href="http://www.rpdata.com/about_us/strategic_partners.html" class="sublevel">Strategic Partners</a></li><li><a href="http://www.rpdata.com/rp_professional_network/rp_professional_network.html" class="sublevel">RP Professional Network</a></li><li><a href="http://www.rpdata.com/careers/careers.html" class="sublevel">Careers</a></li><li><a href="http://www.rpdata.com/about_us/our_data.html" class="sublevel">Our Data</a></li><li class="last"><a href="http://www.rpdata.com/about_us/rp_in_the_community.html" class="sublevel">RP in the Community</a></li></ul><div class="bottom"></div></li><li><a href="http://www.rpdata.com/research/news_research.html" class="mainlevel">Research</a><ul><li class="first"><a href="http://www.rpdata.com/research/rp_data-rismark_home_value_index.html" class="sublevel">RP Data-Rismark Daily Home Value Index</a></li><li><a href="http://www.rpdata.com/press_releases/Page-1.html" class="sublevel">Press Releases</a></li><li class="last"><a href="http://www.rpdata.com/research/capital_markets_report.html" class="sublevel">Capital Markets Report</a></li></ul><div class="bottom"></div></li><li><a href="http://www.rpdata.com/contact_us/contact_us.html" class="mainlevel">Contact Us</a><ul><li class="first"><a href="http://www.rpdata.com/contact_us/contact_us.html" class="sublevel">General enquiries</a></li><li class="last"><a href="http://www.rpdata.com/contact/contact_form.html" class="sublevel">Contact Form</a></li></ul><div class="bottom"></div></li></ul><div class="bottom"></div>		</div>
 			<div class="moduletable second_navigation">
 					<style>.facebookLike .fb_iframe_widget > span {margin-top: 6px!important;}</style>
-<div class="right" style="padding-right: 15px"><!--<a href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" id="newsletter_btn">Subscribe to newsletter</a><img alt="" src="http://www.rpdata.com/images/stories/site_design/design_images/newsletter_btn.png" width="22" height="22" />-->
-<div class="facebookLike" style="margin-top: 0 !important">
+<div style="padding-right: 15px" class="right"><!--<a href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" _wpro_href="javascript:void(0)" id="newsletter_btn">Subscribe to newsletter</a><img alt="" src="http://www.rpdata.com/images/stories/site_design/design_images/newsletter_btn.png" width="22" height="22" />-->
+<div style="margin-top: 0px !important" class="facebookLike">
 <div id="fb-root"></div>
-<script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script>
-<fb:like href="http://www.facebook.com/rpdata" send="false" layout="button_count" width="85" show_faces="false" font=""></fb:like></div>
-<div style="float: left"><a href="http://www.facebook.com/rpdata" target="_blank" style="margin: 0pt"><img alt="RP Data Facebook" title="RP Data Facebook" src="http://www.rpdata.com/images/stories/site_design/design_images/facebook_btn.png" height="22" width="22"></a><a href="http://twitter.com/rpdata" target="_blank" style="margin: 0pt"><img alt="RP Data Twitter" title="RP Data Twitter" src="http://www.rpdata.com/images/stories/site_design/design_images/twitter_btn.png" height="22" width="22"></a><a href="http://www.linkedin.com/company/rp-data" target="_blank" style="margin: 0pt 10px 0pt 0pt"><img alt="RP Data LinkedIn" title="RP Data LinkedIn" src="http://www.rpdata.com/images/stories/site_design/design_images/in_btn.png" height="22" width="22"></a><a href="javascript:void(0)" id="emailpage_btn" onclick="s5_open_taf_popup()"><img alt="" src="http://www.rpdata.com/images/stories/site_design/design_images/email_btn.png" height="22" width="22"></a><a href="http://www.rpdata.com/" id="home_btn"><img alt="" title="" src="http://www.rpdata.com/images/stories/site_design/design_images/home_btn.png" height="22" width="22"></a></div></div>		</div>
+<script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><!--?xml:namespace prefix = fb-->
+<fb:like width="85" send="false" href="http://www.facebook.com/rpdata" font="" show_faces="false" layout="button_count"></fb:like></div>
+<div style="float: left"><a style="margin: 0pt" target="_blank" href="http://www.facebook.com/rpdata"><img title="RP Data Facebook" alt="RP Data Facebook" width="22" height="22" src="http://www.rpdata.com/images/stories/site_design/design_images/facebook_btn.png"></a><a style="margin: 0pt" target="_blank" href="http://twitter.com/rpdata"><img title="RP Data Twitter" alt="RP Data Twitter" width="22" height="22" src="http://www.rpdata.com/images/stories/site_design/design_images/twitter_btn.png"></a><a style="margin: 0pt 10px 0pt 0pt" target="_blank" href="http://www.linkedin.com/company/rp-data"><img title="RP Data LinkedIn" alt="RP Data LinkedIn" width="22" height="22" src="http://www.rpdata.com/images/stories/site_design/design_images/in_btn.png"></a><a href="mailto:websales@rpdata.com"><img alt="" width="22" height="22" src="http://www.rpdata.com/images/stories/site_design/design_images/email_btn.png"></a><a id="home_btn" href="http://www.rpdata.com/"><img title="" alt="" width="22" height="22" src="http://www.rpdata.com/images/stories/site_design/design_images/home_btn.png"></a></div></div>		</div>
 	
         <!--<div class="redline"></div>-->
     </div>
@@ -211,111 +200,271 @@ function checkData(){
 
 
 
-<p>At RP Data, we understand the importance you attach to your personal  information.  This Privacy Policy details  how we handle personal information.  Under  the Privacy Act ‘Personal information’ is an expression which has a defined meaning.  It is information which is can be used to identify  an individual.</p>
-<p>We are committed to complying with Australian Privacy laws and  the Spam Act.</p>
-<p>We believe in trusted relationships with our customers and  consumers.  We also believe it is  important that consumers and businesses should have access to complete,  accurate and timely property information.</p>
-<p>Primarily, we use personal information for the provision of property  information services to our subscribers, customers and consumers for their use  in the property and financial industries.   Not all of the information collected and held by us will be personal  information.  In fact the vast majority  of the information we source from third parties does not reveal your identity.</p>
-<h2>Application of  Privacy Policy</h2>
-<p>This policy applies to RP Data and its subsidiaries, as set  out below.</p>
-<p>By using our services, including accessing our websites or  requesting publications or reports from us, you agree to the terms of this  Privacy Policy.  If you do not agree,  then unfortunately you cannot make use of our services.</p>
-<h2>Information</h2>
-<p>We collect personal information to enable us to provide our  services.  We also collect a broad range  of non-personal information.  Some of the  information we collect includes:</p>
+<p>RP Data Pty Ltd (ABN 67 087 759 171) and its related and associated bodies corporate (<strong>us, we, our, RP Data</strong>) maintain a policy of strict confidence concerning your (you, your) personal information (<strong>Privacy Policy</strong>).  This Privacy Policy has been developed in accordance with the Privacy Act 1988 (Cth) (<strong>Privacy Act</strong>) and the Australian Privacy Principals (<strong>APPs</strong>) made under that Act.  The Privacy Policy applies to the collection, storage, use and disclosure of your personal information by us.  By accessing the following websites and platforms (<strong>Sites</strong>), you accept the terms of this Privacy Policy: </p>
 <ul>
-<li>property ownership details</li>
-<li>historical sales data for property, including  previous owner information, sales price and date of sale</li>
-<li>details regarding properties listed or  advertised for sale</li>
-<li>property attributes and property location  details</li>
-<li>photographs of property</li>
-<li>contact information (such as address details and  telephone numbers) of property owners, tenants, real estate agents, valuers and  finance brokers</li>
-<li>contact information and payment information  (such as bank account and credit card details) for our customers, users and subscribers</li>
-<li>information pertaining to products and services  ordered from us and their use</li>
-<li>statistical and demographic information.</li></ul>
-<h2>Accuracy and  Completeness</h2>
-<p>We are committed to providing accurate and complete property  information.  If you become aware that  any information in our databases is inaccurate or incomplete, then please  notify us (with as much detail as possible) and we will use our best efforts to  verify that information and correct or update the information in our databases.</p>
-<p>Our contact details to provide corrected or updated  information are via our <a style="text-decoration: none" title="Contact us via our enquiry form here" href="http://www.rpdata.com/contact/contact_form.html" target="_blank">enquiry form</a>.</p>
-<h2>Collection</h2>
-<p>We may collect information  about you or a property that you own:</p>
+<li><a href="http://rpdata.com" target="_blank">www.rpdata.com</a></li>
+<li><a href="http://myrp.com.au" target="_blank">www.myrp.com.au</a></li>
+<li><a href="http://cityscopeonline.com.au" target="_blank">www.cityscopeonline.com.au</a></li>
+<li><a href="http://vx.valex.com.au" target="_blank">vx.valex.com.au</a></li>
+<li><a href="http://evrui.rpdata.com" target="_blank">evrui.rpdata.com</a></li>
+<li><a href="http://vms.rpdata.com" target="_blank">vms.rpdata.com</a></li>
+<li><a href="http://vis.rpdata.com" target="_blank">vis.rpdata.com</a></li></ul>
+<p>This Privacy Policy applies to information provided to us whether via these Sites or any other means and demonstrates our policies, procedures and practices for compliance with the APPs under the Privacy Act.  </p>
+<p>This Privacy Policy applies to RP Data and its subsidiaries and related bodies corporate, including RP Data Pty Ltd and Valuation Exchange Pty Ltd, through which we operate and market a number of separate businesses and products, including: </p>
 <ul>
-<li>directly from you, for example, when you provide  information to us (such as when you order a product or service from us, when  you complete a form on a website, when you subscribe to a newsletter, when you  enter a competition, when you provide a response to a survey, and when you  provide us with corrected or updated information about a property)</li>
-<li>from related companies of RP Data</li>
-<li>from third parties, such as State Government  departments &amp; agencies, local councils, valuers, banks, home loan  providers, mortgage brokers and real estate agents</li>
-<li>from publicly available information about you or  a property that you own (such as from newspaper advertisements and property  listings).</li></ul>
-<p><strong>&nbsp;</strong>If you provide data to us which includes personal  information of another, you must first obtain consent from that person.  By providing that information to us, you  represent that you have obtained such consent.</p>
-<p>We collect information on our own behalf and on behalf of  others.  Where we collect information on  behalf of others, we require that they comply with Australian privacy laws.</p>
-<p>We may engage third parties to provide services to us, which  may include collecting and processing personal information on our behalf.  We require that such third parties comply  with Australian privacy laws.</p>
-<h2><strong>Use and Discloure</strong></h2>
-<p><strong>Personal information</strong></p>
-<p>We may use information about you to:</p>
+<li>Property Data and Analytics Services </li>
+<li>Platform and Risk Management Services  </li>
+<li>Marketing Direct Product</li></ul>
+<p>This Privacy Policy applies in respect of information provided to us by persons under the age of 18 years however, those persons must obtain the consent of a parent or guardian prior to using the Site and the parent or guardian will be responsible for appropriately supervising the person’s use of the Site. </p>
+<p>If you have any further questions or if you wish to receive more information on our information practices and Privacy Policy, please contact our Privacy Officer by email at 
+ <script language="JavaScript" type="text/javascript">
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy20413 = 'pr&#105;v&#97;cy' + '&#64;';
+ addy20413 = addy20413 + 'rpd&#97;t&#97;' + '&#46;' + 'c&#111;m';
+ var addy_text20413 = 'pr&#105;v&#97;cy' + '&#64;' + 'rpd&#97;t&#97;' + '&#46;' + 'c&#111;m';
+ document.write( '<a ' + path + '\'' + prefix + ':' + addy20413 + '\'>' );
+ document.write( addy_text20413 );
+ document.write( '<\/a>' );
+ //--> </script><a href="mailto:privacy@rpdata.com">privacy@rpdata.com</a> <script language="JavaScript" type="text/javascript">
+ <!--
+ document.write( '<span style=\'display: none;\'>' );
+ //-->
+ </script><span style="display: none;">This e-mail address is being protected from spambots. You need JavaScript enabled to view it
+ <script language="JavaScript" type="text/javascript">
+ <!--
+ document.write( '</' );
+ document.write( 'span>' );
+ //-->
+ </script></span>     </p>
+<h2>1. Types of personal information we collect</h2>
+<p>We predominantly collect information about real property.  Whilst much of this information is <u>not</u> personal information, some of the information we collect, on its own or when match with other information, may be personal information about you. </p>
+<p>The types of information we collect in respect of our <strong><em>Property Data and Analytics Services</em></strong> include: </p>
 <ul>
-<li>provide products and services to you</li>
-<li>verify your identity</li>
-<li>administer and manage products and services  provided to you, including charging, billing, account management, and debt  collection</li>
-<li>perform administrative and operational tasks (including risk management, systems  development and testing, credit scoring and staff training, and market or  customer satisfaction research)</li>
-<li>provide you with news and information, as well  as promote and market products, services and special offers made available by  us, our related companies and third parties (unless you ask us not to) (subject  to any prohibitions in our contracts with third parties)</li>
-<li>generate records and reports based on your use  of our services</li>
-<li>conduct research about our products and services<strong></strong></li>
-<li>develop products and services</li>
-<li>respond to any specific request you make of us</li>
-<li>prevent  or investigate any fraud or crime (or a suspected fraud or crime)</li>
-<li>audit and monitor the services we provide.</li></ul>
-<p>We may disclose information about you to:</p>
+<li>Name</li>
+<li>Date of birth</li>
+<li>Contact details</li>
+<li>Residential address</li>
+<li>Occupation details</li>
+<li>Property title, ownership and transfer details </li>
+<li>Property tenancy and registered lease details</li>
+<li>Bank account and credit card details for our customers, users and subscribers</li>
+<li>Information pertaining to products and services ordered from us and their use</li>
+<li>Officeholder, directorship and shareholder information</li>
+<li>Telephone directory information</li></ul>
+<p>The types of personal information we collect in respect of our <strong><em>Platform and Risk Management Services</em></strong>  include: </p>
+<ul>
+<li>Name</li>
+<li>Date of birth</li>
+<li>Gender</li>
+<li>Address</li>
+<li>Phone numbers</li>
+<li>Drivers licence details</li>
+<li>Email address</li>
+<li>Employment and occupation details</li>
+<li>Income</li>
+<li>Financial history</li>
+<li>Property title, ownership, transfer and tenancy information </li>
+<li>Mortgage and loan application details &amp; other financial information related to any loan application including Bank account information</li></ul>
+<p>The types of personal information we collect in respect of our <strong><em>Marketing Direct Product</em></strong>  include: </p>
+<ul>
+<li>Name</li>
+<li>Address</li>
+<li>Email addresses</li>
+<li>Phone numbers</li></ul>
+<p>We also collect data about your property which is <strong><em>not</em></strong>  personal information at the time we collect it, but may later become personal information if it is matched with other personal information we hold.  For example: </p>
+<ul>
+<li>Property sales information – sales prices and addresses, on their own, do not amount to personal information as this data is not connected to an individual. </li>
+<li>Historical sales for your property – this is not information about you, but rather the price obtained by an unidentified previous owner of the property</li>
+<li>Addresses</li>
+<li>Property attribute information, such as number of bedrooms, bathrooms, garage or car spaces and land size etc. </li></ul>
+<h2>2. How we collect personal information</h2>
+<p>We may collect personal information about you from a combination of sources including directly from you, from third parties or from publicly available sources. </p>
+<p>If it is reasonable and practical to do so, we will collect personal information <strong><em>directly</em></strong>  from you. This will include contact details and other information relevant to providing services to you. This may take place in a number of ways, such as: </p>
+<ul>
+<li>when you sign up for products or services, such as My RP </li>
+<li>order a product or service from us</li>
+<li>subscribe to a newsletter</li>
+<li>complete a form on our website</li>
+<li>when you provide us with corrected or updated information about you or a property you own. </li></ul>
+<p>We may also collect personal information from <strong><em>third parties</em></strong>  such as your representatives and/or <strong><em>publicly available</em></strong> sources of information. </p>
+<p>The majority of the information we collect about you or the properties you own will be from public records, which we licence from the relevant government departments and agencies.  Third parties from whom we source publicly available information include: </p>
+<ul>
+<li>State Government departments</li>
+<li>Local councils</li>
+<li>ASIC</li>
+<li>White pages</li>
+<li>Real estate listing portals on which you or your agent have advertised your property for sale or lease</li>
+<li>Real estate agents</li></ul>
+<p>Third parties from whom we source other information include: </p>
+<ul>
+<li>Real estate listing portals on which you or your agent have advertised your property for sale or lease</li>
+<li>Related companies of RP Data</li>
+<li>Real estate agents</li>
+<li>Tenancy and strata managers</li>
+<li>Financial institutions</li>
+<li>Mortgage brokers</li>
+<li>Property valuers</li>
+<li>Marketing database providers</li></ul>
+<p>We collect information on our own behalf and on behalf of others.  Where we collect information on behalf of others, we require that they comply with the Privacy Act and APPs. </p>
+<p>If someone other than you provides us with personal information about you that we did not ask for and we determine that we could have collected this information from you had we asked for it, we will notify you as soon as practicable.  This notice will be given unless to do so would be in breach of an obligation of confidence.  If we could not have collected this personal information, we will lawfully de identify or destroy that personal information. </p>
+<p>We will not collect any sensitive information from you, revealing your: race, ethnic origin, political opinions, religious or philosophical beliefs, trade union memberships or details of health or disability. </p>
+<p>We will not collect personal information unless the information is reasonably necessary for or directly related to one, or more of our functions or activities.  If we are unable to collect personal information we reasonably require, we may not be able to do business with you or the organisation with which you are connected.    </p>
+<h2>3. Collection use and disclosure of personal information</h2>
+<p>All personal information that we or our related bodies corporate collect, is reasonably necessary for the purposes relating to providing our services to you. </p>
+<p>We may use personal information about you for the primary purpose of providing our services, and for which you would reasonably expect us to use that information, including sending you information about new developments, products, services and special offers by post, telephone or any form of electronic communication. We may use any email address or other personal information you provide to us at any time for this purpose. </p>
+<p>We may also use or disclose information about you where we have obtained your consent, where we have obtained the information from another party (eg the valuer generals department of your state government) for a specified purpose, or as required by relevant laws, statutes, regulations, codes and external payment systems. </p>
+<p>We will <u>not</u> disclose information that personally identifies you to any third party other than as set out in this Privacy Policy. In order to deliver the services that we provide to you, we may disclose your personal information to other organisations, only in relation to providing our services to you. We take reasonable steps to ensure that these organisations are bound by privacy obligations in relation to the protection of your personal information. </p>
+<p>We may provide certain information about you including your personal information to our related bodies corporate.    </p>
+<p><strong><em>Property Data and Analytics Services</em></strong> </p>
+<p>For our Property Data and Analytics Services, we collect your personal information for the purposes of:</p>
+<ul>
+<li>developing our products and services</li>
+<li>verifying your identity</li>
+<li>providing our products and services to you</li>
+<li>administering and managing products and services provided to you, including charging, billing, account management, and debt collection</li>
+<li>performing administrative and operational tasks (including risk management, systems development and testing, credit scoring and staff training, and market or customer satisfaction research) </li>
+<li>conducting research about our products and services</li>
+<li>auditing and monitoring the products and services we provide</li>
+<li>responding to any specific request you make of us</li>
+<li>generating records and reports based on your use of our products and services</li>
+<li>preventing or investigating any fraud or crime (or a suspected fraud or crime) </li>
+<li>providing you with news and information, as well as promote and market products, services and special offers made available by us, our related companies and third parties (unless you ask us not to and only where we have obtained your consent directly).</li></ul>
+<p>In order to achieve the above purposes, we may use or disclose your personal information to: </p>
 <ul>
 <li>your authorised representatives and agents</li>
-<li>our agents, contractors and third party service  providers to enable them to provide administrative and other services for or to  us</li>
-<li>our customers and subscribers as part of a  product or service offered by us</li>
-<li>third parties to enable them to provide you with  news and information and to promote and market products, services and special  offers (unless you ask us not to)</li>
-<li>others where the disclosure is required by law,  for example, to government agencies and regulatory bodies as part of our  statutory obligations, or for law enforcement purposes</li>
-<li>an organisation that acquires all or part of our  assets or businesses.</li></ul>
-<p>We may also use or disclose information about you where we  have obtained your consent, where we have obtained the the information from  another party (eg the valuer generals department of your state government) for  a specified purpose, or as required by relevant laws, statutes, regulations,  codes and external payment systems. </p>
-<p>Where you provide information to us, you consent to use and  disclosure of that information in accordance with this Policy.</p>
-<p>We collect information from publicly available sources such  as the valuer general office in each State and Territory.  Your use of this information must be in  accordance with the rules set down by the relevant information provider.  These rules are contained in the terms and  conditions of your contract with us.  The  information provider’s rules may be amended from time to time and therefore so  too will the terms of your contract.</p>
-<p>When we provide personal information to our customers and  subscribers as part of a product or service offered by us, we require them:</p>
+<li>our agents, contractors and third party service providers to enable them to provide administrative and other services for or to us</li>
+<li>our customers and subscribers as part of a Data, Research and Analytics Product or Service offered by us</li>
+<li>third parties to enable them to provide you with news and information and to promote and market products, services and special offers (unless you ask us not to) </li>
+<li>others where the disclosure is required by law, for example, to government agencies and regulatory bodies as part of our statutory obligations, or for law enforcement purposes</li>
+<li>an organisation that acquires all or part of our assets or businesses. </li></ul>
+<p>In addition to the above, when you sign up for a services (such as MY RP), we may obtain your consent to provide you with news and information, as well as promote and market products, services and special offers made available by us, our related companies and third parties (unless you ask us not to).  We will only ever direct market to you where we have collected the information directly from you and obtained your consent to do so.  We will never use information obtained from third party government sources to direct market to you. </p>
+<p>Where we collect information from publicly available sources such as the valuer general office in each State and Territory, our use of this information must be in accordance with the rules set down by the relevant information provider.  These rules are contained in the terms and conditions of your contract with us.  The information provider’s rules may be amended from time to time and therefore so too will the terms of your contract. </p>
+<p>We may also use or disclose information about you where we have obtained your consent, where we have obtained the information from another party (eg the valuer generals department of your state government) for a specified purpose, or as required by relevant laws, statutes, regulations, codes and external payment systems. </p>
+<p><strong><em>Platform and Risk Management Services </em></strong> </p>
+<p>For Platform and Risk Management Services, we collect your personal information for the primary purposes of assisting mortgage originators (including their brokers) to: </p>
 <ul>
-<li>to never use personal information for direct  marketing</li>
-<li>to comply with all third party use restrictions  (which are set out in the terms and conditions of your contract with us where  the personal information is collected by a third party and provided to us</li>
-<li>to comply with the Privacy Act.</li></ul>
-<p><strong>Websites</strong></p>
-<p>We are committed to ensuring the security of our websites,  and we incorporate security practices and procedures which we consider are consistent  with Australian industry standards.  We  review our security procedures from time to time and update them when  relevant.  All orders placed online using  a credit card are covered by SSL security technology to protect customer  details.  </p>
-<p>Each time you visit one of our websites, web servers may  collect certain information including your IP address, the date, time and  duration of your visit and the pages, documents and services accessed.  We use these non-personalised statistics  about the use of our websites to continually improve our websites and customer  service, and to create aggregated data and data products regarding the property  market or product trends that we may provide to third parties.</p>
-<p>We may also use (and may engage third parties to use) this  information to help improve and tailor our websites, and to select  advertisements that may be displayed to you on our websites. </p>
-<p>Our websites contain links to the websites of third  parties.  If you access those third party  websites they may collect information about you.  You will need to contact them to ascertain  their privacy standards.  We are not  responsible for the conduct of the operators of third party websites.  </p>
-<p>Our websites may use a technology called “cookies”.  A cookie is a small text file placed on your  computer hard drive by a web page server.   Cookies may be accessed later by our web servers.  Cookies store information about your use of  websites.  Cookies also allow us to  provide you with more personalised service.   We use cookies to:</p>
+<li>source valuations and other property reports from third party services providers such as valuers, and building and pest inspection report providers; </li>
+<li>assess risk associated with loan origination. </li></ul>
+<p>We may use your personal information to perform risk analytics and provide a report back to the mortgage originator. </p>
+<p>The personal information provided to us by mortgage originators will only be disclosed to the third party service providers for the purpose of enabling them to provide the services requested.  Similarly, any report provided to us by the third party service providers will only be disclosed to the mortgage originators who requested the service. </p>
+<p>The personal information collected for the purposes of providing Platform and Risk Management Services is not used or disclosed for any other purpose. </p>
+<p><strong><em>Marketing Direct</em></strong> </p>
+<p>We collect your personal information from third party marketing database providers for the purposes of providing the Marketing Direct product to our subscribers.  The Marketing Direct database is not incorporated or validated against any other personal information we collect for other purposes. </p>
+<p>We obtain contractual warranties from the database providers that the personal information they collect complies with the Privacy Act and the APPs. </p>
+<p>Your personal information may be disclosed to our subscribers for the purposes of direct marketing their products and services to you.  Our terms and conditions with our subscribers require that they comply with the Privacy Act and APPs in all direct marketing communications with you. </p>
+<p>If you wish to be removed from our Marketing Direct database, please contact our Privacy Officer by email at: 
+ <script language="JavaScript" type="text/javascript">
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy54820 = 'pr&#105;v&#97;cy' + '&#64;';
+ addy54820 = addy54820 + 'rpd&#97;t&#97;' + '&#46;' + 'c&#111;m';
+ var addy_text54820 = 'pr&#105;v&#97;cy' + '&#64;' + 'rpd&#97;t&#97;' + '&#46;' + 'c&#111;m';
+ document.write( '<a ' + path + '\'' + prefix + ':' + addy54820 + '\'>' );
+ document.write( addy_text54820 );
+ document.write( '<\/a>' );
+ //--> </script><a href="mailto:privacy@rpdata.com">privacy@rpdata.com</a> <script language="JavaScript" type="text/javascript">
+ <!--
+ document.write( '<span style=\'display: none;\'>' );
+ //-->
+ </script><span style="display: none;">This e-mail address is being protected from spambots. You need JavaScript enabled to view it
+ <script language="JavaScript" type="text/javascript">
+ <!--
+ document.write( '</' );
+ document.write( 'span>' );
+ //-->
+ </script></span> </p>
+<h2>4. Direct marketing</h2>
+<p>We may use personal information we have collected about you for the primary purpose of providing you with our services, and for other purposes for which you would reasonably expect us to use that information. This includes sending you information about new developments, products, services and special offers by post, telephone or any form of electronic communication. You authorise us to use any email address or other contact information you provide to us at any time for this purpose.   </p>
+<p>You can, at any time, opt out of receiving marketing material by contacting us (see Contact Us below). You agree and acknowledge that even if you opt out of receiving marketing material, we will still send you essential information that we are legally required to send you relating to the services we provide. Once you opt out of receiving marketing material from us, you agree and acknowledge that this removal from our distribution lists may take several business days after the date of you request to be removed. </p>
+<p>Where we collect information from publicly available sources such as the valuer general office in each State and Territory, we do not use this information (or allow or customers and subscriber to use this information) for direct marketing purposes. </p>
+<p>When we provide personal information to our customers and subscribers as part of a Property Data and Analytics Service offered by us, we require them: </p>
 <ul>
-<li>determine whether you have previously accessed our  websites</li>
-<li>identify the pages you have accessed</li>
-<li>aid in the security of your use of our RP Data  websites</li>
+<li>to not use personal information for direct marketing</li>
+<li>to comply with all third party use restrictions (which are set out in the terms and conditions of your contract with us where the personal information is collected by a third party and provided to us</li>
+<li>to comply with the Privacy Act and APPs.</li></ul>
+<h2>5. Third Parties and your information</h2>
+<p>We will only collect, store, use or disclose personal information as set out in this Privacy Policy unless we are required by law to use that information to protect our rights or property (or those of any third party), or to avoid injury to any person. </p>
+<p>Although the Site may link directly to websites operated by third parties (<strong>Linked Sites</strong>), you acknowledge that Linked Sites are not operated by us.  We encourage you to always read the applicable privacy Policy of any Linked Site on entering the Linked Site.  We are not responsible for the content or practices of the Linked Sites nor their privacy policies regarding the collection, storage, use and disclosure of your personal information.    </p>
+<h2>6. Disclosure of Information Overseas</h2>
+<p>We retain your personal information in Australia.  However, people located overseas may be able to access your personal information in order to provide data entry and development services to us in the provision of our Products and Services.  In the vast majority of these cases access is strictly limited, and under the supervision and control of our Australian based product team. Such access will only be under secure protocols (see below for further information on Storage and Security).  Our overseas services providers are located in: </p>
+<ul>
+<li>India</li>
+<li>Philippines</li>
+<li>USA</li>
+<li>New Zealand</li></ul>
+<p>Some of our products and services accessible via our web services portals may be accessed by customers located overseas. </p>
+<p>Whenever your personal information is disclosed to, or accessed by, a person located overseas, this will only occur where: </p>
+<ol type="a">
+<li>we consider the recipient to be bound to legislation similar to the APPs and we have a contractual mechanism with them to enforce your rights; or    </li>
+<li>we have an enforceable contractual arrangement with the overseas recipient that requires the recipient to handle your personal information in accordance with the APPs.</li></ol>
+<p>By providing us with your personal information you consent to disclosure as set out in this Privacy Policy. </p>
+<h2>7. Your consent</h2>
+<p>By your use of the Site you consent to the collection, storage, use and disclosure of your personal information in accordance with this Privacy Policy and as otherwise permitted under the Privacy Act.  </p>
+<p>Where you provide information directly to us, you consent to use and disclosure of that information in accordance with this Privacy Policy. </p>
+<h2>8. Cookies</h2>
+<p>When you visit the Site the server may attach a "cookie" to your computer's memory.  A "cookie" assists us to store information on how visitors to the Site use it and the pages that may be of most interest.  This information may be used to provide users of your computer with information that we think may interest the users of your computer.  </p>
+<p>Cookies also allow us to provide you with more personalised service.  We use cookies to: </p>
+<ul>
+<li>determine whether you have previously accessed our websites</li>
+<li>identify the pages you have accessed, your IP address and the date time and duration of your visit</li>
+<li>aid in the security of your use of our RP Data websites</li>
 <li>aid in the log-in process</li>
-<li>facilitate administration of RP Data websites.</li></ul>
-<p>Most web browsers are set to accept cookies but you may  configure your browser not to acceptthem.   If you set your browser to reject cookies you may not be able to make  full use of our websites.  </p>
-<p>We cannot guarantee the security of information transmitted  over the internet.  We recommend that you  take all necessary precautions to protect your personal information while you  are online, including installing appropriate operating system updates, browser  updates, virus protection software and firewall software.</p>
-<p><strong>Credit card details</strong></p>
-<p>If you provide us with your credit card details for payment  of products and services, we will only use that information for the purpose of  processing your payment, which includes disclosing the information to our third  party credit card gateway provider.  We  will retain a record of the last 4 digits of your credit card number for  auditing and verification purposes only.</p>
-<p><strong>Access</strong></p>
-<p>We take reasonable steps to ensure that all personal information  about you that we collect, use or disclose is accurate.</p>
-<p>You may request access to personal information that we hold  about you.  Before providing you with  access to the personal information that we hold about you, we may require that  you first provide us with documentary evidence verifying your identity and  proof of ownership (insofar as the personal information relates to the  ownership of a property).  Subject to us  being satisfied with such verifying documents, we will only refuse a request  for access to personal information when permitted by law (including the  National Privacy Principles) and, in the unlikely event that this occurs, will  give a written explanation for our decision.   We will not charge you a fee for your access request but may charge you  the reasonable cost of processing your request.  </p>
-<p>If you would like to request access to the information we  hold about you, please contact our Privacy Officer (contact details  below).  </p>
-<p><strong>Opt-out</strong></p>
-<p>If, at any time, you do not wish to receive marketing  correspondence or email newsletters (such as Property Pulse) from us, please use  the “unsubscribe” form provided or advise our Privacy Officer, and we will  cease future correspondence and, if requested, remove your personal information  from our marketing database. </p>
-<p><strong>Sensitive Information</strong></p>
-<p>We will only collect sensitive information about you with your consent  (unless we are otherwise allowed or required by law to collect that  information).  The Privacy Act defines  the expression “Sensitive information’   It includes information about your health, your race or ethnic origin  and religious beliefs.</p>
-<p><strong>Telephone Calls</strong></p>
-<p>We may record and monitor telephone calls  between you and us for training, service quality control and compliance  purposes.</p>
-<p><strong>Disputes</strong></p>
-<p>If you have a complaint about our treatment of your personal  information, please contact our Privacy Officer (contact details below).  Our Privacy Officer will investigate your  complaint and endeavour to resolve any issue to your satisfaction.  </p>
-<p>If we do not adequately answer your concerns, you have the  right to make a complaint to the Privacy Commissioner.  </p>
-<h2><strong>Contact</strong></h2>
-<p>If you have any questions relating to this privacy policy or  your personal information, please contact our Privacy Officer on 1300 734 318, via our <a style="text-decoration: none" title="Contact us via our enquiry form here" href="http://www.rpdata.com/contact/contact_form.html" target="_blank"><strong>enquiry form</strong></a>, or post to:</p>
-RP Data Pty Ltd<br>
-  Locked Bag 5<br>
-  Eagle Farm  QLD  4009<br>
-  Australia
-<p>Please provide us with your full name, address and contact  number when contacting our Privacy Officer. </p>
-<h2><strong>General</strong></h2>
-<p>This Privacy Policy is made on behalf of RP Data Pty Ltd  (ABN 67 087 759 171) and its subsidiaries.   All references to “RP Data”, “we”, “us” or “our” in this policy are  references to RP Data Pty Ltd and its subsidiaries.  </p>
-<p>This policy is effective as of 1 August 2011.  RP Data may vary this Privacy Policy from  time to time.  RP Data will notify you of  these changes by publishing them on our websites.  The current version of this Privacy Policy is  located at:</p>
-<p><a href="privacy_policy.html">http://www.rpdata.com/general/privacy_policy.html</a><br>
-<br>
-  RP DATA is a trademark of RP Data Pty Ltd. </p>
+<li>facilitate administration of RP Data websites</li>
+<li>generate statistics about the use of our websites to continually improve our websites and customer service, and data products and identify product trends. </li></ul>
+<p>However, this information is not linked to any personal information you may provide to the Site and cannot be used to identify you. </p>
+<p>If you choose, you should be able to configure your computer so that it disables cookies or does not accept them.  If you set your browser to reject cookies you may not be able to make full use of our Sites.   </p>
+<h2>9. Storage and security</h2>
+<p>We will use all reasonable endeavours to keep your personal information in a secure environment, however, this security cannot be guaranteed.  Your use of our Sites and the electronic storage of your personal information is secured by practices and procedures which we consider are consistent with Australian industry standards.  All orders placed online using a credit card are covered by SSL security technology to protect customer details.  These security measures are designed to ensure your personal information is not subject to unauthorised access, loss or misuse.  If you reasonably believe that there has been unauthorised use or disclosure of your personal information, please contact us (see Contact Us below). </p>
+<p>If we no longer need your personal information, unless we are required under Australian law or a court or tribunal order to retain it, we will take reasonable steps to destroy or de-identify your personal information, in accordance with our document and information retention policy. </p>
+<h2>10. Variation and consent to variation</h2>
+<p>We may vary the terms of this Privacy Policy at any time.  You should check this Privacy Policy regularly so that you are aware of any variations made to this Privacy Policy.  You will be deemed to have consented to such variations by your continued use of the Site following such changes being made.    </p>
+<h2>11. Accuracy of your information</h2>
+<p>We take all reasonable steps to ensure that your personal information held by us is accurate, up-to-date, complete, relevant and not misleading.  If you believe that any of your personal information is not accurate, up-to-date, complete, relevant and not misleading, please contact us (see Contact Us below) and we will take all reasonable steps to correct it within a reasonable time.    </p>
+<h2>12. Access to information we hold about you</h2>
+<p>You may request to access the personal information we hold about you.  We will endeavour to respond to any such request within a reasonable period of time and, where reasonable and practicable, give access to the information in the manner you request.  This will be subject to any exemptions allowed under the Privacy Act. You may request this information by writing to the Privacy Officer (see Contact Us below). </p>
+<p>We may charge a reasonable fee for providing that information. </p>
+<h2>13. Complaints or Disputes</h2>
+<p>If you have a complaint about our treatment of your personal information, please contact our Privacy Officer (see Contact Us below).  Our Privacy Officer will consider and if, in our reasonable opinion, necessary, investigate your complaint and endeavour to respond to you within a reasonable period of time.  </p>
+<p>If we do not adequately answer your concerns, you have the right to make a complaint to the <a href="http://www.rpdata.com/Office%20of%20the%20Australian%20Information%20Commissioner" target="_blank">Office of the Australian Information Commissioner</a>.  </p>
+<h2>14. Contact Us</h2>
+<p>If you have any questions relating to this Privacy Policy or your personal information, please contact our Privacy Officer: </p>
+<blockquote>
+<p>By email: 
+ <script language="JavaScript" type="text/javascript">
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy82356 = 'pr&#105;v&#97;cy' + '&#64;';
+ addy82356 = addy82356 + 'rpd&#97;t&#97;' + '&#46;' + 'c&#111;m';
+ var addy_text82356 = 'pr&#105;v&#97;cy' + '&#64;' + 'rpd&#97;t&#97;' + '&#46;' + 'c&#111;m';
+ document.write( '<a ' + path + '\'' + prefix + ':' + addy82356 + '\'>' );
+ document.write( addy_text82356 );
+ document.write( '<\/a>' );
+ //--> </script><a href="mailto:privacy@rpdata.com">privacy@rpdata.com</a> <script language="JavaScript" type="text/javascript">
+ <!--
+ document.write( '<span style=\'display: none;\'>' );
+ //-->
+ </script><span style="display: none;">This e-mail address is being protected from spambots. You need JavaScript enabled to view it
+ <script language="JavaScript" type="text/javascript">
+ <!--
+ document.write( '</' );
+ document.write( 'span>' );
+ //-->
+ </script></span> </p>
+<p>or by mail: </p>
+<p>RP Data Pty Limited
+Locked Bag 5
+Eagle Farm QLD 4009
+Australia</p>
+<p>Ph:  1300 734 318 </p></blockquote>
+<p>When contacting us or using our products and services, you have the option to either not identify yourself or to use a pseudonym.  However, this will not apply if it is impracticable for us to communicate with you that way.  We are required or authorised under Australian law (or a court or tribunal order) to only deal with individuals who have identified themselves.    </p>
+<h2>15. General</h2>
+<p>This policy is effective as at 30 April 2014.  </p>
+<p>RP Data may vary this Privacy Policy from time to time.  RP Data will notify you of these changes by publishing them on our websites.  The current version of this Privacy Policy is located at:  <a href="http://www.rpdata.com/general/privacy_policy.html" target="_blank">http://www.rpdata.com/general/privacy_policy.html</a> </p>
+<p>RP DATA® is a registered trademark of RP Data Pty Ltd. </p>
 
 
 </div>
@@ -337,11 +486,29 @@ window.open('http://contact.rpdata.com/modules/mod_S5tellafriend/tellafriend.htm
 
     <footer>
         		<div class="moduletable footermenu">
-					<ul id="mainlevel"><li class="mainlevel"><a href="http://www.rpdata.com/services/our_services.html" class="mainlevel">Services</a><ul><li class="sublevel first"><a href="http://www.rpdata.com/residential_property_information/residential_property_information.html" class="sublevel">Residential Property Information</a></li><li class="sublevel"><a href="http://www.rpdata.com/commercial_property_information/commercial_property_information.html" class="sublevel">Commercial Property Information</a></li><li class="sublevel"><a href="http://www.rpdata.com/risk_solutions/risk_solutions.html" class="sublevel">Risk Solutions</a></li><li class="sublevel"><a href="http://www.rpdata.com/software_solutions/software_solutions.html" class="sublevel">Software Solutions</a></li><li class="sublevel"><a href="http://www.rpdata.com/research_services/research_services.html" class="sublevel">Research Services</a></li><li class="sublevel last"><a href="http://www.rpdata.com/services/our_products_a_to_z.html" class="sublevel">Our Products A to Z</a></li></ul><div class="bottom"></div></li><li class="mainlevel"><a href="http://www.rpdata.com/solutions/solutions.html" class="mainlevel">Industries</a><ul><li class="sublevel first"><a href="http://www.myrp.com.au/" target="_blank" class="sublevel">Buyers, Sellers and Investors</a></li><li class="sublevel"><a href="http://www.rpdata.com/solutions/property_professionals.html" class="sublevel">Property Professionals</a></li><li class="sublevel last"><a href="http://www.rpdata.com/solutions/banking_corporate_and_government.html" class="sublevel">Banking, Corporate and Government</a></li></ul><div class="bottom"></div></li><li class="mainlevel"><a href="http://www.rpdata.com/about_us/about_us.html" class="mainlevel">About Us</a><ul><li class="sublevel first"><a href="http://www.rpdata.com/about_us/strategic_partners.html" class="sublevel">Strategic Partners</a></li><li class="sublevel"><a href="http://www.rpdata.com/rp_professional_network/rp_professional_network.html" class="sublevel">RP Professional Network</a></li><li class="sublevel"><a href="http://www.rpdata.com/careers/careers.html" class="sublevel">Careers</a></li><li class="sublevel"><a href="http://www.rpdata.com/about_us/our_data.html" class="sublevel">Our Data</a></li><li class="sublevel last"><a href="http://www.rpdata.com/about_us/rp_data_proudly_sponsoring_the_leukaemia_foundation.html" class="sublevel">RP in the Community</a></li></ul><div class="bottom"></div></li><li class="mainlevel"><a href="http://www.rpdata.com/research/news_research.html" class="mainlevel">Research</a><ul><li class="sublevel first"><a href="http://www.rpdata.com/research/rp_data-rismark_home_value_index.html" class="sublevel">RP Data-Rismark Daily Home Value Index</a></li><li class="sublevel"><a href="http://www.rpdata.com/press_releases/Page-1.html" class="sublevel">Press Releases</a></li><li class="sublevel last"><a href="http://www.rpdata.com/research/capital_markets_report.html" class="sublevel">Capital Markets Report</a></li></ul><div class="bottom"></div></li></ul><div class="bottom"></div>		</div>
+					<ul id="mainlevel"><li class="mainlevel"><a href="http://www.rpdata.com/services/our_services.html" class="mainlevel">Services</a><ul><li class="sublevel first"><a href="http://www.rpdata.com/residential_property_information/residential_property_information.html" class="sublevel">Residential Property Information</a></li><li class="sublevel"><a href="http://www.rpdata.com/commercial_property_information/commercial_property_information.html" class="sublevel">Commercial Property Information</a></li><li class="sublevel"><a href="http://www.rpdata.com/risk_solutions/risk_solutions.html" class="sublevel">Risk Solutions</a></li><li class="sublevel"><a href="http://www.rpdata.com/software_solutions/software_solutions.html" class="sublevel">Software Solutions</a></li><li class="sublevel"><a href="http://www.rpdata.com/research_services/research_services.html" class="sublevel">Research Services</a></li><li class="sublevel last"><a href="http://www.rpdata.com/services/our_products_a_to_z.html" class="sublevel">Our Products A to Z</a></li></ul><div class="bottom"></div></li><li class="mainlevel"><a href="http://www.rpdata.com/solutions/solutions.html" class="mainlevel">Industries</a><ul><li class="sublevel first"><a href="http://www.myrp.com.au/" target="_blank" class="sublevel">Buyers, Sellers and Investors</a></li><li class="sublevel"><a href="http://www.rpdata.com/solutions/property_professionals.html" class="sublevel">Property Professionals</a></li><li class="sublevel last"><a href="http://www.rpdata.com/solutions/banking_corporate_and_government.html" class="sublevel">Banking, Corporate and Government</a></li></ul><div class="bottom"></div></li><li class="mainlevel"><a href="http://www.rpdata.com/about_us/about_us.html" class="mainlevel">About Us</a><ul><li class="sublevel first"><a href="http://www.rpdata.com/about_us/strategic_partners.html" class="sublevel">Strategic Partners</a></li><li class="sublevel"><a href="http://www.rpdata.com/rp_professional_network/rp_professional_network.html" class="sublevel">RP Professional Network</a></li><li class="sublevel"><a href="http://www.rpdata.com/careers/careers.html" class="sublevel">Careers</a></li><li class="sublevel"><a href="http://www.rpdata.com/about_us/our_data.html" class="sublevel">Our Data</a></li><li class="sublevel last"><a href="http://www.rpdata.com/about_us/rp_in_the_community.html" class="sublevel">RP in the Community</a></li></ul><div class="bottom"></div></li><li class="mainlevel"><a href="http://www.rpdata.com/research/news_research.html" class="mainlevel">Research</a><ul><li class="sublevel first"><a href="http://www.rpdata.com/research/rp_data-rismark_home_value_index.html" class="sublevel">RP Data-Rismark Daily Home Value Index</a></li><li class="sublevel"><a href="http://www.rpdata.com/press_releases/Page-1.html" class="sublevel">Press Releases</a></li><li class="sublevel last"><a href="http://www.rpdata.com/research/capital_markets_report.html" class="sublevel">Capital Markets Report</a></li></ul><div class="bottom"></div></li></ul><div class="bottom"></div>		</div>
 			<div class="moduletable footerred">
-					<ul id="mainlevel"><li><a href="http://www.rpdata.com/" class="mainlevel">Home</a></li><li><a href="http://www.rpdata.com/contact_us/contact_us.html" class="mainlevel">Contact Us</a></li><li><a href="privacy_policy.html" class="mainlevel_current" id="active_menu">Privacy Policy</a></li><li><a href="http://www.rpdata.com/general/important_information.html" class="mainlevel">Important Information</a></li><li><a href="http://www.rpdata.com/general/general_terms_and_conditions.html" class="mainlevel">Terms &amp; Conditions</a></li><li><a href="http://www.rpdata.com/general/copyright_and_disclaimer_notices.html" class="mainlevel">Copyright &amp; Disclaimer Notices</a></li><li><a href="http://www.rpdata.com/shareholders/shareholders.html" class="mainlevel">Shareholders</a></li></ul><div class="bottom"></div>		</div>
+					<ul id="mainlevel"><li><a href="http://www.rpdata.com/" class="mainlevel">Home</a></li><li><a href="http://www.rpdata.com/contact_us/contact_us.html" class="mainlevel">Contact Us</a></li><li><a href="privacy_policy.html" class="mainlevel_current" id="active_menu">Privacy Policy</a></li><li><a href="http://www.rpdata.com/general/important_information.html" class="mainlevel">Important Information</a></li><li><a href="http://www.rpdata.com/general/general_terms_and_conditions.html" class="mainlevel">Terms &amp; Conditions</a></li><li><a href="http://www.rpdata.com/general/copyright_and_disclaimer_notices.html" class="mainlevel">Copyright &amp; Disclaimer Notices</a></li></ul><div class="bottom"></div>		</div>
 			<div class="moduletable-copyright">
-					© Copyright 2012 RP Data Pty Ltd
+					<img alt="" src="http://www.rpdata.com/images/stories/site_design/design_images/rp_favicon.png" width="27" height="25"><br>
+<br>© Copyright
+<script type="text/javascript">
+
+
+            (function(){
+
+
+                var now=new Date();
+
+
+                document.write(now.getFullYear())
+
+
+            }());
+
+
+        </script>2020
+RP Data Pty Ltd
 ABN 67 087759171		</div>
 	
     </footer>
