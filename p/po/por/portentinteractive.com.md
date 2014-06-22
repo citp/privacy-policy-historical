@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the portentinteractive.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230204920id_/http%3A//www.portent.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portentinteractive.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623012230id_/http%3A//www.portent.com/privacy) for the most accurate reproduction.*
 
-# Portent, Inc. Privacy Policy & Terms of Use – Portent
+# Portent, Inc. Privacy Policy & Terms of Use - Portent
 
 Your privacy is important. The privacy policy outlined below provides information on the data Portent, Inc. collects from you and the ways we protect your data. Please review this policy carefully and contact us if you have any questions.
 
