@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the grammarcheck.me privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223052756id_/http%3A//www.grammarcheck.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grammarcheck.me privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622115333id_/http%3A//www.grammarcheck.me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+**Warning** : Illegal string offset 'sidebar_opts' in **/home/grammarc/public_html/wp-content/themes/hulk/header.php** on line **152**
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
@@ -24,3 +26,7 @@ The contents of this statement may be altered at any time, at our discretion.
 If you have any questions regarding the privacy policy of Grammar Check then you may [contact us](http://www.grammarcheck.me/contact-us/)
 
 Last updated Tue, 29 Mar 2011 05:59
+
+**Warning** : Illegal string offset 'sidebar_opts' in **/home/grammarc/public_html/wp-content/themes/hulk/page.php** on line **25**
+
+**Warning** : Illegal string offset 'unique_sidebar' in **/home/grammarc/public_html/wp-content/themes/hulk/sidebar.php** on line **11**
