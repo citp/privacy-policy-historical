@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uppfly.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222151336id_/http%3A//www.uppfly.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uppfly.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622115741id_/http%3A//www.uppfly.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Uppfly Privacy Policy – Point to Mark While Submitting Bookmarking
 
