@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the raythereign.com privacy policy that was archived on 2013-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131206190754id_/http%3A//raythereign.com/index.php/faq/privacy-statement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the raythereign.com privacy policy that was archived on 2014-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140622020043id_/http%3A//raythereign.com/index.php/faq/privacy-statement) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xml:lang="en-gb" lang="en-gb"><head>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -16,7 +16,7 @@
   <link rel="stylesheet" href="/templates/rt_oculus/css-compiled/master-1bdc16d731687d793707e7bad7c3ccee.css" type="text/css">
   <link rel="stylesheet" href="/templates/rt_oculus/css-compiled/mediaqueries.css" type="text/css">
   <link rel="stylesheet" href="/templates/rt_oculus/css-compiled/thirdparty-k2.css" type="text/css">
-  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Playfair+Display&amp;subset=latin,latin-ext" type="text/css">
+  <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Playfair+Display&amp;subset=latin,latin-ext" type="text/css">
   <link rel="stylesheet" href="/modules/mod_sclogin/css/mod_sclogin.css" type="text/css">
   <style type="text/css">
  div#loabtnprevarticle{
@@ -73,9 +73,10 @@ h1, h2 { font-family: 'Playfair Display', 'Helvetica', arial, serif; }
   <script src="/media/jui/js/jquery.min.js" type="text/javascript"></script>
   <script src="/media/jui/js/jquery-noconflict.js" type="text/javascript"></script>
   <script src="/media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
+  <script src="/media/system/js/tabs-state.js" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
   <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
   <script src="/media/system/js/core.js" type="text/javascript"></script>
-  <script src="/media/system/js/tabs-state.js" type="text/javascript"></script>
   <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
   <script src="/plugins/system/rokbox/assets/js/rokbox.js" type="text/javascript"></script>
   <script src="/libraries/gantry/js/gantry-totop.js" type="text/javascript"></script>
@@ -86,77 +87,18 @@ h1, h2 { font-family: 'Playfair Display', 'Helvetica', arial, serif; }
   <script src="/modules/mod_roknavmenu/themes/default/js/responsive-selectbox.js" type="text/javascript"></script>
   <script src="/modules/mod_rokajaxsearch/js/rokajaxsearch.js" type="text/javascript"></script>
   <script type="text/javascript">
+jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});
 if (typeof RokBoxSettings == 'undefined') RokBoxSettings = {pc: '100'};
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+		__gaTracker('create', 'UA-15692723-1', 'auto');
+		__gaTracker('send', 'pageview');
+	
 
-
-dispatch
-	.to("Foundry/2.1 Bootstrap")
-	.at(function($, manifest) {
-
-		
-		$.rootPath    = 'http://raythereign.com/';
-		$.indexUrl    = 'http://raythereign.com/index.php';
-		$.path        = 'http://raythereign.com/media/foundry/2.1/';
-		$.scriptPath  = 'http://raythereign.com/media/foundry/2.1/scripts/';
-		$.environment = 'production';
-		$.joomlaVersion = 3.2;
-		$.locale = {
-			lang: 'en-GB'
-		};
-
-		// Make sure core plugins are installed first
-		dispatch("Foundry/2.1")
-			.containing($)
-			.onlyTo("Foundry/2.1 Core Plugins");
-	});
-
-
-/*<![CDATA[*/ 
-dispatch("Foundry/2.1").to(function($, manifest) {
-
-	$.Component(
-		'Komento',
-		{
-			baseUrl: 'http://raythereign.com/index.php?option=com_komento&lang=none&Itemid=171',
-			environment: 'production',
-			version: '1.6.3883',
-			jversion: '3.2',
-			spinner: 'http://raythereign.com/media/com_komento/images/loader.gif',
-			view: 'article',
-			config: {"enable_komento":"1","disable_komento_on_tmpl_component":"1","allowed_categories_mode":"2","allowed_categories":["2","11","12","13","14","15","17","18","44","47"],"enable_orphanitem_convert":"1","orphanitem_ownership":"0","enable_login_form":"1","login_provider":"joomla","enable_moderation":"0","requires_moderation":["8"],"subscription_auto":"1","subscription_confirmation":"0","enable_rss":"0","rss_max_items":"10","pagebreak_load":"last","antispam_akismet":"0","antispam_akismet_key":"","antispam_akismet_trackback":"0","antispam_flood_control":"1","antispam_flood_interval":"10","antispam_min_length_enable":"0","antispam_min_length":"10","antispam_max_length_enable":"0","antispam_max_length":"500","filter_word":"0","filter_word_text":"","antispam_captcha_enable":"0","antispam_captcha_type":"0","show_captcha":["1"],"antispam_recaptcha_ssl":"0","antispam_recaptcha_public_key":"","antispam_recaptcha_theme":"clean","antispam_recaptcha_lang":"en","layout_theme":"kuro","enable_responsive":"1","tabbed_comments":"1","max_threaded_level":"5","enable_threaded":"1","thread_indentation":"60","show_sort_buttons":"0","default_sort":"latest","load_previous":"0","max_comments_per_page":"10","layout_template_override":"1","layout_component_override":"1","layout_inherit_kuro_css":"1","layout_css_admin":"kmt-comment-item-admin","layout_css_author":"kmt-comment-item-author","layout_css_registered":"kmt-comment-item-registered","layout_css_public":"kmt-comment-item-public","enable_lapsed_time":"1","layout_avatar_enable":"1","enable_guest_link":"1","enable_permalink":"0","enable_share":"1","enable_likes":"1","enable_reply":"1","enable_report":"1","enable_location":"1","enable_info":"1","enable_syntax_highlighting":"1","enable_id":"0","enable_reply_reference":"1","enable_rank_bar":"1","name_type":"username","guest_label":"0","auto_hyperlink":"1","links_nofollow":"0","datetime_permalink":"0","date_format":"l, M j Y g:i:sa","allow_video":"1","bbcode_video_width":"350","bbcode_video_height":"350","max_image_width":"300","max_image_height":"300","layout_frontpage_comment":"1","layout_frontpage_readmore":"1","layout_frontpage_readmore_use_joomla":"0","layout_frontpage_hits":"1","layout_frontpage_alignment":"right","layout_frontpage_preview":"1","preview_count":"10","preview_sort":"latest","preview_sticked_only":"0","preview_parent_only":"1","preview_comment_length":"300","form_editor":"bbcode","form_position":"0","form_toggle_button":"1","autohide_form_notification":"1","scroll_to_comment":"1","show_location":"1","enable_bbcode":"1","enable_subscription":"1","show_tnc":["1"],"tnc_text":"Before submitting the comment, you agree that:\r\n\r\na. To accept full responsibility for the comment that you submit.\r\nb. To use this function only for lawful purposes.\r\nc. Not to post defamatory, abusive, offensive, racist, sexist, threatening, vulgar, obscene, hateful or otherwise inappropriate comments, or to post comments which will constitute a criminal offense or give rise to civil liability.\r\nd. Not to post or make available any material which is protected by copyright, trade mark or other proprietary right without the express permission of the owner of the copyright, trade mark or any other proprietary right.\r\ne. To evaluate for yourself the accuracy of any opinion, advice or other content.","show_name":"1","show_email":"1","show_website":"1","require_name":"1","require_email":"0","require_website":"0","enable_email_regex":"1","email_regex":["%5CS%2B%40%5CS%2B"],"enable_website_regex":"1","website_regex":["%28http%3A%2F%2F%7Cftp%3A%2F%2F%7Cwww%29%5CS%2B"],"bbcode_bold":"1","bbcode_italic":"1","bbcode_underline":"1","bbcode_link":"1","bbcode_picture":"1","bbcode_video":"1","bbcode_bulletlist":"1","bbcode_numericlist":"1","bbcode_bullet":"1","bbcode_quote":"1","bbcode_code":"1","bbcode_clean":"1","bbcode_smile":"1","bbcode_happy":"1","bbcode_surprised":"1","bbcode_tongue":"1","bbcode_unhappy":"1","bbcode_wink":"1","smileycode":[],"smileypath":[],"layout_avatar_integration":"gravatar","use_komento_profile":"1","gravatar_default_avatar":"mm","layout_phpbb_path":"","layout_phpbb_url":"","share_facebook":"0","share_twitter":"0","share_googleplus":"0","share_linkedin":"0","share_tumblr":"0","share_digg":"0","share_delicious":"0","share_reddit":"0","share_stumbleupon":"0","enable_conversation_bar":"1","conversation_bar_include_guest":"0","conversation_bar_max_authors":"10","enable_stickies":"0","max_stickies":"5","enable_lovies":"0","minimum_likes_lovies":"0","max_lovies":"5","syntaxhighlighter_theme":"default","notification_sendmailonpageload":"1","notification_sendmailinhtml":"1","notification_enable":"0","notification_event_new_comment":"0","notification_event_new_reply":"0","notification_event_new_pending":"1","notification_event_reported_comment":"1","notification_to_admins":"1","notification_to_author":"1","notification_to_subscribers":"0","notification_to_usergroup_comment":["2"],"notification_to_usergroup_reply":["2"],"notification_to_usergroup_pending":["8"],"notification_to_usergroup_reported":["8"],"activities_comment":"1","activities_reply":"1","activities_like":"1","jomsocial_enable_comment":"0","jomsocial_enable_reply":"0","jomsocial_enable_like":"0","jomsocial_comment_length":"250","jomsocial_enable_userpoints":"0","enable_aup":"0","enable_discuss_points":"0","enable_discuss_log":"0","upload_enable":"0","upload_path":"","attachment_layout":"icon","upload_allowed_extension":"bmp,csv,doc,gif,ico,jpg,jpeg,odg,odp,ods,odt,pdf,png,ppt,rar,txt,xcf,xls,zip","upload_max_size":"2","upload_max_file":"3","upload_image_preview":"1","upload_image_fancybox":"1","upload_image_overlay":"1","trigger_method":"component","target":"com_content","tnc":""},
-			konfig: {"profile_tab_comments":"1","profile_tab_activities":"0","profile_tab_popular":"0","profile_tab_sticked":"0","profile_activities_comments":"1","profile_activities_replies":"1","profile_activities_likes":"1","name_type":"username","layout_avatar_integration":"gravatar","layout_phpbb_path":"","layout_phpbb_url":"","enable_schema":"1","database_clearcaptchaonpageload":"0","enable_inline_reply":"1","enable_ajax_permalink":"1","enable_ajax_load_list":"0","enable_ajax_load_stickies":"1","enforce_live_stickies":"1","enable_ajax_load_lovies":"1","enforce_live_lovies":"1","enable_shorten_link":"1","parent_preload":"0","enable_live_notification":"0","live_notification_interval":"60","enable_js_form_validation":"1","enable_live_form_validation":"1","enable_admin_mode":"0","enable_warning_messages":"1","enable_language_fallback":"1","disable_mailq":"0","foundry_environment":"production","komento_environment":"production"},
-			acl: {"read_comment":true,"read_stickies":true,"read_lovies":true,"add_comment":false,"like_comment":true,"report_comment":false,"share_comment":false,"reply_comment":false,"upload_attachment":false,"download_attachment":false,"edit_own_comment":false,"delete_own_comment":false,"delete_own_attachment":false,"author_edit_comment":false,"author_delete_comment":false,"author_publish_comment":false,"author_unpublish_comment":false,"author_stick_comment":false,"author_delete_attachment":false,"edit_all_comment":false,"delete_all_comment":false,"publish_all_comment":false,"unpublish_all_comment":false,"stick_all_comment":false,"delete_all_attachment":false},
-			guest: 1,
-			optimizeResources: true,
-			resourceCollectionInterval: 1000,
-			resourcePath: 'http://raythereign.com/index.php?option=com_komento&lang=none&Itemid=171&tmpl=component&no_html=1&controller=foundry&task=getResource&kmtcomponent=com_content',			ajax: {
-				data: {
-					"e1f0953efbd07d44d98d1c33698e0bde" : 1
-				}
-			},
-			element: {}
-		},
-		function(self)
-		{
-			if(Komento.environment == "development") {
-				try {
-					console.info('Komento component is now ready');
-				} catch(err) {}
-			}
-
-			if(Komento.options.config.enable_responsive == 1) {
-				Komento.require().library('responsive').done(function($){
-					$('#section-kmt').responsive({at: 818, switchTo: 'w768'});
-					$('#section-kmt').responsive({at: 600, switchTo: 'w600'});
-					$('#section-kmt').responsive({at: 400, switchTo: 'w320'});
-				});
-			}
-		}
-	);
-});
- /*]]>*/ 
-if (typeof RokBoxSettings == 'undefined') RokBoxSettings = {pc: '100'};
-if (typeof RokMediaQueries !== 'undefined') window.addEvent('domready', function(){ RokMediaQueries._fireEvent(RokMediaQueries.getQuery()); });
 
 
 window.addEvent((window.webkit) ? 'load' : 'domready', function() {
@@ -257,7 +199,7 @@ window.addEvent((window.webkit) ? 'load' : 'domready', function() {
         </div>
         
 
-    <input type="hidden" name="option" value="com_users"><input type="hidden" name="task" value="user.login"><input type="hidden" name="return" value="aHR0cDovL3JheXRoZXJlaWduLmNvbS9pbmRleC5waHAvZmFxL3ByaXZhY3ktc3RhdGVtZW50"><input type="hidden" name="414a238f4a414105ac5dfdf6b24ab7a2" value="1">
+    <input type="hidden" name="option" value="com_users"><input type="hidden" name="task" value="user.login"><input type="hidden" name="return" value="aHR0cDovL3JheXRoZXJlaWduLmNvbS9pbmRleC5waHAvZmFxL3ByaXZhY3ktc3RhdGVtZW50"><input type="hidden" name="b2effd02f83959ca368a91bbf8b198ba" value="1">
     </fieldset>
 </form>
 </div>
@@ -301,7 +243,7 @@ window.addEvent((window.webkit) ? 'load' : 'domready', function() {
                             <ul class="l2">
                                                                                                                     <li class="item138 parent">
 
-            <a class="item" href="/index.php/stories-manga/stories">
+            <a class="item" href="javascript:void(0);">
 
                                 Stories                                <span class="border-fixer"></span>
                             </a>
@@ -461,11 +403,11 @@ window.addEvent((window.webkit) ? 'load' : 'domready', function() {
 
 
                     </li>
-                                                                                                                                                                <li class="item143">
+                                                                                                                                                                <li class="item273">
 
-            <a class="item" href="/index.php/stories-manga/stories/g-o/the-lightless">
+            <a class="item" href="/index.php/stories-manga/stories/g-o/ghost-hong-kong-triad">
 
-                                The Lightless                            </a>
+                                Ghost: Hong Kong Triad                            </a>
 
 
                     </li>
@@ -474,6 +416,14 @@ window.addEvent((window.webkit) ? 'load' : 'domready', function() {
             <a class="item" href="/index.php/stories-manga/stories/g-o/the-hunt">
 
                                 The Hunt                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item143">
+
+            <a class="item" href="/index.php/stories-manga/stories/g-o/the-lightless">
+
+                                The Lightless                            </a>
 
 
                     </li>
@@ -641,7 +591,7 @@ window.addEvent((window.webkit) ? 'load' : 'domready', function() {
 	        		<form name="rokajaxsearch" id="rokajaxsearch" class="blue" action="http://raythereign.com/" method="get">
 <div class="rokajaxsearch fp-rokajaxsearch hidden-phone">
 	<div class="roksearch-wrapper">
-		<input id="roksearch_search_str" name="searchword" type="text" class="inputbox" placeholder="Search...">
+		<input id="roksearch_search_str" name="searchword" type="text" class="inputbox roksearch_search_str" placeholder="Search...">
 	</div>
 	<input type="hidden" name="searchphrase" value="any">
 	<input type="hidden" name="limit" value="20">
@@ -703,11 +653,11 @@ window.addEvent((window.webkit) ? 'load' : 'domready', function() {
  <!--
  var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
  var path = 'hr' + 'ef' + '=';
- var addy47888 = 'r&#97;yth&#101;r&#101;&#105;gn' + '&#64;';
- addy47888 = addy47888 + 'gm&#97;&#105;l' + '&#46;' + 'c&#111;m';
- var addy_text47888 = 'r&#97;yth&#101;r&#101;&#105;gn' + '&#64;' + 'gm&#97;&#105;l' + '&#46;' + 'c&#111;m';
- document.write('<a ' + path + '\'' + prefix + ':' + addy47888 + '\'>');
- document.write(addy_text47888);
+ var addy87526 = 'r&#97;yth&#101;r&#101;&#105;gn' + '&#64;';
+ addy87526 = addy87526 + 'gm&#97;&#105;l' + '&#46;' + 'c&#111;m';
+ var addy_text87526 = 'r&#97;yth&#101;r&#101;&#105;gn' + '&#64;' + 'gm&#97;&#105;l' + '&#46;' + 'c&#111;m';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy87526 + '\'>');
+ document.write(addy_text87526);
  document.write('<\/a>');
  //-->\n </script><a href="mailto:raythereign@gmail.com">raythereign@gmail.com</a><script type="text/javascript">
  <!--
@@ -725,7 +675,9 @@ window.addEvent((window.webkit) ? 'load' : 'domready', function() {
 <p><span style="font-family: times new roman,times; font-size: 12pt;">Raythe Reign is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer systems with limited access that are located in controlled facilities. When we transmit highly confidential information (such as a credit card number) over the Internet, we use a secure payment gateway so your information is protected.</span></p>
 <h3 style="visibility: visible;"><span style="font-family: times new roman,times; font-size: 12pt;">Changes to this Statement</span></h3>
 <p><span style="font-family: times new roman,times; font-size: 12pt;">Raythe Reign will occasionally update this Statement of Privacy to reflect company and customer feedback. If there are material changes to this Statement or in how Raythe Reign will use your personal information, Raythe Reign will prominently post such changes prior to implementing the change. Raythe Reign encourages you to periodically review this Statement to be informed of how Raythe Reign is protecting your information.</span></p>
-<p>&nbsp;</p> 		
+<p>&nbsp;</p> 
+		
+
 	</article>
 
 
@@ -763,13 +715,13 @@ window.addEvent((window.webkit) ? 'load' : 'domready', function() {
 								<div class="clear"></div>
 							</div>
 																					<div id="rt-copyright">
-								<div class="rt-grid-6 rt-alpha">
+								<div class="rt-grid-8 rt-alpha">
     	<div class="clear"></div>
 	<div class="rt-block">
 		Copyright © 2013 Raythe Reign	</div>
 	
 </div>
-<div class="rt-grid-6 rt-omega">
+<div class="rt-grid-4 rt-omega">
     	<div class="clear"></div>
 	<div class="rt-block">
 		<a href="#" id="gantry-totop" rel="nofollow">Top</a>
@@ -782,7 +734,7 @@ window.addEvent((window.webkit) ? 'load' : 'domready', function() {
 						</div>
 					</footer>
 									</div>
-											</div>
+																			</div>
 		</div>
 			</div>
 
