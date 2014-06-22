@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reachoo.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221005953id_/http%3A//www.reachoo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reachoo.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622030343id_/http%3A//www.reachoo.com/privacy) for the most accurate reproduction.*
 
 # Reachoo.com. Free classifieds for cars, apartments, jobs, dating, for sale! - Privacy
 
