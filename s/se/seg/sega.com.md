@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sega.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217233057id_/http%3A//sega.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sega.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622204402id_/http%3A//www.sega.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -33,11 +33,14 @@ www.sega.com
 blogs.sega.com  
 forums.sega.com  
 forums.totalwar.com  
-olympicvideogames.com/mario-and-sonic-winter  
 bayonetta.com  
-olympicvideogames.com/vancouver2010  
 phantasystaruniverse.com  
-www.totalwar.com
+www.totalwar.com  
+www.companyofheroes.com  
+www.dawnofwar.com  
+community.companyofheroes.com  
+www.creative-assembly.com  
+www.sigames.com
 
 In addition, SEGA may own several other domain names that point to the websites listed above. From time to time, we may add new websites and will take reasonable steps to update the list. Please note that this Privacy Policy applies only to information submitted and collected by SEGA online through the websites listed above, and does not apply to information that may be collected by SEGA offline. In addition, this Privacy Policy applies to SEGA only, and not to websites maintained by our international affiliates or by other companies or organizations to which we link. When you link to these websites or to any other sites from a website operated by SEGA (as listed above), this Privacy Policy no longer applies. SEGA is therefore not responsible for the content or activities provided on such sites.
 
