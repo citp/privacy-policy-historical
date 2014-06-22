@@ -1,0 +1,696 @@
+<!--The following is the downloaded HTML source of the grasscity.com privacy policy that was archived on 2014-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140622222508id_/http%3A//www.grasscity.com/us_en/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns:fb="http://www.facebook.com/2008/fbml" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript" async="" src="https://cdn.ywxi.net/js/1.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="//staticw2.yotpo.com/QvyKdIYGxFLZGZtXyT4lH8aosganVDjxarcO6FAK/widget.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgMEUl9bGwAIV1dUBQY="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+<title>Privacy Policy - Grasscity.com</title>
+<meta name="description" content="Bongs, waterpipes, glass pipes, smoking accessories">
+<meta name="keywords" content="Bongs, waterpipes, glass pipes, glass pipe bong, herb grinders, grasscity, headshop, rolling accessories, smoking accessorries, water pipes, rolling papers, rolling paper, herbal highs, smartshop, color changing glass">
+<meta name="robots" content="INDEX,FOLLOW">
+<link rel="icon" href="http://st.grscty.com/skin/frontend/enterprise/grasscity/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="http://st.grscty.com/skin/frontend/enterprise/grasscity/favicon.ico" type="image/x-icon">
+<!--[if lt IE 7]>
+<script type="text/javascript">
+//<![CDATA[
+    var BLANK_URL = 'http://st.grscty.com/js/blank.html';
+    var BLANK_IMG = 'http://st.grscty.com/js/spacer.gif';
+//]]>
+</script>
+<![endif]-->
+<!--[if lt IE 8]>
+<link rel="stylesheet" type="text/css" href="http://st.grscty.com/media/po_compressor/4/css/merged_handles/5098c2288e910d5e90259aa953914d6f/if/a595c2e6c4c7d8e883a2a4dcb70d0cd3.css"/>
+<![endif]-->
+<link rel="stylesheet" media="print" type="text/css" href="http://st.grscty.com/media/po_compressor/4/css/merged_handles/5098c2288e910d5e90259aa953914d6f/params/4dd4ddad1fcc9a9e21c8105803d8c687.css">
+<link rel="stylesheet" media="all" type="text/css" href="http://st.grscty.com/media/po_compressor/4/css/merged_handles/5098c2288e910d5e90259aa953914d6f/params/b5d57e7b9d2a4c1bf6807aa12beb4d2b.css">
+<link href="http://www.grasscity.com/us_en/rss/catalog/new/store_id/4/" title="New Products" rel="alternate" type="application/rss+xml">
+<link href="http://www.grasscity.com/us_en/rss/catalog/special/store_id/4/cid/0/" title="Special Products" rel="alternate" type="application/rss+xml">
+<link href="http://www.grasscity.com/us_en/rss/catalog/salesrule/store_id/4/cid/0/" title="Coupons/Discounts" rel="alternate" type="application/rss+xml">
+<!--[if lt IE 7]>
+<script type="text/javascript" src="http://st.grscty.com/media/po_compressor/4/js/prepared/common/if/b137cb3e1add7823406f3076309f314d.js"></script>
+<![endif]-->
+<script type="text/javascript" src="http://st.grscty.com/media/po_compressor/4/js/prepared/common/common/2b3e7e25a377b6190dfd8e8f8209e4e5.js"></script>
+<script type="text/javascript" src="http://st.grscty.com/media/po_compressor/4/js/prepared/default/common/c56caf1933fbfc9189350dadaa2c15c8.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+Mage.Cookies.path     = '/';
+Mage.Cookies.domain   = '.grasscity.com';
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+optionalZipCountries = [];
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+var ips = new IPS(jQuery, {"url":"http:\/\/api-eu1.predictiveintent.com\/ips","code":"grasscity","cred":"grasscity","id":"164","permid":"personalmerchant","referrer_code":""});
+jQuery(document).ready(function($) {
+ips.handleReferringSearch("refer", {"lang":"4"});
+ips.handleNotification("browse", {"data":"PAGE:6","cname":"Privacy Policy","suggestible":"N","contentType":"cmspage","cbtt":null,"lang":"4","contentOrigin":"magento-store"});
+});
+//]]>
+</script><script type="text/javascript">
+(function e(){var e=document.createElement("script");e.type="text/javascript",e.async=true,e.src="//staticw2.yotpo.com/QvyKdIYGxFLZGZtXyT4lH8aosganVDjxarcO6FAK/widget.js";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})();
+</script><script type="text/javascript">//<![CDATA[
+        var Translator = new Translate([]);
+        //]]></script><script language="javascript" type="text/javascript"> 
+var sliJsHost = (("https:" == document.location.protocol) ? "https://" : "http://"); 
+document.write(unescape('%3Clink rel="stylesheet" type="text/css" href="' + sliJsHost + 'assets.resultspage.com/js/rac/sli-rac.0.4.css" /%3E')); 
+document.write(unescape('%3Clink rel="stylesheet" type="text/css" href="' + sliJsHost + 'grasscity.resultslist.com/rac/sli-rac.css?rev=100160" /%3E')); 
+</script><link rel="stylesheet" type="text/css" href="https://assets.resultspage.com/js/rac/sli-rac.0.4.css"><link rel="stylesheet" type="text/css" href="https://grasscity.resultslist.com/rac/sli-rac.css?rev=100160">
+
+<meta name="google-site-verification" content="wdcInaVWOB3AYYHZ5OiMUnZpKwn08GxWlooRXfeU2-M">
+
+
+
+<script type="text/javascript">
+var clicky_site_ids = clicky_site_ids || [];
+clicky_site_ids.push(100678819);
+(function() {
+  var s = document.createElement('script');
+  s.type = 'text/javascript';
+  s.async = true;
+  s.src = '//static.getclicky.com/js';
+  ( document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0] ).appendChild( s );
+})();
+</script><script type="text/javascript" async="" src="//static.getclicky.com/js"></script><script type="text/javascript" async="" src="https://upfront.thefind.com/scripts/main/utils-init-ajaxlib/upfront-badgeinit.js">thefind.upfront.init('tf_upfront_badge', '1bd595c6ff389d4f97c1a50387a240f1')</script></head>
+<body class=" cms-page-view cms-privacy-policy">
+<!-- BEGIN GOOGLE ANALYTICS CODEs -->
+<script type="text/javascript">
+//<![CDATA[
+    var _gaq = _gaq || [];
+    
+_gaq.push(['_setAccount', 'UA-119910-1']);
+_gaq.push(['_trackPageview']);
+    
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+//]]>
+</script>
+<!-- END GOOGLE ANALYTICS CODE -->
+<div class="wrapper">
+        <noscript>
+        <div class="global-site-notice noscript">
+            <div class="notice-inner">
+                <p>
+                    <strong>JavaScript seems to be disabled in your browser.</strong><br />
+                    You must have JavaScript enabled in your browser to utilize the functionality of this website.                </p>
+            </div>
+        </div>
+    </noscript>
+    
+    <div class="page">
+        <div class="main col2-right-layout">
+            <div class="col-right sidebar">
+				<div class="top-right-block">
+					<div class="block block-cart">
+        <div class="block-title">
+        <strong><span>My Cart</span></strong>
+    </div>
+    <div class="block-content">
+            <div class="summary">
+                            <p class="amount">There are <a href="http://www.grasscity.com/us_en/checkout/cart/">441 items</a> in your cart.</p>
+                        <p class="subtotal">
+                                    <span class="label">Cart Subtotal:</span> <span class="price">CA$33,598.96</span>                                                </p>
+        </div>
+            <div class="actions">
+                <button type="button" title="Checkout" class="button" onclick="setLocation('https://www.grasscity.com/us_en/checkout/onepage/')"><span><span>Checkout</span></span></button>
+    </div>
+                    <p class="block-subtitle">Recently added item(s)</p>
+        <ol id="cart-sidebar" class="mini-products-list">
+                    <li class="item">
+            <a href="http://www.grasscity.com/us_en/cannaline-glass-stash-jar-top-strains-chocolope.html" title="Cannaline Glass Stash Jar - Top Strains - Chocolope" class="product-image"><img src="http://st.grscty.com/media/catalog/product/cache/4/thumbnail/50x/9df78eab33525d08d6e5fb8d27136e95/9/0/90ml-chocolope-w.jpg" alt="Cannaline Glass Stash Jar - Top Strains - Chocolope"></a>
+    
+    <div class="product-details">
+        <p class="product-name">
+                            <a href="http://www.grasscity.com/us_en/cannaline-glass-stash-jar-top-strains-chocolope.html">Cannaline Glass Stash Jar - Top Strains - Chocolope</a>
+                    </p>
+        <table cellpadding="0">
+
+        
+                    <tbody><tr>
+                            <th>Price</th>
+                                        <td><span class="price">CA$10.53</span></td>
+                        </tr>
+
+                    
+
+
+        
+                    <tr>
+                <th>Qty</th>
+                <td>1</td>
+            </tr>
+        </tbody></table>
+                        <a href="http://www.grasscity.com/us_en/checkout/cart/configure/id/448078/" title="Edit item" class="btn-edit">Edit item</a>
+        |
+                <a href="http://www.grasscity.com/us_en/checkout/cart/delete/id/448078/uenc/aHR0cDovL3d3dy5ncmFzc2NpdHkuY29tL3VzX2VuL3ByaXZhY3ktcG9saWN5Lw,,/" onclick="return confirm('Are you sure you would like to remove this item from the shopping cart?');" title="Remove item" class="btn-remove">Remove item</a>
+    </div>
+</li>
+                    <li class="item">
+            <a href="http://www.grasscity.com/us_en/black-leaf-saxo-glass-bubbler-recessed-joint-two-shower-percs.html" title="Black Leaf - Saxo Glass Bubbler - Recessed Joint - Two Shower Percs" class="product-image"><img src="http://st.grscty.com/media/catalog/product/cache/4/thumbnail/50x/9df78eab33525d08d6e5fb8d27136e95/u/s/us_454.jpg" alt="Black Leaf - Saxo Glass Bubbler - Recessed Joint - Two Shower Percs"></a>
+    
+    <div class="product-details">
+        <p class="product-name">
+                            <a href="http://www.grasscity.com/us_en/black-leaf-saxo-glass-bubbler-recessed-joint-two-shower-percs.html">Black Leaf - Saxo Glass Bubbler - Recessed Joint - Two Shower Percs</a>
+                    </p>
+        <table cellpadding="0">
+
+        
+                    <tbody><tr>
+                            <th>Price</th>
+                                        <td><span class="price">CA$165.08</span></td>
+                        </tr>
+
+                    
+
+
+        
+                    <tr>
+                <th>Qty</th>
+                <td>1</td>
+            </tr>
+        </tbody></table>
+                        <a href="http://www.grasscity.com/us_en/checkout/cart/configure/id/448075/" title="Edit item" class="btn-edit">Edit item</a>
+        |
+                <a href="http://www.grasscity.com/us_en/checkout/cart/delete/id/448075/uenc/aHR0cDovL3d3dy5ncmFzc2NpdHkuY29tL3VzX2VuL3ByaXZhY3ktcG9saWN5Lw,,/" onclick="return confirm('Are you sure you would like to remove this item from the shopping cart?');" title="Remove item" class="btn-remove">Remove item</a>
+    </div>
+</li>
+                    <li class="item">
+            <a href="http://www.grasscity.com/us_en/black-leaf-saxo-glass-bubbler-recessed-joint-shower-perc.html" title="Black Leaf - Saxo Glass Bubbler - Recessed Joint - Shower Perc" class="product-image"><img src="http://st.grscty.com/media/catalog/product/cache/4/thumbnail/50x/9df78eab33525d08d6e5fb8d27136e95/u/s/us_444.jpg" alt="Black Leaf - Saxo Glass Bubbler - Recessed Joint - Shower Perc"></a>
+    
+    <div class="product-details">
+        <p class="product-name">
+                            <a href="http://www.grasscity.com/us_en/black-leaf-saxo-glass-bubbler-recessed-joint-shower-perc.html">Black Leaf - Saxo Glass Bubbler - Recessed Joint - Shower Perc</a>
+                    </p>
+        <table cellpadding="0">
+
+        
+                    <tbody><tr>
+                            <th>Price</th>
+                                        <td><span class="price">CA$109.68</span></td>
+                        </tr>
+
+                    
+
+
+        
+                    <tr>
+                <th>Qty</th>
+                <td>1</td>
+            </tr>
+        </tbody></table>
+                        <a href="http://www.grasscity.com/us_en/checkout/cart/configure/id/448074/" title="Edit item" class="btn-edit">Edit item</a>
+        |
+                <a href="http://www.grasscity.com/us_en/checkout/cart/delete/id/448074/uenc/aHR0cDovL3d3dy5ncmFzc2NpdHkuY29tL3VzX2VuL3ByaXZhY3ktcG9saWN5Lw,,/" onclick="return confirm('Are you sure you would like to remove this item from the shopping cart?');" title="Remove item" class="btn-remove">Remove item</a>
+    </div>
+</li>
+                    <li class="item">
+            <a href="http://www.grasscity.com/us_en/black-leaf-saxo-glass-bubbler-recessed-joint-8-arm-tree-perc.html" title="Black Leaf - Saxo Glass Bubbler - Recessed Joint - 8-arm Perc" class="product-image"><img src="http://st.grscty.com/media/catalog/product/cache/4/thumbnail/50x/9df78eab33525d08d6e5fb8d27136e95/u/s/us_443.jpg" alt="Black Leaf - Saxo Glass Bubbler - Recessed Joint - 8-arm Perc"></a>
+    
+    <div class="product-details">
+        <p class="product-name">
+                            <a href="http://www.grasscity.com/us_en/black-leaf-saxo-glass-bubbler-recessed-joint-8-arm-tree-perc.html">Black Leaf - Saxo Glass Bubbler - Recessed Joint - 8-arm Perc</a>
+                    </p>
+        <table cellpadding="0">
+
+        
+                    <tbody><tr>
+                            <th>Price</th>
+                                        <td><span class="price">CA$127.41</span></td>
+                        </tr>
+
+                    
+
+
+        
+                    <tr>
+                <th>Qty</th>
+                <td>1</td>
+            </tr>
+        </tbody></table>
+                        <a href="http://www.grasscity.com/us_en/checkout/cart/configure/id/448072/" title="Edit item" class="btn-edit">Edit item</a>
+        |
+                <a href="http://www.grasscity.com/us_en/checkout/cart/delete/id/448072/uenc/aHR0cDovL3d3dy5ncmFzc2NpdHkuY29tL3VzX2VuL3ByaXZhY3ktcG9saWN5Lw,,/" onclick="return confirm('Are you sure you would like to remove this item from the shopping cart?');" title="Remove item" class="btn-remove">Remove item</a>
+    </div>
+</li>
+                    <li class="item">
+            <a href="http://www.grasscity.com/us_en/bulldog-amsterdam-kids-centre-chest-pink.html" title="The Bulldog Amsterdam - Bulldog Logo Kids' T-shirt - Pink" class="product-image"><img src="http://st.grscty.com/media/catalog/product/cache/4/thumbnail/50x/9df78eab33525d08d6e5fb8d27136e95/bdkidtpink.jpg" alt="The Bulldog Amsterdam - Bulldog Logo Kids' T-shirt - Pink"></a>
+    
+    <div class="product-details">
+        <p class="product-name">
+                            <a href="http://www.grasscity.com/us_en/bulldog-amsterdam-kids-centre-chest-pink.html">The Bulldog Amsterdam - Bulldog Logo Kids' T-shirt - Pink</a>
+                    </p>
+        <table cellpadding="0">
+
+        
+                    <tbody><tr>
+                            <th>Price</th>
+                                        <td><span class="price">CA$13.29</span></td>
+                        </tr>
+
+                    
+
+
+        
+                    <tr>
+                <th>Qty</th>
+                <td>1</td>
+            </tr>
+        </tbody></table>
+                        <a href="http://www.grasscity.com/us_en/checkout/cart/configure/id/448071/" title="Edit item" class="btn-edit">Edit item</a>
+        |
+                <a href="http://www.grasscity.com/us_en/checkout/cart/delete/id/448071/uenc/aHR0cDovL3d3dy5ncmFzc2NpdHkuY29tL3VzX2VuL3ByaXZhY3ktcG9saWN5Lw,,/" onclick="return confirm('Are you sure you would like to remove this item from the shopping cart?');" title="Remove item" class="btn-remove">Remove item</a>
+    </div>
+</li>
+                </ol>
+        <script type="text/javascript">decorateList('cart-sidebar', 'none-recursive')</script>
+        </div>
+</div>
+				</div>
+				<div class="right-panel">
+					<div class="panel-top"></div>
+					<div class="block block-list block-viewed">
+    <div class="block-title">
+        <strong><span>Recently Viewed Products</span></strong>
+    </div>
+    <div class="block-content">
+        <ol id="recently-viewed-items">
+                    <li class="item">
+                <p class="product-name"><a href="http://www.grasscity.com/us_en/meshugga-clear-and-frosted-glass-bubble-o-bong.html">Meshugga - Clear and Frosted Glass Bubble-O Bong</a></p>
+            </li>
+                    <li class="item">
+                <p class="product-name"><a href="http://www.grasscity.com/us_en/meshugga-clear-and-frosted-glass-easy-rider-cylinder-bong.html">Meshugga - Clear and Frosted Glass Easy Rider Bong</a></p>
+            </li>
+                    <li class="item">
+                <p class="product-name"><a href="http://www.grasscity.com/us_en/meshugga-clear-and-frosted-glass-cool-rider-cylinder-ice-bong.html">Meshugga - Clear and Frosted Glass Cool Rider Ice Bong</a></p>
+            </li>
+                    <li class="item">
+                <p class="product-name"><a href="http://www.grasscity.com/us_en/meshugga-clear-and-frosted-glass-blow-off-bong.html">Meshugga - Clear and Frosted Glass Blow-Off Bong</a></p>
+            </li>
+                    <li class="item">
+                <p class="product-name"><a href="http://www.grasscity.com/us_en/meshugga-clear-and-frosted-glass-flashover-bong.html">Meshugga - Clear and Frosted Glass Flashover Bong</a></p>
+            </li>
+                </ol>
+        <script type="text/javascript">decorateList('recently-viewed-items');</script>
+    </div>
+</div>
+<div class="block block-compare">
+    <div class="block-title">
+    <strong><span>
+                    Compare            </span></strong>
+    </div>
+    <div class="block-content">
+            <p>You have no items to compare.</p>
+        </div>
+</div>
+    <div class="block block-subscribe">
+    <div class="block-title">
+        <strong><span>Newsletter</span></strong>
+    </div>
+
+    <form action="https://www.grasscity.com/us_en/newsletter/subscriber/new/" method="post" id="newsletter-validate-detail">
+        <div class="form-subscribe">
+                        <label for="newsletter">Sign up for our newsletter:</label>
+            <div class="v-fix"><input name="email" type="text" id="newsletter" value="your email address here..." onclick="this.value=='your email address here...'?this.value='':''" onblur="this.value==''?this.value='your email address here...':''" class="input-text required-entry validate-email"></div>
+             <button type="submit" class="button" title="Subscribe"><span><span>Sign up for newsletter</span></span></button>
+        </div>
+    </form>
+<script type="text/javascript">
+//<![CDATA[
+    var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail');
+//]]>
+</script>
+    </div><div class="block block-tags">
+    <div class="block-title">
+                    <strong><span>Popular Tags</span></strong>
+            </div>
+    <div class="block-content">
+        <ul class="tags-list">
+                            <li><a rel="nofollow" href="http://www.grasscity.com/us_en/tag/product/list/tagId/2151/" style="font-size:75%;">18.8</a></li>
+                            <li><a rel="nofollow" href="http://www.grasscity.com/us_en/tag/product/list/tagId/760/" style="font-size:85.980392156863%;">Leaf</a></li>
+                            <li><a rel="nofollow" href="http://www.grasscity.com/us_en/tag/product/list/tagId/2096/" style="font-size:79.117647058824%;">Precooler</a></li>
+                            <li><a rel="nofollow" href="http://www.grasscity.com/us_en/tag/product/list/tagId/968/" style="font-size:76.372549019608%;">amazing</a></li>
+                            <li><a rel="nofollow" href="http://www.grasscity.com/us_en/tag/product/list/tagId/654/" style="font-size:75%;">big</a></li>
+                            <li><a rel="nofollow" href="http://www.grasscity.com/us_en/tag/product/list/tagId/3572/" style="font-size:105.19607843137%;">bowl</a></li>
+                            <li><a rel="nofollow" href="http://www.grasscity.com/us_en/tag/product/list/tagId/670/" style="font-size:75%;">catcher</a></li>
+                            <li><a rel="nofollow" href="http://www.grasscity.com/us_en/tag/product/list/tagId/1203/" style="font-size:75%;">cheap</a></li>
+                            <li><a rel="nofollow" href="http://www.grasscity.com/us_en/tag/product/list/tagId/482/" style="font-size:145%;">glass</a></li>
+                            <li><a rel="nofollow" href="http://www.grasscity.com/us_en/tag/product/list/tagId/669/" style="font-size:88.725490196078%;">ice</a></li>
+                            <li><a rel="nofollow" href="http://www.grasscity.com/us_en/tag/product/list/tagId/655/" style="font-size:79.117647058824%;">joint</a></li>
+                            <li><a rel="nofollow" href="http://www.grasscity.com/us_en/tag/product/list/tagId/2759/" style="font-size:77.745098039216%;">perc</a></li>
+                            <li><a rel="nofollow" href="http://www.grasscity.com/us_en/tag/product/list/tagId/1581/" style="font-size:75%;">percolator</a></li>
+                            <li><a rel="nofollow" href="http://www.grasscity.com/us_en/tag/product/list/tagId/402/" style="font-size:129.90196078431%;">pipe</a></li>
+                            <li><a rel="nofollow" href="http://www.grasscity.com/us_en/tag/product/list/tagId/1005/" style="font-size:83.235294117647%;">pipes</a></li>
+                            <li><a rel="nofollow" href="http://www.grasscity.com/us_en/tag/product/list/tagId/2/" style="font-size:75%;">roller</a></li>
+                            <li><a rel="nofollow" href="http://www.grasscity.com/us_en/tag/product/list/tagId/1142/" style="font-size:75%;">screen</a></li>
+                            <li><a rel="nofollow" href="http://www.grasscity.com/us_en/tag/product/list/tagId/1116/" style="font-size:76.372549019608%;">smoke</a></li>
+                            <li><a rel="nofollow" href="http://www.grasscity.com/us_en/tag/product/list/tagId/1003/" style="font-size:81.862745098039%;">stealth</a></li>
+                            <li><a rel="nofollow" href="http://www.grasscity.com/us_en/tag/product/list/tagId/4162/" style="font-size:75%;">thick</a></li>
+                    </ul>
+        <div class="actions">
+            <a rel="nofollow" href="http://www.grasscity.com/us_en/tag/list/">View All Tags</a>
+        </div>
+    </div>
+</div>
+					
+				</div>
+													<a rel="nofollow" href="http://www.grasscity.com/us_en/rss/" class="link-rss">Subscribe to RSS Feeds</a>
+							</div>
+            
+<div class="breadcrumbs">
+    <strong>You're currently on:</strong>
+    <ul>
+                    <li class="home" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+                            <a itemprop="url" href="http://www.grasscity.com/us_en/" title="Go to Home Page"><span itemprop="title">Home</span></a>
+                                        <span> &gt;&nbsp;</span>
+                        </li>
+                    <li class="cms_page" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+                            <strong itemprop="title">Privacy Policy</strong>
+                                    </li>
+            </ul>
+</div>
+            <div class="col-main">
+                                <div class="std"><div class="page-head">
+<div title="Page 1">
+<div>
+<div>
+<p style="text-align: center;"><span style="font-size: 13pt; font-weight: 700;"><span style="font-family: arial, helvetica, sans-serif;">Privacy Policy - Grasscity.com </span></span></p>
+</div>
+</div>
+<div>
+<div>
+<p><span style="font-family: arial, helvetica, sans-serif;"><span style="font-size: 10pt;">Grasscity takes your privacy very seriously and treats all personal information with great care. In order to guarantee your privacy Grasscity always acts in accordance with the Data Protection Act. This document sets out Grasscity’s Privacy Policy. Grasscity therefore recommends that you read this Privacy Policy carefully. The capitalized words are defined in the </span><span style="font-size: 10pt; color: #0000ff;">End User License Agreement </span><span style="font-size: 10pt;">and the </span><span style="font-size: 10pt; color: #0000ff;">General Terms</span><span style="font-size: 10pt;">.</span></span></p>
+<p><span style="font-family: arial, helvetica, sans-serif;"><span style="font-size: 10pt;">The Privacy Policy can be downloaded and printed <a title="Grasscity Privacy Policy" href="https://grasscity.zendesk.com/attachments/token/hwallsoe92bkkec/?name=Privacy+Policy+Grasscity.pdf" target="_blank">here</a>.<strong><br></strong></span></span></p>
+<p><span style="font-size: 10pt; font-weight: 700;"><span style="font-family: arial, helvetica, sans-serif;">1. Who is Grasscity? </span></span></p>
+<p><span style="font-size: 10pt;"><span style="font-family: arial, helvetica, sans-serif;">SJV B.V. (“Grasscity Shop”) and SJV 2 B.V. (“Grasscity Forums”) are companies with limited liability established and existing under the laws of The Netherlands, having their registered office in (1042AC) Amsterdam, the Netherlands, at Gyroscoopweg 64, registered with the Chamber of Commerce under number 55042503 and 34115983. Both companies shall hereinafter jointly be referred to as “Grasscity”. </span></span></p>
+<p><span style="font-family: arial, helvetica, sans-serif;"><span style="font-size: 10pt;">Grasscity offers an online headshop through the Website </span><span style="font-size: 10pt; color: #0000ff;">www.grasscity.com </span><span style="font-size: 10pt;">and a forum through the website forum.grasscity.com and the application "Grasscity Community". Through the Website you can order products of Grasscity. The Community may be used to discuss the products of Grasscity and the use thereof. </span></span></p>
+<p><span style="font-size: 10pt; font-weight: 700;"><span style="font-family: arial, helvetica, sans-serif;">2. What information does Grasscity collect and process? </span></span></p>
+<p><span style="font-size: 10pt;"><span style="font-family: arial, helvetica, sans-serif;">To purchase products on the Website or to read posts in the Community it is not necessary to register an Account. However, it is necessary for Grasscity to obtain certain information from you to process your purchase on the Website and to send the purchased products to you. Also, to be able to participate in the Community it is required that you register an Account. </span></span></p>
+<p><span style="font-size: 10pt;"><span style="font-family: arial, helvetica, sans-serif;">Required information </span></span></p>
+<p><span style="font-size: 10pt;"><span style="font-family: arial, helvetica, sans-serif;">In order to process your purchase and to send the purchased product to you, Grasscity requires you to provide the following information:</span></span></p>
+<ul>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Your full (first and last) name;</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Company name (optional);</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Email address;</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Address;</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Telephone number;</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Fax number (optional);</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Payment information.</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Account</span></li>
+</ul>
+</div>
+<p>&nbsp;</p>
+<div><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">To enjoy a tailored browsing and shopping experience and to participate in the Community you can register an Account on the Website or in the Application. In addition to the required information as listed above the registration process requires you to provide and confirm your password. Grasscity shall send an email to the provided email address to activate your Account. It is therefore imperative that you provide a valid email address.</span></div>
+<div><span style="font-size: 10pt;">In your Account you may add (additional) information about yourself. You may also sign up for the Grasscity newsletter and view various data, such as your wish list, downloadable products, invitations and reward points. With your Account you can also post Material in the Community. See the </span><span style="font-size: 10pt; color: #0000ff;"><a href="http://www.grasscity.com/us_en/privacy-policy/">End User License Agreement</a> </span><span style="font-size: 10pt;">for more information about posting Material.</span></div>
+<div><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Grasscity saves and processes all the supplied information. The information that is made public in the Account, such as Material and contact information, may be used by other Users of the Community. You can change the&nbsp;</span><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">information in your Account at any time in your Account, however Material can only be deleted within seven (7) days after it is made public. Photos can at any time be removed from the Community.</span></div>
+</div>
+</div>
+<div title="Page 2">
+<div>
+<div>
+<p><span style="font-size: 10pt;"><span style="font-family: arial, helvetica, sans-serif;">After termination of your Account Grasscity shall automatically make your Account inaccessible and remove your Account. Grasscity remains entitled to use your personal information and provided Material as described above insofar as is necessary for the continuance of the Website and Community. Grasscity will, however, upon your request after the 7 day period as mentioned above, anonymize your Material insofar as reasonably possible. </span></span></p>
+<p><span style="font-size: 10pt;"><span style="font-family: arial, helvetica, sans-serif;">Automatically generated data </span></span></p>
+<p><span style="font-size: 10pt;"><span style="font-family: arial, helvetica, sans-serif;">Grasscity requires certain information in order for the Website and the Community to work as optimally as possible (for example, to display the Website and the Community correctly and to keep the Website and the Community secure). That is why Grasscity collects automatically generated data about your use of the Website and the Community. In so far as Grasscity uses this information, the data is always anonymized. </span></span></p>
+<p><span style="font-size: 10pt; font-weight: 700;"><span style="font-family: arial, helvetica, sans-serif;">3. Cookies </span></span></p>
+<p><span style="font-size: 10pt;"><span style="font-family: arial, helvetica, sans-serif;">For the collection of (personal) data, Grasscity uses cookies. Cookies are small textfiles that are placed on the hard drive or in the memory of your computer or mobile device. The cookies that are stored through the Website and Community cannot harm your computer or mobile device, or any files that are saved on this equipment. </span></span></p>
+<p><span style="font-family: arial, helvetica, sans-serif;"><span style="font-size: 10pt;">Grasscity uses </span><span style="font-size: 10pt; font-style: italic;">functional </span><span style="font-size: 10pt;">cookies. These cookies are necessary to provide the services you request. For instance, </span><span style="font-size: 10pt; font-style: italic;">functional </span><span style="font-size: 10pt;">cookies allow you to proceed through different pages of a website with a single login and they remember selections in language choice, shopping carts and (order)forms that are filled out on the Website. </span></span></p>
+<p><span style="font-family: arial, helvetica, sans-serif;"><span style="font-size: 10pt;">Besides </span><span style="font-size: 10pt; font-style: italic;">functional </span><span style="font-size: 10pt;">cookies Grasscity uses cookies for the advertisements on the Websites. These cookies store data about your location. Grasscity uses this information to show you advertising particularly targeted at you. Also information is saved about your use of the Website to present you with offers specifically tailored to you on the basis of the products you view or purchase on the Website. </span></span></p>
+<p><span style="font-size: 10pt;"><span style="font-family: arial, helvetica, sans-serif;">Furthermore Grasscity uses Google Analytics to collect data on the usage of the Website and visits to the Website. Google Analytics stores a permanent cookie on your computer whisch is subsequently used to register your use of the Website. This data is then analyzed by Google and the results given to Grasscity. This enables Grasscity to get more insight in the way in which the Website is used and, based on this information, to make adjustments to the Website or the provided services. </span></span></p>
+<p><span style="font-size: 10pt;"><span style="font-family: arial, helvetica, sans-serif;">Google can give this information to third parties if it is legally obligated to do so and/or if third parties are processing the information on behalf of Google. Google can not use the information for other Google services. </span></span></p>
+<p><span style="font-size: 10pt; font-weight: 700;"><span style="font-family: arial, helvetica, sans-serif;">4. For what purposes will Grasscity use information about you? </span></span></p>
+<p><span style="font-size: 10pt;"><span style="font-family: arial, helvetica, sans-serif;">Grasscity may use your personal information for the following purposes:</span></span></p>
+<ul>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">To provide the Website and Community and to allow you to use the Website and Community;</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">To allow your Material to be viewed by other Users;</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">To allow you to purchase products of Grasscity through the Website, to communicate with you</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">regarding your purchase and to send your purchased products to you;</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">To process payments made by you;</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">To communicate with you about the Website, the Community, your Account, and to respond to any&nbsp;</span><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">complaints and/or questions;</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">To communicate with you about Grasscity and/or its products;</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">To configure the Website and Community to your wishes and needs;</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">To generate anonymous statistical data;</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">To protect, adjust and update the Website and the Community.</span></li>
+</ul>
+</div>
+</div>
+</div>
+<div title="Page 3">
+<div>
+<div>
+<p><span style="font-size: 10pt;"><span style="font-family: arial, helvetica, sans-serif;">Grasscity whishes to inform you on the developments of the Website and the Community, its promotions and other news. You can register for the newsletter in your Account. If you no longer wish to receive Grasscity’s newsletter, an opt-out option is provided in every email that Grasscity sends you. </span></span></p>
+<p><span style="font-size: 10pt;"><span style="font-family: arial, helvetica, sans-serif;">Use by third parties </span></span></p>
+<p><span style="font-size: 10pt;"><span style="font-family: arial, helvetica, sans-serif;">Grasscity may provide your personal data to third parties if this is necessary to perform the Services requested by you and/or for providing the Website and the Community. The transfer of your personal data may include transfer to payment providers and hosting providers of Grasscity. </span></span></p>
+<p><span style="font-size: 10pt;"><span style="font-family: arial, helvetica, sans-serif;">Grasscity may also provide your personal data to third parties if you have given explicit consent to do so and/or if the information cannot be traced to you (for instance automatically generated information, not being an IP- adres). Also, Grasscity may provide your personal data to third parties if Grasscity is obliged to do so on account of national or international laws, case law and/or regulations, if Grasscity considers it necessary to do so in defense of its own rights. Without your explicit consent Grasscity shall not provide your personal information to third parties for the purpose of direct marketing. </span></span></p>
+<p><span style="font-size: 10pt;"><span style="font-family: arial, helvetica, sans-serif;">The Website and/or the Community may contain hyperlinks which take you away from the Grasscity environment and to the website or application of a third party. Grasscity has no authority over the services and/or websites of third parties to which is linked on the Website and/or the Community. It therefore may be the case that for the use of those services and/or websites of third parties another privacy policy is applicable. This Privacy Policy is exclusively applicable to the personal data that is obtained trough the Website and the Community of Grasscity. Grasscity does not accept any responsibility or liability for the (use and/or content of the) services and/or websites of third parties. </span></span></p>
+<p><span style="font-size: 10pt;"><span style="font-family: arial, helvetica, sans-serif;">Delete cookies </span></span></p>
+<p><span style="font-size: 10pt;"><span style="font-family: arial, helvetica, sans-serif;">The consent you have given to store and read cookies, can be withdrawn at any time by setting your browser to disable cookies and/or to remove all cookies from your browser. Please consult the help-function of your browser to learn how you can delete cookies. Please take into account that deleting cookies may cause some parts of the Website and Community to work incorrectly. </span></span></p>
+<p><span style="font-size: 10pt;"><span style="font-family: arial, helvetica, sans-serif;">Note: refusing or deleting cookies only effects the computer and the browser on which you perform this action. If you use different computers and/or browsers you will need to repeat the above described actions on these computers and/or browsers. If you wish to use cookies, make sure you log-out of your Account when you leave a computer for public use. Also keep your password secret in order to prevent others form using your Account without your consent. </span></span></p>
+<p><span style="font-size: 10pt; font-weight: 700;"><span style="font-family: arial, helvetica, sans-serif;">5. How does Grasscity protect your personal information? </span></span></p>
+<p><span style="font-size: 10pt;"><span style="font-family: arial, helvetica, sans-serif;">Grasscity takes appropriate technical and organizational measures to protect your (personal) information against loss or any form of unlawful use. </span></span></p>
+<p><span style="font-size: 10pt; font-weight: 700;"><span style="font-family: arial, helvetica, sans-serif;">6. Viewing, changing and deleting your data </span></span></p>
+<p><span style="font-family: arial, helvetica, sans-serif;"><span style="font-size: 10pt;">If you wish to know what information Grasscity has collected about you or if you wish to change data that you cannot change yourself in your Account, then you can send a request for information on your personal data to: </span><span style="font-size: 10pt; color: #0000ff;">support@grasscity.com</span><span style="font-size: 10pt;">. Grasscity will respond to your request within four (4) weeks. If you then wish to correct, add, remove or screen your personal data, you may send another request thereto. Grasscity shall respond within four (4) weeks to such a request. If Grasscity decides to deny your request, it shall inform you on the grounds of this decision. </span></span></p>
+<p><span style="font-size: 10pt; font-weight: 700;"><span style="font-family: arial, helvetica, sans-serif;">7. Transfer of data to countries outside the EU </span></span></p>
+<p><span style="font-size: 10pt;"><span style="font-family: arial, helvetica, sans-serif;">For technical and operational reasons, it may be necessary for your (personal) data to be transferred to (the servers of) companies affiliated to Grasscity located in the United States or other countries outside of Europe. If this is to happen, the information contained in your Account will also be saved in a foreign country. Since </span></span></p>
+</div>
+</div>
+</div>
+<div title="Page 4">
+<div>
+<div>
+<p><span style="font-size: 10pt;"><span style="font-family: arial, helvetica, sans-serif;">legislation concerning data protection may then not offer the same protection as in the European Union, you hereby agree that your (personal) information can be transferred to the United States or another country outside of Europe. If Grasscity decides to transfer your data outside of Europe, you shall be informed thereof prior to the transfer. </span></span></p>
+<p><span style="font-size: 10pt; font-weight: 700;"><span style="font-family: arial, helvetica, sans-serif;">8. Can this Privacy Policy be changed? </span></span></p>
+<p><span style="font-size: 10pt;"><span style="font-family: arial, helvetica, sans-serif;">It is possible for the Privacy Policy to be amended in the future. That would then be mentioned on this page, in the Community and/or your Account. It is therefore recommended to regularly have a look at this page, the Community and your Account. </span></span></p>
+<p><span style="font-size: 10pt; font-weight: 700;"><span style="font-family: arial, helvetica, sans-serif;">9. Questions? </span></span></p>
+<p><span style="font-family: arial, helvetica, sans-serif;"><span style="font-size: 10pt;">If you have any questions, please do not hesitate to contact us </span><span style="font-size: 10pt; color: #0000ff;"><a href="http://support.grasscity.com" target="_blank">here&nbsp;</a></span></span></p>
+</div>
+</div>
+</div>
+</div>
+<div class="std">
+<ul class="termsofuse">
+</ul>
+</div></div>            </div>
+        </div>
+    </div>
+	<script type="text/javascript">
+
+function changeWebsite(code) {
+    $('wscode').value = code;
+    $('wsform').submit();
+}
+
+</script>
+<form method="post" action="http://www.grasscity.com/int_en/" id="wsform">
+    <input type="hidden" name="wscode" value="" id="wscode">
+</form>
+
+
+<div class="header-container">
+    <div class="header">
+                    <a href="http://www.grasscity.com/us_en/" title="Grasscity" class="logo"><strong>Grasscity</strong><img src="http://st.grscty.com/skin/frontend/enterprise/grasscity/images/GC_us.png" alt="Grasscity"></a>
+                <div class="secure-seal"><!-- McAfee Secure Trustmark for www.grasscity.com -->
+                <a target="_blank" href="https://www2.mcafeesecure.com/verify?host=www.grasscity.com"><img class="mfes-trustmark" width="70" height="32" border="0" src="http://cdn.ywxi.net/meter/www.grasscity.com/101.gif" title="McAfee Secure sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" alt="McAfee Secure sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;"></a>
+                <!-- End McAfee Secure Trustmark --></div>
+        <div class="header-panel">
+            <div class="panel-inner">
+            <!--search box starts here -->
+
+<form name="searchform" action="http://find.grasscity.com/search" method="get">
+      <div class="form-search">
+		<input type="hidden" name="view" value="grid">
+		<label for="search">Search site:</label><input type="text" name="w" value="" class="input-text" onfocus="this.value=''" id="sli_search_1" autocomplete="off">&nbsp;<button type="submit" title="Search" class="button"><span><span>Search</span></span></button><a href="http://www.grasscity.com/us_en/catalogsearch/advanced/">Advanced Search</a>
+		<div id="search_autocomplete" class="search-autocomplete"></div>
+	  </div>
+	</form>
+
+
+<!--search box ends here -->
+                <div class="welcome-msg" id="welcomeMsg">
+                    <span class="welcome"> </span>
+                    Welcome to <strong>Grasscity US Website</strong>
+                    (<span onclick="popUpMenu(this);" class="switcher">change</span>)
+                    <ul class="hide" id="popId-welcomeMsg">
+                                                                                                                                                                                <li><span class="current">Grasscity US Website</span></li>
+                                                                                                                                                                                                                                                                                                                                            <li><a rel="nofollow" href="http://www.grasscity.com/uk_en/privacy-policy/">Grasscity UK Website</a></li>
+                                                                                                                                                                                                                                                                                <li><a rel="nofollow" href="http://www.grasscity.com/eu_en/privacy-policy/">Grasscity Europe Website</a></li>
+                                                                                                                                                                                                        <li><a rel="nofollow" href="http://www.grasscity.com/int_en/privacy-policy/">Grasscity International Website</a></li>
+                                                                                                    </ul>
+                </div>
+                <ul class="links">
+            <li class="first"><a href="https://www.grasscity.com/us_en/customer/account/" title="My Account" rel="nofollow">My Account</a></li>
+            <li><a href="http://www.grasscity.com/us_en/" title="" rel="nofollow"></a></li>
+            <li><a href="http://www.grasscity.com/us_en/checkout/cart/" title="My Cart (441)" class="top-link-cart" rel="nofollow">My Cart (441)</a></li>
+            <li><a href="https://www.grasscity.com/us_en/checkout/" title="Checkout" class="top-link-checkout" rel="nofollow">Checkout</a></li>
+            <li class=" last"><a href="https://www.grasscity.com/us_en/customer/account/login/referer/aHR0cDovL3d3dy5ncmFzc2NpdHkuY29tL3VzX2VuL3ByaXZhY3ktcG9saWN5P19fX1NJRD1V/" title="Log In" rel="nofollow">Log In</a></li>
+    </ul>
+                <div class="switchers">
+                    
+                    <div class="currency-switcher" id="currencySelect">
+						<span class="current currency-CAD">
+				Canadian Dollar - CAD	            
+			</span>
+							
+
+	&nbsp;(<span onclick="popUpMenu(this);" class="switcher">change</span>)
+	<ul class="hide" id="popId-currencySelect">
+        				            <li class="current currency-CAD">
+	                Canadian Dollar - CAD	            </li>
+					
+        					
+                			        				            <li class="currency-USD">
+	                <a rel="nofollow" href="http://www.grasscity.com/us_en/directory/currency/switch/uenc/aHR0cDovL3d3dy5ncmFzc2NpdHkuY29tL3VzX2VuL3ByaXZhY3ktcG9saWN5/currency/USD">US Dollar - USD</a>
+	            </li>
+			        	</ul>	
+</div>
+                </div>
+            </div>
+        </div>
+
+        <ul class="header-tabs">
+            <li class="active"><a href="http://www.grasscity.com/us_en/"><span class="tab-shop">Grasscity Shop</span></a></li>
+            <li><a href="http://forum.grasscity.com/"><span class="tab-forum">Grasscity Community</span></a></li> 
+            <li><a rel="nofollow" href="http://affiliates.grasscity.com/"><span class="tab-affilliates">Affilliates</span></a></li>
+            <li><a rel="nofollow" href="http://support.grasscity.com/login?return_to=https%3A//support.grasscity.com/home"><span class="tab-support">Support</span></a></li>
+        </ul>
+    </div>
+<div class="nav-container"><div class="nav-container">
+    <ul id="nav">
+        <li class="level0 nav-1 level-top first">
+<a href="http://www.grasscity.com/us_en/smoking-pipes" class="level-top">
+<span>Smoking Pipes</span>
+</a>
+</li><li class="level0 nav-2 level-top">
+<a href="http://www.grasscity.com/us_en/vaporizers" class="level-top">
+<span>Vaporizers</span>
+</a>
+</li><li class="level0 nav-3 level-top">
+<a href="http://www.grasscity.com/us_en/rolling-accessories-rolling-papers-rolling-systems" class="level-top">
+<span>Rolling Accessories</span>
+</a>
+</li><li class="level0 nav-4 level-top">
+<a href="http://www.grasscity.com/us_en/smoking-accessories" class="level-top">
+<span>Smoking Accessories</span>
+</a>
+</li><li class="level0 nav-5 level-top">
+<a href="http://www.grasscity.com/us_en/420-lifestyle" class="level-top">
+<span>420 Lifestyle Apparel </span>
+</a>
+</li><li class="level0 nav-6 level-top">
+<a href="http://www.grasscity.com/us_en/brands" class="level-top">
+<span>Brands</span>
+</a>
+</li><li class="level0 nav-7 level-top">
+<a href="http://www.grasscity.com/us_en/new-items" class="level-top">
+<span>New Items</span>
+</a>
+</li><li class="level0 nav-8 level-top">
+<a href="http://www.grasscity.com/us_en/grasscity-gifts-vouchers-giftcards-memberships-gift-sets-sale-items" class="level-top">
+<span>Gifts</span>
+</a>
+</li><li class="level0 nav-9 level-top last">
+<a href="http://www.grasscity.com/us_en/sale-clearance-overstock-grasscity-items" class="level-top">
+<span>OUTLET</span>
+</a>
+</li>    </ul>
+</div>
+</div>
+
+</div>
+                <div class="footer-container">
+    <div class="footer">
+        <div class="left">
+            <address>
+                    <a href="http://www.grasscity.com/us_en/">grasscity.com</a>
+                                        © 2014 Grasscity.com. All Rights Reserved.            </address>
+            <p class="magento-copyright">
+
+            </p>
+        </div>
+        <div class="links-container">
+            <div class="links-column">
+<h3>Site links</h3>
+<ul>
+<li><a title="Grasscity Community" href="http://forum.grasscity.com" target="_blank">Grasscity Forum</a></li>
+<li><a title="Site Map" href="http://www.grasscity.com/us_en/catalog/seo_sitemap/category/">Site Map</a></li>
+<li><a title="Search Terms" href="http://www.grasscity.com/us_en/catalogsearch/term/popular/" rel="nofollow">Search Terms</a></li>
+<li><a title="Advanced Search" href="http://find.grasscity.com" rel="nofollow">Advanced Search</a></li>
+<li><a title="Follow us on Twitter" href="http://www.twitter.com/grasscity">Follow us on Twitter</a></li>
+<li><a href="http://www.tjoos.com/Coupon/28849/Grasscity.com" rel="nofollow" target="_blank">Grasscity.com Coupons on tjoos.com</a></li>
+<li><a class="tf_upfront_badge" style="text-decoration: none;" title="TheFind Upfront" href="http://www.thefind.com/store/about-grasscity"><strong>Grasscity.com</strong> is <span style="text-decoration: underline;">Upfront</span></a>
+<script type="text/javascript">// <![CDATA[
+    (function() {
+      var upfront = document.createElement('SCRIPT'); upfront.type = "text/javascript"; upfront.async = true;
+      upfront.src = document.location.protocol + "//upfront.thefind.com/scripts/main/utils-init-ajaxlib/upfront-badgeinit.js";
+      upfront.text = "thefind.upfront.init('tf_upfront_badge', '1bd595c6ff389d4f97c1a50387a240f1')";
+      document.getElementsByTagName('HEAD')[0].appendChild(upfront);
+    })();
+  
+// ]]></script>
+</li>
+<li><a class="link-feed" title="RSS" href="http://www.grasscity.com/us_en/rss/" rel="nofollow">RSS</a></li>
+</ul>
+</div>
+<div class="links-column">
+<h3>My account</h3>
+<ul>
+<li><a href="https://www.grasscity.com/us_en/customer/account/edit/" rel="nofollow">My user data</a></li>
+<li><a href="https://www.grasscity.com/us_en/customer/address/" rel="nofollow">My addresses</a></li>
+<li><a href="https://www.grasscity.com/us_en/sales/order/history/" rel="nofollow">My orders</a></li>
+<li><a href="https://www.grasscity.com/us_en/wishlist/" rel="nofollow">My wishlist</a></li>
+</ul>
+</div>
+<div class="links-column">
+<h3>Support</h3>
+<ul>
+<li><a href="http://support.grasscity.com/" rel="nofollow">Get online support</a></li>
+<li><a href="http://support.grasscity.com/forums/19857/entries" rel="nofollow">FAQ</a></li>
+<li><a href="http://www.grasscity.com/us_en/reviews/" rel="nofollow">Reviews</a></li>
+</ul>
+</div>
+<div class="links-column">
+<h3>Important</h3>
+<ul>
+<li><a href="http://support.grasscity.com/requests/anonymous/new" rel="nofollow">Contact Us</a></li>
+<li><a href="http://support.grasscity.com/forums/19857/entries/11914" rel="nofollow">Packaging</a></li>
+<li><a href="http://support.grasscity.com/forums/19857/entries/11760" rel="nofollow">Payment methods &amp; Security</a></li>
+</ul>
+</div>
+<div class="links-column">
+<h3>Read this</h3>
+<ul>
+<li><a href="http://www.grasscity.com/us_en/about-grasscity/">About us</a></li>
+<li><a href="http://www.grasscity.com/us_en/terms-conditions/" rel="nofollow">Terms and Conditions</a></li>
+<li><a href="http://www.grasscity.com/us_en/privacy-policy/" rel="nofollow">Privacy Policy</a></li>
+</ul>
+</div>
+<div class="AgeWarning" title="You must be 19 years or older to use this website.">You must be 19 years or older to use this website.</div>        </div>
+        <p class="security-seal">
+            <script type="text/javascript" src="https://seal.thawte.com/getthawteseal?host_name=www.grasscity.com&amp;size=M&amp;lang=en"></script>
+                        <a target="_new" class="seal-about" href="http://www.thawte.com/digital-certificates/">About SSL Certificates</a>
+        </p>
+            </div>
+</div>        </div>
+<script type="text/javascript">
+  (function() {
+    var sa = document.createElement('script'); sa.type = 'text/javascript'; sa.async = true;
+    sa.src = ('https:' == document.location.protocol ? 'https://cdn' : 'http://cdn') + '.ywxi.net/js/1.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sa, s);
+  })();
+
+</script><script language="javascript" type="text/javascript">
+    var currency = 'CAD';
+    var site = 'us_en';
+    var sliJsHost = (("https:" == document.location.protocol) ? "https://" : "http://");
+    document.write(unescape('%3Cscript src="' + sliJsHost + 'grasscity.resultslist.com/rac/sli-rac.config.js?rev=100160" type="text/javascript"%3E%3C/script%3E'));
+</script><script src="https://grasscity.resultslist.com/rac/sli-rac.config.js?rev=100160" type="text/javascript"></script>
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-3.newrelic.com","licenseKey":"bc3bb22837","applicationID":"3836627","transactionName":"ZlQGZ0tWXBBXU0xeCl8eJVBNXl0NGVNVREpBUANWFkFbBkE=","queueTime":0,"applicationTime":4409,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
+
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
