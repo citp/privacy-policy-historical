@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the coupondunia.in privacy policy that was archived on 2013-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130715001830id_/http%3A//www.coupondunia.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coupondunia.in privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622172049id_/http%3A//www.coupondunia.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy & Opt Out
 
 **What information do we collect?**
 
@@ -47,6 +47,14 @@ Occasionally, at our discretion, we may include or offer third party products or
  **Childrens Online Privacy Protection Act Compliance**
 
 We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+**Use of Site Browsing History**
+
+By using website CouponDunia.in, you consent to collection, storage, and use of your browsing history on this website. We share this information with trusted 3rd parties that use it to show you marketing communications of interest only. While no **Personally Identifiable Information** is shared, we respect your right to privacy hence this transparent disclosure. In addition, we respect your right to **opt out.** If you want to opt out from this program, please click on the link below and select the appropriate option on the destination page – 
+
+[Opt Out Page](http://www.adobe.com/in/privacy/opt-out.html?button=Opt-Out).
+
+In addition, most setup your browser software to reject 3rd party cookies. In addition, you can opt out of several similar programs by visiting the [Network Advertising Initiative](http://www.networkadvertising.org/choices/) gateway opt-out site.
 
  **Your Consent**
 
