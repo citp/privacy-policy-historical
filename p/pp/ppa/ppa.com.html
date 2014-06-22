@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ppa.com privacy policy that was archived on 2013-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131221031704id_/http%3A//www.ppa.com/content.cfm%3FItemNumber%3D1670) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ppa.com privacy policy that was archived on 2014-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140622033843id_/http%3A//www.ppa.com/content.cfm%3FItemNumber%3D1670) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="js csstransitions"><head>
 <meta http-equiv="X-UA-Compatible" content="IE=edge;chrome=1">
@@ -83,6 +83,17 @@ More info available at http://www.omniture.com -->
 <script language="JavaScript" type="text/javascript"><!--
 /* You may give each page an identifying name, server, and channel on
 the next lines. */
+if(window.location.pathname.indexOf('/clientapps/squareone/') >= 0){
+s.pageName="Square One, Assessment Tool: Finance";
+s.server="www.ppa.com";
+s.channel="benchmark"; // based on MetaData
+s.pageType="Custom App";
+s.prop1=":squareone"; // Sub Section 2 (Secondary Nav)
+s.prop2=":squareone:"; // Sub Section 3 (Tertiary Nav)
+s.prop3=":squareone:"; // Sub Section 4
+s.prop4="custom app"; // Content Type (CT)
+s.prop5="Square One"; // Content Title (Resource Name)
+}else{
 s.pageName=":ppa privacy policy";
 s.server="www.ppa.com";
 s.channel=""; // based on MetaData
@@ -92,6 +103,7 @@ s.prop2="::"; // Sub Section 3 (Tertiary Nav)
 s.prop3="::"; // Sub Section 4
 s.prop4="general content"; // Content Type (CT)
 s.prop5="PPA Privacy Policy"; // Content Title (Resource Name)
+}
 s.prop6="1670" // Content ID (ItemNumber)
 s.PrevPage = s.getPreviousValue(s.pageName, "prevPage");
 if(s.pageName == "404 error page") {
@@ -106,13 +118,30 @@ s.eVar21='not logged in';
 $(document).ready(function() {
 $('a').click(function(event) {
 var url = $(this).attr('href');
+var base_url = url.split("?")[0]; //need to remove query string
+var ext_3 = base_url.substring(base_url.length-4, base_url.length);
+var ext_4 = base_url.substring(base_url.length-5, base_url.length);
 var b = 'www.ppa.com';
+var social_media = ['facebook.com/OurPPA',
+'twitter.com/ourppa/',
+'linkedin.com/groups?gid=93379',
+'youtube.com/user/OurPPA',
+'pinterest.com/source/ppa.com/',
+'google.com/108952971875687633090'];
+var social_media_link = false;
+var social_media_name = '';
+for (var i = 0; i < social_media.length; i++) {
+if(url.indexOf(social_media[i]) > 0){
+social_media_link = true;
+social_media_name = social_media[i].split(".")[0];
+}
+}
 console.log(url);
 // ToDo: check to see if this is a local URL or not.
 var s = s_gi(s_account); // ToDo: swap out 'rsid' for PPA's unique report suite ID
 if(url.charAt(0) == '/' || url.substring(0, 7 + b.length) == 'http:/'+'/' + b || url.substring(0, 8+b.length) == 'https:/'+'/'+b) {
 // local URL
-if(url.substring(url.length-4, url.length) == '.php' || url.substring(url.length-4, url.length) == '.cfm' || url.substring(url.length-5, url.length) == '.aspx') {
+if(ext_3 == '.php' || ext_3 == '.cfm' || ext_4 == '.aspx') {
 // Code file
 } else {
 // download file
@@ -122,6 +151,15 @@ s.events='event7';
 s.eVar19=url;
 s.tl(this,'d','Download');
 }
+} else if(social_media_link === true){ //social media click
+console.log(social_media_name);
+s.linkTrackVars='eVar19,eVar20,events';
+s.linkTrackEvents='event8';
+//s.eVarX='<club>:' + s.propX;
+s.events='event8';
+s.eVar19 = url;
+s.eVar20 = social_media_name;
+s.tl(this,'e','social media exit');
 } else {
 s.linkTrackVars='eVar19,events';
 s.linkTrackEvents='event8';
@@ -137,7 +175,7 @@ var s=s_gi(s_account);
 s.linkTrackVars='events,list1';
 s.linkTrackEvents='event12';
 s.events='event12';
-s.list1=o.srcElement.id;
+s.list1=$(this).attr('id');
 s.tl(this,'o','Ad Mouse-Over');
 });
 $('.rdcms_ad_image').click(function(o) {
@@ -145,24 +183,22 @@ var s=s_gi(s_account);
 s.linkTrackVars='events,list1';
 s.linkTrackEvents='event11';
 s.events='event11';
-s.list1=o.srcElement.id;
+s.list1=$(this).attr('id');
 s.tl(this,'o','Ad Click');
 });
 $('.rdcms_ad_image').each(function(i, o) {
 s.events=s.apl(s.events,'event10',',',2);
 });
-$('Form:not(.ppa_form)').submit(function(i, o) {
-var b = 'http:/'+'/www.ppa.com';
-if(o.action != b + '/search/search.cfm'
-&& o.action != b + '/account/login.cfm') {
+$('Form').submit(function(o) {
+var form_action = $(this).attr('action').replace(/^.*\/\/[^\/]+/, '');
+if(form_action != '/search/search.cfm' && form_action != '/account/login.cfm') {
 s.events = 'event5';
 s.eVar22 = o.name;
 }
 });
-$('Form:not(.ppa_form)').each(function(i, o) {
-var b = 'http:/'+'/www.ppa.com';
-if(o.action != b + '/search/search.cfm'
-&& o.action != b + '/account/login.cfm') {
+$('Form').each(function(i, o) {
+var form_action = o.action.replace(/^.*\/\/[^\/]+/, '');
+if(form_action != '/search/search.cfm' && form_action != '/account/login.cfm') {
 s.events = s.apl(s.events,'event4',',',2);
 s.eVar22 = o.name;
 }
@@ -227,7 +263,7 @@ document.write('<link rel="stylesheet" href="/files/style/menus_SEN_Safari.css" 
 
 <ul id="header-utility">
 <li>
-<a href="/membership/content.cfm?ItemNumber=1620" target="">Join</a>
+<a href="http://www.ppa.com/membership/content.cfm?ItemNumber=1620&amp;RDtoken=23027&amp;userID=" target="">Join</a>
 </li>
 <li class="no-mobile">
 <a href="/content.cfm?ItemNumber=1782" target="">Help</a>
@@ -266,17 +302,17 @@ document.write('<link rel="stylesheet" href="/files/style/menus_SEN_Safari.css" 
 
 
 <h2 id="header-message" class="typeface-b">
-<a href="http://imagingusa.org/registration">
-There's still time to register for Imaging USA!
+<a href="https://www.ppa.com/membership/content.cfm?ItemNumber=1596&amp;navItemNumber=2248">
+Indemn Trust : When things go wrong
 </a>
 </h2>
 <div id="header-social">
-<a class="social-icon fb" href="http://www.facebook.com/OurPPA" target="_blank">PPA on Facebook</a>
-<a class="social-icon tw" href="https://twitter.com/ourppa/" target="_blank">PPA on Twitter</a>
-<a class="social-icon lin" href="http://www.linkedin.com/groups?gid=93379&amp;mostPopular=&amp;trk=tyah" target="_blank">PPA on LinkedIn</a>
-<a class="social-icon yt" href="http://www.youtube.com/user/OurPPA" target="_blank">PPA on YouTube</a>
-<a class="social-icon pin" href="http://pinterest.com/source/ppa.com/" target="_blank">PPA on Pinterest</a>
-<a class="social-icon gplus" href="https://plus.google.com/108952971875687633090" rel="“publisher&quot;" target="_blank">PPA on Google Plus</a>
+<a class="social-icon fb" name="facebook" href="http://www.facebook.com/OurPPA" target="_blank">PPA on Facebook</a>
+<a class="social-icon tw" name="twitter" href="https://twitter.com/ourppa/" target="_blank">PPA on Twitter</a>
+<a class="social-icon lin" name="linkedin" href="http://www.linkedin.com/groups?gid=93379&amp;mostPopular=&amp;trk=tyah" target="_blank">PPA on LinkedIn</a>
+<a class="social-icon yt" name="youtube" href="http://www.youtube.com/user/OurPPA" target="_blank">PPA on YouTube</a>
+<a class="social-icon pin" name="pinterest" href="http://pinterest.com/source/ppa.com/" target="_blank">PPA on Pinterest</a>
+<a class="social-icon gplus" name="googleplus" href="https://plus.google.com/108952971875687633090" rel="“publisher&quot;" target="_blank">PPA on Google Plus</a>
 </div><!-- /header-social -->
 </div><!-- /header-bounds --></div><!-- /header --></header>
 <nav role="navigation"><div id="nav" class="clear">
@@ -313,13 +349,16 @@ There's still time to register for Imaging USA!
 <li>
 <a href="/membership/content.cfm?ItemNumber=1547&amp;navItemNumber=506" target="">See the Difference<div style="float:right">&gt;<p></p></div></a>
 <ul><li>
-<a href="/membership/content.cfm?ItemNumber=2251&amp;navItemNumber=2252" target="">See the Difference Resources</a>
+<a href="http://www.ppa.com/about/content.cfm?ItemNumber=2251&amp;navItemNumber=2252" target="">See the Difference Resources</a>
 </li></ul>
 </li>
 <li>
-<a href="/membership/content.cfm?ItemNumber=1578&amp;navItemNumber=509" target="">Benchmark<div style="float:right">&gt;<p></p></div></a>
+<a href="/benchmark/?navItemNumber=509" target="">Benchmark<div style="float:right">&gt;<p></p></div></a>
 <ul><li>
-<a href="/membership/content.cfm?ItemNumber=1684&amp;navItemNumber=2239" target="">Benchmark Resources</a>
+<a href="/benchmark/?navItemNumber=509&amp;navItemNumber=6028" target="">Get Started</a>
+</li>
+<li>
+<a href="/benchmark/content.cfm?ItemNumber=1684&amp;navItemNumber=2239" target="">Benchmark Resources</a>
 </li></ul>
 </li>
 <li>
@@ -331,7 +370,7 @@ There's still time to register for Imaging USA!
 <a href="/membership/content.cfm?ItemNumber=1595&amp;navItemNumber=2320" target="">Merits &amp; Degrees</a>
 </li>
 <li>
-<a href="/edu/content.cfm?ItemNumber=1674&amp;navItemNumber=2228&amp;navItemNumber=2321" target="">PPA's Studio Management Services</a>
+<a href="/edu/content.cfm?ItemNumber=1674&amp;navItemNumber=2228&amp;navItemNumber=2321" target="">Business Consulting</a>
 </li></ul>
 </li>
 <li>
@@ -375,7 +414,28 @@ There's still time to register for Imaging USA!
 </li></ul>
 </li>
 <li>
-<a href="/clientapps/degrees/" target="">Degrees</a>
+<a href="/degrees/index.cfm?navItemNumber=4847" target="">Degrees</a>
+<ul><li>
+<a href="/degrees/content.cfm?ItemNumber=5906&amp;navItemNumber=6056" target="">What Are Degrees?</a>
+</li>
+<li>
+<a href="/degrees/content.cfm?ItemNumber=5904&amp;navItemNumber=6057" target="">Why Earn A Degree?</a>
+</li>
+<li>
+<a href="/degrees/content.cfm?ItemNumber=5912&amp;navItemNumber=6058" target="">How Do I Get A Degree?</a>
+</li>
+<li>
+<a href="/degrees/content.cfm?ItemNumber=5923&amp;navItemNumber=6059" target="">What Are Merits?</a>
+</li>
+<li>
+<a href="/degrees/content.cfm?ItemNumber=5932&amp;navItemNumber=6060" target="">Degree Resources</a>
+</li>
+<li>
+<a href="/degrees/content.cfm?ItemNumber=5913&amp;navItemNumber=6061" target="">Degree FAQs</a>
+</li>
+<li>
+<a href="/degrees/content.cfm?ItemNumber=5991&amp;navItemNumber=6062" target="">What Degree Holders Say</a>
+</li></ul>
 </li>
 <li>
 <a href="/cpp?navItemNumber=4314" target="">Certification</a>
@@ -394,7 +454,7 @@ There's still time to register for Imaging USA!
 <a href="http://www.ppa.com/cpp/content.cfm?ItemNumber=4166&amp;navItemNumber=4319" target="">What Motivated Photographers to Get Their CPP?</a>
 </li>
 <li>
-<a href="http://www.ppa.com/why-cpp" target="">Why Hire a CPP?</a>
+<a href="/cpp/content.cfm?ItemNumber=4381" target="">Why Hire a CPP?</a>
 </li>
 <li>
 <a href="http://www.ppa.com/cpp/content.cfm?ItemNumber=4115&amp;navItemNumber=4426" target="">Latest CPP's</a>
@@ -431,6 +491,9 @@ There's still time to register for Imaging USA!
 </li>
 <li>
 <a href="http://www.ppa.com/cpp/content.cfm?ItemNumber=4140&amp;navItemNumber=4325#seethediff&amp;navItemNumber=5006" target="">See The Difference</a>
+</li>
+<li>
+<a href="http://www.ppa.com/cpp/content.cfm?ItemNumber=5612&amp;navItemNumber=5613" target="">CPP Branded Apparel</a>
 </li></ul>
 </li>
 <li>
@@ -488,7 +551,7 @@ There's still time to register for Imaging USA!
 </li></ul>
 </li>
 <li>
-<a href="http://www.ppa.com/edu/workshops.cfm?navItemNumber=3773" target="">SMS Business Workshops<div style="float:right">&gt;<p></p></div></a>
+<a href="http://www.ppa.com/edu/workshops.cfm?navItemNumber=3773" target="">Business Workshops<div style="float:right">&gt;<p></p></div></a>
 <ul><li>
 <a href="http://www.ppa.com/edu/workshops.cfm#businessworkshops" target="">Business Basics</a>
 </li>
@@ -497,7 +560,7 @@ There's still time to register for Imaging USA!
 </li></ul>
 </li>
 <li>
-<a href="http://www.ppa.com/edu/content.cfm?ItemNumber=1674&amp;navItemNumber=3779" target="">Studio Management Services<div style="float:right">&gt;<p></p></div></a>
+<a href="http://www.ppa.com/edu/content.cfm?ItemNumber=1674&amp;navItemNumber=3779" target="">Business Consulting<div style="float:right">&gt;<p></p></div></a>
 <ul><li>
 <a href="http://www.ppa.com/edu/consultations.cfm?navItemNumber=3780" target="">Consultations</a>
 </li>
@@ -508,7 +571,7 @@ There's still time to register for Imaging USA!
 <a href="http://www.ppa.com/edu/content.cfm?ItemNumber=1683&amp;navItemNumber=3782" target="">Testimonials</a>
 </li>
 <li>
-<a href="http://www.ppa.com/edu/content.cfm?ItemNumber=3750&amp;navItemNumber=3783" target="">SMS Resources</a>
+<a href="http://www.ppa.com/edu/content.cfm?ItemNumber=3750&amp;navItemNumber=3783" target="">Business Resources</a>
 </li></ul>
 </li>
 <li>
@@ -528,15 +591,15 @@ There's still time to register for Imaging USA!
 </li>
 <li>
 <a href="http://www.ppa.com/calendar.cfm?navItemNumber=3766" target="">Calendar: Classes &amp; Workshops</a>
-</li>
-<li>
-<a href="http://www.ppa.com/about/AskSMS.cfm?navItemNumber=4051" target="">Ask SMS</a>
 </li></ul>
 </li>
 <li>
-<a href="http://theloop.ppa.com?navItemNumber=504" target="_blank">theLoop</a>
+<a href="http://www.ppa.com/about/content.cfm?ItemNumber=5385&amp;navItemNumber=504" target="">Networking</a>
 <ul><li>
 <a href="/community/forums/?navItemNumber=2832" target="">Our PPA Forum</a>
+</li>
+<li>
+<a href="http://theloop.ppa.com/home?navItemNumber=5472" target="_blank">theLoop</a>
 </li>
 <li>
 <a href="https://www.facebook.com/OurPPA" target="_blank">Facebook</a>
@@ -593,15 +656,12 @@ There's still time to register for Imaging USA!
 <a href="/about/content.cfm?ItemNumber=1695&amp;navItemNumber=2296" target="">PPA Awards</a>
 </li>
 <li>
-<a href="/about/content.cfm?ItemNumber=2748&amp;navItemNumber=2330" target="">PPA Allies<div style="float:right">&gt;<p></p></div></a>
+<a href="/about/content.cfm?ItemNumber=2748&amp;navItemNumber=2330" target="">Affiliates &amp; Charities<div style="float:right">&gt;<p></p></div></a>
 <ul><li>
 <a href="/theloop/content.cfm?ItemNumber=1697&amp;navItemNumber=2344" target="">PPA Affiliates</a>
 </li>
 <li>
 <a href="http://www.ppa.com/membership/content.cfm?ItemNumber=1700&amp;navItemNumber=514&amp;navItemNumber=3179" target="">Affiliate Resources</a>
-</li>
-<li>
-<a href="/theloop/content.cfm?ItemNumber=3413&amp;navItemNumber=3414" target="">Affliate News</a>
 </li>
 <li>
 <a href="/theloop/content.cfm?ItemNumber=1703&amp;navItemNumber=2345" target="">PPA Charities</a>
@@ -680,7 +740,7 @@ There's still time to register for Imaging USA!
 </div><!-- /formatted-content -->
 
 
-<br><div class="detail-share-icons"><a href="https://web.archive.org/web/20131007093930/https://plus.google.com/share?url=https://web.archive.org/web/20131221031704id_/http%3A//www.ppa.com/content.cfm%3FItemNumber%3D1670" target="_blank"><img src="/files/PageLayoutImages/icon-gplus-plusone.png" alt=""></a><a href="https://web.archive.org/web/20131007093930/http://www.facebook.com/sharer.php?u=https://web.archive.org/web/20131221031704id_/http%3A//www.ppa.com/content.cfm%3FItemNumber%3D1670" target="_blank"><img src="/files/PageLayoutImages/icon-fb-like.png" alt=""></a><a href="https://web.archive.org/web/20131007093930/http://twitter.com/home?status=Currently%20reading%20https://web.archive.org/web/20131221031704id_/http%3A//www.ppa.com/content.cfm%3FItemNumber%3D1670" target="_blank"><img src="/files/PageLayoutImages/icon-tw-tweet.png" alt=""></a></div>
+<br><div class="detail-share-icons"><a href="https://web.archive.org/web/20131007093930/https://plus.google.com/share?url=https://web.archive.org/web/20140622033843id_/http%3A//www.ppa.com/content.cfm%3FItemNumber%3D1670" target="_blank"><img src="/files/PageLayoutImages/icon-gplus-plusone.png" alt=""></a><a href="https://web.archive.org/web/20131007093930/http://www.facebook.com/sharer.php?u=https://web.archive.org/web/20140622033843id_/http%3A//www.ppa.com/content.cfm%3FItemNumber%3D1670" target="_blank"><img src="/files/PageLayoutImages/icon-fb-like.png" alt=""></a><a href="https://web.archive.org/web/20131007093930/http://twitter.com/home?status=Currently%20reading%20https://web.archive.org/web/20140622033843id_/http%3A//www.ppa.com/content.cfm%3FItemNumber%3D1670" target="_blank"><img src="/files/PageLayoutImages/icon-tw-tweet.png" alt=""></a></div>
 <!-- /detail-supplementary -->
 </div></div><!-- /detail-column-main -->
 <div class="detail-column-side">
@@ -689,7 +749,7 @@ There's still time to register for Imaging USA!
 
 
 
-<a href="/applications/adspace/click.cfm?Dest=http%3A%2F%2Fimagingusa%2Eorg%2Fregistration&amp;ItemNumber=5183" onclick="return RDCMS.AdMetrics.click(this)"><img src="/applications/adspace/serve.cfm?ItemNumber=5183" id="RDCMSad28971" class="rdcms_ad_image" height="150" width="600" border="0"></a><br>
+<a href="/applications/adspace/click.cfm?Dest=http%3A%2F%2Fwww%2Eppa%2Ecom%2Fcompetitions%2Fcontent%2Ecfm%3FItemNumber%3D1716%26navItemNumber%3D526&amp;ItemNumber=6064" onclick="return RDCMS.AdMetrics.click(this)"><img src="/applications/adspace/serve.cfm?ItemNumber=6064" id="RDCMSad51740" class="rdcms_ad_image" height="150" width="600" border="0"></a><br>
 
 
 </div>
@@ -697,7 +757,7 @@ There's still time to register for Imaging USA!
 
 
 
-<a href="/applications/adspace/click.cfm?Dest=http%3A%2F%2Fimagingusa%2Eorg%2Ffree%2Dimaging%2Dexpo%2Dpass&amp;ItemNumber=5195" onclick="return RDCMS.AdMetrics.click(this)"><img src="/applications/adspace/serve.cfm?ItemNumber=5195" id="RDCMSad18172" class="rdcms_ad_image" height="150" width="600" border="0"></a><br>
+<a href="/applications/adspace/click.cfm?Dest=http%3A%2F%2Fwww%2Eppa%2Ecom%2Fbenchmark%2Fcontent%2Ecfm%3FItemNumber%3D5990&amp;ItemNumber=6175" onclick="return RDCMS.AdMetrics.click(this)"><img src="/applications/adspace/serve.cfm?ItemNumber=6175" id="RDCMSad76911" class="rdcms_ad_image" height="150" width="600" border="0"></a><br>
 
 
 </div>
