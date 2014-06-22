@@ -1,191 +1,78 @@
-> *The following text is extracted and transformed from the wilson.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623033050id_/http%3A//www.wilson.com/en-us/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wilson.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622130040id_/http%3A//www.wilson.com/en-us/legal) for the most accurate reproduction.*
 
-# Privacy Policy | Wilson Sporting Goods
+# Privacy Policy | Wilson
 
-###  Who We Are 
+###  WILSON IS COMMITTED TO PROTECTING YOUR PRIVACY 
 
-Wilson Sporting Goods Co. ("Wilson") is a worldwide leader in the sporting goods industry. Wilson also includes the DeMarini baseball and softball division and the ATEC athletic training equipment division. 
+Wilson is committed to protecting your privacy and complying with applicable data protection and privacy laws. We hope that this Privacy Policy ("Policy") helps you understand what kind of information we collect in connection with our products and services and how we process such information. Throughout this Policy the term "personal data" means information relating to an identified or identifiable individual (i.e. a natural person). "Wilson" refers to Wilson Sporting Goods Company in United States of America, including its affiliates and subsidiaries and Amer Sports Corporation group companies (also referred to as "we", "us", or "our"). 
 
-###  Website Operator Information 
+This Policy applies to personal data collected in connection with products and services offered by Wilson or from other interactions with us where a link or other reference of incorporation to this Policy is made, for example, in connection with our products and accessories, websites (also including mobile websites), applications and other types of services offered by Wilson typically in electronic form, as well as other services such as customer care and warranty services, customer events, or promotions and campaigns. 
 
-This website is operated by Wilson, located at 8750 W. Bryn Mawr, Chicago, IL 60631. The contact person at the site is: Digital Marketing Manager at: domainadmin@wilson.com. You can reach us by telephone at 773.714.6400 (ask for Internet Applications Department). 
+We may provide additional or amending privacy information in connection with a particular Wilson product or service. Such information prevails over this Policy to the extent of any conflict. Our products or services may contain links to other companies' websites and other third party services that have privacy policies of their own. We recommend that you read the privacy policies of such services. Wilson is not responsible for the privacy practices or contents of any such services. 
 
-###  COPPA 
+**By using the relevant website /or by submitting personal data to Wilson/or by clicking "I Agree", depending on the website, service, or application you are using, you express your consent and agreement to the processing of your personal data in the manner provided in this Policy. If you do not agree with this Policy, please do not use this website, or provide Wilson with your personal data, or do not grant your consent otherwise.**
 
-A law called the "Children's Online Privacy Protection Act" (COPPA) states that we are required to obtain the parent's or guardian's consent before collecting or retaining any information on children under 13 years old. Therefore, Wilson does not collect information from anyone under 13 years of age unless a parent or guardian has provided us with the written consent form below. 
+###  DATA COLLECTED 
 
-###  Why a Child Under 13 May Want to Register With Us 
+We collect your personal data typically when you make a purchase, use or register into our services, enter into a sales promotion or a campaign or otherwise interact with us. We endeavor to collect personal data only with your knowledge or consent. Below are examples of the categories of data collected. 
 
-Young children may want to receive information from us on our products, our sports informational items, our athlete endorsers, and sports events. They may also want to enter free contests or on-line challenges to win prizes, or just for fun. 
+  * **Technical Information**. For the most part, you may visit our websites or use our products or services without having to tell us who you are. However, certain technical information is normally collected as a standard part of your use of our services. Such information includes, for example, your IP-address, access times, the website you linked from, pages you visit, the links you use, the ad banners and other content you viewed, information about your devices and other such technical information your browser provides us with or as may be otherwise collected in connection with certain products and services. When you use our services or otherwise interact with us over telecommunications networks, certain additional information, such as your mobile subscription number, may be transmitted to us by the telecommunications operator as a standard part of that communication. Please also see the section "Use of Cookies and Web Beacons" below. 
+  * **Information you provide us with**. When you register for our services, make a purchase, enter a sales promotion or otherwise interact with us, we may ask you to provide us with information such as your name, email address, street address, as well as user names, passwords and other such credentials that are used to authenticate users and to validate their actions or that may be needed to provide you with the products and services you have requested or to communicate with you, as well as information uploaded by you such as location, route information, pictures etc. 
+  * **We may collect training data** demographic information, for example, your age, gender, postal code and language preferences. We may also collect other information you provide, such as your consents, preferences and feedback, information relating to your devices and other such information you provide us with. Please note that certain non-identifiable information collected from you may become personally identifiable when you provide us with your personal data. We may also obtain, in accordance with applicable law, some personal data from list-rental companies and other such publicly available sources. Some of our services may allow you to submit information about other people, for example, if you make an order for a product that you wish us to send directly to another recipient. 
+  * **Your transactions with us**. We collect or ask for information relating to your purchase and/or use of our products and/or services and your other interactions with us. Such information may include, for example, details of the queries or requests you have made, the products and services provided (including delivery details), financial details (including payments made, credit card details, billing address, credit checks and other such financial information), details of agreements between you and Wilson, records of contacts and communications, information and details relating to the content you have provided us with and other such transactional information. We may, in accordance with applicable law, record your communication with our customer care or with other such contact points. Certain services may involve the use of your location data. However, use of your location data for such services is subject to your prior consent, for each service. 
 
-###  What A Child Under 13 Must Do to Register 
 
-If you are under 13 and want to be a member of the interactive marketing family of Wilson, then print out this Parental Consent Form (all pages), then bring it to your parent or guardian so they can complete it and sign it. Then send it: 
 
-By Fax to:  
-Digital Marketing Manager, Wilson  
-Fax No. 773.714.4570 
+###  The Purposes For Which We Process Your Personal Data 
 
-Or By Mail to:  
-Digitial Marketing Manager  
-Wilson Sporting Goods Co.  
-8750 W. Bryn Mawr  
-Chicago, IL 60631 
+Wilson processes your personal data for the purposes described in this Policy and/or any additional service specific privacy information. Please note that one or more purposes may apply simultaneously. 
 
-###  Registration Information (Required) 
+  * **Provision of products and services**. We may use your personal data to fulfill your requests, process your order or as otherwise may be necessary to perform or enforce the contract between you and Wilson, to ensure the functionality and security of our products and services, to identify you and to prevent and investigate fraud and other misuses. 
+  * **Development of products and services**. We may use your personal data to develop our products and/or services. However, for the most part we only use aggregate and statistical information in the development of our products and services. We may also use your personal data to personalize our offering and to provide you with service more relevant to you, for example, to make recommendations and to display customized content and advertising in our websites. We may combine personal data collected in connection with your use of a particular Wilson product and/or service with other personal data we may hold about you, except where such personal data was collected for a different purpose. We may create aggregate and statistical information based on your personal data. 
+  * **Communicating with you and marketing**. We may use your personal data to communicate with you, for example, to provide information relating to our products and/or services you are using or to contact you for customer satisfaction queries. We may use your personal data for marketing or research purposes, for example, to conduct market research and we may, in accordance with applicable law, contact you to inform you of new products, services or promotions we may offer. Also, some of our products and services may be used to promote products and services of other companies. However, Wilson does not disclose your personal data to such companies or any other company for marketing purposes without your prior consent. 
 
-Child's Last Name:______________________________
 
-Child's First Name:______________________________
 
-Child's Date of Birth:______________________________
+###  Sharing Your Personal Data 
 
-Child's Gender **[Place an "x"]:** _____Male _____Female
+We do not sell, lease, rent or otherwise disclose your personal data to third parties unless otherwise stated below. 
 
-Child's Mailing Address:______________________________
+  * **Consent**. We may share your personal data to third parties not mentioned in this document only if we have your consent to do so. Your consent may, depending on the service, be implied or express. For example, if you submit and publish your own personal data to our user communities, such actions will be construed as you granting your consent to such processing. 
+  * **Amer Sports Corporation group companies and authorized third parties**. We may share your personal data within Amer Sports Corporation group companies and their subsidiaries and affiliates, including but not limited to the sales entities of Amer Sports Corporation, or authorized third parties who process personal data on behalf of Amer Sports Corporation for the purposes described in this Policy, such as e.g., technical and logistics service providers. Such parties are not permitted to use your personal data for other purposes, and we require them to act consistently with this Policy and to use appropriate security measures to protect your personal data. Amer Sports Corporation consists currently of the brand companies and their subsidiaries, and affiliates listed on www.amersports.com. 
+  * **International transfers**. Our products and services may be provided using resources and servers located in various countries around the world. Therefore your personal data may be transferred across international borders outside the country where you use our services, including to countries outside the European Economic Area (EEA) that do not have laws providing specific protection for personal data or that have different legal rules on data protection, for example, the United States of America. In such cases we take steps to ensure that there is a legal basis for such a transfer and that adequate protection for your personal data is provided as required by applicable law, for example, by using standard agreements approved by relevant authorities (where necessary) and by requiring the use of other appropriate technical and organizational information security measures. 
+  * **Mandatory disclosures**. We may be obligated by mandatory law to disclose your personal data to certain authorities or other third parties, for example, to law enforcement agencies in the countries where we or third parties acting on our behalf operate. We may also disclose and otherwise process your personal data in accordance with applicable law to defend Wilson's legitimate interests, for example, in civil or criminal legal proceedings. o 
+  * **Mergers and Acquisitions**. If we decide to sell, buy, merge or otherwise reorganize our businesses in certain countries, this may involve us disclosing personal data to prospective or actual purchasers and their advisers, or receiving personal data from sellers and their advisers. 
 
-Child's Zip Code:______________________________
 
-Child’s E-mail Address:______________________________
 
-Create a Login ID for the Child:______________________________
+###  Collecting the Data of Minors 
 
-Create a Password for the Child:______________________________
+Wilson does not seek to collect any information from or engage in any transactions with persons under the age of 13. Our databases may nevertheless contain personal data of children under 13 due to the fact that it is not always possible to determine precisely the age of the user. We reserve the right to block the service from any person who is under 13 years of age. Wilson's policy is to request that minors (the legal age of majority and therefore the age of minors is determined by local law where you reside) do not make purchases or engage in other legal acts on our products and services without the consent of a parent or legal guardian, unless otherwise permitted by applicable law. 
 
-Sports Preferences **[COMPLETE]**
+###  Data Quality 
 
-Do we have your permission to send e-mails (consistent with your child's interests) on the products, services, sports informational items, endorsers, events and/or contests concerning Wilson (golf, racquet sports and team sports), and its DeMarini (softball and baseball products) and ATEC (athletic training equipment) divisions?  
- **[Place an "x"]:** _____ YES _____ NO 
+We take reasonable steps to keep the personal data we possess accurate and up-to-date and to delete out of date or otherwise incorrect or unnecessary personal data. 
 
-Do we have your additional permission to send e-mails (consistent with your child's interests) on the products, services, sports informational items, endorsers, events and/or contests concerning Wilson's sister companies operating under the brand names Salomon and Atomic (skiing and snowboarding) and Suunto (sports instruments) to the child named above?  
- **[Place an "x"]:** _____ YES _____ NO 
+As certain Wilson products and services may allow you to manage your profile, we encourage you to access your personal data from time to time to ensure that it is correct and up-to-date. Please remember that it is your responsibility to provide us with correct details as well as to update the personal data you have provided us with in case of any changes. 
 
-###  Parental/Guardian Consent (Required) 
+###  Security 
 
-Your child wants to register as a member through any of the Wilson Sporting Goods Co. sites, which is the internet website for the products, services, endorsers, sports informational items, events and/or contests concerning Wilson Sporting Goods Co. We would like to request your permission to collect information about your child so that we can notify him or her about changes to the website, and the products, services, endorsers, sports informational items, events and/or contests concerning Wilson. As stated in this children's privacy policy, we will not collect or use personal information about your child unless you grant your consent by providing the information requested above, signing this form and mailing or faxing it as indicated in the section below your signature. Please be aware that more detail on our children's privacy policy is included below your signature line, and please be aware that you may e-mail Wilson at domainadmin@wilson.com if you have any questions about this children's privacy policy.
+Wilson takes reasonable technical and organizational information security measures to prevent and minimize such risks associated with providing personal data. Such measures include, where appropriate, the use of firewalls, secure server facilities, encryption, implementing proper access rights management systems and processes, careful selection of processors and other technically and commercially reasonable measures to provide appropriate protection for your personal data against unauthorized use or disclosure. Where appropriate, we may also take back-up copies and use other such means to prevent accidental damage or destruction to your personal data. If a particular part of a Wilson website supports on-line transactions, we will use an industry standard security measure, such as the one available through "Secure Sockets Layer" ("SSL"), to protect the confidentiality and security of online transactions. 
 
-Signed: _______________________________ Dated: _____________________
+###  Use of Cookies and Web Beacons 
 
- **[Please place an "x" by one]:** ____________ Parent of the Child, or ____________ Guardian of the Child 
+From time to time when you visit a Wilson website, information may be placed on your computer to allow us to recognize your computer in the form of a text file known as a "cookie". Our use of cookies is intended to provide benefits to you, such as eliminating the need for you to enter your password frequently during a session or the need to re-enter items you place in a shopping cart if you do not finish a transaction in a single visit. Cookies are also used for website traffic analysis and anonymous demographic profiling so that we may improve our services. Wilson may use so called web beacons (or "pixel tags") in connection with some websites. However, we do not use them to identify individual users personally. Web beacons are typically graphic images that are placed on a website and they are used to count visitors to a website and/or to access certain cookies. This information is used to improve our services. Web beacons do not typically collect any other information than what your browser provides us with as a standard part of any internet communication. If you turn off cookies, the web beacon will no longer be able to track your specific activity. The web beacon may, however, continue to collect information of visits from your IP-address, but such information will no longer be unique. 
 
-We ask that the parent or guardian provide separate answers and signatures for the following two questions: 
+If you do not wish to receive cookies, or want to be notified before they are placed, you may set your web browser to do so, if your browser so permits. Please understand that if cookies are turned off, you may not be able to view certain parts of this site that may enhance your visit. Some of our business partners whose content is linked to or from this site may also use cookies or web beacons. However, we have no access to or control over these cookies. 
 
-Do we have your additional permission to share your child's registration information, interactive response information (for example, message boards, e-greetings, online discussions, etc.) and sports preferences with Wilson approved third parties?
+###  Your Rights 
 
-_____ Yes _____ No Signed: ________________________ Dated:______________ 
+In case you wish to know what personal data we hold about you or you wish to replenish, rectify, anonymize or delete any incomplete, incorrect or outdated personal data, or you wish us to cease processing your personal data for the purpose of sending promotional materials or direct marketing or for the performance of market research or on other compelling legal grounds, you may, as appropriate and in accordance with applicable law, exercise such rights by contacting us through the contact points referred to below. In some cases, especially if you wish us to delete or cease the processing of your personal data, this may also mean that we may not be able to continue to provide the services to you. We encourage you to use available profile management tools for the above purposes as such tools often provide you with direct access to your personal data and allow you to effectively manage it. Please note that Wilson may need to identify you and to ask for additional information in order to be able to fulfill your above request. Please also note that applicable law may contain restrictions and other provisions that relate to your above rights. 
 
-Do we have your additional permission to accept credit card purchases from your child?
+###  The Controller of Your Personal Data and Contact Details 
 
-_____ Yes _____ No Signed: ________________________ Dated:______________ 
+Wilson Sporting Goods Co, located at 8750 W. Bryn Mawr, Chicago Illinois 60631, United States, is the controller of your personal data. In matters pertaining to Wilson's privacy practices you may contact Interactive Marketing Representative at domainadmin@wilson.com , tel. +1 773 714 6400 (Digital Marketing Department) 
 
-###  Additional Information on Our Children's Privacy Policy 
+###  Changes to This Privacy Policy 
 
-Wilson has a Privacy Policy and a special Children's Privacy Policy. The following procedures for children predominate any conflicting parts in the general privacy policies for Wilson and its affiliates and are in accordance with the Children's Online Privacy Protection Act. 
-
-  * The types of information we collect from children 
-
-
-
-For a child to register with us we collect: Name, birth date, gender, mailing address, e-mail address, a selected login ID and password and sports preferences. 
-
-  * A child under 13 cannot register on our website without a parental/guardian consent. 
-
-
-
-When a child under the age of 13 attempts to submit his or her registration information without parental consent, our system will reject the submission. 
-
-  * The types of information we may send to children who have obtained parental/guardian consent 
-
-
-
-Information on products, services, sports informational items, endorsers, events and/or contests concerning our products, our companies, our sports and our website. 
-
-  * The types of interactive activities which may be available to registered children 
-
-
-
-From time to time, Wilson may have free contests, challenges, testimonials, sweepstakes, or other promotions on our websites, or may offer products for purchase. From time to time we may also ask your child to participate in surveys or other interactive areas that will help us create and provide better products and services. 
-
-  * We will not send information to, or retain information from, children under 13 who do not have parental/guardian consent. 
-
-
-
-We will not collect any personal information from a child under the age of 13 until we receive a signed parental consent form. 
-
-  * How our website collects the information 
-
-
-
-After receiving your consent, we may collect additional information from your child by asking them, for example, questions during a contest registration or product registration. We will also collect information passively, including through use of "cookies" (a small text file that a website can use to identify the user's settings and online practices on our site) in order to allow for a personalized experience when that person contacts the website. We may use "cookies" to gather information that will be associated with a child’s personal information. 
-
-  * How we would use the information collected from children 
-
-
-
-If the parental consent form is returned to us, we may notify the child about our products, services, sports informational items, endorsers, events and/or contests concerning our products, our companies, our sports and our website. Personal information will also be used for order fulfillment if we sell products on-line and a child is authorized to enter into credit card transactions. Children, and their parents on their behalf, may always opt-out of future information requests or communications by sending us an email domainadmin@wilson.com. Please note that such requests may take up to 8 weeks to become effective. In addition, if you ask us to remove your name and address from our email or postal mailing lists, we will maintain your name in a "do not mail" file to ensure that we can honor your request. 
-
-Unless a separate consent is given by the parent or guardian, children under the age of 13 will not be asked to consent to disclosure to third parties, and their personal information will not be disclosed to any third parties. A parent's consent to our collection and use of personal information about a child will never be treated as consent to disclosure of that information to unaffiliated parties. The term "third party" **does not include** (a) the sister companies of Wilson named Salomon and Atomic (skiing and snowboarding products) and Suunto (sports instruments), and (b) the web site hosting partners and other parties who assist us in operating our web site, as long as such parties have agreed to keep customer data confidential. 
-
-We are prohibited from conditioning a child’s participation in an activity or contest on the disclosure of any more personal information than is reasonably necessary to allow the child to participate in that activity, and will not engage in such activity. 
-
-  * How we protect information about children 
-
-
-
-The law requires us to take reasonable security measures to protect personal information about children. Registration information submitted by a child's parent cannot be modified except through submission of a modified parental consent form or other written request. All such information is contained behind secured networks and is only accessible by a limited number of employees and contractors who have special access rights to such systems. All contractors have agreed to maintain the confidentiality of our customer data. If a child provides credit card information, and information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be used and accessed only as described in this Policy. 
-
-  * Parental control over children’s information 
-
-
-
-We will delete personal information about a child upon receipt of a written request from the parent or guardian who initially submitted such information. Such written requests shall be sent to: 
-
-Internet Applications Dept.   
-Wilson Sporting Goods Co.  
-8750 W. Bryn Mawr  
-Chicago, IL 60631 
-
-In the event of such a request, we will retain only information necessary for record keeping in connection with past transactions. Parents who submitted personal information about their children may also submit a signed written request to review or modify the information about their children to the address above. Before disclosing information about the child, we may request that the parent provide reasonable information about the parent for identification purposes, such as the parent’s name, address, phone number, credit card number, or other information. 
-
-###  How and What Information Is Collected 
-
-Wilson collects information from our online visitors on a voluntary basis. This information may be provided by visitors in many ways, including during contest registrations, surveys, order placement, product warranty registration, or to register for online or offline newsletters. This information may include name, address, phone number, date of birth, e-mail address, product preferences, store preferences, and when necessary credit card information as well as other items included in Wilson’s registration forms. 
-
-In addition, Wilson collects some information passively from the visitors at its site. For example, Wilson uses "cookies" (a small text file that a website can use to identify the visitor) in order to allow for a personalized experience when you visit our site. Using cookies, our web server can automatically recognize a registered user's domain name and e-mail address. Using cookies, our web server can also recognize a return visitor. Wilson may collect from any visitor to our site information on what pages visitors access or view, and may collect information volunteered by the visitors, such as survey information and/or site registrations. Cookies also record session information, such as items that consumers add to their shopping cart. 
-
-You can choose to have your computer warn you each time a cookie is being sent or you can choose to turn off all cookies. Each internet browser is different, but most will guide you through modifying your cookie settings by way of a HELP menu. Please note, however, that failure to allow cookies will inhibit your use of the website. 
-
-Special and different rules apply to children under 13 years old. Please see our "Children's Privacy Policy" link above. 
-
-###  How Wilson Uses the Collected Information 
-
-The information we collect is used by Wilson to: 
-
-  * Respond to direct requests, such as entering consumers in surveys or mailing newsletters, fulfilling product orders, or registering previously purchased products; 
-  * Improve our web page and marketing practices and understanding, based on consumer preferences and demographics; 
-  * Send visitors information on products, services, sports informational items, endorsers, events and/or contests concerning our products, our companies, our sports, and our website; 
-  * Send visitors information on products, services, and events of companies involved in marketing programs with Wilson, pertaining to the visitors' stated sports preferences. 
-
-
-
-The personally identifiable information you provide will be shared with our affiliates, subsidiaries, agents and related companies, including our sister companies Salomon and Atomic (skiing and snowboarding products) and Suunto (sports instruments). We may also share your information with our agents such as web site hosting partners, order fulfillment companies, or other parties who assist us in operating our website or providing our products or services. We will also share your information if required by law to do so. Other than as described above, Wilson does not transfer its visitors' personal information to third parties. 
-
-###  How We Safeguard the Collected Information 
-
-All visitor information is contained behind secured networks and is only accessible by a limited number of employees and contractors who have special access rights to such systems. If a visitor provides credit card information, that information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be used and accessed only as described in this Privacy Policy. 
-
-###  Visitors' Abilities to Access and Change Information and Opt-Out of Future Communications 
-
-A visitor may, upon request by e-mail, access or change the information that Wilson maintains about him or her. The visitor should send an e-mail to domainadmin@wilson.com. Please note that any changes may take up to 8 weeks to become effective. 
-
-A visitor may, upon request by e-mail, opt-out of future information requests or communications. The visitor should send an e-mail to domainadmin@wilson.com. Please note that such requests may take up to 8 weeks to become effective. We will maintain your name in a "do not mail" file to honor your request. 
-
-In the event of changes or opt-out requests, Wilson may retain information necessary for record keeping in connection with past transactions. 
-
-###  Certain Legalities 
-
-By using this website, you assent to the terms of this Privacy Policy. If you do not agree to any terms of this Privacy Policy, then please discontinue use of this site and do not provide us with any personal information. Wilson reserves the ability to make changes to this Privacy Policy. Please check back from time to time on this Privacy Policy to make sure you agree to its terms. Continued use of the site by visitors signifies continued assent to the terms of this Privacy Policy, as updated or amended at that time. This Privacy Policy, and all of its graphics, logos, trademarks, and other intellectual property, is the property of Wilson and is protected by copyright, trademark and other intellectual property laws. No reproduction of any intellectual property of Wilson in this website or this Privacy Policy is allowed without express written consent of Wilson. 
-
-###  Thank You 
-
-Thank you for taking the time to review this important information concerning our Privacy Policy. 
+Wilson may from time to time change this Privacy Policy or change, modify or withdraw access to this site at any time with or without notice. 
