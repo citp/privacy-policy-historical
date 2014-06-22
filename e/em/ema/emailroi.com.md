@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emailroi.com privacy policy that was archived on 2013-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130906003454id_/http%3A//www.eroi.com/miscellaneous/privacy/%3Futm_source%3Demailroi%26utm_medium%3Dwebsite%26utm_campaign%3Dlinks) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emailroi.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622144434id_/http%3A//www.eroi.com/miscellaneous/privacy/%3Futm_source%3Dprivacy%26utm_medium%3Dfooter%26utm_campaign%3Demailroicom) for the most accurate reproduction.*
 
 # Privacy | Digital Marketing Agency eROI, Portland
 
