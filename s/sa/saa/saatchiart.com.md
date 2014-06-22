@@ -1,0 +1,81 @@
+> *The following text is extracted and transformed from the saatchiart.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622063626id_/http%3A//www.saatchiart.com/privacy) for the most accurate reproduction.*
+
+# Privacy Policy | Saatchi Art
+
+Effective Date: **_August 1, 2011_**
+
+Saatchi Art (" ** _Saatchi Art,_** " " ** _we_** " or " ** _our_** ") provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of www.saatchiart.com (the " ** _Site_** "). Saatchi Art makes available through the Site an online service for selling and purchasing original works of art and commercially exploiting digital images of works of art (the " ** _Services_** "). This Privacy Policy applies only to information that you provide to us through the Site and Services.
+
+We may update this Privacy Policy from time to time. We will notify you of any material changes by posting the new Privacy Policy on the Site. You should consult this policy regularly for any changes. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms of Service, located at <http://www.saatchiart.com/terms>. 
+
+As used in this policy, the terms "using" and "processing" information include using cookies on a computer, subjecting the information to statistical or other analysis and using or handling information in any way, including, but not limited to collecting, storing, evaluating, modifying, deleting, using, combining, disclosing and transferring information within our organization or among our affiliates within the United States or internationally.
+
+**Information Collection and Use: Personally Identifiable Information**
+
+  * In the course of using the Site and Services, you may provide us with personally identifiable information, which refers to information about you that can be used to contact or identify you (" ** _Personal Information_** "). Personal Information includes, but is not limited to, your name, phone number, credit card or other billing information, email address, phone number and postal address. We use your Personal Information primarily to provide and improve the Site and Services and to respond to your inquiries. 
+  * We may also request that you provide certain information, such as your zip code and personal preferences, which is typically considered " ** _Non-Identifying Information_** _"_ because it cannot, by itself, be used to contact or identify you. 
+  * We use your Personal Information (in some cases, in conjunction with your Non-Identifying Information) primarily to provide and improve the Services, to complete your transactions and respond to your inquiries. 
+  * Certain Non-Identifying Information would be considered a part of your Personal Information if it were combined with other identifiers (for example, combining your zip code with your street address) in a way that enables you to be identified. But, the same items of information are considered Non-Identifying Information when they are taken alone or combined only with other non-Identifying information (for example, your age). We may combine your Personal Information with Non-Identifying Information and aggregate it with information collected from other Saatchi Art users to attempt to provide you with a better experience, to improve the quality and value of the Site and Services and to analyze and understand how our Site and Services are used. 
+  * We also use your Personal Information to contact you with Saatchi Art newsletters, marketing or promotional materials and other information that may be of interest to you. If you decide at any time that you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications or via the "Account" section of the Site. (See " **Changing or Deleting Information,** " below.) 
+
+
+
+_Log Data_ _._ When you visit the Site, whether as a Member or a non-registered user just browsing (any of these, a " ** _Saatchi Art User_** "), our servers automatically record information that your browser sends whenever you visit a website ( ** _"Log Data"_** ). This Log Data may include information such as your computer's Internet Protocol ("IP") address, browser type or the webpage you were visiting before you came to our Site, pages of our Site that you visit, the time spent on those pages, information you search for on our Site, access times and dates, ads you click on during your use of the Site, your viewing preferences, bookmark habits and other statistics. We use this information to monitor and analyze use of the Site and for the Site's technical administration, to increase our Site's functionality and user-friendliness and to better tailor the Site to our visitors' needs. For example, some of this information is collected so that when you visit the Site again, it will recognize you and serve advertisements and other information appropriate to your interests. We also use this information to verify that visitors to the Site meet the criteria required to process their requests. ****
+
+**Cookies**
+
+Like many websites, we use "cookies" to collect information. A cookie is a small data file that we transfer to your computer's hard disk for record-keeping purposes. We do link the information we store in cookies to the Personal Information you submit while on our Site. **** We use cookies for two purposes. First, we utilize persistent cookies to save your login information for future logins to the Site. Second, we utilize session ID cookies to enable certain features of the Site, to better understand how you interact with the Site and to monitor aggregate usage by Saatchi Art Users and web traffic routing on the Site. Unlike persistent cookies, session cookies are deleted from your computer when you log off from the Site and then close your browser. You can instruct your browser,by changing its options, to stop accepting cookies or to prompt you beforeaccepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the Site or all functionality of our Services. ****
+
+**Web Beacons**
+
+We also use "web beacons," "pixel tags," "clear GIFs" or similar means (individually or collectively " ** _Web Beacons_** ") on our Site. A Web Beacon is an electronic image, often a single pixel, embedded on web pages. Web Beacons are ordinarily not visible to users. Web Beacons allow us to count the number of users who have visited certain pages of the Site, to deliver branded services and to generate statistics about how our Site is used.
+
+**Making Purchases and Listing Works via the Site**
+
+If you purchase a work or other item or list a work for sale via the Site, we request certain Personal Information from you. You must provide contact information such as first and last name, address, city, zip, email and phone number and financial information such as credit card type, credit card number, expiration date and CVV2. We use this information for billing and remittance purposes, to list works for sale on the Site and to fulfill your orders, as applicable. If we have trouble processing an order or listing a work for sale, we will use this information to contact you. If you list a work for sale via the Site, we require you to provide a copy of a government issued photo identification. When you place an order or list a work for sale via the Site, Saatchi Art will also send you informational emails regarding such orders and sales.
+
+**Information Sharing and Disclosure**
+
+_Saatchi Art Members._ When you register for the Site and create an Account, your Personal Information (including, but not limited to, your name) will be publicly viewable via the Site. We recommend that you guard your sensitive information and we encourage you to think carefully about what information you post via the Site. If you choose to purchase Original Works of Art via the Site and Services, we will share your name and postal address with the Member who listed the work for sale on the Site to enable that Member to ship the purchased work directly to you.
+
+_Saatchi Art Forums._ If you choose to participate in the Saatchi Art forums via the Site, the content of any comments or information you post in such forums will be publicly available via the Site, together with your profile picture, your name, and a link to your profile on the Site. Participating in the Saatchi Art forums is voluntary and should correlate with the degree of interaction you want to have with other Saatchi Art Users. 
+
+_Facebook Connect_. Our Site allows users to create an account and login to the Site using their Facebook account credentials through Facebook Connect. Creating an account for the first time through Facebook Connect will prompt users to merge their Saatchi Art and Facebook accounts. By using Facebook Connect, you are allowing Saatchi Art to access your Facebook account information and you are agreeing to the Facebook Terms of Use in your use of the Site via Facebook. If you are not currently registered as a Saatchi Art Member and you click on "Sign in Using Facebook," you will first be asked to enter your Facebook credentials and then be given the option to register and join Saatchi Art. We allow Members to automatically post recent activity back to Facebook, and give them the option to disable Facebook Connect at any time by accessing your Facebook account and disconnecting access to the Site.
+
+_Aggregate Information and Non-Identifying Information_. We may share aggregated information that does not include Personal Information and we may otherwise disclose Non-Identifying Information and Log Data with third parties for industry analysis, demographic profiling and other purposes. Any aggregated information shared in these contexts will not contain your Personal Information.
+
+_Service Providers_. We may employ third party companies and individuals to facilitate our Services, to provide our Services on our behalf, to perform Site-related services ( _e.g._ , without limitation, payment processing, billing and shipping services, maintenance services, database management, web analytics and improvement of the Site's features) or to assist us in analyzing how our Site and Services are used. These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+
+_Compliance with Laws and Law Enforcement_. Saatchi Art cooperates with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of Saatchi Art or a third party, to protect the safety of the public or any person, or to prevent or stop activity we may consider to be, or to pose a risk of being, any illegal, unethical or legally actionable activity.
+
+_Business Transfers_. Saatchi Art may sell, transfer or otherwise share some or all of its assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy. 
+
+**Changing or Deleting Your Information**
+
+To completely delete all Personal Information you provide to Saatchi Art, you must contact us at [help@saatchiart.com](mailto:help@saatchiart.com). If you completely delete all such information, your account may be deactivated. We may retain an archived copy of your records as required by law or for legitimate business purposes.
+
+**Security**
+
+The security of your Personal Information is important to Saatchi Art. But remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. When you enter sensitive information (such as credit card number) via the Site, we encrypt that information using secure socket layer technology (SSL). In some cases, we also encrypt sensitive information where it is stored on our systems.
+
+We will make any legally required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored "personal data" (as defined in applicable state statutes on security breach notification) to you via email or conspicuous posting on this Site in the most expedient time possible and without unreasonable delay, insofar as consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.
+
+**International Transfer**
+
+Your information may be transferred to - and maintained on - computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States and choose to provide information to us, Saatchi Art transfers Personal Information to the United States and processes it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+
+**Our Policy Toward Children**
+
+This Site is not directed to children under 18. We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at help@saatchiart.com. If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.
+
+**Phishing**
+
+Identity theft and the practice currently known as "phishing" are of great concern to Saatchi Art. Safeguarding information to help protect you from identity theft is a top priority. We do not and will not, at any time, request your credit card information, username, login password or national identification numbers in a non-secure or unsolicited e-mail or telephone communication. For more information about phishing, visit the U.S. Federal Trade Commission's website.
+
+**Links to Other Sites**
+
+Our Site contains links to other websites. If you choose to visit an advertiser by "clicking on" a banner ad or other type of advertisement, or click on another third party link, you will be directed to that third party's website. The fact that we link to a website or present a banner ad or other type of advertisement is not an endorsement, authorization or representation of our affiliation with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you. Other sites follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit.
+
+**Contacting Us**
+
+If you have any questions about this Privacy Policy, please contact us at: [help@saatchiart.com](mailto:help@saatchiart.com).
