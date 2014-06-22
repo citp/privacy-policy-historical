@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ketto.org privacy policy that was archived on 2013-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130918032936id_/http%3A//www.ketto.org/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ketto.org privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622215358id_/http%3A//ketto.org/privacy_policy.php) for the most accurate reproduction.*
 
-# Privacy Policy | Ketto.org
+# | Ketto.org
 
 We value the trust you place in us. That's why we insist upon the highest standards for secure transactions and User information privacy. Please read the following statement to learn about our information gathering and dissemination practices. The following Privacy Policy should be read along with the Ketto – Terms of Use for a full understanding of Ketto's practices as well as the Users responsibilities when interacting with the site [www.ketto.org](http://www.ketto.org/)
 
@@ -88,7 +88,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 ### 9\. Retention of Information
 
-Information provided by you to Ketto is processed, stored and retained through our servers and web hosts being _________.  
+Information provided by you to Ketto is processed, stored and retained through our servers and web hosts being Amazon Web Services.  
 Our web hosts and agency managing your information are compliant with IS/ISO/IEC27001 or an equivalent in standards of Security Techniques and Information Security Management System Requirements.
 
 ### 10\. Grievance Officer
@@ -103,5 +103,5 @@ Goregoan East,
 Mumbai -400063
 
 Phone: +91- 022 - 65702567  
-Email: info@ketto.org  
+Email: [info@ketto.org](mailto:info@ketto.org)  
 Time: Mon – Sat (9:00 – 18:00) 
