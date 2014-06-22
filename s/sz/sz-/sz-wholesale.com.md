@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sz-wholesale.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221013601id_/http%3A//www.sz-wholesale.com/Privacy-Policy/Privacy-Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sz-wholesale.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622184845id_/http%3A//sz-wholesale.com/Privacy-Policy/Privacy-Policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - sz-wholesale.com
 
