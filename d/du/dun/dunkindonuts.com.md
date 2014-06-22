@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dunkindonuts.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226113830id_/http%3A//www.dunkindonuts.com/content/dunkindonuts/en/help/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dunkindonuts.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622071104id_/http%3A//www.dunkindonuts.com/content/dunkindonuts/en/help/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Dunkin' Donuts
 
@@ -157,42 +157,37 @@ With respect to payment card information and other Personal Information collecte
 Unfortunately, no system or online transmission of data can be guaranteed to be 100% secure and you should always take appropriate security measures to protect your Personal Information, including ensuring that you have up-to-date antivirus software.  If you believe that your Dunkin’ Donuts account or any information you provided to us is no longer secure, please notify us immediately through the Contact Us information provided below.    
 
 
-**7.      _Cookies Policy_ **
+**7.   _Our Policy on Cookies, Interest-Based Advertising and “Do Not Track”  _**  
+** **  
+What Are Cookies?
 
-  
-**  What Are Cookies?**  
+Cookies are small text files placed in your computer browser directories to store your information about your use of the DD Online Services and your activities online (collectively, “Cookies”).  A Cookie will typically contain the name of the domain (internet location) from which the Cookie has come, the “lifetime” of the Cookie (i.e. when does it expire), and a value, usually a randomly generated unique number.  To find out more about Cookies, including how to see what Cookies have been set on your device and how to manage and delete them, visit **_[www.allaboutcookies.org](http://www.allaboutcookies.org/)_**.
 
+How We Use Cookies
 
-  
-Dunkin’ Donuts and its agents use small text files called cookies, (collectively, “Cookies”).  Cookies are small pieces of data that we and our agents place in your computer’s browser to store your preferences.  Cookies are not themselves personally identifiable, but may be linked to Personal Information that you provide to us through your interaction with the DD Online Services.  A Cookie will typically contain the name of the domain (internet location) from which the Cookie has come, the “lifetime” of the Cookie (i.e.  when does it expire), and a value, usually a randomly generated unique number.  
+We use Cookies so that we can improve your online experience – for example, by remembering you when you come back to visit us, and making the content you see more relevant to you. Cookies also enable us to track online purchases made through the DD Online Services.
 
+               
+Your Control of Cookies
 
-  
-**How We Use Cookies**  
+If you do not wish to receive Cookies or wish to manage when you accept Cookies in general, you may set your browser to reject Cookies or to alert you when a Cookie is placed on your computer.  Although you are not required to accept our Cookies, if you set your browser to reject Cookies, you may not be able to use all of the features and functionality of the DD Online Services.  The Help feature on most browsers will tell you how to prevent your browser from accepting new Cookies, how to have the browser notify you when you receive a new Cookie, or how to disable Cookies altogether.  If you block or otherwise reject our Cookies, you may lose some of the functionality of our site.  For example, you may not be able to add items to your Shopping Cart, proceed to Checkout, or use any products and services that require you to sign in.
 
+Online Advertising
 
-  
-We use Cookies so that we can improve your online experience – for example, by remembering you when you come back to visit us, and making the content you see more relevant to you.  Cookies also enable us to track online purchases made through the DD Online Services.  
+The DD Online Services also use Cookies and other technologies such as pixel tags, web beacons and clear GIF files (collectively, “Data Collection Technologies”) to help manage our online advertising program. These Data Collection Technologies are provided by our ad management partners and other third parties.
 
+                
+In addition, we and our ad management partners may use these Data Collection Technologies to track the actions of users of the DD Online Services, to measure statistics of our marketing efforts, and to deliver advertisements on the DD Online Services that may be more relevant to individual consumers and that will improve the consumer experience on the DD Online Services.  For example, if you give us your zip code and we thus know you live in an area where a particular in-store promotion is going on (such as a new snack offering), we may deliver to you an advertisement that is specific to that promotion.
 
-  
-**Your Control of Cookies**  
+We support the Self-Regulatory Principles for Online Behavioral Advertising of the Digital Advertising Alliance (“Principles”).  This means that we allow you to exercise choice regarding the collection of information about your online activities over time and across third-party websites for online interest based advertising purposes.  More information about these Principles can be found at www.aboutads.info/. 
 
+Opting Out of Interest-Based Advertisements
 
-  
-Web browsers allow some control of most Cookies through the browser settings.  To find out more about Cookies, including how to see what Cookies have been set on your device and how to manage and delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).  
+If you want to “opt out” of receiving online interest-based advertisements, please follow the instructions at [www.aboutads.info/choices](http://www.aboutads.info/choices), or  <http://www.networkadvertising.org/choices/>.  An “opt-out” Cookie will be placed on your device indicating that you do not want to receive interest-based advertisements.  If you delete Cookies on your device generally, you will need to opt-out again. 
 
+ Please note that when you “opt-out” of receiving interest-based advertisements, this does not mean you will no longer see advertisements from us or on the DD Online Services.  It means that the online ads that you do see will not be based on your particular interests. 
 
-  
-**Online Advertising**  
-
-
-  
-The DD Online Services also uses Cookies and other technologies such as pixel tags, web beacons and clear GIF files, to help manage our online advertising program.  These technologies are provided by our ad management partners and enable them to recognize a unique Cookie that has been placed on your browser, which in turn enables us and these ad management partners to learn which advertisements bring users to the DD Online Services.    
-
-
-  
-In addition, we and our ad management partners may use these technologies to track the actions of users of the DD Online Services, to measure statistics of our marketing efforts, and to deliver advertisements on the DD Online Services that may be more relevant to individual consumers and that will improve the consumer experience on the DD Online Services.  For example, if you give us your zip code and we thus know you live in an area where a particular in-store promotion is going on (such as a new snack offering), we may deliver to you an advertisement that is specific to that promotion.  
+In addition, please note that certain third parties that we do not control may use Data Collection Technologies on the DD Online Services.  When you “opt-out” of receiving interest-based advertisements through one of the links above, these Data Collection Technologies may still collect information about your use of the DD Online Services, including for analytics and fraud prevention as well as any other purpose permitted under the Principles.  When we use the term “Data Collection Technologies” we are referring to any technology that collects information about your use of the DD Online Services and potentially about your activities when you leave the Services and visit other sites on the Internet.   
 
 
 **8.      _Social Networking And Third Party Sites_**
@@ -222,7 +217,7 @@ This English-language Privacy Policy is Dunkin’ Donuts’ official statement o
 If you have any questions regarding our privacy practices, you can email us at [customerservice@dunkinbrands.com](mailto:customerservice@dunkinbrands.com). You also can telephone us at 1-800-859-5339, send us a fax at 1-781-737-4000, or you can write to us at Dunkin’ Donuts Customer Service, Dunkin’ Brands, Inc., 130 Royall Street, Canton, MA 02021.  
 
 
-©2006-2013. DD IP Holder LLC name, design, logos and related marks are registered trademarks of DD IP Holder LLC. All rights reserved.
+©2006-2014. DD IP Holder LLC name, design, logos and related marks are registered trademarks of DD IP Holder LLC. All rights reserved.
 
   
-Last updated: ** ** February 2013
+Last updated: ** ** January 2014
