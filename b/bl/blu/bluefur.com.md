@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluefur.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219212928id_/http%3A//www.bluefur.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluefur.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622060839id_/http%3A//www.bluefur.com/privacy-policy) for the most accurate reproduction.*
 
 # BlueFur - Canada Web Hosting - Privacy Policy
 
@@ -40,7 +40,7 @@ Like most standard websites, we use log files. This information may include inte
 
 ## 5\. How we use this Information
 
-BlueFur may use the personally identifiable information collected by BlueFur to contact customers regarding products and services offered by BlueFur and, to the extent the User has agreed to it, by its trusted affiliates, independent contractors and business partners.
+BlueFur may from time to time engage third parties, including but not limited to, its own subsidiaries, affiliate companies, business partners, agents and contractors, to preserve, analyze, store or manipulate information collected from Users on behalf of BlueFur in connection with delivering BlueFur services. In all such cases, such third party service providers or business partners will be required to treat all such information collected from Users, including Users personally identifiable data, with the same degree of care as BlueFur and they will be prohibited from disclosing such data to any other person or party, except as otherwise provided for in this Privacy Policy.
 
 We may also use this information for research purposes regarding the effectiveness of our Services and marketing and sales efforts. BlueFur will not in any way share this information with a third party either for free or by selling it, unless you specifically authorize such disclosures.
 
