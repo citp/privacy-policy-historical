@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the qataronlinedirectory.com privacy policy that was archived on 2013-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131221003744id_/http%3A//www.qataronlinedirectory.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the qataronlinedirectory.com privacy policy that was archived on 2014-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140622172644id_/http%3A//www.qataronlinedirectory.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -17,6 +17,7 @@
 	<meta name="author" content="Trans Media International WLL http://www.transmediaintl.com/">
 	<meta name="verify-v1" content="">
 	<meta name="copyright" content="Copyright 2013 Trans Media International WLL">
+	<link rel="SHORTCUT ICON" href="http://www.qataronlinedirectory.com/templates/round/images/qod_favicon.png" type="image/x-icon">
 		<title>Privacy Policy | Qatar Online Directory.</title>
     
     <link href="http://www.qataronlinedirectory.com/templates/round/qod/css/style_01.css" rel="stylesheet" type="text/css">
@@ -293,10 +294,45 @@ function lookup(inputString,type) {
 	}
 	
 	</script>
+<script language="javascript">
+function init() {
+	//==========================================================================================
+	// if supported, initialize TransMenus
+	//==========================================================================================
+	// Check isSupported() so that menus aren't accidentally sent to non-supporting browsers.
+	// This is better than server-side checking because it will also catch browsers which would
+	// normally support the menus but have javascript disabled.
+	//
+	// If supported, call initialize() and then hook whatever image rollover code you need to do
+	// to the .onactivate and .ondeactivate events for each menu.
+	//==========================================================================================
+	if (TransMenu.isSupported()) {
+		TransMenu.initialize();
 
+		// hook all the highlight swapping of the main toolbar to menu activation/deactivation
+		// instead of simple rollover to get the effect where the button stays hightlit until
+		// the menu is closed.
+		menu1.onactivate = function() { document.getElementById("menu65").className = "hover"; };
+		menu1.ondeactivate = function() { document.getElementById("menu65").className = ""; };
+
+		menu2.onactivate = function() { document.getElementById("menu73").className = "hover"; };
+		menu2.ondeactivate = function() { document.getElementById("menu73").className = ""; };
+
+		menu3.onactivate = function() { document.getElementById("menu99").className = "hover"; };
+		menu3.ondeactivate = function() { document.getElementById("menu99").className = ""; };
+
+		document.getElementById("menu64").onmouseover = function() {
+			ms.hideCurrent();
+			this.className = "hover";
+		}
+
+		document.getElementById("menu64").onmouseout = function() { this.className = ""; }
+	}
+}
+</script>
 </head>
 
-<body onload="MM_preloadImages('http://www.qataronlinedirectory.com/templates/round/qod/images/bg_cnct__hover_icn.gif','http://www.qataronlinedirectory.com/templates/round/qod/images/icn_tellafriend_hover.gif')">
+<body onload="MM_preloadImages('http://www.qataronlinedirectory.com/templates/round/qod/images/bg_cnct__hover_icn.gif','http://www.qataronlinedirectory.com/templates/round/qod/images/icn_tellafriend_hover.gif'), init()">
 
 <!--wrapper starts-->
 <div id="apDiv1"></div>
@@ -350,7 +386,7 @@ function lookup(inputString,type) {
     <!--header ends-->
     	<!--srch_box starts-->
     <div id="srch_box">
-     <form name="search" id="search" action="http://www.qataronlinedirectory.com/pages/search-results.php" method="post" onsubmit="return modifyAction();">
+     <form name="search" id="search" action="http://www.qataronlinedirectory.com/pages/search-results.php" method="get" onsubmit="return modifyAction();">
       <!--srchtxt_cmp starts-->
       <div class="srchtxt_cmp">
         <!-- <input type="text" value="Enter Company Name" id="company" class="serachtxt" onblur="if(this.value==''){this.value='Enter Company Name'}" onfocus="if(this.value=='Enter Company Name') {this.value=''}; resetfields('company');" name="company" onkeyup="lookup(this.value,'company');" autocomplete="off"/> -->
@@ -404,7 +440,7 @@ function lookup(inputString,type) {
         <input type="image" name="Search" id="Search" src="http://www.qataronlinedirectory.com/templates/round/qod/images/btn_search.gif" alt="">
       </div>
       </form>	  
-      <div class="date_upadte"><strong>Friday, 12.20.13</strong></div>
+      <div class="date_upadte"><strong>Sunday, 06.22.14</strong></div>
       <!--btn_srch ends-->
     </div>
     <!--srch_box ends-->
@@ -417,66 +453,107 @@ function lookup(inputString,type) {
 <div class="clearfix" id="ja-mainnav">
 <div><!-- begin menu -->
 <ul id="ja-transmenu">
-  <li><a class="havechild-mainlevel-trans" id="menu1" title="Home" href="http://www.qataronlinedirectory.com"><span>Home</span></a>
-  </li><li><a class="havechild-mainlevel-trans" title="About Us" href="http://www.qataronlinedirectory.com/transmedia-about-us"><span>About Us</span></a>
-  </li><li><a class="havechild-mainlevel-trans" id="menu65" title="Advertise With Us" href="http://www.qataronlinedirectory.com/pages/advertisement-with-us.php"><span>Advertise With Us</span></a>
-  </li><li><a class="havechild-mainlevel-trans" id="menu73" title="Qatar Info" href="http://www.qataronlinedirectory.com/pages/qatarinfo.php"><span>Qatar Info</span></a>
-  </li><li><a class="havechild-mainlevel-trans" title="Blog" href="http://www.qataronlinedirectory.com/blog"><span>Blog</span></a>
-  </li><li><a class="havechild-mainlevel-trans" title="Free Listing" href="http://www.qataronlinedirectory.com/pages/free-listing.php"><span>Free Listing</span></a></li>
-  <li><a class="havechild-mainlevel-trans" title="Brands Free Listing" href="http://www.qataronlinedirectory.com/pages/brands-free-listing.php"><span>Brands Free Listing</span></a>
-  </li>
+	<li>
+	<a class="havechild-mainlevel-trans" id="menu1" title="Home" href="http://www.qataronlinedirectory.com"><span>Home</span></a>
+	</li>
+	<li>
+	<a class="havechild-mainlevel-trans" title="About Us" href="http://www.qataronlinedirectory.com/transmedia-about-us"><span>About Us</span></a>
+	</li>
+	<li>
+	<a class="havechild-mainlevel-trans" id="menu65" title="Advertise With Us" href="http://www.qataronlinedirectory.com/pages/advertisement-with-us.php"><span>Advertise With Us</span></a>
+	</li>
+	<li>
+	<a class="havechild-mainlevel-trans" id="menu73" title="Qatar Info" href="http://www.qataronlinedirectory.com/pages/qatarinfo.php"><span>Qatar Info</span></a>
+	</li>
+	<li>
+	<a class="havechild-mainlevel-trans" title="Blog" href="http://www.qataronlinedirectory.com/blog"><span>Blog</span></a>
+	</li>
+	<li>
+	<a class="havechild-mainlevel-trans" title="Free Listing" href="http://www.qataronlinedirectory.com/pages/free-listing.php"><span>Free Listing</span></a>
+	</li>
+	<li>
+	<a class="havechild-mainlevel-trans" title="Brands Free Listing" href="http://www.qataronlinedirectory.com/pages/brands-free-listing.php"><span>Brands Free Listing</span></a>
+	</li>
+	<li>
+	<a class="havechild-mainlevel-trans" title="QOD Classifieds" href="http://www.qataronlinedirectory.com/qatar-classifieds"><span>QOD Classifieds</span></a>
+	</li>
+	<li>
+	<a class="havechild-mainlevel-trans" id="menu99" title="Help" href="http://www.qataronlinedirectory.com/pages/qatarhelp.php"><span>Help</span></a>
+	</li>
+	<li>
+	<a class="havechild-mainlevel-trans" title="Contact Us" href="http://www.qataronlinedirectory.com/contact-us"><span>Contact Us</span></a>
+	</li>
+</ul>
+<script language="javascript">
+// set up drop downs anywhere in the body of the page. I think the bottom of the page is better.. 
+// but you can experiment with effect on loadtime.
+if (TransMenu.isSupported()) {
 
-  <li><a class="havechild-mainlevel-trans" title="QOD Classifieds" href="http://www.qataronlinedirectory.com/qatar-classifieds"><span>QOD Classifieds</span></a></li>
-  <li><a class="havechild-mainlevel-trans" id="menu99" title="Help" href="http://www.qataronlinedirectory.com/pages/qatarhelp.php"><span>Help</span></a></li>
-  <li><a class="havechild-mainlevel-trans" title="Contact Us" href="http://www.qataronlinedirectory.com/contact-us"><span>Contact Us</span></a></li>
-  </ul>
-<script language="javascript" type="text/javascript">
-			if (TransMenu.isSupported()) {
-				TransMenu.updateImgPath('');
-				var ms = new TransMenuSet(TransMenu.direction.down, 0, 0, TransMenu.reference.bottomLeft);
-				TransMenu.subpad_x = 0;
-				TransMenu.subpad_y = 0;
+	//==================================================================================================
+	// create a set of dropdowns
+	//==================================================================================================
+	// the first param should always be down, as it is here
+	//
+	// The second and third param are the top and left offset positions of the menus from their actuators
+	// respectively. To make a menu appear a little to the left and bottom of an actuator, you could use
+	// something like -5, 5
+	//
+	// The last parameter can be .topLeft, .bottomLeft, .topRight, or .bottomRight to inidicate the corner
+	// of the actuator from which to measure the offset positions above. Here we are saying we want the 
+	// menu to appear directly below the bottom left corner of the actuator
+	//==================================================================================================
+	var ms = new TransMenuSet(TransMenu.direction.down, 1, 0, TransMenu.reference.bottomLeft);
 
-			
-				document.getElementById("menu1").onmouseover = function() {
-					ms.hideCurrent();
-				}
-var tmenu65 = ms.addMenu(document.getElementById("menu65"));
-tmenu65.addItem("Advertisement Tariff", "http://www.qataronlinedirectory.com/advertisement-tariff", 0, 0);
-tmenu65.addItem("Advertisement Sample", "http://www.qataronlinedirectory.com/advertisement-sample", 0, 0);
-tmenu65.addItem("Advertisement Dimensions", "http://www.qataronlinedirectory.com/advertisement-dimensions", 0, 0);
-//tmenu65.addItem("Brands - Free Listing", "http://www.qataronlinedirectory.com/pages/brands-free-listing.php", 0, 0);
-var tmenu73 = ms.addMenu(document.getElementById("menu73"));
-tmenu73.addItem("Media", "http://www.qataronlinedirectory.com/media-information", 0, 0);
-tmenu73.addItem("Qatar Map", "http://www.qataronlinedirectory.com/qatar-map", 0, 0);
-tmenu73.addItem("Ministries", "http://www.qataronlinedirectory.com/qatar-ministries", 0, 0);
-tmenu73.addItem("Embassies", "http://www.qataronlinedirectory.com/qatar-embassy-contacts", 0, 0);
-tmenu73.addItem("Exhibitions", "http://www.qataronlinedirectory.com/qatar-exhibitions", 0, 0);
-tmenu73.addItem("Qatar General Information", "http://www.qataronlinedirectory.com/qatar-general-information", 0, 0);
-tmenu73.addItem("Government Organizations", "http://www.qataronlinedirectory.com/qatar-government-organisations", 0, 0);
-tmenu73.addItem("Useful Links","http://www.qataronlinedirectory.com/qatar-useful-links", 0, 0);
-tmenu73.addItem("International Codes", "http://www.qataronlinedirectory.com/qatar-international-codes", 0, 0);
-tmenu73.addItem("Doha", "http://www.qataronlinedirectory.com/pages/doha.php", 0, 0);
-var tmenu99 = ms.addMenu(document.getElementById("menu99"));
-tmenu99.addItem("Quick Help", "http://www.qataronlinedirectory.com/qatar-quick-help", 0, 0);
-tmenu99.addItem("Sitemap", "http://www.qataronlinedirectory.com/sitemap", 0, 0);
-tmenu99.addItem("FAQ's", "http://www.qataronlinedirectory.com/qatar-faqs", 0, 0);
-tmenu99.addItem("Feed Back", "http://www.qataronlinedirectory.com/pages/feedback.php", 0, 0);
+	document.getElementById("menu1").onmouseover = function() {
+		ms.hideCurrent();
+	}
 
+	//==================================================================================================
+	// create a dropdown menu
+	//==================================================================================================
+	// the first parameter should be the HTML element which will act actuator for the menu
+	//==================================================================================================
+	var menu1 = ms.addMenu(document.getElementById("menu65"));
+	menu1.addItem("Advertisement Tariff", "http://www.qataronlinedirectory.com/advertisement-tariff", 0, 0); 
+	menu1.addItem("Advertisement Sample", "http://www.qataronlinedirectory.com/advertisement-sample", 0, 0); 
+	menu1.addItem("Advertisement Dimensions", "http://www.qataronlinedirectory.com/advertisement-dimensions", 0, 0); // send no URL if nothing should happen onclick
+	//==================================================================================================
 
-				document.getElementById("menu1").onmouseover = function() {
-					ms.hideCurrent();
-				}
-				
-				TransMenu.renderAll();
-			}
-			init1=function(){TransMenu.initialize();}
-			if (window.attachEvent) {
-				window.attachEvent("onload", init1);
-			}else{
-				TransMenu.initialize();			
-			}
-			</script>
+	//==================================================================================================
+	var menu2 = ms.addMenu(document.getElementById("menu73"));
+	menu2.addItem("Media", "http://www.qataronlinedirectory.com/media-information", 0, 0);
+	menu2.addItem("Qatar Map", "http://www.qataronlinedirectory.com/qatar-map", 0, 0);
+	menu2.addItem("Ministries", "http://www.qataronlinedirectory.com/qatar-ministries", 0, 0);
+	menu2.addItem("Embassies", "http://www.qataronlinedirectory.com/qatar-embassy-contacts", 0, 0);
+	menu2.addItem("Exhibitions", "http://www.qataronlinedirectory.com/qatar-exhibitions", 0, 0);
+	menu2.addItem("Qatar General Information", "http://www.qataronlinedirectory.com/qatar-general-information", 0, 0);
+	menu2.addItem("Government Organizations", "http://www.qataronlinedirectory.com/qatar-government-organisations", 0, 0);
+	menu2.addItem("Useful Links", "http://www.qataronlinedirectory.com/qatar-useful-links", 0, 0);
+	menu2.addItem("International Codes", "http://www.qataronlinedirectory.com/qatar-international-codes", 0, 0);
+	menu2.addItem("Doha", "http://www.qataronlinedirectory.com/pages/doha.php", 0, 0);
+	//==================================================================================================
+
+	//==================================================================================================
+	var menu3 = ms.addMenu(document.getElementById("menu99"));
+	menu3.addItem("Quick Help", "http://www.qataronlinedirectory.com/qatar-quick-help", 0, 0);
+	menu3.addItem("Sitemap", "http://www.qataronlinedirectory.com/sitemap", 0, 0);
+	menu3.addItem("FAQ's", "http://www.qataronlinedirectory.com/qatar-faqs", 0, 0);
+	menu3.addItem("Feed Back", "http://www.qataronlinedirectory.com/pages/feedback.php", 0, 0);
+	//==================================================================================================
+	
+	document.getElementById("menu1").onmouseover = function() {
+		ms.hideCurrent();
+	}
+
+	//==================================================================================================
+	// write drop downs into page
+	//==================================================================================================
+	// this method writes all the HTML for the menus into the page with document.write(). It must be
+	// called within the body of the HTML page.
+	//==================================================================================================
+	TransMenu.renderAll();
+}
+</script>
 <!-- End menu --></div><!--<span class=ja-menu-right>&nbsp;</span>--></div></div>
     </div>
 <!--navigation ends-->
