@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the storeya.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218020240id_/http%3A//www.storeya.com/public/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storeya.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622221043id_/http%3A//www.storeya.com/public/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - StoreYa.com
 
