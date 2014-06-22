@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the landg.com privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117103153id_/http%3A//www.legalandgeneral.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landg.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622124102id_/http%3A//www.legalandgeneral.com/privacy-policy) for the most accurate reproduction.*
 
 # Legal & General - Privacy policy
 
