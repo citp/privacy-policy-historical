@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bigspaceship.com privacy policy that was archived on 2013-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130909002432id_/http%3A//www.bigspaceship.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigspaceship.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622120010id_/http%3A//www.bigspaceship.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy : Big Spaceship
+# Privacy Policy | Big Spaceship | DUMBO, NYC
 
 www.bigspaceship.com  
 labs.bigspaceship.com  
@@ -15,17 +15,17 @@ Big Spaceship LLC has created this Privacy Policy in order to demonstrate our fi
 
 Please carefully read our Privacy Policy and Terms and Conditions.
 
-THE WEBSITES
+##### THE WEBSITES
 
 The Websites present information and content that is owned, licensed, or provided by Big Spaceship LLC (“BSS”). The Sites may also include services provided by third parties and distributed through the Sites by virtue of a license, grant or some other form of agreement between the third party and BSS. When used in this Privacy Policy, “we”, “us” and “our” mean BSS.
 
-VISITING OUR WEBSITES
+##### VISITING OUR WEBSITES
 
 You can browse our Websites without providing any personal or individually identifiable information. You also may be able to set your browser to reject cookies. If you do that, the Websites may be less functional for you.
 
 There are times when you may choose to give us personally identifiable information about you. For example, you may wish to register to post entries or articles on the Websites, receive e-mails from us, receive invitations, attend events, preview new content, or to purchase goods and services available through the Sites. We need certain information from you to register you, authenticate you, and process your entries and payments, where necessary.
 
-KINDS OF INFORMATION WE COLLECT
+##### KINDS OF INFORMATION WE COLLECT
 
 We collect information that you voluntarily give us, as well as Site Visitorship Data, on the Websites.
 
@@ -61,11 +61,11 @@ Most Site Visitorship Data is collected using data collection tools such as web 
 • notify you about products or services that we, our third party marketing partners, and members may offer from time-to-time.  
 Circumstances may arise where, whether for strategic or other business reasons, BSS decides to sell, buy, merge or otherwise reorganize businesses. Such a transaction may involve the disclosure of personally identifiable information to prospective or actual purchasers, or the receipt of it from sellers. It is our practice to seek appropriate protection for information in these types of transactions.
 
-INFORMATION SECURITY
+##### INFORMATION SECURITY
 
 We may recommend or require the use of encryption technologies for certain types of communications conducted through the Websites. While we may provide those technologies and use other reasonable precautions to protect confidential information and provide suitable security, we do not guarantee that information transmitted through the Internet is secure, or that such transmissions will be free from delay, interruption, interception or error.
 
-DISCLOSURE OF INFORMATION
+##### DISCLOSURE OF INFORMATION
 
 BSS will not release any personally identifiable information to third parties without your consent except as follows:  
 (1) Anyone providing us their personally identifiable information grants BSS and its affiliates, the right to use their information internally without restrictions for the purposes of, but not limited to, research, marketing, and content and lead development.
@@ -79,7 +79,7 @@ BSS will not release any personally identifiable information to third parties wi
 • to companies that may acquire part or all of an affiliated company.  
 BSS is not responsible for the protection of the information you provide to other websites. You should be aware that when you voluntarily disclose personally identifiable information on other websites, such information can be collected and used by others and may result in unsolicited communications.
 
-COMMUNICATIONS
+##### COMMUNICATIONS
 
 From time to time, we may send e-mail to users regarding current projects, special offers, invitations to events, product testing opportunities and updates to the Sites, press releases and announcements concerning the services we provide, as well as important changes in our Terms and Conditions and Privacy Policy. By providing us your e-mail address, you consent to receiving such communications via e-mail. If at any time you decide for any reason that you no longer wish to receive such communications, you may opt out of receiving them by using one of the following methods:  
 • Select the e-mail “opt out” or “unsubscribe” link, or follow the opt-out instructions included in each subscription communication.  
@@ -88,17 +88,17 @@ From time to time, we may send e-mail to users regarding current projects, speci
 
 Please be aware that when you opt out of receiving communications, it may affect the services you have chosen to receive from us where accepting the communications is a condition of receiving the services.
 
-HYPERLINKS AND REFERRALS
+##### HYPERLINKS AND REFERRALS
 
 Websites accessible via our Websites (through hyperlinks, banner advertisements or otherwise) have their own privacy policies and data collection, use and disclosure practices. Please consult each site’s Terms and Conditions and Privacy Policy prior to use. When you click on a hyperlink, sponsored link or banner advertisement, a new browser window or frame containing a third party’s website may appear in the foreground with a BSS Website remaining in the background. Any time that you have moved to a new window or frame containing a third party’s website, you will no longer be on the BSS Website, and are no longer protected by this Privacy Policy or our Terms and Conditions.
 
-CHILDREN’S PRIVACY
+##### CHILDREN’S PRIVACY
 
 We do not knowingly collect or distribute personally identifiable information from minor children. If you are the parent or guardian of a minor child and believe that they have disclosed personally identifiable information to us, please contact us by e-mail so that we may delete the minor’s information. You can learn more about children’s privacy and the Children’s Online Privacy Protection Act (COPPA) at the Federal Trade Commission’s website at:
 
 http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/index.html
 
-SAFE HARBOR DATA PRIVACY NOTICE
+##### SAFE HARBOR DATA PRIVACY NOTICE
 
 The United States Department of Commerce and the European Commission have agreed on a set of data protection principles and frequently asked questions (the “Safe Harbor Principles”) to enable U.S. companies to satisfy the requirement under European Union law that adequate protection be given to personal information transferred from the EU to the United States. BSS adheres to the Safe Harbor Principles with respect to personally identifiable information it receives from the European Union. This notice outlines our general policy and practices in compliance with the Safe Harbor Principles, including the type of information to which this notice applies, how we use information, and your choices regarding our use of, and your ability to correct, your personally identifiable information. For purposes of this notice, “personally identifiable information” includes information (a) transferred from the European Union to the United States; (b) recorded in any form by us; and (c) pertaining to a specific individual who is identified in, or is identifiable from, the data. This notice applies to all personally identifiable information we handle, including on-line (except as noted below), off-line, and manually processed data. If there is any conflict between this Privacy Policy and the Safe Harbor Principles, the Safe Harbor Principles will govern.
 
@@ -118,10 +118,10 @@ Security & Enforcement
 
 BSS will take reasonable precautions to protect personal information in its possession from loss, misuse and unauthorized access, disclosure, alteration and destruction, and it will conduct compliance audits of its relevant privacy practices to verify adherence to this Privacy Policy. Any questions or concerns regarding the use or disclosure of personal information should be directed to the BSS at the address given below. BSS will investigate and attempt to resolve complaints and disputes regarding use and disclosure of personal information in accordance with the principles contained in this Policy. For complaints that cannot be resolved between the Company and the complainant, the Company has agreed to participate in the dispute resolution procedures of the American Arbitration Association to resolve disputes pursuant to the Safe Harbor Principles.
 
-EFFECTIVE DATE
+##### EFFECTIVE DATE
 
 This Privacy Policy is effective as of December 22, 2008. We reserve the right to change this Privacy Policy at any time. If we change it, we will post the then-current Privacy Policy on this page. Any changes to this Privacy Policy will be effective as of the day they are posted.
 
-CONTACT US
+##### CONTACT US
 
 It is important for us to know what visitors have to say about our Websites. To contact us with your questions or comments please email us at info@bigspaceship.com.
