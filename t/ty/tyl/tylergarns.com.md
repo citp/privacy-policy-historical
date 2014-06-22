@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tylergarns.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216200232id_/http%3A//www.tylergarns.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tylergarns.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622094337id_/http%3A//www.tylergarns.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy « Tyler Garns
 
