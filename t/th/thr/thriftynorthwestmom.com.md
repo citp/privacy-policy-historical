@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thriftynorthwestmom.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230235957id_/http%3A//www.thriftynorthwestmom.com/contact/disclosure-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thriftynorthwestmom.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622050520id_/http%3A//www.thriftynorthwestmom.com/contact/disclosure-privacy-policy) for the most accurate reproduction.*
 
 # Disclosure & Privacy Policy - Thrifty NW Mom
 
@@ -42,16 +42,3 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
 _AdSense Privacy Policy Provided by JenSense_
-
-Be Sociable, Share!
-
-  * [](http://twitter.com/intent/tweet?text=Disclosure%20%26%20Privacy%20Policy%20-%20http%3A%2F%2Fwww.thriftynorthwestmom.com%2Fcontact%2Fdisclosure-privacy-policy%2F%20 "Twitter")
-  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.thriftynorthwestmom.com%2Fcontact%2Fdisclosure-privacy-policy%2F&t=Disclosure%20%26%20Privacy%20Policy "Facebook")
-  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Disclosure%20%26%20Privacy%20Policy&body=http%3A%2F%2Fwww.thriftynorthwestmom.com%2Fcontact%2Fdisclosure-privacy-policy%2F&ui=2&tf=1&shva=1 "email")
-  *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.thriftynorthwestmom.com%2Fcontact%2Fdisclosure-privacy-policy%2F&title=Disclosure%20%26%20Privacy%20Policy "StumbleUpon")
-  * [](http://delicious.com/post?url=http%3A%2F%2Fwww.thriftynorthwestmom.com%2Fcontact%2Fdisclosure-privacy-policy%2F&title=Disclosure%20%26%20Privacy%20Policy&notes=Disclosure%20Policy%3A%0D%0AThis%20policy%20is%20valid%20from%2030%20November%202009%0D%0A%0D%0AThis%20blog%20is%20a%20personal%20blog%20written%20and%20edited%20by%20me%20%28Jennifer%20Dotson%29.%20%C2%A0I%20make%20every%20attempt%20to%20post%20information%20that%20is%20both%20accurate%20%26amp%3B%20timely%3B%20however%20I%20am%20human%20%26amp%3B%20do%20make "Delicious")
-  * [](http://www.google.com/reader/link?url=http%3A%2F%2Fwww.thriftynorthwestmom.com%2Fcontact%2Fdisclosure-privacy-policy%2F&title=Disclosure%20%26%20Privacy%20Policy&srcURL=http%3A%2F%2Fwww.thriftynorthwestmom.com%2Fcontact%2Fdisclosure-privacy-policy%2F&srcTitle=Thrifty+NW+Mom+ "Google Reader")
-  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.thriftynorthwestmom.com%2Fcontact%2Fdisclosure-privacy-policy%2F&title=Disclosure%20%26%20Privacy%20Policy&source=Thrifty+NW+Mom+&summary=Disclosure%20Policy%3A%0D%0AThis%20policy%20is%20valid%20from%2030%20November%202009%0D%0A%0D%0AThis%20blog%20is%20a%20personal%20blog%20written%20and%20edited%20by%20me%20%28Jennifer%20Dotson%29.%20%C2%A0I%20make%20every%20attempt%20to%20post%20information%20that%20is%20both%20accurate%20%26amp%3B%20timely%3B%20however%20I%20am%20human%20%26amp%3B%20do%20make "LinkedIn")
-  * [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http%3A%2F%2Fwww.thriftynorthwestmom.com%2Fcontact%2Fdisclosure-privacy-policy%2F&Title=Disclosure%20%26%20Privacy%20Policy "BlinkList")
-  * 
-
