@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internetdownloadmanager.com privacy policy that was archived on 2013-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130915105753id_/http%3A//www.internetdownloadmanager.com/support/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetdownloadmanager.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622195640id_/http%3A//www.internetdownloadmanager.com/support/privacy.html) for the most accurate reproduction.*
 
 # Internet Download Manager - the fastest download accelerator
 
