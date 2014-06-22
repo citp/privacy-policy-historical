@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the fanexpocanada.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508202250id_/http%3A//www.fanexpocanada.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanexpocanada.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622171827id_/http%3A//www.fanexpocanada.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fan Expo Canada
 
 This is the web site of www.fanexpocanada.com – The Home of Fan Expo Canada.
 
-We can be reached via e-mail at info@hobbystar.com
+We can be reached via e-mail at [info@fanexpohq.com](mailto:info@fanexpohq.com)
 
 For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
 
