@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careeralerter.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524021645id_/http%3A//www.careeralerter.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careeralerter.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622195033id_/http%3A//www.careeralerter.com/privacy.php) for the most accurate reproduction.*
 
 # Career Alerter
 
@@ -6,9 +6,9 @@
 
 * * *
 
-#### Updated April 5, 2011
+#### Updated 2014
 
-Careeralerter.com ("Career Alerter") takes your privacy very seriously and has created this Privacy Policy in order to disclose its use of consumer data collected about you. You may contact Career Alerter at 15143 Woodlawn Avenue, Tustin, CA 92780 USA or via our [contact form](https://web.archive.org/web/20130524021645id_/http%3A//www.careeralerter.com/contact.php).
+Careeralerter.com ("Career Alerter") takes your privacy very seriously and has created this Privacy Policy in order to disclose its use of consumer data collected about you. You may contact Career Alerter at 2312 Park Ave #408, Tustin, CA 92782 USA or via our [contact form](https://web.archive.org/web/20140622195033id_/http%3A//www.careeralerter.com/contact.php).
 
 By using the Career Alerter website, or submitting information to us by other means, you are subjecting your information to the practices outlined in this Privacy Policy. This Privacy Policy covers Career Alerter's treatment of personal information that we collect when you are on Career Alerter's website and when you use Career Alerter's services. This policy does not apply to the practices of third parties that Career Alerter does not own or control, including websites that we may link to, or to individuals that Career Alerter does not employ or manage.
 
@@ -46,11 +46,11 @@ Career Alerter's site is not intended for and may not be used by children under 
 
 Career Alerter uses automated processes and third party aggregators to collect and present information that has been created by third parties, so we cannot verify the accuracy or legitimacy of all job postings displayed on our site. We strongly encourage you to exercise caution when providing information about yourself to others online, including when you apply for jobs found on Career Alerter. 
 
-Never provide your social security number, credit card information, bank account details, or unnecessary personal information to a potential employer. Never participate in a financial transaction of any sort with a potential employer. Always be cautions of opportunities that sound too good to be true or require you to act as a financial intermediary, particularly for an overseas person.
+Never provide your social security number, credit card information, bank account details, or unnecessary personal information to a potential employer. Never participate in a financial transaction of any sort with a potential employer. Always be cautious of opportunities that sound too good to be true or require you to act as a financial intermediary, particularly for an overseas person.
 
 #### Cookies
 
-"Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. Career Alerter's site may use cookies to keep track of your session and advertising delivery. Career Alerter may also use cookies to deliver content specific to your interests and to save a password associated with a user profile. We use third-party advertising companies to serve ads when you visit our site. These companies may use third-party cookies to record information (excluding your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. You can learn more [here](http://www.google.com/privacy/ads/).
+Cookies are small pieces of information that are stored by your browser on your computers hard drive. Career Alerter may use cookies to keep track of your session and advertising delivery. Career Alerter or our partners may also use cookies to deliver content specific to your interests and to save a password associated with a user profile. We use third-party advertising companies to serve ads when you visit our site. These companies may use third-party cookies to record information (excluding your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you on others websites. You can learn more [here](http://www.google.com/privacy/ads/). You can opt-out of this type of advertising [here](http://www.aboutads.info/).
 
 #### Links to Third Party Sites
 
@@ -62,12 +62,12 @@ If there is a change of control in Career Alerter's business (whether by merger,
 
 #### Conditions of Use
 
-If you decide to use Career Alerter's site or services, your use and any possible dispute over privacy is subject to this Privacy Policy. If you have questions about this Privacy Policy, you can [contact us](https://web.archive.org/web/20130524021645id_/http%3A//www.careeralerter.com/contact.php).
+If you decide to use Career Alerter's site or services, your use and any possible dispute over privacy is subject to this Privacy Policy. If you have questions about this Privacy Policy, you can [contact us](https://web.archive.org/web/20140622195033id_/http%3A//www.careeralerter.com/contact.php).
 
 #### Contact Information
 
   * Career Alerter
-  * 15143 Woodlawn Avenue
-  * Tustin, CA 92780 USA
+  * 2312 Park Ave #408
+  * Tustin, CA 92782 USA
 
 
