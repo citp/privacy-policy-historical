@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wooga.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229182946id_/http%3A//www.wooga.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wooga.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622202134id_/http%3A//www.wooga.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wooga
 
@@ -10,7 +10,7 @@
 
 This data protection notice tells users how their personal data is used. 
 
-The company responsible is **Wooga GmbH** (“ **Wooga** “, “we”, “our”). Users can find out more about **Wooga** in the Contact or Imprint information [(http://www.wooga.com/legal/contact)](http://www.wooga.com/legal/contact/). 
+The company responsible is **Wooga GmbH** (“ **Wooga** “, “we”, “our”). Users can find out more about **Wooga** in the Contact or Imprint information [(http://www.wooga.com/about/contact)](http://www.wooga.com/about/contact/). 
 
 **Wooga** provides games and related services that can be used with friends or in a social network. Users share, sample and design games with other people – our services unite people in fun and enjoyment. At the same time though, we take the privacy of the user’s personal details very seriously and handle them with great care, in keeping with data protection law. Where applicable, before commencing play, the user consents to its personal data being recorded and used by us in the way described in this data protection notice. The user’s data is needed for actual technical usage, for the communicative setup, and for our games to be further developed. 
 
