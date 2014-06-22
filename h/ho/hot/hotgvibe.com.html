@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hotgvibe.com privacy policy that was archived on 2013-11-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131116193502id_/http%3A//www.hotgvibe.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hotgvibe.com privacy policy that was archived on 2014-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140622160837id_/http%3A//www.hotgvibe.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml1-strict.dtd"><html dir="ltr" lang="en"><head>
 <meta charset="UTF-8">
@@ -15,9 +15,8 @@
 <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300" rel="stylesheet" type="text/css">
 
 
-
 <!--Javascript-->
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="catalog/view/theme/leisure/js/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="catalog/view/theme/leisure/js/jquery-1.7.2.min.js"></script>
 <script type="text/javascript" src="catalog/view/theme/leisure/js/jquery.flexslider.js"></script>
 <script type="text/javascript" src="catalog/view/theme/leisure/js/jquery.easing.js"></script>
 <script type="text/javascript" src="catalog/view/theme/leisure/js/jquery.jcarousel.js"></script>
@@ -46,36 +45,37 @@
 
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    //ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    // Demography and Interest
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 
 </script>
 <script type="text/javascript">
-$(document).ready(function() {
-	$('.main-navigation-links > li').hover(function() {
-		if(isResponsive() === false) {
-		    $(this).find('a:first').addClass('main-navigation-on');
-		    $('.sub_menu', this).stop(true, true).slideDown(250);
-	   }
-	}, function() {
-		if(isResponsive() === false) {
-		    $(this).children().removeClass('main-navigation-on');
-		    $('.sub_menu', this).stop(true, true).slideUp(250);
-	   }
+	$(document).ready(function() {
+		$('.main-navigation-links > li').hover(function() {
+			if (isResponsive() === false) {
+				$(this).find('a:first').addClass('main-navigation-on');
+				$('.sub_menu', this).stop(true, true).slideDown(250);
+			}
+		}, function() {
+			if (isResponsive() === false) {
+				$(this).children().removeClass('main-navigation-on');
+				$('.sub_menu', this).stop(true, true).slideUp(250);
+			}
+		});
+
+		$('.input-text').keypress(function(e) {
+			if (e.which == 13) {
+				$('.button-search').trigger('click');
+			}
+		});
 	});
-	
-	$('.input-text').keypress(function(e) {
-	    if (e.which == 13) {
-	        $('.button-search').trigger('click');
-	    }
-	});
-});
 </script>
 
 <script type="text/javascript" charset="iso-8859-1" src="https://server.iad.liveperson.net/hcp/html/mTag.js?site=711567"></script></head>
 <body>
-
 
 <!-- Start: .wrapper -->
 <div id="information-information" class="wrapper">
@@ -85,7 +85,14 @@ $(document).ready(function() {
 		<div class="top-navigation-container">
 			<!-- Start: .top-navigation-box -->
 			<div class="top-navigation-box">
-				<p class="welcome-message">Welcome to HotGVibe.com</p>
+				<!--
+					<p class="welcome-message">Welcome to HotGVibe.com</p>
+				-->
+				
+				<div class="shipping-box">
+					<img src="/catalog/view/theme/leisure/temp/discreet-shipping-37x30.png">
+					<p><a href="/discreet/">Discreet Shipping</a></p>
+				</div>
 				
 				<!-- Start: .contact-information-box -->
 				<div class="contact-information-box">
@@ -94,26 +101,21 @@ $(document).ready(function() {
 				<!-- End: .contact-information-box -->
 				
 				<!-- Start: LiveAgent Chat -->
-				<!---->
 				<div id="liveAgentChat">
-					<table border="0" cellspacing="2" cellpadding="2">
-					<tbody><tr><td>
-						<script type="text/javascript" id="la_x2s6df8d" src="//166.78.106.181/scripts/track.js"></script>
+					<script type="text/javascript" id="la_x2s6df8d" src="//166.78.106.181/scripts/track.js"></script>
 						<img src="//166.78.106.181/scripts/pix.gif" onload="LiveAgentTracker.createButton('5655ef98', this);">
-					</td></tr>
-				</tbody></table>
-				</div>
-				
-				<script type="application/javascript">
-					if ("https:" == document.location.protocol) {
-						$('#liveAgentChat').hide();
-					}
-				</script>
-				<!--
-					<table border='0' cellspacing='2' cellpadding='2'><tr><td align="center"></td><td align='center'><a id="_lpChatBtn" href='https://server.iad.liveperson.net/hc/711567/?cmd=file&file=visitorWantsToChat&site=711567&byhref=1&imageUrl=https://www.hotgvibe.com/catalog/view/theme/leisure/temp' target='chat711567'  onClick="lpButtonCTTUrl = 'https://server.iad.liveperson.net/hc/711567/?cmd=file&file=visitorWantsToChat&site=711567&imageUrl=https://www.hotgvibe.com/catalog/view/theme/leisure/temp&referrer='+escape(document.location); lpButtonCTTUrl = (typeof(lpAppendVisitorCookies) != 'undefined' ? lpAppendVisitorCookies(lpButtonCTTUrl) : lpButtonCTTUrl); lpButtonCTTUrl = ((typeof(lpMTag)!='undefined' && typeof(lpMTag.addFirstPartyCookies)!='undefined')?lpMTag.addFirstPartyCookies(lpButtonCTTUrl):lpButtonCTTUrl);window.open(lpButtonCTTUrl,'chat711567','width=475,height=400,resizable=yes');return false;" ><img src='https://server.iad.liveperson.net/hc/711567/?cmd=repstate&site=711567&channel=web&&ver=1&imageUrl=https://www.hotgvibe.com/catalog/view/theme/leisure/temp' name='hcIcon' alt='Chat Button' border=0></a></td></tr></table>
-					 End: LiveAgent Chat
-				-->
-				
+					</div>
+					
+					<script type="application/javascript">
+						if ("https:" == document.location.protocol) {
+							$('#liveAgentChat').hide();
+						}
+					</script>
+					
+					<!--
+						<table border='0' cellspacing='2' cellpadding='2'><tr><td align="center"></td><td align='center'><a id="_lpChatBtn" href='https://server.iad.liveperson.net/hc/711567/?cmd=file&file=visitorWantsToChat&site=711567&byhref=1&imageUrl=https://www.hotgvibe.com/catalog/view/theme/leisure/temp' target='chat711567'  onClick="lpButtonCTTUrl = 'https://server.iad.liveperson.net/hc/711567/?cmd=file&file=visitorWantsToChat&site=711567&imageUrl=https://www.hotgvibe.com/catalog/view/theme/leisure/temp&referrer='+escape(document.location); lpButtonCTTUrl = (typeof(lpAppendVisitorCookies) != 'undefined' ? lpAppendVisitorCookies(lpButtonCTTUrl) : lpButtonCTTUrl); lpButtonCTTUrl = ((typeof(lpMTag)!='undefined' && typeof(lpMTag.addFirstPartyCookies)!='undefined')?lpMTag.addFirstPartyCookies(lpButtonCTTUrl):lpButtonCTTUrl);window.open(lpButtonCTTUrl,'chat711567','width=475,height=400,resizable=yes');return false;" ><img src='https://server.iad.liveperson.net/hc/711567/?cmd=repstate&site=711567&channel=web&&ver=1&imageUrl=https://www.hotgvibe.com/catalog/view/theme/leisure/temp' name='hcIcon' alt='Chat Button' border=0></a></td></tr></table>
+						 End: LiveAgent Chat
+					-->
 				<div class="clear"></div>
 			</div>
 			<!-- End: .top-navigation-box -->
@@ -126,7 +128,7 @@ $(document).ready(function() {
 			<div class="middle-box">
 								<h1>
 					<a href="/">
-						<img class="logo" src="http://www.hotgvibe.com/image/data/hgv-logo.png" title="HotGVibe" alt="HotGVibe">
+						<img height="87" class="logo" src="http://www.hotgvibe.com/image/data/hgv-logo.png" title="HotGVibe" alt="HotGVibe">
 					</a>
 				</h1>
 								
@@ -140,46 +142,50 @@ $(document).ready(function() {
 								<script type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=YYCTBStxGor3dut5T42VH7kbEDvMiJpZ0KQoQnt3RrOivFLcB6"></script>
 							</span>
 						</div>
-						
-						<div class="shipping-box">
-							<p><a href="/discreet/">Discreet Shipping</a></p>
-							<span class="discreet-icon"></span>
+	
+						<div class="free-shipping-box">
+							<img src="/catalog/view/theme/leisure/temp/shipping-logos.png">
+							<p>
+								<strong>FREE Shipping</strong> on orders over $80<br>
+								Using coupon code: <strong>FREE80</strong>
+							</p>
 						</div>
 					</div>
 					<!-- End: .shipping-secure-box -->
-				
-					<div class="clear"></div>
-				
-					<!-- Start: .button-red-header -->
-					<a href="index.php?route=checkout/cart" title="Checkout" class="button-red-header">Checkout</a>
-					<!-- End: .button-red-header -->
-				
-					<!-- Start: .cart-box -->
-					<div class="cart-box">
-						<div class="minicart"> 
+			
+				<div class="clear"></div>
+			
+				<!-- Start: .button-red-header -->
+				<a href="index.php?route=checkout/cart" title="Checkout" class="button-red-header">Checkout</a>
+				<!-- End: .button-red-header -->
+			
+				<!-- Start: .cart-box -->
+				<div class="cart-box">
+					<div class="minicart"> 
 	<a href="index.php?route=checkout/cart" class="minicart_link"><span class="total-items">0</span> <span class="items-in-cart">item(s) - $0.00<span></span></span></a>
 	
 	<div class="cart_drop">
 				<div class="empty">Your shopping cart is empty!</div>
 			</div>
 </div>
-					</div>
-					<!-- End: .cart-box -->
+				</div>
+				<!-- End: .cart-box -->
+			
+				<div id="mobile-search">
+					<img src="/catalog/view/theme/leisure/temp/mobile-search.png" alt="Search Hot G Vibe">
+				</div>
 				
-					<div id="mobile-search">
-						<img src="/catalog/view/theme/leisure/temp/mobile-search.png" alt="Search Hot G Vibe">
-					</div>
-					
-					<div class="mobile-menu">
-						<img src="/catalog/view/theme/leisure/temp/mobile-menu.png" alt="mobile menu">
-					</div>
-					
-					<!-- Start: .search-box -->
-					<div id="search" class="search-box">
-												<input type="text" name="filter_name" value="Search" onclick="this.value = '';" class="input-text" autocomplete="off">
-												<input type="submit" title="Search" class="button-search">
-					</div>
-					<!-- End: .search-box -->
+				<div class="mobile-menu">
+					<img src="/catalog/view/theme/leisure/temp/mobile-menu.png" alt="mobile menu">
+				</div>
+				
+				<!-- Start: .search-box -->
+				<div id="search" class="search-box">
+										<input type="text" name="filter_name" value="Search" onclick="this.value = '';" class="input-text" autocomplete="off">
+										<input type="submit" title="Search" class="button-search">
+				</div>
+				<!-- End: .search-box -->
+				
 				</div>
 				<!-- End: .middle-right-container -->
 				
@@ -206,9 +212,6 @@ $(document).ready(function() {
 																<li><a href="/store/best/">Best Sellers</a></li>
 															</ul>
 														<ul>
-																<li><a href="/store/new/">Newest Sex Toys</a></li>
-															</ul>
-														<ul>
 																<li><a href="/store/anal-toys/">Anal Toys</a></li>
 															</ul>
 														<ul>
@@ -218,16 +221,13 @@ $(document).ready(function() {
 																<li><a href="/store/cock-rings/">Cock Rings</a></li>
 															</ul>
 														<ul>
-																<li><a href="/store/dildos-dongs/">Dildos and Dongs</a></li>
+																<li><a href="/store/dildos-dongs/">Dildos &amp; Dongs</a></li>
 															</ul>
 														<ul>
-																<li><a href="/store/kits-and-packages/">Kits and Packages</a></li>
+																<li><a href="/store/kits-and-packages/">Kits &amp; Packages</a></li>
 															</ul>
 														<ul>
-																<li><a href="/store/lubes-oils/">Lubes and Oils</a></li>
-															</ul>
-														<ul>
-																<li><a href="/store/penis-extenders/">Penis Extenders</a></li>
+																<li><a href="/store/lubes-oils/">Lubes &amp; Oils</a></li>
 															</ul>
 														<ul>
 																<li><a href="/store/sexual-accessories/">Sex Toy Accessories</a></li>
@@ -236,13 +236,10 @@ $(document).ready(function() {
 																<li><a href="/store/sexual-enhancers/">Sexual Enhancers</a></li>
 															</ul>
 														<ul>
-																<li><a href="/store/sleeves-masturbators/">Sleeves and Masturbators</a></li>
+																<li><a href="/store/sleeves-masturbators/">Sleeves &amp; Masturbators</a></li>
 															</ul>
 														<ul>
 																<li><a href="/store/vibrators/">Vibrators</a></li>
-															</ul>
-														<ul>
-																<li><a href="/store/specials/">Weekly Specials</a></li>
 															</ul>
 														</li>
 													</ul>
@@ -255,9 +252,6 @@ $(document).ready(function() {
 															</ul>
 														<ul>
 																<li><a href="/sex-toys-for-women/g-spot-vibrators/">G-Spot Vibrators</a></li>
-															</ul>
-														<ul>
-																<li><a href="/sex-toys-for-women/bullet-vibrators/">Bullet Vibrators</a></li>
 															</ul>
 														<ul>
 																<li><a href="/sex-toys-for-women/small-discreet-vibrators/">Small &amp; Discreet Vibes</a></li>
@@ -282,9 +276,6 @@ $(document).ready(function() {
 															</ul>
 														<ul>
 																<li><a href="/store/cock-rings/">Cock Rings</a></li>
-															</ul>
-														<ul>
-																<li><a href="/store/penis-extenders/">Penis Extenders &amp; Pumps</a></li>
 															</ul>
 														<ul>
 																<li><a href="/store/sexual-enhancers/">Sexual Enhancers</a></li>
@@ -316,21 +307,12 @@ $(document).ready(function() {
 														</li>
 													</ul>
 											</li>
-										<li><a href="/sale/">SALE!</a>
+										<li><a href="/sale/?limit=50">SALE!</a>
 											</li>
 						            	</ul>
 	            	<br clear="all">
 	            </div>
 						
-			<div class="free-shipping-box">
-				<!-- Reversed order due to "float: right;" -->
-				<p>
-					<strong>FREE</strong> Shipping on orders over $89<br>
-					* Standard Shipping USA &amp; Canada
-				</p>
-				<span class="free-shipping-icon"></span>
-			</div>
-			
 			<div class="clear"></div>
 		</div>
 		<!-- End: .main-navigation-container -->
@@ -462,7 +444,7 @@ $(document).ready(function() {
                                                                 <li><a href="/sex-toys-for-women/">For Women</a></li>
                                                                 <li><a href="/sex-toys-for-men/">For Men</a></li>
                                                                 <li><a href="/sex-toys-for-couples/">For Couples</a></li>
-                                                                <li><a href="/sale/">SALE!</a></li>
+                                                                <li><a href="/sale/?limit=50">SALE!</a></li>
                                                         </ul>
                                         </div>
 
@@ -484,7 +466,7 @@ $(document).ready(function() {
                         <li><a href="/terms/">Terms &amp; Conditions</a></li>
                         <li><a href="/affiliates/">Affiliates</a></li>
                         <li><a href="/contest">Contest</a></li>
-                        <!--<li><a href="/index.php?route=package/tracker">Track your package</a></li>-->
+                        <li><a href="http://www.hotgvibe.com/index.php?route=information/contact">Track your package</a></li>
                     </ul>
                 </div>
 
