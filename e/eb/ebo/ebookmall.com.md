@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebookmall.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221121624id_/http%3A//www.ebookmall.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebookmall.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622111633id_/http%3A//www.ebookmall.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - eBookMall
 
