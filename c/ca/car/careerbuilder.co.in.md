@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careerbuilder.co.in privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231083032id_/http%3A//www.careerbuilder.co.in/IN/JobSeeker/Info/Privacy.aspx%3Ftnc%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerbuilder.co.in privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622111630id_/http%3A//www.careerbuilder.co.in/IN/JobSeeker/Info/Privacy.aspx%3Ftnc%3Dprivacy) for the most accurate reproduction.*
 
 # CareerBuilder India - Privacy
 
