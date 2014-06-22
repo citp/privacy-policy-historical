@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the grahamandgreen.co.uk privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221192316id_/http%3A//www.grahamandgreen.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grahamandgreen.co.uk privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622172636id_/http%3A//www.grahamandgreen.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy & Security
 
 **Cookies**
 
-In our effort to be transparent with our visitors and to comply with the recent legislation we are providing you with details of how Graham and Green use cookies on this website.
+In our effort to be transparent with our visitors and to comply with legislation we are providing you with details of how Graham and Green use cookies on this website.
 
 Graham and Green use cookies (small text files) to store information on your computer. Cookies can not harm your computer and we do not store any personally identifiable information such as credit card details. Some of these cookies are required to make our site work, remember what you have placed in your basket, ensure your security when logged into the website and maintain the functions that support your customer journey. We also have performance cookies that help us improve our service by giving us insight into how the site is being used.
 
@@ -20,7 +20,7 @@ For further information on the cookie legislation and information on how to enab
 
 The Graham and Green website ('site') is a UK-based website and is in accordance with the requirements of the UK Data Protection Act 1998 relating to the personal information you supply on the Site. The Site uses a security system that protects your information from unauthorised use.
 
-Every time you enter an area of the site that has or requires sensitive information such as your credit card details, an icon will appear at the bottom of your browser window that looks like a padlock. This is an indication that the site is secure:
+Every time you enter an area of the site that has or requires sensitive information such as your credit card details, an icon will appear either at the bottom of your browser window that looks like a padlock or within the address bar. This is an indication that the site is secure:
 
 Another indicator that your page is secure is that the “https” will replace the “http” url. Graham & Green Online uses the Secure Sockets Layer (SSL) and Private Communications Technology security standards that are supported by Microsoft Internet Explorer 4.0 or later and other popular browsers. SSL encodes your personal information and all your transactions are protected by this powerful SSL encryption technology. SSL encrypts your credit card number, name, address, phone number, identification number and password as it travels through the Internet, so that it cannot be read by anyone other than the secure server.
 
