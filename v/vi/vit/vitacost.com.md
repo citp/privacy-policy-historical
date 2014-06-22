@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vitacost.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507110404id_/http%3A//www.vitacost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitacost.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622191130id_/http%3A//www.vitacost.com/privacy) for the most accurate reproduction.*
 
 # Vitacost.com Web Site Privacy Statment - Vitacost
 
@@ -8,7 +8,7 @@
 
 Effective on: (03/2/2013)
 
-Vitacost is committed to your privacy. This notice serves to help you better understand what information Vitacost collects, how it uses that information, and with whom Vitacost may share a limited portion of that information with. The most recent version of Vitacost's privacy policy can be found on this page (http://www.vitacost.com/privacy). If you have questions or concerns regarding this policy, you should contact [Customer Support](https://web.archive.org/survey-contact-us) by email. 
+Vitacost is committed to your privacy. This notice serves to help you better understand what information Vitacost collects, how it uses that information, and with whom Vitacost may share a limited portion of that information with. The most recent version of Vitacost's privacy policy can be found on this page (http://www.vitacost.com/privacy). If you have questions or concerns regarding this policy, you should contact [Customer Support](http://service.vitacost.com/) by email. 
 
 Vitacost knows that you value your personal information, and we protect your privacy as if it were our own. Vitacost's uses of your information is limited to the ways outlined in this notice, except as required by law and/or to comply with a judicial proceeding, court order, or legal process served on our website. 
 
@@ -38,7 +38,7 @@ How does Vitacost use this information?
 
 Vitacost uses information collected in these ways: 
 
-  1. **Order processing and customer service:** After placing an online order, your contact information including your email address will be used to get in touch with you should we have questions regarding your order or should we need to notify you of the status of your order. Your credit card information is transmitted securely to our third part processing provider in compliance with Payment Card Industry standards. You will automatically be registered to receive our email newsletter, which are you able to opt out of at any time by accessing your user account, following the unsubscribe link found in the email newsletter, or sending an email to newsletter@vitacost.com with the word UNSUBSCRIBE followed by your email address in the subject of the email (example: UNSUBSCRIBE youremail@emailaddress.com).
+  1. **Order processing and customer service:** After placing an online order, your contact information including your email address will be used to get in touch with you should we have questions regarding your order or should we need to notify you of the status of your order. Your credit card information is transmitted securely to our third part processing provider in compliance with Payment Card Industry standards. You will automatically be registered to receive our email newsletter, which you are able to opt out of at any time by accessing your user account, following the unsubscribe link found in the email newsletter, or sending an email to newsletter@vitacost.com with the word UNSUBSCRIBE followed by your email address in the subject of the email (example: UNSUBSCRIBE youremail@emailaddress.com).
   2. **Third-party service providers:** Vitacost works closely with other companies and individuals to facilitate transactions and better your experience. Examples of third-party service provider services include shipping orders, analyzing data, providing accurate search results and links, processing credit card payments, affiliate marketing, and newsletters. Any information that Vitacost shares with a third-party service provider is done so safely, securely, and under a contractual relationship with that provider to protect your data.
   3. **Promotional offers:** From time to time we or a service provider acting on our behalf may use your name, email address, and/or mailing address to send you an offer for a Vitacost product or service we believe to be of interest to you.
   4. **Other information you provide us:** Information you provide us for specific offers or services is only used for the limited purpose for which the information is being given. Examples of these offers or services include Refer-A-Friend, Email to a Friend, surveys, and sweepstakes. 
@@ -66,7 +66,7 @@ back to top
 
 Can I opt-out?
 
-At any time you can adjust your communication preferences, including opting out of promotional mailings, from within your Vitacost account. You additionally have the right to remove your account, and any personally identifiable information associated with it, from the Vitacost database. To do so, you may call or email [Customer Service](https://web.archive.org/survey-contact-us). 
+At any time you can adjust your [communication preferences](https://www.vitacost.com/MyAccount/ManageCommunications.aspx), including opting out of promotional mailings, from within your Vitacost account. You also have the right to disable your account. To do so, you may call or email [Customer Service](http://service.vitacost.com/). 
 
 back to top  
 
