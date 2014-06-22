@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailyiphoneblog.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222171744id_/http%3A//dailyiphoneblog.com/2009/04/16/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyiphoneblog.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622204208id_/http%3A//dailyiphoneblog.com/2009/04/16/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Daily iPhone Blog
 
@@ -134,13 +134,13 @@ Changes to This Policy
 
 ### Related Posts on Daily iPhone Blog :
 
+  * [](http://dailyiphoneblog.com/2014/03/12/iphone-return-period-cut-in-half-to-14-days/)
+
   * [](http://dailyiphoneblog.com/2011/02/15/apple-finally-launches-subscriptions-on-the-app-store/)
 
   * [](http://dailyiphoneblog.com/2011/06/28/apple-offers-7-day-refund-policy-for-paid-app-store-applications-in-taiwan/)
 
   * [](http://dailyiphoneblog.com/2011/05/11/apple-and-google-defend-phone-privacy-practices/)
-
-  * [](http://dailyiphoneblog.com/2010/05/19/apple-says-no-cash-for-ipad-or-iphone/)
 
 
 
