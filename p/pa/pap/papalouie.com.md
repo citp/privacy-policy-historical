@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the papalouie.com privacy policy that was archived on 2013-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131027144003id_/http%3A//www.papalouie.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the papalouie.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623064425id_/http%3A//www.papalouie.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Flipline Studios
 
 This Privacy Policy discloses the privacy practices for www.flipline.com and www.papalouie.com. This policy may be updated from time to time, and the revised policy will appear on this website.
 
-The Flipline Studios website located at [www.flipline.com](https://web.archive.org/web/20131027144003id_/http%3A//www.papalouie.com/www.flipline.com) and the Papa Louie Arcade website located at [www.papalouie.com](https://web.archive.org/web/20131027144003id_/http%3A//www.papalouie.com/www.papalouie.com) is run by Flipline IDS LLC under the trade name of Flipline Studios ([www.flipline.com](https://web.archive.org/web/20131027144003id_/http%3A//www.papalouie.com/www.flipline.com)). 
+The Flipline Studios website located at [www.flipline.com](https://web.archive.org/web/20140623064425id_/http%3A//www.papalouie.com/www.flipline.com) and the Papa Louie Arcade website located at [www.papalouie.com](https://web.archive.org/web/20140623064425id_/http%3A//www.papalouie.com/www.papalouie.com) is run by Flipline IDS LLC under the trade name of Flipline Studios ([www.flipline.com](https://web.archive.org/web/20140623064425id_/http%3A//www.papalouie.com/www.flipline.com)). 
 
 **Personal Information**    
 You can browse our website without providing any personal information. 
@@ -18,6 +18,18 @@ When playing games on the website, you may have the option of submitting your ni
 
 **Flash Shared Objects / Flash Cookies**  
 When playing games on the Flipline Studios website, your progress is saved on your local machine as a Flash Shared Object. This contains your score, inventory, level progress, and leader board nickname (if provided), and does not contain any other personal information. This data is stored on your machine and is not available to anyone else.
+
+**Goodgame Empire and Goodgame Big Farm**  
+Players have access to the games "Goodgame Empire" and "Goodgame Big Farm" from our website. This content is hosted by Goodgame Studios, a branch of Altigi GmbH, and requires an email address to create an account in these games. Flipline Studios does not have access to this information. Players can view the terms and Privacy Policy of Goodgame Studios here, which includes details on how players' information is used: <http://www.goodgamestudios.com/terms_en.html>
+
+For any questions regarding the Privacy Policy of Goodgame Empire or Goodgame Big Farm, please contact Goodgame Studios directly using the following contact information:
+
+Altigi GmbH  
+privacy@goodgamestudios.com  
++49 40 851 924 90  
+Theodorstr. 42-90  
+22761 Hamburg  
+Germany
 
 **External Links**  
 Our website may contain advertisements and links to external websites that are not covered by this Privacy Policy. In addition, pre-roll and in-game advertisements on www.flipline.com may contain links to third-party websites that are not covered by this Privacy Policy. Please review the individual Privacy Policies for external websites. 
