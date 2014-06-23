@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamestation.co.uk privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211054136id_/http%3A//www.game.co.uk/en/info/StaticPageDisplay%3FlangId%3D44%26storeId%3D10151%26categoryId%3D27502%26brdcrmb_trail%3DHelp%7CPolicies%26catalogId%3D10201) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamestation.co.uk privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623232208id_/http%3A//www.game.co.uk/en/info/StaticPageDisplay%3FlangId%3D44%26storeId%3D10151%26categoryId%3D27502%26brdcrmb_trail%3DHelp%7CPolicies%26catalogId%3D10201%26cm_sp%3Dfooter-_-mainLinks-_-privacy) for the most accurate reproduction.*
 
 # Privacy Policy | GAME
 
