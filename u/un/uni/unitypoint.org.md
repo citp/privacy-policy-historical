@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unitypoint.org privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222141626id_/http%3A//www.unitypoint.org/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unitypoint.org privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623141429id_/http%3A//www.unitypoint.org/privacy-policy.aspx) for the most accurate reproduction.*
 
 # UnityPoint Health | Privacy Policy
 
@@ -44,7 +44,8 @@ From time to time our website may provide links to other websites, not owned or 
 
 ## Changes to This Statement 
 
-UnityPoint Health may change this statement from time to time without notice. We plan to post notice on our home page for no less than a week if any significant changes occur. This privacy statement is not intended to and does not create any contractual or other legal rights in or on behalf of any party. 
+UnityPoint Health may change this statement from time to time without notice. We plan to post notice on our home page for no less than a week if any significant changes occur. This privacy statement is not intended to and does not create any contractual or other legal rights in or on behalf of any party.   
+
 
 Iowa Health System  
 1776 West Lakes Parkway  
