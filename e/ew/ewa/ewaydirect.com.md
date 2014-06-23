@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ewaydirect.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212231149id_/http%3A//www.ewaydirect.com/ewaydirect-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ewaydirect.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623065415id_/http%3A//www.ewaydirect.com/ewaydirect-privacy-policy) for the most accurate reproduction.*
 
 # eWayDirect | Privacy Policy
 
@@ -33,7 +33,7 @@ We may share aggregated data with clients or partners. This does not include inf
 
 ## Cookies and Web Beacons
 
-eWayDirect uses cookies to make it easier to navigate our web site and to track and measure the results of a particular marketing campaign. Cookies are small text files placed on a visitor's hard disk and allow eWayDirect to remember the visitor to our web site. When you visit our web site or open our email, we may send you a cookie. The cookies placed by eWayDirect are only readable by eWayDirect. Cookies are not able to access, read or modify any other data on a computer. If you prefer not to receive cookies while browsing our website you may either set your browser to alert you before accepting cookies and refuse the cookie or set your browser to refuse all cookies. By not accepting the cookie, you may not be able to take full advantage of our website. 
+eWayDirect uses cookies to make it easier to navigate our web site and to track and measure the results of a particular marketing campaign. Cookies are small text files placed on a visitor's hard disk and allow eWayDirect to remember the visitor to our web site. When you visit our web site or open our email, we may send you a cookie. The cookies placed by eWayDirect are only readable by eWayDirect. Cookies are not able to access, read or modify any other data on a computer. eWayDirect respects user choice and control so if you prefer not to receive cookies while browsing our website you may either set your browser to alert you before accepting cookies and refuse the cookie or set your browser to refuse all cookies. By not accepting the cookie, you may not be able to take full advantage of our website. Currently, eWayDirect does not respond to Do Not Track (DNT) signals as there is not yet an industry standard or regulation on how to interpret and process them. 
 
 The eWayDirect website and emails may also use web beacons. Web beacons are tiny graphic images on web pages or in emails that notify the server anonymously when that page has been visited or the email has been opened. Web beacons are used together with Cookies to let us know which pages are of interest to visitors. If Cookies are disabled, web beacons continue to send anonymous notice of a visit but cannot associate that with other information. 
 
@@ -105,6 +105,7 @@ eWayDirect is a member of several associations focused around building and maint
 
   * Email Service Providers Coalition (ESPC)
   * The Direct Marketing Association (DMA)
+  * Online Trust Alliance (OTA)
 
   
 
