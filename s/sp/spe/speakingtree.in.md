@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speakingtree.in privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116003451id_/http%3A//www.speakingtree.in/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speakingtree.in privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623212901id_/http%3A//www.speakingtree.in/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | SpeakingTree
 
@@ -53,11 +53,11 @@ Speaking Tree**
 
 
 **Times Internet Limited  
-4th Floor, MPD World Tower,   
-DLF City Phase V, Opposite DLF Golf Course   
-Gurgaon, Haryana 122002   
+Plot No. 391, Udyog Vihar, Phase – III,   
+Gurgaon–122016   
+Haryana   
 India   
-Ph: 0124-4187000 **
+Ph: 0124-4518550 **
 
 We request you to please provide the following information in your complaint:- 
 
