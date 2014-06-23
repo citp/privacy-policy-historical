@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nimble.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217090634id_/http%3A//www.nimble.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nimble.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623200310id_/https%3A//www.nimble.com/company/privacy) for the most accurate reproduction.*
 
-# Privacy | Nimble
+# Nimble Social CRM | Privacy Policy
 
 3.1. WHAT DOES COMPANY DO WITH COLLECTED INFORMATION?
 
