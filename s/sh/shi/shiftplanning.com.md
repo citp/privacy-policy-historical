@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shiftplanning.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214123028id_/http%3A//www.shiftplanning.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shiftplanning.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623122518id_/http%3A//www.shiftplanning.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - ShiftPlanning.com
 
@@ -8,9 +8,11 @@
 
 
 
+[](https://privacy.truste.com/privacy-seal/ShiftPlanning/validation?rid=4837fd67-f486-4881-b594-58c87d1abff6 "Validate TRUSTe privacy certification")
+
 ShiftPlanning© has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements and TRUSTed Cloud Requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information that is collected through this Web site, www.shiftplanning.com and information that is collected through our Cloud platform, and mobile application. 
 
-TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at . If you are not satisfied with our response you can contact TRUSTe here. 
+TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at . If you are not satisfied with our response you can contact TRUSTe [here](http://www.truste.com/about-TRUSTe/contact-us). 
 
 ## Aggregate Data 
 
