@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the github.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606094645id_/http%3A//help.github.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the github.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623045721id_/https%3A//help.github.com/privacy) for the most accurate reproduction.*
 
 # GitHub Privacy Policy · GitHub Help
 
@@ -40,7 +40,7 @@ If you choose to provide GitHub with your information, you consent to the transf
 
 GitHub adheres to the US-EU and US-Swiss Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, and is registered with the U.S. Department of Commerce's Safe Harbor Program <http://www.export.gov/safeharbor/>.
 
-For European Union and Swiss residents, any questions or concerns regarding the use or disclosure of your information should be directed to GitHub by sending an email to [privacy@github.com](mailto:privacy@github.com). We will investigate and attempt to resolve complaints and disputes regarding use and disclosure of your information in accordance with this Privacy Policy. For complaints that cannot be resolved, and consistent with the Safe Harbor Enforcement Principle, we have committed to cooperate with data protection authorities located within Switzerland or the European Union (or their authorized representatives). 
+For European Union and Swiss residents, any questions or concerns regarding the use or disclosure of your information should be directed to GitHub by sending an email to [privacy@github.com](mailto:privacy@github.com). We will investigate and attempt to resolve complaints and disputes regarding use and disclosure of your information in accordance with this Privacy Policy. For complaints that cannot be resolved, and consistent with the Safe Harbor Enforcement Principle, we have committed to cooperate with data protection authorities located within Switzerland or the European Union (or their authorized representatives).
 
 ###  Changes
 
