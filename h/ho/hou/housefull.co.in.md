@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the housefull.co.in privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222143531id_/http%3A//www.housefull.co.in/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the housefull.co.in privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623135144id_/http%3A//www.housefull.co.in/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Checkout
 
