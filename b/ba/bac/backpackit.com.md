@@ -1,51 +1,41 @@
-> *The following text is extracted and transformed from the backpackit.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206120623id_/http%3A//www.backpackit.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backpackit.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623201851id_/https%3A//basecamp.com/privacy) for the most accurate reproduction.*
 
-# 
+# Basecamp privacy policy
 
-### BACKPACK PRIVACY POLICY STATEMENT
+The privacy of your data — and it is your data, not ours! — is a big deal to us. We’ll only ever access your account to help you with a problem or squash a software bug. We’ll never open any uploaded files unless you ask us to. We log all access to all accounts by IP address, so we can always verify that no unauthorized access has happened for as long as the logs are kept.
 
-We collect the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, and information volunteered by the consumer (such as survey information and/or site registrations). The information we collect is used to improve the content of our Web pages and the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you've requested, when we have your permission, or under the following circumstances:  
+## Identity & access
 
+When you sign up for Basecamp, we ask for your name, company name, and email address. That's just so you can personalize your new account, and we can send you invoices, updates, or other essential information. We’ll never sell your personal info to third parties, and we won’t use your name or company in marketing statements without your permission, either.
 
-  * It is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of [Terms of Service](http://www.backpackit.com/terms.html), or as otherwise required by law.
-  * We transfer information about you if 37signals or Backpack is acquired by or merged with another company. In this event, 37signals will notify you before information about you is transferred and becomes subject to a different privacy policy.
+When you write Basecamp with a question or to ask for help, we'll keep that correspondence, and the email address, for future reference. When you browse our marketing pages, we'll track that for statistical purposes (like conversion rates and to test new designs). We also store any information you volunteer, like surveys, for as long as it makes sense.
 
+The only times we’ll ever share your info:
 
-
-INFORMATION GATHERING AND USAGE  
-
-
-  * When you register for Backpack we ask for information such as your name, email address, billing address, credit card information. **Members who sign up for the free account are not required to enter a credit card.**
-  * 37signals uses collected information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, and research.
+  * To provide products or services you've requested, with your permission.
+  * To investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our [Terms of Service](https://basecamp.com/terms), or as otherwise required by law.
+  * If Basecamp is acquired by or merged with another company — we don’t plan on that, but if it happens — we’ll notify you well before any info about you is transferred and becomes subject to a different privacy policy.
 
 
 
-COOKIES  
+## Law enforcement
 
+Basecamp won’t hand your data over to law enforcement unless a court order says we have to. We flat-out reject requests from local and federal law enforcement when they seek data without a court order. And unless we're legally prevented from it, we’ll always inform you when such requests are made.
 
-  * A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site's computers and stored on your computer's hard drive.
-  * Cookies are required to use the Backpack service.
-  * We use cookies to record current session information, but do not use permanent cookies. You are required to log-in to your Backpack Project Site after a certain period of time has elapsed to protect you against others accidentally accessing your account contents.
+## Encryption
 
+All data is encrypted via [SSL/TLS](http://en.wikipedia.org/wiki/Transport_Layer_Security) when transmitted from our servers to your browser. The database backups are also encrypted. Data isn’t encrypted while it's live in our database (since it needs to be ready to send to you when you need it), but we go to great lengths to secure your data at rest — you can read more about that on our [security page](https://web.archive.org/security).
 
+## Deleted data
 
-DATA STORAGE  
-37signals uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run Backpack. Although 37signals owns the code, databases, and all rights to the Basecamp application, you retain all rights to your data. 
+When you cancel your account, we'll ensure that nothing is stored on our servers past 30 days. Anything you delete on your account while it's active will also be purged within 30 days (up until then it's available in the trash can).
 
-INFORMATION RIGHTS AND PUBLICITY  
-Unless you notify 37signals otherwise in writing, You hereby grant to 37signals and its wholly owned subsidiaries a limited license to use Your trade names, trademarks, service marks, logos, domain names and other distinctive brand features ("Brand Features") in presentations, marketing materials, web sites, customer lists, and financial reports.
+## US-EU safe harbor & US-Swiss safe harbor
 
-DISCLOSURE  
+See our [safe harbor policy](https://web.archive.org/privacy/safe-harbor).
 
+## Changes & questions
 
-  * 37signals may disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when your actions violate the [Terms of Service](http://www.backpackit.com/terms.html).
+Basecamp may update this policy once in a blue moon — we’ll notify you about significant changes by emailing the account owner or by placing a prominent notice on our site. You can access, change or delete your personal information at any time by contacting support@basecamp.com.
 
-
-
-CHANGES  
-37signals may periodically update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Backpack primary account holder account or by placing a prominent notice on our site. 
-
-QUESTIONS  
-Any questions about this Privacy Policy should be addressed to support at 37signals.com or by mail at: 37signals, 400 North May Street #301, Chicago, IL 60622 USA 
-
-Copyright 2003-2005 37signals LLC. All rights reserved.
+Questions about this privacy policy? Please get in touch at [support@basecamp.com](mailto:support@basecamp.com) and we’ll be happy to answer them!
