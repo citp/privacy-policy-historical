@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the paychex.com privacy policy that was archived on 2013-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131228061448id_/http%3A//www.paychex.com/corporate/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the paychex.com privacy policy that was archived on 2014-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140623201412id_/http%3A//www.paychex.com/corporate/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="utf-8">
@@ -12,15 +12,15 @@
   <meta name="Description" content="Privacy Statement - Paychex, Inc.">
   
 
-<link rel="apple-touch-icon" href="http://static.paychexinc.com/a/i/logo_iphone.png"> 
+<link rel="apple-touch-icon" href="https://www.paychex.com/a/i/logo_iphone.png"> 
 <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-9S6G"></script><script type="text/javascript">var px_m='company';var gDcsId="dcshkifxj10000s5vtp1ylgtd_9q3p"</script>
 
 <script src="//cdn.optimizely.com/js/131198987.js"></script>
-<script type="text/javascript" src="http://static.paychexinc.com/a/j/payx_seo_20130401.js"></script>
-<script type="text/javascript" src="http://static.paychexinc.com/a/j/geo.js"></script>
+<script type="text/javascript" src="https://www.paychex.com/a/j/payx_seo_20130401.js"></script>
+<script type="text/javascript" src="https://www.paychex.com/a/j/geo.js"></script>
 
 <link href="/a/s/payx_20131120.css" type="text/css" rel="Stylesheet">
-<!--[if lt IE 7]><link rel="stylesheet" type="text/css" href="http://static.paychexinc.com/a/s/payx_ltie7.css" /><![endif]-->
+<!--[if lt IE 7]><link rel="stylesheet" type="text/css" href="https://www.paychex.com/a/s/payx_ltie7.css" /><![endif]-->
 <link href="/a/s/print.css" type="text/css" rel="Stylesheet" media="print">	
 
 
@@ -36,7 +36,7 @@
 </head>
 <body>
 <!-- Google Tag Manager --><noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-9S6G" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-9S6G');</script><!-- End Google Tag Manager -->
-    <noscript><p class="metric"><img alt="" id="DCSIMG" src="http://sdc.paychex.com/dcshkifxj10000s5vtp1ylgtd_9q3p/njs.gif?dcssip=www.paychex.com&amp;dcsuri=/corporate/privacy.aspx&amp;WT.sp=paychex;corporate&amp;WT.js=No&amp;WT.tv=9.4.0" />
+    <noscript><p class="metric"><img alt="" id="DCSIMG" src="https://sdc.paychex.com/dcshkifxj10000s5vtp1ylgtd_9q3p/njs.gif?dcssip=www.paychex.com&amp;dcsuri=/corporate/privacy.aspx&amp;WT.sp=paychex;corporate&amp;WT.js=No&amp;WT.tv=9.4.0" />
 <img src="https://tracker.marinsm.com/tp?act=1&cid=s44avcc0x0&script=no" alt="" /></p></noscript>
     <script type="text/javascript">checkCPC();</script>
     <form method="post" action="privacy.aspx" id="wrapper">
@@ -283,7 +283,7 @@ $.getJSON(yqlUrlStockMenu,function(data){$.each(data.query.results, function(ind
                 <ul>
                     <li><a href="http://www.facebook.com/PaychexCareers" target="_blank">Careers on Facebook</a></li>
                     <li><a href="http://www.paychex.com/careers/accolades.aspx">Accolades</a></li>
-                    <li><a href="http://static.paychexinc.com/a/d/careers/job_search_resource.pdf" target="_blank">Job Search Guide</a></li>
+                    <li><a href="https://www.paychex.com/a/d/careers/job_search_resource.pdf" target="_blank">Job Search Guide</a></li>
                 </ul>
             </div>
             <div class="ad">
@@ -322,7 +322,22 @@ $.getJSON(yqlUrlStockMenu,function(data){$.each(data.query.results, function(ind
                 <p class="h2">Quick Links</p>
                 <ul>
                     <li><a href="http://investor.paychex.com/governance/board.aspx">Board of Directors and Officers</a></li>
-                    <li><a href="http://investor.paychex.com/releases/2013-06-12.aspx">Paychex Schedules Fourth Quarter Earnings Release and Webcast</a></li>
+                    <!-- replace this with a lessthan percent
+                        using(PaychexWebEntities entities = new PaychexWebEntities())
+						{
+                        Investor_News news = entities.Investor_News.AsEnumerable().Where(n => (n.category.ToUpper().Contains("NEWS")) && (Convert.ToDateTime(n.display_expiry_date).Date >= DateTime.Now.Date || n.display_expiry_date == null)).FirstOrDefault();
+                        if (news != null)
+                        {
+                            Response.Write("<li><a href=\"" + news.url + "\">" + news.title + "</a></li>");
+                        }
+                        Investor_News webcast = entities.Investor_News.AsEnumerable().Where(n => (n.category.ToUpper().Contains("WEBCAST") && (Convert.ToDateTime(n.display_expiry_date).Date >= DateTime.Now.Date || n.display_expiry_date == null))).FirstOrDefault();
+                        if (webcast != null)
+                        {
+                            Response.Write("<li><a href=\"" + webcast.url + "\">" + webcast.title + "</a></li>");
+                        }
+                        }
+                    %>-->
+                    <li><a href="http://static.paychexinc.com/a/d/investor/releases/2014-3Q.pdf">Paychex Reports Third Quarter Results</a></li>
                     <li><a href="http://investor.paychex.com/annual-report/2013/">Current Annual Report</a></li>
                 </ul>
             </div>
@@ -351,33 +366,19 @@ $.getJSON(yqlUrlStockMenu,function(data){$.each(data.query.results, function(ind
             <div>
                 <p class="h2">Learn More</p>
                 <ul>
-                    <li><a href="http://media.paychex.com/news-releases/">News Releases</a></li>
-                    <li><a href="http://media.paychex.com/in-the-news/">In the News</a></li>
-                    <li><a href="http://media.paychex.com/executive-biographies/">Executive Bios</a></li>
-                    <li><a href="http://media.paychex.com/photos/">Photos</a></li>
-                    <li><a href="http://media.paychex.com/pr-contacts/">PR Contacts</a></li>
-                    <li><a href="http://media.paychex.com/press_kit_index.cfm">Media Kits</a></li>
-                    <li><a href="http://media.paychex.com/login.cfm">Email Alerts</a></li>
-                    <li><a href="http://media.paychex.com/rss_feeds.cfm">RSS Feeds</a></li>
+                    <li><a href="http://media.paychex.com">Newsroom Home</a></li>
+                    <li><a href="http://media.paychex.com/content/default.aspx?NewsAreaId=2">News Releases</a></li>
+                    <li><a href="http://media.paychex.com/content/default.aspx?NewsAreaId=21">In the News</a></li>
+                    <li><a href="http://media.paychex.com/content/default.aspx?NewsAreaId=1">Executive Biographies</a></li>
+                    <li><a href="http://media.paychex.com/imagelibrary/default.aspx?NewsAreaId=28">Multimedia</a></li>
                 </ul>
             </div>
             
-<!--<script type="text/javascript">
-$(document).ready(function(){
-var yqlUrlMenuNewsFull = "//query.yahooapis.com/v1/public/yql?q=" + encodeURIComponent("select title, description, link from rss where url='http://media.paychex.com/news-releases/rss.xml' limit 3")+"&format=json&callback=?";
-$.getJSON(yqlUrlMenuNewsFull, function (data) { $.each(data.query.results.item, function (index, item) { $('#menu ul.nr').append("<li />").find("li:eq(" + index + ")").append("<a />").find("a").attr('href', item.link).append(item.title) }) })
-var yqlUrlMenuInNewsFull = "//query.yahooapis.com/v1/public/yql?q=" + encodeURIComponent("select title, description, link from rss where url='http://media.paychex.com/in-the-news/rss.xml' limit 2")+"&format=json&callback=?";
-$.getJSON(yqlUrlMenuInNewsFull, function (data) { $.each(data.query.results.item, function (index, item) { $('#menu ul.itn').append("<li />").find("li:eq(" + index + ")").append("<a />").find("a").attr('href', item.link).append(item.title) }) })
-});
-</script>
-<div class="news" style="width:433px"><h2>Latest News Releases</h2><ul class="nr"></ul><h2>Latest In the News</h2><ul class="itn"></ul></div>-->
 
 <div class="news" style="width:433px">
   <h2>Latest News Releases</h2>
   <ul class="nr">
-    <li><a href="http://media.paychex.com/news-releases/paychex-provides-five-tax-tips-small-business-owners-need-to-know-about-before-the-new-year.htm">Paychex Provides Five Tax Tips Small Business Owners Need to Know…</a></li>
-    <li><a href="http://media.paychex.com/news-releases/paychex-adds-modelxchange-to-retirement-services.htm">Paychex Adds ModelxChange® Portfolios to Retirement Services…</a></li>
-    <li><a href="http://media.paychex.com/news-releases/paychex-launches-new-cloud-accounting-application.htm">Paychex Launches New Cloud Accounting Application</a></li>
+  <li><a href="http://media.paychex.com/News-Releases/Paychex-Acquires-Leading-Cloud-based-Time-and-Attendance-Company-nettime-solutions-ee.aspx">Paychex Acquires Leading Cloud-based Time and Attendance Company…</a></li><li><a href="http://www.paychex.com/jobs-index/news-release.aspx">Paychex | IHS Small Business Jobs Index Growth Slowed in May, Yet…</a></li><li><a href="http://media.paychex.com/News-Releases/Paychex-Renews-Strategic-Payroll-Referral-Partnership-with-RBS-Citizens-Financial-Group-ec.aspx">Paychex Renews Strategic Payroll Referral Partnership with RBS…</a></li><li><a href="http://media.paychex.com/News-Releases/SCORE-Paychex-Partner-to-Help-Small-Businesses-Grow-and-Succeed-eb.aspx">SCORE and Paychex Partner to Help Small Businesses Grow and…</a></li>
   </ul>
 </div>
 
@@ -481,16 +482,16 @@ $.getJSON(yqlUrlMenuInNewsFull, function (data) { $.each(data.query.results.item
 
         </nav>
         
-<section id="follow"><p>Follow Us: <span><a class="twitter_follow at300b" href="https://twitter.com/Paychex" target="_blank"></a><a class="facebook_follow at300b" href="http://www.facebook.com/Paychex" target="_blank"></a><a class="linkedin_follow at300b" href="http://www.linkedin.com/company/paychex" target="_blank"></a><a class="googleplus" rel="publisher" href="https://plus.google.com/110144786893495415341"></a><a class="rss" href="/articles/rsshome.aspx"></a></span></p></section>
+<section id="follow"><p>Follow Us: <span><a class="twitter_follow at300b" href="https://twitter.com/Paychex" target="_blank"></a><a class="facebook_follow at300b" href="http://www.facebook.com/Paychex" target="_blank"></a><a class="linkedin_follow at300b" href="http://www.linkedin.com/company/paychex" target="_blank"></a><a class="googleplus noxdomain" rel="publisher" href="https://plus.google.com/+Paychex"></a><a class="rss" href="/articles/rsshome.aspx"></a></span></p></section>
 
         <footer> 
             
 <div id="flinks">
     <div class="security">
-        <p class="copy"><span>800-322-7292 </span>© 2013 Paychex, Inc. All Rights Reserved.</p>
+        <p class="copy"><span>800-322-7292 </span>© 2014 Paychex, Inc. All Rights Reserved.</p>
         <p><a href="http://www.paychex.com/corporate/privacy.aspx">Privacy</a><a href="http://www.paychex.com/corporate/security/">Security</a><a href="http://www.paychex.com/corporate/trademarks.aspx">Trademarks</a></p>
-        
-    </div>
+        <p style="margin-top:20px"><a href="http://www.paychex.com/addRes.aspx">View Mobile Site</a></p><p>
+    </p></div>
     
     <div class="login">
             <h5>Login</h5>
@@ -534,7 +535,7 @@ $.getJSON(yqlUrlMenuInNewsFull, function (data) { $.each(data.query.results.item
 	
 	
 	
-    <script type="text/javascript" src="http://munchkin.marketo.net/munchkin.js"></script><script type="text/javascript">mktoMunchkin("784-BXD-202",{wsInfo:"jFRT",wsInfo:"jVRS"});</script>
+    <script type="text/javascript" src="https://munchkin.marketo.net/munchkin.js"></script><script type="text/javascript">mktoMunchkin("784-BXD-202",{wsInfo:"jFRT",wsInfo:"jVRS"});</script>
 	<script type="text/javascript">var _tag=new WebTrends();_tag.dcsGetId();_tag.dcsCustom=function(){};_tag.dcsCollect();</script>
 
 
