@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collectivebias.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229172712id_/http%3A//collectivebias.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collectivebias.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623121309id_/http%3A//collectivebias.com/privacy.html) for the most accurate reproduction.*
 
 # Collective Bias | Privacy Policy
 
