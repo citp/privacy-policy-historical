@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poken.com privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114165259id_/http%3A//www.poken.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poken.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623043938id_/http%3A//www.poken.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Poken
 
