@@ -1,0 +1,60 @@
+> *The following text is extracted and transformed from the sofabcon.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623121309id_/http%3A//collectivebias.com/privacy.html) for the most accurate reproduction.*
+
+# Collective Bias | Privacy Policy
+
+* **Introduction.**  
+Collective Bias, Inc (“Collective Bias”) cares deeply about your privacy. Our company assists in the creation of social media content. Our innovative programs may gather personally identifiable information from individuals who choose to participate in these programs. We strive to keep this information confidential. We will only collect, store, and use any personal information you provide to us for defined purposes.
+* **Purpose.**  
+This Privacy Policy explains how we handle personal information that you share with Collective Bias. As explained in detail below, our Privacy Policy is designed to provide notice to individuals regarding how their personal information is being collected and used, and to inform individuals that they have a choice as to: (1) whether their personal information is disclosed to third parties, and (2) how their personal information is used for particular purposes.
+* **Information Collection.**
+
+  1. **Personally Identifiable Information.**
+
+In some instances, Collective Bias may collect PII (e.g., your name, address, e-mail address, telephone number, fax number, and information about your interest in and use of various products, programs and services, etc.). This information is only collected when volunteered by the user. If PII is collected by Collective Bias on behalf of a client belongs solely to the client and will be used solely in accordance with that particular client’s Privacy Policy. 
+
+An individual’s desire to “opt-out” of receiving marketing or other information from a client will be handled in accordance with a particular client’s Privacy Policy. Collective Bias requires its clients, by contract, to use the data which Collective Bias collects on its behalf in accordance with generally accepted privacy standards for both offline and online data, which includes an “opt-out” method for individuals who have provided PII. Ultimately, however, Collective Bias is not responsible for data collected on behalf of its clients when such data is in its client’s possession. 
+
+  2. **B. Personal information that is not PII.**
+
+On behalf of our clients, Collective Bias may also collect non-personally identifiable information (e.g., Internet Protocol (IP) addresses, “cookies,” and Internet tags and navigational data). "Cookies" are small pieces of information that are stored by your web browser software on your computer's hard drive or temporarily in your computer's memory. The use of cookies is now an industry standard, and you will find them on most major web sites. Collective Bias may place and store Internet cookies on a user's hard drive. The use of cookies provide benefits to you by saving user names, information that are supplied at registration, and other information that may make the use of our programs easier. Although most web browsers are initially set up to accept cookies, if you prefer, you can decline the placement of a cookie on your hard drive by using the appropriate feature(s) of your web browser software (if available) to delete the cookie. Please note, however, that certain areas on a web site may not function properly if your web browser does not accept cookies.
+
+
+
+* **Sharing, Retention, and Storage of Personal Identifiable Information.**
+
+Collective Bias ensures that Personal Information is safeguarded against loss, access, use, modification, disclosure or other misuse. All reasonable steps are taken to prevent unauthorized use or disclosure of your Personal Information. Collective Bias does not sell or rent PII to third parties. Collective Bias does not otherwise disclose your personally identifiable information to third parties, unless you have consented to such disclosure or such disclosure is required by law. Collective Bias stores all PII in a secured environment behind its “firewall.” Only those employees whose job responsibilities require them to use the PII are permitted access to such data. All employees sign confidentiality agreements and are not permitted to disclose any PII.
+
+Collective Bias will retain your Personal Information only for as long as necessary to fulfill the purpose(s) for which it was collected and to comply with applicable laws. Collective Bias will then destroy all Personal Information in its possession.
+
+Collective Bias takes all reasonable steps to ensure that your Personal Information is accurate, up to date, complete, relevant and not misleading. Even though Collective Bias’s information practices may change from time to time, we will not use your information in a manner not previously disclosed to you in our Privacy Policy. We will always provide you with notice by posting any privacy policy changes on this Web site, and you will have an opportunity to reject such changes. 
+
+* **Special Note about Children.**  
+Unless otherwise specifically indicated, Collective Bias’s programs are not available to anyone under the age of thirteen (13).
+* **California Privacy Rights.**  
+Pursuant to California Civil Code Section 1789.83, a California resident who has provided personal information to a business with whom he/she has established a business relationship for personal, family, or household purposes (“California customer”) is entitled to request information about whether the business has disclosed personal information to any third parties for the third parties’ direct marketing purposes. In general, if the business has made such a disclosure of personal information, upon receipt of a request by a California customer, the business is required to provide a list of all third parties to whom personal information was disclosed in the preceding calendar year, as well as a list of the categories of personal information that were disclosed. However, under the law, a business is not required to provide the above-described lists if the business adopts and discloses to the public a policy of not disclosing customer’s personal information to third parties for their direct marketing purposes unless the customer first affirmatively agrees to the disclosure, as long as the business maintains and discloses this policy. Rather, the business may comply with the law by notifying the customer of his or her right to prevent disclosure of personal information and providing a cost free means to exercise that right. 
+* **Accuracy of Personally Identifiable Information.**  
+It is Collective Bias’s goal to keep all PII that you provide to us as accurate, complete, and up-to-date as is necessary for the purposes for which it is to be. Upon request to Collective Bias’s privacy officer, listed in Section 8 below, an individual shall be informed of the existence, use, and disclosure of his or her personal information and shall be given access to that information. An individual shall be able to challenge the accuracy and completeness of the information and have it amended as appropriate.
+* **Security.**  
+Collective Bias endeavors to protect your Personal Information using physical, electronic or procedural security measures appropriate to the sensitivity of the information in its control. These measures include safeguards to protect Personal Information against loss or theft, as well as unauthorized access, disclosure, copying, use and modification. Collective Bias safeguards your Personal Information on the Internet by using industry-standard practices. Although "guaranteed security" does not exist either on or off the Internet, Collective Bias makes commercially reasonable efforts to make the collection and security of such information consistent with its Privacy Policy and all applicable laws and regulations. Collective Bias maintains physical, electronic and procedural safeguards as appropriate to safeguard your Personal Information. 
+* **Contact Collective Bias.**
+
+To ensure the accuracy of your information, if you wish to contact Collective Bias to correct, amend, or delete information (if Collective Bias is holding on to your information as explained above), about privacy related issues or for any reason at all, you may contact Collective Bias’s Privacy Officer by either: 
+
+mailing the details of your request to:
+
+John Panourgias, Esq.  
+Associate General Counsel/Privacy Officer
+
+Collective Bias, Inc.  
+25200 Southfield, MI   
+Southfield, MI 48033 [(map)](http://maps.google.com/maps?q=25200+Southfield,+MI++Southfield,+MI+48033&hl=en&ll=42.484251,-83.273621&spn=1.033004,2.469177&sll=37.0625,-95.677068&sspn=35.494074,79.013672&hnear=Courtyard+Detroit+Southfield,+27027+Northwestern+Hwy,+Southfield,+Michigan+48033&t=m&z=9)
+
+or
+
+Email: [johnpanourgias@Collective Bias.com](mailto:johnpanourgias@Collective%20Bias.com)
+
+* **Material Changes to Policy.**
+
+Collective Bias may make material changes to this Privacy Policy from time to time. Therefore, you should periodically visit this page to view the current Privacy Policy. In the event of a material change to this Privacy Policy, Collective Bias shall send an email advising of the change to all persons whose email addresses we have collected and retained pursuant to the terms set forth above. 
+
+Updated: February 27, 2012
