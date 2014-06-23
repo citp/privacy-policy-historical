@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bonefishgrill.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806094447id_/http%3A//www.bonefishgrill.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bonefishgrill.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623111625id_/http%3A//www.bonefishgrill.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -34,7 +34,7 @@ Our Privacy Policy explains:
 
 We want you to know up front that we provide you an "opt-out" option for some personal information collection – please see “What Choices Do You Have About Your Information?”
 
-##  WHAT INFORMATION DO WE COLLECT?
+**WHAT INFORMATION DO WE COLLECT?**
 
 We collect information about you in a number of ways, including when you register for an account on our website, open a loyalty program account, purchase gift cards, or make purchases in our restaurants, online dining reservations, online food orders, as well as when you use our website and mobile applications, Facebook page, Twitter account, YouTube or other social media and online platforms. The following are examples of information we may collect from you:
 
@@ -60,7 +60,7 @@ Some of these ads are online behavioral advertising and may contain cookies that
 
 Please note that if you opt out, you are only opting out of the collection of data through cookies, and you may still see or receive online advertising from Bonefish Grill that will not be based on your preferences or behavior.
 
-##  **HOW DO WE USE AND SHARE YOUR INFORMATION?**
+**HOW DO WE USE AND SHARE YOUR INFORMATION?**
 
 Bonefish Grill does not sell your personal information to third parties. Bonefish Grill will only use and share your information as described in this policy to:
 
@@ -81,7 +81,7 @@ Bonefish Grill does not sell your personal information to third parties. Bonefis
 
 Bonefish Grill may combine personal and non-personal information we collect or obtain with other information we obtain from third parties. We may transfer your information to Bonefish Grill’s partners and affiliates for this purpose. Bonefish Grill may also share aggregated information that cannot be used to identify you with our clients and business partners.
 
-##  **HOW DO WE PROTECT YOUR INFORMATION?**
+**HOW DO WE PROTECT YOUR INFORMATION?**
 
 We work to protect your information both online and offline by using appropriate technical, administrative and physical procedures to protect personal information from loss, misuse, or alteration.
 
@@ -89,7 +89,7 @@ We limit access to personal information to those who have a business need. Emplo
 
 When we share your information with third party service providers as described above, we only provide those third parties with the information necessary to perform their service and we require that they protect your information and not use it for any other purpose.We cannot, however, ensure or guarantee the security of any information you send to us and you do so at your own risk. You are responsible for maintaining the confidentiality of your passwords and any account information.
 
-##  **WHAT CHOICES DO YOU HAVE ABOUT YOUR INFORMATION?**
+**WHAT CHOICES DO YOU HAVE ABOUT YOUR INFORMATION?**
 
 You may choose to:
 
@@ -110,7 +110,7 @@ Customers who request not to be contacted will not receive offers for savings by
 
 Under rare circumstances, Bonefish Grill may need to contact some or all users to relay important information about our website or restaurants. Members are not able to unsubscribe or "opt-in/opt-out" of these announcements because they may contain very important information regarding their accounts. Bonefish Grill reserves the right to contact users to correct account errors or to supply important information Bonefish Grill deems relevant.
 
-##  **HOW DO YOU CORRECT OR UPDATE YOUR INFORMATION?**
+**HOW DO YOU CORRECT OR UPDATE YOUR INFORMATION?**
 
 You may change certain personal information or request that we delete your personal information by:
 
