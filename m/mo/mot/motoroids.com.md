@@ -1,23 +1,27 @@
-> *The following text is extracted and transformed from the motoroids.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101165649id_/http%3A//motoroids.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motoroids.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623123725id_/http%3A//www.motoroids.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Motoroids
+# Privacy Policy - Motoroids.com
 
-* * *
+At Motoroids.com (“Website”), we strongly believe in protecting the privacy of the personal information of our readers, and in using it only in ways that have been notified to you. This Privacy Policy is a legal document which explains the extent of personal information we collect from you and where it would be used, the steps we take to ensure your security, who we may share it with and how can you correct or remove your information from our database.
 
-At Motoroids, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit Motoroids.com, and how we safeguard your information.  We never sell your personal information to third parties.
+If you have questions or concerns regarding this statement, you should contact us at feedback@motoroids.com
 
-Log Files  
-As with most other websites, we collect and use the data contained in log files.  The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
+Kindly read the detailed policy below:
 
-Cookies and Web Beacons  
-We do use cookies to store information, such as your personal preferences when you visit our site.  This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
+Motoroids respects your privacy and recognizes the need to guard the personally identifiable information (any information by which you can be identified, such as name, address, and telephone number) you share with us. We would like to declare that we follow suitable standards when it comes to shielding your privacy on our Website.
 
-* Google, as a third party vendor, uses cookies to serve ads on your site.  
-* Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
-* Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+You can visit the Website without disclosing your identity or revealing any personal information about yourself. We track the Internet address of the domains from you may visit us and analyze this data for better understanding our visitors.
 
-We also use third party advertisements on Motoroids.com to support our site.  Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+A few of our pages use cookies to enable us to customize your experience. Cookies are sent to your browser by the website to improve your experience during your next visit. You can set your browser to update you when you are sent a cookie, giving you the option to make a decision whether or not to accept it. This information is primarily used to improve our service to you.
 
-You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites.  This could include the inability to login to services or programs, such as logging into forums or accounts
+Some times we may collect personal information which you have volunteered to provide to us (or “opted in” for), such as name, physical address or telephone number, email address, mobile number etc. At any such time, we will inform you the reason for this information being collected and promise to utilize it for only that particular purpose. It will always be optional for you to provide the information, and you can always opt out of certain uses of the information. If you decide not to provide the information we require in certain sections of the website, you can still visit the Website, but you may be unable to access certain options and services.
 
-e use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here http://www.networkadvertising.org/managing/opt_out.asp
+Motoroids will take all the required steps to protect the information you share with us. We have implemented security features to safeguard the privacy of your information from unauthorized access and improper use or disclosure.
+
+Motoroids will never sell and disclose any information derived from the registration for, or use of, any online service to third parties without the consent of the user. We may however use your information to provide you a personalized experience, improve our site, get in touch with you if necessary and provide you services.
+
+By continuing to use Motoroids or by continuing to remain registered with us, you hereby agree that you have read and understood the terms of use and the privacy policy. Changes in our Privacy Policy will be updated here and you are requested to keep yourself updated with the changes. Motoroids Web Private Limited will under no circumstances be liable for any loss, damage etc caused to you.
+
+This document is an electronic record in terms of Information Technology Act, 2000 and the amended provisions pertaining to electronic records in various statutes as amended by the Information Technology Act, 2000. This electronic record is generated by a computer system and does not require any physical or digital signatures.
+
+As you browse Motoroids, advertising cookies will be placed on your computer so that we can understand what you are interested in. Our display advertising partner, AdRoll, then enables us to present you with retargeting advertising on other sites based on your previous interaction with Motoroids. The techniques our partners employ do not collect personal information such as your name, email address, postal address or telephone number. You can visit this page to opt out of AdRoll and their partners’ targeted advertising.
