@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holidayiq.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219103913id_/http%3A//www.holidayiq.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holidayiq.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623132108id_/http%3A//www.holidayiq.com/privacypolicy.php) for the most accurate reproduction.*
 
 # HolidayIQ | Home
 
@@ -44,6 +44,6 @@ Amendment of this policy
 
 HIQ and/or the Company may from time to time amend this policy. When this policy is so amended, the last date of such amendment shall be indicated on this policy under the legend "Revised on ____". In the event the amendment of this policy results in an enlargement of the scope of permitted disclosures of personally identifiable information, we shall obtain your consent before such disclosure.
 
-If you have questions about our privacy statement or our use of your information, or if you need help changing the information provided to us, please contact us by [clicking here](https://web.archive.org/web/20131219103913id_/http%3A//www.holidayiq.com/contactus.php):
+If you have questions about our privacy statement or our use of your information, or if you need help changing the information provided to us, please contact us by [clicking here](https://web.archive.org/web/20140623132108id_/http%3A//www.holidayiq.com/contactus.php):
 
 If you do not wish to receive any further information about us, our products and our services, please [click here](http://www.holidayiq.com/unsubscribe.php) to unsubscribe.
