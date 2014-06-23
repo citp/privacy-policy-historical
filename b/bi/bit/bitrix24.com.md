@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the bitrix24.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228175425id_/http%3A//www.bitrix24.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitrix24.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624005725id_/http%3A//www.bitrix24.com/privacy) for the most accurate reproduction.*
 
 # Bitrix24: Privacy Policy
 
-## A. INTRODUCTION
+## Bitrix24 Privacy Policy
 
-PLEASE READ THIS DOCUMENT CAREFULLY. IT CONTAINS IMPORTANT INFORMATION THAT YOU SHOULD KNOW BEFORE CONTINUING TO USE OUR WEBSITE OR SERVICES. BY CONTINUING TO USE BITRIX24'S WEBSITE AND SERVICES YOU WILL BE DEEMED TO HAVE ACCEPTED THIS PRIVACY POLICY.
+#### A. INTRODUCTION
 
-Your use of the Bitrix24 website and the products and services provided herein, including any dispute concerning privacy, is subject to this privacy statement ( **"Privacy Policy"** ) and Bitrix24's Terms of Service (<http://www.bitrix24.com/terms>). By using the Bitrix24 Website (defined below) and its Products and Services (defined below), you are accepting the practices set out in this Privacy Policy and in Bitrix24's Terms of Service. We reserve the right to modify this Privacy Policy at any time by posting the changes on this page. Please check the revision date below to determine if this Privacy Policy has been modified since you last reviewed it. Your continued use of any portion of the Bitrix24 Website subsequent to the posting of the updated Privacy Policy will constitute your acceptance of all such changes.
+Bitrix24 Privacy Policy is incorporated and made a part of Bitrix24 Terms of Service ([www.bitrix24.com/terms/](https://web.archive.org/terms/ "Bitrix24 Terms of Service")). Please read this document carefully. It contains important information that you should know before continuing to use our website or services. By continuing to use Bitrix24's website and services you will be deemed to have accepted this Privacy Policy.
 
-This Privacy Policy was last updated on April, 5, 2012. Bitrix, Inc., a company organized under the laws of the Commonwealth of Virginia, United States of American, and its affiliates (collectively, **"Bitrix24"** ) has created this Privacy Policy in order to disclose its information gathering and dissemination practices for this website ([www.bitrix24.com](http://www.bitrix24.com/ "Bitrix24")). Although the Bitrix24 website (the **"Website"** ) and products and services available or enabled via the Website ( **"Products and Services"** ) are located primarily in the Commonwealth of Virginia, United States of America, some of its services, data centers, service providers and servers may be located in other countries.
+Your use of the Bitrix24 website and the products and services provided herein, including any dispute concerning privacy, is subject to this privacy statement ("Privacy Policy") and Bitrix24's Terms of Service. By using the Bitrix24 Website (defined below) and its Products and Services (defined below), you are accepting the practices set out in this Privacy Policy and in Bitrix24's Terms of Service. We reserve the right to modify this Privacy Policy at any time by posting the changes on this page. Please check the revision date below to determine if this Privacy Policy has been modified since you last reviewed it. Your continued use of any portion of the Bitrix24 Website subsequent to the posting of the updated Privacy Policy will constitute your acceptance of all such changes.
+
+This Privacy Policy was last updated on April, 5, 2012. Bitrix, Inc., a company organized under the laws of the Commonwealth of Virginia, United States of American, and its affiliates (collectively, "Bitrix24") has created this Privacy Policy in order to disclose its information gathering and dissemination practices for this website ([www.bitrix24.com](http://www.bitrix24.com/ "Bitrix24")). Although the Bitrix24 website (the "Website") and products and services available or enabled via the Website ("Products and Services") are located primarily in the Commonwealth of Virginia, United States of America, some of its services, data centers, service providers and servers may be located in other countries.
 
 Upon reading this Privacy Policy, you will be informed regarding the following:
 
@@ -20,19 +22,19 @@ Upon reading this Privacy Policy, you will be informed regarding the following:
 6\. the kind of security procedures that are in place to protect the loss, misuse, or alteration of information under Bitrix24's control; and   
 7\. how you can access and correct any inaccuracies in the information collected about you.
 
-To the extent that any terms of the Privacy Policy conflict with the terms of an existing written (including electronic) agreement between you and Bitrix24 regarding the use of specific areas of the Website or specific products and services (as such term defined in the Terms of Use), including specific licenses, terms of use, or privacy disclosures relating to such Products and Services (collectively, **"Product Agreements"** ), the terms of the Product Agreements shall govern.
+To the extent that any terms of the Privacy Policy conflict with the terms of an existing written (including electronic) agreement between you and Bitrix24 regarding the use of specific areas of the Website or specific products and services (as such term defined in the Terms of Use), including specific licenses, terms of use, or privacy disclosures relating to such Products and Services (collectively, "Product Agreements"), the terms of the Product Agreements shall govern.
 
 If you have questions regarding this Privacy Policy, or concerns relating to compliance with the policies outlined in this Privacy Policy, please contact Bitrix24 at [privacy@bitrix24.com](mailto:privacy@bitrix24.com).
 
-### A Word from Bitrix24
+#### A Word from Bitrix24
 
-Bitrix24 has a strong commitment to providing superior service to all of our Website customers and visitors, and particularly to respecting your concerns about privacy. You may use the Products and Services to upload sensitive documents to which can be accessed by you, your employees, and/or other persons whom you have granted access to your documents ( **"Authorized Persons"** ). Bitrix24 is committed to ensuring that only Authorized Person are able to access such sensitive documents. We understand that you may have questions about how the Website and the Products and Services collect and use your information; we have prepared this statement to inform you of the privacy principles that govern the Website as well as the Products and Services. We will not sell or rent your personally identifiable information or a list of our customers to third parties.
+Bitrix24 has a strong commitment to providing superior service to all of our Website customers and visitors, and particularly to respecting your concerns about privacy. You may use the Products and Services to upload sensitive documents to which can be accessed by you, your employees, and/or other persons whom you have granted access to your documents ("Authorized Persons"). Bitrix24 is committed to ensuring that only Authorized Person are able to access such sensitive documents. We understand that you may have questions about how the Website and the Products and Services collect and use your information; we have prepared this statement to inform you of the privacy principles that govern the Website as well as the Products and Services. We will not sell or rent your personally identifiable information or a list of our customers to third parties.
 
-This Privacy Policy contains numerous general and technical details describing the steps that we take to respect your privacy. We have organized this Privacy Policy by major topic areas so that you can quickly refer to the information of most interest to you. Meeting your needs and expectations forms the foundation of everything that we do —including protecting your privacy.
+This Privacy Policy contains numerous general and technical details describing the steps that we take to respect your privacy. We have organized this Privacy Policy by major topic areas so that you can quickly refer to the information of most interest to you. Meeting your needs and expectations forms the foundation of everything that we do — including protecting your privacy.
 
 If after reviewing this Privacy Policy you still have questions or privacy concerns please contact us at [privacy@bitrix24.com](mailto:privacy@bitrix24.com).
 
-### Changes in the Privacy Policy
+#### Changes in the Privacy Policy
 
 Bitrix24 wants you to always be aware of what personal information we collect, how we use it, and under what circumstances we disclose it. As further described below, all personal information that we collect and maintain will be subject to the version of the Privacy Policy in effect at the time of such collection. If the Privacy Policy changes in any material respect, we will not use the personal data you have submitted to us without your prior affirmative consent in a manner that is inconsistent with the Privacy Policy in effect at the time that such data was collected.
 
@@ -40,7 +42,7 @@ Bitrix24 reserves the right to change this Privacy Policy from time to time at i
 
 If Bitrix24 sells assets (or the assets of a division or subsidiary) to another entity, or if Bitrix24 (or a division or subsidiary) is acquired by or merged with another entity, you agree that Bitrix24 may provide to such entity customer information that is related to that part of our business that was sold to or merged with the other entity without obtaining your further consent. Bitrix24 will provide notice of such asset sales, acquisitions, or mergers on the Website.
 
-### Legal Issues
+#### Legal Issues
 
 The Website is a United States-based website and the Website and the Products and Services may be subject to the laws of various jurisdictions, including the laws of the United States and/or the European Union and other jurisdictions because access to the Website may use internet infrastructure of different jurisdictions. For example, personally identifiable information collected in the European Union and its Member States is subject to the EU Directives concerning personal data, privacy and electronic communications, including but not limited to Directive 2002/58/EC of the European Parliament and of the Council of 12 July 2002 concerning the processing of personal data and the protection of privacy in the electronic communications sector and Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data and the subsequent legislation adopted in the EU Member States.
 
@@ -48,25 +50,25 @@ Bitrix24 may disclose your personally identifiable information without your perm
 
 Bitrix24 may be required by law enforcement or judicial authorities to provide personally identifiable information to appropriate governmental authorities. If requested by law enforcement or judicial authorities, Bitrix24 will provide this information upon receipt of appropriate documentation. Bitrix24 may also provide information to law enforcement to protect its property and the health and safety of individuals as permitted by statute.
 
-## B. COLLECTED INFORMATION
+#### B. COLLECTED INFORMATION
 
-### Browsing
+#### Browsing
 
 The Website does not collect personally identifiable information from your computer when you browse the Website and request pages from our servers. This means that, unless you voluntarily and knowingly provide us with your personally identifiable information, Bitrix24 will not know your name, your e-mail address, or any other personally identifiable information. When you request a page from our Website, our servers log the information provided in the HTTP request header, JavaScript or similar technical tools, including the IP number, the time of the request, the URL of your request and other information. We collect this information in order to make the Website function correctly and provide you the functionality that you see on the Website. We also use this information to better understand how visitors use the Website and how we can better adjust the Website, its contents, and functionality to meet the needs of our users.
 
-### Third Party Websites
+#### Third Party Websites
 
 The Website may contain links to websites owned and operated by third parties. Such links are present for your convenience and information. Bitrix24 does not control these third party websites and is not responsible for their privacy practices or content. Bitrix24 does not control the information collection and distribution policies on such websites other than those that are under the control of Bitrix24 itself. Content on third party websites may not reflect products, services, or information provided by Bitrix24. Third parties may also set their own cookies and/or use web beacons (defined below), which may be used to identify some of your preferences or to recognize you if you have previously had contact the third parties. Bitrix24 does not control the use of such technology by third parties, the information they collect, or how they use such information. You should direct all concerns regarding any third party website to the site administrator or webmaster of such sites.
 
 Bitrix24 also uses third party advertising companies to serve ads when you visit the Website. These companies may use general information about your visits to the Website as well as other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and your choices as to not having your information used by these companies, please[ direct such concerns to the respective company's administrator or webmaster](http://www.networkadvertising.org/optout_nonppii.asp).
 
-### Third Party Applications
+#### Third Party Applications
 
-Bitrix24 may make available to you third party applications through the Website or its Products and Services. The information collected by Bitrix24 when you enable a third party application is processed under this Privacy Policy. Information collected by the third party application provider is governed by the provider's privacy policies. 
+Bitrix24 may make available to you third party applications through the Website or its Products and Services. The information collected by Bitrix24 when you enable a third party application is processed under this Privacy Policy. Information collected by the third party application provider is governed by the provider's privacy policies.
 
-### Information We Collect
+#### Information We Collect
 
-Most of the Products and Services offered to visitors of the Website require you to register for a user account with Bitrix24 ( **"User Account"** ). When registering for a User Account, Bitrix24 will ask you to voluntarily supply Bitrix24 with certain information about yourself by filling out and submitting an online form. Such information may include your name, phone number, credit card or other billing information, email address and home and business postal addresses. It is completely optional for you to register for a User Account or engage in activities requiring a User Account.
+Most of the Products and Services offered to visitors of the Website require you to register for a user account with Bitrix24 ("User Account"). When registering for a User Account, Bitrix24 will ask you to voluntarily supply Bitrix24 with certain information about yourself by filling out and submitting an online form. Such information may include your name, phone number, credit card or other billing information, email address and home and business postal addresses. It is completely optional for you to register for a User Account or engage in activities requiring a User Account.
 
 When ordering Products and Services via the Website, you may be asked to provide a credit card number, account and/or billing and shipping information enabling the consummation of the transaction. The foregoing information is collected and processed by online payment services, including but not limited to merchant accounts services, which we may utilize for payment processing, including automatic subscription renewals. In addition, as noted below, minimum information is requested if you choose to subscribe to product updates.
 
@@ -84,21 +86,21 @@ When you submit personal information to Bitrix24 through the Website, you unders
 
 Bitrix24 may establish relationships with various service providers whose services may become available to you via the Website or via other websites that are linked to the Website. Typically, these providers will offer services that Bitrix24 customers might find useful, such as those that can be used in conjunction with Bitrix24 Products and Services. In order to use these third party services, you may be required to provide personal information to such providers. Unless expressly provided to the contrary, personal information that you provide while you are visiting a provider's Website will be subject to the privacy policy posted on that site, and personal information that you provide while on this Website in conjunction with a provider's service will be subject to this Privacy Policy. For instance, the credit card and/or PayPal® information entered as part of the filling out a purchase form or registration process collected by a third party's registration and/or merchant services is subject to that third party's privacy policies. You should be aware that Bitrix24's agreements with these service providers often provide that they will share with Bitrix24 personal information collected from you. In such instances, Bitrix24 may use this information in a manner consistent with this Privacy Policy.
 
-### Files
+#### Files
 
 Bitrix24 collects and stores the files you upload, download, or access via the Products and Services offered through the Website. We understand that these files may be confidential or contain sensitive information. Accordingly, Bitrix24 does not share or permit third parties to access such files. However, no password-protected system of data storage and retrieval can be made entirely impenetrable. Although Bixtrix24 uses a number of security technologies and procedures to make sure that the data on the Website is secure, it may be possible for an unauthorized third party to access, view, copy, modify and distribute the data and files you store on the Website or via Products and Services despite Bitrix24's efforts.
 
-### User Account
+#### User Account
 
 As described above, you will be given an opportunity to create a User Account containing your personal information. A User Account is required for using most Products and Services offered on the Website. Once the User Account is created, you will be able to access, review and update your User Account information online via the Website.
 
 If you wish to deactivate your User Account, you can do so through the User Account interface or by contacting Bitrix24 at [privacy@bitrix24.com](mailto:privacy@bitrix24.com). When you deactivate your User Account, all information stored and maintained as part of your account will be deleted from our servers, including the files you stored via the Website or its Products and Services. The archived backup of your data will be eliminated over the course of the ensuing regular backup cycle of Bitrix24. If you create an account, then you have the right to access and change your personal information and privacy preferences at any time by logging into your User Account, where you can view and make changes to your personal information. You may also access and change your personal information and privacy preferences by contacting us at [privacy@bitrix24.com](mailto:privacy@bitrix24.com).
 
-### Information Relating to Children
+#### Information Relating to Children
 
 The Children's Online Privacy Protection Act (COPPA) was passed by the U.S. Congress in November 1998. COPPA provides parents with specific rights regarding their children's privacy. For additional information and resources on COPPA, please visit the Federal Trade Commission Web site at <http://www.ftc.gov/>. The Website and any products or services available on the Website are not directed at children under 13 years of age and, therefore, COPPA does not apply. However, we recognize that children under the age of 13 may access this Website or purchase products and services. The collection of this information is covered above. Parents and Legal Guardians may request from us to review, delete or stop the collection of the personally identifiable information of their child. You may do so by contacting us by letter (using the address information provided at the bottom of this page) or email to [privacy@bitrix24.com](mailto:privacy@bitrix24.com).
 
-### Securing the Transmission and Storage of Information
+#### Securing the Transmission and Storage of Information
 
 Bitrix24 is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information. Bitrix24 operates secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary, and only authorized individuals have access to the information provided by our users. Bitrix24 takes steps to ensure that your information is treated securely and in accordance with this Privacy Policy. Unfortunately, no data transmission over the Internet can be guaranteed secure. As a result, while we strive to protect your personal information, we cannot guarantee the security of any information you transmit to us or from our online products or services, and you use these services at your own risk.
 
@@ -106,9 +108,9 @@ We treat the information you provide to us, including the Files, as confidential
 
 If a password is used to help protect your accounts and personal information, it is your responsibility to keep your password confidential. Do not share this information with anyone. If you are sharing a computer with anyone you should always log out before leaving any site or service to protect access to your information from subsequent users.
 
-## C. USE AND DISCLOSURE OF INFORMATION
+#### C. USE AND DISCLOSURE OF INFORMATION
 
-### How Your Personal Information Is Used
+#### How Your Personal Information Is Used
 
 Bitrix24 collects your information in order to record and support your participation in the activities you select. We may use your e-mail address to send a confirmation e-mail and, if necessary, may use other information you provide to contact you for help to process the purchase or service you have selected. If you subscribe to a service or register a product, for example, such information is used to register your rights, if any, to technical support or other benefits that may be made available to registered users. Unless you opt-out, your personal information also may be used to keep you informed about new products, product upgrades, patches, special offers, and other products and services of Bitrix24 and selected third parties if you have so opted to receive such communications.
 
@@ -116,7 +118,7 @@ Bitrix24 may collect information about the use of the Website, such as the types
 
 Bitrix24 recognizes and appreciates the importance of responsible use of information collected on this Website. Without your consent, Bitrix24 will not communicate any information to you regarding products, services, or special offers available from Bitrix24 or its affiliates, although we may find it necessary to communicate with you regarding your use of the services on this Website. Except in the particular circumstances described in this Privacy Policy, Bitrix24 will also not provide your name to other companies or organizations without your consent.
 
-### Disclosure of Information to Third Parties
+#### Disclosure of Information to Third Parties
 
 Bitrix24 uses services of third parties, such as e-mail service providers, purchase, shipping and order processing merchants and marketing companies that act as independent contractors on behalf of Bitrix24. These parties are contractually prohibited from using personally identifiable information for any purpose other than for the purpose Bitrix24 specifies. We do provide non-personally identifiable information to certain service providers for their use on an aggregated basis for the purpose of performing their contractual obligations to us. We prohibit the sale or transfer of personal information to entities outside of the Bitrix24's affiliates for their use without your approval.
 
@@ -124,7 +126,7 @@ Bitrix24 may disclose your personally identifiable information if we believe in 
 
 In the event that all or substantially all of Bitrix24's stock and/or all or substantially all assets are transferred or sold to another entity, Bitrix24 may transfer personally identifiable information to the acquiring entity. If, as a result of such a business transition, your personally identifiable information will be used in a materially different manner, you will be given choice consistent with our policy regarding notification of changes.
 
-### Choices Available to You 
+#### Choices Available to You
 
 You can always choose whether or not to disclose personally identifiable information and that choice will not prevent you from using the Website. Please note, however, if you should choose to withhold requested information, we may not be able to provide you with some of the services dependent upon the collection of this information and you will be given an opportunity to "opt-in" and make your preference choices for any items that are optional and which are not prerequisite for our rendering such services. 
 
@@ -140,7 +142,7 @@ If you wish to opt out of receiving emails, the sharing or retention of any pers
 
 To ensure that your request is honored, you must provide Bitrix24 with information sufficient for us to accurately identify and access your records. The information we require is your full name, address and the email address you provided to Bitrix24 when you requested services or products. Bitrix24 reserves the right to contact you to verify that we have accurately identified your record.
 
-### Cookies and Web Beacons
+#### Cookies and Web Beacons
 
 The Website uses "cookie" and "web beacon" technology. "Cookies" are short pieces of data generated by a web server that a website stores on a user's computer. Certain pages on our Website may require the use of a cookie for purposes of keeping information you enter on multiple pages together. Cookies also enable us to customize our Website and offerings to your needs and provide you with a better online experience with us. In addition, cookies are used to: 
 
@@ -158,7 +160,7 @@ You may set your browser to block cookies (consult the instructions for your par
 
 Web beacons are used in combination with cookies to help website operators understand how visitors interact with their websites. A web beacon is typically a transparent graphic image (usually 1 pixel x 1 pixel) that is placed on a site. In contrast to cookies, which are stored on a user's computer hard drive, web beacons are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. These web beacons are not tied to personally identifiable information. The use of a web beacons allows the site to measure the actions of the visitor opening the page that contains the web beacon. It makes it easier to follow and record the activities of a recognized browser, such as the path of pages visited at a website. Bitrix24 uses the information provided by web beacons to develop a better understanding of how the Website's visitors use the Website, and to facilitate those visitors' interactions with the Website. Bitrix24 may make the aggregate data obtained from web analytics (including from our third party analytics providers, if applicable) publicly available. If this data is made available, none of the information will be personally identifying information or potentially-personally identifying information.
 
-## D. PRIVACY-RELATED INQUIRIES AND COMPLAINTS
+#### D. PRIVACY-RELATED INQUIRIES AND COMPLAINTS
 
 Bitrix24 takes and addresses its users' privacy concerns with utmost respect and attention. If you believe that there was an instance of non-compliance with this Privacy Policy with regard to your personal information or you have other related inquiries or concerns, you may write or contact Bitrix24 at email: [privacy@bitrix24.com](mailto:privacy@bitrix24.com).
 
@@ -166,4 +168,4 @@ In your message, please describe in as much detail as possible the nature of you
 
 Please note that if you provide Bitrix24 with inconsistent privacy preferences (for example, by indicating on one occasion that third parties may contact you with marketing offers and indicating on another occasion that they may not), Bitrix24 cannot guarantee that your most recent privacy preference will be honored.
 
-**Copyright © 2012 Bitrix, Inc. All rights reserved.** This Website and accompanying products and documentation are the copyrighted property of Bitrix, Inc. and/or its licensors and protected by copyright laws and international intellectual property treaties. Bitrix24 and related logo, and all related product and service names, design marks and slogans are the trademarks and/or registered trademarks of Bitrix, Inc. All other product and service marks contained herein are the trademarks of their respective owners. Any use of the Bitrix24 or third party trademarks or logos without the prior written consent of Bitrix, Inc. or the applicable trademark owner is strictly prohibited.
+**Copyright © 2014 Bitrix, Inc. All rights reserved.** This Website and accompanying products and documentation are the copyrighted property of Bitrix, Inc. and/or its licensors and protected by copyright laws and international intellectual property treaties. Bitrix24 and related logo, and all related product and service names, design marks and slogans are the trademarks and/or registered trademarks of Bitrix, Inc. All other product and service marks contained herein are the trademarks of their respective owners. Any use of the Bitrix24 or third party trademarks or logos without the prior written consent of Bitrix, Inc. or the applicable trademark owner is strictly prohibited.
