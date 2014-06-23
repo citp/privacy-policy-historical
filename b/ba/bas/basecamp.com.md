@@ -1,55 +1,41 @@
-> *The following text is extracted and transformed from the basecamp.com privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120161723id_/http%3A//37signals.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the basecamp.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623201851id_/https%3A//basecamp.com/privacy) for the most accurate reproduction.*
 
-# 37signals Privacy Policy
+# Basecamp privacy policy
 
-We collect the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, and information volunteered by the consumer (such as survey information and/or site registrations). The information we collect is used to improve the content of our Web pages and the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you've requested, when we have your permission, or under the following circumstances:
+The privacy of your data — and it is your data, not ours! — is a big deal to us. We’ll only ever access your account to help you with a problem or squash a software bug. We’ll never open any uploaded files unless you ask us to. We log all access to all accounts by IP address, so we can always verify that no unauthorized access has happened for as long as the logs are kept.
 
-  * It is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Terms of Service of the specific application, or as otherwise required by law.
-  * We transfer information about you if 37signals is acquired by or merged with another company. In this event, 37signals will notify you before information about you is transferred and becomes subject to a different privacy policy.
+## Identity & access
 
+When you sign up for Basecamp, we ask for your name, company name, and email address. That's just so you can personalize your new account, and we can send you invoices, updates, or other essential information. We’ll never sell your personal info to third parties, and we won’t use your name or company in marketing statements without your permission, either.
 
+When you write Basecamp with a question or to ask for help, we'll keep that correspondence, and the email address, for future reference. When you browse our marketing pages, we'll track that for statistical purposes (like conversion rates and to test new designs). We also store any information you volunteer, like surveys, for as long as it makes sense.
 
-## INFORMATION GATHERING AND USAGE
+The only times we’ll ever share your info:
 
-  * When you register for any 37signals product we ask for information such as your name, company name, email address, billing address, credit card information. Members who sign up for the free account are not required to enter a credit card.
-  * 37signals uses collected information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, and research. 37signals does not share your personal information with third parties, unless explicitly approved by you.
-
-
-
-## COOKIES
-
-  * A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site's computers and stored on your computer's hard drive.
-  * Cookies are required to use the 37signals services.
-  * We use cookies to record current session information, but do not require permanent cookies.
+  * To provide products or services you've requested, with your permission.
+  * To investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our [Terms of Service](https://basecamp.com/terms), or as otherwise required by law.
+  * If Basecamp is acquired by or merged with another company — we don’t plan on that, but if it happens — we’ll notify you well before any info about you is transferred and becomes subject to a different privacy policy.
 
 
 
-## DATA STORAGE
+## Law enforcement
 
-37signals uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run our services. Although 37signals owns the code, databases, and all rights to the 37signals applications, you retain all rights to your data.
+Basecamp won’t hand your data over to law enforcement unless a court order says we have to. We flat-out reject requests from local and federal law enforcement when they seek data without a court order. And unless we're legally prevented from it, we’ll always inform you when such requests are made.
 
-## DISCLOSURE
+## Encryption
 
-  * 37signals may disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when your actions violate the Terms of Service of any of our applications.
+All data is encrypted via [SSL/TLS](http://en.wikipedia.org/wiki/Transport_Layer_Security) when transmitted from our servers to your browser. The database backups are also encrypted. Data isn’t encrypted while it's live in our database (since it needs to be ready to send to you when you need it), but we go to great lengths to secure your data at rest — you can read more about that on our [security page](https://web.archive.org/security).
 
+## Deleted data
 
+When you cancel your account, we'll ensure that nothing is stored on our servers past 30 days. Anything you delete on your account while it's active will also be purged within 30 days (up until then it's available in the trash can).
 
-## CHANGES
+## US-EU safe harbor & US-Swiss safe harbor
 
-37signals may periodically update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your 37signals service primary account holder account or by placing a prominent notice on our site. You retain the right to access, amend, correct or delete your personal information where it is inaccurate at any time. To do so, please contact [support@37signals.com](mailto:support@37signals.com).
+See our [safe harbor policy](https://web.archive.org/privacy/safe-harbor).
 
-## US-EU SAFE HARBOR AND US-SWISS SAFE HARBOR
+## Changes & questions
 
-37signals uses annual self-assessments to assure compliance within the US-EU and US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use and retention or personal data from the European Union and Switzerland. 37signals has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view 37signals' certification, please visit <http://www.export.gov/safeharbor/>.
+Basecamp may update this policy once in a blue moon — we’ll notify you about significant changes by emailing the account owner or by placing a prominent notice on our site. You can access, change or delete your personal information at any time by contacting support@basecamp.com.
 
-Our privacy policy above serves as our statement of adherence to the US-EU and US-Swiss Safe Harbor Principles. We encourage you to use the contact information below to inform us of any complaints or disputes you may have regarding the use of your personal information. We will thoroughly investigate the matter internally and make every effort to attempt to resolve the issue quickly. If your dispute cannot be resolved by us internally, we agree to dispute resolution with the Better Business Bureau as our third party resolution provider.
-
-## PRIVACY COMPLAINTS BY EUROPEAN UNION AND SWISS CITIZENS
-
-In compliance with the US-EU and US-Swiss Safe Harbor Principles, 37signals commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact 37signals at [support@37signals.com](mailto:support@37signals.com) or by mail at 37signals, 30 North Racine Avenue #200, Chicago, IL 60607 USA.
-
-37signals has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by 37signals, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
-
-## QUESTIONS
-
-Any questions about this Privacy Policy should be addressed to [support@37signals.com](mailto:support@37signals.com) or by mail at: 37signals, 30 North Racine Avenue #200, Chicago, IL 60607 USA
+Questions about this privacy policy? Please get in touch at [support@basecamp.com](mailto:support@basecamp.com) and we’ll be happy to answer them!
