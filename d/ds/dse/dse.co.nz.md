@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dse.co.nz privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222151131id_/http%3A//www.dicksmith.co.nz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dse.co.nz privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623133030id_/http%3A//www.dicksmith.co.nz/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -13,7 +13,7 @@ We respect your privacy and are committed to providing our customers with a secu
     * processing and delivery of your order(s)
     * enforcing any legal or other rights we may have against you in any manner that we see fit; and
     * sending you any advertising or promotional material.
-  2. We may transfer your personal information to others in countries outside New Zealand. We will only do this within the scope of clause
+  2. We may transfer your personal information to others in countries outside New Zealand. We will only do this within the scope of clause 1 above.
   3. To access your personal information, [login](https://web.archive.org/customer/account/login/) to your registered account or [contact us.](https://web.archive.org/contacts/)
 
 
