@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cityofseattle.net privacy policy that was archived on 2013-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131218185858id_/http%3A//www.seattle.gov/pan/privacypol.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cityofseattle.net privacy policy that was archived on 2014-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140623232433id_/http%3A//www.seattle.gov/pan/privacypol.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -12,7 +12,7 @@
   <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/combo?3.1.1/build/cssreset/reset-min.css&amp;3.1.1/build/cssfonts/fonts-min.css&amp;3.1.1/build/cssgrids/grids-min.css"> 
   <link rel="stylesheet" type="text/css" href="/2010_CSS/portalStyle.css">
   <link rel="stylesheet" type="text/css" href="/2010_CSS/jquery-ui-1.8.4.custom.css">  
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://web.archive.org/web/20121011120536/https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.google.com/jsapi?key=ABQIAAAA67JMa62IJXvLdjmG-ULx_BTjl3fR-JVt5YYY-rkBheXGoUNBABQrKWjxf6ZZBun9HZq5hu0dJGvfxA"></script><!--www9 API key--> 
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.google.com/jsapi?key=ABQIAAAA67JMa62IJXvLdjmG-ULx_BTjl3fR-JVt5YYY-rkBheXGoUNBABQrKWjxf6ZZBun9HZq5hu0dJGvfxA"></script><!--www9 API key--> 
 <script type="text/javascript"> 
   google.load("jquery", "1.4.2");
   google.load("jqueryui", "1.8.2");
@@ -56,21 +56,345 @@ SECTION = "about";
 LOC = "planning";
 SUBLOC = "legislation";
 </script>
-<script src="/gatc/www-gatc.js"></script>
 </head>
 <body class="servicesPortal">
 <div id="doc2">
-  <!--
+  <script type="text/javascript" src="http://www.google.com/jsapi?key=ABQIAAAA67JMa62IJXvLdjmG-ULx_BTjl3fR-JVt5YYY-rkBheXGoUNBABQrKWjxf6ZZBun9HZq5hu0dJGvfxA"></script><!--www9 API key--> 
+<script type="text/javascript">
+  google.load("jquery", "1.4.2");
+  google.load("jqueryui", "1.8.2");
+</script> 
+<script language="javascript" type="text/javascript" src="/js/jquery.easing.1.3.js"></script>
+
+<style>
+/* Mayor's Priorities Banner */
+
+  #seagovBanner, #seagovPriorityPanel{
+    /* normal state - blue background */ 
+		background-color:#02599d; 
+    /* medium alert - orange\ background */
+  /*  background-color: #ffe240; */   
+    /* high alert - red background
+    background-color:#d10000;
+    */
+	}
+
+  #seagovBanner, #seagovPriorityPanel, #seagovBannerAction, #seagovBannerSubLeft, #seagovBannerSubRight a{
+    color:#fff;
+	}
+		/* normal state - white text */ 
+    /*		color:#fff; */
+    /* medium alert 
+    color:#000;
+		*/    
+    /* high alert 
+    color:#fff;
+    */
+	
+  #seagovBanner.priorityBanner{
+    display: none;
+		position:relative;
+		top:0px; 
+		left:0px;
+/*		margin: 0px auto; */
+		height:30px;
+		width:100%;
+		z-index:2147483647;
+	}
+
+  #seagovBannerSub{
+    display: block;
+		width: 960px;
+		margin: 0px auto;
+	}
+  #seagovBannerAction{
+		font-family: Arial,Helvetica,sans-serif; 
+		font-size: 12px; 
+		float: left; 
+		width: 10%; 
+		padding-top: 8px;
+	}
+  #seagovBannerAction:hover{
+		cursor:pointer
+	}
+	#seagovBannerSubLeft, #seagovBannerSubRight{
+		padding:6px 15px;
+		font-family:'Myriad Pro', 'Trebuchet MS', Arial, Helvetica, sans-serif;
+		font-size:16px;
+	}
+	#latestNews{
+		font-family:'Myriad Pro', 'Trebuchet MS', Arial, Helvetica, sans-serif;
+		text-align: left;
+	}
+
+  #seagovBannerSubLeft{
+		float:left;
+	}
+  #seagovBannerSubRight{
+		text-align:right;
+		width:25%;
+		float:right;
+	}
+	#seagovBannerSubRight a{
+  	text-decoration: none;
+	}
+	#seagovPriorityPanel{
+	  opacity:1.0;
+		position:absolute;
+		top:20px; 
+		left:0px;
+		min-height:240px;
+		width:100%;
+		z-index:2147483646;
+		display:none
+	}
+  #seagovPriorityPanelSub{
+		margin: 0px auto; 
+		z-index: 1; 
+		padding: 20px 25px; 
+		width: 950px;
+	}
+  #seagovPriorityPanel .col3{
+  	float: left;
+    padding: 0px 1%;
+    width: 31%;
+	}
+	#seagovPriorityPanel .col3 img{
+		float:left;
+		margin-right:10px
+	}
+	#seagovPriorityPanel .col3 .topPadding{padding-top: 0px;}
+	#seagovPriorityPanel .col3 .topMargin{margin-top: 0px}
+	#seagovPriorityPanel .col3 div a{color:#fff;text-decoration:none;}
+	#seagovPriorityPanel .seagovTopicTitle, #seagovPriorityPanel .seagovTopicTitle a:first-child{
+			font-family:'Myriad Pro', 'Trebuchet MS', Arial, Helvetica, sans-serif;
+			color:#a9d9ff;
+			font-weight: bold;
+	}
+	#seagovPriorityPanel #visionStatement, #seagovPriorityPanel #mayorCredit{
+			font-family:'Myriad Pro', 'Trebuchet MS', Arial, Helvetica, sans-serif;
+			font-size:15px;
+	}
+	#seagovPriorityPanel .seagovTopicStyle{
+	  padding:10px;	
+		text-align:left;
+	}
+	#seagovPriorityPanel .seagovTopicStyle a{
+		arial,​helvetica,​clean,​sans-serif;
+  }	
+	#seagovPriorityPanel .seagovTopicStyleHover{
+	  background-color:#173269;
+	}
+  #seagovBannerAction .ui-icon{
+  	background-image: url("/2010_IMG/jquery_images/ui-icons_ffffff_256x240.png");
+	}
+</style>
+<script language="javascript">
+$(function(){
+
+  fullURL = window.location.href;
+  fullURL = fullURL.replace("http://", ""); 
+  priorityBannerHide = false;
+  subdir = fullURL.split('/');
+	
+  nonExecDept = ["council","leg","courts","ethics"];
+
+  for (var i=0;i<nonExecDept.length;i++){
+    if(subdir[1].toUpperCase() == nonExecDept[i].toUpperCase()){
+      priorityBannerHide = true; 
+ 	  }
+  }
+
+if(!priorityBannerHide){
+  $("body").prepend($("#seagovBanner"));
+  $("#seagovBanner.priorityBanner").show();
+  $("#seagovBannerAction").click(function() {
+    $("#seagovPriorityPanel" ).toggle("drop",{direction: "up", opacity: 0.9},1000,function(){
+      if($("#seagovPriorityPanel").is(':visible')){
+	  	  $("#seagovBannerAction").html("<span class=\"ui-icon ui-icon-close\" style=\"float:right\"></span><span style=\"text-decoration: underline;float:right\">Close</span>");	
+		  }else{
+	  	  $("#seagovBannerAction").html("<span class=\"ui-icon ui-icon-triangle-1-s\" style=\"float:right\"></span><span style=\"text-decoration: underline;float:right\">Learn More</span>")	
+	  	}
+		});
+  });
+	
+	$("#seagovBanner_close").click(function() {
+    $("#seagovPriorityPanel" ).toggle("drop",{direction: "up", opacity: 0.9},1000,function(){
+      if($("#seagovPriorityPanel").is(':visible')){
+	  	  $("#seagovBannerAction").html("<span class=\"ui-icon ui-icon-close\" style=\"float:right\"></span><span style=\"text-decoration: underline;float:right\">Close</span>");	
+		  }else{
+	  	  $("#seagovBannerAction").html("<span class=\"ui-icon ui-icon-triangle-1-s\" style=\"float:right\"></span><span style=\"text-decoration: underline;float:right\">Learn More</span>")	
+	  	}
+		});
+  });
+
+	$("div.seagovTopicStyle").hover(
+		function() {
+			$(this).addClass( "seagovTopicStyleHover" ).fadeIn(5000);
+		}, 
+		function() {
+      $(this).stop(0,0);
+			$(this).removeClass( "seagovTopicStyleHover" );
+		}
+	);
+}else{
+  $(".priorityBanner").hide();
+}	
+});
+
+function JSONFeedCallbackBanner(obj,callerID){
+//  buildContainer2(callerID);
+  var postCount,itemRSS,itemTitle,itemDate,itemLink,itemDesc,container,caller;
+//  caller=document.getElementById(callerID+"feed");
+
+//  container = caller;
+  itemRSS = obj.rss.channel;
+  try{
+    postCount = itemRSS.item.length;
+  }catch(err){
+    postCount = "";
+  }
+
+	itemRSS.RSSfeed = "http://www.seattle.gov/mayor/vision-for-seattle";
+	itemRSS.title = "Vision for Seattle"
+	itemRSS.linkURL = "http://www.seattle.gov/mayor/vision-for-seattle/feed/" 	
+  if(!obj.error){
+//    var div = "<div class=\"feedLinks\"><a href=\""+itemRSS.RSSfeed+"\"><img style=\"vertical-align: middle;margin-left:5px; margin-bottom:2px\" src=\"/2004_IMG/rss_icon2.gif\" hspace=\"0\" vspace=\"0\" alt=\"Subscribe to RSS feed\" border=\"0\"></a></div>";
+//    div += "<h3 class=\"feedTitle\">"+itemRSS.title+"</h3>";
+//    div =  "<div class=\"feedLinks\"><ol>";
+
+cat1="";
+cat2="";
+cat3="";
+cat4="";
+cat5="";
+
+    try{
+      for (var i = 0; i < postCount; i++) { //BLOGENTRIES_DISPLAYCOUNT && i < feedName[callerID][2]
+        var entry = itemRSS.item[i];
+//        div = div + "<li id=\"blogentry"+i+"\"><a href=\""+entry.link+"\">"+truncStr(entry.title,90)+"</a></li>"
+				for (var j=0; j< entry.category.length; j++){
+  			  if (entry.category[j]["#cdata-section"]=="A Safe City" && cat1==""){
+						cat1=entry.title;
+						cat1Link = entry.link;
+        		cat1str = "<a href='"+cat1Link +"\'>"+cat1+"</a>";
+						break;
+          }else if(entry.category[j]["#cdata-section"]=="An Affordable City" && cat2==""){
+						cat2=entry.title;
+						cat2Link = entry.link;
+						cat2str = "<a href='"+cat2Link +"\'>"+cat2+"</a>";
+						break;
+          }else if(entry.category[j]["#cdata-section"]=="A Vibrant City" && cat3==""){
+						cat3=entry.title;
+						cat3Link = entry.link;
+						cat3str = "<a href='"+cat3Link +"\'>"+cat3+"</a>";
+						break;
+          }else if(entry.category[j]["#cdata-section"]=="An Innovative City" && cat4==""){
+						cat4=entry.title;
+						cat4Link = entry.link;
+						cat4str = "<a href='"+cat4Link +"\'>"+cat4+"</a>";
+						break;
+          }else if(entry.category[j]["#cdata-section"]=="An Interconnected City" && cat5==""){
+						cat5=entry.title;
+						cat5Link = entry.link;
+        		cat5str = "<a href='"+cat5Link +"\'>"+cat5+"</a>";
+						break;
+          }else if(cat1!="" && cat2!="" && cat3!="" && cat4!="" && cat5!=""){
+					  break;
+					}
+				}
+//        div = div + "<li id=\"blogentry"+i+"\"><a href=\""+entry.link+"\">"+entry.title+"</a></li>"
+	  	}
+    }catch(err){
+		}
+    $('#topicSafeCity').html(cat1str);
+		$('#topicAffordableCity').html(cat2str);
+		$('#topicVibrantCity').html(cat3str);		
+		$('#topicInnovativeCity').html(cat4str);
+		$('#topicInterconnectedCity').html(cat5str);		
+	}else{
+		noRSS = "Currently Not Available.";
+		$('#topicSafeCity').html(noRSS);
+		$('#topicAffordableCity').html(noRSS);
+		$('#topicVibrantCity').html(noRSS);		
+		$('#topicInnovativeCity').html(noRSS);
+		$('#topicInterconnectedCity').html(noRSS);		
+	}
+}
+</script>
+
+<div id="seagovBanner" class="priorityBanner">
+  <div id="seagovBannerSub">
+    <div id="seagovBannerSubLeft">
+      Working for a safe, affordable, vibrant, innovative, and interconnected city. 
+    </div>
+    <div id="seagovBannerAction"><span class="ui-icon ui-icon-triangle-1-s" style="float:right"></span><span style="text-decoration: underline;float:right">Learn More</span></div>
+    <div id="seagovBannerSubRight">
+      <strong><a class="seagovBannerLinkColor" href="http://www.seattle.gov/mayor">Mayor Edward B. Murray</a></strong>
+    </div>  
+  </div>  
+</div>
+<div id="seagovPriorityPanel" class="priorityBanner">
+  <div id="seagovPriorityPanelSub">
+    <div class="col3">
+      <div id="latestNews" style="font-size:30px;margin-top:-5px">
+        <strong><a href="http://murray.seattle.gov/category/vision-for-seattle">LATEST NEWS</a></strong><br>
+        <p style="font-size:14px;margin-top:-8px"><a href="http://murray.seattle.gov/category/vision-for-seattle">How we are working to achieve this vision</a></p>
+      </div>
+      <div id="topic1" class="seagovTopicStyle">
+        <div class="seagovTopicTitle"><a href="http://murray.seattle.gov/category/vision-for-seattle/a-safe-city/">A SAFE CITY &gt;&gt;</a></div>
+        <div id="topicSafeCity" class="topPadding"></div>
+      </div>
+      <div id="topic2" class="seagovTopicStyle topMargin">
+        <div class="seagovTopicTitle" style="color:#a9d9ff"><a href="http://murray.seattle.gov/category/vision-for-seattle/an-affordable-city/">AN AFFORDABLE CITY &gt;&gt;</a></div>
+        <div id="topicAffordableCity" class="topPadding"></div>
+      </div>
+    </div>
+    <div class="col3">
+      <div id="topic3" class="seagovTopicStyle">
+        <div class="seagovTopicTitle"><a href="http://murray.seattle.gov/category/vision-for-seattle/a-vibrant-city/">A VIBRANT CITY &gt;&gt;</a></div>
+        <div id="topicVibrantCity" class="topPadding"></div>
+      </div>
+      <div id="topic4" class="seagovTopicStyle topMargin">
+        <div class="seagovTopicTitle"><a href="http://murray.seattle.gov/category/vision-for-seattle/an-innovative-city/">AN INNOVATIVE CITY &gt;&gt;</a></div>
+        <div id="topicInnovativeCity" class="topPadding"></div>
+      </div>
+      <div id="topic5" class="seagovTopicStyle topMargin">
+        <div class="seagovTopicTitle"><a href="http://murray.seattle.gov/category/vision-for-seattle/an-interconnected-city/">AN INTERCONNECTED CITY &gt;&gt;</a></div>
+        <div id="topicInterconnectedCity" class="topPadding"></div>
+      </div>
+    </div>
+    <div style="background-color:#FFF" class="col3">
+      <div style="padding:15px 10px">
+        <img src="/common/images/mayormurray_icon.png" alt="Mayor Edward B. Murray photo"> 
+        <div id="visionStatement" style="color:#666;line-height:19.5px">Through collaboration, and with a focus on practical solutions rather than politics, on innovative rather than ideology, together <a style="color:#3366cc;font-weight:bold;" href="http://www.seattle.gov/mayor/vision-for-seattle">we can realize this vision.</a></div>
+        <br clear="all">
+        <div id="mayorCredit" style="color:#666;font-weight:bold;float:right;padding-bottom:10px;margin-top:10px">- Mayor Edward B. Murray</div>
+        <br clear="all">
+      </div>
+    </div>
+    <div id="seagovBanner_close" style="float:right;font-weight:bold;cursor:pointer;margin-top:5px;"><img src="/common/images/mayorBanner_iconClose.png" alt="Close Latest News Panel" border="0"></div>
+    <br clear="all">
+  </div>
+</div>
+<script src="http://web1.seattle.gov/FeedAggregator/Feed.aspx?id=258&amp;&amp;fmt=Json&amp;callback=JSONFeedCallbackBanner&amp;include=title|link|pubDate|category&amp;referrer=topicSafeCity" type="text/javascript"></script>
+
+
+<!--
 <div id="alerts" style="margin:0px auto;background-color:#d10000;color:#fff;width:100%;height:30px;padding:0px;">
   <p style="margin:0;padding:0;padding-top:6px;padding-left:10px;float:left;font-family: arial, helvetica;font-size:12px;color:#fff;font-weight:bold">Citywide Emergency Information: For current snow storm alerts visit our <a style="color: #ffffff; text-decoration: underline;" href="/html/citizen/emergencyinformation.htm">Emergency Information</a> web page.</p>
 </div>
 In case WPengine goes down use: http://seattle.gov/notifications/message.htm
-
-
 <div id="alerts" style="margin:0px auto;background-color:#f8ca67;color:#000;width:100%;height:30px;padding:0px;border:1px solid #666">
-  <p style="margin:0;padding:0;padding-top:6px;padding-left:0px;text-align:center;font-family: arial, helvetica;font-size:11px;color:#000;">Scheduled server maintenance will occur the evening of Sat., Dec. 14. Potential Web site service outages may be experienced.</p>
+  <p style="margin:0;padding:0;padding-top:6px;padding-left:0px;text-align:center;font-family: arial, helvetica;font-size:11px;color:#000;">Scheduled server maintenance will occur the evening of Wed., Dec. 11.  Short service outages are possible.</p>
+</div>
+<div id="alerts" style="margin:0px auto;background-color:#002244;color:#69BE28;width:100%;height:35px;padding:0px;padding-top:2px">
+  <img src="/common/includes/images/seahawks.png" alt="Seattle Seahawks logo" border="0" style="float:left;margin-left: 8px;"> 
+  <p style="margin:0;padding:0;padding-top:6px;padding-left:10px;float:left;font-family: arial, helvetica;font-size:14px;color:#69BE28;font-weight:bold">Congratulations, Seattle Seahawks! Superbowl XLVIII Champions. <a style="color: #ffffff; text-decoration: underline;" href="http://alerts.seattle.gov">More info</a>.</p>
 </div>
 -->
+
+
 
 
 <div id="header" style="display:block;position:relative;margin:0 auto;">
@@ -96,41 +420,41 @@ In case WPengine goes down use: http://seattle.gov/notifications/message.htm
 <div id="featureItem">
 	<div id="photos" class="galleryview">
 		<div class="panel">
-	    <img src="/2010_img/portalphotos/Bahrservicesver1.jpg"> 
+	    <img src="/2010_img/portalphotos/sealthCompass.jpg"> 
  			<div class="panel-overlay">
-				<p style="float:left"><em>Building detail on Capitol Hill</em> <a href="http://web6.seattle.gov/mnm/?tabId=1&amp;zl=3&amp;x=-122.30971958700&amp;y=47.62648270600/" target="_blank">map it</a></p> <p style="float:right">Photo by John Bahr</p>
+				<p style="float:left"><em>Sealth Compass</em> <a href="http://web5.seattle.gov/mnm/?x=-122.337127&amp;y=47.612562&amp;zl=4" target="_blank">map it</a></p><p style="float:right">Photo by  <a href="http://www.flickr.com/photos/city_of_seattle/" target="_blank">CityWeb</a></p>
 			</div>
 		</div>
 		<div class="panel" style="display:none">
-			<img src="/2010_img/portalphotos/Blakeleyhomever1.jpg"> 
+			<img src="/2010_img/portalphotos/stcaphillatdawn.jpg"> 
 			<div class="panel-overlay">
-			  <p style="float:left"><em>Bikers on the Fremont Bridge</em> <a href="http://web6.seattle.gov/mnm/?tabId=1&amp;zl=3&amp;x=-122.38556634900&amp;y=47.68433443600/" target="_blank">map it</a></p> <p style="float:right"> Photo by <a href="http://www.flickr.com/photos/csb13/9085616109/" target="_blank">Chris Blakeley</a></p>
+			  <p style="float:left"><em>Building Light Rail in Capitol Hill</em> <a href="http://web5.seattle.gov/mnm/?x=-122.314962&amp;y=47.619951&amp;zl=4" target="_blank">map it</a></p>	<p style="float:right"> Photo by <a href="http://www.flickr.com/photos/michaelholden/5448541479/in/pool-seattlegov" target="_blank">Michael Holden</a></p>
 			</div>
 		</div>
 		<div class="panel" style="display:none">
-			<img src="/2010_img/portalphotos/Friskvisitingver1.jpg"> 
+			<img src="/2010_img/portalphotos/fireboatleschi.jpg"> 
 			<div class="panel-overlay">
-			  <p style="float:left"><em>Boats in the Seattle waterfront</em> <a href="http://web6.seattle.gov/mnm/?tabId=1&amp;zl=5&amp;addr=600%205th%20ave/" target="_blank">map it</a></p> <p style="float:right"> Photo by <a href="http://www.howardfriskphotography.com/" target="_blank">Howard Frisk Photography</a> </p>
+			  <p style="float:left"><em>Seattle Fire Department Fireboat Leschi</em></p>    <p style="float:right"> Photo by <a href="http://www.flickr.com/photos/metadata_man/5355631031/in/pool-seattlegov" target="_blank">Dennis McMillin</a> </p>
 			</div>
 		</div>
 		<div class="panel" style="display:none">
-		  <img src="/2010_img/portalphotos/Gregpierceservicesver1.jpg"> 
+		  <img src="/2010_img/portalphotos/busandneedle1.jpg"> 
 			<div class="panel-overlay">
-				<p style="float:left"><em>Morning at Green Lake</em> <a href="http://web6.seattle.gov/mnm/?tabId=1&amp;zl=5&amp;addr=south%20lake%20union%20park/" target="_blank">map it</a></p> <p style="float:right">Photo by <a href="http://www.flickr.com/photos/gnealp/8815861712/" target="_blank">Greg Pierce Images</a></p>
+				<p style="float:left"><em>Bus in Seattle neighborhood at sunset</em></p>    <p style="float:right">Photo by <a href="http://www.flickr.com/photos/21351669@N02/5160052219/in/pool-seattlegov" target="_blank">East Colfax</a></p>
 			</div>
 		</div>
-		<!-- <div class="panel" style="display:none">
-		  <img src="/2010_img/portalphotos/sealthStatue.jpg" /> 
+		<div class="panel" style="display:none">
+		  <img src="/2010_img/portalphotos/sealthStatue.jpg"> 
 			<div class="panel-overlay">
-				<p style="float:left"><em>Morning at Green Lake</em> <a href="http://web6.seattle.gov/mnm/?tabId=1&zl=5&addr=south%20lake%20union%20park/" target="_blank">map it</a></p> <p style="float:right">Photo by <a href="http://www.flickr.com/photos/city_of_seattle/" target="_blank">Greg Pierce Images</a></p>
+				<p style="float:left"><em>Chief Sealth at 5th and Denny</em> <a href="http://web5.seattle.gov/mnm/?x=-122.347429&amp;y=47.618389&amp;zl=4" target="_blank">map it</a></p> <p style="float:right">Photo by <a href="http://www.flickr.com/photos/city_of_seattle/" target="_blank">CityWeb</a></p>
 			</div>
-		</div> -->
+		</div>
 		<ul class="filmstrip" style="list-style:none">
 			<li style="list-style:none"><img src="/2010_img/portalphotos/1.png" alt="photo #1" title="photo #1"></li>
 			<li style="list-style:none"><img src="/2010_img/portalphotos/2.png" alt="photo #2" title="photo #2"></li>
 			<li style="list-style:none"><img src="/2010_img/portalphotos/3.png" alt="photo #3" title="photo #3"></li>
 			<li style="list-style:none"><img src="/2010_img/portalphotos/4.png" alt="photo #4" title="photo #4"></li>
-			<!-- <li style="list-style:none"><img src="/2010_img/portalphotos/5.png" alt="photo #5" title="photo #5" /></li> -->
+			<li style="list-style:none"><img src="/2010_img/portalphotos/5.png" alt="photo #5" title="photo #5"></li>
 		</ul>
 	</div>
 </div>
@@ -140,12 +464,11 @@ In case WPengine goes down use: http://seattle.gov/notifications/message.htm
 			<h3>How do I...</h3>
 			<div class="scroll">
 			<ul>
-				<li class="odd"><a href="http://www.seattle.gov/jobs/">Apply for a City Job</a></li>
-				<li class="even"><a href="http://web5.seattle.gov/mnm/incidentresponse.aspx">911 Incident Responses</a></li>
-				<li class="odd"><a href="https://secure4.billerweb.com/csg/JustPayIt/jpt.do">Pay My Utility Bill</a></li>
-				<li class="even"><a href="/util/MyServices/MyAccount/Payment_Options/index.htm">Pay Water, Sewer, Garbage Bill</a></li>
+				<li class="even"><a href="http://www.seattle.gov/jobs/">Apply for a City Job</a></li>
+				<li class="odd"><a href="http://web5.seattle.gov/mnm/incidentresponse.aspx">911 Incident Responses</a></li>
+				<li class="even"><a href="https://secure4.billerweb.com/csg/JustPayIt/jpt.do">Pay My Utility Bill</a></li>
 				<li class="odd"><a href="http://www.seattle.gov/transportation/potholes/">Check on Pothole Repairs</a></li>
-				<li class="even"><a href="http://www.resourcehouse.info/Win211/">Find Community Resources</a></li>
+				<li class="even"><a href="http://www.resourcehouse.com">Find Community Resources</a></li>
 				<li class="odd"><a href="http://www.seattle.gov/courts/Ticket/ticketinformation.htm">Pay a Parking or Traffic Ticket Online</a></li>
 				<li class="even"><a href="http://web1.seattle.gov/DPD/permitstatus/">Check the Status of a Permit</a></li>
 				<li class="odd"><a href="https://web1.seattle.gov/police/AbandonedVehicles/Present/AbandonedVehicle.aspx">Report an Abandoned Vehicle</a></li>
@@ -198,15 +521,14 @@ In case WPengine goes down use: http://seattle.gov/notifications/message.htm
 	<option id="dept7" value="http://www.seattle.gov/financedepartment/">City Budget Office</option>
 	<option id="dept8" value="http://www.seattle.gov/leg/clerk/">City Clerk</option>
 	<option id="dept9" value="http://www.seattle.gov/council/default.htm">City Council</option>
-	<option id="dept10" value="http://www.seattle.gov/dpd/planning/design_commission/what_we_do/in_brief/">City Design</option>
+	<option id="dept10" value="http://www.seattle.gov/dclu/citydesign/">City Design</option>
 	<option id="dept11" value="http://www.seattle.gov/light/">City Light</option>
 	<option id="dept12" value="http://www.seattle.gov/civilrights/">Civil Rights</option>
 	<option id="dept13" value="http://www.seattle.gov/csc/">Civil Service Commission</option>
-	<option id="dept111" value="http://www.seattle.gov/policecommission/">Community Police Commission</option>
 	<option id="dept14" value="http://www.seattle.gov/consumeraffairs/">Consumer Affairs</option>
 	<option id="dept15" value="http://www.seattle.gov/contract/">Contracting Services</option>
 	<option id="dept16" value="http://www.seattle.gov/CitizenService/">Customer Service Bureau</option>
-	<option id="dept17" value="http://www.seattle.gov/dpd/planning/design_commission/what_we_do/in_brief/">Design Commission</option>  
+	<option id="dept17" value="http://www.seattle.gov/dpd/planning/design_commission/overview/">Design Commission</option>  
 	<option id="dept18" value="http://www.seattle.gov/EconomicDevelopment/">Economic Development</option>
 	<option id="dept19" value="http://www.seattle.gov/emergency/">Emergency Management</option>
 	<option id="dept20" value="http://www.seattle.gov/ethics/ethics.htm">Ethics and Elections</option>
@@ -215,12 +537,10 @@ In case WPengine goes down use: http://seattle.gov/notifications/message.htm
 	<option id="dept55" value="http://www.seattle.gov/fas/">Finance &amp; Admn Svcs</option>
 	<option id="dept23" value="http://www.seattle.gov/fire/">Fire Department</option>
 	<option id="dept24" value="http://www.seattle.gov/fas/">Fleets &amp; Facilities</option>
-	<option id="dept25" value="http://www.kingcounty.gov/health/" target="_blank">Health Department</option>
+	<option id="dept25" value="http://www.kingcounty.gov/health/">Health Department</option>
 	<option id="dept26" value="http://www.seattle.gov/examiner/">Hearing Examiner</option>
 	<option id="dept27" value=" http://www.seattle.gov/housing/default.htm">Housing</option>
 	<option id="dept28" value="http://www.seattle.gov/humanservices/">Human Services</option>
-	<option id="dept00" value="http://www.seattle.gov/IandRaffairs/">Immigrant &amp; Refugee Affairs</option>
-	<option id="dept50" value="http://www.seattle.gov/doit/default.htm">Information Technology</option>
 	<option id="dept29" value="http://www.seattle.gov/oir/">Intergovernmental Relations</option>
 	<option id="dept30" value="http://www.seattle.gov/law/">Law Department</option>
 	<option id="dept31" value="http://www.spl.org/">Library</option>
@@ -234,7 +554,6 @@ In case WPengine goes down use: http://seattle.gov/notifications/message.htm
 	<option id="dept39" value="http://www.seattle.gov/dpd/">Planning &amp; Development</option>  
 	<option id="dept40" value="http://www.seattle.gov/planningcommission/">Planning Commission</option>
 	<option id="dept41" value="http://www.seattle.gov/police/">Police Department</option>
-	<option id="dept112" value="http://www.seattle.gov/police/opa/default.htm">Professional Accountability</option>
 	<option id="dept42" value="http://www.seattle.gov/pscsc/">Public Safety CSC</option>
 	<option id="dept43" value="http://www.seattle.gov/util/">Public Utilities</option>
 	<option id="dept44" value="http://www.seattle.gov/purchasing/">Purchasing Services</option>  
@@ -244,6 +563,7 @@ In case WPengine goes down use: http://seattle.gov/notifications/message.htm
 	<option id="dept48" value="http://www.seattlechannel.org/">Seattle Channel</option>
 	<option id="dept54" value="http://www.seattle.gov/specialevents">Special Events Office</option>
 	<option id="dept49" value="http://www.seattle.gov/environment/">Sustainability &amp; Environment</option>
+	<option id="dept50" value="http://www.seattle.gov/doit/default.htm">Technology</option>
 	<option id="dept51" value="http://www.seattle.gov/transportation/">Transportation</option>
 	<option id="dept52" value="http://www.seattle.gov/womenscommission/">Women‘s Commission</option>
 	<option id="dept53" value="http://www.seattle.gov/syc/">Youth Commission</option>
@@ -254,12 +574,11 @@ In case WPengine goes down use: http://seattle.gov/notifications/message.htm
     <div id="mainContent">
       <h1>Legislation, Policies and Standards</h1>
       <h2>City Online Privacy and Security Policy</h2>
-      <p>Department of Information Technology - <em>Revised by the Internet Board, approved by the Technology Board, October 2, 2012.<br>Originally posted September 15, 2004; updated December 16, 2004.
-</em></p>
+      <p>Department of Information Technology - <em>Originally posted on September 15, 2004; updated on December 16, 2004</em></p>
       <p align="center"><a href="privacytrans.htm">City of Seattle Online Privacy and Security Policy Summary<br>
         Available in 14 Languages</a></p>
       <p><strong>Section A. Introduction</strong></p>
-      <p>Thank you for visiting the City of Seattle's Web site (<a href="http://www.seattle.gov/">http://www.seattle.gov/</a> or "Seattle.Gov") and reviewing our Privacy and Security Policy. This policy addresses collection, use and security of and access to information that may be obtained through use of Seattle.Gov. It is provided for informational purposes only. The information presented here is not meant to be a contract of any type, either express or implied, and should not be treated as such by site visitors. The information in this statement and/or the policies described here may change at any time, without prior notice to any visitor.</p>
+      <p>Thank you for visiting the City of Seattle's Web site (<a href="http://www.Seattle.Gov">http://www.Seattle.Gov</a> or "Seattle.Gov") and reviewing our Privacy and Security Policy. This policy addresses collection, use and security of and access to information that may be obtained through use of Seattle.Gov. It is provided for informational purposes only. The information presented here is not meant to be a contract of any type, either express or implied, and should not be treated as such by site visitors. The information in this statement and/or the policies described here may change at any time, without prior notice to any visitor.</p>
       <p>This notice covers the following topics:</p>
       <ul>
         <li>Section B. <a href="#collected">Information Collected and How it is Used</a></li>
@@ -274,124 +593,66 @@ In case WPengine goes down use: http://seattle.gov/notifications/message.htm
         <li>Section K. <a href="#contact">Contact Information</a></li>
       </ul>
       <p><a name="collected"><strong>Section B.  Information Collected and How it is Used</strong></a></p>
-      
-      <p><strong>Web sites</strong></p>
-      
-     <p>Information collected if you only browse this site.</p>
-
-<p>If you do nothing during your visit to our web site but browse, read pages, or download information, we will gather and store certain information about your visit. This information does not identify you personally. We automatically collect and store the following information about your visit:</p>
-
-<ol>
-<li>The Internet Protocol Address and domain name used. The Internet Protocol address is a numerical identifier assigned either to your Internet service provider or directly to your computer. We use the Internet Protocol Address to direct Internet traffic to you. This address can be translated to determine the domain name of your service provider (e.g. xcompany.com or yourschool.edu). Generally, the City only determines visitor domain names if a security issue is suspected; </li>
-<li>The type of browser and operating system you used; </li>
-<li>The date and time you visited this site; </li>
-<li>The web pages or services you accessed at this site; and </li>
-<li>The web site you visited prior to coming to this web site.</li>
-</ol> 
-
-<p>Information is collected for statistical purposes and to help the City manage the site. The City's web site uses software programs to create summary statistics, which are used for such purposes as assessing what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas.</p>
-
-<p>For site security purposes and to ensure that this service remains available to all users, the City's web site employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. Except for authorized law enforcement investigations and the security purposes mentioned elsewhere in this notice, no other attempts are made to identify individual users or their usage habits. Raw data logs are used for no other purposes and are scheduled for regular destruction in accordance with public records retention schedules.</p>
-
-<p>What we collect if you volunteer information.</p>
-
-<p>If during your visit to our web site you participate in a survey, send an e-mail, participate in a City hosted mailing list or web-based discussion, or perform some other transaction online, the following additional information will be collected:</p>
-
-<ol>
-<li>The e-mail address, and contents of the e-mail, for those who communicate with us via e-mail or who participate in a City hosted mailing list or web-based discussion. </li>
-<li>Information volunteered in response to a survey. </li>
-<li>Information volunteered through an online form for any other purpose. </li>
-<li>Information volunteered by participating in an online transaction with the City. </li>
-</ol>
-
-<p>The information collected is not limited to text characters and may include audio, video, and graphic information formats you send us.</p>
-
-<p>We use your e-mail address to respond to you. It is the City's Policy to not use your e-mail address to send you unsolicited e-mail unless you specifically elect to receive it. Online discussion lists or "threads" are maintained and controlled in accordance with the <a href="/pan/mailinglistpolicies.htm">City's Electronic Conferencing and List Services Policy</a>. Survey information is used for the purpose identified by the survey. Information from other online forms is used only for conducting City business related to the online form.</p>
-
-<p>Information provided for a transaction is used only for the purpose of completing and recording the transaction. Information requested will be no more specific than if a visitor were engaging in the transaction by other means, including by telephone or in-person while visiting a City facility. In all cases, the City strives to collect the minimum information necessary to comply with applicable law or provide the service requested.</p>
-
-<p>The City does not sell, rent or otherwise distribute visitor's information, including electronic mail addresses, to any outside company or organization, unless legally required to do so. This applies to information that may be collected on the City's site and on that of any third party with whom the City contracts to provide Internet related services.</p>
-
-<p><strong>Mobile Devices</strong></p>
-
-<p>Messages sent from certain mobile devices contain unique identifiers about the physical location of such devices. Mobile devices also typically transmit caller ID data when used to transmit a telephone call or text message.</p> 
-
-<p>Depending on the device and its settings, this information includes but is not limited to <strong>geolocation data, unique device identifiers, wireless provider, date and time of transaction, browser type, browser language and other transactional information</strong>. By law, the City is required to retain this information for a period of time as it is associated with the content of the message sent.</p>
-
-<p>Privacy of information: We commit that any information we gather from a  mobile device will not be provided, sold, licensed, rented, assigned or disclosed to Third Parties, except as required by law. Further, we will not use the data we collect for any other purpose nor use your phone number to initiate a call or SMS text message to you without your express prior consent. Your wireless carrier and other service providers also collect data about your SMS Service usage, and their practices are governed by their own privacy policies.</p>
-
-<p>Retention: We will store all communications and associated data for a period of time consistent with the State of Washington's record retention requirements. After that time we will delete these records.</p>
-
-<p>Additional Resources: To find out more about the information that your mobile device collects and transmits, and the options available to you to change factory defaults that may affect those transmissions, please consult with your wireless or mobile device provider. For general information about wireless industry laws and regulations, please go to the Cellular Telecommunications and Internet Association website at <a href="http://ctia.org/consumer_info/service/">http://ctia.org/consumer_info/service/</a>.</p>
-
-      
-<p><a name="personal"><strong>Section C.  Personal Information and Choice</strong></a></p>
-     
-    <p>You may choose whether to provide personal information online.
-"Personal information" is information about a natural person that is readily identifiable to that specific individual. Personal information includes such things as an individual's name, address, and phone number. A domain name or Internet Protocol address is not considered personal information.</p>
-
-<p>We collect no personal information about you unless you voluntarily provide it to us by sending us e-mail, participating in a survey, completing an online form, or engaging in an online transaction. You may choose not to contact us by e-mail, participate in a survey, provide personal information using an online form, or engage in an electronic transaction. However, some information available through this site is specific to individual users. </p>
-
-<p>Visitors interested in viewing this user specific information are requested to sign up for a password-protected account. Your choice to not participate in these activities will not impair your ability to browse, read, or download general information provided on the site. Information protected on this site by a password, which is subject to disclosure, may be obtained by contacting the City directly.</p>
-
-<p>If personal information is requested on the web site or volunteered by the user, state law and the federal Privacy Act of 1974 may protect it. However, this information is treated like any other information provided to the city, and may be subject to public inspection and copying if not protected by federal or state law.</p>
-
-<p>If you believe that your personal information is being used for a purpose other than what was intended when submitted, you may contact the person identified in the Contact Information Section of this statement.</p>
-
-<p>Users are cautioned that the collection of personal information requested from or volunteered by children online or by e-mail will be treated the same as information given by an adult, and may be subject to public access.</p>
-
-     
-<p><a name="access"><strong>Section D.  Public Access to Information</strong></a></p>
-
-	<p>In the State Of Washington, Public Disclosure laws exist to ensure that government is open and that the public has a right to access appropriate records and information possessed by City government (The Public Records Act or "PRA" <a href="http://apps.leg.wa.gov/RCW/default.aspx?cite=42.56.070">RCW 42.56.070</a>). At the same time, there are exceptions to the public's right to access public records that serve various needs including the privacy of individuals. Both state and federal laws provide exceptions. The PRA requires the disclosure of all public records unless a particular record (or particular information contained in a record) is specifically exempt under the PRA or other applicable law. For example, there is no categorical exemption for residential telephone numbers, residential addresses, or personal e-mail addresses. However, the PRA does not require the disclosure of "credit card numbers, debit card numbers, electronic check numbers, card expiration dates, or bank or other financial account numbers supplied to [the City] for the purpose of electronic transfer of funds, except when disclosure is expressly required by law".</p>
-<p>The PRA does not authorize the City to give, sell, or provide access to lists of individuals to entities seeking to use the lists for commercial purposes. City practice is to require those who request lists of individuals to sign an affidavit stating that they do not have a commercial purpose (such as contacting those on the list to propose a commercial transaction). However, the City cannot guarantee that a requester will not, despite signing such an affidavit, contact individuals on the list for a commercial purpose.
-</p>
-<p>In the event of a conflict between this Privacy Notice and the Public Records Act or other law governing the disclosure of records, the Public Records Act or other applicable law will control.</p>
-
-
+      <p>Information collected if you only browse this site.</p>
+      <p>If you do nothing during your visit to our web site but browse, read pages, or download information, we will gather and store certain information about your visit. This information does not identify you personally. We automatically collect and store the following information about your visit:</p>
+      <ol>
+        <li>The Internet Protocol Address and domain name used. The Internet Protocol address is a numerical identifier assigned either to your Internet service provider or directly to your computer. We use the Internet Protocol Address to direct Internet traffic to you.  This address can be translated to determine the domain name of your service provider (e.g. xcompany.com or yourschool.edu). Generally, the City only determines visitor domain names if a security issue is suspected;</li>
+        <li>The type of browser and operating system you used; </li>
+        <li>The date and time you visited this site; </li>
+        <li>The web pages or services you accessed at this site; and </li>
+        <li>The web site you visited prior to coming to this web site.</li>
+      </ol>
+      <p>Information is collected for statistical purposes and to help the City manage the site. The City's web site uses software programs to create summary statistics, which are used for such purposes as assessing what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas.</p>
+      <p>For site security purposes and to ensure that this service remains available to all users, the City's web site employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. Except for authorized law enforcement investigations and the security purposes mentioned elsewhere in this notice, no other attempts are made to identify individual users or their usage habits. Raw data logs are used for no other purposes and are scheduled for regular destruction in accordance with public records retention schedules.</p>
+      <p>What we collect if you volunteer information.</p>
+      <p>If during your visit to our web site you participate in a survey, send an e-mail, participate in a City hosted mailing list or web-based discussion, or perform some other transaction online, the following additional information will be collected:</p>
+      <ol>
+        <li>The e-mail address, and contents of the e-mail, for those who communicate with us via e-mail or who participate in a City hosted mailing list or web-based discussion. </li>
+        <li>Information volunteered in response to a survey.</li>
+        <li>Information volunteered through an online form for any other purpose.</li>
+        <li>Information volunteered by participating in an online transaction with the City.</li>
+      </ol>
+      <p>The information collected is not limited to text characters and may include audio, video, and graphic information formats you send us.</p>
+      <p>We use your e-mail address to respond to you. It is the City's Policy to not use your e-mail address to send you unsolicited e-mail unless you specifically elect to receive it.  Online discussion lists or "threads" are maintained and controlled in accordance with the City's <a href="http://www.seattle.gov/pan/mailinglistpolicies.htm">Electronic Conferencing and List Services Policy</a>. Survey information is used for the purpose identified by the survey.  Information from other online forms is used only for conducting City business related to the online form.</p>
+      <p>Information provided for a transaction is used only for the purpose of completing and recording the transaction. Information requested will be no more specific than if a visitor were engaging in the transaction by other means, including by telephone or in-person while visiting a City facility. In all cases, the City strives to collect the minimum information necessary to comply with applicable law or provide the service requested.</p>
+      <p>The City does not sell, rent or otherwise distribute visitor's information, including electronic mail addresses, to any outside company or organization, unless legally required to do so. This applies to information that may be collected on the City's site and on that of any third party with whom the City contracts to provide Internet related services.</p>
+      <p><a name="personal"><strong>Section C.  Personal Information and Choice</strong></a></p>
+      <p>You may choose whether to provide personal information online.</p>
+      <p>"Personal information" is information about a natural person that is readily identifiable to that specific individual.  Personal information includes such things as an individual's name, address, and phone number.  A domain name or Internet Protocol address is not considered personal information.</p>
+      <p>We collect no personal information about you unless you voluntarily provide it to us by sending us e-mail, participating in a survey, completing an online form, or engaging in an online transaction.  You may choose not to contact us by e-mail, participate in a survey, provide personal information using an online form, or engage in an electronic transaction. However, some information available through this site is specific to individual users. Visitors interested in viewing this user specific information are requested to sign up for a password-protected account. Your choice to not participate in these activities will not impair your ability to browse, read, or download general information provided on the site. Information protected on this site by a password, which is subject to disclosure, may be obtained by contacting the City directly.</p>
+      <p>If personal information is requested on the web site or volunteered by the user, state law and the federal Privacy Act of 1974 may protect it.  However, this information is treated like any other information provided to the city, and may be subject to public inspection and copying if not protected by federal or state law.</p>
+      <p>If you believe that your personal information is being used for a purpose other than what was intended when submitted, you may contact the person identified in the Contact Information Section of this statement.</p>
+      <p>Users are cautioned that the collection of personal information requested from or volunteered by children online or by e-mail will be treated the same as information given by an adult, and may be subject to public access.</p>
+      <p><a name="access"><strong>Section D.  Public Access to Information</strong></a></p>
+      <p>In the State Of Washington, Public Disclosure laws exist to ensure that government is open and that the public has a right to access appropriate records and information possessed by City government (The Public Records Act or "PRA" <a href="http://apps.leg.wa.gov/RCW/default.aspx?cite=42.56.070">RCW 42.56.070</a>).  At the same time, there are exceptions to the public's right to access public records that serve various needs including the privacy of individuals.  Both state and federal laws provide exceptions.  The PRA requires the disclosure of all public records unless a particular record (or particular information contained in a record) is specifically exempt under the PRA or other applicable law. For example, there is no categorical exemption for residential telephone numbers, residential addresses, or personal e-mail addresses. However, the PRA does not require the disclosure of "credit card numbers, debit card numbers, electronic check numbers, card expiration dates, or bank or other financial account numbers supplied to [the City] for the purpose of electronic transfer of funds, except when disclosure is expressly required by law".</p>
+      <p>The PRA does not authorize the City to give, sell, or provide access to lists of individuals to entities seeking to use the lists for commercial purposes. City practice is to require those who request lists of individuals to sign an affidavit stating that they do not have a commercial purpose (such as contacting those on the list to propose a commercial transaction). However, the City cannot guarantee that a requester will not, despite signing such an affidavit, contact individuals on the list for a commercial purpose.</p>
+      <p>In the event of a conflict between this Privacy Notice and the Public Records Act or other law governing the disclosure of records, the Public Records Act or other applicable law will control.</p>
       <p><a name="Review"><strong>Section E. Review and Correction of Personally Identifiable Information</strong></a></p>
-      <p>You can review any personally identifiable information we collect about you by using the information in the Contact Information section at the end of this Notice. You may recommend changes to your personally identifiable information you believe to be inaccurate by submitting a request that credibly shows the inaccuracy. We will take reasonable steps to verify your identity before granting access or making corrections.</p>
+      <p>You can review any personally identifiable information we collect about you by using the information in the Contact Information section at the end of this Notice.  You may recommend changes to your personally identifiable information you believe to be inaccurate by submitting a request that credibly shows the inaccuracy.  We will take reasonable steps to verify your identity before granting access or making corrections.</p>
       <p><a name="cookies"><strong>Section F. Use of Cookies and Applets</strong></a></p>
-     <p> "Cookies" are simple text files stored on your computer by your web browser. The City's policy is to limit the use of cookies. However, some of the applications the City builds and purchases utilize cookies to confirm the integrity of online transactions. Cookies used in this manner do not contain personally identifiable information.</p>
-<p>Applets are tools downloaded to your computer to work with the software you have. Applets are intended to enhance your browsing experience by enabling you to view information in a unique manner or enable access to information that your computer would otherwise be unable to access without the applet. The City does not currently use applets. If the decision is made to utilize applets users of the City's web site would not be required to use them.</p>
-
+      <p>"Cookies" are simple text files stored on your computer by your web browser. The City's policy is to limit the use of cookies. However, some of the applications the City builds and purchases utilize cookies to confirm the integrity of online transactions. Cookies used in this manner do not contain personally identifiable information.</p>
+      <p>Applets are tools downloaded to your computer to work with the software you have. Applets are intended to enhance your browsing experience by enabling you to view information in a unique manner or enable access to information that your computer would otherwise be unable to access without the applet. The City does not currently use applets. If the decision is made to utilize applets users of the City's web site would not be required to use them.</p>
       <p><a name="security"><strong>Section G. Security</strong></a></p>
-     
-     <p>The City has taken several steps to safeguard the integrity of its data and prevent unauthorized access to information it maintains, including but not limited to authentication, monitoring, auditing, and encryption. Security measures have been integrated into the design, implementation and day-to-day practices of the entire operating environment as part of its continuing commitment to risk management. These measures are designed and intended to prevent corruption of data, block unknown or unauthorized access to our systems and information, and to provide reasonable protection of private information in our possession.</p>
-<p>This information should not be construed in any way as giving business, legal, or other advice, or warranting as fail proof, the security of information provided via the City's web site.</p>
-<p>Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the state Computer Trespass law and federal statutes including the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act.</p>
-
-     
+      <p>The City has taken several steps to safeguard the integrity of its data and prevent unauthorized access to information it maintains, including but not limited to authentication, monitoring, auditing, and encryption. Security measures have been integrated into the design, implementation and day-to-day practices of the entire operating environment as part of its continuing commitment to risk management. These measures are designed and intended to prevent corruption of data, block unknown or unauthorized access to our systems and information, and to provide reasonable protection of private information in our possession.</p>
+      <p>This information should not be construed in any way as giving business, legal, or other advice, or warranting as fail proof, the security of information provided via the City's web site.</p>
+      <p>Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the state Computer Trespass law and federal statutes including the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act.</p>
       <p><a name="ecommerce"><strong>Section H. Electronic Commerce</strong></a></p>
-     
-    <p> Increasingly, you have the option to do business with the City over the Web including making electronic payments for goods and services. Such transactions are allowed only under tightly controlled circumstances, where there are appropriate technological and other safeguards in place to protect financial and other sensitive data.</p>
-<p>The provision of this information shall not be construed in any way as giving business, legal, or other advice, or warranting as fail-proof, the security of information provided via the City's web site.</p>
-
-     
+      <p>Increasingly, you have the option to do business with the City over the Web including making electronic payments for goods and services. Such transactions are allowed only under tightly controlled circumstances, where there are appropriate technological and other safeguards in place to protect financial and other sensitive data.</p>
+      <p>The provision of this information shall not be construed in any way as giving business, legal, or other advice, or warranting as fail-proof, the security of information provided via the City's web site.</p>
       <p><a name="fraud"><strong>Section I. Avoiding Internet Fraud</strong></a></p>
-
-	<p>Fraudulent scams called "phishing" have been increasing in frequency. "Phishing" involves a victim receiving an e-mail appearing to be from a legitimate business. The "from" line is often forged and the e-mail usually contains authentic looking graphics making it appear to be legitimate. The e-mail may also contain what appears to be a legitimate link to that organization, e.g., <a href="http://www.seattle.gov/">http://www.seattle.gov/</a>. When the victim clicks on this link, they are then taken to what appears to be a legitimate looking website. Criminals can even make your browser's address bar contain the address of the legitimate organization despite the fact that the website is a forgery. Victims are then encouraged to enter personal information including credit card numbers and expiration dates.</p>
-<p>It is the City's policy never to request confidential personal or financial information from our customers via an unsolicited e-mail. The City will also never send you an unsolicited e-mail containing a link to a City website where confidential personal or financial information is requested. If you receive such an e-mail, purportedly from the City, you are encouraged to immediately contact the City's Citizen Service Bureau at: (206) 684-CITY.</p>
-<p>For more general information about "phishing" <a href="http://www.ftc.gov/">visit the Federal Trade Commission web site</a>. For specific information about a suspected phishing attempt you may have received contact the organization represented in the suspect e-mail.</p>
-
-
+      <p>Fraudulent scams called "phishing" have been increasing in frequency. "Phishing" involves a victim receiving an e-mail appearing to be from a legitimate business. The "from" line is often forged and the e-mail usually contains authentic looking graphics making it appear to be legitimate. The e-mail may also contain what appears to be a legitimate link to that organization, e.g., <a href="http://www.seattle.gov">http://www.seattle.gov</a>. When the victim clicks on this link, they are then taken to what appears to be a legitimate looking website. Criminals can even make your browser's address bar contain the address of the legitimate organization despite the fact that the website is a forgery. Victims are then encouraged to enter personal information including credit card numbers and expiration dates.</p>
+      <p>It is the City's policy never to request confidential personal or financial information from our customers via an unsolicited e-mail. The City will also never send you an unsolicited e-mail containing a link to a City website where confidential personal or financial information is requested. If you receive such an e-mail, purportedly from the City, you are encouraged to immediately contact the City's Citizen Service Bureau at: (206) 684-CITY.</p>
+      <p>For more general information about "phishing" <a href="http://www.ftc.gov/">visit the Federal Trade Commission web site</a>. For specific information about a suspected phishing attempt you may have received contact the organization represented in the suspect e-mail.</p>
       <p><a name="disclaimer"><strong>Section J.  Disclaimer</strong></a></p>
-      
-     <p> The City's web site has many links to other web sites. These include links to web sites operated by other government agencies, nonprofit organizations and private businesses. When you link to another site, you are no longer on the City's web site and this Privacy Notice will not apply. When you link to another web site, you are subject to the privacy policy of that new site. Visitors linking to another site are encouraged to examine the privacy policy of that site.</p>
-<p>Neither the City, or any department, officer, or employee of the City warrants the accuracy, reliability or timeliness of any information published by this system, nor endorses any content, viewpoints, products, or services linked from this system, and shall not be held liable for any losses caused by reliance on the accuracy, reliability or timeliness of such information. Portions of such information may be incorrect or not current. Any person or entity that relies on any information obtained from this system does so at their own risk.</p>
-
-      
+      <p>The City's web site has many links to other web sites.  These include links to web sites operated by other government agencies, nonprofit organizations and private businesses.  When you link to another site, you are no longer on the City's web site and this Privacy Notice will not apply.  When you link to another web site, you are subject to the privacy policy of that new site. Visitors linking to another site are encouraged to examine the privacy policy of that site.</p>
+      <p>Neither the City, or any department, officer, or employee of the City warrants the accuracy, reliability or timeliness of any information published by this system, nor endorses any content, viewpoints, products, or services linked from this system, and shall not be held liable for any losses caused by reliance on the accuracy, reliability or timeliness of such information. Portions of such information may be incorrect or not current. Any person or entity that relies on any information obtained from this system does so at their own risk.</p>
       <p><a name="contact"><strong>Section K. Contact Information</strong></a></p>
-      
-     <p> The City government is made up of several departments. Each department is responsible for the applications it develops including applications that may gather personally identifying information that you volunteer.</p>
-<p>To access your personally identifiable information collected, if any, or request correction of factual errors in your personally identifiable information, contact the Department that requests the information. Contact information can be found on the department's web page and on the <a href="http://www.seattle.gov/customerservice/infoguide.htm">City's Customer Information Guide</a>.</p>
-<p>To offer comments about the information presented in this Privacy Notice, you can contact:</p>
-
-By e-mail: <a href="mailto:Michael.Hamilton@Seattle.gov">Michael.Hamilton@Seattle.gov</a>
-
-<p><em>Updated: 10/2/2012 at the Technology Board</em></p>
-
-      
+      <p>The City government is made up of several departments.  Each department is responsible for the applications it develops including applications that may gather personally identifying information that you volunteer.</p>
+      <p>To access your personally identifiable information collected, if any, or request correction of factual errors in your personally identifiable information, contact the Department that requests the information. Contact information can be found on the department's web page and on the <a href="http://www.seattle.gov/customerservice/infoguide.htm">City's Customer Information Guide</a>.</p>
+      <p>To offer comments about the information presented in this Privacy Notice, you can contact:<br>
+        <br>
+        <strong>By e-mail:</strong> <a href="mailto:Robert.Kaye@Seattle.Gov">Robert.Kaye@Seattle.Gov</a><br>
+        <strong>By telephone:</strong> (206) 684-3412 </p>
     </div>
     <div id="rightCol">
             <div id="trumbacal">
@@ -431,7 +692,7 @@ Look up your next collection day for garbage, recycling, and yard waste pick up.
   <div class="sub">
   <ul style="width:162px;">
     <li><h2><a href="#">Navigate to:</a></h2></li>
-    <li><a href="/">Seattle.gov Home</a></li>
+    <li><a href="/">Home Page</a></li>
     <li><a href="/business/">Business In Seattle</a></li>
     <li><a href="/living/">Living in Seattle</a></li>
     <li><a href="/visiting/">Visiting Seattle</a></li>
@@ -475,8 +736,8 @@ Look up your next collection day for garbage, recycling, and yard waste pick up.
 </div>
 <div id="footer2" style="margin:0px auto;background-color:#666;color:#eee;width:952px;height:30px;padding:5px;">
 <ul style="list-style:none;display:inline;width:100%">
-	<li style="list-style:none;margin:0;padding:0;padding-top:6px;padding-left:10px;float:left;">© Copyright 1995-2013 City of Seattle</li>
-	<li style="list-style:none;margin:0;padding:0;padding-top:6px;padding-right:10px;float:right;"><a href="mailto:city.web@seattle.gov" style="color:#e1e1e1;text-decoration:none">Contact Web Team</a> | <a style="color:#e1e1e1;text-decoration:none" href="/pan/privacypol.htm">Privacy and Security Policy</a></li>
+	<li style="list-style:none;margin:0;padding:0;padding-top:6px;padding-left:10px;float:left;">© Copyright 1995-2012 City of Seattle</li>
+	<li style="list-style:none;margin:0;padding:0;padding-top:6px;padding-right:10px;float:right;"><a href="mailto:city.web@seattle.gov" style="color:#e1e1e1;text-decoration:none">Contact the Web Team</a> | <a style="color:#e1e1e1;text-decoration:none" href="/pan/privacypol.htm">Privacy and Security Policy</a></li>
 </ul>	
 </div>
 <script type="text/javascript" src="http://dnn506yrbagrg.cloudfront.net/pages/scripts/0010/8436.js"> </script>
