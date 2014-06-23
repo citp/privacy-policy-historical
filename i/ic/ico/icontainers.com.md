@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the icontainers.com privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123074617id_/http%3A//www.icontainers.com/us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icontainers.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623170524id_/http%3A//www.icontainers.com/us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | iContainers
+# Privacy Policy | iContainers US
 
 _Last update: April 2012_
 
 iContainers USA Inc. has created this website to allow SME’s and indivuduals to quote and book online seafreight and arifreight services with origin or destination to the United States in FOB or CIF conditions depending on what customer needs.
 
-The following discloses our information gathering and dissemination practices for the icontainers.com website.
+The following discloses our Privacy Policy information gathering and dissemination practices for the icontainers.com website.
 
 **By visiting, quoting and booking through[www.icontainers.com](http://www.icontainers.com/) you agree to these conditions. Please read them carefully.**
 
