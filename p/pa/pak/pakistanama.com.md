@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pakistanama.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223054333id_/http%3A//www.pakistanama.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pakistanama.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624012659id_/http%3A//www.pakistanama.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Pakistan Nama
 
