@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animeram.eu privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214031613id_/http%3A//www.animeram.eu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animeram.eu privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623030524id_/http%3A//www.animeram.eu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Watch Anime Episodes Online Streaming Subbed & Dubbed
 
