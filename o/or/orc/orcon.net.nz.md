@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the orcon.net.nz privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817104630id_/http%3A//www.orcon.net.nz/about/page/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orcon.net.nz privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623125345id_/http%3A//www.orcon.net.nz/about/page/Privacy) for the most accurate reproduction.*
 
 # Privacy policy
+
+[ ](http://awesome.orcon.net.nz/)
 
   1. During the provision of services to you, you agree that Orcon may collect information about you. This may be obtained from you or may be generated from your use of the Orcon services. You may decide not to provide us with certain personal information but this may mean that we cannot provide the services to you. Orcon will deal with all your information in accordance with the Privacy Act 1993.
   2. We may monitor or record calls to customer services for training purposes, to improve service quality and to aid in dispute resolution.
