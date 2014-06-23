@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the waters.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626123201id_/https%3A//www.waters.com/waters/nav.htm%3Fcid%3D1000241) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waters.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623153309id_/http%3A//www.waters.com/waters/en_US/Global-Privacy-Policy/nav.htm%3Flocale%3Den_US%26cid%3D1000241) for the most accurate reproduction.*
 
-# Waters: Privacy Policy
-
-Global Privacy Policy
+# Global Privacy Policy : Waters
 
 Waters Corporation and its subsidiaries ("we" or "us") are committed to protecting and respecting your privacy.
 
