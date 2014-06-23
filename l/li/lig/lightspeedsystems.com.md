@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lightspeedsystems.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204200547id_/http%3A//www.lightspeedsystems.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightspeedsystems.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624003302id_/http%3A//www.lightspeedsystems.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Lightspeed Systems
 
@@ -91,3 +91,5 @@ In the event that you are concerned about how data you have provided Lightspeed 
 [We self-certify compliance with:](https://safeharbor.export.gov/list.aspx)
 
 [](http://www.export.gov/safeharbor)
+
+_Updated 6 November 2013_
