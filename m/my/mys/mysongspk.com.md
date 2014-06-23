@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mysongspk.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621100448id_/http%3A//www.songspk.info/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysongspk.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623172533id_/http%3A//www.mysongspk.com/privacypolicy.html) for the most accurate reproduction.*
 
-# SongsPk.info >> Our Privacy Policy
+# MySongsPk.Com - Our Privacy Policy
 
 |  |   | 
 
