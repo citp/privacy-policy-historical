@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotelopia.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206075052id_/http%3A//www.hotelopia.com/info/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelopia.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624012712id_/http%3A//www.hotelopia.com/info/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Hotelopia Privacy Policy
 
@@ -135,43 +135,13 @@ You hereby acknowledge and agree that the sole disclosure of or access to the in
 
 Back to top
 
-## 4\. COOKIES
-
-Access to the website may involve the use of cookies, although the website can run without the use of cookies. Cookies are small files of information stored by your browser on your computer’s hard drive so that the server can recognize certain information that only the server can read. Cookies last for a limited time. No cookies can permit any telephone, email or other identification details to be revealed. Cookies cannot extract any information from the user's hard drive or steal personal information. The only way that a user's private information can form part of a cookie file is if the user personally gives this information to the server. 
-
-Although cookies help us to optimise your booking process, users who do not wish to receive cookies or wish to be informed of their presence can configure their browser to that effect. All Internet browsers have available settings that allow you to block or allow cookies from specific websites. 
-
-Our Cookies  
----  
-Category / Type | Name of the cookie | Purpose  
-Basic functionality of the page (Session). | ASP.NET_SessionId | Store your active session so that the next time you visit Hotelopia you can continue to make your booking.  
-Basic functionality of the page (Session). | AlteonP | This Cookie helps us to distribute the pages that we display from our servers in an efficient manner.  
-Basic functionality of the page (Session). | WLCodWeb | It determines the name of the white-label product used when working under the whitelabels subdomain.  
-Basic functionality of the page (Session). | idCurrency | It stores the user's preferred currency.  
-Basic functionality of the page (Session). | idLanguage | It stores the user's preferred language.  
-Basic functionality of the page (Short term, 30 days). | partnerId | It is used to identify the website that brought you to Hotelopia, in the case that you used a link.  
-Basic functionality of the page (Long term > 2 years). | nlFlash | It is used to store your login in the newsletter. Once you've signed up for our newsletter, for your convenience, you will not be shown this information automatically.   
-Third party Cookies  
-Category / Type | Third party website | Purpose / additional information  
-Analysis of website. | Google | Are used to monitor the traffic of Hotelopia. This helps us to understand how visitors use the site, it helps us to identify potential problems and to make Hotelopia as easy to use as possible.   
-Management of bookmarks and links. | AddThis | Are part of a tool that lets you share links on different social networks and popular websites on the internet.  
-Third-party relations management tool | Tealium | Are part of the functionality of a tool we use to manage relationships with third parties.  
-Third party cookies for marketing purposes  
-Category / Type | Third party website | Purpose / Additional information  
-Marketing - Retargeting. | TradeDoubler, Zanox, Commission Junction... | After you've visited Hotelopia website, they allow for us to show you publicity banners with the best deals at the locations where you've previously been looking.   
-Marketing - Retargeting. | Affilinet, Trivago, Buy-At, Commission Junction, Zanox, TradeDoubler, Kayak, CheetahMail, NetFilia, HotelsCombined, Bettenjagd.de, Affiliate Future, Google Adwords...  | Allow us to monitor the effectiveness of our advertising campaigns. We always try to show relevant and recent messages. With these cookies we also measure out this publicity, always showing you a small volume of advertisements on the web.   
-  
-Some of our webpages and emails in HTML format can use web beacons and/or cookies for statistical purposes regarding the use of Hotelopia. A web beacon is an image placed in the message to inform Hotelopia of the message being displayed, with the sole purpose of calculating statistics of its use. 
-
-Back to top
-
-## 5\. NEWSLETTER
+## 4\. NEWSLETTER
 
 Hotelopia does not automatically subscribe users to our newsletter. You can select to receive our newsletter. If you subscribe, you will receive news and hotel offers by email. You can unsubscribe from this service at any time by accessing the Newsletter section. 
 
 Back to top
 
-## 6\. LINKS TO OTHER WEBSITES
+## 5\. LINKS TO OTHER WEBSITES
 
 The website may contain links to the websites of third parties, which will be for information purposes only. Such websites are not dependent on Hotelopia and/or Liberate, who accept no responsibility for them or for the material they contain. 
 
@@ -183,7 +153,7 @@ It is recommended that you run an anti-virus check on all material and content d
 
 Back to top
 
-## 7\. INFORMATION DISPLAYED ON THE WEBSITE
+## 6\. INFORMATION DISPLAYED ON THE WEBSITE
 
 The information on accommodation and other services provided by Hotelopia and/or Liberate is as true as possible considering that data comes from the service providers. Hotelopia and/or Liberate shall not be liable for any lack of correspondence of the information given with the actual service provided by the provider. 
 
