@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americasbest.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211083419id_/http%3A//www.americasbest.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americasbest.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623132635id_/http%3A//www.americasbest.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy: America’s Best Contacts & Eyeglasses
 
@@ -109,6 +109,10 @@ If you ever need to update or delete any information on file with America's Best
 We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 If you have additional questions about the privacy of your information, please contact America's Best Contacts at [service@americasbest.com](mailto:service@americasbest.com) or call us at **1-800-999-4758**.
+
+## California Do Not Track Notice
+
+America's Best does not track its customers over time and across third party websites to provide targeted advertising and therefore does not respond to Do Not Track (DNT) signals. Third parties that have content embedded on the America's Best website (such as social networking features) may set cookies on a user's browser and/or obtain information about the fact that a web browser visited the America's Best website from a certain IP address. These third parties cannot collect any other personally identifiable information from our website unless you provide it to them directly.
 
 ## Mailing Address
 
