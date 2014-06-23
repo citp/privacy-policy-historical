@@ -1,16 +1,15 @@
-<!--The following is the downloaded HTML source of the wallstreetoasis.com privacy policy that was archived on 2013-12-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131210000441id_/http%3A//www.wallstreetoasis.com/page/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wallstreetoasis.com privacy policy that was archived on 2014-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140623061914id_/http%3A//www.wallstreetoasis.com/page/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns:fb="http://ogp.me/ns/fb#"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Vw8DVFRVGwEIV1NVDwA="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="description" content="This site is owned and operated by IB Oasis Corp. (" company").="" your="" privacy="" on="" the="" internet="" is="" of="" utmost="" importance="" to="" us.="" at="" wallstreetoasis.com,="" we="" want="" make="" experience="" online="" satisfying="" and="" safe.="" because="" gather="" certain="" types="" information="" about="" our="" users,="" feel="" you="" should="" fully="" understand="" policy="" terms="" conditions"=""><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=154277168075701"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script><link rel="shortcut icon" href="/files/favicon.ico" type="image/x-icon">  
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="description" content="This site is owned and operated by IB Oasis Corp. (" company").="" your="" privacy="" on="" the="" internet="" is="" of="" utmost="" importance="" to="" us.="" at="" wallstreetoasis.com,="" we="" want="" make="" experience="" online="" satisfying="" and="" safe.="" because="" gather="" certain="" types="" information="" about="" our="" users,="" feel="" you="" should="" fully="" understand="" policy="" terms="" conditions"=""><link rel="shortcut icon" href="/files/favicon.ico" type="image/x-icon">  
   <title>Privacy Policy | Wall Street Oasis</title>
-  
-  <link type="text/css" rel="stylesheet" media="all" href="http://www.wallstreetoasis.com/files/css/css_525dbce485d8b3a947443a6301f8aea8.css">
-<link type="text/css" rel="stylesheet" media="screen and (min-width: 768px)" href="http://www.wallstreetoasis.com/files/css/css_a5e6e6fa811259c90e13d1aa68449d2b.css">
-<link type="text/css" rel="stylesheet" media="screen and (max-width : 767px)" href="http://www.wallstreetoasis.com/files/css/css_2ce6b7c9396cddaaee728cbdc6d46e5e.css">
-<link type="text/css" rel="stylesheet" media="screen and (-webkit-min-device-pixel-ratio : 1.5) and (min-device-pixel-ratio : 1.5) and (max-width: 600px)" href="http://www.wallstreetoasis.com/files/css/css_137bd1486a363b2a116e46920e89ced5.css">
+  <link type="text/css" rel="stylesheet" media="all" href="http://www.wallstreetoasis.com/files/css/css_2fddeb77e42142de6ac03d33e4197f30.css">
+<link type="text/css" rel="stylesheet" media="screen and (min-width: 768px)" href="http://www.wallstreetoasis.com/files/css/css_c62d6f83b2620b8fca29685c804ccd2d.css">
+<link type="text/css" rel="stylesheet" media="screen and (max-width : 767px)" href="http://www.wallstreetoasis.com/files/css/css_f4a26db2d852844161cc8afbaeb56ad6.css">
+<link type="text/css" rel="stylesheet" media="screen and (-webkit-min-device-pixel-ratio : 1.5) and (min-device-pixel-ratio : 1.5) and (max-width: 600px)" href="http://www.wallstreetoasis.com/files/css/css_4a2b4d4a1831ff4cf546be0e46d5b0b9.css">
 <!--[if lt IE 9]>
 <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/wso/css/wso.css?D" />
 <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/wso/css/newbanner.css?D" />
@@ -24,56 +23,18 @@
 
   <link href="http://fonts.googleapis.com/css?family=Lato:400,700,900" rel="stylesheet" type="text/css">
 
-  <script type="text/javascript" src="/sites/all/modules/contrib/jquery_update/replace/jquery/1.3/jquery.min.js?b"></script>
-<script type="text/javascript" src="/misc/drupal.js?b"></script>
-<script type="text/javascript" src="/sites/all/libraries/jquery/jquery-1.10.2.min.js?b"></script>
-<script type="text/javascript" src="/sites/all/libraries/newsticker/newsticker.jquery.min.js?b"></script>
-<script type="text/javascript" src="/sites/all/modules/contrib/jqmulti/js/switch.js?b"></script>
-<script type="text/javascript" src="/sites/all/modules/contrib/fivestar/js/fivestar.js?b"></script>
-<script type="text/javascript" src="/sites/all/modules/contrib/google_analytics/googleanalytics.js?b"></script>
-<script type="text/javascript" src="/sites/all/modules/contrib/nice_menus/js/superfish.js?b"></script>
-<script type="text/javascript" src="/sites/all/modules/contrib/nice_menus/js/jquery.bgiframe.min.js?b"></script>
-<script type="text/javascript" src="/sites/all/modules/contrib/nice_menus/js/jquery.hoverIntent.minified.js?b"></script>
-<script type="text/javascript" src="/sites/all/modules/contrib/nice_menus/js/nice_menus.js?b"></script>
-<script type="text/javascript" src="/sites/all/modules/contrib/qtip/library/jquery.qtip-1.0.0-rc3.min.js?b"></script>
-<script type="text/javascript" src="/sites/all/modules/contrib/qtip/js/qtip.js?b"></script>
-<script type="text/javascript" src="/sites/all/modules/contrib/quote/quote.js?b"></script>
-<script type="text/javascript" src="/sites/all/modules/contrib/swftools/swftools.js?b"></script>
-<script type="text/javascript" src="/sites/all/modules/contrib/extlink/extlink.js?b"></script>
-<script type="text/javascript" src="/sites/all/themes/genesis/genesis/js/aria-roles.js?b"></script>
-<script type="text/javascript" src="/sites/all/themes/genesis/genesis/js/jquery.equalizeheights.minified.js?b"></script>
-<script type="text/javascript" src="/sites/all/themes/wso/js/script.js?b"></script>
-<script type="text/javascript" src="/sites/all/themes/wso/js/jquery.ui/jquery-ui.js?b"></script>
-<script type="text/javascript" src="/sites/all/themes/wso/js/jquery.cookie/jquery.cookie.js?b"></script>
-<script type="text/javascript" src="/sites/all/themes/wso/js/quote.js?b"></script>
-<script type="text/javascript" src="/sites/all/themes/wso/js/reply.js?b"></script>
-<script type="text/javascript" src="/sites/all/themes/wso/js/share-items.js?b"></script>
-<script type="text/javascript" src="/sites/all/themes/wso/js/internal-anchor.js?b"></script>
-<script type="text/javascript" src="/sites/all/themes/wso/js/comment-reply-original.js?b"></script>
-<script type="text/javascript" src="/sites/all/themes/wso/js/comment-replies.js?b"></script>
-<script type="text/javascript" src="/sites/all/themes/wso/js/menu-search.js?b"></script>
-<script type="text/javascript" src="/sites/all/themes/wso/js/fixed-menu.js?b"></script>
-<script type="text/javascript" src="/sites/all/themes/wso/js/profilepreview.js?b"></script>
-<script type="text/javascript" src="/sites/all/themes/wso/js/highlight-submit.js?b"></script>
-<script type="text/javascript" src="/sites/all/themes/wso/js/comment-notify.js?b"></script>
+  <script type="text/javascript" src="/sites/all/themes/wso/js/mobile_check.js"></script>
+  <script type="text/javascript" src="http://www.wallstreetoasis.com/files/js/js_ba08357ae900a5bd4bfcdd09e7167875.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","fivestar":{"titleUser":"Your rating: ","titleAverage":"Average: ","feedbackSavingVote":"Saving your vote...","feedbackVoteSaved":"Your vote has been saved.","feedbackDeletingVote":"Deleting your vote...","feedbackVoteDeleted":"Your vote has been deleted."},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"nice_menus_options":{"delay":800,"speed":1,"hover_intent":1},"qtip":{"target_position":"topMiddle","tooltip_position":"bottomMiddle","show_speech_bubble_tip":1,"show_speech_bubble_tip_side":0,"color":"blue","border_radius":"3","border_width":"3","show_event_type":"mouseover","hide_event_type":"mouseout","show_solo":1},"quote_nest":"5","extlink":{"extTarget":"_blank","extClass":0,"extSubdomains":1,"extExclude":"(e-junkie\\.com)","extInclude":"","extAlert":0,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":0}});
+jQuery.extend(Drupal.settings, {"basePath":"\/","fivestar":{"titleUser":"Your rating: ","titleAverage":"Average: ","feedbackSavingVote":"Saving your vote...","feedbackVoteSaved":"Your vote has been saved.","feedbackDeletingVote":"Deleting your vote...","feedbackVoteDeleted":"Your vote has been deleted."},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"quote_nest":"5"});
 //--><!]]>
 </script>
-
-  <!-- Google Plus -->
-  <script type="text/javascript">
-  (function() {
-	var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-		po.src = 'https://apis.google.com/js/plusone.js';
-		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-	})();
-  </script>
-  
-  <!-- Crisp tags -->
-  <script type="text/javascript" src="http://ads.crisppremium.com/partners/wall_street_oasis/wall_street_oasis_updated.js?%param%&amp;c=%click%&amp;v=%view%"></script> 
-
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery(document).ready(function($) { $('.sharebar').sharebar({horizontal:'FALSE',swidth:'75',minwidth:1000,position:'left',leftOffset:10,rightOffset:10}); });
+//--><!]]>
+</script>
   
   <!-- Mobile detect -->
   <script type="text/javascript">
@@ -102,58 +63,64 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","fivestar":{"titleUser":"Your ra
   <script language="JavaScript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
 
   <script language="JavaScript" type="text/javascript">
-    GS_googleAddAdSenseService("ca-pub-3778324252021022");
-    GS_googleEnableAllServices();
+    if (typeof GS_googleAddAdSenseService == 'function' && typeof GS_googleEnableAllServices == 'function') {
+      GS_googleAddAdSenseService("ca-pub-3778324252021022");
+      GS_googleEnableAllServices();
+    }
   </script>
   
   <script language="JavaScript">
-    GA_googleAddSlot("ca-pub-3778324252021022", "160x600");
-    GA_googleAddSlot("ca-pub-3778324252021022", "300x250");
-    GA_googleAddSlot("ca-pub-3778324252021022", "728x90");
-    GA_googleAddSlot("ca-pub-3778324252021022", "Home_Page_Sponsor_Spot_1");
-    GA_googleAddSlot("ca-pub-3778324252021022", "Home_Page_Sponsor_Spot_2");
-    GA_googleAddSlot("ca-pub-3778324252021022", "Home_Page_Sponsor_Spot_3");
-    GA_googleAddSlot("ca-pub-3778324252021022", "Main_Forum_Page_Sponsor_Spot_1");
-    GA_googleAddSlot("ca-pub-3778324252021022", "Main_Forum_Page_Sponsor_Spot_2");
-    GA_googleAddSlot("ca-pub-3778324252021022", "Main_Forum_Page_Sponsor_Spot_3");
-    GA_googleAddSlot("ca-pub-3778324252021022", "FeatEmpl_Spot_1");
-    GA_googleAddSlot("ca-pub-3778324252021022", "FeatEmpl_Spot_2");
-    GA_googleAddSlot("ca-pub-3778324252021022", "FeatEmpl_Spot_3");
-    GA_googleAddSlot("ca-pub-3778324252021022", "FeatEmpl_Spot_4");
-    GA_googleAddSlot("ca-pub-3778324252021022", "FeatEmpl_Spot_5");
-    GA_googleAddSlot("ca-pub-3778324252021022", "FeatEmpl_Spot_6");
-    GA_googleAddSlot("ca-pub-3778324252021022", "FeatEmpl_Spot_7");
-    GA_googleAddSlot("ca-pub-3778324252021022", "FeatEmpl_Spot_8");
-    GA_googleAddSlot("ca-pub-3778324252021022", "FeatEmpl_Spot_9");
-    GA_googleAddSlot("ca-pub-3778324252021022", "FeatEmpl_Spot_10");
-    GA_googleAddSlot("ca-pub-3778324252021022", "IBSpon");
-    GA_googleAddSlot("ca-pub-3778324252021022", "TTSpon");
-    GA_googleAddSlot("ca-pub-3778324252021022", "PISpon");
-    GA_googleAddSlot("ca-pub-3778324252021022", "HFSpon");
-    GA_googleAddSlot("ca-pub-3778324252021022", "CCSpon");
-    GA_googleAddSlot("ca-pub-3778324252021022", "ERRSpon");
-    GA_googleAddSlot("ca-pub-3778324252021022", "VVSpon");
-    GA_googleAddSlot("ca-pub-3778324252021022", "AMPSpon");
-    GA_googleAddSlot("ca-pub-3778324252021022", "TORSpon");
-    GA_googleAddSlot("ca-pub-3778324252021022", "GaJSpon");
-    GA_googleAddSlot("ca-pub-3778324252021022", "BSBSpon");
-    GA_googleAddSlot("ca-pub-3778324252021022", "PRRSSpon");
-    GA_googleAddSlot("ca-pub-3778324252021022", "BAaFASpon");
-    GA_googleAddSlot("ca-pub-3778324252021022", "WSMSpon");
-    GA_googleAddSlot("ca-pub-3778324252021022", "WSSSpon");
-    GA_googleAddSlot("ca-pub-3778324252021022", "MMSpon");
-    GA_googleAddSlot("ca-pub-3778324252021022", "SSSpon");
-    GA_googleAddSlot("ca-pub-3778324252021022", "160x600Below_Fold");
-    GA_googleAddSlot("ca-pub-3778324252021022", "CorpFinSpon");
-    GA_googleAddSlot("ca-pub-3778324252021022", "RealEstateSpon");
-    GA_googleAddSlot("ca-pub-3778324252021022", "468Blogs");
-    GA_googleAddSlot("ca-pub-3778324252021022", "468Events");
-    GA_googleAddSlot("ca-pub-3778324252021022", "300x250MiddlePageRightColumn");
+    if (typeof GA_googleAddSlot == 'function') { 
+      GA_googleAddSlot("ca-pub-3778324252021022", "160x600");
+      GA_googleAddSlot("ca-pub-3778324252021022", "300x250");
+      GA_googleAddSlot("ca-pub-3778324252021022", "728x90");
+      GA_googleAddSlot("ca-pub-3778324252021022", "Home_Page_Sponsor_Spot_1");
+      GA_googleAddSlot("ca-pub-3778324252021022", "Home_Page_Sponsor_Spot_2");
+      GA_googleAddSlot("ca-pub-3778324252021022", "Home_Page_Sponsor_Spot_3");
+      GA_googleAddSlot("ca-pub-3778324252021022", "Main_Forum_Page_Sponsor_Spot_1");
+      GA_googleAddSlot("ca-pub-3778324252021022", "Main_Forum_Page_Sponsor_Spot_2");
+      GA_googleAddSlot("ca-pub-3778324252021022", "Main_Forum_Page_Sponsor_Spot_3");
+      GA_googleAddSlot("ca-pub-3778324252021022", "FeatEmpl_Spot_1");
+      GA_googleAddSlot("ca-pub-3778324252021022", "FeatEmpl_Spot_2");
+      GA_googleAddSlot("ca-pub-3778324252021022", "FeatEmpl_Spot_3");
+      GA_googleAddSlot("ca-pub-3778324252021022", "FeatEmpl_Spot_4");
+      GA_googleAddSlot("ca-pub-3778324252021022", "FeatEmpl_Spot_5");
+      GA_googleAddSlot("ca-pub-3778324252021022", "FeatEmpl_Spot_6");
+      GA_googleAddSlot("ca-pub-3778324252021022", "FeatEmpl_Spot_7");
+      GA_googleAddSlot("ca-pub-3778324252021022", "FeatEmpl_Spot_8");
+      GA_googleAddSlot("ca-pub-3778324252021022", "FeatEmpl_Spot_9");
+      GA_googleAddSlot("ca-pub-3778324252021022", "FeatEmpl_Spot_10");
+      GA_googleAddSlot("ca-pub-3778324252021022", "IBSpon");
+      GA_googleAddSlot("ca-pub-3778324252021022", "TTSpon");
+      GA_googleAddSlot("ca-pub-3778324252021022", "PISpon");
+      GA_googleAddSlot("ca-pub-3778324252021022", "HFSpon");
+      GA_googleAddSlot("ca-pub-3778324252021022", "CCSpon");
+      GA_googleAddSlot("ca-pub-3778324252021022", "ERRSpon");
+      GA_googleAddSlot("ca-pub-3778324252021022", "VVSpon");
+      GA_googleAddSlot("ca-pub-3778324252021022", "AMPSpon");
+      GA_googleAddSlot("ca-pub-3778324252021022", "TORSpon");
+      GA_googleAddSlot("ca-pub-3778324252021022", "GaJSpon");
+      GA_googleAddSlot("ca-pub-3778324252021022", "BSBSpon");
+      GA_googleAddSlot("ca-pub-3778324252021022", "PRRSSpon");
+      GA_googleAddSlot("ca-pub-3778324252021022", "BAaFASpon");
+      GA_googleAddSlot("ca-pub-3778324252021022", "WSMSpon");
+      GA_googleAddSlot("ca-pub-3778324252021022", "WSSSpon");
+      GA_googleAddSlot("ca-pub-3778324252021022", "MMSpon");
+      GA_googleAddSlot("ca-pub-3778324252021022", "SSSpon");
+      GA_googleAddSlot("ca-pub-3778324252021022", "160x600Below_Fold");
+      GA_googleAddSlot("ca-pub-3778324252021022", "CorpFinSpon");
+      GA_googleAddSlot("ca-pub-3778324252021022", "RealEstateSpon");
+      GA_googleAddSlot("ca-pub-3778324252021022", "468Blogs");
+      GA_googleAddSlot("ca-pub-3778324252021022", "468Events");
+      GA_googleAddSlot("ca-pub-3778324252021022", "300x250MiddlePageRightColumn");
+    }
   </script>
 
   
   <script language="JavaScript">
-    GA_googleFetchAds();
+    if (typeof GA_googleFetchAds == 'function') {
+      GA_googleFetchAds();
+    }
   </script>
 
   <!-- Retargeting codes -->
@@ -162,87 +129,104 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","fivestar":{"titleUser":"Your ra
     
   <!-- New 300x600 ad -->
   <script type="text/javascript">
-	var googletag = googletag || {};
-	googletag.cmd = googletag.cmd || [];
 	(function() {
-	var gads = document.createElement('script');
-	gads.async = true;
-	gads.type = 'text/javascript';
 	var useSSL = 'https:' == document.location.protocol;
-	gads.src = (useSSL ? 'https:' : 'http:') + 
+	var src = (useSSL ? 'https:' : 'http:') +
 	'//www.googletagservices.com/tag/js/gpt.js';
-	var node = document.getElementsByTagName('script')[0];
-	node.parentNode.insertBefore(gads, node);
+	document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
 	})();
-	</script>
+	</script><script src="https://www.googletagservices.com/tag/js/gpt.js"></script>
 	
 	<script type="text/javascript">
-	googletag.cmd.push(function() {
-	googletag.defineSlot('/1959183/300x600', [300, 600], 'div-gpt-ad-1384298885030-0').addService(googletag.pubads());
-	googletag.defineSlot('/1959183/160x600', [160, 600], 'div-gpt-ad-1385564832080-0').addService(googletag.pubads());
-
-	//googletag.defineSlot('/1959183/500x55Text', [500, 55], 'div-gpt-ad-1386100727667-0').addService(googletag.pubads());
-	
-	googletag.defineSlot('/1959183/300x250', [300, 250], 'div-gpt-ad-1386166191585-0').addService(googletag.pubads());	googletag.defineSlot('/1959183/160x600', [160, 600], 'div-gpt-ad-1385725232855-0').addService(googletag.pubads())	googletag.pubads().enableSingleRequest();
-	googletag.enableServices();
-	});
+		if(typeof googletag != "undefined") {
+			googletag.defineSlot('/1959183/300x600UpperMiddleRightColumn', [300, 600], 'div-gpt-ad-1394144853188-0').addService(googletag.pubads());
+			googletag.defineSlot('/1959183/300x600', [300, 600], 'div-gpt-ad-1384298885030-0').addService(googletag.pubads());
+			googletag.defineSlot('/1959183/160x600', [160, 600], 'div-gpt-ad-1385564832080-0').addService(googletag.pubads());
+			googletag.defineSlot('/1959183/500x55Text', [500, 55], 'div-gpt-ad-1386796193919-0').addService(googletag.pubads());
+			googletag.defineSlot('/1959183/640x400_Big_Banner', [640, 400], 'div-gpt-ad-1401116408864-0').addService(googletag.pubads());
+			
+			googletag.defineSlot('/1959183/300x250', [[300, 250], [300, 600], [300, 1050]], 'div-gpt-ad-1398709258406-0').addService(googletag.pubads());			
+			googletag.defineSlot('/1959183/160x600', [160, 600], 'div-gpt-ad-1385725232855-0').addService(googletag.pubads());			
+			googletag.pubads().enableSyncRendering();
+			googletag.enableServices();
+		}
 	</script>
   <!-- END OF New 300x600 ad -->
 
   <!-- Google Mobile Ads -->
   <script type="text/javascript">
-  if (navigator.userAgent.match(/(iPhone|iPod|Android)/) && navigator.userAgent.match(/(iPhone|iPod|Android)/) != null) { 
-  	(function() {
-		  var useSSL = 'https:' == document.location.protocol;
-		  var src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt_mobile.js';
-	    document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+  if (isMobileDevice()) { 
+    (function() {
+	  var useSSL = 'https:' == document.location.protocol;
+	  var src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt_mobile.js';
+          document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
     })();
 
-    googletag.cmd.push(function() {
-	    googletag.defineSlot('/1959183/Mobile320x50', [320, 50], 'div-gpt-ad-1366309444541-0').addService(googletag.pubads());
-	    
-	    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1366309444541-0')});
-	    
-	    //googletag.enableServices();
-    });
+    if(typeof googletag != "undefined") {
+      googletag.cmd.push(function() {
+        googletag.defineSlot('/1959183/Mobile320x50', [320, 50], 'div-gpt-ad-1366309444541-0').addService(googletag.pubads()); 
+        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1366309444541-0')});	    
+      });
+    }
   }
   </script>
 
-  <link href="/sites/all/libraries/newsticker/newsticker_skins/corporate_blue.css" rel="stylesheet" type="text/css">
-
+	
 </head>
 
 <body id="genesis" class="section-page">
 <script>
-  (function(d, s, id) {
+  /*(function(d, s, id) {
     var js, fjs = d.getElementsByTagName(s)[0];
     if (d.getElementById(id)) return;
     js = d.createElement(s); js.id = id;
     js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=154277168075701";
     fjs.parentNode.insertBefore(js, fjs);
-  }(document, 'script', 'facebook-jssdk'));
+  }(document, 'script', 'facebook-jssdk'));*/
 
 </script>
 
       <div id="mobile-logo">
     
-                                          
-<div id="block-block-79" class="block block-block">
+                                              
+<div id="block-block-121" class="block block-block">
 
   
-  <p><a href="/" rel="nofollow"><img src="http://www.wallstreetoasis.com/sites/all/themes/wso/images/wso_logo.png" alt="Wall Street Oasis logo" style="margin-top:8px;margin-left:6px;margin-bottom:0px;"></a></p>
+  <p><a href="/" rel="nofollow"><img src="/sites/all/themes/wso/images/wso_logo_mobile.png" alt="Wall Street Oasis logo" style="margin-top:8px;margin-left:6px;margin-bottom:0px;"></a></p>
+
+  
+</div> <!-- /block -->
+
+                                              
+<div id="block-block-122" class="block block-block">
+
+  
+  <p><a href="/user" rel="nofollow">Groups</a> </p>
 
   
 </div> <!-- /block -->
     </div>
   
-    <div id="menu" class="not-front not-logged-in node-type-page one-sidebar sidebar-right page-node-150603">
+    <div class="menu-wrapper">
+   <div id="menu" class="not-front not-logged-in node-type-page one-sidebar sidebar-right page-node-150603">
       
-                                          
+                                              
 <div id="block-nice_menus-2" class="block block-nice_menus">
 
   
-  <ul class="nice-menu nice-menu-down nice-menu-menu-new-menu" id="nice-menu-2"><li class="menu-30707 menu-path-front first  odd "><a href="/"><div class="wso_icons icon_home_white">&nbsp;&nbsp;</div></a></li>
+  <ul class="nice-menu nice-menu-down nice-menu-menu-new-menu" id="nice-menu-2"><li class="menu-30707 menuparent menu-path-front first  odd "><a href="/"><div class="wso_icons icon_home_white">&nbsp;&nbsp;</div></a><ul><li class="menu-38822 menu-path-wallstreetoasiscom- first  odd "><a href="http://www.wallstreetoasis.com/">WSO Home Page</a></li>
+<li class="menu-38823 menu-path-wallstreetoasiscom-financial-modeling-training even "><a href="http://www.wallstreetoasis.com/financial-modeling-training">Financial Modeling Training</a></li>
+<li class="menu-38825 menu-path-wallstreetoasiscom-guide-investment-banking-prep-pack odd "><a href="http://www.wallstreetoasis.com/guide/investment-banking-prep-pack">Investment Banking Interviews</a></li>
+<li class="menu-38824 menu-path-wallstreetoasiscom-forums-wso-investment-banking-resume-template even "><a href="http://www.wallstreetoasis.com/forums/wso-investment-banking-resume-template">Investment Banking Resume</a></li>
+<li class="menu-42096 menu-path-wallstreetoasiscom-tag-private-equity-resume odd "><a href="http://www.wallstreetoasis.com/tag/private-equity-resume">Private Equity Resume</a></li>
+<li class="menu-42166 menu-path-wallstreetoasiscom-forums-hedge-fund-resume-template even "><a href="http://www.wallstreetoasis.com/forums/hedge-fund-resume-template">Hedge Fund Resume</a></li>
+<li class="menu-38827 menu-path-wallstreetoasiscom-wall-street-videos odd "><a href="http://www.wallstreetoasis.com/wall-street-videos">WSO Video Library</a></li>
+<li class="menu-38828 menu-path-wallstreetoasiscom-finance-jobs even "><a href="http://www.wallstreetoasis.com/finance-jobs">Finance Job Openings</a></li>
+<li class="menu-38826 menu-path-wallstreetoasiscom-wso-company-database odd "><a href="http://www.wallstreetoasis.com/wso-company-database">Wall St Company Research</a></li>
+<li class="menu-43036 menu-path-wallstreetoasiscom-gmat-pill-promo-code-333-off-gmat-prep-discount even "><a href="http://www.wallstreetoasis.com/gmat-pill-promo-code-333-off-gmat-prep-discount">GMAT Pill Promo Code</a></li>
+<li class="menu-43015 menu-path-wallstreetoasiscom-guide-the-wso-private-equity-interview-prep-package odd  last "><a href="http://www.wallstreetoasis.com/guide/the-wso-private-equity-interview-prep-package">Private Equity Interviews</a></li>
+</ul>
+</li>
 <li class="menu-14723 menuparent menu-path-wallstreetoasiscom-tracker even "><a href="http://www.wallstreetoasis.com/tracker" title="Recent Posts">Recent</a><ul><li class="menu-14724 menu-path-wallstreetoasiscom-tracker first  odd "><a href="http://www.wallstreetoasis.com/tracker">All Recent Content</a></li>
 <li class="menu-24682 menu-path-wallstreetoasiscom-tracker-my-feed even "><a href="http://www.wallstreetoasis.com/tracker/my-feed">My Feed</a></li>
 <li class="menu-22429 menu-path-wallstreetoasiscom-tracker-user odd "><a href="http://www.wallstreetoasis.com/tracker/user">My Recent Posts</a></li>
@@ -272,7 +256,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","fivestar":{"titleUser":"Your ra
 </li>
 <li class="menu-14726 menuparent menu-path-wallstreetoasiscom-forum even "><a href="http://www.wallstreetoasis.com/forum" title="WallStreetOasis.com Forums">Forums</a><ul><li class="menu-14746 menu-path-wallstreetoasiscom-node-add-forum-0 first  odd "><a href="http://www.wallstreetoasis.com/node/add/forum/0">Post Forum Topic</a></li>
 <li class="menu-14911 menu-path-wallstreetoasiscom-node-add-blog even "><a href="http://www.wallstreetoasis.com/node/add/blog">Create Blog Entry</a></li>
-<li class="menu-30636 menu-path-wallstreetoasiscom-node-162042 odd "><a href="http://www.wallstreetoasis.com/node/162042">Best Interviews</a></li>
+<li class="menu-30636 menu-path-node-162042 odd "><a href="/faq/best-finance-professional-interviews-career-advice-day-in-the-life">Best Interviews</a></li>
 <li class="menu-14748 menu-path-wallstreetoasiscom-highest-ranked-comments even "><a href="http://www.wallstreetoasis.com/highest-ranked-comments">Best Comments</a></li>
 <li class="menu-14855 menu-path-wallstreetoasiscom-node-121137 odd "><a href="http://www.wallstreetoasis.com/node/121137">WSO Chat Room</a></li>
 <li class="menu-14778 menu-path-wallstreetoasiscom-forum-get-a-job even "><a href="http://www.wallstreetoasis.com/forum/get-a-job">Job Search Advice</a></li>
@@ -282,34 +266,24 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","fivestar":{"titleUser":"Your ra
 <li class="menu-14782 menu-path-wallstreetoasiscom-forum-trading even "><a href="http://www.wallstreetoasis.com/forum/trading">Trading</a></li>
 <li class="menu-14783 menu-path-wallstreetoasiscom-forum-consulting odd "><a href="http://www.wallstreetoasis.com/forum/consulting">Consulting</a></li>
 <li class="menu-14784 menu-path-wallstreetoasiscom-forum-hedge-funds even "><a href="http://www.wallstreetoasis.com/forum/hedge-funds">Hedge Funds</a></li>
-<li class="menu-18149 menu-path-wallstreetoasiscom-forum-33574 odd "><a href="http://www.wallstreetoasis.com/forum/33574">Corporate Finance</a></li>
+<li class="menu-18149 menu-path-wallstreetoasiscom-forum-corporate-finance-fldp odd "><a href="http://www.wallstreetoasis.com/forum/corporate-finance-fldp">Corporate Finance</a></li>
 <li class="menu-20545 menu-path-wallstreetoasiscom-forum-35474 even "><a href="http://www.wallstreetoasis.com/forum/35474">Real Estate Finance</a></li>
 <li class="menu-14785 menu-path-wallstreetoasiscom-forum-equity-research odd "><a href="http://www.wallstreetoasis.com/forum/equity-research">Equity Research</a></li>
 <li class="menu-14787 menu-path-wallstreetoasiscom-forum-asset-management even "><a href="http://www.wallstreetoasis.com/forum/asset-management">Asset Management</a></li>
-<li class="menu-14788 menu-path-wallstreetoasiscom-forum-wso-success-stories odd "><a href="http://www.wallstreetoasis.com/forum/wso-success-stories">WSO Success Stories</a></li>
-<li class="menu-14789 menu-path-wallstreetoasiscom-forum-the-other-road even "><a href="http://www.wallstreetoasis.com/forum/the-other-road">Other Careers</a></li>
-<li class="menu-14790 menu-path-wallstreetoasiscom-forum-b-school odd "><a href="http://www.wallstreetoasis.com/forum/b-school">Business School</a></li>
-<li class="menu-14791 menu-path-wallstreetoasiscom-forum-Resume-Review even "><a href="http://www.wallstreetoasis.com/forum/Resume-Review">Resume Forum</a></li>
-<li class="menu-14792 menu-path-wallstreetoasiscom-forum-business-attire-fashion-advice odd "><a href="http://www.wallstreetoasis.com/forum/business-attire-fashion-advice">Wall St. Fashion</a></li>
-<li class="menu-14793 menu-path-wallstreetoasiscom-forum-new-user-introductions even "><a href="http://www.wallstreetoasis.com/forum/new-user-introductions">New User Intros</a></li>
-<li class="menu-14794 menu-path-wallstreetoasiscom-forum-8 odd "><a href="http://www.wallstreetoasis.com/forum/8">Monkey Around</a></li>
-<li class="menu-14795 menu-path-wallstreetoasiscom-forum-Monkey-Marketplace even "><a href="http://www.wallstreetoasis.com/forum/Monkey-Marketplace">WSO Products</a></li>
-<li class="menu-14796 menu-path-wallstreetoasiscom-forum-site-suggestions odd "><a href="http://www.wallstreetoasis.com/forum/site-suggestions">Site Suggestions</a></li>
-<li class="menu-34973 menu-path-forum-49583 even  last "><a href="/forum/wso-groups">WSO Groups</a></li>
+<li class="menu-36358 menu-path-forum-50081 odd "><a href="/forum/investing-ideas-stock-market-macroeconomics">Investing Ideas</a></li>
+<li class="menu-14788 menu-path-wallstreetoasiscom-forum-wso-success-stories even "><a href="http://www.wallstreetoasis.com/forum/wso-success-stories">WSO Success Stories</a></li>
+<li class="menu-14789 menu-path-wallstreetoasiscom-forum-the-other-road odd "><a href="http://www.wallstreetoasis.com/forum/the-other-road">Other Careers</a></li>
+<li class="menu-14790 menu-path-wallstreetoasiscom-forum-b-school even "><a href="http://www.wallstreetoasis.com/forum/b-school">Business School</a></li>
+<li class="menu-14791 menu-path-wallstreetoasiscom-forum-Resume-Review odd "><a href="http://www.wallstreetoasis.com/forum/Resume-Review">Resume Forum</a></li>
+<li class="menu-14792 menu-path-wallstreetoasiscom-forum-business-attire-fashion-advice even "><a href="http://www.wallstreetoasis.com/forum/business-attire-fashion-advice">Wall St. Fashion</a></li>
+<li class="menu-14793 menu-path-wallstreetoasiscom-forum-new-user-introductions odd "><a href="http://www.wallstreetoasis.com/forum/new-user-introductions">New User Intros</a></li>
+<li class="menu-14794 menu-path-wallstreetoasiscom-forum-8 even "><a href="http://www.wallstreetoasis.com/forum/8">Monkey Around</a></li>
+<li class="menu-14795 menu-path-wallstreetoasiscom-forum-Monkey-Marketplace odd "><a href="http://www.wallstreetoasis.com/forum/Monkey-Marketplace">WSO Products</a></li>
+<li class="menu-14796 menu-path-wallstreetoasiscom-forum-site-suggestions even "><a href="http://www.wallstreetoasis.com/forum/site-suggestions">Site Suggestions</a></li>
+<li class="menu-34973 menu-path-forum-49583 odd  last "><a href="/forum/wso-groups">WSO Groups</a></li>
 </ul>
 </li>
-<li class="menu-14727 menuparent menu-path-forum-49583 odd "><a href="/forum/wso-groups">Groups</a><ul><li class="menu-14776 menu-path-forum-49583 first  odd "><a href="/forum/wso-groups">Create Group</a></li>
-<li class="menu-21592 menu-path-wallstreetoasiscom-node-29577 even "><a href="http://www.wallstreetoasis.com/node/29577" title="Private Group &amp; Chat for WSO Certified Users">Certified User Group</a></li>
-<li class="menu-23052 menu-path-wallstreetoasiscom-forums-group-non-target-networking odd "><a href="http://www.wallstreetoasis.com/forums/group-non-target-networking" title="Pulling up as we climb">Non Target Networking</a></li>
-<li class="menu-23057 menu-path-wallstreetoasiscom-forums-group-energy-trading even "><a href="http://www.wallstreetoasis.com/forums/group-energy-trading" title="Lead by Monty09, everything to do with energy trading ">Energy Trading</a></li>
-<li class="menu-23054 menu-path-wallstreetoasiscom-forums-group-read-the-footnotes odd "><a href="http://www.wallstreetoasis.com/forums/group-read-the-footnotes" title="Good, Bad, Ugly of Buyside">Read the Footnotes</a></li>
-<li class="menu-23055 menu-path-wallstreetoasiscom-forums-group-proprietary-trading even "><a href="http://www.wallstreetoasis.com/forums/group-proprietary-trading" title="Join this group if you are a proprietary trader or interested in becoming one.">Proprietary Traders</a></li>
-<li class="menu-23056 menu-path-wallstreetoasiscom-forums-group-wso-investment-ideas odd "><a href="http://www.wallstreetoasis.com/forums/group-wso-investment-ideas" title="A place for sharing investment ideas and soliciting feedback">WSO Investment Ideas</a></li>
-<li class="menu-23058 menu-path-wallstreetoasiscom-forums-group-cfa even "><a href="http://www.wallstreetoasis.com/forums/group-cfa" title="anything about CFA, the test (I,II,III) prep, holders' life, investment mgmt, financial biz, etc">CFA</a></li>
-<li class="menu-23060 menu-path-wallstreetoasiscom-forums-group-economics odd  last "><a href="http://www.wallstreetoasis.com/forums/group-economics" title="Come Discuss Econ">Economics</a></li>
-</ul>
-</li>
-<li class="menu-14728 menuparent menu-path-wallstreetoasiscom-frequently-asked-questions even "><a href="http://www.wallstreetoasis.com/frequently-asked-questions">FAQs</a><ul><li class="menu-30600 menu-path-wallstreetoasiscom-node-162042 first  odd "><a href="http://www.wallstreetoasis.com/node/162042">Best Interviews</a></li>
+<li class="menu-14728 menuparent menu-path-wallstreetoasiscom-frequently-asked-questions odd "><a href="http://www.wallstreetoasis.com/frequently-asked-questions">FAQs</a><ul><li class="menu-30600 menu-path-node-162042 first  odd "><a href="/faq/best-finance-professional-interviews-career-advice-day-in-the-life">Best Interviews</a></li>
 <li class="menu-14770 menu-path-wallstreetoasiscom-frequently-asked-questions even "><a href="http://www.wallstreetoasis.com/frequently-asked-questions">Common Questions</a></li>
 <li class="menu-22905 menu-path-wallstreetoasiscom-frequently-asked-questions-industry-specific odd "><a href="http://www.wallstreetoasis.com/frequently-asked-questions/industry-specific">Industry Specific</a></li>
 <li class="menu-22902 menu-path-wallstreetoasiscom-frequently-asked-questions-wso-101 even "><a href="http://www.wallstreetoasis.com/frequently-asked-questions/wso-101">WSO 101</a></li>
@@ -320,6 +294,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","fivestar":{"titleUser":"Your ra
 <li class="menu-16061 menu-path-wallstreetoasiscom-node-122593 odd  last "><a href="http://www.wallstreetoasis.com/node/122593" title="Dictionary of finance terms">WSO Finance Dictionary</a></li>
 </ul>
 </li>
+<li class="menu-37110 menu-path-events even "><a href="/events">Events</a></li>
 <li class="menu-22900 menuparent menu-path-node-1 odd "><a href="/about-wallstreetoasiscom" style="text-transform: lowercase; font-family: verdana;">i</a><ul><li class="menu-14768 menu-path-wallstreetoasiscom-about-wallstreetoasiscom first  odd "><a href="http://www.wallstreetoasis.com/about-wallstreetoasiscom" title="">About WSO</a></li>
 <li class="menu-14769 menu-path-wallstreetoasiscom-wall-street-oasis-press even "><a href="http://www.wallstreetoasis.com/wall-street-oasis-press" title="">Press</a></li>
 <li class="menu-14771 menu-path-wallstreetoasiscom-contact odd "><a href="http://www.wallstreetoasis.com/contact" title="">Contact Us</a></li>
@@ -329,14 +304,30 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","fivestar":{"titleUser":"Your ra
 <li class="menu-22977 menu-path-wallstreetoasiscom-store odd  last "><a href="http://www.wallstreetoasis.com/store" title="">WSO Store</a></li>
 </ul>
 </li>
-<li class="menu-14729 menu-path-user-login even "><a href="/user/login?destination=forums/spotlight-wso-user-guidelines">Login</a></li>
+<li class="menu-14729 menu-path-user-login even "><a href="/user/login">Login</a></li>
 <li class="menu-14730 menu-path-user-register odd "><a href="/user/register?origin=menu" style="background-color: #75C11C; color: white; font-weight: bold; text-decoration: none;">Sign Up!</a></li>
 <li class="menu-30544 menu-path-hot-topics-week even "><a href="/hot-topics/week">Hot Topics</a></li>
 <li class="menu-14742 menu-path-user odd "><a href="/user">My Profile</a></li>
-<li class="menu-30678 menuparent menu-path-https--twittercom-Wallstreetoasis even  last "><a href="https://twitter.com/Wallstreetoasis"><span class="wso_icons menu-follow-us"></span>Follow Us</a><ul><li class="menu-30679 menu-path-https--twittercom-wallstreetoasis first  odd "><a href="https://twitter.com/wallstreetoasis"><span class="wso_icons menu-twitter"></span> Twitter</a></li>
+<li class="menu-36384 menuparent menu-path-wallstreetoasiscom-the-wso-chat-room even "><a href="http://www.wallstreetoasis.com/the-wso-chat-room"><span class="wso_icons menu-chat"></span></a><ul><li class="menu-36385 menu-path-wallstreetoasiscom-group-wso-certified-user-group first  odd "><a href="http://www.wallstreetoasis.com/group/wso-certified-user-group">Certified User Private Chat</a></li>
+<li class="menu-36386 menu-path-wallstreetoasiscom-forum-wso-groups even "><a href="http://www.wallstreetoasis.com/forum/wso-groups">Other Groups</a></li>
+<li class="menu-36387 menu-path-wallstreetoasiscom-the-wso-chat-room odd  last "><a href="http://www.wallstreetoasis.com/the-wso-chat-room">Public Chat</a></li>
+</ul>
+</li>
+<li class="menu-30678 menuparent menu-path-https--twittercom-Wallstreetoasis odd "><a href="https://twitter.com/Wallstreetoasis"><span class="wso_icons menu-follow-us"></span></a><ul><li class="menu-30679 menu-path-https--twittercom-wallstreetoasis first  odd "><a href="https://twitter.com/wallstreetoasis"><span class="wso_icons menu-twitter"></span> Twitter</a></li>
 <li class="menu-30680 menu-path-https--facebookcom-WallStreetOasis even "><a href="https://www.facebook.com/WallStreetOasis"><span class="wso_icons menu-facebook"></span> Facebook</a></li>
 <li class="menu-30681 menu-path-linkedincom-company-1469345trkvsrp_companies_res_nametrkInfoVSRPsearchId%3A287403341371919050074%2CVSRPtargetId% odd "><a href="http://www.linkedin.com/company/1469345?trk=vsrp_companies_res_name&amp;trkInfo=VSRPsearchId%3A287403341371919050074%2CVSRPtargetId%"><span class="wso_icons menu-linkedin"></span> LinkedIn</a></li>
 <li class="menu-30682 menu-path-https--plusgooglecom-102146583039253139636-posts even  last "><a href="https://plus.google.com/102146583039253139636/posts"><span class="wso_icons menu-google-plus"></span> Google +</a></li>
+</ul>
+</li>
+<li class="menu-37049 menuparent menu-path-node-210706 even  last "><a href="/wso-premium-packages"><span class="wso_icons menu-star"></span></a><ul><li class="menu-38816 menu-path-wallstreetoasiscom-wso-premium-packages first  odd "><a href="http://www.wallstreetoasis.com/wso-premium-packages">WSO Premium Packages</a></li>
+<li class="menu-38815 menu-path-wallstreetoasiscom-forums-wso-investment-banking-resume-template even "><a href="http://www.wallstreetoasis.com/forums/wso-investment-banking-resume-template">Investment Banking Resume</a></li>
+<li class="menu-42097 menu-path-wallstreetoasiscom-tag-private-equity-resume odd "><a href="http://www.wallstreetoasis.com/tag/private-equity-resume">Private Equity Resume</a></li>
+<li class="menu-42167 menu-path-wallstreetoasiscom-forums-hedge-fund-resume-template even "><a href="http://www.wallstreetoasis.com/forums/hedge-fund-resume-template">Hedge Fund Resume</a></li>
+<li class="menu-38818 menu-path-wallstreetoasiscom-wall-street-mentors-finance-mock-interviews odd "><a href="http://www.wallstreetoasis.com/wall-street-mentors-finance-mock-interviews">Finance Career Coaching</a></li>
+<li class="menu-38820 menu-path-wallstreetoasiscom-financial-modeling-training even "><a href="http://www.wallstreetoasis.com/financial-modeling-training">Financial Modeling Training</a></li>
+<li class="menu-38821 menu-path-wallstreetoasiscom-finance-internships odd "><a href="http://www.wallstreetoasis.com/finance-internships">Investment Banking Internships</a></li>
+<li class="menu-38819 menu-path-wallstreetoasiscom-guide-investment-banking-prep-pack even "><a href="http://www.wallstreetoasis.com/guide/investment-banking-prep-pack">Investment Banking Interviews</a></li>
+<li class="menu-38817 menu-path-wallstreetoasiscom-finance-jobs odd  last "><a href="http://www.wallstreetoasis.com/finance-jobs">New Finance Job Openings</a></li>
 </ul>
 </li>
 </ul>
@@ -344,7 +335,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","fivestar":{"titleUser":"Your ra
   
 </div> <!-- /block -->
 
-                                          
+                                              
 <div id="block-search-0" class="block block-search">
 
   
@@ -355,7 +346,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","fivestar":{"titleUser":"Your ra
  <input type="text" maxlength="128" name="search_block_form" id="edit-search-block-form-1" size="20" value="" class="form-text NormalTextBox txtSearch" placeholder="Type keywords here + hit enter">
 </div>
 <input type="submit" name="op" id="edit-submit-2" value="Go" class="form-submit big-green-button">
-<input type="hidden" name="form_build_id" id="form-4wqWBeqmXx03smcnqatBO2GMrAr_Vf9IzRgEm-iUm9I" value="form-4wqWBeqmXx03smcnqatBO2GMrAr_Vf9IzRgEm-iUm9I">
+<div class="mentions-suggestions" style="display: none;"></div><input type="hidden" name="form_build_id" id="form-82tK9k79JxH7-e8mdLcFYmvGaYckJWVcpn54uytF4ao" value="form-82tK9k79JxH7-e8mdLcFYmvGaYckJWVcpn54uytF4ao">
 <input type="hidden" name="form_id" id="edit-search-block-form" value="search_block_form">
 </div>
 
@@ -363,14 +354,15 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","fivestar":{"titleUser":"Your ra
 
   
 </div> <!-- /block -->
+      </div>
   </div>
-    <div id="container" class="not-front not-logged-in node-type-page one-sidebar sidebar-right page-node-150603 logged-out">
+    <div id="container" class="not-front not-logged-in node-type-page one-sidebar sidebar-right page-node-150603 logged-in">
 
     <div id="header" class="clear-block">
      <div id="headerleft">
               <div id="logo">
         
-                                          
+                                              
 <div id="block-block-79" class="block block-block">
 
   
@@ -379,23 +371,45 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","fivestar":{"titleUser":"Your ra
   
 </div> <!-- /block -->
         </div>
+<script type="text/javascript">
+<!--
+	if (isMobileDevice()){
+			$('#logo').remove();
+	}
+//-->
+</script>
       
             </div>
 
-      	    
-      <ul id="modularnav"><li class="menu-25546 first"><a href="/wso-premium-packages" class="database">Premium</a></li>
-<li class="menu-25547"><a href="http://wallstreetprep.go2cloud.org/aff_c?offer_id=2&amp;aff_id=1000&amp;source=menu" class="model">Modeling</a></li>
-<li class="menu-25548"><a href="/wso-finance-resume-review" class="resume">Resume Review</a></li>
-<li class="menu-25549"><a href="/events" class="event">Events</a></li>
-<li class="menu-25550"><a href="/guide-to-finance-interviews" class="interview">Interview Guides</a></li>
-<li class="menu-25551"><a href="/finance-jobs" class="job">Job Board</a></li>
-<li class="menu-25552"><a href="/finance-internships" class="internship">Intern Positions</a></li>
-<li class="menu-30670 last"><a href="/wall-street-mentors-finance-mock-interviews" class="mentors">Mentors</a></li>
+      	      <div id="header-right">	
+	      
+                                              
+<div id="block-nice_menus-1" class="block block-nice_menus">
+
+  
+  <ul class="nice-menu nice-menu-down nice-menu-menu-tiles" id="nice-menu-1"><li class="menu-25547 menu-path-wallstreetprepgo2cloudorg-aff_coffer_id2aff_id1000sourcemenu first  odd "><a href="http://wallstreetprep.go2cloud.org/aff_c?offer_id=2&amp;aff_id=1000&amp;source=menu" class="model">&nbsp;</a></li>
+<li class="menu-25550 menu-path-node-171133 even "><a href="/guide-to-finance-interviews" class="interview">&nbsp;</a></li>
+<li class="menu-25548 menu-path-node-73047 odd "><a href="/wso-finance-resume-review" class="resume">&nbsp;</a></li>
+<li class="menu-25549 menu-path-wso-company-database even "><a href="/wso-company-database" class="database">&nbsp;</a></li>
+<li class="menu-25546 menu-path-node-111423 odd "><a href="/wall-street-videos" class="video">&nbsp;</a></li>
+<li class="menu-25551 menu-path-finance-jobs even "><a href="/finance-jobs" class="job">&nbsp;</a></li>
+<li class="menu-30670 menu-path-node-92130 odd "><a href="/wall-street-mentors-finance-mock-interviews" class="mentors">&nbsp;</a></li>
+<li class="menu-25552 menu-path-node-16747 even  last "><a href="/finance-internships" class="internship">&nbsp;</a></li>
 </ul>
-    </div>
+
+  
+</div> <!-- /block -->
+	      </div>
+	    	<script type="text/javascript">
+				<!--
+					if (navigator.userAgent.match(/(iPhone|iPod|Android)/) && navigator.userAgent.match(/(iPhone|iPod|Android)/) != null){
+							$('#header-right').remove();
+					}
+				//-->
+				</script>
+		      </div>
     
     <div id="blue-line"></div>
-
     
     
     <div id="columns">  
@@ -414,25 +428,32 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","fivestar":{"titleUser":"Your ra
   <div style="clear:both"></div>
     <p>Enter e-mail to get our <strong>Modeling Tutorials</strong> (Worth $200+)</p>
   </div>
-  <form action="/page/privacy-policy" accept-charset="UTF-8" method="post" id="registration-banner">
-<div><div class="banner-mail"><div class="form-item" id="edit-mail-wrapper">
- <input type="text" maxlength="128" name="mail" id="edit-mail" size="60" value="" placeholder="Enter e-mail here" class="form-text">
+  <form action="/forums/a-little-perspective" accept-charset="UTF-8" method="post" id="registration-banner">
+<div><div class="banner-mail"><div class="form-item" id="edit-mail-1-wrapper">
+ <input type="text" maxlength="128" name="mail" id="edit-mail-1" size="60" value="" placeholder="Enter e-mail here" class="form-text">
 </div>
-</div><div class="hidden"><div class="form-item" id="edit-city-wrapper">
- <label for="edit-city">City: </label>
- <input type="text" maxlength="128" name="city" id="edit-city" size="60" value="" class="form-text">
+</div><div class="hidden"><div class="form-item" id="edit-city-1-wrapper">
+ <label for="edit-city-1">City: </label>
+ <input type="text" maxlength="128" name="city" id="edit-city-1" size="60" value="" class="form-text">
 </div>
-</div><div class="hidden"><div class="form-item" id="edit-origin-wrapper">
- <label for="edit-origin">Origin: </label>
- <input type="text" maxlength="128" name="origin" id="edit-origin" size="60" value="banner" readonly="readonly" class="form-text">
+</div><div class="hidden"><div class="form-item" id="edit-origin-1-wrapper">
+ <label for="edit-origin-1">Origin: </label>
+ <input type="text" maxlength="128" name="origin" id="edit-origin-1" size="60" value="banner" readonly="readonly" class="form-text">
 </div>
-</div><input type="submit" name="op" id="edit-submit-1" value="YES, Send Me Free Lessons!" class="form-submit big-green-button">
-<input type="hidden" name="form_build_id" id="form-tDZfkbsUk-n6M06WgnoK6aHXFXSa1bYsZxTEkgRpc5U" value="form-tDZfkbsUk-n6M06WgnoK6aHXFXSa1bYsZxTEkgRpc5U">
+</div><input type="submit" name="op" id="edit-submit-2-1" value="YES, Send Me Free Lessons!" class="form-submit big-green-button">
+<input type="hidden" name="form_build_id" id="form-N_l12L112NPS_PxNmgZesGmoZ1di6w7gz47YWGleSsY" value="form-N_l12L112NPS_PxNmgZesGmoZ1di6w7gz47YWGleSsY">
 <input type="hidden" name="form_id" id="edit-registration-banner" value="registration_banner">
-
+<div class="mentions-suggestions" style="display: none;"></div>
 </div></form>
   <div style="clear:both;"></div>
 </div>
+			      	<script type="text/javascript">
+							<!--
+								if (isMobileDevice()){
+									$('#top-banner').remove();
+								}
+							//-->
+							</script>
 						</div>
 							
 						
@@ -474,16 +495,18 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","fivestar":{"titleUser":"Your ra
 <li class="taxonomy_term_35587 last"><a href="/tag/privacy-policy" rel="tag" title="">Privacy Policy</a></li>
 </ul>  
   <div class="clear-block"></div>
-  <ul class="links"><li class="share first"><a href="/tweet/node/150603" title="share"><div class="wso_share_icon wso_icons">&nbsp;</div></a></li>
-<li class="node_reply"><a href="/user/register" title="Reply"><div class="wso_comment_icon wso_icons">&nbsp;</div></a></li>
+  <ul class="links"><li class="node_reply first"><a href="/user/register" title="Reply"><div class="wso_comment_icon wso_icons">&nbsp;</div></a></li>
 <li class="private-message last"><a href="/user/register?origin=pm"><div class="wso_private_message_icon wso_icons">&nbsp;</div></a></li>
-</ul> 			<div class="clear-block"></div>
+</ul><div class="text-ad">
+<script src="http://ads.investingchannel.com/adtags/wallstreetoasis/ros/500x55.js?kval=content_ad" type="text/javascript" charset="utf-8"></script>
+</div>
+ 			<div class="clear-block"></div>
 	</div> <!-- /node. -->
 <div class="reply-form" id="reply-form-node-150603"></div>
 <!-- Mobile320x50 -->
 <div id="div-gpt-ad-1366309444541-0">
 <script type="text/javascript">
-  if (navigator.userAgent.match(/(iPhone|iPod|Android)/) && navigator.userAgent.match(/(iPhone|iPod|Android)/) != null) { 
+  if (navigator.userAgent.match(/(iPhone|iPod|Android)/) && navigator.userAgent.match(/(iPhone|iPod|Android)/) != null && typeof googletag != "undefined") { 
     googletag.cmd.push(function() { googletag.display('div-gpt-ad-1366309444541-0')});
   }
   
@@ -494,38 +517,145 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","fivestar":{"titleUser":"Your ra
             
                         <div id="content-bottom" class="section region">
             
-                                          
+                                              
+<div id="block-apachesolr_search-mlt-001" class="block block-apachesolr_search">
+
+      <h2 class="title">Don't Miss This Awesome Related WSO Content</h2>
+  
+  <div class="item-list"><ul class="apachesolr-mlt-block"><li class="first"><span class="qtip-link"><div class="qtip-tooltip">So consultants don't share hotel rooms, do they? If so, I can imagine "taking care of business" would be difficult. I'd have to bring the laptop into the bathroom or something. This is a serious question btw. I thought about it as I was lying in bed last night.</div><a href="/forums/do-consultants-have-timeprivacy-to-master-their-domain-while-away-at-hotels-im-talking-about-">Do consultants have time/privacy to "master their domain" while away at hotels? I'm talking about "personal business"</a></span></li>
+<li><span class="qtip-link"><div class="qtip-tooltip">Today's topic is going to be a bit too esoteric for some. On the other hand, for you guys scratching the entrepreneurial itch...it may be a great idea to wrap your heads around. By this point it has become kind of ridiculous to talk about the increasing influence of computers on the way we...</div><a href="/blog/commodities-class-20-web-privacy">Commodities Class 2.0: Web Privacy</a></span></li>
+<li><span class="qtip-link"><div class="qtip-tooltip">http://developers.facebook.com/blog/post/447 I actually liked FB but deleted my account just because its CEO is such a sociopathic little polesmoker.</div><a href="/forums/facebook-privacy-invasion-4902">Facebook privacy invasion #4902</a></span></li>
+<li><span class="qtip-link"><div class="qtip-tooltip">I was watching some late night tv last night and came across a commercial for beenverified.com. I've came across and heard about this site and I'm sure you have too,but I never really knew the full scope of it. So I checked the site online and was pretty surprised. </div><a href="/forums/are-new-service-companies-overstepping-the-privacy-boundaries">Are New Service Companies Overstepping the Privacy Boundaries?</a></span></li>
+<li><span class="qtip-link"><div class="qtip-tooltip">Hey Everyone, I've been reading the threads here and I'm just wondering. How likely is it for me to get into a top-10 b-school with Deloitte 's S&amp;P practice on my name. I'm officially an ERS consultant and was wondering whether this will help me to get into a top business...</div><a href="/forums/deloitte-security-privacy-b-school-placement">Deloitte Security &amp; Privacy B-school placement</a></span></li>
+<li><span class="qtip-link"><div class="qtip-tooltip"> Location San Francisco, CA 94118 United States 37° 46' 56.2404" N, 122° 27' 49.3488" W See map: Google Maps Deloitte Accounting Consulting Corporate Finance 2012 October No Offer College / University / On Campus Recruiting Less than 1 month 1 on 1 Interview Deloitte is...</div><a href="/company/deloitte/interview/ers-technology-risk-security-and-privacy">ERS: Technology Risk, Security and Privacy</a></span></li>
+<li><span class="qtip-link"><div class="qtip-tooltip">This is hilarious. He starts the largest social networking site and then buys neighboring houses for so that he doesn't have to have neighbors. http://finance.yahoo.com/news/mark-zuckerberg-just-spent-more-114107161.html</div><a href="/forums/mark-zuckerberg-just-spent-more-than-30-million-buying-4-neighboring-houses-for-privacy">"Mark Zuckerberg Just Spent More Than $30 Million Buying 4 Neighboring Houses for Privacy"</a></span></li>
+<li class="last"><span class="qtip-link"><div class="qtip-tooltip">http://thecable.foreignpolicy.com/posts/2013/10/24/exclusive_germany_brazil_turn_to_un_to_restrain_american_spies [quote=Foreign Policy]Brazil and Germany today joined forces to press for the adoption of a U.N. General Resolution that promotes the right of privacy on the internet, marking the...</div><a href="/forums/germanybrazil-move-for-un-resolution-on-internet-privacy">Germany/Brazil move for UN resolution on internet privacy</a></span></li>
+</ul></div>
+  
+</div> <!-- /block -->
+
+                                              
 <div id="block-block-59" class="block block-block">
 
   
-  <p></p><center><a href="http://wallstreetprep.go2cloud.org/aff_c?offer_id=2&amp;aff_id=1000&amp;source=600x400" rel="nofollow"><img src="http://www.wallstreetoasis.com/files/WSP-630x400-3.JPG" width="630" height="400"></a></center><img src="http://wallstreetprep.go2cloud.org/aff_i?offer_id=2&amp;aff_id=1000&amp;source=600x400" width="1" height="1"><p></p>
+  <!-- 640x400 Big Banner  --><!-- 640x400 Big Banner  --><div id="div-gpt-ad-1401116408864-0" style="width:640px; height:400px;">
+<script type="text/javascript">
+if (typeof googletag != "undefined") {
+  googletag.display('div-gpt-ad-1401116408864-0');
+}
+</script></div>
 
   
 </div> <!-- /block -->
             </div> <!-- /content-bottom -->
-                      </div> <!-- /content-inner -->
+					 	<script type="text/javascript">
+						<!--
+							if (isMobileDevice()){
+									$('#content-bottom').remove();
+							}
+						//-->
+						</script>
+
+						          </div> <!-- /content-inner -->
         </div> <!-- /content-column -->
 
         
                 <div id="sidebar-right" class="section sidebar region">
       	  <div>
           
-                                                
-<div id="block-block-76" class="block block-block bc-blocks">
+                                                    
+<div id="block-block-104" class="block block-block bc-blocks">
 
   
-  <!-- 300x250 --><!-- 300x250 --><script type="text/javascript">
-GA_googleFillSlot("300x250");
-</script>
+  <a href="/node/add/forum/32" class="big-green-button" rel="nofollow">INTRODUCE YOURSELF</a>
   
 </div> <!-- /block -->
-	  
-                                          
+
+                                              
+<div id="block-custom-6" class="block block-custom">
+
+      <h2 class="title">Highest Ranked Content</h2>
+  
+  <div id="highest-ranked-discussions"><table class="sticky-enabled">
+ <thead><tr><th><div class="quicktabs_wrapper">
+                 <ul class="quicktabs_tabs">
+                   <li class="qtab-0 first">
+                     <a class="active" href="/highest-ranked-discussions/week">Week</a>
+                   </li>
+                   <li class="qtab-1">
+                     <a href="/highest-ranked-discussions/month">Month</a>
+                   </li>
+                   <li class="qtab-2">
+                     <a href="/highest-ranked-discussions/year">Year</a>
+                   </li>
+                   <li class="qtab-3">
+                     <a href="/highest-ranked-discussions">All Time</a>
+                   </li>
+                   <li class="qtab-4 last">
+                     <a href="/highest-ranked-comments">Comments</a>
+                   </li>
+                 </ul>
+               </div></th> </tr></thead>
+<tbody>
+ <tr class="odd"><td><span class="qtip-link"><div class="qtip-tooltip">I turned 30 last week, thought i'd pass some advice and my favorite quotations on to you all. I pulled all these from my &lt;em&gt;grand&lt;/em&gt; list so it is by no means comprehensive, just a sample. Enjoy.  
+
+fwiw I'm ex finance (spent 3 years in IB now work with a start up in...</div><a href="/forums/just-turned-30-heres-some-life-advicequotes">Just Turned 30; Here's Some Life Advice/Quotes </a></span></td> </tr>
+ <tr class="even"><td><span class="qtip-link"><div class="qtip-tooltip">The takeaways are in bold
+
+&lt;strong&gt;If you get accepted to multiple top 10-15 schools, take “prestige” out of the equation.&lt;/strong&gt;
+
+I always tell the story of my good friend who passed up a full ride at Columbia to pay full freight at Wharton due to rankings. She ended up...</div><a href="/forums/what-ive-learned-so-far-after-1-yr-at-a-top-mba-program-if-i-could-do-it-over">What I've learned so far after 1 yr at a top MBA program (If I could do it over):</a></span></td> </tr>
+ <tr class="odd"><td><span class="qtip-link"><div class="qtip-tooltip">&lt;em&gt;Mod Note (Andy): This comment was originally posted &lt;a href="http://www.wallstreetoasis.com/forums/what-are-exit-opps-really-like-for-mbb-partners"&gt;What are exit opps really like for MBB Partners?&lt;/a&gt;&lt;/em&gt;
+
+I find &lt;a...</div><a href="/blog/life-in-general-will-cost-more-than-you-think">Life in General Will Cost More Than You Think  </a></span></td> </tr>
+ <tr class="even"><td><span class="qtip-link"><div class="qtip-tooltip">The hours are tough, most don't recognize how much it really is until they are there. Here's 70 hours for you:
+
+9am to 11pm every weekday. Doesn't sound like much, but think about it realistically. You're up by 8am, you get home by 11:30pm.. Sleep, rinse repeat.
+
+Increase...</div><a href="/forums/the-hours">The Hours</a></span></td> </tr>
+ <tr class="odd"><td><span class="qtip-link"><div class="qtip-tooltip">Background: I received a FT offer after completing the S&amp;T rotational internship last summer at a global bank. I was a student-athlete at a non-target in the Northeast.
+
+I found the many guides on WSO on interviewing and navigating the &lt;span class='keyword_link'&gt;&lt;a...</div><a href="/forums/st-interns-3-things-that-got-me-hired">S&amp;T interns: 3 things that got me hired</a></span></td> </tr>
+ <tr class="even"><td><span class="qtip-link"><div class="qtip-tooltip">&lt;em&gt;Mod note: "Blast from the past - Best of Eddie" - This one is originally from November 2011&lt;/em&gt;
+
+Fellow WSO Monkeys,
+
+I have a treat for you this thanksgiving. I was able to score an exclusive interview with the notorious &lt;b&gt;Edmundo Braverman&lt;/b&gt; a.k.a...</div><a href="/forums/exclusive-edmundo-braverman-interview-part-1-of-2">Exclusive Edmundo Braverman Interview : Part 1 of 2</a></span></td> </tr>
+ <tr class="odd"><td><span class="qtip-link"><div class="qtip-tooltip">By pure chance, as I was looking for something inside the office supplies/storage room, I came across an abandoned old box. I almost ignored it but something caught my eye, and I ended up digging up this old deal &lt;span class='keyword_link'&gt;&lt;a...</div><a href="/forums/stumbled-upon-a-piece-of-financial-history-in-the-office-today">Stumbled upon a piece of financial history in the office today...</a></span></td> </tr>
+ <tr class="even"><td><span class="qtip-link"><div class="qtip-tooltip">&lt;em&gt;Mod Note (Andy) - Throwback Thursday - this originally went up July 2012&lt;/em&gt;
+
+A while back I mentioned that during the two years of my MBA program at a top-5 school, I'd put a star next to every note I took that I thought was worth carrying forward into my future...</div><a href="/blog/what-i-learned-in-b-school-is-it-worth-250k">What I learned in b-school: is it worth $250k?</a></span></td> </tr>
+ <tr class="odd"><td><span class="qtip-link"><div class="qtip-tooltip">Tip #1: Marry a woman who has low expectations
+
+Tip #2: Marry a woman with a strong sense of self-discipline</div><a href="/forums/tips-for-a-happy-marriage-male-perspective">Tips for a happy marriage (male perspective)</a></span></td> </tr>
+ <tr class="even"><td><span class="qtip-link"><div class="qtip-tooltip">Wall Street Oasis is looking for several hard working individuals to join our intern team to help with online-marketing tasks, specifically Search Engine Optimization (SEO) and link-building.
+
+ &lt;strong&gt;&lt;a...</div><a href="/forums/wall-street-oasis-seo-interns-needed-now">Wall Street Oasis SEO Interns Needed NOW</a></span></td> </tr>
+</tbody>
+</table>
+<div class="more-link"><a href="/highest-ranked-discussions/week">more</a></div></div>
+  
+</div> <!-- /block -->
+
+                                                    
+<div id="block-wsotheme-300x250_ad" class="block block-wsotheme bc-blocks">
+
+  
+  <!-- 300x250 --><div id="div-gpt-ad-1398709258406-0"><script type="text/javascript">if (!(isMobileDevice()) && typeof googletag != "undefined") { googletag.display('div-gpt-ad-1398709258406-0');}</script></div>
+  
+</div> <!-- /block -->
+					
+                                              
 <div id="block-views-new_forum_posts-block_1" class="block block-views">
 
       <h2 class="title">Forum Topics</h2>
   
   <div class="view view-new-forum-posts view-id-new_forum_posts view-display-id-block_1 quicktabs-tabpage view-dom-id-1">
+      <div class="views-admin-links views-hide">
+      <ul class="links"><li class="0 first"><a href="/admin/build/views/edit/new_forum_posts?destination=user%2F74720%2Fedit#views-tab-block_1">Edit</a></li>
+<li class="1"><a href="/admin/build/views/export/new_forum_posts">Export</a></li>
+<li class="2 last"><a href="/admin/build/views/clone/new_forum_posts">Clone</a></li>
+</ul>    </div>
         <div class="view-header">
       <div class="quicktabs_wrapper">
 <ul class="quicktabs_tabs">
@@ -552,93 +682,72 @@ GA_googleFillSlot("300x250");
     <ul>
           <li class="views-row views-row-1 views-row-odd views-row-first">  
   <div class="views-field-title">
-                <span class="field-content"><span class="qtip-link"><div class="qtip-tooltip">Congrats to @NebraskaYoungin who won the Bitcoin contest last week with his pick of $945. The price at Friday 5pm was $935
-
-AMZN is currently at $386.95, what will &lt;span class='keyword_link'&gt;&lt;a href="http://www.wallstreetoasis.com/company/amazon"...</div><a href="/blog/wso-stock-pick-contest-4-amzn">WSO Stock Pick Contest #4: AMZN</a></span></span>
+                <span class="field-content"><a href="/forums/nondisclosure-and-non-circumvent-agreement">Nondisclosure and Non-Circumvent Agreement?</a></span>
   </div>
 </li>
           <li class="views-row views-row-2 views-row-even">  
   <div class="views-field-title">
-                <span class="field-content"><span class="qtip-link"><div class="qtip-tooltip">&lt;em&gt;This is a 3 part guide to starting your own angel portfolio.  The third part will focus on looking at deals, keeping track of them and quick evaluation.  The first part can be found &lt;a...</div><a href="/forums/beginners-guide-to-building-an-angel-investment-portfolio-part-3">Beginner's Guide to Building an Angel Investment Portfolio (Part 3)</a></span></span>
+                <span class="field-content"><a href="/forums/msf-gpa-does-it-matter">MSF GPA: does it matter?</a></span>
   </div>
 </li>
           <li class="views-row views-row-3 views-row-odd">  
   <div class="views-field-title">
-                <span class="field-content"><span class="qtip-link"><div class="qtip-tooltip">Hi all!
-
-I'm considering investing in a &lt;span class='keyword_link'&gt;&lt;a href="http://wallstreetprep.go2cloud.org/aff_c?offer_id=2&amp;aff_id=1000&amp;source=InText" target="_blank"&gt;financial modeling&lt;/a&gt;&lt;/span&gt; self study program. I've...</div><a href="/forums/financial-modeling-self-study-comparison">Financial Modeling Self Study Comparison</a></span></span>
+                <span class="field-content"><a href="/forums/whats-your-wealth-target">What's your wealth target?</a></span>
   </div>
 </li>
           <li class="views-row views-row-4 views-row-even">  
   <div class="views-field-title">
-                <span class="field-content"><span class="qtip-link"><div class="qtip-tooltip">I've got ~9 months left until I start work full-time. Some of this time will be spent in my last semester of school, and some will be spent travelling, but there's still enough time left to pick-up other activities.
-
-What's the best way to spend this time? What did you do before...</div><a href="/forums/what-to-do-before-starting-full-time">What to do before starting full-time?</a></span></span>
+                <span class="field-content"><a href="/forums/introductions-based-in-hk">introductions - based in HK</a></span>
   </div>
 </li>
           <li class="views-row views-row-5 views-row-odd">  
   <div class="views-field-title">
-                <span class="field-content"><span class="qtip-link"><div class="qtip-tooltip">I had a first round skype interview with &lt;span class='keyword_link'&gt;&lt;a href="http://www.wallstreetoasis.com/company/credit-suisse"&gt;Credit Suisse&lt;/a&gt;&lt;/span&gt; for &lt;span class='keyword_link'&gt;&lt;a...</div><a href="/forums/credit-suisse-first-round">Credit Suisse first round?</a></span></span>
+                <span class="field-content"><a href="/forums/finance-gamertags">Finance gamertags</a></span>
   </div>
 </li>
           <li class="views-row views-row-6 views-row-even">  
   <div class="views-field-title">
-                <span class="field-content"><span class="qtip-link"><div class="qtip-tooltip">I got a lot of help reading WSO when I was an undergrad and wanted to contribute somehow. Wanted to drop my 2 cents, as I feel like &lt;span class='keyword_link'&gt;&lt;a href="http://www.wallstreetoasis.com/guide/consulting-case-interviews"&gt;MBB&lt;/a&gt;&lt;/span&gt; is...</div><a href="/forums/why-i-think-you-should-take-a-corporate-strategy-gig-over-consulting-including-mbb-at-the-ent">Why I think you should take a corporate strategy gig over consulting (including MBB) at the entry-level </a></span></span>
+                <span class="field-content"><a href="/blog/thank-you-to-our-sponsors">Thank You To Our Sponsors</a></span>
   </div>
 </li>
           <li class="views-row views-row-7 views-row-odd">  
   <div class="views-field-title">
-                <span class="field-content"><span class="qtip-link"><div class="qtip-tooltip">My organization pays a lot of money for Reis. Just through spot checking and comparing to our prior transactions and our appraisals it's apparent the Reis is an entirely unreliable data source. We switched over from CoStar last year because it was just kind of mediocre.
-
-Can anyone recommend...</div><a href="/forums/reiscostar-alternatives">Reis/CoStar alternatives?</a></span></span>
+                <span class="field-content"><a href="/forums/how-to-invest-as-interest-rates-rise">How to invest as interest rates rise?</a></span>
   </div>
 </li>
           <li class="views-row views-row-8 views-row-even">  
   <div class="views-field-title">
-                <span class="field-content"><span class="qtip-link"><div class="qtip-tooltip">Hey -- asking for a friend who will be having a prelim interview with abrams bison (DC area, bottom-up shop, ~$500M aum). does anybody know what sort of questions they ask and what the interview process is like? thanks a lot...</div><a href="/forums/abrams-bison">abrams bison?</a></span></span>
+                <span class="field-content"><a href="/blog/on-student-loan-debt">On Student Loan Debt</a></span>
   </div>
 </li>
           <li class="views-row views-row-9 views-row-odd">  
   <div class="views-field-title">
-                <span class="field-content"><span class="qtip-link"><div class="qtip-tooltip">&lt;img src="http://www.sweetcomments.net/images/i-love/i_love_san_francisco.gif" border="0" &gt;&lt;/img&gt;
-For those who work, live and play in the Bay Area, finance related.
-
-Intro: some advice on living here in Gifs, from &lt;a...</div><a href="/forums/san-francisco-bay-area-investment-professionals-bankers-vcs-and-pe">San Francisco Bay Area Investment Professionals, Bankers, VCs and PE</a></span></span>
+                <span class="field-content"><a href="/forums/getting-a-bb-fall-semester-internship-how-to-ask">Getting a BB Fall Semester Internship &amp; How to Ask</a></span>
   </div>
 </li>
           <li class="views-row views-row-10 views-row-even">  
   <div class="views-field-title">
-                <span class="field-content"><span class="qtip-link"><div class="qtip-tooltip">Hey WSO,
-Want to pick your brains a little regarding this dilemma. If my ultimate goal is to work in the &lt;span class='keyword_link'&gt;&lt;a...</div><a href="/forums/business-valuation-vs-sfa-at-tech">Business Valuation Vs. SFA at Tech </a></span></span>
+                <span class="field-content"><a href="/forums/ties-for-interviews">Ties for Interviews</a></span>
   </div>
 </li>
           <li class="views-row views-row-11 views-row-odd">  
   <div class="views-field-title">
-                <span class="field-content"><span class="qtip-link"><div class="qtip-tooltip">I was invited to interview for CAPCos associate talent rotational program. The website is kinda hard to navigate and somewhat vague as to what they really do. Would this be a good path to enter out of college? What type of opportunities down the road and salary would i expect.
-
-Also, does anyone...</div><a href="/forums/capco-associate-talent-program">Capco associate talent program</a></span></span>
+                <span class="field-content"><a href="/forums/guide-to-corporate-finance-job-titles-distinguishing-between-accounting-and-finance">Guide to Corporate Finance Job titles- distinguishing between accounting and finance</a></span>
   </div>
 </li>
           <li class="views-row views-row-12 views-row-even">  
   <div class="views-field-title">
-                <span class="field-content"><span class="qtip-link"><div class="qtip-tooltip">Hey everyone, I've been lurking and reading here for a while. WSO is such a great resource, and I really appreciate everyone who takes the time to add information and answer questions. 
-
-I'm a recent Texas A&amp;M graduate (B.S. Economics), and work at a large independent, multinational...</div><a href="/forums/new-user-hopeful-trader">New User / Hopeful Trader</a></span></span>
+                <span class="field-content"><a href="/blog/pre-conference-wso-happy-hour-friday-june-27th-at-galway">Pre-Conference WSO Happy Hour: Friday June 27th at Galway</a></span>
   </div>
 </li>
           <li class="views-row views-row-13 views-row-odd">  
   <div class="views-field-title">
-                <span class="field-content"><span class="qtip-link"><div class="qtip-tooltip">Randomly felt like picking up my guitar and recording something, so I did the solo to Slither by Velvet Revolver (One of my favorites)
-Would appreciate any feedback/comments and hope you enjoy listening to it
-
-https://soundcloud.com/user9343821/slither-solo-velvet-revolver
-
-Note: I tried...</div><a href="/forums/inspiration-struck-me-today">Inspiration struck me today</a></span></span>
+                <span class="field-content"><a href="/forums/why-i-am-here">Why I am here</a></span>
   </div>
 </li>
           <li class="views-row views-row-14 views-row-even views-row-last">  
   <div class="views-field-title">
-                <span class="field-content"><span class="qtip-link"><div class="qtip-tooltip">So after having little career direction while an undergrad, yet doing solid academically (3.8 double major finance and econ) at a non target Florida state school I've recently come to the realization that I want to get into VC/PE. I've had some &lt;span...</div><a href="/forums/long-journey-adhead-non-target-to-vc-best-route">Long Journey Adhead: Non Target to VC Best Route ?</a></span></span>
+                <span class="field-content"><a href="/forums/getting-your-foot-in-the-door">Getting your foot in the door</a></span>
   </div>
 </li>
       </ul>
@@ -658,74 +767,25 @@ Note: I tried...</div><a href="/forums/inspiration-struck-me-today">Inspiration 
   
 </div> <!-- /block -->
 
-                                          
-<div id="block-custom-6" class="block block-custom">
+                                                    
+<div id="block-wsotheme-160x600_ad" class="block block-wsotheme bc-blocks">
 
-      <h2 class="title">Highest Ranked Content</h2>
   
-  <div id="highest-ranked-discussions"><table class="sticky-enabled">
- <thead><tr><th><div class="quicktabs_wrapper">
-                 <ul class="quicktabs_tabs">
-                   <li class="qtab-0 first">
-                     <a class="active" href="/highest-ranked-discussions/week">Week</a>
-                   </li>
-                   <li class="qtab-1">
-                     <a href="/highest-ranked-discussions/month">Month</a>
-                   </li>
-                   <li class="qtab-2">
-                     <a href="/highest-ranked-discussions/year">Year</a>
-                   </li>
-                   <li class="qtab-3">
-                     <a href="/highest-ranked-discussions">All Time</a>
-                   </li>
-                   <li class="qtab-4 last">
-                     <a href="/highest-ranked-comments">Comments</a>
-                   </li>
-                 </ul>
-               </div></th> </tr></thead>
-<tbody>
- <tr class="odd"><td><span class="qtip-link"><div class="qtip-tooltip">Students around the world: WSO is now accepting applications to be a Campus Rep at your school for the 2013-14 school year.  We are looking for motivated students with a solid work ethic and strong communication skills who are willing to commit for the entire 2013-14 school year (or remainder of...</div><a href="/forums/wso-campus-representative-program">WSO Campus Representative Program </a></span></td> </tr>
- <tr class="even"><td><span class="qtip-link"><div class="qtip-tooltip">You can't just be a good modeling monkey to impress your bosses. Along with &lt;span class='keyword_link'&gt;&lt;a href="http://wallstreetprep.go2cloud.org/aff_c?offer_id=2&amp;aff_id=1000&amp;source=InText" target="_blank"&gt;financial...</div><a href="/blog/know-these-10-pieces-of-lingo-for-private-equity-and-venture-capital">Know These 10 Pieces of Lingo for Private Equity and Venture Capital </a></span></td> </tr>
- <tr class="odd"><td><span class="qtip-link"><div class="qtip-tooltip">&lt;em&gt;Mod note: Blast from the Past - "Best of Eddie." This was originally posted in July 2011.&lt;/em&gt;
-
-I was pretty nervous my first day in the business. I'll admit it. Before I got hired, I thought I knew a good deal about the market. Filing into that conference room...</div><a href="/blog/30-30-30">30-30-30</a></span></td> </tr>
- <tr class="even"><td><span class="qtip-link"><div class="qtip-tooltip">As the exam approaches, we hope you're finishing up the last of your planned practice exams! Our &lt;a href="/cfa-results-analysis.html" title=""&gt;CFA Analysis shows that passing candidates average one full practice exam more than failing candidates&lt;/a&gt;, so make...</div><a href="/blog/8-easily-avoidable-mistakes-that-candidates-make-at-every-cfa-exam">8 Easily Avoidable Mistakes That Candidates Make At Every CFA Exam</a></span></td> </tr>
- <tr class="odd"><td><span class="qtip-link"><div class="qtip-tooltip">&lt;em&gt;Mod Note: This is a syndication from Jared's Daily Dirtnap daily market newsletter. WSO readers qualify for a $100 discount...just email info@dailydirtnap.com<script type="text/javascript">
-/* <![CDATA[ */
-(function(){try{var s,a,i,j,r,c,l,b=document.getElementsByTagName("script");l=b[b.length-1].previousSibling;a=l.getAttribute('data-cfemail');if(a){s='';r=parseInt(a.substr(0,2),16);for(j=2;a.length-j;j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}s=document.createTextNode(s);l.parentNode.replaceChild(s,l);}}catch(e){}})();
-/* ]]> */
-</script> and mention "WSO Monkey Discount" You can follow Jared on twitter at @dailydirtnap&lt;/em&gt;
-
-People often...</div><a href="/blog/stick-with-the-winners">STICK WITH THE WINNERS</a></span></td> </tr>
- <tr class="even"><td><span class="qtip-link"><div class="qtip-tooltip">I got a lot of help reading WSO when I was an undergrad and wanted to contribute somehow. Wanted to drop my 2 cents, as I feel like &lt;span class='keyword_link'&gt;&lt;a href="http://www.wallstreetoasis.com/guide/consulting-case-interviews"&gt;MBB&lt;/a&gt;&lt;/span&gt; is...</div><a href="/forums/why-i-think-you-should-take-a-corporate-strategy-gig-over-consulting-including-mbb-at-the-ent">Why I think you should take a corporate strategy gig over consulting (including MBB) at the entry-level </a></span></td> </tr>
- <tr class="odd"><td><span class="qtip-link"><div class="qtip-tooltip">&lt;p&gt;So you found out just a &lt;i&gt;little bit &lt;/i&gt;late that you want—&lt;i&gt;need&lt;/i&gt;—to be an investment banker. Maybe you just missed OCR. Or maybe you didn’t get a job through OCR and are scrambling, still with no luck. Or maybe you are a year removed from undergrad...</div><a href="/blog/fashionably-late-6-steps-for-off-cycle-recruiting">Fashionably Late: 6 Steps for Off-Cycle Recruiting</a></span></td> </tr>
- <tr class="even"><td><span class="qtip-link"><div class="qtip-tooltip">I received a ton of PMs from my recent article (http://www.wallstreetoasis.com/forums/from-non-target-to-bb-ceo-my-story) and I'll never get to all of them. &nbsp;Someone had suggested I do a column like Dear Abby, to pay it forward to the young people trying to make their mark on Wall Street....</div><a href="/forums/introducing-ask-dickfuld">INTRODUCING:  'Ask DickFuld'</a></span></td> </tr>
- <tr class="odd"><td><span class="qtip-link"><div class="qtip-tooltip">Call me crazy, but the amount of disruption that &lt;span class='keyword_link'&gt;&lt;a href="http://www.wallstreetoasis.com/company/amazon" rel="nofollow" target="_blank"&gt;Amazon&lt;/a&gt;&lt;/span&gt; has caused in global business leads me to believe...</div><a href="/forums/is-jeff-bezos-the-new-steve-jobs">Is Jeff Bezos the "new" Steve Jobs? </a></span></td> </tr>
- <tr class="even"><td><span class="qtip-link"><div class="qtip-tooltip">&lt;em&gt;Mod Note (Andy): Interview/AMA Tuesday! To see our full list of interviews/AMA's, check out &lt;strong&gt;&lt;a href="http://www.wallstreetoasis.com/faq/what-are-the-best-qa-threads-and-interviews-with-top-finance-professionals-on-wso"&gt;this...</div><a href="/forums/plant-controller-at-a-f500-ask-me-anything">Plant Controller at a F500 - Ask me anything</a></span></td> </tr>
-</tbody>
-</table>
-<div class="more-link"><a href="/highest-ranked-discussions/week">more</a></div></div>
+  <!-- 160x600 --><div id="div-gpt-ad-1385725232855-0" style="width:160px; height:600px;" class="ad_160x600"><script type="text/javascript">if (!(isMobileDevice()) && typeof googletag != "undefined"){googletag.cmd.push(function() { googletag.display('div-gpt-ad-1385725232855-0'); });}</script></div>
   
 </div> <!-- /block -->
 
-                                                
-<div id="block-block-74" class="block block-block bc-blocks">
-
-  
-  <p></p><center><p></p>
-<!-- 160x600 --><!-- 160x600 --><script type="text/javascript">
-GA_googleFillSlot("160x600");
-</script><p></p></center><p></p>
-
-  
-</div> <!-- /block -->
-
-                                          
+                                              
 <div id="block-views-calendar-block_1" class="block block-views">
 
       <h2 class="title">Upcoming Events</h2>
   
-  <div class="view view-calendar view-id-calendar view-display-id-block_1 view-dom-id-1">
+  <div class="view view-calendar view-id-calendar view-display-id-block_1 view-dom-id-2">
+      <div class="views-admin-links views-hide">
+      <ul class="links"><li class="0 first"><a href="/admin/build/views/edit/calendar?destination=user%2F74720%2Fedit#views-tab-block_1">Edit</a></li>
+<li class="1"><a href="/admin/build/views/export/calendar">Export</a></li>
+<li class="2 last"><a href="/admin/build/views/clone/calendar">Clone</a></li>
+</ul>    </div>
         <div class="view-header">
       <style type="text/css">
 .calendar-calendar .links .calendar {
@@ -740,20 +800,47 @@ GA_googleFillSlot("160x600");
     <ul>
           <li class="views-row views-row-1 views-row-odd views-row-first">  
   <div class="views-field-title">
-                <span class="field-content"><a href="/event/advanced-excel-for-finance-professionals-webcast-2">Advanced Excel for Finance Professionals Webcast</a></span>
+                <span class="field-content"><a href="/event/webinar-pe-investment-case-presentation-how-the-deal-process-works-qa-730pm-et-62314">Webinar: PE Investment Case Presentation &amp; How the Deal Process Works + Q&amp;A -- 730pm ET, 6/23/14</a></span>
   </div>
   
   <div class="views-field-field-event-date-value">
-                <span class="field-content"><span class="date-display-single">Dec 10 2013 - <span class="date-display-start">6:00pm</span><span class="date-display-separator"> - </span><span class="date-display-end">9:00pm</span></span></span>
+                <span class="field-content"><span class="date-display-single">Jun 23 2014 - <span class="date-display-start">7:30pm</span><span class="date-display-separator"> - </span><span class="date-display-end">8:30pm</span></span></span>
   </div>
 </li>
-          <li class="views-row views-row-2 views-row-even views-row-last">  
+          <li class="views-row views-row-2 views-row-even">  
   <div class="views-field-title">
-                <span class="field-content"><a href="/event/financial-and-valuation-modeling-boot-camp-new-york-city-2">Financial and Valuation Modeling Boot Camp (New York City)</a></span>
+                <span class="field-content"><a href="/event/financial-valuation-modeling-boot-camp-chicago">Financial &amp; Valuation Modeling Boot Camp (Chicago)</a></span>
   </div>
   
   <div class="views-field-field-event-date-value">
-                <span class="field-content"><span class="date-display-start">Jan 30 2014 - 8:00am</span><span class="date-display-separator"> - </span><span class="date-display-end">Feb 1 2014 - 5:00pm</span></span>
+                <span class="field-content"><span class="date-display-start">Jun 25 2014 - 8:00am</span><span class="date-display-separator"> - </span><span class="date-display-end">Jun 27 2014 - 5:00pm</span></span>
+  </div>
+</li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/event/pre-conference-wso-happy-hour-friday-june-27th-at-galway">Pre-Conference WSO Happy Hour: Friday June 27th at Galway</a></span>
+  </div>
+  
+  <div class="views-field-field-event-date-value">
+                <span class="field-content"><span class="date-display-single">Jun 27 2014 - 8:00pm</span></span>
+  </div>
+</li>
+          <li class="views-row views-row-4 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/event/financial-valuation-modeling-boot-camp-nyc">Financial &amp; Valuation Modeling Boot Camp (NYC)</a></span>
+  </div>
+  
+  <div class="views-field-field-event-date-value">
+                <span class="field-content"><span class="date-display-start">Jul 10 2014 - 8:00am</span><span class="date-display-separator"> - </span><span class="date-display-end">Jul 12 2014 - 5:00pm</span></span>
+  </div>
+</li>
+          <li class="views-row views-row-5 views-row-odd views-row-last">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/event/boston-happy-hour-710-beantown-pub">Boston Happy Hour 7/10 @ Beantown Pub</a></span>
+  </div>
+  
+  <div class="views-field-field-event-date-value">
+                <span class="field-content"><span class="date-display-single">Jul 10 2014 - <span class="date-display-start">6:00pm</span><span class="date-display-separator"> - </span><span class="date-display-end">11:00pm</span></span></span>
   </div>
 </li>
       </ul>
@@ -773,21 +860,33 @@ GA_googleFillSlot("160x600");
   
 </div> <!-- /block -->
 
-                                                
+                                                    
 <div id="block-block-60" class="block block-block bc-blocks">
 
   
-  <p></p><center><a href="http://wallstreetprep.go2cloud.org/aff_c?offer_id=2&amp;aff_id=1000&amp;source=300x250BelowFold" rel="nofollow"><img src="http://www.wallstreetoasis.com/files/WSP-300x250-3.JPG" width="300" height="250"></a></center><img src="http://wallstreetprep.go2cloud.org/aff_i?offer_id=2&amp;aff_id=1000&amp;source=300x250BelowFold" width="1" height="1"><p></p>
+  <p></p><center><p></p>
+<!-- 300x600UpperMiddleRightColumn --><!-- 300x600UpperMiddleRightColumn --><div id="div-gpt-ad-1394144853188-0" style="width:300px; height:600px;">
+<script type="text/javascript">
+if (typeof googletag != "undefined") {
+  googletag.cmd.push(function() { googletag.display('div-gpt-ad-1394144853188-0'); });
+}
+</script></div>
+<p></p></center><p></p>
 
   
 </div> <!-- /block -->
 
-                                          
+                                              
 <div id="block-views-recent_jobs-block_1" class="block block-views">
 
       <h2 class="title">Recent Jobs</h2>
   
-  <div class="view view-recent-jobs view-id-recent_jobs view-display-id-block_1 view-dom-id-1">
+  <div class="view view-recent-jobs view-id-recent_jobs view-display-id-block_1 view-dom-id-3">
+      <div class="views-admin-links views-hide">
+      <ul class="links"><li class="0 first"><a href="/admin/build/views/edit/recent_jobs?destination=node%2F232014#views-tab-block_1">Edit</a></li>
+<li class="1"><a href="/admin/build/views/export/recent_jobs">Export</a></li>
+<li class="2 last"><a href="/admin/build/views/clone/recent_jobs">Clone</a></li>
+</ul>    </div>
     
   
   
@@ -796,27 +895,27 @@ GA_googleFillSlot("160x600");
     <ul>
           <li class="views-row views-row-1 views-row-odd views-row-first">  
   <div class="views-field-title">
-                <span class="field-content"><a href="/jobs/2nd-or-3rd-year-investment-banking-analyst-healthcare-new-york">2nd or 3rd year Investment Banking Analyst Healthcare - New York</a></span>
+                <span class="field-content"><a href="/jobs/investment-banking-analyst-irvine-ca">Investment Banking Analyst - Irvine, CA</a></span>
   </div>
 </li>
           <li class="views-row views-row-2 views-row-even">  
   <div class="views-field-title">
-                <span class="field-content"><a href="/jobs/equity-analyst-1">Equity Analyst</a></span>
+                <span class="field-content"><a href="/jobs/analyst-debt-capital-markets-syndications-new-york">Analyst - Debt Capital Markets (Syndications) - New York</a></span>
   </div>
 </li>
           <li class="views-row views-row-3 views-row-odd">  
   <div class="views-field-title">
-                <span class="field-content"><a href="/jobs/junior-account-analyst-entry-level-finance">Junior Account Analyst (Entry Level Finance)</a></span>
+                <span class="field-content"><a href="/jobs/analyst-real-estate-credit-risk-management-new-york">Analyst - Real Estate Credit Risk Management - New York</a></span>
   </div>
 </li>
           <li class="views-row views-row-4 views-row-even">  
   <div class="views-field-title">
-                <span class="field-content"><a href="/jobs/2nd-or-3rd-year-investment-banking-analyst-retail-new-york-ny">2nd or 3rd year Investment Banking Analyst (Retail) - New York, NY</a></span>
+                <span class="field-content"><a href="/jobs/senior-analyst">Senior Analyst</a></span>
   </div>
 </li>
           <li class="views-row views-row-5 views-row-odd views-row-last">  
   <div class="views-field-title">
-                <span class="field-content"><a href="/jobs/equity-derivatives-trade-operations-support-entry-level-finance">Equity Derivatives Trade Operations Support (Entry Level Finance)</a></span>
+                <span class="field-content"><a href="/jobs/analyst-credit-risk-management-new-york">Analyst - Credit Risk Management - New York</a></span>
   </div>
 </li>
       </ul>
@@ -834,71 +933,104 @@ GA_googleFillSlot("160x600");
   
 </div> <!-- /block -->
 
-                                                
+                                                    
 <div id="block-block-100" class="block block-block bc-blocks">
 
   
-  <p></p><center><br>
-<div style="width:195px; text-align:center;"><iframe src="http://www.eventbrite.com/countdown-widget?eid=7301724655" frameborder="0" height="277" width="195" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true"></iframe><br>
-<div style="font-family:Helvetica, Arial; font-size:10px; padding:5px 0 5px; margin:2px; width:195px; text-align:center;"><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com/r/ecount" rel="nofollow">Event Registration Online</a><span style="color:#ddd;"> for </span><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://wsocon2014.eventbrite.com?ref=ecount" rel="nofollow">Wall Street Oasis Conference - 2014</a> <span style="color:#ddd;">powered by</span> <a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com?ref=ecount" rel="nofollow">Eventbrite</a></div>
-</div>
-<p></p></center><p></p>
+  <p></p><center><a href="https://www.eventbrite.com/e/wall-street-oasis-conference-2014-tickets-7301724655?ref=ecount" rel="nofollow"><img src="http://www.wallstreetoasis.com/files/WSO-Conference-Banner2.png"></a></center><p></p>
 
   
 </div> <!-- /block -->
 
-                                          
+                                              
 <div id="block-poll-0" class="block block-poll">
 
       <h2 class="title">Poll</h2>
   
-  <form action="/blog/wso-stock-pick-contest-4-amzn" accept-charset="UTF-8" method="post" id="poll-view-voting">
-<div><div class="poll">
-  <div class="vote-form">
-    <div class="choices">
-              <div class="title">2013 College Graduates: Do you have a FT Job?:</div>
-            <div class="form-radios"><div class="form-item" id="edit-choice-0-wrapper">
- <label class="option" for="edit-choice-0"><input type="radio" id="edit-choice-0" name="choice" value="0" class="form-radio"> Yes, and very happy</label>
+  
+<div class="poll">
+  <div class="title">Interns - How has your summer internship been so far?</div>
+  
+<div class="text">Love it</div>
+<div class="bar">
+  <div style="width: 19%;" class="foreground"></div>
 </div>
-<div class="form-item" id="edit-choice-1-wrapper">
- <label class="option" for="edit-choice-1"><input type="radio" id="edit-choice-1" name="choice" value="1" class="form-radio"> Yes, but not my first choice </label>
+<div class="percent">
+  19%
 </div>
-<div class="form-item" id="edit-choice-2-wrapper">
- <label class="option" for="edit-choice-2"><input type="radio" id="edit-choice-2" name="choice" value="2" class="form-radio"> Yes, but hate it </label>
-</div>
-<div class="form-item" id="edit-choice-3-wrapper">
- <label class="option" for="edit-choice-3"><input type="radio" id="edit-choice-3" name="choice" value="3" class="form-radio"> No, still looking, prospects look good </label>
-</div>
-<div class="form-item" id="edit-choice-4-wrapper">
- <label class="option" for="edit-choice-4"><input type="radio" id="edit-choice-4" name="choice" value="4" class="form-radio"> No, still looking, prospects look bad</label>
-</div>
-<div class="form-item" id="edit-choice-5-wrapper">
- <label class="option" for="edit-choice-5"><input type="radio" id="edit-choice-5" name="choice" value="5" class="form-radio"> N/A </label>
-</div>
-</div>    </div>
-    <input type="submit" name="op" id="edit-vote" value="Vote" class="form-submit big-green-button">
-  </div>
-    <input type="hidden" name="form_build_id" id="form-yDbqe_0r4P3t11_NrjiJetWJZU_nupyeye6mkGlBHI0" value="form-yDbqe_0r4P3t11_NrjiJetWJZU_nupyeye6mkGlBHI0">
-<input type="hidden" name="form_token" id="edit-poll-view-voting-form-token" value="f39dd0df745c48ec3501a0ef4349ee3f">
-<input type="hidden" name="form_id" id="edit-poll-view-voting" value="poll_view_voting">
-<a href="/node/202578/results" id="poll-view-result">View the current poll results.</a></div>
 
-</div></form>
+<div class="text">Really tough, but good experience </div>
+<div class="bar">
+  <div style="width: 7%;" class="foreground"></div>
+</div>
+<div class="percent">
+  7%
+</div>
+
+<div class="text">Going OK, could be better could be worse</div>
+<div class="bar">
+  <div style="width: 20%;" class="foreground"></div>
+</div>
+<div class="percent">
+  20%
+</div>
+
+<div class="text">Too easy, spend all day on WSO and Reddit </div>
+<div class="bar">
+  <div style="width: 16%;" class="foreground"></div>
+</div>
+<div class="percent">
+  16%
+</div>
+
+<div class="text">Lots of work AND very boring/not learning anything, when does it end? </div>
+<div class="bar">
+  <div style="width: 6%;" class="foreground"></div>
+</div>
+<div class="percent">
+  6%
+</div>
+
+<div class="text">Horrible, I'm even considering switching career paths</div>
+<div class="bar">
+  <div style="width: 0%;" class="foreground"></div>
+</div>
+<div class="percent">
+  0%
+</div>
+
+<div class="text">N/A - not an intern </div>
+<div class="bar">
+  <div style="width: 33%;" class="foreground"></div>
+</div>
+<div class="percent">
+  33%
+</div>
+  <div class="total">
+    Total votes: 89  </div>
+</div>
+<div class="links"><ul class="links"><li class="comment_forbidden first"><span><a class="test" href="/user/register?destination=comment/reply/240516#comment-form">Post Comment</a></span></li>
+<li class="private-message"><a href="/user/register?origin=pm"><div class="wso_private_message_icon wso_icons">&nbsp;</div></a></li>
+<li class="node_reply"><a href="# " title="Reply"><div class="wso_comment_icon wso_icons">&nbsp;</div></a></li>
+<li class="0 last"><a href="/poll" title="View the list of polls on this site.">Older polls</a></li>
+</ul></div>
 
   
 </div> <!-- /block -->
           
-                                                
+                                                    
 <div id="block-block-110" class="block block-block bc-blocks">
 
   
   <!-- 300x250MiddlePageRightColumn --><!-- 300x250MiddlePageRightColumn --><script type="text/javascript">
+if (!(navigator.userAgent.match(/(iPhone|iPod|Android)/) && navigator.userAgent.match(/(iPhone|iPod|Android)/) != null) && typeof GA_googleFillSlot == 'function') { 
 GA_googleFillSlot("300x250MiddlePageRightColumn");
+}
 </script>
   
 </div> <!-- /block -->
 
-                                          
+                                              
 <div id="block-custom-2" class="block block-custom">
 
       <h2 class="title">Silver Banana Rankings</h2>
@@ -922,23 +1054,23 @@ GA_googleFillSlot("300x250MiddlePageRightColumn");
   <table class="sticky-enabled">
  <thead><tr><th>User</th><th>Silver Bananas</th> </tr></thead>
 <tbody>
- <tr class="odd"><td>Edmundo Braverman</td><td>1344</td> </tr>
- <tr class="even"><td>TNA</td><td>1287</td> </tr>
- <tr class="odd"><td>CompBanker</td><td>995</td> </tr>
- <tr class="even"><td>IlliniProgrammer</td><td>819</td> </tr>
- <tr class="odd"><td>happypantsmcgee</td><td>796</td> </tr>
- <tr class="even"><td>UFOinsider</td><td>746</td> </tr>
- <tr class="odd"><td>BlackHat</td><td>689</td> </tr>
- <tr class="even"><td>TheKing</td><td>650</td> </tr>
- <tr class="odd"><td>SirTradesaLot</td><td>496</td> </tr>
- <tr class="even"><td>rufiolove</td><td>482</td> </tr>
+ <tr class="odd"><td>TNA</td><td>1547</td> </tr>
+ <tr class="even"><td>Edmundo Braverman</td><td>1539</td> </tr>
+ <tr class="odd"><td>CompBanker</td><td>1119</td> </tr>
+ <tr class="even"><td>IlliniProgrammer</td><td>982</td> </tr>
+ <tr class="odd"><td>BlackHat</td><td>899</td> </tr>
+ <tr class="even"><td>UFOinsider</td><td>885</td> </tr>
+ <tr class="odd"><td>happypantsmcgee</td><td>845</td> </tr>
+ <tr class="even"><td>Marcus_Halberstram</td><td>763</td> </tr>
+ <tr class="odd"><td>TheKing</td><td>747</td> </tr>
+ <tr class="even"><td>rufiolove</td><td>552</td> </tr>
 </tbody>
 </table>
 <div class="more-link"><a href="/karma/top">more</a></div>
   
 </div> <!-- /block -->
 
-                                          
+                                              
 <div id="block-userpoints-0" class="block block-userpoints">
 
       <h2 class="title">Top WSO Members</h2>
@@ -962,88 +1094,56 @@ GA_googleFillSlot("300x250MiddlePageRightColumn");
   <table class="sticky-enabled">
  <thead><tr><th>User</th><th>Banana Points</th> </tr></thead>
 <tbody>
- <tr class="odd"><td>Edmundo Braverman</td><td align="right">16054</td> </tr>
- <tr class="even"><td>TNA</td><td align="right">14745</td> </tr>
- <tr class="odd"><td>WallStreetOasis.com</td><td align="right">12873</td> </tr>
- <tr class="even"><td>UFOinsider</td><td align="right">11604</td> </tr>
- <tr class="odd"><td>IlliniProgrammer</td><td align="right">10206</td> </tr>
- <tr class="even"><td>happypantsmcgee</td><td align="right">10134</td> </tr>
- <tr class="odd"><td>CompBanker</td><td align="right">9077</td> </tr>
- <tr class="even"><td>AndyLouis</td><td align="right">7560</td> </tr>
- <tr class="odd"><td>D M</td><td align="right">6212</td> </tr>
- <tr class="even"><td>BTbanker</td><td align="right">6004</td> </tr>
+ <tr class="odd"><td>Edmundo Braverman</td><td align="right">17242</td> </tr>
+ <tr class="even"><td>TNA</td><td align="right">16333</td> </tr>
+ <tr class="odd"><td>WallStreetOasis.com</td><td align="right">13802</td> </tr>
+ <tr class="even"><td>UFOinsider</td><td align="right">12649</td> </tr>
+ <tr class="odd"><td>IlliniProgrammer</td><td align="right">11310</td> </tr>
+ <tr class="even"><td>happypantsmcgee</td><td align="right">10375</td> </tr>
+ <tr class="odd"><td>CompBanker</td><td align="right">9619</td> </tr>
+ <tr class="even"><td>AndyLouis</td><td align="right">9141</td> </tr>
+ <tr class="odd"><td>BTbanker</td><td align="right">6771</td> </tr>
+ <tr class="even"><td>D M</td><td align="right">6692</td> </tr>
 </tbody>
 </table>
 <div class="more-link"><a href="/userpoints/0" title="All users by banana points">more</a></div>
   
 </div> <!-- /block -->
-
-                                                
-<div id="block-block-115" class="block block-block bc-blocks">
-
-  
-  <script src="http://markets.wallstreetoasis.com/wallstreetoasis/widget:fcad300x250?Output=JS"></script>
-  
-</div> <!-- /block -->
-
-                                          
-<div id="block-block-114" class="block block-block">
-
-  
-  <p></p><center><p></p>
-<script src="http://markets.wallstreetoasis.com/wallstreetoasis/widget:snapshot?Output=JS"></script><p></p></center><p></p>
-
-  
-</div> <!-- /block -->
-
-                                                
-<div id="block-block-94" class="block block-block bc-blocks">
-
-  
-  <p></p><center><p></p>
-<!-- 300x600 --><!-- 300x600 --><div id="div-gpt-ad-1384298885030-0" style="width:300px; height:600px;">
-<script type="text/javascript">
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-1384298885030-0'); });
-</script></div>
-<p></p></center><p></p>
-
-  
-</div> <!-- /block -->
     
           </div>
-        </div> <!-- /sidebar-right -->
+
+	      	<script type="text/javascript">
+					<!--
+						if (isMobileDevice()){
+								$('#sidebar-right').remove();
+						}
+					//-->
+					</script>
+				</div> <!-- /sidebar-right -->
+
+
               </div> <!-- /columns-inner -->
     </div> <!-- /columns -->
   
     
     <div id="footer" class="section region">
       <div>
-            
-                                          
+                  
+                                              
 <div id="block-block-40" class="block block-block">
 
   
-  <p><span class="floatleft">© 2006-2013 WallStreetOasis.com | All Rights Reserved</span><span class="floatright"><a href="/advertise" rel="nofollow">Advertise</a> | <a href="/about-wallstreetoasiscom" rel="nofollow">About Us</a> | <a href="/contact" rel="nofollow">Contact Us</a> | <a href="/faq" rel="nofollow">FAQs</a> | <a href="/sitemap" rel="nofollow">Site Map</a> | <a href="http://www.wallstreetoasis.com/page/privacy-policy">Privacy Policy</a></span></p>
+  <p><span class="floatleft">© 2006-2014 WallStreetOasis.com | All Rights Reserved</span><span class="floatright"><a href="/advertise" rel="nofollow">Advertise</a> | <a href="/about-wallstreetoasiscom" rel="nofollow">About Us</a> | <a href="/contact" rel="nofollow">Contact Us</a> | <a href="/faq" rel="nofollow">FAQs</a> | <a href="/sitemap" rel="nofollow">Site Map</a> | <a href="http://www.wallstreetoasis.com/page/privacy-policy">Privacy Policy</a></span></p>
 
   
 </div> <!-- /block -->
 
-                                          
+                                              
 <div id="block-block-50" class="block block-block">
 
       <h2 class="title">As Seen In</h2>
   
-  <p><img src="/sites/all/themes/wso/images/footer_logos.jpg" style="width:100%;margin-top:5px;"></p>
-
-  
-</div> <!-- /block -->
-
-                                          
-<div id="block-block-73" class="block block-block">
-
-      <h2 class="title">Sister Site</h2>
-  
-  <p></p><center><a href="http://www.jdoasis.com" target="blank"><img src="http://www.jdoasis.com/sites/all/themes/wso/images/logo.jpg" width="550" height="120"></a></center><p></p>
+  <p><img src="/sites/all/themes/wso/images/footer_logos_2.jpg" style="width:100%;margin-top:5px;"></p>
 
   
 </div> <!-- /block -->
@@ -1052,38 +1152,16 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1384298885030-0');
           </div> <!-- /footer -->  
   </div> <!-- /container -->
   
-  <!-- Quantcast Tag -->
-  <script type="text/javascript">
-    var _qevents = _qevents || [];
-
-    (function() {
-      var elem = document.createElement('script');
-      elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
-      elem.async = true;
-      elem.type = "text/javascript";
-      var scpt = document.getElementsByTagName('script')[0];
-      scpt.parentNode.insertBefore(elem, scpt);
-    })();
-
-    _qevents.push({
-      qacct:"p-fflqdOdUFUt0-"
-    });
-  </script>
-
-  <noscript>
-    <div style="display:none;">
-      <img src="//pixel.quantserve.com/pixel/p-fflqdOdUFUt0-.gif" border="0" height="1" width="1" alt="Quantcast"/>
-    </div>
-  </noscript>
-  <!-- End Quantcast tag -->
-  
   <!-- Retargeting code -->
     
     
   <!-- Skimlinks -->
   <script type="text/javascript" src="http://s.skimresources.com/js/31863X894954.skimlinks.js"></script>
-    <script type="text/javascript" src="/sites/all/themes/wso/js/comment-reply-original.js"></script>
-  
+    <!--script type="text/javascript" src="/sites/all/themes/wso/js/comment-reply-original.js"></script-->
+    
+  <script type="text/javascript">jq1102('select:not(div.fivestar-form-item select)').chosen({
+	  search_contains: true
+  });</script>
   <script type="text/javascript">
 <!--//--><![CDATA[//><!--
 document.write(unescape("%3Cscript src='//hub.loginradius.com/include/js/LoginRadius.js' type='text/javascript'%3E%3C/script%3E"));
@@ -1091,8 +1169,8 @@ document.write(unescape("%3Cscript src='//hub.loginradius.com/include/js/LoginRa
 </script><script src="//hub.loginradius.com/include/js/LoginRadius.js" type="text/javascript"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-var sociallogin_loc=  "http%3A%2F%2Fwww.wallstreetoasis.com%2Fsocialloginandsocialshare%2Ftoken_handler%3Fdestination%3Dnode%252F150603&same_window=1";
-var apikey= "e39d96e8-e464-43e7-81b0-127fac0f6343"; var options={}; options.login=true; LoginRadius_SocialLogin.util.ready(function () { $ui = LoginRadius_SocialLogin.lr_login_settings;$ui.interfacesize = "";$ui.lrinterfacebackground="";$ui.noofcolumns=0;$ui.apikey = apikey;$ui.callback=sociallogin_loc; $ui.lrinterfacecontainer ="interfacecontainerdiv"; LoginRadius_SocialLogin.init(options); });
+var loc=  "http%3A%2F%2Fwww.wallstreetoasis.com%2Fsocialloginandsocialshare%2Ftoken_handler%3Fdestination%3Dnode%252F150603&same_window=1";
+var apikey= "e39d96e8-e464-43e7-81b0-127fac0f6343"; var options={}; options.login=true; LoginRadius_SocialLogin.util.ready(function () { $ui = LoginRadius_SocialLogin.lr_login_settings;$ui.interfacesize = "";$ui.lrinterfacebackground="";$ui.noofcolumns=0;$ui.apikey = apikey;$ui.callback=loc; $ui.lrinterfacecontainer ="interfacecontainerdiv"; LoginRadius_SocialLogin.init(options); });
 //--><!]]>
 </script>
 <script type="text/javascript">
@@ -1100,9 +1178,25 @@ var apikey= "e39d96e8-e464-43e7-81b0-127fac0f6343"; var options={}; options.logi
 var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-2564900-1"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
 //--><!]]>
 </script>
-<!-- Infusionsoft -->
-<script type="text/javascript" src="//il130.infusionsoft.com/app/webTracking/getTrackingCode?trackingId=8c5c84e5b78a28e8c4734a8a8eda82f2"></script>
+<div id="registration-banner-popup"><div id="registration-popup-title"><h2>These 6 FREE Financial Modeling Lessons<br> Can Help You Land Your $100k+ Dream Job</h2></div>
+<div id="registration-popup-promo"><div id="registration-popup-logo"><img id="registration-popup-img" src="/sites/all/themes/wso/images/book_Lessons.png"></div><div id="registration-popup-text"><ul><li> Our Fun Excel Training and Challenge Contest</li><li>DCF Modeling, Tons of Free Templates &amp; Video Tutorials</li><li>Valuation Lesson on Trading Comps</li><li>LBOs, Cash Flow Modeling and more!</li></ul></div><div id="registration-popup-footer">I would normally sell this for at least $200, but we're offering it for free as a sweet bribe to join our community of 250,000+ members.  See you on the inside!</div></div>
+<form action="/page/privacy-policy" accept-charset="UTF-8" method="post" id="registration-banner">
+<div><div class="banner-mail"><div class="form-item" id="edit-mail-wrapper">
+ <input type="text" maxlength="128" name="mail" id="edit-mail" size="60" value="" placeholder="Enter e-mail here" class="form-text">
+</div>
+</div><div class="hidden"><div class="form-item" id="edit-city-wrapper">
+ <label for="edit-city">City: </label>
+ <input type="text" maxlength="128" name="city" id="edit-city" size="60" value="" class="form-text">
+</div>
+</div><div class="hidden"><div class="form-item" id="edit-origin-wrapper">
+ <label for="edit-origin">Origin: </label>
+ <input type="text" maxlength="128" name="origin" id="edit-origin" size="60" value="banner" readonly="readonly" class="form-text">
+</div>
+</div><input type="submit" name="op" id="edit-submit-1" value="YES, Send Me Free Lessons!" class="form-submit big-green-button">
+<input type="hidden" name="form_build_id" id="form-7AM9IvHRHqbDgyxmPFvKuehZJ_pVfVCw2HDLGp9tLfo" value="form-7AM9IvHRHqbDgyxmPFvKuehZJ_pVfVCw2HDLGp9tLfo">
+<input type="hidden" name="form_id" id="edit-registration-banner" value="registration_banner">
+<div class="mentions-suggestions" style="display: none;"></div>
+</div></form>
+<br><div class="row connect_buttons">Lazy? Join us and get the 6 free lessons with 1 click below!<br><div class="signup_cta_on_answer"><div class="row"><div class="row connect_buttons_row"> <a id="__w2_tsCgEL6_facebook_connect_button" href="#" class="rpxnow facebook_button submit_button" onclick="return $SL.util.openWindow('https://wallstreetoasis.hub.loginradius.com/RequestHandlor.aspx?apikey=e39d96e8-e464-43e7-81b0-127fac0f6343&amp;provider=facebook&amp;callback=http%3A%2F%2Fwww.wallstreetoasis.com%2Fsocialloginandsocialshare%2Ftoken_handler%3Fdestination%3Duser%252Fregister&amp;same_window=1');" target="_blank">Sign In with Facebook</a><a id="__w2_OvVCwCR_google_connect_button" href="#" onclick="return $SL.util.openWindow('https://wallstreetoasis.hub.loginradius.com/RequestHandlor.aspx?apikey=e39d96e8-e464-43e7-81b0-127fac0f6343&amp;provider=google&amp;callback=http%3A%2F%2Fwww.wallstreetoasis.com%2Fsocialloginandsocialshare%2Ftoken_handler%3Fdestination%3Duser%252Fregister&amp;same_window=1');" target="_blank" class="rpxnow google_button submit_button">Sign In with Google</a></div></div></div></div><br> As seen in:<br><img src="/sites/all/themes/wso/images/footer_logos_2.jpg" style="width:100%;/* margin-top:5px; */"></div><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","licenseKey":"5681dd8ed6","applicationID":"2832781","transactionName":"ZFwHbRRTXhIEUkZYW10WJFoSW18PSl9dVVFsSQReA21GCABG","queueTime":0,"applicationTime":284,"ttGuid":"","agentToken":"","atts":"SBsEG1xJTRw=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
 
-<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-2.newrelic.com","5681dd8ed6","2832781","ZFwHbRRTXhIEUkZYW10WJFoSW18PSl9dVVFsSQReA21GCABG",0,339,new Date().getTime(),"","","","",""]);</script>
-
-<script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
