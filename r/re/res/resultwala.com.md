@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the resultwala.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207062518id_/http%3A//www.resultwala.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resultwala.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623120834id_/http%3A//www.resultwala.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Resultwala
-
-[](http://www.hupso.com/share/)
+# Privacy Policy - Resultwala - Exam Results,Admit Card,Answer Keys,Syllabus,Exam Pattern
 
 This Privacy Policy governs the manner in which Resultwala collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://resultwala.com](http://resultwala.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Resultwala.
 
@@ -57,12 +55,14 @@ By using this Site, you signify your acceptance of this policy and [terms of se
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 [Resultwala](http://resultwala.com/)  
 [http://resultwala.com](http://resultwala.com/)  
-resultwala@gmail.com
+admin@resultwala.com
 
 This document was last updated on November 17, 2012
 
 [](http://www.hupso.com/share/)
 
-Advertisement
+#### Subscribe, Like, Follow, Share!
 
-[](http://jobwala.net/)
+##### If you enjoyed this article, help our site get better! :D
+
+#### Never miss any updates! Subscribe to get notifications delivered directly to your inbox. It's free!
