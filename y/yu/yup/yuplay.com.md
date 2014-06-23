@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yuplay.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227215741id_/http%3A//yuplay.com/page.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yuplay.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623054956id_/http%3A//yuplay.com/page.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # YUPLAY
 
@@ -8,8 +8,7 @@ Supported payment systems
 [](https://web.archive.org/help.php?page=faq#buy) [](https://web.archive.org/help.php?page=faq#buy)  
 [](https://web.archive.org/help.php?page=faq#buy) [](https://web.archive.org/help.php?page=faq#buy)  
 [](https://web.archive.org/help.php?page=faq#buy) [](https://web.archive.org/help.php?page=faq#buy)  
-[](https://web.archive.org/help.php?page=faq#buy) [](https://web.archive.org/help.php?page=faq#buy)  
-[](https://web.archive.org/help.php?page=faq#buy)
+[](https://web.archive.org/help.php?page=faq#buy) [](https://web.archive.org/help.php?page=faq#buy)
 
 | 
 
