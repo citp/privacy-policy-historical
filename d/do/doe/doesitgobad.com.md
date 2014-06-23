@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doesitgobad.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223222508id_/http%3A//www.doesitgobad.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doesitgobad.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624004336id_/http%3A//www.doesitgobad.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Does It Go Bad?
 
