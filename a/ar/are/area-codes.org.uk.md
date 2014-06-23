@@ -1,25 +1,28 @@
-> *The following text is extracted and transformed from the area-codes.org.uk privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219023843id_/http%3A//www.area-codes.org.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the area-codes.org.uk privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623055326id_/http%3A//www.area-codes.org.uk/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy / Cookies - UK Telephone Number Guide
+# Privacy Policy / Cookies - UK Area Codes
 
 ### Your Information
 
-We do not directly collect or store personal information about you during your visit.
+We do not directly collect or store personal information about you or create cookies during your visit.
 
-We do, however, use third-party advertising companies to help pay for the running costs of the site. These companies may employ a degree of user tracking, as detailed below.
+Some of the advertisers featured on this site may use cookies and tracking technologies, as detailed below.
 
 ### Advertising and Cookies
 
-Thousands of websites, including this one, use third parties to provide their advertising. The providers used on this site are Google Adsense and Criteo.
+This site, along with thousands of others, is funded through displaying adverts provided by Google Adsense and Criteo. Such advertisers may place cookies (small data files) on users' computers to help make their advertising more relevant and measure its effectiveness.
 
-Wherever such adverts are displayed, advertisers may attempt to place cookies (small data files) on users' computers to help target and tailor its advertising. It is likely you have already visited many websites that feature such adverts, and that cookies have already been placed on your device. If this is the first site featuring adverts that you have visited, new cookies may be created on your device as a result of your visit.
+It is likely that you have already have visited many websites featuring such adverts, and that cookies have already been placed on your device. However, if you have not visited a site displaying these adverts before, new cookies may be created on your device during your visit.
 
-By using cookies and user tracking, advertisers are able to offer adverts that are more relevant and more interesting to individual users. However, you are able to control what you share with advertisers and we encourage you to:
+### Cookie and Tracking Settings - Your Options
 
-  * Make use of the 'AdChoices' icon displayed in the corner of every advert, to review or change your privacy settings.
-  * Find out about cookies and how you can control them by visiting: [www.aboutcookies.org](http://www.aboutcookies.org/).
+You may opt out of cookies and similar technologies used on this site as follows:
 
+**Advertiser-specific settings**  
+Visit [Your Online Choices](http://www.youronlinechoices.com/) to control your preferences on a company-by-company basis.
 
+**Setting your browser options**  
+Many web browsers allow you to choose what types of cookie to accept or reject. Find out about how you can control them by visiting: [www.aboutcookies.org](http://www.aboutcookies.org/).
 
 ### About Google Adsense and Privacy Choices
 
