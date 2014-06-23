@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pace.com privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120152855id_/http%3A//www.pace.com/universal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pace.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624013603id_/http%3A//www.pace.com/universal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pace
 
@@ -57,7 +57,7 @@ Cookies are small text files that are placed on your computer by websites that y
 
 The table below explains the cookies we use and why.
 
-**Cookie** | **Name** | **Purpose** | **More Information**  
+**Cookie**|  **Name**|  **Purpose**|  **More Information**  
 ---|---|---|---  
   
 Essential site cookie
@@ -237,6 +237,4 @@ We may amend this Privacy Policy from time to time. If we make any substantial c
 
 ## EU Safe Harbor Privacy Policy
 
-The European Commission’s Directive on Data Protection went into effect in October of 1998 regarding the transfer of personal data to non-European Union countries. However, a streamlined means for U.S. organizations to comply with the Directive, was adopted in cooperation with the U.S. Department of Commerce and the European Commission. Together they developed a "Safe Harbor" framework where both can share the goal of enhancing privacy protection for their citizens. The following link states the EU Safe Harbor Privacy Policy for Pace.  [http://www.pace.com/universal/privacy-policy/eusafe-harbor/](https://web.archive.org/universal/privacy-policy/eusafe-harbor/)
-
-To learn more about the Safe Harbor program, and view the 2Wire, Inc. d/b/a Pace Americas’ certification, please visit <http://www.export.gov/safeharbor/>
+The following link states the EU Safe Harbor Privacy Policy for Pace.  [http://www.pace.com/universal/privacy-policy/eusafe-harbor/](https://web.archive.org/universal/privacy-policy/eusafe-harbor/)
