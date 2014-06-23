@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sgi.com privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123200724id_/http%3A//www.sgi.com/company_info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sgi.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623155611id_/http%3A//www.sgi.com/company_info/privacy.html) for the most accurate reproduction.*
 
 # SGI - Company Info: Privacy Policy
 
