@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the ghacks.net privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211020924id_/http%3A//www.ghacks.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ghacks.net privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623213022id_/http%3A//www.ghacks.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy |
+# Privacy Policy | gHacks Technology News
 
 Below is information regarding ghacks.net's commitment to protect the privacy of users and to ensure the integrity of the Internet.  
-(This Privacy Policy was last revised on May 22, 2008.)
+(This Privacy Policy was last revised on December  24, 2013.)
 
 Internet user privacy is of paramount importance to Ghacks.net. The success of our business depends upon our ability to maintain the trust of our users. If for any reason you have concerns about our software or website's privacy policies, please contact us. We are committed to ensuring that every user's needs are addressed.
 
@@ -16,6 +16,14 @@ You can send email requesting help and your email will NOT be shared in any way 
 Ads used on this website can use cookies and/or web beacons to collect data in the ad serving process. You can remove them at any time using your browser tools.
 
 If you have any questions or concerns regarding this matter, please feel free to [contact us](http://www.ghacks.net/contact/).
+
+**Ghacks Gold**
+
+Ghacks Gold is our membership program. We use several payment processors for this, and those payment processors may provide us with information about users who sign up for the service.
+
+Information provided, such as a user's email address or name, are only used to create an account on the site for said user, and to inform the user about the account creation.
+
+The data is not sold, transferred, traded, or made available in any other form to third parties.
 
 **Third Party Advertising:**
 
