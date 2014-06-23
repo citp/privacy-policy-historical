@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nsoftware.com privacy policy that was archived on 2009-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090718232522id_/http%3A//www.nsoftware.com/company/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nsoftware.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624003533id_/http%3A//www.nsoftware.com/company/legal/privacy.aspx) for the most accurate reproduction.*
 
-# /n software inc. - Privacy Policy
+# /n software - Privacy Policy
 
-Privacy Policy
+* * *
 
 /n software has established this Privacy Policy because your privacy is extremely important to us.  You provide us with personal information that you expect will be kept confidential.  Any personal information that you may provide to us will be used to provide you, our customer, better information, products and services. 
 
