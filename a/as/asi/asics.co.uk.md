@@ -1,103 +1,108 @@
-> *The following text is extracted and transformed from the asics.co.uk privacy policy that was archived on 2013-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131021104953id_/http%3A//www.asics.co.uk/about/myasics/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asics.co.uk privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623185747id_/http%3A//www.asics.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# My ASICS | Privacy policy
+# PRIVACY POLICY | asics.co.uk
 
-### About us
+We value the trust that you place in us by sharing your personal data with us. ASICS takes your privacy seriously and is committed to handling your personal data in a way that is fair and worthy of that trust. ASICS will comply with applicable data protection laws and take all reasonable steps to protect your information from misuse and keep it secure.
 
-This privacy statement applies to the websites (“Sites”) operated by ASICS Europe B.V. (“ASICS Europe”, “we”, “our” and “us”) Taurausavenue 125 (2132 LS) in Hoofddorp, The Netherlands to the processing of personal information by ASICS Europe as contemplated in this privacy policy Any reference to “you” or “your” means you, the user.
+We believe it is important to inform you about how we will use your personal data. Therefore, we encourage you to read this privacy policy carefully.
 
-ASICS Europe respects your privacy and is committed to protecting the personal information you share with us. This statement describes how we collect and use your personal information that we may collect about you trough the Sites and from our communications with you. The Sites are hosted on various servers within the European Economic Area.
+### Scope
 
-### Data Protection Laws
+This privacy policy applies to all personal data of individuals collected or used by ASICS Europe B.V. or its subsidiaries (“ASICS” or “we”) in relation to our services. This includes information received via our websites or mobile applications, information processed as part of our services to you and information collected offline at events. ASICS Europe B.V., Taurusavenue 125, 2132 LS Hoofddorp, the Netherlands and your local ASICS company are the controllers with respect to your personal data.
 
-ASICS Europe is conscious of its legal responsibilities as a “data controller” and supports the principles of data protection reflected in the Directive 95/46/EC of the European Parliament and of the Council of the European Union of 23 November 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of that data and applicable national implementing legislation. ASICS Europe shall endeavour to ensure that the personal information we obtain and use will always be held, used, transferred and otherwise processed in accordance with our legal obligations.
+### What personal data do we collect?
+
+The types of personal data we collect may include:  
+\- your name, address and contact details, such as your telephone number and e-mail address   
+\- your age and date of birth  
+- your gender  
+- your purchase details, such as the amount and date of your purchase  
+- your bank account number   
+- information in relation to your membership of one of our customer programs, such as the start date of your membership, duration of your membership, membership number and your contribution   
+- any other relevant personal data which you have shared with us, such as your preferences and interests
+
+If you are under 16 years of age, we also collect the contact details of your parents or legal guardians.
+
+We may also collect personal data in relation to your physique, condition, training schedule or sports performance. This personal data may reveal information about your health. The type of personal data we collect may include:  
+\- your foot and clothes size and other personal measurement information, such as weight, height, heart rate, blood pressure, fat percentage, BMI, strength and endurance  
+\- the running events that you partake and your track results   
+\- your current running shoe and which running type you are (underpronating, overpronating or neutral)  
+\- your training data, such as running surface, distance, frequency, race time, running route, type of training, training schedule, training history, running experience and diet  
+\- location data that shows your geographical position   
+\- any other relevant personal data which you have shared with us, such as reason for running, your photo and injuries suffered
+
+To the extent the processing of this type of information is reasonably necessary to address your request (e.g. you subscribe to a service or enter your personal data to receive the service) your consent to such processing is implied.
+
+When you visit one of our websites, we automatically collect certain technical data such as the type of computer operating system (e.g., Windows or Mac OS) and browser (e.g., Firefox, Internet Explorer) being used, your internet service provider, your IP address or, when appropriate, the address of the page that led you to visiting our website.
+
+### How we collect personal data
+
+ASICS may obtain your personal data in a number of ways, for example when you create a MY ASICS account, when you subscribe to a newsletter, when you complete an event registration form or if you participate in one of our physical tests or measurements.
+
+We also may obtain your personal data from one of our partners. For example when you register for the service of such partner and you agree that they may share your personal data with ASICS. If you do not want us to use personal data obtained from our partners, you can let us know by contacting us at the address listed below.
+
+### What we do with your personal data
+
+ASICS obtains and uses your personal data for the following purposes:
+
+\- to provide our services to you and to communicate with you in connection with these services   
+- to register you for and in connection with our events and membership programs, such as clubs and clinics   
+- to activate and maintain your my ASICS account   
+- to register you for and send you newsletters   
+- to – based on your preferences and interests   
+– suggest and provide you information about products or services (including those of relevant third parties)  
+- to conduct research and help us develop better products, services and offerings, to provide more responsive customer service and to improve the design and content our websites  
+- to process your enquiries received via our websites  
+- to improve the design and content of the websites  
+- to comply with applicable laws and regulations  
+- any other purpose indicated at the time you voluntarily provide your personal data
+
+### Marketing
+
+ASICS may from time to time use your personal data to send you automated email messages or marketing materials regarding our products and services and the products or services of third party suppliers, in each case only with your prior consent or when you are an existing customer and the email message concerns similar products or services. These email messages may contain features that help us ensure that you received the message and were able to open the message.
+
+You may opt out of receiving such marketing email messages at any time, free of charge by following the instructions in any marketing communication. You can also control these preferences in your profile settings.
+
+### Tests and measurements
+
+At your request ASICS may measure or test your physique, strength, motion and endurance (e.g. through our 3D foot shape measurement, leg alignment measurement, body composition measurement, leg strength test, running form test and aerobic test). Together with other information you have provided to us, we analyse the results of these tests and measurements to advise you, for example on how to improve your running ability, boost your performance or what shoes or clothing are most suitable for you.
+
+### Disclosing your personal data
+
+As a general rule, we do not share your personal data with anyone outside ASICS. However, we may share your personal data with trusted third parties that perform business functions (e.g. hosting of our websites, analyzing data or performing audits) or provide services on our behalf (e.g. support services). All such third parties will be required to adequately safeguard your personal data and only process it in accordance with our instructions.
+
+Sometimes ASICS offers you a service or organizes an event in a joint marketing effort with other companies. In such cases, your personal data will be shared with these companies. We will always let you know that such relationship exists and who these companies are prior to your registration. Note that these companies often have their own privacy policies that apply to the way they use your personal data. These privacy policies sometimes differ from the ASICS privacy policy. We may also disclose your personal data if disclosure is required by law.
+
+### (International) transfers of your personal data
+
+ASICS may transfer and process any personal data you provide to us to countries outside the European Economic Area whose laws may not afford the same level of protection to your personal data. ASICS will therefore ensure that all adequate safeguards are in place and that all applicable laws and regulations are complied with in connection with such transfer.
+
+### Cookies and tracking software
+
+ASICS may use “cookies” and other types of tracking software on our websites and apps. For more information, please see our [cookie policy](http://www.asics.co.uk/cookie-policy).
 
 ### Other websites
 
-There may be links from the Sites to other websites. This privacy policy only applies to the Sites and not to any other websites including any websites linked from any of the Sites. Accessing those third party websites or sources requires you to leave the Sites. ASICS Europe does not control those third party websites or any of the content they contain and you expressly acknowledge and agree that we are in no way responsible or liable for any of those third party websites, including, without limitation, the content, policies, failures, promotions, products, services or actions of those websites and/or any damages, losses, failures or problems caused by, related to or arising from those websites. ASICS Europe encourages you to review all policies, rules, terms and regulations, including the privacy policies, of each website that you visit.
+Our websites contain links to third-party websites; if you follow these links, you will exit our websites. While these third-party websites are selected with care, ASICS cannot accept liability for the use of your personal data by these organizations. For more information, please consult the privacy statement of the website you are visiting (if such a statement is provided).
 
-### How we obtain personal Information about you
+### Security and retention period
 
-ASICS Europe may as a result of your interaction with our Sites and our communications with you hold and process personal information obtained about you. The types of personal information we collect may include:
+ASICS will ensure that your personal data are properly secured, so that they are protected against unauthorised use, unauthorised access and wrongful destruction. Your personal data will be retained for as long as required for the above purposes or in so far as such is necessary for compliance with statutory obligations and for solving any disputes.
 
-  * your name, phone number, and address
-  * your email address
-  * your date of birth
-  * your foot size and personal measurement information
-  * Any other relevant personal information which you have shared with us
+### Access and correction rights
 
+You can request access to, and have the opportunity to update and amend your personal data, and you can exercise any other rights you enjoy under applicable data protection laws, including, for example, objection to the processing of your personal data, by contacting the Digital Communications team at [digitalcomms@eu.asics.com](mailto:digitalcomms@eu.asics.com). For security reasons, we reserve the right to take steps to authenticate your identity before providing access to your personal data. Subject to applicable law, we may charge you a small fee to access your personal data.
 
+### If You Are Under 16 Years of Age
 
-### How we collect and use non-personal Information
+If you are under 16 years of age, please get the consent of your parent or legal guardian before you give us any personal data about yourself. Your parent or guardian should contact us at the email address below and provide us with their name, e-mail address, street address, telephone number, and any other identifying information that we may request. ASICS needs this information in order to verify that they have provided the necessary consent. We may follow up by phone or other means in some circumstances.
 
-Please note that when anyone visits any of the Sites, we automatically collect certain non-personal information such as the type of computer operating system (e.g., Windows or Mac OS) and browser ( _e.g.,_ Firefox, Internet Explorer) being used, your internet service provider, or, when appropriate, the address of the page that led you to visiting the ASICS site. ASICS Europe sometimes uses the non-personal information that we collect to improve the design and content of the Sites and to enable us to personalise your experience.
-
-### What we do with your personal Information
-
-The personal information that you provide will be available to ASICS Europe, trusted third party service providers and contractors for the following purposes:
-
-  * to process enquiries received via the Sites
-  * to register you for and send you newsletters
-  * to activate and maintain your My ASICS account
-  * to conduct market research and business development
-  * to provide you with information about products and promotions that may be of interest to you from ourselves
-  * in connection with surveys related to our products and the Sites
-  * any other purpose indicated at the time you voluntarily provide your personal information
-
-
-
-#### Marketing
-
-ASICS Europe may from time to time use your personal information to send you automated email messages or marketing materials regarding our services and the services of third party suppliers, in each case with your prior consent or when you are an existing customer and it concerns similar products. These email messages may contain features that help us ensure that you received the message and were able to open the message.
-
-You may opt out of receiving such marketing email messages at any time, free of charge by following the instructions in any marketing communication. You can also control these parameters in your [profile settings](http://my.asics.co.uk/my/settings).
-
-#### Disclosing your personal information
-
-ASICS Europe may disclose your personal information to companies and individuals who perform business functions and services on our behalf. Such functions may include hosting the Sites, analysing data and providing other support services. All such parties will be required to keep your personal data secure and only process it in accordance with our instructions.
-
-We may also disclose your personal information if disclosure is required by law.
-
-#### (International) transfers of your personal information 
-
-ASICS Europe may transfer and process any personal information you provide to us to countries outside the European Economic Area whose laws may not afford the same level of protection to your personal information. ASICS Europe will therefore ensure that all adequate safeguards are in place and that all applicable laws and regulations are complied with in connection with such transfer.
-
-### Cookies and tracking software 
-
-ASICS Europe uses “cookies” and other types of tracking software in order to personalize your (re) visit to our Sites and enhance your experience by gaining a better understanding of your particular interests and customizing our pages for you. A cookie is a message given to a web browser by a web server and which is then stored by the browser in a text file. Each time the browser requests a page from the server this message is sent back which enables the user’s computer to be identified.
-
-ASICS Europe may use the information provided by cookies to analyze trends, administer the Sites, or for research and marketing purposes to help us better serve you. No information which personally identifies you will be collected through the cookies. If you like, you can set your browser to notify you before you receive a cookie so you have the chance to accept it and you can also set your browser to turn off all cookies. The website www.allaboutcookies.org (run by the Interactive Marketing Bureau) contains step-by-step guidance on how cookies can be switched off by users.
-
-Our Sites require the use of cookies in order to work at their best. If you do not wish these cookies to be used then please note that you may not experience our Sites working to their best effect. For more information please visit [allaboutcookies.org](http://www.allaboutcookies.org/)
-
-### Personal Data Security and Confidentiality
-
-We maintain adequate technical and organizational security measures to protect your personal information from loss, misuse, and unauthorized access, disclosure, alteration, or destruction.
-
-### Access and Correction Rights
-
-You can request access to, and have the opportunity to update and amend your personal information, and you can exercise any other rights you enjoy under applicable data protection laws, including, for example, objection to and blocking of the processing of your personal information, by contacting the Digital Communications team at digitalcomms@eu.asics.com. For security reasons, we reserve the right to take stops to authenticate your identity before providing access to your personal information. Subject to applicable law, we may charge you a small fee to access your data.
-
-### Retention of data
-
-ASICS Europe will keep your personal information for as long as necessary for the purposes for which it was collected, to provide you with services and to conduct our legitimate business interests or where otherwise required by law.
-
-### My ASICS account
-
-In the event you have registered your My ASICS account, ASICS Europe, qualifying as a controller for the My ASICS account, processes your personal data for the purpose of activating and maintaining your My ASICS account. You consent to the processing by including your personal data in the Registration Sheet and by ticking the box at the bottom of the page. The processing of your personal data will be in accordance with the Dutch Personal Data Protection Act. Your personal data may be transferred to a Third Party Service Provider contracted by ASICS.
-
-### If You Are Under 16 Years Old
-
-If you are under 16 years old, please get the consent of your parent or legal guardian before you give us any personal information about yourself by way e-mail or any other Internet means. Your parents or guardian can send us their consent by e-mail, although we may follow up by phone or other means in some circumstances. They will need to give us their name, e-mail address, street address, telephone number, and any other identifying information that we may request. ASICS Europe needs this information in order to verify that they have provided the necessary consent. Your parent or guardian should contact us by using the e-mail address: digitalcomms@eu.asics.com
-
-IF YOU ARE UNDER 16 YEARS OLD, DO NOT CONTACT US UNTIL AFTER YOUR PARENT OR GUARDIAN HAS SENT US AN E-MAIL CONSENTING TO YOUR CONTACT.
+IF YOU ARE UNDER 16 YEARS OF AGE, DO NOT CONTACT US OR PROVIDE US WITH ANY PERSONAL DATA UNTIL AFTER YOUR PARENT OR GUARDIAN HAS SENT US AN E-MAIL CONSENTING TO YOUR CONTACT AND PROVISION OF SUCH INFORMATION
 
 ### Changes to the Policy
 
-ASICS Europe reserves the right at our sole discretion, to modify, add or remove sections of this privacy policy at any time and any changes will be notified to you using the email address you have given us or by an announcement on the webpage available at the “Privacy Statement” link on the Sites. Your continued use of the Sites, following the posting of changes to this privacy policy, will mean you accept these changes.
+We may change this privacy policy from time to time by posting the updated version of the privacy policy on our websites and apps. We will give you reasonable notice of any material change. We encourage you to visit frequently to stay informed about how we use your personal data.
 
-### Privacy Queries
+### Privacy query
 
-If you have any questions regarding this policy, or you wish to update your details or remove your personal data from our records, please inform us digitalcomms@eu.asics.com
-
-Thank you for visiting the ASICS Sites of ASICS Europe.
+If you have any questions regarding this policy, or you wish to update your details or remove your personal data from our records, please inform us [digitalcomms@eu.asics.com](mailto:digitalcomms@eu.asics.com)
