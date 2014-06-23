@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dotcom-monitor.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209211459id_/http%3A//www.dotcom-monitor.com/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotcom-monitor.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623143213id_/http%3A//www.dotcom-monitor.com/privacy-statement.aspx) for the most accurate reproduction.*
 
 # Dotcom-Monitor Privacy Statement | Dotcom-Monitor
 
@@ -8,7 +8,8 @@ Category I \- Information on users who visit our site to read or download inform
 
   * The domain name through which you gained access to our Web site;
   * The precise time and date that you entered our web site.
-  * The URL of the web page through which you kinked to our web site.
+  * The URL of the web page through which you linked to our web site.
+  * General browsing information gathered via Google Adwords, retargeting, and search history.
 
 
 
