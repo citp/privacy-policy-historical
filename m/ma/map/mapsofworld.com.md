@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mapsofworld.com privacy policy that was archived on 2013-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131005145814id_/http%3A//www.mapsofworld.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mapsofworld.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623185554id_/http%3A//www.mapsofworld.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - MapsOfWorld.com
 
