@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speedtest.net.in privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219110448id_/http%3A//speedtest.net.in/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedtest.net.in privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623055515id_/http%3A//speedtest.net.in/privacy_policy) for the most accurate reproduction.*
 
 # Privacy policy - speedtest.net.in
 
