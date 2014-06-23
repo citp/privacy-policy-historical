@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nimbuzzout.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223054334id_/http%3A//www.nimbuzz.com/en/legal/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nimbuzzout.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624012559id_/http%3A//www.nimbuzz.com/en/legal/privacy-statement) for the most accurate reproduction.*
 
 # Nimbuzz Privacy:Cheap,Low Cost International Phone Calling,Calls Rates
 
@@ -86,7 +86,13 @@ Your user profile is the information you decide to provide when you create or ma
 
 ### 6\. THIRD PARTY WEBSITES AND PLATFORMS
 
-Nimbuzz Websites and Nimbuzz Services may contain links that will let you access Third Party Services such as another website or platform. Such Third Party Services are outside Nimbuzz’s control and not covered by this Privacy Statement. Nimbuzz accepts no responsibility or liability for Third Party Services. You should take care before providing any personal information to anyone and in these cases especially to review the applicable privacy statements or policies.
+Nimbuzz Websites and Nimbuzz Services may contain links that will let you access Third Party Services such as another website, platform or application. Third Party Services are outside Nimbuzz’s control and not covered by this Privacy Statement. Nimbuzz accepts no responsibility or liability for Third Party Services. You should take care before providing any personal information to anyone and in these cases especially to review the applicable privacy statements or policies.
+
+Certain Nimbuzz Services use the Google Places service provided by Google, Inc. When you use these services then you also agree to the Google Privacy Policy as set out at <http://www.google.com/policies/privacy/>.
+
+Where Nimbuzz provides the ability for you to log-in to Third Party Services using your Nimbuzz account credentials (a feature known as “Nimbuzz Connect”), then you will be asked to agree to this in each case. The particular information that those third parties will be able to access will be indicated at the time of asking for your agreement but will normally include items such as your Nimbuzz ID, nickname, email, profile picture, friend list, personal message (status) and online/offline presence.
+
+Remember that use of Third Party Services may in addition be subject to your signing up for an account with and accepting the terms and conditions of the relevant third party, including provisions relating to processing of personal data, which may differ from Nimbuzz’s policies and for which Nimbuzz is not responsible. You can view, manage and block the third party services that use your Nimbuzz ID by logging into your Nimbuzz profile at any time. If your Nimbuzz friends sign up for third party services using Nimbuzz Connect, then the information they share may include your Nimbuzz ID so that they can also connect with you on the third party service.
 
 ### 7\. HOW DOES NIMBUZZ PROTECT YOUR PERSONAL INFORMATION?
 
@@ -128,7 +134,7 @@ You may also ask Nimbuzz to stop processing your personal information. However, 
 
 Nimbuzz will retain your information for as long as is necessary to carry out any of the purposes set out in this Privacy Statement and comply with applicable legislation, and any applicable orders of regulatory bodies or courts.
 
-© Nimbuzz B.V., all rights reserved. Last revised: March 2013
+© Nimbuzz B.V., all rights reserved. Last revised: December 2013
 
   
 
