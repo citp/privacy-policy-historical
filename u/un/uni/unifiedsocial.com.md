@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the unifiedsocial.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214070714id_/http%3A//www.unifiedsocial.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unifiedsocial.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623043145id_/http%3A//www.unifiedsocial.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Unified Social
 
 Unified Social, Inc. is an enterprise social media advertising technology company. This privacy policy ("Policy") describes how we obtain and treat information on behalf of our advertisers, agencies, data partners and other businesses ("Clients") that use our advertising technology (“Platform”). This Policy also outlines our privacy practices on our corporate websites located at www.unifiedsocial.com and www.pagelever.com ("Website"). This Privacy Policy (Policy) describes how we treat personally identifiable information that we obtain via our products and services (Services), including our website (Website) and that may be provided to us by our third party partners.
 
