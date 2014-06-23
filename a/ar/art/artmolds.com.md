@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the artmolds.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211123955id_/http%3A//www.artmolds.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artmolds.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623232133id_/http%3A//www.artmolds.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
 ##### Security Statement  
-  
   
 | 
 
@@ -15,7 +14,7 @@ We guarantee that every online transaction you make will be 100% safe. This mean
   
 | 
 
-[](https://smarticon.geotrust.com/smarticonprofile?Referer=https://www.artmolds.com)
+[](https://smarticon.geotrust.com/smarticonprofile?Referer=http://www.artmolds.com/dev/)
 
 | 
 
@@ -26,7 +25,6 @@ ArtMolds uses GeoTrust, an industry leader, as it's security verification servic
 Only those web pages where you actually enter your credit card and billing information pass encrypted information. When you request one of these checkout screens, the page's URL begins with `https` instead of `http`, and the "security" icon on your browser has the appearance of a closed padlock.  
   
 ##### Privacy Statement  
-  
   
 | 
 
@@ -50,7 +48,6 @@ In the event artmolds.com or substantially all of its assets are acquired or mer
   
 ##### What if I don't want e-mail or catalogs?  
   
-  
 | 
 
 At ArtMolds, we give you the option to change your privacy settings once you have logged into our website. While logged in, click on "My Account" (located on every page of our site, in the upper right corner), then click on the link to "Update your Account Preferences".  
@@ -68,7 +65,6 @@ If you are interested in avoiding catalog mailings in general, the Direct Market
 We try hard not to mail unnecessarily to current and prospective customers who do not want to receive catalogs. Unsolicited and unwanted catalogs are very costly to us. We really appreciate your help in avoiding unwanted mailings.  
   
 ##### What are cookies, and do you use them?  
-  
   
 | 
 
@@ -88,11 +84,9 @@ If you are concerned about cookies and want to avoid keeping them on your machin
   
 ##### What other information do you collect?  
   
-  
 As you browse and order on our site, our servers log your activity and your path through artmolds.com, recording each request for a page as well as other information. ArtMolds collects and analyzes data about how visitors use this website, but we do not use this information to identify or contact individual users nor do we supply any data that could identify individual users to a third party. We use this data only to improve our site and our services. We do nothing with this information other than analyze it in aggregate, use it to diagnose occasional problems, or for audit purposes in the event of fraudulent or unscrupulous activity.  
   
-##### Policy Changes  
-
+##### Policy Changes
 
 ArtMolds provides its services to you subject to the preceding policies which may be updated and/or revised from time to time by ArtMolds without notice to you, and which become effective when posted. Please refer to this page to review our most current policies and terms of use.  
   
