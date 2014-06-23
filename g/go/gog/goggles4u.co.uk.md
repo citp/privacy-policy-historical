@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goggles4u.co.uk privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222162658id_/http%3A//www.goggles4u.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goggles4u.co.uk privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623073838id_/http%3A//www.goggles4u.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
