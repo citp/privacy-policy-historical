@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the enterwebhub.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212032042id_/http%3A//www.enterwebhub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enterwebhub.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623111953id_/http%3A//www.enterwebhub.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - EnterWebHub | EnterWebHub
+# Privacy Policy - EnterWebHub
 
 We are glad to welcome you to EnterWebHub. Please read this privacy statement to ensure that we are committed to keeping secure the privacy of our members’ (customers) details. This privacy policy outlines important information regarding the use and disclosure of User information collected via the Website. EnterWebHub  provides this privacy policy to help Users make an informed decision as to whether to use or continue using the website.
 
