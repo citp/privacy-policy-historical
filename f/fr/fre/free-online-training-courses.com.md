@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-online-training-courses.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206115040id_/http%3A//www.free-online-training-courses.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-online-training-courses.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623065458id_/http%3A//www.free-online-training-courses.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
