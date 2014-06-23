@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartphowned.com privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113080610id_/http%3A//www.smartphowned.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartphowned.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623095431id_/http%3A//www.smartphowned.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Autocorrect Fails and Funny Text Messages - SmartphOWNED
 
@@ -12,6 +12,7 @@ The types of personal information Spartz Inc collects are:
   * Information that you provide for the purposes of registering for this website
   * Information about transactions carried out over this website
   * Information you provide for the purpose of subscribing to the website services
+  * Demographic and interests reporting
   * Any other information that you send Spartz Inc
 
 
