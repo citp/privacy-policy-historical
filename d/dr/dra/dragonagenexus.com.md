@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dragonagenexus.com privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117174443id_/http%3A//dragonage.nexusmods.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dragonagenexus.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623121245id_/http%3A//www.nexusmods.com/dragonage/about/privacy) for the most accurate reproduction.*
 
 # Dragon Age - mods and community
 
