@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 777mister.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222071138id_/http%3A//777mister.com/en/page/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 777mister.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623121151id_/http%3A//777mister.com/en/page/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Casino-x.com
 
@@ -6,8 +6,9 @@
 
   * [Games](http://777mister.com/en)
   * Cashier
-  * [Payment systems](http://777mister.com/en/page/payments)
-  * [Bonuses](http://777mister.com/en/page/bonuses)
+  * [Deposits and payouts](http://777mister.com/en/page/payments)
+  * [Promo](http://777mister.com/en/page/bonuses)
+  * [Battles](http://777mister.com/en/battles)
   * [Tournaments](http://777mister.com/en/tournaments)
   * [Achievements](http://777mister.com/en/achievements)
   * [Hall of fame](http://777mister.com/en/halloffame)
@@ -32,4 +33,4 @@ Credit Card Security - using your Credit Card at Casino-x is perfectly safe. CVC
 
 If you have any other questions or concerns regarding data privacy and security please do not hesitate to contact our friendly Customer Support Team or send your questions to [support@casino-x.com](mailto:support@casino-x.com). Our representatives will be more than happy to assist you.
 
-The services and the Content on the Website are provided by Invicta Networks N.V., Curacao, Netherlands Antilles (Invicta Networks N.V. E-Commerce Park Vredenberg / Landhuis Groot Kwartier Groot Kwarierweg 12, Curacao, +442088167903) based company which is fully licensed and regulated by the laws of that country. Daughter company Brivio LTD, Address: Arch. Makariou III, 135Emelle Building, 4 floor, 3021, Limassol, Cyprus.
+The services and the Content on the Website are provided by Pomadorro N.V., Curacao, Netherlands Antilles (Pomadorro N.V. E-Commerce Park Vredenberg / Landhuis Groot Kwartier Groot Kwarierweg 12, Curacao, +442088167903) based company which is fully licensed and regulated by the laws of that country.
