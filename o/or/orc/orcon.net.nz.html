@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the orcon.net.nz privacy policy that was archived on 2013-08-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130817104630id_/http%3A//www.orcon.net.nz/about/page/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the orcon.net.nz privacy policy that was archived on 2014-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140623125345id_/http%3A//www.orcon.net.nz/about/page/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" style=""><!--<![endif]--><head>
     <meta charset="utf-8">
@@ -8,15 +8,15 @@
     <meta name="description" content="Privacy policy">
     <meta name="keywords" content="Privacy,policy">
     <title>Privacy policy</title>
-    <link rel="stylesheet" href="/css/normalize.css?201307040737">
-    <link rel="stylesheet" href="/css/main.css?201307040737">
-    <link rel="stylesheet" href="/css/uniform.default.css?201307040737">
-    <link rel="stylesheet" href="/css/jquery-ui.css?201307040737">
-    <link rel="stylesheet" href="/css/orcon.css?201307040737">
+    <link rel="stylesheet" href="/css/normalize.css?201311281531">
+    <link rel="stylesheet" href="/css/main.css?201311281531">
+    <link rel="stylesheet" href="/css/uniform.default.css?201311281531">
+    <link rel="stylesheet" href="/css/jquery-ui.css?201311281531">
+    <link rel="stylesheet" href="/css/orcon.css?201311281531">
         <!-- Section begin: RSS Feeds -->
     <link href="/support/network_status_rss" rel="alternate" type="application/rss+xml" title="Network Status RSS Feed">
     <!-- Section end: RSS Feeds -->
-    <script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/022d0e810a3f3a2f7e28c8f6971fda72c9b0f6f0.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script type="text/javascript" async="" src="//s3.amazonaws.com/ki.js/41365/7Yl.js"></script><script type="text/javascript" async="" src="http://www.google.com/cse/cse.js?cx=015597305501967643681:apqtc8yyfws"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script src="/scripts/vendor/modernizr-2.6.2.min.js"></script>
+    <script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/022d0e810a3f3a2f7e28c8f6971fda72c9b0f6f0.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script type="text/javascript" async="" src="//s3.amazonaws.com/ki.js/41365/7Yl.js"></script><script type="text/javascript" async="" src="https://www.google.com/cse/cse.js?cx=015597305501967643681:apqtc8yyfws"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script src="/scripts/vendor/modernizr-2.6.2.min.js"></script>
 
 <!-- Typekit: start. Load before jquery to prevent collision. -->
 <script src="//use.typekit.com/saa3wbx.js"></script>
@@ -40,22 +40,21 @@
 
 <!-- Orcon: start -->
 <script src="/scripts/jquery.maskedinput-1.3.1.min.js"></script>
-<script src="/scripts/functions.js?201307040737"></script>
+<script src="/scripts/functions.js?201311281531"></script>
 <!-- Orcon: end -->
 
 <!-- Google Analytics: start (sitewide) -->
 <script type="text/javascript">
-
     var _gaq = _gaq || [];
     _gaq.push(['_setAccount', 'UA-545737-1']);
     _gaq.push(['_trackPageview']);
-
     (function() {
         var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+
         ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
     })();
-
 </script>
 <!-- Google Analytics: end -->
 
@@ -92,10 +91,40 @@
 
 
 
-</head>
+
+<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 
 <body id="about-us" class="orcon">
+<div class="orcon-awesome">
+             <a href="http://awesome.orcon.net.nz" target="_blank">
+                 <img src="/img/awesome_peel.png" alt="Orcon Awesome">
+             </a>
+         </div>
+         <script type="text/javascript">
+             $(document).ready(function() {
+                 var $global = $('#global'),
+                     $awards = $('.orcon-awesome'),
+                     awardsWidth = Math.ceil($awards.outerWidth());
 
+                 $(window).resize(function() {
+                     var globalRight = Math.ceil($global.offset().left + $global.outerWidth()),
+                         minWindowWidth = globalRight + awardsWidth + 5;
+                         windowWidth = Math.floor($(window).width()),
+                         diff = windowWidth - minWindowWidth,
+                         fix = diff <= 2 ;
+
+                     //console.log('window (current/min): '+windowWidth+' /'+minWindowWidth+', diff: '+diff+', fix? '+fix);
+
+                     if (fix) {
+                         $awards.css('left', globalRight+2);
+                     } else {$awards.removeAttr('style');}
+
+                     $global.data('prevright', globalRight);
+                 });
+
+                 $(window).resize();
+             });
+         </script>
 <div id="global">
     <!-- SECTION begin : header: Use full URLs to switch from HTTPS -->
     <div id="header" class="page">
@@ -112,12 +141,12 @@
                         <li><a href="/about/careers">Careers</a></li>
             <li class="last"><a id="search-link" href="#">Search</a></li>
                     </ul>
-        <a href="http://www.orcon.net.nz/home" title="Join Us"><span id="txt-joinUs">Join us : 0800 564687</span></a>
+            <a title="Join Us" href="/home"><span id="txt-callUs"><p class="calluson">CALL US ON</p><span id="sale_or_support_contact"><span class="txt-joinUs">0800 564 687</span></span></span></a>
         <script>
     (function() {
         var cx = '015597305501967643681:apqtc8yyfws'; // Orcon Site Search
         var gcse = document.createElement('script'); gcse.type = 'text/javascript'; gcse.async = true;
-        gcse.src = (document.location.protocol == 'https' ? 'https:' : 'http:') +
+        gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
             '//www.google.com/cse/cse.js?cx=' + cx;
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(gcse, s);
     })();
@@ -134,7 +163,7 @@
             <ul>
     <li class="first"><a href="http://www.orcon.net.nz/athome.php" title="Go to the at home section">At home</a></li>
     <li class=""><a href="http://www.orcon.net.nz/atwork.php" title="Go to the at work section">At work</a></li>
-    <li class=""><a href="http://www.orcon.net.nz/ufb" title="Go to the Fibre section">Fibre</a></li>
+    <li class=""><a href="http://www.orcon.net.nz/ufb" title="Go to the Faster section">Faster</a></li>
             <li class=""><a href="http://www.orcon.net.nz/geniusgo" title="Go to the Genius Go section">Genius Go</a></li>
         <li class="last"><a href="http://www.orcon.net.nz/support" title="Go to the support section">Support</a></li>
 </ul>
@@ -192,6 +221,13 @@
 </div><!-- SECTION end : login -->
                     </div><!-- SECTION end : menu content -->
     </div><!-- SECTION end : menu -->
+
+        <script type="text/javascript">
+            var spanContact;
+            spanContact = (checkInternalIP())?'<span class="need-help">0800 13 14 15</span>':'<span class="txt-joinUs">0800 564 687</span>';
+            var $which_call = $("#sale_or_support_contact");
+            $which_call.html(spanContact) ;
+        </script>
 <div id="container" class="page">
     <div id="sidebarLeft">
         <div id="menuAside" class="sideLeft mTop15">
@@ -202,6 +238,8 @@
                 <li><a class="" href="/about"><span>Our Vision</span></a></li>
                 
                 <li><a class="" href="/about/page/about_orcon"><span>About Orcon</span></a></li>
+                
+                <li><a class="" href="/about/staff"><span>Our Team</span></a></li>
                 
                 <li><a class="" href="https://careers.orcon.net.nz"><span>Careers</span></a></li>
                 
@@ -251,16 +289,12 @@
     <!-- Full URL required to dwitch to HTTP from support/request page. -->
     <p><a class="pinkchevron" title="Go to network status" href="http://www.orcon.net.nz/support/network_status"><span>Network Status</span></a></p>
     
-    <p><span class="time">12/08/13 10:13 am</span></p>
-    <p>There are currently no known Orcon outages at this time.</p>
+    <p><span class="time">21/06/14 3:00 pm</span></p>
+    <p>No current major Network issues at this time</p>
         
 </div><!-- end networking status -->
             <div class="customersupport-small greybox">
     <p><a class="pinkchevron" title="Go to knowledge base" href="/support/"><span>Customer Support</span></a></p>
-    <div class="talktousblock">
-    <img class="staffphoto" src="/images/uploads/daisy_support.png" alt="Talk to us now">
-    <a href="/support/talk/"><span class="talktousnow">Talk To Us Now</span></a>
-    </div>
 </div>
             <!-- * -->
         </div>
@@ -278,16 +312,52 @@
         <li class="none"><a href="/about/sitemap" title="Site map">Site map</a></li>
     </ul>
     <ul class="flRight">
-        <li><a href="/site/login" title="Login">Customer Login</a></li>
+        <li><a href="https://www.orcon.net.nz/site/login" title="Login">Customer Login</a></li>
         <li><a href="/support" title="Go to support">Customer Support</a></li>
         <li class="none"><a href="/support/glossary/category/a" title="Site glossary">Glossary</a></li>
     </ul>
-    <p>Copyright © 2013 Orcon</p>
+    <p>Copyright © 2014 Orcon</p>
 </div>
 <!-- SECTION end : footer -->
 
 <div class="clear"></div>
 </div><!-- SECTION end : global -->
 
+<script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 983394566;
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    /* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+    <div style="display:inline;">
+        <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/983394566/?value=0&amp;guid=ON&amp;script=0"/>
+    </div>
+</noscript>
+<!-- Google Phone display script -->
+<script src="//awpnrws.appspot.com/rewrite3.js?span-name=txt-joinUs&amp;span-name=callus"></script>
+<!-- Google Phone display script -->
+<!--Facebook SmartPixel code -->
+<script type="text/javascript">
+    adroll_adv_id = "IL46G3LO7JEILGNNU3SGCP";
+    adroll_pix_id = "5YYDED7Q5BCFDHDEKZFVJG";
+    (function () {
+        var oldonload = window.onload;
+        window.onload = function(){
+            __adroll_loaded=true;
+            var scr = document.createElement("script");
+            var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+            scr.setAttribute('async', 'true');
+            scr.type = "text/javascript";
+            scr.src = host + "/j/roundtrip.js";
+            ((document.getElementsByTagName('head') || [null])[0] ||
+                document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+            if(oldonload){oldonload()}};
+    }());
+</script>
+<!--Facebook SmartPixel code -->
 
 </body></html>
