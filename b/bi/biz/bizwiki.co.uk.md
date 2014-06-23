@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizwiki.co.uk privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216170546id_/http%3A//www.bizwiki.co.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizwiki.co.uk privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623192933id_/http%3A//www.bizwiki.co.uk/privacy.htm) for the most accurate reproduction.*
 
 # Bizwiki UK Privacy Policy
 
@@ -17,6 +17,10 @@ What we do with the information we collect
 If you choose to provide us with Personally Identifiable Information when you contact us we use it only to respond to you. We will never sell, lease or distribute your Personally Identifiable Information unless we are required to do so by law.
 
 The Non-Personally Identifiably Information that we collect via anonymous cookies is distributed to trusted, industry regulated, third party partners who use it to show you advertising that is more relevant and interesting to you.
+
+Third party advertising
+
+We use third party advertising companies to serve ads when you visit our website. These companies may use information about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit http://www.networkadvertising.org/choices/.
 
 Security
 
