@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ytmnd.com privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113090107id_/http%3A//ytmnd.com/info/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ytmnd.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623162742id_/http%3A//ytmnd.com/info/privacy_policy) for the most accurate reproduction.*
 
 # ytmnd - you're the man now dog!
 
