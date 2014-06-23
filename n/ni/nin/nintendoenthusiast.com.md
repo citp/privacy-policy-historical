@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nintendoenthusiast.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227124535id_/http%3A//www.nintendoenthusiast.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nintendoenthusiast.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623134205id_/http%3A//nintendoenthusiast.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Nintendo Enthusiast
 
-This privacy policy sets out how “Nintendo Enthusiast” uses and protects any information that you give “Nintendo Enthusiast” when you use this website.
+This privacy policy sets out how “[Nintendo](http://nintendoenthusiast.com/) Enthusiast” uses and protects any information that you give “Nintendo Enthusiast” when you use this website.
 
-“Nintendo Enthusiast” is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.”Nintendo Enthusiast” may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 1st July, 2012. 
+“Nintendo Enthusiast” is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.”Nintendo Enthusiast” may change this policy from time to time by updatng this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 1st July, 2012. 
 
 ## What we collect
 
@@ -19,7 +19,7 @@ We may collect the following information:
 
 ## What we do with the information we gather
 
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+We require this information to understand your needs and provide you wth a better service, and in particular for the following reasons:
 
   * Internal record keeping.
   * We may use the information to improve our products and services.
@@ -33,9 +33,9 @@ We are committed to ensuring that your information is secure. In order to preven
 
 ## How we use cookies
 
-A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once yo agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+We use traffic log cookies to identify which pages are being used. This helps us analyze data about webpage traffic and improve our website in order to tailr it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
 
 Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
 
@@ -50,16 +50,16 @@ Our website may contain links to other websites of interest. However, once you h
 You may choose to restrict the collection or use of your personal information in the following ways:
 
   * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for site purposes, you may change your mind at any time by writing to or emailing us at  **ninten.enthusiast(at)gmail.com**
+  * if you have previously agreed to us using your personal information for site purposes, you may change your mind at any time by writing to or emailing at  **ninten.enthusiast(at)gmail.com**
 
 
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to sen you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998.
+You may request details of personal information which we hold about you under the Data Protection Act of 1998.
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
-#### About the Author
+##  Advertising
 
-Menashe is the Editor-in-Chief at Nintendo Enthusiast. He currently teaches in university, develops games, and writes about the video game industry. You can contact him at ninten.enthusiast@gmail.com. 
+Nintendoenthusiast.com uses third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, go to: [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
