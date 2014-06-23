@@ -1,0 +1,1094 @@
+<!--The following is the downloaded HTML source of the sbe.com privacy policy that was archived on 2014-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140623192909id_/http%3A//sbe.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en-US" class="no-js" xmlns:fb="http://ogp.me/ns/fb#" itemscope="" itemtype="http://schema.org/WebPage"><!--<![endif]--><head><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgcDWFVaGwACUlRWAAE="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+<meta charset="utf-8">
+<link rel="dns-prefetch" href="//ajax.googleapis.com">
+<link rel="dns-prefetch" href="//www.google-analytics.com">
+<meta http-equiv="cleartype" content="on">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+<title>Privacy Policy   | sbe.com</title>
+<meta name="apple-mobile-web-app-title" content="sbe.com">
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<!-- Always 320 -->
+<meta name="viewport" content="width=device-width, minimum-scale=0, maximum-scale=1.0, user-scalable=no">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<!-- Add favicons -->
+<link rel="shortcut icon" href="http://sbe.com/content/themes/sbe/img/favicon.ico">
+<link rel="apple-touch-icon" sizes="57x57" href="http://sbe.com/content/themes/sbe/img/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="114x114" href="http://sbe.com/content/themes/sbe/img/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="72x72" href="http://sbe.com/content/themes/sbe/img/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="144x144" href="http://sbe.com/content/themes/sbe/img/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="60x60" href="http://sbe.com/content/themes/sbe/img/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="120x120" href="http://sbe.com/content/themes/sbe/img/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="76x76" href="http://sbe.com/content/themes/sbe/img/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="152x152" href="http://sbe.com/content/themes/sbe/img/apple-touch-icon-152x152.png">
+<link rel="icon" type="image/png" href="http://sbe.com/content/themes/sbe/img/favicon-196x196.png" sizes="196x196">
+<link rel="icon" type="image/png" href="http://sbe.com/content/themes/sbe/img/favicon-160x160.png" sizes="160x160">
+<link rel="icon" type="image/png" href="http://sbe.com/content/themes/sbe/img/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="http://sbe.com/content/themes/sbe/img/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="http://sbe.com/content/themes/sbe/img/favicon-16x16.png" sizes="16x16">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-TileImage" content="http://sbe.com/content/themes/sbe/img/mstile-144x144.png">
+<meta name="msapplication-square70x70logo" content="http://sbe.com/content/themes/sbe/img/mstile-70x70.png">
+<meta name="msapplication-square144x144logo" content="http://sbe.com/content/themes/sbe/img/mstile-144x144.png">
+<meta name="msapplication-square150x150logo" content="http://sbe.com/content/themes/sbe/img/mstile-150x150.png">
+<meta name="msapplication-square310x310logo" content="http://sbe.com/content/themes/sbe/img/mstile-310x310.png">
+<meta name="msapplication-wide310x150logo" content="http://sbe.com/content/themes/sbe/img/mstile-310x150.png">
+
+<link rel="pingback" href="http://sbe.com/xmlrpc.php">
+<link rel="canonical" href="http://sbe.com/privacy-policy/">
+<meta property="og:title" content="Privacy Policy |  sbe.com">
+<meta property="og:type" content="blog">
+<meta property="og:site_name" content="sbe.com">
+<meta property="og:url" content="http://sbe.com/privacy-policy/">
+<meta property="og:description" content="">
+<meta property="og:image" content="http://sbe.com/content/themes/sbe/img/sharefallback.png">
+<meta property="og:image:width" content="132">
+<meta property="og:image:height" content="82">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Privacy Policy |  sbe.com">
+<meta name="twitter:url" content="http://sbe.com/privacy-policy/">
+<meta name="twitter:description" content="">
+<meta name="twitter:image" content="http://sbe.com/content/themes/sbe/img/sharefallback.png">
+<meta name="twitter:image:width" content="132">
+<meta name="twitter:image:height" content="82">
+<meta itemprop="name" content="Privacy Policy |  sbe.com">
+<meta itemprop="description" content="">
+<meta itemprop="image" content="http://sbe.com/content/themes/sbe/img/sharefallback.png">
+<meta name="robots" content="index, follow">
+<meta name="originaltitle" content="Privacy Policy | sbe.com" id="originaltitle">
+<script src="http://sbe.com/content/themes/sbe/assets/js/vendor/other/modernizr-2.6.2.min.js"></script>
+<link href="http://fonts.googleapis.com/css?family=Roboto+Slab:100,300,400" rel="stylesheet" type="text/css">
+<link type="text/css" rel="stylesheet" href="http://fast.fonts.net/cssapi/a6074a18-1b14-4cd9-bb14-b10f3d60a588.css">
+<!-- Grunt Build -->
+<!-- // GRUNT BUILD -->
+<link rel="stylesheet" type="text/css" href="http://sbe.com/content/themes/sbe/assets/css/main.min.05d39ac9.css">
+<script>
+// Adding ie10 class since conditionals don't work
+if (Function('/*@cc_on return document.documentMode===10@*/')()){
+  document.documentElement.className+=' ie10';
+}
+// Adding ie11 class since conditionals don't work
+if (Function('-ms-scroll-limit' in document.documentElement.style && '-ms-ime-align' in document.documentElement.style)()){
+  document.documentElement.className+=' ie11';
+}
+if(!!navigator.userAgent.match(/firefox/i) || ( navigator.userAgent.match(/(iPad|iPhone|iPod)/g)) || (document.all && document.querySelector) || ('-ms-scroll-limit' in document.documentElement.style && '-ms-ime-align' in document.documentElement.style)){
+document.write('<style type="text/css"> @font-face { font-family: \'sbe-ico\'; src:url(\'http://sbe.com/content/themes/sbe/assets/font/sbe-ico.eot\'); src:url(\'http://sbe.com/content/themes/sbe/assets/font/sbe-ico.eot?#iefix\') format(\'embedded-opentype\'), url(\'http://sbe.com/content/themes/sbe/assets/font/sbe-ico.woff\') format(\'woff\'), url(\'http://sbe.com/content/themes/sbe/assets/font/sbe-ico.ttf\') format(\'truetype\'), url(\'http://sbe.com/content/themes/sbe/assets/font/sbe-ico.svg#sbe-ico\') format(\'svg\'); font-weight: normal; font-style: normal);}</style>');
+}
+var wp_template_directory = "http://sbe.com/content/themes/sbe";
+</script>
+<script type="text/javascript">
+//<![CDATA[
+ajaxurl = 'http://sbe.com/wp-admin/admin-ajax.php';
+//]]>
+</script>
+<script type="text/javascript">
+nightlifeURL = "http://play.sbe.com/";
+</script>
+<meta name="google-site-verification" content="qbHXCwz9xq0Fa1oZTVXY6EnOFQ5EgftwNBjVpeYLn2A">
+<meta name="msvalidate.01" content="F2755313519F06188F14B44E05940408">
+<!-- enviroment production -->
+<link rel="shortlink" href="http://sbe.com/?p=5078">
+<!-- end head functions -->
+</head>
+
+<body class="page page-id-5078 page-template-default hnews clearfix sbe.com site-id-1">
+<!-- borders and logo / header !-->
+
+<div id="brand" class="brand " data-logo="http://sbe.com/content/themes/sbe/img/brand.png">
+  <a href="http://sbe.com/" rel="home" class="url" title="sbe.com" itemscope="" itemtype="http://schema.org/Organization">
+    <img src="http://sbe.com/content/themes/sbe/img/brand.png" alt="sbe.com">
+    <h1 class="visuallyhidden" itemprop="name">
+      sbe.com    </h1>
+    <h2 class="visuallyhidden" itemprop="description">
+      sbe Hotels Residences &amp; Casino, Restaurants, Events Planning    </h2>
+  </a>
+</div>
+
+<a href="#" class="menu-trigger left-trigger hidden-desktop hidden-tablet unstyled"><i class="ico-reorder"></i><i class="close-x">×</i></a>
+
+
+<div id="plan-event" class="plan-event">
+  <a href="#rfp" title="Plan Your Event" class="btn plan-event-inner">Plan Your Event</a>
+</div>
+
+<div class="make-reservation" id="make-reservation">
+  <a href="#" title="Make A Reservation" class="btn" data-reservations-open="#reservation_form">Book Now</a>
+</div>
+<div class="header-search">
+  <a href="#" title="Search" id="toggle-search" class="btn gray-solid" data-toggle="closed"><i class="ico-search"></i><i class="close-x">×</i><span class="visuallyhidden">Search</span></a>
+</div>
+<div id="search-field-area" class="search-field-area">
+    <div class="s-form" id="s-form">
+	<form role="search" method="get" class="search-form" action="http://sbe.com/">
+		<label>
+			<span class="screen-reader-text">Search for:</span>
+			<input type="search" class="search-field" placeholder="type to search" value="" name="s" title="Type Search" autocomplete="off">
+		</label>
+		<input type="submit" class="search-submit hidden-phone" value="Hit Enter
+to Search">
+		<!-- <input type="submit" class="search-submit hidden-desktop hidden-tablet" value="Touch&#10;To Search" /> -->
+		<div class="loadingO"></div>
+	</form>
+</div>
+<div id="search-results" class="search-results row"></div>
+</div>
+<div class="border top" id="site-border-top"></div>
+<div class="visible border left "></div>
+<div class="border right"></div>
+<!-- end borders and logo / header!-->
+
+<!-- openers !-->
+
+<div class="opener theblog">
+  <a href="/blog" class="show top bottom item-click">
+    <i class="ico-theblog-stkd"></i>
+  </a>
+</div>
+<!-- end openers !-->
+
+<!-- start left menu !-->
+<!-- Push Wrapper -->
+<div class="mp-pusher" id="mp-pusher"><div class="opener menu hidden-mobile" id="left-opener"><a href="#" id="left-trigger" class="menu-trigger left-trigger unstyled"><i class="ico-reorder"></i><i class="ico-times close-x"></i></a></div><nav id="mp-menu" class="mp-menu"><div class="mp-level level-1" data-level="1"><ul><li class="l-1 opens menu-hotels-residences-casino"><a class="icon-angle-left" data-target="#" href="#">Hotels, Residences &amp; Casino</a><!--start lvl 0!--><div class="mp-level" data-level="2">
+<a class="mp-back icon-caret-left" href="#">back</a>
+<ul>
+	<li class="l-2  menu-hotels-residences-overview"><a class="item-click track-event" href="/hotels">Hotels &amp; Residences Overview</a></li>
+	<li class="l-2  menu-sls-hotels-residences-casino"><a class="item-click track-event" href="/hotels/slshotels">SLS Hotels, Residences &amp; Casino</a></li>
+	<li class="tab l-2  menu-sls-beverly-hills"><a class="item-click track-event" href="/hotels/slsbeverlyhills">SLS Beverly Hills</a></li>
+	<li class="tab l-2  menu-sls-las-vegas-hotel-casino"><a class="item-click track-event" href="/hotels/slslasvegas">SLS Las Vegas Hotel &amp; Casino</a></li>
+	<li class="tab l-2  menu-sls-south-beach"><a class="item-click track-event" href="/hotels/slssouthbeach">SLS South Beach</a></li>
+	<li class="tab pending l-2  menu-sls-at-baha-mar-2014"><a class="item-click track-event" href="http://www.sbe.com/hotels/locations/sls-baha-mar-hotel-residences/">SLS at Baha Mar 2014</a></li>
+	<li class="tab pending l-2  menu-sls-park-avenue-new-york-2015"><a class="item-click track-event" href="/hotels/locations/sls-park-avenue/">SLS Park Avenue New York 2015</a></li>
+	<li class="tab pending l-2  menu-sls-china-2015"><a class="item-click track-event" href="/hotels/locations/sls-china/">SLS China 2015</a></li>
+	<li class="tab pending l-2  menu-sls-brickell-miami-2015"><a class="item-click track-event" href="/hotels/locations/sls-brickell-hotel-residences/">SLS Brickell Miami 2015</a></li>
+	<li class="tab pending l-2  menu-sls-lux-brickell-2016"><a class="item-click track-event" href="/hotels/locations/sls-lux-brickell/">SLS LUX Brickell 2016</a></li>
+	<li class="tab pending l-2  menu-sls-philadelphia-2016"><a class="item-click track-event" href="/hotels/locations/sls-hotel-and-residences-philadelphia/">SLS Philadelphia 2016</a></li>
+	<li class="tab pending l-2  menu-sls-seattle-2016"><a class="item-click track-event" href="/hotels/locations/sls-seattle/">SLS Seattle 2016</a></li>
+	<li class="l-2  menu-the-redbury-hotels"><a class="item-click track-event" href="/hotels/theredbury">The Redbury Hotels</a></li>
+	<li class="tab l-2  menu-the-redbury-hollywood"><a class="item-click track-event" href="/hotels/theredbury-hollywood">The Redbury Hollywood</a></li>
+	<li class="tab l-2  menu-the-redbury-south-beach"><a class="item-click track-event" href="/hotels/theredbury-southbeach">The Redbury South Beach</a></li>
+	<li class="l-2  menu-the-raleigh-south-beach"><a class="item-click track-event" href="/hotels/raleighhotel">The Raleigh South Beach</a></li>
+	<li class="l-2  menu-hyde-hotels-residences-2016"><a class="item-click track-event" href="/hotels/brands/hyde-hotel-residences-miami-2016/">Hyde Hotels &amp; Residences 2016</a></li>
+</ul>
+</div><!--end lvl 0!--></li>
+<li class="l-1 opens menu-restaurants"><a class="icon-angle-left" data-target="#" href="#">Restaurants</a><!--start lvl 0!--><div class="mp-level" data-level="2">
+<a class="mp-back icon-caret-left" href="#">back</a>
+<ul>
+	<li class="l-2  menu-restaurants-overview"><a class="item-click track-event" href="/restaurants">Restaurants Overview</a></li>
+	<li class="l-2  menu-katsuya-by-starck"><a class="item-click track-event" href="/restaurants/katsuya">Katsuya by Starck</a></li>
+	<li class="tab l-2  menu-katsuya-brentwood"><a class="item-click track-event" href="/restaurants/locations/katsuya-brentwood/">Katsuya Brentwood</a></li>
+	<li class="tab l-2  menu-katsuya-glendale"><a class="item-click track-event" href="/restaurants/locations/katsuya-glendale/">Katsuya Glendale</a></li>
+	<li class="tab l-2  menu-katsuya-hollywood"><a class="item-click track-event" href="/restaurants/locations/katsuya-hollywood/">Katsuya Hollywood</a></li>
+	<li class="tab l-2  menu-katsuya-l-a-live"><a class="item-click track-event" href="/restaurants/locations/katsuya-lalive/">Katsuya L.A. Live</a></li>
+	<li class="tab l-2  menu-katsuya-las-vegas"><a class="item-click track-event" href="http://sbe.com/restaurants/locations/katsuya-las-vegas/">Katsuya Las Vegas</a></li>
+	<li class="tab l-2  menu-katsuya-south-beach"><a class="item-click track-event" href="/restaurants/locations/katsuya-southbeach/">Katsuya South Beach</a></li>
+	<li class="tab l-2  menu-katsuya-middle-east"><a class="item-click track-event" href="/restaurants/locations/katsuya-kuwait/">Katsuya Middle East</a></li>
+	<li class="l-2  menu-the-bazaar-by-jose-andres"><a class="item-click track-event" href="/restaurants/thebazaar">The Bazaar by José Andrés</a></li>
+	<li class="tab l-2  menu-bazaar-meat-las-vegas"><a class="item-click track-event" href="http://sbe.com/restaurants/locations/bazaar-meat-las-vegas/">Bazaar Meat Las Vegas</a></li>
+	<li class="tab l-2  menu-the-bazaar-beverly-hills"><a class="item-click track-event" href="/restaurants/locations/thebazaar-beverlyhills/">The Bazaar Beverly Hills</a></li>
+	<li class="tab l-2  menu-the-bazaar-south-beach"><a class="item-click track-event" href="/restaurants/locations/thebazaar-southbeach/">The Bazaar South Beach</a></li>
+	<li class="l-2  menu-cleo"><a class="item-click track-event" href="/restaurants/cleo">Cleo</a></li>
+	<li class="tab l-2  menu-cleo-hollywood"><a class="item-click track-event" href="/restaurants/locations/cleo-hollywood/">Cleo Hollywood</a></li>
+	<li class="tab l-2  menu-cleo-las-vegas"><a class="item-click track-event" href="http://sbe.com/restaurants/locations/cleo-las-vegas/">Cleo Las Vegas</a></li>
+	<li class="l-2  menu-double-barrel-roadhouse"><a class="item-click track-event" href="/nightlife/doublebarrel/">Double Barrel Roadhouse</a></li>
+	<li class="l-2  menu-the-griddle-cafe"><a class="item-click track-event" href="http://sbe.com/restaurants/locations/the-griddle-cafe/">The Griddle Cafe</a></li>
+	<li class="l-2  menu-ku-noodle"><a class="item-click track-event" href="http://sbe.com/restaurants/locations/ku-noodle">Ku Noodle</a></li>
+	<li class="l-2  menu-tres-by-jose-andres"><a class="item-click track-event" href="/restaurants/tres">Tres by José Andrés</a></li>
+	<li class="l-2  menu-restaurant-michael-schwartz"><a class="item-click track-event" href="/restaurants/restaurantmichaelschwartz">Restaurant Michael Schwartz</a></li>
+	<li class="l-2  menu-800-degrees"><a class="item-click track-event" href="/restaurants/800degrees">800° Degrees</a></li>
+	<li class="l-2  menu-umami-burger"><a class="item-click track-event" href="/restaurants/umamiburger">Umami Burger</a></li>
+</ul>
+</div><!--end lvl 0!--></li>
+<li class="l-1 opens menu-nightlife"><a class="icon-angle-left" data-target="#" href="#">Nightlife</a><!--start lvl 0!--><div class="mp-level" data-level="2">
+<a class="mp-back icon-caret-left" href="#">back</a>
+<ul>
+	<li class="l-2  menu-nightlife-overview"><a class="item-click track-event" href="/nightlife">Nightlife Overview</a></li>
+	<li class="l-2  menu-the-abbey-food-bar"><a class="item-click track-event" href="/nightlife/theabbeyfoodandbar">The Abbey Food &amp; Bar</a></li>
+	<li class="l-2  menu-create-nightclub"><a class="item-click track-event" href="/nightlife/createnightclub">Create Nightclub</a></li>
+	<li class="l-2  menu-double-barrel-roadhouse"><a class="item-click track-event" href="/nightlife/doublebarrel/">Double Barrel Roadhouse</a></li>
+	<li class="l-2  menu-the-emerson-theatre"><a class="item-click track-event" href="/nightlife/emersontheatre">The Emerson Theatre</a></li>
+	<li class="l-2  menu-foxtail"><a class="item-click track-event" href="http://www.sbe.com/nightlife/brands/foxtail/">Foxtail</a></li>
+	<li class="l-2  menu-greystone-manor"><a class="item-click track-event" href="/nightlife/greystonemanor">Greystone Manor</a></li>
+	<li class="l-2  menu-hyde"><a class="item-click track-event" href="/nightlife/hyde">Hyde</a></li>
+	<li class="tab l-2  menu-hyde-at-americanairlines-arena"><a class="item-click track-event" href="/nightlife/locations/hyde-aareana/">Hyde at AmericanAirlines Arena</a></li>
+	<li class="tab l-2  menu-hyde-beach"><a class="item-click track-event" href="/nightlife/locations/hyde-beach/">Hyde Beach</a></li>
+	<li class="tab l-2  menu-hyde-bellagio"><a class="item-click track-event" href="/nightlife/locations/hyde-bellagio/">Hyde Bellagio</a></li>
+	<li class="tab l-2  menu-hyde-sunset-kitchen-cocktails"><a class="item-click track-event" href="/nightlife/locations/hyde-sunset/">Hyde Sunset Kitchen + Cocktails</a></li>
+	<li class="tab l-2  menu-hyde-lounge-at-staples-center"><a class="item-click track-event" href="/nightlife/locations/hyde-staplescenter/">Hyde Lounge at Staples Center</a></li>
+	<li class="l-2  menu-the-library"><a class="item-click track-event" href="/nightlife/thelibrary">The Library</a></li>
+	<li class="l-2  menu-life"><a class="item-click track-event" href="/nightlife/brands/life">LiFE</a></li>
+	<li class="l-2  menu-the-sayers-club"><a class="item-click track-event" href="/nightlife/thesayersclub">The Sayers Club</a></li>
+	<li class="tab l-2  menu-the-sayers-club-hollywood"><a class="item-click track-event" href="/nightlife/locations/thesayersclub-hollywood/">The Sayers Club Hollywood</a></li>
+	<li class="l-2  menu-xiv-sessions"><a class="item-click track-event" href="/nightlife/xivsessions">XIV Sessions</a></li>
+</ul>
+</div><!--end lvl 0!--></li>
+<li class="l-1 opens menu-events-catering"><a class="icon-angle-left" data-target="#" href="#">Events &amp; Catering</a><!--start lvl 0!--><div class="mp-level" data-level="2">
+<a class="mp-back icon-caret-left" href="#">back</a>
+<ul>
+	<li class="l-2  menu-events-catering-overview"><a class="item-click track-event" href="/events">Events &amp; Catering Overview</a></li>
+	<li class="tab l-2  menu-collins-cocktail-catering"><a class="item-click track-event" href="/events/collins-cocktail-catering/">Collins Cocktail Catering</a></li>
+	<li class="tab l-2  menu-culinary-off-site-catering"><a class="item-click track-event" href="/events/culinary-catering/">Culinary Off-Site Catering</a></li>
+</ul>
+</div><!--end lvl 0!--></li>
+<li class="l-1  menu-exclusives"><a class="item-click track-event" href="/exclusives">Exclusives</a></li>
+<li class="l-1  menu-event-calendar"><a class="item-click track-event" href="/eventcalendar">Event Calendar</a></li>
+<li class="add-menu-pad-top mobilehide l-1  menu-about-sbe"><a class="item-click track-event" href="/about">About sbe</a></li>
+<li class="l-1  menu-the-blog"><a class="item-click track-event" href="/blog">The Blog</a></li>
+<li class="mobilehide l-1  menu-news-press"><a class="item-click track-event" href="/news-accolades">News &amp; Press</a></li>
+<li class="l-1  menu-sbe-foundation"><a class="item-click track-event" href="/sbe-foundation/">sbe Foundation</a></li>
+<li class="mobilehide l-1  menu-awards"><a class="item-click track-event" href="/awards/">Awards</a></li>
+<li class="to_map l-1  menu-venue-locator"><a class="item-click track-event" href="/venuelocator/#lhn">Venue Locator</a></li>
+</ul></div></nav></div><!-- End Push Wrapper --><!-- end left menu !-->
+
+<div class="overlay" id="overlay">
+  <div class="loadingO"></div>
+</div>
+
+
+<!--start page !-->
+<div id="page">
+
+  <script>
+    window.reservation_pre_select_data = false;
+
+    window.subscribe_form_venue = false;
+
+    window.subscribe_age_verification = false;
+
+    window.subscribe_form_age_verification_required = false;
+
+    window.page_title = 'Privacy Policy';
+
+    window.newsletter_copy_override = false;
+
+    window.newsletter_disable_brand_blast = false;
+
+    window.newsletter_force_open = false;
+
+    window.wp_post_id = '5078';
+
+    window.wp_blog_id = '1';
+
+    
+  </script>
+
+
+
+  <script id="first_time_markup" type="text/html">
+   <div id="first-time-wrapper">
+  <section id="first-time" class="first-time addtop">
+            <div class="col4">
+        <ul class="unstyled relative col-0">
+                  <li class="front-photo-0 ">
+                          <img src="http://files.sbe.com/content/uploads/2014/03/altitudegroup-700x700.jpg" alt="" class="maxwidthabs excl-img" >
+              <div class="excl-img-dropshadow" ></div>
+          </li> 
+                  <li class="front-photo-1 ">
+                          <img src="http://files.sbe.com/content/uploads/2014/03/Sushibar-700x700.jpg" alt="" class="maxwidthabs excl-img" >
+              <div class="excl-img-dropshadow" ></div>
+          </li> 
+                  <li class="front-photo-2 ">
+                          <img src="http://files.sbe.com/content/uploads/2014/03/BentoBox3-700x700.jpg" alt="" class="maxwidthabs excl-img" >
+              <div class="excl-img-dropshadow" ></div>
+          </li> 
+                  <li class="front-photo-3 ">
+                          <img src="http://files.sbe.com/content/uploads/2014/03/SLSBH_Watermelon1-700x700.jpg" alt="" class="maxwidthabs excl-img" >
+              <div class="excl-img-dropshadow" ></div>
+          </li> 
+                  <li class="front-photo-4 ">
+                          <img src="http://files.sbe.com/content/uploads/2014/03/3276B__Redbury_GirlFur_Closeup-700x700.jpg" alt="" class="maxwidthabs excl-img" >
+              <div class="excl-img-dropshadow" ></div>
+          </li> 
+                  <li class="front-photo-5 ">
+                          <img src="http://files.sbe.com/content/uploads/2014/06/11214SHOT4_DancersPerform20801-700x700.jpeg" alt="" class="maxwidthabs excl-img" >
+              <div class="excl-img-dropshadow" ></div>
+          </li> 
+         
+        </ul>
+        </div>
+             <div class="col4">
+        <ul class="unstyled relative col-1">
+                  <li class="front-photo-0 resp">
+                          <img src="http://files.sbe.com/content/uploads/2014/03/groupoutside-700x700.jpg" alt="" class="maxwidthabs excl-img" >
+              <div class="excl-img-dropshadow" ></div>
+          </li> 
+                  <li class="front-photo-1 resp">
+                          <img src="http://files.sbe.com/content/uploads/2014/03/eventsSizzle-700x700.jpg" alt="" class="maxwidthabs excl-img" >
+              <div class="excl-img-dropshadow" ></div>
+          </li> 
+                  <li class="front-photo-2 ">
+                         <div class="col12 maxwidth1000 center row addtop addbottom hero-light">
+                                <div class="wisysig text-center serif-face col12 maxwidth1000 center row addbottom section-head"><h3>&#8220;Here&#8217;s to the dreamers, the explorers and those that believe lifestyle is an adventure in discovery. Welcome to sbe.&#8221;</h3>
+<h6>— Sam Nazarian, Founder, Chairman and CEO</h6>
+</div>              </div>
+              <img src="http://sbe.com//content/themes/sbe/img/blank-2.1.png" alt="" class="maxwidthabs excl-img" style="position:absolute;">
+              <li class="front-photo-3">
+                            <img src="http://files.sbe.com/content/uploads/2014/02/cleo-please-700x506.jpg" alt="" class="maxwidthabs excl-img" >
+              <div class="excl-img-dropshadow" ></div>
+          </li> 
+         
+        </ul>
+        </div>
+             <div class="col4">
+        <ul class="unstyled relative col-2">
+                  <li class="front-photo-0 ">
+                          <img src="http://files.sbe.com/content/uploads/2014/03/abbey-700x700.jpg" alt="" class="maxwidthabs excl-img" >
+              <div class="excl-img-dropshadow" ></div>
+          </li> 
+                  <li class="front-photo-1 ">
+                          <img src="http://files.sbe.com/content/uploads/2014/03/lobby-700x700.jpg" alt="" class="maxwidthabs excl-img" >
+              <div class="excl-img-dropshadow" ></div>
+          </li> 
+                  <li class="front-photo-2 ">
+                          <img src="http://files.sbe.com/content/uploads/2014/03/champagnecouple-700x700.jpg" alt="" class="maxwidthabs excl-img" >
+              <div class="excl-img-dropshadow" ></div>
+          </li> 
+                  <li class="front-photo-3 ">
+                          <img src="http://files.sbe.com/content/uploads/2014/03/Raleigh_Group_Dinner-1-700x700.jpg" alt="" class="maxwidthabs excl-img" >
+              <div class="excl-img-dropshadow" ></div>
+          </li> 
+                  <li class="front-photo-4 ">
+                          <img src="http://files.sbe.com/content/uploads/2014/03/pool-heel-lifestyle-700x700.jpg" alt="" class="maxwidthabs excl-img" >
+              <div class="excl-img-dropshadow" ></div>
+          </li> 
+                  <li class="front-photo-5 ">
+                          <img src="http://files.sbe.com/content/uploads/2014/03/couple-dining-lifestyle-700x700.jpg" alt="" class="maxwidthabs excl-img" >
+              <div class="excl-img-dropshadow" ></div>
+          </li> 
+         
+        </ul>
+        </div>
+     </section>
+
+<div class="scroll-cta-wrapper">
+  <div class="scroll-cta"><b>scroll on</b>
+      <div class="scroll-below ">
+        <a class="btn-down ico-long-arrow-down" id="scroll-more" href="#top"></a>
+      </div>
+      <a name="top" id="top"></a>
+    </div>
+  </div>
+</div>
+  </script>
+
+  <div class="side-menu-push">
+    <div id="content" class="row ">
+      <div id="main" role="main" class="container  " data-blog-id="1">
+<!-- Begin parallax Content-->
+
+<!-- IF bg img is present add parallax classes -->
+<section id="general_box_0" class="general_box non-parallax hero-light row padtop padbottom mpadding text-center" data-width="" data-height="" data-xpos="50%" data-speed="0.4" data-menu-item-title="">
+  <div style="position: relative">
+    
+    <!-- IF bg img is present add abs pos & vert-center -->
+    <div class=""> 
+      <div class="serif-face col8 maxwidth1000 center row padtop padbottom addtop addbottom ">
+        <div class="">
+                      <h6 class="sans-face text-caps text-spaced-extra">
+                          </h6>
+                    <div class="wysiwyg">
+            <p style="text-align: left;">PLEASE NOTE THAT OUR PRIVACY POLICY has changed effective April 19, 2012.</p>
+<p>If you submitted personally identifiable information to us prior to the above effective date, and desire to opt out of having that previously submitted personally identifiable information from being treated under this new policy, please contact us at <a href="mailto:privacy@sbe.com">privacy@sbe.com</a>.</p>
+<h2 style="text-align: left;">PRIVACY POLICY</h2>
+<p style="text-align: left;"><em>(Effective April 19, 2012)</em></p>
+<p>Welcome to this Internet website offered by or in connection with SBEEG Holdings, LLC (collectively, “we”, “us” or “our”). As used in this privacy policy (the “Privacy Policy”), the singular term “Website” includes all websites and all devices or applications that collect personal information from you that we or our successors, parents, subsidiaries, affiliates and related companies or other companies under a common control that we may have now or in the future (“Affiliated Companies”) operate that link to this Privacy Policy, web pages within each such website, device or application, any equivalent, mirror, replacement, substitute or backup website, device or application, and web pages that are associated with each such website, device or application.</p>
+<p>Please read the following to learn more about our Privacy Policy, which includes terms required for compliance with California Civil Code Section 1798.83.</p>
+<p>We respect your privacy and are committed to protecting personally identifiable information you may provide us through our Website. We have adopted this Privacy Policy to explain what information may be collected in connection with our Website, how we use this information (including use by our Affiliated Companies) and under what circumstances we may disclose the information to third parties. This Privacy Policy applies only to information we collect through our Website or through other means and devices described below and does not apply to our collection of information from other sources.</p>
+<p>This Privacy Policy, together with the <a href="http://www.sbe.com/terms-of-use/">Terms of Use</a> posted on our Website, sets forth the general rules and policies governing your use of our Website. Depending on your activities when visiting our Website, you may be required to agree to additional terms and conditions.</p>
+<p>We generally keep this Privacy Policy posted on our Website and you should review it frequently, as it may change from time to time without notice. Any changes will be effective immediately upon the posting of the revised Privacy Policy.&nbsp; It is your responsibility to monitor and review any updates to this Privacy Policy.&nbsp; Your continued use of this Website, or online services provided by us, after such posting, will be deemed your acceptance of these changes to our Privacy Policy. &nbsp;WHEN YOU ACCESS OUR WEBSITE, YOU AGREE TO THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, OR TO ANY CHANGES WE MAY SUBSEQUENTLY MAKE, IMMEDIATELY STOP ACCESSING OUR WEBSITE.</p>
+<p><strong>A. INFORMATION WE COLLECT </strong></p>
+<p>Our Website typically collects two kinds of information about you: (a) information that you provide that personally identifies you; and (b) information that does not personally identify you that we automatically collect when you visit our Website or that you provide us.</p>
+<p><strong>(1) Personally Identifiable Information: </strong>Our definition of “personally identifiable information” includes any information that may be used to specifically identify or contact you, such as your name, mail address, phone number, etc. As a general policy, we do not automatically collect your personally identifiable information when you visit our Website. In certain circumstances, we may request, allow or otherwise provide you an opportunity to submit your personally identifiable information in connection with a feature, program promotion or some other aspect of our Website. For instance, you may: (a) provide your name, address, email address, and phone number when registering with our Website, or in connection with a contest entry; (b) provide certain demographic information about yourself (e.g., age, gender, purchase preference, usage frequency, etc.) when participating in a survey, poll or joining a club; or (c) post a general comment and/or recommendation on our Website. Certain information may not be personally identifiable when standing alone (e.g., your age), but may become so when combined with other information (e.g., your age and name). Whether or not you provide this information is your choice; however, in many instances this type of information is required to participate in the particular activity, realize a benefit we may offer, or gain access to certain content on our Website.</p>
+<p><strong>(2) Non-Personal Information:</strong> Our definition of “non-personal information” is any information that does not personally identify you. Non-personal information can include certain personally identifiable information that has been de-identified; that is, information that has been rendered anonymous. We obtain non-personal information about you from information that you provide us, either separately or together with your personally identifiable information. We also automatically collect certain non-personal information from you when you access our Website. This information can include, among other things, IP addresses, the type of browser you are using (e.g., Internet Explorer, Firefox, Safari, etc.), the third party website from which your visit originated, the operating system you are using (e.g., Vista, Windows XP, Mac OS, etc.), the name of your Internet service provider (e.g., America Online, NetZero, etc.), the search terms you use on our Website, the specific web pages you visit, and the duration of your visits.</p>
+<p><strong>B. HOW WE USE &amp; SHARE THE INFORMATION COLLECTED </strong></p>
+<p><strong>(1) Personally Identifiable Information:</strong> The personally identifiable information you submit to us is generally used to carry out your requests, to respond to your inquiries, to better serve you, or in other ways naturally associated with the circumstances in which you provided the information. We may also use this information to later contact you for a variety of reasons, such as customer service, providing you promotional information for our products or those of our Affiliated Companies, to communicate with you about content or other information you have posted or shared with us via our Website, to manage transactions such as credit card payments for any goods that you order from us or any of our agents or for the fulfillment of such transactions (e.g., delivery).&nbsp; The personal information you provide in connection with placing an order may be used by an authorized vendor to fulfill that order. &nbsp;We may share your personally identifiable information with third parties such as our co-promotional partners and others with whom we have marketing or other relationships. We may also share your information with our business partners who assist us by performing core services (such as hosting, billing, fulfillment, data storage, security, processing credit card payments, and delivering packages) related to our operation of this Website, processing and fulfillment of product orders, and/or by making certain Website functionality available to our users.&nbsp; Those business partners will only use your information to carry out their specific business obligations to us. Except as provided in this Privacy Policy, our <a href="/terms-of-use/">Terms of Use</a>, or as set forth when you submit the information, your personally identifiable information will not be shared or sold to any third parties without your prior approval.&nbsp; You may opt-out from receiving future promotional information from us or our Affiliated Companies, or direct that we not share your information with any Affiliated Companies, as set forth below. Whether or not you opt-out is your choice; however, in many instances this type of information is required to participate in the particular activity, realize a benefit we may offer, or gain access to certain content on our Website.</p>
+<p><strong>(2) Non-Personal Information:</strong> We use non-personal information in a variety of ways, including to help analyze site traffic, understand customer needs and trends, carry out targeted promotional activities, and improve our services. We may use your non-personal information by itself or aggregate it with information we have obtained from others. We may share your non-personal information with our Affiliated Companies and third parties to achieve these objectives and others, but remember that such information is anonymous information that does not personally identify you.</p>
+<p><strong>C. OTHER USES &amp; INFORMATION </strong></p>
+<p>(<strong>1) IP Addresses:</strong> An IP address is a number that is automatically assigned to your computer whenever you are surfing the Internet. Web servers (computers that “serve up” web pages) automatically identify your computer by its IP address. When visitors request pages from our Website, our servers typically log their IP addresses. We collect IP addresses for purposes of system administration, to report non-personal aggregate information to others, and to track the use of our Website. IP addresses are considered non-personal information and may also be shared as provided in this Privacy Policy. It is not our practice to link IP addresses to anything personally identifiable; that is, the visitor’s session will be logged, but the visitor remains anonymous to us.</p>
+<p><strong>(2) Cookies, etc.: </strong>“Cookies” are small text files from a website that are stored on your hard drive. These text files make using our Website more convenient by, among other things, saving your passwords and preferences for you. Cookies themselves do not typically contain any personally identifiable information. We may analyze the information derived from these cookies and other technological tools we employ (such as clear gifs/web beacons) and match this information with data provided by you or another party. We may provide our analysis and certain non-personal information to third parties (who may in turn use this information to provide advertisements tailored to your interests), but this will not involve disclosing any of your personally identifiable information. Please note that advertisers that serve advertisements on our Website and third-party content providers that serve content on our Website may also use their own cookies and other technological tools which are subject to the advertisers’ or third-party content providers’ privacy policies, not this Privacy Policy.</p>
+<p>If you are concerned about the storage and use of cookies, you may be able to direct your internet browser to notify you and seek approval whenever a cookie is being sent to your hard drive. You may also delete a cookie manually from your hard drive through your internet browser or other programs. Please note, however, that some parts of our Website will not function properly or be available to you if you refuse to accept a cookie or choose to disable the acceptance of cookies.</p>
+<p><strong>(3) Email Communications: </strong>If you send us an email with questions or comments, we may use your personally identifiable information to respond to your questions or comments, and we may save your questions or comments for future reference. For security reasons, we do not recommend that you send non-public personal information, such as passwords, social security numbers, or bank account information, to us by email. However, aside from our reply to such an email, it is not our standard practice to send you email unless you request a particular service or sign up for a feature that involves email communications, it relates to purchases you have made with us (e.g., product updates, customer support, etc.), we are sending you information about our other products and services, or you consented to being contacted by email for a particular purpose. In certain instances, we may provide you with the option to set your preferences for receiving email communications from us; that is, you can agree to receive some communications but not others. You may “opt out” of receiving future commercial email communications from us by following the instructions at the bottom of most emails we send, or as provided below; provided, however, we reserve the right to send you transactional emails such as customer service communications.</p>
+<p><strong>(4) Transfer of Assets:</strong> We may share your information with our Affiliated Companies, in which case we will require them to honor this policy.&nbsp; As we continue to develop our business, we may sell or purchase assets.&nbsp; In the event of a sale, merger, consolidation, change in control, transfer of substantial assets, reorganization, or liquidation, we may transfer, sell, or assign to third parties information concerning your relationship with us, including, without limitation, personally identifiable information that you provide and other information concerning your relationship with us.</p>
+<p><strong>(5) Other:</strong> Notwithstanding anything herein to the contrary, we reserve the right to use IP addresses to identify a visitor or disclose any personally identifiable or non-personal information about you if we believe that such action is necessary to: (a) fulfill a government request; (b) conform with the requirements of the law or legal process; (c) protect or defend our legal rights or property, our Website, or other users; (d) respond to claims that any posting or other content violates the rights of third parties; (e) in an emergency, protect the health and safety of our Website’s users or the general public; or (f) enforce compliance with our Website rules.</p>
+<p><strong>(6) Your California Privacy Rights: </strong>Residents of the State of California have the right to request from certain business with whom the California resident has an established business relationship a list of all third parties to which the business, during the immediately preceding calendar year, has disclosed certain personally identifiable information for direct marketing purposes. &nbsp;We are only required to respond to a customer request once during any calendar year.&nbsp; To obtain this information you should send a request to <a href="mailto:privacy@sbe.com">privacy@sbe.com</a> with the subject heading “California Privacy Rights.”&nbsp; In your request, please attest to the fact that you are a California resident and provide a current California address for our response. Please be aware that not all information sharing is covered by the California Privacy Rights Requirements and only information on covered sharing will be included in our response.</p>
+<p><strong>D. PUBLIC FORUMS </strong></p>
+<p>We may offer chat rooms, blogs, message boards, bulletin boards, or similar public forums where you and other users of our Website can communicate. The protections described in this Privacy Policy do not apply when you provide information (including personal information) in connection with your use of these public forums. We may use personally identifiable and non-personal information about you to identify you with a posting in a public forum. Any information you share in a public forum is public information and may be seen or collected by anyone, including third parties that do not adhere to our Privacy Policy. We are not responsible for events arising from the distribution of any information you choose to publicly post or share through our Website.</p>
+<p><strong>E.&nbsp; WIRELESS MARKETING SERVICES </strong></p>
+<p>We may provide you with the opportunity to register for special promotions, services, news, programming, and information delivered via text messaging and other wireless devices such as mobile phones and, in the event we do so, users are required to provide their express consent to receive such information, either by registering on the Website or via their wireless device (or both).&nbsp; We may require you to consent again in a subsequent confirmation message.&nbsp; Such services and promotional opportunities are provided by our third party affiliates.&nbsp; The information requested as part of the online registration process may include your wireless telephone number or email address, but only if specifically requested, and your carrier’s name.&nbsp; Additional information may be requested for specific promotions, such as a user’s preferences regarding goods or services, choices of music or artists, or other similar survey information.&nbsp; Depending on the promotion, we may also collect an email address or other contact information, and depending on the information collected, you may also be required to confirm your agreement to this Privacy Policy and the <a href="http://www.sbe.com/sbetermsofuse.html">Term of Use</a>.</p>
+<p>If you register for wireless marketing services, you understand and agree that you will be charged by your wireless carrier for all messages sent to you.&nbsp; Standard messaging rates will apply, unless noted otherwise.&nbsp; Under no circumstances will we be responsible for any wireless email or text messaging charges incurred by you or by a person that has access to a your wireless device, telephone number, or email address.</p>
+<p>You may cancel one or more services via your wireless device at any time by using the unsubscribe mechanism provided by at the time the message is sent, or by sending a text message that says “UNSUBSCRIBE.”&nbsp; We will then terminate your registration for the most recent wireless service sent to you.&nbsp; If you unsubscribe, the service(s) will be terminated immediately and will cancel your previous opt-in.</p>
+<p>You understand, acknowledge and agree that we may, in our sole discretion and without liability to any user, terminate any offer of any specific wireless marketing service or all wireless marketing services at any time without advance notice.&nbsp; We may provide notice of terminations or changes in services on this Website.</p>
+<p><strong>F. CHILDREN </strong></p>
+<p>The features, programs, promotions and other aspects of our Website requiring the submission of personally identifiable information are not intended for anyone under 21 years of age. We do not knowingly collect personally identifiable information from children under the age of 13. If you are a parent or guardian of a child under the age of 13 and believe he or she has disclosed personally identifiable information to us please contact us at <a href="mailto:privacy@sbe.com">privacy@sbe.com</a>. &nbsp;A parent or guardian of a child under the age of 13 may review and request deletion of such child’s personally identifiable information as well as prohibit the use thereof.</p>
+<p><strong>G. KEEPING YOUR INFORMATION SECURE </strong></p>
+<p>We have implemented security measures to protect against the loss, misuse and alteration of the information under our control, including Secure Sockets Layer (SSL) technology to encrypt the transmission of nonpublic personally identifiable financial and transaction information over the Internet.&nbsp; We also utilize additional security devices such as firewalls, security patches, and anti-virus programs, to protect nonpublic personally identifiable information. Please be advised, however, that while we strive to protect your personally identifiable information and privacy, we cannot guarantee or warrant the security of any information you disclose or transmit to us online and are not responsible for the theft, destruction, or inadvertent disclosure of your personally identifiable information. In the unfortunate event that your “personally identifiable information” (as the term or similar terms are defined by any applicable law requiring notice upon a security breach) is compromised, we may notify you by e-mail (at our sole and absolute discretion) to the last e-mail address you have provided us in the most expedient time reasonable under the circumstances; provided, however, delays in notification may occur while we take necessary measures to determine the scope of the breach and restore reasonable integrity to the system as well as for the legitimate needs of law enforcement if notification would impede a criminal investigation. From time to time we evaluate new technology for protecting information, and when appropriate, we upgrade our information security systems.</p>
+<p><strong>H. sbePREFERRED PARTNERS PROGRAM </strong></p>
+<p style="text-align: left;">Your membership in the Program allows us to provide you with special offers/ information that may be relevant to your purchase preferences. We are able to provide these customized [offers] by using the information you provided on your application and by tracking uses of your Membership Card. The data that we track include dates and duration of hotel stays, food and beverage purchases etc. We use this information to provide special offers/information such as promotions from other Program Venues. These offers may be mailed to you at home, sent to you electronically, or given to you in a Program Venue. Often, our third-party providers such as event providers or other service providers will pay for and be featured on these offers; however, we do not share personally identifiable information with them. We may share aggregate data about our customers’ overall purchasing patterns. We often use third party vendors to assist with these programs or for data analysis and communications; these vendors are required to maintain the same strict privacy policies as we do. Your purchase data are used only to determine your preferences and are never disclosed to any outside parties without your consent unless required by court order. In that event, we will notify you unless prohibited by law.</p>
+<p style="text-align: left;"><strong>I. OTHER SITES/LINKS</strong></p>
+<p style="text-align: left;">Our Website may link to or contain links to other third party websites that we do not control or maintain, such as in connection with purchasing products referenced on our Website and banner advertisements. We are not responsible for the privacy practices employed by any third party website. We encourage you to note when you leave our Website and to read the privacy statements of all third party websites before submitting any personally identifiable information.</p>
+<p style="text-align: left;"><strong>J. CONTACT &amp; OPT-OUT INFORMATION</strong></p>
+<p style="text-align: left;">You may contact us as at <a href="mailto:privacy@sbe.com">privacy@sbe.com</a> if you: (a) have questions or comments about our Privacy Policy; (b) wish to make corrections to any personally identifiable information you have provided; (c) want to opt-out from receiving future commercial correspondence, including emails, from us or our Affiliated Companies; or (d) wish to withdraw your consent to sharing your personally identifiable information with others.</p>
+<p style="text-align: left;">We will respond to your request and, if applicable and appropriate, make the requested change in our active databases as soon as reasonably practicable. Please note that we may not be able to fulfill certain requests while allowing you access to certain benefits and features of our Website.</p>
+<p style="text-align: left;"><strong>K. SOLE STATEMENT</strong></p>
+<p style="text-align: left;">This Privacy Policy as posted on this Website is the sole statement of our privacy policy with respect to this Website, and no summary, modification, restatement or other version thereof, or other privacy statement or policy, in any form, is valid unless we post a new or revised policy to the Website</p>
+            
+          </div>
+
+          <!-- // Display normal cta button -->
+          
+          <!-- // Display see highlights dropdown list -->
+                               
+           
+
+
+        </div> 
+      </div>
+    </div>
+  </div>
+</section>
+<!-- End Parallax -->			
+<!--Begin Company footer !-->
+<div class="clearfix"></div>
+<footer id="footer" class="row" role="contentinfo">
+  <div class="container">
+    <div id="colophon" class="row">
+            
+      <div class="col6 row">
+        <div class="venue-locator col6">
+          <a href="/venuelocator" class=""><span></span>Venue Locator</a>
+        </div>
+        <div class="col6 info serif-face-thin large">
+          <h6 class="sans-face text-spaced text-caps small-extra"><strong>Contact sbe</strong></h6>
+          <address>
+          <div class="address_row"><span class="address1">8000 Beverly Blvd. </span></div><div class="address_row"><span class="address2"> </span></div><div class="address_row"><span class="city">Los Angeles, </span><span class="state">CA </span><span class="postal_code">90048 </span></div>          </address>
+          <span><a href="tel:3236558000">323.655.8000</a></span>  
+          <a href="mailto:info@sbe.com" title="Email info@sbe.com" class="show">info@sbe.com</a>
+        </div>
+      </div>
+
+            <div class="col6 footer_nav">
+        <div>
+          <h6 class="sans-face text-spaced text-caps small-extra"><strong>Company</strong></h6>
+          <nav class="padbottom small">
+            <ul id="menu-company-footer" class=""><li class="l-1  menu-about-sbe"><a class="item-click track-event" href="http://sbe.com/aboutsbe/">About sbe</a></li>
+<li class="l-1  menu-hotels"><a class="item-click track-event" href="/hotels">Hotels</a></li>
+<li class="l-1  menu-events-catering"><a class="item-click track-event" href="/events">Events &amp; Catering</a></li>
+<li class="l-1  menu-news-press"><a class="item-click track-event" href="/news-accolades">News &amp; Press</a></li>
+<li class="l-1  menu-casino"><a class="item-click track-event" href="/hotels/slslasvegas">Casino</a></li>
+<li class="l-1  menu-development"><a class="item-click track-event" href="/aboutsbe/#development">Development</a></li>
+<li class="l-1  menu-awards"><a class="item-click track-event" href="/awards">Awards</a></li>
+<li class="l-1  menu-restaurants"><a class="item-click track-event" href="/restaurants">Restaurants</a></li>
+<li class="l-1  menu-contact-us"><a class="item-click track-event" href="/contact">Contact Us</a></li>
+<li class="l-1  menu-careers"><a class="item-click track-event" href="http://sbe.com/careers/">Careers</a></li>
+<li class="l-1  menu-nightlife"><a class="item-click track-event" href="/nightlife">Nightlife</a></li>
+<li class="l-1  menu-sbe-gift-card"><a class="item-click track-event" href="http://sbe.com/gift-card/">sbe Gift Card</a></li>
+</ul>          </nav>
+        </div>
+      </div>
+                
+    <p class="col12 text-center text-caps sans-face text-spaced-extra text-bold source-org copyright" style="font-size:10px;">
+      <a href="http://sbe.com/terms-of-use">Terms of Use</a> |
+      <a href="http://sbe.com/privacy-policy">Privacy Policy</a> <span class="lastbar">|</span>
+      <span class="lastline">© 2014 SBEEG Holdings, LLC</span>
+    </p>
+    
+    </div>
+
+  </div>
+</footer> 
+<!-- end footer -->
+    </div> <!-- end #main -->
+
+</div> <!-- end #content -->
+
+   </div><!-- end Side Menu Push !-->
+
+</div> <!-- end #page -->
+
+
+<div id="site-footer" class="site-footer container"> <!--fixed footer !-->
+
+<div class="row">
+  		  <div id="subscribe" class="col5">
+  		  	<a href="#subscribe_form" data-subscribe-open-popup="#subscribe_form" class="btn grayLight-solid open-popup-link">Subscribe for Exclusives</a>
+  		  </div>
+  		  <div id="footer-social" class="row col7">
+          <div class="pull-right">
+                          <h6 class="bottom sans-face pull-left text-right text-spaced" style="margin-top:8px;"><strong>Follow<br><span style="white-space:nowrap;">sbe</span></strong></h6>
+              <ul class="count5 nav social pull-left">
+<li class="footer-facebook"><a href="http://facebook.com/sbeCollection" rel="nofollow" title="Visit sbe.com facebook" target="_blank" class="url"><i class="ico-facebook"></i><span class="network">facebook</span><span class="path">/sbeCollection</span></a></li>
+<li class="footer-twitter"><a href="http://twitter.com/sbeCollection" rel="nofollow" title="Visit sbe.com twitter" target="_blank" class="url"><i class="ico-twitter"></i><span class="network">twitter</span><span class="path">@sbeCollection</span></a></li>
+<li class="footer-instagram"><a href="http://instagram.com/sbeCollection" rel="nofollow" title="Visit sbe.com instagram" target="_blank" class="url"><i class="ico-instagram"></i><span class="network">instagram</span><span class="path">/sbeCollection</span></a></li>
+<li class="footer-pinterest"><a href="http://pinterest.com/sbeCollection" rel="nofollow" title="Visit sbe.com pinterest" target="_blank" class="url"><i class="ico-pinterest"></i><span class="network">pinterest</span><span class="path">/sbeCollection</span></a></li>
+<li class="footer-youtube"><a href="http://youtube.com/sbeCollection" rel="nofollow" title="Visit sbe.com youtube" target="_blank" class="url"><i class="ico-youtube"></i><span class="network">youtube</span><span class="path">/sbeCollection</span></a></li>
+</ul>
+                      </div>
+  		  </div>
+  </div>
+</div> <!-- end footer -->
+
+<a href="#" id="scroll-up-btn" style="display: none;"><i class="ico-triangle-up"></i></a>
+
+<div id="reservation_form" class="hide">
+
+  <label for="_venue" class="hide">Venue</label>
+  <div class="dl-menuwrapper" id="venue_wrapper" style="">
+    <input class="dl-trigger tip-plus" type="text" name="_venue" id="_venue" placeholder="Select a Venue" readonly="" autocomplete="off" data-value="" data-validate-value-presence="Please select a venue">
+    <ul class="dl-menu">
+<li><a href="#">Los Angeles</a>
+<ul class="dl-submenu">
+<li><a href="#">Hotels</a>
+<ul class="dl-submenu">
+<li data-switch-screen="#reservations_hotels" data-value="starwood,3171" data-city="los-angeles" data-direct-id="2~291" data-tkt-mob="false"><a href="#">SLS Beverly Hills</a>
+</li>
+<li data-switch-screen="#reservations_hotels" data-value="synxis,29039,10166" data-city="los-angeles" data-direct-id="2~367" data-tkt-mob="false"><a href="#">The Redbury Hollywood</a>
+</li>
+</ul>
+</li>
+<li><a href="#">Restaurants</a>
+<ul class="dl-submenu">
+<li data-switch-screen="#reservations_restaurants" data-value="48526" data-city="los-angeles" data-direct-id="3~1042" data-tkt-mob="false"><a href="#">Cleo Hollywood</a>
+</li>
+<li data-switch-screen="#reservations_restaurants" data-value="17581" data-city="los-angeles" data-direct-id="3~737" data-tkt-mob="false"><a href="#">Katsuya Brentwood</a>
+</li>
+<li data-switch-screen="#reservations_restaurants" data-value="18376" data-city="los-angeles" data-direct-id="3~733" data-tkt-mob="false"><a href="#">Katsuya Glendale</a>
+</li>
+<li data-switch-screen="#reservations_restaurants" data-value="16369" data-city="los-angeles" data-direct-id="3~729" data-tkt-mob="false"><a href="#">Katsuya Hollywood</a>
+</li>
+<li data-switch-screen="#reservations_restaurants" data-value="31348" data-city="los-angeles" data-direct-id="3~725" data-tkt-mob="false"><a href="#">Katsuya L.A. Live</a>
+</li>
+<li data-switch-screen="#reservations_restaurants" data-value="24940" data-city="los-angeles" data-direct-id="3~271" data-tkt-mob="false"><a href="#">The Bazaar by José Andrés Beverly Hills</a>
+</li>
+<li data-switch-screen="#reservations_restaurants" data-value="27535" data-city="los-angeles" data-direct-id="3~184" data-tkt-mob="false"><a href="#">Tres</a>
+</li>
+</ul>
+</li>
+<li><a href="#">Nightlife</a>
+<ul class="dl-submenu">
+<li data-switch-screen="#reservations_nightlife" data-value="create,es_neYLZ0LWBUeb3ZB,los-angeles" data-city="los-angeles" data-direct-id="5~69" data-tkt-mob="true"><a href="#">Create Nightclub</a>
+</li>
+<li data-switch-screen="#reservations_nightlife" data-value="Greystone-Manor,es_Q9wCnRXB3MJD1zV,los-angeles" data-city="los-angeles" data-direct-id="5~236" data-tkt-mob="true"><a href="#">Greystone Manor</a>
+</li>
+<li data-switch-screen="#reservations_nightlife" data-value="hydestaples,es_aXYjw9cl1EekFTs,los-angeles" data-city="los-angeles" data-direct-id="5~144" data-tkt-mob="true"><a href="#">Hyde Lounge at Staples Center</a>
+</li>
+<li data-switch-screen="#reservations_nightlife" data-value="The-Abbey-Food-and-Bar,es_QqWc46OSUYZBmaa,los-angeles" data-city="los-angeles" data-direct-id="5~248" data-tkt-mob="true"><a href="#">The Abbey Food &amp; Bar</a>
+</li>
+<li data-switch-screen="#reservations_nightlife" data-value="Emerson-Theatre,es_EX4CViO773,los-angeles" data-city="los-angeles" data-direct-id="5~238" data-tkt-mob="true"><a href="#">The Emerson Theatre</a>
+</li>
+<li data-switch-screen="#reservations_nightlife" data-value="Library-at-the-Redbury, es_Ceb3TH8jE0nQLun​,los-angeles" data-city="los-angeles" data-direct-id="5~242" data-tkt-mob="true"><a href="#">The Library</a>
+</li>
+<li data-switch-screen="#reservations_nightlife" data-value="The-Sayers-Club,es_P2T2Q7TsUB,los-angeles" data-city="los-angeles" data-direct-id="5~580" data-tkt-mob="true"><a href="#">The Sayers Club Hollywood</a>
+</li>
+<li data-switch-screen="#reservations_nightlife" data-value="XIV-Summer-Sessions,es_wh6kWNfMy4HNw9o,los-angeles" data-city="los-angeles" data-direct-id="5~230" data-tkt-mob="true"><a href="#">XIV Sessions</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#">Miami</a>
+<ul class="dl-submenu">
+<li><a href="#">Hotels</a>
+<ul class="dl-submenu">
+<li data-switch-screen="#reservations_hotels" data-value="phg,MIASB" data-city="miami" data-direct-id="2~354" data-tkt-mob="false"><a href="#">SLS South Beach</a>
+</li>
+<li data-switch-screen="#reservations_hotels" data-value="synxis,26021,10166" data-city="miami" data-direct-id="2~152" data-tkt-mob="true"><a href="#">The Raleigh South Beach</a>
+</li>
+<li data-switch-screen="#reservations_hotels" data-value="synxis,60179,10166" data-city="miami" data-direct-id="2~377" data-tkt-mob="false"><a href="#">The Redbury South Beach</a>
+</li>
+</ul>
+</li>
+<li><a href="#">Restaurants</a>
+<ul class="dl-submenu">
+<li data-switch-screen="#reservations_restaurants" data-value="79189" data-city="miami" data-direct-id="3~385" data-tkt-mob="false"><a href="#">Katsuya South Beach</a>
+</li>
+<li data-switch-screen="#reservations_restaurants" data-value="6243" data-city="miami" data-direct-id="3~182" data-tkt-mob="false"><a href="#">Restaurant Michael Schwartz</a>
+</li>
+<li data-switch-screen="#reservations_restaurants" data-value="79177" data-city="miami" data-direct-id="3~700" data-tkt-mob="false"><a href="#">The Bazaar by José Andrés South Beach</a>
+</li>
+</ul>
+</li>
+<li><a href="#">Nightlife</a>
+<ul class="dl-submenu">
+<li data-switch-screen="#reservations_nightlife" data-value="hydeaaa,es_mBQFzqt3BS5gt9h,miami" data-city="miami" data-direct-id="5~134" data-tkt-mob="true"><a href="#">Hyde at AmericanAirlines Arena</a>
+</li>
+<li data-switch-screen="#reservations_nightlife" data-value="hydesouthbeach,es_tdVG6L9zsDB5HNw,miami" data-city="miami" data-direct-id="5~142" data-tkt-mob="true"><a href="#">Hyde Beach</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#">Las Vegas</a>
+<ul class="dl-submenu">
+<li><a href="#">Hotels</a>
+<ul class="dl-submenu">
+<li data-switch-screen="#reservations_hotels" data-value="micros,sls-lasvegas,mobile-sls-lasvegas" data-city="las-vegas" data-direct-id="2~362" data-tkt-mob="false"><a href="#">SLS Las Vegas Hotel &amp; Casino</a>
+</li>
+</ul>
+</li>
+<li><a href="#">Restaurants</a>
+<ul class="dl-submenu">
+<li data-switch-screen="#reservations_restaurants" data-value="146122,2014/08/23" data-city="las-vegas" data-direct-id="3~6207" data-tkt-mob="false"><a href="#">Bazaar Meat by José Andrés Las Vegas</a>
+</li>
+<li data-switch-screen="#reservations_restaurants" data-value="146125,2014/08/23" data-city="las-vegas" data-direct-id="3~6199" data-tkt-mob="false"><a href="#">Cleo Las Vegas</a>
+</li>
+<li data-switch-screen="#reservations_restaurants" data-value="118309 " data-city="las-vegas" data-direct-id="3~6939" data-tkt-mob="false"><a href="#">Double Barrel Roadhouse</a>
+</li>
+<li data-switch-screen="#reservations_restaurants" data-value="146128,2014/08/23" data-city="las-vegas" data-direct-id="3~6191" data-tkt-mob="false"><a href="#">Katsuya Las Vegas</a>
+</li>
+<li data-switch-screen="#reservations_restaurants" data-value="146134,2014/08/23" data-city="las-vegas" data-direct-id="3~7238" data-tkt-mob="false"><a href="#">Ku Noodle</a>
+</li>
+<li data-switch-screen="#reservations_restaurants" data-value="146140,2014/08/23" data-city="las-vegas" data-direct-id="3~7243" data-tkt-mob="false"><a href="#">The Griddle Café Las Vegas</a>
+</li>
+</ul>
+</li>
+<li><a href="#">Nightlife</a>
+<ul class="dl-submenu">
+<li data-switch-screen="#reservations_nightlife" data-value="doublebarrel,es_5nGI3AHKMT,las-vegas" data-city="las-vegas" data-direct-id="5~234" data-tkt-mob="true"><a href="#">Double Barrel Roadhouse</a>
+</li>
+<li data-switch-screen="#reservations_nightlife" data-value="hydebellagio,es_C7LI3uC941,las-vegas" data-city="las-vegas" data-direct-id="5~136" data-tkt-mob="true"><a href="#">Hyde Bellagio</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<!-- cached -->  </div>
+
+  <div id="_instructions" class="small_text"></div>
+
+  
+  <div id="reset_screen" class="screen hide" data-instructions="">
+    <div id="reset_reservations" data-switch-screen="#reset_screen"></div>
+  </div>
+
+  <div id="reservations_hotels" class="screen hide" data-instructions="Select dates and enter guest info">
+
+    <label for="_date_check_in" class="hide">Check In Date</label>
+    <div class="tip_input_wrapper"><input name="_date_check_in" id="_date_check_in" type="text" class="tip-calendar" autocomplete="off" placeholder="Check In Date" readonly="" data-validate-presence="Please select a date"></div>
+
+    <label for="_date_check_out" class="hide">Check Out Date</label>
+    <div class="tip_input_wrapper"><input name="_date_check_out" id="_date_check_out" type="text" class="tip-calendar" autocomplete="off" placeholder="Check Out Date" readonly="" data-validate-presence="Please select a date"></div>
+
+    <label for="_adults" class="hide">Guests</label>
+    <div class="dl-menuwrapper">
+      <input name="_adults" id="_adults" type="text" autocomplete="off" placeholder="Adults" class="dl-trigger tip-plus" readonly="" data-validate-presence="Please choose the number of adults">
+      <ul class="dl-menu">
+        <li><a href="#">1</a></li>
+        <li><a href="#">2</a></li>
+        <li><a href="#">3</a></li>
+        <li><a href="#">4</a></li>
+      </ul>
+    </div>
+
+    <label for="_promo" class="hide">Promo Code</label>
+    <div class="tip_input_wrapper"><input name="_promo" id="_promo" type="text" autocomplete="off" placeholder="Promo Code"></div>
+
+    <button class="submit">Make a Reservation</button>
+
+  </div><!--/reservations_hotels-->
+
+  <div id="reservations_restaurants" class="screen hide" data-instructions="Select date and time, and enter guest info">
+
+    <label for="_date" class="hide">Date</label>
+    <div class="tip_input_wrapper">
+        <input name="_date" id="_date" type="text" class="minputhide tip-calendar" autocomplete="off" placeholder="Date" readonly="" data-validate-presence="Please select a date">
+    </div>
+
+    <label for="_time" class="hide">Time</label>
+    <div class="dl-menuwrapper">
+      <input name="_time" id="_time" type="text" autocomplete="off" placeholder="Time" class="minputhide dl-trigger tip-plus" readonly="" data-validate-presence="Please select a time">
+      <ul class="dl-menu">
+        <li><a href="#">10:00 AM</a></li>
+        <li><a href="#">10:30 AM</a></li>
+        <li><a href="#">11:00 AM</a></li>
+        <li><a href="#">11:30 AM</a></li>
+        <li><a href="#">12:00 PM</a></li>
+        <li><a href="#">12:30 PM</a></li>
+        <li><a href="#">1:00 PM</a></li>
+        <li><a href="#">1:30 PM</a></li>
+        <li><a href="#">2:00 PM</a></li>
+        <li><a href="#">2:30 PM</a></li>
+        <li><a href="#">3:00 PM</a></li>
+        <li><a href="#">3:30 PM</a></li>
+        <li><a href="#">4:00 PM</a></li>
+        <li><a href="#">4:30 PM</a></li>
+        <li><a href="#">5:00 PM</a></li>
+        <li><a href="#">5:30 PM</a></li>
+        <li><a href="#">6:00 PM</a></li>
+        <li><a href="#">6:30 PM</a></li>
+        <li><a href="#">7:00 PM</a></li>
+        <li><a href="#">7:30 PM</a></li>
+        <li><a href="#">8:00 PM</a></li>
+        <li><a href="#">8:30 PM</a></li>
+        <li><a href="#">9:00 PM</a></li>
+        <li><a href="#">9:30 PM</a></li>
+        <li><a href="#">10:00 PM</a></li>
+        <li><a href="#">10:30 PM</a></li>
+        <li><a href="#">11:00 PM</a></li>
+        <li><a href="#">11:30 PM</a></li>
+        <li><a href="#">11:59 PM</a></li>
+      </ul>
+    </div>
+
+    <label for="_guests" class="hide">Guests</label>
+    <div class="dl-menuwrapper">
+      <input name="_guests" id="_guests" type="text" autocomplete="off" placeholder="Guests" class="minputhide dl-trigger tip-plus" readonly="" data-value="" data-validate-value-presence="Please choose your number of guests">
+      <ul class="dl-menu">
+        <li data-value="1"><a href="#">1 person</a></li>
+        <li data-value="2"><a href="#">2 people</a></li>
+        <li data-value="3"><a href="#">3 people</a></li>
+        <li data-value="4"><a href="#">4 people</a></li>
+        <li data-value="5"><a href="#">5 people</a></li>
+        <li data-value="6"><a href="#">6 people</a></li>
+        <li data-value="7"><a href="#">7 people</a></li>
+        <li data-value="8"><a href="#">8 people</a></li>
+        <li data-value="9"><a href="#">9 people</a></li>
+        <li data-value="10"><a href="#">10 people</a></li>
+        <li data-value="11"><a href="#">11 people</a></li>
+      </ul>
+    </div>
+
+    <div class="plan_event small_text">For parties 12 or larger <a href="#rfp">plan your&nbsp;event</a>.</div>
+
+    <button class="submit">Make a Reservation</button>
+
+  </div><!--/reservations_restaurants -->
+
+  <div id="reservations_nightlife" class="screen hide" data-instructions="Select a date to view events">
+
+    <div class="loadingO"></div>
+
+    <div id="no_upcoming_events" class="hide clearfix">
+      <p>Sorry, there are no upcoming events</p>
+    </div>
+
+    <div id="events_for_date"></div>
+
+  </div><!--/reservations_nightlife-->
+
+  <form id="opentable_form" action="http://www.opentable.com/opentables.aspx" method="get" class="hide" target="_blank">
+    <h4>Opentable Form</h4>
+
+    <br><label>t (hidden field)</label>
+    <input name="t" value="single" type="text" readonly="" autocomplete="off">
+
+    <br><label>rtype (hidden field)</label>
+    <input name="rtype" value="ism_mod" type="text" readonly="" autocomplete="off">
+
+    <br><label>restfed (hidden field)</label>
+    <input name="restref" type="text" autocomplete="off">
+
+    <br><label>rid (restaurant id)</label>
+    <input name="rid" type="text" autocomplete="off">
+
+    <br><label>d (date/time)</label>
+    <input name="d" type="text" autocomplete="off">
+
+    <br><label>p (number of guests)</label>
+    <input name="p" type="text" autocomplete="off">
+
+    <br><input type="submit">
+  </form>
+
+  <form id="phg_form" action="https://www.phgsecure.com/IBE/bookingRedirect.ashx" method="post" class="hide" target="_blank">
+    <h4>phg form</h4>
+
+    <input type="text" readonly="" autocomplete="off" name="utm_source" value="sbe.com">
+<input type="text" readonly="" autocomplete="off" name="utm_medium" value="reservation%20widget">
+<input type="text" readonly="" autocomplete="off" name="utm_campaign" value="website">
+    <br><label>propertyCode</label>
+    <input name="propertyCode" type="text" autocomplete="off">
+
+    <br><label>arrivalDate</label>
+    <input name="arrivalDate" type="text" autocomplete="off">
+
+    <br><label>departureDate</label>
+    <input name="departureDate" type="text" autocomplete="off">
+
+    <br><label>Rooms</label>
+    <input name="Rooms" type="text" autocomplete="off" value="1">
+
+    <br><label>numberOfAdults</label>
+    <input name="numberOfAdults" type="text" autocomplete="off">
+
+    <br><label>promo</label>
+    <input type="text" autocomplete="off" name="promo">
+
+    <br><input type="submit">
+  </form>
+
+  <form id="starwood_form" action="http://www.starwoodhotels.com/luxury/rates/room.html" method="get" class="hide" target="_blank">
+    <h4>starwood form</h4>
+
+    <br><label>propertyId</label>
+    <input type="text" autocomplete="off" name="propertyId">
+
+    <br><label>arrivalDate</label>
+    <input type="text" autocomplete="off" name="arrivalDate">
+
+    <br><label>departureDate</label>
+    <input type="text" autocomplete="off" name="departureDate">
+
+    <br><label>numberOfAdults</label>
+    <input type="text" autocomplete="off" name="numberOfAdults">
+
+    <br><label>rp (promo, starts with 'RC:')</label>
+    <input type="text" name="rp" autocomplete="off" value="RC%3A">
+
+    <br><input type="submit">
+  </form>
+
+  <form id="starwood_rate_form" action="http://www.starwoodhotels.com/fourpoints/search/ratelist.html" method="post" class="hide" target="_blank">
+    <h4>starwood rate form</h4>
+
+    <br><label>stateProvince</label>
+    <input type="text" name="stateProvince" autocomplete="off">
+
+    <br><label>departureDate</label>
+    <input type="text" name="departureDate" autocomplete="off">
+
+    <br><label>ctxRateList</label>
+    <input type="text" name="ctxRateList" value="" readonly="">
+
+    <br><label>country</label>
+    <input type="text" name="country" value="US" readonly="">
+
+    <br><label>arrivalDate</label>
+    <input type="text" name="arrivalDate" autocomplete="off">
+
+    <br><label>numberOfRooms</label>
+    <input type="text" name="numberOfRooms" autocomplete="off" value="1">
+
+    <br><label>numberOfAdults</label>
+    <input type="text" name="numberOfAdults" autocomplete="off">
+
+    <br><label>propertyID</label>
+    <input type="text" name="propertyID" autocomplete="off">
+
+    <br><label>rp (promo, starts with 'RC:')</label>
+    <input type="text" name="rp" autocomplete="off" value="RC%3A">
+
+    <br><input type="submit">
+  </form>
+
+  <form id="synxis_form" action="https://gc.synxis.com/rez.aspx" method="get" class="hide" target="_blank">
+    <h4>synxis form</h4>
+
+    <br><label>start (hidden value to skip first step)</label>
+    <input type="text" autocomplete="off" name="start" readonly="" value="111">
+
+    <input type="text" readonly="" autocomplete="off" name="utm_source" value="sbe.com">
+<input type="text" readonly="" autocomplete="off" name="utm_medium" value="reservation%20widget">
+<input type="text" readonly="" autocomplete="off" name="utm_campaign" value="website">
+    <br><label>Hotel</label>
+    <input type="text" autocomplete="off" name="Hotel">
+
+    <br><label>Chain</label>
+    <input type="text" autocomplete="off" name="Chain">
+
+    <br><label>arrive</label>
+    <input type="text" autocomplete="off" name="arrive">
+
+    <br><label>depart</label>
+    <input type="text" autocomplete="off" name="depart">
+
+    <br><label>Rooms</label>
+    <input type="text" autocomplete="off" name="Rooms" value="1">
+
+    <br><label>adult</label>
+    <input type="text" autocomplete="off" name="adult">
+
+    <br><label>promo</label>
+    <input type="text" autocomplete="off" name="promo">
+
+    <br><input type="submit">
+  </form>
+
+  <form id="micros_form" action="" data-action-suffix=".webhotel.microsdc.us/bp/availStart.jsp" data-mobile-action-suffix=".webhotel.microsdc.us/" method="get" class="hide" target="_blank">
+    <h4>micros form</h4>
+
+    <input type="text" readonly="" autocomplete="off" name="utm_source" value="sbe.com">
+<input type="text" readonly="" autocomplete="off" name="utm_medium" value="reservation%20widget">
+<input type="text" readonly="" autocomplete="off" name="utm_campaign" value="website">
+    <br><label>checkinYear</label>
+    <input type="text" autocomplete="off" name="checkinYear">
+
+    <br><label>checkinMonth</label>
+    <input type="text" autocomplete="off" name="checkinMonth">
+
+    <br><label>checkinDay</label>
+    <input type="text" autocomplete="off" name="checkinDay">
+
+    <br><label>checkoutYear</label>
+    <input type="text" autocomplete="off" name="checkoutYear">
+
+    <br><label>checkoutMonth</label>
+    <input type="text" autocomplete="off" name="checkoutMonth">
+
+    <br><label>checkoutDay</label>
+    <input type="text" autocomplete="off" name="checkoutDay">
+
+    <br><label>numberOfChildren</label>
+    <input type="text" autocomplete="off" name="numberOfChildren" value="1">
+
+    <br><label>numberOfAdults</label>
+    <input type="text" autocomplete="off" name="numberOfAdults">
+
+    <br><label>promoCode</label>
+    <input type="text" autocomplete="off" name="promoCode">
+
+    <br><input type="submit">
+  </form>
+
+</div>
+
+<div id="subscribe_form" class="mfp-hide">
+
+  <form method="POST" data-subscribe-default-copy="Sign up for exclusives, news, &amp; highlights from the world of&nbsp;sbe." data-subscribe-copy="Get exclusive offers &amp; invites from %.
+<br>Plus, get a monthly dose of exclusives, news, &amp; highlights from the world of&nbsp;sbe.">
+ 
+    <div class="addtop addbottom text-center" id="sf_copy">Sign up for exclusives, news, &amp; highlights from the world of&nbsp;sbe.</div>
+
+    <script type="text/html" id="sf_interrupt_copy"><img src="http://files.sbe.com/content/uploads/2014/03/interrupter.png">
+<h3 style="font-size: 1.7em; margin-top: 1em; line-height: 1.1;">Sign up for sbe exclusives AND be the first to hear about THE CODE</h3>
+Your key to unlocking personalized experiences at sbe's hotel, casino, restaurant and nightlife venues.
+<input type="hidden" name="sf_thecode" value="1"></script>
+
+    <input type="hidden" name="sf_venue" id="sf_venue" value="">
+    <input type="hidden" name="sf_lead" id="sf_lead" value="Opt-In - Website">
+    <input type="hidden" name="sf_sbe_newsletter" id="sf_sbe_newsletter" value="1">
+  
+    <div class="col12 row">
+      <div class="col6 add" style="margin-bottom: 10px;">
+        <label class="hide" for="sf_first_name">First Name</label>
+        <input class="input_gray" type="text" autocomplete="off" id="sf_first_name" name="sf_first_name" placeholder="First Name" data-validate-presence="Please enter your first name">
+      </div>
+
+      <div class="col6 add" style="margin-bottom: 10px;">  
+        <label class="hide" for="sf_last_name">Last Name</label>
+        <input class="input_gray" type="text" autocomplete="off" id="sf_last_name" name="sf_last_name" placeholder="Last Name" data-validate-presence="Please enter your last name">    
+      </div>
+      
+      <div class="col6 add" style="margin-bottom: 10px;">
+        <label class="hide" for="sf_email">Email</label>
+        <input class="input_gray" type="text" autocomplete="off" id="sf_email" name="sf_email" placeholder="Email" data-validate-email="Valid Email required">
+      </div>
+
+      <div class="col6 add" style="margin-bottom: 10px;">
+        <label class="hide" for="sf_zip">Zip Code</label>
+        <input class="input_gray" type="text" autocomplete="off" id="sf_zip" name="sf_zip" placeholder="Zip Code" data-validate-presence="Please enter your ZIP code">
+      </div>
+
+    </div>
+    
+    <div class="row count2" style="margin-bottom: 8px;">
+      <div class="cols add">&nbsp;</div>
+      <div class="cols add" style="min-height: 30px;">
+        <input type="checkbox" autocomplete="off" id="sf_age_verify" name="sf_age_verify" class="hide" value="1"> 
+        <div class="input_gray_faux" data-faux-checkbox="#sf_age_verify" data-validate-checked="You must be 21 or older to subscribe" data-age-copy-default="I am 21 years old or older.">
+          I am 21 years old or older.        </div>
+      </div>
+    </div>
+    
+    <div class="text-center addtop">
+      <input type="submit" autocomplete="off" class="btn short grayDark submit" value="Subscribe">
+    </div>
+
+  </form>
+
+  <div id="sf_success" class="hide text-center">
+    <p>Thank you for subscribing!</p>
+  </div>
+
+  <div id="sf_failure" class="hide text-center">
+    <p>Sorry. Our system couldn't process your request. Please try again later.</p>
+  </div>
+
+</div>
+
+
+  <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;sensor=false"></script>
+  <script type="text/javascript"> var sharrreURL = 'http://sbe.com/content/themes/sbe/lib/sharrre.php'; </script>
+
+  <!-- // GRUNT BUILD -->
+    <script src="http://sbe.com/content/themes/sbe/assets/js/scripts.min.986c68ea.js"></script>
+    
+  
+	<div id="fb-root"></div>
+<script>
+		window.fbAsyncInit = function() {
+			FB.Event.subscribe('edge.create', function(targetUrl) {
+				_gaq.push(['_trackSocial', 'facebook', 'like', targetUrl]);
+			});
+		};
+
+		// SDK Asynchronously
+		(function(d){
+			var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+			if (d.getElementById(id)) {return;}
+			js = d.createElement('script'); js.id = id; js.async = true;
+			js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+			ref.parentNode.insertBefore(js, ref);
+		}(document));
+	 </script>
+	
+    <script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-2167091-1']);
+  // _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+  </script>
+
+  <!-- Google Code for Remarketing Tag -->
+  <script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 1067346927;
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    /* ]]> */
+  </script>
+  <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+  <noscript>
+    <div style="display:inline;">
+      <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1067346927/?value=0&amp;guid=ON&amp;script=0"/>
+    </div>
+  </noscript>
+
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-49364725-1', 'sbe.com');
+  ga('require', 'linker'); /*sbe nightflife domains */
+  ga('linker:autoLink',['electrostub.com', 'createnightclub.com','abbeyfoodandbar.com', 'greystonemanorla.com', 'mystudiohollywood.com', 'xivsessions.com','colonybysbe.com','xivsummersessions.com','sayersclub.com', 'emersontheatre.com', 'hydeaaarena.com','hydebellagio.com','hydesunset.com','hydestaples.com','abbeyfoodandbar.com']);
+
+  var analytics_arr = [{"name":"none","code":"empty"},{"name":"blog","code":"UA-49560855-1"},{"name":"hotels","code":"UA-49557965-1"},{"name":"restaurants","code":"UA-49566727-1"},{"name":"events","code":"UA-49571010-1"},{"name":"nightlife","code":"UA-49557191-1"}];
+  ga('create', 'UA-49560855-1', 'auto', {'name': 'blog'});
+  ga('create', 'UA-49557965-1', 'auto', {'name': 'hotels'});
+  ga('create', 'UA-49566727-1', 'auto', {'name': 'restaurants'});
+  ga('create', 'UA-49571010-1', 'auto', {'name': 'events'});
+  ga('create', 'UA-49557191-1', 'auto', {'name': 'nightlife'});
+    </script>
+
+<script type="text/javascript" src="//cdn.callrail.com/companies/346507468/0508e81d70556105b81a/12/swap.js"></script>
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","licenseKey":"17d6851115","applicationID":"3265470","transactionName":"NFRbZBcFWhVZVkFbCw0eeFMRDVsIF1xbVgEb","queueTime":0,"applicationTime":190,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
+
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Page Caching using disk: enhanced
+Content Delivery Network via Rackspace Cloud Files: files.sbe.com
+Application Monitoring using New Relic
+
+ Served from: sbe.com @ 2014-06-23 16:32:31 by W3 Total Cache --><script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
