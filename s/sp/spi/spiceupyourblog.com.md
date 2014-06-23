@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the spiceupyourblog.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216210157id_/http%3A//www.spiceupyourblog.com/2009/09/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spiceupyourblog.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623020839id_/http%3A//www.spiceupyourblog.com/2009/09/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Spice Up Your Blog
+
+Dear Reader, how are you today? Feel free to give us any feedback on SUYB's content below
 
 Privacy Policy for www.spiceupyourblog.com
 
@@ -33,11 +35,13 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
 
-| 
-
-[](http://24work.blogspot.com/)  
   
----|---  
+
+
+#### Let’s keep in touch! Please sign up to receive Updates.
+
+SUYB has its Focus on Quality. If we post Crap, you can unsubscribe.
+
   
 
 
@@ -45,5 +49,3 @@ If You Enjoyed This Post Please Take 5 Seconds To Share It.
 
   
 
-
-## Stay Connected With Free Updates
