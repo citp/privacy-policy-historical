@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frip.in privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215214552id_/http%3A//www.frip.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frip.in privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623132918id_/http%3A//www.frip.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Frip.in
 
@@ -56,9 +56,3 @@ We will let our Visitors and Authorized Customers know about changes to our priv
 
 **Links:**  
 http://www.Frip.in contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
-
-#### Incoming search terms:
-
-  * frip policy
-
-
