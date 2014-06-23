@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livestrong.org privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207221417id_/http%3A//www.livestrong.org/Terms-of-Use/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livestrong.org privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623045039id_/http%3A//www.livestrong.org/Terms-of-Use/Privacy-Policy) for the most accurate reproduction.*
 
 # Terms of Use | LIVESTRONG.org
 
