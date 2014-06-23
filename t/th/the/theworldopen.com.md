@@ -1,14 +1,13 @@
-> *The following text is extracted and transformed from the theworldopen.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502094622id_/http%3A//theworldopen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theworldopen.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623190411id_/http%3A//www.theopen.ca/privacy-policy) for the most accurate reproduction.*
 
-# The Open - Privacy Policy | WORLD OPEN OF PHOTOGRAPHY
+# The Open - Privacy Policy
 
 ## WE RESPECT YOUR PRIVACY
 
 This privacy policy sets out how the World Open of Photography (The Open) uses and protects any information that you give its parent company, W1 Inc., when you use this website.
 
-W1 is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+W1 is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. W1 may change this policy from time to time by updating this page. 
 
-W1 may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from [date].  
 What we collect
 
 We may collect the following information:
