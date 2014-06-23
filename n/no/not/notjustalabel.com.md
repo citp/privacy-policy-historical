@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the notjustalabel.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210003618id_/http%3A//www.notjustalabel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the notjustalabel.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623150127id_/http%3A//www.notjustalabel.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | NOT JUST A LABEL
 
-Date of Last Revision: 1 May 2011
+Date of Last Revision: 14 February 2014
 
 **INTRODUCTION**
 
@@ -67,4 +67,4 @@ From time to time we may make changes to our privacy policy If we make changes, 
 **CONTACTING THE WEBSITE**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, please [contact us](https://web.archive.org/contact).
 
-© 2012 NOT JUST A LABEL All Rights Reserved.
+© 2014 NOT JUST A LABEL All Rights Reserved.
