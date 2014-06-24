@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appsee.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231031533id_/http%3A//www.appsee.com/legal/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appsee.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624040503id_/http%3A//www.appsee.com/legal/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Appsee
 
