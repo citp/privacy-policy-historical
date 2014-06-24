@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the reviewcentre.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805215104id_/http%3A//www.reviewcentre.com/ct634.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reviewcentre.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624034750id_/http%3A//www.reviewcentre.com/ct634.html) for the most accurate reproduction.*
 
 # Privacy Policy - Review Centre
 
-**Resource Team Ltd** ('' **we** '', '' **our** '' or '' **us** '') is committed to protecting the privacy of our members. The Privacy Policy is intended to inform You how we gather, define, and utilise Your information which may include Your:
+**Review Centre Ltd** ('' **we** '', '' **our** '' or '' **us** '') is committed to protecting the privacy of our members. The Privacy Policy is intended to inform You how we gather, define, and utilise Your information which may include Your:
 
 (together, the '' **Information** ''). 
 
@@ -10,7 +10,7 @@ It is also intended to assist You in making informed decisions when using our We
 
 All Your Information shall be held and used in accordance with the Data Protection Act1998 (the '' **Act** '') where applicable. If You want to know what Information we collect and hold about You, please write to us at: Goodwin House, 5 Union Court, Richmond, Surrey TW9 1AA.
 
-Resource Team Ltd is the data controller of Your Information for the purposes of the Act.
+Review Centre Ltd is the data controller of Your Information for the purposes of the Act.
 
 When You visit our Website You may provide us with the following types of information:
 
