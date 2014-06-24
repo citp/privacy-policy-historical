@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brisnet.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223021348id_/http%3A//brisnet.com/cgi-bin/static.cgi%3Fpage%3Dbrisnet_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brisnet.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624144413id_/http%3A//brisnet.com/cgi-bin/static.cgi%3Fpage%3Dbrisnet_privacy_policy) for the most accurate reproduction.*
 
 # Brisnet Privacy Policy
 
