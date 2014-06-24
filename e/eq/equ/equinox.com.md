@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the equinox.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127114027id_/http%3A//www.equinox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the equinox.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625001859id_/http%3A//www.equinox.com/privacy) for the most accurate reproduction.*
 
-# EQUINOX | Privacy Policy
+# Privacy Policy
 
 ## Privacy Policy
 
@@ -42,4 +42,4 @@ While this site may contain links to other sites, please note that when you clic
 
 ##### How can you contact Equinox Fitness Clubs?
 
-If you have questions regarding our Privacy Policy, other areas of our Web site or our clubs, please [contact us](https://web.archive.org/contactus). Your feedback is always welcome and appreciated.
+If you have questions regarding our Privacy Policy, other areas of our Web site or our clubs, please [contact us](https://web.archive.org/contactus). Your feedback is always welcome and appreciated
