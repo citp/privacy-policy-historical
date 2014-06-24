@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babycentre.co.uk privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121000203id_/http%3A//www.babycentre.co.uk/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babycentre.co.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625002109id_/http%3A//www.babycentre.co.uk/about/privacy) for the most accurate reproduction.*
 
 # Privacy & Security - BabyCentre
 
@@ -24,7 +24,7 @@ Some areas of this site may ask you to submit personally identifiable informatio
 
 As you navigate through this site, certain anonymous information can be passively collected (that is, gathered without your actively providing the information) using various technologies, such as cookies, Internet tags or web beacons, and navigational data collection (log files, server logs, clickstream). Your Internet browser automatically transmits to this site some of this anonymous information, such as the URL of the Web site you just came from and the Internet Protocol (IP) address and the browser version your computer is currently using. This site may also collect anonymous information from your computer through cookies and Internet tags or web beacons. You may set your browser to notify you when a cookie is sent or to refuse cookies altogether, but certain features of this site might not work without cookies. 
 
-This site may use and combine such passively collected anonymous information to provide better service to site visitors, customize the site based on your preferences, compile and analyze statistics and trends, and otherwise administer and improve the site for your use. We may at times combine personally identifiable information with passively collected information in order to personalise offers and the site for our users (for example, combined information may allow us to recommend products or features to you based on what you have liked in the past). For more information about cookies and other passive tracking methods discussed above, please click here. 
+This site may use and combine such passively collected anonymous information to provide better service to site visitors, customize the site based on your preferences, compile and analyze statistics and trends, and otherwise administer and improve the site for your use. We may at times combine personally identifiable information with passively collected information in order to personalise offers and the site for our users (for example, combined information may allow us to recommend products or features to you based on what you have liked in the past). For more information about cookies and other passive tracking methods discussed above, please [click here](https://web.archive.org/e1001111/passive-information-collection). 
 
 ### Use and Disclosure of Information
 
@@ -42,7 +42,7 @@ BabyCenter also contracts with an analytics company, to measure: how visitors us
 
 (iii) in connection with the sale, assignment, or other transfer of the business of this site to which the information relates, in which case we will require any such buyer to agree to treat it in accordance with this Privacy Policy and use it for the same purposes; or 
 
-(iv) to respond to law enforcement requests or where required by applicable laws, court orders, or government regulations. 
+(iv) to respond to law enforcement requests, court orders or other legal process or if we believe that such disclosure is necessary to investigate, prevent or respond to illegal activities, fraud, physical threats to you or others or as otherwise required by any applicable law or regulation. 
 
 The collection, use, and disclosure of information contemplated in this Privacy Policy involves a transfer of the information to the United States and possibly other jurisdictions that may not have equivalent laws and rules regarding personally identifiable information as your country of residency. 
 
