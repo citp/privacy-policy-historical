@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the intelius.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231100321id_/http%3A//www.intelius.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intelius.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624030110id_/http%3A//www.intelius.com/privacy.php) for the most accurate reproduction.*
 
 # Search free to find people with Intelius People Search, Background Check, and Reverse Phone Lookup
 
-Effective April 5, 2013
+Effective October 25, 2013
 
 Intelius respects your right to privacy and we are committed to protecting it. This statement discloses the information practices for the web pages associated with the domain intelius.com (the "Website"), including what type of personal information we gather and track, how we use this personal information, and with whom we share the personal information.
 
 Intelius has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.
 
-If you have questions or concerns regarding this Policy, you should first contact our Chief Privacy Officer, at [privacy@intelius.com](mailto:privacy@intelius.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). TRUSTe will then serve as a liaison with us to resolve your concerns. The TRUSTe program only covers information that is collected through this website, and does not cover information that may be collected through any software downloaded from this website.
+If you have questions or concerns regarding this Policy, you should first contact us at [privacy@intelius.com](mailto:privacy@intelius.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). TRUSTe will then serve as a liaison with us to resolve your concerns. The TRUSTe program only covers information that is collected through this website, and does not cover information that may be collected through any software downloaded from this website.
 
 **Personal Information**
 
@@ -62,11 +62,13 @@ Fulfilling your Transaction Request. If you request something from this website,
 
 Communications from Us. When you request something from this website, we will send you transactional emails related to your service request. You cannot opt out of receiving these communications. However, you can opt in to receive promotional emails from us. If you later choose to opt out of receiving these emails, you can unsubscribe by clicking on the link included in the email or logging in to your account and changing your preferences.
 
-Marketing Use. The information you provide to us on this website, as well as information that we capture during your use of the website, may also be used by us and selected third party service providers for marketing purposes related to our products and services. We do not share, sell, rent, or trade your personal information with third parties for their marketing purposes. Third Party Monitoring. In addition, service providers and other third parties such as advertisers may also use information-gathering technologies on this website (including cookies and beacons) in connection with their services to collect anonymous information. Cookies used for this purpose do not contain personally identifiable information. This shared and/or collected information is controlled by the relevant affiliated company or third party and is not controlled by us; specifically, (i) such information is governed by the privacy policy and terms of use of the relevant other party and (ii) we will in no way be responsible or liable to you for any data breach by such other party that compromises or otherwise affects your information.
+Marketing Use. The information you provide to us on this website, as well as information that we capture during your use of the website, may also be used by us and selected third party service providers for marketing purposes related to our products and services. We do not share, sell, rent, or trade your personal information with third parties for their marketing purposes.
+
+Third Party Monitoring. In addition, service providers and other third parties such as advertisers may also use information-gathering technologies on this website (including cookies and beacons) in connection with their services to collect anonymous information. Cookies used for this purpose do not contain personally identifiable information. This shared and/or collected information is controlled by the relevant affiliated company or third party and is not controlled by us; specifically, (i) such information is governed by the privacy policy and terms of use of the relevant other party and (ii) we will in no way be responsible or liable to you for any data breach by such other party that compromises or otherwise affects your information.
 
 **Third Party Advertisers**
 
-We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, [click here](http://www.networkadvertising.org/optout_nonppii.asp). 
+We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, [click here](http://www.networkadvertising.org/optout_nonppii.asp).
 
 **Other Voluntary Information**
 
@@ -75,10 +77,6 @@ If you use our blog to submit a comment on our website, you should be aware that
 **Intelius Human Resources**
 
 In connection with a job application or inquiry, whether advertised on this website or otherwise, you may provide us with information about yourself, such as a resume or curriculum vitae. We use this information throughout Intelius and our affiliates for the purpose of employment consideration or otherwise responding to your inquiry. Unless you request that we don't, we may keep the information for future consideration.
-
-**Talentwise**
-
-In connection with an authorized employment or tenant screening of an applicant, we collectthrough our affiliate Talentwise Solutions LLCpersonally identifiable information about the applicant. We use this information only for the purpose of performing the authorized screening, and conduct such screening in accordance with the Fair Credit Reporting Act. We do not use this information for any other purpose.
 
 **Data Retention and Disclosures Required By Law**
 
@@ -90,7 +88,7 @@ This website contains links to other third-party websites. We are not responsibl
 
 **Children**
 
-This website is not intended for children under the age of 13. We do not knowingly publish information for anyone under the age of 13. If you know of anyone under the age of 13 whose information is published on our website, or have other concerns about children's privacy, please send an email to our Chief Privacy Officer at [privacy@intelius.com](mailto:privacy@intelius.com).
+This website is not intended for children under the age of 13. We do not knowingly publish information for anyone under the age of 13. If you know of anyone under the age of 13 whose information is published on our website, or have other concerns about children's privacy, please send an email to us at [privacy@intelius.com](mailto:privacy@intelius.com).
 
 **Information Security**
 
@@ -106,7 +104,7 @@ If you wish to cancel your account or request that we no longer use your informa
 
 **Enforcement**
 
-We regularly review our compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy to us by sending an email to our Chief Privacy Officer at [privacy@intelius.com](mailto:privacy@intelius.com) or by writing us at Privacy c/o Intelius, 500 108th AVE NE, 22nd Floor, Bellevue, WA 98004. It is our policy to contact the complaining user regarding his or her concerns.
+We regularly review our compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy to [privacy@intelius.com](mailto:privacy@intelius.com) or by writing us at Privacy c/o Intelius, 500 108th AVE NE, 22nd Floor, Bellevue, WA 98004. It is our policy to contact the complaining user regarding his or her concerns.
 
 **Changes to this Policy**
 
