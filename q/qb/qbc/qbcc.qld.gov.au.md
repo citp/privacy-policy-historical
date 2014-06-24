@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the qbcc.qld.gov.au privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216023217id_/http%3A//www.qbcc.qld.gov.au/Pages/WebsitePrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qbcc.qld.gov.au privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624050107id_/http%3A//www.qbcc.qld.gov.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy | Queensland Building and Construction Commission
 
-The Queensland Building and Construction Commission manages personal information in line with the [_Information Privacy Act 2009_](http://www.legislation.qld.gov.au/LEGISLTN/CURRENT/I/InfoPrivA09.pdf).
+The Queensland Building and Construction Commission manages personal information in line with the [ _Information Privacy Act 2009_  (PDF)](http://www.legislation.qld.gov.au/LEGISLTN/CURRENT/I/InfoPrivA09.pdf).
 
 We collect and manage your personal information as described on this page, unless stated otherwise. 'Personal information' may include your name, address, phone number, email address, age, gender, your employer, and your position title.
 
-## Information we may request
+#### Information we may request
 
 We may ask you to provide personal information if you submit feedback to this site. We will only do this:
 
@@ -16,26 +16,26 @@ We may ask you to provide personal information if you submit feedback to this si
 
 
 
-## Use and disclosure of personal information
+#### Use and disclosure of personal information
 
 We will not add you to a mailing list, or give your personal information to third parties without your consent, unless required by law.
 
-## Emails
+#### Emails
 
 Our privacy principles apply to emails as well.
 
 Our internet service provider or information technology staff may monitor email traffic for system trouble shooting and maintenance purposes only.
 
-## Cookies
+#### Cookies
 
 We use cookies to collect anonymous statistical information, including:
 
   * your browser, computer platform and screen resolution
   * your traffic patterns through our site, such as: 
-    * the date and time of your visit 
-    * the pages and documents accessed 
-    * the website you visited before ours 
-    * your server address. 
+    * the date and time of your visit
+    * the pages and documents accessed
+    * the website you visited before ours
+    * your server address.
 
 
 
@@ -43,7 +43,7 @@ We do not identify users or any browser activity outside this website, except in
 
 Transactional services available from this site may use cookies to track business processes. Please read the particular service's privacy and security statement before beginning a transaction.
 
-## Security
+#### Security
 
 Parts of this site transmit information securely across the internet. However this is not always feasible. We recognise that there may be risks transmitting information across the internet. We will notify you where personal information is not transmitted securely.
 
@@ -51,6 +51,6 @@ Where this site contains links to Queensland Government agencies’ websites, t
 
 Where this site contains links to non-Queensland Government websites, the Queensland Building and Construction Commission is not responsible for the privacy or security practices or the content of any such websites.
 
-## More information
+#### More information
 
-[Email us](mailto:rti@qbcc.qld.gov.au) if you would like to know more about information privacy.
+[Email us](mailto:rti@qbcc.qld.gov.au) if you would like to know more about information privacy.
