@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the therockfather.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805102707id_/http%3A//www.therockfather.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the therockfather.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624065457id_/http%3A//www.therockfather.com/about/privacy) for the most accurate reproduction.*
 
 # The Rock Father: Privacy Policy
 
-Updated April 21, 2013
+Updated February 24, 2014
 
 PLEASE READ THIS PRIVACY POLICY AND THE RELATED TERMS OF SERVICE CAREFULLY BEFORE USING THIS WEBSITE.
 
@@ -43,7 +43,8 @@ The Rock Father does not buy or sell consumer information. We use and disclose i
 
 **Advertising**
 
-The Rock Father works with a variety of third parties for ad delivery, including several affiliate networks. The non-personally-identifiable information collected about a Consumer’s visits to this and other web sites may be used in order to provide advertisements about goods and services of interest to the Consumer.
+THE ROCK FATHER works with third party companies to serve ads and/or collect certain anonymous information when you visit our Web site.  These companies may use non-personally identifiable information (e.g. click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you.  These companies typically use a cookie or third party web beacon to collect this information.  To learn more about this behavioral advertising practice visit the NAI at[ ](http://www.networkadvertising.org/)[http://www.networkadvertising.org](http://www.networkadvertising.org/).  To   
+opt-out of this type of advertising, you can visit[ ](http://www.aboutads.info/choices)<http://www.aboutads.info/choices>.  
 
 **Comment Sections  
 **
@@ -61,4 +62,4 @@ The Rock Father may periodically run promotional sweepstakes and/or contests. Pa
 **Revisions to Privacy Policy**
 
 By using the The Rock Father website, you signify your agreement to this Privacy Policy, as it may be amended and/or revised at any time. If you do not agree to this Privacy Policy, please do not use the The Rock Father website. The Rock Father reserves the right to change and/or amend this policy at any time without notification, which The Rock Father may provide to you by any reasonable means including, but not limited to, posting the revised policy on the The Rock Father website. Please note that you will always be able to determine if this Privacy Policy has been amended or updated since your last visit to our website by referring to the “Last Revised” legend at the beginning of this Privacy Policy. Your continued use of the The Rock Father website subsequent to changes to the Privacy Policy will mean that you accept and agree to the revisions. For any questions, suggestions, or concerns please email james [at] therockfather.com[  
-](mailto:%20%3Cscript%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'ma'%20+%20'il'%20+%20'to';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy57263%20=%20'info'%20+%20'@';%20addy57263%20=%20addy57263%20+%20'corpka'%20+%20'.'%20+%20'com';%20document.write\('%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20':'%20+%20addy57263%20+%20'\\'%3E'\);%20document.write\(addy57263\);%20document.write\('%3C\\/a%3E'\);%20//--%3E\\n%20%3C/script%3E%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3Cspan%20style=\\'display:%20none;\\'%3E'\);%20//--%3E%20%3C/script%3EThis%20email%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it.%20%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3C/'\);%20document.write\('span%3E'\);%20//--%3E%20%3C/script%3E)
+](mailto:%3Cscript%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'ma'%20+%20'il'%20+%20'to';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy52839%20=%20'info'%20+%20'@';%20addy52839%20=%20addy52839%20+%20'corpka'%20+%20'.'%20+%20'com';%20document.write\('%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20':'%20+%20addy52839%20+%20'\\'%3E'\);%20document.write\(addy52839\);%20document.write\('%3C\\/a%3E'\);%20//--%3E\\n%20%3C/script%3E%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3Cspan%20style=\\'display:%20none;\\'%3E'\);%20//--%3E%20%3C/script%3EThis%20email%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it.%20%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3C/'\);%20document.write\('span%3E'\);%20//--%3E%20%3C/script%3E)
