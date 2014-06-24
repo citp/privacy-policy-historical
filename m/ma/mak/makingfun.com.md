@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the makingfun.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218012224id_/http%3A//www.makingfun.com/footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makingfun.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624223131id_/http%3A//www.makingfun.com/footer/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy |
 
-**Updated July 29, 2013:**
+**Updated January 8, 2014:**
 
 Summary of the Making Fun, Inc. Privacy Policy:
 
@@ -49,6 +49,8 @@ Third parties that support the Making Fun Services by serving advertisements or 
 Most browsers are initially set to accept cookies, but you can change your settings to notify you when a cookie is being set or updated, or to block cookies altogether.  Please consult the “Help” section of your browser for more information (e.g., <http://windows.microsoft.com/en-us/windows7/block-enable-or-allow-cookies>).  Users can manage the use of Flash technologies, including cookies, with the Flash management tools available at Adobe’s website, see <http://www.adobe.com/privacy/policy.html>.  Please note that by blocking any or all cookies you may not have access to certain features or personalization available through the Making Fun Services.
 
 **Third Parties.  **To improve the quality of the Making Fun Services, we may also supplement the information we collect with information from third parties.
+
+**Not Track.**  Do Not Track (DNT) is a privacy preference that users can set in their web browsers, allowing users to opt out of tracking by websites and online services. At the present time, the World Wide Web Consortium (W3C) has not yet established universal standards for recognizable DNT signals, and, therefore, Making Fun, nor it’s publishing or affiliated partners, does not recognize DNT.
 
 **3\. NOTICE & CHOICE**
 
