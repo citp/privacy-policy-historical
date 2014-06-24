@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the darbysmart.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201093824id_/http%3A//www.darbysmart.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the darbysmart.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624030936id_/http%3A//www.darbysmart.com/privacy) for the most accurate reproduction.*
 
 # Darby Smart
 
@@ -27,6 +27,10 @@ Darby Smart may share data with trusted partners to help perform statistical ana
 Darby Smart may keep track of the websites and pages our users visit within Darby Smart, in order to determine what Darby Smart services are the most popular. This data is used to deliver customized content and advertising within Darby Smart to customers whose behavior indicates that they are interested in a particular subject area. 
 
 Darby Smart will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Darby Smart or the site; (b) protect and defend the rights or property of Darby Smart; and, (c) act under exigent circumstances to protect the personal safety of users of Darby Smart, or the public. 
+
+### Promotions
+
+Darby Smart Referral Program - We reserve the right to refuse sales to anyone. On all orders related to our referral program, valid referrals are defined as a new Darby Smart customer in a unique household.
 
 ### Use of Cookies
 
