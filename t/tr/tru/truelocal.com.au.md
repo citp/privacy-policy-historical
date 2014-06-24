@@ -1,88 +1,145 @@
-> *The following text is extracted and transformed from the truelocal.com.au privacy policy that was archived on 2013-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131019231327id_/http%3A//www.truelocal.com.au/cms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truelocal.com.au privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624234859id_/http%3A//www.truelocal.com.au/cms/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Local Business Directory - TrueLocal.com.au
 
-### What is TrueLocal’s privacy policy all about?
+11 March 2014
 
-This part of the website explains how TrueLocal handles your personal information. Your privacy is important to us and so we want to show you the measures we’ve taken to comply with the National Privacy Principles in the Commonwealth’s Privacy Act 1988.
+##### Protecting your privacy
 
-This section will also answer any queries you might have about how we collect, use and disclose information.
+Australian Local Search Pty Limited (“TrueLocal”, “we”, “our”, “us”) is committed to providing you with the highest levels of customer service and to protecting your privacy. We are bound by the Privacy Act 1988 (Cth) (“Privacy Act”), which sets out a number of principles concerning the protection of your personal information known as the Australian Privacy Principles.
 
-For the purposes of the privacy policy, please bear in mind this website is owned by Australian Local Search Pty Limited (ALS), trading as truelocal.com.au. In this document, ALS is referred to as ’TrueLocal’.
+This privacy statement sets out the type of information we collect, how we use it and who we may share it with. It may be amended from time to time and a current version is available at this weblink 
 
-The word ’customers’ includes visitors to our web sites, subscribers to and users of our services, purchasers of our products and advertising customers.
+##### About TrueLocal
 
-If you have any questions after reading this policy, please simply just get in touch with the Privacy Officer.
+TrueLocal is a wholly owned subsidiary of Sensis Pty Ltd ("Sensis”), and is responsible for the TrueLocal directory. In this statement a reference to “related companies” means Sensis and its subsidiary companies.
 
-### What information are you collecting about me?
+##### What personal information do we collect?
 
-The sort of information we collect includes such things as your name, address, telephone number, and in some instances, your financial details. When you are online, we collect information regarding the pages within our network that you have visited and what you click on.
+The personal information we collect and store may include your name, birth date, current and previous addresses, phone numbers, email addresses, work-related information, occupation, preferences for using our websites, driver’s license details, web log, computer, device and connection information and your TrueLocal user name and password, and (depending on the service) banking and credit card details. We also hold details of your TrueLocal services, including their status, as well as certain details about your personal interests.
 
-This information is collected as we provide our services to you.
+Sometimes we’ll need you to provide personal information about another person (for example, if you’d like to give someone access to your TrueLocal services). If that happens, we’ll need you to tell that person you’ve provided their personal information to us, and that we can be contacted for more information.
 
-As a general rule we don’t collect sensitive information. To the extent that we do collect sensitive informatioin, we will make sure that our collection and use of that information complies with all applicable laws, including by seeking your consent where required to do so.
+##### How do we collect personal information?
 
-We usually collect personal information directly from you although sometimes we may use agents or service providers to do this for us. We may also get lists that include personal information from other sources, both from other companies and from other public documents.
+We collect personal information in a number of ways, including:
 
-### How do you use the information I give you?
+  * directly from you through our websites, via phone, via application forms or when you download and use digital applications;
+  * from other parties (such as your representatives, credit reporting agencies, social media sites, our related companies, our syndication partners);
+  * from publicly available sources;
+  * from organisations identified under (“When do we disclose your personal information” see below);
+  * from our own records of when you visit us online or where we have an online presence (such as Facebook or Twitter);
+  * when we are required by law; and
+  * when you are online, we collect information regarding the pages within our network that you have visited and what you click on.
 
-We use your information to provide our services (which may include the display of personalised content and advertising) to you, to fulfil administrative functions associated with these services (for example, billing), to enter into contracts with you or third parties and for marketing and client relationship purposes.
 
-Where your personal information is contained within an advertisement that we publish for you, we may also use your information for publication of that same advertisement in other media. This includes providing the information in the advertisement to our syndication partners so that they can publish the advertisement on the websites and other media services that they operate.
 
-We may also use your personal information to help us improve our products and services and any of us might be in touch to let you know about goods, services, or promotions that may interest you.
+This is not an exhaustive list of information we may collect or store as it may depend on the service or product being offered. If you don’t provide us with this information, unfortunately we may not be able to provide you with the service you require.
 
-### Do you give information to third parties?
+We usually collect personal information directly from you although sometimes we may use agents or service providers to do this for us. We may also get lists and business information that include personal information from other sources, both from other companies and from other public documents.
 
-TrueLocal may give your information to service providers and contractors to help us provide and promote our goods and services to you. We may also share your information with third parties, including for syndication and marketing purposes. If we share your information with a third party in this way, we will reqire that the third party only use, store and disclose your information in a way that is consistent with this policy.
+##### How do we use your personal information?
 
-In addition, we may share your information with companies that are related to TrueLocal, including Sensis Pty Limited and Telstra Corporation Limited. Our related companies will use and disclose your personal information in accordance with their privacy policies. You can find more about their areas of business and commitment to privacy by visitiing their own websites, or by contacting the Privacy Officer.
+Your personal information may be used to;
 
-### Do you capture information through my computer’s web browser?
+  * verify your identity;
+  * provide, manage and administer your services;
+  * provide our products and services, including directory services and advertising through a number of media;
+  * conduct credit checks and to help prevent fraud;
+  * performing research and analysis aimed at improving our products, services and technologies;
+  * help us deliver better services to you;
+  * help us maintain and develop our business systems and infrastructure; and
+  * promote and market services to you(sometimes even after you leave us) either by ourselves, or our related companies.
 
-Our aim is to make using TrueLocal as easy to access and use as possible. One way to do this is to collect certain non-personal information from your computer that helps our web pages work better on your PC. For example the type of information we might collect would be the identity of your internet browser, the type of operating system you use, your IP address and the domain name of your internet service provider. This information would also be used to optimise our goods and services (which may include the display of personalised content and advertising) including our web pages.
 
-In addition, we may use personally identifiable information in aggregate form to improve our services. This statistical compilation and analysis of information may also be used by TrueLocal or provided to others as a summary report for marketing, advertising or research purposes.
 
-### Is my personal information secure?
+If you do not want TrueLocal to contact you to promote and market our products, services and special offers to you, please email [support@truelocal.com.au](mailto:support@truelocal.com.au). If you’ve subscribed to receive specific emails or SMS/MMS from us, you’ll continue receiving them unless you unsubscribe by following the instructions in these messages to cancel your subscription.
 
-Rest assured we make every effort to ensure your security, integrity and privacy. This entails using a variety of security measures such as restricting physical access to our offices and using firewalls and secure databases to keep personal information safe from misuse, loss, unauthorised use and disclosure. Bear in mind though that nobody can guarantee total security for data transmitted over the internet.
+##### When do we disclose your personal information?
 
-### Can I access the personal information you have about me?
+We may disclose your personal information to other organisations, but we’ll only do this in relation to us providing our services to you or as otherwise set out in this policy. We take all reasonable steps to maintain the security of your personal information and to protect it from unauthorised disclosures.
 
-Yes you have the right to access most personal information we hold about you. Just get in touch with the Privacy Officer.
+TrueLocal has processes in place that require organisations to adhere to confidentiality obligations to protect your personal information
 
-If there’s any reason why we can’t disclose any information, we’ll always let you know.
+These organisations may be based locally or overseas. They may carry out functions for us such as:
 
-### What about information I provide in public areas such as forums?
+  * customer enquiries;
+  * mailing operations;
+  * billing and debt-recovery functions;
+  * information technology services;
+  * data verification services;
+  * managing your advertising;
+  * marketing, telemarketing and sales services;
+  * market research; and
+  * website usage analysis.
 
-Any information posted on bulletin boards, in Ratings & Reviews and/or communicated in chat areas becomes public information by its nature. While we strive to protect and respect your privacy, we cannot guarantee the security of any information you disclose in these areas.
 
-### Do you use cookies?
 
-Our website is designed to make it easy for you to find out about and access our great features. To do this we use cookies, which are pieces of information that a website transfers to your computer’s memory or hard disk for record-keeping.
+In addition, we may disclose your personal information to:
 
-Cookies can help us make your experience of TrueLocal more relevant, and they can also help us learn about how people use our website so that we can make it better.
+  * your authorised representatives or advisers(when requested by you to do so);
+  * credit-reporting and fraud-prevention organisations;
+  * credit providers(for credit related purposes);
+  * our related companies;
+  * our professional advisers;
+  * government, regulatory authorities and other organisations, as required by law;
+  * organisations who manage our business and corporate strategies, including those involved in a transfer/sale of all or part of our assets or business and those involved in managing our corporate risk and funding functions; and
+  * our directories and syndication partners.
 
-Most web browsers are set to accept cookies, but you can always change your computer settings to stop them. If you choose to do that, you may not be able to take full advantage of our online services.
 
-### What about online links to third parties?
 
-TrueLocal may establish relationships with business partners that allow visitors to our internet sites to link directly to sites operated by these partners. Some of these sites may be co-branded with our logo even though these sites may not be operated or maintained by or on our behalf. These sites may collect personal information from you that may be shared with us. This privacy statement will apply to any personal information we obtain in this way.
+When we share your information with a third party, we will require that the third party only use, store and disclose your information in a way that is consistent with this policy.
 
-TrueLocal is not responsible for the content or practices of Web sites operated by third parties that are linked to our sites. These links are meant for your convenience only. Links to third party sites do not constitute sponsorship, endorsement or approval by TrueLocal of the content, policies or practices of those third party sites. Once you have left our site via such a link, you should check the applicable privacy policy of the third party site.
+##### Disclosure of your personal information outside of Australia
 
-### What else should I know about internet privacy?
+There are some circumstances where your personal information is disclosed outside of Australia including for information management and storage purposes such as cloud computing.The countries were these disclosures occur are primarily Philippines, India, United States of America, Canada and Israel.This list is not exhaustive and may change from time to time depending on who we partner with.We will endeavour to update this list on a periodic basis.
 
-Remember to close your browser when you have finished your user session. This is to ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place like a library or internet cafe. You as an individual are responsible for the security of and access to your own computer.
+We take active steps to ensure that any overseas located organisation we disclose your personal information to complies with the Australian Privacy Principles or is subjected to laws which are substantially similar to the Australian Privacy Principles.
 
-Whenever you voluntarily disclose personal information over the internet this information can be collected and used by others. In short, if you post personal information in publicly accessible online forums, you may receive unsolicited messages from other parties in return. Ultimately, you are solely responsible for maintaining the secrecy of your username and passwords and any account information. Please be careful and responsible whenever you use the internet.
+##### Your personal information and our related companies
 
-### Who can I contact for more information about privacy?
+We may share your personal information with our related companies to assist them with their business development and to market their own products and services to you and may continue to do so after you cease acquiring services from us. Our related companies will use and disclose your personal information in accordance with their privacy policies. If you want to know more about our related companies, their areas of business and their commitment to privacy, please contact us as set out below.
 
-If you want access to your information or if you have a complaint concerning your information privacy or if you would like more information about our approach to privacy, please contact our Privacy Officer.
+##### About our websites, applications, IP addresses and’cookies’
 
-Privacy Officer  
-Sensis Pty Ltd  
-222 Lonsdale Street  
-Melbourne 3000
+When you visit our sites our web servers record anonymous information such as the time, date and URL of the request. This information assists us to improve the structure of our websites and monitor their performance. Sometimes we also use third parties to analyse this information.
+
+We may use ’cookies’ or an equivalent on various websites and applications. A cookie is a small text file that our websites and applications use to store information on your browser or device. Usually, cookies are used so our websites and applications can remember your preferences and improve your online experience.We also use cookies for profiling purposes to tailor advertising to users’ interests.
+
+Sometimes cookies may collect and store personal information about you. We treat this information in the same way as any other personal information you provide. You can adjust your internet browser to disable cookies or to warn you when cookies are being used. However, if you disable cookies, you may not be able to access certain areas or experience the added features offered with the enablement of cookies.
+
+We also collect and manage Internet Protocol (IP) addresses - the unique identifier on your computer or device. It’s used for the purpose of providing internet session management and to detect any misuse or fraudulent activities involving our websites.
+
+TrueLocal may use third parties to analyse usage statistics. Such analysis is performed using data collected from our websites. The technology is not intended to collect personally identifiable information, however in limited circumstances some personally identifiable information is collected, for example, an email address incorporated into a URL string. Personally identifiable information collected in this way is not used by the third party or TrueLocal for any purpose.
+
+Digital advertising may be included on our site. To make this advertising more relevant to you, anonymous information about the previous web browsing activity on your computer’s or device’s internet browser on sites within the TrueLocal network is collected and used to associate your computer or device with one or more pre-defined interest categories.
+
+##### Additional terms in relation to TrueLocal applications
+
+In addition to TrueLocal’s obligations under the Privacy Act, and TrueLocal’s privacy statement and practices, TrueLocal develops its applications in accordance with the guidelines set by the relevant device manufacturer, which include guidelines relating to privacy.
+
+TrueLocal will only collect, use and disclose your personal information provided to us through your download and use of TrueLocal applications in the ways set out in this privacy statement.
+
+Some TrueLocal applications may collect information about your location at a given time in order to assist us in providing you with the service offered through that application. You may choose to opt out of having TrueLocal collect information about your location by turning off the location services feature on your mobile device. However, please note that this may result in TrueLocal being unable to provide you with the service (or all parts of the service) offered through the application.
+
+##### Credit reporting policy
+
+In the process of providing credit to you in connection with our products and services, we may collect ‘credit information’ and ‘credit eligibility information’ about you as referred to in the Privacy Act.We have arranged for Telstra Corporation Limited (”Telstra’) to manage our credit operations on our behalf. Information that we may collect in connection with the provision of credit to our customers, may be provided to Telstra. How this information is managed by Telstra is set out in their Credit Reporting Policy which is available by clicking [here.](http://www.telstra.com.au/privacy/important-information-about-credit/)
+
+##### Third party sites
+
+You may click-through to third party sites from our sites, in which case we recommend that you refer to the privacy statement of the sites you visit. TrueLocal’s privacy statement applies to the TrueLocal websites only and TrueLocal assumes no responsibility for information and content of third party sites.
+
+##### How accurate is your information?
+
+We take all reasonable precautions to ensure that the personal information we collect, use and disclose is accurate, complete and up to date. However, the accuracy of that information largely depends on the details you give us. Please let us know if there are any errors and keep us up to date with any changes.
+
+##### Access to your personal information and privacy complaints
+
+We take the protection of our customer’s privacy very seriously. If you have any privacy concerns or believe that your personal information is inaccurate or has been collected, used or disclosed in a manner contrary to privacy law we encourage you to raise any concerns you have with us by emailing [privacy@sensis.com.au](mailto:privacy@sensis.com.au) so that we can take steps to address them.
+
+In most cases we will ask that you put your request in writing to us. We will investigate your complaint and will use reasonable endeavours to respond to you in writing within 30 days of receiving the written complaint. If we fail to respond to your complaint within 30 days of receiving it in writing or if you are dissatisfied with the response that you receive from us, you may have the right, depending on the jurisdiction, to make a complaint to the applicable regulator.
+
+##### Further information
+
+Further information on privacy is available at the website of the Office of the Australian Information Commissioner <http://www.oaic.gov.au/>.
