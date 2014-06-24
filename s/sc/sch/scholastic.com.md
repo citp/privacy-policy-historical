@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scholastic.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231110739id_/http%3A//www.scholastic.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholastic.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624030759id_/http%3A//www.scholastic.com/privacy.htm) for the most accurate reproduction.*
 
 # Scholastic Privacy Policy | Your Privacy Rights
 
@@ -361,12 +361,12 @@ Jefferson City, MO 65101
 Email: custserv@scholastic.com  
 Phone: 800-SCHOLASTIC  
   
-[Scholastic Summer Challenge](https://web.archive.org/summer/privacypolicy.htm) | Scholastic Inc.  
+[Scholastic Summer Reading Challenge](https://web.archive.org/readingcampaign/privacy-policy.htm) | Scholastic Inc.  
 557 Broadway  
 New York, NY 10012  
 Email: summerchallenge@scholastic.com or custserv@scholastic.com  
 Phone: 800-246-2986 or 800-SCHOLASTIC  
-[Read 100,000](http://www.scholastic.com/readingcampaign/privacy-policy.htm) | Scholastic Inc.  
+[Read 100,000](https://web.archive.org/readingcampaign/privacy-policy.htm) | Scholastic Inc.  
 557 Broadway  
 New York, NY 10012  
 Email: custserv@scholastic.com  
@@ -400,7 +400,7 @@ On The STACKS, users also have the option to friend other users, take polls and 
 
 Kids can use The STACKS without an account, but an account is required to post on the message boards or have a profile page. To create a STACKS account, a child creates an anonymous user name through a combination of words selected from drop-down menus and an auto-generated random number. Kids also create a password. So that kids can get their password back if they forget it, we ask users a security question when they register. Passwords and security questions do not ask for personally identifiable information. We also ask for country, state/province, gender and age information as part of STACKS registration, which we keep in the aggregate, not in the user's account or connected to any other information about the user. Of this information, only the user name is publicly posted, such as in connection with message boards or profile pages.
 
-Where indicated, STACKS log-in credentials may be used on certain other Scholastic Kids Sites as well, like [The Infinity Ring](http://infinityring.scholastic.com/), [The 39 Clues](http://the39clues.scholastic.com/accountsmerge/plus), [Spirit Animals](http://spiritanimals.scholastic.com/), [Scholastic Summer Challenge](http://www.scholastic.com/summer/) and [Read 100,000](http://www.scholastic.com/ups/campaigns/minutes-2013/kids). When STACKS users log in to Scholastic Plus sites like The 39 Clues, the Infinity Ring or Spirit Animals, they may have the option of adding an email address as another means of password retrieval. If the child does submit an email address, we send a one-time email to that address with the user's log-in credentials for his or her records. The email address is then hashed, which means it is changed so that we cannot read it, and used only to retrieve the user's account information at the user's request.
+Where indicated, STACKS log-in credentials may be used on certain other Scholastic Kids Sites as well, like [The Infinity Ring](http://infinityring.scholastic.com/), [The 39 Clues](http://the39clues.scholastic.com/accountsmerge/plus), [Spirit Animals](http://spiritanimals.scholastic.com/), [Scholastic Summer Reading Challenge](http://www.scholastic.com/summer/) and [Read 100,000](http://www.scholastic.com/minutes). When STACKS users log in to Scholastic Plus sites like The 39 Clues, the Infinity Ring or Spirit Animals, they may have the option of adding an email address as another means of password retrieval. If the child does submit an email address, we send a one-time email to that address with the user's log-in credentials for his or her records. The email address is then hashed, which means it is changed so that we cannot read it, and used only to retrieve the user's account information at the user's request.
 
 To go to THE STACKS, go to [www.scholastic.com/kids/stacks/](http://www.scholastic.com/kids/stacks/).
 
