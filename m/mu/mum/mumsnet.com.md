@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mumsnet.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231104924id_/http%3A//www.mumsnet.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mumsnet.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624082926id_/http%3A//www.mumsnet.com/info/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy | Mumsnet
 
@@ -62,3 +62,13 @@ You may choose to change or restrict the use of your personal information by goi
 You may ask us to provide details of the personal information we hold about you, under the Data Protection Act 1998. To request this information, please mail us at contactus@mumsnet.com or write to Mumsnet Limited, Unit 6, Deane House Studios, 27 Greenwood Place, Highgate Rd, London NW5 1LB.
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible. We will, of course, happily correct any information that's found to be incorrect.
+
+Signing in via Facebook or Google, what information do we collect?
+
+If you choose to sign in via Facebook or Google you grant us access to information held by those services. The information we have access to depends on the service and is explicitly stated when you first connect those services.
+
+**Facebook**  
+You may choose to sign in via Facebook. By doing so you grant us access to your email address, your profile and your friends list. We respect our users privacy so we choose never to ask for your Friends List and we will never use your Friends List. You may revoke access at any time via your Facebook account settings. We follow the guidelines set out by Facebook regarding data collection and use as laid out [here](https://developers.facebook.com/policy/#data).
+
+**Google**  
+You may choose to sign in via Google. By doing so you give us your email address and basic account information. More details on signing into apps with Google can be found [here](https://support.google.com/plus/answer/2980762?hl=en-GB&ref_topic=2980759).
