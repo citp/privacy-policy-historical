@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kevro.co.za privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805202107id_/http%3A//kevro.co.za/Privacy%2520Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kevro.co.za privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624183213id_/http%3A//kevro.co.za/Privacy%2520Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Kevro
 
