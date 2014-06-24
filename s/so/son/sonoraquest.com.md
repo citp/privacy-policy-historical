@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sonoraquest.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222155253id_/http%3A//www.sonoraquest.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonoraquest.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624034621id_/http%3A//www.sonoraquest.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy < Sonora Quest Laboratories
 
@@ -6,7 +6,7 @@ By using our site, you consent to our privacy policies.
 
 If changes to our privacy policies are made we will post those changes on this page and/or update the Privacy Policy modification date below.
 
-**These policies were last modified in September 2013.**
+**These policies were last modified in  January 2014.**
 
 Should you have any questions about our privacy policies, please [contact us](https://web.archive.org/contact-us/?reason=sales) via email, call our HIPAA Privacy Director at (602) 685-5531, or write to us at the following address:
 
@@ -17,7 +17,7 @@ Tempe, Arizona 85281
 
 #### **Online Privacy Policy**
 
-This online privacy policy applies only to information collected through our website and not to information collected offline. Please read our [Notice of Privacy Practices](https://web.archive.org/uploads/docs/Notice_of_Privacy_Practices_0913.pdf) (also available in [Spanish](https://web.archive.org/uploads/docs/Notice_of_Privacy_Practices_Spanish_0913.pdf)) to learn how medical information about you may be used and disclosed and how you can get access to this information.
+This online privacy policy applies only to information collected through our website and not to information collected offline. Please read our [Notice of Privacy Practices](https://web.archive.org/uploads/docs/Notice_of_Privacy_Practices_English_0114.pdf) (also available in [Spanish](https://web.archive.org/uploads/docs/Notice_of_Privacy_Practices_Spanish_0114.pdf)) to learn how medical information about you may be used and disclosed and how you can get access to this information.
 
 #### **What information do we collect?**
 
@@ -72,7 +72,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 ### **NOTICE OF PRIVACY PRACTICES**
 
-[Printer-friendly version](https://web.archive.org/uploads/docs/Notice_of_Privacy_Practices_0913.pdf) | [Spanish version](https://web.archive.org/uploads/docs/Notice_of_Privacy_Practices_Spanish_0913.pdf)
+[Printer-friendly version](https://web.archive.org/uploads/docs/Notice_of_Privacy_Practices_English_0114.pdf) | [Spanish version](https://web.archive.org/uploads/docs/Notice_of_Privacy_Practices_Spanish_0114.pdf)
 
 THIS NOTICE DESCRIBES HOW MEDICAL INFORMATION ABOUT YOU MAY BE USED AND DISCLOSED AND HOW YOU CAN GET ACCESS TO THIS INFORMATION. PLEASE REVIEW IT CAREFULLY.
 
@@ -117,15 +117,17 @@ We may disclose your PHI as required to comply with a court or administrative or
 
 **Other Uses and Disclosures:** As permitted by HIPAA, we may disclose your PHI to:
 
-• Public Health Authorities  
-• The Food and Drug Administration  
-• Health Oversight Agencies  
-• Military Command Authorities  
-• National Security and Intelligence Organizations  
-• Correctional Institutions  
-• Organ and Tissue Donation Organizations  
-• Coroners, Medical Examiners and Funeral Directors  
-• Workers Compensation Agents
+• Public Health Authorities  
+• The Food and Drug Administration  
+• Health Oversight Agencies  
+• Military Command Authorities  
+• National Security and Intelligence Organizations  
+• Correctional Institutions  
+• Organ and Tissue Donation Organizations  
+• Coroners, Medical Examiners and Funeral Directors  
+• Workers Compensation Agents  
+• Electronic health information exchanges, including Arizona Health Information Exchange  
+ 
 
 We may also disclose relevant PHI to a family member, friend, or anyone else you designate in order for that person to be involved in your care or payment related to your care. We may also disclose PHI to those assisting in disaster relief efforts so that others can be notified about your condition, status and location.
 
@@ -143,7 +145,7 @@ We may also disclose relevant PHI to a family member, friend, or anyone else you
 
 **Request Confidential Communications:** You have the right to request that we send your health information by alternative means or to an alternative address, and we will accommodate reasonable requests.
 
-**Copy of this Notice:** You have the right to obtain a [paper copy](https://web.archive.org/uploads/docs/Notice_of_Privacy_Practices_0913.pdf) of this Notice upon request (also available in [Spanish](https://web.archive.org/uploads/docs/Notice_of_Privacy_Practices_Spanish_0913.pdf)).
+**Copy of this Notice:** You have the right to obtain a [paper copy](https://web.archive.org/uploads/docs/Notice_of_Privacy_Practices_English_0114.pdf) of this Notice upon request (also available in [Spanish](https://web.archive.org/uploads/docs/Notice_of_Privacy_Practices_Spanish_0114.pdf)).
 
 #### **How to Exercise Your Rights**
 
