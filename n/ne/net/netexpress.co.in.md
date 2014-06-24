@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netexpress.co.in privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221010109id_/http%3A//netexpress.co.in/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netexpress.co.in privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624020320id_/http%3A//netexpress.co.in/local/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Yellow pages India
 
@@ -74,4 +74,6 @@ You may choose not to provide certain personally identifiable information, but t
 **Changes To Privacy Policy  
 **NetExpress.co.in may amend this policy from time to time. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our web site.
 
-If you have **questions or suggestions** regarding our privacy policy, please contact us at info@NetExpress.co.in
+If you have **questions or suggestions** regarding our privacy policy, please contact us at info@NetExpress.co.in  
+  
+Copyright © 2014 NetExpress.co.in. All rights reserved.
