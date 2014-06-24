@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the textcashnetwork.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224172112id_/http%3A//www.truecashnetwork.com/content/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the textcashnetwork.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624171540id_/http%3A//www.truecashnetwork.com/content/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # True Cash Network ~ Creating Opportunities for Your Financial Freedom
 
