@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the apartmentguide.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119073731id_/http%3A//www.apartmentguide.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apartmentguide.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624024054id_/http%3A//www.apartmentguide.com/privacy) for the most accurate reproduction.*
 
 # Apartments for Rent and Rentals - Free Apartment Finder | ApartmentGuide.com
 
 RentPath, Inc., operator of Apartmentguide.com, is comitted to making your search for a new home as pleasant and successful as possible. Maintaining your privacy is a large part of our commitment. We will never disclose your personally identifiable information to any third party without your consent, except in limited circumstances to our business partners with whom we have established agreements that protect your privacy. 
+
+[Click here](https://web.archive.org/privacy/do-not-track/) to learn more about how we handle do-not-track signals and user tracking. 
 
 **Here's how we collect and use information from you in our efforts to provide the highest quality user experience:**
 
@@ -14,11 +16,11 @@ Your IP or Internet Protocol address and other site usage data is used to gather
 
 Our site uses a technology called "cookies," small files stored by your browser to help keep track of your user profile. We use temporary cookies to remember your personal profile for your convenience, to deliver content specific to your needs and interests, and to ensure you don't see the same ad repeatedly. We also use cookies to track user trends and improve areas of our sites that our users find valuable. We do not share cookie information with anyone without your permission. 
 
-We work with third-party data analytics and online targeting companies. Some of these companies may use anonymous information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide data and targeting recommendations based on which we may provide advertisements about goods and services of interest to you. To learn more about this practice or about your choice to opt-out of this practice please click [here](http://www.networkadvertising.org/).
+We work with third-party data analytics and online targeting companies. Some of these companies may use anonymous information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide data and targeting recommendations based on which we may provide advertisements about goods and services of interest to you. To learn more about this practice or about your choice to opt-out of this practice please click [here](http://www.networkadvertising.org/). 
 
 #### Ads
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click [here](http://www.doubleclick.com/privacy/index.aspx) and[here](http://www.networkadvertising.org/managing/opt_out.asp).
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click [here](http://www.doubleclick.com/privacy/index.aspx) and [here](http://www.networkadvertising.org/managing/opt_out.asp). 
 
 #### Registration
 
