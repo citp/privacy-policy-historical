@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankrate.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222095439id_/http%3A//www.bankrate.com/coinfo/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankrate.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624221826id_/http%3A//www.bankrate.com/coinfo/privacy.asp) for the most accurate reproduction.*
 
 # About Bankrate.com
 
@@ -107,7 +107,7 @@ Please note that if you submit a Request through our Services and we share Your 
 Aggregation and De-Personalization  
 We may take Your Information and de-indentify it either by combining it with information about other individuals (aggregating Your Information with information about other individuals), or by removing characteristics (such as your name) that make the information personally identifiable to you (de-identifying Your Information). We reserve the right to share, loan, rent, sell, or otherwise disclose such information to third parties at any time, for any lawful purpose, without notice or compensation to you. 
 
-haring with Friends   
+Sharing with Friends   
 If the Services contains any functionality allowing you to send content to a friend, then please be aware that: (a) we may display your email address to your friend; and (b) we may use information you provide about your friend to facilitate the communication and as otherwise set forth in this Privacy Policy. We do not store your friends email address in our database. Your friend will receive a one-time message notifying them of the shared content.
 
 Sweepstakes   
