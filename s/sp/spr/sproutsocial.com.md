@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sproutsocial.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214215345id_/http%3A//sproutsocial.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sproutsocial.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624030118id_/http%3A//sproutsocial.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sprout Social
 
 ### Sprout Social, Inc. Privacy Policy
 
-Sprout Social is committed to doing business with the highest ethical standards and appropriate internal controls. Our Privacy Policy applies to all users of [www.sproutsocial.com](http://www.sproutsocial.com/) (the “Site”). Sprout Social’s Terms of Service (“Terms”) is incorporated herein by reference and is available at [www.sproutsocial.com/terms](http://www.sproutsocial.com/terms). All defined terms in the Privacy Policy shall have the same meaning as defined in the Terms. Sprout Social adheres to the following policies with regards to Your privacy. 
+Sprout Social is committed to doing business with the highest ethical standards and appropriate internal controls. Our Privacy Policy applies to all users of [www.sproutsocial.com](http://sproutsocial.com/) (the “Site”). Sprout Social’s Terms of Service (“Terms”) is incorporated herein by reference and is available at [www.sproutsocial.com/terms](http://sproutsocial.com/terms). All defined terms in the Privacy Policy shall have the same meaning as defined in the Terms. Sprout Social adheres to the following policies with regards to Your privacy. 
 
 **1\. Definitions**
 
@@ -122,18 +122,26 @@ If the entire or substantial ownership of the Site were to change, Your user inf
 
 **12\. Notice to Residents of Countries outside of the United States of America**
 
-Sprout Social is headquartered in the United States of America. Personal Information may be accessed by us or transferred to us in the United States or to Our affiliates, business partners, merchants, or service providers elsewhere in the world. By providing us with Personally Identifiable Information, You consent to this transfer. We will protect the privacy and security of Personally Identifiable Information according to Our Privacy Policy, regardless of where it is processed or stored. 
+Sprout Social is headquartered in the United States of America. Personal Information may be accessed by us or transferred to us in the United States or to Our affiliates, business partners, merchants, or service providers elsewhere in the world. By providing us with Personally Identifiable Information, You consent to this transfer except in the case of data transfers from the EEA or Switzerland, which are covered under the EU Safe Harbor Framework. We will protect the privacy and security of Personally Identifiable Information according to Our Privacy Policy, regardless of where it is processed or stored. 
 
 **13\. California Privacy Rights**
 
 Pursuant to Section 1798.83 of the California Civil Code, residents of California can obtain certain information about the types of Personally Identifiable Information that companies with whom they have an established business relationship have shared with third parties for direct marketing purposes during the preceding calendar year. In particular, the law provides that companies must inform consumers about the categories of Personally Identifiable Information that have been shared with third parties, the names and addresses of those third parties, and examples of the types of services or products marketed by those third parties. To request a copy of the information disclosure provided by Sprout Social pursuant to Section 1798.83 of the California Civil Code, please contact us via email to [support@sproutsocial.com](mailto:privacy@SproutSocial.com). 
 
-**14\. Your Acceptance of This Privacy Policy**
+**14\. EU Safe Harbor & Switzerland Safe Harbor**
+
+We comply with the US-EU Safe Harbor Framework and US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. We have certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Our certification page, please visit [www.export.gov/safeharbor](http://www.export.gov/safeharbor/). 
+
+**15\. BBB EU Safe Harbor Program: Privacy Complaints by EU & Swiss Citizens**
+
+In compliance with the US-EU and US-Swiss Safe Harbor Principles, Sprout Social, Inc. commits to resolve complaints about Your privacy and Our collection or use of Your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Us at [privacy@sproutsocial.com](mailto:privacy@sproutsocial.com). 
+
+**16\. Your Acceptance of This Privacy Policy**
 
 This is Our entire Privacy Policy and it supersedes any earlier version. You agree to it every time You use the Site and/or Software. 
 
 If We make any material changes to this Privacy Policy, We will notify You by email or by posting a prominent notice on the Site prior to the change becoming effective. We encourage You to periodically review this page for the latest information on Our privacy practices. Your continued use of the Site or Service constitutes Your agreement to be bound by such changes to this Policy. Your only remedy, if You do not accept the terms of this Policy, is to discontinue use of the Site and Service. 
 
-**15\. Questions About This Privacy Policy**
+**17\. Questions About This Privacy Policy**
 
 Should You have a privacy question about the Site and/or Software, please email Our customer service department [(support@sproutsocial.com).](mailto:support@sproutsocial.com)
