@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoes.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213075406id_/http%3A//www.shoes.com/en-US/Content/PRIVACY.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoes.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624030322id_/http%3A//www.shoes.com/en-US/Content/PRIVACY.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Shoes.com
 
@@ -73,6 +73,10 @@ We reserve the right to disclose information about you when we believe disclosur
 ### Correcting or Updating Personal Information
 
 If your personally identifiable information (such as your zip code) changes, or if you no longer desire our service, we will provide a way for you to correct, update or remove your personal data provided to us. This can be done via email by clicking [here](https://web.archive.org/content.aspx?contentID=CUSTSERV).
+
+### Do Not Track Policy
+
+Some web browsers have a “do not track” feature that lets you tell websites you visit that you do not want to have your online activities tracked. These features are not yet uniform across browsers, so this site is not currently set up to respond to those signals. 
 
 ### Notification of Changes
 
