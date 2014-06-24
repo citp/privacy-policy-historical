@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the literatumonline.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030054745id_/http%3A//www.atypon.com/legal/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the literatumonline.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624182930id_/http%3A//www.atypon.com/legal/privacy-policy.php) for the most accurate reproduction.*
 
 # Atypon | Privacy Policy
 
 ### What Information Do We Collect?
 
-Atypon collects personal information in three ways—through information provided directly from our users and from information collected through web server logs.
+Atypon collects personal information in two ways: through information provided directly from our users and from information collected through web server logs.
 
 ### Information Supplied by Our Users
 
