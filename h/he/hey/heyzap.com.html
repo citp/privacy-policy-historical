@@ -1,7 +1,9 @@
-<!--The following is the downloaded HTML source of the heyzap.com privacy policy that was archived on 2013-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131218023947id_/http%3A//www.heyzap.com/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the heyzap.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625004922id_/http%3A//www.heyzap.com/legal/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-3.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"d19ae136f6","applicationID":"339706","transactionName":"IV4LREpXVA4AQR9VUgVQCR9MXVUSCVJEXA==","queueTime":0,"applicationTime":161,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-411.min.js","extra":""}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAIBV1RACwAJU1FU"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
   <meta charset="utf-8">
   <link rel="shortcut icon" href="/images/brand/appfavicon.ico">
   <link rel="icon" type="image/png" href="/images/brand/favicon.png?v=3">
@@ -11,25 +13,25 @@
   <!--[if lt IE 9]>
     <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
   <![endif]-->
-    <meta name="apple-itunes-app" content="app-id=435333429, app-argument=http://www.heyzap.com/legal/privacy">
   
-  <meta name="description" content=" Heyzap is a social network for mobile games that connects you to other gamers and recommends games you might enjoy. Available for Android, iOS, and the web.">
-  <title>Privacy Policy</title>
-  <link href="http://d2jks9au6e6w94.cloudfront.net/stylesheets/commander.css?1376694540" media="screen" rel="stylesheet" type="text/css">  <link href="http://d2jks9au6e6w94.cloudfront.net/stylesheets/heybar.css?1387328817" media="screen" rel="stylesheet" type="text/css">  <link href="http://d2jks9au6e6w94.cloudfront.net/stylesheets/footer.css?1379960439" media="screen" rel="stylesheet" type="text/css">
-  <link href="http://d2jks9au6e6w94.cloudfront.net/stylesheets/jquery.fancybox-1.3.1.css?1358385798" media="screen" rel="stylesheet" type="text/css">
+  <meta name="description" content="Heyzap is a mobile ad network for iOS, Android and Amazon.">
+  <title> Privacy Policy </title>
+  <link href="http://d2jks9au6e6w94.cloudfront.net/stylesheets/commander.css?1402707873" media="screen" rel="stylesheet" type="text/css">  <link href="http://d2jks9au6e6w94.cloudfront.net/stylesheets/heybar.css?1397776126" media="screen" rel="stylesheet" type="text/css">  <link href="http://d2jks9au6e6w94.cloudfront.net/stylesheets/footer.css?1402623763" media="screen" rel="stylesheet" type="text/css">
+  <link href="http://d2jks9au6e6w94.cloudfront.net/stylesheets/jquery.fancybox-1.3.1.css?1370708833" media="screen" rel="stylesheet" type="text/css">
   
   <!--[if lt IE 9]>
     <link href="/stylesheets/ie.css" media="screen" rel="stylesheet" type="text/css">
   <![endif]-->
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
   <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-  <script src="http://d2jks9au6e6w94.cloudfront.net/javascripts/jquery.fancybox-1.3.1.pack.js?1358385795" type="text/javascript"></script>
-  <script src="http://d2jks9au6e6w94.cloudfront.net/javascripts/spin.min.js?1358385795" type="text/javascript"></script>
-  <script src="http://d2jks9au6e6w94.cloudfront.net/javascripts/spin.jquery.js?1358385795" type="text/javascript"></script>
-  <script src="http://d2jks9au6e6w94.cloudfront.net/javascripts/jquery.query.js?1358385795" type="text/javascript"></script>
-  <script src="http://d2jks9au6e6w94.cloudfront.net/javascripts/facebook.js?1358385795" type="text/javascript"></script>
-  <script src="http://d2jks9au6e6w94.cloudfront.net/javascripts/twitter.js?1358385795" type="text/javascript"></script>
-  <script src="http://d2jks9au6e6w94.cloudfront.net/javascripts/payload.js?1387328817" type="text/javascript"></script>
+  <script src="http://d2jks9au6e6w94.cloudfront.net/javascripts/jquery.fancybox-1.3.1.pack.js?1370708782" type="text/javascript"></script>
+  <script src="http://d2jks9au6e6w94.cloudfront.net/javascripts/spin.min.js?1370708782" type="text/javascript"></script>
+  <script src="http://d2jks9au6e6w94.cloudfront.net/javascripts/spin.jquery.js?1370708782" type="text/javascript"></script>
+  <script src="http://d2jks9au6e6w94.cloudfront.net/javascripts/jquery.query.js?1370708782" type="text/javascript"></script>
+  <script src="http://d2jks9au6e6w94.cloudfront.net/javascripts/facebook.js?1370708782" type="text/javascript"></script>
+  <script src="http://d2jks9au6e6w94.cloudfront.net/javascripts/twitter.js?1370708782" type="text/javascript"></script>
+  <script src="http://d2jks9au6e6w94.cloudfront.net/javascripts/payload.js?1403189424" type="text/javascript"></script>
+  <script src="http://d2jks9au6e6w94.cloudfront.net/javascripts/footer.js?1402623763" type="text/javascript"></script>
     <script type="text/javascript">
       $(function(){
         $('.fancy-fixed').fancybox({width: 560, height: 560, scrolling: 'auto', autoScale: false, padding: 0});
@@ -39,79 +41,92 @@
     <!--Facebook appends a hash sometimes, this gets rid of it if they do -->
   <script type="text/javascript">if (window.location.hash == '#_=_')window.location.hash = '';</script>
   
+
+
 </head>
 <body>
+
+		<div id="black-bg">
+<nav id="heybar" class="developers">
+	<div class="centerize"> 
+
+		<h1><a href="http://www.heyzap.com">Heyzap</a></h1>
+		<ul id="navigator">
+
+
+        <li class="option ">
+          <a href="http://developers.heyzap.com/">Developers</a>
+        </li>
   
-		
-<div id="preloaded-images">
-  <img src="/images/navigation/mobile_nav_ribbon.png" width="1" height="1" alt="Mobile Nav Ribbon">
-  <img src="/images/navigation/mobile_nav_ribbon@2x.png" width="1" height="1" alt="Mobile Nav Ribbon Retina">
-  <img src="/images/navigation/mobile_nav_ribbon@2x.png" width="1" height="1" alt="Mobile Nav Ribbon Retina">
-</div>
+        <li class="option ">
+          <a href="http://developers.heyzap.com/cpi">Advertisers</a>
+        </li>
 
-<div id="black-bg">
-<nav id="heybar">
-  <div class="centerize">
+        <li class="option">
+          <a href="http://developers.heyzap.com/dashboard">Dashboard</a>
+        </li>
 
+        <li class="option ">
+          <a href="http://developers.heyzap.com/docs">Docs</a>
+        </li>
+
+        <li class="option last">
+          <a href="http://blog.heyzap.com/">Blog</a>
+        </li>
+
+
+			  <li class="login option last"><a href="/login?next=http://developers.heyzap.com/dashboard" class="login_link">Log In</a></li>
+        <li class="signup option"><a href="/register?next=http://developers.heyzap.com/dashboard" class="signup_link">Create Account</a></li>
+    </ul>
 
     <div id="menu-icon" class="menu">
       <div class="icon">Menu</div>
     </div>
 
-    <h1><a href="/">Heyzap</a></h1>
-    <ul id="navigator">
-      <li class="option ">
-          <a href="/mobile/popular">Home</a>
-      </li>
-      <li class="option ">
-        <a href="/games">Games</a>
-      </li>
-      <li class="option last">
-      <a href="http://developers.heyzap.com/">Developers</a>
-      </li>
-
-
-      <!-- Logged Out -->
-        <li class="login last"><a href="/login" class="login_link">Log in</a></li>
-        <li class="signup">
-          <a href="/signup" class="signup_link">Create Account</a>
-          <div id="signup-dropdown">
-            <div class="popup-tail"></div>
-            <div class="dropdown">
-              <ul id="user_expander_menu" class="new-user">
-                <li>
-                  <a href="/external_auth/facebook" class="fb-connect fb-signup blue-button small center"><div class="fb-logo"></div>Sign up with Facebook</a>
-                </li>
-                <li class="or">Or</li>
-                <li>
-                  <a href="/signup" class="option">Sign up with Email</a>
-                </li>
-              </ul>
-            </div>
-          </div>
-        </li>
-    </ul>
-  </div>
+	</div>
 </nav>
 </div>
 
 <ul id="mobile-dropdown">
+  <li><a href="/">Home</a></li>
+  <li><a href="http://developers.heyzap.com/dashboard">Dashboard</a></li>
   <li>
-      <a href="/mobile/popular">Home</a>
+    <a href="http://developers.heyzap.com/docs">Docs</a>
   </li>
-  <li><a href="/games">Games</a></li>
-    <li><a href="/signup">Create Account</a></li>
-    <li class="last"><a href="/login">Log in</a></li>
+    <li><a href="/login">Log In</a></li>
   <div class="clear"></div>
 </ul>
 
+<script type="text/javascript">
+  var menuSize;
 
-  <!-- Logged Out -->
-    <div id="log-in-prompt">
-      <p>Heyzap is the largest community for mobile games</p>
-      <a href="/external_auth/facebook" class="blue-button mini">Sign in with Facebook</a>
-      <a href="/login" class="green-button mini">Log in</a>
-    </div>
+  function configureMenuTop() {
+    "use strict";
+    menuSize = (-1 * $("#mobile-dropdown").height());
+  }
+
+  function menuTop() {
+    "use strict";
+    configureMenuTop();
+    $("#mobile-dropdown").css('top', menuSize + 'px');
+  }
+
+  jQuery(document).ready(function($){
+    "use strict";
+
+    menuTop();
+
+    $("#menu-icon").on("click", function(){
+      if ($("#mobile-dropdown").hasClass('active')) {
+        $("#mobile-dropdown").css('top',  menuSize + 'px');
+      } else {
+        $("#mobile-dropdown").css('top', '43px');
+      }
+      $("#mobile-dropdown").toggleClass('active');
+      $(this).toggleClass("active");
+    }); 
+  });
+</script>
 
 
 
@@ -123,95 +138,165 @@
     
 
 <style type="text/css">
-  .display {padding: 30px 60px 60px 60px; background-color: white;}
+  .display { padding: 30px 60px 60px 60px; background-color: white;}
+  .admin {
+    margin-left: 30px;
+  }
+  h1 {
+    font-size: 30px;
+  }
+
+  ol {
+    list-style-type: decimal;
+    list-style-position: inside;
+    font-size: 16px;
+  }
+
+  .legal ul {
+    list-style-type: disc;
+  }
 </style>
 
-<section class="display">
-
-       <h1 style="font-size: 30px;">Privacy Policy</h1>
-      <a href="/legal/terms">Terms of Service</a> | <a href="/legal/privacy">Privacy Policy</a> | <a href="/legal/copyright">Copyright</a>
-      <br><br>
-      <div class="line_break padding_br">
-      </div>
-      Last modified on May 14, 2013<br><br>
-      Heyzap understands that privacy is important. This Privacy Policy applies to any and all products, services, applications, platforms, websites, or other affiliated ventures operated by Smart Balloon, Inc. Throughout this Policy, "Heyzap" and "We" refers to Smart Balloon, Inc. and its affiliates. "You" or "Users" refers to you, our users - everyone who uses, subscribes to, publishes through, advertises through, joins, or visits Heyzap. The "Heyzap Platform" refers to the applications, platform, web site and services controlled, operated or produced by Smart Balloon, Inc.<br><br>
-      By using the Heyzap Platform, you expressly consent to the information handling practices described in this notice. This Privacy Policy is incorporated into and is subject to the Heyzap Platform Terms of Use. Your use of the Heyzap Platform and any personal information you provide through the Heyzap Platform are subject at all times to this Privacy Policy and the Terms of Use. This policy explains how information is collected and used by Heyzap.<br>
-      <br>
-      <h3>TABLE OF CONTENTS</h3>
-      <h3><ol>
-        <li>1. The Information Heyzap Collects</li>
-        <li>2. The Way Heyzap Uses Information</li>
-        <li>3. When Heyzap Discloses Information</li>
-        <li>4. Your Choices</li>
-        <li>5. Advertisers</li>
-        <li>6. Advertisers and COPPA</li>
-        <li>7. Data Security</li>
-        <li>8. Children‘s Privacy</li>
-        <li>9. International Visitors</li>
-        <li>10. In the Event of Merger or Sale</li>
-        <li>11. Third Parties</li>
-        <li>12. Changes and Updates to this Privacy Policy</li>
-        <li>13. Heyzap Contact Information</li>
-      </ol></h3>
-      <br>
-      <h3>1. The Information Heyzap Collects:</h3>
-      Information You Provide: You may provide to Heyzap personal information (such as your name, age, zip code, email address, credit card number, postal mailing address, and telephone numbers) if you use certain services or products from the Heyzap Platform, enter contests or sweepstakes, or otherwise use the features and functionality of the Heyzap Platform.<br><br>
-      "Automatically Collected" Information: When you access the Heyzap Platform (including through your computer or your mobile device) or open one of our HTML emails, we may automatically record certain information from your system by using different types of tracking technology. This "automatically collected" information may include Internet Protocol address ("IP Address"), MAC Address, a unique device or advertiser ID, version of software installed, system type, your listening preferences, the content and pages that you access on the Heyzap Platform, and the dates and times that you visit the Heyzap Platform.<br><br>
-      "Cookies" Information: When you access the Heyzap Platform, we may send one or more cookies - small text files containing a string of alphanumeric characters - to your computer. Heyzap may use both session cookies and persistent cookies. A session cookie disappears after you close your browser. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Heyzap Platform. Persistent cookies can be removed. Please review your web browser "Help" file to learn the proper way to modify your cookie settings.<br><br>
-      Your User ID. Your User ID is displayed throughout the Heyzap Platform and is therefore available to the public. Other people can see your feedback, ratings and associated comments, etc. Therefore, if you associate your actual name with your User ID, the people to whom you have revealed your name will be able to personally identify your activities on the Heyzap Platform.<br>
-      <br>
-      <h3>2. The Way Heyzap Uses Information:</h3>
-      Heyzap uses the information that you provide or that we collect to operate, maintain, enhance, and provide all of the features and services found on the Heyzap Platform as well as to track user-generated content and Users to the extent necessary to comply as a service provider with the Digital Millennium Copyright Act and other applicable laws.<br><br>
-      We may use your email address or other provided contact (e.g. mobile number), without further consent, for administrative communications such as notifying you of major Heyzap Platform updates, for customer service purposes, to address copyright infringement or defamation issues, or to contact you regarding any content that you have posted and to send privacy or security related notices.<br><br>
-      Heyzap uses all of the information that we collect to understand the usage trends and preferences of our Users, to improve the way the Heyzap Platform works and looks, to create new features and functionality.<br><br>
-      Heyzap may use "Automatically Collected" information and "Cookies" information to: (a) automatically update the Heyzap application on your system; (b) remember your information so that you will not have to re-enter it during your visit or the next time you access the Heyzap Platform; (c) provide customized third-party advertisements, content and information; (d) monitor and report on the effectiveness of third-party marketing campaigns; (e) monitor and report aggregate usage metrics such as total number of visitors and pages accessed; and (f) provide such metrics to Users as they pertain to such User‘s uploaded content; and (g) track your entries, submissions, and status in any promotions or other activities.<br>
-      <br>
-      <h3>3. When Heyzap Discloses Information:</h3>
-      Please be aware that any personally identifiable information that you voluntarily choose to display on any publicly available portion of the Heyzap Platform - such as when you publish contact information to complete your profile information - becomes publicly available and may be collected and used by others without restriction.<br><br>
-      Heyzap may disclose Automatically Collected and other aggregate non-personally-identifiable information (such as IP addresses, anonymous User usage data, listening preferences, referring / exit pages and URLs, platform types, number of clicks, etc.) with interested third parties to assist those parties in understanding the usage and demographic patterns for certain content, services, advertisements, promotions, or other functionality on the Heyzap Platform.<br><br>
-      We may disclose some limited User information to affiliated companies or other businesses or persons to: provide web site hosting, maintenance, and security services; fulfill orders; conduct data analysis and create reports; offer certain functionality; and assist Heyzap in improving the Heyzap Platform and creating new services features. We contractually require that these parties process such information in compliance with this Privacy Policy, we authorize only a limited use of such information, and we require these parties to use reasonable confidentiality measures.<br><br>
-      Heyzap may disclose User information if required to do so by law or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. copyright or trademark law) or respond to a court order, judicial or other government subpoena, or warrant in the manner required by the requesting entity.<br><br>
-      Heyzap also reserves the right to disclose User information including messages, comments, bios, and more that we believe, in good faith, is appropriate or necessary to take precautions against liability; enforce our Terms of Use; protect Heyzap from fraudulent, abusive, or unlawful uses; to investigate and defend ourselves against third-party claims or allegations; to assist government enforcement agencies; to protect the security or integrity of the Heyzap Platform; or to protect the rights, property, or personal safety of Heyzap, our Users, or others.<br>
-      <br>
-      <h3>4. Your Choices and Access to your Personal Information</h3>
-      You may, of course, decline to share your personally-identifiable information with Heyzap, in which case Heyzap will not be able to provide to you some of the features and functionality found on the Heyzap Platform. You may view, update, correct, or delete your user information and preferences by contacting us at privacy@heyzap.com<br><br>
-      To protect your privacy and security, we take reasonable steps to verify your identity before granting you account access or making corrections to your information. YOU ARE RESPONSIBLE FOR MAINTAINING THE SECRECY OF YOUR UNIQUE PASSWORD AND ACCOUNT INFORMATION AT ALL TIMES.<br>
-      <br>
-      <h3>5. Advertisers</h3>
-      Heyzap allows other companies, called advertisers, third-party ad servers or ad networks, referred to herein as “Advertisers,” to serve advertisements within the Heyzap Platform. Heyzap may use technology to send, directly to mobile devices, the advertisements that appear within the Heyzap Ad Network and Application and will receive automatically collected information when this happens. Heyzap may also use other technologies (such as cookies, javascript, or web beacons) to measure the effectiveness of advertisements and to personalize advertising content. Please note that if an advertiser asks Heyzap to show an advertisement to a certain audience or audience segment and you respond to that advertisement, the Advertiser may conclude that you fit the description of the audience that they were trying to reach.<br><br>
-      You should consult the respective privacy policies of these third-party Advertisers. This Privacy Policy does not apply to, and we cannot control the activities of, such other advertisers. Heyzap reserves the right to add or remove Advertisers at its discretion and Heyzap may not at all times list such updated ad network partners in this Privacy Policy.<br>
-      <br>
-      <h3>6. Advertisers and COPPA </h3>
-      Heyzap will not knowingly target any advertisements to children under the age of 13. Heyzap will not knowingly collect information about children under the age of 13, and if we become aware of the collection of such knowledge, will purge that information from our systems immediately.<br><br>
-      By using the Heyzap SDK, advertisers are agreeing not to use our services to provide advertisements to children under 13 and are ensuring their own compliance to COPPA standards. The Heyzap SDK is not to be used in any child-directed applications. If an advertiser becomes aware that their application has come into conflict with COPPA, the advertiser is required to report this to Heyzap immediately. 
-      <br>
-      <h3>7.     Our Commitment to Data Security:</h3>
-      Heyzap uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information.  We cannot, however, ensure or warrant the security of any information you transmit to Heyzap, and you do so at your own risk.  Once we receive your transmission of information, Heyzap makes commercially reasonable efforts to ensure the security of our systems.  However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.<br><br>
-      If Heyzap learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. Heyzap may post a notice on the Heyzap Platform if a security breach occurs.  Depending on where you live, you may have a legal right to receive notice of a security breach in writing.  To receive a free written notice of a security breach you should notify us at privacy@Heyzap.com.<br>
-      <br>
-      <h3>8.     Our Commitment to Children‘s Privacy:</h3>
-      Protecting the privacy of children is especially important. For that reason, Heyzap does not allow users under 13 years of age to access the Heyzap product nor does Heyzap knowingly collect or maintain personally identifiable information from persons under 13 years-of-age. Heyzap requires that advertising partners confirm their game’s audience does not target, in whole or in part, users under the age of the 13.  If Heyzap learns that personally-identifiable information of persons less than 13-years-of-age has been collected on or through the Heyzap Platform, then Heyzap will take the appropriate steps to delete this information.<br><br>
-      If you are the parent or legal guardian of a child under 13 who has become Heyzap Platform member, then please contact Heyzap at privacy@Heyzap.com to have that child‘s account terminated and information deleted.
-      <br><br>
-      <h3>9. International Visitors:</h3>
-      For Users visiting the Heyzap Platform from the European Union or other non-U.S. territories, please note that any data you enter into the Heyzap Platform will be transferred outside the European Union or such other non-U.S. territory for use by Heyzap and its affiliates for any of the purposes described herein. In addition, because Heyzap operates globally, we may make information we gather available to worldwide business units and affiliates. By providing any data on the Heyzap Platform, you hereby expressly consent to such transfers of your data to the United States or other countries.<br>
-      <br>
-      <h3>10. In the Event of Merger or Sale:</h3>
-      In the event that Heyzap is acquired by or merged with a third-party entity, we reserve the right, in any of these circumstances, to transfer or assign the information that we have collected from Users as part of that merger, acquisition, sale, or other change of control.<br>
-      <br>
-      <h3>11. Third Parties</h3>
-      Except as otherwise expressly provided otherwise, this document addresses only the use and disclosure of information we collect from you or that you disclose to us. If you disclose your information to others besides Heyzap, whether they are users of the Heyzap Platform or on other sites or services, different rules may apply to their use or disclosure of the information you disclose to them. Heyzap does not control the privacy policies of third parties, and you are subject to the privacy policies of those third parties where applicable. We encourage you to ask questions before you disclose your personal information to others.<br>
-      <br>
-      <h3>12. Changes and Updates to this Privacy Policy:</h3>
-      This Privacy Policy may be revised periodically without further notice to you and this will be reflected by a "last modified" date above. Please revisit this page to stay aware of any changes. In general, we only use your personal information in the manner described in the Privacy Policy in effect when we received that personal information. Your continued use of the Heyzap Platform constitutes your agreement to this Privacy Policy and any future revisions.<br><br>
-      For revisions to this Privacy Policy that may be materially less restrictive on our use or disclosure of personal information you have provided to us, we will make reasonable efforts to notify you and obtain your consent before implementing revisions with respect to such information.<br>
-      <br>
-      <h3>13. Heyzap Contact Information:</h3>
-      Please contact Heyzap with any questions or comments about this Privacy Policy, to obtain access to your personal information, and our third-party disclosure practices or your consent choices at: 251 Kearny St. 3rd Floor, San Francisco, CA 94108 or by email: privacy@Heyzap.com We will respond to your inquiry within 30 days of its receipt.<br>
-</section></div>
 
 
-	
+<section class="display legal">
+
+
+  <h1> Privacy Policy </h1>
+
+  <a href="/legal/terms">Terms of Service</a> | <a href="/legal/privacy">Privacy Policy</a> | <a href="/legal/copyright">Copyright</a> | <a href="/legal/advertiser_agreement">Advertiser Agreement</a> | <a href="/legal/sdk">SDK</a>
+
+  <p><em>Last modified on April 24, 2014</em></p>
+
+<p>Heyzap understands that privacy is important. This Privacy Policy applies to any and all products, services, applications, Applications, websites, or other affiliated ventures operated by Heyzap, Inc. Throughout this Policy, “Heyzap” and “We” refers to Heyzap, Inc. and its affiliates. “You” or “Users” refers to you, our users - everyone who uses, subscribes to, publishes through, advertises through, joins, or visits Heyzap. The “Heyzap Application and/or Heyzap Network” refers to the applications you download from the Apple app store or the Google Play store. The term “Heyzap Network” applies to the web site, games, and/or services controlled, operated or produced by Heyzap, Inc. and all advertisements and other content referenced therein.</p>
+
+<p>By using the Heyzap Application and/or Heyzap Network and the Heyzap Network, you expressly consent to the information handling practices described in this notice. This Privacy Policy is incorporated into and is subject to the Heyzap Application and/or Heyzap Network Terms of Service. Your use of the Heyzap Application and/or Heyzap Network and any personal information you provide through the Heyzap Application and/or Heyzap Network are subject at all times to this Privacy Policy and the Terms of Use. This policy explains how information is collected and used by Heyzap.</p>
+
+<h2 id="table_of_contents">Table of Contents</h2>
+
+<ol>
+<li>The Information Heyzap Collects</li>
+
+<li>The Way Heyzap Uses Information</li>
+
+<li>When Heyzap Discloses Information</li>
+
+<li>Your Choices</li>
+
+<li>Advertisers</li>
+
+<li>Advertisers and COPPA</li>
+
+<li>Developers and COPPA</li>
+
+<li>Data Security</li>
+
+<li>Children’s Privacy</li>
+
+<li>International Visitors</li>
+
+<li>In the Event of Merger or Sale</li>
+
+<li>Third Parties</li>
+
+<li>Changes and Updates to this Privacy Policy</li>
+
+<li>Heyzap Contact Information</li>
+</ol>
+
+<h3 id="1_the_information_heyzap_collects">1. The Information Heyzap Collects:</h3>
+
+<p>Information You Provide: You may provide to Heyzap personal information (such as your name, email address, and/or other persistent identifier such as a commonly used username, age, zip code, credit card number, postal mailing address, and telephone numbers) if you use the Heyzap Application and/or Heyzap Network.</p>
+
+<p>“Automatically Collected” Information: When you access the Heyzap Application and/or Heyzap Network (including through your computer or your mobile device) or open one of our HTML emails, we may automatically record certain information from your system by using different types of tracking technology. This “automatically collected” information may include Internet Protocol address (“IP Address”), IDFA, Android ID, geolocation, country code, a unique device or advertiser ID, version of software installed, operating system type, the content and pages that you access on the Heyzap Application and/or Heyzap Network, and the dates and times that you visit the Heyzap Application and/or Heyzap Network.</p>
+
+<p>“Cookies” Information: When you access the Heyzap Application and/or Heyzap Network, we may send one or more cookies - small text files containing a string of alphanumeric characters - to your computer or mobile device.</p>
+
+<p>Your User ID. Your User ID is displayed throughout the Heyzap Application and/or Heyzap Network and is therefore available to the public. Other people can see your activity, feedback, ratings and associated comments, etc. Therefore, if you associate your actual name with your User ID, the people to whom you have revealed your name will be able to personally identify your activities on the Heyzap Application and/or Heyzap Network.</p>
+
+<h3 id="2_the_way_heyzap_uses_information">2. The Way Heyzap Uses Information</h3>
+
+<p>Heyzap uses the information that you provide or that we collect to operate, maintain, enhance, and provide all of the features and services found on the Heyzap Application and/or Heyzap Network as well as to track user-generated content and Users to the extent necessary to comply as a service provider with the Digital Millennium Copyright Act and other applicable laws.</p>
+
+<p>We may use your email address or other provided contact (e.g. mobile number), without further consent, for administrative communications such as notifying you of major Heyzap Application and/or Heyzap Network updates, for customer service purposes, to address copyright infringement or defamation issues, or to contact you regarding any content that you have posted and to send privacy or security related notices.</p>
+
+<p>Heyzap uses all of the information that we collect to understand the usage trends and preferences of our Users, to improve the way the Heyzap Application and/or Heyzap Network works and looks, to create new features and functionality.</p>
+
+<p>Heyzap may use “Automatically Collected” information and “Cookies” information to: (a) automatically update the Heyzap Application and/or Heyzap Network on your system; (b) remember your information so that you will not have to re-enter it during your visit or the next time you access the Heyzap Application and/or Heyzap Network; (c) provide customized third-party advertisements, content and information; (d) monitor and report on the effectiveness of third-party marketing campaigns; (e) monitor and report aggregate usage metrics such as total number of visitors and pages accessed; and (f) provide such metrics to Users as they pertain to such User’s uploaded content; and (g) track your entries, submissions, and status in any promotions or other activities.</p>
+
+<h3 id="3_when_heyzap_discloses_information">3. When Heyzap Discloses Information:</h3>
+
+<p>Please be aware that any personally identifiable information that you voluntarily choose to display on any publicly available portion of the Heyzap Application and/or Heyzap Network - such as when you publish contact information to complete your profile information - becomes publicly available and may be collected and used by others without restriction.</p>
+
+<p>Heyzap may disclose Automatically Collected and other aggregate non-personally-identifiable information (such as anonymous User usage data, referring / exit pages and URLs, Application types, number of clicks, etc.) with interested third parties to assist those parties in understanding the usage and demographic patterns for certain content, services, advertisements, promotions, or other functionality on the Heyzap Application and/or Heyzap Network. Heyzap may share your information with third parties with whom Heyzap has a strategic relationship, such as advertisers. The information shared with these third parties may be used for industry analysis, tracking ad conversions or demographic profiling. Heyzap may also provide your information to our business partners or other trusted entities for the purpose of providing you with information on goods and services Heyzap believes will be of interest to you.</p>
+
+<p>We may disclose some limited User information to affiliated companies or other businesses or persons to: provide web site hosting, maintenance, and security services; fulfill orders; conduct data analysis and create reports; offer certain functionality; for advertising attribution; and to assist Heyzap in improving the Heyzap Application and/or Heyzap Network and creating new services features. We contractually require that these parties process such information in compliance with this Privacy Policy, we authorize only a limited use of such information, and we require these parties to use reasonable confidentiality measures.</p>
+
+<p>Heyzap may disclose User information if required to do so by law or in the good-faith belief that such action is necessary to comply with state and federal laws or respond to a court order, judicial or other government subpoena, or warrant in the manner required by the requesting entity.</p>
+
+<p>Heyzap also reserves the right to disclose User information including messages, comments, bios, and more that we believe, in good faith, is appropriate or necessary to take precautions against liability; enforce our Terms of Use; protect Heyzap from fraudulent, abusive, or unlawful uses; to investigate and defend ourselves against third-party claims or allegations; to assist government enforcement agencies; to protect the security or integrity of the Heyzap Application and/or Heyzap Network; or to protect the rights, property, or personal safety of Heyzap, our Users, or others.</p>
+
+<h3 id="4_your_choices_and_access_to_your_personal_information">4. Your Choices and Access to your Personal Information</h3>
+
+<p>You may, of course, decline to share your personally-identifiable information with Heyzap. However, this means you will be unable to use the Heyzap Application and/or Heyzap Network.</p>
+
+<p>Heyzap does respect your choice to use Apple’s IFDA opt out option. In the event you are both an Apple user and have chosen to opt out of sharing your personal data, the Heyzap Application and/or Heyzap Network will be unable to store and use your data. Please be aware that the advertisements and other content served to you by the Heyzap Application and/or the Heyzap Network will not be optimized for your usage.</p>
+
+<p>To protect your privacy and security, we take reasonable steps to verify your identity before granting you account access or making corrections to your information. YOU ARE RESPONSIBLE FOR MAINTAINING THE SECRECY OF YOUR UNIQUE PASSWORD AND ACCOUNT INFORMATION AT ALL TIMES.</p>
+
+<h3 id="5_advertisers">5. Advertisers</h3>
+
+<p>Heyzap allows other companies, called advertisers, third-party ad servers or ad networks, referred to herein as “Advertisers,” to serve advertisements within the Heyzap Application and/or Heyzap Network and the Heyzap Network. Heyzap shares information, including your data, with its advertisers and publishers of games and/or services that connect to the Heyzap Application and/or Heyzap Network. Heyzap may use technology to send, directly to mobile devices, the advertisements that appear within the Heyzap Network and Application and will receive automatically collected information when this happens. Heyzap may also use other technologies (such as cookies, javascript, or web beacons) to measure the effectiveness of advertisements and to personalize advertising content. Please note that if an advertiser asks Heyzap to show an advertisement to a certain audience or audience segment and you respond to that advertisement, the Advertiser may conclude that you fit the description of the audience that they were trying to reach. Heyzap does not permit the use of behavioral advertising or advertising specifically targeted toward children under 13 years of age.</p>
+
+<p>While we encourage our advertisers to respect your privacy and the law, we take no responsibility for the services and advertisements provided by our advertisers. You should consult the respective privacy policies of these third-party Advertisers. This Privacy Policy does not apply to, and we cannot control the activities of, such other advertisers. Heyzap reserves the right to add or remove Advertisers at its discretion and Heyzap may not at all times list such updated ad network partners in this Privacy Policy.</p>
+
+<h3 id="6_advertisers_and_coppa">6. Advertisers and COPPA</h3>
+
+<p>Heyzap will not knowingly target any advertisements to children under the age of 13. Heyzap will not knowingly collect information about children under the age of 13, and if we become aware of the collection of such knowledge, will purge that information from our systems immediately.</p>
+
+<p>By using the Heyzap Application and/or the Heyzap Network, advertisers are agreeing not to use our services to provide advertisements to children under 13 and are ensuring their own compliance to COPPA standards. The Heyzap Application and/or Heyzap Network is not to be used in any child-directed advertisements. The Heyzap Application and/or Network is to be used only for contextual targeting and any use of behavioral advertising will result in the advertiser’s account being terminated immediately. If an advertiser becomes aware that their advertisements have come into conflict with COPPA, the advertiser is required to report this to Heyzap immediately. We rely on our advertisers to report any conflicts to us and do not maintain an aggressive enforcement program regarding our advertisers. If, however, you feel that any advertisers are not in compliance with COPPA or other regulations, we encourage you to contact us.</p>
+
+<h3 id="7_developers_and_coppa">7. Developers and COPPA</h3>
+
+<p>By using the Heyzap Application and/or the Heyzap Network, developers are agreeing not to use our services to provide applications to children under 13 and are ensuring their own compliance to COPPA standards. The Heyzap Application and/or Heyzap Network is not to be used in any child-directed applications. If a developer becomes aware that their applications have come into conflict with COPPA, the developer is required to report this to Heyzap immediately. We rely on our developers to report any conflicts to us and do not maintain an aggressive enforcement program regarding our developers. If, however, you feel that any developers are not in compliance with COPPA or other regulations, we encourage you to contact us.</p>
+
+<h3 id="8_our_commitment_to_data_security">8. Our Commitment to Data Security:</h3>
+
+<p>Heyzap uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Heyzap, and you do so at your own risk. Once we receive your transmission of information, Heyzap makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.</p>
+
+<p>If Heyzap learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. Heyzap may post a notice on the Heyzap Application and/or Heyzap Network if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach you should notify us at privacy@Heyzap.com.</p>
+
+<h3 id="9_our_commitment_to_childrens_privacy">9. Our Commitment to Children’s Privacy:</h3>
+
+<p>Protecting the privacy of children is especially important. For that reason, Heyzap does not allow users under 13 years of age to access the Heyzap Application and/or Heyzap Network nor does Heyzap knowingly collect or maintain personally identifiable information from persons under 13 years-of-age. Heyzap requires that partners confirm their audience does not target, in whole or in part, users under the age of the 13. If Heyzap learns that personally-identifiable information of persons less than 13-years-of-age has been collected on or through the Heyzap Application and/or Heyzap Network, then Heyzap will take the appropriate steps to delete this information.</p>
+
+<p>If you are the parent or legal guardian of a child under 13 who has become Heyzap Application and/or Heyzap Network member, then please contact Heyzap at privacy@Heyzap.com to have that child’s account terminated and information deleted.</p>
+
+<h3 id="10_international_visitors">10. International Visitors:</h3>
+
+<p>For Users visiting the Heyzap Application and/or Heyzap Network from the European Union or other non-U.S. territories, please note that any data you enter into the Heyzap Application and/or Heyzap Network will be transferred outside the European Union or such other non-U.S. territory for use by Heyzap and its affiliates for any of the purposes described herein. In addition, because Heyzap operates globally, we may make information we gather available to worldwide business units and affiliates. By providing any data on the Heyzap Application and/or Heyzap Network, you hereby expressly consent to such transfers of your data to the United States or other countries.</p>
+
+<h3 id="11_in_the_event_of_merger_or_sale">11. In the Event of Merger or Sale:</h3>
+
+<p>In the event that Heyzap is acquired by or merged with a third-party entity, we reserve the right, in any of these circumstances, to transfer or assign the information that we have collected from Users as part of that merger, acquisition, sale, or other change of control.</p>
+
+<h3 id="12_third_parties">12. Third Parties</h3>
+
+<p>Except as otherwise expressly provided otherwise, this document addresses only the use and disclosure of information we collect from you or that you disclose to us. If you disclose your information to others besides Heyzap, whether they are users of the Heyzap Application and/or Heyzap Network or on other sites or services, different rules may apply to their use or disclosure of the information you disclose to them. Heyzap does not control the privacy policies of third parties, and you are subject to the privacy policies of those third parties where applicable. We encourage you to ask questions before you disclose your personal information to others.</p>
+
+<h3 id="13_changes_and_updates_to_this_privacy_policy">13. Changes and Updates to this Privacy Policy:</h3>
+
+<p>This Privacy Policy may be revised periodically without further notice to you and this will be reflected by a “last modified” date above. Please revisit this page to stay aware of any changes. In general, we only use your personal information in the manner described in the Privacy Policy in effect when we received that personal information. Your continued use of the Heyzap Application and/or Heyzap Network constitutes your agreement to this Privacy Policy and any future revisions.</p>
+
+<p>For revisions to this Privacy Policy that may be materially less restrictive on our use or disclosure of personal information you have provided to us, we will make reasonable efforts to notify you and obtain your consent before implementing revisions with respect to such information.</p>
+
+<h3 id="14_heyzap_contact_information">14. Heyzap Contact Information:</h3>
+
+<p>Please contact Heyzap with any questions or comments about this Privacy Policy, to obtain access to your personal information, and our third-party disclosure practices or your consent choices at: 251 Kearny St. 3rd Floor, San Francisco, CA 94108 or by email: privacy@Heyzap.com. We will respond to your inquiry within 30 days of its receipt.</p>
+</section>
+
+
+
   	<!--! end of .wrapper -->
   	<script type="text/javascript">
   	  var _gaq = _gaq || [];
@@ -223,7 +308,7 @@
   	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
   	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   	  })();
-      
+
       function viewport() {
         var myWidth = 0, myHeight = 0;
         if( typeof( window.innerWidth ) == 'number' ) {
@@ -259,33 +344,31 @@
          myHeight]);
       }
   	</script>
-  
+  </div>
 
     <footer id="limited" class="clearfix   ">
   <ul>
     <div id="heyzap-links">
-      <li class="copy">© Heyzap 2013</li>
-      <li class="privacy important"><a href="http://www.heyzap.com/legal/privacy">Privacy</a></li>
+      <li class="copy">© Heyzap 2014</li>
     </div>
     
     <div id="main-links">
-    <li class="important"><a href="http://www.heyzap.com/legal/terms">Terms</a></li>
-      <li><a href="http://devblog.heyzap.com">Blog</a></li>
-    <li><a href="http://www.heyzap.com/about">About</a></li>
-    <li><a href="http://support.heyzap.com" target="_blank">Support</a></li>
-    <li><a href="http://www.heyzap.com/jobs">Jobs</a></li>
-    
-      <li><a href="http://www.heyzap.com/about/press">Press</a></li>
-    <li><a href="http://www.heyzap.com/about/contact">Contact</a></li>
-      <li><a href="http://developers.heyzap.com/" class="developers">Developers</a></li>
+      <li class="privacy important"><a href="http://www.heyzap.com/legal/terms">Terms &amp; Privacy</a></li>
+        <li><a href="http://devblog.heyzap.com">Blog</a></li>
+      <li><a href="http://www.heyzap.com/about">About</a></li>
+      
+        <li><a href="http://www.heyzap.com/about/press">Press</a></li>
 
-    <li class="mobile-last"><a href="http://developers.heyzap.com/cpi" class="developers">Advertising</a></li>
+      <li><a href="http://www.heyzap.com/jobs">Jobs</a></li>
+      <li><a href="http://developers.heyzap.com/docs/faq">Help &amp; Support</a></li>
+      <li><a href="http://www.heyzap.com/about/contact">Contact</a></li>
+      <li class="maw">
+        <div>
+          <input type="input" placeholder="I wish this page would…"><button>Make a Wish</button>
+        </div>
+      </li>
     </div>
-    
-    <div class="social-buttons clearfix">
-      <!--<li class="fb-wrap"><div class="fb-like" data-href="http://www.facebook.com/Heyzap" data-send="false" data-layout="button_count" data-width="100" data-show-faces="false"></div></li>-->
-      <li class="twitter-follow"><a href="https://twitter.com/heyzap" class="twitter-follow-button" data-show-count="false">Follow @heyzap</a></li>
-    </div>
+
   </ul>
 </footer>
 
@@ -293,4 +376,4 @@
 
 
 
-</body></html>
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
