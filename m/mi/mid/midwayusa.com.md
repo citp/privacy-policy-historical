@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the midwayusa.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216055643id_/http%3A//www.midwayusa.com/general.mvc/index/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midwayusa.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624034238id_/http%3A//www.midwayusa.com/general.mvc/index/privacy_policy) for the most accurate reproduction.*
 
 # MidwayUSA's Privacy Policy
 
@@ -27,7 +27,6 @@ The personal information we receive comes directly from users through various ac
   * surveys;
   * email subscriptions;
   * sweepstakes entries;
-  * flyer requests;
   * product and service reviews;
   * product questions and answers.
 
