@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the website-worth-value.com privacy policy that was archived on 2013-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130813120216id_/http%3A//www.safe-browsing.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the website-worth-value.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624180536id_/http%3A//www.safe-browsing.net/privacy.html) for the most accurate reproduction.*
 
 # Safe-Browsing.net - Privacy Policy about Safe-Browsing.net
 
