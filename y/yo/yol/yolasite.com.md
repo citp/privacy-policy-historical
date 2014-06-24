@@ -1,14 +1,8 @@
-> *The following text is extracted and transformed from the yolasite.com privacy policy that was archived on 2013-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130822075215id_/https%3A//www.yola.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yolasite.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625014055id_/https%3A//www.yola.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Yola.com
 
 **Last updated January 1, 2013**
-
-Yola is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.yola.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
-
-If you have questions or concerns regarding this statement, you should first contact support@yola.com. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe.
-
-TRUSTe will then serve as a liaison with us to resolve your concerns.
 
 This privacy policy ("Policy") explains how personal information is collected, used, and disclosed by Yola, Inc., also doing business as SynthaSite, Inc., and SynthaSite (Pty) Ltd. (collectively "Yola") with respect to your use of the web site located at www.yola.com (the "Site") so you can make an informed decision about using the Site and the web site creation and hosting services offered by Yola. Please note that this Policy does not apply to, and we are not responsible in any manner for, any information you provide to third parties in connection with web sites hosted by Yola ("User Sites") or how the third parties who operate such User Sites may use the personal information you provide to them. Such information is subject to the privacy practices of such User Site, and we encourage you to become familiar with their privacy practices before disclosing information directly to them. Registration forms contain both mandatory fields (as indicated) and non-mandatory fields; if you choose not to complete the mandatory fields then Yola may not be able to respond to your request or activate your option choices. By using the Yola Toolset and/or the Yola Web Site, you consent to any transfer of personal information, collected by Yola, outside your country for the purposes of storing the information where Yola and/or its agents maintain their facilities.
 
@@ -16,7 +10,7 @@ We reserve the right to change this Policy at any time. If we make any material 
 
 Our Postal Address is:
 
-201 Mission St, Suite 2250, San Francisco, CA 94105
+545 Sansome St, Suite 900, San Francisco, CA 94111
 
 We can be reached via e-mail at [support@yola.com](mailto:support@yola.com).
 
