@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stockfreeimages.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806175820id_/http%3A//www.stockfreeimages.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockfreeimages.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625001743id_/http%3A//www.stockfreeimages.com/privacy.html) for the most accurate reproduction.*
 
-# Free Stock Photos & Images | StockFreeImages.com
+# Free Stock Images & Photos by StockFreeImages.com
 
 Site Usage Agreement
 
@@ -49,7 +49,7 @@ Our site may contain advertisements, references and links to other web sites and
 
 Disclosure to Third Parties:
 
-Except as described in this Privacy Statement, Dreamstim uses good faith efforts not to provide third parties with access to your personally identifiable information. We will, however, make your personally identifiable information available to others:   
+Except as described in this Privacy Statement, Dreamstime uses good faith efforts not to provide third parties with access to your personally identifiable information. We will, however, make your personally identifiable information available to others:   
 \- When we have your consent (you "opt in") to do so, in which case their use of your information is subject to their own privacy policies;   
 \- When we have retained companies to work with or on behalf of StockFreeImages.com to provide Products, goods or services that you have requested;   
 \- When we are compelled to do so by a governmental agency, court or other entity (e.g., to respond to subpoenas, court orders or legal process);   
@@ -65,7 +65,7 @@ Some of the aggregate customer data we collect may be shared with advertising co
 
 Communications from us:
 
-If you provide us with your e-mail address, we may occasionally send you emails notifying you about new services, products or other news relevant for you or the community. 
+If you provide us with your email address, we may occasionally send you emails notifying you about new services, products or other news relevant for you or the community. Since this site is owned and operated as a subsidiary of Dreamstime.com, we may occasionally send messages to your email address from our parent service Dreamstime.com.
 
 Summary:
 
