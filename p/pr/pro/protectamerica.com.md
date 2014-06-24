@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the protectamerica.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222183720id_/http%3A//www.protectamerica.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the protectamerica.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624034722id_/http%3A//www.protectamerica.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Security Systems | Alarm Monitoring | Protect America
 
-[](http://www.truste.org/ivalidate.php?url=www.protectamerica.com&sealid=101 "Protect America Home Security is a TRUSTe Reviewed Site")
+[](https://privacy.truste.com/privacy-seal/Protect-America,-Inc-/validation?rid=a32fda55-5b8a-4a07-b143-f23589641269 "TRUSTe online privacy certification")
 
 **Effective:** May 17, 2005
 
-**Last Updated:** February 10, 2009
+**Last Updated:** April 10, 2014
 
-[Protect America](https://web.archive.org/ "Protect America Home Security | www.protectamerica.com"), Inc. is committed to protecting any personal information that you may provide to us. In particular, we believe it is important for you to know how we treat information about you that we may receive from this Web site.
+[Protect America](https://web.archive.org/ "Protect America Home Security | www.protectamerica.com"), Inc. ("PAI") is committed to protecting any personal information that you may provide to us. In particular, we believe it is important for you to know how we treat information about you that we may receive from this Web site. http://www.protectamerica.com
 
 ## Information Collected
 
@@ -16,7 +16,17 @@ In general, you can visit this Web site without telling us who you are or reveal
 
 In addition, there are portions of this Web site where we may need to collect personal information from you for a specific purpose, such as to provide you with certain information you request. The information collected from you may include your name, address, telephone, fax number, or e-mail address.
 
+The use of cookies by our partners is not covered by our privacy policy. We do not have access or control over these cookies. Our partners use session ID cookies to make it easier for you to navigate our site.
+
+Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do [not] tie the information gathered to our Customers’ or Users’ personally identifiable information.
+
 We use a third-party technology to place our advertisements on other Web sites. This technology will install a small "cookie" file on your computer when you view our ad. These cookies will not contain any information that personally identifies you (such as your name or e-mail address) but they will contain a randomly generated number that is unique to your browser and can be recognized by a "Web beacon" (transparent GIF file) on our site if you click through to our site from one of our ads. This allows us to keep track of how many unique visitors we have to our site and from what ads they entered, so that we can measure the effectiveness of our ads and ad placements. The privacy policies of the Web sites on which we advertise, and through which the cookies are installed should inform you about the cookie, and you may of course set your browser to reject cookies. To learn more about the third-party ad-serving technology that we use, cookies, and how to "opt-out," please [email us](mailto:info@protectamerica.com "Protect America | Email: Information").
+
+If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [Here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.”
+
+We use local storage objects (LSOs) to store content information and preferences. Third Parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use LSOs to collect and store information.
+
+Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here: [http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html.](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html)
 
 This Web site is not intended for persons under 13 years of age. We do not knowingly solicit or collect personal information from or about children, and we do not knowingly market our products or services to children.
 
@@ -44,7 +54,7 @@ Domain name information that we collect is not used to personally identify you a
 
 When other information is collected from you, such as your name and e-mail address, we let you know at the time of collection how we will use the personal information. We use the personal information you provide only to respond to your inquiry or to process your request (such as to receive information about our products and services). This information may be shared with other PAI businesses, but only if necessary to fulfill your request or for related purposes.
 
-We may share the personal information you provide with other companies or affiliates. These companies are contractually bound to use personal information we share with them only to perform the services we have hired them to provide. PAI utilizes the services and securely shares the appropriate information with the major credit bureaus, credit card processors and shipping companies. We do not share, sell, or lease personal information about you to any outside third-parties for their marketing use. We will release information about you if you direct us to do so, if we are required by law to do so and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process, or in other legally limited circumstances (for example, to protect your account from fraud).
+We may share the personal information you provide with other companies or affiliates. These companies are contractually bound to use personal information we share with them only to perform the services we have hired them to provide. PAI utilizes the services and securely shares the appropriate information with the major credit bureaus, credit card processors and shipping companies. We do not share, sell, or lease personal information about you to any outside third-parties for their marketing use. We will release information about you if you direct us to do so, if we are required by law to do so and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process, or in other legally limited circumstances (for example, to protect your account from fraud). If PAI is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
 If you register with one of PAI's affiliates online, they may use this information to provide you with custom information about PAI's offerings in support of your business needs. They may also seek to place a "cookie" (small data file) as discussed above in order to provide you with tailored information. You should review the privacy policy associated with their web site for further information about their privacy practices.
 
