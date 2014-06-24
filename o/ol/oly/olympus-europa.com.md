@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the olympus-europa.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624111213id_/http%3A//www.olympus-europa.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olympus-europa.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624020920id_/http%3A//www.olympus-europa.com/privacy) for the most accurate reproduction.*
 
 # Olympus - root
 
 **1\. Introduction**
 
-We are Olympus Europa Holding GmbH, (Wendenstraße 14-18, 20097 Hamburg, Germany). All references to “we/our/us” refer to Olympus Europa Holding GmbH. 
+We are Olympus Europa SE & CO. KG, (Wendenstraße 14-18, 20097 Hamburg, Germany). All references to “we/our/us” refer to Olympus Europa SE & CO. KG. 
 
 “Personal information” is defined as any information which refers to you personally such as your name, e-mail address and postal address.
 
