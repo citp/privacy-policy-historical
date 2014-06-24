@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the btvguide.net privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231100252id_/http%3A//www.btvguide.net/staticpage/index/list-type/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the btvguide.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625002100id_/http%3A//www.btvguide.net/staticpage/index/list-type/privacy-policy) for the most accurate reproduction.*
 
-# Watch TV Shows online, Full episodes, Seasons, Series, News - Btvguide
+# Watch Series Online, Full episodes, TV Shows, Seasons, News
 
 At BTVGuide.net we recognize that privacy is important. This Policy applies to all of the products, services and websites offered by BTVGuide.net or its subsidiaries or affiliated companies (collectively, BTVGuide.net's "services"). In addition, where more detailed information is needed to explain our privacy practices, we post separate privacy notices to describe how particular services process personal information.
 
 BTVGuide.net adheres to the US safe harbor privacy principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement.
 
-If you have any questions about this Policy, please feel free to [contact us](http://www.btvguide.net/staticpage/index/list-type/contact) through our website.
+If you have any questions about this Policy, please feel free to [contact us](http://www.btvguide.net/contact) through our website.
 
 Information we collect and how we use it:
 
@@ -61,7 +61,7 @@ If BTVGuide.net becomes involved in a merger, acquisition, or any form of sale o
 
 We may share with third parties certain pieces of aggregated, non-personal information, such as the number of users who searched for a particular term, for example, or how many users clicked on a particular advertisement. Such information does not identify you individually.
 
-Please contact us at [here](http://www.btvguide.net/staticpage/index/list-type/contact) for any additional questions about the management or use of personal data.
+Please contact us at [here](http://www.btvguide.net/contact) for any additional questions about the management or use of personal data.
 
 Information security
 
@@ -79,7 +79,7 @@ When you use BTVGuide.net services, we make good faith efforts to provide you wi
 
 Enforcement
 
-BTVGuide.net regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or BTVGuide.net's treatment of personal information by [contacting us](http://www.btvguide.net/staticpage/index/list-type/contact) through this web site We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between BTVGuide.net and an individual.
+BTVGuide.net regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or BTVGuide.net's treatment of personal information by [contacting us](http://www.btvguide.net/contact) through this web site We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between BTVGuide.net and an individual.
 
 Changes to this policy
 
