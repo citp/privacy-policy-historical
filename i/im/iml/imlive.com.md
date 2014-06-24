@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the imlive.com privacy policy that was archived on 2013-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130802222508id_/http%3A//imlive.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imlive.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624032533id_/http%3A//imlive.com/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - Live Video Chat at ImLive
+# ImLive.com
+
+Privacy Policy
 
 We know that protecting your privacy is very important to you.
 
@@ -10,13 +12,6 @@ When you visit the site, we may (like many other websites) also collect your IP 
 
 We also retain copies of statements published on the site and correspondence sent to us.
 
-**How may we use the information held by us?**
-
-  * We may use this information to improve our marketing and products/services including customizing our site to your needs and interests.
-  * We may also use information about you to deliver information to you that, in some cases, is targeted to your interests whether on the site or via email.
-  * We may use this information to answer your questions, troubleshoot problems and enforce our Terms & Conditions.
-  * We will use your email address to contact you unless you have chosen not to be contacted by email.
-
 **Cookies**
 
 The site may track a user's activity by issuing Cookies when entering the site. Cookies are small pieces of data or parts of a file that a server downloads to your personal computer or mobile when you visit a website. These files are stored by your web browser onto your hard drive. Cookies may anonymously record information such as your identification code, customized preferences, or a record of pages visited in order to simplify subsequent interactions with that website by you on the website and related web pages. 
@@ -24,6 +19,13 @@ The site may track a user's activity by issuing Cookies when entering the site. 
 To streamline navigation on our site we use both Session ID cookies and Persistent cookies. Session ID cookies only last for the duration of your visit to our website and expire when you close your browser while persistent cookies may remain on your hard drive for an extended period of time. 
 
 Most major web browsers are set up so that they will initially accept cookies, but you may modify your computer's preferences to issue you an alert when a cookie is downloaded, or to disable the ability of third parties to download a cookie to you. In order to enjoy full functionality our site and its features we highly recommend that you enable cookies in your browser. If you disable cookies you may still be able to use certain site features but your experience may be severely limited. 
+
+**How may we use the information held by us?**
+
+  * We may use this information to improve our marketing and products/services including customizing our site to your needs and interests.
+  * We may also use information about you to deliver information to you that, in some cases, is targeted to your interests whether on the site or via email.
+  * We may use this information to answer your questions, troubleshoot problems and enforce our Terms & Conditions.
+  * We will use your email address to contact you unless you have chosen not to be contacted by email.
 
 **When may we disclose your information?**
 
@@ -46,6 +48,3 @@ You have the following choices to update your information from our database: You
 **Questions?**
 
 If you have any questions about this Privacy Policy, you can contact us at: [info@ImLive.com](mailto:info@ImLive.com). 
-
-  
-
