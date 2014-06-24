@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the safetysign.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224075633id_/http%3A//www.safetysign.com/help/h45/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safetysign.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624134437id_/http%3A//www.safetysign.com/help/h45/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | SafetySign.com
 
