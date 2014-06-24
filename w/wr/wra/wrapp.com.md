@@ -1,26 +1,43 @@
-> *The following text is extracted and transformed from the wrapp.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218023254id_/https%3A//www.wrapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrapp.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625003450id_/https%3A//www.wrapp.com/privacy) for the most accurate reproduction.*
 
 # Wrapp
 
-### THIS PRIVACY POLICY HAS BEEN UPDATED EFFECTIVE AUGUST 30th, 2013.
+### TABLE OF CONTENTS
+
+  * General
+  * Definitions
+  * User Consent
+  * Controller of Personal Data
+  * Age Restrictions
+  * Collection of Personal Data
+  * Use and Disclosure of Personal Data
+  * Ability to View Your Information
+  * Security of Collected Information
+  * Access to, Rectifying and Deleting Your Personal Data
+
+
+
+### SUMMARY
+
+This Privacy Policy informs you of what information we collect from you when you use the Wrapp Services and informs you of how we use that information. In general, we will collect information you supply to us and collect select information available on your social media as well as spending patterns in case you choose to link your payment card with Wrapp. We generally use the information we collect to contact you, provide you with the services described below and in our [Terms of Service](http://www.wrapp.com/tos) and provide you with better and more personalized Promotions. A more detailed description of our policies and practices regarding information collection and usage is listed below.
 
 ### 1\. General
 
-This Privacy Policy is intended to inform you of Wrapp’s policies and practices regarding the collection, use and disclosure of any information about you that directly or indirectly may be referable to you, such as your name, email address, Wrapp user ID number and also transactional information and other information (” **Personal Data** ”) that you submit or disclose to Wrapp when accessing the Wrapp Platform and/or using the Wrapp Services (irrespective of whether it is public or non-public information).
+This Privacy Policy is intended to inform you of Wrapp’s policies and practices regarding the collection, use and disclosure of any information about you that directly or indirectly may be referable to you, such as your name, email address, Wrapp user ID number and also transactional information and other information (" **Personal Data** ") that you submit or disclose to Wrapp when accessing the Wrapp Platform and/or using the Wrapp Services (irrespective of whether it is public or non-public information).
 
 ### 2\. Definitions
 
 In this Privacy Policy the terms (identified with initial capitalization) used herein shall have the meanings specified in the Terms of Service (available at <http://www.wrapp.com/tos>). Additional definitions are also provided in this Privacy Policy.
 
-In this Privacy Policy, “ **Wrapp** ” means Wrapp Operations Sweden AB, a Swedish company with corporate identification number 556868-5712 and with its registered address at Döbelnsgatan 24 in 11352 Stockholm, Sweden, and Wrapp US, Inc., a company registered under the laws of the state of Delaware, with its registered address at c/o Offereins Janda Roe & McCahan, 987 University Avenue, Suite 6, Los Gatos, CA 95032, United States.
+In this Privacy Policy, " **Wrapp** " means Wrapp US, Inc., a company registered under the laws of the state of Delaware, with its registered address at c/o Offereins Janda Roe & McCahan, 987 University Avenue, Suite 6, Los Gatos, CA 95032, United States.
 
 ### 3\. User Consent
 
-By registering a Wrapp Account and accessing the Wrapp Platform from your Device, you consent to the collection and use of your Personal Data as we have outlined in this Privacy Policy, which is incorporated into and forms part of our Terms of Service. You unconditionally consent to Wrapp’s collection and processing of your Personal Data as specified in this Privacy Policy (and as amended from time to time) by allowing the Wrapp Platform to access your Facebook or other Social Network account.
+By registering a Wrapp Account and accessing the Wrapp Platform from your Device, you consent to the collection and use of your Personal Data as we have outlined in this Privacy Policy, which is incorporated into and forms part of our Terms of Service. You unconditionally consent to Wrapp’s collection and processing of your Personal Data as specified in this Privacy Policy (and as amended from time to time) by allowing the Wrapp Platform to access your Facebook or other Social Network account and collect information about you and your transactions with Merchants.
 
 ### 4\. Controller of Personal Data
 
-For purposes of the European Union Data Protection Directive, Wrapp is the data controller of the Personal Data expressly requested by Wrapp and such Personal Data may be transferred to, processed and stored by Wrapp’s affiliates and group companies as well as third parties providing services to Wrapp. Some of these third parties may be located in a country outside the European Union (for instance, in the United States) where laws regarding processing of Personal Data may be less stringent than the laws in your country. Wrapp is committed to protecting your Personal Data at all times and the Personal Data will not be used or disclosed for purposes for which you have not given consent to pursuant to this Privacy Policy or which is not permitted under applicable laws.
+For purposes of the European Union Data Protection Directive, Wrapp is the data controller of the Personal Data expressly requested by Wrapp and such Personal Data may be transferred to, processed and stored by Wrapp’s affiliates and group companies as well as third parties providing services to Wrapp. Some of these third parties may be located in a country outside the European Union (for instance, in the United States) where laws regarding processing of Personal Data may be less stringent than the laws in your country. Wrapp is committed to protecting your Personal Data at all times and the Personal Data will not be used or disclosed for purposes for which you have not given consent pursuant to this Privacy Policy or which is not permitted under applicable laws.
 
 ### 5\. Age Restrictions
 
@@ -28,62 +45,68 @@ Children under the age of 13 are not permitted to use Wrapp Services, and we do 
 
 ### 6\. Collection of Personal Data
 
-_Personal Data That You Provide_  
+_Personal Data That You Provide_
+
 It is our ambition to make your use of the Wrapp Platform and Wrapp Services a good experience.
 
-Wrapp collects information that you voluntarily enter, including Personal Data, within the Wrapp Platform. Wrapp collects Personal Data about you and your friends who use Wrapp Services, from you and from the Social Network connected to the Wrapp Platform (including your profile photo), in order to provide you with a more personalized experience. We may collect information from your Social Network profile that you have permitted to be displayed through the Wrapp Platform and we may also collect information that you submit when using Wrapp Services. For example, when you send a Gift or Gift Card to your friends, we collect and associate certain of your non-personally identifiable demographic information (like age, gender and general location) with the specific merchant (“Merchant”) for the Gift or Gift Card in order to create a better and more sophisticated product experience. We may also request optional information from you to support and enhance your use of Wrapp Services.
+Wrapp collects information that you voluntarily enter, including Personal Data, within the Wrapp Platform. Wrapp collects Personal Data about you and your friends who use Wrapp Services, from you and from the Social Network connected to the Wrapp Platform (including your profile photo), in order to provide you with a more personalized experience. When you register using an email address, we will collect your email address and the unique password you create to access your account and we may also collect information that you submit when using Wrapp Services. If you register via a Social Network, we may collect information from your Social Network profile that you have permitted to be displayed through the Wrapp Platform and we may also collect information that you submit when using Wrapp Services. For example, when you send a Wrapp Promotion to your friends, we collect and associate certain of your non-personally identifiable demographic information (like age, gender and general location) with the specific merchant (" **Merchant** ") for the Wrapp Promotion in order to create a better and more sophisticated product experience. We may also request optional information from you to support and enhance your use of Wrapp Services.
 
 The information relating to you that is being processed by Wrapp includes:
 
   * Identification data (e.g. name, email address);
+
   * Profile information (e.g. age, gender, nationality);
-  * Electronic identification data (e.g. IP address, cookies); and
-  * Content that you submit during your use of Wrapp Services, such as photos, reviews, greetings and other information you choose to submit.
+
+  * Electronic identification data (e.g. IP address, cookies); 
+
+  * Content that you submit during your use of Wrapp Services, such as photos, reviews, greetings and other information you choose to submit;
+
+  * Transaction information regarding your use, receipt and sending of Wrapp Promotions; and
+
+  * In some cases, information about your interaction with Merchants.
 
 
 
-When you purchase a Paid Gift Card, you will need to submit credit card or other payment information so that our service providers can process your payment for the gift card. All payments are processed with due observance of any applicable security obligations.
 
 When you sign up for or win any contests, sweepstakes or other activities that we make available on the Wrapp Platform, we will also collect the information designated along with such activity, which may include your contact information such as your address and phone number in order to provide you with Wrapp Services.
 
-_Personal Data from Other Sources_  
-We may receive Personal Data about you from other sources such as the Social Network connected to the Wrapp Platform, as well as Merchants and other third parties that help us improve your experience of Wrapp Services and generally make Wrapp Services better. Wrapp may associate this information with the other Personal Data that Wrapp has collected about you.
+_Personal Data from Other Sources_
 
-_Email and Email Addresses_  
-If you send an email to us or fill out our “Feedback” form through the Wrapp Platform, we will collect your email address and the full content of your email, including attached files and other information you provide in order to document and to further develop Wrapp Services based on user feedback. If you provide feedback to us, we may use and disclose such feedback to our Merchants to improve or modify Wrapp Services.
+We may receive Personal Data about you from other sources such as the Social Network connected to the Wrapp Platform, as well as Merchants and other third parties that help us improve your experience with Wrapp Services and generally make Wrapp Services better. Wrapp may associate this information with the other Personal Data that Wrapp has collected about you.
+
+_Email and Email Addresses_
+
+We collect your email address when you register by email address. If you send an email to us or fill out our "Feedback" form through the Wrapp Platform, we will collect your email address and the full content of your email, including attached files and other information you provide in order to document and to further develop Wrapp Services based on user feedback. If you provide feedback to us, we may use and disclose such feedback to our Merchants to improve or modify Wrapp Services.
 
 Wrapp may use and display your full name and email address when you send an email notification to a friend through the Wrapp Platform or the Social Network connected to Wrapp Services (such as in an invitation or when sharing your content). Additionally, we may use your email address to contact you on behalf of your friends (such as when someone sends you a personal message) or notifications from a Social Network or other website with which you have registered to receive such notifications.
 
-If you choose to sign up to receive information about products or services that may be of interest to you, Wrapp may collect your email address and other related information also for that purpose. Wrapp may use this email address to contact you for things such as notifications of limited-edition shop sales and other related advertisement information. You may at any time opt-out from any further advertisements to your email address by sending a notice to Wrapp at support@wrapp.com.
+If you choose to sign up to receive information about products or services that may be of interest to you, Wrapp may collect your email address and other related information also for that purpose. Wrapp may use this email address to contact you for things such as notifications of limited-edition shop sales and other related advertisement information. You may at any time opt-out from any further advertisements to your email address by sending a notice to Wrapp at [support@wrapp.com](mailto:support@wrapp.com).
 
-_Information Collected via Technology_  
-As you use Wrapp Services, certain information may also be passively collected and stored on our or our service providers’ server logs, including your IP address, browser type and operating system. We may also use cookies (as defined below) and navigational data like Uniform Resource Locators (”URLs”) to gather information regarding the date and time of your visit and the solutions and information for which you searched and viewed, or on which of the advertisements displayed on the Wrapp Platform you clicked. This type of information is collected to make Wrapp Services more useful to you and to tailor the experience with Wrapp Services to meet your special interests and needs.
+_Information Collected via Technology_
 
-For example, we, or our service providers, may track your IP Address when you access the Wrapp Platform to assist with ad targeting. An “Internet protocol address” or “IP Address” is a number that is automatically assigned to your Device when you use the Internet. In some cases your IP Address stays the same from browser session to browser session, but if you use a consumer Internet access provider, your IP Address probably varies from session to session.
+As you use Wrapp Services, certain information may also be passively collected and stored on our or our service providers’ server logs, including your IP address, browser type and operating system. We may also use cookies (as defined below) and navigational data like Uniform Resource Locators ("URLs") to gather information regarding the date and time of your visit and the solutions and information for which you searched and viewed, or on which of the advertisements or Merchant offers displayed on the Wrapp Platform you clicked. This type of information is collected to make Wrapp Services more useful to you and to tailor the experience with Wrapp Services to meet your special interests and needs.
 
-The Wrapp Platform uses third party analytics tools. Some of these analytics tools use cookies, which are text files placed on your computer, or other technologies, to help analyze how users use the Wrapp Platform. The information collected in the cookie or other technology about your use of the Wrapp Platform (including your IP address) may be transmitted to and stored by the applicable analytics provider on servers in the United States or elsewhere. The analytics provider may use this information for the purpose of evaluating your use of the Wrapp Platform, compiling reports on Wrapp Platform activity for us and providing other services relating to Wrapp Platform activity and Internet usage. The analytics provider may also transfer this information to other third parties where required to do so by law, or where such third parties process the information on the analytic provider's behalf. The analytic provider’s policy is to not associate your IP address with any other data held by the analytic provider.
+For example, we, or our service providers, may track your IP Address when you access the Wrapp Platform to assist with ad targeting. An "Internet protocol address" or "IP Address" is a number that is automatically assigned to your Device when you use the Internet. In some cases your IP Address stays the same from browser session to browser session, but if you use a consumer Internet access provider, your IP Address probably varies from session to session. The Wrapp Platform uses third party analytics tools. Some of these analytics tools use cookies, which are text files placed on your computer, or other technologies, to help analyze how users use the Wrapp Platform. The information collected in the cookie or other technology about your use of the Wrapp Platform (including your IP address) may be transmitted to and stored by the applicable analytics provider on servers in the United States or elsewhere. The analytics provider may use this information for the purpose of evaluating your use of the Wrapp Platform, compiling reports on Wrapp Platform activity for us and providing other services relating to Wrapp Platform activity and Internet usage. The analytics provider may also transfer this information to other third parties where required to do so by law, or where such third parties process the information on the analytic provider’s behalf. The analytic provider’s policy is to not associate your IP address with any other data held by the analytic provider.
 
-_Cookies_  
-“Cookies” are small pieces of information that Wrapp sends to and stores on the Device that you use when accessing the Wrapp Platform.
+_Cookies_
 
-Wrapp uses cookies to provide you with a more personal and interactive experience with the Wrapp Platform and to improve Wrapp Services. Cookies help us evaluate what types of information that might be of interest to you and other users, to improve our and our Merchants’ advertisements and to protect you and Wrapp from unlawful activities. We also use cookies to know when you are interacting with Merchants or other third parties.
+"Cookies" are small pieces of information that Wrapp sends to and stores on the Device that you use when accessing the Wrapp Platform. Wrapp uses cookies to provide you with a more personal and interactive experience with the Wrapp Platform and to improve Wrapp Services. Cookies help us evaluate what types of information that might be of interest to you and other users, to improve our and our Merchants’ advertisements and to protect you and Wrapp from unlawful activities. We also use cookies to know when you are interacting with Merchants or other third parties. In order to use Wrapp Services, your Device must accept cookies. We may use both session cookies (which expire once you close your web browser) and persistent cookies (which stay on your computer until you delete them). Persistent cookies can be removed or blocked by following your Internet browser´s help file directions. But some aspects of the Wrapp Platform may not work properly and you may not be able to use Wrapp Services if our cookies are removed or blocked.
 
-In order to use Wrapp Services, your Device must accept cookies. We may use both session cookies (which expire once you close your web browser) and persistent cookies (which stay on your computer until you delete them). Persistent cookies can be removed or blocked by following your Internet browser´s help file directions. But some aspects of the Wrapp Platform may not work properly and you may not be able to use Wrapp Services if our cookies are removed or blocked.
+_Location_
 
-_Location_  
 If the settings on your Device allow us to receive location information, Wrapp will collect that information in order to provide you with a more geographically targeted experience of Wrapp Services and provide you with nearby offers, Merchant information, etc.
 
 ### 7\. Use and Disclosure of Personal Data
 
 Personal Data that you submit to us is used by Wrapp to provide you with access to the Wrapp Platform and Wrapp Services; to administer your Wrapp Account; to improve Wrapp Services; to better tailor the features, performance and support of the Wrapp Platform; and to offer you additional information, advertisements, opportunities, promotions and functionality from us (including in cases when we contact you in connection with specific Merchant advertisements, opportunities and promotions).
 
-Wrapp may provide your Personal Data to third-party service providers who work on behalf of or with us to provide some of the services and features of the Wrapp Platform and to help us communicate with you. Examples of such services include sending email, analyzing data, providing marketing assistance, processing payments (including credit card payments) and providing customer service. Such third-party service providers may only process Personal Data to provide the relevant services to Wrapp and in accordance with Wrapp’s instructions.
+Wrapp may provide your Personal Data to third-party service providers who work on behalf of or with us to provide some of the services and features of the Wrapp Platform and to help us communicate with you. Examples of such services include sending email, analyzing data, providing marketing assistance, processing payments (including payment card payments), processing automatic redemption of Wrapp Promotions in accordance with our [Payment Card Integration Terms](http://www.wrapp.com/tos.html#terms-c2), and providing customer service. Such third-party service providers may only process Personal Data to provide the relevant services to Wrapp and in accordance with Wrapp’s instructions. If you agree to our [Payment Card Integration Terms](http://www.wrapp.com/tos.html#terms-c2), you will be providing our third-party service providers with your payment card information. We will not be able to access your payment card information from any third-party service provider. Our third-party service providers will use your Personal Data to (1) automatically redeem applicable Wrapp Promotion in your current Wrapp Wallet once your linked payment card is used; (2) apply any credits you receive from redeemed Wrapp Promotions to your linked payment card; and (3) reverse already processed credits to your payment card if returns or cancellations are identified with respect to your qualifying purchase with the Merchant. We will use the Personal Data received regarding your transactions with Merchants to better understand your spending habits and to provide you with targeted campaigns, and better Promotions, as described further below. We may also share this information with third party service providers and Merchants and you expressly authorize us to share this information for the same purposes as are set forth in this Privacy Policy. We will never disclose your name, and any information shared will be anonymous.
 
-The Personal Data that you provide will allow Wrapp to inform you of Wrapp Services, such as available gifts of gift cards as well as other services and products that may be of interest to you. Wrapp may use your Personal Data for processing, managing and providing you with retail offers, advertisements and other information related to your profile and interests. By using Wrapp Services you agree that Wrapp may contact you to conduct targeted advertising based on the information provided by you and collected by Wrapp. This type of targeting is performed to make Wrapp Services and solutions more useful to you and to tailor the experience with the Wrapp Platform to meet your special interests and needs. Sometimes this type of targeting and other offers, advertisements and promotions is performed by Wrapp on behalf of Merchants. Wrapp does not disclose your Personal Data to Merchants, but may make certain of your non-personally identifiable demographic information (like age, gender and general location) available in connection with our agreements with Merchants. None of the information provided to Merchants would allow them to identify you or your Personal Data.
+The Personal Data that you provide will allow Wrapp to inform you of Wrapp Services, such as available Promotions as well as other services and products that may be of interest to you. Wrapp may use your Personal Data for processing, managing and providing you with retail offers, advertisements and other information related to your profile and interests. By using Wrapp Services you agree that Wrapp may contact you to conduct targeted advertising based on the information provided by you and collected by Wrapp, including on and off of the Wrapp Platform. This type of targeting is performed to make Wrapp Services and solutions more useful to you and to tailor the experience with the Wrapp Platform to meet your special interests and needs. Sometimes this type of targeting and other offers, advertisements and promotions is performed by Wrapp on behalf of Merchants. Wrapp may disclose aggregated and anonymous data such as your non-personally identifiable demographic information (like age, gender and general location) and spending habits to Merchants in connection with our agreements with Merchants. None of the information provided to Merchants would allow them to identify you or your Personal Data via Wrapp.
 
-We may promote third-party products and/or services by placing advertisements on the Wrapp Platform on behalf of Merchants and ad servers. These Merchants may use cookies and/or “Web Beacons” (which are usually small, transparent graphic images) in order to monitor information related to served advertisements. Clicking on such advertisements will direct you to the website of such Merchants. This Privacy Policy does not cover the privacy practices of any such Merchants, as further described in Section 7 (Third-Party Websites) in the Terms of Service.
+We may promote third-party products and/or services by placing advertisements on the Wrapp Platform on behalf of Merchants and ad servers. These Merchants may use cookies and/or "Web Beacons" (which are usually small, transparent graphic images) in order to monitor information related to served advertisements. Clicking on such advertisements will direct you to the website of such Merchants. This Privacy Policy does not cover the privacy practices of any such Merchants, as further described in Section 7 (Third-Party Websites) in the Terms of Service.
 
-Your Personal Data may also form part of Wrapp’s statistics but then we will exclude, for instance, your name. Wrapp will generally aggregate this information and use it in statistical analysis to help us analyze patterns in the use of Wrapp Services and to help Merchants indirectly (via Wrapp) target users with the desired demographics.
+Your Personal Data may also form part of Wrapp’s statistics but then we will exclude, for instance, your name. Wrapp will generally aggregate this information and use it in statistical analysis to help us analyze patterns in the use of Wrapp Services and to help Merchants indirectly (via Wrapp) target users with the desired demographics. We may also share or sell this aggregated information, including our statistical analysis of such information, to third parties. Any such disclosure will include only information that is non-personally identifiable to you.
 
 In the event Wrapp is subject to a business transition such as a merger, acquisition by another company or a sale of all or a portion of Wrapp’s assets, your Personal Data may be among the assets transferred. You acknowledge that such transfers may occur and are permitted by this Privacy Policy, and that any acquirer of Wrapp or its assets may continue to process your Personal Data as set forth in this Privacy Policy.
 
@@ -91,11 +114,9 @@ In addition to the above, Wrapp may disclose your Personal Data if we believe in
 
 ### 8\. Ability to View Your Information
 
-When you register a Wrapp Account, your Social Network friends will be notified of your use of Wrapp Services. Your Social Network friends with Wrapp accounts will then be able to give you electronic gifts or gift cards provided by various Merchants.
-
 It is up to you to make sure that you are comfortable with the information that you choose to provide to Wrapp and the information you choose to publish either directly on the Wrapp Platform or through your Social Network, which is connected to the Wrapp Platform.
 
-You acknowledge that when you use Wrapp Services, certain information that you post or provide through the Wrapp Platform (such as your name, profile, comments, collections and reviews,) may be shared with other users and posted on publicly available portions of the Wrapp Platform, including, without limitation, social media applications and other public fora (plural for forums ☺) in which you choose to participate. Please keep in mind that if you choose to disclose Personal Data when posting comments or other information or content through the Wrapp Platform, this information may become publicly available and may be collected and used by others, including people outside the Wrapp Platform. We will not have any obligations with respect to any information that you post via the Wrapp Platform and make available to others, and recommend that you use caution when giving out Personal Data to others through Social Networks.
+You acknowledge that when you use Wrapp Services, certain information that you post or provide through the Wrapp Platform (such as your name, profile, comments, collections and reviews,) may be shared with other users and posted on publicly available portions of the Wrapp Platform, including, without limitation, social media applications and other public fora (plural for forum ☺) in which you choose to participate. Please keep in mind that if you choose to disclose Personal Data when posting comments or other information or content through the Wrapp Platform, this information may become publicly available and may be collected and used by others, including people outside the Wrapp Platform. We will not have any obligations with respect to any information that you post via the Wrapp Platform and make available to others, and recommend that you use caution when giving out Personal Data to others through Social Networks.
 
 ### 9\. Security of Collected Information
 
@@ -104,10 +125,6 @@ Wrapp is committed to protecting the security of your Personal Data. We will tak
 ### 10\. Access to, Rectifying and Deleting Your Personal Data
 
 You are entitled, once a year, to request information from Wrapp about the Personal Data relating to you which is being processed by Wrapp and to request, where relevant, that such Personal Data is rectified by sending a notice to Wrapp at the following address:
-
-Wrapp Operations Sweden AB Döbelnsgatan 24 11352 Stockholm Sweden
-
-Or
 
 Wrapp US, Inc.  
 Offereins Janda Roe & McCahan  
