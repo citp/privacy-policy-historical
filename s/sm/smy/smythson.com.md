@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the smythson.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226162613id_/http%3A//www.smythson.com/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smythson.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624220925id_/http%3A//www.smythson.com/privacy-security) for the most accurate reproduction.*
 
 # Privacy and Security
-
-Smythson uses cookies to deliver an enhanced online experience. For more information, visit our [privacy policy](https://web.archive.org/privacy-security). 
 
 ### Privacy Policy
 
