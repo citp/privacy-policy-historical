@@ -1,15 +1,13 @@
-> *The following text is extracted and transformed from the thevillablog.co.uk privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123021146id_/http%3A//www.thevillablog.co.uk/villa-blog/park/privacy-policy-for-thevillablogcouk) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thevillablog.co.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625010825id_/http%3A//www.thevillablog.co.uk/villa-blog/park/privacy-policy-for-thevillablogcouk) for the most accurate reproduction.*
 
 # Privacy Policy for thevillablog.co.uk - Aston Villa Blog
 
-##  [ Privacy Policy for thevillablog.co.uk](http://www.thevillablog.co.uk/villa-blog/park/privacy-policy-for-thevillablogcouk/)
-
 Details
-     Created on Wednesday, 19 August 2009 14:34 
+    Created on Wednesday, 19 August 2009 14:34
 
 We recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you visit thevillablog.co.uk, and how we safeguard your information. We never sell your personal information to third parties. 
 
-As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL), the browser you used to visit our site (such as Internet Explorer), the time you visited our site and which pages you visited throughout our site. 
+As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL), the browser you used to visit our site (such as Internet Explorer), the time you visited our site and which pages you visited throughout our site.
 
 We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login. 
 
