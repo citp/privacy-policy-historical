@@ -1,19 +1,19 @@
-<!--The following is the downloaded HTML source of the spotify.com privacy policy that was archived on 2013-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131218015316id_/https%3A//www.spotify.com/legal/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the spotify.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625000119id_/https%3A//www.spotify.com/legal/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml" class=""><head>
-          <meta charset="UTF-8">
+          <meta charset="UTF-8"><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-7BJJ"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQQGV1ZQGwEJU1BbBwA="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
       <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
       <meta name="description" content="Spotify is a digital music service that gives you access to millions of songs.">
       <meta name="keywords" content="Spotify, music, online, listen, streaming, play, digital, album, artist, playlist">
 
               <meta property="fb:app_id" content="174829003346">
-        <meta property="og:title" content="Spotify">
+        <meta property="og:title" content="Privacy policy">
         <meta property="og:type" content="website">
         <meta property="og:url" content="https://www.spotify.com/legal/privacy-policy/">
-        <meta property="og:image" content="//d2c87l0yth4zbw.cloudfront.net/i/_global/open-graph-default.jpg">
+        <meta property="og:image" content="http://d2c87l0yth4zbw.cloudfront.net/i/_global/open-graph-default.jpg">
         <meta property="og:description" content="Spotify is a digital music service that gives you access to millions of songs.">
-      
+              
               <meta name="apple-itunes-app" content="app-id=324684580">
           
     <title>Privacy policy</title>
@@ -29,9 +29,9 @@
           <link rel="canonical" href="https://www.spotify.com/legal/privacy-policy/">
     
       
-      <link rel="stylesheet" href="//d2c87l0yth4zbw.cloudfront.net/css/231d06c.css">
+      <link rel="stylesheet" href="//d2c87l0yth4zbw.cloudfront.net/css/80278a9.css">
   
-            <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-7BJJ"></script><script>
+            <script>
         var spweb = spweb || {};
 spweb.config = {
   environment: {
@@ -49,14 +49,18 @@ spweb.config = {
     enable: true
   },
   downloadLinks: {
+    android: 'https://play.google.com/store/apps/details?id=com.spotify.music',
     mac: 'http://download.spotify.com/SpotifyInstaller.zip',
     mac10_5: 'http://download.spotify.com/Spotify-0.8.5.dmg',
     windows: 'http://download.spotify.com/SpotifySetup.exe'
+  },
+  sheerid: {
+    universityUrl: 'https\x3A\x2F\x2Fservices.sheerid.com\x2Frest\x2F0.5\x2Forganization\x3Fcallback\x3D\x3F'
   }
 };
       </script>
     
-    <script src="//d2c87l0yth4zbw.cloudfront.net/js/bb2af07.js"></script>
+    <script src="//d2c87l0yth4zbw.cloudfront.net/js/87695a9.js"></script>
     </head>
 
       <body class=" m-us l-en page-legal-privacy-policy  is-loggedout  reboot ">
@@ -77,30 +81,32 @@ spweb.config = {
     
       <div class="wrap">
 
-          <header id="js-header-main" class="header-main ">
+                  
+<header id="js-header-main" class="header-main" role="banner">
 
-
+  
   <div class="container">
-    <a class="logo" href="/us/">
-      <img src="//d2c87l0yth4zbw.cloudfront.net/i/_global/logo.png" alt="Spotify">
-    </a>
+      <a class="logo" href="/us/" title="Go to Spotify Home">
+    <img src="//d2c87l0yth4zbw.cloudfront.net/i/_global/logo.png" alt="Spotify">
+  </a>
 
-    <div id="js-nav-wrap" class="nav-wrap is-collapsed">
-      <div id="js-toggle-nav" class="toggle-nav">
-        <div id="js-icon-toggle-nav" class="icon-toggle-nav">
-          <i class="icon-toggle"></i>
-        </div>
+      <div id="js-nav-wrap" class="nav-wrap is-collapsed">
+    <div id="js-toggle-nav" class="toggle-nav">
+      <div id="js-icon-toggle-nav" class="icon-toggle-nav">
+        <i class="icon-toggle"></i>
       </div>
-      <nav id="js-nav-header" class="nav-header">
-        <ul id="js-nav-list" class="nav-list"><li class="nav-item "><a href="/us/#features" id="nav-link-features" class="js-ga-event nav-link features" data-ga-event-category="moreinfo" data-ga-event-action="features" data-ga-event-label="navigation_top">Features
-</a></li><li class="nav-item"><a href="/us/#premium" id="nav-link-premium" class="js-ga-event nav-link premium" data-ga-event-category="upgrade" data-ga-event-action="pricing" data-ga-event-label="navigation_top">Upgrade
-</a></li><li class="nav-item"><a href="http://support.spotify.com" id="nav-link-help" class="js-ga-event nav-link help" data-ga-event-category="moreinfo" data-ga-event-action="help" data-ga-event-label="navigation_top">Help
-</a></li><li class="nav-item"><div id="js-account" class="account is-loggedout "><a href="/us/account/overview/" id="js-avatar-link" class="avatar-link is-loggedout js-open-signup" data-signup-start-section="login"><img id="js-avatar" class="avatar" src="//d2c87l0yth4zbw.cloudfront.net/i/_global/default-avatar.png" alt="Log in to view your account"></a><a id="nav-link-login" class="nav-link log_in js-open-signup" data-signup-start-section="login" href="/us/account/overview/">Log In</a></div></li><li class="nav-item "><a href="/us/download/" id="nav-button-get-spotify" class="js-ga-event nav-link button button-highlight js-button-download js-get-spotify js-open-signup" data-signup-start-section="signup-select" data-ga-event-category="acquisition" data-ga-event-action="download_spotify" data-ga-event-label="navigation_top">Get Spotify
-</a></li></ul>      </nav>
     </div>
+    <nav id="js-nav-header" class="nav-header" role="navigation">
+              <ul id="js-nav-list" class="nav-list"><li class="nav-item "><a href="/us/#features" id="nav-link-features" class="js-ga-event nav-link features" data-ga-event-category="moreinfo" data-ga-event-action="features" data-ga-event-label="navigation_top">Features
+</a></li><li class="nav-item"><a href="/us/upgrade/" id="nav-link-premium" class="js-ga-event nav-link premium" data-ga-event-category="upgrade" data-ga-event-action="pricing" data-ga-event-label="navigation_top">Upgrade
+</a></li><li class="nav-item"><a href="http://support.spotify.com" id="nav-link-help" class="js-ga-event nav-link help" data-ga-event-category="moreinfo" data-ga-event-action="help" data-ga-event-label="navigation_top">Help
+</a></li><li class="nav-item"><div id="js-account" class="account is-loggedout "><a href="/us/account/overview/" id="js-avatar-link" class="avatar-link is-loggedout js-open-signup" data-signup-start-section="login"><img id="js-avatar" class="avatar" src="//d2c87l0yth4zbw.cloudfront.net/i/_global/default-avatar.png" alt="Log in to view your account"></a><a id="nav-link-login" class="nav-link log_in js-open-signup" data-signup-start-section="login" href="/us/account/overview/">Log In</a></div></li><li class="nav-item "><a href="/us/download/" id="nav-button-get-spotify" class="js-ga-event nav-link button button-highlight js-button-download js-get-spotify js-gtm-event js-open-signup" data-gtm-event-name="download_spotify_button_clicked" data-signup-start-section="signup-select" data-ga-event-category="acquisition" data-ga-event-action="download_spotify" data-ga-event-label="navigation_top">Download Spotify
+</a></li></ul>          </nav>
   </div>
+  </div>
+
 </header>
-    
+          
           <div class="subnav-main"><div class="container"><nav class="nav-sub"><ul><li class="nav-item nav-item-heading "><span>Legal
 </span></li><li class="nav-item"><a href="/us/legal/end-user-agreement/" class="nav-link">Terms And Conditions Of Use
 </a></li><li class="nav-item"><a href="/us/legal/mobile-terms-and-conditions/" class="nav-link">Mobile Terms And Conditions
@@ -109,11 +115,11 @@ spweb.config = {
 </a></li></ul></nav></div></div>
     
     
-          <div id="content-main" class="content-main">
+          <div id="content-main" class="content-main" role="main">
               <div class="container">
               <h1>Spotify Privacy Policy</h1>
 
-<p>Effective as from 17 October 2012</p>
+<p>Effective as from 29 April 2014</p>
 
 <ol>
     <li><a href="#introduction">Introduction</a></li>
@@ -157,7 +163,6 @@ spweb.config = {
 
 <p>When you sign up for a Trial or any of our Paid Subscriptions (as defined in the <a href="/us/legal/end-user-agreement/">Terms and Conditions of Use</a>), or make other purchases through the Service, your credit card information and other financial data that we need to process your payment are collected and stored by third party payment processors, and we may collect some limited information, such as your postal code and details of your transaction history. These third parties generally provide us with some limited information related to you, such as a unique token that enables you to make additional purchases using the information they’ve stored, and your card’s type, expiration date, and last four digits. If you choose to pay by invoice, Spotify may need to collect and transfer additional information, like your name, date of birth and phone number, to our invoicing service provider to enable credit checks and send you invoices. The use of your data by our invoicing service provider is subject to its privacy policies.</p>
 
-<a name="cookies"></a>
 <h3>2.5	Cookies &amp; similar technologies</h3>
 
 <p>A cookie is a small text file that resides on your computer, mobile phone, or other device, and allows us or our business partners to recognise your device when you return to the Service. We may use cookies to perform functions essential to the operation of the Service, track site usage and trends, provide advertising on the Service, and improve and customise your Spotify experience. We may also allow certain business partners to place or recognise cookies for those purposes.  Learn more about how we use cookies and other similar standard Internet technologies at the bottom of this Privacy Policy (by clicking <a href="#cookies">here</a>).</p>
@@ -198,10 +203,10 @@ spweb.config = {
 
 <p>Please note that if you:
 
-    </p><ol class="roman-list">
-        <li>actively choose to provide Third Party Applications with additional information, such as by visiting a Third Party Application (which enables collection of your IP address), dragging and dropping a playlist into a Third Party Application, or allowing us to share precise geographic data which Third Party Application providers request from us; or</li>
-        <li>consent to collection of additional information about you by a Third Party Application provider when you for example register with or log in to the Third Party Application,</li>
-    </ol>
+</p><ol class="roman-list">
+    <li>actively choose to provide Third Party Applications with additional information, such as by visiting a Third Party Application (which enables collection of your IP address), dragging and dropping a playlist into a Third Party Application, or allowing us to share precise geographic data which Third Party Application providers request from us; or</li>
+    <li>consent to collection of additional information about you by a Third Party Application provider when you for example register with or log in to the Third Party Application,</li>
+</ol>
 the Third Party Application may be able to identify you and associate the information previously provided by Spotify with you. You agree and understand that a Third Party Application provider’s privacy policy governs its use of your information that we provide to it or that it collects from you.<p></p>
 
 <h3>4.4	Service providers and others</h3>
@@ -212,12 +217,12 @@ the Third Party Application may be able to identify you and associate the inform
 
 <p>In addition to the above, we may also share your information to third parties for these limited purposes:
 
-    </p><ol class="roman-list">
-        <li>to allow a merger, acquisition, or sale of all or a portion of our assets;</li>
-        <li>to respond to legal process (e.g. a court order or subpoena), if we believe in good faith that it is necessary to do so; to comply with requirements of mandatory applicable law; to protect the safety of any person; to protect the rights and property of Spotify, including to enforce the Terms and Conditions of Use and Mobile Terms; and to address fraud, security or technical issues;</li>
-        <li>to inform business partners about use of the Service and products and services made available through the Service, in the form of aggregated statistics or otherwise  in a format which does not reveal your identity;</li>
-        <li>if you expressly opt in to such sharing.</li>
-    </ol>
+</p><ol class="roman-list">
+    <li>to allow a merger, acquisition, or sale of all or a portion of our assets;</li>
+    <li>to respond to legal process (e.g. a court order or subpoena), if we believe in good faith that it is necessary to do so; to comply with requirements of mandatory applicable law; to protect the safety of any person; to protect the rights and property of Spotify, including to enforce the Terms and Conditions of Use and Mobile Terms; and to address fraud, security or technical issues;</li>
+    <li>to inform business partners about use of the Service and products and services made available through the Service, in the form of aggregated statistics or otherwise  in a format which does not reveal your identity;</li>
+    <li>if you expressly opt in to such sharing.</li>
+</ol>
 
 <p></p>
 
@@ -265,42 +270,47 @@ the Third Party Application may be able to identify you and associate the inform
 
 <p>We may make changes to this Privacy Policy from time to time, so please visit this Privacy Policy regularly. If we make changes which we believe are material, we will inform you through the Service. Your continued use of the Service thereafter constitutes acceptance of the changes. </p>
 
+<a name="cookies"></a>
 <h2>13.	More information about cookies &amp; similar technologies</h2>
 
 <p>We use cookies for four general purposes, as explained in this chart:</p>
 
 <div class="table-responsive">
-	<table class="table table-bordered">
-		<thead>
-			<tr>
-				<th>Cookie Type</th>
-				<th>Purpose</th>
-			</tr>
-		</thead>
-		<tbody>
-			<tr>
-				<td>Essential Operational</td>
-				<td>These cookies are necessary to allow us to operate the Spotify Service as you have requested. For example, they let us recognise what type of subscriber you are and then provide you with services accordingly.</td>
-			</tr>
-			<tr>
-				<td>Performance</td>
-				<td>We use these cookies to analyse how the Spotify Service is used or is performing. We use this information to maintain, operate and continually improve the Spotify Service.</td>
-			</tr>
-			<tr>
-				<td>Functional</td>
-				<td>These cookies let us operate certain functions of the Spotify Service in line with the choices you make. These cookies mean that when you come back to the Spotify Service, we can provide you with our services as you have asked for them to be provided, such as knowing your username, remembering how you have customised our services and reminding you of music you have enjoyed.</td>
-			</tr>
-			<tr>
-				<td>Targeting/advertising</td>
-				<td>We use these cookies to serve you with advertisements through the Spotify Service. Some advertisements may be relevant to you and your interests. These cookies may also help us and our business partners regulate the advertisements you receive and measure their effectiveness.</td>
-			</tr>
-		</tbody>
-	</table>
+    <table class="table table-bordered">
+        <thead>
+        <tr>
+            <th>Cookie Type</th>
+            <th>Purpose</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+            <td>Essential Operational</td>
+            <td>These cookies are necessary to allow us to operate the Spotify Service as you have requested. For example, they let us recognise what type of subscriber you are and then provide you with services accordingly.</td>
+        </tr>
+        <tr>
+            <td>Performance</td>
+            <td>We use these cookies to analyse how the Spotify Service is used or is performing. We use this information to maintain, operate and continually improve the Spotify Service.</td>
+        </tr>
+        <tr>
+            <td>Functional</td>
+            <td>These cookies let us operate certain functions of the Spotify Service in line with the choices you make. These cookies mean that when you come back to the Spotify Service, we can provide you with our services as you have asked for them to be provided, such as knowing your username, remembering how you have customised our services and reminding you of music you have enjoyed.</td>
+        </tr>
+        <tr>
+            <td>Targeting/advertising</td>
+            <td>We use these cookies to serve you with advertisements through the Spotify Service. Some advertisements may be relevant to you and your interests. These cookies may also help us and our business partners regulate the advertisements you receive and measure their effectiveness.</td>
+        </tr>
+        </tbody>
+    </table>
 </div>
 
-<p>As above, our business partners may use their cookies on the Spotify Service, for the same general purposes identified above. For more information about the use of cookies and how to block them, visit <a href="http://www.allaboutcookies.org">www.allaboutcookies.org</a>, <a href="http://www.youronlinechoices.eu">www.youronlinechoices.eu</a> (Europe) or <a href="http://www.aboutads.info/choices/">www.aboutads.info/choices/</a> (United States).  Most web browsers also allow you to manage your cookie preferences.</p>
+<p>As above, our business partners may use their cookies on the Spotify Service, for the same general purposes identified above. Third parties may use cookies and other similar technologies to collect information about your online activities over time and across different websites.  For more information about the use of cookies and how to block them, visit <a href="http://www.allaboutcookies.org">www.allaboutcookies.org</a>, <a href="http://www.youronlinechoices.eu">www.youronlinechoices.eu</a> (Europe) or <a href="http://www.aboutads.info/choices/">www.aboutads.info/choices/</a> (United States).  Most web browsers also allow you to manage your cookie preferences.</p>
 
 <p>You can set your browser to refuse cookies, or delete certain cookies. This may impair or prevent due functioning of the Service.</p>
+
+<p>Do Not Track is a standard that is currently under development.  As it is not yet finalized, we adhere to the standards set out in this Privacy Policy.</p>
+
+<p>Two of the third party services we use to track activity related to the Service, e.g. by placing cookies, are Google Analytics and Hasoffer Analytics. We may use third-party vendors, including Google, who use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on your past visits to our websites, including Google Analytics for Display Advertising. If you don't want any information to be collected and used by Google Analytics, you can install an opt-out in your web browser (<a href="http://tools.google.com/dlpage/gaoptout?hl=None">tools.google.com/dlpage/gaoptout?hl=None</a>) and/or opt out from Google Analytics for Display Advertising or the Google Display Network. You can do so by using Google’s Ads Settings (www.google.com/settings/ads). If you don't want any information to be collected and used by Hasoffer Analytics you can opt out by clicking the following link: <a href="http://www.mobileapptracking.com/privacy-policy/">www.mobileapptracking.com/privacy-policy/</a>.</p>
 
 <p>We may use standard Internet technologies similar to cookies like these:</p>
 
@@ -309,7 +319,7 @@ the Third Party Application may be able to identify you and associate the inform
 <p>HTML5 Local Storage: We use HTML5 local storage for frequency capping purposes and to provide you with relevant advertising.  We do not use HTML5 local storage to collect any personal data or to track your activity on our websites.</p>
 
 <p>Copyright © 2012 Spotify AB or its affiliates. All rights reserved.</p>
-<p>Spotify USA Inc., 45 W. 18th Street,<br>7th Floor<br>New York, NY 10011<br>USA</p>
+<p>Spotify USA Inc., <br>45 W. 18th Street<br>7th Floor<br>New York, NY 10011<br>USA</p>
 
 
           </div>
@@ -317,13 +327,14 @@ the Third Party Application may be able to identify you and associate the inform
     
       </div>
 
-      <footer id="footer-main" class="footer-main legacy group">
+      <footer id="footer-main" class="footer-main" role="contentinfo">
   <div class="container">
     <nav class="nav-footer">
       <ul><li class="nav-item about_us "><a href="/us/about-us/contact/" class="nav-link js-ga-event" data-ga-event-category="moreinfo" data-ga-event-action="about" data-ga-event-label="navigation_bottom">About
 </a></li><li class="nav-item jobs"><a href="/us/jobs/" class="nav-link js-ga-event" data-ga-event-category="moreinfo" data-ga-event-action="jobs" data-ga-event-label="navigation_bottom">Jobs
 </a></li><li class="nav-item press"><a href="http://press.spotify.com" class="nav-link js-ga-event" data-ga-event-category="moreinfo" data-ga-event-action="press" data-ga-event-label="navigation_bottom">Press
-</a></li><li class="nav-item news "><a href="/us/blog/" class="nav-link js-ga-event" data-ga-event-category="moreinfo" data-ga-event-action="news" data-ga-event-label="navigation_bottom">News
+</a></li><li class="nav-item news"><a href="/us/blog/" class="nav-link js-ga-event" data-ga-event-category="moreinfo" data-ga-event-action="news" data-ga-event-label="navigation_bottom">News
+</a></li><li class="nav-item gift "><a href="/us/get-spotify/e-card/" class="nav-link js-ga-event" data-ga-event-category="moreinfo" data-ga-event-action="gift" data-ga-event-label="navigation_bottom">Gift
 </a></li></ul>
       <ul class="small">
         <li class="nav-item">
@@ -379,7 +390,7 @@ the Third Party Application may be able to identify you and associate the inform
       </div><!-- /.market-picker-->
 
       <small class="copyright">
-        © 2007-2013 Spotify AB
+        © 2007-2014 Spotify AB
       </small>
     </div><!-- /.box-->
 
@@ -392,9 +403,9 @@ the Third Party Application may be able to identify you and associate the inform
   <a class="spotify-logo" href="/us/"></a>
 
 <section class="signup-select">
-  <form id="js-register-with-facebook" method="post" action="/us/xhr/json/sign-up-for-spotify-fb.php">
+  <form id="js-register-with-facebook" method="post" role="form" action="/us/xhr/json/sign-up-for-spotify-fb.php">
     <div class="content">
-      <div class="js-general-error alert alert-info is-hidden" data-error="Oops! Something went wrong, please try again or check out our <a href=" help="" "="">help area"&gt;</div>
+      <div class="js-general-error alert alert-info is-hidden" data-error="Oops! Something went wrong, please try again or check out our <a href=&quot;/help/&quot;>help area</a>"></div>
             <a href="#" class="button button-facebook js-signup-fb" id="select-button-signup-fb">
             Sign up with Facebook        </a>
         
@@ -410,7 +421,7 @@ the Third Party Application may be able to identify you and associate the inform
     <div class="terms-endcap">
       <fieldset>
         <ul>
-          <li id="li-terms-notick">
+          <li class="li-terms-notick">
             <p class="notice">By clicking on Sign up, you agree to <a href="/legal/end-user-agreement/" target="_blank">Spotify's terms &amp; conditions</a> and <a href="/legal/privacy-policy/" target="_blank">privacy policy</a></p>
           </li>
         </ul>
@@ -427,9 +438,11 @@ Sign up with your email address    </h2>
 
     <form id="js-register-with-email" method="post" action="/us/xhr/json/sign-up-for-spotify.php">
 
-      <div class="js-general-error alert alert-info is-hidden" data-error="Oops! Something went wrong, please try again or check out our <a href=" help="" "="">help area"&gt;</div>
+      <div class="js-general-error alert alert-info is-hidden" data-error="Oops! Something went wrong, please try again or check out our <a href=&quot;/help/&quot;>help area</a>"></div>
 
-      <input name="form_token" type="hidden" value="a4e9d4989d980bc9ff7308e759736837">
+      <input class="js-sp-csrf" name="sp_csrf" type="hidden">
+
+      <input name="form_token" type="hidden" value="2303e39a2be905c822bb7c026614d397">
 
       <input id="creation_flow" name="creation_flow" type="hidden" value="">
 
@@ -483,12 +496,12 @@ Sign up with your email address    </h2>
   <input type="number" id="register-dob-day" class="dob" name="dob_day" placeholder="day" pattern="[0-9]*" maxlength="2" min="1" max="31" required="" data-msg-required="When were you born?" data-msg-number="Please enter a valid day of the month." data-msg-min="Please enter a valid day of the month." data-msg-max="Please enter a valid day of the month.">
 </div>
 <div class="controls controls-year">
-  <input type="number" id="register-dob-year" class="dob" name="dob_year" placeholder="year" pattern="[0-9]*" maxlength="4" min="1900" max="2000" required="" data-msg-required="When were you born?" data-msg-number="Please enter a valid year." data-msg-min="Please enter a valid year." data-msg-max="Sorry, but you don't meet Spotify's age requirements.">
+  <input type="number" id="register-dob-year" class="dob" name="dob_year" placeholder="year" pattern="[0-9]*" maxlength="4" min="1900" max="2001" required="" data-msg-required="When were you born?" data-msg-number="Please enter a valid year." data-msg-min="Please enter a valid year." data-msg-max="Sorry, but you don't meet Spotify's age requirements.">
 </div>
             </div>
           </li>
 
-          <li id="li-gender">
+          <li id="li-gender" class="gender">
             <label class="is-visually-hidden">Gender:</label>
               <label for="register-male" class="radio control-inline">
                 <input type="radio" id="register-male" class="gender" name="gender" value="male" required="" data-msg-required="Please indicate your gender.">
@@ -500,7 +513,7 @@ Sign up with your email address    </h2>
           </li>
 
 
-          <li id="li-terms-notick">
+          <li class="li-terms-notick">
             <p class="notice">By clicking on Sign up, you agree to <a href="/legal/end-user-agreement/" target="_blank">Spotify's terms &amp; conditions</a> and <a href="/legal/privacy-policy/" target="_blank">privacy policy</a></p>
           </li>
         </ul>
@@ -525,8 +538,9 @@ Sign up with your email address    </h2>
 
 <section class="login">
   <div class="content">
-    <form id="js-login-form-facebook" method="post" action="/us/login/fb/">
-      <div class="js-general-error alert alert-info is-hidden" data-error="Oops! Something went wrong, please try again or check out our <a href=" help="" "="">help area"&gt;</div>
+    <form id="js-login-form-facebook" method="post" role="form" action="/us/login/fb/">
+
+      <div class="js-general-error alert alert-danger is-hidden" data-error="Sorry, we're unable to log you in. Don't have an account? <a href=&quot;/us/signup/&quot;>Sign up</a>."></div>
 
       <a href="#" class="button button-facebook js-facebook-login" id="login-button-login-fb">
         Log in with Facebook      </a>
@@ -535,11 +549,12 @@ Sign up with your email address    </h2>
 
     <strong class="line-thru">or</strong>
 
-    <form id="js-login-form-email" method="post" action="/us/xhr/json/login.php">
-      <div class="js-general-error alert alert-info is-hidden" data-error="Oops! Something went wrong, please try again or check out our <a href=" help="" "="">help area"&gt;</div>
+    <form id="js-login-form-email" method="post" role="form" action="/us/xhr/json/login.php">
+      <input type="hidden" class="js-sp-csrf" name="sp_csrf">
+      <div class="js-general-error alert alert-info is-hidden" data-error="Oops! Something went wrong, please try again or check out our <a href=&quot;/help/&quot;>help area</a>"></div>
       <input type="hidden" id="login-forward-url" name="forward_url" value="/us/">
       <input type="hidden" name="referrer" value="">
-      <input type="hidden" name="utm-keywords" value="a4e9d4989d980bc9ff7308e759736837">
+      <input type="hidden" name="utm-keywords" value="2303e39a2be905c822bb7c026614d397">
 
 
 
@@ -547,7 +562,7 @@ Sign up with your email address    </h2>
         <ul>
           <li>
             <label class="is-visually-hidden" for="login-username">Username:</label>
-            <input placeholder="Username" type="text" id="login-username" required="" data-msg-required="Please enter your email or Spotify user name." name="user_name" autocapitalization="off" autocomplete="off" autocorrect="off">
+            <input placeholder="Username" type="text" id="login-username" required="" data-msg-required="Please enter your Spotify user name." name="user_name" autocapitalization="off" autocomplete="off" autocorrect="off">
           </li>
           <li>
             <label class="is-visually-hidden" for="login-password">Password:</label>
@@ -560,11 +575,15 @@ Sign up with your email address    </h2>
 
     <a id="login-link-password" href="/us/password-reset/" class="primary js-link" data-section="password-reset">Forgot your password?</a>
 
-    <p class="primary">Don't have an account?      <a id="login-link-signup-email" href="/us/signup/" class="js-link" data-section="register">Sign up</a>
+    <p class="primary">Don't have an account?      <a id="login-link-signup-email" href="/us/signup/" class="js-link" data-section="signup-select">Sign up</a>
     </p>
   </div>
+  <div class="terms-endcap">
+    <fieldset>
+      <p class="small-notice">If you click "Log in with Facebook" and are not a Spotify user, you will be registered and you agree to Spotify's <a class="link" href="/us/legal/end-user-agreement/" target="_blank">Terms &amp; Conditions</a> and <a class="link" href="/us/legal/privacy-policy/" target="_blank">Privacy Policy</a>.</p>
+    </fieldset>
+  </div>
 </section>
-
 
 <section class="password-reset" data-nolink="0">
   <div class="content">
@@ -573,13 +592,14 @@ Sign up with your email address    </h2>
 
     <p class="msg primary"></p>
 
-    <form id="js-password-reset-form" method="post" action="/us/xhr/json/reset-password.php">
+    <form id="js-password-reset-form" method="post" role="form" action="/us/xhr/json/reset-password.php">
+      <input class="js-sp-csrf" name="sp_csrf" type="hidden">
       <div class="js-general-error alert alert-info is-hidden" data-error="Oops! Something went wrong, please try again or check out our <a href=&quot;/help/&quot;>help area</a>"></div>
       <fieldset>
         <ul>
           <li>
             <label class="is-visually-hidden" for="password-reset">Email address or username:</label>
-            <input placeholder="Email address or username" type="text" id="password-reset" required="" autocapitalize="off" autocomplete="off" autocorrect="off" data-msg-required="Please enter your email or Spotify user name." name="email_or_username">
+            <input placeholder="Email address or username" type="text" id="password-reset" required="" autocapitalize="off" autocomplete="off" autocorrect="off" data-msg-required="Please enter your Spotify user name." name="email_or_username">
           </li>
         </ul>
       </fieldset>
@@ -588,7 +608,7 @@ Sign up with your email address    </h2>
 
     <a id="password-link-login" href="/us/login/" class="primary back-link js-link" data-section="login">« Go back</a>
     <p class="primary">
-      If you still need help, contact <a id="password-link-support" class="what-is-spotify" target="_blank" href="//support.spotify.com/">Spotify Support.</a>    </p>
+      If you still need help, contact <a id="password-link-support" class="what-is-spotify" target="_blank" href="/help/faq/account/password-reset/">Spotify Support.</a>    </p>
   </div>
 </section>
 
@@ -597,10 +617,11 @@ Sign up with your email address    </h2>
     </div>
   
         <!--[if lt IE 9]>
-        <script src="//d2c87l0yth4zbw.cloudfront.net/js/b2b1492.js"></script>
+        <script src="//d2c87l0yth4zbw.cloudfront.net/js/2a84695.js"></script>
         <![endif]-->
-        <script src="//d2c87l0yth4zbw.cloudfront.net/js/f2dda00.js"></script>
-         
+        <script src="//d2c87l0yth4zbw.cloudfront.net/js/5f4ea61.js"></script>
+       
+    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","licenseKey":"056bbe16c3","applicationID":"2971901","transactionName":"blwBY0pSDEQFU0BfWlcWIlRMWg1ZS2NEWUFQXxpgT0QgQgpUWFMPalAEWU1DWFoLVEFaUA==","queueTime":0,"applicationTime":68,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
   <!-- This page was rendered using Twig -->
 
-</body></html>
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
