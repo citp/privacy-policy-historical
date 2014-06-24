@@ -1,176 +1,73 @@
-> *The following text is extracted and transformed from the fico.com privacy policy that was archived on 2008-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080605044439id_/http%3A//www.myfico.com/Policy/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fico.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624034716id_/http%3A//www.fico.com/en/about-us/terms-of-use/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - FICO
 
-Posted: March, 2008
+This website is owned and operated by FICO. At FICO we are committed to providing you with analytic tools and decision management products and services to meet your needs. Our commitment includes protecting personally identifiable information we obtain about you when you register to use one of our websites or become our customer (“Personal Information”). We want to earn your trust by providing strict safeguards to protect this information. This FICO Privacy Policy describes how we collect, use and disclose Personal Information. This Privacy Policy applies to members, customers, former customers, users, and applicants.  
+Note: If you are an individual and you register to use one of our websites, or become our customer by obtaining a product from us to be used primarily for personal, family or household purposes, please review the separate FICO Privacy Policy that applies to you and your transactions with FICO and our consumer division, myFICO at www.myFICO.com.
 
-[](http://www.truste.org/ivalidate.php?url=www.myfico.com&sealid=101)
+**Collection of Personal Information**  
+We collect information from applications, questionnaires, and other forms you submit to us, such as your name, your job title, your company’s name and industry sector, your company’s location (country, state and zip code), and your contact information (address, email, and telephone number). We collect information from your transactions and interactions with us, such as your professional interests, or information you may provide via your interactions with our online forums, blogs, or participation in our online communities. We may collect information from credit bureaus if it is necessary for the delivery of the services we provide you, and we may access public sources of information, such as census data and real estate records, and private source of information such as business bureau, industry analyst, or market research data. We do not permit other parties to collect personally identifiable information about your online activities over time and across different Web sites when you use our Web site or service.
 
-### Applicability
+Collecting Personal Information is necessary for performance of the services and functionalities offered on the website. If you decline to provide the requested Personal Information, we may not be able to process your inquiry, provision access to certain functionality, or fulfill requests. This website is hosted by FICO on servers located in the United States and other countries. If you are located in a non-US jurisdiction, you may be sending your Personal Information to the United States or another jurisdiction that does not have laws that provide an equivalent level of data protection to the laws in your home country.
 
-This Privacy Policy (the “Policy”) applies to the following web sites: [myFICO.com](http://www.myfico.com/), [fico.org](http://www.fico.org/), and [InsuranceScore.com](http://www.insurancescore.com/) (collectively, the “Web Sites”). Where a portion of this Policy does not apply to all of the Web Sites, that will be indicated in the Policy. Information posted on FICO® Forums is public information and is not covered by this Privacy Policy.
+**Use of Cookies**  
+We may use web-based tools when you visit our websites, such as “cookies” to track your online activities, including your registration, submissions, and information requests, in accordance with applicable law. Cookies are small text files placed by a website server on your computer or other device you are using to access the website. They are NOT viruses, capable of being programmed, capable of spreading malware or capable of identifying you personally. Some collect anonymous information of the pages you have viewed, and are used to assess the website’s performance so that we, in turn, can monitor and improve performance. Other cookies track your online activities on this website, including the IP address from which you accessed the website, and may link that information with Personal Information you have provided us through online registration, to help us remember your settings, all with a view to improving your experience on the website. We may also use your IP address to help diagnose problems with our server and to administer the website. The length of time we may keep a cookie on your device will depend on the nature of the cookie and the reason we have set it. We use “session” cookies, which expire when you close your browser and do not remain on your computer or device. We also use “persistent” cookies, which remain on your computer or device, and which are deleted when they are no longer necessary. Some cookies are necessary for the functioning of the website and will be set automatically on your arrival. The remainder are deployed only after you have given your consent.
 
-### General
+Use of Google Analytics Cookies This website uses Google Analytics, a web analyst service provided by Google, Inc. (“Google”). Google Analytics uses “cookies”, which are text files placed on your computer to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website you consent to the processing of data about you by Google in the manner and for the purposes set out above. Full terms relating to the use of Google Analytics can be accessed at http://www.google.co.uk/analytics/tos.html.
 
-We understand and respect your concerns about privacy and the security of personal information, and we want you to feel comfortable using our Web Sites. Maintaining the security of your personally identifiable information is important to us, as is giving you choices as to how that information is used and shared. We've created this Privacy Policy to provide you with information about data security and the privacy practices and policies applicable to the Web Sites identified above.
+How to enable and disable cookies using your browser Your web browser may be set to accept cookies automatically, but can be changed to decline them. The Help section of the toolbar on most browsers will tell you how to set your browser to prevent accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Please note that if you decline to accept cookies, then you may be required to re- register each time you download or request materials from the website.  
+Chrome: http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647 Mozilla Firefox: http://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website- preferences?redirectlocale=en-US&redirectslug=Enabling+and+disabling+cookies Opera: http://www.opera.com/browser/tutorials/security/privacy/ Internet Explorer: http://windows.microsoft.com/en-GB/windows-vista/Block-or-allow-cookies Safari: www.apple.com/support/?path=Safari/3.0/en/9277.html<br>  
+**Use of Personal Information**  
+We use Personal Information to register you with the website and provide you with requested information or services. We may also from time to time use your contact information to send you information about FICO and marketing materials via telephone, automated email messages, and direct mail. These email messages may contain web beacons and other features that tell us you received and were able to open the message. We do not honor electronic do-not-track signals sent by your browser when you visit our site or other mechanisms that would give you the ability to exercise choice regarding the collection of Personal Information about your online activities over time and across third party Web sites, but at any time you may opt out of receiving further email communications from us by clicking the unsubscribe link in the footer of all FICO email messages. You may also opt out of receiving any marketing solicitation from us, including email, direct mail, and phone solicitations, by calling us at 1.888.FICO.EDM (1-888-342-6336) at any time Monday through Friday. This website contains links to other websites; FICO is not responsible for the privacy practices or the content of other websites.
 
-### Types of Information we Collect
+**Disclosures of Personal Information**  
+FICO may disclose Personal Information to third parties as required or permitted by law, under the following circumstances:  
+1\. We may disclose Personal Information to companies in our corporate group as necessary or appropriate to provide the product or service you requested, to contact you in connection with product or service offerings, or for other legitimate business purposes.  
+2\. We may disclose certain Personal Information to companies and individuals with whom we contract to perform business functions and services on our behalf. Such business functions may include hosting our web servers, analyzing data, providing legal, accounting and marketing services, and providing other support services.  
+3\. We may disclose certain Personal Information to other companies and individuals to help us market our products, including business partners in joint marketing agreements. We require all such parties to maintain the security and confidentiality of the Personal Information, and to process the data in accordance with our instructions.  
+4\. We may disclose Personal Information to the extent necessary or appropriate to government agencies, advisors, and other third parties in order to comply with applicable laws, or if such action is necessary to protect the rights or property of FICO or its affiliated companies.  
+5\. European Union citizens: you may opt out of our (1) disclosure of Personal Information to a third party or (2) use for a purpose other than the purpose for which it was originally collected or subsequently authorized by you. For Sensitive Personal Information, you must affirmatively or explicitly (opt out) consent to the disclosure of the information for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual. “Sensitive Personal Information” means personal information that reveals race, ethnic origin, sexual orientation, political opinions, religious or philosophical beliefs, trade union membership or that concerns an individual’s health.
 
-Information collected online is usually categorized as either _general_ or _personally identifiable_.
+**Personal Data Security and Confidentiality**  
+We have up-to-date physical safeguards, such as secure areas in buildings; electronic safeguards, such as passwords and encryption; and procedural safeguards, such as customer authentication procedures to prevent ID theft. We restrict access to information about you to only those employees who need to know that information to provide products or services to you. We carefully select and monitor outside service providers, such as mail vendors, who have access to customer information, and we require them to keep it safe and secure. We do not allow them to use or share the information for any purpose other than the job they are hired to do. We train our employees on these security procedures, and we conduct regular audits to check on compliance with the procedures.
 
-### General Information
+**Personal Data Access and Correction**  
+FICO will provide you access to Personal Information about you so you can correct or delete the Personal Information in accordance with applicable law. You may have additional rights in non-U.S. countries, such as objecting to and blocking the processing of your Personal Information. For security reasons, FICO will take steps to authenticate your identity before providing you with access to Personal Information.
 
-The Web Sites (other than InsuranceScore.com) may collect _general information_ , which refers to data that is generally not tied back to a specific individual. The information we collect (either directly or through the use of a third-party tracking system) includes:
+Compliance with the U.S. – EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework  
+FICO complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. FICO has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. FICO is committed to handling such personal information in accordance with the Safe Harbor Principles:  
+• Notice. We will notify you about the purposes for which we collect and use information about you. We will provide information about how you can contact us with any inquiries or complaints, the types of third parties to which we disclose the information and the choices and means you have for limiting its use and disclosure.  
+• Choice. We will give you the opportunity to choose (opt out) whether your personal information will be disclosed to a third party or used for a purpose incompatible with the purpose for which it was originally collected or subsequently authorized by you. For sensitive information, we will get your affirmative (opt in) choice if the information is to be disclosed to a third party or used for a purpose other than its original purpose or the purpose authorized subsequently by you.  
+• Onward Transfer (Transfers to Third Parties). We will apply the notice and choice principles when we disclose information to a third party. If we transfer information to a third party that is acting as an agent, we will require that the third party agree to have adequate privacy protection as is required by the relevant principles.  
+• Access. You will have access to personal information about yourself that we hold, and you may correct, amend, or delete that information where it is inaccurate, except where the burden or expense of providing access would be disproportionate to the privacy risks in question, or where the rights of persons other than you would be violated.  
+• Security. We will take reasonable precautions to protect personal information from loss, misuse and unauthorized access, disclosure, alteration and destruction.  
+• Data Integrity. We will take precautions to assure the personal information is relevant for the purposes for which it is to be used. We will take reasonable steps to ensure that data is reliable for its intended use, accurate, complete, and current.
 
-  * The IP address of the computer making the request (Usually this is not your personal computer, but a computer used by your internet service provider or company network).
-  * The URL that is being requested.
-  * The date and time of the request.
-  * The browser type and operating system used to make the request.
-  * Referring URL
+We self-certify compliance with
 
+To learn more about the Safe Harbor program, and to view FICO’s certification, please visit
 
+http://www.export.gov/safeharbor
 
-We also may collect aggregate search terms from search engine referrals to determine what information visitors are searching for when they find our Web Sites.
+Questions and Complaints  
+If you have a question about our privacy practices, or want to submit a complaint, contact us at:
 
-All of this general information is used to administer and improve our Web Sites and diagnose any technical problems which may occur with our servers.
-
-### Personally Identifiable Information
-
-_Personally identifiable information_ refers to data that tells us specifically who you are, such as your name and email address, which may be collected in addition to the general data described above.
-
-The Web Sites may collect personal information through correspondence, by email or via our contact forms. (This is the only way personally identifiable information is collected by InsuranceScore.com.)
-
-If you contact us, we may keep a record of that correspondence. We use the information provided so that we may respond to the email. Unless you give your consent, this information will not be used to contact you for purposes other than to respond to your inquiry and it will not be shared with third parties for their marketing purposes.
-
-We also collect nonpublic personal information about you on myFICO.com from the following sources:
-
-  * Information we receive from you, such as when you register for and order the products and services we provide, whether alone or in conjunction with other companies (collectively, the “Products”), or when you complete applications and other forms.
-  * Information about your transactions with us, our affiliates and other companies that help us provide the Products.
-  * Information that indicates the source of a referral when you have reached one of the Web Sites through a referral from another site.
-  * Information we receive from third parties, such as consumer reporting agencies and companies that provide demographic information.
-
-
-
-The personally identifiable information that we collect from you on myFICO.com may include the following:
-
-  * First and last name
-  * Current and previous home address, including street name, city or town, state, and zip code
-  * Email address
-  * Telephone numbers
-  * Social security number
-  * Driver's license number
-  * Credit Card Number
-  * Information found in your credit report, including your credit score (if you order a product that includes a credit report and/or score)
-  * Income (if you choose to provide this information in connection with the Loan Center)
-  * Mortgage Information (if you choose to provide this information in connection with the Loan Center)
-
-
-
-This information is necessary for us to verify your identity and provide the Products to you. If you are unwilling to provide this information to us, we will not be able to deliver the Products to you. 
-
-### Putting Your Information to Work
-
-We use this personally identifiable information to provide the Products to you and to provide support for the Products, as well as for various internal business purposes such as: customer service; fraud prevention; internal investigations; providing you information relating to the Products; and broadening and improving the services and products we and our affiliates can offer.
-
-If you have joined our privileges program, we may also use this information to provide updates and to contact you regarding products and services we think you might be interested in, depending on the preferences you select. For more information on your choices, see the section below entitled “Your Right to Choose.”
-
-### Disclosing Your Information
-
-When you order a Product, we must share some of your personally identifiable information with third parties in order to process the transaction and provide you with the Products you have ordered. For example, we must share your credit card number with our credit card processor in order to process your payment. We must share your name, address, and social security number with one or more of the three major credit reporting agencies or other providers in order to obtain a credit report and credit score to provide to you. These third parties are not allowed to use personally identifiable information except for the purpose of providing these services. In general, we will not share your email address with any third party. However, if you specifically authorize us to provide your email address to a third party, we may do so in accordance with your instructions.
-
-If you choose to submit your personal information to us as part of a request to be contacted by a lender or lenders, we will supply your personal information to the lender(s), and one or more lender(s) will use the information you have provided to contact you regarding the specific product which you have requested. Your submission of the questionnaire is your consent for us to disclose your information to any such lender. We do not have control over the use of your personal information once we provide it to the lenders, and we are not responsible for their privacy practices. Your rights with respect to their treatment of your information will be governed by their own policies. 
-
-Consistent with the federal financial privacy laws, we may also disclose some of the nonpublic personal information we collect, as described above, to selected unaffiliated third parties (companies that are not owned or controlled by us) for various business purposes, including joint business efforts for related and unrelated products and services:
-
-  * Financial services providers, such as banks and mortgage lenders.
-  * Non-financial companies such as retailers, direct marketers, and publishers.
-  * Companies with which we have joint marketing agreements (see discussion below regarding collection of information by third-party sites and sponsors). 
-  * Others, as permitted by law
-
-
-
-We do not share any of your personally identifiable information with unrelated third parties for their own marketing purposes without your consent. However, we may disclose any of the information we collect to companies that perform marketing services on our behalf and companies that are related to us by common ownership or affiliated with us by common control. We will not disclose to third parties the credit report or credit score obtained in providing any Product without your prior specific consent.
-
-If Fair Isaac is acquired by or merges with another company, or if the business of the myFICO® division of Fair Isaac is acquired by another company, information will be transferred to the acquiring company. We would notify you of such an event as provided in the Changes section of this Policy section below. Fair Isaac may also share information to the extent we believe it is necessary to comply with the law (e.g., in response to subpoenas or government investigations), to assert or defend legal claims, and in order to investigate or respond to actual or suspected illegal activities, fraud, and threats of physical harm.
-
-### Your Right to Choose
-
-You have the ability to opt out of certain types of information sharing and communications.
-
-You may opt out of certain communications if you prefer that we not send you newsletters or offers regarding products and services. If you exercise this opt-out right, we will not send you any newsletters or product or service offers.
-
-You may opt out of information sharing if you prefer that we not share your personal information with third parties for their marketing purposes. If you exercise this opt-out right, we will not share your personal information with third parties for their marketing purposes.
-
-You may exercise your right to opt out of communications and information sharing when you create your myFICO® account by following the instruction for opting out of the myFICO® privileges program. You may also exercise your right to opt out any time by logging into your account at [www.myFICO.com](http://www.myfico.com/), clicking on “Contact Preferences”, and editing your preferences to opt out of the myFICO® Privileges Program. If you receive an email from us you may exercise your right to opt out of further email communications by following the opt-out link contained in the email.
-
-Please note that your decision to opt out will not apply to certain disclosures that are required for us to deliver the Products you have ordered or that are specifically permitted or required by law. For example, the Products cannot operate unless we transmit data to companies that help us provide the Products, such as by providing us with credit reports or processing credit card charges. Your general opt-out instructions also will not apply to specific disclosures or communications to which you consent.
-
-### Reviewing Your Information
-
-You will be able to change the personal information you have provided to us by logging into the myFICO® Member Center with your login ID and password. However, for security reasons, you will not be able to change the following information online: First Name, Social Security Number, Date of Birth, and Gender. You can change this information by calling our customer care center. You will also not be able to change personal information that we have obtained from third parties, such as the information in your credit reports.
-
-### Keeping Your Information Secure
-
-Except for the disclosures and uses described above, we restrict access to nonpublic personal information about you to those employees and companies that need to know that information to provide the Products to you. Those employees and companies are contractually required to maintain the confidentiality of information provided to them and not use it except as required to provide the Products to you or as you specifically consent. We maintain physical, electronic, and procedural safeguards to guard your nonpublic personal information. Information you provide to us when you register for and order the Products is transmitted to us through a secure sockets layer (SSL) transmission. In addition, information we collect is subject to numerous measures designed to help protect it from unauthorized access or alteration, including for example, internal and external firewalls, physical security measures, and encryption of certain information. Of course, you must do your part to ensure the security of your information. For example, you must guard your logon ID and password and not permit unauthorized use of your account. No security measures can provide absolute protection of data, but we will strive to provide a superior level of protection for your information.
-
-### InfoVault and EZ Error Correct
-
-Information in the InfoVault feature of the Suze Orman FICO® Kit and information you include in a dispute letter in EZ Error Correct is treated differently from other information we may collect from you.
-
-The InfoVault is intended for you to store private information, including personally identifiable data regarding your accounts, contact information, social security number, medical records, and other sensitive information that you decide to store there. That information will be available to you on our site as long as your Suze Orman FICO® Kit is active.
-
-The information you put into an EZ Error Correct dispute letter will be stored for 90 days on our servers to allow you to come back and make changes to and reprint the letter. All of that information is kept separate from any other information covered by this Privacy Policy.
-
-Information stored in the InfoVault and put into EZ Error Correct dispute letters is your personal information and, notwithstanding anything to the contrary in this Privacy Policy, Fair Isaac will not use this information in any way or intentionally disclose it to any third party without your consent or as required by law.
-
-However, we recommend that you be extremely careful about the information you decide to store in the InfoVault and include in an EZ Error Correct dispute letter. No amount of security can provide absolute protection. For example, if you were to allow your logon information to fall into the wrong hands, someone might be able to access your information in the InfoVault or the dispute letter.
-
-### Collection of Information by Third-Party Sites and Sponsors
-
-If our Web Sites contain links to other sites, we are not responsible for the privacy practices or content of those other sites.
-
-The Loan Center includes advertising from Secure Rights, and all mortgage and home financing loan-related services are offered and provided by Secure Rights. Click here for more information about Secure Rights, including its privacy policies. We sometimes may offer content (e.g., promotions) that is sponsored by or co-branded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the site activity. We have no control over these third parties' use of this information. We will notify you at the time of requesting personally identifiable information if we will be providing this information to third parties.
-
-### What About Cookies?
-
-A "cookie" is a small piece of information sent by a Web server and stored by the user's Web browser so the information can later be read back from that browser. Cookies enable the browser to identify itself to the server, and allow the server to maintain an active "session" with an individual user. Cookies help the browser remember some specific information. We make limited use of cookies to make your visit to the Web Sites easier, to improve the user experience, and to identify individual users who have registered for certain products. We also use a third-party tracking service that uses cookies to gather statistical information about how our site is used. This statistical information is not connected to any of your personal information. See the section above titled _General Information_.
-
-### Email This (tell-a-friend)
-
-If you choose to use our referral service to tell a friend about any of our Web Sites or any of our Products, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. We do not store this information or disclose or use it for any other purpose.
-
-### Children's Privacy
-
-The Web Sites and the Products are intended for use only by adults. We do not knowingly collect personally identifiable information from children.
-
-### Changes to our Privacy Policy
-
-We want you to be fully informed about how we will use your information and protect your privacy. We may change this Privacy Policy in the future. You agree that we may notify you of changes in our Privacy Policy by posting a new or updated policy on the Web sites. We will notify you of any material changes by providing a notice to that effect on the home page. You should periodically check this Privacy Policy for changes. Changes will take effect 30 days after we post a new or updated Privacy Policy. Your continued use of our site following the posting of changes to this Policy will mean you accept those changes.
-
-### Notices
-
-We may send certain legally required notices or disclosures, including notices regarding our privacy policies, to you via E-mail, and you consent to receiving any such consents or disclosures via E-mail. It will be your responsibility to ensure that you have the necessary systems to allow you to receive E-mail notices and disclosures from us.
-
-### Contacting Us
-
-If you have questions about this Privacy Policy or about our information practices, you can send us your question by clicking on [Contact Us](https://web.archive.org/myfico/ContactUs.asp) (for myFICO.com or fico.org) or [Contact Us](http://www.insurancescore.com/contact.aspx) (for InsuranceScore.com) or send an email to [myfico@mailca.custhelp.com](mailto:myfico@mailca.custhelp.com) or send correspondence to:
-
-Customer Care Team  
+United States  
+W. B. Coleman  
+Internet Manager  
+FICO  
 200 Smith Ranch Road  
-San Rafael, CA 94903 
+San Rafael, CA 94903 USA  
+Email Address: webmanager@fico.com
 
-This PO Box is owned by Fair Isaac Corporation:
-
-Fair Isaac Corporation  
-901 Marquette Avenue, Suit 3200  
-Minneapolis, MN 55402 
-
-### Scope of Policy
-
-This Privacy Policy applies to individuals using the Web Sites and the Products for personal, family or household purposes, unless a different privacy policy is provided in connection with a specific Product. Certain practices described and rights provided in this Privacy Policy may not apply to institutional users or individuals who use the Products for business purposes.
-
-### TRUSTe Privacy Program
-
-Fair Isaac Corporation is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the sites [www.myFICO.com](http://www.myfico.com/), [www.fico.org](http://www.fico.org/), and [www.InsuranceScore.com](http://www.insurancescore.com/) Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
-
-If you have questions or concerns regarding this statement, you should first contact our customer care team at [myfico@mailca.custhelp.com](mailto:myfico@mailca.custhelp.com) or 1-800-319-4433. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns.
+European Union  
+Simon Elsom  
+Senior Director, Legal  
+FICO  
+Cottons Centre 5th Floor  
+Hays Lane  
+London SE1 2 QP  
+United Kingdom  
+EU Citizens: If we cannot satisfactorily address your inquiry, there is an independent organization that can review your complaint and provide the appropriate recourse for you. Your inquiry will be investigated and resolved by the Dispute Resolution Process of TRUSTe [www.truste.org/]. TRUSTe is authorized to (i) verify that the commitments FICO has made to adhere to the Safe Harbor principles have been implemented; (ii) determine whether FICO has remedied problems arising out of a failure to comply with the principles; and (iii) assess and enforce sanctions against FICO to ensure compliance.  
+Revisions to the Policy  
+If we change this Privacy Policy we will post the changes here with 30 days’ notice before the revised Privacy Policy becomes effective. This Notice is effective as of December 17, 2013.
