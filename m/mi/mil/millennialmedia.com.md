@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the millennialmedia.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229023106id_/http%3A//www.millennialmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the millennialmedia.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624040246id_/http%3A//www.millennialmedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Millennial Media
 
