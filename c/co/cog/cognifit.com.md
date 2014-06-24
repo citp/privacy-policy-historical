@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cognifit.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218021742id_/https%3A//www.cognifit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cognifit.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625001833id_/https%3A//www.cognifit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -44,8 +44,6 @@ We may use personally identifiable information for the following purposes:
 While you are using the Products and Services online, the software processes the data you entered and shared to produce output, recommendations and other results based on the features available on the Websites. The software can also produce your cognitive results and assessment and let you play games/tasks, play with neurons and challenges. We may use your results with those of other users and for other statistical and analytically purposes. CogniFit will use your username and password to automatically save the full results of any evaluation, game, task and training session you take including the amount of neurons available on your account. Your personal information will be kept with us in compliance with this policy. You can decide to share your identifiable information such as your name, score and neurons with other users on the CogniFit Websites. You can change at any time your privacy preferences in your account page on the Websites. 
 
 We may use your results with those of other users to search and present relevant content to other users and operate features of the Websites. For example, we may use your results to statistically understand what other users might find interesting and relevant, and improve our recommendation and matching algorithms for your benefit as well as the benefit of all users. If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us (for example when you add a connection to your account or invite a new user, we will use the information provided to contact this person via email or other communication tool). 
-
-We do not knowingly collect personal information from children under 13. If we learn that we have collected the personal information of a child under 13 we will take steps to delete the information as soon as possible. 
 
 **The information we share with others**
 
