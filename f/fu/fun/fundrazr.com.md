@@ -1,16 +1,18 @@
-> *The following text is extracted and transformed from the fundrazr.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226102853id_/https%3A//fundrazr.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fundrazr.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625002032id_/https%3A//fundrazr.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy — FundRazr
 
-_This Privacy Policy was last revised on March 1, 2013._
+_Revised on March 2, 2014_
 
-ConnectionPoint Systems Inc. (hereafter referred to as “CPSI”), provides its services (hereafter referred to as “FundRazr”) to make it easy for users (you) to raise money through their social network for causes they support and care about. You have control of your information and decide what you want to share with everyone. This includes contact and personal information and details of your FundRazr. You control the sharing of that information by using the Campaigns tab on the application and your Facebook privacy settings.
+ConnectionPoint Systems Inc. (hereafter referred to as “CPSI” or the “Company”), provides its services (the “Service” or the “Application”) to make it easy for users (you) to raise money through their social networks for causes or projects they support and care about (the “Campaigns”). You have control of your information and decide what you want to share with everyone. This includes contact and personal information and details of your Campaigns. You control the sharing of that information by using the Campaigns tab on the Application and your Facebook, LinkedIn, Twitter, Pinterest or Google+ (the “Social Networks”) privacy settings.
 
-This Privacy Policy is designed to help you understand what information you may provide, how we use and share the information and how we will not use or share information, and your choices when using FundRazr, located at www.fundrazr.com and apps.facebook.com/fundrazr, (the “Application”). We will not use or share your information with anyone, except as described in this Privacy Policy.
+CPSI contracts with a select group of Business Partners to operate crowdfunding systems for them under their own brands. You may use the Service using one of the branded versions associated with our Business Partners. Our Business Partners agree to abide by our Terms of Service and Privacy Policy. Regardless of which branded version of the Service you use, these same terms apply to you.
+
+This Privacy Policy is designed to help you understand what information you may provide, how we use and share the information and how we will not use or share information, and your choices when using the “Application”.
+
+We believe that you should have control over your information including how it is shared with others. We will not use or share your information with anyone, except as described in this Privacy Policy.
 
 If you have questions about the Privacy Policy or would like to suggest improvements, please contact us at [privacy@connectionpoint.ca](mailto:privacy@connectionpoint.ca?Subject=Privacy%20Policy) or Privacy Department, ConnectionPoint Systems Inc, 200 – 171 Water St, Vancouver, BC, Canada, V6B 1A7.
-
-We believe that you should have control over your information including how it is shared with others.
 
 ##### Information You Provide
 
@@ -18,47 +20,55 @@ While using the Application, you may provide us with anonymous information, pers
 
 You provide us with anonymous information such as your IP address, areas of the Application you have visited, time and date, and whether or not you clicked on links. We use technologies such as cookies to collect this information. A cookie is a piece of data stored on a user’s computer. We use session ID cookies to confirm that users are logged in. Session cookies terminate once the user closes the browser. We also use persistent cookies that store other information to make it easier for you to login when you come back to the Application. You can configure your browser to block cookies; however, if you do, the Application may not function properly. If you choose to click on a link to any outside website, anonymous information may be provided to that website.
 
-You provide us personal information if you register at the Application.
+You provide us personal information if you register in the Application.
 
-You may also post information, opinions, text, sounds, photographs, audio, video, images, graphics, and other content or materials of any nature (collectively, “Materials”) to the Application. You have control of who sees this Material on Facebook through your use of the privacy setting available in your Facebook account and the Promote features of the Application. 
+You may also post information, opinions, text, sounds, photographs, audio, video, images, graphics, and other content or materials of any nature (collectively, “Materials”) to the Application. You have control of who sees this Material on Social Networks through your use of the privacy setting available in your Social Network accounts and the Promote features of the Application. 
 
 ##### Use of the Information We Collect
 
-You are in control of sharing personal information that you provide to the Application, including by using the privacy settings of Facebook. If you choose to post Materials directly to public portions of the Application, obviously those Materials become publicly available and can be viewed by other users and anyone with the URL to your campaign, and may also show up in search engine results.
+You are in control of sharing personal information that you provide to the Application, including by using the privacy settings of the Social Networks. If you choose to post Materials directly to public portions of the Application, including but not limited to the Summary, the Story, Story Updates , Comments, etc. obviously those Materials become publicly available and can be viewed by other users and anyone with the URL to your campaign, and may also show up in search engine results.
+
+CPSI may also use the publicly available information you provide to help promote your campaign on media websites such as television, radio, local or national newspapers, printed newspapers, blogs, forums and other electronic properties.
+
+CPSI will also share your information with Business Partners who have contracted with us to operate crowdfunding systems under their own brands. Your information will only be shared with the respective Business Partners who license the brands you use to access the Service.
+
+Your personally identifiable information will not be sold to or shared with advertisers or spammers.
+
+If you provide your email address at the Application, we may use your email address to contact you and notify you of any Application news. Generally, you cannot opt-out of receiving certain communications such as service-related announcements and administrative messages, except by terminating your use of the Service.
 
 CPSI may use personal information you elect to provide to us in order to provide products and/or services to you and, if you elect, other users and for administration, maintenance and development of the Application.
 
-Your personally identifiable information will not be sold to advertisers or spammers.
-
-If you provide your email address at the Application, we may use your email address to contact you and notify you of any Application news. Generally, you cannot opt-out of receiving certain communications such as service-related announcements and administrative messages, except by terminating your FundRazr.
-
 CPSI may use anonymous information collected to improve the quality of the Application. This information may help us to diagnose problems, maintain security, and provide services users want. CPSI may determine user demographics, interests, and behavior and may share such anonymous information with others. For example, we may provide demographic or usage information to an organization so they may see how many users are located in a specific geographic area.
+
+##### Use of Intercom Services
+
+We use third-party analytics services to help understand your usage of our services. In particular, we provide a limited amount of your information (such as your email address and sign-up date) to Intercom, Inc. (“Intercom”) and utilize Intercom to collect data for analytics purposes when you visit our website or use our product. Intercom analyzes your use of our website and/or product and tracks our relationship so that we can improve our service to you. We may also use Intercom as a medium for communications, either through email, or through messages within our product(s). As part of our service agreements, Intercom collects publicly available contact and social information related to you, such as your email address, gender, company, job title, photos, website URLs, social network handles and physical addresses, to enhance your user experience. For more information on the privacy practices of Intercom, please look [here](http://docs.intercom.io/privacy). Intercom’s services are governed by Intercom’s terms of use which can be found [here](http://docs.intercom.io/terms). If you would like to opt out of having this information collected by or submitted to Intercom, please contact us.
 
 ##### Sharing of Information
 
-We share your personally identifiable information in three cases: (1) with your permission, (2) as required by law, and (3) change of ownership, each as more fully described in the paragraphs below.
+We share your personally identifiable information in four cases: (1) with your permission, (2) with our payment providers in special circumstances (3) as required by law, and (4) change of ownership, each as more fully described in the paragraphs below.
 
 If you share your information with a third party, the third party’s use of that information will be governed by their privacy policy, not ours.
 
-From time to time CPSI will share information with PayPal to resolve client payment issues as well as to assist with the detection and prevention of fraud.
+From time to time CPSI will share information with PayPal or WePay (our “Payment Providers”) to resolve client payment issues as well as to assist with the detection and prevention of fraud.
 
-We may be required to disclose user information pursuant to lawful requests, such as subpoenas or court orders, or in compliance with applicable laws. We do not reveal information until we have a good faith belief that an information request by law enforcement or private litigants meets applicable legal standards. Additionally, we may share information when we believe it is necessary to comply with law, to protect our interests or property, to prevent fraud or other illegal activity perpetrated through the FundRazr service or using the FundRazr name, or to prevent imminent bodily harm. This may include sharing information with other companies, lawyers, agents or government agencies.
+We may be required to disclose user information pursuant to lawful requests, such as subpoenas or court orders, or in compliance with applicable laws. We do not reveal information until we have a good faith belief that an information request by law enforcement or private litigants meets applicable legal standards. Additionally, we may share information when we believe it is necessary to comply with law, to protect our interests or property, to prevent fraud or other illegal activity perpetrated through the Service or using the FundRazr or partner-owned brand names, or to prevent imminent bodily harm. This may include sharing information with other companies, lawyers, agents or government agencies.
 
 If the ownership of all or substantially all of CPSI’s business, or substantial portions of the business owned by CPSI, were to change, your information may be transferred to the new owner so the new owner can continue providing services to you. In any such case, your information would remain subject to the protections provided in our Privacy Policy.
 
-Please remember that anyone who has access to your Facebook username and password may be able to access your personal information; therefore, we encourage you to keep your password secret to prevent any unwanted access.
+Please remember that anyone who has access to your Social Network usernames and passwords may be able to access your personal information; therefore, we encourage you to keep your passwords secret to prevent any unwanted access.
 
 ##### Deletions / Corrections / Updates
 
-Prior to receiving a donation, you can delete your campaign on the Campaign tab of the Application. You can also edit your information to ensure that it is correct and up-to-date. You can revoke your permission for the Application to connect to your Facebook account at any time.
+Prior to receiving a donation, you can delete your campaign on the Campaign tab of the Application. You can also edit your information to ensure that it is correct and up-to-date. You can revoke your permission for the Application to connect to your Social Network accounts at any time.
 
 ##### Child Protection
 
-FundRazr is concerned about the safety and privacy of all its Users, particularly children. For this reason, and to be consistent with [PayPal’s User Agreement](https://www.paypal.com/ca/cgi-bin/webscr?cmd=p/gen/ua/ua-outside), to use this Application, you must meet or exceed the minimum age requirement to register for a PayPal account. CPSI does not knowingly collect or solicit information from anyone under the minimum age requirement.
+CPSI is concerned about the safety and privacy of all its Users, particularly children. For this reason, and to be consistent with the payment provider user agreements of [PayPal](https://www.paypal.com/ca/cgi-bin/webscr?cmd=p/gen/ua/ua-outside) and [WePay](https://www.wepay.com/legal/terms-of-service), to use this Application, you must meet or exceed the minimum age requirement to register for a PayPal or WePay account. CPSI does not knowingly collect or solicit information from anyone under the minimum age requirement.
 
 ##### Links to Other Websites
 
-The Application may contain links to other websites, including but not limited to nonprofits, PACs, and other organizations. CPSI is not responsible for the privacy practices or the content of other websites that may be linked to the Application.
+The Application may contain links to other websites, including but not limited to businesses, nonprofits, PACs, and other organizations. CPSI is not responsible for the privacy practices or the content of other websites that may be linked to the Application.
 
 ##### Agreement
 
