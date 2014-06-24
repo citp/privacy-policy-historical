@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newstatesman.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214021403id_/http%3A//www.newstatesman.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newstatesman.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624120308id_/http%3A//www.newstatesman.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# New Statesman | Privacy Policy
 
 This Privacy Policy governs the manner in which New Statesman collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://www.newstatesman.com](http://www.newstatesman.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by New Statesman.
 
@@ -52,25 +52,32 @@ New Statesman collects and uses Users personal information for the following pur
 
 The email address Users provide for order processing, will only be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
-  **How to switch off cookies**  
+**How to switch off cookies**  
 By changing your browser settings you can choose to no longer accept cookies for individual websites. Links to the revelant pages relating to the most popular browsers are listed below: 
 
-  [Google Chrome: 'Manage Cookies'](http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647)  
-[Mozilla Firefox: 'Google settings'](http://support.mozilla.org/en-US/kb/Cookies)  
-[Microsoft Internet Explorer: 'How to manage cookies'](http://windows.microsoft.com/en-US/windows7/How-to-manage-cookies-in-Internet-Explorer-9)  
-[Safari: 'Managing cookies'](http://docs.info.apple.com/article.html?path=Safari/3.0/en/9277.html)  
+[Google Chrome: 'Manage Cookies'](http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647)
+
+[Mozilla Firefox: 'Google settings'](http://support.mozilla.org/en-US/kb/Cookies)
+
+[Microsoft Internet Explorer: 'How to manage cookies'](http://windows.microsoft.com/en-US/windows7/How-to-manage-cookies-in-Internet-Explorer-9)
+
+[Safari: 'Managing cookies'](http://docs.info.apple.com/article.html?path=Safari/3.0/en/9277.html)
+
 [Opera: 'Security and Privacy'](http://www.opera.com/browser/tutorials/security/privacy/)
 
-  And here you will find instructions to help you change settings for mobile devices:
+And here you will find instructions to help you change settings for mobile devices:
 
-  [Android](http://support.google.com/mobile/bin/answer.py?hl=en&answer=169022)  
-[BlackBerry ](http://docs.blackberry.com/en/smartphone_users/deliverables/32004/Turn_off_cookies_in_the_browser_60_1072866_11.jsp)  
-[Safari](http://support.apple.com/kb/HT1677)  
+[Android](http://support.google.com/mobile/bin/answer.py?hl=en&answer=169022)
+
+[BlackBerry ](http://docs.blackberry.com/en/smartphone_users/deliverables/32004/Turn_off_cookies_in_the_browser_60_1072866_11.jsp)
+
+[Safari](http://support.apple.com/kb/HT1677)
+
 [Windows](http://www.microsoft.com/windowsphone/en-us/howto/wp7/web/changing-privacy-and-other-browser-settings.aspx)
 
-  Alternatively, if you wish to swich off **third party cookies** (usually from advertisers) visit [Your online choices](http://www.youronlinechoices.com/uk/). Google provides detailed information about its own advertising network, and how to edit preferences [here](http://www.google.com/policies/privacy/ads/). The cookies accompanying adverts may allow advertisers to monitor the effectiveness of the ads (eg by using statistical analysis cookies) and make the ads more relevant to you (eg if you use our sites from outside of the UK, you may get ads from your local country).
+Alternatively, if you wish to swich off **third party cookies** (usually from advertisers) visit [Your online choices](http://www.youronlinechoices.com/uk/). Google provides detailed information about its own advertising network, and how to edit preferences [here](http://www.google.com/policies/privacy/ads/). The cookies accompanying adverts may allow advertisers to monitor the effectiveness of the ads (eg by using statistical analysis cookies) and make the ads more relevant to you (eg if you use our sites from outside of the UK, you may get ads from your local country).
 
-  More information can be found at the [Network Advertising Initiative](http://www.networkadvertising.org/managing/opt_out.asp).
+More information can be found at the [Network Advertising Initiative](http://www.networkadvertising.org/managing/opt_out.asp).
 
 **How we protect your information**  
 We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
@@ -98,7 +105,7 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 **Contacting us**  
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 New Statesman  
-[http://www.newstatesman.com](http://www.newstatesman.com/ "http://www.newstatesman.com")  
+[http://www.newstatesman.com](http://www.newstatesman.com/)  
 New Statesman  
 7th Floor  
 John Carpenter House  
