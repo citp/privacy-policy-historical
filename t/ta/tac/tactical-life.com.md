@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the tactical-life.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220210337id_/http%3A//www.tactical-life.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tactical-life.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624142454id_/http%3A//www.tactical-life.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Tactical Life
-
-## Privacy Policy
+# Privacy Policy
 
 **Harris Publications believes that you should control the dissemination of the personally identifiable information that you provide when using the Tactical Life web site (“the Site”). Please review this policy carefully to understand how we will treat the personally identifiable information that you give to us and other information in connection with the Site. This policy applies only to the Site.**
 
