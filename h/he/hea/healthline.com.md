@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthline.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212124137id_/https%3A//www.healthline.com/health/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthline.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624232236id_/http%3A//www.healthline.com/health/privacy-policy) for the most accurate reproduction.*
 
 # Healthline's Privacy Policy
 
@@ -14,7 +14,7 @@ Currently, Healthline Networks, DoubleClick (Healthline's ad server and a divisi
 
 The entities collecting this anonymous information use it to improve the overall quality of the online experience, including product monitoring and improvement, and targeted advertising on and off Healthline.com.
 
-If you wish to opt-out of the use of anonymous data, you can opt-out of this practice in one of two ways: (1) you can disable cookies, although this may negatively affect your online experience as most sites require cookies for very basic browsing; (2) you can opt-out of data use with each individual partner through the Network Advertising Initiative gateway opt-out site<http://www.networkadvertising.org/optout_nonppii.asp>. At that site you can also review the privacy policies of those Ad Servers. For users wishing to prevent use of their information for targeted advertising, we recommend opting out of Google and Tacoda.
+If you wish to opt-out of the use of anonymous data, you can opt-out of this practice in one of two ways: (1) you can disable cookies, although this may negatively affect your online experience as most sites require cookies for very basic browsing; (2) you can opt-out of data use with each individual partner through the Network Advertising Initiative gateway opt-out site <http://www.networkadvertising.org/optout_nonppii.asp>. At that site you can also review the privacy policies of those Ad Servers. For users wishing to prevent use of their information for targeted advertising, we recommend opting out of Google and Tacoda.
 
 ### Use Of 'Cookies'
 
@@ -26,7 +26,7 @@ Some Healthline web pages use web beacons in conjunction with cookies to compile
 
 ### Third-party Media Companies
 
-We use third-party advertising companies and networks to serve ads. These third-party ad servers and network providers may use web beacons and cookies to help present, better target, and measure the effectiveness of their advertisements, using non-personally identifiable data (such as sites visited and browser type) gathered over time and across their networks of Web pages to determine or predict the characteristics and preferences of their audience. If you would like more information about this practice, as well as your choices about not having this information used for online behavioral advertising by these ad networks, click here:<http://networkadvertising.org/consumer/opt_out.asp>.
+We use third-party advertising companies and networks to serve ads. These third-party ad servers and network providers may use web beacons and cookies to help present, better target, and measure the effectiveness of their advertisements, using non-personally identifiable data (such as sites visited and browser type) gathered over time and across their networks of Web pages to determine or predict the characteristics and preferences of their audience. If you would like more information about this practice, as well as your choices about not having this information used for online behavioral advertising by these ad networks, click here: <http://networkadvertising.org/consumer/opt_out.asp>.
 
 Our sponsors and advertisers have agreed that they will not collect any personally identifiable information from our site visitors while they are on Healthline. If you click on an advertisement on Healthline and visit a site maintained by one of our sponsors or advertisers, please be aware that we are not responsible for the privacy practices of those sites. You should read the privacy policies of each site you visit to determine what information that site may be collecting about you.
 
