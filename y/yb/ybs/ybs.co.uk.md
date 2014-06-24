@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the ybs.co.uk privacy policy that was archived on 2013-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131115183656id_/http%3A//www.ybs.co.uk/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ybs.co.uk privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624160738id_/http%3A//www.ybs.co.uk/privacy/index.html) for the most accurate reproduction.*
 
-# Yorkshire Building Society
+# Privacy and Cookies - Yorkshire Building Society
 
-**Thank you** \- a link to this page has been sent to the email address provided.
+By using this site you are consenting to the use of cookies. [Find out more](https://web.archive.org/privacy/index.html "Privacy & Cookies") about cookies and why we use them.
 
-[x close]
+[x close] 
 
-[](https://web.archive.org/index.html "Yorkshire Building Society")
+[ ](https://web.archive.org/index.html "Yorkshire Building Society")
 
-  * [](https://web.archive.org/index.html "Home")
+  * [](https://web.archive.org/index.html "Homepage")
   * [Mortgages](https://web.archive.org/mortgages/index.html "Mortgages")
   * [Savings](https://web.archive.org/savings/index.html "Savings")
   * [Financial Advice](https://web.archive.org/financial-advice/index.html "Financial Advice")
@@ -17,11 +17,11 @@
 
 
 
-You are here: [Home](https://web.archive.org/ "Home") / Privacy and Cookies
+You are here: [Home](https://web.archive.org/index.html "Home") /  Privacy and Cookies
 
-### The privacy and security of your personal information is very important to us. We will not disclose it to anyone except with your consent or if the law, public duty or our legitimate interests require us to.
+###  The privacy and security of your personal information is very important to us. We will not disclose it to anyone except with your consent or if the law, public duty or our legitimate interests require us to. 
 
-## How we use your personal information
+##  How we use your personal information 
 
 When you register an enquiry or complete an application you will be agreeing to the use of your personal information.
 
@@ -50,37 +50,36 @@ You should note that ordinary email is not secure. Please do not send us any con
 
 
 
-  5. #### Site monitoring
+  5. ####  Site monitoring
 
-We use technical methods (called "cookies") to identify what stage in an application process you are at, improve your experience by making it quicker and easier for you to use the site, identify how effective our advertising is and provide you with information in the future we believe is relevant to you. No personal information is captured unless you proceed with an application at which point details of where your enquiry originated will be linked to your customer record. You can block or delete cookies from this site in your browser settings. To find out how to delete cookies visit [www.aboutcookies.org](http://www.aboutcookies.org/). By doing this your experience may be affected and parts of this site may not work. By continuing with an enquiry/application you will be consenting to the use of cookies as explained.
-  6. #### Communicating with others
+We use technical methods (called "cookies") to identify what stage in an application process you are at, improve your experience by making it quicker and easier for you to use the site, identify how effective our advertising is and provide you with information in the future we believe is relevant to you. No personal information is captured unless you proceed with an application at which point details of where your enquiry originated will be linked to your customer record. You can block or delete cookies from this site in your browser settings. To find out how to delete cookies visit [www.aboutcookies.org.](http://www.aboutcookies.org/) By doing this your experience may be affected and parts of this site may not work. By continuing with an enquiry/application you will be consenting to the use of cookies as explained.
+  6. ####  Communicating with others
 
 All communications with us may be monitored/recorded to improve the quality of our service, staff training and for your protection and security.
-  7. #### Links to other sites
+  7. ####  Links to other sites
 
 This Privacy Policy only covers you while you are on our site. Once you click on a link to another website, the Policy no longer applies.
-  8. #### [Applying for a job](http://www.ybs.jobs/apply/personal-information.html)
+  8. [Applying for a job](http://www.ybs.jobs/apply/personal-information.html)
 
 
 
+For full details see our leaflet [How we use your personal information](https://web.archive.org/pdf/privacy/how-we-use-your-personal-info.pdf) (81 KB) that also provides detailed information about Business Relationships, Sources and sensitive information.
 
-For full details see our leaflet [How we use your personal information](https://web.archive.org/pdf/privacy/how-we-use-your-personal-info.pdf), which also provides detailed information about Business Relationships, Sources and sensitive information.
+To view some of the document you will need to have Adobe Acrobat reader installed. If you have not already got this and would like to download it, visit the [Adobe web site.](http://www.adobe.com/)
 
-To view some of the document you will need to have Adobe Acrobat reader installed. If you have not already got this and would like to down load it, visit the [Adobe web site](http://www.adobe.com/).
-
-## Data Protection Act - Your Rights
+##  Data Protection Act - Your Rights 
 
 You have the right to have any inaccuracies corrected, to object to direct marketing at any time and a right of access to your personal records held by us, subject to the payment of a fee.
 
-Complete a [Subject Access Request Form](https://web.archive.org/pdf/privacy/request-for-information.pdf)
+Complete a [Submit Access Request Form](https://web.archive.org/pdf/privacy/request-for-information.pdf) (96 KB)
 
-### Full details of your rights and the Data Protection Act
+###  Full details of your rights and the Data Protection Act
 
-Our leaflet [Your rights and the Data Protection Act](https://web.archive.org/pdf/privacy/your-rights-and-data-protection.pdf) has full details about all your rights under the Data Protection Act and how to invoke them. It also includes information about our legal obligations to you, and the Credit Reference and Fraud Prevention Agencies we use along with other useful information.
+Our leaflet [Your rights and the Data Protection Act](https://web.archive.org/pdf/privacy/your-rights-and-data-protection.pdf) (71 KB) has full details about all your rights under the Data Protection Act and how to invoke them. It also includes information about our legal obligations to you, and the Credit Reference and Fraud Prevention Agencies we use along with other useful information.
 
-To view the document you will need to have Adobe Acrobat reader installed. If you have not already got this and would like to download it, visit the [Adobe web site](http://www.adobe.com/).
+To view the document you will need to have Adobe Acrobat reader installed. If you have not already got this and would like to download it, visit the [Adobe web site.](http://www.adobe.com/)
 
-## Cookies - Site monitoring
+##  Cookies - Site monitoring 
 
 We use technical methods (called "cookies") on this website. A cookie is a small file of letters and numbers that allows us to:
 
@@ -96,18 +95,18 @@ No personal information is captured unless you proceed with an application at wh
 
 If you have come to this site by clicking on a Yorkshire Building Society advertisement on another website you may have had a cookie placed on your PC either by Yorkshire Building Society or the website provider. This allows us and/or them to analyse the effectiveness of our online advertising. See **Managing / Blocking cookies** for information about deleting these cookies.
 
-#### Important Information
+####  Important Information
 
   * By using our website, including making an enquiry/application or logging in, you are consenting to the use of cookies as explained above.
-  * For more information about cookies visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+  * For more information about cookies visit [www.allaboutcookies.org.](http://www.allaboutcookies.org/)
 
 
 
-### Managing/Blocking cookies
+###  Managing/Blocking cookies
 
 You can manage cookies from this site, including blocking or deleting them, by changing the settings in the browser you use, e.g. Internet Explorer, Mozilla Firefox, Google Chrome, etc.
 
-Find out how you can do this by visiting <http://www.allaboutcookies.org/manage-cookies/>.
+Find out how you can do this by visiting [www.allaboutcookies.org/manage-cookies/.](http://www.allaboutcookies.org/manage-cookies/)
 
 #### Please note
 
@@ -115,10 +114,10 @@ Find out how you can do this by visiting <http://www.allaboutcookies.org/manage-
 
 
 
-## Queries
+##  Queries 
 
-[Contact us](https://web.archive.org/contact-us/index.html) if you have any queries about the privacy of this site. 
+[Contact us](https://web.archive.org/contact-us/index.html "Contact us") if you have any queries about the privacy of this site. 
 
-### Or, write to us
+###  Or, write to us
 
-**Service Quality Department** Yorkshire Building Society Yorkshire House Yorkshire Drive Bradford West Yorkshire BD5 8LJ
+**Customer Relations Department** Yorkshire Building Society Yorkshire House Yorkshire Drive Bradford West Yorkshire BD5 8LJ
