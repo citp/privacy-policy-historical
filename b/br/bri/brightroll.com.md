@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brightroll.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229023104id_/http%3A//www.brightroll.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightroll.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624040245id_/http%3A//www.brightroll.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | BrightRoll
 
@@ -25,6 +25,8 @@ This policy covers the following areas in detail:
 [**Cookies & Tracking Pixels**](http://www.brightroll.com/privacy/#cookies)
 
 [**Opt-out**](http://www.brightroll.com/privacy/#optout)
+
+[**Mobile Opt-out**](http://www.brightroll.com/privacy/#mobileoptout)
 
 [**Third-Party Data Collection**](http://www.brightroll.com/privacy/#3rdparty)
 
@@ -76,7 +78,13 @@ On our wholly owned websites we do not ask for personally identifiable informati
 
 The BrightRoll cookie does not harm your computer in any way or provide us with any information about your identity. The BrightRoll cookie is not spyware or adware. The general definition of spyware/adware is that of a software package installed on your computer for purposes of monitoring all your Internet or general computer activity. We do not install software of any kind on your computer and have no ability to monitor or track your general computer or overall Internet usage. Cookies can be easily avoided by opting out from them or by adjusting your browser settings. Cookies traditionally expire after 30 days, while data collected for advertising purposes is kept for no longer than 2 years.
 
-**Opt-Out.** You can also opt-out of the collection of data through cookies by following the instructions in the “Choice” section of this Policy below.
+**Opt-Out.  **You can also opt-out of the collection of data through cookies by following the instructions in the “Choice” section of this Policy below.
+
+**Mobile Opt-out.**  BrightRoll has partnered with TRUSTe to provide an industry leading, in app Opt-out for interest based ads. To Opt-out of BrightRoll’s interest based advertising, download the appropriate TRUSTe Ad Privacy Manager application for your device’s operating system below and opt-out of your desired ad provider:
+
+[Android Ad Privacy Manager](https://play.google.com/store/apps/details?id=com.truste.mobile.consumer)
+
+[iOS Ad Privacy Manager](https://itunes.apple.com/us/app/ad-privacy-manager/id551047372?mt=8)
 
 **Tracking Pixels.**  We also collect non-personally identifiable information through the use of tracking pixels. A tracking pixel is a transparent graphic image (usually 1 pixel x 1 pixel) that is placed on a web page and, in combination with a cookie, allows for the collection of information regarding the use of the web page that contains the tracking pixel. We use tracking pixels to tell when an advertisement has been clicked on or otherwise interacted with, and use that information to judge which advertisements are more appealing to users. In some cases, we use third-party service providers to help us collect and analyze this information.
 
