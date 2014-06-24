@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funofart.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231234922id_/http%3A//www.funofart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funofart.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624041458id_/http%3A//www.funofart.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Best Photography Site
 
