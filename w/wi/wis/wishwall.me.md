@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wishwall.me privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218021951id_/http%3A//www.wish.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wishwall.me privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625002055id_/https%3A//www.wish.com/privacy_policy) for the most accurate reproduction.*
 
 # Wish | Privacy Policy
 
@@ -61,6 +61,8 @@ In Other Circumstances: We may provide Personal Information to non-ContextLogic 
   * Enforcing our agreements and property rights. 
 
 
+
+Additionally, when you complete a purchase with ContextLogic’s Wish service, we share your submitted shipping address and phone number for shipping purposes only. This information is shared with the entities fulfilling and shipping your order, such as the merchant and the shipping provider. 
 
 Anonymous & Aggregate Information 
 
