@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the comscore.com privacy policy that was archived on 2013-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131204013820id_/http%3A//www.comscore.com/About_comScore/Privacy_Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the comscore.com privacy policy that was archived on 2014-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140624032202id_/http%3A//www.comscore.com/About_comScore/Privacy_Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
         
@@ -29,7 +29,10 @@
 	
 	
 		
-		
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+            
+	<meta name="viewport" content="initial-scale=1">
+    
 	
 	<meta property="og:title" content="Privacy Policy">
     <meta property="og:description" content="This Privacy Statement describes comScore’s privacy-related policies and practices as they relate to the collection and use of information gathered from visitors to comscore.com.">
@@ -39,14 +42,25 @@
 	<meta property="fb:app_id" content="368907079829413">
 
 	<link rel="Shortcut icon" href="/extension/comscore/design/site/images/favicon.ico" type="image/x-icon">
+	<link rel="apple-touch-icon" href="/extension/comscore/design/site/images/apple-touch-icon.png">
 
 
 
-<link rel="stylesheet" type="text/css" href="/var/comscore/cache/public/stylesheets/f678d367d44328402ca89dd991b4fc57_all.css">
 
+<link rel="stylesheet" type="text/css" href="/extension/comscore/design/site/stylesheets/global_base.css">
+<link rel="stylesheet" type="text/css" href="/extension/comscore/design/site/stylesheets/screen_base.css">
+<link rel="stylesheet" type="text/css" href="/extension/comscore/design/site/stylesheets/screen_content.css">
+<link rel="stylesheet" type="text/css" href="/extension/comscore/design/site/stylesheets/960.css">
+<link rel="stylesheet" type="text/css" href="/extension/comscore/design/site/stylesheets/megamenu.css">
+<link rel="stylesheet" type="text/css" href="/extension/comscore/design/site/stylesheets/jquery-ui-1.8.21.custom.css">
+<link rel="stylesheet" type="text/css" href="/extension/comscore/design/site/stylesheets/prettyPhoto.css">
+<link rel="stylesheet" type="text/css" href="/extension/comscore/design/site/stylesheets/ezfind.css">
+<link rel="stylesheet" type="text/css" href="/extension/comscore/design/site/stylesheets/mq.css">
+
+<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Lobster">
 
 <!--[if lte IE 6]><link rel="stylesheet" type="text/css" href="/extension/comscore/design/site/stylesheets/screen_ie6.css" media="screen" /><![endif]-->
-<!--[if IE 7]><link rel="stylesheet" type="text/css" href="/extension/comscore/design/site/stylesheets/screen_ie7.css" media="screen" /><![endif]-->
+<!--[if lte IE 7]><link rel="stylesheet" type="text/css" href="/extension/comscore/design/site/stylesheets/screen_ie7.css" media="screen" /><![endif]-->
 <!--[if IE 8]><link rel="stylesheet" type="text/css" href="/extension/comscore/design/site/stylesheets/screen_ie8.css" media="screen" /><![endif]-->
 
 
@@ -58,7 +72,141 @@
 
 
 
-<script type="text/javascript" async="" src="//img03.en25.com/i/elqCfg.min.js"></script><script type="text/javascript" src="/var/comscore/cache/public/javascript/8ec30c0276945566a132468ff150513a.js" charset="utf-8"></script>
+
+<script type="text/javascript" async="" src="//img03.en25.com/i/elqCfg.min.js"></script><script type="text/javascript" src="/extension/comscore/design/site/javascript/jquery-1.7.1.min.js" charset="utf-8"></script>
+<script type="text/javascript">
+//<![CDATA[
+
+(function($) {
+    var _rootUrl = '/', _serverUrl = _rootUrl + 'ezjscore/', _seperator = '@SEPERATOR$',
+        _prefUrl = _rootUrl + 'user/preferences';
+
+// FIX: Ajax is broken on IE8 / IE7 on jQuery 1.4.x as it's trying to use the broken window.XMLHttpRequest object
+if ( window.XMLHttpRequest && window.ActiveXObject )
+    $.ajaxSettings.xhr = function() { try { return new window.ActiveXObject('Microsoft.XMLHTTP'); } catch(e) {} };
+
+    // (static) jQuery.ez() uses jQuery.post() (Or jQuery.get() if post paramer is false)
+    //
+    // @param string callArgs
+    // @param object|array|string|false post Optional post values, uses get request if false or undefined
+    // @param function Optional callBack
+    function _ez( callArgs, post, callBack )
+    {
+        callArgs = callArgs.join !== undefined ? callArgs.join( _seperator ) : callArgs;
+        var url = _serverUrl + 'call/';
+        if ( post )
+        {
+            var _token = '', _tokenNode = document.getElementById('ezxform_token_js');
+            if ( _tokenNode ) _token = _tokenNode.getAttribute('title');
+            if ( post.join !== undefined )// support serializeArray() format
+            {
+                post.push( { 'name': 'ezjscServer_function_arguments', 'value': callArgs } );
+                post.push( { 'name': 'ezxform_token', 'value': _token } );
+            }
+            else if ( typeof(post) === 'string' )// string
+            {
+                post += ( post ? '&' : '' ) + 'ezjscServer_function_arguments=' + callArgs + '&ezxform_token=' + _token;
+            }
+            else // object
+            {
+                post['ezjscServer_function_arguments'] = callArgs;
+                post['ezxform_token'] = _token;
+            }
+            return $.post( url, post, callBack, 'json' );
+        }
+        return $.get( url + encodeURIComponent( callArgs ), {}, callBack, 'json' );
+    };
+    _ez.url = _serverUrl;
+    _ez.root_url = _rootUrl;
+    _ez.seperator = _seperator;
+    $.ez = _ez;
+
+    $.ez.setPreference = function( name, value )
+    {
+        var param = {'Function': 'set_and_exit', 'Key': name, 'Value': value};
+            _tokenNode = document.getElementById( 'ezxform_token_js' );
+        if ( _tokenNode )
+            param.ezxform_token = _tokenNode.getAttribute( 'title' );
+
+        return $.post( _prefUrl, param );
+    };
+
+    // Method version, for loading response into elements
+    // NB: Does not use json (not possible with .load), so ezjscore/call will return string
+    function _ezLoad( callArgs, post, selector, callBack )
+    {
+        callArgs = callArgs.join !== undefined ? callArgs.join( _seperator ) : callArgs;
+        var url = _serverUrl + 'call/';
+        if ( post )
+        {
+            post['ezjscServer_function_arguments'] = callArgs;
+            post['ezxform_token'] = jQuery('#ezxformtoken').attr('title');
+        }
+        else
+            url += encodeURIComponent( callArgs );
+
+        return this.load( url + ( selector ? ' ' + selector : '' ), post, callBack );
+    };
+    $.fn.ez = _ezLoad;
+})(jQuery);
+        
+//]]>
+</script>
+<script type="text/javascript" src="/extension/comscore/design/site/javascript/jquery-easing-1.3.js" charset="utf-8"></script>
+<script type="text/javascript" src="/extension/comscore/design/site/javascript/jquery-transit-modified.js" charset="utf-8"></script>
+<script type="text/javascript" src="/extension/comscore/design/site/javascript/jquery-ui-1.8.21.custom.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="/extension/comscore/design/site/javascript/search.js" charset="utf-8"></script>
+<script type="text/javascript" src="/extension/comscore/design/site/javascript/jquery.doubletaptogo.js" charset="utf-8"></script>
+<script type="text/javascript" src="/extension/comscore/design/site/javascript/jquery.prettyPhoto.js" charset="utf-8"></script>
+<script type="text/javascript" src="/extension/comscore/design/site/javascript/jquery.validate.js" charset="utf-8"></script>
+<script type="text/javascript" src="/extension/comscore/design/site/javascript/additional-methods.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="/extension/comscore/design/site/javascript/jquery.progresspro.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="/extension/comscore/design/site/javascript/dax.js" charset="utf-8"></script>
+<script type="text/javascript" src="/extension/comscore/design/site/javascript/dax_forms.js" charset="utf-8"></script>
+<script type="text/javascript" src="/extension/comscore/design/site/javascript/dax_softclick.js" charset="utf-8"></script>
+<script type="text/javascript" src="/extension/comscore/design/site/javascript/megamenu_plugins.js" charset="utf-8"></script>
+<script type="text/javascript" src="/extension/comscore/design/site/javascript/megamenu.js" charset="utf-8"></script>
+<script type="text/javascript" src="/extension/comscore/design/site/javascript/jquery.cycle.core.js" charset="utf-8"></script>
+<script type="text/javascript" src="/extension/comscore/design/site/javascript/base.js" charset="utf-8"></script>
+
+
+
+<script type="text/javascript">
+    var _elqQ = _elqQ || [];
+    _elqQ.push(['elqSetSiteId', '118899503']);
+    _elqQ.push(['elqTrackPageView']);
+    
+    (function () {
+        function async_load() {
+            var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true;
+            s.src = '//img03.en25.com/i/elqCfg.min.js';
+            var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+        }
+        if (window.addEventListener) window.addEventListener('DOMContentLoaded', async_load, false);
+        else if (window.attachEvent) window.attachEvent('onload', async_load); 
+    })();
+</script>
+
+
+<script type="text/javascript">
+<!--//
+function SetElqContent(){ 
+	/* WRITE LEAD SOURCE */
+	var patt1 = /^[-_a-zA-Z0-9]+$/;
+	if(getUrlVars()['ns_mchannel'])
+		{
+			var chan = getUrlVars()['ns_mchannel'].match(patt1);
+			if (chan != null && this.GetElqContentPersonalizationValue && GetElqContentPersonalizationValue('V_ElqEmailAddress')!=""){
+			  	var email = GetElqContentPersonalizationValue('V_ElqEmailAddress');
+				var xhr = new XMLHttpRequest();
+				xhr.open("POST", "http://s118899503.t.eloqua.com/e/f2.aspx?elqFormName=master_blind_submit&elqSiteID=118899503&C_EmailAddress="+email+"&ls="+chan+"", true);
+				xhr.send();			  
+		  	}
+		}
+	}
+_elqQ.push(['elqDataLookup', escape('c2f8212331474576a25d168667165d12'),'']);
+//-->
+</script>	
 
 
 			
@@ -66,6 +214,10 @@
 <script type="text/javascript">
 
 $(document).ready(function(){
+
+	/* DOUBLE TAP FOR DROP DOWNN MENU AND LANGUAGE NAVIGATION ON MOBILE */
+	$('div.megamenu_container li:has(div)').doubleTapToGo();
+	$('ul.sf-menu li:has(ul)').doubleTapToGo();
 
 	/* SOCIAL FOOTER */
     $('.footersocial').click(function(){
@@ -164,8 +316,10 @@ function iopen(){open($("#fullResImage").attr("src"));
 }
 </script>
 <script type="text/javascript" src="//cdn.optimizely.com/js/211622515.js"></script>
-<script type="text/javascript">var addthis_config = {data_track_clickback:true, data_use_cookies:false, services_compact:'twitter,linkedin,facebook,google_plusone_share,pinterest_share', services_overlay:'twitter,linkedin,facebook,google_plusone_share,pinterest'}; var addthis_share = {url_transforms : {shorten: {twitter: 'bitly'},},shorteners : {bitly : { username: '@comScore',apiKey: 'R_bef06684dc3df4a0741c70378550520a'}}}</script>
+<script type="text/javascript">var addthis_config = {data_track_clickback:true, data_use_cookies:false, services_compact:'twitter,linkedin,facebook,google_plusone_share,pinterest_share', services_overlay:'twitter,linkedin,facebook,google_plusone_share,pinterest_share'}; var addthis_share = {url_transforms : {shorten: {twitter: 'bitly'},},shorteners : {bitly : { username: '@comScore',apiKey: 'R_68a8074b45864dc99ebee23712d5cd06'}}}</script>
 <script type="text/javascript" src="https://s7.addthis.com/js/300/addthis_widget.js#pubid=comscore"></script>
+<script type="text/javascript" src="//use.typekit.net/wsw5qbu.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 
 
 
@@ -174,7 +328,7 @@ function iopen(){open($("#fullResImage").attr("src"));
 </head>
 							
 <body class="about">
-
+<div id="contactinfo"></div>
 
 <div id="outer_wrap" class="home">
 <div class="pageBounds">
@@ -191,7 +345,7 @@ function iopen(){open($("#fullResImage").attr("src"));
     <div id="mastHead" class="cfx">
 
     <div id="logo">
-            <h1><a href="/" title="comScore, Inc"><img src="/var/comscore/storage/images/design/comscore_inc/172-106-eng-US/comScore_Inc.png" alt="comScore, Inc." width="200" height="35"></a></h1>
+            <h1><a href="/" title="comScore, Inc"><img src="/var/comscore/storage/images/design/comscore_inc/172-106-eng-US/comScore_Inc.png" alt="comScore, Inc."></a></h1>
     	      
     </div>
 
@@ -300,7 +454,7 @@ function iopen(){open($("#fullResImage").attr("src"));
 					
 								
 									
-											<li><a href="/ger/Ueber_Uns/Privacy_Policy" title="Deutsch">Deutsch</a></li>
+											<li><a href="/ger/Ueber_Uns/Datenschutzerklaerung" title="Deutsch">Deutsch</a></li>
 									
 																															
 																			
@@ -324,7 +478,7 @@ function iopen(){open($("#fullResImage").attr("src"));
 					
 								
 									
-											<li><a href="/fre/A_propos_de_comScore/Privacy_Policy" title="Français">Français</a></li>
+											<li><a href="/fre/A_propos_de_comScore/Declaration_de_confidentialite" title="Français">Français</a></li>
 									
 																															
 																			
@@ -378,153 +532,52 @@ function iopen(){open($("#fullResImage").attr("src"));
 
 
 
+<script>
+$(document).ready(function($){
+	$('.megamenu').megaMenuCompleteSet({
+		menu_speed_show : 200, // Time (in milliseconds) to show a drop down
+		menu_speed_hide : 100, // Time (in milliseconds) to hide a drop down
+		menu_speed_delay : 100, // Time (in milliseconds) before showing a drop down
+		menu_effect : 'hover_fade', // Drop down effect, choose between 'hover_fade', 'hover_slide', etc.
+		menu_click_outside : 1, // Clicks outside the drop down close it (1 = true, 0 = false)
+		menu_show_onload : 1, // Drop down to show on page load (type the number of the drop down, 0 for none)
+        menu_responsive:1 // 1 = Responsive, 0 = Not responsive
+	});
+});
+</script>
+
+
     
 				
                 			
 	
 
-    <div id="mNav" class="cfx">
-      <h2>Main Site Navigation</h2>
-      <div class="bounds">
-        <ul class="sf-menu">
+
+    <div class="megamenu_container megamenu_dark_bar megamenu_light"><!-- BEGIN MENU WRAPPER -->
+  
+      
+        
+      
+        <ul class="megamenu">
+	        <li class="megamenu_button" style="display: none;"><a href="#_"><em></em><em></em><em></em><em></em></a></li>
 
             
             
                                                 
                                                     
                                                             
-                <li id="mDigital_Role">
- 
-                      <a href="/About_You" title="About You" class="main">About You</a>
-
-                      
-                      
-                        						
-                        
-													<ul>
-												
-                        
-                                                                                        
-                                                                                        
-                            
-                            
-                                
-                                
-                                
-                                                                
-
-                                
-                                
-                                
-                                                                                                    
-
-																	<li class="">
-								
-                                
-                                    
-                                    <a class="" href="/About_You/Agency" title="Agency">Agency</a>
-
-																			</li>
-									
-                                    
-                                                                        
-                            
-                                                    
-                                                                                        
-                            
-                            
-                            
-                                
-                                
-                                
-                                                                
-
-                                
-                                
-                                
-                                                                                                    
-
-																	<li class="">
-								
-                                
-                                    
-                                    <a class="" href="/About_You/Enterprise" title="Enterprise">Enterprise</a>
-
-																			</li>
-									
-                                    
-                                                                        
-                            
-                                                    
-                                                                                        
-                                                                                        
-                            
-                            
-                                
-                                
-                                
-                                                                
-
-                                
-                                
-                                
-                                                                                                    
-
-																	<li class="">
-								
-                                
-                                    
-                                    <a class="" href="/About_You/Publisher" title="Publisher">Publisher</a>
-
-																			</li>
-									
-                                    
-                                                                        
-                            
-                                                    
-                                                                                        
-                                                                                        
-                            
-                            
-                                
-                                
-                                
-                                                                
-
-                                
-                                
-                                
-                                                                                                    
-
-																	<li class="">
-								
-                                
-                                    
-                                    <a class="" href="/About_You/Network_Operator" title="Network Operator">Network Operator</a>
-
-																			</li>
-									
-                                    
-                                                                        
-                            
-                                                    						
-													</ul>
-						                        
-					                </li>
-
-            
-                                                
+				<li id="mProducts">
                 
-                                                            
-                <li id="mProducts">
  
-                      <a href="/Products" title="Products" class="main">Products</a>
+                      <a href="/Products" title="Products" class="megamenu_drop">Products</a>
 
                       
                       
                         						
                         
-													<ul class="multilevel"><li><div id="sProducts">
+													<div class="dropdown_9columns dropdown_container dropdown_first" style="left: auto; top: auto; display: none;"><!-- Begin columns container -->
+                            	 <!-- container to set the product listing apart from the index -->
+                            
 												
                         
                                                                                         
@@ -534,7 +587,6 @@ function iopen(){open($("#fullResImage").attr("src"));
                                 
                                 
                                 
-                                                                
 
                                 
                                 																										
@@ -546,15 +598,19 @@ function iopen(){open($("#fullResImage").attr("src"));
                                     
                                 
 
-																	<div class="pillar_index">
+									                                <div class="col_4">
+                                    <h3>
+									
 								
                                 
                                     
                                     <a class="sf-with-ul " href="/Products/Audience_Analytics" title="Audience Analytics ">Audience Analytics <span class="sf-sub-indicator"></span></a>
 
-																		
+									                                    	</h3>
+									
                                     
-                                    
+                                    										
+                                    	<ul class="greybox">
 											                                        											
                                                                                     											
 												
@@ -562,7 +618,7 @@ function iopen(){open($("#fullResImage").attr("src"));
                                                                                                                                                     
                                                 
                                                 
-																									<a href="/Products/Audience_Analytics/Media_Metrix_Multi-Platform" title="Media Metrix Multi-Platform">Media Metrix Multi-Platform</a>
+																									<li><a href="/Products/Audience_Analytics/Media_Metrix_Multi-Platform" title="Media Metrix Multi-Platform">Media Metrix Multi-Platform</a></li>
                                                 																									
                                                                                     											
 												
@@ -570,7 +626,7 @@ function iopen(){open($("#fullResImage").attr("src"));
                                                                                                                                                     
                                                 
                                                 
-																									<a href="/Products/Audience_Analytics/Media_Metrix" title="Media Metrix">Media Metrix</a>
+																									<li><a href="/Products/Audience_Analytics/Media_Metrix" title="Media Metrix">Media Metrix</a></li>
                                                 																									
                                                                                     											
 												
@@ -578,7 +634,7 @@ function iopen(){open($("#fullResImage").attr("src"));
                                                                                                                                                     
                                                 
                                                 
-																									<a href="/Products/Audience_Analytics/Video_Metrix" title="Video Metrix">Video Metrix</a>
+																									<li><a href="/Products/Audience_Analytics/Video_Metrix" title="Video Metrix">Video Metrix</a></li>
                                                 																									
                                                                                     											
 												
@@ -586,7 +642,7 @@ function iopen(){open($("#fullResImage").attr("src"));
                                                                                                                                                     
                                                 
                                                 
-																									<a href="/Products/Audience_Analytics/Mobile_Metrix" title="Mobile Metrix">Mobile Metrix</a>
+																									<li><a href="/Products/Audience_Analytics/Mobile_Metrix" title="Mobile Metrix">Mobile Metrix</a></li>
                                                 																									
                                                                                     											
 												
@@ -594,7 +650,7 @@ function iopen(){open($("#fullResImage").attr("src"));
                                                                                                                                                     
                                                 
                                                 
-																									<a href="/Products/Audience_Analytics/Ad_Metrix" title="Ad Metrix">Ad Metrix</a>
+																									<li><a href="/Products/Audience_Analytics/Ad_Metrix" title="Ad Metrix">Ad Metrix</a></li>
                                                 																									
                                                                                     	
                                                                                     	
@@ -615,11 +671,15 @@ function iopen(){open($("#fullResImage").attr("src"));
 																																													
 	
 													
-																																									
-													<a href="/Products/Audience_Analytics/Product_Index" title="More Audience Analytics Products">More Audience Analytics Products</a>
-	
+																																																					
+													<li class="t3">
+                                                    	<a href="/Products/Audience_Analytics/Product_Index" title="More Audience Analytics Products">More Audience Analytics Products</a>
+                                                    </li>
+
 																						
-                                        </div>
+                                        
+                                            </ul> </div> <!--col_4 responsive_thirds --> 
+                                                                       
 										
                                                                         
                             
@@ -631,7 +691,6 @@ function iopen(){open($("#fullResImage").attr("src"));
                                 
                                 
                                 
-                                                                
 
                                 
                                 																										
@@ -645,15 +704,19 @@ function iopen(){open($("#fullResImage").attr("src"));
                                     
                                 
 
-																	<div class="pillar_index">
+									                                <div class="col_4">
+                                    <h3>
+									
 								
                                 
                                     
                                     <a class="sf-with-ul " href="/Products/Advertising_Analytics" title="Advertising Analytics">Advertising Analytics<span class="sf-sub-indicator"></span></a>
 
-																		
+									                                    	</h3>
+									
                                     
-                                    
+                                    										
+                                    	<ul class="greybox">
 																																
                                                                                     											
 												
@@ -661,7 +724,7 @@ function iopen(){open($("#fullResImage").attr("src"));
                                                                                                                                                     
                                                 
                                                 
-																									<a href="/Products/Advertising_Analytics/validated_Campaign_Essentials" title="validated Campaign Essentials">validated Campaign Essentials</a>
+																									<li><a href="/Products/Advertising_Analytics/validated_Campaign_Essentials" title="validated Campaign Essentials">validated Campaign Essentials</a></li>
                                                 																									
                                                                                     											
 												
@@ -669,7 +732,7 @@ function iopen(){open($("#fullResImage").attr("src"));
                                                                                                                                                     
                                                 
                                                 
-																									<a href="/Products/Advertising_Analytics/Action_Lift" title="Action Lift">Action Lift</a>
+																									<li><a href="/Products/Advertising_Analytics/Action_Lift" title="Action Lift">Action Lift</a></li>
                                                 																									
                                                                                     											
 												
@@ -677,7 +740,7 @@ function iopen(){open($("#fullResImage").attr("src"));
                                                                                                                                                     
                                                 
                                                 
-																									<a href="/Products/Advertising_Analytics/Brand_Survey_Lift" title="Brand Survey Lift">Brand Survey Lift</a>
+																									<li><a href="/Products/Advertising_Analytics/Brand_Survey_Lift" title="Brand Survey Lift">Brand Survey Lift</a></li>
                                                 																									
                                                                                     											
 												
@@ -685,7 +748,7 @@ function iopen(){open($("#fullResImage").attr("src"));
                                                 
                                                 
                                                 
-																									<a href="/Products/Advertising_Analytics/Brand_Survey_Lift_Pulse" title="Brand Survey Lift Pulse">Brand Survey Lift Pulse</a>
+																									<li><a href="/Products/Advertising_Analytics/Brand_Survey_Lift_Pulse" title="Brand Survey Lift Pulse">Brand Survey Lift Pulse</a></li>
                                                 																									
                                                                                     											
 												
@@ -693,7 +756,7 @@ function iopen(){open($("#fullResImage").attr("src"));
                                                                                                                                                     
                                                 
                                                 
-																									<a href="/Products/Advertising_Analytics/Offline_Sales_Lift" title="Offline Sales Lift">Offline Sales Lift</a>
+																									<li><a href="/Products/Advertising_Analytics/Offline_Sales_Lift" title="Offline Sales Lift">Offline Sales Lift</a></li>
                                                 																									
                                                                                     	
                                                                                     	
@@ -704,11 +767,15 @@ function iopen(){open($("#fullResImage").attr("src"));
 																																													
 	
 													
-																																									
-													<a href="/Products/Advertising_Analytics/Product_Index" title="More Advertising Analytics Products">More Advertising Analytics Products</a>
-	
+																																																					
+													<li class="t3">
+                                                    	<a href="/Products/Advertising_Analytics/Product_Index" title="More Advertising Analytics Products">More Advertising Analytics Products</a>
+                                                    </li>
+
 																						
-                                        </div>
+                                        
+                                            </ul> </div> <!--col_4 responsive_thirds --> 
+                                                                       
 										
                                                                         
                             
@@ -720,7 +787,6 @@ function iopen(){open($("#fullResImage").attr("src"));
                                 
                                 
                                 
-                                                                
 
                                 
                                 																										
@@ -734,15 +800,19 @@ function iopen(){open($("#fullResImage").attr("src"));
                                     
                                 
 
-																	<div class="pillar_index">
+									                                <div class="col_4">
+                                    <h3>
+									
 								
                                 
                                     
                                     <a class="sf-with-ul " href="/Products/Enterprise_Analytics" title="Enterprise Analytics">Enterprise Analytics<span class="sf-sub-indicator"></span></a>
 
-																		
+									                                    	</h3>
+									
                                     
-                                    
+                                    										
+                                    	<ul class="greybox">
 																																
                                                                                     											
 												
@@ -750,7 +820,7 @@ function iopen(){open($("#fullResImage").attr("src"));
                                                                                                                                                     
                                                 
                                                 
-																									<a href="/Products/Enterprise_Analytics/Digital_Analytix_Enterprise" title="Digital Analytix Enterprise">Digital Analytix Enterprise</a>
+																									<li><a href="/Products/Enterprise_Analytics/Digital_Analytix_Enterprise" title="Digital Analytix Enterprise">Digital Analytix Enterprise</a></li>
                                                 																									
                                                                                     											
 												
@@ -758,112 +828,48 @@ function iopen(){open($("#fullResImage").attr("src"));
                                                                                                                                                     
                                                 
                                                 
-																									<a href="/Products/Enterprise_Analytics/validated_Media_Essentials" title="validated Media Essentials">validated Media Essentials</a>
+																									<li><a href="/Products/Enterprise_Analytics/validated_Media_Essentials" title="validated Media Essentials">validated Media Essentials</a></li>
+                                                																									
+                                                                                    											
+												
+                                                
+                                                                                                                                                    
+                                                
+                                                
+																									<li><a href="/Products/Enterprise_Analytics/Subscriber_Analytix" title="Subscriber Analytix">Subscriber Analytix</a></li>
+                                                																									
+                                                                                    											
+												
+                                                
+                                                                                                                                                    
+                                                
+                                                
+																									<li><a href="/Products/Enterprise_Analytics/Subscriber_Analytix_Marketing" title="Subscriber Analytix Marketing ">Subscriber Analytix Marketing </a></li>
+                                                																									
+                                                                                    											
+												
+                                                
+                                                                                                                                                    
+                                                
+                                                
+																									<li><a href="/Products/Enterprise_Analytics/Subscriber_Analytix_Care" title="Subscriber Analytix Care ">Subscriber Analytix Care </a></li>
                                                 																									
                                         										
                                         
-											
-                                        </div>
-										
-                                                                        
-                            
-                                                    
-                                                                                        
-                                                                                        
-                            
-                            
-                                
-                                
-                                
-                                                                
-
-                                
-                                																										
-                                
-                                
-                                    
-                                                                            
-                                        
-                                    
-                                    
-                                    
-                                
-
-																	<div class="pillar_index">
-								
-                                
-                                    
-                                    <a class="sf-with-ul " href="/Products/Mobile_Operator_Analytics" title="Mobile Operator Analytics">Mobile Operator Analytics<span class="sf-sub-indicator"></span></a>
-
-																		
-                                    
-                                    
 																																
-                                                                                    											
-												
-                                                
-                                                                                                                                                    
-                                                
-                                                
-																									<a href="/Products/Mobile_Operator_Analytics/Subscriber_Analytix" title="Subscriber Analytix">Subscriber Analytix</a>
-                                                																									
-                                                                                    											
-												
-                                                
-                                                                                                                                                    
-                                                
-                                                
-																									<a href="/Products/Mobile_Operator_Analytics/Subscriber_Analytix_Marketing" title="Subscriber Analytix Marketing ">Subscriber Analytix Marketing </a>
-                                                																									
-                                                                                    											
-												
-                                                
-                                                                                                                                                    
-                                                
-                                                
-																									<a href="/Products/Mobile_Operator_Analytics/Subscriber_Analytix_Care" title="Subscriber Analytix Care ">Subscriber Analytix Care </a>
-                                                																									
-                                        										
                                         
-											
-                                        </div>
+                                            </ul> </div> <!--col_4 responsive_thirds --> 
+                                                                       
 										
                                                                         
                             
                                                     
                                                                                         
                             
-                            
-                            
-                                
-                                
-                                
-                                                                
-
-                                
-                                
-                                
-                                
-                                    
-                                                                            
-                                        
-                                    
-                                    
-                                                                                                                
-                                
-
-																	<div class="prod_index">
-								
-                                
-                                    
-                                    <a class="" href="/Products/Product_Index" title="Product Index">Product Index</a>
-
-																		
-                                    
-                                                                        
                             
                                                     						
-													</div></div></li></ul>
+							                         </div><!-- 7columns -->
+							
                                                 
 					                </li>
 
@@ -871,15 +877,18 @@ function iopen(){open($("#fullResImage").attr("src"));
                                                 
                 
                                                             
-                <li id="mIndustries">
+				<li id="mIndustries">
+                
  
-                      <a href="/Industries" title="Industries" class="main">Industries</a>
+                      <a href="/Industries" title="Industries" class="megamenu_drop">Industries</a>
 
                       
                       
                         						
                         
-													<ul>
+													<div class="dropdown_2columns dropdown_container nopadding" style="left: auto; top: auto; display: none;"><!-- Begin columns container -->
+                            	 <ul class="levels">
+                            
 												
                         
                                                                                         
@@ -889,14 +898,14 @@ function iopen(){open($("#fullResImage").attr("src"));
                                 
                                 
                                 
-                                                                
 
                                 
                                 
                                 
                                                                                                     
 
-																	<li class="">
+								                                	<li>
+									
 								
                                 
                                     
@@ -915,14 +924,14 @@ function iopen(){open($("#fullResImage").attr("src"));
                                 
                                 
                                 
-                                                                
 
                                 
                                 
                                 
                                                                                                     
 
-																	<li class="">
+								                                	<li>
+									
 								
                                 
                                     
@@ -941,14 +950,14 @@ function iopen(){open($("#fullResImage").attr("src"));
                                 
                                 
                                 
-                                                                
 
                                 
                                 
                                 
                                                                                                     
 
-																	<li class="">
+								                                	<li>
+									
 								
                                 
                                     
@@ -967,14 +976,14 @@ function iopen(){open($("#fullResImage").attr("src"));
                                 
                                 
                                 
-                                                                
 
                                 
                                 
                                 
                                                                                                     
 
-																	<li class="">
+								                                	<li>
+									
 								
                                 
                                     
@@ -993,14 +1002,14 @@ function iopen(){open($("#fullResImage").attr("src"));
                                 
                                 
                                 
-                                                                
 
                                 
                                 
                                 
                                                                                                     
 
-																	<li class="">
+								                                	<li>
+									
 								
                                 
                                     
@@ -1019,14 +1028,14 @@ function iopen(){open($("#fullResImage").attr("src"));
                                 
                                 
                                 
-                                                                
 
                                 
                                 
                                 
                                                                                                     
 
-																	<li class="">
+								                                	<li>
+									
 								
                                 
                                     
@@ -1045,14 +1054,14 @@ function iopen(){open($("#fullResImage").attr("src"));
                                 
                                 
                                 
-                                                                
 
                                 
                                 
                                 
                                                                                                     
 
-																	<li class="">
+								                                	<li>
+									
 								
                                 
                                     
@@ -1071,14 +1080,14 @@ function iopen(){open($("#fullResImage").attr("src"));
                                 
                                 
                                 
-                                                                
 
                                 
                                 
                                 
                                                                                                     
 
-																	<li class="">
+								                                	<li>
+									
 								
                                 
                                     
@@ -1097,14 +1106,14 @@ function iopen(){open($("#fullResImage").attr("src"));
                                 
                                 
                                 
-                                                                
 
                                 
                                 
                                 
                                                                                                     
 
-																	<li class="">
+								                                	<li>
+									
 								
                                 
                                     
@@ -1123,14 +1132,14 @@ function iopen(){open($("#fullResImage").attr("src"));
                                 
                                 
                                 
-                                                                
 
                                 
                                 
                                 
                                                                                                     
 
-																	<li class="">
+								                                	<li>
+									
 								
                                 
                                     
@@ -1149,14 +1158,14 @@ function iopen(){open($("#fullResImage").attr("src"));
                                 
                                 
                                 
-                                                                
 
                                 
                                 
                                 
                                                                                                     
 
-																	<li class="">
+								                                	<li>
+									
 								
                                 
                                     
@@ -1175,14 +1184,14 @@ function iopen(){open($("#fullResImage").attr("src"));
                                 
                                 
                                 
-                                                                
 
                                 
                                 
                                 
                                                                                                     
 
-																	<li class="">
+								                                	<li>
+									
 								
                                 
                                     
@@ -1201,14 +1210,14 @@ function iopen(){open($("#fullResImage").attr("src"));
                                 
                                 
                                 
-                                                                
 
                                 
                                 
                                 
                                                                                                     
 
-																	<li class="">
+								                                	<li>
+									
 								
                                 
                                     
@@ -1227,14 +1236,14 @@ function iopen(){open($("#fullResImage").attr("src"));
                                 
                                 
                                 
-                                                                
 
                                 
                                 
                                 
                                                                                                     
 
-																	<li class="">
+								                                	<li>
+									
 								
                                 
                                     
@@ -1253,14 +1262,14 @@ function iopen(){open($("#fullResImage").attr("src"));
                                 
                                 
                                 
-                                                                
 
                                 
                                 
                                 
                                                                                                     
 
-																	<li class="">
+								                                	<li>
+									
 								
                                 
                                     
@@ -1279,14 +1288,14 @@ function iopen(){open($("#fullResImage").attr("src"));
                                 
                                 
                                 
-                                                                
 
                                 
                                 
                                 
                                                                                                     
 
-																	<li class="">
+								                                	<li>
+									
 								
                                 
                                     
@@ -1298,7 +1307,7 @@ function iopen(){open($("#fullResImage").attr("src"));
                                                                         
                             
                                                     						
-													</ul>
+													</ul></div>
 						                        
 					                </li>
 
@@ -1306,15 +1315,18 @@ function iopen(){open($("#fullResImage").attr("src"));
                                                 
                                                     
                                                             
-                <li id="mInsights">
+				<li id="mInsights">
+                
  
-                      <a href="/Insights" title="Insights" class="main">Insights</a>
+                      <a href="/Insights" title="Insights" class="megamenu_drop">Insights</a>
 
                       
                       
                         						
                         
-													<ul>
+													<div class="dropdown_2columns dropdown_container nopadding" style="left: auto; top: auto; display: none;"><!-- Begin columns container -->
+                            	 <ul class="levels">
+                            
 												
                         
                             
@@ -1328,14 +1340,14 @@ function iopen(){open($("#fullResImage").attr("src"));
                                 
                                 
                                 
-                                                                
 
                                 
                                 
                                 
                                                                                                     
 
-																	<li class="">
+								                                	<li>
+									
 								
                                 
                                     
@@ -1354,14 +1366,14 @@ function iopen(){open($("#fullResImage").attr("src"));
                                 
                                 
                                 
-                                                                
 
                                 
                                 
                                 
                                                                                                     
 
-																	<li class="">
+								                                	<li>
+									
 								
                                 
                                     
@@ -1380,14 +1392,14 @@ function iopen(){open($("#fullResImage").attr("src"));
                                 
                                 
                                 
-                                                                
 
                                 
                                 
                                 
                                                                                                     
 
-																	<li class="">
+								                                	<li>
+									
 								
                                 
                                     
@@ -1406,14 +1418,14 @@ function iopen(){open($("#fullResImage").attr("src"));
                                 
                                 
                                 
-                                                                
 
                                 
                                 
                                 
                                                                                                     
 
-																	<li class="">
+								                                	<li>
+									
 								
                                 
                                     
@@ -1426,24 +1438,24 @@ function iopen(){open($("#fullResImage").attr("src"));
                             
                                                     
                                                                                         
-                            
+                                                                                        
                             
                             
                                 
                                 
                                 
-                                                                
 
                                 
                                 
                                 
                                                                                                     
 
-																	<li class="">
+								                                	<li>
+									
 								
                                 
                                     
-                                    <a class="" href="http://www.comscoredatamine.com" title="comScore Data Mine" target="_blank">comScore Data Mine</a>
+                                    <a class="" href="/Insights/Data_Mine" title="Data Mine">Data Mine</a>
 
 																			</li>
 									
@@ -1454,26 +1466,48 @@ function iopen(){open($("#fullResImage").attr("src"));
                                                                                         
                                                                                         
                             
-                                                    
-                                                                                        
-                            
-                            
-                                                    
-                                                                                        
-                                                                                        
-                            
                             
                                 
                                 
                                 
-                                                                
 
                                 
                                 
                                 
                                                                                                     
 
-																	<li class="">
+								                                	<li>
+									
+								
+                                
+                                    
+                                    <a class="" href="/Insights/Market_Rankings" title="Market Rankings">Market Rankings</a>
+
+																			</li>
+									
+                                    
+                                                                        
+                            
+                                                    
+                                                                                        
+                            
+                            
+                                                    
+                                                                                        
+                                                                                        
+                            
+                            
+                                
+                                
+                                
+
+                                
+                                
+                                
+                                                                                                    
+
+								                                	<li>
+									
 								
                                 
                                     
@@ -1488,74 +1522,26 @@ function iopen(){open($("#fullResImage").attr("src"));
                                                                                         
                                                                                         
                             
+                                                    
+                                                                                        
+                                                                                        
+                            
+                                                    
+                                                                                        
+                                                                                        
+                            
                             
                                 
                                 
                                 
-                                                                
 
                                 
                                 
                                 
                                                                                                     
 
-																	<li class="">
-								
-                                
-                                    
-                                    <a class="" href="/Insights/comScore_Academy" title="Academy">Academy</a>
-
-																			</li>
+								                                	<li>
 									
-                                    
-                                                                        
-                            
-                                                    
-                                                                                        
-                                                                                        
-                            
-                            
-                                
-                                
-                                
-                                                                
-
-                                
-                                
-                                
-                                                                                                    
-
-																	<li class="">
-								
-                                
-                                    
-                                    <a class="" href="/email/settings/(action)/add/" title="Join Our Email List">Join Our Email List</a>
-
-																			</li>
-									
-                                    
-                                                                        
-                            
-                                                    
-                                                                                        
-                            
-                            
-                                                    
-                                                                                        
-                                                                                        
-                            
-                            
-                                
-                                
-                                
-                                                                
-
-                                
-                                
-                                
-                                                                                                    
-
-																	<li class="">
 								
                                 
                                     
@@ -1570,24 +1556,211 @@ function iopen(){open($("#fullResImage").attr("src"));
                                                                                         
                                                                                         
                             
+                            
+                                
+                                
+                                
+
+                                
+                                
+                                
+                                                                                                    
+
+								                                	<li>
+									
+								
+                                
+                                    
+                                    <a class="" href="/Insights/communication-preference-center" title="Communication Preference Center">Communication Preference Center</a>
+
+																			</li>
+									
+                                    
+                                                                        
+                            
+                                                    
+                                                                                        
+                                                                                        
+                            
                                                     						
-													</ul>
+													</ul></div>
 						                        
 					                </li>
 
             
                                                 
+                                                    
+                                    
+				<li id="mInsights">
                 
-                                                            
-                <li id="mCareers">
  
-                      <a href="/Careers" title="Careers" class="main">Careers</a>
+                      <a href="/TotalVideo" title="Total Video" class="megamenu_drop">Total Video</a>
+
+                      
+                                      </li>
+
+            
+                                                
+                                                    
+                                    
+				<li id="mInsights">
+                
+ 
+                      <a href="/comScore_Academy" title="Academy" class="megamenu_drop">Academy</a>
 
                       
                       
                         						
                         
-													<ul>
+													<div class="dropdown_2columns dropdown_container nopadding" style="left: auto; top: auto; display: none;"><!-- Begin columns container -->
+                            	 <ul class="levels">
+                            
+												
+                        
+                                                                                        
+                                                                                        
+                            
+                            
+                                
+                                
+                                
+
+                                
+                                
+                                
+                                                                                                    
+
+								                                	<li>
+									
+								
+                                
+                                    
+                                    <a class="" href="/comScore_Academy/About_comScore_Academy" title="About comScore Academy">About comScore Academy</a>
+
+																			</li>
+									
+                                    
+                                                                        
+                            
+                                                    
+                                                                                        
+                                                                                        
+                            
+                            
+                                
+                                
+                                
+
+                                
+                                
+                                
+                                                                                                    
+
+								                                	<li>
+									
+								
+                                
+                                    
+                                    <a class="" href="/comScore_Academy/Course_Catalog" title="Course Catalog">Course Catalog</a>
+
+																			</li>
+									
+                                    
+                                                                        
+                            
+                                                    
+                                                                                        
+                                                                                        
+                            
+                            
+                                
+                                
+                                
+
+                                
+                                
+                                
+                                                                                                    
+
+								                                	<li>
+									
+								
+                                
+                                    
+                                    <a class="" href="/comScore_Academy/Certified_Expert_Program" title="Certified Expert Program">Certified Expert Program</a>
+
+																			</li>
+									
+                                    
+                                                                        
+                            
+                                                    
+                                                                                        
+                                                                                        
+                            
+                            
+                                
+                                
+                                
+
+                                
+                                
+                                
+                                                                                                    
+
+								                                	<li>
+									
+								
+                                
+                                    
+                                    <a class="" href="/comScore_Academy/Partner_Accreditation_Program" title="Partner Accreditation Program">Partner Accreditation Program</a>
+
+																			</li>
+									
+                                    
+                                                                        
+                            
+                                                    
+                                                                                        
+                                                                                        
+                            
+                                                    
+                                                                                        
+                            
+                            
+                                                    
+                                                                                        
+                            
+                            
+                                                    
+                                                                                        
+                                                                                        
+                            
+                                                    
+                            
+                            
+                            
+                                                    						
+													</ul></div>
+						                        
+					                </li>
+
+            
+                                                
+                                                    
+                                                            
+				<li id="mCareers">
+                
+ 
+                      <a href="/Careers" title="Careers" class="megamenu_drop">Careers</a>
+
+                      
+                      
+                        						
+                        
+													<div class="dropdown_2columns dropdown_container nopadding" style="left: auto; top: auto; display: none;"><!-- Begin columns container -->
+                            	 <ul class="levels">
+                            
 												
                         
                                                                                         
@@ -1597,14 +1770,14 @@ function iopen(){open($("#fullResImage").attr("src"));
                                 
                                 
                                 
-                                                                
 
                                 
                                 
                                 
                                                                                                     
 
-																	<li class="">
+								                                	<li>
+									
 								
                                 
                                     
@@ -1627,14 +1800,14 @@ function iopen(){open($("#fullResImage").attr("src"));
                                 
                                 
                                 
-                                                                
 
                                 
                                 
                                 
                                                                                                     
 
-																	<li class="">
+								                                	<li>
+									
 								
                                 
                                     
@@ -1653,14 +1826,14 @@ function iopen(){open($("#fullResImage").attr("src"));
                                 
                                 
                                 
-                                                                
 
                                 
                                 
                                 
                                                                                                     
 
-																	<li class="">
+								                                	<li>
+									
 								
                                 
                                     
@@ -1679,14 +1852,14 @@ function iopen(){open($("#fullResImage").attr("src"));
                                 
                                 
                                 
-                                                                
 
                                 
                                 
                                 
                                                                                                     
 
-																	<li class="">
+								                                	<li>
+									
 								
                                 
                                     
@@ -1710,7 +1883,7 @@ function iopen(){open($("#fullResImage").attr("src"));
                                                                                         
                             
                                                     						
-													</ul>
+													</ul></div>
 						                        
 					                </li>
 
@@ -1718,15 +1891,18 @@ function iopen(){open($("#fullResImage").attr("src"));
                                                 
                                                     
                                                             
-                <li id="mAbout">
+				<li id="mAbout">
+                
  
-                      <a href="/About_comScore" title="About Us" class="main">About Us</a>
+                      <a href="/About_comScore" title="About Us" class="megamenu_drop">About Us</a>
 
                       
                       
                         						
                         
-													<ul>
+													<div class="dropdown_2columns dropdown_container nopadding" style="left: auto; top: auto; display: none;"><!-- Begin columns container -->
+                            	 <ul class="levels">
+                            
 												
                         
                                                                                         
@@ -1740,14 +1916,14 @@ function iopen(){open($("#fullResImage").attr("src"));
                                 
                                 
                                 
-                                                                
 
                                 
                                 
                                 
                                                                                                     
 
-																	<li class="">
+								                                	<li>
+									
 								
                                 
                                     
@@ -1760,20 +1936,20 @@ function iopen(){open($("#fullResImage").attr("src"));
                             
                                                     
                                                                                         
-                            
+                                                                                        
                             
                             
                                 
                                 
                                 
-                                                                
 
                                 
                                 
                                 
                                                                                                     
 
-																	<li class="">
+								                                	<li>
+									
 								
                                 
                                     
@@ -1792,14 +1968,14 @@ function iopen(){open($("#fullResImage").attr("src"));
                                 
                                 
                                 
-                                                                
 
                                 
                                 
                                 
                                                                                                     
 
-																	<li class="">
+								                                	<li>
+									
 								
                                 
                                     
@@ -1812,20 +1988,20 @@ function iopen(){open($("#fullResImage").attr("src"));
                             
                                                     
                                                                                         
-                            
+                                                                                        
                             
                             
                                 
                                 
                                 
-                                                                
 
                                 
                                 
                                 
                                                                                                     
 
-																	<li class="">
+								                                	<li>
+									
 								
                                 
                                     
@@ -1838,20 +2014,20 @@ function iopen(){open($("#fullResImage").attr("src"));
                             
                                                     
                                                                                         
-                            
+                                                                                        
                             
                             
                                 
                                 
                                 
-                                                                
 
                                 
                                 
                                 
                                                                                                     
 
-																	<li class="">
+								                                	<li>
+									
 								
                                 
                                     
@@ -1870,14 +2046,14 @@ function iopen(){open($("#fullResImage").attr("src"));
                                 
                                 
                                 
-                                                                
 
                                 
                                 
                                 
                                                                                                     
 
-																	<li class="">
+								                                	<li>
+									
 								
                                 
                                     
@@ -1896,14 +2072,14 @@ function iopen(){open($("#fullResImage").attr("src"));
                                 
                                 
                                 
-                                                                
 
                                 
                                 
                                 
                                                                                                     
 
-																	<li class="">
+								                                	<li>
+									
 								
                                 
                                     
@@ -1916,7 +2092,7 @@ function iopen(){open($("#fullResImage").attr("src"));
                             
                                                     
                                                                                         
-                            
+                                                                                        
                             
                                                     
                                                                                         
@@ -1925,28 +2101,71 @@ function iopen(){open($("#fullResImage").attr("src"));
                                                     
                                                                                         
                             
+                            
+                                                    
+                                                                                        
+                                                                                        
+                            
+                            
+                                
+                                
+                                
+
+                                
+                                
+                                
+                                                                                                    
+
+								                                	<li>
+									
+								
+                                
+                                    
+                                    <a class="" href="/About_comScore/Third-Party_Review" title="Third-Party Accreditation, Certification and Review">Third-Party Accreditation, Certification and Review</a>
+
+																			</li>
+									
+                                    
+                                                                        
                             
                                                     						
-													</ul>
+													</ul></div>
 						                        
 					                </li>
 
-                    </ul>
-
-
-        <form name="search" id="search" class="search" action="/content/search" method="get">
-        <div id="ezautocomplete">
-            <label id="searchLabel" for="SearchText">Search</label>
-            <input type="text" size="15" name="SearchText" id="searchtext" value="">
+                      
+          
+      
             
-            <button class="submit" name="searchSubmit" type="submit" value="Search">Search</button>
-        </div>
-        </form>
+        </ul>
+
+                <form name="search" id="search" class="search" action="/content/search" method="get">
+                    <input type="text" name="SearchText" id="searchtext" value="" class="megamenu_searchfield">
+                    <button class="submit" name="searchSubmit" type="submit" value="Search">Search</button>
+                </form>
+               	
+               	<script type="text/javascript">
+               	// <![CDATA[
+               		var form_topsearch=new ns_API.form("search");
+				// ]]>
+                </script>
+				<script type="text/javascript">
+                // <![CDATA[
+                	
+                        form_topsearch.setURL("https://int.sitestat.com/comscore/int/s?int.search.form");
+                        form_topsearch.addSubmitEvent("*","*","*"); 
+                        form_topsearch.addAbandonEvent("","",""); 
+                        form_topsearch.setMaxFieldSize(200);
+					
+				// ]]>
+				</script>                
+
+
+
 		
-		
-      </div>
-      <!-- /bounds -->
-    </div>
+  
+		</div>
+
     <!-- /mNav -->
     
         
@@ -1956,12 +2175,10 @@ function iopen(){open($("#fullResImage").attr("src"));
     </div>
     <!-- /Global Template Items -->
 
-  <!-- Toolbar area: START -->
-  
-  <!-- Toolbar area: END -->
     
 	
-            
+        
+    		
     
         
 
@@ -1996,7 +2213,7 @@ function iopen(){open($("#fullResImage").attr("src"));
 					</div>		
 				
 					
-																										<h1>Privacy Policy</h1>
+																																					<h1>Privacy Policy</h1>
 						
 				</div><!-- /grid 12-->
 		
@@ -2020,30 +2237,32 @@ function iopen(){open($("#fullResImage").attr("src"));
 				
 				<div class="grid_10 suffix_14 alpha omega">
 			
-							
+                					
 		
 				
 			
 			
-		
-					<h1 class="super">Privacy Policy</h1>
-						
-	  
-		<div>
-							
-<p>comScore interacts with current and prospective clients, investors, and the general public via its Web site, comscore.com. This Privacy Statement describes comScore’s privacy-related policies and practices as they relate to the collection and use of information gathered from visitors to comscore.com. comScore operates a number of research panels, each of which are governed by the privacy policy that appears on the Web site assigned to that research panel.</p><p>
+            
+                                                <div class="intro_paragraph">
+                        
+<p>comScore interacts with current and prospective clients, investors, and the general public via its Web site, comscore.com. This Privacy Statement describes comScore’s privacy-related policies and practices as they relate to the collection and use of information gathered from visitors to comscore.com. comScore operates a number of research panels, each of which are governed by the privacy policy that appears on the Web site assigned to that research panel.</p>                    </div>
+                                    
+          
+            <div>
+                                    
+<p>
 <b>Privacy Commitment</b><br>Privacy is a critical issue to every Internet user and comScore is committed to assuring that the privacy and confidentiality of visitors to this site are respected and preserved. Unless you give us explicit permission, we will not share your personally identifiable information such as name, address or e-mail address with third parties for any purpose. Information gathered from your activity is used for compiling anonymous statistics only and is not identifiable back to any individual. Registration information is used for verification purposes, for sending administrative e-mails to clients regarding our service, and for sending informational e-mails to prospective clients, investors, and the general public, if requested.</p><p>
-<b>Collection, Use, Disclosure of Information </b><br>&nbsp;comScore does not collect personally identifiable information about you unless you choose to provide us personally identifiable information through an online form or e-mail communication or you are accessing client-specific, secure content. We use cookies to ensure authorized access to client-specific secure content. Our use of cookies is explained in greater detail below. When accessing client-specific secure content, you are acting as a representative of your company and your interactions with our site in this capacity are governed by our relationship agreement with your company.</p><p>Our site also automatically creates logs regarding your and other user sessions on comscore.com, such as features that you use, the actions that you take, and the information that you access. We generally use this information in statistical and aggregate formats to assess the effectiveness of our site and to better understand your priorities and interests.</p><p>comScore does not sell, distribute or disclose your personally identifiable information collected from comscore.com to third parties without your consent. However, we may release information to a third party if required by a legal process such as a subpoena or a search warrant, in which case we will notify you of the disclosure.Please note that visitors to comscore.com are not required to provide us personally identifiable information to use the public areas of our site. You can provide us information such as address, e-mail address, or telephone number if you would like to learn more about comScore’ products and services. Data submitted to comscore.com by current and prospective clients, investors, and the general public will be purged in a reasonable period of time after the parties have stopped communicating with us or have requested removal.</p><p>
+<b>Collection, Use, Disclosure of Information </b><br>comScore does not collect personally identifiable information about you unless you choose to provide us personally identifiable information through an online form or e-mail communication or you are accessing client-specific, secure content. We use cookies to ensure authorized access to client-specific secure content. Our use of cookies is explained in greater detail below. When accessing client-specific secure content, you are acting as a representative of your company and your interactions with our site in this capacity are governed by our relationship agreement with your company.</p><p>Our site also automatically creates logs regarding your and other user sessions on comscore.com, such as features that you use, the actions that you take, and the information that you access. We generally use this information in statistical and aggregate formats to assess the effectiveness of our site and to better understand your priorities and interests.</p><p>comScore does not sell, distribute or disclose your personally identifiable information collected from comscore.com to third parties without your consent. However, we may release information to a third party if required by a legal process such as a subpoena or a search warrant, in which case we will notify you of the disclosure.Please note that visitors to comscore.com are not required to provide us personally identifiable information to use the public areas of our site. You can provide us information such as address, e-mail address, or telephone number if you would like to learn more about comScore’ products and services. Data submitted to comscore.com by current and prospective clients, investors, and the general public will be purged in a reasonable period of time after the parties have stopped communicating with us or have requested removal.</p><p>comScore.com does not react to Do Not Track signals because there is no standard for how those signals are sent. This site may employ the ScorecardResearch service, and you may control your level of participation in ScorecardResearch’s market research programs by visiting here: <a href="http://www.scorecardresearch.com/preferences.aspx" title="ScoreCard Research" target="_blank">http://www.scorecardresearch.com/preferences.aspx.</a></p><p>
 <b>Use of Cookies </b><br>Cookies are pieces of data stored on a user’s hard drive that contain information about a user. In the case of secure content access, if your company is a client of comScore, we use a cookie that contains your login information, so we can ensure that client-specific information is secure from unauthorized access. We utilize an encrypted cookie to track client access to client-specific secure content. These cookies are used only for this purpose and are intended to be used only by our Web site. Please note that you can view and delete these cookies using the features of your browser or by installing a third party tool, such as Ghostery, to view the cookies.</p><p>
 <b>Choice and Data Access </b><br>As a representative of your company, you can view and modify your company profile information in the secure client area of our site.</p><p>
 <b>Data Security/Integrity </b><br>comScore has physical, electronic, and managerial security functions in place to protect personally identifiable information from loss, misuse, alteration or destruction. Only authorized employees have access to the data you provided and that access is limited by need. Our employees who have access to the data you provided have agreed to maintain the confidentiality of such information.</p><p>
 <b>European Data</b><br>For personal information that comScore receives from the European Economic Area, comScore has committed to handling such personal information in accordance with the Safe Harbor Principles and the 15 FAQs. comScore’s Safe Harbor certification can be found at <a href="http://web.ita.doc.gov/safeharbor/shlist.nsf/webPages/safe+harbor+list" target="_blank">http://web.ita.doc.gov/safeharbor/shlist.nsf/webPages/safe+harbor+list</a>. For more information about the Safe Harbor Principles, please visit the U.S. Department of Commerce’s Website at <a href="http://export.gov/safeharbor/" target="_blank">http://export.gov/safeharbor/</a>.</p><p>
 <b>Children </b><br>comScore understands the importance of protecting children’s privacy in the online interactive world. This Web site does not intentionally target or solicit to children 13 and younger.</p><p>
 <b>Notification of Changes</b><br>&nbsp;If we materially change our practices in handling personally identifiable information, as described in this statement, we will notify you by posting the changes on this Privacy Statement at least 30 days prior to their implementation.</p><p>
-<b>Contacting Us</b><br>If you have questions regarding our Privacy Statement as it relates to your use of this site or comScore’ products and services, please submit a privacy inquiry.</p>				
-		</div>
-	  
-					  
+<b>Contacting Us</b><br>If you have questions regarding our Privacy Statement as it relates to your use of this site or comScore’ products and services, please submit a privacy inquiry.</p>                	
+            </div>
+          
+            			  
 
   
 	  	</div><!-- /grid 10 -->		
@@ -2056,7 +2275,7 @@ function iopen(){open($("#fullResImage").attr("src"));
 	  <div id="sideColumn">
 		
 		
-				
+        		
 										
 			<div class="module topModule">
 			  <div id="calls2">
@@ -2064,6 +2283,7 @@ function iopen(){open($("#fullResImage").attr("src"));
 
 	
 	
+
 	
 											<ul>		
 						<li class="orange"><a class="demos popup" href="/layout/set/popup/Request/Contact/Contact_Us" title="Contact Us Online">Contact us</a></li>
@@ -2077,15 +2297,13 @@ function iopen(){open($("#fullResImage").attr("src"));
 				
 		<!-- IF SUB MENU ID IS SET AND NOT 0, DISPLAY IT HERE -->
 					
-			
-	
-			
-			
+		
 	  </div>
 	  <!-- /sideColumn -->
 	</div>
 	<!-- /grid_4-->
         
+	
   </div>
   <!-- /contentBounds -->
 
@@ -2149,59 +2367,6 @@ function iopen(){open($("#fullResImage").attr("src"));
 																		
 				<li class="main">
 
-					  <a href="/About_You" title="About You" class="main">About You</a>
-					  
-					  					  
-						
-						
-													
-														    														
-																													
-							
-														
-								</li><li>
-									
-								  	<a href="/About_You/Agency" title="Agency">Agency</a>
-								</li>
-									
-													
-														    														
-														
-							
-														
-								<li>
-									
-								  	<a href="/About_You/Enterprise" title="Enterprise">Enterprise</a>
-								</li>
-									
-													
-														    														
-																													
-							
-														
-								<li>
-									
-								  	<a href="/About_You/Publisher" title="Publisher">Publisher</a>
-								</li>
-									
-													
-														    														
-																													
-							
-														
-								<li>
-									
-								  	<a href="/About_You/Network_Operator" title="Network Operator">Network Operator</a>
-								</li>
-									
-																	  				
-			</ul>	
-						
-							<ul>
-												
-									
-				<li class="main">
-
 					  <a href="/Products" title="Products" class="main">Products</a>
 					  
 					  					  
@@ -2239,23 +2404,8 @@ function iopen(){open($("#fullResImage").attr("src"));
 									
 													
 														    														
-																													
-							
-														
-								<li>
-									
-								  	<a href="/Products/Mobile_Operator_Analytics" title="Mobile Operator Analytics">Mobile Operator Analytics</a>
-								</li>
-									
-													
-														    														
 														
 							
-														
-								<li>
-									
-								  	<a href="/Products/Product_Index" title="Product Index">Product Index</a>
-								</li>
 									
 																	  				
 			</ul>	
@@ -2490,18 +2640,23 @@ function iopen(){open($("#fullResImage").attr("src"));
 									
 													
 														    														
-														
+																													
 							
 														
 								<li>
 									
-								  	<a href="http://www.comscoredatamine.com" title="comScore Data Mine" target="_blank">comScore Data Mine</a>
+								  	<a href="/Insights/Data_Mine" title="Data Mine">Data Mine</a>
 								</li>
 									
 													
 														    														
 																													
 							
+														
+								<li>
+									
+								  	<a href="/Insights/Market_Rankings" title="Market Rankings">Market Rankings</a>
+								</li>
 									
 													
 														    														
@@ -2522,25 +2677,10 @@ function iopen(){open($("#fullResImage").attr("src"));
 														    														
 																													
 							
-														
-								<li>
-									
-								  	<a href="/Insights/comScore_Academy" title="Academy">Academy</a>
-								</li>
 									
 													
 														    														
 																													
-							
-														
-								<li>
-									
-								  	<a href="/email/settings/(action)/add/" title="Join Our Email List">Join Our Email List</a>
-								</li>
-									
-													
-														    														
-														
 							
 									
 													
@@ -2557,13 +2697,111 @@ function iopen(){open($("#fullResImage").attr("src"));
 														    														
 																													
 							
+														
+								<li>
+									
+								  	<a href="/Insights/communication-preference-center" title="Communication Preference Center">Communication Preference Center</a>
+								</li>
+									
+													
+														    														
+																													
+							
 									
 																	  				
 			</ul>	
 						
 							<ul>
 												
+																		
+				<li class="main">
+
+					  <a href="/TotalVideo" title="Total Video" class="main">Total Video</a>
+					  
+					  				
+			</li></ul>	
+						
+							<ul>
+												
+																		
+				<li class="main">
+
+					  <a href="/comScore_Academy" title="Academy" class="main">Academy</a>
+					  
+					  					  
+						
+						
+													
+														    														
+																													
+							
+														
+								</li><li>
 									
+								  	<a href="/comScore_Academy/About_comScore_Academy" title="About comScore Academy">About comScore Academy</a>
+								</li>
+									
+													
+														    														
+																													
+							
+														
+								<li>
+									
+								  	<a href="/comScore_Academy/Course_Catalog" title="Course Catalog">Course Catalog</a>
+								</li>
+									
+													
+														    														
+																													
+							
+														
+								<li>
+									
+								  	<a href="/comScore_Academy/Certified_Expert_Program" title="Certified Expert Program">Certified Expert Program</a>
+								</li>
+									
+													
+														    														
+																													
+							
+														
+								<li>
+									
+								  	<a href="/comScore_Academy/Partner_Accreditation_Program" title="Partner Accreditation Program">Partner Accreditation Program</a>
+								</li>
+									
+													
+														    														
+																													
+							
+									
+													
+														    														
+														
+							
+									
+													
+														    														
+														
+							
+									
+													
+														    														
+																													
+							
+									
+													
+														
+														
+							
+									
+																	  				
+			</ul>	
+						
+							<ul>
+												
+																		
 				<li class="main">
 
 					  <a href="/Careers" title="Careers" class="main">Careers</a>
@@ -2661,7 +2899,7 @@ function iopen(){open($("#fullResImage").attr("src"));
 									
 													
 														    														
-														
+																													
 							
 														
 								<li>
@@ -2681,7 +2919,7 @@ function iopen(){open($("#fullResImage").attr("src"));
 									
 													
 														    														
-														
+																													
 							
 														
 								<li>
@@ -2691,7 +2929,7 @@ function iopen(){open($("#fullResImage").attr("src"));
 									
 													
 														    														
-														
+																													
 							
 														
 								<li>
@@ -2721,7 +2959,7 @@ function iopen(){open($("#fullResImage").attr("src"));
 									
 													
 														    														
-														
+																													
 							
 									
 													
@@ -2733,6 +2971,16 @@ function iopen(){open($("#fullResImage").attr("src"));
 														    														
 														
 							
+									
+													
+														    														
+																													
+							
+														
+								<li>
+									
+								  	<a href="/About_comScore/Third-Party_Review" title="Third-Party Accreditation, Certification and Review">Third-Party Accreditation, Certification and Review</a>
+								</li>
 									
 																	  				
 			</ul>	
@@ -2761,7 +3009,7 @@ function iopen(){open($("#fullResImage").attr("src"));
 						
 														
 																							
-												
+																									
 						<li>
 							<a href="/About_comScore/Privacy_Policy" title="Privacy Policy">
 								Privacy Policy
@@ -2769,7 +3017,7 @@ function iopen(){open($("#fullResImage").attr("src"));
 						</li>
 													
 				
-									<li>© 2013 comScore, Inc. </li>
+									<li>© 2014 comScore, Inc. </li>
 								
 				
        							
@@ -2789,7 +3037,7 @@ function iopen(){open($("#fullResImage").attr("src"));
 		<div class="container">
 		  <div class="stay-connected left">
 			<ul>
-			  <li style="margin-left:0px;">Stay connected</li>
+			  <li style="margin-left:0px;" id="sc_title">Stay connected</li>
 			  <li>
 	
 				
@@ -2800,7 +3048,7 @@ function iopen(){open($("#fullResImage").attr("src"));
 								<a href="http://www.linkedin.com/company/comscore-inc." title="LinkedIn" class="footersocial linkedin" rel="nofollow"></a><div class="container_social" style="display:none; width:240px;"><strong>LinkedIn<div class="social_close">X</div></strong><div class="sc"></div></div>
 				<a href="http://www.facebook.com/comScoreInc" title="Facebook" class="footersocial facebook" rel="nofollow"></a><div class="container_social" style="display:none; width:324px;"><strong>Facebook<div class="social_close">X</div></strong><div class="sc"></div></div>
 				<a href="http://www.youtube.com/comscore" title="YouTube" class="footersocial youtube" rel="nofollow"></a><div class="container_social" style="display:none; width:270px;"><strong>YouTube<div class="social_close">X</div></strong><div class="sc"></div></div>
-				<a href="/int/email/settings" title="Email" class="footersocial email" rel="nofollow"></a><div class="container_social" style="display:none; width:355px;"><strong>Email<div class="social_close">X</div></strong><div class="sc"></div></div>
+				<a href="/int/Insights/Communications-Preference-Center" title="Email" class="footersocial email" rel="nofollow"></a><div class="container_social" style="display:none; width:355px;"><strong>Email<div class="social_close">X</div></strong><div class="sc"></div></div>
 			  </li>
 			</ul>
 		  </div>
@@ -2815,7 +3063,8 @@ function iopen(){open($("#fullResImage").attr("src"));
 </div><!-- /id=floating_footer_wrap -->
 
 
-<!-- CC: US, CNT: NA Node: 230 -->
+	    <div class="hdn" id="geo" data-cntry="US" data-cnt="NA"></div>
+			
 
 
 <!-- comscore beacon -->
@@ -2837,41 +3086,7 @@ function iopen(){open($("#fullResImage").attr("src"));
   <img src="http://b.scorecardresearch.com/b?c1=0&amp;c2=&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c15=&amp;cv=1.3&amp;cj=1" style="display:none;" width="0" height="0" alt="" />
 </noscript>
 
-	<script type="text/javascript">
-    var _elqQ = _elqQ || [];
-    _elqQ.push(['elqSetSiteId', '118899503']);
-    _elqQ.push(['elqTrackPageView']);
-    
-    (function () {
-        function async_load() {
-            var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true;
-            s.src = '//img03.en25.com/i/elqCfg.min.js';
-            var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
-        }
-        if (window.addEventListener) window.addEventListener('DOMContentLoaded', async_load, false);
-        else if (window.attachEvent) window.attachEvent('onload', async_load); 
-    })();
-</script>
 
-<script type="text/javascript">
-	var piCId_overrule = getUrlVars()["piCId"];
-	if(!piCId_overrule || isNaN(piCId_overrule)) {temp_id = '35471';}
-	else{temp_id=piCId_overrule;}
-
-	piAId = '2552';
-	piCId = temp_id;
-	piProfileId = 2571;
-	
-	(function() {
-		function async_load(){
-			var s = document.createElement('script'); s.type = 'text/javascript';
-			s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js';
-			var c = document.getElementsByTagName('script')[0]; c.parentNode.insertBefore(s, c);
-		}
-		if(window.attachEvent) { window.attachEvent('onload', async_load); }
-		else { window.addEventListener('load', async_load, false); }
-	})();
-</script>
 
 
 			
@@ -2897,10 +3112,10 @@ function iopen(){open($("#fullResImage").attr("src"));
 		<script type="text/javascript">
 		// <![CDATA[
 		function sitestat(u){var d=document,l=d.location;ns_pixelUrl=u+"&ns__t="+(new Date().getTime());u=ns_pixelUrl+"&ns_c="+((d.characterSet)?d.characterSet:d.defaultCharset)+"&ns_ti="+escape(d.title)+"&ns_jspageurl="+escape(l&&l.href?l.href:d.URL)+"&ns_referrer="+escape(d.referrer);var m=u.lastIndexOf("&");if(u.length>2000&&m>=0){u=u.substring(0,m+1)+"ns_cut="+u.substring(m+1,u.lastIndexOf("=")).substring(0,40)}(d.images)?new Image().src=u:d.write('<'+'p><'+'img src="'+u+'" height="1" width="1" alt="*"'+'><'+'/p>');};
-		sitestat("//int.sitestat.com/comscore/int/s?name=comScore_default&pagename=int/About_comScore/Privacy_Policy&lang=en-US&ns_ilevel=3&ns_m_exp="+experimentId+"&ns_m_chs="+variationIndex+""); 
+		sitestat("//int.sitestat.com/comscore/int/s?name=comScore_default&eznode=230&pagename=int/About_comScore/Privacy_Policy&lang=en-US&ns_ilevel=3&ns_m_exp="+experimentId+"&ns_m_chs="+variationIndex+""); 
 		// ]]>
 		</script>
-		<noscript><p><img src="//int.sitestat.com/comscore/int/s?name=comScore_default&pagename=About_comScore/Privacy_Policy&lang=en-US&ns_ilevel=3" height="1" width="1" alt="*"/></p></noscript>
+		<noscript><p><img src="//int.sitestat.com/comscore/int/s?name=comScore_default&eznode=230&pagename=About_comScore/Privacy_Policy&lang=en-US&ns_ilevel=3" height="1" width="1" alt="*"/></p></noscript>
 		<!-- End CMC -->
 		
 		
