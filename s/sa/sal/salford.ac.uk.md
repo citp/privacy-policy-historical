@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salford.ac.uk privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219004255id_/http%3A//www.salford.ac.uk/small-print-pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salford.ac.uk privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624081056id_/http%3A//www.salford.ac.uk/small-print-pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | University of Salford, Manchester
 
@@ -20,7 +20,11 @@ University of Salford is collecting information on this website as outlined in t
 
 ### Automatic collection of information:
 
-If you do nothing during your visit but browse through the website or download information, our system will automatically gather and store certain information about your visit. This information does not identify you personally and is used in an aggregate way to help us improve our website and tell us the number of visitors to our site each day.
+If you do nothing during your visit but browse through the website or download information, our system will automatically gather and store certain information about your visit. This information does not identify you personally and is used in an aggregate way to help us improve our website and tell us the number of visitors to our site each day. 
+
+The University uses features of Google Analytics based on Display Advertising (e.g. Remarketing, Google Display Network Impression Reporting, the DoubleClick Campaign Manager integration or Google Analytics Demographics and Interest Reporting).  Using the [Ads Settings](https://www.google.com/settings/ads), visitors can opt out of Google Analytics for Display Advertising and customise Google Display Network ads. 
+
+Please also refer to Google Analytics' [currently available opt outs](https://tools.google.com/dlpage/gaoptout/) for the web.
 
 Our web server automatically collects and records the following information:
 
@@ -30,37 +34,49 @@ Our web server automatically collects and records the following information:
   * The operating system used
   * Date and time you access our site
   * The address of the website that linked to us (referrer URL)
+  * Demographic information (age, gender and overview of traffic by age and gender)
+  * Overview of traffic by affinity, in-Market and other categories
 
 
 
 ### Permission-based collection of information:
 
-At different places on our site depending upon the feature you use, you may be asked to volunteer personal information such as your name, email, mailing address and telephone number.
+At different places on our site depending upon the feature you use, you may be asked to volunteer personal information such as your name, email, mailing address and telephone number. 
 
-The following information is collected with your permission at this website:
+The following information is collected with your permission at this website:  
+
 
   * Anonymous user survey information
   * Survey information including personal identification information
-  * The names and e-mail addresses of those who use a feedback form
+  * The names and e-mail addresses of those who use a feedback form  
 
 
 
-### How do we use the information we collect?
 
-The information we gather automatically and with your permission during your visit to our website is used in the following ways:
+### How do we use the information we collect?  
 
-  * Monitor, review, measure, and analyze website utilization
-  * Modify and enhance the website
-  * Improve the content and design of our website
-  * Respond to your requests
-  * Monitor and improve our customer service efforts
-  * Study general usage habits and demographic information for our own marketing research purposes
+
+The information we gather automatically and with your permission during your visit to our website is used in the following ways:  
+
+
+  * To monitor, review, measure, and analyze website utilization
+  * To improve the content and design of our website
+  * To study general usage habits and demographic information for our own marketing research purposes  
+
+
+
+
+The information we obtain when you volunteer personal information is used in the following ways:  
+
+
+  * To respond to your requests
+  * To monitor and improve our customer service efforts
 
 
 
 ### With whom will the information be shared?
 
-The personally identifiable information gathered during your visit to this website is not shared with any organization for any purpose.
+The personally identifiable information gathered during your visit to this website is not shared with any organization for any purpose. 
 
 ## Access and correction of personal information
 
