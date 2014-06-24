@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utah.gov privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210205308id_/http%3A//www.utah.gov/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utah.gov privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624034336id_/http%3A//www.utah.gov/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Utah.gov
 
@@ -15,7 +15,7 @@ The State of Utah (State) is committed to protecting the privacy of those access
 
 This privacy policy statement applies to all State executive branch agency Web sites except those administered by the State Board of Education, the Board of Regents, institutions of higher education, and except as described below in the section called “State Agency Privacy Policies and How They Relate to This Policy.”
 
-[Governmental Internet Information Privacy Act Description](https://web.archive.org/web/20131210205308id_/http%3A//www.utah.gov/hb25.html)
+[Governmental Internet Information Privacy Act Description](https://web.archive.org/web/20140624034336id_/http%3A//www.utah.gov/hb25.html)
 
 ### Definition of Personally Identifiable Information
 
@@ -27,7 +27,7 @@ For the purposes of this policy “personally identifiable information” means 
   * Telephone number
   * Social Security number
   * Credit card information
-  * Account Number 
+  * Account Number
   * Bank account information
   * Any combination of personal information that could be used to determine identity
 
@@ -89,3 +89,5 @@ Visitors may link to various Web sites from State Web pages. The State is not re
 ### Changes to and Versions of the Privacy Policy
 
 This privacy policy may be changed at any time; any changes will be posted on this web page. The version number and date the policy was last revised will be noted on the policy. Information collected while a particular version of this policy is in effect will be handled in accordance with that version. If you have questions, comments, or concerns, please [contact us](http://www.utah.gov/contact.html).
+
+## Feedback
