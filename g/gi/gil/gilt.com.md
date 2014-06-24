@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gilt.com privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129113829id_/http%3A//www.gilt.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gilt.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624032714id_/http%3A//www.gilt.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy Notice | Gilt Groupe | About
 
@@ -91,7 +91,7 @@ We also may use the information we obtain about you in other ways for which we p
 
 ## Online Advertising
 
-On our websites, we may collect information about your online activities to provide advertising about products and services tailored to your individual interests. You may see certain ads on this and other sites because we participate in advertising networks. Ad networks allow us to target our advertising to users through demographic, behavioral and contextual means. These networks track your online activities over time by collecting information through automated means, including through the use of cookies, web server logs, web beacons and other methods. The networks use this information to show you advertisements for GILT and our business partners that are tailored to your individual interests. The information our ad network vendors collect includes information about your visits to websites that participate in the vendors‘ advertising networks, such as the pages or advertisements you have viewed, and the actions you take on the sites. This data collection and ad targeting take place both on our websites and on third-party websites that participate in the ad networks. This process also helps us track the effectiveness of our marketing efforts.
+On our websites, we may collect information about your online activities to provide advertising about products and services tailored to your individual interests. You may see certain ads on this and other sites because we participate in advertising networks. Ad networks may include third-party ad servers, ad agencies, ad technology vendors and research firms. We are not responsible for the privacy practices of these third parties, and we encourage you to read their privacy policies, which may apply to these third-party programs. Ad networks allow us to target our advertising to users through demographic, behavioral and contextual means. These networks track your online activities over time across third-party websites or online services by collecting information through automated means, including through the use of cookies, web server logs, web beacons and other methods. The networks use this information to show you advertisements for GILT and our business partners that are tailored to your individual interests. The information our ad network vendors collect includes information about your visits to websites that participate in the vendors‘ advertising networks, such as the pages or advertisements you have viewed, and the actions you take on the sites. This data collection and ad targeting take place both on our websites and on third-party websites that participate in the ad networks. This process also helps us track the effectiveness of our marketing efforts.
 
 We do not sell or otherwise disclose personal information about you, except as described in this Privacy Notice.
 
@@ -121,7 +121,7 @@ You may opt out of the aggregation and analysis of data collected about you on o
 
 ### Targeted Advertising
 
-To opt out of receiving marketing communications through the advertising networks of our ad network vendors, please [click here](http://www.networkadvertising.org/managing/opt_out.asp), then click “Select all” on the linked site and push the “Submit” button.
+We may engage with advertising networks that are members of organizations or programs that manage the privacy choices these ad networks offer consumers. For example, you may opt out of receiving certain marketing communications through the Network Advertising Initiative member ad networks by [clicking here](http://www.networkadvertising.org/managing/opt_out.asp), and learn about additional online advertising opt-out options by [clicking here](http://www.evidon.com/consumers-privacy/opt-out). Please note that we also may work with ad networks that offer their own opt-out mechanisms and may not honor the opt-outs we linked above.  You can opt-out of targeted ads on Facebook by [clicking here](https://www.facebook.com/ads/website_custom_audiences/).  
 
 ### Geo-Location Information
 
@@ -145,7 +145,7 @@ Our websites may contain links to other sites for your convenience and informati
 
 ## Data Transfers
 
-When we obtain personal information about you, we may process the information outside of the country in which you are located, including in the United States. The countries in which we process the information may not have the same data protection laws as the country in which you are located. We will protect your information as described in this Privacy Notice.
+This is a U.S. website subject to U.S. laws, including those governing the privacy and security of your information. When we obtain personal information about you, we may process the information outside of the country in which you are located, including in the United States. The countries in which we process the information may not have the same data protection laws as the country in which you are located. We will protect your information as described in this Privacy Notice.
 
 GILT has certified compliance with the Safe Harbor privacy framework for the handling of personal information transferred from the European Union, Iceland, Liechtenstein, Norway or Switzerland to the U.S. [Click here](https://web.archive.org/company/safeharbor) to view our Safe Harbor Privacy Policy.
 
