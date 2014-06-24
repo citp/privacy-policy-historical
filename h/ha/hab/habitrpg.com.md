@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the habitrpg.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218023116id_/https%3A//habitrpg.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the habitrpg.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625003204id_/https%3A//habitrpg.com/static/privacy) for the most accurate reproduction.*
 
 # HabitRPG | Privacy
 
@@ -85,3 +85,5 @@ If you have any questions regarding this Privacy Policy, please contact the owne
 Somerville, MA 02144  
 Email:[tylerrenelle@gmail.com](mailto:tylerrenelle@gmail.com)  
 Telephone: 1-805-975-5236
+
+© 2012 OCDevel
