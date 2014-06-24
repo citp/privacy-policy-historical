@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pakmet.com.pk privacy policy that was archived on 2013-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130814012024id_/http%3A//www.pakmet.com.pk/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pakmet.com.pk privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624034258id_/http%3A//www.pakmet.com.pk/privacy.aspx) for the most accurate reproduction.*
 
 # pakmet.com.pk - Privacy Policy
 
@@ -11,7 +11,7 @@ PAKMET.COM.PK
   
 We do not sell, trade, rent or make available, your personal information to others.
 
-This Privacy Policy outlines how your personal information is treated and forms part of our Terms & Conditions Of Use. We may occasionally modify our Privacy Policy; when this happens we will notify you via our[ Terms of Use](https://web.archive.org/web/20130814012024id_/http%3A//www.pakmet.com.pk/terms.aspx) page. 
+This Privacy Policy outlines how your personal information is treated and forms part of our Terms & Conditions Of Use. We may occasionally modify our Privacy Policy; when this happens we will notify you via our[ Terms of Use](https://web.archive.org/web/20140624034258id_/http%3A//www.pakmet.com.pk/terms.aspx) page. 
 
 **Cookies**
 
@@ -58,4 +58,4 @@ Some Portions of the Web site may be used by children under the age of 13. We ar
 |    
 |  **   **  
   
-Copyright (C)  2013 pakmet.com.pk All Rights Reserved
+Copyright (C)  2014 pakmet.com.pk All Rights Reserved
