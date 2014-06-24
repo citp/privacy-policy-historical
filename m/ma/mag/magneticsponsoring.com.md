@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magneticsponsoring.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205123724id_/http%3A//www.magneticsponsoring.com/compliance/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magneticsponsoring.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624104338id_/http%3A//www.magneticsponsoring.com/compliance/privacy.html) for the most accurate reproduction.*
 
 # Earnings and Income Disclaimers
 
@@ -76,7 +76,7 @@ Under California Law SB 27, California residents have the right to receive, once
 year, information about third parties with whom we have shared information about you   
 or your family for their marketing purposes during the previous calendar year, and a   
 description of the categories of personal information shared. To make such a request,   
-please send an e-mail to Privacy@PrivacyRequest.com and please include the phrase   
+please send an e-mail to support@magneticsponsoring.com and please include the phrase   
 "California Privacy Request" in the subject line, the domain name of the Web site you are inquiring about, along with your name, address, and e-mail address. We will respond to you within thirty days of receiving such a request. 
 
 "Cookies" and How Our Company Uses Them. A "cookie" is a small data file that can be placed on your hard drive when you visit certain Web sites. Our company may use cookies to collect, store, and sometimes track information for purposes stated herein as well as for statistical purposes to improve the Products and Services we provide and to manage our telecommunications networks. 
