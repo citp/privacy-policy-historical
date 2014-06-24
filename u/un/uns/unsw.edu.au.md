@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the unsw.edu.au privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224012702id_/http%3A//www.unsw.edu.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unsw.edu.au privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624041757id_/http%3A//www.unsw.edu.au/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | The University of New South Wales
+# Privacy Policy | UNSW Australia
 
 Personal information collected at the University of New South Wales ("UNSW") through UNSW websites is handled in accordance with the _Privacy and Personal Information Protection Act 1998 (NSW)_ ("the Act"). This UNSW Websites Privacy Statement describes the ways in which UNSW deals with personal information and other data collected through UNSW websites.
 
