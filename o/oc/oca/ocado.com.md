@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ocado.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512160140id_/http%3A//www.ocado.com/webshop/content/ws5/customerServices/policies/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ocado.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624035115id_/http%3A//www.ocado.com/webshop/content/ws5/customerServices/policies/privacypolicy) for the most accurate reproduction.*
 
 # Ocado: devoted to your shopping
 
 We know that by choosing Ocado to deliver your groceries, you've placed a great deal of trust in us. We also understand that you want the personal information you give us to be kept private as well as secure. To reassure you that we feel the same way, here's how we will and, more importantly, will not use the personal information you give us. 
 
-This Privacy Policy was most recently updated on 23rd May 2012. 
+This Privacy Policy was most recently updated on 12th June 2014. 
 
 ###  Information Collection 
 
@@ -18,7 +18,7 @@ The information we gather from customers helps us to continually improve the ser
 
 When you shop with Ocado, there are different ways we gather information about you: 
 
-  * When you register with us, we ask for information such as your name, e-mail address, delivery address, contact details and, if you place an order, your credit card details. We keep a record of this information. All this is necessary for us to recognise you as a registered customer and to fulfil the orders you place with us. Storing this information means you do not need to re-enter these details each time you shop. 
+  * When you register with us, we ask for information such as your name, e-mail address, delivery address, contact details and, if you place an order, your debit or credit card details. We keep a record of this information. All this is necessary for us to recognise you as a registered customer and to fulfil the orders you place with us. Storing this information means you do not need to re-enter these details each time you shop. 
   * We keep a record of your purchases with us, which means we can create lists of your favourite items to make your shopping experience quicker and more convenient. It also means we can deal a lot quicker with any problems you may experience with your order. 
   * We keep a record of any e-mail correspondence you send us. This helps us keep track of your likes and dislikes and any problems or concerns you've had with our products or services. 
   * Telephone calls made to our Customer Service Helpline may be recorded for monitoring and quality control purposes. 
@@ -27,7 +27,7 @@ When you shop with Ocado, there are different ways we gather information about y
 
 ###  How we use your personal information 
 
-All the information we collect via our website or through correspondence with you is used to operate and improve the service we offer you. We are committed to using your personal information only for: 
+All the information we collect via our website or through correspondence with you is used by members of the Ocado group to operate and improve the service we offer you. We are committed to using your personal information only for: 
 
   * Dealing with orders and accounts for the supply of our goods and services. 
   * Monitoring and improving the Ocado web site and our services. 
@@ -37,7 +37,7 @@ All the information we collect via our website or through correspondence with yo
   * Providing you with information about the products and services we offer. 
   * Providing you with periodic communications (this may be by post, telephone, SMS, email or as part of your Ocado grocery delivery) about features, products, services, events, promotions and special offers. Such communications from Ocado might include advertising for or offers from third parties (which we will pass on, on our partner's behalf. We will never pass your information outside of Ocado for marketing purposes). 
   * Assessing your request for delivery of groceries from us where we may make enquiries about you including searching your records held by organisations like Experian and Equifax and credit reference agencies. We may also check your details held by the IMRG Security Alert scheme and other fraud prevention schemes. 
-  * Enabling our debt collection agency to collect payment from you should that be necessary. 
+  * Enabling a debt collection agency to collect payment from you should that be necessary. 
   * Preventing and detecting fraud or abuses of our website. 
   * Allowing us to comply with any requirements imposed on Ocado by law or court order. 
 
@@ -101,7 +101,7 @@ We may change the terms of this Privacy Policy from time to time and you should 
 If you have questions about your personal information or our privacy policy, please contact us at [ privacy@ocado.com ](mailto:privacy@ocado.com). To see all the information we have about you, and to correct any inaccuracies, write to: 
 
 **The Company Secretary  
-Ocado Ltd.   
+Ocado Group plc   
 Titan Court,   
 Hatfield Business Park   
 Hatfield, AL10 9NE **
