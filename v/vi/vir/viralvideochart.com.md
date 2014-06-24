@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viralvideochart.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121151204id_/http%3A//www.unrulymedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralvideochart.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624051322id_/http%3A//www.unrulymedia.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Unruly
 
