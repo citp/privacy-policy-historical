@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gizmophiliacs.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213224356id_/http%3A//gizmophiliacs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gizmophiliacs.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624064456id_/http%3A//gizmophiliacs.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy PolicyGizmoPhiliacs
+# Privacy Policy | GizmoPhiliacs
 
 This Privacy Policy governs the manner in which Gizmophiliacs collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://gizmophiliacs.com](http://gizmophiliacs.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Gizmophiliacs.
 
