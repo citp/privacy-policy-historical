@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isitdownrightnow.com privacy policy that was archived on 2013-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131015070044id_/http%3A//www.isitdownrightnow.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isitdownrightnow.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624080340id_/http%3A//www.isitdownrightnow.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Is It Down Right Now
 
@@ -32,6 +32,8 @@ Server is up. Last checked 0 seconds ago.
 
 Server is up. Last checked 0 seconds ago.
 
+Server is up. Last checked 0 seconds ago.
+
 Server is down. Last checked 0 seconds ago.
 
 Server is down. Last checked 0 seconds ago.
@@ -41,5 +43,3 @@ Server is down. Last checked 0 seconds ago.
 Server is down. Last checked 1 min ago.
 
 Server is down. Last checked 1 min ago.
-
-Server is down. Last checked 2 mins ago.
