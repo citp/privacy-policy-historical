@@ -1,39 +1,17 @@
-> *The following text is extracted and transformed from the tradeindia.com privacy policy that was archived on 2002-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021010052608id_/http%3A//www.tradeindia.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradeindia.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624224919id_/http%3A//www.tradeindia.com/privacy_policy.html) for the most accurate reproduction.*
 
-# <<<Tradeindia.com>>>
+# 
 
-|  **Privacy**  
+  * Infocom Network Limited ( hereinafter known as INL or "the company") is the owner of several online marketplaces and portals like www.tradeindia.com, www.getdistributors.com etc collectively referred to as "site". This Privacy Policy governs your use of the site and the collection and use of your information by INL. We are committed to safeguarding users Privacy and this document sets out to make it clear how we are using your personal and business information and the ways with which you can protect your privacy. By using this site you consent to our Privacy Policy as set out in detail below and the same is applicable across all sites of the company. 
+  * The company stores temporarily or as an intermediary User information on computers that are protected by physical as well as technological security devices. The Company records the IP address(es) of each user of the Site and tracks it's Users by the use of "Clickstream Cookies" inter-alia in compliance with statutory regulations and for security reasons. If the user objects to any of this please do not use the site(s). 
+  * At the time of registration you are requested to complete a form providing us with information regarding your name, company name, address, email, telephone and other personal information as well as your business information. Further if you submit any information to be published on the site including but not limited to Company Profile, Product Catalog, Product Pictures, Trade Leads then you are deemed to have given your consent to the publication of such information. 
+  * By using the site you consent to the collection, storage and use of your browsing sequence on this website. We share this information with trusted 3rd parties only for the purpose of showing you marketing communications of interest. No personally identifiable information is shared except when the law requires so or it is permitted in terms of this policy. We do not otherwise sell, rent, trade or exchange any personally identifying information of our users. 
+  * In order to support many of the services that we provide on a free basis to our visitors we display advertisements based on usage trends and visitor statistics. User's personal and business information is used to serve targeted advertising through the companies websites, customized e-mailers, newsletters etc. Further once the users information is displayed on the websites the user may start receiving enquiries through SMS, Mails, Phone etc over which INL has no control. 
+  * We employ various security measures to prevent unauthorized access, maintain data accuracy and ensure proper use of information. These measures are both electronic as well as physical but at the same time no data transmission over the net can be guaranteed to be 100 % secure. Also it is advised to please keep in mind that the personal and business information posted online is accessible to the public and hence you may receive unsolicited communication from other parties. 
+  * INL respects your right to Opt Out. Google as a third party vendor uses cookies to serve ads on the site. Google's use of the DART cookies enables it and it's partners to serve ads to our Users based on their visits to our Websites and /or other sites on the net. Also analytics and on site personalization services are provided by Adobe as well as advertising services to help companies measure the use of their websites or tailor their online ads based on the likely interests of their users. 
 
-* * *
+In case you would like to Opt Out of these programs, please visit the links below:  
+<http://www.adobe.com/in/privacy/opt-out.html?button=Opt-Out>  
+<http://www.google.com/policies/privacy/ads/>
 
- We are committed to protecting your privacy. We use the in the information fwe collect about you to process orders and to provide a more personalized shopping experience. Please read on for more detail about our privacy policy.   
-
-  * **What information do we collect?**
-  * **How do we use it?**
-  * **How do we protect your information?**
-  * **Your consent.**
-
-What information do we collect?    
-
-When you order, we need to know your name, e-mail address, mailing address, credit card number and expiration date. This allows us to process and fulfill your orders and to notify you of your order status.  
-How do we use it?   
-
-We personalize your shopping experience by using your purchases to shape our recommendations about the other merchandise that might be of interest to you.  
-We also monitor customer traffic patterns and site usage to help us develop the design and layout of the store. 
-We may also use the information we collect to occasionally notify you about important functionality changes to the web site, new services and special offers we think you'll find valuable. 
-How do we protect your information?  
-
-When you place orders or access your account information, we offer the use of a secure server.   
-
-The secure server software (SSL) encrypts all information you input before it is sent to us. This prevents unauthorized access. 
-
-
-Your consent   
-
-By using our web site, you consent to the collection and use of this information by us. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.  
-We are committed to protecting your privacy. We use the information we collect on the site to make shopping at our site possible and also to enhance your overall shopping experience. We do not sell, trade or rent your personal information to others.   
-
-Tell Us What You Think   
-We welcome your questions and comments about privacy. Please send e-mail to : [crvenk@md2.vsnl.net.in](mailto:crvenk@md2.vsnl.net.in) 
-
-* * *
+Please note that this policy may be changed and or updated at future dates so do check periodically.
