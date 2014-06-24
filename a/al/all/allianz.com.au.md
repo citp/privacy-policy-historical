@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allianz.com.au privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217173429id_/http%3A//www.allianz.com.au/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allianz.com.au privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624063225id_/http%3A//www.allianz.com.au/about-us/privacy) for the most accurate reproduction.*
 
 # Personal Information Confidentiality - Privacy - Allianz Australia
 
@@ -119,7 +119,6 @@ In some instances, your personal information might be disclosed to other compani
 We do not disclose your personal (including sensitive) information to recipients outside of Australia when it is collected for the following insurance products:
 
   * life insurance; 
-  * consumer credit insurance; 
   * workers compensation insurance in New South Wales and Victoria; 
   * Treasury Managed Fund; and 
   * compulsory third party insurance in South Australia. 
