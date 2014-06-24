@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spirithalloween.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222153413id_/http%3A//www.spirithalloween.com/security-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spirithalloween.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624060316id_/http%3A//www.spirithalloween.com/security-privacy) for the most accurate reproduction.*
 
 # Security & Privacy
 
@@ -26,6 +26,8 @@ _General_
   * Spirit collects information about your transactions with us and with some of our business partners, including information about your use of financial products and services that we offer. 
   * Spirit uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients. 
   * _Spirit has arranged with  PowerReviews, Inc. (d/b/a Buzzillions) ("PowerReviews") to facilitate the  collection of customer product reviews on products sold by Spirit. When you submit a product review to Spirit, you  are also subject to PowerReviews' terms of use and privacy policies (see <http://www.buzzillions.com/public/legal/privacy_policy_en_US.html>). Accordingly, you should review those policies prior to submitting a review. Also, reviews you submit may be posted on both <http://www.buzzillions.com/> and our site. _
+  * _Because we use your personal information that we collect to conduct our business, our websites do not respond to “Do Not Track” requests, or other similar mechanisms.  
+_
 
 
 
