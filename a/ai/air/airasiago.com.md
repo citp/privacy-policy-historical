@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airasiago.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212225603id_/http%3A//www.airasia.com/my/en/privacy-policy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airasiago.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624195506id_/http%3A//www.airasia.com/my/en/privacy-policy.page) for the most accurate reproduction.*
 
 # AirAsia | Privacy policy
 
@@ -17,17 +17,18 @@ To ensure that we successfully process your booking and to effectively manage ou
   * From you; when you voluntarily provide to us or to third party service provider(s) engaged by us; 
   * From your browser; when you visit our website and your browser interacts with us; 
   * From other sources and related links in connection with providing your transportation and/or accommodation needs and services; 
+  * From you when you interact with us through social media 
 
 
 
 The personal information we collect about you may include but not limited to the following:
 
   * Name, addresses and telephone numbers 
-  * Email addresses, fax numbers and mobile numbers 
+  * Email addresses, fax numbers and mobile numbers or social media accounts 
   * Flight information or details 
   * Credit / Charge card number(s), including associated billing address(es) and expiration date(s) 
   * Information necessary to facilitate travel or other services, including travel companion(s) names, emergency contacts, seating preferences and special dietary or medical needs 
-  * Passport number, nationality and country of residence 
+  * Passport number, NRIC number, nationality and country of residence 
   * Use of products and services such as self-service devices, flight status notification and online check-in 
   * Personal information provided via survey, contest, competition or other marketing research efforts 
   * Personal information provided to customer-service representatives to research and resolve issues or questions or lodging complain 
@@ -42,6 +43,8 @@ With the latest creation of our very own Corporate Blog, we would collect your i
 Use of information collection  
   
 Generally, we use your information for administrative purpose e.g. processing, confirming, fulfilling and completing your transactions and requests for our services. In the event there is alteration / change of flight schedule, we will use information provided by you while making your reservation through our official website @ [www.airasia.com](http://www.airasia.com/), our call centre, our sales counter, to contact and notify you of the alteration / change. In addition to this, your information will be used for the purposes of accounting (billing and auditing), immigration, custom control, safety, security, statistical and marketing analysis, information systems management, system testing, maintenance and development, operational, support, customer surveys, customer relations and to improve and help us in any future dealings with you, for example by identifying your requirements and preferences.
+
+If you have elected to be a member, you will also be a participant in the AirAsia BIG Loyalty Programme which is administered by our affiliate Think Big Digital Sdn Bhd. In such cases, your personal information will also be used to administer your membership and offer you the perks which you are eligible for under this Programme.
 
 In employment scenario, we would use information that you voluntarily provide to compare against the job specification / criteria we are seeking / intending to employ.
 
@@ -60,6 +63,7 @@ Personal information we collect from you may be disclosed to:
   * our bank for authorisation of transaction and for payment 
   * relevant third parties eg. booking agents and hotels 
   * authorised government bodies if legally required to do 
+  * our subsidiaries and affiliates who may be located in or outside Malaysia.
 
 
 
@@ -73,21 +77,29 @@ Information of children under the age of 13 would only be collected to facilitat
 
 If you are a Parent of Guardian of someone under 13 years old who has provided us information without your knowledge and consent, you may request that we remove this information by contacting us at [online feedback form](https://web.archive.org/my/en/e-form.page).  
   
+Access to your personal information  
+  
+You may access your personal information by [Manage My Booking](https://member.airasia.com/login.aspx) or our [online feedback form](https://web.archive.org/my/en/e-form.page) .  
+  
 Correction/updating personal information  
   
-The instructions to do this are clearly outlined in every piece of promotional material issued by AirAsia. 
+You may correct or update your personal information by clicking [Manage My Booking](https://member.airasia.com/login.aspx) and/or via our [online feedback form](https://web.archive.org/my/en/e-form.page).
 
-Links to other sites AirAsia web site contains links to other sites. Please be aware that we are not responsible for the privacy practices or content of those sites. We encourage you to read the privacy statements of each site that collects information from you. AirAsia's privacy policy applies solely to information collected by AirAsia on this web site.  
+The instructions to do this are also clearly outlined in every piece of promotional material issued by AirAsia.  
+  
+Links to other sites  
+  
+AirAsia web site contains links to other sites. Please be aware that we are not responsible for the privacy practices or content of those sites. We encourage you to read the privacy statements of each site that collects information from you. AirAsia's privacy policy applies solely to information collected by AirAsia on this web site.  
   
 Newsletter  
   
-By joining the AirAsia email update service, you expressed your agreement for us to contact you via email to inform you of our latest updates, products and services. If you do not wish to remain a subscriber, you are able to remove your details from the subscriptions list via our website.  
+By joining the AirAsia email update service, you expressed your agreement for us to contact you via email to inform you of our latest updates, products and services. If you do not wish to remain a subscriber, you are able to remove your details from the subscriptions list by [Manage My Booking](https://member.airasia.com/login.aspx) or you may click “unsubscribe” from every newsletter you received.  
   
 Contests & surveys  
   
 From time-to-time AirAsia may provide you the opportunity to participate in surveys or contests on our site. If you participate, we will request certain personally identifiable information from you. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (e.g. name and address).
 
- We use this information to update contest participants, notify contest winners, and award prizes and improve the site experience for our Customers where information would be collected in anonymous survey basis.
+  We use this information to update contest participants, notify contest winners, and award prizes and improve the site experience for our Customers where information would be collected in anonymous survey basis.
 
 We often use a third party service provider to conduct these surveys or contests; these companies are prohibited from using our users’ personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.  
   
@@ -119,11 +131,15 @@ We use IP addresses to analyse trends, administer the site, track user's movemen
   
 Your consent  
   
-In using the AirAsia web site, you consent to the collection and use of this information by AirAsia Berhad in the ways described above (which may change from time to time) unless and until you inform us to the contrary by following the instructions contained in our website.  
+AirAsia or any third party service provides engaged by us will obtain your consent to collect and use your personal information at the time of collection, subject to certain legally prescribed circumstances where your consent is not required.
+
+Generally, in using the AirAsia web site, you consent to the collection and use of this information by AirAsia in the ways described above (which may change from time to time) unless and until you inform us to the contrary. , If you have provided us personal information of third party individuals in your travel party, you are required to obtain the individual's prior consent and you represent and warrant that you had or have their consent or are otherwise entitled to provide their personal information to us.
+
+In most instances, it is obligatory for you to provide us with your personal information in order to allow us to satisfy your request or provide you with the service that you have requested for. However, where applicable, we will provide you with an avenue to opt-out or unsubscribe from receiving marketing, communications, promotional offers, newsletters or any other communications from AirAsia.  
   
 Contact information  
   
-If you still have questions about our privacy policy, please visit Frequently Asked Questions on our web site. We request your name, phone number, email address and comments so that we may respond to your concerns effectively and work to improve our service.  
+If you still have questions about our privacy policy, please visit Frequently Asked Questions on our web site where you may submit any questions or complaints you may have. We request your name, phone number, email address and comments so that we may respond to your concerns effectively and work to improve our service. If you have any additional concerns relating to AirAsia's collection and use of your personal information, you may  contact our Privacy Compliance Officer at [airasia_privacycompliance@airasia.com](mailto:airasia_privacycompliance@airasia.com). or contact us at +603 8660 4333.  
   
 Our acceptable use policy / website disclaimer  
   
