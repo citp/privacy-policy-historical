@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the wpexplorer.com privacy policy that was archived on 2013-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131005153442id_/http%3A//www.wpexplorer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpexplorer.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624030103id_/http%3A//www.wpexplorer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-## **Privacy Policy for www.wpexplorer.com**
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at sympleworkz[at]gmail[dot]com.
 
