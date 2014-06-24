@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the laughtertab.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213083928id_/http%3A//laughtertab.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laughtertab.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625001920id_/http%3A//laughtertab.com/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy : Laughter Tab
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at info@laughtertab.com
 
@@ -21,31 +21,32 @@ Some of our advertising partners may use cookies and web beacons on our site. Ou
 
   * –Rubicon Project
 
-–Lijit FM
+  * –Lijit FM
 
-–OpenX Market Supply
+  * –OpenX Market Supply
 
-–Pulse Point
+  * –Pulse Point
 
-–Qadabra
+  * –Qadabra
 
-–CPM Star
+  * –CPM Star
 
-–Criteo Market
+  * –Criteo Market
 
-–MGID
+  * –MGID
 
-–Sonobi Media
+  * –Sonobi Media
 
-–MadAdsMedia
+  * –MadAdsMedia
 
-–Q1 Media
+  * –Q1 Media
 
-–Google Adsense
+  * –Google Adsense
+  * –152 Media
 
-–CPX Interactive
+  * –CPX Interactive
 
-–Google DFP
+  * –Google DFP
 
 
 
