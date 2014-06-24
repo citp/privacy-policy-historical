@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mnn.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227051402id_/http%3A//www.mnn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mnn.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624141951id_/http%3A//www.mnn.com/privacy) for the most accurate reproduction.*
 
 # Privacy | MNN - Mother Nature Network
 
