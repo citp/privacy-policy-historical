@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weddingchannel.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207173443id_/http%3A//weddings.weddingchannel.com/advertising-promotion-partnership-opportunities/privacy-policy/articles/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddingchannel.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624054041id_/http%3A//weddings.weddingchannel.com/advertising-promotion-partnership-opportunities/privacy-policy/articles/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # WeddingChannel.com Privacy Policy - Your Privacy Rights
 
