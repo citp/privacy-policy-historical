@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the pluralsight.com privacy policy that was archived on 2013-10-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131012012052id_/http%3A//www.pluralsight.com/training/About/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pluralsight.com privacy policy that was archived on 2014-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140624023207id_/http%3A//pluralsight.com/training/About/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-us" itemscope="" itemtype="http://schema.org/Product" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml"><head>
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge"><script type="text/javascript" async="" src="//widget.uservoice.com/MgRuFTmArYOqweeXBEbikg.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TBT42N"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"beacon-3.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"2700af8a3c","applicationID":"1904576","transactionName":"Z1ZRN0EDCEMDABVYWl4cdwxHLANEIQwPRUdfX18GQU0nUg0WFR5lQlpFAlAb","queueTime":0,"applicationTime":57,"ttGuid":"A40CC697586A0F96","agent":"js-agent.newrelic.com/nr-411.min.js"}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwUGVl5VGwIJVFVXAAc="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
         <link rel="icon" href="/favicon.ico" type="image/x-icon">
         <meta property="fb:admins" content="593788523">
         <meta property="og:locale" content="en_US">
@@ -11,7 +11,10 @@
     
 
         <title>Privacy</title>
-            <link href="http://s.pluralsight.com/mn/css/ag/psminified.min-vb0a8b7fbf6d0d929565b84002b148ca4ff07f759.css" rel="stylesheet" type="text/css">
+            <link href="http://s.pluralsight.com/mn/css/ag/psminified.min-ve2aeeb66903555bcea75878ab9437446de47564f.css" rel="stylesheet" type="text/css">
+        
+        <link href="//fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">
+        
         
         <meta name="google-site-verification" content="_cvrv6mat5GZ0mKcbRiNv9eqNi76R11BRgHBIj0_OcQ">
         
@@ -21,34 +24,63 @@
     <link rel="stylesheet" type="text/css" href="http://s.pluralsight.com/mn/css/sh/secondary-v8.css">
     
 
-            <script type="text/javascript" async="" src="//widget.uservoice.com/MgRuFTmArYOqweeXBEbikg.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://s.pluralsight.com/mn/js/ag/psminified.min-v79543df60531c2187889ba9030b0c4defabc7563.js" type="text/javascript"> </script>
+            <script src="http://s.pluralsight.com/mn/js/ag/psminified.min-v500a2d681ea76d2e23daa36ab70e8fc906dd9166.js" type="text/javascript"> </script>
         <script type="text/javascript" src="//use.typekit.com/ugj2rjz.js"> </script>
-        <script type="text/javascript"> try {
-                                  Typekit.load();
-                              } catch(e) {
-                              }</script>
+        <script type="text/javascript">
+            try {
+                Typekit.load();
+            } catch(e) {
+            }
+        </script>
 
         
     
 
-    
-        <script type="text/javascript">
-            var _gaq = _gaq || [];
-            _gaq.push(['_setAccount', 'UA-5643470-2']);
-            _gaq.push(['_trackPageview']);
+            <script src="//cdn.optimizely.com/js/1252788015.js"></script>
 
-            (function() {
-                var ga = document.createElement('script');
-                ga.type = 'text/javascript';
-                ga.async = true;
-                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-                var s = document.getElementsByTagName('script')[0];
-                s.parentNode.insertBefore(ga, s);
-            })();
-
-        </script>
-    <script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+    <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
     <body>
+        
+<!-- Google Tag Manager -->
+<noscript>
+    <iframe src="//www.googletagmanager.com/ns.html?id=GTM-TBT42N" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<script>
+    (function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });
+        var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s),
+            dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src = '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-TBT42N');
+</script>
+<!-- End Google Tag Manager -->
+
+        
+<div id="dt-integration-header" class="header_site dt-integration header_site_header">
+    <div class="clearfix">
+
+        <div class="header_toggle_site clearfix padding left">
+            <ul>
+                <li class="current">Pluralsight</li>
+                <li><a href="http://www.digitaltutors.com">Digital-Tutors</a></li>
+            </ul>
+        </div>
+        <div class="item padding right">
+            <ul>
+                    <li id="beta-toggle-off">
+                        <a href="http://beta.pluralsight.com">
+                            <img src="//s.pluralsight.com/mn/img/lo/beta_off-v1.png" title="Toggle Beta On">    
+                        </a>
+                    </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
         <input type="hidden" id="pageObjectTag" value="">
         <div class="wrap">
             <div id="stageHeader">
@@ -63,13 +95,13 @@
             <div id="header">
                 <div class="logo">
                     <a href="/training/">
-                        <img src="//s.pluralsight.com/mn/img/sh/logo-v4.png" alt="Pluralsight - Hardcore Developer and IT Training">
+                        <img width="162" src="//s.pluralsight.com/mn/img/sh/logo-v6.png" alt="Pluralsight - Hardcore Developer and IT Training">
                     </a>
                 </div>
                 
 
     <div class="linkContainer">
-        <a class="loginStatus" href="/training/Login?returnUrl=%2Ftraining%2FAbout%2FPrivacy&amp;failedCaptcha=False">Sign in</a>
+        <a class="loginStatus" href="/training/Login?returnUrl=http%3A%2F%2Fpluralsight.com%2Ftraining%2FAbout%2FPrivacy&amp;failedCaptcha=False">Sign in</a>
     </div>
 
                 <div class="nav">
@@ -101,7 +133,11 @@
         <div style="float: left;">
                 <div class="menuItem" data-url="/training/Courses#dotnet">
                     <div class="left">.NET</div>
-                    <div class="right">26 courses</div>
+                    <div class="right">42 courses</div>
+                </div>
+                <div class="menuItem" data-url="/training/Courses#adobe">
+                    <div class="left">Adobe</div>
+                    <div class="right">1 course</div>
                 </div>
                 <div class="menuItem" data-url="/training/Courses#amazon-web-services">
                     <div class="left">Amazon Web Services</div>
@@ -109,7 +145,7 @@
                 </div>
                 <div class="menuItem" data-url="/training/Courses#android">
                     <div class="left">Android</div>
-                    <div class="right">12 courses</div>
+                    <div class="right">16 courses</div>
                 </div>
                 <div class="menuItem" data-url="/training/Courses#aop">
                     <div class="left">AOP</div>
@@ -121,35 +157,35 @@
                 </div>
                 <div class="menuItem" data-url="/training/Courses#aspdotnet">
                     <div class="left">ASP.NET</div>
-                    <div class="right">40 courses</div>
+                    <div class="right">54 courses</div>
                 </div>
                 <div class="menuItem" data-url="/training/Courses#beginner-programming">
                     <div class="left">Beginner Programming</div>
-                    <div class="right">11 courses</div>
+                    <div class="right">13 courses</div>
                 </div>
                 <div class="menuItem" data-url="/training/Courses#big-data">
                     <div class="left">Big Data</div>
-                    <div class="right">2 courses</div>
+                    <div class="right">5 courses</div>
                 </div>
                 <div class="menuItem" data-url="/training/Courses#biztalk">
                     <div class="left">BizTalk</div>
-                    <div class="right">10 courses</div>
+                    <div class="right">12 courses</div>
                 </div>
                 <div class="menuItem" data-url="/training/Courses#business-intelligence">
                     <div class="left">Business Intelligence</div>
-                    <div class="right">20 courses</div>
+                    <div class="right">23 courses</div>
                 </div>
                 <div class="menuItem" data-url="/training/Courses#csharp">
                     <div class="left">C#</div>
-                    <div class="right">14 courses</div>
+                    <div class="right">27 courses</div>
                 </div>
                 <div class="menuItem" data-url="/training/Courses#cpp">
                     <div class="left">C++</div>
-                    <div class="right">11 courses</div>
+                    <div class="right">20 courses</div>
                 </div>
                 <div class="menuItem" data-url="/training/Courses#careers">
                     <div class="left">Careers</div>
-                    <div class="right">11 courses</div>
+                    <div class="right">27 courses</div>
                 </div>
                 <div class="menuItem" data-url="/training/Courses#cloud-computing">
                     <div class="left">Cloud Computing</div>
@@ -157,35 +193,43 @@
                 </div>
                 <div class="menuItem" data-url="/training/Courses#computer-science">
                     <div class="left">Computer Science</div>
-                    <div class="right">1 course</div>
+                    <div class="right">6 courses</div>
                 </div>
                 <div class="menuItem" data-url="/training/Courses#cms">
                     <div class="left">Content Management Systems</div>
-                    <div class="right">1 course</div>
+                    <div class="right">6 courses</div>
                 </div>
                 <div class="menuItem" data-url="/training/Courses#css">
                     <div class="left">CSS</div>
-                    <div class="right">5 courses</div>
+                    <div class="right">7 courses</div>
+                </div>
+                <div class="menuItem" data-url="/training/Courses#databases">
+                    <div class="left">Databases</div>
+                    <div class="right">7 courses</div>
                 </div>
                 <div class="menuItem" data-url="/training/Courses#debugging">
                     <div class="left">Debugging</div>
-                    <div class="right">14 courses</div>
+                    <div class="right">17 courses</div>
                 </div>
                 <div class="menuItem" data-url="/training/Courses#deployment">
                     <div class="left">Deployment</div>
-                    <div class="right">1 course</div>
+                    <div class="right">3 courses</div>
                 </div>
                 <div class="menuItem" data-url="/training/Courses#digital-audio">
                     <div class="left">Digital Audio</div>
-                    <div class="right">1 course</div>
+                    <div class="right">2 courses</div>
+                </div>
+                <div class="menuItem" data-url="/training/Courses#drupal">
+                    <div class="left">Drupal</div>
+                    <div class="right">5 courses</div>
                 </div>
                 <div class="menuItem" data-url="/training/Courses#dynamics-crm">
                     <div class="left">Dynamics CRM</div>
-                    <div class="right">6 courses</div>
+                    <div class="right">8 courses</div>
                 </div>
                 <div class="menuItem" data-url="/training/Courses#eclipse">
                     <div class="left">Eclipse</div>
-                    <div class="right">1 course</div>
+                    <div class="right">2 courses</div>
                 </div>
                 <div class="menuItem" data-url="/training/Courses#enterprise-library">
                     <div class="left">Enterprise Library</div>
@@ -195,21 +239,29 @@
                     <div class="left">Entity Framework</div>
                     <div class="right">10 courses</div>
                 </div>
+                <div class="menuItem" data-url="/training/Courses#erp">
+                    <div class="left">ERP</div>
+                    <div class="right">1 course</div>
+                </div>
                 <div class="menuItem" data-url="/training/Courses#exchange-server">
                     <div class="left">Exchange Server</div>
-                    <div class="right">14 courses</div>
+                    <div class="right">36 courses</div>
+                </div>
+                <div class="menuItem" data-url="/training/Courses#f-sharp">
+                    <div class="left">F#</div>
+                    <div class="right">2 courses</div>
                 </div>
                 <div class="menuItem" data-url="/training/Courses#google">
                     <div class="left">Google</div>
-                    <div class="right">5 courses</div>
+                    <div class="right">8 courses</div>
                 </div>
                 <div class="menuItem" data-url="/training/Courses#hardware">
                     <div class="left">Hardware</div>
-                    <div class="right">11 courses</div>
+                    <div class="right">13 courses</div>
                 </div>
                 <div class="menuItem" data-url="/training/Courses#html-5">
                     <div class="left">HTML5</div>
-                    <div class="right">12 courses</div>
+                    <div class="right">18 courses</div>
                 </div>
                 <div class="menuItem" data-url="/training/Courses#http">
                     <div class="left">HTTP</div>
@@ -223,31 +275,35 @@
         <div style="float: left;">
                 <div class="menuItem" data-url="/training/Courses#ios">
                     <div class="left">iOS</div>
-                    <div class="right">13 courses</div>
+                    <div class="right">20 courses</div>
                 </div>
                 <div class="menuItem" data-url="/training/Courses#it-administration">
                     <div class="left">IT Administration</div>
-                    <div class="right">3 courses</div>
+                    <div class="right">13 courses</div>
                 </div>
                 <div class="menuItem" data-url="/training/Courses#java">
                     <div class="left">Java</div>
-                    <div class="right">13 courses</div>
+                    <div class="right">24 courses</div>
                 </div>
                 <div class="menuItem" data-url="/training/Courses#javascript">
                     <div class="left">JavaScript</div>
-                    <div class="right">34 courses</div>
+                    <div class="right">67 courses</div>
                 </div>
                 <div class="menuItem" data-url="/training/Courses#jquery">
                     <div class="left">jQuery</div>
-                    <div class="right">8 courses</div>
+                    <div class="right">12 courses</div>
                 </div>
                 <div class="menuItem" data-url="/training/Courses#lightswitch">
                     <div class="left">Lightswitch</div>
-                    <div class="right">2 courses</div>
+                    <div class="right">3 courses</div>
                 </div>
                 <div class="menuItem" data-url="/training/Courses#linq">
                     <div class="left">LINQ</div>
                     <div class="right">5 courses</div>
+                </div>
+                <div class="menuItem" data-url="/training/Courses#linux">
+                    <div class="left">Linux</div>
+                    <div class="right">7 courses</div>
                 </div>
                 <div class="menuItem" data-url="/training/Courses#lync-server">
                     <div class="left">Lync Server</div>
@@ -255,11 +311,11 @@
                 </div>
                 <div class="menuItem" data-url="/training/Courses#microsoft-office">
                     <div class="left">Microsoft Office</div>
-                    <div class="right">6 courses</div>
+                    <div class="right">45 courses</div>
                 </div>
                 <div class="menuItem" data-url="/training/Courses#mobile-frameworks">
                     <div class="left">Mobile Frameworks</div>
-                    <div class="right">3 courses</div>
+                    <div class="right">11 courses</div>
                 </div>
                 <div class="menuItem" data-url="/training/Courses#mono">
                     <div class="left">Mono</div>
@@ -271,11 +327,11 @@
                 </div>
                 <div class="menuItem" data-url="/training/Courses#mysql">
                     <div class="left">MySQL</div>
-                    <div class="right">3 courses</div>
+                    <div class="right">7 courses</div>
                 </div>
                 <div class="menuItem" data-url="/training/Courses#networking">
                     <div class="left">Networking</div>
-                    <div class="right">27 courses</div>
+                    <div class="right">48 courses</div>
                 </div>
                 <div class="menuItem" data-url="/training/Courses#nhibernate">
                     <div class="left">NHibernate</div>
@@ -283,11 +339,11 @@
                 </div>
                 <div class="menuItem" data-url="/training/Courses#nodejs">
                     <div class="left">NodeJS</div>
-                    <div class="right">6 courses</div>
+                    <div class="right">7 courses</div>
                 </div>
                 <div class="menuItem" data-url="/training/Courses#nosql">
                     <div class="left">NoSQL</div>
-                    <div class="right">5 courses</div>
+                    <div class="right">7 courses</div>
                 </div>
                 <div class="menuItem" data-url="/training/Courses#numerical-computation">
                     <div class="left">Numerical Computation</div>
@@ -297,37 +353,45 @@
                     <div class="left">OData</div>
                     <div class="right">2 courses</div>
                 </div>
+                <div class="menuItem" data-url="/training/Courses#oracle">
+                    <div class="left">Oracle</div>
+                    <div class="right">5 courses</div>
+                </div>
                 <div class="menuItem" data-url="/training/Courses#performance">
                     <div class="left">Performance</div>
-                    <div class="right">2 courses</div>
+                    <div class="right">3 courses</div>
                 </div>
                 <div class="menuItem" data-url="/training/Courses#photoshop">
                     <div class="left">Photoshop</div>
-                    <div class="right">2 courses</div>
+                    <div class="right">4 courses</div>
                 </div>
                 <div class="menuItem" data-url="/training/Courses#php">
                     <div class="left">PHP</div>
-                    <div class="right">1 course</div>
+                    <div class="right">5 courses</div>
                 </div>
                 <div class="menuItem" data-url="/training/Courses#powershell">
                     <div class="left">PowerShell</div>
-                    <div class="right">21 courses</div>
+                    <div class="right">25 courses</div>
                 </div>
                 <div class="menuItem" data-url="/training/Courses#productivity">
                     <div class="left">Productivity</div>
-                    <div class="right">1 course</div>
+                    <div class="right">6 courses</div>
                 </div>
                 <div class="menuItem" data-url="/training/Courses#programming-languages">
                     <div class="left">Programming Languages</div>
-                    <div class="right">12 courses</div>
+                    <div class="right">16 courses</div>
                 </div>
                 <div class="menuItem" data-url="/training/Courses#python">
                     <div class="left">Python</div>
-                    <div class="right">1 course</div>
+                    <div class="right">5 courses</div>
                 </div>
                 <div class="menuItem" data-url="/training/Courses#ruby">
                     <div class="left">Ruby</div>
-                    <div class="right">10 courses</div>
+                    <div class="right">23 courses</div>
+                </div>
+                <div class="menuItem" data-url="/training/Courses#ruby-on-rails">
+                    <div class="left">Ruby on Rails</div>
+                    <div class="right">9 courses</div>
                 </div>
                 <div class="menuItem" data-url="/training/Courses#salesforce">
                     <div class="left">Salesforce</div>
@@ -335,73 +399,73 @@
                 </div>
                 <div class="menuItem" data-url="/training/Courses#security">
                     <div class="left">Security</div>
-                    <div class="right">17 courses</div>
+                    <div class="right">29 courses</div>
                 </div>
                 <div class="menuItem" data-url="/training/Courses#sharepoint">
                     <div class="left">SharePoint</div>
-                    <div class="right">84 courses</div>
+                    <div class="right">102 courses</div>
                 </div>
-        </div>
-        <div style="float: left;">
                 <div class="menuItem" data-url="/training/Courses#silverlight">
                     <div class="left">Silverlight</div>
                     <div class="right">8 courses</div>
                 </div>
                 <div class="menuItem" data-url="/training/Courses#social-media">
                     <div class="left">Social Media</div>
-                    <div class="right">17 courses</div>
+                    <div class="right">15 courses</div>
                 </div>
+        </div>
+        <div style="float: left;">
                 <div class="menuItem" data-url="/training/Courses#software-practices">
                     <div class="left">Software Practices</div>
-                    <div class="right">41 courses</div>
+                    <div class="right">55 courses</div>
                 </div>
                 <div class="menuItem" data-url="/training/Courses#source-control">
                     <div class="left">Source Control</div>
-                    <div class="right">5 courses</div>
+                    <div class="right">8 courses</div>
                 </div>
                 <div class="menuItem" data-url="/training/Courses#sql">
                     <div class="left">SQL</div>
-                    <div class="right">1 course</div>
+                    <div class="right">2 courses</div>
                 </div>
                 <div class="menuItem" data-url="/training/Courses#sql-server">
                     <div class="left">SQL Server</div>
-                    <div class="right">35 courses</div>
+                    <div class="right">63 courses</div>
                 </div>
                 <div class="menuItem" data-url="/training/Courses#storage">
                     <div class="left">Storage</div>
-                    <div class="right">2 courses</div>
+                    <div class="right">6 courses</div>
                 </div>
                 <div class="menuItem" data-url="/training/Courses#system-center">
                     <div class="left">System Center</div>
-                    <div class="right">12 courses</div>
+                    <div class="right">18 courses</div>
                 </div>
                 <div class="menuItem" data-url="/training/Courses#tfs">
                     <div class="left">TFS</div>
-                    <div class="right">9 courses</div>
+                    <div class="right">11 courses</div>
                 </div>
                 <div class="menuItem" data-url="/training/Courses#unix">
                     <div class="left">Unix</div>
-                    <div class="right">2 courses</div>
+                    <div class="right">4 courses</div>
                 </div>
                 <div class="menuItem" data-url="/training/Courses#ux-design">
                     <div class="left">UX Design</div>
-                    <div class="right">5 courses</div>
+                    <div class="right">7 courses</div>
                 </div>
                 <div class="menuItem" data-url="/training/Courses#virtualization">
                     <div class="left">Virtualization</div>
-                    <div class="right">70 courses</div>
+                    <div class="right">93 courses</div>
                 </div>
                 <div class="menuItem" data-url="/training/Courses#visual-studio">
                     <div class="left">Visual Studio</div>
-                    <div class="right">21 courses</div>
+                    <div class="right">28 courses</div>
                 </div>
                 <div class="menuItem" data-url="/training/Courses#wcf">
                     <div class="left">WCF</div>
-                    <div class="right">8 courses</div>
+                    <div class="right">9 courses</div>
                 </div>
                 <div class="menuItem" data-url="/training/Courses#web-frameworks">
                     <div class="left">Web Frameworks</div>
-                    <div class="right">5 courses</div>
+                    <div class="right">6 courses</div>
                 </div>
                 <div class="menuItem" data-url="/training/Courses#wf">
                     <div class="left">WF</div>
@@ -409,35 +473,51 @@
                 </div>
                 <div class="menuItem" data-url="/training/Courses#windows-7">
                     <div class="left">Windows 7</div>
-                    <div class="right">10 courses</div>
+                    <div class="right">12 courses</div>
                 </div>
                 <div class="menuItem" data-url="/training/Courses#windows-8">
                     <div class="left">Windows 8</div>
-                    <div class="right">35 courses</div>
+                    <div class="right">37 courses</div>
                 </div>
                 <div class="menuItem" data-url="/training/Courses#windows-azure">
                     <div class="left">Windows Azure</div>
-                    <div class="right">17 courses</div>
+                    <div class="right">24 courses</div>
                 </div>
                 <div class="menuItem" data-url="/training/Courses#windows-embedded">
                     <div class="left">Windows Embedded</div>
-                    <div class="right">2 courses</div>
+                    <div class="right">4 courses</div>
                 </div>
                 <div class="menuItem" data-url="/training/Courses#windows-phone">
                     <div class="left">Windows Phone</div>
-                    <div class="right">10 courses</div>
+                    <div class="right">13 courses</div>
                 </div>
                 <div class="menuItem" data-url="/training/Courses#windows-server">
                     <div class="left">Windows Server</div>
-                    <div class="right">20 courses</div>
+                    <div class="right">83 courses</div>
+                </div>
+                <div class="menuItem" data-url="/training/Courses#windows-vista">
+                    <div class="left">Windows Vista</div>
+                    <div class="right">4 courses</div>
+                </div>
+                <div class="menuItem" data-url="/training/Courses#windows-xp">
+                    <div class="left">Windows XP</div>
+                    <div class="right">4 courses</div>
+                </div>
+                <div class="menuItem" data-url="/training/Courses#wordpress">
+                    <div class="left">WordPress</div>
+                    <div class="right">8 courses</div>
                 </div>
                 <div class="menuItem" data-url="/training/Courses#wpf">
                     <div class="left">WPF</div>
-                    <div class="right">9 courses</div>
+                    <div class="right">11 courses</div>
+                </div>
+                <div class="menuItem" data-url="/training/Courses#xaml">
+                    <div class="left">XAML</div>
+                    <div class="right">3 courses</div>
                 </div>
                 <div class="menuItem" data-url="/training/Courses#xml">
                     <div class="left">XML</div>
-                    <div class="right">3 courses</div>
+                    <div class="right">5 courses</div>
                 </div>
         </div>
 </div>
@@ -445,69 +525,69 @@
     <div class="topCourses">
         <a class="menuItem" href="/training/Courses/TopCourses">View top 100 leaderboard</a>
     </div>
-<a class="menuItem" href="/training/Courses/TableOfContents/csharp-fundamentals" title="1 - C# Fundamentals - Part 1">1 - C# Fundamentals - Part 1</a><a class="menuItem" href="/training/Courses/TableOfContents/angularjs-fundamentals" title="2 - AngularJS Fundamentals">2 - AngularJS Fundamentals</a><a class="menuItem" href="/training/Courses/TableOfContents/implementing-restful-aspdotnet-web-api" title="3 - Implementing an API in ASP.NET Web API">3 - Implementing an API in ASP.NET Web API</a><a class="menuItem" href="/training/Courses/TableOfContents/csharp-generics" title="4 - C# Generics">4 - C# Generics</a><a class="menuItem" href="/training/Courses/TableOfContents/mvc4-building" title="5 - Building Applications with ASP.NET MVC 4">5 - Building Applications with ASP.NET MVC 4</a><a class="menuItem" href="/training/Courses/TableOfContents/jquery-fundamentals" title="6 - jQuery Fundamentals">6 - jQuery Fundamentals</a><a class="menuItem" href="/training/Courses/TableOfContents/mvc4" title="7 - ASP.NET MVC 4 Fundamentals">7 - ASP.NET MVC 4 Fundamentals</a><a class="menuItem" href="/training/Courses/TableOfContents/building-multi-client-end-to-end-service-oriented-applications" title="8 - Building End-to-End Multi-Client Service Oriented Applications">8 - Building End-to-End Multi-Client Service Or...</a><a class="menuItem" href="/training/Courses/TableOfContents/patterns-library" title="9 - Design Patterns Library">9 - Design Patterns Library</a><a class="menuItem" href="/training/Courses/TableOfContents/csharp-from-scratch" title="10 - C# From Scratch">10 - C# From Scratch</a></div>
+<a class="menuItem" href="/training/Courses/TableOfContents/angularjs-get-started" title="1 - AngularJS: Get Started">1 - AngularJS: Get Started</a><a class="menuItem" href="/training/Courses/TableOfContents/angularjs-fundamentals" title="2 - AngularJS Fundamentals">2 - AngularJS Fundamentals</a><a class="menuItem" href="/training/Courses/TableOfContents/mvc4-building" title="3 - Building Applications with ASP.NET MVC 4">3 - Building Applications with ASP.NET MVC 4</a><a class="menuItem" href="/training/Courses/TableOfContents/csharp-fundamentals-csharp5" title="4 - C# Fundamentals with C# 5.0">4 - C# Fundamentals with C# 5.0</a><a class="menuItem" href="/training/Courses/TableOfContents/jquery-fundamentals" title="5 - jQuery Fundamentals">5 - jQuery Fundamentals</a><a class="menuItem" href="/training/Courses/TableOfContents/aspdotnet-mvc5-fundamentals" title="6 - ASP.NET MVC 5 Fundamentals">6 - ASP.NET MVC 5 Fundamentals</a><a class="menuItem" href="/training/Courses/TableOfContents/mvc4" title="7 - ASP.NET MVC 4 Fundamentals">7 - ASP.NET MVC 4 Fundamentals</a><a class="menuItem" href="/training/Courses/TableOfContents/csharp-fundamentals" title="8 - Accelerated C# Fundamentals">8 - Accelerated C# Fundamentals</a><a class="menuItem" href="/training/Courses/TableOfContents/patterns-library" title="9 - Design Patterns Library">9 - Design Patterns Library</a><a class="menuItem" href="/training/Courses/TableOfContents/java1" title="10 - Java Fundamentals, Part 1">10 - Java Fundamentals, Part 1</a></div>
 <div class="newReleasesMenu menu linkContainer">
     <div class="allNewReleases">
         <a class="menuItem" href="/training/Courses/NewReleases">View all new releases</a>
     </div>
-        <a href="/training/Courses/TableOfContents/hosting-sql-server-windows-azure-iaas" title="Hosting SQL Server in Windows Azure IaaS Fundamentals" class="menuItem">
+        <a href="/training/Courses/TableOfContents/oracle-performance-tuning-developers" title="Oracle Performance Tuning for Developers" class="menuItem">
             <div style="clear: both">
-                <div style="float: left; width: 4em">Oct 11</div>
-                <div style="float: left; width: 23em">Hosting SQL Server in Windows Azure IaaS Fundam...</div>
+                <div style="float: left; width: 4em">Jun 24</div>
+                <div style="float: left; width: 23em">Oracle Performance Tuning for Developers</div>
             </div>
         </a>
-        <a href="/training/Courses/TableOfContents/developing-leap-motion-csharp" title="Developing for Leap Motion in C#" class="menuItem">
+        <a href="/training/Courses/TableOfContents/reactive-programming-java-8-rxjava" title="Reactive Programming in Java 8 With RxJava" class="menuItem">
             <div style="clear: both">
-                <div style="float: left; width: 4em">Oct 11</div>
-                <div style="float: left; width: 23em">Developing for Leap Motion in C#</div>
+                <div style="float: left; width: 4em">Jun 23</div>
+                <div style="float: left; width: 23em">Reactive Programming in Java 8 With RxJava</div>
             </div>
         </a>
-        <a href="/training/Courses/TableOfContents/introduction-to-sql" title="Introduction to SQL" class="menuItem">
+        <a href="/training/Courses/TableOfContents/enterprise-search-using-apache-solr" title="Getting Started with Enterprise Search using Apache Solr" class="menuItem">
             <div style="clear: both">
-                <div style="float: left; width: 4em">Oct 11</div>
-                <div style="float: left; width: 23em">Introduction to SQL</div>
+                <div style="float: left; width: 4em">Jun 23</div>
+                <div style="float: left; width: 23em">Getting Started with Enterprise Search using Ap...</div>
             </div>
         </a>
-        <a href="/training/Courses/TableOfContents/custom-content-types-code-like-wordpress-ninja" title="Custom Content Types and You: How to Code like A WordPress Ninja" class="menuItem">
+        <a href="/training/Courses/TableOfContents/practical-data-modeling-csharp-sql-server" title="Practical Data Modeling With C# and SQL Server" class="menuItem">
             <div style="clear: both">
-                <div style="float: left; width: 4em">Oct 11</div>
-                <div style="float: left; width: 23em">Custom Content Types and You: How to Code like ...</div>
+                <div style="float: left; width: 4em">Jun 21</div>
+                <div style="float: left; width: 23em">Practical Data Modeling With C# and SQL Server</div>
             </div>
         </a>
-        <a href="/training/Courses/TableOfContents/rapid-application-prototyping-sharepoint-lightswitch" title="Rapid Application Prototyping with SharePoint and LightSwitch" class="menuItem">
+        <a href="/training/Courses/TableOfContents/phpmyadmin-fundamentals" title="phpMyAdmin Fundamentals" class="menuItem">
             <div style="clear: both">
-                <div style="float: left; width: 4em">Oct 10</div>
-                <div style="float: left; width: 23em">Rapid Application Prototyping with SharePoint a...</div>
+                <div style="float: left; width: 4em">Jun 20</div>
+                <div style="float: left; width: 23em">phpMyAdmin Fundamentals</div>
             </div>
         </a>
-        <a href="/training/Courses/TableOfContents/grails-introduction" title="Introduction to Grails" class="menuItem">
+        <a href="/training/Courses/TableOfContents/play-by-play-pinal-dave" title="Play by Play: Pinal Dave" class="menuItem">
             <div style="clear: both">
-                <div style="float: left; width: 4em">Oct 10</div>
-                <div style="float: left; width: 23em">Introduction to Grails</div>
+                <div style="float: left; width: 4em">Jun 20</div>
+                <div style="float: left; width: 23em">Play by Play: Pinal Dave</div>
             </div>
         </a>
-        <a href="/training/Courses/TableOfContents/better-software-through-measurement" title="Better Software Through Measurement" class="menuItem">
+        <a href="/training/Courses/TableOfContents/real-time-web-applications" title="Real-time Web Applications" class="menuItem">
             <div style="clear: both">
-                <div style="float: left; width: 4em">Oct 10</div>
-                <div style="float: left; width: 23em">Better Software Through Measurement</div>
+                <div style="float: left; width: 4em">Jun 19</div>
+                <div style="float: left; width: 23em">Real-time Web Applications</div>
             </div>
         </a>
-        <a href="/training/Courses/TableOfContents/windows-embedded81-industry-jumpstart" title="Windows Embedded 8.1 Industry Jumpstart" class="menuItem">
+        <a href="/training/Courses/TableOfContents/mobilize-aspdotnet-web-forms" title="Mobilize Your ASP.NET Web Forms" class="menuItem">
             <div style="clear: both">
-                <div style="float: left; width: 4em">Oct 9</div>
-                <div style="float: left; width: 23em">Windows Embedded 8.1 Industry Jumpstart</div>
+                <div style="float: left; width: 4em">Jun 19</div>
+                <div style="float: left; width: 23em">Mobilize Your ASP.NET Web Forms</div>
             </div>
         </a>
-        <a href="/training/Courses/TableOfContents/xunitdotnet-test-framework" title="The xUnit.net Testing Framework" class="menuItem">
+        <a href="/training/Courses/TableOfContents/onboard-yourself-after-dream-job" title="Onboard Yourself: What to Do After You Land Your Dream Job" class="menuItem">
             <div style="clear: both">
-                <div style="float: left; width: 4em">Oct 9</div>
-                <div style="float: left; width: 23em">The xUnit.net Testing Framework</div>
+                <div style="float: left; width: 4em">Jun 18</div>
+                <div style="float: left; width: 23em">Onboard Yourself: What to Do After You Land You...</div>
             </div>
         </a>
-        <a href="/training/Courses/TableOfContents/beginning-ios7-development" title="Beginning iOS 7 Development" class="menuItem">
+        <a href="/training/Courses/TableOfContents/automatic-dotnet-code-weaving-fody" title="Automatic .NET Code Weaving With Fody" class="menuItem">
             <div style="clear: both">
-                <div style="float: left; width: 4em">Oct 9</div>
-                <div style="float: left; width: 23em">Beginning iOS 7 Development</div>
+                <div style="float: left; width: 4em">Jun 17</div>
+                <div style="float: left; width: 23em">Automatic .NET Code Weaving With Fody</div>
             </div>
         </a>
 </div>
@@ -626,71 +706,39 @@
                 <div id="footerSeparator">
                 </div>
                 <div class="top">
-                    <div id="tags" class="categories" style="line-height: 20px">
+                    <div id="tags" class="categories">
                         <h1 id="categories">Top Categories</h1>
-                            <a href="/training/Courses#sharepoint" title="SharePoint (84 Courses)">&nbsp;SharePoint (84) &nbsp;</a>
-                            <a href="/training/Courses#virtualization" title="Virtualization (70 Courses)">&nbsp;Virtualization (70) &nbsp;</a>
-                            <a href="/training/Courses#software-practices" title="Software Practices (41 Courses)">&nbsp;Software Practices (41) &nbsp;</a>
-                            <a href="/training/Courses#aspdotnet" title="ASP.NET (40 Courses)">&nbsp;ASP.NET (40) &nbsp;</a>
-                            <a href="/training/Courses#sql-server" title="SQL Server (35 Courses)">&nbsp;SQL Server (35) &nbsp;</a>
-                            <a href="/training/Courses#windows-8" title="Windows 8 (35 Courses)">&nbsp;Windows 8 (35) &nbsp;</a>
-                            <a href="/training/Courses#javascript" title="JavaScript (34 Courses)">&nbsp;JavaScript (34) &nbsp;</a>
-                            <a href="/training/Courses#networking" title="Networking (27 Courses)">&nbsp;Networking (27) &nbsp;</a>
-                            <a href="/training/Courses#dotnet" title=".NET (26 Courses)">&nbsp;.NET (26) &nbsp;</a>
-                            <a href="/training/Courses#powershell" title="PowerShell (21 Courses)">&nbsp;PowerShell (21) &nbsp;</a>
-                            <a href="/training/Courses#visual-studio" title="Visual Studio (21 Courses)">&nbsp;Visual Studio (21) &nbsp;</a>
-                            <a href="/training/Courses#business-intelligence" title="Business Intelligence (20 Courses)">&nbsp;Business Intelligence (20) &nbsp;</a>
-                            <a href="/training/Courses#windows-server" title="Windows Server (20 Courses)">&nbsp;Windows Server (20) &nbsp;</a>
-                            <a href="/training/Courses#security" title="Security (17 Courses)">&nbsp;Security (17) &nbsp;</a>
-                            <a href="/training/Courses#social-media" title="Social Media (17 Courses)">&nbsp;Social Media (17) &nbsp;</a>
-                            <a href="/training/Courses#windows-azure" title="Windows Azure (17 Courses)">&nbsp;Windows Azure (17) &nbsp;</a>
-                            <a href="/training/Courses#csharp" title="C# (14 Courses)">&nbsp;C# (14) &nbsp;</a>
-                            <a href="/training/Courses#debugging" title="Debugging (14 Courses)">&nbsp;Debugging (14) &nbsp;</a>
-                            <a href="/training/Courses#exchange-server" title="Exchange Server (14 Courses)">&nbsp;Exchange Server (14) &nbsp;</a>
-                            <a href="/training/Courses#ios" title="iOS (13 Courses)">&nbsp;iOS (13) &nbsp;</a>
-                            <a href="/training/Courses#java" title="Java (13 Courses)">&nbsp;Java (13) &nbsp;</a>
-                            <a href="/training/Courses#android" title="Android (12 Courses)">&nbsp;Android (12) &nbsp;</a>
-                            <a href="/training/Courses#html-5" title="HTML5 (12 Courses)">&nbsp;HTML5 (12) &nbsp;</a>
-                            <a href="/training/Courses#programming-languages" title="Programming Languages (12 Courses)">&nbsp;Programming Languages (12) &nbsp;</a>
-                            <a href="/training/Courses#system-center" title="System Center (12 Courses)">&nbsp;System Center (12) &nbsp;</a>
-                            <a href="/training/Courses#beginner-programming" title="Beginner Programming (11 Courses)">&nbsp;Beginner Programming (11) &nbsp;</a>
-                            <a href="/training/Courses#cpp" title="C++ (11 Courses)">&nbsp;C++ (11) &nbsp;</a>
-                            <a href="/training/Courses#careers" title="Careers (11 Courses)">&nbsp;Careers (11) &nbsp;</a>
-                            <a href="/training/Courses#hardware" title="Hardware (11 Courses)">&nbsp;Hardware (11) &nbsp;</a>
-                            <a href="/training/Courses#biztalk" title="BizTalk (10 Courses)">&nbsp;BizTalk (10) &nbsp;</a>
+                            <a href="/training/Courses#sharepoint" title="SharePoint (102 Courses)">&nbsp;SharePoint (102) &nbsp;</a>
+                            <a href="/training/Courses#virtualization" title="Virtualization (93 Courses)">&nbsp;Virtualization (93) &nbsp;</a>
+                            <a href="/training/Courses#windows-server" title="Windows Server (83 Courses)">&nbsp;Windows Server (83) &nbsp;</a>
+                            <a href="/training/Courses#javascript" title="JavaScript (67 Courses)">&nbsp;JavaScript (67) &nbsp;</a>
+                            <a href="/training/Courses#sql-server" title="SQL Server (63 Courses)">&nbsp;SQL Server (63) &nbsp;</a>
+                            <a href="/training/Courses#software-practices" title="Software Practices (55 Courses)">&nbsp;Software Practices (55) &nbsp;</a>
+                            <a href="/training/Courses#aspdotnet" title="ASP.NET (54 Courses)">&nbsp;ASP.NET (54) &nbsp;</a>
+                            <a href="/training/Courses#networking" title="Networking (48 Courses)">&nbsp;Networking (48) &nbsp;</a>
+                            <a href="/training/Courses#microsoft-office" title="Microsoft Office (45 Courses)">&nbsp;Microsoft Office (45) &nbsp;</a>
+                            <a href="/training/Courses#dotnet" title=".NET (42 Courses)">&nbsp;.NET (42) &nbsp;</a>
+                            <a href="/training/Courses#windows-8" title="Windows 8 (37 Courses)">&nbsp;Windows 8 (37) &nbsp;</a>
+                            <a href="/training/Courses#exchange-server" title="Exchange Server (36 Courses)">&nbsp;Exchange Server (36) &nbsp;</a>
+                            <a href="/training/Courses#security" title="Security (29 Courses)">&nbsp;Security (29) &nbsp;</a>
+                            <a href="/training/Courses#visual-studio" title="Visual Studio (28 Courses)">&nbsp;Visual Studio (28) &nbsp;</a>
+                            <a href="/training/Courses#csharp" title="C# (27 Courses)">&nbsp;C# (27) &nbsp;</a>
+                            <a href="/training/Courses#careers" title="Careers (27 Courses)">&nbsp;Careers (27) &nbsp;</a>
+                            <a href="/training/Courses#powershell" title="PowerShell (25 Courses)">&nbsp;PowerShell (25) &nbsp;</a>
+                            <a href="/training/Courses#java" title="Java (24 Courses)">&nbsp;Java (24) &nbsp;</a>
+                            <a href="/training/Courses#windows-azure" title="Windows Azure (24 Courses)">&nbsp;Windows Azure (24) &nbsp;</a>
+                            <a href="/training/Courses#business-intelligence" title="Business Intelligence (23 Courses)">&nbsp;Business Intelligence (23) &nbsp;</a>
+                            <a href="/training/Courses#ruby" title="Ruby (23 Courses)">&nbsp;Ruby (23) &nbsp;</a>
+                            <a href="/training/Courses#cpp" title="C++ (20 Courses)">&nbsp;C++ (20) &nbsp;</a>
+                            <a href="/training/Courses#ios" title="iOS (20 Courses)">&nbsp;iOS (20) &nbsp;</a>
+                            <a href="/training/Courses#html-5" title="HTML5 (18 Courses)">&nbsp;HTML5 (18) &nbsp;</a>
+                            <a href="/training/Courses#system-center" title="System Center (18 Courses)">&nbsp;System Center (18) &nbsp;</a>
+                            <a href="/training/Courses#debugging" title="Debugging (17 Courses)">&nbsp;Debugging (17) &nbsp;</a>
+                            <a href="/training/Courses#android" title="Android (16 Courses)">&nbsp;Android (16) &nbsp;</a>
+                            <a href="/training/Courses#programming-languages" title="Programming Languages (16 Courses)">&nbsp;Programming Languages (16) &nbsp;</a>
+                            <a href="/training/Courses#social-media" title="Social Media (15 Courses)">&nbsp;Social Media (15) &nbsp;</a>
+                            <a href="/training/Courses#beginner-programming" title="Beginner Programming (13 Courses)">&nbsp;Beginner Programming (13) &nbsp;</a>
                         <a href="/training/Courses">&nbsp;More...&nbsp;</a>
-                    </div>
-                    <div class="column" style="margin-left: 20px; margin-right: 20px;">
-                        <h1>Most Popular</h1>
-                        <ul>
-                            <li><a href="/training/Courses/TopCourses">View Top 100 leaderboard</a></li>
-                                <li><a href="/training/Courses/TableOfContents/csharp-fundamentals" title="1 - C# Fundamentals - Part 1">1 - C# Fundamentals - Part 1</a></li>
-                                <li><a href="/training/Courses/TableOfContents/angularjs-fundamentals" title="2 - AngularJS Fundamentals">2 - AngularJS Fundamentals</a></li>
-                                <li><a href="/training/Courses/TableOfContents/implementing-restful-aspdotnet-web-api" title="3 - Implementing an API in ASP.NET Web API">3 - Implementing an API in ASP.NET Web API</a></li>
-                                <li><a href="/training/Courses/TableOfContents/csharp-generics" title="4 - C# Generics">4 - C# Generics</a></li>
-                                <li><a href="/training/Courses/TableOfContents/mvc4-building" title="5 - Building Applications with ASP.NET MVC 4">5 - Building Applications with ASP.NET MVC 4</a></li>
-                                <li><a href="/training/Courses/TableOfContents/jquery-fundamentals" title="6 - jQuery Fundamentals">6 - jQuery Fundamentals</a></li>
-                                <li><a href="/training/Courses/TableOfContents/mvc4" title="7 - ASP.NET MVC 4 Fundamentals">7 - ASP.NET MVC 4 Fundamentals</a></li>
-                                <li><a href="/training/Courses/TableOfContents/building-multi-client-end-to-end-service-oriented-applications" title="8 - Building End-to-End Multi-Client Service Oriented Applications">8 - Building End-to-End Multi-Client Servi...</a></li>
-                                <li><a href="/training/Courses/TableOfContents/patterns-library" title="9 - Design Patterns Library">9 - Design Patterns Library</a></li>
-                                <li><a href="/training/Courses/TableOfContents/csharp-from-scratch" title="10 - C# From Scratch">10 - C# From Scratch</a></li>
-                        </ul>
-                    </div>
-                    <div class="column">
-                        <h1 id="newreleases">New Releases</h1>
-                        <ul>
-                            <li><a href="/training/Courses/NewReleases">View all new releases</a></li>
-                                <li><a href="/training/Courses/TableOfContents/hosting-sql-server-windows-azure-iaas" title="Hosting SQL Server in Windows Azure IaaS Fundamentals">Hosting SQL Server in Windows Azure IaaS F...</a></li>
-                                <li><a href="/training/Courses/TableOfContents/developing-leap-motion-csharp" title="Developing for Leap Motion in C#">Developing for Leap Motion in C#</a></li>
-                                <li><a href="/training/Courses/TableOfContents/introduction-to-sql" title="Introduction to SQL">Introduction to SQL</a></li>
-                                <li><a href="/training/Courses/TableOfContents/custom-content-types-code-like-wordpress-ninja" title="Custom Content Types and You: How to Code like A WordPress Ninja">Custom Content Types and You: How to Code ...</a></li>
-                                <li><a href="/training/Courses/TableOfContents/rapid-application-prototyping-sharepoint-lightswitch" title="Rapid Application Prototyping with SharePoint and LightSwitch">Rapid Application Prototyping with SharePo...</a></li>
-                                <li><a href="/training/Courses/TableOfContents/grails-introduction" title="Introduction to Grails">Introduction to Grails</a></li>
-                                <li><a href="/training/Courses/TableOfContents/better-software-through-measurement" title="Better Software Through Measurement">Better Software Through Measurement</a></li>
-                                <li><a href="/training/Courses/TableOfContents/windows-embedded81-industry-jumpstart" title="Windows Embedded 8.1 Industry Jumpstart">Windows Embedded 8.1 Industry Jumpstart</a></li>
-                                <li><a href="/training/Courses/TableOfContents/xunitdotnet-test-framework" title="The xUnit.net Testing Framework">The xUnit.net Testing Framework</a></li>
-                                <li><a href="/training/Courses/TableOfContents/beginning-ios7-development" title="Beginning iOS 7 Development">Beginning iOS 7 Development</a></li>
-                        </ul>
                     </div>
                 </div>
                 <div class="bottom">
@@ -730,10 +778,10 @@
                         <div class="column">
                             <h1>About</h1>
                             <ul>
+                                <li><a href="http://blog.pluralsight.com/press">Press center</a></li>
                                 <li><a href="/training/About">About us</a></li>
                                 <li><a href="/training/Authors">Authors</a></li>
                                 <li><a href="http://blog.pluralsight.com/jobs">Jobs</a></li>
-                                <li><a href="/training/About/ResellerPrograms">Reseller programs</a></li>
                             </ul>
                         </div>
                         <div class="column">
@@ -786,13 +834,13 @@
                 s.parentNode.insertBefore(uv, s);
             })();
         </script>
-    <script type="text/javascript"> if (!NREUMQ.f) {NREUMQ.f=function() {NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script"); e.type="text/javascript"; e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" + "js-agent.newrelic.com/nr-100.js"; document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-3.newrelic.com","2700af8a3c","1904576","Z1ZRN0EDCEMDABVYWl4cdwxHLANEIQwPRUdfX18GQU0nUg0WFR5lQlpFAlAb",0,46,new Date().getTime(),"81A5545A8EF4FCC0","","","",""]);</script>
+    
     
     
 
 
     <script type="text/javascript">
-    
+        
         PS.ajaxFormFailed = function() {
             window.location = '/training/Error/Show';
         };        
@@ -835,4 +883,4 @@
         });
     </script>
 
-<script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
