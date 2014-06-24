@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the storify.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207083447id_/http%3A//storify.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storify.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624031256id_/https%3A//storify.com/privacy) for the most accurate reproduction.*
 
 # Privacy · Storify
 
@@ -69,7 +69,7 @@ Instances where we may be required to share your information:
 Storify will disclose your Information where required to do so by law or by judicial process or if we reasonably believe that such action is necessary to:
 
   * comply with the law and the reasonable requests of law enforcement;
-  * enforce our Terms of Use [add hyperlink http://storify.com/tos];
+  * enforce our Terms of Use [add hyperlink https://storify.com/tos];
   * protect the security or integrity of our Storify Service; or
   * exercise or protect the rights, property, or personal safety of Storify, our Users or others.
 
