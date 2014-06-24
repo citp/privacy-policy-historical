@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the royaldraw.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218020547id_/http%3A//www.royaldraw.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royaldraw.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625000847id_/http%3A//www.royaldraw.com/privacy) for the most accurate reproduction.*
 
-# San Francisco Daily Draws | Online Draws | RoyalDraw.com - Privacy
+# Privacy Policy | Daily Draws, Coupons, Contests and more! | RoyalDraw.com
 
-This Privacy Policy discloses the privacy practices in effect for the Royal Draw (http://www.royaldraw.com) website (referred to as the "Site"). Royal Coupon Inc. (referred to as "us", "we", or "Royal Draw") is the provider and operator of the Site and all its contents. Please read the following to learn what information we collect from you (referred to as "you" or "User") and how we use that information. Royal Draw is committed to protecting your privacy online. If you have any questions concerning this privacy policy please email us. 
+This Privacy Policy discloses the privacy practices in effect for the Royal Draw (http://www.royaldraw.com) website (referred to as the "Site"). Consumer Smart Media Inc. (referred to as "us", "we", or "CSM") is the provider and operator of the Site and all its contents. Please read the following to learn what information we collect from you (referred to as "you" or "User") and how we use that information. We are committed to protecting your privacy online. If you have any questions concerning this privacy policy please email us. 
 
 **Please read this Privacy Policy carefully and in its entirety. By using the Site, you certify that you have read this Privacy Policy, understand it, and agree to abide by all of the terms contained herein, as well as to abide by the Terms of Use for the Site. If you do not agree to this Privacy Policy and/or the Terms of Use, please discontinue use of this Site.**
 
@@ -46,7 +46,7 @@ Neither party shall allow any other party to copy or modify any User Data, nor s
 Royal Draw may re-market your information. Re-marketing enables us to connect with Users based on their past interactions with the Site. We may hire third-party marketing vendors to perform re-marketing services on our behalf. As a result, third-party vendors, including search engines like Google, may show Royal Draw advertisements. Third-party vendors use cookies to collect User information in order to serve ads based on a User’s prior visits to the Royal Draw Site. This information shall be used only for re-marketing purposes, and will not be used by third-party vendors for any other purpose. If you would like to opt out of the use of cookies by third-party vendors please contact them directly. 
 
 **Sharing information in a business transfer**   
-Like all businesses, Royal Coupon Inc. could merge with, or be annexed by another company. Should this occur, that company would inherit and be able to access the information we store, including Personally Identifying Information. In such case, the Personally Identifying Information would remain subject to this Privacy Policy. 
+Like all businesses, Consumer Smart Media Inc. could merge with, or be annexed by another company. Should this occur, that company would inherit and be able to access the information we store, including Personally Identifying Information. In such case, the Personally Identifying Information would remain subject to this Privacy Policy. 
 
 **Sharing information for our protection and the protection of others**   
 Royal Draw reserves the right to disclose your Personally Identifying Information as required by law when we have reason to believe that such disclosure is necessary to protect our rights; to comply with a judicial proceeding, court order, or legal process served on our Site; to enforce or apply this Privacy Policy, our Terms of Use, or other Agreements; or to protect the rights, property, or safety of the Site, its Users, or others. 
@@ -55,11 +55,11 @@ Royal Draw reserves the right to disclose your Personally Identifying Informatio
 
 Third-Party Advertising Companies may be employed by Royal Draw to provision ads when you visit our Site. These companies may use Non-Personally Identifying Information collected during and with regards to your visits to the Site in order to provide advertisements about goods and services that may be of interest to you through the use of network tags. Some of these companies may be members of the Network Advertising Initiative ("NAI"). If you wish to learn more about the NAI or any NAI member company, or if you wish to opt out of the targeted advertising initiative of any NAI member company, visit the [ NAI website](http://www.networkadvertising.org/). 
 
-We may also use Third-Party Service Providers to track and analyze non-personally identifying usage and volume statistical information from our Users to administer our Site, and to continuously improve its quality. We may publish this statistical information for promotional purposes, or to represent audience for advertisers. None of this statistical information constitutes Personally Identifying Information, and it is used and published only as general representative summaries of the activities of our Users. This statistical information and data is owned and used by Royal Coupon Inc., and is collected on our behalf. 
+We may also use Third-Party Service Providers to track and analyze non-personally identifying usage and volume statistical information from our Users to administer our Site, and to continuously improve its quality. We may publish this statistical information for promotional purposes, or to represent audience for advertisers. None of this statistical information constitutes Personally Identifying Information, and it is used and published only as general representative summaries of the activities of our Users. This statistical information and data is owned and used by Consumer Smart Media Inc., and is collected on our behalf. 
 
 * **Updating information** Royal Draw believes that you should have the ability to access and edit your provided and stored Personally Identifying Information. We encourage you to promptly update your Personally Identifying Information if it changes. At any time you may manually change any of your Personally Identifying Information by logging into your account, or you can send Royal Draw an email request to [info@royalcoupon.com](mailto:info@royalcoupon.com), or a written request to: 
 
-Royal Coupon Inc.   
+Consumer Smart Media Inc.   
 160 Confederation Parkway,   
 Vaughan, Ontario, L4K 4T8. 
 
@@ -89,8 +89,8 @@ Areas may exist on our Site where Users can publicly post information about them
 * **Privacy rights of California residents** The California Online Privacy Protection Act (referred to as the "Act") requires us to provide any California residents who subscribe to Royal Draw with a summary of their privacy rights under the Act and the California Business and Professions Code. Upon request, we will inform California residents of (1) the categories of Personally Identifying Information we collect and the third parties we share that information with; (2) the names and addresses of those third parties; and (3) examples of the goods or services marketed by those third parties. Furthermore, the Act requires us to allow California residents to control who they do and do not want us to share their personal information with. If you are a California resident and you would like us to send you any of the above-mentioned information entitled to you under the Act, please send an email request to our contact address found below. When contacting us, please provide your name, address, email address, and a description of the Personally Identifying Information you do not want us to share with our Business or Marketing Partners. There is no charge for requesting this information, or for controlling the sharing of your Personally Identifying Information. Please allow up to 30 days for a response. 
 * **Contacting Royal Draw** Whether you are a new customer, existing customer, potential customer, restaurant owner, Merchant, marketer, publisher, media member, or job seeker, we want to hear from you. Please contact us at the following address: 
 
-**Royal Coupon Inc. Headquarters Address**   
-Royal Coupon Inc.   
+**Consumer Smart Media Inc. Headquarters Address**   
+Consumer Smart Media Inc.   
 160 Confederation Parkway   
 Vaughan, Ontario, L4K 4T8   
 Email: [info@royalcoupon.com](mailto:info@royalcoupon.com).   
