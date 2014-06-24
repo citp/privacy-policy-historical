@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charliesheen.com privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129020014id_/http%3A//www.whosay.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charliesheen.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624023031id_/http%3A//www.whosay.com/privacy) for the most accurate reproduction.*
 
 # WhoSay - Privacy Policy
 
@@ -47,16 +47,15 @@ The specific types of cookies served through the Site are described below:
 Types of cookie | Who serves them | What they do  
 ---|---|---  
 Essential website cookies | WhoSay | These cookies are necessary to provide you with services available through this website and to use some of its features, such as access to secure areas. Without these cookies, services you have asked for, like shopping baskets and secure customer account pages, would not be possible.  
-Performance and functionality cookies | Soundcloud (click [here](http://soundcloud.com/pages/privacy/#cookies) for more information)   
-LaughStub / TuneStub (click [here](http://largo.laughstub.com/privacy.cfm) for more information)   
-Adobe (click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager03.html) for more information)  | These cookies are used to monitor and enhance the performance and functionality of our website but are non-essential to its use. However, without these cookies, certain functionality (like videos) may become unavailable.  
-Analytics and customization cookies | MixPanel (click [here](https://mixpanel.com/optout/) to opt out)   
-Google Analytics (click [here](https://tools.google.com/dlpage/gaoptout/) to opt out)   
+Performance and functionality cookies | Adobe (click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager03.html) for more information)  | These cookies are used to monitor and enhance the performance and functionality of our website but are non-essential to its use. However, without these cookies, certain functionality (like videos) may become unavailable.  
+Analytics and customization cookies | Google Analytics (click [here](https://tools.google.com/dlpage/gaoptout/) to opt out)   
 comScore (click [here](http://www.scorecardresearch.com/OptOutTag.aspx) to opt out)  | These cookies collect information that is used either in aggregate form to help us understand how the website is being used or how effective marketing campaigns are, or to help us customize the website for you.  
 Advertising cookies | Doubleclick (click [here](http://www.google.com/policies/privacy/ads/) to opt out)   
-Burst Media (click [here](http://burstmedia.com/optout.html) to opt out)  | These cookies are used to make advertising messages more relevant to you. They perform functions like preventing the same ad from continuously reappearing, ensuring that ads are properly displayed for advertisers on sites that you visit, and in some cases selecting advertisements that are based on your interests.  
+Krux Digital (click [here](http://www.krux.com/pro/krux_privacy/consumer_choice/) to opt out)  | These cookies are used to make advertising messages more relevant to you. They perform functions like preventing the same ad from continuously reappearing, ensuring that ads are properly displayed for advertisers on sites that you visit, and in some cases selecting advertisements that are based on your interests.  
 Social networking cookies | Twitter (click [here](http://twitter.com/privacy) for more information)   
-Facebook (click [here](http://www.facebook.com/about/privacy/cookies) for more information)  | These cookies are used to enable you to share pages and content that you find interesting on our website through third party social networking websites.  
+Facebook (click [here](http://www.facebook.com/about/privacy/cookies) for more information)   
+Google (click [here](http://www.google.com/policies/privacy/) for more information)   
+reddit (click [here](http://www.reddit.com/wiki/privacypolicy) for more information)  | These cookies are used to enable you to share pages and content that you find interesting on our website through third party social networking websites.  
   
 You may set your Web browser to accept all cookies, block certain cookies, require your consent before a cookie is placed in your browser, or block cookies altogether. In order to adjust your browser settings or preferences, review the "Help" or "Internet Options" menu in your browser's tool bar.
 
@@ -118,4 +117,4 @@ This Privacy Policy may be changed periodically. We will notify you about materi
 
 ## Date Last Modified
 
-September 17, 2013
+JAnuary 8, 2014
