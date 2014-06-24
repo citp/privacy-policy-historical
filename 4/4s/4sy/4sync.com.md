@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4sync.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226161952id_/https%3A//www.4sync.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4sync.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624052823id_/https%3A//en.4sync.com/privacy.jsp) for the most accurate reproduction.*
 
 # 4Sync - Privacy
 
@@ -77,7 +77,7 @@ If you choose to send a link through the "Share" function to a friend who is not
 
 ## Open Blogs
 
-We may offer publicly accessible blogs our Service. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at[support@4sync.com](mailto:support@4sync.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+We may offer publicly accessible blogs our Service. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [support@4sync.com](mailto:support@4sync.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 ## Links to Other Websites
 
@@ -85,11 +85,11 @@ The Service may contain links to other websites. Any personally identifiable inf
 
 ## What Steps Do We Take To Protect Your Information Online?
 
-We take reasonable measures to protect your personally identifiable information in an effort to prevent loss, misuse, and unauthorized access, disclosure, alteration, and destruction. Please be aware, however, that despite our efforts, no security measures are perfect or impenetrable, and no method of data transmission can guarantee against any interception or any other type of misuse. To assist with the protection of personally identifiable information, you must keep your password confidential and not disclose it to any other person. You are responsible for all uses of the Service and Apps by any person using your password. Please advise us immediately if you believe your password has been misused. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at[support@4sync.com](mailto:support@4sync.com).
+We take reasonable measures to protect your personally identifiable information in an effort to prevent loss, misuse, and unauthorized access, disclosure, alteration, and destruction. Please be aware, however, that despite our efforts, no security measures are perfect or impenetrable, and no method of data transmission can guarantee against any interception or any other type of misuse. To assist with the protection of personally identifiable information, you must keep your password confidential and not disclose it to any other person. You are responsible for all uses of the Service and Apps by any person using your password. Please advise us immediately if you believe your password has been misused. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [support@4sync.com](mailto:support@4sync.com).
 
 ## Advertising
 
-We partner with a third party ad network to display advertising within our Apps. Our ad network partner uses Web beacons and log files to collect non-personally identifiable information about your activities on our Apps to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by[clicking here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+We partner with a third party ad network to display advertising within our Apps. Our ad network partner uses Web beacons and log files to collect non-personally identifiable information about your activities on our Apps to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by [clicking here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
 
 ## Facebook Connect
 
