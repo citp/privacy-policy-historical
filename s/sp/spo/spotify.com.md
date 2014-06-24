@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the spotify.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218015316id_/https%3A//www.spotify.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spotify.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625000119id_/https%3A//www.spotify.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
-Effective as from 17 October 2012
+Effective as from 29 April 2014
 
   1. Introduction
   2. The information we collect
@@ -151,9 +151,13 @@ Performance | We use these cookies to analyse how the Spotify Service is used or
 Functional | These cookies let us operate certain functions of the Spotify Service in line with the choices you make. These cookies mean that when you come back to the Spotify Service, we can provide you with our services as you have asked for them to be provided, such as knowing your username, remembering how you have customised our services and reminding you of music you have enjoyed.  
 Targeting/advertising | We use these cookies to serve you with advertisements through the Spotify Service. Some advertisements may be relevant to you and your interests. These cookies may also help us and our business partners regulate the advertisements you receive and measure their effectiveness.  
   
-As above, our business partners may use their cookies on the Spotify Service, for the same general purposes identified above. For more information about the use of cookies and how to block them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/), [www.youronlinechoices.eu](http://www.youronlinechoices.eu/) (Europe) or [www.aboutads.info/choices/](http://www.aboutads.info/choices/) (United States). Most web browsers also allow you to manage your cookie preferences.
+As above, our business partners may use their cookies on the Spotify Service, for the same general purposes identified above. Third parties may use cookies and other similar technologies to collect information about your online activities over time and across different websites. For more information about the use of cookies and how to block them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/), [www.youronlinechoices.eu](http://www.youronlinechoices.eu/) (Europe) or [www.aboutads.info/choices/](http://www.aboutads.info/choices/) (United States). Most web browsers also allow you to manage your cookie preferences.
 
 You can set your browser to refuse cookies, or delete certain cookies. This may impair or prevent due functioning of the Service.
+
+Do Not Track is a standard that is currently under development. As it is not yet finalized, we adhere to the standards set out in this Privacy Policy.
+
+Two of the third party services we use to track activity related to the Service, e.g. by placing cookies, are Google Analytics and Hasoffer Analytics. We may use third-party vendors, including Google, who use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on your past visits to our websites, including Google Analytics for Display Advertising. If you don't want any information to be collected and used by Google Analytics, you can install an opt-out in your web browser ([tools.google.com/dlpage/gaoptout?hl=None](http://tools.google.com/dlpage/gaoptout?hl=None)) and/or opt out from Google Analytics for Display Advertising or the Google Display Network. You can do so by using Google’s Ads Settings (www.google.com/settings/ads). If you don't want any information to be collected and used by Hasoffer Analytics you can opt out by clicking the following link: [www.mobileapptracking.com/privacy-policy/](http://www.mobileapptracking.com/privacy-policy/).
 
 We may use standard Internet technologies similar to cookies like these:
 
@@ -163,7 +167,8 @@ HTML5 Local Storage: We use HTML5 local storage for frequency capping purposes a
 
 Copyright © 2012 Spotify AB or its affiliates. All rights reserved.
 
-Spotify USA Inc., 45 W. 18th Street,  
+Spotify USA Inc.,   
+45 W. 18th Street  
 7th Floor  
 New York, NY 10011  
 USA
