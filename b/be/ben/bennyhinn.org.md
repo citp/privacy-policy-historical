@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bennyhinn.org privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223125524id_/http%3A//www.bennyhinn.org/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bennyhinn.org privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624034125id_/http%3A//www.bennyhinn.org/privacypolicy) for the most accurate reproduction.*
 
-# Benny Hinn Ministries – Privacy Policy
+# Privacy Policy - Benny Hinn Ministries
 
 Benny Hinn Ministries (“the Ministries”) is committed to respecting and protecting your privacy and developing technology that gives you the most powerful and safe online experience. The following statement explains the Ministries’ policy regarding any personal information you may supply on the Ministries Web site. This privacy policy also discloses how the Ministry collects, protects, uses, and shares information gathered about you on the Ministries Web site. This Statement of Privacy applies to the Ministries Web site and governs data collection and usage. By using the Ministries Web site, you signify your acceptance of the terms of the Ministries’ privacy policy.
 
