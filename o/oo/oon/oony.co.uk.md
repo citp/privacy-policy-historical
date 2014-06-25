@@ -1,63 +1,61 @@
-> *The following text is extracted and transformed from the oony.co.uk privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216132409id_/http%3A//oony.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oony.co.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625110405id_/http%3A//oony.co.uk/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Oony.com
+# Privacy Policy | Oony
 
-As a OONY Web Site user, you are entitled to be acquainted with our practices in relation to the information we gather, and which you furnish to us upon signing up in our Site [http://oony.com](http://oony.com/).
+As a user of Oony, you have the right to know how we handle the information we gather when you visit our site [http://oony.co.uk](http://oony.co.uk/)
 
-## Consent
+## CONSENT
 
-Upon providing us with any kind of personal data, you are expressly:
+By providing any kind of personal information, you are deliberately choosing to:
 
-  * Accepting all the terms of this Privacy Policy.
-  * Agreeing to the fact that the information you furnished may be stored, used, and treated for any and all purposes hereof.
-  * Granting sufficient authorization unto OONY to compile, abridge, and use such information in any way, pursuant to the provisions set forth herein and to the applicable laws in force.
+Accept all the terms and conditions included in this Privacy Policy. Agree that all the information you have provided can be stored, managed, and be treated for any of the ends herein established. To grant OONY the authorisation to compile, store, and utilise such information in any way and fashion, according to the conditions stated in this Privacy Policy and by applicable laws. You acknowledge and comprehend that all the provided information is valid and real. If you wish to verify, modify or complement such information in any way, we request you log in using your username and password. If you have any questions or comments, or if you wish your personal information to be erased from our servers, please get in contact with us to the following e-mail address: [support@oony.com](mailto:support@oony.com)
 
+## Personal Data Recollection and Combination
 
+The main objective of the information compiled by OONY is to offer every user an amiable, efficient experience that matches his or her preferences. OONY only compiles the necessary information to comply with the purposes of its service, and does not process such information in any way that isn’t compatible with the purpose it was compiled for, or authorised by the user. OONY compiles personal information provided by the user during the sign up process, which includes name, e-mail address, postal address, gender, shopping preferences, etc. OONY may also occasionally compile information about the user’s usage preferences (such as geographic location, images or objects selected clicked or selected during the user’s visit to our website or e-mail message) to be used internally for service improvement and research. OONY may also store information provided by the user with her express knowledge, such as her response to contact forms, recommendations, new stores suggestions, and e-mails sent to our website. OONY may use such information internally for tasks included in, but not limited to, optimization of the service in all of its features, the addition of new functionalities, etc. Information that has been inputted by or compiled from every user can be combined with the information inputted or obtained from other users to determine goals and demographics for advertising and marketing purposes. 
 
-You hereby acknowledge and undertake that all the information furnished shall be true and valid. If you intend to check, modify, or supplement such information in any way, we ask you to sign in using your user name and password. Should you have any question or comment, or if you intend to delete any personal data, we request that you send us an e-mail to: [support@oony.com](mailto:support@oony.com)
+## User Information Update
 
-## Personal Data Compilation and Combination
+OONY offers the possibility to review, and modify the information you have provided when signing up to our service. You may change your registration information by logging into OONY’s website, and selecting the ‘Edit Profile’ option relative to the information you wish to modify. You, as a user, have the obligation to keep your personal information up to date.
 
-The main purpose of the information compiled by OONY consists in offering users a friendly and efficient experience, customized to meet each user's preferences. OONY only compiles such information as may be necessary for the purposes of the service rendered, and it does not process such information in any way as may be in conflict with the purpose for which it was compiled or otherwise authorized by user. OONY compiles any personal information furnished by users during the sign-up process, including each user's name, e-mail address, postal address, gender, consumption preferences, etc. OONY may, from time to time, also compile information about users' use and preferences (for example, geographical location, images or objects selected by users' clicks on mails or Web Sites) to be used internally for research purposes and for service enhancement. OONY shall further be entitled to store information furnished by users upon users' express knowledge, as it is the case with users' answers on query forms, suggestions or e-mails sent to the Web Site. OONY may use such information for internal purposes, including but not limited to, streamlining the site and designing the service with respect to all its functionalities, adding new functionalities, etc. The information entered and compiled may be combined among all users to determine and objectify demographics for marketing & advertising purposes.
+## Personal Information Protection
 
-## Change of User Information
+Unless solicited by you, or previously accorded with you, OONY’s website shall not share any personal information you provide with third party companies or individuals. In spite of this, you expressly authorise OONY to share your personal information when:
 
-OONY provides users with the possibility of reviewing and modifying any information entered upon signing up for the Service. You may change your log-up information by accessing OONY's Web Site and selecting the "edit profile" option related to the information you intend to modify. As User, you are under a duty to keep your personal information up to date.
+It is required by law or by a judicial order. 
 
-## Protection of Users' Personal Information
+With companies or people of our trust, for the information to be processed in our behalf, according to our instructions, and respecting this Privacy Policy’s outlines, as well as the proper confidentiality and security measures. 
 
-OONY's Web Site shall not share any personal information furnished by Users with any third parties outside this relation, unless it is to be done for any purposes requested by you and originally agreed upon. Notwithstanding the foregoing, you hereby expressly authorize OONY to share your personal information furnished by you:
+With government agencies, related to criminal investigations, fraud prevention, or other legal procedures, or if OONY considers it reasonable to protect OONY, its website, its users, or the general public. 
 
-  * Whenever required from us by statute or by means of court order.
-  * With individuals or legal entities in which we trust in order for them to process such information in our name, based on our instructions, by virtue of this Privacy Policy, and pursuant to the relevant security and confidentiality measures.
-  * With governmental organizations related to criminal investigations, prevention of fraud, or any other legal actions, or whenever OONY may deem it reasonably necessary to protect OONY, the Web Site, its users or the public at large.
+Unless you explicitly specify otherwise, you authorise OONY to communicate with you to provide information about services or other activities or propositions that may be of your interest.
 
+If you wish to contact us, you may do so to the following e-mail address: [support@oony.com](mailto:support@oony.com). Every time you receive communication on our behalf, you will be given the possibility to remove yourself from our communications listing. In the same way, any individual user can exercise her right to access, rectify, or delete his personal information, by the means of a written petition directed at the following e-mail address: [support@oony.com](mailto:support@oony.com).
 
+## Use and Disclosure of Gathered Information
 
-Unless you have expressly stated otherwise, you hereby authorize OONY to communicate with you to provide you with information about any services or other activities or proposals that may be of your interest. If you intend to contact us, you may reach us at the following e-mail address: [support@oony.com](mailto:support@oony.com). Besides, every time you are contacted by OONY, you will have the chance to state whether you intend to be removed from our communication list. Accordingly, users may, at any time, exercise their right to access, rectify, and -where appropriate- cancel their personal information furnished, by means of a written request to OONY to the following e-mail address: [support@oony.com](mailto:support@oony.com)
+All the information stored by OONY is considered confidential, and will not be shared with third parties that are not related to the relationship. OONY will be able to share the results of the statistical analysis of the sum of the whole information provided by users for marketing and advertising purposes. If you oppose such usage for any particular reason, you may inform us so through any of our communication channels, or cancel your subscription to our service.
 
-## Use and Disclosure of the Information Gathered
+Sponsors, advertisers and people outside of OONY will not have access to your personal information in any way or method that may allow them to identify you through the usage of our services. However, OONY assumes no obligation or liability over any information you provide directly or indirectly to third party companies or individuals. Every change, amendment or suppression of your personal information must be communicated to OONY directly, as those changes or amendments will not be shared with or by third parties. You are accountable for the veracity of the information you provide. OONY reserves the right to exclude or ban from its services any user who provides fake information, and to initiate the corresponding legal proceedings. 
 
-All the information stored by OONY shall be deemed confidential, and therefore, it shall not be shared with any third parties outside the OONY-user relationship. OONY may share the results obtained from combining and adding all users' preferences for marketing & advertising purposes. If you do not agree to such use for any reason whatsoever, you may inform such situation by any of the applicable contact means, or you may also deregister from the service. Advertisers and any persons other than OONY's personnel shall not be given access to your personal information in any way that could lead such advertisers or persons to identify you by your use of the Service. Nevertheless, OONY shall undertake no obligation or liability in relation to such information as You may furnish, directly or indirectly, to any third parties. Any changes or modifications in your personal information shall be directly informed to OONY, because the information related to such changes, modifications or deletions shall not be exchanged. You shall be held accountable for the accuracy of the data furnished. OONY shall reserve its right to deregister from the services any and all users who may have furnished false information, notwithstanding any other legal actions as may be appropriate.
+## SECURITY
 
-## Security
+OONY commits itself to comply with its obligation to keep secret any personal information provided by the users, and to its duty to treat them as confidential, taking the proper technical, organisational, and security measures in order to prevent their alteration, loss, treatment or unauthorised access. However, in light of the current state of technology, we are in no condition to guarantee an unauthorised access will never occur.
 
-OONY undertakes to honor its obligation to keep all personal data private and to treat them as confidential, and to that effect, OONY shall be responsible for deploying all such technical, organizational, and security measures as may be necessary to avoid any alteration, loss, or treatment thereof, as well any non-authorized access to such information. However, considering the current technology conditions, we are not in a position to guarantee that non-authorized access shall never take place.
+## Information Practices Related to Minors Under 13
 
-## Information Practices Related to Children under 13
+If you are under 13 years of age, you must not provide any personal information that identifies you in this site without the proper and explicit consent or permission from your parents or legal guardians. If we become aware that you are under 13, we won’t keep or use any of your personal information in any way without the verifiable consent of your parents or legal guardians, unless it is permitted by law. That information will only be used to get in contact with your parents or legal guardians, and to notify them about the participation of a child on our website, or to get their approval for such participation. 
 
-If you are under 13 years of age, you shall not provide us with any personal information that may identify you on this site, without the consent or authorization of your parents or legal guardians. If we become aware of the fact that you are under 13, we shall not keep or use any personal information about you without the verifiable consent or authorization of your parents or legal guardians, except to the extent that it may be permitted by statute. This information shall be used only to get in contact with your parents or legal guardians, in order to let them know that a child is participating in our site, or to request their approval for such participation.
+## CHANGES TO THE PRIVACY POLICY
 
-## Changes in the Privacy Policy
+You accept that the conditions in this policy govern the usage of any information collected while it is still in force. OONY reserves the right to change this policy at any time, with such changes entering in effect at the very moment they are published in this website. 
 
-You hereby accept that the terms and conditions govern the use of any information gathered for as long as such Policy remains in force. OONY reserves its right to change this policy at any time. Any changes made to the Privacy Policy shall be effective upon publication on this site.
+## DATA INTEGRITY
 
-## Integrity
+OONY processes personal information for the purposes it was compiled, and according to the terms established in this agreement only. OONY verifies its data compilation, storage, and processing practices regularly in order to ensure it is only compiling, storing and processing the necessary personal information to provide a better service. OONY takes all reasonable measures to assure the personal information it processes is precise, complete, and current, but it is up to the users to update, or correct their personal information when necessary.
 
-OONY shall process any personal information solely for the purpose for which it has been compiled, in accordance with this Agreement. OONY shall regularly review its data compilation, storage, and processing practices to ensure that it only compiles, stores, and processes such personal information as may be necessary to render or enhance, its Service. OONY shall deploy such measures as may be reasonable to make sure that the personal information processed is accurate, complete, and current, but it depends on its users to update or correct their personal information as required.
+## QUESTIONS?
 
-## Questions
+If you have any questions or comments about our Personal Information practices, or about this Privacy Policy, please be as kind as to communicate with us through the following e-mail address, and we’ll gladly address your comments: [privacy@oony.com](mailto:privacy@oony.com)
 
-Should you have any further questions or comments to make about our practices in relation to users' personal information or about this privacy statement, do not hesitate to contact us at the following e-mail address, where we shall be pleased to answer any concerns, [privacy@oony.com](mailto:privacy@oony.com)
-
-Last Amended on: September 7, 2010.
+This Privacy Policy was last updated in May, 2014.
