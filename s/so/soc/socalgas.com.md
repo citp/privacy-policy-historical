@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socalgas.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216134743id_/http%3A//www.socalgas.com/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socalgas.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625045411id_/http%3A//www.socalgas.com/privacy-policy.shtml) for the most accurate reproduction.*
 
 # SoCalGas - Privacy Policy
 
@@ -88,8 +88,6 @@ This web site may provide links to various governmental, industry association an
 **Our Operational Emails:** Despite your choices regarding non-transactional promotional emails, we may continue to send you operational emails for non-promotional or transactional purposes, including, without limitation: billing, conservation, outage management, and safety.
 
 ## VII.  Changes to This Privacy Policy
-
-(last updated April 2012)
 
 SoCalGas reserves the right, at any time, and without notice, to add to, change, modify, or update this Privacy Policy by posting a revised policy on this web site. Any revised Privacy Policy shall be effective immediately on posting. However, any time this policy is updated, the date of modification will be posted.
 
