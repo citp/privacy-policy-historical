@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mizzenandmain.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226155306id_/http%3A//mizzenandmain.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mizzenandmain.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625111605id_/http%3A//mizzenandmain.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mizzen+Main
 
