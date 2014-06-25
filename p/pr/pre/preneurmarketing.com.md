@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the preneurmarketing.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201084804id_/http%3A//preneurmarketing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the preneurmarketing.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625071820id_/http%3A//preneurmarketing.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Preneur Marketing Blog
+# Privacy Policy
 
 _Last Updated: 09 January 2013_
 
