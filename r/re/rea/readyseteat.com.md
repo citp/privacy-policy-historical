@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readyseteat.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102050952id_/http%3A//www.conagrafoods.com/utilities/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readyseteat.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625132902id_/http%3A//www.conagrafoods.com/utilities/privacy.jsp) for the most accurate reproduction.*
 
 # ConAgra Foods Privacy Policy | ConAgra Foods
 
@@ -7,7 +7,8 @@ ConAgra Foods, Inc., ("ConAgra Foods") recognizes that many adults and children 
 ## Topics:
 
   * Gathering and Use of Information
-  * About Other Privacy Laws
+  * [About Our Ads and Tracking](https://web.archive.org/pdf/ConAgra_Foods_About_Our_Ads.pdf)
+  * Data Transfers
   * Contests/Sweepstakes
   * Cookies/IP Addresses
   * Polls & Surveys
@@ -37,9 +38,11 @@ As the new technology of the Internet evolves, and the COPPA requirements and CA
 
 Back to Top
 
-### About Other Privacy Laws
+### Data Transfers
 
-ConAgra Foods abides by many privacy laws in the United States and around the world, including the Safe Harbor framework as set forth by the United States Department of Commerce regarding the collection, use and retention of information collected from European Union countries. To learn more about the Safe Harbor program, and to view ConAgra Foods’ certification, please visit <http://www.export.gov/safeharbor/>. 
+We may transfer the Personal Information we collect about you to countries other than the country in which the information was originally collected.  Those countries may not have the same data protection laws as the country in which you initially provided the information.  When we transfer your information to other countries, we will protect that information as described in this Privacy Policy.
+
+If you are located in the European Economic Area (“EEA”) we comply with applicable legal requirements providing adequate protection for the transfer of Personal Information to countries outside of the EEA, including to the U.S.  ConAgra Foods is certified under the U.S.-EU Safe Harbor privacy framework as set forth by the U.S. Department of Commerce and the European Commission regarding the collection, storage, use, transfer and other processing of personal data transferred from the EEA to the U.S. [Click here](https://web.archive.org/pdf/SafeHarborPrivacyPolicy.pdf) to view our Safe Harbor Privacy Policy.
 
 Back to Top
 
@@ -71,7 +74,7 @@ Back to Top
 
 ### Choice/Opt-Out
 
-Our sites will provide users the opportunity to opt out of receiving communications from us at the point where we request information about the visitor. Simply follow the procedure outlined at each site. Likewise, we will provide users with the opportunity to change any personal information previously provided, or to opt out of receiving future email communication from us. 
+Our sites will provide users the opportunity to opt out of receiving communications from us at the point where we request information about the visitor. Simply follow the procedure outlined at each site. Likewise, we will provide users with the opportunity to change any personal information previously provided, or to opt out of receiving future email communication from us. You can also control certain cookies and tracking tools. To learn more about our tracking and how to manage how we – and our vendors – use cookies and other tracking tools, please [click here](https://web.archive.org/pdf/ConAgra_Foods_About_Our_Ads.pdf). 
 
 Back to Top
 
