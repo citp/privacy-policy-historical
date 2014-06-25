@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citiesads.in privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817182038id_/http%3A//www.citiesads.in/content/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citiesads.in privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625065140id_/http%3A//www.citiesads.in/content/privacy-statement) for the most accurate reproduction.*
 
 # Online classified ads india,free classifieds in india,ad free post,free post ad site
 
