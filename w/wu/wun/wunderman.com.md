@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wunderman.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207065450id_/http%3A//wunderman.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wunderman.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625142725id_/http%3A//wunderman.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -40,6 +40,6 @@ Please note that no data transmission over the Internet is 100% secure. As a res
 
 By using our Site, you consent to the collection, use, and storage of your personal and non-personal information as described in this policy. You further authorize the export of personal information to the USA and its storage and use as specified in this policy when you provide such information to us. This policy and all legal obligations of Wunderman are subject to the laws of New York and the USA, regardless of the location of any user. Any claims or complaints must be filed in the USA in the State of New York. We may amend our Privacy Policy, but if we decide to change our Privacy Policy, we will post those changes on this page, so you are always aware of what information we collect, how we use it and under what circumstances we may disclose it.
 
-### Safe Harbor
+### More Information
 
-Wunderman’s privacy practices adhere to the Safe Harbor principles as certified by the U.S. Department of Commerce. For additional information about our privacy policy, please contact [webmaster@wunderman.com](mailto:webmaster@wunderman.com).
+For additional information about our privacy policy, please contact [webmaster@wunderman.com](mailto:webmaster@wunderman.com).
