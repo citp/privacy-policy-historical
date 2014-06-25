@@ -1,19 +1,15 @@
-> *The following text is extracted and transformed from the evaer.com privacy policy that was archived on 2013-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130831150650id_/http%3A//www.evaer.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evaer.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625084136id_/http%3A//evaer.com/privacy.htm) for the most accurate reproduction.*
 
 # Record Skype Video and Audio Calls with Evaer | Privacy policy
 
 ##  Privacy Policy 
 
-Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy. 
+We protect your privacy. Accordingly, we have developed this Policy in order for you to understand how we collect and use. 
 
-  * Before or at the time of collecting personal information, we will identify the purposes for which information is being collected. 
-  * We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law. 
-  * We will only retain personal information as long as necessary for the fulfillment of those purposes. 
-  * We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned. 
-  * Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date. 
-  * We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification. 
-  * We will make readily available to customers information about our policies and practices relating to the management of personal information. 
+  * Web log statistics, such as number of hits to our web site, downloads and updates. 
+  * Name and email address when you purchase. 
+  * Email address when you email us for support purposes. 
 
 
 
-We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. 
+We track hits to our web site, number of downloads etc. through the use of standard web logs. The software also checks back with our web site when you start it, to see if there are any updates. Web log statistics do not include any personal identifying information, but they do include IP addresses. We use IP addresses to analyse web site usage, for example by country or region. We do not attempt to tie IP addresses back to individual users. We do not disclose information contained in web logs to anyone else. We will use the name and email address to send you license information when you purchase a license. We do not disclose these details to anyone else. If you have questions about this policy, please contact us via email: support@evaer.com. 
