@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zohraa.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215122517id_/http%3A//zohraa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zohraa.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625060109id_/http%3A//zohraa.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Zohraa.com
+# Privacy Policy
 
 Zohraa and its affiliates respect your privacy. This Privacy Policy provides succinctly the manner your data is collected and used by Zohraa. You are advised to please read the Privacy Policy carefully. By accessing the services provided by Zohraa you agree to the collection and use of your data by Zohraa in the manner provided in this Privacy Policy.
 
