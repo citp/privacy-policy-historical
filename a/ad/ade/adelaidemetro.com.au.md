@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adelaidemetro.com.au privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030165629id_/http%3A//www.adelaidemetro.com.au/Terms-and-Conditions%23Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adelaidemetro.com.au privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625050018id_/https%3A//adelaidemetro.com.au/Terms-and-Conditions%23Privacy) for the most accurate reproduction.*
 
 # Adelaide Metro - Terms and Conditions
 
@@ -80,7 +80,7 @@ A cookie is a small piece of data that a web site can transfer to your computer 
 
 The use of cookies in this way is widespread and commonly accepted by the Internet community. You can set your browser to reject a cookie that we attempt to place on your computer. However you may then be limited in your use of some areas of the site. 
 
-#### Personal information you submit
+### Personal information you submit
 
 Adelaide Metro will record your name, email address and phone number if you send us a message or you include it in an online form. It will only be used to send you a reply and not added to a mailing list or used for any other purpose without your consent. 
 
@@ -88,38 +88,49 @@ Your name, email address and phone number is stored in a secure area and only fo
 
 ### My Metro
 
+#### Registration
+
 My Metro allows you to save your favourite timetables, trips, stops and receive SMS or email alerts when these services change. 
 
-Adelaide Metro will record your email address and your mobile phone number and any travel information you submit when you register for “My Metro”. This information will only be used for the purpose of notifying you of public transport service changes and offers. 
+Adelaide Metro will record your email address and your mobile phone number and any travel information you submit when you register for “My Metro”. This information will only be used for the purpose of notifying you of public transport service changes. 
 
-Adelaide Metro may use this information to conduct research and in the improvement of service to customers. Information you provide may be disclosed to our service providers to provide you with the information you have requested but will not be disclosed for any other purpose without your content. 
+When you choose to receive special offers, promotions and new development information we will use your mobile phone number or email address for the purpose of notifying you of these offers. You can un-subscribe or  change your preferences at any time from your account. 
 
-### Privacy and metrocard 
+Adelaide Metro may use this information to conduct research and in the improvement of service to customers. Information you provide may be disclosed to our service providers to provide you with the information you have requested but will not be disclosed for any other purpose without your consent. 
+
+## Privacy and metrocard 
 
 ### Registered metrocards
+
+#### Registration
 
 Registration of your metrocard requires that some personal information is held by us (The Department for Planning, Transport and Infrastructure).   
 If you register a metrocard, the Adelaide Fare Collection System securely stores your personal information. 
 
 This personal information is necessary for the purpose of verifying your identity. This enables us to communicate with you and provide you with access to the full range of metrocard services. 
 
-#### When you validate a registered metrocard
+When you register you can choose to receive information from Adelaide Metro. When you choose to receive special offers, promotions and new development information we will use your Customer Records for the purpose of notifying you of these offers. You can un-subscribe or change your preferences at any time from your account. 
+
+Adelaide Metro may use this information to conduct research and in the improvement of service to customers. Information you provide may be disclosed to our service providers to provide you with the information you have requested but will not be disclosed for any other purpose without your consent. 
+
+#### When you validate
 
 When you validate your metrocard we record the stop, vehicle number, date and time, the service number and fare deducted for the trip. 
 
 We update our relevant databases and store the validation activity for auditing purposes. This information is associated with your customer record, so we can provide you with a record of your travel history. 
 
-**Registered Metrocards**  
----  
-**Customer Records** |  **Metrocard Services Available**  
-Name  |  Yes  |  Recharge Online  |  Yes   
-Address  |  Yes  |  Auto Recharge  |  Yes   
-Date of Birth  |  Yes  |  Metrocard Agent Recharge  |  Yes   
-Phone Number  |  Yes  |  Ticket Machine Recharge  |  Yes   
-Email Address  |  yes  |  Online Metrocard Management  |  Yes   
-Metrocard Number  |  Yes  |  Metrocard Protection  |  Yes   
+**Registered Metrocards**
+
+**Customer Records** |    |  **Metrocard Services Available**   |  ** **  
+---|---|---|---  
+Name  |  Yes  |  Recharge Online  |   Yes  |    |     
+Address  |  Yes  |  Auto Recharge  |   Yes  |    |     
+Date of Birth  |  Yes  |  Metrocard Agent Recharge  |   Yes  |    |     
+Phone Number  |  Yes  |  Ticket Machine Recharge  |   Yes  |    |     
+Email Address  |  Yes  |  Online Metrocard Management  |   Yes  |    |     
+Metrocard Number  |  Yes  |  Metrocard Protection  |   Yes  |    |     
   
-### Unregistered metrocards
+### Unregistered Metrocards
 
 You can choose to use your metrocard anonymously, by not registering your metrocard.  
 If you choose this option no personal information is held by us.   
@@ -131,15 +142,16 @@ When you validate your metrocard we anonymously record the stop, vehicle number,
 
 We update our relevant databases and store the anonymous validation activity for auditing purposes. 
 
-**Unregistered Metrocards**  
----  
-**Customer Records** |  **Metrocard Services Available**  
-Name  |  No  |  Recharge Online  |  No   
-Address  |  No  |  Auto Recharge  |  No   
-Date of Birth  |  No  |  Metrocard Agent Recharge  |  Yes   
-Phone Number  |  No  |  Ticket Machine Recharge  |  Yes   
-Email Address  |  No  |  Online Metrocard Management  |  No   
-Metrocard Number  |  Yes  |  Metrocard Protection  |  No   
+**Unregistered Metrocards**
+
+**Customer Records** |    |  **Metrocard Services Available** |  ** **  
+---|---|---|---  
+Name  |  No  |  Recharge Online  |   No   
+Address  |  No  |  Auto Recharge  |   No   
+Date of Birth  |  No  |  Metrocard Agent Recharge  |   Yes   
+Phone Number  |  No  |  Ticket Machine Recharge  |   Yes   
+Email Address  |  No  |  Online Metrocard Management  |   No   
+Metrocard Number  |  Yes  |  Metrocard Protection  |   No   
   
 ### Seniors Cards 
 
@@ -157,16 +169,18 @@ When you validate your Seniors Card metrocard we record the stop, vehicle number
 
 We update our relevant databases and store the validation activity for auditing purposes. This information is associated with your customer record so we can provide you with a record of your travel history and access to the full range of Metrocard Services. 
 
-**Registered Seniors Card Metrocard**  
----  
-**Customer Records** |  **Metrocard Services Available**  
-Name  |  Yes  |  Recharge Online  |  Yes   
-Address  |  Yes  |  Auto Recharge  |  Yes   
-Date of Birth  |  Yes  |  Metrocard Agent Recharge  |  Yes   
-Phone Number  |  Yes  |  Ticket Machine Recharge  |  Yes   
-Email Address  |  Optional, required for online metrocard management  |  Online Metrocard Management  |  Yes   
-Metrocard Number  |  Yes  |  Metrocard Protection  |  Yes   
-Seniors Card number  |  Yes  |    |     
+**Registered Seniors Card Metrocard**
+
+**Customer Records** |    |  **Metrocard Services Available** |     
+---|---|---|---  
+Name  |  Yes  |  Recharge online  |  Yes   
+Address  |  Yes  |  Auto Rechange  |  Yes   
+Date of Birth  |  Yes  |  Metrocard Agent Recharge  |  Yes   
+Phone Number  |  Yes  |  Ticket Machine Management  |  Yes   
+Email Address  |  Optional, required   
+for online Metrocard management  |  Online Metrocard Management  |  Yes   
+Metrocard Number  |  Yes  |  Metrocard Proteccion  |  Yes   
+Senior Card Number  |  Yes  |    |     
   
 ### Anonymised Seniors Cards
 
@@ -183,16 +197,17 @@ When you validate your unregistered Seniors Card metrocard we record the stop, v
 
 We update our relevant databases and store the anonymous validation activity for auditing purposes. 
 
-**Unregistered Seniors Card Metrocard**  
----  
-**Customer Records** |  **Metrocard Services Available**  
-Name  |  No  |  Recharge Online  |  No   
+**Unregistered Seniors Card Metrocard**
+
+**Customer Records** |    |  **Metrocard Services Available** |     
+---|---|---|---  
+Name  |  No  |  Recharge online  |  No   
 Address  |  No  |  Auto Recharge  |  No   
 Date of Birth  |  Yes  |  Metrocard Agent Recharge  |  Yes   
 Phone Number  |  No  |  Ticket Machine Recharge  |  Yes   
 Email Address  |  No  |  Online Metrocard Management  |  No   
-Metrocard Number  |  Yes  |  Metrocard Protection  |  Yes   
-Seniors Card number  |  Yes  |    |     
+Metrocard Number  |  Yes  |  Metrocard Proteccion  |  Yes   
+Senior Card Number  |  Yes  |    |     
   
 #### Your Financial transactions
 
@@ -222,12 +237,11 @@ Notwithstanding the above, Adelaide Metro makes no warranty in respect of the st
 
 If you do not wish to transmit the required details electronically you can [contact us](https://web.archive.org/Contact-Us "Go to http://preview.adelaidemetro.com.au/Contact-Us") in a variety of other ways. 
 
-##### Other websites
+##### **Other websites**
 
 This privacy statement covers only the Adelaide Metro web site and Adelaide Metro web based services. Our privacy policies do not apply to any other sites, even when we have provided you with a direct link. We recommend that you check the privacy statements of other web sites. 
 
-##### Privacy guidelines
+##### **Privacy guidelines**
 
-This privacy statement will be continually reviewed in line with the ongoing development of this Internet site. It is based on national and international privacy standards and follows the guidelines set out in the [South Australian Government's Information Privacy Principles](http://www.premcab.sa.gov.au/pdf/circulars/Privacy.pdf "Go to http://www.premcab.sa.gov.au/pdf/circulars/Privacy.pdf - opens in a new window") (IPPs). 
-
-If you have any questions about our privacy policies please [contact us](https://web.archive.org/Contact-Us "Go to http://preview.adelaidemetro.com.au/Contact-Us"). 
+This site is operated in compliance with the Government of South Australia's information privacy principles (IPPs), a copy of which can be obtained on [the Department of the Premier and Cabinet website](http://dpc.sa.gov.au/premier-and-cabinet-circulars "Go to the department of premier and cabinet website").  
+This privacy statement will be continually reviewed in line with the ongoing development of this Internet site. If you have any questions about our privacy policies please [contact us](https://web.archive.org/Contact-Us "Go to http://preview.adelaidemetro.com.au/Contact-Us"). 
