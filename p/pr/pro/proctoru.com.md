@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proctoru.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211045418id_/http%3A//www.proctoru.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proctoru.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625114426id_/http%3A//www.proctoru.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - ProctorU
 
@@ -14,7 +14,7 @@ When you create or reconfigure a ProctorU account, you provide some personal inf
 
 #### Acxiom Authentication
 
-You may be asked to authenticate your identity through data services powered by Acxiom. For all privacy policies regarding Acxiom Authentication, please see http://www.acxiom.com/about_us/privacy/Pages/Privacy.aspx
+You may be asked to authenticate your identity through data services powered by Acxiom. For all privacy policies regarding Acxiom Authentication, please see [http://acxiom.com/about-acxiom/privacy/](http://www.acxiom.com/about_us/privacy/)
 
 #### Log Data
 
@@ -54,10 +54,10 @@ Use of our Services by someone under the age of 18 requires parental consent. If
 
 ## Safe Harbor
 
-ProctorU complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. ProctorU has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view ProctorU's certification, please visit http://www.export.gov/safeharbor
+ProctorU complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. ProctorU has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view ProctorU's certification, please visit <http://www.export.gov/safeharbor>
 
 ## Changes to this Policy
 
 We may revise this Privacy Policy from time to time. The most current version of the policy will govern our use of your information and will always be at http://ProctorU.com/privacy. By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Privacy Policy.
 
-This policy is effective 04/01/10.
+This policy is effective 04/15/14.
