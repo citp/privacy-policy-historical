@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meteor.ie privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101195253id_/http%3A//www.meteor.ie/privacy_policy/%3Flinkid%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meteor.ie privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625055346id_/http%3A//www.meteor.ie/privacy_policy/%3Flinkid%3Dfooter) for the most accurate reproduction.*
 
 # Meteor - Privacy Policy
 
@@ -10,7 +10,7 @@ This policy applies to all personal data ("Data") in our possession. Personal Da
 
 Personal Data will be collected, processed and used by Meteor for the purposes of providing Meteor's Services to you or other purposes as listed below. Your Data will be used by Meteor only in a manner consistent with the purpose for which we obtained it. Personal Data may also be processed and used by such other organisations on our behalf for the purpose of providing Services to you. The use of information will remain under the control of Meteor at all times.
 
- **We collect personal data to**
+**We collect personal data to**
 
   * process applications made by you, 
   * create and maintain accounts 
@@ -26,10 +26,12 @@ Personal Data will be collected, processed and used by Meteor for the purposes o
   * Inform you of Meteor promotions
   * carry out market research
   * prevent, detect and investigate fraud, or any other criminal activity
+  * serve credit management purposes and to prevent bad debt. For this purpose, we may disclose and receive credit data relating to you to or from other authorised operators and other Meteor Group Companies;
   * investigate improper use of the services or the network;
   * carry out activities necessary to the running of our business, including system testing, network monitoring, staff training, quality control and any legal proceedings
   * carry out any activities or disclosures to comply with any regulatory, government or legal obligations
   * make searches about you at credit reference agencies that will supply us with credit information to help us decide whether to accept your application or future applications. The agency will record details of our search and your application whether you are accepted or not. We will use a combination of credit scoring and/or automated decision making systems when assessing your application. We may also disclose credit reference data to our dealers where necessary.
+  * achieve any other lawful purpose, including the sharing with third parties, such as other network operators or lawful authorities, for the above purposes
 
 
 
@@ -61,16 +63,16 @@ Data will be retained for any period required by law.
 
 Some Data that is not otherwise subject to retention for normal reasons may need to be retained because of circumstances such as litigation or government investigation.
 
-Type of Record or Information | Retention Period   
+Type of Record or Information  | Retention Period   
 ---|---  
-Personal Call Traffic Details (actual record of call, i.e. time of call, caller, number called, duration of call, etc) | 6 months plus current month (max.) for our purposes as detailed above  
+Personal Call Traffic Details (actual record of call, i.e. time of call, caller, number called, duration of call, etc)  | 6 months plus current month (max.) for our purposes as detailed above  
 For legal purposes call traffic records will be retained for a period of 2 years to comply with State requirements. This retention will take place in a restricted access secure system and will not be used for Meteor's commercial purposes.   
-Business Call Traffic Details (actual record of call, i.e. time of call, caller, number called, duration of call, etc) | 6 months plus current month (max.) for our purposes (as described above).  
+Business Call Traffic Details (actual record of call, i.e. time of call, caller, number called, duration of call, etc)  | 6 months plus current month (max.) for our purposes (as described above).  
 For legal purposes call records will be retained for a period of 2 years to comply with State requirements. This retention will take place in a restricted access secure system and will not be used for Meteor's commercial purposes.   
-Data Service Usage Details (WAP site visits, text alert subscriptions) | 6 months plus current month (max.) for our purposes (as described above). This data does not include content.  
+Data Service Usage Details (WAP site visits, text alert subscriptions)  | 6 months plus current month (max.) for our purposes (as described above). This data does not include content.  
 For legal purposes usage records will be retained for a period of 2 years to comply with State requirements. This retention will take place in a restricted access secure system and will not be used for Meteor's commercial purposes.   
-Cookies | Cookies are stored on a per session basis only to aid your navigation of our web sites. Meteor will not store this data but your browser may be set to store these.   
-Invoices & Statements | 6 years plus current year for invoices and statements.  
+Cookies  | Cookies are stored on a per session basis only to aid your navigation of our web sites. Meteor will not store this data but your browser may be set to store these.   
+Invoices & Statements  | 6 years plus current year for invoices and statements.  
 The call detail element of your standard bill will be severed and deleted after 6 months, as described above.   
   
 ## Cookies
@@ -84,9 +86,9 @@ A cookie is a small unique text file that is saved on your hard desk by a web si
   * Third party vendors, including Google, show our ads on sites on the Internet. 
   * Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to our website.
   * Users can opt out of cookies used by Google for advertising. You can opt out by:
-    *  **Opting out of DoubleClick cookies:** Users can opt out of DoubleClick cookies by visiting the [DART Ad-Serving and Search Cookie Opt-Out](http://www.doubleclick.com/privacy/dart_adserving.aspx) page.
-    *  **Opting out of Google advertising cookies:** Users can opt out of Google's use of cookies for advertising by visiting Google's [Advertising and Privacy](http://www.google.com/privacy_ads.html) page.
-    *  **Opting out of cookies from all participating advertisers:** Users can opt out of third-party advertising cookies from a wide range of advertising services, including Google, by visiting the Network Advertising Initiative's Opt-Out page at <http://www.networkadvertising.org/managing/opt_out.asp>.
+    * **Opting out of DoubleClick cookies:** Users can opt out of DoubleClick cookies by visiting the [DART Ad-Serving and Search Cookie Opt-Out](http://www.doubleclick.com/privacy/dart_adserving.aspx) page.
+    * **Opting out of Google advertising cookies:** Users can opt out of Google's use of cookies for advertising by visiting Google's [Advertising and Privacy](http://www.google.com/privacy_ads.html) page.
+    * **Opting out of cookies from all participating advertisers:** Users can opt out of third-party advertising cookies from a wide range of advertising services, including Google, by visiting the Network Advertising Initiative's Opt-Out page at <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 
 
