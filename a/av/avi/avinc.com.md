@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avinc.com privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120223712id_/http%3A//www.avinc.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avinc.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625152652id_/http%3A//www.avinc.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - AeroVironment, Inc.
 
