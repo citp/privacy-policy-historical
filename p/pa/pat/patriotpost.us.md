@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the patriotpost.us privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127162125id_/http%3A//patriotpost.us/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patriotpost.us privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625050400id_/http%3A//patriotpost.us/about/privacy) for the most accurate reproduction.*
 
-# The Patriot Post — Voice of Essential Liberty
+# Privacy Policy — The Patriot Post
 
 ### Our Commitment to Privacy
 
