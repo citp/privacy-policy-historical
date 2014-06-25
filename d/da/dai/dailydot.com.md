@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dailydot.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104160026id_/http%3A//www.dailydot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailydot.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626002132id_/http%3A//www.dailydot.com/privacy-policy) for the most accurate reproduction.*
 
-# The Daily Dot - Your Internet. Your Internet news.
+# The Daily Dot Privacy Policy | The Daily Dot | Your Internet. Your Internet news.
 
 _Last updated: 13 November 2012_
 
@@ -49,7 +49,7 @@ We do not knowingly collect Personal Information from children under the age of 
 This Privacy Policy is effective as of the date stated at the top of this Privacy Policy. We may change this Privacy Policy from time to time, and will post any changes on the Site as soon as they go into effect. By accessing the Site or using the Service after we make any such changes to this Privacy Policy, you are deemed to have accepted such changes. Please refer back to this Privacy Policy on a regular basis. 
 
 **How to Contact Us.**  
-If you have questions about this Privacy Policy, please e-mail us at [ support@thedailydot.com](https://web.archive.org/web/20131104160026id_/http://www.dailydot.com/privacy-policy/support@thedailydot.com?Subject=PRIVACY%20POLICY), “PRIVACY POLICY” in the subject line, or mail us at the following address: 
+If you have questions about this Privacy Policy, please e-mail us at [ support@thedailydot.com](mailto:support@thedailydot.com?Subject=PRIVACY%20POLICY), “PRIVACY POLICY” in the subject line, or mail us at the following address: 
 
 The Daily Dot, LLC  
 3112 Windsor Road  
