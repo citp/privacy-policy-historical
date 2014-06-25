@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rainbowshops.com privacy policy that was archived on 2013-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131009210006id_/http%3A//www.rainbowshops.com/Privacy-Policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rainbowshops.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625053457id_/http%3A//www.rainbowshops.com/Privacy-Policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -60,9 +60,7 @@ Rainbow may combine the information it collects through cookies, with other info
 
 How We Protect Your Personal Information
 
-Rainbow believes in providing a safe and secure experience for all of its online Visitors. Accordingly, Rainbow has implemented security measures on its Websites to protect the information it has collected. By way of example, Rainbow links your personal information to select employees and others who have a real business need for this information. Rainbow has adopted appropriate data collection, storage and processing practices, and security measures to protect against unauthorized: access; use; and alteration, disclosure or destruction of your personal information, username, password, sale or transaction information, and data, stored on its Websites. To secure your personal information from unauthorized access, use, or disclosure, Rainbow uses Verisign, and data encryption technology, in particular when transferring and receiving your personal information. When personal information (such as a credit card number) is transmitted to other websites, it is protected through the use of encryption, over a Secure Sockets Layer (SSL) secured communication channel.
-
-Verisign is an independent, third-party company engaged in the development of digital trust. Verisign provides authentication of Internet services, digital identity and intellectual property. **By clicking on the Verisign logo** , the Verisign website will serve up a web page that confirms that Rainbow is Verisign Authenticated.
+Rainbow believes in providing a safe and secure experience for all of its online Visitors. Accordingly, Rainbow has implemented security measures on its Websites to protect the information it has collected. By way of example, Rainbow links your personal information to select employees and others who have a real business need for this information. Rainbow has adopted appropriate data collection, storage and processing practices, and security measures to protect against unauthorized: access; use; and alteration, disclosure or destruction of your personal information, username, password, sale or transaction information, and data, stored on its Websites. To secure your personal information from unauthorized access, use, or disclosure, Rainbow uses  data encryption technology, in particular when transferring and receiving your personal information. When personal information (such as a credit card number) is transmitted to other websites, it is protected through the use of encryption, over a Secure Sockets Layer (SSL) secured communication channel.
 
 While we use the foregoing security measures to protect your information, please note that no data transmitted over the Internet, or stored and utilized for business purposes can be guaranteed to be completely secure. No security measures are perfect or impenetrable. We cannot guarantee that only authorized persons will view your information. We cannot ensure that information you share on the Websites will not become publicly available. You can reduce these risks by using common sense security practices such as choosing a strong password, using different passwords for different services, and using up to date antivirus software.
 
@@ -70,25 +68,11 @@ Children Under Thirteen & Eighteen
 
 Rainbow recognizes the importance of children's safety and privacy. The Websites are not designed to attract children, and are not intended for use by any children under the age of 13. Rainbow does not request, or knowingly collect personal identification information from children under the age of 13. Children under the age of 18, may use the Websites only under their parent's or guardian's permission and supervision, and such parent or legal guardian must specifically agree to be bound by the Terms of Use.
 
-Opt-Out & Unsubscribe
-
-We respect your privacy and give you an opportunity to opt-out of, or unsubscribe from, receiving announcements or emails of certain information. You may opt-out of, or unsubscribe from, receiving any or all communications from Rainbow by using the "unsubscribe" option in any marketing email that you receive.
-
-Email Address: [CustomerService@RainbowShops.com](mailto:CustomerService@RainbowShops.com "Email: CustomerService@RainbowShops.com"), [CustomerService@579.com](mailto:CustomerService@579.com "Email: CustomerService@579.com"), or [CustomerService@Mariannestores.com](mailto:CustomerService@Mariannestores.com "Email: CustomerService@Mariannestores.com")
-
-Other Websites
-
-For your convenience Rainbow's Websites may have links to other websites. Rainbow is not responsible for the privacy policies, privacy practices, advertising, products, or content of these other websites, and you should not imply that Rainbow endorses or has an affiliation with the links, just because Rainbow has provided those links to its Websites.
+CustomerService@RainbowShops.com, [CustomerService@579.com](mailto:CustomerService@579.com "Email: CustomerService@579.com"), or [CustomerService@Mariannestores.com](mailto:CustomerService@Mariannestores.com "Email: CustomerService@Mariannestores.com")
 
 Outside the U.S.
 
 Any Visitors to the Websites from a location outside the U.S. should understand that your connection will be through and to servers located in the U.S., and any and all information you receive from the Websites are and will be created and maintained on servers and systems located in the U.S. You acknowledge and agree by using our Websites and providing us with data, that your personal information may be processed for the purposes identified in this Privacy Policy, and that such data may be stored on servers in the U.S. which may have less stringent privacy practices than those of your own resident jurisdiction. By providing us with your data, you consent to the transfer of such data.
-
-California Privacy Rights
-
-Rainbow collects various types of personal information about you during the course of your relationship with Rainbow as a customer or visitor. Under California law, if you are a resident of California, you may make a written request to Rainbow about how it has shared your information with third parties for their direct marketing purposes. In response to your written request, Rainbow is allowed to provide you with a notice describing the cost-free means to opt-out of its sharing your information with third parties with whom it does not share the same brand name, if the third party will use such information for its direct marketing purposes.
-
-If you would like to exercise your rights under California law, please send your written request to the e-mail address or postal address below. Please include your postal address in your request. Within thirty (30) days of receiving your written request, Rainbow will provide you with a Third Party Direct Marketing Opt-Out Form so you may request that your personal information not be disclosed to third parties for their direct marketing purposes. Alternatively, please [click on this link](http://demandware.edgesuite.net/aahf_prd/on/demandware.static/Sites-rainbow-Site/Sites-rainbow-Library/default/v1381325828590/images/customer_service/California%20Privacy%20Right%20Opt-Out%20Form.pdf), California Rights Form, print and complete our Third Party Direct Marketing Opt-Out Form and mail it to our postal address below.
 
 Email Address: [CustomerService@RainbowShops.com](mailto:CustomerService@RainbowShops.com "Email: CustomerService@RainbowShops.com"), [CustomerService@579.com](mailto:CustomerService@579.com "Email: CustomerService@579.com"), or [CustomerService@Mariannestores.com](mailto:CustomerService@Mariannestores.com "Email: CustomerService@Mariannestores.com")
 
@@ -98,20 +82,6 @@ c/o Chaps Inc.
 1000 Pennsylvania Avenue  
 Brooklyn, NY 11207  
 Attn: Customer Service Department
-
-Contact Information
-
-Rainbow welcomes your questions or comments regarding this Privacy Policy, or dealing with any of the Websites. If you have any questions, comments, or issues, please contact us at:
-
-Rainbow   
-c/o Chaps Inc.  
-1000 Pennsylvania Avenue  
-Brooklyn, NY 11207  
-Attn: Customer Service Department
-
-or
-
-Email Address: [CustomerService@RainbowShops.com](mailto:CustomerService@RainbowShops.com "Email: CustomerService@RainbowShops.com"), [CustomerService@579.com](mailto:CustomerService@579.com "Email: CustomerService@579.com"), or [CustomerService@Mariannestores.com](mailto:CustomerService@Mariannestores.com "Email: CustomerService@Mariannestores.com")
 
 or
 
