@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the convert-to.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103034319id_/http%3A//convert-to.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the convert-to.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625140225id_/http%3A//convert-to.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy at convert-to.com
 
@@ -17,6 +17,8 @@ Some of our advertising partners may use cookies and web beacons on our site:
 
 Our advertising partners include **[Google Adsense – http://www.google.com/adsense/](http://www.google.com/adsense/ "Google Adsense program.")** and **DoubleClick DART**. Google, as a third party vendor, uses cookies to serve ads on our web site, these are to improve visitors online experience including displaying of more relevant ads relating to the site’s content. Visitors may opt-out of the use of the **DoubleClick** cookie by visiting the Google ad and content network privacy policy info page at the following URL:   
 **<http://www.google.com/privacy_ads.html>**
+
+Currently, **convert-to.com** has also other relationships with the following third-party ad servers or ad networks:
 
 These third-party ad servers or ad networks use technology to send the advertisements and links that appear on **convert-to.com** directly to your browsers. These automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and/or to personalize the advertising content that you can see.
 
