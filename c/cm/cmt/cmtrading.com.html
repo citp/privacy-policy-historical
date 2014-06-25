@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cmtrading.com privacy policy that was archived on 2013-09-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130903092840id_/http%3A//cmtrading.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cmtrading.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625061630id_/http%3A//cmtrading.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
 	
@@ -19,8 +19,8 @@
     <link href="/Content/jquery.gritter.css" rel="stylesheet" type="text/css">
     <link href="/Content/uniform.css" rel="stylesheet" type="text/css">
     <link href="/SiteKit/Content/dd.css" rel="stylesheet" type="text/css">
-    <link href="/Content/MarketRatesTicker-Gray.css" rel="stylesheet" type="text/css">
-    <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/Scripts/jquery-1.7.1.min.js" type="text/javascript"></script>
+    <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+	<script src="//code.jquery.com/ui/1.10.4/jquery-ui.js"></script>
     <script src="/Scripts/jquery.uniform.min.js" type="text/javascript"></script>
     <script src="/Scripts/slides.min.jquery.js" type="text/javascript"></script>
     <script src="/SiteKit/Scripts/selectLanguage/jquery.dd.js" type="text/javascript"></script>
@@ -28,9 +28,6 @@
     <script src="/Scripts/jquery.alphanumeric.pack.js" type="text/javascript"></script>
     <script src="/Scripts/main.js" type="text/javascript"></script>
     <script src="/Scripts/main-home.js" type="text/javascript"></script>	
-    <script src="/Scripts/MarketRatesTicker.js" type="text/javascript"></script>
-    <script src="/Scripts/MarketRatesDataEngine.js" type="text/javascript"></script>
-    <script src="/Scripts/Ticker.js" type="text/javascript"></script>
 	<script src="/Scripts/mte.js" type="text/javascript"></script>
 	<script type="text/javascript" src="//www.mte-media.com/scripts/swfobject.js"></script>
 	<script src="//www.mte-media.com/scripts/jquery-ui-1.10.3.custom.min.js"></script>	
@@ -41,54 +38,68 @@
     <script src="/Scripts/MicrosoftAjax.debug.js" type="text/javascript"></script>
     <script src="/Scripts/MicrosoftMvcValidation.debug.js" type="text/javascript"></script>
     <script src="/Scripts/MicrosoftMvcAjax.debug.js" type="text/javascript"></script>
-    <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=xa-4fa2d6b10cdccd77"></script>
+    <script type="text/javascript" src="//s7.addthis.com/js/250/addthis_widget.js#pubid=xa-4fa2d6b10cdccd77"></script>
     <script src="/Scripts/checkCountry.js" type="text/javascript"></script>
     <script type="text/javascript" src="/Scripts/jquery.gritter.min.js"></script>
     <script type="text/javascript" src="/Scripts/blockDeposit.js"></script>
     <!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/Content/lt8.css" /><![endif]-->
-    
+	<!--[if lt IE 9]>
+		<link rel="stylesheet" href="/Content/lt9.css" />
+		<script src="/Scripts/PIE.js"></script>
+	<![endif]-->
+	<!--[if IE 9]><link rel="stylesheet" href="/Content/ie9.css" /><![endif]-->
     <script type="text/javascript">
         var blockDepositUrl = '/deposit-block';
         var depositToAccountUrl = '/deposit-check';
+		
+        
+			var demo='true:7';
+		
     </script>
 
-    <script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    <script type="text/javascript">
 
-  ga('create', 'UA-40975409-1', 'cmtrading.com');
-  ga('send', 'pageview');
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+  m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
 
-</script></head>
+    ga('create', 'UA-50663412-1', 'cmtrading.com');
+    ga('send', 'pageview');
+
+</script>
+
+<script type="text/javascript" async="" src="//widget.forexwebservices.com/PageScripts/GetJavaScript/?files=Framework.jQuery.Tpl.js;RatesEngine.js;MarketRates.Ticker.Widget.js;&amp;callback=window.onLeverateWidgetsLoad"></script><link type="text/css" rel="stylesheet" href="//widget.forexwebservices.com/PageScripts/GetCss/?files=MarketRates.Ticker.Widget.css;"></head>
 
 <body>
     
+     
     <div id="wrapper">
 		<div class="w1">
 			<div class="w2">
 				<div id="header">
-					<div class="logo-holder frame">
-						<h1 class="logo">
-							<a href="/">CM Trading FOREX &amp; CFDs</a>
-						</h1>
-						
+					<div class="logo-holder">
+						<div class="mholder">
+							<h1 class="logo">
+								<a href="/">CM Trading FOREX &amp; CFDs</a>
+							</h1>
+							<div class="service-panel">
+								
 
 <div class="top-panel">
-	<div class="inner">
-		
-		<div class="cell"><a href="/partners">PARTNERS</a></div><div class="cell"><a href="/regulations">REGULATIONS</a></div><div class="cell"><a href="/contact_us">CONTACT US</a></div> 
-		<div class="cell">
-			<div class="lang-choose">
-				<div class="ddOutOfVision" style="height:0px;overflow:hidden;position:absolute;" id="languageMenu_msddHolder"><select name="languageMenu" id="languageMenu" onchange="changeLanguage(this.value)">
+	<div class="cell"><a href="/partners">PARTNERS</a></div><div class="cell"><a href="/regulations">REGULATIONS</a></div><div class="cell"><a href="/contact_us">CONTACT US</a></div> 
+	<div class="cell">
+		<div class="lang-choose">
+			<select name="languageMenu" id="languageMenu" onchange="changeLanguage(this.value)">
 <option value="/SKUtils/SwitchLanguage?idl=en-US" title="/SKImageHandler/GetLanguageImage/cfa9ac68-a546-4aa0-a20c-34fb40e40818" selected="selected">English</option>
 <option value="/SKUtils/SwitchLanguage?idl=de-DE" title="/SKImageHandler/GetLanguageImage/88a3e38e-f607-45d8-826c-4e6b71f435ef">Deutsch</option>
 <option value="/SKUtils/SwitchLanguage?idl=nl-NL" title="/SKImageHandler/GetLanguageImage/049cc5b3-f4c7-45a4-81c5-7fd92fb69f7b">Nederlands</option>
 <option value="/SKUtils/SwitchLanguage?idl=fr-FR" title="/SKImageHandler/GetLanguageImage/e4cddd35-7f37-479f-8e07-87672327ae39">Francais</option>
 <option value="/SKUtils/SwitchLanguage?idl=ar-SA" title="/SKImageHandler/GetLanguageImage/04637ac2-8f2d-4ff4-b674-075a0ea41c96">العربية</option>
 <option value="/SKUtils/SwitchLanguage?idl=vi-VN" title="/SKImageHandler/GetLanguageImage/c959f72e-2d3d-40b6-bbf0-6da07e45a76e">Vietnamese</option>
-</select></div><div id="languageMenu_msdd" class="dd" style="width: 93px;"><div id="languageMenu_title" class="ddTitle"><span id="languageMenu_arrow" class="arrow"></span><span class="ddTitleText" id="languageMenu_titletext"><img src="/SKImageHandler/GetLanguageImage/cfa9ac68-a546-4aa0-a20c-34fb40e40818" align="absmiddle"> <span class="ddTitleText">English</span></span></div><div id="languageMenu_child" class="ddChild" style="width: 91px;"><a href="javascript:void(0);" class="selected enabled" id="languageMenu_msa_0"><img src="/SKImageHandler/GetLanguageImage/cfa9ac68-a546-4aa0-a20c-34fb40e40818" align="absmiddle"> <span class="ddTitleText">English</span></a><a href="javascript:void(0);" class="enabled" id="languageMenu_msa_1"><img src="/SKImageHandler/GetLanguageImage/88a3e38e-f607-45d8-826c-4e6b71f435ef" align="absmiddle"> <span class="ddTitleText">Deutsch</span></a><a href="javascript:void(0);" class="enabled" id="languageMenu_msa_2"><img src="/SKImageHandler/GetLanguageImage/049cc5b3-f4c7-45a4-81c5-7fd92fb69f7b" align="absmiddle"> <span class="ddTitleText">Nederlands</span></a><a href="javascript:void(0);" class="enabled" id="languageMenu_msa_3"><img src="/SKImageHandler/GetLanguageImage/e4cddd35-7f37-479f-8e07-87672327ae39" align="absmiddle"> <span class="ddTitleText">Francais</span></a><a href="javascript:void(0);" class="enabled" id="languageMenu_msa_4"><img src="/SKImageHandler/GetLanguageImage/04637ac2-8f2d-4ff4-b674-075a0ea41c96" align="absmiddle"> <span class="ddTitleText">العربية</span></a><a href="javascript:void(0);" class="enabled" id="languageMenu_msa_5"><img src="/SKImageHandler/GetLanguageImage/c959f72e-2d3d-40b6-bbf0-6da07e45a76e" align="absmiddle"> <span class="ddTitleText">Vietnamese</span></a></div></div>
+</select>
 
 
 <script type="text/javascript">
@@ -104,7 +115,6 @@
     });
 </script>
 
-			</div>
 		</div>
 	</div>
 </div>
@@ -112,18 +122,18 @@
     <form action="/LogOn" class="register-form login-form" id="loginForm" method="post">
                 <div class="login">
                     <div class="row">
-                        <div class="cell calc-cell">
+                        <div class="cell">
                             <div class="input">
                                 <div><input class="txt" id="UserName" name="UserName" tabindex="1" title="username" type="text" value="Username"></div>
                             </div>                       
                         </div>
-                        <div class="cell calc-cell">
+                        <div class="cell">
                             <div class="input">
                                 <div><input class="txt" id="Password" name="Password" tabindex="2" title="password" type="password"></div>
                             </div>
                         </div>
-                        <div class="btn-cell calc-cell">
-                            <a class="btn-small" href="#" onclick="sbmitForm(); return false;" tabindex="3"><span>LOGIN</span></a>
+                        <div class="btn-cell cell">
+                            <a class="btnnew" href="#" onclick="sbmitForm(); return false;" tabindex="3"><span>LOGIN</span></a>
                         </div>
                     </div>
                     <div class="row">
@@ -148,21 +158,21 @@
     var validateLoginUrl = '/Account/IsValidLogin';
 </script>
 
+							</div>
+						</div>
 					</div>
 					<div class="nav-holder">
-						<div class="frame">
-							<ul class="nav" id="nav"><li class="first-child"><div class="drop-hold"><a href="/#" class=" has-drop-down-a">Forex</a><div class="drop"><ul><li><a href="/new-to-forex">New to Forex?</a></li><li><a href="/trading-forex">Why Trade Forex</a></li><li><a href="/spread-margin-forex">Spreads and Margin</a></li><li><a href="/real">Open Account</a></li></ul></div></div></li><li><div class="drop-hold"><a href="/#" class=" has-drop-down-a">CFDs</a><div class="drop"><ul><li><a href="/intro-to-cfds">What are CFDs</a></li><li><a href="/how-to-trade-cfds">Trading CFDs</a></li><li><a href="/spread-margin-cfd">Spreads and Margin</a></li><li><a href="/real">Open Account</a></li></ul></div></div></li><li><div class="drop-hold"><a href="/#" class=" has-drop-down-a">Accounts</a><div class="drop"><ul><li><a href="/account-type">Account Types</a></li><li><a href="/deposit_methods_content">Deposit Methods</a></li><li><a href="/real">Open Account</a></li><li><a href="/mirrortrader">Mirror Trader</a></li><li><a href="/banking-info">Banking Info</a></li></ul></div></div></li><li><div class="drop-hold"><a href="/#" class=" has-drop-down-a">MT4</a><div class="drop"><ul><li><a href="/Assets/Media/METATRADER 4 USER GUIDE.pdf" target="_blank">User Manual</a></li><li><a href="/mobile-platforms">Mobile Trading</a></li><li><a href="/education-ea">Expert Advisors</a></li><li><a href="/Tablet_Trading">Tablet Trading</a></li><li><a href="/communication-tools">Communication Tools</a></li></ul></div></div></li><li><div class="drop-hold"><a href="/#" class=" has-drop-down-a">Partnership</a><div class="drop"><ul><li><a href="/partnerships-ib">IB Program</a></li><li><a href="/partnerships-affiliates">Affiliates</a></li><li><a href="/partnerships-white-label">White Label Partnerships</a></li><li><a href="/partnerships-money-manager">Money Manager</a></li></ul></div></div></li><li><div class="drop-hold"><a href="/#" class=" has-drop-down-a">Education</a><div class="drop"><ul><li><a href="/education-what-is-forex">What is Forex</a></li><li><a href="/education-fundamental-analysis">Fundamental Analysis</a></li><li><a href="/education-technical-analysis">Technical Analysis</a></li><li><a href="http://autochartist.com/ssresearch/ACResearchCMTrading.html?brokerid=34" target="_blank">Auto Chartist</a></li><li><a href="/webinars">Webinars</a></li><li><a href="http://cmtradingblog.blogspot.com/" target="_blank">Trading Blog</a></li><li><a href="http://cmtrading.flexianalysis.com/?cunid=5044&amp;cscc=gZ_lhbJ_46ThmvEki2lF&amp;cdmacc=true" target="_blank">Flexi Analysis Portal</a></li><li><a href="/economic-calendar">Economic Calendar</a></li><li><a href="/media-videos">Media videos</a></li></ul></div></div></li><li><div class="drop-hold"><a href="/#" class=" has-drop-down-a">About Us</a><div class="drop"><ul><li><a href="/about-us">Company Profile</a></li><li><a href="/regulations">Regulation</a></li><li><a href="/safety-of-funds">Safety of Funds</a></li><li><a href="/contact_us">Contact</a></li></ul></div></div></li></ul>
-						</div>
+						<ul class="nav" id="nav"><li class="first-child"><div class="drop-hold"><a href="/#">Forex</a><div class="drop"><ul><li><a href="/new-to-forex"><span>New to Forex?</span></a></li><li><a href="/trading-forex"><span>Why Trade Forex</span></a></li><li><a href="/spread-margin-forex"><span>Spreads and Margin</span></a></li><li><a href="/real"><span>Open Account</span></a></li></ul></div></div></li><li><div class="drop-hold"><a href="/#">CFDs</a><div class="drop"><ul><li><a href="/intro-to-cfds"><span>What are CFDs</span></a></li><li><a href="/how-to-trade-cfds"><span>Trading CFDs</span></a></li><li><a href="/spread-margin-cfd"><span>Spreads and Margin</span></a></li><li><a href="/real"><span>Open Account</span></a></li></ul></div></div></li><li><div class="drop-hold"><a href="/#">Accounts</a><div class="drop"><ul><li><a href="/account-types"><span>Account Types</span></a></li><li><a href="/deposit_methods_content"><span>Deposit Methods</span></a></li><li><a href="/real"><span>Open Account</span></a></li><li><a href="/mirrortrader"><span>Mirror Trader</span></a></li><li><a href="/banking-info"><span>Banking Info</span></a></li></ul></div></div></li><li><div class="drop-hold"><a href="/#">MT4</a><div class="drop"><ul><li><a href="/Assets/Media/METATRADER 4 USER GUIDE.pdf" target="_blank"><span>User Manual</span></a></li><li><a href="/mobile-platforms"><span>Mobile Trading</span></a></li><li><a href="/education-ea"><span>Expert Advisors</span></a></li><li><a href="/Tablet_Trading"><span>Tablet Trading</span></a></li><li><a href="/communication-tools"><span>Communication Tools</span></a></li></ul></div></div></li><li><div class="drop-hold"><a href="/#">Partnership</a><div class="drop"><ul><li><a href="/partnerships-ib"><span>IB Program</span></a></li><li><a href="/partnerships-affiliates"><span>Affiliates</span></a></li><li><a href="/partnerships-white-label"><span>White Label Partnerships</span></a></li><li><a href="/partnerships-money-manager"><span>Money Manager</span></a></li><li><a href="http://ib.cmtrading.com/affiliates/signup.php#SignupForm" target="_blank"><span>Sign-up</span></a></li></ul></div></div></li><li><div class="drop-hold"><a href="/#">Education</a><div class="drop"><ul><li><a href="/education-what-is-forex"><span>What is Forex</span></a></li><li><a href="/education-fundamental-analysis"><span>Fundamental Analysis</span></a></li><li><a href="/education-technical-analysis"><span>Technical Analysis</span></a></li><li><a href="/webinars"><span>Webinars</span></a></li><li><a href="http://cmtrading.flexianalysis.com/?cunid=5044&amp;cscc=gZ_lhbJ_46ThmvEki2lF&amp;cdmacc=true" target="_blank"><span>Flexi Analysis Portal</span></a></li><li><a href="/economic-calendar"><span>Economic Calendar</span></a></li><li><a href="/media-videos"><span>Media videos</span></a></li><li><a href="/Daily_Commentary"><span>Daily Commentary</span></a></li></ul></div></div></li><li><div class="drop-hold"><a href="/#">About Us</a><div class="drop"><ul><li><a href="/about-us"><span>Company Profile</span></a></li><li><a href="/regulations"><span>Regulation</span></a></li><li><a href="/safety-of-funds"><span>Safety of Funds</span></a></li><li><a href="/contact_us"><span>Contact</span></a></li></ul></div></div></li></ul>
 					</div>
 				</div>
 				<div id="main">
 					<div id="twocolumns">
 						<div class="intro">
 							<div class="visual">
-								<p><img alt="" src="/Content/Images/about_us_banner.jpg"></p>
+								<p><img alt="" src="/Content/Images/privacy-policy.jpg"></p>
                                 		
 							</div>
-							<div id="ticker"></div>
+							<div id="marketrates_ticker_widget"></div>
 						</div>
 						<div class="main-holder">
 							<div class="breadcrumbs">
@@ -190,12 +200,15 @@
 <div id="sidebar">
 	<div class="btn-holder">    
 			
-			<a href="/real" class="big-btn"><span>Open <strong>Live account</strong></span></a>	
-		   
-		<a href="/demo" class="big-btn big-btn2"><span>free <strong>demo account</strong></span></a>
-		<a href="/webtrader-autologin" class="big-btn big-btn3"><span>login <strong>webtrader</strong></span></a>
+			<a href="/real" class="button btn-big btn-acc"><span><span>Open<br> Live account</span></span></a>	
+		
+		<a href="/demo" class="button button2 btn-big btn-acc"><span><span>open<br> demo account</span></span></a>
+		
+        <a href="/webtrader-autologin" class="button button3 btn-big btn-sirix"><span><span><span class="textsection"><span class="logo-sirix">Sirix</span>
+<br>
+webtrader</span> <span class="button">login</span></span></span></a>
 	</div>
-	<div class="box"><div class="box-t"><div>&nbsp;</div></div><div class="box-m"><div class="box-c"><div class="box-heading"><div class="inner"><h2>support</h2></div></div><div class="support"><dl><dt>Phone Number</dt><dd><strong class="phone">+44 203 150 1431</strong></dd></dl><dl><dt>Email</dt><dd><strong><a href="mailto:info@cmtrading.com">info@cmtrading.com</a></strong></dd></dl><div class="buttons"><dl><dt>Callback</dt><dd><a class="button btn-call" href="/call-me-back"><span><span>Call Me</span></span></a></dd></dl><dl><dt>Online Chat</dt><dd><a class="button btn-chat" href="https://livechat.boldchat.com/aid/305509507326744277/bc.chat?resize=true&amp;cbdid=302732366378705050" onclick="window.open((window.pageViewer &amp;&amp; pageViewer.ink || function(link){return link;})(this.href + (this.href.indexOf('?')>=0 ? '&amp;' : '?') + 'url=' + escape(document.location.href)), 'Chat305509507326744277', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=640,height=480');return false;" target="_blank"><span><span>Start Chat</span></span></a></dd></dl></div></div><div class="addthis_toolbox addthis_default_style addthis_32x32_style"><a class="addthis_button_preferred_1">&nbsp;</a><a class="addthis_button_preferred_2">&nbsp;</a><a class="addthis_button_preferred_3">&nbsp;</a><a class="addthis_button_preferred_4">&nbsp;</a><a class="addthis_button_compact">&nbsp;</a><a class="addthis_counter addthis_bubble_style">&nbsp;</a></div></div></div><div class="box-b"><div>&nbsp;</div></div></div>
+	<div class="box"><div class="box-content"><div class="box-heading"><div class="inner"><h2>support</h2></div></div><div class="support"><dl><dt>Phone Number</dt><dd><strong class="phone">+44 203 150 1431</strong></dd></dl><dl><dt>Email</dt><dd><strong><a href="mailto:info@cmtrading.com">info@cmtrading.com</a></strong></dd></dl><div class="buttons"><dl><dt>Callback</dt><dd><a class="button btn-call" href="/call-me-back"><span><span>Call Me</span></span></a></dd></dl><dl><dt>Online Chat</dt><dd><a class="button btn-chat" href="https://livechat.boldchat.com/aid/305509507326744277/bc.chat?resize=true&amp;cbdid=302732366378705050" onclick="window.open((window.pageViewer &amp;&amp; pageViewer.ink || function(link){return link;})(this.href + (this.href.indexOf('?')>=0 ? '&amp;' : '?') + 'url=' + escape(document.location.href)), 'Chat305509507326744277', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=640,height=480');return false;" target="_blank"><span><span>Start Chat</span></span></a></dd></dl></div></div><div class="addthis_toolbox addthis_default_style addthis_32x32_style"><a class="addthis_button_preferred_1">&nbsp;</a><a class="addthis_button_preferred_2">&nbsp;</a><a class="addthis_button_preferred_3">&nbsp;</a><a class="addthis_button_preferred_4">&nbsp;</a><a class="addthis_button_compact">&nbsp;</a><a class="addthis_counter addthis_bubble_style">&nbsp;</a></div></div></div>
 </div>
 
 				</div>
@@ -205,7 +218,7 @@
 			<div class="footer-holder">
 				<div class="footer-frame">	
 					<div class="footer-main">
-						<div class="footer-lists "><div class="list"><h3><a href="/#">Forex</a></h3><ul><li><a href="/new-to-forex">New to Forex?</a></li><li><a href="/trading-forex">Why Trade Forex</a></li><li><a href="/spread-margin-forex">Spreads and Margin</a></li><li><a href="/real">Open Account</a></li></ul></div><div class="list"><h3><a href="/#">CFDs</a></h3><ul><li><a href="/intro-to-cfds">What are CFDs</a></li><li><a href="/how-to-trade-cfds">Trading CFDs</a></li><li><a href="/spread-margin-cfd">Spreads and Margin</a></li><li><a href="/real">Open Account</a></li></ul></div><div class="list"><h3><a href="/#">Accounts</a></h3><ul><li><a href="/account-type">Account Types</a></li><li><a href="/deposit_methods_content">Deposit Methods</a></li><li><a href="/real">Open Account</a></li><li><a href="/mirrortrader">Mirror Trader</a></li><li><a href="/banking-info">Banking Info</a></li></ul></div><div class="list"><h3><a href="/#">MT4</a></h3><ul><li><a href="/Assets/Media/METATRADER 4 USER GUIDE.pdf" target="_blank">User Manual</a></li><li><a href="/mobile-platforms">Mobile Trading</a></li><li><a href="/education-ea">Expert Advisors</a></li><li><a href="/Tablet_Trading">Tablet Trading</a></li><li><a href="/communication-tools">Communication Tools</a></li></ul></div><div class="list"><h3><a href="/#">Partnership</a></h3><ul><li><a href="/partnerships-ib">IB Program</a></li><li><a href="/partnerships-affiliates">Affiliates</a></li><li><a href="/partnerships-white-label">White Label Partnerships</a></li><li><a href="/partnerships-money-manager">Money Manager</a></li></ul></div><div class="list"><h3><a href="/#">Education</a></h3><ul><li><a href="/education-what-is-forex">What is Forex</a></li><li><a href="/education-fundamental-analysis">Fundamental Analysis</a></li><li><a href="/education-technical-analysis">Technical Analysis</a></li><li><a href="http://autochartist.com/ssresearch/ACResearchCMTrading.html?brokerid=34" target="_blank">Auto Chartist</a></li><li><a href="/webinars">Webinars</a></li><li><a href="http://cmtradingblog.blogspot.com/" target="_blank">Trading Blog</a></li><li><a href="http://cmtrading.flexianalysis.com/?cunid=5044&amp;cscc=gZ_lhbJ_46ThmvEki2lF&amp;cdmacc=true" target="_blank">Flexi Analysis Portal</a></li><li><a href="/economic-calendar">Economic Calendar</a></li><li><a href="/media-videos">Media videos</a></li></ul></div><div class="list"><h3><a href="/#">About Us</a></h3><ul><li><a href="/about-us">Company Profile</a></li><li><a href="/regulations">Regulation</a></li><li><a href="/safety-of-funds">Safety of Funds</a></li><li><a href="/contact_us">Contact</a></li></ul></div></div>
+						<div class="footer-lists "><div class="list"><h3><a href="/#">Forex</a></h3><ul><li><a href="/new-to-forex">New to Forex?</a></li><li><a href="/trading-forex">Why Trade Forex</a></li><li><a href="/spread-margin-forex">Spreads and Margin</a></li><li><a href="/real">Open Account</a></li></ul></div><div class="list"><h3><a href="/#">CFDs</a></h3><ul><li><a href="/intro-to-cfds">What are CFDs</a></li><li><a href="/how-to-trade-cfds">Trading CFDs</a></li><li><a href="/spread-margin-cfd">Spreads and Margin</a></li><li><a href="/real">Open Account</a></li></ul></div><div class="list"><h3><a href="/#">Accounts</a></h3><ul><li><a href="/account-types">Account Types</a></li><li><a href="/deposit_methods_content">Deposit Methods</a></li><li><a href="/real">Open Account</a></li><li><a href="/mirrortrader">Mirror Trader</a></li><li><a href="/banking-info">Banking Info</a></li></ul></div><div class="list"><h3><a href="/#">MT4</a></h3><ul><li><a href="/Assets/Media/METATRADER 4 USER GUIDE.pdf" target="_blank">User Manual</a></li><li><a href="/mobile-platforms">Mobile Trading</a></li><li><a href="/education-ea">Expert Advisors</a></li><li><a href="/Tablet_Trading">Tablet Trading</a></li><li><a href="/communication-tools">Communication Tools</a></li></ul></div><div class="list"><h3><a href="/#">Partnership</a></h3><ul><li><a href="/partnerships-ib">IB Program</a></li><li><a href="/partnerships-affiliates">Affiliates</a></li><li><a href="/partnerships-white-label">White Label Partnerships</a></li><li><a href="/partnerships-money-manager">Money Manager</a></li><li><a href="http://ib.cmtrading.com/affiliates/signup.php#SignupForm" target="_blank">Sign-up</a></li></ul></div><div class="list"><h3><a href="/#">Education</a></h3><ul><li><a href="/education-what-is-forex">What is Forex</a></li><li><a href="/education-fundamental-analysis">Fundamental Analysis</a></li><li><a href="/education-technical-analysis">Technical Analysis</a></li><li><a href="/webinars">Webinars</a></li><li><a href="http://cmtrading.flexianalysis.com/?cunid=5044&amp;cscc=gZ_lhbJ_46ThmvEki2lF&amp;cdmacc=true" target="_blank">Flexi Analysis Portal</a></li><li><a href="/economic-calendar">Economic Calendar</a></li><li><a href="/media-videos">Media videos</a></li><li><a href="/Daily_Commentary">Daily Commentary</a></li></ul></div><div class="list"><h3><a href="/#">About Us</a></h3><ul><li><a href="/about-us">Company Profile</a></li><li><a href="/regulations">Regulation</a></li><li><a href="/safety-of-funds">Safety of Funds</a></li><li><a href="/contact_us">Contact</a></li></ul></div></div>
 						<div class="secured-logos"><a href="#"><img alt="SOCIETE " height="28" src="/content/images/img-flogo01.gif" width="83"></a><a href="#"><img alt="BARCLAYS" height="28" src="/content/images/img-flogo02.gif" width="147"></a><a href="#"><img alt="SSL Secured Certified" height="28" src="/content/images/img-flogo03.gif" width="147"></a></div><div class="footer-nav"><ul><li><a href="/risk-warning">Risk Warning</a></li><li><a href="/privacy-policy">Privacy Policy</a></li><li><a href="/regulations">Regulations</a></li><li><a href="/fair-treatment">Treating Customers Fairly</a></li><li><a href="/legal-statement">Legal Statement</a></li></ul></div> 
 
 
@@ -220,6 +233,30 @@
 		</div>
 	</div>
     
+	<script type="text/javascript">
+		(function () {
+			var wLang = 'en';
+			var clientUrl = '//widget.forexwebservices.com';
+			var js = document.createElement('script');
+			js.type = 'text/javascript';
+			js.async = true;
+			js.src = clientUrl + '/PageScripts/GetJavaScript/?files=Framework.jQuery.Tpl.js;RatesEngine.js;MarketRates.Ticker.Widget.js;&callback=window.onLeverateWidgetsLoad'; document.getElementsByTagName('head')[0].appendChild(js);
+			var css = document.createElement('link');
+			css.type = 'text/css';
+			css.async = true;
+			css.rel = 'stylesheet';
+			css.href = clientUrl + '/PageScripts/GetCss/?files=MarketRates.Ticker.Widget.css;'; document.getElementsByTagName('head')[0].appendChild(css);
+			onLeverateWidgetsLoad = function () {
+				$("#marketrates_ticker_widget").leverateMarketRatesTicker({
+					socialWidgetClientUrl: clientUrl,
+					updateInterval: 5,
+					instruments: ['EURUSD', 'EURGBP', 'GBPUSD', 'EURCHF', 'EURCHFntv', 'USDCHF', 'GBPAUD', 'GBPCAD', 'GBPCHF', 'GBPJPY', 'GBPUSD', 'NZDJPY', 'AUDCAD', 'AUDCHF', 'AUDNZD', 'AUDUSD', 'EURILS', 'EURINR', 'EURJPY', 'EURNOK', 'EURTRY', 'CAC', 'CATER', 'CL-OCT13', 'CNXNIFTY-SEP13', 'COPP-SEP13', 'CORN-DEC13', 'CORN-SEP13', 'DOW', 'DAX', 'FTSE', 'NSDQ', 'SP500', 'HANG-SEP13', 'INTEL', 'NGAS-OCT13', 'NIFTY-SEP13', 'NK-DEC13', 'NK-SEP13', 'NZDUSD', 'USDILS', 'USDCAD', 'USDINR', 'USDJPY', 'USDTRY', 'WHEAT-DEC13', 'WIPRO-NSE', 'YAHOO', 'APPLE', 'GOOGLE', 'MSFT', 'IBM'],
+					speed: 5000,
+					skin: "light"
+				});
+			}
+		})();
+	</script>
 
 
-<div class="popup-overlay" style="opacity: 0.82; background-color: rgb(0, 0, 0); position: absolute; overflow: hidden; display: none; top: 0px; left: 0px; z-index: 9998;"></div></body></html>
+</body></html>
