@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourupload.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209101605id_/http%3A//www.yourupload.com/index.php%3Fact%3Dpage%26page%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourupload.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625063526id_/http%3A//www.yourupload.com/index.php%3Fact%3Dpage%26page%3Dprivacy-policy) for the most accurate reproduction.*
 
 # YourUpload
 
@@ -165,4 +165,4 @@ Our Privacy Policy may change from time to time. We will not reduce your rights 
 
 * * *
 
-Execution: 0.02174 | Memory: 1.27MB
+Execution: 0.01675 | Memory: 1.27MB
