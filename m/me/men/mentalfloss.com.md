@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mentalfloss.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225195626id_/http%3A//mentalfloss.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mentalfloss.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625120737id_/http%3A//mentalfloss.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mental Floss
 
@@ -22,3 +22,8 @@ mental_floss uses "cookies" to make your shopping experience more enjoyable. We 
 
 **Policy Modifications**  
 We may change this Privacy Policy from time to time on a whim, for our own amusement. We have to have fun somehow.
+
+**Third Party Advertising**  
+We use third party advertising companies and advertising networks to serve ads to you on our behalf when you visit these Services. These companies may use information (not including your name, address, e-mail address or telephone number) about your visits to these Services and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see:  
+<http://www.networkadvertising.org/managing/opt_out.asp>  
+<http://www.doubleclick.com/us/about_doubleclick/privacy>
