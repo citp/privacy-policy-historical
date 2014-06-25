@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panasonic.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601030858id_/http%3A//shop.panasonic.com/legal/privacy/club-panasonic.dot) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panasonic.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625113935id_/http%3A//shop.panasonic.com/legal/privacy/club-panasonic.dot) for the most accurate reproduction.*
 
 # Club Panasonic Privacy Statement
 
@@ -44,10 +44,9 @@ Any form of communication sent to this site, be it ideas, suggestions or any oth
 
 If you have any questions about this online Privacy Policy, the practices of this site or your dealings with this site, please contact us at:
 
-  * Privacy Administrator
   * Panasonic Corporation of North America
-  * One Panasonic Way, 2F-3
-  * Secaucus, New Jersey 07094
+  * Two Riverfront Plaza
+  * Newark, NJ 07102-5490
 
 
 
