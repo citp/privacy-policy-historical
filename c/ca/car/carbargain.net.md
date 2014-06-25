@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the carbargain.net privacy policy that was archived on 2013-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130907191619id_/http%3A//carbargain.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carbargain.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625191438id_/http%3A//carbargain.net/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - CarBargain.net
 
-This policy was last updated and posted in March 2010. It governs the privacy policy of our Website, [http://www.carbargain.net](http://www.carbargain.net/).
+This policy was last updated and posted in October 2013. It governs the privacy policy of our Website, [http://www.carbargain.net](http://www.carbargain.net/).
 
 ## Definitions
 
@@ -20,6 +20,14 @@ Virtual Project Manager, Inc. and its affiliates are committed to respecting you
 
 As a part of our commitment to your privacy, we support and adhere to the guidelines and practices adopted by the Direct Marketing Association Privacy Promise to American consumers. Accordingly, we have agreed to (1) provide customers with notice of their ability to opt out of information exchanges with other marketers; (2) honor customer requests not to have their information transferred to others for marketing purposes; and (3) accept and honor customer requests not to receive solicitations from any of our brands.
 
+## Use of Remarketing with Google Analytics
+
+Virtual Project Manager, Inc uses Remarketing with Google Analytics along with Google Adwords as part of tailoring our advertising to our users. We use these Google tools to better direct information of interest to you as associated with your signing up with our Website. As required by Google, you should know that third party vendors, including Google, show our advertisements across the internet and that your Personally Identifiable Information is never included in such advertisement or otherwise provided to third parties without your consent. 
+
+## Telephone Consumer Protection Act Notice
+
+As part of our Website functionality, you understand that you are providing certain Personally Identifiable Information (i.e. name and phone number) so that you may be contacted by third parties such as automobile dealers and their representatives, which may include call centers, auto-dialers, and the like. As such, by providing such information through our Website, you are giving express consent to such contact and acknowledge that such authorization supersedes any entry you may have on the United States. Do Not Call Registry. If you wish to no longer be contacted, you must notify Virtual Project Manager, Inc. through the facilities found on our Website. As it can take some time for such third parties to update their systems, please allow up to two (2) weeks for such calls to stop. 
+
 ## Links to Other Websites
 
 Our Website may contain links to other websites that are not under our control. These websites may have their own policies regarding privacy. We have no control of or responsibility for linked websites and provide these links solely for the convenience and information of our visitors. You access such linked Websites at your own risk. These websites are not subject to this Privacy Policy. You should check the privacy policies, if any, of those individual websites to see how the operators of those third-party websites will utilize your personal information. In addition, these websites may contain a link to Websites of our affiliates. The websites of our affiliates are not subject to this Privacy Policy, and you should check their individual privacy policies to see how the operators of such websites will utilize your personal information.
@@ -34,7 +42,7 @@ We also collect Personally Identifiable Information of a financial nature, such 
 
 ## Cookies
 
-Our Website may send a "cookie" to your computer. A cookie is a small piece of data that is sent to your browser from a web server and stored on your computer's hard drive. A cookie cannot read data off your hard disk or read cookie files created by other sites. Cookies do not damage your system. We use cookies to identify which areas of our site you have visited, so the next time you visit the site, we can better personalize the content that you see on our Website. Most browser software can be set to reject Cookies. However, if you reject our Cookies, certain functionality on our Website may not work correctly or at all. We do not place Personally Identifiable Information in Cookies.
+Our Website may send a "cookie" to your computer. A cookie is a small piece of data that is sent to your browser from a web server and stored on your computer's hard drive. A cookie cannot read data off your hard disk or read cookie files created by other sites. Cookies do not damage your system. We use cookies to identify which areas of our site you have visited, so the next time you visit the site, we can better personalize the content that you see on our Website. Third party vendors with whom we are associated (i.e. Google), may also place cookies as well to inform, optimize, and serve ads or other offers to you which may be of interest. Most browser software can be set to reject Cookies. However, if you reject our Cookies, certain functionality on our Website may not work correctly or at all. We do not place Personally Identifiable Information in Cookies.
 
 ## Web Beacons
 
