@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babesrater.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126180452id_/http%3A//babesrater.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babesrater.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625103155id_/http%3A//babesrater.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -7,7 +7,7 @@ As part of your registration, we collect your e-mail and ip address. This is use
 Your information will never be shared with or sold to any other parties except under the following circumstances: 
 
   * It is required by law to share the information with the appropriate agencies 
-  * Babes Rater is merged or acquired by another company. In this case, your information will be transferred to the new company and it will be subject to their privacy policy. 
+  * Pearson Media LLC is merged or acquired by another company. In this case, your information will be transferred to the new company and it will be subject to their privacy policy. 
 
 
 
