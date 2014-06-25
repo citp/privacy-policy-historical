@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the norml.org privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127012304id_/http%3A//norml.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the norml.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625044318id_/http%3A//norml.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -37,9 +37,9 @@ To change your membership information, unsubscribe from an email list, or reques
   1. Send email to [norml@norml.org](mailto:norml@norml.org)
   2. Send mail to:  
  _NORML  
-1600 K Street, NW  
-Mezzanine Level  
-Washington, DC  20006-2832_
+1100 H Street, NW  
+Suite 830   
+Washington, DC  20005_
   3. Call 202-483-5500
 
 
