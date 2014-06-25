@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moviebat.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529074655id_/http%3A//moviebat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviebat.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625095221id_/http%3A//moviebat.com/privacy-policy) for the most accurate reproduction.*
 
-# Your #1 Source for Movies & TV Shows in DVD, Blu-ray & Instant Videos! » Privacy Policy
+# Privacy Policy | Your #1 Source for Movies & TV Shows in DVD, Blu-ray & Instant Videos!
 
 **Your #1 Source for Movies & TV Shows in DVD, Blu-ray & Instant Videos!** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.
 
