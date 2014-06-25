@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cam.com privacy policy that was archived on 2013-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130822172738id_/http%3A//www.cam.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cam.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625051603id_/http%3A//www.cam.com/privacy.html%3F) for the most accurate reproduction.*
 
-# Cam.com ~ Privacy
+# Cam.com ~ Privacy Policy
 
 [Home](http://www.cam.com/) / Privacy Policy
 
