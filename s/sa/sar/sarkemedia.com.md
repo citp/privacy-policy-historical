@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sarkemedia.com privacy policy that was archived on 2013-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130918010156id_/http%3A//www.sarkemedia.com/sarah-arrow-sark-e-media-our-commitment-to-your-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sarkemedia.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625062750id_/http%3A//www.sarkemedia.com/sarah-arrow-sark-e-media-our-commitment-to-your-privacy) for the most accurate reproduction.*
 
-# Sarah Arrow / Sark e-Media our commitment to your privacy - Finding Social Media Campaign Success
+# Sarah Arrow / Sark e-Media our commitment to your privacy - Content Marketing and Social Media Success
 
 This site is owned and operated by Sarah Arrow / Sark e-media. Your privacy on the Internet is of the utmost importance to us. At Sarah Arrow / Sark e-media, we want to make your experience online satisfying and safe.
 
@@ -50,7 +50,7 @@ Consistent with the Federal Children’s Online Privacy Protection Act of 1998 (
 
 Usage tracking
 
-Sarah Arrow / Sark e-media tracks user traffic patterns throughout all of our sites. However, we do not correlate this information with data about individual users. Sarah Arrow / Sark e-media does break down overall usage statistics according to a user’s [domain name](http://www.123-reg.co.uk/affiliate.cgi?id=AF1255395&url=http://www.123-reg.co.uk/ "domain name"), browser type, and MIME type by reading this information from the browser string (information contained in every user’s browser).
+Sarah Arrow / Sark e-media tracks user traffic patterns throughout all of our sites. However, we do not correlate this information with data about individual users. Sarah Arrow / Sark e-media does break down overall usage statistics according to a user’s domain name, browser type, and MIME type by reading this information from the browser string (information contained in every user’s browser).
 
 Sarah Arrow / Sark e-media sometimes tracks and catalogs the search terms that users enter in our Search function, but this tracking is never associated with individual users. We use tracking information to determine which areas of our sites users like and don’t like based on traffic to those areas. We do not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for you.
 
