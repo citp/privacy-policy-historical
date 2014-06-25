@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apply-4-jobs.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214144951id_/http%3A//www.apply-4-jobs.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apply-4-jobs.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625070222id_/http%3A//apply-4-jobs.com/privacy_policy) for the most accurate reproduction.*
 
 # Apply-4-Jobs - Your Path to a Better Job
 
@@ -19,7 +19,7 @@ Please read this entire Policy carefully before using this Site or providing us 
 If you have any questions about this Policy please contact us via e-mail at info@Apply-4-Jobs.com.
 
 Electronic:  
-To opt out and unsubscribe from e-mail communications, [click here](https://web.archive.org/unsubscribe)  
+To opt out and unsubscribe from e-mail communications, please send an email with "UNSUBSCRIBE" in the subject to info@apply-4-jobs.com  
 To cancel or correct your personal information: send an email with your User Name and the notice "My User Information" in the subject line to info@Apply-4-Jobs.com  
 To express or ask questions regarding privacy concerns: send an email to info@Apply-4-Jobs.com 
 
