@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shareme.com privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022144853id_/http%3A//shareme.com/privacypage.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shareme.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625104401id_/http%3A//shareme.com/privacypage.html) for the most accurate reproduction.*
 
 # Our Privacy Policy - Shareme.com respects your right to privacy
 
@@ -25,97 +25,140 @@
 
 ####  Top Downloads
 
-  * [KeyboardNavigation ](https://web.archive.org/details/keyboardnavigation.html)
+  * [Visual Fractal 1.6](https://web.archive.org/details/visual-fractal.html)
 
-Hit-a-hint equivalent for Chrome.
+With this interesting fractal software, you can...
 
-  * [Internet Download Manager ](https://web.archive.org/details/internet-download-manager.html)
+  * [TED Notepad 5.4.1](https://web.archive.org/details/ted-notepad.html)
 
-Internet Download Manager Free Download is now...
+Light-weight portable text editor with many...
 
-  * [Free WiFi Hotspot ](https://web.archive.org/details/free-wifi-hotspot.html)
+  * [BootRacer 4.6.1.360](https://web.archive.org/details/bootracer.html)
 
-Super easy solution to turn laptop or notebook...
+BootRacer Tests How Fast is your PC! It...
 
-  * [Quick Heal Virus Database 2013 ](https://web.archive.org/details/quick-heal-virus-database-2013.html)
+  * [Kaspersky Anti-Virus 2014](https://web.archive.org/details/kaspersky-anti-virus.html)
 
-Offers you the latest virus definitions you can...
+Kaspersky Anti-Virus is the backbone of your...
 
-  * [Euro Calculator ](https://web.archive.org/details/euro-calculator.html)
+  * [WinSesame 10.3](https://web.archive.org/details/winsesame.html)
 
-Euro Calculator is a calculator and currency...
+The most powerful encryption software to...
 
-  * [Photo to Cartoon ](https://web.archive.org/details/photo-to-cartoon.html)
+  * [Crave Accounting Pro 1.7.5](https://web.archive.org/details/crave-accounting-pro.html)
 
-Converts photographs into cartoons and...
+Crave Accounting software is an easy to use...
 
-  * [pixprofit software, pixprofit captcha ](https://web.archive.org/details/pixprofit-software--pixprofit-captcha.html)
+  * [Money Manager Ex 0.9.9.0](https://web.archive.org/details/money-manager-ex.html)
 
-the best pixprofit software,the genuine version...
+Money Manager Ex is a free, open-source,...
 
-  * [Free WiFi Router ](https://web.archive.org/details/free-wifi-router.html)
+  * [AgileTrack 0.7c 1.0](https://web.archive.org/details/agiletrack-0-7c.html)
 
-Create a hotspot to make your laptop into a...
+AgileTrack is an agile/extreme programming (XP)...
 
-  * [Aktiv Download Manager ](https://web.archive.org/details/aktiv-download-manager.html)
+  * [Pen Scanner Software Scanmarker 1.00](https://web.archive.org/details/pen-scanner-software-scanmarker.html)
 
-Aktiv Download Manager is a most needed tool...
+Pen scanner software by Scanmarker - Note...
 
-  * [In-Close ](https://web.archive.org/details/in-close.html)
+  * [Wise PC 1stAid 1.31](https://web.archive.org/details/wise-pc-1staid.html)
 
-In-Close is a fast Formal Concept miner for FCA...
+An intelligent freeware to fix common PC...
 
 
 
 
 ####  New Downloads
 
-  * [USB Network Gate 6.0](https://web.archive.org/details/usb-network-gate.html)
+  * [NGS Free CRM 1.1](https://web.archive.org/details/ngs-free-crm.html)
 
-USB Network Gate is the essential solution...
+Reflect Free CRM Customer Database Software...
 
-  * [CloudView NMS 1.06](https://web.archive.org/details/cloudview-nms.html)
+  * [dbExpress Driver for SQLite 3.4](https://web.archive.org/details/dbexpress-driver-for-sqlite.html)
 
-CloudView NMS is a standards-based network...
+dbExpress is a database-independent layer that...
 
-  * [Tanida Demo Builder 9.1.1.1](https://web.archive.org/details/tanida-demo-builder.html)
+  * [C-Organizer Lite 4.9.2](https://web.archive.org/details/c-organizer-lite.html)
 
-Demo Builder is a screen recorder software that...
+C-Organizer Lite is a personal information...
 
-  * [Eassos System Restore 1.2.2](https://web.archive.org/details/eassos-system-restore.html)
+  * [Audit File Access 14.05.01](https://web.archive.org/details/audit-file-access.html)
 
-Powerful system backup & restore software,...
+Download the free version of LepideAuditor for...
 
-  * [Joyfax Broadcast 7.40.1014](https://web.archive.org/details/joyfax-broadcast.html)
+  * [Review Assistant 2.5](https://web.archive.org/details/review-assistant.html)
 
-A personalized faxing software can reach...
+Review Assistant is a peer code review tool...
 
-  * [MySQL Data Access Components 8.1](https://web.archive.org/details/mysql-data-access-components.html)
+  * [File Access Auditing 14.05.01](https://web.archive.org/details/file-access-auditing.html)
 
-MyDAC (Data Access Components for MySQL) is an...
+File access auditing is not an easy task and it...
 
-  * [Free Driver Backup 9.4.7](https://web.archive.org/details/free-driver-backup.html)
+  * [PDF Stamp 6.8](https://web.archive.org/details/pdf-stamp.html)
 
-Free Driver Backup, a device driver backup...
+PDF Stamp is a perfect tool that lets you add...
 
-  * [Registry Optimizer Free 2.5.6.8](https://web.archive.org/details/registry-optimizer-free.html)
+  * [RationalPlan Project Server 4.8](https://web.archive.org/details/rationalplan-project-server.html)
 
-Registry Optimizer Free is quite robust in...
+RationalPlan Project Server is a project...
 
-  * [Surf Anonymous Free 2.3.3.2](https://web.archive.org/details/surf-anonymous-free.html)
+  * [Raise Data Recovery for NTFS 5.15](https://web.archive.org/details/raise-data-recovery-for-ntfs.html)
 
-Surf Anonymous Free, the ultimate Free online...
+Raise Data Recovery for NTFS is a powerful and...
 
-  * [JimIP Switcher 3.0.0](https://web.archive.org/details/jimip-switcher.html)
+  * [DiskSorter Server 6.4.32](https://web.archive.org/details/disksorter-server.html)
 
-JimIP Switcher is a FREE ip switcher, which...
+DiskSorter Server is a powerful, fast and...
 
 
 
 
 ####  Recent Searches
 
-[Ultr Surf Explorer](https://web.archive.org/programs/ultr/surf-explorer), [Dynamic Routing Linksys](https://web.archive.org/programs/dynamic/routing-linksys), [Samsung C3222 Theme](https://web.archive.org/programs/samsung/c3222-theme), [Doris Troy Guitar](https://web.archive.org/programs/doris/troy-guitar), [Op Wallpaper Ugly Windows 2000](https://web.archive.org/programs/op/wallpaper-ugly-windows-2000), [Radica Mega Byte](https://web.archive.org/programs/radica/mega-byte), [Thomson Lyra Pdp 2222 Driver](https://web.archive.org/programs/thomson/lyra-pdp-2222-driver), [Ps3 Boot Disk Usb](https://web.archive.org/programs/ps3/boot-disk-usb), [Symbian Nintendo Ds](https://web.archive.org/programs/symbian/nintendo-ds), [Mac Iphone Backup Viewer](https://web.archive.org/programs/mac/iphone-backup-viewer), [Manchesuer United](https://web.archive.org/programs/manchesuer/united), [Roma Downey Interview](https://web.archive.org/programs/roma/downey-interview), [Play Mp3 Files](https://web.archive.org/programs/play/mp3-files), [Lexmark 9500 Series Ocr](https://web.archive.org/programs/lexmark/9500-series-ocr), [Rm To Avi Vcd Svcd Dvd Converter](https://web.archive.org/programs/rm/to-avi-vcd-svcd-dvd-converter)
+[3d Max Software Free Download Full Version](https://web.archive.org/programs/3d/max-software-free-download-full-version), [Call Of Duty Modern Warfare 3](https://web.archive.org/programs/call/of-duty-modern-warfare-3), [Lost Contacts From Outlook](https://web.archive.org/programs/lost/contacts-from-outlook), [Icon Wave Audio Icons](https://web.archive.org/programs/icon/wave-audio-icons), [Silverlight Binary Image Viewer](https://web.archive.org/programs/silverlight/binary-image-viewer), [Icons Clean](https://web.archive.org/programs/icons/clean), [Battlefield Bc2 Full Version Download](https://web.archive.org/programs/battlefield/bc2-full-version-download), [Nortel Ip Softphone 2050 Mac Osc](https://web.archive.org/programs/nortel/ip-softphone-2050-mac-osc), [Interior Exterior Colors Home](https://web.archive.org/programs/interior/exterior-colors-home), [Unlocking Codes For Samsung Jet S8003 Mobile Games](https://web.archive.org/programs/unlocking/codes-for-samsung-jet-s8003-mobile-games), [Animated Blue Dragon](https://web.archive.org/programs/animated/blue-dragon), [Pokemon Center Nyc New York Ny](https://web.archive.org/programs/pokemon/center-nyc-new-york-ny), [Update Hp Ipaq 114 Pocket Pc](https://web.archive.org/programs/update/hp-ipaq-114-pocket-pc), [Access Repair V1 1](https://web.archive.org/programs/access/repair-v1-1), [Icon Tool Save](https://web.archive.org/programs/icon/tool-save)
+
+#### Latest Reviews
+
+  * [MD5 Tool ](https://web.archive.org/details/md5-tool.html)   (Milos)
+
+It's powerful utility to check md5 checksum for file verification. 
+
+  * [Money Manager Ex ](https://web.archive.org/details/money-manager-ex.html)   (Russel)
+
+Very powerful and easy to use app for tracking personal finance information. 
+
+  * [TED Notepad ](https://web.archive.org/details/ted-notepad.html)   (Ashok)
+
+Powerful notepad software, perfect tool for advance level editing. 
+
+  * [StarCode Lite ](https://web.archive.org/details/starcode-lite.html)   (Adnan)
+
+Runs very fast and very user friendly. 
+
+  * [PartitionGuru Free ](https://web.archive.org/details/partitionguru-free.html)   (Shaun)
+
+Partitionguru is very powerful software for doing various partition tasks. 
+
+  * [Genius Maker ](https://web.archive.org/details/genius-maker.html)   (Bob)
+
+Don't know why but some error showing at the middle of installation process and it won't install. 
+
+  * [AutoIt ](https://web.archive.org/details/autoit.html)   (Edward)
+
+Nice tool , easy to use for keystroke automation. 
+
+  * [Aspose.BarCode for Reporting Services ](https://web.archive.org/details/aspose-barcode-for-reporting-services.html)   (Amity)
+
+Powerful barcode image rendering software. 
+
+  * [Malwarebytes Anti-Malware ](https://web.archive.org/details/malwarebytes-anti-malware.html)   (Greig)
+
+Great malware remover tool, powerful and fast scan features complete protection from all kind of pc threats. 
+
+  * [EagleGet ](https://web.archive.org/details/eagleget.html)   (Ray)
+
+Great download manager that has a lot of functions yet it's really free to use. 
+
 
   
 | 
